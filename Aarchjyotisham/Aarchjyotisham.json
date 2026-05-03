@@ -8,147 +8,219 @@
       "shlokas": [
         {
           "number": 1,
-          "text": "आर्चज्योतिषम्\nपंचसंवत्सरमयं युगाध्यक्षं प्रजापतिम् ।\nदिनर्त्वयनमासांगं प्रणम्य शिरसा शुचिः"
+          "text": "आर्चज्योतिषम्\nपंचसंवत्सरमयं युगाध्यक्षं प्रजापतिम् ।\nदिनर्त्वयनमासांगं प्रणम्य शिरसा शुचिः",
+          "english_meaning": "Having bowed down with a pure mind to Prajapati, the lord of the Yuga consisting of five years, whose limbs are the days, seasons, half-years (Ayanas), and months.",
+          "hindi_meaning": "पांच संवत्सर (वर्षों) वाले युग के अधिपति प्रजापति, जिनके अंग दिन, ऋतु, अयन और मास हैं, उनको पवित्र भाव से सिर झुकाकर प्रणाम करते हुए।"
         },
         {
           "number": 2,
-          "text": "प्रणम्य शिरसा कालमभिवद्य सरस्वतीम् ।\nकालज्ञानं प्रवक्ष्यामि लगधस्य महात्मनः"
+          "text": "प्रणम्य शिरसा कालमभिवद्य सरस्वतीम् ।\nकालज्ञानं प्रवक्ष्यामि लगधस्य महात्मनः",
+          "english_meaning": "Bowing my head to Time (Kala) and offering salutations to Goddess Saraswati, I shall now declare the knowledge of Time as propounded by the great sage Lagadha.",
+          "hindi_meaning": "काल (समय) को सिर झुकाकर प्रणाम कर और देवी सरस्वती की वंदना करके, मैं महात्मा लगध द्वारा बताए गए कालज्ञान (समय के विज्ञान) का क्रमशः वर्णन करूँगा।"
         },
         {
           "number": 3,
-          "text": "ज्योतिषामयनं पुण्यं प्रवक्ष्याम्यनुपूर्वशः ।\nविप्राणां सम्मतं लोके यज्ञकालार्थ सिद्धये"
+          "text": "ज्योतिषामयनं पुण्यं प्रवक्ष्याम्यनुपूर्वशः ।\nविप्राणां सम्मतं लोके यज्ञकालार्थ सिद्धये",
+          "english_meaning": "I shall sequentially explain the sacred movements of the luminaries (astronomy), which are approved by the learned Brahmanas in the world, for the purpose of determining the correct time for performing Yajnas (sacrifices).",
+          "hindi_meaning": "यज्ञों के उचित समय को सिद्ध (निश्चित) करने के लिए, मैं लोकों में विद्वान ब्राह्मणों द्वारा सम्मत, ज्योतिषी पिंडों (ग्रहों और नक्षत्रों) की पवित्र गति का क्रमशः वर्णन करूँगा।"
         },
         {
           "number": 4,
-          "text": "निरेकं द्वादशाभ्यस्तं द्विगुणं गतसंज्ञिकम् ।\nषष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिरुच्यते"
+          "text": "निरेकं द्वादशाभ्यस्तं द्विगुणं गतसंज्ञिकम् ।\nषष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिरुच्यते",
+          "english_meaning": "The quantity of passed Parvans (syzygies/fortnights) is calculated as follows: subtract one from the current year, multiply by twelve, double it, and add two for every sixty parts; this is called the collection of Parvans.",
+          "hindi_meaning": "व्यतीत हुए पर्वों (पक्षों) की कुल संख्या इस प्रकार जानी जाती है: वर्तमान वर्ष में से एक घटाकर उसे बारह से गुणा करें, फिर दुगुना करें, और साठ से भाग देकर जो लब्ध हो उसमें दो जोड़ दें; इसे पर्वों की राशि कहा जाता है।"
         },
         {
           "number": 5,
-          "text": "स्वराक्रमेते सोमार्कौ यदा साकं सवासवौ ।\nस्यात्तदादियुगं माघस्तपः शुक्लोऽयनं ह्युदक्"
+          "text": "स्वराक्रमेते सोमार्कौ यदा साकं सवासवौ ।\nस्यात्तदादियुगं माघस्तपः शुक्लोऽयनं ह्युदक्",
+          "english_meaning": "When the Sun and the Moon arrive together at the beginning of the Dhanistha nakshatra, then begins the Yuga, the month of Magha, the season of Tapas (winter), the bright fortnight, and the Northern course (Udak Ayana).",
+          "hindi_meaning": "जब सूर्य और चंद्रमा एक साथ श्रविष्ठा (धनिष्ठा) नक्षत्र के आरंभ में प्रवेश करते हैं, तब युग का आरंभ, माघ मास, तपस (शिशिर) ऋतु, शुक्ल पक्ष और उत्तरायण (सूर्य की उत्तर गति) प्रारंभ होता है।"
         },
         {
           "number": 6,
-          "text": "प्रपद्यते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् ।\nसार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा"
+          "text": "प्रपद्यते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् ।\nसार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा",
+          "english_meaning": "The Sun and the Moon begin their Northern course (Udak Ayana) at the beginning of Dhanistha; the Sun begins its Southern course (Dakshinayana) at the exact middle of Ashlesha. This always happens in the months of Magha and Shravana respectively.",
+          "hindi_meaning": "सूर्य और चंद्रमा श्रविष्ठा (धनिष्ठा) के प्रारंभ में उत्तरायण में प्रवेश करते हैं, और सूर्य आश्लेषा नक्षत्र के मध्य में दक्षिणायन में प्रवेश करता है। यह क्रमशः माघ और श्रावण महीनों में हमेशा होता है।"
         },
         {
           "number": 7,
-          "text": "धर्मवृद्धिरपां प्रस्थः क्षपाह्रास उदग्गतौ ।\nदक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु"
+          "text": "धर्मवृद्धिरपां प्रस्थः क्षपाह्रास उदग्गतौ ।\nदक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु",
+          "english_meaning": "During the Northern course (Udak Ayana), there is an increase of daylight and a decrease of night by one Prastha of water (clepsydra measure); during the Southern course, the reverse occurs. The total change over an Ayana is six Muhurtas.",
+          "hindi_meaning": "उत्तरायण के दौरान दिन की वृद्धि और रात का क्षय होता है (एक प्रस्थ जल के माप के बराबर); दक्षिणायन में इसके विपरीत होता है। एक अयन में यह कुल अंतर छह मुहूर्त का होता है।"
         },
         {
           "number": 8,
-          "text": "द्विगुणं सप्तमं चाहुरयनाद्यं त्रयोदश ।\nचतुर्थं दशमं चैव द्विर्युग्मं बहुलेप्यृतौ"
+          "text": "द्विगुणं सप्तमं चाहुरयनाद्यं त्रयोदश ।\nचतुर्थं दशमं चैव द्विर्युग्मं बहुलेप्यृतौ",
+          "english_meaning": "The beginnings of the Ayanas (solstices) occur at twice the seventh (i.e., 14th), the 4th, 10th, twice the twin (i.e., 4th?), etc. in the seasons.",
+          "hindi_meaning": "अयन (सूर्य की गति) का आरंभ ऋतुओं में क्रमशः बताया गया है।"
         },
         {
           "number": 9,
-          "text": "वसुस्त्वष्टा भवोऽजश्च मित्रः सर्पोऽश्विनौ जलम् ।\nधाता कश्चायनाद्याः स्युरर्धपंचमभस्त्वृतुः"
+          "text": "वसुस्त्वष्टा भवोऽजश्च मित्रः सर्पोऽश्विनौ जलम् ।\nधाता कश्चायनाद्याः स्युरर्धपंचमभस्त्वृतुः",
+          "english_meaning": "The presiding deities of the Nakshatras at the beginnings of the Ayanas are Vasu (Dhanistha), Tvashtri (Chitra), Bhava (Ardra), Aja (Purva Bhadrapada), Mitra (Anuradha), Sarpa (Ashlesha), Ashvins (Ashvini), Jala (Purvashadha), Dhata (Rohini) and Ka (Shatabhisha). A season consists of four and a half Nakshatras.",
+          "hindi_meaning": "अयनों के प्रारंभ में नक्षत्रों के देवता क्रमशः वसु, त्वष्टा, भव, अज, मित्र, सर्प, अश्विनी, जल, धाता और क (प्रजापति) हैं। एक ऋतु साढ़े चार नक्षत्रों की होती है।"
         },
         {
           "number": 10,
-          "text": "भांशाः स्युरष्टकाः कार्याः पक्षा द्वादशकोद्गताः ।\nएकादशगुणश्चोनः शुक्लेऽर्धं चैन्दवा यदि"
+          "text": "भांशाः स्युरष्टकाः कार्याः पक्षा द्वादशकोद्गताः ।\nएकादशगुणश्चोनः शुक्लेऽर्धं चैन्दवा यदि",
+          "english_meaning": "The divisions of a Nakshatra (Bhamshas) should be made into eight. The Parvans (fortnights) elapsed in a Yuga are multiplied by 11. If it is a bright fortnight, subtract half...",
+          "hindi_meaning": "नक्षत्र के अंश (भांश) आठ भागों में किए जाने चाहिए। व्यतीत पक्षों (पर्वों) को 11 से गुणा किया जाता है..."
         },
         {
           "number": 11,
-          "text": "कार्या भांशाष्टकास्थाने कला एकान्नविंशतिः ।\nउनस्थाने त्रिसप्ततिमुद्ववपेदूनसम्मिताः"
+          "text": "कार्या भांशाष्टकास्थाने कला एकान्नविंशतिः ।\nउनस्थाने त्रिसप्ततिमुद्ववपेदूनसम्मिताः",
+          "english_meaning": "In place of the eight divisions of a Nakshatra, nineteen Kalas should be used. In place of the subtracted part, seventy-three should be added...",
+          "hindi_meaning": "नक्षत्र के आठ अंशों के स्थान पर उन्नीस कलाओं का प्रयोग किया जाना चाहिए।"
         },
         {
           "number": 12,
-          "text": "त्र्यंशो भशेषो दिवसांशभागश्चतुर्दशस्याप्यपनीय भिन्नम् ।\nभार्धेऽधिके चाधिगते परेंऽशेद्यावुक्तमेकं नवकैर्भवेद्यः"
+          "text": "त्र्यंशो भशेषो दिवसांशभागश्चतुर्दशस्याप्यपनीय भिन्नम् ।\nभार्धेऽधिके चाधिगते परेंऽशेद्यावुक्तमेकं नवकैर्भवेद्यः",
+          "english_meaning": "The remainder of the Nakshatra, reduced by a third, is the part of the day. Having subtracted it from the fourteenth part...",
+          "hindi_meaning": "नक्षत्र का शेष भाग, तिहाई कम करने पर, दिन का भाग होता है।"
         },
         {
           "number": 13,
-          "text": "पक्षात्पंचदशाच्चोर्ध्वं तद्भुक्तमिति निर्दिशेत् ।\nनवभिस्तूद्गतोंऽशः स्यादूनांशद्वयधिकेन तु"
+          "text": "पक्षात्पंचदशाच्चोर्ध्वं तद्भुक्तमिति निर्दिशेत् ।\nनवभिस्तूद्गतोंऽशः स्यादूनांशद्वयधिकेन तु",
+          "english_meaning": "After the fifteenth Parvan (fortnight), it should be directed as having been traversed. By nine, the risen part is obtained...",
+          "hindi_meaning": "पंद्रहवें पर्व (पक्ष) के बाद, इसे व्यतीत हुआ माना जाना चाहिए।"
         },
         {
           "number": 14,
-          "text": "जौ द्रा गः खे श्वे ही रो षा श्चिन्मूषक्ण्यः सूमाधाणः ।\nरे मृ घाः स्वापोजः कृष्यो ह ज्येष्ठा इत्यृक्षा लिंगैः"
+          "text": "जौ द्रा गः खे श्वे ही रो षा श्चिन्मूषक्ण्यः सूमाधाणः ।\nरे मृ घाः स्वापोजः कृष्यो ह ज्येष्ठा इत्यृक्षा लिंगैः",
+          "english_meaning": "Jau, Dra, Gah, Khe, Shve, Hi, Ro, Sha, Chin, Mu, Shak, Nyah, Su, Ma, Dha, Nah, Re, Mri, Ghah, Sva, Po, Jah, Kri, Shyo, Ha, Jyeshtha are the 27 Nakshatras identified by their indicator syllables.",
+          "hindi_meaning": "जौ, द्रा, गः, खे, श्वे, ही, रो, षा, चिन्, मू, षक्, ण्यः, सू, मा, धा, णः, रे, मृ, घाः, स्वा, पो, जः, कृ, ष्यों, ह, ज्येष्ठा - ये २७ नक्षत्रों के सांकेतिक अक्षर हैं।"
         },
         {
           "number": 15,
-          "text": "जावाद्यशैः समं विद्यात् पूर्वार्धे पर्व सूत्तरे ।\nभादानं स्याच्चतुर्दश्यां काष्ठानां देविना कलाः"
+          "text": "जावाद्यशैः समं विद्यात् पूर्वार्धे पर्व सूत्तरे ।\nभादानं स्याच्चतुर्दश्यां काष्ठानां देविना कलाः",
+          "english_meaning": "It should be known equally by the parts beginning with Jau in the first half, and in the second half. The collection of Nakshatras occurs on the fourteenth, the Kalas of the days...",
+          "hindi_meaning": "इसे प्रथमार्ध में 'जौ' से प्रारंभ होने वाले अंशों द्वारा समान रूप से जानना चाहिए।"
         },
         {
           "number": 16,
-          "text": "कला दश सविंशा स्याद् द्वे मुहुर्तस्य नाडिके ।\nद्युस्त्रिंशंत् तत्कलानां तु षट्शती त्र्यधिका भवेत्"
+          "text": "कला दश सविंशा स्याद् द्वे मुहुर्तस्य नाडिके ।\nद्युस्त्रिंशंत् तत्कलानां तु षट्शती त्र्यधिका भवेत्",
+          "english_meaning": "A Kala is ten plus twenty (i.e., 30?). Two Nadikas make a Muhurta. A day consists of thirty Muhurtas, and its Kalas are six hundred and three (603).",
+          "hindi_meaning": "दो नाड़िका का एक मुहूर्त होता है। एक दिन (अहोरात्र) में तीस मुहूर्त होते हैं, और इसकी कुल कलाएं छह सौ तीन (603) होती हैं।"
         },
         {
           "number": 17,
-          "text": "नाडिके द्वे मुहुर्तस्तु पंचाशत्पलमाढकम् ।\nआढाकात्कुम्भाकोद्रोणः कुटपैर्वर्धते त्रिभिः"
+          "text": "नाडिके द्वे मुहुर्तस्तु पंचाशत्पलमाढकम् ।\nआढाकात्कुम्भाकोद्रोणः कुटपैर्वर्धते त्रिभिः",
+          "english_meaning": "Two Nadikas make a Muhurta. Fifty Palas make an Adhaka. From an Adhaka comes a Drona of a Kumbha, which increases by three Kutapas.",
+          "hindi_meaning": "दो नाड़िका का एक मुहूर्त होता है। पचास पल का एक आढक होता है। एक आढक से कुंभ का द्रोण बनता है, जो तीन कुटप से बढ़ता है।"
         },
         {
           "number": 18,
-          "text": "ससप्तकं भयुक् सोमः सूर्यो द्यूनि त्रयोदश ।\nनवमानि च पंचाह्नः काष्ठाः पंचाक्षरा भवेत्"
+          "text": "ससप्तकं भयुक् सोमः सूर्यो द्यूनि त्रयोदश ।\nनवमानि च पंचाह्नः काष्ठाः पंचाक्षरा भवेत्",
+          "english_meaning": "With seven added, the Moon is joined with a Nakshatra. The Sun is in thirteen days. The ninth parts are five days; the Kashthas are of five syllables.",
+          "hindi_meaning": "सात जोड़ने पर चंद्रमा नक्षत्र से युक्त होता है। सूर्य तेरह दिनों में होता है। नौवें भाग पाँच दिन के होते हैं।"
         },
         {
           "number": 19,
-          "text": "श्रविष्ठाभ्यो गणाभ्यस्तान् प्राग्विलग्नान् विनिर्दिशेत् ।\nस्तर्यान् मासान् षडभ्यस्तान् विद्याच्चान्द्रमसानृतून"
+          "text": "श्रविष्ठाभ्यो गणाभ्यस्तान् प्राग्विलग्नान् विनिर्दिशेत् ।\nस्तर्यान् मासान् षडभ्यस्तान् विद्याच्चान्द्रमसानृतून",
+          "english_meaning": "Beginning from Dhanistha, multiplied by the groups, one should indicate the rising points in the east. The months, multiplied by six, should be known as the lunar seasons.",
+          "hindi_meaning": "धनिष्ठा से आरंभ करके, गणों से गुणा कर, पूर्व में उदित होने वाले लग्नों को बताना चाहिए। महीनों को छह से गुणा करने पर चंद्र ऋतुएं जाननी चाहिए।"
         },
         {
           "number": 20,
-          "text": "अतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् ।\nतेषु मंडलभागेषु तिथिनिष्ठांगतो रविः"
+          "text": "अतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् ।\nतेषु मंडलभागेषु तिथिनिष्ठांगतो रविः",
+          "english_meaning": "From the parts of the passed Parvans, one should subtract twice the Tithi. In those parts of the circle, the Sun is situated at the end of the Tithi.",
+          "hindi_meaning": "व्यतीत पर्वों (पक्षों) के भागों में से तिथि के दुगुने को घटाना चाहिए। मंडल के उन भागों में, सूर्य तिथि के अंत में स्थित होता है।"
         },
         {
           "number": 21,
-          "text": "याः पर्वाभादानकलास्तासु सप्तगुणां तिथिम् ।\nपक्षिपेत्तत् समूहस्तु विद्यादादानिकाः कलाः"
+          "text": "याः पर्वाभादानकलास्तासु सप्तगुणां तिथिम् ।\nपक्षिपेत्तत् समूहस्तु विद्यादादानिकाः कलाः",
+          "english_meaning": "Those Kalas of the Nakshatras of the Parvans, in them the Tithi multiplied by seven should be thrown (added). That aggregate should be known as the assigned Kalas.",
+          "hindi_meaning": "पर्वों के नक्षत्रों की जो कलाएं हैं, उनमें सात से गुणा की गई तिथि को जोड़ देना चाहिए। उस समूह को आदाानिका कलाएं जानना चाहिए।"
         },
         {
           "number": 22,
-          "text": "यदुत्तरस्यायनतो गतं स्याच् छेषं तथा दक्षिणतोऽयनस्य ।\nतदेकषष्ट्याद्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम्"
+          "text": "यदुत्तरस्यायनतो गतं स्याच् छेषं तथा दक्षिणतोऽयनस्य ।\nतदेकषष्ट्याद्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम्",
+          "english_meaning": "Whatever has passed from the Northern Ayana, and similarly the remainder of the Southern Ayana, that doubled and divided by sixty-one, combined with twelve, is the measure of the day.",
+          "hindi_meaning": "उत्तरायण से जो व्यतीत हो गया है, और इसी प्रकार दक्षिणायन का जो शेष है, उसे दुगुना करके इकसठ से भाग देने पर, और बारह के साथ जोड़ने पर, दिन का प्रमाण (लंबाई) प्राप्त होता है।"
         },
         {
           "number": 23,
-          "text": "यदर्धं दिनभागानां सदा पर्वणि पर्वणि ।\nॠतुशेषं तु तद् विद्यात् संख्याय सह पर्वणाम्"
+          "text": "यदर्धं दिनभागानां सदा पर्वणि पर्वणि ।\nॠतुशेषं तु तद् विद्यात् संख्याय सह पर्वणाम्",
+          "english_meaning": "Whatever is half of the day-parts, always on every Parvan, one should know that as the remainder of the season, after counting along with the Parvans.",
+          "hindi_meaning": "दिन के भागों का जो भी आधा हिस्सा है, हमेशा प्रत्येक पर्व पर, पर्वों के साथ गिनने के बाद उसे ऋतु का शेष जानना चाहिए।"
         },
         {
           "number": 24,
-          "text": "इत्युपायसमुद्देशो भूयोप्यह्नः प्रकल्पयेत् ।\nज्ञेयराशिं गताभ्यस्तं विभजेज्ज्ञानराशिना"
+          "text": "इत्युपायसमुद्देशो भूयोप्यह्नः प्रकल्पयेत् ।\nज्ञेयराशिं गताभ्यस्तं विभजेज्ज्ञानराशिना",
+          "english_meaning": "Thus is the statement of the method. One should again imagine it for the day. The known quantity, multiplied by the passed, should be divided by the quantity of knowledge.",
+          "hindi_meaning": "इस प्रकार विधि का उपदेश है। दिन के लिए भी इसी प्रकार गणना करनी चाहिए। ज्ञात राशि को व्यतीत से गुणा कर, ज्ञान राशि से भाग देना चाहिए।"
         },
         {
           "number": 25,
-          "text": "अग्निः प्रजापतिः सोमो रुद्रोदितिबृहस्पती ।\nसर्पाश्च पितरश्चैव भगश्चैवार्यमापि च"
+          "text": "अग्निः प्रजापतिः सोमो रुद्रोदितिबृहस्पती ।\nसर्पाश्च पितरश्चैव भगश्चैवार्यमापि च",
+          "english_meaning": "Agni, Prajapati, Soma, Rudra, Aditi, Brihaspati, the Sarpas (Serpents), the Pitris (Ancestors), Bhaga, and Aryaman.",
+          "hindi_meaning": "अग्नि (कृत्तिका), प्रजापति (रोहिणी), सोम (मृगशीर्ष), रुद्र (आर्द्रा), अदिति (पुनर्वसु), बृहस्पति (पुष्य), सर्प (आश्लेषा), पितर (मघा), भग (पूर्वा फाल्गुनी), और अर्यमा (उत्तरा फाल्गुनी)।"
         },
         {
           "number": 26,
-          "text": "सविता त्वष्टाथ वायुश्चेन्द्राग्नी मित्र एव च ।\nइन्द्रो निॠतिरापो वै विश्वेदेवास्तथैव च"
+          "text": "सविता त्वष्टाथ वायुश्चेन्द्राग्नी मित्र एव च ।\nइन्द्रो निॠतिरापो वै विश्वेदेवास्तथैव च",
+          "english_meaning": "Savita, Tvashtri, Vayu, Indra-Agni, Mitra, Indra, Nirriti, Apah (Water), and the Vishvedevas.",
+          "hindi_meaning": "सविता (हस्त), त्वष्टा (चित्रा), वायु (स्वाति), इन्द्राग्नी (विशाखा), मित्र (अनुराधा), इन्द्र (ज्येष्ठा), निर्ऋति (मूल), आपः (पूर्वाषाढ़ा), और विश्वेदेवा (उत्तराषाढ़ा)।"
         },
         {
           "number": 27,
-          "text": "विष्णुर्वसवो वरुणूऽजेकपात् तथैव च ।\nअहिर्बुध्न्यस्तथा पूषा अश्विनौ यम एव च"
+          "text": "विष्णुर्वसवो वरुणूऽजेकपात् तथैव च ।\nअहिर्बुध्न्यस्तथा पूषा अश्विनौ यम एव च",
+          "english_meaning": "Vishnu, the Vasus, Varuna, Aja Ekapad, Ahirbudhnya, Pushan, the Ashvins, and Yama.",
+          "hindi_meaning": "विष्णु (श्रवण), वसु (धनिष्ठा), वरुण (शतभिषा), अजैकपात् (पूर्वा भाद्रपद), अहिर्बुध्न्य (उत्तरा भाद्रपद), पूषा (रेवती), अश्विनी (अश्विनी), और यम (भरणी)।"
         },
         {
           "number": 28,
-          "text": "नक्षत्रदेवता एता एताभिर्यज्ञकर्मणि ।\nयजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम्"
+          "text": "नक्षत्रदेवता एता एताभिर्यज्ञकर्मणि ।\nयजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम्",
+          "english_meaning": "These are the presiding deities of the Nakshatras. With these, in the performance of Yajna (sacrifice), the name derived from the Nakshatra of the sacrificer is remembered by those who know the Shastras.",
+          "hindi_meaning": "ये नक्षत्रों के अधिष्ठाता देवता हैं। यज्ञ के कार्यों में, शास्त्रों के ज्ञाताओं द्वारा यजमान का नक्षत्र-आधारित नाम इन्हीं के अनुसार स्मरण किया जाता है।"
         },
         {
           "number": 29,
-          "text": "इत्येवं मासवर्षाणां मुहुर्तोदयपर्वणाम् ।\nदिनर्त्वयनमासांगं व्याख्यानं लगधोऽब्रवीत्"
+          "text": "इत्येवं मासवर्षाणां मुहुर्तोदयपर्वणाम् ।\nदिनर्त्वयनमासांगं व्याख्यानं लगधोऽब्रवीत्",
+          "english_meaning": "Thus, the explanation of the months, years, Muhurtas, risings, Parvans, days, seasons, Ayanas, and parts of the months was spoken by Lagadha.",
+          "hindi_meaning": "इस प्रकार, महीनों, वर्षों, मुहूर्तों, उदय, पर्वों, दिनों, ऋतुओं, अयनों और महीनों के अंगों की व्याख्या महात्मा लगध द्वारा बताई गई है।"
         },
         {
           "number": 30,
-          "text": "सोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते ।\nसोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम्"
+          "text": "सोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते ।\nसोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम्",
+          "english_meaning": "The wise man who knows the movements of the Moon and the Sun, attains the Vedas, the worlds traversed by the Moon and the Sun, and respect in the world.",
+          "hindi_meaning": "जो विद्वान सूर्य और चंद्रमा की गति (ज्योतिष) को जानता है, वह वेदों के ज्ञान, सूर्य-चंद्र द्वारा विचरित लोकों और संसार में सम्मान को प्राप्त करता है।"
         },
         {
           "number": 31,
-          "text": "विषुवं तद्गुणं द्वाभ्यां रूपहीनं तु षड्गुणम् ।\nयल्लब्धं तानि पर्वाणि तथार्धं सा तिथिर्भवेत्"
+          "text": "विषुवं तद्गुणं द्वाभ्यां रूपहीनं तु षड्गुणम् ।\nयल्लब्धं तानि पर्वाणि तथार्धं सा तिथिर्भवेत्",
+          "english_meaning": "The equinox: multiplied by two, decreased by one, and multiplied by six. What is obtained are the Parvans; and half of that would be the Tithi.",
+          "hindi_meaning": "विषुव (दिन-रात बराबर होने का समय): उसे दो से गुणा कर, एक घटाकर और छह से गुणा करें। जो प्राप्त होता है वे पर्व हैं; और उसका आधा तिथि होगी।"
         },
         {
           "number": 32,
-          "text": "माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः ।\nयुगस्य पंचवर्षस्य कालज्ञानं प्रचक्षते"
+          "text": "माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः ।\nयुगस्य पंचवर्षस्य कालज्ञानं प्रचक्षते",
+          "english_meaning": "Beginning with the bright fortnight of Magha and ending with the dark fortnight of Pausha, this is declared as the knowledge of time for a Yuga of five years.",
+          "hindi_meaning": "माघ के शुक्ल पक्ष से आरंभ होकर पौष के कृष्ण पक्ष पर समाप्त होने वाले, पाँच वर्षों के युग का यह कालज्ञान (समय का विज्ञान) कहा गया है।"
         },
         {
           "number": 33,
-          "text": "तृतीयां नवमीं चैव पौर्णमासीमथासिते ।\nषष्ठि च विषुवान् प्रोक्तो द्वादशीं च समं भवेत्"
+          "text": "तृतीयां नवमीं चैव पौर्णमासीमथासिते ।\nषष्ठि च विषुवान् प्रोक्तो द्वादशीं च समं भवेत्",
+          "english_meaning": "The third, the ninth, and the fifteenth (full moon); and in the dark fortnight, the sixth is said to be the equinox, and the twelfth would be equal.",
+          "hindi_meaning": "तृतीया, नवमी और पूर्णिमा (शुक्ल पक्ष में); तथा कृष्ण पक्ष में षष्ठी को विषुव कहा गया है, और द्वादशी समान होगी।"
         },
         {
           "number": 34,
-          "text": "चतुर्दशीमुपवसथस्तथा भवेद्यथोदितो दिवसमुपैति चन्द्रमाः ।\nमघशुक्लाह्निको भुङ्क्ते श्रविष्ठायां च वार्षिकीम्"
+          "text": "चतुर्दशीमुपवसथस्तथा भवेद्यथोदितो दिवसमुपैति चन्द्रमाः ।\nमघशुक्लाह्निको भुङ्क्ते श्रविष्ठायां च वार्षिकीम्",
+          "english_meaning": "The fourteenth is the fasting day, so it happens as the Moon approaches the day as risen. The daytime offering of the bright half of Magha, and the annual one in Dhanistha.",
+          "hindi_meaning": "चतुर्दशी उपवास का दिन है। माघ शुक्ल की आह्निकी (दैनिक आहुति) और श्रविष्ठा (धनिष्ठा) में वार्षिकी (वार्षिक आहुति) का विधान है।"
         },
         {
           "number": 35,
-          "text": "यथा शिखा मयूराणां नागानां मणयो यथा ।\nतद्वद्वेदांगशास्त्राणां ज्यौतिषं मूर्धानि स्थितम्"
+          "text": "यथा शिखा मयूराणां नागानां मणयो यथा ।\nतद्वद्वेदांगशास्त्राणां ज्यौतिषं मूर्धानि स्थितम्",
+          "english_meaning": "Just as the crests on the heads of peacocks, and the gems on the hoods of serpents, similarly, Jyotisha (Astronomy/Astrology) stands at the head (highest position) among the Vedangas (limbs of the Vedas) and Shastras.",
+          "hindi_meaning": "जिस प्रकार मोरों के सिर पर शिखा (कलगी) और नागों के फन पर मणियाँ सुशोभित होती हैं, उसी प्रकार वेदांगों और शास्त्रों में ज्योतिष शास्त्र का स्थान सर्वोपरि (शीर्ष पर) है।"
         },
         {
           "number": 36,
-          "text": "वेद हि यज्ञार्थमभिप्रवृत्ताः कालानुपूर्व्या विहिताश्च यज्ञाः ।\nतस्मादिदं कालविधानशास्त्रं यो ज्योतिषं वेद स वेद यज्ञान्"
+          "text": "वेद हि यज्ञार्थमभिप्रवृत्ताः कालानुपूर्व्या विहिताश्च यज्ञाः ।\nतस्मादिदं कालविधानशास्त्रं यो ज्योतिषं वेद स वेद यज्ञान्",
+          "english_meaning": "The Vedas are primarily intended for the performance of sacrifices, and sacrifices are prescribed according to the sequence of time. Therefore, he who knows Jyotisha, the science of time determination, truly knows the sacrifices.",
+          "hindi_meaning": "वेद मुख्य रूप से यज्ञों के लिए प्रवृत्त हुए हैं, और यज्ञ समय के अनुक्रम के अनुसार विहित हैं। इसलिए, जो इस काल-विधान शास्त्र (ज्योतिष) को जानता है, वही वास्तव में यज्ञों को जानता है।"
         }
       ]
     }
