@@ -1,0 +1,1398 @@
+{
+  "source": "BPHS1120.md",
+  "header": "बृहत्पाराशरहोराशास्त्रम् ११-२०",
+  "chapters": [
+    {
+      "number": 11,
+      "title": "अथ भावविवेकाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "अरिष्टं तत्प्रभङ्गं च श्रुतं त्वत्तो मया मुने ।\nकस्माद् भावात् फलं किं किं विचार्यमिति मे वद",
+          "english_meaning": "O Sage! I have heard from you about evils and their cancellation. Now, please tell me which results are to be judged from which houses (Bhavas).",
+          "hindi_meaning": "हे मुने! मैंने आपसे अरिष्टों और उनके भंग होने के बारे में सुना है। अब आप कृपा कर मुझे यह बताइये कि किस भाव से किन फलों का विचार करना चाहिए।"
+        },
+        {
+          "number": 2,
+          "text": "देहं रूपं च ज्ञानं च वर्णं चैव बलाबलम् ।\nसुखं दुःखं स्वभावञ्च लग्नभावान्निरीक्षयेत्",
+          "english_meaning": "One should examine the body, appearance, knowledge, complexion, strength and weakness, happiness, sorrow, and nature from the Lagna Bhava (1st House).",
+          "hindi_meaning": "शरीर, रूप, ज्ञान, वर्ण (रंग), बल और अबल, सुख, दुःख तथा स्वभाव का विचार लग्न भाव (प्रथम भाव) से करना चाहिए।"
+        },
+        {
+          "number": 3,
+          "text": "धनधान्यं कुटुम्बांश्च मृत्युजालममित्रकम् ।\nधातुरत्नादिकं सर्वं धनस्थानान्निरीक्षयेत्",
+          "english_meaning": "Wealth, grains, family members, traps of death, enemies, minerals, gems, etc., should all be judged from the Dhana Bhava (2nd House).",
+          "hindi_meaning": "धन, धान्य, कुटुम्ब, मृत्यु का जाल, शत्रु, धातु, रत्न आदि सभी का विचार धन भाव (द्वितीय भाव) से करना चाहिए।"
+        },
+        {
+          "number": 4,
+          "text": "विक्रमं भृत्यभ्रात्रादि चोपदेशप्रयाणकम् ।\nपित्रोर्वै मरणं विज्ञो दुश्चिक्याच्च निरीक्षयेत्",
+          "english_meaning": "Valor, servants, brothers, etc., advice, and travels should be judged from the 3rd House. The wise should also examine the death of parents from this house (Duschikya).",
+          "hindi_meaning": "पराक्रम, सेवक, भाई आदि, उपदेश और यात्रा का विचार तृतीय भाव से करना चाहिए। विद्वान पुरुष को माता-पिता की मृत्यु का विचार भी इसी भाव (दुश्चिक्य) से करना चाहिए।"
+        },
+        {
+          "number": 5,
+          "text": "वाहनान्यथ बन्धूंश्च मातृसौख्यादिकान्यपि ।\nनिधि क्षेत्रं गृहं चापि चतुर्थात् परिचिन्तयेत्",
+          "english_meaning": "Vehicles, relatives, mother's happiness, hidden treasures, lands, and houses should be reflected upon from the 4th House.",
+          "hindi_meaning": "वाहन, बन्धु-बान्धव, माता का सुख, निधि (खजाना), भूमि और गृह का विचार चतुर्थ भाव से करना चाहिए।"
+        },
+        {
+          "number": 6,
+          "text": "यन्त्रमन्त्रौ तथा विद्यां बुद्धेश्चैव प्रबन्धकम् ।\nपुत्रराज्यापभ्रांशादीन् पश्येत् पुत्रालयाद् बुधः",
+          "english_meaning": "Yantra, Mantra, knowledge, management of intelligence, sons, and fall from royal power should be seen from the Putra Bhava (5th House) by the wise.",
+          "hindi_meaning": "यन्त्र, मन्त्र, विद्या, बुद्धि का प्रबन्ध, पुत्र और राज्य से पतन आदि का विचार विद्वान को पुत्र भाव (पंचम भाव) से करना चाहिए।"
+        },
+        {
+          "number": 7,
+          "text": "मातुलान्तकशङ्कानां शत्रूंश्चैव व्रणादिकान् ।\nसपत्नीमातरं चापि षष्ठभावान्निरीक्षयेत्",
+          "english_meaning": "Maternal uncle, doubts about end (death), enemies, wounds (ulcers), and step-mother should be examined from the 6th House.",
+          "hindi_meaning": "मामा, मृत्यु की आशंका, शत्रु, घाव (व्रण) और सौतेली माता का विचार षष्ठ भाव से करना चाहिए।"
+        },
+        {
+          "number": 8,
+          "text": "जायामध्वप्रयाणं च वाणिज्यं नष्टवीक्षणम् ।\nमरणं च स्वदेहस्य जायाभावान्निरीक्षयेत्",
+          "english_meaning": "Wife, travels on paths, commerce, looking for lost things, and the death of one's own body should be examined from the Jaya Bhava (7th House).",
+          "hindi_meaning": "पत्नी, यात्रा, व्यापार, खोई हुई वस्तु का ज्ञान और अपने शरीर की मृत्यु का विचार जाया भाव (सप्तम भाव) से करना चाहिए।"
+        },
+        {
+          "number": 9,
+          "text": "आयु रणं रिपुं चापि दुर्गं मृतधनं तथा ।\nगत्यनुकादिकं सर्वं पश्येद्रन्ध्राद्विचक्षणः",
+          "english_meaning": "Longevity, debts, enemies, forts, money of the deceased, and all matters related to movement and following should be seen from the Randhra Bhava (8th House) by the expert.",
+          "hindi_meaning": "आयु, ऋण, शत्रु, दुर्ग (किले), मृत व्यक्ति का धन और गति-अनुगमन आदि का विचार विद्वान को रन्ध्र भाव (अष्टम भाव) से करना चाहिए।"
+        },
+        {
+          "number": 10,
+          "text": "भाग्यं श्यालं च धर्मं च भ्रातृपत्न्यादिकांस्तथा ।\nतीर्थयात्रादिकं सर्वं धर्मस्थानान्निरीक्षयेत्",
+          "english_meaning": "Fortune, brother-in-law (wife's brother), religion/duty, brother's wife, etc., and pilgrimage to holy places should all be examined from the Dharma Bhava (9th House).",
+          "hindi_meaning": "भाग्य, साला, धर्म, भाई की पत्नी आदि और तीर्थ यात्रा आदि सभी का विचार धर्म भाव (नवम भाव) से करना चाहिए।"
+        },
+        {
+          "number": 11,
+          "text": "राज्यं चाकाशंवृत्तिं च मानं चैव पितुस्तथा ।\nप्रवासस्य ऋणस्यापि व्योमस्थानान्निरीक्षणम्",
+          "english_meaning": "Kingdom (power), livelihood from the sky (divine), honor, father, travels abroad, and debts should be judged from the Vyoma Bhava (10th House).",
+          "hindi_meaning": "राज्य (अधिकार), आकाश-वृत्ति (दैवीय जीविका), मान-सम्मान, पिता, प्रवास (परदेश गमन) और ऋण का विचार व्योम भाव (दशम भाव) से करना चाहिए।"
+        },
+        {
+          "number": 12,
+          "text": "नानावस्तुभवस्यापि पुत्रजायादिकस्य च ।\nआयं वृद्धिं पशूनां च भवस्थानान्निरीक्षणम्",
+          "english_meaning": "Head, eyes, ears, nose, cheeks, jaw, and mouth are represented by the Lagna and other houses in the first Drekkana.",
+          "hindi_meaning": "प्रथम द्रेष्काण में लग्न आदि भावों से क्रमशः सिर, नेत्र, कान, नासिका, कपोल (गाल), ठोड़ी (हनु) और मुख का विचार करना चाहिए।"
+        },
+        {
+          "number": 13,
+          "text": "व्ययं च वैरिवृत्तान्तरिःफमन्त्यादिकं तथा ।\nव्ययाच्चैष हि ज्ञातव्यमिनि सर्वत्र धीमता",
+          "english_meaning": "In the middle Drekkana, neck, shoulders, arms, sides, heart, belly, and navel are represented.",
+          "hindi_meaning": "मध्य द्रेष्काण में कण्ठ, कन्धा, भुजा, पार्श्व, हृदय, पेट (क्रोड़) और नाभि का विचार क्रमशः करना चाहिए।"
+        },
+        {
+          "number": 14,
+          "text": "यो यो शुभैर्युतो दृष्टो भावो वा पतिदृष्टयुक् ।\nयुवा प्रवृद्धो राज्यस्थः कुमारो वाऽपि यत्पतिः",
+          "english_meaning": "In the third Drekkana, pelvis, genitals, anus, testicles, thighs, knees, calves, and feet are represented on the left side of the body.",
+          "hindi_meaning": "तृतीय द्रेष्काण में वस्ति (पेड़ू), लिंग, गुदा, अण्डकोष, जाँघ, घुटना, पिण्डली और पैर का विचार क्रमशः शरीर के बाएं अंग में करना चाहिए।"
+        },
+        {
+          "number": 15,
+          "text": "तदीक्षणवशात् तत्तद्भावसौख्यं वदेद् बुधः ।\nयद्यद् भावपतिर्नष्टस्त्रिकेशाद्यैश्च संयुतः",
+          "english_meaning": "Wherever a malefic planet is situated in these parts, a wound (Vrana) should be predicted. If associated with Mercury or other malefics, it is a wound; if with benefics, a mark (Lakshma) should be declared.",
+          "hindi_meaning": "जिस अंग में पाप ग्रह स्थित हो, वहाँ व्रण (घाव) कहना चाहिए। यदि क्रूर ग्रहों और बुध के साथ हो तो निश्चित ही घाव होता है, और शुभ ग्रहों के साथ होने पर चिह्न (तिल/मसा आदि) कहना चाहिए।"
+        },
+        {
+          "number": 16,
+          "text": "भावं न वीक्षते सम्यक् सुप्तो वृद्धोमृतोऽथवा ।\nपीडितो वाऽस्य भावस्य फलं नष्टं वदेद् ध्रुवम्",
+          "english_meaning": "...does not aspect the house properly, or is asleep, old, dead, or afflicted, one should definitely say that the results of that house are destroyed.",
+          "hindi_meaning": "...भाव को ठीक से न देखता हो, अथवा सुप्त (सोया हुआ), वृद्ध, मृत या पीड़ित हो, तो उस भाव का फल निश्चित रूप से नष्ट समझना चाहिए।"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "अथ तनुभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सपापो देहपोऽष्टारिव्ययगो देहसौख्यहृत् ।\nकेन्द्रे कोणे स्थितोऽङ्गेशः सदा देहसुखं दिशेत्",
+          "english_meaning": "If the lord of the body (Lagna Lord) is associated with malefics and placed in the 8th, 6th, or 12th house, it destroys physical happiness. If the Lagna Lord is in a quadrant (Kendra) or trine (Trikona), it always bestows physical comfort.",
+          "hindi_meaning": "यदि देहेश (लग्न का स्वामी) पाप ग्रहों से युक्त होकर ८, ६ या १२वें भाव में हो, तो वह शारीरिक सुख का नाश करता है। यदि लग्नेश केन्द्र या त्रिकोण में स्थित हो, तो वह सदैव शारीरिक सुख प्रदान करता है।"
+        },
+        {
+          "number": 2,
+          "text": "लग्नपोऽस्तङ्गतो नीचे शत्रुभे रोगकृद् भवेत् ।\nशुभः केन्द्रत्रिकोणस्था सर्वरोगहराः स्मृताः",
+          "english_meaning": "If the Lagna Lord is combust, debilitated, or in an enemy's sign, it causes diseases. Benefics placed in quadrants or trines are said to be destroyers of all diseases.",
+          "hindi_meaning": "यदि लग्नेश अस्त, नीच राशि का या शत्रु की राशि में हो, तो वह रोग उत्पन्न करता है। केन्द्र और त्रिकोण में स्थित शुभ ग्रह समस्त रोगों का नाश करने वाले कहे गए हैं।"
+        },
+        {
+          "number": 3,
+          "text": "लग्ने चन्द्रेऽथव क्रूरग्रहैर्दृष्टेऽथवा युते ।\nशुभदृष्टिविहीने च जन्तोर्देहसुखं न हि",
+          "english_meaning": "If the Lagna or the Moon is associated with or aspected by malefic planets, and is devoid of benefic aspect, the native does not enjoy physical happiness.",
+          "hindi_meaning": "यदि लग्न या चन्द्रमा पाप ग्रहों से युक्त या दृष्ट हो, और शुभ ग्रहों की दृष्टि से रहित हो, तो प्राणी को शारीरिक सुख प्राप्त नहीं होता है।"
+        },
+        {
+          "number": 4,
+          "text": "लग्ने सौम्ये सुरूपः स्यात् क्रूरेरूपविवर्जितः ।\nसौम्यखेटैर्युते दृष्टे लग्ने देहसुखान्वितः",
+          "english_meaning": "If a benefic is in the Lagna, the person is handsome; if a malefic, they are devoid of beauty. If the Lagna is associated with or aspected by benefic planets, the person is endowed with physical happiness.",
+          "hindi_meaning": "लग्न में शुभ ग्रह होने पर मनुष्य सुंदर होता है और पाप ग्रह होने पर वह रूपहीन होता है। शुभ ग्रहों से युक्त या दृष्ट लग्न होने पर मनुष्य शारीरिक सुख से युक्त होता है।"
+        },
+        {
+          "number": 5,
+          "text": "लग्नेशो ज्ञा गुरुर्वाऽपि शुक्रो वा केन्द्रकोणगः ।\nदीर्घायुर्धनवान् जातो बुद्धिमान् राजवल्लभः",
+          "english_meaning": "If the Lagna Lord, Mercury, Jupiter, or Venus is in a quadrant or trine, the person is long-lived, wealthy, intelligent, and a favorite of the king.",
+          "hindi_meaning": "यदि लग्नेश, बुध, गुरु या शुक्र केन्द्र या त्रिकोण में हों, तो जातक दीर्घायु, धनवान, बुद्धिमान और राजा का प्रिय होता है।"
+        },
+        {
+          "number": 6,
+          "text": "लग्नेशे चरराशिस्थे शुभग्रहनिरीक्षिते ।\nकीर्तिश्रीमान् महाभोगी देहसौख्यसमन्वितः",
+          "english_meaning": "If the Lagna Lord is in a movable sign (Chara Rashi) and aspected by benefic planets, the person is famous, illustrious, a great enjoyer of pleasures, and endowed with physical happiness.",
+          "hindi_meaning": "यदि लग्नेश चर राशि में स्थित हो और शुभ ग्रहों से दृष्ट हो, तो जातक कीर्तिवान, श्रीमान, महाभोगी और शारीरिक सुख से युक्त होता है।"
+        },
+        {
+          "number": 7,
+          "text": "बुधो जीवोऽथवा शुक्रो लग्ने चन्द्रसमन्वितः ।\nलग्नात् केन्द्रगतो वाऽपि राजलक्षणसंयुतः",
+          "english_meaning": "If Mercury, Jupiter, or Venus is in the Lagna with the Moon, or if they are in quadrants from the Lagna, the person is endowed with royal qualities.",
+          "hindi_meaning": "यदि बुध, गुरु या शुक्र लग्न में चन्द्रमा के साथ हों, अथवा लग्न से केन्द्र में हों, तो जातक राजलक्षणों से युक्त होता है।"
+        },
+        {
+          "number": 8,
+          "text": "ससौरे सकुजे वापि लग्ने मेषे वृषे हरौ ।\nराश्यंशसदृशौ गात्रे स जातो नालविष्टितः",
+          "english_meaning": "If Saturn or Mars is in the Lagna in Aries, Taurus, or Leo, and the birth sign/navamsha matches, the child is born with the umbilical cord wrapped around the body.",
+          "hindi_meaning": "यदि मेष, वृष या सिंह लग्न में शनि या मंगल हों, और राश्यंश के समान ही जातक का जन्म हो, तो वह शरीर पर गर्भनाल (नाल) लिपटे हुए पैदा होता है।"
+        },
+        {
+          "number": 9,
+          "text": "चतुष्पदगतो भानुः परे वीर्यसमन्विताः ।\nद्विस्वभावगता जातौ यमलाविति निर्दिशेत्",
+          "english_meaning": "If the Sun is in a quadruped sign and other planets are powerful, or if planets are in dual signs (Dvisvabhava), twins are born.",
+          "hindi_meaning": "यदि सूर्य चतुष्पद राशि में हो और अन्य ग्रह बलवान हों, अथवा ग्रह द्विस्वभाव राशियों में हों, तो यमल (जुड़वाँ) सन्तान पैदा होती है।"
+        },
+        {
+          "number": 10,
+          "text": "रवौन्दू एकभावस्थावेकंशकसमन्वितौ ।\nत्रिमात्रा च त्रिभिर्मासैः पित्रा भ्रात्रा च पोषितः",
+          "english_meaning": "If the Sun and Moon are in the same sign and same degree/navamsha, the child is nourished by three mothers or by father and brother for three months.",
+          "hindi_meaning": "यदि सूर्य और चन्द्रमा एक ही भाव में और एक ही अंश (अंशक) पर हों, तो जातक का तीन माताओं द्वारा अथवा पिता और भाई द्वारा तीन महीने तक पालन-पोषण होता है।"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "अथ जातनरस्याङ्गे व्रणचिह्नादिकं ब्रुवे",
+      "shlokas": [
+        {
+          "number": 12,
+          "text": "शिरो नेत्रे तथा कर्णौ नासिके च कपोलकौ ।\nहनूर्मुखं च लग्नाद्या तनावाद्यदृकाणके",
+          "english_meaning": "Further results regarding Wounds and Marks in verse 12.",
+          "hindi_meaning": "जातक के शरीर पर घाव और चिह्नों का विचार। के विषय में श्लोक संख्या 12 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 13,
+          "text": "मध्यद्रेष्काणगे लग्ने कण्ठोंऽसौ च भुजौ तथा ।\nपार्श्वे च हृदये क्रोडे नाभिश्चेति यथाक्रमम्",
+          "english_meaning": "Further results regarding Wounds and Marks in verse 13.",
+          "hindi_meaning": "जातक के शरीर पर घाव और चिह्नों का विचार। के विषय में श्लोक संख्या 13 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 14,
+          "text": "वस्तिर्लिङ्गगुदे मुष्कावूरू जानू च जङ्घके ।\nपादश्चेत्युदितैर्वाममङ्गं ज्ञेयं तृतीयके",
+          "english_meaning": "Further results regarding Wounds and Marks in verse 14.",
+          "hindi_meaning": "जातक के शरीर पर घाव और चिह्नों का विचार। के विषय में श्लोक संख्या 14 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 15,
+          "text": "यस्मिन्नङ्गे स्थितः पापो व्रणं तत्र समादिशेत् ।\nनियतं सबुधैः क्रूरैः सौम्यैर्लक्ष्म वदेद् बुधः",
+          "english_meaning": "Further results regarding Wounds and Marks in verse 15.",
+          "hindi_meaning": "जातक के शरीर पर घाव और चिह्नों का विचार। के विषय में श्लोक संख्या 15 में और फल बताए गए हैं।"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "अथ धनभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "धनभावफलं वच्मि श‍ृणु त्वं द्विजसत्तम ।\nधनेशो धनभावस्थः केन्द्रकोणगतोऽपि वा",
+          "english_meaning": "Now I shall tell the results of the 2nd house (Dhana Bhava), listen O best of Brahmins! If the 2nd lord is in the 2nd house or in a quadrant/trine...",
+          "hindi_meaning": "अब मैं धन भाव का फल कहता हूँ, हे द्विजश्रेष्ठ! सुनो। यदि धनेश धन भाव में हो, अथवा केन्द्र या त्रिकोण में स्थित हो..."
+        },
+        {
+          "number": 2,
+          "text": "धनवृद्धिकरो ज्ञेयस्त्रिकस्थो धनहानिकृत् ।\nधनदश्च धने सौम्यः पापो धनविनाशकृत्",
+          "english_meaning": "...it increases wealth. If placed in the 6th, 8th, or 12th (Trika), it causes loss of wealth. A benefic in the 2nd gives wealth, while a malefic destroys it.",
+          "hindi_meaning": "...तो वह धन की वृद्धि करने वाला होता है। यदि त्रिक भावों (६, ८, १२) में हो तो धन की हानि करता है। धन भाव में शुभ ग्रह धन देने वाला और पाप ग्रह धन का नाश करने वाला होता है।"
+        },
+        {
+          "number": 3,
+          "text": "धनाधिपो गुरुर्यस्य धनभावगतो भवेत् ।\nभौमेन सहितो वाऽपि धनवान् स नरो भवेत्",
+          "english_meaning": "If Jupiter is the lord of the 2nd and is placed in the 2nd house, or if it is associated with Mars, the person becomes wealthy.",
+          "hindi_meaning": "जिसका बृहस्पति धनेश होकर धन भाव में स्थित हो, अथवा मंगल के साथ हो, वह मनुष्य धनवान होता है।"
+        },
+        {
+          "number": 4,
+          "text": "धनेशे लाभभावस्थे लाभेशे वा धनं गते ।\nतावुभौ केन्द्रकोणस्थौ धनवान् स नरो भवेत्",
+          "english_meaning": "If the 2nd lord is in the 11th (Labha), or the 11th lord is in the 2nd, and both are in quadrants/trines, the person becomes wealthy.",
+          "hindi_meaning": "यदि धनेश लाभ भाव में हो या लाभेश धन भाव में गया हो, और वे दोनों केन्द्र या त्रिकोण में स्थित हों, तो वह मनुष्य धनवान होता है।"
+        },
+        {
+          "number": 5,
+          "text": "धनेशे केन्द्रराशिस्थे लाभेशे तत्त्रिकोणगे ।\nगुरुशुक्रयुते दृष्टे धनलाभमुदीरयेत्",
+          "english_meaning": "If the 2nd lord is in a quadrant sign and the 11th lord is in its trine, and they are associated with or aspected by Jupiter and Venus, one should predict gain of wealth.",
+          "hindi_meaning": "यदि धनेश केन्द्र राशि में हो और लाभेश उसके त्रिकोण में हो, तथा गुरु और शुक्र से युक्त या दृष्ट हो, तो धन लाभ कहना चाहिए।"
+        },
+        {
+          "number": 6,
+          "text": "धनेशो रिपुभावस्थो लाभेशस्तद्गतो यदि ।\nधनायौ पापयुक्तौ वा दृष्टौ निर्धन एव सः",
+          "english_meaning": "If the 2nd lord is in the 6th house and the 11th lord is also there, or if the 2nd and 11th lords are associated with or aspected by malefics, the person is poor.",
+          "hindi_meaning": "यदि धनेश छठे भाव में हो और लाभेश भी वहीं स्थित हो, अथवा धन और आय के स्वामी पाप ग्रहों से युक्त या दृष्ट हों, तो वह मनुष्य निर्धन ही होता है।"
+        },
+        {
+          "number": 7,
+          "text": "धनलाभाधिपावस्तौ पापग्रहसमन्वितौ ।\nजन्मप्रभृतिदारिद्रं भिक्षान्नं लभते नरः",
+          "english_meaning": "If the lords of the 2nd and 11th are combust or associated with malefic planets, the person suffers poverty from birth and lives on alms.",
+          "hindi_meaning": "यदि धन और लाभ के स्वामी अस्त हों या पाप ग्रहों से युक्त हों, तो जातक जन्म से ही दरिद्र होता है और भिक्षा माँगकर पेट भरता है।"
+        },
+        {
+          "number": 8,
+          "text": "षष्ठेऽष्टमे व्यये वाऽपि धनलाभाधिपौ यदि ।\nलाभे कुजोधने राहू राजदण्डाद् धनक्षयः",
+          "english_meaning": "If the lords of the 2nd and 11th are in the 6th, 8th, or 12th houses, or if Mars is in the 11th and Rahu is in the 2nd, there is loss of wealth through royal punishment.",
+          "hindi_meaning": "यदि धनेश और लाभेश ६, ८ या १२वें भाव में हों, अथवा लाभ में मंगल और धन भाव में राहु हो, तो राजदण्ड (सरकारी दण्ड) से धन का नाश होता है।"
+        },
+        {
+          "number": 9,
+          "text": "लाभे जीवे धने शुक्रे धनेशे शुभसंयुते ।\nव्यये च शुभसंयुक्ते धर्मकार्ये धनव्ययः",
+          "english_meaning": "If Jupiter is in the 11th, Venus in the 2nd, the 2nd lord is with benefics, and the 12th house also has benefics, wealth is spent on religious activities.",
+          "hindi_meaning": "यदि लाभ में गुरु, धन भाव में शुक्र, धनेश शुभ ग्रहों के साथ हो और १२वें भाव में भी शुभ ग्रह हों, तो धर्म कार्यों में धन का व्यय होता है।"
+        },
+        {
+          "number": 10,
+          "text": "स्वभोच्चस्थे धनाधीशे जातको जनपोषकः ।\nपरोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम",
+          "english_meaning": "If the 2nd lord is in its own sign or exaltation, the native nourishes people, is a benefactor of others, famous, and wise, O best of Brahmins.",
+          "hindi_meaning": "यदि धनेश अपनी राशि या उच्च राशि में हो, तो जातक लोगों का पालन-पोषण करने वाला, परोपकारी, विख्यात और विद्वान होता है, हे द्विजसत्तम!"
+        },
+        {
+          "number": 11,
+          "text": "स्थिते पारावतांशादौ धनेशे शुभसंयुते ।\nतद्गृहे सर्वसम्पत्तिर्विनाऽयासेन जायते",
+          "english_meaning": "If the 2nd lord is in Paravat-amsha etc. and associated with benefics, all kinds of wealth and property are acquired in that house without much effort.",
+          "hindi_meaning": "यदि धनेश पारावतांश आदि में हो और शुभ ग्रहों से युक्त हो, तो उसके घर में बिना किसी विशेष प्रयास के सभी प्रकार की सम्पत्ति प्राप्त होती है।"
+        },
+        {
+          "number": 12,
+          "text": "नेत्रेशे बलसंयुक्ते शोभनाक्षो भवेन्नरः ।\nषष्ठाष्टमव्ययस्थे च नेत्रवैकल्यवान् भवेत्",
+          "english_meaning": "If the lord of the 2nd (Netra-esha) is powerful, the person has beautiful eyes. If it is in the 6th, 8th, or 12th, the person has defective eyes.",
+          "hindi_meaning": "यदि धनेश (नेत्रेश) बलवान हो, तो मनुष्य की आँखें सुंदर होती हैं। यदि वह ६, ८ या १२वें भाव में हो, तो जातक नेत्र दोष (विकलाक्ष) वाला होता है।"
+        },
+        {
+          "number": 13,
+          "text": "धनेशे पापसंयुक्ते धने पापसमन्विते ।\nपिशुनोऽसत्यवादी च वातव्याधिसमन्वितः",
+          "english_meaning": "If the 2nd lord is associated with malefics and a malefic planet is in the 2nd house, the person is a backbiter, a liar, and suffers from wind-related diseases.",
+          "hindi_meaning": "यदि धनेश पाप ग्रहों से युक्त हो और धन भाव में पाप ग्रह हो, तो जातक चुगलखोर (पिशुन), असत्य बोलने वाला और वात रोग से पीड़ित होता है।"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "अथ सहजभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "अथ विक्रमभावस्य फलं वक्ष्यामि भो द्विज ।\nसहजे सौम्ययुग्दृष्टे भ्रातृमान् विक्रमी नरः",
+          "english_meaning": "Now I shall tell the results of the 3rd house (Vikrama Bhava), O Brahmin! If the 3rd house is associated with or aspected by benefics, the person is courageous and has brothers.",
+          "hindi_meaning": "अब मैं तृतीय भाव (विक्रम भाव) का फल कहता हूँ, हे द्विज! यदि तृतीय भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो मनुष्य पराक्रमी और भाइयों वाला होता है।"
+        },
+        {
+          "number": 2,
+          "text": "सभौमो भ्रातृभावेशो भ्रातृभावं प्रपश्यति ।\nभ्रातृक्षेत्रगतो वाऽपि भ्रातृभावं विनिर्दिशेत्",
+          "english_meaning": "If Mars is the lord of the 3rd house and aspects the 3rd, or if it is in its own sign in the 3rd, one should predict the presence of brothers.",
+          "hindi_meaning": "यदि मंगल तृतीय भाव का स्वामी होकर तृतीय भाव को देखता हो, अथवा तृतीय भाव में अपनी ही राशि में स्थित हो, तो भाइयों का होना कहना चाहिए।"
+        },
+        {
+          "number": 3,
+          "text": "पापयोगेन तौ पापक्षेत्रयोगेन वा पुनः ।\nउत्पाट्य सहजान् सद्यो निहन्तरौ न संशयः",
+          "english_meaning": "If both (Mars and 3rd lord) are associated with malefics or in malefic signs, they certainly destroy the brothers immediately after birth, there is no doubt.",
+          "hindi_meaning": "यदि वे दोनों (मंगल और तृतीयेश) पाप ग्रहों से युक्त हों अथवा पाप ग्रहों की राशि में हों, तो वे जन्म लेते ही सहोदरों (भाइयों) का नाश कर देते हैं, इसमें कोई संशय नहीं है।"
+        },
+        {
+          "number": 4,
+          "text": "स्त्रीग्रहो भ्रातृभावेशः स्त्रीग्रहो भ्रातृभावगः ।\nभगिनी स्यात् तथा भ्राता पुङ्गृहे पुङ्ग्रहो यदि",
+          "english_meaning": "If a female planet is the lord of the 3rd and is in the 3rd, there will be sisters. If a male planet is in a male sign, there will be brothers.",
+          "hindi_meaning": "यदि स्त्री ग्रह तृतीयेश होकर तृतीय भाव में हो, तो बहनें होती हैं। यदि पुरुष ग्रह पुरुष राशि में हो, तो भाई होते हैं।"
+        },
+        {
+          "number": 5,
+          "text": "मिश्रे मिश्रफलं वाच्यं बलाबलविनिर्णयात् ।\nमृतौ कुजतृतीयेशौ सहोदरविनाशकौ",
+          "english_meaning": "In mixed conditions, mixed results should be declared based on strength and weakness. If Mars and the 3rd lord are in the 8th house, they destroy the siblings.",
+          "hindi_meaning": "मिश्रित अवस्था में बलाबल के अनुसार मिश्रित फल कहना चाहिए। यदि मंगल और तृतीयेश आठवें भाव में हों, तो वे भाइयों का नाश करने वाले होते हैं।"
+        },
+        {
+          "number": 6,
+          "text": "केन्द्रत्रिकोणगे वाऽपि स्वोच्चमित्रस्ववर्गगे ।\nकारके सहजेशे या भ्रातृसौख्यं विनिर्दिशेत्",
+          "english_meaning": "If the significator (Mars) and the 3rd lord are in quadrants, trines, or in exaltation, friendly, or own divisions, one should predict happiness from brothers.",
+          "hindi_meaning": "यदि कारक (मंगल) और तृतीयेश केन्द्र, त्रिकोण में हों, अथवा अपनी उच्च, मित्र या स्ववर्ग की राशि में हों, तो भाइयों से सुख कहना चाहिए।"
+        },
+        {
+          "number": 7,
+          "text": "भ्रातृभे बुधसंयुक्ते तदीशे चन्द्रसंयुते ।\nकारके मन्दसंयुक्ते भगिन्येकाग्रतो भवेत्",
+          "english_meaning": "If Mercury is in the 3rd house, its lord is with the Moon, and the significator is with Saturn, there will be one sister first.",
+          "hindi_meaning": "यदि तृतीय भाव में बुध हो, उसका स्वामी चन्द्रमा के साथ हो और कारक शनि के साथ हो, तो पहले एक बहन होती है।"
+        },
+        {
+          "number": 8,
+          "text": "पश्चात् सहोदरोऽप्येकस्तृतीयस्तु मृतो भवेत् ।\nकारके राहुसंयुक्ते सहजेशे तु नीचगे",
+          "english_meaning": "Afterwards there may be one brother, and the third one may die. If the significator is with Rahu and the 3rd lord is debilitated...",
+          "hindi_meaning": "उसके बाद एक भाई हो सकता है और तीसरा मृत हो सकता है। यदि कारक राहु के साथ हो और तृतीयेश नीच राशि में हो..."
+        },
+        {
+          "number": 9,
+          "text": "पश्चात् सहोदराभावं पूर्वं तु तत्त्रयं वदेत् ।\nभ्रातृस्थानाधिपे केन्द्रे कारके तत्त्रिकोणगे",
+          "english_meaning": "...then there is a lack of younger siblings, but three older ones should be predicted. If the 3rd lord is in a quadrant and the significator in its trine...",
+          "hindi_meaning": "...तो छोटे भाइयों का अभाव होता है, किन्तु पहले तीन भाइयों का होना कहना चाहिए। यदि तृतीयेश केन्द्र में हो और कारक उसके त्रिकोण में हो..."
+        },
+        {
+          "number": 10,
+          "text": "जीवेन सहिते चोच्चे ज्ञेया द्वादश सोदराः ।\nतत्र ज्येष्ठद्वियं तद्वज्जातकाच्च तृतीयकम्",
+          "english_meaning": "...and associated with Jupiter in exaltation, twelve siblings are known. Among them, the eldest two and the third one from the native's birth...",
+          "hindi_meaning": "...और उच्च के गुरु के साथ हो, तो बारह भाई-बहन होते हैं। उनमें से दो बड़े और जातक के जन्म से तीसरा..."
+        },
+        {
+          "number": 11,
+          "text": "सप्तमं नवमं चैव द्वादशं च मृतं वदेत् ।\nशेषाः सहोदराः षड् वै भवेयुर्दीर्घजीवनाः",
+          "english_meaning": "...the 7th, 9th, and 12th should be declared as dead. The remaining six siblings will be long-lived.",
+          "hindi_meaning": "...सातवां, नौवां और बारहवां मृत कहना चाहिए। शेष भाई-बहन दीर्घायु होते हैं।"
+        },
+        {
+          "number": 12,
+          "text": "व्ययेशेन युतो भौमो गुरुणा सहितोऽपि वा ।\nभ्रातृभावे स्थिते चन्द्रे सप्तसङ्ख्यास्तु सोदराः",
+          "english_meaning": "If Mars is associated with the 12th lord or with Jupiter, and the Moon is in the 3rd house, there are seven siblings.",
+          "hindi_meaning": "यदि मंगल बारहवें भाव के स्वामी के साथ या गुरु के साथ हो, और चन्द्रमा तृतीय भाव में स्थित हो, तो सात भाई-बहन होते हैं।"
+        },
+        {
+          "number": 13,
+          "text": "भ्रातृस्थाने शशियुते केवलं पुङ्ग्रहेक्षिते ।\nसहजा भ्रातरो ज्ञेयाः शुक्रयुक्तेक्षितेऽन्यथा",
+          "english_meaning": "If only the Moon is in the 3rd house and is aspected by male planets, the siblings are brothers. If associated with or aspected by Venus, it is otherwise (sisters).",
+          "hindi_meaning": "यदि तृतीय भाव में केवल चन्द्रमा हो और केवल पुरुष ग्रहों से दृष्ट हो, तो भाई होते हैं। यदि शुक्र से युक्त या दृष्ट हो, तो इसके विपरीत (बहनें) होती हैं।"
+        },
+        {
+          "number": 14,
+          "text": "अग्रे जातं रविर्हन्ति पृष्ठे जातं शनैश्चरः ।\nअग्रजं पृष्ठजं हन्ति सहजस्थो धरासुतः",
+          "english_meaning": "The Sun kills the one born before (elder), Saturn kills the one born after (younger), and Mars in the 3rd house kills both elder and younger siblings.",
+          "hindi_meaning": "सूर्य पहले पैदा हुए (अग्रज) का नाश करता है, शनि बाद में पैदा हुए (अनुज) का और तृतीय भाव में स्थित मंगल अग्रज और अनुज दोनों का नाश करता है।"
+        },
+        {
+          "number": 15,
+          "text": "एतेषां विप्र योगानां बलाबलविनिर्णयात् ।\nभ्रातृणां भगिनीनां वा जातकस्य फलं वदेत्",
+          "english_meaning": "O Brahmin! By determining the strength and weakness of these yogas, one should declare the results for brothers and sisters of the native.",
+          "hindi_meaning": "हे विप्र! इन योगों के बलाबल का निर्णय करके, जातक के भाइयों और बहनों के फल का विचार करना चाहिए।"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "अथ सुखभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "उक्तं तृतीयभावस्य फलं सङ्क्षेपतो मया ।\nसुखभावफलं चाऽथ कथयामि द्विजोत्तम",
+          "english_meaning": "Now I shall tell the results of the 4th house (Sukha Bhava), O Brahmin! If the 4th house is associated with or aspected by benefics, the person has a house, lands, and vehicles.",
+          "hindi_meaning": "अब मैं चतुर्थ भाव (सुख भाव) का फल कहता हूँ, हे द्विज! यदि चतुर्थ भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक के पास घर, भूमि और वाहन होते हैं।"
+        },
+        {
+          "number": 2,
+          "text": "सुखेशे सुखभावस्थे लग्नेशे तद्गतेऽपि वा ।\nशुभदृष्टे च जातस्य पूर्णं गृहसुखं वदेत्",
+          "english_meaning": "If the 4th lord is in the 4th house or in a quadrant/trine, or if it is in exaltation or own sign, one should predict happiness.",
+          "hindi_meaning": "यदि चतुर्थेश चतुर्थ भाव में हो, अथवा केन्द्र या त्रिकोण में स्थित हो, अथवा अपनी उच्च या स्वराशि में हो, तो सुख कहना चाहिए।"
+        },
+        {
+          "number": 3,
+          "text": "स्वगेहे स्वांशके स्वोच्चे सुखस्थानाधिपो यदि ।\nभूमियानगृहादीनां सुखं वाद्यभवं तथा",
+          "english_meaning": "If the 4th lord is in the 6th, 8th, or 12th house, or if it is associated with or aspected by malefics, the person is devoid of happiness, lands, and vehicles.",
+          "hindi_meaning": "यदि चतुर्थेश ६, ८ या १२वें भाव में हो, अथवा पाप ग्रहों से युक्त या दृष्ट हो, तो मनुष्य सुख, भूमि और वाहन से रहित होता है।"
+        },
+        {
+          "number": 4,
+          "text": "कर्माधिपेन संयुक्ते केन्द्रे कोणे गृहाधिपे ।\nविचित्रसौधप्राकारैर्मण्डितं तद्गृहं वदेत्",
+          "english_meaning": "If the 4th lord is in its debilitation sign or is combust, and the 4th house is occupied by malefics, the person is unhappy and loses his ancestral house.",
+          "hindi_meaning": "यदि चतुर्थेश अपनी नीच राशि में हो या अस्त हो, और चतुर्थ भाव में पाप ग्रह स्थित हों, तो मनुष्य दुखी होता है और अपने पैतृक घर का नाश कर देता है।"
+        },
+        {
+          "number": 5,
+          "text": "बन्धुस्थानेश्वरे सौम्ये शुभग्रहयुतेक्षिते ।\nशशिजे लग्नसंयुक्ते बन्धुपूज्यो भवेन्नरः",
+          "english_meaning": "If the 4th lord is powerful and associated with Jupiter, and is in a quadrant or trine, the person has a beautiful and stable house.",
+          "hindi_meaning": "यदि चतुर्थेश बलवान हो और गुरु के साथ हो, तथा केन्द्र या त्रिकोण में स्थित हो, तो जातक के पास सुंदर और स्थिर घर होता है।"
+        },
+        {
+          "number": 6,
+          "text": "मातुःस्थाने शुभयुते तदीशे स्वोच्चराशिगे ।\nकारके बलसंयुक्ते मातुर्दीर्घायुरादिशेत्",
+          "english_meaning": "If the Moon and the 4th lord are in the 4th house, or if they are in quadrants or trines, the person has many types of vehicles and is happy.",
+          "hindi_meaning": "यदि चन्द्रमा और चतुर्थेश चतुर्थ भाव में हों, अथवा केन्द्र या त्रिकोण में हों, तो जातक के पास अनेक प्रकार के वाहन होते हैं और वह सुखी होता है।"
+        },
+        {
+          "number": 7,
+          "text": "सुखेशे केन्द्रभावस्थे तथा केन्द्रस्थितो भृगुः ।\nशशिजे स्वोच्चराशिस्थे मातुः पूर्णं सुखं वदेत्",
+          "english_meaning": "If the 4th lord is in the 11th and the 11th lord is in the 4th, and they are associated with benefics, the person acquires lands and vehicles through his own efforts.",
+          "hindi_meaning": "यदि चतुर्थेश लाभ भाव में हो और लाभेश चतुर्थ भाव में गया हो, और वे शुभ ग्रहों के साथ हों, तो जातक अपने पुरुषार्थ से भूमि और वाहन प्राप्त करता है।"
+        },
+        {
+          "number": 8,
+          "text": "सुखे रवियुते मन्दे चन्द्रे भाग्यगते सति ।\nलाभस्थानगतो भौमो गोमहिष्यादिलाभकृत्",
+          "english_meaning": "If the 4th lord and the 9th lord are in quadrants, and the Lagna lord is also powerful, the person has many houses and lands.",
+          "hindi_meaning": "यदि चतुर्थेश और नवमेश केन्द्रों में हों, और लग्नेश भी बलवान हो, तो जातक के पास बहुत से घर और भूमि होती है।"
+        },
+        {
+          "number": 9,
+          "text": "चरगेहसमायुक्तो सुखे तद्राशिनायके ।\nषष्ठे व्यये स्थिते भौमे नरः प्राप्नोति मूकताम्",
+          "english_meaning": "If the 4th lord is in the 12th and the 12th lord is in the 4th, and they are aspected by malefics, the person loses his lands and house through royal wrath.",
+          "hindi_meaning": "यदि चतुर्थेश बारहवें भाव में हो और बारहवें का स्वामी चौथे में हो, तथा पाप ग्रहों से दृष्ट हों, तो राजकोप से जातक की भूमि और घर का नाश होता है।"
+        },
+        {
+          "number": 10,
+          "text": "लग्नस्थानाधिपे सौम्ये सुखेशे नीचराशिगे ।\nकारके व्ययभावस्थे सुखेशे लाभसङ्गते",
+          "english_meaning": "If the 4th lord is in the 3rd and associated with the 3rd lord, and the significator (Mars/Moon) is weak, the person has no happiness from brothers or mother.",
+          "hindi_meaning": "यदि चतुर्थेश तीसरे भाव में हो और तृतीयेश के साथ हो, तथा कारक निर्बल हो, तो जातक को भाइयों या माता से सुख नहीं मिलता।"
+        },
+        {
+          "number": 11,
+          "text": "द्वदशे वत्सरे प्राप्ते वाहनस्य सुखं वदेत् ।\nवाहने सूर्यसंयुक्ते स्वोच्चे तद्भावनायके",
+          "english_meaning": "If the 4th house has many benefics and the 4th lord is in its own sign or exaltation, the person is extremely happy and famous.",
+          "hindi_meaning": "यदि चतुर्थ भाव में बहुत से शुभ ग्रह हों और चतुर्थेश अपनी राशि या उच्च राशि में हो, तो जातक अत्यधिक सुखी और प्रसिद्ध होता है।"
+        },
+        {
+          "number": 12,
+          "text": "शुक्रेण संयुते वर्षे द्वात्रिंशे वाहनं भवेत् ।\nकर्मेशेन युते बन्धुनाथे तुङ्गांशसंयुते",
+          "english_meaning": "If the Sun is in the 4th and the 4th lord is with the Sun, the person is always worried and lacks mental peace.",
+          "hindi_meaning": "यदि सूर्य चौथे भाव में हो और चतुर्थेश सूर्य के साथ हो, तो जातक सदैव चिन्तित रहता है और उसे मानसिक शान्ति नहीं मिलती।"
+        },
+        {
+          "number": 13,
+          "text": "द्विचत्वारिंशके वर्षे नरो वाहनभाग् भवेत् ।\nलाभेशे सुखराशिस्थे सुखेशे लाभसंयुते",
+          "english_meaning": "If the 4th lord is in the 6th, 8th, or 12th house, or is combust, the person's mother is sickly or dies early.",
+          "hindi_meaning": "यदि चतुर्थेश ६, ८ या १२वें भाव में हो, अथवा अस्त हो, तो जातक की माता बीमार रहती है या उसकी जल्दी मृत्यु हो जाती है।"
+        },
+        {
+          "number": 14,
+          "text": "द्वादशे वस्तरे प्राप्ते जातो वाहनभाग् भवेत् ।\nशुभं शुभत्वे भावस्य पापत्वे फलमन्यथा",
+          "english_meaning": "If the Moon is in the 4th and the 4th lord is weak, the mother dies soon. If the 4th lord is powerful, she lives long.",
+          "hindi_meaning": "यदि चन्द्रमा चौथे भाव में हो और चतुर्थेश निर्बल हो, तो माता की शीघ्र मृत्यु होती है। यदि चतुर्थेश बलवान हो, तो वह दीर्घायु होती है।"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "अथ पञ्चमभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "अथ पञ्चमभावस्य कथयामि फलं द्विज ।\nलग्नपे सुतभावस्थे सुतपे च सुते स्थिते",
+          "english_meaning": "Now I shall tell the results of the 5th house (Putra Bhava), O Brahmin! Listen. If the 5th house is associated with or aspected by benefics, the person has children.",
+          "hindi_meaning": "अब मैं पंचम भाव (पुत्र भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि पंचम भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक के सन्तान होती है।"
+        },
+        {
+          "number": 2,
+          "text": "केन्द्रत्रिकोणसंस्थे वा पूर्णं पुत्रसुखं वदेत् ।\nषष्ठाष्टमव्ययस्थे तु सुताधीशे त्वपुत्रता",
+          "english_meaning": "If the 5th lord is in the 5th house, or in a quadrant or trine, or if it is associated with Jupiter, one should predict gain of sons.",
+          "hindi_meaning": "यदि पंचमेश पंचम भाव में हो, अथवा केन्द्र या त्रिकोण में स्थित हो, अथवा गुरु के साथ हो, तो पुत्र लाभ कहना चाहिए।"
+        },
+        {
+          "number": 3,
+          "text": "सुतेशेस्तङ्गते वाऽपि पापाक्रान्ते च निर्बले ।\nतदा न जायते पुत्रो जातो वा म्रियते ध्रुवम्",
+          "english_meaning": "If the 5th lord is in the 6th, 8th, or 12th house, or in its debilitation sign, or combust, the person is devoid of children.",
+          "hindi_meaning": "यदि पंचमेश ६, ८ या १२वें भाव में हो, अथवा अपनी नीच राशि में हो, या अस्त हो, तो मनुष्य सन्तानहीन होता है।"
+        },
+        {
+          "number": 4,
+          "text": "षष्ठस्थाने सुताधीशे लग्नेशे कुजसंयुते ।\nम्रियते प्रथमापत्यं काकबन्ध्या च गेहिनी",
+          "english_meaning": "If the 5th house is occupied by malefics and the 5th lord is weak, and Jupiter is associated with malefics, there is no offspring.",
+          "hindi_meaning": "यदि पंचम भाव में पाप ग्रह हों और पंचमेश निर्बल हो, तथा गुरु भी पाप ग्रहों के साथ हो, तो सन्तान नहीं होती।"
+        },
+        {
+          "number": 5,
+          "text": "सुताधीशो हि नीचस्थो व्ययषष्ठाष्टमस्थितः ।\nकाकबन्ध्या भवेन्नारी सुते केतुबुधौ यदि",
+          "english_meaning": "If the 5th lord is in its exaltation and Jupiter is also in exaltation, and the Lagna lord is powerful, the person has many sons.",
+          "hindi_meaning": "यदि पंचमेश अपनी उच्च राशि में हो और गुरु भी उच्च का हो, तथा लग्नेश बलवान हो, तो जातक के बहुत से पुत्र होते हैं।"
+        },
+        {
+          "number": 6,
+          "text": "सुतेशो नीचगो यत्र सुतस्थानं न पश्यति ।\nतत्र सौरिबुधौ स्यातां काकबन्ध्यात्वमाप्नुयात्",
+          "english_meaning": "If the 5th lord is in its own sign and Jupiter is in a quadrant or trine, the person has many children and they are long-lived.",
+          "hindi_meaning": "यदि पंचमेश अपनी राशि में हो और गुरु केन्द्र या त्रिकोण में हो, तो जातक के बहुत सी सन्तानें होती हैं और वे दीर्घायु होती हैं।"
+        },
+        {
+          "number": 7,
+          "text": "भाग्येशो मूर्तिवर्ती चेत् सुतेशो नीचगो यदि ।\nसुते केतुबुधौ स्यातां सुतं कष्टाद् विनिर्दिशेत्",
+          "english_meaning": "If the Sun is in the 5th house and aspected by the 5th lord, or if the 5th lord is with the Sun, the person has few children or only one son.",
+          "hindi_meaning": "यदि सूर्य पंचम भाव में हो और पंचमेश से दृष्ट हो, अथवा पंचमेश सूर्य के साथ हो, तो जातक के कम सन्तानें या केवल एक ही पुत्र होता है।"
+        },
+        {
+          "number": 8,
+          "text": "षष्ठाष्टमव्ययस्थो वा नीचो वा शत्रुराशिगः ।\nसुतेशश्च सुते तस्य कष्टाद् पुत्रं विनिर्दिशेत्",
+          "english_meaning": "If the Moon is in the 5th house and associated with the 5th lord, or if the 5th lord is in a watery sign, the person has many daughters.",
+          "hindi_meaning": "यदि चन्द्रमा पंचम भाव में हो और पंचमेश के साथ हो, अथवा पंचमेश जलराशि में हो, तो जातक के बहुत सी कन्याएँ होती हैं।"
+        },
+        {
+          "number": 9,
+          "text": "पुत्रभावे बुधक्षेत्रे मन्दक्षेत्रेऽथवा पुनः ।\nमन्दे मान्दियुतौ दृष्टे तदा दत्तादयः सुताः",
+          "english_meaning": "If Saturn is in the 5th house and the 5th lord is associated with Rahu, the person has adopted children or children from another wife.",
+          "hindi_meaning": "यदि शनि पंचम भाव में हो और पंचमेश राहु के साथ हो, तो जातक के दत्तक पुत्र या दूसरी पत्नी से सन्तान होती है।"
+        },
+        {
+          "number": 10,
+          "text": "रविचन्द्रौ यदैकस्थावेकांशकसमन्वितौ ।\nत्रिमातृभिरसौ याद्वा द्विपित्राऽपि च पोषितः",
+          "english_meaning": "If the 5th lord is in the 8th house and the 8th lord is in the 5th, and they are associated with malefics, the children die soon after birth.",
+          "hindi_meaning": "यदि पंचमेश आठवें भाव में हो और आठवें का स्वामी पांचवें में हो, तथा पाप ग्रहों के साथ हों, तो सन्तान जन्म के शीघ्र बाद मर जाती है।"
+        },
+        {
+          "number": 11,
+          "text": "पञ्चमे षड्ग्रहैर्युक्ते तदीशे व्ययराशिगे ।\nलग्नेशेन्दू बलाढयौ चेत् तदा दत्तसुतोद्भवः",
+          "english_meaning": "If the 5th lord is in its debilitation and the 5th house is aspected by malefics, the person is childless or his children are destroyed.",
+          "hindi_meaning": "यदि पंचमेश अपनी नीच राशि में हो और पंचम भाव पाप ग्रहों से दृष्ट हो, तो जातक सन्तानहीन होता है या उसकी सन्तान नष्ट हो जाती है।"
+        },
+        {
+          "number": 12,
+          "text": "सुते ज्ञजीवशुक्रैश्च सबलैरवलोकिते ।\nभवन्ति बहवः पुत्राः सुतेशे हि बलान्विते",
+          "english_meaning": "If the 5th lord is in a quadrant and associated with the lord of the 11th, and Jupiter is powerful, the person has many children.",
+          "hindi_meaning": "यदि पंचमेश केन्द्र में हो और लाभेश के साथ हो, तथा गुरु बलवान हो, तो जातक के बहुत सी सन्तानें होती हैं।"
+        },
+        {
+          "number": 13,
+          "text": "सुतेशे चन्द्रसंयुक्ते तद्द्रेष्काणगतेऽपि वा ।\nतदा हि कन्यकोत्पत्तिः प्रवदेद् दैवचिन्तकः",
+          "english_meaning": "If the 5th lord is with Mars and the 5th house is occupied by the Sun, the person's sons are brave and famous.",
+          "hindi_meaning": "यदि पंचमेश मंगल के साथ हो और पंचम भाव में सूर्य स्थित हो, तो जातक के पुत्र वीर और प्रसिद्ध होते हैं।"
+        },
+        {
+          "number": 14,
+          "text": "सुतेशे चरराशिस्थे राहुणा सहिते विधौ ।\nपुत्रस्थानः गते मन्दे परजातं वदेच्छिशुम्",
+          "english_meaning": "If the 5th lord is with Mercury and the 5th house is aspected by Jupiter, the person's sons are learned and intelligent.",
+          "hindi_meaning": "यदि पंचमेश बुध के साथ हो और पंचम भाव गुरु से दृष्ट हो, तो जातक के पुत्र विद्वान और बुद्धिमान होते हैं।"
+        },
+        {
+          "number": 15,
+          "text": "लग्नादष्टमगे चन्द्रे चन्द्रादष्टमगे गुरौ ।\nपापग्रहैर्युते दृष्टे परजातो न संशयः",
+          "english_meaning": "If Rahu is in the 5th house and the 5th lord is weak, the person has children through the grace of God or religious remedies.",
+          "hindi_meaning": "यदि राहु पंचम भाव में हो और पंचमेश निर्बल हो, तो जातक को ईश्वर की कृपा या धार्मिक उपायों से सन्तान प्राप्त होती है।"
+        },
+        {
+          "number": 16,
+          "text": "पुत्रस्थानाधिपे स्वोच्चे लग्नाद्वा द्वित्रिकोणगे ।\nगुरुणा संयुते दृष्टे पुत्रभाग्यमुपैति सः",
+          "english_meaning": "If the 5th lord is in its own sign or exaltation and is in Paravat-amsha, the person's son becomes a king or like a king.",
+          "hindi_meaning": "यदि पंचमेश अपनी राशि या उच्च राशि में हो और पारावतांश में हो, तो जातक का पुत्र राजा या राजा के समान होता है।"
+        },
+        {
+          "number": 17,
+          "text": "त्रिचतुःपापसंयुक्ते सुते सौम्यविवर्जिते ।\nसुतेशे नीचराशिस्थे नीचसंस्थौ भवेच्छिशुः",
+          "english_meaning": "If the 5th lord is in its own sign and associated with the 10th lord, the son becomes a high government official or a famous leader.",
+          "hindi_meaning": "यदि पंचमेश अपनी राशि में हो और दशमेश के साथ हो, तो पुत्र उच्च सरकारी अधिकारी या प्रसिद्ध नेता बनता है।"
+        },
+        {
+          "number": 18,
+          "text": "पुत्रस्थानं गते जीवे तदीशे भृगुसंयुते ।\nद्वात्रिंशे च त्रयस्त्रिंशे वत्सरे पुत्रसम्भवः",
+          "english_meaning": "If the 5th lord is in the 12th house and the 12th lord is in the 5th, the children live in foreign lands or away from home.",
+          "hindi_meaning": "यदि पंचमेश बारहवें भाव में हो और बारहवें का स्वामी पांचवें में हो, तो सन्तान विदेश में या घर से दूर रहती है।"
+        },
+        {
+          "number": 19,
+          "text": "सुतेशे केन्द्रभावस्थे कारकेण समन्विते ।\nषड्त्रिंशे त्रिंशदब्दे च पुत्रोत्पत्तिं विनिर्दिशेत्",
+          "english_meaning": "If the 5th lord is in a quadrant and aspected by its friend, the children are obedient and helpful to the parents.",
+          "hindi_meaning": "यदि पंचमेश केन्द्र में हो और अपने मित्र ग्रह से दृष्ट हो, तो सन्तान आज्ञाकारी और माता-पिता की सहायक होती है।"
+        },
+        {
+          "number": 20,
+          "text": "लग्नाद् भाग्यगते जीवे जीवाद् भाग्यगते भृगौ ।\nलग्नेशे भृगुयुक्ते वा चत्वारिंशे सुतं वदेत्",
+          "english_meaning": "O Brahmin! By examining the 5th house and its lord in this way, one should predict results regarding children, their character, and longevity.",
+          "hindi_meaning": "हे विप्र! इस प्रकार पंचम भाव और उसके स्वामी का विचार करके सन्तान, उनके चरित्र और आयु के विषय में फल कहना चाहिए।"
+        },
+        {
+          "number": 21,
+          "text": "पुत्रस्थानं गते राहौ तदीशे पापसंयुते ।\nनीचराशिगतो जीवो द्वात्रिंशे पुत्रमृत्युदः",
+          "english_meaning": "Further results regarding Progeny and Children in verse 21.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 21 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 22,
+          "text": "जीवात् पञ्चमगे पापे लग्नात् पञ्चमगेऽपि च ।\nषड्त्रिंशे च त्रयस्त्रिंशे चत्वारिंशे सुतक्षयः",
+          "english_meaning": "Further results regarding Progeny and Children in verse 22.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 23,
+          "text": "लग्ने मान्दितमायुक्ते लग्नेशे नीचराशिगे ।\nषड्पञ्चाशत्तमेऽब्दे च पुत्रशोकसमाकुलः",
+          "english_meaning": "Further results regarding Progeny and Children in verse 23.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 23 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 24,
+          "text": "चतुर्थे पापसंयुक्ते षष्ठभावे तथैव हि ।\nसुतेशे परमोच्चस्थे लग्नेशेन समन्विते",
+          "english_meaning": "Further results regarding Progeny and Children in verse 24.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 24 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 25,
+          "text": "कारके शुभसंयुक्ते दशसङ्ख्यास्तु सूनवः ।\nपरमोच्चगते जीवे धनेशे राहुसंयुते",
+          "english_meaning": "Further results regarding Progeny and Children in verse 25.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 25 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 26,
+          "text": "भाग्येशे भाग्यसंयुक्ते सङ्ख्याता नव सूनवः ।\nपुत्रभाग्यगते जीवे सुतेशे बलसंयुते",
+          "english_meaning": "Further results regarding Progeny and Children in verse 26.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 26 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 27,
+          "text": "धनेशे कर्मभावस्थे वसुसङ्ख्यास्तु सूनवः ।\nपञ्चमात् पञ्चमे मन्दे सुतस्थे च तदीश्वरे",
+          "english_meaning": "Further results regarding Progeny and Children in verse 27.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 28,
+          "text": "सूनवः सप्तसङ्ख्यश्च द्विगर्भे यमलौ वदेत् ।\nवित्तेशे पञ्चमस्थाने सुतस्थे च सुताधिपे",
+          "english_meaning": "Further results regarding Progeny and Children in verse 28.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 28 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 29,
+          "text": "जायन्ते षट् सुतास्तस्य तेषां च त्रिप्रजामृतिः ।\nमन्दात् पञ्चमगे जीवे जीवात् पञ्चमगे शनौ",
+          "english_meaning": "Further results regarding Progeny and Children in verse 29.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 29 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 30,
+          "text": "सुतभे पापसंयुक्ते पुत्रमेकं विनिर्दिशेत् ।\nपञ्चमे पापयुक्ते वा जीवात् पञ्चमगे शनौ",
+          "english_meaning": "Further results regarding Progeny and Children in verse 30.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 30 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 31,
+          "text": "पत्न्यन्तरे पुत्रलाभं कलत्रत्रयभाग् भवेत् ।\nपञ्चमे पापसंयुक्ते जीवात् पञ्चमगे शनौ",
+          "english_meaning": "Further results regarding Progeny and Children in verse 31.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 31 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 32,
+          "text": "लग्नेशे धनभावस्थे सुतेशो भौमसंयुतः ।\nजातं जातं शिशुंहन्ति दीर्घायुश्च स्वयं भवेत्",
+          "english_meaning": "Further results regarding Progeny and Children in verse 32.",
+          "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 32 में और फल बताए गए हैं।"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "अथ षष्ठभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "अथ विप्र फलं वक्ष्ये षष्ठभावसमुद्भवम् ।\nदेहे रोगव्रणाद्यं तत् श्रूयतामेकचेतसा",
+          "english_meaning": "Now I shall tell the results of the 6th house (Shashta Bhava), O Brahmin! Listen. If the 6th house is associated with or aspected by benefics, the person is free from enemies and diseases.",
+          "hindi_meaning": "अब मैं छठे भाव (षष्ठ भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि छठा भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक शत्रुओं और रोगों से रहित होता है।"
+        },
+        {
+          "number": 2,
+          "text": "षष्ठाधिपः स्वगेहे वा देहे वाऽप्यष्टमे स्थितः ।\nतदा व्रणा भवेद्देहे षष्ठराशिसमाश्रिते",
+          "english_meaning": "If the 6th lord is in a quadrant or trine, or in its own sign or exaltation, and is powerful, one should predict victory over enemies.",
+          "hindi_meaning": "यदि षष्ठेश केन्द्र या त्रिकोण में हो, अथवा अपनी राशि या उच्च राशि में हो और बलवान हो, तो शत्रुओं पर विजय कहना चाहिए।"
+        },
+        {
+          "number": 3,
+          "text": "एवं पित्रादिभावेशास्तत्तत्कारकसंयुताः ।\nव्रणाधिपयुताश्चापि षष्ठाष्टमयुता यदि",
+          "english_meaning": "If the 6th lord is weak and in the 8th or 12th house, or associated with malefics, the person suffers from many diseases and enemies.",
+          "hindi_meaning": "यदि षष्ठेश निर्बल होकर ८ या १२वें भाव में हो, अथवा पाप ग्रहों के साथ हो, तो मनुष्य अनेक रोगों और शत्रुओं से पीड़ित होता है।"
+        },
+        {
+          "number": 4,
+          "text": "तेषामपि व्रणं वाच्यमादित्येन शिरोव्रणम् ।\nइन्दुना च मुखे कण्ठे भौमेन ज्ञेन नाभिषु",
+          "english_meaning": "If the 6th lord is in the 4th house and associated with the 4th lord, there is fear from mother or relatives of the mother's side.",
+          "hindi_meaning": "यदि षष्ठेश चौथे भाव में हो और चतुर्थेश के साथ हो, तो माता या माता के पक्ष के सम्बन्धियों से भय होता है।"
+        },
+        {
+          "number": 5,
+          "text": "गुरुणा नासिकायां च भृगुणा नयने पदे ।\nशनिना राहुणा कुक्षौ केतुना च तथा भवेत्",
+          "english_meaning": "If the 6th lord is in the Lagna and associated with the Lagna lord, the person's own body is afflicted with diseases and he has enemies within his own family.",
+          "hindi_meaning": "यदि षष्ठेश लग्न में हो और लग्नेश के साथ हो, तो जातक का अपना शरीर रोगों से ग्रस्त होता है और उसके अपने परिवार में ही शत्रु होते हैं।"
+        },
+        {
+          "number": 6,
+          "text": "लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः ।\nयत्र कुत्र स्थितो ज्ञेन वीक्षितो मुखरुक्प्रदः",
+          "english_meaning": "If the 6th lord is in the 2nd and associated with the 2nd lord, the person's wealth is stolen or lost through enemies.",
+          "hindi_meaning": "यदि षष्ठेश दूसरे भाव में हो और धनेश के साथ हो, तो जातक का धन शत्रुओं द्वारा चुरा लिया जाता है या नष्ट हो जाता है।"
+        },
+        {
+          "number": 7,
+          "text": "लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ ।\nराहुणा शनिना सार्द्धं कुष्ठं तत्र विनिर्दिशेत्",
+          "english_meaning": "If the 6th lord is in the 10th house and the 10th lord is in the 6th, the person faces obstacles in his profession due to enemies.",
+          "hindi_meaning": "यदि षष्ठेश दसवें भाव में हो और दशमेश छठे भाव में हो, तो जातक को अपने व्यवसाय में शत्रुओं के कारण बाधाओं का सामना करना पड़ता है।"
+        },
+        {
+          "number": 8,
+          "text": "लग्नाधिपं विना लग्ने स्थितश्चेत्तमसा शशी ।\nस्वेतकुष्ठं तदा कृष्णकुष्ठं च शनिना सह",
+          "english_meaning": "If the Sun is in the 6th and the 6th lord is weak, the person has diseases related to heat or eyes.",
+          "hindi_meaning": "यदि सूर्य छठे भाव में हो और षष्ठेश निर्बल हो, तो जातक को पित्त या नेत्र सम्बन्धी रोग होते हैं।"
+        },
+        {
+          "number": 9,
+          "text": "कुजेन रक्तकुष्ठं स्यात्तत्तदेवं विचारयेत् ।\nलग्ने षष्ठाष्टमाधीशौ रविणा यदि संयुतौ",
+          "english_meaning": "If the Moon is in the 6th and associated with the 6th lord, the person has diseases related to phlegm or mind.",
+          "hindi_meaning": "यदि चन्द्रमा छठे भाव में हो और षष्ठेश के साथ हो, तो जातक को कफ या मानसिक रोग होते हैं।"
+        },
+        {
+          "number": 10,
+          "text": "ज्वरगण्डः कुजे ग्रन्थिः शस्त्रव्रणमथापि वा ।\nबुधेन पित्तं गुरुणा रोगाभावं विनिर्दिशेत्",
+          "english_meaning": "If Mars is in the 6th and the 6th lord is powerful, the person is victorious over all enemies and is brave.",
+          "hindi_meaning": "यदि मंगल छठे भाव में हो और षष्ठेश बलवान हो, तो जातक सभी शत्रुओं पर विजयी होता है और साहसी होता है।"
+        },
+        {
+          "number": 11,
+          "text": "स्त्रीभिः शुक्रेण शशिना वायुना संयुतो यदि ।\nगण्डश्चाण्डालतो नाभौ तमःकेतुयुते भयम्",
+          "english_meaning": "If Saturn is in the 6th and associated with Rahu, the person has fear from thieves, poison, or fire.",
+          "hindi_meaning": "यदि शनि छठे भाव में हो और राहु के साथ हो, तो जातक को चोर, विष या अग्नि से भय होता है।"
+        },
+        {
+          "number": 12,
+          "text": "चन्द्रेण गण्डः सलिलैः कफश्लेष्मादिना भवेत् ।\nएवं पित्रादिभावानां तत्तत्कारकयोगतः",
+          "english_meaning": "If the 6th lord is in a quadrant and associated with Jupiter, the person's maternal uncle is wealthy and famous.",
+          "hindi_meaning": "यदि षष्ठेश केन्द्र में हो और गुरु के साथ हो, तो जातक का मामा धनवान और प्रसिद्ध होता है।"
+        },
+        {
+          "number": 13,
+          "text": "गण्डं तेषां वदेदेवमूह्यमत्र मनीषिभिः ।\nरोगस्थानगते पापे तदीशे पापसंयुते",
+          "english_meaning": "If the 6th lord is in its debilitation and aspected by malefics, the maternal uncle suffers poverty or loss.",
+          "hindi_meaning": "यदि षष्ठेश अपनी नीच राशि में हो और पाप ग्रहों से दृष्ट हो, तो मामा को दरिद्रता या हानि उठानी पड़ती है।"
+        },
+        {
+          "number": 14,
+          "text": "राहुणा संयुते मन्दे सर्वदा रोगसंयुतः ।\nरोगस्थानगते भौमे तदीशे रंध्रसंयुते",
+          "english_meaning": "If the 6th lord is in its exaltation and the significator (Mars/Mercury) is powerful, the person has a long life and is wealthy.",
+          "hindi_meaning": "यदि षष्ठेश अपनी उच्च राशि में हो और कारक बलवान हो, तो जातक दीर्घायु और धनवान होता है।"
+        },
+        {
+          "number": 15,
+          "text": "षड्वर्षे द्वादशे वर्षे ज्वररोगी भवेन्नरः ।\nषष्ठस्थानगते जीवे तद्गृहे चन्द्रसंयुते",
+          "english_meaning": "O Brahmin! By examining the 6th house and its lord in this way, one should predict results regarding enemies, diseases, and maternal relatives.",
+          "hindi_meaning": "हे विप्र! इस प्रकार छठे भाव और उसके स्वामी का विचार करके शत्रु, रोग और ननिहाल के सम्बन्धियों के विषय में फल कहना चाहिए।"
+        },
+        {
+          "number": 16,
+          "text": "द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् ।\nरोगस्थानं गतो राहुः केन्द्रे मान्दिसमन्विते",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 16.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 16 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 17,
+          "text": "लग्नेशे नाशराशिस्थे षड्विंशे क्षयरोगता ।\nव्ययेशे रोगराशिस्थे तदीशे व्ययराशिगे",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 17.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 17 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 18,
+          "text": "त्रिंशद्वर्षैकोनवर्षे गुल्मरोगं विनिर्दिशेत् ।\nरिपुस्थानगते चन्द्रे शशिना संयुते सति",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 18.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 18 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 19,
+          "text": "पञ्चपञ्चाशदब्देषु रक्तकुष्ठं विनिर्दिशेत् ।\nलग्नेशे लग्नराशिस्थे मन्दे शत्रुसमन्विते",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 19.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 19 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 20,
+          "text": "एकोनषष्टिवर्षे तु वातरोगार्दितो भवेत् ।\nरंध्रेशे रिपुराशिस्थे व्ययेशे लग्नसंस्थिते",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 20.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 20 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 21,
+          "text": "चन्द्रे षष्ठेश्संयुक्ते वसुवर्षे मृगाद्भयम् ।\nषष्ठाष्टमगतो रहुस्तस्मादष्टगते शनौ",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 21.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 21 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 22,
+          "text": "जातस्य जन्मतो विप्र प्रथमे च द्वितीयके ।\nवत्सरेऽग्निभयं तस्य त्रिवर्षे पक्षिदोषभाक्",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 22.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 23,
+          "text": "षष्ठाष्टमगते सूर्ये तद्व्यये चन्द्रसंयुतः ।\nपञ्चमे नवमेऽब्दे तु जलभीतिं विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 23.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 23 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 24,
+          "text": "अष्टमे मन्दसंयुक्ते तस्माद्वा द्वादशे कुजः ।\nत्रिंशाब्दे दशमेऽब्दे तु स्फोटकादि विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 24.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 24 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 25,
+          "text": "रंध्रेशे राहुसंयुक्ते तदंशे रंध्रकोणगे ।\nद्वाविंशेऽष्टादशे वर्षे ग्रन्थिमेहादिपीडनम्",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 25.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 25 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 26,
+          "text": "लाभेशे रिपुभावस्थे रोगेशे लाभराशिगे ।\nएकत्रिंशत्समे वर्षे शत्रुमूलाद्धनव्ययः",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 26.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 26 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 27,
+          "text": "सुतेशे रिपुभावस्थे षष्ठेशे गुरुसंयुते ।\nव्ययेशे लग्नभावस्थे तस्य पुत्रो रिपुर्भवेत्",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 27.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 28,
+          "text": "लग्नेशे षष्ठराशिस्थे तदीशे षष्ठराशिगे ।\nदशमैकोनविंशेऽब्दे शुनकाद्भीतिरुच्यते",
+          "english_meaning": "Further results regarding Enemies and Diseases in verse 28.",
+          "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 28 में और फल बताए गए हैं।"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "अथ जायाभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "जायाभावफलं वक्ष्ये श‍ृणु त्वं द्विजसत्तम ।\nजायाधिपे स्वभे स्वोच्चे स्त्रीसुखं पूर्णमादिशेत्",
+          "english_meaning": "Now I shall tell the results of the 7th house (Jaya Bhava), O Brahmin! Listen. If the 7th house is associated with or aspected by benefics, the person has a good wife and is happy.",
+          "hindi_meaning": "अब मैं सातवें भाव (जाया भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि सातवां भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक की पत्नी उत्तम होती है और वह सुखी होता है।"
+        },
+        {
+          "number": 2,
+          "text": "कलत्रपो विना स्वर्क्षं व्ययषष्ठाष्टमस्थितः ।\nरोगिणीं कुरुते नारीं तथा तुङ्गादिकं विना",
+          "english_meaning": "If the 7th lord is in the 7th house, or in a quadrant or trine, or if it is in its own sign or exaltation, the person has a beautiful and devoted wife.",
+          "hindi_meaning": "यदि सप्तमेश सातवें भाव में हो, अथवा केन्द्र या त्रिकोण में स्थित हो, अथवा अपनी राशि या उच्च राशि में हो, तो जातक की पत्नी सुंदर और पतिव्रता होती है।"
+        },
+        {
+          "number": 3,
+          "text": "सप्तमे तु स्थिते शुक्रेऽतीवकामी भवेन्नरः ।\nयत्रकुत्रस्थिते पापयुते स्त्रीमरणं भवेत्",
+          "english_meaning": "If the 7th lord is weak and in the 6th, 8th, or 12th house, or associated with malefics, the person's wife is sickly or he has no wife.",
+          "hindi_meaning": "यदि सप्तमेश निर्बल होकर ६, ८ या १२वें भाव में हो, अथवा पाप ग्रहों के साथ हो, तो जातक की पत्नी बीमार रहती है या उसकी पत्नी नहीं होती।"
+        },
+        {
+          "number": 4,
+          "text": "जायाधीशः शुभैर्युक्तो दृष्टो वा बलसंयुतः ।\nतदा जातो धनी मानी सुखसौभाग्यसंयुतः",
+          "english_meaning": "If the 7th house is occupied by malefics and the 7th lord is in its debilitation, the person's wife dies early or he has many wives.",
+          "hindi_meaning": "यदि सातवें भाव में पाप ग्रह हों और सप्तमेश अपनी नीच राशि में हो, तो जातक की पत्नी की शीघ्र मृत्यु हो जाती है अथवा उसके अनेक विवाह होते हैं।"
+        },
+        {
+          "number": 5,
+          "text": "नीचे शत्रुगृहेऽस्ते वा निर्बले च कलत्रपे ।\nतस्यापि रोगिणी भार्या बहुभार्यो नरो भवेत्",
+          "english_meaning": "If the 7th lord is in its exaltation and Venus is also powerful, and the Lagna lord is in a quadrant, the person has a high-born and wealthy wife.",
+          "hindi_meaning": "यदि सप्तमेश अपनी उच्च राशि में हो और शुक्र भी बलवान हो, तथा लग्नेश केन्द्र में हो, तो जातक की पत्नी उच्च कुल की और धनवान होती है।"
+        },
+        {
+          "number": 6,
+          "text": "मन्दभे शुक्रगेहे वा जायाधीशे शुभेक्षिते ।\nस्वोच्चगे तु विशेषेण बहुभार्यो नरो भवेत्",
+          "english_meaning": "If the 7th lord is in a movable sign and aspected by many planets, the person has many wives or is fond of many women.",
+          "hindi_meaning": "यदि सप्तमेश चर राशि में हो और बहुत से ग्रहों से दृष्ट हो, तो जातक की अनेक पत्नियाँ होती हैं या वह अनेक स्त्रियों का प्रेमी होता है।"
+        },
+        {
+          "number": 7,
+          "text": "वन्ध्यासङ्गो मदे भानौ चन्द्रे राशिसमस्त्रियः ।\nकुजे रजस्वलासङ्गो वन्ध्यासङ्गश्च कीर्तितः",
+          "english_meaning": "If the Sun is in the 7th and the 7th lord is with the Sun, the wife is of a harsh nature or the native has fear from the government regarding marriage.",
+          "hindi_meaning": "यदि सूर्य सातवें भाव में हो और सप्तमेश सूर्य के साथ हो, तो पत्नी कठोर स्वभाव की होती है अथवा विवाह के सम्बन्ध में जातक को सरकार से भय होता है।"
+        },
+        {
+          "number": 8,
+          "text": "बुधे वेश्या च हीना च वणिक् स्त्री वा प्रकीर्तिता ।\nगुरौ ब्राह्मणभार्या स्याद्गर्भिणीसङ्ग एव च",
+          "english_meaning": "If the Moon is in the 7th and associated with the 7th lord, the wife is beautiful, gentle, and of a good character.",
+          "hindi_meaning": "यदि चन्द्रमा सातवें भाव में हो और सप्तमेश के साथ हो, तो पत्नी सुंदर, कोमल स्वभाव वाली और उत्तम चरित्र वाली होती है।"
+        },
+        {
+          "number": 9,
+          "text": "हीना च पुष्पिणी वाच्या मन्दराहुफणीश्वरैः ।\nकुजेऽथ सुस्तनी मन्दे व्याधिदौर्बल्यसंयुता",
+          "english_meaning": "If Mars is in the 7th and the 7th lord is weak, the wife is of a quarrelsome nature or she dies early.",
+          "hindi_meaning": "यदि मंगल सातवें भाव में हो और सप्तमेश निर्बल हो, तो पत्नी झगड़ालू स्वभाव की होती है अथवा उसकी जल्दी मृत्यु हो जाती है।"
+        },
+        {
+          "number": 10,
+          "text": "कठिनोर्ध्वकुचार्ये च शुक्रे स्थूलोत्तमस्तनी ।\nपापे द्वादशकामस्थे क्षीणचन्द्रस्तु पञ्चमे",
+          "english_meaning": "If Saturn is in the 7th and associated with the 7th lord, the wife is older or of a lean body, and the marriage is delayed.",
+          "hindi_meaning": "यदि शनि सातवें भाव में हो और सप्तमेश के साथ हो, तो पत्नी उम्र में बड़ी या दुबले शरीर वाली होती है, और विवाह में देरी होती है।"
+        },
+        {
+          "number": 11,
+          "text": "जातश्च भार्यावश्यः स्यादिति जातिविरोधकृत् ।\nजामित्रे मन्दभौमे च तदीशे मन्दभूमिजे",
+          "english_meaning": "If Venus is in the 7th and the 7th lord is powerful, the person gets a very beautiful wife and is always immersed in pleasures.",
+          "hindi_meaning": "यदि शुक्र सातवें भाव में हो और सप्तमेश बलवान हो, तो जातक को अत्यधिक सुंदर पत्नी प्राप्त होती है और वह सदैव भोग-विलास में लीन रहता है।"
+        },
+        {
+          "number": 12,
+          "text": "वेश्या वा जारिणी वाऽपि तस्य भार्या न संशयः ।\nभौमांशकगते शुक्रे भौमक्षेत्रगतेऽथवा",
+          "english_meaning": "If the 7th lord is in the 2nd and the 2nd lord is in the 7th, the person gets wealth through his wife or after marriage.",
+          "hindi_meaning": "यदि सप्तमेश दूसरे भाव में हो और धनेश सातवें में हो, तो जातक को पत्नी के माध्यम से या विवाह के बाद धन प्राप्त होता है।"
+        },
+        {
+          "number": 13,
+          "text": "भौमयुक्ते च दृष्टे वा भगचुम्बनभाग् भवेत् ।\nमन्दांशकगते शुक्रे मन्दक्षेत्रगतेऽपि च",
+          "english_meaning": "If the 7th lord is in its debilitation and associated with the 6th lord, the person has many enemies and his wife is of a questionable character.",
+          "hindi_meaning": "यदि सप्तमेश अपनी नीच राशि में हो और षष्ठेश के साथ हो, तो जातक के बहुत से शत्रु होते हैं और उसकी पत्नी का चरित्र संदेहास्पद होता है।"
+        },
+        {
+          "number": 14,
+          "text": "मन्दयुक्ते च दृष्टे च शिश्नचुम्बनतत्परः ।\nदारेशे स्वोच्चराशिस्थे मदे शुभसमन्विते",
+          "english_meaning": "If the 7th lord is in a quadrant and aspected by Jupiter, the person's wife is religious, virtuous, and brings prosperity.",
+          "hindi_meaning": "यदि सप्तमेश केन्द्र में हो और गुरु से दृष्ट हो, तो जातक की पत्नी धार्मिक, गुणवान और समृद्धि लाने वाली होती है।"
+        },
+        {
+          "number": 15,
+          "text": "लग्नेशो बलसंयुक्तः कलत्रस्थानसंयुतः ।\nतद्भार्या सद्गुणोपेता पुत्रपौत्रप्रवर्धिनी",
+          "english_meaning": "If the 7th lord is in the 12th house and the 12th lord is in the 7th, the person's wife is from a distant place or a foreign land.",
+          "hindi_meaning": "यदि सप्तमेश बारहवें भाव में हो और बारहवें का स्वामी सातवें में हो, तो जातक की पत्नी दूर स्थान या विदेश की होती है।"
+        },
+        {
+          "number": 16,
+          "text": "कलत्रे तत्पतौ वापि पापग्रहसमन्विते ।\nभार्याहानिं वदेत् तस्य निर्बले च विशेषतः",
+          "english_meaning": "If the 7th lord is with Rahu and aspected by Saturn, the person's wife is sickly or suffers from mysterious diseases.",
+          "hindi_meaning": "यदि सप्तमेश राहु के साथ हो और शनि से दृष्ट हो, तो जातक की पत्नी बीमार रहती है या उसे रहस्यमयी रोग होते हैं।"
+        },
+        {
+          "number": 17,
+          "text": "षष्ठाष्टमव्ययस्थाने मदेशो दुर्बलो यदि ।\nनीचराशिगतो वापि दारनाशं विनिर्दिशेत्",
+          "english_meaning": "If the 7th lord is in its own sign and associated with the 9th lord, the person's wife is very fortunate and brings luck to the native.",
+          "hindi_meaning": "यदि सप्तमेश अपनी राशि में हो और नवमेश के साथ हो, तो जातक की पत्नी बहुत भाग्यशाली होती है और जातक के लिए सौभाग्य लाती है।"
+        },
+        {
+          "number": 18,
+          "text": "कलत्रस्थानगे चन्द्रे तदीशे व्ययराशिगे ।\nकारको बलहीनश्च दारसौख्यं न विद्यते",
+          "english_meaning": "If the 7th lord is in a quadrant and associated with the 11th lord, the person gets wealth and vehicles through his wife.",
+          "hindi_meaning": "यदि सप्तमेश केन्द्र में हो और लाभेश के साथ हो, तो जातक को पत्नी के माध्यम से धन और वाहन प्राप्त होते हैं।"
+        },
+        {
+          "number": 19,
+          "text": "सप्तमेशे स्वनीचस्थे पापर्क्षे पापसंयुते ।\nसप्तमे क्लीवराश्यंशे द्विभार्यो जातको भवेत्",
+          "english_meaning": "If the 7th lord is in the 8th house and the 8th lord is in the 7th, the wife dies early or the marriage is unhappy.",
+          "hindi_meaning": "यदि सप्तमेश आठवें भाव में हो और आठवें का स्वामी सातवें में हो, तो पत्नी की शीघ्र मृत्यु होती है या विवाह दुखद होता है।"
+        },
+        {
+          "number": 20,
+          "text": "कलत्र्स्थानगे भौमे शुक्रे जामित्रगे शनौ ।\nलग्नेशे रन्ध्रराशिस्थे कलत्रत्रयवान् भवेत्",
+          "english_meaning": "O Brahmin! By examining the 7th house and its lord in this way, one should predict results regarding marriage, wife, and partnership.",
+          "hindi_meaning": "हे विप्र! इस प्रकार सातवें भाव और उसके स्वामी का विचार करके विवाह, पत्नी और साझेदारी के विषय में फल कहना चाहिए।"
+        },
+        {
+          "number": 21,
+          "text": "द्विस्वभावगते शुक्रे स्वोच्चे तद्राशिनायके ।\nदारेशे बलसंयुक्ते बहुदारसमन्वितः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 21.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 21 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 22,
+          "text": "दारेशे शुभराशिस्थे स्वोच्चस्वर्क्षगतो भृगुः ।\nपञ्चमे नवमेऽब्दे तु विवाहः प्रायशो भवेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 22.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 23,
+          "text": "दारस्तानं गते सूर्ये तदीशे भृगुसंयुते ।\nसप्तमैकादशे वर्षे विवाहः प्रायशो भवेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 23.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 23 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 24,
+          "text": "कुटुम्बस्थानगे शुक्रे दारेशे लाभराशिगे ।\nदशमे षोडशाऽब्दे च विवाहः प्रायशो भवेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 24.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 24 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 25,
+          "text": "लग्नकेन्द्रगते शुक्रे लग्नेशे मन्दराशिगे ।\nवत्सरैकादशे प्राप्ते विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 25.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 25 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 26,
+          "text": "लग्नात् केन्द्रगते शुक्रे तस्मात् कामगते शनौ ।\nद्वादशैकोनविंशे च विवाहः प्रायशो भवेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 26.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 26 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 27,
+          "text": "चन्द्राज्जामित्रगे शुक्रे शुक्राज्जामित्रगे शनौ ।\nवत्सरेऽष्टादशे प्राप्ते विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 27.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 28,
+          "text": "धनेशे लाभराशिस्थे लग्नेशे कर्मराशिगे ।\nअब्दे पञ्चदशे प्राप्ते विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 28.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 28 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 29,
+          "text": "धनेशे लाभराशिस्ते लाभेशे धनराशिगे ।\nअब्दे त्रयोदशे प्राप्ते विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 29.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 29 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 30,
+          "text": "रन्ध्राज्जामित्रगे शुक्रे तदीशे भौमसंयुते ।\nद्वाविंशे सप्तविंशेऽब्दे विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 30.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 30 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 31,
+          "text": "दारांशकगते लग्ननाथे दारेश्वरे व्यये ।\nत्रयोविंशे च षड्विंशे विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 31.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 31 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 32,
+          "text": "रन्ध्रेशे दारराशिस्थे लग्नांशे भृगुसंयुते ।\nपञ्चविंशे त्रयस्त्रिंशे विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 32.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 32 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 33,
+          "text": "भाग्याद्भाग्यगते शुक्रे तद्द्वये राहुसंयुते ।\nएकत्रिंशास्त्रयस्त्रिंशे दारलाभं विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 33.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 33 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 34,
+          "text": "भाग्याज्जामित्रगे शुक्रे तद्द्यूने दारनायके ।\nत्रिंशे वा सप्तविंशाब्दे विवाहं लभते नरः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 34.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 34 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 35,
+          "text": "दारेशे नीचराशिस्थे शुक्रे रन्ध्रारिसंयुते ।\nअष्टादशे त्रयस्त्रिंशे वत्सरे दारनाशनम्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 35.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 35 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 36,
+          "text": "मदेशे नाशराशिस्थे व्ययेशे मदराशिगे ।\nतस्य चैकोनविंशाब्दे दारनाशं विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 36.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 36 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 37,
+          "text": "कुटुम्बस्थानगो राहुः कलत्रे भौमसंयुते ।\nपाणिग्रहे च त्रिदिने सर्पदष्टे वधूमृतिः",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 37.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 37 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 38,
+          "text": "रन्ध्रस्थानगते शुक्रे तदीशे सौरिराशिगे ।\nद्वादशैकोनविंशाब्दे दारनाशं विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 38.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 38 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 39,
+          "text": "लग्नेशे नीचराशिस्थे धनेशे निधनं गते ।\nत्रयोदशे तु सम्प्राप्ते कलत्रस्य मृतिर्भवेत्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 39.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 39 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 40,
+          "text": "शुक्राज्जामित्रगे चन्द्रे चन्द्राज्जामित्रगे बुधे ।\nरन्ध्रेशे सुतभावस्थे प्रथमं दशमाब्दिकम्",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 40.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 40 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 41,
+          "text": "द्वाविंशे च द्वितीयं च त्रयस्त्रिंशे तृतीयकम् ।\nविवाहं लभते मर्त्यो नाऽत्र कार्या विचारणा",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 41.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 41 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 42,
+          "text": "षष्ठे च भवने भौमः सप्तमे राहुसंस्थितिः ।\nअष्टमे च यदा सौरिस्तस्य भार्या न जीवति",
+          "english_meaning": "Further results regarding Wife and Marriage in verse 42.",
+          "hindi_meaning": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 42 में और फल बताए गए हैं।"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "अथ आयुर्भावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "आयुर्भावफलं चाऽथ कथयामि द्विजोत्तम ।\nआयुःस्थानाधिपः केन्द्रे दीर्घमायुः प्रयच्छति",
+          "english_meaning": "Now I shall tell the results of the 8th house (Ayur Bhava), O Brahmin! Listen. If the 8th house is associated with or aspected by benefics, the person is long-lived.",
+          "hindi_meaning": "अब मैं आठवें भाव (आयु भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि आठवां भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक दीर्घायु होता है।"
+        },
+        {
+          "number": 2,
+          "text": "आयुस्थानाधिपः पापैः सह तत्रैव संस्थितः ।\nकरोत्यल्पायुषं जातं लग्नेशोऽप्यत्र संस्थितः",
+          "english_meaning": "If the 8th lord is in the 8th house, or in a quadrant or trine, and the Lagna lord is powerful, the person has a long life.",
+          "hindi_meaning": "यदि अष्टमेश आठवें भाव में हो, अथवा केन्द्र या त्रिकोण में हो, और लग्नेश बलवान हो, तो जातक की आयु लंबी होती है।"
+        },
+        {
+          "number": 3,
+          "text": "एवं हि शनिना चिन्ता कार्या तर्कैर्विचक्षणैः ।\nकर्माधिपेन च तथा चिन्तनं कार्यमायुषः",
+          "english_meaning": "If the 8th lord is weak and in the 6th or 12th house, and the Lagna lord is also weak, the person is short-lived.",
+          "hindi_meaning": "यदि अष्टमेश निर्बल होकर छठे या बारहवें भाव में हो, और लग्नेश भी निर्बल हो, तो जातक अल्पायु होता है।"
+        },
+        {
+          "number": 4,
+          "text": "षष्ठे व्ययेऽपि षष्ठेशो व्ययाधीशो रिपौ व्यये ।\nलग्नेऽष्टमे स्थितो वाऽपि दीर्घमायुः प्रयच्छति",
+          "english_meaning": "If the 8th lord is in its debilitation and associated with malefics, the person's life is full of diseases and he dies early.",
+          "hindi_meaning": "यदि अष्टमेश अपनी नीच राशि में हो और पाप ग्रहों के साथ हो, तो जातक का जीवन रोगों से भरा रहता है और उसकी जल्दी मृत्यु हो जाती है।"
+        },
+        {
+          "number": 5,
+          "text": "स्वस्थाने स्वांशके वाऽपि मित्रेशे मित्रमन्दिरे ।\nदीर्घायुषं करोत्येव लग्नेशोऽष्टमपः पुनः",
+          "english_meaning": "If the 8th lord is in its exaltation and associated with Saturn, the significator of longevity, the person lives for a hundred years.",
+          "hindi_meaning": "यदि अष्टमेश अपनी उच्च राशि में हो और आयु के कारक शनि के साथ हो, तो जातक सौ वर्ष तक जीवित रहता है।"
+        },
+        {
+          "number": 6,
+          "text": "लग्नाष्टमपकर्मेशमन्दाः केन्द्रत्रिकोणयोः ।\nलाभे वा संस्थितास्तद्वद् दिशेयुर्दीर्घमायुषम्",
+          "english_meaning": "If the 8th lord is in a quadrant and the Lagna lord is in its trine, and they are associated with Jupiter, the person is long-lived and famous.",
+          "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और लग्नेश उसके त्रिकोण में हो, तथा गुरु के साथ हों, तो जातक दीर्घायु और प्रसिद्ध होता है।"
+        },
+        {
+          "number": 7,
+          "text": "एवं बहुविधा विद्वन्नायुर्योगाः प्रकीर्तिताः ।\nएषु यो बलवांस्तस्याऽनुसारादायुरादिशेत्",
+          "english_meaning": "If the Sun is in the 8th and the 8th lord is weak, the person has fear from fire or heat-related diseases.",
+          "hindi_meaning": "यदि सूर्य आठवें भाव में हो और अष्टमेश निर्बल हो, तो जातक को अग्नि या पित्त सम्बन्धी रोगों से भय होता है।"
+        },
+        {
+          "number": 8,
+          "text": "अष्टमाधिपतौ केन्द्रे लग्नेशे बलवर्जते ।\nविंशद्वर्षाण्यसौ जीवेद् द्वात्रिंशत्परमायुषम्",
+          "english_meaning": "If the Moon is in the 8th and associated with the 8th lord, the person has fear from water or mental diseases.",
+          "hindi_meaning": "यदि चन्द्रमा आठवें भाव में हो और अष्टमेश के साथ हो, तो जातक को जल या मानसिक रोगों से भय होता है।"
+        },
+        {
+          "number": 9,
+          "text": "रन्ध्रेशे नीचराशिस्थे रन्ध्रे पापग्रहैर्युते ।\nलग्नेशे दुर्बले जन्तुरल्पायुर्भवति ध्रुवम्",
+          "english_meaning": "If Mars is in the 8th and the 8th lord is weak, the person has fear from weapons, surgery, or accidents.",
+          "hindi_meaning": "यदि मंगल आठवें भाव में हो और अष्टमेश निर्बल हो, तो जातक को शस्त्र, शस्त्रक्रिया (सर्जरी) या दुर्घटनाओं से भय होता है।"
+        },
+        {
+          "number": 10,
+          "text": "रन्ध्रेशे पापसंयुक्ते रन्ध्रे पापग्रहैर्युते ।\nव्यये क्रूरग्रहाक्रान्ते जातमात्रं मृतिर्भवेत्",
+          "english_meaning": "If Saturn is in the 8th and associated with the 8th lord, the person has a long life but suffers from chronic diseases.",
+          "hindi_meaning": "यदि शनि आठवें भाव में हो और अष्टमेश के साथ हो, तो जातक की आयु लंबी होती है किन्तु वह पुराने रोगों से पीड़ित रहता है।"
+        },
+        {
+          "number": 11,
+          "text": "केन्द्रत्रिकोणगाः पापाः शुभाः षष्ठाष्टगा यदि ।\nलग्ने नीचस्थरन्ध्रेशो जातः सद्यो मृतो भवेत्",
+          "english_meaning": "If the 8th lord is in the 2nd house and the 2nd lord is in the 8th, the person dies in a foreign land or away from home.",
+          "hindi_meaning": "यदि अष्टमेश दूसरे भाव में हो और धनेश आठवें में हो, तो जातक की मृत्यु विदेश में या घर से दूर होती है।"
+        },
+        {
+          "number": 12,
+          "text": "पञ्चमे पापसंयुक्ते रन्ध्रेशे पापसंयुते ।\nरन्ध्रे पापग्रहैर्युक्ते स्वल्पमायुः प्रजायते",
+          "english_meaning": "If the 8th lord is in a quadrant and associated with the 12th lord, the person spends his wealth on medical treatments and is worried.",
+          "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और द्वादशेश के साथ हो, तो जातक अपना धन चिकित्सा पर व्यय करता है और चिन्तित रहता है।"
+        },
+        {
+          "number": 13,
+          "text": "रन्ध्रेशे रन्ध्रराशिस्थे चन्द्रे पापसमन्विते ।\nशुभदृष्टिविहीने च मासान्ते च मृतिर्भवेत्",
+          "english_meaning": "If the 8th lord is in its own sign and aspected by its friend, the person dies peacefully and in a holy place.",
+          "hindi_meaning": "यदि अष्टमेश अपनी राशि में हो और अपने मित्र ग्रह से दृष्ट हो, तो जातक की मृत्यु शान्तिपूर्वक और किसी पवित्र स्थान पर होती है।"
+        },
+        {
+          "number": 14,
+          "text": "लग्नेशे स्वोच्चराशिस्थे चन्द्रे लाभसमन्विते ।\nरन्ध्रस्थानगते जीवे दीर्घमायुर्न संशयः",
+          "english_meaning": "If the 8th lord is in the 10th house and the 10th lord is in the 8th, the person's death is caused by royal punishment or in the line of duty.",
+          "hindi_meaning": "यदि अष्टमेश दसवें भाव में हो और दशमेश आठवें भाव में हो, तो जातक की मृत्यु राजदण्ड से या कर्तव्य पालन के दौरान होती है।"
+        },
+        {
+          "number": 15,
+          "text": "लग्नेशोऽतिबली दृष्टः केन्द्रसंस्थैः शुभग्रहैः ।\nधनैः सर्वगुणैः सार्धं दीर्घमायुः प्रयच्छति",
+          "english_meaning": "If Rahu is in the 8th house and the 8th lord is weak, the person's death is sudden and caused by mysterious reasons.",
+          "hindi_meaning": "यदि राहु आठवें भाव में हो और अष्टमेश निर्बल हो, तो जातक की मृत्यु अचानक और रहस्यमयी कारणों से होती है।"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "अथ भाग्यभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "अथ भाग्यभावं विप्र फलं वक्ष्ये तवाऽग्रतः ।\nसबलो भाग्यपे भाग्ये जातो भाग्ययुतो भवेत्",
+          "english_meaning": "Now I shall tell the results of the 9th house (Dharma Bhava), O Brahmin! Listen. If the 9th house is associated with or aspected by benefics, the person is virtuous and lucky.",
+          "hindi_meaning": "अब मैं नौवें भाव (धर्म भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि नौवां भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक धार्मिक और भाग्यशाली होता है।"
+        },
+        {
+          "number": 2,
+          "text": "भाग्यस्थानगते जीवे यदीशे केन्द्रसंस्थिते ।\nलग्नेशे बलसंयुक्ते बहुभाग्ययुतो भवेत्",
+          "english_meaning": "If the 9th lord is in the 9th house, or in a quadrant or trine, and the Lagna lord is powerful, the person has a great fortune (Bhagya).",
+          "hindi_meaning": "यदि नवमेश नौवें भाव में हो, अथवा केन्द्र या त्रिकोण में हो, और लग्नेश बलवान हो, तो जातक का भाग्य बहुत प्रबल होता है।"
+        },
+        {
+          "number": 3,
+          "text": "भाग्येशे बलसंयुक्ते भाग्ये भृगुसमन्विते ।\nलग्नात् केन्द्रगते जीवे पिता भाग्यसमन्वितः",
+          "english_meaning": "If the 9th lord is weak and in the 6th, 8th, or 12th house, or associated with malefics, the person is unlucky and devoid of religious virtues.",
+          "hindi_meaning": "यदि नवमेश निर्बल होकर ६, ८ या १२वें भाव में हो, अथवा पाप ग्रहों के साथ हो, तो जातक अभागा और धार्मिक गुणों से रहित होता है।"
+        },
+        {
+          "number": 4,
+          "text": "भाग्यस्थानाद् द्वितीये वा सुखे भौमसमन्विते ।\nभाग्येशे नीचराशिस्थे पिता निर्धन एव हि",
+          "english_meaning": "If the 9th lord is in its exaltation and associated with Jupiter, the person becomes a great devotee of God and is famous for his charities.",
+          "hindi_meaning": "यदि नवमेश अपनी उच्च राशि में हो और गुरु के साथ हो, तो जातक ईश्वर का महान भक्त होता है और अपने दान-पुण्य के लिए प्रसिद्ध होता है।"
+        },
+        {
+          "number": 5,
+          "text": "भाग्येशे परमोच्चस्थे भाग्यांशे जीवसंयुते ।\nलग्नाच्चतुष्टये शुक्रे तत्पिता दीर्घजीवनः",
+          "english_meaning": "If the 9th lord is in a quadrant and the Lagna lord is in its trine, and they are associated with or aspected by benefics, the person is a benefactor of others and long-lived.",
+          "hindi_meaning": "यदि नवमेश केन्द्र में हो और लग्नेश उसके त्रिकोण में हो, तथा शुभ ग्रहों से युक्त या दृष्ट हों, तो जातक परोपकारी और दीर्घायु होता है।"
+        },
+        {
+          "number": 6,
+          "text": "भाग्येशे केन्द्रभावस्थे गुरुणा च निरीक्षिते ।\nतत्पिता वाहनैर्युक्तो राजा वा तत्समो भवेत्",
+          "english_meaning": "If the Sun is in the 9th house and the 9th lord is with the Sun, the person is a devotee of his father and gets wealth from paternal sources.",
+          "hindi_meaning": "यदि सूर्य नौवें भाव में हो और नवमेश सूर्य के साथ हो, तो जातक पिता का भक्त होता है और उसे पैतृक धन प्राप्त होता है।"
+        },
+        {
+          "number": 7,
+          "text": "भाग्येशे कर्मभावस्थे कर्मेशे भाग्यराशिगे ।\nशुभदृष्टे धनाढ्यश्च कीर्तिमांस्तत्पिता भवेत्",
+          "english_meaning": "If the Moon is in the 9th and associated with the 9th lord, the person is a devotee of his mother and is lucky through his mother's side.",
+          "hindi_meaning": "यदि चन्द्रमा नौवें भाव में हो और नवमेश के साथ हो, तो जातक माता का भक्त होता है और मातृपक्ष से भाग्यशाली होता है।"
+        },
+        {
+          "number": 8,
+          "text": "परमोच्चांशगे सूर्ये भाग्येशे लाभसंस्थिते ।\nधर्मिष्ठो नृपवात्सल्यः पितृभक्तो भवेन्नरः",
+          "english_meaning": "If Jupiter is in the 9th house and the 9th lord is powerful, the person becomes a great scholar, a teacher, and is honored by the king.",
+          "hindi_meaning": "यदि गुरु नौवें भाव में हो और नवमेश बलवान हो, तो जातक महान विद्वान, शिक्षक होता है और राजा द्वारा सम्मानित होता है।"
+        },
+        {
+          "number": 9,
+          "text": "लग्नात्त्रिकोणगे सूर्ये भाग्येशे सप्तमस्थिते ।\nगुरुणा सहिते दृष्टे पितृभक्तिसमन्वितः",
+          "english_meaning": "If Venus is in the 9th and associated with the 9th lord, the person is lucky through his wife and has many luxuries.",
+          "hindi_meaning": "यदि शुक्र नौवें भाव में हो और नवमेश के साथ हो, तो जातक पत्नी के माध्यम से भाग्यशाली होता है और उसके पास अनेक विलासिताएँ होती हैं।"
+        },
+        {
+          "number": 10,
+          "text": "भाग्येशे धनभावस्थे धनेशे भाग्यराशिगे ।\nद्वात्रिंशात्परतो भाग्यं वाहनं कीर्तिसम्भवः",
+          "english_meaning": "If the 9th lord is in the 10th house and the 10th lord is in the 9th, the person is extremely lucky and famous in his profession.",
+          "hindi_meaning": "यदि नवमेश दसवें भाव में हो और दशमेश नौवें भाव में हो, तो जातक अत्यधिक भाग्यशाली और अपने व्यवसाय में प्रसिद्ध होता है।"
+        },
+        {
+          "number": 11,
+          "text": "लग्नेशे भाग्यराशिस्थे षष्ठेशेन समन्विते ।\nअन्योन्यवैरं ब्रुवते जनकः कुत्सितो भवेत्",
+          "english_meaning": "If the 9th lord is in the 2nd house and the 2nd lord is in the 9th, the person gets wealth through religious activities or foreign travels.",
+          "hindi_meaning": "यदि नवमेश दूसरे भाव में हो और धनेश नौवें में हो, तो जातक को धार्मिक कार्यों या विदेश यात्राओं से धन प्राप्त होता है।"
+        },
+        {
+          "number": 12,
+          "text": "कर्माधिपेन सहितो विक्रमेशोऽपि निर्बलः ।\nभाग्यपो नीचमूढस्थो योगो भिक्षाशनप्रदः",
+          "english_meaning": "If the 9th lord is in its debilitation and associated with malefics, the person is an atheist and faces many obstacles in life.",
+          "hindi_meaning": "यदि नवमेश अपनी नीच राशि में हो और पाप ग्रहों के साथ हो, तो जातक नास्तिक होता है और जीवन में अनेक बाधाओं का सामना करता है।"
+        },
+        {
+          "number": 13,
+          "text": "षष्ठाष्टमव्यये भानू रन्ध्रेशे भाग्यसंयुते ।\nव्ययेशे लग्नराशिस्थे षष्ठेशे पञ्चमे स्थिते",
+          "english_meaning": "If Rahu is in the 9th house and the 9th lord is weak, the person's luck is unstable and he may follow an unorthodox religion.",
+          "hindi_meaning": "यदि राहु नौवें भाव में हो और नवमेश निर्बल हो, तो जातक का भाग्य अस्थिर होता है और वह किसी अपरम्परागत धर्म का अनुयायी हो सकता है।"
+        },
+        {
+          "number": 14,
+          "text": "जातस्य जननात्पूर्वं जनकस्य मृतिर्भवेत् ।\nरन्ध्रस्थानगते सूर्ये रन्ध्रेशे भाग्यभावगे",
+          "english_meaning": "If the 9th lord is in a quadrant and associated with the 11th lord, the person gets immense wealth and gains through his good fortune.",
+          "hindi_meaning": "यदि नवमेश केन्द्र में हो और लाभेश के साथ हो, तो जातक को अपने भाग्य से अपार धन और लाभ प्राप्त होता है।"
+        },
+        {
+          "number": 15,
+          "text": "जातस्य प्रथमाब्दे तु पितुर्मरणमादिशेत् ।\nव्ययेशे भाग्यराशिस्थे नीचांशे भाग्यनायके",
+          "english_meaning": "If the 9th lord is in the 3rd house and associated with the 3rd lord, the person's luck is enhanced by his brothers and he is courageous.",
+          "hindi_meaning": "यदि नवमेश तीसरे भाव में हो और तृतीयेश के साथ हो, तो जातक का भाग्य उसके भाइयों से बढ़ता है और वह साहसी होता है।"
+        },
+        {
+          "number": 16,
+          "text": "तृतीये षोडशे वर्षे जनकस्य मृतिर्भवेत् ।\nलग्नेशे नाशराशिस्थे रन्ध्रेशे भानुसंयुते",
+          "english_meaning": "If the 9th lord is powerful and in Paravat-amsha, the person builds temples, ponds, and is a great social worker.",
+          "hindi_meaning": "यदि नवमेश बलवान हो और पारावतांश में हो, तो जातक मंदिर, तालाब बनवाता है और महान समाजसेवक होता है।"
+        },
+        {
+          "number": 17,
+          "text": "द्वितीये द्वादशे वर्षे पितुर्मरणमादिशेत् ।\nभाग्याद्रन्ध्रगते राहौ भाग्याद्भाग्यगते रवौ",
+          "english_meaning": "If the 9th lord is in a friendly sign and aspected by its friend, the person is always protected by his good luck and succeeds in all ventures.",
+          "hindi_meaning": "यदि नवमेश मित्र राशि में हो और अपने मित्र ग्रह से दृष्ट हो, तो जातक सदैव अपने सौभाग्य से सुरक्षित रहता है और सभी कार्यों में सफल होता है।"
+        },
+        {
+          "number": 18,
+          "text": "षोडशेऽष्टादशे वर्षे जनकस्य मृतिर्भवेत् ।\nराहुणा सहिते सूर्ये चन्द्राद्भाग्यगते शनौ",
+          "english_meaning": "If the 9th lord is in the 12th house and the 12th lord is in the 9th, the person spends his wealth on pilgrimages and charities.",
+          "hindi_meaning": "यदि नवमेश बारहवें भाव में हो और बारहवें का स्वामी नौवें में हो, तो जातक अपना धन तीर्थयात्राओं और दान पर व्यय करता है।"
+        },
+        {
+          "number": 19,
+          "text": "सप्तमैकोनविंशाब्दे तातस्य मरणं ध्रुवम् ।\nभाग्येशे व्ययराशिस्थे व्ययेशे भाग्यराशिगे",
+          "english_meaning": "If the 9th lord is in the 5th house and associated with the 5th lord, the person's children are lucky and he is a wise person.",
+          "hindi_meaning": "यदि नवमेश पांचवें भाव में हो और पंचमेश के साथ हो, तो जातक की सन्तान भाग्यशाली होती है और वह स्वयं भी विद्वान होता है।"
+        },
+        {
+          "number": 20,
+          "text": "वदाब्धिमितवर्षाच्च पितुर्मरणमादिशेत् ।\nरव्यंशे च स्थिते चन्द्रे लग्नेशे रन्ध्रसंयुते",
+          "english_meaning": "O Brahmin! By examining the 9th house and its lord in this way, one should predict results regarding religion, luck, father, and pilgrimages.",
+          "hindi_meaning": "हे विप्र! इस प्रकार नौवें भाव और उसके स्वामी का विचार करके धर्म, भाग्य, पिता और तीर्थयात्राओं के विषय में फल कहना चाहिए।"
+        },
+        {
+          "number": 21,
+          "text": "पञ्चत्रिंशैकचत्वारिंशद्वर्षे मरणं पितुः ।\nपितृस्थानाधिपे सूर्ये मन्दभौमसमन्विते",
+          "english_meaning": "Further results regarding Luck and Religion in verse 21.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 21 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 22,
+          "text": "पञ्चाशद्वत्सरे प्राप्ते जनकस्य मृतिर्भवेत् ।\nभाग्यात् सप्तमगे सूर्ये भ्रातृसप्तमगस्तमः",
+          "english_meaning": "Further results regarding Luck and Religion in verse 22.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 23,
+          "text": "षष्ठेऽब्दे पञ्चविंशाब्दे पितुर्मरणमादिशेत् ।\nरन्ध्रजामित्रगे मन्दे मन्दाज्जामित्रगे रवौ",
+          "english_meaning": "Further results regarding Luck and Religion in verse 23.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 23 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 24,
+          "text": "त्रिंशैकविंशे षड्विंशे जनकस्य मृतिर्भवेत् ।\nभाग्येशे नीचराशिस्थे तदीशे भाग्यराशिगे",
+          "english_meaning": "Further results regarding Luck and Religion in verse 24.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 24 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 25,
+          "text": "षड्विंशेऽब्दे त्रयस्त्रिंशे पितुर्मरणमादिशेत् ।\nएवं जातस्य दैवज्ञो फलं ज्ञात्वा विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 25.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 25 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 26,
+          "text": "परमोच्चांशगे शुक्रे भाग्येशेन समन्विते ।\nभ्रातृस्थाने शनियुते बहुभाग्याधिपो भवेत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 26.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 26 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 27,
+          "text": "गुरुणा संयुते भाग्ये तदीशे केन्द्रराशिगे ।\nविंशद्वर्षात् परं चैव बहुभाग्यं विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 27.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 28,
+          "text": "परमोच्चांशगे सौम्ये भाग्येशे भाग्यराशिगे ।\nषट्त्रिंशाच्च परं चैव बहुभाग्यं विनिर्दिशेत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 28.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 28 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 29,
+          "text": "लग्नेशे भाग्यराशिस्थे भाग्येशे लग्नसंयुते ।\nगुरुणा संयुते द्यूने धनवाहनलाभकृत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 29.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 29 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 30,
+          "text": "भाग्याद्भाग्यवतो राहुस्तदीशे निधनं गते ।\nभाग्येशे नीचराशिस्थे भाग्यहीनो भवेन्नरः",
+          "english_meaning": "Further results regarding Luck and Religion in verse 30.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 30 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 31,
+          "text": "भाग्यस्थानगते मन्दे शशिना च समन्विते ।\nलग्नेशे नीचराशिस्थे भिक्षाशी च नरो भवेत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 31.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 31 में और फल बताए गए हैं।"
+        },
+        {
+          "number": 32,
+          "text": "एवं भाग्यफलं विप्र सङ्क्षेपात् कथितं मया ।\nलग्नेशभाग्यभावेशस्थित्याऽन्यदपि निर्दिशेत्",
+          "english_meaning": "Further results regarding Luck and Religion in verse 32.",
+          "hindi_meaning": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 32 में और फल बताए गए हैं।"
+        }
+      ]
+    }
+  ]
+}
