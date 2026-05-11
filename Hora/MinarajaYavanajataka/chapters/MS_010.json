@@ -1,0 +1,438 @@
+{
+  "number": "10",
+  "title": "चन्द्रदर्शचाराध्यायः",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "मेषे गतो रात्रिचरः प्रसूते\nसूर्येण दृष्टः कथितप्रभावम् ।\nनरं नितान्तं व्यसपैः समेतं\nगतप्रभं भक्तिविवर्जितं च",
+      "english_meaning": "Moon in Aries aspected by Sun: Makes one very influential, but also associated with many vices/addictions, devoid of radiance, and lacking in devotion.",
+      "hindi_meaning": "मेष राशि में सूर्य से दृष्ट चन्द्रमा: जातक को विख्यात प्रभाव वाला परन्तु अत्यन्त व्यसनी, प्रभाहीन और भक्ति से रहित बनाता है।"
+    },
+    {
+      "number": 2,
+      "text": "मेषाश्रितः शीतकरः प्रदृष्टो\nभौमेन मर्त्यं सरुजं करोति ।\nबहुप्रकोपं विनयेन हीनं\nसदा दरिद्रं गतसौहृदं च",
+      "english_meaning": "Moon in Aries aspected by Mars: Makes one diseased, very angry, devoid of modesty, always poor, and friendless.",
+      "hindi_meaning": "मेष राशि में मंगल से दृष्ट चन्द्रमा: जातक को रोगी, अत्यन्त क्रोधी, विनयहीन, सदैव दरिद्र और मित्रों से रहित बनाता है।"
+    },
+    {
+      "number": 3,
+      "text": "बुधेन दृष्टः प्रकरोति चन्द्रो\nनरं विनीतं सुरशीलभाजम् ।\nमेषाश्रितो वाहनभोजनाद्यं\nप्रियंवदं ब्रह्मणवल्लभं च",
+      "english_meaning": "Moon in Aries aspected by Mercury: Makes one modest, possessing good character, endowed with vehicles and good food, a pleasant speaker, and loved by Brahmins.",
+      "hindi_meaning": "मेष राशि में बुध से दृष्ट चन्द्रमा: जातक को विनीत, श्रेष्ठ शील वाला, वाहन व उत्तम भोजन से युक्त, प्रियभाषी और ब्राह्मणों का प्रिय बनाता है।"
+    },
+    {
+      "number": 4,
+      "text": "जीवेन दृष्टः खलु मेषसंस्थ-\nचन्द्रः प्रसूते गुणकीर्तियुक्तम् ।\nनयाधिकं धर्मपरं कृतज्ञं\nदयान्वितं सत्ययुतं सदैव",
+      "english_meaning": "Moon in Aries aspected by Jupiter: Makes one virtuous and famous, very ethical, religious, grateful, compassionate, and always truthful.",
+      "hindi_meaning": "मेष राशि में गुरु से दृष्ट चन्द्रमा: जातक को गुणी, कीर्तिवान, परम नीतिज्ञ, धर्मपरायण, कृतज्ञ, दयालु और सदैव सत्यवादी बनाता है।"
+    },
+    {
+      "number": 5,
+      "text": "मेषाश्रितो भार्गवदृष्टियुक्त-\nचन्द्रः प्रसुते विधनं मनुष्यम् ।\nहतारिरोगं विनयप्रयुक्तं\nमहाप्रभं पार्थिवसंमतं च",
+      "english_meaning": "Moon in Aries aspected by Venus: Makes one wealthy, victorious over enemies and diseases, modest, very radiant, and respected by the king.",
+      "hindi_meaning": "मेष राशि में शुक्र से दृष्ट चन्द्रमा: जातक को धनवान, शत्रु व रोग नाशक, विनयी, महाप्रतापी और राजा द्वारा सम्मानित बनाता है।"
+    },
+    {
+      "number": 6,
+      "text": "दृष्टः शशाङ्कोऽजगतोऽसितेन\nपापं विधत्ते सहृजं मनुष्यम् ।\nविहीनवित्तं कलहश्रमार्तं\nविवर्जितं साधुसमगमेन",
+      "english_meaning": "Moon in Aries aspected by Saturn: Makes one sinful, diseased, devoid of wealth, suffering from quarrels and labor, and devoid of the company of good people.",
+      "hindi_meaning": "मेष राशि में शनि से दृष्ट चन्द्रमा: जातक को पापी, रोगी, धनहीन, कलह व परिश्रम से दुखी और सज्जनों के संग से रहित बनाता है।"
+    },
+    {
+      "number": 7,
+      "text": "वृषाश्रितो रात्रिकरः प्रगल्-भं\nनरं प्रसूते रवीणा च दृष्टः ।\nमायाधिकं वित्तहरं प्रजाना-\nमुग्रस्वभावं गतधर्मवृद्धिम्",
+      "english_meaning": "Moon in Taurus aspected by Sun: Makes one bold, very deceptive, a stealer of others' wealth, fierce-natured, and devoid of religious growth.",
+      "hindi_meaning": "वृष राशि में सूर्य से दृष्ट चन्द्रमा: जातक को प्रगल्भ (चतुर), अत्यधिक मायावी, दूसरों का धन हरने वाला, उग्र स्वभाव वाला और धर्म की वृद्धि से रहित बनाता है।"
+    },
+    {
+      "number": 8,
+      "text": "चन्द्रो वृषस्थः क्षितिजेन दृष्टो\nनरं सुवाते क्षतपीडितङ्गम् ।\nव्ययाधिकं कण्डुरुजासमेतं\nसुनिष्ठुरं पुण्यविवर्जितं च",
+      "english_meaning": "Moon in Taurus aspected by Mars: Causes the body to be afflicted by wounds, excessive expenditure, skin diseases (itching), cruelty, and lack of merit.",
+      "hindi_meaning": "वृष राशि में मंगल से दृष्ट चन्द्रमा: जातक को अंगों में घाव से पीड़ित, अत्यधिक व्यय करने वाला, खुजली आदि चर्म रोगों से युक्त, निष्ठुर और पुण्य से रहित बनाता है।"
+    },
+    {
+      "number": 9,
+      "text": "सौम्येन दृष्टो वृषगः शशाङ्कः\nकरोति मर्त्यं नृपतुल्यभागम् ।\nविद्यानुरक्तं प्रभया समेतं\nयुतं महाबन्दिगणैः सदैव",
+      "english_meaning": "Moon in Taurus aspected by Mercury: Makes one equivalent to a king in fortune, fond of learning, radiant, and always accompanied by a great retinue.",
+      "hindi_meaning": "वृष राशि में बुध से दृष्ट चन्द्रमा: जातक को राजा के समान भाग्यशाली, विद्या प्रेमी, प्रतापी और सदैव बड़े जन-समूह से युक्त बनाता है।"
+    },
+    {
+      "number": 10,
+      "text": "जीवेन दृष्टो हिमगुर्वृषस्थो\nनरं प्रसूते द्विजदेवभक्तम् ।\nसुवस्त्रशय्यासनभोजनाक्षैः\nसमन्वितं तस्य गुणप्रभावम्",
+      "english_meaning": "Moon in Taurus aspected by Jupiter: Makes one a devotee of Brahmins and gods, endowed with good clothes, beds, seats, and food; having virtuous influence.",
+      "hindi_meaning": "वृष राशि में गुरु से दृष्ट चन्द्रमा: जातक को द्विज-देव भक्त, उत्तम वस्त्र-शय्या-आसन और भोजन से युक्त तथा गुणी व प्रभावशाली बनाता है।"
+    },
+    {
+      "number": 11,
+      "text": "गोसंश्रितो रात्रिकरः सुवाते\nशुक्रेण दृष्टः सुभगं मनुष्यम् ।\nयज्ञोद्यतं कूपतहागरक्त-\nमुद्यानवापीकृतमानसं च",
+      "english_meaning": "Moon in Taurus aspected by Venus: Makes one lucky, ready for sacrifices (Yajnas), fond of constructing wells and tanks, and interested in gardens and step-wells.",
+      "hindi_meaning": "वृष राशि में शुक्र से दृष्ट चन्द्रमा: जातक को सौभाग्यशाली, यज्ञ करने वाला, कुआँ-तालाब बनवाने में रुचि रखने वाला और उद्यान-बावली आदि के निर्माण में मन लगाने वाला बनाता है।"
+    },
+    {
+      "number": 12,
+      "text": "मन्देन दृष्टो गविगः शशाङ्को\nनरं सुवाते व्यसनैरुपेतम् ।\nगतप्रभावं बहुदैन्यभाजं\nविवर्जितं पुत्रधनार्थदारैः",
+      "english_meaning": "Moon in Taurus aspected by Saturn: Makes one associated with vices, devoid of influence, very miserable, and devoid of sons, wealth, and wife.",
+      "hindi_meaning": "वृष राशि में शनि से दृष्ट चन्द्रमा: जातक को व्यसनी, प्रभावहीन, अत्यन्त दीन और पुत्र-धन-स्त्री से रहित बनाता है।"
+    },
+    {
+      "number": 13,
+      "text": "नृयुग्मगः शीतकरः प्रसूते\nसूर्येण दृष्टो बहुमन्दवृद्धिम् ।\nसर्पदिभिः पीडितमुग्ररोगै-\nर्विचर्चिकाक्षैच तथा सदैव",
+      "english_meaning": "Moon in Gemini aspected by Sun: Makes one of very slow growth/intelligence, suffering from snakes etc., fierce diseases, and eye ailments like skin eruptions.",
+      "hindi_meaning": "मिथुन राशि में सूर्य से दृष्ट चन्द्रमा: जातक को मन्द बुद्धि, सर्प आदि से पीड़ित, उग्र रोगों और विचर्चिका (खुजली/फोड़े) जैसे नेत्र/चर्म रोगों से युक्त बनाता है।"
+    },
+    {
+      "number": 14,
+      "text": "दृष्टः शशाङ्को मिथुनाश्रितश्च\nभौमेन भीतं जनयेन्मनुष्यम् ।\nदीनं कृशं वातविकारयुक्तं\nसदातिवृद्धिं नयवर्जितं च",
+      "english_meaning": "Moon in Gemini aspected by Mars: Makes one fearful, miserable, lean, suffering from wind (Vata) disorders, and devoid of ethics/modesty.",
+      "hindi_meaning": "मिथुन राशि में मंगल से दृष्ट चन्द्रमा: जातक को भयभीत, दीन, कृश (दुबला), वात विकारों से युक्त और नीति से रहित बनाता है।"
+    },
+    {
+      "number": 15,
+      "text": "सौम्येन दृष्टो मिथुने शशाङ्कः\nकरोति सौख्यं सुभगं मनुष्यम् ।\nमनोचदेहं सुहृदा च युक्तं\nकुलप्रधानं प्रणतं द्विजानाम्",
+      "english_meaning": "Moon in Gemini aspected by Mercury: Brings happiness, makes one lucky, having a pleasant body, associated with friends, a leader of the family, and respectful to Brahmins.",
+      "hindi_meaning": "मिथुन राशि में बुध से दृष्ट चन्द्रमा: सुख प्रदान करता है, जातक को भाग्यशाली, सुंदर देह वाला, मित्रों से युक्त, कुल में प्रधान और ब्राह्मणों का आदर करने वाला बनाता है।"
+    },
+    {
+      "number": 16,
+      "text": "जीवेन दृष्टो मिथुनस्थ एव\nचन्द्रः प्रसूते विभवैः समेतम् ।\nमहाधनं सौर्यकृतं मनोज्ञं\nशुचिं सदा धर्मसमन्वितं च",
+      "english_meaning": "Moon in Gemini aspected by Jupiter: Endows one with glory/wealth, great riches, courage, a pleasant personality, purity, and a religious nature.",
+      "hindi_meaning": "मिथुन राशि में गुरु से दृष्ट चन्द्रमा: जातक को वैभवशाली, महाधनी, शौर्यवान, मनोहर, पवित्र और सदैव धर्मनिष्ठ बनाता है।"
+    },
+    {
+      "number": 17,
+      "text": "शुक्रेण दृष्टः प्रकरोति चन्द्र-\nस्तृतीयराशौ गजवाजिभाजम् ।\nनरं बहुस्त्रीरतिलब्धसौख्यं\nमहधनं पार्थिवमानजुष्टम्",
+      "english_meaning": "Moon in Gemini aspected by Venus: Endows one with elephants and horses (wealth/vehicles), happiness from many women, great riches, and respect from the king.",
+      "hindi_meaning": "मिथुन राशि में शुक्र से दृष्ट चन्द्रमा: जातक को हाथी-घोड़ों (वाहनों) से युक्त, अनेक स्त्रियों के सुख वाला, महाधनी और राज-सम्मान पाने वाला बनाता है।"
+    },
+    {
+      "number": 18,
+      "text": "सौरेण दृष्टोऽतिखलं सुवाते\nचन्द्रो नृयुग्मस्थित एव मर्त्यम् ।\nचौरावनीशैः परिपीडिताङ्गं\nसवृद्धभावं विनयेन हीनम्",
+      "english_meaning": "Moon in Gemini aspected by Saturn: Makes one very wicked, suffering from thieves and kings, appearing older than age, and devoid of modesty.",
+      "hindi_meaning": "मिथुन राशि में शनि से दृष्ट चन्द्रमा: जातक को अत्यन्त खल (दुष्ट), चोरों व राजा से पीड़ित, समय से पूर्व वृद्ध दिखने वाला और विनयहीन बनाता है।"
+    },
+    {
+      "number": 19,
+      "text": "कर्काश्रितो रात्रिपतिः सुवाते\nसूर्येण दृष्टोऽल्पधनं मनुष्यम् ।\nतीव्रस्वभवं खलसङ्गरक्तं\nधर्मार्थकामैः परिवर्जितं च",
+      "english_meaning": "Moon in Cancer aspected by Sun: Makes one have little wealth, a fierce nature, fond of the company of wicked people, and devoid of Dharma, Artha, and Kama.",
+      "hindi_meaning": "कर्क राशि में सूर्य से दृष्ट चन्द्रमा: जातक को अल्प धनी, तीव्र स्वभाव वाला, दुष्टों की संगति में रुचि रखने वाला और धर्म-अर्थ-काम से रहित बनाता है।"
+    },
+    {
+      "number": 20,
+      "text": "भौमेन दृष्टः प्रकरोति चन्द्रः\nकर्काश्रितस्त्यागदयाविहीनम् ।\nनितान्तदष्टं परपुत्रहीनं\nविवर्जितं धर्मपरैर्मनुष्यैः",
+      "english_meaning": "Moon in Cancer aspected by Mars: Makes one devoid of sacrifice and compassion, very wicked, childless (or devoid of sons), and avoided by religious people.",
+      "hindi_meaning": "कर्क राशि में मंगल से दृष्ट चन्द्रमा: जातक को त्याग व दया से रहित, अत्यन्त दुष्ट, पुत्रहीन और धार्मिक लोगों द्वारा त्यागा हुआ बनाता है।"
+    },
+    {
+      "number": 21,
+      "text": "बुधेन दृष्टः स्वगृहे शशाङ्को\nनरं सुवातो तनयार्थयुक्तम् ।\nविदग्धबुद्धिं बहुमित्रपूज्यं\nश्रद्धान्वितं सत्यदयासमेतम्",
+      "english_meaning": "Moon in Cancer aspected by Mercury: Endows one with sons and wealth, a wise intellect, worshipped by many friends, full of faith, truth, and compassion.",
+      "hindi_meaning": "कर्क राशि में बुध से दृष्ट चन्द्रमा: जातक को पुत्र व धन से युक्त, विदग्ध (चतुर) बुद्धि वाला, अनेक मित्रों द्वारा पूजित, श्रद्धावान, सत्यवादी और दयालु बनाता है।"
+    },
+    {
+      "number": 22,
+      "text": "दृष्टः सुरेज्येन निशाधिनाथ-\nश्चतुर्थराशौ व्रतिनं विधत्ते ।\nतीर्थानुरक्तं गतदुष्टभावं\nसुधर्मिणं देवगुरुप्रसक्तम्",
+      "english_meaning": "Moon in Cancer aspected by Jupiter: Makes one follow vows (Vratas), fond of pilgrimages, devoid of wicked thoughts, very religious, and a devotee of gods and gurus.",
+      "hindi_meaning": "कर्क राशि में गुरु से दृष्ट चन्द्रमा: जातक को व्रती (नियमों का पालन करने वाला), तीर्थ-प्रेमी, दुष्ट भावों से रहित, परम धार्मिक और देव-गुरु का भक्त बनाता है।"
+    },
+    {
+      "number": 23,
+      "text": "शुक्रेण दृष्टः प्रकरोति चन्द्र-\nश्चतुर्थराशौ गृहभूमिभाजम् ।\nसदानुरक्तं गुरुबान्धवानां\nमनस्विनं शीलधनप्रगल्भम्",
+      "english_meaning": "Moon in Cancer aspected by Venus: Endows one with houses and land, always affectionate towards gurus and relatives, high-minded, having character as wealth, and bold.",
+      "hindi_meaning": "कर्क राशि में शुक्र से दृष्ट चन्द्रमा: जातक को घर व भूमि का स्वामी, गुरु व बन्धुओं का प्रेमी, मनस्वी, शीलवान और प्रगल्भ (चतुर) बनाता है।"
+    },
+    {
+      "number": 24,
+      "text": "सौरेण दृष्टः प्रकरोति चन्द्रः\nकर्काश्रितः पापमतिं मनुष्यम् ।\nविहीनवित्तं परदाररक्तं\nसदा कृतघ्नं भयसंयुतं च",
+      "english_meaning": "Moon in Cancer aspected by Saturn: Makes one sinful in thought, devoid of wealth, attached to others' wives, always ungrateful, and associated with fear.",
+      "hindi_meaning": "कर्क राशि में शनि से दृष्ट चन्द्रमा: जातक को पाप-बुद्धि, निर्धन, पर-स्त्रीगामी, सदैव कृतघ्न और भय से युक्त बनाता है।"
+    },
+    {
+      "number": 25,
+      "text": "सिंहाश्रितः शितकरः प्रसूते\nसूर्येण दृष्टः प्रचुरं विदग्धं\nसत्याश्रितं बन्धजनेन पूज्यं\nसभूमिलभं गतरोगदुःखम्",
+      "english_meaning": "Moon in Leo aspected by Sun: Makes one very wise, truthful, worshipped by relatives, gaining land, and devoid of diseases and sorrow.",
+      "hindi_meaning": "सिंह राशि में सूर्य से दृष्ट चन्द्रमा: जातक को प्रचुर विद्वान, सत्यवान, बन्धुओं द्वारा पूजित, भूमि का लाभ पाने वाला और रोग-दुख से रहित बनाता है।"
+    },
+    {
+      "number": 26,
+      "text": "भौमेन दृष्टः कुरुते शशाङ्कः\nसिंहाश्रितः पापरतं मनुष्यम् ।\nचानुरक्तं परदेशभाजं\nमहाऽव्ययं पार्थिवपीदितं च",
+      "english_meaning": "Moon in Leo aspected by Mars: Makes one attached to sins, living in foreign lands, having great expenditures, and suffering from the king.",
+      "hindi_meaning": "सिंह राशि में मंगल से दृष्ट चन्द्रमा: जातक को पापरत, परदेशवासी, बहुत अधिक व्यय करने वाला और राजा से पीड़ित बनाता है।"
+    },
+    {
+      "number": 27,
+      "text": "बुधेन दृष्टः प्रकरोति चन्द्रः\nसिंहस्थितः कृच्छ्रधनाप्तसौख्यम् ।\nपुण्यभाजं कुकलत्रयुक्तं\nयुक्तंविचित्रैः पशुपुत्रवित्तैः",
+      "english_meaning": "Moon in Leo aspected by Mercury: Brings happiness from wealth earned with difficulty, makes one meritorious, but having a bad wife, and endowed with various cattle, sons, and riches.",
+      "hindi_meaning": "सिंह राशि में बुध से दृष्ट चन्द्रमा: कठिनता से प्राप्त धन का सुख देता है, जातक को पुण्यवान परन्तु कुत्सित पत्नी वाला, और पशु-पुत्र-धन से युक्त बनाता है।"
+    },
+    {
+      "number": 28,
+      "text": "जीवेन दृष्टः प्रभुतासमेतं\nसिंहाश्रितः शीतकरो विधत्ते\nनरं महाधर्मपरं प्रधानं\nप्रज्ञान्वितं मान्यतमं प्रियं च",
+      "english_meaning": "Moon in Leo aspected by Jupiter: Endows one with authority, making one very religious, a leader, wise, highly respected, and pleasant.",
+      "hindi_meaning": "सिंह राशि में गुरु से दृष्ट चन्द्रमा: जातक को प्रभुता (अधिकार) सम्पन्न, परम धार्मिक, प्रधान पुरुष, बुद्धिमान, अत्यन्त मान्य और प्रिय बनाता है।"
+    },
+    {
+      "number": 29,
+      "text": "शुक्रेण दृष्टः सुभगं मनोज्ञं\nहरौ स्थितः शितकरो विधत्ते ।\nयंवदं धर्मकथानुरक्तं\nहितं द्विजानां नृपपूजिताङ्गम्",
+      "english_meaning": "Moon in Leo aspected by Venus: Makes one lucky, pleasant, a pleasant speaker, fond of religious discourses, beneficial to Brahmins, and honored by the king.",
+      "hindi_meaning": "सिंह राशि में शुक्र से दृष्ट चन्द्रमा: जातक को सौभाग्यशाली, मनोहर, प्रियभाषी, धार्मिक कथाओं में रुचि रखने वाला, द्विजों का हितैषी और राजा द्वारा सम्मानित बनाता है।"
+    },
+    {
+      "number": 30,
+      "text": "मन्देन दृष्टो बहुमन्दयुक्तं\nचन्द्रो विधत्ते खलु सिंहसंस्थः ।\nशिरोर्तिदाहज्वरकामलाद्यैः\nसम्पीडिताङ्गं मनुजं विधत्ते",
+      "english_meaning": "Moon in Leo aspected by Saturn: Makes one very slow/dull, suffering from headache, burning sensations, fever, jaundice, etc.",
+      "hindi_meaning": "सिंह राशि में शनि से दृष्ट चन्द्रमा: जातक को अत्यन्त मन्द बनाता है, और सिर की पीड़ा, जलन, ज्वर (बुखार), पीलिया आदि रोगों से पीड़ित रखता है।"
+    },
+    {
+      "number": 31,
+      "text": "कन्याश्रितः शितकरोऽर्कदृष्टो\nनरं सुवाते तनयेन युक्तम् ।\nश्रद्धापरं सात्त्विकमिष्टधर्मं\nतीर्थानुरक्तं भयवर्जितं च",
+      "english_meaning": "Moon in Virgo aspected by Sun: Endows one with sons, full of faith, Sattvic nature, following their own religion, fond of pilgrimages, and fearless.",
+      "hindi_meaning": "कन्या राशि में सूर्य से दृष्ट चन्द्रमा: जातक को पुत्रवान, श्रद्धावान, सात्त्विक, स्वधर्म-प्रेमी, तीर्थाटन में रुचि रखने वाला और भयरहित बनाता है।"
+    },
+    {
+      "number": 32,
+      "text": "भौमेन दृष्टः परदाररक्तं\nकन्याश्रितः शीतकरः करोति ।\nक्षतार्दिताङ्गं गुरुरोगयुक्तं\nमहाभयैः संयुतमिष्टपापम्",
+      "english_meaning": "Moon in Virgo aspected by Mars: Makes one attached to others' wives, body afflicted by wounds, suffering from severe diseases, full of great fears, and fond of sins.",
+      "hindi_meaning": "कन्या राशि में मंगल से दृष्ट चन्द्रमा: जातक को पर-स्त्रीगामी, अंगों में घाव से पीड़ित, असाध्य रोगों वाला, महाभय से युक्त और पापकर्मों में रुचि रखने वाला बनाता है।"
+    },
+    {
+      "number": 33,
+      "text": "बुधेन दृष्टः खलु शीतरश्मिः\nकन्याश्रितः सीतसहितं मनुष्यम् ।\nकरोति भूपालसुलब्धमानं\nजनप्रियं पुण्यकथानुरक्तम्",
+      "english_meaning": "Moon in Virgo aspected by Mercury: Makes one white-complexioned (or pure), receiving honor from the king, popular among people, and fond of pious stories.",
+      "hindi_meaning": "कन्या राशि में बुध से दृष्ट चन्द्रमा: जातक को कान्तिवान, राजा से सम्मान पाने वाला, जनप्रिय और पुण्य कथाओं में रुचि रखने वाला बनाता है।"
+    },
+    {
+      "number": 34,
+      "text": "सदा सुशीलं द्विजदेवभक्तं\nभूपलमान्यं द्विजबन्धुपूज्यम् ।\nकन्याश्रितो रात्रिपतिः सुवाते\nजीवेन दृष्टः प्रचुरप्रतापम्",
+      "english_meaning": "Moon in Virgo aspected by Jupiter: Makes one always of good character, a devotee of Brahmins and gods, respected by the king, worshipped by relatives, and possessing great valor.",
+      "hindi_meaning": "कन्या राशि में गुरु से दृष्ट चन्द्रमा: जातक को सदैव सुशील, द्विज-देव भक्त, राजा द्वारा मान्य, बन्धुओं द्वारा पूजित और अत्यन्त प्रतापी बनाता है।"
+    },
+    {
+      "number": 35,
+      "text": "शुक्रेण दृष्टः सततं विधित्रं\nचन्द्रः प्रसूते खलु षष्ठराशौ ।\nसद्भूमिवस्त्राचवरौषधीना\nसंसेवकं पीनतनुं मदार्तम्",
+      "english_meaning": "Moon in Virgo aspected by Venus: Endows one with various good lands, clothes, and superior medicines, making one robust in body but afflicted by pride/passion.",
+      "hindi_meaning": "कन्या राशि में शुक्र से दृष्ट चन्द्रमा: जातक को उत्तम भूमि-वस्त्र और श्रेष्ठ औषधियों का स्वामी, हृष्ट-पुष्ट शरीर वाला परन्तु मद (अहंकार/काम) से पीड़ित बनाता है।"
+    },
+    {
+      "number": 36,
+      "text": "सौरेण दृष्टः विधनं मनुष्यं\nनयेन हीनं परदाररक्तम् ।\nसदालसं मन्दगतिं विधत्ते\nनीचाश्रितं पापरतं सदैव",
+      "english_meaning": "Moon in Virgo aspected by Saturn: Makes one poor, devoid of ethics, attached to others' wives, always lazy, slow in movement, associated with low people, and sinful.",
+      "hindi_meaning": "कन्या राशि में शनि से दृष्ट चन्द्रमा: जातक को निर्धन, नीतिहीन, पर-स्त्रीगामी, सदैव आलसी, मन्द गति वाला, नीच लोगों का आश्रय लेने वाला और पापी बनाता है।"
+    },
+    {
+      "number": 37,
+      "text": "तुलाश्रितो रात्रिपतिर्यदा स्यात्\nसूर्येण दृष्टः प्रकरोतिं मर्त्यम् ।\nकीर्त्याधिकं वित्तयुतं कृतज्ञं\nशौर्यस्वभावं सततं सुखाढ्यम्",
+      "english_meaning": "Moon in Libra aspected by Sun: Makes one very famous, wealthy, grateful, possessing a courageous nature, and always endowed with happiness.",
+      "hindi_meaning": "तुला राशि में सूर्य से दृष्ट चन्द्रमा: जातक को अत्यधिक कीर्तिवान, धनवान, कृतज्ञ, शौर्यवान और सदैव सुखी बनाता है।"
+    },
+    {
+      "number": 38,
+      "text": "भौमेन दृष्टः हिमगुः प्रसूते\nतुलाश्रितः पापरतं कुशीलम् ।\nलज्जावि हीनं व्यसनैरूपेतं\nमित्रैर्विहीनं विकृतस्वभावम्",
+      "english_meaning": "Moon in Libra aspected by Mars: Makes one attached to sins, of bad character, shameless, associated with vices, friendless, and of a distorted nature.",
+      "hindi_meaning": "तुला राशि में मंगल से दृष्ट चन्द्रमा: जातक को पापी, दुश्चरित्र, लज्जाहीन, व्यसनी, मित्रहीन और विकृत स्वभाव वाला बनाता है।"
+    },
+    {
+      "number": 39,
+      "text": "सौम्येन दृष्टः सुभगं प्रसूते\nतुलाश्रितः शितकरो मनुष्यम् ।\nसत्यानुरक्तं पशुपुत्रयुक्तं\nनाना गमैर्वधितबुद्धिवृद्धिम्",
+      "english_meaning": "Moon in Libra aspected by Mercury: Makes one lucky, fond of truth, endowed with cattle and sons, and having increased intelligence through various scriptures.",
+      "hindi_meaning": "तुला राशि में बुध से दृष्ट चन्द्रमा: जातक को सौभाग्यशाली, सत्यप्रेमी, पशु व पुत्रों से युक्त और नाना शास्त्रों के ज्ञान से बुद्धि की वृद्धि वाला बनाता है।"
+    },
+    {
+      "number": 40,
+      "text": "देवेज्यदृष्टो हिमगुः प्रसूते\nतुलाश्रितः सत्यपरं मनुष्यम् ।\nगुणानुरक्तं प्रचुरान्नपानं\nमन्दं शुशीलं प्रमदाप्रियं च",
+      "english_meaning": "Moon in Libra aspected by Jupiter: Makes one truthful, virtuous, having abundant food and drink, slow-paced/modest, of good character, and a favorite of women.",
+      "hindi_meaning": "तुला राशि में गुरु से दृष्ट चन्द्रमा: जातक को सत्यनिष्ठ, गुणवान, प्रचुर अन्न-पान वाला, विनीत, सुशील और स्त्रियों का प्रिय बनाता है।"
+    },
+    {
+      "number": 41,
+      "text": "शुक्रेण दृष्टः प्रकरोति चन्द्रो\nनरं विवेकागमशास्त्रलुब्धम् ।\nहस्त्यश्चवस्त्रान्नसुभोजनानि\nनृपप्रियं बन्धवपूजितं च",
+      "english_meaning": "Moon in Libra aspected by Venus: Makes one greedy for knowledge of scriptures and discrimination, endowed with elephants, horses, clothes, and good food, loved by the king, and worshipped by relatives.",
+      "hindi_meaning": "तुला राशि में शुक्र से दृष्ट चन्द्रमा: जातक को विवेक और आगम-शास्त्रों के ज्ञान का पिपासु, हाथी-घोड़ों-वस्त्रों और उत्तम भोजन से युक्त, राजा का प्रिय और बन्धुओं द्वारा पूजित बनाता है।"
+    },
+    {
+      "number": 42,
+      "text": "सौरेण दृष्टो हिमगुः प्रसूते\nतुलाश्रितो धर्मदयाविहिनम् ।\nकुमित्ररक्तं बहुशोकभाजं\nविरक्तपौरं परतकर्कं च",
+      "english_meaning": "Moon in Libra aspected by Saturn: Makes one devoid of religion and compassion, attached to bad friends, suffering from much sorrow, disliked by citizens, and harsh towards others.",
+      "hindi_meaning": "तुला राशि में शनि से दृष्ट चन्द्रमा: जातक को धर्म और दया से रहित, कुमित्रों में आसक्त, अत्यधिक शोक का भागी, पौरजनों (नागरिकों) द्वारा नापसंद किया गया और दूसरों के प्रति कठोर बनाता है।"
+    },
+    {
+      "number": 43,
+      "text": "चन्द्रोऽलिसंस्थो मनुजं प्रसूते\nसूर्येण दृष्टो प्रभया विहीनम् ।\nनरं निकृष्टान्गयमुग्रकर्मं\nप्रतापहीनं विकृतं सदैव",
+      "english_meaning": "Moon in Scorpio aspected by Sun: Makes one devoid of radiance, having inferior limbs, performing fierce deeds, lacking in valor, and always distorted/ugly.",
+      "hindi_meaning": "वृश्चिक राशि में सूर्य से दृष्ट चन्द्रमा: जातक को कान्तिहीन, निकृष्ट अंगों वाला, उग्र कर्म करने वाला, प्रतापहीन और सदैव विकृत बनाता है।"
+    },
+    {
+      "number": 44,
+      "text": "चन्द्रोऽलिसंस्थः क्षितिजेन दृष्टो\nनरं सुवाते कृतिकीर्तिदेहम् ।\nनित्यं कृतघ्नं भयशोकतप्तं\nव्ययाधिकं कामपरं कुचैलम्",
+      "english_meaning": "Moon in Scorpio aspected by Mars: Makes one ungrateful, tormented by fear and sorrow, having excessive expenditure, lustful, and poorly dressed.",
+      "hindi_meaning": "वृश्चिक राशि में मंगल से दृष्ट चन्द्रमा: जातक को कृतघ्न, भय व शोक से तप्त, अत्यधिक व्यय करने वाला, कामुक और गन्दे वस्त्रों वाला बनाता है।"
+    },
+    {
+      "number": 45,
+      "text": "करोति चन्द्रोऽलिगतो मनुष्यं\nसौम्येन दृष्टः सुभगं मनोज्ञम् ।\nगतारिपक्षं द्विजदेवभक्तं\nप्रशान्तचिन्तम् व्यसनेन हीनम्",
+      "english_meaning": "Moon in Scorpio aspected by Mercury: Makes one lucky, pleasant, victorious over enemies, a devotee of Brahmins and gods, of peaceful mind, and devoid of vices.",
+      "hindi_meaning": "वृश्चिक राशि में बुध से दृष्ट चन्द्रमा: जातक को सौभाग्यशाली, मनोहर, शत्रुओं पर विजय पाने वाला, द्विज-देव भक्त, शान्त चित्त वाला और व्यसनहीन बनाता है।"
+    },
+    {
+      "number": 46,
+      "text": "जीवेन दृष्टोऽलिगतोऽतिधर्मं\nनरं प्रसूते हिमगुः प्रसिद्धम् ।\nसदा सुशिलं नृपतेरभीष्टं\nप्रियं नरं दानरतं सदैव",
+      "english_meaning": "Moon in Scorpio aspected by Jupiter: Makes one very religious, famous, always of good character, a favorite of the king, pleasant, and always fond of charity.",
+      "hindi_meaning": "वृश्चिक राशि में गुरु से दृष्ट चन्द्रमा: जातक को परम धार्मिक, प्रसिद्ध, सदैव सुशील, राजा का प्रिय, मनोहर और सदैव दानरत बनाता है।"
+    },
+    {
+      "number": 47,
+      "text": "शुक्रेण दृष्टः खलु शीतरश्मि-\nर्नरं सुवातेऽतिगतो धनाढ्यम् ।\nविमुक्तरोगं गतपौरशोकं\nहीनं सदा बन्धुजनस्य लोके",
+      "english_meaning": "Moon in Scorpio aspected by Venus: Makes one very wealthy, free from diseases, devoid of sorrow from citizens, but always devoid of relatives in the world.",
+      "hindi_meaning": "वृश्चिक राशि में शुक्र से दृष्ट चन्द्रमा: जातक को अत्यन्त धनाढ्य, रोगमुक्त, प्रजा के शोक से रहित परन्तु लोक में सदैव बन्धु-बान्धवों से हीन बनाता है।"
+    },
+    {
+      "number": 48,
+      "text": "सौरेण दृष्टः खलु शीतरश्मि-\nर्नरं प्रसूते गतमानलाभम् ।\nचिन्ताधिकं बुद्धिविवेकहीनं\nकृतघ्नकर्माणमुरुप्रकोपम्",
+      "english_meaning": "Moon in Scorpio aspected by Saturn: Makes one lose honor and gains, excessively worried, devoid of intelligence and discrimination, ungrateful in deeds, and very angry.",
+      "hindi_meaning": "वृश्चिक राशि में शनि से दृष्ट चन्द्रमा: जातक को सम्मान व लाभ से रहित, अत्यधिक चिन्ताग्रस्त, बुद्धि व विवेक से हीन, कृतघ्न और अत्यन्त क्रोधी बनाता है।"
+    },
+    {
+      "number": 49,
+      "text": "चापाश्रितो शीतकरः प्रसूते\nसूर्येण दृष्टः प्रचुरप्रकोपम् ।\nविहीनलज्जं नृपमानहीनं\nविवर्जितं साधुजनैः सदैव",
+      "english_meaning": "Moon in Sagittarius aspected by Sun: Makes one very angry, shameless, devoid of royal honor, and always avoided by good people.",
+      "hindi_meaning": "धनु राशि में सूर्य से दृष्ट चन्द्रमा: जातक को अत्यन्त क्रोधी, निर्लज्ज, राज-सम्मान से हीन और सदैव सज्जनों द्वारा त्यागा हुआ बनाता है।"
+    },
+    {
+      "number": 50,
+      "text": "चापाश्रितः शितकरो विधत्ते\nभौमेन दृष्टः कलहेन युक्तम् ।\nनरं द्विजद्वेषपरं कुधर्मं\nत्यक्तं स्वधमेण महाक्षिरोगम्",
+      "english_meaning": "Moon in Sagittarius aspected by Mars: Makes one fond of quarrels, hating Brahmins, following bad religious practices, abandoned by their own religion, and suffering from severe eye diseases.",
+      "hindi_meaning": "धनु राशि में मंगल से दृष्ट चन्द्रमा: जातक को कलह-प्रिय, ब्राह्मणों से द्वेष करने वाला, कुधर्मी, स्वधर्म-त्यागी और नेत्रों के भारी रोगों वाला बनाता है।"
+    },
+    {
+      "number": 51,
+      "text": "हये शशी लब्धधनं प्रसूते\nबुधेन दृष्टः प्रणतारिपक्षम् ।\nप्रियंवदं सर्वजनप्रधानं\nसुसंयुतं वेदविशारदं च",
+      "english_meaning": "Moon in Sagittarius aspected by Mercury: Brings gains of wealth, makes one subduing enemies, a pleasant speaker, a leader among all people, and expert in Vedas.",
+      "hindi_meaning": "धनु राशि में बुध से दृष्ट चन्द्रमा: धन लाभ कराता है, जातक को शत्रुओं को झुकाने वाला, प्रियभाषी, सर्वजन प्रधान और वेदों का ज्ञाता बनाता है।"
+    },
+    {
+      "number": 52,
+      "text": "जीवेन दृष्टो हयगः शशाङ्को\nजितेन्द्रियं सत्यपरं प्रसूते ।\nवेश्यानुरक्तं बहुभृत्यबर्गं\nसुसंयुतं देवगुरुर्जितानाम्",
+      "english_meaning": "Moon in Sagittarius aspected by Jupiter: Makes one master of senses, truthful, but attached to prostitutes, having many servants, and a devotee of gods and gurus.",
+      "hindi_meaning": "धनु राशि में गुरु से दृष्ट चन्द्रमा: जातक को जितेन्द्रिय, सत्यनिष्ठ, परन्तु वेश्यागामी, अनेक सेवकों वाला और देव-गुरु का भक्त बनाता है।"
+    },
+    {
+      "number": 53,
+      "text": "शुक्रेण दृष्टा हयगः शशाङ्को\nनरं विधत्ते बहुवाजियुक्तम् ।\nदानोद्यतं युक्तभयेन युक्तं\nलाभो यथा सङ्गतमिष्टसत्यम्",
+      "english_meaning": "Moon in Sagittarius aspected by Venus: Endows one with many horses (wealth/vehicles), ready for charity, but associated with fears, and gaining through truth.",
+      "hindi_meaning": "धनु राशि में शुक्र से दृष्ट चन्द्रमा: जातक को अनेक घोड़ों (वाहनों) से युक्त, दानशील, परन्तु भयों से घिरा हुआ और सत्य के संग से लाभ पाने वाला बनाता है।"
+    },
+    {
+      "number": 54,
+      "text": "सौरेण दृष्टो हयगः शशाङ्कः\nकरोति रोगैर्विविधैः समेतम् ।\nनरं प्रसूतागममव्ययाढ्यं\nकफप्रयुक्तं विविधप्रियं च",
+      "english_meaning": "Moon in Sagittarius aspected by Saturn: Makes one suffering from various diseases, having abundant incoming wealth, afflicted by phlegm (Kapha), and having diverse interests.",
+      "hindi_meaning": "धनु राशि में शनि से दृष्ट चन्द्रमा: जातक को विविध रोगों से युक्त, प्रचुर आय वाला, कफ दोष से पीड़ित और अनेक चीजों में रुचि रखने वाला बनाता है।"
+    },
+    {
+      "number": 55,
+      "text": "मृगाश्रितः शितकरः प्रसूते\nसूर्येण दृष्टो गतमानवित्तम् ।\nप्रभाविहीनं परपाकरक्तं\nप्रभावदृष्टं हतबन्धवं च",
+      "english_meaning": "Moon in Capricorn aspected by Sun: Makes one lose honor and wealth, devoid of radiance, fond of food cooked by others, lacking in influence, and losing relatives.",
+      "hindi_meaning": "मकर राशि में सूर्य से दृष्ट चन्द्रमा: जातक को मान-धन से रहित, कान्तिहीन, दूसरों के यहाँ भोजन करने वाला, प्रभावहीन और बन्धु-बान्धवों से विरहित बनाता है।"
+    },
+    {
+      "number": 56,
+      "text": "भौमेन दृष्टो मकरे शशाङ्कि\nनरं विधत्ते प्रणयेन हीनम् ।\n.......... आशं परपक्षरक्तं\nदुष्टस्वभावं हतबान्धवं च",
+      "english_meaning": "Moon in Capricorn aspected by Mars: Makes one devoid of love, supporting others' side, of wicked nature, and having lost relatives.",
+      "hindi_meaning": "मकर राशि में मंगल से दृष्ट चन्द्रमा: जातक को स्नेहहीन, दूसरे पक्ष का समर्थन करने वाला, दुष्ट स्वभाव वाला और बन्धुओं से हीन बनाता है।"
+    },
+    {
+      "number": 57,
+      "text": "पित्तानिलैः पीडितमुग्ररोगं\nसदा रतं नीचकथाप्रसङ्गैः ।\nबुधेन दृष्टो बहुबुद्धियुक्तं\nनरं सुवते मृगगः शशाङ्कः",
+      "english_meaning": "Moon in Capricorn aspected by Mercury: Makes one suffering from bile and wind (Pitta/Vata) disorders, fond of low discourses, but endowed with much intelligence.",
+      "hindi_meaning": "मकर राशि में बुध से दृष्ट चन्द्रमा: जातक को पित्त व वायु के उग्र रोगों से पीड़ित, नीच कथाओं में रुचि रखने वाला, परन्तु अत्यधिक बुद्धिमान बनाता है।"
+    },
+    {
+      "number": 58,
+      "text": "सुरूपदेहं सुभगं विनीतं\nनिवेशितं साधुजनेन नित्यम् ।\nजीवेन दृष्टः खलु शीतरश्मि-\nर्मृगाश्रितो धर्मपरं मनुष्यम्",
+      "english_meaning": "Moon in Capricorn aspected by Jupiter: Makes one have a beautiful body, lucky, modest, always in the company of good people, and very religious.",
+      "hindi_meaning": "मकर राशि में गुरु से दृष्ट चन्द्रमा: जातक को सुंदर देह वाला, भाग्यशाली, विनीत, सदैव सज्जनों की संगति में रहने वाला और धर्मनिष्ठ बनाता है।"
+    },
+    {
+      "number": 59,
+      "text": "करोति रत्नागमलब्धतुष्टिं\nतीर्थाश्रयं शत्रुजनैः समेतम् ।\nशुक्रेण दृष्टो मकरे शशाङ्कः\nकरोति पुण्यैर्विविधैः समेतम्",
+      "english_meaning": "Moon in Capricorn aspected by Venus: Brings satisfaction through gains of gems, residence in pilgrimages, facing enemies, and endowed with various merits.",
+      "hindi_meaning": "मकर राशि में शुक्र से दृष्ट चन्द्रमा: जातक को रत्नों की प्राप्ति से संतुष्ट, तीर्थों का आश्रय लेने वाला, शत्रुओं का सामना करने वाला और विविध पुण्यों से युक्त बनाता है।"
+    },
+    {
+      "number": 60,
+      "text": "जीतारिपक्षं निबन्धुमान्यं\nकुलप्रधानं सुभगं सदैव ।\nसौरेण दृष्टो मकरे शशाङ्कः\nकरोति मर्त्यं बहुदोषभाजम्",
+      "english_meaning": "Moon in Capricorn aspected by Saturn: Makes one victorious over enemies, respected by relatives, leader of the family, lucky, but also having many faults.",
+      "hindi_meaning": "मकर राशि में शनि से दृष्ट चन्द्रमा: जातक को शत्रुओं को जीतने वाला, बन्धुओं द्वारा मान्य, कुल में प्रधान, भाग्यशाली परन्तु अनेक दोषों वाला बनाता है।"
+    },
+    {
+      "number": 61,
+      "text": "विचर्चिकण्डवादीरुजासमेतं\nसम्पीडितं कामलवातदोषैः ।\nकुम्भे शशी वासरपेण दृष्टो\nनरं प्रसूते नयनार्थभीतम्",
+      "english_meaning": "Moon in Aquarius aspected by Sun: Makes one suffer from skin diseases like scabies and itching, afflicted by jaundice and wind disorders, and fearful regarding eyes and wealth.",
+      "hindi_meaning": "कुम्भ राशि में सूर्य से दृष्ट चन्द्रमा: जातक को खाज-खुजली जैसे चर्म रोगों से युक्त, कामला (पीलिया) और वात दोषों से पीड़ित तथा नेत्र व धन के विषय में भयभीत बनाता है।"
+    },
+    {
+      "number": 62,
+      "text": "मुखाक्षिरोगप्रमखैर्विकारैः\nसम्पीडितं पार्थिवतस्करैश्च ।\nघटाश्रितः शितकरः प्रदृष्टो\nभौमेन नित्यं कुरुते कृतघ्नम्",
+      "english_meaning": "Moon in Aquarius aspected by Mars: Makes one suffer from diseases of the face and eyes, troubled by kings (authorities) and thieves, and always ungrateful.",
+      "hindi_meaning": "कुम्भ राशि में मंगल से दृष्ट चन्द्रमा: जातक को मुख और नेत्र रोगों से पीड़ित, राजा व चोरों से त्रस्त और सदैव कृतघ्न बनाता है।"
+    },
+    {
+      "number": 63,
+      "text": "क्रोधाधिकं वंचनकं परेषां\nविशारदं सर्वकलसु दक्षम् ।\nचन्द्रो घटस्थ स्वसुतेन दृष्टः\nकरोति मर्त्यं सुतदारभृत्यैः",
+      "english_meaning": "Moon in Aquarius aspected by Mercury: Makes one very angry, a deceiver of others, expert in all arts, and endowed with sons, wife, and servants.",
+      "hindi_meaning": "कुम्भ राशि में बुध से दृष्ट चन्द्रमा: जातक को अत्यन्त क्रोधी, दूसरों को ठगने वाला, समस्त कलाओं में निपुण और पुत्र, स्त्री व सेवकों से युक्त बनाता है।"
+    },
+    {
+      "number": 64,
+      "text": "हितं विधत्ते द्विजदेवभक्तं\nसदा सुशीलं बहुमानभाजम् ।\nजीवेन दृष्टो घटगः शशाङ्कः\n..........",
+      "english_meaning": "Moon in Aquarius aspected by Jupiter: Makes one beneficial/kind, a devotee of Brahmins and gods, always of good character, and highly respected.",
+      "hindi_meaning": "कुम्भ राशि में गुरु से दृष्ट चन्द्रमा: जातक को हितकारी, द्विज-देव भक्त, सदैव सुशील और अत्यधिक सम्मान पाने वाला बनाता है।"
+    },
+    {
+      "number": 65,
+      "text": "शुक्रेण दृष्टो घटगः शशाङ्कः\nकरोति सर्वस्वधनैः समेतम् ।\nनरेन्द्रसेवास रतं नयज्ञं\nप्रशंसितं साधुजनेन नित्यम्",
+      "english_meaning": "Moon in Aquarius aspected by Venus: Endows one with all kinds of wealth, makes one fond of serving the king, an expert in ethics/policy, and always praised by good people.",
+      "hindi_meaning": "कुम्भ राशि में शुक्र से दृष्ट चन्द्रमा: जातक को समस्त प्रकार के धनों से युक्त, राज-सेवा में रत, नीतिज्ञ और सदैव सज्जनों द्वारा प्रशंसित बनाता है।"
+    },
+    {
+      "number": 66,
+      "text": "गुल्मातिसाराप्रभवैश्च रोगैः\nसम्पीडितः कर्णसमुद्भवैश्च ।\nघटाश्रिते सूर्यसुतेन दृष्टो\nचन्द्रे नरः कीर्तिविवर्जितश्च",
+      "english_meaning": "Moon in Aquarius aspected by Saturn: Makes one suffer from diseases like Gulma (abdominal tumors) and diarrhea, as well as ear diseases, and devoid of fame.",
+      "hindi_meaning": "कुम्भ राशि में शनि से दृष्ट चन्द्रमा: जातक को गुल्म, अतिसार और कान के रोगों से पीड़ित तथा कीर्ति से रहित बनाता है।"
+    },
+    {
+      "number": 67,
+      "text": "मीनाश्रितः शीतकरः प्रसूते\nसूर्येण दृष्टो विकृतं मनुष्यम् ।\nत्यक्तं स्वमित्रैः परमित्ररक्तं\nबुद्धा विहीनं सततं विरुद्धम्",
+      "english_meaning": "Moon in Pisces aspected by Sun: Makes one distorted/ugly, abandoned by their own friends, attached to others' friends, devoid of intelligence, and always opposing.",
+      "hindi_meaning": "मीन राशि में सूर्य से दृष्ट चन्द्रमा: जातक को विकृत, अपने मित्रों द्वारा त्यागा हुआ, दूसरों के मित्रों में आसक्त, बुद्धिहीन और सदैव विरोध करने वाला बनाता है।"
+    },
+    {
+      "number": 68,
+      "text": "भौमेन दृष्टो ह्यषगः शशाङ्कः\nकरोति रक्तप्रभवैश्च दोषैः ।\nसम्पीडिताङ्गं गुरुदोषभाजं\nविहीनवित्तं परदेशरक्तम्",
+      "english_meaning": "Moon in Pisces aspected by Mars: Makes one suffer from blood disorders, having afflicted limbs, subject to heavy faults/blame, devoid of wealth, and fond of living in foreign lands.",
+      "hindi_meaning": "मीन राशि में मंगल से दृष्ट चन्द्रमा: जातक को रक्त-विकारों से युक्त, शरीर के अंगों में पीड़ा वाला, भारी दोषों का भागी, धनहीन और परदेश में रहने का शौकीन बनाता है।"
+    },
+    {
+      "number": 69,
+      "text": "बुधेन दृष्टो ह्यषगः शशाङ्कः\nकरोति नानाविधरोगभाजम् ।\nनरं सुरूपं बहुशास्त्ररक्तं\nसदानशीलं सततं सुलाभम्",
+      "english_meaning": "Moon in Pisces aspected by Mercury: Makes one suffer from various diseases, yet beautiful, attached to many scriptures, of a charitable nature, and gaining constantly.",
+      "hindi_meaning": "मीन राशि में बुध से दृष्ट चन्द्रमा: जातक को अनेक रोगों वाला परन्तु रूपवान, शास्त्रों में रुचि रखने वाला, दानशील और निरंतर लाभ पाने वाला बनाता है।"
+    },
+    {
+      "number": 70,
+      "text": "जीवेन दृष्टो ह्यषराशिसंस्थो\nनरं सुवाते सुभगं शशाङ्कः ।\nचतुष्पदाछानभूरिलाभैः\nसन्तुष्टचिन्तं नृपमानभाजम्",
+      "english_meaning": "Moon in Pisces aspected by Jupiter: Makes one very lucky, gaining from quadrupeds and land, having a satisfied mind, and receiving royal honor.",
+      "hindi_meaning": "मीन राशि में गुरु से दृष्ट चन्द्रमा: जातक को अत्यन्त भाग्यशाली, चौपायों व भूमि से लाभ पाने वाला, संतुष्ट चित्त और राज-सम्मान प्राप्त करने वाला बनाता है।"
+    },
+    {
+      "number": 71,
+      "text": "शुक्रेण दृष्टः प्रचुरान्नपानैः\nसंयोजयेच्छीतकरो ह्यषस्थः ।\nशाखानुरक्तं विविधान्नपानं\nसुरंजितं पार्थिवसद्गुरूणाम्",
+      "english_meaning": "Moon in Pisces aspected by Venus: Endows one with abundant food and drinks, makes one attached to branches of learning, fond of various delicacies, and loved by kings and good gurus.",
+      "hindi_meaning": "मीन राशि में शुक्र से दृष्ट चन्द्रमा: जातक को प्रचुर अन्न-पान से युक्त, विद्या की शाखाओं में आसक्त, विविध व्यंजनों का शौकीन और राजाओं व सद्गुरुओं का प्रिय बनाता है।"
+    },
+    {
+      "number": 72,
+      "text": "चन्द्रे ह्यषस्थे रविपुत्रदृष्टे\nनरो भवेत् पापमतिः सदैव ।\nगुणैर्विहीनः प्रचुरप्रकोपो\nभयानुरक्तः स्वसमन्वितश्च",
+      "english_meaning": "Moon in Pisces aspected by Saturn: Makes one always have a sinful mind, devoid of good qualities, very angry, attached to fear, and associated with their own (relatives/people).",
+      "hindi_meaning": "मीन राशि में शनि से दृष्ट चन्द्रमा: जातक को सदैव पाप-बुद्धि वाला, गुणों से हीन, अत्यन्त क्रोधी, भयभीत रहने वाला और अपने जनों से युक्त बनाता है।"
+    }
+  ]
+}

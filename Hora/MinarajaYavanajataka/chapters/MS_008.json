@@ -1,0 +1,780 @@
+{
+  "number": "08",
+  "title": "अष्टक्वर्गफलाध्यायः",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "चन्द्रेषु सूर्यः स्वगृहात् क्रमेण\nपुनस्तथायाष्टकराङ्कसंस्थितः ।\nमन्दारयोश्चापि तथैव वाच्यः\nशुक्राद्रसास्तान्त्यगतश्च नित्यम्",
+      "english_meaning": "These shlokas describe the Ashtakavarga calculation rules for planets from their own positions, other planets, and the Lagna.",
+      "hindi_meaning": "ये श्लोक ग्रहों के स्वयं, अन्य ग्रहों और लग्न के सापेक्ष अष्टकवर्ग की गणना के नियम बताते हैं।"
+    },
+    {
+      "number": 2,
+      "text": "जीवाद्रसैकादशपंचनन्दै-\nर्विद्धिस्थितो रात्रिपतेः प्रदिष्टः ।\nबुद्धङ्कसूर्येषु शरे च सौम्यात्\nस्वलग्नतो वृद्धियुगव्ययेषु",
+      "english_meaning": "Further rules for calculating points (Bindu/Rekha) based on planetary distances and house placements.",
+      "hindi_meaning": "ग्रहों की दूरी और भाव स्थितियों के आधार पर बिंदुओं (बिंदु/रेखा) की गणना के आगे के नियम।"
+    },
+    {
+      "number": 3,
+      "text": "(सूर्यः)\nअर्कात् केन्द्रवह्नीशुभवाष्टसंस्थो\nगुरोर्व्यया.......... आष्टचतुष्टयथः ।\n.......... आब्धिपंचाङ्कदशागरुद्रैः\nशुक्रात् कुजाल्लाभधना ..........",
+      "english_meaning": "Specific distribution of points for the Sun relative to Jupiter, Venus, and Mars in the Ashtakavarga system.",
+      "hindi_meaning": "अष्टकवर्ग प्रणाली में गुरु, शुक्र और मंगल के सापेक्ष सूर्य के बिंदुओं का विशिष्ट वितरण।"
+    },
+    {
+      "number": 4,
+      "text": "..........\n..........\n.......... ष्टकेन्द्रैः\nस्यान्मन्दतो वह्निरसेपुसूर्यगः",
+      "english_meaning": "Calculation of Sun's points relative to Saturn and other cardinal positions.",
+      "hindi_meaning": "शनि और अन्य केन्द्र स्थितियों के सापेक्ष सूर्य के बिंदुओं की गणना।"
+    },
+    {
+      "number": 5,
+      "text": "(चन्द्रः)\nगुरोर्दशैकादशाषडन्त्यमः\nरवेस्त्रिषष्ठायदशेषुसंस्थितः ।\nलग्नात् प्रवृद्धा प्रथमे च शीतगो-\nर्बुद्धा सितात् सूर्यरसाष्टलाभगः",
+      "english_meaning": "Calculation of Moon's points relative to Jupiter, Sun, Lagna, Mercury, and Venus.",
+      "hindi_meaning": "गुरु, सूर्य, लग्न, बुध और शुक्र के सापेक्ष चन्द्रमा के बिंदुओं की गणना।"
+    },
+    {
+      "number": 6,
+      "text": "..........",
+      "english_meaning": "Continuation of planetary point distribution rules for the Moon.",
+      "hindi_meaning": "चन्द्रमा के लिए ग्रहों के बिंदुओं के वितरण के नियमों का क्रम।"
+    },
+    {
+      "number": 7,
+      "text": "(भौमः)\nचन्द्राद् द्विषष्ठायदशाष्टवेदगो\nलग्नात् स्वषष्ठार्थ शुभदः प्रकीर्ति\nआद्याब्धिलाभार्थगजाङ्कवह्निभिः\nशुक्राच्छनेश्चन्द्रयुगायवित्तैः",
+      "english_meaning": "Calculation of Mars' points relative to Moon, Lagna, Venus, and Saturn.",
+      "hindi_meaning": "चन्द्रमा, लग्न, शुक्र और शनि के सापेक्ष मंगल के बिंदुओं की गणना।"
+    },
+    {
+      "number": 8,
+      "text": "वस्वङ्कादक्रामसुसंस्थितश्च\nभात् स्वाश्च तन्वब्धिभवार्थ मङ्गलात् ।\nरन्ध्रेषु कासासुप एव सार्वक्षी\nगुरोश्च चन्द्राङ्ग गस्थः शुभदः",
+      "english_meaning": "Further distribution of Mars' points relative to Sun, Jupiter, and its own position.",
+      "hindi_meaning": "सूर्य, गुरु और स्वयं की स्थिति के सापेक्ष मंगल के बिंदुओं का आगे का वितरण।"
+    },
+    {
+      "number": 9,
+      "text": "(बुधः)\nजीवः कुजाडस्त्रभवाष्तकेन्द्रगः\nसूर्याश्च दस्त्रादिनवाष्ट कीर्तितः ।\nस्वशून्यरामैः स्वगृहात् प्रकीर्तितो\nनवाशकायार्थशराङ्गगः सितात्",
+      "english_meaning": "Calculation of Mercury's points relative to Jupiter, Sun, and Venus.",
+      "hindi_meaning": "गुरु, सूर्य और शुक्र के सापेक्ष बुध के बिंदुओं की गणना।"
+    },
+    {
+      "number": 10,
+      "text": "चन्द्रान् मदाङ्केषुधनायगः सदा\nशनैश्चराद्वह्निरसेषुभास्करैः",
+      "english_meaning": "Calculation of Mercury's points relative to Moon and Saturn.",
+      "hindi_meaning": "चन्द्रमा और शनि के सापेक्ष बुध के बिंदुओं की गणना।"
+    },
+    {
+      "number": 11,
+      "text": "वधान् नवव्योमयुगेन्दुमार्गण-\nरुद्रतर्कैः शुभदः प्रकीर्तितः ।\nलग्नान् नवाशाब्धिपरेषुलोचन-\nसूर्यागरामैः क्रमशो विधेयः",
+      "english_meaning": "Distribution of Mercury's points relative to Lagna and other planetary markers.",
+      "hindi_meaning": "लग्न और अन्य ग्रहों के सापेक्ष बुध के बिंदुओं का वितरण।"
+    },
+    {
+      "number": 12,
+      "text": "(जीवः)\nशुक्रो विलग्नाच्छशिवित्तवह्नि\nयुगेषुनन्दायगश्च इष्टः ।\nचन्द्रात् ससूर्यः सदिशाः स्वसद्यत-\nस्त्रिवेदपंचाष्टदिगङ्कलाभगः",
+      "english_meaning": "Calculation of Jupiter's points relative to Venus, Moon, and Sun.",
+      "hindi_meaning": "शुक्र, चन्द्रमा और सूर्य के सापेक्ष गुरु के बिंदुओं की गणना।"
+    },
+    {
+      "number": 13,
+      "text": "शने रवेरष्टदिवाकरायै-\nर्गुरोर्नवव्योमभवाष्टपंचगः ।\nबुधाद् गुणेष्वङ्कदशाङ्गसंस्थितो\nभौमाद भवेष्वग्निरसाङ्कसूर्यगः",
+      "english_meaning": "Calculation of Jupiter's points relative to Saturn, Sun, Mercury, and Mars.",
+      "hindi_meaning": "शनि, सूर्य, बुध और मंगल के सापेक्ष गुरु के बिंदुओं की गणना।"
+    },
+    {
+      "number": 14,
+      "text": "(शुक्रः)\nस्यात् सूर्यजो वह्निरसेषुसंगतः\nससूर्यदिग्गो धरणिसुतस्य ।\nसूर्याद् धनयाष्टचतुष्टये च\nशुक्राद्रसार्कायगतः सुभद्रः",
+      "english_meaning": "Calculation of Venus' points relative to Saturn, Mars, Sun, and its own position.",
+      "hindi_meaning": "शनि, मंगल, सूर्य और स्वयं की स्थिति के सापेक्ष शुक्र के बिंदुओं की गणना।"
+    },
+    {
+      "number": 15,
+      "text": "त्रिषष्ठलाभेषु निशाधिनाथा-\nल्लग्नात् सवृद्धीन्दुदशाब्धिभिश्च ।\nजीवाच्छराङ्गव्ययलाभसंस्थो\nबुधाद् व्ययाङ्काङ्गदिशाङ्गनागतः",
+      "english_meaning": "Calculation of Venus' points relative to Moon, Lagna, Jupiter, and Mercury.",
+      "hindi_meaning": "चन्द्रमा, लग्न, गुरु और बुध के सापेक्ष शुक्र के बिंदुओं की गणना।"
+    },
+    {
+      "number": 16,
+      "text": "(शनिः)\n..........\nविन्दूनि रेखश्च विमिश्रयित्वा ।\nसप्तावशेषेण मितो ग्रहश्च\nस्वाष्टांशसंज्ञं फलमादधाति",
+      "english_meaning": "Calculation of Saturn's points and the process of totaling Bindus and Rekhas for final results.",
+      "hindi_meaning": "शनि के बिंदुओं की गणना और अंतिम परिणामों के लिए बिंदुओं व रेखाओं को जोड़ने की प्रक्रिया।"
+    },
+    {
+      "number": 17,
+      "text": "इन्यात् फले सोष्तकवर्गनाचजं\nफलं बलिष्टो यदि तस्य पार्श्वगः ।\nअतोऽन्यथा तस्य फलं निहन्यते\nतेनैव साम्ये फलयोर्निसर्गजम्",
+      "english_meaning": "A strong planet gives full results of its Ashtakavarga; if weak, the results are diminished or natural traits prevail.",
+      "hindi_meaning": "बलवान ग्रह अपने अष्टकवर्ग का पूर्ण फल देता है; यदि निर्बल हो, तो फल कम हो जाता है या नैसर्गिक गुण प्रभावी होते हैं।"
+    },
+    {
+      "number": 18,
+      "text": "रेखाश्रितस्तीक्ष्णकरः प्रगल्-भं\nकरोति मर्त्यं गजवाजियुक्तम् ।\nमित्राङ्गसाधुं जनसम्प्रयुक्तं\nस्थानेऽद्यके रोगविवर्जितं च",
+      "english_meaning": "Sun with Rekha in 1st house: Makes one powerful, owner of elephants/horses, friend of good people, and free from diseases.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त सूर्य: जातक को प्रतापी, हाथी-घोड़ों का स्वामी, सज्जनों का मित्र और रोगमुक्त बनाता है।"
+    },
+    {
+      "number": 19,
+      "text": "द्वितीयसंस्थः प्रचुरप्रतापं\nप्रभूतवित्तिं जितशत्रुपक्षम् ।\nविद्यानुरक्तं नृपतेरभीष्टं\nप्रशान्तचिन्तं कुरुते सदैव",
+      "english_meaning": "Sun with Rekha in 2nd house: Brings great glory, abundant wealth, victory over enemies, love for knowledge, and royal favor.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त सूर्य: महाप्रताप, प्रभूत धन, शत्रुओं पर विजय, विद्यानुराग और राजकृपा दिलाता है।"
+    },
+    {
+      "number": 20,
+      "text": "तृतीयगः सत्यपरं प्रशान्तं\nव्यचेतपापं सुजनैः सुपूज्यम् ।\nहिरण्यपुजार्थविवे..........\nनरं प्रसूते सततं सुशीलम्",
+      "english_meaning": "Sun with Rekha in 3rd house: Makes one truthful, peaceful, sinless, worshipped by good people, and wise.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त सूर्य: जातक को सत्यवादी, शान्त, पापरहित, सज्जनों द्वारा पूज्य और विवेकी बनाता है।"
+    },
+    {
+      "number": 21,
+      "text": "चतुर्थगः सर्वजनस्य पूज्यं\nकरोति मर्त्यं सुदृढं सुशीलम् ।\n.......... पूज्यं सुभगं प्रशस्तं\nधर्मान्वितं दानपरं प्रसूते",
+      "english_meaning": "Sun with Rekha in 4th house: Makes one worshipped by all, strong, auspicious, religious, and charitable.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त सूर्य: जातक को सर्वजन पूज्य, सुदृढ़, सुभग, धर्मनिष्ठ और दानवीर बनाता है।"
+    },
+    {
+      "number": 22,
+      "text": "करोति मर्त्यं खलु पंचमस्यो\nनरं रविर्गोमहिषोष्ट्रयुक्तम् ।\nकुलप्रधान नृपतेरभीष्टं\nसुसंयतं ब्रह्मणदेवभक्तम्",
+      "english_meaning": "Sun with Rekha in 5th house: Makes one owner of cattle/camels, family head, king's favorite, and devotee of gods/Brahmins.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त सूर्य: जातक को गौ-महिष-ऊंटों से युक्त, कुलप्रधान, राजा का प्रिय और देव-ब्राह्मण भक्त बनाता है।"
+    },
+    {
+      "number": 23,
+      "text": "हतारिपक्षं प्रकरोति षष्ठे\nस्थितो विवस्वान् प्रथितं नृलोके ।\nस्त्रीणामभीष्टं गुरुदेवभक्तं\n..........",
+      "english_meaning": "Sun with Rekha in 6th house: Destroys enemies, makes one famous, king's favorite, and devotee of gurus/gods.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त सूर्य: शत्रुओं का नाश करता है, जातक को विख्यात, राजा का प्रिय और गुरु-देव भक्त बनाता है।"
+    },
+    {
+      "number": 24,
+      "text": "स्त्रीलाभयुक्तं खलु सप्तमस्थो\nनरं विधत्ते खलु तीक्ष्णरश्मिः ।\nउदारचिन्तं प्रभुतासमेतं\nमिज्ञानशीलं समरप्रचण्डम्",
+      "english_meaning": "Sun with Rekha in 7th house: Brings gains of wife, noble thoughts, authority, and makes one expert in sciences and fierce in battle.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त सूर्य: स्त्री लाभ, उदार चित्त, प्रभुता, और जातक को विज्ञान-कुशल व युद्ध में प्रचण्ड बनाता है।"
+    },
+    {
+      "number": 25,
+      "text": "स्थानेऽष्टमे पुत्रधनैः समेतं\nसुरक्तपित्ताधिकमप्रमेयम् ।\nविख्यातकीर्तिं सततं सुदान्तं\nहतारिपक्षं प्रकरोति भानुः",
+      "english_meaning": "Sun with Rekha in 8th house: Brings sons and wealth, famous character, self-control, and destruction of enemies.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त सूर्य: पुत्र-धन, विख्यात कीर्ति, जितेन्द्रियता और शत्रुओं का नाश करता है।"
+    },
+    {
+      "number": 26,
+      "text": "बिन्दुस्थितोऽर्कः प्रकरोति पापं\nस्थानेऽद्यके दुर्जनमुग्ररोगम् ।\nकृशं कृतघ्नं परदाररक्तं\nविवेकहीनं प्रियसाहसं च",
+      "english_meaning": "Sun with Bindu in 1st house: Makes one sinful, associated with wicked people, suffering from fierce diseases, lean, and ungrateful.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त सूर्य: जातक को पापी, दुर्जन संगी, उग्र रोगी, कृश और कृतघ्न बनाता है।"
+    },
+    {
+      "number": 27,
+      "text": "मूर्खं निकृष्टं तु तथा द्वितीये\nकुमीत्ररक्तं धनधान्यहीनम् ।\nशिरोतिदाहजतरपित्तमुख्यैः\nप्रपीडितं वक्त्रभवैश्च रोगैः",
+      "english_meaning": "Sun with Bindu in 2nd house: Makes one foolish, lowly, associated with bad friends, and suffering from head, pitta, and mouth diseases.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त सूर्य: जातक को मूर्ख, नीच, कुमित्रों में आसक्त, और शिरो-पित्त-मुख रोगों से पीड़ित बनाता है।"
+    },
+    {
+      "number": 28,
+      "text": "तयेन हीनं पुरुषं तृतीये\nसुतार्थधान्यैः परिवर्जितं च ।\nसुदाभिभूतं बहुशत्रुपक्षं\nक्रियाविहीनं विफलं प्रसूते",
+      "english_meaning": "Sun with Bindu in 3rd house: Devoid of wealth, grains, and sons, defeated by enemies, inactive, and fruitless.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त सूर्य: धन-धान्य-पुत्र से हीन, शत्रुओं से पराजित, अकर्मण्य और निष्फल बनाता है।"
+    },
+    {
+      "number": 29,
+      "text": "निन्द्यं कृतघ्नं परदेशरक्तं\nकरोति मर्त्यं नियतं चतुर्थे ।\nइष्टैर्वियुक्तं परदाररक्तं\nपराजितं सर्वजनैः सदैव",
+      "english_meaning": "Sun with Bindu in 4th house: Makes one despicable, ungrateful, fond of foreign lands, and separated from loved ones.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त सूर्य: जातक को निन्दनीय, कृतघ्न, परदेश प्रेमी और इष्ट वियोगी बनाता है।"
+    },
+    {
+      "number": 30,
+      "text": "करोति भानुः खलु पंचमस्थित्तो\nसुग्वैरदारिद्र्यभयेन पीडितम् ।\nदौर्भाग्यवन्तं परदारभाषणं\nनरं भयाक्लीवमलं सुनीष्टरम्",
+      "english_meaning": "Sun with Bindu in 5th house: Suffering from sorrow, poverty, and fear; unfortunate and talking about others' wives.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त सूर्य: दुःख-दरिद्रता-भय से पीड़ित, दुर्भाग्यशाली और परस्त्री की चर्चा करने वाला बनाता है।"
+    },
+    {
+      "number": 31,
+      "text": "षष्थे स्थितः शत्रुगणैः पराजितं\nनरं प्रसूतेऽधमकर्मसेवकम् ।\nमायासमेतं मलिनं मलील्लुचं\nच्युतं स्वधर्माद्गतसत्त्वमातुरम्",
+      "english_meaning": "Sun with Bindu in 6th house: Defeated by enemies, serving lowly people, deceitful, and deviating from one's religion.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त सूर्य: शत्रुओं से पराजित, नीच कर्म सेवक, मायावी और स्वधर्म च्युत बनाता है।"
+    },
+    {
+      "number": 32,
+      "text": "श्रिया विहीनं विकृतं गतत्रपं\nपरान्नवस्त्रार्थसमीडकं सदा ।\nकरोति भानुः खलु सप्तमस्थितः\nप्रपंचशीलं कुबलं सुनिष्ठरम्",
+      "english_meaning": "Sun with Bindu in 7th house: Devoid of wealth, deformed, shameless, dependent on others for food, and cruel.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त सूर्य: श्रीहीन, विकृत, निर्लज्ज, परान्न पर निर्भर और क्रूर बनाता है।"
+    },
+    {
+      "number": 33,
+      "text": "स्थानेऽष्टमे तीक्ष्णमयुखमाली\nनरं विधत्ते बहुपापचेष्टम् ।\nइष्टैर्वियुक्तं परदाररक्तं\nपापात्मकं दुःखयुक्तं करोति",
+      "english_meaning": "Sun with Bindu in 8th house: Causes many sinful acts, separation from loved ones, attachment to others' wives, and sorrow.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त सूर्य: अनेक पाप कर्म, इष्ट वियोग, परस्त्री में अनुराग और दुःख पैदा करता है।"
+    },
+    {
+      "number": 34,
+      "text": "इति रवेरष्टकवर्गफलम् \nरेखाथितोऽड्ये हिमरश्मिमाली\nस्थाने विधत्ते सुभगं मनुष्यम् ।\nप्रियं नृपाणां गुरुविप्रभक्तं\nतीर्थाश्रयं सर्वजनोपसेव्यम्",
+      "english_meaning": "Moon with Rekha in 1st house: Makes one auspicious, king's favorite, devotee of gurus/Brahmins, and serves everyone.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त चन्द्रमा: जातक को सुभग, राजा का प्रिय, गुरु-विप्र भक्त और सर्वजनोपसेव्य बनाता है।"
+    },
+    {
+      "number": 35,
+      "text": "हस्त्यश्चयानैः सहितं द्वितीये\nवैडुर्यमुक्तामणिभिस्तथैव ।\nनरं सुसौख्यैः सहितं प्रगल्-भं\nप्रशान्तचिन्तं प्रणयान्वितं च",
+      "english_meaning": "Moon with Rekha in 2nd house: Makes one owner of elephants/horses/gems, happy, peaceful, and affectionate.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त चन्द्रमा: हाथी-घोड़े-रत्नों का स्वामी, सुखी, प्रशान्त चित्त और स्नेही बनाता है।"
+    },
+    {
+      "number": 36,
+      "text": "चन्द्रस्तृतीये कुरुते सनाथं\nनरं विनीतं बहुधर्मभाजम् ।\nश्रिया युतं सर्वगुणोपपन्नं\nधत्ते सदा बन्धुजनस्य पूज्यम्",
+      "english_meaning": "Moon with Rekha in 3rd house: Makes one modest, religious, wealthy, virtuous, and worshipped by kin.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त चन्द्रमा: विनीत, धर्मात्मा, श्रीयुक्त, गुणवान और बन्धु पूज्य बनाता है।"
+    },
+    {
+      "number": 37,
+      "text": "स्थाने चतुर्थे प्रकरोति मान्यं\nनरं प्रसिद्धं विविधार्थयुक्तम् ।\nतडागकूपाश्रयरक्तचिन्तं\nमहामनुष्यं सुतसौख्ययुक्तम्",
+      "english_meaning": "Moon with Rekha in 4th house: Makes one respected, famous, wealthy, interested in public works, and happy with sons.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त चन्द्रमा: मान्य, प्रसिद्ध, धनवान, लोकोपकार में रुचि रखने वाला और पुत्रवान बनाता है।"
+    },
+    {
+      "number": 38,
+      "text": "विद्याविनीतं सुविवेकयुक्तं\nनरं प्रसूते बहुभागभाजम् ।\nक्षपाधिनाथः खलु पंचमस्थः\nप्रियातिथिं सर्वसहं सुविज्ञम्",
+      "english_meaning": "Moon with Rekha in 5th house: Makes one wise, modest, very fortunate, fond of guests, and patient.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त चन्द्रमा: विद्यावान, विनीत, महाभाग्यशाली, अतिथि प्रेमी और सहनशील बनाता है।"
+    },
+    {
+      "number": 39,
+      "text": "षष्ठे सुरूपं सुभगं मनोज्ञं\nकरोति चन्द्रः सुतदारयुक्तम् ।\nधमाश्रयं शास्त्ररतं विनीतं\nनरेन्द्रपूज्यं बहुमानभाजम्",
+      "english_meaning": "Moon with Rekha in 6th house: Makes one beautiful, auspicious, having sons and wife, and respected by kings.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त चन्द्रमा: सुरूप, सुभग, स्त्री-पुत्र युक्त और राजा द्वारा पूज्य बनाता है।"
+    },
+    {
+      "number": 40,
+      "text": "करोति चन्द्रः खलु सप्तमस्थः\nप्रभासमेतं सचिवं सुशीलम् ।\nव्रतोपवासादिरतं विधिज्ञं\nमनोज्ञनारिदयितं सदैव",
+      "english_meaning": "Moon with Rekha in 7th house: Makes one radiant, minister-like, modest, and fond of religious rituals and women.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त चन्द्रमा: प्रतापी, मंत्री तुल्य, सुशील, और व्रत-उपवास व स्त्रियों का प्रिय बनाता है।"
+    },
+    {
+      "number": 41,
+      "text": "स्थानेऽष्टमे सौख्यहिरण्ययुक्तं\nविद्यान्वितं सत्यपरं प्रगल्भम् ।\nकरोति चन्द्रोऽपतितं मनुष्यं\nप्रियातिथिं ब्राह्मणवल्लभं च",
+      "english_meaning": "Moon with Rekha in 8th house: Makes one happy, wealthy, learned, truthful, fond of guests, and a favorite of Brahmins.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त चन्द्रमा: जातक को सुखी, धनवान, विद्यावान, सत्यवादी, अतिथि प्रेमी और ब्राह्मणों का प्रिय बनाता है।"
+    },
+    {
+      "number": 42,
+      "text": "स्थानेऽद्यके विन्दुगतः शशाङ्कः\nसरोगदेहं कुरुते मनुष्यम् ।\nपपानुरक्तं स्वजनैर्विमुक्तं\nदीमं कृशं सत्यविहीनमेव",
+      "english_meaning": "Moon with Bindu in 1st house: Causes a diseased body, sinful tendencies, abandonment by kin, and untruthfulness.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त चन्द्रमा: रोगी शरीर, पापासक्ति, स्वजनों द्वारा त्याग और असत्यवादिता का कारण बनता है।"
+    },
+    {
+      "number": 43,
+      "text": "करोति चन्द्रो नियतं द्वितीये\nनरं कृतघ्नं सुकृतं सुदीनम् ।\nअभूतश्रत्रुं प्रभया विहीनं\nविवर्जितं बन्धुजनेन नित्यम्",
+      "english_meaning": "Moon with Bindu in 2nd house: Makes one ungrateful, miserable, lack radiance, and devoid of relatives and friends.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त चन्द्रमा: जातक को कृतघ्न, दीन, आभाहीन और बन्धु-मित्रों से रहित बनाता है।"
+    },
+    {
+      "number": 44,
+      "text": "सांपीडितं भूपतिना सदैव\nमहाऽव्ययैः संयुतमुग्ररोगम् ।\nकफानिलाभ्यां परिपीडितं च\nचन्द्रस्तृतीये कुरुते मनुष्यम्",
+      "english_meaning": "Moon with Bindu in 3rd house: Causes harassment by kings, excessive expenses, and fierce wind and phlegm-related diseases.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त चन्द्रमा: राजा द्वारा पीड़ा, अत्यधिक व्यय और वात-कफ के उग्र रोगों का कारण बनता है।"
+    },
+    {
+      "number": 45,
+      "text": "लुसङ्गतं सत्यविहीनमेव\nसौख्येन हीनं बहुरोगयुक्तम् ।\nसुदुर्भगं पानरतं सदैव\nचन्द्रचतुर्थे कुरुते मनुष्यम्",
+      "english_meaning": "Moon with Bindu in 4th house: Devoid of truth and happiness, suffering from many diseases, unfortunate, and addicted to drinking.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त चन्द्रमा: सत्य व सुख से हीन, अनेक रोगों से पीड़ित, दुर्भाग्यशाली और मदिरा प्रेमी बनाता है।"
+    },
+    {
+      "number": 46,
+      "text": "प्रणष्टशीलं प्रचुरारिपक्षं\nनिशाधिनाथः खलु पंचमे च ।\nकरोति दीनं व्यय्सनैः समेतं\nविवर्जितं भूपतिमानदानैः",
+      "english_meaning": "Moon with Bindu in 5th house: Makes one characterless, surrounded by enemies, miserable, and devoid of royal favor or honors.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त चन्द्रमा: शील रहित, शत्रुओं से घिरा, दीन और राजसम्मान से वंचित बनाता है।"
+    },
+    {
+      "number": 47,
+      "text": "विदेशसेवाविरतं कृतघ्नं\nषष्ठेऽरिवर्गैर्विजितं वृतान्तम् ।\nनित्यं मनुष्यं नृपपीडितं च\nकलत्रयानादिभिर्विप्रमुक्तम्",
+      "english_meaning": "Moon with Bindu in 6th house: Causes serving in foreign lands, ungratefulness, defeat by enemies, and harassment by kings.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त चन्द्रमा: विदेश सेवा, कृतघ्नता, शत्रुओं से पराजय और राजपीड़ा का कारण बनता है।"
+    },
+    {
+      "number": 48,
+      "text": "स्यात् सप्तमे वैरमनल्पमुग्रं\nचन्द्रे रुजं भूपमलिम्लुचोत्थम् ।\nरोगं नराणां जठरे प्रभूतं\nधनस्य नाशं प्रियविप्रयोगम्",
+      "english_meaning": "Moon with Bindu in 7th house: Causes fierce enmity, diseases, fear from thieves/kings, stomach ailments, and loss of wealth.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त चन्द्रमा: घोर वैर, रोग, राजा-चोरों से भय, उदर विकार और धन नाश का कारण बनता है।"
+    },
+    {
+      "number": 49,
+      "text": "चन्द्रोऽष्टमेऽनिष्तफलं विधत्ते\nशोकं धनार्तिं विविधं च दुःखम् ।\nशीलच्युतं वासनवित्तनाशं\nमहाभयं दैन्यमनर्थमुग्रम्",
+      "english_meaning": "Moon with Bindu in 8th house: Brings sorrow, loss of wealth, loss of character, extreme fear, and general misery.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त चन्द्रमा: शोक, धन हानि, शील नाश, महाभय और दीनता लाता है।"
+    },
+    {
+      "number": 50,
+      "text": "इति चन्द्राष्टकवर्गफलम् \nरेखास्थितोऽद्ये क्षितिवित्तलाभं\nकरोति भौमः पशुवृद्धिमेव ।\nसौख्यं च भोगं विविधाश्च पूजा\nमहाजनोत्थं सततं सखानि",
+      "english_meaning": "Mars with Rekha in 1st house: Brings gains of land and wealth, increase of cattle, happiness, and respect in society.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त मंगल: भूमि-धन लाभ, पशु वृद्धि, सुख और समाज में सम्मान दिलाता है।"
+    },
+    {
+      "number": 51,
+      "text": "आरोग्यतां ..........\nमनोविकाशं प्रियतां च लोके ।\nसमुज्ञतिं शत्रुविनाशमेव\nकरोति भौमो नियतं द्वितीये",
+      "english_meaning": "Mars with Rekha in 2nd house: Brings health, mental development, popularity, progress, and destruction of enemies.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त मंगल: आरोग्य, मानसिक विकास, लोकप्रियता, उन्नति और शत्रु विनाश करता है।"
+    },
+    {
+      "number": 52,
+      "text": "खरोष्ट्रयानानि पृथग्विधानि\nनृणां विधत्ते क्षितिजस्तृतीये ।\nविभूतिप्रभ्युव्रतिमिष्टलाभं\nभूपप्रषादं विविधं च नित्यम्",
+      "english_meaning": "Mars with Rekha in 3rd house: Brings various vehicles, splendor, radiance, and fulfillment of desires through royal favor.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त मंगल: विविध वाहन, वैभव, प्रताप और राजकृपा से इष्ट सिद्धि कराता है।"
+    },
+    {
+      "number": 53,
+      "text": "भौमश्चतुर्थे कुरुते प्रतापं\nसौभाग्यसौख्याभ्युदय नितान्तम् ।\nप्रियातिथित्वं सुरविप्रभक्तिं\nनरेन्द्रमानं विविधं च लाभम्",
+      "english_meaning": "Mars with Rekha in 4th house: Brings power, fortune, happiness, and devotion to gods and Brahmins with royal respect.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त मंगल: प्रताप, सौभाग्य, सुख और राजसम्मान के साथ देव-ब्राह्मण भक्ति देता है।"
+    },
+    {
+      "number": 54,
+      "text": "सुतीर्थलाभं खलु पंचमस्थः\nक्षोणीसुतो यच्छति मानवानाम् ।\nहिरण्यलाभं बहुमानसौख्यं\nव्याधेर्विनाशं खलु उन्नतिं च",
+      "english_meaning": "Mars with Rekha in 5th house: Brings gains from pilgrimages, gold, high honors, destruction of diseases, and high status.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त मंगल: तीर्थ लाभ, स्वर्ण, महामान, व्याधि नाश और उच्च पद दिलाता है।"
+    },
+    {
+      "number": 55,
+      "text": "षष्ठेऽरिनाशं कुरुते महीजः\nसमागमं बन्धुजनेन नित्यम् ।\nवस्त्राणि शय्यासनभाजनानि\nधर्मार्थसिद्धिं सततं नराणाम्",
+      "english_meaning": "Mars with Rekha in 6th house: Causes destruction of enemies, meeting with relatives, gains of clothes/comforts, and success in religious/financial goals.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त मंगल: शत्रु नाश, बन्धु मिलन, वस्त्र-सुख प्राप्ति और धर्म-अर्थ की सिद्धि कराता है।"
+    },
+    {
+      "number": 56,
+      "text": "क्षोणिसुतो यच्छति सप्तमस्थो\nविश्ज्ञानविद्यागममिष्टलाभम् ।\nशय्यासनाछादनभोजनानि\nरतोपलब्धिं जगतीसुलाभम्",
+      "english_meaning": "Mars with Rekha in 7th house: Brings expertise in sciences and knowledge, various comforts, and gains of jewels and land.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त मंगल: विज्ञान-विद्या का लाभ, विविध सुख-सुविधाएं और रत्न-भूमि का लाभ दिलाता है।"
+    },
+    {
+      "number": 57,
+      "text": "भौमोऽष्टमे भूतिमथोन्नतिं च\nनृणां विधत्ते महिमामनन्ताम् ।\nवाणिज्यलाभं कृषिकर्मसिद्धिं\nप्रियाप्तिमत्युज्ञतिमेव पुंसाम्",
+      "english_meaning": "Mars with Rekha in 8th house: Brings high status, infinite glory, and success in trade and agriculture.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त मंगल: ऐश्वर्य, अनन्त महिमा और वाणिज्य-कृषि में भारी सफलता दिलाता है।"
+    },
+    {
+      "number": 58,
+      "text": "बिन्धुस्थितो भूतनयो यदाद्ये\nस्थाने दशां यच्छति मानवानाम् ।\nतदार्थहानिं गदपृष्ठरोगान्\nमतेर्विनाशं कुजनेन सौख्यम्",
+      "english_meaning": "Mars with Bindu in 1st house: Causes loss of wealth, diseases of the back, loss of intelligence, and association with wicked people.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त मंगल: धन हानि, पीठ के रोग, बुद्धि नाश और कुजनों के संग का कारण बनता है।"
+    },
+    {
+      "number": 59,
+      "text": "शिरोर्तिदाहं ज्वरतापमुग्रं\nप्रमोषणं चौरकृतं सदैव ।\nप्रियाव्योगं मतिमित्रनाशं\nभौमो द्वितीये कुरुते नराणाम्",
+      "english_meaning": "Mars with Bindu in 2nd house: Causes headaches, burning sensations, fierce fevers, theft, and separation from loved ones.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त मंगल: शिरोपीड़ा, दाह (जलन), उग्र ज्वर, चोरी और प्रिय वियोग का कारण बनता है।"
+    },
+    {
+      "number": 60,
+      "text": "भौमस्तृतीये विनयार्थलौल्यं\nधत्ते नराणां च तथापनादम् ।\nकुबुद्धिभिः सङ्गमुग्रवैरं\nपराजयं प्राणभृतां सदैव",
+      "english_meaning": "Mars with Bindu in 3rd house: Causes lack of modesty and wealth, public scandal, wicked thoughts, and constant defeat.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त मंगल: विनय व धन का अभाव, अपवाद, कुबुद्धि और निरंतर पराजय का कारण बनता है।"
+    },
+    {
+      "number": 61,
+      "text": "विवादवैराणि पृ.......... म्विधानि\nभौमचतुर्थे कुरुते नराणाम् ।\nद्यूतं च वेश्माव्यसनं महान्तं\nपराजयं साध्वसमेसं हानिम्",
+      "english_meaning": "Mars with Bindu in 4th house: Causes disputes, fierce enmity, vices related to home, defeat, and great loss.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त मंगल: विवाद, घोर वैर, घर संबंधी व्यसन, पराजय और भारी हानि का कारण बनता है।"
+    },
+    {
+      "number": 62,
+      "text": "असौख्यमोजः क्षयवित्तनाशं\nपुत्रार्थहानिं सुतरां वियोगम् ।\nकरोति भौमः खलु पंचमस्थः\nप्रतापहानिं सततं नराणाम्",
+      "english_meaning": "Mars with Bindu in 5th house: Causes lack of happiness and radiance, loss of wealth and sons, and loss of power.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त मंगल: असुख, ओज क्षय, धन-पुत्र हानि और प्रताप की हानि करता है।"
+    },
+    {
+      "number": 63,
+      "text": "चतुष्पदव्यालसरीसृपोत्थं\nभयं विधत्ते क्षितिजो नराणाम् ।\nसदाविधानं खलु षष्ठसंस्थो\nनरेन्द्रपीडां खलसङ्गमं च",
+      "english_meaning": "Mars with Bindu in 6th house: Causes fear from animals and reptiles, harassment by kings, and association with wicked people.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त मंगल: पशुओं-सर्पों से भय, राजपीड़ा और दुर्जनों के संग का कारण बनता है।"
+    },
+    {
+      "number": 64,
+      "text": "व्ययं विरागं भयमिष्टवैरं\nभौमो विधत्ते खलु सप्तमस्थः ।\nजिह्वाक्षिरोगोद्भवमेव दुःखं\nसदा नराणां विषयप्रलौल्यम्",
+      "english_meaning": "Mars with Bindu in 7th house: Causes expenses, detachment, fear, enmity, and diseases of the tongue and eyes.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त मंगल: अत्यधिक व्यय, विरक्ति, भय, वैर और जिह्वा-नेत्र रोगों का कारण बनता है।"
+    },
+    {
+      "number": 65,
+      "text": "पराभवं मृत्युसमांश्च रोगान्\nकलत्रहानिं परवंचनानि ।\nभौमोऽष्टमस्थः कुरुते नराणां\nशस्त्राभिघातं परतः स्वतो वा",
+      "english_meaning": "Mars with Bindu in 8th house: Causes defeat, death-like diseases, loss of wife, deception, and danger from weapons.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त मंगल: पराभव (हार), मृत्युतुल्य रोग, पत्नी हानि, वंचना और शस्त्राघात का भय पैदा करता है।"
+    },
+    {
+      "number": 66,
+      "text": "इति भौमाष्टकवर्गफलम् \nरेखास्थितः सोमसुतो यदाद्ये\nस्थाने तदा शीलधनं विधत्ते ।\nविद्याविवेकादिभिः सम्प्रयुक्तं\nप्रभूतमित्रं विगतारिपक्षम्",
+      "english_meaning": "Mercury with Rekha in 1st house: Endows one with character, wealth, knowledge, wisdom, and many friends without enemies.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त बुध: जातक को शील, धन, विद्या, विवेक और अनेक मित्रों से युक्त व शत्रुहीन बनाता है।"
+    },
+    {
+      "number": 67,
+      "text": "स्थानस्थितं देवगुरुप्रसक्तं\nविज्ञानशीलं बहुखानपानम् ।\nस्थाने द्वितीये शशिजो विधत्ते\nनरं सुरूपं सुभगं सुकान्तम्",
+      "english_meaning": "Mercury with Rekha in 2nd house: Makes one a devotee of gods and gurus, expert in sciences, and brings good food and a beautiful appearance.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त बुध: जातक को देव-गुरु भक्त, विज्ञान-विशारद, उत्तम भोजन और सुरूप प्रदान करता है।"
+    },
+    {
+      "number": 68,
+      "text": "तृतीयगः सोमसुतः करोति\nप्रसन्नवाव्यं नृपलोकपूज्यम् ।\nनरं विधिज्ञं सुभगं मनोज्ञं\nहतारिपक्षं बहुधर्मभाजम्",
+      "english_meaning": "Mercury with Rekha in 3rd house: Makes one pleasant in speech, respected by kings, modest, and victorious over enemies.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त बुध: जातक को प्रियभाणी, राजपूज्य, विनीत और शत्रुओं पर विजय दिलाने वाला बनाता है।"
+    },
+    {
+      "number": 69,
+      "text": "बुधश्चतुर्थे कुरुते सुरूपं\nप्रियातिथिं बन्धुजनस्य मान्यम् ।\nमेधाविनं शास्त्ररतिं विधिज्ञं\nव्रतोपासादिरतं सदैव",
+      "english_meaning": "Mercury with Rekha in 4th house: Makes one beautiful, fond of guests, respected by relatives, intelligent, and religious.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त बुध: जातक को सुरूप, अतिथि प्रेमी, बन्धु मान्य, मेधावी और धर्मपरायण बनाता है।"
+    },
+    {
+      "number": 70,
+      "text": "करोति सौम्यः खलु पंचमस्थो\nनरं नितान्तं नृपतेरभीष्टम् ।\nआरामविप्रादिविहारभाजं\nचिन्तान्वितं भक्तिपरं द्विजानाम्",
+      "english_meaning": "Mercury with Rekha in 5th house: Makes one a favorite of kings, interested in public welfare and serving Brahmins.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त बुध: जातक को राजा का प्रिय और परोपकार व ब्राह्मण सेवा में रुचि रखने वाला बनाता है।"
+    },
+    {
+      "number": 71,
+      "text": "षष्ठेऽरिनाशं प्रकरोति सौम्यो\nनृणां पुरग्रामकृतं च लाभम् ।\nदेशाधिपत्यं प्रचुरान्नपानं\nयशःप्रतापं विजयं सदैव",
+      "english_meaning": "Mercury with Rekha in 6th house: Brings destruction of enemies, gains of towns and villages, high authority, fame, and power.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त बुध: शत्रु नाश, नगर-ग्राम लाभ, देशाधिपत्य, यश और प्रताप दिलाता है।"
+    },
+    {
+      "number": 72,
+      "text": "कलत्रलाभं रतिभोगसौख्यं\nकलत्रसंस्थः प्रकरोति सौम्यः ।\nतीर्थाश्रयं सौख्यसमृद्धियुक्तं\nप्रसन्नमूर्तिं सततं सुशीलम्",
+      "english_meaning": "Mercury with Rekha in 7th house: Brings gains of wife, enjoyments, successful pilgrimages, prosperity, and a modest character.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त बुध: स्त्री लाभ, रति-भोग सुख, तीर्थ लाभ, समृद्धि और सुशील स्वभाव देता है।"
+    },
+    {
+      "number": 73,
+      "text": "चतुष्पदाछादनविनयुक्तं\nनरं प्रसूते शशिजोऽष्टमस्थः ।\nकलत्रपुत्रोद्भवसौख्ययुक्तं\nसर्वत्र पूज्यं महिमासमेतम्",
+      "english_meaning": "Mercury with Rekha in 8th house: Brings gains of cattle and clothes, happiness from wife and sons, and universal respect.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त बुध: पशु-वस्त्र लाभ, स्त्री-पुत्र सुख और सर्वत्र पूजनीयता दिलाता है।"
+    },
+    {
+      "number": 74,
+      "text": "विन्दुस्थितः सोमसुतोऽतिपापं\nकरोति मर्त्यं प्रथमे खलं च ।\nमामान्वितं बान्धवविप्रयुक्तं\nसदा कुशीलं विनयेन हीनम्",
+      "english_meaning": "Mercury with Bindu in 1st house: Causes sinful acts, wicked nature, separation from kin, and lack of modesty.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त बुध: पापकर्म, दुष्ट स्वभाव, बन्धु वियोग और विनयहीनता का कारण बनता है।"
+    },
+    {
+      "number": 75,
+      "text": "प्रभूतदुःखं सुजनैर्विहीनं\nपराभिभूतं कठिनं कृतघ्नम् ।\nद्वितीयसंस्थो हिनरश्मिपुत्रो\nनरं प्रसूते बहुपापयुक्तम्",
+      "english_meaning": "Mercury with Bindu in 2nd house: Causes great sorrow, lack of association with good people, ungratefulness, and sinful habits.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त बुध: भारी दुःख, सत्संग का अभाव, कृतघ्नता और पापासक्ति पैदा करता है।"
+    },
+    {
+      "number": 76,
+      "text": "तृतीयगः पुत्रकलत्रनाशं\nकरोति सौम्यः सततं कुचैलम् ।\nतेजोविहीनं मलदग्धदेहं\nसम्पीडितं भूपतिना सदैव",
+      "english_meaning": "Mercury with Bindu in 3rd house: Causes loss of wife and sons, poor clothing, lack of radiance, and harassment by kings.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त बुध: स्त्री-पुत्र नाश, खराब वस्त्र (दरिद्रता), तेजोहीनता और राजपीड़ा का कारण बनता है।"
+    },
+    {
+      "number": 77,
+      "text": "चतुर्थगः शीतकरस्य पुत्रः\nप्रभूतदुःखं कुरुते मनुष्यम् ।\nशीलेन हीनं विनयेन हीनं\nसत्त्वात्मिकं चैव विवर्जितं च",
+      "english_meaning": "Mercury with Bindu in 4th house: Causes great sorrow, lack of character, lack of modesty, and lack of inner strength.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त बुध: भारी दुःख, शीलहीनता, विनयहीनता और आत्मबल की कमी करता है।"
+    },
+    {
+      "number": 78,
+      "text": "नष्टात्मजं नष्टधनं कुचैलं\nरोगाभिभूतं परतर्ककं च ।\nपरैर्जितं देवगुरुप्रमुक्तं\nकरोति सौम्यः खलु पंचमस्थः",
+      "english_meaning": "Mercury with Bindu in 5th house: Causes loss of sons and wealth, poor clothing, diseases, and lack of divine/guru support.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त बुध: पुत्र-धन नाश, दरिद्रता, रोग और देव-गुरु कृपा का अभाव पैदा करता है।"
+    },
+    {
+      "number": 79,
+      "text": "षष्ठस्थितः शीतकरस्य पुत्रो\nनरं प्रसूते धनवर्जितं च ।\nपराजितं शत्रुजनेन नित्यं\nविद्याविहीनं विनयेन मुक्तम्",
+      "english_meaning": "Mercury with Bindu in 6th house: Makes one devoid of wealth, defeated by enemies, unlearned, and lacking modesty.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त बुध: जातक को धनहीन, शत्रुओं से पराजित, विद्याहीन और विनयहीन बनाता है।"
+    },
+    {
+      "number": 80,
+      "text": "सौम्यो नरं सप्तमगो विधत्ते\nभोगेन हीनं परदाररक्तम् ।\nजनापवादेन युतं सुदीनं\nकुबुद्धिभाजं सुभयं सदैव",
+      "english_meaning": "Mercury with Bindu in 7th house: Causes lack of enjoyments, attachment to others' wives, public scandal, and constant fear.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त बुध: भोगहीनता, परस्त्री में आसक्ति, अपवाद (बदनामी) और निरंतर भय का कारण बनता है।"
+    },
+    {
+      "number": 81,
+      "text": "द्यूतप्रसक्तं गणिकासु रक्तं\nरजोधिकं सत्यधनेन हीनम् ।\nसौम्योऽष्टमस्थः सभयं विहीनं\nकरोति मर्त्यं सततं नृशंसम्",
+      "english_meaning": "Mercury with Bindu in 8th house: Makes one addicted to gambling and prostitutes, untruthful, devoid of wealth, and cruel.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त बुध: जातक को जुआ-वेश्या प्रेमी, असत्यवादी, धनहीन और क्रूर बनाता है।"
+    },
+    {
+      "number": 82,
+      "text": "इति बुधाष्टकव्र्गफलम् \nरेखागतो देवगुरुः प्रसूते\nनरं विदग्धं विनयोपयुक्तम् ।\nआद्ये महाबुद्धिधनान्वितं च\nधर्मध्वजं ब्राह्मणवल्लभं च",
+      "english_meaning": "Jupiter with Rekha in 1st house: Makes one expert, modest, highly intelligent, wealthy, religious, and a favorite of Brahmins.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त गुरु: जातक को चतुर, विनीत, महाबुद्धिमान, धनवान, धर्मात्मा और ब्राह्मणों का प्रिय बनाता है।"
+    },
+    {
+      "number": 83,
+      "text": "द्वितीयगः सौम्ययुतं प्रसूते\nनरं सुरेज्यः सुभगं मनोज्ञम् ।\nहस्त्यग्वयानादिधिया समेतं\nनरेन्द्रपूज्यं प्रथितं नृलोके",
+      "english_meaning": "Jupiter with Rekha in 2nd house: Endows one with a pleasant appearance, radiance, ownership of elephants and horses, and royal respect.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त गुरु: सौम्य रूप, तेज, हाथी-घोड़ों का स्वामित्व और राजसम्मान प्रदान करता है।"
+    },
+    {
+      "number": 84,
+      "text": "तृतीयसंस्थः कुरुते प्रधानं\nसुरेज्यमन्त्री बहुपुत्रपौत्रम् ।\nदयान्वितं जन्तुहितेषु युक्तं\nकुलप्रधानं सततं सुशीलम्",
+      "english_meaning": "Jupiter with Rekha in 3rd house: Makes one a person of high authority, having many sons and grandsons, compassionate, and modest.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त गुरु: जातक को उच्चाधिकारी, अनेक पुत्र-पौत्रों वाला, दयालु और सुशील बनाता है।"
+    },
+    {
+      "number": 85,
+      "text": "हिरण्यवित्तार्थसुबुद्धियुक्तं\nकरोति मर्त्यं त्रिदशेन्द्रमन्त्री ।\nचतुर्थसंस्थश्चतुरं धनाढ्यं\nविवेकिनं बान्धवसंमतं च",
+      "english_meaning": "Jupiter with Rekha in 4th house: Brings gold, wealth, high intelligence, cleverness, and love of relatives.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त गुरु: स्वर्ण, धन, सुबुद्धि, चतुराई और बन्धु-प्रेम दिलाता है।"
+    },
+    {
+      "number": 86,
+      "text": "करोति जीवः खलु पंचमस्थो\nनरं नितान्तं नृपतेरभीष्टम् ।\nपुत्रान्वितं प्रितिकरं नराणां\nसदा सुशीलं बहुधर्मयुक्तम्",
+      "english_meaning": "Jupiter with Rekha in 5th house: Makes one a favorite of kings, having sons, beloved of people, modest, and religious.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त गुरु: राजा का प्रिय, पुत्रवान, जनप्रिय, सुशील और धर्मनिष्ठ बनाता है।"
+    },
+    {
+      "number": 87,
+      "text": "हतारिपक्षं नियतं प्रसूते\nनरं सुरेज्यः खलु षष्ठसंस्थः ।\nहृष्टं सुपुष्टं प्रणतं गुरूणां\nप्रशान्तवैरं प्रथितं प्रियं च",
+      "english_meaning": "Jupiter with Rekha in 6th house: Destroys enemies, makes one happy, healthy, a devotee of gurus, and famous.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त गुरु: शत्रुओं का नाश करता है और जातक को सुखी, हृष्ट-पुष्ट, गुरुभक्त व प्रसिद्ध बनाता है।"
+    },
+    {
+      "number": 88,
+      "text": "अभीष्टनारिरतसम्प्रहृष्टं\nकरोति मर्त्यं सततं सुरेज्यः ।\nश्रियान्वितं देवगुरुप्रसक्तं\nसुभाषितज्ञं सुजनैः समेतम्",
+      "english_meaning": "Jupiter with Rekha in 7th house: Brings happiness with wife, radiance, devotion to gods and gurus, and makes one an eloquent speaker.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त गुरु: स्त्री सुख, प्रताप, देव-गुरु भक्ति और वाकपटुता (मिठभाणी) प्रदान करता है।"
+    },
+    {
+      "number": 89,
+      "text": "जीवोऽष्टमस्थः कुरुते विदग्धं\nप्रियातिथिं सर्वकलाउ दक्षम् ।\nनरं नृपेज्यं बहुशास्त्रलुब्धं\nपराक्रमप्राणसमन्वितं च",
+      "english_meaning": "Jupiter with Rekha in 8th house: Makes one expert in arts, fond of guests, respected by kings, learned, and powerful.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त गुरु: जातक को कला-दक्ष, अतिथि प्रेमी, राजपूज्य, शास्त्रज्ञ और पराक्रमी बनाता है।"
+    },
+    {
+      "number": 90,
+      "text": "बिन्दुस्थितो देवगुरुः प्रसूते\nनरं नृशंसं बहुदुःखयुक्तम् ।\nलुब्धं कृत्घ्नं मलिनस्वभावं\nविहीनसत्त्वं बहुसाहसं च",
+      "english_meaning": "Jupiter with Bindu in 1st house: Makes one cruel, sorrowful, greedy, ungrateful, and weak-willed.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त गुरु: जातक को क्रूर, दुखी, लोभी, कृतघ्न और हीनसत्त्व (निर्बल) बनाता है।"
+    },
+    {
+      "number": 91,
+      "text": "द्वितीयगो भूमिमतस्करोत्यं\nभ्यं सुरेज्यः कुरुते नराणाम् ।\nनृशंसतां रोगमनिष्टसंस्थं\nप्रभूतदुःखं दयितावधं च",
+      "english_meaning": "Jupiter with Bindu in 2nd house: Causes fear from land and thieves, cruelty, disease, great sorrow, and loss of loved ones.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त गुरु: भूमि व चोरों से भय, क्रूरता, रोग, महादुःख और प्रियजनों की हानि का कारण बनता है।"
+    },
+    {
+      "number": 92,
+      "text": "तृतीयसंस्थे त्रिदशेशपूज्ये\nविहीनवित्तः सरुजो मनुष्यः ।\nभवेत् कुमित्रः परदाररक्तो\nदौर्भाग्ययुक्तो ह्यलसः कृतघ्नः",
+      "english_meaning": "Jupiter with Bindu in 3rd house: Makes one devoid of wealth, diseased, associated with bad friends, and lazy.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त गुरु: धनहीन, रोगी, कुमित्र संगी और आलसी बनाता है।"
+    },
+    {
+      "number": 93,
+      "text": "चतुर्थगो देवगुरुः प्रसूते\nविहीनवित्तं बहुशत्रुगम्यम् ।\nविचर्थिकाद्यैः परिपीडितं च\nनरं सुमायं कुदिलं खलं च",
+      "english_meaning": "Jupiter with Bindu in 4th house: Causes lack of wealth, many enemies, skin diseases, deceitfulness, and a wicked nature.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त गुरु: धन का अभाव, शत्रु पीड़ा, त्वचा रोग, मायावी स्वभाव और दुष्टता लाता है।"
+    },
+    {
+      "number": 94,
+      "text": "पामाज्वरार्तं पर्दाररक्तं\nनरं प्रसूते सुरराजपूज्यः ।\nप्रभूतशोकं सततं सुपापं\nचौरं महाकष्टसमन्वितं च",
+      "english_meaning": "Jupiter with Bindu in 5th house: Causes skin diseases, fever, attachment to others' wives, sorrow, and theft.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त गुरु: चर्म रोग, ज्वर, परस्त्री में आसक्ति, शोक और चोरी का भय पैदा करता है।"
+    },
+    {
+      "number": 95,
+      "text": "षष्ठे सुरेज्यः कुरुतेऽक्षिरोगैः\nसम्पीडितं म्लेच्छसमानरूपम् ।\nप्रपंचशीलं सुतदारहीनं\nधर्मक्रियाहीनमनन्तशोकम्",
+      "english_meaning": "Jupiter with Bindu in 6th house: Causes eye diseases, a mlechha-like appearance, deceit, and lack of wife, sons, and religion.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त गुरु: नेत्र रोग, म्लेच्छ तुल्य रूप, छल-कपट और स्त्री-पुत्र व धर्म से हीनता लाता है।"
+    },
+    {
+      "number": 96,
+      "text": "करोति जीवः खलु सप्त्मस्थो\nनरं कफादिप्रचुरं सदैव ।\nहिक्काज्वरार्तिं पृथुमानहीनं\nदीनं जनैर्निन्दितमल्पसौख्यम्",
+      "english_meaning": "Jupiter with Bindu in 7th house: Causes phlegm disorders, fever, lack of honor, misery, and public censure.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त गुरु: कफ विकार, ज्वर, मान-सम्मान की कमी, दीनता और लोक-निन्दा का कारण बनता है।"
+    },
+    {
+      "number": 97,
+      "text": "स्थानेऽष्टमे देवगुरुः प्रसूते\nसदातिगर्वं कुटिलं मनुष्यम् ।\nद्वेष्यं नृपाणां स्वकुलस्य मध्ये\nगतप्रतापं विकृतं सदैव",
+      "english_meaning": "Jupiter with Bindu in 8th house: Makes one highly arrogant, crooked, hated by kings and family, and devoid of power.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त गुरु: जातक को अतिभिमानी, कुटिल, राजा व स्वकुल का द्वेषी और प्रभावहीन बनाता है।"
+    },
+    {
+      "number": 98,
+      "text": "इति जीवाष्टक्वर्गफलम् \nरेखाश्रितो दैत्यगुरुः प्रसूते\nनरं मनोज्ञं सुभगं सुशीलम् ।\nजितेन्रियं दानपरं मनोग़्यं\nधर्मानुरक्तं प्रचुरान्नपानम्",
+      "english_meaning": "Venus with Rekha in 1st house: Makes one radiant, auspicious, modest, self-controlled, charitable, and rich in resources.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त शुक्र: जातक को कान्तिवान, सुभग, सुशील, जितेन्द्रिय, दानवीर और समृद्ध बनाता है।"
+    },
+    {
+      "number": 99,
+      "text": "द्वितीयगः काव्यसुतः प्रसूते\nनरं विधिज्ञं धनिकं च ।\nस्वधर्मशीलं विनयेन युक्तं\nप्रभासमेतं जनवल्लभं च",
+      "english_meaning": "Venus with Rekha in 2nd house: Makes one expert in rules, wealthy, religious, modest, radiant, and loved by people.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त शुक्र: जातक को विधिज्ञ, धनवान, धर्मनिष्ठ, विनीत, प्रतापी और जनप्रिय बनाता है।"
+    },
+    {
+      "number": 100,
+      "text": "तृतीयसंस्थो बहुभूषणाढ्यं\nनरं प्रसूते सततं प्रगल्भम् ।\nमेधाविनं धर्मपरं विनीतं\nदेवद्विजानामनुवल्लभं च",
+      "english_meaning": "Venus with Rekha in 3rd house: Endows one with ornaments, courage, high intelligence, and makes one a favorite of gods/Brahmins.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त शुक्र: आभूषणों, साहस, सुबुद्धि और देव-ब्राह्मणों की प्रियता दिलाता है।"
+    },
+    {
+      "number": 101,
+      "text": "शुक्रचरुर्थे कुरुते धनाढ्यं\nसद्भोजनाछादनपानयुक्तम् ।\nवैडूर्यमुक्ताफलरत्नलाभैः\nसंतुष्टचिन्तं सततं मनुष्यम्",
+      "english_meaning": "Venus with Rekha in 4th house: Makes one wealthy, having good food and clothes, gaining gems and pearls, and always satisfied.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त शुक्र: जातक को धनाढ्य, उत्तम भोजन-वस्त्र से युक्त, रत्न-मोती का लाभ और सदैव संतुष्ट बनाता है।"
+    },
+    {
+      "number": 102,
+      "text": "सुतीर्थयानादिकपुत्रलाभै-\nर्युक्तं नरं दैत्यगुरुर्विधत्ते ।\nचतुष्पदाढ्यं खलु पंचमस्थः\nप्रियं नृलोके परमं प्रधानम्",
+      "english_meaning": "Venus with Rekha in 5th house: Brings gains from pilgrimage and sons, ownership of cattle, and makes one loved by people and paramount.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त शुक्र: तीर्थ-पुत्र का लाभ, पशु धन, जनप्रियता और उच्च पद (प्रधानता) दिलाता है।"
+    },
+    {
+      "number": 103,
+      "text": "शुक्रस्तु षष्ठे कुरुते मनुष्यं\nविद्यासु निष्ठं बहुमन्त्रभाजम् ।\nस्त्रीवित्तलाभः सहितं सुरूपं\nविपक्षणं सर्वफलासु दक्षम्",
+      "english_meaning": "Venus with Rekha in 6th house: Makes one devoted to knowledge, an expert in mantras, gaining from wife and wealth, and beautiful.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त शुक्र: विद्याव्यसनी, मन्त्रज्ञ, स्त्री-धन का लाभ और सुरूपता प्रदान करता है।"
+    },
+    {
+      "number": 104,
+      "text": "शुक्रो विधत्ते खलु सप्तमस्थो\nनरं निप्तान्तं सुरतप्रगल्भम् ।\nसकुङ्कुमाछादनभोगभाजं\nनरेन्द्रपूजासहितं सदैव",
+      "english_meaning": "Venus with Rekha in 7th house: Makes one an expert in love and pleasures, enjoying cosmetics and clothes, with royal respect.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त शुक्र: रति-भोग में निपुण, विलासी (इत्र-वस्त्र प्रेमी) और राजपूज्य बनाता है।"
+    },
+    {
+      "number": 105,
+      "text": "स्थानेऽष्टमे दैत्यगुरुः प्रसूते\nनरं नितान्तं सुनयेन युक्तम् ।\nप्रभासमेतं बहुकीर्तिभाजं\nसुकर्मिणं धर्मसमन्वितं च",
+      "english_meaning": "Venus with Rekha in 8th house: Makes one expert in policies and rules, radiant, famous, religious, and a good worker.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त शुक्र: नीतिज्ञ, प्रतापी, कीर्तिवान, सुकर्मी और धर्मात्मा बनाता है।"
+    },
+    {
+      "number": 106,
+      "text": "विन्दुस्थितो दैत्यगुरुः प्रसूते\nनरं सुपापं बहुरोगयुक्तम् ।\nनृपाभिभूतं सुतवित्तहीनं\nविवर्जितं बान्धवसज्जनैश्च",
+      "english_meaning": "Venus with Bindu in 1st house: Makes one sinful, suffering from many diseases, harassed by kings, and devoid of sons/wealth.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त शुक्र: जातक को पापी, बहुरोग युक्त, राजपीड़ित और पुत्र-धन से हीन बनाता है।"
+    },
+    {
+      "number": 107,
+      "text": "शुक्रो द्वितीये सरुजं विधत्ते\nप्रतापहीनं बहुपापयुक्तम् ।\nसदा विरक्तं स्वकुतुम्बवर्गे\nशोकाभिभूतं रतिलालसं च",
+      "english_meaning": "Venus with Bindu in 2nd house: Causes disease, loss of power, sinful tendencies, detachment from family, sorrow, and lust.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त शुक्र: रोग, प्रताप की हानि, पापासक्ति, परिवार से विरक्ति, शोक और कामुकता का कारण बनता है।"
+    },
+    {
+      "number": 108,
+      "text": "तृतीयसंस्थः कुरुते नृशंसं\nशुक्रः सदा रोगविथर्चिकैश्च ।\nनराभिभूतं अततं कुचैलं\nज्वरार्दितं मानधनेन हीनम्",
+      "english_meaning": "Venus with Bindu in 3rd house: Causes cruelty, skin diseases, suffering from others, poor clothing, fever, and poverty.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त शुक्र: क्रूरता, त्वचा रोग, दूसरों से पीड़ा, दरिद्रता (खराब वस्त्र) और ज्वर का कारण बनता है।"
+    },
+    {
+      "number": 109,
+      "text": "चतुर्थगः शोकयुतं प्रसूते\nनरं महाव्याधियुतं दरिद्रम् ।\nचतुष्पदाछादनवर्जितं च\nप्रेष्यं खलं पार्थिवमानहीनम्",
+      "english_meaning": "Venus with Bindu in 4th house: Causes sorrow, major diseases, poverty, and lack of cattle and clothes while serving others.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त शुक्र: शोक, महाव्याधि, दरिद्रता और पशु-वस्त्र की कमी के साथ दूसरों की सेवा कराता है।"
+    },
+    {
+      "number": 110,
+      "text": "करोति शुक्रः खलु पंचमस्थः\nसदा दरिद्रं विकृतं मनुष्यम् ।\nसुतार्थहीनं व्यसनैः समेतं\nकुमित्रसङ्गेन युतं नितान्तम्",
+      "english_meaning": "Venus with Bindu in 5th house: Makes one poor, deformed, devoid of sons and wealth, and associated with bad friends.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त शुक्र: निर्धन, विकृत, पुत्र-धन से हीन और कुमित्रों का संगी बनाता है।"
+    },
+    {
+      "number": 111,
+      "text": "षष्ठे सितः सर्वजनाभिभूतं\nनरं प्रसूते प्रणयेन हीनम् ।\nविवर्जितं सत्यसुखेन नित्यं\nविदेशरक्तं परतर्ककं च",
+      "english_meaning": "Venus with Bindu in 6th house: Causes suffering from all, lack of affection, lack of truth and happiness, and love for foreign travel.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त शुक्र: सबसे पीड़ा, स्नेहहीनता, सत्य-सुख का अभाव और विदेश गमन का कारण बनता है।"
+    },
+    {
+      "number": 112,
+      "text": "करोति शुक्रः खलु सप्तमस्थो\nवातादिदोषैः सहितं मनुष्यम् ।\nनृशंसचेष्टं व्यसनाभिभूतं\nसदा कृतघ्नं मतिवर्जितं च",
+      "english_meaning": "Venus with Bindu in 7th house: Causes wind-related disorders, cruel acts, sorrow, ungratefulness, and lack of intelligence.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त शुक्र: वात आदि दोष, क्रूर चेष्टा, दुःख, कृतघ्नता और बुद्धिहीनता लाता है।"
+    },
+    {
+      "number": 113,
+      "text": "शुक्रोऽष्टमस्यः कुरुते विशीलं\nनरं महाव्याधियुतं कृतघ्नम् ।\nनित्यं विहीनं बहुपापरक्तं\nचिन्तान्वितं वैरयुतं सदैव",
+      "english_meaning": "Venus with Bindu in 8th house: Causes characterlessness, major diseases, ungratefulness, sinful acts, anxiety, and enmity.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त शुक्र: शीलहीनता, महाव्याधि, कृतघ्नता, पापरत होना, चिन्ता और वैर का कारण बनता है।"
+    },
+    {
+      "number": 114,
+      "text": "इति शुक्राष्टकवर्गफलम् \nरेखास्थितः सूर्यसुतः प्रसूते\nस्थिरस्वभावं सुभगं मनुष्यम् ।\nप्रियान्वितं सर्वजनैः प्रधानं\nविनीतवेषाभरणं सदैव",
+      "english_meaning": "Saturn with Rekha in 1st house: Gives a stable nature, auspiciousness, popularity, leadership in society, and modesty.",
+      "hindi_meaning": "प्रथम भाव में रेखा युक्त शनि: स्थिर स्वभाव, सुभगता, जनप्रियता, समाज में प्रधानता और विनयशीलता देता है।"
+    },
+    {
+      "number": 115,
+      "text": "द्वितीयसंस्थो रविजः प्रसूते\nनरं नितान्तं बहुमानभाजम् ।\nपराक्रमोत्साहधनेन युक्तं\nतीर्थानुरक्तं लरयातनां च",
+      "english_meaning": "Saturn with Rekha in 2nd house: Makes one highly respected, courageous, wealthy, religious, and a destroyer of enemies.",
+      "hindi_meaning": "द्वितीय भाव में रेखा युक्त शनि: अत्यधिक सम्मानित, पराक्रमी, धनवान, धर्मात्मा और शत्रुहन्ता बनाता है।"
+    },
+    {
+      "number": 116,
+      "text": "सौरस्तृतीयः कुरुते प्रधानं\nनरं सुविद्यागमशास्त्रलुब्धम् ।\nखरोष्ट्रलोहाढ्यमनल्पपुत्रं\nनरं सदा शान्तमतिप्रभवम्",
+      "english_meaning": "Saturn with Rekha in 3rd house: Makes one a primary person, lover of knowledge and sciences, owner of camels/donkeys/iron, and calm.",
+      "hindi_meaning": "तृतीय भाव में रेखा युक्त शनि: प्रधान व्यक्ति, विद्या-शास्त्र प्रेमी, ऊंट-गधे-लोहे का स्वामी और शान्त स्वभाव वाला बनाता है।"
+    },
+    {
+      "number": 117,
+      "text": "चतुर्थगः सूर्यसुतः प्रसूत\nनरं सुताढ्यं बहुखानपानम् ।\nस्नग्गन्धभूपादिसुभोगभाजं\nप्रभूतसख्यर्चवराश्चयुक्तम्",
+      "english_meaning": "Saturn with Rekha in 4th house: Endows one with sons, abundant food and drink, enjoyment of cosmetics/fragrances, and many friends.",
+      "hindi_meaning": "चतुर्थ भाव में रेखा युक्त शनि: पुत्र, प्रचुर खान-पान, इत्र-माला आदि का भोग और अनेक मित्र प्रदान करता है।"
+    },
+    {
+      "number": 118,
+      "text": "करोति मन्दः खलु पंचमस्थो\nनरं कुलीनं सुखिनं च नित्यम् ।\nश्रिया समेतं विगतारिपक्षं\nनृपाश्रितं श्रीदयितं सदैव",
+      "english_meaning": "Saturn with Rekha in 5th house: Brings noble birth, constant happiness, radiance, royal favor, and wealth.",
+      "hindi_meaning": "पंचम भाव में रेखा युक्त शनि: कुलीनता, नित्य सुख, वैभव, राजाश्रय और लक्ष्मी की प्राप्ति कराता है।"
+    },
+    {
+      "number": 119,
+      "text": "षष्ठेऽर्कजः शीलधनं प्रसूते\nनरं विधिज्ञं सुरविप्रयुक्तम् ।\nपश्चात् प्रतिज्ञं कनकार्थलाभं\nमहाप्रभावं नरनाथपूज्यम्",
+      "english_meaning": "Saturn with Rekha in 6th house: Endows one with character and wealth, makes one expert in rules, a devotee of gods/Brahmins, and brings gold.",
+      "hindi_meaning": "षष्ठ भाव में रेखा युक्त शनि: शील-धन सम्पन्न, विधिज्ञ, देव-विप्र भक्त और स्वर्ण लाभ कराता है।"
+    },
+    {
+      "number": 120,
+      "text": "शनैश्चरः सप्तमगो विधत्ते\nनरं धनाढ्यं प्रमदाप्रधानम् ।\nविचक्षणं कीर्तिकरं मनोज्ञं\nकलासु दक्षं प्रथितं नृलोके",
+      "english_meaning": "Saturn with Rekha in 7th house: Makes one wealthy, successful with women, wise, famous, and expert in arts.",
+      "hindi_meaning": "सप्तम भाव में रेखा युक्त शनि: धनाढ्य, स्त्री सुख युक्त, विचक्षण, कीर्तिवान और कला-दक्ष बनाता है।"
+    },
+    {
+      "number": 121,
+      "text": "स्थितेऽष्टमे सूर्यसुतः प्रसूते\nविचित्रमाल्याभरणं मनुष्यम् ।\nहिरण्य..........\nविद्याविनीतं द्विजदेवभक्तम्",
+      "english_meaning": "Saturn with Rekha in 8th house: Brings various ornaments, gold, knowledge, modesty, and devotion to gods and Brahmins.",
+      "hindi_meaning": "अष्टम भाव में रेखा युक्त शनि: विचित्र आभूषण, स्वर्ण लाभ, विद्या, विनय और देव-ब्राह्मण भक्ति प्रदान करता है।"
+    },
+    {
+      "number": 122,
+      "text": "विन्दुस्थितः सूर्यसुतश्च सूते\nवृथाश्रमं पापरतं मनुष्यम् ।\nस्वबान्धवैस्त्यत्कमनल्पदुःखं\nदीनं नृशंसं नृपपीडितं च",
+      "english_meaning": "Saturn with Bindu in 1st house: Causes useless efforts, sinful nature, abandonment by kin, misery, and royal harassment.",
+      "hindi_meaning": "प्रथम भाव में बिंदु युक्त शनि: व्यर्थ परिश्रम, पापरत स्वभाव, स्वजनों द्वारा त्याग, दीनता और राजपीड़ा का कारण बनता है।"
+    },
+    {
+      "number": 123,
+      "text": "द्वितीयसंस्थः कुरुतेऽर्कपुत्रः\nपापात्मकं पापसुखं मनुष्यम् ।\nकुक्षिस्यरोगैः परिपीडिताङ्गं\nचलस्वभावं सुमहाकर्दयम्",
+      "english_meaning": "Saturn with Bindu in 2nd house: Causes sinful thoughts, stomach diseases, fickle nature, and extreme poverty.",
+      "hindi_meaning": "द्वितीय भाव में बिंदु युक्त शनि: पापात्मा, पेट के रोग, चंचल स्वभाव और महादरिद्रता का कारण बनता है।"
+    },
+    {
+      "number": 124,
+      "text": "तृतीयसंस्थोऽर्कसुतः प्रसूते\nनरं नृशंसं वितथक्रियं च ।\nबह्वाशिनं सत्यविहीनमुग्रं\nचौरं खलं सर्वजनाभिभूतम्",
+      "english_meaning": "Saturn with Bindu in 3rd house: Makes one cruel, untruthful, gluttonous, and hated by all; associated with theft and fierce activities.",
+      "hindi_meaning": "तृतीय भाव में बिंदु युक्त शनि: जातक को क्रूर, असत्यवादी, पेटू और सर्वजन निन्दित बनाता है; यह चोरी व उग्र कार्यों का सूचक है।"
+    },
+    {
+      "number": 125,
+      "text": "चतुर्थगः सूर्यसुतः प्रसूते\n.......... परूजं मनुष्यम् ।\nविहीनवर्णं गतबुद्धिवीर्यं\nप्रेष्यं खलं दीनमनर्थयुक्तम्",
+      "english_meaning": "Saturn with Bindu in 4th house: Causes disease, loss of complexion, loss of intelligence and strength, and makes one a miserable servant.",
+      "hindi_meaning": "चतुर्थ भाव में बिंदु युक्त शनि: रोग, कान्तिहीनता, बुद्धि व वीर्य की हानि और जातक को दीन सेवक बनाता है।"
+    },
+    {
+      "number": 126,
+      "text": "सौरः सदा पंचमगः प्रसूते\nविरक्तपौरं मलिनवभावम् ।\nद्वेषां कुबुद्धिं हतकर्मसिद्धिं\nक्षुद्रोगशस्त्रोपहतं नृशंसम्",
+      "english_meaning": "Saturn with Bindu in 5th house: Causes detachment from society, dirty nature, enmity, wicked thoughts, and failure in works.",
+      "hindi_meaning": "पंचम भाव में बिंदु युक्त शनि: समाज से विरक्ति, मलिन स्वभाव, द्वेष, कुबुद्धि और कार्यों में विफलता लाता है।"
+    },
+    {
+      "number": 127,
+      "text": "षष्ठे शनिः पापयुतं ..........\nप्रभावहीनं परदाररक्तम् ।\nगुदाक्षिरोगोपहतं सशोकं\nप्रभूतवैरं प्रियसाध्वसं च",
+      "english_meaning": "Saturn with Bindu in 6th house: Causes sinful habits, lack of power, attachment to others' wives, and diseases of the anus and eyes.",
+      "hindi_meaning": "षष्ठ भाव में बिंदु युक्त शनि: पापकर्म, प्रभावहीनता, परस्त्री में आसक्ति और गुदा व नेत्र रोगों का कारण बनता है।"
+    },
+    {
+      "number": 128,
+      "text": "सौरो विधत्ते खलु सप्तमस्थो\nनरं क्रियाहीनमनल्पवैरम् ।\nसदा सरोगं निजबन्धुहीनं\n.......... विवर्जितं च",
+      "english_meaning": "Saturn with Bindu in 7th house: Causes lack of activities, fierce enmity, constant diseases, and lack of relatives.",
+      "hindi_meaning": "सप्तम भाव में बिंदु युक्त शनि: क्रियाहीनता, घोर वैर, निरंतर रोग और बन्धुहीनता का कारण बनता है।"
+    },
+    {
+      "number": 129,
+      "text": "सौरोऽष्टमस्थः कुरुते दरिद्रं\nनरं सरोगं बहुनीचरक्तम् ।\nपित्तोद्भवैः पीडितमुग्ररोगं\nविदेशभाजं परतर्ककं च",
+      "english_meaning": "Saturn with Bindu in 8th house: Causes poverty, diseases, attachment to lowly people, pitta disorders, and foreign travel.",
+      "hindi_meaning": "अष्टम भाव में बिंदु युक्त शनि: दरिद्रता, रोग, नीच लोगों में आसक्ति, पित्त विकार और विदेश गमन का कारण बनता है।"
+    }
+  ]
+}

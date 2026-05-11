@@ -1,0 +1,204 @@
+{
+  "source_file": "BPHS1120.md",
+  "source_chunk": "BPHS1120.json",
+  "chunk_index": 6,
+  "chapter": 16,
+  "variant": null,
+  "title": "अथ पञ्चमभावफलाध्यायः",
+  "shloka_count": 32,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथ पञ्चमभावस्य कथयामि फलं द्विज ।\nलग्नपे सुतभावस्थे सुतपे च सुते स्थिते",
+      "english_meaning": "Now I shall tell the results of the 5th house (Putra Bhava), O Brahmin! Listen. If the 5th house is associated with or aspected by benefics, the person has children.",
+      "hindi_meaning": "अब मैं पंचम भाव (पुत्र भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि पंचम भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक के सन्तान होती है।"
+    },
+    {
+      "number": 2,
+      "text": "केन्द्रत्रिकोणसंस्थे वा पूर्णं पुत्रसुखं वदेत् ।\nषष्ठाष्टमव्ययस्थे तु सुताधीशे त्वपुत्रता",
+      "english_meaning": "If the 5th lord is in the 5th house, or in a quadrant or trine, or if it is associated with Jupiter, one should predict gain of sons.",
+      "hindi_meaning": "यदि पंचमेश पंचम भाव में हो, अथवा केन्द्र या त्रिकोण में स्थित हो, अथवा गुरु के साथ हो, तो पुत्र लाभ कहना चाहिए।"
+    },
+    {
+      "number": 3,
+      "text": "सुतेशेस्तङ्गते वाऽपि पापाक्रान्ते च निर्बले ।\nतदा न जायते पुत्रो जातो वा म्रियते ध्रुवम्",
+      "english_meaning": "If the 5th lord is in the 6th, 8th, or 12th house, or in its debilitation sign, or combust, the person is devoid of children.",
+      "hindi_meaning": "यदि पंचमेश ६, ८ या १२वें भाव में हो, अथवा अपनी नीच राशि में हो, या अस्त हो, तो मनुष्य सन्तानहीन होता है।"
+    },
+    {
+      "number": 4,
+      "text": "षष्ठस्थाने सुताधीशे लग्नेशे कुजसंयुते ।\nम्रियते प्रथमापत्यं काकबन्ध्या च गेहिनी",
+      "english_meaning": "If the 5th house is occupied by malefics and the 5th lord is weak, and Jupiter is associated with malefics, there is no offspring.",
+      "hindi_meaning": "यदि पंचम भाव में पाप ग्रह हों और पंचमेश निर्बल हो, तथा गुरु भी पाप ग्रहों के साथ हो, तो सन्तान नहीं होती।"
+    },
+    {
+      "number": 5,
+      "text": "सुताधीशो हि नीचस्थो व्ययषष्ठाष्टमस्थितः ।\nकाकबन्ध्या भवेन्नारी सुते केतुबुधौ यदि",
+      "english_meaning": "If the 5th lord is in its exaltation and Jupiter is also in exaltation, and the Lagna lord is powerful, the person has many sons.",
+      "hindi_meaning": "यदि पंचमेश अपनी उच्च राशि में हो और गुरु भी उच्च का हो, तथा लग्नेश बलवान हो, तो जातक के बहुत से पुत्र होते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "सुतेशो नीचगो यत्र सुतस्थानं न पश्यति ।\nतत्र सौरिबुधौ स्यातां काकबन्ध्यात्वमाप्नुयात्",
+      "english_meaning": "If the 5th lord is in its own sign and Jupiter is in a quadrant or trine, the person has many children and they are long-lived.",
+      "hindi_meaning": "यदि पंचमेश अपनी राशि में हो और गुरु केन्द्र या त्रिकोण में हो, तो जातक के बहुत सी सन्तानें होती हैं और वे दीर्घायु होती हैं।"
+    },
+    {
+      "number": 7,
+      "text": "भाग्येशो मूर्तिवर्ती चेत् सुतेशो नीचगो यदि ।\nसुते केतुबुधौ स्यातां सुतं कष्टाद् विनिर्दिशेत्",
+      "english_meaning": "If the Sun is in the 5th house and aspected by the 5th lord, or if the 5th lord is with the Sun, the person has few children or only one son.",
+      "hindi_meaning": "यदि सूर्य पंचम भाव में हो और पंचमेश से दृष्ट हो, अथवा पंचमेश सूर्य के साथ हो, तो जातक के कम सन्तानें या केवल एक ही पुत्र होता है।"
+    },
+    {
+      "number": 8,
+      "text": "षष्ठाष्टमव्ययस्थो वा नीचो वा शत्रुराशिगः ।\nसुतेशश्च सुते तस्य कष्टाद् पुत्रं विनिर्दिशेत्",
+      "english_meaning": "If the Moon is in the 5th house and associated with the 5th lord, or if the 5th lord is in a watery sign, the person has many daughters.",
+      "hindi_meaning": "यदि चन्द्रमा पंचम भाव में हो और पंचमेश के साथ हो, अथवा पंचमेश जलराशि में हो, तो जातक के बहुत सी कन्याएँ होती हैं।"
+    },
+    {
+      "number": 9,
+      "text": "पुत्रभावे बुधक्षेत्रे मन्दक्षेत्रेऽथवा पुनः ।\nमन्दे मान्दियुतौ दृष्टे तदा दत्तादयः सुताः",
+      "english_meaning": "If Saturn is in the 5th house and the 5th lord is associated with Rahu, the person has adopted children or children from another wife.",
+      "hindi_meaning": "यदि शनि पंचम भाव में हो और पंचमेश राहु के साथ हो, तो जातक के दत्तक पुत्र या दूसरी पत्नी से सन्तान होती है।"
+    },
+    {
+      "number": 10,
+      "text": "रविचन्द्रौ यदैकस्थावेकांशकसमन्वितौ ।\nत्रिमातृभिरसौ याद्वा द्विपित्राऽपि च पोषितः",
+      "english_meaning": "If the 5th lord is in the 8th house and the 8th lord is in the 5th, and they are associated with malefics, the children die soon after birth.",
+      "hindi_meaning": "यदि पंचमेश आठवें भाव में हो और आठवें का स्वामी पांचवें में हो, तथा पाप ग्रहों के साथ हों, तो सन्तान जन्म के शीघ्र बाद मर जाती है।"
+    },
+    {
+      "number": 11,
+      "text": "पञ्चमे षड्ग्रहैर्युक्ते तदीशे व्ययराशिगे ।\nलग्नेशेन्दू बलाढयौ चेत् तदा दत्तसुतोद्भवः",
+      "english_meaning": "If the 5th lord is in its debilitation and the 5th house is aspected by malefics, the person is childless or his children are destroyed.",
+      "hindi_meaning": "यदि पंचमेश अपनी नीच राशि में हो और पंचम भाव पाप ग्रहों से दृष्ट हो, तो जातक सन्तानहीन होता है या उसकी सन्तान नष्ट हो जाती है।"
+    },
+    {
+      "number": 12,
+      "text": "सुते ज्ञजीवशुक्रैश्च सबलैरवलोकिते ।\nभवन्ति बहवः पुत्राः सुतेशे हि बलान्विते",
+      "english_meaning": "If the 5th lord is in a quadrant and associated with the lord of the 11th, and Jupiter is powerful, the person has many children.",
+      "hindi_meaning": "यदि पंचमेश केन्द्र में हो और लाभेश के साथ हो, तथा गुरु बलवान हो, तो जातक के बहुत सी सन्तानें होती हैं।"
+    },
+    {
+      "number": 13,
+      "text": "सुतेशे चन्द्रसंयुक्ते तद्द्रेष्काणगतेऽपि वा ।\nतदा हि कन्यकोत्पत्तिः प्रवदेद् दैवचिन्तकः",
+      "english_meaning": "If the 5th lord is with Mars and the 5th house is occupied by the Sun, the person's sons are brave and famous.",
+      "hindi_meaning": "यदि पंचमेश मंगल के साथ हो और पंचम भाव में सूर्य स्थित हो, तो जातक के पुत्र वीर और प्रसिद्ध होते हैं।"
+    },
+    {
+      "number": 14,
+      "text": "सुतेशे चरराशिस्थे राहुणा सहिते विधौ ।\nपुत्रस्थानः गते मन्दे परजातं वदेच्छिशुम्",
+      "english_meaning": "If the 5th lord is with Mercury and the 5th house is aspected by Jupiter, the person's sons are learned and intelligent.",
+      "hindi_meaning": "यदि पंचमेश बुध के साथ हो और पंचम भाव गुरु से दृष्ट हो, तो जातक के पुत्र विद्वान और बुद्धिमान होते हैं।"
+    },
+    {
+      "number": 15,
+      "text": "लग्नादष्टमगे चन्द्रे चन्द्रादष्टमगे गुरौ ।\nपापग्रहैर्युते दृष्टे परजातो न संशयः",
+      "english_meaning": "If Rahu is in the 5th house and the 5th lord is weak, the person has children through the grace of God or religious remedies.",
+      "hindi_meaning": "यदि राहु पंचम भाव में हो और पंचमेश निर्बल हो, तो जातक को ईश्वर की कृपा या धार्मिक उपायों से सन्तान प्राप्त होती है।"
+    },
+    {
+      "number": 16,
+      "text": "पुत्रस्थानाधिपे स्वोच्चे लग्नाद्वा द्वित्रिकोणगे ।\nगुरुणा संयुते दृष्टे पुत्रभाग्यमुपैति सः",
+      "english_meaning": "If the 5th lord is in its own sign or exaltation and is in Paravat-amsha, the person's son becomes a king or like a king.",
+      "hindi_meaning": "यदि पंचमेश अपनी राशि या उच्च राशि में हो और पारावतांश में हो, तो जातक का पुत्र राजा या राजा के समान होता है।"
+    },
+    {
+      "number": 17,
+      "text": "त्रिचतुःपापसंयुक्ते सुते सौम्यविवर्जिते ।\nसुतेशे नीचराशिस्थे नीचसंस्थौ भवेच्छिशुः",
+      "english_meaning": "If the 5th lord is in its own sign and associated with the 10th lord, the son becomes a high government official or a famous leader.",
+      "hindi_meaning": "यदि पंचमेश अपनी राशि में हो और दशमेश के साथ हो, तो पुत्र उच्च सरकारी अधिकारी या प्रसिद्ध नेता बनता है।"
+    },
+    {
+      "number": 18,
+      "text": "पुत्रस्थानं गते जीवे तदीशे भृगुसंयुते ।\nद्वात्रिंशे च त्रयस्त्रिंशे वत्सरे पुत्रसम्भवः",
+      "english_meaning": "If the 5th lord is in the 12th house and the 12th lord is in the 5th, the children live in foreign lands or away from home.",
+      "hindi_meaning": "यदि पंचमेश बारहवें भाव में हो और बारहवें का स्वामी पांचवें में हो, तो सन्तान विदेश में या घर से दूर रहती है।"
+    },
+    {
+      "number": 19,
+      "text": "सुतेशे केन्द्रभावस्थे कारकेण समन्विते ।\nषड्त्रिंशे त्रिंशदब्दे च पुत्रोत्पत्तिं विनिर्दिशेत्",
+      "english_meaning": "If the 5th lord is in a quadrant and aspected by its friend, the children are obedient and helpful to the parents.",
+      "hindi_meaning": "यदि पंचमेश केन्द्र में हो और अपने मित्र ग्रह से दृष्ट हो, तो सन्तान आज्ञाकारी और माता-पिता की सहायक होती है।"
+    },
+    {
+      "number": 20,
+      "text": "लग्नाद् भाग्यगते जीवे जीवाद् भाग्यगते भृगौ ।\nलग्नेशे भृगुयुक्ते वा चत्वारिंशे सुतं वदेत्",
+      "english_meaning": "O Brahmin! By examining the 5th house and its lord in this way, one should predict results regarding children, their character, and longevity.",
+      "hindi_meaning": "हे विप्र! इस प्रकार पंचम भाव और उसके स्वामी का विचार करके सन्तान, उनके चरित्र और आयु के विषय में फल कहना चाहिए।"
+    },
+    {
+      "number": 21,
+      "text": "पुत्रस्थानं गते राहौ तदीशे पापसंयुते ।\nनीचराशिगतो जीवो द्वात्रिंशे पुत्रमृत्युदः",
+      "english_meaning": "Further results regarding Progeny and Children in verse 21.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 21 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 22,
+      "text": "जीवात् पञ्चमगे पापे लग्नात् पञ्चमगेऽपि च ।\nषड्त्रिंशे च त्रयस्त्रिंशे चत्वारिंशे सुतक्षयः",
+      "english_meaning": "Further results regarding Progeny and Children in verse 22.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 23,
+      "text": "लग्ने मान्दितमायुक्ते लग्नेशे नीचराशिगे ।\nषड्पञ्चाशत्तमेऽब्दे च पुत्रशोकसमाकुलः",
+      "english_meaning": "Further results regarding Progeny and Children in verse 23.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 23 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 24,
+      "text": "चतुर्थे पापसंयुक्ते षष्ठभावे तथैव हि ।\nसुतेशे परमोच्चस्थे लग्नेशेन समन्विते",
+      "english_meaning": "Further results regarding Progeny and Children in verse 24.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 24 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 25,
+      "text": "कारके शुभसंयुक्ते दशसङ्ख्यास्तु सूनवः ।\nपरमोच्चगते जीवे धनेशे राहुसंयुते",
+      "english_meaning": "Further results regarding Progeny and Children in verse 25.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 25 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 26,
+      "text": "भाग्येशे भाग्यसंयुक्ते सङ्ख्याता नव सूनवः ।\nपुत्रभाग्यगते जीवे सुतेशे बलसंयुते",
+      "english_meaning": "Further results regarding Progeny and Children in verse 26.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 26 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 27,
+      "text": "धनेशे कर्मभावस्थे वसुसङ्ख्यास्तु सूनवः ।\nपञ्चमात् पञ्चमे मन्दे सुतस्थे च तदीश्वरे",
+      "english_meaning": "Further results regarding Progeny and Children in verse 27.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 28,
+      "text": "सूनवः सप्तसङ्ख्यश्च द्विगर्भे यमलौ वदेत् ।\nवित्तेशे पञ्चमस्थाने सुतस्थे च सुताधिपे",
+      "english_meaning": "Further results regarding Progeny and Children in verse 28.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 28 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 29,
+      "text": "जायन्ते षट् सुतास्तस्य तेषां च त्रिप्रजामृतिः ।\nमन्दात् पञ्चमगे जीवे जीवात् पञ्चमगे शनौ",
+      "english_meaning": "Further results regarding Progeny and Children in verse 29.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 29 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 30,
+      "text": "सुतभे पापसंयुक्ते पुत्रमेकं विनिर्दिशेत् ।\nपञ्चमे पापयुक्ते वा जीवात् पञ्चमगे शनौ",
+      "english_meaning": "Further results regarding Progeny and Children in verse 30.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 30 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 31,
+      "text": "पत्न्यन्तरे पुत्रलाभं कलत्रत्रयभाग् भवेत् ।\nपञ्चमे पापसंयुक्ते जीवात् पञ्चमगे शनौ",
+      "english_meaning": "Further results regarding Progeny and Children in verse 31.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 31 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 32,
+      "text": "लग्नेशे धनभावस्थे सुतेशो भौमसंयुतः ।\nजातं जातं शिशुंहन्ति दीर्घायुश्च स्वयं भवेत्",
+      "english_meaning": "Further results regarding Progeny and Children in verse 32.",
+      "hindi_meaning": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 32 में और फल बताए गए हैं।"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source_file": "BPHS7180.md",
+  "source_chunk": "BPHS7180.json",
+  "chunk_index": 0,
+  "chapter": 71,
+  "variant": null,
+  "title": "अथाऽष्टवर्गायुर्दायाध्यायः",
+  "shloka_count": 4,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथात्रायुः प्रवक्ष्येऽहमष्टवर्गसमुद्भवम् ।\nदिनद्वयं विरेखायां रेखायां सार्धवासरम्",
+      "english_meaning": "Calculation of longevity from Ashtakavarga: No Bindus give 2 days of life; 1 Bindu gives 1.5 days.",
+      "hindi_meaning": "अष्टकवर्ग से आयु की गणना: शून्य बिन्दु 2 दिन की आयु देते हैं; 1 बिन्दु 1.5 दिन देता है।"
+    },
+    {
+      "number": 2,
+      "text": "दिनमेकं द्विरेखायां त्रिरखायां दिनार्धकम् ।\nवेदतुल्यासु रेखासु सार्धसप्तदिनं स्मृतम्",
+      "english_meaning": "2 Bindus give 1 day; 3 Bindus give 0.5 day; 4 Bindus give 7.5 days of life.",
+      "hindi_meaning": "2 बिन्दु 1 दिन देते हैं; 3 बिन्दु 0.5 दिन देते हैं; 4 बिन्दु 7.5 दिन की आयु देते हैं।"
+    },
+    {
+      "number": 3,
+      "text": "द्विवर्षं पञ्चरेखासु षड्रेखासु चतुःसमा ।\nषड्वर्षं सप्तरेखासु वसवोऽष्टासु वत्सराः",
+      "english_meaning": "5 Bindus give 2 years; 6 Bindus give 4 years; 7 Bindus give 6 years; 8 Bindus give 8 years.",
+      "hindi_meaning": "5 बिन्दु 2 वर्ष देते हैं; 6 बिन्दु 4 वर्ष देते हैं; 7 बिन्दु 6 वर्ष देते हैं; 8 बिन्दु 8 वर्ष देते हैं।"
+    },
+    {
+      "number": 4,
+      "text": "एवं यदागतायुः स्यात् सर्वखेटसमुद्भवम् ।\nतदर्धं स्फुटमायुः स्यादष्टवर्गभवं नृणाम्",
+      "english_meaning": "The total longevity calculated from all planets is halved to determine the actual lifespan of humans in the Ashtakavarga system.",
+      "hindi_meaning": "सभी ग्रहों से गणना की गई कुल आयु को अष्टकवर्ग पद्धति में मनुष्यों की वास्तविक जीवन अवधि निर्धारित करने के लिए आधा कर दिया जाता है।"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "number": 26,
+  "title": "गोचरफल",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "सर्वेषु लग्नेष्वपि सत्सु चन्द्र-\nलग्नं प्रधानं खलु गोचरेषु ।\nतस्मात्तदृक्षादपि वर्तमान्-\nग्रहेन्द्रचारैः कथयेत्फलानि",
+      "english_meaning": "Among all possible reference points (Lagnas), the Moon sign (Chandra Lagna) is considered paramount for analyzing planetary transits. Therefore, the effects of current planetary movements should be predicted relative to the sign occupied by the Moon at birth.",
+      "hindi_meaning": "गोचर के विश्लेषण के लिए सभी संभावित संदर्भ बिंदुओं (लग्नों) में चन्द्र लग्न (जन्म के समय चन्द्रमा जिस राशि में था) को सर्वोपरि माना गया है। अतः ग्रहों के वर्तमान भ्रमण के फलों की भविष्यवाणी जन्मकालीन चन्द्र राशि के सापेक्ष ही करनी चाहिए।"
+    },
+    {
+      "number": 2,
+      "text": "सूर्यः षट्त्रिदशस्थितस्त्रिदशषट्सप्ताद्यगश्चन्द्रमाः\nजीवस्त्वस्ततपोद्विपंचमगतो वक्रार्कजौ षट्त्रिगौ ।\nसौम्यः षट्स्वचतुर्दशाष्टमगतः सर्वेऽप्युपान्तस्थिताः\nशुक्रः खास्तरिपून्विहाय शुभदस्तिग्मांशुवद्भोगिनौ",
+      "english_meaning": "Planets give auspicious results in these houses from the Moon: Sun (3, 6, 10, 11), Moon (1, 3, 6, 7, 10, 11), Jupiter (2, 5, 7, 9, 11), Mars and Saturn (3, 6, 11), Mercury (2, 4, 6, 8, 10, 11). Venus is good everywhere except 6, 7, 10. Rahu and Ketu act like the Sun.",
+      "hindi_meaning": "चन्द्रमा से इन भावों में स्थित होने पर ग्रह शुभ फल देते हैं: सूर्य (३, ६, १०, ११), चन्द्रमा (१, ३, ६, ७, १०, ११), बृहस्पति (२, ५, ७, ९, ११), मंगल और शनि (३, ६, ११), बुध (२, ४, ६, ८, १०, ११)। शुक्र ६, ७, १० को छोड़कर सभी भावों में शुभ है। राहु और केतु सूर्य के समान फल देते हैं।"
+    },
+    {
+      "number": 3,
+      "text": "लाभविक्रमखशत्रषु स्थितः\nशोभनो निगदितो दिवाकरः ।\nखेचरैः सुततपोजलान्त्यगैः\nव्यार्किभिर्यदि न विद्ध्यते तदा",
+      "english_meaning": "The Sun gives auspicious results in the 11th, 3rd, 10th, and 6th houses from the Moon, provided it is not obstructed (Vedha) by any planet (except Saturn) occupying the 12th, 9th, 4th, and 5th houses respectively.",
+      "hindi_meaning": "सूर्य चन्द्रमा से ११, ३, १० और ६ भावों में शुभ फल देता है, बशर्ते कि वह क्रमशः १२, ९, ४ और ५ भावों में स्थित किसी भी ग्रह (शनि को छोड़कर) द्वारा बाधित (वेध) न हो।"
+    },
+    {
+      "number": 4,
+      "text": "द्यूनजन्मरिपुलाभखत्रिगः\nचन्द्रमाः शुभफलप्रदः सदा ।\nस्वात्मजान्त्यमृतिबन्धुधर्मगै\nविध्द्यते न विबुधैर्यदि ग्रहैह्",
+      "english_meaning": "The Moon is auspicious in the 7th, 1st, 6th, 11th, 10th, and 3rd houses from itself, if not obstructed (Vedha) by planets (except Mercury) in the 2nd, 5th, 12th, 8th, 4th, and 9th houses respectively.",
+      "hindi_meaning": "चन्द्रमा अपने से ७, १, ६, ११, १० और ३ भावों में शुभ होता है, यदि वह क्रमशः २, ५, १२, ८, ४ और ९ भावों में स्थित ग्रहों (बुध को छोड़कर) द्वारा बाधित (वेध) न हो।"
+    },
+    {
+      "number": 5,
+      "text": "विक्रमायरिपुगः कुजः शुभः\nस्यात्तदान्त्यसुतधर्मगैः खगैः ।\nचेन्न विद्ध इनसूनुरप्यसौ\nकिन्तु धर्मधृणना न विध्द्यते",
+      "english_meaning": "Mars and Saturn provide auspicious results in the 3rd, 11th, and 6th houses from the Moon, if not obstructed (Vedha) by planets in the 12th, 5th, and 9th houses. Note that the Sun and Saturn do not obstruct each other.",
+      "hindi_meaning": "मंगल और शनि चन्द्रमा से ३, ११ और ६ भावों में शुभ फल देते हैं, यदि वे १२, ५ और ९ भावों में स्थित ग्रहों द्वारा बाधित (वेध) न हों। ध्यान दें कि सूर्य और शनि एक-दूसरे को बाधित नहीं करते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "स्वाम्बुशत्रुमृतिखायगः शुभो\nज्ञस्तदा न खलु विध्द्यते सदा ।\nस्वाल्मजत्रितप आद्यनैधन\nप्राप्तिगैविबुधुभिर्यदि ग्रहैः",
+      "english_meaning": "Mercury is auspicious in the 2nd, 4th, 6th, 8th, 10th, and 11th houses from the Moon, provided it is not obstructed (Vedha) by planets in the 5th, 3rd, 9th, 1st, 8th, and 12th houses respectively.",
+      "hindi_meaning": "बुध चन्द्रमा से २, ४, ६, ८, १० और ११ भावों में शुभ फल देता है, बशर्ते कि वह क्रमशः ५, ३, ९, १, ८ और १२ भावों में स्थित ग्रहों द्वारा बाधित (वेध) न हो।"
+    },
+    {
+      "number": 7,
+      "text": "स्वायधर्मतनयास्तसंस्थितो नाकनायकपुरोहितः शुभः ।\nरिःफरन्ध्रखजलत्रिगैर्यदा विध्द्यते गगनचारिभिर्न हि",
+      "english_meaning": "Jupiter is beneficial in the 2nd, 11th, 9th, 5th, and 7th houses from the Moon, if not obstructed (Vedha) by planets in the 12th, 8th, 10th, 4th, and 3rd houses respectively.",
+      "hindi_meaning": "बृहस्पति चन्द्रमा से २, ११, ९, ५ और ७ भावों में शुभ फल देता है, यदि वह क्रमशः १२, ८, १०, ४ और ३ भावों में स्थित ग्रहों द्वारा बाधित (वेध) न हो।"
+    },
+    {
+      "number": 8,
+      "text": "आसुताष्टमतपोव्ययायगो विद्ध आस्फुजिदशोभनः स्मृतः ।\nनैधनास्ततनुकर्मधर्मधीलाभवरिसहजस्थखेचरैः",
+      "english_meaning": "Venus is favorable in the 1st, 2nd, 3rd, 4th, 5th, 8th, 9th, 11th, and 12th houses from the Moon, unless obstructed (Vedha) by planets in the 8th, 7th, 1st, 10th, 9th, 5th, 11th, and 6th houses respectively.",
+      "hindi_meaning": "शुक्र चन्द्रमा से १, २, ३, ४, ५, ८, ९, ११ और १२ भावों में शुभ फल देता है, जब तक कि वह क्रमशः ८, ७, १, १०, ९, ५, ११ और ६ भावों में स्थित ग्रहों द्वारा बाधित (वेध) न हो।"
+    },
+    {
+      "number": 9,
+      "text": "जन्मन्यायासदाता क्षपयति विभवान् क्रोधरोगाध्वदाता\nवित्तभ्रंशं द्वितीये दिशति न सुखदो पञ्चनामाग्रहं च ।\nस्थानप्राप्तिं तृतीये धननिचयमुदाकल्यकृच्चारिहन्ता\nरोगाण् दत्ते चतुर्थे जनयति च मुहुः स्रग्धराभोगविघ्नम्",
+      "english_meaning": "Sun in the 1st house from Moon causes fatigue, loss of wealth, and diseases. In the 2nd, it causes loss of wealth and unhappiness. In the 3rd, it brings position, wealth, and health. In the 4th, it causes diseases and obstructions to comfort.",
+      "hindi_meaning": "चन्द्रमा से प्रथम भाव में सूर्य थकान, धन की हानि और रोगों का कारण बनता है। द्वितीय में, यह धन की हानि और अप्रसन्नता देता है। तृतीय में, यह पद, धन और स्वास्थ्य लाता है। चतुर्थ में, यह रोगों और सुख-सुविधाओं में बाधा उत्पन्न करता है।"
+    },
+    {
+      "number": 10,
+      "text": "वित्तक्षोभं सुतस्थो वितरति बहुशो रोगमोहादिदाता\nषष्ठेऽर्को हन्ति रोगान् क्षपयति च रिपूञ्छोकमोहान्प्रमाष्टिम् ।\nआध्वानं सप्तमस्थो जठरगुदभयं दैन्यभावं च तस्मै\nरुक्त्रासावष्टमस्थः कलयति कलहं राजभीतिं च तापम्",
+      "english_meaning": "Sun in the 5th causes mental distress and many illnesses. In the 6th, it destroys diseases, enemies, and grief. In the 7th, it causes travel, stomach disorders, and poverty. In the 8th, it brings sickness, fear, and quarrels.",
+      "hindi_meaning": "पंचम भाव में सूर्य मानसिक क्लेश और अनेक बीमारियाँ देता है। छठे भाव में, यह रोगों, शत्रुओं और शोक का नाश करता है। सातवें में, यह यात्रा, पेट के विकार और निर्धनता का कारण बनता है। आठवें में, यह बीमारी, भय और कलह लाता है।"
+    },
+    {
+      "number": 11,
+      "text": "आपद्दैन्यं तपसि विरहं चित्तचेष्टानिरोधं\nप्राप्तोन्युग्रां दशमगृहगे कर्मसिद्धिं दिनेशे ।\nस्थानं मानं विभवमपि चैकादशे रोगनाशं\nक्लेशं वित्तक्षयमपि सुहृद्वैरमन्त्ये ज्वरं च",
+      "english_meaning": "Sun in the 9th house from Moon causes danger, poverty, separation, and mental distress. In the 10th, it brings success in one's undertakings. In the 11th, it bestows position, honor, wealth, and freedom from disease. In the 12th, it causes sorrow, loss of wealth, enmity with friends, and fever.",
+      "hindi_meaning": "चन्द्रमा से नवम भाव में सूर्य विपत्ति, दरिद्रता, विरह और मानसिक कष्ट का कारण बनता है। दसवें भाव में, यह कार्यों में सफलता लाता है। ग्यारहवें में, यह पद, मान, धन और रोगों से मुक्ति प्रदान करता है। बारहवें में, यह शोक, धन की हानि, मित्रों से वैर और ज्वर का कारण बनता है।"
+    },
+    {
+      "number": 12,
+      "text": "क्रमेण भाग्योदयमर्थहातिं जयं श्लोकमरोगतां च ।\nसुखान्यनिष्टं गदमिष्टसिद्धिं मोदं व्ययं च प्रददाति चन्द्रः",
+      "english_meaning": "The Moon's transits through the 1st to 12th houses from itself respectively bring: rise of fortune, loss of wealth, victory, fame, health, happiness, undesirable results, disease, fulfillment of desires, joy, and expenditure.",
+      "hindi_meaning": "चन्द्रमा का अपने से १ से १२ भावों में गोचर क्रमशः ये फल देता है: भाग्य का उदय, धन की हानि, विजय, यश, आरोग्य, सुख, अनिष्ट फल, रोग, मनोकामनाओं की पूर्ति, हर्ष और व्यय।"
+    },
+    {
+      "number": 13,
+      "text": "अन्तः शोकं स्वजनविरहं रक्तपित्तोष्णरोगं\nलग्ने वित्ते भयमपि गिरां दोषमर्थक्षयं च ।\nधैरे भौमो जनयति जयं स्वर्णभूषंप्रमोदं\nस्थानभ्रंशं रुजमुदरजां बन्धुदुःखं चतुर्थे",
+      "english_meaning": "Mars in the 1st house from Moon causes mental grief, separation from kinsmen, and bile-related disorders. In the 2nd, it brings fear, harsh speech, and loss of wealth. In the 3rd, it gives courage, victory, and ornaments. In the 4th, it causes loss of position, stomach diseases, and grief through relatives.",
+      "hindi_meaning": "चन्द्रमा से प्रथम भाव में मंगल मानसिक शोक, स्वजनों से वियोग और पित्त विकार का कारण बनता है। द्वितीय में, यह भय, वाणी दोष और धन की हानि लाता है। तृतीय में, यह साहस, विजय और आभूषण देता है। चतुर्थ में, यह स्थान की हानि, उदर रोग और सम्बन्धियों के कारण दुख का कारण बनता है।"
+    },
+    {
+      "number": 14,
+      "text": "ज्वरमनुचितचिन्तां पुत्रहेतुव्यथां वा\nकलयति कलहंस्वैः पञ्चमे भूमिपुत्रः ।\nरिपुकलहनिवृत्तिं रोगशान्तिं च षष्ठे\nविजयमथ धनाप्तिं सर्वकार्यानुकूल्यम्",
+      "english_meaning": "Mars in the 5th house causes fever, improper thoughts, or grief concerning children. In the 6th house, it brings cessation of enmity, relief from diseases, victory, wealth, and success in all undertakings.",
+      "hindi_meaning": "मंगल पंचम भाव में ज्वर, अनुचित विचार या संतान के संबंध में शोक उत्पन्न करता है। छठे भाव में, यह शत्रुता की समाप्ति, रोगों से मुक्ति, विजय, धन और सभी कार्यों में सफलता लाता है।"
+    },
+    {
+      "number": 15,
+      "text": "कलत्रकलहाक्षिरुग्जठररोगकृत्सप्तमे\nज्वरक्षतजरूक्षितो विगतवित्तमानोऽष्टमे ।\nकुजे नवमसंस्थिते परिभवोऽर्थनाशादिभि-\nविलम्बितगतिर्भवत्यबलदेहधातुक्षयैः",
+      "english_meaning": "Mars in the 7th house causes quarrels with the spouse, eye diseases, and stomach disorders. In the 8th, it brings fever, blood disorders, and loss of wealth and honor. In the 9th, it causes humiliation, loss of wealth, and physical weakness.",
+      "hindi_meaning": "मंगल सातवें भाव में जीवनसाथी से कलह, नेत्र रोग और उदर विकार का कारण बनता है। आठवें में, यह ज्वर, रक्त विकार और धन-मान की हानि लाता है। नौवें में, यह अपमान, धन की हानि और शारीरिक कमजोरी का कारण बनता है।"
+    },
+    {
+      "number": 16,
+      "text": "दुश्चेष्टा वा कर्मविघ्नः श्रमः खे\nद्रव्यारोग्यक्षेत्रवृद्धिश्च लाभे ।\nभौमः खेटो गोचरे द्वादशस्थो\nद्रव्यच्छेदस्ताप उष्णामयाद्यैः",
+      "english_meaning": "Mars in the 10th house causes improper conduct, obstructions to work, and exhaustion. In the 11th, it brings increase in wealth, health, and property. In the 12th, it causes loss of money and distress from heat-related illnesses.",
+      "hindi_meaning": "दसवें भाव में मंगल अनुचित आचरण, कार्यों में बाधा और थकान का कारण बनता है। ग्यारहवें में, यह धन, स्वास्थ्य और संपत्ति में वृद्धि लाता है। बारहवें में, यह धन की हानि और उष्णता जनित रोगों से कष्ट का कारण बनता है।"
+    },
+    {
+      "number": 17,
+      "text": "वित्तक्षयं श्रियमरातिभयं धनाप्तिं\nभार्याप्तनूजकलहं यिजयं विरोधम् ।\nपुत्रार्थलाभमथ विघ्नमशेषसौख्यं\nपुष्टिं पराभवभयं प्रकरोति चान्द्रिः",
+      "english_meaning": "Mercury's transits from the 1st to 12th house bring: loss of wealth, prosperity, fear of enemies, gain of wealth, quarrels with wife and children, victory, opposition, gain of children and wealth, obstructions, all kinds of happiness, nourishment, and fear of defeat respectively.",
+      "hindi_meaning": "बुध का १ से १२ भावों में गोचर क्रमशः ये फल देता है: धन की हानि, लक्ष्मी की प्राप्ति, शत्रुओं से भय, धन लाभ, स्त्री-पुत्र से कलह, विजय, विरोध, पुत्र और धन का लाभ, बाधा, सर्वसुख, पुष्टि और पराजय का भय।"
+    },
+    {
+      "number": 18,
+      "text": "जीवे जन्मनि देशनिर्गमनमप्यर्थच्युतिं शत्रुतां\nप्राप्नोति द्रविणं कुटुम्बसुखमप्यर्थे स्ववाचां फलम् ।\nदुश्चिक्ये स्थितिनाशमिष्टवियुतिं कार्यान्तरायं रुजं\nदुःखैर्बन्धुजनोद्भवैश्च हिबुके दैन्यं चतुष्पाद्भयम्",
+      "english_meaning": "Jupiter in the 1st house causes leaving one's country, loss of wealth, and enmity. In the 2nd, it brings money, family happiness, and success in speech. In the 3rd, it causes loss of position, separation from loved ones, and disease. In the 4th, it causes grief through relatives and fear from animals.",
+      "hindi_meaning": "बृहस्पति प्रथम भाव में देश त्याग, धन की हानि और शत्रुता का कारण बनता है। द्वितीय में, यह धन, पारिवारिक सुख और वाणी की सफलता लाता है। तृतीय में, यह स्थान की हानि, प्रियजनों से वियोग और रोग का कारण बनता है। चतुर्थ में, यह सम्बन्धियों के कारण दुख और पशुओं से भय लाता है।"
+    },
+    {
+      "number": 19,
+      "text": "पुत्रोत्पत्तिमुपैति सज्जनयुतिं राजामुकूल्यं सुते\nषष्ठे मन्त्रिणि पीडयन्ति रिपवः स्वज्ञातयो व्याधयः ।\nयात्रां शोभनहेतवे वनितया सौख्यं सुताप्तिं स्मरे\nमार्गक्लेशमरिष्टमष्टमगते नष्टं धनैः कष्टताम्",
+      "english_meaning": "Jupiter in the 5th house brings the birth of a son, association with the virtuous, and royal favor. In the 6th, it brings trouble from enemies, relatives, and diseases. In the 7th, it brings auspicious travels, happiness from wife, and birth of a son. In the 8th, it causes fatigue from travel, misfortune, and loss of wealth.",
+      "hindi_meaning": "बृहस्पति पंचम भाव में पुत्र जन्म, सज्जनों का संग और राजकृपा लाता है। छठे में, यह शत्रुओं, सम्बन्धियों से कष्ट और रोग लाता है। सातवें में, यह शुभ यात्राएँ, पत्नी से सुख और पुत्र प्राप्ति लाता है। आठवें में, यह यात्रा की थकान, अनिष्ट और धन की हानि का कारण बनता है।"
+    },
+    {
+      "number": 20,
+      "text": "भाग्ये जीवे सर्वसौभाग्यसिद्धिः\nकर्मण्यर्थास्थनपुत्रादिपिडा\nलाभे पुत्रस्थानमानदिलाभो\nरिःफे दुःखं साध्वसं द्रव्यहेतोः",
+      "english_meaning": "Jupiter in the 9th house brings all kinds of prosperity and fortune. In the 10th, it causes trouble regarding wealth, position, and children. In the 11th, it brings gain of children, position, and honor. In the 12th, it causes grief, fear, and trouble regarding money.",
+      "hindi_meaning": "बृहस्पति नवम भाव में सभी प्रकार के सौभाग्य की प्राप्ति कराता है। दसवें में, यह धन, पद और संतान के संबंध में कष्ट देता है। ग्यारहवें में, यह संतान, पद और मान का लाभ कराता है। बारहवें में, यह शोक, भय और धन संबंधी परेशानी का कारण बनता है।"
+    },
+    {
+      "number": 21,
+      "text": "अखिलविषयभोगं वित्तसिद्धिं विभूतिं\nसुखसुहृदभिवृद्धिं पुत्रलब्धिं विपत्तिम् ।\nदिशति युवतिपीडां सम्पदं वा सुखाप्तिं\nकलहमभयमर्थप्राप्तिमिन्द्रारिमन्त्री",
+      "english_meaning": "Venus (the Minister of Indra's enemies) in the 1st to 12th house from Moon respectively gives: all kinds of sensual enjoyments, gain of wealth, prosperity, increase of happiness and friends, birth of a son, calamities, trouble from women, wealth or gain of comfort, quarrels, fearlessness, and gain of money.",
+      "hindi_meaning": "शुक्र चन्द्रमा से १ से १२ भावों में गोचर करते हुए क्रमशः ये फल देता है: सभी प्रकार के विषय-भोग, धन की सिद्धि, वैभव, सुख और मित्रों की वृद्धि, पुत्र लाभ, विपत्ति, स्त्रियों से कष्ट, संपत्ति या सुख की प्राप्ति, कलह, निर्भयता और धन का लाभ।"
+    },
+    {
+      "number": 22,
+      "text": "रोगाशौचक्रियाप्तिं धनसुतविहतिं स्थानभृत्यार्थलाभं\nस्त्रीबन्ध्वर्थप्रणाशं द्रविणसुतमतिप्रच्युतिं सर्वसौख्यम् ।\nस्त्रीरोगाध्वावभीतिं स्वसुतपशुसुहृद्बित्तनाशामयातिं\nजन्मादेरष्टमान्तं दिशति पदवशेनार्कसूनुः क्रमेण",
+      "english_meaning": "Saturn's transits from the 1st to 8th house bring: disease and lack of purity, loss of wealth and children, gain of position/servants/wealth, loss of wife/relatives/wealth, loss of children and intellect, all kinds of happiness, disease of wife and fear of travel, and loss of children/cattle/friends/wealth respectively.",
+      "hindi_meaning": "शनि का चन्द्रमा से १ से ८ भावों में गोचर क्रमशः ये फल देता है: रोग और अशुद्धि, धन और पुत्र की हानि, पद-नौकर-धन का लाभ, स्त्री-सम्बन्धी-धन का नाश, पुत्र और बुद्धि की हानि, सर्वसुख, स्त्री को रोग और यात्रा का भय, तथा पुत्र-पशु-मित्र और धन का नाश।"
+    },
+    {
+      "number": 23,
+      "text": "दारिध्रं धर्मविघ्नं पितृसमविलयं नित्यदुःखं शुभस्थे\nदुर्व्यापारप्रवृत्तिं कलयति दशमे मानभङ्गं रुजं वा ।\nसौख्यान्येकादशस्थो बहुविधविभवप्राप्तिमुत्कृष्टकीर्तिं\nविश्रान्ति व्यर्थकार्याद्विसुहृतिमरिभिः स्त्रीसुतव्याधिमन्त्ये",
+      "english_meaning": "Saturn in the 9th house causes poverty, obstructions to religious deeds, and constant grief. In the 10th, it leads to engagement in sinful acts, loss of honor, or disease. In the 11th, it brings various joys, immense wealth, and great fame. In the 12th, it causes exhaustion from futile efforts, lack of friends, and diseases to family.",
+      "hindi_meaning": "नवम भाव में शनि दरिद्रता, धर्म में बाधा और निरंतर शोक का कारण बनता है। दसवें में, यह पाप कर्मों में प्रवृत्ति, मान-हानि या रोग लाता है। ग्यारहवें में, यह अनेक प्रकार के सुख, अपार वैभव और उत्तम कीर्ति प्रदान करता है। बारहवें में, यह व्यर्थ के प्रयासों से थकान, मित्रों का अभाव और परिवार को रोगों का कारण बनता है।"
+    },
+    {
+      "number": 24,
+      "text": "देहक्षयं वित्तविनाशसौख्ये\nदुःखार्थनाशौ सुखनाशमृत्यून् ।\nहानिं च लाभं सुभगं व्ययं च\nकुर्यत्तमो जन्मगृहात्क्रमेण",
+      "english_meaning": "Rahu's transits from the 1st to 12th house (summarized) result in: physical decay, loss of wealth, happiness, grief, loss of money, happiness, loss, death, loss, gain, auspiciousness, and expenditure respectively.",
+      "hindi_meaning": "राहु का १ से १२ भावों में गोचर क्रमशः ये फल देता है: शरीर का क्षय, धन का नाश, सुख, दुख, धन की हानि, सुख, हानि, मृत्यु, हानि, लाभ, शुभ फल और व्यय।"
+    },
+    {
+      "number": 25,
+      "text": "क्षितितनयपतङ्गौ राशिपूर्वत्रिभागे\nसुरपतिगुरुशुक्रौ राशिमध्यत्रिभागे।\nतुहिनकिरणमन्दौ राशिपाश्चात्यभागे\nशशितनयभुजङ्गौ पाकदौ सार्वकालम्",
+      "english_meaning": "Mars and the Sun give results in the first 10 degrees (first 1/3rd) of a sign. Jupiter and Venus give results in the middle 10 degrees. The Moon and Saturn give results in the last 10 degrees. Mercury and Rahu/Ketu manifest their results throughout their entire stay in a sign.",
+      "hindi_meaning": "मंगल और सूर्य राशि के प्रथम १० अंशों (प्रथम १/३ भाग) में अपना फल देते हैं। बृहस्पति और शुक्र मध्य के १० अंशों में फल देते हैं। चन्द्रमा और शनि अंतिम १० अंशों में फल देते हैं। बुध और राहु/केतु राशि में अपने पूरे प्रवास के दौरान अपना फल प्रकट करते हैं।"
+    },
+    {
+      "number": 26,
+      "text": "नक्षत्रगोचरम्\nरेखाह् सप्तसमालिखेदुपरिगास्तिर्यक्तथैव क्रमा-\nदीशादग्निभमादितोऽपि गणयेदादित्यभस्यावधि ।\nवेधा जन्मादिने मृतिर्भयमथाधानाख्यनक्षत्रके\nकर्मण्यर्थविनाशं खलु रविर्दद्यात्सपापो मृतिम्",
+      "english_meaning": "Nakshatra Transit: Draw 7 lines horizontally and 7 vertically to map the 28 Nakshatras. If a planet transits Janma, Adhana, or Karma Nakshatra, it causes death, fear, and loss of wealth. The Sun in these with a malefic causes death.",
+      "hindi_meaning": "नक्षत्र गोचर: २८ नक्षत्रों को मानचित्रित करने के लिए ७ क्षैतिज और ७ लंबवत रेखाएँ खींचें। यदि कोई ग्रह जन्म, आधान या कर्म नक्षत्र में गोचर करता है, तो यह मृत्यु, भय और धन की हानि का कारण बनता है। पाप ग्रह के साथ सूर्य इनमें होने पर मृत्यु का कारण बनता है।"
+    },
+    {
+      "number": 27,
+      "text": "एवं विद्धे खचरैः क्रररन्यैर्मरणम् ।\nसौम्यैर्विद्धे न मृतिविद्यादेवं सकलम्",
+      "english_meaning": "If these sensitive Nakshatras are 'pierced' (Viddha) by malefic planets, death is predicted. If the obstruction is caused by benefic planets, death should not be feared. All such transit effects should be judged similarly.",
+      "hindi_meaning": "यदि इन संवेदनशील नक्षत्रों में पाप ग्रहों का 'वेध' हो, तो मृत्यु की भविष्यवाणी की जाती है। यदि बाधा शुभ ग्रहों के कारण हो, तो मृत्यु का भय नहीं होना चाहिए। सभी गोचर प्रभावों का इसी प्रकार विचार किया जाना चाहिए।"
+    },
+    {
+      "number": 28,
+      "text": "आधनकर्मर्क्षविपन्निजर्क्षे\nवैनाशिके प्रत्यरभे वधाख्ये\nपापग्रहो मृत्युभयं विदध्या\nद्वेधेतथा कार्यहरः शुभाख्ये",
+      "english_meaning": "A malefic planet transiting through Adhana, Karma, Vipat, Janma, Vainashika, Pratyari, or Vadha Nakshatras causes fear of death. If a benefic planet transits, it counteracts the ill effects and protects the native's undertakings.",
+      "hindi_meaning": "आधान, कर्म, विपत्, जन्म, वैनाशिक, प्रत्यरि या वध नक्षत्रों से गोचर करने वाला पाप ग्रह मृत्यु का भय पैदा करता है। यदि शुभ ग्रह गोचर करता है, तो वह दुष्प्रभावों का प्रतिकार करता है और जातक के कार्यों की रक्षा करता है।"
+    },
+    {
+      "number": 29,
+      "text": "आदित्यसङ्क्रान्तिदिने ग्रहाणं\nप्रवेशने वा ग्रहणे च युद्धे ।\nउल्कानिपाते च तथाद्भुते च\nजन्मत्रयं स्यान्मरणादिदुःखम्",
+      "english_meaning": "On the day of Sun's Sankranti, or during eclipses, planetary wars, fall of meteors, or supernatural phenomena, if the transit occurs in any of the three Janma Nakshatras (Janma, Anujanma, Trijanma), it causes death and severe grief.",
+      "hindi_meaning": "सूर्य संक्रांति के दिन, या ग्रहण, ग्रह युद्ध, उल्कापात या अलौकिक घटनाओं के समय, यदि गोचर तीनों जन्म नक्षत्रों (जन्म, अनुजन्म, त्रिजन्म) में से किसी में हो, तो यह मृत्यु और गंभीर शोक का कारण बनता है।"
+    },
+    {
+      "number": 30,
+      "text": "असत्फलः सौम्यनिरीक्षितो यः\nशुभप्रदश्चाप्यशुभेक्षितश्च ।\nद्वौ निष्फलौ द्वावपि खेचरेन्द्रौ\nयः शत्रुणा स्वेन विलोकितश्च",
+      "english_meaning": "A planet giving bad results becomes auspicious if aspected by a benefic. Conversely, an auspicious planet gives bad results if aspected by a malefic. If aspected by their own enemies, planets become incapable of giving results.",
+      "hindi_meaning": "अशुभ फल देने वाला ग्रह यदि शुभ ग्रह से दृष्ट हो तो वह शुभ हो जाता है। इसके विपरीत, शुभ फल देने वाला ग्रह यदि पाप ग्रह से दृष्ट हो तो वह अशुभ फल देता है। यदि ग्रह अपने शत्रुओं द्वारा दृष्ट हों, तो वे फल देने में अक्षम हो जाते हैं।"
+    },
+    {
+      "number": 31,
+      "text": "अनिष्टभावस्थितखेचरेन्द्रः\nस्वोच्चस्वगेहोपगतो यदि स्यात् ।\nन दोषकृच्चोत्तमभावगश्चेत्\nपूर्णं फलं यच्छति गोचरेषु",
+      "english_meaning": "If a planet that should normally give inauspicious results is in its exaltation or own sign during transit, it does not cause any harm. Conversely, if a planet is in an auspicious house during transit, it bestows its full beneficial results.",
+      "hindi_meaning": "यदि कोई ग्रह जिसे सामान्यतः अशुभ फल देना चाहिए, गोचर के दौरान अपनी उच्च राशि या स्वराशि में हो, तो वह कोई हानि नहीं करता। इसके विपरीत, यदि कोई ग्रह गोचर में शुभ भाव में हो, तो वह अपना पूर्ण शुभ फल प्रदान करता है।"
+    },
+    {
+      "number": 32,
+      "text": "ग्रहेश्वरारुते शुभगोचरस्था\nनीचारिमौढ्यं समुपाश्रिताश्रेत् ।\nते निष्फलाः किन्त्वशुभाङ्कसंस्थाः\nकष्टं फलं संविदधत्यनल्पम्",
+      "english_meaning": "Planets in auspicious transit houses yield no benefits if they are debilitated, in an enemy's sign, or combust. However, if they are in inauspicious houses under these same conditions, they produce intense suffering and misery.",
+      "hindi_meaning": "शुभ गोचर भावों में स्थित ग्रह यदि नीच राशि, शत्रु राशि में हों या अस्त हों, तो वे कोई लाभ नहीं देते। किन्तु, यदि वे इन्हीं स्थितियों में अशुभ भावों में हों, तो वे अत्यंत तीव्र कष्ट और दुख उत्पन्न करते हैं।"
+    },
+    {
+      "number": 33,
+      "text": "द्वादशाष्टमजन्मस्थाः शन्यर्काङ्गारका गुरुः ।\nकुर्वन्ति प्राणसन्देहं स्थानभ्रंशं धनक्षयम्",
+      "english_meaning": "When Saturn, Sun, Mars, or Jupiter transit through the 12th, 8th, or 1st house from the Moon sign, they create danger to life, displacement from one's position, and severe financial loss.",
+      "hindi_meaning": "जब शनि, सूर्य, मंगल या बृहस्पति चन्द्र राशि से १२, ८ या १ भाव में गोचर करते हैं, तो वे जीवन के लिए संकट, स्थान से विस्थापन और भारी धन हानि का कारण बनते हैं।"
+    },
+    {
+      "number": 34,
+      "text": "चद्राष्टमे च धरणीतनयः कलत्रे\nराहुः शुभे कविररौ च गुरुस्तृतीये ।\nअर्कः सुतेऽर्किरुदये च बुधश्चतुर्थे\nमानार्थहानिमरणानि वदेद्विशेषात्",
+      "english_meaning": "Specifically, predict loss of honor and wealth, or even death when: Moon is in the 8th, Mars in the 7th, Rahu in the 9th, Venus in the 6th, Jupiter in the 3rd, Sun in the 5th, Saturn in the 1st, and Mercury in the 4th house from the Moon sign.",
+      "hindi_meaning": "विशेष रूप से मान और धन की हानि, या मृत्यु की भविष्यवाणी तब करें जब: चन्द्रमा ८वें, मंगल ७वें, राहु ९वें, शुक्र ६ठे, बृहस्पति ३रे, सूर्य ५वें, शनि १ले और बुध ४थे भाव में (चन्द्र राशि से) हो।"
+    },
+    {
+      "number": 35,
+      "text": "अङ्गग्रहाः\nवक्त्रे क्ष्मा मूर्घ्नि चत्वार्युरसि च चतुरः सव्यहस्ते चतुष्कं\nपादे षड्वामहस्ते चतुरथ नयने द्वौ च गुह्ये द्वयं च ।\nभानुर्नाशं विभुतिं विजयमथ धनं निर्धनं देहपीडां\nलाभं मृत्युं च चक्रे जनयति विविधान् जन्मभाद्देहसंस्थः",
+      "english_meaning": "Anga Graha (Sun): Mapping 28 Nakshatras from Janma Nakshatra to the Sun's position—Face (1), Head (2-5), Chest (6-9), Right Hand (10-13), Feet (14-19), Left Hand (20-23), Eyes (24-25), Genitals (26-28). Results: Destruction, prosperity, victory, wealth, poverty, physical pain, gain, and death respectively.",
+      "hindi_meaning": "अंग ग्रह (सूर्य): जन्म नक्षत्र से सूर्य के नक्षत्र तक २८ नक्षत्रों का शरीर पर न्यास—मुख (१), सिर (२-५), हृदय (६-९), दायां हाथ (१०-१३), पैर (१४-१९), बायां हाथ (२०-२३), नेत्र (२४-२५), गुदा (२६-२८)। फल क्रमशः: विनाश, वैभव, विजय, धन, निर्धनता, शारीरिक कष्ट, लाभ और मृत्यु।"
+    },
+    {
+      "number": 36,
+      "text": "शीतांशोर्वदने द्वयोरतिभयं क्षेमंशिरस्यम्बुधौ\nपृष्ठे शत्रुजयं द्वयोर्नयनयोर्नेत्रे धनं जन्मभात् ।\nपञ्चस्वात्मसुखं हृदि त्रिषु करे वामे विरोधं क्रमात्\nपादौ षट्सु विदेशतां जनयति त्रिष्वर्थलाभं करे",
+      "english_meaning": "Moon's Anga Graha: Face (1-2), Head (3-6), Back (7-8), Eyes (9-10), Mouth (11-15), Heart (16-18), Left Hand (19-21), Feet (22-27), Right Hand (28). Results: Extreme fear, well-being, victory over enemies, wealth, happiness, joy, opposition, foreign stay, and financial gain.",
+      "hindi_meaning": "चन्द्रमा के अंग ग्रह: मुख (१-२), सिर (३-६), पीठ (७-८), नेत्र (९-१०), मुख/आस्य (११-१५), हृदय (१६-१८), बायां हाथ (१९-२१), पैर (२२-२७), दायां हाथ (२८)। फल: अत्यंत भय, कल्याण, शत्रुओं पर विजय, धन, आत्मसुख, हृदय का हर्ष, विरोध, विदेश प्रवास और धन लाभ।"
+    },
+    {
+      "number": 37,
+      "text": "वक्त्रे द्वे मरणं करोत्यवनिजः षट् पादयोविग्रहं\nक्रोडे त्रीणि जयं चतुर्विधनतां वामे करे मस्तके ।\nद्वे लाभं चतुराननेऽधिकभयं क्षेमंकरे दक्षिणे\nवार्द्धिर्द्वे नयने विदेशगमनं चक्रे स्वजन्मर्क्षतः",
+      "english_meaning": "Mars' Anga Graha: Face (1-2), Feet (3-8), Chest (9-11), Left Hand (12-15), Head (16-17), Face/Mouth (18-19), Right Hand (20-23), Eyes (24-27). Results: Death, quarrels, victory, poverty, gain, great fear, prosperity, and travel to foreign lands respectively.",
+      "hindi_meaning": "मंगल के अंग ग्रह: मुख (१-२), पैर (३-८), हृदय (९-११), बायां हाथ (१२-१५), सिर (१६-१७), मुख (१८-१९), दायां हाथ (२०-२३), नेत्र (२४-२७)। फल क्रमशः: मृत्यु, कलह, विजय, निर्धनता, लाभ, बहुत भय, कल्याण और विदेश गमन।"
+    },
+    {
+      "number": 38,
+      "text": "मूघ्निं त्रीणि मुखे त्रयं च करयोः षट् पञ्च कुक्षौ तथा\nलिङ्गे द्वे द्विचतुष्टयं चरणयोः प्राप्तेऽमरेन्द्राचिंतः ।\nशोकं लाभमनर्थमर्थनिचयं नाशं प्रतिष्ठां तथा\nदद्यादात्मदिनात्तथैव भृगुजस्तद्वद्बुधोऽपि क्रमात्",
+      "english_meaning": "Jupiter, Venus, and Mercury's Anga Graha: Head (1-3), Face (4-6), Hands (7-12), Stomach (13-17), Genitals (18-19), Feet (20-27). Their results are: grief, gain, disaster, wealth accumulation, destruction, and fame respectively.",
+      "hindi_meaning": "बृहस्पति, शुक्र और बुध के अंग ग्रह: सिर (१-३), मुख (४-६), दोनों हाथ (७-१२), कुक्षि/पेट (१३-१७), लिंग (१८-१९), पैर (२०-२७)। इनके फल क्रमशः हैं: शोक, लाभ, अनर्थ, धन का संचय, नाश और प्रतिष्ठा।"
+    },
+    {
+      "number": 39,
+      "text": "भूवेदवह्निगुणवेदशराग्नेत्र-\nदस्त्रं च वक्त्रकरपादपदेषु हस्ते ।\nकुक्षौ च मूर्घ्नि नयनद्वयपृष्ठोभागे\nन्यस्य क्रमेण शनिसंयुतभान्निजर्क्षात्",
+      "english_meaning": "Saturn, Rahu, and Ketu's Anga Graha mapping from Janma Nakshatra: Face (1), Hands (2-5), Feet (6-8), Hands again (9-11), Stomach (12-15), Head (16-20), Eyes (21-23), Back (24-25).",
+      "hindi_meaning": "जन्म नक्षत्र से शनि, राहु और केतु के अंग ग्रहों का न्यास: मुख (१), दोनों हाथ (२-५), दोनों पैर (६-८), पुनः दोनों हाथ (९-११), कुक्षि/पेट (१२-१५), सिर (१६-२०), दोनों नेत्र (२१-२३), पीठ (२४-२५)।"
+    },
+    {
+      "number": 40,
+      "text": "दुःखं च सौख्यं गमनं च नाशं\nलाभं स्वभोगं सुखसौख्यमृत्यून् ।\nवक्त्रक्रमादाह फलानि मन्द-\nस्यैवं तमःखेचरयोर्वदन्तु",
+      "english_meaning": "The results for Saturn, Rahu, and Ketu in these parts (Face to Back) are: sorrow, happiness, travel, destruction, gain, enjoyment, prosperity, and death respectively.",
+      "hindi_meaning": "शनि, राहु और केतु के इन अंगों (मुख से पीठ तक) में फल क्रमशः हैं: दुख, सुख, यात्रा, नाश, लाभ, उपभोग, सुख और मृत्यु।"
+    },
+    {
+      "number": 41,
+      "text": "यत्राष्टवर्गेऽधिकबिन्दवः स्यु-\nस्तत्र स्थितो गोचरतो ग्रहेन्द्रः ।\nतद्वत्फलं प्राह शुभं व्ययारि-\nरन्ध्रस्थितो वाऽपि शुभं विद्धत्ते",
+      "english_meaning": "If a planet transits through a sign where it has many bindus in its own Ashtakavarga, it produces auspicious results. This rule holds true even if the planet is transiting through houses usually considered unfavorable, such as the 12th, 6th, or 8th from the Moon.",
+      "hindi_meaning": "यदि कोई ग्रह उस राशि से गोचर करता है जिसमें उसके अष्टकवर्ग में अधिक बिंदु हों, तो वह शुभ फल देता है। यह नियम तब भी लागू होता है जब ग्रह उन भावों (जैसे १२, ६, या ८) से गोचर कर रहा हो जिन्हें सामान्यतः चन्द्रमा से अशुभ माना जाता है।"
+    },
+    {
+      "number": 42,
+      "text": "रवेद्वदिशनक्षत्रं भूसुतस्य तृतीयकम् ।\nगुरोः षट्तारकं चैव शनेरष्टमतारकम्",
+      "english_meaning": "The 'Latta' (kick) of planets is as follows: The Sun kicks the 12th star from its position, Mars kicks the 3rd, Jupiter kicks the 6th, and Saturn kicks the 8th star. These are known as Puro-Latta (forward kicks).",
+      "hindi_meaning": "ग्रहों की 'लात' (लत्ता) इस प्रकार है: सूर्य अपने स्थान से १२वें नक्षत्र पर लात मारता है, मंगल तीसरे पर, बृहस्पति छठे पर, और शनि आठवें नक्षत्र पर। इन्हें पुरो-लत्ता (आगे की ओर लात) कहा जाता है।"
+    },
+    {
+      "number": 43,
+      "text": "एतेषां च पुरोलत्ता पृष्ठोलत्तः प्रकीर्त्तिताः ।\nशुक्रस्य पञ्चमं तारं चन्द्रजस्य तु सप्तमम्",
+      "english_meaning": "The previous shloka mentioned forward kicks; now back-kicks (Prishtha-Latta) are defined: Venus kicks the 5th star and Mercury kicks the 7th star from their respective positions.",
+      "hindi_meaning": "पिछले श्लोक में आगे की ओर लात का उल्लेख था; अब पीछे की ओर की लात (पृष्ठ-लत्ता) परिभाषित है: शुक्र अपने स्थान से ५वें नक्षत्र पर और बुध ७वें नक्षत्र पर लात मारता है।"
+    },
+    {
+      "number": 44,
+      "text": "राहोस्तु नवम चैव द्वाविंशं भं हिमद्युतेः ।\nग्रहस्थितर्क्षाद्गणयेल्लत्तायां जन्मभे व्यथा",
+      "english_meaning": "Rahu kicks the 9th star and the Moon kicks the 22nd star from their positions. If any planet's Latta falls on the Janma Nakshatra (birth star), it causes intense mental and physical distress.",
+      "hindi_meaning": "राहु ९वें नक्षत्र पर और चन्द्रमा अपने स्थान से २२वें नक्षत्र पर लात मारता है। यदि किसी ग्रह की लत्ता जन्म नक्षत्र पर पड़े, तो यह तीव्र मानसिक और शारीरिक कष्ट का कारण बनती है।"
+    },
+    {
+      "number": 45,
+      "text": "रवेः सर्वार्थहानिः स्यात्तमसोर्दुःखमुच्यते ।\nमरणं जीवलत्तायां बन्धुनाशो भयावहः",
+      "english_meaning": "The Sun's Latta results in the failure of all efforts. Rahu/Ketu's Latta causes grief. Jupiter's Latta causes death, and Mars' Latta results in the loss of relatives and creates great fear.",
+      "hindi_meaning": "सूर्य की लत्ता के फलस्वरूप सभी प्रयासों में विफलता मिलती है। राहु/केतु की लत्ता दुख का कारण बनती है। बृहस्पति की लत्ता मृत्यु का कारण बनती है, और मंगल की लत्ता सम्बन्धियों की हानि और भारी भय पैदा करती है।"
+    },
+    {
+      "number": 46,
+      "text": "शुक्रस्य कलहो भ्रंश अनर्थः शशिजस्य तु ।\nचन्द्रस्य तु महाहानिर्लत्तामात्रफलं भवेत्",
+      "english_meaning": "Venus' Latta causes quarrels and downfall. Mercury's results in disasters. The Moon's Latta causes significant loss. These are the specific consequences of various planetary Lattas.",
+      "hindi_meaning": "शुक्र की लत्ता कलह और पतन का कारण बनती है। बुध की लत्ता अनर्थ लाती है। चन्द्रमा की लत्ता महत्वपूर्ण हानि का कारण बनती है। ये विभिन्न ग्रहों की लत्ता के विशिष्ट परिणाम हैं।"
+    },
+    {
+      "number": 47,
+      "text": "सर्वत्र लत्तासाङ्कर्ये द्विगुणत्रिगुणादिकम् ।\nवदेद्दोषफलं नॄणां ग्रहाल्लत्ताधिकक्रमात्",
+      "english_meaning": "When multiple planetary Lattas coincide on the same Nakshatra, the evil results are multiplied—doubled, tripled, and so on—depending on the number of planets involved.",
+      "hindi_meaning": "जब एक ही नक्षत्र पर कई ग्रहों की लत्ताएँ एक साथ पड़ती हैं, तो अशुभ फल शामिल ग्रहों की संख्या के आधार पर दोगुने, तिगुने आदि हो जाते हैं।"
+    },
+    {
+      "number": 48,
+      "text": "सर्वतो भद्र चक्रोक्त शुभवेधाः शुभावहाः ।\nपापवेधा दुःखतरा गोचरेताश्च चित्तयेत्",
+      "english_meaning": "One should also consider the Vedhas (obstructions/piercings) mentioned in the Sarvatobhadra Chakra. Benefic Vedhas bring happiness, while malefic Vedhas cause intense grief during planetary transits.",
+      "hindi_meaning": "सर्वतोभद्र चक्र में बताए गए वेधों पर भी विचार करना चाहिए। ग्रहों के गोचर के दौरान शुभ वेध प्रसन्नता लाते हैं, जबकि पाप वेध तीव्र शोक का कारण बनते हैं।"
+    }
+  ]
+}

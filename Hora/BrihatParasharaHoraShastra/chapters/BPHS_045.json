@@ -1,0 +1,942 @@
+{
+  "source_file": "BPHS4145.md",
+  "source_chunk": "BPHS4145.json",
+  "chunk_index": 4,
+  "chapter": 45,
+  "variant": null,
+  "title": "अथ ग्रहावस्थाध्यायः",
+  "shloka_count": 155,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अवस्थावशतः प्रोक्तं ग्रहाणां यत् फलं मुने ।\nका साऽवस्था मुनिश्रेष्ठ कतिधा चेति कथ्ययाम्",
+      "english_meaning": "You have spoken about the effects of planets based on their states (Avasthas). What are those states, O best of sages, and how many are they?",
+      "hindi_meaning": "ग्रहों की अवस्था के अनुसार उनके फल आपने कहे। हे मुनिश्रेष्ठ! वे अवस्थाएँ कौन सी हैं और वे कितनी हैं, यह कहिये।"
+    },
+    {
+      "number": 2,
+      "text": "अवस्था विविधाः सन्ति ग्रहाणां दिवजसत्तम ।\nसारभूताश्च यास्तासु बालाद्यास्ता वदाम्यहम्",
+      "english_meaning": "There are various states of planets. I will speak of the essential ones, starting with Bala (infant), etc.",
+      "hindi_meaning": "हे द्विजसत्तम! ग्रहों की अवस्थाएँ अनेक प्रकार की हैं। उनमें जो मुख्य (सारभूत) हैं, उन बाल आदि अवस्थाओं को मैं कहता हूँ।"
+    },
+    {
+      "number": 3,
+      "text": "क्रमाद् बालः कुमारोऽथ युवा वृद्धस्तथा मृतः ।\nषडंशैरसमे खेटः समे ज्ञेयो विपर्ययात्",
+      "english_meaning": "Bala (infant), Kumara (adolescent), Yuva (youth), Vriddha (old), and Mrita (dead). In odd signs, they occur in units of 6 degrees. In even signs, it is the reverse.",
+      "hindi_meaning": "बाल, कुमार, युवा, वृद्ध और मृत - ये पाँच अवस्थाएँ हैं। विषम राशि में 6-6 अंशों पर ये होती हैं, और सम राशि में इसके विपरीत (उल्टा) क्रम होता है।"
+    },
+    {
+      "number": 4,
+      "text": "फलं पादमितं बाले फलार्धं च कुमारके ।\nयूनि पूर्णं फलं ज्ञेयं वृद्धे किञ्चित् मृते च खम्",
+      "english_meaning": "Effect: 1/4th in Bala, 1/2 in Kumara, full in Yuva, very little in Vriddha, and zero in Mrita.",
+      "hindi_meaning": "बाल अवस्था में चौथाई फल, कुमार में आधा, युवा में पूर्ण फल, वृद्ध में बहुत कम और मृत अवस्था में फल शून्य समझना चाहिए।"
+    },
+    {
+      "number": 5,
+      "text": "स्वभोच्चयोः समसुहृद्भयोः शत्रुभनीचयोः ।\nजाग्रत्स्वप्नसुषुप्त्याख्या अवस्था नामदृक्फलाः",
+      "english_meaning": "Jagrat (awake), Svapna (dreaming), and Sushupti (sleeping) are states based on signs like own/exaltation, neutral/friend, and enemy/debilitation respectively.",
+      "hindi_meaning": "अपनी राशि/उच्च में जाग्रत, सम/मित्र राशि में स्वप्न और शत्रु/नीच राशि में सुषुप्ति - ये तीन अवस्थाएँ नाम के अनुसार फल देती हैं।"
+    },
+    {
+      "number": 6,
+      "text": "जागरे च फलं पूर्णं स्वप्ने मध्यफलं तथा ।\nसुषुप्तौ तु फलं शून्यं विज्ञेयं द्विजसत्तम",
+      "english_meaning": "Full effect in Jagrat, middle in Svapna, and zero in Sushupti, O best of Brahmanas.",
+      "hindi_meaning": "जाग्रत में पूर्ण फल, स्वप्न में मध्यम और सुषुप्ति में फल शून्य समझना चाहिए, हे द्विजसत्तम।"
+    },
+    {
+      "number": 7,
+      "text": "दीप्तः स्वस्थः प्रमुदितः शान्तो दीनोऽथ दुःखितः ।\nविकलश्च खलः कोऽपीत्यवस्था नवधाऽपराः",
+      "english_meaning": "Deepta, Svastha, Pramudita, Shanta, Dina, Duhkhita, Vikala, Khala, and Kopi. These are 9 other states.",
+      "hindi_meaning": "दीप्त, स्वस्थ, प्रमुदित, शान्त, दीन, दुःखित, विकल, खल और कोपी - ये नौ अन्य प्रकार की अवस्थाएँ हैं।"
+    },
+    {
+      "number": 8,
+      "text": "स्वोच्चस्थः खेचरो दीप्तः स्वर्क्षे स्वस्थोऽधिमित्रभे ।\nमुदितो मित्रभे शान्तः समभे दीन उच्यते",
+      "english_meaning": "Exaltation: Deepta. Own sign: Svastha. Great friend's sign: Mudita. Friend's sign: Shanta. Neutral sign: Dina.",
+      "hindi_meaning": "उच्च में दीप्त, स्वराशि में स्वस्थ, अधिमित्र की राशि में मुदित, मित्र की राशि में शान्त और सम राशि में दीन कहा जाता है।"
+    },
+    {
+      "number": 9,
+      "text": "शत्रुभे दुःखितः प्रोक्तो विकलः पापसंयुतः ।\nखलः खलगृहे ज्ञेयः कोपी स्यादर्कसंयुतः",
+      "english_meaning": "Enemy's sign: Duhkhita. With malefics: Vikala. In malefic's sign: Khala. With Sun (combust): Kopi.",
+      "hindi_meaning": "शत्रु राशि में दुःखित, पाप ग्रह के साथ विकल, पाप की राशि में खल और सूर्य के साथ होने (अस्त) पर कोपी कहा जाता है।"
+    },
+    {
+      "number": 10,
+      "text": "यादृशो जन्मकाले यः खेटो यद्भावगो भवेत् ।\nतादृशं तस्य भावस्य फलमुह्यं द्विजोत्तम",
+      "english_meaning": "The effect of the house should be understood based on the state of the planet occupying it at birth.",
+      "hindi_meaning": "जन्म के समय जो ग्रह जिस भाव में जैसी अवस्था में होता है, उस भाव का वैसा ही फल समझना चाहिए।"
+    },
+    {
+      "number": 11,
+      "text": "लज्जितो गर्वितश्चैव क्षुधितस्तृषितस्तथा ।\nमुदितः क्षोभितश्चैव ग्रहभावाः प्रकीर्तिताः",
+      "english_meaning": "Lajjita, Garvita, Kshudhita, Trishita, Mudita, and Kshobhita are other planetary states.",
+      "hindi_meaning": "लज्जित, गर्वित, क्षुधित, तृषित, मुदित और क्षोभित - ये ग्रहों की अन्य अवस्थाएँ कही गई हैं।"
+    },
+    {
+      "number": 12,
+      "text": "पुत्रगेहगतः खेटो राहुकेतुयुतोऽथवा ।\nरविमन्दकुजैर्युक्तो लज्जितो ग्रह उच्यते",
+      "english_meaning": "In 5th house, or with Rahu/Ketu, or with Sun, Saturn or Mars: a planet is Lajjita.",
+      "hindi_meaning": "5वें भाव में हो, या राहु-केतु के साथ हो, अथवा सूर्य, शनि या मंगल के साथ हो तो ग्रह 'लज्जित' कहलाता है।"
+    },
+    {
+      "number": 13,
+      "text": "तुङ्गस्थानगतो वाऽपि त्रिकोणेऽपि भवेत्पुनः ।\nगर्वितः सोऽपि गदितो निर्विशंकं द्विजोत्तम",
+      "english_meaning": "In exaltation or Trikona: a planet is called Garvita without doubt.",
+      "hindi_meaning": "उच्च राशि में या त्रिकोण (1, 5, 9) में स्थित ग्रह को बिना किसी संशय के 'गर्वित' कहा जाता है।"
+    },
+    {
+      "number": 14,
+      "text": "शत्रुगेही शत्रुयुक्तो रिपुदृष्टो भवेद्यदि ।\nक्षुधितः स च विज्ञेयः शनियुक्तो यथा तथा",
+      "english_meaning": "In enemy's sign, or with/aspected by enemy, or with Saturn: a planet is Kshudhita.",
+      "hindi_meaning": "शत्रु की राशि में, शत्रु के साथ या उससे दृष्ट हो, अथवा शनि के साथ हो तो ग्रह 'क्षुधित' समझना चाहिए।"
+    },
+    {
+      "number": 15,
+      "text": "जलराशौ स्थितः खेटः शत्रुणा चाऽवलोकितः ।\nशुभग्रहा न पश्यन्ति तृषितः स उदाहृतः",
+      "english_meaning": "In a watery sign, aspected by enemy, and not aspected by benefics: it is Trishita.",
+      "hindi_meaning": "जल राशि (कर्क, वृश्चिक, मीन) में हो, शत्रु से दृष्ट हो और शुभ ग्रहों की दृष्टि न हो तो वह 'तृषित' कहा गया है।"
+    },
+    {
+      "number": 16,
+      "text": "मित्रगेही मित्रयुक्तो मित्रेण च विलोकितः ।\nगुरुणा सहितो यश्च मुदितः स प्रकीर्तितः",
+      "english_meaning": "In friend's sign, with friend, aspected by friend, or with Jupiter: it is Mudita.",
+      "hindi_meaning": "मित्र की राशि में, मित्र के साथ या उससे दृष्ट हो, अथवा गुरु के साथ हो तो वह 'मुदित' कहलाता है।"
+    },
+    {
+      "number": 17,
+      "text": "रविणा सहितो यश्च पापा पश्यन्ति सर्वथा ।\nक्षोभितं तं विजानीयाच्छत्रुणा यदि वीक्षितः",
+      "english_meaning": "With Sun, and aspected by malefics, and aspected by enemy: it is Kshobhita.",
+      "hindi_meaning": "सूर्य के साथ हो, पाप ग्रहों से दृष्ट हो और शत्रु से भी दृष्ट हो तो उसे 'क्षोभित' जानना चाहिए।"
+    },
+    {
+      "number": 18,
+      "text": "येषु येषु च भावेषु ग्रहास्तिष्ठन्ति सर्वथा ।\nक्षुधितः क्षोभितो वापि तद्भावफलनाशनः",
+      "english_meaning": "In whichever house these states occur, they destroy the results of that house if Kshudhita or Kshobhita.",
+      "hindi_meaning": "जिन-जिन भावों में ग्रह स्थित होते हैं, यदि वे क्षुधित या क्षोभित हों तो उस भाव के फल का नाश करते हैं।"
+    },
+    {
+      "number": 19,
+      "text": "एवं क्रमेण बोद्धव्यं सर्वभावेषु पण्डितैः ।\nबलाऽबलविचारेण वक्तव्यः फलनिर्णयः",
+      "english_meaning": "Wise men should understand this for all houses and decide the results based on strength/weakness.",
+      "hindi_meaning": "विद्वानों को सभी भावों में इसी क्रम से समझना चाहिए और बल-अबल के विचार से फल का निर्णय करना चाहिए।"
+    },
+    {
+      "number": 20,
+      "text": "अन्योन्यं च मुदा युक्तं फलं मिश्रं वदेत्पुनः ।\nबलहीने तदा हानिः सबले च महाफलम्",
+      "english_meaning": "Mixed effects from mixed states. Loss when weak, great results when strong.",
+      "hindi_meaning": "परस्पर मिलने पर मिश्रित फल कहें। बलहीन होने पर हानि और सबल होने पर महान फल होता है।"
+    },
+    {
+      "number": 21,
+      "text": "कर्मस्थाने स्थितो यस्य लज्जितस्तृषितस्तथा ।\nक्षुधितः क्षोभितो वापि स नरो दुःखभाजनम्",
+      "english_meaning": "If Lajjita, Trishita, Kshudhita, or Kshobhita in the 10th house (Karmasthana): the person becomes a vessel of misery.",
+      "hindi_meaning": "जिसके कर्म भाव (10वें) में लज्जित, तृषित, क्षुधित या क्षोभित ग्रह हो, वह मनुष्य दुःखों का पात्र होता है।"
+    },
+    {
+      "number": 22,
+      "text": "सुतस्थाने भवेद्यस्य लज्जितो ग्रह एव च ।\nसुतनाशो भवेत्तस्य एकस्तिष्ठति सर्वदा",
+      "english_meaning": "If a planet in Lajjita state is in the 5th house (Sutasthana): destruction of children, or only one remains.",
+      "hindi_meaning": "जिसके पंचम भाव (संतान) में लज्जित ग्रह हो, उसकी संतान का नाश होता है या केवल एक ही शेष रहती है।"
+    },
+    {
+      "number": 23,
+      "text": "क्षोभितस्तृषितश्चैव सप्तमे यस्य वा भवेत् ।\nम्रियते तस्य नारी च सत्यमाहुर्द्विजोत्तम",
+      "english_meaning": "Kshobhita or Trishita in the 7th house: his wife dies, this is told as truth, O best of Brahmanas.",
+      "hindi_meaning": "जिसके सप्तम भाव में क्षोभित या तृषित ग्रह हो, उसकी स्त्री की मृत्यु होती है - यह सत्य कहा गया है।"
+    },
+    {
+      "number": 24,
+      "text": "नवालयारामसुखं नृपत्वं कलापटुत्वं विदधाति पुंसाम् ।\nसदार्थलाभं व्यवहारवृद्धिं फलं विशेषादिह गर्वितस्य",
+      "english_meaning": "Garvita state gives new houses/gardens, kingship, skill in arts, constant wealth, and business growth.",
+      "hindi_meaning": "गर्वित अवस्था विशेष रूप से नए घर, उद्यान, सुख, राजपद, कला में निपुणता, धन लाभ और व्यापार में वृद्धि देती है।"
+    },
+    {
+      "number": 25,
+      "text": "भवति मुदितयोगे वासशालाविशाला ।\nविमलवसनभूषाभूमियोषासु सौख्यम् ।\nस्वजनजनविलासो भूमिपागारवासो ।\nरिपुनिवहविनाशो बुद्धिविद्याविकाशः",
+      "english_meaning": "Mudita: large house, ornaments, happiness from land/women, enjoyment with kin, dwelling in palace, destruction of enemies, and wisdom.",
+      "hindi_meaning": "मुदित योग में विशाल घर, आभूषण, भूमि-स्त्री सुख, स्वजनों के साथ विलास, राजभवन में निवास, शत्रुओं का नाश और बुद्धि-विद्या का विकास होता है।"
+    },
+    {
+      "number": 26,
+      "text": "दिशति लज्जितभाववशाद्रतिं विगतराममतिं विमतिक्षयम् ।\nसुतगदागमनं गमनं वृथा कलिकथाभिरुचिं न रुचिं शुभे",
+      "english_meaning": "Lajjita: lack of desire, loss of intelligence, disease to children, useless travels, interest in quarrels, and no interest in good deeds.",
+      "hindi_meaning": "लज्जित अवस्था के कारण रति (इच्छा) का अभाव, मति का नाश, पुत्र को रोग, व्यर्थ भ्रमण, कलह में रुचि और शुभ कार्यों में अरुचि होती है।"
+    },
+    {
+      "number": 27,
+      "text": "संक्षोभितस्यापि फलं विशेषाद्द्रिद्रजातं कुमतिं च कष्टम् ।\nकरोति वित्तक्षयमंध्रिबाधां धनाप्तिबाधामवनीशकोपात्",
+      "english_meaning": "Kshobhita: poverty, bad intelligence, distress, loss of wealth, foot diseases, and obstacles in wealth due to king's anger.",
+      "hindi_meaning": "क्षोभित का फल विशेष रूप से दरिद्रता, कुबुद्धि, कष्ट, धन की हानि, पैरों में पीड़ा और राजा के कोप से धन प्राप्ति में बाधा है।"
+    },
+    {
+      "number": 28,
+      "text": "क्षुधितखगवशाद्वै शोकमोहादिपातः ।\nपरिजनपरितापादाधिभीत्या कृशत्वम् ।\nकलिरपि रिपुलोकैरर्थबाधा नराणा ।\nमखिलब्बलनिरोधो बुद्धिरोधो विषादात्",
+      "english_meaning": "Kshudhita: grief, delusion, distress from kin, emaciation, quarrels, loss of wealth, obstruction of strength, and intelligence.",
+      "hindi_meaning": "क्षुधित ग्रह के कारण शोक, मोह, स्वजनों से कष्ट, चिंता से शरीर का सूखना, कलह, धन की बाधा और बुद्धि का रोध होता है।"
+    },
+    {
+      "number": 29,
+      "text": "तृषितखगभवे स्वादंगनासंगमध्ये ।\nभवति गदविकारो दृष्टकार्याधिकारः ।\nनिजजनपरिवादादर्थहानिः कृशत्वम् ।\nखलकृतपरितापो मानहानिः सदैव",
+      "english_meaning": "Trishita: success with women, but also diseases, authority over bad works, loss of wealth due to gossip, emaciation, and loss of honor.",
+      "hindi_meaning": "तृषित ग्रह होने पर स्त्रियों के साथ सफलता, लेकिन रोग, बुरे कार्यों का अधिकार, अपवाद से धन हानि और मान-हानि सदैव होती है।"
+    },
+    {
+      "number": 30,
+      "text": "शयनं चोपवेशं च नेत्रपाणिप्रकाशनम् ।\nगमनागमनं चाऽथ सभायां वसतिं तथा",
+      "english_meaning": "Shayana (lying down), Upavesha (sitting), Netrapani (eyes and hands), Prakashana (radiating), Gamana (going), and Agamana (coming).",
+      "hindi_meaning": "शयन, उपवेशन, नेत्रपाणि, प्रकाशन, गमन और आगमन।"
+    },
+    {
+      "number": 31,
+      "text": "आगमं भोजनं चैव नृत्यं लिप्सां च कौतुकम् ।\nनिद्रां ग्रहाणां चेष्टां च कथयामि तवाग्रितः",
+      "english_meaning": "Agamana (coming), Bhojana (eating), Nrityalipsa (dance), Kautuka (curiosity), Nidra (sleep). These 12 states I tell you.",
+      "hindi_meaning": "आगमन, भोजन, नृत्यलिप्सा, कौतुक, निद्रा - ग्रहों की ये चेष्टाएँ (अवस्थाएँ) मैं तुम्हारे सामने कहता हूँ।"
+    },
+    {
+      "number": 32,
+      "text": "यस्मिन्नृक्षे भवेत्खेटस्तेन तं परिपूरयेत् ।\nपुनरंशेन सम्पूर्य स्वनक्षत्रं नियोजयेत्",
+      "english_meaning": "Multiply the planet's Nakshatra number by its own number. Add the Navamsha and native's Nakshatra number.",
+      "hindi_meaning": "जिस नक्षत्र में ग्रह हो, उसकी संख्या से उसे गुणा करें। फिर अंश (नवांश) और अपने जन्म नक्षत्र की संख्या जोड़ें।"
+    },
+    {
+      "number": 33,
+      "text": "यातदण्डं तथा लग्नमेकीकृत्य सदा बुधः ।\nरविभिस्तु हरेद् भागं शेषं कार्ये नियोजयेत्",
+      "english_meaning": "Add the hours elapsed since sunrise and the Lagna number. Divide the total by 12 and use the remainder.",
+      "hindi_meaning": "बीते हुए दण्ड (समय) और लग्न की संख्या को भी जोड़ें। फिर 12 से भाग दें, जो शेष बचे उसे कार्य में लगायें।"
+    },
+    {
+      "number": 34,
+      "text": "नाक्षत्रिकदशारीत्या पुनः पूरणमाचरेत् ।\nनामाद्यस्वरसंख्याढ्यं हर्तव्यं रविभिस्ततः",
+      "english_meaning": "Following the Nakshatra dasha method, add the name's first vowel number and divide the total by 12.",
+      "hindi_meaning": "नक्षत्र दशा की रीति से पुनः पूरण करें। नाम के पहले स्वर की संख्या जोड़कर 12 से भाग देना चाहिए।"
+    },
+    {
+      "number": 35,
+      "text": "रवौ पञ्च तथा देयाश्चन्द्रे दद्याद्द्वयं तथा ।\nकुजे द्वयं च संय्क्तं बुधे त्रीत्रि नियोजयेत्",
+      "english_meaning": "For calculation, add these numbers: Sun 5, Moon 2, Mars 2, Mercury 3.",
+      "hindi_meaning": "साधन के लिए ये संख्याएँ जोड़ें: सूर्य के लिए 5, चन्द्र के लिए 2, मंगल के लिए 2 और बुध के लिए 3।"
+    },
+    {
+      "number": 36,
+      "text": "गुरौ बाणाः प्रदेयाश्च त्रयं दद्याच्च भार्गवे ।\nशनौ त्रयमथो देयं राहौ दद्याच्चतुष्टयम्",
+      "english_meaning": "For Jupiter add 5, Venus 3, Saturn 3, and Rahu 4.",
+      "hindi_meaning": "गुरु के लिए 5, शुक्र के लिए 3, शनि के लिए 3 और राहु के लिए 4 जोड़ना चाहिए।"
+    },
+    {
+      "number": 37,
+      "text": "त्रिभिर्भक्तं च शेषांकैः सा पुनस्त्रिबिधा स्मृता ।\nदष्टिश्चेष्टा विचेष्टा च तत्फलं तथयाम्यहम्",
+      "english_meaning": "Divide the remainder by 3 to find the sub-state: Drishti (sight), Cheshta (effort), or Vicheshta (lack of effort).",
+      "hindi_meaning": "शेष को 3 से भाग देने पर तीन प्रकार की अवस्थाएँ होती हैं: दृष्टि, चेष्टा और विचेष्टा।"
+    },
+    {
+      "number": 38,
+      "text": "दृष्टौ मध्यफलं ज्ञेयं चेष्टायां विपुलं फलम् ।\nविचेष्टायां फलं स्वल्पमेवं दृष्टिफलं विदुः",
+      "english_meaning": "Drishti gives middle effect, Cheshta gives full, and Vicheshta gives very little effect.",
+      "hindi_meaning": "दृष्टि में मध्यम फल, चेष्टा में पूर्ण फल और विचेष्टा में बहुत कम फल समझना चाहिए।"
+    },
+    {
+      "number": 39,
+      "text": "शुभाऽशुभं ग्रहाणां च समीक्ष्याऽथ बलाऽबलम् ।\nतुङ्गस्थाने विशेषेण बलं ज्ञेयं तथा बुधैः",
+      "english_meaning": "Observe the benefic/malefic nature and strength of planets. Especially consider strength in exaltation signs.",
+      "hindi_meaning": "ग्रहों के शुभ-अशुभ और बल-अबल को देखें। विद्वानों को विशेष रूप से उच्च स्थान में उनके बल को जानना चाहिए।"
+    },
+    {
+      "number": 40,
+      "text": "मन्दाग्निरोगो बहुधा नराणां स्थूलत्वमन्ङ् घ्रेरपिपित्तकोपः ।\nव्रणं गुदे शूलमुरःप्रदेशे यदोष्णभानुः शयनं प्रयातः",
+      "english_meaning": "Sun in Shayana (sleep): weak digestion, many diseases, obesity, bilious (Pitta) disorders, ulcers in anus/stomach.",
+      "hindi_meaning": "सूर्य शयन अवस्था में हो तो: मन्दाग्नि, अनेक रोग, शरीर में स्थूलता, पित्त का प्रकोप और गुदा या पेट में घाव/शूल होता है।"
+    },
+    {
+      "number": 41,
+      "text": "दरिद्रताभारविहाराशाली विवादविद्याभिरतो नरः स्यात् ।\nकथोरचित्तः खलु नष्टवित्तः सूर्यो यदा चेदुपवेशनस्थः",
+      "english_meaning": "Sun in Upavesha (sitting): poverty, traveling with burdens, fond of debates, harsh heart, and loss of wealth.",
+      "hindi_meaning": "सूर्य उपवेशन में हो तो: दरिद्रता, भार ढोना, विवाद और विद्या में रुचि, कठोर हृदय और धन का नाश होता है।"
+    },
+    {
+      "number": 42,
+      "text": "नरः सदानन्दधरो विवेकी परोपकारी बलवित्तयुक्तः ।\nमहामुखी राजकृपाभिमानी दिवाधिनाथो यदि नेत्रपानौ",
+      "english_meaning": "Sun in Netrapani (eyes/hands): always happy, wise, helpful, strong, wealthy, and pride of king's favor.",
+      "hindi_meaning": "सूर्य नेत्रपाणि में हो तो: सदा सुखी, विवेकी, परोपकारी, बली, धनवान और राजा की कृपा का अभिमानी होता है।"
+    },
+    {
+      "number": 43,
+      "text": "उदारचित्तः परिपूर्णवित्तः सभासु वक्ता बहुपुण्यकर्त्ता ।\nमहाबली सुन्दरररूपशाली प्रकाशने जन्मनि पदिमनीशे",
+      "english_meaning": "Sun in Prakashana (radiating): generous, full of wealth, speaker in assemblies, performer of merits, strong, and handsome.",
+      "hindi_meaning": "सूर्य प्रकाशन में हो तो: उदार, धनवान, सभा में वक्ता, बहुत पुण्य करने वाला, महाबली और सुन्दर होता है।"
+    },
+    {
+      "number": 44,
+      "text": "प्रवासशाली किल दुःखमाली सदालसी धीधनवर्जितश्च ।\nभयातुरः कोपपरो विशेषाद्दिवाधिनाथे गमने मनुष्यः",
+      "english_meaning": "Sun in Gamana (going): living abroad, surrounded by grief, lazy, devoid of wealth/intelligence, fearful, and angry.",
+      "hindi_meaning": "सूर्य गमन में हो तो: परदेश में रहने वाला, दुःखी, आलसी, बुद्धि और धन से रहित, डरा हुआ और क्रोधी होता है।"
+    },
+    {
+      "number": 45,
+      "text": "परदाररतो जनतारहितो बहुधागमने गमनाभिरुचिः ।\nखलताकुशलो मलिनो दिवसाधिपतौ मनुजः कुमतिः कृपणः",
+      "english_meaning": "Sun in Agamana (coming): interested in others' wives, lonely, fond of constant travels, wicked, dirty, and bad intelligence.",
+      "hindi_meaning": "सूर्य आगमन में हो तो: पराई स्त्री में रत, अकेला, घूमने में रुचि रखने वाला, खल, मलिन और कुबुद्धि होता है।"
+    },
+    {
+      "number": 46,
+      "text": "सभागते हिते नरः परोपकारतत्परः ।\nसदार्थरत्नपूरितो दिवाकरे गुणाकरः ।\nवसुन्धरानवांबरालयान्वितो महाबली ।\nविचित्रमित्रवत्सलः कृपाकलाधरः परः",
+      "english_meaning": "Sun in Sabha (assembly): helpful, full of wealth/gems, virtuous, owner of land/houses, strong, and kind to friends.",
+      "hindi_meaning": "सूर्य सभा में हो तो: परोपकारी, धन-रत्नों से पूर्ण, गुणी, भूमि और मकानों वाला, महाबली और मित्रों का वत्सल होता है।"
+    },
+    {
+      "number": 47,
+      "text": "क्षोभितो रिपुगणैः सदा नरश्चञ्चलः खलमतिः कृशस्तथा ।\nधर्मकर्मरहितो मदोद्धतश्चागमे दिनपतौ तदा तदा",
+      "english_meaning": "Sun in Agame (approaching): troubled by enemies, fickle, wicked mind, thin, devoid of religious deeds, and arrogant.",
+      "hindi_meaning": "सूर्य आगम में हो तो: शत्रुओं से पीड़ित, चंचल, खल बुद्धि, दुबला, धर्म-कर्म से रहित और घमंडी होता है।"
+    },
+    {
+      "number": 48,
+      "text": "सदाङ्गसन्धिवेदनापराङ्गनाधनक्षयो ।\nबलक्षयः पदे पदे यदा यदा हि भोजने ।\nअसत्यता शिरोव्यथा तथा वृथान्नभोजनम् ।\nरवावसत्तथारतिः कुमार्गगामिनी मति",
+      "english_meaning": "Sun in Bhojana (eating): pain in joints, loss of wealth/women, weak at every step, untruthful, headache, and bad food.",
+      "hindi_meaning": "सूर्य भोजन में हो तो: जोड़ों में दर्द, स्त्री-धन की हानि, कदम-कदम पर निर्बलता, असत्यता, सिरदर्द और खराब भोजन मिलता है।"
+    },
+    {
+      "number": 49,
+      "text": "विज्ञलोकैः स्दा मण्डितः पण्डितः काव्यविद्यानवद्यप्रलापान्वितः ।\nराजपूज्यो धरामण्डले सर्वदा नृत्यलिप्सागते पद्मिनीनायके",
+      "english_meaning": "Sun in Nrityalipsa (dance): honored by wise men, a scholar, fond of poetic talk, and respected by the king.",
+      "hindi_meaning": "सूर्य नृत्यलिप्सा में हो तो: विद्वानों से सम्मानित, पण्डित, काव्य और विद्या के प्रलाप में कुशल और राजा द्वारा पूज्य होता है।"
+    },
+    {
+      "number": 50,
+      "text": "सर्वदानन्दधर्ता जनो ज्ञानवान् यज्ञकर्ता धराधीशसद्मस्थितः ।\nपद्मबन्धावरातेर्भयं स्वाननः काव्यविद्याप्रलापी मुदा कौतुके",
+      "english_meaning": "Sun in Kautuka (curiosity): always happy, wise, performer of sacrifices, living in king's house, fearing enemies, and fond of arts.",
+      "hindi_meaning": "सूर्य कौतुक में हो तो: सदा सुखी, ज्ञानी, यज्ञ करने वाला, राजभवन में रहने वाला और शत्रुओं से भयभीत रहने वाला होता है।"
+    },
+    {
+      "number": 51,
+      "text": "निद्राभरारक्तनिभे भवेतां निद्रागते लोचनपद्मयुग्मे ।\nरवौ विदेशे वसतिर्जनस्य कलत्रहानिः कातिधार्थनाशः",
+      "english_meaning": "Sun in Nidra (sleep): eyes always red with sleep, living in a foreign land, loss of wife and wealth.",
+      "hindi_meaning": "सूर्य निद्रा में हो तो: आँखें नींद से लाल रहती हैं, विदेश में निवास होता है, स्त्री की हानि और धन का नाश होता है।"
+    },
+    {
+      "number": 52,
+      "text": "जानुःकाले क्षपानाथे शयनं चेदुपागते ।\nमानी शीतप्रधानश्च कामी वित्तविनाशकः",
+      "english_meaning": "Moon in Shayana (sleep): pride, phlegmatic (Kapha) nature, lustful, but loss of wealth.",
+      "hindi_meaning": "चन्द्रमा शयन में हो तो: मान-सम्मान पाने वाला, कफ प्रधान, कामी लेकिन धन का नाश करने वाला होता है।"
+    },
+    {
+      "number": 53,
+      "text": "रोगार्दितो मन्दमतिर्विशेषाद्वित्तेन हीनो मनुजः कठोरः ।\nअकार्यकारी परवित्तहारी क्षपाकरे चेदुपवेशनस्थे",
+      "english_meaning": "Moon in Upavesha (sitting): diseased, dull-witted, devoid of wealth, harsh, performing bad works, and stealer of wealth.",
+      "hindi_meaning": "चन्द्रमा उपवेशन में हो तो: रोगी, मन्दबुद्धि, धनहीन, कठोर, बुरे कार्य करने वाला और दूसरों का धन हरने वाला होता है।"
+    },
+    {
+      "number": 54,
+      "text": "नेत्रपाणौ क्षपानाथे महारोगी नरो भवेत् ।\nअनल्पजल्पको धूर्तः कुकर्मनिरतः सदा",
+      "english_meaning": "Moon in Netrapani (eyes/hands): great diseases, talkative, rogue, and performing bad deeds.",
+      "hindi_meaning": "चन्द्रमा नेत्रपाणि में हो तो: मनुष्य महारोगी होता है, बहुत बोलने वाला, धूर्त और सदा कुकर्मों में लगा रहता है।"
+    },
+    {
+      "number": 55,
+      "text": "यदा राकानाथे गतवति विकाशं च जनने ।\nविकाशः संसारे विमलगुणराशेरवनिपात् ।\nनवाशामाला स्यात्करितुरगलक्ष्म्या परिवृता ।\nविभूषा योषाभिः सुखमनुदिनं तीर्थगमनम्",
+      "english_meaning": "Moon in Prakashana (radiating): prosperity in the world, pure virtues, favor from king, new hopes, and wealth/gems.",
+      "hindi_meaning": "चन्द्रमा प्रकाशन में हो तो: संसार में उन्नति, निर्मल गुण, राजा से सम्मान, नई आशाएँ और धन-सम्पदा प्राप्त होती है।"
+    },
+    {
+      "number": 56,
+      "text": "सितेतरे पापरतो निशाकरे विशेषतः क्रूरकरो नरो भवेत् ।\nसदाक्षिरोगैः परिपीड्यमानो वलक्षपक्षे गमने भयातुरः",
+      "english_meaning": "Moon in Gamana (going): interested in sins (if Waning Moon), eye diseases, and fearful. (Better in Waxing).",
+      "hindi_meaning": "चन्द्रमा गमन में हो तो: पापों में रुचि (कृष्ण पक्ष में), आँखों के रोग और डरा हुआ होता है। (शुक्ल पक्ष में बेहतर)।"
+    },
+    {
+      "number": 57,
+      "text": "विधावागमगे मानी पादरोगी नरो भवेत् ।\nगुप्तपापरतो दीनो मतितोषविवर्जितः",
+      "english_meaning": "Moon in Agamana (coming): pride, foot diseases, performing secret sins, miserable, and dissatisfied.",
+      "hindi_meaning": "चन्द्रमा आगमन में हो तो: अभिमानी, पैरों का रोगी, गुप्त पाप करने वाला, दीन और असंतोषी होता है।"
+    },
+    {
+      "number": 58,
+      "text": "सकलजनवदान्यो राजराजेन्द्रमान्यो ।\nरतिपतिसमाकान्तिः शान्तिकृत्कामिनीनाम् ।\nसपदि सदसि याते चारुबिम्बे शशंके ।\nभवति परमरीतिप्रीतिविज्ञो गुणज्ञः",
+      "english_meaning": "Moon in Sabha (assembly): generous to all, honored by kings, handsome like Cupid, and a scholar.",
+      "hindi_meaning": "चन्द्रमा सभा में हो तो: उदार, राजाओं द्वारा सम्मानित, कामदेव के समान सुन्दर और विद्वान होता है।"
+    },
+    {
+      "number": 59,
+      "text": "विधावागमके मत्यों वावालो धर्मपूरितः ।\nकृष्णपक्षे द्विभार्यः स्याद्रोगी दुष्टतरो हठी",
+      "english_meaning": "Moon in Agamake (approaching): if Waxing Moon, performer of religion. If Waning Moon, two wives, diseased, and stubborn.",
+      "hindi_meaning": "चन्द्रमा आगम में हो तो: शुक्ल पक्ष में धार्मिक, लेकिन कृष्ण पक्ष में दो पत्नियों वाला, रोगी और बहुत हठी होता है।"
+    },
+    {
+      "number": 60,
+      "text": "भोजने जनुषि पूर्णचन्द्रमा मानयानजनतासुखं नृणाम् ।\nआतनोति वनितासुतासुखं सर्वमेव न सितेतरे शुभम्",
+      "english_meaning": "Full Moon in Bhojana (eating): happiness from honors, vehicles, people, wife, and children. Not good if Waning.",
+      "hindi_meaning": "चन्द्रमा भोजन में हो तो (पूर्ण चन्द्र): सम्मान, वाहन, सुख और संतान का सुख मिलता है। कृष्ण पक्ष में यह शुभ नहीं है।"
+    },
+    {
+      "number": 61,
+      "text": "नृत्यलिप्सागते चन्द्रे सबले बलवान्नरः ।\nगीतज्ञो हि रसज्ञश्च कृष्णे पापकरो भवेत्",
+      "english_meaning": "Moon in Nrityalipsa (dance): strong if planet is strong, fond of music/art. In Waning, performer of sins.",
+      "hindi_meaning": "चन्द्रमा नृत्यलिप्सा में हो तो: सबल होने पर बलवान, संगीत और कला का ज्ञाता होता है। कृष्ण पक्ष में पाप करने वाला होता है।"
+    },
+    {
+      "number": 62,
+      "text": "कौतकभवनं गतवति चन्द्रे भवति नृपत्वं वा धनपत्वम् ।\nकामकलासु सदा कुशलत्वं वारवधूरतितमणपटुत्वम्",
+      "english_meaning": "Moon in Kautuka (curiosity): kingship or great wealth, skill in arts of love, and pleasure from women.",
+      "hindi_meaning": "चन्द्रमा कौतुक में हो तो: राजा या धनवान होता है, कामकला में निपुण और स्त्रियों के साथ विलास करने वाला होता है।"
+    },
+    {
+      "number": 63,
+      "text": "निद्रागते जन्मनि मानवानां कलाधरे जीवयुते महत्त्वम् ।\nहीनेऽङ्गनासञ्चितवित्तनाशः शिवालये रौति विचित्रमुच्चैः",
+      "english_meaning": "Moon in Nidra (sleep): if with Jupiter, greatness. If weak, loss of wealth and distress.",
+      "hindi_meaning": "चन्द्रमा निद्रा में हो तो: गुरु के साथ होने पर बड़प्पन मिलता है। निर्बल होने पर स्त्रियों से प्राप्त धन का नाश और कष्ट होता है।"
+    },
+    {
+      "number": 64,
+      "text": "शयने वसुधापुत्रे व्रणयुक्तो जनो भवेत् ।\nबहुना कण्डुना युक्तो दद्रुणा च विशेषतः",
+      "english_meaning": "Mars in Shayana (sleep): ulcers on the body, constant itching and skin diseases (Dadru).",
+      "hindi_meaning": "मंगल शयन में हो तो: शरीर पर घाव होते हैं, बहुत खुजली और विशेष रूप से दाद (Skin disease) का भय रहता है।"
+    },
+    {
+      "number": 65,
+      "text": "बली सदा पापरतो नरः स्यादसत्यवादी नितरां प्रगल्भः ।\nधनेन पूर्णो निजधर्महीनो धरासुतश्चेदुपवेशनस्थः",
+      "english_meaning": "Mars in Upavesha (sitting): if strong, performer of sins, untruthful, talkative, wealthy, but devoid of own religion.",
+      "hindi_meaning": "मंगल उपवेशन में हो तो: पापरत, असत्यवादी, बहुत प्रगल्भ, धनवान लेकिन अपने धर्म से हीन होता है।"
+    },
+    {
+      "number": 66,
+      "text": "यदा भूमिसुतो लग्ने नेत्रपाणिमुपागतः ।\nदरिद्रता तदा पुंसामन्यभे नगरेशता",
+      "english_meaning": "Mars in Netrapani (eyes/hands): poverty if in Lagna, otherwise lordship over a city (Nagaresha).",
+      "hindi_meaning": "मंगल नेत्रपाणि में हो तो: लग्न में होने पर दरिद्रता, अन्य राशियों में होने पर नगर का स्वामी (नगरेश) होता है।"
+    },
+    {
+      "number": 67,
+      "text": "प्रकाशो गुणस्यापि वासः प्रकाशे धराधीशभ्रतुः सदा मानवृद्धिः ।\nसुते भूसुते पुत्रकान्तावियोगो भवेद्राहुणा दारुणो वा निपातः",
+      "english_meaning": "Mars in Prakashana (radiating): radiant virtues, honor from king's brothers, but loss of wife/children if in 5th.",
+      "hindi_meaning": "मंगल प्रकाशन में हो तो: गुणों का प्रकाश, राजभाइयों से सम्मान, लेकिन 5वें में होने पर स्त्री-पुत्र का वियोग या राहु से कष्ट होता है।"
+    },
+    {
+      "number": 68,
+      "text": "गमने गमनं कुरुतेऽनुदिनं व्रणजालभयं वनिताकलहः ।\nबहुदद्रुककण्डुभयं बहुधा वसुधातनयो वसुहानिकरः",
+      "english_meaning": "Mars in Gamana (going): constant travels, fear of ulcers, quarrels with wife, skin diseases, and loss of wealth.",
+      "hindi_meaning": "मंगल गमन में हो तो: रोज यात्रा करना, घावों का डर, स्त्री से कलह, खुजली का भय और धन की हानि होती है।"
+    },
+    {
+      "number": 69,
+      "text": "आगमने गुणशाली मणिमालीवा करालकरवाली ।\nगजहन्ता रिपुहन्ता परिजनसन्तापहारको भौमे",
+      "english_meaning": "Mars in Agamana (coming): virtuous, like a person with gems or a sharp sword, killer of enemies, and remover of distress.",
+      "hindi_meaning": "मंगल आगमन में हो तो: गुणवान, मणियों की माला या तीखी तलवार धारण करने वाला, शत्रुओं का हन्ता और परिजनों के कष्ट दूर करने वाला होता है।"
+    },
+    {
+      "number": 70,
+      "text": "तुङ्गे युद्धकलाकलापकुशलो धर्मध्वजो वित्तपः ।\nकोणे भूमिसुते सभामुपगते विद्याविहीनः पुमान् ।\nअन्तेऽपत्यकलत्रमित्ररहितः प्रोक्तेतरस्थानगे ।\nऽवश्यं राजसभाबुधो बहुधनी मानी च दानी जनः",
+      "english_meaning": "Mars in Sabha (assembly): if in exaltation, skill in battle, religious, and wealthy. Devoid of learning if in Trikona.",
+      "hindi_meaning": "मंगल सभा में हो तो: उच्च का होने पर युद्धकला में निपुण और धनी। त्रिकोण में विद्याहीन। अन्य स्थानों पर राजसभा में मान्य और धनी होता है।"
+    },
+    {
+      "number": 71,
+      "text": "आगमे भवति भूमिजे जनो धर्मकर्मरहितो गदातुरः ।\nकर्णमूलगुरुशूलरोगवानेव कातरमतिः कुसङ्गमी",
+      "english_meaning": "Mars in Agame (approaching): devoid of religion, diseased, ear/stomach diseases, timid, and bad company.",
+      "hindi_meaning": "मंगल आगम में हो तो: धर्म-कर्म से रहित, रोगी, कान और पेट के रोगों से युक्त, कातर बुद्धि और कुसंगी होता है।"
+    },
+    {
+      "number": 72,
+      "text": "भोजने मिष्टभोजी च जनने सबले कुजे ।\nनीचकर्मकरो नित्यं मनुजो मानवर्जितः",
+      "english_meaning": "Mars in Bhojana (eating): fond of sweets if strong. Otherwise, performer of low deeds and devoid of honor.",
+      "hindi_meaning": "मंगल भोजन में हो तो: सबल होने पर मिष्टान्न प्रेमी। निर्बल होने पर नीच कर्म करने वाला और सम्मान से रहित होता है।"
+    },
+    {
+      "number": 73,
+      "text": "नृत्यलिप्सागते भूसुते जन्मिनामिन्दिराराशिरायाति भूमीपतेः ।\nस्वर्नरत्नप्रवालैः सदा मण्डिता वासशाला नराणां भवेत्सर्वदा",
+      "english_meaning": "Mars in Nrityalipsa (dance): constant flow of wealth from the king, house decorated with gold, gems, and corals.",
+      "hindi_meaning": "मंगल नृत्यलिप्सा में हो तो: राजा से धन की प्राप्ति होती है, घर सोना, रत्न और मूंगों से सजा रहता है।"
+    },
+    {
+      "number": 74,
+      "text": "कौतुकी भव्ति कौतुके कुजे मित्रपुत्रपरिपूरितो जनः ।\nउच्चगे नृपतिगेहमण्डितः पूजितो गुणवरैर्गुणाकरैः",
+      "english_meaning": "Mars in Kautuka (curiosity): fond of friends/sons, decorated by king's house if in exaltation, and virtuous.",
+      "hindi_meaning": "मंगल कौतुक में हो तो: मित्र और पुत्रों से युक्त, उच्च का होने पर राजभवन में सम्मानित और गुणों की खान होता है।"
+    },
+    {
+      "number": 75,
+      "text": "निद्रावस्थां गते भौमे क्रोधी धीधनवर्जितः ।\nधूर्तो धर्मपरिभ्रष्टो मनुष्यो गदपीडितः",
+      "english_meaning": "Mars in Nidra (sleep): angry, devoid of wealth/intelligence, rogue, fallen from religion, and diseased.",
+      "hindi_meaning": "मंगल निद्रा में हो तो: क्रोधी, बुद्धि और धन से हीन, धूर्त, धर्म से भ्रष्ट और रोगों से पीड़ित होता है।"
+    },
+    {
+      "number": 76,
+      "text": "क्षुधातुरो भवेदंगे खञ्जो गुञ्जानिभेक्षणः ।\nअन्यभे लम्पटो धूर्तो मनुजः शयने बुधे",
+      "english_meaning": "Mercury in Shayana (sleep): hungry if in Lagna, lame, eyes like Gunja seeds. Otherwise, lustful and rogue.",
+      "hindi_meaning": "बुध शयन में हो तो: लग्न में होने पर भूखा, लंगड़ा और लाल आँखों वाला। अन्य राशियों में कामी और धूर्त होता है।"
+    },
+    {
+      "number": 77,
+      "text": "शशांकपुत्रे जनुरङ्गगेहे यदोपवेशे गुणराशिपूर्णः ।\nपापेक्षिते पापयुते दरिद्रो हिते शुभे वित्तसुखी मनुष्यः",
+      "english_meaning": "Mercury in Upavesha (sitting): full of virtues if in Lagna. Poor if aspected by malefics, wealthy if by benefics.",
+      "hindi_meaning": "बुध उपवेशन में हो तो: लग्न में होने पर गुणों से पूर्ण। पाप प्रभाव में दरिद्र और शुभ प्रभाव में धनवान होता है।"
+    },
+    {
+      "number": 78,
+      "text": "विद्याविवेकरहितो हिततोषहीनो मनी ।\nजनोभवति चन्द्रसुतेऽक्षि पाणौ ।\nपुत्रालये सुतकलत्रसुखेन हीनः कन्या ।\nप्रजा नृपतिगेहबुधो वरार्थः",
+      "english_meaning": "Mercury in Netrapani (eyes/hands): devoid of wisdom/vocation/honor, pride. Loss of wife/sons if in 5th.",
+      "hindi_meaning": "बुध नेत्रपाणि में हो तो: विद्या, विवेक और सम्मान से हीन, अभिमानी। 5वें में होने पर स्त्री-पुत्र का सुख नहीं मिलता।"
+    },
+    {
+      "number": 79,
+      "text": "दाता दयालुः खलु पुण्यकर्ता विकाशने चन्द्रसुते मनुष्यः ।\nअनेकविद्यार्णवपारङ्गता विवेकपूर्णः खलवर्गहन्ता",
+      "english_meaning": "Mercury in Prakashana (radiating): donor, kind, performer of merits, scholar of many sciences, and killer of wicked.",
+      "hindi_meaning": "बुध प्रकाशन में हो तो: दानी, दयालु, पुण्यकर्ता, अनेक विद्याओं का ज्ञाता, विवेकी और दुष्टों का नाश करने वाला होता है।"
+    },
+    {
+      "number": 80,
+      "text": "गमनागमने भवतो गमने बहुधा वसुधाधिपतेर्भवने ।\nभवनं च विचित्रमलं रमया विदि नुश्च जनुःसमये नितराम्",
+      "english_meaning": "Mercury in Gamana (going): constant travels, dwelling in king's house, and a strange house full of wealth.",
+      "hindi_meaning": "बुध गमन में हो तो: बहुत यात्रा करना, राजा के भवन में रहना और धन-सम्पदा से युक्त विचित्र मकान होना।"
+    },
+    {
+      "number": 81,
+      "text": "सपदि विदि जनानामुच्चगे जन्मकाले ।\nसदसि धनसमृद्धिः सर्वदा पुण्यवृद्धिः ।\nधनपतिसमता वा भूपता मंत्रिता वा ।\nहरिहरपदभक्तिः सात्त्विकी मुक्तिलब्धिः",
+      "english_meaning": "Mercury in Sabha (assembly): if in exaltation, wealth in assembly, growth of merits, kingship or ministership, and devotion to God.",
+      "hindi_meaning": "बुध सभा में हो तो: उच्च का होने पर सभा में धन और पुण्य की वृद्धि, राजा या मन्त्री पद, और ईश्वर में भक्ति प्राप्त होती है।"
+    },
+    {
+      "number": 82,
+      "text": "आगमे जनुषि जन्मिनां यदा चन्द्रजे भवति हीनसेवया ।\nअर्थसिद्धिरपि पुत्रयुग्मता बालिका भवति मानदायिका",
+      "english_meaning": "Mercury in Agama (coming): service to low people, success in wealth, two sons, and many daughters.",
+      "hindi_meaning": "बुध आगम में हो तो: नीच लोगों की सेवा से धन की सिद्धि, दो पुत्र और सम्मान देने वाली कन्याएँ होती हैं।"
+    },
+    {
+      "number": 83,
+      "text": "भोजने चन्द्रजे जन्मकाले यदा जन्मिनानर्थहानिः सदा वादतः ।\nराजभीत्या कृशत्वंचलत्वं मतेरङ्गसङ्गो न जाया न जायासुखम्",
+      "english_meaning": "Mercury in Bhojana (eating): loss of wealth due to debates, fear from king, fickle mind, and no happiness from wife.",
+      "hindi_meaning": "बुध भोजन में हो तो: विवाद से धन की हानि, राजा का भय, बुद्धि में चंचलता और स्त्री का सुख नहीं मिलता।"
+    },
+    {
+      "number": 84,
+      "text": "नृत्यलिप्सागते चन्द्रजे मानवो मानयानप्रवालव्रजैः संयुतः ।\nमित्रपुत्रप्रतापैः सभापण्डितः पापभे वारवामारतो लम्पटः",
+      "english_meaning": "Mercury in Nrityalipsa (dance): honors, vehicles, corals, scholar in assemblies. Lustful if in malefic sign.",
+      "hindi_meaning": "बुध नृत्यलिप्सा में हो तो: सम्मान, वाहन और मूंगों से युक्त, सभा में पण्डित। पाप राशि में लम्पट और कामी होता है।"
+    },
+    {
+      "number": 85,
+      "text": "कौतुके चन्द्रजे जन्मकाले नृणामंगभे गीतविद्याऽनवद्या भवेत् ।\nसप्तमे नैधने वारवध्वा रतिः पुण्यभे पुण्ययुक्ता मतिः सद्गतिः",
+      "english_meaning": "Mercury in Kautuka (curiosity): if in Lagna, skill in music. In 7th/8th, pleasure with women. In 9th, religious.",
+      "hindi_meaning": "बुध कौतुक में हो तो: लग्न में संगीत में निपुण, 7वें/8वें में स्त्रियों से रति, और 9वें भाव में होने पर धार्मिक बुद्धि होती है।"
+    },
+    {
+      "number": 86,
+      "text": "निद्राश्रिते चन्द्रसुते न निद्रासुखं सदा व्याधिसमाधियोगः ।\nसहोत्थवैकल्यमनल्पतापो निजेन वादो धनमाननाशः",
+      "english_meaning": "Mercury in Nidra (sleep): no happiness from sleep, diseases, distress to brothers, debates with kin, and loss of wealth.",
+      "hindi_meaning": "बुध निद्रा में हो तो: नींद का सुख नहीं मिलता, रोग, भाइयों को कष्ट, परिजनों से विवाद और धन-मान का नाश होता है।"
+    },
+    {
+      "number": 87,
+      "text": "वचसामधिपे तु जनुःसमये शयने बलवानपि हीनरवः ।\nअतिगौरतनुः खलुदीर्घहनुः सुतरामरिभीतियुतो मनुजः",
+      "english_meaning": "Jupiter in Shayana (sleep): weak voice even if strong, very fair complexion, long jaw, and fear from enemies.",
+      "hindi_meaning": "गुरु शयन में हो तो: बली होने पर भी आवाज धीमी, गोरा रंग, लम्बी ठोड़ी और शत्रुओं से भयभीत रहने वाला होता है।"
+    },
+    {
+      "number": 88,
+      "text": "उपवेशं गतवति यदि जीवे वाचालो बहुगर्वपरीतः ।\nक्षोणीपतिरिपुजनपतिर्तप्तः पदजंघास्यकरव्रणयुक्तः",
+      "english_meaning": "Jupiter in Upavesha (sitting): talkative, full of pride, troubled by king/enemies, ulcers on feet/mouth.",
+      "hindi_meaning": "गुरु उपवेशन में हो तो: बहुत बोलने वाला, अभिमानी, राजा और शत्रुओं से त्रस्त, और पैर या मुँह में घाव वाला होता है।"
+    },
+    {
+      "number": 89,
+      "text": "नेत्रपाणिं गते देवराजार्चिते रोगयुक्तो वियुक्तो वरार्थश्रिया ।\nगीतनृत्यप्रियः कामुकः सर्वदा गौरवर्णो विवर्णोद्भवप्रीतियुक्",
+      "english_meaning": "Jupiter in Netrapani (eyes/hands): diseased, devoid of wife/wealth, fond of music/dance, lustful, and fair complexion.",
+      "hindi_meaning": "गुरु नेत्रपाणि में हो तो: रोगी, स्त्री और धन से हीन, नृत्य-संगीत का प्रेमी, कामी और गौर वर्ण का होता है।"
+    },
+    {
+      "number": 90,
+      "text": "गुणानामानन्दं विमलसुखकन्दं वितनुते ।\nसदा तेजःपुञ्जं व्रजपतिनिकुञ्जं प्रतिगमम् ।\nप्रकाशं चेदुच्चे द्रुतमुपगतो वासवगुरु ।\nर्गुरुत्वं लोकानां धनपतिसमत्वं तनुभृताम्",
+      "english_meaning": "Jupiter in Prakashana (radiating): joy of virtues, pure happiness, radiant, and great wealth.",
+      "hindi_meaning": "गुरु प्रकाशन में हो तो: गुणों का आनंद, निर्मल सुख, तेजपुंज, लोगों में श्रेष्ठ और धनकुबेर के समान धनी होता है।"
+    },
+    {
+      "number": 91,
+      "text": "साहसी भवति मानवः सदा मित्रवर्गसुखपूरितो मुदा ।\nपण्डितो विविधवित्तमण्डितो देवविद्यदि गुरौ गमं गते",
+      "english_meaning": "Jupiter in Gamana (going): adventurous, always happy with friends, a scholar, and decorated with wealth.",
+      "hindi_meaning": "गुरु गमन में हो तो: साहसी, मित्रों के साथ सदा सुखी, पण्डित और अनेक प्रकार के धन से सुशोभित होता है।"
+    },
+    {
+      "number": 92,
+      "text": "आगमने जनता वरजाया यस्य जनुःसमये हरिमाया ।\nमुञ्चति नालमिहालयमद्धा देवगुरौ परितः परिबद्धा",
+      "english_meaning": "Jupiter in Agamana (coming): prosperity from people, a good wife, and wealth that never leaves the house.",
+      "hindi_meaning": "गुरु आगमन में हो तो: जनता से सम्मान, उत्तम स्त्री, और लक्ष्मी (धन) कभी उसका घर नहीं छोड़ती।"
+    },
+    {
+      "number": 93,
+      "text": "सुरगुरुसमवक्ता शुभ्रमुक्ताफलाढ्यः ।\nसदसि सपदि पूर्णो वित्तमाणिक्यमानैः ।\nगजतुरगरथाढ्यो देवताधीशपूज्यो ।\nजनुषि विविधविद्यागर्वितो मानवः स्यात्",
+      "english_meaning": "Jupiter in Sabha (assembly): speaker like Jupiter, decorated with pearls, full of wealth/gems, and honored by kings.",
+      "hindi_meaning": "गुरु सभा में हो तो: देवगुरु के समान वक्ता, मोतियों से युक्त, धन-माणिक्य से पूर्ण और राजाओं द्वारा पूज्य होता है।"
+    },
+    {
+      "number": 94,
+      "text": "नानावाहनमानयानपटलीसौख्यं गुरावागमे ।\nभृत्यापत्यकलत्रमित्रजसुखं विद्याऽनवद्या भवेत् ।\nक्षोणीपालसमानतानवरतं चाऽतीव हृद्या मतिः ।\nकाव्यानन्दरतिः सदा हिनगतिः सर्वत्र मानोन्नतिः",
+      "english_meaning": "Jupiter in Agame (approaching): many vehicles, happiness from children/wife, pure intelligence, and honors everywhere.",
+      "hindi_meaning": "गुरु आगम में हो तो: अनेक वाहनों का सुख, पुत्र-स्त्री का सुख, निर्मल बुद्धि और सर्वत्र मान-सम्मान प्राप्त होता है।"
+    },
+    {
+      "number": 95,
+      "text": "भोजने भवति देवतागुरौ यस्य तस्य सततं सुभोजनम् ।\nनैव मुञ्चति रमालयं तदा वाजिवारणरथैश्च मण्डितम्",
+      "english_meaning": "Jupiter in Bhojana (eating): always gets good food, wealth never leaves the house, and decorated with vehicles.",
+      "hindi_meaning": "गुरु भोजन में हो तो: जातक को सदा उत्तम भोजन मिलता है, लक्ष्मी उसका घर नहीं छोड़ती और वह वाहनों से सुशोभित रहता है।"
+    },
+    {
+      "number": 96,
+      "text": "नृत्यलिप्सागते राजमानी धनी देवताधीशवन्द्यः सदा धर्मवित् ।\nतन्त्रविज्ञो बुधैर्मण्डितः पंडितः शब्दविद्यानविद्यो हि सद्यो जनः",
+      "english_meaning": "Jupiter in Nrityalipsa (dance): honored by kings, wealthy, performer of religion, and scholar of grammar/logic.",
+      "hindi_meaning": "गुरु नृत्यलिप्सा में हो तो: राजाओं द्वारा मान्य, धनी, धर्मवेत्ता, पण्डित और व्याकरण-तर्क आदि विद्याओं का ज्ञाता होता है।"
+    },
+    {
+      "number": 97,
+      "text": "कुतूहली सकौतुके माहाधनी जनः सदा ।\nनिजान्वये च भास्करः कृपाकलाधरः सुखी ।\nनिलिम्पराजपूजिते सुतेन भूनयेन वा ।\nयुतो महाबली धराधिपेन्द्रसद्मपण्डितः",
+      "english_meaning": "Jupiter in Kautuka (curiosity): fond of arts, wealthy, like a Sun in his lineage, happy, and powerful.",
+      "hindi_meaning": "गुरु कौतुक में हो तो: कलाओं का प्रेमी, महाधनी, अपने कुल का दीपक (सूर्य), सुखी और महाबली होता है।"
+    },
+    {
+      "number": 98,
+      "text": "गुरौ निद्रागते यस्य मूर्खता सर्वकर्मणि ।\nदरिद्रतापरिक्रन्तं भवनें पुण्यवर्जितम्",
+      "english_meaning": "Jupiter in Nidra (sleep): foolishness in all deeds, poverty, and a house devoid of merits.",
+      "hindi_meaning": "गुरु निद्रा में हो तो: सभी कार्यों में मूर्खता, दरिद्रता और पुण्य से रहित घर होता है।"
+    },
+    {
+      "number": 99,
+      "text": "जनो बलीयानपिदन्तरोगी भृगौ महारोषसमन्वितः स्यात् ।\nधनेन हीनः शयनं प्रयाते वारांगनासंगमलम्पटश्च",
+      "english_meaning": "Venus in Shayana (sleep): powerful but diseased teeth, very angry, devoid of wealth, and lustful.",
+      "hindi_meaning": "शुक्र शयन में हो तो: बलवान होने पर भी दांतों का रोगी, बहुत क्रोधी, धनहीन और वारांगनाओं में आसक्त होता है।"
+    },
+    {
+      "number": 100,
+      "text": "यदि भवेदुशना उपवेशने नवमणिव्रजकाञ्चनभूषणैः ।\nसुखमजस्रमरिक्षय आदरादवनिपादपि मानसमुन्नतिः",
+      "english_meaning": "Venus in Upavesha (sitting): decorated with gems/gold, constant happiness, destruction of enemies, and honor from king.",
+      "hindi_meaning": "शुक्र उपवेशन में हो तो: रत्न, स्वर्ण और आभूषणों से युक्त, निरंतर सुख, शत्रुओं का नाश और राजा से सम्मान मिलता है।"
+    },
+    {
+      "number": 101,
+      "text": "नेत्रपाणिंगते लग्नगेहे कवौ सप्तमे मानभे यस्य तस्य ध्रुवम् ।\nनेत्रपाते निपातो धनानामलं चान्यभे वासशाला विशाला भवेत्",
+      "english_meaning": "Venus in Netrapani (eyes/hands): loss of wealth if in Lagna, 7th, or 10th. In other houses, large dwelling.",
+      "hindi_meaning": "शुक्र नेत्रपाणि में हो तो: लग्न, 7वें या 10वें में होने पर धन की हानि। अन्य भावों में होने पर विशाल निवास स्थान मिलता है।"
+    },
+    {
+      "number": 102,
+      "text": "स्वालये तुंगभे मित्रभे भार्गवे तुंगमातंगलीलाकलापी जनः ।\nभूपतेस्तुल्य एव प्रकाशं गते काव्यविद्याकलाकैतुकी गीतवित्",
+      "english_meaning": "Venus in Prakashana (radiating): like a king if in own/exaltation sign, fond of poetic arts and music.",
+      "hindi_meaning": "शुक्र प्रकाशन में हो तो: स्वराशि, उच्च या मित्र राशि में होने पर राजा के समान, काव्य और संगीत का प्रेमी होता है।"
+    },
+    {
+      "number": 103,
+      "text": "गमने जनने शुक्रे तस्य माता न जीवति ।\nआधियोगो वियोगश्च जनानामरिभीतितः",
+      "english_meaning": "Venus in Gamana (going): mother does not survive, mental anxiety, and fear from enemies.",
+      "hindi_meaning": "शुक्र गमन में हो तो: जातक की माता जीवित नहीं रहती, मानसिक चिंता और शत्रुओं से भय रहता है।"
+    },
+    {
+      "number": 104,
+      "text": "आगमनं भृगुपुत्रे गतवति वित्तेश्वरो मनुजः ।\nसत्तेर्थभ्रमशाली नित्योत्साही करांघ्रिरोगी च",
+      "english_meaning": "Venus in Agamana (coming): lord of wealth, fond of pilgrimage, always enthusiastic, but foot/hand diseases.",
+      "hindi_meaning": "शुक्र आगमन में हो तो: धन का स्वामी, तीर्थ यात्रा प्रेमी, सदा उत्साही, लेकिन हाथ-पैर के रोगों से युक्त होता है।"
+    },
+    {
+      "number": 105,
+      "text": "अनायासेनालं सपदि महसा याति सहसा ।\nप्रगल्भत्वंराज्ञः सदसि गुणविज्ञः किल कवौ ।\nसभायामायाते रिपुनिवहहन्ता धनपतेः ।\nसमत्वं वा दाता बलतुरगगन्ता नरवरः",
+      "english_meaning": "Venus in Sabha (assembly): wealth comes without effort, radiant in king's assembly, generous, and powerful.",
+      "hindi_meaning": "शुक्र सभा में हो तो: बिना प्रयास के धन की प्राप्ति, राजसभा में सम्मानित, उदार और शत्रुओं का नाश करने वाला होता है।"
+    },
+    {
+      "number": 106,
+      "text": "आगमे भार्गवे मागमो जन्मिनामर्थराशेररातेरतीव क्षतिः ।\nपुत्रपातो निपातो जनानामपिव्याधिभीतिः प्रियाभोगहानिर्भवेत्",
+      "english_meaning": "Venus in Agame (approaching): flow of wealth, but loss from enemies, disease fear, and loss of enjoyment.",
+      "hindi_meaning": "शुक्र आगम में हो तो: धन का आगमन, लेकिन शत्रुओं से हानि, रोगों का भय और सुख-भोग में कमी होती है।"
+    },
+    {
+      "number": 107,
+      "text": "क्षुधातुरो व्याधिनिपीडितः स्यादनेकधारातिभयर्द्दितश्च ।\nकवौ यदा भोजनगे युवत्या महाधनी पण्डितमण्डितश्च",
+      "english_meaning": "Venus in Bhojana (eating): hungry, diseased, fear from enemies. Very wealthy if in a benefic house.",
+      "hindi_meaning": "शुक्र भोजन में हो तो: भूखा, रोगों से पीड़ित और शत्रुओं से डरा हुआ। शुभ राशि में होने पर बहुत धनी और सम्मानित होता है।"
+    },
+    {
+      "number": 108,
+      "text": "काव्यविद्यानवद्या च हृद्या मतिः सर्वदा नृत्यलिप्सागते भार्गवे ।\nशंखवीणामृदंगादिगानध्वनिव्रातनैपुण्यमेतस्य वित्तोन्नतिः",
+      "english_meaning": "Venus in Nrityalipsa (dance): poetic arts, pure intelligence, skill in music, and growth of wealth.",
+      "hindi_meaning": "शुक्र नृत्यलिप्सा में हो तो: काव्य कला, निर्मल बुद्धि, संगीत (शंख, वीणा, मृदंग) में निपुणता और धन की उन्नति होती है।"
+    },
+    {
+      "number": 109,
+      "text": "कौतुकभवनं गतवति शुक्रे शक्रेशत्वं सदसि महत्त्वम् ।\nहृद्या विद्या भविति च पुंसः पदमा निवसति सदमारतः",
+      "english_meaning": "Venus in Kautuka (curiosity): like Indra (king), honor in assemblies, pure learning, and constant wealth.",
+      "hindi_meaning": "शुक्र कौतुक में हो तो: इन्द्र के समान ऐश्वर्य, सभा में महत्त्व, उत्तम विद्या और निरंतर धन प्राप्त होता है।"
+    },
+    {
+      "number": 110,
+      "text": "परसेवारतो नित्यं निद्रामुपगते कवौ ।\nपरनिन्दापरो वीरो वाचालो भ्रमते महीम्",
+      "english_meaning": "Venus in Nidra (sleep): constant service to others, criticizer of others, brave, talkative, and wandering.",
+      "hindi_meaning": "शुक्र निद्रा में हो तो: दूसरों की सेवा करने वाला, परनिन्दा में रत, वीर, वाचाल और पृथ्वी पर भ्रमण करने वाला होता है।"
+    },
+    {
+      "number": 111,
+      "text": "क्षुत्पिपासापरिक्रान्तो विश्रान्तः शयने शनौ ।\nवयसि प्रथमे रोगी ततो भाग्यवतां वरः",
+      "english_meaning": "Saturn in Shayana (sleep): hungry and thirsty, weary, diseased in childhood, then best among fortunate.",
+      "hindi_meaning": "शनि शयन में हो तो: भूख-प्यास से व्याकुल, थका हुआ, बचपन में रोगी लेकिन बाद में भाग्यवानों में श्रेष्ठ होता है।"
+    },
+    {
+      "number": 112,
+      "text": "भानओः सुते चेदुपवेशनस्थे करालकारातिजनानुतप्ताः ।\nअपायुशाली खलु दद्रुमाली नरोभिमानी नृपदण्डयुक्तः",
+      "english_meaning": "Saturn in Upavesha (sitting): troubled by enemies, short-lived, skin diseases, and punished by king.",
+      "hindi_meaning": "शनि उपवेशन में हो तो: शत्रुओं से पीड़ित, अल्पायु, दाद (Skin disease) का रोगी और राजा द्वारा दण्डित होता है।"
+    },
+    {
+      "number": 113,
+      "text": "नयनपाणिगते रविनन्दने परमया रमया रमयायुतः ।\nनृपतितो हिततो महितोषकृद्बहुकलाकलितो विमलोक्तिकृत्",
+      "english_meaning": "Saturn in Netrapani (eyes/hands): full of wealth, helpful, honored, speaker of pure words, and skill in arts.",
+      "hindi_meaning": "शनि नेत्रपाणि में हो तो: लक्ष्मी से युक्त, परोपकारी, राजा से सम्मानित, निर्मल वाणी और कलाओं का ज्ञाता होता है।"
+    },
+    {
+      "number": 114,
+      "text": "नानागुणप्रामधनाधिशाली सदा नरो बुद्धिविनोदमाली ।\nप्रकाशने भानुसुते सुभानुः कृपानुतक्तो हरपादभक्तः",
+      "english_meaning": "Saturn in Prakashana (radiating): radiant qualities, joyful mind, kind, and devotee of Lord Shiva.",
+      "hindi_meaning": "शनि प्रकाशन में हो तो: गुणों का प्रकाश, प्रसन्न मन, दयालु और भगवान शिव का भक्त होता है।"
+    },
+    {
+      "number": 115,
+      "text": "महाधनी नन्दननन्दितः स्यादपायकारी रिपुभूमिहारी ।\nगमे शनौ पण्डितराजाभावं धरापतेरायातने प्रयाति",
+      "english_meaning": "Saturn in Gamana (going): very wealthy, happy with sons, stealer of enemy's land, and a king of scholars.",
+      "hindi_meaning": "शनि गमन में हो तो: महाधनी, पुत्रों से सुखी, शत्रुओं की भूमि हरने वाला और पण्डितों में राजा के समान होता है।"
+    },
+    {
+      "number": 116,
+      "text": "आगमने गर्दभपदयुक्तः पुत्रकलत्रसुखेन विमुक्तः ।\nभानुसुते भ्रमते भुवि नित्यं दीनमना विजनाश्रयभावम्",
+      "english_meaning": "Saturn in Agamana (coming): like a donkey, devoid of happiness from wife/sons, and wandering miserably.",
+      "hindi_meaning": "शनि आगमन में हो तो: गधे के समान (कठोर परिश्रमी/नीच), स्त्री-पुत्र के सुख से हीन और दीन मन से भटकने वाला होता है।"
+    },
+    {
+      "number": 117,
+      "text": "रत्नावलीकाञ्चनमौक्तिकानां व्रातेन नित्यं व्रजति प्रमोदम् ।\nसभागते भानुसुते नितान्तं नयेन पूर्णो मनुजो महौजाः",
+      "english_meaning": "Saturn in Sabha (assembly): joy from pearls/gold/gems, full of justice, and powerful.",
+      "hindi_meaning": "शनि सभा में हो तो: रत्न, स्वर्ण और मोतियों से प्रसन्न, न्यायपूर्ण और महाबली होता है।"
+    },
+    {
+      "number": 118,
+      "text": "आगमे गदसमागमो नृणामब्जबन्धुतनये यदा तदा ।\nमन्दमेव गमनं धरापतेर्याचनाविरहिता मतिः सदा",
+      "english_meaning": "Saturn in Agame (approaching): diseases come to humans, slow walk, and mind devoid of requests (self-respecting).",
+      "hindi_meaning": "शनि आगम में हो तो: रोगों का आगमन, धीमी गति से चलने वाला और याचना से रहित (स्वाभिमानी) बुद्धि वाला होता है।"
+    },
+    {
+      "number": 119,
+      "text": "संगते जनुषि भानुनन्दने भोजनं भवति भोजनं रसैः ।\nसंयुतं नयनमन्दता तता मोहतापपरितापिता मतिः",
+      "english_meaning": "Saturn in Bhojana (eating): gets food with various tastes, but eye disease and mental anxiety.",
+      "hindi_meaning": "शनि भोजन में हो तो: अनेक रसों वाला भोजन मिलता है, लेकिन आँखों में कमजोरी और मोह-ताप से घिरी बुद्धि होती है।"
+    },
+    {
+      "number": 120,
+      "text": "नृत्यलिप्सागते मन्दे धर्मात्मा वित्तपूरितः ।\nराजपूज्यो नरो धीरो महावीरो रणाङ्गणे",
+      "english_meaning": "Saturn in Nrityalipsa (dance): religious, full of wealth, honored by king, and a hero in battle.",
+      "hindi_meaning": "शनि नृत्यलिप्सा में हो तो: धर्मात्मा, धन से पूर्ण, राजा द्वारा पूज्य, धीर और युद्ध के मैदान में महावीर होता है।"
+    },
+    {
+      "number": 121,
+      "text": "भवति कौतकभावमुपागते रविसुते वसुधावसुपूरितः ।\nअतिसुखी सुमुखीसुखपूरितः कवितयामलया कलयानरः",
+      "english_meaning": "Saturn in Kautuka (curiosity): full of wealth and land, very happy with a beautiful wife, and a scholar of pure poetry.",
+      "hindi_meaning": "शनि कौतुक में हो तो: धन और भूमि से पूर्ण, सुन्दर स्त्री के साथ अति सुखी और निर्मल काव्य का ज्ञाता होता है।"
+    },
+    {
+      "number": 122,
+      "text": "निद्रागते वासरनाथपुत्रे धनी सदा चारुगुणैरुपेतः ।\nपराक्रमी चण्डविपक्षहन्ता सुवारकान्तारतिरीतिविज्ञः",
+      "english_meaning": "Saturn in Nidra (sleep): always wealthy, endowed with good qualities, brave, killer of enemies, and skill in love.",
+      "hindi_meaning": "शनि निद्रा में हो तो: सदा धनी, श्रेष्ठ गुणों से युक्त, प्रतापी, शत्रुओं का हन्ता और रति-रीति का ज्ञाता होता है।"
+    },
+    {
+      "number": 123,
+      "text": "यदागमो जन्मनि यस्य राहौ क्लेशाधिकत्वं शयनं प्रयाते ।\nवृषेऽथ युग्मेऽपि च कन्यकायामजे समाजो धनधान्यराशेः",
+      "english_meaning": "Rahu in Shayana (sleep): many troubles if in other signs. In Taurus, Gemini, Virgo, or Aries: heap of wealth/grain.",
+      "hindi_meaning": "राहु शयन में हो तो: अन्य राशियों में बहुत कष्ट। वृष, मिथुन, कन्या या मेष में होने पर धन-धान्य की राशि (ढेर) मिलती है।"
+    },
+    {
+      "number": 124,
+      "text": "उपवेशनमिह गतवति राहौ दद्रुगदेन जनः परितप्तः ।\nराजसमाजयुतो बहुमानी वित्तसुखेन सदा रहितः स्यात्",
+      "english_meaning": "Rahu in Upavesha (sitting): troubled by skin disease (Dadru), honored in assembly, but devoid of wealth and happiness.",
+      "hindi_meaning": "राहु उपवेशन में हो तो: दाद (Skin disease) से पीड़ित, सभा में सम्मानित, लेकिन धन और सुख से सदा रहित होता है।"
+    },
+    {
+      "number": 125,
+      "text": "नेत्रपाणावगौ नेत्रे भवतो रोगपीडिते ।\nदुष्टव्यालारिचौराणां भयं तस्य धनक्षयः",
+      "english_meaning": "Rahu in Netrapani (eyes/hands): eye diseases, fear from snakes/enemies/thieves, and loss of wealth.",
+      "hindi_meaning": "राहु नेत्रपाणि में हो तो: आँखों के रोग, दुष्ट सर्पों, शत्रुओं और चोरों का भय और धन का नाश होता है।"
+    },
+    {
+      "number": 126,
+      "text": "प्रकाशने शुभासने स्थितिः कृतिः शुभा नृणाम् ।\nधनोन्नतिर्गुणोन्नतिः सदा विदामगाविह ।\nधराधिपाधिकारिता यशोलता तता भवे ।\nन्नवीननीरदाकृतिर्विदेशतो महोन्नतिः",
+      "english_meaning": "Rahu in Prakashana (radiating): good position/deeds, growth of wealth/virtues, authority from king, and fame.",
+      "hindi_meaning": "राहु प्रकाशन में हो तो: उत्तम स्थिति और शुभ कर्म, धन-गुणों की उन्नति, राजा से अधिकार और यश प्राप्त होता है।"
+    },
+    {
+      "number": 127,
+      "text": "गमने च यदा राहौ बहुसन्तानवान्नरः ।\nपण्डितो धनवान् दाता राजपूज्यो नरो भवेत्",
+      "english_meaning": "Rahu in Gamana (going): many children, a scholar, wealthy, generous, and respected by the king.",
+      "hindi_meaning": "राहु गमन में हो तो: बहुत संतानें, पण्डित, धनवान, दानी और राजा द्वारा पूज्य होता है।"
+    },
+    {
+      "number": 128,
+      "text": "राहावागमने क्रोधी सदा धीधनवर्जितः ।\nकुटिलः कृपणः कामी नरो भवति सर्वथा",
+      "english_meaning": "Rahu in Agamana (coming): angry, always devoid of intelligence and wealth, crooked, miserly, and lustful.",
+      "hindi_meaning": "राहु आगमन में हो तो: क्रोधी, बुद्धि और धन से सदा हीन, कुटिल, कंजूस और कामी होता है।"
+    },
+    {
+      "number": 129,
+      "text": "सभागतो यदा राहुः पण्डितः कृपणो नरः ।\nनानागुणपरिक्रान्तो वित्त सौख्यसमन्वितः",
+      "english_meaning": "Rahu in Sabha (assembly): a scholar but miserly, full of many qualities, and endowed with wealth/happiness.",
+      "hindi_meaning": "राहु सभा में हो तो: पण्डित लेकिन कंजूस, अनेक गुणों से युक्त और धन-सुख से सम्पन्न होता है।"
+    },
+    {
+      "number": 130,
+      "text": "चेदगावागमं यस्य याते तदा व्याकुलत्वं सदारातिभीत्या भयम् ।\nमहद्बन्धुवादो जनानां निपातो भवेद्वित्तहानिः शठत्वं कृशत्वम्",
+      "english_meaning": "Rahu in Agame (approaching): restless, constant fear from enemies, quarrels with kin, loss of wealth, and emaciation.",
+      "hindi_meaning": "राहु आगम में हो तो: व्याकुलता, शत्रुओं का निरंतर भय, परिजनों से विवाद, धन की हानि और शरीर का सूखना होता है।"
+    },
+    {
+      "number": 131,
+      "text": "भोजने भोजनेनालं विकलो मनुजो भवेत् ।\nमन्दबुद्धिः क्रियाभीरुः स्त्रीपुत्रसुखवर्जितः",
+      "english_meaning": "Rahu in Bhojana (eating): restless even with food, dull-witted, timid in action, and devoid of family happiness.",
+      "hindi_meaning": "राहु भोजन में हो तो: भोजन मिलने पर भी व्याकुल, मन्दबुद्धि, कर्म करने में डरपोक और स्त्री-पुत्र के सुख से हीन होता है।"
+    },
+    {
+      "number": 132,
+      "text": "नृत्यलिप्सागते राहौ महाव्याधिविवर्द्धनम् ।\nनेत्ररोगी रिपोर्भीतिर्धनधर्मक्षयो नृणाम्",
+      "english_meaning": "Rahu in Nrityalipsa (dance): growth of great diseases, eye diseases, fear from enemies, and loss of wealth/religion.",
+      "hindi_meaning": "राहु नृत्यलिप्सा में हो तो: महारोगों की वृद्धि, आँखों के रोग, शत्रुओं का भय और धन-धर्म का नाश होता है।"
+    },
+    {
+      "number": 133,
+      "text": "कौतुके च यदा राहौ स्थानहीनो नरो भवेत् ।\nपरदाररतो नित्यं परवित्तापहारकः",
+      "english_meaning": "Rahu in Kautuka (curiosity): devoid of fixed place, interested in others' wives, and stealer of others' wealth.",
+      "hindi_meaning": "राहु कौतुक में हो तो: स्थान से हीन (भटकने वाला), पराई स्त्री में रत और दूसरों का धन हरने वाला होता है।"
+    },
+    {
+      "number": 134,
+      "text": "निद्रावस्थां गते राहौ गुणग्रामयुतो नरः ।\nकान्तासन्तानवान् धीरो गर्वितो बहुवित्तवान्",
+      "english_meaning": "Rahu in Nidra (sleep): endowed with many qualities, has wife and children, brave, proud, and very wealthy.",
+      "hindi_meaning": "राहु निद्रा में हो तो: अनेक गुणों से युक्त, स्त्री-संतान वाला, धीर, अभिमानी और बहुत धनवान होता है।"
+    },
+    {
+      "number": 135,
+      "text": "मेषे वृषेऽथ वा युग्मे कन्ययां शयनं गते ।\nकेतौ धनसमृद्धिः स्यादन्यभे रोगवर्धनम्",
+      "english_meaning": "Ketu in Shayana (sleep): prosperity in Aries, Taurus, Gemini, or Virgo. In other signs, growth of diseases.",
+      "hindi_meaning": "केतु शयन में हो तो: मेष, वृष, मिथुन या कन्या में धन की समृद्धि। अन्य राशियों में होने पर रोगों की वृद्धि होती है।"
+    },
+    {
+      "number": 136,
+      "text": "उपवेशं गतौ केतौ दद्रुरोगविवर्द्धनम् ।\nअरिवातनृपव्यालचैरशंका समन्ततः",
+      "english_meaning": "Ketu in Upavesha (sitting): growth of skin diseases, fear from enemies, kings, snakes, and thieves from all sides.",
+      "hindi_meaning": "केतु उपवेशन में हो तो: दाद आदि रोगों की वृद्धि, शत्रुओं, राजाओं, सर्पों और चोरों का चारों ओर से भय रहता है।"
+    },
+    {
+      "number": 137,
+      "text": "नेत्रपाणिं गते केतौ नेत्ररोगः प्रजायते ।\nदुष्टसर्पादिभीतिश्च रिपुराजकुलादपि",
+      "english_meaning": "Ketu in Netrapani (eyes/hands): eye diseases, fear from snakes, enemies, and king's family.",
+      "hindi_meaning": "केतु नेत्रपाणि में हो तो: आँखों के रोग, दुष्ट सर्पों और शत्रुओं का भय, और राजकुल से भी पीड़ा होती है।"
+    },
+    {
+      "number": 138,
+      "text": "केतौ प्रकाशने संज्ञे धनवान् धार्मिकः सदा ।\nनित्यं प्रवासी चोत्साही सात्त्विको राजसेवकः",
+      "english_meaning": "Ketu in Prakashana (radiating): wealthy, always religious, traveling, enthusiastic, and a servant of the king.",
+      "hindi_meaning": "केतु प्रकाशन में हो तो: धनवान, सदा धार्मिक, परदेश में रहने वाला, उत्साही और राजा का सेवक होता है।"
+    },
+    {
+      "number": 139,
+      "text": "गमेच्छायां भवेत्केतुर्बहुपुत्रो महाधनः ।\nपण्डितो गुणवान् दाता जायते च नरोत्तमः",
+      "english_meaning": "Ketu in Gamana (going): many sons, great wealth, a scholar, virtuous, generous, and best among men.",
+      "hindi_meaning": "केतु गमन में हो तो: बहुत पुत्र, अपार धन, पण्डित, गुणवान, दानी और मनुष्यों में श्रेष्ठ होता है।"
+    },
+    {
+      "number": 140,
+      "text": "आगमने च यदा केतुर्नानारोगो धनक्षयः ।\nदन्तघाती महारोगी पिशुनः परनिन्दकः",
+      "english_meaning": "Ketu in Agamana (coming): many diseases, loss of wealth, dental troubles, a rogue, and criticizer of others.",
+      "hindi_meaning": "केतु आगमन में हो तो: अनेक रोग, धन की हानि, दाँतों की पीड़ा, धूर्त और दूसरों की निन्दा करने वाला होता है।"
+    },
+    {
+      "number": 141,
+      "text": "सभावस्थां गते केतौ वाचालो बहुगर्वितः ।\nकृपणो लम्पटश्चैव धूर्तविद्द्याविशारदः",
+      "english_meaning": "Ketu in Sabha (assembly): talkative, very proud, miserly, lustful, and a rogue skilled in false learning.",
+      "hindi_meaning": "केतु सभा में हो तो: बहुत बोलने वाला, अभिमानी, कंजूस, कामी और झूठी विद्याओं में कुशल धूर्त होता है।"
+    },
+    {
+      "number": 142,
+      "text": "यदागमे भवेत्केतुः केतुः स्यात्पापकर्मणाम् ।\nबन्धुवादरतो दुष्टो रिपुरोगनिपीडितः",
+      "english_meaning": "Ketu in Agama (approaching): performer of sins, crooked, performing bad deeds, and troubled by enemies/diseases.",
+      "hindi_meaning": "केतु आगम में हो तो: पापकर्म करने वाला, कुटिल, दुष्ट कार्य करने वाला और शत्रुओं-रोगों से पीड़ित होता है।"
+    },
+    {
+      "number": 143,
+      "text": "भोजने तु जनो नित्यं क्षुधया परिपीडितः ।\nदरिद्रो रोगसंतप्तः केतौ भ्रामति मेदिनीम्",
+      "english_meaning": "Ketu in Bhojana (eating): always troubled by hunger, poor, distressed by diseases, and wandering the earth.",
+      "hindi_meaning": "केतु भोजन में हो तो: भूख से व्याकुल, दरिद्र, रोगों से संतप्त और पृथ्वी पर भटकने वाला होता है।"
+    },
+    {
+      "number": 144,
+      "text": "नृत्यलिप्साङ्गते केतौ व्याधिना विकलो भवेत् ।\nबुद्बुदाक्षो दुराघर्षो धूर्तोऽनर्थकरो नरः",
+      "english_meaning": "Ketu in Nrityalipsa (dance): restless due to disease, bubonic eyes, rogue, and cause of distress.",
+      "hindi_meaning": "केतु नृत्यलिप्सा में हो तो: रोगों से व्याकुल, बुद्बुद जैसी आँखों वाला, धूर्त और अनर्थ करने वाला होता है।"
+    },
+    {
+      "number": 145,
+      "text": "कौतुकी कौतुके केतौ नटवामारतिप्रियः ।\nस्थानभ्रष्टो दुराचारी दरिद्रो भ्रमते महीम्",
+      "english_meaning": "Ketu in Kautuka (curiosity): fond of actors/dancers, fallen from place, bad conduct, poor, and wandering.",
+      "hindi_meaning": "केतु कौतुक में हो तो: नटों-नर्तकियों का प्रेमी, स्थान से भ्रष्ट, दुराचारी और दरिद्र होकर भटकता है।"
+    },
+    {
+      "number": 146,
+      "text": "निद्रावस्थां गते केतौ धनधान्यसुखं महत् ।\nनानागुणविनोदेन कालो गच्छति जन्मिनाम्",
+      "english_meaning": "Ketu in Nidra (sleep): great happiness from wealth and grain, time passes with many qualities and amusements.",
+      "hindi_meaning": "केतु निद्रा में हो तो: धन-धान्य का महान सुख, और अनेक गुणों व विनोदों के साथ समय व्यतीत होता है।"
+    },
+    {
+      "number": 147,
+      "text": "शयने द्विज भावेषु यत्र तिष्ठन्ति सद्ग्रहाः ।\nनित्यं तस्य शुभज्ञानं निर्विशंकं वदेत् बुधः",
+      "english_meaning": "Shayana etc. states: if benefics are there in the houses, wise men should predict good results without doubt.",
+      "hindi_meaning": "शयन आदि अवस्थाओं में यदि भावों में शुभ ग्रह स्थित हों, तो विद्वान को बिना किसी संशय के शुभ फल कहना चाहिए।"
+    },
+    {
+      "number": 148,
+      "text": "भोजने येषु भावेषु पापास्तिष्ठन्ति सर्वथा ।\nतदा सर्वविनाशेऽपि नाऽत्र कार्या विचारणा",
+      "english_meaning": "Bhojana etc. states: if malefics are there, destruction of all results should be understood.",
+      "hindi_meaning": "भोजन आदि अवस्थाओं में यदि भावों में पाप ग्रह स्थित हों, तो सभी फलों का विनाश समझना चाहिए।"
+    },
+    {
+      "number": 149,
+      "text": "निद्रायां च यदा पापो जायास्थाने शुभं वदेत् ।\nयदि पापग्रहैर्दृष्टो न शुभं च कदाचन",
+      "english_meaning": "Nidra: if malefic is in the house of wife (7th), say good result. If aspected by malefics, never good.",
+      "hindi_meaning": "निद्रा अवस्था में यदि पाप ग्रह 7वें (स्त्री) भाव में हो तो शुभ कहें। यदि पापों से ही दृष्ट हो तो कभी शुभ नहीं होता।"
+    },
+    {
+      "number": 150,
+      "text": "सुतस्थाने स्थितः पापो निद्रायां शयनेऽपि वा ।\nतदा शुभं वदेत्तस्य नाऽत्र कार्या विचारणा",
+      "english_meaning": "Suta (5th) house: if malefic is there in Nidra or Shayana state, then say good results without doubt.",
+      "hindi_meaning": "पंचम भाव (संतान) में यदि पाप ग्रह निद्रा या शयन अवस्था में हो, तो शुभ फल कहना चाहिए।"
+    },
+    {
+      "number": 151,
+      "text": "मृत्युस्थानस्थितः पापो निद्रायां शयनेऽपि वा ।\nतदा तस्याऽपमृत्युः स्याद्राजतः परतस्तथा",
+      "english_meaning": "Death (8th) house: if malefic is there in Nidra or Shayana, it gives accidental death from king or others.",
+      "hindi_meaning": "आठवें भाव (मृत्यु) में यदि पाप ग्रह निद्रा या शयन में हो, तो राजा या दूसरों से अकाल मृत्यु होती है।"
+    },
+    {
+      "number": 152,
+      "text": "शुभग्रहैर्यदा युक्तः शुभैर्वा यदि वीक्षितः ।\nतदा तु मरणं तस्य गङ्गादौ च विशेषतः",
+      "english_meaning": "If associated with or aspected by benefics, then death occurs in a holy place like the Ganges.",
+      "hindi_meaning": "यदि वह शुभ ग्रहों से युक्त या दृष्ट हो, तो गंगा आदि पवित्र तीर्थों में मृत्यु होती है।"
+    },
+    {
+      "number": 153,
+      "text": "कर्मस्थाने यदा पापः शयने भोजनेऽपि वा ।\nतदा कर्मविपाकः स्यान्नानादुःखप्रदायकः",
+      "english_meaning": "10th house: if malefic is in Shayana or Bhojana, it gives fruits of actions as many sorrows.",
+      "hindi_meaning": "दशम भाव (कर्म) में यदि पाप ग्रह शयन या भोजन में हो, तो कर्मों के फल स्वरूप अनेक दुःख प्राप्त होते हैं।"
+    },
+    {
+      "number": 154,
+      "text": "दशमस्थो निशानाथः कौतुके च प्रकाशने ।\nतदैव राजयोगः स्यान्निर्विशकं द्विजोत्तम",
+      "english_meaning": "10th house: if Moon is in Kautuka or Prakashana state, it gives Raja Yoga (kingship) without doubt.",
+      "hindi_meaning": "दशम भाव में यदि चन्द्रमा कौतुक या प्रकाशन अवस्था में हो, तो निश्चित ही राजयोग होता है।"
+    },
+    {
+      "number": 155,
+      "text": "बलाऽबलविचारेण ज्ञातव्यञ्च शुभाऽशुभम् ।\nएवं क्रमेण बोद्धव्यं सर्वाभावेषु बुद्धिमन्",
+      "english_meaning": "Deciding good/bad based on strength/weakness: wise men should understand this for all houses.",
+      "hindi_meaning": "बल-अबल के विचार से शुभ-अशुभ का निर्णय करना चाहिए। बुद्धिमानों को इसी क्रम से सभी भावों में समझना चाहिए।"
+    }
+  ]
+}

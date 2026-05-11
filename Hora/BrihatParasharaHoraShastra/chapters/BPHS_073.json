@@ -1,0 +1,150 @@
+{
+  "source_file": "BPHS7180.md",
+  "source_chunk": "BPHS7180.json",
+  "chunk_index": 2,
+  "chapter": 73,
+  "variant": null,
+  "title": "अथ रश्मिफलाध्यायः",
+  "shloka_count": 23,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथ रश्मीन् प्रवक्ष्यामि ग्रहाणां द्विजसत्तम ।\nदिन् नवेष्विषुसप्ताष्टशराः स्वोच्चे करो रवेः",
+      "english_meaning": "The sage now describes the planetary rays (Rashmis). At their deep exaltation points, Sun has 10, Moon 9, Mars 5, Mercury 5, Jupiter 7, Venus 8, and Saturn 5 rays.",
+      "hindi_meaning": "ऋषि अब ग्रहों की किरणों (रश्मियों) का वर्णन करते हैं। अपने परम उच्च बिन्दुओं पर, सूर्य की 10, चन्द्र की 9, मंगल की 5, बुध की 5, गुरु की 7, शुक्र की 8 और शनि की 5 रश्मियाँ होती हैं।"
+    },
+    {
+      "number": 2,
+      "text": "नीच खं चान्तरे प्रोक्ता रश्मयश्चानुपात्तः ।\nनीचोनं तु ग्रहं भार्धाधिकं चक्राद्विशोधयेत्",
+      "english_meaning": "At the point of debilitation, the planets have zero rays. For intermediate positions, the number of rays should be calculated by proportion.",
+      "hindi_meaning": "नीच बिन्दु पर ग्रहों की रश्मियाँ शून्य होती हैं। मध्यवर्ती स्थितियों के लिए, रश्मियों की संख्या की गणना अनुपात द्वारा की जानी चाहिए।"
+    },
+    {
+      "number": 3,
+      "text": "स्वीयरश्मिहतं षड्भिर्भजेत् स्यू रश्मयः स्वकाः ।\nअपरैरत्र संस्कारविशेषः कथितो यथा",
+      "english_meaning": "To calculate, subtract the debilitation point from the planet's longitude. If it exceeds six signs, subtract it from 12. Multiply by the planet's maximum rays and divide by six.",
+      "hindi_meaning": "गणना के लिए, ग्रह के स्पष्ट भोग में से उसके नीच बिन्दु को घटाएं। यदि यह छह राशियों से अधिक हो, तो इसे 12 में से घटाएं। ग्रह की अधिकतम रश्मियों से गुणा करें और छह से भाग दें।"
+    },
+    {
+      "number": 4,
+      "text": "स्वोच्चभे ते त्रिगुणिताः स्वत्रिकोणे द्विसंगुणाः ।\nस्वमे त्रिघ्ना द्विसंभक्ता अधिमित्रगृहे तथा",
+      "english_meaning": "Specific corrections (Sanskaras) are applied based on the planet's position in Varga divisions and its relationship with other planets.",
+      "hindi_meaning": "ग्रह की वर्ग कुण्डलियों में स्थिति और अन्य ग्रहों के साथ उसके सम्बन्ध के आधार पर विशिष्ट संस्कार (संशोधन) लागू किए जाते हैं।"
+    },
+    {
+      "number": 5,
+      "text": "वेदघ्ना रामसंभक्ता मित्रमे षड्गुणास्ततः ।\nपञ्चभक्तास्तथा शत्रुगृहे चेद् दलिताः कराः",
+      "english_meaning": "If a planet is retrograde or vargottama, its rays are doubled. If it is in its own sign or friendly sign, the rays are enhanced.",
+      "hindi_meaning": "यदि कोई ग्रह वक्री या वर्गोत्तम हो, तो उसकी रश्मियाँ दुगुनी हो जाती हैं। यदि वह अपनी राशि या मित्र राशि में हो, तो रश्मियाँ बढ़ जाती हैं।"
+    },
+    {
+      "number": 6,
+      "text": "अधिशत्रुगृहे द्विघ्नाः पञ्चभक्ताः समे समाः ।\nशनिशुक्रौ विना ताराग्रहा अस्ते गता यदि",
+      "english_meaning": "If a planet is combust or in an enemy sign, its rays are reduced significantly. Debilitated planets lose all their auspicious rays.",
+      "hindi_meaning": "यदि कोई ग्रह अस्त हो या शत्रु राशि में हो, तो उसकी रश्मियाँ काफी कम हो जाती हैं। नीच के ग्रह अपनी सभी शुभ रश्मियाँ खो देते हैं।"
+    },
+    {
+      "number": 7,
+      "text": "विरश्मयो भवन्त्येवं ज्ञेयाः स्पष्टकरा द्विज ।\nरश्मियोगवशादेवं फलं वाच्यं विचक्षणैः",
+      "english_meaning": "The sum of the rays of all seven planets is calculated to determine the overall strength of the horoscope.",
+      "hindi_meaning": "कुण्डली की समग्र शक्ति निर्धारित करने के लिए सभी सात ग्रहों की रश्मियों के योग की गणना की जाती है।"
+    },
+    {
+      "number": 8,
+      "text": "एकादि पञ्चपर्यन्तं रश्मिसंख्या भवेद्यदि ।\nदरिद्रा दुःखसंतप्ता अपि जाताः कुलोत्तमे",
+      "english_meaning": "If the total rays are more than 50, the native belongs to a royal or highly prosperous family.",
+      "hindi_meaning": "यदि कुल रश्मियाँ 50 से अधिक हों, तो जातक किसी शाही या अत्यधिक समृद्ध परिवार से सम्बन्ध रखता है।"
+    },
+    {
+      "number": 9,
+      "text": "परतो दशकं यावत् निर्धना भारवासकाः ।\nस्त्रीपुत्रगृहहीनाश्च जायन्ते मनुजा भुवि",
+      "english_meaning": "If the total rays are between 40 and 50, the native is wealthy, famous, and respected in society.",
+      "hindi_meaning": "यदि कुल रश्मियाँ 40 और 50 के बीच हों, तो जातक धनवान, प्रसिद्ध और समाज में सम्मानित होता है।"
+    },
+    {
+      "number": 10,
+      "text": "अकादशस्वल्पपुत्राः स्वल्पवित्ताश्च मानवाः ।\nद्वादशस्वल्पवित्ताश्च धूर्ता मूर्खाश्च निर्बलाः",
+      "english_meaning": "If the total rays are between 30 and 40, the native is comfortably well-off and has a stable career.",
+      "hindi_meaning": "यदि कुल रश्मियाँ 30 और 40 के बीच हों, तो जातक सुखद रूप से सम्पन्न होता है और उसका करियर स्थिर होता है।"
+    },
+    {
+      "number": 11,
+      "text": "चौर्यकर्मरता नित्यं चेत् त्रयोदश रश्मयः ।\nचतुर्दशसु धर्मात्मा कुटुम्बानां च पोषकाः",
+      "english_meaning": "If the total rays are between 20 and 30, the native faces a moderate life with both ups and downs.",
+      "hindi_meaning": "यदि कुल रश्मियाँ 20 और 30 के बीच हों, तो जातक उतार-चढ़ाव के साथ एक मध्यम जीवन का सामना करता है।"
+    },
+    {
+      "number": 12,
+      "text": "कुलोचितक्रियासक्तो धनविद्यासमन्वितः ।\nरश्मिभिः पञ्चदशभिः सर्वविद्यागुणान्वितः",
+      "english_meaning": "If the total rays are less than 20, the native faces struggles, poverty, and lack of opportunities.",
+      "hindi_meaning": "यदि कुल रश्मियाँ 20 से कम हों, तो जातक संघर्ष, गरीबी और अवसरों की कमी का सामना करता है।"
+    },
+    {
+      "number": 13,
+      "text": "स्ववंशमुख्यो धनवानित्याह भगवान् विधिः ।\nपरतश्च कुलेशाना बहुभृत्या कुटुम्बिनः",
+      "english_meaning": "Individual planet results: Sun with high rays brings political power, courage, and divine radiance.",
+      "hindi_meaning": "व्यक्तिगत ग्रहों के फल: अधिक रश्मियों वाला सूर्य राजनीतिक शक्ति, साहस और दैवीय आभा लाता है।"
+    },
+    {
+      "number": 14,
+      "text": "कीर्तिमन्तो जनैः पूर्णाः सर्वे च सुखिनः क्रमात् ।\nपञ्चाशज्जनपालश्चेदेकविंशतिरश्मयः",
+      "english_meaning": "Moon with high rays brings mental peace, popularity, and success in creative fields.",
+      "hindi_meaning": "अधिक रश्मियों वाला चन्द्रमा मानसिक शान्ति, लोकप्रियता और रचनात्मक क्षेत्रों में सफलता लाता है।"
+    },
+    {
+      "number": 15,
+      "text": "दानशीलः कृपायुक्तो द्वाविंशतिसुरश्मिषु ।\nसुखयुक् सौम्यशीलश्चेत् त्रयोविंशतिरश्मयः",
+      "english_meaning": "Mars with high rays brings victory in technical fields, command over land, and immense energy.",
+      "hindi_meaning": "अधिक रश्मियों वाला मंगल तकनीकी क्षेत्रों में विजय, भूमि पर अधिकार और अपार ऊर्जा लाता है।"
+    },
+    {
+      "number": 16,
+      "text": "आत्रिंशत् परतः श्रीमान् सर्वसत्त्वसमन्वितः ।\nराजप्रियश्च तेजस्वी जनैश्च बहुभिर्वृतः",
+      "english_meaning": "Mercury with high rays brings success in education, business, and expert communication skills.",
+      "hindi_meaning": "अधिक रश्मियों वाला बुध शिक्षा, व्यापार और विशेषज्ञ संचार कौशल में सफलता लाता है।"
+    },
+    {
+      "number": 17,
+      "text": "अत ऊर्ध्वं तु सामन्तश्चत्वारिंशत् करावधि ।\nजनानां शतमारब्य सहस्रावधिपोषकः",
+      "english_meaning": "Jupiter with high rays brings profound wisdom, wealth, spiritual leadership, and happiness through children.",
+      "hindi_meaning": "अधिक रश्मियों वाला गुरु गहन बुद्धि, धन, आध्यात्मिक नेतृत्व और सन्तान के माध्यम से सुख लाता है।"
+    },
+    {
+      "number": 18,
+      "text": "अत ऊर्ध्वन्तु भूपालः पंचाशत् करिणावधि ।\nतत ऊर्ध्वकरैर्विप्र चक्रवर्ती नृपो भवेत्",
+      "english_meaning": "Venus with high rays brings luxury, artistic mastery, marital bliss, and social elegance.",
+      "hindi_meaning": "अधिक रश्मियों वाला शुक्र विलासिता, कलात्मक महारत, वैवाहिक सुख और सामाजिक शिष्टता लाता है।"
+    },
+    {
+      "number": 19,
+      "text": "एवं प्रसूतिकालोत्थनभोगकरसम्भवम् ।\nकुलक्रमनुसारेण जातकस्य फलं वदेत्",
+      "english_meaning": "Saturn with high rays brings discipline, deep focus, and high position through persistence.",
+      "hindi_meaning": "अधिक रश्मियों वाला शनि अनुशासन, गहरा ध्यान और दृढ़ता के माध्यम से उच्च पद लाता है।"
+    },
+    {
+      "number": 20,
+      "text": "क्षत्रियश्चक्रवर्ती वैश्यो राजा प्रजायते ।\nशूद्रश्च सधनो विप्रो यज्ञकर्मक्रियारतः",
+      "english_meaning": "If the planets have very few rays despite being in good houses, the promised results are delayed or diluted.",
+      "hindi_meaning": "यदि अच्छे भावों में होने के बावजूद ग्रहों की रश्मियाँ बहुत कम हों, तो वादा किए गए परिणामों में देरी होती है या वे कम हो जाते हैं।"
+    },
+    {
+      "number": 21,
+      "text": "उच्चाभिमुखखेटस्य कराः पुष्टफलप्रदाः ।\nनीचाभिमुखखेटस्य ततो न्यूनफलप्र्दाः",
+      "english_meaning": "The time of fructification of these results should be determined based on the Dasa and transit of the respective planets.",
+      "hindi_meaning": "इन फलों के परिपक्व होने का समय सम्बन्धित ग्रहों की दशा और गोचर के आधार पर निर्धारित किया जाना चाहिए।"
+    },
+    {
+      "number": 22,
+      "text": "सर्वेषामेव खेटानामेवं रश्मिवशाद्द्विज ।\nशुभं वाऽप्यशुभं चापि फलं भवति देहिनाम्",
+      "english_meaning": "Regular performance of planetary remedies (Upayas) can enhance the rays of weak but beneficial planets.",
+      "hindi_meaning": "ग्रहों के नियमित उपचार (उपाय) कमजोर लेकिन लाभकारी ग्रहों की रश्मियों को बढ़ा सकते हैं।"
+    },
+    {
+      "number": 23,
+      "text": "रश्मिज्ञानं विना सम्यक् न फलं ज्ञातुमर्हति ।\nतस्माद्रश्मीन् प्रसाध्यैव फलं वाच्यं विचक्षणैः",
+      "english_meaning": "Thus ends the chapter on Rashmi Phala (Planetary Rays) in the Brihat Parashara Hora Shastra.",
+      "hindi_meaning": "इस प्रकार बृहत् पाराशर होरा शास्त्र में रश्मि फल (ग्रहों की रश्मियों) पर अध्याय समाप्त होता है।"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "source_file": "BPHS3140.md",
+  "source_chunk": "BPHS3140.json",
+  "chunk_index": 5,
+  "chapter": 36,
+  "variant": null,
+  "title": "अथ विविधयोगाध्यायः",
+  "shloka_count": 39,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "लग्ने शुभयुते योगः शुभः पापयुतेऽशुभः ।\nव्ययस्वगैः शुभैः पापैः क्रमाद्योगौ शुभाऽशुभौ",
+      "english_meaning": "If Lagna is associated with benefics, it is an auspicious (Subha) yoga. If with malefics, it is inauspicious (Papa). Benefics/malefics in 12th and 2nd also form Subha/Papa Kartari yogas.",
+      "hindi_meaning": "यदि लग्न शुभ ग्रहों से युक्त हो तो शुभ योग और यदि पाप ग्रहों से युक्त हो तो अशुभ योग होता है। इसी प्रकार 12वें और 2रे भावों में शुभ या पाप ग्रहों के होने से क्रमशः शुभ और पाप कर्तरी योग होते हैं।"
+    },
+    {
+      "number": 2,
+      "text": "शुभयोगोद्भवो वाग्मी रूपशीलगुणवन्वितः ।\nपापयोगोद्भवः कामी पापकर्मा परार्थयुक्",
+      "english_meaning": "One born in an auspicious yoga is eloquent, handsome, of good character and virtues. One born in an inauspicious yoga is lustful, performer of sinful deeds, and dependent on others.",
+      "hindi_meaning": "शुभ योग में उत्पन्न जातक वाग्मी (चतुर वक्ता), सुन्दर, शीलवान और गुणी होता है। अशुभ योग में उत्पन्न जातक कामी, पापकर्मी और दूसरों पर आश्रित होता है।"
+    },
+    {
+      "number": 3,
+      "text": "केन्द्रे देवगुरौ लग्नाच्चन्द्राद्वा शुभदृग्युते ।\nनीचास्तारिगृहैर्हीने योगोऽयं गजकेसरी",
+      "english_meaning": "Gaja-kesari Yoga: If Jupiter is in a Kendra from Lagna or Moon, associated with or aspected by benefics, and free from debilitation, combustion, or enemy's house.",
+      "hindi_meaning": "यदि गुरु लग्न या चन्द्रमा से केन्द्र में हो, शुभ ग्रहों से युक्त या दृष्ट हो और नीच, अस्त या शत्रु राशि में न हो, तो यह 'गजकेसरी' योग कहलाता है।"
+    },
+    {
+      "number": 4,
+      "text": "गजकेसरीसञ्जातस्तेजस्वी धनवान् भवेत् ।\nमेधावी गुणसम्पन्नो राजप्रियकरो नरः",
+      "english_meaning": "One born in Gaja-kesari yoga is valorous, wealthy, intelligent, virtuous, liked by kings, and stable in fame.",
+      "hindi_meaning": "गजकेसरी योग में उत्पन्न जातक तेजस्वी, धनवान, बुद्धिमान, गुणवान और राजाओं का प्रिय होता है।"
+    },
+    {
+      "number": 5,
+      "text": "दशमेऽङ्गात्तथा चन्द्रात् केवलैश्च शुभैर्युते ।\nस योगोऽमलकीत्र्त्याख्यः कीर्तिराचन्द्रतारकी",
+      "english_meaning": "Amala Yoga: If a benefic planet is in the 10th house from Lagna or Moon. This fame-giving yoga lasts as long as the moon and stars.",
+      "hindi_meaning": "यदि लग्न या चन्द्रमा से 10वें भाव में केवल शुभ ग्रह हों, तो वह 'अमल कीर्ति' योग होता है, जिसकी कीर्ति चन्द्रमा और तारों के समान चिरस्थायी होती है।"
+    },
+    {
+      "number": 6,
+      "text": "राजपूज्ये महाभोगी दाता बन्धुजनप्रियः ।\nपरोपकारी धर्मात्मा गुणढ्योऽमलकीर्तिजः",
+      "english_meaning": "Results of Amala yoga: respected by kings, great enjoyer, charitable, helpful, religious, virtuous, and liked by kinsmen.",
+      "hindi_meaning": "अमल कीर्ति योग वाला जातक राजाओं द्वारा पूज्य, महाभोगी, दानी, परोपकारी, धर्मात्मा और गुणी होता है।"
+    },
+    {
+      "number": 7,
+      "text": "सप्तमे चाऽष्टमे शुद्धे शुभग्रहयुतेऽथवा ।\nकेन्द्रेषु शुभयुक्तेषु योगः पर्वतसंज्ञकः",
+      "english_meaning": "Parvata Yoga: If the 7th and 8th houses are vacant (pure) or occupied by benefics, and Kendras are occupied by benefics.",
+      "hindi_meaning": "यदि 7वाँ और 8वाँ भाव शुद्ध (रिक्त) हों या शुभ ग्रहों से युक्त हों, और केन्द्रों में शुभ ग्रह हों, तो वह 'पर्वत' योग कहलाता है।"
+    },
+    {
+      "number": 8,
+      "text": "भाग्यवान् पर्वतोत्पन्नः वाग्मी दाता च शास्त्रवित् ।\nहास्यप्रियो यशस्वी च तेजस्वी पुरनायकः",
+      "english_meaning": "Results of Parvata yoga: lucky, eloquent, charitable, knower of Shastras, fond of humor, famous, radiant, and a leader of a town.",
+      "hindi_meaning": "पर्वत योग में उत्पन्न जातक भाग्यवान, वाग्मी, दानी, शास्त्रवेत्ता, हास्यप्रिय, यशस्वी, तेजस्वी और नगर का नायक होता है।"
+    },
+    {
+      "number": 9,
+      "text": "सुखेशेज्यौ मिथः केन्द्रगतौ बलिनि लग्नपे ।\nकाहलो वा स्वभोच्चस्थे सुखेशे कर्मपान्विते",
+      "english_meaning": "Kahala Yoga: If the lord of the 4th house and Jupiter are in mutual Kendras, and the lord of Lagna is strong.",
+      "hindi_meaning": "यदि चतुर्थेश और गुरु एक-दूसरे से केन्द्र में हों और लग्नेश बली हो, तो 'काहल' योग होता है। अथवा चतुर्थेश स्वराशि या उच्च राशि में होकर दशमेश से युक्त हो।"
+    },
+    {
+      "number": 10,
+      "text": "ओजस्वी साहसी धूर्तश्चतुरङ्गबलान्वितः ।\nयत्किञ्चिद् ग्रामनाथश्च काहले जायते नरः",
+      "english_meaning": "Results of Kahala yoga: radiant, brave, cunning, endowed with fourfold army (power), and a leader of a village.",
+      "hindi_meaning": "काहल योग में उत्पन्न जातक ओजस्वी, साहसी, चतुर, सेना (शक्ति) से युक्त और किसी ग्राम का स्वामी होता है।"
+    },
+    {
+      "number": 11,
+      "text": "लग्नेशे तुङ्गगे केन्द्रे गुरुदृष्टे तु चामरः ।\nशुभद्वये विलग्ने वा नवमे दशमे मदे",
+      "english_meaning": "Chamara Yoga: If the lord of Lagna is exalted in a Kendra and aspected by Jupiter, or if two benefics are in Lagna, 7th, 9th, or 10th.",
+      "hindi_meaning": "यदि लग्नेश उच्च का होकर केन्द्र में हो और गुरु से दृष्ट हो, तो 'चामर' योग होता है। अथवा लग्न, 7वें, 9वें या 10वें भाव में दो शुभ ग्रह हों।"
+    },
+    {
+      "number": 12,
+      "text": "राजा वा राजपुज्यो वा चिरजीवी च पण्डितः ।\nवाग्मी सर्वकलाविद् वा चामरे जायते जनः",
+      "english_meaning": "Results of Chamara yoga: king or respected by kings, long-lived, wise, eloquent, and knower of all arts.",
+      "hindi_meaning": "चामर योग में उत्पन्न जातक राजा या राजपूज्य, चिरजीवी, पण्डित, वाग्मी और समस्त कलाओं का ज्ञाता होता है।"
+    },
+    {
+      "number": 13,
+      "text": "सवले लग्नपे पुत्रषष्ठपौ केन्द्रगौ मिथः ।\nशंखो वा लग्नकर्मेशौ चरे बलिनि भाग्यपे",
+      "english_meaning": "Shankha Yoga: If the lord of Lagna is strong and the lords of 5th and 6th are in mutual Kendras. Or if the lords of Lagna and 10th are in movable signs and the lord of 9th is strong.",
+      "hindi_meaning": "यदि लग्नेश बली हो और 5वें तथा 6ठें भाव के स्वामी परस्पर केन्द्र में हों, तो 'शंख' योग होता है। अथवा लग्नेश और दशमेश चर राशि में हों और नवमेश बली हो।"
+    },
+    {
+      "number": 14,
+      "text": "धनस्त्रीपुत्रसंयुक्तो दयालुः पुण्यवान् सुधीः ।\nपुण्यकर्मा चिरञ्जीवी शंखयोगोद्भवो नरः",
+      "english_meaning": "Results of Shankha yoga: endowed with wealth, wife and sons, compassionate, religious, wise, and long-lived.",
+      "hindi_meaning": "शंख योग में उत्पन्न जातक धन, स्त्री और पुत्रों से युक्त, दयालु, धर्मात्मा, बुद्धिमान और चिरजीवी होता है।"
+    },
+    {
+      "number": 15,
+      "text": "सबले भाग्यपे भेरी खगैः स्वान्त्योदयास्तगैः ।\nसबले भाग्यपे वाऽसौ केन्द्रे शुक्रेज्यलग्नपैः",
+      "english_meaning": "Bheri Yoga: If the lord of 9th is strong and planets occupy the 2nd, 12th, 1st and 7th houses. Or if the lord of 9th is strong and Venus, Jupiter, and Lagna lord are in mutual Kendras.",
+      "hindi_meaning": "यदि नवमेश बली हो और ग्रह 2, 12, 1 और 7 वें भावों में हों, तो 'भेरी' योग होता है। अथवा नवमेश बली हो और शुक्र, गुरु तथा लग्नेश परस्पर केन्द्र में हों।"
+    },
+    {
+      "number": 16,
+      "text": "धनस्त्रीपुत्रसंयुक्तो भूपः कीर्तिगुणान्वितः ।\nआचारवान् सुखी भोगी भेरीयोगे जनो भवेत्",
+      "english_meaning": "Results of Bheri yoga: endowed with wealth, wife and sons, kingly, famous, virtuous, of good conduct, and happy.",
+      "hindi_meaning": "भेरी योग में जातक धन, स्त्री और पुत्र से युक्त, राजा के समान, यशस्वी, गुणी, आचारवान और सुखी होता है।"
+    },
+    {
+      "number": 17,
+      "text": "सबले लग्नपे खेटाः केन्द्रे कोणे स्वभोच्चगाः ।\nमृगङ्गयोगो जातोऽत्र भूपो वा तत्समः सुखी",
+      "english_meaning": "Mriganga Yoga: If the lord of Lagna is strong and all planets occupy Kendras or Trikonas in their own or exaltation signs.",
+      "hindi_meaning": "यदि लग्नेश बली हो और सभी ग्रह केन्द्र या त्रिकोण में अपनी स्वराशि या उच्च राशि में हों, तो 'मृगाङ्ग' योग होता है। जातक राजा या राजा के समान सुखी होता है।"
+    },
+    {
+      "number": 18,
+      "text": "कीमेशे कर्मगे तुङ्गे कर्मेशे भाग्यपान्विते ।\nयोगः श्रीनाथसंज्ञोऽत्र जातः शुक्रसमो नृपः",
+      "english_meaning": "Shrinatha Yoga: If the lord of the 7th is in the 10th and exalted, and associated with the lord of the 9th.",
+      "hindi_meaning": "यदि सप्तमेश दशम भाव में उच्च का होकर नवमेश के साथ हो, तो 'श्रीनाथ' योग होता है। जातक इन्द्र के समान राजा होता है।"
+    },
+    {
+      "number": 19,
+      "text": "कर्मेशे सुतगे केन्द्रे बुधेऽर्के सबले स्वभे ।\nचन्द्रात् कोणे गुरौ ज्ञे वा कुजे लाभे च शारदः",
+      "english_meaning": "Sharada Yoga: If the lord of the 10th is in the 5th, Mercury/Sun in Kendra in own sign, and Jupiter/Mercury in Trikona from Moon, and Mars in 11th.",
+      "hindi_meaning": "यदि दशमेश 5वें भाव में हो, बुध और सूर्य केन्द्र में स्वराशि के हों, चन्द्रमा से त्रिकोण में गुरु या बुध हों और मंगल 11वें भाव में हो, तो 'शारद' योग होता है।"
+    },
+    {
+      "number": 20,
+      "text": "धनस्त्रीपुत्रसंयुक्तः सुखी विद्वान् नृपप्रियः ।\nतपस्वी धर्मसंयुक्तः शारदे जायते जनः",
+      "english_meaning": "Results of Sharada yoga: endowed with wealth, wife and sons, happy, wise, liked by kings, ascetic, and religious.",
+      "hindi_meaning": "शारद योग में जातक धन, स्त्री और पुत्र से युक्त, सुखी, विद्वान, राजा का प्रिय, तपस्वी और धर्मात्मा होता है।"
+    },
+    {
+      "number": 21,
+      "text": "धर्मलग्नगते सौम्ये पञ्चमे सदसद्युते ।\nपापे च चतुरस्रस्थे योगोऽयं मत्स्यसंज्ञकः",
+      "english_meaning": "Matsya Yoga: If benefics are in 1st and 9th, 5th has both benefics and malefics, and malefics are in 4th and 8th.",
+      "hindi_meaning": "यदि लग्न और 9वें भाव में शुभ ग्रह हों, 5वें में शुभ-अशुभ दोनों हों और 4 तथा 8वें भाव में पाप ग्रह हों, तो 'मत्स्य' योग होता है।"
+    },
+    {
+      "number": 22,
+      "text": "कालज्ञः करुणामूर्तिर्गुणधीबलरूपवान् ।\nयशोविद्यातपस्वी च मत्स्ययोगे हि जायते",
+      "english_meaning": "Results of Matsya yoga: knower of time (astrologer), compassionate, virtuous, wise, strong, handsome, famous, and learned.",
+      "hindi_meaning": "मत्स्य योग वाला जातक कालज्ञ (ज्योतिषी), करुणा की मूर्ति, गुणी, बुद्धिमान, बलवान, सुन्दर, यशस्वी और तपस्वी होता है।"
+    },
+    {
+      "number": 23,
+      "text": "पुत्रारिमदगाः सौम्याः स्वभोच्चसुहृदंशगाः ।\nत्रिलाभोदयगाः पापाः कूर्मयोगः स्वभोच्चगाः",
+      "english_meaning": "Kurma Yoga: Benefics in 5, 6, 7 in own/exaltation/friendly signs, and malefics in 3, 11, 1 in own/exaltation signs.",
+      "hindi_meaning": "यदि शुभ ग्रह 5, 6, 7 भावों में अपनी स्वराशि, उच्च या मित्र राशि में हों, और पाप ग्रह 3, 11, 1 भावों में अपनी स्वराशि या उच्च में हों, तो 'कूर्म' योग होता है।"
+    },
+    {
+      "number": 24,
+      "text": "कूर्मयोगे जनो भूपो धीरो धर्मगुणान्वितः ।\nकीर्तिमानुपकारी च सुखी मानवनायकः",
+      "english_meaning": "Results of Kurma yoga: king, patient, religious, virtuous, famous, helpful, happy, and a leader of men.",
+      "hindi_meaning": "कूर्म योग में उत्पन्न जातक राजा, धैर्यवान, धर्मात्मा, गुणी, यशस्वी, उपकारी, सुखी और मनुष्यों का नायक होता है।"
+    },
+    {
+      "number": 25,
+      "text": "भाग्येशे धनभावास्थे धनेशे भाग्यभावगे ।\nलग्नेशे केन्द्रकोणस्थे खड्गयोगः स कथ्यते",
+      "english_meaning": "Khadga Yoga: Lord of 9th in 2nd, lord of 2nd in 9th, and lord of Lagna in a Kendra or Trikona.",
+      "hindi_meaning": "यदि नवमेश दूसरे भाव में और द्वितीयेश नवम भाव में हो, और लग्नेश केन्द्र या त्रिकोण में हो, तो 'खड्ग' योग कहलाता है।"
+    },
+    {
+      "number": 26,
+      "text": "खड्गयोगे समुत्पन्नो धनभाग्यसुखान्वितः ।\nशास्त्रज्ञो बुद्धिवीर्याढ्यः कृतज्ञः कुशलो नरः",
+      "english_meaning": "Results of Khadga yoga: endowed with wealth, luck, and happiness, knower of Shastras, wise, valorous, grateful, and skillful.",
+      "hindi_meaning": "खड्ग योग वाला जातक धन, भाग्य और सुख से युक्त, शास्त्रज्ञ, बुद्धिमान, पराक्रमी, कृतज्ञ और कार्यकुशल होता है।"
+    },
+    {
+      "number": 27,
+      "text": "केन्द्रे मूलत्रिकोणस्ते भाग्येशे वा स्वभोच्चगे ।\nलग्नाधिपे बलाढ्ये च लक्ष्मीयोगः प्रकीर्त्यते",
+      "english_meaning": "Lakshmi Yoga: If the lord of 9th is in a Kendra in its Mulatrikhona or exaltation sign, and Lagna lord is very strong.",
+      "hindi_meaning": "यदि नवमेश केन्द्र में अपने मूलत्रिकोण या उच्च राशि में हो और लग्नेश अत्यधिक बली हो, तो 'लक्ष्मी' योग होता है।"
+    },
+    {
+      "number": 28,
+      "text": "सुरूपो गुणवान् भूपो बहुपुत्रधनान्वितः ।\nयशस्वी धर्मसम्पन्नो लक्ष्मीयोगे जनो भवेत्",
+      "english_meaning": "Results of Lakshmi yoga: handsome, virtuous, king, with many sons and wealth, famous and religious.",
+      "hindi_meaning": "लक्ष्मी योग में उत्पन्न जातक सुन्दर, गुणी, राजा, बहुत पुत्रों और धन से युक्त, यशस्वी और धर्मात्मा होता है।"
+    },
+    {
+      "number": 29,
+      "text": "लग्ने स्थिरे भृगौ केन्द्रे चन्द्रकोणे शभान्विते ।\nमानस्थानगते सौरे योगोऽयं कुसुमाभिधः",
+      "english_meaning": "Kusuma Yoga: Fixed Lagna, Venus in Kendra, Moon in a Trikona with a benefic, and Sun in the 10th house.",
+      "hindi_meaning": "यदि स्थिर लग्न हो, शुक्र केन्द्र में हो, चन्द्रमा शुभ ग्रह के साथ त्रिकोण में हो और सूर्य दशम भाव में हो, तो 'कुसुम' योग होता है।"
+    },
+    {
+      "number": 30,
+      "text": "भूपो वा भूपतुल्यो वा दता भोगी सुखी जनः ।\nकुलमुख्यो गुणी विद्वान् जायते कुसुमाह्वये",
+      "english_meaning": "Results of Kusuma yoga: king or like a king, charitable, enjoyer, happy, leader of the family, virtuous and wise.",
+      "hindi_meaning": "कुसुम योग वाला जातक राजा या राजा के समान, दानी, भोगी, सुखी, कुल का मुख्य, गुणी और विद्वान होता है।"
+    },
+    {
+      "number": 31,
+      "text": "द्वितीये पञ्चमे जीवे बुधशुक्रयुतेक्षिते ।\nक्षत्रे तयोर्वा सम्प्रप्ते योगः स च कलानिधिः",
+      "english_meaning": "Kalanidhi Yoga: Jupiter in 2nd or 5th, associated with or aspected by Mercury and Venus, or in their signs.",
+      "hindi_meaning": "यदि गुरु दूसरे या पाँचवें भाव में बुध और शुक्र से युक्त या दृष्ट हो, या उनकी राशियों (मिथुन, कन्या, वृष, तुला) में हो, तो 'कलानिधि' योग होता है।"
+    },
+    {
+      "number": 32,
+      "text": "कलानिधिसमुत्पन्नो गुणवान् भूपवन्दितः ।\nरोगहीनः सुखी जातो धनविद्यासमन्वितः",
+      "english_meaning": "Results of Kalanidhi yoga: virtuous, respected by kings, free from diseases, happy, and endowed with wealth and knowledge.",
+      "hindi_meaning": "कलानिधि योग में उत्पन्न जातक गुणी, राजाओं द्वारा वन्दित, रोगरहित, सुखी और धन-विद्या से सम्पन्न होता है।"
+    },
+    {
+      "number": 33,
+      "text": "लग्नेशतद्गतर्क्षेशतद्गतर्क्षेशतदंशपाः ।\nकेन्द्रे कोणे स्वतुङ्गे वा योगः कल्पद्रुमो मतः",
+      "english_meaning": "Kalpadruma Yoga: If the lord of Lagna, its dispositor, its dispositor, and its Navamsha lord are all in Kendras, Trikonas or exaltation.",
+      "hindi_meaning": "यदि लग्नेश, उसका राशिपति, उसका राशिपति और उसका नवांशपति सभी केन्द्र, त्रिकोण या उच्च राशि में हों, तो 'कल्पद्रुम' योग होता है।"
+    },
+    {
+      "number": 34,
+      "text": "सर्वैश्वर्ययुतो भूपो धर्मात्मा बलसंयुतः ।\nयुद्धप्रियो दयालुश्च पारिजाते नरो भवेत्",
+      "english_meaning": "Results of Parijata (Kalpadruma) yoga: endowed with all lordships, king, religious, strong, fond of battle, and compassionate.",
+      "hindi_meaning": "कल्पद्रुम (पारिजात) योग वाला जातक ऐश्वर्यवान राजा, धर्मात्मा, बलवान, युद्धप्रिय और दयालु होता है।"
+    },
+    {
+      "number": 35,
+      "text": "स्वान्त्याष्टस्थैर्द्वितीयेशाद् हरियोगः शुभग्रहैः ।\nकामेशाद् बन्धुधर्माष्टस्थितैः सौम्यैर्हराभिधः",
+      "english_meaning": "Hari Yoga: Benefics in 2, 12, 8 from the lord of the 2nd. Hara Yoga: Benefics in 4, 9, 8 from the lord of the 7th.",
+      "hindi_meaning": "द्वितीयेश से 2, 12, 8वें भाव में शुभ ग्रह होने से 'हरि' योग होता है। सप्तमेश से 4, 9, 8वें में शुभ ग्रहों से 'हर' योग होता है।"
+    },
+    {
+      "number": 36,
+      "text": "लग्नेशाद् बन्धुकर्मायस्थितैर्ब्रह्माह्वयः स्मृतः ।\nएषु जातः सुखी विद्वान् धनपुत्रादिसंयुतः",
+      "english_meaning": "Brahma Yoga: Benefics in 4, 10, 11 from the lord of Lagna. Results: happy, wise, endowed with wealth and sons.",
+      "hindi_meaning": "लग्नेश से 4, 10, 11वें भावों में शुभ ग्रहों के होने से 'ब्रह्मा' योग होता है। इनमें उत्पन्न जातक सुखी, विद्वान और धन-पुत्र से युक्त होता है।"
+    },
+    {
+      "number": 37,
+      "text": "लग्नान्मदाष्टगैः सौम्यैः पापदृग्योगवर्जितैः ।\nयोगो लग्नाधियोगोऽस्मिन् महात्मा शास्त्रवित् सुखी",
+      "english_meaning": "Lagnadhi Yoga: If benefics are in 6, 7, 8 from Lagna, free from malefic association or aspect.",
+      "hindi_meaning": "यदि लग्न से 6, 7, 8वें भावों में शुभ ग्रह हों और वे पाप ग्रहों से युक्त या दृष्ट न हों, तो 'लग्नाधियोग' होता है। जातक महात्मा, शास्त्रज्ञ और सुखी होता है।"
+    },
+    {
+      "number": 38,
+      "text": "लग्नपे पारिजातस्थे सुखी वर्गोत्तमे ह्यरुक् ।\nगोपुरे धनधान्याढ्या भूपः सिंहासने स्थिते",
+      "english_meaning": "Results based on Varga: Lagna lord in Parijata-amsha: happy. In Vargottama: healthy. In Gopura: rich. In Simhasana: king.",
+      "hindi_meaning": "लग्नेश यदि पारिजात अंश में हो तो सुखी, वर्गोत्तम में निरोगी, गोपुर में धन-धान्य से युक्त और सिंहासन में होने पर राजा होता है।"
+    },
+    {
+      "number": 39,
+      "text": "विद्वान् पारावते श्रीमान् देवलोके सवाहनः ।\nऐरावतस्थिते जातो विख्यातो भूपवन्दितः",
+      "english_meaning": "In Paravata-amsha: wise. In Devaloka: wealthy with vehicles. In Airavata-amsha: world-famous and respected by kings.",
+      "hindi_meaning": "पारावत अंश में विद्वान, देवलोक में धनी और वाहन युक्त, तथा ऐरावत अंश में होने पर जातक विश्वविख्यात और राजाओं द्वारा वन्दित होता है।"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "source": "brihmajjataka.md",
+  "header": "वराहमिहीरस्य बृहज्जातक",
+  "chapters": [
+    {
+      "number": 5,
+      "title": "पंचमोऽध्याय",
+      "shlokas": [
+        {
+          "number": "१",
+          "text": "जन्मविधि\nपितुर्जातः परोक्षस्य लग्नम् इन्दावपश्यति ।\nविदेशस्थस्य चर भे मध्याद् भ्रष्टे दिवा करे",
+          "english_meaning": "The birth of a child happens when the father is away (Paroksha) if the Moon does not aspect the Ascendant. If the Sun is in a movable sign and fallen from the meridian (midheaven), the father is in a foreign land.",
+          "hindi_meaning": "यदि चन्द्रमा लग्न को न देख रहा हो, तो बालक का जन्म पिता की अनुपस्थिति (परोक्ष) में होता है। यदि सूर्य चर राशि में हो और मध्यम (दशम) भाव से च्युत (गिरा हुआ) हो, तो पिता परदेश में होता है।"
+        },
+        {
+          "number": "२",
+          "text": "उदयस्थेऽपि वा मन्दे कुजे वास्तं समागते\nस्थिते वान्तः क्षपा नाथे शशाङ्क सुत शुक्रयोः",
+          "english_meaning": "If Saturn is in the Ascendant, or Mars is in the 7th house, or the Moon is between Mercury and Venus, the father is away from home.",
+          "hindi_meaning": "यदि शनि लग्न में हो, अथवा मंगल सप्तम भाव में हो, अथवा चन्द्रमा बुध और शुक्र के बीच स्थित हो, तो पिता घर पर नहीं होता (बाहर होता है)।"
+        },
+        {
+          "number": "३",
+          "text": "शशाङ्के पाप लग्ने वा वृश्चिकेश त्रि भागगे ।\nशुभैः स्वाय स्थितैर्जातः सर्पस्तद्वेष्टितोऽपि वा",
+          "english_meaning": "If the Moon is in the Ascendant and it is a malefic sign, or if it is in the 3rd Decanate of Scorpio, and associated with benefics in the 11th house, the child is born as a snake or wrapped in it.",
+          "hindi_meaning": "यदि चन्द्रमा पाप लग्न में हो, अथवा वृश्चिक के तीसरे द्रेष्काण में हो, और ग्यारहवें भाव में शुभग्रहों से युक्त हो, तो बालक सर्प के समान या सर्प से लिपटा हुआ पैदा होता है।"
+        },
+        {
+          "number": "४",
+          "text": "चतुष्पाद गते भानौ शेषैर्वीर्य समन्वितैः ।\nद्वि तनुस्थैश्च यमलौ भवतः कोश वेष्टितौ",
+          "english_meaning": "If the Sun is in a quadruped sign and other planets are strong and in dual signs, twins are born wrapped in a membrane (Kosh).",
+          "hindi_meaning": "यदि सूर्य चतुष्पद राशि में हो और अन्य ग्रह बली होकर द्विस्वभाव राशियों में हों, तो जुड़वाँ बच्चे झिल्ली (जेर) में लिपटे हुए पैदा होते हैं।"
+        },
+        {
+          "number": "५",
+          "text": "छागे सिंहे वृषे लग्ने तत्स्थे सौरे अथ वा कुजे ।\nराश्यंश सदृशे गात्रे जायते नाल वेष्टितः",
+          "english_meaning": "If the Ascendant is Aries, Leo, or Taurus, and Saturn or Mars is in it, the child is born wrapped in the umbilical cord (Naal) on the part of the body indicated by the sign/Navamsha.",
+          "hindi_meaning": "यदि मेष, सिंह या वृष लग्न हो और उसमें शनि या मंगल स्थित हो, तो बालक शरीर के उस अंग पर नाल (गर्भनाल) से लिपटा हुआ पैदा होता है, जो राशि या नवांश द्वारा सूचित होता है।"
+        },
+        {
+          "number": "६",
+          "text": "न लग्नम् इन्दुं च गुरुर्निरीक्षते न वा शशाङ्कं रविणा समागतम् ।\nस पापकोऽर्केणयुतोऽथ वा शशी परेण जातं प्रवदन्ति निश्चयात्",
+          "english_meaning": "If Jupiter does not aspect the Ascendant, the Moon, or the Sun conjoined with the Moon; or if the Moon is conjoined with the Sun and a malefic planet; the child is certainly born of another man (adultery).",
+          "hindi_meaning": "यदि गुरु लग्न, चन्द्रमा या चन्द्रमा-सूर्य के संयोग को न देखता हो; अथवा चन्द्रमा सूर्य और किसी पापग्रह के साथ स्थित हो; तो बालक निश्चय ही 'पर-पुरुष' (जारज) से उत्पन्न होता है।"
+        },
+        {
+          "number": "७",
+          "text": "क्रूरऋक्ष गतावशोभनौ सूर्याद् द्यून नवात्मज स्थितौ ।\nबद्धस्तु पिता विदेशगः स्वे वा राशि वशाद् अथो पथि",
+          "english_meaning": "If two malefic planets are in malefic signs in the 7th, 9th, or 5th house from the Sun, the father is in bondage (imprisoned) in a foreign land, on the way, or in his own place, according to the signs.",
+          "hindi_meaning": "यदि सूर्य से 7, 9 या 5वें भाव में दो पापग्रह पाप राशियों में स्थित हों, तो पिता परदेश में, मार्ग में या अपने स्थान पर बन्धन (जेल) में होता है, यह राशियों के स्वभाव पर निर्भर करता है।"
+        },
+        {
+          "number": "८",
+          "text": "पूर्णे शशिनि स्वराशिगे सौम्ये लग्न गते शुभे सुखे ।\nलग्ने जलजे अस्तगे अपि वा चन्द्रो पोत गता प्रसूयते",
+          "english_meaning": "If the Moon is full and in its own sign (Cancer), and benefics are in the Ascendant and 4th house, and the Ascendant is a watery sign, or even if it is in the 7th house, the birth takes place in a boat/vessel.",
+          "hindi_meaning": "यदि चन्द्रमा पूर्ण होकर अपनी राशि (कर्क) में हो, और शुभग्रह लग्न और चौथे भाव में हों, तथा लग्न जलचर राशि का हो, तो जन्म नाव (जहाज) में होता है।"
+        },
+        {
+          "number": "९",
+          "text": "आप्योदयम् आप्यगः शशी सम्पूर्णः समवेक्षते अथ वा ।\nमेषूरण बन्धु लग्नगः स्यात् सूतिः सलिले न संशयः",
+          "english_meaning": "If the Ascendant is a watery sign and a full Moon is in it, or aspects it, or if the Moon is in the 10th, 4th, or 1st house, the birth certainly takes place in water.",
+          "hindi_meaning": "यदि जलचर लग्न हो और पूर्ण चन्द्रमा उसमें स्थित हो या उसे देखता हो, अथवा चन्द्रमा दशम, चतुर्थ या लग्न में हो, तो जन्म निश्चय ही जल (नदी, तालाब आदि) में होता है।"
+        },
+        {
+          "number": "१०",
+          "text": "उदयोडुपयोर्व्यय स्थिते गुप्त्यां पाप निरीक्षिते यमे ।\nअलि कर्कि युते विलग्नगे सौरे शीत करेक्षिते वटे",
+          "english_meaning": "If Saturn is in the 12th house from the Ascendant or Moon and aspected by a malefic, the birth is in a prison. If the Ascendant is Scorpio or Cancer and Saturn is in it aspected by the Moon, the birth is in a pit/hole.",
+          "hindi_meaning": "यदि लग्न या चन्द्रमा से 12वें भाव में शनि हो और पापग्रह द्वारा दृष्ट हो, तो जन्म कारागार में होता है। यदि वृश्चिक या कर्क लग्न हो और उसमें शनि हो तथा चन्द्रमा द्वारा दृष्ट हो, तो जन्म गड्ढे (खाई) में होता है।"
+        },
+        {
+          "number": "११",
+          "text": "मन्दे अब्ज गते विलग्नगे बुध सूर्येन्दु निरीक्षिते क्रमात् ।\nक्रीडा भवने सुरालये सोखर भूमिषु च प्रसूयते",
+          "english_meaning": "If Saturn is in the Ascendant in a sign of the Moon (Cancer) and aspected by Mercury, Sun, and Moon respectively, the birth is in a playground, a temple, or a salty wasteland.",
+          "hindi_meaning": "यदि शनि चन्द्रमा की राशि (कर्क) के लग्न में हो और क्रमशः बुध, सूर्य और चन्द्रमा द्वारा दृष्ट हो, तो जन्म क्रीड़ा-स्थल, मन्दिर या ऊसर (खारी) भूमि में होता है।"
+        },
+        {
+          "number": "१२",
+          "text": "नृ लग्नगं प्रेक्ष्य कुजः श्मशाने रम्ये सितेन्दू गुरुरग्निहोत्रे ।\nरविर्नरेन्द्रामरगो कुलेषु शिल्पालये ज्ञः प्रसवं करोति",
+          "english_meaning": "Mars aspecting a human sign in the Ascendant indicates birth in a cemetery; Venus and Moon indicate a beautiful place; Jupiter indicates a place of fire-sacrifice; Sun indicates a palace or temple; and Mercury indicates a workshop/studio.",
+          "hindi_meaning": "मंगल यदि लग्न में मनुष्य राशि को देखे तो श्मशान में; शुक्र और चन्द्रमा हों तो रमणीक स्थान में; गुरु हो तो यज्ञशाला (अग्निहोत्र) में; सूर्य हो तो राजभवन या देवस्थान में; और बुध हो तो शिल्पशाला (वर्कशॉप) में जन्म होता है।"
+        },
+        {
+          "number": "१३",
+          "text": "राश्यंश स मान गोचरे मार्गे जन्म चरे स्थिरे गृहे ।\nस्वऋक्षांश गते स्व मन्दिरे बलयोगात् फलम् अंशकऋक्षयोः",
+          "english_meaning": "Birth takes place on a road, in a movable sign, or a fixed house according to the sign and Navamsha. If they are in their own signs/Navamshas, the birth is in one's own house. The results depend on the strength of the signs and Navamshas.",
+          "hindi_meaning": "राशि और नवांश के अनुसार मार्ग, चर या स्थिर घर में जन्म होता है। यदि ग्रह अपनी राशि या नवांश में हों, तो जन्म अपने घर में होता है। फल का निर्णय राशि और नवांश के बल के आधार पर करना चाहिए।"
+        },
+        {
+          "number": "१४",
+          "text": "आरार्कजयोस्त्रिकोणगे चन्द्रे अस्ते च विसृज्यते अंबया ।\nदृष्टे अमरराज मन्त्रिणा दीर्घायुः सुख भाक् च स स्मृतः",
+          "english_meaning": "If Mars and Saturn are in trines and the Moon is in the 7th house, the child is abandoned by the mother. If aspected by Jupiter, the child lives long and enjoys happiness.",
+          "hindi_meaning": "यदि मंगल और शनि त्रिकोण में हों और चन्द्रमा सप्तम भाव में हो, तो माता द्वारा बालक का त्याग कर दिया जाता है। यदि गुरु की दृष्टि हो, तो वह दीर्घायु और सुखी होता है।"
+        },
+        {
+          "number": "१५",
+          "text": "पापेक्षिते तुहिनगावुदये कुजे अस्ते त्यक्तो विनश्यति कुजार्कजयोस्तथाये ।\nसौम्ये अपि पश्यति तथा विध हस्तम् एति सौम्येतरेषु पर हस्त गतोऽप्यनायुः",
+          "english_meaning": "If the Moon is in the Ascendant and aspected by a malefic, with Mars in the 7th house, the abandoned child dies. If Jupiter also aspects, it falls into others' hands; if other planets aspect, it dies even in others' hands.",
+          "hindi_meaning": "यदि लग्न में चन्द्रमा हो और पापग्रह से दृष्ट हो, तथा मंगल सप्तम भाव में हो, तो त्यागा हुआ बालक नष्ट हो जाता है। यदि गुरु भी देखता हो, तो वह दूसरे के हाथ में चला जाता है; यदि अन्य पापग्रह देखें, तो दूसरे के हाथ में जाकर भी अल्पायु होता है।"
+        },
+        {
+          "number": "१६",
+          "text": "पितृमातृगृहेषु तद्बलात् तरु शालादिषु नीचगैः शुभः ।\n यदि नैक गतैस्तु वीक्षितौ लग्नेन्दू विजने प्रसूयते",
+          "english_meaning": "Birth takes place in the father's or mother's house based on their strength; in a garden or shed if planets are in debilitation. If the Ascendant and Moon are not aspected by any planet, the birth is in a lonely place.",
+          "hindi_meaning": "पिता या माता के घर में जन्म उनके बल के अनुसार होता है; यदि ग्रह नीच के हों तो बगीचे या गौशाला आदि में। यदि लग्न और चन्द्रमा किसी ग्रह द्वारा दृष्ट न हों, तो निर्जन स्थान में जन्म होता है।"
+        },
+        {
+          "number": "१७",
+          "text": "मन्दऋक्षांशे शशिनि हिबुके मन्ददृष्टे अब्जगे वा ।\nतद् युक्ते वा तमसि शयने नीच संस्थैश्च भूमौ ।\nयद् वद् राशिर्व्रजति हरिजं गर्भ मोक्षस्तु तद्वत् पापैश्चन्द्रात्\nस्मर सुख गतैः क्लेशम् आहुर्जनन्याः",
+          "english_meaning": "If the Moon is in the 4th house in a sign/Navamsha of Saturn and aspected by Saturn, or if she is associated with Saturn/Rahu, the birth is on the ground in darkness. The labor pain and delivery follow the nature of the signs. Malefics in 7th and 4th from the Moon cause distress to the mother.",
+          "hindi_meaning": "यदि चन्द्रमा शनि की राशि/नवांश के चौथे भाव में हो और शनि द्वारा दृष्ट हो, अथवा राहु/शनि से युक्त हो, तो जन्म अन्धकार में भूमि पर होता है। प्रसव पीड़ा और प्रसव का ढंग राशियों के स्वभाव के अनुसार होता है। चन्द्रमा से 7वें और 4थे भाव में पापग्रह माता को कष्ट देते हैं।"
+        },
+        {
+          "number": "१८",
+          "text": "स्नेहः शशाङ्काद् उदयाच्च वर्तिर्दीपोऽर्कयुक्तऋक्ष वशाच्चराद्यः ।\nद्वारं च तद्वास्तुनि केन्द्र संस्थैर्ज्ञेयं ग्रहैः वीर्य समन्वितैर्वा",
+          "english_meaning": "The quantity of oil in the lamp is determined by the Moon; the wick by the Ascendant; the type of lamp by the sign conjoined with the Sun. The door of the room is determined by the planets in quadrants or by the strongest planet.",
+          "hindi_meaning": "दीपक में तेल की मात्रा चन्द्रमा से; बत्ती की स्थिति लग्न से; और दीपक का प्रकार सूर्य युक्त राशि से जानना चाहिए। कमरे का द्वार केन्द्र में स्थित ग्रहों या बली ग्रह से जानना चाहिए।"
+        },
+        {
+          "number": "१९",
+          "text": "जीर्णं संस्कृतम् अर्कजे क्षिति सुते दग्धं नवं शीतगौ काष्ठाढ्यं\nन दृढं रवौ शशि सुते तन् नैक शिल्प्युद्भवम् रम्यम् ।\nचित्रयुतं नवं च भृगुजे जीवे दृढं मन्दिरं चक्रस्थैश्च\nयथोपदेशरचनां सामन्त पूर्वां वदेत्",
+          "english_meaning": "Saturn indicates an old or renovated house; Mars a burnt house; Moon a new one; Sun a house with much wood but not strong; Mercury a house built by many artisans; Venus a beautiful and decorated house; and Jupiter a strong house.",
+          "hindi_meaning": "शनि पुराना या मरम्मत किया हुआ घर; मंगल जला हुआ; चन्द्रमा नया; सूर्य लकड़ी वाला किन्तु कमजोर; बुध अनेक कारीगरों द्वारा निर्मित; शुक्र सुन्दर और सजावटी; और गुरु मजबूत घर सूचित करता है।"
+        },
+        {
+          "number": "२०",
+          "text": "मेष कुलीर तुलालि गटैः प्रागुत्तरतो गुरु सौम्य गृहेषु ।\nपश्चिमतश्च वृषेण निवासो दक्षिण भाग करौ मृग सिंहौ",
+          "english_meaning": "If the planets are in Aries, Cancer, Libra, or Scorpio, the house is in the East or North; if in signs of Jupiter or Mercury, it is also East/North. If in Taurus, it is West; if in Capricorn or Leo, it is South.",
+          "hindi_meaning": "मेष, कर्क, तुला, वृश्चिक, या गुरु-बुध की राशियों में ग्रह हों तो घर पूर्व या उत्तर में; वृष में हो तो पश्चिम में; और मकर या सिंह में हो तो दक्षिण भाग में होता है।"
+        },
+        {
+          "number": "२१",
+          "text": "प्राच्यादि गृहे क्रियादयो द्वौ द्वौ कोण गता द्वि मूर्तयः ।\nशय्यास्वपि वास्तु वद् वदेत् पादैः षट् त्रि नवान्त्य संस्थितैः",
+          "english_meaning": "Signs from Aries onwards indicate the directions East, etc. in pairs. The dual signs indicate the corners. The bed/couch should be judged like the house, with the four legs determined by the signs in the 6th, 3rd, 9th, and 12th houses.",
+          "hindi_meaning": "मेष से लेकर दो-दो राशियाँ पूर्व आदि दिशाएं बताती हैं। द्विस्वभाव राशियाँ कोणों (विदिशाओं) को बताती हैं। शय्या (बिस्तर) का विचार भी वास्तु के समान करना चाहिए, जिसके चार पैर 6, 3, 9 और 12वें भाव की राशियों से जाने जाते हैं।"
+        },
+        {
+          "number": "२२",
+          "text": "चन्द्र लग्नान्तर गतैर्ग्रहैः स्युरुपसूतिकाः ।\nबहिरन्तर चक्राद् अर्धे दृश्याद्ऱ्श्ये अन्यथा परैः",
+          "english_meaning": "The number of midwives/nurses is determined by the number of planets between the Ascendant and the Moon. Those in the visible half of the zodiac are outside the room, and those in the invisible half are inside.",
+          "hindi_meaning": "दाईयों (परिचारिकाओं) की संख्या लग्न और चन्द्रमा के बीच स्थित ग्रहों की संख्या से जाननी चाहिए। दृश्य आधा भाग (बाहर) और अदृश्य आधा भाग (अन्दर) की स्थिति बताते हैं।"
+        },
+        {
+          "number": "२३",
+          "text": "लग्न नवांशप तुल्य तनुः स्याद् वीर्ययुत ग्रह तुल्य वपुर्वा ।\nचन्द्र समेत नवांशप वर्णः कादि विलग्न विभक्त भ गात्रः",
+          "english_meaning": "The child's physical appearance will be like the lord of the Navamsha of the Ascendant or like the strongest planet. The complexion is determined by the lord of the Navamsha occupied by the Moon. The body parts are distributed from the Ascendant onwards.",
+          "hindi_meaning": "बालक का शरीर लग्न के नवांशेश के समान या सबसे बली ग्रह के समान होता है। वर्ण (रंग) चन्द्रमा जिस नवांश में हो, उसके स्वामी के अनुसार होता है। शरीर के अंगों का विभाजन लग्न से प्रारंभ होता है।"
+        },
+        {
+          "number": "२४",
+          "text": "कं दृक् श्रोत्र नसा कपोल हनवो वक्त्रं च होरादयस्ते\nकण्ठांसक बाहु पार्श्व हृदय क्रोडानि नाभिस्ततः ।\nबस्तिः शिश्न गुदे ततश्च वृषणावूरू ततो जानुनी ।\nजङ्घाङ्घ्रीत्युभयत्र वामम् उदितैर्द्रेष्काण भागैस्त्रिधा",
+          "english_meaning": "The head, eyes, ears, nose, cheeks, chin, and mouth are represented by the Ascendant and other houses. The neck, shoulders, arms, sides, heart, chest, and navel follow; then the abdomen, genitals, anus, testicles, thighs, knees, calves, and feet. This applies to both left and right sides based on the three Decanates.",
+          "hindi_meaning": "सिर, आँखें, कान, नाक, कपोल, ठुड्डी और मुख - ये लग्न आदि भाव हैं। फिर गला, कन्धे, हाथ, कोख, हृदय, छाती और नाभि; उसके बाद पेट, लिंग, गुदा, अण्डकोष, जांघ, घुटने, पिण्डली और पैर। तीन द्रेष्काणों के आधार पर बाएं और दाएं अंगों का विचार किया जाता है।"
+        },
+        {
+          "number": "२५",
+          "text": "तस्मिन् पापयुतं व्रणे शुभयुते दृष्टे च लक्ष्मादिशेत्\nस्वऋक्षांशे स्थिर संयुतेषु सहजः स्याद् अन्यथाङ्गतुकः ।\nमन्देश्मानिलजोऽग्नि शास्त्र विषजो भौमे बुधे भू भवः सूर्ये काष्ठ\nचतुष्पदेन हिमगौ श‍ृङ्ग्यब्जजोऽन्यैः शुभम्",
+          "english_meaning": "A malefic in a house indicates a wound or ulcer; a benefic indicates a mole or mark. If the planet is in its own sign or Navamsha and with a fixed planet, it is a birthmark; otherwise, it is acquired later. Saturn causes wounds by stones or wind; Mars by fire, weapons, or poison; Mercury by earth; Sun by wood; Moon by quadrupeds/water; and others are auspicious.",
+          "hindi_meaning": "जिस भाव में पापग्रह हो वहां घाव या फोड़ा; और शुभग्रह हो तो तिल या चिह्न कहना चाहिए। यदि ग्रह अपनी राशि/नवांश में और स्थिर ग्रह के साथ हो, तो वह जन्मजात चिह्न है; अन्यथा बाद में हुआ। शनि पत्थर या वायु से; मंगल अग्नि, शस्त्र या विष से; बुध मिट्टी से; सूर्य लकड़ी से; चन्द्रमा पशु या जल से चोट देता है; अन्य शुभ होते हैं।"
+        },
+        {
+          "number": "२६",
+          "text": "समनुपतिता यस्मिन् भागे त्रयः स बुधा ग्रहा भवति नियमात् तस्यावाप्तिः शुभेष्वशुभेषु वा ।\nव्रण कृद् अशुभः षष्ठे देहे तनोर्भ समाश्रिते तिलकम्\nअशकृद् दृष्टः सौम्यैर्युतश्च स लक्ष्मवान्",
+          "english_meaning": "If three planets are in one house, the corresponding body part will certainly have a mark, whether good or bad. A malefic in the 6th house causes a wound; if aspected by or conjoined with benefics, it is just a mole or mark.",
+          "hindi_meaning": "यदि एक ही भाव में तीन ग्रह हों, तो शरीर के उस भाग में निश्चित रूप से शुभ या अशुभ चिह्न होता है। छठे भाव में पापग्रह होने पर घाव होता है; यदि शुभग्रहों से दृष्ट या युक्त हो, तो वह केवल तिल या लक्षण मात्र होता है।"
+        }
+      ]
+    }
+  ]
+}

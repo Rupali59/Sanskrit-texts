@@ -1,0 +1,438 @@
+{
+  "number": "१०",
+  "title": "अथाष्टकवर्गाध्यायः",
+  "shlokas": [
+    {
+      "number": "१",
+      "text": "चक्रं विलिव्य मह लग्नदिवाकराद्यैः सूर्यादिलग्नभवनान्तवियच्चराणाम् ।\nवाक्याष्टकोपगनवर्णनियोजिनाश्चेद्भिन्नाष्टवर्गजनिनाग्विलबिन्धवः स्युः",
+      "english_meaning": "Draw a chart and calculate the dots (Bindus) for the Sun and other planets, including the Lagna, according to the rules of Ashtakavarga. These dots generated in the individual Ashtakavarga charts are called Bhinnashtakavarga Bindus.",
+      "hindi_meaning": "एक चक्र (चार्ट) बनाकर, लग्न और सूर्य आदि ग्रहों के लिए, अष्टकवर्ग के नियमों के अनुसार बिन्दुओं की गणना करें। भिन्न-भिन्न ग्रहों के अष्टकवर्ग में उत्पन्न इन बिन्दुओं को भिन्नाष्टकवर्ग बिन्दु कहा जाता है।"
+    },
+    {
+      "number": "२",
+      "text": "देवो धवो धीगवशस्तमो रमा धूलिः क्रमाडुणकादिबिन्दवः ।\nसालोलमंख्याः भमुदायांबन्दवः भवाष्टवर्ग गमुदायसंज्ञकः",
+      "english_meaning": "The points contribute to the total strength. The sum of all these individual points across all planets in a particular sign is called the Samudayashtakavarga Bindu.",
+      "hindi_meaning": "ये बिन्दु कुल बल में योगदान देते हैं। किसी विशेष राशि में सभी ग्रहों के व्यक्तिगत बिन्दुओं का योग सामुदायाष्टकवर्ग बिन्दु कहलाता है।"
+    },
+    {
+      "number": "३",
+      "text": "मेषादियद्गृहगता वसुसङ्ख्ययातास्तद्भावपुष्टिबलवृद्धिकरा भवन्ति ।\nषद्पञ्चसप्तसंहितानि शुभ्रप्रदानि त्रिद्व्येकबिन्दुयुतभानि न शोभनानि",
+      "english_meaning": "Signs having 8 dots (Bindus) promote growth, strength, and prosperity of that house. Signs with 6, 5, or 7 dots are auspicious. Signs with 3, 2, or 1 dots are not auspicious.",
+      "hindi_meaning": "मेष आदि जिन राशियों में ८ बिन्दु होते हैं, वे उस भाव की पुष्टि, बल और वृद्धि करने वाली होती हैं। ६, ५ और ७ बिन्दुओं वाली राशियाँ शुभ फल देती हैं, जबकि ३, २ और १ बिन्दु वाली राशियाँ शुभ नहीं मानी जातीं।"
+    },
+    {
+      "number": "४",
+      "text": "मिश्रं फलं भवति सागरबिन्दुयोगे रोगापवादभयदा यदि शून्यभावाः ।\nएकादिबिन्दुयुतभानुमुखग्रहाणां भिन्नाष्टवर्गजनि सर्वफलं प्रवचिम्",
+      "english_meaning": "Signs with 4 dots give mixed results. Signs with zero dots give diseases, slanders, and fear. Now I shall describe the results of the Sun and other planets based on the dots in their individual Ashtakavargas.",
+      "hindi_meaning": "४ बिन्दुओं वाली राशियों में मिश्रित फल मिलता है। शून्य बिन्दु होने पर रोग, अपवाद और भय प्राप्त होता है। अब मैं सूर्य आदि ग्रहों के भिन्नाष्टकवर्ग में १ आदि बिन्दुओं के फल का वर्णन करूँगा।"
+    },
+    {
+      "number": "५",
+      "text": "करोति नानाविधरोगदुःखभयाटनादीनि च सैकबिन्दुः ।\nद्विको मनस्तापनृपालचोरकुताण्वादाशननाशनानि",
+      "english_meaning": "One dot causes various diseases, sorrows, fear, and aimless wandering. Two dots cause mental agony, and fear from the king or thieves.",
+      "hindi_meaning": "एक बिन्दु होने पर नाना प्रकार के रोग, दुःख, भय और भ्रमण आदि होते हैं। दो बिन्दु होने पर मानसिक सन्ताप और राजा या चोर से भय प्राप्त होता है।"
+    },
+    {
+      "number": "६",
+      "text": "त्रिकस्त्वसञ्चारकृशावलम्बकतेञ्रव्यकुलमानसानि ।\nसुखासुखार्थव्ययवित्तलाभफलदः सागरबिन्दुकः स्यात्",
+      "english_meaning": "Three dots cause lack of movement, physical weakness, and mental distress. Four dots give mixed results of happiness, sorrow, expenditure, and wealth.",
+      "hindi_meaning": "तीन बिन्दु होने पर गतिहीनता, शारीरिक दुर्बलता और मानसिक क्लेश होता है। चार बिन्दु सुख-दुःख, व्यय और धन लाभ का मिश्रित फल देते हैं।"
+    },
+    {
+      "number": "७",
+      "text": "सद्वस्त्रलाभसुतलालनसाधुसङ्गविद्याधननि कुरुते च सपञ्चबिन्दुः ।\nषड्बिन्दुकस्तु नवमोहनरूपशीलसङ्ग्रामजिद्धनयसोबलवाहनानि",
+      "english_meaning": "Five dots grant good clothes, sons, association with saints, learning, and wealth. Six dots grant beauty, good character, victory in battles, wealth, fame, strength, and vehicles.",
+      "hindi_meaning": "पाँच बिन्दु होने पर अच्छे वस्त्र, पुत्र-सुख, साधु-संगति, विद्या और धन प्राप्त होता है। ६ बिन्दु होने पर सुन्दर रूप, शील, युद्ध में विजय, धन, यश, बल और वाहन प्राप्त होते हैं।"
+    },
+    {
+      "number": "८",
+      "text": "ससप्नबिन्दुस्तुरगादियानसेनाधनप्राभवशोभनानि ।\nबिन्द्वष्टकः सप्तगुणाभिरामराजप्रतापं प्रकटीकरोति",
+      "english_meaning": "Seven dots grant vehicles like horses, armies, wealth, power, and splendor. Eight dots manifest kingly glory and royal splendor endowed with seven virtues.",
+      "hindi_meaning": "सात बिन्दु होने पर घोड़े आदि वाहन, सेना, धन, प्रभुत्व और शोभा प्राप्त होती है। ८ बिन्दु होने पर राजसी प्रताप और सात गुणों से युक्त वैभव प्रकट होता है।"
+    },
+    {
+      "number": "९",
+      "text": "शरादिबिन्दुस्थितराशियातः स्वकीयवर्गे शुभदस्तु नित्यम् ।\nअतोऽन्यथा चेदफलप्रदाता गोचारतः शुन्यफले प्रमादी",
+      "english_meaning": "A planet always gives auspicious results when passing through a sign where it has 5 or more dots in its own Ashtakavarga. Otherwise, it gives no fruit; in transit, a zero-dot sign causes great trouble.",
+      "hindi_meaning": "अपने अष्टकवर्ग में ५ आदि बिन्दुओं वाली राशि में गया हुआ ग्रह सदैव शुभ फल देता है। इससे विपरीत होने पर वह फलहीन होता है; गोचर में शून्य बिन्दु वाली राशि में जाने पर भारी संकट होता है।"
+    },
+    {
+      "number": "१०",
+      "text": "स्वोच्चमित्रादिवर्गस्थाः केन्द्रादिबलसंयुताः ।\nअनिष्टफलदाः सर्वे स्वल्पबिन्दुयुता यदि",
+      "english_meaning": "Even if planets are in their exaltation or friend's sign, or placed in angles and possess strength, they will all give inauspicious results if they have very few dots.",
+      "hindi_meaning": "यदि ग्रह अपने उच्च या मित्र राशि के वर्गों में हों और केन्द्रादि बल से युक्त भी हों, परन्तु उनमें बिन्दु कम हों, तो वे सभी अनिष्ट फल देने वाले होते हैं।"
+    },
+    {
+      "number": "११",
+      "text": "दुष्टस्थानस्थिता ये च ये च नीचारिभांशगाः ।\nते सर्वे शुभदा नित्यमधिबिन्दुयुता यदि",
+      "english_meaning": "Planets placed in bad houses (6, 8, 12), or in debilitation/enemy signs or Navamshas, will always give auspicious results if they possess many dots.",
+      "hindi_meaning": "जो ग्रह दुष्ट स्थानों (६, ८, १२) में हों या नीच और शत्रु की राशि/नवांश में हों, वे सभी यदि अधिक बिन्दुओं से युक्त हों तो नित्य शुभ फल देने वाले होते हैं।"
+    },
+    {
+      "number": "१२",
+      "text": "दिनेशमुख्यग्रहवर्गकेषु यदा शनिः शून्यगृहं प्रयातः ।\nकरोति पित्रादिकभावजानामतीव रोगारिभयाकुलानि",
+      "english_meaning": "When Saturn transits through a sign having zero dots in the Ashtakavarga of the Sun or other planets, it causes severe diseases and fear from enemies to the respective significators (like father).",
+      "hindi_meaning": "जब शनि सूर्य आदि मुख्य ग्रहों के अष्टकवर्ग में शून्य बिन्दु वाली राशि में जाता है, तब वह पिता आदि भावों के कारकों के लिए अत्यन्त रोग और शत्रु-भय उत्पन्न करता है।"
+    },
+    {
+      "number": "१३",
+      "text": "लग्नं गते दिनकरे रिपुनीचभागे जातः कृशानुयुगबिन्दुयुते च रोगी ।\nवाणादिबिन्दुसहितोदगे दिनेशे स्वोच्चेऽथवा निजगृहे नृपतिश्चिरायुः",
+      "english_meaning": "If the Sun is in Lagna in an enemy/debilitated sign and has 3 or 4 dots, the native is sickly. If the Sun has 5 or more dots and is in exaltation or own house in Lagna, the native becomes a king and lives long.",
+      "hindi_meaning": "यदि सूर्य लग्न में शत्रु या नीच राशि में हो और ३ या ४ बिन्दुओं वाला हो, तो जातक रोगी होता है। यदि सूर्य ५ आदि बिन्दुओं से युक्त होकर लग्न में अपने उच्च या स्वराशि में हो, तो जातक राजा और दीर्घायु होता है।"
+    },
+    {
+      "number": "१४",
+      "text": "केन्द्रत्रिकोणोपगते दिनेशे षट्पञ्चसप्ताष्टकबिन्दुवर्गे ।\nरुद्रामलानीचलाब्दकेषु जातस्य् वा तज्जनकस्य मृत्युः",
+      "english_meaning": "If the Sun is in an angle or trine with 6, 5, 7, or 8 dots, death of the native or his father may occur in specific years or conditions (as per technical calculation).",
+      "hindi_meaning": "यदि सूर्य केन्द्र या त्रिकोण में ६, ५, ७ या ८ बिन्दुओं के साथ हो, तो जातक या उसके पिता की मृत्यु विशिष्ट वर्षों में हो सकती है (गणना विशेष के अनुसार)।"
+    },
+    {
+      "number": "१५",
+      "text": "शोध्यावशिष्टद्वयबिन्दुयाते केन्द्रस्थिते सेन्दुशनीन्दुसूनौ ।\nभानौ दशाब्दात्परतः समृद्धां तातस्य राज्यश्रियमाहुरार्याः",
+      "english_meaning": "If the Sun is in an angle along with Moon, Saturn, and Mercury in a sign with 2 dots after reduction, the wise say that the father's royal prosperity increases after 10 years.",
+      "hindi_meaning": "यदि शोधन के बाद २ बिन्दुओं वाली राशि के केन्द्र में सूर्य, चन्द्रमा, शनि और बुध के साथ हो, तो विद्वान कहते हैं कि १० वर्ष के बाद पिता की राज्य-लक्ष्मी समृद्ध होती है।"
+    },
+    {
+      "number": "१६",
+      "text": "अथ चन्द्रफलम् ।\nशून्यागारं तरणिशशिनोरष्टवर्गे तदीयो\nमासो राशिः सकलशुभदे कर्मणि त्याज्य आहुः ।\nयक्ष्मालस्यं शशिनि तनुगे सौकलोकाक्षिबिन्दौ\nसप्तत्रिंशच्छरदि मरणं वित्र्खेटान्विते च",
+      "english_meaning": "In the Ashtakavarga of Sun and Moon, the sign/month with zero dots should be avoided for all auspicious deeds. If the Moon is in Lagna with 1, 2, or 3 dots, the native suffers from tuberculosis/laziness; death may occur in the 37th year if conjoined with malefics.",
+      "hindi_meaning": "सूर्य और चन्द्रमा के अष्टकवर्ग में शून्य बिन्दु वाली राशि या मास को सभी शुभ कार्यों में त्याग देना चाहिए। यदि चन्द्रमा लग्न में १, २ या ३ बिन्दुओं के साथ हो, तो राजयक्ष्मा (टीबी) और आलस्य होता है; पापग्रहों से युक्त होने पर ३७वें वर्ष में मृत्यु हो सकती है।"
+    },
+    {
+      "number": "१७",
+      "text": "केन्द्रत्रिकोणायगते शशाङ्के निचारिगे वृद्धिकलाविहीने ।\nबिन्दुद्विके वा यदि सत्रिबिन्दौ तद्भावनाशं कथयन्ति तज्ज्ञाः",
+      "english_meaning": "If the Moon is in an angle, trine, or 11th house, but in debilitation or enemy sign, waning (decreasing digits), and has 2 or 3 dots, the experts say it destroys that house's results.",
+      "hindi_meaning": "यदि चन्द्रमा केन्द्र, त्रिकोण या ११वें भाव में हो, परन्तु नीच या शत्रु राशि में हो, क्षीण हो और २ या ३ बिन्दुओं वाला हो, तो विद्वान उस भाव के फल का नाश कहते हैं।"
+    },
+    {
+      "number": "१८",
+      "text": "देवादिबिन्दुयुतकोणचतुष्टये वा लाभे विधौ बलयुते यदि भाववृद्धिः ।\nबिन्दुद्वष्टके शशिनि केन्द्रगते तु जाता विद्यायशोधनबलप्रबला नरेन्द्राः",
+      "english_meaning": "If a strong Moon is in a trine, angle, or 11th house with many dots (starting from 5), it increases the house's results. If the Moon has 8 dots and is in an angle, the native becomes a king, powerful in learning, fame, wealth, and strength.",
+      "hindi_meaning": "यदि बलवान चन्द्रमा ५ आदि अधिक बिन्दुओं के साथ त्रिकोण, केन्द्र या ११वें भाव में हो, तो भाव की वृद्धि होती है। यदि ८ बिन्दुओं वाला चन्द्रमा केन्द्र में हो, तो जातक विद्या, यश, धन और बल में प्रखर राजा होता है।"
+    },
+    {
+      "number": "१९",
+      "text": "अथ भौमफलम् ।\nस्वोच्चस्वके गुरुसुखोदयमानयाते बुन्द्वष्टके च यदि कोटिघनप्रभुः स्यात् ।\nचापाजसिंहमृगकीटविलग्नसंस्थे भौमे चतुष्टयफलोपगते च राजा",
+      "english_meaning": "Results of Mars: If Mars is in its exaltation/own sign in the 9th, 4th, 1st, or 10th house with 8 dots, the native becomes lord of crores of wealth. If Mars is in Sagittarius, Aries, Leo, Capricorn, or Scorpio in Lagna with 4 dots, the native becomes a king.",
+      "hindi_meaning": "मंगल का फल: यदि मंगल अपने उच्च या स्वराशि में ९, ४, १ या १०वें भाव में ८ बिन्दुओं के साथ हो, तो जातक करोड़ों के धन का स्वामी होता है। यदि मंगल धनु, मेष, सिंह, मकर या वृश्चिक लग्न में ४ बिन्दुओं के साथ हो, तो जातक राजा होता है।"
+    },
+    {
+      "number": "२०",
+      "text": "बिन्द्वष्टके धरणिजेऽतिलघुक्षितीशो मानेऽथवा तनुगते च महीपतिः स्यात् ।\nजातोऽवनीशकुलजो यदि देशनाथः स्वोच्चस्वराशिसहिते नृपचक्र्वर्ती",
+      "english_meaning": "With 8 dots, Mars even in a weak state makes one a small king; in the 10th or 1st house, it makes one a great king. If born in a royal family, one becomes the ruler of the country; in exaltation or own sign, one becomes an emperor (Chakravarti).",
+      "hindi_meaning": "८ बिन्दु होने पर मंगल अत्यन्त निर्बल होने पर भी छोटा राजा बनाता है; १०वें या १ले भाव में होने पर पृथ्वीपति (बड़ा राजा) बनाता है। राजकुल में जन्म होने पर देश का स्वामी और उच्च या स्वराशि में होने पर चक्रवर्ती राजा होता है।"
+    },
+    {
+      "number": "२१",
+      "text": "अथ बुधफलम् ।\nकेन्द्रत्रिकोणे वसुबिन्दुके ज्ञे जातीयविद्याधिकभोगशाली ।\nस्वोच्चादिकैकद्वितयत्रिबिन्दौ तद्भाववृद्धिर्नच भावहानिः",
+      "english_meaning": "Results of Mercury: If Mercury is in an angle or trine with 8 dots, the native is very learned and enjoys many pleasures. If Mercury is in exaltation etc. with 1, 2, or 3 dots, it only increases the house's results and does not cause loss.",
+      "hindi_meaning": "बुध का फल: यदि बुध केन्द्र या त्रिकोण में ८ बिन्दुओं के साथ हो, तो जातक अत्यधिक विद्या वाला और भोगी होता है। यदि बुध अपने उच्च आदि में १, २ या ३ बिन्दुओं के साथ हो, तो वह भाव की वृद्धि ही करता है, हानि नहीं।"
+    },
+    {
+      "number": "२२",
+      "text": "बिन्द्वाधिक्यं यत्तदागारमासे विद्यारम्भः सर्वविद्याकरः स्यात् ।\nगोचारेण ज्ञस्यं शुन्यालयस्थे मन्दे बन्धुज्ञातिसम्पद्विनाशः",
+      "english_meaning": "The month/sign where Mercury has more dots is excellent for starting education. In transit, if Saturn passes through Mercury's zero-dot sign, it causes destruction of kinsmen, relatives, and wealth.",
+      "hindi_meaning": "बुध के जिस राशि/मास में अधिक बिन्दु हों, वहाँ विद्यारम्भ करना सब विद्याओं को देने वाला होता है। गोचर में बुध के शून्य बिन्दु वाले स्थान में शनि के जाने पर बंधु, ज्ञाति और सम्पत्ति का विनाश होता है।"
+    },
+    {
+      "number": "२३",
+      "text": "अथ गुरुफलम् ।\nजीवाष्टवर्गाधिकबिन्दुराशौ लग्ने निषेकं कुरुते सुतार्थी ।\nतद्राशिदिग्भागगृहस्थितानि गोवित्तयानानि बहूनि च स्युः",
+      "english_meaning": "Results of Jupiter: One desiring a son should perform conception (Nisheka) when the transiting Lagna is in a sign where Jupiter has many dots. That sign's direction will bring much wealth, cattle, and vehicles.",
+      "hindi_meaning": "गुरु का फल: पुत्र की इच्छा रखने वाले को गुरु के अष्टकवर्ग में अधिक बिन्दुओं वाली राशि के लग्न में निषेक (गर्भाधान) करना चाहिए। उस राशि की दिशा में बहुत गौ, धन और वाहन प्राप्त होते हैं।"
+    },
+    {
+      "number": "२४",
+      "text": "जीवाष्टवर्गलघुबिन्दुगृहोपयाते भानौ कृताखिलशुभानि विनाशितानि ।\nपञ्चादिबिन्दिन्करिपुव्ययरन्ध्रगेज्ये जातश्चिरायुरतिवित्तजितारिकः स्यात्",
+      "english_meaning": "All auspicious deeds are destroyed if the Sun transits through a sign where Jupiter has very few dots. If Jupiter is in the 6th, 12th, or 8th house with 5 or more dots, the native is long-lived, very wealthy, and conqueror of enemies.",
+      "hindi_meaning": "गुरु के अष्टकवर्ग में कम बिन्दुओं वाली राशि में सूर्य के जाने पर सभी शुभ कार्य नष्ट हो जाते हैं। यदि गुरु ६, १२ या ८वें भाव में ५ आदि बिन्दुओं के साथ हो, तो जातक दीर्घायु, अत्यन्त धनी और शत्रुओं को जीतने वाला होता है।"
+    },
+    {
+      "number": "२५",
+      "text": "स्वोच्चेऽथवा निजगृहे वसुबन्धुयुक्ते केन्द्रस्थिते सुरगुरौ गुरुभावगे वा ।\nनीचारिभावमपहाय विमूढराशौ जातः स्वकीययशसा पृथिवीपतिः स्यात्",
+      "english_meaning": "If Jupiter is in exaltation or own house with 8 or 4 dots, placed in an angle or the 9th house, and is not in debilitation or enemy sign or combustion, the native becomes a king through his own fame.",
+      "hindi_meaning": "यदि गुरु अपने उच्च या स्वराशि में ८ या ४ बिन्दुओं के साथ हो, केन्द्र या ९वें भाव में हो, और नीच, शत्रु राशि या अस्त न हो, तो जातक अपने यश से पृथ्वीपति (राजा) होता है।"
+    },
+    {
+      "number": "२६",
+      "text": "यदा महीदेवकुलप्रजाता तदीययोगे नरपालतुल्याः ।\nकृतानि पुण्यप्रभवप्रसिद्धबुद्धिप्रतापानि गुणाभिरामाः",
+      "english_meaning": "If born in a Brahmin family, such natives become equal to kings, endowed with the power of merit, famous intelligence, and pleasing virtues.",
+      "hindi_meaning": "यदि ब्राह्मण कुल में जन्म हो, तो ऐसे जातक राजा के समान होते हैं, जो पुण्य के प्रताप, प्रसिद्ध बुद्धि और सुन्दर गुणों से युक्त होते हैं।"
+    },
+    {
+      "number": "२७",
+      "text": "ससप्तबिन्दौ सह लक्ष्मणेन जीवे बहुस्त्रीधनपुत्रवन्तः ।\nषड्बिन्दुके वाहनवित्तवन्तः सपञ्चबिन्दौ जयशीलवन्तः",
+      "english_meaning": "With 7 dots, Jupiter makes one possess many wives, wealth, and sons. With 6 dots, it gives vehicles and wealth. With 5 dots, it makes one victorious.",
+      "hindi_meaning": "७ बिन्दु होने पर गुरु अनेक स्त्रियों, धन और पुत्रों वाला बनाता है। ६ बिन्दु होने पर वाहन और धन देता है। ५ बिन्दु होने पर विजयी बनाता है।"
+    },
+    {
+      "number": "२८",
+      "text": "अथ शुक्रफलम् ।\nसाष्टबिन्दुफलकोणकेन्द्रगे भार्गवे तु बलवाहनाधिपः ।\nआयुरन्तमविनाशभोगवान् वित्तरव्नविभुरद्रिबिन्दुके",
+      "english_meaning": "Results of Venus: If Venus is in a trine or angle with 8 dots, the native is a lord of strength and vehicles, enjoying imperishable pleasures until death. With 7 dots, one is a lord of wealth and gems.",
+      "hindi_meaning": "शुक्र का फल: यदि शुक्र त्रिकोण या केन्द्र में ८ बिन्दुओं के साथ हो, तो जातक बल और वाहनों का स्वामी होता है तथा मृत्यु पर्यन्त अविनाशी भोग भोगता है। ७ बिन्दु होने पर वह धन और रत्नों का स्वामी होता है।"
+    },
+    {
+      "number": "२९",
+      "text": "नीचास्तरिष्फनिधनोपगते तु काव्ये पूर्वोदितक्षितिपयोगविनाशनं स्यात् ।\nशुक्रोऽल्पबिन्दुयुतमन्दिरदिग्वभागे स्त्रीवश्यहेतुशयनीयगृहं प्रशस्तम्",
+      "english_meaning": "If Venus is in debilitation, combustion, 12th or 8th house, the previously mentioned royal yogas are destroyed. The direction/sign where Venus has very few dots is recommended for the bedroom to influence women.",
+      "hindi_meaning": "यदि शुक्र नीच, अस्त, १२वें या ८वें भाव में हो, तो पहले कहे गए राजयोग नष्ट हो जाते हैं। शुक्र के अष्टकवर्ग में जहाँ कम बिन्दु हों, उस दिशा या राशि में स्त्रियों को वश में करने के लिए शयनगृह (बेडरूम) बनाना श्रेष्ठ है।"
+    },
+    {
+      "number": "३०",
+      "text": "अथ शनिफलम् ।\nकोणस्य शून्यतरराशिगते तु मने जातस्य मृत्युफलमाशुधनक्षयो वा ।\nएकद्विलोकयुगबिन्दुयुते च केन्द्रे मुक्ते स्वतुङ्गभवने रविजेऽल्पमायुः",
+      "english_meaning": "Results of Saturn: If Saturn is in a sign with zero dots in a trine, it causes death or immediate loss of wealth. If Saturn is in an angle (except its exaltation) with 1, 2, or 4 dots, the life span is short.",
+      "hindi_meaning": "शनि का फल: यदि शनि त्रिकोण में शून्य बिन्दुओं वाली राशि में हो, तो जातक की मृत्यु या शीघ्र धन-नाश होता है। यदि शनि १, २ या ४ बिन्दुओं के साथ केन्द्र में हो (उच्च राशि को छोड़कर), तो आयु कम होती है।"
+    },
+    {
+      "number": "३१",
+      "text": "षट्पञ्चनिदुसहिते तनुगे बलाढ्ये जन्मादिदुःखबहुलं धननाशमेति ।\nमन्दे शरादिफलनीचसपत्नभावे जातश्चिरायुरतिभनवर्गकेन्द्रौ",
+      "english_meaning": "If Saturn has 5 or 6 dots and is strong in Lagna, it causes much sorrow and loss of wealth. If Saturn has 5 or more dots and is in debilitation or enemy sign, but in an angle of its own division, the native is long-lived.",
+      "hindi_meaning": "यदि शनि ५ या ६ बिन्दुओं के साथ लग्न में बलवान हो, तो जन्म से ही बहुत दुःख और धन का नाश होता है। यदि शनि ५ आदि बिन्दुओं के साथ नीच या शत्रु राशि में हो, परन्तु अपने वर्ग के केन्द्र में हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "३२",
+      "text": "मूढारिनीचगृहगे शरवेदबिन्दौ दास्युष्ट्रवित्तहितास्तनये तनुस्थे ।\nसौरेऽष्टबिन्दुगणिते परमन्त्रतन्त्रग्नामाधिपास्तु गिरिबिन्दुगृहे धनाढ्यः",
+      "english_meaning": "If Saturn is in combustion, enemy or debilitation sign with 5 or 4 dots in Lagna, the native benefits from servants, camels, and wealth. With 8 dots, one knows supreme mantras and tantras and is a leader of a village/town; with 7 dots, one is very wealthy.",
+      "hindi_meaning": "यदि शनि अस्त, शत्रु या नीच राशि में ५ या ४ बिन्दुओं के साथ लग्न में हो, तो दास, ऊँट और धन से लाभ होता है। ८ बिन्दु होने पर जातक श्रेष्ठ मन्त्र-तन्त्र जानने वाला और ग्राम/नगर का अधिपति होता है; ७ बिन्दु होने पर अत्यन्त धनी होता है।"
+    },
+    {
+      "number": "३३",
+      "text": "अथ प्रस्तारकम् ।\nआलिख्य चक्रं नवपूर्वरेखा याम्योत्तरस्था दश च त्रिरेखाः ।\nप्रस्तारकं षण्ण्वतिप्रकोष्टं पङ्क्त्यष्टकं चाष्टकवर्गजं स्यात्",
+      "english_meaning": "Prastara (Spread-out) Chart: Draw a chart with 9 horizontal and 13 vertical lines (or similar configuration), creating 96 squares in 8 rows for the Ashtakavarga.",
+      "hindi_meaning": "प्रस्तारक (विस्तार) चक्र: अष्टकवर्ग के लिए ९ पूर्व-पश्चिम और १३ उत्तर-दक्षिण रेखाएँ खींचकर ९६ कोष्ठकों और ८ पंक्तियों वाला चक्र बनाएँ।"
+    },
+    {
+      "number": "३४",
+      "text": "होराशशीबोधनशुक्रसूर्यभौमामरेन्द्राचिंतभानुपुत्राः ।\nयाम्यादिपङ्क्त्यष्टकराशिनाथाः क्रमेण तद्विन्दुफलप्रदाः सुय्ः",
+      "english_meaning": "The lords of the 8 rows from south onwards (or in order) are: Lagna, Moon, Mercury, Venus, Sun, Mars, Jupiter, and Saturn. They give points in their respective rows.",
+      "hindi_meaning": "दक्षिण आदि दिशा से ८ पंक्तियों के स्वामी क्रम से ये हैं: लग्न, चन्द्र, बुध, शुक्र, सूर्य, मंगल, गुरु और शनि। ये अपनी-अपनी पंक्तियों में बिन्दु प्रदान करते हैं।"
+    },
+    {
+      "number": "३५",
+      "text": "सबिन्दुगः सर्वफलप्रदः स्यादबिन्दुको यद्यफलप्रदः स्यात् ।\nअरातिनीचास्त्गतो नभोगः सबिन्दुकोऽपि प्रविलोपकर्ता",
+      "english_meaning": "A planet with dots gives results; without dots, it is fruitless. If a planet is in an enemy sign, debilitation, or combustion, it destroys results even if it has dots.",
+      "hindi_meaning": "बिन्दु युक्त होने पर ग्रह फल देता है; बिन्दु रहित होने पर निष्फल होता है। यदि ग्रह शत्रु राशि, नीच या अस्त हो, तो वह बिन्दु युक्त होने पर भी फल का लोप करने वाला होता है।"
+    },
+    {
+      "number": "३६",
+      "text": "अथ त्रिकोणशोधनम् ।\nपञ्च प्राचीरालिखे(स्वे)द्वाणरंख्यास्तिर्यघेखा वर्जितान्तश्चतुष्काः ।\nप्रागादीशा द्वादश व्योमवासा ज्योतिश्चक्रस्वामिनस्तूबराद्याः",
+      "english_meaning": "Trikona Shodhana (Trine Reduction): Arrange the 12 signs in four groups of three (trines). Aries, Leo, Sagittarius form one trine, and so on.",
+      "hindi_meaning": "त्रिकोण शोधन: १२ राशियों को चार त्रिकोणों (प्रत्येक में ३ राशियाँ) में व्यवस्थित करें। मेष, सिंह, धनु एक त्रिकोण बनाते हैं, इत्यादि।"
+    },
+    {
+      "number": "३७",
+      "text": "अजहरितुरगाङ्गैरुक्षकन्यामृगस्थैर्युगधटघटरूपैः कर्किकीटावसानैः ।\nदिनकरसुखवर्गे तत्त्रिकोणोपयाता लघुतरसमशून्या बिन्दवः शोधिताः स्युः",
+      "english_meaning": "Compare the dots in the signs of a trine. The minimum dot value should be subtracted from all three. If one sign has zero dots, no reduction is done.",
+      "hindi_meaning": "एक त्रिकोण की राशियों के बिन्दुओं की तुलना करें। सबसे कम बिन्दु वाली संख्या को तीनों में से घटा देना चाहिए। यदि किसी एक राशि में शून्य बिन्दु हों, तो कोई शोधन नहीं किया जाता।"
+    },
+    {
+      "number": "३८",
+      "text": "त्रिकोणभावेषु यदल्पबिन्दवस्तदीयबिन्दु भवतस्तु तावुभौ ।\nन बिन्दुको यस्तु न शोधितेतरौ समानसंख्या यदि सर्वमुस्सृजेत्",
+      "english_meaning": "In the trine houses, the least value becomes the common factor. If any house has no dots, the others are not reduced. If all three are equal, all are removed (made zero).",
+      "hindi_meaning": "त्रिकोण भावों में जो सबसे कम बिन्दु हों, वही संख्या आधार बनती है। यदि किसी भाव में बिन्दु न हों, तो अन्य शोधित नहीं किए जाते। यदि तीनों समान हों, तो सबको शून्य कर देना चाहिए।"
+    },
+    {
+      "number": "३९",
+      "text": "अथैकाधिपत्यशोधनम् । ।\nकण्ठीरवं कटक्भं च विना कुजादिकावासराशियुगलोपगबिन्दुसङ्घ्याः ॥\nतत्तुल्यशून्यविघमाग्नसहग्रहाद्यास्त्वेकाधिपत्यपरिशोधितशेषिताः स्युः",
+      "english_meaning": "Ekadhipatya Shodhana (Reduction for common lordship): Except for Leo (Sun) and Cancer (Moon), other planets rule two signs. This reduction applies to those pairs of signs.",
+      "hindi_meaning": "एकाधिपत्य शोधन: सिंह (सूर्य) और कर्क (चन्द्र) को छोड़कर, अन्य ग्रह दो-दो राशियों के स्वामी होते हैं। यह शोधन उन राशियों के जोड़ों पर लागू होता है।"
+    },
+    {
+      "number": "४०",
+      "text": "राशिद्वयं सद्युचरं न शोधयेदेकं द्वयोः शून्यममप्यशोधयेत् ।\nकलाधिके खेटयुते परं त्यजेत् तुल्यानभोगद्वितयं परित्यजेत्",
+      "english_meaning": "If both signs are occupied by planets, do not reduce. If one of the signs has zero dots, do not reduce. If a planet is in one sign and has more dots, remove the other's dots; if equal and occupied by planets, remove both.",
+      "hindi_meaning": "यदि दोनों राशियों में ग्रह हों, तो शोधन न करें। यदि किसी एक राशि में शून्य बिन्दु हों, तो भी शोधन न करें। यदि एक में ग्रह हो और उसमें अधिक बिन्दु हों, तो दूसरे को त्याग दें; यदि दोनों में ग्रह और समान बिन्दु हों, तो दोनों का त्याग करें।"
+    },
+    {
+      "number": "४१",
+      "text": "सखेचराखेचरबिन्दुसाम्ये विशोधयेदग्रहबिन्दुसङ्ख्याम् ।\nविखेटराशिद्वयबिन्दवो ये न्यूनाधिका न्यूनसमा विधेयाः",
+      "english_meaning": "If one has a planet and the other doesn't, and dots are equal, remove the dots of the unoccupied sign. If neither has a planet, make both equal to the minimum value.",
+      "hindi_meaning": "यदि एक में ग्रह हो और दूसरे में नहीं, और बिन्दु समान हों, तो बिना ग्रह वाली राशि के बिन्दु हटा दें। यदि दोनों में ग्रह न हों, तो दोनों को न्यूनतम बिन्दु के समान कर दें।"
+    },
+    {
+      "number": "४२",
+      "text": "खेटोपयाते लघुबिन्दुराशौ तत्तुल्यमायान्ति तदन्यसंख्याः ।\nपूर्वं त्रिकोणं परिशोध्य पश्चादेकाधिपत्यस्य ततः प्रकल्प्याः",
+      "english_meaning": "If a planet is in the sign with fewer dots, that value is maintained. Perform Trine reduction first, then Ekadhipatya reduction.",
+      "hindi_meaning": "यदि कम बिन्दु वाली राशि में ग्रह हो, तो वह संख्या बनी रहती है। पहले त्रिकोण शोधन करें, उसके बाद ही एकाधिपत्य शोधन करना चाहिए।"
+    },
+    {
+      "number": "४३",
+      "text": "शोध्यावशिष्टद्वयबिन्दुयाते गुणीकृतानि मेषादिमानैर्गुणक हि भानाम् ।\nसूर्यादिकास्ते गुणिताः स्वमानैरेषाम् ग्रहाणां गुणकं वदन्ति",
+      "english_meaning": "The remainders after reduction are multiplied by the specific numerical values assigned to the signs (Aries etc.) and planets (Sun etc.) to calculate longevity.",
+      "hindi_meaning": "शोधन के बाद बचे हुए बिन्दुओं को राशियों (मेष आदि) और ग्रहों (सूर्य आदि) के लिए निर्धारित विशिष्ट गुणों से गुणा किया जाता है, ताकि आयु की गणना की जा सके।"
+    },
+    {
+      "number": "४४",
+      "text": "शैलाशावसुसागराम्बरशरैः शैलाहिगोसायकै-\nरीशद्वादशमिश्र राशिगुणकैर्मेषादिभानां क्रमात् ।\nबाणैः पञ्चभिरष्ट्कैः शरनभःशैलेषुभिर्भिस्वरा-\nदेवं व्योमतलाधिवासगुणकैरायुर्विधानोदितैः",
+      "english_meaning": "The numerical values for the 12 signs and the planets are given (e.g., 7, 10, 8, 4, 10, 5, etc.) for the calculation of longevity according to the rules.",
+      "hindi_meaning": "नियमों के अनुसार आयु की गणना के लिए १२ राशियों और ग्रहों के विशिष्ट मान (जैसे ७, १०, ८, ४, १०, ५ आदि) दिए गए हैं।"
+    },
+    {
+      "number": "४५",
+      "text": "तद्राशिखेटगुणकैक्यफलानि हृत्वा त्रिशद्भिरब्दचयमासदिनादिकाः स्युः ।\nतद्द्वादशाधिकसमा यदि राशिमानैराहृत्य तत्समतयाऽनुहरेत्तदायुः",
+      "english_meaning": "The sum obtained from multiplying the signs and planets is divided by 30 to get years, months, and days. If the years exceed 12, reduce accordingly as per the rules.",
+      "hindi_meaning": "राशियों और ग्रहों के गुणन से प्राप्त योग को ३० से विभाजित करने पर वर्ष, मास और दिन प्राप्त होते हैं। यदि वर्ष १२ से अधिक हों, तो नियमों के अनुसार शोधन करें।"
+    },
+    {
+      "number": "४६",
+      "text": "उच्चं गतस्य द्विगुणं तदीयं नीचं गतस्यास्तगतस्य चार्द्धम् ।\nअतोऽन्तराले त्वनुपात्यमायुरारस्य वक्रे द्विगुणिकृतं स्यात्",
+      "english_meaning": "Longevity is doubled for a planet in exaltation and halved for a planet in debilitation or combustion. Use proportion for positions in between; for retrograde Mars, it is doubled.",
+      "hindi_meaning": "उच्च राशि में स्थित ग्रह के लिए आयु दुगुनी और नीच या अस्त ग्रह के लिए आधी कर दी जाती है। बीच की स्थितियों के लिए अनुपात का प्रयोग करें; वक्री मंगल के लिए इसे दुगुना किया जाता है।"
+    },
+    {
+      "number": "४७",
+      "text": "मूलत्रिकोणनिजमित्रगृहोपगानां तुङ्गादिवर्गशुभयोगनिरीक्षितानाम् ।\nउक्तप्रकारगणितागममायुरेव पापारिवर्गसहितस्य विपादमायुः",
+      "english_meaning": "Planets in Moolatrikona, own, or friend's sign, or in auspicious divisions or aspected by benefics, contribute fully to longevity. Those in malefic or enemy divisions contribute only one-fourth.",
+      "hindi_meaning": "मूलत्रिकोण, स्वराशि या मित्र राशि में स्थित, अथवा शुभ वर्गों में या शुभ दृष्ट ग्रह पूर्ण आयु देते हैं। पाप या शत्रु वर्गों में स्थित ग्रह केवल एक-चौथाई आयु देते हैं।"
+    },
+    {
+      "number": "४८",
+      "text": "रविमुख्यनभोगदत्तसंख्याः परमायुः शरदस्तु मानवानाम् ।\nसविलग्नसमाश्च केचिदाहुर्गुरुमूलात्समुपैति तुल्यमायुः",
+      "english_meaning": "The total years given by Sun and other planets constitute the maximum longevity of humans. Some say it matches the Lagna's contribution; others say it derives from Jupiter's base.",
+      "hindi_meaning": "सूर्य आदि ग्रहों द्वारा दिए गए कुल वर्ष मनुष्यों की परमायु बनाते हैं। कुछ लोग इसे लग्न के समान कहते हैं; अन्य गुरु के आधार से प्राप्त होना मानते हैं।"
+    },
+    {
+      "number": "४९",
+      "text": "केन्द्रादन्यगते चन्द्रे सखेटे चाष्टवर्गजम् ।\nआयुरेव नभःस्थाने शुभपापयुतेऽथवा",
+      "english_meaning": "If the Moon is in an angle or elsewhere along with other planets, the longevity is derived from the Ashtakavarga, regardless of whether planets are benefic or malefic.",
+      "hindi_meaning": "यदि चन्द्रमा अन्य ग्रहों के साथ केन्द्र या अन्यत्र हो, तो आयु अष्टकवर्ग से ही प्राप्त होती है, चाहे ग्रह शुभ हों या पाप।"
+    },
+    {
+      "number": "५०",
+      "text": "रव्यादिखेटस्थितराशियाताः स्वकीयवर्गोपगबिनुसंख्याः ।\nवेधाष्टवर्गप्रभवायुरब्दा भवन्ति सर्वे हरणक्रियाश्च",
+      "english_meaning": "The dots present in the signs occupied by Sun etc. in their own Ashtakavargas determine the years of longevity, after applying all necessary reductions and corrections.",
+      "hindi_meaning": "सूर्य आदि ग्रहों द्वारा अपनी-अपनी राशियों में प्राप्त बिन्दु ही आयु के वर्ष निर्धारित करते हैं, सभी आवश्यक शोधन और सुधार प्रक्रियाओं के बाद।"
+    },
+    {
+      "number": "५१",
+      "text": "तत्तत्कारकभावबिन्दुगुणितं शोध्यावशिष्टं फलं\nविम्शत्या सह सप्तभिश्च विहृतं तच्च्जेषताराशनौ ।\nतातस्तज्जननी सहोदरजनो बन्धुः सुतः स्त्रीस्वयं\nतत्तुल्या विलयं प्रयान्ति विपुलश्रीनाशहेतुश्च वा",
+      "english_meaning": "Multiply the remainder after reduction by the dots in the respective significator house, divide by 27. When Saturn transits through the resulting Nakshatra, death or loss of wealth may occur to father, mother, sibling, kinsmen, son, wife, or self.",
+      "hindi_meaning": "शोधन के बाद शेष फल को संबंधित कारक भाव के बिन्दुओं से गुणा करें, २७ से विभाजित करें। शेष बची संख्या वाले नक्षत्र में जब शनि का गोचर हो, तब पिता, माता, भाई, बंधु, पुत्र, स्त्री या स्वयं की मृत्यु या भारी धन-हानि हो सकती है।"
+    },
+    {
+      "number": "५२",
+      "text": "इति भिन्नाष्टवर्गः ।\nअथ समुदायाष्टकवर्गः ।\nततः समालिख्य भगोलचक्रं समस्तबिन्दुस्थितराशिकोष्ठम् ।\nरव्यादिकानामजपूर्वकाणां बिन्दूपगस्थानफ्लं वदामि",
+      "english_meaning": "Thus ends Bhinnashtakavarga. Now Samudayashtakavarga: Draw the zodiac chart showing total dots in each sign. I shall describe the results of the sum of dots from Sun onwards.",
+      "hindi_meaning": "यहाँ भिन्नाष्टकवर्ग समाप्त होता है। अब सामुदायाष्टकवर्ग: राशियों में कुल बिन्दुओं को दर्शाते हुए राशि चक्र बनाएँ। मैं सूर्य आदि के कुल बिन्दुओं के योग का फल कहूँगा।"
+    },
+    {
+      "number": "५३",
+      "text": "आपञ्चविंशति फलान्यफलान्यसत्यमात्रिंशदक्षसहितानि समध्यमानि ।\nत्रिंशत्पराणि सुखवित्तयशस्कराणि तद्भाववृद्धिफलदानि च सामुदाये",
+      "english_meaning": "Up to 25 dots, results are generally poor or fruitless. Up to 30 dots, results are moderate. Above 30 dots, results bring happiness, wealth, fame, and growth of that house.",
+      "hindi_meaning": "सामुदायाष्टकवर्ग में २५ बिन्दुओं तक फल प्रायः हीन या निष्फल होते हैं। ३० बिन्दुओं तक मध्यम फल होते हैं। ३० से अधिक बिन्दु होने पर सुख, धन, यश और उस भाव की वृद्धि होती है।"
+    },
+    {
+      "number": "५४",
+      "text": "ये तुङ्गराशिस्वसुहृद्गृहत्वा ये कोणकेन्द्रोपचयस्थितश्चः\nये सौम्यवर्गादिबलोपयातास्ते नाशदाः लाघवबिन्दुकाश्चेत्",
+      "english_meaning": "Even if planets are in exaltation, own or friend's sign, in trines, angles, or Upachaya houses, or possess strength of auspicious divisions, they cause destruction if they have very few dots.",
+      "hindi_meaning": "चाहे ग्रह उच्च, स्व या मित्र राशि में हों, त्रिकोण, केन्द्र या उपचय भावों में हों, अथवा शुभ वर्गों के बल से युक्त हों, यदि उनमें बिन्दु बहुत कम हों तो वे नाश करने वाले होते हैं।"
+    },
+    {
+      "number": "५५",
+      "text": "ये मान्दिराशिपतिना सह बोधकाश्च\nते सर्वमुख्यफलदास्त्वदिबिन्दुकाश्चेत्",
+      "english_meaning": "Planets that are associated with the lord of the sign occupied by Mandi (Gulika) give primary results if they have many dots.",
+      "hindi_meaning": "जो ग्रह मान्दि (गुलिक) की राशि के स्वामी के साथ सम्बन्ध रखते हों, वे यदि अधिक बिन्दुओं वाले हों तो मुख्य फल देने वाले होते हैं।"
+    },
+    {
+      "number": "५६",
+      "text": "मानस्थिताल्लाभगृहे बहुत्वे लाभाल्लघुत्वे यदि रिष्फराशौ ।\nरिष्फोपयातादधिके विलग्ने जातः सुखी वित्तयशोबलाढ्यः",
+      "english_meaning": "If dots in 11th house are more than the 10th, and 12th house has fewer dots than the 11th, and Lagna has more dots than the 12th, the native is happy, wealthy, famous, and strong.",
+      "hindi_meaning": "यदि १०वें भाव से ११वें में अधिक बिन्दु हों, ११वें से १२वें में कम हों, और १२वें से लग्न में अधिक बिन्दु हों, तो जातक सुखी, धनी, यशस्वी और बलवान होता है।"
+    },
+    {
+      "number": "५७",
+      "text": "खण्डत्रयं शफरकर्कटकीटकाद्यं तत्तच्चतुष्टयगृहोपगबिन्दुयुक्तम् ।\nआद्यं च मध्यमवसानभिति प्रयुक्तं केचिद्व्ययादिकमिति प्रवदन्ति लोके",
+      "english_meaning": "Divide the dots into three sections: Pisces to Gemini, Cancer to Libra, and Scorpio to Aquarius (or similar divisions). These sections represent different stages of life.",
+      "hindi_meaning": "बिन्दुओं को तीन खण्डों में विभाजित करें: मीन से मिथुन, कर्क से तुला, और वृश्चिक से कुम्भ (या इसी प्रकार के विभाग)। ये खण्ड जीवन की विभिन्न अवस्थाओं का प्रतिनिधित्व करते हैं।"
+    },
+    {
+      "number": "५८",
+      "text": "बिन्दुं स्यक्त्वा रिष्फरन्ध्रोपयातं शिष्टं खण्डं केचिदिच्छन्ति सन्तः ।\nतुल्यवल्पाधिक्यबिन्दुक्रमेण मिश्रं दुःखं सम्पदः स्यूर्नराणाम्",
+      "english_meaning": "Excluding the dots of the 12th and 8th houses, some experts evaluate the remaining sections. Based on whether dots are equal, fewer, or more, results are mixed, sorrowful, or prosperous.",
+      "hindi_meaning": "१२वें और ८वें भाव के बिन्दुओं को छोड़कर, कुछ विद्वान शेष खण्डों का विचार करते हैं। बिन्दुओं के समान, कम या अधिक होने के क्रम से मनुष्यों को मिश्रित, दुःखद या सुखद फल प्राप्त होते हैं।"
+    },
+    {
+      "number": "५९",
+      "text": "सौम्याक्रान्तं यदि सुखकरं मिश्रदं मिश्रयोगम् ।\nखण्डं पापद्युचरसहितं क्लेशयोगाकरं स्यात् ।\nबिन्दुस्वल्पे यदि निजमनस्तापवान् पापवादी\nबिन्द्वाधिक्ये वयसि विपुलः श्रीसमेतः प्रजातः",
+      "english_meaning": "A section occupied by benefics gives happiness; mixed planets give mixed results; malefics give distress. Fewer dots cause mental agony and slanders; more dots bring great prosperity during that age.",
+      "hindi_meaning": "शुभ ग्रहों से युक्त खण्ड सुखकारी होता है; मिश्रित ग्रह मिश्रित फल देते हैं; पापग्रह क्लेश देते हैं। कम बिन्दु होने पर मानसिक ताप और अपवाद होता है; अधिक बिन्दु होने पर उस अवस्था में भारी लक्ष्मी (सम्पत्ति) प्राप्त होती है।"
+    },
+    {
+      "number": "६०",
+      "text": "यावद्विन्दुर्लग्नगस्तावदीयसङ्ख्यातीते वत्सरे राजयानम् ।\nवित्तं पुत्रं चातिविद्यामुपैति जातः सपद्योगशाली नरश्चेत्",
+      "english_meaning": "When the years equal to the number of dots in Lagna pass, the native attains royal vehicles, wealth, sons, and great learning, provided they have auspicious yogas.",
+      "hindi_meaning": "लग्न में जितने बिन्दु हों, उतनी वर्ष की आयु बीतने पर जातक राज-वाहन, धन, पुत्र और अत्यधिक विद्या प्राप्त करता है, यदि वह शुभ योगों वाला हो।"
+    },
+    {
+      "number": "६१",
+      "text": "रिःफाधीशे मन्दगेहोदयस्थे होरारन्ध्रस्वामिनौ दुर्बलौ च ।\nलग्ने यावदिबिन्दुसंख्यास्तदीया जातस्यायुर्वत्सराः सम्भवन्ति",
+      "english_meaning": "If the 12th lord is in Saturn's house or Lagna, and the lords of Lagna and 8th house are weak, the number of dots in Lagna determines the native's years of life.",
+      "hindi_meaning": "यदि १२वें भाव का स्वामी शनि की राशि में या लग्न में हो, और लग्न तथा ८वें भाव के स्वामी निर्बल हों, तो लग्न में जितने बिन्दु होते हैं, उतनी ही जातक की आयु (वर्ष) होती है।"
+    },
+    {
+      "number": "६२",
+      "text": "यानाधीशे लग्नगे वाहनस्थे लग्नाधीशे तद्ग्रहोपेतराश्योः ।\nत्रिशत्संख्या बिन्दुवः सत्रयश्चेज्जाता राजश्रीनिदाना नरेशाः",
+      "english_meaning": "If the 4th lord is in Lagna, the Lagna lord is in 4th, and those signs have 33 dots, the native becomes a king endowed with royal splendor.",
+      "hindi_meaning": "यदि ४थे भाव का स्वामी लग्न में हो, लग्न का स्वामी ४थे में हो और उन राशियों में ३३ बिन्दु हों, तो जातक राज-लक्ष्मी से युक्त राजा होता है।"
+    },
+    {
+      "number": "६३",
+      "text": "होराबन्धुप्राप्तिभावत्रयेषु त्रिंशन्मानाधिक्यबिन्दूपगेषु ।\nजातस्तेजःश्रीबहुत्वं च राज्यं चत्वारिशद्वत्सरादूर्घ्वमेति",
+      "english_meaning": "If the 1st, 4th, and 11th houses have more than 30 dots each, the native attains great brilliance, prosperity, and a kingdom after the age of 40.",
+      "hindi_meaning": "यदि १ले, ४थे और ११वें भावों में ३०-३० से अधिक बिन्दु हों, तो जातक ४० वर्ष की आयु के बाद अत्यन्त तेज, लक्ष्मी और राज्य प्राप्त करता है।"
+    },
+    {
+      "number": "६४",
+      "text": "यत्यञ्चविंशतिमुखास्त्रिदशान्तसंख्या बन्धुस्थिता नवमराशिकबिन्दवश्च ।\nयद्यष्टकेन सह विशतिवत्सराणामन्ते परे शरदि वा नरवाहनाढ्यः",
+      "english_meaning": "If the 4th and 9th houses have dots ranging from 25 to 30, the native possesses vehicles (palanquins etc.) after the age of 28 or in the next year.",
+      "hindi_meaning": "यदि ४थे और ९वें भाव में २५ से ३० के बीच बिन्दु हों, तो जातक २८ वर्ष की आयु के बाद या अगले वर्ष में वाहनों (पालकी आदि) से युक्त होता है।"
+    },
+    {
+      "number": "६५",
+      "text": "देवाचार्ये वहनस्थे स्वतुङ्गे चत्वारिंशद्बिन्दुसङ्ख्यवत्सरेशे ।\nमेषगते लग्नगे वासरेशे जातो राज लक्षसंख्याश्चनायः",
+      "english_meaning": "If Jupiter is in its exaltation in the 4th house, and the sign has 40 dots, and the Sun is in Aries in Lagna, the native becomes a king ruling over lakhs of people.",
+      "hindi_meaning": "यदि गुरु ४थे भाव में अपने उच्च में हो और उस राशि में ४० बिन्दु हों, तथा सूर्य मेष राशि के लग्न में हो, तो जातक लाखों लोगों का अधिपति राजा होता है।"
+    },
+    {
+      "number": "६६",
+      "text": "चत्वारिंशद्बिन्दुयुक्ते विलग्ने चापे जीवे भार्गवे मीनराशौ ।\nस्वोच्चे भौमे कुम्भगे भानुपुत्रे जातः सर्वश्रीधरः सार्वभौमः",
+      "english_meaning": "If Lagna has 40 dots, Jupiter is in Sagittarius, Venus in Pisces, Mars in its exaltation, and Saturn in Aquarius, the native becomes a universal emperor (Sarvabhauma) possessing all wealth.",
+      "hindi_meaning": "यदि लग्न में ४० बिन्दु हों, गुरु धनु में, शुक्र मीन में, मंगल अपने उच्च में और शनि कुम्भ में हो, तो जातक सब प्रकार की लक्ष्मी से युक्त सार्वभौम राजा होता है।"
+    },
+    {
+      "number": "६७",
+      "text": "क्रियादिराशित्रितयोपयाता भवन्ति पूर्वादिचतुर्दशश्च ।\nफलाधिकं यदिशी तत्प्रदेशे धनादिवृद्धि समुपैति जातः",
+      "english_meaning": "The distribution of dots in groups of three signs from Aries onwards indicates results for the four directions (East etc.). Prosperity and wealth increase in the direction where dots are maximum.",
+      "hindi_meaning": "मेष आदि से तीन-तीन राशियों के समूहों में बिन्दुओं का वितरण चारों दिशाओं (पूर्व आदि) का फल दर्शाता है। जिस दिशा में बिन्दु अधिक हों, जातक उस दिशा में धन आदि की वृद्धि प्राप्त करता है।"
+    },
+    {
+      "number": "६८",
+      "text": "लग्नादिशन्यन्तगतं तुरङ्गैः सङ्गुण्य ताराहृतलब्धयाते ।\nरव्यादिपापे यदि कोणगे वा रोगादिपीडाविपुलं नराणाम्",
+      "english_meaning": "Specific mathematical calculations involving dots from Lagna to Saturn indicate periods of disease and suffering when malefics transit specific points.",
+      "hindi_meaning": "लग्न से शनि तक के बिन्दुओं से संबंधित विशिष्ट गणितीय गणनाएँ उन अवधियों को दर्शाती हैं जब पापग्रहों के विशिष्ट गोचर होने पर मनुष्यों को रोग और कष्ट होते हैं।"
+    },
+    {
+      "number": "६९",
+      "text": "मन्दाइलग्नान्तफलं च तद्वल्लग्नान्तमारादुदयात्कुजान्तम् ।\nशुभैक्यसंख्यागततारकायां शुभग्रहे सौख्यफलं वदन्ति",
+      "english_meaning": "Similarly, calculations from Saturn to Lagna, or Lagna to Mars etc., indicate periods of happiness when benefics transit the resulting points.",
+      "hindi_meaning": "इसी प्रकार शनि से लग्न तक, या लग्न से मंगल आदि तक की गणनाएँ उन अवधियों को दर्शाती हैं जब शुभ ग्रहों के गोचर होने पर सुख प्राप्त होता है।"
+    },
+    {
+      "number": "७०",
+      "text": "शोध्यं राशिद्युचरणगुणकैः संगुणय्यैतदैक्यं\nहत्वा शैलैरुडुगणहृतं लब्धमब्दादिकं स्यात् ।\nमानाधिक्ये विशतमशते तारकायुर्वराङ्गैः\nसगुण्याप्तं दिवसनिचयैमार्तुलैः शुद्धमायुः",
+      "english_meaning": "Another complex calculation involving reduced dots, sign/planet multipliers, and division by 7 or 27 is given to determine the exact longevity in years, months, and days.",
+      "hindi_meaning": "शुद्ध आयु (वर्ष, मास, दिन) निर्धारित करने के लिए शोधित बिन्दुओं, राशि/ग्रह गुणकों और ७ या २७ से विभाजन वाली एक और जटिल गणना दी गई है।"
+    },
+    {
+      "number": "७१",
+      "text": "स्वल्पमध्यबहुमानव्त्सरा मण्डलोनयुतकर्मकल्पिताः ।\nतुल्यकालमुपयान्ति सर्वतः सद्गुणोदयकटाक्षवीक्षणात्",
+      "english_meaning": "Short, medium, and long life spans are determined by these processes. Everything should be evaluated considering the overall strength and aspects of planets.",
+      "hindi_meaning": "अल्प, मध्य और दीर्घ आयु का निर्धारण इन प्रक्रियाओं द्वारा किया जाता है। ग्रहों के कुल बल और दृष्टि को ध्यान में रखकर ही सब कुछ विचारना चाहिए।"
+    },
+    {
+      "number": "७२",
+      "text": "श्रीवैद्यनाथकृतजातकपारिजाते पराशरादिफलसाररसोपयाते ।\nप्रस्तारभिन्नसमुदायकबिन्दुशीलः संकीर्तितस्तु सकलद्युचरप्रसादात्",
+      "english_meaning": "Thus, in the Jataka Parijata composed by Sri Vaidyanatha, the essence of results from Parashara and others is described, including Prastara, Bhinna, and Samudaya Ashtakavargas, by the grace of all planets.",
+      "hindi_meaning": "इस प्रकार श्री वैद्यनाथ कृत जातक पारिजात में, पराशर आदि के फलों के सार रूप में, सभी ग्रहों की कृपा से प्रस्तारक, भिन्न और सामुदायाष्टकवर्ग का वर्णन किया गया।"
+    }
+  ]
+}

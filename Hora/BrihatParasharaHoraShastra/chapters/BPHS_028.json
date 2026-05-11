@@ -1,0 +1,132 @@
+{
+  "source_file": "BPHS2130.md",
+  "source_chunk": "BPHS2130.json",
+  "chunk_index": 7,
+  "chapter": 28,
+  "variant": null,
+  "title": "अथेष्टकष्टाध्यायः",
+  "shloka_count": 20,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथ चेष्टमनिष्टं च ग्रहानां कथयाम्यहम् ।\nयद्वशाच्च प्रयच्छन्ति शुभाऽशुभदशाफलम्",
+      "english_meaning": "Now I shall describe the Ishta (favourable) and Kashta (unfavourable) effects of planets, based on which they bestow results during their dashas.",
+      "hindi_meaning": "अब मैं ग्रहों के इष्ट और कष्ट फलों का वर्णन करता हूँ, जिनके आधार पर वे अपनी दशाओं में शुभ और अशुभ फल प्रदान करते हैं।"
+    },
+    {
+      "number": 2,
+      "text": "स्वनीचोनो ग्रह शोध्यः षड्भाधिक्ये भमण्डलात् ।\nसैको राशिर्भवेदुच्चरश्मिर्द्विघ्नांशसंयुतः",
+      "english_meaning": "Subtract the debilitation point from the planet's longitude. If the result is more than 6 signs, subtract it from 12. Add one sign and double the remaining degrees for Uchcha Rashmi (Exaltation Rays).",
+      "hindi_meaning": "ग्रह के स्पष्ट अंशों में से उसकी नीच राशि के अंश घटा दें। यदि ६ राशि से अधिक हो, तो १२ राशि में से घटा दें। उसमें १ राशि जोड़कर अंशों को दुगुना करने पर 'उच्च रश्मि' प्राप्त होती है।"
+    },
+    {
+      "number": 3,
+      "text": "चेष्टाकेन्द्राच्च तद्रश्मिं साधयेदुच्चरश्मिवत् ।\nचेष्टाकेन्द्रं कुजादीनां पूर्वमुक्तं मया द्विज",
+      "english_meaning": "Calculate the Chesta Rashmi (Motional Rays) from the Chesta Kendra in the same manner as Uchcha Rashmi. I have previously explained the Chesta Kendra for Mars and other planets.",
+      "hindi_meaning": "चेष्टा केन्द्र से 'चेष्टा रश्मि' की गणना भी उच्च रश्मि की भांति ही करें। मंगल आदि ग्रहों के चेष्टा केन्द्र का वर्णन मैंने पहले ही कर दिया है।"
+    },
+    {
+      "number": 4,
+      "text": "सायनार्कस्त्रिभोऽर्कस्य व्यर्केन्दुश्च विधोस्तथा ।\nचेष्टाकेन्द्रं रसाल्पं तच्चक्राच्छोध्यं रसाधिके",
+      "english_meaning": "Formula for Sun and Moon's Chesta Kendra: Subtract 3 signs from Sun's longitude. For Moon, subtract the Sun from it.",
+      "hindi_meaning": "सूर्य और चन्द्रमा के चेष्टा केन्द्र की गणना: सूर्य के स्पष्ट अंशों में से ३ राशि घटाएं। चन्द्रमा के लिए, उसमें से सूर्य को घटा दें।"
+    },
+    {
+      "number": 5,
+      "text": "चेष्टोच्चरश्मियोगार्धं शुभरश्मिः प्रकीर्त्यते ।\nअष्टभ्यश्च विशुद्धोऽसाबशुभाख्यश्च कथ्यते",
+      "english_meaning": "The average of Uchcha Rashmi and Chesta Rashmi is called Shubha Rashmi (Benefic Rays). Subtracting this from 8 gives Ashubha Rashmi (Malefic Rays).",
+      "hindi_meaning": "उच्च रश्मि और चेष्टा रश्मि के योग का आधा 'शुभ रश्मि' कहलाता है। इसे ८ में से घटाने पर 'अशुभ रश्मि' प्राप्त होती है।"
+    },
+    {
+      "number": 6,
+      "text": "उच्चचेष्टाकरान् व्येकान् दिग्भिर्हत्वा तु योजयेत् ।\nतदर्धमिष्टसंज्ञं स्यात् कष्टं तत्षष्टितश्च्युतम्",
+      "english_meaning": "Calculation of Ishta Bala: Subtract 1 from both Uchcha and Chesta values, multiply by 10 and take the average. Subtracting Ishta from 60 gives Kashta Bala.",
+      "hindi_meaning": "इष्ट बल की गणना: उच्च और चेष्टा रश्मियों में से १-१ घटाकर, १० से गुणा कर उनका आधा लें। ६० में से इष्ट बल घटाने पर 'कष्ट बल' प्राप्त होता है।"
+    },
+    {
+      "number": 7,
+      "text": "स्वोच्चे मूलत्रिकोणे च स्वभेऽधिसुहृदीष्टभे ।\nसमभे शत्रुभे चाधिशत्रुभे नीचभे क्रमात्",
+      "english_meaning": "Strength values based on sign relationships: Exaltation (60), Moolatrikona (45), Own Sign (30), Great Friend (20), Friend (15), Neutral (8).",
+      "hindi_meaning": "विभिन्न गृह संबंधों में शुभ फल के मान: उच्च (६०), मूलत्रिकोण (४५), स्वगृह (३०), अधिमित्र (२०), मित्र (१५) और सम गृह में (८) विरूपा होती है।"
+    },
+    {
+      "number": 8,
+      "text": "षष्टिरिष्वब्धयस्त्रिंशदाकृतिस्तिथयो गजाः ।\nचत्वारो द्वौ च शून्यं च शुभमेतत्फलं गृहे",
+      "english_meaning": "Strength values for Enemy (4), Great Enemy (2) and Debilitation (0). These represent the Shubha (benefic) results in those signs.",
+      "hindi_meaning": "शत्रु गृह (४), अधिशत्रु (२) और नीच राशि में शुभ फल शून्य (०) होता है। ये उन राशियों में ग्रहों के शुभ फल के मान हैं।"
+    },
+    {
+      "number": 9,
+      "text": "षष्टितः पतितं चैतच्छेषं स्यादशुभं गृहे ।\nतदर्धमन्यवर्गेषु ज्ञेयं विप्र शुभाऽशुभम्",
+      "english_meaning": "Subtracting the Shubha value from 60 gives the Ashubha (malefic) value in that house. In other divisional charts, take half of these values.",
+      "hindi_meaning": "६० में से शुभ फल घटाने पर उस भाव में अशुभ फल प्राप्त होता है। अन्य वर्गों (वर्ग कुंडलियों) में इन मानों का आधा शुभ-अशुभ फल समझना चाहिए।"
+    },
+    {
+      "number": 10,
+      "text": "पञ्चस्विष्टफलं चाद्यात् समं षष्ठे ततः परम् ।\nअशुभं त्रिषु विज्ञेयमिति शास्त्रेषु निश्चितम्",
+      "english_meaning": "In the first five categories, Ishta phala is predominant; in the sixth it is neutral; and in the last three, Ashubha phala is certain.",
+      "hindi_meaning": "प्रथम पांच श्रेणियों में इष्ट फल प्रधान होता है, छठी में सम और अन्तिम तीन में अशुभ फल निश्चित रूप से जानना चाहिए।"
+    },
+    {
+      "number": 11,
+      "text": "दिग्बलं दिक्फलं तस्य तथा दिनफलं भवेत् ।\nतयोः फलं शुभं प्रोक्तमशुभं षष्टितश्च्युतम्",
+      "english_meaning": "Calculate Digbala and its results, and similarly Dina Bala. These results are called Shubha (benefic); subtracting from 60 gives Ashubha.",
+      "hindi_meaning": "दिग्बल और उसके फल की गणना करें, तथा वैसे ही दिन फल की भी। इन फलों को शुभ कहा गया है; ६० में से घटाने पर अशुभ फल प्राप्त होता है।"
+    },
+    {
+      "number": 12,
+      "text": "शुभेऽधिके शुभं ज्ञेयमशुभं त्वशुभेऽधिके ।\nदशाफलं नभोगस्य तथा भावफलं द्विज",
+      "english_meaning": "If Shubha phala is more, predict good results; if Ashubha is more, predict bad. This applies to both Dasha effects and Bhava effects.",
+      "hindi_meaning": "यदि शुभ फल अधिक हो तो शुभ परिणाम और अशुभ अधिक हो तो अशुभ परिणाम जानना चाहिए। यह दशाफल और भावफल दोनों पर लागू होता है।"
+    },
+    {
+      "number": 13,
+      "text": "बलैः षड्भिः समोधित्वा बलैक्येन भजेत् पृथक् ।\nतत्तद्बलफलानि स्युरशुभानि शुभानि च",
+      "english_meaning": "Calculate the results for all six strengths (Shadbala) separately. This gives the individual benefic and malefic results for each type of strength.",
+      "hindi_meaning": "छहों बलों (षड्बल) के आधार पर अलग-अलग फल निकालें। इससे प्रत्येक बल के शुभ और अशुभ फलों का ज्ञान होता है।"
+    },
+    {
+      "number": 14,
+      "text": "शुभपापफलाभ्यां च हन्याद् दृष्टिं बलं तथा ।\nदृष्टी ते शुभपापाख्ये बले स्यातां तदाह्वये",
+      "english_meaning": "Multiply the aspect and strength by the Shubha/Papa phala. This gives the Shubha/Papa components of the aspect and strength.",
+      "hindi_meaning": "शुभ और पाप फल को दृष्टि और बल से गुणा करें। इससे दृष्टि और बल के शुभ और पाप संज्ञक मान प्राप्त होते हैं।"
+    },
+    {
+      "number": 15,
+      "text": "भावानां च फले प्रोक्ते पतीनां च फले उभे ।\nराशौ शुभनभोगश्चेद् भावसाधनसंभवम्",
+      "english_meaning": "Effects of planets in houses and their lords: If a benefic planet is in a sign, use the Bhava-sadhana method to predict results.",
+      "hindi_meaning": "भावों और उनके स्वामियों के फल: यदि राशि में शुभ ग्रह हो, तो भाव-साधन के आधार पर शुभ फल जोड़ें और अशुभ घटाएं।"
+    },
+    {
+      "number": 16,
+      "text": "फलं तस्य शुभे युञ्ज्यादशुभे वर्जयेत् तथा ।\nपापश्चेदन्यथा चैवं बले दृष्ट्यां तथैव च",
+      "english_meaning": "Add the results for benefics and subtract for malefics. Apply similar logic for strengths and aspects.",
+      "hindi_meaning": "शुभ ग्रहों के फल को जोड़ें और अशुभ के फल को घटा दें। यही तर्क बल और दृष्टि के लिए भी अपनाना चाहिए।"
+    },
+    {
+      "number": 17,
+      "text": "युञ्ज्यादुच्चादिगे खेटे फलं नीचादिगे त्यजेत् ।\nएवं शुभाऽशुभं ज्ञात्वा जातकस्य फलं वदेत्",
+      "english_meaning": "Add results when a planet is in exaltation etc., and omit when in debilitation etc. Thus, after knowing the benefic/malefic nature, predict the native's life.",
+      "hindi_meaning": "उच्च आदि में होने पर फल जोड़ें और नीच आदि में होने पर छोड़ दें। इस प्रकार शुभ-अशुभ जानकर जातक का फलादेश करना चाहिए।"
+    },
+    {
+      "number": 18,
+      "text": "अष्टवर्गफलं चैवं स्थाने च करणेऽन्यथा ।\nराशिद्वयगते भावे तद्राश्यधिपतेः क्रिया",
+      "english_meaning": "The results of Ashtakavarga should also be considered in a similar manner. If a house spans two signs, use the lord of the primary sign.",
+      "hindi_meaning": "अष्टकवर्ग के फलों का विचार भी इसी प्रकार करना चाहिए। यदि कोई भाव दो राशियों में फैला हो, तो मुख्य राशि के स्वामी का विचार करें।"
+    },
+    {
+      "number": 19,
+      "text": "स्थानाधिकेन भावेन भावलाभः प्रकीर्तितः ।\nतत्समाने च तद्भावे तदानीं स्थानदान् ग्रहान्",
+      "english_meaning": "The gain of a house is indicated by the strength of its placement. If many planets give strength to a house, combine their effects.",
+      "hindi_meaning": "भाव की प्राप्ति उसके स्थान बल से होती है। यदि अनेक ग्रह किसी भाव को बल दे रहे हों, तो उनके सामूहिक प्रभाव का विचार करें।"
+    },
+    {
+      "number": 20,
+      "text": "संयोज्ये स्थानसंख्याया दलमेतत्समं फलम् ।\nएवं सखेटभावानां फलं ज्ञेयं शुभाऽशुभम्",
+      "english_meaning": "Divide the sum of strengths by the number of planets for average results. This is how the benefic and malefic effects of houses with planets are known.",
+      "hindi_meaning": "बलों के योग को ग्रहों की संख्या से भाग देने पर औसत फल प्राप्त होता है। इस प्रकार ग्रहों युक्त भावों के शुभ-अशुभ फल जानने चाहिए।"
+    }
+  ]
+}

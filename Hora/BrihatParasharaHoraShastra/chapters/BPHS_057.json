@@ -1,0 +1,504 @@
+{
+  "source_file": "BPHS5160.md",
+  "source_chunk": "BPHS5160.json",
+  "chunk_index": 7,
+  "chapter": 57,
+  "variant": null,
+  "title": "अथ शन्यन्तर्दशाफलाध्यायः",
+  "shloka_count": 82,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "मूलत्रिकोणे स्वर्क्षे वा तुलायामुच्चगेऽपि वा ।\nकेन्द्रत्रिकोणलाभे वा राजयोगादिसंयुते",
+      "english_meaning": "Saturn sub-period in Saturn's Mahadasa: If Saturn is in its own sign (Capricorn/Aquarius) or exaltation sign (Libra).",
+      "hindi_meaning": "शनि की महादशा में शनि की अन्तर्दशा का फल: यदि शनि अपनी स्वराशि (मकर/कुम्भ) या उच्च राशि (तुला) में हो।"
+    },
+    {
+      "number": 2,
+      "text": "राज्यलाभो महत्सौख्यं दारपुत्रादिवर्धनम् ।\nवाहनत्रयसंयुक्तं गजाश्वाम्बरसङ्कुलम्",
+      "english_meaning": "Placement in a Kendra or Trikona from the Lagna is considered highly favorable for gains through labor.",
+      "hindi_meaning": "लग्न से केन्द्र या त्रिकोण में स्थिति श्रम के माध्यम से लाभ के लिए अत्यन्त अनुकूल मानी जाती है।"
+    },
+    {
+      "number": 3,
+      "text": "महाराजप्रसादेन सेनापत्यादिलाभकृत् ।\nचतुष्पाज्जीवलाभः स्याद्ग्रामभूम्यादिलाभकृत्",
+      "english_meaning": "It brings royal favor, wealth from foreign lands, and significant success in agriculture and land-related works.",
+      "hindi_meaning": "यह राजकृपा, विदेशी भूमि से धन, और कृषि एवं भूमि सम्बन्धी कार्यों में महत्त्वपूर्ण सफलता लाता है।"
+    },
+    {
+      "number": 4,
+      "text": "तथाऽष्टमे व्यये मन्दे नीचे वा पापसंयुते ।\nतद्भुक्त्यादौ राजभीतिर्विषशस्त्रादिपीडनम्",
+      "english_meaning": "Happiness from sons, steady accumulation of wealth, and general prosperity are the results of this placement.",
+      "hindi_meaning": "पुत्रों से सुख, धन का स्थिर संचय और सामान्य समृद्धि इस स्थिति के फल हैं।"
+    },
+    {
+      "number": 5,
+      "text": "रक्तस्त्रावो गुल्मरोगो ह्यतिमारादिपीडनम् ।\nमध्ये चौरादि भीतिश्च देशत्यागो मनोरुजः",
+      "english_meaning": "If Saturn is in the 6th, 8th, or 12th house or is weak/debilitated, it causes various hardships.",
+      "hindi_meaning": "यदि शनि छठे, आठवें या बारहवें भाव में हो या निर्बल/नीच का हो, तो यह विभिन्न कष्टों का कारण बनता है।"
+    },
+    {
+      "number": 6,
+      "text": "अन्ते शुभकरी चैव शनेरन्तर्दशा द्विज ।\nद्वितीयद्यूननाथे तु ह्यपमृत्युर्भविष्यति",
+      "english_meaning": "Loss of wealth, intense mental pain, and fear from fire, thieves, or accidents trouble the native.",
+      "hindi_meaning": "धन की हानि, तीव्र मानसिक पीड़ा और अग्नि, चोरों या दुर्घटनाओं से भय जातक को परेशान करते हैं।"
+    },
+    {
+      "number": 7,
+      "text": "तद्दोषपरिहारार्थं म्र्ट्युञ्जयजपं चरेत् ।\nततः शान्तिमवाप्नोति शङ्करस्य प्रसादतः",
+      "english_meaning": "Distress to family members and illness related to Vata (wind) disorders or chronic pains characterize this phase.",
+      "hindi_meaning": "परिवार के सदस्यों को कष्ट और वात दोष या पुराने दर्द से सम्बन्धित बीमारियाँ इस चरण की विशेषता हैं।"
+    },
+    {
+      "number": 8,
+      "text": "मन्दस्यान्तर्गते सौम्ये त्रिकोणे केन्द्रगेऽपि वा ।\nसम्मानं च यशः कीर्तिं विद्यालाभं धनागमम्",
+      "english_meaning": "If in the 2nd or 7th house, it causes fear of death. Reciting Mrityunjaya Japa with devotion is essential.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो मृत्यु का भय होता है। भक्ति के साथ मृत्युञ्जय जप करना आवश्यक है।"
+    },
+    {
+      "number": 9,
+      "text": "स्वदेशे सुखमाप्नोति वाहनादिफलैर्युतम् ।\nयज्ञादिकर्मसिद्धिश्च राजयोगादिसम्भवम्",
+      "english_meaning": "Mercury sub-period in Saturn's Mahadasa: If Mercury is well-placed in Kendra or Trikona houses.",
+      "hindi_meaning": "शनि की महादशा में बुध की अन्तर्दशा का फल: यदि बुध केन्द्र या त्रिकोण भावों में शुभ स्थिति में हो।"
+    },
+    {
+      "number": 10,
+      "text": "देहसौख्यं हृदुत्साहं गृहे कल्याणसम्भवम् ।\nसेतुस्नानफलावाप्तिस्तीर्थयात्रादिकर्मणा",
+      "english_meaning": "Wealth, royal favor, and deep happiness from poetry and intellectual pursuits are the outcomes.",
+      "hindi_meaning": "धन, राजकृपा और काव्य एवं बौद्धिक प्रयासों से गहरा सुख इसके परिणाम हैं।"
+    },
+    {
+      "number": 11,
+      "text": "वाणिज्याद्धनलाभश्च पुराणश्रवणादिकम् ।\nअन्नदानफलं चैव नित्यं मिष्ठान्नभोजनम्",
+      "english_meaning": "Success in education, learning new skills, and the acquisition of fine ornaments bring joy.",
+      "hindi_meaning": "शिक्षा में सफलता, नए कौशल सीखना और सुन्दर आभूषणों की प्राप्ति हर्ष लाती है।"
+    },
+    {
+      "number": 12,
+      "text": "षष्ठाष्टमव्यये सौम्ये नीचे वास्तंगते सति ।\nरव्यारफणिसंयुक्ते दायेशाद्वा तथैव च",
+      "english_meaning": "If Mercury is weak or in the 6th, 8th, or 12th house, it leads to mental anxiety and financial losses.",
+      "hindi_meaning": "यदि बुध निर्बल हो या छठे, आठवें या बारहवें भाव में हो, तो यह मानसिक चिन्ता और वित्तीय हानि की ओर ले जाता है।"
+    },
+    {
+      "number": 13,
+      "text": "नृपाभिषेकमर्थाप्तिर्देशग्रामाधिपत्यता ।\nफलमीदृशमादौ तु मध्यान्ते रोगपीडनम्",
+      "english_meaning": "Mental instability, skin diseases, and problems in communication may arise during this period.",
+      "hindi_meaning": "इस अवधि के दौरान मानसिक अस्थिरता, चर्म रोग और संवाद में समस्याएँ उत्पन्न हो सकती हैं।"
+    },
+    {
+      "number": 14,
+      "text": "नष्टानि सर्वकार्याणि व्याकुलत्वं महद्भयम् ।\nद्वितीयसप्तमाधिशे देहबाधा भविष्यति",
+      "english_meaning": "If in the 2nd or 7th house, it causes physical pain. Performing Vishnu Puja ensures protection.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो यह शारीरिक पीड़ा देता है। विष्णु पूजा सुरक्षा सुनिश्चित करती है।"
+    },
+    {
+      "number": 15,
+      "text": "तद्दोषपरिहारार्थं विष्णुसाहस्रकं जपेत् ।\nअन्नदानं प्रकुर्वीत सर्वसम्पत्प्रदायकम्",
+      "english_meaning": "Ketu sub-period in Saturn's Mahadasa: If Ketu is well-placed in auspicious houses.",
+      "hindi_meaning": "शनि की महादशा में केतु की अन्तर्दशा का फल: यदि केतु शुभ भावों में अच्छी तरह स्थित हो।"
+    },
+    {
+      "number": 16,
+      "text": "मन्दस्यान्तर्गते केतौ शुभदृष्टियुतेक्षिते ।\nस्वोच्चे वा शुभराशिस्थे योगकारकसंयुते",
+      "english_meaning": "Royal favor, accumulation of wealth, and success in all major works are the positive results.",
+      "hindi_meaning": "राजकृपा, धन संचय और सभी प्रमुख कार्यों में सफलता इसके सकारात्मक परिणाम हैं।"
+    },
+    {
+      "number": 17,
+      "text": "केन्द्रकोणगते वापि स्थानभ्रंशो महद्भयम् ।\nदरिद्रबन्धनं भीतिः पुत्रदारादिनाशनम्",
+      "english_meaning": "If Ketu is weak or in the 6th, 8th, or 12th house, it causes losses and fear from enemies.",
+      "hindi_meaning": "यदि केतु निर्बल हो या छठे, आठवें या बारहवें भाव में हो, तो यह हानि और शत्रुओं से भय का कारण बनता है।"
+    },
+    {
+      "number": 18,
+      "text": "स्वप्रभोश्च महाकष्टं विदेशगमनं तथा ।\nलग्नाधिपेन संयुक्ते आदौ सौख्यं धनागमः",
+      "english_meaning": "Mental pain, loss of property, and constant fear from known and unknown enemies trouble the native.",
+      "hindi_meaning": "मानसिक पीड़ा, सम्पत्ति की हानि और ज्ञात-अज्ञात शत्रुओं से निरन्तर भय जातक को परेशान करते हैं।"
+    },
+    {
+      "number": 19,
+      "text": "गङ्गादिसर्वतीर्भेषु स्नानं दैवतदर्शनम् ।\nदायेशात्केन्द्रकोणे वा तृतीयभवराशिगे",
+      "english_meaning": "Illness and distress to family members can disrupt the native's household peace and harmony.",
+      "hindi_meaning": "परिवार के सदस्यों को बीमारी और कष्ट जातक की घरेलू शान्ति और सद्भाव को बाधित कर सकते हैं।"
+    },
+    {
+      "number": 20,
+      "text": "समर्थो धर्मबुद्धिश्च सौख्यं नृपसमागमः ।\nतथाऽष्टमे व्यये केतौ दायेशाद्वा तथैव च",
+      "english_meaning": "If in the 2nd or 7th house, it causes death-like fear. Donating a goat is the suggested remedy.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो मृत्यु तुल्य भय होता है। बकरे का दान करना सुझाया गया उपाय है।"
+    },
+    {
+      "number": 21,
+      "text": "अपमृत्युभयं चैव कुत्सितान्नस्य भोजनम् ।\nशीतज्वरातिसारश्च व्रणचौरादिपीडनम्",
+      "english_meaning": "Venus sub-period in Saturn's Mahadasa: If Venus is in a Kendra, Trikona, or its exaltation sign.",
+      "hindi_meaning": "शनि की महादशा में शुक्र की अन्तर्दशा का फल: यदि शुक्र केन्द्र, त्रिकोण या अपनी उच्च राशि में हो।"
+    },
+    {
+      "number": 22,
+      "text": "दारपुत्रवियोगश्च संसारे भवति ध्रुवम् ।\nद्वितियद्यूनराशिस्थे देह पीडा भविष्यति",
+      "english_meaning": "Royal favor, marriage, and the acquisition of several vehicles bring grand celebrations to the household.",
+      "hindi_meaning": "राजकृपा, विवाह और कई वाहनों की प्राप्ति घर में बड़े उत्सव लाती है।"
+    },
+    {
+      "number": 23,
+      "text": "छागदानं प्रकुर्वीत ह्यपमृत्युनिवारणम् ।\nकेतुग्रहप्रसादेन सुखशान्तिमवाप्नुयात्",
+      "english_meaning": "Happiness from wife and children, and the birth of a worthy son ensure the continuity of family prosperity.",
+      "hindi_meaning": "पत्नी और बच्चों से सुख, और एक योग्य पुत्र का जन्म पारिवारिक समृद्धि की निरन्तरता सुनिश्चित करता है।"
+    },
+    {
+      "number": 24,
+      "text": "मन्दस्यान्तर्गते शुक्रे स्वोच्चे स्वक्षेत्रगेऽपि वा ।\nकेन्द्रे वा शुभसंयुक्ते त्रिओकोणे लाभगेऽपि वा",
+      "english_meaning": "Construction of a new home and involvement in religious and charitable deeds are the hallmarks of this period.",
+      "hindi_meaning": "नये घर का निर्माण और धार्मिक एवं परोपकारी कार्यों में संलग्नता इस अवधि की प्रमुख विशेषताएँ हैं।"
+    },
+    {
+      "number": 25,
+      "text": "दारपुत्रधनप्राप्तिर्देहारोग्यं महोत्सवः ।\nगृहे कल्याण्सम्पत्ति राज्यलाभं महत्सुखम्",
+      "english_meaning": "Success in ventures related to distant lands and the acquisition of fine silk clothes are predicted.",
+      "hindi_meaning": "दूरस्थ भूमि से सम्बन्धित कार्यों में सफलता और सुन्दर रेशमी वस्त्रों की प्राप्ति की भविष्यवाणी की गई है।"
+    },
+    {
+      "number": 26,
+      "text": "महाराजप्रसादेन हीष्टसिद्धिः सुखावहा ।\nस्सम्मानं प्रभुसम्मानं प्रियवस्त्रादिलाभकृत्",
+      "english_meaning": "If Venus is weak or in the 6th, 8th, or 12th from Saturn, it leads to multiple sorrows.",
+      "hindi_meaning": "यदि शुक्र निर्बल हो या शनि से छठे, आठवें या बारहवें भाव में हो, तो यह अनेक दुःख देता है।"
+    },
+    {
+      "number": 27,
+      "text": "द्विपान्तराद्वस्त्रलाभः श्वेताश्वो महिषी तथा ।\nगुरुचारवशाद्भाग्यं सौख्यं च धनसम्पदः",
+      "english_meaning": "Trouble to the spouse, loss of wealth, and acute mental sorrow disrupt the native's peace.",
+      "hindi_meaning": "जीवनसाथी को कष्ट, धन की हानि और तीव्र मानसिक शोक जातक की शान्ति को बाधित करते हैं।"
+    },
+    {
+      "number": 28,
+      "text": "शनिचारान्मनुष्योऽसौ योगमाप्नोत्यसंशयम् ।\nशत्रुनीचास्तगे शुक्रे षष्ठाष्टमव्ययराशिगे",
+      "english_meaning": "Danger from thieves and government authorities causes constant anxiety to the native's mind.",
+      "hindi_meaning": "चोरों और सरकारी अधिकारियों से भय जातक के मन में निरन्तर चिन्ता पैदा करता है।"
+    },
+    {
+      "number": 29,
+      "text": "दारनाशो मनःक्लेशः स्थाननाशो मनोरुजः ।\nदारानां स्वजनक्लेशः सन्तापो जनविग्रहः",
+      "english_meaning": "The native may suffer from eye diseases and a general sense of physical exhaustion or weakness.",
+      "hindi_meaning": "जातक आँखों के रोगों और सामान्य शारीरिक थकावट या कमजोरी से पीड़ित हो सकता है।"
+    },
+    {
+      "number": 30,
+      "text": "दायेशाद्भाग्यगे चैव केन्द्रे वा लाभसंयुते ।\nराजप्रीतिकरं चैव मनोऽभीष्टप्रदायकम्",
+      "english_meaning": "If in the 2nd or 7th house, it causes a physical crisis. Performing Durga Puja ensures protection.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो यह शारीरिक संकट पैदा करता है। दुर्गा पूजा सुरक्षा सुनिश्चित करती है।"
+    },
+    {
+      "number": 31,
+      "text": "दानधर्मदयायुक्तं तीर्थयात्रादिकं फलम् ।\nसास्र्तार्थकाव्यरचनां वेदान्तश्रवणादिकम्",
+      "english_meaning": "Sun sub-period in Saturn's Mahadasa: If Sun is well-placed in Kendra, Trikona, or exaltation sign.",
+      "hindi_meaning": "शनि की महादशा में सूर्य की अन्तर्दशा का फल: यदि सूर्य केन्द्र, त्रिकोण या उच्च राशि में शुभ स्थिति में हो।"
+    },
+    {
+      "number": 32,
+      "text": "दारपुत्रादिसौख्यं च लभते नाऽत्र संशयः ।\nदायेशाद्व्ययगे शुक्रे षष्ठे वा ह्यष्टमेऽपि वा",
+      "english_meaning": "Victory over enemies, royal favor, and the acquisition of wealth and recognition occur.",
+      "hindi_meaning": "शत्रुओं पर विजय, राजकृपा और धन एवं सम्मान की प्राप्ति होती है।"
+    },
+    {
+      "number": 33,
+      "text": "नेत्रपीडा ज्वरभयं स्वकुलाचारवर्जितः ।\nकपोले दन्तशूलादि हृदि गुह्ये च पीडनम्",
+      "english_meaning": "General health and vitality improve, and the native achieves success in all their important works.",
+      "hindi_meaning": "सामान्य स्वास्थ्य और जीवन-शक्ति में सुधार होता है, और जातक अपने सभी महत्त्वपूर्ण कार्यों में सफलता प्राप्त करता है।"
+    },
+    {
+      "number": 34,
+      "text": "जलभीतिर्मनस्तापो वृक्षात्पतनसम्भवः ।\nराजद्वारे जनद्वेषः सोधरेण विरोधनम्",
+      "english_meaning": "If the Sun is weak or in the 6th, 8th, or 12th from Saturn, it causes health and legal troubles.",
+      "hindi_meaning": "यदि सूर्य निर्बल हो या शनि से छठे, आठवें या बारहवें भाव में हो, तो यह स्वास्थ्य और कानूनी परेशानियाँ देता है।"
+    },
+    {
+      "number": 35,
+      "text": "द्वितीयसप्तमाधीशे आत्मक्लेशो भविष्यति ।\nतद्दोषपरिहारार्थं दुर्गादेवीजपं चरेत्",
+      "english_meaning": "High fevers, intense physical pain, and trouble from government officials characterize this period.",
+      "hindi_meaning": "तीव्र ज्वर, तीव्र शारीरिक पीड़ा और सरकारी अधिकारियों से परेशानी इस अवधि की विशेषता है।"
+    },
+    {
+      "number": 36,
+      "text": "श्वेतां गां महिषीं दद्यादायुरारोग्यवृद्धिदाम् ।\nजगदम्बाप्रसादेन ततः सुखमवाप्नुयात्",
+      "english_meaning": "The native may face distress during travels and a constant fear of physical injuries or critical illness.",
+      "hindi_meaning": "जातक को यात्राओं के दौरान कष्ट और शारीरिक चोट या गम्भीर बीमारी का निरन्तर भय बना रह सकता है।"
+    },
+    {
+      "number": 37,
+      "text": "मन्दस्यान्तर्गते सूर्ये स्वोच्चे स्वक्षेत्रगेऽपि वा ।\nभाग्याधिपेन संयुक्ते केन्द्रलाभत्रिकोणगे",
+      "english_meaning": "If in the 2nd or 7th house, it causes a physical crisis. Performing Sun worship ensures recovery.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो यह शारीरिक संकट पैदा करता है। सूर्य उपासना आरोग्य सुनिश्चित करती है।"
+    },
+    {
+      "number": 38,
+      "text": "शुभदृष्टियुते वापि स्वप्रभोश्च महत्सुखम् ।\nगृहे कल्याणसम्पत्तिः पुत्रादिसुखवर्द्धनम्",
+      "english_meaning": "Moon sub-period in Saturn's Mahadasa: If Moon is well-placed and full of digits.",
+      "hindi_meaning": "शनि की महादशा में चन्द्रमा की अन्तर्दशा का फल: यदि चन्द्रमा शुभ भावों में और कलाओं से पूर्ण हो।"
+    },
+    {
+      "number": 39,
+      "text": "वाहनाम्बरपश्वादिगोक्षीरैस्संकुलं गृहम् ।\nलग्नाष्टमव्यये सूर्ये दायेशाद्वा तथैव च",
+      "english_meaning": "Kingdom, perfumes, clothes, and royal titles bring great honor and prosperity to the native.",
+      "hindi_meaning": "राज्य, सुगन्धित द्रव्य, वस्त्र और राजकीय उपाधियाँ जातक को महान सम्मान और समृद्धि प्रदान करती हैं।"
+    },
+    {
+      "number": 40,
+      "text": "हृद्रोगो मानहानिश्च स्थानभ्रंशो मनोरुजा ।\nइष्ट्बन्धुवियोगश्च उद्योगस्य विनाशनम्",
+      "english_meaning": "Happiness from family, birth of healthy children, and social recognition are the positive outcomes.",
+      "hindi_meaning": "परिवार से सुख, स्वस्थ बच्चों का जन्म और सामाजिक मान्यता इसके सकारात्मक परिणाम हैं।"
+    },
+    {
+      "number": 41,
+      "text": "तापज्वरादिपीडा च व्याकुलत्वं भयं तथा ।\nआत्मसम्बन्धिमरणमिष्टवस्तुवियोगकृत्",
+      "english_meaning": "Success in all undertakings and the acquisition of new ornaments ensure the family's well-being.",
+      "hindi_meaning": "सभी कार्यों में सफलता और नये आभूषणों की प्राप्ति परिवार का कल्याण सुनिश्चित करती है।"
+    },
+    {
+      "number": 42,
+      "text": "द्वितीयद्यूननाथे तु देहबाधा भविष्यति ।\nतद्दोषपरिहारार्थं सूर्यपूजां च कारयेत्",
+      "english_meaning": "If Moon is weak or in the 6th, 8th, or 12th from Saturn, it gives mental and physical pain.",
+      "hindi_meaning": "यदि चन्द्रमा निर्बल हो या शनि से छठे, आठवें या बारहवें भाव में हो, तो यह मानसिक और शारीरिक पीड़ा देता है।"
+    },
+    {
+      "number": 43,
+      "text": "मन्दस्यान्तर्गते चन्द्रे जीवदृष्टिसमन्विते ।\nस्वोच्चे स्वक्षेत्रकेन्द्रस्थे त्रिकोणे लाभगेऽपि वा",
+      "english_meaning": "Mental distress, loss of wealth, and an irrational fear of water or drowning may trouble the native during this phase.",
+      "hindi_meaning": "इस चरण के दौरान मानसिक कष्ट, धन की हानि और जल या डूबने का अकारण भय जातक को परेशान कर सकता है।"
+    },
+    {
+      "number": 44,
+      "text": "पूर्णे शुभग्रहैर्युक्ते राजप्रीतिसमागमः ।\nमहाराजप्रसादेन वाहनाम्बरभूषणम्",
+      "english_meaning": "The native may suffer from physical pain and persistent trouble or opposition from their own relatives.",
+      "hindi_meaning": "जातक को शारीरिक पीड़ा और अपने ही रिश्तेदारों से निरन्तर परेशानी या विरोध का सामना करना पड़ सकता है।"
+    },
+    {
+      "number": 45,
+      "text": "सौभाग्यं सुखवृद्धिं च भृत्यानां परिपालनम् ।\nपितृमातृकुले सौख्यं पशुवृद्धिः सुखावहा",
+      "english_meaning": "Reciting Durga Saptashati and donating a white cow for peace of mind are the recommended remedies.",
+      "hindi_meaning": "मानसिक शान्ति के लिए दुर्गा सप्तशती का पाठ करना और सफेद गाय का दान करना अनुशंसित उपाय हैं।"
+    },
+    {
+      "number": 46,
+      "text": "क्षीणे वा पापसंयुक्ते पापदृष्टे वा नीचगे ।\nक्रूरांशकगते वापि क्रूरक्षेत्रगतेऽपि वा",
+      "english_meaning": "Mars sub-period in Saturn's Mahadasa: If Mars is well-placed in Kendra, Trikona, 3rd, or 11th house.",
+      "hindi_meaning": "शनि की महादशा में मंगल की अन्तर्दशा का फल: यदि मंगल केन्द्र, त्रिकोण, तृतीय या एकादश भाव में शुभ स्थिति में हो।"
+    },
+    {
+      "number": 47,
+      "text": "जातकस्य महत्कष्टं राजकोपो धनक्षयः ।\nपितृमातृवियोगश्च पुत्रीपुत्रादिरोगकृत्",
+      "english_meaning": "Royal favor, victory over long-standing enemies, and significant gain of land and property are expected.",
+      "hindi_meaning": "राजकृपा, पुराने शत्रुओं पर विजय, और भूमि एवं सम्पत्ति का महत्त्वपूर्ण लाभ मिलने की अपेक्षा है।"
+    },
+    {
+      "number": 48,
+      "text": "व्यवसायात्फलं नेष्टं नानामार्गे धनव्ययः ।\nअकाले भोजनं चैव मौषधस्य च भक्षणम्",
+      "english_meaning": "The native achieves success in adventurous tasks and experiences a notable increase in their courage and vitality.",
+      "hindi_meaning": "जातक साहसिक कार्यों में सफलता प्राप्त करता है और अपने साहस एवं जीवन-शक्ति में उल्लेखनीय वृद्धि का अनुभव करता है।"
+    },
+    {
+      "number": 49,
+      "text": "फलमेतद्विजानीयादादौ सौख्यं धनागमः ।\nदायेशात्केन्द्रराशिस्थे त्रिकोणे लाभगेऽपि वा",
+      "english_meaning": "If Mars is in the 6th, 8th, or 12th house from Saturn or is weak, it causes multiple sorrows.",
+      "hindi_meaning": "यदि मंगल शनि से छठे, आठवें या बारहवें भाव में हो या निर्बल हो, तो यह अनेक दुःख देता है।"
+    },
+    {
+      "number": 50,
+      "text": "वाहनाम्बरपश्वादिभ्रातृवृद्धिः सुखावहा ।\nपितृमातृसुखावाप्तिः स्त्रीसौख्यं च धनागमः",
+      "english_meaning": "Fear from weapons, fire, and enemies causes constant anxiety and potential physical injuries to the native.",
+      "hindi_meaning": "हथियारों, अग्नि और शत्रुओं से भय जातक को निरन्तर चिन्ता और सम्भावित शारीरिक चोटें पहुँचाता है।"
+    },
+    {
+      "number": 51,
+      "text": "मित्रप्रभुवशादिष्टं सर्वसौख्यं शुभावहम् ।\nदायेशाद्द्वादश भावे रन्ध्रे वा बलवर्जिते",
+      "english_meaning": "Illness and distress to brothers and close relatives can disrupt the native's personal and social peace.",
+      "hindi_meaning": "भाइयों और निकट सम्बन्धियों को बीमारी और कष्ट जातक की व्यक्तिगत और सामाजिक शान्ति में बाधा डाल सकते हैं।"
+    },
+    {
+      "number": 52,
+      "text": "शयनं रोगमालस्यं स्थानभ्रष्टं सुखापहम् ।\nशत्रुवृद्धिविरोधं च बन्धुद्वेषमवाप्नुयात्",
+      "english_meaning": "If in the 2nd or 7th house, it causes fear of death. Donating a bull for peace is the prescribed remedy.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो मृत्यु का भय होता है। शान्ति के लिए बैल का दान करना निर्धारित उपाय है।"
+    },
+    {
+      "number": 53,
+      "text": "द्वितीयद्यूननाथे तु देहालस्य भविष्यति ।\nतद्दोषशमनार्थं च तिलहोमादिकं चरेत्",
+      "english_meaning": "Rahu sub-period in Saturn's Mahadasa: If Rahu is well-placed in Kendra, Trikona, or its exaltation.",
+      "hindi_meaning": "शनि की महादशा में राहु की अन्तर्दशा का फल: यदि राहु केन्द्र, त्रिकोण या अपनी उच्च राशि में शुभ स्थिति में हो।"
+    },
+    {
+      "number": 54,
+      "text": "गुडं घृतं च दध्नाक्तं तण्डुलं च यथाविधि ।\nश्वेतां गां महिषीं दद्यादायुरारोग्यवृद्धये",
+      "english_meaning": "Initially, there may be some material gains, but later there is a fear from the government and enemies.",
+      "hindi_meaning": "प्रारम्भ में कुछ भौतिक लाभ हो सकते हैं, किन्तु बाद में सरकार और शत्रुओं से भय बना रहता है।"
+    },
+    {
+      "number": 55,
+      "text": "मन्दस्यान्तर्गते भौमे केन्द्रलाभत्रिकोणगे ।\nतुङ्गे स्वक्षेत्रगे वापि दशाधिपसमन्विते",
+      "english_meaning": "In the middle part of the sub-period, gain of land and wealth through foreign connections is indicated.",
+      "hindi_meaning": "अन्तर्दशा के मध्य भाग में, विदेशी सम्बन्धों के माध्यम से भूमि और धन के लाभ का संकेत मिलता है।"
+    },
+    {
+      "number": 56,
+      "text": "लग्नाधिपेन संयुक्ते आदौ सौख्यं धनागमः ।\nराजप्रीतिकरं सौख्यं वाहनाम्बरभूषणम्",
+      "english_meaning": "Success in works related to the Southwest direction and general prosperity in those regions are predicted.",
+      "hindi_meaning": "नैऋत्य दिशा से सम्बन्धित कार्यों में सफलता और उन क्षेत्रों में सामान्य समृद्धि की भविष्यवाणी की गई है।"
+    },
+    {
+      "number": 57,
+      "text": "सेनापत्यं नृपप्रीतिः कृषिगोधान्यसम्पदः ।\nनूतनस्थाननिर्माणं भ्रातृवर्गेष्टसौख्यकृत्",
+      "english_meaning": "If Rahu is in the 6th, 8th, or 12th from Saturn or is weak, it leads to distress and confusion.",
+      "hindi_meaning": "यदि राहु शनि से छठे, आठवें या बारहवें भाव में हो या निर्बल हो, तो यह कष्ट और भ्रम की ओर ले जाता है।"
+    },
+    {
+      "number": 58,
+      "text": "नीचे चास्तङ्गते भौमे लग्नादष्टव्ययस्थिते ।\nपापदृष्टियुते वापि धनहानिर्भविष्यति",
+      "english_meaning": "Loss of wealth, distress to family members, and persistent mental confusion disrupt the native's household peace.",
+      "hindi_meaning": "धन की हानि, परिवार के सदस्यों को कष्ट और निरन्तर मानसिक भ्रम जातक की घरेलू शान्ति को बाधित करते हैं।"
+    },
+    {
+      "number": 59,
+      "text": "चौराहिव्रणशस्त्रादिग्रन्थिरोगादिपीडनम् ।\nभ्रातृपित्रादिपीडा च दायादजनविग्रहः",
+      "english_meaning": "Failure in major ventures and a constant fear of snakes, poison, or hidden enemies can trouble the native.",
+      "hindi_meaning": "प्रमुख कार्यों में विफलता और साँपों, विष या गुप्त शत्रुओं का निरन्तर भय जातक को परेशान कर सकता है।"
+    },
+    {
+      "number": 60,
+      "text": "चतुष्पाज्जीवहानिश्च कुत्सितान्नस्य भोजनम् ।\nविदेशगमनं चैव नानमार्गे धनव्ययः",
+      "english_meaning": "If in the 2nd or 7th house, it causes a severe physical crisis and a constant threat to the native's health.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो यह गम्भीर शारीरिक संकट और जातक के स्वास्थ्य के लिए निरन्तर खतरा पैदा करता है।"
+    },
+    {
+      "number": 61,
+      "text": "अष्टमद्यूननाथे तु द्वितीयस्थेऽथ वा यदि ।\nअपमृत्युभयं चैव नानाकष्टं पराभवः",
+      "english_meaning": "Performing Naga Puja and donating a black cow (Krishnadhenu) ensure divine protection and peace.",
+      "hindi_meaning": "नाग पूजा करना और काली गाय (कृष्णधेनु) का दान करना दैवीय सुरक्षा और शान्ति सुनिश्चित करता है।"
+    },
+    {
+      "number": 62,
+      "text": "तद्दोषपरिहारार्थं शान्तिहोमं च कारयेत् ।\nवृषदानं प्रकुर्वीत सर्वारिष्टनिवारणम्",
+      "english_meaning": "Jupiter sub-period in Saturn's Mahadasa: If Jupiter is well-placed in Kendra, Trikona, or its exaltation.",
+      "hindi_meaning": "शनि की महादशा में गुरु की अन्तर्दशा का फल: यदि गुरु केन्द्र, त्रिकोण या अपनी उच्च राशि में शुभ स्थिति में हो।"
+    },
+    {
+      "number": 63,
+      "text": "मन्दस्यान्तर्गते राहौ कलहश्च मनोव्यथा ।\nदेहपीडा मनस्तापः पुत्रद्वेषो रुजोभयम्",
+      "english_meaning": "Royal favor, significant gain of wealth, and success in all major works bring prosperity to the native.",
+      "hindi_meaning": "राजकृपा, प्रचुर धन लाभ और सभी प्रमुख कार्यों में सफलता जातक के लिए समृद्धि लाती है।"
+    },
+    {
+      "number": 64,
+      "text": "अर्थव्ययो राजभयं स्वजनादिविरोधिता ।\nविदेशगमनं चैव गृहक्षेत्रादिनाशनम्",
+      "english_meaning": "Birth of a son, widespread fame, and active involvement in religious deeds are the positive outcomes.",
+      "hindi_meaning": "पुत्र जन्म, व्यापक यश और धार्मिक कार्यों में सक्रिय भागीदारी इसके सकारात्मक परिणाम हैं।"
+    },
+    {
+      "number": 65,
+      "text": "लग्नाधिपेन संयुक्ते योगकारकसंयुते ।\nस्वोच्चे स्वक्षेत्रगे केन्द्रे दायेशाल्लाभराशिगे",
+      "english_meaning": "Success in foreign lands or distant business ventures and the acquisition of a high social position occur.",
+      "hindi_meaning": "विदेशी भूमि या दूरस्थ व्यावसायिक कार्यों में सफलता और उच्च सामाजिक पद की प्राप्ति होती है।"
+    },
+    {
+      "number": 66,
+      "text": "आदौ सौख्यं धनावाप्तिं गृहक्षेत्रादिसम्पदम् ।\nदेवब्राह्मणभक्तिं च तीर्थयात्रादिकं लभेत्",
+      "english_meaning": "The native enjoys robust health, happiness from the family, and general well-being in all spheres.",
+      "hindi_meaning": "जातक उत्तम स्वास्थ्य, परिवार से सुख और सभी क्षेत्रों में सामान्य कल्याण का आनन्द लेता है।"
+    },
+    {
+      "number": 67,
+      "text": "चतुष्पाज्जीवलाभः स्याद्गृहे कल्याण्वर्द्धनम् ।\nमध्ये तु राजभीतिश्च पुत्रमित्रविरोधनम्",
+      "english_meaning": "If Jupiter is weak or in the 6th, 8th, or 12th from Saturn, it leads to financial and mental distress.",
+      "hindi_meaning": "यदि गुरु निर्बल हो या शनि से छठे, आठवें या बारहवें भाव में हो, तो यह आर्थिक और मानसिक कष्ट की ओर ले जाता है।"
+    },
+    {
+      "number": 68,
+      "text": "मेषे कन्यागते वापि कुलीरे वृषभे तथा ।\nमीनकोदण्डसिंहेषु गजान्तैश्वर्यमादिशेत्",
+      "english_meaning": "Loss of wealth, distress to family members, and acute mental sorrow disrupt the native's peace of mind.",
+      "hindi_meaning": "धन की हानि, परिवार के सदस्यों को कष्ट और तीव्र मानसिक शोक जातक की मानसिक शान्ति को बाधित करते हैं।"
+    },
+    {
+      "number": 69,
+      "text": "राजसम्मनभूषाप्तिं मृदुलाभरसौख्यकृत् ।\nद्विसप्तमाधिपैर्युक्ते देहबाधा भविष्यति",
+      "english_meaning": "Constant fear from the government authorities and powerful enemies characterizes this poor placement.",
+      "hindi_meaning": "सरकारी अधिकारियों और शक्तिशाली शत्रुओं से निरन्तर भय इस अशुभ स्थिति की विशेषता है।"
+    },
+    {
+      "number": 70,
+      "text": "मृत्युञ्जयं प्रकुर्वीत छागदानं च कारयेत् ।\nवृषदानं प्रकुर्वीत सर्वसम्पत्सुखावहम्",
+      "english_meaning": "If in the 2nd or 7th house, it causes severe physical pain. Performing Shiva Puja is the primary remedy.",
+      "hindi_meaning": "यदि द्वितीय या सप्तम भाव में हो, तो यह गम्भीर शारीरिक पीड़ा देता है। शिव पूजा प्राथमिक उपाय है।"
+    },
+    {
+      "number": 71,
+      "text": "मन्दस्यान्तर्गते जीवे केन्द्रे लाभत्रिकोणगे ।\nलग्नाधिपेन संयुक्ते स्वोच्चे स्वक्षेत्रगेऽपि वा",
+      "english_meaning": "If Saturn and Jupiter are in a 6/8 or 2/12 relationship from each other, it gives loss of wealth.",
+      "hindi_meaning": "यदि शनि और गुरु एक-दूसरे से 6/8 या 2/12 के सम्बन्ध में हों, तो यह धन की हानि देता है।"
+    },
+    {
+      "number": 72,
+      "text": "सर्वकार्यार्थसिद्धिः स्याच्छोभनं भवति ध्रुवम् ।\nमहाराजप्रसादेन धनवाहनभूषणम्",
+      "english_meaning": "Mental pain and disputes with associates or mentors may arise during this challenging period.",
+      "hindi_meaning": "इस चुनौतीपूर्ण अवधि के दौरान मानसिक पीड़ा और सहयोगियों या गुरुओं के साथ विवाद उत्पन्न हो सकते हैं।"
+    },
+    {
+      "number": 73,
+      "text": "सन्मानं प्रभुसम्मानं प्रियवस्त्रार्थलाभकृत् ।\nदेवतागुरुभक्तिश्च विद्वज्जनसमागमः",
+      "english_meaning": "If in Kendra or Trikona from each other, it bestows great prosperity, land, and spiritual growth.",
+      "hindi_meaning": "यदि एक-दूसरे से केन्द्र या त्रिकोण में हों, तो यह महान समृद्धि, भूमि और आध्यात्मिक विकास प्रदान करता है।"
+    },
+    {
+      "number": 74,
+      "text": "दारपुत्रादिलाभश्च पुत्रकल्याणवैभवम् ।\nषष्ठाष्टमव्यये जीवे नीचे वा पापसंयुते",
+      "english_meaning": "The native may construct temples, tanks, or other public utility structures during this auspicious phase.",
+      "hindi_meaning": "जातक इस शुभ चरण के दौरान मन्दिरों, जलाशयों या अन्य सार्वजनिक उपयोग की संरचनाओं का निर्माण कर सकता है।"
+    },
+    {
+      "number": 75,
+      "text": "निजसम्बन्धिमरणं धनधान्यविनाशनम् ।\nराजस्थाने जनद्वेषः कर्यहानिर्भविष्यति",
+      "english_meaning": "Deep happiness from brothers and relatives and a general increase in social honor are the results.",
+      "hindi_meaning": "भाइयों और रिश्तेदारों से गहरा सुख और सामाजिक सम्मान में सामान्य वृद्धि इसके परिणाम हैं।"
+    },
+    {
+      "number": 76,
+      "text": "विदेशगमनं चैव कुष्ठरोगादिसम्भवः ।\nदायेशात्केन्द्रकोणे वा धने वा लाभगेऽपि वा",
+      "english_meaning": "If the planets act as Marakas, donating gold and fine clothes to deserving people is the remedy.",
+      "hindi_meaning": "यदि ग्रह मारक के रूप में कार्य करते हैं, तो योग्य लोगों को स्वर्ण और सुन्दर वस्त्रों का दान करना उपाय है।"
+    },
+    {
+      "number": 77,
+      "text": "विभवं दारसौभाग्यं राजश्रीधनसम्पदः ।\nभोजनाम्बरसौख्यं च दानधर्मादिकं भवेत्",
+      "english_meaning": "This pleases both Jupiter and Saturn, leading to the restoration of health, peace, and overall prosperity.",
+      "hindi_meaning": "यह गुरु और शनि दोनों को प्रसन्न करता है, जिससे स्वास्थ्य, शान्ति और समग्र समृद्धि की पुनर्स्थापना होती है।"
+    },
+    {
+      "number": 78,
+      "text": "ब्रह्मप्र्तिष्ठासिद्धिश्च क्रतुकर्मफलं तथा ।\nअन्नदानं महाकीर्तिर्वेदान्तश्रवणादिकम्",
+      "english_meaning": "General concluding notes on the Saturn Mahadasa: The native experiences maturity and karmic lessons.",
+      "hindi_meaning": "शनि महादशा पर सामान्य समापन टिप्पणियाँ: जातक परिपक्वता और कर्मों के पाठों का अनुभव करता है।"
+    },
+    {
+      "number": 79,
+      "text": "दायेशात्षष्ठरन्ध्रे वा व्यये वा बलवर्जिते ।\nबन्धुद्वेषो मनोदुःखं कलहः पदविच्युति",
+      "english_meaning": "Success in spiritual paths and the acquisition of deep philosophical knowledge bring mental peace.",
+      "hindi_meaning": "आध्यात्मिक मार्गों में सफलता और गहरे दार्शनिक ज्ञान की प्राप्ति मानसिक शान्ति लाती है।"
+    },
+    {
+      "number": 80,
+      "text": "कुभोजनं कर्महानी राजदण्डाद्धनव्यय ।\nकारागृहप्रवेशश्च पुत्रदारादिपीडनम्",
+      "english_meaning": "Prosperity and social stability are achieved through the assistance and guidance of learned mentors.",
+      "hindi_meaning": "विद्वान गुरुओं की सहायता और मार्गदर्शन के माध्यम से समृद्धि और सामाजिक स्थिरता प्राप्त होती है।"
+    },
+    {
+      "number": 81,
+      "text": "द्वितीयद्यूननाथे तु देहवाधा मनोरुजः ।\nआत्मसम्बन्धमरणं भविष्यति न संशयः",
+      "english_meaning": "These are the final systematic results of the various sub-periods within the major Dasa of Saturn.",
+      "hindi_meaning": "ये शनि की महादशा के भीतर विभिन्न अन्तर्दशाओं के अन्तिम व्यवस्थित परिणाम हैं।"
+    },
+    {
+      "number": 82,
+      "text": "तद्दोषपरिहारार्थं शिवसाहस्रकं जपेत् ।\nस्वर्णदानं प्र्कुर्वीत ह्यारोग्यं भवति ध्रुवम्",
+      "english_meaning": "Performing the prescribed remedies for Saturn ensures that the hardships of the period are minimized.",
+      "hindi_meaning": "शनि के लिए निर्धारित उपायों को करने से यह सुनिश्चित होता है कि इस अवधि के कष्ट कम हो जाएँ।"
+    }
+  ]
+}

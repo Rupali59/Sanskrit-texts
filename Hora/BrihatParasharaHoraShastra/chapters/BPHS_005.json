@@ -1,0 +1,156 @@
+{
+  "source_file": "BPHS0110.md",
+  "source_chunk": "BPHS0110.json",
+  "chunk_index": 4,
+  "chapter": 5,
+  "variant": null,
+  "title": "अथ विशेषलग्नाध्यायः",
+  "shloka_count": 24,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथाहं सम्प्रवक्ष्यामि तवाग्रे द्विजसत्तम ।\nभावहोराघटीसञ्ज्ञलग्नानीति पृथक् पृथक्",
+      "english_meaning": "Now I shall describe before you, O best of the Sages, the special ascendants named Bhava, Hora, and Ghati separately.",
+      "hindi_meaning": "हे द्विजश्रेष्ठ! अब मैं आपके सामने भाव लग्न, होरा लग्न और घटी लग्न नामक विशेष लग्नों का पृथक-पृथक वर्णन करता हूँ।"
+    },
+    {
+      "number": 2,
+      "text": "सूर्योदयं समारभ्य घटिकानां तु पञ्चकम् ।\nप्रयाति जन्मपर्यन्तं भावलग्नं तदेव हि",
+      "english_meaning": "Starting from Sunrise, every five ghatis (2 hours) the Bhava Lagna changes until the time of birth.",
+      "hindi_meaning": "सूर्योदय से लेकर जन्म समय तक प्रत्येक ५ घटी (२ घण्टे) के मान से जो लग्न बदलता है, उसे ही भाव लग्न कहते हैं।"
+    },
+    {
+      "number": 3,
+      "text": "इष्टं घट्यादिकं भक्त्वा पञ्चभिर्भादिकं फलम् ।\nयोज्यमौदयिके सूर्ये भावलग्नं स्फुटं च तत्",
+      "english_meaning": "Divide the time elapsed since Sunrise (Ishta Ghati) by five. Add the resulting Signs, Degrees etc. to the Sun's position at Sunrise to get the precise Bhava Lagna.",
+      "hindi_meaning": "सूर्योदय से जन्म समय तक की इष्ट घटी को ५ से भाग दें। प्राप्त फल (राशि, अंश आदि) को सूर्योदय कालीन स्पष्ट सूर्य में जोड़ने पर स्पष्ट भाव लग्न प्राप्त होता है।"
+    },
+    {
+      "number": 4,
+      "text": "तथा सार्धद्विघटिकामितादर्कोदयाद् द्विज ।\nप्रयाति लग्नं तन्नाम होरालग्नं प्रचक्षते",
+      "english_meaning": "Similarly, from Sunrise, every 2.5 ghatis (1 hour) the Lagna changes, which is called the Hora Lagna.",
+      "hindi_meaning": "इसी प्रकार सूर्योदय से प्रत्येक २.५ घटी (१ घण्टा) के मान से जो लग्न बदलता है, उसे होरा लग्न कहा जाता है।"
+    },
+    {
+      "number": 5,
+      "text": "इष्टघट्यादिकं द्विघ्नं पञ्चाप्तं भादिकं च यत् ।\nयोज्यमौदयिके भानौ होरालग्नं स्फुटं हि तत्",
+      "english_meaning": "Multiply the elapsed ghatis by 2 and divide by 5. Add the resulting Signs, Degrees etc. to the Sun's position at Sunrise to get the precise Hora Lagna.",
+      "hindi_meaning": "इष्ट घटी को २ से गुणा कर ५ से भाग दें। प्राप्त फल को सूर्योदय कालीन सूर्य में जोड़ने पर स्पष्ट होरा लग्न प्राप्त होता है।"
+    },
+    {
+      "number": 6,
+      "text": "कथयामि घटीलग्नं श‍ृनु त्वं द्विजसत्तम ।\nसूर्योदयत् समारभ्य जन्मकालावधि क्रमात्",
+      "english_meaning": "Now I shall tell you about the Ghati Lagna, O best of Sages, which starts from Sunrise until the moment of birth.",
+      "hindi_meaning": "हे द्विजश्रेष्ठ! अब मैं घटी लग्न के बारे में कहता हूँ, सुनिए, जो सूर्योदय से आरम्भ होकर जन्म काल तक चलता है।"
+    },
+    {
+      "number": 7,
+      "text": "एकैकघटिकामानात् लग्नं यद्याति भादिकम् ।\nतदेव घटिकालग्नं कथितं नारदादिभिः",
+      "english_meaning": "The Lagna that changes every single ghati (24 minutes) is called the Ghati Lagna, as described by Narada and other Sages.",
+      "hindi_meaning": "प्रत्येक एक घटी (२४ मिनट) के मान से जो लग्न बदलता है, उसे ही नारद आदि ऋषियों ने घटी लग्न कहा है।"
+    },
+    {
+      "number": 8,
+      "text": "राशयस्तु घटीतुल्याः पलार्धप्रमितांशकाः ।\nयोज्यमौदयिके भनौ घटीलग्नं स्फुटं हि तत्",
+      "english_meaning": "The elapsed signs are equal to the ghatis, and the degrees are calculated from the remaining palas. Add this to the Sun's position at Sunrise for the precise Ghati Lagna.",
+      "hindi_meaning": "जितनी घटी व्यतीत हुई हों, उतनी ही राशि और बचे हुए पल के आधे अंश आदि फल को सूर्योदय कालीन सूर्य में जोड़ने पर स्पष्ट घटी लग्न प्राप्त होता है।"
+    },
+    {
+      "number": 9,
+      "text": "क्रमादेषां च लग्नानां भावकोष्ठं पृथक् लिखेत् ।\nये ग्रहा यत्र भे तत्र ते स्थाप्या राशिलग्नवत्",
+      "english_meaning": "One should draw separate house charts (Bhava Kundali) for these special ascendants. Place the planets in the same signs as they appear in the birth chart.",
+      "hindi_meaning": "इन विशेष लग्नों के लिए पृथक-पृथक भाव कुण्डलियाँ बनानी चाहिए। ग्रहों को उन्हीं राशियों में स्थापित करें जिनमें वे जन्म कुण्डली (राशि लग्न) में स्थित हैं।"
+    },
+    {
+      "number": 10,
+      "text": "वर्णदाख्यदशां भानां कथयाम्यथ तेऽग्रतः ।\nयस्य विज्ञानमात्रेण वदेदायुर्भवं फलम्",
+      "english_meaning": "Now I shall tell you about the Varnada Dasha of the signs, by the mere knowledge of which one can predict results related to longevity.",
+      "hindi_meaning": "अब मैं आपके सामने राशियों की वर्णदा नामक दशा का वर्णन करता हूँ, जिसके केवल ज्ञान मात्र से आयु सम्बन्धी फलों का कथन किया जा सकता है।"
+    },
+    {
+      "number": 11,
+      "text": "ओजलग्नप्रसूतानां मेषादेर्गणयेत् क्रमात् ।\nसमलग्नप्रसूतानाम् मीनादेरपसव्यतः",
+      "english_meaning": "For those born with an odd sign ascendant, count from Aries in direct order. For those born with an even sign ascendant, count from Pisces in reverse order.",
+      "hindi_meaning": "विषम (ओज) लग्न में उत्पन्न मनुष्यों के लिए मेष राशि से सीधे क्रम में गणना करें। सम लग्न में उत्पन्न मनुष्यों के लिए मीन राशि से उल्टे क्रम में गणना करें।"
+    },
+    {
+      "number": 12,
+      "text": "मेषमीनादितो जन्मलग्नान्तं गणयेत् सुधीः ।\nतथैव होरालग्नान्तं गणयित्वा ततः परम्",
+      "english_meaning": "The wise one should count from Aries or Pisces to the birth ascendant, and similarly to the Hora Lagna.",
+      "hindi_meaning": "बुद्धिमान व्यक्ति को मेष या मीन राशि से जन्म लग्न तक और उसी प्रकार होरा लग्न तक गणना करनी चाहिए।"
+    },
+    {
+      "number": 13,
+      "text": "ओजत्वेन समत्वेन सजातीये उभे यदि ।\nतर्हि सङ्ख्ये योजयीत वैजात्ये तु वियोजयेत्",
+      "english_meaning": "If both resulting numbers are of the same kind (both odd or both even), add them together. If they are different, subtract the smaller from the larger.",
+      "hindi_meaning": "यदि दोनों संख्याएँ सजातीय (दोनों विषम या दोनों सम) हों, तो उन्हें जोड़ दें। यदि वे विजातीय हों, तो उन्हें घटा दें।"
+    },
+    {
+      "number": 14,
+      "text": "मेषमीनादितः पश्चाद्यो राशिः स तु वर्णदः ।\nएतत्प्रयोजनं वक्ष्ये श‍ृणु त्वं द्विजपुङ्गवः ।\nहोरालग्नभयोर्नेया सबलाद्वर्णदा दशा",
+      "english_meaning": "The resulting sign counted from Aries/Pisces is the Varnada Lagna. Now listen to its purpose, O best of Sages. Determine the stronger between the Birth and Hora Lagna for Varnada Dasha.",
+      "hindi_meaning": "मेष/मीन से वह संख्या गिनने पर जो राशि प्राप्त हो, उसे वर्णद लग्न कहते हैं। हे द्विजश्रेष्ठ! अब इसका प्रयोजन सुनिए। जन्म लग्न और होरा लग्न में से जो बली हो, उससे वर्णदा दशा का विचार करना चाहिए।"
+    },
+    {
+      "number": 15,
+      "text": "यत्सङ्ख्यो वर्णदो लग्नात् तत्तत्सङ्ख्याक्रमेण तु ।\nक्रमव्युत्क्रमभेदेन दशा स्यादोजयुग्मयो",
+      "english_meaning": "The number of signs Varnada is from the Lagna determines the sequence. The Dasha order (direct or reverse) depends on whether the sign is odd or even.",
+      "hindi_meaning": "वर्णद लग्न, जन्म लग्न से जिस संख्या पर हो, उसी के अनुसार दशा का क्रम होता है। विषम और सम राशि के भेद से दशा का क्रम सीधा या उल्टा होता है।"
+    },
+    {
+      "number": 16,
+      "text": "पापदृष्टिः पापयोगो वर्णदस्य त्रिकोणके ।\nयदि स्यात् तर्हि तद्राशिपर्यन्तं तस्य जीवनम्",
+      "english_meaning": "If there are malefic aspects or conjunctions in the trines (1, 5, 9) from the Varnada, the lifespan is limited to that sign's period.",
+      "hindi_meaning": "यदि वर्णद लग्न से त्रिकोण (१, ५, ९) भावों में पाप ग्रहों की दृष्टि या युति हो, तो मनुष्य का जीवन उस राशि की दशा पर्यन्त ही होता है।"
+    },
+    {
+      "number": 17,
+      "text": "रुद्रशूले यथैवायुर्मरणादि निरूप्यते ।\nतथैव वर्णदस्यापि त्रिकोणे पापसङ्गमे",
+      "english_meaning": "Just as longevity and death are judged in Rudrashula Dasha, similarly it should be judged in the trines of Varnada with malefic associations.",
+      "hindi_meaning": "जिस प्रकार रुद्रशूल दशा में आयु और मृत्यु का विचार किया जाता है, उसी प्रकार वर्णद लग्न के त्रिकोणों में पाप ग्रहों के सम्बन्ध से आयु का विचार करना चाहिए।"
+    },
+    {
+      "number": 18,
+      "text": "वर्णदादपि भो विप्र लग्नवच्चिन्तयेत् फलम् ।\nवर्णदात् सप्तमाद् भावात् कलत्रायुर्विचिन्तयेत्",
+      "english_meaning": "O Brahmin! Judge all results from Varnada just as you do from the Lagna. From the 7th house of Varnada, judge the longevity of the spouse.",
+      "hindi_meaning": "हे विप्र! वर्णद लग्न से भी जन्म लग्न के समान ही फलों का विचार करें। वर्णद से ७वें भाव से जीवनसाथी की आयु का विचार करना चाहिए।"
+    },
+    {
+      "number": 19,
+      "text": "एकादशादग्रजस्य तृतीयात्तु यवीयसः ।\nसुतस्य पञ्चमे विद्यान्मातुश्चतुर्थभावतः",
+      "english_meaning": "Judge the longevity of the elder sibling from the 11th house, the younger sibling from the 3rd, the children from the 5th, and the mother from the 4th house of Varnada.",
+      "hindi_meaning": "वर्णद लग्न से ११वें भाव से बड़े भाई, ३रे से छोटे भाई, ५वें से संतान और ४थे भाव से माता की आयु का विचार करना चाहिए।"
+    },
+    {
+      "number": 20,
+      "text": "पितुश्च नवमाद् भावादायुरेवं विचिन्तयेत् ।\nशूलराशिदशायां वै प्रबलायामरिष्टकम्",
+      "english_meaning": "Similarly, judge the longevity of the father from the 9th house. During the powerful Shula Dasha of a sign, misfortunes/death may occur.",
+      "hindi_meaning": "इसी प्रकार ९वें भाव से पिता की आयु का विचार करना चाहिए। प्रबल शूल राशि की दशा में अरिष्ट (संकट या मृत्यु) का विचार करें।"
+    },
+    {
+      "number": 21,
+      "text": "एवं तन्वादिभावानां कर्तव्या वर्णदा दशा ।\nपूर्ववच्च फलं ज्ञेयं देहिनां च शुभाशुभम्",
+      "english_meaning": "Thus, the Varnada Dasha should be calculated for the first house (Lagna) and all others. The auspicious and inauspicious results for all beings should be known as before.",
+      "hindi_meaning": "इस प्रकार लग्न आदि सभी भावों की वर्णदा दशा सिद्ध करनी चाहिए। पूर्ववत ही मनुष्यों के शुभ और अशुभ फलों का ज्ञान करना चाहिए।"
+    },
+    {
+      "number": 22,
+      "text": "ग्रहाणां वर्णदा नैव राशीनां वर्णदा दशा ।\nकृत्वार्कधा राशिदशां क्रमादन्तर्दशां वदेत्",
+      "english_meaning": "Varnada Dasha belongs to the signs, not the planets. Divide each sign's Dasha period into twelve parts to determine the Antardasha (sub-periods) in order.",
+      "hindi_meaning": "वर्णदा दशा राशियों की होती है, ग्रहों की नहीं। राशि की दशा को १२ भागों में विभाजित कर क्रम से अन्तर्दशा का विचार करना चाहिए।"
+    },
+    {
+      "number": 23,
+      "text": "एवमन्तर्दशादिं च कृत्वा तेन फलं वदेत् ।\nक्रमव्युत्क्रमभेदेन लिखेदन्तर्दशामपि",
+      "english_meaning": "Thus, after calculating the Antardasha etc., one should predict the results. The Antardashas should also be noted in direct or reverse order.",
+      "hindi_meaning": "इस प्रकार अन्तर्दशा आदि सिद्ध कर फल का कथन करना चाहिए। अन्तर्दशा को भी राशि के अनुसार सीधे या उल्टे क्रम में लिखना चाहिए।"
+    },
+    {
+      "number": 24,
+      "text": "स्वस्वदेशोद्भवं लग्नं जन्मलग्नमिहोच्यते ।\nभावहोरादिलग्नानां सर्वत्रैव समक्रिया",
+      "english_meaning": "The birth ascendant is the one calculated for the specific place of birth. The method for calculating Bhava, Hora and other special ascendants is the same everywhere.",
+      "hindi_meaning": "जन्म स्थान पर जो लग्न उदित होता है, उसे ही जन्म लग्न कहते हैं। भाव लग्न, होरा लग्न आदि की गणना विधि सर्वत्र समान होती है।"
+    }
+  ]
+}

@@ -1,0 +1,900 @@
+{
+  "source_file": "BPHS2130.md",
+  "source_chunk": "BPHS2130.json",
+  "chunk_index": 3,
+  "chapter": 24,
+  "variant": null,
+  "title": "अथ भावेशफलाध्यायः",
+  "shloka_count": 148,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "लग्नेशे लग्नगे देहसुखभाग् भुजविक्रमी ।\nमनस्वी चञ्चलश्चैव द्विभार्यो परगोऽपि व",
+      "english_meaning": "If the ascendant lord is in the ascendant, the person enjoys physical happiness, is courageous, thoughtful, but fickle, and may have two wives or go to other women.",
+      "hindi_meaning": "यदि लग्नेश लग्न में हो, तो जातक शारीरिक सुख प्राप्त करने वाला, पराक्रमी, मनस्वी (विचारवान), परन्तु चंचल स्वभाव का होता है। उसकी दो पत्नियाँ हो सकती हैं या वह पर-स्त्रियों के पास जाने वाला होता है।"
+    },
+    {
+      "number": 2,
+      "text": "लग्नेशे धनगे बालो लाभवान् पण्डितः सुखी ।\nसुशीलो धर्मविन्मानी बहुदारगुणैर्युतः",
+      "english_meaning": "If the ascendant lord is in the 2nd house, the person is gainful, learned, happy, of good character, religious, honorable, and endowed with many wives and virtues.",
+      "hindi_meaning": "यदि लग्नेश दूसरे भाव में हो, तो जातक लाभवान, विद्वान, सुखी, सुशील, धर्म को जानने वाला, मानी और कई स्त्रियों व गुणों से युक्त होता है।"
+    },
+    {
+      "number": 3,
+      "text": "लग्नेशे सहजे जातः सिंहतुल्यपराक्रमी ।\nसर्वसम्पद्युतो मानी द्विभार्यो मतिमान् सुखी",
+      "english_meaning": "If the ascendant lord is in the 3rd house, the person is as brave as a lion, endowed with all wealth, honorable, may have two wives, is intelligent and happy.",
+      "hindi_meaning": "यदि लग्नेश तीसरे भाव में हो, तो जातक सिंह के समान पराक्रमी, सब प्रकार की सम्पत्ति से युक्त, मानी, दो स्त्रियों वाला, बुद्धिमान और सुखी होता है।"
+    },
+    {
+      "number": 4,
+      "text": "लग्नेशे सुखगे बालः पितृमातृसुखान्वितः ।\nबहुभ्रातृयुतः कामी गुणरूपसमन्वितः",
+      "english_meaning": "If the ascendant lord is in the 4th house, the person enjoys happiness from parents, has many brothers, is lustful, and endowed with good qualities and looks.",
+      "hindi_meaning": "यदि लग्नेश चौथे भाव में हो, तो जातक माता-पिता के सुख से युक्त, अनेक भाइयों वाला, कामी, और उत्तम गुणों व रूप से सम्पन्न होता है।"
+    },
+    {
+      "number": 5,
+      "text": "लग्नेशे सुतगे जन्तोः सुतसौख्यं च मध्यमम् ।\nप्रथमापत्यनाशः स्यान्मानी क्रोधी नृपप्रियः",
+      "english_meaning": "If the ascendant lord is in the 5th house, the person's happiness from children is moderate, he may lose his first child, is honorable, irritable, and dear to the king.",
+      "hindi_meaning": "यदि लग्नेश पांचवें भाव में हो, तो जातक को संतान का सुख मध्यम होता है, प्रथम संतान का नाश हो सकता है, वह मानी, क्रोधी और राजा का प्रिय होता है।"
+    },
+    {
+      "number": 6,
+      "text": "लग्नेशे षष्ठगे जातो देहसौख्यविवर्जितः ।\nपापाढ्ये शत्रुतः पीडा सौम्यदृष्टिविवर्जिते",
+      "english_meaning": "If the ascendant lord is in the 6th house, the person is devoid of physical happiness; if associated with a malefic, he suffers from enemies, especially if there is no benefic aspect.",
+      "hindi_meaning": "यदि लग्नेश छठे भाव में हो, तो जातक शारीरिक सुख से रहित होता है। यदि वहाँ पाप ग्रह हो और शुभ ग्रह की दृष्टि न हो, तो शत्रुओं से पीड़ा होती है।"
+    },
+    {
+      "number": 7,
+      "text": "लग्नेशे सप्तमे पापे भार्या तस्य न जीवति ।\nशुभेऽटनो दरिद्रो वा विरक्तो वा नृपोऽपि वा",
+      "english_meaning": "If the ascendant lord is in the 7th house and is a malefic, his wife does not live; if it is a benefic, he may be a wanderer, poor, detached, or even a king.",
+      "hindi_meaning": "यदि लग्नेश सातवें भाव में हो और पाप ग्रह हो, तो उसकी पत्नी जीवित नहीं रहती। यदि वह शुभ ग्रह हो, तो जातक भ्रमणशील, दरिद्र, विरक्त या राजा भी हो सकता है।"
+    },
+    {
+      "number": 8,
+      "text": "लग्नेशेऽष्टमगे जातः सिद्धविद्याविशारदः ।\nरोगी चौरो महाक्रोधी द्यूती च परदारगः",
+      "english_meaning": "If the ascendant lord is in the 8th house, the person is an expert in occult sciences (Siddha Vidya), but may be sickly, a thief, very irritable, a gambler, and goes to other women.",
+      "hindi_meaning": "यदि लग्नेश आठवें भाव में हो, तो जातक सिद्ध विद्याओं में विशारद होता है, परन्तु वह रोगी, चोर, महाक्रोधी, जुआरी और पर-स्त्रीगामी हो सकता है।"
+    },
+    {
+      "number": 9,
+      "text": "लग्नेशे भाग्यगे जातो भाग्यवाञ्जनवल्लभः ।\nविष्णुभक्तः पटुर्वाग्मी दारपुत्रधनैर्युतः",
+      "english_meaning": "If the ascendant lord is in the 9th house, the person is fortunate, dear to the people, a devotee of Vishnu, a skillful orator, and endowed with wife, children, and wealth.",
+      "hindi_meaning": "यदि लग्नेश नौवें भाव में हो, तो जातक भाग्यवान, जनता का प्रिय, विष्णुभक्त, चतुर वक्ता और स्त्री, पुत्र व धन से युक्त होता है।"
+    },
+    {
+      "number": 10,
+      "text": "लग्नेशे दशमे जातः पितृसौख्यसमन्वितः ।\nनृपमान्यो जने ख्यातः स्वार्जितस्वो न संशयः",
+      "english_meaning": "If the ascendant lord is in the 10th house, the person enjoys happiness from his father, is honored by the king, famous among people, and earns his own wealth undoubtedly.",
+      "hindi_meaning": "यदि लग्नेश दसवें भाव में हो, तो जातक पिता के सुख से युक्त, राजा से सम्मानित, लोकप्रसिद्ध और निश्चित रूप से स्व-अर्जित धन वाला होता है।"
+    },
+    {
+      "number": 11,
+      "text": "लग्नेशे लाभगे जातः सदा लाभसमन्वितः ।\nसुशीलः ख्यातकीर्तिश्च बहुदारगुणैर्युतः",
+      "english_meaning": "If the ascendant lord is in the 11th house, the person is always gainful, has a good character, is famous, and endowed with many wives and virtues.",
+      "hindi_meaning": "यदि लग्नेश ग्यारहवें भाव में हो, तो जातक सदा लाभ प्राप्त करने वाला, सुशील, ख्यातकीर्ति और अनेक स्त्रियों व गुणों से युक्त होता है।"
+    },
+    {
+      "number": 12,
+      "text": "लग्नेशे व्ययभावस्थे देहसौख्यविवर्जितः ।\nव्यर्थव्ययी महाक्रोधी शुभदृग्योगवर्जिते",
+      "english_meaning": "If the ascendant lord is in the 12th house, the person is devoid of physical happiness, spends wastefully, and is very irritable, especially if devoid of benefic aspect or association.",
+      "hindi_meaning": "यदि लग्नेश बारहवें भाव में हो, तो जातक शारीरिक सुख से रहित, व्यर्थ व्यय करने वाला और महाक्रोधी होता है, विशेषकर यदि शुभ ग्रह की दृष्टि या योग न हो।"
+    },
+    {
+      "number": 13,
+      "text": "धनेशे लग्नगे जातः पुत्रवान् धनसंयुतः ।\nकुटुम्बकण्टकः कामी निष्ठुरः परकार्यकृत्",
+      "english_meaning": "If the 2nd lord is in the ascendant, the person has children and wealth, is a trouble to his family, is lustful, harsh, and works for others.",
+      "hindi_meaning": "यदि द्वितीयेश लग्न में हो, तो जातक पुत्रवान और धनवान होता है, परन्तु वह अपने ही कुटुंब के लिए काँटा (पीड़ादायक), कामी, निष्ठुर और दूसरों का काम करने वाला होता है।"
+    },
+    {
+      "number": 14,
+      "text": "धनेशे धनगे जातो धनवान् गर्वसंयुतः ।\nद्विभार्यो बहुभार्यो वा सुतहीनः प्रजायते",
+      "english_meaning": "If the 2nd lord is in the 2nd house, the person is wealthy and proud; he may have two or many wives but may be devoid of sons.",
+      "hindi_meaning": "यदि द्वितीयेश दूसरे भाव में हो, तो जातक धनवान और गर्वीला होता है। उसकी दो या अधिक पत्नियाँ हो सकती हैं, परन्तु वह पुत्रहीन हो सकता है।"
+    },
+    {
+      "number": 15,
+      "text": "धनेशे सहजे जातो विक्रमी मतिमान् गुणी ।\nकामी लोभी शुभाढ्ये च पापाढ्ये देवनिन्दकः",
+      "english_meaning": "If the 2nd lord is in the 3rd house, the person is courageous, intelligent, and virtuous; if joined by a benefic, he is lustful and greedy, but if joined by a malefic, he blasphemes gods.",
+      "hindi_meaning": "यदि द्वितीयेश तीसरे भाव में हो, तो जातक पराक्रमी, बुद्धिमान और गुणी होता है। शुभ ग्रह के योग से वह कामी और लोभी होता है, परन्तु पाप ग्रह के योग से वह देव-निन्दक होता है।"
+    },
+    {
+      "number": 16,
+      "text": "धनेशे सुखभावस्थे सर्वसम्पतसमन्वितः ।\nगुरुणा संयुते स्वोच्चे राजतुल्यो नरो भवेत्",
+      "english_meaning": "If the 2nd lord is in the 4th house, the person is endowed with all kinds of wealth; if joined by Jupiter or in exaltation, he will be like a king.",
+      "hindi_meaning": "यदि द्वितीयेश चौथे भाव में हो, तो जातक सब प्रकार की सम्पत्ति से युक्त होता है। यदि वह गुरु से युक्त हो या उच्च का हो, तो वह राजा के समान होता है।"
+    },
+    {
+      "number": 17,
+      "text": "धनेशे सुतभावस्थे जातो धनसमन्वितः ।\nधनोपार्जनशीलाश्च जायन्ते तत्सुता अपि",
+      "english_meaning": "If the 2nd lord is in the 5th house, the person is endowed with wealth, and his sons are also of a wealth-earning nature.",
+      "hindi_meaning": "यदि द्वितीयेश पांचवें भाव में हो, तो जातक धनवान होता है और उसकी संतान भी धन उपार्जन करने वाली होती है।"
+    },
+    {
+      "number": 18,
+      "text": "धनेशे रिपुभावस्थे सशुभे शत्रुतो धनम् ।\nसपापे शत्रुतो हानिर्जंघावैकल्यवान् भवेत्",
+      "english_meaning": "If the 2nd lord is in the 6th house, and is with a benefic, wealth is gained from enemies; if with a malefic, there is loss through enemies and the person may have defective thighs.",
+      "hindi_meaning": "यदि द्वितीयेश छठे भाव में हो, तो शुभ ग्रह के साथ होने पर शत्रुओं से धन मिलता है। पाप ग्रह के साथ होने पर शत्रुओं से हानि होती है और जातक की जंघाओं में विकार हो सकता है।"
+    },
+    {
+      "number": 19,
+      "text": "धनेशे सप्तमे जातः परदाररतो भिषेक् ।\nपापेक्षितयुते तस्य भार्या च व्यभिचारिणी",
+      "english_meaning": "If the 2nd lord is in the 7th house, the person is devoted to other women and is a physician; if aspected by or joined by a malefic, his wife will be unchaste.",
+      "hindi_meaning": "यदि द्वितीयेश सातवें भाव में हो, तो जातक पर-स्त्रीरत और वैद्य होता है। यदि वहाँ पाप ग्रह की दृष्टि या योग हो, तो उसकी पत्नी व्यभिचारिणी होती है।"
+    },
+    {
+      "number": 20,
+      "text": "धनेशेऽष्टमगे जातो भूरिभूमिधनैर्युतः ।\nपत्नीसुखं भवेत् स्वल्पं ज्येष्ठभ्रातृसुखं न हि",
+      "english_meaning": "If the 2nd lord is in the 8th house, the person possesses abundant land and wealth; his wife's happiness will be little and there is no happiness from an elder brother.",
+      "hindi_meaning": "यदि द्वितीयेश आठवें भाव में हो, तो जातक बहुत भूमि और धन का स्वामी होता है। उसे पत्नी का सुख कम मिलता है और बड़े भाई का सुख नहीं होता।"
+    },
+    {
+      "number": 21,
+      "text": "धनेशे धर्मभावस्थे धनवानुद्यमी पटुः ।\nबाल्ये रोगी सुखी पश्चात् तीर्थधर्मव्रतादिकृत्",
+      "english_meaning": "If the 2nd lord is in the 9th house, the person is wealthy, industrious, and skillful; he may be sickly in childhood but happy later, and performs pilgrimages and religious vows.",
+      "hindi_meaning": "यदि द्वितीयेश नौवें भाव में हो, तो जातक धनवान, परिश्रमी और चतुर होता है। बचपन में रोगी हो सकता है परन्तु बाद में सुखी होता है और तीर्थ, धर्म, व्रत आदि करता है।"
+    },
+    {
+      "number": 22,
+      "text": "धनेशे कर्मगे जातः कामी मानी च पण्डितः ।\nबहुदार्यधनैर्युक्तः किञ्च पुत्रसुखोज्झितः",
+      "english_meaning": "If the 2nd lord is in the 10th house, the person is lustful, honorable, and learned; he is endowed with many wives and wealth, but lacks happiness from sons.",
+      "hindi_meaning": "यदि द्वितीयेश दसवें भाव में हो, तो जातक कामी, मानी और पण्डित होता है। वह अनेक स्त्रियों और धन से युक्त होता है, परन्तु उसे पुत्र-सुख की कमी रहती है।"
+    },
+    {
+      "number": 23,
+      "text": "धनेशे लाभभावस्थे सर्वलाभसमन्वितः ।\nसदोद्योगयुतो मानी कीर्तिमान् जायते नरः",
+      "english_meaning": "If the 2nd lord is in the 11th house, the person is endowed with all kinds of gains, is always industrious, honorable, and becomes famous.",
+      "hindi_meaning": "यदि द्वितीयेश ग्यारहवें भाव में हो, तो जातक सब प्रकार के लाभों से युक्त, सदा उद्योगी, मानी और कीर्तिवान होता है।"
+    },
+    {
+      "number": 24,
+      "text": "धनेशे व्ययभावस्थे साहमी धनवर्जितः ।\nपरभाग्यरतस्तस्य ज्येष्ठापत्यसुखं नहि",
+      "english_meaning": "If the 2nd lord is in the 12th house, the person is adventurous but devoid of wealth; he depends on others' fortune and does not have happiness from his eldest child.",
+      "hindi_meaning": "यदि द्वितीयेश बारहवें भाव में हो, तो जातक साहसी होता है परन्तु धनहीन रहता है। वह दूसरों के भाग्य पर आश्रित रहता है और उसे अपनी प्रथम संतान (बड़े पुत्र) का सुख नहीं मिलता।"
+    },
+    {
+      "number": 25,
+      "text": "लग्नगे सहजाधीशे स्वभुजार्जितवित्तवान् ।\nसेवाज्ञः साहसी जातो विद्याहीनोऽपि बुद्धिमान्",
+      "english_meaning": "If the 3rd lord is in the ascendant, the person earns wealth by his own efforts, is knowledgeable in service, adventurous, and intelligent even if uneducated.",
+      "hindi_meaning": "यदि तृतीयेश लग्न में हो, तो जातक अपने बाहुबल से धन कमाने वाला, सेवा कार्य को जानने वाला, साहसी और विद्याहीन होने पर भी बुद्धिमान होता है।"
+    },
+    {
+      "number": 26,
+      "text": "द्वितीये सहजाधीशे स्थूलो विक्रमवर्जितः ।\nस्वल्पारम्भी सुखी न स्यात् परस्त्रीधनकामुकः",
+      "english_meaning": "If the 3rd lord is in the 2nd house, the person is corpulent, lacks courage, is unhappy, makes little effort, and is lustful for others' wives and wealth.",
+      "hindi_meaning": "यदि तृतीयेश दूसरे भाव में हो, तो जातक स्थूल शरीर वाला, पराक्रमहीन, सुखी नहीं रहने वाला, कम प्रयत्न करने वाला और पर-स्त्री व पर-धन का कामी होता है।"
+    },
+    {
+      "number": 27,
+      "text": "सहजे सहजाधीशे सहोदरसुखान्वितः ।\nधनपुत्रयुतो हृष्टो भुनक्ति सुखमद्भुतम्",
+      "english_meaning": "If the 3rd lord is in the 3rd house, the person enjoys happiness from brothers, is endowed with wealth and children, is cheerful, and enjoys wonderful happiness.",
+      "hindi_meaning": "यदि तृतीयेश तीसरे भाव में ही हो, तो जातक भाइयों के सुख से युक्त, धन-पुत्र वाला, प्रसन्न रहने वाला और अद्भुत सुख भोगने वाला होता है।"
+    },
+    {
+      "number": 28,
+      "text": "सुखस्थे सहजाधीशे सुखी च धनसंयुतः ।\nमतिमान् जायते बालो दुष्टभार्यापतिश्च सः",
+      "english_meaning": "If the 3rd lord is in the 4th house, the person is happy and endowed with wealth; he is intelligent, but may be the husband of a wicked wife.",
+      "hindi_meaning": "यदि तृतीयेश चौथे भाव में हो, तो जातक सुखी और धनवान होता है। वह बुद्धिमान होता है, परन्तु उसकी पत्नी दुष्ट स्वभाव की हो सकती है।"
+    },
+    {
+      "number": 29,
+      "text": "सुतस्थे सहजाधीशे पुत्रवान् गुणसंयुतः ।\nभार्या तस्य भवेत् क्रूरा क्रूरग्रहयुतेक्षिते",
+      "english_meaning": "If the 3rd lord is in the 5th house, the person has children and is virtuous; if joined by or aspected by a cruel planet, his wife will be cruel.",
+      "hindi_meaning": "यदि तृतीयेश पांचवें भाव में हो, तो जातक पुत्रवान और गुणी होता है। यदि वहाँ क्रूर ग्रह का योग या दृष्टि हो, तो उसकी पत्नी क्रूर स्वभाव की होती है।"
+    },
+    {
+      "number": 30,
+      "text": "षष्ठभावे त्र्तीयेशे भ्रातृशत्रुर्महाधनी ।\nमातुलैश्च समं वैरं मातुलानीप्रियो नरः",
+      "english_meaning": "If the 3rd lord is in the 6th house, the person is an enemy to his brothers, but very wealthy; he has enmity with his maternal uncles and is dear to his maternal aunt.",
+      "hindi_meaning": "यदि तृतीयेश छठे भाव में हो, तो जातक भाइयों का शत्रु होता है परन्तु महाधनी होता है। उसका मामाओं से वैर होता है और वह मामी का प्रिय होता है।"
+    },
+    {
+      "number": 31,
+      "text": "सप्तमे सहजाधीशे राजसेवापरो नरः ।\nबाल्ये दुःखी सुखी चान्ते जायते नाऽत्र संशयः",
+      "english_meaning": "If the 3rd lord is in the 7th house, the person is devoted to the service of the king; he is unhappy in childhood but happy at the end, without doubt.",
+      "hindi_meaning": "यदि तृतीयेश सातवें भाव में हो, तो जातक राजसेवा में लगा रहने वाला होता है। वह बचपन में दुखी रहता है परन्तु अंत में सुखी होता है, इसमें संशय नहीं।"
+    },
+    {
+      "number": 32,
+      "text": "अष्टमे सहजाधीशे जातश्चैरो नरो भवेत् ।\nदासवृत्त्योपजीवी च राजद्वारे मृतिर्भवेत्",
+      "english_meaning": "If the 3rd lord is in the 8th house, the person becomes a thief; he maintains himself by working as a servant and dies at the gates of the king.",
+      "hindi_meaning": "यदि तृतीयेश आठवें भाव में हो, तो जातक चोर होता है। वह दासवृत्ति (नौकरी) से जीवन निर्वाह करता है और उसकी मृत्यु राजद्वार पर होती है।"
+    },
+    {
+      "number": 33,
+      "text": "नवमे सहजाधीशे पितुः सुखविवर्जितः ।\nस्त्रीभिर्भाग्योदयस्तस्य पुत्रादिसुखसंयुतः",
+      "english_meaning": "If the 3rd lord is in the 9th house, the person is devoid of paternal happiness; his fortune rises through women and he is endowed with happiness from children, etc.",
+      "hindi_meaning": "यदि तृतीयेश नौवें भाव में हो, तो जातक पिता के सुख से रहित होता है। उसका भाग्योदय स्त्रियों के माध्यम से होता है और वह पुत्र आदि के सुख से युक्त होता है।"
+    },
+    {
+      "number": 34,
+      "text": "दशमे सहजाधीशे जातः सर्वसुखान्वितः ।\nस्वभुजार्जिवित्तश्च दुष्टस्त्रीभरणे रतः",
+      "english_meaning": "If the 3rd lord is in the 10th house, the person is endowed with all kinds of happiness; he earns wealth through his own efforts but is devoted to maintaining a wicked woman.",
+      "hindi_meaning": "यदि तृतीयेश दसवें भाव में हो, तो जातक सब प्रकार के सुखों से युक्त होता है। वह अपने बाहुबल से धन कमाता है परन्तु किसी दुष्ट स्त्री के भरण-पोषण में लगा रहता है।"
+    },
+    {
+      "number": 35,
+      "text": "लाभगे सहजाधीशे व्यापारे लाभवान् सदा ।\nविद्याहीनोऽपि मेधावी साहसी परसेवकः",
+      "english_meaning": "If the 3rd lord is in the 11th house, the person always gains in trade; he is intelligent even if uneducated, adventurous, and serves others.",
+      "hindi_meaning": "यदि तृतीयेश ग्यारहवें भाव में हो, तो जातक को व्यापार में सदा लाभ होता है। वह विद्याहीन होने पर भी मेधावी, साहसी और दूसरों की सेवा करने वाला होता है।"
+    },
+    {
+      "number": 36,
+      "text": "व्ययस्थे सहजाधीशे कुतार्ये व्ययकृज्जनः ।\nपिता तस्य भवेत् क्रूरः स्त्रीभिर्भाग्योदयस्तथा",
+      "english_meaning": "If the 3rd lord is in the 12th house, the person spends on evil deeds; his father is cruel and his fortune rises through women.",
+      "hindi_meaning": "यदि तृतीयेश बारहवें भाव में हो, तो जातक बुरे कार्यों पर व्यय करने वाला होता है। उसका पिता क्रूर होता है और उसका भाग्योदय स्त्रियों द्वारा होता है।"
+    },
+    {
+      "number": 37,
+      "text": "सुखेशे लग्नगे जातो विद्यागुणविभूषितः ।\nभूमीवाहनसंयुक्तो मातुः सुखसमन्वितः",
+      "english_meaning": "If the 4th lord is in the ascendant, the person is adorned with learning and virtues, is endowed with land and vehicles, and enjoys happiness from his mother.",
+      "hindi_meaning": "यदि चतुर्थेश लग्न में हो, तो जातक विद्या और गुणों से विभूषित, भूमि व वाहन से युक्त और माता के सुख से सम्पन्न होता है।"
+    },
+    {
+      "number": 38,
+      "text": "सुखेशे धनगे जातो भोगी सर्वधनान्वितः ।\nकुटुम्बसहितो मानी साहसी कुहकान्वितः",
+      "english_meaning": "If the 4th lord is in the 2nd house, the person is an enjoyer of all kinds of wealth, lives with his family, is honorable, adventurous, but deceptive.",
+      "hindi_meaning": "यदि चतुर्थेश दूसरे भाव में हो, तो जातक भोगी और सब प्रकार के धन से युक्त होता है। वह कुटुंब के साथ रहने वाला, मानी, साहसी परन्तु कपटी (मायावी) होता है।"
+    },
+    {
+      "number": 39,
+      "text": "सुखेशे सहजे जातो विक्रमी भृत्यसंयुतः ।\nउदारोऽरुग् गुणी दाता स्वभुजार्जितवित्तवान्",
+      "english_meaning": "If the 4th lord is in the 3rd house, the person is courageous, has many servants, is generous, healthy, virtuous, a donor, and earns wealth by his own efforts.",
+      "hindi_meaning": "यदि चतुर्थेश तीसरे भाव में हो, तो जातक पराक्रमी, भृत्यों से युक्त, उदार, निरोग, गुणी, दानी और अपने बाहुबल से धन अर्जित करने वाला होता है।"
+    },
+    {
+      "number": 40,
+      "text": "सुखेशे सुखभावस्थे मन्त्री सर्वधनान्वितः ।\nचतुरः शीलवान् मानी ज्ञानवान् स्त्रीप्रियः सुखी",
+      "english_meaning": "If the 4th lord is in the 4th house, the person may be a minister, is endowed with all kinds of wealth, is clever, of good character, honorable, learned, happy, and dear to women.",
+      "hindi_meaning": "यदि चतुर्थेश चौथे भाव में ही हो, तो जातक मन्त्री, सब प्रकार के धन से युक्त, चतुर, सुशील, मानी, ज्ञानवान, स्त्रियों का प्रिय और सुखी होता है।"
+    },
+    {
+      "number": 41,
+      "text": "सुखेशे पुत्रभावस्थे सुखी सर्वजनप्रियः ।\nविष्णुभक्तो गुणी मानी स्वभुजार्जितवित्तवान्",
+      "english_meaning": "If the 4th lord is in the 5th house, the person is happy, dear to all people, a devotee of Vishnu, virtuous, honorable, and earns wealth by his own efforts.",
+      "hindi_meaning": "यदि चतुर्थेश पांचवें भाव में हो, तो जातक सुखी, सब लोगों का प्रिय, विष्णुभक्त, गुणी, मानी और अपने बाहुबल से धन कमाने वाला होता है।"
+    },
+    {
+      "number": 42,
+      "text": "सुखेशे रिपुभावस्थे मातुः सुखविवर्जितः ।\nक्रोधी चोरोऽभिचारी च स्वेच्छाचारश्च दुर्मनाः",
+      "english_meaning": "If the 4th lord is in the 6th house, the person is devoid of happiness from his mother; he is irritable, a thief, may use deceptive charms (Abhichara), is self-willed, and of evil mind.",
+      "hindi_meaning": "यदि चतुर्थेश छठे भाव में हो, तो जातक माता के सुख से रहित होता है। वह क्रोधी, चोर, अभिचारी (तांत्रिक प्रयोग करने वाला), स्वेच्छाचारी और दुष्ट मन वाला होता है।"
+    },
+    {
+      "number": 43,
+      "text": "सुखेशे सप्तमे जातो बहुविद्यासमन्वितः ।\nपित्रार्जितधनत्यागी सभायां मूकवद् भवेत्",
+      "english_meaning": "If the 4th lord is in the 7th house, the person is endowed with much learning; he gives away wealth inherited from his father and becomes like a mute in an assembly.",
+      "hindi_meaning": "यदि चतुर्थेश सातवें भाव में हो, तो जातक बहुत विद्या से युक्त होता है। वह पिता से मिले धन का त्याग करने वाला और सभा में गूंगे के समान (चुप रहने वाला) होता है।"
+    },
+    {
+      "number": 44,
+      "text": "सुखेशे रन्ध्रभावस्थे गृहादिसुखवर्जितः ।\nपित्रोः सुखं भवेदल्पं जातः क्लीबसमो भवेत्",
+      "english_meaning": "If the 4th lord is in the 8th house, the person is devoid of happiness from house and lands; paternal happiness is very little and the person is like a eunuch.",
+      "hindi_meaning": "यदि चतुर्थेश आठवें भाव में हो, तो जातक घर और भूमि के सुख से रहित होता है। उसे माता-पिता का सुख कम मिलता है और वह नपुंसक के समान होता है।"
+    },
+    {
+      "number": 45,
+      "text": "सुखेशे भाग्यभावस्थे जातः सर्वजनप्रियः ।\nदेवभक्तो गुणी मानी भवेत् सर्वसुखान्वितः",
+      "english_meaning": "If the 4th lord is in the 9th house, the person is dear to all people, a devotee of gods, virtuous, honorable, and endowed with all kinds of happiness.",
+      "hindi_meaning": "यदि चतुर्थेश नौवें भाव में हो, तो जातक सब लोगों का प्रिय, देवताओं का भक्त, गुणी, मानी और सब प्रकार के सुखों से युक्त होता है।"
+    },
+    {
+      "number": 46,
+      "text": "सुखेशे कर्मभावस्थे राजमान्यो नरो भवेत् ।\nरसायनी महाहृष्टो सुखभोगी जितेन्द्रियः",
+      "english_meaning": "If the 4th lord is in the 10th house, the person is honored by the king, an expert in alchemy (Rasayani), very cheerful, an enjoyer of happiness, and has control over his senses.",
+      "hindi_meaning": "यदि चतुर्थेश दसवें भाव में हो, तो जातक राजा से सम्मानित, रसायनी (औषधि विशेषज्ञ), बहुत प्रसन्न रहने वाला, सुख भोगने वाला और जितेन्द्रिय होता है।"
+    },
+    {
+      "number": 47,
+      "text": "सुखेशे लाभगे जातो गुप्तरोगभयान्वितः ।\nउदारी गुणवान् दाता परोपकरणे रतः",
+      "english_meaning": "If the 4th lord is in the 11th house, the person may suffer from secret diseases; he is generous, virtuous, a donor, and devoted to helping others.",
+      "hindi_meaning": "यदि चतुर्थेश ग्यारहवें भाव में हो, तो जातक को गुप्त रोगों का भय रहता है। वह उदार, गुणी, दानी और दूसरों की भलाई करने में लगा रहता है।"
+    },
+    {
+      "number": 48,
+      "text": "सुखेशे व्ययभावस्थे गृहादिसुखवर्जितः ।\nजातो दुर्व्यसनी मूढः सदाऽलस्यसमन्वितः",
+      "english_meaning": "If the 4th lord is in the 12th house, the person is devoid of happiness from house and lands; he has evil habits, is foolish, and always remains lazy.",
+      "hindi_meaning": "यदि चतुर्थेश बारहवें भाव में हो, तो जातक घर और भूमि के सुख से रहित होता है। वह दुर्व्यसनी, मूर्ख और सदा आलस्य से भरा रहता है।"
+    },
+    {
+      "number": 49,
+      "text": "सुतेशे लग्नगे जातो विद्यान् पुत्रसुखान्वितः ।\nकदर्यो वक्रचित्तश्च परद्रव्यापहारकः",
+      "english_meaning": "If the 5th lord is in the ascendant, the person is learned, has happiness from children, but may be stingy, of crooked mind, and a stealer of others' wealth.",
+      "hindi_meaning": "यदि पंचमेश लग्न में हो, तो जातक विद्वान और पुत्र-सुख से युक्त होता है, परन्तु वह कंजूस, कुटिल बुद्धि वाला और दूसरे के धन को हरने वाला होता है।"
+    },
+    {
+      "number": 50,
+      "text": "सुतेशे धनगे जातो बहुपुत्रो धनान्वितः ।\nकुटुम्बपोषको मानी स्त्रीप्रियः सुयशा भुवि",
+      "english_meaning": "If the 5th lord is in the 2nd house, the person has many sons, is endowed with wealth, supports his family, is honorable, dear to women, and famous in the world.",
+      "hindi_meaning": "यदि पंचमेश दूसरे भाव में हो, तो जातक बहुत पुत्रों वाला, धनवान, कुटुंब का पालन करने वाला, मानी, स्त्रियों का प्रिय और संसार में सुयश पाने वाला होता है।"
+    },
+    {
+      "number": 51,
+      "text": "सुतेशे सहजे भावे जायते सोदरप्रियः ।\nपिशुनश्च कदर्यश्च स्वकार्यनिरतः सदा",
+      "english_meaning": "If the 5th lord is in the 3rd house, the person is dear to his brothers, but may be a backbiter, stingy, and always busy with his own work.",
+      "hindi_meaning": "यदि पंचमेश तीसरे भाव में हो, तो जातक अपने भाइयों का प्रिय होता है, परन्तु वह चुगलखोर, कंजूस और सदा अपने ही काम में लगा रहने वाला होता है।"
+    },
+    {
+      "number": 52,
+      "text": "सुतेशे सुखभावस्थे सुखी मातृसुखान्वितः ।\nलक्ष्मीयुक्तः सुबुद्धिश्च राज्ञोऽमात्योऽथवा गुरुः",
+      "english_meaning": "If the 5th lord is in the 4th house, the person is happy, enjoys maternal happiness, is endowed with wealth (Lakshmi) and good intelligence, and may be a king's minister or a preceptor.",
+      "hindi_meaning": "यदि पंचमेश चौथे भाव में हो, तो जातक सुखी, माता के सुख से युक्त, लक्ष्मीवान और सुबुद्धि वाला होता है। वह राजा का मंत्री या गुरु हो सकता है।"
+    },
+    {
+      "number": 53,
+      "text": "सुतेशे सुतभावस्ते शुभाढ्ये पुत्रवान् नरः ।\nपापाढ्येऽपत्यहीनोऽसौ गुणवान् मित्रवत्सलः",
+      "english_meaning": "If the 5th lord is in the 5th house, and is associated with benefics, the person has sons; if associated with malefics, he is devoid of children, but is virtuous and dear to friends.",
+      "hindi_meaning": "यदि पंचमेश पांचवें भाव में ही हो और शुभ ग्रहों से युक्त हो, तो जातक पुत्रवान होता है। यदि पाप ग्रहों से युक्त हो, तो वह संतानहीन होता है, परन्तु गुणी और मित्रों का प्यारा होता है।"
+    },
+    {
+      "number": 54,
+      "text": "सुतेशे रिपुभावस्थे पुत्रः शत्रुसमो भवेत् ।\nमृतापत्योऽथवा जातो दत्तक्रीतसुतोऽथवा",
+      "english_meaning": "If the 5th lord is in the 6th house, his son becomes like an enemy, or he may have dead children, or his children may be adopted or purchased.",
+      "hindi_meaning": "यदि पंचमेश छठे भाव में हो, तो उसका पुत्र शत्रु के समान होता है। जातक की संतान की मृत्यु हो सकती है, या वह गोद लिया हुआ (दत्तक) या खरीदा हुआ पुत्र रख सकता है।"
+    },
+    {
+      "number": 55,
+      "text": "सुतेशे सप्तमे मानी सर्वधर्मसमन्वितः ।\nपुत्रादिसुखयुक्तश्च परोपकरणे रतः",
+      "english_meaning": "If the 5th lord is in the 7th house, the person is honorable, endowed with all religious virtues, enjoys happiness from sons, etc., and is devoted to helping others.",
+      "hindi_meaning": "यदि पंचमेश सातवें भाव में हो, तो जातक मानी, सब प्रकार के धर्मों से युक्त, पुत्र आदि के सुख से सम्पन्न और दूसरों की भलाई करने में लगा रहता है।"
+    },
+    {
+      "number": 56,
+      "text": "सुतेशे रन्ध्रभावस्थे स्वल्पपुत्रसुखान्वितः ।\nकासश्वाससमायुक्तः क्रोधी च सुखवर्जितः",
+      "english_meaning": "If the 5th lord is in the 8th house, the person has very little happiness from sons, suffers from cough and breathing problems, is irritable, and devoid of happiness.",
+      "hindi_meaning": "यदि पंचमेश आठवें भाव में हो, तो जातक को पुत्र का सुख बहुत कम मिलता है। वह खांसी और श्वास के रोगों से पीड़ित, क्रोधी और सुख से रहित होता है।"
+    },
+    {
+      "number": 57,
+      "text": "सुतेशे भाग्यगे पुत्रो भपो वा तत्समो भवेत् ।\nस्वयं वा ग्रन्थकर्ता च विख्यातः कुलदीपकः",
+      "english_meaning": "If the 5th lord is in the 9th house, the person's son becomes a king or like a king, or he himself becomes an author and is a famous light of his family.",
+      "hindi_meaning": "यदि पंचमेश नौवें भाव में हो, तो जातक का पुत्र राजा या राजा के समान होता है। वह स्वयं भी ग्रन्थकर्ता और अपने कुल का नाम रोशन करने वाला (कुलदीपक) होता है।"
+    },
+    {
+      "number": 58,
+      "text": "सुतेशे राज्यभावस्थे राजयोगो हि जायते ।\nअनेकसुखभोगी च ख्यातकीर्तिर्नरो भवेत्",
+      "english_meaning": "If the 5th lord is in the 10th house, Rajayoga is formed; the person enjoys many kinds of happiness and becomes famous.",
+      "hindi_meaning": "यदि पंचमेश दसवें भाव में हो, तो राजयोग बनता है। जातक अनेक प्रकार के सुखों का भोग करने वाला और प्रसिद्ध व्यक्ति होता है।"
+    },
+    {
+      "number": 59,
+      "text": "सुतेशे लाभगे जातो विद्यावान् जनवल्लभः ।\nग्रन्थकर्ता महादक्षो बहुपुत्रधनान्वितः",
+      "english_meaning": "If the 5th lord is in the 11th house, the person is learned, dear to people, a great author, highly skilled, and endowed with many sons and wealth.",
+      "hindi_meaning": "यदि पंचमेश ग्यारहवें भाव में हो, तो जातक विद्वान, जनता का प्रिय, महान ग्रन्थकर्ता, अत्यंत कुशल और अनेक पुत्रों व धन से युक्त होता है।"
+    },
+    {
+      "number": 60,
+      "text": "सुतेशे व्ययभावस्थे जातः पुत्रसुखोज्ज्ञितः ।\nदत्तपुत्रयुतो वाऽसौ क्रीतपुत्रान्वितोऽथवा",
+      "english_meaning": "If the 5th lord is in the 12th house, the person is devoid of happiness from sons; he may have an adopted or a purchased son.",
+      "hindi_meaning": "यदि पंचमेश बारहवें भाव में हो, तो जातक को पुत्र-सुख नहीं मिलता। उसे दत्तक या खरीदा हुआ पुत्र रखना पड़ता है।"
+    },
+    {
+      "number": 61,
+      "text": "षष्ठेशे लग्नगे जातो रोगवान् कीर्तिसंयुतः ।\nआत्मशत्रुर्धनी मानी साहसी गुणवान् नरः",
+      "english_meaning": "If the 6th lord is in the ascendant, the person is sickly but famous; he is his own enemy, wealthy, honorable, courageous, and virtuous.",
+      "hindi_meaning": "यदि षष्ठेश लग्न में हो, तो जातक रोगी होता है परन्तु प्रसिद्ध होता है। वह अपना ही शत्रु (आत्म-शत्रु), धनी, मानी, साहसी और गुणी होता है।"
+    },
+    {
+      "number": 62,
+      "text": "षष्ठेशे धनभावस्थे साहसी कुलविश्रुतः ।\nपरदेशी सुखी वक्ता स्वकर्मनीरतः सदा",
+      "english_meaning": "If the 6th lord is in the 2nd house, the person is courageous, famous in his family, stays in foreign lands, is happy, a good orator, and always devoted to his work.",
+      "hindi_meaning": "यदि षष्ठेश दूसरे भाव में हो, तो जातक साहसी, अपने कुल में विख्यात, परदेश में रहने वाला, सुखी, उत्तम वक्ता और अपने कार्य में सदा लगा रहने वाला होता है।"
+    },
+    {
+      "number": 63,
+      "text": "षष्ठेशे सहजः जातः क्रोधी विक्रमवर्जितः ।\nभ्राता शत्रुसमस्तस्य भृत्यश्चोत्तरदायकः",
+      "english_meaning": "If the 6th lord is in the 3rd house, the person is irritable, devoid of courage, his brother is like an enemy, and his servants are talkative (answer back).",
+      "hindi_meaning": "यदि षष्ठेश तीसरे भाव में हो, तो जातक क्रोधी और पराक्रमहीन होता है। उसका भाई शत्रु के समान होता है और उसके नौकर उत्तर देने वाले (मुँहफट) होते हैं।"
+    },
+    {
+      "number": 64,
+      "text": "षष्ठेशे सुखभावस्थे मातुः सुखविवर्जितः ।\nमनस्वी पिशुना द्वेषी चलचित्तोऽतिवित्तवान्",
+      "english_meaning": "If the 6th lord is in the 4th house, the person is devoid of maternal happiness; he is thoughtful but a backbiter, jealous, of fickle mind, and very wealthy.",
+      "hindi_meaning": "यदि षष्ठेश चौथे भाव में हो, तो जातक माता के सुख से रहित होता है। वह मनस्वी (विचारवान) होकर भी चुगलखोर, द्वेषी, चंचल मन वाला परन्तु अत्यंत धनवान होता है।"
+    },
+    {
+      "number": 65,
+      "text": "षष्ठेशे सुतगो यस्य चलं तस्य धनादिकम् ।\nशत्रुता पुत्रमित्रैश्च सुखी स्वार्थी दयान्वितः",
+      "english_meaning": "If the 6th lord is in the 5th house, the person's wealth etc. are unstable; he has enmity with sons and friends, is happy, selfish, and compassionate.",
+      "hindi_meaning": "यदि षष्ठेश पांचवें भाव में हो, तो जातक का धन आदि अस्थिर रहता है। उसकी पुत्रों और मित्रों से शत्रुता होती है, वह सुखी, स्वार्थी और दयालु स्वभाव का होता है।"
+    },
+    {
+      "number": 66,
+      "text": "षष्ठेशे रिपुभावस्थे वैरं स्वज्ञातिमण्डलात् ।\nअन्यैः सह भवेन् मैत्री सुखं मध्यं धनादिजम्",
+      "english_meaning": "If the 6th lord is in the 6th house, he has enmity with his own community; he has friendship with others and his happiness from wealth etc. is moderate.",
+      "hindi_meaning": "यदि षष्ठेश छठे भाव में ही हो, तो जातक का अपने ही जाति-बिरादरी के लोगों से वैर होता है। दूसरों से उसकी मित्रता रहती है और धन आदि का सुख मध्यम होता है।"
+    },
+    {
+      "number": 67,
+      "text": "षष्ठेशे दारभावस्थे जातो दारसुखोज्झितः ।\nकीर्तिमान् गुणवान् मानी साहसी धनसंयुतः",
+      "english_meaning": "If the 6th lord is in the 7th house, the person is devoid of happiness from his wife; he is famous, virtuous, honorable, courageous, and endowed with wealth.",
+      "hindi_meaning": "यदि षष्ठेश सातवें भाव में हो, तो जातक पत्नी के सुख से रहित होता है। वह कीर्तिवान, गुणी, मानी, साहसी और धन से युक्त होता है।"
+    },
+    {
+      "number": 68,
+      "text": "षष्ठेशेऽष्टमगे जातो रोगी शत्रुर्मनीषिणाम् ।\nपरद्रव्याभिलाषी च परदाररतोऽशुचिः",
+      "english_meaning": "If the 6th lord is in the 8th house, the person is sickly, an enemy to wise men, covetous of others' wealth, devoted to others' wives, and impure.",
+      "hindi_meaning": "यदि षष्ठेश आठवें भाव में हो, तो जातक रोगी, विद्वानों का शत्रु, दूसरे के धन की इच्छा करने वाला, पर-स्त्रीगामी और अपवित्र होता है।"
+    },
+    {
+      "number": 69,
+      "text": "षष्ठेशे भाग्यगे जातः काष्ठपाषाणविक्रयी ।\nव्यवहारे क्वचिद्धानिः क्वचिद्वृद्धिश्च जायते",
+      "english_meaning": "If the 6th lord is in the 9th house, the person deals in wood and stones; sometimes there is loss in business and sometimes there is gain.",
+      "hindi_meaning": "यदि षष्ठेश नौवें भाव में हो, तो जातक लकड़ी और पत्थर का व्यापार करने वाला होता है। उसके व्यापार में कभी हानि और कभी लाभ होता रहता है।"
+    },
+    {
+      "number": 70,
+      "text": "षष्ठेशे दशमे भावे मानवः कुलविश्रुतः ।\nअभक्तश्च पितुर्वक्ता विदेशे च सुखी भवेत्",
+      "english_meaning": "If the 6th lord is in the 10th house, the person is famous in his family, is not devoted to his father, is an orator, and lives happily in foreign lands.",
+      "hindi_meaning": "यदि षष्ठेश दसवें भाव में हो, तो जातक अपने कुल में प्रसिद्ध होता है। वह पिता का भक्त नहीं होता, अच्छा वक्ता होता है और परदेश में सुख से रहता है।"
+    },
+    {
+      "number": 71,
+      "text": "षष्ठेशे लाभगे जातः शत्रुतो धनमाप्नुयात् ।\nगुणवान् साहसी मानी किन्तु पुत्रसुखोज्झितः",
+      "english_meaning": "If the 6th lord is in the 11th house, the person gains wealth through enemies; he is virtuous, courageous, and honorable, but devoid of happiness from sons.",
+      "hindi_meaning": "यदि षष्ठेश ग्यारहवें भाव में हो, तो जातक शत्रुओं के माध्यम से धन प्राप्त करता है। वह गुणी, साहसी और मानी होता है, परन्तु उसे पुत्र-सुख की कमी रहती है।"
+    },
+    {
+      "number": 72,
+      "text": "षष्ठेशे व्ययभावस्थे व्यसने व्ययकृत् सदा ।\nविद्वद्द्वेषी भवेज्जातो जीवहिंसासु तत्परः",
+      "english_meaning": "If the 6th lord is in the 12th house, the person always spends on vices; he is a hater of learned men and is devoted to killing living beings.",
+      "hindi_meaning": "यदि षष्ठेश बारहवें भाव में हो, तो जातक सदा व्यसनों (बुरे कामों) पर धन खर्च करता है। वह विद्वानों से द्वेष करने वाला और जीव-हिंसा में तत्पर रहता है।"
+    },
+    {
+      "number": 73,
+      "text": "दारेशे लग्नगे जातः परदारेषु लम्पटः ।\nदुष्टो विचक्षणोऽधीरो जनो वातरुजान्वितः",
+      "english_meaning": "If the 7th lord is in the ascendant, the person is a profligate towards others' wives, wicked, skilled, restless, and suffers from windy diseases.",
+      "hindi_meaning": "यदि सप्तमेश लग्न में हो, तो जातक पर-स्त्रियों में लम्पट (कामी), दुष्ट स्वभाव का, चतुर, अधीर और वात रोगों (गैस आदि) से पीड़ित होता है।"
+    },
+    {
+      "number": 74,
+      "text": "दारेशे धनगे जातो बहुस्त्रीभिः समन्वितः ।\nदारयोगाद्धनाप्तिश्च दीर्घसूत्री च मानवः",
+      "english_meaning": "If the 7th lord is in the 2nd house, the person is endowed with many wives; he gains wealth through his wife and is a procrastinator.",
+      "hindi_meaning": "यदि सप्तमेश दूसरे भाव में हो, तो जातक कई स्त्रियों वाला होता है। उसे पत्नी के माध्यम से धन की प्राप्ति होती है और वह काम को टालने वाला (दीर्घसूत्री) होता है।"
+    },
+    {
+      "number": 75,
+      "text": "दारेशे सहजे जातो मृतापत्यो हि मानवः ।\nकदाचिज्जायते पुत्री यत्नात् पुत्रोऽपि जीवति",
+      "english_meaning": "If the 7th lord is in the 3rd house, the person may have dead children; sometimes a daughter is born or a son survives with great difficulty.",
+      "hindi_meaning": "यदि सप्तमेश तीसरे भाव में हो, तो जातक की संतान जीवित नहीं रहती। कभी पुत्री का जन्म होता है या बहुत प्रयत्न के बाद पुत्र जीवित रहता है।"
+    },
+    {
+      "number": 76,
+      "text": "दारेशे सुखभावस्थे जाया नास्य वशे सदा ।\nस्वयं सत्यप्रियो धीमान् धर्मात्मा दन्तरोगयुक्",
+      "english_meaning": "If the 7th lord is in the 4th house, his wife is not always under his control; he himself is a lover of truth, intelligent, religious, but suffers from tooth diseases.",
+      "hindi_meaning": "यदि सप्तमेश चौथे भाव में हो, तो जातक की पत्नी सदा उसके वश में नहीं रहती। वह स्वयं सत्यप्रेमी, बुद्धिमान, धर्मात्मा और दाँत के रोगों से पीड़ित होता है।"
+    },
+    {
+      "number": 77,
+      "text": "दारेशे पञ्चमे जातो मानि सर्वगुणान्वितः ।\nसर्वदा हर्षयुक्तश्च तथा सर्वधनाधिपः",
+      "english_meaning": "If the 7th lord is in the 5th house, the person is honorable, endowed with all virtues, always cheerful, and master of all kinds of wealth.",
+      "hindi_meaning": "यदि सप्तमेश पांचवें भाव में हो, तो जातक मानी, सब गुणों से युक्त, सदा प्रसन्न रहने वाला और सब प्रकार के धन का स्वामी होता है।"
+    },
+    {
+      "number": 78,
+      "text": "दारेशे रिपुभावस्थे भार्या तस्य रुजान्विता ।\nस्त्रिया सहाऽथ वा वैरं स्वयं क्रोधी सुखोज्झितः",
+      "english_meaning": "If the 7th lord is in the 6th house, his wife is sickly, or there is enmity with his wife; he himself is irritable and devoid of happiness.",
+      "hindi_meaning": "यदि सप्तमेश छठे भाव में हो, तो जातक की पत्नी बीमार रहती है, या पत्नी से उसका वैर रहता है। वह स्वयं क्रोधी और सुख से रहित होता है।"
+    },
+    {
+      "number": 79,
+      "text": "दारेशे सप्तमे भावे जातो दारसुखान्वितः ।\nधीरो विचक्षणो धीमान् केवलं वातरोगवान्",
+      "english_meaning": "If the 7th lord is in the 7th house, the person enjoys happiness from his wife; he is steady, skilled, and intelligent, but only suffers from windy diseases.",
+      "hindi_meaning": "यदि सप्तमेश सातवें भाव में ही हो, तो जातक पत्नी के सुख से युक्त होता है। वह धैर्यवान, चतुर और बुद्धिमान होता है, केवल उसे वात रोग की शिकायत रहती है।"
+    },
+    {
+      "number": 80,
+      "text": "दारेशे मृत्युभावस्थे जातो दारसुखोज्झितः ।\nभार्याऽपि रोगयुक्ताऽस्य दुःशीलाऽपि न चानुगा",
+      "english_meaning": "If the 7th lord is in the 8th house, the person is devoid of happiness from his wife; his wife is sickly, of bad character, and not obedient.",
+      "hindi_meaning": "यदि सप्तमेश आठवें भाव में हो, तो जातक पत्नी के सुख से रहित होता है। उसकी पत्नी रोगी, दुश्चरित्र और उसकी आज्ञा न मानने वाली होती है।"
+    },
+    {
+      "number": 81,
+      "text": "दारेशे धर्मभावस्थे नानास्त्रीभिः समागमः ।\nजायाहृतमना जातो बह्वारम्भकरो नरः",
+      "english_meaning": "If the 7th lord is in the 9th house, the person has association with various women; he is enamored by his wife and starts many kinds of works.",
+      "hindi_meaning": "यदि सप्तमेश नौवें भाव में हो, तो जातक का अनेक स्त्रियों से समागम होता है। उसका मन पत्नी में लगा रहता है और वह बहुत से नए काम शुरू करने वाला होता है।"
+    },
+    {
+      "number": 82,
+      "text": "दारेशे कर्मभावस्थे नास्य जाया वशानुगा ।\nस्वयं धर्मरतो जातो धनपुत्रादिसंयुतः",
+      "english_meaning": "If the 7th lord is in the 10th house, his wife is not obedient; he himself is devoted to religion and endowed with wealth, sons, etc.",
+      "hindi_meaning": "यदि सप्तमेश दसवें भाव में हो, तो जातक की पत्नी उसकी आज्ञा में नहीं रहती। वह स्वयं धर्म में लगा रहने वाला और धन-पुत्र आदि से युक्त होता है।"
+    },
+    {
+      "number": 83,
+      "text": "दारेशे लाभभावस्थे दारैरर्थसमागमः ।\nपुत्रादिसुखमल्पं च जनः कन्यप्रजो भवेत्",
+      "english_meaning": "If the 7th lord is in the 11th house, wealth is gained through his wife; happiness from sons is little and the person has more daughters.",
+      "hindi_meaning": "यदि सप्तमेश ग्यारहवें भाव में हो, तो जातक को पत्नी के माध्यम से धन मिलता है। उसे पुत्र-सुख कम होता है और वह कन्याओं की अधिक संतान वाला होता है।"
+    },
+    {
+      "number": 84,
+      "text": "दारेशे व्ययगे जातो दरिद्रः कृपणोऽपि वा ।\nभार्या;पि व्ययशीलाऽस्य वस्त्राजीवी नरो भवेत्",
+      "english_meaning": "If the 7th lord is in the 12th house, the person is poor or stingy; his wife is also spendthrift and the person earns his living through clothes (garments).",
+      "hindi_meaning": "यदि सप्तमेश बारहवें भाव में हो, तो जातक दरिद्र या कंजूस होता है। उसकी पत्नी भी बहुत खर्च करने वाली होती है और जातक वस्त्रों के व्यापार से अपनी जीविका चलाता है।"
+    },
+    {
+      "number": 85,
+      "text": "अष्टमेशे तनौ जातस्तनुसौख्यविवर्जितः ।\nदेवानां ब्राह्मणानां च निन्दको व्रणसंयुतः",
+      "english_meaning": "If the 8th lord is in the ascendant, the person is devoid of physical happiness; he is a blasphemer of gods and Brahmins and has ulcers/scars on his body.",
+      "hindi_meaning": "यदि अष्टमेश लग्न में हो, तो जातक शारीरिक सुख से रहित होता है। वह देवताओं और ब्राह्मणों की निन्दा करने वाला और शरीर पर घावों (फोड़े-फुंसी) वाला होता है।"
+    },
+    {
+      "number": 86,
+      "text": "अष्टमेशे धने बाहुबलहीनः प्रजायते ।\nधनं तस्य भवेत् स्वल्पं नष्ट वित्तं न लभ्यते",
+      "english_meaning": "If the 8th lord is in the 2nd house, the person is devoid of physical strength; his wealth is very little and lost wealth is not recovered.",
+      "hindi_meaning": "यदि अष्टमेश दूसरे भाव में हो, तो जातक बाहुबल से हीन होता है। उसके पास बहुत कम धन होता है और खोया हुआ धन वापस नहीं मिलता।"
+    },
+    {
+      "number": 87,
+      "text": "रन्ध्रेशे सहजे भावे भ्रातृसौख्यं न जायते ।\nसालस्यो भृत्यहीनश्च जायते बलवर्जितः",
+      "english_meaning": "If the 8th lord is in the 3rd house, there is no happiness from brothers; the person is lazy, lacks servants, and is devoid of strength.",
+      "hindi_meaning": "यदि अष्टमेश तीसरे भाव में हो, तो जातक को भाइयों का सुख नहीं मिलता। वह आलसी, नौकरों से रहित और बलहीन होता है।"
+    },
+    {
+      "number": 88,
+      "text": "रन्ध्रेशे सुखभावस्थे मातृहीनो भवेच्छिशुः ।\nगृहभूमिसुखैर्हीनो मित्रद्रोही न संशयः",
+      "english_meaning": "If the 8th lord is in the 4th house, the child is devoid of a mother; he is devoid of happiness from house and lands, and without doubt, a betrayer of friends.",
+      "hindi_meaning": "यदि अष्टमेश चौथे भाव में हो, तो बच्चा माता के सुख से रहित होता है। उसे घर और भूमि का सुख नहीं मिलता और वह निश्चित रूप से मित्रों से द्रोह करने वाला होता है।"
+    },
+    {
+      "number": 89,
+      "text": "रन्ध्रेशे सुतभावस्थे जडबुद्धिः प्रजायते ।\nस्वल्पप्रज्ञो भवेज्जतो दीर्घायुश्च धनान्वितः",
+      "english_meaning": "If the 8th lord is in the 5th house, the person is of dull intellect; he has little intelligence but is long-lived and endowed with wealth.",
+      "hindi_meaning": "यदि अष्टमेश पांचवें भाव में हो, तो जातक मन्दबुद्धि होता है। उसकी समझ कम होती है परन्तु वह दीर्घायु और धनवान होता है।"
+    },
+    {
+      "number": 90,
+      "text": "रन्ध्रेशे रिपुभावस्थे शत्रुजेता भवेज्जनः ।\nरोगयुक्तशरीरश्च बाल्ये सर्पजलाद् भयम्",
+      "english_meaning": "If the 8th lord is in the 6th house, the person becomes a conqueror of enemies; his body is sickly and in childhood, there is fear from snakes and water.",
+      "hindi_meaning": "यदि अष्टमेश छठे भाव में हो, तो जातक शत्रुओं को जीतने वाला होता है। उसका शरीर रोगी रहता है और बचपन में उसे सांप व पानी से भय रहता है।"
+    },
+    {
+      "number": 91,
+      "text": "रन्ध्रेशे दारभावस्थे तस्य भार्याद्वयं भवेत् ।\nव्यापारे च भवेधानिस्तस्मिन् पापयुते ध्रुवम्",
+      "english_meaning": "If the 8th lord is in the 7th house, the person has two wives; if a malefic is also there, there is certainly loss in business.",
+      "hindi_meaning": "यदि अष्टमेश सातवें भाव में हो, तो जातक की दो पत्नियाँ होती हैं। यदि वहाँ कोई पाप ग्रह भी हो, तो व्यापार में निश्चित रूप से हानि होती है।"
+    },
+    {
+      "number": 92,
+      "text": "रन्ध्रेशे मृत्युभावस्थे जाता दीर्घायुषा युतः ।\nनिर्बले मध्यमायुः स्याच्चौरो निन्द्योऽन्यनिन्दकः",
+      "english_meaning": "If the 8th lord is in the 8th house, the person is long-lived; if he is weak, the life is moderate, he is a thief, a despicable person, and a critic of others.",
+      "hindi_meaning": "यदि अष्टमेश आठवें भाव में ही हो, तो जातक दीर्घायु होता है। यदि वह निर्बल हो, तो आयु मध्यम होती है। वह चोर, निन्दनीय और दूसरों की निन्दा करने वाला होता है।"
+    },
+    {
+      "number": 93,
+      "text": "अष्टमेशे तपःस्थाने धर्मद्रोही च नास्तिकः ।\nदुष्टभार्यापतिश्चैव परद्रव्यापहारकः",
+      "english_meaning": "If the 8th lord is in the 9th house, the person is a betrayer of religion and an atheist; he is the husband of a wicked wife and a stealer of others' wealth.",
+      "hindi_meaning": "यदि अष्टमेश नौवें भाव में हो, तो जातक धर्म का द्रोही और नास्तिक होता है। वह दुष्ट पत्नी का पति और दूसरे के धन को हरने वाला होता है।"
+    },
+    {
+      "number": 94,
+      "text": "रन्ध्रेशे कर्मभावस्ते पितृसौख्यविवर्जितः ।\nपिशुनः कर्महीनश्च यदि नैव शुभेक्षिते",
+      "english_meaning": "If the 8th lord is in the 10th house, the person is devoid of paternal happiness; he is a backbiter and devoid of good deeds, unless aspected by a benefic.",
+      "hindi_meaning": "यदि अष्टमेश दसवें भाव में हो, तो जातक पिता के सुख से रहित होता है। वह चुगलखोर और कर्महीन होता है, यदि उस पर किसी शुभ ग्रह की दृष्टि न हो।"
+    },
+    {
+      "number": 95,
+      "text": "रन्ध्रेशे लाभभावस्थे सपापे धनवर्जितः ।\nबाल्ये दुःखी सुखी पश्चात् दीर्घायुश्च शुभान्विते",
+      "english_meaning": "If the 8th lord is in the 11th house, if with a malefic, the person is devoid of wealth; in childhood he is unhappy but later happy, and if with a benefic, he is long-lived.",
+      "hindi_meaning": "यदि अष्टमेश ग्यारहवें भाव में हो और पाप ग्रह के साथ हो, तो जातक धनहीन होता है। वह बचपन में दुखी परन्तु बाद में सुखी होता है और शुभ ग्रह के होने पर दीर्घायु होता है।"
+    },
+    {
+      "number": 96,
+      "text": "रन्ध्रेशे व्ययभावस्थे कुकार्ये व्ययकृत् सदा ।\nअल्पायुश्च भवेज्जातः सपापे च विशेषतः",
+      "english_meaning": "If the 8th lord is in the 12th house, the person always spends on evil deeds; he is short-lived, especially if a malefic is also present.",
+      "hindi_meaning": "यदि अष्टमेश बारहवें भाव में हो, तो जातक सदा बुरे कार्यों पर खर्च करता है। वह अल्पायु होता है, विशेषकर यदि वहाँ कोई पाप ग्रह भी हो।"
+    },
+    {
+      "number": 97,
+      "text": "भाग्येशे लग्नगे जातो भाग्यवान् भूपवन्दितः ।\nसुशीलश्च सुरूपश्च विद्यावान् जनपूजितः",
+      "english_meaning": "If the 9th lord is in the ascendant, the person is fortunate, honored by the king, of good character, handsome, learned, and worshipped by the people.",
+      "hindi_meaning": "यदि नवमेश लग्न में हो, तो जातक भाग्यवान, राजा द्वारा वन्दित (सम्मानित), सुशील, सुन्दर रूप वाला, विद्वान और जनता द्वारा पूजित होता है।"
+    },
+    {
+      "number": 98,
+      "text": "भाग्येशे धनभावस्थे पण्डितो जनवल्लभः ।\nजायते धनवान् कामी स्त्रीपुत्रादिसुखान्वितः",
+      "english_meaning": "If the 9th lord is in the 2nd house, the person is learned, dear to people, becomes wealthy, lustful, and endowed with happiness from wife, sons, etc.",
+      "hindi_meaning": "यदि नवमेश दूसरे भाव में हो, तो जातक पण्डित, जनता का प्रिय, धनवान और कामी होता है। वह स्त्री, पुत्र आदि के सुख से युक्त होता है।"
+    },
+    {
+      "number": 99,
+      "text": "भाग्येशे भ्रातृभावस्थे जातो भ्रातृसुखान्वितः ।\nधनवान् गुणवांश्चापि रूपशीलसमन्वितः",
+      "english_meaning": "If the 9th lord is in the 3rd house, the person is endowed with happiness from brothers, is fortunate, virtuous, handsome, and an enjoyer of all kinds of wealth.",
+      "hindi_meaning": "यदि नवमेश तीसरे भाव में हो, तो जातक भाइयों के सुख से युक्त, भाग्यवान, गुणी, सुन्दर और सब प्रकार के धन का भोग करने वाला होता है।"
+    },
+    {
+      "number": 100,
+      "text": "भाग्येशे तुर्यभावस्थे गृहयानसुखान्वितः ।\nसर्वसम्पत्तियुक्तश्च मातृभक्तो भवेन्नरः",
+      "english_meaning": "If the 9th lord is in the 4th house, the person enjoys happiness from mother, house, and vehicles; he possesses all kinds of wealth, is devoted to his father, and virtuous.",
+      "hindi_meaning": "यदि नवमेश चौथे भाव में हो, तो जातक माता, घर और वाहन के सुख से युक्त होता है। वह सब प्रकार के ऐश्वर्य का स्वामी, पिता का भक्त और गुणी होता है।"
+    },
+    {
+      "number": 101,
+      "text": "भाग्येशे सुतभावस्थे सुतभाग्यसमन्वितः ।\nगुरुभक्तिरतो धीरो धर्मात्मा पण्डितो नरः",
+      "english_meaning": "If the 9th lord is in the 5th house, the person is endowed with happiness from sons and fortune; he is devoted to his preceptors, courageous, religious, and learned.",
+      "hindi_meaning": "यदि नवमेश पांचवें भाव में हो, तो जातक पुत्र-भाग्य से युक्त, गुरुभक्त, धैर्यवान, धर्मात्मा और पण्डित होता है।"
+    },
+    {
+      "number": 102,
+      "text": "भाग्येशे रिपुभावस्थे स्वल्पभाग्यो भवेन्नरः ।\nमातुलादिसुखैर्हीनः शत्रुभिः पीडितः सदा",
+      "english_meaning": "If the 9th lord is in the 6th house, the person has little fortune; he is devoid of happiness from maternal uncles, etc., and is always troubled by enemies.",
+      "hindi_meaning": "यदि नवमेश छठे भाव में हो, तो जातक स्वल्प भाग्य वाला होता है। उसे मामा आदि का सुख नहीं मिलता और वह सदा शत्रुओं से पीड़ित रहता है।"
+    },
+    {
+      "number": 103,
+      "text": "भाग्येशे दारभावस्थे दारयोगात् सुखोदयः ।\nगुणवान् कीर्तिमांश्चापि जायते द्विजसत्तमः",
+      "english_meaning": "If the 9th lord is in the 7th house, fortune rises through the wife; he is virtuous, famous, and the best among the twice-born (Brahmins).",
+      "hindi_meaning": "यदि नवमेश सातवें भाव में हो, तो जातक का भाग्योदय पत्नी के माध्यम से होता है। वह गुणी, कीर्तिवान और ब्राह्मणों में श्रेष्ठ होता है।"
+    },
+    {
+      "number": 104,
+      "text": "भाग्येशे मृत्युभावस्थे भाग्यहीनो नरो भवेत् ।\nज्येष्ठभ्रातृसुखं नैव तस्य जातस्य जायते",
+      "english_meaning": "If the 9th lord is in the 8th house, the person is devoid of fortune; he does not enjoy happiness from his elder brother.",
+      "hindi_meaning": "यदि नवमेश आठवें भाव में हो, तो जातक भाग्यहीन होता है। उसे अपने बड़े भाई का सुख भी प्राप्त नहीं होता।"
+    },
+    {
+      "number": 105,
+      "text": "भाग्येशे भाग्यभावस्थे बहुभाग्यसमन्वितः ।\nगुणसौन्दर्यसम्पन्नो सहजेभ्यः सुखं बहु",
+      "english_meaning": "If the 9th lord is in the 9th house, the person is endowed with great fortune; he is virtuous, handsome, and enjoys much happiness from his brothers.",
+      "hindi_meaning": "यदि नवमेश नौवें भाव में ही हो, तो जातक महाभाग्यशाली होता है। वह गुणी, सुन्दर और भाइयों से बहुत सुख प्राप्त करने वाला होता है।"
+    },
+    {
+      "number": 106,
+      "text": "भाग्येशे कर्मभावस्थे जातो राजाऽथ तत्समः ।\nमन्त्री सेनापतिर्वाऽपि गुणवान् जनपुजितः",
+      "english_meaning": "If the 9th lord is in the 10th house, the person becomes a king or like a king, a minister or an army chief, and is virtuous and worshipped by people.",
+      "hindi_meaning": "यदि नवमेश दसवें भाव में हो, तो जातक राजा या राजा के समान होता है। वह मंत्री या सेनापति भी हो सकता है, वह गुणी और जनता द्वारा पूजित होता है।"
+    },
+    {
+      "number": 107,
+      "text": "भाग्येशे लाभभावस्थे धनलाभो दिने दिने ।\nभक्तो गुरुजनानां च गुणवान् पुण्यवानपि",
+      "english_meaning": "If the 9th lord is in the 11th house, wealth is gained day by day; he is a devotee of his elders, virtuous, and meritorious.",
+      "hindi_meaning": "यदि नवमेश ग्यारहवें भाव में हो, तो जातक को दिन-प्रतिदिन धन का लाभ होता है। वह गुरुजनों का भक्त, गुणी और पुण्यवान होता है।"
+    },
+    {
+      "number": 108,
+      "text": "भाग्येशो व्ययभावस्थो भाग्यहानिकरो नृणाम् ।\nशुभकार्ये व्ययो नित्यं निर्धनोऽतिथिसङ्गमात्",
+      "english_meaning": "If the 9th lord is in the 12th house, it causes loss of fortune; he always spends on good deeds and is poor due to the company of guests.",
+      "hindi_meaning": "यदि नवमेश बारहवें भाव में हो, तो वह भाग्य की हानि करने वाला होता है। जातक शुभ कार्यों पर खर्च करता है और अतिथियों के सत्कार के कारण निर्धन हो सकता है।"
+    },
+    {
+      "number": 109,
+      "text": "कर्मेशे लग्नगे जातो विद्वान् ख्यातो धनी कवीः ।\nबाल्ये रोगी सुखी पश्चाद् धनवृद्धिर्दिने दिने",
+      "english_meaning": "If the 10th lord is in the ascendant, the person is learned, famous, wealthy, and a poet; he may be sickly in childhood but happy later, with wealth increasing day by day.",
+      "hindi_meaning": "यदि दशमेश लग्न में हो, तो जातक विद्वान, प्रसिद्ध, धनी और कवि होता है। बचपन में रोगी हो सकता है परन्तु बाद में सुखी होता है और उसका धन दिन-प्रतिदिन बढ़ता है।"
+    },
+    {
+      "number": 110,
+      "text": "राज्येशे धनभावस्थे धनवान् गुणसंयुतः ।\nराजमान्यो वदान्यश्च पित्रादिसुखसंयुतः",
+      "english_meaning": "If the 10th lord is in the 2nd house, the person is wealthy, virtuous, honored by the king, generous, and endowed with happiness from father, etc.",
+      "hindi_meaning": "यदि दशमेश दूसरे भाव में हो, तो जातक धनवान, गुणी, राजा से सम्मानित, दानी और पिता आदि के सुख से युक्त होता है।"
+    },
+    {
+      "number": 111,
+      "text": "कर्मेशे सहजे जातो भ्रातृभृत्यसुखान्वितः ।\nविक्रमी गुणसम्पन्नः वाग्मी सत्यरतो नरः",
+      "english_meaning": "If the 10th lord is in the 3rd house, the person enjoys happiness from brothers and servants; he is courageous, virtuous, an orator, and a lover of truth.",
+      "hindi_meaning": "यदि दशमेश तीसरे भाव में हो, तो जातक भाइयों और नौकरों के सुख से युक्त होता है। वह पराक्रमी, गुणी, कुशल वक्ता और सत्य बोलने वाला होता है।"
+    },
+    {
+      "number": 112,
+      "text": "कर्मेशे सुखभावस्थे सुखी मातृहिते रतः ।\nयानभूमिगृहाधीशो गुणवान् धनवानपि",
+      "english_meaning": "If the 10th lord is in the 4th house, the person is happy and devoted to his mother's welfare; he is the master of vehicles, lands, and houses, and is virtuous and wealthy.",
+      "hindi_meaning": "यदि दशमेश चौथे भाव में हो, तो जातक सुखी और माता के हित में लगा रहने वाला होता है। वह वाहन, भूमि और घर का स्वामी, गुणी और धनवान होता है।"
+    },
+    {
+      "number": 113,
+      "text": "कर्मेशे सुतभावस्थे सर्वविद्यासमन्वितः ।\nसर्वदा हृर्षसंयुक्तो धनवान् पुत्रवानपि",
+      "english_meaning": "If the 10th lord is in the 5th house, the person is endowed with all kinds of learning; he is always cheerful, wealthy, and endowed with sons.",
+      "hindi_meaning": "यदि दशमेश पांचवें भाव में हो, तो जातक सब प्रकार की विद्याओं से युक्त, सदा प्रसन्न रहने वाला, धनवान और पुत्रवान होता है।"
+    },
+    {
+      "number": 114,
+      "text": "कर्मेशे रिपुभावस्थे पितृसौख्यविवर्जितः ।\nचतुरोऽपि धनैर्हीनः शत्रुभिः परिपीडितः",
+      "english_meaning": "If the 10th lord is in the 6th house, the person is devoid of paternal happiness; though clever, he is devoid of wealth and troubled by enemies.",
+      "hindi_meaning": "यदि दशमेश छठे भाव में हो, तो जातक पिता के सुख से रहित होता है। वह चतुर होकर भी धनहीन और शत्रुओं से पीड़ित रहता है।"
+    },
+    {
+      "number": 115,
+      "text": "राज्येशे दारभावस्थे जातो दारसुखान्वितः ।\nमनस्वी गुणवान् वाग्मी सत्यधर्मरतः सदा",
+      "english_meaning": "If the 10th lord is in the 7th house, the person enjoys happiness from his wife; he is thoughtful, virtuous, an orator, and always devoted to truth and religion.",
+      "hindi_meaning": "यदि दशमेश सातवें भाव में हो, तो जातक पत्नी के सुख से युक्त होता है। वह मनस्वी, गुणी, वक्ता और सदा सत्य व धर्म में लगा रहने वाला होता है।"
+    },
+    {
+      "number": 116,
+      "text": "कर्मेशे रन्ध्रभावस्थे कर्महीनो भवेन्नरः ।\nदीर्घायुरप्यसौ जातः परनिन्दापरायणः",
+      "english_meaning": "If the 10th lord is in the 8th house, the person is devoid of good deeds; even if long-lived, he is devoted to criticizing others.",
+      "hindi_meaning": "यदि दशमेश आठवें भाव में हो, तो जातक कर्महीन (अच्छे काम न करने वाला) होता है। वह दीर्घायु होने पर भी दूसरों की निन्दा करने में लगा रहता है।"
+    },
+    {
+      "number": 117,
+      "text": "राज्येशे भाग्यभे जातो राजा राजकुलोद्भवः ।\nतत्समोऽन्यकुलोत्पन्नो धनपुत्रादिसंयुतः",
+      "english_meaning": "If the 10th lord is in the 9th house, the person is born in a royal family or like a king even if born in another family, and is endowed with wealth, sons, etc.",
+      "hindi_meaning": "यदि दशमेश नौवें भाव में हो, तो जातक राजकुल में उत्पन्न होता है, या अन्य कुल में होकर भी राजा के समान होता है। वह धन, पुत्र आदि से युक्त होता है।"
+    },
+    {
+      "number": 118,
+      "text": "कर्मेशे राज्यभावस्थे सर्वकर्मपटुः सुखी ।\nविक्रमी सत्यवक्ता च गुरुभक्तिरतो नरः",
+      "english_meaning": "If the 10th lord is in the 10th house, the person is skillful in all kinds of works, happy, courageous, a speaker of truth, and devoted to his preceptors.",
+      "hindi_meaning": "यदि दशमेश दसवें भाव में ही हो, तो जातक सब कार्यों में चतुर, सुखी, पराक्रमी, सत्यवक्ता और गुरुभक्त होता है।"
+    },
+    {
+      "number": 119,
+      "text": "राज्येशे लाभभावस्थे जातो धनसुतान्वितः ।\nहर्षवान् गुणवांश्चापि सत्यवक्ता सदा सुखी",
+      "english_meaning": "If the 10th lord is in the 11th house, the person is endowed with wealth and sons; he is cheerful, virtuous, a speaker of truth, and always happy.",
+      "hindi_meaning": "यदि दशमेश ग्यारहवें भाव में हो, तो जातक धन और पुत्र से युक्त होता है। वह प्रसन्न रहने वाला, गुणी, सत्य बोलने वाला और सदा सुखी होता है।"
+    },
+    {
+      "number": 120,
+      "text": "राज्येशे व्ययभावस्थे तस्य राजगृहे व्ययः ।\nशत्रुतोऽपि भयं नित्यं चतुरश्चापि चिन्तितः",
+      "english_meaning": "If the 10th lord is in the 12th house, his wealth is spent in royal courts; he always has fear from enemies and though clever, he remains worried.",
+      "hindi_meaning": "यदि दशमेश बारहवें भाव में हो, तो उसका धन राजदरबार (सरकारी कार्यों) में खर्च होता है। उसे सदा शत्रुओं से भय रहता है और चतुर होकर भी वह चिन्तित रहता है।"
+    },
+    {
+      "number": 121,
+      "text": "लाभेशे लग्नगे जातः सात्त्विको धनवान् सुखी ।\nसमदृष्टिः कविर्वाग्मी सदा लाभसमन्वितः",
+      "english_meaning": "If the 11th lord is in the ascendant, the person is of Sattvic nature, wealthy, happy, has an equal vision for all, is a poet, an orator, and always gainful.",
+      "hindi_meaning": "यदि एकादशेश लग्न में हो, तो जातक सात्त्विक, धनवान, सुखी, सबको समान दृष्टि से देखने वाला, कवि, वक्ता और सदा लाभ प्राप्त करने वाला होता है।"
+    },
+    {
+      "number": 122,
+      "text": "लाभेशे धनभावस्थे जातः सर्वधनान्वितः ।\nसर्वसिद्धियुतो दाता धार्मिकश्च सुखी सदा",
+      "english_meaning": "If the 11th lord is in the 2nd house, the person is endowed with all kinds of wealth; he is successful in all endeavors, a donor, religious, and always happy.",
+      "hindi_meaning": "यदि एकादशेश दूसरे भाव में हो, तो जातक सब प्रकार के धन से युक्त, सब कार्यों में सिद्धि पाने वाला, दानी, धार्मिक और सदा सुखी होता है।"
+    },
+    {
+      "number": 123,
+      "text": "लाभेशे सहजे जातः कुशलः सर्वकर्मसु ।\nधनी भ्रातृसुखोपेतः शूलरोगभयं क्वचित्",
+      "english_meaning": "If the 11th lord is in the 3rd house, the person is skillful in all works; he is wealthy, enjoys happiness from brothers, but sometimes has fear of piercing pains (Shoola Roga).",
+      "hindi_meaning": "यदि एकादशेश तीसरे भाव में हो, तो जातक सब कार्यों में कुशल होता है। वह धनी, भाइयों के सुख से युक्त होता है, परन्तु उसे कभी-कभी शूल रोग (पेट का दर्द आदि) का भय रहता है।"
+    },
+    {
+      "number": 124,
+      "text": "लाभेशे सुखभावस्थे लाभो मातृकुलाद् भवेत् ।\nतीर्थयात्राकरो जातो गृहभूमिसुखान्वितः",
+      "english_meaning": "If the 11th lord is in the 4th house, gain is from the mother's side; the person performs pilgrimages and is endowed with happiness from house and lands.",
+      "hindi_meaning": "यदि एकादशेश चौथे भाव में हो, तो जातक को माता के पक्ष से लाभ होता है। वह तीर्थयात्रा करने वाला और घर व भूमि के सुख से युक्त होता है।"
+    },
+    {
+      "number": 125,
+      "text": "लाभेशे सुतभावस्थे भवन्ति सुखिनः सुताः ।\nविद्यवन्तोऽपि सच्छीलाः स्वयं धर्मरतः सुखी",
+      "english_meaning": "If the 11th lord is in the 5th house, his sons are happy; they are learned and of good character, and he himself is devoted to religion and happy.",
+      "hindi_meaning": "यदि एकादशेश पांचवें भाव में हो, तो जातक के पुत्र सुखी होते हैं। वे विद्वान और सुशील होते हैं, और जातक स्वयं धर्म में लगा रहने वाला व सुखी होता है।"
+    },
+    {
+      "number": 126,
+      "text": "लाभेशे रोगभावस्थे जातो रोगसमन्वितः ।\nक्रूरबुद्धिः प्रवासी च शत्रुभि परिपीडितः",
+      "english_meaning": "If the 11th lord is in the 6th house, the person is sickly, of cruel mind, lives in foreign lands, and is troubled by enemies.",
+      "hindi_meaning": "यदि एकादशेश छठे भाव में हो, तो जातक रोगी, क्रूर बुद्धि वाला, परदेश में रहने वाला और शत्रुओं से पीड़ित रहता है।"
+    },
+    {
+      "number": 127,
+      "text": "लाभेशे दारभावस्थे लाभो दारकुलात् सदा ।\nउदारश्च गुणी कामी जनो भार्यावशानुगः",
+      "english_meaning": "If the 11th lord is in the 7th house, gain is always through the wife's side; the person is generous, virtuous, lustful, and obedient to his wife.",
+      "hindi_meaning": "यदि एकादशेश सातवें भाव में हो, तो जातक को सदा पत्नी के पक्ष से लाभ होता है। वह उदार, गुणी, कामी और पत्नी के वश में रहने वाला होता है।"
+    },
+    {
+      "number": 128,
+      "text": "लाभेशे रन्ध्रभावस्थे हानिः कार्येषु जायते ।\nतस्यायुश्च भवेद्दीर्घं प्रथमं मरणं स्त्रियः",
+      "english_meaning": "If the 11th lord is in the 8th house, there is loss in works; he is long-lived but his wife dies before him.",
+      "hindi_meaning": "यदि एकादशेश आठवें भाव में हो, तो कार्यों में हानि होती है। उसकी आयु दीर्घ होती है परन्तु उसकी पत्नी की मृत्यु उससे पहले हो जाती है।"
+    },
+    {
+      "number": 129,
+      "text": "लभेशे भाग्यभावस्थे भाग्यवान् जायते नरः ।\nचतुरः सत्यवादी च राजपुज्यो धनाधिपः",
+      "english_meaning": "If the 11th lord is in the 9th house, the person becomes fortunate; he is clever, a speaker of truth, honored by the king, and a master of wealth.",
+      "hindi_meaning": "यदि एकादशेश नौवें भाव में हो, तो जातक भाग्यवान होता है। वह चतुर, सत्यवादी, राजा द्वारा पूजित और बहुत धन का स्वामी होता है।"
+    },
+    {
+      "number": 130,
+      "text": "लाभेशे कर्मभावस्थे भूपवन्द्यो गुणान्वितः ।\nनिजधर्मरतो धीमान् सत्यवादी जितेन्द्रियः",
+      "english_meaning": "If the 11th lord is in the 10th house, the person is honored by the king, virtuous, devoted to his religion, intelligent, truthful, and has control over his senses.",
+      "hindi_meaning": "यदि एकादशेश दसवें भाव में हो, तो जातक राजा से सम्मानित, गुणी, अपने धर्म में लगा रहने वाला, बुद्धिमान, सत्यवादी और जितेन्द्रिय होता है।"
+    },
+    {
+      "number": 131,
+      "text": "लाभेशे लाभभावस्थे लाभः सर्वेषु कर्मसु ।\nपण्डित्यं च सुखं तस्य वर्द्धते च दिने दिने",
+      "english_meaning": "If the 11th lord is in the 11th house, there is gain in all kinds of works; his learning and happiness increase day by day.",
+      "hindi_meaning": "यदि एकादशेश ग्यारहवें भाव में ही हो, तो जातक को सब कार्यों में लाभ होता है। उसकी विद्वत्ता और सुख दिन-प्रतिदिन बढ़ते जाते हैं।"
+    },
+    {
+      "number": 132,
+      "text": "लाभेशे व्ययभावस्थे सत्कार्येषु व्ययः सदा ।\nकामुको बहुपत्नीको म्लेच्छसंसर्गकारकः",
+      "english_meaning": "If the 11th lord is in the 12th house, he always spends on good deeds; he is lustful, has many wives, and associates with foreigners (Mlechhas).",
+      "hindi_meaning": "यदि एकादशेश बारहवें भाव में हो, तो वह सदा शुभ कार्यों पर खर्च करता है। वह कामी, अनेक पत्नियों वाला और म्लेच्छों (विदेशियों) से संपर्क रखने वाला होता है।"
+    },
+    {
+      "number": 133,
+      "text": "व्ययेशे लग्नगे जातो व्ययशीलो जतो भवेत् ।\nदुर्बलः कफरोगी च धनविद्याविवर्जितः",
+      "english_meaning": "If the 12th lord is in the ascendant, the person is spendthrift; he is weak, suffers from phlegm (Kapha), and is devoid of wealth and learning.",
+      "hindi_meaning": "यदि द्वादशेश लग्न में हो, तो जातक बहुत खर्च करने वाला होता है। वह दुर्बल शरीर वाला, कफ रोगी और धन व विद्या से रहित होता है।"
+    },
+    {
+      "number": 134,
+      "text": "व्ययेशे धनभावस्थे शुभकार्ये व्ययः सदा ।\nधार्मिकः प्रियवादी च गुणसौख्यसमन्वितः",
+      "english_meaning": "If the 12th lord is in the 2nd house, he always spends on good deeds; he is religious, a pleasant speaker, and endowed with virtues and happiness.",
+      "hindi_meaning": "यदि द्वादशेश दूसरे भाव में हो, तो जातक सदा शुभ कार्यों पर व्यय करता है। वह धार्मिक, प्रिय बोलने वाला और गुणों व सुख से युक्त होता है।"
+    },
+    {
+      "number": 135,
+      "text": "व्ययेशे सहजे जातो भ्रातृसौक्यविवर्जितः ।\nभवेदन्यजनद्वेषी स्वशरीरस्य पोषकः",
+      "english_meaning": "If the 12th lord is in the 3rd house, the person is devoid of happiness from brothers; he is a hater of others and only cares for nourishing his own body.",
+      "hindi_meaning": "यदि द्वादशेश तीसरे भाव में हो, तो जातक को भाइयों का सुख नहीं मिलता। वह दूसरों से द्वेष करने वाला और केवल अपने शरीर के पोषण में लगा रहने वाला होता है।"
+    },
+    {
+      "number": 136,
+      "text": "व्ययेशे सुखभावस्थे मातुः सुखविवर्जितः ।\nभूमियानगृहादीनां हानिस्तस्य दिनेदिने",
+      "english_meaning": "If the 12th lord is in the 4th house, the person is devoid of maternal happiness; his loss of lands, vehicles, and houses increases day by day.",
+      "hindi_meaning": "यदि द्वादशेश चौथे भाव में हो, तो जातक माता के सुख से रहित होता है। उसे भूमि, वाहन और मकान की हानि दिन-प्रतिदिन उठानी पड़ती है।"
+    },
+    {
+      "number": 137,
+      "text": "व्ययेशे सुतभावस्थे सुतविद्याविवर्जितः ।\nपुत्रार्थे च व्ययस्तस्य तीर्थाटनपरो नरः",
+      "english_meaning": "If the 12th lord is in the 5th house, the person is devoid of sons and learning; he spends for the sake of sons and is devoted to wandering in pilgrimages.",
+      "hindi_meaning": "यदि द्वादशेश पांचवें भाव में हो, तो जातक पुत्र और विद्या से रहित होता है। वह पुत्र-प्राप्ति के लिए धन खर्च करता है और तीर्थयात्राओं में भ्रमण करने वाला होता है।"
+    },
+    {
+      "number": 138,
+      "text": "व्ययेशे रिपुभावस्थे जातः स्वजनवैरकृत् ।\nक्रोधी पापी च दुःखी च परजायारतो नरः",
+      "english_meaning": "If the 12th lord is in the 6th house, the person creates enmity with his own people; he is irritable, sinful, unhappy, and devoted to others' wives.",
+      "hindi_meaning": "यदि द्वादशेश छठे भाव में हो, तो जातक अपने ही लोगों से वैर करता है। वह क्रोधी, पापी, दुखी और पर-स्त्रीगामी होता है।"
+    },
+    {
+      "number": 139,
+      "text": "व्ययेशे दारभावस्थे व्ययो दारकृतः सदा ।\nतस्य भार्यासुखं नैव बलविद्याविवर्जितः",
+      "english_meaning": "If the 12th lord is in the 7th house, he always spends for his wife; he does not have happiness from his wife and is devoid of strength and learning.",
+      "hindi_meaning": "यदि द्वादशेश सातवें भाव में हो, तो जातक का व्यय सदा पत्नी के कारण होता है। उसे पत्नी का सुख नहीं मिलता और वह बल व विद्या से रहित होता है।"
+    },
+    {
+      "number": 140,
+      "text": "व्ययेशे मृत्युभावस्थे जातो लाभान्वितः सदा ।\nप्रियवाङ् मध्यमायुश्च सम्पूर्णगुणसंयुतः",
+      "english_meaning": "If the 12th lord is in the 8th house, the person is always endowed with gains; he is a pleasant speaker, has a moderate life span, and is endowed with all virtues.",
+      "hindi_meaning": "यदि द्वादशेश आठवें भाव में हो, तो जातक सदा लाभ प्राप्त करने वाला होता है। वह प्रिय बोलने वाला, मध्यम आयु वाला और सब गुणों से युक्त होता है।"
+    },
+    {
+      "number": 141,
+      "text": "व्ययेशे भाग्यभावस्थे गुरुद्वेषी भवेन्नरः ।\nमित्रैरपि भवेद्वैरं स्वार्थसाधनतत्परः",
+      "english_meaning": "If the 12th lord is in the 9th house, the person is a hater of his preceptors; he has enmity even with his friends and is devoted to serving his own interests.",
+      "hindi_meaning": "यदि द्वादशेश नौवें भाव में हो, तो जातक अपने गुरुओं से द्वेष करने वाला होता है। उसके मित्रों से भी वैर रहता है और वह केवल अपना स्वार्थ सिद्ध करने में लगा रहता है।"
+    },
+    {
+      "number": 142,
+      "text": "व्ययेशे राज्यभावस्थे व्ययो राजकुलाद्भवेत् ।\nपितृतोऽपि सुखं तस्य स्वल्पमेव हि जायते",
+      "english_meaning": "If the 12th lord is in the 10th house, his spending is through the royal family; he enjoys very little happiness from his father.",
+      "hindi_meaning": "यदि द्वादशेश दसवें भाव में हो, तो उसका व्यय राजकुल (सरकार) के माध्यम से होता है। उसे पिता का सुख बहुत कम मिलता है।"
+    },
+    {
+      "number": 143,
+      "text": "व्ययेशे लाभभावस्थे लाभे हानिः प्रजायते ।\nपरेण रक्षितं द्रव्यं कदाचिल्लभते नरः",
+      "english_meaning": "If the 12th lord is in the 11th house, there is loss in gains; the person sometimes gets wealth kept by others.",
+      "hindi_meaning": "यदि द्वादशेश ग्यारहवें भाव में हो, तो लाभ में हानि होती है। जातक को कभी-कभी दूसरों के द्वारा सुरक्षित रखा गया धन प्राप्त होता है।"
+    },
+    {
+      "number": 144,
+      "text": "व्ययेशे व्ययभावस्थे व्ययाधिक्यं हि जायते ।\nन शरीरसुखं तस्य क्रोधी द्वेषपरो नृणाम्",
+      "english_meaning": "If the 12th lord is in the 12th house, there is excess of expenditure; he has no physical happiness and is irritable and a hater of men.",
+      "hindi_meaning": "यदि द्वादशेश बारहवें भाव में ही हो, तो व्यय की अधिकता रहती है। जातक को शारीरिक सुख नहीं मिलता और वह क्रोधी व मनुष्यों से द्वेष करने वाला होता है।"
+    },
+    {
+      "number": 145,
+      "text": "इति ते कथितं विप्र भावेशानां च यत् फलम् ।\nबलाबलविवेकेन सर्वेषं तत्समादिशेत्",
+      "english_meaning": "O Brahmin! Thus I have told you the effects of the lords of the houses. One should predict after considering their strength and weakness.",
+      "hindi_meaning": "हे विप्र! इस प्रकार मैंने तुम्हें भावों के स्वामियों का फल कहा है। उनके बलाबल (शक्ति और निर्बलता) का विचार करके ही सब फलों का आदेश करना चाहिए।"
+    },
+    {
+      "number": 146,
+      "text": "द्विराशीशस्य खेटस्य विदित्वोभयथा फलम् ।\nविरोधे तुल्यफलयोर्द्वयोर्नाशः प्रजायते",
+      "english_meaning": "If a planet is the lord of two signs, its effects should be known in both ways. If the two effects are equal and contradictory, both are destroyed.",
+      "hindi_meaning": "दो राशियों के स्वामी ग्रह का फल दोनों प्रकार से जानना चाहिए। यदि दोनों फल समान और एक-दूसरे के विरोधी हों, तो दोनों का नाश हो जाता है।"
+    },
+    {
+      "number": 147,
+      "text": "विभिन्नयोस्तु फलयोर्द्वयोः प्राप्तिर्भवेद्ध्रुवम् ।\nग्रहे पूर्णबले पुर्णमर्धमर्धबले फलम्",
+      "english_meaning": "If the effects are different, both will certainly be attained. A planet in full strength gives full results, and half in half strength.",
+      "hindi_meaning": "यदि फल भिन्न-भिन्न प्रकार के हों, तो दोनों की प्राप्ति निश्चित रूप से होती है। पूर्ण बली ग्रह अपना पूर्ण फल देता है और आधा बली आधा फल देता है।"
+    },
+    {
+      "number": 148,
+      "text": "पादं हीनबले खेटे ज्ञेयमित्थं बुधैरिति ।\nउक्तं भावस्थितानां ते भावेशानां पलं मया",
+      "english_meaning": "In a weak planet, a quarter result should be known by the wise. Thus the effects of the lords situated in the houses have been told by me.",
+      "hindi_meaning": "निर्बल ग्रह में चौथा हिस्सा (पाद) फल जानना चाहिए, ऐसा विद्वानों का मत है। इस प्रकार भावों में स्थित भावेशों का फल मैंने तुम्हें बता दिया है।"
+    }
+  ]
+}

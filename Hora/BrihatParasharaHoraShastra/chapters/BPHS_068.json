@@ -1,0 +1,48 @@
+{
+  "source_file": "BPHS6170.md",
+  "source_chunk": "BPHS6170.json",
+  "chunk_index": 10,
+  "chapter": 68,
+  "variant": null,
+  "title": "अथैकाधिपत्यशोधनाध्यायः",
+  "shloka_count": 6,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "पूर्वं त्रिकोणं संशोध्य राशीनां स्थापयेत् फलम् ।\nपृथक् पृथक् ततः कुर्यादेकाधिपतिशोधनम्",
+      "english_meaning": "After Trikona Shodhana, one should perform Ekadhipatya Shodhana (reduction for planets owning two signs).",
+      "hindi_meaning": "त्रिकोण शोधन के बाद, एकाधिपत्य शोधन (दो राशियों के स्वामी ग्रहों के लिए शोधन) करना चाहिए।"
+    },
+    {
+      "number": 2,
+      "text": "क्षेत्रद्वये फलनि स्युस्तदा संशोधयेद् यथा ।\nक्षीणेन सह चान्यस्मिन् शुधयेद् ग्रहवर्जिते",
+      "english_meaning": "The Sun and Moon own only one sign each, so they do not participate in this reduction.",
+      "hindi_meaning": "सूर्य और चन्द्रमा की केवल एक-एक राशि होती है, इसलिए वे इस शोधन में भाग नहीं लेते हैं।"
+    },
+    {
+      "number": 3,
+      "text": "उभयोर्ग्रहसंयोगे न संशोध्यः कदाचन् ।\nग्रहयुक्ते फलैर्हीने ग्रहाभावे फलाधिके",
+      "english_meaning": "Mars, Mercury, Jupiter, Venus, and Saturn own two signs each. Reduction is performed if planets are not occupying those signs.",
+      "hindi_meaning": "मंगल, बुध, गुरु, शुक्र और शनि प्रत्येक दो-दो राशियों के स्वामी हैं। यदि ग्रह उन राशियों में स्थित नहीं हैं, तो शोधन किया जाता।"
+    },
+    {
+      "number": 4,
+      "text": "ऊनेन सममन्यस्मिन् शोधयेद् ग्रहवर्जिते ।\nफलाधिके ग्रहैर्युक्ते चान्यस्मिन् सर्वमुत्सृजेत्",
+      "english_meaning": "If both signs of a planet have Bindus after Trikona Shodhana, various rules apply based on planetary occupation.",
+      "hindi_meaning": "यदि त्रिकोण शोधन के बाद किसी ग्रह की दोनों राशियों में बिन्दु हैं, तो ग्रह की उपस्थिति के आधार पर विभिन्न नियम लागू होते हैं।"
+    },
+    {
+      "number": 5,
+      "text": "उभयत्र ग्रहभावे समत्वे सकलं त्यजेत् ।\nसग्रहाग्रहयोस्तुल्ये सर्वं संशोध्यमग्रहे",
+      "english_meaning": "If one sign is occupied and the other is not, the reduction is done specifically for the unoccupied sign.",
+      "hindi_meaning": "यदि एक राशि भरी हुई है और दूसरी नहीं, तो शोधन विशेष रूप से खाली राशि के लिए किया जाता है।"
+    },
+    {
+      "number": 6,
+      "text": "कुलीरसिंहयो राश्योः पृथक् क्षेत्रं पृथक् फलम् ।\nसंशोध्यैकाधिपत्यं हि ततः पिण्डं प्रसाधयेत्",
+      "english_meaning": "The final reduced Bindus after Ekadhipatya Shodhana are used for further calculations of longevity and wealth.",
+      "hindi_meaning": "एकाधिपत्य शोधन के बाद अन्तिम संशोधित बिन्दुओं का उपयोग दीर्घायु और धन की गणना के लिए किया जाता है।"
+    }
+  ]
+}

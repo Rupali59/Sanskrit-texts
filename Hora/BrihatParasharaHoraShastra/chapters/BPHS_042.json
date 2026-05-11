@@ -1,0 +1,120 @@
+{
+  "source_file": "BPHS4145.md",
+  "source_chunk": "BPHS4145.json",
+  "chunk_index": 1,
+  "chapter": 42,
+  "variant": null,
+  "title": "अथ दारिद्र्ययोगाध्यायः",
+  "shloka_count": 18,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "बहवो धनदा योगा श्रुतास्त्वत्तो मया मुने ।\nदरिद्रजन्मदान् योगान् कृपया कथय प्रभो",
+      "english_meaning": "O Muni, I have heard many wealth-giving yogas from you. Now please tell me the yogas that cause one to be born in poverty.",
+      "hindi_meaning": "हे मुने! मैंने आपसे बहुत से धन देने वाले योग सुने। अब हे प्रभु! कृपा करके दरिद्र जन्म देने वाले योगों को कहिये।"
+    },
+    {
+      "number": 2,
+      "text": "लग्नेशे च व्ययस्थाने व्ययेशे लग्नमागते ।\nमारकेशयुते दृष्टे निर्धनो जायते नरः",
+      "english_meaning": "If Lagna lord is in the 12th house, and 12th lord is in Lagna, associated with or aspected by a Maraka (killer) lord: one is born poor.",
+      "hindi_meaning": "यदि लग्नेश 12वें भाव में हो और 12वें का स्वामी लग्न में हो, तथा मारकेश से युक्त या दृष्ट हो, तो वह मनुष्य निर्धन होता है।"
+    },
+    {
+      "number": 3,
+      "text": "लग्नेशे षष्ठभावस्थे षष्ठेशे लग्नमागते ।\nमारकेशेन युग्दृष्टे धनहीनः प्रजायते",
+      "english_meaning": "If Lagna lord is in the 6th house, and 6th lord is in Lagna, associated with or aspected by a Maraka lord: one is born without wealth.",
+      "hindi_meaning": "यदि लग्नेश 6ठें भाव में हो और 6ठें का स्वामी लग्न में हो, तथा मारकेश से युक्त या दृष्ट हो, तो वह जातक धनहीन होता है।"
+    },
+    {
+      "number": 4,
+      "text": "लग्नेन्दू केतुसंयुक्तौ लग्नपे निधनं गते ।\nमारकेशयुते दृष्टे जातो वै निर्धनो भवेत्",
+      "english_meaning": "If Lagna and Moon are associated with Ketu, and Lagna lord is in the 8th house, associated with or aspected by a Maraka lord: one becomes poor.",
+      "hindi_meaning": "यदि लग्न और चन्द्रमा केतु से युक्त हों और लग्नेश 8वें भाव में हो, तथा मारकेश से युक्त या दृष्ट हो, तो वह निर्धन होता है।"
+    },
+    {
+      "number": 5,
+      "text": "षष्ठाष्टमव्ययगते लग्नपे पापसंयुते ।\nधनेशे रिपुभे नीचे राजवंश्योऽपि निर्धनः",
+      "english_meaning": "If Lagna lord is in 6, 8, or 12, associated with a malefic, and 2nd lord is in 6th or debilitated: even one born in a royal family becomes poor.",
+      "hindi_meaning": "यदि लग्नेश 6, 8 या 12 भाव में पाप ग्रह के साथ हो, और धनेश (2रे का स्वामी) 6ठें भाव में या नीच का हो, तो राजकुल में उत्पन्न होने पर भी वह निर्धन होता है।"
+    },
+    {
+      "number": 6,
+      "text": "त्रिकेशेन समायुक्ते पापदृष्टे विलग्नपे ।\nशनियुक्तेऽधवा सौम्यैरदृष्टे निर्धनो नरः",
+      "english_meaning": "If Lagna lord is associated with lords of 6, 8, or 12, aspected by malefics, or associated with Saturn and not aspected by benefics: one is poor.",
+      "hindi_meaning": "यदि लग्नेश त्रिकेश (6,8,12 के स्वामियों) से युक्त और पाप ग्रहों से दृष्ट हो, अथवा शनि से युक्त हो और शुभ ग्रहों से दृष्ट न हो, तो वह निर्धन होता है।"
+    },
+    {
+      "number": 7,
+      "text": "मन्त्रेशो धर्मनाथश्च क्रमात् षष्ठव्ययस्थितौ ।\nदृष्टौ चेन्मारकेशेन निर्धनो जायते नरः",
+      "english_meaning": "If lords of 5th and 9th are in 6th and 12th houses respectively, and aspected by Maraka lords: one becomes poor.",
+      "hindi_meaning": "यदि पंचमेश और नवमेश क्रमशः 6ठें और 12वें भाव में हों, और मारकेश से दृष्ट हों, तो वह मनुष्य निर्धन होता है।"
+    },
+    {
+      "number": 8,
+      "text": "पापग्रहे लग्नगते राज्यधर्माधिपौ विना ।\nमारकेशयुते दृष्टे जातः स्यन्निर्धनो भवेत्",
+      "english_meaning": "If a malefic is in Lagna (unless it is lord of 9 or 10), associated with or aspected by Maraka lords: one becomes poor.",
+      "hindi_meaning": "यदि लग्न में पाप ग्रह हो (नवमेश और दशमेश को छोड़कर) और वह मारकेश से युक्त या दृष्ट हो, तो जातक निर्धन होता है।"
+    },
+    {
+      "number": 9,
+      "text": "त्रिकेशा यत्र भावस्था तद्भावेशास्त्रिकस्थिताः ।\nपापदृष्टयुत बालो दुःखाक्रान्तश्च निर्धनः",
+      "english_meaning": "If lords of 6, 8, or 12 occupy any house, and its lord is in 6, 8, or 12, aspected or associated with malefics: child is poor and sorrowful.",
+      "hindi_meaning": "त्रिकेश (6,8,12 के स्वामी) जिस भाव में हों और उस भाव का स्वामी त्रिक (6,8,12) में हो, तथा पाप ग्रहों से युक्त या दृष्ट हो, तो जातक दुःखी और निर्धन होता है।"
+    },
+    {
+      "number": 10,
+      "text": "चन्द्राक्रान्तनवंशेशो मारकेशयुतो यदि ।\nमारकस्थानगो वाऽपि जातोऽत्र निर्धनो नरः",
+      "english_meaning": "If the lord of the Navamsha occupied by Moon is associated with a Maraka lord or placed in a Maraka house: one is poor.",
+      "hindi_meaning": "चन्द्रमा जिस नवांश में हो, उसका स्वामी यदि मारकेश के साथ हो या मारक स्थान (2,7) में हो, तो वह मनुष्य निर्धन होता है।"
+    },
+    {
+      "number": 11,
+      "text": "लग्नेशलग्नभागेशौ रिश्फरन्ध्रारिगौ यदि ।\nमारकेशयुतौ दृष्टौ जातोऽसौ निर्धनो नरः",
+      "english_meaning": "If Lagna lord and Navamsha lord of Lagna are in 12, 8, or 6, associated with or aspected by Maraka lords: one is poor.",
+      "hindi_meaning": "यदि लग्नेश और लग्नांश का स्वामी 12, 8 या 6 भाव में हों, और मारकेश से युक्त या दृष्ट हों, तो वह मनुष्य निर्धन होता है।"
+    },
+    {
+      "number": 12,
+      "text": "शुभस्थानगताः पापाः पापस्थानगताः शुभाः ।\nनिर्धनो जायते बालो भोजनेन प्रपीडितः",
+      "english_meaning": "If malefics are in benefic houses and benefics are in malefic houses: the child is poor and suffers for food.",
+      "hindi_meaning": "यदि पाप ग्रह शुभ स्थानों में हों और शुभ ग्रह पाप स्थानों में हों, तो जातक निर्धन और भोजन के लिए कष्ट पाने वाला होता है।"
+    },
+    {
+      "number": 13,
+      "text": "कोणेशदृष्टिहीना ये त्रिकेशैः संयुता ग्रहाः ।\nते सर्वे स्वदशाकाले धनहानिकराः स्मृताः",
+      "english_meaning": "Planets associated with lords of 6, 8, or 12 and not aspected by lords of Trikonas (5, 9) cause loss of wealth in their dashas.",
+      "hindi_meaning": "जो ग्रह त्रिकेशों (6,8,12 के स्वामियों) से युक्त हों और त्रिकोणेशों (5,9 के स्वामियों) से दृष्ट न हों, वे अपनी दशा काल में धन की हानि करते हैं।"
+    },
+    {
+      "number": 14,
+      "text": "कारकाद् वा विलग्नाद् वा रन्ध्रेरिष्फे द्विजोत्तम ।\nकारकाङ्गपयोदृष्ट्या धनहीनः प्रजायते",
+      "english_meaning": "From Lagna or Atmakaraka (AK), if malefics are in 8th and 12th houses, aspected by Lagna lord or AK lord: one is born without wealth.",
+      "hindi_meaning": "जन्म लग्न या आत्मकारक से 8वें और 12वें भाव में यदि पाप ग्रह हों और वे लग्नेश या आत्मकारक के स्वामी से दृष्ट हों, तो जातक धनहीन होता है।"
+    },
+    {
+      "number": 15,
+      "text": "कारकेशो व्ययं स्वस्मात् लग्नेशो लग्नतो व्ययम् ।\nवीक्षते चेत् तदा बालो व्ययशीलो भवेद्ध्रुवम्",
+      "english_meaning": "If AK lord aspects 12th house from AK, or Lagna lord aspects 12th from Lagna: the child is definitely spendthrift.",
+      "hindi_meaning": "यदि आत्मकारक का स्वामी आत्मकारक से 12वें भाव को देखे, या लग्नेश लग्न से 12वें को देखे, तो वह बालक निश्चित ही खर्चीला होता है।"
+    },
+    {
+      "number": 16,
+      "text": "अथ दारिद्र्ययोगांस्त् कथयामि सभङ्गकान् ।\nधनसंस्थौ तु भौमार्की कथितौ धननाशकौ",
+      "english_meaning": "Now I speak of Daridrya yogas with their cancellations. Mars and Saturn in the 2nd house cause wealth loss.",
+      "hindi_meaning": "अब मैं भंग (काट) सहित दरिद्र योगों को कहता हूँ। दूसरे भाव में मंगल और शनि धन का नाश करने वाले कहे गए हैं।"
+    },
+    {
+      "number": 17,
+      "text": "बुधेक्षितौ महावित्तं कुरुतो नात्र संशयः ।\nनिःस्वतां कुरुते तत्र रविर्नित्यं यमेक्षितः",
+      "english_meaning": "If aspected by Mercury, they give great wealth without doubt. Sun in the 2nd usually makes one poor if aspected by Saturn.",
+      "hindi_meaning": "यदि वे बुध से दृष्ट हों तो निःसन्देह बहुत धन देते हैं। दूसरे भाव में सूर्य होने पर यदि शनि उसे देखे, तो वह नित्य निर्धनता करता है।"
+    },
+    {
+      "number": 18,
+      "text": "महाधनयुतं ख्यातं शन्यदृष्टः करोत्यसौ ।\nशनिश्चापि रवेर्दृष्ट्या फलमेवं प्रयच्छति",
+      "english_meaning": "If not aspected by Saturn, Sun in 2nd gives great wealth and fame. Saturn similarly gives wealth if aspected by Sun.",
+      "hindi_meaning": "यदि शनि उसे न देखे, तो वह (सूर्य) बहुत धन और ख्याति देता है। शनि भी सूर्य की दृष्टि होने पर ऐसा ही फल देता है।"
+    }
+  ]
+}

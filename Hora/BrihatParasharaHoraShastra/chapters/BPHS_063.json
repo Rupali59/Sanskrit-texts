@@ -1,0 +1,510 @@
+{
+  "source_file": "BPHS6170.md",
+  "source_chunk": "BPHS6170.json",
+  "chunk_index": 3,
+  "chapter": 63,
+  "variant": null,
+  "title": "अथ प्राणदशाफलाध्यायः",
+  "shloka_count": 83,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "पृथक् खगदशावर्षैर्हन्यात् सूक्ष्मदशामितिम् ।\nखसूर्यैर्विभजेल्लिब्धर्ज्ञेय प्राणदशामितिः",
+      "english_meaning": "Calculation of Prana Dasa: Multiply the Sookshma period by the Dasa years and divide by 120 to determine the Prana Dasa period.",
+      "hindi_meaning": "प्राण दशा की गणना: सूक्ष्मान्तर्दशा अवधि को दशा वर्षों से गुणा करें और प्राण दशा अवधि निर्धारित करने के लिए 120 से विभाजित करें।"
+    },
+    {
+      "number": 2,
+      "text": "प्ॐश्चल्यं विषजा बाधा चौराग्निनृपजं भयम् ।\nकष्टं सूक्ष्मदशाकाले रवौ प्राणदशां गते",
+      "english_meaning": "Sun's Prana in Sun's Sookshma: Unstable behavior, trouble from poison, and fear from thieves, fire, and the king.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: अस्थिर आचरण, विष से कष्ट, और चोर, अग्नि एवं राजा से भय।"
+    },
+    {
+      "number": 3,
+      "text": "सुखं भोजनसम्पत्तिः संस्कारो नृपवैभवम् ।\nउदारादिकृपाभिश्च रवेः प्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Sun's Sookshma: Happiness, abundance of food, cultural refinements, and royal splendor through the grace of the Sun.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: सुख, भोजन की प्रचुरता, संस्कार और सूर्य की कृपा से राजसी वैभव।"
+    },
+    {
+      "number": 4,
+      "text": "भूपोपद्रवमन्यार्थे द्रव्यनाशो महद्भयम् ।\nमहत्यपचयप्राप्ती रवेः प्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Sun's Sookshma: Trouble from authorities, loss of wealth in others' business, and a period of great decline.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: अधिकारियों से परेशानी, दूसरों के कार्यों में धन की हानि, और भारी गिरावट का समय।"
+    },
+    {
+      "number": 5,
+      "text": "अन्नोद्भवा महापीडा विषोत्पत्तिर्विशेषतः ।\nअर्थाग्निराजभिः क्लेशो रवेः प्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Sun's Sookshma: Severe pain from food, sudden poisoning, and distress caused by wealth, fire, or the king.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: भोजन से भारी पीड़ा, अचानक विषाक्तता, और धन, अग्नि या राजा द्वारा उत्पन्न क्लेश।"
+    },
+    {
+      "number": 6,
+      "text": "नानाविद्यार्थसम्पत्तिः कार्यलाभो गतागतैः ।\nनृपविप्राश्रमे सूक्ष्मे रवेः प्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Sun's Sookshma: Acquisition of wealth, growth in knowledge, and success in virtuous or administrative tasks.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: धन की प्राप्ति, विद्या में वृद्धि और पुण्य या प्रशासनिक कार्यों में सफलता।"
+    },
+    {
+      "number": 7,
+      "text": "बन्धनं प्राणनाशश्च चित्तोद्वेगस्तथैव च ।\nबहुबाधा महाहानी रवेः प्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Sun's Sookshma: Extreme physical lethargy, obstacles in all immediate tasks, and fear of falling or accidents.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: अत्यधिक शारीरिक आलस्य, सभी तात्कालिक कार्यों में बाधाएँ, और गिरने या दुर्घटना का भय।"
+    },
+    {
+      "number": 8,
+      "text": "राजान्नभोगः सततं राजलाञ्छानतत्पदम् ।\nआत्मा सन्तर्पयेदीवं रवेः प्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Sun's Sookshma: Quick intellectual gains, success in short-term trade, and acquisition of fine articles.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: त्वरित बौद्धिक लाभ, अल्पकालिक व्यापार में सफलता, और सुन्दर वस्तुओं की प्राप्ति।"
+    },
+    {
+      "number": 9,
+      "text": "अन्योऽन्यं कलहश्चैव वसुहानिः पराजयः ।\nगुरुस्त्रीबन्धुविर्गैश्च सूर्यप्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Sun's Sookshma: Sudden mental anxiety, detachment from surroundings, and fear from hidden enemies or sudden changes.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: अचानक मानसिक चिन्ता, परिवेश से विरक्ति और गुप्त शत्रुओं या अचानक परिवर्तनों से भय।"
+    },
+    {
+      "number": 10,
+      "text": "राजपूजा धनाधिक्यं स्त्रीपुत्रादिभवं सुखम् ।\nअन्नपानादिभोगादि सूर्यप्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Sun's Sookshma: Success in social gatherings, happiness from women, and acquisition of momentary pleasures.",
+      "hindi_meaning": "सूर्य की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: सामाजिक सभाओं में सफलता, स्त्रियों से सुख और क्षणिक सुखों की प्राप्ति।"
+    },
+    {
+      "number": 11,
+      "text": "स्त्रीपुत्रादिसुखं द्रव्यं लभते नूतनाम्बरम् ।\nयोगसिद्धिं समाधिञ्च निजप्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Moon's Sookshma: Highest mental peace, gain through white substances, and profound emotional satisfaction.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: उच्चतम मानसिक शान्ति, सफेद पदार्थों के माध्यम से लाभ और गहरा भावनात्मक सन्तोष।"
+    },
+    {
+      "number": 12,
+      "text": "क्षयं कुष्ठं बन्धुनाशं रक्तस्रावान्महद्भयम् ।\nभूतावेशादि जायते विधोः प्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Moon's Sookshma: Emotional outbursts, sudden disputes with relatives, and risk of inflammatory issues.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: भावनात्मक विस्फोट, रिश्तेदारों के साथ अचानक विवाद और सूजन सम्बन्धी समस्याओं का जोखिम।"
+    },
+    {
+      "number": 13,
+      "text": "सर्पभीतिविशेषाण भूतोपद्रवान् सदा ।\nदृष्टिक्षोभो मतिभ्रंशो विधोः प्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Moon's Sookshma: Nightmares, fear of the unknown, and trouble from deceptive communication or false rumors.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: बुरे सपने, अज्ञात का भय और भ्रामक संचार या झूठी अफवाहों से परेशानी।"
+    },
+    {
+      "number": 14,
+      "text": "धर्मवृद्धिः क्षमाप्राप्तिर्देवब्राह्मणपूजनम् ।\nसौभाग्यं प्रियदृष्टिश्च चन्द्रप्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Moon's Sookshma: Wisdom guides the emotions. Gain of knowledge and happiness through spiritual insights.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: विवेक भावनाओं का मार्गदर्शन करता है। आध्यात्मिक अन्तर्दृष्टि के माध्यम से ज्ञान और सुख का लाभ।"
+    },
+    {
+      "number": 15,
+      "text": "सहसा देहपतनं शत्रूपद्रववेदना ।\nअन्धत्वं च धनप्राप्तिश्चन्द्रप्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Moon's Sookshma: Emotional coldness, delays in personal plans, and physical weakness.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: भावनात्मक शीतलता, व्यक्तिगत योजनाओं में विलम्ब और शारीरिक दुर्बलता।"
+    },
+    {
+      "number": 16,
+      "text": "चामरच्छत्रसम्प्राप्ती राज्यलाभो नृपात्ततः ।\nसमत्वं सर्वभूतेषु चन्द्रप्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Moon's Sookshma: Clear expression of feelings, success in creative writing, and happiness from children.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: भावनाओं की स्पष्ट अभिव्यक्ति, रचनात्मक लेखन में सफलता और बच्चों से सुख।"
+    },
+    {
+      "number": 17,
+      "text": "शस्त्राग्निरिपुजा पीडा विषाग्निः कुक्षिरोगता ।\nपुत्रदारवियोगश्च चन्द्रप्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Moon's Sookshma: Sudden detachment from family ties, spiritual silence, and intuitive dreams.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: पारिवारिक बन्धनों से अचानक विरक्ति, आध्यात्मिक मौन और सहज सपने।"
+    },
+    {
+      "number": 18,
+      "text": "पुत्रमित्रकलत्राप्तिविदेशाच्च धनागमः ।\nसुखसम्पत्तिरर्थश्च चन्द्रप्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Moon's Sookshma: Success in romance, gain of beautiful clothes, and enjoyment of fine cuisine.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: प्रेम में सफलता, सुन्दर वस्त्रों का लाभ और बेहतरीन व्यंजनों का आनन्द।"
+    },
+    {
+      "number": 19,
+      "text": "क्रूरता कोपवृद्धिश्च प्राणहानिर्मनोव्यथा ।\nदेशत्यागो महाभीतिश्चन्द्रप्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Moon's Sookshma: Vitality and emotional strength. Recognition from elders and success in public tasks.",
+      "hindi_meaning": "चन्द्रमा की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: जीवन शक्ति और भावनात्मक शक्ति। बड़ों से मान्यता और सार्वजनिक कार्यों में सफलता।"
+    },
+    {
+      "number": 20,
+      "text": "कलहो रिपुभिर्बन्धः रक्तपित्तादिरोगभीः ।\nनिजसूक्ष्मदशामध्ये कुज प्राणगते फलम्",
+      "english_meaning": "Mars's Prana in Mars's Sookshma: Peak physical energy, success in competitive or technical tasks, but risk of minor burns.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: चरम शारीरिक ऊर्जा, प्रतिस्पर्धी या तकनीकी कार्यों में सफलता, किन्तु मामूली जलने का जोखिम।"
+    },
+    {
+      "number": 21,
+      "text": "विच्युतः सुतदारैश्च बन्धूपद्रवपीडितः ।\nप्राणत्यागो विषेणैव भौमप्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Mars's Sookshma: Violent thoughts, sudden technical failures, and risk of accidents involving sharp tools.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: हिंसक विचार, अचानक तकनीकी विफलताएँ और तेज उपकरणों से जुड़ी दुर्घटनाओं का जोखिम।"
+    },
+    {
+      "number": 22,
+      "text": "देवार्चनपरः स्र्/ईमान्मन्तानुष्ठानतत्परः ।\nपुत्रपौत्रसुखावाप्तिर्भौमप्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Mars's Sookshma: Successful implementation of strategies, gain of authority, and protection from enemies.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: रणनीतियों का सफल क्रियान्वयन, अधिकार का लाभ और शत्रुओं से सुरक्षा।"
+    },
+    {
+      "number": 23,
+      "text": "अग्निबाधा भवेन्मृत्युरर्थनाशः पदच्युतिः ।\nबन्धुभिबन्धुतावाप्तिर्भौमप्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Mars's Sookshma: Slow progress in technical tasks, physical injuries at work, and delays in construction.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: तकनीकी कार्यों में धीमी प्रगति, काम पर शारीरिक चोटें और निर्माण में विलम्ब।"
+    },
+    {
+      "number": 24,
+      "text": "दिव्याम्बरसमुत्पत्तिर्दिव्याभरणभूषितः ।\nदिव्याङ्गनायाः सम्प्राप्तिर्भौमप्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Mars's Sookshma: Clever solving of engineering problems, success in debates, and gain of technical equipment.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: इंजीनियरिंग समस्याओं का चतुर समाधान, बहसों में सफलता और तकनीकी उपकरणों का लाभ।"
+    },
+    {
+      "number": 25,
+      "text": "पतनोत्पातिपीडा च नेत्रक्षोभो महद्भयम् ।\nभुजङ्गाद् द्रव्यहानिश्च भौमप्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Mars's Sookshma: Sudden injuries, interest in spiritual protection, and fear from sharp objects or surgery.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: अचानक चोटें, आध्यात्मिक सुरक्षा में रुचि और तेज वस्तुओं या शल्य क्रिया से भय।"
+    },
+    {
+      "number": 26,
+      "text": "धनधान्यादिसम्पत्तिर्लोकपूजा सुखागमा ।\nनानाभोगैर्भवेद्भोगी भौमप्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Mars's Sookshma: Intense physical passion, gain of vehicles, and success in glamorous or high-energy tasks.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: तीव्र शारीरिक जुनून, वाहनों का लाभ और ग्लैमरस या उच्च ऊर्जा वाले कार्यों में सफलता।"
+    },
+    {
+      "number": 27,
+      "text": "ज्वरोन्मादः क्षयोऽर्थस्य राजविस्नेहसम्भवः ।\nदीर्घरोगी दरिद्रः स्याद्भौमप्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Mars's Sookshma: High vitality, recognition for courage, and success in military or security roles.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: उच्च जीवन शक्ति, साहस के लिए मान्यता और सैन्य या सुरक्षा भूमिकाओं में सफलता।"
+    },
+    {
+      "number": 28,
+      "text": "भोजनादिसुखप्राप्तिर्वस्त्राभरणजं सुखम् ।\nशीतोष्णव्याधिपीडा च भौमप्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Mars's Sookshma: Emotional drive for action, gain through properties involving liquids, and maternal support.",
+      "hindi_meaning": "मंगल की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: कार्य के लिए भावनात्मक प्रेरणा, तरल पदार्थों से जुड़ी सम्पत्तियों के माध्यम से लाभ और मातृ सहयोग।"
+    },
+    {
+      "number": 29,
+      "text": "अन्नाशने विरक्तश्च विषभीतिस्तथैव च ।\nसाहसाद्धननाशश्च राहौ प्राणगते भवेत्",
+      "english_meaning": "Rahu's Prana in Rahu's Sookshma: Intense confusion, fear of unknown entities, and sudden technical or social breakdowns.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: तीव्र भ्रम, अज्ञात सत्ताओं का भय और अचानक तकनीकी या सामाजिक विफलता।"
+    },
+    {
+      "number": 30,
+      "text": "अङ्गसौख्यं विनिर्भीतिर्वाहनादेश्च सङ्गता ।\nनीचिः कलहसम्प्राप्ती राहोः प्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Rahu's Sookshma: Wisdom provides a brief window of clarity during confusion. Gain through unexpected advice.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: विवेक भ्रम के दौरान स्पष्टता की एक संक्षिप्त खिड़की प्रदान करता है। अप्रत्याशित सलाह के माध्यम से लाभ।"
+    },
+    {
+      "number": 31,
+      "text": "गृहदाहः शरीरे रुङ् नीचैरपहृत धनम् ।\nतथा बन्धनसम्प्राप्ती राहोः प्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Rahu's Sookshma: Extreme delays, fear of chronic issues surfacing, and trouble from subordinates.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: अत्यधिक विलम्ब, पुरानी समस्याओं के उभरने का डर और अधीनस्थों से परेशानी।"
+    },
+    {
+      "number": 32,
+      "text": "गुरूपदेशविभवो गुरुसत्कारवर्द्धनम् ।\nगुणवाञ्छीलवांश्चापि राहोः प्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Rahu's Sookshma: Success in digital communication, gain from new technologies, and clever handling of rumors.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: डिजिटल संचार में सफलता, नई तकनीकों से लाभ और अफवाहों का चतुर समाधान।"
+    },
+    {
+      "number": 33,
+      "text": "स्त्रीपुत्रादिविरोधश्च गृहान्निष्क्रमणादपि ।\nसाहसात्कायहानिश्च राहोः प्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Rahu's Sookshma: Sudden spiritual crises, feeling of isolation, and detachment from worldly successes.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: अचानक आध्यात्मिक संकट, अलगाव की भावना और सांसारिक सफलताओं से विरक्ति।"
+    },
+    {
+      "number": 34,
+      "text": "छत्रवाहनसम्पत्तिः सर्वार्थफलसञ्चयः ।\nशिवार्चनगृहारम्भो राहोः प्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Rahu's Sookshma: Momentary pleasures, success in photography or cinema, and gain through unconventional items.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: क्षणिक सुख, फोटोग्राफी या सिनेमा में सफलता और अपरम्परागत वस्तुओं के माध्यम से लाभ।"
+    },
+    {
+      "number": 35,
+      "text": "अर्शादिरोगभीतिश्च राज्योपद्रवसम्भवः ।\nचतुष्पादादिहानिश्च राहोः प्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Rahu's Sookshma: Clash with authority figures, sudden rise in momentary status, and eye irritation.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: अधिकारिक व्यक्तियों के साथ टकराव, क्षणिक पद में अचानक वृद्धि और आँखों में जलन।"
+    },
+    {
+      "number": 36,
+      "text": "सौमनस्यं च सद्बुद्धिः सत्कारो गुरुदर्शनम् ।\nपापाद्भीतिर्मनःसौख्यं राहोः प्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Rahu's Sookshma: Fear of the dark, emotional instability, and success in investigative tasks.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: अँधेरे का डर, भावनात्मक अस्थिरता और खोजी कार्यों में सफलता।"
+    },
+    {
+      "number": 37,
+      "text": "चाण्डालाग्निवशाद्भीतिः स्वपदच्युतिरापदः ।\nमलिनः श्वादिवृत्तिश्च राहोः प्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Rahu's Sookshma: Sudden aggression, danger from accidents involving tools, and risk of inflammatory diseases.",
+      "hindi_meaning": "राहु की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: अचानक आक्रामकता, उपकरणों से जुड़ी दुर्घटनाओं का खतरा और सूजन सम्बन्धी रोगों का जोखिम।"
+    },
+    {
+      "number": 38,
+      "text": "हर्षागमो धनाधिक्यमग्निहोत्रं शिवार्चनम् ।\nवाहनं छत्रसंयुक्तं निज प्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Jupiter's Sookshma: Highest level of momentary wisdom, gain of wealth, and happiness from family elders.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: क्षणिक विवेक का उच्चतम स्तर, धन का लाभ और परिवार के बुजुर्गों से सुख।"
+    },
+    {
+      "number": 39,
+      "text": "व्रतहानिर्विषादश्च विदेशे धननाशनम् ।\nविरोधो बन्धुवर्गैश्च गुरोः प्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Jupiter's Sookshma: Discipline in studies, success in traditional tasks, and steady progress in short-term goals.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: अध्ययन में अनुशासन, पारम्परिक कार्यों में सफलता और अल्पकालिक लक्ष्यों में स्थिर प्रगति।"
+    },
+    {
+      "number": 40,
+      "text": "विद्याबुद्धिविवृद्धिश्च लोके पूजा धनागमः ।\nस्त्रीपुत्रादिसुखप्राप्तिर्गुरोः प्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Jupiter's Sookshma: Intellectual clarity, success in counseling or teaching, and gain through books or writing.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: बौद्धिक स्पष्टता, परामर्श या अध्यापन में सफलता और पुस्तकों या लेखन के माध्यम से लाभ।"
+    },
+    {
+      "number": 41,
+      "text": "ज्ञानं विभवपाण्डित्यं शास्त्रज्ञानं शिवार्चनम् ।\nअग्निहोत्रं गुरोर्भक्तिर्गुरोः प्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Jupiter's Sookshma: Sudden spiritual insights, interest in meditation, and detachment from material results.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: अचानक आध्यात्मिक अन्तर्दृष्टि, ध्यान में रुचि और भौतिक परिणामों से विरक्ति।"
+    },
+    {
+      "number": 42,
+      "text": "रोगान्मुक्तिः सुखं भोगो धनधान्यसमागमः ।\nपुत्रदारादिजं सौख्यं गुरोः प्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Jupiter's Sookshma: Success in artistic endeavors, happiness from luxury, and gain of fine objects.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: कलात्मक प्रयासों में सफलता, विलासिता से सुख और सुन्दर वस्तुओं का लाभ।"
+    },
+    {
+      "number": 43,
+      "text": "वातपित्तप्रकोपं च श्लेष्मोद्रेकं तु दारुणम् ।\nरसव्याधिकृतं शूलं गुरोः प्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Jupiter's Sookshma: Momentary recognition from authorities, boost in reputation, and physical energy.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: अधिकारियों से क्षणिक मान्यता, प्रतिष्ठा में वृद्धि और शारीरिक ऊर्जा।"
+    },
+    {
+      "number": 44,
+      "text": "छत्रचामरसंयुक्तं वैभवं पुत्रसम्पदः ।\nनेत्रकुक्षिगता पीडा गुरोः प्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Jupiter's Sookshma: High level of mental clarity, maternal happiness, and gains through white objects.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: मानसिक स्पष्टता का उच्च स्तर, मातृ सुख और सफेद वस्तुओं के माध्यम से लाभ।"
+    },
+    {
+      "number": 45,
+      "text": "स्त्रीजनाच्च विषोत्पत्तिर्बन्धनं चातिनिग्रहः ।\nदेशान्तरगमो भ्रान्तिर्गुरोः प्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Jupiter's Sookshma: Success in adventurous projects, gain of property, and dynamic energy.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: साहसिक परियोजनाओं में सफलता, सम्पत्ति का लाभ और गतिशील ऊर्जा।"
+    },
+    {
+      "number": 46,
+      "text": "व्याधिभिः परिभूतः स्याच्चौरैरपहृतं धनम् ।\nसर्पवृश्चिकभीतिश्च गुरोः प्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Jupiter's Sookshma: Sudden travel, success through new technologies, and unexpected gains.",
+      "hindi_meaning": "गुरु की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: अचानक यात्रा, नई तकनीकों के माध्यम से सफलता और अचानक लाभ।"
+    },
+    {
+      "number": 47,
+      "text": "ज्वरेण ज्वलिता कान्तिः कुष्ठरोगोदरादिरुक् ।\nजलाग्निकृतमृत्युः स्यान्निजप्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Saturn's Sookshma: Heavy labor, delays, and focus on long-term goals. Physical fatigue.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: भारी श्रम, विलम्ब और दीर्घकालिक लक्ष्यों पर ध्यान। शारीरिक थकान।"
+    },
+    {
+      "number": 48,
+      "text": "धनं धान्यं च माङ्गल्यं व्यवहाराभिपूजनम् ।\nदेवब्राह्मणभक्तिश्च शनेः प्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Saturn's Sookshma: Practical intelligence, success in commerce despite obstacles, and gain of useful tools.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: व्यावहारिक बुद्धि, बाधाओं के बावजूद व्यापार में सफलता और उपयोगी उपकरणों का लाभ।"
+    },
+    {
+      "number": 49,
+      "text": "मृत्युवेदनदुःखं च भूतोपद्रवसम्भवः ।\nपरदाराभिभूतत्वं शनेः प्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Saturn's Sookshma: Intense introspection, spiritual detachment, and fear from hidden enemies.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: गहन आत्मनिरीक्षण, आध्यात्मिक विरक्ति और गुप्त शत्रुओं से भय।"
+    },
+    {
+      "number": 50,
+      "text": "पुत्रार्थविभवैः सौख्यं क्षितिपालादितः सुखम् ।\nअग्निहोत्रं विवाहश्च शनेः प्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Saturn's Sookshma: Stability in family life, gain through traditional crafts, and moderate success.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: पारिवारिक जीवन में स्थिरता, पारम्परिक शिल्पों के माध्यम से लाभ और मध्यम सफलता।"
+    },
+    {
+      "number": 51,
+      "text": "अक्षिपीडा शिरोव्याधिः सर्पशत्रुभयं भवेत् ।\nअर्थहानिर्महाक्लेशः शनेः प्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Saturn's Sookshma: Clash of authority with traditional structures. Physical pain and slow recovery.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: पारम्परिक संरचनाओं के साथ अधिकार का टकराव। शारीरिक पीड़ा और धीमी रिकवरी।"
+    },
+    {
+      "number": 52,
+      "text": "आरोग्यं पुत्रलाभश्च शान्तिपौष्टिकवर्धनम् ।\nदेवब्राह्मणभक्तिश्च शनेः प्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Saturn's Sookshma: Mental strength despite hardships, gain through old friends, and maternal care.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: कष्टों के बावजूद मानसिक शक्ति, पुराने मित्रों के माध्यम से लाभ और मातृ देखभाल।"
+    },
+    {
+      "number": 53,
+      "text": "गुल्मरोगः शत्रुभीतिर्मृगया प्राननाशनम् ।\nसर्पाग्निविषतो भीतिः शनेः प्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Saturn's Sookshma: Technical breakdowns, risk of injuries at work, and disputes with seniors.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: तकनीकी खराबी, काम पर चोट लगने का जोखिम और वरिष्ठों के साथ विवाद।"
+    },
+    {
+      "number": 54,
+      "text": "देशत्यागो नृपाद्भीतिर्मोहनं विषभक्षणम् ।\nवातपित्तकृता पीडा शनेः प्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Saturn's Sookshma: Confusion in long-term plans, fear from low-caste people, and sudden delays.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: दीर्घकालिक योजनाओं में भ्रम, नीच लोगों से भय और अचानक विलम्ब।"
+    },
+    {
+      "number": 55,
+      "text": "सेनापत्यं भूमिलाभः संगमः स्वजनैः सह ।\nगौरवं नृपसम्मानं शनेः प्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Saturn's Sookshma: Stability returns through wisdom and patience. Gain of ancestral properties.",
+      "hindi_meaning": "शनि की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: बुद्धि और धैर्य के माध्यम से स्थिरता वापस आती है। पैतृक सम्पत्ति का लाभ।"
+    },
+    {
+      "number": 56,
+      "text": "आरोग्यं सुखसम्पत्तिर्धर्मकर्मादिसाधनम् ।\nसमत्वं सर्वभुतेषु निजप्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Mercury's Sookshma: Sharpest intellect, success in all intellectual and commercial pursuits.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: प्रखरतम बुद्धि, सभी बौद्धिक और व्यावसायिक प्रयासों में सफलता।"
+    },
+    {
+      "number": 57,
+      "text": "वह्नितस्करतो भीतिः परमाधिर्विषोद्भवः ।\nदेहान्तकरणं दुःखं बुधप्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Mercury's Sookshma: Spiritual insights through communication, travel to religious places, and detachment.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: संचार के माध्यम से आध्यात्मिक अन्तर्दृष्टि, धार्मिक स्थानों की यात्रा और विरक्ति।"
+    },
+    {
+      "number": 58,
+      "text": "प्रभुत्वं धनसम्पत्तिः कीर्तिर्धर्मः शिवार्चनम् ।\nपुत्रदारादिकं सौख्यं बुधप्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Mercury's Sookshma: Artistic success, happiness from social circles, and gain of luxury items.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: कलात्मक सफलता, सामाजिक हलकों से सुख और विलासिता की वस्तुओं की प्राप्ति।"
+    },
+    {
+      "number": 59,
+      "text": "अन्तर्दाहो ज्वरोन्मादौ बान्धवानां रति स्त्रियाः ।\nप्राप्यते स्तीयसम्पत्तिर्बुधप्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Mercury's Sookshma: Recognition from intellectuals and government. Success in writing and teaching.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: बुद्धिजीवियों और सरकार से मान्यता। लेखन और अध्यापन में सफलता।"
+    },
+    {
+      "number": 60,
+      "text": "स्त्रीलाभश्चार्थसम्पत्तिः कन्यालाभो धनागमः ।\nलभते सर्वतः सौख्यं बुधप्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Mercury's Sookshma: Pleasant communication, gain through traveling, and mental satisfaction.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: सुखद संचार, यात्रा के माध्यम से लाभ और मानसिक सन्तोष।"
+    },
+    {
+      "number": 61,
+      "text": "पतितः कुक्षिरोगी च दन्तनेत्रादिजा व्यथा ।\nअर्शांसि प्राणसन्देहो बुधप्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Mercury's Sookshma: Argumentative nature, success in technical debates, and gain of scientific knowledge.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: तर्कपूर्ण स्वभाव, तकनीकी बहसों में सफलता और वैज्ञानिक ज्ञान का लाभ।"
+    },
+    {
+      "number": 62,
+      "text": "वस्त्राभरणसम्पत्तिर्वियोगो विप्रवैरिता ।\nसन्निपातोद्भवं दुखं बुधप्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Mercury's Sookshma: Success in digital or foreign communications, but risk of deceptive information.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: डिजिटल या विदेशी संचार में सफलता, किन्तु भ्रामक सूचनाओं का जोखिम।"
+    },
+    {
+      "number": 63,
+      "text": "गुरुत्वं धनसम्पत्तिर्विद्या सद्गुणसंग्रहः ।\nव्यवसायेन सल्लाभो बुधप्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Mercury's Sookshma: Harmonious blend of wisdom and intelligence. Success in counseling and law.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: बुद्धि और विवेक का सामंजस्यपूर्ण मिश्रण। परामर्श और कानून में सफलता।"
+    },
+    {
+      "number": 64,
+      "text": "चौर्येण निधनप्राप्तिर्विधनत्वं दरिद्रता ।\nयाचकत्वं विशेषेण बुधप्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Mercury's Sookshma: Discipline in studies or business, success through meticulous efforts.",
+      "hindi_meaning": "बुध की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: अध्ययन या व्यवसाय में अनुशासन, सूक्ष्म प्रयासों के माध्यम से सफलता।"
+    },
+    {
+      "number": 65,
+      "text": "अश्वपातेन घातश्च शत्रुतः कलहागमः ।\nनिर्विचारवधोत्पत्तिर्निजप्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Ketu's Sookshma: Sudden spiritual awakening, isolation, and detachment from material results.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: अचानक आध्यात्मिक जागृति, अलगाव और भौतिक परिणामों से विरक्ति।"
+    },
+    {
+      "number": 66,
+      "text": "क्षेत्रलाभो वैरिनाशो हयलाभो मनःसुखम् ।\nपशुक्षेत्रधनाप्तिश्च केतोः प्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Ketu's Sookshma: Creative detachment, gain through mysterious arts, and success in spiritual love.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: रचनात्मक विरक्ति, रहस्यमयी कलाओं के माध्यम से लाभ और आध्यात्मिक प्रेम में सफलता।"
+    },
+    {
+      "number": 67,
+      "text": "स्तेयाग्निरिपुभीतिश्च धनहानिर्मनोव्यथा ।\nप्राणान्तकरणं कष्टं केतोः प्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Ketu's Sookshma: Spiritual authority, clash with egos, and physical discomfort during meditation.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: आध्यात्मिक अधिकार, अहंकार का टकराव और ध्यान के दौरान शारीरिक असुविधा।"
+    },
+    {
+      "number": 68,
+      "text": "देवद्विजगुरोः पूजा दीर्घयात्रा धनं सुखम् ।\nकर्णे वा लोचने रोगः केतोः प्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Ketu's Sookshma: Inner peace through silence, gain of intuitive knowledge, and maternal detachment.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: मौन के माध्यम से आन्तरिक शान्ति, सहज ज्ञान की प्राप्ति और मातृ विरक्ति।"
+    },
+    {
+      "number": 69,
+      "text": "पित्तरोगो नसावृद्धिर्विभ्रमः सन्निपातजः ।\nस्वबन्धुजनविद्वेषः केतोः प्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Ketu's Sookshma: Intense inner conflicts, spiritual warfare, and success in yogic disciplines.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: तीव्र आन्तरिक संघर्ष, आध्यात्मिक युद्ध और योग साधना में सफलता।"
+    },
+    {
+      "number": 70,
+      "text": "विरोधः स्त्रीसुताद्यैश्च गृहान्निष्क्रमणं भवेत् ।\nस्वसाहसात्कार्यहानिः केतोः प्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Ketu's Sookshma: Confusion regarding spiritual path, fear of unknown forces, and sudden breakthroughs.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: आध्यात्मिक पथ के बारे में भ्रम, अज्ञात शक्तियों का भय और अचानक सफलता।"
+    },
+    {
+      "number": 71,
+      "text": "स/स्त्रव्रणैर्महारोगो हृत्पीडादिसमुद्भवः ।\nसुतदारवियोगश्च केतोः प्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Ketu's Sookshma: Divine guidance, success in mantra siddhi, and gain of spiritual wisdom.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: दिव्य मार्गदर्शन, मन्त्र सिद्धि में सफलता और आध्यात्मिक ज्ञान का लाभ।"
+    },
+    {
+      "number": 72,
+      "text": "मतिविभ्रमतीक्ष्णत्वं क्रूरकर्मरतिः सदा ।\nव्यवसनाद्बन्धनं दुःखं केतोः प्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Ketu's Sookshma: Endurance through spiritual testing, gain through old knowledge, and detachment.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: आध्यात्मिक परीक्षण के दौरान धीरज, पुराने ज्ञान के माध्यम से लाभ और विरक्ति।"
+    },
+    {
+      "number": 73,
+      "text": "कुसुमं शयनं भूषा लेपनं भोजनादिकम् ।\nसौख्यं सर्वाङ्गभोग्यं च केतोः प्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Ketu's Sookshma: Intellectualizing spiritual concepts, success in occult studies, and mental agility.",
+      "hindi_meaning": "केतु की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: आध्यात्मिक अवधारणाओं का बौद्धिकीकरण, गुप्त अध्ययनों में सफलता और मानसिक चपलता।"
+    },
+    {
+      "number": 74,
+      "text": "ज्ञानमीश्वरभक्तिश्च सन्तोषश्च धनागमः ।\nपुत्रपौत्रसमृद्धिश्च निजप्राणगते भृगौ",
+      "english_meaning": "Venus's Prana in Venus's Sookshma: Peak of luxury, artistic expression, and happiness from all aesthetic sources.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में शुक्र की प्राण दशा: विलासिता का शिखर, कलात्मक अभिव्यक्ति और सभी सौन्दर्यपूर्ण स्रोतों से सुख।"
+    },
+    {
+      "number": 75,
+      "text": "लोकप्रकाशकीर्तिश्च सुतसौख्यविवर्जितः ।\nउष्णादिरोगजं दुखं शुक्रप्राणगते रवौ",
+      "english_meaning": "Sun's Prana in Venus's Sookshma: Recognition for creative works, social boost, and physical charm.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: रचनात्मक कार्यों के लिए मान्यता, सामाजिक उन्नति और शारीरिक आकर्षण।"
+    },
+    {
+      "number": 76,
+      "text": "देवार्चने कर्मरतिर्मन्त्रतोषणतत्परः ।\nधनसौभाग्यसम्पत्तिः शुक्रप्राणगते विधौ",
+      "english_meaning": "Moon's Prana in Venus's Sookshma: Deep emotional fulfillment, gain of luxury white items, and family harmony.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: गहरी भावनात्मक पूर्ति, विलासितापूर्ण सफेद वस्तुओं का लाभ और पारिवारिक सद्भाव।"
+    },
+    {
+      "number": 77,
+      "text": "ज्वरो मसूरिकास्फोटकण्डूचिपिटकादिकाः ।\nदेवब्राह्मणपूजा च शुक्रप्राणगते कुजे",
+      "english_meaning": "Mars's Prana in Venus's Sookshma: Passionate pursuits, gain of stylish vehicles, and dynamic social life.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: उत्साही खोज, स्टाइलिश वाहनों का लाभ और गतिशील सामाजिक जीवन।"
+    },
+    {
+      "number": 78,
+      "text": "नित्यं शत्रुकृता पीडा नेत्रकुक्षिरुजादयः ।\nविरोधः सुहृदां पीडा शुक्रप्राणगतेऽप्यहौ",
+      "english_meaning": "Rahu's Prana in Venus's Sookshma: Success in foreign lifestyle, gain through glamour industry, and unexpected luxuries.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: विदेशी जीवनशैली में सफलता, ग्लैमर उद्योग के माध्यम से लाभ और अप्रत्याशित विलासिता।"
+    },
+    {
+      "number": 79,
+      "text": "आयुरारोग्यमैश्वर्यं पुत्रस्त्रीधनवैभवम् ।\nछत्रवाहनसम्प्राप्तिः शुक्रप्राणगते गुरौ",
+      "english_meaning": "Jupiter's Prana in Venus's Sookshma: Success in traditional education, gain of wealth through counseling, and legal victories.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: पारम्परिक शिक्षा में सफलता, परामर्श के माध्यम से धन का लाभ और कानूनी विजय।"
+    },
+    {
+      "number": 80,
+      "text": "राजोपद्रवजा भीतिः सुखहानिर्महारुजः ।\nनीचैः सह विवादश्च भृगोः प्राणगते शनौ",
+      "english_meaning": "Saturn's Prana in Venus's Sookshma: Disciplined approach to luxury, success through persistent creative effort.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में शनि की प्राण दशा: विलासिता के प्रति अनुशासित दृष्टिकोण, निरन्तर रचनात्मक प्रयास के माध्यम से सफलता।"
+    },
+    {
+      "number": 81,
+      "text": "सन्तोषो राजसम्मानं नानादिग्भूमिसम्पदः ।\nनित्यमुत्साहव्र्द्धिः स्याच्छुक्रप्राणगते बुधे",
+      "english_meaning": "Mercury's Prana in Venus's Sookshma: Clever artistic marketing, success in design, and gain of valuable information.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में बुध की प्राण दशा: चतुर कलात्मक विपणन, डिजाइन में सफलता और मूल्यवान सूचना की प्राप्ति।"
+    },
+    {
+      "number": 82,
+      "text": "जीवितात्मयशोहानिर्धनधान्यपरिक्षयः ।\nत्यागभोगधनानि स्युः शुक्रप्राणगते ध्वजे",
+      "english_meaning": "Ketu's Prana in Venus's Sookshma: Detached enjoyment of luxury, spiritual art, and sudden spiritual realizations during pleasure.",
+      "hindi_meaning": "शुक्र की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: विलासिता का अनासक्त आनन्द, आध्यात्मिक कला और आनन्द के दौरान अचानक आध्यात्मिक बोध।"
+    },
+    {
+      "number": 83,
+      "text": "एवमृक्षदशानां हि सान्तरागां मया द्विज ।\nफलानि कथितान्यत्र संक्षेपादेव तेऽग्रतः",
+      "english_meaning": "Final summary of Prana Dasa effects: The fleeting nature of results reflects the subtle play of karmas.",
+      "hindi_meaning": "प्राण दशा प्रभावों का अन्तिम सारांश: फलों की क्षणभंगुर प्रकृति कर्मों के सूक्ष्म खेल को दर्शाती है।"
+    }
+  ]
+}

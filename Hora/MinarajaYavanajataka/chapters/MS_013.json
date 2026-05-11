@@ -1,0 +1,438 @@
+{
+  "number": "13",
+  "title": "गुरुदर्शनचारध्यायः",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "मेषं गतो देवगुरुः प्रसूते\nसूर्येण दृष्टः पशुपुत्रहीनम् ।\nनरं भयार्तं घृणया विहीनं\nविवर्जितं सत्यसुखेन नित्यम्",
+      "english_meaning": "Jupiter in Aries aspected by Sun: Makes one devoid of cattle and sons, afflicted by fear, devoid of compassion/hatred (depending on context, usually meaning heartless), and always devoid of truth and happiness.",
+      "hindi_meaning": "मेष राशि में सूर्य से दृष्ट गुरु: जातक को पशुओं और पुत्रों से हीन, भयभीत, घृणा (दया) से रहित और सदैव सत्य व सुख से वर्जित बनाता है।"
+    },
+    {
+      "number": 2,
+      "text": "जीवोऽजसंस्थः शशिना च दृष्टः\nकरोति सात्यान्वितमिष्टधर्मम् ।\nनरं प्रगल्-भं बहुशास्त्ररक्तं\nनृपप्रसादैः साहितं सदैव",
+      "english_meaning": "Jupiter in Aries aspected by Moon: Makes one endowed with truth, following desired religion, bold/resolute, attached to many scriptures, and always favored by the king.",
+      "hindi_meaning": "मेष राशि में चन्द्रमा से दृष्ट गुरु: जातक को सत्यनिष्ठ, अभीष्ट धर्म का पालन करने वाला, प्रगल्भ (निपुण), अनेक शास्त्रों में प्रेम रखने वाला और सदैव राजा की कृपा पाने वाला बनाता है।"
+    },
+    {
+      "number": 3,
+      "text": "मेषं गतो देवगुरुः प्रसूते\nभौमेन दृष्टो बहुशोकयुक्तम् ।\nनरं धनैर्वर्जितमिष्टपापं\nपाषण्डिनां भक्तमनल्पदुःखम्",
+      "english_meaning": "Jupiter in Aries aspected by Mars: Makes one full of much sorrow, devoid of wealth, prone to sins, a follower of heretics (Pakhandis), and having immense grief.",
+      "hindi_meaning": "मेष राशि में मंगल से दृष्ट गुरु: जातक को बहुत शोक युक्त, धन से हीन, पाप कर्मों में रुचि रखने वाला, पाखण्डियों का भक्त और अपार दुखी बनाता है।"
+    },
+    {
+      "number": 4,
+      "text": "सौम्येण दृष्टोऽजगतः सुरेज्यो\nनरं प्रसूते सुतदारसौख्यैः ।\nसमृद्धिमन्तं गतशोकमोहं\nहितं स्ववर्गे घृणया समेतम्",
+      "english_meaning": "Jupiter in Aries aspected by Mercury: Makes one endowed with the happiness of sons and wife, prosperous, free from sorrow and delusion, beneficial to one's group, and compassionate.",
+      "hindi_meaning": "मेष राशि में बुध से दृष्ट गुरु: जातक को पुत्र व स्त्री के सुख से युक्त, समृद्धिशाली, शोक और मोह से रहित, अपने वर्ग का हितैषी और दयालु बनाता है।"
+    },
+    {
+      "number": 5,
+      "text": "शुक्रेण दृष्टः प्रकरोति जीवो\nमेषाश्रित पुण्यधनैर्विहीनम् ।\nप्रणष्टदारं गतबन्धुवर्गं\nप्रणष्टमेधावनिनाथचौरैः",
+      "english_meaning": "Jupiter in Aries aspected by Venus: Makes one devoid of religious merit and wealth, having lost his wife, separated from relatives, and having his intelligence destroyed by kings or thieves.",
+      "hindi_meaning": "मेष राशि में शुक्र से दृष्ट गुरु: जातक को पुण्य व धन से हीन, नष्ट स्त्री (पत्नी वियोगी) वाला, बन्धु-वर्ग से रहित और राजा या चोरों द्वारा नष्ट बुद्धि वाला बनाता है।"
+    },
+    {
+      "number": 6,
+      "text": "मेषाश्रितो देवगुरुर्विधत्ते\nसौरेण दृष्टो बहुधान्ययुक्तम् ।\nविक्षाधनं पुत्रयुतं कृशाङ्गं\nस्त्रीलंपदं पानरतं नरं च",
+      "english_meaning": "Jupiter in Aries aspected by Saturn: Makes one endowed with much grain/food, [wealthy through alms], having sons, lean-bodied, lustful after women, and fond of drinking.",
+      "hindi_meaning": "मेष राशि में शनि से दृष्ट गुरु: जातक को बहुत धान्य युक्त, [भिक्षा से धन प्राप्त करने वाला], पुत्रवान, दुर्बल शरीर वाला, स्त्री-लम्पट और मद्यपान में रत बनाता है।"
+    },
+    {
+      "number": 7,
+      "text": "वृषाश्रितो देवगुरुः प्रसूते\nसूर्येण दृष्टो विधनं मनुष्यम् ।\nक्रियाविहीनं कुजनानुरक्तं\nकुमित्रभाजं कुधनाकुलं च",
+      "english_meaning": "Jupiter in Taurus aspected by Sun: Makes one devoid of wealth, devoid of proper actions (religious/social rites), attached to bad people, having bad friends, and troubled by ill-gotten wealth.",
+      "hindi_meaning": "वृष राशि में सूर्य से दृष्ट गुरु: जातक को धनहीन, कर्महीन, दुष्ट लोगों में आसक्त, कुमित्रों वाला और कुत्सित धन से व्याकुल बनाता है।"
+    },
+    {
+      "number": 8,
+      "text": "वृषाश्रितो देवगुरुः प्रसूते\nचन्द्रेण दृष्टः सुरकर्मदक्षम् ।\nनरं नयचं सुधनेन युक्तं\nविवर्जितं रोगपरं सदैव",
+      "english_meaning": "Jupiter in Taurus aspected by Moon: Makes one expert in divine works/rituals, knowing ethics, endowed with good wealth, and always devoid of diseases.",
+      "hindi_meaning": "वृष राशि में चन्द्रमा से दृष्ट गुरु: जातक को देव-कार्यों में दक्ष, नीतिज्ञ, उत्तम धन से युक्त और सदैव रोगों से रहित बनाता है।"
+    },
+    {
+      "number": 9,
+      "text": "भौमेन दृष्टो सुरेज्यः\nकरोति भीतं कृपणं मनुष्यम् ।\nबहुप्रमादं नियमैर्विहीनं\nसदा भृतं ज्ञातिविवर्जितं च",
+      "english_meaning": "Jupiter in Taurus aspected by Mars: Makes one fearful, miserly, very negligent, devoid of rules/disciplines, always a servant/dependent, and separated from kinsmen.",
+      "hindi_meaning": "वृष राशि में मंगल से दृष्ट गुरु: जातक को भयभीत, कृपण (कंजूस), बहुत प्रमादी, नियमों से रहित, सदैव भृत्य (नौकर) और स्वजनों से रहित बनाता है।"
+    },
+    {
+      "number": 10,
+      "text": "बुधेन दृष्टो वृषगः सुरेज्यः\nकरोति मर्त्यं सुतसौख्यशुक्तम् ।\nविभासमेतं नियमप्रसक्तं\nनितान्तमुन्कृष्टधनैः समेतम्",
+      "english_meaning": "Jupiter in Taurus aspected by Mercury: Makes one endowed with the happiness of sons, having splendor, attached to rules/vows, and endowed with extremely excellent wealth.",
+      "hindi_meaning": "वृष राशि में बुध से दृष्ट गुरु: जातक को पुत्र-सुख से युक्त, कान्तिवान, नियमों में लगा रहने वाला और अत्यन्त श्रेष्ठ धन से सम्पन्न बनाता है।"
+    },
+    {
+      "number": 11,
+      "text": "शुक्रेण दृष्टो वृषगः सुरेज्यः\nकरोति मर्त्यं व्रतसंयतं च ।\nमहाधनं दानरतं प्रस्..........\nविवेकिनं प्राणभृतां वरिष्टम्",
+      "english_meaning": "Jupiter in Taurus aspected by Venus: Makes one restrained by vows, very wealthy, fond of giving gifts, [famous/splendid], wise, and best among living beings.",
+      "hindi_meaning": "वृष राशि में शुक्र से दृष्ट गुरु: जातक को व्रतों से संयमित, महाधनी, दानवीर, [प्रसिद्ध/यशस्वी], विवेकी और प्राणियों में श्रेष्ठ बनाता है।"
+    },
+    {
+      "number": 12,
+      "text": "सौरेण दृष्टो वृषगः सुरेज्यः\nकरोति दीनं विधतं मनुष्यम् ।\nव्यपेतलज्जं धृतिसत्यवर्जं\nनिसर्गदुष्टं प्रियमाध्वसम्",
+      "english_meaning": "Jupiter in Taurus aspected by Saturn: Makes one poor/miserable, [unwealthy], devoid of shame, devoid of courage and truth, naturally wicked, and [fond of traveling/fearing?].",
+      "hindi_meaning": "वृष राशि में शनि से दृष्ट गुरु: जातक को दीन, [निर्धन], निर्लज्ज, धैर्य व सत्य से रहित, स्वभाव से दुष्ट और [भयभीत रहने वाला/भ्रमणशील?] बनाता है।"
+    },
+    {
+      "number": 13,
+      "text": "नृयुग्मसंस्थः प्रकरोति जीवः\nसूर्येण दृष्टः प्रणयेन हीनम् ।\nविवर्जितं शौचदयाभिमानैः\nसम्पीडितं दुर्गतिमेव नित्यम्",
+      "english_meaning": "Jupiter in Gemini aspected by Sun: Makes one devoid of affection/love, devoid of purity, compassion, and pride (positive self-respect), and always afflicted by misfortune.",
+      "hindi_meaning": "मिथुन राशि में सूर्य से दृष्ट गुरु: जातक को स्नेह से हीन, पवित्रता, दया और अभिमान से रहित और सदैव दुर्गति से पीड़ित बनाता है।"
+    },
+    {
+      "number": 14,
+      "text": "चन्द्रेण दृष्टो मिथुने सुरेज्यः\nकरोति विद्याविनयेन युक्तम् ।\nनरं प्रसिद्धं प्रचुरान्नपानं\nविहीनदोषं सुरभक्तिचिन्तम्",
+      "english_meaning": "Jupiter in Gemini aspected by Moon: Makes one endowed with knowledge and humility, famous, having plenty of food and drinks, free from defects, and devoted to gods.",
+      "hindi_meaning": "मिथुन राशि में चन्द्रमा से दृष्ट गुरु: जातक को विद्या और विनय से युक्त, प्रसिद्ध, प्रचुर अन्न-पान वाला, दोषरहित और देव-भक्ति में लीन बनाता है।"
+    },
+    {
+      "number": 15,
+      "text": "भौमेन दृष्टो मिथुने सुरेज्यः\nकरोति मर्त्यं व्यथितं नृशंसम् ।\nरोगावृतं पुण्ययशोविहीनं\nगतप्रभं हानियुतं सदैव",
+      "english_meaning": "Jupiter in Gemini aspected by Mars: Makes one troubled, cruel, surrounded by diseases, devoid of religious merit and fame, devoid of splendor, and always suffering losses.",
+      "hindi_meaning": "मिथुन राशि में मंगल से दृष्ट गुरु: जातक को व्यथित, क्रूर, रोगों से घिरा हुआ, पुण्य व यश से हीन, कान्तिहीन और सदैव हानि उठाने वाला बनाता है।"
+    },
+    {
+      "number": 16,
+      "text": "बुधेन दृष्टो मिथुने सुरेज्यः\nकरोति मर्त्यं बहुबुद्धिभाजम् ।\nविप्रानुरक्तं प्रणतं विहीन\nसत्याधिकं पूजितमेव भूपैः",
+      "english_meaning": "Jupiter in Gemini aspected by Mercury: Makes one highly intelligent, attached to Brahmins, humble, [devoid of pride/vices], truthful, and honored by kings.",
+      "hindi_meaning": "मिथुन राशि में बुध से दृष्ट गुरु: जातक को बहुत बुद्धिमान, ब्राह्मणों का अनुरागी, विनम्र, [दोषरहित], परम सत्यवादी और राजाओं द्वारा पूजित बनाता है।"
+    },
+    {
+      "number": 17,
+      "text": "शुक्रेण दृष्टो मिथुने सुरेज्यः\nकरोति नानाविधवित्तयुक्तम् ।\nनरं नितांतं बहुशीलयुक्तं\nगुणानुरक्तं पृथुमेव लोके",
+      "english_meaning": "Jupiter in Gemini aspected by Venus: Makes one endowed with various types of wealth, very well-behaved (Shila), attached to virtues, and great/broad-minded in the world.",
+      "hindi_meaning": "मिथुन राशि में शुक्र से दृष्ट गुरु: जातक को अनेक प्रकार के धन से युक्त, अत्यन्त सुशील, गुणों का प्रेमी और लोक में महान बनाता है।"
+    },
+    {
+      "number": 18,
+      "text": "सौरेण दृष्टः प्रकरोति जीवो\nदुःखेन युक्तं व्यसनाभिभूतम् ।\nदयाविहीनं पतितानुरक्तं\nविहीनवर्णं ज्वरपित्तभाजम्",
+      "english_meaning": "Jupiter in Gemini aspected by Saturn: Makes one full of sorrow, overwhelmed by vices, devoid of compassion, attached to fallen people, devoid of healthy complexion, and suffering from fever and bile.",
+      "hindi_meaning": "मिथुन राशि में शनि से दृष्ट गुरु: जातक को दुख युक्त, व्यसनों से अभिभूत, दयाहीन, पतित लोगों में आसक्त, वर्णहीन और ज्वर व पित्त रोगों का भागी बनाता है।"
+    },
+    {
+      "number": 19,
+      "text": "सुरेज्यमन्त्री रविणा च दृष्टः\nकर्काश्रितस्तीप्रकरं मनुष्यम् ।\nविमुक्तलज्जं विनयेन हीनं\nसदातुरं बान्धववर्जितं च",
+      "english_meaning": "Jupiter in Cancer aspected by Sun: Makes one very harsh/severe, devoid of shame and humility, always sick/distressed, and separated from relatives.",
+      "hindi_meaning": "कर्क राशि में सूर्य से दृष्ट गुरु: जातक को अत्यन्त कठोर, लज्जाहीन, विनय रहित, सदैव रोगी (आतुर) और बन्धुओं से वर्जित बनाता है।"
+    },
+    {
+      "number": 20,
+      "text": "चन्द्रेण दृष्टः खलु कर्कसंस्थः\nकरोति जीवो विभवं मनुष्यम् ।\nमनोश्चदेहं सुरविद्विभक्तं\nकृपापरं साधुसमन्वितं च",
+      "english_meaning": "Jupiter in Cancer aspected by Moon: Makes one powerful/wealthy (Vibhava), having a beautiful body, devoted to gods and Brahmins, very compassionate, and accompanied by good people.",
+      "hindi_meaning": "कर्क राशि में चन्द्रमा से दृष्ट गुरु: जातक को वैभवशाली, सुन्दर शरीर वाला, देव-द्विज भक्त, परम कृपालु और सज्जनों के साथ रहने वाला बनाता है।"
+    },
+    {
+      "number": 21,
+      "text": "भौमेन दृष्टो गुरुरेव कर्क\nनरं प्रसूते बहुपापभाजम् ।\nजलोदरल्लहगुदाक्षिरोगैः\nसम्पीडिताङ्गं गुणवर्जितं च",
+      "english_meaning": "Jupiter in Cancer aspected by Mars: Makes one a recipient of many sins, and having a body afflicted by dropsy (Jalodara), [spleen], anus-related and eye diseases, and devoid of virtues.",
+      "hindi_meaning": "कर्क राशि में मंगल से दृष्ट गुरु: जातक को अनेक पापों का भागी, और जलोदर, [प्लीहा], गुदा व नेत्र रोगों से पीड़ित शरीर वाला और गुणों से रहित बनाता है।"
+    },
+    {
+      "number": 22,
+      "text": "बुधेन दृष्टः खलु कर्कसंस्थो\nगुरुप्रसक्तं नृपलोकभाजम् ।\nहिरण्यवस्त्रामणिमुक्तलाभैः\nसमन्वितं सत्यपरं सदैव",
+      "english_meaning": "Jupiter in Cancer aspected by Mercury: Makes one attached to teachers/elders, honored by the king's people, endowed with gains of gold, clothes, gems, and pearls, and always devoted to truth.",
+      "hindi_meaning": "कर्क राशि में बुध से दृष्ट गुरु: जातक को गुरुजनों में आसक्त, राजकुल द्वारा सम्मानित, सुवर्ण, वस्त्र, मणि और मोतियों के लाभ से युक्त और सदैव सत्यनिष्ठ बनाता है।"
+    },
+    {
+      "number": 23,
+      "text": "शुक्रेण दृष्टः सुरराजमन्त्री\nकर्काश्रितः स्फीतिवतं मनुष्यम् ।\nकरोति पुष्टं सुरभोजनानां\nसुरक्तपौरं प्रथितं नृलोके",
+      "english_meaning": "Jupiter in Cancer aspected by Venus: Makes one prosperous (Sphitivan), having a well-nourished body through excellent food, well-loved by citizens, and famous among people.",
+      "hindi_meaning": "कर्क राशि में शुक्र से दृष्ट गुरु: जातक को समृद्धिशाली, उत्तम भोजन से पुष्ट शरीर वाला, नगरवासियों का प्रिय और मनुष्यों में प्रसिद्ध बनाता है।"
+    },
+    {
+      "number": 24,
+      "text": "सौरेण दृष्टः खलु कर्कराशौ\nजीवः सुवते बहुतर्ककं च ।\nसुदीर्घपौरैर्नृपचौरदुष्टैः\nप्रपीडितं निन्दितमेव नित्यम्",
+      "english_meaning": "Jupiter in Cancer aspected by Saturn: Makes one very argumentative/logical, afflicted by long-standing [citizens/troubles], kings, thieves, and wicked people, and always censured.",
+      "hindi_meaning": "कर्क राशि में शनि से दृष्ट गुरु: जातक को बहुत तर्क-वितर्क करने वाला, लम्बे समय से [नगरवासियों/कष्टों], राजा, चोर और दुष्टों द्वारा पीड़ित और सदैव निन्दित बनाता है।"
+    },
+    {
+      "number": 25,
+      "text": "सिंहस्थितो देवगुरुः प्रसूते\nसूर्येण दृष्टः पतितस्वभावम् ।\nविहीनधर्मं प्रकरोति वैरं\nमानान्त्ययुक्तं प्रणतं च नीचे",
+      "english_meaning": "Jupiter in Leo aspected by Sun: Makes one of a fallen nature, devoid of religion, creating enmity, having [excessive/lost] pride, and humble before lowly people.",
+      "hindi_meaning": "सिंह राशि में सूर्य से दृष्ट गुरु: जातक को पतित स्वभाव वाला, धर्महीन, शत्रुता करने वाला, [अत्यधिक/नष्ट] मान वाला और नीच लोगों के सामने झुकने वाला बनाता है।"
+    },
+    {
+      "number": 26,
+      "text": "चन्द्रेण दृष्टो हरिगः सुरेज्यः\nकरोति मर्त्यं सुखवर्धिताङ्गम् ।\nसौभाग्ययुक्तं बहुमानभाजं\nसुसंमतं साधुजनस्य नित्यम्",
+      "english_meaning": "Jupiter in Leo aspected by Moon: Makes one having a body nourished by happiness, fortunate, a recipient of much honor, and always well-regarded by good people.",
+      "hindi_meaning": "सिंह राशि में चन्द्रमा से दृष्ट गुरु: जातक को सुखों से पुष्ट शरीर वाला, सौभाग्यशाली, बहुत मान-सम्मान पाने वाला और सज्जनों द्वारा सदैव समादृत बनाता है।"
+    },
+    {
+      "number": 27,
+      "text": "सिंहस्थितो देवगुरुः प्रसूते\nकुजेन दृष्टः प्रचुरप्रतापम् ।\nविहीनवर्णं नयविप्रयुक्तं\nविवर्जितं साधुसमागमेन",
+      "english_meaning": "Jupiter in Leo aspected by Mars: Makes one having immense valor/glory, but devoid of healthy complexion, devoid of ethics, and devoid of the company of good people.",
+      "hindi_meaning": "सिंह राशि में मंगल से दृष्ट गुरु: जातक को प्रचुर प्रतापी, किन्तु कान्तिहीन, नीति रहित और सज्जनों के साथ से वर्जित बनाता है।"
+    },
+    {
+      "number": 28,
+      "text": "बुधेन दृष्टः कुरुते सुरेज्यः\nसिंहस्थितः सत्यपरं मनुष्यम् ।\nविशालकीर्तिं कृतधर्मकार्यं\nनरेन्द्रपूज्यं सुहृदप्रयुक्तम्",
+      "english_meaning": "Jupiter in Leo aspected by Mercury: Makes one devoted to truth, having vast fame, performing religious works, honored by the king, and [endowed with/helpful to] friends.",
+      "hindi_meaning": "सिंह राशि में बुध से दृष्ट गुरु: जातक को सत्यनिष्ठ, विशाल कीर्ति वाला, धार्मिक कार्य करने वाला, राजा द्वारा पूजित और मित्रों [से युक्त/का प्रिय] बनाता है।"
+    },
+    {
+      "number": 29,
+      "text": "शुक्रेण दृष्टो हरिगः सुरेज्यो\nनरं विधत्ते मणिरत्नभाजम् ।\nशय्यानुरक्तं बहुमित्रपक्षं\nविपादितारिं प्रभुतासमेतम्",
+      "english_meaning": "Jupiter in Leo aspected by Venus: Makes one a recipient of gems and jewels, attached to comforts (bed), having many friends, having destroyed enemies, and endowed with lordship/power.",
+      "hindi_meaning": "सिंह राशि में शुक्र से दृष्ट गुरु: जातक को मणिरत्नों का भागी, शैया-सुख (आराम) में आसक्त, बहुत से मित्रों वाला, शत्रुओं का नाश करने वाला और प्रभुता (शक्ति) से युक्त बनाता है।"
+    },
+    {
+      "number": 30,
+      "text": "सौरेण दृष्टो हरिगः सुरेज्यः\nकरोति मर्त्यं विधिहीनकृत्यम् ।\nकौलप्रभावं सुजनैर्विमुक्तं\nविद्वेषशीलं निजबान्धवानाम्",
+      "english_meaning": "Jupiter in Leo aspected by Saturn: Makes one performing actions devoid of proper rules, having [lowly/Kula?] influence, abandoned by good people, and having a nature of hating one's own relatives.",
+      "hindi_meaning": "सिंह राशि में शनि से दृष्ट गुरु: जातक को शास्त्र-विधि रहित कार्य करने वाला, [नीच/कुल?] प्रभाव वाला, सज्जनों द्वारा त्यागा हुआ और अपने बान्धुओं से द्वेष करने वाला बनाता है।"
+    },
+    {
+      "number": 31,
+      "text": "कन्याश्रितः सूर्यनिरीक्षितश्च\nकरोति जीवः सततं कुशीलम् ।\nनरं प्रसूते कुजलैः समेतं\nविपन्नशीलं परुषस्वभावम्",
+      "english_meaning": "Jupiter in Virgo aspected by Sun: Makes one always of a bad character, accompanied by wicked people, having ruined conduct, and of a harsh/rough nature.",
+      "hindi_meaning": "कन्या राशि में सूर्य से दृष्ट गुरु: जातक को सदैव बुरे चरित्र वाला, दुष्ट लोगों के साथ रहने वाला, नष्ट आचरण वाला और कठोर स्वभाव वाला बनाता है।"
+    },
+    {
+      "number": 32,
+      "text": "चन्द्रेण दृष्टः खलु कन्यकायां\nजीवो विधत्ते जयसम्प्र..........\nसुसाधुपूज्यं नृपतेरभिष्टं\nविवर्जितं पापजनेन नित्यम्",
+      "english_meaning": "Jupiter in Virgo aspected by Moon: Makes one [attaining victory], honored by good/holy people, desired by the king, and always separated from sinful people.",
+      "hindi_meaning": "कन्या राशि में चन्द्रमा से दृष्ट गुरु: जातक को [विजय प्राप्त करने वाला], सज्जनों द्वारा पूजित, राजा का प्रिय और सदैव पापी लोगों से दूर रहने वाला बनाता है।"
+    },
+    {
+      "number": 33,
+      "text": "भौमेन दृष्टः सुरराजमन्त्री\nकन्याश्रितस्तीव्ररुजासमेतम् ।\nनरं प्रसूते नयधर्महीनं\nविपन्नशीलं नृपपीडितं च",
+      "english_meaning": "Jupiter in Virgo aspected by Mars: Makes one endowed with severe diseases, devoid of ethics and religion, having ruined conduct, and troubled by the king.",
+      "hindi_meaning": "कन्या राशि में मंगल से दृष्ट गुरु: जातक को तीव्र रोगों से युक्त, नीति और धर्म से हीन, नष्ट आचरण वाला और राजा द्वारा पीड़ित बनाता है।"
+    },
+    {
+      "number": 34,
+      "text": "बुधेन दृष्टः प्रकरोति जीवो\nनरं प्रगल्-भं सुतदारयुक्तम् ।\nस्वबन्धुमुख्यं बहुकीर्तिभाजं\nसदा हितं बान्धवसज्जनानाम्",
+      "english_meaning": "Jupiter in Virgo aspected by Mercury: Makes one bold/resolute, endowed with sons and wife, the chief among his relatives, a recipient of much fame, and always beneficial to relatives and good people.",
+      "hindi_meaning": "कन्या राशि में बुध से दृष्ट गुरु: जातक को प्रगल्भ (निपुण), स्त्री-पुत्र युक्त, अपने बान्धुओं में मुख्य, बहुत कीर्ति पाने वाला और बान्धुओं व सज्जनों का सदैव हित करने वाला बनाता है।"
+    },
+    {
+      "number": 35,
+      "text": "शुक्रेण दृष्टः प्रकरोति जीवः\nकन्याश्रितः सर्वजनैः प्रशस्तम् ।\nनरं सुशास्त्रानुरतं प्रगल्-भं\nव्यपेतदुःखं कपदेन हीनम्",
+      "english_meaning": "Jupiter in Virgo aspected by Venus: Makes one praised by all people, attached to good scriptures, bold/resolute, free from sorrow, and [devoid of bad position/vices].",
+      "hindi_meaning": "कन्या राशि में शुक्र से दृष्ट गुरु: जातक को सभी लोगों द्वारा प्रशंसित, उत्तम शास्त्रों में लगा रहने वाला, प्रगल्भ, दुखरहित और [बुरी स्थिति/दोषों] से हीन बनाता है।"
+    },
+    {
+      "number": 36,
+      "text": "कन्याश्रितो देवगुरुः प्रसूते\nसौरेण दृष्टः प्रचुरार्तियुक्तम् ।\nव्यापचलज्जं विगतप्रतापं\nकलिप्रियं दुष्टमतिं नृशंसम्",
+      "english_meaning": "Jupiter in Virgo aspected by Saturn: Makes one full of abundant pain/affliction, devoid of shame, devoid of glory/valor, fond of quarrels (Kali), having a wicked mind, and cruel.",
+      "hindi_meaning": "कन्या राशि में शनि से दृष्ट गुरु: जातक को प्रचुर कष्टों से युक्त, निर्लज्ज, प्रतापरहित, कलहप्रिय, दुष्ट बुद्धि वाला और क्रूर बनाता है।"
+    },
+    {
+      "number": 37,
+      "text": "तुलाश्रितो देवगुरुः सुवाते\nसूर्येण दृष्टः कुविभः प्रदुःखम् ।\nनरं सुशोकैः सहितं सपापं\nमायाधिकं कृत्रिमसौहृदं च",
+      "english_meaning": "Jupiter in Libra aspected by Sun: Makes one having [bad splendor/wealth], much sorrow, sinful, very deceitful (Maya), and having artificial/false friendships.",
+      "hindi_meaning": "तुला राशि में सूर्य से दृष्ट गुरु: जातक को [कुत्सित कान्ति/धन] वाला, बहुत दुखी, पापी, अत्यन्त मायावी और बनावटी मित्रता रखने वाला बनाता है।"
+    },
+    {
+      "number": 38,
+      "text": "चन्द्रेण दृष्टस्तुलगस्तु जीवो\nनरं प्रसूते विभवैः समेतम् ।\nव्यथाविहीनं नतशत्रुपक्षं\nमहाधनं सत्यपरं सदैव",
+      "english_meaning": "Jupiter in Libra aspected by Moon: Makes one endowed with power/wealth, free from pain/anguish, having enemies bowed down, very wealthy, and always devoted to truth.",
+      "hindi_meaning": "तुला राशि में चन्द्रमा से दृष्ट गुरु: जातक को विभव (ऐश्वर्य) से युक्त, व्यथा रहित, शत्रुओं को झुकाने वाला, महाधनी और सदैव सत्यनिष्ठ बनाता है।"
+    },
+    {
+      "number": 39,
+      "text": "भौमेन दृष्टस्तुलगस्तु जीवो\nनरं प्रसूते कलहैः समेतम् ।\nनिन्द्यं कृशं पुण्ययशोविहीनं\nसुसंस्कृतं नीचजनैः सदैव",
+      "english_meaning": "Jupiter in Libra aspected by Mars: Makes one full of quarrels, censurable, lean, devoid of religious merit and fame, and always [well-treated/associated?] with lowly people.",
+      "hindi_meaning": "तुला राशि में मंगल से दृष्ट गुरु: जातक को कलहप्रिय, निन्दनीय, दुर्बल, पुण्य व यश से हीन और सदैव नीच लोगों के साथ [सम्बन्ध?] रखने वाला बनाता है।"
+    },
+    {
+      "number": 40,
+      "text": "बुधेन दृष्टस्तुलगः सुरेज्यो\nनरं प्रसक्तं विनये प्रसूते ।\nसुतीर्थभाजं बहुमित्रवर्गं\nशास्त्रानुरक्तं बहुबान्धवं च",
+      "english_meaning": "Jupiter in Libra aspected by Mercury: Makes one attached to humility, a visitor of good holy places (Teertha), having many groups of friends, attached to scriptures, and having many relatives.",
+      "hindi_meaning": "तुला राशि में बुध से दृष्ट गुरु: जातक को विनयशील, उत्तम तीर्थों का सेवन करने वाला, बहुत से मित्रों वाला, शास्त्र प्रेमी और बहुत से बान्धुओं वाला बनाता है।"
+    },
+    {
+      "number": 41,
+      "text": "शुक्रेण दृष्टः प्रकरोति जीव-\nस्तुलाश्रितः सत्यधनं प्रसूते ।\nगुणानुरक्तं विविधानपानैः\nसंवर्धिताङ्गं गुरुदेवभक्तम्",
+      "english_meaning": "Jupiter in Libra aspected by Venus: Makes one truthful and wealthy, attached to virtues, having a body nourished by various types of food and drinks, and devoted to teachers and gods.",
+      "hindi_meaning": "तुला राशि में शुक्र से दृष्ट गुरु: जातक को सत्यनिष्ठ और धनवान, गुणों का अनुरागी, विविध प्रकार के खान-पान से पुष्ट शरीर वाला और गुरु-देवता का भक्त बनाता है।"
+    },
+    {
+      "number": 42,
+      "text": "सौरेण दृष्टः प्रकरोति जीव-\nस्तुलाश्रितः क्लेशभुवा समेतम् ।\nविहीनपक्षं सुतदारहीनं\nसदा नरं रोगसमन्वितं च",
+      "english_meaning": "Jupiter in Libra aspected by Saturn: Makes one experiencing troubles born of various causes, devoid of support (Paksha), devoid of sons and wife, and always accompanied by diseases.",
+      "hindi_meaning": "तुला राशि में शनि से दृष्ट गुरु: जातक को विभिन्न क्लेशों को भोगने वाला, पक्ष (सहयोग) रहित, स्त्री-पुत्र से हीन और सदैव रोगों से ग्रस्त बनाता है।"
+    },
+    {
+      "number": 43,
+      "text": "जीवोऽलिसंस्थः प्रकरोति म्..........\nसूर्येण दृष्टः कृपणं मनुष्यः ।\nवातामयक्लेशसुपीडिताङ्गं\nगतप्रधानं मलिनं कुचैलम्",
+      "english_meaning": "Jupiter in Scorpio aspected by Sun: Makes one [miserable/miserly], having a body severely afflicted by troubles of windy diseases (Vata), having lost prominence, dirty, and wearing tattered clothes.",
+      "hindi_meaning": "वृश्चिक राशि में सूर्य से दृष्ट गुरु: जातक को [दीन/कंजूस], वात रोगों के कष्टों से अत्यन्त पीड़ित शरीर वाला, प्रधानता (महत्व) खोया हुआ, मलिन और फटे-पुराने वस्त्र पहनने वाला बनाता है।"
+    },
+    {
+      "number": 44,
+      "text": "चन्द्रेण दृष्टोऽलिगतः सुरेज्यः\nकरोति मर्त्यं गतपापसङ्गम् ।\nसौभाग्ययुक्तं विनयैः समेतं\nप्रभूतमित्रं गतशोकमोहम्",
+      "english_meaning": "Jupiter in Scorpio aspected by Moon: Makes one free from the company of sins, fortunate, endowed with humility, having many friends, and free from sorrow and delusion.",
+      "hindi_meaning": "वृश्चिक राशि में चन्द्रमा से दृष्ट गुरु: जातक को पाप-संगति से रहित, सौभाग्यशाली, विनयशील, बहुत से मित्रों वाला और शोक व मोह से रहित बनाता है।"
+    },
+    {
+      "number": 45,
+      "text": "भौमेन दृष्टोऽलिगतः प्रसूते\nजीवो जितं स्त्रीतनयैश्च नित्यम् ।\nविवेकहीनं गतमानलाभं\nविरूपचेष्टं पिशुनस्त्वभावम्",
+      "english_meaning": "Jupiter in Scorpio aspected by Mars: Makes one always [defeated/controlled?] by wife and sons, devoid of discrimination/wisdom, having lost honor and gains, having distorted actions/gestures, and of a backbiting nature.",
+      "hindi_meaning": "वृश्चिक राशि में मंगल से दृष्ट गुरु: जातक को सदैव स्त्री व पुत्रों द्वारा [पराजित/नियंत्रित?], विवेकहीन, मान और लाभ से रहित, विरूप चेष्टाओं वाला और चुगलखोर स्वभाव वाला बनाता है।"
+    },
+    {
+      "number": 46,
+      "text": "बुधेन दृष्टोऽलिगत प्रसूते\nजीवो युतं बन्दिजनेन नित्यम् ।\nविरुद्धकर्मं परुषप्रतापं\nसम्पादितं सर्वकलासु दक्षम्",
+      "english_meaning": "Jupiter in Scorpio aspected by Mercury: Makes one always accompanied by bards/poets, performing contradictory actions, having harsh valor/glory, and expert in all arts.",
+      "hindi_meaning": "वृश्चिक राशि में बुध से दृष्ट गुरु: जातक को सदैव बन्दीजनों (स्तुति करने वालों) से युक्त, विरुद्ध कर्म करने वाला, कठोर प्रतापी और सभी कलाओं में दक्ष बनाता है।"
+    },
+    {
+      "number": 47,
+      "text": "शुक्रेण दृष्टः प्रकरोति जीवो\nजितेन्द्रियं जीवदयासमेतम् ।\nप्रभूतलाभं विकृतैर्वियुक्तं\nचतुष्पदग्रामधनैः समेतम्",
+      "english_meaning": "Jupiter in Scorpio aspected by Venus: Makes one having controlled senses, compassionate towards living beings, having many gains, free from distortions/defects, and endowed with wealth of four-legged animals and villages.",
+      "hindi_meaning": "वृश्चिक राशि में शुक्र से दृष्ट गुरु: जातक को जितेन्द्रिय, जीवों पर दया करने वाला, प्रचुर लाभ पाने वाला, विकारों से रहित और चौपायों व गाँवों के धन से युक्त बनाता है।"
+    },
+    {
+      "number": 48,
+      "text": "मन्देन दृष्टः सुरराजमन्त्री\nकरोतो मर्त्यं ज्वरपीडिताङ्गम् ।\nमन्दालिसंस्थः प्रभया समेतं\nबहुव्ययं शास्त्रविवर्जितं च",
+      "english_meaning": "Jupiter in Scorpio aspected by Saturn: Makes one having a body afflicted by fever, having [low/slow] splendor, prone to much expenditure, and devoid of knowledge of scriptures.",
+      "hindi_meaning": "वृश्चिक राशि में शनि से दृष्ट गुरु: जातक को ज्वर से पीड़ित शरीर वाला, [मन्द] कान्ति वाला, बहुत व्यय (खर्चा) करने वाला और शास्त्रों के ज्ञान से रहित बनाता है।"
+    },
+    {
+      "number": 49,
+      "text": "चापाश्रितो देवगुरुः प्रसूते\nसूर्येण दृष्टो गतमानभाजम् ।\nस्वधर्महीनं परधर्मरक्तं\nनानाविधैः कर्मसुखैर्विहीनम्",
+      "english_meaning": "Jupiter in Sagittarius aspected by Sun: Makes one having lost his honor/pride, devoid of his own religion, attached to other religions, and devoid of various types of happiness of actions.",
+      "hindi_meaning": "धनु राशि में सूर्य से दृष्ट गुरु: जातक को मान-सम्मान खोया हुआ, अपने धर्म से हीन, दूसरे धर्मों में आसक्त और विविध प्रकार के कर्म-सुख से वर्जित बनाता है।"
+    },
+    {
+      "number": 50,
+      "text": "चन्द्रेण दृष्टो हयगः प्रसूते\nजीवो जनाढ्यं नियमैः समेतम् ।\nयतिद्विजप्रव्रजितनुरक्तं ..........\nमध्ये सदा तीर्थरतं प्रसिद्धम्",
+      "english_meaning": "Jupiter in Sagittarius aspected by Moon: Makes one wealthy/having many people around, endowed with rules/vows, attached to ascetics, Brahmins, and monks, always performing pilgrimage, and famous.",
+      "hindi_meaning": "धनु राशि में चन्द्रमा से दृष्ट गुरु: जातक को धनवान/लोकप्रिय, नियमों से युक्त, यतियों, ब्राह्मणों व सन्यासियों का अनुरागी, सदैव तीर्थ यात्रा करने वाला और प्रसिद्ध बनाता है।"
+    },
+    {
+      "number": 51,
+      "text": "जीवो हयस्थः क्षितिजेन दृष्टो\nनरं प्रसूतेऽतिखलं सपापम् ।\nप्रपंचमायासहितं नितांतं\nकृतापराधनं नृपसाधुलोकैः",
+      "english_meaning": "Jupiter in Sagittarius aspected by Mars: Makes one very wicked, sinful, full of deceit and illusion (Prapancha-Maya), and [punished/censured] for offences against kings and good people.",
+      "hindi_meaning": "धनु राशि में मंगल से दृष्ट गुरु: जातक को अत्यन्त दुष्ट, पापी, प्रपञ्च और माया (छल) से पूर्ण और राजा व सज्जनों के प्रति किए गए अपराधों के लिए [दण्डित/निन्दित] बनाता है।"
+    },
+    {
+      "number": 52,
+      "text": "बुधेन दृष्टो हयगः सुरेज्यः\nकरोति मर्त्यं बहुसौख्ययुक्तम् ।\nविनीतमत्मद्भुतलाभभाजन्\nप्रभूतमूर्तिं सदयं च नित्यम्",
+      "english_meaning": "Jupiter in Sagittarius aspected by Mercury: Makes one endowed with much happiness, humble, a recipient of wonderful gains, having a large/prominent body, and always compassionate.",
+      "hindi_meaning": "धनु राशि में बुध से दृष्ट गुरु: जातक को बहुत सुखी, विनम्र, अद्भुत लाभ पाने वाला, विशाल शरीर वाला और सदैव दयालु बनाता है।"
+    },
+    {
+      "number": 53,
+      "text": "शुक्रेण दृष्टो हयगोऽथ जीवो\nनरं सुवाते शुचिमन्तलाभम् ।\nसत्यानुरक्तं सुखवृत्तगात्रं\nसुरद्विजेन्दैः प्रणतं च तेषाम्",
+      "english_meaning": "Jupiter in Sagittarius aspected by Venus: Makes one [wealthy], having pure gains, attached to truth, having a body of pleasant conduct/build, and honored by gods and Brahmins.",
+      "hindi_meaning": "धनु राशि में शुक्र से दृष्ट गुरु: जातक को [धनवान], पवित्र लाभ वाला, सत्यप्रेमी, सुखी आचरण वाले शरीर वाला और देव-ब्राह्मणों द्वारा सम्मानित बनाता है।"
+    },
+    {
+      "number": 54,
+      "text": "चापाश्रितो देवगुरुः प्रसूते\nसौरेण दृष्टः परदाररक्तम् ।\nविहीनसत्यं मतिविप्रयुक्त-\nमृणाधिकं व्याधियुतं तदन्तम्",
+      "english_meaning": "Jupiter in Sagittarius aspected by Saturn: Makes one attached to other's wives, devoid of truth, devoid of intelligence, heavily in debt, and suffering from diseases [until death].",
+      "hindi_meaning": "धनु राशि में शनि से दृष्ट गुरु: जातक को पर-स्त्री में आसक्त, सत्य से हीन, बुद्धिहीन, अत्यधिक कर्जदार और [मृत्यु पर्यन्त] रोगों से पीड़ित बनाता है।"
+    },
+    {
+      "number": 55,
+      "text": "[ मृगेणसंस्थित सुरराजमन्त्री\nसूर्येण दृष्टः चपलस्वभावं\nवातादिपिडाभयमुग्रता च\nस्वबान्धवैर्मित्रविरक्तता च",
+      "english_meaning": "Jupiter in Capricorn aspected by Sun: Makes one of a fickle nature, suffering from windy disorders (Vata), fear, and severity/fierceness, and having aversion from relatives and friends.",
+      "hindi_meaning": "[मकर राशि में सूर्य से दृष्ट गुरु: जातक को चंचल स्वभाव वाला, वात आदि रोगों की पीड़ा व भय वाला, उग्र स्वभाव वाला और अपने बान्धुओं व मित्रों से विरक्त रहने वाला बनाता है।"
+    },
+    {
+      "number": 56,
+      "text": "चन्द्रेण दृष्टो मृगराशितांगवैः\nगुरुर्ः प्रयुक्तो धन्लाभता च ।\nमानं विवेकं स्वजनं सुखं च\nशत्रुक्षयं देवगुरोश्च भक्तिम्",
+      "english_meaning": "Jupiter in Capricorn aspected by Moon: Makes one endowed with gains of wealth, honor, discrimination, happiness of relatives, destruction of enemies, and devotion to gods and teachers.",
+      "hindi_meaning": "मकर राशि में चन्द्रमा से दृष्ट गुरु: जातक को धन-लाभ, मान, विवेक, स्वजनों का सुख, शत्रुओं का नाश और देव-गुरु के प्रति भक्ति वाला बनाता है।"
+    },
+    {
+      "number": 57,
+      "text": "जीवः प्रसूते मृगलग्नगे च\nभौमेन दृष्टः कुरुते भयं च ।\nशत्रुं विवादं निजबन्धुवैरं\nवेश्यानुरक्तं मतिविभ्रमं च",
+      "english_meaning": "Jupiter in Capricorn aspected by Mars: Makes one having fear, enemies, disputes, enmity with relatives, attachment to prostitutes, and confusion of mind.",
+      "hindi_meaning": "मकर राशि में मंगल से दृष्ट गुरु: जातक को भय, शत्रु, विवाद, अपने बान्धुओं से वैर, वेश्याओं में आसक्त और बुद्धि के भ्रम वाला बनाता है।"
+    },
+    {
+      "number": 58,
+      "text": "बुधेन दृष्टः प्रभुतासमेतं\nच संस्थो मृगराशिकश्च ।\nवाणिज्यदक्षं विविधं विलासं\nक्षेत्राधिलाभं धनवल्लभं च",
+      "english_meaning": "Jupiter in Capricorn aspected by Mercury: Makes one endowed with lordship, expert in trade, having various luxuries, gains of lands, and being a favorite of wealth (rich).",
+      "hindi_meaning": "मकर राशि में बुध से दृष्ट गुरु: जातक को प्रभुता से युक्त, व्यापार में दक्ष, विविध विलासों वाला, भूमि का लाभ पाने वाला और धनवान बनाता है।"
+    },
+    {
+      "number": 59,
+      "text": "शुक्रेण दृष्टः सुरराजमन्त्री\nमृगेणसंस्थः द्विजदेवभक्तम् ।\nवल्लभकामिनीनां\nपुत्रैः मित्र.......... च राज्यलाभम्",
+      "english_meaning": "Jupiter in Capricorn aspected by Venus: Makes one devoted to Brahmins and gods, beloved of beautiful women, [happy with] sons and friends, and having gains of a kingdom.",
+      "hindi_meaning": "मकर राशि में शुक्र से दृष्ट गुरु: जातक को ब्राह्मणों व देवताओं का भक्त, सुन्दर स्त्रियों का प्रिय, पुत्रों व मित्रों [से सुखी] और राज्य लाभ पाने वाला बनाता है।"
+    },
+    {
+      "number": 60,
+      "text": "मृगेणसंस्थः सुरराजमन्त्री\nशौरेण दृष्टः भयमुग्रता च ।\nजनापवादं नृपचौरकाग्नि\nस्त्रीणां विवादे धनधान्यनाशम्",
+      "english_meaning": "Jupiter in Capricorn aspected by Saturn: Makes one having fear and fierceness, suffering from public scandal, kings, thieves, or fire, and loss of wealth and grains due to disputes regarding women.",
+      "hindi_meaning": "मकर राशि में शनि से दृष्ट गुरु: जातक को भय व उग्रता वाला, लोकापवाद (बदनामी), राजा, चोर या अग्नि से कष्ट पाने वाला और स्त्रियों के विवाद में धन-धान्य का नाश करने वाला बनाता है।"
+    },
+    {
+      "number": 61,
+      "text": "]\nघटस्थितो देवगुरुः प्रसूते\nसूर्येण दृष्तः सुतदारदुःखैः ।\nसम्पीडिताङ्गं गतबुद्धिचिन्तं\nविरक्तपौरं निजबन्धुहीनम्",
+      "english_meaning": "Jupiter in Aquarius aspected by Sun: Makes one having a body afflicted by sorrows of sons and wife, having lost intelligence and thought (worried), disliked by citizens, and devoid of relatives.",
+      "hindi_meaning": "कुम्भ राशि में सूर्य से दृष्ट गुरु: जातक को स्त्री व पुत्रों के दुख से पीड़ित शरीर वाला, बुद्धि व विचार खोया हुआ (चिन्तित), नगरवासियों से विरक्त और अपने बान्धुओं से हीन बनाता है।"
+    },
+    {
+      "number": 62,
+      "text": "चन्द्रेण दृष्तो घटगः प्रसूते\nसुरेज्यमन्त्री नयनाभिरामम् ।\nअकल्पषं शास्त्रकथानुरक्तं\nप्रियवदं साधुजनस्य नित्यम्",
+      "english_meaning": "Jupiter in Aquarius aspected by Moon: Makes one very pleasing to the eyes (beautiful), free from sins/defects (Akalpasha), attached to scriptural stories, soft-spoken, and always dear to good people.",
+      "hindi_meaning": "कुम्भ राशि में चन्द्रमा से दृष्ट गुरु: जातक को नेत्रों को सुख देने वाला (सुन्दर), निष्पाप/दोषरहित, शास्त्र-कथाओं में प्रेमी, प्रिय बोलने वाला और सज्जनों का सदैव प्रिय बनाता है।"
+    },
+    {
+      "number": 63,
+      "text": "भौमेन दृष्तो घटगः\nकरोति मर्त्यं बहुदानमुग्रम् ।\n.......... पेतविघ्नं कृपया विहीनं\nविलज्जमत्युद्धतकामसक्तन",
+      "english_meaning": "Jupiter in Aquarius aspected by Mars: Makes one giving much [fierce/lavish?] gifts, [facing obstacles], devoid of compassion, shameless, very arrogant, and attached to sexual desires.",
+      "hindi_meaning": "कुम्भ राशि में मंगल से दृष्ट गुरु: जातक को बहुत [उग्र/अधिक?] दान देने वाला, [विघ्न बाधाओं वाला], दयाहीन, निर्लज्ज, अत्यन्त अभिमानी और काम-वासना में आसक्त बनाता है।"
+    },
+    {
+      "number": 64,
+      "text": "बुधेन दृष्टो घटगः सुरेज्यः\nकरोति सिद्धा सहितं सनाचम् ।\nनरं विशिष्टार्थपरं सुरूपं\nसदानुकंपासहितं विधिज्ञम्",
+      "english_meaning": "Jupiter in Aquarius aspected by Mercury: Makes one [accompanied by perfected ones/learned], devoted to special goals/meanings, beautiful, always compassionate, and knowing the laws/rituals.",
+      "hindi_meaning": "कुम्भ राशि में बुध से दृष्ट गुरु: जातक को [सिद्धों/विद्वानों के साथ रहने वाला], विशिष्ट अर्थों (लक्ष्यों) में तत्पर, सुरूप, सदैव दयालु और विधि-विधानों का ज्ञाता बनाता है।"
+    },
+    {
+      "number": 65,
+      "text": "शुक्रेण दृष्टो घटग सुरेज्यः\nकरोति मेधाविनमल्पभगम् ।\nनरं निरीहं सततं सुदात्तं\nमनस्विनं पार्थिवकार्यदक्षम्",
+      "english_meaning": "Jupiter in Aquarius aspected by Venus: Makes one intelligent but having little fortune, devoid of desires (Niriha), always very noble/generous, wise, and expert in the king's works.",
+      "hindi_meaning": "कुम्भ राशि में शुक्र से दृष्ट गुरु: जातक को बुद्धिमान किन्तु अल्प-भाग्यशाली, इच्छारहित, सदैव उदार, मनस्वी और राजकीय कार्यों में दक्ष बनाता है।"
+    },
+    {
+      "number": 66,
+      "text": "सौरेण दृष्तो घटगोऽथ जीवः\nकरोति रोगैर्विविधैः समेतम् ।\nसुकर्मतप्तं प्रभुताविहीनं\nविवर्जितं भोगनयैः सदैव",
+      "english_meaning": "Jupiter in Aquarius aspected by Saturn: Makes one accompanied by various diseases, suffering despite good actions, devoid of lordship/power, and always devoid of enjoyment and ethics.",
+      "hindi_meaning": "कुम्भ राशि में शनि से दृष्ट गुरु: जातक को विविध रोगों से युक्त, अच्छे कर्मों के बावजूद दुखी, प्रभुता से हीन और सदैव भोग व नीति से वर्जित बनाता है।"
+    },
+    {
+      "number": 67,
+      "text": "जीवो ह्यषस्थो रविणा च दृष्तः\nकरोति नानाविधमुग्रतापम् ।\nछर्दिप्रकोपं ज्वरदाह्मुग्रं\nमहाभयं पार्थिवजं सदैव",
+      "english_meaning": "Jupiter in Pisces aspected by Sun: Makes one experiencing various types of fierce heat/distress, affliction of vomiting, fierce fever and burning sensations, and always great fear from the king.",
+      "hindi_meaning": "मीन राशि में सूर्य से दृष्ट गुरु: जातक को अनेक प्रकार के उग्र ताप (कष्ट) भोगने वाला, वमन (उल्टी) का प्रकोप, उग्र ज्वर व दाह (जलन) वाला और सदैव राजा से महाभय पाने वाला बनाता है।"
+    },
+    {
+      "number": 68,
+      "text": "चन्द्रेण दृष्टः सुरपूजिताङ्गो\nह्यषस्थितः संजनयेन्मनुष्यम् ।\nप्रियंवदं सत्यसुखार्थयुक्तं\nस्त्रीणाम्भीष्टं रतिलालसं च",
+      "english_meaning": "Jupiter in Pisces aspected by Moon: Makes one soft-spoken, endowed with truth, happiness, and wealth, desired by women, and fond of sexual pleasures.",
+      "hindi_meaning": "मीन राशि में चन्द्रमा से दृष्ट गुरु: जातक को प्रिय बोलने वाला, सत्य-सुख-अर्थ से युक्त, स्त्रियों का प्रिय और रति-क्रीड़ा का प्रेमी बनाता है।"
+    },
+    {
+      "number": 69,
+      "text": "भौमेन दृष्टो ह्यषगः प्रसूते\nसुरेज्यमन्त्री ज्वरया समेतम् ।\nमहातिसारज्वरमीहिताङ्गं\nमित्रेन युक्तं नयवर्जितं च",
+      "english_meaning": "Jupiter in Pisces aspected by Mars: Makes one endowed with fever, having a body afflicted by great diarrhea and fever, but endowed with friends, though devoid of ethics.",
+      "hindi_meaning": "मीन राशि में मंगल से दृष्ट गुरु: जातक को ज्वर युक्त, महा-अतिसार (पेचिश) और ज्वर से पीड़ित शरीर वाला, मित्रों से युक्त किन्तु नीति से वर्जित बनाता है।"
+    },
+    {
+      "number": 70,
+      "text": "बुधेन दृष्टः प्रकरोति जीवो\nमीनस्थितः शौचपरं मनुष्यम् ।\nप्रियातिथिं मानधनैः समेतं\nविरागचिन्तं सुरविप्रभक्तम्",
+      "english_meaning": "Jupiter in Pisces aspected by Mercury: Makes one devoted to purity, fond of guests, endowed with honor and wealth, having thoughts of detachment (Vairagya), and devoted to gods and Brahmins.",
+      "hindi_meaning": "मीन राशि में बुध से दृष्ट गुरु: जातक को शौच (पवित्रता) में तत्पर, अतिथियों का प्रेमी, मान व धन से युक्त, वैराग्य का चिन्तन करने वाला और देव-ब्राह्मण का भक्त बनाता है।"
+    },
+    {
+      "number": 71,
+      "text": "शुक्रेण दृष्टो ह्यषगः उरेज्यो\nनरं प्रसूते विविधार्थयुक्तम् ।\nगुणाधिकं प्राणादयासमेतं\nसदानुकूलं पितृमातृभक्तम्",
+      "english_meaning": "Jupiter in Pisces aspected by Venus: Makes one endowed with various types of wealth, highly virtuous, compassionate towards living beings, always favorable, and devoted to father and mother.",
+      "hindi_meaning": "मीन राशि में शुक्र से दृष्ट गुरु: जातक को विविध प्रकार के धन से युक्त, गुणाधिक, प्राणियों पर दया करने वाला, सदैव अनुकूल और माता-पिता का भक्त बनाता है।"
+    },
+    {
+      "number": 72,
+      "text": "जीवो ह्यषस्थो रविपुत्रदृष्टो\nनरं सुवाते विकृतस्वभावम् ।\nविवर्जितं दारसुखेन नित्यं\nविधाविहीनं सततं नृलोके",
+      "english_meaning": "Jupiter in Pisces aspected by Saturn: Makes one of a distorted nature, always devoid of the happiness of a wife, and always devoid of knowledge in the world of men.",
+      "hindi_meaning": "मीन राशि में शनि से दृष्ट गुरु: जातक को विकृत स्वभाव वाला, सदैव स्त्री-सुख से वर्जित और लोक में सदैव विद्या से हीन बनाता है।"
+    }
+  ]
+}

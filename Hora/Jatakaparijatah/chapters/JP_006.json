@@ -1,0 +1,618 @@
+{
+  "number": "६",
+  "title": "अथ जातकभङ्गाध्यायः",
+  "shlokas": [
+    {
+      "number": "१",
+      "text": "तत्रादौ जातकभङ्गपरिभाषा ।\nकेचिद् योगा राजयोगस्य भङ्गाः केचिद्रेका नाम दारिद्र्ययोगाः ।\nकेचित्प्रेष्याः के च केमद्रुमाख्यास्ते चत्वारो जातभङ्गाकराः",
+      "english_meaning": "Certain combinations nullify Rajayogas: Rekha, Daridra, Preshya, and Kemadruma yogas.",
+      "hindi_meaning": "जातकभङ्ग परिभाषा: कुछ योग राजयोगों का नाश करते हैं, जैसे रेखा, दरिद्र, प्रेष्य और केमद्रुम योग।"
+    },
+    {
+      "number": "२",
+      "text": "राजभङ्गाः ।\nमेषे जूकनवांशके दिनकरे पापेक्षिते निर्धनः\nकन्याराशिगते यदा भृगुसुते क्न्यांशके भिक्षुकः ।\nनीचर्क्षे त्वातिनीचभागहिते जातो दिवानायके\nराजश्रेष्ठकुलाग्रजोऽपि विगतश्रीपुत्रदाराशनः",
+      "english_meaning": "Sun in Aries in Libra Navamsha causes poverty. Venus in Virgo in Virgo Navamsha makes one a beggar.",
+      "hindi_meaning": "मेष के सूर्य पर तुला नवांश की दृष्टि निर्धन बनाती है। कन्या के शुक्र पर कन्या नवांश भिक्षुक बनाता है।"
+    },
+    {
+      "number": "३",
+      "text": "मन्दाराहिसमन्वितेऽमरगुरौ शुक्रेन्दुपुत्रेक्षिते\nजातः शूद्रकलेवरोऽपि निखिलां विद्यामुपैति श्रियम् ।\nतारानाथविकर्तनौ गदगतौ सौरेण संवीक्षितौ\nजातोऽसौ समुपैति नीचविहितोपायेन सप्तीवनम्",
+      "english_meaning": "If Jupiter is with Sat/Mars and aspected by Ven/Mer, one attains wealth even if born in a low caste.",
+      "hindi_meaning": "यदि गुरु शनि-मंगल के साथ और शुक्र-बुध दृष्ट हो, तो नीच कुल में जन्म होने पर भी धन और विद्या मिलती है।"
+    },
+    {
+      "number": "४",
+      "text": "केन्द्रस्थे वा विलग्ने दिनकरतनये सौम्यखेतैरदृष्टे\nभूसूनोः कालहोरासमयजमनुजो भिक्षुको दासभूतः ।\nसौम्यादृष्टेऽर्क्किदृष्टे शशिनि सरुधिरे मेषगे भिक्षुकः स्या-\nदर्क्कीन्द्वर्क्कैः सकेन्द्रैर्जडतनुरधनश्चान्यभुक्ताशनः",
+      "english_meaning": "Saturn in quadrant without benefic aspect in Mars Hora causes servitude. Moon in Aries with Sat/Mars aspect causes poverty.",
+      "hindi_meaning": "शुभ दृष्टि रहित केन्द्रस्थ शनि और मंगल की होरा में जन्म दास बनाता है। मेष के चन्द्र पर शनि-मंगल दृष्टि निर्धनता देती है।"
+    },
+    {
+      "number": "५",
+      "text": "मन्दे केन्द्रगते विलग्नगृहगे चन्द्रेऽन्त्यभे वाक्पतौ\nजातो भिक्षुक एव शोकजलधौ भग्नो विदेशं गतः ।\nधर्मस्थानपतौ तु रिःफगृहगे पापग्रहे केन्द्रगे\nजातः पापरतः परन्नधनभुग् विद्याविहीनो भवेत्",
+      "english_meaning": "Saturn in quadrant, Moon in Lagna, and Jupiter in 12th house makes one a beggar in a foreign land.",
+      "hindi_meaning": "केन्द्र में शनि, लग्न में चन्द्र और १२वें भाव में गुरु होने पर जातक विदेश में भिक्षुक होता है।"
+    },
+    {
+      "number": "६",
+      "text": "जीवे रहुयुतेऽथवा शिखियुते पापेक्षिते नीचकृन्\nनीचे नीचसमीक्षिते सुरगुरौ विप्राऽतिदुष्कर्मकृत् ।\nनिद्री चन्द्रविलग्नपौ सह दिवानाथेन मन्देक्षितौ\nप्रेष्यः स्यादशुभैः शुभग्रहदृशा हीनैश्च मानस्थितैः",
+      "english_meaning": "Jupiter with Rahu/Ketu aspected by malefics leads to low deeds. A fallen Jupiter aspected by a fallen planet causes wickedness.",
+      "hindi_meaning": "राहु-केतु युक्त और पाप दृष्ट गुरु नीच कर्म करवाता है। नीचस्थ गुरु पर नीच ग्रह की दृष्टि दुराचार देती है।"
+    },
+    {
+      "number": "७",
+      "text": "भागुएशेऽन्त्यगते सहादरगतैः पापैर्व्ययेशेऽर्थगे\nदुर्भोजी परिबन्धनादिसहितो जातोऽन्यजायारतः ।\nसर्वैनीचसपत्नभागाहितैः कर्मेतस्थानगै-\nर्विद्याबुद्धिकलत्रपुत्ररहितः कोपी सदा भैक्षकृत्",
+      "english_meaning": "9th lord in 12th with malefics and 12th lord in 2nd leads to poor food, imprisonment, and addiction.",
+      "hindi_meaning": "भाग्येश १२वें में पापों के साथ और द्वादशेश २रे में हो, तो जातक कुभोजन, बन्धन और व्यसनी होता है।"
+    },
+    {
+      "number": "८",
+      "text": "लग्नस्वामिनि रिःफगे तु वियति क्रूरे सचन्द्रे कुजे\nजातोऽसौ परदेशगः सुखधनत्यागी दरिद्रो भवेत् ।\nहोराजन्मपती न शोभन्युतावस्तंगतावन्त्यगे\nभाग्येशे यदि नष्टदारतनयो जातः कुलध्वंसकः",
+      "english_meaning": "Lagna lord in 12th and malefics with Moon and Mars in 10th causes poverty and foreign wandering.",
+      "hindi_meaning": "लग्नेश १२वें में और १०वें में चन्द्र-मंगल के साथ पाप ग्रह हों, तो जातक विदेश भटकने वाला और दरिद्र होता है।"
+    },
+    {
+      "number": "९",
+      "text": "सौम्यासौम्ययुतेषु केन्द्रभनेष्विन्दौ तनुस्वामिना\nदृष्टे मन्दनवांशके सति कुलध्वंसी विदारात्मजः ।\nकामेबोधनशुक्रयोः सुतगृहे जीवे सुखस्थे शुभे\nपापे रन्ध्रगते च चन्द्रभवनाज्जाताः कुलघ्वंसिनः",
+      "english_meaning": "If Moon is in Saturns Navamsha aspected by Lagna lord and quadrants have mixed planets, one destroys the family.",
+      "hindi_meaning": "शनि के नवांश में चन्द्र पर लग्नेश की दृष्टि और केन्द्रों में मिश्रित ग्रह होने पर जातक कुलनाशक होता है।"
+    },
+    {
+      "number": "१०",
+      "text": "चरावसाने शशिनि स्थिरादौ द्विदेहमध्ये बलवर्जिते च ।\nहीने विलग्ने यदि केचरेन्द्रैर्विनाशमेति क्षितिपालयोगात्",
+      "english_meaning": "Weak Moon at the end of movable signs or start of fixed signs nullifies royal yogas.",
+      "hindi_meaning": "चर राशि के अंत या स्थिर राशि के आदि में निर्बल चन्द्रमा राजयोगों का नाश करता है।"
+    },
+    {
+      "number": "११",
+      "text": "लग्नराशिनवभावनायका भानुशीतकरदेवपूजिताः ।\nशत्रुभागसहिताः स्वनीचभस्वामिभांशसहिताः परानुगः",
+      "english_meaning": "If 1st, 9th, and 10th lords are in enemy Navamshas or in fall, the person follows others as a servant.",
+      "hindi_meaning": "यदि १, ९ और १०वें भावों के स्वामी शत्रु नवांश या नीच में हों, तो जातक दूसरों का सेवक होता है।"
+    },
+    {
+      "number": "१२",
+      "text": "शशिनि गगनाते कामगे दानवेज्ये नवमभवनयाते पापखेटे कुलघ्नः ।\nभृगुजशशिजचन्द्राः केन्द्रगा जन्मलग्ने तमसि विहितकर्मघ्वंसको नीचतुल्यः",
+      "english_meaning": "Moon in 10th, Venus in 7th, and malefic in 9th destroys family. Rahu in Lagna ruins works.",
+      "hindi_meaning": "१०वें में चन्द्र, ७वें में शुक्र और ९वें में पाप ग्रह कुलघाती बनाते हैं। लग्न का राहु कार्यों का नाश करता है।"
+    },
+    {
+      "number": "१३",
+      "text": "नीचे भ्रिगौ म्न्दनवांशके वा दुःथानगे भानुसुतेक्षिते च ।\nकामस्थिते शीतकरे सभानौ मात्रा सह प्रैष्यभुपैति नित्यम्",
+      "english_meaning": "Venus in fall aspected by Saturn, or Sun with Moon in 7th, makes one a servant along with the mother.",
+      "hindi_meaning": "शनि दृष्ट नीच शुक्र या ७वें भाव में सूर्य-चन्द्र की युति जातक को माता के साथ सेवक बनाती है।"
+    },
+    {
+      "number": "१४",
+      "text": "नीचे गुरौ वासर्नायके वा केन्द्रस्थिते पापयुते शिशुघ्नः ।\nकेन्द्रे सपापे शुभदृष्टिहीने रन्ध्रे गुरौ गोमृगजातिहन्ता",
+      "english_meaning": "Jupiter or Sun in malefic quadrants cause infant death. Jupiter in 8th in malefic quadrant causes animal killing.",
+      "hindi_meaning": "पाप केन्द्रों में गुरु-सूर्य शिशु मृत्यु देते हैं। पाप केन्द्र के अष्टम भाव में गुरु पशु हत्या करवाता है।"
+    },
+    {
+      "number": "१५",
+      "text": "शशाङ्कसौम्यौ दशमोपयातौ पापेक्षितौ पापसमन्वितौ च ।\nनीचांशगौ सौम्यदृशा विहीनौ जातस्तु नित्यं खलु पक्षिहन्ता",
+      "english_meaning": "Moon and Mercury in 10th with malefics and in fall Navamshas makes one a bird hunter.",
+      "hindi_meaning": "१०वें में पाप युक्त चन्द्र-बुध और नीच नवांश जातक को पक्षियों का शिकारी बनाते हैं।"
+    },
+    {
+      "number": "१६",
+      "text": "चन्द्रात्सुते लग्नपतौ धने वा सौम्येतरेष्वष्टमराशिगेषु ।\nमानस्थिते शीतकरे तदग्नी जातस्तु जीवत्यतिहेयवृत्त्या",
+      "english_meaning": "Rekha Yoga: Weak Lagna lord aspected by malefics, while 2nd and 9th lords are in 12th or fall, indicates extreme poverty.",
+      "hindi_meaning": "रेखा योग: लग्नेश निर्बल और पाप दृष्ट हो, तथा २रे व ९वें के स्वामी १२वें या नीच में हों, तो जातक अत्यंत निर्धन होता है।"
+    },
+    {
+      "number": "१७",
+      "text": "नीचारिभांशौ भृगुदेवपूज्यौ तदंशके वासरनाथपुत्रे ।\nजातः सुदुःखःसुतदारहीनः कृच्छेण संजीवति भाग्यहीनः",
+      "english_meaning": "If Moon is in 8th from Sun, Mercury in 8th from Moon, and Rahu in Lagna, one performs forbidden acts.",
+      "hindi_meaning": "सूर्य से ८वें चन्द्र, चन्द्र से ८वें बुध और लग्न में राहु होने पर जातक निषिद्ध कर्म करता है।"
+    },
+    {
+      "number": "१८",
+      "text": "सर्वे पापाः केन्द्रनीचारिसंस्थाः सौम्यर्दृष्टा रिःफरन्ध्रारियातः ।\nनिघ्नत्येते राजयोग्ं ग्रहेन्द्रा नीचारातिक्रूरषष्ठ्यंशकाश्च",
+      "english_meaning": "2nd lord in 6/8/12, 11th lord in 12, or fallen Lagna lord destroys wealth.",
+      "hindi_meaning": "द्वितीयेश ६/८/१२ में, एकादशेश १२वें में या लग्नेश नीच का होने पर धन का नाश होता है।"
+    },
+    {
+      "number": "१९",
+      "text": "केन्द्रस्थिता मन्दनिशाकरार्काः शुभैरदृष्टा यदि मद्यपायी ।\nक्रूरारिषष्ठ्यंशकनीचभागा दुष्कर्मयुक्तोऽन्यकलत्रगामी",
+      "english_meaning": "9th lord in 12th and 12th lord in Lagna aspected by malefics makes one a beggar.",
+      "hindi_meaning": "भाग्येश १२वें में और द्वादशेश लग्न में पाप दृष्ट होने पर जातक भिक्षुक होता है।"
+    },
+    {
+      "number": "२०",
+      "text": "नीचे भृगौ धर्मगते सपापे द्विजप्रहर्ता यदि पापदृष्टे ।\nव्यये शुभर्क्षेऽर्कसुतांशकस्थे भृगौ च दासीवरनन्दनः स्यात्",
+      "english_meaning": "Moon in 6/8 from Lagna aspected by malefics with a weak Lagna lord causes chronic disease and poverty.",
+      "hindi_meaning": "लग्न से ६ या ८वें में पाप दृष्ट चन्द्र और निर्बल लग्नेश असाध्य रोग तथा गरीबी देता है।"
+    },
+    {
+      "number": "२१",
+      "text": "अथ रेकायोगाः ।\nलग्नेशे बलवर्जिते परिभवस्थानाधिपेनेक्षिते\nसूर्योच्छन्नकरे पुरन्दरगुरौ रेकाख्ययोगो भवेत् ।\nबन्धुस्थानप्संयुतांशकपतौ तिग्मांशुलुप्तद्युतौ\nरिःफेशेन निरीक्षिते सति यदा योगस्तु रेकाडयः",
+      "english_meaning": "2nd and 11th lords in 6/8/12 and 9th lord in 8th house creates Daridra Yoga.",
+      "hindi_meaning": "द्वितीयेश-एकादशेश ६/८/१२ में और भाग्येश ८वें में होने पर दरिद्र योग बनता है।"
+    },
+    {
+      "number": "२२",
+      "text": "षष्थस्वामिनिरीक्षिते सुखपतौ रन्ध्रेशयुक्ते तथा\nमानेशे सुतगे विलग्नरमणे नीचं गते रेकभाक् ।\nरन्ध्रारिव्ययराशिगा यदि शुभाः केन्द्रत्रिकोणोपगाः\nपापा लाभगृहाधिपे च विबले रेकाभिशस्तो भवेत्",
+      "english_meaning": "Saturn in Lagna, Moon in 7th, and Jupiter in 6th makes one addicted to wine/meat and live lowly.",
+      "hindi_meaning": "लग्न में शनि, ७वें में चन्द्र और ६ठे में गुरु होने पर जातक मद्य-मांस सेवी और नीच होता है।"
+    },
+    {
+      "number": "२३",
+      "text": "होरशः खलसंयुतः सित गुरु चास्तं गतौ तद्वदेद्\nबन्धुस्थानपतिः शुभेतरयुतश्चास्तं गतो रेकदः ।\nभाग्यस्थानपतौ विकर्तनकरच्छत्ने विलग्नाधिपे\nनीचस्थे धनपे च नीचगृहगे रेकाभिधानो भवेत्",
+      "english_meaning": "Moon in malefic Navamsha aspected by malefics or dark Moon in 8th house nullifies Rajayogas.",
+      "hindi_meaning": "पाप नवांश में पाप दृष्ट चन्द्र या ८वें भाव में कृष्ण पक्ष का चन्द्र समस्त राजयोगों को नष्ट करता है।"
+    },
+    {
+      "number": "२४",
+      "text": "नीचस्था यदि वा दिनेशाकिरणच्छन्नास्त्रयो लग्नपे\nदुष्टस्थानगतेऽथवा गतब्ले योगस्तु रेकप्रदः ।\nहोरावित्तनवास्पदायसुखधीकामानुस्थाः खला-\nस्तस्यायुर्नवभागरेकफलदा नीचारिपापेक्षिताः",
+      "english_meaning": "Moon in 12th with malefics in Lagna and 7th indicates low birth or animal-like existence.",
+      "hindi_meaning": "१२वें में चन्द्र और लग्न-७वें में पाप ग्रह होने पर जन्म अति नीच या पशु तुल्य होता है।"
+    },
+    {
+      "number": "२५",
+      "text": "एकद्विकत्रिकस्वलद्यचरा नराणां कल्पेस्वेविक्रमगताः परतस्तथैव ।\nआदौ तु मध्यवयसि क्रमशस्तदन्त्ये रेकप्रदाः रिपुस्वलग्नहनीचदृष्टाः",
+      "english_meaning": "Sun in 10th, Saturn in Lagna, and Moon in 7th causes constant sorrow and lack of happiness.",
+      "hindi_meaning": "१०वें में सूर्य, लग्न में शनि और ७वें में चन्द्रमा जातक को सदैव दुखी और सुख विहीन रखता है।"
+    },
+    {
+      "number": "२६",
+      "text": "रेकायोगफलम् ।\nनिर्विद्यो विधनो दरिद्रसहितो रेकोद्भवः कामुकः\nक्रोधी दुःखितमानसो रुचिकरः सौभाग्यहीनः पटुः ।\nभिक्षाशी मलिनो विवादनिरतो मात्सर्यरोपान्वितो\nदेवब्राह्मणदूषकः प्रतिदिनं दारात्मजैर्निदितः",
+      "english_meaning": "Kemadruma Yoga: No planets (except Sun) in 2nd and 12th from Moon makes one poor even in royalty.",
+      "hindi_meaning": "चन्द्रमा से २रे व १२वें में कोई ग्रह न होने पर केमद्रुम योग होता है, जो राजकुल में भी दरिद्र बनाता है।"
+    },
+    {
+      "number": "२७",
+      "text": "दुष्टात्मा कुनखी कुमर्गनिरतो अभागायोगान्वितो\nबन्धूनामपकारदूषणपर्ः स्वल्पाधुराभिक्षुकः ।\nमृकोऽन्धो बधिरः प्रमत्तह्वद्यः कामाहुरो रोषवाण्\nपङ्गुर्नेत्रविकारभावसहितो रेकोद्भवः स्यान्नरः",
+      "english_meaning": "Kemadruma is nullified if planets are in quadrants from Lagna or Moon, bringing wealth.",
+      "hindi_meaning": "यदि लग्न या चन्द्र से केन्द्रों में ग्रह हों, तो केमद्रुम भंग होकर जातक धनवान होता है।"
+    },
+    {
+      "number": "२८",
+      "text": "अथ दरिद्रयोगाः ।\nभाग्येश्वरादतिबलो निधनेश्वरो वा लग्नाधिपस्त्रिदशनाथगुरुर्यदि स्यात् ।\nकेन्द्राद्वहिदिनकरस्य करामितप्तो लाभाधिपो यदि विहीनबलो दरिद्रः",
+      "english_meaning": "Mars in 10th, Saturn in Lagna, and Moon in 4th house makes one a servant to an evil master.",
+      "hindi_meaning": "१०वें में मंगल, लग्न में शनि और ४थे भाव में चन्द्रमा जातक को दुष्ट स्वामी का सेवक बनाता है।"
+    },
+    {
+      "number": "२९",
+      "text": "लाभारिव्ययरन्ध्रपुत्रगृहगा जीवारमन्देन्दुजा\nनीचस्थानगता यदा रविकरच्छन्नास्तदा भिक्षुकः ।\nभाग्यस्थानगतो दिनेशतनयः सौम्येतरैरीक्षितो\nलग्नस्थः शशिनन्दनो रवियुतो नीचांशगो भिक्षुक",
+      "english_meaning": "9th and 10th lords in 6/8 and Lagna lord in movable sign causes wandering in misery.",
+      "hindi_meaning": "९वें-१०वें के स्वामी ६/८ में हों और लग्नेश चर राशि में हो, तो जातक कष्टपूर्वक भटकता रहता है।"
+    },
+    {
+      "number": "३०",
+      "text": "जीवज्ञशुक्ररविनन्दनभूमिपुत्रा रन्ध्रारिरिःफसुरकर्मगता यदि स्यात् ।\nलग्नेश्वरादतिबली व्ययभावनाथो नीचस्थितो रविकराभिहितो दरिद्रः",
+      "english_meaning": "4th lord in 6/8 and 2nd lord with Rahu causes loss of paternal property and living in rentals.",
+      "hindi_meaning": "चतुर्थेश ६/८ में और द्वितीयेश राहु युक्त होने पर जातक पैतृक संपत्ति खोकर किराए के घर में रहता है।"
+    },
+    {
+      "number": "३१",
+      "text": "शुक्रार्यद्विजराजभूमितनया नीचस्थिता जन्मनि\nव्योमाये नवमे कलत्रतनये जातो दरिद्रो भवेत् ।\nलग्ने दानवपूजितेऽमरगुरौ पुत्रे धरानन्दने\nलाभे रात्रिकरे तृतीयभवने नीचं गते भिक्षुकः",
+      "english_meaning": "Rajayoga: Strong planets in exaltation, own signs, or friendly signs in quadrants/trines form Rajayogas.",
+      "hindi_meaning": "राजयोग: उच्च, स्वराशि या मित्र राशि के बलवान ग्रह केन्द्र-त्रिकोण में होने पर राजयोग बनाते हैं।"
+    },
+    {
+      "number": "३२",
+      "text": "लग्ने चरे चरनवांशगतेऽसितेन दृष्टे च नीचगुरुणा यदि भिक्षुकः स्यात् ।\nजातो विनाऽमरपुरोहितलग्नराशि जीवे रिपुव्ययगते तु भवेद्दरिद्रः",
+      "english_meaning": "Three or more exalted/own-sign planets in quadrants make one a king or equal to a king.",
+      "hindi_meaning": "तीन या अधिक उच्च/स्वराशि के ग्रह केन्द्रों में होने पर जातक राजा या राजा के समान होता है।"
+    },
+    {
+      "number": "३३",
+      "text": "जातः स्थिरे लग्नगते तु पापाः केन्द्रत्रिकोणोपगताश्च सर्वे ।\nकेन्द्राद्वहिःस्थानगतास्तु सौम्या भिक्षाशनः स्यात्परपोषितश्च",
+      "english_meaning": "One exalted planet in Lagna makes a ruler. Five exalted planets make a powerful emperor.",
+      "hindi_meaning": "लग्न में एक उच्च ग्रह शासक बनाता है। पाँच उच्च ग्रह होने पर चक्रवर्ती सम्राट होता है।"
+    },
+    {
+      "number": "३४",
+      "text": "चरे विलग्ने निशि सौम्यखेटस्त्रिकोणकेन्द्रोपगता नवीर्याः ।\nस्वलग्नहाः केन्द्रबहिःस्थिताश्चेद् भिक्षाशनं नित्यमुपैति जातः",
+      "english_meaning": "Full Moon in a quadrant (not Lagna) aspected by Jupiter or Venus creates a famous king.",
+      "hindi_meaning": "लग्न भिन्न केन्द्र में पूर्ण चन्द्र यदि गुरु-शुक्र दृष्ट हो, तो जातक यशस्वी राजा होता है।"
+    },
+    {
+      "number": "३५",
+      "text": "पापा नीचस्थानगाः पापकर्मा, सौम्या नीचस्थानगा गूढपापः ।\nजीवे नीचस्थानगे कर्मराशौ, नीचे भौमे मन्दनस्थे तथैव",
+      "english_meaning": "Lagna lord exalted in a quadrant aspected by 9th lord grants victory over enemies and rule.",
+      "hindi_meaning": "केन्द्रस्थ उच्च लग्नेश पर भाग्येश की दृष्टि शत्रुओं पर विजय और राज्य दिलाती है।"
+    },
+    {
+      "number": "३६",
+      "text": "नीचांशगस्तुङ्गगृहोपयाता जातस्य नीचं फलमाशु दद्युः ।\nनीचङ्गतास्तुङ्गनवांशकस्थाः सौम्यं फलं व्योमचराः प्रकुर्युः",
+      "english_meaning": "Venus in 4th (own/exaltation) and 9th lord in quadrant gives immense wealth and vehicles.",
+      "hindi_meaning": "स्व-उच्च का शुक्र ४थे में और भाग्येश केन्द्र में हो, तो जातक धनी और वाहन युक्त होता है।"
+    },
+    {
+      "number": "३७",
+      "text": "अथ दरिद्रयोगफलम् ।\nनिर्भाग्यो विलएन्द्रयो विषमढीर्दारात्मजैर्निन्दतो\nभिक्षाशी विषमस्थितो विषमवाक् शिश्रोदरे तत्परः ।\nअन्यायर्जनतत्परस्त्वनुदिनं मात्सर्यवाक् कण्टकी\nनित्यं त्यात्परदारसक्तहृदयो नीचोऽन्धमूको जडः",
+      "english_meaning": "Jupiter, Venus, and Mercury in quadrants with a strong 9th lord makes one a high minister.",
+      "hindi_meaning": "गुरु, शुक्र और बुध केन्द्र में तथा भाग्येश बलवान होने पर जातक उच्च राज्याधिकारी होता है।"
+    },
+    {
+      "number": "३८",
+      "text": "दारिद्रयोगे कलहप्रियः स्यात् कुष्टी परेषां हिरह्वत् कृतघ्नः ।\nवाचालको भूसुरभक्तिहीनः कुदारयुक्तः कुनस्वी च जातः",
+      "english_meaning": "Strong 9th lord in 10th and 10th lord in 9th makes a virtuous and famous king.",
+      "hindi_meaning": "बलवान भाग्येश १०वें और दशमेश ९वें में होने पर जातक धार्मिक और प्रसिद्ध राजा होता है।"
+    },
+    {
+      "number": "३९",
+      "text": "अथ प्रेष्ययोगाः ।\nमाने रवौ मन्मथगे निशीशे गेहे शनौ सोदरगे धराजे ।\nलग्ने चरे देवगुरौ धनस्थे जातो निशायां परकार्यकृत्स्यात्",
+      "english_meaning": "Conjunction/aspect between lords of quadrants and trines creates a powerful Rajayoga.",
+      "hindi_meaning": "केन्द्र और त्रिकोण के स्वामियों का संबंध शक्तिशाली राजयोग और समृद्धि देता है।"
+    },
+    {
+      "number": "४०",
+      "text": "धर्मे भृगौ कामगते मृगाङ्के वाचस्पतौ वित्तविलग्नपे वा ।\nरन्ध्रस्थिते भूतनये च कीर्त्या लग्ने स्थिरे प्रेष्यभवा भवन्ति",
+      "english_meaning": "Sun in 10th and Moon in 4th, or conjunction in 10th, makes one influential and respected.",
+      "hindi_meaning": "१०वें में सूर्य और ४थे में चन्द्र, या १०वें में युति होने पर जातक प्रभावशाली होता है।"
+    },
+    {
+      "number": "४२",
+      "text": "प्रेष्यश्चरोदयपतौ निशि सन्धियाते केन्द्रस्थिते यदि प्खलद्युच तु जातः\nमन्देन्दुजीवभृगुजा दिवि केन्द्रकोणे सन्धिस्थिताः स्थिरविलग्नयुते तथा स्यात् ।\nऐरावतांशेन्द्रगुरौ ससन्धौ शीतद्युतौ चोत्तमवर्गयुक्ते ।\nकेन्द्राद् वहिःस्थे निशि कृष्णपक्षे शुक्रे विलग्ने परकर्मजीवी",
+      "english_meaning": "10th lord in a movable sign aspected by Lagna lord makes one a royal servant or traveler.",
+      "hindi_meaning": "दशमेश चर राशि में लग्नेश दृष्ट होने पर जातक राजसेवक या यात्री होता है।"
+    },
+    {
+      "number": "४३",
+      "text": "प्रेष्यो भवेदरिसुखास्पदसन्धियाता भूपुत्रदेवगुरुवासरनायकाश्चेत् ।\nपापांशके शशिनि शोभनराशियुक्ते जीवे विलग्नपयुतेपरकार्यकृत्स्यात",
+      "english_meaning": "Exalted Mars in 10th aspected by Lagna lord makes one an army commander or police chief.",
+      "hindi_meaning": "१०वें का उच्च मंगल लग्नेश दृष्ट होने पर जातक सेनापति या आरक्षी प्रमुख होता है।"
+    },
+    {
+      "number": "४४",
+      "text": "मृगाननस्थे पुरुहूतवन्द्ये सपत्नभावाष्टमरिःफराशौ ।\nरसातलस्थे हिमगौ विलग्नाज्जातः परप्रेष्यमुपैति नित्यम्",
+      "english_meaning": "Mercury/Jupiter in Lagna/4th and Venus in 10th makes a learned king proficient in scriptures.",
+      "hindi_meaning": "बुध-गुरु १/४ में और शुक्र १०वें भाव में होने पर जातक शास्त्रों का ज्ञाता विद्वान राजा होता है।"
+    },
+    {
+      "number": "४५",
+      "text": "अथ प्रेष्ययोगफलम् ।\nपापात्मा कलहप्रियः काठिनवाह् भूदेवतादूषको\nविद्याभाग्यविहीनदुष्टरसिको मात्सर्यकोपान्वितः ।\nमिथ्यावादविनोदवञ्चनरतः शिश्नोदरे तत्परः\nकारुण्यास्थिरमानभङ्गिचतुरो योगे परप्रेष्यके",
+      "english_meaning": "Planets occupying the first four signs from Lagna form a yoga leading to enduring fame.",
+      "hindi_meaning": "लग्न से प्रथम चार राशियों में ग्रहों के होने पर अक्षय कीर्ति प्रदान करने वाला योग बनता है।"
+    },
+    {
+      "number": "४६",
+      "text": "अथ अङ्गहीनयोगाः ।\nमेषे वृषे चापधरे विलग्ने विकारदन्तो यदि पापदृष्टे ।\nमन्दे मन्दस्थेऽहियुते कुजे वा बलैर्विहीनेऽङ्गविहीनवान् स्यात्",
+      "english_meaning": "If 10th lord is in Lagna and Lagna lord is in 10th (mutual exchange), and both aspected by benefics, one rules many lands.",
+      "hindi_meaning": "दशमेश लग्न में और लग्नेश १०वें में हो तथा शुभ दृष्ट हो, तो जातक अनेक राज्यों पर शासन करता है।"
+    },
+    {
+      "number": "४७",
+      "text": "लग्नाद्दशमगश्चन्द्रः सप्तमस्थो धरासुतः ।\nद्वितीयस्थानगो भानुरङ्गहीनो भवेन्नरः",
+      "english_meaning": "Three planets in Moolatrikona and quadrants with a strong Lagna lord makes one a supreme ruler.",
+      "hindi_meaning": "तीन ग्रह मूलत्रिकोण और केन्द्र में हों तथा लग्नेश बलवान हो, तो जातक सर्वोच्च राजा होता है।"
+    },
+    {
+      "number": "४८",
+      "text": "त्रिकोणगे ज्ञे विबलैस्ततोऽपरैर्मुखाङ्घ्रिहस्तैर्द्विगुणैस्तदा भवेत् ।\nअवाग्गवीन्दावशुभैर्भसन्धिगैः शुभेक्षिते चेत् कुरुते गिरं चिरात्",
+      "english_meaning": "Jupiter and Moon in conjunction in a quadrant (Gajakesari) makes one wealthy, intelligent, and long-lived.",
+      "hindi_meaning": "केन्द्र में गुरु-चन्द्र की युति (गजकेसरी) जातक को धनी, बुद्धिमान और दीर्घायु बनाती है।"
+    },
+    {
+      "number": "४९",
+      "text": "सौम्य्र्क्षाशे रविजरुधिरौ चेत् सदन्तोऽत्र जातः\nकुब्जः स्वर्क्षे शशिनि तनुगे मन्दमाहेयदृष्टे ।\nपङ्गुर्मीने यमशशिकुजैर्वीक्षिते लग्नसंस्थे\nसन्धौ पापे शशिनि च जडः स्यान्न चेत्सौम्यदृष्टिः",
+      "english_meaning": "9th lord in 9th and 10th lord in 10th with benefics grants a very high social position.",
+      "hindi_meaning": "भाग्येश ९वें और दशमेश १०वें में शुभ ग्रहों के साथ होने पर जातक अत्यंत उच्च पद पाता है।"
+    },
+    {
+      "number": "५०",
+      "text": "सौरशशाङ्कदिवाकरदृष्टे वामनको मकरान्त्यविलग्ने ।\nधीनवमोदयगैश्च दृगाणैः पापयुतैरभुजाङ्घ्रिशिराः स्याट्",
+      "english_meaning": "Mutual exchange between 2nd and 11th lords brings immense wealth through royal favor.",
+      "hindi_meaning": "द्वितीयेश-एकादशेश का राशि परिवर्तन राजकृपा से अपार धन दिलाता है।"
+    },
+    {
+      "number": "५१",
+      "text": "लग्नद्रेक्काणगो भौमः सौरसूर्येन्दुवीक्षितः ।\nकुर्यद्विशिरसन्तद्वत् पञ्चमे बाहुवर्जितम्",
+      "english_meaning": "Exalted Sun (Aries), Moon (Taurus), and Mars (Capricorn) with one in Lagna makes a mighty king.",
+      "hindi_meaning": "मेष के सूर्य, वृष के चन्द्र और मकर के मंगल में से कोई एक लग्न में हो, तो जातक महान राजा होता है।"
+    },
+    {
+      "number": "५२",
+      "text": "रविशशियुते सिंहे लग्ने कुजार्किनिरीक्षिते\nनयनरहितः सौम्यासौम्यैः सबुद्बुदलोचनः ।\nव्ययगृहगतश्चन्द्रो वामं हिनस्त्यपरं रवि-\nर्न शुभगदिता योगा याप्या भवन्ति शुभेकिताः",
+      "english_meaning": "Exchange between 5th and 9th lords makes a virtuous king loved by his subjects.",
+      "hindi_meaning": "पंचमेश-भाग्येश का राशि परिवर्तन जातक को धर्मात्मा और प्रजाप्रिय राजा बनाता है।"
+    },
+    {
+      "number": "५३",
+      "text": "शूरः स्तब्धो मध्यदृष्टिर्विलग्ने मेषे स्वोच्चे रोगदृक् सिंहगेऽर्के ।\nरात्रावन्धस्तौलिगे निर्द्धनी स्यात् कर्किण्यर्के लग्नगे बुद्बुदाक्षः",
+      "english_meaning": "Exalted Mercury in 10th and Lagna lord with Jupiter ensures victory in all undertakings.",
+      "hindi_meaning": "१०वें का उच्च बुध और लग्नेश-गुरु की युति जातक को सर्वत्र विजयी बनाती है।"
+    },
+    {
+      "number": "५४",
+      "text": "व्यये रवीन्दूयुगपत् पृथक्स्थौ नेत्रे हरेतामपसव्यसव्ये ।\nषट्छिद्रगाश्चाक्षि हरन्ति सव्यं रिपौ दक्षिणमष्टमस्थाः",
+      "english_meaning": "Venus in 12th with a strong 12th lord brings boundless riches and comforts.",
+      "hindi_meaning": "१२वें का शुक्र और बलवान द्वादशेश जातक को असीमित धन और वैभव प्रदान करते हैं।"
+    },
+    {
+      "number": "५५",
+      "text": "विकर्तनो लग्नगतोऽस्तगो वा दिनेशपुत्राभियुतेक्षितश्चेत् ।\nतस्येक्षणं दक्षिणमाशु हन्यादहीक्षमासूनुयुतस्तु वामम्",
+      "english_meaning": "In a royal family, Moon aspected by all planets confirms kingship and protection of earth.",
+      "hindi_meaning": "राजकुल में जन्म और सभी ग्रहों द्वारा दृष्ट चन्द्रमा जातक को राजा बनाता है।"
+    },
+    {
+      "number": "५६",
+      "text": "दिनेशचन्द्रौ यदि रिष्फयातौ सपत्नरन्ध्रव्ययगास्त्वसौम्याः ।\nहन्यादरिस्थो नयनं हि वामं रन्ध्रस्थितो दक्षिणभागनेत्रम्",
+      "english_meaning": "Four planets in own signs and quadrants makes a king; five make a world-conqueror.",
+      "hindi_meaning": "चार स्वराशीय ग्रह केन्द्रों में हों तो राजा, पाँच हों तो विश्वविजेता होता है।"
+    },
+    {
+      "number": "५७",
+      "text": "कुजे धनेशे निधने रवीन्द्वोः शत्रुव्ययस्थानगते,अर्कजेऽन्धः ।\nरन्ध्रावसानारिते शशाङ्के शनौ सभौमे यदि नष्टनेत्रः",
+      "english_meaning": "Lagna lord with 4th lord in 4th aspected by Venus gives all comforts and royal happiness.",
+      "hindi_meaning": "४थे भाव में लग्नेश-चतुर्थेश की युति और शुक्र की दृष्टि समस्त राजसी सुख प्रदान करती है।"
+    },
+    {
+      "number": "५८",
+      "text": "षष्थे चन्द्रेऽष्टमे भौमे लग्नादन्त्यगतेऽर्क्कजे ।\nवित्तस्थानगते भौमे शक्रोऽप्यन्धो भवेद् ध्रुवम्",
+      "english_meaning": "Sun in 11th and 11th lord in quadrant from Sun brings worldwide fame.",
+      "hindi_meaning": "११वें का सूर्य और सूर्य से केन्द्रस्थ एकादशेश जातक को विश्वव्यापी कीर्ति दिलाता है।"
+    },
+    {
+      "number": "५९",
+      "text": "लग्नेश्वरेण सहिते यदि चित्तनाथे दुःस्थेऽक्षिनाशनमथास्फुजिदिन्दुयुक्ते ।\nनेत्रेश्वरे तनुगते यदि नैशिकोऽन्घः स्वोच्चे शुभग्रहयुते न तथा वदन्ति",
+      "english_meaning": "10th lord in a fixed sign aspected by Jupiter ensures a long and stable rule.",
+      "hindi_meaning": "स्थिर राशि का दशमेश यदि गुरु दृष्ट हो, तो जातक लंबे समय तक स्थिर शासन करता है।"
+    },
+    {
+      "number": "६०",
+      "text": "अथ रोगयोगाः ।\nराहौ विलग्ने सकुजेऽर्कपुत्रे साहौ बृहद्वीजमिवाहुएआर्याः ।\nलग्नेश्वरे मृत्युगते सराहौ रन्ध्रे समान्दौ च तथैव वाच्यम्",
+      "english_meaning": "Benefics in quadrants and malefics in 3/6/11 brings great respect from kings.",
+      "hindi_meaning": "केन्द्र में शुभ और ३/६/११ में पाप ग्रह होने पर जातक राजाओं द्वारा सम्मानित होता है।"
+    },
+    {
+      "number": "६१",
+      "text": "लग्ने सराहौ गुलिके त्रिकोणे रन्ध्रे कुजे मन्दयुते तथैव ।\nलग्नेश्वराक्रन्ततदंशनाथे राह्वारमान्द्यादियुते तथैव",
+      "english_meaning": "If Jupiter and Venus are in 9th and 9th lord is in a quadrant, the person rules over a vast country.",
+      "hindi_meaning": "९वें भाव में गुरु-शुक्र और भाग्येश केन्द्र में होने पर जातक विशाल देश का शासक होता है।"
+    },
+    {
+      "number": "६२",
+      "text": "लग्ने रवौ भूमिसुतेन दृष्टे गुल्मक्षयश्वासनिपीडितः स्यात् ।\nभौमे विलग्ने शानिसूर्यदृष्टे वसूरिरोगाभिहतो मनुष्यः",
+      "english_meaning": "Mars in 3/6 aspected by 10th lord makes one a valorous king who defeats all enemies.",
+      "hindi_meaning": "३रे/६ठे का मंगल यदि दशमेश दृष्ट हो, तो जातक शत्रुओं का दमन करने वाला प्रतापी राजा होता है।"
+    },
+    {
+      "number": "६३",
+      "text": "पापेक्षिते रविसुते धनराशियुक्ते पापान्विते शुनकभीतिमुपैति मर्त्यः ।\nतद्भावनाथसहिते दिननाथपुत्रे दृष्टेऽथ वा शुनकभीतिमुपैति जातः",
+      "english_meaning": "Lagna lord in a fixed sign aspected by Sun ensures a stable and respected kingdom.",
+      "hindi_meaning": "स्थिर राशि का लग्नेश यदि सूर्य दृष्ट हो, तो जातक का राज्य स्थिर और सम्मानित रहता है।"
+    },
+    {
+      "number": "६४",
+      "text": "वीर्यान्विते राहुसमेतराशिनाथान्विते राहुयुते विलग्ने ।\nसर्पाद् भयं विक्रमराशिनाथे बुधेन युक्ते गलरोगमेति",
+      "english_meaning": "Mercury in 2nd and Jupiter in quadrant makes one a gifted speaker and royal advisor.",
+      "hindi_meaning": "२रे में बुध और केन्द्र में गुरु जातक को कुशल वक्ता और राज-सलाहकार बनाते हैं।"
+    },
+    {
+      "number": "६५",
+      "text": "नीचे तृतीयेऽरिगृहे विभूढे पापेक्षिते तद्रलरोगवान् स्यात् ।\nविषप्रयोगाद्विषभक्षणाद्वा तेषामभावेऽर्थविनाशनार्थः",
+      "english_meaning": "4th lord with 11th lord in quadrant brings vast agricultural lands and prosperity.",
+      "hindi_meaning": "चतुर्थेश और एकादशेश की केन्द्र में युति जातक को कृषि भूमि और धान्य संपन्नता देती है।"
+    },
+    {
+      "number": "६६",
+      "text": "पापे तृतीये लग्नरोगमत्र वदन्ति चान्द्रादियुते विशेषात् ।\nभौमान्विते प्रेतपुरीशसूनौ तृतीयराशौ यदि कर्णरोगम्",
+      "english_meaning": "2nd lord in 10th and 10th lord with Jupiter makes one the controller of the state treasury.",
+      "hindi_meaning": "१०वें में द्वितीयेश और दशमेश-गुरु की युति जातक को राजकोष का स्वामी बनाती है।"
+    },
+    {
+      "number": "६७",
+      "text": "पापेक्षिते सोदरभे सपापे कर्णोद्भवं रोगमुपैति जातः ।\nक्रूराविषष्ट्यंशयुते तदीशे कर्णस्य रोगं कथयन्ति तज्ज्ञाः",
+      "english_meaning": "9th lord with Venus in 10th creates a charitable king who builds temples and gardens.",
+      "hindi_meaning": "भाग्येश-शुक्र की १०वें भाव में युति जातक को धार्मिक और दानी राजा बनाती है।"
+    },
+    {
+      "number": "६८",
+      "text": "पैतोल्बणं याति रवौ रिपुस्थे पापेक्षिते पापमन्विते च ।\nभानौ सरन्ध्रे विबले धराजे पापे धनस्थे तु तथैव वाच्यम्",
+      "english_meaning": "Saturn in own sign in 9th or 10th makes one a just ruler who upholds the law.",
+      "hindi_meaning": "९वें या १०वें में स्वराशीय शनि जातक को न्यायप्रिय और धर्मनिष्ठ शासक बनाता है।"
+    },
+    {
+      "number": "६९",
+      "text": "श्लेष्माभयं बुधयुतेऽवनिजे रिपुस्थे क्रुरांशके यदि सितेन्दुसमीक्षिते च ।\nपापेक्षितेऽवनिसुते निधनोपयाते केतौ धनाष्टमगते व्रणरोगमेति",
+      "english_meaning": "Moon in Cancer and Jupiter in Lagna makes one a kind-hearted protector of the people.",
+      "hindi_meaning": "कर्क के चन्द्र और लग्नस्थ गुरु होने पर जातक प्रजा का दयालु रक्षक होता है।"
+    },
+    {
+      "number": "७०",
+      "text": "षष्ठेश्वरे पापयुते विलग्ने रन्ध्रस्थिते वा व्रणयुकशरीरः ।\nकर्मस्थिते ताद्दशखेचरेन्द्रे व्रणाक्कितः स्याच्छुभदृग्विहीने",
+      "english_meaning": "Rahu in 11th and 11th lord with Sun helps gain a vast empire through diplomacy.",
+      "hindi_meaning": "११वें का राहु और एकादशेश-सूर्य की युति कूटनीति से विशाल साम्राज्य दिलाती है।"
+    },
+    {
+      "number": "७१",
+      "text": "लग्नेशभूपुत्रशशाङ्लपुत्राः सह स्थितः सौम्यतरान्य्भावाः ।\nअपानरोगं स्व्थवाऽपवित्रं पश्यन्ति षष्ठं मुनयो व्दन्ति",
+      "english_meaning": "9th lord in a quadrant and Jupiter in 9th makes one deeply religious and famous.",
+      "hindi_meaning": "केन्द्रस्थ भाग्येश और ९वें भाव में गुरु जातक को अत्यंत धार्मिक और यशस्वी बनाते हैं।"
+    },
+    {
+      "number": "७२",
+      "text": "लग्नेशषष्ठाधिपती दिनेशयुक्तौ ज्वरं चन्द्रसमन्वितौ चेत् ।\nजलप्रमादं क्षितिसूनुयुक्तौ युद्धेन वा स्फोटकराशिभिर्वा",
+      "english_meaning": "Sun in 10th and Mars in 11th ensures victory in battles and wars.",
+      "hindi_meaning": "१०वें में सूर्य और ११वें में मंगल जातक को युद्धों में सदैव विजयी बनाते हैं।"
+    },
+    {
+      "number": "७३",
+      "text": "पित्तात्प्रमादं यदि सौम्ययुक्तौ निर्व्याधिकः सूरसमन्वितौ चेत् ।\nशुक्रेण भार्याविपदं वदन्ति मन्देन नीचानिलरोगमाहुः",
+      "english_meaning": "Exalted 10th lord aspected by several planets makes one a ruler over subordinate kings.",
+      "hindi_meaning": "उच्च का दशमेश यदि अनेक ग्रहों से दृष्ट हो, तो जातक राजाओं का राजा (अधिराज) होता है।"
+    },
+    {
+      "number": "७४",
+      "text": "सराहुकेतु यदि सर्पपीडां चोरादिभिर्भीभिर्तिमुपैति जातः ।\nकेन्द्रत्रिकोणे यदि साहिकेतू वदन्ति तज्ज्ञा निगलं तदानीम्",
+      "english_meaning": "Venus in own sign in a quadrant and Lagna lord in 9th brings world-wide fame.",
+      "hindi_meaning": "केन्द्र में स्वराशि का शुक्र और ९वें में लग्नेश जातक को विश्वविख्यात बनाते हैं।"
+    },
+    {
+      "number": "७५",
+      "text": "षष्ठेश्वरश्चन्द्रसुतेन युक्तः सागुविलग्ने स्वयमत्र शिश्नम् ।\nछिनत्त्यसौ सौम्यद्दशा विहीनः सभूमिपुत्रो यदि लिङ्गरोगी",
+      "english_meaning": "Malefics in 10th and a weak/fallen 10th lord causes a short or disgraceful end to rule.",
+      "hindi_meaning": "१०वें में पाप ग्रह और निर्बल दशमेश शासन का अपमानजनक अंत करते हैं।"
+    },
+    {
+      "number": "७६",
+      "text": "कामेश्वरः शुक्रयुतो रिपुस्थः कलत्रषण्ढत्वभुदीरयन्ति ।\nषष्ठेशलग्नाधिपती समन्दौ केन्द्रत्रिकोणे यदि बन्धनं स्यात्",
+      "english_meaning": "4th lord in 12th and 12th lord in quadrant with malefics causes loss of kingdom and flight.",
+      "hindi_meaning": "चतुर्थेश १२वें में और द्वादशेश पापों सहित केन्द्र में होने पर राज्य नाश और पलायन होता है।"
+    },
+    {
+      "number": "७७",
+      "text": "चरे विलग्ने रिपुनाथदृष्टेकुजे च लाभे स्थिरगे च धर्मे ।\nद्वन्द्वेऽस्तराशौ प्रवदेन्नराणां रोगं रिपूणां कृतमाभिचारम्",
+      "english_meaning": "6th lord in 10th aspected by strong Mars indicates constant threat from powerful enemies.",
+      "hindi_meaning": "१०वें का षष्ठेश यदि बली मंगल द्वारा दृष्ट हो, तो शासन प्रबल शत्रुओं से संकटग्रस्त रहता है।"
+    },
+    {
+      "number": "७८",
+      "text": "जीवे समन्दे दशमेअर्धचन्द्र् वैकल्यभङ्गे क्षितिजे कलत्रे ।\nदिनेशचन्द्रौ रविराशियुक्तौ चन्द्रर्क्षगौ वा यदि शोषणं स्यात्",
+      "english_meaning": "4th and 8th lords with Rahu leads to internal rebellion and betrayal by ones own people.",
+      "hindi_meaning": "४थे-८वें के स्वामियों का राहु से युति आंतरिक विद्रोह और अपनों से विश्वासघात दिलाती है।"
+    },
+    {
+      "number": "७९",
+      "text": "लग्ने रवौ भूमिसुते कलत्रे सून्मादभाक् तत्र नरो हि जातः ।\nउन्मादबुधिं समुपैति लग्ने शनौ कलत्रे सकुजे त्रिकोणे",
+      "english_meaning": "Lagna lord aspected by its dispositor helps regain even a lost kingdom.",
+      "hindi_meaning": "लग्नेश को उसकी राशि का स्वामी देखे, तो खोया हुआ राज्य भी पुनः प्राप्त हो जाता है।"
+    },
+    {
+      "number": "८०",
+      "text": "लग्नत्रिकोणे दिननाथचन्द्रौ शौर्ये गुरौ केन्द्रसमन्विते वा ।\nसोन्मादबुद्धिः स भवेत्तदानीं शरासनादौ यदि जन्मलग्ने",
+      "english_meaning": "5th lord in a quadrant and Lagna lord in 5th house ensures long-lasting hereditary rule.",
+      "hindi_meaning": "पंचमेश केन्द्र में और लग्नेश ५वें भाव में होने पर वंश कई पीढ़ियों तक शासन करता है।"
+    },
+    {
+      "number": "८१",
+      "text": "कन्द्रस्थितौ सौम्यनिशाक्रौ वा सौम्यांशहीनौ भ्रमसंयुतः स्यात् ।\nकेन्द्रस्थिता मन्दनिशाकरार्का जडो भवेदत्र मधूपभोक्ता",
+      "english_meaning": "9th lord in a movable sign and 12th lord in 9th makes one a ruler of foreign lands.",
+      "hindi_meaning": "चर राशि का भाग्येश और ९वें में द्वादशेश होने पर जातक विदेशी भूमि पर शासन करता है।"
+    },
+    {
+      "number": "८२",
+      "text": "कुलीरकुम्भालिनवांशयुक्ते चन्द्रे समन्दे यदि गुह्यरोगी ।\nचन्द्रे सुखे तद्भवनांशयुक्ते पापान्विते स्याद्यदि कुण्ठरोगी",
+      "english_meaning": "Jupiter in 11th aspected by 2nd lord makes the kings subjects wealthy and prosperous.",
+      "hindi_meaning": "११वें का गुरु यदि द्वितीयेश दृष्ट हो, तो राजा की प्रजा अत्यंत धनी और सुखी होती है।"
+    },
+    {
+      "number": "८३",
+      "text": "चन्द्रे सपापे फणिनाथयुक्ते रिःफे सुते रन्ध्रगतेऽथवाऽपि ।\nजन्मादभक् तत्र सरोषयुक्तो जातस्तु नित्यं कलहप्रियः स्यात्",
+      "english_meaning": "Exalted 3rd lord and 6th lord in 12th house makes one a fearless, undefeated king.",
+      "hindi_meaning": "उच्च का तृतीयेश और १२वें में षष्ठेश जातक को निर्भय और अजेय राजा बनाते हैं।"
+    },
+    {
+      "number": "८४",
+      "text": "चन्द्रेव्यये वा यदि वासुरेशे मन्दे त्रिकोणे मदरन्ध्रगेऽर्के ।\nदन्ताक्षिरोगी च भवेत्तदानी नीचारिपापांशगतास्तथैव",
+      "english_meaning": "Lords of 2nd, 9th, and 11th in quadrants brings wealth comparable to that of Kubera.",
+      "hindi_meaning": "२, ९ और ११वें के स्वामी केन्द्रों में होने पर जातक कुबेर के समान धनी होता है।"
+    },
+    {
+      "number": "८५",
+      "text": "सुताम्बुगौ पापखगौ विशेषाच्चेदष्टरिःफारिगतेऽन्धता स्यात् ।\nशुभग्रहाणामवलोकहीने चान्धो भवत्येव शुभैर्न दोषः",
+      "english_meaning": "Moon in 9th aspected by several planets grants royal flags and elephant vehicles.",
+      "hindi_meaning": "९वें भाव में अनेक ग्रहों द्वारा दृष्ट चन्द्रमा राजसी वैभव और वाहन प्रदान करता है।"
+    },
+    {
+      "number": "८६",
+      "text": "हित्वा लग्नपति विलग्नसहितेष्वन्त्येषु कुष्ठं वदेत्\nनीलं भानुसुते तु चण्डकिरणे रक्तं सितं भूमिजे ।\nमन्देन क्षितिजेन वा यदि युते कर्क्यन्त्यनक्रांशके\nकेन्द्रे शोभनयोगदृष्टिरहिते कुष्टं वदेद् देहिनाम्",
+      "english_meaning": "10th lord in own sign in quadrant aspected by Lagna lord grants everlasting fame.",
+      "hindi_meaning": "स्वराशीय दशमेश केन्द्र में यदि लग्नेश दृष्ट हो, तो जातक की कीर्ति अमर हो जाती है।"
+    },
+    {
+      "number": "८७",
+      "text": "पापान्विते शशिनि रन्ध्रपलग्नराशौ सर्पेक्षिते निधनपे यदि गुह्यरोगी ।\nरन्ध्रे चतुस्त्रितयपापयुते तथैव सौम्यग्रहेण सहिते यदि रोगहीनः",
+      "english_meaning": "All planets in the first seven houses make a benefactor who builds schools and hospitals.",
+      "hindi_meaning": "सभी ग्रहों के प्रथम सात भावों में होने पर जातक परोपकारी और लोक-कल्याणकारी होता है।"
+    },
+    {
+      "number": "८८",
+      "text": "जलचरगृहरोगेन्दौ तत्पतौ षष्ठ्याते जलगृहगतखेटैरीक्षिते मूत्रकृच्छम् ।\nपरिभवरिपुयाते शीतगौ भौमदृष्टे रविसुतयुतलग्ने शोणितं रोगमेति",
+      "english_meaning": "5th lord in 8th and Lagna lord with malefics indicates the end of the kings dynasty.",
+      "hindi_meaning": "पंचमेश ८वें में और लग्नेश पापों के साथ होने पर राजा के साथ ही वंश का अंत हो जाता है।"
+    },
+    {
+      "number": "८९",
+      "text": "क्षीणे मन्दगृहोदये हिमकरे पापग्रहैरन्विते\nरन्ध्रारातिगतेऽथवा पवनकृद् गुल्मादिरोगं वदेत् ।\nचन्द्रे पापवियच्चरान्तरंगते मन्दे मदस्थानगे\nजातो विद्रधिजन्मशोषजनितैः सन्तप्तदेहो भवेत्",
+      "english_meaning": "9th and 10th lords together in 12th house makes one a spiritual or sage-like ruler.",
+      "hindi_meaning": "९वें और १०वें के स्वामियों की १२वें भाव में युति जातक को आध्यात्मिक या ऋषितुल्य शासक बनाती है।"
+    },
+    {
+      "number": "९०",
+      "text": "अजीर्णगुल्मामयशूलमेति कुजे विलग्ने विबलेऽरिनाथे ।\nलग्ने सपापे फणिनायके वा मन्देऽष्टमे कुक्षिरुगदितः स्यात्",
+      "english_meaning": "Exalted 8th lord in 2nd house brings sudden gain of a kingdom or wealth through legacy.",
+      "hindi_meaning": "२रे भाव में उच्च का अष्टमेश अचानक राज्य या पैतृक संपत्ति का लाभ कराता है।"
+    },
+    {
+      "number": "९१",
+      "text": "ह्वच्छुलरोगमुपयाति सुखे फणीशे पापेक्षिते गतबले यदि लग्ननाथे ।\nशूलाभयं तनुपतौ रिपुनीचराशौ भौमे सुखे रविसुते यदि पापदृष्टे",
+      "english_meaning": "If 10th lord is in its own sign and aspected by 11th lord, one rules for life without interruption.",
+      "hindi_meaning": "स्वराशीय दशमेश यदि एकादशेश दृष्ट हो, तो जातक जीवन भर निर्बाध शासन करता है।"
+    },
+    {
+      "number": "९२",
+      "text": "जातो भुक्तिविरोधरेगनिहतो रन्ध्रेश्वरे दुर्बले\nलग्ने पापनिरीक्षिते परिभवस्ताने समन्देक्षिते ।\nवान्तिभ्रान्तिजपाण्डुमेति सकुजे चन्द्रे रिपुस्थान्गे\nजातः शूलविसर्पमेति दिनकृच्चन्द्रारयुक्ते यदा",
+      "english_meaning": "11th lord in a quadrant aspected by 10th lord ensures support from other rulers.",
+      "hindi_meaning": "केन्द्रस्थ एकादशेश यदि दशमेश दृष्ट हो, तो अन्य राजाओं का सहयोग प्राप्त होता है।"
+    },
+    {
+      "number": "९३",
+      "text": "आरेक्षिते यदि विलग्नगृहेऽरिनाथे भानेऽथवाऽस्ततनुगे कृतमाभिचारम् ।\nलग्नाधिपेन सहितेऽवनिजे विलग्ने केन्द्रेऽथवा रिपुपतौ तनुगे तथा स्यात्",
+      "english_meaning": "Moon with Jupiter in a benefic sign and quadrant indicates noble parentage.",
+      "hindi_meaning": "शुभ राशि के केन्द्र में गुरु-चन्द्र की युति उच्च कुल में जन्म सूचित करती है।"
+    },
+    {
+      "number": "९४",
+      "text": "जातो निर्जरदर्शनेन जनितं रोगं सुखस्थानगे\nमाने लग्नगतेऽथवाऽमरगुरौ केन्द्रे समन्दात्मजे ।\nमन्देऽस्ते चरलग्नगे यदि शुभे पापेक्षिते शीतगौ\nभूतप्रेतपिशाचदर्शनवशाद् रोगं समेति ध्रुवम्",
+      "english_meaning": "5th lord with Mercury in a quadrant makes a king known for wisdom and strategy.",
+      "hindi_meaning": "केन्द्र में पंचमेश-बुध की युति जातक को बुद्धिमान और रणनीतिक राजा बनाती है।"
+    },
+    {
+      "number": "९५",
+      "text": "चन्द्रे पापनिरीक्षिते रिपुगते पापान्विते वातजम्\nजातः शोणितपित्तमेति वसुधापुत्रे तथाऽस्ते सति ।\nसौम्ये वातकफाभयं भृगुसुते मूलातिसारं तथा\nमन्दे गुल्ममुपैति राहुशिखिनोः पैशाचरोगं वदेत्",
+      "english_meaning": "Venus in 10th aspected by Moon makes a king who is a patron of arts and literature.",
+      "hindi_meaning": "१०वें का शुक्र यदि चन्द्र दृष्ट हो, तो राजा कला और साहित्य का संरक्षक होता है।"
+    },
+    {
+      "number": "९६",
+      "text": "कासश्वासक्षयजनिरुजं भानुभौमाहिदृष्टे\nषष्ठे सौरे गुलिकसहिते सौम्यदृग्योगहीने ।\nरिःफे पापे शशिनि रिपुगे मानुजे रन्ध्रयाते\nपापांशस्थे तनुगृहपतौ मीनसं रोगमेति",
+      "english_meaning": "Mars in 10th and Sun in Lagna makes a person conquer the earth with valor.",
+      "hindi_meaning": "१०वें में मंगल और लग्न में सूर्य होने पर जातक पराक्रम से पृथ्वी जीत लेता है।"
+    },
+    {
+      "number": "९७",
+      "text": "मन्दे कुलीरभवनोपगते मृगस्थे चन्द्रे जलोदररुजं समुपैति जातः ।\nसारे शनौ रिपुगते रविराहुदृष्टे लग्नाधिपे च विबले सति दीर्घरोगी",
+      "english_meaning": "Jupiter in 10th aspected by Moon makes a merciful king who protects the weak.",
+      "hindi_meaning": "१०वें का गुरु यदि चन्द्र दृष्ट हो, तो राजा दयालु और प्रजा रक्षक होता है।"
+    },
+    {
+      "number": "९८",
+      "text": "हस्वः कुजे निजगृहे सुखविक्रमस्थे चन्द्रात्मजे रविसुते यदि लग्नगे स्यात् ।\nस्वर्क्षे कुजे सुखसहोदरगेन्दुसूनौ होरधिपे शनियुते तु तथा वदन्ति",
+      "english_meaning": "Exalted 9th lord in 10th house makes one the most fortunate king of his time.",
+      "hindi_meaning": "१०वें भाव में उच्च का भाग्येश जातक को अत्यंत भाग्यशाली राजा बनाता है।"
+    },
+    {
+      "number": "९९",
+      "text": "अथ होरायाम् ।\nलग्नाद्व्ययारिगतयोः शशितिग्मरश्म्योः पत्न्या सहैकनयनस्य वदन्ति जन्म ।\nद्यूनस्थयोर्नवमपञ्चमसंस्थयोर्वा शुक्रार्कयोर्विकलदारभुशन्ति जातम्",
+      "english_meaning": "8th lord in quadrant and Lagna lord in 8th indicates death in battle or heroic manner.",
+      "hindi_meaning": "केन्द्रस्थ अष्टमेश और ८वें में लग्नेश युद्ध में वीरगति या गौरवशाली मृत्यु सूचित करते हैं।"
+    },
+    {
+      "number": "१००",
+      "text": "नवमायतृतीयधीयुता न च सौम्यैरशुभा निरीक्षिताः ।\nनिथमाच्छवणोपघातदा रदवैकृत्यकराश्च सप्तमे",
+      "english_meaning": "9th lord with Jupiter in Lagna indicates divine support or blessing.",
+      "hindi_meaning": "लग्न में भाग्येश-गुरु की युति जातक पर विशेष दैवीय कृपा सूचित करती है।"
+    },
+    {
+      "number": "१०१",
+      "text": "वर्गोत्तमादिशुभवर्गयुतेऽमरेज्ये लग्ने रसातलगते यदि वा बलाध्ये ।\nवित्तायवृद्धिगृहगेषु वियच्चरेषु लग्नाधिपे बलयुते सुखमेति जातः",
+      "english_meaning": "11th lord in own sign aspected by Jupiter makes subjects extremely wealthy and happy.",
+      "hindi_meaning": "स्वराशीय एकादशेश यदि गुरु दृष्ट हो, तो प्रजा अत्यंत धनी और सुखी होती है।"
+    },
+    {
+      "number": "१०२",
+      "text": "ये जातभङ्गा नृपयोगभङ्गाः प्रेष्या दरिद्राङ्गविहीनरेकाः ।\nये रोगभेदाः परिकीर्तितास्ते सूर्यादिसर्वद्युचरप्रसादात्",
+      "english_meaning": "Thus are described the combinations for nullification of yogas and royal power.",
+      "hindi_meaning": "इस प्रकार योग भंग और राजयोग प्राप्ति के योगों का वर्णन किया गया है।"
+    },
+    {
+      "number": "६",
+      "text": "इति वैद्यनाथविरचिते जातकपारिजाते जातकभङ्गास्थे षष्ठाध्यायः",
+      "english_meaning": "End of Chapter 6: Jatakabhanga-Rajayogadhyaya in Jataka Parijatah composed by Vaidyanatha.",
+      "hindi_meaning": "इति श्रीवैद्यनाथदीक्षितविरचिते जातकपारिजाते जातकभङ्ग-राजयोगाध्यायः षष्ठोऽध्यायः समाप्तः।"
+    }
+  ]
+}

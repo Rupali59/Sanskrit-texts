@@ -1,0 +1,282 @@
+{
+  "source_file": "BPHS0110.md",
+  "source_chunk": "BPHS0110.json",
+  "chunk_index": 8,
+  "chapter": 9,
+  "variant": null,
+  "title": "अथारिष्टाध्यायः",
+  "shloka_count": 45,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "आदौ जन्माङ्गतो विप्र रिष्टाऽरिष्टं विचारयेत् ।\nततस्तन्वादिभावानां जातकस्य फलं वदेत्",
+      "english_meaning": "First, O Sage, consider the Arishta (misfortunes) and Anarishta (auspiciousness) from the birth chart. Only then should you declare the results of the body (Lagna) and other houses for the native.",
+      "hindi_meaning": "हे विप्र! पहले जन्मकुण्डली से अरिष्ट और अनरिष्ट का विचार करना चाहिए। उसके बाद ही जातक के तनु (लग्न) आदि भावों का फल कहना चाहिए।"
+    },
+    {
+      "number": 2,
+      "text": "चतुर्विंशतिवर्षाणि यावद् गच्छन्ति जन्मतः ।\nजन्मारिष्टं तु तावत् स्यादायुर्दायं न चिन्तयेत्",
+      "english_meaning": "Up to twenty-four years from birth, Balarishta (infant/childhood mortality risk) can manifest; during this period, one should not predict the full lifespan (Ayurdaya).",
+      "hindi_meaning": "जन्म से लेकर चौबीस वर्ष की आयु तक 'जन्मारिष्ट' (बालारिष्ट) रह सकता है; इस अवधि में पूर्ण आयु (आयुर्दाय) का विचार नहीं करना चाहिए।"
+    },
+    {
+      "number": 3,
+      "text": "षष्ठाष्टरिष्फगश्चन्द्रः क्रूरैः खेटैश्च वीक्षितः ।\nजातस्य मृत्युदः सद्यस्त्वष्टर्षैः शुभेक्षितः",
+      "english_meaning": "If the Moon is in the 6th, 8th, or 12th house and aspected by cruel (malefic) planets, it causes immediate death. However, if aspected by benefics, the child may survive up to eight years.",
+      "hindi_meaning": "यदि चन्द्रमा ६, ८ या १२वें भाव में हो और क्रूर ग्रहों से दृष्ट हो, तो वह शीघ्र मृत्यु देता है। किन्तु यदि शुभ ग्रहों से दृष्ट हो, तो आठ वर्षों तक का अरिष्ट हो सकता है (या रक्षा हो सकती है)।"
+    },
+    {
+      "number": 4,
+      "text": "शशिवन्मृत्युदाः सौम्याश्चेद्वक्राः क्रूरवीक्षिताः ।\nशिशोर्जातस्य मासेन लग्ने सौम्यविवर्जिते",
+      "english_meaning": "Like the Moon, retrograde benefics aspected by cruel planets cause death within a month if the Lagna is devoid of any benefic influence.",
+      "hindi_meaning": "चन्द्रमा की भाँति, यदि वक्री शुभ ग्रह क्रूर ग्रहों से दृष्ट हों और लग्न शुभ ग्रहों से रहित हो, तो जन्म के एक मास के भीतर शिशु की मृत्यु हो जाती है।"
+    },
+    {
+      "number": 5,
+      "text": "यस्य जन्मनि धीस्थाः स्युः सूर्यार्कीन्दुकुजाभधाः ।\nतस्य त्वाशु जनित्री च भ्राता च निधनं व्रजेत्",
+      "english_meaning": "If the Sun, Saturn, Moon, and Mars are in the 5th house at birth, both the mother and the newborn's brother will meet their end quickly.",
+      "hindi_meaning": "जिसके जन्म के समय सूर्य, शनि, चन्द्रमा और मंगल पाँचवें भाव (धी स्थान) में हों, उसकी माता और भाई की शीघ्र मृत्यु हो जाती है।"
+    },
+    {
+      "number": 6,
+      "text": "पापेक्षितो युतो भौमो लग्नगो न शुभेक्षितः ।\nमृत्युदस्त्वष्टमस्थोऽपि सौरेणार्केण वा युतः",
+      "english_meaning": "Mars in the Lagna, associated with or aspected by malefics and not aspected by benefics, causes death. Similarly, if Mars is in the 8th house associated with Saturn or the Sun, it is fatal.",
+      "hindi_meaning": "पाप ग्रहों से युक्त या दृष्ट मंगल यदि लग्न में हो और शुभ ग्रहों से दृष्ट न हो, तो मृत्युदायक होता है। इसी प्रकार यदि मंगल ८वें भाव में शनि या सूर्य के साथ हो, तो भी मृत्यु देता है।"
+    },
+    {
+      "number": 7,
+      "text": "चन्द्रसूर्यग्रहे राहुश्चन्द्रसूर्ययुतो यदि ।\nसौरिभौमेक्षितं लग्नं पक्षमेकं स जीवति",
+      "english_meaning": "If birth occurs during an eclipse with Rahu joined with the Moon or Sun, and the Lagna is aspected by Saturn and Mars, the child survives for only one fortnight (15 days).",
+      "hindi_meaning": "यदि चन्द्र या सूर्य ग्रहण के समय राहु चन्द्र या सूर्य के साथ हो और लग्न शनि तथा मंगल से दृष्ट हो, तो बालक केवल एक पक्ष (१५ दिन) ही जीवित रहता है।"
+    },
+    {
+      "number": 8,
+      "text": "कर्मस्थाने स्थितः सौरिः शत्रुस्थाने कलानिधिः ।\nक्षितिजः सप्तमस्थाने सह मात्रा विपद्यते",
+      "english_meaning": "Saturn in the 10th, Moon in the 6th, and Mars in the 7th house causes the child to perish along with the mother.",
+      "hindi_meaning": "दशम भाव में शनि, छठे भाव में चन्द्रमा और सातवें भाव में मंगल हो, तो बालक माता सहित मृत्यु को प्राप्त होता है।"
+    },
+    {
+      "number": 9,
+      "text": "लग्ने भास्करपुत्रश्च निधने चन्द्रमा यदि ।\nतृतीयस्थो यदा जीवः स याति यममन्दिरम्",
+      "english_meaning": "If Saturn is in the Lagna, Moon in the 8th house, and Jupiter is in the 3rd house, the native goes to the abode of Yama (dies).",
+      "hindi_meaning": "यदि लग्न में शनि, ८वें भाव में चन्द्रमा और ३रे भाव में गुरु हो, तो जातक यमराज के घर जाता है (मृत्यु होती है)।"
+    },
+    {
+      "number": 10,
+      "text": "होरायां नवमे सूर्यः सप्तमस्थः शनैश्चरः ।\nएकादशे गुरुः शुक्रो मासमेकं स जीवति",
+      "english_meaning": "Sun in the 9th, Saturn in the 7th, and Jupiter and Venus in the 11th house from Lagna cause the child to live for only one month.",
+      "hindi_meaning": "सूर्य ९वें भाव में, शनि ७वें भाव में तथा गुरु और शुक्र ११वें भाव में हों, तो बालक केवल एक मास ही जीवित रहता है।"
+    },
+    {
+      "number": 11,
+      "text": "व्यये सर्वे ग्रहा नेष्टाः सूर्यशुक्रेन्दुराहवः ।\nविशेषान्नाशकर्तारो दृष्ट्या वा भङ्गकारिणः",
+      "english_meaning": "All planets in the 12th house are undesirable. Specifically, the Sun, Venus, Moon, and Rahu cause destruction by their placement or aspect.",
+      "hindi_meaning": "१२वें भाव में सभी ग्रह अशुभ होते हैं। विशेष रूप से सूर्य, शुक्र, चन्द्रमा और राहु अपनी स्थिति या दृष्टि से विनाश करने वाले होते हैं।"
+    },
+    {
+      "number": 12,
+      "text": "पापान्वितः शशी धर्मे द्यूनलग्नगतो यदि ।\nशुभैरवेक्षितयुतस्तदा मृत्युप्रदः शिशोः",
+      "english_meaning": "If the Moon is in the 9th, 7th, or Lagna and is associated with malefics while not being aspected by benefics, it causes death for the child.",
+      "hindi_meaning": "यदि चन्द्रमा ९वें, ७वें या लग्न में हो और पाप ग्रहों से युक्त हो तथा शुभ ग्रहों से दृष्ट न हो, तो वह शिशु के लिए मृत्युप्रद होता है।"
+    },
+    {
+      "number": 13,
+      "text": "सन्ध्यायां चन्द्रहोरायां गण्डान्ते निधनाय वै ।\nप्रत्येकं चन्द्रपापैश्च केन्द्रगैः स्याद्विनाशनम्",
+      "english_meaning": "Birth during twilight in the Moon's hora and at the end of Gandanta leads to death. Also, if the Moon and malefics are in Kendras, it causes destruction.",
+      "hindi_meaning": "सन्ध्या काल में, चन्द्रमा की होरा में और गण्डान्त (राशियों के मिलन बिंदु) के अन्त में जन्म मृत्युकारक होता है। साथ ही चन्द्रमा और पाप ग्रहों के केन्द्र में होने से भी विनाश होता है।"
+    },
+    {
+      "number": 14,
+      "text": "रवेस्तु मण्डलार्द्धास्तात् सायं संध्या त्रिनाडिका ।\nतथैवार्द्धोदयात् पूर्वं प्रातः संध्या त्रिनाडिका",
+      "english_meaning": "Evening twilight (Sandhya) is defined as three Nadis (approx. 72 mins) from the setting of half of the Sun's orb. Similarly, morning twilight is three Nadis before half-sunrise.",
+      "hindi_meaning": "सूर्य के आधे मण्डल के अस्त होने से ३ नाड़ी (लगभग ७२ मिनट) तक सायं सन्ध्या होती है। इसी प्रकार सूर्य के आधे उदय से पूर्व ३ नाड़ी तक प्रातः सन्ध्या होती है।"
+    },
+    {
+      "number": 15,
+      "text": "चक्रपूर्वापरार्द्धेषु क्रूरसौम्येषु कीटभे ।\nलग्नगे निधनं याति नाऽत्र कार्या विचारणा",
+      "english_meaning": "If malefics and benefics are respectively in the first and second halves of the zodiac, and Scorpio (Keeta) is in the Lagna, death occurs without doubt.",
+      "hindi_meaning": "यदि राशिचक्र के पूर्व और परार्द्ध में क्रमशः क्रूर और सौम्य ग्रह हों और लग्न में वृश्चिक (कीट) राशि हो, तो जातक की मृत्यु हो जाती है; इसमें संशय नहीं है।"
+    },
+    {
+      "number": 16,
+      "text": "व्ययशत्रुगतैः क्रूरैर्मृत्युद्रव्यगतैरपि ।\nपापमध्यगते लग्ने सत्यमेव मृतिं वदेत्",
+      "english_meaning": "If malefics are in the 12th, 6th, 8th, or 2nd houses, and the Lagna is hemmed between malefics (Papa-kartari), death should be predicted as a certainty.",
+      "hindi_meaning": "यदि १२वें, ६ठे, ८वें या २रे भाव में क्रूर ग्रह हों और लग्न पापकर्तरी योग (पाप ग्रहों के मध्य) में हो, तो निश्चित रूप से मृत्यु कहनी चाहिए।"
+    },
+    {
+      "number": 17,
+      "text": "लग्नसप्तमगौ पापौ चन्द्रोऽपि क्रूरसंयुतः ।\nयदा नावेक्षितः सौम्यैः शीघ्रान्मृत्युर्भवेत्तदा",
+      "english_meaning": "Malefics in the Lagna and 7th house, along with the Moon joined by a malefic, and not aspected by any benefic, cause rapid death.",
+      "hindi_meaning": "लग्न और ७वें भाव में पाप ग्रह हों और चन्द्रमा भी पाप ग्रह से युक्त हो, तथा शुभ ग्रहों की दृष्टि न हो, तो शीघ्र मृत्यु होती है।"
+    },
+    {
+      "number": 18,
+      "text": "क्षीणे शशिनि लग्नस्थे पापैः केन्द्राष्टसंस्थितैः ।\nयो जातो मृत्युमाप्नोति स विप्रेश न संशयः",
+      "english_meaning": "If the Moon is waning (weak) in the Lagna and malefics are in the Kendras (1, 4, 7, 10) or 8th house, the newborn meets death without any doubt.",
+      "hindi_meaning": "यदि क्षीण चन्द्रमा लग्न में हो और पाप ग्रह केन्द्रों (१, ४, ७, १०) या ८वें भाव में हों, तो जन्म लेने वाला मृत्यु को प्राप्त होता है।"
+    },
+    {
+      "number": 19,
+      "text": "पापयोर्मध्यगश्चन्द्रो लग्नाष्टान्तिमसप्तमः ।\nअचिरान्मृत्युमाप्नोति यो जातः स शिशुस्तदा",
+      "english_meaning": "If the Moon is hemmed between malefics and is placed in the 1st, 8th, 12th, or 7th house, the newborn child soon meets death.",
+      "hindi_meaning": "यदि चन्द्रमा पाप ग्रहों के मध्य हो और लग्न, ८वें, १२वें या ७वें भाव में स्थित हो, तो जन्म लेने वाला शिशु शीघ्र ही मृत्यु को प्राप्त होता है।"
+    },
+    {
+      "number": 20,
+      "text": "पापद्वयमध्यगते चन्द्रे लग्नसमाश्रिते ।\nसप्ताष्टमेन पापेन मात्रा सह मृतः शिशुः",
+      "english_meaning": "If the Moon is hemmed between two malefics and is in the Lagna, and if there is a malefic in the 7th or 8th house, the child dies along with the mother.",
+      "hindi_meaning": "यदि चन्द्रमा दो पाप ग्रहों के मध्य होकर लग्न में स्थित हो, और ७वें या ८वें भाव में भी पाप ग्रह हो, तो बालक माता सहित मृत्यु को प्राप्त होता है।"
+    },
+    {
+      "number": 21,
+      "text": "शनैश्चरार्कभौमेषु रिष्फधर्माष्टमेषु च ।\nशभैरवीक्ष्यमाणेषु यो जातो निधनङ्गतः",
+      "english_meaning": "If Saturn, Sun, and Mars are in the 12th, 9th, and 8th houses respectively, and are not aspected by benefics, the native meets death.",
+      "hindi_meaning": "यदि शनि, सूर्य और मंगल क्रमशः १२वें, ९वें और ८वें भाव में हों, और शुभ ग्रहों द्वारा न देखे जाते हों, तो जातक की मृत्यु हो जाती है।"
+    },
+    {
+      "number": 22,
+      "text": "यद्द्रेष्काणे च यामित्रे यस्य स्याद्दारुणो ग्रहः ।\nक्षीणचन्द्रो विलग्नस्थः सद्यो हरति जीवितम्",
+      "english_meaning": "If a malefic planet is in the Drekkana of the 7th house and a waning Moon is in the Lagna, it takes away life immediately.",
+      "hindi_meaning": "यदि ७वें भाव के द्रेष्काण में कोई क्रूर ग्रह हो और लग्न में क्षीण चन्द्रमा हो, तो वह तुरंत प्राणों का हरण कर लेता है।"
+    },
+    {
+      "number": 23,
+      "text": "आपोक्लिमस्थिताः सर्वे ग्रहा बलविवर्जिताः ।\nषण्मासं वा द्विमासं वा तस्यायुः समुदाहृतम्",
+      "english_meaning": "If all planets are placed in Apoklima houses (3, 6, 9, 12) and are devoid of strength, the lifespan is said to be only two or six months.",
+      "hindi_meaning": "यदि सभी ग्रह आपोक्लिम भावों (३, ६, ९, १२) में स्थित हों और बलहीन हों, तो जातक की आयु केवल दो या छह मास कही गई है।"
+    },
+    {
+      "number": 24,
+      "text": "त्रिभिः पापग्रहैः सूतौ चन्द्रमा यदि दृश्यते ।\nमातृनाशो भवेत्तस्य शुभर्दृष्टे शुभं वदेत्",
+      "english_meaning": "If the Moon is aspected by three malefic planets at birth, it causes the death of the mother. If it is also aspected by benefics, predict favorable results.",
+      "hindi_meaning": "यदि जन्म के समय चन्द्रमा तीन पाप ग्रहों से दृष्ट हो, तो वह माता का विनाश करने वाला होता है। यदि शुभ ग्रहों से दृष्ट हो, तो शुभ फल कहना चाहिए।"
+    },
+    {
+      "number": 25,
+      "text": "धने राहुर्बुधः शुक्रः सौरिः सूर्यो यदा स्थितः ।\nतस्य मातुर्भवेन्मृत्युर्मृते पितरि जायते",
+      "english_meaning": "If Rahu, Mercury, Venus, Saturn, and the Sun are in the 2nd house, the mother dies, and the child is born after the father's death.",
+      "hindi_meaning": "यदि दूसरे भाव में राहु, बुध, शुक्र, शनि और सूर्य स्थित हों, तो माता की मृत्यु हो जाती है और बालक का जन्म पिता की मृत्यु के बाद होता है।"
+    },
+    {
+      "number": 26,
+      "text": "पापात्सप्तमरन्ध्रस्थे चन्द्रे पापसमन्विते ।\nबलिभिः पापकैर्दृष्टे जातो भवति मातृहा",
+      "english_meaning": "If the Moon is in the 7th or 8th house from a malefic, joined by another malefic, and aspected by strong malefics, the child causes the death of the mother (Matru-ha).",
+      "hindi_meaning": "यदि चन्द्रमा किसी पाप ग्रह से ७वें या ८वें भाव में हो, स्वयं भी पाप ग्रह से युक्त हो और बली पाप ग्रहों से दृष्ट हो, तो बालक माता की मृत्यु का कारण बनता है।"
+    },
+    {
+      "number": 27,
+      "text": "उच्चस्थो वाऽथ नीचस्थः सप्तमस्थो यदारविः ।\nपानहीनो भवेद्बाल अजाक्षीरेण जीवति",
+      "english_meaning": "If the Sun is in the 7th house (whether exalted or debilitated), the child is deprived of mother's milk and survives on goat's milk.",
+      "hindi_meaning": "यदि सूर्य सातवें भाव में हो (चाहे उच्च का हो या नीच का), तो बालक माता के दूध से वंचित रहता है और बकरी के दूध (अजाक्षीर) पर जीवित रहता है।"
+    },
+    {
+      "number": 28,
+      "text": "चन्द्राच्चतुर्थगः पापो रिपुक्षेत्रे यदा भवेत् ।\nतदा मातृवधं कुर्यात् केन्द्रे यदि शुभो न चेत्",
+      "english_meaning": "A malefic in the 4th house from the Moon in an enemy sign causes the mother's death, provided no benefics are in the Kendras.",
+      "hindi_meaning": "यदि चन्द्रमा से चौथे भाव में शत्रु राशि का पाप ग्रह हो, तो वह माता का वध (मृत्यु) करता है, बशर्ते केन्द्रों में कोई शुभ ग्रह न हो।"
+    },
+    {
+      "number": 29,
+      "text": "द्वादशे रिपुभावे च यदा पापग्रहो भवेत् ।\nतदा मातुर्भयं विद्याच्चतुर्थे दशमे पितुः",
+      "english_meaning": "Malefics in the 12th or 6th house signify danger to the mother. If they are in the 4th or 10th house, they signify danger to the father.",
+      "hindi_meaning": "१२वें या ६ठे भाव में पाप ग्रह होने पर माता के लिए भय समझना चाहिए। यदि वे ४थे या १०वें भाव में हों, तो पिता के लिए भय होता है।"
+    },
+    {
+      "number": 30,
+      "text": "लग्ने क्रूरो व्यये क्रूरो धने सौम्यस्तथैव च ।\nसप्तमे भवने क्रूरः परिवारक्षयङ्करः",
+      "english_meaning": "Malefics in the Lagna, 12th, and 7th houses, while a benefic is in the 2nd house, cause destruction of the family.",
+      "hindi_meaning": "लग्न में क्रूर ग्रह, १२वें में क्रूर और ७वें भाव में क्रूर ग्रह हो, तथा २रे भाव में शुभ ग्रह हो, तो वह परिवार का क्षय (नाश) करने वाला होता है।"
+    },
+    {
+      "number": 31,
+      "text": "लग्नस्थे च गुरौ सौरौ धने राहौ तृतीयगे ।\nइति चेञ्जन्मकाले स्यान्माता तस्य न जीवति",
+      "english_meaning": "If Jupiter and Saturn are in the Lagna, Rahu is in the 2nd, and a planet is in the 3rd, the mother of the native does not survive.",
+      "hindi_meaning": "यदि जन्म के समय लग्न में गुरु और शनि हों, २रे भाव में राहु हो और ३रे में कोई ग्रह हो, तो उसकी माता जीवित नहीं रहती।"
+    },
+    {
+      "number": 32,
+      "text": "क्षीणचन्द्रात्त्रिकोणस्थैः पापैः सौम्यविवर्जितैः ।\nमाता परित्यजेद्बालं षण्मासाच्च न संशयः",
+      "english_meaning": "If malefics are in trines (5th/9th) from a waning Moon and there are no benefics, the mother abandons the child within six months.",
+      "hindi_meaning": "यदि क्षीण चन्द्रमा से त्रिकोण (५, ९) में पाप ग्रह हों और कोई शुभ ग्रह न हो, तो माता छह मास के भीतर बालक का परित्याग कर देती है।"
+    },
+    {
+      "number": 33,
+      "text": "एकांशकस्थौ मन्दारौ यत्र कुत्रस्थितौ यदा ।\nशशिकेन्द्रगतौ तौ वा द्विमातृभ्यां न जीवति",
+      "english_meaning": "If Saturn and Mars are in the same Navamsha, or if they are in Kendras from the Moon, the child will not be nurtured by two mothers (losing both mother and stepmother/nurse).",
+      "hindi_meaning": "यदि शनि और मंगल एक ही नवांश में हों, या वे चन्द्रमा से केन्द्रों में हों, तो बालक को दो माताओं का सुख नहीं मिलता (अर्थात् माता और धात्री/विमाता दोनों का वियोग हो सकता है)।"
+    },
+    {
+      "number": 34,
+      "text": "लग्ने सन्दो मदे भौमः षष्ठस्थाने च चन्द्रमाः ।\nइति चेज्जन्मकाले स्यात् पिता तस्य न जीवति",
+      "english_meaning": "If Saturn is in the Lagna, Mars in the 7th, and Moon in the 6th house, the father of the native does not survive.",
+      "hindi_meaning": "यदि लग्न में शनि, ७वें भाव में मंगल और ६ठे भाव में चन्द्रमा हो, तो जातक का पिता जीवित नहीं रहता।"
+    },
+    {
+      "number": 35,
+      "text": "लग्ने जीवो धने मन्दरविभौमबुधास्तथा ।\nविवाहसमये तस्य बालस्य म्रियते पिता",
+      "english_meaning": "If Jupiter is in the Lagna, and Saturn, Sun, Mars, and Mercury are in the 2nd house, the father dies at the time of the native's marriage.",
+      "hindi_meaning": "यदि लग्न में गुरु हो, और २रे भाव में शनि, सूर्य, मंगल तथा बुध हों, तो बालक के विवाह के समय पिता की मृत्यु होती है।"
+    },
+    {
+      "number": 36,
+      "text": "सूर्यः पापेन संयुक्तो ह्यथवा पापमध्यगः ।\nसूर्यात् सप्तमगः पापस्तदा पितृवधो भवेत्",
+      "english_meaning": "If the Sun is associated with a malefic or hemmed between malefics, and there is a malefic in the 7th house from the Sun, it causes the death of the father.",
+      "hindi_meaning": "यदि सूर्य पाप ग्रह से युक्त हो या पाप ग्रहों के मध्य हो, और सूर्य से ७वें भाव में भी पाप ग्रह हो, तो पिता की मृत्यु होती है।"
+    },
+    {
+      "number": 37,
+      "text": "सप्तमे भवने सूर्यः कर्मस्थो भूमिनन्दनः ।\nराहुर्व्यये च युस्यैव पिता कष्टेन जीवति",
+      "english_meaning": "If the Sun is in the 7th house, Mars in the 10th, and Rahu in the 12th house, the native's father lives with great difficulty or suffering.",
+      "hindi_meaning": "यदि ७वें भाव में सूर्य, १०वें में मंगल और १२वें भाव में राहु हो, तो जातक का पिता अत्यंत कष्ट में जीवन व्यतीत करता है।"
+    },
+    {
+      "number": 38,
+      "text": "दशमस्थो यदा भौमः शत्रुक्षेत्रसमाश्रितः ।\nम्रियते तस्य जातस्य पिता शीघ्रं न संशयः",
+      "english_meaning": "If Mars is in the 10th house in an enemy's sign, the father of the native dies quickly without any doubt.",
+      "hindi_meaning": "यदि १०वें भाव में शत्रु राशि का मंगल हो, तो जातक के पिता की शीघ्र मृत्यु हो जाती है।"
+    },
+    {
+      "number": 39,
+      "text": "रिपुस्थाने यदा चन्द्रो लग्नस्थाने शनैश्चरः ।\nकुजश्च सप्तमे स्थाने पिता तस्य न जीवति",
+      "english_meaning": "If the Moon is in the 6th house, Saturn in the Lagna, and Mars in the 7th house, the native's father does not survive.",
+      "hindi_meaning": "यदि ६ठे भाव में चन्द्रमा, लग्न में शनि और ७वें भाव में मंगल हो, तो जातक का पिता जीवित नहीं रहता।"
+    },
+    {
+      "number": 40,
+      "text": "भौमांशकस्थिते भानौ शनिना च निरीक्षिते ।\nप्राग्जन्मनो निवृत्तिः स्यान्मृत्युर्वाऽपि शिशोः पितुः",
+      "english_meaning": "If the Sun is in a Navamsha of Mars and aspected by Saturn, the father dies either before or soon after the birth of the child.",
+      "hindi_meaning": "यदि सूर्य मंगल के नवांश में हो और शनि द्वारा देखा जाता हो, तो बालक के जन्म से पूर्व या शीघ्र बाद पिता की मृत्यु हो जाती है।"
+    },
+    {
+      "number": 41,
+      "text": "चतुर्थे दशमे पापौ द्वादशे च यदा स्थितौ ।\nपितरं मातरं हत्वा देशाद्देशान्तरं व्रजेत्",
+      "english_meaning": "If malefics are in the 4th, 10th, and 12th houses, the native causes the death of his mother and father and wanders from country to country.",
+      "hindi_meaning": "यदि ४थे, १०वें और १२वें भाव में पाप ग्रह हों, तो जातक माता-पिता की मृत्यु का कारण बनकर देश-देशान्तर भटकता है।"
+    },
+    {
+      "number": 42,
+      "text": "राहुजीवौ रिपुक्षेत्रे लग्ने वाऽथ चतुर्थके ।\nत्रयोविंशतिमे वर्षे पुत्रस्तातं न पश्यति",
+      "english_meaning": "If Rahu and Jupiter are in an enemy sign in the Lagna or 4th house, the son will not see his father in his 23rd year (meaning the father dies).",
+      "hindi_meaning": "यदि लग्न या ४थे भाव में शत्रु राशि के राहु और गुरु हों, तो पुत्र २३वें वर्ष में अपने पिता को नहीं देख पाता (पिता की मृत्यु होती है)।"
+    },
+    {
+      "number": 43,
+      "text": "भानुः पिता च जन्तूनां चन्द्रो माता तथैव च ।\nपापदृष्टियुतो भानुः पापमध्यगतोऽपि वा",
+      "english_meaning": "The Sun is the father and the Moon is the mother for all living beings. If the Sun is aspected or joined by malefics, or is hemmed between malefics, judge it as Arishta (misfortune) to the father.",
+      "hindi_meaning": "सभी प्राणियों के लिए सूर्य पिता और चन्द्रमा माता स्वरूप हैं। यदि सूर्य पाप ग्रहों से दृष्ट या युक्त हो, अथवा पाप ग्रहों के मध्य हो, तो पिता के लिए अरिष्ट समझना चाहिए।"
+    },
+    {
+      "number": 44,
+      "text": "पित्ररिष्टं विजानीयाच्छिशोर्जातस्य निश्चितम् ।\nभानोः षष्ठाष्टमर्क्षस्थैः पापैः सौम्यविवर्जितैः ।\nसुखभावगतैर्वाऽपि पित्ररिष्टं विनिर्दिशेत्",
+      "english_meaning": "Paternal Arishta is certain if malefics are in the 6th, 8th, or 4th (Sukha) houses from the Sun and are not aspected by benefics.",
+      "hindi_meaning": "यदि सूर्य से ६ठे, ८वें या ४थे भाव में पाप ग्रह हों और वे शुभ ग्रहों से दृष्ट न हों, तो बालक के लिए निश्चित रूप से पितृ-अरिष्ट कहना चाहिए।"
+    },
+    {
+      "number": 45,
+      "text": "एवं चन्द्रात् स्थितैः पापैर्मातु कष्टं विचारयेत् ।\nबलाऽबलविवेकेन कष्टं वा मृत्युमादिशेत्",
+      "english_meaning": "Similarly, judge the suffering of the mother from the position of malefics relative to the Moon. Based on the strength and weakness of the planets, predict either great suffering or death.",
+      "hindi_meaning": "इसी प्रकार चन्द्रमा से पाप ग्रहों की स्थिति के अनुसार माता के कष्ट का विचार करना चाहिए। ग्रहों के बलाबल के अनुसार महान कष्ट या मृत्यु का आदेश देना चाहिए।"
+    }
+  ]
+}

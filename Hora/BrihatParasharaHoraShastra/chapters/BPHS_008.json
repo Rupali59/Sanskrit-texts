@@ -1,0 +1,66 @@
+{
+  "source_file": "BPHS0110.md",
+  "source_chunk": "BPHS0110.json",
+  "chunk_index": 7,
+  "chapter": 8,
+  "variant": null,
+  "title": "अथ राशिदृष्टिकथनाध्यायः",
+  "shloka_count": 9,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथ मेषादिराशीनां चरादीनां पृथक् पृथक् ।\nदृष्टिभेदं प्रवक्ष्यामि श‍ृणु त्वं द्विजसत्तम",
+      "english_meaning": "I shall now describe the different aspects of the signs (Aries, etc.). Listen, O best of sages.",
+      "hindi_meaning": "अब मैं मेष आदि राशियों के विभिन्न दृष्टियों का वर्णन करूँगा। हे श्रेष्ठ द्विज! उसे सुनो।"
+    },
+    {
+      "number": 2,
+      "text": "राशयोऽभिमुखं विप्र तथा पश्यन्ति पार्श्वभे ।\nयथा चरः स्थिरानेवं स्थिरः पश्यति वै चरान्",
+      "english_meaning": "The signs aspect those in front of them and to their side. Movable signs aspect fixed signs, and fixed signs aspect movable signs.",
+      "hindi_meaning": "राशियाँ अपने सामने और बगल वाली राशियों को देखती हैं। चर राशियाँ स्थिर राशियों को और स्थिर राशियाँ चर राशियों को देखती हैं।"
+    },
+    {
+      "number": 3,
+      "text": "द्विस्वभावो विनाऽऽत्मानां द्विस्वभावान् प्रपश्यति ।\nसमीपस्थं परित्यज्य खेटास्तत्र गतास्तथा",
+      "english_meaning": "Dual (common) signs aspect other dual signs (excluding themselves). Planets placed in these signs also aspect accordingly, excluding the sign adjacent to them.",
+      "hindi_meaning": "द्विस्वभाव राशियाँ अन्य द्विस्वभाव राशियों को देखती हैं (स्वयं को छोड़कर)। उन राशियों में स्थित ग्रह भी इसी प्रकार देखते हैं, किन्तु समीप वाली राशि को छोड़कर।"
+    },
+    {
+      "number": 4,
+      "text": "चरेषु संस्थिताः खेटाः पश्यन्ति स्थिरसङ्गतान् ।\nस्थिरेषु संस्थिता एवं पश्यन्ति चरसंस्थितान्",
+      "english_meaning": "Planets in movable signs aspect those in fixed signs, and planets in fixed signs aspect those in movable signs.",
+      "hindi_meaning": "चर राशियों में स्थित ग्रह स्थिर राशियों में स्थित ग्रहों को देखते हैं, और स्थिर राशियों में स्थित ग्रह चर राशियों में स्थित ग्रहों को देखते हैं।"
+    },
+    {
+      "number": 5,
+      "text": "उभयस्थास्तु सूर्याद्या पश्यन्युभयसंस्थितान् ।\nनिकटस्थं विना खेटाः पश्यन्तीत्ययमागमः",
+      "english_meaning": "Planets in dual signs aspect those in other dual signs. This is the tradition: planets aspect excluding the sign immediately adjacent to them.",
+      "hindi_meaning": "द्विस्वभाव राशियों में स्थित ग्रह अन्य द्विस्वभाव राशियों में स्थित ग्रहों को देखते हैं। यह परम्परा है कि ग्रह अपने समीप वाली राशि को छोड़कर अन्य को देखते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "दृष्टिचक्रमहं वक्ष्ये ययावद् ब्रह्मणोदितम् ।\nतस्य विन्यासमात्रेण दृष्टिभेदः प्रकाश्यते",
+      "english_meaning": "I shall explain the Drishti Chakra (Aspect Diagram) as declared by Brahma. By just drawing it, the different aspects become clear.",
+      "hindi_meaning": "मैं ब्रह्मा द्वारा कहे गए 'दृष्टि चक्र' का वर्णन करूँगा। केवल उसे बना लेने मात्र से ही विभिन्न दृष्टियाँ स्पष्ट हो जाती हैं।"
+    },
+    {
+      "number": 7,
+      "text": "प्राचि मीषवृषौ लेख्यौ कर्कसिंहौ तथोत्तरे ।\nतुलाऽली पश्चिमे विप्र मृगकुम्भौ च दक्षिणे",
+      "english_meaning": "Draw Aries and Taurus in the East; Cancer and Leo in the North. Libra and Scorpio in the West; Capricorn and Aquarius in the South.",
+      "hindi_meaning": "पूर्व में मेष और वृष को लिखें; उत्तर में कर्क और सिंह को। पश्चिम में तुला और वृश्चिक (अली) को तथा दक्षिण में मकर (मृग) और कुम्भ को लिखें।"
+    },
+    {
+      "number": 8,
+      "text": "ईशकोणे तु मिथुनं वायव्ये कन्यकां तथा ।\nनौरृर्त्यां चापमालिख्य वह्निकोणे झषं लिखेत्",
+      "english_meaning": "Draw Gemini in the North-East; Virgo in the North-West; Sagittarius in the South-West; and Pisces in the South-East.",
+      "hindi_meaning": "ईशान कोण (NE) में मिथुन को, वायव्य (NW) में कन्या को, नैऋत्य (SW) में धनु (चाप) को और आग्नेय कोण (SE) में मीन (झष) को लिखें।"
+    },
+    {
+      "number": 9,
+      "text": "एवं चतुर्भुजाकारं वृत्ताकारमथापि वा ।\nदृष्टिचक्रं प्रविन्यस्यैवं ततो दृष्टिं विचारयेत्",
+      "english_meaning": "Thus, draw the aspect diagram in a square or circular shape. Then consider the aspects accordingly.",
+      "hindi_meaning": "इस प्रकार चतुर्भुजाकार या वृत्ताकार 'दृष्टि चक्र' बनाकर उसके अनुसार दृष्टियों का विचार करना चाहिए।"
+    }
+  ]
+}

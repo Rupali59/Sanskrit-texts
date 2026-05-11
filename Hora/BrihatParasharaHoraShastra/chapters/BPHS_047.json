@@ -1,0 +1,546 @@
+{
+  "source_file": "BPHS4650.md",
+  "source_chunk": "BPHS4650.json",
+  "chunk_index": 1,
+  "chapter": 47,
+  "variant": null,
+  "title": "अथ दशाफलाद्यायः",
+  "shloka_count": 89,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "श्रुताश्च बहुधा भेदा दशानां च मया मुने ।\nफलं च कीदृशं तासां कृपया मे तदुच्यताम्",
+      "english_meaning": "O Sage! I have heard about many types of Dasas. Please tell me about their results in detail.",
+      "hindi_meaning": "हे मुने! मैंने दशाओं के अनेक भेद सुने हैं। कृपा करके मुझे उनके फलों के विषय में विस्तार से बताइये।"
+    },
+    {
+      "number": 2,
+      "text": "साधारणं विशिष्टञ्च दशानां द्विविधं फलम् ।\nग्रहाणां च स्वभावेन स्थानस्थितिवशेन च",
+      "english_meaning": "Results of Dasas are of two types: general and specific. They depend on the nature, placement, and state of the planets.",
+      "hindi_meaning": "दशाओं का फल दो प्रकार का होता है: साधारण और विशिष्ट। यह ग्रहों के स्वभाव, स्थिति और अवस्था पर निर्भर करता है।"
+    },
+    {
+      "number": 3,
+      "text": "ग्रहवीर्यानुसारेण फलं ज्ञेयं दशासु च ।\nआद्यद्रेष्काणगे खेटे दशारम्भे फलं वदेत्",
+      "english_meaning": "Results should be known according to the strength of the planets. If in the first Drekkana, results appear at the start of the Dasa.",
+      "hindi_meaning": "ग्रहों के बल के अनुसार फल जानना चाहिए। यदि ग्रह प्रथम द्रेष्काण में हो, तो दशा के आरम्भ में फल मिलता है।"
+    },
+    {
+      "number": 4,
+      "text": "दशामध्ये फलं वाच्यं मध्यद्रेष्काणगे खगे ।\nअन्ते फलं तृतीयस्थे व्यस्तं खेटे च वक्रगे",
+      "english_meaning": "Second Drekkana gives results in the middle, third at the end. For retrograde planets, the order is reversed.",
+      "hindi_meaning": "द्वितीय द्रेष्काण में मध्य में और तृतीय में अन्त में फल मिलता है। वक्री होने पर यह क्रम उल्टा हो जाता है।"
+    },
+    {
+      "number": 5,
+      "text": "दशारम्भे दशादीशे लग्नगे शुभदृग्युते ।\nस्वोच्चे स्वभे स्वमैत्रे वा शुभं तस्य दशाफलम्",
+      "english_meaning": "If the Dasa lord is in Lagna, joined/aspected by benefics, or in dignity at the start, results are good.",
+      "hindi_meaning": "दशा के आरम्भ में यदि दशाधिपति लग्न में हो, शुभ ग्रहों से युक्त या दृष्ट हो, या उच्च आदि में हो, तो शुभ फल मिलता है।"
+    },
+    {
+      "number": 6,
+      "text": "षष्ठाऽष्टमव्ययस्थे च नीचास्तरिपुभस्थिते ।\nअशुभं तत्फलं चाऽथ ब्रुवे सर्वदशाफलम्",
+      "english_meaning": "Placement in 6th, 8th, 12th, or in debilitation/combustion gives bad results. Now I tell results of all Dasas.",
+      "hindi_meaning": "छठे, आठवें, बारहवें भाव में या नीच-अस्त राशि में होने पर अशुभ फल मिलता है। अब मैं सभी दशाओं का फल कहता हूँ।"
+    },
+    {
+      "number": 7,
+      "text": "मूलत्रिकोणे स्वक्षेत्रे स्वोच्चे वा परमोच्चगे ।\nकेन्द्रत्रिकोणलाभस्थे भाग्यकर्माधिपैर्युते",
+      "english_meaning": "If Sun is in Moolatrikona, own sign, or exaltation, in quadrant/trine/11th, or joined with 9th/10th lords.",
+      "hindi_meaning": "यदि सूर्य मूलत्रिकोण, स्वक्षेत्र या उच्च का होकर केन्द्र, त्रिकोण या लाभ भाव में हो, अथवा नवम-दशमेश से युक्त हो।"
+    },
+    {
+      "number": 8,
+      "text": "सूर्ये बलसमायुक्ते निजवर्गबलैर्युते ।\nतस्मिन्दाये महत् सौख्यं धनलाभादिकं शुभम्",
+      "english_meaning": "With full strength and Varga strength, Sun's Dasa brings great happiness, wealth, and auspiciousness.",
+      "hindi_meaning": "पूर्ण बल और वर्ग बल से युक्त होने पर सूर्य की दशा में महान सुख, धन लाभ और शुभता प्राप्त होती है।"
+    },
+    {
+      "number": 9,
+      "text": "अत्यन्तं राजसन्मानमश्वांदोल्यादिकं शुभम् ।\nसुताधिपसमायुक्ते पुत्रलाभं च विन्दति",
+      "english_meaning": "Great respect from king, success in vehicles, and gain of sons if joined with the 5th lord.",
+      "hindi_meaning": "राजा से महान सम्मान, वाहन सुख और पंचमेश से युक्त होने पर पुत्र लाभ प्राप्त होता है।"
+    },
+    {
+      "number": 10,
+      "text": "धनेशस्य च सम्बन्धे गजान्तैश्वर्यमादिशेत् ।\nवाहनाधिपसम्बन्धे वाहनात्रयलाभकृत्",
+      "english_meaning": "Relation with 2nd lord gives immense wealth; relation with 4th lord brings various vehicles.",
+      "hindi_meaning": "द्वितीयेश से सम्बन्ध होने पर अपार ऐश्वर्य और चतुर्थेश से सम्बन्ध होने पर अनेक वाहनों का लाभ होता है।"
+    },
+    {
+      "number": 11,
+      "text": "नृपलतुष्टिर्वित्ताढ्यः सेनाधीशः सुखी नरः ।\nवस्त्रवाहनलाभश्च दशायां बलिनो रवेः",
+      "english_meaning": "Favor of king, wealth, status as commander, and happiness from clothes/vehicles during strong Sun's Dasa.",
+      "hindi_meaning": "बली सूर्य की दशा में राजा की प्रसन्नता, धन की प्रचुरता, सेनापति का पद और वस्त्र-वाहनों का सुख मिलता है।"
+    },
+    {
+      "number": 12,
+      "text": "नीचे षडष्टके  रिःफे दुर्बले पापसंयुते ।\nराहुकेतुसमायुक्ते दुह्स्थानाधिपसंयुते",
+      "english_meaning": "If Sun is in debilitation, 6th, 8th, or 12th, weak, or joined with malefics, Rahu, Ketu, or evil lords.",
+      "hindi_meaning": "यदि सूर्य नीच का, छठे-आठवें-बारहवें भाव में, दुर्बल, या पाप ग्रहों, राहु-केतु या दुःस्थान के स्वामियों से युक्त हो।"
+    },
+    {
+      "number": 13,
+      "text": "तस्मिन्दाये महापीडा धनधान्यविनाशकृत ।\nराजकोपः प्रवासश्च राजदण्डो धनक्षयः",
+      "english_meaning": "Then Sun's Dasa brings great distress, loss of wealth/grain, king's anger, exile, and punishment.",
+      "hindi_meaning": "तो सूर्य की दशा में भारी कष्ट, धन-धान्य का विनाश, राजक्रोध, प्रवास और राजदण्ड का भय होता है।"
+    },
+    {
+      "number": 14,
+      "text": "ज्वरपीडा यशोहानिर्बन्धुमित्रविरोधकृत ।\nपितृक्षयभयं चैव गृहे त्वशुभमेव च",
+      "english_meaning": "Fever, loss of fame, opposition with kin, fear of father's death, and trouble within the house.",
+      "hindi_meaning": "ज्वर की पीड़ा, यश की हानि, बन्धु-मित्रों से विरोध, पिता के प्रति अनिष्ट का भय और घर में अशुभता होती है।"
+    },
+    {
+      "number": 15,
+      "text": "पितृवर्गे मनस्तापं जन्द्वेषं च विन्दति ।\nशुभदृष्टियुते सूर्ये मध्ये तस्मिन् क्वचित्सुखम् ।\nपापग्र्हेण सन्दृष्टे वदेत्पापफलं बुधः",
+      "english_meaning": "Worry for paternal kin and enmity. Benefic aspect gives mixed relief, while malefic aspect confirms evil.",
+      "hindi_meaning": "पितृपक्ष के लिए चिन्ता और द्वेष होता है। शुभ दृष्टि होने पर बीच में कुछ सुख, परन्तु पाप दृष्टि होने पर पूर्णतः अशुभ फल कहें।"
+    },
+    {
+      "number": 16,
+      "text": "एवं सूर्यफलं विप्र संक्षेपादुदितं मया ।\nविंशोत्तरीमतेनाथ ब्रुवे चन्द्रदशाफलम्",
+      "english_meaning": "Thus I told Sun's results. Now I tell Moon's results according to the Vimshottari Dasa system.",
+      "hindi_meaning": "इस प्रकार सूर्य का फल कहा गया। अब मैं विंशोत्तरी मत के अनुसार चन्द्रमा की दशा का फल कहता हूँ।"
+    },
+    {
+      "number": 17,
+      "text": "स्वोच्चे स्वक्षेत्रगे चैव केन्द्रे लाभत्रिकोणगे ।\nशुभग्रहेण संयुक्ते पूर्णे चन्द्रेबलैर्युते",
+      "english_meaning": "If Moon is in exaltation, own sign, quadrant, 11th, or trine, joined with benefics, and full with strength.",
+      "hindi_meaning": "यदि चन्द्रमा उच्च, स्वराशि, केन्द्र, लाभ या त्रिकोण में हो, शुभ ग्रहों से युक्त हो और पूर्ण बली हो।"
+    },
+    {
+      "number": 18,
+      "text": "कर्मभाग्याधिपैर्युक्ते वाहनेशबलैर्युते ।\nआद्यन्तैश्वर्यसौभाग्यधनधान्यादिलाभकृत",
+      "english_meaning": "Joined with 9th/10th lords, or with strong 4th lord, it brings prosperity and wealth from start to end.",
+      "hindi_meaning": "नवम-दशमेश से युक्त या बली चतुर्थेश के साथ होने पर आरम्भ से अन्त तक ऐश्वर्य, सौभाग्य और धन-धान्य देता है।"
+    },
+    {
+      "number": 19,
+      "text": "गृहे तु शुभकार्याणि वाहनं राजदर्शनम् ।\nयत्नकार्यार्थसिद्धिः स्याद् गृहे लक्ष्मीकटाक्षकृत्",
+      "english_meaning": "Auspicious events at home, vehicles, meeting the king, and the grace of Goddess Lakshmi.",
+      "hindi_meaning": "घर में शुभ कार्य, वाहन लाभ, राजा के दर्शन, कार्यों की सिद्धि और लक्ष्मी की विशेष कृपा होती है।"
+    },
+    {
+      "number": 20,
+      "text": "मित्रप्रभुवशाद्भाग्यं राज्यलाभं महत्सुखम् ।\nअश्वान्दोल्यादिलाभं च श्वेतवस्त्रादिकं लभेत्",
+      "english_meaning": "Fortune through friends/superiors, kingdom, great happiness, palanquins, and fine white clothes.",
+      "hindi_meaning": "मित्रों और अधिकारियों से भाग्यवृद्धि, राज्य लाभ, महान सुख, पालकी और श्वेत वस्त्रों की प्राप्ति होती है।"
+    },
+    {
+      "number": 21,
+      "text": "पुत्रलाभादिसन्तोषं गृहगोधनसंकुलम् ।\nधनस्थानगते चन्द्रे तुङ्गे स्वक्षेत्रगेऽपि वा",
+      "english_meaning": "Satisfaction from sons, home full of cattle and wealth. Especially if in the 2nd house in dignity.",
+      "hindi_meaning": "पुत्र लाभ, संतोष और घर में गौ-धन की वृद्धि होती है। विशेषकर यदि द्वितीय भाव में उच्च या स्वक्षेत्री हो।"
+    },
+    {
+      "number": 22,
+      "text": "अनेकधनलाभं च भाग्यवृद्धिर्महत्सुखम् ।\nनिक्षेपराजसन्मानं विद्यालाभं च विन्दति",
+      "english_meaning": "Gain of much wealth, increase in luck, great happiness, treasure, king's honor, and knowledge.",
+      "hindi_meaning": "अनेक प्रकार के धन का लाभ, भाग्यवृद्धि, महान सुख, गड़े हुए धन की प्राप्ति, राजसम्मान और विद्या लाभ होता है।"
+    },
+    {
+      "number": 23,
+      "text": "नीचे वा क्षीणचन्द्रे वा धनहानिर्भविष्यति ।\nदुश्चिक्ये बलसंयुक्ते क्वचित्सौख्यं क्वचिद्धनम्",
+      "english_meaning": "If Moon is debilitated or waning, loss of wealth. In 3rd house with strength, some happiness/wealth.",
+      "hindi_meaning": "यदि चन्द्रमा नीच का या क्षीण हो तो धन हानि होगी। तीसरे भाव में बली होने पर कुछ सुख और धन मिलता है।"
+    },
+    {
+      "number": 24,
+      "text": "दुर्बले पापसंयुक्ते देहजाड्यं मनोरुजम् ।\nभृत्यपीडा वित्तहानिर्मातृवर्गजनाद्वधः",
+      "english_meaning": "If weak and joined with malefics, bodily stiffness, mental illness, servant trouble, and loss of wealth.",
+      "hindi_meaning": "दुर्बल और पाप युक्त होने पर शरीर में जकड़न, मानसिक रोग, नौकरों से कष्ट और धन की हानि होती है।"
+    },
+    {
+      "number": 25,
+      "text": "षष्ठाष्टमव्यये चन्द्रे दुर्बले पापसंयुते ।\nराजद्वेषो मनोदुःखं धनधान्यादिनाशनम्",
+      "english_meaning": "If Moon is in 6th, 8th, or 12th, weak and with malefics: enmity with king and mental sorrow.",
+      "hindi_meaning": "यदि चन्द्रमा छठे, आठवें या बारहवें भाव में दुर्बल और पाप युक्त हो, तो राजद्वेष और मानसिक शोक होता है।"
+    },
+    {
+      "number": 26,
+      "text": "मातृक्लेषं मनस्तापं देहजाड्यं मनोरुजम् ।\nदुःस्थे चन्द्रे बलैर्युक्ते क्वचिल्लाभं क्वचित्सुखम् ।\nदेहजाड्यं क्वचिच्चैव शान्त्या तत्र शुभं दिशेत्",
+      "english_meaning": "Trouble to mother, mental worry, and bodily pain. If in evil house but strong, mixed results appear.",
+      "hindi_meaning": "माता को कष्ट, मनस्ताप और शारीरिक पीड़ा होती है। दुःस्थान में होने पर भी यदि बली हो, तो कुछ लाभ-सुख मिलता है।"
+    },
+    {
+      "number": 27,
+      "text": "स्वभोच्चादिगतस्यैवं नीचशत्रुभगस्य च ।\nब्रवीमि भूमिपुर्तस्य शुभाऽशुभदशाफलम्",
+      "english_meaning": "Now I tell the good and bad results of Mars (Bhumiputra) based on its various zodiacal placements.",
+      "hindi_meaning": "अब मैं मंगल (भूमिपुत्र) के अपनी राशि, उच्च, शत्रु राशि आदि में स्थित होने के शुभाशुभ फल कहता हूँ।"
+    },
+    {
+      "number": 28,
+      "text": "परमोच्चगते भौमे स्वोच्चे मूलत्रिकोणगे ।\nस्वर्क्षे केन्द्रत्रिकोणे वा लाभे वा धनगेऽपि वा",
+      "english_meaning": "If Mars is in extreme exaltation, own sign, or Moolatrikona, in quadrant, trine, 11th, or 2nd house.",
+      "hindi_meaning": "यदि मंगल परमोच्च, स्वोच्च, मूलत्रिकोण या स्वराशि का होकर केन्द्र, त्रिकोण, लाभ या द्वितीय भाव में हो।"
+    },
+    {
+      "number": 29,
+      "text": "सम्पूर्णबलसंयुक्ते शुभदृष्टे शुभांशके ।\nराज्यलाभं भूमिलाभं धनधान्यादिलाभकृत्",
+      "english_meaning": "With full strength, aspected by benefics, and in a benefic Amsha: gain of kingdom, land, and wealth.",
+      "hindi_meaning": "पूर्ण बल से युक्त, शुभ दृष्ट और शुभांश में होने पर राज्य, भूमि और धन-धान्य का लाभ कराता है।"
+    },
+    {
+      "number": 30,
+      "text": "आधिक्यं राजसम्मानं वाहनाम्बरभूषणम् ।\nविदेशे स्थानलाभं च सोदराणां सुखं लभेत्",
+      "english_meaning": "High status, honor from king, vehicles, clothes, ornaments, and happiness from brothers.",
+      "hindi_meaning": "पद की वृद्धि, राजसम्मान, वाहन, वस्त्र-आभूषण, विदेश में स्थान लाभ और भाइयों का सुख मिलता है।"
+    },
+    {
+      "number": 31,
+      "text": "केन्द्रे गते सदा भौमे दुश्चिक्ये बलसंयुते ।\nपराक्रमाद्वित्तलाभो युद्धे शत्रुजयो भवेत्",
+      "english_meaning": "If Mars is in a quadrant or the 3rd house with strength, bravery brings wealth and victory over enemies.",
+      "hindi_meaning": "यदि मंगल केन्द्र या तृतीय भाव में बली हो, तो पराक्रम से धन लाभ और युद्ध में शत्रुओं पर विजय प्राप्त होती है।"
+    },
+    {
+      "number": 32,
+      "text": "कलत्रपुत्रविभवं राजसम्मानमेव च ।\nदशादौ सुखमाप्नोति दशान्ते कष्टमादिशेत्",
+      "english_meaning": "If Mars is weak, in the 6th, 8th, or 12th house, and joined or aspected by malefics.",
+      "hindi_meaning": "यदि मंगल दुर्बल हो, छठे, आठवें या बारहवें भाव में हो, और पाप ग्रहों से युक्त या दृष्ट हो।"
+    },
+    {
+      "number": 33,
+      "text": "नीचादिदुष्टभावस्थे भौमे बलविवर्जिते ।\nपापयुक्ते पापदृष्टे सा दशा नेष्टदायिका",
+      "english_meaning": "Loss of position, fear from king/thieves, skin diseases like leprosy, and trouble from poison or weapons.",
+      "hindi_meaning": "पद च्युति, राजा और चोरों का भय, कुष्ठ या खुजली जैसे चर्म रोग, और विष या शस्त्रों से पीड़ा होती है।"
+    },
+    {
+      "number": 34,
+      "text": "एवं राहोश्च केतोश्च कथयामि गृहादिकम् ।\nतयोर्दशाफलज्ञप्त्यै तवाऽग्रे द्विजनन्दन",
+      "english_meaning": "Diseases like epilepsy or mental agony. Poverty and sorrow to brothers.",
+      "hindi_meaning": "मिर्गी (Epilepsy) जैसे रोग या मानसिक पीड़ा होती है। दरिद्रता और भाइयों को कष्ट होता है।"
+    },
+    {
+      "number": 35,
+      "text": "राहोस्तु वृषभं केतोर्वृश्चिकं तुङ्गसंज्ञकम् ।\nमूलत्रिकोणकं ज्ञेयं युग्मं चापं क्रमेण च",
+      "english_meaning": "Rahu's Dasa: If Rahu is in exaltation (Taurus etc.), Moolatrikona, quadrant, 11th, or trine.",
+      "hindi_meaning": "राहु की दशा: यदि राहु उच्च (वृष आदि), मूलत्रिकोण, केन्द्र, लाभ या त्रिकोण भाव में स्थित हो।"
+    },
+    {
+      "number": 36,
+      "text": "कुम्भाली च गृहौ प्रोक्तौ कन्यामीनौ च केनचित् ।\nतद्दाये बहुसौख्यं च धनधान्यादिसम्पदाम्",
+      "english_meaning": "Respect from king, wealth, cattle, clothes, and joy from sons and wife.",
+      "hindi_meaning": "राजा से सम्मान, धन, पशु, वस्त्रों की प्राप्ति और स्त्री-पुत्रों का सुख मिलता है।"
+    },
+    {
+      "number": 37,
+      "text": "मित्र्प्रभुवशादिष्टं वाहनं पुत्रसम्भवः ।\nनवीनगृहनिर्माणं धर्मचिन्ता महोत्सवः",
+      "english_meaning": "Gain of kingdom, happiness at home, success in foreign lands, and auspicious events like marriage.",
+      "hindi_meaning": "राज्य लाभ, घर में सुख, विदेश यात्रा में सफलता और विवाह जैसे शुभ कार्य सम्पन्न होते हैं।"
+    },
+    {
+      "number": 38,
+      "text": "विदेशराजसन्मानं वस्त्रालङ्कारभूषणम् ।\nशुभयुक्ते शुभैर्दृष्टे योगकारकसंयुते",
+      "english_meaning": "Construction of a new house, gain of vehicles, and an inclination towards religious or virtuous deeds.",
+      "hindi_meaning": "नूतन गृह का निर्माण, वाहनों का लाभ और धर्म-पुण्य के कार्यों में रुचि बढ़ती है।"
+    },
+    {
+      "number": 39,
+      "text": "केन्द्रत्रिकूणलाभे वा दुश्चिक्ये शुभराशिगे ।\nमहाराजप्रसादेन सर्वसम्पत्सुखावहम्",
+      "english_meaning": "If Rahu is in the 8th or 12th house, or joined with malefic planets.",
+      "hindi_meaning": "यदि राहु आठवें या बारहवें भाव में हो, अथवा पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 40,
+      "text": "यवनप्रभुसन्मानं ग्र्हे कल्याणसम्भवम् ।\nरन्ध्रे वा व्ययगे राहौ तद्दाये कष्टमादिशेत्",
+      "english_meaning": "Loss of place, mental worry, trouble to wife and sons, and separation from kin.",
+      "hindi_meaning": "स्थान नाश, मानसिक चिन्ता, स्त्री-पुत्रों को कष्ट और बन्धु-बान्धवों से वियोग होता है।"
+    },
+    {
+      "number": 41,
+      "text": "पापग्रहेण सम्बन्धे मारकग्र्हसंयुते ।\nनीचराशिगते वापि स्थानभ्रंशो मनोव्यथा",
+      "english_meaning": "Danger from thieves or the king, loss of wealth, and fear from poison or weapons.",
+      "hindi_meaning": "चोरों या राजा से भय, धन की हानि, और विष या शस्त्रों से संकट उत्पन्न होता है।"
+    },
+    {
+      "number": 42,
+      "text": "विनाशो दारपुत्राणां कुत्सितान्नं च भोजनम् ।\nदशादौ देहपीडा च धनधान्यपरिच्युतिः",
+      "english_meaning": "If Rahu is in a quadrant or trine, it brings mixed results: happiness at start/end, and sorrow in middle.",
+      "hindi_meaning": "यदि राहु केन्द्र या त्रिकोण में हो, तो मिश्रित फल देता है: आरम्भ और अन्त में सुख, मध्य में दुःख।"
+    },
+    {
+      "number": 43,
+      "text": "दशामध्ये तु सौख्यं स्यात् स्वदेशे धनलाभकृत् ।\nदशान्ते कष्टमाप्नोति स्थानभ्रंशो मनोव्यथा",
+      "english_meaning": "Jupiter's Dasa: If Jupiter is in exaltation, own sign, Moolatrikona, quadrant, trine, or 11th house.",
+      "hindi_meaning": "गुरु की दशा: यदि गुरु उच्च, स्वराशि, मूलत्रिकोण, केन्द्र, त्रिकोण या लाभ भाव में स्थित हो।"
+    },
+    {
+      "number": 44,
+      "text": "यः सर्वेषु नाभोगेषु बुधैरतिशुभः स्मृतः ।\nतस्य देवेन्द्रपूज्यस्य कथयामि दशाफलम्",
+      "english_meaning": "Endowed with strength and in a benefic Amsha: gain of kingdom, wealth, and honors.",
+      "hindi_meaning": "बलवान और शुभांश में होने पर: राज्य प्राप्ति, धन लाभ और मान-सम्मान मिलता है।"
+    },
+    {
+      "number": 45,
+      "text": "स्वोच्चे स्वक्षेत्रगे जीवे केन्द्रे लाभत्रिकोणगे ।\nमूलत्रिकोणलाभे वा तुंगांशे स्वांशगेऽपि वा",
+      "english_meaning": "Birth of sons, happiness at home, success in all efforts, and increase in fame.",
+      "hindi_meaning": "पुत्र जन्म, घर में सुख-शान्ति, सभी प्रयासों में सफलता और यश में वृद्धि होती है।"
+    },
+    {
+      "number": 46,
+      "text": "राज्यलाभं महापौरुषं राजसन्मानकीर्तनम् ।\nगजवाजिसमायुक्तं देवब्राह्मणपूजनम्",
+      "english_meaning": "Knowledge of many sciences, gain of elephants/horses, and success in religious tasks.",
+      "hindi_meaning": "अनेक शास्त्रों का ज्ञान, हाथी-घोड़ों (वाहनों) का लाभ और धार्मिक कार्यों में सिद्धि मिलती है।"
+    },
+    {
+      "number": 47,
+      "text": "दारपुत्रादिसौख्यं च वाहनांबरलाभजम् ।\nयज्ञादिकर्मसिद्धिः स्याद्वेदान्तश्रवणादिकम्",
+      "english_meaning": "If Jupiter is in debilitation, 6th, 8th, or 12th house, weak and joined with malefics.",
+      "hindi_meaning": "यदि गुरु नीच का, छठे, आठवें या बारहवें भाव में हो, दुर्बल और पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 48,
+      "text": "महाराजप्रसादेनाऽभीष्टसिद्धिः सुखावहा ।\nआन्दोलिकादिलाभश्च कल्याणं च महत्सुखम्",
+      "english_meaning": "Loss of wealth, mental distress, trouble from sons, and loss of kin.",
+      "hindi_meaning": "धन की हानि, मानसिक व्यथा, पुत्रों से कष्ट और बन्धुओं का वियोग होता है।"
+    },
+    {
+      "number": 49,
+      "text": "पुत्रदारादिलाभश्च अन्नदानं महत्प्रियम् ।\nनीचास्तपापसंयुक्ते जीवै रिष्फाष्टसंयुते",
+      "english_meaning": "Poverty, sorrow, fear from king, and destruction of accumulated wealth.",
+      "hindi_meaning": "दरिद्रता, शोक, राजा से भय और संचित धन का विनाश होता है।"
+    },
+    {
+      "number": 50,
+      "text": "स्थानभ्रंशं मनस्तापं पुत्रपीडामहद्भयम् ।\nपश्वादिधनहानिश्च तीर्थयात्रादिकं लभेत्",
+      "english_meaning": "If Jupiter is strong and in a quadrant, it gives excellent results throughout the Dasa.",
+      "hindi_meaning": "यदि गुरु बलवान होकर केन्द्र में हो, तो पूरी दशा के दौरान अत्यन्त श्रेष्ठ फल प्रदान करता है।"
+    },
+    {
+      "number": 51,
+      "text": "आदौ कष्टफलं चैव चतुष्पाज्जीवलाभकृत् ।\nमध्यान्ते सुखमाप्नोति राजसम्मानवैभवम्",
+      "english_meaning": "Saturn's Dasa: If Saturn is in exaltation, own sign, Moolatrikona, quadrant, trine, or 11th house.",
+      "hindi_meaning": "शनि की दशा: यदि शनि उच्च, स्वराशि, मूलत्रिकोण, केन्द्र, त्रिकोण या लाभ भाव में हो।"
+    },
+    {
+      "number": 52,
+      "text": "अथ सर्वेषु खेटेषु योऽतिहीनः प्रकीर्तितः ।\nतस्य भास्करपुत्रस्य कथयामि दशाफलम्",
+      "english_meaning": "Gain of kingdom, wealth, success in agriculture, and joy from family.",
+      "hindi_meaning": "राज्य लाभ, धन प्राप्ति, कृषि कार्यों में सफलता और परिवार में प्रसन्नता रहती है।"
+    },
+    {
+      "number": 53,
+      "text": "स्वोच्चे स्वक्षेत्रगे मन्दे मित्रक्षेत्रेऽथ वा यदि ।\nमूलत्रिकोणे भाग्ये वा तुंगांशे स्वांशगेऽपि वा",
+      "english_meaning": "Respect in society, increase in wealth from many sources, and favor from the king.",
+      "hindi_meaning": "समाज में सम्मान, अनेक स्रोतों से धन का आगमन और राजा की कृपा प्राप्त होती है।"
+    },
+    {
+      "number": 54,
+      "text": "दुश्चिक्ये लाभगे चैव राजसम्मानवैभवम् ।\nसत्कीर्तिर्धनलाभश्च विद्यावादविनोदकृत्",
+      "english_meaning": "Happiness of brothers, gain of land or house, and construction of new projects.",
+      "hindi_meaning": "भाइयों का सुख, भूमि-भवन का लाभ और नई योजनाओं का निर्माण होता है।"
+    },
+    {
+      "number": 55,
+      "text": "महाराजप्रसादेन गजवाहनभूषणम् ।\nराजयोगं प्रकुर्वीत सेनाधीशान्महत्सुखम्",
+      "english_meaning": "If Saturn is in debilitation, 6th, 8th, or 12th house, weak and joined with malefics.",
+      "hindi_meaning": "यदि शनि नीच राशि, छठे, आठवें या बारहवें भाव में हो, दुर्बल और पाप युक्त हो।"
+    },
+    {
+      "number": 56,
+      "text": "लक्ष्मीकटाक्षचिह्नानि राज्यलाभं करोति च ।\nगृहे कल्याणसम्पत्तिर्दारपुत्रादिलाभकृत्",
+      "english_meaning": "Loss of wealth, mental sorrow, trouble to wife and sons, and fear from enemies.",
+      "hindi_meaning": "धन की हानि, मानसिक क्लेश, स्त्री-पुत्रों को कष्ट और शत्रुओं से भय होता है।"
+    },
+    {
+      "number": 57,
+      "text": "षष्ठाष्टमव्यये मन्दे नीचे वाऽस्तङ्गतेऽपि वा ।\nविषशस्त्रादिपीडा च स्थाभ्रंशं महद्भयम्",
+      "english_meaning": "Illness, loss of place, poverty, and wandering in foreign lands.",
+      "hindi_meaning": "बीमारी, स्थान का नाश, निर्धनता और विदेश में भटकना पड़ता है।"
+    },
+    {
+      "number": 58,
+      "text": "पितृमातृवियोगं च दारपुत्रादिपीडनम् ।\nराजवैस्ःअम्यकार्याणि ह्यनिष्टं बन्धनं तथा",
+      "english_meaning": "Fear from poison or weapons, loss of reputation, and destruction of business.",
+      "hindi_meaning": "विष या शस्त्रों से भय, अपयश और व्यापार में भारी हानि होती है।"
+    },
+    {
+      "number": 59,
+      "text": "शुभयुक्तेक्षिते मन्दे योगकारकसंयुते ।\nकेन्द्रत्रिकोणलाभे वा मीनगे कार्मुके शनौ",
+      "english_meaning": "If Saturn is joined with benefics, results are mixed. Some happiness and wealth appear.",
+      "hindi_meaning": "यदि शनि शुभ ग्रहों से युक्त हो, तो मिश्रित फल मिलता है। कुछ सुख और धन की प्राप्ति होती है।"
+    },
+    {
+      "number": 60,
+      "text": "राज्यलाभं महोत्साहं गजश्वाम्बरसंकुलम्",
+      "english_meaning": "Mercury's Dasa: If Mercury is in exaltation, own sign, quadrant, trine, or 11th house.",
+      "hindi_meaning": "बुध की दशा: यदि बुध उच्च, स्वराशि, केन्द्र, त्रिकोण या लाभ भाव में स्थित हो।"
+    },
+    {
+      "number": 61,
+      "text": "अथ सर्वनभोगेषु यः कुमारः प्रकीर्तितः ।\nतस्य तारेशपुत्रस्य कथयामि दशाफलम्",
+      "english_meaning": "Mercury's Dasa: Joined with benefics and having strength, it brings success in knowledge, wealth, and marriage.",
+      "hindi_meaning": "बुध की दशा: शुभ ग्रहों से युक्त और बली होने पर विद्या, धन और विवाह में सफलता मिलती है।"
+    },
+    {
+      "number": 62,
+      "text": "स्वोच्चे स्वक्षेत्रसंयुक्ते केन्द्रलाभत्रिकोणगे ।\nमित्रक्षेत्रसमायुक्ते सौम्ये दाये महत्सुखम्",
+      "english_meaning": "Gain of auspicious items, fame, friendship with wise people, and success in education and business.",
+      "hindi_meaning": "शुभ वस्तुओं की प्राप्ति, यश, विद्वानों से मित्रता और शिक्षा एवं व्यापार में सफलता मिलती है।"
+    },
+    {
+      "number": 63,
+      "text": "धनधान्यादिलाभं च सत्कीर्तिधनसम्पदाम् ।\nज्ञानाधिक्यं नृपप्रीतिं सत्कर्मगुणवर्द्धनम्",
+      "english_meaning": "Respect from the king, happiness from kin, success in all efforts, and gain of wealth through trade.",
+      "hindi_meaning": "राजा से सम्मान, बन्धुओं का सुख, सभी कार्यों में सिद्धि और व्यापार से धन का लाभ होता है।"
+    },
+    {
+      "number": 64,
+      "text": "पुत्रदारादिसौख्यं च देहारोग्यं महत्सुखम् ।\nक्षीरेण भोजनं सौख्यं व्यापाराल्लभते धनम्",
+      "english_meaning": "If Mercury is in debilitation, 6th, 8th, or 12th house, weak and joined with malefics.",
+      "hindi_meaning": "यदि बुध नीच का, छठे, आठवें या बारहवें भाव में हो, दुर्बल और पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 65,
+      "text": "शुभदृष्टियुते सौम्ये भाग्ये कर्माधिपे दशा ।\nआधिपत्ये बलवती सम्पूर्ण्फलदादिका",
+      "english_meaning": "Destruction of knowledge and wealth, mental worry, trouble from kin, and failure in efforts.",
+      "hindi_meaning": "विद्या और धन का नाश, मानसिक चिन्ता, बन्धुओं से कष्ट और प्रयासों में विफलता होती है।"
+    },
+    {
+      "number": 66,
+      "text": "पापग्रहयुते दृष्टे राजद्वेषं मनोरुजम् ।\nबन्धुजनविरोधं च विदेशगमनं लभेत्",
+      "english_meaning": "Diseases of skin, nerves, or lungs. Poverty and wandering in search of livelihood.",
+      "hindi_meaning": "चर्म रोग, स्नायु (Nerves) या फेफड़ों के रोग होते हैं। निर्धनता और जीविका के लिए भटकना पड़ता है।"
+    },
+    {
+      "number": 67,
+      "text": "परप्रेष्यं च कलहं मूर्तकृर्च्छान्महन्भयम् ।\nषष्ठाष्टमव्यये सौम्ये लाभभोगार्थनाशनम्",
+      "english_meaning": "If Mercury is in a quadrant but weak, results are mixed: good at the start and sorrow at the end.",
+      "hindi_meaning": "यदि बुध केन्द्र में हो परन्तु दुर्बल हो, तो मिश्रित फल मिलता है: आरम्भ में शुभ और अन्त में दुःख।"
+    },
+    {
+      "number": 68,
+      "text": "वातपीडां धनं चैवं पाण्डुरोगं विनिर्दिशेत् ।\nनृपचौराग्निभीतिं च कृषिगोभूमिनाशनम्",
+      "english_meaning": "Ketu's Dasa: If Ketu is in exaltation, own sign, quadrant, trine, or 11th house.",
+      "hindi_meaning": "केतु की दशा: यदि केतु उच्च, स्वराशि, केन्द्र, त्रिकोण या लाभ भाव में स्थित हो।"
+    },
+    {
+      "number": 69,
+      "text": "दशादौ धनधान्यं च विद्यालाभं महत्सुखम् ।\nपुत्रकल्याणसम्पत्तिः सन्मार्गे धनलाभकृत्",
+      "english_meaning": "Gain of wealth, happiness from sons and wife, and success in virtuous or religious deeds.",
+      "hindi_meaning": "धन लाभ, पुत्र-स्त्री का सुख और पुण्य कार्यों में सफलता प्राप्त होती है।"
+    },
+    {
+      "number": 70,
+      "text": "मध्ये नरेन्द्रसन्मानमन्ते दुःखं भविष्यति",
+      "english_meaning": "Increase in fame, gain of land or house, and favors from great people or authorities.",
+      "hindi_meaning": "यश में वृद्धि, भूमि-भवन का लाभ और महान व्यक्तियों या अधिकारियों की कृपा मिलती है।"
+    },
+    {
+      "number": 71,
+      "text": "यस्तमोग्रहयोर्मध्ये कबन्धः कथ्यते बुधैः ।\nतस्य केतोरिदानीं ते कथेयामि दशाफलम्",
+      "english_meaning": "If Ketu is in the 8th or 12th house, or joined with malefic planets.",
+      "hindi_meaning": "यदि केतु आठवें या बारहवें भाव में हो, अथवा पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 72,
+      "text": "केन्द्रे लाभे त्रिकोणे व शुभराशौ शुभेक्षिते ।\nस्वोच्चे वा शुभवर्गे वा राजप्रीतिं मनोनुगम्",
+      "english_meaning": "Loss of wealth, bodily pain, mental worry, and fear from thieves or the king.",
+      "hindi_meaning": "धन की हानि, शारीरिक पीड़ा, मानसिक व्यथा और चोरों या राजा से भय होता है।"
+    },
+    {
+      "number": 73,
+      "text": "देशाग्रामाधिपत्यं च वाहनं पुत्रसम्भवम् ।\nदेशान्तरप्रयाणं च निर्दिशेत् तत् सुखावहम्",
+      "english_meaning": "Failure in efforts, sorrow to sons and wife, and separation from kin.",
+      "hindi_meaning": "प्रयासों में विफलता, स्त्री-पुत्रों को शोक और बन्धु-बान्धवों से वियोग होता है।"
+    },
+    {
+      "number": 74,
+      "text": "पुत्रदारसुखं चैव चतुष्पाज्जीवलाभकृत् ।\nदुश्चिक्ये षष्ठलाभे वा केतुर्दाये सुखं दिशेत्",
+      "english_meaning": "Venus's Dasa: If Venus is in exaltation, own sign, Moolatrikona, quadrant, trine, or 11th house.",
+      "hindi_meaning": "शुक्र की दशा: यदि शुक्र उच्च, स्वराशि, मूलत्रिकोण, केन्द्र, त्रिकोण या लाभ भाव में हो।"
+    },
+    {
+      "number": 75,
+      "text": "राज्यं करोति मित्रांशं गजवाजिसमन्वितम् ।\nदशदौ राजयोगश्च दशामध्ये महद्भयम्",
+      "english_meaning": "Endowed with strength and in a benefic Amsha: gain of kingdom, wealth, and many pleasures.",
+      "hindi_meaning": "बलवान और शुभांश में होने पर: राज्य प्राप्ति, धन लाभ और अनेक प्रकार के सुख-भोग मिलते हैं।"
+    },
+    {
+      "number": 76,
+      "text": "अन्ते दूराटनं चैव देहविश्रमणं तथा ।\nधने रन्ध्रे व्यये केतौ पापदृष्टियुतेक्षिते",
+      "english_meaning": "Marriage, happiness from wife, birth of sons, and gain of vehicles and fine clothes.",
+      "hindi_meaning": "विवाह, पत्नी का सुख, पुत्र जन्म और वाहन एवं उत्तम वस्त्रों की प्राप्ति होती है।"
+    },
+    {
+      "number": 77,
+      "text": "निगडं बन्धुनाशं च स्थानभ्रंशं मनोरुजम् ।\nशूद्रसङ्गादिलाभं च कुरुते रोगसंकुलम्",
+      "english_meaning": "Success in arts, increase in luxury, and honor from the king.",
+      "hindi_meaning": "कलाओं में सिद्धि, विलासिता में वृद्धि और राजा से सम्मान प्राप्त होता है।"
+    },
+    {
+      "number": 78,
+      "text": "अथ भूतेषु यः शुक्रा मदरूपेण तिष्ठति ।\nतस्य दैत्यगुरोर्विप्र कथयामि दशाफलम्",
+      "english_meaning": "If Venus is in debilitation, 6th, 8th, or 12th house, weak and joined with malefics.",
+      "hindi_meaning": "यदि शुक्र नीच का, छठे, आठवें या बारहवें भाव में हो, दुर्बल और पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 79,
+      "text": "परमोच्चगते शुक्रे स्वोच्चे स्वक्षेत्रकेन्द्रगे ।\nनृपाऽभिषेकसम्प्राप्तिर्वाहनाऽम्बरभूषणम्",
+      "english_meaning": "Loss of wealth, sorrow related to wife, mental distress, and bodily diseases.",
+      "hindi_meaning": "धन का नाश, स्त्री के कारण शोक, मानसिक कष्ट और शारीरिक रोग होते हैं।"
+    },
+    {
+      "number": 80,
+      "text": "गजाश्वपशुलाभं च नित्यं मिष्ठान्नभोजनम् ।\nअखण्डमण्डलाधीशाराजसन्मानवैभवम्",
+      "english_meaning": "Destruction of business, fear from enemies, and lack of general comforts.",
+      "hindi_meaning": "व्यापार में हानि, शत्रुओं से भय और सामान्य सुख-सुविधाओं का अभाव रहता है।"
+    },
+    {
+      "number": 81,
+      "text": "मृदङ्गवाद्यघोषं च गृहे लक्ष्मीकटाक्षकृत् ।\nत्रिकोणस्थे निजे तस्मिन् राज्यार्थगृहहसम्पदः",
+      "english_meaning": "If Venus is in the 2nd house with strength, gain of immense wealth and family happiness.",
+      "hindi_meaning": "यदि शुक्र द्वितीय भाव में बली हो, तो अपार धन लाभ और पारिवारिक सुख देता है।"
+    },
+    {
+      "number": 82,
+      "text": "विवाहोत्सवकार्याणि पुत्रकल्याणवैभवम् ।\nसेनाधिपत्यं कुरुते इष्टबन्धुसमागनम्",
+      "english_meaning": "Having told the general results of the 9 Mahadasas, I will now explain the Antardasa (sub-period) results.",
+      "hindi_meaning": "नौ महादशाओं के सामान्य फल बताने के बाद, अब मैं अन्तर्दशाओं के फलों का विवरण दूँगा।"
+    },
+    {
+      "number": 83,
+      "text": "नष्टराज्याद्धनप्राप्तिं गृहे गोधनसङ्ग्रहम् ।\nषष्ठाष्टमव्यये शुक्रे नीचे वा व्ययराशिगे",
+      "english_meaning": "Results of Antardasa are known by combining the natures of both the Mahadasa and Antardasa lords.",
+      "hindi_meaning": "दशानाथ और अन्तर्दशानाथ दोनों के स्वभाव को मिलाकर अन्तर्दशा का फल जानना चाहिए।"
+    },
+    {
+      "number": 84,
+      "text": "आत्मबन्धुजनद्वेषं दारवर्गादिपीडनम् ।\nव्यवसायात्फ्लं नष्टं गोमहिष्यादिहानिकृत्",
+      "english_meaning": "If the Antardasa lord is in a quadrant, trine, or 11th from the Mahadasa lord, or in its own/exaltation sign.",
+      "hindi_meaning": "यदि अन्तर्दशानाथ, महादशानाथ से केन्द्र, त्रिकोण या लाभ भाव में हो, या अपनी उच्च-स्वराशि में हो।"
+    },
+    {
+      "number": 85,
+      "text": "दारपुत्रादिपीडा वा आत्मबन्धुवियोगकृत् ।\nभाग्यकर्माधिपत्येन लग्नवाहनराशिगे",
+      "english_meaning": "Then results are auspicious: happiness, wealth, and success in all efforts are gained.",
+      "hindi_meaning": "तो फल शुभ होते हैं: सुख, धन और सभी कार्यों में सफलता प्राप्त होती है।"
+    },
+    {
+      "number": 86,
+      "text": "तद्दशायां महत्सौख्यं देशग्रामाधिपालता ।\nदेवालयतडागादिपुण्यकर्मसु संग्रहः",
+      "english_meaning": "If in the 6th, 8th, or 12th from the Mahadasa lord, weak, debilitated, or joined with malefics.",
+      "hindi_meaning": "यदि महादशानाथ से छठे, आठवें या बारहवें भाव में हो, दुर्बल, नीच का या पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 87,
+      "text": "अन्नदाने महत्सौख्यं नित्यं मिष्ठान्नभोजनम् ।\nउत्साहः कीर्तिसम्पत्ती स्त्रीपुत्रधनसम्पदः",
+      "english_meaning": "Then results are inauspicious: loss of wealth, disease, mental worry, and fear from enemies.",
+      "hindi_meaning": "तो फल अशुभ होते हैं: धन हानि, रोग, मानसिक चिन्ता और शत्रुओं का भय होता है।"
+    },
+    {
+      "number": 88,
+      "text": "स्वभुक्तौ फलमेवं स्याद्बलान्यन्यानि भुक्तिषु ।\nद्वितीयद्यूननाथे तु देहपीडा भविष्यति",
+      "english_meaning": "Now I begin describing the specific Antardasa results within each major Mahadasa.",
+      "hindi_meaning": "अब मैं प्रत्येक महादशा के अन्तर्गत आने वाली विशिष्ट अन्तर्दशाओं के फलों का वर्णन आरम्भ करता हूँ।"
+    },
+    {
+      "number": 89,
+      "text": "तद्दोषपरिहारार्थं रुद्रं वा त्र्यम्बकं जपेत् ।\nस्वेतां गां महिषीं दव्यादारोग्यं च ततो भवेत्",
+      "english_meaning": "Sun Mahadasa - Sun Antardasa: Success in royal favor, gain of wealth, and increase in fame.",
+      "hindi_meaning": "सूर्य महादशा - सूर्य अन्तर्दशा: राजकीय कृपा, धन लाभ और यश में वृद्धि होती है।"
+    }
+  ]
+}

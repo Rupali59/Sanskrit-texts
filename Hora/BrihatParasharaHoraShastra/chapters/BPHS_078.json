@@ -1,0 +1,108 @@
+{
+  "source_file": "BPHS7180.md",
+  "source_chunk": "BPHS7180.json",
+  "chunk_index": 7,
+  "chapter": 78,
+  "variant": null,
+  "title": "अथ नष्टजातकाध्यायः",
+  "shloka_count": 16,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "जन्मकालवशादेवं फलं प्रोक्तं त्वया मुने ।\nयज्जन्मसमयोऽज्ञातो ज्ञेयं तस्य फलं कथम्",
+      "english_meaning": "Maitreya asks: O Sage, you have explained the results based on the birth time. But how can we determine the results for someone whose birth time is unknown?",
+      "hindi_meaning": "मैत्रेय पूछते हैं: हे मुनि, आपने जन्म समय के आधार पर फलों की व्याख्या की है। लेकिन जिस व्यक्ति का जन्म समय अज्ञात हो, उसके फलों का निर्धारण हम कैसे कर सकते हैं?"
+    },
+    {
+      "number": 2,
+      "text": "शुभं वाऽप्यशुभं वापि मनुजस्य पुराकृतम् ।\nअस्ति कश्चिदुपायश्चेत् तं भवान् वक्तुमर्हति",
+      "english_meaning": "Is there any method to find out the past deeds (Karma) and future outcomes for such a person? Please enlighten me.",
+      "hindi_meaning": "क्या ऐसे व्यक्ति के पिछले कर्मों और भविष्य के परिणामों का पता लगाने का कोई तरीका है? कृपया मुझे प्रबुद्ध करें।"
+    },
+    {
+      "number": 3,
+      "text": "साधु पृष्टं त्वया विप्र लोकानुग्रहमानसा ।\nकथयामि तव स्नेहात् फलमज्ञातजन्मनाम्",
+      "english_meaning": "Parasara replies: You have asked a very useful question. I will now explain the method to determine birth details for those with unknown birth times using a query (Prasna).",
+      "hindi_meaning": "पराशर उत्तर देते हैं: आपने बहुत उपयोगी प्रश्न पूछा है। अब मैं प्रश्न कुण्डली का उपयोग करके अज्ञात जन्म समय वालों के लिए जन्म विवरण निर्धारित करने की विधि की व्याख्या करूँगा।"
+    },
+    {
+      "number": 4,
+      "text": "वर्षायनर्तुमासार्धतिथिनक्षत्रभादिषु ।\nयदज्ञातं च तन्मानं ज्ञायते प्रश्नलग्नतः",
+      "english_meaning": "The unknown birth year, Ayana, season, month, Tithi, and Nakshatra can be determined from the positions of planets in the Prasna Lagna (query chart).",
+      "hindi_meaning": "अज्ञात जन्म वर्ष, अयन, ऋतु, मास, तिथि और नक्षत्र का निर्धारण प्रश्न लग्न (प्रश्न कुण्डली) में ग्रहों की स्थिति से किया जा सकता है।"
+    },
+    {
+      "number": 5,
+      "text": "प्रश्नाङ्गद्वादशांशर्क्षस्थिते जन्म वदेत् गुरौ ।\nअयनं लग्नपूर्वार्धे सौम्यं याम्यं परार्धके",
+      "english_meaning": "The position of Jupiter in the Dwadasamsa of the Prasna Lagna indicates the sign occupied by Jupiter at the time of birth.",
+      "hindi_meaning": "प्रश्न लग्न के द्वादशांश में गुरु की स्थिति जन्म के समय गुरु द्वारा अधिष्ठित राशि को इंगित करती है।"
+    },
+    {
+      "number": 6,
+      "text": "ऋतुर्लग्नदृकाणर्क्षस्वामिभिः शशिरादयः ।\nशनिशुक्रकुजेन्दुज्ञजीवैर्ग्रीष्मस्तु भानुना",
+      "english_meaning": "The Ayana (Northern or Southern) is determined by the half of the Lagna that is rising. The season (Ritu) is indicated by the lord of the Drekkana of the Lagna.",
+      "hindi_meaning": "अयन (उत्तरायण या दक्षिणायन) लग्न के आधे भाग से निर्धारित होता है। ऋतु (ऋतु) का संकेत लग्न के द्रेष्काण के स्वामी द्वारा दिया जाता है।"
+    },
+    {
+      "number": 7,
+      "text": "अयनर्तुविरोधे तु परिवर्त्याः परस्परम् ।\nबुधचन्द्र सुराचार्याः कुजशुक्रशनैश्चरैः",
+      "english_meaning": "Planetary rulers of seasons: Saturn-Venus (Winter), Mars (Summer), Moon (Rainy), Mercury (Autumn), Jupiter (Early Winter), Sun (Summer/Spring).",
+      "hindi_meaning": "ऋतुओं के ग्रहीय शासक: शनि-शुक्र (शिशिर), मंगल (ग्रीष्म), चन्द्र (वर्षा), बुध (शरद), गुरु (हेमन्त), सूर्य (ग्रीष्म/वसन्त)।"
+    },
+    {
+      "number": 8,
+      "text": "मासो दृकाणपूर्वार्धेर्पूर्वोऽन्यस्तु परार्धके ।\nअनुपातात् तिथिर्ज्ञेया भास्करांशसमा द्विज",
+      "english_meaning": "If there is a conflict between the Ayana and the Season indicated, corrections should be made using the relative positions of planets.",
+      "hindi_meaning": "यदि अयन और सूचित ऋतु के बीच कोई विरोध हो, तो ग्रहों की सापेक्ष स्थितियों का उपयोग करके सुधार किया जाना चाहिए।"
+    },
+    {
+      "number": 9,
+      "text": "तद्वशादिष्टकालो यो जन्मकालसमो हि सः ।\nतत्र ग्रहांश्च भावांश्च ज्ञात्वा तस्य फलं वदेत्",
+      "english_meaning": "The month is determined by the specific half of the Drekkana. The Tithi is calculated based on the Sun's degree in the Prasna chart.",
+      "hindi_meaning": "महीने का निर्धारण द्रेष्काण के विशिष्ट आधे भाग द्वारा किया जाता है। तिथि की गणना प्रश्न कुण्डली में सूर्य के अंशों के आधार पर की जाती है।"
+    },
+    {
+      "number": 10,
+      "text": "गुरुर्द्वादशभ्र्वर्षैः पुनस्तद्राशिगो भवेत् ।\nतत् कस्मिन् पर्ययो तस्य ज्ञेयः संवत्सरो मुने",
+      "english_meaning": "Jupiter returns to the same sign every 12 years. One must determine which cycle (Paryaya) of Jupiter corresponds to the native's age.",
+      "hindi_meaning": "गुरु प्रत्येक 12 वर्ष में एक ही राशि में लौटता है। यह निर्धारित करना चाहिए कि गुरु का कौन सा चक्र (पर्याय) जातक की आयु के अनुरूप है।"
+    },
+    {
+      "number": 11,
+      "text": "संवस्तरस्य सन्देहे प्रश्नकर्तुर्द्विजोत्तम ।\nवयोऽनुमानतस्तत्र द्वादश द्वादश क्षिपेत्",
+      "english_meaning": "The native's appearance and traits should be matched with the derived chart to confirm the accuracy of the rectification.",
+      "hindi_meaning": "शुद्धि की सटीकता की पुष्टि करने के लिए जातक की उपस्थिति और लक्षणों का मिलान व्युत्पन्न कुण्डली के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": 12,
+      "text": "तत्रापि संशये जाते गुरुर्लग्नत्रिकोणगः ।\nकल्प्यो वयोऽनुमानेन वत्सरः पूर्ववत् ततः",
+      "english_meaning": "The degrees of the Lagna at birth can be estimated by the position of the Moon in the Prasna chart.",
+      "hindi_meaning": "जन्म के समय लग्न के अंशों का अनुमान प्रश्न कुण्डली में चन्द्रमा की स्थिति से लगाया जा सकता है।"
+    },
+    {
+      "number": 13,
+      "text": "ज्ञात्वा मासं ससूर्यांशं कालज्ञानं कथं भवेत् ।\nभगवन्निति मे ब्रूहि लोकानुग्रहचेतसा",
+      "english_meaning": "Once the birth chart is reconstructed, all standard rules of astrology should be applied to predict the native's life events.",
+      "hindi_meaning": "एक बार जन्म कुण्डली के पुनर्निर्माण के बाद, जातक के जीवन की घटनाओं की भविष्यवाणी करने के लिए ज्योतिष के सभी मानक नियमों को लागू किया जाना चाहिए।"
+    },
+    {
+      "number": 14,
+      "text": "सक्रान्तेरिष्टसूर्यांशतुल्येऽह्नि द्विजसत्तम ।\nरविरौदयिकः साध्यस्तस्येष्टार्कस्य चान्तरम्",
+      "english_meaning": "This method of 'Nasta Jataka' (Lost Horoscopy) requires deep concentration and a thorough understanding of planetary dynamics.",
+      "hindi_meaning": "नष्ट जातक की इस पद्धति के लिए गहन एकाग्रता और ग्रहीय गतिशीलता की गहन समझ की आवश्यकता होती है।"
+    },
+    {
+      "number": 15,
+      "text": "कलीकृत्य स्वषण्निघ्नं स्फुटार्कगतिभाजितम् ।\nलब्धंघट्यादिमानं यत् तावान् सूर्योदयात् परम्",
+      "english_meaning": "The astrologer should also consider omens (Nimittas) occurring at the time of query to refine the results.",
+      "hindi_meaning": "ज्योतिषी को परिणामों को परिष्कृत करने के लिए प्रश्न के समय होने वाले शकुनों (निमित्तों) पर भी विचार करना चाहिए।"
+    },
+    {
+      "number": 16,
+      "text": "पूर्वं जन्मेष्टकालो हि क्रमाज् ज्ञेयो विपश्चिता ।\nसाधितौदयिकादर्कादिष्टेऽर्केऽनिकहीनके",
+      "english_meaning": "Thus ends the chapter on determining unknown birth details (Lost Horoscopy) in the Brihat Parashara Hora Shastra.",
+      "hindi_meaning": "इस प्रकार बृहत् पाराशर होरा शास्त्र में अज्ञात जन्म विवरण निर्धारित करने (नष्ट जातक) पर अध्याय समाप्त होता है।"
+    }
+  ]
+}

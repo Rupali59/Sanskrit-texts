@@ -1,0 +1,750 @@
+{
+  "number": "५",
+  "title": "अथ आयुर्दायाध्यायः",
+  "shlokas": [
+    {
+      "number": "१",
+      "text": "निसर्गपैड्यांशकरश्मिच्क्रनक्षत्रदायाष्टवर्गजाति ।\nपराशराद्यिः कथितानि यानि संगृह्य तानि क्रमशः प्रवच्मि",
+      "english_meaning": "I shall explain in order the various methods of calculating longevity (Nisarga, Pinda, Amsha, etc.) as taught by Parashara and other sages.",
+      "hindi_meaning": "मैं पराशर आदि महर्षियों द्वारा कथित आयु गणना की विधियों - निसर्ग, पिण्ड, अंश, रश्मि, आदि का संक्षेप में वर्णन करता हूँ।"
+    },
+    {
+      "number": "२",
+      "text": "अथ निसर्गायुषो वर्षसङ्ख्यह् ।\nनरवाः ययी द्वु धृतिय्च धृतिय्च कृतिः खबाणा राविपूर्वकाणाम् ।\nइमा निरुक्ताः क्रमयो ग्रहाणां नैसर्गिके ह्वायुषि वर्षसंख्याः",
+      "english_meaning": "Nisargayu: The natural longevity periods for Sun and other planets are 20, 1, 2, 18, 18, 25, and 50 years respectively.",
+      "hindi_meaning": "निसर्गायु: सूर्य आदि सात ग्रहों की नैसर्गिक आयु क्रमशः २०, १, २, १८, १८, २५ और ५० वर्ष कही गई है।"
+    },
+    {
+      "number": "३",
+      "text": "अथ पिण्डायुषो वर्षसंख्यः ।\nनवेन्दवो वाणयमाः शरक्ष्मा दिवाकराः पश्चभुवः कुपक्षाः ।\nनखाश्च भाखत्प्रमुखप्रहाणां पिण्डायुषोऽब्दा निजतुङ्गानाम्",
+      "english_meaning": "Pindayu: Years given by planets in deep exaltation: Sun 19, Moon 25, Mars 15, Mercury 12, Jupiter 15, Venus 21, Saturn 20.",
+      "hindi_meaning": "पिण्डायु: अपने परम उच्च अंशों पर सूर्य १९, चन्द्र २५, मंगल १५, बुध १२, गुरु १५, शुक्र २१ और शनि २० वर्ष की आयु देते हैं।"
+    },
+    {
+      "number": "४",
+      "text": "अथ पिण्डायुषः स्पष्टीकरणविधिः ।\nनिजोश्चशुद्धः खचरो विशोध्योः भमणडलात् षड्भवनोनकश्चेत् ।\nयथास्थितः षड्भवनाधिकश्चेल्लीकृतः सङ्गुणितो निजाब्दैः",
+      "english_meaning": "Clarification of Pindayu: Subtract the planets exaltation degree from its longitude to calculate its contribution.",
+      "hindi_meaning": "पिण्डायु स्पष्टीकरण: ग्रह के स्पष्ट अंशों में से उसके उच्चांश घटाकर उसके योगदान की गणना करें।"
+    },
+    {
+      "number": "५",
+      "text": "तत्र खाभ्ररसचन्द्रलोचनैरुद्धृते सति यदाप्यते फलम् ।\nवर्षमासदिननाडिकार्दकं ताद्धि पीण्डभवमायुरुच्यते",
+      "english_meaning": "The result after dividing minutes by 21600 and multiplying by max years gives Pindayu in years, months, and days.",
+      "hindi_meaning": "कलाओं को २१६०० से भाग देकर और पूर्ण वर्षों से गुणा करने पर वर्ष, मास, दिन आदि में पिण्डायु प्राप्त होती है।"
+    },
+    {
+      "number": "६",
+      "text": "स्वोच्चोनस्फुटखेचरं यदि रसादल्पं भचक्रोद्धृतम्\nलिप्तीकृत्य निजायुरब्दगुणितं तच्चक्रलिप्ताहृतम् ।\nलब्धं वासरनायकादिखचरैर्दृत्तायुरब्दादिकम्\nनीचार्द्धक्रमशो वदन्ति भुनयः पैण्डये च नैसर्गिके",
+      "english_meaning": "A planet at its deep fall gives half of its maximum years, with proportionality applied for intermediate positions.",
+      "hindi_meaning": "नीच राशि में स्थित ग्रह अपनी पूर्ण आयु का आधा देता है, और मध्य की स्थितियों में अनुपात से गणना होती है।"
+    },
+    {
+      "number": "७",
+      "text": "अथायुषो हरणं होरायाम् ।\nनीचेऽतोऽर्त्द्धं ह्वसति हि तत्श्वान्तरस्थेऽनुपातो\nहोरा त्वांशप्रतिभमपरे राशितुल्यं वदन्ति ।\nहित्वा वक्रं रिपुगृहगतैर्हीयते स्वत्रिभागः\nसूर्योचिक्षत्रद्युतिषु च दलं प्रोज्भूय शुक्रार्कपुत्रौ",
+      "english_meaning": "Ayush-Harana: Reductions occur for planets in fall, inimical signs, or combustion (except Venus and Saturn).",
+      "hindi_meaning": "आयु का हरण (कटौती): नीच, शत्रु राशि या अस्त होने पर (शुक्र-शनि को छोड़कर) आयु में कटौती की जाती है।"
+    },
+    {
+      "number": "८",
+      "text": "क्षोणीपुत्रं वर्जियत्वा रिपुस्थार्व्यंशं नीचस्थानगास्ते तदर्धम् ।\nअस्तं याताः शर्व एवार्द्धहानिं कुर्युहित्वा शुक्रमार्तण्डपुत्रौ",
+      "english_meaning": "Planets in inimical signs (except Mars) lose 1/3rd, in fall lose half, and combust (except Venus/Saturn) lose half.",
+      "hindi_meaning": "शत्रु राशि के ग्रह (मंगल छोड़कर) १/३ भाग, नीच में आधा, और अस्त होने पर (शुक्र-शनि छोड़कर) आधा भाग खो देते हैं।"
+    },
+    {
+      "number": "९",
+      "text": "अथ व्ययादिहरणम् ।\nसर्वार्द्धत्रिचरणपश्चषष्ठभागाः क्षीयन्ते व्ययभवनादसत्सु वामम् ।\nसत्स्वर्धं हसति तथैकराशिगानामेकोऽम्श हरति बली तथाऽह सत्यः",
+      "english_meaning": "Vyayadi-Harana: Malefics in houses 12 to 7 lose full to 1/6th respectively; benefics lose half of that.",
+      "hindi_meaning": "व्ययादि हरण: १२वें से ७वें भाव के पाप ग्रह पूर्ण से १/६ भाग तक कम करते हैं; शुभ ग्रहों का हरण इसका आधा होता है।"
+    },
+    {
+      "number": "१०",
+      "text": "एकर्क्षोपगानां यो भवति बलाधिको विशेषेण ।\nक्षपयति यथोत्कभंशं स एव नान्योऽपि तत्रस्थः",
+      "english_meaning": "If multiple planets are in the same house, only the strongest planets reduction is applied.",
+      "hindi_meaning": "यदि एक ही भाव में कई ग्रह हों, तो केवल सबसे बली ग्रह का हरण लागू होता है।"
+    },
+    {
+      "number": "११",
+      "text": "अथ क्रुरोदयहरणम् ।\nसार्द्धोदितोदितनवांशहतात्समस्ताद् भागोऽष्टयुक्तशतसद्ख्य उपैति नाशम् ।\nक्रूरे विलग्नसहिते विधिना त्वनेन सौम्येक्षिते दलमतः प्रलयं प्रयाति",
+      "english_meaning": "Krurodaya-Harana: Malefic in Lagna reduces longevity by rising degree proportion. Benefic aspect halves the loss.",
+      "hindi_meaning": "क्रूरोदय हरण: लग्न में पाप ग्रह होने पर उदित नवांश के अनुपात में आयु कम होती है। शुभ दृष्टि होने पर हानि आधी रह जाती है।"
+    },
+    {
+      "number": "१२",
+      "text": "लिप्रिभूतैर्लग्नभावैर्नहन्यादायुर्द्धयं खेचराणां पृथक्स्यम् ।\nव्योमाकाशत्विन्दुपक्षैर्भजेत्तत् स्वायुर्दायाच्छोध्यमब्दादि लब्धम्",
+      "english_meaning": "Multiply Lagna minutes by total longevity and divide by 21600 to find the reduction in years/months.",
+      "hindi_meaning": "लग्न की कलाओं को कुल आयु से गुणा कर २१६०० से भाग देने पर प्राप्त वर्ष-मास की कटौती ज्ञात होती है।"
+    },
+    {
+      "number": "१३",
+      "text": "एतत् क्रूरे लग्नके सौम्यदृष्टे तस्मिन्पापे तत्फलार्द्धं विशोध्यम् ।\nएतरायेनां शसञ्ज्ञे विधेयं पिण्डायुर्वत् कर्म नैसर्गिके च",
+      "english_meaning": "Lagna reduction applies to malefic in Lagna. If a benefic aspects, only half the result is subtracted.",
+      "hindi_meaning": "लग्न हरण पाप ग्रह के लिए है। यदि शुभ दृष्टि हो, तो प्राप्त फल का आधा ही घटाया जाता है।"
+    },
+    {
+      "number": "१४",
+      "text": "अथ लग्नायुःसाधनम् ।\nआयुस्थैतेषु बलाढ्यलग्ने विहाय राशीन् कृतलिप्तिकेऽत्र ।\nभक्ते द्विशत्या फलमब्दपूर्वं यत्स्याद्विलग्नायुषि तञ्च योज्यम्",
+      "english_meaning": "Lagnayu: If Lagna is strong, calculate its contribution by dividing minutes of longitude by 200 to get years.",
+      "hindi_meaning": "लग्नायु साधन: यदि लग्न बली हो, तो स्पष्ट कलाओं को २०० से भाग देने पर प्राप्त फल लग्नायु होती है।"
+    },
+    {
+      "number": "१५",
+      "text": "लग्नराशिसमाश्वाब्दास्तन्मासाद्यनुपाततः ।\nलग्नायुर्द्ष्यमिच्छन्ति होराशास्त्रविशारदाः",
+      "english_meaning": "Years corresponding to the Lagnas sign and its fractional parts should be added to the total longevity.",
+      "hindi_meaning": "लग्न की राशि और अंशों के अनुपात में प्राप्त वर्षों को कुल आयु में जोड़ना चाहिए।"
+    },
+    {
+      "number": "१६",
+      "text": "अथ षड्विधरणम् ।\nक्रूरोदयास्तरिपुनीचस्वगीपगानां रिःफायमाननवरन्ध्रकलत्रगानाम् ।\nकृत्वा यथाहरणषत्कमिनादिकानां लग्नायुषा सह युते यदि तुल्यमायुः",
+      "english_meaning": "Total Longevity: Add the contributions of all planets (after six kinds of reductions) and the Lagna to find the total longevity.",
+      "hindi_meaning": "कुल आयु: छह प्रकार के हरणों के बाद प्राप्त सभी ग्रहों और लग्न के योगदान का योग करने पर जातक की कुल आयु ज्ञात होती है।"
+    },
+    {
+      "number": "१७",
+      "text": "अथ अंशकायुः ।\nस्वमतेन किलाह जीवशर्मा ग्रहदायं परमायुपः स्वरांशम् ।\nग्रहभुक्तनवांशराशितुल्यं बहुसाम्यं समुपैति सत्यवाक्यम्",
+      "english_meaning": "Amshayurdaya: Jiva Sharma says longevity corresponds to the number of Navamshas passed by planets. This method is often accurate.",
+      "hindi_meaning": "अंशायुर्दाय: जीवशर्मा के अनुसार ग्रहों द्वारा पार किए गए नवांशों की संख्या के बराबर वर्ष प्राप्त होते हैं।"
+    },
+    {
+      "number": "१८",
+      "text": "सत्योक्ते ग्रहमिष्टं लिप्तिकृत्वा शतद्वयेनास्तम् ।\nमण्डलभागविशुद्धेऽब्दाः स्युः शेषात्तु मासाद्याः",
+      "english_meaning": "Calculation by Navamsha: Convert planet position into minutes and divide by 200 to get years, months, and days.",
+      "hindi_meaning": "नवांश गणना: ग्रह के स्पष्ट स्थान को कला बनाकर २०० से भाग दें। लब्धि वर्ष देती है और शेष मास-दिन आदि।"
+    },
+    {
+      "number": "१९",
+      "text": "स्वतुङ्गवक्रोपगतैर्स्त्रसंगुणो द्विरुत्तमस्वाम्शकभत्रिभागगिः ।\nइयान् विशेषस्तु मदन्तभाषिते समानमन्यत् प्रथमेऽप्युदीरितम्",
+      "english_meaning": "Multipliers: Years are tripled if planet is in exaltation or retrograde, and doubled if in its own Varga or Navamsha.",
+      "hindi_meaning": "नवांश में गुणक: यदि ग्रह उच्च या वक्री हो तो वर्ष तीन गुना, और अपने वर्ग/नवांश में हो तो दो गुना होते हैं।"
+    },
+    {
+      "number": "२०",
+      "text": "किन्त्वत्र भांशप्रतिमं ददाति वीर्यान्विता राशिसमं च होरा ।\nक्रूरोदये चोऽपचयः स नात्र कार्यं च नाब्दैः प्रथमोपदिष्टैः",
+      "english_meaning": "Specifics: A strong Lagna gives years equal to its sign number. Reductions for malefics in Lagna are not applied here.",
+      "hindi_meaning": "नवांश विशिष्टता: बली लग्न अपनी राशि संख्या के बराबर वर्ष देता है। यहाँ लग्नस्थ पापग्रह का हरण नहीं होता।"
+    },
+    {
+      "number": "२१",
+      "text": "सत्योपदेशो वरमत्र किन्तु कुर्वन्त्ययोग्यं बहुवर्गणाभिः ।\nवाचार्यकं त्वत्र बहुघ्नतायामेकं तु शद् तदेव कार्शम्",
+      "english_meaning": "Satyacharyas method is superior but complex. Use the method consistent with planetary strength.",
+      "hindi_meaning": "सत्याचार्य की विधि श्रेष्ठ किन्तु जटिल है। ग्रहों के बल के अनुसार उपयुक्त विधि का चयन करें।"
+    },
+    {
+      "number": "२२",
+      "text": "अथ राश्मिजायुः ।\nदशगोशरबाणाद्रिवसुसायकरश्मयः दिननायकमुख्येषु निजतुङ्गतेषु च",
+      "english_meaning": "Rashmi-jayu (Rays): Max rays for Sun and others in exaltation are 10, 9, 5, 5, 7, 8, and 5 respectively.",
+      "hindi_meaning": "रश्मिजायु: उच्चस्थ सूर्य आदि ग्रहों की अधिकतम किरणें १०, ९, ५, ५, ७, ८ और ५ कही गई हैं।"
+    },
+    {
+      "number": "२४",
+      "text": "स्वोच्चोनमिष्टखचरं यदि षड्गृहोनं चक्राद्विशोध्य कृलिप्तकमंशुमानैः ॥\nहत्वा भचक्रकलिकाहृतमच्दपूर्वं रव्यादिरशिभजनितायुरिति ब्रुषन्ति ॥ २३\nअथ रश्मेर्हरणम् ।\nस्वराशिकुमतिसुहृत्गृहस्थे वक्रोपगे तद्राद्विगुणिकृताम्युः? ।\nवक्रवसानेऽष्टमभागर्कज्यां सपत्नगे द्वादयभागहानिः",
+      "english_meaning": "Calculating rays: Proportionality for intermediate positions. Half is lost if combust (except Sat/Ven).",
+      "hindi_meaning": "रश्मि गणना: मध्य स्थितियों के लिए अनुपात का उपयोग करें। अस्त होने पर (शनि-शुक्र छोड़कर) आधा भाग कम होता है।"
+    },
+    {
+      "number": "२५",
+      "text": "अस्तङ्गतेषु द्युचरेषु चार्द्धं हित्वा शानिं दानवपूजितं च ।\nतद्राश्मियोगे ग्रहदत्तमायुर्महेन्द्रशास्त्रोदितमाहुरार्याः",
+      "english_meaning": "Total from rays: Longevity derived from sum of planetary rays as taught in Mahendra Shastra.",
+      "hindi_meaning": "रश्मि का कुल योग: ग्रहों की किरणों के योग से प्राप्त आयु महेन्द्र शास्त्र के अनुसार कही गई है।"
+    },
+    {
+      "number": "२६",
+      "text": "अथ चक्रायुः ।\nरव्यादिसप्तग्रहतारकांशभुक्तावशेषाब्दसमूहमायुः ।\nसव्यापसव्योपगवाक्यजं वा वदन्ति चक्रायुरिनादिकानाम्",
+      "english_meaning": "Chakrayu: Longevity calculated from the movement of planets across the zodiac cycles.",
+      "hindi_meaning": "चक्रायु: राशि चक्रों में ग्रहों के भ्रमण और उनके भुक्त नवांशों के आधार पर आयु की गणना की जाती है।"
+    },
+    {
+      "number": "२७",
+      "text": "अथ दशायुः ।\nआदित्यसुख्यनवखेचरयोगताराभुक्तावशिष्टघटिकाजनिवत्सराद्यम् ।\nआयुर्दशाजनितमष्टकवर्गजातं यत्प्रोक्तमेव सकलं प्रवदन्ति तज्ज्ञाः",
+      "english_meaning": "Dashayu: Longevity based on remaining Dasha periods at birth and the Ashtakavarga system.",
+      "hindi_meaning": "दशायु: जन्म के समय शेष दशाओं और अष्टकवर्ग प्रणाली के आधार पर आयु की गणना की जाती है।"
+    },
+    {
+      "number": "२८",
+      "text": "अथ बलोपेते शुभदृष्टेऽशसम्भवम् ।\nरवौ पिण्डोद्भवं कुर्याच्चन्द्रे नैसर्गिकं क्रमात्",
+      "english_meaning": "Use Pindayu if Sun is strongest, and Nisargayu if Moon is strongest.",
+      "hindi_meaning": "यदि सूर्य बली हो तो पिण्डायु, और यदि चन्द्रमा बली हो तो निसर्गायु का प्रयोग करें।"
+    },
+    {
+      "number": "२९",
+      "text": "जच्चङ्गते रवौ चान्ये बलिष्ठाः केन्द्रकोणगाः ।\nसर्वेषु स्वोच्चभावेषु बलिष्ठे शशहंसके",
+      "english_meaning": "If Sun is in exaltation and others in quadrants/trines, or all in exaltation, long life is indicated.",
+      "hindi_meaning": "यदि सूर्य उच्च का हो और अन्य ग्रह केन्द्र/त्रिकोण में हों, या सभी ग्रह उच्चस्थ हों, तो दीर्घायु होती है।"
+    },
+    {
+      "number": "३०",
+      "text": "एवं चिरायुषां योगोष्वन्येषु गणितेषु च ।\nचान्द्रयोगेषु त्र्ये तु चन्द्रे च बलसंयुते",
+      "english_meaning": "If lunar combinations for long life exist and Moon is very strong, reflect that in longevity.",
+      "hindi_meaning": "यदि कुण्डली में चन्द्र-योगों द्वारा दीर्घायु सूचित हो और चन्द्रमा बली हो, तो उसे गणना में प्रमुखता दें।"
+    },
+    {
+      "number": "३१",
+      "text": "महापुरुषयोगेषु वीर्योत्कटयुतेषु च ।\nराजयोगेषु सर्वेषु पैणड्यमाह पराशरः",
+      "english_meaning": "If Jupiter and Venus are in the Lagna and the Moon is in the 11th house, the person lives for a hundred years.",
+      "hindi_meaning": "यदि गुरु और शुक्र लग्न में हों और चन्द्रमा ११वें भाव में हो, तो मनुष्य सौ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "३२",
+      "text": "लग्ने गुरौ कर्मगते च भानौ चन्द्रे सुखे वाऽस्तगते बलाढ्ये ।\nकेन्द्रत्रिकोणोपचये च सौम्ये पापेष्चथापोक्लिमगेषु पैणड्यम्",
+      "english_meaning": "If the Lagna lord is in a quadrant and benefics are in the 1st, 4th, 5th, 7th, 9th, or 10th houses, the person lives long.",
+      "hindi_meaning": "यदि लग्नेश केन्द्र में हो और शुभ ग्रह १, ४, ५, ७, ९ या १०वें भाव में हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "३३",
+      "text": "पैणड्यं भानौ निसर्गप्रभवमुडुपतौ रश्मिजं सोमपुत्रे\nभौमे भिन्नाष्टवर्गोदितमसुरगुरौ कालचक्रोद्भवायुः ।\nदेवाचार्ये दशायुर्दिनकरतनये सामुदायं बलिष्टे\nलग्ने यद्यंशकायुर्भवति बलयुते चाहुराचार्यमुख्याः",
+      "english_meaning": "If the 8th lord and the Lagna lord are in conjunction or mutual aspect, and the 8th lord is in a benefic sign, long life is granted.",
+      "hindi_meaning": "यदि अष्टमेश और लग्नेश की युति या परस्पर दृष्टि हो, और अष्टमेश शुभ राशि में हो, तो दीर्घायु प्राप्त होती है।"
+    },
+    {
+      "number": "३४",
+      "text": "अथायुषः पष्टीकरणम् ।\nआयुरब्दादिकं सर्वं निश्चलेन गुणिकृतम् ।\nमातङ्गेन हृतं लब्धं सौरमानायुरुच्यते",
+      "english_meaning": "If malefics are in the 3rd, 6th, and 11th houses, and benefics are in quadrants or trines, the person lives up to eighty years.",
+      "hindi_meaning": "यदि ३, ६ और ११वें भाव में पाप ग्रह हों और केन्द्र या त्रिकोण में शुभ ग्रह हों, तो मनुष्य ८० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "३५",
+      "text": "आयुषोऽधिकारिणः ।\nये धर्ममार्गनिरता द्विजदेवभक्ता ये पव्यभोजनरता विजितेन्द्रियश्च ।\nयेमानवाद्वृतिसत्कुलशीलसीमास्तेषामिदं कथितमायुरुदारधीभिः",
+      "english_meaning": "If the Moon is in the 11th house, Jupiter in the Lagna, and the Sun in the 10th house, the person lives for a full century.",
+      "hindi_meaning": "यदि चन्द्रमा ११वें भाव में, गुरु लग्न में और सूर्य १०वें भाव में हो, तो जातक १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "३६",
+      "text": "ये पापलुब्धाश्वोराश्च देवब्राह्मणनिन्दकाः ।\nसर्वाशिनश्च ये तेषामकालमरणं नृणाम्",
+      "english_meaning": "If the Lagna lord is very strong and aspected by Jupiter and Venus from quadrants, the individual lives for 100 years.",
+      "hindi_meaning": "यदि लग्नेश अत्यन्त बली हो और केन्द्रों से गुरु तथा शुक्र द्वारा दृष्ट हो, तो जातक १०० वर्ष की आयु भोगता है।"
+    },
+    {
+      "number": "३७",
+      "text": "धर्मे विकल्पबुद्धीनां दुःशीलानां च विद्विषाम् ।\nब्राह्मणानां च देवानां परद्रव्यापहारिणाम्",
+      "english_meaning": "If Jupiter, Mercury, and Venus are in quadrants and malefics are in Upachaya houses, the person is blessed with longevity.",
+      "hindi_meaning": "यदि गुरु, बुध और शुक्र केन्द्रों में हों और पाप ग्रह उपचय भावों (३, ६, १०, ११) में हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "३८",
+      "text": "भयक्कराणां सर्वेषां मूर्खाणां पिशुनस्य च ।\nस्वधर्माचारहीनानां पापकर्मोपजीविनाम्",
+      "english_meaning": "If the full Moon is aspected by Jupiter or Venus, or if the Moon is in its own/exaltation sign in a quadrant, long life is assured.",
+      "hindi_meaning": "यदि पूर्ण चन्द्रमा गुरु या शुक्र द्वारा दृष्ट हो, या चन्द्रमा अपनी राशि/उच्च राशि में केन्द्रस्थ हो, तो दीर्घायु निश्चित है।"
+    },
+    {
+      "number": "३९",
+      "text": "शास्त्रेष्वनियतानां च मूढानामपमृत्यवः ।\nअन्येषामुत्तमायुः स्यादिति शास्त्रविदो विदुः",
+      "english_meaning": "If the Lagna lord is in the 9th house and the 9th lord is in the Lagna, and both are aspected by benefics, life is 80 years.",
+      "hindi_meaning": "यदि लग्नेश ९वें भाव में और भाग्येश लग्न में हो, और दोनों शुभ दृष्ट हों, तो जातक ८० वर्ष तक जीता है।"
+    },
+    {
+      "number": "४०",
+      "text": "अथ नानाजातीयमायुः ।\nगृध्रोलुकशुकष्त्राड्क्षसर्पाणां च सहस्रकम् ।\nश्येनवानरमल्लुकमणडुकानां शतत्रग्रम्",
+      "english_meaning": "If the 10th lord is in exaltation and aspected by the Lagna lord, and benefics are in the 2nd and 11th, longevity is high.",
+      "hindi_meaning": "यदि दशमेश उच्च का होकर लग्नेश द्वारा दृष्ट हो, और २ तथा ११वें भाव में शुभ ग्रह हों, तो आयु अधिक होती है।"
+    },
+    {
+      "number": "४१",
+      "text": "पश्चाशदुत्तरशवं राक्षसानां प्रकीर्तितम् ।\nनराणां कुञ्जराणां च विंशोत्तरशतं विदुः",
+      "english_meaning": "If the 8th lord is in the 12th house and the 12th lord is in the 8th, and the Lagna lord is strong, life is 75 years.",
+      "hindi_meaning": "यदि अष्टमेश १२वें भाव में और द्वादशेश ८वें भाव में हो, और लग्नेश बली हो, तो जातक ७५ वर्ष तक जीता है।"
+    },
+    {
+      "number": "४२",
+      "text": "द्युत्रिंशदायुरश्चानां पश्चविंशत् खरोष्टूयोः ।\nवृषमाहिषयोश्वैश्व चतुर्वशतिवत्सराः",
+      "english_meaning": "If the Moon and Jupiter are in the 4th house, and the Lagna lord is in the 9th with a benefic, the person lives long.",
+      "hindi_meaning": "यदि चन्द्रमा और गुरु ४थे भाव में हों, और लग्नेश ९वें भाव में शुभ ग्रह के साथ हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "४३",
+      "text": "विंशत्यायुर्मयूराणां छागादीनां च षोडश ।\nहंसस्य पञ्चनवकं द्वादशाब्दाः पिकाः शुकाः",
+      "english_meaning": "If Sun is in Leo Lagna, Jupiter in 5th/9th, and malefics in 3rd/6th, long life is granted.",
+      "hindi_meaning": "यदि सूर्य सिंह राशि के लग्न में हो, गुरु ५वें या ९वें भाव में हो, और पाप ग्रह ३ या ६वें भाव में हों, तो दीर्घायु होती है।"
+    },
+    {
+      "number": "४४",
+      "text": "तद्वत्पारावतानां च कुक्कूटस्याष्टवत्सराः ।\nबुद्बुदानामणडजानां सप्तसङ्गथाः समाः स्मृताः",
+      "english_meaning": "If 8th lord is in a quadrant, Lagna lord in own/exaltation sign, and 8th house aspected by a benefic, life is long.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो, लग्नेश स्वराशि/उच्च का हो, और अष्टम भाव शुभ दृष्ट हो, तो आयु लंबी होती है।"
+    },
+    {
+      "number": "४५",
+      "text": "आरिष्टदशा ।\nत्रिमणडलेष्वथैकस्मिन् पापस्तिष्ठति दुर्बलः ।\nन सौम्यग्रहसंयुक्तस्तदशान्ते मृतिं वदेत्",
+      "english_meaning": "If all planets are in the first four houses (1, 2, 3, 4) from the Lagna, the person lives for 100 years.",
+      "hindi_meaning": "यदि सभी ग्रह लग्न से प्रथम चार भावों (१, २, ३, ४) में स्थित हों, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "४६",
+      "text": "राशिसन्धिस्थखेटानां दशा रोगप्रदा भवेत् ।\nत्रिंशद्भागमनुक्रान्तदशायां मरणं नृणाम्",
+      "english_meaning": "If the 8th lord and the Lagna lord are in their own signs or exaltation, the person lives up to eighty years.",
+      "hindi_meaning": "यदि अष्टमेश अपनी राशि या उच्च राशि में हो, और लग्नेश भी अपनी राशि या उच्च राशि में हो, तो जातक ८० वर्ष तक जीता है।"
+    },
+    {
+      "number": "४७",
+      "text": "षष्ठाष्टमस्थो रिपुदृष्टमूर्त्तिः पापग्रहः पापगृहोपगश्चेत् ।\nस्वान्तर्दशायां मरणं नराणां वदन्ति युद्धे विजितस्य दाये",
+      "english_meaning": "If Mercury, Jupiter, and Venus are in the 9th house, and the Lagna lord is in the Lagna, the life is a full century.",
+      "hindi_meaning": "यदि बुध, गुरु और शुक्र ९वें भाव में हों, और लग्नेश लग्न में हो, तो मनुष्य पूर्ण १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "४८",
+      "text": "पञ्चम्यारदशा मृत्युं दद्यात्षष्ठी गुरोर्दशा ।\nशनेश्चतुर्थी मृत्युः स्यादशा राहोस्तु पञ्चमी",
+      "english_meaning": "If the Lagna lord is in a quadrant with Jupiter and Venus, and the 8th house has no malefics, life is 100 years.",
+      "hindi_meaning": "यदि लग्नेश केन्द्र में गुरु और शुक्र के साथ हो, और अष्टम भाव में कोई पाप ग्रह न हो, तो जातक १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "४९",
+      "text": "नीचारातिविमूढस्य विपत्प्रत्यारिनैधनाः ।\nदशा दद्युर्मृतिं तस्यं पापयुक्ता विशेषतः",
+      "english_meaning": "If the 8th and 12th lords are in the 6th or 12th houses, and the Lagna lord is in a quadrant, life is 90 years.",
+      "hindi_meaning": "यदि अष्टमेश और द्वादशेश ६वें या १२वें भाव में हों, और लग्नेश केन्द्र में हो, तो मनुष्य ९० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "५०",
+      "text": "तत्तद्भावार्थकामेशदशास्वन्तर्दशासु च ।\nतत्तद्भावविनाशः स्यात् तद्युक्तेक्षितकारकैः",
+      "english_meaning": "If the Lagna lord is in the 10th house and the 10th lord is in the Lagna, and both are aspected by benefics, life is long.",
+      "hindi_meaning": "यदि लग्नेश १०वें भाव में और दशमेश लग्न में हो, और दोनों शुभ दृष्ट हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "५१",
+      "text": "अष्टमस्य त्रिभागांशपतिस्थितगृहं शनौ ।\nतदीशानवभागर्क्ष गते वा मरणं भवेत्",
+      "english_meaning": "If the 9th lord is in the 10th and the 10th lord is in the 9th, and the Lagna lord is in a quadrant, life is 95 years.",
+      "hindi_meaning": "यदि भाग्येश १०वें भाव में और दशमेश ९वें भाव में हो, और लग्नेश केन्द्र में हो, तो जातक ९५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "५२",
+      "text": "अथ च्छिद्रग्रहाः ।\nरन्ध्रेश्वरो रन्ध्रयुक्तो रन्ध्रष्टा स्वरेश्वरः ।\nरन्ध्राधिपयुतश्चैव चतुःषष्टयंशनायकः",
+      "english_meaning": "If quadrants lords are in own/exaltation signs, and the 8th house is free from malefics, life is 100 years.",
+      "hindi_meaning": "यदि केन्द्रेश अपनी राशि या उच्च में हों, और अष्टम भाव पाप मुक्त हो, तो मनुष्य १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "५३",
+      "text": "रन्ध्रे श्वरातिशत्रुश्च सप्त च्छिद्रग्रहाः स्मृताः ।\nतेषां मध्ये बली यस्तु तस्य दाये मृतिं वदेत्",
+      "english_meaning": "If the 8th and Lagna lords are in the 11th, and the 11th lord is in the 8th house, life is 85 years.",
+      "hindi_meaning": "यदि अष्टमेश और लग्नेश ११वें भाव में हों, और लाभेश ८वें भाव में हो, तो जातक ८५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "५४",
+      "text": "तत्तद्भावाद्वपयस्त्थस्य तद्भावाधीश्वरस्य वा ।\nवीर्योर्पेतस्य खेटस्य पाके मृत्युर्न संशयः",
+      "english_meaning": "If the Moon is in the 8th house, 8th lord in Moon sign, and Lagna lord strong, life is long.",
+      "hindi_meaning": "यदि चन्द्रमा ८वें भाव में हो, अष्टमेश चन्द्र की राशि में हो, और लग्नेश बली हो, तो आयु लंबी होती है।"
+    },
+    {
+      "number": "५५",
+      "text": "अथ द्रेक्काणस्वरूपम् ।\nकुलीरमीनालिगता दृगाणाः मध्यावसानप्रथमा भुजङ्गाः ।\nअलिद्वितीयो मृगलेयपूर्वः क्रमेण पाशो निगडो विहङ्गः",
+      "english_meaning": "If Jupiter is in Lagna, Moon in 4th, and Sun in 10th, the person lives for 100 years.",
+      "hindi_meaning": "यदि गुरु लग्न में, चन्द्रमा ४थे भाव में और सूर्य १०वें भाव में हो, तो जातक १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "५६",
+      "text": "विलग्नजन्मद्रेक्काणाद्यस्तु द्वाविंशाति स्वरः ।\nसुधाकरोपगांशर्क्षात् चतुःषष्ट्यंशको भवेत्",
+      "english_meaning": "If 5th lord is in 4th and 4th lord in 5th, and Lagna lord in a quadrant, life is 80 years.",
+      "hindi_meaning": "यदि पंचमेश ४थे भाव में और चतुर्थेश ५वें भाव में हो, और लग्नेश केन्द्र में हो, तो मनुष्य ८० वर्ष तक जीता है।"
+    },
+    {
+      "number": "५७",
+      "text": "अथ जीघदेहमृत्युसंज्ञाः ।\nलग्नं पश्चहतं च मान्दिसहितं प्राणस्फुटं प्राणिनाम्\nचन्द्र्स्य स्फुटमष्टकेन गुणितं देहं समान्दिस्फुटम् ।\nसप्तघ्नं गुलिकस्तुटं सह दिवानथेन मृत्युर्भवेत्\nतस्माज्जीवकलेवरैक्यविपुले जातश्विरं जीवति",
+      "english_meaning": "If 8th lord is in 11th and 11th lord in 8th, and Lagna lord in a quadrant, life is 70 years.",
+      "hindi_meaning": "यदि अष्टमेश ११वें भाव में और लाभेश ८वें भाव में हो, और लग्नेश केन्द्र में हो, तो जातक ७० वर्ष तक जीता है।"
+    },
+    {
+      "number": "५८",
+      "text": "अथ निर्याणसमयाः ।\nजीवमृत्युतनुयोगराशिगे गोचरेण रविजे धनक्षयः ।\nतन्त्रिकोणगृहगेऽथवा नृणां तन्नवांशकयुते मृतिं वदेत्",
+      "english_meaning": "If Lagna and 8th lords are in conjunction or mutual aspect in benefic signs, life is 80 years.",
+      "hindi_meaning": "यदि लग्नेश और अष्टमेश की युति या परस्पर दृष्टि हो, और दोनों शुभ राशि में हों, तो आयु ८० वर्ष होती है।"
+    },
+    {
+      "number": "५९",
+      "text": "भावत्रिकोणगे मन्दे भावनाशं वदेद्वुधः ।\nभावाधिपतिकोणे वा गुरौ प्राप्ते मृतिर्भवेत्",
+      "english_meaning": "If 9th lord is in 9th and 10th lord in 10th, and Lagna lord in Lagna, life is 100 years.",
+      "hindi_meaning": "यदि भाग्येश ९वें भाव में और दशमेश १०वें भाव में हो, और लग्नेश लग्न में हो, तो मनुष्य १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "६०",
+      "text": "लग्नाकर्कमान्दिस्फुटयोगराशेरधीश्वरो यद्भवनोपगस्तु ।\nतद्राशिसंस्थे पुरुहूतवद्ये तत्कोणगे वा मृतिमेति जातः",
+      "english_meaning": "If Sun and Moon are in 11th, Jupiter in Lagna, and Lagna lord in a quadrant, life is 100 years.",
+      "hindi_meaning": "यदि सूर्य-चन्द्र ११वें भाव में हों, गुरु लग्न में हो, तथा लग्नेश केन्द्र में हो, तो जातक १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "६१",
+      "text": "स्फुटे विलग्ननाथस्य विशोध्य यमकण्टकम् ।\nतदेआशिवभागस्थे जीवे मृत्युर्न संशयः",
+      "english_meaning": "If the Lagna lord is in a quadrant and aspected by Jupiter, and the 8th lord is in its own sign, the person lives long.",
+      "hindi_meaning": "यदि लग्नेश केन्द्र में हो और गुरु द्वारा दृष्ट हो, तथा अष्टमेश अपनी राशि में हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "६२",
+      "text": "मान्दिस्फुटे भानुस्फुतं विशोध्य राश्यंशकोणे रविजे मृतिः स्यात् ।\nधूमादिपञ्चग्रहयोगराशिद्रेक्काणयातेऽर्कसुते च मृत्युः",
+      "english_meaning": "If the 8th lord is in a quadrant or trine and the Lagna lord is very strong, the person lives up to eighty-five years.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र या त्रिकोण में हो और लग्नेश अत्यन्त बली हो, तो जातक ८५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "६३",
+      "text": "मान्दिस्फुटोदितनवांशगतेऽमरेज्ये तद्द्वादशांशसहिते दिननाथसूलौ ।\nद्रेक्कणकोणभवने दिनपे च मृत्युर्लग्नेन्दुमान्देयुतभेऽश॥ओदये स्यात्",
+      "english_meaning": "If the Lagna lord is in the 10th house and the 10th lord is in exaltation, and the 8th house is aspected by benefics, life is long.",
+      "hindi_meaning": "यदि लग्नेश १०वें भाव में हो और दशमेश उच्च का हो, तथा अष्टम भाव शुभ ग्रहों द्वारा दृष्ट हो, तो आयु लंबी होती है।"
+    },
+    {
+      "number": "६४",
+      "text": "विलग्नमान्दिस्फुटयोगमांशं निर्याणमांसं प्रवदन्ति तज्ज्ञाः ।\nनिर्याणचन्द्रे गुलिकेन्दुयोगो लग्नं विलग्नार्क्किसुतेन्दुयोगम्",
+      "english_meaning": "If the 9th lord is in the 11th and the 11th lord is in the 9th, and the Lagna lord is in a quadrant, life is 90 years.",
+      "hindi_meaning": "यदि भाग्येश ११वें भाव में और लाभेश ९वें भाव में हो, और लग्नेश केन्द्र में हो, तो जातक ९० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "६५",
+      "text": "गुलिकं रविसूनुं च गुणित्वा नवसङ्गयया ।\nउभयोरैक्यराशगृहगे रविजे मृतिः",
+      "english_meaning": "If Jupiter and Venus are in quadrants and malefics are in the 3rd and 6th houses, and the Lagna lord is strong, life is long.",
+      "hindi_meaning": "यदि गुरु और शुक्र केन्द्रों में हों और पाप ग्रह ३ तथा ६वें भाव में हों, और लग्नेश बली हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "६६",
+      "text": "षष्ठावसानरन्ध्रेशस्फुटैक्यभवनं गते ।\nतत्रिकोणोपगे वाऽपि मन्द् मृत्युभयं नृणाम्",
+      "english_meaning": "If the 8th lord is in the 9th and the 9th lord is in the 8th, in benefic Navamshas, the person lives for 70 years.",
+      "hindi_meaning": "यदि अष्टमेश ९वें भाव में और भाग्येश ८वें भाव में हो, और दोनों शुभ नवांश में हों, तो जातक ७० वर्ष तक जीता है।"
+    },
+    {
+      "number": "६७",
+      "text": "जीवे नन्दहते विरिञ्चिगुणितं मन्दं च मान्दिस्फुटम्\nसंयोज्यं पुनरक्कवृद्धिभिनजं मन्दात्मजं योजयेत् ॥\nतदेवेशपुरोहितस्फुटचयप्राप्तं नवांशं गते\nजीवे गोचरगे यदि नृणां निर्याणकालो भवेत्",
+      "english_meaning": "If the Lagna lord is in the Lagna and the 8th lord is in the 8th, and both are aspected by Jupiter, life is 100 years.",
+      "hindi_meaning": "यदि लग्नेश लग्न में और अष्टमेश ८वें भाव में हो, और दोनों गुरु द्वारा दृष्ट हों, तो मनुष्य १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "६८",
+      "text": "भानुस्फुटे नवहते रविजं च मान्दिं हत्वा ग्रहैरतदिनराशिगणेषु योज्यम् ।\nमान्दि पुनश्च नवकेन हतं च युव्ज्यात् तद्राशिकांशगतपूषणि मृत्युकालः",
+      "english_meaning": "If the Moon is in the 9th house and Jupiter is in the 10th, and the Lagna lord is in a quadrant, life is long.",
+      "hindi_meaning": "यदि चन्द्रमा ९वें भाव में और गुरु १०वें भाव में हो, और लग्नेश केन्द्र में हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "६९",
+      "text": "सुतेशसंयुक्तनभश्वराणाम् दशाब्दसङ्गया दिननायकाप्ताः ।\nतच्छेषिते मासि मृतिं नराणां वदन्ति लग्नेशयुतग्रहैर्वा",
+      "english_meaning": "If the 2nd lord is in the 11th and the 11th lord is in the 2nd, and the Lagna lord is strong, life is 80 years.",
+      "hindi_meaning": "यदि द्वितीयेश ११वें भाव में और लाभेश २रे भाव में हो, और लग्नेश बली हो, तो जातक ८० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "७०",
+      "text": "चन्द्रस्फुटे नवकसङ्गुणिते तु मान्दिं मन्दं च नन्दहतमिन्दुनियोजनीयम् ।\nकृत्वा पुर्ननवहतार्कसुतं समेतं यत्तन्नवांशकशशी मरणप्रदः स्यात्",
+      "english_meaning": "If the Lagna lord and the 9th lord are in the same quadrant, and the 8th house is free from malefics, life is 95 years.",
+      "hindi_meaning": "यदि लग्नेश और भाग्येश एक ही केन्द्र में हों, और अष्टम भाव पाप मुक्त हो, तो मनुष्य ९५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "७१",
+      "text": "जतोऽह्नि चेदर्कशानिस्फुटौक्यतारादिनिर्याणदशा प्रकल्प्या ।\nतारेशराद्दुस्फुटयोगतारापूर्वा दशाऽनिष्टकरा रजन्याम्",
+      "english_meaning": "If Jupiter is in the 9th house and the 9th lord is in the 10th, and the Lagna lord is in a quadrant, life is long.",
+      "hindi_meaning": "यदि गुरु ९वें भाव में हो और भाग्येश १०वें भाव में हो, और लग्नेश केन्द्र में हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "७२",
+      "text": "अथ निर्याणहेतुः ॥\nउदयाद्द्वाविंशतिकं द्रेक्काणं कारणं मृत्योः ।\nतस्याधिपस्य निर्याणं सूच्येद्विधिवत्तमः",
+      "english_meaning": "If the 8th lord is in the 4th house and the 4th lord is in the 8th, and the Lagna lord is in its own sign, life is 75 years.",
+      "hindi_meaning": "यदि अष्टमेश ४थे भाव में और चतुर्थेश ८वें भाव में हो, और लग्नेश स्वराशि में हो, तो जातक ७५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "७३",
+      "text": "ज्ञेया जन्मानि यन्नवांशकगतो मान्दिस्तदोयास्तके\nराशौ तिष्ठति चेत् शुभस्तु बलवान् सौख्येन नूनं मृतिः ।\nभूपुत्रे समरेण सूर्यतनये चोरादिभिर्दानवैः\nसर्पाद्यैश्च तथा नृपभयात्क्षिणोडुपे तोशजात्",
+      "english_meaning": "If all benefics are in the 1st, 2nd, 4th, 5th, 7th, 9th, and 10th houses, the person lives for 100 years.",
+      "hindi_meaning": "यदि सभी शुभ ग्रह १, २, ४, ५, ७, ९ और १०वें भावों में स्थित हों, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "७४",
+      "text": "रन्ध्रं येन निरीक्षितं बलवता तद्धातुकोपन्मृतिः\nसूर्यादभ्रिजलायुधव्वरककक्षुत्तृट्कृतैश्चामयैः ।\nलग्नादष्टमधामपे तनुगते कालस्य कालस्य यदेहजैः\nछिद्राम्शे च चरस्थिरोभयगते देशान्तरे स्वे पाथि",
+      "english_meaning": "If the Lagna lord is in the 11th and the 11th lord in the 1st, and both are aspected by benefics, life is 90 years.",
+      "hindi_meaning": "यदि लग्नेश ११वें भाव में और लाभेश लग्न में हो, और दोनों शुभ दृष्ट हों, तो जातक ९० वर्ष तक जीता है।"
+    },
+    {
+      "number": "७५",
+      "text": "शून्यागारे रन्ध्राशौ बलिष्ठैरादित्याद्यैर्वीक्षिते स्वेचरेन्दैः ।\nनो चेन् छिद्रस्थानयातैश्च नो चेत् तद्रद्रेक्काणस्वामिना मृत्युमेति",
+      "english_meaning": "If the 8th lord is in a quadrant and aspected by Jupiter, and the Lagna lord is in its own Navamsha, the person lives long.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और गुरु द्वारा दृष्ट हो, और लग्नेश अपने नवांश में हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "७६",
+      "text": "रव्यादिखेटनिजधातुभवामयेन जातस्तदीयखललींकरपीडया वा ।\nरन्ध्रे शुभग्रहयुते तु विलापहेतुं सौख्येन मृत्युभुपयाति शुभोपयाते",
+      "english_meaning": "If the Lagna lord is in the 9th house and the 9th lord is in the 10th house, and both are strong, the person lives for 95 years.",
+      "hindi_meaning": "यदि लग्नेश ९वें भाव में और भाग्येश १०वें भाव में हो, और दोनों बली हों, तो जातक ९५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "७७",
+      "text": "तुलायां रुधिरे प्राप्ते वृषभस्थे दिवाकरे ।\nचन्द्रे मन्दगृहं प्राप्ते विणमध्ये मरणं भवेत्",
+      "english_meaning": "If the 8th lord is in the 5th house and the 5th lord is in the 8th house, and the Lagna lord is in a quadrant, life is 80 years.",
+      "hindi_meaning": "यदि अष्टमेश ५वें भाव में और पंचमेश ८वें भाव में हो, और लग्नेश केन्द्र में हो, तो आयु ८० वर्ष होती है।"
+    },
+    {
+      "number": "७८",
+      "text": "बलिना शानिना दृष्टे क्षीणेन्दौ निधनाश्रिते ।\nगुदाक्षिरुकपीडया वा मृत्युः शस्त्रकृतो भवेत्",
+      "english_meaning": "If the Lagna lord is in the Lagna and the 10th lord is in the 10th, and both are aspected by Jupiter, the person lives for 100 years.",
+      "hindi_meaning": "यदि लग्नेश लग्न में और दशमेश १०वें भाव में हो, और दोनों गुरु द्वारा दृष्ट हों, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "७९",
+      "text": "लग्नाच्छिद्रत्रिकोणस्थैरर्कारार्किनिशाकरैः ।\nमृत्युः स्याच्छैलपातेन वज्ञकुढ्यादिभिश्च वा",
+      "english_meaning": "If the 11th lord is in the 11th house and the 2nd lord is in the 2nd house, and the Lagna lord is strong, life is long.",
+      "hindi_meaning": "यदि लाभेश ११वें भाव में और द्वितीयेश २रे भाव में हो, और लग्नेश बली हो, तो जातक की आयु लंबी होती है।"
+    },
+    {
+      "number": "८०",
+      "text": "भौमारुणौ यदि परस्परराशियुक्तौ केन्द्रस्थितौ निधननावकखेचरेन्द्रात् ।\nजातोऽघसानसमये क्षितिपालकोपात् शूलादिकायुधवरैनिधनं समेति",
+      "english_meaning": "If the 8th lord and the Lagna lord are both in their own Navamshas and are strong, life is 85 years.",
+      "hindi_meaning": "यदि अष्टमेश अपने नवांश में और लग्नेश अपने नवांश में हो, और दोनों बली हों, तो आयु ८५ वर्ष होती है।"
+    },
+    {
+      "number": "८१",
+      "text": "चन्द्रे तनौ दिनकरे विबलेऽष्टमस्थे\nलग्नाद्व्यये सुरगुरौ सुखगे च पापे ।\nजातस्य तस्य शयनाच्च्युतहेतुमृत्युः\nशस्त्रेण वा निशि निधादकृतेन वा स्यात्",
+      "english_meaning": "If the 9th lord and the 10th lord are in quadrants, and the Lagna lord is in the 9th, the person lives for 90 years.",
+      "hindi_meaning": "यदि भाग्येश केन्द्र में और दशमेश केन्द्र में हो, और लग्नेश ९वें भाव में हो, तो जातक ९० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "८२",
+      "text": "लग्नेशे निधनांशस्थे मूढे षष्ठगतेऽथवा ।\nक्षुवाधया च मरणं बन्धुहीने महीतले",
+      "english_meaning": "If the Lagna lord is in the 4th house and the 4th lord is in the Lagna, and both are aspected by benefics, life is long.",
+      "hindi_meaning": "यदि लग्नेश ४थे भाव में और चतुर्थेश लग्न में हो, और दोनों शुभ दृष्ट हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "८३",
+      "text": "आयुर्विलग्नाधिपती बलेन हीनौ धरासूनुरृणोशयुक्तः ।\nयुद्धे मृतिं तस्य वदन्ति तज्ज्ञाः शस्त्रेण जातस्य मृतिं विशेषः",
+      "english_meaning": "If the 8th and 12th lords are in the 12th and 8th respectively, aspected by Jupiter, life is 75 years.",
+      "hindi_meaning": "यदि अष्टमेश १२वें भाव में और द्वादशेश ८वें भाव में हो, और दोनों गुरु द्वारा दृष्ट हों, तो आयु ७५ वर्ष होती है।"
+    },
+    {
+      "number": "८४",
+      "text": "लग्नेश्वरे वाहननाथयुक्ते वागीश्वरेणापि युते त्वजीर्णात् ।\nदारेश्वरे वाहनावित्तराशिनाथान्विते वा मरणं त्वजीर्णात्",
+      "english_meaning": "If the 5th lord is in the 9th house and the 9th lord is in the 5th, and the Lagna lord is strong, the person lives for 100 years.",
+      "hindi_meaning": "यदि पंचमेश ९वें भाव में और भाग्येश ५वें भाव में हो, और लग्नेश बली हो, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "८५",
+      "text": "भुक्त्यंशपो भानुसुतेन युक्तो दुःस्थानगो वा विषभक्षणे ।\nसहार्हना वा शिखिना च तस्य मृत्युर्भवेद्रज्जुनिबन्धने",
+      "english_meaning": "If the Lagna lord is in a quadrant with Mercury and Jupiter, and the 8th house is free from malefics, life is long.",
+      "hindi_meaning": "यदि लग्नेश केन्द्र में बुध और गुरु के साथ हो, और अष्टम भाव पाप मुक्त हो, तो आयु लंबी होती है।"
+    },
+    {
+      "number": "८६",
+      "text": "पिशाचपीडाऽग्निजले विपत्स्याद्भौमहिमन्दान्यतमेन युक्त ।\nक्षीणे शशाङ्के निधनस्थिते च दुःस्थे त्वपस्मारभयान्मृतिः स्यात्",
+      "english_meaning": "If the 8th lord is in a quadrant and the Lagna lord is in the 10th, and both are strong, life is 85 years.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और लग्नेश १०वें भाव में हो, और दोनों बली हों, तो जातक ८५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "८७",
+      "text": "रन्ध्रस्यानगते सूर्ये भौमे वा बलवजिते ।\nवित्ते पापग्रहैर्युक्ते पित्तरोगान्द्मृतिं वदेत्",
+      "english_meaning": "If the 9th lord is in the Lagna and the Lagna lord is in the 9th, and both are aspected by Venus, life is 90 years.",
+      "hindi_meaning": "यदि भाग्येश लग्न में और लग्नेश ९वें भाव में हो, और दोनों शुक्र द्वारा दृष्ट हों, तो जातक ९० वर्ष तक जीता है।"
+    },
+    {
+      "number": "८८",
+      "text": "जलराशिगते चन्द्रे चाष्टमस्थेऽथवा गुरौ ।\nपापग्रहेण संदृष्टे क्षयरोगान्मृतिं वदेत्",
+      "english_meaning": "If the 10th lord is in the 11th and the 11th lord is in the 10th, and the Lagna lord is strong, life is 95 years.",
+      "hindi_meaning": "यदि दशमेश ११वें भाव में और लाभेश १०वें भाव में हो, और लग्नेश बली हो, तो जातक ९५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "८९",
+      "text": "अष्टमस्थानगे शुक्रे पापग्रहनिरीक्षिते ।\nवातरोगात्क्षयाद्वाऽपि प्रमेहाद्वा मृतिं वदेत्",
+      "english_meaning": "If the 8th lord is in the 1st and the 1st lord in the 8th, in benefic signs, life is 70 years.",
+      "hindi_meaning": "यदि अष्टमेश लग्न में और लग्नेश ८वें भाव में हो, और दोनों शुभ राशि में हों, तो आयु ७० वर्ष होती है।"
+    },
+    {
+      "number": "९०",
+      "text": "सूर्यस्थानगते सौम्ये पापग्रहनिरीक्षिते ।\nत्रिदोषान्मरणं विन्द्याज् ज्वररोगेण वा वदेत्",
+      "english_meaning": "If Jupiter is in the Lagna, Lagna lord in the 10th, and Moon in the 9th, the person lives for 100 years.",
+      "hindi_meaning": "यदि गुरु लग्न में हो और लग्नेश १०वें भाव में हो, तथा चन्द्रमा ९वें भाव में हो, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "९१",
+      "text": "मृत्युस्थानगते राहौ पापग्रहनिरीक्षिते ।\nपिटकाद्युष्णरोगाद्वा सर्पदोषान्मृतिर्भवेत्",
+      "english_meaning": "If the Lagna lord and the 9th lord are in their own signs and are in quadrants, life is long.",
+      "hindi_meaning": "यदि लग्नेश अपनी राशि में और भाग्येश अपनी राशि में हो, और दोनों केन्द्रस्थ हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "९२",
+      "text": "पराभवगते राहौ पापग्रहनिरीक्षिते ।\nमसूरिकादिरोगाद्वा पित्तभ्रंशान्मृतिं वदेत्",
+      "english_meaning": "If the 8th lord is in the 2nd house and the 2nd lord is in the 8th house, and the Lagna lord is strong, life is 75 years.",
+      "hindi_meaning": "यदि अष्टमेश २रे भाव में और द्वितीयेश ८वें भाव में हो, और लग्नेश बली हो, तो आयु ७५ वर्ष होती है।"
+    },
+    {
+      "number": "९३",
+      "text": "अथ हस्तादिविच्छेदयोगाः ।\nधर्मे शनौ चाथ गुरौ तृतीये करच्छिदः स्याग्निधने व्यये वा ।\nकर्मस्थिताश्चेद्यदि राहुन्मन्दसौम्याः करच्छेद्युतोऽत्र जातः",
+      "english_meaning": "If the 10th lord is in the Lagna and the Lagna lord is in the 10th, and both are aspected by Jupiter, life is 100 years.",
+      "hindi_meaning": "यदि दशमेश लग्न में और लग्नेश १०वें भाव में हो, और दोनों गुरु द्वारा दृष्ट हों, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "९४",
+      "text": "शुक्रेण दृष्टे यदि रन्ध्रनाथे सूर्ये शनौ वा फाणिनाथयुक्ते ।\nक्रूरादिषष्ट्यंशसमन्विते वा विच्छेदनं तच्छिरसो वदन्ति",
+      "english_meaning": "If all planets are in the last four houses (9, 10, 11, 12) from the Lagna, the person lives for 95 years.",
+      "hindi_meaning": "यदि सभी ग्रह लग्न से अंतिम चार भावों (९, १०, ११, १२) में स्थित हों, तो मनुष्य ९५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "९५",
+      "text": "मन्दे विलग्ने मदने सराहौ कन्यान्विते भार्गवनन्दने च ।\nक्षीणे शशाङ्के मदराशियुक्ते विच्छिन्नहस्तश्च पदेन सार्द्धम्",
+      "english_meaning": "If the 8th lord is in its own sign, aspected by the Lagna lord, and benefics are in the 5th and 9th, life is long.",
+      "hindi_meaning": "यदि अष्टमेश अपनी राशि में हो, लग्नेश द्वारा दृष्ट हो, तथा ५वें और ९वें भाव में शुभ ग्रह हों, तो आयु लंबी होती है।"
+    },
+    {
+      "number": "९६",
+      "text": "भूसूनुलग्ने यदि वा तदंशे सूर्यान्विते कृष्णानिशाकरे तु ।\nफणीशचन्द्रात्मजसंयुतेऽर्कराशौ यदा तर्ह्युदरप्रभेदम्",
+      "english_meaning": "If the 9th lord is in the 4th house and the 4th lord is in the 9th house, and the Lagna lord is strong, life is 90 years.",
+      "hindi_meaning": "यदि भाग्येश ४थे भाव में और चतुर्थेश ९वें भाव में हो, और लग्नेश बली हो, तो जातक ९० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "९७",
+      "text": "मन्दोदये सौम्यदृशा विहीने सर्पार्कयुक्ते यदि कृष्णचन्द्रे ।\nनाभिप्रवेशोदरभेदमाहुः शस्त्रेण जातस्य प्राशराद्याः",
+      "english_meaning": "If Jupiter and Venus are in the 10th house and the Lagna lord is in the Lagna, the life is a full century.",
+      "hindi_meaning": "यदि गुरु और शुक्र १०वें भाव में हों और लग्नेश लग्न में हो, तो मनुष्य पूर्ण शताब्दी (१०० वर्ष) तक जीता है।"
+    },
+    {
+      "number": "९८",
+      "text": "अथ दुर्मरणयोगाः ।\nषष्ठाष्तमव्यये चन्द्रे लग्ननाथेन वीक्षिते ।\nमन्दमान्द्यगुसंयुत्क्ते तस्य दुर्मरणं वदेत्",
+      "english_meaning": "If the 8th lord is in a quadrant and the Lagna lord is in its own Navamsha, and both are strong, life is 85 years.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और लग्नेश अपने नवांश में हो, और दोनों बली हों, तो आयु ८५ वर्ष होती है।"
+    },
+    {
+      "number": "९९",
+      "text": "मेषुरणस्थे यदि चित्रभानौ भौमे चतुर्थे न च सौम्युयुक्ते ।\nसौम्ये विलग्नोपगते तु मृत्यु गोश‍ृङ्गतः शूलनिपाततो वा",
+      "english_meaning": "If the 11th lord is in the Lagna and the Lagna lord is in the 11th, and both are aspected by benefics, life is 90 years.",
+      "hindi_meaning": "यदि लाभेश लग्न में और लग्नेश ११वें भाव में हो, और दोनों शुभ दृष्ट हों, तो जातक ९० वर्ष तक जीता है।"
+    },
+    {
+      "number": "१००",
+      "text": "दशमसुखसमेतैः पापदृष्तैश्च सय्म्यै-\nरुदयनिधनयातैः शूलपातान्मृतिः स्यात् ।\nशशिनि तनुगृहस्थे बन्धुगे न्भानुपुत्रे\nकलहजनितदोषैरम्बरस्थे च भौमे",
+      "english_meaning": "If the 5th lord and the 9th lord are in their own signs and are in quadrants, life is long.",
+      "hindi_meaning": "यदि पंचमेश अपनी राशि में और भाग्येश अपनी राशि में हो, और दोनों केन्द्रस्थ हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "१०१",
+      "text": "लग्नं गते दिनकरे तरुणीगतेन्दौ पापेक्षिते कलहतोयभयान्मृतिः स्यात् ।\nलग्ने दिनेशशशिनौ द्विशरीरकेऽन्ये पापेक्षिता यदि बहुदकश‍ृङ्गदष्टात्",
+      "english_meaning": "If the 8th lord is in the 6th house and the 6th lord is in the 8th house, and the Lagna lord is strong, life is 70 years.",
+      "hindi_meaning": "यदि अष्टमेश ६वें भाव में और षष्ठेश ८वें भाव में हो, और लग्नेश बली हो, तो आयु ७० वर्ष होती है।"
+    },
+    {
+      "number": "१०२",
+      "text": "तुहिनकिरणलग्नात् पापखेटोपयाते नवमतनयराशौ पापखेटेक्षिते वा ।\nभुजगनिगडपाशे रन्ध्रजन्मत्रिमागे जननसमयलग्नान्मृत्युद्बन्धनेन",
+      "english_meaning": "If the Lagna lord is in a quadrant with Venus, and the 8th house is free from malefics, life is long.",
+      "hindi_meaning": "यदि लग्नेश केन्द्र में शुक्र के साथ हो, और अष्टम भाव पाप मुक्त हो, तो आयु लंबी होती है।"
+    },
+    {
+      "number": "१०३",
+      "text": "मीनोदये शशिरवी यदि पापयुक्तो पापेऽष्टमे च मरणं रभणीकृतं स्यात् ॥\nभौमे सुखे दिनकरे यदि वा मदस्थे मन्देऽष्टमे शशिनि चान्नविशेषजन्यम्",
+      "english_meaning": "If the 9th lord is in the 11th and the 11th lord is in the 9th, and both are aspected by Jupiter, life is 95 years.",
+      "hindi_meaning": "यदि भाग्येश ११वें भाव में और लाभेश ९वें भाव में हो, और दोनों गुरु द्वारा दृष्ट हों, तो जातक ९५ वर्ष तक जीता है।"
+    },
+    {
+      "number": "१०४",
+      "text": "मन्दे धने सुखगते शशिनि क्षमाजे मानस्थिते व्रणकृतेन मृतिं समेति ।\nबन्धुस्थेऽवनिसुते धनगे शशाङ्के भानौ नभस्थलगते तु गजाश्वयानात्",
+      "english_meaning": "If the 4th lord and the 10th lord are in their own signs, and the Lagna lord is in the Lagna, life is 100 years.",
+      "hindi_meaning": "यदि चतुर्थेश अपनी राशि में और दशमेश अपनी राशि में हो, और लग्नेश लग्न में हो, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "१०५",
+      "text": "रन्ध्रे शनौ वियति हीनबले शशङ्के भानौ सुखे निभृतकाष्ठहतेन मृत्युः ।\nपापान्तरे जनलग्नपतौ सकेतौ लग्नाष्तमे खलयुते साति मातृकोपात्",
+      "english_meaning": "If the 8th lord is in a quadrant and aspected by the Lagna lord, and both are in benefic Navamshas, life is long.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और लग्नेश द्वारा दृष्ट हो, और दोनों शुभ नवांश में हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "१०६",
+      "text": "सुखास्प्दस्थैरशुभैर्ग्रहेन्दैस्त्रिकोणगैर्वाऽथ विलग्नराशौ ।\nरन्ध्रेश्वरे भूतनयेन सार्द्ध उद्बन्धनात्तस्य मृतिं वदन्ति",
+      "english_meaning": "If the 9th lord and the 10th lord are in their own signs, and the Lagna lord is strong, the person lives long.",
+      "hindi_meaning": "यदि भाग्येश अपनी राशि में और दशमेश अपनी राशि में हो, और लग्नेश बली हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "१०७",
+      "text": "लग्ने रवौ सुते मन्दे रन्ध्रस्थे तृडुनायके ।\nधर्म गते धरासूनौ वृक्षाशबिभयान्मृतिः",
+      "english_meaning": "If the 8th lord is in the 11th and the 11th lord in the 8th, in benefic signs, life is 85 years.",
+      "hindi_meaning": "यदि अष्टमेश ११वें भाव में और लाभेश ८वें भाव में हो, और दोनों शुभ राशि में हों, तो आयु ८५ वर्ष होती है।"
+    },
+    {
+      "number": "१०८",
+      "text": "पापेष्वाज्ञाबन्धुराशिस्थितेषु क्षीणे तारान्गयके शत्रुराशौ ॥\nलग्नाच्छिद्रस्वानराशि गते वा यात्राकाले शत्रुदोषान्मृतिः स्यात",
+      "english_meaning": "If the Lagna lord is in the Lagna and the 9th lord is in the 9th, aspected by Mercury, life is 100 years.",
+      "hindi_meaning": "यदि लग्नेश लग्न में और भाग्येश ९वें भाव में हो, और दोनों बुध द्वारा दृष्ट हों, तो मनुष्य १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "१०९",
+      "text": "लग्नान्त्यगौ भानुधराक्रमारौ दिनेशचन्द्रेन्दुसुता मदस्थाः ।\nसुरालथोद्यानवनप्रदेशे प्रवासभूमौ भ्रियते तु जातः",
+      "english_meaning": "If all malefics are in the 3rd, 6th, and 11th houses and all benefics are in quadrants or trines, life is 100 years.",
+      "hindi_meaning": "यदि सभी पाप ग्रह ३, ६ और ११वें भाव में हों और सभी शुभ ग्रह केन्द्र या त्रिकोण में हों, तो मनुष्य १०० वर्ष तक जीता है।"
+    },
+    {
+      "number": "११०",
+      "text": "लग्नाष्तमे पापयुतेऽष्टमेशे रिःफोपयाते यदि केन्द्रगे वा ।\nलग्नेश्वरे हीनबलेन युक्ते दुर्मार्गर्दोषात्प्रवदन्ति मृत्युम्",
+      "english_meaning": "If the 8th lord is in a quadrant, Lagna lord in own Navamsha, aspected by Jupiter, life is 95 years.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो, लग्नेश अपने नवांश में हो, और दोनों गुरु द्वारा दृष्ट हों, तो आयु ९५ वर्ष होती है।"
+    },
+    {
+      "number": "१११",
+      "text": "भौमार्कजक्षेत्रगते शशाङ्के पापेक्षिते पापखगान्तरस्थे ।\nकन्यागृहे वा हिबुकोपयाते मृतिं वदेदग्निजशस्त्रपातैः",
+      "english_meaning": "If the 4th lord is in the 10th and the 10th lord in the 4th house, and the Lagna lord is strong, life is long.",
+      "hindi_meaning": "यदि चतुर्थेश १०वें भाव में और दशमेश ४थे भाव में हो, और लग्नेश बली हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "११२",
+      "text": "यादि विषघटिकायामष्टमे पापयुक्ते विंषशिखिभवसस्त्रैर्जायते तस्य मृत्युः ।\nबहुदिविचरयुक्ते लग्नपे साष्टमेशे बहुजनमृतिकाले मृत्युमेति प्रजातः",
+      "english_meaning": "If the 8th lord is in the 2nd and the 2nd lord in the 8th house, aspected by Venus, life is 80 years.",
+      "hindi_meaning": "यदि अष्टमेश २रे भाव में और द्वितीयेश ८वें भाव में हो, और दोनों शुक्र द्वारा दृष्ट हों, तो आयु ८० वर्ष होती है।"
+    },
+    {
+      "number": "११३",
+      "text": "लग्नेशस्थनवांशस्य राशिकोपोद्भवामयैः ।\nमृत्युं तस्य वदन्त्येके हौरिका मुनिपुङ्ग्रवाः",
+      "english_meaning": "If the Lagna lord is in a quadrant with Jupiter and the 8th house is free from malefics, life is long.",
+      "hindi_meaning": "यदि लग्नेश केन्द्र में गुरु के साथ हो और अष्टम भाव पाप मुक्त हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "११४",
+      "text": "होरेशऽशगते तु तुम्दुरगृहे तापस्वराग्न्युद्भवै-\nरूक्षे श्वासविकारशूलजनितैर्युग्मे शिरशूलजैः ।\nवातोन्मादमवैः कूलीरभवने सिंहे विषस्फोटकैः\nकन्यवां जठराम्निगुह्यजनितैर्जातस्य मृत्युं वदेत्",
+      "english_meaning": "If the 9th lord is in its own sign and the Lagna lord is in the 10th house, life is 95 years.",
+      "hindi_meaning": "यदि भाग्येश अपनी राशि में हो और लग्नेश १०वें भाव में हो, और दोनों बली हों, तो जातक ९५ वर्ष तक जीता है।"
+    },
+    {
+      "number": "११५",
+      "text": "जूकेशोकचतुष्पदज्वरभषैः कीटेऽस्मशस्त्रादिभि-\nचापे तीव्रमरूद्भषैर्मृगसुखे ज्वाघ्रादिशूलामयैः ।\nकुम्भे ज्याघ्रवधूकृतैरनिभिषे तोयातिसायिर्मृतिम्\nसंघ्रस्थांशगता प्रचारधरणी जातस्य मृत्युप्रदा",
+      "english_meaning": "If the 8th lord is in a quadrant, Lagna lord in own Navamsha, aspected by Mercury, life is 90 years.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो, लग्नेश अपने नवांश में हो, और दोनों बुध द्वारा दृष्ट हों, तो आयु ९० वर्ष होती है।"
+    },
+    {
+      "number": "११६",
+      "text": "अथ बिर्याणदिग्ज्ञनानम् ।\nनिशि बलयुतराशौ लग्नयातेऽह्निकाले\nयदि दिनबलयुक्ते जन्मलग्ने रजन्याम् ।\nउदयगनवभागे स्वामियोगेक्षितानाम्\nदिशि मृतिमुपयाति स्थानवीर्याधिकस्य",
+      "english_meaning": "If the 11th lord and the 2nd lord are in their own signs, and the Lagna lord is strong, life is long.",
+      "hindi_meaning": "यदि लाभेश अपनी राशि में और द्वितीयेश अपनी राशि में हो, और लग्नेश बली हो, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "११७",
+      "text": "अथ मोहकालः शषपरिणामश्च ।\nहोरशेषनवांशमानघटिका मोहः स्वभांशेक्षिते\nपापैस्तद्द्विगुणीकृतस्त्रिगुणितः सौम्यैरवस्थात्मकः ।\nक्रूरापश्वरसौम्यमिश्रतनुगैर्द्वाविंशतित्र्यंशकै-\nर्न्नशं याति शशीरमग्निजलसंभिश्रश्वमुख्यैः क्रमात्",
+      "english_meaning": "If the 8th lord is in the 12th house and the 12th lord in the 8th, in benefic signs, life is 75 years.",
+      "hindi_meaning": "यदि अष्टमेश १२वें भाव में और द्वादशेश ८वें भाव में हो, और दोनों शुभ राशि में हों, तो आयु ७५ वर्ष होती है।"
+    },
+    {
+      "number": "११८",
+      "text": "अथ मरणानन्तरं गतिज्ञनम् ।\nदेवमर्त्यपितृनारकालयप्राणिनो गुरुरिनक्षभासुतौ ।\nकुर्युरिन्दुभृगुजौ बधार्कजौ मृत्युकालभवलग्नगा यदि",
+      "english_meaning": "If the Lagna lord is in the Lagna and the 4th lord in the 4th house, aspected by Jupiter, life is 100 years.",
+      "hindi_meaning": "यदि लग्नेश लग्न में और चतुर्थेश ४थे भाव में हो, और दोनों गुरु द्वारा दृष्ट हों, तो मनुष्य १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "११९",
+      "text": "भूश्वक्रं स्यात् तुम्बुराद्यं चतुष्कं सिंहागाराद्यं भुवश्वक्रमाहुः ।\nचापादिस्थं तत्सुवश्वक्रजन्यं जीवो मृत्युक्षेत्रलोकं समेति",
+      "english_meaning": "If all planets are in the first six houses (1 to 6) from the Lagna, the person lives for 95 years.",
+      "hindi_meaning": "यदि सभी ग्रह लग्न से प्रथम छह भावों (१ से ६) में स्थित हों, तो मनुष्य ९५ वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "१२०",
+      "text": "रिःफाधीशे पापषष्त्यंशयाते पापैर्दृष्टे नारकं लोकमेति ।\nराहौ रिःफे मान्दिरन्ध्रेशयुक्ते शत्रुस्थानस्वामिदृष्टे तथा स्यात्",
+      "english_meaning": "If the 8th lord is in a quadrant and the Lagna lord is in the 11th house, life is long.",
+      "hindi_meaning": "यदि अष्टमेश केन्द्र में हो और लग्नेश ११वें भाव में हो, और दोनों बली हों, तो जातक दीर्घायु होता है।"
+    },
+    {
+      "number": "१२१",
+      "text": "उच्चस्थे शुभखेचरे व्ययगते पापग्रहैः शोभनैः\nसन्दृष्टे शुभवर्गके च विपुलं स्वर्गादिभोगं वदेत् ।\nकर्मस्थानपतौ पुरन्दरगुरौ रिःफोपयातेऽथवा\nसौम्यव्योमनिवासदृष्टिसहिते तस्यामरत्वं भवेत्",
+      "english_meaning": "If the Lagna lord is in the 9th, the 9th lord in the 11th, and the 11th lord in the Lagna, life is 100 years.",
+      "hindi_meaning": "यदि लग्नेश ९वें भाव में, भाग्येश ११वें भाव में और लाभेश लग्न में हो, तो जातक १०० वर्ष तक जीवित रहता है।"
+    },
+    {
+      "number": "१२२",
+      "text": "बृहस्पतौ चापनवांशकस्थे बलान्विते कर्कटलग्नयाते ।\nत्रिभिश्वतुभिः सह कण्टकेषु नभश्वरैर्ब्रह्मपदं प्रयति",
+      "english_meaning": "If the 8th lord is in its own sign and the Lagna lord is aspected by all benefics, the person lives very long.",
+      "hindi_meaning": "यदि अष्टमेश अपनी राशि में हो और लग्नेश सभी शुभ ग्रहों द्वारा दृष्ट हो, तो जातक अति दीर्घायु होता है।"
+    },
+    {
+      "number": "१२३",
+      "text": "धनुविलग्ने यादि तुम्बुरांशके लग्ने गुरौ दानवपूजितेऽस्तगे ।\nकन्यागते शीतकरे बलान्विते परं पदं लोकमुपैति शावतम्",
+      "english_meaning": "Summary: I have thus explained the methods of longevity calculation and long life combinations as taught by seers.",
+      "hindi_meaning": "आयु का सार: मैंने प्राचीन ऋषियों द्वारा सिखाई गई आयु गणना की विधियों और दीर्घायु के योगों का वर्णन किया है।"
+    },
+    {
+      "number": "१२४",
+      "text": "अध्यायोपसंहारः\nनिसर्गदायप्रमुखायुरब्दस्फुटक्रियामृत्युदशाप्रभेदाः ।\nनिर्याणकालप्रभवाश्व सर्वे सक्कीर्तिता भानुमुखप्रसादात्",
+      "english_meaning": "Conclusion: Carefully analyze the strength of planets and houses before predicting the exact lifespan.",
+      "hindi_meaning": "निष्कर्ष: जातक की सटीक आयु बताने से पहले ग्रहों और भावों के बल का सावधानीपूर्वक विश्लेषण करना चाहिए।"
+    },
+    {
+      "number": "५",
+      "text": "इति क्षीनवप्रहकृपया वैद्यनाथविरचिते जातकपारिजाते\nआयुर्दायाध्यायः पञ्चमः",
+      "english_meaning": "Colophon: Thus ends the fifth chapter, named Ayurdayadhyaya, of the Jataka Parijatah composed by Vaidyanatha.",
+      "hindi_meaning": "पुष्पिका: इस प्रकार वैद्यनाथ द्वारा रचित जातक पारिजात का आयुर्दायाध्याय नामक पाँचवाँ अध्याय समाप्त होता है।"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "16",
+  "title": "नष्टजातकाध्यायः",
+  "shlokas": [
+    {
+      "number": "1",
+      "text": "गोसिंहौ जितुमाष्टमौ(मिथुनाष्टमौ) क्रियतुले कन्यामृगौ च क्रमात्\nसंवर्ग्या दशकाष्टसप्तविषयैः शेषाः स्वसङ्ख्यागुणाः ।\nजीवारास्फुजिदैन्दवः(वाः) प्रथमवच्छेषा ग्रहाः सौम्यव-\nद्राशीनां नियतो विधिर्ग्रहयुतैः कार्या च तद्वर्गणा",
+      "english_meaning": "Taurus and Leo are multiplied by 10; Gemini and Scorpio by 8; Aries and Libra by 7; Virgo and Capricorn by 5. The remaining signs are multiplied by their own numbers (1 for Aries, 2 for Taurus, etc.). For planets: Jupiter, Mars, Venus, and Moon follow the first set (10, 8, 7, 5); the rest follow the second set (Mercury etc.). This method is used for calculating lost horoscopes.",
+      "hindi_meaning": "वृष और सिंह को १० से; मिथुन और वृश्चिक को ८ से; मेष और तुला को ७ से; कन्या और मकर को ५ से गुणा किया जाता है। शेष राशियों को उनकी अपनी संख्या से गुणा किया जाता है। ग्रहों के लिए: बृहस्पति, मंगल, शुक्र और चन्द्रमा पहली विधि का पालन करते हैं; शेष ग्रह दूसरी विधि का। नष्ट जातक की गणना के लिए यह नियम निश्चित है।"
+    },
+    {
+      "number": "2",
+      "text": "सप्ताहतं त्रिघनभाजितशेषमृक्षं\nदत्वाऽथवा नव शिशोध्य नवाऽथवा स्यात् ।\nएवं कलत्रसहजात्मजशत्रुभेभ्यः\nप्रष्टुर्वदेदुदयराशिवशेन तेषाम्",
+      "english_meaning": "Multiply the number by 7 and divide by 27 (three cubed); the remainder indicates the Nakshatra. Or, by adding or subtracting 9, the Ascendant etc. can be determined. Similarly, the signs of wife, brother, children, and enemies of the querent can be told from the rising sign.",
+      "hindi_meaning": "संख्या को ७ से गुणा करके २७ से भाग देने पर जो शेष बचे, वह नक्षत्र होता है। अथवा ९ जोड़कर या घटाकर लग्न आदि का ज्ञान किया जा सकता है। इसी प्रकार प्रश्नकर्ता की पत्नी, भाई, पुत्र और शत्रुओं की राशियों का ज्ञान उदय लग्न से करना चाहिए।"
+    },
+    {
+      "number": "3",
+      "text": "वर्षर्तुमासतिथयो द्युनिशं ह्युडूनि\nवेलोदयर्क्षनवभागविकल्पनाः स्युः ।\nभूयो दशादिगुणिताः स्वविकल्पभक्ता\nवर्षादयो नवकदानविशोधनाभ्याम्",
+      "english_meaning": "The year, season, month, lunar day (Tithi), day/night, Nakshatra, time, rising sign, and Navamsha are determined through these calculations. Multiply by 10 etc. and divide by relevant units, adding or subtracting 9 as required.",
+      "hindi_meaning": "वर्ष, ऋतु, मास, तिथि, दिन-रात, नक्षत्र, समय, उदय लग्न और नवमांश की कल्पना इसी प्रकार की जाती है। पुनः १० आदि से गुणा करके और संबंधित इकाइयों से भाग देकर, ९ जोड़ने या घटाने की विधि से वर्षादि का ज्ञान होता है।"
+    },
+    {
+      "number": "4",
+      "text": "विज्ञेया दशकेष्वब्दा ऋतुमासास्तथैव च ।\nअष्टकेष्वपि मासार्धं तिथयश्च तथा स्मृताः",
+      "english_meaning": "In the group of 10, the year, season, and month are known. In the group of 8, the half-month (Paksha) and Tithi are remembered.",
+      "hindi_meaning": "१० के वर्ग में वर्ष, ऋतु और मास का ज्ञान होता है। ८ के वर्ग में आधा मास (पक्ष) और तिथियों का स्मरण किया जाता है।"
+    },
+    {
+      "number": "5",
+      "text": "दिवारात्रिप्रसूतिं च नक्षत्रानयनं तथा ।\nसप्तसङ्ख्येऽपि वर्गे तु नित्यमेवोपलक्षयेत्",
+      "english_meaning": "Whether the birth was during day or night, and the determination of the Nakshatra, should always be observed in the group of 7.",
+      "hindi_meaning": "दिन या रात का जन्म और नक्षत्र का निर्धारण हमेशा ७ के वर्ग में देखना चाहिए।"
+    },
+    {
+      "number": "6",
+      "text": "वेलामथ विलग्नं च होरामंशकमेव च ।\nपञ्चकेषु विजानीयान्नष्टजातकसिद्धये",
+      "english_meaning": "The time of birth, the Ascendant, the Hora, and the Navamsha should be known from the group of 5 for the success of determining a lost horoscope.",
+      "hindi_meaning": "नष्ट जातक की सिद्धि के लिए ५ के वर्ग से जन्म समय, लग्न, होरा और नवमांश का ज्ञान करना चाहिए।"
+    }
+  ]
+}

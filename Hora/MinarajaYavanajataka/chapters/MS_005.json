@@ -1,0 +1,96 @@
+{
+  "number": "05",
+  "title": "आयुर्दयाध्यायः",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "आयुः परं मानववारणानां\nशतं सविंशं कुलसम्भवानाम् ।\nद्वात्रींशतिर्जात्यतुरङ्गमाणां\nखरोष्ट्रयोर्विंशतिवर्षसंख्या",
+      "english_meaning": "The maximum lifespan of humans and high-bred elephants is 120 years. For high-bred horses, it is 32 years, and for donkeys and camels, it is 20 years.",
+      "hindi_meaning": "मनुष्यों और उच्च कुल के हाथियों की अधिकतम आयु १२० वर्ष है। श्रेष्ठ घोड़ों की आयु ३२ वर्ष है, तथा गधों और ऊंटों की आयु २० वर्ष है।"
+    },
+    {
+      "number": 2,
+      "text": "चतुर्विहीना च तथाविकानां\nकासारगोशूकरर्मकटाणम् ।\nचत्वारिविंशत् कथिता शुनां च\nतदर्धतो व्यघ्नहरिद्दृकाणाम्",
+      "english_meaning": "For buffaloes, cows, pigs, and monkeys, the lifespan is 24 years. For dogs, it is also 24 years, and for tigers, lions, and leopards, it is 12 years (half of 24).",
+      "hindi_meaning": "भैंसों, गायों, सूअरों और बन्दरों की आयु २४ वर्ष है। कुत्तों की आयु भी २४ वर्ष है, तथा बाघों, शेरों और तेंदुओं की आयु १२ वर्ष (२४ की आधी) है।"
+    },
+    {
+      "number": 3,
+      "text": "त्रिषष्टिसंज्ञः परभाजनानां\nद्विजिह्वगृध्रप्रभवः सहस्रम् ।\nसंवत्सराः षड्वटटिदृभानां\nयूकापतङ्गाकृमिकीटकानां\nमासार्धजचैव पिपीलिकानाम्",
+      "english_meaning": "For various birds, it is 63 years. For snakes and vultures, it is 1000 years. For moths and insects, it is short, and for ants, it is 15 days (half a month).",
+      "hindi_meaning": "विभिन्न पक्षियों की आयु ६३ वर्ष है। सांपों और गिद्धों की आयु १००० वर्ष है। पतंगों और कीड़ों की आयु कम होती है, तथा चींटियों की आयु १५ दिन (आधा महीना) है।"
+    },
+    {
+      "number": 4,
+      "text": "[वृक्षोद्भवो वर्षशतं प्रदिष्ट]\nस्तेषां पताशो द्विगुणेन वाच्यः ।\nअश्वत्यन्यग्रोधशमीसमुत्यः\nशनि विवृद्धा द्विजवृक्षतश्च",
+      "english_meaning": "For trees in general, it is 100 years. For specific trees like Ashvattha (Peepal), Nyagrodha (Banyan), and Shami, the life is significantly longer and grows over time.",
+      "hindi_meaning": "सामान्य वृक्षों की आयु १०० वर्ष है। अश्वत्थ (पीपल), न्यग्रोध (बरगद) और शमी जैसे विशिष्ट वृक्षों की आयु बहुत लंबी होती है और समय के साथ बढ़ती है।"
+    },
+    {
+      "number": 5,
+      "text": "केन्द्रेषु सौम्या यादि पापहीनाः\nसवेषु जातस्या मितिर्न वाच्या ।\n.......... च्छाश्रिता वा मि ........पारसेज्ञा\nविमित्रिता वा मनुनस्य तज्ज्ञैः",
+      "english_meaning": "If benefics are in kendras without malefic association, a long life is predicted. The specific planetary strengths and exaltations define the final longevity.",
+      "hindi_meaning": "यदि शुभ ग्रह केंद्रों में हों और पाप ग्रहों से रहित हों, तो लंबी आयु कहनी चाहिए। ग्रहों का विशिष्ट बल और उच्च स्थिति अंतिम आयु का निर्धारण करती है।"
+    },
+    {
+      "number": 6,
+      "text": "सुहृद्गृहस्थैः सकलैस्तु तुङ्ग-\nमथ प्रथातैर्गृहमंशकं वा ।\nआयुः परं सूत्रनरस्य वाच्यं\nसर्वैश्च वै वृद्धिगृहप्रयातैः",
+      "english_meaning": "If all planets are in friendly signs, exaltation, or their own Navamshas, the maximum human lifespan should be predicted by the learned.",
+      "hindi_meaning": "यदि सभी ग्रह मित्र राशि, उच्च राशि या अपने नवांशों में हों, तो विद्वानों को मनुष्य की अधिकतम आयु कहनी चाहिए।"
+    },
+    {
+      "number": 7,
+      "text": "अर्थसंस्था यदि पापखेटाः\nषडाष्तमस्या यदि वा स्युरेव ।\nषष्ठ्यांशको मृत्युरिह प्रदिष्टः\nसौम्यैर्दिना प्रोद्गतवंशयोगे",
+      "english_meaning": "If malefics are in the 2nd, 6th, or 8th houses, early death (Balarishta) is indicated. Benefics' influence can provide protection in specific combinations.",
+      "hindi_meaning": "यदि पाप ग्रह २रे, ६ठे या ८वें भाव में हों, तो अल्पायु (बालारिष्ट) का योग होता है। शुभ ग्रहों का प्रभाव विशिष्ट योगों में रक्षा प्रदान कर सकता है।"
+    },
+    {
+      "number": 8,
+      "text": "केन्द्रेषु पापा यदि सौम्यहीना\nच वीक्षते देवगुरुः सितो वा ।\nमृत्युस्तदा शस्त्रकृतः प्रवाच्यो\nवर्षस्य मध्ये कृतसम्भवे वा",
+      "english_meaning": "If malefics are in kendras without benefic aspects from Jupiter or Venus, death may occur due to weapons within a year.",
+      "hindi_meaning": "यदि पाप ग्रह केंद्रों में हों और गुरु या शुक्र की दृष्टि न हो, तो एक वर्ष के भीतर शस्त्र से मृत्यु हो सकती है।"
+    },
+    {
+      "number": 9,
+      "text": "षष्ठाष्टमस्था यदि सौम्यखेटाः\nपापा धनद्वादशग यदा स्युः ।\nतदा विनाशो मनजस्य वच्यो\nमासद्भवेनैव चतुष्पटोन्यः",
+      "english_meaning": "Benefics in 6th or 8th and malefics in 2nd and 12th houses indicate destruction or death of the person within 4 months.",
+      "hindi_meaning": "६ठे या ८वें भाव में शुभ ग्रह और २रे व १२वें भाव में पाप ग्रह होने से जातक की ४ महीने के भीतर मृत्यु या विनाश का योग बनता है।"
+    },
+    {
+      "number": 10,
+      "text": "षष्ठेऽष्टमे वा यदि शिवराश्मिः\nपापेन दृष्टः सहितोऽथवा स्यात् ।\nसद्यो विहन्यान् मनुजं न दृष्टो\nयदा सुरेज्येन शुभस्त्रीतेन",
+      "english_meaning": "If the Moon is in the 6th or 8th house, aspected by or associated with malefics and not seen by Jupiter, it kills the person instantly.",
+      "hindi_meaning": "यदि चन्द्रमा ६ठे या ८वें भाव में हो, पाप ग्रहों से दृष्ट या युक्त हो और गुरु द्वारा न देखा जाए, तो वह तत्काल मृत्यु देता है।"
+    },
+    {
+      "number": 11,
+      "text": "क्षीणः शशी मूर्तिगतः सपापो\nद्यूने च पापो न शुभस्तु केन्द्रे ।\nमृत्युस्तदा वत्सरमध्यमः स्यात्\nनरस्य दृष्टो न यदा शुभेन",
+      "english_meaning": "Waning Moon in Lagna with malefics, and no benefics in kendras, indicates death of the person within a year unless seen by benefics.",
+      "hindi_meaning": "लग्न में पापयुक्त क्षीण चन्द्रमा और केंद्रों में शुभ ग्रहों का न होना एक वर्ष के भीतर मृत्यु का संकेत है, जब तक कि शुभ ग्रह न देखें।"
+    },
+    {
+      "number": 12,
+      "text": "एतैर्वीवाहांशगुणैर्विलग्ने\nताड्यो ग्रहो नागनभः शशङ्कः ।\nराश्यादितो दस्त्रशशङ्कभक्तः\nशेनाब्दपुर्व .......... आयुरुक्तः",
+      "english_meaning": "Longevity should be calculated by multiplying planetary positions by specific factors and dividing by 12, as per the rules of Amsayu.",
+      "hindi_meaning": "आयु की गणना ग्रहों के अंशों को विशिष्ट कारकों से गुणा करके और १२ से भाग देकर अंशायु के नियमों के अनुसार करनी चाहिए।"
+    },
+    {
+      "number": 13,
+      "text": "द्रेष्काणवर्गोत्तमरन्ध्रभाग-\nस्वक्षेत्रगस्य द्विगुणः प्रदिष्टः ।\nद्विघ्नः स्वतुङ्गे कटिले च मार्गे\nद्वयोश्च लब्धौ त्रिगणः प्र.......... इ........ः",
+      "english_meaning": "The contribution of a planet is doubled in its own sign, vargottama, or own house. It is tripled if the planet is in exaltation or retrograde.",
+      "hindi_meaning": "अपनी राशि, वर्गोत्तम या स्वक्षेत्र में होने पर ग्रह का आयु-योगदान दोगुना हो जाता है। उच्च या वक्री होने पर यह तिगुना हो जाता है।"
+    },
+    {
+      "number": 14,
+      "text": "अर्धं हरत्येव हि नीचसस्यः\nअस्तं गतश्चार्कसुतो निहन्ति ।\nशुक्रश्च आयुःकलुषोऽस्तगो वा\nसर्वे त्रीभागा रिपुगा भवन्ति",
+      "english_meaning": "A planet loses half of its longevity contribution in debilitation or combustion (except Saturn). Malefics in enemy signs lose one-third.",
+      "hindi_meaning": "नीच या अस्त होने पर ग्रह अपने आयु-योगदान का आधा हिस्सा खो देता है (शनि को छोड़कर)। शत्रु राशि में स्थित पाप ग्रह एक-तिहाई हिस्सा खो देते हैं।"
+    },
+    {
+      "number": 15,
+      "text": "अर्धार्दिषष्ठान्तमपक्रमेण\nत्वेकादशादेः प्रहरन्त्यानिष्टाः ।\nसर्वे व्ययस्थाश्च शुभास्तटर्धं\nविलोमतो वीर्ययुतश्च सौम्यः",
+      "english_meaning": "Malefics in the 12th, 11th, etc., houses reduce longevity in specific proportions. Benefics in the 12th also lose half of their contribution, but their strength modifies the effect.",
+      "hindi_meaning": "१२वें, ११वें आदि भावों में स्थित पाप ग्रह विशिष्ट अनुपात में आयु की हानि करते हैं। १२वें में स्थित शुभ ग्रह भी अपना आधा योगदान खो देते हैं।"
+    }
+  ]
+}

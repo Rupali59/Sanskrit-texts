@@ -1,0 +1,78 @@
+{
+  "number": "6",
+  "title": "सूतिकाध्यायः",
+  "shlokas": [
+    {
+      "number": "1",
+      "text": "गुरुशशिरवयः सत्त्वं रजः सितज्ञौ तमोऽर्कसुतभौमौ ।\nएतेऽन्तरात्मनि स्वां प्रकृतिं जन्तोः प्रयच्छन्ति",
+      "english_meaning": "Jupiter, Moon, and Sun represent Sattva Guna; Venus and Mercury represent Rajas Guna; Saturn and Mars represent Tamas Guna. These planets bestow their respective natures upon the inner soul of the native.",
+      "hindi_meaning": "बृहस्पति, चन्द्रमा और सूर्य सत्त्व गुण; शुक्र और बुध रज गुण; शनि और मंगल तम गुण का प्रतिनिधित्व करते हैं। ये ग्रह प्राणी की अन्तरात्मा को अपनी-अपनी प्रकृति प्रदान करते हैं।"
+    },
+    {
+      "number": "2",
+      "text": "सत्त्वं रजस्तमो वा त्रिंशांशे यस्य भास्करस्तादृक् ।\nबलिनः सदृशी मूर्तिर्बुध्वा वा जातिकुलदेशान्",
+      "english_meaning": "The dominant quality (Sattva, Rajas, or Tamas) of the native is determined by the Trimsamsha occupied by the Sun. The physical appearance follows the strongest planet, considering the caste, family, and country.",
+      "hindi_meaning": "जातक का प्रमुख गुण (सत्त्व, रज या तम) सूर्य द्वारा अधिष्ठित त्रिंशांश से निर्धारित होता है। शारीरिक बनावट सबसे बलवान ग्रह के अनुसार होती है, जिसमें जाति, कुल और देश का भी ध्यान रखना चाहिए।"
+    },
+    {
+      "number": "3",
+      "text": "पूर्वविलग्ने यादृग् नव भागस्तादृशी भवति मूर्तिः ।\nयो वा ग्रहो बलिष्ठस्तत्काले तादृशी वाच्या",
+      "english_meaning": "The physical form of the native corresponds to the Navamsha of the Ascendant or the strongest planet at the time of birth.",
+      "hindi_meaning": "जातक की शारीरिक आकृति जन्म लग्न के नवांश के समान या जन्म के समय सबसे बलवान ग्रह के स्वरूप के समान होती है।"
+    },
+    {
+      "number": "4",
+      "text": "चन्द्रे लग्नमपश्यति मध्ये वा शुक्रसौम्ययोश्चन्द्रे ।\nजन्म परोक्षस्य पितुर्यमोदये वा कुजे वाऽस्ते",
+      "english_meaning": "Birth occurs in the absence of the father if the Moon does not aspect the Ascendant, or if the Moon is between Venus and Mercury, or if Saturn is in the Ascendant, or if Mars is in the 7th house.",
+      "hindi_meaning": "पिता की अनुपस्थिति (परोक्ष) में जन्म तब होता है जब चन्द्रमा लग्न को न देखता हो, या चन्द्रमा शुक्र और बुध के बीच हो, या लग्न में शनि हो, या सप्तम भाव में मंगल हो।"
+    },
+    {
+      "number": "5",
+      "text": "पापयुतोऽर्कः सेन्दुः पश्यति होरां न चन्द्रमपि जीवः ।\nपश्यति सार्कं नेन्दुं यदि जीवो वा परैर्जातः",
+      "english_meaning": "Birth is illegitimate if the Sun or Moon is associated with malefic planets and Jupiter does not aspect the Ascendant or the Moon, or if Jupiter aspects the Sun but not the Moon.",
+      "hindi_meaning": "जारज (परपुरुष से उत्पन्न) जन्म तब होता है जब सूर्य या चन्द्रमा पाप ग्रहों से युक्त हों और बृहस्पति लग्न या चन्द्रमा को न देखता हो, या बृहस्पति सूर्य को तो देखे पर चन्द्रमा को न देखे।"
+    },
+    {
+      "number": "6",
+      "text": "द्वारं वास्तुनि केन्द्रोपगाद् ग्रहादसति वा विलग्नर्क्षात् ।\nदीपोऽर्कादुदयाद् वर्तिरिन्दुतः स्नेहनिर्देशः",
+      "english_meaning": "The door of the lying-in chamber is in the direction of the planet in a Kendra, or according to the sign of the Ascendant. The position of the lamp is determined by the Sun, the wick by the Moon, and the oil/ghee by the strength of the Moon.",
+      "hindi_meaning": "सूतिका गृह (प्रसूति कक्ष) का द्वार केन्द्र स्थित ग्रह की दिशा में या लग्न राशि के अनुसार होता है। दीपक की स्थिति सूर्य से, बत्ती की स्थिति चन्द्रमा से और तेल/घी का विचार चन्द्रमा के बल से किया जाता है।"
+    },
+    {
+      "number": "7",
+      "text": "अदृढं नवमथ दग्धं चित्रं सुदृढं मनोरमं जीर्णम् ।\nगृहमर्कादिकवीर्यात् पतिभवनं सन्निकृष्टैश्च",
+      "english_meaning": "The condition of the house—whether weak, new, burnt, colorful, strong, beautiful, or old—is determined by the strength of Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn respectively.",
+      "hindi_meaning": "घर की स्थिति—कमजोर, नया, जला हुआ, चित्र-विचित्र, मजबूत, सुंदर या पुराना—क्रमशः सूर्य, चन्द्रमा, मंगल, बुध, बृहस्पति, शुक्र और शनि के बल से जानी जाती है।"
+    },
+    {
+      "number": "8",
+      "text": "गुरुरुच्चो दशमस्थो द्वित्रिचतुर्भूमिकं करोति गृहम् ।\nधनुषि सबलस्त्रिशालं द्विशालमन्येषु यमलेषु",
+      "english_meaning": "Exalted Jupiter in the 10th house indicates a house with two, three, or four storeys. Strong Jupiter in Sagittarius indicates a house with three wings (Trishala), and in other dual signs, a two-winged house (Dwishala).",
+      "hindi_meaning": "यदि बृहस्पति उच्च का होकर दशम भाव में हो, तो घर दो, तीन या चार मंजिला होता है। धनु राशि में बली बृहस्पति 'त्रिशाल' (तीन तरफ कमरों वाला) घर और अन्य द्विस्वभाव राशियों में 'द्विशाल' घर का संकेत देता है।"
+    },
+    {
+      "number": "9",
+      "text": "षट्त्रिनवान्त्याः पादाः खट्वाङ्गान्यन्तरालभवनानि ।\nविनतत्वं यमलर्क्षैः क्रूरैस्तत्तुल्य उपघातः",
+      "english_meaning": "The 6th, 3rd, 9th, and 12th houses represent the legs of the delivery bed, and the other houses represent the parts in between. Dual signs indicate a bent bed, and malefic planets indicate damage to the corresponding part.",
+      "hindi_meaning": "कुंडली के ६, ३, ९ और १२वें भाव प्रसूति-शय्या के पायों (पैर) का प्रतिनिधित्व करते हैं, और अन्य भाव उनके बीच के भागों का। द्विस्वभाव राशि शय्या के झुकाव को और पाप ग्रह उस भाग में टूट-फूट को दर्शाते हैं।"
+    },
+    {
+      "number": "10",
+      "text": "छागे सिंहे वृषे लग्ने तत्स्थे सौरेऽथवा कुजे ।\nराश्यंशसदृशे गात्रे जायते नालवेष्टितः",
+      "english_meaning": "If the Ascendant is Aries, Leo, or Taurus, and Saturn or Mars is placed there, the child is born with the umbilical cord coiled around the body part corresponding to the sign/Navamsha.",
+      "hindi_meaning": "यदि मेष, सिंह या वृष लग्न हो और वहाँ शनि या मंगल स्थित हो, तो बालक के उस अंग पर गर्भनाल (नाल) लिपटी होती है जो राशि या नवांश द्वारा सूचित होता है।"
+    },
+    {
+      "number": "11",
+      "text": "ज्ञेयानि ताम्रमणिहेमशुक्तिरौप्याणि मौक्तिकं लोहम् ।\nअर्काद्यैर्बलवद्भिः स्वस्थाने हेम जीवेऽपि",
+      "english_meaning": "Copper, gems, gold, shells, silver, pearls, and iron are represented by Sun to Saturn respectively when strong. Jupiter also represents gold.",
+      "hindi_meaning": "सूर्य से लेकर शनि तक बली होने पर क्रमशः तांबा, मणि, सोना, सीपी, चांदी, मोती और लोहे का प्रतिनिधित्व करते हैं। बृहस्पति भी स्वर्ण का कारक है।"
+    },
+    {
+      "number": "12",
+      "text": "शशिलग्नान्तरसंस्थग्रहतुल्याश्चोपसूतिका ज्ञेयाः ।\nउदगर्धेऽभ्यन्तरगा बाह्याश्चक्रस्य दृश्येऽर्धे",
+      "english_meaning": "The number of attendants at the time of birth corresponds to the number of planets between the Moon and the Ascendant. Planets in the invisible half are inside the room, and those in the visible half are outside.",
+      "hindi_meaning": "जन्म के समय परिचारिकाओं (दाइयों) की संख्या चन्द्रमा और लग्न के बीच स्थित ग्रहों के बराबर होती है। अदृश्य भाग (लग्नादि ६ भाव) में स्थित ग्रह कमरे के भीतर और दृश्य भाग में स्थित ग्रह कमरे के बाहर की परिचारिकाओं को दर्शाते हैं।"
+    }
+  ]
+}

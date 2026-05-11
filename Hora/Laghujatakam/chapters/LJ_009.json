@@ -1,0 +1,36 @@
+{
+  "number": "9",
+  "title": "आयुर्दायाध्यायः",
+  "shlokas": [
+    {
+      "number": "1",
+      "text": "राश्यंशकला गुणिता द्वादशनवभिर्ग्रहस्य भगणेभ्यः ।\nद्वादशहृतावशेषेऽब्दमासदिननाडिकाः क्रमशः",
+      "english_meaning": "The signs, degrees, and minutes of a planet's position are multiplied by 12, 9, etc., according to the cycles. The remainder after dividing by 12 gives the years, months, days, and Ghatikas of longevity contributed by that planet.",
+      "hindi_meaning": "ग्रह की राशि, अंश और कला को चक्रों के अनुसार १२, ९ आदि से गुणा किया जाता है। १२ से भाग देने पर जो शेष बचता है, वह उस ग्रह द्वारा प्रदान किए गए आयु के वर्ष, महीने, दिन और घड़ियाँ (नाड़िका) होते हैं।"
+    },
+    {
+      "number": "2",
+      "text": "होरादायोऽप्येवं बलयुक्ताऽन्यानि राशितुल्यानि ।\nवर्षाणि संप्रयच्छत्यनुपाताच्चांशकादिफलम्",
+      "english_meaning": "Similarly, the Ascendant (Hora) contributes to longevity. If the Ascendant is strong, the signs passed by it contribute years. The degrees and minutes contribute months and days proportionately.",
+      "hindi_meaning": "इसी प्रकार, लग्न (होरा) भी आयु में योगदान देता है। यदि लग्न बली हो, तो उसके द्वारा भुक्त राशियाँ वर्ष प्रदान करती हैं। अंश और कला आदि का फल अनुपात (Proportion) से निकालना चाहिए।"
+    },
+    {
+      "number": "3",
+      "text": "वर्गोत्तमस्वराशिद्रेष्काणनवांशके सकृद्-द्विगुणं (द्द्विगुणम्) ।\nवक्रोच्चयोस्त्रिगुणितं द्वित्रिगुणत्वे सकृत् त्रिगुणम्",
+      "english_meaning": "The longevity contributed by a planet is doubled if it is in Vargottama, its own sign, its own Decanate, or its own Navamsha. It is tripled if the planet is retrograde or in its exaltation sign. If multiple conditions apply, only the highest multiplier (triple) is used once.",
+      "hindi_meaning": "यदि ग्रह वर्गोत्तम, अपनी राशि, अपने द्रेष्काण या अपने नवांश में हो, तो उसकी आयु दोगुनी हो जाती है। यदि ग्रह वक्री हो या अपनी उच्च राशि में हो, तो आयु तीन गुनी हो जाती है। यदि एक साथ कई स्थितियाँ हों, तो केवल एक बार (अधिकतम तीन गुना) ही गुणा किया जाता है।"
+    },
+    {
+      "number": "4",
+      "text": "त्र्यंशमवक्रो रिपुभे नीचेऽर्धं सूर्यलुप्तकिरणश्च ।\nक्षपयति स्वायुर्दायान्नास्तं यातौ राविजशुक्रौ",
+      "english_meaning": "A planet loses 1/3rd of its longevity contribution if it is in an enemy's sign, and 1/2 if it is debilitated or combust (eclipsed by Sun's rays). However, Saturn and Venus do not lose longevity when combust.",
+      "hindi_meaning": "यदि ग्रह शत्रु राशि में हो, तो वह अपनी आयु का १/३ भाग खो देता है; और यदि वह नीच का हो या अस्त (सूर्य की किरणों से लुप्त) हो, तो आधा (१/२) भाग कम हो जाता है। किन्तु शनि और शुक्र अस्त होने पर अपनी आयु कम नहीं करते।"
+    },
+    {
+      "number": "5",
+      "text": "सर्वार्धत्रिचतुर्थेन्द्रियर्तुभागान् व्ययाद्धरन्त्यशुभाः ।\nसन्तोऽर्धमतो वामं बलवानेकर्क्षगेष्वेकः",
+      "english_meaning": "Malefic planets in the 12th, 11th, 10th, 9th, 8th, and 7th houses lose full, 1/2, 1/3, 1/4, 1/5, and 1/6 of their longevity contribution respectively. Benefics lose half of these values. If multiple planets are in the same house, only the strongest one's reduction is considered.",
+      "hindi_meaning": "१२वें, ११वें, १०वें, ९वें, ८वें और ७वें भाव में स्थित पाप ग्रह क्रमशः पूरी, १/२, १/३, १/४, १/५ और १/६ आयु का ह्रास करते हैं। शुभ ग्रहों के लिए यह ह्रास आधा होता है। यदि एक ही भाव में कई ग्रह हों, तो केवल सबसे बलवान ग्रह की कटौती मान्य होती है।"
+    }
+  ]
+}

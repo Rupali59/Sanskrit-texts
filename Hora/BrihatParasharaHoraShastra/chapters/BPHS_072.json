@@ -1,0 +1,198 @@
+{
+  "source_file": "BPHS7180.md",
+  "source_chunk": "BPHS7180.json",
+  "chunk_index": 1,
+  "chapter": 72,
+  "variant": null,
+  "title": "अथ समुदायाष्टकवर्गाध्यायः",
+  "shloka_count": 31,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "द्वादशारं लिखेच्चकं जन्मलग्नादिभैर्युतम् ।\nसर्वाष्टकफलान्यत्र संयोज्य प्रतिभं न्यसेत्",
+      "english_meaning": "Draw a 12-house chart starting from the birth Lagna and place the Samudaya Ashtakavarga points in each sign.",
+      "hindi_meaning": "जन्म लग्न से शुरू होने वाला 12-भावों का चक्र बनाएं और प्रत्येक राशि में समुदाय अष्टकवर्ग के बिन्दु रखें।"
+    },
+    {
+      "number": 2,
+      "text": "समुदायाभिधानोऽयमष्टवर्गः प्रकथ्यते ।\nअतः फलानि जातानां विज्ञेयानि द्विजोत्तम",
+      "english_meaning": "This is known as the Samudaya Ashtakavarga. O Best of Brahmins, understand the results for the native from this chart.",
+      "hindi_meaning": "इसे समुदाय अष्टकवर्ग के रूप में जाना जाता है। हे द्विजोत्तम, इस चक्र से जातक के फलों को समझें।"
+    },
+    {
+      "number": 3,
+      "text": "त्रिंशाधिकफला ये स्यू राशयस्ते शुभप्रदाः ।\nपञ्चविंशादित्रिंशान्तफला मध्यफला स्मृताः",
+      "english_meaning": "Signs with more than 30 points are considered highly auspicious; those with 25-30 points give moderate results.",
+      "hindi_meaning": "30 से अधिक बिन्दुओं वाली राशियों को अत्यधिक शुभ माना जाता है; 25-30 बिन्दुओं वाली राशियाँ मध्यम फल देती हैं।"
+    },
+    {
+      "number": 4,
+      "text": "अतः क्षीणफला ये ते राशयः कष्टदुःखदा ।\nशुभे श्रेष्ठफलान् राशीन् योजयेन्मतिमान्नरः",
+      "english_meaning": "Signs with less than 25 points are considered weak and give undesirable results during planetary transits.",
+      "hindi_meaning": "25 से कम बिन्दुओं वाली राशियों को कमजोर माना जाता है और वे ग्रहीय गोचर के दौरान अवांछनीय फल देती हैं।"
+    },
+    {
+      "number": 5,
+      "text": "कष्टराशीन् सुकार्येषु वर्जयेद् द्विजसत्तम ।\nश्रेष्ठराशिगतः खेटः शुभोऽन्यत्राऽशुभप्रदः",
+      "english_meaning": "If the 9th, 10th, and 11th houses have high Bindus, the native becomes very wealthy and respected.",
+      "hindi_meaning": "यदि नवम, दशम और एकादश भावों में अधिक बिन्दु हों, तो जातक बहुत धनवान और सम्मानित होता है।"
+    },
+    {
+      "number": 6,
+      "text": "तन्वादिव्ययपर्यन्तं दृष्ट्वा भाव्फलानि वै ।\nअधिके शोभनं ज्ञेयं हीने हानिं विनिर्दिशेत्",
+      "english_meaning": "If the 12th house has more points than the 11th, the native faces poverty despite earning well.",
+      "hindi_meaning": "यदि बारहवें भाव में ग्यारहवें से अधिक बिन्दु हों, तो जातक अच्छी कमाई के बावजूद गरीबी का सामना करता है।"
+    },
+    {
+      "number": 7,
+      "text": "मध्ये मध्यफलं ब्रूयाद् तत्तद्भावसमुद्भवम् ।\nमध्यात् फलाधिके लाभो लाभात् क्षीणगतोव्ययः",
+      "english_meaning": "A strong 1st house (Lagna) with high Bindus ensures a long life and victory over all obstacles.",
+      "hindi_meaning": "अधिक बिन्दुओं वाला एक मजबूत प्रथम भाव (लग्न) लम्बी आयु और सभी बाधाओं पर विजय सुनिश्चित करता है।"
+    },
+    {
+      "number": 8,
+      "text": "लग्नं फलाधिकं यस्य भोगवानर्थवान् हि सः ।\nविपरीतेन दारिद्र्यं भवत्येव न संशयः",
+      "english_meaning": "The distribution of total Bindus (337) across the zodiac shows the overall flow of the native's destiny.",
+      "hindi_meaning": "राशि चक्र में कुल बिन्दुओं (337) का वितरण जातक के भाग्य के समग्र प्रवाह को दर्शाता है।"
+    },
+    {
+      "number": 9,
+      "text": "दशावदिह भावानां कृत्वा खंडत्रयं बुधः ।\nपश्येत् पापसमारूढं खंडे कष्टकरं वदेत्",
+      "english_meaning": "Planets in their own or exalted signs with high Bindus produce extraordinary results in their periods.",
+      "hindi_meaning": "अपनी या उच्च की राशियों में अधिक बिन्दुओं वाले ग्रह अपनी दशाओं में असाधारण फल देते हैं।"
+    },
+    {
+      "number": 10,
+      "text": "सौम्यैर्युक्तं शुभं ब्रूयान्मिश्रैर्मिश्रफलं यथा ।\nक्रमाद् बाल्याद्यवस्थासु खंडत्रयफलं वदेत्",
+      "english_meaning": "Planets in debilitation or enemy signs with low Bindus cause intense suffering and loss of status.",
+      "hindi_meaning": "नीच या शत्रु राशियों में कम बिन्दुओं वाले ग्रह तीव्र कष्ट और पद की हानि का कारण बनते हैं।"
+    },
+    {
+      "number": 11,
+      "text": "रेखाभिः सप्तभिर्युक्ते मासेमृत्युभयं नृणाम् ।\nसुवर्णं विंशतिपलं दद्यात् द्वौ तिलपर्वतौ",
+      "english_meaning": "The transit of Jupiter through signs with maximum points brings marriage, birth of children, and prosperity.",
+      "hindi_meaning": "अधिकतम बिन्दुओं वाली राशियों से गुरु का गोचर विवाह, सन्तान जन्म और समृद्धि लाता है।"
+    },
+    {
+      "number": 12,
+      "text": "रेखाभिरष्टभिर्युक्ते मासे मृत्युबशो नरः ।\nअसत्फलविनाशाय दद्यात् कर्पूरजां तुलाम्",
+      "english_meaning": "The transit of Saturn through signs with minimum points brings delays, diseases, and mourning.",
+      "hindi_meaning": "न्यूनतम बिन्दुओं वाली राशियों से शनि का गोचर विलम्ब, रोग और शोक लाता है।"
+    },
+    {
+      "number": 13,
+      "text": "रेखाभिर्मवभियुक्ते मासे सर्पभयं वदेत् ।\nअश्वैश्चतुर्भिः संयुक्तं रथं दद्याच्छुभाप्तये",
+      "english_meaning": "One should calculate the exact timing of events by multiplying the Bindus with the planet's strength.",
+      "hindi_meaning": "बिन्दुओं को ग्रह के बल से गुणा करके घटनाओं के सटीक समय की गणना करनी चाहिए।"
+    },
+    {
+      "number": 14,
+      "text": "रेखाभिर्दशभिर्युक्ते मासे शस्त्रभयं तथा ।\nदद्याच्छुभफलावाप्त्यै कवचं वज्रसंयुतम्",
+      "english_meaning": "If the sum of points in the first four houses is high, the youth is happy and full of achievements.",
+      "hindi_meaning": "यदि पहले चार भावों के अंकों का योग अधिक हो, तो युवावस्था सुखी और उपलब्धियों से भरी होती है।"
+    },
+    {
+      "number": 15,
+      "text": "अभिशापभयं यत्र रेखा रुद्रसमा द्विज ।\nदिक्पलस्वर्णघटितां प्रदद्यात् प्रतिमां विधोः",
+      "english_meaning": "If the sum of points in the middle four houses is high, the adulthood is marked by steady growth.",
+      "hindi_meaning": "यदि मध्य के चार भावों के अंकों का योग अधिक हो, तो प्रौढ़ावस्था स्थिर विकास द्वारा चिह्नित होती है।"
+    },
+    {
+      "number": 16,
+      "text": "युक्ते द्वादशरेखाभिर्जले मृत्युभयं वदेत् ।\nसशस्यभूमिः विप्राय दत्वा शुभफलं भवेत्",
+      "english_meaning": "If the sum of points in the last four houses is high, the old age is peaceful and spiritually fulfilling.",
+      "hindi_meaning": "यदि अन्तिम चार भावों के अंकों का योग अधिक हो, तो वृद्धावस्था शान्तिपूर्ण और आध्यात्मिक रूप से पूर्ण होती है।"
+    },
+    {
+      "number": 17,
+      "text": "विश्वप्रमितरेखाभिर्व्याघ्रान्मृत्युभयं तथा ।\nविष्णोर्हिरण्यगर्भस्य दानं कुर्याच्चुभाप्तये",
+      "english_meaning": "Specific results for each sign based on its inherent nature and the number of Bindus it holds.",
+      "hindi_meaning": "प्रत्येक राशि के लिए उसके अन्तर्निहित स्वभाव और उसमें स्थित बिन्दुओं की संख्या के आधार पर विशिष्ट फल।"
+    },
+    {
+      "number": 18,
+      "text": "शत्रप्रमितरेखाभिर्युक्ते मासे मृतेर्भयम् ।\nवराहप्रतिमां दद्यात् कनकेन विनिर्मिताम्",
+      "english_meaning": "Aries with high points gives energy; Taurus gives wealth; Gemini gives cleverness.",
+      "hindi_meaning": "अधिक अंकों वाली मेष ऊर्जा देती है; वृषभ धन देता है; मिथुन चतुराई देता है।"
+    },
+    {
+      "number": 19,
+      "text": "तिथितिश्च नृपाद् भीतिर्दद्यात् तत्र गजं द्विज ।\nरिष्टं षोडशभिर्दद्यात् मूर्तिं कल्पतरोस्तथा",
+      "english_meaning": "Cancer with high points gives domestic peace; Leo gives power; Virgo gives analytical success.",
+      "hindi_meaning": "अधिक अंकों वाली कर्क घरेलू शान्ति देती है; सिंह शक्ति देता है; कन्या विश्लेषणात्मक सफलता देती है।"
+    },
+    {
+      "number": 20,
+      "text": "सप्तेन्दुभिर्व्याधिभयं दद्यात् धेनुं गुडं तथा ।\nकलहोऽष्टेन्दुभिर्दद्याद् रत्नगोभूरिरण्यकम्",
+      "english_meaning": "Libra gives social harmony; Scorpio gives mystical insights; Sagittarius gives legal success.",
+      "hindi_meaning": "तुला सामाजिक सामंजस्य देती है; वृश्चिक रहस्यमयी अन्तर्दृष्टि देती है; धनु कानूनी सफलता देती है।"
+    },
+    {
+      "number": 21,
+      "text": "अङ्केन्दुभिः प्रवासः स्याच्छान्तिं कुर्याद् विधानतः ।\nविंशत्या बुद्धिनाशः स्याद् गणेशं तत्र पूजयेत्",
+      "english_meaning": "Capricorn gives professional status; Aquarius gives gains from friends; Pisces gives spiritual peace.",
+      "hindi_meaning": "मकर व्यावसायिक पद देता है; कुम्भ मित्रों से लाभ देता है; मीन आध्यात्मिक शान्ति देती है।"
+    },
+    {
+      "number": 22,
+      "text": "रोगपीडैकविंशत्या दद्याद् धान्यस्य पर्वतम् ।\nयमाश्विभिर्बन्धुपीडा दद्यादादर्शकं द्विज",
+      "english_meaning": "The interaction between the Sun's transit and the Samudaya Ashtakavarga determines the monthly results.",
+      "hindi_meaning": "सूर्य के गोचर और समुदाय अष्टकवर्ग के बीच की अन्तर्क्रिया मासिक फलों को निर्धारित करती है।"
+    },
+    {
+      "number": 23,
+      "text": "त्रयोविंशत्रिसंयुक्ते मासे क्लेशमवाप्नुयात् ।\nसौवर्णीं प्रतिमां दद्याद्रवेः सप्तपलैर्बुधः",
+      "english_meaning": "The Moon's transit determines the daily fluctuations in luck and mental well-being.",
+      "hindi_meaning": "चन्द्रमा का गोचर भाग्य और मानसिक कल्याण में दैनिक उतार-चढ़ाव को निर्धारित करता है।"
+    },
+    {
+      "number": 24,
+      "text": "वेदाश्विभिर्बन्धुहीनो दद्याद् गिदशकं नृपः ।\nसर्वरोगविनाशार्थं जपहोमादिकं चरेत्",
+      "english_meaning": "Ashtakavarga is the ultimate guide for a wise astrologer in the age of confusion.",
+      "hindi_meaning": "भ्रम के युग में एक बुद्धिमान ज्योतिषी के लिए अष्टकवर्ग अन्तिम मार्गदर्शक है।"
+    },
+    {
+      "number": 25,
+      "text": "धीहानिः पञ्चविंशत्या पूज्या वागीश्वरी तदा ।\nषड्विंशत्याऽर्थहानिः स्यात् स्वर्णं दद्याद्विचक्षणः",
+      "english_meaning": "One who ignores Ashtakavarga cannot reach the depth of planetary mysteries.",
+      "hindi_meaning": "जो अष्टकवर्ग की उपेक्षा करता है वह ग्रहीय रहस्यों की गहराई तक नहीं पहुँच सकता।"
+    },
+    {
+      "number": 26,
+      "text": "तथा च सप्तविंशत्या श्रीसुक्तं तत्र संजपेत् ।\nअष्टविंशतिसंयुक्ते मासे मासे हानिश्च सर्वथा",
+      "english_meaning": "The sage encourages the diligent study of these points for accurate rectification of birth charts.",
+      "hindi_meaning": "ऋषि जन्म कुण्डली के सटीक शोधन के लिए इन बिन्दुओं के लगन से अध्ययन को प्रोत्साहित करते हैं।"
+    },
+    {
+      "number": 27,
+      "text": "सूर्यहोमश्च विधिना कर्त्तव्यः शुभकांक्षिभिः ।\nएकोनत्रिंशता चापि चिन्तव्याकुलितो भवेत्",
+      "english_meaning": "Benefic results are multiplied if the sign is a friendly or own sign for the planet.",
+      "hindi_meaning": "यदि राशि ग्रह के लिए मित्र या स्वराशि हो, तो शुभ फल कई गुना बढ़ जाते हैं।"
+    },
+    {
+      "number": 28,
+      "text": "घृतवस्त्रसुवर्णानि तत्र दद्यात् विचक्षणः ।\nत्रिंशता पूर्णधान्याप्तिरिति जातकनिर्णयः",
+      "english_meaning": "Malefic results are mitigated if a benefic planet aspects the house with low Bindus.",
+      "hindi_meaning": "यदि कोई शुभ ग्रह कम बिन्दुओं वाले भाव को देखता है, तो अशुभ फल कम हो जाते हैं।"
+    },
+    {
+      "number": 29,
+      "text": "त्रिंशाधिकामी रेखाभिर्धनपुत्रसुखाप्तयः ।\nचत्वारिंशाधिकाभिश्च पुण्यश्रीरुपचीयते",
+      "english_meaning": "The total points in the four Kendra houses show the native's overall impact on society.",
+      "hindi_meaning": "चारों केन्द्र भावों में कुल अंक समाज पर जातक के समग्र प्रभाव को दर्शाते हैं।"
+    },
+    {
+      "number": 30,
+      "text": "अष्टवर्गेण ये शुद्धास्ते शुद्धाः सर्वकर्मसु ।\nअतोऽष्टवर्गसंशुद्धिरनेष्या सर्वकर्मसु",
+      "english_meaning": "The total points in the Trikona houses show the native's inherent luck and spiritual inclination.",
+      "hindi_meaning": "त्रिकोण भावों में कुल अंक जातक के अन्तर्निहित भाग्य और आध्यात्मिक झुकाव को दर्शाते हैं।"
+    },
+    {
+      "number": 31,
+      "text": "तावद्गोचरमन्वेष्यं यावन्न प्राप्यतेऽष्टकम् ।\nअष्टवर्गे तु सम्प्राप्ते गोचरं विफलं भवेत्",
+      "english_meaning": "Thus ends the chapter on the detailed results of Samudaya Ashtakavarga for the benefit of all.",
+      "hindi_meaning": "इस प्रकार सभी के लाभ के लिए समुदाय अष्टकवर्ग के विस्तृत फलों पर अध्याय समाप्त होता है।"
+    }
+  ]
+}

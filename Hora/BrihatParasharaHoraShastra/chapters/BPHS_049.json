@@ -1,0 +1,234 @@
+{
+  "source_file": "BPHS4650.md",
+  "source_chunk": "BPHS4650.json",
+  "chunk_index": 3,
+  "chapter": 49,
+  "variant": null,
+  "title": "अथ कालचक्रदशाफलाध्यायः",
+  "shloka_count": 37,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "कथयाम्यथ विप्रेन्द्र कालचक्रदशाफलम् ।\nतत्रादौ राशिनाथानां सूर्यादीनां फलं ब्रुवे",
+      "english_meaning": "Jupiter's Ashtakavarga: From Sun: 1, 2, 3, 4, 7, 8, 9, 10, 11. From Moon: 2, 5, 7, 9, 11.",
+      "hindi_meaning": "गुरु का अष्टकवर्ग: सूर्य से: 1, 2, 3, 4, 7, 8, 9, 10, 11। चन्द्रमा से: 2, 5, 7, 9, 11।"
+    },
+    {
+      "number": 2,
+      "text": "रक्तपित्तादितो व्याधिं नृणामर्कफलं वदेत् ।\nधनकीर्तिप्रजावृद्धिवस्त्राभरणदः शशी",
+      "english_meaning": "From Mars: 1, 2, 4, 7, 8, 10, 11. From Mercury: 1, 2, 4, 5, 6, 9, 10, 11.",
+      "hindi_meaning": "मंगल से: 1, 2, 4, 7, 8, 10, 11। बुध से: 1, 2, 4, 5, 6, 9, 10, 11।"
+    },
+    {
+      "number": 3,
+      "text": "ज्वरमाशु दिशेत् पैत्त्यं ग्रन्थिस्फोटं कुजस्तथा ।\nप्रजानां च धनानां च सदा वृद्धिं बुधो दिशेत्",
+      "english_meaning": "From Jupiter: 1, 2, 3, 4, 7, 8, 10, 11. From Venus: 2, 5, 6, 9, 10, 11.",
+      "hindi_meaning": "गुरु से: 1, 2, 3, 4, 7, 8, 10, 11। शुक्र से: 2, 5, 6, 9, 10, 11।"
+    },
+    {
+      "number": 4,
+      "text": "धनं कीर्तिं प्रजावृद्धिं नानाभोगं बृहस्पतिः ।\nविद्यावृद्धिर्विवाहश्च गृहं धान्यं भृगोः फलम्",
+      "english_meaning": "From Saturn: 3, 5, 6, 12. From Lagna: 1, 2, 4, 5, 6, 7, 9, 10, 11.",
+      "hindi_meaning": "शनि से: 3, 5, 6, 12। लग्न से: 1, 2, 4, 5, 6, 7, 9, 10, 11।"
+    },
+    {
+      "number": 5,
+      "text": "तापाधिक्यं महद्दुःखं बन्धुनाशः शनेः फलम् ।\nएवमर्कादियोगेन वदेद्राशिदशाफलम्",
+      "english_meaning": "Venus's Ashtakavarga: From Sun: 8, 11, 12. From Moon: 1, 2, 3, 4, 5, 8, 9, 11, 12.",
+      "hindi_meaning": "शुक्र का अष्टकवर्ग: सूर्य से: 8, 11, 12। चन्द्रमा से: 1, 2, 3, 4, 5, 8, 9, 11, 12।"
+    },
+    {
+      "number": 6,
+      "text": "मेषे तु रक्तपीडा च वृषभे धान्यवर्द्धनम् ।\nमिथुने ज्ञानसम्पान्नश्चान्द्रे धनपतिर्भवेत्",
+      "english_meaning": "From Mars: 3, 5, 6, 9, 11, 12. From Mercury: 3, 5, 6, 9, 11.",
+      "hindi_meaning": "मंगल से: 3, 5, 6, 9, 11, 12। बुध से: 3, 5, 6, 9, 11।"
+    },
+    {
+      "number": 7,
+      "text": "सूर्यक्षे शत्रुबाधा च कन्या स्त्रीणां च नाशनम् ।\nतालिके राजमन्त्रित्वं वृश्चिके मरणं भवेत्",
+      "english_meaning": "From Jupiter: 5, 8, 9, 10, 11. From Venus: 1, 2, 3, 4, 5, 8, 9, 10, 11.",
+      "hindi_meaning": "गुरु से: 5, 8, 9, 10, 11। शुक्र से: 1, 2, 3, 4, 5, 8, 9, 10, 11।"
+    },
+    {
+      "number": 8,
+      "text": "अर्थलाभो भवेच्चापे मेषस्य नवभागके ।\nमकरे पापकर्माणि कुम्भे वाणिज्यमेव च",
+      "english_meaning": "From Saturn: 3, 4, 5, 8, 9, 10, 11. From Lagna: 1, 2, 3, 4, 5, 8, 9, 11.",
+      "hindi_meaning": "शनि से: 3, 4, 5, 8, 9, 10, 11। लग्न से: 1, 2, 3, 4, 5, 8, 9, 11।"
+    },
+    {
+      "number": 9,
+      "text": "मीने सर्वार्थसिद्धिश्च वृश्चिकेष्वग्नितो भयम् ।\nतौलिके राजपूज्यश्च कन्यायां शत्रुवर्धनम्",
+      "english_meaning": "Saturn's Ashtakavarga: From Sun: 1, 2, 4, 7, 8, 10, 11. From Moon: 3, 6, 11.",
+      "hindi_meaning": "शनि का अष्टकवर्ग: सूर्य से: 1, 2, 4, 7, 8, 10, 11। चन्द्रमा से: 3, 6, 11।"
+    },
+    {
+      "number": 10,
+      "text": "शशिभे दारसम्बाधा सिंहे च त्वक्षिरोगकृत् ।\nमिथुने वृत्तिबाधा स्याद्वृषभस्य नवांशके",
+      "english_meaning": "From Mars: 3, 5, 6, 10, 11, 12. From Mercury: 6, 8, 9, 10, 11, 12.",
+      "hindi_meaning": "मंगल से: 3, 5, 6, 10, 11, 12। बुध से: 6, 8, 9, 10, 11, 12।"
+    },
+    {
+      "number": 11,
+      "text": "वृषभे त्वर्थलाभाश्च मेषे तु ज्वररोगकृत् ।\nमीने तु मातुलप्रीतिः कुम्भे शत्रुप्रवर्द्धनम्",
+      "english_meaning": "From Jupiter: 5, 6, 11, 12. From Venus: 6, 11, 12.",
+      "hindi_meaning": "गुरु से: 5, 6, 11, 12। शुक्र से: 6, 11, 12।"
+    },
+    {
+      "number": 12,
+      "text": "मृगे चौरस्य सम्बाधा धनुषि शस्त्रवर्धनम् ।\nमेषे तु शस्त्रसंघातो वृषभे कलहो भवेत्",
+      "english_meaning": "From Saturn: 3, 5, 6, 11. From Lagna: 1, 3, 4, 6, 10, 11.",
+      "hindi_meaning": "शनि से: 3, 5, 6, 11। लग्न से: 1, 3, 4, 6, 10, 11।"
+    },
+    {
+      "number": 13,
+      "text": "मिथुने सुखमाप्नोति मिथुनस्य नवांशके ।\nकर्कटे सङ्कटप्राप्तिः सिंहे राजप्रकोपकृत्",
+      "english_meaning": "Having described Bindus for all planets, I will now explain Trikona Shodhana (Trine Reduction).",
+      "hindi_meaning": "सभी ग्रहों के बिन्दुओं के वर्णन के बाद, अब मैं त्रिकोण शोधन की विधि स्पष्ट करूँगा।"
+    },
+    {
+      "number": 14,
+      "text": "कन्यायां भ्रातृपूजा व तौलिके प्रियकृन्नरः ।\nवृश्चिके पितृबाधा स्यात् चापे ज्ञानधनोदयः",
+      "english_meaning": "The 12 signs are divided into 4 groups of trines (Aries-Leo-Sagittarius, etc.).",
+      "hindi_meaning": "12 राशियों को त्रिकोणों के 4 समूहों (मेष-सिंह-धनु आदि) में विभाजित किया जाता है।"
+    },
+    {
+      "number": 15,
+      "text": "मकरे जलभीतिः स्यात् कुम्भे धान्यविवर्धनम् ।\nमीने च सुखसम्पत्तिः कर्कटस्य नवांशके",
+      "english_meaning": "If any sign in a trine group has zero Bindus, no reduction is performed for that group.",
+      "hindi_meaning": "यदि त्रिकोण समूह की किसी राशि में शून्य बिन्दु हों, तो उस समूह का शोधन नहीं किया जाता।"
+    },
+    {
+      "number": 16,
+      "text": "वृश्चिके कलः पीडा तौलिके ह्यधिकं फलम् ।\nकन्यायामतिलाभश्च शशांके मृगबाधिका",
+      "english_meaning": "If all signs in a trine have Bindus, subtract the smallest number from all signs in that trine.",
+      "hindi_meaning": "यदि त्रिकोण की सभी राशियों में बिन्दु हों, तो उनमें से सबसे छोटी संख्या को तीनों राशियों से घटा दें।"
+    },
+    {
+      "number": 17,
+      "text": "सिंहे च पुत्रलाभश्च मिथुने शत्रुवर्द्धनम् ।\nवृषेः चतुष्पदाल्लाभो मेषांशे पशुतो भयम् ।\nमीने तु दीर्घयात्रा स्यात् सिंहस्य नवभागके",
+      "english_meaning": "If two signs have equal Bindus and the third is more, subtract the smaller value from all three.",
+      "hindi_meaning": "यदि दो राशियों के बिन्दु समान हों और तीसरी के अधिक, तो समान लघु मान को तीनों से घटा दें।"
+    },
+    {
+      "number": 18,
+      "text": "कुम्भे तु धनलाभश्च मकरे द्रव्यलाभकृत् ।\nधनुषि भ्रातृसंसर्गो मेषे मातृविवर्द्धनम्",
+      "english_meaning": "If all three signs in a trine have equal Bindus, they all become zero after reduction.",
+      "hindi_meaning": "यदि त्रिकोण की तीनों राशियों के बिन्दु समान हों, तो शोधन के बाद वे सभी शून्य हो जाते हैं।"
+    },
+    {
+      "number": 19,
+      "text": "वृषभे पुत्रवृद्धिः स्यान्मिथुने शत्रुवर्द्धनम् ।\nशशिभे तु स्त्रियां प्रीतिः सिंहे व्याधिविवर्द्धनम्",
+      "english_meaning": "After Trikona Shodhana, Ekadhipatya Shodhana (Reduction for common lordship) should be performed.",
+      "hindi_meaning": "त्रिकोण शोधन के बाद एकाधिपत्य शोधन (समान स्वामित्व वाली राशियों का शोधन) करना चाहिए।"
+    },
+    {
+      "number": 20,
+      "text": "कन्यायां पुत्रवृद्धिः स्यात्कन्याया नवमांशके ।\nतुलायामर्थलाभश्च वृश्चिके भ्रातृवर्द्धनम्",
+      "english_meaning": "Except for Sun and Moon, other planets own two signs. Reduction is applied to these pairs.",
+      "hindi_meaning": "सूर्य और चन्द्रमा को छोड़कर अन्य ग्रह दो राशियों के स्वामी होते हैं। शोधन इन्हीं जोड़ों पर लागू होता है।"
+    },
+    {
+      "number": 21,
+      "text": "चापे च तातसौख्यं च मृगे मातृविरोधिता ।\nकुम्भे पुत्रार्थलाभश्च मीने शत्रुविरोधिता",
+      "english_meaning": "If both signs are occupied by planets, or both are empty of planets, specific rules apply.",
+      "hindi_meaning": "यदि दोनों राशियाँ ग्रहों से युक्त हों, या दोनों खाली हों, तो विशिष्ट नियमों का पालन किया जाता है।"
+    },
+    {
+      "number": 22,
+      "text": "अलौ जायाविरोधश्च तुले च जलबाधता ।\nकन्यायां धनवृद्धिः स्यात् तुलाया नवभागके",
+      "english_meaning": "Technical details for Ekadhipatya reduction involve comparing Bindu counts between the two signs.",
+      "hindi_meaning": "एकाधिपत्य शोधन में दो राशियों के बिन्दुओं की परस्पर तुलना करके शोधन किया जाता है।"
+    },
+    {
+      "number": 23,
+      "text": "कर्कटे ह्यर्थनाशश्च सिंहे राजविरोधिता ।\nमिथुने भूमिलाभश्च वृषभे चाऽर्थलाभकृत्",
+      "english_meaning": "If one sign has a planet and another is empty, follow rules based on their respective Bindu counts.",
+      "hindi_meaning": "यदि एक राशि में ग्रह हो और दूसरी खाली हो, तो उनके बिन्दु मानों के आधार पर नियम लागू करें।"
+    },
+    {
+      "number": 24,
+      "text": "मेषे सर्पादिभीतिः स्यान्मीने चैव जलाद् भयम् ।\nकुम्भे व्यापारतो लाभो मकरेऽपि रुजो भयम्",
+      "english_meaning": "If the empty sign has fewer Bindus, the other sign's count is reduced according to the difference.",
+      "hindi_meaning": "यदि खाली राशि में कम बिन्दु हों, तो दूसरी राशि के बिन्दुओं को उसी के अनुसार कम किया जाता है।"
+    },
+    {
+      "number": 25,
+      "text": "चापे तु धनलाभः स्याद् वृश्चिकस्य नवांशके ।\nमेषे तु धनलाभः स्याद् वृषे भूमिविवर्द्धनम्",
+      "english_meaning": "Further technical rules govern common lordship reduction to ensure precision in final counts.",
+      "hindi_meaning": "अन्तिम गणना में सटीकता सुनिश्चित करने के लिए एकाधिपत्य शोधन के अन्य सूक्ष्म नियम बताए गए हैं।"
+    },
+    {
+      "number": 26,
+      "text": "मिथुने सर्वसिद्धिः स्यात्कर्कटे सर्वसिद्धिकृत् ।\nसिंहे तु पूर्ववृद्धिः स्यात्कन्यायां कलहो भवेत्",
+      "english_meaning": "If both signs are empty of planets, subtract the smaller Bindu count from the larger one.",
+      "hindi_meaning": "यदि दोनों राशियाँ ग्रहों से खाली हों, तो बड़ी संख्या में से छोटी संख्या को घटा देना चाहिए।"
+    },
+    {
+      "number": 27,
+      "text": "तौलिके चार्थलाभः स्याद् वृश्चिके रूगमाप्नुयात् ।\nचापे तु सुतवृद्धिः स्याच्चापस्य नवमांशके",
+      "english_meaning": "If both empty signs have equal Bindus, then both counts become zero after reduction.",
+      "hindi_meaning": "यदि दोनों खाली राशियों के बिन्दु समान हों, तो शोधन के बाद दोनों शून्य हो जाते हैं।"
+    },
+    {
+      "number": 28,
+      "text": "मकरे पुत्रलाभः स्यात्कुम्भे धान्यविवर्द्धनम् ।\nमीने कल्याणमाप्नोति वृश्चिके विषबाधिता",
+      "english_meaning": "Ekadhipatya Shodhana is thus completed for all planets except the Sun and Moon.",
+      "hindi_meaning": "इस प्रकार सूर्य और चन्द्रमा को छोड़कर सभी ग्रहों के लिए एकाधिपत्य शोधन पूर्ण होता है।"
+    },
+    {
+      "number": 29,
+      "text": "तौलिके त्वर्थलाभश्च कन्यायां शत्रुवर्द्धनम् ।\nशशिभे स्र्/इयमाप्नोति सिंहे तु मृगबाधिता",
+      "english_meaning": "After these two reductions, the Shuddha (pure) Bindus are obtained for each sign.",
+      "hindi_meaning": "इन दोनों शोधनों के पश्चात् प्रत्येक राशि के लिए 'शुद्ध बिन्दु' प्राप्त होते हैं।"
+    },
+    {
+      "number": 30,
+      "text": "मिथुने वृक्षबाधा च मृगस्य नवभागके ।\nवृषभे त्वर्थलाभश्च मेषभे त्वक्षिरोगकृत्",
+      "english_meaning": "These pure Bindus are essential for calculating longevity (Ayurdaya) and other astrological results.",
+      "hindi_meaning": "ये शुद्ध बिन्दु आयुर्दाय और अन्य ज्योतिषीय फलों की गणना के लिए अनिवार्य हैं।"
+    },
+    {
+      "number": 31,
+      "text": "मीने तु दीर्घयात्रा स्यात्कुम्भे धनविवर्द्धनम् ।\nमकरे सर्वसिद्धिः स्याच्चापे शत्रुविवर्द्धनम्",
+      "english_meaning": "The Shuddha Bindus are multiplied by sign multipliers (Rashi Mana) and planet multipliers (Graha Mana).",
+      "hindi_meaning": "शुद्ध बिन्दुओं को राशि गुणक (राशि मान) और ग्रह गुणक (ग्रह मान) से गुणा किया जाता है।"
+    },
+    {
+      "number": 32,
+      "text": "मेषे सौख्यविनाशश्च वृषभे मरणं भवेत् ।\nयुग्मे कल्याणमाप्नोति कुम्भस्य नवमांशके",
+      "english_meaning": "The sum of these products for all planets yields the total longevity of the native in years.",
+      "hindi_meaning": "सभी ग्रहों के इन गुणनफलों का योग जातक की कुल आयु (वर्षों में) प्रदान करता है।"
+    },
+    {
+      "number": 33,
+      "text": "कर्कटे धनवृद्दिः स्यात् सिंहे तु राजपूजनम् ।\nकन्यायामर्थलाभस्तु तुलायां लाभमाप्नुयात्",
+      "english_meaning": "Further technical calculations involve multiplying by specific factors and converting units.",
+      "hindi_meaning": "विशिष्ट गुणांकों से गुणा और इकाइयों के परिवर्तन की अन्य तकनीकी गणनाएँ इसमें शामिल हैं।"
+    },
+    {
+      "number": 34,
+      "text": "वृश्चिके ज्वरमाप्नोति चापे शत्रुविवर्द्धनम् ।\nमृगे जायाविरोधश्च कुम्भे जलविरोधता",
+      "english_meaning": "This is the Ashtakavarga longevity method, which is highly regarded and widely used by astrologers.",
+      "hindi_meaning": "यह अष्टकवर्ग आयुर्दाय पद्धति है, जिसे ज्योतिषियों द्वारा अत्यन्त विश्वसनीय और मान्य माना जाता है।"
+    },
+    {
+      "number": 35,
+      "text": "मीने तु सर्वसौभाग्यं मीनस्य नवभागके ।\nदशांशक्रमेणैवं ज्ञात्वा सर्वफलं वदेत्",
+      "english_meaning": "It provides accurate insights into the lifespan and specific periods of prosperity and adversity.",
+      "hindi_meaning": "यह जीवनकाल और सुख-दुःख के विशिष्ट कालखण्डों के विषय में सटीक जानकारी देती है।"
+    },
+    {
+      "number": 36,
+      "text": "क्रूरग्रहदशाकाले शान्तिं कुर्याद्विचक्षणः ।\nयत् प्रोक्तं राजयोगादौ संज्ञाध्याये च यत् फलम्",
+      "english_meaning": "I have thus explained the methods of Trikona and Ekadhipatya Shodhana to you.",
+      "hindi_meaning": "इस प्रकार मैंने तुम्हें त्रिकोण और एकाधिपत्य शोधन की विधियाँ स्पष्ट कर दी हैं।"
+    },
+    {
+      "number": 37,
+      "text": "तत्सर्वं चत्रकाले हि सुबुद्ध्या योजयेद् बुधः ।\nइति संक्षेपतः प्रोक्तं कालचक्रदशाफलम्",
+      "english_meaning": "In the next chapter, I will describe the specific results derived from Ashtakavarga Bindus.",
+      "hindi_meaning": "अगले अध्याय में, मैं अष्टकवर्ग बिन्दुओं से प्राप्त होने वाले विशिष्ट फलों का वर्णन करूँगा।"
+    }
+  ]
+}

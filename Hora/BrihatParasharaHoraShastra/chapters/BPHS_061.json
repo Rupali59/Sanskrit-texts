@@ -1,0 +1,336 @@
+{
+  "source_file": "BPHS6170.md",
+  "source_chunk": "BPHS6170.json",
+  "chunk_index": 0,
+  "chapter": 61,
+  "variant": null,
+  "title": "अथ प्रत्यन्तर्दशाफलाध्यायः",
+  "shloka_count": 54,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "पृथक् स्वस्वदशामानैर्हन्यादन्तर्दशामितिम् ।\nभ्येत्सर्वदशायोगैः फलं प्रत्यन्तरं क्रमात्",
+      "english_meaning": "The calculation and results of Pratyantardasa (sub-sub-periods) are now described by the sage.",
+      "hindi_meaning": "प्रत्यन्तर्दशा (उप-उप-अवधि) की गणना और फलों का वर्णन अब ऋषि द्वारा किया गया है।"
+    },
+    {
+      "number": 2,
+      "text": "विवादो वित्तहानिश्च दारार्तिः शिरसि व्यथा ।\nरव्यन्तरे बुधैर्ज्ञेयं तस्य प्रत्यन्तरे फलम्",
+      "english_meaning": "Pratyantardasa is derived by multiplying the Antardasa period by the Dasa years and dividing systematically.",
+      "hindi_meaning": "प्रत्यन्तर्दशा की गणना अन्तर्दशा अवधि को दशा वर्षों से गुणा करके और व्यवस्थित रूप से विभाजित करके की जाती है।"
+    },
+    {
+      "number": 3,
+      "text": "उद्वेगः कलहश्चैव वित्तहानिर्मनोव्यथा ।\nरव्यन्तरे विजानीयात् चन्द्रप्रत्यन्तरे फलम्",
+      "english_meaning": "If the Pratyantardasa lord is well-placed in Kendra or Trikona, it brings immediate success.",
+      "hindi_meaning": "यदि प्रत्यन्तर्दशा स्वामी केन्द्र या त्रिकोण में शुभ स्थिति में हो, तो यह तत्काल सफलता प्रदान करता है।"
+    },
+    {
+      "number": 4,
+      "text": "राजभीतिः शस्त्रभीतिर्बन्धनं बहुसंकटम् ।\nस/त्रुवह्निकृता पीडा कुजप्रत्यन्तरे फलम्",
+      "english_meaning": "Sun's Pratyantardasa: If well-placed, it brings royal favor, energy, and success in ventures.",
+      "hindi_meaning": "सूर्य की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह राजकृपा, ऊर्जा और कार्यों में सफलता लाती है।"
+    },
+    {
+      "number": 5,
+      "text": "श्लेष्मव्याधिः शस्त्रभीतिएधनहानिर्महद्भयम् ।\nराजभङ्गस्तथा त्रासो राहुप्रत्यन्तरे फलम्",
+      "english_meaning": "The native achieves recognition and authority during the sub-sub-period of the Sun.",
+      "hindi_meaning": "सूर्य की प्रत्यन्तर्दशा के दौरान जातक मान्यता और अधिकार प्राप्त करता है।"
+    },
+    {
+      "number": 6,
+      "text": "शत्रुनाशो जयो वृद्धिर्वस्त्रहेमादिभूषणम् ।\nअश्वयानादिलाभश्च गुरुप्रत्यन्तरे फलम्",
+      "english_meaning": "If the Sun is weak, it causes fever, headaches, and trouble from government officials.",
+      "hindi_meaning": "यदि सूर्य निर्बल हो, तो यह ज्वर, सिरदर्द और सरकारी अधिकारियों से परेशानी का कारण बनता है।"
+    },
+    {
+      "number": 7,
+      "text": "धनहानिः पशोः पीडा महोद्वेगो महारुजः ।\nअशुभं सर्वमाप्नोति शनिप्रत्यन्तरे जनः",
+      "english_meaning": "Moon's Pratyantardasa: If well-placed, it brings mental peace, perfumes, and happiness from family.",
+      "hindi_meaning": "चन्द्रमा की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह मानसिक शान्ति, सुगन्धित द्रव्य और परिवार से सुख लाती है।"
+    },
+    {
+      "number": 8,
+      "text": "विद्यालाभो बन्धुसङ्ग भोज्यप्राप्तिर्धनागमः ।\nधर्मलाभो नृपात्पूजा बिधप्रत्यन्तरे भवेत्",
+      "english_meaning": "Success in works related to liquids, silver, and social gatherings is indicated.",
+      "hindi_meaning": "तरल पदार्थों, चाँदी और सामाजिक सभाओं से सम्बन्धित कार्यों में सफलता का संकेत मिलता है।"
+    },
+    {
+      "number": 9,
+      "text": "प्राणभीतिर्महाहानी राजभीतिश्च विग्रहः ।\nशत्रुणाञ्च महावादो केतोः प्रत्यन्तरे भवेत्",
+      "english_meaning": "If the Moon is weak, it causes mental anxiety, distress to the mother, and fear of water.",
+      "hindi_meaning": "यदि चन्द्रमा निर्बल हो, तो यह मानसिक चिन्ता, माता को कष्ट और जल का भय पैदा करता है।"
+    },
+    {
+      "number": 10,
+      "text": "दिनानि समरूपाणि लाभोऽप्यल्पो भवेदिह ।\nस्वल्पा च सुखसम्पत्तिः शुक्रप्रत्यन्तरे भवेत्",
+      "english_meaning": "Mars's Pratyantardasa: If well-placed, it brings victory over enemies and gain of property.",
+      "hindi_meaning": "मंगल की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह शत्रुओं पर विजय और सम्पत्ति का लाभ लाती है।"
+    },
+    {
+      "number": 11,
+      "text": "भूमोज्यधनसम्प्राप्ती राजपूजामहत्सुखम् ।\nलाभश्चन्द्रान्तरे ज्ञेयं चन्द्रप्रत्यन्तरे फलम्",
+      "english_meaning": "The native displays great courage and achieves success in daring and technical tasks.",
+      "hindi_meaning": "जातक महान साहस प्रदर्शित करता है और साहसिक एवं तकनीकी कार्यों में सफलता प्राप्त करता है।"
+    },
+    {
+      "number": 12,
+      "text": "मतिवृद्धिर्महापूज्यः सुखं बन्धुजनैः सह ।\nधनागमः शत्रुभयं कुजप्रत्यन्तरे भवेत्",
+      "english_meaning": "If Mars is weak, it causes injuries, fire-related accidents, and disputes with brothers.",
+      "hindi_meaning": "यदि मंगल निर्बल हो, तो यह चोट, अग्नि सम्बन्धी दुर्घटनाओं और भाइयों के साथ विवाद का कारण बनता है।"
+    },
+    {
+      "number": 13,
+      "text": "भवेत्कल्याणसम्पत्ती राजवित्तसमागमः ।\nअशुभैरल्पमृत्युअश्च राहुप्रत्यन्तरे द्विज",
+      "english_meaning": "Rahu's Pratyantardasa: If well-placed, it brings unexpected gains and success in foreign lands.",
+      "hindi_meaning": "राहु की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह अचानक लाभ और विदेशी भूमि में सफलता लाती है।"
+    },
+    {
+      "number": 14,
+      "text": "वस्त्रलाभो महातेजो ब्रह्मज्ञानं च सद्गुरोः ।\nराज्यालंकरणावाप्तिर्गुरुप्रत्यन्तरे फलम्",
+      "english_meaning": "The native may achieve success through unconventional means and new connections.",
+      "hindi_meaning": "जातक अपरम्परागत माध्यमों और नये सम्बन्धों के माध्यम से सफलता प्राप्त कर सकता है।"
+    },
+    {
+      "number": 15,
+      "text": "दुर्दिने लभते पीडां वातपित्ताद्विशेषतः ।\nधनधान्ययशोहानिः शनिप्रत्यन्तरे भवेत्",
+      "english_meaning": "If Rahu is weak, it causes confusion, fear from hidden enemies, and sudden losses.",
+      "hindi_meaning": "यदि राहु निर्बल हो, तो यह भ्रम, गुप्त शत्रुओं से भय और अचानक हानि का कारण बनता है।"
+    },
+    {
+      "number": 16,
+      "text": "पुत्रजन्महयप्राप्तिर्विद्यालाभो महोन्नतिः ।\nशुक्लवस्त्रान्नलाभश्च बुधप्रत्यन्तरे भवेत्",
+      "english_meaning": "Jupiter's Pratyantardasa: If well-placed, it brings wisdom, wealth, and birth of a son.",
+      "hindi_meaning": "गुरु की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह बुद्धि, धन और पुत्र जन्म लाती है।"
+    },
+    {
+      "number": 17,
+      "text": "ब्राह्मणेन समं युद्धमपमृत्युः सुखक्षयः ।\nसर्वत्र जायते क्लेशः केतोः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Success in religious deeds, education, and legal matters is a key result of this phase.",
+      "hindi_meaning": "धार्मिक कार्यों, शिक्षा और कानूनी मामलों में सफलता इस चरण का एक मुख्य परिणाम है।"
+    },
+    {
+      "number": 18,
+      "text": "धनलाभो महत्सौख्यं कन्याजन्म सुभोजनम् ।\nप्रीतिश्च सर्वलोकेभ्यो भृगुप्रत्यन्तरे विधोः",
+      "english_meaning": "If Jupiter is weak, it causes loss of wealth, liver issues, and trouble from elders.",
+      "hindi_meaning": "यदि गुरु निर्बल हो, तो यह धन की हानि, यकृत की समस्याओं और बुजुर्गों से परेशानी का कारण बनता है।"
+    },
+    {
+      "number": 19,
+      "text": "अन्नागमो वस्त्रलाभः शत्रुहानिः सुखागमः ।\nसर्वत्र विजयप्राप्तिः सूर्यप्रत्यन्तरे विधोः",
+      "english_meaning": "Saturn's Pratyantardasa: If well-placed, it brings stability through labor and steady efforts.",
+      "hindi_meaning": "शनि की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह श्रम और स्थिर प्रयासों के माध्यम से स्थिरता लाती है।"
+    },
+    {
+      "number": 20,
+      "text": "शत्रुभीतिं कलिं घोरं रक्तस्रावं मृतेर्भयम् ।\nकुजस्यान्तर्दशायां च कुजप्रत्यन्तरे वदेत्",
+      "english_meaning": "Success in agriculture, mining, and long-term investments is indicated.",
+      "hindi_meaning": "कृषि, खनन और दीर्घकालिक निवेशों में सफलता का संकेत मिलता है।"
+    },
+    {
+      "number": 21,
+      "text": "बन्धनं राजभङ्गश्च धनहानिः कुभोजनम् ।\nकलहः शत्रुभिर्नित्यं राहुप्रत्यन्तरे भवेत्",
+      "english_meaning": "If Saturn is weak, it causes delays, physical pain, and distress to subordinates.",
+      "hindi_meaning": "यदि शनि निर्बल हो, तो यह विलम्ब, शारीरिक पीड़ा और अधीनस्थों को कष्ट देता है।"
+    },
+    {
+      "number": 22,
+      "text": "मतिनाशस्तथा दुःखं सन्तापः कलहो भवेत् ।\nविफलं चिन्तितं सर्वं गुरोः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Mercury's Pratyantardasa: If well-placed, it brings success in trade, writing, and speech.",
+      "hindi_meaning": "बुध की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह व्यापार, लेखन और भाषण में सफलता लाती है।"
+    },
+    {
+      "number": 23,
+      "text": "स्वामिनाशस्तथा पीडा धनहानिर्न्महाभयम् ।\nवैकल्यं कलहस्त्रासो शनेः प्रत्यन्तरे भवेत्",
+      "english_meaning": "The native achieves recognition for their wit, humor, and intellectual contributions.",
+      "hindi_meaning": "जातक अपनी हाजिरजवाबी, विनोदप्रियता और बौद्धिक योगदान के लिए मान्यता प्राप्त करता है।"
+    },
+    {
+      "number": 24,
+      "text": "सर्वथा बुद्धिनाशश्च धनहानिर्ज्वरस्तनौ ।\nवस्त्रान्नसुहृदां नाशो बुधप्रत्यन्तरे भवेत्",
+      "english_meaning": "If Mercury is weak, it causes skin diseases, loss in business, and mental confusion.",
+      "hindi_meaning": "यदि बुध निर्बल हो, तो यह चर्म रोग, व्यापार में हानि और मानसिक भ्रम का कारण बनता है।"
+    },
+    {
+      "number": 25,
+      "text": "आलस्य च शिरःपीडा पापरोगोऽपमृत्युकृत् ।\nराजभीतिः शस्त्रघातो केतोः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Ketu's Pratyantardasa: If well-placed, it brings spiritual growth and success in occult works.",
+      "hindi_meaning": "केतु की प्रत्यन्तर्दशा: यदि शुभ हो, तो यह आध्यात्मिक विकास और गुप्त कार्यों में सफलता लाती है।"
+    },
+    {
+      "number": 26,
+      "text": "चाण्डालात्सङ्कटस्त्रासो राजशास्त्रभयं भवेत् ।\nअतिसाराऽथ वमनं भृगोः प्रत्यन्तरे भवेत्",
+      "english_meaning": "The native may experience sudden spiritual insights and detached success.",
+      "hindi_meaning": "जातक अचानक आध्यात्मिक अन्तर्दृष्टि और अनासक्त सफलता का अनुभव कर सकता है।"
+    },
+    {
+      "number": 27,
+      "text": "भूमिलाभोऽर्थसम्पत्तिः सन्तोषो मित्रसङ्गतिः ।\nसर्वत्र सुखमाप्नोति रवेः प्रत्यन्तरे जनः",
+      "english_meaning": "If Ketu is weak, it causes sudden accidents, fear from poisons, and isolation.",
+      "hindi_meaning": "यदि केतु निर्बल हो, तो यह अचानक दुर्घटनाओं, विषों से भय और अलगाव का कारण बनता है।"
+    },
+    {
+      "number": 28,
+      "text": "याम्यां दिशि भवेल्लाभः सितवस्त्रविभूषणम् ।\nसंसिद्धिः सर्वकार्याणां विधोः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Moon's Pratyantardasa: Gain of white clothes and ornaments from the South direction. Success in all works.",
+      "hindi_meaning": "चन्द्रमा की प्रत्यन्तर्दशा: दक्षिण दिशा से सफेद वस्त्रों और आभूषणों का लाभ। सभी कार्यों में सिद्धि।"
+    },
+    {
+      "number": 29,
+      "text": "बन्धनं बहुधा रोगो बहुघातः सुहृद्भयम् ।\nराह्वन्तर्दशायां च ज्ञेयं राह्वन्तरे फलम्",
+      "english_meaning": "Rahu's Pratyantardasa in Rahu's Antardasa: Imprisonment, various diseases, many injuries, and fear from friends.",
+      "hindi_meaning": "राहु की अन्तर्दशा में राहु की प्रत्यन्तर्दशा: कारावास, अनेक रोग, कई चोटें और मित्रों से भय।"
+    },
+    {
+      "number": 30,
+      "text": "सर्वत्र लभते मानं गजाश्वं च धनागमम् ।\nराहोरन्तर्दशायां च गुरोः प्रत्यन्तरे जनः",
+      "english_meaning": "Jupiter's Pratyantardasa in Rahu's Antardasa: Recognition everywhere, and gain of elephants, horses, and wealth.",
+      "hindi_meaning": "राहु की अन्तर्दशा में गुरु की प्रत्यन्तर्दशा: हर जगह मान-सम्मान, और हाथी, घोड़े एवं धन की प्राप्ति।"
+    },
+    {
+      "number": 31,
+      "text": "बन्धनं जायते घोरं सुखहानिर्महद्भयम् ।\nप्रत्यहं वातपीडा च शनेः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Saturn's Pratyantardasa in Rahu's Antardasa: Severe imprisonment, loss of happiness, great fear, and rheumatic pains.",
+      "hindi_meaning": "राहु की अन्तर्दशा में शनि की प्रत्यन्तर्दशा: घोर कारावास, सुख की हानि, महान भय और वात पीड़ा।"
+    },
+    {
+      "number": 32,
+      "text": "सर्वत्र बहुधा लाभः स्त्रीसङ्गाच्च विशेषतः ।\nपरदेशभवा सिद्धिर्बुधप्रत्यन्तरे भवेत्",
+      "english_meaning": "Mercury's Pratyantardasa in Rahu's Antardasa: Many gains everywhere, especially through women. Success in foreign lands.",
+      "hindi_meaning": "राहु की अन्तर्दशा में बुध की प्रत्यन्तर्दशा: हर जगह बहुत लाभ, विशेष रूप से स्त्रियों के माध्यम से। परदेश में सिद्धि।"
+    },
+    {
+      "number": 33,
+      "text": "बुद्धिनाशो भयं विघ्नो धनहानिर्महद्भयम् ।\nसर्वत्र कलहोद्वेगौ केतोः प्रत्यन्तरे फलम्",
+      "english_meaning": "Ketu's Pratyantardasa in Rahu's Antardasa: Loss of intelligence, fear, obstacles, financial loss, and constant quarrels.",
+      "hindi_meaning": "राहु की अन्तर्दशा में केतु की प्रत्यन्तर्दशा: बुद्धि का नाश, भय, बाधा, धन हानि और हर जगह कलह एवं उद्वेग।"
+    },
+    {
+      "number": 34,
+      "text": "योगिनीभ्यो भयं भूयादश्वहानिः कुभोजनम् ।\nस्त्रीनाशः कुलजं शोकं शुक्रप्रत्यन्तरे भवेत्",
+      "english_meaning": "Venus's Pratyantardasa in Rahu's Antardasa: Fear from yoginis, loss of horses, bad food, loss of spouse, and family grief.",
+      "hindi_meaning": "राहु की अन्तर्दशा में शुक्र की प्रत्यन्तर्दशा: योगिनियों से भय, घोड़ों की हानि, खराब भोजन, स्त्री नाश और पारिवारिक शोक।"
+    },
+    {
+      "number": 35,
+      "text": "ज्वररोगो महाभीतिः पुत्रपौत्रादिपीडनम् ।\nअल्पमृत्युः प्रमादश्च रवेः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Sun's Pratyantardasa in Rahu's Antardasa: High fever, great fear, distress to sons and grandsons, and accidental death.",
+      "hindi_meaning": "राहु की अन्तर्दशा में सूर्य की प्रत्यन्तर्दशा: तीव्र ज्वर, महान भय, पुत्र-पौत्रों को कष्ट और अकाल मृत्यु।"
+    },
+    {
+      "number": 36,
+      "text": "उद्वेगकलहो चिन्ता मानहानिर्महद्भयम् ।\nपितुर्विकलता देहे विद्योः रवेः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Moon's Pratyantardasa in Sun's sub-period: Anxiety, quarrels, loss of honor, great fear, and physical weakness of father.",
+      "hindi_meaning": "सूर्य की अन्तर्दशा में चन्द्रमा की प्रत्यन्तर्दशा: उद्वेग, कलह, चिन्ता, मानहानि, महान भय और पिता के शरीर में दुर्बलता।"
+    },
+    {
+      "number": 37,
+      "text": "भगन्दरकृता पीडा रक्तपित्तप्रपीडनम् ।\nअर्थहानिर्महोद्वेगः कुजप्रत्यन्तरे फलम्",
+      "english_meaning": "Mars's Pratyantardasa in Sun's sub-period: Pain from fistula, blood disorders, loss of wealth, and intense anxiety.",
+      "hindi_meaning": "सूर्य की अन्तर्दशा में मंगल की प्रत्यन्तर्दशा: भगन्दर से पीड़ा, रक्तपित्त का कष्ट, धन की हानि और महान उद्वेग।"
+    },
+    {
+      "number": 38,
+      "text": "हेमलाभो धान्यवृद्धि कल्याणं सुफलोदयः ।\nगुरोरन्तर्दशायां च भवेद् गुर्वन्तरे फलम्",
+      "english_meaning": "Jupiter's Pratyantardasa in Jupiter's Antardasa: Gain of gold, increase in grains, auspicious events, and overall success.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में गुरु की प्रत्यन्तर्दशा: स्वर्ण लाभ, धान्य वृद्धि, कल्याण और शुभ फलों का उदय।"
+    },
+    {
+      "number": 39,
+      "text": "गोभूमिहयलाभः स्यात्सर्वत्र सुखसाधनम् ।\nसंग्रहो ह्यन्नपानादेः शनेः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Saturn's Pratyantardasa in Jupiter's Antardasa: Gain of cows, land, and horses. Happiness through all means and accumulation of food.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में शनि की प्रत्यन्तर्दशा: गौ, भूमि और घोड़ों का लाभ। सभी प्रकार के सुख के साधन और अन्न-पान का संग्रह।"
+    },
+    {
+      "number": 40,
+      "text": "विद्यालाभो वस्त्रलाभो ज्ञानलाभः समौक्तिकः ।\nसुहृदां सङ्गमः स्नेहो बुधप्रत्यन्तरे भवेत्",
+      "english_meaning": "Mercury's Pratyantardasa in Jupiter's Antardasa: Success in education, gain of clothes, wisdom, pearls, and meetings with friends.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में बुध की प्रत्यन्तर्दशा: विद्या लाभ, वस्त्र लाभ, ज्ञान एवं मोतियों की प्राप्ति और मित्रों का मिलन।"
+    },
+    {
+      "number": 41,
+      "text": "जलभीतिस्तथा चौर्यं बन्धनं कलहो भवेत् ।\nअपमृत्युर्भयं घोरं केतोः प्रत्यन्तरे द्विज",
+      "english_meaning": "Ketu's Pratyantardasa in Jupiter's Antardasa: Fear from water, theft, imprisonment, quarrels, and danger of sudden death.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में केतु की प्रत्यन्तर्दशा: जल का भय, चोरी, बन्धन, कलह और घोर अकाल मृत्यु का भय।"
+    },
+    {
+      "number": 42,
+      "text": "नानाविद्यार्थसम्प्राप्तिर्हेमवस्त्रविभूषणम् ।\nलभते क्षेमसन्तोषं भृगोः प्रत्यन्तरे जनः",
+      "english_meaning": "Venus's Pratyantardasa in Jupiter's Antardasa: Acquisition of various knowledge and wealth, gold, clothes, and deep satisfaction.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में शुक्र की प्रत्यन्तर्दशा: नाना विद्या और धन की प्राप्ति, स्वर्ण, वस्त्र, आभूषण और सन्तोष।"
+    },
+    {
+      "number": 43,
+      "text": "नृपाल्लाभस्तथा मित्रात्पितृतो मातृतोऽपि वा ।\nसर्वत्र लभते पूजां रवेः प्रत्यन्तरे जनः",
+      "english_meaning": "Sun's Pratyantardasa in Jupiter's Antardasa: Gains from the king, friends, father, and mother. Respect everywhere.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में सूर्य की प्रत्यन्तर्दशा: राजा, मित्र, पिता और माता से लाभ। हर जगह पूजा (सम्मान)।"
+    },
+    {
+      "number": 44,
+      "text": "सर्वदुःखविमोक्षश्च मुक्तलाभो हयस्य च ।\nसिद्ध्यन्ति सर्वकार्याणि विधो प्रत्यन्तरे द्विज",
+      "english_meaning": "Moon's Pratyantardasa in Jupiter's Antardasa: Liberation from all sorrows, gain of pearls and horses. All works succeed.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में चन्द्रमा की प्रत्यन्तर्दशा: सभी दुखों से मुक्ति, मोती और घोड़े का लाभ। सभी कार्य सिद्ध होते हैं।"
+    },
+    {
+      "number": 45,
+      "text": "शस्त्रभीतिर्गदे पीडा वह्निमाद्द्यमजीर्णता ।\nपीडा शत्रुकृता भूरिर्भौमप्रत्यन्तरे भवेत्",
+      "english_meaning": "Mars's Pratyantardasa in Jupiter's Antardasa: Fear from weapons, diseases, fire-related issues, and intense enmity.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में मंगल की प्रत्यन्तर्दशा: शस्त्रों से भय, रोगों से कष्ट, अग्निमान्द्य (अपच) और शत्रुओं द्वारा दी गई भारी पीड़ा।"
+    },
+    {
+      "number": 46,
+      "text": "चाण्डालेन विरधः स्याद्भयं तेभ्यो धनक्षतिः ।\nकष्टं जीवान्तरे ज्ञेयं राहोः प्रत्यन्तरे ध्रुवम्",
+      "english_meaning": "Rahu's Pratyantardasa in Jupiter's Antardasa: Conflicts with low-caste people, fear from them, loss of wealth, and distress.",
+      "hindi_meaning": "गुरु की अन्तर्दशा में राहु की प्रत्यन्तर्दशा: नीच लोगों से विरोध, उनसे भय, धन की हानि और कष्ट।"
+    },
+    {
+      "number": 47,
+      "text": "देहपीडा कलेर्भीतिर्भयमन्त्यजलोकतः ।\nदुःखं शन्यन्तरे नाना शनेः प्र्त्यन्तरे भवेत्",
+      "english_meaning": "Saturn's Pratyantardasa in Saturn's Antardasa: Physical pain, fear of quarrels, and trouble from common people. Various sorrows.",
+      "hindi_meaning": "शनि की अन्तर्दशा में शनि की प्रत्यन्तर्दशा: देह पीड़ा, कलह का भय, और सामान्य लोगों से भय। विभिन्न प्रकार के दुःख।"
+    },
+    {
+      "number": 48,
+      "text": "बुद्धिनाशः कलेर्भीतिरन्नपानादिहानिकृत् ।\nधन्हानिर्भयं शत्रोः सनेः प्रत्यन्तरे बुधे",
+      "english_meaning": "Mercury's Pratyantardasa in Saturn's Antardasa: Loss of intelligence, fear of quarrels, loss of food and drinks, and fear of enemies.",
+      "hindi_meaning": "शनि की अन्तर्दशा में बुध की प्रत्यन्तर्दशा: बुद्धि का नाश, कलह का भय, अन्न-पान की हानि, धन की हानि और शत्रुओं का भय।"
+    },
+    {
+      "number": 49,
+      "text": "बन्धः शत्रोर्गृहे जातो वर्णहानिर्बहुक्षुधा ।\nचित्ते चिन्ता भयं त्रासः केतो प्रत्यन्तरे भवेत्",
+      "english_meaning": "Ketu's Pratyantardasa in Saturn's Antardasa: Imprisonment in enemy's house, loss of physical luster, intense hunger, and mental anxiety.",
+      "hindi_meaning": "शनि की अन्तर्दशा में केतु की प्रत्यन्तर्दशा: शत्रु के घर में बन्धन, वर्ण (चमक) की हानि, बहुत भूख, और मन में चिन्ता एवं त्रास।"
+    },
+    {
+      "number": 50,
+      "text": "चिन्तितं फलितं वस्तु कल्याणं स्वजने सदा ।\nमनुष्यकृतितो लाभः भृगिः प्रत्यन्तरे द्विज",
+      "english_meaning": "Venus's Pratyantardasa in Saturn's Antardasa: Desired fruits are achieved, auspiciousness for relatives, and gains through human efforts.",
+      "hindi_meaning": "शनि की अन्तर्दशा में शुक्र की प्रत्यन्तर्दशा: चिन्तित (इच्छित) फल की प्राप्ति, स्वजनों का कल्याण और मनुष्यों के प्रयास से लाभ।"
+    },
+    {
+      "number": 51,
+      "text": "राजतेजोऽधिकारित्वं स्वगृहे जायते कलिः ।\nज्वरादिव्याधिपीडा च रवेः प्रत्यन्तरे भवेत्",
+      "english_meaning": "Sun's Pratyantardasa in Saturn's Antardasa: Royal authority and brilliance, but quarrels at home. Fever and other diseases occur.",
+      "hindi_meaning": "शनि की अन्तर्दशा में सूर्य की प्रत्यन्तर्दशा: राजकीय तेज और अधिकार, किन्तु अपने घर में कलह। ज्वर आदि रोगों से पीड़ा।"
+    },
+    {
+      "number": 52,
+      "text": "स्फीतबुद्धिर्महारम्भो मन्दतेजा बहुव्ययः ।\nबहुस्त्रीभिः समं भोगो विधोः प्रत्यन्तरे शनौ",
+      "english_meaning": "Moon's Pratyantardasa in Saturn's Antardasa: Expansive intelligence, major undertakings, but low energy and heavy expenditure. Happiness with women.",
+      "hindi_meaning": "शनि की अन्तर्दशा में चन्द्रमा की प्रत्यन्तर्दशा: विशाल बुद्धि, बड़े कार्य, किन्तु कम तेज और बहुत खर्च। अनेक स्त्रियों के साथ सुख।"
+    },
+    {
+      "number": 53,
+      "text": "तेजोहानि पुत्रघातो वह्निभीती रिपोर्भयम् ।\nवातपित्तकृता पीडा कुजप्रत्यन्तरे भवेत्",
+      "english_meaning": "Mars's Pratyantardasa in Saturn's Antardasa: Loss of brilliance, loss of sons, fear from fire and enemies. Bile and wind diseases.",
+      "hindi_meaning": "शनि की अन्तर्दशा में मंगल की प्रत्यन्तर्दशा: तेज की हानि, पुत्र का वियोग, अग्नि और शत्रुओं से भय। वात-पित्त जनित पीड़ा।"
+    },
+    {
+      "number": 54,
+      "text": "धननाशो वस्त्रहानिर्भूमिनाशो भयं भवेत् ।\nविदेशगमनं मृत्युः राहो प्रत्यन्तरे शनौ",
+      "english_meaning": "Rahu's Pratyantardasa in Saturn's Antardasa: Loss of wealth, clothes, land, and fear of death. Travel to foreign lands.",
+      "hindi_meaning": "शनि की अन्तर्दशा में राहु की प्रत्यन्तर्दशा: धन, वस्त्र और भूमि की हानि। विदेश गमन और मृत्यु का भय।"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "source_file": "BPHS1120.md",
+  "source_chunk": "BPHS1120.json",
+  "chunk_index": 0,
+  "chapter": 11,
+  "variant": "a",
+  "title": "अथ भावविवेकाध्यायः",
+  "shloka_count": 16,
+  "is_duplicate": true,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अरिष्टं तत्प्रभङ्गं च श्रुतं त्वत्तो मया मुने ।\nकस्माद् भावात् फलं किं किं विचार्यमिति मे वद",
+      "english_meaning": "O Sage! I have heard from you about evils and their cancellation. Now, please tell me which results are to be judged from which houses (Bhavas).",
+      "hindi_meaning": "हे मुने! मैंने आपसे अरिष्टों और उनके भंग होने के बारे में सुना है। अब आप कृपा कर मुझे यह बताइये कि किस भाव से किन फलों का विचार करना चाहिए।"
+    },
+    {
+      "number": 2,
+      "text": "देहं रूपं च ज्ञानं च वर्णं चैव बलाबलम् ।\nसुखं दुःखं स्वभावञ्च लग्नभावान्निरीक्षयेत्",
+      "english_meaning": "One should examine the body, appearance, knowledge, complexion, strength and weakness, happiness, sorrow, and nature from the Lagna Bhava (1st House).",
+      "hindi_meaning": "शरीर, रूप, ज्ञान, वर्ण (रंग), बल और अबल, सुख, दुःख तथा स्वभाव का विचार लग्न भाव (प्रथम भाव) से करना चाहिए।"
+    },
+    {
+      "number": 3,
+      "text": "धनधान्यं कुटुम्बांश्च मृत्युजालममित्रकम् ।\nधातुरत्नादिकं सर्वं धनस्थानान्निरीक्षयेत्",
+      "english_meaning": "Wealth, grains, family members, traps of death, enemies, minerals, gems, etc., should all be judged from the Dhana Bhava (2nd House).",
+      "hindi_meaning": "धन, धान्य, कुटुम्ब, मृत्यु का जाल, शत्रु, धातु, रत्न आदि सभी का विचार धन भाव (द्वितीय भाव) से करना चाहिए।"
+    },
+    {
+      "number": 4,
+      "text": "विक्रमं भृत्यभ्रात्रादि चोपदेशप्रयाणकम् ।\nपित्रोर्वै मरणं विज्ञो दुश्चिक्याच्च निरीक्षयेत्",
+      "english_meaning": "Valor, servants, brothers, etc., advice, and travels should be judged from the 3rd House. The wise should also examine the death of parents from this house (Duschikya).",
+      "hindi_meaning": "पराक्रम, सेवक, भाई आदि, उपदेश और यात्रा का विचार तृतीय भाव से करना चाहिए। विद्वान पुरुष को माता-पिता की मृत्यु का विचार भी इसी भाव (दुश्चिक्य) से करना चाहिए।"
+    },
+    {
+      "number": 5,
+      "text": "वाहनान्यथ बन्धूंश्च मातृसौख्यादिकान्यपि ।\nनिधि क्षेत्रं गृहं चापि चतुर्थात् परिचिन्तयेत्",
+      "english_meaning": "Vehicles, relatives, mother's happiness, hidden treasures, lands, and houses should be reflected upon from the 4th House.",
+      "hindi_meaning": "वाहन, बन्धु-बान्धव, माता का सुख, निधि (खजाना), भूमि और गृह का विचार चतुर्थ भाव से करना चाहिए।"
+    },
+    {
+      "number": 6,
+      "text": "यन्त्रमन्त्रौ तथा विद्यां बुद्धेश्चैव प्रबन्धकम् ।\nपुत्रराज्यापभ्रांशादीन् पश्येत् पुत्रालयाद् बुधः",
+      "english_meaning": "Yantra, Mantra, knowledge, management of intelligence, sons, and fall from royal power should be seen from the Putra Bhava (5th House) by the wise.",
+      "hindi_meaning": "यन्त्र, मन्त्र, विद्या, बुद्धि का प्रबन्ध, पुत्र और राज्य से पतन आदि का विचार विद्वान को पुत्र भाव (पंचम भाव) से करना चाहिए।"
+    },
+    {
+      "number": 7,
+      "text": "मातुलान्तकशङ्कानां शत्रूंश्चैव व्रणादिकान् ।\nसपत्नीमातरं चापि षष्ठभावान्निरीक्षयेत्",
+      "english_meaning": "Maternal uncle, doubts about end (death), enemies, wounds (ulcers), and step-mother should be examined from the 6th House.",
+      "hindi_meaning": "मामा, मृत्यु की आशंका, शत्रु, घाव (व्रण) और सौतेली माता का विचार षष्ठ भाव से करना चाहिए।"
+    },
+    {
+      "number": 8,
+      "text": "जायामध्वप्रयाणं च वाणिज्यं नष्टवीक्षणम् ।\nमरणं च स्वदेहस्य जायाभावान्निरीक्षयेत्",
+      "english_meaning": "Wife, travels on paths, commerce, looking for lost things, and the death of one's own body should be examined from the Jaya Bhava (7th House).",
+      "hindi_meaning": "पत्नी, यात्रा, व्यापार, खोई हुई वस्तु का ज्ञान और अपने शरीर की मृत्यु का विचार जाया भाव (सप्तम भाव) से करना चाहिए।"
+    },
+    {
+      "number": 9,
+      "text": "आयु रणं रिपुं चापि दुर्गं मृतधनं तथा ।\nगत्यनुकादिकं सर्वं पश्येद्रन्ध्राद्विचक्षणः",
+      "english_meaning": "Longevity, debts, enemies, forts, money of the deceased, and all matters related to movement and following should be seen from the Randhra Bhava (8th House) by the expert.",
+      "hindi_meaning": "आयु, ऋण, शत्रु, दुर्ग (किले), मृत व्यक्ति का धन और गति-अनुगमन आदि का विचार विद्वान को रन्ध्र भाव (अष्टम भाव) से करना चाहिए।"
+    },
+    {
+      "number": 10,
+      "text": "भाग्यं श्यालं च धर्मं च भ्रातृपत्न्यादिकांस्तथा ।\nतीर्थयात्रादिकं सर्वं धर्मस्थानान्निरीक्षयेत्",
+      "english_meaning": "Fortune, brother-in-law (wife's brother), religion/duty, brother's wife, etc., and pilgrimage to holy places should all be examined from the Dharma Bhava (9th House).",
+      "hindi_meaning": "भाग्य, साला, धर्म, भाई की पत्नी आदि और तीर्थ यात्रा आदि सभी का विचार धर्म भाव (नवम भाव) से करना चाहिए।"
+    },
+    {
+      "number": 11,
+      "text": "राज्यं चाकाशंवृत्तिं च मानं चैव पितुस्तथा ।\nप्रवासस्य ऋणस्यापि व्योमस्थानान्निरीक्षणम्",
+      "english_meaning": "Kingdom (power), livelihood from the sky (divine), honor, father, travels abroad, and debts should be judged from the Vyoma Bhava (10th House).",
+      "hindi_meaning": "राज्य (अधिकार), आकाश-वृत्ति (दैवीय जीविका), मान-सम्मान, पिता, प्रवास (परदेश गमन) और ऋण का विचार व्योम भाव (दशम भाव) से करना चाहिए।"
+    },
+    {
+      "number": 12,
+      "text": "नानावस्तुभवस्यापि पुत्रजायादिकस्य च ।\nआयं वृद्धिं पशूनां च भवस्थानान्निरीक्षणम्",
+      "english_meaning": "Head, eyes, ears, nose, cheeks, jaw, and mouth are represented by the Lagna and other houses in the first Drekkana.",
+      "hindi_meaning": "प्रथम द्रेष्काण में लग्न आदि भावों से क्रमशः सिर, नेत्र, कान, नासिका, कपोल (गाल), ठोड़ी (हनु) और मुख का विचार करना चाहिए।"
+    },
+    {
+      "number": 13,
+      "text": "व्ययं च वैरिवृत्तान्तरिःफमन्त्यादिकं तथा ।\nव्ययाच्चैष हि ज्ञातव्यमिनि सर्वत्र धीमता",
+      "english_meaning": "In the middle Drekkana, neck, shoulders, arms, sides, heart, belly, and navel are represented.",
+      "hindi_meaning": "मध्य द्रेष्काण में कण्ठ, कन्धा, भुजा, पार्श्व, हृदय, पेट (क्रोड़) और नाभि का विचार क्रमशः करना चाहिए।"
+    },
+    {
+      "number": 14,
+      "text": "यो यो शुभैर्युतो दृष्टो भावो वा पतिदृष्टयुक् ।\nयुवा प्रवृद्धो राज्यस्थः कुमारो वाऽपि यत्पतिः",
+      "english_meaning": "In the third Drekkana, pelvis, genitals, anus, testicles, thighs, knees, calves, and feet are represented on the left side of the body.",
+      "hindi_meaning": "तृतीय द्रेष्काण में वस्ति (पेड़ू), लिंग, गुदा, अण्डकोष, जाँघ, घुटना, पिण्डली और पैर का विचार क्रमशः शरीर के बाएं अंग में करना चाहिए।"
+    },
+    {
+      "number": 15,
+      "text": "तदीक्षणवशात् तत्तद्भावसौख्यं वदेद् बुधः ।\nयद्यद् भावपतिर्नष्टस्त्रिकेशाद्यैश्च संयुतः",
+      "english_meaning": "Wherever a malefic planet is situated in these parts, a wound (Vrana) should be predicted. If associated with Mercury or other malefics, it is a wound; if with benefics, a mark (Lakshma) should be declared.",
+      "hindi_meaning": "जिस अंग में पाप ग्रह स्थित हो, वहाँ व्रण (घाव) कहना चाहिए। यदि क्रूर ग्रहों और बुध के साथ हो तो निश्चित ही घाव होता है, और शुभ ग्रहों के साथ होने पर चिह्न (तिल/मसा आदि) कहना चाहिए।"
+    },
+    {
+      "number": 16,
+      "text": "भावं न वीक्षते सम्यक् सुप्तो वृद्धोमृतोऽथवा ।\nपीडितो वाऽस्य भावस्य फलं नष्टं वदेद् ध्रुवम्",
+      "english_meaning": "...does not aspect the house properly, or is asleep, old, dead, or afflicted, one should definitely say that the results of that house are destroyed.",
+      "hindi_meaning": "...भाव को ठीक से न देखता हो, अथवा सुप्त (सोया हुआ), वृद्ध, मृत या पीड़ित हो, तो उस भाव का फल निश्चित रूप से नष्ट समझना चाहिए।"
+    }
+  ]
+}

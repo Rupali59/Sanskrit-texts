@@ -1,0 +1,90 @@
+{
+  "source_file": "BPHS2130.md",
+  "source_chunk": "BPHS2130.json",
+  "chunk_index": 5,
+  "chapter": 26,
+  "variant": null,
+  "title": "अथे ग्रहस्फुटदृष्टिकथनाध्ययाः",
+  "shloka_count": 13,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "भगवान् कतिधा दृष्टिर्बलं कतिविधं तथा ।\nइति मे संशयो जातस्तं भवान् छेत्तुमर्हिति",
+      "english_meaning": "Maitreya said: O Lord! How many types of aspects are there and how many types of strengths? I have this doubt, please clarify it.",
+      "hindi_meaning": "मैत्रेय ने कहा: हे भगवान! दृष्टियाँ कितने प्रकार की होती हैं और बल कितने प्रकार के होते हैं? मुझे यह संशय उत्पन्न हुआ है, आप इसे दूर करने की कृपा करें।"
+    },
+    {
+      "number": 2,
+      "text": "एका राशिवशाद् दृष्टिः पूर्वमुक्ता च या द्विज ।\nअन्या खेटस्वभावोत्था स्फुटा तां कथयाम्यहम्",
+      "english_meaning": "Sage Parashara said: O Brahmin! I have previously explained the aspects based on signs (Rashi Drishti). Now I shall describe the clear aspects based on the nature of planets (Graha Drishti).",
+      "hindi_meaning": "महर्षि पराशर ने कहा: हे द्विज! पहले मैंने राशियों के आधार पर दृष्टियाँ (राशि दृष्टि) कही थीं। अब मैं ग्रहों के स्वभाव से उत्पन्न स्पष्ट दृष्टियों (ग्रह दृष्टि) का वर्णन करता हूँ।"
+    },
+    {
+      "number": 3,
+      "text": "त्रिदशे च त्रिकोणे च चतुरस्रे च सप्तमे ।\nपादवृद्धया प्रपश्यन्ति प्रयच्छन्ति फलं तथा",
+      "english_meaning": "Planets aspect the 3rd, 10th, 5th, 9th, 4th, 8th and 7th houses with increasing quarters (1/4, 2/4, 3/4, 1/1) and bestow results accordingly.",
+      "hindi_meaning": "ग्रह तृतीय और दशम भाव को एक पाद (1/4), पंचम और नवम को द्विपाद (2/4), चतुरस्र (चौथे और आठवें) को त्रिपाद (3/4) और सप्तम भाव को पूर्ण दृष्टि से देखते हैं तथा वैसा ही फल देते हैं।"
+    },
+    {
+      "number": 4,
+      "text": "पूर्णं च सप्तमं सर्वे शानिजीवकुजाः पुनः ।\nविशेषतश्च त्रिदशत्रिकोणचतुरष्टमान्",
+      "english_meaning": "All planets have full aspect on the 7th house. However, Saturn, Jupiter and Mars have special full aspects on the 3rd & 10th, 5th & 9th, and 4th & 8th houses respectively.",
+      "hindi_meaning": "सभी ग्रह सप्तम भाव को पूर्ण दृष्टि से देखते हैं। किन्तु शनि, गुरु और मंगल क्रमशः तृतीय-दशम, पंचम-नवम और चतुर्थ-अष्टम भावों को भी विशेष रूप से पूर्ण दृष्टि से देखते हैं।"
+    },
+    {
+      "number": 5,
+      "text": "इति सामान्यतः पूर्वैराचार्यैः प्रतिपादिता ।\nस्फुटान्तरवशाद्या च दृष्टिः साऽतिस्फुटा यथा",
+      "english_meaning": "This is the general rule stated by ancient teachers. Now I shall describe the precise aspect based on the distance between planets (Sphuta Drishti).",
+      "hindi_meaning": "यह सामान्य नियम प्राचीन आचार्यों द्वारा प्रतिपादित किया गया है। अब ग्रहों के बीच की स्पष्ट दूरी के आधार पर जो दृष्टि (स्फुट दृष्टि) होती है, उसे कहता हूँ।"
+    },
+    {
+      "number": 6,
+      "text": "दृश्याद् विशोध्य द्रष्टारं षड्राशिभ्योऽधिकान्तरम् ।\nदिगभ्यः संशोध्य तद्भागा द्विभक्ता दृक् स्फुटा भवेत्",
+      "english_meaning": "Subtract the longitude of the aspecting planet (Drashta) from the aspected point (Drishya). If the difference is more than 6 signs, subtract it from 10 signs (Virupa calculation). Divide the remainder degrees by 2 to get the clear aspect.",
+      "hindi_meaning": "दृश्य (जिस पर दृष्टि है) में से द्रष्टा (देखने वाला ग्रह) को घटा दें। यदि शेष ६ राशि से अधिक हो, तो उसे १० राशि में से घटाकर शेष अंशों को २ से भाग देने पर स्फुट दृष्टि प्राप्त होती है।"
+    },
+    {
+      "number": 7,
+      "text": "पञ्चाधिके विना राशिं भागाद्विघ्नाश्च दृक् स्फुटा ।\nवेदाधिके त्यजेद् भूताद् भागा दृष्टिः त्रिभाधिके",
+      "english_meaning": "If the difference is more than 5 signs, subtract the signs and double the remaining degrees for the aspect. If more than 4, subtract from 5 signs and the remaining degrees are the aspect.",
+      "hindi_meaning": "यदि अंतर ५ राशि से अधिक हो, तो राशियों को छोड़कर अंशों को दुगुना करने पर स्फुट दृष्टि होती है। यदि ४ से अधिक हो, तो उसे ५ राशि में से घटाने पर शेष अंश ही दृष्टि होते हैं।"
+    },
+    {
+      "number": 8,
+      "text": "विशोध्यार्णवतो द्वाभ्यां लब्धं त्रिंशद्युतं च दृक् ।\nद्व्यधिके तु विना राशिं भागास्तिथियुतास्तथा",
+      "english_meaning": "If more than 3, subtract from 4 signs, divide by 2 and add 30 for the aspect. If more than 2, ignore signs and add 15 to the degrees.",
+      "hindi_meaning": "यदि ३ से अधिक हो, तो उसे ४ राशि में से घटाकर २ से भाग दें और उसमें ३० जोड़ दें। यदि २ से अधिक हो, तो राशियों को छोड़कर अंशों में १५ जोड़ दें।"
+    },
+    {
+      "number": 9,
+      "text": "रूपाधिके विना राशिं भागा द्वयाप्ताश्च दृग् भवेत् ।\nएवं राश्यादिके शेषे शनौ द्रष्टरि भो द्विज",
+      "english_meaning": "If more than 1, ignore signs and divide degrees by 2 for the aspect. This is how the precise aspect is calculated, especially when Saturn is the aspecting planet.",
+      "hindi_meaning": "यदि १ राशि से अधिक हो, तो राशि छोड़कर अंशों को २ से भाग देने पर दृष्टि होती है। हे द्विज! शनि के द्रष्टा होने पर इस प्रकार शेष राश्यादि में दृष्टि जाननी चाहिए।"
+    },
+    {
+      "number": 10,
+      "text": "एकभे नवभे भागा भुक्ता भोग्या द्विसंगुणाः ।\nद्विभेंऽशार्धोनिताः षष्टिरष्टभे खाग्नियुग् लवाः",
+      "english_meaning": "For Jupiter and Mars, specific rules apply based on the signs difference (1st, 9th, 2nd, 8th etc.) for their special aspects.",
+      "hindi_meaning": "गुरु और मंगल के लिए भी उनकी विशेष दृष्टियों के अनुसार विशेष नियम (१, ९, २, ८ राशि अंतर आदि पर) लागू होते हैं।"
+    },
+    {
+      "number": 11,
+      "text": "त्रिसप्तभे तु भौमस्य षष्टिरत्र लवोनिता ।\nसार्धांशास्तिथिसंयुक्ता द्विभे रूपं सदाऽङ्गभे",
+      "english_meaning": "Mars has full strength in 3rd and 7th houses from its position (according to certain calculations), while for others it varies.",
+      "hindi_meaning": "मंगल की तृतीय और सप्तम भाव में विशेष शक्ति होती है, जबकि अन्यों के लिए यह गणना के अनुसार भिन्न होती है।"
+    },
+    {
+      "number": 12,
+      "text": "त्रिसप्तभे तु जीवस्य भागार्धं शरवेदयुक् ।\nद्विगुणैस्तु लवैश्चोनाः खरसाश्चतुरष्टभे",
+      "english_meaning": "Jupiter's special aspect values in 3rd, 7th, 4th and 8th houses are calculated by adding specific degree constants and dividing.",
+      "hindi_meaning": "गुरु की तृतीय-सप्तम और चतुर्थ-अष्टम भावों में दृष्टि का मान विशिष्ट अंशों को जोड़कर और घटाकर प्राप्त किया जाता है।"
+    },
+    {
+      "number": 13,
+      "text": "एवं रव्यादिखेटानां स्फुटा दृष्टिः प्रजायते ।\nतद्वशादेव भावानां जातकस्य फलं वदेत्",
+      "english_meaning": "Thus the precise aspects (Sphuta Drishti) of Sun and other planets are generated. Based on these, the results of the houses and the native's life should be predicted.",
+      "hindi_meaning": "इस प्रकार सूर्य आदि ग्रहों की स्फुट दृष्टियाँ सिद्ध होती हैं। इन्हीं के आधार पर भावों और जातक के फलों का विचार करना चाहिए।"
+    }
+  ]
+}

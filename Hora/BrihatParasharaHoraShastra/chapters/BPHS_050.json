@@ -1,0 +1,594 @@
+{
+  "source_file": "BPHS4650.md",
+  "source_chunk": "BPHS4650.json",
+  "chunk_index": 4,
+  "chapter": 50,
+  "variant": null,
+  "title": "अथ चरादिदशाफलाध्यायः",
+  "shloka_count": 97,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "चरस्थिरादिसंज्ञा या दशाः प्रोक्ताः पुरा द्विज ।\nशुभाऽशुभफलं तासां कथयामि तवाऽग्रतः",
+      "english_meaning": "Sun's Ashtakavarga: 8 Bindus give royal wealth and respect. 7 give great happiness and prosperity.",
+      "hindi_meaning": "सूर्य का अष्टकवर्ग: 8 बिन्दु राजसी धन और सम्मान देते हैं। 7 बिन्दु महान सुख और समृद्धि प्रदान करते हैं।"
+    },
+    {
+      "number": 2,
+      "text": "लग्नादिद्वादशान्तानां भावानां फलकीर्तने ।\nतत्तद्राशीशवीर्येण यथायोग्यं प्रयोजयेत्",
+      "english_meaning": "6 give increase in wealth and fame. 5 give gain of desirable items. 4 give mixed or average results.",
+      "hindi_meaning": "6 बिन्दु धन और यश में वृद्धि करते हैं। 5 बिन्दु अभीष्ट वस्तुओं का लाभ देते हैं। 4 बिन्दु मिश्रित या मध्यम फल देते हैं।"
+    },
+    {
+      "number": 3,
+      "text": "बलयुक्ते च राशीशे पूर्णं तस्य तदा फलम् ।\nफलं मध्य्बले मध्यं बलहीने विपर्ययः",
+      "english_meaning": "3 give loss of wealth. 2 give poverty and sorrow. 1 give various diseases.",
+      "hindi_meaning": "3 बिन्दु धन की हानि करते हैं। 2 बिन्दु दरिद्रता और शोक देते हैं। 1 बिन्दु अनेक प्रकार के रोग देता है।"
+    },
+    {
+      "number": 4,
+      "text": "यो यो दशाप्रदो राशिस्तस्य रन्ध्रत्रिकोणके ।\nपापखेटयुते विप्र तद्दशा दुःखदायिका",
+      "english_meaning": "0 Bindus in Sun's Ashtakavarga give death or death-like pain. Predict results according to the count.",
+      "hindi_meaning": "सूर्य के अष्टकवर्ग में 0 बिन्दु मृत्यु या मृत्यु तुल्य कष्ट देते हैं। बिन्दुओं की संख्या के अनुसार फल का विचार करें।"
+    },
+    {
+      "number": 5,
+      "text": "तृतीयषष्ठगे पापे ज्यादिः परिकीर्तितः ।\nशुभखेटयुते तत्र जायते च पराजयः",
+      "english_meaning": "Moon's Ashtakavarga: 8 give great wealth and clothes. 7 give happiness from women or wife.",
+      "hindi_meaning": "चन्द्रमा का अष्टकवर्ग: 8 बिन्दु अपार धन और वस्त्र देते हैं। 7 बिन्दु स्त्रियों या पत्नी से सुख प्रदान करते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "लाभस्थे च शुभे पापे लाभो भवति निश्चितः ।\nयदा दशाप्रदो राशिः शुभखेटयुतो द्विज",
+      "english_meaning": "6 give gain of vehicles and respect. 5 give good company and knowledge. 4 give mixed results.",
+      "hindi_meaning": "6 बिन्दु वाहन लाभ और मान देते हैं। 5 बिन्दु सज्जनों का संग और ज्ञान देते हैं। 4 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 7,
+      "text": "शुभक्षेत्रे हि तद्राशेः शुभं ज्ञेयं दशाफलम् ।\nपापयुक्ते शुभक्षेत्रे पूर्वं शुभमसत्परे",
+      "english_meaning": "3 give mental worry and loss of wealth. 2 give sorrow from kin. 1 give failure in efforts.",
+      "hindi_meaning": "3 बिन्दु मानसिक चिन्ता और धन हानि देते हैं। 2 बिन्दु बन्धुओं से शोक देते हैं। 1 बिन्दु प्रयासों में विफलता देता है।"
+    },
+    {
+      "number": 8,
+      "text": "पापर्क्षे शुभसंयुक्ते पूर्वं सौख्यं ततोऽशुभम् ।\nपापक्षेत्रे पापयुक्ते सा दशा सर्वदुखदा",
+      "english_meaning": "0 Bindus give extreme poverty and disease. Predict Moon's results similarly based on the Bindu count.",
+      "hindi_meaning": "0 बिन्दु अत्यन्त दरिद्रता और रोग देते हैं। बिन्दुओं के आधार पर ही चन्द्रमा के फल का विचार करें।"
+    },
+    {
+      "number": 9,
+      "text": "शुभक्षेत्रदशा राशौ युक्ते पापशुभैर्द्विज",
+      "english_meaning": "Mars's Ashtakavarga: 8 give gain of land and victory over enemies. 7 give wealth from royal favor.",
+      "hindi_meaning": "मंगल का अष्टकवर्ग: 8 बिन्दु भूमि लाभ और शत्रुओं पर विजय देते हैं। 7 बिन्दु राजकीय कृपा से धन देते हैं।"
+    },
+    {
+      "number": 10,
+      "text": "पूर्वं कष्टं सुखं पश्चान्निर्विशङ्कं प्रजायते ।\nशुभक्षेत्रे शुभं वाच्यं पापर्क्षे त्वशुभं फलम्",
+      "english_meaning": "6 give success through bravery. 5 give happiness from brothers. 4 give mixed or average results.",
+      "hindi_meaning": "6 बिन्दु पराक्रम से सफलता देते हैं। 5 बिन्दु भाइयों का सुख देते हैं। 4 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 11,
+      "text": "द्वितीये पञ्चमे सौम्ये राजप्रीतिर्जयो ध्रुवम् ।\nपापे तत्र गते ज्ञेयमशुभं तद्दशाफलम्",
+      "english_meaning": "3 give trouble to brothers. 2 give fear from fire or weapons. 1 give accidental injuries.",
+      "hindi_meaning": "3 बिन्दु भाइयों को कष्ट देते हैं। 2 बिन्दु अग्नि या शस्त्र का भय देते हैं। 1 बिन्दु दुर्घटना की संभावना देते हैं।"
+    },
+    {
+      "number": 12,
+      "text": "चतुर्थे तु शुभं सौख्यमारोग्यं त्वष्टमे शुभे ।\nधर्मवृद्धिर्गुरुजनात्सौख्यं च नवमे शुभे",
+      "english_meaning": "0 Bindus give death or extreme violence. Predict Mars's results according to the points in each sign.",
+      "hindi_meaning": "0 बिन्दु मृत्यु या भीषण हिंसा के सूचक हैं। प्रत्येक राशि में बिन्दुओं के अनुसार मंगल का फल कहें।"
+    },
+    {
+      "number": 13,
+      "text": "विपरीते विपर्यासो मिश्रे मिश्रं प्रकीर्तितम् ।\nपाके भोगे च पापाढ्ये देहपीडा मनोव्यथा",
+      "english_meaning": "Mercury's Ashtakavarga: 8 give knowledge of many sciences and royal favor. 7 give increase in wisdom.",
+      "hindi_meaning": "बुध का अष्टकवर्ग: 8 बिन्दु अनेक शास्त्रों का ज्ञान और राजकृपा देते हैं। 7 बिन्दु बुद्धि में वृद्धि करते हैं।"
+    },
+    {
+      "number": 14,
+      "text": "सप्तमे पाकभोगाभ्यां पापे दारार्तिरीरिता ।\nचतुर्थे स्थानहानिः स्यात्पञ्चमे पुत्रपीडनम्",
+      "english_meaning": "6 give success in trade or business. 5 give good friendship. 4 give average or neutral results.",
+      "hindi_meaning": "6 बिन्दु व्यापार में सफलता देते हैं। 5 बिन्दु उत्तम मित्रता देते हैं। 4 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 15,
+      "text": "दशमे कीर्तिहानिः स्यान्नवमे पितृपीडनम् ।\nपाकाद्रुद्रागते पापे पीडा सर्वाप्यबाधिका",
+      "english_meaning": "3 give loss of memory and loss in trade. 2 give mental dullness. 1 give enmity with kin.",
+      "hindi_meaning": "3 बिन्दु स्मृति का ह्रास और व्यापार में हानि देते हैं। 2 बिन्दु जड़ता देते हैं। 1 बिन्दु बन्धुओं से शत्रुता देता है।"
+    },
+    {
+      "number": 16,
+      "text": "उक्तस्थानगते सौम्ये ततः सौख्यं विनिर्दिशेत् ।\nकेन्द्रस्थानगते सौम्ये लाभः शत्रुजपप्रदः",
+      "english_meaning": "0 Bindus give destruction of knowledge and wealth. Predict Mercury's results in the same manner.",
+      "hindi_meaning": "0 बिन्दु विद्या और धन का विनाश करते हैं। इसी प्रकार बुध के फल का विचार करना चाहिए।"
+    },
+    {
+      "number": 17,
+      "text": "जन्मकालग्रहस्थित्या सगोचगग्रहैरपि ।\nविचारितैः प्रवक्तव्यं तत्तद्राशिद/साफलम्",
+      "english_meaning": "Jupiter's Ashtakavarga: 8 give immense wealth, knowledge, and long life. 7 give royal honors.",
+      "hindi_meaning": "गुरु का अष्टकवर्ग: 8 बिन्दु अपार धन, ज्ञान और दीर्घायु देते हैं। 7 बिन्दु राजकीय सम्मान प्रदान करते हैं।"
+    },
+    {
+      "number": 18,
+      "text": "यश्च राशिः शुभाकान्तो यस्य पश्चाच्छुभग्रहाः ।\nतद्दशा शुभदा प्रोक्ता विपरीते विपर्ययः",
+      "english_meaning": "6 give birth of virtuous sons and happiness. 5 give religious merit. 4 give mixed results.",
+      "hindi_meaning": "6 बिन्दु गुणवान पुत्रों का जन्म और सुख देते हैं। 5 बिन्दु धर्म-पुण्य का लाभ देते हैं। 4 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 19,
+      "text": "त्रिकोणरन्ध्ररिष्फस्थैः शुभपापैः शुभाऽशुभम् ।\nतद्दशायां च वक्तव्यं फलं दैवविदा सदा",
+      "english_meaning": "3 give loss of wealth and sorrow to sons. 2 give lack of luck. 1 give bodily pain or illness.",
+      "hindi_meaning": "3 बिन्दु धन हानि और पुत्रों को शोक देते हैं। 2 बिन्दु भाग्य की कमी देते हैं। 1 बिन्दु शारीरिक पीड़ा देते हैं।"
+    },
+    {
+      "number": 20,
+      "text": "मेषकर्कतुलानक्रराशीनां च यथाक्रमम् ।\nबाधा स्तानानि सम्प्रोक्ता कुभगोसिंहवृश्चिकाः",
+      "english_meaning": "0 Bindus give destruction of family and wealth. Predict Jupiter's results according to the Bindus.",
+      "hindi_meaning": "0 बिन्दु वंश और धन का विनाश करते हैं। बिन्दुओं के अनुसार ही गुरु के फल का विचार करें।"
+    },
+    {
+      "number": 21,
+      "text": "पाकेशाक्रान्तराशौ वा बाधास्थाने शुभेतरे ।\nस्थिते सति महाशोको बन्धनव्यसनामयाः",
+      "english_meaning": "Venus's Ashtakavarga: 8 give many pleasures, vehicles, and ornaments. 7 give luxury and comforts.",
+      "hindi_meaning": "शुक्र का अष्टकवर्ग: 8 बिन्दु अनेक सुख-भोग, वाहन और आभूषण देते हैं। 7 बिन्दु विलासिता और ऐश्वर्य देते हैं।"
+    },
+    {
+      "number": 22,
+      "text": "उच्चस्वर्क्षग्र्हे तस्मिञ्छुभं सौख्यं धनागमः ।\nतच्छून्यं चेदसौख्यं स्यात्तद्दशा न फलप्रदा",
+      "english_meaning": "6 give gain of expensive clothes. 5 give good company of women. 4 give mixed results.",
+      "hindi_meaning": "6 बिन्दु बहुमूल्य वस्त्रों का लाभ देते हैं। 5 बिन्दु स्त्रियों का उत्तम संग देते हैं। 4 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 23,
+      "text": "बाधकव्ययषडरन्ध्रे राहुयुक्ते महद्भयम् ।\nप्रस्थाने बन्धनप्राप्ती राजपीडा रिपोभयम्",
+      "english_meaning": "3 give unhappiness in marriage or delay. 2 give loss of clothes. 1 give sorrow through women.",
+      "hindi_meaning": "3 बिन्दु विवाह में बाधा या दुःख देते हैं। 2 बिन्दु वस्त्रों की हानि देते हैं। 1 बिन्दु स्त्रियों के कारण शोक देता है।"
+    },
+    {
+      "number": 24,
+      "text": "रव्यारराहुशनयो भुक्तिराशौ स्थिता यदि ।\nतद्राशिभिक्तौ पतनं राजकोपान् महद्भयम्",
+      "english_meaning": "0 Bindus give extreme poverty and lack of luxury. Predict Venus's results similarly based on counts.",
+      "hindi_meaning": "0 बिन्दु अत्यन्त दरिद्रता और सुखों का अभाव देते हैं। बिन्दुओं के आधार पर ही शुक्र का फल कहें।"
+    },
+    {
+      "number": 25,
+      "text": "भुक्तिराशित्रिकोणे तु नीचखेटः स्थितो यदि ।\nतद्राशौ वा युते नीचे पापे मृत्युभयं वदेत्",
+      "english_meaning": "Saturn's Ashtakavarga: 8 give success in service or hidden wealth. 7 give gain of land.",
+      "hindi_meaning": "शनि का अष्टकवर्ग: 8 बिन्दु सेवा कार्यों में सफलता या गड़ा धन देते हैं। 7 बिन्दु भूमि लाभ प्रदान करते हैं।"
+    },
+    {
+      "number": 26,
+      "text": "भुक्तिराशौ स्वतुङ्गस्थे त्रिकोणे वापि खेचरे ।\nयदा भुक्तिदशा प्राप्ता तदा सौख्यं लभेन्नरः",
+      "english_meaning": "6 give success in labor or agriculture. 5 give support from workers. 4 give mixed results.",
+      "hindi_meaning": "6 बिन्दु श्रम या कृषि में सफलता देते हैं। 5 बिन्दु सेवकों का सहयोग देते हैं। 4 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 27,
+      "text": "नगरग्रामनाथत्वं पुत्रलाभं धनागमम् ।\nकल्याणं भूरिभाग्यं च सेनपत्यं महोन्नतम्",
+      "english_meaning": "3 give loss of wealth and laziness. 2 give nerve-related diseases. 1 give imprisonment or death.",
+      "hindi_meaning": "3 बिन्दु धन हानि और आलस्य देते हैं। 2 बिन्दु स्नायु रोग देते हैं। 1 बिन्दु बन्धन या मृत्यु की संभावना देते हैं।"
+    },
+    {
+      "number": 28,
+      "text": "पाकेश्वरो जीवदृष्टः शुभराशिस्थितो यदि ।\nतद्दशायां धनप्राप्तिर्मङ्गलं पुत्रसम्भवम्",
+      "english_meaning": "0 Bindus give total destruction and death. Predict Saturn's results based on the Bindu count.",
+      "hindi_meaning": "0 बिन्दु पूर्ण विनाश और मृत्यु के सूचक हैं। बिन्दुओं के अनुसार ही शनि के फल का विचार करें।"
+    },
+    {
+      "number": 29,
+      "text": "सितासितभयुग्माश्च सूर्यस्य रिपुराशयः ।\nकौर्पितौलिघटाश्चेन्द्रोर्भौमस्य रिपुराशयः",
+      "english_meaning": "Samudayashtakavarga: This is the collective sum of Bindus in each sign from all seven planets.",
+      "hindi_meaning": "समुदायाष्टकवर्ग: यह सातों ग्रहों के प्रत्येक राशि में प्राप्त बिन्दुओं का कुल योग होता है।"
+    },
+    {
+      "number": 30,
+      "text": "घटमीननृयुल्तौलिकन्या ज्ञस्य ततः परम् ।\nकर्कमीनालिकुम्भाश्च राशयो रिपवः स्मृताः",
+      "english_meaning": "The total points are 337. Divide by 12 to find the average per sign, which is roughly 28.",
+      "hindi_meaning": "कुल बिन्दु 337 होते हैं। 12 से भाग देने पर प्रति राशि औसत लगभग 28 आता है।"
+    },
+    {
+      "number": 31,
+      "text": "वृषतौलिनृयुक्कन्याराशयो रिपवो गुरोः ।\nसिंहालिकर्कचापाश्च शुकस्य रिपुराशयः",
+      "english_meaning": "Signs with 30 or more Bindus give auspicious results. 25 to 30 points give average results.",
+      "hindi_meaning": "30 या अधिक बिन्दु वाली राशियाँ शुभ फल देती हैं। 25 से 30 बिन्दु मध्यम फल देते हैं।"
+    },
+    {
+      "number": 32,
+      "text": "मेषसिंहधनुःकौर्पिकर्कटा शनिशत्रवः ।\nएवं ग्राहन्तरदाशां चिन्तयेत्कोविदो द्विज",
+      "english_meaning": "Signs with less than 25 Bindus give inauspicious results. One should predict accordingly.",
+      "hindi_meaning": "25 से कम बिन्दु वाली राशियाँ अशुभ फल देती हैं। जातक के फल का विचार इसी प्रकार करें।"
+    },
+    {
+      "number": 33,
+      "text": "ये राजयोगदा ये च शुभमध्यमता ग्रहाः ।\nयस्माद्वा द्वित्रितुर्यस्थाः ग्रहाः शुभफलप्रदाः",
+      "english_meaning": "Planets in signs with many Bindus give highly auspicious results during their Dasa or transit.",
+      "hindi_meaning": "अधिक बिन्दुओं वाली राशियों में स्थित ग्रह अपनी दशा या गोचर में अत्यन्त शुभ फल प्रदान करते हैं।"
+    },
+    {
+      "number": 34,
+      "text": "तद्दशानां शुभं ब्रूयाद्राजयोगादिसम्भवम् ।\nशुभद्वयान्तरगतः पापोऽपि शुभदः स्मृतः",
+      "english_meaning": "Planets in signs with few Bindus give inauspicious results. This is the general rule for Samudayashtakavarga.",
+      "hindi_meaning": "कम बिन्दुओं वाली राशियों में स्थित ग्रह अशुभ फल देते हैं। यह समुदायाष्टकवर्ग का सामान्य नियम है।"
+    },
+    {
+      "number": 35,
+      "text": "गता शुभदशामध्यं दशा सौम्यस्य शोभना ।\nशुभा यस्य त्रिकोणस्थस्तद्दशापि शुभप्रदा",
+      "english_meaning": "The signs from Lagna up to the house of wealth (2nd) and other houses should be analyzed for their total Bindus.",
+      "hindi_meaning": "लग्न से द्वितीय भाव और अन्य भावों की राशियों का उनके कुल बिन्दुओं के आधार पर विश्लेषण करना चाहिए।"
+    },
+    {
+      "number": 36,
+      "text": "आरम्भान्तो मित्रशुभराश्योर्यदि फलं शुभम् ।\nप्रतिराश्यैवमव्दाद्यं विभज्य तत्फलं वदेत्",
+      "english_meaning": "Signs in the trine to Lagna (1, 5, 9) signify the body, intelligence, and fortune of the native.",
+      "hindi_meaning": "लग्न के त्रिकोण (1, 5, 9) की राशियाँ जातक के शरीर, बुद्धि और भाग्य का संकेत देती हैं।"
+    },
+    {
+      "number": 37,
+      "text": "आरम्भात्तत्त्रिकोणे तु सौम्ये तु शुभभावहेत् ।\nशुभराशौ शुभारम्भे दशा स्यादतिशोभना",
+      "english_meaning": "The trine to the 2nd house (2, 6, 10) signifies wealth, enemies, and the nature of one's karma or work.",
+      "hindi_meaning": "द्वितीय भाव के त्रिकोण (2, 6, 10) की राशियाँ धन, शत्रु और कर्म (कार्य) के स्वभाव को दर्शाती हैं।"
+    },
+    {
+      "number": 38,
+      "text": "शुभादिराशौ पापश्चेद्दशारम्भे शुभा स्मृता ।\nशुभारम्भे कथा केति प्रारम्भस्य फलं वदेत्",
+      "english_meaning": "The trine to the 3rd house (3, 7, 11) signifies brothers, spouse (wife/husband), and general gains.",
+      "hindi_meaning": "तृतीय भाव के त्रिकोण (3, 7, 11) की राशियाँ भाइयों, जीवनसाथी और लाभ का विचार करने के लिए हैं।"
+    },
+    {
+      "number": 39,
+      "text": "आरम्भे पापराशौ वा यदीशो दुर्बलो द्विज ।\nनीचादौ तद्दशाद्यन्ते वदेद्भाग्यविपर्ययम्",
+      "english_meaning": "The trine to the 4th house (4, 8, 12) signifies happiness, longevity, and expenses.",
+      "hindi_meaning": "चतुर्थ भाव के त्रिकोण (4, 8, 12) की राशियाँ सुख, आयु और व्यय का संकेत देती हैं।"
+    },
+    {
+      "number": 40,
+      "text": "यत्र स्थितो नीचखेटस्त्रिकोणे वाऽथ नीचगः ।\nतथा राशीश्वरे नीचे सम्बन्धो नीचखेटकैः",
+      "english_meaning": "The sum of Bindus in these trines gives an idea of the overall strength of these respective areas of life.",
+      "hindi_meaning": "इन त्रिकोणों के बिन्दुओं का योग जीवन के इन सम्बन्धित क्षेत्रों की समग्र शक्ति का ज्ञान कराता है।"
+    },
+    {
+      "number": 41,
+      "text": "भाग्यस्य विपरीतत्वं करोत्येव द्विजोत्तम ।\nधनधान्यादिहानिश्च देहे रोगभयं तथा",
+      "english_meaning": "If the 1st group (1, 5, 9) has more Bindus than the 4th (4, 8, 12), life is full of happiness and wealth.",
+      "hindi_meaning": "यदि प्रथम समूह (1, 5, 9) में चतुर्थ समूह (4, 8, 12) से अधिक बिन्दु हों, तो जीवन सुख और धन से पूर्ण होता है।"
+    },
+    {
+      "number": 42,
+      "text": "राहोः केतोश्च कुम्भादि वृश्चिकादि चतुष्टयम् ।\nस्वभं तत्र समारम्भस्तद्दशायां शुभं भवेत्",
+      "english_meaning": "If the 4th group (4, 8, 12) has more Bindus, life is characterized by struggle and heavy expenses.",
+      "hindi_meaning": "यदि चतुर्थ समूह (4, 8, 12) में अधिक बिन्दु हों, तो जीवन संघर्ष और अत्यधिक व्यय वाला होता है।"
+    },
+    {
+      "number": 43,
+      "text": "यद्दशायां शुभं ब्रूयात्स चेन्मारकसंस्थितः ।\nयस्मिन् राशौदशान्तःस्यात्तस्मिन् दृष्टे युतेऽपि वा",
+      "english_meaning": "Consider the signs in the visible half (Lagna to 7th house) and the invisible half of the zodiac.",
+      "hindi_meaning": "दृश्य आधे भाग (लग्न से सप्तम तक) और अदृश्य आधे भाग की राशियों के बिन्दुओं पर विचार करें।"
+    },
+    {
+      "number": 44,
+      "text": "शुक्रेण विधुना वा स्याद्राजकोपाद्धनक्षयः ।\nदशान्तश्चेदरिक्षेत्रे राहुदृष्टयुतेऽपि वा",
+      "english_meaning": "More Bindus in the visible half favor the first part of life; more in the invisible favor the later part.",
+      "hindi_meaning": "दृश्य भाग में अधिक बिन्दु जीवन के पूर्वार्ध को और अदृश्य भाग में अधिक बिन्दु उत्तरार्ध को सुखी बनाते हैं।"
+    },
+    {
+      "number": 45,
+      "text": "इदं फलं शनेः पाके न विचिन्त्यं द्विजोत्तम ।\nदशाप्रदे नक्रराशौ न विचिन्त्यमिदं फलम्",
+      "english_meaning": "Predict results based on the house positions of the planets and their respective Bindu counts.",
+      "hindi_meaning": "ग्रहों की भाव स्थिति और उनके सम्बन्धित बिन्दुओं के आधार पर फल का निर्देश करें।"
+    },
+    {
+      "number": 46,
+      "text": "राहुर्दशान्ते सर्वस्वनाशो मरणबन्धने ।\nदशान्निर्वासनं वा स्यात्कष्टं वा महदश्नुते",
+      "english_meaning": "If Sun is in a sign with many Bindus, it bestows favor from the king and happiness from the father.",
+      "hindi_meaning": "यदि सूर्य अधिक बिन्दुओं वाली राशि में हो, तो राजकृपा और पिता का सुख प्रदान करता है।"
+    },
+    {
+      "number": 47,
+      "text": "तत्त्रिकोणगते पापे निश्चयाद्दुःखमादिशेत् ।\nएवं शुभाशुभं सर्वं निश्चयेन वदेद् बुधः",
+      "english_meaning": "If Moon is in such a sign, it brings happiness related to the mother and overall mental peace.",
+      "hindi_meaning": "यदि चन्द्रमा ऐसी राशि में हो, तो माता का सुख और मानसिक शान्ति प्राप्त होती है।"
+    },
+    {
+      "number": 48,
+      "text": "राह्वाद्याश्रितराशिस्तु भवेद्यदि दशाप्रदः ।\nतत्र कालेऽपि पूर्वोक्तं चिन्तनीयं प्रयत्नतः",
+      "english_meaning": "If Mars is in such a sign, it grants victory over enemies and the acquisition of land.",
+      "hindi_meaning": "यदि मंगल अधिक बिन्दुओं वाली राशि में हो, तो शत्रुओं पर विजय और भूमि का लाभ मिलता है।"
+    },
+    {
+      "number": 49,
+      "text": "द/सारम्भो दशान्तो वा मारके चेन्न शोभनम् ।\nतस्मिन्नेव च राहुश्चन्नरोधो द्रव्यनाशनः",
+      "english_meaning": "If Mercury is in such a sign, it leads to the gain of knowledge and success in trade and business.",
+      "hindi_meaning": "यदि बुध ऐसी राशि में हो, तो ज्ञान की प्राप्ति और व्यापार में सफलता मिलती है।"
+    },
+    {
+      "number": 50,
+      "text": "यत्र क्वापि च भे राहौ दशारम्भे विनाशनम् ।\nगृहभ्रंशः समुद्दिष्टो धने राहुधनार्तिकृत्",
+      "english_meaning": "If Jupiter is in such a sign, it signifies the birth of sons and obtaining royal favor.",
+      "hindi_meaning": "यदि गुरु अधिक बिन्दुओं वाली राशि में हो, तो पुत्र जन्म और राजकीय कृपा का संकेत मिलता है।"
+    },
+    {
+      "number": 51,
+      "text": "चन्द्र्शुक्रौ द्वादश चेद्राजकोपो भवेद्ध्रुवम् ।\nभौमकेतू तत्र यदि वधोऽग्नेर्महती व्यथा",
+      "english_meaning": "If Venus is in such a sign, it favors marriage, vehicles, and general worldly comforts.",
+      "hindi_meaning": "यदि शुक्र ऐसी राशि में हो, तो विवाह, वाहन और सामान्य सांसारिक सुखों में वृद्धि होती है।"
+    },
+    {
+      "number": 52,
+      "text": "चेन्द्रशुक्रौ धने विप्र यदि राज्यं प्रयच्छतः ।\nदशारम्भे दशान्ते च द्वितीयस्थमिदं फलम्",
+      "english_meaning": "If Saturn is in such a sign, it gives success in service and the gain of old or inherited items.",
+      "hindi_meaning": "यदि शनि अधिक बिन्दुओं वाली राशि में हो, तो सेवा कार्यों में सफलता और पुरानी वस्तुओं का लाभ मिलता है।"
+    },
+    {
+      "number": 53,
+      "text": "एवमर्गलभावानां फलं विज्ञैः प्रदर्शितम् ।\nयस्य पापः शुभो वाऽपि ग्रहस्तिष्ठेच्छुभार्गले",
+      "english_meaning": "The transit of planets through various signs also depends heavily on the Ashtakavarga strength.",
+      "hindi_meaning": "विभिन्न राशियों में ग्रहों का गोचर भी अष्टकवर्ग की शक्ति पर अत्यधिक निर्भर करता है।"
+    },
+    {
+      "number": 54,
+      "text": "तेन द्रष्ट्रेक्षिते लग्नं पाबल्यायोपकल्प्यते ।\nयदि पश्येद्ग्रहस्तन्न विपरीतार्गलस्थितः",
+      "english_meaning": "When Saturn transits a sign with many Bindus, it provides good results despite its malefic nature.",
+      "hindi_meaning": "जब शनि अधिक बिन्दुओं वाली राशि से गोचर करता है, तो अपने पापी स्वभाव के बावजूद शुभ फल देता है।"
+    },
+    {
+      "number": 55,
+      "text": "तद्भावस्य दशायास्तु विपरीतफलं भवेत् ।\nसद्दृष्टेऽपि शुभं ब्रूयान्निर्विशंकं द्विजोत्तम",
+      "english_meaning": "When benefics transit signs with few Bindus, they may fail to deliver their expected auspicious results.",
+      "hindi_meaning": "जब शुभ ग्रह कम बिन्दुओं वाली राशियों से गोचर करते हैं, तो वे अपेक्षित शुभ फल देने में विफल हो सकते हैं।"
+    },
+    {
+      "number": 56,
+      "text": "यस्मिन्भावे शुभस्वामिसम्बन्धस्तुङ्गखेचरः ।\nस्यात्तद्भावदशायां तु अन्त्यैश्वर्यमखण्डितम्",
+      "english_meaning": "The house containing the maximum Bindus in Samudaya Ashtakavarga is the most beneficial for the native.",
+      "hindi_meaning": "समुदायाष्टकवर्ग में जिस भाव में सर्वाधिक बिन्दु होते हैं, वह जातक के लिए सबसे अधिक लाभकारी होता है।"
+    },
+    {
+      "number": 57,
+      "text": "यद्भावेशः स्वार्थराशिमधितिष्ठति पश्यति ।\nस्यातद्भावदशाकाले धनलाभो महत्तरः",
+      "english_meaning": "For example, if the 11th house has many Bindus, the native will experience significant gains.",
+      "hindi_meaning": "उदाहरण के लिए, यदि एकादश भाव में अधिक बिन्दु हों, तो जातक को जीवन में बहुत लाभ प्राप्त होते हैं।"
+    },
+    {
+      "number": 58,
+      "text": "यस्माद्व्ययगतो यस्तु तद्दशायां धनक्षयः ।\nयस्मात्त्रिकोणगाः पापास्तत्रात्मशुभनाशनम्",
+      "english_meaning": "If the 10th house has many Bindus, it indicates success in career, authority, and widespread fame.",
+      "hindi_meaning": "यदि दशम भाव में अधिक बिन्दु हों, तो यह आजीविका में सफलता, अधिकार और व्यापक यश का सूचक है।"
+    },
+    {
+      "number": 59,
+      "text": "पुत्रहानिः पितुः पीडा मनस्तापो महान् भवेत् ।\nयस्मात्त्रिकोङ्गा रिःफरन्ध्रेशार्कारसूर्यजाः",
+      "english_meaning": "If the 12th house has many Bindus, it leads to high expenses or potential spiritual inclination.",
+      "hindi_meaning": "यदि द्वादश भाव में अधिक बिन्दु हों, तो यह भारी व्यय या आध्यात्मिक झुकाव की ओर संकेत करता है।"
+    },
+    {
+      "number": 60,
+      "text": "पुत्रपीडा द्रव्यहानिस्तत्र केत्वहिसङ्गमे ।\nविदेशभ्रमणं क्लेशो भयं चैव पदे पदे",
+      "english_meaning": "If the 8th house has many Bindus, it may indicate sudden troubles but also longevity if well-placed.",
+      "hindi_meaning": "यदि अष्टम भाव में अधिक बिन्दु हों, तो यह अचानक संकटों के साथ-साथ (शुभ होने पर) दीर्घायु भी दे सकता है।"
+    },
+    {
+      "number": 61,
+      "text": "तस्मात्षष्ठाष्टमे क्रूरनीचखेटादयः स्थिताः ।\nरोगशत्रुनृपालेभ्यो मुहुः पीडा सुदुःसहा",
+      "english_meaning": "Analyze the strength of planets in the Ashtakavarga in relation to their Shadbala strength.",
+      "hindi_meaning": "ग्रहों के षडबल और अष्टकवर्ग बल के पारस्परिक सम्बन्ध का विश्लेषण करना चाहिए।"
+    },
+    {
+      "number": 62,
+      "text": "यस्माच्चतुर्थः क्रूरः स्याद्भूगृहक्षेत्रनाशनम् ।\nपशुहानिस्तत्र भौमे गृहदाहः प्रमादकृत्",
+      "english_meaning": "A planet strong in Shadbala but weak in Ashtakavarga will produce mixed and inconsistent results.",
+      "hindi_meaning": "षडबल में बलवान परन्तु अष्टकवर्ग में निर्बल ग्रह मिश्रित और अनिश्चित फल प्रदान करता है।"
+    },
+    {
+      "number": 63,
+      "text": "शनौ हृदयशूलं स्यात्सूर्ये राजप्रकोपनम् ।\nसर्वस्वहरणं राहौ विषचौरादिजं भयम्",
+      "english_meaning": "A planet weak in Shadbala but strong in Ashtakavarga can give surprisingly positive results.",
+      "hindi_meaning": "षडबल में निर्बल परन्तु अष्टकवर्ग में बलवान ग्रह आश्चर्यजनक रूप से शुभ फल दे सकता है।"
+    },
+    {
+      "number": 64,
+      "text": "यस्माद् दशमभे राहुः पुण्यतीर्थाटनं भवेत् ।\nयस्मात्कर्मायभाग्यर्क्षगतः शोभनखेचराः",
+      "english_meaning": "This is the deep secret of the Ashtakavarga system as revealed by the ancient Maharishis.",
+      "hindi_meaning": "यह अष्टकवर्ग पद्धति का वह गूढ़ रहस्य है जिसे प्राचीन महर्षियों ने प्रकट किया है।"
+    },
+    {
+      "number": 65,
+      "text": "विद्यार्थधर्मसत्कर्मख्यातिपौरुषसिद्धयः ।\nयतः पञ्चमकामारिगताः स्वोच्चशुभग्रहाः",
+      "english_meaning": "Now I will describe the specific results associated with each sign from Aries to Pisces.",
+      "hindi_meaning": "अब मैं मेष से मीन तक प्रत्येक राशि से जुड़े विशिष्ट फलों का वर्णन करूँगा।"
+    },
+    {
+      "number": 66,
+      "text": "पुत्रदारादिसम्प्राप्तिर्नृपपूजा मह्त्तरा ।\nयस्मान्पुत्रायकर्माम्बुनवलग्नाधिपाः स्थिताः",
+      "english_meaning": "If Aries has many Bindus, the native is characterized as brave, adventurous, and active.",
+      "hindi_meaning": "यदि मेष राशि में अधिक बिन्दु हों, तो जातक शूरवीर, साहसी और सक्रिय स्वभाव का होता है।"
+    },
+    {
+      "number": 67,
+      "text": "तत्तद्भावार्थसिद्धिः स्याच्छ्रेयो योगानुसारतः ।\nयस्मिन् गुरुर्वा शुक्रोवा शुभेशो वापि संस्थितः",
+      "english_meaning": "If Taurus has many Bindus, the native is wealthy, handsome, and possesses a steady nature.",
+      "hindi_meaning": "यदि वृष राशि में अधिक बिन्दु हों, तो जातक धनवान, सुन्दर और स्थिर स्वभाव वाला होता है।"
+    },
+    {
+      "number": 68,
+      "text": "कल्याणं सर्वसम्पत्तिर् देवब्राह्मणतर्पनम् ।\nयत्चतुर्थे तुङ्गखेटाः शुभस्वामी ग्रहश्च वा",
+      "english_meaning": "If Gemini has many Bindus, the native is knowledgeable, eloquent, and clever in dealings.",
+      "hindi_meaning": "यदि मिथुन राशि में अधिक बिन्दु हों, तो जातक विद्वान, चतुर और बातचीत में कुशल होता है।"
+    },
+    {
+      "number": 69,
+      "text": "वाहनग्रामलाभश्च पशुवृद्धिश्च भूयसी ।\nतत्र चन्द्रे च लाभः स्याद्बहुधान्यरसान्वितः",
+      "english_meaning": "If Cancer has many Bindus, the native is emotional, respected, and enjoys a comfortable home life.",
+      "hindi_meaning": "यदि कर्क राशि में अधिक बिन्दु हों, तो जातक भावुक, सम्मानित और सुखद गृहस्थ जीवन वाला होता है।"
+    },
+    {
+      "number": 70,
+      "text": "पूर्णे विधौ निधिप्राप्तिर्लभेद्वा मणिसञ्जयम् ।\nतत्र सुक्रे भृदङ्गादिवाद्यगानपुरस्कृतः",
+      "english_meaning": "If Leo has many Bindus, the native is authoritative, courageous, and has a royal or noble bearing.",
+      "hindi_meaning": "यदि सिंह राशि में अधिक बिन्दु हों, तो जातक अधिकार सम्पन्न, साहसी और राजसी स्वभाव का होता है।"
+    },
+    {
+      "number": 71,
+      "text": "आन्दोलिकाप्तिर्जीवे तु कनकांदोलिका ध्रुवम् ।\nलग्नकर्मेशभाग्येशतुङ्गस्थशुभयोगतः",
+      "english_meaning": "If Virgo has many Bindus, the native is scholarly, logical, and methodical in their approach.",
+      "hindi_meaning": "यदि कन्या राशि में अधिक बिन्दु हों, तो जातक पण्डित, तर्कशील और कार्यकुशल होता है।"
+    },
+    {
+      "number": 72,
+      "text": "सर्वोत्कर्षमहैश्वर्यसाम्राज्यादिमहत्फलम् ।\nएवं तत्तद्भावदायफलं यत्स्याद्विचिन्तयेत्",
+      "english_meaning": "If Libra has many Bindus, the native is balanced, wealthy, and successful in social interactions.",
+      "hindi_meaning": "यदि तुला राशि में अधिक बिन्दु हों, तो जातक सन्तुलित, धनवान और सामाजिक कार्यों में सफल होता है।"
+    },
+    {
+      "number": 73,
+      "text": "एकैकोडुदशा स्वीयैर्गुणैरष्टादशात्मभि ।\nभिन्नं फलविपाकं तु कुर्याद्वै चित्रसंयुतम्",
+      "english_meaning": "If Scorpio has many Bindus, the native is deep, powerful, and may have a mysterious personality.",
+      "hindi_meaning": "यदि वृश्चिक राशि में अधिक बिन्दु हों, तो जातक गम्भीर, शक्तिशाली और रहस्यमयी व्यक्तित्व वाला होता है।"
+    },
+    {
+      "number": 74,
+      "text": "परमोच्चे तुङ्गमात्रे तदर्वाक्तदुपर्यपि ।\nमूलत्रिकोणभे स्वर्क्षे स्वाधिमित्रग्रहस्य भे",
+      "english_meaning": "If Sagittarius has many Bindus, the native is wise, religious, and achieves success through merit.",
+      "hindi_meaning": "यदि धनु राशि में अधिक बिन्दु हों, तो जातक ज्ञानी, धार्मिक और अपने गुणों से सफल होने वाला होता है।"
+    },
+    {
+      "number": 75,
+      "text": "तत्कालसुहृदो गेहे उदासीनस्य भे तथा ।\nशर्तोर्भेऽधिरिपोर्भे च नीचान्तादूर्ध्वदेशभे",
+      "english_meaning": "If Capricorn has many Bindus, the native is hard-working, disciplined, and persistent.",
+      "hindi_meaning": "यदि मकर राशि में अधिक बिन्दु हों, तो जातक परिश्रमी, अनुशासित और दृढ़ निश्चयी होता है।"
+    },
+    {
+      "number": 76,
+      "text": "तस्मादर्वाङ् नीचमात्र नीचान्ते परमांशके ।\nनीचारिवर्गे सखले स्ववर्गे केन्द्रकोणभे",
+      "english_meaning": "If Aquarius has many Bindus, the native is philosophical, humanitarian, and inclined towards knowledge.",
+      "hindi_meaning": "यदि कुम्भ राशि में अधिक बिन्दु हों, तो जातक दार्शनिक, परोपकारी और ज्ञान के प्रति समर्पित होता है।"
+    },
+    {
+      "number": 77,
+      "text": "व्यवस्थितस्य खेटस्य समरे पीडितस्य च ।\nगाढपूढस्य च दशापचितिः स्वगुणैः फलम्",
+      "english_meaning": "If Pisces has many Bindus, the native is spiritual, kind, artistic, and seeks inner peace.",
+      "hindi_meaning": "यदि मीन राशि में अधिक बिन्दु हों, तो जातक आध्यात्मिक, दयालु और कलाप्रेमी होता है।"
+    },
+    {
+      "number": 78,
+      "text": "परमोच्चगतो यस्तु योऽतिवीर्यसमन्वितः ।\nसम्पूर्णाख्या दशा तस्य राज्यभूग्यशुभप्रदा",
+      "english_meaning": "Consider the collective results based on the Ashtakavarga of all seven planets and the Lagna.",
+      "hindi_meaning": "सातों ग्रहों और लग्न के अष्टकवर्ग के आधार पर सामूहिक फलों का विचार करना चाहिए।"
+    },
+    {
+      "number": 79,
+      "text": "लक्ष्मीकटाक्षचिह्नानां चिरवासगृहप्रदा ।\nतुङ्गमात्रगतस्यापि तथा वीर्याधिकस्य च",
+      "english_meaning": "The overall fortune and prosperity of the native are determined by the sum of these Bindus.",
+      "hindi_meaning": "इन बिन्दुओं का कुल योग ही जातक के समग्र सौभाग्य और समृद्धि का निर्धारण करता है।"
+    },
+    {
+      "number": 80,
+      "text": "पूर्णाख्या बहुलैश्वर्यदायिन्यापि रुजप्रदा ।\nअतिनीचगतस्यापि दुर्बलस्य ग्रहस्य तु",
+      "english_meaning": "If the sum of Bindus in the trine groups is balanced, the native's life progresses smoothly.",
+      "hindi_meaning": "यदि त्रिकोण समूहों में बिन्दुओं का योग सन्तुलित हो, तो जातक का जीवन सुचारु रूप से चलता है।"
+    },
+    {
+      "number": 81,
+      "text": "रिक्ता त्वनिष्टफलदा व्याध्यनर्थमृतिप्रदा ।\nअत्युच्चेऽप्यतिनीचस्थे मध्यगस्यावरोहिणी",
+      "english_meaning": "A sign with very few Bindus (less than 20) keeps that house weak despite other positive influences.",
+      "hindi_meaning": "जिस राशि में बहुत कम बिन्दु (20 से कम) हों, वह भाव अन्य शुभ प्रभावों के बावजूद निर्बल रहता है।"
+    },
+    {
+      "number": 82,
+      "text": "मित्रोच्चभावप्राप्तस्य मध्याख्या ह्यर्थदा दशा ।\nनीचांतादुच्चभागान्तं भषट्के मध्यगस्य च",
+      "english_meaning": "A sign with many Bindus (more than 35) makes that house flourish even with malefic presence.",
+      "hindi_meaning": "जिस राशि में बहुत अधिक बिन्दु (35 से अधिक) हों, वह भाव पाप ग्रहों के होने पर भी फलता-फूलता है।"
+    },
+    {
+      "number": 83,
+      "text": "दशा चारोहिणी नीचरिपुभांशगतस्य च ।\nअधमाख्या भयक्लेशव्याधिदुःखविवर्धिनी",
+      "english_meaning": "This method represents the essence of predictive astrology as taught by the great Maharishis.",
+      "hindi_meaning": "यह विधि भविष्यवक्ता ज्योतिष का वह सार है जिसे महान महर्षियों ने सिखाया है।"
+    },
+    {
+      "number": 84,
+      "text": "नामानुरूपफलदाः पाककाले दशा इमाः ।\nभाग्येशगुरुसम्बन्धो योगदृक्केन्द्रभादिभिः",
+      "english_meaning": "Now I will briefly explain the calculation of longevity from the Ashtakavarga pure Bindus again.",
+      "hindi_meaning": "अब मैं अष्टकवर्ग के शुद्ध बिन्दुओं से आयु की गणना की विधि पुनः संक्षेप में बताता हूँ।"
+    },
+    {
+      "number": 85,
+      "text": "परेषामपि दायेषु भग्योपक्रममुन्नयेत् ।\nजातको यस्तु फलदो भग्ययोगप्रदोऽथ यः",
+      "english_meaning": "Multiply the pure Bindus by Rashi and Graha factors as specified in the ancient texts.",
+      "hindi_meaning": "शुद्ध बिन्दुओं को प्राचीन ग्रन्थों में बताए गए राशि और ग्रह गुणकों से गुणा करें।"
+    },
+    {
+      "number": 86,
+      "text": "सफलो वक्रिमादूर्ध्वमन्यानपि च खेचरान् ।\nदुर्बलानसमर्थांश्च फलदानेषु यागतः",
+      "english_meaning": "Summing these products for all planets provides the basis for determining the span of life.",
+      "hindi_meaning": "सभी ग्रहों के इन गुणनफलों का योग जीवन काल के निर्धारण का आधार बनता है।"
+    },
+    {
+      "number": 87,
+      "text": "तारतम्यात्सुसम्बन्धा दशा ह्येताः फलप्रदाः ।\nस्वकेन्द्रादिजुषां तेषां पूर्णार्द्धांघ्रिव्यवस्थया",
+      "english_meaning": "Determining the total years of life ensures accurate predictions about major life events.",
+      "hindi_meaning": "जीवन के कुल वर्षों का निर्धारण प्रमुख घटनाओं के विषय में सटीक भविष्यवाणी सुनिश्चित करता है।"
+    },
+    {
+      "number": 88,
+      "text": "शीर्षोदयभगाः स्वस्वदशादौ स्वफलप्रदाः ।\nउभयोदयराशिस्थदशा मध्यफलप्रदा",
+      "english_meaning": "If the total calculated years exceed 100, the native is considered a centenarian.",
+      "hindi_meaning": "यदि गणना किए गए कुल वर्ष 100 से अधिक हों, तो जातक शतायु माना जाता है।"
+    },
+    {
+      "number": 89,
+      "text": "पृष्ठोदयर्क्षगाः खेटाः स्वदशान्ते फलप्रदाः ।\nनिसर्गतश्च तत्काले सुहृदां हरणे शुभम्",
+      "english_meaning": "70-100 is long life, 33-70 is medium, and below 33 is considered a short lifespan.",
+      "hindi_meaning": "70-100 वर्ष दीर्घायु, 33-70 मध्यम आयु और 33 से कम अल्पायु मानी जाती है।"
+    },
+    {
+      "number": 90,
+      "text": "सम्पादयेत्तदा कष्टं तद्विपर्ययगामिनाम् ।\nदशेशाक्रांतभावर्क्षादारभ्य द्वादशर्क्षकम्",
+      "english_meaning": "Thus, the lifespan can be accurately determined through the systematic Ashtakavarga method.",
+      "hindi_meaning": "इस प्रकार, व्यवस्थित अष्टकवर्ग पद्धति के माध्यम से जीवनकाल का सटीक निर्धारण किया जा सकता है।"
+    },
+    {
+      "number": 91,
+      "text": "भक्त्वा द्वादशराशीनां दशाभुक्ति प्रकल्पयेत् ।\nएकैकराशेर्या तत्र सुहृत्स्वक्षेत्रगामिनी",
+      "english_meaning": "O Brahmin! I have thus described all the essential results derived from the Ashtakavarga.",
+      "hindi_meaning": "हे विप्र! इस प्रकार मैंने अष्टकवर्ग से प्राप्त होने वाले सभी आवश्यक फलों का वर्णन कर दिया है।"
+    },
+    {
+      "number": 92,
+      "text": "तस्यां राज्यादिसम्पत्तिपूर्वकं शुभमीरयेत् ।\nदुःस्थानरिपुगेहस्थनीचक्रूरयुता च या",
+      "english_meaning": "The final results of the planets should be declared after careful analysis of their total strength.",
+      "hindi_meaning": "ग्रहों के अन्तिम फल उनकी कुल शक्ति के सावधानीपूर्वक विश्लेषण के बाद ही घोषित करने चाहिए।"
+    },
+    {
+      "number": 93,
+      "text": "तस्यामनर्थकलहं रोगमृत्युभयादिकम् ।\nबिन्दुभूयस्त्वशून्यत्ववशात् स्वीयाष्टवर्गके",
+      "english_meaning": "This knowledge is highly confidential and should only be shared with deserving students.",
+      "hindi_meaning": "यह ज्ञान अत्यन्त गोपनीय है और इसे केवल योग्य शिष्यों के साथ ही साझा करना चाहिए।"
+    },
+    {
+      "number": 94,
+      "text": "वृद्धिं हानिं च तद्राशिभावस्य स्वगृहात्क्रमात् ।\nभावयोजनया विद्यात्सुतस्त्र्यादिशुभाऽशुभम्",
+      "english_meaning": "It should never be revealed to atheists, the wicked, or those who lack respect for the science.",
+      "hindi_meaning": "इसे नास्तिकों, दुष्टों या इस विद्या के प्रति अनादर रखने वालों को कभी नहीं बताना चाहिए।"
+    },
+    {
+      "number": 95,
+      "text": "धात्वादिराशिभेदाच्च धात्वादिग्रहयोगतः ।\nशुभपापनशाभेदाच्छुभपापयुतैरपि",
+      "english_meaning": "By mastering this system, an astrologer gains the insight of a seer regarding the future.",
+      "hindi_meaning": "इस पद्धति में महारत हासिल करके ज्योतिषी भविष्य के विषय में एक ऋषि जैसी दृष्टि प्राप्त करता है।"
+    },
+    {
+      "number": 96,
+      "text": "इष्टानिष्टस्थानभेदात् फलभेदात् समुन्नयेत् ।\nएवं सर्वग्रहाणां च स्वां स्वामन्तर्दशामपि",
+      "english_meaning": "This concludes the description of the results of the Ashtakavarga system.",
+      "hindi_meaning": "यहाँ अष्टकवर्ग पद्धति के फलों का वर्णन समाप्त होता है।"
+    },
+    {
+      "number": 97,
+      "text": "स्वराशितो राशिभुक्तिं प्रकल्प्य फलमीरयेत् ।\nअन्तरन्तर्दशां स्वीयां विभज्यैवं पुनः पुनः",
+      "english_meaning": "O Maitreya! Next, I will describe various types of results and their corresponding remedies.",
+      "hindi_meaning": "हे मैत्रेय! इसके बाद मैं विभिन्न प्रकार के फलों और उनके निवारण के उपायों (शान्ति) का वर्णन करूँगा।"
+    }
+  ]
+}

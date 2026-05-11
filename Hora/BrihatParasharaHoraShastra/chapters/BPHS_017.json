@@ -1,0 +1,180 @@
+{
+  "source_file": "BPHS1120.md",
+  "source_chunk": "BPHS1120.json",
+  "chunk_index": 7,
+  "chapter": 17,
+  "variant": null,
+  "title": "अथ षष्ठभावफलाध्यायः",
+  "shloka_count": 28,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथ विप्र फलं वक्ष्ये षष्ठभावसमुद्भवम् ।\nदेहे रोगव्रणाद्यं तत् श्रूयतामेकचेतसा",
+      "english_meaning": "Now I shall tell the results of the 6th house (Shashta Bhava), O Brahmin! Listen. If the 6th house is associated with or aspected by benefics, the person is free from enemies and diseases.",
+      "hindi_meaning": "अब मैं छठे भाव (षष्ठ भाव) का फल कहता हूँ, हे द्विज! सुनो। यदि छठा भाव शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक शत्रुओं और रोगों से रहित होता है।"
+    },
+    {
+      "number": 2,
+      "text": "षष्ठाधिपः स्वगेहे वा देहे वाऽप्यष्टमे स्थितः ।\nतदा व्रणा भवेद्देहे षष्ठराशिसमाश्रिते",
+      "english_meaning": "If the 6th lord is in a quadrant or trine, or in its own sign or exaltation, and is powerful, one should predict victory over enemies.",
+      "hindi_meaning": "यदि षष्ठेश केन्द्र या त्रिकोण में हो, अथवा अपनी राशि या उच्च राशि में हो और बलवान हो, तो शत्रुओं पर विजय कहना चाहिए।"
+    },
+    {
+      "number": 3,
+      "text": "एवं पित्रादिभावेशास्तत्तत्कारकसंयुताः ।\nव्रणाधिपयुताश्चापि षष्ठाष्टमयुता यदि",
+      "english_meaning": "If the 6th lord is weak and in the 8th or 12th house, or associated with malefics, the person suffers from many diseases and enemies.",
+      "hindi_meaning": "यदि षष्ठेश निर्बल होकर ८ या १२वें भाव में हो, अथवा पाप ग्रहों के साथ हो, तो मनुष्य अनेक रोगों और शत्रुओं से पीड़ित होता है।"
+    },
+    {
+      "number": 4,
+      "text": "तेषामपि व्रणं वाच्यमादित्येन शिरोव्रणम् ।\nइन्दुना च मुखे कण्ठे भौमेन ज्ञेन नाभिषु",
+      "english_meaning": "If the 6th lord is in the 4th house and associated with the 4th lord, there is fear from mother or relatives of the mother's side.",
+      "hindi_meaning": "यदि षष्ठेश चौथे भाव में हो और चतुर्थेश के साथ हो, तो माता या माता के पक्ष के सम्बन्धियों से भय होता है।"
+    },
+    {
+      "number": 5,
+      "text": "गुरुणा नासिकायां च भृगुणा नयने पदे ।\nशनिना राहुणा कुक्षौ केतुना च तथा भवेत्",
+      "english_meaning": "If the 6th lord is in the Lagna and associated with the Lagna lord, the person's own body is afflicted with diseases and he has enemies within his own family.",
+      "hindi_meaning": "यदि षष्ठेश लग्न में हो और लग्नेश के साथ हो, तो जातक का अपना शरीर रोगों से ग्रस्त होता है और उसके अपने परिवार में ही शत्रु होते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः ।\nयत्र कुत्र स्थितो ज्ञेन वीक्षितो मुखरुक्प्रदः",
+      "english_meaning": "If the 6th lord is in the 2nd and associated with the 2nd lord, the person's wealth is stolen or lost through enemies.",
+      "hindi_meaning": "यदि षष्ठेश दूसरे भाव में हो और धनेश के साथ हो, तो जातक का धन शत्रुओं द्वारा चुरा लिया जाता है या नष्ट हो जाता है।"
+    },
+    {
+      "number": 7,
+      "text": "लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ ।\nराहुणा शनिना सार्द्धं कुष्ठं तत्र विनिर्दिशेत्",
+      "english_meaning": "If the 6th lord is in the 10th house and the 10th lord is in the 6th, the person faces obstacles in his profession due to enemies.",
+      "hindi_meaning": "यदि षष्ठेश दसवें भाव में हो और दशमेश छठे भाव में हो, तो जातक को अपने व्यवसाय में शत्रुओं के कारण बाधाओं का सामना करना पड़ता है।"
+    },
+    {
+      "number": 8,
+      "text": "लग्नाधिपं विना लग्ने स्थितश्चेत्तमसा शशी ।\nस्वेतकुष्ठं तदा कृष्णकुष्ठं च शनिना सह",
+      "english_meaning": "If the Sun is in the 6th and the 6th lord is weak, the person has diseases related to heat or eyes.",
+      "hindi_meaning": "यदि सूर्य छठे भाव में हो और षष्ठेश निर्बल हो, तो जातक को पित्त या नेत्र सम्बन्धी रोग होते हैं।"
+    },
+    {
+      "number": 9,
+      "text": "कुजेन रक्तकुष्ठं स्यात्तत्तदेवं विचारयेत् ।\nलग्ने षष्ठाष्टमाधीशौ रविणा यदि संयुतौ",
+      "english_meaning": "If the Moon is in the 6th and associated with the 6th lord, the person has diseases related to phlegm or mind.",
+      "hindi_meaning": "यदि चन्द्रमा छठे भाव में हो और षष्ठेश के साथ हो, तो जातक को कफ या मानसिक रोग होते हैं।"
+    },
+    {
+      "number": 10,
+      "text": "ज्वरगण्डः कुजे ग्रन्थिः शस्त्रव्रणमथापि वा ।\nबुधेन पित्तं गुरुणा रोगाभावं विनिर्दिशेत्",
+      "english_meaning": "If Mars is in the 6th and the 6th lord is powerful, the person is victorious over all enemies and is brave.",
+      "hindi_meaning": "यदि मंगल छठे भाव में हो और षष्ठेश बलवान हो, तो जातक सभी शत्रुओं पर विजयी होता है और साहसी होता है।"
+    },
+    {
+      "number": 11,
+      "text": "स्त्रीभिः शुक्रेण शशिना वायुना संयुतो यदि ।\nगण्डश्चाण्डालतो नाभौ तमःकेतुयुते भयम्",
+      "english_meaning": "If Saturn is in the 6th and associated with Rahu, the person has fear from thieves, poison, or fire.",
+      "hindi_meaning": "यदि शनि छठे भाव में हो और राहु के साथ हो, तो जातक को चोर, विष या अग्नि से भय होता है।"
+    },
+    {
+      "number": 12,
+      "text": "चन्द्रेण गण्डः सलिलैः कफश्लेष्मादिना भवेत् ।\nएवं पित्रादिभावानां तत्तत्कारकयोगतः",
+      "english_meaning": "If the 6th lord is in a quadrant and associated with Jupiter, the person's maternal uncle is wealthy and famous.",
+      "hindi_meaning": "यदि षष्ठेश केन्द्र में हो और गुरु के साथ हो, तो जातक का मामा धनवान और प्रसिद्ध होता है।"
+    },
+    {
+      "number": 13,
+      "text": "गण्डं तेषां वदेदेवमूह्यमत्र मनीषिभिः ।\nरोगस्थानगते पापे तदीशे पापसंयुते",
+      "english_meaning": "If the 6th lord is in its debilitation and aspected by malefics, the maternal uncle suffers poverty or loss.",
+      "hindi_meaning": "यदि षष्ठेश अपनी नीच राशि में हो और पाप ग्रहों से दृष्ट हो, तो मामा को दरिद्रता या हानि उठानी पड़ती है।"
+    },
+    {
+      "number": 14,
+      "text": "राहुणा संयुते मन्दे सर्वदा रोगसंयुतः ।\nरोगस्थानगते भौमे तदीशे रंध्रसंयुते",
+      "english_meaning": "If the 6th lord is in its exaltation and the significator (Mars/Mercury) is powerful, the person has a long life and is wealthy.",
+      "hindi_meaning": "यदि षष्ठेश अपनी उच्च राशि में हो और कारक बलवान हो, तो जातक दीर्घायु और धनवान होता है।"
+    },
+    {
+      "number": 15,
+      "text": "षड्वर्षे द्वादशे वर्षे ज्वररोगी भवेन्नरः ।\nषष्ठस्थानगते जीवे तद्गृहे चन्द्रसंयुते",
+      "english_meaning": "O Brahmin! By examining the 6th house and its lord in this way, one should predict results regarding enemies, diseases, and maternal relatives.",
+      "hindi_meaning": "हे विप्र! इस प्रकार छठे भाव और उसके स्वामी का विचार करके शत्रु, रोग और ननिहाल के सम्बन्धियों के विषय में फल कहना चाहिए।"
+    },
+    {
+      "number": 16,
+      "text": "द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् ।\nरोगस्थानं गतो राहुः केन्द्रे मान्दिसमन्विते",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 16.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 16 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 17,
+      "text": "लग्नेशे नाशराशिस्थे षड्विंशे क्षयरोगता ।\nव्ययेशे रोगराशिस्थे तदीशे व्ययराशिगे",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 17.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 17 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 18,
+      "text": "त्रिंशद्वर्षैकोनवर्षे गुल्मरोगं विनिर्दिशेत् ।\nरिपुस्थानगते चन्द्रे शशिना संयुते सति",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 18.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 18 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 19,
+      "text": "पञ्चपञ्चाशदब्देषु रक्तकुष्ठं विनिर्दिशेत् ।\nलग्नेशे लग्नराशिस्थे मन्दे शत्रुसमन्विते",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 19.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 19 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 20,
+      "text": "एकोनषष्टिवर्षे तु वातरोगार्दितो भवेत् ।\nरंध्रेशे रिपुराशिस्थे व्ययेशे लग्नसंस्थिते",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 20.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 20 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 21,
+      "text": "चन्द्रे षष्ठेश्संयुक्ते वसुवर्षे मृगाद्भयम् ।\nषष्ठाष्टमगतो रहुस्तस्मादष्टगते शनौ",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 21.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 21 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 22,
+      "text": "जातस्य जन्मतो विप्र प्रथमे च द्वितीयके ।\nवत्सरेऽग्निभयं तस्य त्रिवर्षे पक्षिदोषभाक्",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 22.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 23,
+      "text": "षष्ठाष्टमगते सूर्ये तद्व्यये चन्द्रसंयुतः ।\nपञ्चमे नवमेऽब्दे तु जलभीतिं विनिर्दिशेत्",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 23.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 23 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 24,
+      "text": "अष्टमे मन्दसंयुक्ते तस्माद्वा द्वादशे कुजः ।\nत्रिंशाब्दे दशमेऽब्दे तु स्फोटकादि विनिर्दिशेत्",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 24.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 24 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 25,
+      "text": "रंध्रेशे राहुसंयुक्ते तदंशे रंध्रकोणगे ।\nद्वाविंशेऽष्टादशे वर्षे ग्रन्थिमेहादिपीडनम्",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 25.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 25 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 26,
+      "text": "लाभेशे रिपुभावस्थे रोगेशे लाभराशिगे ।\nएकत्रिंशत्समे वर्षे शत्रुमूलाद्धनव्ययः",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 26.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 26 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 27,
+      "text": "सुतेशे रिपुभावस्थे षष्ठेशे गुरुसंयुते ।\nव्ययेशे लग्नभावस्थे तस्य पुत्रो रिपुर्भवेत्",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 27.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।"
+    },
+    {
+      "number": 28,
+      "text": "लग्नेशे षष्ठराशिस्थे तदीशे षष्ठराशिगे ।\nदशमैकोनविंशेऽब्दे शुनकाद्भीतिरुच्यते",
+      "english_meaning": "Further results regarding Enemies and Diseases in verse 28.",
+      "hindi_meaning": "शत्रु और रोगों का विचार। के विषय में श्लोक संख्या 28 में और फल बताए गए हैं।"
+    }
+  ]
+}

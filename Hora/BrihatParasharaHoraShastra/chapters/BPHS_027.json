@@ -1,0 +1,252 @@
+{
+  "source_file": "BPHS2130.md",
+  "source_chunk": "BPHS2130.json",
+  "chunk_index": 6,
+  "chapter": 27,
+  "variant": null,
+  "title": "अथ स्पष्टबलाध्यायः",
+  "shloka_count": 40,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथ स्पष्टबलं वक्ष्ये स्थानकालादिसम्भवम् ।\nनीचोनां खचरं भार्धाधिक चक्राद् विशोधयेत्",
+      "english_meaning": "Now I shall describe the clear strength (Sphuta Bala) arising from placement (Sthana), time (Kala) etc. Subtract the debilitation point from the planet's longitude. If the result is more than 6 signs, subtract it from 12 signs.",
+      "hindi_meaning": "अब मैं स्थान, काल आदि से उत्पन्न स्पष्ट बल (स्फुट बल) कहता हूँ। नीच राशि के अंशों को ग्रह के स्पष्ट अंशों में से घटा दें। यदि शेष ६ राशि से अधिक हो, तो उसे १२ राशि में से घटा दें।"
+    },
+    {
+      "number": 2,
+      "text": "भागीकृत्य त्रिभिर्भक्तं लब्धमुच्चबलं भवेत् ।\nस्वत्रिकोणस्वगेहाधिमित्रमित्रसमारिषु",
+      "english_meaning": "Convert the result into degrees and divide by 3 to get the Exaltation Strength (Uchcha Bala). Now for Sthana Bala (Placement Strength) based on relationships like Sva-trikona, Sva-kshetra, Mitra etc.",
+      "hindi_meaning": "शेष अंशों को ३ से भाग देने पर 'उच्च बल' प्राप्त होता है। अब स्वत्रिकोण, स्वगृह, अधिमित्र, मित्र, सम आदि भावों में स्थित ग्रहों का स्थान बल कहा जाता है।"
+    },
+    {
+      "number": 3,
+      "text": "अधिशत्रुगृहे चापि स्थितानां क्रमशो बलम् ।\nभूताब्धयः खाग्निनखास्तिथ्यो दश युगाः कराः",
+      "english_meaning": "Strength values in different sign relationships: Sva-trikona (45), Sva-kshetra (30), Adhimitra (20), Mitra (15), Sama (10), Shatru (4), Adhishatru (2).",
+      "hindi_meaning": "विभिन्न संबंधों में ग्रहों का बल: स्वत्रिकोण (४५), स्वगृह (३०), अधिमित्र (२०), मित्र (१५), सम (१०), शत्रु (४) और अधिशत्रु गृह में (२) विंशोपक होता है।"
+    },
+    {
+      "number": 4,
+      "text": "एवं होरादृकाणाद्रिभागांकद्वादशांशजम् ।\nत्रिंशांशजं तदैक्यञ्च सप्तवर्गसमुद्भवम्",
+      "english_meaning": "Sum the strengths from Hora, Drekkana, Saptamansha, Navamansha, Dwadashansha and Trimshansha. This total is the Saptavargaja Bala (Strength from Seven Divisions).",
+      "hindi_meaning": "होरा, द्रेष्काण, सप्तमांश, नवांश, द्वादशांश और त्रिंशांश के बलों का योग 'सप्तवर्गज बल' कहलाता है।"
+    },
+    {
+      "number": 5,
+      "text": "शुक्रेन्दू समभांशेऽन्ये विषमेऽङ्घ्रिमितं बलम् ।\nकेन्द्रादिषुस्थिताः खेटाः पूर्णाऽर्धाऽङ्घ्रिमितं क्रमात्",
+      "english_meaning": "Venus and Moon gain strength (1/4) in even signs; others in odd signs. Planets in Kendras (1,4,7,10), Panapharas (2,5,8,11) and Apoklimas (3,6,9,12) get full, half and quarter strength respectively.",
+      "hindi_meaning": "शुक्र और चन्द्रमा सम राशि में तथा अन्य ग्रह विषम राशि में १/४ बल प्राप्त करते हैं। केन्द्र, पणफर और आपोक्लिम में स्थित ग्रह क्रमशः पूर्ण, आधा और एक चौथाई बल पाते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "आद्यमध्यावसानेषु द्रेष्काणेषु स्थिताः क्रमात् ।\nपुंनपुंसकयोषाख्या दद्युरङ्घ्रिमितं बलम्",
+      "english_meaning": "Male, neuter and female planets get 1/4 strength when placed in the first, middle and last Drekkanas of a sign respectively.",
+      "hindi_meaning": "पुरुष, नपुंसक और स्त्री ग्रह क्रमशः राशि के प्रथम, मध्य और अन्तिम द्रेष्काणों में १/४ बल प्राप्त करते हैं।"
+    },
+    {
+      "number": 7,
+      "text": "सूर्यात् कुजात् सुखं जीवाज्ज्ञाच्चाऽस्तं लग्नमार्क्रितः ।\nदशमं च भृगोश्चन्द्राद् हित्वा षड्भाधिके सति",
+      "english_meaning": "Calculation of Digbala (Directional Strength): Sun and Mars are strong in 10th (South), Jupiter and Mercury in 1st (East), Venus and Moon in 4th (North), and Saturn in 7th (West).",
+      "hindi_meaning": "दिग्बल की गणना: सूर्य-मंगल १०वें भाव में, गुरु-बुध १ले (लग्न) में, शुक्र-चन्द्र ४थे में और शनि ७वें भाव में बली होते हैं।"
+    },
+    {
+      "number": 8,
+      "text": "चक्राद् विशोध्य तद्भागास्त्रिभिर्भक्ताश्च दिग्बलम् ।\nइष्टाधटि निशीथात्तन्नतं त्रिंशच्च्युतं नतम्",
+      "english_meaning": "Subtract the directional points from the planet's longitude. If more than 6 signs, subtract from 12. Degrees divided by 3 gives Digbala. Now for Natabala based on time from midnight.",
+      "hindi_meaning": "उन-उन दिशाओं के बिन्दुओं को ग्रह स्पष्ट में से घटाकर, ६ राशि से अधिक होने पर १२ राशि से घटाकर, अंशों को ३ से भाग देने पर दिग्बल प्राप्त होता है। अब मध्यरात्रि से समय के आधार पर नतबल कहते हैं।"
+    },
+    {
+      "number": 9,
+      "text": "चन्द्रभौमशनीनां च नतं द्विघ्नं कलादिकम् ।\nषष्टिशुद्धं तदन्येषां सदा रूपं बुधस्य हि",
+      "english_meaning": "Moon, Mars and Saturn are strong at night (Natabala). Sun, Jupiter and Venus are strong during the day. Mercury is always strong.",
+      "hindi_meaning": "चन्द्रमा, मंगल और शनि रात्रि में (नतबल) बली होते हैं। सूर्य, गुरु और शुक्र दिन में बली होते हैं। बुध सदा बली रहता है।"
+    },
+    {
+      "number": 10,
+      "text": "अथ पक्षबलं वक्ष्ये सूर्ये चन्द्राद् विशोध्य च ।\nषड्भाधिके विशोध्यार्काद् भागीकृत्त्य त्रिभिर्भजेत्",
+      "english_meaning": "Now I shall describe Paksha Bala (Fortnight Strength). Subtract Sun's longitude from Moon's. If more than 6 signs, subtract from 12 signs. Divide degrees by 3.",
+      "hindi_meaning": "अब मैं पक्ष बल कहता हूँ। चन्द्रमा में से सूर्य को घटा दें। यदि ६ राशि से अधिक हो, तो १२ राशि में से घटाकर अंशों को ३ से भाग दें।"
+    },
+    {
+      "number": 11,
+      "text": "पक्षजं बलमिन्दुज्ञशुक्रेज्यानां तु षष्टितः ।\nविशोध्य तब्दलं ज्ञेनं पापानां पक्षसंभवम्",
+      "english_meaning": "Benefics (Moon, Mercury, Jupiter, Venus) get Paksha Bala as calculated. For Malefics, subtract their value from 60 to get their Paksha strength.",
+      "hindi_meaning": "शुभ ग्रहों (चन्द्र, बुध, गुरु, शुक्र) का पक्ष बल जो प्राप्त हुआ वही होता है। पाप ग्रहों के लिए इसे ६० में से घटाने पर उनका पक्ष बल प्राप्त होता है।"
+    },
+    {
+      "number": 12,
+      "text": "दिनत्र्यंशेषु सौम्यार्कशनीनां निट्त्रिभागके ।\nचन्द्रशुक्रकुजानां च बलं पूर्णं सदा गुरोः",
+      "english_meaning": "In three parts of the day/night: Mercury, Sun, Saturn are strong in day parts; Moon, Venus, Mars in night parts; Jupiter is always strong.",
+      "hindi_meaning": "दिन और रात्रि के तीन भागों में: बुध, सूर्य और शनि दिन के भागों में; चन्द्र, शुक्र और मंगल रात्रि के भागों में बली होते हैं। गुरु सदा बली रहता है।"
+    },
+    {
+      "number": 13,
+      "text": "वषमासदिनेशानां तिथ्यस्त्रिंशच्छरार्णवाम् ।\nहोरेशस्य बलं षष्टिरुक्तं नैसर्गिकं पुरा",
+      "english_meaning": "Strength of Lord of Year (15), Month (30), Day (45) and Hour (60). Natural strength (Naisargika Bala) was mentioned earlier.",
+      "hindi_meaning": "वर्षेश (१५), मासेश (३०), वारेश (४५) और होरेश का बल (६०) होता है। नैसर्गिक बल पहले ही कहा जा चुका है।"
+    },
+    {
+      "number": 14,
+      "text": "तन्मानां सप्तहृत्षष्टिरेकाद्येकोत्तरैर्हता ।\nशमंबुगुशुचंरादिखेटानां क्रमतो द्विज",
+      "english_meaning": "Naisargika Bala in order: Sun (60), Moon (51.4), Venus (42.8), Jupiter (34.3), Mercury (25.7), Mars (17.1), Saturn (8.6).",
+      "hindi_meaning": "नैसर्गिक बल का क्रम: सूर्य (६०), चन्द्रमा (५१.४), शुक्र (४२.८), गुरु (३४.३), बुध (२५.७), मंगल (१७.१) और शनि (८.६) विंशोपक होता है।"
+    },
+    {
+      "number": 15,
+      "text": "पञ्चाब्धयः सुराः सूर्याः खण्डकांशाः क्रमादमी ।\nसायनग्रहदोराशितुल्यखण्डयुतिश्च स",
+      "english_meaning": "Ayana Bala calculation: Based on the declination (Kranti) and distance from equinoxes for Sun, Moon, Mars, Jupiter, Venus and Saturn.",
+      "hindi_meaning": "अयन बल की गणना: सूर्य, चन्द्र, मंगल, गुरु, शुक्र और शनि के लिए क्रांति और विषुवत रेखा से दूरी के आधार पर अयन बल निकाला जाता है।"
+    },
+    {
+      "number": 16,
+      "text": "भागादिकहतादेष्यात् त्रिंशल्लब्धयुता लवाः ।\nस्वमृणं तुलमेषादौ शनीन्द्वोश्च त्रिराशिषु",
+      "english_meaning": "Rules for adding/subtracting values for Ayana Bala based on whether the planet is in Northern or Southern signs.",
+      "hindi_meaning": "अयन बल के लिए ग्रहों के मेषादि या तुलादि राशियों में होने के अनुसार मान जोड़ने या घटाने के नियम हैं।"
+    },
+    {
+      "number": 17,
+      "text": "तथाऽरार्केज्यशुक्राणां व्यस्तं ज्ञस्य सदा धनम् ।\nतद्भागाश्च त्रिभिर्भक्ता ज्ञेयमायनजं बलम्",
+      "english_meaning": "Mercury always has positive Ayana Bala. The final degree values divided by 3 give the Ayana strength.",
+      "hindi_meaning": "बुध का अयन बल सदा धनात्मक होता है। प्राप्त अंशों को ३ से भाग देने पर अयन बल ज्ञात होता है।"
+    },
+    {
+      "number": 18,
+      "text": "यद्रवेरायनं वीर्यं चेष्टाख्यं तावदेव हि ।\nविधोः पक्षबलं यावत् तावच्चेष्टाबलं स्मृतम्",
+      "english_meaning": "The Chesta Bala (Motional Strength) of Sun is equal to its Ayana Bala. For Moon, it is equal to its Paksha Bala.",
+      "hindi_meaning": "सूर्य का चेष्टा बल उसके अयन बल के बराबर होता है। चन्द्रमा का चेष्टा बल उसके पक्ष बल के समान माना गया है।"
+    },
+    {
+      "number": 19,
+      "text": "पापदृक्पादहीनं तच्छुभदृक्पादयुक् तथा ।\nबलैक्यं ज्ञेज्यदृक्युक्तमेवं खेटबलं भवेत्",
+      "english_meaning": "Subtract 1/4 for malefic aspect, add 1/4 for benefic aspect. Strength including Jupiter and Mercury aspects is the final strength.",
+      "hindi_meaning": "पाप दृष्टि होने पर १/४ घटा दें, शुभ दृष्टि होने पर १/४ जोड़ दें। गुरु और बुध की दृष्टि से युक्त बल ही ग्रहों का पूर्ण बल होता है।"
+    },
+    {
+      "number": 20,
+      "text": "अथ तारग्रहाणां तु युद्ध्यतोश्च द्वयोर्मिथः ।\nबलान्तरं विजेतुः स्वं निर्जितस्य बले त्वृणम्",
+      "english_meaning": "In case of Graha Yuddha (Planetary War) between two star-planets, the difference in their strength is added to the winner and subtracted from the loser.",
+      "hindi_meaning": "दो तारा ग्रहों के युद्ध में, उनके बल के अंतर को विजेता के बल में जोड़ दिया जाता है और पराजित के बल में से घटा दिया जाता है।"
+    },
+    {
+      "number": 21,
+      "text": "चक्रानुवक्रा विकला मन्दा मन्दतरा समा ।\nचरा चाऽतिचरा चेति ग्रहाणामष्टधा गतिः",
+      "english_meaning": "Planets have eight types of motions: Retrograde (Vakra), Stationary (Anuvakra), Swift (Atichara) etc.",
+      "hindi_meaning": "ग्रहों की आठ प्रकार की गतियां होती हैं: वक्र, अनुवक्र, विकला, मन्दा, मन्दतरा, समा, चरा और अतिचरा।"
+    },
+    {
+      "number": 22,
+      "text": "षष्टिर्वक्रगते वीर्यमनुवक्रगतेर्दलम् ।\nपादो विकलभुक्तेः स्यात् तथा मध्यगतेर्दलम्",
+      "english_meaning": "Strength according to motion: Vakra (60), Anuvakra (30), Vikala (15), Madhyama (30).",
+      "hindi_meaning": "गति के अनुसार बल: वक्र (६०), अनुवक्र (३०), विकला (१५) और मध्यम गति में ३० बल होता है।"
+    },
+    {
+      "number": 23,
+      "text": "पादो मन्दगतेस्तस्य दलं मन्दतरस्य हि ।\nचरभुक्तेस्तु पादोनां दलं स्यादतिचारिणः",
+      "english_meaning": "Strength for Manda (15), Mandatara (30), Chara (45) and Atichara (30) motions.",
+      "hindi_meaning": "मन्द (१५), मन्दतर (३०), चर (४५) और अतिचर गतियों में क्रमशः बल प्राप्त होता है।"
+    },
+    {
+      "number": 24,
+      "text": "मध्यमस्फुटयोगार्धहीनं स्वस्वचलोच्चकम् ।\nषड्भाधिकं च्युतं चक्राच्चेष्टाकेन्द्रं स्मृतं कुजात्",
+      "english_meaning": "Chesta Kendra calculation for Mars and other planets based on their conjunction with the Sun.",
+      "hindi_meaning": "मंगल आदि ग्रहों के लिए उनके सूर्य के साथ मेल (शीघ्रोच्च) के आधार पर चेष्टा केन्द्र की गणना की जाती है।"
+    },
+    {
+      "number": 25,
+      "text": "भागीकृतं त्रिभिर्भक्तं लब्धं चेष्टाबलं त्विति ।\nस्थानदिक्कालदृक्चेष्टानिसर्गोत्थं च षड्विधम्",
+      "english_meaning": "Degrees divided by 3 gives Chesta Bala. Thus there are six types of strength: Sthana, Dik, Kala, Drik, Chesta and Naisargika.",
+      "hindi_meaning": "अंशों को ३ से भाग देने पर चेष्टा बल प्राप्त होता है। इस प्रकार स्थान, दिक्, काल, दृक, चेष्टा और नैसर्गिक - ये ६ प्रकार के बल होते हैं।"
+    },
+    {
+      "number": 26,
+      "text": "एवं ग्रहबलं प्रोक्तमथ भावबलं श‍ृणु ।\nकन्यायुग्मतुलाकुम्भचापाद्यार्धाश्च सप्तमम्",
+      "english_meaning": "Having explained Graha Bala (Planet Strength), now listen to Bhava Bala (House Strength). Virgo, Gemini, Libra, Aquarius and first half of Sagittarius are in the 7th house...",
+      "hindi_meaning": "ग्रहों का बल कहने के बाद अब भावों का बल सुनो। कन्या, मिथुन, तुला, कुम्भ और धनु का पूर्वार्द्ध ७वें भाव में..."
+    },
+    {
+      "number": 27,
+      "text": "गोऽजसिंहमृगाद्यार्धचापान्त्यार्धात् सुखं त्यजेत् ।\nकर्कवृश्चिकतो लग्नं मृगात्यार्धाज्झषाश्च खम्",
+      "english_meaning": "Rules for calculating strength of signs based on their placement in angles (Kendras) etc.",
+      "hindi_meaning": "केन्द्रों आदि में राशियों की स्थिति के आधार पर उनके बल की गणना के नियम।"
+    },
+    {
+      "number": 28,
+      "text": "शोध्यमङ्गाधिकं चक्राच्च्युतं भागीकृतं त्रिहृत् ।\nसद्दृष्टिपादयुक्पापपापदृष्टिपादविवर्जितम्",
+      "english_meaning": "Divide the result by 3, add benefic aspect, subtract malefic aspect for clear Bhava Bala.",
+      "hindi_meaning": "परिणाम को ३ से भाग दें, शुभ दृष्टि जोड़ें और पाप दृष्टि घटाने पर स्पष्ट भाव बल प्राप्त होता है।"
+    },
+    {
+      "number": 29,
+      "text": "ज्ञेज्यदृष्टियुतं तच्च स्वस्वस्वामिबलान्वितम् ।\nइति भावबलं स्पष्टं सामान्यं च पुरोदितम्",
+      "english_meaning": "Add aspects of Mercury/Jupiter and the strength of the house lord. This is the clear and general Bhava Bala.",
+      "hindi_meaning": "इसमें बुध और गुरु की दृष्टि तथा भावेश का बल जोड़ दें। यह स्पष्ट और सामान्य भाव बल है।"
+    },
+    {
+      "number": 30,
+      "text": "बुधेज्ययुक्तभावस्य बलमेकेन संयुतम् ।\nमन्दाररवियुक्तस्य बलमेकेन वर्जितम्",
+      "english_meaning": "Add 60 if house is occupied by Mercury or Jupiter. Subtract 60 if occupied by Saturn, Mars or Sun.",
+      "hindi_meaning": "यदि भाव में बुध या गुरु हो तो ६० जोड़ें। यदि शनि, मंगल या सूर्य हो तो ६० घटा दें।"
+    },
+    {
+      "number": 31,
+      "text": "दिने शीर्षोदयो भावः सन्ध्यायामुभयोदयः ।\nनिशि पृष्ठोदयाख्यश्च दद्यात् पादमितं बलम्",
+      "english_meaning": "Signs rising by head (Shirshodaya) are strong during day, those by feet (Prishthodaya) at night, and dual (Ubhayodaya) at twilight.",
+      "hindi_meaning": "शीर्षोदय राशियाँ दिन में, पृष्ठोदय रात्रि में और उभयोदय संध्याकाल में १/४ बल प्रदान करती हैं।"
+    },
+    {
+      "number": 32,
+      "text": "अंकाग्नयोऽङ्गरामाश्च खाग्नया करसिन्धवः ।\nनवाग्नयः सुरास्त्रिंशद् दशसंगुणिताः क्रमात्",
+      "english_meaning": "Thresholds for full strength of planets: Sun (390), Moon (360), Mars (300), Mercury (420), Jupiter (390), Venus (330), Saturn (300). (Wait, numbers are from shloka codes)",
+      "hindi_meaning": "ग्रहों के पूर्ण बल की सीमाएँ: सूर्य (३९०), चन्द्रमा (३६०), मंगल (३००), बुध (४२०), गुरु (३९०), शुक्र (३३०) और शनि (३००) विरूपा होती हैं।"
+    },
+    {
+      "number": 33,
+      "text": "रव्यादीनां बलैक्यश्चेत् तदा सुबलिनो मताः ।\nअधिकं पूर्णमेव स्याद् बलं चेद्बलिनो द्विज",
+      "english_meaning": "If a planet's total strength exceeds these limits, it is considered very strong and bestows full results.",
+      "hindi_meaning": "यदि किसी ग्रह का कुल बल इन सीमाओं से अधिक हो, तो वह अत्यंत बली माना जाता है और पूर्ण फल देता है।"
+    },
+    {
+      "number": 34,
+      "text": "गुरुसौम्यरवीणां तु भूतषट्केन्दवो द्विज ।\nपंचाग्नयः खभूतानि करभूमिसुधाकराः",
+      "english_meaning": "Minimum required strengths (Shadbala) for Jupiter, Mercury, Sun: 165, 135, 105 etc. (Values for Sthana, Dik, Chesta etc.)",
+      "hindi_meaning": "गुरु, बुध और सूर्य के लिए आवश्यक न्यूनतम बल (स्थान, दिक्, चेष्टा आदि में) क्रमशः १६५, १३५, १०५ आदि हैं।"
+    },
+    {
+      "number": 35,
+      "text": "खाग्नयश्च क्रमात्स्थानदिक्चेष्टासमयाऽयने ।\nसितेन्द्वोस्त्र्यग्निचन्द्राश्च खेषवः खाग्नयः शतम्",
+      "english_meaning": "Strength values for Venus and Moon in different categories: 133, 150, 100 etc.",
+      "hindi_meaning": "शुक्र और चन्द्रमा के लिए विभिन्न श्रेणियों में बल मान क्रमशः १३३, १५०, १०० आदि होते हैं।"
+    },
+    {
+      "number": 36,
+      "text": "चत्वारिंशत् कला भौममन्दयोः षण्णव क्रमात् ।\nत्रिंशत् खवेदाः सप्ताङ्गा नखाश्चेत्युदिता द्विज",
+      "english_meaning": "Strength values for Mars and Saturn: 96, 30, 40, 67, 20 etc.",
+      "hindi_meaning": "मंगल और शनि के लिए बल मान ९६, ३०, ४०, ६७, २० आदि कहे गए हैं।"
+    },
+    {
+      "number": 37,
+      "text": "एवं कृत्वा बलैक्यंच ततश्चिन्त्यम् फलं द्विज ।\nभावस्थानग्रहैः प्रोक्तयोगे ये योगहेतवः",
+      "english_meaning": "Having thus calculated the total strength, predict the effects. Among planets related to a yoga, the strongest one is the actual 'Doer' (Karta).",
+      "hindi_meaning": "इस प्रकार कुल बल की गणना करके फल का विचार करना चाहिए। किसी योग में शामिल ग्रहों में जो सबसे बली होता है, वही फल देने वाला (कर्ता) होता है।"
+    },
+    {
+      "number": 38,
+      "text": "तेषां मध्ये बली कर्ता स एवाऽस्य फलप्रदः ।\nयोगेष्वाप्तेषु बहुषु नीतिरेवं प्रकीर्तिता",
+      "english_meaning": "When many yogas are present, this policy (of the strongest planet) should be applied.",
+      "hindi_meaning": "जब अनेक योग प्राप्त हों, तो यही नीति (सबसे बली ग्रह वाली) अपनानी चाहिए।"
+    },
+    {
+      "number": 39,
+      "text": "गणितेषु प्रवीणो यः शब्दशास्त्रे कृतश्रमः ।\nन्यायविद् बुद्धिमान् देशदिक्कालज्ञो जितेन्द्रियः",
+      "english_meaning": "One who is proficient in mathematics, grammar and logic, and is intelligent and knows time and direction...",
+      "hindi_meaning": "जो गणित, व्याकरण और न्याय शास्त्र में निपुण हो, बुद्धिमान हो तथा देश, दिशा और काल का ज्ञाता हो..."
+    },
+    {
+      "number": 40,
+      "text": "ऊहापोहपटुर्होरास्कन्धश्रवणसम्मतः ।\nमैत्रेय सत्यतां यादि तस्य वाक्यं न संशयः",
+      "english_meaning": "And is expert in analyzing pros and cons, and has heard the Horas from masters - O Maitreya! His words will certainly come true.",
+      "hindi_meaning": "तथा ऊहापोह (तर्क-वितर्क) में चतुर हो और जिसने गुरुओं से होरा शास्त्र सुना हो - हे मैत्रेय! उसका वचन निश्चित रूप से सत्य सिद्ध होता है।"
+    }
+  ]
+}

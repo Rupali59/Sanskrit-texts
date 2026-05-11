@@ -1,0 +1,504 @@
+{
+  "number": 21,
+  "title": "प्रत्यन्तर्दशाफल",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अपहारविभागलक्षणं तत्पंक्तिं क्रमशः स्फुटं प्रवचिम् ।\nयदुदीरितमत्र तत्समस्तं कथयेत्स्वदशान्तरान्तरादौ",
+      "english_meaning": "I shall now clearly describe the characteristics of the sub-divisions of the periods (Antardashas) in their proper order. Whatever results have been mentioned for the planets should be applied to their respective sub-periods (Antaras) and sub-sub-periods (Pratyantaras).",
+      "hindi_meaning": "अब मैं दशाओं के उप-विभाजन (अन्तर्दशा आदि) के लक्षणों और उनके क्रम का स्पष्ट वर्णन करूँगा। ग्रहों के जो फल कहे गए हैं, उन्हें उनकी महादशा में आने वाली अन्तर्दशा और प्रत्यन्तर्दशा आदि में भी समझना चाहिए।"
+    },
+    {
+      "number": 2,
+      "text": "पाकेशाब्दहता दशेश्वरसमा नेत्राङ्कभक्ताः समाः\nशिष्ट रूपहता नराङ्कविहृता मासा नगैर्वासराः ।\nछिद्रादिष्वपि चैवमेव कलयेत्पाकक्रमाच्चेद्दशा-\nनाथाद्या पुनरन्तरान्तरदशास्तत्पाकनाथक्रमाः",
+      "english_meaning": "Multiply the total years of the Mahadasha lord by the years of the Antardasha lord. Divide by 120. The quotient gives years. Multiply the remainder by 12 and divide by 120 to get months. Multiply the new remainder by 30 and divide by 120 to get days. Similar rules apply for further sub-divisions like Pratyantardasha.",
+      "hindi_meaning": "महादशा स्वामी के वर्षों को अन्तर्दशा स्वामी के वर्षों से गुणा करें और १२० से भाग दें। लब्धि वर्ष होंगे। शेष को १२ से गुणा कर १२० से भाग देने पर मास और पुनः शेष को ३० से गुणा कर १२० से भाग देने पर दिन प्राप्त होते हैं। इसी प्रकार प्रत्यन्तर्दशा आदि की भी गणना करनी चाहिए।"
+    },
+    {
+      "number": 3,
+      "text": "सूर्य\nमहीश्वरादुपलभतेऽधिकं यशो\nवनाचलस्थलवसतिं धनागमम् ।\nज्वरोष्णरुग्जनकवियोगजं भयं\nनिजां दशां प्रविशति नीक्षणदीधितौ",
+      "english_meaning": "During the Sun's own sub-period in its Mahadasha, the native gains great fame from the ruler, wealth, and may reside in forests or mountains. There is fear from fever, heat-related diseases, and separation from father/elders.",
+      "hindi_meaning": "सूर्य की महादशा में अपनी ही अन्तर्दशा में जातक को राजा से यश और धन प्राप्त होता है, वन या पर्वतों में निवास हो सकता है। ज्वर, उष्ण रोग और पिता या बड़ों से वियोग का भय रहता है।"
+    },
+    {
+      "number": 4,
+      "text": "रिपुक्षयो व्यसनशमो धनागमः\nकृषिक्रिया गृहकरणं सुहृद्युतिः\nक्षयानलप्रतिहतिरकर्दायकं\nशशी यदा हरति जलोद्भवा रुजः",
+      "english_meaning": "Moon in Sun: Destruction of enemies, end of sorrows, gain of wealth, success in agriculture, building of a house, and meeting with friends. If the Moon is weak, there may be water-borne diseases.",
+      "hindi_meaning": "सूर्य की महादशा में चन्द्रमा की अन्तर्दशा में शत्रुओं का नाश, दुखों की शांति, धन लाभ, कृषि में सफलता, गृह-निर्माण और मित्रों का मिलन होता है। जल-जनित रोगों का भय संभव है।"
+    },
+    {
+      "number": 5,
+      "text": "रुजागमः पदविरहोऽरिपीडनं\nवर्णोद्भवः स्वकुलजनैर्वरोधिता\nमहीभृतो भवति भयं धनच्युति\nयर्दा कुजो हरति तद्ऽर्कर्वत्सरम्",
+      "english_meaning": "Mars in Sun: Arrival of diseases, loss of position, trouble from enemies, skin diseases, disputes with family members, fear from the ruler, and loss of wealth.",
+      "hindi_meaning": "सूर्य की महादशा में मंगल की अन्तर्दशा में रोगों का आगमन, पद-च्युति, शत्रुओं से पीड़ा, चर्म रोग, स्वजनों से विरोध, राजा से भय और धन की हानि होती है।"
+    },
+    {
+      "number": 6,
+      "text": "रिपूदयो धनहृतिरापदुद्गमो\nविषाद्भयं विषयविमूढता पुनः\nशिरोदृशोरधिकरुगेव देहिनाम्\nअहौ भवेधिमककरायुन्तरों",
+      "english_meaning": "Rahu in Sun: Rise of enemies, loss of wealth, onset of calamities, fear of poison, confusion of mind, and severe pain in the head and eyes.",
+      "hindi_meaning": "सूर्य की महादशा में राहु की अन्तर्दशा में शत्रुओं का उदय, धन की हानि, विपत्तियों का आगमन, विष का भय, मतिभ्रम और सिर तथा नेत्रों में तीव्र पीड़ा होती है।"
+    },
+    {
+      "number": 7,
+      "text": "रिपुक्षयो विविधधनाप्तिरन्वहं\nसुरार्चनं द्विजगुरुबन्धुपूजनम् ।\nश्रवःश्रमो भवति च यक्ष्मरोगिता\nसुराचिंते प्रविशति गोपशति गोपतेर्दशाम्",
+      "english_meaning": "Jupiter in Sun: Destruction of enemies, daily gain of various wealth, devotion to gods, and honoring of Brahmins, gurus, and relatives. Possible ear or pulmonary issues.",
+      "hindi_meaning": "सूर्य की महादशा में गुरु की अन्तर्दशा में शत्रुओं का नाश, प्रतिदिन धन लाभ, देव-पूजन और ब्राह्मण, गुरु तथा बन्धुओं का सम्मान होता है। कानों में कष्ट या श्वास रोग संभव है।"
+    },
+    {
+      "number": 8,
+      "text": "धनाहतिः सुतविरहः स्त्रिया रुजो\nगुरुव्ययः सपदि परिच्छदच्युतिः ।\nमलिष्ठता भवति कफप्रपीदनं\nशनैश्चरे सवितृदशान्तरं गते",
+      "english_meaning": "Saturn in Sun: Loss of wealth, separation from children, illness to wife, heavy expenses, sudden loss of belongings, and phlegmatic diseases.",
+      "hindi_meaning": "सूर्य की महादशा में शनि की अन्तर्दशा में धन की हानि, पुत्र वियोग, पत्नी को रोग, भारी व्यय, सामान की अचानक हानि और कफ रोगों की अधिकता होती है।"
+    },
+    {
+      "number": 9,
+      "text": "विचञ्चिका पिटकसकुष्ठकामिला\nविशर्धनं जठरकटिप्रपीडनम् ।\nमहीक्षयः त्रिगदभयं भवेत्तदा\nविधोः सुते चरति रवेरथाब्दकम्",
+      "english_meaning": "Mercury in Sun: Skin diseases like itching or leprosy, jaundice, gain of wealth, pain in the stomach and waist, loss of land, and fear from Tridosha.",
+      "hindi_meaning": "सूर्य की महादशा में बुध की अन्तर्दशा में खुजली, कोढ़ या पीलिया जैसे चर्म रोग, धन लाभ, पेट और कमर में पीड़ा, भूमि की हानि और त्रिदोष का भय होता है।"
+    },
+    {
+      "number": 10,
+      "text": "सुहृव्द्ययुः स्वजनकुटुम्बविग्रहो\nरिपोर्भयं धनहरणं पदच्युतिः ।\nगुरोर्गदश्चरणशिरोरुगुच्चकैः\nशिखी यदा विशति दशां विवस्वतः",
+      "english_meaning": "Ketu in Sun: Meeting with friends, disputes with family members, fear of enemies, loss of wealth, loss of position, and severe pain in the feet and head.",
+      "hindi_meaning": "सूर्य की महादशा में केतु की अन्तर्दशा में मित्रों से मिलन, स्वजनों से कलह, शत्रुओं का भय, धन की हानि, पद-च्युति और पैरों तथा सिर में तीव्र पीड़ा होती है।"
+    },
+    {
+      "number": 11,
+      "text": "शिरोरुजा जठरगुदातिंपीडनं\nकृषिक्रिया गृहधनधन्यविच्युतिः ।\nसुतस्त्रियोरसुखमतीव देहिनां\nभृगोः सुते चरति रवेरथाब्दकम्",
+      "english_meaning": "Venus in Sun: Headache, pain in the stomach and rectum, failure in agriculture, loss of wealth, grains, and house, and great unhappiness regarding wife and children.",
+      "hindi_meaning": "सूर्य की महादशा में शुक्र की अन्तर्दशा में सिरदर्द, पेट और गुदा रोग, कृषि में असफलता, धन-धान्य और गृह की हानि तथा स्त्री-पुत्र के कारण अत्यधिक दुख होता है।"
+    },
+    {
+      "number": 12,
+      "text": "चन्द्र-विचार\nस्त्रीप्रजाप्तिरमलांशुकागमो\nभूसुरोत्तमसमागमो भवेत् ।\nमातुरिष्टफलमङ्गनासुखं\nस्वां दशां विशति शीतदीधितौ",
+      "english_meaning": "Moon in Moon: Birth of a daughter, gain of clean clothes, association with excellent Brahmins, happiness for mother, and domestic pleasure.",
+      "hindi_meaning": "चन्द्रमा की महादशा में अपनी ही अन्तर्दशा में जातक को कन्या रत्न की प्राप्ति, स्वच्छ वस्त्रों का लाभ, श्रेष्ठ ब्राह्मणों का संग, माता को सुख और पारिवारिक प्रसन्नता मिलती है।"
+    },
+    {
+      "number": 13,
+      "text": "पित्तवह्निरुधिरोद्भवा रुजः\nक्लेशदुःखरिपुचोरपीडनम् ।\nवित्तमानविहतिर्भवेत्कुजे\nशीतदीधितिदशान्तरं गते",
+      "english_meaning": "Mars in Moon: Diseases related to bile, fire, and blood; distress, sorrow, and trouble from enemies and thieves; loss of wealth and honor.",
+      "hindi_meaning": "चन्द्रमा की महादशा में मंगल की अन्तर्दशा में पित्त, अग्नि और रक्त सम्बन्धी रोग; क्लेश, दुख, शत्रुओं और चोरों से पीड़ा; तथा धन और मान की हानि होती है।"
+    },
+    {
+      "number": 14,
+      "text": "तीव्रदोषरिपुवृद्धिबन्धुरुङ् मारुताशनिभयातिरुद्भवेत् ।\nअन्नपानजनितज्वरोदयाश्चन्द्रवत्सरविहारके ह्यहौ",
+      "english_meaning": "Rahu in Moon: Increase of severe diseases and enemies, illness to relatives, fear from wind and lightning, and fever caused by improper food and drink.",
+      "hindi_meaning": "चन्द्रमा की महादशा में राहु की अन्तर्दशा में तीव्र रोगों और शत्रुओं की वृद्धि, बन्धुओं को कष्ट, वायु और बिजली का भय तथा खान-पान के दोष से उत्पन्न ज्वर होता है।"
+    },
+    {
+      "number": 15,
+      "text": "दानधर्मनिरतिः सुखोदयो वस्त्रभूषणसुहृत्समागमः ।\nराजसत्कृतिरतीव जायते कैरवप्रियवयोहरे गुरऊ",
+      "english_meaning": "Jupiter in Moon: Devotion to charity and religion, rise of happiness, gain of clothes, ornaments, and friends, and great honor from the king.",
+      "hindi_meaning": "चन्द्रमा की महादशा में गुरु की अन्तर्दशा में दान और धर्म में रुचि, सुख का उदय, वस्त्र, आभूषण और मित्रों का लाभ तथा राजा से बड़ा सम्मान प्राप्त होता है।"
+    },
+    {
+      "number": 16,
+      "text": "नैकरोगविहतिः सुहृत्सुत-\nस्त्रीरुजा व्यसनसंभवो महान् ।\nप्राणहानिरथवा भवेच्छनौ\nमारबन्धुवयसो गतेऽन्तरम्",
+      "english_meaning": "Saturn in Moon: Destruction by many diseases, illness to friends, children, and wife, great calamities, or even danger to life.",
+      "hindi_meaning": "चन्द्रमा की महादशा में शनि की अन्तर्दशा में अनेक रोगों से पीड़ा, मित्र, पुत्र और पत्नी को कष्ट, भारी विपत्तियाँ या प्राणों का संकट हो सकता है।"
+    },
+    {
+      "number": 18,
+      "text": "सर्वदा धनगजाश्वगोकुल-\nप्राप्तिराभरणसौख्यसम्पदः ।\nचित्तबोध इति जायते विधो-\nरायुषि प्रवेशति प्रबोधने ॥ १७\nचित्तहानिरपि सपदश्च्युति-\nर्बन्धुहानिरपि तोयजं भयम् ।\nदासभृत्यहतिरस्ति देहिनां\nकेतुके हरति चान्द्रमब्दकम्",
+      "english_meaning": "Mercury in Moon: Constant gain of wealth, elephants, horses, and cattle; gain of ornaments, happiness, and intellectual growth. Ketu in Moon: Loss of mental peace and wealth, loss of relatives, fear from water, and loss of servants.",
+      "hindi_meaning": "चन्द्रमा में बुध: सदैव धन, हाथी, घोड़े और गौओं की प्राप्ति; आभूषण, सुख और समृद्धि का लाभ तथा बुद्धि का विकास। चन्द्रमा में केतु: मानसिक शांति और धन की हानि, बन्धुओं का वियोग, जल से भय और सेवकों की हानि।"
+    },
+    {
+      "number": 19,
+      "text": "तोययानवसुभूषणाङ्गनाविक्रयक्रयकृषिक्रियादयः ।\nपुत्रमित्रपशुधान्यसंयुतिश्चन्द्रदायहरणोन्मुखे भृगौ",
+      "english_meaning": "Venus in Moon: Transactions involving water-vehicles, lands, ornaments, and women; gain of sons, friends, cattle, and grains.",
+      "hindi_meaning": "चन्द्रमा की महादशा में शुक्र की अन्तर्दशा में जल-वाहन, भूमि, आभूषण और स्त्रियों से जुड़े कार्य; पुत्र, मित्र, पशु और धान्य की प्राप्ति होती है।"
+    },
+    {
+      "number": 20,
+      "text": "राजमाननमतीव शूरता रोगशान्तिररिपक्षविच्युतिः ।\nपित्तवातरुगिने गते तदा स्याच्छशाङ्कपरिवत्सरान्तरम्",
+      "english_meaning": "Sun in Moon: Honor from the king, great valor, end of diseases, and removal of enemies; however, some bile and wind ailments may occur.",
+      "hindi_meaning": "चन्द्रमा की महादशा में सूर्य की अन्तर्दशा में राजा से सम्मान, अत्यधिक वीरता, रोगों की शांति और शत्रुओं का नाश होता है; किन्तु पित्त और वायु विकार संभव हैं।"
+    },
+    {
+      "number": 21,
+      "text": "मंगल की महादशा में विविध अन्तर्दशों का फल\nपित्तोष्णरुग्व्रणभयं सहजैवियोगः\nक्षेत्रप्रवादजनितार्थविभूतिसिद्धिः ।\nज्ञात्यग्निशत्रुनृपचोरजनैविरोधो\nधात्रीसुतो हरति चेच्छरदं स्वकीयाम्",
+      "english_meaning": "Mars in Mars: Fear of bile, heat, diseases, and wounds; separation from brothers; gain of land and wealth; however, there is friction with kin, fire, enemies, and thieves.",
+      "hindi_meaning": "मंगल की महादशा में अपनी ही अन्तर्दशा में पित्त, उष्णता, रोग और व्रण (घाव) का भय, भाइयों का वियोग; भूमि और धन की प्राप्ति; किन्तु स्वजनों, अग्नि, शत्रु और चोरों से विरोध रहता है।"
+    },
+    {
+      "number": 22,
+      "text": "शस्त्राग्निचोररिपुभूपभयं विषातिः\nशुक्ष्यक्षिशीर्षजगदो गुरुबन्धुहानिः ।\nप्राणव्ययोऽथ यदिवा विपुलापदो वा\nवक्रायुरन्तरगते भुजगाधिनाथे",
+      "english_meaning": "Rahu in Mars: Fear of weapons, fire, thieves, enemies, and king; danger from poison; ailments of eyes and head; loss of guru or relatives; and risk to life or great calamities.",
+      "hindi_meaning": "मंगल की महादशा में राहु की अन्तर्दशा में शस्त्र, अग्नि, चोर, शत्रु और राजा से भय; विष का संकट; नेत्र और सिर के रोग; गुरु या बन्धुओं की हानि; तथा प्राण-संकट या भारी विपत्ति होती है।"
+    },
+    {
+      "number": 23,
+      "text": "द्विजविबुधसमर्चा तिर्थपुण्यानुसेवा\nसततमतिथिपूजा पुत्रमित्रादिवृद्धिः ।\nश्रवणरुगतिमात्रं श्लेष्मरोगोद्भवो वा\nभवतिकुजदशान्तः संगते वागधीशे",
+      "english_meaning": "Jupiter in Mars: Worship of gods and Brahmins; visiting holy places; hospitality to guests; increase in sons and friends; possible ear or phlegmatic diseases.",
+      "hindi_meaning": "मंगल की महादशा में गुरु की अन्तर्दशा में देवताओं और ब्राह्मणों का पूजन; तीर्थ यात्रा; अतिथियों की सेवा; पुत्रों और मित्रों की वृद्धि; तथा कान या कफ के रोग हो सकते हैं।"
+    },
+    {
+      "number": 24,
+      "text": "उपर्युपरिविनाशः स्वात्मजस्त्रीगुरूणा-\nमगणितविपदन्तर्दुःखमर्थोपहानिः ।\nवसुहरणमरिभ्यो भीतिरुष्णानिलाग्नि-\nर्भवति कुजदशायामर्कजे सम्प्रयाते",
+      "english_meaning": "Saturn in Mars: Continuous destruction of children, wife, and gurus; countless calamities and sorrows; loss of wealth; fear from thieves, heat, wind, and fire.",
+      "hindi_meaning": "मंगल की महादशा में शनि की अन्तर्दशा में पुत्र, पत्नी और गुरुजनों का निरंतर नाश; अनगिनत विपत्तियाँ और मानसिक दुख; धन की हानि; तथा चोर, उष्णता, वायु और अग्नि से भय होता है।"
+    },
+    {
+      "number": 25,
+      "text": "अरिभयमुरुचोरोपद्रवोऽथार्थहानिः\nपशुगजतुरगाणां विप्लवोऽमित्रयोगः ।\nनृपकृतपरिपीडा शूद्रवैरोद्भवो वा\nविशति शशितनूजे विष्वधात्रीसुतायुः",
+      "english_meaning": "Mercury in Mars: Fear of enemies, trouble from thieves, loss of wealth, loss of cattle/horses, association with enemies, and trouble from the king or low-born people.",
+      "hindi_meaning": "मंगल की महादशा में बुध की अन्तर्दशा में शत्रुओं का भय, चोरों का उपद्रव, धन की हानि, पशुओं का विनाश, शत्रुओं का संग और राजा या नीच जनों से पीड़ा होती है।"
+    },
+    {
+      "number": 26,
+      "text": "अशनिभयमकस्मादग्निशस्त्रप्रपीडा\nविगमनमथ देहाद्वित्तनाशोऽथवा स्यात् ।\nअपगमनमसुभ्यो योषितो वा विनाशः\nप्रविशति यदि केतुः क्रूरनेत्रायुरन्तम्",
+      "english_meaning": "Ketu in Mars: Sudden fear from lightning, fire, or weapons; death or loss of wealth; loss of wife or great physical danger.",
+      "hindi_meaning": "मंगल की महादशा में केतु की अन्तर्दशा में बिजली, अग्नि या शस्त्र से अचानक भय; मृत्यु या धन का नाश; स्त्री का विनाश या भारी शारीरिक संकट होता है।"
+    },
+    {
+      "number": 27,
+      "text": "युधि जनितविमानं विप्रवासः स्वदेशा-\nद्वसुहृतिरपि चोरैर्वमनेत्रोपरोधः ।\nपरिजनपरिहानिर्जायते मानवाना-\nमपहरति यदायुर्भौमिजं भार्गवेन्द्रः",
+      "english_meaning": "Venus in Mars: Dishonor in battle; exile from one's country; loss of wealth by thieves; trouble in eyes; and loss of family members.",
+      "hindi_meaning": "मंगल की महादशा में शुक्र की अन्तर्दशा में युद्ध में अपमान; देश-निकाला; चोरों द्वारा धन की हानि; नेत्रों में कष्ट; और परिजनों का वियोग होता है।"
+    },
+    {
+      "number": 28,
+      "text": "नृपकृतपरिपूजा यद्धलब्धप्रभावः\nपरिजनधनधान्यश्रीमदन्तःपुरं च ।\nअतिविलसितकृत्तः साहसादाप्तलक्ष्मी-\nस्तिमिरभिदि कुजायुर्दायसंहारिणीति",
+      "english_meaning": "Sun in Mars: Honor from the king; influence gained through success; gain of servants, wealth, grains, and domestic prosperity; wealth through bold actions.",
+      "hindi_meaning": "मंगल की महादशा में सूर्य की अन्तर्दशा में राजा से सम्मान; विजय द्वारा प्रभाव की प्राप्ति; सेवक, धन, धान्य और घर की समृद्धि; तथा साहसिक कार्यों से लक्ष्मी की प्राप्ति होती है।"
+    },
+    {
+      "number": 29,
+      "text": "विविधधनसुताप्तिविप्रयोगोऽरिवर्गै-\nर्वसनशयनभूषारत्नसम्पत्प्रसूतिः ।\nभवति गुरुजनातिर्गुल्मपित्तप्रपीडा\nधरणितनयवर्षं शीतगौ सम्प्रयाते",
+      "english_meaning": "Moon in Mars: Gain of various wealth and children; separation from enemies; gain of clothes, beds, ornaments, and gems; trouble to elders or spleen/bile ailments.",
+      "hindi_meaning": "मंगल की महादशा में चन्द्रमा की अन्तर्दशा में विविध धन और पुत्र की प्राप्ति; शत्रुओं से छुटकारा; वस्त्र, शैया, आभूषण और रत्नों का लाभ; किन्तु बड़ों को कष्ट या गुल्म और पित्त रोग संभव हैं।"
+    },
+    {
+      "number": 30,
+      "text": "राहु की महादशा में विविध अन्तर्दशों का फल\nविषाम्बुरुग्दुष्टभुजङ्गदर्शनं\nपराबलासंयुतिरिष्टविच्युतिः ।\nअरिष्टवाग्दुष्टजनव्यथा\nभवेद्विधुंतुदेनापहृते स्ववत्सरे",
+      "english_meaning": "Rahu in Rahu: Fear of poison, water, diseases, and sight of wicked snakes; separation from powerful people and loss of desires; trouble from harsh speech and wicked persons.",
+      "hindi_meaning": "राहु की महादशा में अपनी ही अन्तर्दशा में विष, जल, रोगों और दुष्ट साँपों का भय; शक्तिशाली लोगों से वियोग और अभीष्ट की हानि; कटु वचन और दुष्ट जनों से पीड़ा होती है।"
+    },
+    {
+      "number": 31,
+      "text": "सुखोपनीतिः सुरविप्रपूजनं\nविरोगता वामदृशां समागमः ।\nसुपुण्यशास्त्रर्थविचारसम्भवः\nसुरारिदायान्तगे बृहस्पतौ",
+      "english_meaning": "Jupiter in Rahu: Arrival of comfort; worship of gods and Brahmins; freedom from diseases; association with beautiful women; and study of auspicious scriptures.",
+      "hindi_meaning": "राहु की महादशा में गुरु की अन्तर्दशा में सुख की प्राप्ति; देवताओं और ब्राह्मणों का पूजन; निरोगता; सुन्दर स्त्रियों का संग; और शुभ शास्त्रों के विचार का अवसर मिलता है।"
+    },
+    {
+      "number": 32,
+      "text": "समीरपित्तप्रगदक्षतिस्तनौ\nतनूजयोषित्सहजैश्च विग्रहः ।\nस्वभृत्यनाशश्च पदच्युतिर्भवेत्-\nदितिप्रजायुः प्रविस्शत्यथार्कजे",
+      "english_meaning": "Saturn in Rahu: Diseases of wind and bile; injury to the body; friction with children, wife, and brothers; loss of servants and loss of position.",
+      "hindi_meaning": "राहु की महादशा में शनि की अन्तर्दशा में वायु और पित्त जनित रोग; शरीर में चोट; पुत्र, पत्नी और भाइयों से कलह; सेवकों का नाश और पद की हानि होती है।"
+    },
+    {
+      "number": 33,
+      "text": "सुतस्वसिद्धिः सुहृदां समागमो\nमनोविनिन्द्यत्वमतीव जायते ।\nपटुक्रियाभूषणकौशलादयो\nभुजङ्गसंवत्सरहारिणीन्दुजे",
+      "english_meaning": "Mercury in Rahu: Success in children and wealth; meeting with friends; although some mental anxiety exists, there is skill in work and gain of ornaments.",
+      "hindi_meaning": "राहु की महादशा में बुध की अन्तर्दशा में पुत्र और धन की प्राप्ति; मित्रों से मिलन; यद्यपि मानसिक चिंता बनी रहती है, फिर भी कार्यों में कुशलता और आभूषणों का लाभ होता है।"
+    },
+    {
+      "number": 34,
+      "text": "ज्वराग्निशस्त्रारिभयं शिरोरुजा\nशरीरकम्पः स्वसुहृद्गुरुव्यथा ।\nविषव्रणातिः कलहः सुहृज्जनै-\nरहीन्द्रदायान्तरगे शिखाधरे",
+      "english_meaning": "Ketu in Rahu: Fear of fever, fire, weapons, and enemies; headache; trembling of the body; trouble to friends and gurus; ulcers and disputes with kin.",
+      "hindi_meaning": "राहु की महादशा में केतु की अन्तर्दशा में ज्वर, अग्नि, शस्त्र और शत्रुओं का भय; सिरदर्द; शरीर में कंपन; मित्रों और गुरुओं को कष्ट; विषैले घाव और स्वजनों से कलह होती है।"
+    },
+    {
+      "number": 35,
+      "text": "कलत्रलब्धिः शयनोपचारता\nतुरङ्गमातङ्गमहीसमागमः ।\nकफानिलाप्तिः स्वजनैविरोधिता\nभवेद्भुजङ्गायुरपाहृतौ भृगोः",
+      "english_meaning": "Venus in Rahu: Gain of wife; luxurious beds and treatments; gain of horses, elephants, and land; however, some phlegm and wind ailments and friction with kin may occur.",
+      "hindi_meaning": "राहु की महादशा में शुक्र की अन्तर्दशा में स्त्री लाभ; विलासी शैया और सुख-सुविधाएँ; घोड़े, हाथी और भूमि की प्राप्ति; किन्तु कफ-वायु विकार और स्वजनों से विरोध संभव है।"
+    },
+    {
+      "number": 36,
+      "text": "अरिवव्यथा स्यादतिपीडनं\nदृशोविंषाग्निशस्त्राहतिरापदुद्गमः ।\nवधूसुतातिर्नृपतेर्महद्भयं\nभुजङ्गवर्षे तिमिरारिणा हृते",
+      "english_meaning": "Sun in Rahu: Distress from enemies; great trouble to eyes; injury from poison, fire, or weapons; onset of calamities; trouble to wife/children and great fear from the ruler.",
+      "hindi_meaning": "राहु की महादशा में सूर्य की अन्तर्दशा में शत्रुओं से पीड़ा; नेत्रों में भारी कष्ट; विष, अग्नि या शस्त्र से चोट; विपत्तियों का उदय; स्त्री-पुत्र को कष्ट और राजा से बड़ा भय होता है।"
+    },
+    {
+      "number": 37,
+      "text": "वधूविनाशः कलहो मनोरुजा\nकृषिक्रयावित्तपशुप्रजाक्षयः ।\nसुहृद्विपत्तिः सलिलाद्भयं भवे-\nद्विधौ दशाभक्तरि देवविद्विधः",
+      "english_meaning": "Moon in Rahu: Destruction of wife; disputes; mental agony; loss in agriculture, wealth, cattle, and progeny; calamity to friends and fear from water.",
+      "hindi_meaning": "राहु की महादशा में चन्द्रमा की अन्तर्दशा में स्त्री का विनाश; कलह; मानसिक संताप; कृषि, धन, पशु और संतान की हानि; मित्रों पर विपत्ति और जल से भय होता है।"
+    },
+    {
+      "number": 38,
+      "text": "नृपाग्निचोरास्त्रभयं शरीरिणां\nशरीरनाशो यदि वा महारुजः ।\nपदभ्रमो हृन्नयनप्रपीडनं\nयदात्र सर्पयुषि संचरेत्कुजः",
+      "english_meaning": "Mars in Rahu: Fear from the king, fire, thieves, and weapons; destruction of body or great diseases; wandering from position; and pain in the heart and eyes.",
+      "hindi_meaning": "राहु की महादशा में मंगल की अन्तर्दशा में राजा, अग्नि, चोर और शस्त्र का भय; शरीर का नाश या महा-रोग; पद से भटकाव; और हृदय तथा नेत्रों में पीड़ा होती है।"
+    },
+    {
+      "number": 39,
+      "text": "बृहस्पति की महादशा में विविध अन्तर्दशों का फल\nसौभाग्यकान्तितबहुमानगुणोदयः\nस्यात्सत्पुत्रसिद्धिरवनीपतिपूजनं च ।\nआचार्यसाधुजनसंयुतिरिष्टसिद्धिः\nसवत्सरं हरति देवगुरौ स्वकीयम्",
+      "english_meaning": "Jupiter in Jupiter: Arrival of good fortune, honor, and virtues; success in obtaining sons; honor from the king; association with acharyas and holy persons; and fulfillment of desires.",
+      "hindi_meaning": "गुरु की महादशा में अपनी ही अन्तर्दशा में सौभाग्य, सम्मान और गुणों का उदय; सुपुत्र की प्राप्ति; राजा से सम्मान; आचार्यों और साधु जनों का संग; तथा अभीष्ट कार्यों की सिद्धि होती है।"
+    },
+    {
+      "number": 40,
+      "text": "वेश्याङ्गनामदकृदासवदोषसङ्ग\nउत्कर्षसौख्यसकुटुम्बपशुप्रपीडा ।\nअर्थव्ययोरुभयमक्षिजरुक्सुताति\nजैवीं दशां विशति दैनकरे नराणाम्",
+      "english_meaning": "Sun in Jupiter: Rise of pride; indulgence in pleasures; success and happiness with family; however, some trouble to cattle and kin; waste of wealth; and fear of eye diseases.",
+      "hindi_meaning": "गुरु में सूर्य: गर्व की वृद्धि; विलासिता और प्रमोद; कुटुम्ब के साथ सुख और उन्नति; किन्तु पशुओं और स्वजनों को कष्ट; धन का व्यय; तथा नेत्र रोगों का भय रहता है।"
+    },
+    {
+      "number": 41,
+      "text": "स्त्रीद्यूतमद्यजमहाव्यसनं त्रिदोषैः\nकेचिद्वदन्त्यपि च केवलमङ्गलाप्तिः ।\nदेवद्विजार्चनसुतार्थसुखप्रयोगै-\nर्गीवर्णपूजितदशां हरतीन्दुसूतौ",
+      "english_meaning": "Mercury in Jupiter: Indulgence in gambling, women, and wine; or great auspiciousness; gain of wealth and happiness through worship of gods and Brahmins.",
+      "hindi_meaning": "गुरु में बुध: जुआ, स्त्री और मद्य का व्यसन; अथवा अत्यधिक शुभ फल; देव-ब्राह्मण पूजन से धन और सुख की प्राप्ति।"
+    },
+    {
+      "number": 42,
+      "text": "शस्त्रव्रणं भवति भृत्यजनैविरोध-\nश्चित्तव्यथा तनययोषिदुपद्रवश्च ।\nप्रणच्युतिर्गुरुसुहृज्जनविप्रयोगः\nसौरेड्यमायुरपहृत्य ददाति केतुः",
+      "english_meaning": "Ketu in Jupiter: Wounds from weapons; friction with servants; mental agony; trouble to children and wife; loss of position; and separation from gurus and friends.",
+      "hindi_meaning": "गुरु में केतु: शस्त्रों से घाव; सेवकों से विरोध; मानसिक संताप; संतान और स्त्री को कष्ट; पद की हानि; तथा गुरुओं और मित्रों से वियोग।"
+    },
+    {
+      "number": 43,
+      "text": "नानाविधार्थपशुधान्यपरिच्छदस्त्री-\nपुत्रान्नपानशयनाम्बरभूषणाप्तिः ।\nदेवद्विजार्चनमुपासनतत्परत्व-\nमायुर्यदा हरति जैवमथासुरेड्यः",
+      "english_meaning": "Venus in Jupiter: Gain of various wealth, cattle, grains, wife, and children; gain of good food, beds, and ornaments; devotion to gods and Brahmins.",
+      "hindi_meaning": "गुरु में शुक्र: विविध धन, पशु, धान्य, स्त्री और पुत्र की प्राप्ति; उत्तम भोजन, शैया और आभूषणों का लाभ; देव-ब्राह्मणों के प्रति भक्ति।"
+    },
+    {
+      "number": 44,
+      "text": "शत्रोर्जयः क्षितिपमाननकीर्तिलाभः\nस्याच्चण्डता नरतुरङ्गमवाहनाप्तिः ।\nश्रेण्यग्रहारपुरराष्ट्रसमस्तसम्पद\nदुच्चैरुचथ्यसहजायुरपाहृतेऽर्के",
+      "english_meaning": "Sun in Jupiter: Victory over enemies; honor from the king and fame; great valor; gain of horses and vehicles; and control over lands and cities.",
+      "hindi_meaning": "गुरु में सूर्य: शत्रुओं पर विजय; राजा से सम्मान और कीर्ति का लाभ; अत्यधिक वीरता; घोड़ों और वाहनों की प्राप्ति; तथा भूमि और नगरों पर अधिकार।"
+    },
+    {
+      "number": 45,
+      "text": "योषिद्बहुत्वमरिनाशनमर्थलाभः\nकृष्यर्थवस्तुपरमोन्नतकीर्तिलाभः ।\nदवद्विजार्चनपरत्वमतीव पुंसां\nसंजायते गुरुदशाहृति शर्वरीशे",
+      "english_meaning": "Moon in Jupiter: Domestic happiness; destruction of enemies; gain of wealth; success in agriculture and great fame; and deep devotion to gods and Brahmins.",
+      "hindi_meaning": "गुरु में चन्द्रमा: अत्यधिक पारिवारिक सुख; शत्रुओं का नाश; धन लाभ; कृषि में सफलता और बड़ी कीर्ति की प्राप्ति; तथा देव-ब्राह्मणों में अटूट श्रद्धा।"
+    },
+    {
+      "number": 46,
+      "text": "बन्धूपतोषणमरिव्रजतोऽर्थलाभः\nसुक्षेत्रसत्कृतिरिह प्रथितप्रभावः\nइर्षद्गुरूपहतिरीक्षणसुक्षतिर्वा\nक्षित्यात्मजे हरति वत्सरमार्यजातम्",
+      "english_meaning": "Mars in Jupiter: Happiness to relatives; gain of wealth from enemies; success in lands; influence; but some trouble to elders or eye ailments.",
+      "hindi_meaning": "गुरु में मंगल: बन्धुओं को प्रसन्नता; शत्रुओं से धन लाभ; भूमि कार्यों में सफलता; प्रभाव की वृद्धि; किन्तु बड़ों को कष्ट या नेत्र पीड़ा संभव है।"
+    },
+    {
+      "number": 47,
+      "text": "बन्धूपतप्तिरुरुमानसरुग्गदार्ति-\nश्चोराद्भयं गुरुगदो जठरोद्भवो वा ।\nराजेन्द्रपीडनमरिव्यसनं स्वनाशः\nसम्पद्यते हरति सूरिदशां सुरारौ",
+      "english_meaning": "Rahu in Jupiter: Distress to relatives; severe mental agony and diseases; fear of thieves; ailments of the guru or stomach issues; and trouble from the king.",
+      "hindi_meaning": "गुरु में राहु: बन्धुओं को कष्ट; भारी मानसिक संताप और रोग; चोरों का भय; गुरु को कष्ट या उदर रोग; तथा राजा से पीड़ा होती है।"
+    },
+    {
+      "number": 48,
+      "text": "शनि को महादशा में विविध अन्तर्दशों का फल\nकृषिवृद्धभृत्यमहिषाभ्युदयः\nपवनामयो वृषलजातिधनम् ।\nस्थविराङ्गनाप्तिरलसत्वमघो\nनिजवत्सरान्तरगते रविजे",
+      "english_meaning": "Saturn in Saturn: Success in agriculture; increase in servants and cattle; ailments of wind; gain of wealth from lower classes; association with elderly women; and laziness.",
+      "hindi_meaning": "शनि की महादशा में अपनी ही अन्तर्दशा में कृषि में सफलता; सेवकों और पशुओं की वृद्धि; वायु विकार; नीच जनों से धन लाभ; वृद्ध स्त्रियों का संग और आलस्य रहता है।"
+    },
+    {
+      "number": 49,
+      "text": "सुभगत्वमस्ति सुखित वनिता\nनृपलालनं विजयमित्रयुतिः\nत्रिगदोद्भवः सहजपुत्ररुजा\nशनिदायहारिणि शशाङ्कसुते",
+      "english_meaning": "Mercury in Saturn: Attainment of charm; happiness with wife; affection from the king; victory and meeting with friends; however, some ailments of the three humors and trouble to brothers/children may occur.",
+      "hindi_meaning": "शनि की महादशा में बुध की अन्तर्दशा में आकर्षण की प्राप्ति; स्त्री सुख; राजा का स्नेह; विजय और मित्रों का मिलन; किन्तु त्रिदोष जनित रोग और भाइयों या पुत्रों को कष्ट संभव है।"
+    },
+    {
+      "number": 50,
+      "text": "मरुदग्निपीडनमरिव्यसनं\nसुतदारविग्रमतिः सततम् ।\nअशुभावलोकनमहेश्च भयं\nमृदुवत्सरं हरति केतुपतौ",
+      "english_meaning": "Ketu in Saturn: Trouble from wind and fire; distress from enemies; constant friction with children and wife; sight of inauspicious things; and fear of snakes.",
+      "hindi_meaning": "शनि की महादशा में केतु की अन्तर्दशा में वायु और अग्नि से पीड़ा; शत्रुओं से संताप; पुत्र और स्त्री से निरंतर कलह; अशुभ वस्तुओं का दर्शन और साँपों का भय होता है।"
+    },
+    {
+      "number": 51,
+      "text": "सुहृदङ्गनातनयसौख्ययुतः\nकृषितोययानजनितार्थचयः ।\nशुभकीर्तिरुद्भवति देहभृतां\nयमदायहारिणि भृगोस्तनये",
+      "english_meaning": "Venus in Saturn: Happiness with friends, wife, and children; accumulation of wealth from agriculture and water-related trades; and gain of good fame.",
+      "hindi_meaning": "शनि की महादशा में शुक्र की अन्तर्दशा में मित्रों, स्त्री और पुत्रों का सुख; कृषि और जल-सम्बन्धी कार्यों से धन का संचय; तथा उत्तम कीर्ति की प्राप्ति होती है।"
+    },
+    {
+      "number": 52,
+      "text": "मरणं तु वा रिपुभयं सततं\nगुरुवर्गरुग्जठरनेत्ररुजा ।\nधनधान्यविच्युतिरिह प्रभवेत्-\nरविजायुराविशति तीव्रकरे",
+      "english_meaning": "Sun in Saturn: Danger of death or constant fear from enemies; illness to elders; diseases of the stomach and eyes; and loss of wealth and grains.",
+      "hindi_meaning": "शनि की महादशा में सूर्य की अन्तर्दशा में मृत्यु का भय या शत्रुओं का निरंतर डर; बड़ों को कष्ट; पेट और नेत्रों के रोग; तथा धन-धान्य की हानि होती है।"
+    },
+    {
+      "number": 53,
+      "text": "वनिताहतिर्मरणमेव नृणां\nसुहृदां विपत्तिरथ रोगभयम् ।\nजलवातजं भयमतीव भवेत्-\nरविजायुराविशति रात्रिकरे",
+      "english_meaning": "Moon in Saturn: Loss of wife; danger of death to the native; calamity to friends; fear of diseases; and great fear from water and wind.",
+      "hindi_meaning": "शनि की महादशा में चन्द्रमा की अन्तर्दशा में स्त्री का विनाश; स्वयं को मृत्यु तुल्य कष्ट; मित्रों पर विपत्ति; रोगों का भय; तथा जल और वायु से भारी संकट होता है।"
+    },
+    {
+      "number": 54,
+      "text": "स्वपदच्युतिः स्वजनविग्रहरुक्-\nज्वरवाह्नशस्त्रविशभिरथ वा ।\nअरिवृद्धिरान्तररुगक्षिभयं\nरविजायुराविशति भुमिसुते",
+      "english_meaning": "Mars in Saturn: Loss of position; friction and diseases with kin; fear from fever, fire, weapons, or poison; increase in enemies; and trouble in eyes and internal organs.",
+      "hindi_meaning": "शनि की महादशा में मंगल की अन्तर्दशा में पद-च्युति; स्वजनों से कलह और रोग; ज्वर, अग्नि, शस्त्र या विष से भय; शत्रुओं की वृद्धि; तथा नेत्रों और आन्तरिक अंगों में पीड़ा होती है।"
+    },
+    {
+      "number": 55,
+      "text": "अप्मार्गयानमसुभिविरहस्तु\nअथ वा प्रमेहगुरुगुल्मभयम् ।\nज्वररुक्क्षतिः सततमेव नृणा-\nमसितान्तरं विशति भोगिपतौ",
+      "english_meaning": "Rahu in Saturn: Wandering on wrong paths; death or fear of urinary diseases, tumors, or spleen issues; constant fever and injury.",
+      "hindi_meaning": "शनि की महादशा में राहु की अन्तर्दशा में कुमार्ग पर भटकना; मृत्यु या प्रमेह, गुल्म और तिल्ली (प्लीहा) के रोगों का भय; निरंतर ज्वर और चोट का भय रहता है।"
+    },
+    {
+      "number": 56,
+      "text": "अमरार्चनद्विजगणाभिरुचि-\nर्गृहपुत्रदारविहतिस्तु भवेत् ।\nधनधान्यवृद्धिरधिका हि नृणां\nगतवत्यथार्किवयसीन्द्रगुरौ",
+      "english_meaning": "Jupiter in Saturn: Interest in worshipping gods and Brahmins; although some loss of house, children, and wife may occur, there is a great increase in wealth and grains.",
+      "hindi_meaning": "शनि की महादशा में गुरु की अन्तर्दशा में देव-ब्राह्मण पूजन में रुचि; यद्यपि गृह, पुत्र और स्त्री की कुछ हानि संभव है, फिर भी धन और धान्य की अत्यधिक वृद्धि होती है।"
+    },
+    {
+      "number": 57,
+      "text": "बुध की महादशा में विविध अन्तर्दशों का फल\nधर्मार्गनिरतिर्विवपश्चितां\nसङ्गमो विमलधीर्घनं द्विजात् ।\nविद्यया बहुयशः सुखं सदा\nचन्द्रजे हरति वत्सरं स्वकम्",
+      "english_meaning": "Mercury in Mercury: Devotion to righteous paths; association with learned persons; pure intellect; gain of wealth from Brahmins; great fame through learning; and constant happiness.",
+      "hindi_meaning": "बुध में बुध: धर्म के मार्ग में रुचि; विद्वानों का संग; निर्मल बुद्धि; ब्राह्मणों से धन लाभ; विद्या के माध्यम से यश और सदैव सुख की प्राप्ति होती है।"
+    },
+    {
+      "number": 58,
+      "text": "दुःखशोककलहाकुलात्मता\nगात्रकम्पनममित्रसंयुतिः ।\nक्षेत्रयान्विप्युतिर्यदा भवेत्-\nसोममसूनुशरदं गतः शिखी",
+      "english_meaning": "Ketu in Mercury: Distress, grief, and a mind troubled by friction; trembling of the body; association with enemies; and loss of lands and vehicles.",
+      "hindi_meaning": "बुध में केतु: दुःख, शोक और कलह से व्याकुलता; शरीर में कंपन; शत्रुओं का साथ; तथा भूमि और वाहनों की हानि होती है।"
+    },
+    {
+      "number": 59,
+      "text": "देवविप्रगुरुपूजनक्रिया दानधर्मपरतासमागमः ।\nवस्त्रभूषणसुहृद्युतिर्भवेद्बोधनायुषि समागते सिते",
+      "english_meaning": "Venus in Mercury: Worship of gods, Brahmins, and gurus; inclination towards charity and religious acts; gain of clothes, ornaments, and meeting with friends.",
+      "hindi_meaning": "बुध में शुक्र: देव, ब्राह्मण और गुरु का पूजन; दान और धर्म में तत्परता; वस्त्र, आभूषण और मित्रों का समागम होता है।"
+    },
+    {
+      "number": 60,
+      "text": "हेमविद्रुमतुरङ्गवारणप्रावृतं भवनमन्नपानयुक् ।\nभूपतेरपि च पूजनं भवेद्भानुमालिनि बुधाब्दकं गते",
+      "english_meaning": "Sun in Mercury: A house full of gold, corals, horses, and elephants; abundance of food and drinks; and honor from the king.",
+      "hindi_meaning": "बुध में सूर्य: स्वर्ण, मूँगा, घोड़े और हाथियों से युक्त भवन; अन्न और पान की प्रचुरता; तथा राजा से सम्मान मिलता है।"
+    },
+    {
+      "number": 61,
+      "text": "मस्तकव्यसनमक्षिपीडनं कुष्ठदद्रुबहुकण्ठपीडनम् ।\nप्राणसंशययुतिर्नृणां भवेज्ज्ञायुषं व्रजति शीतदीघितौ",
+      "english_meaning": "Moon in Mercury: Headaches, eye ailments, skin diseases (leprosy/ringworm), and severe throat pain; and danger to life.",
+      "hindi_meaning": "बुध में चन्द्रमा: सिर में पीड़ा, नेत्र रोग, कुष्ठ या दाद और गले में भारी कष्ट; तथा प्राणों के लिए संकट उत्पन्न होता है।"
+    },
+    {
+      "number": 62,
+      "text": "अग्निभीतिरपि नेत्रजा रुजा चोरजं भयमतीव दुःखिता ।\nस्थानहानिरथ वातरोगिता ज्ञायुषं हरति मेदिनीसुते",
+      "english_meaning": "Mars in Mercury: Fear from fire and eye diseases; great fear from thieves and distress; loss of position or ailments of wind.",
+      "hindi_meaning": "बुध में मंगल: अग्नि और नेत्र रोगों का भय; चोरों से भारी डर और दुःख; स्थान की हानि या वायु जनित रोग होते हैं।"
+    },
+    {
+      "number": 63,
+      "text": "मानहानिरथवाश्रयच्युतिः स्वक्षयोऽग्निविषतोयजं भयम् ।\nमस्तकाक्षिजठरप्रपीडनं शीतरश्मिजदशां गतेऽसुरे",
+      "english_meaning": "Rahu in Mercury: Loss of honor or displacement; loss of property; fear from fire, poison, or water; and ailments of the head, eyes, and stomach.",
+      "hindi_meaning": "बुध में राहु: मान-हानि या आश्रय की च्युति; धन का नाश; अग्नि, विष और जल से भय; तथा सिर, नेत्र और उदर में पीड़ा होती है।"
+    },
+    {
+      "number": 64,
+      "text": "व्याधिशत्रुभयविच्युतिर्भवे-\nद्ब्रह्मसिद्धिरवनीशसत्कृतिः ।\nधर्मसिद्धितपसां समुद्ग्रमो\nदेवमन्त्रिणि विदो दशां गते",
+      "english_meaning": "Jupiter in Mercury: Freedom from diseases and fear of enemies; success in spiritual knowledge; honor from the king; and rise of religious success and penance.",
+      "hindi_meaning": "बुध में गुरु: रोगों और शत्रुओं के भय से मुक्ति; ब्रह्म-सिद्धि; राजा से सत्कार; तथा धर्म और तपस्या में उन्नति होती है।"
+    },
+    {
+      "number": 65,
+      "text": "अर्थधर्मपरिलुप्तिरुच्चकैः\nसर्वकार्यविफलत्वमङ्गिनाम् ।\nश्लेष्मवातजनिता रुगुद्भवे-\nद्वोधनायुषि समागतेऽसिते",
+      "english_meaning": "Saturn in Mercury: Great loss of wealth and righteousness; failure in all undertakings; and emergence of diseases caused by phlegm and wind.",
+      "hindi_meaning": "बुध में शनि: धन और धर्म की भारी हानि; सभी कार्यों में विफलता; तथा कफ और वायु जनित रोगों की उत्पत्ति होती है।"
+    },
+    {
+      "number": 66,
+      "text": "केतु की महादशा में विविध अन्तर्दशों का फल\nरिपुजनकलहं सुहृद्विरोधं\nत्वशुभचः श्रवणं ज्वराङ्गदाहम् ।\nगमनपरधाम्नि वित्तनाशं\nशिखिनि लभेत् दशां गते स्वकीयाम्",
+      "english_meaning": "Ketu in Ketu: Friction with enemies and friends; hearing inauspicious news; fever and burning sensation in the body; traveling to other places and loss of wealth.",
+      "hindi_meaning": "केतु की महादशा में अपनी ही अन्तर्दशा में शत्रुओं से कलह और मित्रों से विरोध; अशुभ समाचार सुनना; ज्वर और शरीर में जलन; विदेश गमन और धन की हानि होती है।"
+    },
+    {
+      "number": 67,
+      "text": "द्विजवरकलहः स्त्रिया विरोधः\nस्वकुलजनैरपि कन्यकाप्रसूतिः ।\nपरिभवजननं परोपतापो\nभवति सिते शिखिवत्सरान्तराले",
+      "english_meaning": "Venus in Ketu: Friction with Brahmins and wife; opposition from family; birth of a daughter; humiliation and trouble from others.",
+      "hindi_meaning": "केतु में शुक्र: ब्राह्मणों से कलह और स्त्री से विरोध; कुल के लोगों से शत्रुता; कन्या का जन्म; अपमान और दूसरों से कष्ट होता है।"
+    },
+    {
+      "number": 68,
+      "text": "गुरुजनमरणं ज्वर्तारः\nस्वजनविरोधविदेशयानलभः ।\nनृपकृतकलहः कफानिलाति-\nर्विशति रवौ शिखिवत्सरान्तरालम्",
+      "english_meaning": "Sun in Ketu: Death of elders; fever; friction with kin; travel to foreign lands; friction with the king; and ailments of phlegm and wind.",
+      "hindi_meaning": "केतु में सूर्य: बड़ों की मृत्यु; ज्वर; स्वजनों से विरोध; विदेश गमन; राजा से कलह; तथा कफ और वायु के रोग होते हैं।"
+    },
+    {
+      "number": 69,
+      "text": "सुलभबहुधनं तथैव हानिः\nसुतविरहो बहुदुःखभाक्प्रसूतिः ।\nपरिजनयुवतिप्रजाप्रलाभः\nशशिनि यदा शिखिदायमभ्युपेते",
+      "english_meaning": "Moon in Ketu: Gain of wealth but also its loss; separation from children; great distress; and gain through servants and women.",
+      "hindi_meaning": "केतु में चन्द्रमा: धन का लाभ किन्तु हानि भी; संतान से वियोग; भारी कष्ट; तथा सेवकों और स्त्रियों के माध्यम से लाभ होता है।"
+    },
+    {
+      "number": 70,
+      "text": "स्वकुलजकलहं स्वबन्धुनाशं\nभयमपि पन्नगजं वदन्ति चोरात्\nहुतवहभयशत्रुपीडनं च\nव्रजतिकुजे ध्वजनामखेचरायुः",
+      "english_meaning": "Mars in Ketu: Friction with family; loss of relatives; fear of snakes and thieves; fear of fire and trouble from enemies.",
+      "hindi_meaning": "केतु में मंगल: कुल में कलह; बन्धुओं का नाश; सर्प और चोरों का भय; अग्नि का भय और शत्रुओं से पीड़ा होती है।"
+    },
+    {
+      "number": 71,
+      "text": "अरिकृतकलहं नृपाग्निचौरै-\nर्भयमपि पन्नगजं वदन्ति तज्ज्ञाः ।\nखलजनवचनं दुरिष्टचेष्टा\nसमसि गतेऽत्र शिखीन्द्रदायमाहुः",
+      "english_meaning": "Rahu in Ketu: Friction caused by enemies; fear from the king, fire, and thieves; fear of snakes; hearing harsh words from wicked people; and unsuccessful attempts.",
+      "hindi_meaning": "केतु में राहु: शत्रुओं द्वारा कलह; राजा, अग्नि और चोरों से भय; सर्प का भय; दुष्टों के वचन और असफल प्रयास होते हैं।"
+    },
+    {
+      "number": 72,
+      "text": "सुतवरजननं सुरेन्द्रपूजा\nधरणिधनाप्तिरुपायनार्थसिद्धिः ।\nधनचयजननं महीशमानो\nभवति गतेऽत्र गुरौ शिखीन्द्रदायम्",
+      "english_meaning": "Jupiter in Ketu: Birth of an excellent son; worship of gods; gain of lands and wealth; fulfillment of desires through gifts; and respect from the king.",
+      "hindi_meaning": "केतु में गुरु: सुपुत्र का जन्म; देव-पूजन; भूमि और धन का लाभ; उपहारों के माध्यम से कार्य सिद्धि; तथा राजा से सम्मान मिलता है।"
+    },
+    {
+      "number": 73,
+      "text": "परिजनविहतिं परोपतापं\nरिपुजनविग्रहमङ्गभङ्गतां च ।\nधनपदविर्युतिं तथाहुरार्या\nगतवति सूर्यसुते शिखाधरायुः",
+      "english_meaning": "Saturn in Ketu: Loss of servants; trouble from others; friction with enemies; physical injury; and loss of wealth and position.",
+      "hindi_meaning": "केतु में शनि: सेवकों की हानि; दूसरों से कष्ट; शत्रुओं से विरोध; शारीरिक अंग-भंग; तथा धन और पद की च्युति होती है।"
+    },
+    {
+      "number": 74,
+      "text": "सुतवर्जननं प्रभुप्रशस्तिः\nक्षितिधनसिद्धिररीश्वरप्रपीडा ।\nपशुकृषीविहतिर्भवेत्तु पुंसां\nविशति बुधे शिखिवत्सरान्तरालम्",
+      "english_meaning": "Mercury in Ketu: Birth of a son; praise from the master; success in land and wealth; however, trouble from enemies; and loss to cattle and agriculture.",
+      "hindi_meaning": "केतु में बुध: पुत्र का जन्म; स्वामी से प्रशंसा; भूमि और धन की सिद्धि; किन्तु शत्रुओं से पीड़ा; तथा पशु और कृषि की हानि संभव है।"
+    },
+    {
+      "number": 75,
+      "text": "शुक्र की महादशा में विविध अन्तर्दशों का फल\nवसनभूषणवाहचन्दना-\nद्यनुभवः प्रमदासुखसम्पदः ।\nद्युतियुतिः क्षितिपाद्धनलब्धयो\nभृगुसुते स्वदशां प्रविशत्यपि",
+      "english_meaning": "Venus in Venus: Experience of fine clothes, ornaments, vehicles, and sandalwood; happiness from women and wealth; luster and gain of wealth from the king.",
+      "hindi_meaning": "शुक्र की महादशा में अपनी ही अन्तर्दशा में उत्तम वस्त्र, आभूषण, वाहन और चन्दन आदि का सुख; स्त्रियों और लक्ष्मी की कृपा; कान्ति की वृद्धि तथा राजा से धन लाभ होता है।"
+    },
+    {
+      "number": 76,
+      "text": "नयनकुक्षिकपोलगदोद्भवः\nक्षितिभृतो भयमस्ति शरीरिणाम् ।\nगुरुकुलोद्भवबान्धवपीडनं\nभृगुसुतायुषि भानुमति स्थिते",
+      "english_meaning": "Sun in Venus: Ailments of the eyes, stomach, and cheeks; fear from the king; and distress to brothers or members of the guru's family.",
+      "hindi_meaning": "शुक्र में सूर्य: नेत्र, पेट और गालों के रोग; राजा से भय; तथा भाइयों या गुरु-कुल के लोगों को पीड़ा होती है।"
+    },
+    {
+      "number": 77,
+      "text": "नखशिरोरदनक्षतिरुच्चकैः\nपवनपित्तरुगर्थविनाशनम् ।\nग्रहणिगुल्मकयक्ष्मकपीडनं\nसितवयोहृति तत्र हिमल्विषि",
+      "english_meaning": "Moon in Venus: Injury to nails, head, and teeth; ailments of wind and bile; loss of wealth; and diseases like dysentery, tumor, or consumption.",
+      "hindi_meaning": "शुक्र में चन्द्रमा: नख, सिर और दाँतों में चोट; वायु और पित्त के रोग; धन की हानि; तथा संग्रहणी, गुल्म या यक्ष्मा (टीबी) जैसे रोगों का कष्ट होता है।"
+    },
+    {
+      "number": 78,
+      "text": "रुधिरपित्तगदातिसमाश्रयः\nकनकताम्रचयावनिसंग्रहः ।\nसुवतिदूषणमुद्यमविच्युति-\nर्वृषभवल्लभवत्सरगे कुजे",
+      "english_meaning": "Mars in Venus: Ailments of blood and bile; collection of gold, copper, and lands; however, there may be some blame and loss of enterprise.",
+      "hindi_meaning": "शुक्र में मंगल: रक्त और पित्त के रोग; स्वर्ण, ताँबा और भूमि का संग्रह; किन्तु कुछ कलंक और उत्साह में कमी आती है।"
+    },
+    {
+      "number": 79,
+      "text": "निधिभवः सुतलब्धिरभीष्तवाक्\nस्वजनपूजनमप्यरिबन्धनम् ।\nदहनचोरविषोद्भवपीडनं\nतुलधरेश्वरवत्सरगेऽसुरे",
+      "english_meaning": "Rahu in Venus: Discovery of treasures; gain of a son; fulfillment of desires; respect from kin; but also fear of capture by enemies, fire, thieves, and poison.",
+      "hindi_meaning": "शुक्र में राहु: निधि (खजाना) की प्राप्ति; पुत्र लाभ; अभीष्ट सिद्धि; स्वजनों से सम्मान; किन्तु शत्रुओं द्वारा बन्धन, अग्नि, चोर और विष का भय भी रहता है।"
+    },
+    {
+      "number": 80,
+      "text": "विविधधर्मसुरेशनमस्क्रिया\nभवति चात्मजवामदृगागमः ।\nविविधराज्यसुखं च शरीरिणां\nकविदशाहृति कार्मुकनायके",
+      "english_meaning": "Jupiter in Venus: Involvement in various religious deeds; arrival of children and beautiful wife; and various royal comforts.",
+      "hindi_meaning": "शुक्र में गुरु: विविध धार्मिक कार्यों में संलग्नता; पुत्र और सुन्दर स्त्री की प्राप्ति; तथा विविध राजसी सुखों का भोग होता है।"
+    },
+    {
+      "number": 81,
+      "text": "नगरयोधनृपोद्भवपूजनं\nप्रवरयोषिदवाप्तिरथास्ति वा ।\nविविधवित्तपरिच्छदसंयुति-\nदितिपूजितदायगते शनौ",
+      "english_meaning": "Saturn in Venus: Honor from the king, cities, and warriors; gain of an excellent wife or various wealth and articles of comfort.",
+      "hindi_meaning": "शुक्र में शनि: नगर, युद्ध और राजा से सम्मान; उत्तम स्त्री की प्राप्ति; तथा विविध धन और सुख-सुविधाओं की वस्तुओं का लाभ होता है।"
+    },
+    {
+      "number": 82,
+      "text": "तनयसौख्यमागमसम्पदां\nनिचयलब्धिरतिप्रभुता यशः ।\nपवनपित्तकफातिररिच्युतिर्-\nदनुजमन्त्रिदशाहृति चन्द्रजे",
+      "english_meaning": "Mercury in Venus: Happiness from children; arrival of wealth and prosperity; great authority and fame; however, some ailments of wind, bile, and phlegm; and removal of enemies.",
+      "hindi_meaning": "शुक्र में बुध: पुत्र सुख; धन और समृद्धि का आगमन; अत्यधिक प्रभुता और कीर्ति; किन्तु वायु, पित्त और कफ के विकार; तथा शत्रुओं का नाश होता है।"
+    },
+    {
+      "number": 83,
+      "text": "सुतसुखादिबहिः स्थितिरग्निजं\nभयमतीव विनाशनमङ्गरुक् ।\nअपि च वारवधूजनसंयुतिः\nशिखिनि यात्यलमौशनसीम् दशाम्",
+      "english_meaning": "Ketu in Venus: Separation from children and happiness; great fear from fire; physical pain and destruction; and association with low-class women.",
+      "hindi_meaning": "शुक्र में केतु: पुत्र सुख आदि से वियोग; अग्नि से भारी भय; शारीरिक पीड़ा और विनाश; तथा कुलटा स्त्रियों का संग होता है।"
+    },
+    {
+      "number": 84,
+      "text": "दशापहारेषु फलं यदुक्तं\nवर्णाधिकारानुगुणं वदन्तु ।\nछिद्रेषु सूक्ष्मेष्वपि तत्फलाप्तिः\nछायाङ्कवार्तश्रवणानि वा स्युः",
+      "english_meaning": "The results of Dashas and Antardashas stated should be told according to the varna and authority of the person; even in subtle sub-periods (Chhidra), these results or their reflections/news may be experienced.",
+      "hindi_meaning": "दशा और अन्तर्दशाओं के जो फल कहे गए हैं, वे व्यक्ति के वर्ण और अधिकार के अनुसार कहने चाहिए; सूक्ष्म उप-अवधियों (छिद्रों) में भी ये फल या उनकी झलक/समाचार प्राप्त होते हैं।"
+    }
+  ]
+}

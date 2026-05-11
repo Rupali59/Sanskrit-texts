@@ -1,0 +1,426 @@
+{
+  "number": "07",
+  "title": "अन्तर्दशाध्यायः",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "भनोर्दशायां यदि शीतरश्मे-\nर्दशाविपाकं कुरुते तदा स्यात् ।\nक्लेशेन वित्तं स्वधनेन मित्रं\nभोगांच नित्यं हि विडम्बनेन",
+      "english_meaning": "In the Sun's Dasha, the Moon's sub-period brings wealth with difficulty, friends through one's own wealth, and enjoyments with some mockery or imitation.",
+      "hindi_meaning": "सूर्य की महादशा में चन्द्र की अंतर्दशा कठिनाई से धन, अपने धन से मित्र, और उपहास के साथ भोगों की प्राप्ति कराती है।"
+    },
+    {
+      "number": 2,
+      "text": "हृद्रोगमीर्ष्यं स्वजनापमानं\nभयं सुशोकं प्रियलोकनाशम् ।\nभानोर्दशायां कुरुते प्रविष्टा\nदशा महीजस्य क्षतप्रकोपम्",
+      "english_meaning": "In the Sun's Dasha, Mars' sub-period causes heart disease, jealousy, insults from kin, fear, sorrow, loss of loved ones, and flare-up of wounds.",
+      "hindi_meaning": "सूर्य की महादशा में मंगल की अंतर्दशा हृदय रोग, ईर्ष्या, स्वजनों से अपमान, भय, शोक, प्रियजनों का नाश और घावों का बढ़ना दर्शाती है।"
+    },
+    {
+      "number": 3,
+      "text": "बौधी विधत्ते पतितस्य लाभं\nकुमित्रसङ्गं परिवारलाभम् ।\nअपात्रदानं विचयातिवेगं\nभानोर्दशायां यदि सम्प्रविष्टा",
+      "english_meaning": "In the Sun's Dasha, Mercury's sub-period brings gains from fallen people, association with bad friends, family gains, giving to unworthy, and high speed of activities.",
+      "hindi_meaning": "सूर्य की महादशा में बुध की अंतर्दशा पतित लोगों से लाभ, कुमित्रों का संग, परिवार का लाभ, अपात्र को दान और कार्यों में अत्यधिक गति लाती है।"
+    },
+    {
+      "number": 4,
+      "text": "भानोर्दशायां सुरपूजितस्य\nदशा विधत्ते कुनृपेण सख्यम् ।\nअसद्जयं पापविधानलाभं\nदुष्टाबलासङ्गमसत्यमेव",
+      "english_meaning": "In the Sun's Dasha, Jupiter's sub-period brings friendship with bad kings, success in unworthy acts, gains through sinful deeds, and association with wicked women.",
+      "hindi_meaning": "सूर्य की महादशा में गुरु की अंतर्दशा बुरे राजा से मित्रता, अनुचित कार्यों में विजय, पाप कर्मों से लाभ और दुष्ट स्त्रियों का संग कराती है।"
+    },
+    {
+      "number": 5,
+      "text": "शौक्री खरांशोर्यदि सम्प्रवृत्ता\nदशा दशायां कुरुते कुपुत्रम् ।\nकावत्तला .......... कुजनेन सख्य\nविदेशतः प्राप्तियथो नराणाम्",
+      "english_meaning": "In the Sun's Dasha, Venus' sub-period brings wicked sons, friendship with bad people, and status or success gained through foreign travels.",
+      "hindi_meaning": "सूर्य की महादशा में शुक्र की अंतर्दशा कुपुत्र, बुरे लोगों से मित्रता और विदेश यात्रा से यश या सफलता दिलाती है।"
+    },
+    {
+      "number": 6,
+      "text": "दशाविपाके दिनपस्य सौरी\nदशा प्रविष्टाक्षिरुजं विधत्ते ।\nवृचाटनं बन्धुजनेन वैरं\nक्षुच्छस्त्रभूपालकृतं भयं च",
+      "english_meaning": "In the Sun's Dasha, Saturn's sub-period causes eye diseases, wandering in forests, enmity with kin, and fear from hunger, weapons, and kings.",
+      "hindi_meaning": "सूर्य की महादशा में शनि की अंतर्दशा नेत्र रोग, वनों में भटकना, बंधुओं से वैर, तथा भूख, शस्त्र और राजा से भय पैदा करती है।"
+    },
+    {
+      "number": 7,
+      "text": "लाग्नी दशा सौम्यविलग्नजाता\nभानोर्दशायां खरवेशराप्तिम् ।\nअश्रीयमस्त्रप्रभवं च लाभं\nश्चामर्कटव्योमविचारिणीनाम्",
+      "english_meaning": "In the Sun's Dasha, a benefic Lagna's sub-period brings gains of donkeys/mules, weapon-related gains, and association with forest-dwellers.",
+      "hindi_meaning": "सूर्य की महादशा में शुभ लग्न की अंतर्दशा खच्चरों/गधों की प्राप्ति, शस्त्र संबंधी लाभ और जंगली जातियों से संपर्क कराती है।"
+    },
+    {
+      "number": 8,
+      "text": "पापोद्भवा पापमातिं विधत्ते\nद्विजामरद्वेषगुरुप्रकोपम् ।\nअन्तर्दशा सा दिनपस्य नित्यं\nभयं दशायां नृपचौरजातम्",
+      "english_meaning": "A malefic sub-period in Sun's Dasha brings sinful thoughts, hatred towards Brahmins and Gods, anger of gurus, and fear from kings and thieves.",
+      "hindi_meaning": "सूर्य की महादशा में पाप अंतर्दशा पाप बुद्धि, ब्राह्मणों और देवताओं से द्वेष, गुरु का कोप और राजा व चोरों से भय लाती है।"
+    },
+    {
+      "number": 9,
+      "text": "तृष्णौषधीसेवनचौर्यलाभं\nसौख्यं तदोथ्यं विटकामिनिभीः ।\nकुपुण्यां विविधैश्च दम्भै\nरविर्दशायां कुरुत् हिमांशोः",
+      "english_meaning": "In the Moon's Dasha, the Sun's sub-period brings use of medicinal herbs, gains through theft, happiness from clever women, and success through various deceptions.",
+      "hindi_meaning": "चन्द्रमा की महादशा में सूर्य की अंतर्दशा औषधियों का सेवन, चोरी से लाभ, चतुर स्त्रियों से सुख और विभिन्न ढोंगों से सफलता दिलाती है।"
+    },
+    {
+      "number": 10,
+      "text": "कुभोजनाछादनपानलाभं\nकुस्त्रीप्रसङ्गं कुधनं विचित्रम् ।\nदशा महीजस्य सुधाकरस्य\nप्राप्ता दशायां परमोच्छणं च",
+      "english_meaning": "In the Moon's Dasha, Mars' sub-period brings gains of bad food and clothes, association with bad women, and gaining unusual or bad wealth.",
+      "hindi_meaning": "चन्द्रमा की महादशा में मंगल की अंतर्दशा खराब भोजन व वस्त्रों की प्राप्ति, कुस्त्री प्रसंग और विचित्र या खराब धन का लाभ कराती है।"
+    },
+    {
+      "number": 11,
+      "text": ".......... त्नार्थहस्त्यश्चसुवर्णला\nकुतुम्बवृद्धिं प्रियतां च लोके ।\nबौधी दशा चन्द्रदशाप्रवेशे\nकरोति मर्त्यं बहुवित्तलाभम्",
+      "english_meaning": "In the Moon's Dasha, Mercury's sub-period brings gains of gems, elephants, horses, gold, family growth, and popularity in the world.",
+      "hindi_meaning": "चन्द्रमा की महादशा में बुध की अंतर्दशा रत्न, हाथी, घोड़े, स्वर्ण, परिवार की वृद्धि और लोकप्रियता की प्राप्ति कराती है।"
+    },
+    {
+      "number": 12,
+      "text": "नरेन्द्रपूजा द्विजदेवभक्ति-\nर्यशः प्रशंसा स्थिरमित्रलाभम् ।\nपुण्यानि शुभ्राणि जयं परेषां\nचान्द्र्यां यदा देवगुरोः प्रयाता",
+      "english_meaning": "In the Moon's Dasha, Jupiter's sub-period brings respect from kings, devotion to gods/Brahmins, fame, praise, and gain of stable friends.",
+      "hindi_meaning": "चन्द्रमा की महादशा में गुरु की अंतर्दशा राजा से सम्मान, देव-ब्राह्मण भक्ति, यश, प्रशंसा और स्थिर मित्रों का लाभ कराती है।"
+    },
+    {
+      "number": 13,
+      "text": "लाभं पुरग्राममहाधनानां\nविहारविद्यागमवाजिनां च ।\nशौक्री दशा चन्द्रदशां प्रयाता\nकरोति तुष्टिं परमां सदैव",
+      "english_meaning": "In the Moon's Dasha, Venus' sub-period brings gains of towns/villages, great wealth, knowledge, and vehicles, leading to constant satisfaction.",
+      "hindi_meaning": "चन्द्रमा की महादशा में शुक्र की अंतर्दशा नगरों/गांवों, महाधन, विद्या और वाहनों की प्राप्ति कराती है, जिससे निरंतर संतोष मिलता है।"
+    },
+    {
+      "number": 14,
+      "text": "शौराबलीसधितमुग्रलाभं\nपापानुरागं व्यसनेन सिद्धिम् ।\nसौरेर्दशा चन्द्रदशां प्रयाता\nवेश्मानुरागं कुरुते प्रभूतिम्",
+      "english_meaning": "In the Moon's Dasha, Saturn's sub-period brings fierce gains, sinful attachments, success through addictions, and affection for one's house.",
+      "hindi_meaning": "चन्द्रमा की महादशा में शनि की अंतर्दशा उग्र लाभ, पापों में अनुराग, व्यसनों से सिद्धि और अपने घर के प्रति लगाव पैदा करती है।"
+    },
+    {
+      "number": 15,
+      "text": "सौम्योदयोत्था हि दशा हिमांशो-\nर्यदा दशायां कुरुते प्रवेशम् ।\nआर्थलाभं कृषिकर्मासिद्धिं\nनृणां विधत्ते विविधांश्च भोगान्",
+      "english_meaning": "In the Moon's Dasha, a benefic Lagna's sub-period brings financial gains, success in agriculture, and various enjoyments for the person.",
+      "hindi_meaning": "चन्द्रमा की महादशा में शुभ लग्न की अंतर्दशा धन लाभ, कृषि कर्म में सफलता और विभिन्न भोगों की प्राप्ति कराती है।"
+    },
+    {
+      "number": 16,
+      "text": "खलोदयेत्य हिमगोर्दशायां\nखरोष्ट्रधर्मप्रभवं च लाभम् ।\nकुशास्त्रसेवां प्रणयेन वैरं\nस्ववान्धवैर्मित्रसुतैश्च नित्यम्",
+      "english_meaning": "In the Moon's Dasha, a malefic sub-period brings gains of donkeys/camels, religious hypocrisy, and constant enmity with kin, friends, and sons.",
+      "hindi_meaning": "चन्द्रमा की महादशा में पाप अंतर्दशा गधों/ऊंटों की प्राप्ति, धार्मिक पाखंड और स्वजनों, मित्रों व पुत्रों से निरंतर वैर लाती है।"
+    },
+    {
+      "number": 17,
+      "text": "दशा खरांशोर्धरणिसुतस्य\nयदा दशायां कुरुते प्रवेशम् ।\nतदा ज्वरश्लेष्मसुपित्तवाइतैः\nपीडां विधत्ते क्षतजैर्विकारैः",
+      "english_meaning": "In Mars' Dasha, the Sun's sub-period causes suffering from fever, phlegm, pitta, and wind disorders, and diseases related to wounds and blood.",
+      "hindi_meaning": "मंगल की महादशा में सूर्य की अंतर्दशा ज्वर, कफ, पित्त और वात रोगों से पीड़ा, तथा घाव और रक्त संबंधी विकार पैदा करती है।"
+    },
+    {
+      "number": 18,
+      "text": "भौम्यां हिमांशोः सहसा प्रयाता\nदशा दशायां कुनयेन लाभम् ।\nद्युतानुरागं परदारसौख्यं\nप्रपोषणं देवगुरुद्विजानाम्",
+      "english_meaning": "In Mars' Dasha, the Moon's sub-period brings success through bad policies, love for gambling, happiness from others' wives, and support for gurus/Brahmins.",
+      "hindi_meaning": "मंगल की महादशा में चन्द्र की अंतर्दशा कुनीति से सफलता, जुए में अनुराग, परस्त्री सुख और गुरु-ब्राह्मणों का पोषण कराती है।"
+    },
+    {
+      "number": 19,
+      "text": "बौधी दशा भौमदशां प्रयाता\nकरोति सौख्यं वनदेशजातम् ।\nआत्मप्रशंसाजनितं च तेषं\nनृणां महायासभवं च सौख्यम्",
+      "english_meaning": "In Mars' Dasha, Mercury's sub-period brings happiness from forests or rural areas, self-praise, and happiness earned through great effort.",
+      "hindi_meaning": "मंगल की महादशा में बुध की अंतर्दशा वन या ग्रामीण क्षेत्रों से सुख, आत्म-प्रशंसा और भारी परिश्रम से प्राप्त सुख लाती है।"
+    },
+    {
+      "number": 20,
+      "text": "भौम्यां यदा देवपुरोहितं\nदशा प्रयाता त्वरितं दशायाम् ।\nकरोति दैन्यप्रभवं च लाभं\nपराबलायाः स्वकलत्रहानिम्",
+      "english_meaning": "In Mars' Dasha, Jupiter's sub-period brings poverty despite efforts, and loss of one's own wife due to the strength of others.",
+      "hindi_meaning": "मंगल की महादशा में गुरु की अंतर्दशा परिश्रम के बावजूद दरिद्रता, और दूसरों के बल के कारण अपनी पत्नी की हानि कराती है।"
+    },
+    {
+      "number": 21,
+      "text": "विधत्तेऽन्त्यजनेन मैत्रीं\nक्वचिद्विषादं क्रचिदेव हर्षम् ।\nपरापराधोदवमाशकर्म\nनृणां विधत्तेऽल्पफलां च वृद्धिम्",
+      "english_meaning": "In Mars' Dasha, Venus' sub-period brings friendship with outcasts, mixed sorrow and joy, and low gains from others' work.",
+      "hindi_meaning": "मंगल की महादशा में शुक्र की अंतर्दशा अंत्यजों (नीच लोगों) से मित्रता, कभी दुख-कभी सुख और दूसरों के कार्यों से अल्प लाभ दिलाती है।"
+    },
+    {
+      "number": 22,
+      "text": "गुरुप्रकोपं बहुगुह्यरोगं\nपामाविचर्थिप्रभवां हि पीडाम् ।\nसौरी दशा वक्रदशाविपाके\nप्राप्ता सुवैरं निजबन्धुदारैः",
+      "english_meaning": "In Mars' Dasha, Saturn's sub-period causes anger of gurus, private diseases, skin ailments, and severe enmity with wife and kin.",
+      "hindi_meaning": "मंगल की महादशा में शनि की अंतर्दशा गुरु का कोप, गुप्त रोग, त्वचा रोग और पत्नी व स्वजनों से घोर वैर पैदा करती है।"
+    },
+    {
+      "number": 23,
+      "text": "लाग्नी दशा भौमदशां प्रयाता\nवास्यानि धत्ते परदाररागम् ।\nक्वचिद्भयं पार्थिवजं च लाभं\nक्वचित् क्वचिद्बन्धुजने प्रहर्षम्",
+      "english_meaning": "In Mars' Dasha, a benefic Lagna's sub-period brings habitation in remote places, love for others' wives, fear from kings, and occasional joy among kin.",
+      "hindi_meaning": "मंगल की महादशा में शुभ लग्न की अंतर्दशा दूरस्थ स्थानों में निवास, परस्त्री में अनुराग, राजा से भय और बंधुओं में कभी-कभी हर्ष लाती है।"
+    },
+    {
+      "number": 24,
+      "text": "खलोदयोत्था च दशा दशायां\nभौमस्य धत्ते स्वरुजाङ्गपीडाम् ।\nमानापमानं निजलोकमध्ये\nमिथ्या प्रबुद्धिं स्वपरैः सदैव",
+      "english_meaning": "In Mars' Dasha, a malefic sub-period causes bodily pain due to diseases, honor and insult among one's own people, and false wisdom.",
+      "hindi_meaning": "मंगल की महादशा में पाप अंतर्दशा रोगों के कारण शारीरिक कष्ट, अपनों के बीच मान-अपमान और मिथ्या ज्ञान लाती है।"
+    },
+    {
+      "number": 25,
+      "text": "रवेर्दशा सौम्यदशा प्रयाता\nकरोति मानं खलजं सदैव ।\nलाभं विकृत्या परदेशतोऽन्यन्\nमायापटुत्वं बहुकामसेवाम्",
+      "english_meaning": "In Mercury's Dasha, the Sun's sub-period brings respect from wicked people, gains from foreign lands through distortions, and excessive desires.",
+      "hindi_meaning": "बुध की महादशा में सूर्य की अंतर्दशा दुष्टों से सम्मान, विदेश से विकृत माध्यमों से लाभ और अत्यधिक कामवासना लाती है।"
+    },
+    {
+      "number": 26,
+      "text": ".......... दशा प्रयाता\nतदा विधत्ते नृपतेस्तु मानम् ।\nआरोग्यतां साधुजनेन सख्यं\n.......... ओगान् विचित्रान् द्विजदेवसेवाम्",
+      "english_meaning": "In Mercury's Dasha, the Moon's sub-period brings respect from kings, good health, friendship with good people, and service to gods/Brahmins.",
+      "hindi_meaning": "बुध की महादशा में चन्द्र की अंतर्दशा राजा से सम्मान, आरोग्य, सज्जनों से मित्रता और देव-ब्राह्मण की सेवा कराती है।"
+    },
+    {
+      "number": 27,
+      "text": ".......... चनानी\nक्लेशोदयः संशय एव पुंसाम् ।\nयदा दशायां शशिजस्य याता\nदशा धरित्रीतनयस्य नित्यम्",
+      "english_meaning": "In Mercury's Dasha, Mars' sub-period causes loss of money, distress, and constant doubt for the person.",
+      "hindi_meaning": "बुध की महादशा में मंगल की अंतर्दशा धन की हानि, क्लेश और निरंतर संदेह की स्थिति पैदा करती है।"
+    },
+    {
+      "number": 28,
+      "text": "विद्यागमं पार्थिवमानमोजो\nजयं विवेकं प्रियतां च लोके ।\nयदा दशा देवपुरोहितस्य\nबौध्यां प्रयाता सततं विधत्ते",
+      "english_meaning": "In Mercury's Dasha, Jupiter's sub-period brings gain of knowledge, respect from kings, victory, wisdom, and popularity in the world.",
+      "hindi_meaning": "बुध की महादशा में गुरु की अंतर्दशा विद्या प्राप्ति, राजा से सम्मान, विजय, विवेक और लोकप्रियता दिलाती है।"
+    },
+    {
+      "number": 29,
+      "text": "मानं प्रशांसां नृपलोकसख्यं\nविद्यार्जनं धर्ममतिं सदैव ।\nशौक्री दशा सौम्यदशां प्रपना\nकरोति मुक्तामणिवित्तलाभन्",
+      "english_meaning": "In Mercury's Dasha, Venus' sub-period brings honor, praise, friendship with royal folk, religious thoughts, and gains of pearls and gems.",
+      "hindi_meaning": "बुध की महादशा में शुक्र की अंतर्दशा सम्मान, प्रशंसा, राजसी लोगों से मित्रता, धर्म बुद्धि और मोती-रत्नों का लाभ कराती है।"
+    },
+    {
+      "number": 30,
+      "text": "व्रणप्रकोपं कलह कुबुद्धिं\nविदेशवासं मतिसंक्षयं च ।\nसौरी दशा सौम्यदशाविपाके\nधत्ते नराणां बहुवित्तनाशम्",
+      "english_meaning": "In Mercury's Dasha, Saturn's sub-period causes flare-up of wounds, disputes, bad thoughts, foreign residence, and loss of wealth and intelligence.",
+      "hindi_meaning": "बुध की महादशा में शनि की अंतर्दशा घावों का बढ़ना, कलह, कुबुद्धि, विदेश वास, तथा बुद्धि व धन की हानि कराती है।"
+    },
+    {
+      "number": 31,
+      "text": "यशः प्रतापं परमं च सौख्यं\nचतुष्पदाधादनभूमिलाभम् ।\nलाग्नी दशा सौम्यविलग्नजाता\nबौध्यां दशायां विविधं च भोगम्",
+      "english_meaning": "In Mercury's Dasha, a benefic Lagna's sub-period brings fame, power, supreme happiness, and gains of quadrupeds, clothes, and land.",
+      "hindi_meaning": "बुध की महादशा में शुभ लग्न की अंतर्दशा यश, प्रताप, परम सुख और पशु-वस्त्र-भूमि का लाभ कराती है।"
+    },
+    {
+      "number": 32,
+      "text": "कुतुम्बवैरं पशवित्तनाशं\nरोगान् विचित्रान् सततं च युद्धम् ।\n.......... दयोत्या तु दशा दशायां\nलाग्नी विधत्ते शशिनन्दनस्य",
+      "english_meaning": "In Mercury's Dasha, a malefic sub-period causes family enmity, loss of cattle/wealth, strange diseases, and constant conflicts.",
+      "hindi_meaning": "बुध की महादशा में पाप अंतर्दशा कुटुम्ब वैर, पशु-धन की हानि, विचित्र रोग और निरंतर कलह पैदा करती है।"
+    },
+    {
+      "number": 33,
+      "text": "देवद्विजोत्यं कुरुते सुलाभं\nप्रपोषणोत्यं विविधैः प्रपंचैः ।\nदशा यदा देवपुरोहितस्य\nभानोर्दशायां कुरुते विपाकम्",
+      "english_meaning": "In Jupiter's Dasha, the Sun's sub-period brings gains through gods/Brahmins and through various nurturing deceptions or complexities.",
+      "hindi_meaning": "गुरु की महादशा में सूर्य की अंतर्दशा देव-ब्राह्मण से लाभ और विभिन्न पोषण संबंधी छल-प्रपंचों से सफलता दिलाती है।"
+    },
+    {
+      "number": 34,
+      "text": "नानार्थलाभं पशुपुत्रवृद्धिं\nयशःप्रमोदं प्रभुतां सदैव ।\nगुरोर्दशा रात्रीपतेर्दशायां\nसौम्ख्यानि धत्ते विविधानि पुंसाम्",
+      "english_meaning": "In Jupiter's Dasha, the Moon's sub-period brings various kinds of gains, increase of cattle and sons, fame, joy, and constant authority.",
+      "hindi_meaning": "गुरु की महादशा में चन्द्र की अंतर्दशा विविध प्रकार के लाभ, पशु-पुत्र की वृद्धि, यश, हर्ष और निरंतर प्रभुता लाती है।"
+    },
+    {
+      "number": 35,
+      "text": "कृच्छेण सिद्धिं बहुदैन्यमेव\nस्वपक्षविद्वेषणतश्च लाभम् ।\nवेश्यानुरागं कपटं नितान्तं\nगुरोर्दशां भौमदशा प्रपन्ना",
+      "english_meaning": "In Jupiter's Dasha, Mars' sub-period brings success with difficulty, much poverty, gains through family disputes, and attachment to deceit.",
+      "hindi_meaning": "गुरु की महादशा में मंगल की अंतर्दशा कठिनाई से सफलता, अत्यधिक दरिद्रता, पारिवारिक कलह से लाभ और कपट में रुचि दर्शाती है।"
+    },
+    {
+      "number": 36,
+      "text": "हस्त्यश्चयानाशनभोजनानि\nनानाविमित्राणि च मण्डनानि ।\nबौधी दशा देवपुरोहितस्य\nददाति पुत्रान् विविधांश्च भृत्यान्",
+      "english_meaning": "In Jupiter's Dasha, Mercury's sub-period brings gains of elephants, horses, vehicles, food, various friends, ornaments, sons, and servants.",
+      "hindi_meaning": "गुरु की महादशा में बुध की अंतर्दशा हाथी, घोड़े, वाहन, भोजन, अनेक मित्र, आभूषण, पुत्र और भृत्यों की प्राप्ति कराती है।"
+    },
+    {
+      "number": 37,
+      "text": "नृपप्रसादं बहुवित्तलाभं\nधर्मानुरागं विजयं रिपूणाम् ।\nभृगोर्दशा जीवदशाविपाके\nपुंसां विधत्ते सुबहुप्रशंसाम्",
+      "english_meaning": "In Jupiter's Dasha, Venus' sub-period brings royal favors, great wealth, religious attachment, victory over enemies, and much praise.",
+      "hindi_meaning": "गुरु की महादशा में शुक्र की अंतर्दशा राजप्रसाद, महाधन, धर्म में अनुराग, शत्रुओं पर विजय और अत्यधिक प्रशंसा लाती है।"
+    },
+    {
+      "number": 38,
+      "text": "नीचानुरागं ..........\nनीचेन सख्यं परधर्मसेवाम् ।\nसौरेर्दशा जीवदशाविपाके\nनृणां विधत्ते परवाम्चनानि",
+      "english_meaning": "In Jupiter's Dasha, Saturn's sub-period causes attachment to lowly people, friendship with outcasts, service to other religions, and deceiving others.",
+      "hindi_meaning": "गुरु की महादशा में शनि की अंतर्दशा नीच लोगों से अनुराग, अंत्यजों से मित्रता, परधर्म की सेवा और दूसरों को ठगना दर्शाती है।"
+    },
+    {
+      "number": 39,
+      "text": "लाग्नी दशा सद्ग्रहजा प्रयाता\nगुरोर्दशायां कुरुते प्रहर्षम् ।\nहस्त्यश्चलाभं नृपतेश्च मानं\nविवेकतां धर्ममतिं सदैव",
+      "english_meaning": "In Jupiter's Dasha, a benefic Lagna's sub-period brings great joy, gain of elephants/horses, honor from kings, wisdom, and religious thoughts.",
+      "hindi_meaning": "गुरु की महादशा में शुभ लग्न की अंतर्दशा महाहर्ष, हाथी-घोड़ों का लाभ, राजा से सम्मान, विवेक और धर्म बुद्धि दिलाती है।"
+    },
+    {
+      "number": 40,
+      "text": "पापोद्भवा लग्नदशा दशायां\nजीवस्य धत्ते कलहेन लाभम् ।\nसंसेवया नीचजनस्य नित्यं\nविद्वेषणं साधूजनस्य पुंसाम्",
+      "english_meaning": "In Jupiter's Dasha, a malefic sub-period brings gains through disputes, constant service to lowly people, and hatred of good people.",
+      "hindi_meaning": "गुरु की महादशा में पाप अंतर्दशा कलह से लाभ, नीच लोगों की निरंतर सेवा और सज्जनों से द्वेष लाती है।"
+    },
+    {
+      "number": 41,
+      "text": "लाभं खरोष्ट्रप्रभवं नराणां\nकुधान्यजं चैव जनापवादम् ।\nशौक्री दशा सौर्यदशाविपाके\nकरोति बालस्य तथा प्रमोहम्",
+      "english_meaning": "In Venus' Dasha, the Sun's sub-period brings gains of donkeys/camels, bad grains, public scandal, and confusion or distress for children.",
+      "hindi_meaning": "शुक्र की महादशा में सूर्य की अंतर्दशा गधों/ऊंटों का लाभ, खराब अन्न, लोकापवाद और बालकों के लिए व्याकुलता या कष्ट लाती है।"
+    },
+    {
+      "number": 42,
+      "text": "धर्मक्रीयाराधनमुन्त्तमानां\nलाभं पुरक्षेत्रविलासिनीनाम् ।\nभृगोर्दशा रात्रिप्तेर्दशायां\nनृणां विधत्ते बहुवित्तजं च",
+      "english_meaning": "In Venus' Dasha, the Moon's sub-period brings religious acts, worship of high people, gains of towns/fields/women, and much wealth.",
+      "hindi_meaning": "शुक्र की महादशा में चन्द्र की अंतर्दशा धर्म कार्य, श्रेष्ठ लोगों की पूजा, नगर-क्षेत्र-स्त्रियों का लाभ और भारी धन प्राप्ति कराती है।"
+    },
+    {
+      "number": 43,
+      "text": "विदेशवासं परपक्षपूजां\nकुधर्मसेवां कुजनानुरागम् ।\nभृगोर्दशां भुमदशा प्रयाता\nकरोति वेश्याजनसम्प्रयोगम्",
+      "english_meaning": "In Venus' Dasha, Mars' sub-period brings foreign residence, worship of other factions, service to bad religions, and association with prostitutes.",
+      "hindi_meaning": "शुक्र की महादशा में मंगल की अंतर्दशा विदेश वास, दूसरे पक्षों की पूजा, कुधर्म की सेवा और वेश्याओं का संग कराती है।"
+    },
+    {
+      "number": 44,
+      "text": "विद्यां विवेकं प्रभुतो च कीर्तिं\nसुधर्मलब्धं नृपमेश्च मानभ ।\nदशा भृगोः सौम्यदशाविपके\nनृणां विधत्ते गत्तवार्जितलाभम्",
+      "english_meaning": "In Venus' Dasha, Mercury's sub-period brings knowledge, wisdom, authority, fame, royal respect, and gains through previously earned merits.",
+      "hindi_meaning": "शुक्र की महादशा में बुध की अंतर्दशा विद्या, विवेक, प्रभुता, यश, राजा से सम्मान और पूर्व-अर्जित पुण्यों से लाभ दिलाती है।"
+    },
+    {
+      "number": 45,
+      "text": "लाभं गृहक्षेत्रपुरास्वजातं\nसुवर्णस्वनाम्बरयो जनानाम् ।\nदशा भृगोर्जीवदशाविपके\nकरोति लाभं सुतदारसौख्यम्",
+      "english_meaning": "In Venus' Dasha, Jupiter's sub-period brings gains of house, land, towns, gold, clothes, and happiness from sons and wife.",
+      "hindi_meaning": "शुक्र की महादशा में गुरु की अंतर्दशा घर-भूमि-नगर का लाभ, स्वर्ण, वस्त्र और स्त्री-पुत्र से सुख दिलाती है।"
+    },
+    {
+      "number": 46,
+      "text": "प्रमादनिद्राकलहं सुवेश-\nमालस्यतां देहकृतं च लाभम् ।\nद्रोहं स्ववर्गेण परेण ..........\n.......... आति शौक्री रविजस्य पाके",
+      "english_meaning": "In Venus' Dasha, Saturn's sub-period causes error/delusion, sleepiness, disputes, laziness, bodily gains, and treachery within family.",
+      "hindi_meaning": "शुक्र की महादशा में शनि की अंतर्दशा प्रमाद, निद्रा, कलह, आलस्य, शारीरिक लाभ और स्वजनों के प्रति द्रोह पैदा करती है।"
+    },
+    {
+      "number": 47,
+      "text": "शौक्रीं दशां लग्नदशा प्रयाता\nसौम्योद्भवायं कुरुतेऽर्थसिधिम् ।\nप्रतापवृद्धिं प्रभुतां विवेकं\n..........",
+      "english_meaning": "In Venus' Dasha, a benefic Lagna's sub-period brings success in financial matters, increase of power, authority, and wisdom.",
+      "hindi_meaning": "शुक्र की महादशा में शुभ लग्न की अंतर्दशा अर्थ सिद्धि, प्रताप की वृद्धि, प्रभुता और विवेक की प्राप्ति कराती है।"
+    },
+    {
+      "number": 48,
+      "text": "पापोद्भवे वंचनतस्तु लाभं\nदैन्येन पापं बहुगर्जितेन ।\nकुकर्मणा सूधुनिपीडनेन\nभृगोर्दशा लग्नदशाविपाके",
+      "english_meaning": "In Venus' Dasha, a malefic sub-period brings gains through deception, poverty despite sins, and success through bad deeds or harassing good people.",
+      "hindi_meaning": "शुक्र की महादशा में पाप अंतर्दशा धोखे से लाभ, पापों के बावजूद दरिद्रता, और कुकर्मों या सज्जनों को सताने से सफलता लाती है।"
+    },
+    {
+      "number": 49,
+      "text": "मान्दी दशा भानुर्दशाविपाके\nकरोति नाशं धनपुत्रसम्भवम् ।\nक्लेशं प्रवासं भयमिष्टहानिं\nदेवद्विजानां परिपीडानं च",
+      "english_meaning": "In Saturn's Dasha, the Sun's sub-period causes destruction of wealth and sons, distress, foreign travel, fear, loss of loved ones, and harassment of gods/Brahmins.",
+      "hindi_meaning": "शनि की महादशा में सूर्य की अंतर्दशा धन-पुत्र का नाश, क्लेश, प्रवास, भय, इष्ट हानि और देव-ब्राह्मणों को पीड़ा पहुँचाती है।"
+    },
+    {
+      "number": 50,
+      "text": "मान्दी दशा चन्द्रदशाविपाके\nआलस्यमार्तिं कुरुते सदैव ।\nकुकर्मसिद्धिं कुजनस्य लाभं\nकुकर्मसेवां सततं नराणाम्",
+      "english_meaning": "In Saturn's Dasha, the Moon's sub-period brings laziness, constant suffering, success in bad deeds, and constant service to bad people.",
+      "hindi_meaning": "शनि की महादशा में चन्द्र की अंतर्दशा आलस्य, निरंतर कष्ट, कुकर्मों में सफलता और नीच लोगों की निरंतर सेवा कराती है।"
+    },
+    {
+      "number": 51,
+      "text": "हृद्रोगदुःखं परवित्तहानिं\n.......... पोषणं चौरकृतं सदैव ।\nशनिर्दशा भौमदशाविपाके\nकरोति वैरं निजबन्धुलोकैः",
+      "english_meaning": "In Saturn's Dasha, Mars' sub-period causes heart diseases, sorrow, loss of others' wealth, theft, and enmity with own family and friends.",
+      "hindi_meaning": "शनि की महादशा में मंगल की अंतर्दशा हृदय रोग, दुख, दूसरों के धन की हानि, चोरी और अपने बंधु-मित्रों से वैर पैदा करती है।"
+    },
+    {
+      "number": 52,
+      "text": "बौधी दशा सौरदशां प्रयाता\n.......... वृद्धिं जनयेन्मनुष्यम् ।\nपित्तानिलश्लेष्मकृतं विकार-\nमालस्यमुद्वेगमहाभयं च",
+      "english_meaning": "In Saturn's Dasha, Mercury's sub-period brings mixed results, suffering from pitta, air, and phlegm disorders, laziness, anxiety, and great fear.",
+      "hindi_meaning": "शनि की महादशा में बुध की अंतर्दशा मिश्रित फल, पित्त-वात-कफ विकार, आलस्य, उद्वेग और भारी भय लाती है।"
+    },
+    {
+      "number": 53,
+      "text": "दशा शनेर्देवपुरोहितस्य\nयदा दशायां परिपाकमेति ।\nअसद्वयं बान्धवबन्धनं च\nतदा विधत्ते गुणविप्रकर्षम्",
+      "english_meaning": "In Saturn's Dasha, Jupiter's sub-period brings success in unworthy acts, bondage of relatives, and loss of good qualities.",
+      "hindi_meaning": "शनि की महादशा में गुरु की अंतर्दशा अनुचित कार्यों में सफलता, बंधुओं का बंधन और गुणों का ह्रास कराती है।"
+    },
+    {
+      "number": 54,
+      "text": "शौक्री दशा सौरदशाविपाके\nकरोति पुंसां प्रभुतां कुवर्गे ।\nनीचैर्विवादं बहुनीचलाभं\nधर्मस्य नाशं परधर्मवृद्धिम्",
+      "english_meaning": "In Saturn's Dasha, Venus' sub-period brings authority over lowly people, disputes with lowly folk, loss of religion, and growth of other religions.",
+      "hindi_meaning": "शनि की महादशा में शुक्र की अंतर्दशा नीच लोगों पर प्रभुता, नीच जनों से विवाद, स्वधर्म का नाश और परधर्म की वृद्धि दर्शाती है।"
+    },
+    {
+      "number": 55,
+      "text": "लाग्न्यां यदा सूर्यसुतो विपाकं\nसौम्योद्भवायां कुरुतेऽतिगर्वम् ।\nऔद्धत्यमिष्टैः सह वंचनानि\nनानापटुत्वं सततं नितान्तम्",
+      "english_meaning": "In Saturn's Dasha, a benefic Lagna's sub-period brings great pride, arrogance among loved ones, expert deception, and various clevernesses.",
+      "hindi_meaning": "शनि की महादशा में शुभ लग्न की अंतर्दशा अत्यधिक गर्व, प्रियजनों के बीच उद्दंडता, चतुर धोखा और विभिन्न प्रकार की चतुराई लाती है।"
+    },
+    {
+      "number": 56,
+      "text": "पापोद्भवायां रविजस्य जाता\n.......... ं कुरुते सुहानिम् ।\nशिरोर्तिपित्तज्वरवेदनाश्च\nबहुप्रकाराः परमं च शोकम्",
+      "english_meaning": "In Saturn's Dasha, a malefic sub-period causes great loss, headaches, pitta fever, severe pain, various sorrows, and extreme grief.",
+      "hindi_meaning": "शनि की महादशा में पाप अंतर्दशा भारी हानि, सिर दर्द, पित्त ज्वर, तीव्र पीड़ा और विभिन्न प्रकार के घोर शोक पैदा करती है।"
+    },
+    {
+      "number": 57,
+      "text": "विलग्णि सूर्यदशाविपाके\nकरोति सौम्यांनियमं कु.......... ।\nअसज्जनैः सङ्गामथाज्ञता च\nविद्वेषतां बन्धुजनेन नित्यम्",
+      "english_meaning": "In the Dasha of the Sun, the sub-period of a benefic Lagna brings success in efforts, gain of clothes, and happiness from kin.",
+      "hindi_meaning": "सूर्य की महादशा में शुभ लग्न की अंतर्दशा प्रयत्नों में सफलता, वस्त्र लाभ और बंधुओं से सुख प्रदान करती है।"
+    },
+    {
+      "number": 58,
+      "text": "चान्द्र्यां प्रयाता प्रकरोति सिद्धिं\nदशा विलग्नस्य तु सौम्यरूपा ।\nमिष्टान्नपानानि पृथग्विधानि\nशत्रुक्षयं पार्थिवलोकपूजाम्",
+      "english_meaning": "In the Dasha of the Moon, the sub-period of a benefic Lagna brings gain of wealth, agriculture, and various enjoyments for the native.",
+      "hindi_meaning": "चन्द्रमा की महादशा में शुभ लग्न की अंतर्दशा धन, कृषि लाभ और जातक के लिए विभिन्न भोगों की प्राप्ति कराती है।"
+    },
+    {
+      "number": 59,
+      "text": "सौम्या दशा भूमिसुतस्य पाके\nयदा विलग्नस्य करोति पाकम् ।\nतदातिरोगं रुधिरोद्भवं स्या-\nद्विद्वेषता सर्वजनेन नित्यम्",
+      "english_meaning": "In the Dasha of Mars, the sub-period of a benefic Lagna brings residence in remote places, love for others' wives, and occasional fear from the king.",
+      "hindi_meaning": "मंगल की महादशा में शुभ लग्न की अंतर्दशा दूरस्थ स्थानों में निवास, परस्त्री में अनुराग और कभी-कभी राजा से भय पैदा करती है।"
+    },
+    {
+      "number": 60,
+      "text": "प्रतापं प्रणयं च लोके\nविवेकविद्यागममर्थसिद्धिम् ।\nविलग्नी दशा सौम्यदशाविपाके\nसौम्या विधत्ते गुरुकामसेवाम्",
+      "english_meaning": "In the Dasha of Mercury, the sub-period of a benefic Lagna brings fame, power, supreme happiness, and gains of animals, clothes, and land.",
+      "hindi_meaning": "बुध की महादशा में शुभ लग्न की अंतर्दशा यश, प्रताप, परम सुख और पशु, वस्त्र व भूमि का लाभ कराती है।"
+    },
+    {
+      "number": 61,
+      "text": "मन्त्रौवधीछादनभोजनानि\nविलग्नी दशा जीवदशां प्रयाता ।\nसुधनानि सौख्यं ..........\nसौख्यं नरेन्द्रेण विवेकतां च",
+      "english_meaning": "In the Dasha of Jupiter, the sub-period of a benefic Lagna brings great joy, gain of elephants/horses, honor from kings, and religious thoughts.",
+      "hindi_meaning": "गुरु की महादशा में शुभ लग्न की अंतर्दशा महाहर्ष, हाथी-घोड़ों का लाभ, राजा से सम्मान और धर्म बुद्धि प्रदान करती है।"
+    },
+    {
+      "number": 62,
+      "text": "भृगोर्दशायां प्रकरोति लाग्नी\nसौम्या दशा मानुसुखं विधत्ते ।\nप्रियातिथित्वं प्रचुरांश्च भोगां\nविवेकतां साधु नन सख्यम्",
+      "english_meaning": "In the Dasha of Venus, the sub-period of a benefic Lagna brings financial success, increased power, authority, and wisdom.",
+      "hindi_meaning": "शुक्र की महादशा में शुभ लग्न की अंतर्दशा अर्थ सिद्धि, प्रताप की वृद्धि, प्रभुता और विवेक प्रदान करती है।"
+    },
+    {
+      "number": 63,
+      "text": "पापादशा लग्नसमुद्भवा च\nशनेर्दशायां कुरुते प्रमादम् ।\nआलस्यमुद्वेगगुरुप्रकोपं\nविमाननां पार्थिवजं भयं च",
+      "english_meaning": "In the Dasha of Saturn, the sub-period of a benefic Lagna brings great pride, arrogance among loved ones, and expert deceptions.",
+      "hindi_meaning": "शनि की महादशा में शुभ लग्न की अंतर्दशा अत्यधिक गर्व, प्रियजनों के बीच उद्दंडता और चतुर छल-प्रपंच लाती है।"
+    },
+    {
+      "number": 64,
+      "text": "पापा दशा लग्नसमुद्भवा च\nरवेर्दशायां प्रकरोति हानिम् ।\nसदा प्रमासं प्रचुरां च पीडाम्",
+      "english_meaning": "In the Sun's Dasha, a malefic Lagna sub-period brings sinful thoughts, hatred of Brahmins/Gods, anger of gurus, and fear from kings/thieves.",
+      "hindi_meaning": "सूर्य की महादशा में पाप लग्न की अंतर्दशा पाप बुद्धि, ब्राह्मणों-देवताओं से द्वेष, गुरु का कोप और राजा-चोरों से भय लाती है।"
+    },
+    {
+      "number": 65,
+      "text": "सुहृत्प्रकोपं कुरुते न सौख्यं\n।\nलाग्नी दशा चन्द्रदशां\nपापा विधत्ते खलुबन्धवं च",
+      "english_meaning": "In the Moon's Dasha, a malefic Lagna sub-period brings gains of donkeys/camels, religious hypocrisy, and enmity with kin, friends, and sons.",
+      "hindi_meaning": "चन्द्रमा की महादशा में पाप लग्न की अंतर्दशा गधों-ऊंटों की प्राप्ति, पाखंड और स्वजनों, मित्रों व पुत्रों से वैर पैदा करती है।"
+    },
+    {
+      "number": 66,
+      "text": "शिरोर्तिदाहज्वरमिष्टनाशं\nभयं प्रकोपं कलहं सदैव ।\nलाग्नी दशा भौमदशाविपाके\nकरोति नाशं निजबन्धवानाम्",
+      "english_meaning": "In Mars' Dasha, a malefic Lagna sub-period causes bodily pain due to disease, honor and insult among own people, and false wisdom.",
+      "hindi_meaning": "मंगल की महादशा में पाप लग्न की अंतर्दशा रोगों से शारीरिक कष्ट, अपने लोगों के बीच मान-अपमान और मिथ्या ज्ञान लाती है।"
+    },
+    {
+      "number": 67,
+      "text": "सौम्यां दशायां कुरुते प्रवा\nलाग्नी दशा पापरतिं कुपूजाम् ।\nपापातिपापानि यथा विधत्ते\nगुरुद्विजप्रेषणजैर्विकारैः",
+      "english_meaning": "In Mercury's Dasha, a malefic Lagna sub-period causes family enmity, loss of cattle/wealth, strange diseases, and constant conflicts.",
+      "hindi_meaning": "बुध की महादशा में पाप लग्न की अंतर्दशा कुटुम्ब वैर, पशु-धन की हानि, विचित्र रोग और निरंतर कलह पैदा करती है।"
+    },
+    {
+      "number": 68,
+      "text": "गुरोर्दशायामनुसम्प्रविष्टा\nदशा विलग्नस्य यदा च पापा ।\nतदा धनैरात्मगृहोद्भवैश्च\nकरोति भोगान् विविधान् मनुष्यः",
+      "english_meaning": "In Jupiter's Dasha, a malefic Lagna sub-period brings gains through disputes, constant service to lowly people, and hatred of good people.",
+      "hindi_meaning": "गुरु की महादशा में पाप लग्न की अंतर्दशा कलह से लाभ, नीच लोगों की सेवा और सज्जनों से द्वेष पैदा करती है।"
+    },
+    {
+      "number": 69,
+      "text": "दम्भेन धर्मं सभयेन चिन्त्यं\nनृणां विधत्ते कुधिया च चारम् ।\nलाग्नी दशा शुक्रदशाविपाके\nपापा सुदैन्यं न कुतुम्बवृद्धिम्",
+      "english_meaning": "In Venus' Dasha, a malefic Lagna sub-period brings gains through deception, poverty despite sins, and success through bad deeds or harassing good people.",
+      "hindi_meaning": "शुक्र की महादशा में पाप लग्न की अंतर्दशा धोखे से लाभ, पापों के बावजूद दरिद्रता, और कुकर्मों या सज्जनों को सताने से सफलता लाती है।"
+    },
+    {
+      "number": 70,
+      "text": "क्लेशान् विचित्रान् सुतदारवैरं\nधनप्रणाशं प्रचुरां च वाणीम् ।\nलाग्नी दशा मन्ददशाविपाके\nपापा विधत्ते विविधांश्च रोगान्",
+      "english_meaning": "In Saturn's Dasha, a malefic Lagna sub-period causes great loss, headaches, pitta fever, severe pain, and various sorrows.",
+      "hindi_meaning": "शनि की महादशा में पाप लग्न की अंतर्दशा भारी हानि, सिर दर्द, पित्त ज्वर, तीव्र पीड़ा और विभिन्न प्रकार के शोक पैदा करती है।"
+    }
+  ]
+}

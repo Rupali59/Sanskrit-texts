@@ -1,0 +1,42 @@
+{
+  "source_file": "BPHS6170.md",
+  "source_chunk": "BPHS6170.json",
+  "chunk_index": 9,
+  "chapter": 67,
+  "variant": null,
+  "title": "अथ त्रिकोणशोधनाध्यायः",
+  "shloka_count": 5,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "एवं सलग्नखेटानां विधायाष्टकवर्गकम् ।\nत्रिकोणशोधनं कुर्यादादौ सर्वंषु राशिषु",
+      "english_meaning": "After preparing the Ashtakavarga for planets and Lagna, one should first perform Trikona Shodhana (triangular reduction) in all signs.",
+      "hindi_meaning": "ग्रहों और लग्न के लिए अष्टकवर्ग तैयार करने के बाद, पहले सभी राशियों में त्रिकोण शोधन करना चाहिए।"
+    },
+    {
+      "number": 2,
+      "text": "त्रिकोणं कथ्यते विप्र मेषसिंहधनूंष्यथ ।\nवृषकन्यामृगस्याश्च युग्मतौलिघटास्तथा",
+      "english_meaning": "Trikona (triangular) signs are: Aries-Leo-Sagittarius; Taurus-Virgo-Capricorn; Gemini-Libra-Aquarius; and Cancer-Scorpio-Pisces.",
+      "hindi_meaning": "त्रिकोण राशियाँ हैं: मेष-सिंह-धनु; वृषभ-कन्या-मकर; मिथुन-तुला-कुम्भ; और कर्क-वृश्चिक-मीन।"
+    },
+    {
+      "number": 3,
+      "text": "कर्कवृश्चिकमीनाश्च त्रिकोणाः स्युः परस्परम् ।\nअधोऽधः सर्वराशीनामष्टवर्गफलं न्यसेत्",
+      "english_meaning": "One should note the Bindus of these signs and perform the reduction based on the minimum value among them.",
+      "hindi_meaning": "इन राशियों के बिन्दुओं को नोट करना चाहिए और उनमें से न्यूनतम मूल्य के आधार पर शोधन करना चाहिए।"
+    },
+    {
+      "number": 4,
+      "text": "त्रिकोणेषु च यन्न्यूनं तत्तुल्यं त्रिषु शोधयेत् ।\nएकस्मिन् भवने शून्यं तत् त्रिकोणं न शोधयेत्",
+      "english_meaning": "If a sign is empty (zero Bindus), no reduction is performed in its Trikona group.",
+      "hindi_meaning": "यदि कोई राशि रिक्त (शून्य बिन्दु) है, तो उसके त्रिकोण समूह में कोई शोधन नहीं किया जाता है।"
+    },
+    {
+      "number": 5,
+      "text": "समत्वे सर्वगेहेषु सर्वं संशोधयेद् बुधः ।\nपश्चात् विपश्चिता कार्यमेकाधिपतिशोधनम्",
+      "english_meaning": "If all three signs in a Trikona group have Bindus, subtract the minimum value from all three.",
+      "hindi_meaning": "यदि एक त्रिकोण समूह की तीनों राशियों में बिन्दु हैं, तो तीनों से न्यूनतम मूल्य घटा दें।"
+    }
+  ]
+}

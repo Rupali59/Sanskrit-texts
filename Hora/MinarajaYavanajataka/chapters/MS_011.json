@@ -1,0 +1,432 @@
+{
+  "number": "11",
+  "title": "भौमदर्शनचाराध्यायः",
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "मेषे गतो भूमिसुतः प्रसूते\nसूर्येण दृष्टो विधनं मनुष्यम् ।\nविहिनबुद्धिं कृपणस्वभावं\nविवर्जितं सत्यदयानयद्यैः",
+      "english_meaning": "Mars in Aries aspected by Sun: Makes one devoid of wealth, lacking in intelligence, of a miserly nature, and devoid of truth, compassion, and policy/ethics.",
+      "hindi_meaning": "मेष राशि में सूर्य से दृष्ट मंगल: जातक को धनहीन, बुद्धिहीन, कृपण स्वभाव वाला और सत्य, दया व नीति से रहित बनाता है।"
+    },
+    {
+      "number": 2,
+      "text": "मेषाश्रीतो भूमिसुतेअः प्रसूते\nचन्द्रेण दृष्टः प्रियमिष्टधर्मम् ।\nदयानुरक्तं पितृमातृभक्तं\nमुख्यं स्ववर्गे नियतं सदैव",
+      "english_meaning": "Mars in Aries aspected by Moon: Makes one pleasant, fond of desired religious practices, compassionate, a devotee of parents, and always a leader in their own group/class.",
+      "hindi_meaning": "मेष राशि में चन्द्रमा से दृष्ट मंगल: जातक को प्रिय, इष्ट धर्म में लगा हुआ, दयालु, माता-पिता का भक्त और अपने वर्ग में सदैव मुख्य (प्रधान) बनाता है।"
+    },
+    {
+      "number": 3,
+      "text": "भौमोऽजसंस्थो बुधदृष्टियुक्तः\nकरोति सत्यं वनितासु दक्षम् ।\nपुशिक्षितं शास्त्रकथासु दक्षं\nयज्ञोद्यतं पौष्टिकमेव नित्यम्",
+      "english_meaning": "Mars in Aries aspected by Mercury: Makes one truthful, expert in dealing with women, well-educated, skilled in scriptural discourses, ready for sacrifices (Yajnas), and always fond of nourishing/strengthening things.",
+      "hindi_meaning": "मेष राशि में बुध से दृष्ट मंगल: जातक को सत्यवादी, स्त्रियों के कार्यों में चतुर, सुशिक्षित, शास्त्र-कथाओं में दक्ष, यज्ञ के लिए तत्पर और सदैव पौष्टिक वस्तुओं में रुचि रखने वाला बनाता है।"
+    },
+    {
+      "number": 4,
+      "text": "जीवेन दृष्टः क्षितिजोऽजसंस्थो\nनरं सुवाते बहुशास्त्रलुब्धम् ।\nहिरण्यवस्त्रैश्च चतुष्पदाद्यं\nविवर्जितं पापकथानुषङ्गैः",
+      "english_meaning": "Mars in Aries aspected by Jupiter: Makes one greedy for many scriptures (eager to learn), endowed with gold, clothes, and quadrupeds, and avoiding involvement in sinful talks.",
+      "hindi_meaning": "मेष राशि में गुरु से दृष्ट मंगल: जातक को शास्त्रों का पिपासु, स्वर्ण-वस्त्रों और चौपायों से युक्त तथा पाप-कथाओं के संग से रहित बनाता है।"
+    },
+    {
+      "number": 5,
+      "text": "शुक्रेण दृष्टः प्रकरोति भौमो\nमेषाश्रितस्तीर्थकथानुरक्तम् ।\nशौचाधिकं देवगुरुप्रसक्तं\nस्वधर्मसंस्थं सुरतप्रगल्भम्",
+      "english_meaning": "Mars in Aries aspected by Venus: Makes one fond of tales of pilgrimages, highly pure, attached to gods and gurus, staying in their own religion, and expert in sexual pleasure.",
+      "hindi_meaning": "मेष राशि में शुक्र से दृष्ट मंगल: जातक को तीर्थ-कथाओं में आसक्त, परम पवित्र, देव-गुरु भक्त, स्वधर्म-निष्ठ और रति-क्रीड़ा में प्रगल्भ बनाता है।"
+    },
+    {
+      "number": 6,
+      "text": "नयातिगं बान्धववैरभाजं\nसौरेण दृष्टः क्षितिजः प्रसूते ।\nमेषे मनुष्यं परदेशरक्तं\nविहीनकोपं भयसंयुतं च",
+      "english_meaning": "Mars in Aries aspected by Saturn: Makes one overstepping ethics/policy, having enmity with relatives, fond of foreign lands, devoid of anger, and filled with fear.",
+      "hindi_meaning": "मेष राशि में शनि से दृष्ट मंगल: जातक को नीति का उल्लंघन करने वाला, बन्धुओं से वैर रखने वाला, परदेश-प्रेमी, क्रोधहीन और भयभीत बनाता है।"
+    },
+    {
+      "number": 7,
+      "text": "वृषाश्रितो भूतनयः प्रसूते\nसूर्येण दृष्टो रतिदःसिताङ्गम् ।\nविहीनधर्मं जरया समेतं\nत्यक्तं जनैः पीडितमुग्रशोकैः",
+      "english_meaning": "Mars in Taurus aspected by Sun: Makes one having a body white like Cupid (or perhaps pale/diseased?), devoid of religion, aged/frail, abandoned by people, and tormented by severe sorrows.",
+      "hindi_meaning": "वृष राशि में सूर्य से दृष्ट मंगल: जातक को कामदेव के समान (या श्वेत) शरीर वाला, धर्महीन, बुढ़ापे/शिथिलता से युक्त, लोगों द्वारा त्यागा हुआ और उग्र शोकों से पीड़ित बनाता है।"
+    },
+    {
+      "number": 8,
+      "text": "चन्द्रेण दृष्टः क्षितिजो गविस्थो\nनरं सुवाते सततं नयज्ञम् ।\nप्रियं प्रसचं सततं सुकान्तं\nमनोज्ञवेशं भयवर्जितं च",
+      "english_meaning": "Mars in Taurus aspected by Moon: Makes one always an expert in policy, pleasant, attached/loyal, always beautiful, having attractive dress, and devoid of fear.",
+      "hindi_meaning": "वृष राशि में चन्द्रमा से दृष्ट मंगल: जातक को सदैव नीतिज्ञ, प्रिय, आसक्त (निष्ठावान), सदैव कान्त (सुंदर), सुंदर वेष वाला और भय-रहित बनाता है।"
+    },
+    {
+      "number": 9,
+      "text": "बुधेन दृष्टः क्षितिजो गविस्थः\nकरोति कीर्त्या सहितं मनुष्यम् ।\nनानाधनैः संयुतमिष्टसत्यं\nगुरुप्रसक्तं विनयाधिकं च",
+      "english_meaning": "Mars in Taurus aspected by Mercury: Makes one endowed with fame, having various kinds of wealth, fond of truth, attached to gurus, and highly modest.",
+      "hindi_meaning": "वृष राशि में बुध से दृष्ट मंगल: जातक को कीर्तिमान, विविध धनों से युक्त, सत्य-प्रिय, गुरु-भक्त और अत्यन्त विनीत बनाता है।"
+    },
+    {
+      "number": 10,
+      "text": "दृष्टो गविस्थः क्षितिजः प्रशान्तं\nजीवेन नित्यं जनयेन्मनुष्यम् ।\nपथ्याशिनं सर्वकलासु दक्षं\nविचित्ररत्नं पशुसंयुतं च",
+      "english_meaning": "Mars in Taurus aspected by Jupiter: Makes one peaceful, eating wholesome food (Pathya), expert in all arts, and endowed with various gems and animals.",
+      "hindi_meaning": "वृष राशि में गुरु से दृष्ट मंगल: जातक को परम शान्त, पथ्य भोजन करने वाला, समस्त कलाओं में दक्ष और विविध रत्नों व पशुओं से युक्त बनाता है।"
+    },
+    {
+      "number": 11,
+      "text": "शुक्रेण दृष्टो गवि भूमिपुत्रो\nगोभूहिरण्यैः सहितं प्रसूते ।\nनरं निधिग्रामपुरैः समेतं\nसूसंयुतं धर्म परं सदैव",
+      "english_meaning": "Mars in Taurus aspected by Venus: Endows one with cows, land, and gold, makes one owner of treasures, villages, and towns, well-composed, and always religious.",
+      "hindi_meaning": "वृष राशि में शुक्र से दृष्ट मंगल: जातक को गौ, भूमि व स्वर्ण से युक्त, निधियों-ग्रामों व नगरों का स्वामी, सुसंयमित और सदैव धर्म-परायण बनाता है।"
+    },
+    {
+      "number": 12,
+      "text": "मन्देन दृष्टो बहुमानभाजं\nवृषे विधत्ते क्षितिजो मनुष्यम् ।\nसुदीर्घसूत्रं विनयेन हीनं\nप्रेष्यं खलं पापधनं कृतघ्नम्",
+      "english_meaning": "Mars in Taurus aspected by Saturn: Makes one highly respected, but a slow-worker (procrastinator), devoid of modesty, a servant, wicked, having wealth from sins, and ungrateful.",
+      "hindi_meaning": "वृष राशि में शनि से दृष्ट मंगल: जातक को बहु-मान्य, परन्तु दीर्घसूत्री (काम टालने वाला), विनय-हीन, सेवक, खल (दुष्ट), पाप की कमाई वाला और कृतघ्न बनाता है।"
+    },
+    {
+      "number": 13,
+      "text": "नृयुग्मसंस्थः क्षितिजः प्रसूते\nसूर्येन दृष्टः परतर्कुकं च ।\nनरं विहीनं सुतमित्रदारैः\nपराजितं नीचरतं सुदुष्टम्",
+      "english_meaning": "Mars in Gemini aspected by Sun: Makes one a wanderer/beggar, devoid of sons, friends, and wife, defeated, attached to low deeds, and very wicked.",
+      "hindi_meaning": "मिथुन राशि में सूर्य से दृष्ट मंगल: जातक को इधर-उधर भटकने वाला (या याचक), पुत्र-मित्र-स्त्री से हीन, पराजित, नीच कार्यों में रत और अत्यन्त दुष्ट बनाता है।"
+    },
+    {
+      "number": 14,
+      "text": "चन्द्रेण दृष्टः क्षितिजस्तृतीये\nराशौ प्रसूते नृपपूजिताङ्गम् ।\nखरोदृष्टगोवित्तचयेन युक्तं\nप्रभाविनं ब्राह्मणसंमतं च",
+      "english_meaning": "Mars in Gemini aspected by Moon: Makes one honored by the king, endowed with horses, camels, and wealth, influential, and respected by Brahmins.",
+      "hindi_meaning": "मिथुन राशि में चन्द्रमा से दृष्ट मंगल: जातक को राजा द्वारा पूजित, गधों-ऊंटों-गौओं व धन के समूह से युक्त, प्रभावशाली और ब्राह्मणों द्वारा सम्मत (मान्य) बनाता है।"
+    },
+    {
+      "number": 15,
+      "text": "बुधेन दृष्टः क्षितिजो नृयुग्मे\nस्थितः प्रियं बन्धुजनस्य नित्यम् ।\nस्त्रीभोगशय्यासनयानयुक्तं\nहितं हि सर्वस्य जनस्य नित्यम्",
+      "english_meaning": "Mars in Gemini aspected by Mercury: Makes one always loved by relatives, endowed with enjoyment of women, beds, seats, and vehicles, and always beneficial to all people.",
+      "hindi_meaning": "मिथुन राशि में बुध से दृष्ट मंगल: जातक को सदैव बन्धुओं का प्रिय, स्त्री-सुख, शय्या, आसन व वाहनों से युक्त और समस्त जनों के लिए सदैव हितकारी बनाता है।"
+    },
+    {
+      "number": 16,
+      "text": "जीवेन दृष्टो मिथुने दयाढ्यं\nकुजः प्रसूते बहुशास्त्ररक्तम् ।\nनरं सैदा तीर्थव्रप्रसक्तं\nश्रद्धान्वितं शौचसमन्वितं च",
+      "english_meaning": "Mars in Gemini aspected by Jupiter: Makes one very compassionate, fond of many scriptures, always attached to pilgrimages and vows, filled with faith, and endowed with purity.",
+      "hindi_meaning": "मिथुन राशि में गुरु से दृष्ट मंगल: जातक को परम दयालु, अनेक शास्त्रों में रुचि रखने वाला, सदैव तीर्थ-व्रतों में लगा हुआ, श्रद्धावान और शौच (पवित्रता) से युक्त बनाता है।"
+    },
+    {
+      "number": 17,
+      "text": "शुक्रेण दृष्टो मिथुने प्रसूते\nभौमः प्रगल्-भं सुभगं मनुष्यम् ।\nविनीतवेषं परवीतभजं\nसुसङ्गतं साधुजनस्य नित्यम्",
+      "english_meaning": "Mars in Gemini aspected by Venus: Makes one bold/proud, lucky, having modest dress, subduing/enjoying others' wealth (or perhaps victorious?), and always in the good company of virtuous people.",
+      "hindi_meaning": "मिथुन राशि में शुक्र से दृष्ट मंगल: जातक को प्रगल्भ, भाग्यशाली, विनीत वेष वाला, दूसरों को प्रभावित करने वाला और सदैव सज्जनों की उत्तम संगति वाला बनाता है।"
+    },
+    {
+      "number": 18,
+      "text": "सौरेण दृष्टः क्षितिजः सपपं\nराशौ तृतीये जनयेन्मनुष्यम् ।\nरोगाकुलं छिद्रपरं परेषां\nस्वभावदुष्टं गतसौहृदं च",
+      "english_meaning": "Mars in Gemini aspected by Saturn: Makes one sinful, afflicted by diseases, looking for faults in others, of a wicked nature, and devoid of friendship.",
+      "hindi_meaning": "मिथुन राशि में शनि से दृष्ट मंगल: जातक को पापी, रोगों से व्याकुल, दूसरों के छिद्र (दोष) ढूँढने वाला, स्वभाव से दुष्ट और मित्रता से रहित बनाता है।"
+    },
+    {
+      "number": 19,
+      "text": "कर्काश्रितो भूतनयःप्रसूते\nसूर्येण दृष्टः परसाहसाध्वम् ।\nविहीनवीत्तं गुरुरोगभाजं\nसदा विहीनं निजबन्धुवर्गैः",
+      "english_meaning": "Mars in Cancer aspected by Sun: Makes one performing extreme adventures/deeds, devoid of wealth, suffering from heavy/severe diseases, and always devoid of their own relatives.",
+      "hindi_meaning": "कर्क राशि में सूर्य से दृष्ट मंगल: जातक को दुस्साहसी, धनहीन, भारी रोगों का भागी और सदैव अपने बन्धु-वर्ग से रहित बनाता है।"
+    },
+    {
+      "number": 20,
+      "text": "चन्द्रेण दृष्टो धनधान्ययुक्तं\nभौमः प्रसूते खलु कर्कटस्थः\nदयासमेतं गतपापमिष्तं\nसर्वस्य लोके विभवेन युक्तम्",
+      "english_meaning": "Mars in Cancer aspected by Moon: Makes one endowed with wealth and grains, compassionate, free from sins, desired by everyone in the world, and endowed with prosperity.",
+      "hindi_meaning": "कर्क राशि में चन्द्रमा से दृष्ट मंगल: जातक को धन-धान्य से युक्त, दयालु, पापरहित, लोक में सबका प्रिय और वैभवशाली बनाता है।"
+    },
+    {
+      "number": 21,
+      "text": "कर्कस्थितो भूतनयः प्रसूते\nबुधेन दृष्टो बहुबुद्धियुक्तम् ।\nद्विजातियुक्तं प्रचुरतापं\nनृपसादात् परमप्रहृष्टम्",
+      "english_meaning": "Mars in Cancer aspected by Mercury: Makes one endowed with much intelligence, associated with Brahmins, having great heat (valor/splendor), and very happy by the king's favor.",
+      "hindi_meaning": "कर्क राशि में बुध से दृष्ट मंगल: जातक को अत्यधिक बुद्धिमान, द्विजों (ब्राह्मणों) का संग करने वाला, प्रचुर प्रताप वाला और राज-कृपा से परम प्रसन्न रहने वाला बनाता है।"
+    },
+    {
+      "number": 22,
+      "text": "जीवेन दृष्टः खलु कर्कटस्थो\nभौमः प्रसूते सुतसौख्ययुक्तम् ।\nनयप्रसक्तं च सुपूजितङ्गं\nनृपप्रियं साधुजनेन युक्तम्",
+      "english_meaning": "Mars in Cancer aspected by Jupiter: Makes one happy with sons, attached to policy/ethics, having well-honored limbs (or body), loved by the king, and in the company of good people.",
+      "hindi_meaning": "कर्क राशि में गुरु से दृष्ट मंगल: जातक को पुत्र-सुख से युक्त, नीति-परायण, सुपूजित अंगों वाला, राजा का प्रिय और सज्जनों की संगति वाला बनाता है।"
+    },
+    {
+      "number": 23,
+      "text": "शुक्रेण दृष्टः क्षितिजचतुर्थे\nराशौ सुशीलं जनयेन्मनुष्यम् ।\nप्रियातिथिं वित्तशुभैः समेतं\nनानापशुप्राप्तिसुखं च शान्तम्",
+      "english_meaning": "Mars in Cancer aspected by Venus: Makes one of good character, fond of guests, endowed with wealth and auspicious things, happy with the acquisition of various animals, and peaceful.",
+      "hindi_meaning": "कर्क राशि में शुक्र से दृष्ट मंगल: जातक को सुशील, अतिथि-प्रिय, धन व शुभ वस्तुओं से युक्त, विविध पशुओं की प्राप्ति से सुखी और शान्त बनाता है।"
+    },
+    {
+      "number": 24,
+      "text": "कर्कस्थितो भूतनयः प्रसूते\nसौरेण दृष्टः पृथुशोकभाजम् ।\nसुदीर्घरोगं विगतप्रतापं\nसदातिदीनं नृपपीडितं च",
+      "english_meaning": "Mars in Cancer aspected by Saturn: Makes one suffering from great sorrow, having long-lasting diseases, devoid of valor, always very miserable, and troubled by the king.",
+      "hindi_meaning": "कर्क राशि में शनि से दृष्ट मंगल: जातक को महान शोक का भागी, दीर्घकाल तक चलने वाले रोगों से युक्त, प्रतापहीन, सदैव अत्यन्त दीन और राजा द्वारा पीड़ित बनाता है।"
+    },
+    {
+      "number": 25,
+      "text": "स्थितः क्षितीसूनुधरः प्रतापं\nसिंहे विद्दृष्टो दिननायकेन ।\nविनाशितारिं जनयेन्मनुष्यं\nसुवेषविद्याधनधान्ययुक्तम्",
+      "english_meaning": "Mars in Leo aspected by Sun: Makes one powerful/valorous, a destroyer of enemies, having good dress, knowledge, wealth, and grains.",
+      "hindi_meaning": "सिंह राशि में सूर्य से दृष्ट मंगल: जातक को प्रतापी, शत्रुओं का विनाश करने वाला, सुंदर वेष, विद्या, धन और धान्य से युक्त बनाता है।"
+    },
+    {
+      "number": 26,
+      "text": "सिंहस्थितो भूतनयः प्रशस्तं\nचन्द्रेण दृष्टः कुरुते मनुष्यम् ।\nसुगन्धधूपाम्बरभोज्यभाजं\nशासानुगं धर्मनयेन युक्तम्",
+      "english_meaning": "Mars in Leo aspected by Moon: Makes one praiseworthy, endowed with perfumes, incense, clothes, and food, follower of scriptures, and joined with religion and policy.",
+      "hindi_meaning": "सिंह राशि में चन्द्रमा से दृष्ट मंगल: जातक को प्रशंसनीय, सुगंध, धूप, वस्त्र और भोजन से संपन्न, शास्त्रानुगामी तथा धर्म व नीति से युक्त बनाता है।"
+    },
+    {
+      "number": 27,
+      "text": "बुधेन दृष्टः खलु सिंहसंस्थो\nभौमः सुवाते बहुबुद्धिभाजम् ।\nपुष्पाम्बरद्रव्यविलेपनादयं\nमिष्टान्नपानैः सततं सुपूज्यम्",
+      "english_meaning": "Mars in Leo aspected by Mercury: Makes one highly intelligent, endowed with flowers, clothes, substances (wealth), and ointments, and always well-honored with sweet food and drinks.",
+      "hindi_meaning": "सिंह राशि में बुध से दृष्ट मंगल: जातक को अत्यन्त बुद्धिमान, पुष्प, वस्त्र, द्रव्य और लेपन (अंगराग) से संपन्न तथा मिष्टान्न व पेय पदार्थों द्वारा सदैव सुपूज्य बनाता है।"
+    },
+    {
+      "number": 28,
+      "text": "भौमो हरिस्थो गुरुणा च दृष्टो\nगुरुप्रसादं जनयेन्मनुष्यम् ।\nसुतीर्थयानासनहेमयुक्तं\nसुखाधिकामं फलदं प्रगल्भम्",
+      "english_meaning": "Mars in Leo aspected by Jupiter: Brings favor from gurus, makes one endowed with pilgrimages, vehicles, seats, and gold, having excessive desire for happiness, fruitful, and bold.",
+      "hindi_meaning": "सिंह राशि में गुरु से दृष्ट मंगल: जातक को गुरु-कृपा पात्र, उत्तम तीर्थों, वाहनों, आसनों व स्वर्ण से युक्त, सुख की अधिक इच्छा रखने वाला, सफल और प्रगल्भ बनाता है।"
+    },
+    {
+      "number": 29,
+      "text": "शुक्रेण दृष्टः प्रकरोति भौमो\nहरिस्थितस्त्रासकरं परेषाम् ।\nशौर्यान्वितं बान्धवमानभाज-\nमुत्साहयुक्तं रतलालसं च",
+      "english_meaning": "Mars in Leo aspected by Venus: Makes one a terror to others, endowed with valor, respected by relatives, filled with enthusiasm, and fond of sexual pleasure.",
+      "hindi_meaning": "सिंह राशि में शुक्र से दृष्ट मंगल: जातक को दूसरों को डराने वाला, शौर्यवान, बन्धुओं से मान पाने वाला, उत्साही और रति-क्रीड़ा का शौकीन बनाता है।"
+    },
+    {
+      "number": 30,
+      "text": "दृष्टोऽर्कपुत्रेण कुजो हरिस्थः\nकरोति पामागुदरोगभाजम् ।\nसदा मनुष्यं कफवातपित्तैः\nसम्पीडिताङ्ग गुरुलोकहीनम्",
+      "english_meaning": "Mars in Leo aspected by Saturn: Makes one suffer from skin diseases (scabies) and abdominal diseases, always afflicted by imbalance of phlegm, wind, and bile (Tridosha), and lacking elders/relatives.",
+      "hindi_meaning": "सिंह राशि में शनि से दृष्ट मंगल: जातक को खाज-खुजली और उदर रोगों का भागी, सदैव कफ-वात-पित्त के दोषों से पीड़ित शरीर वाला और गुरुजनों/बन्धुओं से हीन बनाता है।"
+    },
+    {
+      "number": 31,
+      "text": "कन्याश्रीतो भूतनयः प्रसूते\nसूर्येण दृष्टः कुगतिं मनुष्यम् ।\nकुमित्रसेवासु सदानुरक्तं\nविवर्जितं मानधनैः सदैव",
+      "english_meaning": "Mars in Virgo aspected by Sun: Makes one having a bad gait/path (unfortunate), always attached to the service of bad friends, and always devoid of honor and wealth.",
+      "hindi_meaning": "कन्या राशि में सूर्य से दृष्ट मंगल: जातक को कुगति वाला (अभागा), सदैव कुमित्रों की सेवा में लगा रहने वाला और सदैव मान-धन से रहित बनाता है।"
+    },
+    {
+      "number": 32,
+      "text": "चन्द्रेण दृष्टः क्षितिजः प्रसूते\nकन्याश्रितः सत्यपरं मनुष्यम् ।\nमेधाविनं नित्यमुदारचेष्टं\nसुसंस्कृतं भूपतिना च नित्यम्",
+      "english_meaning": "Mars in Virgo aspected by Moon: Makes one devoted to truth, intelligent, always of noble conduct/endeavors, and always well-honored by the king.",
+      "hindi_meaning": "कन्या राशि में चन्द्रमा से दृष्ट मंगल: जातक को सत्यनिष्ठ, बुद्धिमान, सदैव उदार चेष्टाओं (कार्यों) वाला और राजा द्वारा सदैव सुपूजित/संस्कृत बनाता है।"
+    },
+    {
+      "number": 33,
+      "text": "बुधेन दृष्टः खलु कन्यराशौ\nजुकः प्रसूते सुभगं मतिज्ञम् ।\nनरं नतं साधजनद्विजानां\nमहाप्रतापं जनसौहृदं च",
+      "english_meaning": "Mars in Virgo aspected by Mercury: Makes one lucky, expert in knowledge, bowing to good people and Brahmins, having great valor, and friendly with people.",
+      "hindi_meaning": "कन्या राशि में बुध से दृष्ट मंगल: जातक को सौभाग्यशाली, बुद्धिमान (मतिज्ञ), सज्जनों व ब्राह्मणों के प्रति नत (विनम्र), महाप्रतापी और लोक-प्रिय बनाता है।"
+    },
+    {
+      "number": 34,
+      "text": "जीवेन दृष्टः क्षितिजः प्रसूते\nनरं प्रसिद्धिं नयनाभिरामम् ।\nमनोज्ञवेषं शुभवर्तिताङ्गं\nकन्ये गुरुणां प्रणयं प्रधानम्",
+      "english_meaning": "Mars in Virgo aspected by Jupiter: Makes one famous, pleasant to the eyes (handsome), having attractive dress, auspiciously conducted body, and a leader loved by gurus.",
+      "hindi_meaning": "कन्या राशि में गुरु से दृष्ट मंगल: जातक को प्रसिद्ध, नेत्रों को सुख देने वाला (सुदर्शन), मनोहर वेष वाला, शुभ अंगों वाला और गुरुजनों का प्रिय व प्रधान बनाता है।"
+    },
+    {
+      "number": 35,
+      "text": "शुक्रेण दृष्टः खलु कन्यकस्थो\nभौमः प्रसूते सुतरां प्रसिद्धम् ।\nकुटुम्बसौख्यान्वितसाधभाजं\nदयान्वितं मातृपितृप्रभक्तम्",
+      "english_meaning": "Mars in Virgo aspected by Venus: Makes one very famous, endowed with family happiness and success, compassionate, and a great devotee of mother and father.",
+      "hindi_meaning": "कन्या राशि में शुक्र से दृष्ट मंगल: जातक को अत्यन्त प्रसिद्ध, पारिवारिक सुख व सफलता से युक्त, दयालु और माता-पिता का परम भक्त बनाता है।"
+    },
+    {
+      "number": 36,
+      "text": "दृष्टोऽङ्गनायां शनिना च भौमो\nनरं प्रसूते विकृतं कुचैलम् ।\nव्ययाधिकं कामनिपीडितं च\nसदाक्षिरोगैः सहितं नितान्तम्",
+      "english_meaning": "Mars in Virgo aspected by Saturn: Makes one distorted/ugly, poorly dressed, having excessive expenditure, tormented by lust, and always suffering from severe eye diseases.",
+      "hindi_meaning": "कन्या राशि में शनि से दृष्ट मंगल: जातक को विकृत, गन्दे वस्त्रों वाला, अधिक व्यय करने वाला, काम-पीड़ित और सदैव नेत्रों के भारी रोगों से युक्त बनाता है।"
+    },
+    {
+      "number": 37,
+      "text": "तुलाश्रितो भूतनयः प्रसूते\nसूर्येण दृष्टः कुरुतेऽतिहानिम् ।\nविवेकहानिं सुजनैर्वियोगं\nवैरं स्वपक्षेण सदा नरस्य",
+      "english_meaning": "Mars in Libra aspected by Sun: Causes great loss, loss of discrimination, separation from good people, and constant enmity with one's own side/relatives.",
+      "hindi_meaning": "तुला राशि में सूर्य से दृष्ट मंगल: जातक की अत्यधिक हानि करता है, उसे विवेक-हीन, सज्जनों से वियुक्त और स्वजनों से सदैव वैर रखने वाला बनाता है।"
+    },
+    {
+      "number": 38,
+      "text": "तुलाश्रितो भूतनयः प्रसूते\nचन्द्रेण दृष्टः सुभगं मनुष्यम् ।\nसुभोगदेहं गतशत्रुपक्षं\nसदा हितं देवगुरुद्विजानाम्",
+      "english_meaning": "Mars in Libra aspected by Moon: Makes one lucky, having a body fit for enjoyment, free from enemies, and always beneficial to gods, gurus, and Brahmins.",
+      "hindi_meaning": "तुला राशि में चन्द्रमा से दृष्ट मंगल: जातक को सौभाग्यशाली, सुखी शरीर वाला, शत्रुओं से रहित और सदैव देव-गुरु-ब्राह्मणों का हितकारी बनाता है।"
+    },
+    {
+      "number": 39,
+      "text": "दृष्टस्तुलास्थः शशिजेन\nभोगान्वितं शिलधनं मनुष्यम् ।\nप्रदानशीलं प्रभया समेतं\nसुसंस्कृतं पार्थिवमानवैश्च",
+      "english_meaning": "Mars in Libra aspected by Mercury: Makes one endowed with enjoyment, having wealth of character, charitable nature, radiant, and well-honored by kings and men.",
+      "hindi_meaning": "तुला राशि में बुध से दृष्ट मंगल: जातक को भोगी, शीलवान, दानशील, कान्तिमान और राजा व मनुष्यों द्वारा सुपूजित/संस्कृत बनाता है।"
+    },
+    {
+      "number": 40,
+      "text": "जीवेन दृष्टः क्षितिजस्तुलास्थो\nनरं प्रसूते बहुधर्मभाजम् ।\nद्विजानुकूलं पशुपुत्रयुक्तं\nविद्यान्वितं शंसितमेव नित्यम्",
+      "english_meaning": "Mars in Libra aspected by Jupiter: Makes one sharing in much religion, favorable to Brahmins, endowed with animals and sons, possessing knowledge, and always praised.",
+      "hindi_meaning": "तुला राशि में गुरु से दृष्ट मंगल: जातक को परम धार्मिक, ब्राह्मणों के अनुकूल, पशु व पुत्रों से युक्त, विद्वान और सदैव प्रशंसित बनाता है।"
+    },
+    {
+      "number": 41,
+      "text": "शुक्रेण दृष्टः कुरुते महीज-\nस्तुलाश्रितः सत्यपरं मनुष्यम् ।\nमहाधनं दीप्तियुतं प्रगल्-भं\nसदा हितं बान्धवसध्विजानाम्",
+      "english_meaning": "Mars in Libra aspected by Venus: Makes one devoted to truth, very wealthy, radiant, bold, and always beneficial to relatives, good people, and Brahmins.",
+      "hindi_meaning": "तुला राशि में शुक्र से दृष्ट मंगल: जातक को सत्यनिष्ठ, महाधनी, कान्तिमान, प्रगल्भ (चतुर) और बन्धुओं, सज्जनों व ब्राह्मणों का सदैव हित करने वाला बनाता है।"
+    },
+    {
+      "number": 42,
+      "text": "सौरेण दृष्टः क्षितिजस्तुलास्थः\nकरोति मर्त्यं बहुपापरक्तम् ।\nरोगैः समेतं सततं कुशिलं\nपरान्नरक्तं सततं सुचैलम्",
+      "english_meaning": "Mars in Libra aspected by Saturn: Makes one attached to many sins, always suffering from diseases, of bad character, attached to others' food, and having good clothes (possibly meaning deceptively dressed).",
+      "hindi_meaning": "तुला राशि में शनि से दृष्ट मंगल: जातक को अनेक पापों में रत, सदैव रोगों से युक्त, दुश्चरित्र, दूसरे के अन्न पर आश्रित और सदैव सुंदर वस्त्र पहनने वाला बनाता है।"
+    },
+    {
+      "number": 43,
+      "text": "भौमोऽलिसंस्थ कुरुते मनुष्यं\nसूर्येण दृष्टो बहुरोगयुक्तम् ।\nनयेन हीनं बहुशत्रुपक्षं\nविरुदचेष्तं विकृतानुकारम्",
+      "english_meaning": "Mars in Scorpio aspected by Sun: Makes one suffering from many diseases, devoid of policy, having many enemies, of contrary actions, and a distorted imitator.",
+      "hindi_meaning": "वृश्चिक राशि में सूर्य से दृष्ट मंगल: जातक को बहुत रोगों से युक्त, नीति-हीन, बहुत शत्रुओं वाला, विपरीत चेष्टाओं वाला और विकृत अनुकरण करने वाला बनाता है।"
+    },
+    {
+      "number": 44,
+      "text": "चन्द्रेण दृष्टोऽतिलगतः प्रसूते\nभौमोऽतिनीत्या सहितं मनुष्यम् ।\nप्रियातिथिं सर्वसमृद्धियुक्तं\nधर्मप्रधानं बहुल्लभं च",
+      "english_meaning": "Mars in Scorpio aspected by Moon: Makes one endowed with great policy, fond of guests, endowed with all prosperity, religious, and very lovable.",
+      "hindi_meaning": "वृश्चिक राशि में चन्द्रमा से दृष्ट मंगल: जातक को महान नीतिवान, अतिथि-प्रिय, सर्व-समृद्धि से युक्त, धर्म-प्रधान और अत्यन्त लोकप्रिय बनाता है।"
+    },
+    {
+      "number": 45,
+      "text": "बुधेन दृष्टः प्रकरोति भौमः\nस्थितोऽलिराशौ प्रचुरप्रतापम् ।\nसुधर्मशिलं बहुतीर्थर्क्तं\nविवर्जितं पापजनेन नित्यम्",
+      "english_meaning": "Mars in Scorpio aspected by Mercury: Makes one having great valor, of very religious character, attached to many pilgrimages, and always free from sinful people.",
+      "hindi_meaning": "वृश्चिक राशि में बुध से दृष्ट मंगल: जातक को प्रचुर प्रताप वाला, उत्तम धर्मशील, अनेक तीर्थों में श्रद्धा रखने वाला और सदैव पापी लोगों से दूर रहने वाला बनाता है।"
+    },
+    {
+      "number": 46,
+      "text": "जीवेन दृष्टः प्रकरोति भौमः\nसदालिसंस्थः स्तुतिभिः समेतम् ।\nनितान्तधर्मानुरते प्रशन्तं\nसुपूजितं वन्दिजनैः सदैव",
+      "english_meaning": "Mars in Scorpio aspected by Jupiter: Makes one always endowed with praises, very attached to religion, peaceful, and always well-honored by bards/panegyrists.",
+      "hindi_meaning": "वृश्चिक राशि में गुरु से दृष्ट मंगल: जातक को सदैव स्तुतियों (प्रशंसा) से युक्त, धर्म में अत्यन्त अनुरक्त, शान्त और वन्दिजनों (भाटों) द्वारा सदैव सुपूजित बनाता है।"
+    },
+    {
+      "number": 47,
+      "text": "शुक्रेण दृष्टोऽलिगतः प्रसूते\nभौमः सुरूपं सुभ .......... ।\nशूरं कृतघ्नं धनधान्ययुक्तं\nमेधाविनं सत्त्वप .......... नुशीलम्",
+      "english_meaning": "Mars in Scorpio aspected by Venus: Makes one handsome, [lucky], brave, [but] ungrateful, endowed with wealth and grains, intelligent, and of [strong] character.",
+      "hindi_meaning": "वृश्चिक राशि में शुक्र से दृष्ट मंगल: जातक को सुंदर रूप वाला, [भाग्यशाली], शूरवीर, [किन्तु] कृतघ्न, धन-धान्य से युक्त, बुद्धिमान और [सात्त्विक] स्वभाव वाला बनाता है।"
+    },
+    {
+      "number": 48,
+      "text": "सौरेण दृष्टोऽतिलगतस्तु भौमो\nवरं प्रसूते विजय समेतम् ।\nपापानुरक्तं विषयातिगं च\nव्यमेतशीलं सततं कृतघ्नम्",
+      "english_meaning": "Mars in Scorpio aspected by Saturn: Makes one excellent, endowed with victory, [but also] attached to sin, excessive in sensual pleasures, of contrary character, and always ungrateful.",
+      "hindi_meaning": "वृश्चिक राशि में शनि से दृष्ट मंगल: जातक को श्रेष्ठ, विजय से युक्त, [परन्तु] पाप में रत, विषयों में अति करने वाला, विपरीत शील वाला और सदैव कृतघ्न बनाता है।"
+    },
+    {
+      "number": 49,
+      "text": "चापाश्रितो भूतनयः प्रसूते\nसूर्येण दृष्टो ज्वरपित्तभजम् ।\nश्लेष्मातिसारोतियुतं सुभिक्षं\nगतप्रभावं विनयेन हीनम्",
+      "english_meaning": "Mars in Sagittarius aspected by Sun: Makes one suffer from fever and bile, having phlegm and diarrhea, [lacking] abundance (possibly meaning poverty or distress), devoid of influence, and lacking humility.",
+      "hindi_meaning": "धनु राशि में सूर्य से दृष्ट मंगल: जातक को ज्वर और पित्त का रोगी, कफ व अतिसार से युक्त, [सुभिक्ष रहित], प्रभावहीन और विनय-हीन बनाता है।"
+    },
+    {
+      "number": 50,
+      "text": "भौमो हयस्थः शशिना च दृष्टो\nकरोति शय्यासनचस्त्रभानम् ।\nनरं सुयत्रं बहुशास्त्ररक्तं\n.......... अनं सत्यपरं प्रधानम्",
+      "english_meaning": "Mars in Sagittarius aspected by Moon: Makes one endowed with beds, seats, and clothes, very effortful, attached to many scriptures, [wealthy], devoted to truth, and an eminent leader.",
+      "hindi_meaning": "धनु राशि में चन्द्रमा से दृष्ट मंगल: जातक को उत्तम शय्या, आसन और वस्त्रों से युक्त, प्रयत्नशील, अनेक शास्त्रों में रुचि रखने वाला, [धनवान], सत्यनिष्ठ और प्रधान पुरुष बनाता है।"
+    },
+    {
+      "number": 51,
+      "text": "चापाश्रितो भूतनयः सुवाते\nबुधेन दृष्टः सुभगमनुष्यम् ।\nसुतिर्थरक्तं नृपकार्यदक्षं\nदयाप्रं सर्वकलासु दक्षम्",
+      "english_meaning": "Mars in Sagittarius aspected by Mercury: Makes one a lucky person, attached to holy pilgrimages, skillful in the king's work, compassionate, and expert in all arts.",
+      "hindi_meaning": "धनु राशि में बुध से दृष्ट मंगल: जातक को सौभाग्यशाली, तीर्थों में श्रद्धा रखने वाला, राज-कार्यों में दक्ष, दयालु और सभी कलाओं में निपुण बनाता है।"
+    },
+    {
+      "number": 52,
+      "text": "जीवेन दृष्टः क्षितिजो हयस्थो\nनरं प्रसूते बहुधा धनाद्यम् ।\nसुवर्णरत्नाम्बरसौख्ययुक्तं\nविहीनशत्रुं प्रमदाप्रियं च",
+      "english_meaning": "Mars in Sagittarius aspected by Jupiter: Makes one very wealthy, endowed with the happiness of gold, gems, and clothes, free from enemies, and a favorite of women.",
+      "hindi_meaning": "धनु राशि में गुरु से दृष्ट मंगल: जातक को अत्यधिक धनवान, स्वर्ण, रत्न व वस्त्रों के सुख से युक्त, शत्रुओं से रहित और स्त्रियों का प्रिय बनाता है।"
+    },
+    {
+      "number": 53,
+      "text": "शुक्रेण दृष्टः क्षितिजो हयस्थो\nनरं सुवाते विनयप्रधानम् ।\nसदा विनीतं हययानयुक्तं\nविभूषितं पार्थिवभूषणेन",
+      "english_meaning": "Mars in Sagittarius aspected by Venus: Makes one eminent in humility, always modest, endowed with horses and vehicles, and adorned with royal ornaments.",
+      "hindi_meaning": "धनु राशि में शुक्र से दृष्ट मंगल: जातक को विनम्रता में प्रधान, सदैव विनयशील, घोड़ों व वाहनों से युक्त और राजकीय आभूषणों से विभूषित बनाता है।"
+    },
+    {
+      "number": 54,
+      "text": "षौरेण दृष्टः क्षितिजो ह्यस्थ\nकरोति पामाकुलमेव नित्यम् ।\nशिरोर्तिदोषाकुलितं नृशंसं\nनिपीडितं मानसजैश्च दुःखैः",
+      "english_meaning": "Mars in Sagittarius aspected by Saturn: Always makes one troubled by skin diseases (scabies), afflicted by headaches and other defects, cruel, and tormented by mental sorrows.",
+      "hindi_meaning": "धनु राशि में शनि से दृष्ट मंगल: जातक को सदैव खाज-खुजली आदि रोगों से व्याकुल, सिरदर्द व अन्य दोषों से ग्रस्त, क्रूर और मानसिक दुखों से पीड़ित बनाता है।"
+    },
+    {
+      "number": 55,
+      "text": "भौमो मृगस्थो रविणा च दृष्टो\nनरं सुवाते विकृतं कृतघ्नम् ।\n.......... बन्धवधाभितप्तं\nविदेशभाजं प्रभया विहीनम्",
+      "english_meaning": "Mars in Capricorn aspected by Sun: Makes one distorted/ugly, ungrateful, [suffering from] death/imprisonment of relatives, living in foreign lands, and devoid of radiance.",
+      "hindi_meaning": "मकर राशि में सूर्य से दृष्ट मंगल: जातक को विकृत रूप वाला, कृतघ्न, [स्वजनों] के वध या कष्ट से संतप्त, विदेश में रहने वाला और कान्तिहीन बनाता है।"
+    },
+    {
+      "number": 56,
+      "text": "भौमो मृगस्थः शशिना च दृष्टः\nकरोति सौम्यं रतिसौख्यपुष्टं\nविनीत्वेषं प्रचुरन्नपानं\nनराधिपाद्यैः सहितं सगर्वम्",
+      "english_meaning": "Mars in Capricorn aspected by Moon: Makes one gentle, nourished by the happiness of sexual pleasure, having a modest appearance, possessing plenty of food and drinks, associated with kings, and proud.",
+      "hindi_meaning": "मकर राशि में चन्द्रमा से दृष्ट मंगल: जातक को सौम्य, रति-सुख से पुष्ट, विनयपूर्ण वेष वाला, प्रचुर अन्न-पान से युक्त, राजाओं के साथ रहने वाला और गर्वीला बनाता है।"
+    },
+    {
+      "number": 57,
+      "text": "बुधेन दृष्टो मकरे क्षितीजं\nकरोति नित्यं विनयप्रधानम् ।\nनरं कृतघ्नं निरुजं विधिज्ञं\nपराक्रमाप्तैः सुधनैः समेतम्",
+      "english_meaning": "Mars in Capricorn aspected by Mercury: Always makes one eminent in humility, [but also] ungrateful, free from diseases, learned in laws/methods, and endowed with wealth obtained through valor.",
+      "hindi_meaning": "मकर राशि में बुध से दृष्ट मंगल: जातक को सदैव विनय-प्रधान, [किन्तु] कृतघ्न, रोगरहित, विधि-विधानों का ज्ञाता और पराक्रम से प्राप्त धन से युक्त बनाता है।"
+    },
+    {
+      "number": 58,
+      "text": "करोति भौमः खलु जीवदृष्टो\nमृगाश्रितः पुण्यधनैर्मनुष्यम् ।\nप्रसवमाकर्षणलब्धाभं\nहतप्रतापं नियमओः समेतम्",
+      "english_meaning": "Mars in Capricorn aspected by Jupiter: Makes one endowed with pious wealth, [but also] having one's influence/luster [reduced] or having offspring [with difficulty], having destroyed valor, yet endowed with rules/discipline.",
+      "hindi_meaning": "मकर राशि में गुरु से दृष्ट मंगल: जातक को पुण्य-धन से युक्त बनाता है, [किन्तु] उसकी कान्ति या संतान संबंधी बाधाएं हो सकती हैं, वह नष्ट-प्रताप वाला किन्तु नियमों/अनुशासन से युक्त होता है।"
+    },
+    {
+      "number": 59,
+      "text": "शुक्रेण दृष्टो मृगगोऽपि भौमः\nकरोति भोगैः सततं समेतम् ।\nमित्रानुरक्तं कृशिकर्मदक्षं\nप्रजानुकूलं भयवर्जितं च",
+      "english_meaning": "Mars in Capricorn aspected by Venus: Always makes one endowed with enjoyments, attached to friends, skillful in agriculture, favorable to subjects, and free from fear.",
+      "hindi_meaning": "मकर राशि में शुक्र से दृष्ट मंगल: जातक को सदैव भोगों से युक्त, मित्रों का प्रिय, कृषि-कार्य में दक्ष, प्रजा के अनुकूल और निर्भय बनाता है।"
+    },
+    {
+      "number": 60,
+      "text": "भौमो मृग्स्थः शनिना च दृष्टो\nनरं सुवाते बहुसारमेव ।\nमित्रैर्विहीन बहुशोकयुक्तं\nसदा नितान्तं परपक्षजानाम्",
+      "english_meaning": "Mars in Capricorn aspected by Saturn: Makes one very substantial/strong, [but] devoid of friends, filled with much sorrow, and always very [opposed] to others' sides.",
+      "hindi_meaning": "मकर राशि में शनि से दृष्ट मंगल: जातक को बहुत सार (बल/तत्व) वाला बनाता है, [किन्तु] वह मित्रों से हीन, बहुत दुखी और सदैव दूसरों के पक्ष का [विरोधी] होता है।"
+    },
+    {
+      "number": 61,
+      "text": "भौमो घटस्थो रविणा च दृष्टः\nकरोति मर्त्यं सुकृतप्रभावम् ।\nव्यपेतलज्जं सुतबन्धुहीनं\nकृष्याधिकं सौहृदवर्जितम् च",
+      "english_meaning": "Mars in Aquarius aspected by Sun: Makes one having the influence of good deeds, [but also] shameless, devoid of sons and relatives, highly involved in agriculture, and devoid of friendship.",
+      "hindi_meaning": "कुम्भ राशि में सूर्य से दृष्ट मंगल: जातक को सुकृतों (अच्छे कर्मों) के प्रभाव वाला, [किन्तु] निर्लज्ज, पुत्र व बन्धुओं से हीन, कृषि कार्य में अधिक संलग्न और मित्रता से रहित बनाता है।"
+    },
+    {
+      "number": 62,
+      "text": "चन्द्रेण दृष्टः क्षितिजो घटस्थो\nनरं सुवते बहुसभ्यजं च ।\nद्विजातितीर्थामरभक्तियुक्तं\nनयाधिकं कामफलः समेतम्",
+      "english_meaning": "Mars in Aquarius aspected by Moon: Makes one very civilized/noble, devoted to Brahmins, holy places, and gods, highly ethical, and endowed with the fruits of one's desires.",
+      "hindi_meaning": "कुम्भ राशि में चन्द्रमा से दृष्ट मंगल: जातक को अत्यन्त सभ्य/कुलीन, ब्राह्मणों, तीर्थों व देवताओं में भक्ति रखने वाला, परम नीतिवान और कामनाओं के फल से युक्त बनाता है।"
+    },
+    {
+      "number": 63,
+      "text": "बुधेन दृष्टो घटसंस्थभौमो\nनयेन युक्तं जनयेन्मनुष्यम् ।\nप्रियातिथिं पार्थिवलब्धमानं\nसदा सुशिलं बहुधर्मभाजम्",
+      "english_meaning": "Mars in Aquarius aspected by Mercury: Makes one endowed with policy, fond of guests, receiving honor from the king, always of good character, and sharing in much religion.",
+      "hindi_meaning": "कुम्भ राशि में बुध से दृष्ट मंगल: जातक को नीतिवान, अतिथि-प्रिय, राजा से मान पाने वाला, सदैव सुशील और धार्मिक बनाता है।"
+    },
+    {
+      "number": 64,
+      "text": "जीवेन दृष्टो घटगोऽथ वक्रः\nदानं विवेकं च विवेकभाजम् ।\nनरं धनादयं बहुधर्मयुक्तं\nगतारिपक्षं सुरविप्रभक्तम्",
+      "english_meaning": "Mars in Aquarius aspected by Jupiter: Makes one charitable and wise, endowed with wealth and religion, free from enemies, and devoted to gods and Brahmins.",
+      "hindi_meaning": "कुम्भ राशि में गुरु से दृष्ट मंगल: जातक को दानी, विवेकशील, धनवान, धर्मात्मा, शत्रुरहित और देव-ब्राह्मण भक्त बनाता है।"
+    },
+    {
+      "number": 65,
+      "text": "शुक्रेण दृष्टो घटगश्च भौमः\n.......... ।\n..........\n..........",
+      "english_meaning": "Mars in Aquarius aspected by Venus: [Result missing in manuscript].",
+      "hindi_meaning": "कुम्भ राशि में शुक्र से दृष्ट मंगल: [पाण्डुलिपि में फल अनुपलब्ध है।]"
+    },
+    {
+      "number": 66,
+      "text": "सौरेण दृष्टः क्षितिजो घटस्थः\nकरोति नानाविधदुःखभाजम् ।\nहतप्रतापं सुजनैः समेतं\nप्रियतिथिं ब्राह्मणवल्लभं च",
+      "english_meaning": "Mars in Aquarius aspected by Saturn: Makes one suffering from various sorrows and having lost valor, [but also] associated with good people, fond of guests, and loved by Brahmins.",
+      "hindi_meaning": "कुम्भ राशि में शनि से दृष्ट मंगल: जातक को विविध दुखों का भागी और नष्ट-प्रताप वाला बनाता है, [किन्तु वह] सज्जनों की संगति वाला, अतिथि-प्रिय और ब्राह्मणों का प्रिय होता है।"
+    },
+    {
+      "number": 68,
+      "text": "मीनस्थितो भूतनयोऽर्कदृष्टः\nकरोति नित्यं कलहैः समेतम् ।\nनरं सुदीनं वयसा समेतं\nकृशं विवर्णं नृपपीडितं च  ६७\nचन्द्रेण दृष्टो ह्यषगोऽथ भौमो\nनरं सुवाते वरयानभाजम् ।\nचतुष्पदादयं वनितास्वभीष्टं\nजितेन्द्रियं भोगसमन्वितं च",
+      "english_meaning": "67. Mars in Pisces aspected by Sun: Always makes one involved in quarrels, very miserable despite age, lean, pale/discolored, and troubled by the king. \n68. Mars in Pisces aspected by Moon: Makes one endowed with excellent vehicles and animals, desired by women, having controlled senses, and endowed with enjoyments.",
+      "hindi_meaning": "६७. मीन राशि में सूर्य से दृष्ट मंगल: जातक को सदैव कलहकारी, अत्यन्त दीन, दुर्बल, विवर्ण (फीका) और राजा द्वारा पीड़ित बनाता है। \n६८. मीन राशि में चन्द्रमा से दृष्ट मंगल: जातक को उत्तम वाहनों व पशुओं से संपन्न, स्त्रियों का प्रिय, जितेन्द्रिय और भोगों से युक्त बनाता है।"
+    },
+    {
+      "number": 69,
+      "text": "बुधेन दृष्टः प्रकरोति भौमो\nह्यषस्थितः शौचपरं मनुष्यम् ।\nवापीतहागामरजेषु रक्तं\nहितं स्वपक्षे परवर्जितं च",
+      "english_meaning": "Mars in Pisces aspected by Mercury: Makes one devoted to purity, attached to ponds/tanks and gods/temples, beneficial to one's own side, and avoided by others (or avoiding others).",
+      "hindi_meaning": "मीन राशि में बुध से दृष्ट मंगल: जातक को पवित्रता-प्रिय, बावड़ी-तालाबों और देव-स्थानों में श्रद्धा रखने वाला, अपने पक्ष का हितकारी और दूसरों से पृथक रहने वाला बनाता है।"
+    },
+    {
+      "number": 70,
+      "text": "जीवेनदृष्टः कुरुते तु भौमो\nह्यषाश्रितो बुधविवर्धनं च ।\nमनोज्ञदेहं शुभवस्त्रभाजं\nभोगाधिकं पुण्यविवृद्धिभाजम्",
+      "english_meaning": "Mars in Pisces aspected by Jupiter: Causes increase in wisdom, makes one have an attractive body, good clothes, excessive enjoyment, and increase in religious merit.",
+      "hindi_meaning": "मीन राशि में गुरु से दृष्ट मंगल: जातक की बुद्धि बढ़ाने वाला, उसे सुंदर शरीर, उत्तम वस्त्र, प्रचुर भोग और पुण्य की वृद्धि देने वाला होता है।"
+    },
+    {
+      "number": 71,
+      "text": "शुक्रेण दृष्टः क्षितिजो ह्यषस्थो\nनरं सुवाते बहुसौख्ययुक्तम् ।\nविज्ञं सुरूपं गलितरिपक्षं\nसदा विनीतं नृपतेरभीष्टम्",
+      "english_meaning": "Mars in Pisces aspected by Venus: Makes one endowed with much happiness, wise, handsome, having destroyed enemies, always modest, and favored by the king.",
+      "hindi_meaning": "मीन राशि में शुक्र से दृष्ट मंगल: जातक को बहुत सुखी, विद्वान, सुदर्शन, शत्रुओं का नाश करने वाला, सदैव विनम्र और राजा का प्रिय बनाता है।"
+    },
+    {
+      "number": 72,
+      "text": "सौरेण दृष्टो बहुमन्दभाजं\nमीनाश्रितो भूतनयः प्रसूते ।\nसदातुर शोकपरं कृतघ्नं\nसुदिर्घसूत्रं व्यसनैः समेतम्",
+      "english_meaning": "Mars in Pisces aspected by Saturn: Makes one very slow, always sick, devoted to sorrow, ungrateful, procrastinating, and endowed with vices.",
+      "hindi_meaning": "मीन राशि में शनि से दृष्ट मंगल: जातक को अत्यन्त मन्द (आलसी), सदैव अस्वस्थ, शोकमग्न, कृतघ्न, दीर्घसूत्री (काम टालने वाला) और व्यसनों से युक्त बनाता है।"
+    }
+  ]
+}

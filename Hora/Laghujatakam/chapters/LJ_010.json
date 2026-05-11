@@ -1,0 +1,42 @@
+{
+  "number": "10",
+  "title": "दशान्तर्दशाध्यायः",
+  "shlokas": [
+    {
+      "number": "1",
+      "text": "शोध्यक्षेपविशुद्धः कालो यो येन जीविते दत्तः ।\nस विचिन्त्या तस्य दशा स्वदशासु फलप्रदाः सर्वे",
+      "english_meaning": "The lifespan contributed by each planet, after applying all necessary reductions (Shodhya) and additions (Akshepa), is considered as that planet's Dasha (major period). Every planet gives results according to its nature during its own Dasha.",
+      "hindi_meaning": "प्रत्येक ग्रह द्वारा प्रदान किया गया आयु-काल, सभी आवश्यक कटौतियों (शोध्य) और वृद्धियों (आक्षेप) के बाद, उस ग्रह की 'दशा' मानी जाती है। प्रत्येक ग्रह अपनी दशा में अपने स्वभाव के अनुसार फल प्रदान करता है।"
+    },
+    {
+      "number": "2",
+      "text": "लग्नार्कशशाङ्कानां यो बलवांस्तद्दशा भवेत् प्रथमा ।\nतत्केन्द्रपणफरापोक्लिमगतानां बलाच्छेषाः",
+      "english_meaning": "The first Dasha is that of the strongest among the Ascendant, the Sun, and the Moon. Subsequent Dashas follow based on the strength of planets in Kendras (1, 4, 7, 10), Panapharas (2, 5, 8, 11), and Apoklimas (3, 6, 9, 12).",
+      "hindi_meaning": "प्रथम दशा लग्न, सूर्य और चन्द्रमा में से जो सबसे बलवान हो, उसकी होती है। इसके बाद की दशाएं उन ग्रहों की होती हैं जो केन्द्रों (१, ४, ७, १०), पणफरों (२, ५, ८, ११) और आपोक्लिमों (३, ६, ९, १२) में अपने बल के अनुसार स्थित हों।"
+    },
+    {
+      "number": "3",
+      "text": "मित्रोच्चस्वगृहांशोपगतानां शोभना दशाः सर्वाः ।\nस्वोच्चाभिलाषिणामपि न तु कथितविपर्ययस्थानाम्",
+      "english_meaning": "The Dashas of planets in a friend's sign, exaltation, own sign, or own Navamsha are all auspicious. Planets moving towards their exaltation also give good results, but those in opposite conditions (debilitation, enemy's sign, etc.) do not.",
+      "hindi_meaning": "मित्र राशि, उच्च राशि, स्वराशि या अपने नवांश में स्थित ग्रहों की दशाएं शुभ होती हैं। अपने उच्च की ओर बढ़ने वाले ग्रह भी शुभ फल देते हैं, किन्तु विपरीत स्थितियों (नीच, शत्रु राशि आदि) में स्थित ग्रह शुभ फल नहीं देते।"
+    },
+    {
+      "number": "4",
+      "text": "होरादशा दृकाणैः पूजितमध्याधमा चरे क्रमशः ।\nद्विशरीरे विपरीता स्थिरे तु पापेष्टमध्यफला",
+      "english_meaning": "In a movable (Chara) sign Ascendant, the three Decanates (Drekkanas) give good, medium, and poor results respectively. In a dual (Dvisharira) sign, the results are reversed. In a fixed (Sthira) sign, the results are bad, good, and medium respectively.",
+      "hindi_meaning": "चर लग्न में तीन द्रेष्काण क्रमशः उत्तम, मध्यम और अधम फल देते हैं। द्विस्वभाव लग्न में यह क्रम विपरीत होता है। स्थिर लग्न में फल क्रमशः अशुभ, शुभ और मध्यम होता है।"
+    },
+    {
+      "number": "5",
+      "text": "एकर्क्षेऽर्धं त्र्यंशं त्रिकोणयोः सप्तमे तु सप्तांशम् ।\nचतुरस्र(स्त्र)योस्तु पादं पाचयति गतो ग्रहः स्वगुणैः",
+      "english_meaning": "A planet placed in the same sign as the Dasha lord gives 1/2 of its own results. Planets in the 5th/9th give 1/3rd, in the 7th give 1/7th, and in the 4th/8th give 1/4th of their results during that Dasha.",
+      "hindi_meaning": "दशा स्वामी के साथ एक ही राशि में स्थित ग्रह अपने गुणों का १/२ फल देता है। ५वें/९वें भाव वाले १/३, ७वें वाले १/७ और ४थे/८वें भाव वाले ग्रह १/४ फल प्रदान करते हैं।"
+    },
+    {
+      "number": "6",
+      "text": "भागाः सदृशच्छेदैर्विवर्जिताः संयुता दशाच्छेदाः ।\nप्रत्यंशा गुणकाराः पृथक् पृथक् चान्तर्दशास्ताः",
+      "english_meaning": "To calculate sub-periods (Antardashas), the fractional parts of a Dasha are combined using a common denominator. The multipliers for each part separately give the respective sub-periods.",
+      "hindi_meaning": "अन्तर्दशाओं की गणना के लिए, दशा के भागों को समान हर (Common denominator) का उपयोग करके जोड़ा जाता है। प्रत्येक भाग के लिए अलग-अलग गुणक उस ग्रह की विशिष्ट अन्तर्दशा बताते हैं।"
+    }
+  ]
+}

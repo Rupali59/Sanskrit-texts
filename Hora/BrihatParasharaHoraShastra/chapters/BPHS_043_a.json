@@ -1,0 +1,480 @@
+{
+  "source_file": "BPHS4145.md",
+  "source_chunk": "BPHS4145.json",
+  "chunk_index": 2,
+  "chapter": 43,
+  "variant": "a",
+  "title": "अथायुर्दायाध्यायः",
+  "shloka_count": 78,
+  "is_duplicate": true,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "धनाध्नाख्ययोगौ च कथितौ भवता मुने ।\nनराणामायुषो ज्ञानं कथयस्व महामते",
+      "english_meaning": "O Muni, you have told me about Dhana and Adhana (poverty) yogas. Now please tell me the knowledge of longevity of humans.",
+      "hindi_meaning": "हे मुने! आपने धन और अधन (दरिद्र) योगों के बारे में बताया। अब हे महामते! मनुष्यों की आयु के ज्ञान के बारे में कहिये।"
+    },
+    {
+      "number": 2,
+      "text": "साधु पृष्टं त्वया विप्र जनानां च हितेच्छया ।\nकथयाम्यायुषो ज्ञानं दुर्ज्ञेयं यत् सुरैरपि",
+      "english_meaning": "You have asked well, O Brahmana, for the welfare of people. I will tell you the knowledge of longevity, which is difficult to know even for the gods.",
+      "hindi_meaning": "हे विप्र! लोगों के हित की इच्छा से तुमने बहुत अच्छा प्रश्न पूछा है। मैं तुम्हें आयु का वह ज्ञान बताता हूँ जो देवताओं के लिए भी कठिनता से जानने योग्य है।"
+    },
+    {
+      "number": 3,
+      "text": "आयुर्ज्ञानविभेदास्तु बहुभिर्बहुधोदिताः ।\nतेषां सारांशमादाय प्र्वदामि तवाऽग्रतः",
+      "english_meaning": "Various methods of knowing longevity have been told by many in different ways. I will tell you their essence before you.",
+      "hindi_meaning": "आयु ज्ञान के अनेक भेद बहुत से आचार्यों ने अनेक प्रकार से कहे हैं। मैं उनका सारांश तुम्हारे सामने कहता हूँ।"
+    },
+    {
+      "number": 4,
+      "text": "स्वोच्चनीचादिसंस्थित्या ग्रहा आयुःप्रदायकाः ।\nस्वस्ववीर्यवशैर्नैवं नक्षत्राण् च राशयः",
+      "english_meaning": "Planets give longevity based on their placement in exaltation, debilitation, etc., and their strength. Neither constellations nor signs give it in the same way.",
+      "hindi_meaning": "ग्रह अपनी उच्च-नीच आदि स्थिति और अपने बल के अनुसार आयु देने वाले होते हैं। नक्षत्र और राशियाँ इस प्रकार आयु नहीं देतीं।"
+    },
+    {
+      "number": 5,
+      "text": "पिण्डायुः प्रथमं तत्र ग्रहस्थितिवशादहम् ।\nकथयामि द्विजश्रेष्ठ श्रणुष्वेकाग्रमानसः",
+      "english_meaning": "First, I will tell you Pindayu (longevity from planetary degrees) based on planetary positions. Listen with a focused mind.",
+      "hindi_meaning": "सबसे पहले मैं ग्रहों की स्थिति के अनुसार पिण्डायु के बारे में कहता हूँ। हे द्विजश्रेष्ठ! एकाग्र मन से सुनो।"
+    },
+    {
+      "number": 6,
+      "text": "क्रमात् सूर्यादिखेटेषु स्वस्वोच्चस्थानगेष्विह ।\nनन्देन्दवस्तच्वमितास्तिथयोऽर्काः शरेन्दवः",
+      "english_meaning": "For Sun and other planets in their respective exaltation signs: 19, 25, 15, 12, 15, 21, and 20 years are told respectively.",
+      "hindi_meaning": "सूर्य आदि ग्रहों के अपनी उच्च राशि में होने पर क्रमशः 19, 25, 15, 12, 15, 21 और 20 वर्ष की आयु कही गई है।"
+    },
+    {
+      "number": 7,
+      "text": "प्रकृयतो विंशतिश्चाब्दा आयुःपिण्डाः प्रकीर्तिताः ।\nनीचगेष्वेतदर्धञ्च ज्ञेयं मध्येऽनुपाततः",
+      "english_meaning": "These are called Ayur-pinda. In debilitation signs, they should be half of this. In between, calculate proportionately.",
+      "hindi_meaning": "ये 'आयु-पिण्ड' कहलाते हैं। नीच राशियों में ये आधे (9.5, 12.5 आदि) समझने चाहिए। इनके बीच में अनुपात (proportion) से गणना करनी चाहिए।"
+    },
+    {
+      "number": 8,
+      "text": "स्वच्चशुद्धौ ग्रहः शोध्यः षड्भादूनो भमण्ड्लात् ।\nस्वपिण्डगुणितो भक्तो भादिमानेन वत्सराः",
+      "english_meaning": "From exaltation degree, subtract the planet's degree. If more than 6 signs, subtract from 12 signs. Multiply by Ayur-pinda and divide by 360 to get years.",
+      "hindi_meaning": "ग्रह के स्पष्ट अंशों को उसकी उच्च राशि के अंशों से घटाकर, यदि 6 राशि से अधिक हो तो 12 राशि से घटाकर, स्व-पिण्ड से गुणा करके 360 से भाग देने पर वर्ष आदि प्राप्त होते हैं।"
+    },
+    {
+      "number": 9,
+      "text": "अस्तगस्तु हरेत्स्वार्ध विना शुक्रशनैश्चरौ ।\nवक्रचारं विना त्र्यांशां शज्ञुराशौ हरेद् ग्रहः",
+      "english_meaning": "If a planet is combust, halve its contribution (except Venus and Saturn). If retrograde, subtract one-third. If in enemy's sign (except retrograde), subtract one-third.",
+      "hindi_meaning": "अस्त होने पर ग्रह की आयु आधी कर देनी चाहिए (शुक्र और शनि को छोड़कर)। वक्री होने पर या शत्रु राशि में होने पर (वक्री को छोड़कर) एक-तिहाई भाग घटा देना चाहिए।"
+    },
+    {
+      "number": 10,
+      "text": "सर्वार्धत्रिचतुःपञ्चषष्ठभागं क्रमाद् ग्रहः ।\nव्ययाद्वामं स्थितः पापो हरेत् सौम्यश्च तद्दलम्",
+      "english_meaning": "Subtract 1/2, 1/3, 1/4, 1/5, 1/6 respectively for planets in 12, 11, 10, 9, 8, 7 houses from Lagna. For malefics this is full; for benefics, it is half.",
+      "hindi_meaning": "लग्न से 12, 11, 10, 9, 8 और 7वें भाव में स्थित ग्रहों के लिए क्रमशः 1/2, 1/3, 1/4, 1/5 और 1/6 भाग घटाना चाहिए। पाप ग्रहों के लिए यह पूर्ण और शुभ ग्रहों के लिए आधा होता है।"
+    },
+    {
+      "number": 11,
+      "text": "एकभे तु बहुष्वेको हरेत्स्वांशां बली ग्रहः ।\nनाऽत्र क्षीणस्य चन्द्रस्य पापत्वं मुनिभिः स्मृतम्",
+      "english_meaning": "If many planets are in one house, only the strongest one's subtraction should be done. Waning Moon is not considered malefic here.",
+      "hindi_meaning": "यदि एक ही भाव में बहुत से ग्रह हों, तो केवल सबसे बली ग्रह का ही शोधन (subtraction) करना चाहिए। यहाँ क्षीण चन्द्रमा को मुनियों ने पाप ग्रह नहीं माना है।"
+    },
+    {
+      "number": 12,
+      "text": "लग्नांशलिप्तिका हत्वा प्रत्येकं विहगायुषा ।\nभाज्या मण्डललिप्ताभिर्लब्धं वर्षादि शोधयेत्",
+      "english_meaning": "Multiply Lagna degrees by each planet's longevity and divide by total minutes in a circle (21600) to subtract the result from years.",
+      "hindi_meaning": "लग्न के अंशों को प्रत्येक ग्रह की आयु से गुणा करके और मण्डल की कलाओं (21600) से भाग देकर प्राप्त वर्ष आदि को शोधित करना चाहिए।"
+    },
+    {
+      "number": 13,
+      "text": "स्वायुषो लग्नगे सूर्ये मङ्गले च शनैश्चरे ।\nतदर्धं शुभसंदृष्टे पातयेद् द्विजसत्तम",
+      "english_meaning": "If Sun, Mars, or Saturn are in Lagna, halve their longevity contribution if they are aspected by a benefic.",
+      "hindi_meaning": "यदि सूर्य, मंगल या शनि लग्न में हों और शुभ ग्रह से दृष्ट हों, तो उनकी दी हुई आयु का आधा भाग कम कर देना चाहिए।"
+    },
+    {
+      "number": 14,
+      "text": "लग्नराशिसमाश्चाब्दा भागाद्यैरनुपाततः ।\nमासादिका इतीच्छन्ति लग्नायुः केऽपि कोविदाः",
+      "english_meaning": "Some experts say Lagna-ayu is based on the number of signs in Lagna, and months etc. calculated proportionately.",
+      "hindi_meaning": "कुछ विद्वान लग्न की राशि के बराबर वर्ष और अंशों के अनुपात से मास आदि को लग्नायु मानते हैं।"
+    },
+    {
+      "number": 15,
+      "text": "लग्नादायोंऽशतुल्यः स्यादन्तरे चाऽनुपाततः ।\nतत्पतौ बलसंयुक्ते राशितुल्यं च भाघिपे",
+      "english_meaning": "Lagna longevity is equal to its degrees. If Lagna lord is strong, it is equal to the signs of the lord.",
+      "hindi_meaning": "लग्न की आयु उसके अंशों के समान होती है। यदि लग्नेश बली हो, तो वह स्वामी की राशि के समान होती है।"
+    },
+    {
+      "number": 16,
+      "text": "अथ विप्र निसर्गायुः खेटानां कथयाम्यहम् ।\nचन्द्रारज्ञसितेज्यार्कशनीनां क्रमशोब्दका",
+      "english_meaning": "Now I will speak of Nisargayu (Natural longevity) of planets. For Moon, Mars, Mercury, Venus, Jupiter, Sun, and Saturn, the years are respectively:",
+      "hindi_meaning": "अब मैं ग्रहों की निसर्गायु के बारे में कहता हूँ। चन्द्रमा, मंगल, बुध, शुक्र, गुरु, सूर्य और शनि के क्रमशः वर्ष इस प्रकार हैं:"
+    },
+    {
+      "number": 17,
+      "text": "एकद्वयंकनखा धृत्यः कृतिः पंचाशदेव हि ।\nजन्मकालात् क्रमाज् ज्ञेया दशाश्चैता निसर्गजाः",
+      "english_meaning": "1, 2, 9, 20, 18, 20, and 50. These are the natural dashas from the time of birth.",
+      "hindi_meaning": "1, 2, 9, 20, 18, 20 और 50 वर्ष। जन्म समय से ये निसर्गज दशाएँ समझनी चाहिए।"
+    },
+    {
+      "number": 18,
+      "text": "अथांशायु सलग्नानां खेटानां कथयाम्यहम् ।\nनवांश्राशितुल्यानि खेटो वर्षाणि यच्छति",
+      "english_meaning": "Now I speak of Amshayu (Longevity from Navamsha) of Lagna and planets. A planet gives years equal to its Navamsha number.",
+      "hindi_meaning": "अब मैं लग्न और ग्रहों की अंशायु के बारे में कहता हूँ। ग्रह जितने नवांशों में होता है, उतने ही वर्ष वह देता है।"
+    },
+    {
+      "number": 19,
+      "text": "भादिं खगं खगैः सूर्यैर्हत्वा तद्भगणादिकम् ।\nकृत्वाऽर्क्रशेषितं ज्ञेयमब्दाद्यंशायुषः स्फुटम्",
+      "english_meaning": "Convert the planet's degrees into minutes, divide by 200 (minutes in a Navamsha), then take the quotient as years and remainder for months etc.",
+      "hindi_meaning": "ग्रह के स्पष्ट अंशों को कलाओं में बदलकर 200 (एक नवांश की कलाएँ) से भाग दें, फिर लब्धि को वर्ष और शेष को मास आदि समझें।"
+    },
+    {
+      "number": 20,
+      "text": "पिण्डायुरिव तत्रापि हानिं कुर्याद् विचक्षणः ।\nअत्राऽपरो विशेषोऽपि कैञ्चिद् विज्ञैरुदाहृतः",
+      "english_meaning": "As in Pindayu, here also wise men should perform subtractions. There is a special rule mentioned by some experts.",
+      "hindi_meaning": "पिण्डायु की तरह यहाँ भी विद्वानों को शोधन (subtractions) करने चाहिए। कुछ विद्वानों ने यहाँ एक और विशेष बात कही है।"
+    },
+    {
+      "number": 21,
+      "text": "साधितायुः खगे स्वोच्चे स्वर्क्षे वा त्रिगुणं स्मृतम् ।\nद्विगुणं स्वनवांशस्थे स्वद्रेष्काणे तथोत्तमे",
+      "english_meaning": "Calculated longevity is tripled if the planet is in exaltation or own sign. Doubled in own Navamsha, or own Drekkana.",
+      "hindi_meaning": "यदि ग्रह अपनी उच्च राशि या स्वराशि में हो, तो साधित आयु तिगुनी कही गई है। अपने नवांश या अपने द्रेष्काण में होने पर दुगुनी होती है।"
+    },
+    {
+      "number": 22,
+      "text": "उभयत्र गते खेटे कार्यं त्रिगुणमेव हि ।\nहानिद्वयेऽर्धहानिः स्यादित्यायुः प्रस्फुटं नृणाम्",
+      "english_meaning": "If multiple conditions apply, tripling or doubling is done only once. If both subtractions apply, only half is taken. Thus is the clear longevity.",
+      "hindi_meaning": "यदि कई स्थितियाँ लागू हों, तो तिगुना या दुगुना केवल एक बार करना चाहिए। यदि दो शोधन प्राप्त हों, तो केवल आधा (total half) लेना चाहिए। इस प्रकार मनुष्यों की स्पष्ट आयु होती है।"
+    },
+    {
+      "number": 23,
+      "text": "एवं संसाध्य चान्येषां हन्यात् स्वस्वपरायुषा ।\nनृणां परायुषा भक्त्वा तेषामायुः स्फुटं भवेत्",
+      "english_meaning": "Calculate for others similarly and multiply by respective full longevity. Divide by human full longevity to get clear longevity.",
+      "hindi_meaning": "इसी प्रकार दूसरों के लिए भी गणना करें और उनकी अपनी परम आयु से गुणा करें। मनुष्यों की परम आयु से भाग देने पर स्पष्ट आयु प्राप्त होती है।"
+    },
+    {
+      "number": 24,
+      "text": "अथायुः परमं वक्ष्ये नानाजातिसमुद्भवम् ।\nअनन्तसंख्यं देवानामृषीणां च द्विजोत्तम",
+      "english_meaning": "Now I speak of maximum longevity of different species. It is infinite for gods and sages, O best of Brahmanas.",
+      "hindi_meaning": "अब मैं विभिन्न जातियों की परम आयु कहता हूँ। हे द्विजोत्तम! देवताओं और ऋषियों की आयु अनन्त है।"
+    },
+    {
+      "number": 25,
+      "text": "गृध्रोलूक्शुकध्वांक्षसर्पाणां च सहस्रकम् ।\nश्येनवानरभल्लुकमण्डूकानां शतत्रयम्",
+      "english_meaning": "For vultures, owls, parrots, crows, and snakes: 1000 years. For hawks, monkeys, bears, and frogs: 300 years.",
+      "hindi_meaning": "गिद्ध, उल्लू, तोता, कौआ और साँपों की आयु 1000 वर्ष है। बाज, बन्दर, भालू और मेढकों की 300 वर्ष है।"
+    },
+    {
+      "number": 26,
+      "text": "पंचशदुत्तरशतं राक्षसानां प्रकीर्तितम् ।\nनगणां कुञ्जराणां च विंशोत्तरशतं तथा",
+      "english_meaning": "For Rakshasas (demons): 150 years. For humans and elephants: 120 years.",
+      "hindi_meaning": "राक्षसों की आयु 150 वर्ष कही गई है। मनुष्यों और हाथियों की 120 वर्ष है।"
+    },
+    {
+      "number": 27,
+      "text": "द्वात्रिंशद् घोटकानाञ्च पंचविंशत् खरोष्ट्रयोः ।\nवृषाणां महिषाणां च चतुर्विंशतिवत्सरम्",
+      "english_meaning": "For horses: 32 years. For donkeys and camels: 25 years. For bulls and buffaloes: 24 years.",
+      "hindi_meaning": "घोड़ों की 32 वर्ष, गधों और ऊँटों की 25 वर्ष, तथा बैलों और भैंसों की आयु 24 वर्ष है।"
+    },
+    {
+      "number": 28,
+      "text": "विंशत्यायुर्मयूराणां छागादीनां च षोडश ।\nहंसानां पंचनव च पिकानां द्वादशाब्दकाः",
+      "english_meaning": "For peacocks: 20 years. For goats etc.: 16 years. For swans: 14 years. For cuckoos: 12 years.",
+      "hindi_meaning": "मोरों की आयु 20 वर्ष, बकरियों आदि की 16 वर्ष, हंसों की 14 वर्ष और कोयल की आयु 12 वर्ष है।"
+    },
+    {
+      "number": 29,
+      "text": "शुनां पारावतानां च कुक्कुटानां द्वादशाब्दकाः ।\nबुद्बुदाद्यण्डजानां च परायुः सप्तवत्सराः",
+      "english_meaning": "For dogs, pigeons, and roosters: 12 years. For small bubble-born creatures: 7 years.",
+      "hindi_meaning": "कुत्तों, कबूतरों और मुर्गों की आयु 12 वर्ष है। बुलबुलों और अन्य छोटे प्राणियों की परम आयु 7 वर्ष है।"
+    },
+    {
+      "number": 30,
+      "text": "यदेतदधुना प्रोक्तं त्रिधायुद्विजसत्तम ।\nतेषु किञ्च कदा ग्राह्यमिति ते कथयाम्यहम्",
+      "english_meaning": "I have told you these three types of Ayurdaya. Now I tell you when which method should be accepted.",
+      "hindi_meaning": "हे द्विजसत्तम! मैंने ये तीन प्रकार की आयु बताई हैं। अब मैं कहता हूँ कि इनमें से किसे और कब ग्रहण करना चाहिए।"
+    },
+    {
+      "number": 31,
+      "text": "विलग्नपे बलोपेते शुभदृष्टेंश्शसम्भवभ् ।\nरवौ पिंडोद्भवं ग्राह्यं चन्द्रे नैसर्गिकं तथा",
+      "english_meaning": "If Lagna lord is strong, use Amshayu. If Sun is strong, use Pindayu. If Moon is strong, use Nisargayu.",
+      "hindi_meaning": "यदि लग्नेश बली और शुभ दृष्ट हो तो अंशायु, यदि सूर्य बली हो तो पिण्डायु, और यदि चन्द्रमा बली हो तो निसर्गज आयु ग्रहण करनी चाहिए।"
+    },
+    {
+      "number": 32,
+      "text": "बलसाम्ये द्वयोर्योगदलमायुः प्रकीर्तितम् ।\nत्रयाणां त्रियुतेस्त्र्यंशसमं ज्ञेयं द्विजोत्तम",
+      "english_meaning": "If two are equally strong, take the average of the two. If three are equal, take the average of all three.",
+      "hindi_meaning": "यदि दो ग्रह समान रूप से बली हों, तो उन दोनों का आधा (औसत) आयु कहें। तीनों के समान होने पर तीनों के योग का एक-तिहाई भाग समझना चाहिए।"
+    },
+    {
+      "number": 33,
+      "text": "अथाऽन्यदपि वक्ष्यामि श्र्रिणु त्वं द्विजसत्तम ।\nकैश्चिल्लग्नाष्टमेशाभ्यां मन्देन्दुभ्यां तथैव च",
+      "english_meaning": "Now I tell you another method, O best of Brahmanas. From Lagna and 8th lord, and from Saturn and Moon.",
+      "hindi_meaning": "अब मैं एक और पद्धति कहता हूँ, हे द्विजसत्तम! लग्न और अष्टमेश से, तथा शनि और चन्द्रमा से।"
+    },
+    {
+      "number": 34,
+      "text": "लग्नहोराविलग्नाभ्यां स्फुटमायुः प्रकीर्तितम् ।\nआदौ लग्नाष्टमेशाभ्यां योगमेकं विचिन्तयेत्",
+      "english_meaning": "Also from Lagna and Hora Lagna, clear longevity is told. First, consider the combination from Lagna and 8th lord.",
+      "hindi_meaning": "लग्न और होरा लग्न से भी स्पष्ट आयु कही गई है। सबसे पहले लग्न और अष्टमेश के योग का विचार करना चाहिए।"
+    },
+    {
+      "number": 35,
+      "text": "द्वितीयं मन्दचन्द्राभ्यां योगं पश्येद् द्विजोत्तम ।\nलग्नहोराविलग्नाभ्यां तृतीयं परिचिन्तयेत्",
+      "english_meaning": "Second, consider from Saturn and Moon. Third, consider from Lagna and Hora Lagna.",
+      "hindi_meaning": "दूसरा शनि और चन्द्रमा से, और तीसरा विचार लग्न और होरा लग्न से करना चाहिए।"
+    },
+    {
+      "number": 36,
+      "text": "चरराशौ स्थितौ द्वौ चित् तदा दीर्घमुदाहृतम् ।\nएकः स्थिरेऽपरो द्वन्द्वे दीर्घमायुस्तथापि हि",
+      "english_meaning": "If both are in movable signs: long life. One in fixed and other in dual: also long life.",
+      "hindi_meaning": "यदि दोनों चर राशि में हों, तो दीर्घायु। यदि एक स्थिर में और दूसरा द्विस्वभाव में हो, तो भी दीर्घायु होती है।"
+    },
+    {
+      "number": 37,
+      "text": "एकश्चरे स्थिरेऽन्यश्चेत् तदामध्यमुदाहृतम् ।\nद्वौ वा द्वन्द्वे स्थितौ विप्र मध्यमायुस्तथापि च",
+      "english_meaning": "One in movable and other in fixed: middle life. Both in dual signs: also middle life.",
+      "hindi_meaning": "यदि एक चर में और दूसरा स्थिर में हो, तो मध्यायु। यदि दोनों ही द्विस्वभाव राशि में हों, तो भी मध्यायु होती है।"
+    },
+    {
+      "number": 38,
+      "text": "एकश्चरेऽपरो द्वन्द्वे द्वौ वा स्थिरगतौ तदा ।\nजातकस्य तदाऽल्पायुर्ज्ञेयमेवं द्विजोत्तम",
+      "english_meaning": "One in movable and other in dual, or both in fixed: short life. Thus calculate for the native.",
+      "hindi_meaning": "यदि एक चर में और दूसरा द्विस्वभाव में हो, या दोनों ही स्थिर राशि में हों, तो जातक की अल्पायु समझनी चाहिए।"
+    },
+    {
+      "number": 39,
+      "text": "योगत्रयेण योगाभ्यां सिद्धं यद् ग्राह्यमेव तत् ।\nयोगत्रयविसंवादे लग्नहोराविलग्नतः",
+      "english_meaning": "The result found in two or three combinations should be accepted. If all three differ, accept the one from Lagna and Hora Lagna.",
+      "hindi_meaning": "तीनों योगों में से जो दो में समान मिले उसे ग्रहण करें। यदि तीनों अलग हों, तो लग्न और होरा लग्न वाले फल को ग्रहण करना चाहिए।"
+    },
+    {
+      "number": 40,
+      "text": "लग्ने वा सप्तमे चन्द्रे ग्राह्यं मन्देन्दुतस्तदा ।\nह्रासो वृद्धिश्च कक्ष्याया विचिन्त्या सर्वदा बुधैः",
+      "english_meaning": "If Moon is in 1st or 7th, then accept the result from Saturn and Moon. Wise men should always consider increase or decrease in category.",
+      "hindi_meaning": "यदि चन्द्रमा लग्न या 7वें भाव में हो, तो शनि और चन्द्रमा वाले फल को लें। विद्वानों को आयु की श्रेणियों (Kakshya) की वृद्धि और ह्रास का सदा विचार करना चाहिए।"
+    },
+    {
+      "number": 41,
+      "text": "दीर्घे योगत्रयेणैवं नखचन्द्रसमाब्दकाः ।\nयोगद्वयेन वस्वाशा योगैकेन रसांककाः",
+      "english_meaning": "In long life (Dirgha), with 3 combinations, it is 120 years. With 2, it is 108 years. With 1, it is 96 years.",
+      "hindi_meaning": "दीर्घायु के योगों में, यदि तीनों योग मिलें तो 120 वर्ष, दो मिलें तो 108 और एक मिलने पर 96 वर्ष की आयु होती है।"
+    },
+    {
+      "number": 42,
+      "text": "मध्ये योगत्रयेणैवं खाष्टतुल्याब्दकाः स्मृताः ।\nद्व्यगा योगद्वयेनाऽत्रयोगैकेनाब्धिषण्मिताः",
+      "english_meaning": "In middle life (Madhya), with 3 combinations, it is 80 years. With 2, 72 years. With 1, 64 years are told.",
+      "hindi_meaning": "मध्यायु के योगों में, तीनों योग मिलने पर 80 वर्ष, दो मिलने पर 72 और एक मिलने पर 64 वर्ष की आयु कही गई है।"
+    },
+    {
+      "number": 43,
+      "text": "अल्पे योगत्रयेणाऽत्रद्वात्रिंशन्मितवत्सराः ।\nयोगद्वयेन षट्त्रिंशात् योगैकेन च खाब्धयः",
+      "english_meaning": "In short life (Alpa), with 3 combinations, it is 32 years. With 2, 36 years. With 1, 40 years are told.",
+      "hindi_meaning": "अल्पायु के योगों में, तीनों योग मिलने पर 32 वर्ष, दो मिलने पर 36 और एक मिलने पर 40 वर्ष की आयु कही गई है।"
+    },
+    {
+      "number": 44,
+      "text": "एवं दीर्घसमाल्पेषु खाब्धयो रसवह्नयः ।\nखण्डा दन्तमितास्तेभ्यः स्फुटमायुः प्रसाधयेत्",
+      "english_meaning": "For Dirgha, Madhya, and Alpa categories, use the units 40, 36, and 32 respectively. From these, clear longevity should be determined.",
+      "hindi_meaning": "दीर्घ, मध्य और अल्प श्रेणियों के लिए क्रमशः 40, 36 और 32 की इकाइयों का प्रयोग करें। इनसे मनुष्य की स्पष्ट आयु का साधन करना चाहिए।"
+    },
+    {
+      "number": 45,
+      "text": "पूर्ण राश्यादिगे चान्ते हानिर्मध्येऽनुपाततः ।\nयोगकारकखेटांशयोगस्तत्संख्यया हृतः",
+      "english_meaning": "Full longevity if at the beginning of the sign, decrease if in the middle or end. Divide the yoga-giving planet's degrees by category number.",
+      "hindi_meaning": "राशि के आदि में पूर्ण आयु और मध्य या अन्त में हानि होती है। योगकारक ग्रह के अंशों के योग को उस संख्या से भाग दें।"
+    },
+    {
+      "number": 46,
+      "text": "लब्धांशास्तु यथाप्राप्तखण्डघ्नास्त्रिंशतोद्धृताः ।\nलब्धवर्षादिभिर्हीनं प्राप्तायुः प्रस्फुटं भवेत्",
+      "english_meaning": "Convert Navamsha degrees into years and subtract from category limit to get clear life. Multiply by category units and divide by 30.",
+      "hindi_meaning": "नवांश के अंशों को वर्ष आदि में बदलकर, प्राप्त इकाइयों से गुणा करके और 30 से भाग देकर प्राप्त वर्ष आदि को घटाने पर स्पष्ट आयु होती है।"
+    },
+    {
+      "number": 47,
+      "text": "योगहेतौ शनौ कक्ष्याह्रासोऽन्यैर्वृद्धिरुच्यते ।\nन स्वर्क्षतुङ्गगे नो वा पापमात्रयुतेक्षिते",
+      "english_meaning": "If Saturn is the yoga-giver, decrease the category. For others, increase is said. Not if in own/exaltation sign or aspected only by malefics.",
+      "hindi_meaning": "यदि शनि योगकारक हो तो श्रेणी का ह्रास (कमी) करें, दूसरों के लिए वृद्धि कही गई है। अपने घर या उच्च में होने पर, या केवल पापों से दृष्ट होने पर ऐसा नहीं होता।"
+    },
+    {
+      "number": 48,
+      "text": "लग्नसप्तमगे जीवे शुभमात्रयुतेक्षिते ।\nकथितस्यायुषो विप्र कक्ष्यावृद्धिः प्रजायते",
+      "english_meaning": "If Jupiter is in 1st or 7th house and aspected only by benefics, there is an increase in the longevity category.",
+      "hindi_meaning": "यदि लग्न या 7वें भाव में गुरु हो और केवल शुभ ग्रहों से दृष्ट हो, तो हे विप्र! आयु की श्रेणी (कक्ष्या) में वृद्धि होती है।"
+    },
+    {
+      "number": 49,
+      "text": "अनायुश्चेद् भवेदल्पमल्पान्मध्यं प्रजायते ।\nमध्यमाज्जायते दीर्घं दीर्घायुश्चेत्ततोऽधिकम्",
+      "english_meaning": "If 'No Life' (Anayu) is found, it becomes short life. Short becomes middle, middle becomes long, and long becomes even more.",
+      "hindi_meaning": "यदि 'अनायु' (बालारिष्ट) मिले तो वह अल्प हो जाता है, अल्प मध्यायु में, मध्य दीर्घ में और दीर्घायु उससे भी अधिक में बदल जाती है।"
+    },
+    {
+      "number": 50,
+      "text": "योगहेतौ गुरवेवं कक्ष्यावृद्धेश्च लक्षणम् ।\nएतस्माद् वैपरीत्येन कक्ष्याह्रासः शनौ भवेत्",
+      "english_meaning": "If Jupiter causes the yoga, follow these rules of increase. Conversely, for Saturn, perform decrease.",
+      "hindi_meaning": "यदि गुरु योग का हेतु हो तो वृद्धि के ये लक्षण समझें। इसके विपरीत, यदि शनि हेतु हो तो श्रेणी का ह्रास करना चाहिए।"
+    },
+    {
+      "number": 51,
+      "text": "आयुषो बहुधा भेदाः कथिता भवताऽधुना ।\nकतिधा सा कदाऽनायुरमितायुः कदा भवेत्",
+      "english_meaning": "You have told many types of longevity. How many are they, when is 'No Life' (Anayu), and when is infinite life?",
+      "hindi_meaning": "आयु के आपने बहुत से भेद बताए। वे कितने प्रकार के हैं, 'अनायु' कब होती है और अमितायु (अनंत आयु) कब होती है?"
+    },
+    {
+      "number": 52,
+      "text": "बालारिष्टं योगारिष्टमल्पं मध्यञ्च दीर्घकम् ।\nदिव्यं चैवाऽमितं चैवं सप्तधायुः प्रकीर्तितम्",
+      "english_meaning": "Balarishta, Yogarishta, Alpa, Madhya, Dirgha, Divya, and Amita. These are the seven types of longevity told.",
+      "hindi_meaning": "बालारिष्ट, योगारिष्ट, अल्पायु, मध्यायु, दीर्घायु, दिव्यायु और अमितायु - ये सात प्रकार की आयु कही गई हैं।"
+    },
+    {
+      "number": 53,
+      "text": "बालारिष्टे समा अष्टौ योगारिष्टे च विंशतिः ।\nद्वात्रिंशद् वत्ररा अल्पे चतुष्षष्टिस्तु मध्यमे",
+      "english_meaning": "Balarishta is up to 8 years. Yogarishta up to 20 years. Short (Alpa) up to 32 years. Middle (Madhya) up to 64 years.",
+      "hindi_meaning": "बालारिष्ट 8 वर्ष तक, योगारिष्ट 20 वर्ष तक, अल्पायु 32 वर्ष तक और मध्यायु 64 वर्ष तक होती है।"
+    },
+    {
+      "number": 54,
+      "text": "विंशाधिकश्तं दीर्घे दिव्ये वर्षसहस्रकम् ।\nतदूर्ध्वममितं पुण्यैरमितैराप्यते जनैः",
+      "english_meaning": "120 years in long life. 1000 years in divine life. Above that is infinite, attained by people with infinite merits.",
+      "hindi_meaning": "दीर्घायु में 120 वर्ष, दिव्यायु में 1000 वर्ष और उससे ऊपर अमितायु होती है, जो अनंत पुण्यों वाले लोगों को प्राप्त होती है।"
+    },
+    {
+      "number": 55,
+      "text": "चन्द्रेज्यौ च कुलीरांगे ज्न्!असिअतु केन्द्रसंस्थितौ ।\nअन्ये त्र्यायारिगाः खेटा अमितायुस्तदा भवेत्",
+      "english_meaning": "If Moon and Jupiter are in Cancer Lagna in a Kendra, while others are in 3, 11, 6: one has infinite life (Amita-ayu).",
+      "hindi_meaning": "यदि कर्क लग्न में चन्द्रमा और गुरु केन्द्र में हों, तथा अन्य ग्रह 3, 11, 6 भावों में हों, तो जातक अमितायु (अनंत आयु) वाला होता है।"
+    },
+    {
+      "number": 56,
+      "text": "सौम्याः केन्द्रत्रिकोणस्थाः पापास्त्र्यायारिगास्तथा ।\nशुभराशौ स्थिते रन्ध्रे दिव्यमायुस्तदा भवेत्",
+      "english_meaning": "Benefics in Kendra/Trikona and malefics in 3, 11, 6, while a benefic sign is in the 8th: one has divine life (Divya-ayu).",
+      "hindi_meaning": "शुभ ग्रह केन्द्र-त्रिकोण में हों और पाप ग्रह 3, 11, 6 में, तथा 8वें भाव में शुभ राशि हो, तो दिव्यायु होती है।"
+    },
+    {
+      "number": 57,
+      "text": "गोपुरांशे गुरौ केन्द्रे शुक्रे पारावतांशके ।\nत्रिकोणे कर्कटे लग्ने युगान्तायुस्तदा द्विज",
+      "english_meaning": "Jupiter in Gopura-amsha in a Kendra, Venus in Paravata-amsha, and Cancer Lagna in a Trikona: life up to the end of the Yuga.",
+      "hindi_meaning": "यदि गुरु गोपुर अंश में केन्द्र में हो, शुक्र पारावत अंश में हो, और कर्क लग्न त्रिकोण में हो, तो जातक की आयु युगांत तक होती है।"
+    },
+    {
+      "number": 58,
+      "text": "देवलोकांशके मन्दे कुजे पारावतांशके ।\nगुरौ सिंहासनांशेऽङ्गे जातो मुनिसमो भवेत्",
+      "english_meaning": "Saturn in Devaloka-amsha, Mars in Paravata-amsha, and Jupiter in Simhasana-amsha in Lagna: one is like a sage.",
+      "hindi_meaning": "यदि शनि देवलोक अंश में, मंगल पारावत में और गुरु सिंहासन अंश में होकर लग्न में हों, तो जातक मुनि के समान (दीर्घायु) होता है।"
+    },
+    {
+      "number": 59,
+      "text": "सुयोगैर्वर्ध्यते ह्यायुः कुयोगैर्हीयते तथा ।\nअतो योगानहं वक्ष्ये पूर्णमध्याल्पकारकान्",
+      "english_meaning": "Good yogas increase life, bad yogas decrease it. Therefore I will tell you yogas causing full, middle, and short life.",
+      "hindi_meaning": "शुभ योगों से आयु बढ़ती है और कुयोगों से घटती है। अतः मैं पूर्ण, मध्य और अल्प आयु करने वाले योगों को कहूँगा।"
+    },
+    {
+      "number": 60,
+      "text": "केन्द्रे शुभग्रहैर्युक्ते लग्नेशे च शुभान्विते ।\nसन्दृष्टे गुरुणा वाऽपि पूर्णमायुयुस्तदा भवेत्",
+      "english_meaning": "Benefics in Kendras and Lagna lord associated with or aspected by benefics, or by Jupiter: one has full life.",
+      "hindi_meaning": "केन्द्रों में शुभ ग्रह हों और लग्नेश शुभ ग्रहों से युक्त/दृष्ट हो, अथवा गुरु से दृष्ट हो, तो पूर्ण आयु होती है।"
+    },
+    {
+      "number": 61,
+      "text": "केन्द्रस्थिते विलग्नेशे गुरुशुक्रसमन्विते ।\nताभ्यां निरीक्षिते वाऽपि पूर्णमायुर्विनिर्दिशेत्",
+      "english_meaning": "Lagna lord in a Kendra associated with Jupiter and Venus, or aspected by them: declare full life.",
+      "hindi_meaning": "लग्नेश केन्द्र में गुरु और शुक्र के साथ हो, या उनसे दृष्ट हो, तो पूर्ण आयु कहनी चाहिए।"
+    },
+    {
+      "number": 62,
+      "text": "उच्चस्थितैस्त्रिभिः खेटैर्लग्नरन्ध्रशसंयुतैः ।\nअष्टमे पापहीने च पूर्णमायुर्विनिर्दिशेत्",
+      "english_meaning": "Three planets in exaltation, including lords of Lagna and 8th, and 8th house free from malefics: declare full life.",
+      "hindi_meaning": "लग्नेश और अष्टमेश सहित तीन ग्रह उच्च के हों, और 8वें भाव में पाप ग्रह न हों, तो पूर्ण आयु कहनी चाहिए।"
+    },
+    {
+      "number": 63,
+      "text": "अष्टमस्थैस्त्रिभि खेटैः स्वोच्चमित्रस्ववर्गगैः ।\nलग्नेशे बलसंयुक्ते दीर्घमायुस्तदा भवेत्",
+      "english_meaning": "Three planets in 8th house in own/exaltation/friend's vargas, while Lagna lord is strong: long life.",
+      "hindi_meaning": "8वें भाव में तीन ग्रह अपनी राशि/उच्च/मित्र के वर्गों में हों, और लग्नेश बली हो, तो दीर्घायु होती है।"
+    },
+    {
+      "number": 64,
+      "text": "स्वभोच्चस्थेन केनापि नभौगेन समन्वितः ।\nअष्टमेशः शनिर्वापि दीर्घमायुर्विनिर्दिशेत्",
+      "english_meaning": "If any planet in its own/exaltation sign is in the 8th house, or if 8th lord or Saturn is there: declare long life.",
+      "hindi_meaning": "8वें भाव में कोई ग्रह अपनी राशि या उच्च में हो, अथवा अष्टमेश या शनि वहाँ हो, तो दीर्घायु कहनी चाहिए।"
+    },
+    {
+      "number": 65,
+      "text": "त्रिषडायगतैः पापैः शुभैः केन्द्रत्रिकोणगैः ।\nलग्नेशे बलसंयुक्ते दीर्घमायुर्विनिर्दिशेत्",
+      "english_meaning": "Malefics in 3, 6, 11 and benefics in Kendra/Trikona, while Lagna lord is strong: declare long life.",
+      "hindi_meaning": "पाप ग्रह 3, 6, 11 में हों और शुभ ग्रह केन्द्र-त्रिकोण में, तथा लग्नेश बली हो, तो दीर्घायु कहनी चाहिए।"
+    },
+    {
+      "number": 66,
+      "text": "षट्सप्तरन्ध्रभवेषु शुभखेटयुतेषु च ।\nत्रिभवेषु च पापेषु पूर्णमायुर्विनिर्दिशेत्",
+      "english_meaning": "Benefics in 6, 7, 8 houses and malefics in 3, 11: declare full life.",
+      "hindi_meaning": "6, 7, 8 भावों में शुभ ग्रह हों और 3, 11 में पाप ग्रह हों, तो पूर्ण आयु कहनी चाहिए।"
+    },
+    {
+      "number": 67,
+      "text": "शत्रुव्ययगताः पापा लग्नेशो यदि केन्द्रगः ।\nरविमित्रं च रन्ध्रेशः पूर्णमायुस्तथापि हि",
+      "english_meaning": "Malefics in 6, 12 and Lagna lord in a Kendra, while 8th lord is a friend of Sun: also full life.",
+      "hindi_meaning": "6 और 12 में पाप ग्रह हों और लग्नेश केन्द्र में हो, तथा अष्टमेश सूर्य का मित्र हो, तो भी पूर्ण आयु होती है।"
+    },
+    {
+      "number": 68,
+      "text": "आयुः स्थानस्थिताः पापाः कर्मेशः स्वोच्चगो यदा ।\nतथापि दीर्घमायु स्यात् विज्ञेयं द्विजसत्तम",
+      "english_meaning": "Malefics in the 8th (Ayus-sthana) while 10th lord is in exaltation: also long life, O best of Brahmanas.",
+      "hindi_meaning": "8वें भाव में पाप ग्रह हों लेकिन दशमेश उच्च राशि का हो, तो भी दीर्घायु समझनी चाहिए, हे द्विजसत्तम।"
+    },
+    {
+      "number": 69,
+      "text": "द्विस्वभावगृहे लग्ने लग्नेशे केन्द्रसंस्थिते ।\nस्वोच्चराशित्रिकोणे वा दीर्घमायुर्विनिर्दिशेत्",
+      "english_meaning": "Lagna in a dual sign and Lagna lord in a Kendra, or in exaltation/Trikona: declare long life.",
+      "hindi_meaning": "द्विस्वभाव लग्न हो और लग्नेश केन्द्र में हो, अथवा उच्च राशि या त्रिकोण में हो, तो दीर्घायु कहनी चाहिए।"
+    },
+    {
+      "number": 70,
+      "text": "द्विस्वभावगृहे लग्ने लग्नेशाद् बलसंयुतात् ।\nद्वौ पापौ यदि केन्द्रस्थौ दीर्घमायुस्तदा भवेत्",
+      "english_meaning": "Lagna in a dual sign and two malefics in Kendras from strong Lagna lord: long life.",
+      "hindi_meaning": "द्विस्वभाव लग्न हो और बली लग्नेश से केन्द्रों में दो पाप ग्रह हों, तो भी दीर्घायु होती है।"
+    },
+    {
+      "number": 71,
+      "text": "लग्नाष्टमेशयोर्मध्ये यः खेटः प्रबलो भवेत् ।\nतस्मिन् केन्द्रगते दीर्घ मध्यं पणफरस्थिते",
+      "english_meaning": "Whichever is stronger between lords of Lagna and 8th, if it is in a Kendra: long life. In Panaphara: middle life.",
+      "hindi_meaning": "लग्नेश और अष्टमेश में जो बली हो, यदि वह केन्द्र में हो तो दीर्घ, पणफर (2,5,8,11) में हो तो मध्य आयु।"
+    },
+    {
+      "number": 72,
+      "text": "आपोक्लिमे स्थिते स्वल्पमायुर्भवति निश्चितम् ।\nलग्नेशे च रवेर्मित्रे दीर्घंमायुः समे समम्",
+      "english_meaning": "In Apoklima: definitely short life. If Lagna lord is a friend of Sun: long life. If neutral: middle.",
+      "hindi_meaning": "आपोक्लिम (3,6,9,12) में हो तो निश्चित ही अल्पायु। लग्नेश सूर्य का मित्र हो तो दीर्घ, सम हो तो मध्य आयु।"
+    },
+    {
+      "number": 73,
+      "text": "शत्रौ स्वल्पं वदेदित्थमष्टमेशादपि स्मृतम् ।\nमित्रमध्याऽरिभावस्थे तस्मिन्नेवं फलं वदेत्",
+      "english_meaning": "If enemy: short. Same result should be told from the lord of the 8th house based on friendship with Sun.",
+      "hindi_meaning": "शत्रु हो तो अल्प; अष्टमेश से भी सूर्य की मित्रता के आधार पर ऐसा ही फल कहना चाहिए।"
+    },
+    {
+      "number": 74,
+      "text": "सहजाधीशभूपुत्रौ द्वौ रन्ध्रेशशनैश्चरौ ।\nअस्तौ वा पापदृग्युक्तौ स्वल्पमायुः प्रयच्छतः",
+      "english_meaning": "Lord of 3rd and Mars, or lord of 8th and Saturn: if combust or aspected by malefics, they give short life.",
+      "hindi_meaning": "तीसरे का स्वामी और मंगल, या अष्टमेश और शनि - यदि ये अस्त हों या पापों से दृष्ट हों, तो अल्पायु देते हैं।"
+    },
+    {
+      "number": 75,
+      "text": "षष्ठेऽष्टमे व्यये वाऽपि लग्नेशे पापसंयुते ।\nस्व पायुरनपत्यो वा शुभदृग्योगवर्जिते",
+      "english_meaning": "If Lagna lord is in 6, 8, or 12 associated with malefics and free from benefic aspect: very short life or childless.",
+      "hindi_meaning": "यदि लग्नेश 6, 8, 12 भाव में पाप ग्रह के साथ हो और शुभ दृष्टि से रहित हो, तो जातक अल्पायु या संतानहीन होता है।"
+    },
+    {
+      "number": 76,
+      "text": "चतुष्ट्यगते पापे शुभदृष्टिविवर्जिते ।\nबलहीने विग्लनेशे स्वल्पमायुर्विनिर्दिशेत्",
+      "english_meaning": "Malefics in Kendras and free from benefic aspect, while Lagna lord is weak: declare short life.",
+      "hindi_meaning": "केन्द्रों में पाप ग्रह हों और शुभ दृष्टि न हो, तथा लग्नेश निर्बल हो, तो अल्पायु कहनी चाहिए।"
+    },
+    {
+      "number": 77,
+      "text": "व्ययार्थौ पापसंयुक्तौ शुभदृग्योगवर्जितौ ।\nस्वल्पमायुस्तदा ज्ञेयं निर्विशंकं द्विजोत्तम",
+      "english_meaning": "12th and 2nd houses associated with malefics and free from benefic aspect: definitely short life, O best of Brahmanas.",
+      "hindi_meaning": "12वें और 2रे भाव पाप ग्रहों से युक्त हों और शुभ दृष्टि से रहित हों, तो हे द्विजोत्तम! निश्चित ही अल्पायु होती है।"
+    },
+    {
+      "number": 78,
+      "text": "लग्नरन्ध्रेशयोरेवं दुःस्थयोर्बलहीनयोः ।\nस्वल्पमायुर्बुधैर्ज्ञेयं मिश्रयोगाच्च मध्यमम्",
+      "english_meaning": "If lords of Lagna and 8th are both in bad houses and weak: wise men should know it is short life. From mixed yogas, middle life.",
+      "hindi_meaning": "यदि लग्नेश और अष्टमेश दोनों ही दुःस्थानों (6,8,12) में और निर्बल हों, तो अल्पायु समझें। मिश्रित योगों से मध्यायु होती है।"
+    }
+  ]
+}

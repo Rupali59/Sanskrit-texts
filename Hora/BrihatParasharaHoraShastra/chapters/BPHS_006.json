@@ -1,0 +1,330 @@
+{
+  "source_file": "BPHS0110.md",
+  "source_chunk": "BPHS0110.json",
+  "chunk_index": 5,
+  "chapter": 6,
+  "variant": null,
+  "title": "अथ षोडशवर्गाध्यायः",
+  "shloka_count": 53,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "श्रुता ग्रहगुणास्त्वत्तस्तथा राशिगुण मुने ।\nश्रोतुमिच्छामि भावानां भेदांस्तान् कृपया वद",
+      "english_meaning": "O Sage! I have heard from you the qualities of the planets and the signs. Now I wish to hear about the different divisions (vargas) of the houses. Please describe them to me.",
+      "hindi_meaning": "हे मुने! मैंने आपसे ग्रहों और राशियों के गुणों को सुना। अब मैं भावों के भेदों (वर्गों) के बारे में सुनना चाहता हूँ। कृपया उनके बारे में बताइए।"
+    },
+    {
+      "number": 2,
+      "text": "वर्गान् षोडश यानाह ब्रह्मा लोकपितामहः ।\nतानहं सम्प्रवक्ष्यामि मैत्रेय श्रूयतामिति",
+      "english_meaning": "O Maitreya! I shall now describe the sixteen divisions (vargas) as told by Brahma, the grandfather of the worlds. Listen attentively.",
+      "hindi_meaning": "हे मैत्रेय! सृष्टि के पितामह ब्रह्मा जी ने जो सोलह वर्ग बताए हैं, मैं उनका वर्णन करता हूँ, तुम सुनो।"
+    },
+    {
+      "number": 3,
+      "text": "क्षेत्रं होरा च द्रेष्काणस्तुर्यांशः सप्तमांशकः ।\nनवांशो दशमांशश्च सूर्याम्शः षोडशांशकः",
+      "english_meaning": "The divisions are: Kshetra (Rashi), Hora, Drekkana, Turyansha (Chaturthansha), Saptamansha, Navamansha, Dashamansha, Suryansha (Dwadashansha), and Shodashansha.",
+      "hindi_meaning": "क्षेत्र (राशि), होरा, द्रेष्काण, चतुर्थांश (तर्यांश), सप्तमांश, नवांश, दशमांश, द्वादशांश (सूर्यांश) और षोडशांश।"
+    },
+    {
+      "number": 4,
+      "text": "विंशांशो वेदवाह्वंशो भांशस्त्रिंशांशकस्ततः ।\nखवेदांशोऽक्षवेदांशः षष्ठ्यंशश्च ततः परम्",
+      "english_meaning": "Vimshansha, Chaturvimshansha (Vedavahvansha), Saptavimshansha (Bhansha), Trimshansha, Khavedansha (40th), Akshavedansha (45th), and Shashtyansha (60th).",
+      "hindi_meaning": "विंशांश, चतुर्विंशांश (वेदवाह्वंश), सप्तविंशांश (भांश), त्रिंशांश, खवेदांश (४०वाँ), अक्षवेदांश (४५वाँ) और षष्ठ्यंश (६०वाँ)।"
+    },
+    {
+      "number": 5,
+      "text": "तत्क्षेत्रं तस्य खेटस्य राशेर्यो यस्य नायकः ।\nसूर्येन्द्वोर्विषमे राशौ समे तद्विपरीतकम्",
+      "english_meaning": "The Kshetra (Rashi) lord is the ruler of that sign. For Hora, in odd signs, Sun and Moon are the lords of the two halves; in even signs, it is reversed.",
+      "hindi_meaning": "क्षेत्र (राशि) का स्वामी वही होता है जो उस राशि का स्वामी है। होरा के लिए, विषम राशियों में प्रथमार्ध का स्वामी सूर्य और उत्तरार्ध का चन्द्रमा होता है; सम राशियों में यह इसके विपरीत होता है।"
+    },
+    {
+      "number": 6,
+      "text": "पितरश्चन्द्रहोरेशा देवाः सूर्यस्य कीर्तिताः ।\nराशेरर्द्धं भवेद्धोरा ताश्चतुर्विंशतिः स्मृता ।\nमेषादि तासां होराणां परिवृत्तिद्वयं भवेत्",
+      "english_meaning": "The lords of Moon's Hora are Pitris (Ancestors) and of Sun's Hora are Devas (Gods). Half of a sign is a Hora, and there are 24 Horas in the zodiac. They rotate twice starting from Aries.",
+      "hindi_meaning": "चन्द्रमा की होरा के स्वामी पितर और सूर्य की होरा के स्वामी देवता कहे गए हैं। राशि का आधा भाग होरा होता है और सम्पूर्ण राशिचक्र में २४ होराएँ होती हैं। मेष से आरम्भ कर इनके दो चक्र (परिवृत्ति) होते हैं।"
+    },
+    {
+      "number": 7,
+      "text": "राशित्रिभागाद्रेष्काणास्ते च षट्त्रिंशदीरिताः ।\nपरिवृत्तित्रयं तेषां मेषादेः क्रमशो भवेत्",
+      "english_meaning": "The three parts of a sign (10 degrees each) are called Drekkanas, totalling 36. They rotate thrice through the zodiac starting from Aries.",
+      "hindi_meaning": "राशि के तीसरे भाग (१० अंश) को द्रेष्काण कहते हैं, जिनकी कुल संख्या ३६ है। मेष से आरम्भ कर इनके तीन चक्र (परिवृत्ति) होते हैं।"
+    },
+    {
+      "number": 8,
+      "text": "स्वपञ्चनवमानां च राशीनां क्रमशश्च ते ।\nनारदाऽगस्तिदुर्वासा द्रेष्काणेशाश्चरादिषु",
+      "english_meaning": "The lords of the Drekkanas are the rulers of the 1st, 5th, and 9th signs from the sign. The deities are Narada, Agastya, and Durvasa for movable, fixed, and dual signs respectively.",
+      "hindi_meaning": "द्रेष्काणों के स्वामी क्रमशः अपनी राशि, ५वीं और ९वीं राशि के स्वामी होते हैं। चर, स्थिर और द्विस्वभाव राशियों के लिए इनके देवता क्रमशः नारद, अगस्त्य और दुर्वासा हैं।"
+    },
+    {
+      "number": 9,
+      "text": "स्वर्क्षादिकेन्द्रपतयस्तुर्यांशेशाः क्रियादिषु ।\nसनकश्च सनन्दश्च कुमारश्च सनातनः",
+      "english_meaning": "The lords of Chaturthansha (four parts of 7.5 degrees) are the rulers of the four Kendras starting from the sign. The deities are Sanaka, Sananda, Kumara, and Sanatana.",
+      "hindi_meaning": "चतुर्थांश के स्वामी राशि से आरम्भ होने वाले चारों केन्द्रों के अधिपति होते हैं। इनके देवता सनक, सनन्द, कुमार और सनातन हैं।"
+    },
+    {
+      "number": 10,
+      "text": "सप्तांशपास्त्वोजगृहे गणनीया निजेशतः ।\nयुग्मराशौ तु विज्ञेयाः सप्तमर्क्षादिनायकात्",
+      "english_meaning": "For Saptamansha, in odd signs, the count starts from the sign itself. In even signs, the count starts from the seventh sign from it.",
+      "hindi_meaning": "सप्तमांश के लिए, विषम राशियों में गणना अपनी ही राशि से आरम्भ होती है। सम राशियों में गणना अपनी राशि से सातवीं राशि से आरम्भ होती है।"
+    },
+    {
+      "number": 11,
+      "text": "क्षारक्षीरौ च दध्याज्यौ तथेक्षुरससम्भवः ।\nमध्यशुद्धजलावोजे समे शुद्धजलादिकाः",
+      "english_meaning": "The deities of Saptamansha in odd signs are: Kshara, Kshira, Dadhi, Ghrita, Ikshurasa, Madhu, and Shuddha Jala. In even signs, they are reversed starting from Shuddha Jala.",
+      "hindi_meaning": "विषम राशियों में सप्तमांश के देवता क्रमशः क्षार, क्षीर, दधि, घृत, इक्षुरस, मधु और शुद्ध जल हैं। सम राशियों में ये शुद्ध जल से उल्टे क्रम में होते हैं।"
+    },
+    {
+      "number": 12,
+      "text": "नवांशेशाश्चरे तस्मात्स्थिरे तन्नवमादितः ।\nउभये तत्पञ्चमादेरिति चिन्त्यं विचक्षणैः ।\nदेवा नृराक्षसाश्चैव चरादिषु गृहेषु च",
+      "english_meaning": "Navamansha: For movable signs, count from the sign itself; for fixed signs, from the 9th; and for dual signs, from the 5th. The deities are Deva, Nara, and Rakshasa in sequence.",
+      "hindi_meaning": "नवांश के लिए: चर राशियों में उसी राशि से, स्थिर राशियों में उससे ९वीं राशि से और द्विस्वभाव राशियों में उससे ५वीं राशि से गणना करनी चाहिए। इनके देवता क्रमशः देव, नर और राक्षस हैं।"
+    },
+    {
+      "number": 13,
+      "text": "दशमांशाः स्वतश्चौजे युग्मे तन्नवमात् स्मृताः ।\nदश पूर्वादिदिक्पाला इन्द्राऽग्नियमराक्षसाः",
+      "english_meaning": "Dashamansha: For odd signs, count from the sign itself; for even signs, count from the 9th sign. The deities are the ten Directional lords (Dikpalas) starting with Indra, Agni, Yama, and Rakshasa (Nirriti).",
+      "hindi_meaning": "दशमांश के लिए: विषम राशियों में उसी राशि से और सम राशियों में उससे ९वीं राशि से गणना होती है। इनके देवता इन्द्र, अग्नि, यम और राक्षस (निर्ऋति) आदि दसों दिशाओं के स्वामी हैं।"
+    },
+    {
+      "number": 14,
+      "text": "वरुणो मारुतश्चैव कुबेरेशानपद्मजाः ।\nअनन्तश्च क्रमादोजे समे वा व्युत्क्रमेण तु",
+      "english_meaning": "The other Dashamansha deities are Varuna, Maruta (Vayu), Kubera, Ishana, Padmaja (Brahma), and Ananta. They are applied in direct order for odd signs and reverse for even signs.",
+      "hindi_meaning": "दशमांश के अन्य देवता वरुण, मारुत (वायु), कुबेर, ईशान, पद्मज (ब्रह्मा) और अनन्त हैं। विषम राशियों में ये सीधे क्रम में और सम राशियों में उल्टे क्रम में होते हैं।"
+    },
+    {
+      "number": 15,
+      "text": "द्वादशांशस्य गणना तत्तत्क्षेत्राद्विनिर्दिशेत् ।\nतेषामघीशाः क्रमशो गणेशाऽश्वियमाहयाः",
+      "english_meaning": "Dwadashansha (12th part): The count starts from the sign itself. The deities are Ganesha, Ashvinikumaras, Yama, and Ahi (Serpent), rotating in sequence.",
+      "hindi_meaning": "द्वादशांश (१२वाँ भाग): इसकी गणना उसी राशि से आरम्भ होती है। इनके देवता क्रमशः गणेश, अश्विनीकुमार, यम और अहि (सर्प) हैं।"
+    },
+    {
+      "number": 16,
+      "text": "अजसिंहाऽश्वितो ज्ञेया षोडशांशाश्चरादिषु ।\nअजविष्णू हरः सूर्यो ह्योजे युग्मे प्रतीपकम्",
+      "english_meaning": "Shodashansha (16th part): For movable, fixed, and dual signs, the count starts from Aries, Leo, and Sagittarius respectively. Deities are Brahma (Aja), Vishnu, Shiva (Hara), and Surya in odd signs; reversed in even.",
+      "hindi_meaning": "षोडशांश (१६वाँ भाग): चर, स्थिर और द्विस्वभाव राशियों के लिए गणना क्रमशः मेष, सिंह और धनु से आरम्भ होती है। विषम राशियों में देवता ब्रह्मा (अज), विष्णु, शिव (हर) और सूर्य हैं; सम राशियों में यह क्रम उल्टा होता है।"
+    },
+    {
+      "number": 17,
+      "text": "अथ विंशतिभागानामधिपा ब्रह्मणोदिताः ।\nक्रियाच्चरे स्थिरे चापान् मृगेन्द्राद् द्विस्वभावके",
+      "english_meaning": "Vimshansha (20th part): Lords for movable, fixed, and dual signs start from Aries, Sagittarius, and Leo respectively, as described by Brahma.",
+      "hindi_meaning": "विंशांश (२०वाँ भाग): चर, स्थिर और द्विस्वभाव राशियों के लिए इनके अधिपति क्रमशः मेष, धनु और सिंह से आरम्भ होते हैं, जैसा ब्रह्मा जी ने कहा है।"
+    },
+    {
+      "number": 18,
+      "text": "काली गौरी जया लक्ष्मीविजया विमला सती ।\nतारा ज्वालामुखी श्वेता ललिता बगलामुखी",
+      "english_meaning": "Deities of Vimshansha (1-12): Kali, Gauri, Jaya, Lakshmi, Vijaya, Vimala, Sati, Tara, Jvalamukhi, Shveta, Lalita, and Bagalamukhi.",
+      "hindi_meaning": "विंशांश के देवता (१-१२): काली, गौरी, जया, लक्ष्मी, विजया, विमला, सती, तारा, ज्वालामुखी, श्वेता, ललिता और बगलामुखी।"
+    },
+    {
+      "number": 19,
+      "text": "प्रत्यङ्गिरा शची रौद्री भवानी वरदा जया ।\nत्रिपुरा सुमुखी चेति विषमे परिचिन्तयेत्",
+      "english_meaning": "Deities of Vimshansha in odd signs (13-20): Pratyangira, Shachi, Raudri, Bhavani, Varada, Jaya, Tripura, and Sumukhi.",
+      "hindi_meaning": "विषम राशियों में विंशांश के देवता (१३-२०): प्रत्यङ्गिरा, शची, रौद्री, भवानी, वरदा, जया, त्रिपुरा और सुमुखी।"
+    },
+    {
+      "number": 20,
+      "text": "समराशौ दया मेधा छिन्नशीर्षा पिशाचिनी ।\nधूमावती च मातङ्गी बाला भद्रऽरुणानला",
+      "english_meaning": "Deities of Vimshansha in even signs (1-10): Daya, Medha, Chinnashirsha, Pishachini, Dhumavati, Matangi, Bala, Bhadra, Aruna, and Anala.",
+      "hindi_meaning": "सम राशियों में विंशांश के देवता (१-१०): दया, मेधा, छिन्नशीर्षा, पिशाचिनी, धूमावती, मातङ्गी, बाला, भद्रा, अरुणा और अनला।"
+    },
+    {
+      "number": 21,
+      "text": "पिङ्गला छुच्छुका घोरा वाराही वैष्णवी सिता ।\nभुवनेशी भैरवी च मङ्गला ह्यपराजिता",
+      "english_meaning": "Deities of Vimshansha in even signs (11-20): Pingala, Chuchuka, Ghora, Varahi, Vaishnavi, Sita, Bhuvaneshi, Bhairavi, Mangala, and Aparajita.",
+      "hindi_meaning": "सम राशियों में विंशांश के देवता (११-२०): पिङ्गला, छुच्छुका, घोरा, वाराही, वैष्णवी, सिता, भुवनेशी, भैरवी, मङ्गला और अपराजिता।"
+    },
+    {
+      "number": 22,
+      "text": "सिद्धांशकानामधिपाः सिंहादोजभगे ग्रहे ।\nकर्कद्युग्मभगे खेटे स्कन्दः पर्शुधरोऽनलः",
+      "english_meaning": "Chaturvimshansha (Siddhansha, 24th part): For odd signs, count from Leo; for even signs, count from Cancer. Deities are Skanda, Parshudhara, and Anala in sequence.",
+      "hindi_meaning": "चतुर्विंशांश (सिद्धांश): विषम राशियों में गणना सिंह से और सम राशियों में कर्क से आरम्भ होती है। इनके देवता क्रमशः स्कन्द, पर्शुधर और अनल हैं।"
+    },
+    {
+      "number": 23,
+      "text": "विश्वकर्मा भगो मित्रो मयोऽन्तकवृषध्वजाः ।\nगोविन्दो मदनो भीमः सिंहादौ विषमे क्रमात् ।\nकर्कादौ समभे भीमाद्विलोमेन विचिन्तयेत्",
+      "english_meaning": "Other Siddhansha deities include Vishwakarma, Bhaga, Mitra, Maya, Antaka, Vrishadhwaja, Govinda, Madana, and Bhima. They are direct in odd signs and reversed in even signs.",
+      "hindi_meaning": "सिद्धांश के अन्य देवता विश्वकर्मा, भग, मित्र, मय, अन्तक, वृषध्वज, गोविन्द, मदन और भीम हैं। ये विषम राशियों में सीधे और सम राशियों में उल्टे क्रम में होते हैं।"
+    },
+    {
+      "number": 24,
+      "text": "भांशाधिपाः क्रमाद्दस्रयमवह्निपितामहः ।\nचन्द्रेशादितिजीवाहिपितरो भगसञ्ज्ञिताः",
+      "english_meaning": "Saptavimshansha (Bhansha, 27th part): Lords correspond to the 27 Nakshatras. First set of deities: Dasra (Ashvinikumaras), Yama, Vahni (Agni), Pitamaha (Brahma), Chandra, Isha (Shiva), Aditi, Jiva (Jupiter), Ahi (Serpents), and Pitris (Ancestors).",
+      "hindi_meaning": "सप्तविंशांश (भांश): इनके अधिपति २७ नक्षत्रों के अनुसार होते हैं। प्रथम समूह के देवता: दस्र (अश्विनीकुमार), यम, वह्नि (अग्नि), पितामह (ब्रह्मा), चन्द्र, ईश (शिव), अदिति, जीव (बृहस्पति), अहि (सर्प) और पितर।"
+    },
+    {
+      "number": 25,
+      "text": "अर्यमार्कत्वष्ट्टमरुच्छक्राग्निमित्रवासवाः ।\nनिरृत्युदकविश्वेऽजगोविन्दो वसवोऽम्बुपः",
+      "english_meaning": "Second set of Bhansha deities: Aryama, Arka (Sun), Twashta, Maruta (Vayu), Shakra (Indra), Agni, Mitra, Vasava (Indra), Nirriti, Udaka (Varuna), Vishwedevas, Aja (Brahma), Govinda (Vishnu), Vasus, and Ambupa (Varuna).",
+      "hindi_meaning": "भांश के देवताओं का दूसरा समूह: अर्यमा, अर्क (सूर्य), त्वष्टा, मारुत (वायु), शक्र (इन्द्र), अग्नि, मित्र, वासव (इन्द्र), निर्ऋति, उदक (वरुण), विश्वेदेवा, अज (ब्रह्मा), गोविन्द (विष्णु), वसु और अम्बुप (वरुण)।"
+    },
+    {
+      "number": 26,
+      "text": "ततोऽजपादहिर्बुध्न्यः पूषा चैव प्रकीर्तिताः ।\nनक्षत्रेशास्तु भांशेशा मेषादिचरभक्रमात्",
+      "english_meaning": "Final Bhansha deities: Ajapada, Ahirbudhnya, and Pusha. The calculation starts from Aries, Leo, and Sagittarius for movable, fixed, and dual signs respectively.",
+      "hindi_meaning": "अन्तिम भांश देवता: अजपाद, अहिर्बुध्न्य और पूषा। गणना चर, स्थिर और द्विस्वभाव राशियों के लिए क्रमशः मेष, सिंह और धनु से आरम्भ होती है।"
+    },
+    {
+      "number": 27,
+      "text": "त्रिंशांशेशाश्च विषमे कुजर्कीज्यज्ञभार्गवाः ।\nपञ्चपञ्चाष्टसप्ताक्षभागानां व्यत्ययात् समे",
+      "english_meaning": "Trimshansha (30th part): In odd signs, the lords are Mars, Saturn, Jupiter, Mercury, and Venus (owning 5, 5, 8, 7, 5 degrees respectively). In even signs, the order and degrees are reversed.",
+      "hindi_meaning": "त्रिंशांश (३०वाँ भाग): विषम राशियों में स्वामी मंगल, शनि, बृहस्पति, बुध और शुक्र हैं (क्रमशः ५, ५, ८, ७, ५ अंशों के)। सम राशियों में यह क्रम और अंश विपरीत हो जाते हैं।"
+    },
+    {
+      "number": 28,
+      "text": "वह्निः समीरशक्रौ च धनदो जलदस्तथा ।\nविषमेषु क्रमाज्ज्ञेयाः समराशौ विपर्ययात्",
+      "english_meaning": "Deities of Trimshansha: Vahni (Agni), Samira (Vayu), Shakra (Indra), Dhanada (Kubera), and Jalada (Varuna). Applied in direct order for odd signs and reverse for even signs.",
+      "hindi_meaning": "त्रिंशांश के देवता: वह्नि (अग्नि), समीर (वायु), शक्र (इन्द्र), धनद (कुबेर) और जलद (वरुण)। विषम राशियों में सीधे और सम राशियों में उल्टे क्रम में होते हैं।"
+    },
+    {
+      "number": 29,
+      "text": "चत्वारिंशद्विभागानामधिपा विषमे क्रियात् ।\nसमभे तुलतो ज्ञेयाः स्वस्वाधिपसमन्विताः",
+      "english_meaning": "Khavedansha (40th part): For odd signs, count from Aries; for even signs, count from Libra. The lords are the rulers of the resulting signs.",
+      "hindi_meaning": "खवेदांश (४०वाँ भाग): विषम राशियों के लिए मेष से और सम राशियों के लिए तुला से गणना की जाती है। अधिपति उस राशि के स्वामी होते हैं।"
+    },
+    {
+      "number": 30,
+      "text": "विष्णुश्चन्द्रो मरीचिश्च त्वष्टा धाता शिवो रविः ।\nयमो यक्षश्च गन्धर्वः कालो वरुण एव च",
+      "english_meaning": "Deities of Khavedansha (1-12): Vishnu, Chandra, Marichi, Twashta, Dhata, Shiva, Ravi, Yama, Yaksha, Gandharva, Kala, and Varuna.",
+      "hindi_meaning": "खवेदांश के देवता (१-१२): विष्णु, चन्द्र, मरीचि, त्वष्टा, धाता, शिव, रवि, यम, यक्ष, गन्धर्व, काल और वरुण।"
+    },
+    {
+      "number": 31,
+      "text": "तथाक्षवेदभागानामधिपाश्चरभे क्रियात् ।\nस्थिरे सिंहाद् द्विभेचापात् विधीशविष्णवश्चरे",
+      "english_meaning": "Akshavedansha (45th part): For movable signs, count from Aries; for fixed signs, from Leo; and for dual signs, from Sagittarius. In movable signs, the deities are Brahma, Isha (Shiva), and Vishnu.",
+      "hindi_meaning": "अक्षवेदांश (४५वाँ भाग): चर राशियों के लिए मेष से, स्थिर राशियों के लिए सिंह से और द्विस्वभाव राशियों के लिए धनु से गणना की जाती है। चर राशियों में इनके देवता ब्रह्मा, ईश (शिव) और विष्णु हैं।"
+    },
+    {
+      "number": 32,
+      "text": "ईशाच्युतसुरज्येष्ठा विष्णुकेशाः स्थिरे द्विभे ।\nदेवाः पञ्चदशावृत्त्या विज्ञेया द्विजसत्तम",
+      "english_meaning": "Deities of Akshavedansha for fixed signs start with Isha, Achyuta (Vishnu), and Surajyeshtha (Brahma). For dual signs, start with Vishnu, Ka (Brahma), and Isha. These rotate fifteen times.",
+      "hindi_meaning": "स्थिर राशियों में अक्षवेदांश के देवता ईश, अच्युत (विष्णु) और सुरज्येष्ठ (ब्रह्मा) से आरम्भ होते हैं। द्विस्वभाव राशियों में विष्णु, क (ब्रह्मा) और ईश से आरम्भ होते हैं। ये पन्द्रह बार घूमते हैं।"
+    },
+    {
+      "number": 33,
+      "text": "राशीन् विहाय खेटस्य द्विघ्नमंशाद्यमर्कहृत् ।\nशेषं सैकं तद्राशेर्भपाः षष्ट्यंशपाः स्मृताः",
+      "english_meaning": "Shashtyansha (60th part): Ignoring the sign, multiply the degrees by 2 and divide by 12. The remainder plus one gives the sign whose lord is the Shashtyansha lord.",
+      "hindi_meaning": "षष्ठ्यंश (६०वाँ भाग): राशि को छोड़कर अंशों को २ से गुणा करें और १२ से भाग दें। शेषफल में १ जोड़ने पर जो राशि आए, उसका स्वामी षष्ठ्यंश का स्वामी होता है।"
+    },
+    {
+      "number": 34,
+      "text": "घोरश्च राक्षशो देवः कुबेरो यक्षकिन्नरौ ।\nभ्रष्टः कुलघ्नो गरलो वह्निर्माया पुरीषकः",
+      "english_meaning": "Deities of Shashtyansha (1-12): Ghora, Rakshasa, Deva, Kubera, Yaksha, Kinnara, Bhrashta, Kulaghna, Garala, Vahni, Maya, and Purishaka.",
+      "hindi_meaning": "षष्ठ्यंश के देवता (१-१२): घोर, राक्षस, देव, कुबेर, यक्ष, किन्नर, भ्रष्ट, कुलघ्न, गरल, वह्नि, माया और पुरीषक।"
+    },
+    {
+      "number": 35,
+      "text": "अपाम्पतिर्मरुत्वांश्च कालः सर्पामृतेन्दुकाः ।\nमृदुः कोमलहेरम्बब्रह्मविष्णुमहेश्वराः",
+      "english_meaning": "Deities of Shashtyansha (13-24): Apampati, Marutvan, Kala, Sarpa, Amrita, Indu, Mridu, Komala, Heramba, Brahma, Vishnu, and Maheshwara.",
+      "hindi_meaning": "षष्ठ्यंश के देवता (१३-२४): अपाम्पति, मरुत्वान्, काल, सर्प, अमृत, इन्दु, मृदु, कोमल, हेरम्ब, ब्रह्मा, विष्णु और महेश्वर।"
+    },
+    {
+      "number": 36,
+      "text": "देवार्द्रौ कलिनाशश्च क्षितीशकमलाकरौ ।\nगुलिको मृत्युकालश्च दावाग्निर्घोरसञ्ज्ञकः",
+      "english_meaning": "Deities of Shashtyansha (25-36): Deva, Ardra, Kalinasha, Kshitisha, Kamalakara, Gulika, Mrityu, Kala, Davagni, Ghora, Adhama (implied), and Kantaka (next).",
+      "hindi_meaning": "षष्ठ्यंश के देवता (२५-३६): देव, आर्द्र, कलिनाश, क्षितीश, कमलाकर, गुलिका, मृत्यु, काल, दावाग्नि, घोर, अधम और कण्टक।"
+    },
+    {
+      "number": 37,
+      "text": "यमश्च कण्टकसुधाऽमृतौ पूर्णनिशाकरः ।\nविषदग्धकुलान्तश्च मुख्यो वंशक्षयस्तथा",
+      "english_meaning": "Deities of Shashtyansha (37-48): Yama, Kantaka, Sudha, Amrita, Purna-nishakara, Vishadagdha, Kulanta, Mukhya, Vamshakshaya, Utpata, Kala, and Saumya.",
+      "hindi_meaning": "षष्ठ्यंश के देवता (३७-४८): यम, कण्टक, सुधा, अमृत, पूर्णनिशाकर, विषदग्ध, कुलान्त, मुख्य, वंशक्षय, उत्पात, काल और सौम्य।"
+    },
+    {
+      "number": 38,
+      "text": "उत्पातकालसौम्याख्याः कोमलः शीतलाभिधः ।\nकरालदंष्ट्रचन्द्रास्यौ प्रवीणः कालपावकः",
+      "english_meaning": "Deities of Shashtyansha (49-54): Komala, Shitala, Karaladamshtra, Chandrasya, Pravina, and Kalapavaka.",
+      "hindi_meaning": "षष्ठ्यंश के देवता (४९-५४): कोमल, शीतल, करालदंष्ट्र, चन्द्रास्य, प्रवीण और कालपावक।"
+    },
+    {
+      "number": 39,
+      "text": "दण्डभृन्निर्मलः सौम्यः क्रूरोऽतिशीतलोऽमृतः ।\nपयोधिभ्रमणाख्यौ च चन्द्ररेखा त्वयुग्मपाः",
+      "english_meaning": "Deities of Shashtyansha (55-60): Dandabhrit, Nirmala, Saumya, Krura, Atishitala, Amrita, Payodhi, Bhramana, and Chandrarekha. These are for odd signs.",
+      "hindi_meaning": "षष्ठ्यंश के देवता (५५-६०): दण्डभृत्, निर्मल, सौम्य, क्रूर, अतिशीतल, अमृत, पयोधि, भ्रमण और चन्द्ररेखा। ये विषम राशियों के लिए हैं।"
+    },
+    {
+      "number": 40,
+      "text": "समे भे व्यत्ययाज्ज्ञेयाः षष्ट्यंशेशाः प्रकीर्तिताः ।\nषष्ट्यांशस्वामिनस्त्वोजे तदीशादव्यत्पयः समे",
+      "english_meaning": "In even signs, the deities of Shashtyansha are applied in reverse order from Chandrarekha to Ghora.",
+      "hindi_meaning": "सम राशियों में षष्ठ्यंश के देवताओं का क्रम चन्द्ररेखा से घोर तक विपरीत क्रम में होता है।"
+    },
+    {
+      "number": 41,
+      "text": "शुभषष्टयंशसंयुक्ता ग्रहाः शुभफलप्रदाः ।\nक्रूरषष्ट्यंशसंयुक्ता नाशयन्ति खचारिणः",
+      "english_meaning": "Planets in auspicious Shashtyanshas give good results, while those in cruel or inauspicious Shashtyanshas destroy the planetary benefits.",
+      "hindi_meaning": "शुभ षष्ठ्यंशों में स्थित ग्रह शुभ फल देते हैं, जबकि क्रूर या अशुभ षष्ठ्यंशों में स्थित ग्रह शुभ फलों का नाश करते हैं।"
+    },
+    {
+      "number": 42,
+      "text": "वर्गभेदानहं वक्ष्ये मैत्रेय त्वं विधारय ।\nषड्वर्गाः सप्तवर्गाश्च दिग्वर्गा नृपवर्गकाः",
+      "english_meaning": "O Maitreya! Now understand the different combinations of vargas. There are Shadvarga (6), Saptavarga (7), Digvarga (10), and Nrupavarga (16).",
+      "hindi_meaning": "हे मैत्रेय! अब वर्गों के विभिन्न समूहों को समझो। ये षड्वर्ग (६), सप्तवर्ग (७), दशवर्ग (१०) और षोडशवर्ग (१६) कहलाते हैं।"
+    },
+    {
+      "number": 43,
+      "text": "भवन्ति वर्गसंयोगे षडवर्गे किंशुकादयः ।\nद्वाभ्यां किंशुकनामा च त्रिभिर्व्यञ्जनमुच्यते",
+      "english_meaning": "In Shadvarga, combinations of good vargas give names like Kimshuka. Two good vargas are called Kimshuka, and three are called Vyanjana.",
+      "hindi_meaning": "षड्वर्ग में शुभ वर्गों के संयोग से किंशुकादि संज्ञाएँ होती हैं। दो शुभ वर्गों के संयोग को किंशुक और तीन को व्यञ्जन कहते हैं।"
+    },
+    {
+      "number": 44,
+      "text": "चतुर्भिश्चामराख्यं च छत्रं पञ्चभिरेव च ।\nषड्भिः कुण्डलयोगः स्यान्मुकुटाख्यं च सप्तभिः",
+      "english_meaning": "Four good vargas are Chamara, five are Chhatra, six are Kundala, and seven (in Saptavarga) are Mukuta.",
+      "hindi_meaning": "चार शुभ वर्ग होने पर चामर, पाँच पर छत्र, छः पर कुण्डल और सात (सप्तवर्ग में) होने पर मुकुट संज्ञा होती है।"
+    },
+    {
+      "number": 45,
+      "text": "सप्तवर्गेऽथ दिग्वर्गे पारिजातादिसञ्ज्ञकाः ।\nपारिजातं भवेद्द्वाभ्यामुत्तमं त्रिभिरुच्यते",
+      "english_meaning": "In Saptavarga and Dashavarga, the names are Parijata etc. Two good vargas make Parijata, and three make Uttama.",
+      "hindi_meaning": "सप्तवर्ग और दशवर्ग में पारिजातादि संज्ञाएँ होती हैं। दो शुभ वर्ग होने पर पारिजात और तीन पर उत्तम संज्ञा होती है।"
+    },
+    {
+      "number": 46,
+      "text": "चतुर्भिर्गोपुराख्यं सयाच्छरैः सिंहासनं तथा ।\nपारावतं भवेत् षड्भिर्देवलोकं च सप्तभिः",
+      "english_meaning": "Four good vargas are Gopura, five are Simhasana, six are Paravata, and seven are Devaloka.",
+      "hindi_meaning": "चार शुभ वर्ग होने पर गोपुर, पाँच पर सिंहासन, छः पर पारावत और सात पर देवलोक संज्ञा होती है।"
+    },
+    {
+      "number": 47,
+      "text": "वसुभिर्ब्रह्मलोकाख्यं नवभिः शक्रवाहनम् ।\nदिग्भिः श्रीधामयोगः स्यादथ षोडशवर्गके",
+      "english_meaning": "Eight good vargas are Brahmaloka, nine are Shakravahana, and ten are Shridhama. Now for Shodashavarga (16):",
+      "hindi_meaning": "आठ शुभ वर्ग होने पर ब्रह्मलोक, नौ पर शक्रवाहन और दस पर श्रीधाम संज्ञा होती है। अब षोडशवर्ग (१६) के लिए:"
+    },
+    {
+      "number": 48,
+      "text": "भेदकं च भवेद्द्वाभ्यां त्रिभिः स्यात् कुमुमाख्यकम् ।\nचतुर्भिर्नागपुष्पं स्यात् पञ्चभिः कन्दुकाह्वयम्",
+      "english_meaning": "Two good vargas are Bhedaka, three are Kusuma, four are Nagapushpa, and five are Kanduka.",
+      "hindi_meaning": "दो शुभ वर्ग होने पर भेदक, तीन पर कुसुम, चार पर नागपुष्प और पाँच पर कन्दुक संज्ञा होती है।"
+    },
+    {
+      "number": 49,
+      "text": "केरलाख्यं भवेत् षड्भिः सप्तभिः कल्पवृक्षकम् ।\nअष्टभिश्चन्दनवनं नवभिः पूर्णचन्द्रकम्",
+      "english_meaning": "Six good vargas are Kerala, seven are Kalpavriksha, eight are Chandanavana, and nine are Purnachandrak.",
+      "hindi_meaning": "छः शुभ वर्ग होने पर केरल, सात पर कल्पवृक्ष, आठ पर चन्दनवन और नौ पर पूर्णचन्द्रक संज्ञा होती है।"
+    },
+    {
+      "number": 50,
+      "text": "दिग्भिरुच्चैःश्रवा नाम रुद्रैर्धन्वन्तरिर्भवेत् ।\nसूर्यकान्तं भवेद् सूर्यैर्विश्वैः स्याद्विद्रुमाख्यकम्",
+      "english_meaning": "Ten good vargas are Uchchaishrava, eleven are Dhanvantari, twelve are Suryakanta, and thirteen are Vidruma.",
+      "hindi_meaning": "दस शुभ वर्ग होने पर उच्चैःश्रवा, ग्यारह पर धन्वन्तरि, बारह पर सूर्यकान्त और तेरह पर विद्रुम संज्ञा होती है।"
+    },
+    {
+      "number": 51,
+      "text": "शक्रसिंहासनं शक्रैर्गोलोकं तिथिभिर्भवेत् ।\nभूपैः स्रीवल्लभाख्यं स्याद्वर्गा भेदैरुदाहृताः",
+      "english_meaning": "Fourteen good vargas are Shakrasimhasana, fifteen are Goloka, and sixteen are Shrivallabha. These are the different varga classifications.",
+      "hindi_meaning": "चौदह शुभ वर्ग होने पर शक्रसिंहासन, पन्द्रह पर गोलोक और सोलह पर श्रीवल्लभ संज्ञा होती है। ये वर्गों के विभिन्न भेद कहे गए हैं।"
+    },
+    {
+      "number": 52,
+      "text": "स्वोच्चमूलत्रिकोणस्वभवनाधिपतेः शुभाः ।\nस्वारुढात् केन्द्रनाथानां वर्गा ग्राह्याः सुधीमता",
+      "english_meaning": "A wise person should consider the vargas of signs that are exaltation, Moolatrikona, or own signs of the planets, as well as those of the lords of Kendras from the Arudha Lagna.",
+      "hindi_meaning": "बुद्धिमान व्यक्ति को ग्रहों के उच्च, मूलत्रिकोण या स्वराशि वाले वर्गों तथा आरूढ़ लग्न से केन्द्रों के स्वामियों के वर्गों को शुभ समझना चाहिए।"
+    },
+    {
+      "number": 53,
+      "text": "अस्तङ्गता ग्रहजिता नीचगा दुर्बलाश्च ये ।\nशयनादिगतास्तेभ्य उत्पन्ना योगनाशकाः",
+      "english_meaning": "Planets that are combust, defeated in planetary war, debilitated, weak, or in specific negative states (like Sayana Avastha) destroy the positive yogas they form.",
+      "hindi_meaning": "जो ग्रह अस्त हों, युद्ध में पराजित हों, नीच के हों, निर्बल हों या शयनादि अशुभ अवस्थाओं में हों, वे अपने द्वारा बनाए गए शुभ योगों का नाश करते हैं।"
+    }
+  ]
+}

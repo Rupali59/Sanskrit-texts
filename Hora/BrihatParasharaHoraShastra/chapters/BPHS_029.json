@@ -1,0 +1,234 @@
+{
+  "source_file": "BPHS2130.md",
+  "source_chunk": "BPHS2130.json",
+  "chunk_index": 8,
+  "chapter": 29,
+  "variant": null,
+  "title": "अथ पदाध्यायः",
+  "shloka_count": 37,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "कथ्याम्यथा भावानां खेटानां च पदं द्विज ।\nतद्विशेषफलं ज्ञातुं यथोक्तं प्राङ् महर्षिभिः",
+      "english_meaning": "Now I shall describe the Padas (Arudha) of the houses and planets, as explained by the great sages to know their specific effects.",
+      "hindi_meaning": "अब मैं भावों और ग्रहों के पदों (आरूढ़) का वर्णन करता हूँ, जैसा कि महर्षि द्वारा उनके विशेष फलों को जानने के लिए कहा गया है।"
+    },
+    {
+      "number": 2,
+      "text": "लग्नाद् यावतिथे राशौ तिष्ठेल्लग्नेश्वरः क्रमात् ।\nततस्तावतिथे राशौ लग्नस्य पदमुच्यते",
+      "english_meaning": "Note how many signs the house lord is away from its own house. Count as many signs from the lord's position to find the Pada (Arudha) of that house.",
+      "hindi_meaning": "भाव का स्वामी अपने भाव से जितने राशि दूर बैठा हो, उसके स्थान से उतने ही राशि आगे गिनने पर उस भाव का पद (आरूढ़) प्राप्त होता है।"
+    },
+    {
+      "number": 3,
+      "text": "सर्वेषामाप भावानां ज्ञेयमेवं पदं द्विज ।\nतनुभावपदं तत्र बुधा मुख्यपदं विदुः",
+      "english_meaning": "Determine the Padas for all houses in this manner. The Pada of the Lagna (1st house) is called the Mukhiya Pada or Arudha Lagna.",
+      "hindi_meaning": "इसी प्रकार सभी भावों के पद ज्ञात करने चाहिए। लग्न के पद को 'मुख्य पद' या 'आरूढ़ लग्न' कहते हैं।"
+    },
+    {
+      "number": 4,
+      "text": "स्वस्थानं सप्तमं नैवं पदं भवितुमर्हति ।\nतस्मिन् पदत्वे विज्ञेयं मध्यं तुर्यं क्रमात् पदम्",
+      "english_meaning": "Exceptions: A house itself or the 7th house from it cannot be its Pada. In such cases, take the 10th or 4th house as the Pada respectively.",
+      "hindi_meaning": "अपवाद: कोई भाव स्वयं या उससे ७वां भाव उसका पद नहीं हो सकता। ऐसी स्थिति में क्रमशः १०वें या ४थे भाव को पद मानना चाहिए।"
+    },
+    {
+      "number": 5,
+      "text": "यथा तुर्यस्थिते नाथे तुर्यमेव पदं भवेत् ।\nसप्तमे च स्थिते नाथे विज्ञेयं दशमं पदम्",
+      "english_meaning": "For example, if the lord is in the 4th, the 4th house itself is not the Pada, but the 4th from it. If the lord is in the 7th, the 10th house is the Pada.",
+      "hindi_meaning": "उदाहरणार्थ, यदि स्वामी ४थे भाव में हो, तो वहां से ४था भाव पद होगा। यदि स्वामी ७वें में हो, तो १०वां भाव पद होगा।"
+    },
+    {
+      "number": 6,
+      "text": "यस्माद् यावतिथे राशौ खेटात् तद्भवनं द्विज ।\nततस्तावतिथं राशिं खेटारूढं प्रचक्षते",
+      "english_meaning": "In the same way, the Arudha Pada for planets (Graha Arudha) should be calculated based on their distance from their own houses.",
+      "hindi_meaning": "इसी प्रकार ग्रहों के आरूढ़ पद (ग्रह आरूढ़) की गणना भी उनके अपने घरों से दूरी के आधार पर करनी चाहिए।"
+    },
+    {
+      "number": 7,
+      "text": "द्विनाथद्विभयोरेवं विज्ञेयं सबलावधि ।\nविगणय्य पदं विप्र ततस्तस्य फलं वदेत्",
+      "english_meaning": "After calculating the Padas for the houses and their lords with full strength, one should predict the results.",
+      "hindi_meaning": "भावों और उनके स्वामियों के पदों की पूर्ण बल के साथ गणना करने के बाद फलादेश करना चाहिए।"
+    },
+    {
+      "number": 8,
+      "text": "अथाऽहं पदमाश्रित्य फलं किञ्चिद् ब्रुवे द्विज ।\nपदादेकादशे स्थाने ग्रहैर्युक्तोऽथवेक्षिते",
+      "english_meaning": "If planets are placed in or aspect the 11th house from the Arudha Lagna, the native becomes wealthy and endowed with happiness.",
+      "hindi_meaning": "यदि आरूढ़ लग्न से एकादश भाव में ग्रह स्थित हों या उसे देखते हों, तो जातक धनवान और सुख-संपन्न होता है।"
+    },
+    {
+      "number": 9,
+      "text": "धनवान् जायते बालस्तथा सुखसमन्वितः ।\nशुभयोगात् सुमार्गेण धनाप्तिः पापतोऽन्तथा",
+      "english_meaning": "If the planets in the 11th are benefics, wealth is gained through righteous means; if they are malefics, it is gained through other means.",
+      "hindi_meaning": "यदि एकादश भाव में शुभ ग्रह हों तो धन का आगमन शुभ मार्ग से होता है; यदि पाप ग्रह हों तो अन्य मार्गों से धन प्राप्त होता है।"
+    },
+    {
+      "number": 10,
+      "text": "मिश्रैर्मिश्रं फलं ज्ञेयं स्वोच्चमित्रादिगेहगैः ।\nबहुधा जायते लाभो बहुधा च सुखागमः",
+      "english_meaning": "Mixed results are obtained if mixed planets are present. If planets are in exaltation or friend's sign, gains and happiness are plentiful.",
+      "hindi_meaning": "मिश्रित ग्रह होने पर मिश्रित फल मिलता है। यदि ग्रह उच्च या मित्र राशि में हों, तो प्रचुर लाभ और सुख प्राप्त होता है।"
+    },
+    {
+      "number": 11,
+      "text": "पदाल्लाभगृहं यस्य पश्यन्ति सकला ग्रहाः ।\nराजा वा राजतुल्यो वा स जातो नात्र संशयः",
+      "english_meaning": "If all planets aspect the 11th house from the Arudha Lagna, the native becomes a king or equal to a king, without any doubt.",
+      "hindi_meaning": "यदि आरूढ़ लग्न से एकादश भाव को सभी ग्रह देखते हों, तो वह जातक निश्चित रूप से राजा या राजा के समान होता है।"
+    },
+    {
+      "number": 12,
+      "text": "पदाल्लाभगृहं पश्येद् व्ययं कश्चिन्न पश्यति ।\nअविध्नेन सदा लाभो जायते द्विजसत्तम",
+      "english_meaning": "If planets aspect the 11th house and no planet aspects the 12th house from the Arudha Lagna, gains occur without any obstacles.",
+      "hindi_meaning": "यदि एकादश भाव पर ग्रहों की दृष्टि हो और आरूढ़ लग्न से द्वादश भाव पर किसी ग्रह की दृष्टि न हो, तो बिना किसी विघ्न के लाभ प्राप्त होता है।"
+    },
+    {
+      "number": 13,
+      "text": "ग्रहदृग्योगबाहुल्ये पदादेकादशे द्विज ।\nसार्गले चापि तत्रापि बह्वर्गलसमागमे",
+      "english_meaning": "The presence of many Argala (intervention) points in the 11th house from the Arudha Lagna also indicates great prosperity.",
+      "hindi_meaning": "आरूढ़ लग्न से एकादश भाव में अनेक अर्गलाओं की उपस्थिति भी महान समृद्धि का संकेत देती है।"
+    },
+    {
+      "number": 14,
+      "text": "शुभग्रहार्गले विप्र तत्राप्युच्चग्रहार्गले ।\nशुभेन स्वामिना दृष्टे लग्नभाग्यादिगेन वा",
+      "english_meaning": "Argala of benefic planets, especially those in exaltation, and aspects of the house lord or the 9th lord enhance the fortune.",
+      "hindi_meaning": "शुभ ग्रहों की अर्गला, विशेषकर उच्चस्थ ग्रहों की, तथा भावेश या नवमेश की दृष्टि जातक के भाग्य को निरंतर बढ़ाती है।"
+    },
+    {
+      "number": 15,
+      "text": "जातस्य भाग्यप्राबल्यं निर्दिशेदुत्तरोत्तरम् ।\nउक्तयोगेषु चेत् खेटे द्वादशं नैव पश्यति",
+      "english_meaning": "The strength of fortune should be predicted progressively according to these yogas, provided there is no malefic aspect on the 12th.",
+      "hindi_meaning": "इन योगों के अनुसार भाग्य की प्रबलता बढ़ती जाती है, बशर्ते कि द्वादश भाव पर कोई पाप दृष्टि न हो।"
+    },
+    {
+      "number": 16,
+      "text": "पदस्थानाद् व्यये विप्र शुभपापयुतेक्षिते ।\nव्ययबाहुल्यमित्येवं विशेषोपार्जनात् सदा",
+      "english_meaning": "If the 12th house from the Arudha Lagna is occupied or aspected by planets, it indicates heavy expenses from the earnings.",
+      "hindi_meaning": "यदि आरूढ़ लग्न से द्वादश भाव में ग्रह स्थित हों या उसे देखते हों, तो यह अर्जित धन के अत्यधिक व्यय का संकेत देता है।"
+    },
+    {
+      "number": 17,
+      "text": "शुभग्रहे सुमार्गेण कुमार्गात् पापखेचरे ।\nमिश्रे मिश्रफलं वाच्यमेवं लाभोऽपि लाभगे",
+      "english_meaning": "Benefic planets in the 12th cause expenses for good causes; malefic planets lead to expenses through wrong means.",
+      "hindi_meaning": "द्वादश भाव में शुभ ग्रह होने पर शुभ कार्यों में व्यय होता है; पाप ग्रह होने पर कुमार्ग से धन का व्यय होता है।"
+    },
+    {
+      "number": 18,
+      "text": "पदारूढाद् व्यये शुक्रभानुस्वर्भानुभिर्युते ।\nराजमूलाद् व्ययो वाच्यश्चन्द्रदृष्ट्या विशेषतः",
+      "english_meaning": "If Venus, Sun and Rahu are in the 12th from Arudha Lagna, expenses are caused by the government, especially if aspected by the Moon.",
+      "hindi_meaning": "यदि आरूढ़ लग्न से द्वादश में शुक्र, सूर्य और राहु हों, तो सरकारी कार्यों में व्यय होता है, विशेषकर चन्द्रमा की दृष्टि होने पर।"
+    },
+    {
+      "number": 19,
+      "text": "पदारूढाद् व्यये सौम्ये शुभखेटयुतेक्षिते ।\nज्ञातिमध्ये व्ययो नित्यं पापदृक् कलहाद् व्ययः",
+      "english_meaning": "Mercury in the 12th with benefics leads to expenses among kinsmen; malefic aspects cause expenses through disputes.",
+      "hindi_meaning": "द्वादश में बुध के साथ शुभ ग्रह हों तो जाति-बिरादरी में व्यय होता है; पाप दृष्टि होने पर कलह और विवादों में धन खर्च होता है।"
+    },
+    {
+      "number": 20,
+      "text": "पदाद् व्यये सुराचार्ये वीक्षिते चान्यखेचरैः ।\nकरमूलाद् व्ययो वाच्यः स्वस्यैव द्विजसत्तम",
+      "english_meaning": "If Jupiter is in the 12th from Arudha Lagna and aspected by other planets, the person spends on taxes or personal needs.",
+      "hindi_meaning": "यदि आरूढ़ लग्न से द्वादश में गुरु हो और अन्य ग्रह उसे देखते हों, तो जातक करों (टैक्स) या अपनी व्यक्तिगत आवश्यकताओं पर व्यय करता है।"
+    },
+    {
+      "number": 21,
+      "text": "आरूढाद् द्वादशे सौरे धरापुत्रेण संयुते ।\nअन्यग्रहेक्षिते विप्र भ्रातृवर्गाद् धनव्ययः",
+      "english_meaning": "Saturn and Mars in the 12th from Arudha Lagna, aspected by other planets, lead to expenses through siblings and relatives.",
+      "hindi_meaning": "आरूढ़ लग्न से द्वादश में शनि और मंगल हों तथा अन्य ग्रहों की दृष्टि हो, तो भाइयों और बंधुओं के कारण धन का व्यय होता है।"
+    },
+    {
+      "number": 22,
+      "text": "आरूढाद् द्वादशे स्थाने ये योगाः कथिता यथा ।\nलाभभावे च ते योगा लाभयोगकरास्तथा",
+      "english_meaning": "The yogas mentioned for the 12th house also apply to the 11th house from Arudha Lagna for the purpose of gains.",
+      "hindi_meaning": "द्वादश भाव के लिए जो योग कहे गए हैं, वे ही योग आरूढ़ लग्न से एकादश भाव में होने पर लाभ के योग बनाते हैं।"
+    },
+    {
+      "number": 23,
+      "text": "आरूढात् सप्तमे राहुरथवा संस्थितः शिखी ।\nकुक्षिव्यथायुतो बालः शिखिना पीडितो`थ वा",
+      "english_meaning": "If Rahu or Ketu is in the 7th from Arudha Lagna, the native suffers from stomach ailments or troubles from fire/poison.",
+      "hindi_meaning": "यदि आरूढ़ लग्न से सप्तम में राहु या केतु हो, तो जातक को पेट के रोग या अग्नि/विष का भय होता है।"
+    },
+    {
+      "number": 24,
+      "text": "आरूधात् सप्तमे केतुः पापखेटयुतेक्षितः ।\nसाहसी श्वेतकेशी च वृद्धलिङ्गी भवेन्नरः",
+      "english_meaning": "Ketu in the 7th from Arudha Lagna with malefic aspects makes one adventurous but leads to premature graying of hair.",
+      "hindi_meaning": "आरूढ़ लग्न से सप्तम में केतु पर पाप दृष्टि हो तो जातक साहसी होता है, किन्तु उसके बाल समय से पहले सफेद हो जाते हैं।"
+    },
+    {
+      "number": 25,
+      "text": "पदात्तु सप्तमे स्थाने गुरुशुक्रनिशाकराः ।\nत्रयो द्वयमथैकोऽपि लक्ष्मीवान् जायते जनः",
+      "english_meaning": "If Jupiter, Venus and Moon (all three, two or even one) are in the 7th from Arudha Lagna, the native becomes very wealthy (Lakshmivan).",
+      "hindi_meaning": "यदि आरूढ़ लग्न से सप्तम में गुरु, शुक्र और चन्द्रमा (तीनों, दो या कोई एक) हों, तो जातक अत्यंत लक्ष्मीवान (धनवान) होता है।"
+    },
+    {
+      "number": 26,
+      "text": "स्वतुङ्गे सप्तमे खेटः शुभो वाऽप्यशुभः पदात् ।\nश्रीमान् सोऽपि भवेन्नुनं सत्कीर्तिसहितो द्विज",
+      "english_meaning": "Any planet (benefic or malefic) in its exaltation sign in the 7th from Arudha Lagna also bestows wealth and good fame.",
+      "hindi_meaning": "आरूढ़ लग्न से सप्तम में कोई भी ग्रह (शुभ या पाप) अपनी उच्च राशि में हो, तो वह भी जातक को धन और उत्तम कीर्ति प्रदान करता है।"
+    },
+    {
+      "number": 27,
+      "text": "ये योगाः सप्तमे स्थाने पदाश्च कथिता मया ।\nचिन्त्यास्तथैव ते योगा द्वितीयेऽपि सदा द्विज",
+      "english_meaning": "The yogas described for the 7th house from Arudha Lagna should also be analyzed for the 2nd house from it.",
+      "hindi_meaning": "आरूढ़ लग्न से सप्तम भाव के लिए जो योग कहे गए हैं, उनका विचार आरूढ़ लग्न से द्वितीय भाव के लिए भी करना चाहिए।"
+    },
+    {
+      "number": 28,
+      "text": "उच्चस्थो रौहिणेयो वा जीवो वा शुक्र एव वा ।\nएवो बली धनगतः श्रियं दिशति देहिनः",
+      "english_meaning": "Strong benefics like Mercury, Jupiter or Venus in the 2nd house from Arudha Lagna grant wealth and prosperity to the native.",
+      "hindi_meaning": "आरूढ़ लग्न से द्वितीय भाव में बुध, गुरु या शुक्र जैसे बली शुभ ग्रह जातक को प्रचुर धन और ऐश्वर्य प्रदान करते हैं।"
+    },
+    {
+      "number": 29,
+      "text": "ये योगाश्च पदे लग्ने यथावद् गदिता मया ।\nते योगाः कारकांशेऽपि विज्ञेया बांधवर्जिताः",
+      "english_meaning": "The yogas described for the Arudha Lagna also apply to the Karakamsha (sign of Atmakaraka in Navamansha).",
+      "hindi_meaning": "आरूढ़ लग्न के लिए जो योग कहे गए हैं, उन्हें कारकांश (नवांश में आत्मकारक की राशि) पर भी लागू करना चाहिए।"
+    },
+    {
+      "number": 30,
+      "text": "आरूढाद् वित्तभे सौम्ये सर्वदेशाधिपो भवेत् ।\nसर्वज्ञो यदि वा स स्यात् कविर्वादी च भार्गवे",
+      "english_meaning": "Mercury in the 2nd from Arudha Lagna makes one a ruler of many regions. Venus in the 2nd makes one a great poet or orator.",
+      "hindi_meaning": "आरूढ़ लग्न से द्वितीय में बुध हो तो जातक अनेक प्रदेशों का अधिपति होता है। शुक्र होने पर वह महान कवि या वक्ता होता है।"
+    },
+    {
+      "number": 31,
+      "text": "आरूधात् केन्द्रकोणेषु स्थिते दारपदे द्विज ।\nलग्नजायापदे वापि सबलग्रहसंयुते",
+      "english_meaning": "If Darapada (Arudha of 7th) is in Kendras or Konas from Arudha Lagna and associated with strong planets, it brings fame and fortune.",
+      "hindi_meaning": "यदि दारपद (७वें का आरूढ़) आरूढ़ लग्न से केन्द्र या त्रिकोण में हो और बली ग्रहों से युक्त हो, तो जातक को ख्याति और सौभाग्य प्राप्त होता है।"
+    },
+    {
+      "number": 32,
+      "text": "स्र्/ईमांश्च जायते नूनं देशे विख्यातिमान् भवेत् ।\nषष्ठेष्टमे व्ययस्थाने जातो दारपदेऽधनः",
+      "english_meaning": "The native becomes very famous in the country. However, if Darapada is in the 6th, 8th or 12th houses, the native suffers from poverty.",
+      "hindi_meaning": "जातक देश में अत्यंत विख्यात होता है। किन्तु यदि दारपद ६, ८ या १२वें भाव में हो, तो जातक निर्धन होता है।"
+    },
+    {
+      "number": 33,
+      "text": "पदे तत्सप्तमे वापि केन्द्रे वृद्धौ त्रिकोणके ।\nसुवीर्यः संस्थितः खेतः भार्याभर्तृसुखप्रदः",
+      "english_meaning": "If Darapada is in the 7th, Kendra, Labha (11th) or Kona from Arudha Lagna and strong, it grants happiness from spouse.",
+      "hindi_meaning": "यदि दारपद आरूढ़ लग्न से ७वें, केन्द्र, लाभ या त्रिकोण में हो और बली हो, तो वह स्त्री और पति के बीच सुख प्रदान करता है।"
+    },
+    {
+      "number": 34,
+      "text": "पदाद्दारपदे चैवं केन्द्रे कोणे च संस्थिते ।\nद्वयोर्मैत्री भवेन्नूनं त्रिके वैरं न संशयः",
+      "english_meaning": "Darapada in Kendras/Konas from Arudha Lagna indicates mutual friendship; in 6/8/12, it indicates hostility and disputes.",
+      "hindi_meaning": "आरूढ़ लग्न से केन्द्र/त्रिकोण में दारपद होने पर पति-पत्नी में परस्पर मैत्री होती है; ६, ८, १२ में होने पर वैर और विवाद होता है।"
+    },
+    {
+      "number": 35,
+      "text": "एवं लग्नपदाद् विप्र तनयादिपदे स्थिते ।\nमित्रामित्रे विजानीयाल्लाभालाभौ विचक्षणः",
+      "english_meaning": "Similarly, analyze the relationship between Arudha Lagna and the Padas of other houses (like sons etc.) to know about gains or losses.",
+      "hindi_meaning": "इसी प्रकार आरूढ़ लग्न और अन्य भावों (पुत्र आदि) के पदों के बीच संबंधों का विचार करके लाभ-हानि का निर्णय करना चाहिए।"
+    },
+    {
+      "number": 36,
+      "text": "लग्नदारपदे विप्र मिथः केन्द्रगते यदि ।\nत्रिलाभयोस्त्रिकोणे वा तथा राजा धराधिपः",
+      "english_meaning": "If Arudha Lagna and Darapada are in mutual Kendras, or in 3/11 or 5/9 relationships, the native becomes a powerful ruler.",
+      "hindi_meaning": "यदि आरूढ़ लग्न और दारपद परस्पर केन्द्र में हों, या ३/११ या ५/९ के संबंध में हों, तो जातक प्रतापी राजा या शासक होता है।"
+    },
+    {
+      "number": 37,
+      "text": "एवं लग्नपदादेव धनादिपदतो द्विज ।\nस्थानद्वयं समालोक्य जातकस्य फलं वदेत्",
+      "english_meaning": "By examining the dual relationship of Arudha Lagna and other Padas (like 2nd house pada etc.), predict the native's life results.",
+      "hindi_meaning": "आरूढ़ लग्न और अन्य पदों (जैसे द्वितीय भाव का पद आदि) के पारस्परिक संबंधों को देखकर जातक के जीवन के फलों का कथन करना चाहिए।"
+    }
+  ]
+}

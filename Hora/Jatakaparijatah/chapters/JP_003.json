@@ -1,0 +1,510 @@
+{
+  "number": "३",
+  "title": "अथ वियोनिजन्माद्यध्यायः",
+  "shlokas": [
+    {
+      "number": "१",
+      "text": "क्रूरग्रहैः सुबलिभिर्विबलैश्च सौम्यैः चतुष्टयगतेत दवेक्षणाद्वा ।\nचन्द्रोपगद्विरसमागसमानरूपं सत्त्वं वदेद्यादि भवेत्स वियोनिसंज्ञः",
+      "english_meaning": "Non-human (Viyoni) birth: If cruel planets are strong and benefics are weak, or if benefics are in the 4th/10th houses and aspected by malefics, the birth is non-human (animal/plant), resembling the sign the Moon is in.",
+      "hindi_meaning": "वियोनि जन्म: यदि क्रूर ग्रह बली हों और शुभ ग्रह निर्बल हों, या शुभ ग्रह ४/१०वें भाव में हों और पाप ग्रहों से दृष्ट हों, तो चन्द्रमा की राशि के समान वियोनि (पशु-पक्षी आदि) जन्म होता है।"
+    },
+    {
+      "number": "२",
+      "text": "पापा बलिनः स्वभागगाः पारक्ये विबलाश्च शोभनाः ।\nलग्नं च वियोनिसंज्ञकं दृष्टाऽत्रापि वियोनिमादिशेत्",
+      "english_meaning": "If malefics are strong in their own Navamshas and benefics are weak in others', and the Lagna is a Viyoni sign (Aries, Taurus, Leo, etc.), a non-human birth should be predicted.",
+      "hindi_meaning": "यदि पाप ग्रह अपने नवांश में बली हों और शुभ ग्रह अन्यत्र निर्बल हों, और लग्न वियोनि संज्ञक (मेष, वृष, सिंह आदि) हो, तो वियोनि जन्म समझना चाहिए।"
+    },
+    {
+      "number": "३",
+      "text": "क्रियः शिरो वक्त्रगलो वृषोऽन्ये पादांसकं पृष्ठोमुरोऽथ पार्श्वे ।\nकुक्षिस्त्वपानोऽघ्न्यथ मेद्रभुष्कौ स्फिक्पुच्छमित्याह चतुष्पदाङ्गे",
+      "english_meaning": "Body parts in quadruped signs: Aries represents the head, Taurus the face and neck, and similarly other signs represent shoulders, back, chest, sides, belly, anus, genitals, thighs, and tail of the quadruped.",
+      "hindi_meaning": "चतुष्पद राशियों में अंगों का विभाग: मेष सिर है, वृष मुख और गला है; इसी प्रकार अन्य राशियाँ चौपाये के कंधे, पीठ, छाती, कोख, पेट, गुदा, जननेन्द्रिय, जांघ और पूंछ का प्रतिनिधित्व करती हैं।"
+    },
+    {
+      "number": "४",
+      "text": "लग्नांशकाद्ग्रहयोगेक्षणाद्वा वर्णान् वदेद्बलयुक्ताद् वियोनौ ।\nदृष्टया समानान् प्रवदेत्तु संख्यां रेखां वदेत्स्मरसंस्थैश्च पृष्ठे",
+      "english_meaning": "Predict colors and numbers based on the Navamsha and planetary aspects. The number of colors or offspring depends on the strength of the planets. Marks or lines on the back are indicated by planets in the 7th house.",
+      "hindi_meaning": "नवांश और ग्रहों के योग/दृष्टि के आधार पर रंग और संख्या का विचार करें। बली ग्रहों के अनुसार रंग और संख्या कहनी चाहिए। पीठ पर रेखाओं का विचार सप्तम भाव में स्थित ग्रहों से करें।"
+    },
+    {
+      "number": "५",
+      "text": "देहाम्बुगौ सुखाङ्गेशौ वतुष्पाज्जननं भवेत् ।\nदेहेशे सुखपे वाऽहिकेतुयुक्ते पशोर्जनिः",
+      "english_meaning": "If the Lagna and 4th lords are in each other's houses (1st and 4th), a quadruped is born. If the Lagna lord or 4th lord is conjunct Rahu or Ketu, an animal birth is indicated.",
+      "hindi_meaning": "यदि लग्नेश और चतुर्थेश परस्पर १ और ४ भाव में हों, तो चौपाया जन्म होता है। यदि लग्नेश या चतुर्थेश राहु या केतु से युक्त हों, तो पशु जन्म समझना चाहिए।"
+    },
+    {
+      "number": "६",
+      "text": "अथ ग्रहविशेषक्षणादिना पशुविशेषजनिः ।\nश्क्रेक्षिते गोजननं महिष्यार्कियुतेक्षिते ।\nराहुकेतुयुक्ते मेषः पापाढ्येऽन्यपशोजनिः",
+      "english_meaning": "Specific animals based on aspects: If Venus aspects, a cow is born; if Saturn, a buffalo; if Rahu or Ketu are involved, a sheep; and if other malefics are strong, other types of animals are born.",
+      "hindi_meaning": "विशिष्ट पशु जन्म: यदि शुक्र की दृष्टि हो तो गाय; शनि की दृष्टि हो तो भैंस; राहु या केतु का प्रभाव हो तो भेड़; और अन्य पाप ग्रह बली हों तो अन्य पशुओं का जन्म होता है।"
+    },
+    {
+      "number": "७",
+      "text": "अथ स्थलाम्बुजनियोगकरी ग्रहस्थितिः ।\nखगे दृकणे बलसंयुतेन वा ग्रहेण युक्ते चरभांशकोदये ।\nबुधांशके वा विहगाः स्थलाम्बुजाः शनैश्चरेन्द्वीक्षणयोगसंभवाः",
+      "english_meaning": "Birds and aquatic creatures: If the Navamsha is of Mercury, or if the Lagna is in a moveable sign and aspected by or conjunct with Saturn and the Moon, birds or aquatic creatures are born.",
+      "hindi_meaning": "पक्षी और जलचर: यदि बुध का नवांश हो, या चर राशि का लग्न हो और शनि तथा चन्द्रमा की दृष्टि या योग हो, तो पक्षी या जलचर जीवों का जन्म होता है।"
+    },
+    {
+      "number": "८",
+      "text": "होरेन्दुसूरिरविभिर्विबलैस्तरूणां तेयस्थले तरुभुर्वोऽशकृतः प्रभेदः ।\nलग्नाद्ग्रहः स्थलजलर्क्षपतिस्तु यावांस्तावन्त एव तरवः स्थलतोयजाताः",
+      "english_meaning": "Birth of trees: If the Lagna, Moon, Jupiter, and Sun are weak, the birth of trees is indicated. The number of trees is determined by the number of planets between the Lagna and the lord of the land or water sign.",
+      "hindi_meaning": "वृक्षों का जन्म: यदि लग्न, चन्द्रमा, गुरु और सूर्य निर्बल हों, तो वृक्षों की उत्पत्ति कहनी चाहिए। लग्न से स्थल या जल राशि के स्वामी के बीच जितने ग्रह हों, उतने ही वृक्ष होते हैं।"
+    },
+    {
+      "number": "९",
+      "text": "अथ रव्यादीनां वृक्षविशेषजनिकारणता ।\nअन्तःसारान् जनयति रविर्दुर्भुगान् सूर्यसूनुः\nक्षीरोपेतांस्तुहिनकिरणः कण्टकाढ्यांश्च भौमः ।\nवागीशज्ञौ सफलविफलान् पुष्पवृक्षांश्च शुक्रः\nस्निग्धानिन्दुः कटुकविटपान् भूमिपुत्रस्तु भूयः",
+      "english_meaning": "Types of trees: The Sun produces trees with strong internal essence; Saturn produces useless or ugly trees; Moon produces milky trees; Mars produces thorny trees; Jupiter produces fruitful trees; Mercury produces fruitless trees; and Venus produces flowery trees.",
+      "hindi_meaning": "वृक्षों के प्रकार: सूर्य मजबूत सार वाले वृक्ष; शनि बेकार या कुरूप वृक्ष; चन्द्रमा दूध वाले वृक्ष; मंगल काँटेदार वृक्ष; गुरु फलदार वृक्ष; बुध निष्फल वृक्ष और शुक्र फूलों वाले वृक्ष उत्पन्न करते हैं।"
+    },
+    {
+      "number": "१०",
+      "text": "शुभोऽशुभर्क्षे रुचिरं कुभूमिजं करोति वृक्षं विपरीतमन्यथा ।\nपरांशके थावति विच्युतः स्वकाद् भवन्ति तुल्यास्तरवस्तथाविधाः",
+      "english_meaning": "Quality of trees: Benefics in benefic signs produce beautiful trees, while malefics in malefic signs produce ugly ones. The number and type of trees are further determined by the Navamshas passed from the planet's own or exaltation sign.",
+      "hindi_meaning": "वृक्षों की गुणवत्ता: शुभ ग्रह शुभ राशि में सुन्दर वृक्ष और पाप ग्रह अशुभ राशि में कुरूप वृक्ष उत्पन्न करते हैं। वृक्षों की संख्या और प्रकार ग्रहों के अपने या उच्च राशि से बीते हुए नवांशों से भी निर्धारित होते हैं।"
+    },
+    {
+      "number": "११",
+      "text": "अथ निषेकधिधिः ।\nकुजेन्दुहेतु प्रतिमासमार्तवं गते तु पीडर्क्षमनुष्णदीधितौ ।\nअतोऽन्यथास्थे शुभपुङ्ग्रहेक्षिते नरेण संयोगमुपैति कामिनी",
+      "english_meaning": "Mars and the Moon cause the monthly menses in women. When the Moon is in a non-upachaya house (1, 2, 4, 5, 7, 8, 9, 12) from the natal Moon and is aspected by Mars, menstruation occurs. If the Moon is in an upachaya house (3, 6, 10, 11) and aspected by benefics or male planets, the union leads to conception.",
+      "hindi_meaning": "मंगल और चन्द्रमा स्त्रियों में मासिक धर्म का कारण होते हैं। जब चन्द्रमा जन्म राशि से अनुपचय (१, २, ४, ५, ७, ८, ९, १२) स्थानों में होकर मंगल से दृष्ट हो, तब ऋतुधर्म होता है। यदि चन्द्रमा उपचय (३, ६, १०, ११) स्थानों में हो और शुभ या पुरुष ग्रहों से दृष्ट हो, तो गर्भाधान होता है।"
+    },
+    {
+      "number": "१२",
+      "text": "यथाऽस्तराशिर्मिथुनं समेति तथैव वाच्यो मिथुनप्रयोगः ॥\nअसद्ग्रहालोकितसंयुतेऽस्ते सरोष इष्टैः सविलामहासः",
+      "english_meaning": "The nature of the sexual union is determined by the 7th house (Asta-rashi). If the 7th house is conjunct or aspected by malefics, the union is marked by anger; if by benefics, it is filled with love, charm, and laughter.",
+      "hindi_meaning": "समागम का स्वरूप सप्तम भाव (अस्त राशि) से निर्धारित होता है। यदि सप्तम भाव पाप ग्रहों से युक्त या दृष्ट हो, तो समागम क्रोधपूर्वक होता है; यदि शुभ ग्रहों से युक्त हो, तो प्रेम, विलास और हास्य के साथ होता है।"
+    },
+    {
+      "number": "१३",
+      "text": "रवीन्दुशुक्रावनिजैः स्वभावगैः गुरौ त्रिकोणोदयसंस्थितेऽपि। वा ।\nभवत्यपत्यं हि विबीजिनागिने करा हिमांशोर्विदृशामिवाफलाः",
+      "english_meaning": "If the Sun, Moon, Venus, and Mars are in their respective favorable divisions (वर्ग), and Jupiter is in the Lagna or a Trine (5th or 9th), offspring will surely be born. Otherwise, the union is as fruitless as moonlight to a blind man.",
+      "hindi_meaning": "यदि सूर्य, चन्द्रमा, शुक्र और मंगल अपने-अपने अनुकूल वर्गों में हों, और गुरु लग्न या त्रिकोण (५ या ९) में हो, तो संतान की उत्पत्ति अवश्य होती है। अन्यथा, समागम उसी प्रकार निष्फल होता है जैसे अन्धे के लिए चन्द्रमा की किरणें।"
+    },
+    {
+      "number": "१४",
+      "text": "दिवाकरेन्द्वोः स्मरगौ कुजर्कजौ गदप्रदौ पुङ्गलयोषितोस्तदा ।\nव्ययस्वगौ मृत्युकरौ युतौ तथा तदेकदृष्त्या मरणाय कल्पितौ",
+      "english_meaning": "If Mars and Saturn are in the 7th house from the Sun and Moon respectively, they cause illness to the man and the woman. If they are in the 2nd or 12th houses, or conjunct with them, or aspected by each other, they indicate death.",
+      "hindi_meaning": "यदि सूर्य और चन्द्रमा से क्रमशः सप्तम भाव में मंगल और शनि हों, तो वे पुरुष और स्त्री को रोग देते हैं। यदि वे २ या १२वें भाव में हों, या उनके साथ युति करें, या परस्पर दृष्ट हों, तो वे मृत्यु के कारक होते हैं।"
+    },
+    {
+      "number": "१५",
+      "text": "विवाऽर्कशुक्रौ पितृमातृसंज्ञितौ शनैश्चरेन्दू निशि तद्विपर्ययात् ।\nपितृव्यमातृष्वसृसंज्ञितौ च तावथौजयुग्मर्क्षगतौ तयोः शुभौ",
+      "english_meaning": "During the day, the Sun represents the father and Venus the mother. At night, Saturn represents the father and the Moon the mother. Their placement in odd or even signs determines their welfare and whether they represent paternal uncles or maternal aunts.",
+      "hindi_meaning": "दिन में सूर्य पिता का और शुक्र माता का कारक है। रात्रि में शनि पिता का और चन्द्रमा माता का कारक होता है। विषम या सम राशियों में उनकी स्थिति के अनुसार उनका शुभ फल और पितृव्य (चाचा) या मातृष्वसा (मौसी) का विचार करना चाहिए।"
+    },
+    {
+      "number": "१६",
+      "text": "शीतज्योतिषि ज्योषितोऽनुपचयस्थाने कुजेनेक्षिते ।\nजातं गर्भफलप्रदं खलु रजः स्यादन्यथा निष्फलम् ।\nदृष्टेऽस्मिन् गुरुणा निजोपचयगे कुर्यान्निवेकं पुमान् ।\nअत्याज्ये च समूलभे शुभगुणे पर्वादिकालोज्भिते",
+      "english_meaning": "Timing for conception: When the Moon in a woman chart is in a non-upachaya house and aspected by Mars, it indicates the fertile period (Raja). If Jupiter aspects the Moon when it reaches an upachaya house, the man should perform the union in auspicious constellations and avoid forbidden days.",
+      "hindi_meaning": "गर्भाधान का समय: जब स्त्री की कुण्डली में चन्द्रमा अनुपचय स्थान में मंगल से दृष्ट हो, तो वह रज (ऋतुकाल) फलप्रद होता है। जब गुरु चन्द्रमा को उपचय स्थान में देखे, तब पुरुष को शुभ नक्षत्रों में और वर्जित पर्वों को त्यागकर गर्भाधान करना चाहिए।"
+    },
+    {
+      "number": "१७",
+      "text": "अथ स्त्रीणामृतुकालपरिमाणम् ।\nविभावरीषोषडश भामिनीनामृतुद्रमाद्या ऋतुकालमाहुः ।\nनाद्याश्चतस्रोऽत्र निशेकयोग्याः पराश्च युग्माः सुतदाः प्रशस्ताः",
+      "english_meaning": "The period of Ritu (menstruation): The 16 nights starting from the first day of menstruation are known as the Ritu-kala. The first four nights are not suitable for conception; the remaining even nights are praised for the birth of a son.",
+      "hindi_meaning": "ऋतुकाल का परिमाण: मासिक धर्म के पहले दिन से १६ रातें ऋतुकाल कहलाती हैं। इनमें से पहली ४ रातें गर्भाधान के योग्य नहीं हैं; शेष सम रातें पुत्र जन्म के लिए श्रेष्ठ और प्रशस्त मानी गई हैं।"
+    },
+    {
+      "number": "१८",
+      "text": "अथ तुर्यादिरात्रिषु निषेके सताने विशेषः ।\nपुत्रोऽल्पायुदारिका वंशकर्ता बन्ह्या पुत्रः सुन्दरीशो विरूपा ।\nश्रीमान् पापा धर्मशीलस्तथा श्रीःसर्वज्ञः स्यातुर्यरात्रात् क्रमेण",
+      "english_meaning": "Results of union from the 4th night onwards: 4th night—short-lived son; 5th—daughter; 6th—lineage-extender son; 7th—barren or childless; 8th—handsome son; 9th—ugly daughter; and so on (sequential results up to the 16th night).",
+      "hindi_meaning": "चौथी रात से समागम का फल: ४थी रात—अल्पायु पुत्र; ५वीं—पुत्री; ६ठी—वंश को बढ़ाने वाला पुत्र; ७वीं—बांझपन या संतानहीनता; ८वीं—सुन्दर पुत्र; ९वीं—कुरूप पुत्री; इत्यादि (१६वीं रात तक का क्रमवार फल)।"
+    },
+    {
+      "number": "१९",
+      "text": "अथ सुतादियोगकरी ग्रहस्थितिः ।\nअष्टमाष्टमगे सूर्ये निषेकर्क्षात्सुतोद्भवाः ।\nअथवाऽधानलग्नात्तु त्रिकोणस्थे दिनेश्वरे",
+      "english_meaning": "Birth of a child: If the Sun is in the 8th house from the conception Moon (Nisheka-Lagna), or if the Sun is in a Trine (5th or 9th) from the Adhana Lagna, the birth of a child is indicated.",
+      "hindi_meaning": "संतान का जन्म: यदि सूर्य गर्भाधान चन्द्र से आठवें भाव में हो, या सूर्य आधान लग्न से त्रिकोण (५ या ९) में हो, तो पुत्र/संतान की उत्पत्ति होती है।"
+    },
+    {
+      "number": "२०",
+      "text": "अस्मिन्नाधनलग्ने तु शुभदृष्टियुतेऽथवा ।\nदीर्घायुर्भाग्यवान् जातः सर्वविद्यान्नमेष्यति",
+      "english_meaning": "If the Adhana Lagna (conception ascendant) is aspected or joined by benefics, the child born will be long-lived, fortunate, and will attain mastery in all branches of knowledge.",
+      "hindi_meaning": "यदि आधान लग्न शुभ ग्रहों से दृष्ट या युक्त हो, तो उत्पन्न होने वाला बालक दीर्घायु, भाग्यवान् होता है और सभी विद्याओं में निपुणता प्राप्त करता है।"
+    },
+    {
+      "number": "२१",
+      "text": "ओजर्क्षे पुरुषांशकेषु बलिभिर्लग्नार्कगुर्विन्दुभिः\nपुञ्जन्म प्रवदेत्समांशकगतैर्युग्मेषु तयोर्षितः ।\nगुर्वर्कौ विषमे नरं शशिसितौ वक्रश्च युग्मे स्त्रियम्\nद्व्याङ्गस्था बुधवीक्षणाच्च यमलौ कुर्वन्ति पक्षे स्वके",
+      "english_meaning": "Gender prediction: If the Lagna, Sun, Jupiter, and Moon are in odd signs and male Navamshas, a male birth is predicted. If they are in even signs and female Navamshas, a female birth. Sun and Jupiter in odd signs favor a male; Moon, Venus, and Mars in even signs favor a female. Dual signs with Mercury's aspect lead to twins.",
+      "hindi_meaning": "लिंग निर्धारण: यदि लग्न, सूर्य, गुरु और चन्द्रमा विषम राशियों और पुरुष नवांशों में बली हों, तो पुत्र जन्म होता है। यदि वे सम राशियों और स्त्री नवांशों में हों, तो कन्या का जन्म होता है। विषम राशि में सूर्य और गुरु पुत्र कारक हैं; सम राशि में चन्द्रमा, शुक्र और मंगल स्त्री कारक हैं। बुध की दृष्टि से द्विस्वभाव राशियों में जुड़वाँ बच्चे होते हैं।"
+    },
+    {
+      "number": "२२",
+      "text": "विहाय लग्नं विषमर्क्षसंस्थः सौरोऽपि पुंजन्मकरो विलग्नात् ।\nप्रोक्तग्रहाणावलोक्य वीर्यं वाच्यः प्रसूतौ पुरुषोऽङ्गना वा",
+      "english_meaning": "Apart from the Lagna, if Saturn is in an odd sign, it also causes a male birth. The gender of the child should be predicted based on the strength and aspects of the planets mentioned earlier.",
+      "hindi_meaning": "लग्न के अतिरिक्त, यदि शनि विषम राशि में हो, तो वह भी पुरुष जन्म का कारक होता है। पूर्वोक्त ग्रहों के बल और दृष्टि के आधार पर गर्भस्थ शिशु के लिंग (पुरुष या स्त्री) का विचार करना चाहिए।"
+    },
+    {
+      "number": "२३",
+      "text": "अथ क्रीयत्वकरा योगाः ।\nअन्योन्यं यदि पश्यतः शशिरवी यद्यार्किसौम्यावपि\nवक्रो वा समगं दिनेशमसमे चन्द्रोदयौ चेत्स्थितौ ।\nयुग्मौजर्क्षगतावपिन्दुशशिजौ भूम्यात्मजेनेक्षितौ\nपुंभागे सितलग्नशीतकिरणाः षट् क्लीबयोगस्त्विमे",
+      "english_meaning": "Combinations for Neuter (Hermaphrodite) birth: 1. Sun and Moon aspecting each other. 2. Saturn and Mercury aspecting each other. 3. Mars in an even sign aspecting the Sun in an odd sign. 4. Lagna and Moon in odd signs. 5. Moon and Mercury in even/odd signs aspected by Mars. 6. Venus, Lagna, and Moon in male Navamshas.",
+      "hindi_meaning": "नपुंसक (क्लीब) जन्म के योग: १. सूर्य और चन्द्रमा का परस्पर देखना। २. शनि और बुध का परस्पर देखना। ३. विषम राशि के सूर्य को सम राशि का मंगल देखना। ४. लग्न और चन्द्रमा का विषम राशि में होना। ५. सम/विषम राशि के चन्द्रमा और बुध को मंगल द्वारा देखा जाना। ६. शुक्र, लग्न और चन्द्रमा का पुरुष नवांश में होना।"
+    },
+    {
+      "number": "२४",
+      "text": "अथ थमलादिजनिकरा योगाः ।\nयुग्मे चन्द्रसितौ तथौजभवने स्युर्ज्ञारजीवोदयाः\nलग्नेन्दू नृनरीक्षितौ च समगौ युग्मेषु वा प्राणिनः ।\nकुर्युस्ते मिथुनं गृहोदयगतान्द्व्यंगांशकान्पश्यति\nस्वांशे ज्ञे त्रितयं ज्ञगांशकवशाद्युग्मं त्वमिश्चैः समम्",
+      "english_meaning": "Combinations for Twin birth: 1. Moon and Venus in even signs, and Mercury, Mars, Jupiter, and Lagna in odd signs. 2. Lagna and Moon in even signs aspected by male planets. 3. Mercury in its own Navamsha aspecting planets in dual signs (indicates triplets or more).",
+      "hindi_meaning": "जुड़वाँ जन्म के योग: १. चन्द्रमा और शुक्र सम राशि में हों, और बुध, मंगल, गुरु तथा लग्न विषम राशि में हों। २. लग्न और चन्द्रमा सम राशि में हों और पुरुष ग्रहों से दृष्ट हों। ३. अपने नवांश में स्थित बुध द्विस्वभाव राशि के ग्रहों को देखे (यह तीन या अधिक बच्चों का संकेत देता है)।"
+    },
+    {
+      "number": "२५",
+      "text": "अथ व्यदिकजननयोगः ।\nधनुर्धरस्यान्त्यगते विलग्ने ग्रहैस्तदंशोपगतैर्बलिष्टैः ।\nज्ञेनार्किणा वीर्ययुतेन दृष्टे सन्ति।प्रभूता आपि कोशसंस्थाः",
+      "english_meaning": "Multiple births: If the Lagna is in the last Navamsha of Sagittarius and is aspected by strong Mercury and Saturn, many children (beyond three) are born from the same womb.",
+      "hindi_meaning": "बहु-संतान जन्म: यदि धनु राशि के अन्तिम नवांश में लग्न हो और बली बुध तथा शनि उसे देखते हों, तो एक ही कोख से बहुत सी (तीन से अधिक) संतानें उत्पन्न होती हैं।"
+    },
+    {
+      "number": "२६",
+      "text": "द्विशरीरांशसंयुक्तान् ग्रहान् लग्नं च पश्यति ।\nकन्यांशकगतश्चान्दिर्गर्भस्थं त्रितयं वदेत्",
+      "english_meaning": "Triplets birth: If the planets and the Lagna are in dual Navamshas and are aspected by Mercury situated in the Virgo Navamsha, the birth of three children (triplets) should be predicted.",
+      "hindi_meaning": "तीन संतानों (तिड़वाँ) का जन्म: यदि ग्रह और लग्न द्विस्वभाव नवांशों में हों और कन्या नवांश में स्थित बुध से दृष्ट हों, तो तीन संतानों के जन्म की भविष्यवाणी करनी चाहिए।"
+    },
+    {
+      "number": "२७",
+      "text": "युग्मांशकस्तु कन्यैका द्वौ पुमांसौ च गर्भजाः ।\nयुग्मांशगान्विलग्नं च गर्भस्थाः पुरुषास्त्रयः",
+      "english_meaning": "If the Lagna and planets are in even Navamshas, one daughter and two sons are born. If they are in male Navamshas, three sons are born.",
+      "hindi_meaning": "यदि लग्न और ग्रह सम नवांशों में हों, तो एक कन्या और दो पुत्रों का जन्म होता है। यदि सभी पुरुष नवांशों में हों, तो तीन पुत्र होते हैं।"
+    },
+    {
+      "number": "२८",
+      "text": "कन्यायुग्मांशकोपेतांस्तय्हा युग्मांशगो बुधः ।\nकन्यानवांशकः सौम्यस्तिस्त्रो गर्भगताङ्गनाः",
+      "english_meaning": "If Mercury is in a Gemini Navamsha and other planets are in a Virgo Navamsha, three daughters are born.",
+      "hindi_meaning": "यदि बुध मिथुन नवांश में हो और अन्य ग्रह कन्या नवांश में हों, तो गर्भ में तीन कन्याएँ होती हैं।"
+    },
+    {
+      "number": "२९",
+      "text": "द्विस्वभावगतार्कगुरू बुधनिरीक्षितौ ।\nपुंयुग्मं कुरुतस्तद्वत् शशिशुक्रमहीसुताः",
+      "english_meaning": "If Sun and Jupiter are in dual signs and aspected by Mercury, two sons are born. Similarly, if Moon, Venus, and Mars are so placed, they produce daughters.",
+      "hindi_meaning": "यदि सूर्य और गुरु द्विस्वभाव राशियों में हों और बुध से दृष्ट हों, तो दो पुत्र होते हैं। इसी प्रकार चन्द्रमा, शुक्र और मंगल के होने पर कन्याएँ होती हैं।"
+    },
+    {
+      "number": "२९ १/२",
+      "text": "कुर्वन्ति स्त्रीयुगं तत्र बलाबलविशेषतः",
+      "english_meaning": "They produce a pair of females based on the specific strength and weakness of the planets involved.",
+      "hindi_meaning": "वे ग्रहों के बलाबल के विशेष अंतर के अनुसार दो कन्याओं का जन्म करते हैं।"
+    },
+    {
+      "number": "३०",
+      "text": "स्त्रीनपुंसकदश्चान्द्रिः पुंनपुंसक्दोऽर्कजः",
+      "english_meaning": "Mercury causes the birth of a female-hermaphrodite, while Saturn causes the birth of a male-hermaphrodite.",
+      "hindi_meaning": "बुध स्त्री-नपुंसक का और शनि पुरुष-नपुंसक के जन्म का कारक होता है।"
+    },
+    {
+      "number": "३१",
+      "text": "निषेककाले चन्द्रार्कावन्योन्यं यदि पश्यतः ।\nतथैव चन्द्रमन्दौ वा क्लीबजन्मप्रदौ तथा",
+      "english_meaning": "If the Moon and Sun aspect each other at the time of conception, or if the Moon and Saturn aspect each other, they cause the birth of a hermaphrodite.",
+      "hindi_meaning": "यदि गर्भाधान के समय चन्द्रमा और सूर्य परस्पर देखते हों, या चन्द्रमा और शनि परस्पर देखते हों, तो वे नपुंसक जन्म देते हैं।"
+    },
+    {
+      "number": "३२",
+      "text": "निषेके भ्रातृलग्नेशयोगे यमलसम्भवः ।\nलग्नेशे भ्रातृपक्षस्थे स्वोच्चे वा यमलोद्भवः",
+      "english_meaning": "If the Lagna lord of the Adhana chart is conjunct the 3rd lord, or if the Lagna lord is in the 3rd house or its exaltation, twins are born.",
+      "hindi_meaning": "यदि आधान लग्न का स्वामी तृतीयेश के साथ हो, या लग्नेश तृतीय भाव में या अपनी उच्च राशि में हो, तो जुड़वाँ बच्चों का जन्म होता है।"
+    },
+    {
+      "number": "३३",
+      "text": "षष्ठेशो देहसम्बन्धी बुधः षष्ठगतो यदि ।\nबुधक्षेत्रे च यस्य स स्त्रीनपुंसकः",
+      "english_meaning": "If the 6th lord is related to the Lagna (body) and Mercury is in the 6th house, or in Mercury sign, a female-hermaphrodite is born.",
+      "hindi_meaning": "यदि षष्ठेश का संबंध लग्न (शरीर) से हो और बुध छठे भाव में हो, या बुध की राशि में हो, तो स्त्री-नपुंसक का जन्म होता है।"
+    },
+    {
+      "number": "१/२",
+      "text": "बुधस्थानेन शनिना पुंनपुंसकता भवेत्",
+      "english_meaning": "If Saturn is in Mercury sign or Navamsha, it results in the birth of a male-hermaphrodite.",
+      "hindi_meaning": "बुध के स्थान (राशि या नवांश) में शनि के होने से पुरुष-नपुंसक का जन्म होता है।"
+    },
+    {
+      "number": "१/२",
+      "text": "निषेकलग्नेशतृतीयनाथौ लग्नस्थितौ चेद्यमलोद्भवः स्यात्",
+      "english_meaning": "If the Lagna lord of conception and the 3rd lord are both situated in the Lagna, the birth of twins occurs.",
+      "hindi_meaning": "यदि गर्भाधान लग्न का स्वामी और तृतीयेश दोनों लग्न में स्थित हों, तो जुड़वाँ बच्चों का जन्म होता है।"
+    },
+    {
+      "number": "३४",
+      "text": "अथ पादजातस्वप्रदौ योगौ ।\nतृतीनाथेन युते निषेके भोगीशयुक्ते यदि पादजातः",
+      "english_meaning": "If the 3rd lord is conjunct the node (Rahu or Ketu) and involved in the conception, the child is born feet-first.",
+      "hindi_meaning": "यदि तृतीयेश राहु या केतु के साथ हो और गर्भाधान से संबंधित हो, तो बालक पैरों के बल पैदा होता है।"
+    },
+    {
+      "number": "१/२",
+      "text": "राहूदये लग्ननाथे कर्मस्थे पादपूर्वजः",
+      "english_meaning": "If Rahu is in the Lagna and the Lagna lord is in the 10th house, the birth occurs feet-first.",
+      "hindi_meaning": "यदि लग्न में राहु हो और लग्नेश दसवें भाव में हो, तो बालक का जन्म पैरों के बल होता है।"
+    },
+    {
+      "number": "३५",
+      "text": "अथ सर्पवेष्टितदेहयदा योगाः ।\nसराहौ रन्ध्रपे लग्ने जातः स्यात् सर्पवेष्टितः",
+      "english_meaning": "If the 8th lord is in the Lagna with Rahu, the child is born with the umbilical cord wrapped around the body like a serpent.",
+      "hindi_meaning": "यदि अष्टमेश राहु के साथ लग्न में हो, तो बालक के शरीर पर गर्भनाल सर्प की भांति लिपटी होती है।"
+    },
+    {
+      "number": "३६",
+      "text": "रन्ध्रेश्वरे पापयुते विलग्ने जातो नगोर्वेष्टिदेहवान्स्यात् ।\nकेन्द्रे सरहौ गुलिकेन युक्ते लग्नेश्वरे वावा निधनेशयुक्ते",
+      "english_meaning": "If the 8th lord is with a malefic in the Lagna, or if Rahu and Gulika are in quadrants and the Lagna lord is with the 8th lord, the child is born wrapped in the cord.",
+      "hindi_meaning": "यदि अष्टमेश पाप ग्रह के साथ लग्न में हो, या राहु और गुलिक केन्द्र में हों और लग्नेश अष्टमेश के साथ हो, तो बालक गर्भनाल से लिपटा पैदा होता है।"
+    },
+    {
+      "number": "३७",
+      "text": "क्रूरग्रहाणां च दृगाणल्ग्ने जातो नगैर्वेष्टितदेहवान् स्यात् ।\nलग्नत्रिभागेऽण्डजसर्पकोलास्रन्नाथयुक्तस्तु तथा त्रिभागः ।\nशुभप्रदाणां च दृशा विहीने जातो नगैर्वेष्टितदेहवान् स्यात्",
+      "english_meaning": "If the Lagna is in a malefic decanate and aspected by malefics, the child is born wrapped in the cord. Serpent or bird decanates indicate the specific nature of the wrapping.",
+      "hindi_meaning": "यदि लग्न पाप ग्रह के द्रेष्काण में हो और पाप ग्रहों से दृष्ट हो, तो बालक नाल से लिपटा होता है। सर्प या पक्षी द्रेष्काण लपेटने के विशेष स्वरूप को दर्शाते हैं।"
+    },
+    {
+      "number": "३८",
+      "text": "यशांके पापल्ग्ने वा वृश्चिकेशत्रिभागगे ।\nशुभैः स्वायस्थितैर्जातः सर्पस्तद्वेष्टितोऽपि वा",
+      "english_meaning": "If a malefic is in the Lagna in a Scorpio Navamsha while benefics are in the 11th, the child is born wrapped in the cord.",
+      "hindi_meaning": "यदि पाप ग्रह वृश्चिक के नवांश में लग्न में हो और शुभ ग्रह ११वें भाव में हों, तो बालक गर्भनाल से लिपटा हुआ पैदा होता है।"
+    },
+    {
+      "number": "३९",
+      "text": "चतुष्पादगते भानौ शेषैर्वीर्यसमन्वितैः ।\nद्वितनुस्थैश्च यमलौ भवतः कोशवेष्टितौ",
+      "english_meaning": "If the Sun is in a quadruped sign and other strong planets are in dual signs, twins are born wrapped in a caul (membrane).",
+      "hindi_meaning": "यदि सूर्य चतुष्पद राशि में हो और अन्य बली ग्रह द्विस्वभाव राशियों में हों, तो जुड़वाँ बच्चे झिल्ली (Caul) में लिपटे हुए पैदा होते हैं।"
+    },
+    {
+      "number": "४०",
+      "text": "छागसिंहवृषे लग्ने तत्स्थे सौरेऽथवा कुजे ।\nराश्यंशसदृशे गात्रे जतस्थेनालवेष्टितः",
+      "english_meaning": "If Aries, Leo, or Taurus is the Lagna with Saturn or Mars, the cord is wrapped around the body part corresponding to the sign or Navamsha.",
+      "hindi_meaning": "यदि मेष, सिंह या वृष लग्न में शनि या मंगल हो, तो राशि या नवांश के अनुसार शरीर के उस अंग पर गर्भनाल लिपटी होती है।"
+    },
+    {
+      "number": "४१",
+      "text": "लग्ने सपापे बहुपापदृष्टे राहुध्वजाभ्यां सहितेऽथवाऽत्र ।\nपापग्रहाणां विलग्नभे वा जातो नरो नालविदेष्टिताङ्गः",
+      "english_meaning": "If the Lagna is occupied by a malefic and aspected by many malefics, or if Rahu and Ketu are in the Lagna, the child is born wrapped in the cord.",
+      "hindi_meaning": "यदि लग्न पाप ग्रह युक्त हो और बहुत से पाप ग्रहों से दृष्ट हो, या राहु-केतु लग्न में हों, तो बालक गर्भनाल से लिपटा हुआ पैदा होता है।"
+    },
+    {
+      "number": "४२",
+      "text": "क्रूरान्तरे लनगते सराहौ लग्ने कुजे वासरनाथदृष्टे ।\nलग्ने शनु भुमिसुतेन दृष्टे जातो नरो नालविवेष्टिताङ्गः",
+      "english_meaning": "If the Lagna is between malefics and contains Rahu, or if Mars or Saturn are in the Lagna aspected by the Sun or Mars, the child is born wrapped in the cord.",
+      "hindi_meaning": "यदि लग्न पाप ग्रहों के बीच हो और राहु वहां हो, या मंगल या शनि लग्न में हों और सूर्य या मंगल से दृष्ट हों, तो बालक नाल से लिपटा पैदा होता है।"
+    },
+    {
+      "number": "४३",
+      "text": "अथ प्रसूतिकालज्ञापिका ग्रहस्थितिः ।\nतत्काल इन्दुसहितो द्विरसंशको यस्ततुल्यराशिसहिते पुरतः शशाङ्के ।\nयावानुदेति दिनरात्रिसमानभागस्तावद्रते दिननिशोः प्रवदन्ति जन्म",
+      "english_meaning": "The timing of delivery: The sign or degree occupied by the Moon at conception determines the time of birth after the relevant period.",
+      "hindi_meaning": "प्रसव का समय: आधान के समय चन्द्रमा जिस राशि या नवांश में हो, उसी के अनुसार जन्म का समय निर्धारित होता है।"
+    },
+    {
+      "number": "४४",
+      "text": "उदयति मृदुभांशे सप्तमस्थे च मन्दे ।\nयदि भवति निषेकः सूतिरब्दत्रय्ण ।\nशशिनि तु विधिरेष द्वादशाब्दैः प्रकुर्यात् ।\nनिगदितमिह चिन्त्यं सूतिकालेऽपि युक्त्या",
+      "english_meaning": "If the Lagna is in a Saturn Navamsha and Saturn is in the 7th, delivery occurs after 3 years. If the Moon is so placed, it takes 12 years.",
+      "hindi_meaning": "यदि लग्न शनि के नवांश में हो और शनि सातवें भाव में हो, तो ३ वर्ष बाद प्रसव होता है। यदि चन्द्रमा ऐसी स्थिति में हो, तो १२ वर्ष बाद प्रसव होता है।"
+    },
+    {
+      "number": "४५ १/२",
+      "text": "अथ संस्कारविहीनपुत्रजन्मज्ञापका योगाः ।\nपितृकर्मेश्वरौ दुःस्थौ देहेशे बलसंयुते ।\nविना सीमन्तकमादि जातः पुत्रो न संशयः ।\nलाभे पापे पापगृहे न सीमन्तयुतो भवेत्",
+      "english_meaning": "If the 9th and 10th lords are in bad houses and the Lagna lord is strong, the child is born without standard religious ceremonies (Sanskaras).",
+      "hindi_meaning": "यदि नवमेश और दशमेश दुस्थानों में हों और लग्नेश बली हो, तो बालक बिना सीमंत आदि संस्कारों के पैदा होता है।"
+    },
+    {
+      "number": "४६",
+      "text": "अथ पितुरसन्निधौ जन्मयोगाः ।\nपितुर्जातः परोक्षस्य लग्नमिन्दावपश्यति ।\nविदेशस्थस्य चरभे मध्याद्दष्टे दिवाकरे",
+      "english_meaning": "If the Moon does not aspect the Lagna, the child is born in the father absence. If the Sun is in a movable sign in mid-heaven, the father is abroad.",
+      "hindi_meaning": "यदि चन्द्रमा लग्न को न देखे, तो पिता की अनुपस्थिति में जन्म होता है। यदि सूर्य चर राशि में होकर दशम भाव में हो, तो पिता विदेश में होता है।"
+    },
+    {
+      "number": "४७",
+      "text": "उदयस्थेऽथवा मन्दे वाऽस्तं समागते ।\nस्थिते वाऽन्तः चपानाथे शशाङ्कसुतशुक्रयोः",
+      "english_meaning": "If Saturn is in the Lagna or 7th, or if the Moon is between Mercury and Venus, the father is absent at the time of birth.",
+      "hindi_meaning": "यदि शनि लग्न या सप्तम भाव में हो, या चन्द्रमा बुध और शुक्र के बीच स्थित हो, तो जन्म के समय पिता अनुपस्थित होता है।"
+    },
+    {
+      "number": "४८",
+      "text": "पितरय्रसः क्षेत्रजो वेति ज्ञपिका द्युचरस्थितिः ।\nलग्ने वा यदि शीतांशौ शुभखेचरराशिगे ।\nओरसोऽयं भवेज्जातो गुरुर्गसमन्विते",
+      "english_meaning": "If the Moon or Lagna is in a benefic sign and conjunct or aspected by Jupiter, the child is a legitimate (Aurasa) offspring.",
+      "hindi_meaning": "यदि चन्द्रमा या लग्न शुभ ग्रह की राशि में हो और गुरु से युक्त या दृष्ट हो, तो बालक औरस पुत्र होता है।"
+    },
+    {
+      "number": "४९",
+      "text": "जीवो न भौमसंदृष्टः स्ववर्गे चार्कचन्द्रमाः ।\nक्षेत्रजोऽयं भवेज्जातः ससौम्यो वा बलान्वितः",
+      "english_meaning": "If Jupiter is not aspected by Mars, and Sun and Moon are in their own Varga or with benefics, the child is a Kshetraj son.",
+      "hindi_meaning": "यदि गुरु मंगल से दृष्ट न हो और सूर्य-चन्द्र अपने वर्ग में हों या शुभ ग्रहों के साथ हों, तो बालक क्षेत्रज पुत्र होता है।"
+    },
+    {
+      "number": "५०",
+      "text": "मन्दवर्गगते चन्द्रे मन्दयुक्ते तु पञ्चमे ।\nभानुभार्गवसंदृष्टे पुत्रः पौनर्भवो भवेत्",
+      "english_meaning": "If the Moon is in Saturn Varga and Saturn is in the 5th aspected by Sun and Venus, the son is Paunarbhava (of a remarried woman).",
+      "hindi_meaning": "यदि चन्द्रमा शनि के वर्ग में हो और शनि पांचवें भाव में सूर्य और शुक्र से दृष्ट हो, तो वह पौनर्भव पुत्र होता है।"
+    },
+    {
+      "number": "५१",
+      "text": "अथ अनूढापत्यत्व्सराधको ग्रहयोगः ।\nव्यये भास्करसंदृष्टे वर्गे भास्करचन्द्रयोः ।\nचन्द्रसूर्ययुते वाऽपि कानीनोऽयं भवेन्नरः",
+      "english_meaning": "If the Sun is in the 12th in the Varga of Sun and Moon, or if Sun and Moon are conjunct, the child is Kanina (of an unmarried woman).",
+      "hindi_meaning": "यदि सूर्य १२वें भाव में सूर्य-चन्द्र के वर्ग में हो, या सूर्य-चन्द्र साथ हों, तो वह कानीन पुत्र होता है।"
+    },
+    {
+      "number": "५२",
+      "text": "अथ दत्तपुत्रत्वसाधको योगः ।\nचन्द्रदृष्टियुतो मान्दिर्भानुपुत्रसमन्वितः\nतद्वीक्षणयुतो वाऽपि दत्तपुत्रो भवेन्नरः ।\nशन्यङ्गारकसंयुक्ते सप्तमे वाऽथ पञ्चमे\nअन्यैरवीक्षिते खेटैः कृत्रिमं तु विनिर्दिशेत्",
+      "english_meaning": "If Gulika is with Saturn and aspected by the Moon, the son is Datta (adopted). If Saturn and Mars are in 7th or 5th without other aspects, he is Kritrima.",
+      "hindi_meaning": "यदि गुलिक शनि के साथ हो और चन्द्रमा से दृष्ट हो, तो वह दत्तक पुत्र होता है। यदि शनि और मंगल ७वें या ५वें भाव में अकेले हों, तो वह कृत्रिम पुत्र होता है।"
+    },
+    {
+      "number": "५४",
+      "text": "अथ जारजत्वसाधका योगाः ।\nपरस्परक्षेत्रगतौ तु होरारसातकेशौ यदि जन्मलग्नात् ।\nलग्नेश्वरो वा हिबुकेश्वरो वा ध्वजाहियुक्तो जननं परेण",
+      "english_meaning": "If the Lagna lord and 4th lord have exchanged signs, or if they are with Rahu or Ketu, the birth is from an adulterous union (Jaraja).",
+      "hindi_meaning": "यदि लग्नेश और चतुर्थेश का राशि परिवर्तन हो, या वे राहु-केतु से युक्त हों, तो वह जारज जन्म होता है।"
+    },
+    {
+      "number": "५५",
+      "text": "लग्नं शशाङ्कं सुरराजमन्त्री न वीक्षते नैकगृहस्थितौ वा ।\nन जीववर्गगेण युतौ तदानीं जातं वदेदन्यसमागमेन",
+      "english_meaning": "",
+      "hindi_meaning": ""
+    },
+    {
+      "number": "५६",
+      "text": "स्वातीद्वितीया रविवारयुक्ता ससप्तमी सोमजरेवती च ।\nसद्वादशीभानुसुतश्रविष्ठा चैतेषु जातः परतो वदन्ति",
+      "english_meaning": "Indicators of illegitimate birth: Sunday with Swati/2nd Tithi, Monday with Revati/7th, or Saturday with Shravishtha/12th.",
+      "hindi_meaning": "जारज जन्म के योग: रविवार को स्वाति और द्वितीया, सोमवार को रेवती और सप्तमी, या शनिवार को धनिष्ठा और द्वादशी में जन्म।"
+    },
+    {
+      "number": "५७",
+      "text": "भद्राण्यतिथियुक्तेषु त्रिपादर्क्षन्वितेषु च ।\nमन्दार्कभौमवारेषु जात्मन्योद्भवं विदुः",
+      "english_meaning": "Birth on Bhadra Tithis with three-footed constellations on Saturday, Sunday, or Tuesday is considered illegitimate.",
+      "hindi_meaning": "भद्रा तिथियों में, त्रिपाद नक्षत्रों के साथ शनिवार, रविवार या मंगलवार को होने वाला जन्म जारज माना जाता है।"
+    },
+    {
+      "number": "५८",
+      "text": "न लग्नमिन्दु च गुरुनिरीक्षते न वा शशाङ्कं रविणा समागतम् ।\nसपापकोऽर्केण युतोऽथवा शशी परेण जातं प्रवदन्ति निश्चयात्",
+      "english_meaning": "If Jupiter aspects neither the Lagna nor Moon, or if Moon is with Sun and conjunct a malefic, birth is certainly illegitimate.",
+      "hindi_meaning": "यदि गुरु न तो लग्न को देखे और न चन्द्रमा को, या चन्द्रमा सूर्य के साथ होकर पाप ग्रह से युक्त हो, तो जन्म जारज होता है।"
+    },
+    {
+      "number": "५९",
+      "text": "गुरुक्षेत्रगते चन्द्रे तद्युक्ते चान्यराशिगे ।\nतद्द्रेष्काणे तदंशे वा न परैर्जात इष्यते",
+      "english_meaning": "Exceptions: If the Moon is in Jupiters sign, decanate, or Navamsha, or if Jupiter is with the Moon, the child is legitimate.",
+      "hindi_meaning": "अपवाद: यदि चन्द्रमा गुरु की राशि, द्रेष्काण या नवांश में हो, या गुरु चन्द्रमा के साथ हो, तो वह जारज नहीं माना जाता।"
+    },
+    {
+      "number": "६०",
+      "text": "अथ जन्मनि पितुर्बद्धत्वादि ।\nक्रूरर्क्षगतावशोभनौ सूर्याद् द्यूननवात्मजस्थितौ ।\nबद्धस्तु पिता विदेशगः स्वे वा राशिवशात्तथा पथि",
+      "english_meaning": "If malefics are in the 7th, 9th, or 5th from the Sun in malefic signs, the father is in bondage/prison.",
+      "hindi_meaning": "यदि सूर्य से ७वें, ९वें या ५वें भाव में पाप ग्रह पाप राशियों में हों, तो पिता बन्धन (जेल) में होता है।"
+    },
+    {
+      "number": "६१",
+      "text": "अथ जन्मदेशाः ।\nपूर्णे शशिनि स्वराशिगे सौम्ये लग्नगते शुभे सुखे ।\nलग्ने जलजोऽस्तगेऽपि वा चन्द्रे पोतगता प्रसूयते",
+      "english_meaning": "If the full Moon is in its own sign and benefics are in Lagna/4th, birth is in water. If Moon is in 7th, birth is on a boat.",
+      "hindi_meaning": "यदि पूर्ण चन्द्रमा अपनी राशि में हो और शुभ ग्रह लग्न या चतुर्थ में हों, तो जन्म जल में होता है। चन्द्रमा ७वें में हो तो नाव पर।"
+    },
+    {
+      "number": "६२",
+      "text": "आओयोदयमाप्यगः शशी सम्पूर्णः समवेक्षतेऽथवा ।\nमेषूरणबन्धुलग्नगः स्यात् सूतिः सलिले न संशयः",
+      "english_meaning": "If the full Moon is in a watery sign or aspects a watery sign in the 10th, 4th, or Lagna, birth occurs in water.",
+      "hindi_meaning": "यदि पूर्ण चन्द्रमा जलीय राशि में हो या दशम, चतुर्थ या लग्न में जलीय राशि को देखे, तो जन्म जल में होता है।"
+    },
+    {
+      "number": "६३",
+      "text": "उदयोडुपयोर्व्ययस्थिते गुप्त्यां पापनिरीक्षिते यमे ।\nअलिकर्कियुते विलग्नगे सौरे शीतलरेक्षितेऽवटे",
+      "english_meaning": "If Saturn is in the 12th from Lagna/Moon with malefics, birth is in prison. In Scorpio/Cancer Lagna with Moon aspect, birth is in a ditch.",
+      "hindi_meaning": "यदि शनि लग्न/चन्द्रमा से १२वें भाव में पाप ग्रहों के साथ हो, तो जन्म जेल में होता है। वृश्चिक/कर्क लग्न में चन्द्रमा के प्रभाव से जन्म खाई में।"
+    },
+    {
+      "number": "६४",
+      "text": "मन्देऽब्जगते विलग्नगे बुधसूर्येन्दिनिरीक्षिते क्रमात् ।\nकीडाभवने सुरालये जननं\\* चोषरभूमिषूदिशेत्",
+      "english_meaning": "If Saturn is in a watery sign in Lagna aspected by Mercury, Sun, or Moon, birth is in a pleasure house, temple, or barren land.",
+      "hindi_meaning": "यदि शनि जलीय राशि में लग्न में होकर बुध, सूर्य या चन्द्रमा से दृष्ट हो, तो जन्म क्रीड़ा-भवन, मंदिर या ऊसर भूमि में होता है।"
+    },
+    {
+      "number": "६५",
+      "text": "नृलग्नगं प्रेक्ष्य कुजः श्मशाने रम्ये सितेन्दू गुरुरग्निहोत्रे ।\nरविर्नरेन्द्रामरगोकुलेषु शिल्पालयो ज्ञः प्रसवं करोति",
+      "english_meaning": "Mars aspects human Lagna: cemetery. Venus/Moon: beautiful place. Jupiter: fire-shrine. Sun: palace/temple. Mercury: workshop.",
+      "hindi_meaning": "मंगल मनुष्य लग्न को देखे: श्मशान। शुक्र/चन्द्रमा: सुन्दर स्थान। गुरु: अग्निहोत्र शाला। सूर्य: राजमहल/मंदिर। बुध: कार्यशाला।"
+    },
+    {
+      "number": "६६",
+      "text": "राश्यंशसमानगोचरे मार्गे जन्म चरे स्थिरे गृहे ।\nस्वर्क्षाशगते स्वमन्दिरे बलयोगात्फलमशकर्क्षयोः",
+      "english_meaning": "Movable Lagna: road. Fixed Lagna: house. Own sign/Navamsha: ones own home.",
+      "hindi_meaning": "चर लग्न: मार्ग। स्थिर लग्न: घर। अपनी राशि/नवांश: अपना ही घर।"
+    },
+    {
+      "number": "६७",
+      "text": "अथ मात्रा स्यक्तस्य दीर्घयुष्टम् ।\nआरार्कजयास्त्रिकोणगे चन्द्रोऽस्ते च विसृज्यतेऽम्बया ।\nदृष्टेऽमरराजमन्त्रिणा दीर्घयुः सुखभाक् च स स्मृतः",
+      "english_meaning": "If Mars and Saturn are in trines and Moon is in 7th, child is abandoned by mother. If aspected by Jupiter, child lives long and is happy.",
+      "hindi_meaning": "यदि मंगल और शनि त्रिकोण में हों और चन्द्रमा सप्तम में हो, तो माता बालक को त्याग देती है। गुरु के देखने पर वह दीर्घायु और सुखी होता है।"
+    },
+    {
+      "number": "६८",
+      "text": "अथ मात्रा स्यक्तस्य विनाशयोगः ।\nपापेक्षिते तुहिनगाबुदये कुजेऽस्ते स्यक्तो विनश्यति कुजार्कजयोस्तथाऽये ।\nसौम्येऽपि पश्यति तथाविधहस्तमेति सौम्ये तरेषु परहस्तगतोऽप्यनायुः",
+      "english_meaning": "If Moon in Lagna is aspected by malefics and Mars is in 7th, abandoned child dies. If aspected by a benefic, child may be rescued but live short.",
+      "hindi_meaning": "यदि लग्न में चन्द्रमा पाप ग्रहों से दृष्ट हो और मंगल सप्तम में हो, तो त्यागा हुआ बालक मर जाता है। शुभ ग्रह देखने पर वह बचाया जा सकता है।"
+    },
+    {
+      "number": "६९",
+      "text": "अथ प्रसवस्थानम् ।\nपितृमातृगृहेषु तद्बलात्तरुशालाइषु नीचगतैः शुभैः ।\nयदि नैकगतैश्च वीक्षितौ लग्नेन्दू विजने प्रसूयते",
+      "english_meaning": "Birth place depends on planetary strength: parents house, forest, or lonely place. Debilitated benefics indicate birth in a wilderness.",
+      "hindi_meaning": "जन्म का स्थान माता-पिता के घर, वन या निर्जन स्थान में होता है। नीच के शुभ ग्रह होने पर निर्जन स्थान में जन्म होता है।"
+    },
+    {
+      "number": "७०",
+      "text": "मन्दर्क्षाशे शशिनि हिबुके मन्ददृष्टेऽब्जगे वा\nतद्युक्ते वा तमसि शयनं नीचसंस्थैश्च भूमौ ।\nयद्भद्राशिर्ब्रजति हरिजं गर्भमोक्षस्तु तद्वत्",
+      "english_meaning": "Moon in Saturn sign/Navamsha or 4th house aspected by Saturn indicates birth on the floor. Exit direction is per the Lagna.",
+      "hindi_meaning": "यदि चन्द्रमा शनि की राशि/नवांश में हो या चतुर्थ भाव शनि से दृष्ट हो, तो जन्म भूमि पर होता है। बाहर आने की दिशा लग्न राशि से जानी जाती है।"
+    },
+    {
+      "number": "७१",
+      "text": "अथ सूतीगृहे दीपज्ञानं द्वारज्ञानं च ।\nस्नेहः शशाङ्कादुदयाच्च वर्ती दीपोऽर्कयुक्तर्क्षवशाणराद्यः ।\nद्वारं च तद्वास्तुनि केन्द्रसंस्थैर्क्ष्यं ग्रहैर्वीर्यसमनिव्तैर्वा",
+      "english_meaning": "Oil in lamp depends on Moon, wick on Lagna, and door direction on planets in quadrants or the strongest planet.",
+      "hindi_meaning": "दीपक का तेल चन्द्रमा से, बत्ती लग्न से, और द्वार की दिशा केन्द्र के बली ग्रहों से जानी जाती है।"
+    },
+    {
+      "number": "७२",
+      "text": "अथ सूतीगृहस्वरूपम् ।\nजीर्ण संस्कृतमर्कजे क्षितिसुते दग्धं नवं शीतगौ\nकाष्ठाढ्यं सुदृढं रवौ शशिसुते चानेकशिल्प्युद्भवम् ।\nरम्यं चित्रयुतं नवं च भृगुजे जीवे दृढं मन्दिरं\nचक्रस्थैस्तु यथोपदेशरचनां सामन्तपूर्वां वदेत्",
+      "english_meaning": "Nature of birth house: Saturn (old), Mars (burnt), Moon (new), Sun (wooden), Mercury (artistic), Venus (beautiful), Jupiter (strong).",
+      "hindi_meaning": "घर का स्वरूप: शनि (पुराना), मंगल (जला), चन्द्रमा (नया), सूर्य (लकड़ी का), बुध (कारीगरी युक्त), शुक्र (सुन्दर), गुरु (मजबूत)।"
+    },
+    {
+      "number": "७३",
+      "text": "अथ सुतीगृहदिशा ।\nमेषकुलीरतुलालिघतैः प्रगुत्तरते गुरुसौम्यगृहेषु ।\nपश्चिमतश्च वृषेण निवासो दक्षिणभागकरौ मृगसिंहौ",
+      "english_meaning": "Direction of birth house: Aries/Cancer/Libra/Scorpio/Sagittarius (E/N), Taurus (W), Capricorn/Leo (S).",
+      "hindi_meaning": "घर की दिशा: मेष/कर्क/तुला/वृश्चिक/धनु (पूर्व/उत्तर), वृष (पश्चिम), मकर/सिंह (दक्षिण)।"
+    },
+    {
+      "number": "७४",
+      "text": "अथ सूतीगृहे जन्मस्थानम् ।\nप्राच्यादिगृहे क्रियादयो द्वौ द्वौ कोणगता द्विमूर्त्तयः ।\nशय्यास्वपि वास्तुवद्वदेत् पातैः षट्त्रिनवान्त्यसंस्थितैः",
+      "english_meaning": "Signs in pairs indicate directions/corners. Bed position follows these Vastu principles.",
+      "hindi_meaning": "राशियाँ जोड़ों में दिशाएं/कोण बताती हैं। बिस्तर की स्थिति भी इन्ही वास्तु नियमों से जानी जाती है।"
+    },
+    {
+      "number": "७५",
+      "text": "अथ उपसुतिकाज्ञानम् ।\nलग्नचन्द्रान्रगतैर्ग्रहैः स्युरुपसूतिकाः ।\nबहिरन्तश्च चक्रार्द्धे दृशादश्येऽन्षवा परे",
+      "english_meaning": "Number of attendants equals planets between Lagna and Moon. Visibility depends on their hemisphere.",
+      "hindi_meaning": "लग्न और चन्द्रमा के बीच के ग्रहों के समान दाइयाँ होती हैं। उनकी दृश्यता गोलार्ध पर निर्भर करती है।"
+    },
+    {
+      "number": "७६",
+      "text": "अथ जातकस्य स्वरूपादिज्ञानम् ।\nलग्ननवांशपतुल्यतनुः स्याद्वीर्ययुतग्रहतुल्यतनुर्वा ।\nचन्द्रसमेतनवांशपर्वणः कादिविलग्नविभक्तभगात्रः",
+      "english_meaning": "Appearance resembles the Lagna Navamsha lord or strongest planet. Body parts are distributed from Lagna head.",
+      "hindi_meaning": "बालक का स्वरूप लग्न नवांश पति या बली ग्रह जैसा होता है। अंगों का विभाग लग्न (सिर) से शुरू होता है।"
+    },
+    {
+      "number": "७७",
+      "text": "कन्दृक्ष्रोत्रनसाकपोलहनवो वक्त्रं च होरादय-\nस्ते कण्ठांसकबाहुपाश्वहृदयक्रोडानि नाभिस्ततः ।\nबस्तिः शिश्नगुदे ततश्च वृषणावूरू ततो जानुनी\nजडाङ्घ्रीत्युन्जयत्र वाममुदितैर्द्रेक्काणभागैर्स्त्रधा",
+      "english_meaning": "Houses 1-12 represent head, eyes/ears, face, throat, arms, heart, stomach, navel, bladder, genitals, thighs, knees/feet.",
+      "hindi_meaning": "भाव १-१२: सिर, नेत्र/कान, मुख, कण्ठ, हाथ, हृदय, पेट, नाभि, बस्ती, गुदा/लिंग, जांघ, घुटने/पैर।"
+    },
+    {
+      "number": "७८",
+      "text": "अथ जाताङ्गे चिह्वज्ञानम् ।\nतस्मिन्पापयुते व्रणं शुभयुते दृष्टे च लक्ष्मादिशेत्\nस्वर्क्षंशे स्थिरसंयुते च सहजः स्यादन्यथाऽगन्तुकः ।\nमन्देऽश्मानिलजोऽग्निशस्त्रविषजो भौमे बुधे भूभवः\nसूर्ये काष्ठचतुष्पदेन हिमगौ श‍ृङ्ग्यब्जजोऽन्यैः शुभम्",
+      "english_meaning": "Malefics cause scars, benefics cause moles. Saturn (stone/wind), Mars (fire/weapon), Sun (wood), etc.",
+      "hindi_meaning": "पाप ग्रह घाव और शुभ ग्रह तिल/चिह्न देते हैं। शनि (पत्थर), मंगल (अग्नि/शस्त्र), सूर्य (लकड़ी) आदि से चोट।"
+    },
+    {
+      "number": "७९",
+      "text": "समनुपतिता यस्मिन् भागे त्रयः सबुधा ग्रहा\nभवति नियमातस्यावाप्तिः शुभेष्वशुभेषु वा ।\nव्रणकृदशुभः षष्ठे देहे तनोर्भसमाश्रिते\nतिलकमशकृद्दृष्टः सौम्यैर्युतश्च स लक्ष्मवान्",
+      "english_meaning": "Signs with 3+ planets including Mercury have marks. Malefics in 6th cause scars, beauty marks if aspected by benefics.",
+      "hindi_meaning": "बुध सहित ३+ ग्रह वाली राशि में चिह्न होता है। छठे में पाप ग्रह घाव करता है, शुभ दृष्टि से वह सुन्दर चिह्न बनता है।"
+    },
+    {
+      "number": "८०",
+      "text": "वियोनिजन्मविज्ञानं निषेकोदयजं फलम् ।\nजन्मकालप्रिज्ञानं यत्तदाचार्यभाषितम्",
+      "english_meaning": "Science of non-human births, conception effects, and birth timing as declared by Acharyas.",
+      "hindi_meaning": "वियोनि जन्म, आधान फल और जन्म समय का विज्ञान, जैसा कि आचार्यों ने कहा है।"
+    },
+    {
+      "number": "३",
+      "text": "इति नवग्रहकृपया वैद्यनाथविरचिते जातकपारिजाते\nआधानजन्माध्यायस्तृतीयः",
+      "english_meaning": "Thus ends the third chapter of Jataka Parijatah, titled Adhana-janmadyadhyaya.",
+      "hindi_meaning": "इस प्रकार जातक पारिजात का आधानजन्माध्याय नामक तृतीय अध्याय समाप्त हुआ।"
+    }
+  ]
+}

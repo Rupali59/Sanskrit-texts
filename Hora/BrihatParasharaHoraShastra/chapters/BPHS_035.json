@@ -1,0 +1,312 @@
+{
+  "source_file": "BPHS3140.md",
+  "source_chunk": "BPHS3140.json",
+  "chunk_index": 4,
+  "chapter": 35,
+  "variant": null,
+  "title": "अथ नाभसयोगाध्यायः",
+  "shloka_count": 50,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अधुना नाभसा योगाः कथ्यन्ते द्विजसत्तम ।\nद्वात्रिंशात् तत्प्रभेदास्तु शतघ्नाष्टादशोन्मिताः",
+      "english_meaning": "Now the Nabhasa yogas are told, O best of Brahmanas. There are 32 main types, which total 1800 when sub-divided.",
+      "hindi_meaning": "हे द्विजोत्तम! अब नाभस योगों को कहा जा रहा है। उनके 32 मुख्य प्रकार हैं, जो भेदों के अनुसार 1800 होते हैं।"
+    },
+    {
+      "number": 2,
+      "text": "आश्रयाख्यास्त्रयो योगाः दलसंज्ञं द्वयं ततः ।\nआकृतिर्विशतिः संख्याः सप्त योगाः प्रकीर्तिताः",
+      "english_meaning": "There are 3 Ashraya yogas, 2 Dala yogas, 20 Akriti yogas, and 7 Sankhya yogas. Total 32.",
+      "hindi_meaning": "3 आश्रय योग, 2 दल योग, 20 आकृति योग और 7 संख्या योग हैं। कुल 32 योग कहे गए हैं।"
+    },
+    {
+      "number": 3,
+      "text": "रज्जुश्च मुसलश्चैव नलश्चेत्याश्रयास्त्रयः ।\nमालाख्यः सर्पसंज्ञश्च दलयोगौ प्रकीर्तितौ",
+      "english_meaning": "Rajju, Musala, and Nala are the 3 Ashraya yogas. Mala and Sarpa are the 2 Dala yogas.",
+      "hindi_meaning": "रज्जु, मुसल और नल ये 3 आश्रय योग हैं। माला और सर्प ये 2 दल योग कहे गए हैं।"
+    },
+    {
+      "number": 4,
+      "text": "गदाख्यः शकटाख्यश्च स्रृङ्गाटकविहंगसौ ।\nहलवज्रयवाश्चैव कमलं वापियूपकौ",
+      "english_meaning": "Gada, Shakata, Shringataka, Vihaga, Hala, Vajra, Yava, Kamala, Vapi, Yupaka...",
+      "hindi_meaning": "गदा, शकट, शृङ्गाटक, विहग, हल, वज्र, यव, कमल, वापी, यूपक..."
+    },
+    {
+      "number": 5,
+      "text": "शरशक्तिदण्डनौकाकूटच्छत्रध्नूंषि च ।\nअर्धचन्द्रस्तु चक्रं च समुद्रश्चेति विंशतिः",
+      "english_meaning": "Shara, Shakti, Danda, Nauka, Kuta, Chhatra, Dhanus, Ardha-chandra, Chakra, and Samudra are the 20 Akriti yogas.",
+      "hindi_meaning": "शर, शक्ति, दण्ड, नौका, कूट, छत्र, धनुष (चाप), अर्धचन्द्र, चक्र और समुद्र - ये 20 आकृति योग हैं।"
+    },
+    {
+      "number": 6,
+      "text": "संख्याख्यावल्लकीदामपाशकेदारशूलकाः ।\nयुगो गोलश्च सप्तैते युक्ता दन्तमिता द्विज",
+      "english_meaning": "Vallaki, Dama, Pasha, Kedara, Shula, Yuga, and Gola are the 7 Sankhya yogas. Thus 32 in total.",
+      "hindi_meaning": "वल्लकी (वीणा), दाम, पाश, केदार, शूल, युग और गोल - ये 7 संख्या योग हैं। इस प्रकार कुल 32 योग हुए।"
+    },
+    {
+      "number": 7,
+      "text": "सर्वैश्चरे स्थितै रज्जुः स्थिरस्थैर्मुसलः स्मृतः ।\nनलाख्यो द्विस्वभावस्थैराश्रयाख्या इमे स्मृताः",
+      "english_meaning": "If all planets are in movable signs, it is Rajju yoga. If in fixed signs, Musala. If in dual signs, Nala.",
+      "hindi_meaning": "यदि सभी ग्रह चर राशियों में हों तो रज्जु, स्थिर राशियों में हों तो मुसल और द्विस्वभाव राशियों में हों तो नल योग होता है।"
+    },
+    {
+      "number": 8,
+      "text": "केन्द्रत्रयगतैः सौम्यैः पापैर्वा दलसंज्ञकौ ।\nक्रमान्मालाभुजंगाख्यौ शुभाशुभफलप्रदौ",
+      "english_meaning": "If all benefics are in 3 Kendras, it is Mala yoga. If all malefics are in 3 Kendras, it is Sarpa yoga.",
+      "hindi_meaning": "यदि सभी शुभ ग्रह 3 केन्द्रों में हों तो माला योग, और यदि सभी पाप ग्रह 3 केन्द्रों में हों तो सर्प (भुजंग) योग होता है।"
+    },
+    {
+      "number": 9,
+      "text": "आसन्नकेन्द्रद्वयगैः सर्वैर्योगो गदाह्वयः ।\nशकटं लग्नजायास्थैः खाम्बुगैर्विहगः स्मृतः",
+      "english_meaning": "All planets in two adjacent Kendras form Gada yoga. In 1st and 7th houses, it is Shakata. In 4th and 10th, Vihaga.",
+      "hindi_meaning": "दो समीपवर्ती केन्द्रों में सभी ग्रहों के होने से गदा योग, 1 और 7 में होने से शकट और 4 तथा 10 में होने से विहग योग होता है।"
+    },
+    {
+      "number": 10,
+      "text": "योगः स्रृङ्गाटकं नाम लग्नात्मजतपःस्थितैः ।\nअन्यस्थानात् त्रिकोणस्थैः सर्वैर्योगो हलाभिघः",
+      "english_meaning": "Planets in Lagna, 5th, and 9th form Shringataka yoga. In any other triangle, it is Hala yoga.",
+      "hindi_meaning": "लग्न, 5 और 9 में ग्रहों के होने से शृङ्गाटक योग होता है। अन्य स्थानों से त्रिकोण (त्रिकोणों) में होने से हल योग होता है।"
+    },
+    {
+      "number": 11,
+      "text": "लग्नजायास्थितैः सौम्यैः पापाख्यैः खाऽम्बुसंस्थितैः ।\nयोगो वज्राभिधः प्रोक्तः वीपरीतस्थितैर्यवः",
+      "english_meaning": "Benefics in 1st/7th and malefics in 4th/10th form Vajra yoga. The reverse is Yava yoga.",
+      "hindi_meaning": "1 और 7 में शुभ ग्रह और 4 तथा 10 में पाप ग्रह होने से वज्र योग होता है। इसके विपरीत स्थिति होने पर यव योग होता है।"
+    },
+    {
+      "number": 12,
+      "text": "सर्वकेन्द्रगतैः सर्वैर्मिश्रैः कमलसंज्ञकः ।\nकेन्द्रादन्यत्रगैः सर्वैर्योगो वापीसमाह्वयः",
+      "english_meaning": "All planets in all 4 Kendras form Kamala yoga. If all are outside Kendras, it is Vapi yoga.",
+      "hindi_meaning": "सभी 4 केन्द्रों में सभी ग्रहों के होने से कमल योग होता है। केन्द्रों के अलावा अन्य स्थानों में होने से वापी योग होता है।"
+    },
+    {
+      "number": 13,
+      "text": "यूपो लग्नाच्चतुर्भस्थैः शरस्तुर्याच्चतुर्भगैः ।\nशक्तिर्मदाच्चतुर्भस्थैर्दण्डो मध्याच्चतुर्भगैः",
+      "english_meaning": "Yupaka: all planets in houses 1-4. Shara: 4-7. Shakti: 7-10. Danda: 10-1.",
+      "hindi_meaning": "यूप: लग्न से 4 भावों में; शर: 4 से 7 भावों में; शक्ति: 7 से 10 भावों में; दण्ड: 10 से 1 भावों में।"
+    },
+    {
+      "number": 14,
+      "text": "लग्नात् सप्तमगैनौ का कूटस्तुर्याच्च सप्तमैः ।\nछत्राख्यः सप्तमादेवं चापं मध्याद् भसप्तगैः",
+      "english_meaning": "Nauka: houses 1-7. Kuta: 4-10. Chhatra: 7-1. Dhanus: 10-4.",
+      "hindi_meaning": "नौका: 1 से 7 भावों में; कूट: 4 से 10 भावों में; छत्र: 7 से 1 भावों में; धनुष (चाप): 10 से 4 भावों में।"
+    },
+    {
+      "number": 15,
+      "text": "लग्नादेकान्तरस्थैश्च षड्भगैश्चक्रमुच्यते ।\nधनादेकान्तरस्थैस्तु समुद्रः षडगृहाश्रितै",
+      "english_meaning": "Chakra: planets in 6 odd houses. Samudra: planets in 6 even houses.",
+      "hindi_meaning": "लग्न से एकान्तर (विषम) 6 भावों में ग्रह हों तो चक्र, और धन भाव से एकान्तर (सम) 6 भावों में हों तो समुद्र योग होता है।"
+    },
+    {
+      "number": 16,
+      "text": "एकराशिस्थितैर्गोलो युगाख्यो द्विभसंस्थितैः ।\nशूलस्तु त्रिभगैः प्रोक्तः केदारस्तु चतुर्भगैः",
+      "english_meaning": "Gola: in 1 sign. Yuga: 2 signs. Shula: 3 signs. Kedara: 4 signs. Pasha: 5 signs. Dama: 6 signs. Vallaki: 7 signs.",
+      "hindi_meaning": "एक राशि में ग्रह हों तो गोल, 2 में युग, 3 में शूल, 4 में केदार, 5 में पाश, 6 में दाम और 7 राशियों में हों तो वल्लकी (वीणा) योग होता है।"
+    },
+    {
+      "number": 17,
+      "text": "पञ्चराशिस्थतैः पाशा दामाख्यः षड्गृहाश्रितैः ।\nवीणा सप्तभगैः सर्वैर्विहायान्यानुदीरितान्",
+      "english_meaning": "Ashraya yogas give results only if they are not Akriti yogas. If mixed with other yogas, their results should not be told.",
+      "hindi_meaning": "आश्रय योग तभी फल देते हैं जब वे आकृति योग न हों। यदि वे अन्य योगों के साथ मिश्रित हों, तो उनका फल नहीं कहना चाहिए।"
+    },
+    {
+      "number": 18,
+      "text": "अटनप्रियाः सुरूपाः परदेशस्वास्थ्यभागिनो मनुजाः ।\nक्रूराः खलस्वभावा रज्जुप्रभवाः सदा कथिताः",
+      "english_meaning": "Rajju yoga effects: people fond of wandering, handsome, gaining health in foreign lands, cruel, and of wicked nature.",
+      "hindi_meaning": "रज्जु योग में उत्पन्न मनुष्य भ्रमणप्रिय, सुन्दर, परदेश में सुखी रहने वाले, क्रूर और दुष्ट स्वभाव के होते हैं।"
+    },
+    {
+      "number": 19,
+      "text": "मानज्ञानधनाद्यैर्युक्ता भूपप्रियाः ख्याताः ।\nबहुपुत्राः स्थिरचित्ता मुसलसमुत्था भवन्ति नराः",
+      "english_meaning": "Musala yoga: endowed with honor, knowledge, and wealth, famous, liked by kings, many sons, and stable-minded.",
+      "hindi_meaning": "मुसल योग में उत्पन्न मनुष्य मान, ज्ञान और धन से युक्त, विख्यात, राजाओं के प्रिय, बहुत पुत्रों वाले और स्थिर बुद्धि होते हैं।"
+    },
+    {
+      "number": 20,
+      "text": "न्यूनातिरिक्तदेहा धनसञ्चयभागिनोऽतिनिपुणाश्च ।\nबन्धुहिताश्च सुरूपा नलयोगे सम्प्रसूयन्ते",
+      "english_meaning": "Nala yoga: defective or extra limbs, wealth accumulators, very skillful, helpful to kinsmen, and handsome.",
+      "hindi_meaning": "नल योग में जातक के अंग कम या अधिक हो सकते हैं, वह धन संग्रह करने वाला, अति निपुण, भाई-बन्धुओं का हितकारी और सुन्दर होता है।"
+    },
+    {
+      "number": 21,
+      "text": "नित्यं सुखप्रधाना वाहनवस्त्रान्नभोगसम्पन्ना ।\nकान्ता सुबहुस्त्रीका मालायां सम्प्रसूताः स्युः",
+      "english_meaning": "Mala yoga: always happy, endowed with vehicles, clothes, food, and enjoyments, loved by many beautiful women.",
+      "hindi_meaning": "माला योग में उत्पन्न जातक नित्य सुखी, वाहन, वस्त्र और भोजन के भोगों से सम्पन्न और स्त्रियों का प्रिय होता है।"
+    },
+    {
+      "number": 22,
+      "text": "वुषमाः क्रूरा निःस्वा नित्यं दुःखार्दिताः सुदीनाश्च ।\nपरभक्षपाननिरताः सर्पप्रभवा भवन्ति नराः",
+      "english_meaning": "Sarpa yoga: uneven, cruel, poor, always afflicted by sorrow, very wretched, and subsisting on others' food.",
+      "hindi_meaning": "सर्प योग में उत्पन्न मनुष्य विषम, क्रूर, निर्धन, नित्य दुखी और दीन होते हैं तथा दूसरों के अन्न-जल पर निर्भर रहते हैं।"
+    },
+    {
+      "number": 23,
+      "text": "सततोद्युक्तार्थवशा यज्वानः शास्त्रगेयकुशलाश्च ।\nधनकनकरत्नसम्पत्संयुक्ता मानवा गदायां तु",
+      "english_meaning": "Gada yoga: always striving for wealth, performers of sacrifices, expert in Shastras and music, endowed with wealth, gold, and gems.",
+      "hindi_meaning": "गदा योग में जातक सदैव धन के लिए प्रयत्नशील, यज्ञ करने वाला, शास्त्र और संगीत में कुशल तथा धन-रत्नों से सम्पन्न होता है।"
+    },
+    {
+      "number": 24,
+      "text": "रोगार्ताः कुनखा मूर्खाः शकटानुजीविनो निःस्वा ।\nमित्रस्वजनविहीनाः शकटे जाता भवन्ति नराः",
+      "english_meaning": "Shakata yoga: afflicted by diseases, bad nails, foolish, living on carts, poor, without friends and relatives.",
+      "hindi_meaning": "शकट योग में जातक रोगार्त, खराब नाखूनों वाला, मूर्ख, गाड़ी (शकट) से जीविका चलाने वाला, निर्धन और मित्र-विहीन होता है।"
+    },
+    {
+      "number": 25,
+      "text": "भ्रमणरुचयोविकृष्टा दूताः सुरतानुजीवनो धृष्टाः ।\nकलहप्रियाश्च नित्यं विहगे योगे सदा जाताः",
+      "english_meaning": "Vihaga yoga: fond of wandering, messengers, living by sex (or related acts), bold, and always fond of quarrels.",
+      "hindi_meaning": "विहग योग में जातक भ्रमणप्रिय, दूत, सुरतानुजीवी, धृष्ट और नित्य कलह करने वाला होता है।"
+    },
+    {
+      "number": 26,
+      "text": "प्रियकलहाः समरसहाः सुखिनो नृपतेः शुभकलत्राः ।\nआढ्या युवतिद्वेष्याः स्रृङ्गाटकसम्भवा मनुजाः",
+      "english_meaning": "Shringataka yoga: fond of quarrels, valorous in battle, happy, liked by kings, good wives, wealthy, but hater of young women.",
+      "hindi_meaning": "शृङ्गाटक योग में जातक कलहप्रिय, युद्ध में शूर, सुखी, राजा का प्रिय, उत्तम स्त्री वाला और धनी होता है।"
+    },
+    {
+      "number": 27,
+      "text": "बह्वाशिनो दरिद्राः कृषीवला दुःखिताश्च सोद्वेगा ।\nबन्धुसुहृदिभः त्यक्ताः प्रेष्याः हलसंज्ञके सदा पुरुषाः",
+      "english_meaning": "Hala yoga: big eaters, poor, farmers, sorrowful, agitated, abandoned by relatives and friends, and servants.",
+      "hindi_meaning": "हल योग में जातक बहुत खाने वाला, दरिद्र, किसान, दुखी, उद्विग्न और बन्धु-बान्धवों से त्यागा हुआ सेवक होता है।"
+    },
+    {
+      "number": 28,
+      "text": "आद्यन्तवयःसुखिनः शूराः सुभगा निरीहाश्चः ।\nभाग्यविहीना वज्रे जाताः खला विरुद्धाश्च",
+      "english_meaning": "Vajra yoga: happy at beginning and end of life, brave, handsome, without desires, but unlucky, wicked and oppositional.",
+      "hindi_meaning": "वज्र योग में जातक जीवन के आदि और अन्त में सुखी, शूर, सुन्दर, निरीह (इच्छा रहित) किन्तु भाग्यहीन और दुष्ट होता है।"
+    },
+    {
+      "number": 29,
+      "text": "व्रतनियममङ्गलपरा वयसो मध्ये सुखार्थपुत्रयुता ।\nदातारः स्थिरचित्ता यवयोगभवाः सदा पुरुषाः",
+      "english_meaning": "Yava yoga: observing vows and rules, doing auspicious things, happy with wealth and sons in middle age, charitable, and stable-minded.",
+      "hindi_meaning": "यव योग में जातक व्रत-नियम पालने वाला, मङ्गल कार्यों में रत, मध्यायु में सुख-धन-पुत्र से युक्त, दानी और स्थिर चित्त होता है।"
+    },
+    {
+      "number": 30,
+      "text": "विभवगुणाद्ग्।याः पुरुषाः स्थिरायुषो विपुलकीर्तय शुद्धाः ।\nशुभशतकाः पृथ्वीशाः कमलभवाः मानवा नित्यम्",
+      "english_meaning": "Kamala yoga: foremost in wealth and virtues, long life, wide fame, pure, performers of hundreds of auspicious deeds, and kings.",
+      "hindi_meaning": "कमल योग में उत्पन्न मनुष्य धन और गुणों में श्रेष्ठ, दीर्घायु, विख्यात, शुद्ध और पृथ्वी के स्वामी (राजा) होते हैं।"
+    },
+    {
+      "number": 31,
+      "text": "निधिकरणे निपुणधियः स्थिरार्थसुखसंयुता सुतयुताश्च ।\nनयनसुखसम्प्रहृष्टा वापीयोगेन राजानः",
+      "english_meaning": "Vapi yoga: expert in managing treasures, stable wealth and happiness, with sons, happy eyes, and kings.",
+      "hindi_meaning": "वापी योग में जातक खजाना (निधि) सम्भालने में निपुण, स्थिर धन और सुख वाला, पुत्रवान और राजा होता है।"
+    },
+    {
+      "number": 32,
+      "text": "आत्मविदिज्यानिरतः स्त्रिया युतः सत्त्वसम्पन्नः ।\nव्रतनियमरतमनुस्यो यूपे जातो विशिष्टश्च",
+      "english_meaning": "Yupaka yoga: self-knower, performer of sacrifices, with wife, endowed with courage, observing vows and rules, and distinguished.",
+      "hindi_meaning": "यूप योग में जातक आत्मज्ञानी, यज्ञ करने वाला, स्त्री युक्त, साहसी, व्रत-नियमों में रत और विशिष्ट व्यक्ति होता है।"
+    },
+    {
+      "number": 33,
+      "text": "इषुकारा बन्धनपाः मृगयाधनसेविताश्च मंसादा ।\nहिंस्राः कुशिल्पकाराः शरयोगे मानवाः प्रसूयन्ते",
+      "english_meaning": "Shara yoga: arrow-makers, prison-keepers, living by hunting, meat-eaters, violent, and bad craftsmen.",
+      "hindi_meaning": "शर योग में जातक बाण बनाने वाला, बन्दीगृह का रक्षक, शिकार से जीविका चलाने वाला, मांस खाने वाला और हिंसक होता है।"
+    },
+    {
+      "number": 34,
+      "text": "धनरहितविफलदुःखितनीचलसाश्चिरायुषः पुरुषाः ।\nसंग्रामबुद्धिनिपुणाः शक्त्यां जाताः स्थिराः शुभगाः",
+      "english_meaning": "Shakti yoga: without wealth, unsuccessful, sorrowful, low, lazy, long-lived, expert in battle-logic, stable and handsome.",
+      "hindi_meaning": "शक्ति योग में जातक निर्धन, असफल, दुखी, नीच, आलसी, दीर्घायु और संग्राम में कुशल तथा स्थिर होता है।"
+    },
+    {
+      "number": 35,
+      "text": "हतपुत्रदारनिःस्वाः सर्वत्र च निर्धृंणाः स्वजनबाह्याः ।\nदुःखितनीचप्रेष्या दण्डप्र्भवा भवन्ति नराः",
+      "english_meaning": "Danda yoga: loss of sons and wife, poor, heartless everywhere, outside from kinsmen, sorrowful, low, and servants.",
+      "hindi_meaning": "दण्ड योग में जातक पुत्र और स्त्री से रहित, निर्धन, निर्दयी, स्वजनों से अलग, दुखी, नीच और सेवक होता है।"
+    },
+    {
+      "number": 36,
+      "text": "सलिलोपजीविविभवाः बह्वाशाः ख्यातकीर्तयो दुष्टाः ।\nकृपणा मलिना लुब्धा नौसञ्जाताः खलाः पुरुषाः",
+      "english_meaning": "Nauka yoga: wealth from water-based livelihoods, many desires, famous, wicked, miserly, dirty, greedy, and cruel.",
+      "hindi_meaning": "नौका योग में जातक जल से जीविका चलाने वाला, बहुत इच्छाओं वाला, विख्यात, दुष्ट, कंजूस और लालची होता है।"
+    },
+    {
+      "number": 37,
+      "text": "अनृतकथनबन्धनपा निष्किञ्चनाः शठाः क्रूराः ।\nकूटसमुत्था नित्यं भवन्ति गिरिदुर्गवासिनो मनुजाः",
+      "english_meaning": "Kuta yoga: speaking lies, prison-keepers, without means, rogues, cruel, and always living in mountains or forts.",
+      "hindi_meaning": "कूट योग में जातक झूठ बोलने वाला, बन्दीगृह का रक्षक, साधनहीन, शठ (धूर्त) और पर्वत या दुर्गों में रहने वाला होता है।"
+    },
+    {
+      "number": 38,
+      "text": "स्वजनाश्रयो दयावान्नानानृपवल्लभः प्रकृष्टमतिः ।\nप्रथमेऽन्त्ये वयसि नराः सुखवान् दीर्घायुरातपत्री स्यात्",
+      "english_meaning": "Chhatra yoga: shelter for kinsmen, compassionate, favorite of many kings, excellent intelligence, happy in first and last part of life, long-lived, and a king.",
+      "hindi_meaning": "छत्र योग में जातक स्वजनों का आश्रय, दयावान, राजाओं का प्रिय, प्रखर बुद्धि, जीवन के आदि-अन्त में सुखी और दीर्घायु राजा होता है।"
+    },
+    {
+      "number": 39,
+      "text": "आनृतिकगुप्तपालाश्चोराः कितवाश्च कानने निरताः ।\nकार्मुकयोगे जाता भाग्यविहीनाः शुभा वयोमध्ये",
+      "english_meaning": "Dhanus yoga: liar, secret keeper, thief, gambler, living in forests, unlucky, but auspicious in middle age.",
+      "hindi_meaning": "धनुष (कार्मुक) योग में जातक झूठा, गुप्त भेद रखने वाला, चोर, जुआरी, वनवासी और मध्यायु में सुखी होता है।"
+    },
+    {
+      "number": 40,
+      "text": "सेनापतयः सर्वी कान्तशरीरा नृपप्रिया बलिनः ।\nमणिकनकभूषणयुता भवन्ति योगेऽर्धचन्द्राख्ये",
+      "english_meaning": "Ardha-chandra yoga: army commanders, radiant bodies, liked by kings, strong, endowed with gems, gold, and ornaments.",
+      "hindi_meaning": "अर्धचन्द्र योग में जातक सेनापति, सुन्दर शरीर वाला, राजा का प्रिय, बली और मणिकनक (रत्नाभूषण) से युक्त होता है।"
+    },
+    {
+      "number": 41,
+      "text": "प्रणताऽऽशेषनराधिपकिरीटरत्नप्रभास्फुरितपादः ।\nभवति नरेन्द्रो मनुजश्चक्रे यो जायते योगे",
+      "english_meaning": "Chakra yoga: kings whose feet are illumined by the gem-radiance of crowns of all prostrating monarchs.",
+      "hindi_meaning": "चक्र योग में उत्पन्न जातक वह राजा होता है जिसके चरणों में प्रणाम करने वाले राजाओं के मुकुटों की चमक पड़ती है।"
+    },
+    {
+      "number": 42,
+      "text": "बहुरत्नधनसमृद्धा भोगयुता धनजनप्रियाः ससुता ।\nउदधिसमुत्थाः पुरुषाः स्थिरविभवाः साधुशीलाश्च",
+      "english_meaning": "Samudra yoga: rich with many gems and wealth, enjoyer, liked by people, with sons, stable wealth, and of good character.",
+      "hindi_meaning": "समुद्र योग में जातक रत्नों और धन से समृद्ध, भोगी, लोकप्रिय, पुत्रवान, स्थिर लक्ष्मी वाला और सज्जन होता है।"
+    },
+    {
+      "number": 43,
+      "text": "प्रियगीतनृत्यवाद्या निपुणाः सुखिनश्च धनवन्तः ।\nनेतारो बहुभृत्या वीणायां कीर्तिताः पुरुषाः",
+      "english_meaning": "Vallaki yoga: fond of music, dance, and instruments, skillful, happy, wealthy, leaders, and having many servants.",
+      "hindi_meaning": "वल्लकी (वीणा) योग में जातक संगीत, नृत्य और वाद्य का प्रेमी, निपुण, सुखी, धनी, नेता और बहुत नौकरों वाला होता है।"
+    },
+    {
+      "number": 44,
+      "text": "दाम्नि सुजनोपकारी नयधनयुक्तो महेश्वरः ख्यातः ।\nबहुसुतरत्नसमृद्धो धीरो जायेत विद्वांश्च",
+      "english_meaning": "Dama yoga: helper of good people, endowed with policy and wealth, famous lord, rich with many sons and gems, patient and wise.",
+      "hindi_meaning": "दाम योग में जातक सज्जनों का उपकारी, नीति और धन से युक्त, विख्यात स्वामी, बहुत पुत्रों वाला, धैर्यवान और विद्वान होता है।"
+    },
+    {
+      "number": 45,
+      "text": "पाशे बन्धनभाजः कार्ये दक्षाः प्रपञ्चकाराश्च ।\nबहुभाषिणो विशीला बहुभृत्याः सम्प्रतानाश्च",
+      "english_meaning": "Pasha yoga: liable to bondage, expert in work, deceitful, talkative, without character, having many servants and relatives.",
+      "hindi_meaning": "पाश योग में जातक बन्धन में पड़ने वाला, कार्यकुशल, प्रपंची (धूर्त), वाचाल, दुराचारी और बहुत नौकरों वाला होता है।"
+    },
+    {
+      "number": 46,
+      "text": "सुबहूनामुपयोज्याः कृषीवलाः सत्यवादिनः सुखिनः ।\nकेदारे सम्भूताश्चलस्वभावा धनैर्युक्ताः",
+      "english_meaning": "Kedara yoga: helpful to many, farmers, truthful, happy, of moving nature, and endowed with wealth.",
+      "hindi_meaning": "केदार योग में जातक बहुतों का उपकारी, किसान, सत्यवादी, सुखी, चंचल स्वभाव का और धनवान होता है।"
+    },
+    {
+      "number": 47,
+      "text": "तीक्ष्णालसधनहीना हिंस्राः सुबहिष्कृता महाशूराः ।\nसंग्रामे लब्धयशा शूले योगे भवन्ति नराः",
+      "english_meaning": "Shula yoga: sharp, lazy, without wealth, violent, rejected, very brave, and gaining fame in battle.",
+      "hindi_meaning": "शूल योग में जातक तीक्ष्ण, आलसी, धनहीन, हिंसक, समाज से बहिष्कृत और संग्राम में यश पाने वाला महाशूर होता है।"
+    },
+    {
+      "number": 48,
+      "text": "पाखण्डवादिनो वा धनरहिता वा बहिष्कृता लोके ।\nसुतमातृधर्मरहिता युगयोगे ये नरा जाताः",
+      "english_meaning": "Yuga yoga: heretics, without wealth, rejected in world, without sons, mother, or dharma.",
+      "hindi_meaning": "युग योग में उत्पन्न मनुष्य पाखण्डी (ढोंगी), निर्धन, लोक-बहिष्कृत और पुत्र, माता तथा धर्म से रहित होता है।"
+    },
+    {
+      "number": 49,
+      "text": "बलसंयुक्ता विधना वद्याविज्ञानवर्जिता मलिना ।\nनित्यं दुःखितदीना गोले योगे भवन्ति नराः",
+      "english_meaning": "Gola yoga: strong, without wealth, without knowledge of sciences, dirty, and always sorrowful and wretched.",
+      "hindi_meaning": "गोल योग में जातक बली होकर भी निर्धन, विद्या-विहीन, मलिन और नित्य दुखी और दीन होता है।"
+    },
+    {
+      "number": 50,
+      "text": "सर्वास्वपि दशस्वेते भवेयुः फलदायिनः ।\nप्राणिनामिति विज्ञेयाः प्रवदन्ति तवाग्रजाः",
+      "english_meaning": "All these Nabhasa yogas give their results in all Dashas of humans. Thus spoke your predecessors.",
+      "hindi_meaning": "ये सभी नाभस योग मनुष्यों की सभी दशाओं में फल देते हैं। ऐसा आपके पूर्वजों (ऋषियों) ने कहा है।"
+    }
+  ]
+}

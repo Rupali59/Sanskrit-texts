@@ -1,0 +1,606 @@
+{
+  "source_file": "BPHS3140.md",
+  "source_chunk": "BPHS3140.json",
+  "chunk_index": 2,
+  "chapter": 33,
+  "variant": null,
+  "title": "अथ कारकांशफलाध्यायः",
+  "shloka_count": 99,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "अथाऽहं सम्प्रवक्ष्यामि कारकांशफलं द्विज ।\nमेषादिराशिगे स्वांशे यथावद् ब्रह्मभाषितम्",
+      "english_meaning": "Now I will speak about the effects of Karakamsha, as told by Brahma, according to the signs Aries etc. where the Atmakaraka's Navamsha falls.",
+      "hindi_meaning": "अब मैं मेष आदि राशियों के अनुसार कारकांश का फल कहूँगा, जैसा कि ब्रह्मा जी ने कहा है, जहाँ आत्मकारक का नवांश पड़ता है।"
+    },
+    {
+      "number": 2,
+      "text": "गृहे मूषकमार्जारा मेषांशे ह्वात्मकारके ।\nसदा भयप्रदा विप्र पापयुक्ते विशेषतः",
+      "english_meaning": "If Atmakaraka is in Aries Navamsha, there is fear from rats and cats in the house, especially if joined by malefics.",
+      "hindi_meaning": "यदि आत्मकारक मेष नवांश में हो, तो घर में चूहों और बिल्लियों से भय होता है, विशेषकर यदि वह पाप ग्रहों से युक्त हो।"
+    },
+    {
+      "number": 3,
+      "text": "वृषांशकगते स्वस्मिन् सुखदाश्च चतुष्पदाः ।\nमिथुनांशगते तस्मिन् कण्ड्वादिव्याधिसम्भवः",
+      "english_meaning": "In Taurus Navamsha, there is happiness from quadrupeds. In Gemini, occurrence of skin diseases like itching etc.",
+      "hindi_meaning": "वृष नवांश में चौपायों (पशुओं) से सुख होता है। मिथुन नवांश में खुजली आदि चर्म रोगों की संभावना होती है।"
+    },
+    {
+      "number": 4,
+      "text": "कर्कांशे च जलाद्भीतिः सिम्हांशे श्वपदाद्भयम् ।\nकण्डूः स्थौल्यञ्च कन्यांशे तथा वह्निकणाद्भयम्",
+      "english_meaning": "In Cancer, fear from water; in Leo, fear from wild animals. In Virgo, itching, obesity, and fear from fire sparks.",
+      "hindi_meaning": "कर्क में जल से भय; सिंह में जंगली पशुओं से भय। कन्या में खुजली, मोटापा और अग्नि की चिनगारियों से भय होता है।"
+    },
+    {
+      "number": 5,
+      "text": "तुलांशे च वणिग् जातो वस्रादिनिर्मितौ पटुः ।\nअल्यंशे सर्पतो भीतिः पीडा मातुः पयोधरे",
+      "english_meaning": "In Libra, the person becomes a trader and expert in manufacturing cloth etc. In Scorpio, fear from snakes and pain in the mother's breasts.",
+      "hindi_meaning": "तुला नवांश में जातक व्यापारी और वस्त्र आदि के निर्माण में चतुर होता है। वृश्चिक में साँपों से भय और माता के स्तनों में पीड़ा होती है।"
+    },
+    {
+      "number": 6,
+      "text": "धनुरंशे क्रमादुच्चात् पतनं वाहनादपि ।\nमरकांशे जलोद्भूतैर्जन्तुभिः खेचरस्तथा",
+      "english_meaning": "In Sagittarius, fall from heights or vehicles. In Capricorn, fear from aquatic creatures and birds.",
+      "hindi_meaning": "धनु नवांश में ऊँचाई या वाहन से गिरने का भय। मकर में जलचर जीवों और पक्षियों से भय होता है।"
+    },
+    {
+      "number": 7,
+      "text": "शंखमुक्ताप्रवालाद्यैर्लाभो भवति निश्चितः ।\nकुम्भांशे च तडागादिकारको जायते जनः",
+      "english_meaning": "Gains from conch, pearls, corals etc. are certain. In Aquarius, the person constructs tanks, wells etc.",
+      "hindi_meaning": "शंख, मोती, मूँगा आदि से लाभ निश्चित होता है। कुम्भ नवांश में जातक तालाब, कुआँ आदि बनवाने वाला होता है।"
+    },
+    {
+      "number": 8,
+      "text": "मीनांशे कारके जातो मुक्तिभाग् द्विजसत्तम ।\nनाऽशुभं शुभसंदृष्टे न शुभं पापवीक्षिते",
+      "english_meaning": "In Pisces, the person attains liberation (Mukti), O best of Brahmanas. Malefics aspecting reduce auspiciousness, benefics reduce inauspiciousness.",
+      "hindi_meaning": "मीन नवांश में जातक मोक्ष (मुक्ति) प्राप्त करता है। शुभ ग्रहों की दृष्टि से अशुभ कम होता है और पाप दृष्टि से शुभ कम होता है।"
+    },
+    {
+      "number": 9,
+      "text": "कारकांशे शुभे विप्र लग्नांशे च शुभग्रहे ।\nशुभसंवीक्षिते जातो राजा भवति निश्चितः",
+      "english_meaning": "If Karakamsha is auspicious and benefic is in Lagna Navamsha, aspected by benefics, the person certainly becomes a king.",
+      "hindi_meaning": "यदि कारकांश शुभ हो और नवांश लग्न में शुभ ग्रह हो तथा शुभ ग्रहों से दृष्ट हो, तो जातक निश्चय ही राजा होता है।"
+    },
+    {
+      "number": 10,
+      "text": "स्वांशाच्छुभग्रहाः केन्द्रे कोणे वा पापवर्जिताः ।\nधनविद्यायुतो जातो मिश्रैर्मिश्रफलं वदेद्",
+      "english_meaning": "If benefics are in Kendras or Konas from Karakamsha, without malefics, the person is endowed with wealth and knowledge. For mixed, say mixed results.",
+      "hindi_meaning": "यदि कारकांश से केन्द्र या त्रिकोण में पाप रहित शुभ ग्रह हों, तो जातक धन और विद्या से युक्त होता है। मिश्रित होने पर मिश्रित फल कहें।"
+    },
+    {
+      "number": 11,
+      "text": "उपग्रहे च विप्रेन्द्र स्वोच्चस्वर्क्षंसुभर्क्षगे ।\nपापदृग्रहिते चाऽन्त्ये कैवल्यंतस्य निर्दिशेत्",
+      "english_meaning": "If the sub-planet is in exaltation, own sign, or friend's sign in the 12th from Karakamsha, without malefic aspect, specify liberation (Kaivalya).",
+      "hindi_meaning": "यदि कारकांश से 12वें भाव में शुभ ग्रह अपने उच्च, स्वराशि या मित्र राशि में हो और पाप दृष्टि न हो, तो उसे मोक्ष (कैवल्य) प्राप्त होता है।"
+    },
+    {
+      "number": 12,
+      "text": "चन्द्राऽरभृगुवर्गस्थ कारके पारदारिकः ।\nविपर्यस्थेऽन्यथा ज्ञेयं फलं सर्वं विचक्षणैः",
+      "english_meaning": "If Atmakaraka is in the Navamsha of Moon/Mars/Venus, the person is an adulterer. If otherwise, wise men should know the results accordingly.",
+      "hindi_meaning": "यदि आत्मकारक चन्द्र/मंगल/शुक्र के वर्ग में हो, तो जातक परस्त्रीगामी (व्यभिचारी) होता है। इसके विपरीत होने पर विद्वानों को अन्यथा समझना चाहिए।"
+    },
+    {
+      "number": 13,
+      "text": "कारकांशे रवौ जातो राजकार्यपरो द्विज ।\nपूर्णेन्द्रौ भोगवान् विद्वान् शुक्रदृष्टे विशेषतः",
+      "english_meaning": "If Sun is in Karakamsha, the person is devoted to royal work. If full Moon, enjoys pleasures and is learned, especially if aspected by Venus.",
+      "hindi_meaning": "यदि कारकांश में सूर्य हो, तो जातक राजकार्य में तत्पर होता है। यदि पूर्ण चन्द्र हो, तो भोगी और विद्वान होता है, विशेषकर शुक्र से दृष्ट होने पर।"
+    },
+    {
+      "number": 14,
+      "text": "स्वांशे बलयुते भौमे जातः कन्तायुघी भवेत् ।\nवह्निजीवी नरो वाऽपि रसवादी च जायते",
+      "english_meaning": "If strong Mars is in Karakamsha, the person is a weapon-bearer, or lives by fire, or is an alchemist.",
+      "hindi_meaning": "यदि कारकांश में बली मंगल हो, तो जातक शस्त्रधारी होता है, या अग्नि से जीविका चलाने वाला, या रसवादी (रसायनज्ञ) होता है।"
+    },
+    {
+      "number": 15,
+      "text": "बुधे बलयुते स्वांशे कलाशिल्पविचक्षनः ।\nवाणिज्यकुशलश्चापि बुद्धिविद्यासमन्वितः",
+      "english_meaning": "If strong Mercury is in Karakamsha, expert in arts and crafts, skillful in trade, and endowed with intelligence and knowledge.",
+      "hindi_meaning": "यदि कारकांश में बली बुध हो, तो कला और शिल्प में चतुर, व्यापार में कुशल और बुद्धि तथा विद्या से सम्पन्न होता है।"
+    },
+    {
+      "number": 16,
+      "text": "सुकर्मा ज्ञाननिष्ठश्च वेदवित् स्वांशगे गुरौ ।\nशुक्रे शतेन्द्रियः कामी राजकीतो भवेन्नरः",
+      "english_meaning": "If Jupiter is in Karakamsha, righteous, devoted to knowledge, and a knower of Vedas. If Venus, lustful, long-lived, or a royal favorite.",
+      "hindi_meaning": "यदि कारकांश में गुरु हो, तो धर्मात्मा, ज्ञाननिष्ठ और वेदों का ज्ञाता होता है। यदि शुक्र हो, तो कामी और राजप्रिय होता है।"
+    },
+    {
+      "number": 17,
+      "text": "शनौ स्वांशगते जातः स्वकुलोचितकर्मकृत् ।\nराहौ चौरश्च धनुष्को जातो वा लोहयन्त्रकृत्",
+      "english_meaning": "If Saturn is in Karakamsha, one who does work suitable for his family. If Rahu, a thief, or an archer, or one who works with iron machinery.",
+      "hindi_meaning": "यदि कारकांश में शनि हो, तो अपने कुल के उचित कार्य करने वाला। यदि राहु हो, तो चोर, धनुर्धर या लोहे के यन्त्रों से काम करने वाला होता है।"
+    },
+    {
+      "number": 18,
+      "text": "विषवैद्योऽथवा विप्र जायते नाऽत्र संशयः ।\nव्ययहारी गजादीनां केतौ चौरश्च जायते",
+      "english_meaning": "Or a physician for poisons (Vishavaidya) without doubt. If Ketu, a dealer in elephants etc., or a thief.",
+      "hindi_meaning": "या निश्चय ही विष-वैद्य होता है। यदि केतु हो, तो हाथियों आदि का व्यापार करने वाला या चोर होता है।"
+    },
+    {
+      "number": 19,
+      "text": "रविराहू यदा स्वांशे सर्पाद् भीतिः प्रजायते ।\nशुभदृष्टौ भयं नैव पापदृष्टौ मृतिभवेत्",
+      "english_meaning": "If Sun and Rahu are in Karakamsha, fear from snakes occurs. If aspected by benefics, no fear; if by malefics, death occurs.",
+      "hindi_meaning": "यदि कारकांश में सूर्य और राहु हों, तो सर्प से भय होता है। शुभ दृष्टि होने पर भय नहीं होता, पाप दृष्टि होने पर मृत्यु हो सकती है।"
+    },
+    {
+      "number": 20,
+      "text": "शुभषड्वर्गसंयुक्तौ विषवैद्यो भवेन् तदा ।\nभौमेक्षिते कारकांशे भानुस्वर्भानुसंयुते",
+      "english_meaning": "If joined with auspicious Shadvargas, then becomes a physician for poisons. If Mars aspects Sun and Rahu in Karakamsha...",
+      "hindi_meaning": "यदि शुभ षड्वर्गों से युक्त हो, तो विष-वैद्य होता है। यदि मंगल कारकांश में स्थित सूर्य और राहु को देखता हो..."
+    },
+    {
+      "number": 21,
+      "text": "अन्यग्र्हा न पश्यन्ति स्ववेश्मपरदाहकः ।\nतस्मिन् बुधेक्षि ते चापि वह्निदो नैव जायते",
+      "english_meaning": "And other planets do not aspect, he burns his own house. If Mercury also aspects, he does not burn it.",
+      "hindi_meaning": "और अन्य ग्रह न देखते हों, तो वह अपना ही घर जला देता है। यदि बुध भी देखता हो, तो वह घर नहीं जलाता।"
+    },
+    {
+      "number": 22,
+      "text": "पापर्क्षे गुरुणा दृष्टे समीपगृहदाहकः ।\nशुक्रदृष्टे तु विप्रेन्द्र गृहदाहो न जायते",
+      "english_meaning": "If aspected by Jupiter in a malefic sign, he burns a nearby house. If aspected by Venus, house burning does not occur.",
+      "hindi_meaning": "यदि पाप राशि में गुरु से दृष्ट हो, तो समीप का घर जलाता है। यदि शुक्र से दृष्ट हो, तो घर नहीं जलता।"
+    },
+    {
+      "number": 23,
+      "text": "गुलिकेन युते स्वांशे पूर्णचन्द्रेण वीक्षिते ।\nचौरैर्हृतधनो जातः स्वयं चौरोऽथवा भवेत्",
+      "english_meaning": "If Gulika is in Karakamsha and aspected by full Moon, his wealth is stolen by thieves, or he himself becomes a thief.",
+      "hindi_meaning": "यदि कारकांश में गुलिक हो और पूर्ण चन्द्र से दृष्ट हो, तो उसका धन चोरों द्वारा हर लिया जाता है, या वह स्वयं चोर होता है।"
+    },
+    {
+      "number": 24,
+      "text": "गृहादृष्टे सगुलिके विपदो वा विषैर्हतः ।\nबुधदृष्टे बृहद्वीजो जायते नाऽत्र संशयः",
+      "english_meaning": "If Gulika in Karakamsha is aspected by Mercury, he suffers from hydrocele (large testicles) without doubt.",
+      "hindi_meaning": "यदि कारकांश में गुलिक को बुध देखता हो, तो जातक को निश्चय ही अण्डवृद्धि (बृहतबीज) रोग होता है।"
+    },
+    {
+      "number": 25,
+      "text": "सकेतौ कारकांशे च पापदृष्टे द्विजोत्तम ।\nजातस्य कर्णरोगो वा कर्णच्छेदः प्रजायते",
+      "english_meaning": "If Ketu is in Karakamsha and aspected by malefics, the person suffers from ear diseases or his ears are cut.",
+      "hindi_meaning": "यदि कारकांश में केतु हो और पाप ग्रहों से दृष्ट हो, तो जातक को कान का रोग होता है या कान कट जाते हैं।"
+    },
+    {
+      "number": 26,
+      "text": "भृगुपुत्रेक्षिते तस्मिन् दीक्षितो जायते जनः ।\nबुधार्किदृष्टे निर्वीर्यो जायते मानवो ध्रुवम्",
+      "english_meaning": "If aspected by Venus, he becomes an initiated person (Dikshita). If aspected by Mercury or Saturn, he becomes impotent.",
+      "hindi_meaning": "यदि शुक्र से दृष्ट हो, तो वह दीक्षित (ज्ञानी) होता है। बुध और शनि से दृष्ट होने पर वह निश्चय ही वीर्यहीन (नपुंसक) होता है।"
+    },
+    {
+      "number": 27,
+      "text": "बुधशुक्रेक्षिते तस्मिन् दासीपुत्रः प्रजायते ।\nपुनर्भवासुतो वाऽपि जायते नाऽत्र संशयः",
+      "english_meaning": "If aspected by Mercury and Venus, he is born of a maidservant or a remarried woman without doubt.",
+      "hindi_meaning": "यदि बुध और शुक्र से दृष्ट हो, तो वह दासी का पुत्र या पुनर्विवाहित स्त्री का पुत्र होता है।"
+    },
+    {
+      "number": 28,
+      "text": "तपस्वी सनिना दृष्टे जातः प्रेष्योऽथवा भवेत् ।\nशनिमात्रेक्षिते तस्मिन् जातः संन्यासिवेषवान्",
+      "english_meaning": "If aspected by Saturn, he becomes an ascetic or a servant. If only Saturn aspects, he wears the dress of a Sanyasi.",
+      "hindi_meaning": "यदि शनि से दृष्ट हो, तो तपस्वी या सेवक होता है। केवल शनि की दृष्टि होने पर वह संन्यासी का वेष धारण करता है।"
+    },
+    {
+      "number": 29,
+      "text": "रविसुक्रेक्षिते तस्मिन् राजप्रेष्यो जनो भवेत् ।\nइतिसंक्षेपतः प्रोक्तं कारकांशफलं द्विज",
+      "english_meaning": "If aspected by Sun and Venus, he becomes a royal servant. Thus, the effects of Karakamsha are told in brief.",
+      "hindi_meaning": "यदि सूर्य और शुक्र से दृष्ट हो, तो वह राज-सेवक होता है। इस प्रकार कारकांश का फल संक्षेप में कहा गया है।"
+    },
+    {
+      "number": 30,
+      "text": "स्वांशाद्धने च शुक्रारवर्गे स्यात् पारदारिकः ।\nतयोर्दृग्योगतो ज्ञेयमिदमामरणं फलम्",
+      "english_meaning": "If the 2nd from Karakamsha is in the vargas of Venus or Mars, he is an adulterer. The extent of this effect depends on aspects.",
+      "hindi_meaning": "यदि कारकांश से दूसरे भाव में शुक्र या मंगल का वर्ग हो, तो वह परस्त्रीगामी होता है। यह फल जीवन भर दृष्टि और योग के अनुसार होता है।"
+    },
+    {
+      "number": 31,
+      "text": "केतौ तत्प्रतिबन्धः स्यात् गुरौ तु स्रैण एव सः ।\nराहौ चाऽर्थनिवृत्तिः स्यात् कारकांशाद् द्वितीयगे",
+      "english_meaning": "Ketu in the 2nd causes obstruction to this; Jupiter makes him devoted to his wife; Rahu causes loss of wealth.",
+      "hindi_meaning": "दूसरे में केतु होने पर इसमें रुकावट आती है; गुरु होने पर वह पत्नीभक्त होता है; राहु होने पर धन की हानि होती है।"
+    },
+    {
+      "number": 32,
+      "text": "स्वांशात् तृतीयगे पापे जातः शूरः प्रतापवान् ।\nतस्मिन् शुभग्रहे जातः कातरो नात्र संशयः",
+      "english_meaning": "Malefics in the 3rd from Karakamsha make one brave and valorous. Benefics there make one timid without doubt.",
+      "hindi_meaning": "कारकांश से तीसरे भाव में पाप ग्रह होने पर जातक शूर और प्रतापी होता है। शुभ ग्रह होने पर वह निश्चय ही डरपोक होता है।"
+    },
+    {
+      "number": 33,
+      "text": "स्वांशाच्चतुर्थभावे तु चन्द्रशुक्रयुतेक्षिते ।\nतत्र वा स्वोच्चगे खेटे जातः प्रासादवान् भवेत्",
+      "english_meaning": "In the 4th from Karakamsha, if Moon and Venus are present or aspect, or if a planet is in exaltation, one gets a palace-like house.",
+      "hindi_meaning": "कारकांश से चौथे भाव में चन्द्र और शुक्र हों या देखते हों, या वहाँ कोई उच्च का ग्रह हो, तो जातक महल जैसा घर प्राप्त करता है।"
+    },
+    {
+      "number": 34,
+      "text": "शनिराहुयुते तस्मैन् जातस्य च शिलागृहम् ।\nऐष्टिकं कुजकेतुभ्यां गुरुणा दारवं गृहम्",
+      "english_meaning": "Saturn and Rahu there give a stone house. Mars and Ketu give a brick house. Jupiter gives a wooden house.",
+      "hindi_meaning": "वहाँ शनि और राहु होने पर पत्थरों का घर, मंगल और केतु से ईंटों का घर और गुरु से लकड़ी का घर मिलता है।"
+    },
+    {
+      "number": 35,
+      "text": "तार्ण तु रविणा प्रोक्तं जातस्य भवनं द्विज ।\nचन्द्रे त्वनावृते देशे पत्नीयूगः प्रजायते",
+      "english_meaning": "Sun gives a house made of grass. With Moon, one gets a house in an open place.",
+      "hindi_meaning": "सूर्य से घास-फूस का घर मिलता है। चन्द्रमा होने पर खुले स्थान में घर मिलता है।"
+    },
+    {
+      "number": 36,
+      "text": "पञ्चमे कुजराहुभ्यां क्षयरोगस्य संभवः ।\nरात्रिनाथेन दृष्टाभ्यां निश्चयेन प्रजायते",
+      "english_meaning": "Mars and Rahu in the 5th cause tuberculosis, certainly if aspected by Moon.",
+      "hindi_meaning": "पाँचवें भाव में मंगल और राहु होने पर क्षय (टी.बी.) रोग होता है, चन्द्रमा की दृष्टि होने पर यह निश्चित है।"
+    },
+    {
+      "number": 37,
+      "text": "कुजदृष्टौ तु जातस्य पिटकादिगदो भवेत् ।\nकेतुदृष्टौ तु ग्रहणी जलरोगोऽथवा द्विज",
+      "english_meaning": "Mars aspecting there causes boils etc. Ketu aspecting causes dysentery or water diseases.",
+      "hindi_meaning": "मंगल की दृष्टि से फुंसियाँ आदि होती हैं। केतु की दृष्टि से संग्रहणी या जल रोग होता है।"
+    },
+    {
+      "number": 38,
+      "text": "सराहुगुलिके तत्र भयं क्षुदविषोद्भवम् ।\nबुधे परमहंसश्च लगुडी वा प्रजायते",
+      "english_meaning": "Rahu and Gulika there cause fear from small poisons. Mercury makes one a Parahamsa or a staff-bearer.",
+      "hindi_meaning": "राहु और गुलिक होने पर क्षुद्र विष से भय होता है। बुध होने पर वह परमहंस या दण्डी संन्यासी होता है।"
+    },
+    {
+      "number": 39,
+      "text": "रवौ खड्गधरो जातः कुजे कुन्तायुधी भवेत् ।\nशनौ धनुर्धरो ज्ञेयो राहौ च लोहयन्त्रवान्",
+      "english_meaning": "Sun makes one a sword-bearer, Mars a spear-bearer, Saturn an archer, Rahu an iron-worker.",
+      "hindi_meaning": "सूर्य होने पर तलवार चलाने वाला, मंगल से भाला चलाने वाला, शनि से धनुर्धर और राहु से लोहे के यन्त्र का काम करने वाला होता है।"
+    },
+    {
+      "number": 40,
+      "text": "केतौ च घटिकायन्त्री मानवो जायते द्विज ।\nभार्गवे तु कविर्वाग्मी काव्यज्ञो जायते जनः",
+      "english_meaning": "Ketu makes one a clock-maker. Venus makes one a poet, orator, or knowledgeable in poetry.",
+      "hindi_meaning": "केतु होने पर घड़ी बनाने वाला। शुक्र होने पर वह कवि, वाग्मी या काव्य का ज्ञाता होता है।"
+    },
+    {
+      "number": 41,
+      "text": "स्वांशे तत्पञ्चमे वाऽपि चन्द्रेज्याभ्यां च ग्रन्थकृत् ।\nशुक्रेण किञ्चिदूनोऽसौ ततोऽप्यल्पो बुधेन च",
+      "english_meaning": "Moon and Jupiter in Karakamsha or 5th make one an author. Venus makes him slightly less, Mercury even less.",
+      "hindi_meaning": "कारकांश या उसके पाँचवें में चन्द्र और गुरु होने पर जातक ग्रन्थकर्ता होता है। शुक्र से कुछ कम और बुध से उससे भी कम।"
+    },
+    {
+      "number": 42,
+      "text": "गुरुणा केवलेनैव सर्वविद् ग्रन्थकृत् तथा ।\nवेदवेदान्तविच्चापि न वाग्मी शाब्दकोऽपि सन्",
+      "english_meaning": "Only Jupiter makes one all-knowing, an author, and knower of Vedas and Vedanta, even if not an orator.",
+      "hindi_meaning": "केवल गुरु होने पर वह सर्वज्ञ, ग्रन्थकर्ता और वेद-वेदान्त का ज्ञाता होता है, चाहे वह सभा में बोलने वाला न हो।"
+    },
+    {
+      "number": 43,
+      "text": "नैयायिकः कुजेनासौ ज्ञेन मीमांसकस्तथा ।\nसभाजडस्तु शनिना गीतज्ञो रविणा स्मृतः",
+      "english_meaning": "Mars makes one a logician (Naiyayika), Mercury a Mimamsaka. Saturn makes one dull in assembly, Sun a musician.",
+      "hindi_meaning": "मंगल से नैयायिक (तर्कशास्त्री), बुध से मीमांसक होता है। शनि से सभा में जड़ और सूर्य से संगीत का ज्ञाता होता है।"
+    },
+    {
+      "number": 44,
+      "text": "चन्द्रेण सांख्ययोगज्ञः साहित्यज्ञश्च गायकः ।\nकेतुना गणितज्ञोऽसौ राहणाऽपि तथैव च",
+      "english_meaning": "Moon makes one a knower of Sankhya Yoga, literature, and a singer. Ketu or Rahu also make one a mathematician.",
+      "hindi_meaning": "चन्द्रमा से सांख्य योग का ज्ञाता, साहित्यज्ञ और गायक होता है। केतु या राहु से वह गणितज्ञ होता है।"
+    },
+    {
+      "number": 45,
+      "text": "सप्रदायस्य सिध्हिः स्यात् गुरुसम्बन्धतो द्विज ।\nस्वांशाद् द्वितीयतः केचित् फलमेवं वदन्ति हि",
+      "english_meaning": "Attainment of a tradition/sect happens from Jupiter's connection. Some say these effects from the 2nd house from Karakamsha.",
+      "hindi_meaning": "गुरु के सम्बन्ध से सम्प्रदाय की सिद्धि होती है। कुछ लोग ये फल कारकांश से दूसरे भाव से भी कहते हैं।"
+    },
+    {
+      "number": 46,
+      "text": "स्वांशात् षष्ठगते पापे कर्षको जायते जनः ।\nशुभग्रहेऽलसश्चेति तृतीयेऽपि फलं स्मृतम्",
+      "english_meaning": "Malefics in the 6th from Karakamsha make one a farmer. Benefics make one lazy. Same for 3rd.",
+      "hindi_meaning": "कारकांश से छठे भाव में पाप ग्रह होने पर जातक किसान होता है। शुभ ग्रह होने पर आलसी। तीसरे में भी यही फल है।"
+    },
+    {
+      "number": 47,
+      "text": "द्यूने चन्द्रगुरु यस्य भार्या तस्यातिसुन्दरी ।\nतत्र कामवती शुक्रे बुधे चैव कलावती",
+      "english_meaning": "Moon and Jupiter in the 7th from Karakamsha give a very beautiful wife. Venus makes her lustful, Mercury skillful in arts.",
+      "hindi_meaning": "कारकांश से सातवें भाव में चन्द्र और गुरु होने पर पत्नी अति सुन्दरी होती है। शुक्र से कामी और बुध से कलावती होती है।"
+    },
+    {
+      "number": 48,
+      "text": "रवौ च स्वकुले गुप्ता शनौ चापि वयोऽधिका ।\nतपस्विनी रुजाढ्य वा राहौ च विधवा स्मृता",
+      "english_meaning": "Sun makes her secluded in family, Saturn elderly or sickly/ascetic. Rahu makes her a widow.",
+      "hindi_meaning": "सूर्य से कुल में गुप्त रहने वाली, शनि से अधिक आयु वाली या रोगी/तपस्विनी। राहु से वह विधवा मानी जाती है।"
+    },
+    {
+      "number": 49,
+      "text": "शुभस्वामियुते रन्ध्रे स्वांशाद् दीर्घायुरुच्यते ।\nपापेक्षितयुतेऽल्पायुर्मध्यायुर्मिश्रदृग्युते",
+      "english_meaning": "Benefic lord in the 8th from Karakamsha gives long life. Malefic connection gives short life, mixed gives medium life.",
+      "hindi_meaning": "कारकांश से आठवें में शुभ स्वामी होने पर दीर्घायु होती है। पाप योग से अल्पायु और मिश्रित दृष्टि से मध्यायु होती है।"
+    },
+    {
+      "number": 50,
+      "text": "कारकांशाच्च नवमे शुभग्रहयुतेक्षित ।\nसत्यवादी गुरौ भक्तः स्वधर्मनिरतो नरः",
+      "english_meaning": "Benefics in the 9th from Karakamsha make one truthful, devoted to Guru, and fixed in his dharma.",
+      "hindi_meaning": "कारकांश से नौवें भाव में शुभ ग्रह होने पर जातक सत्यवादी, गुरु का भक्त और अपने धर्म में लगा रहने वाला होता है।"
+    },
+    {
+      "number": 51,
+      "text": "स्वांशाच्च नवमे भावे पापग्रहयुतेक्षिते ।\nस्वधर्मनिरतो बाल्ये मिथ्यावादी च वार्धके",
+      "english_meaning": "Malefics in the 9th from Karakamsha make one follow dharma in childhood but become a liar in old age.",
+      "hindi_meaning": "कारकांश से नौवें भाव में पाप ग्रह होने पर जातक बचपन में धर्मपरायण होता है, लेकिन बुढ़ापे में झूठ बोलने वाला हो जाता है।"
+    },
+    {
+      "number": 52,
+      "text": "नवमे कारकांशाच्च शनिराहुयुतेक्षिते ।\nगुरुद्रोही भवेद् बालः शास्त्रेषु विमुखो नरः",
+      "english_meaning": "Saturn and Rahu in the 9th from Karakamsha make one a hater of Gurus and averse to Shastras.",
+      "hindi_meaning": "कारकांश से नौवें में शनि और राहु होने पर जातक गुरुओं का द्वेषी और शास्त्रों से विमुख होता है।"
+    },
+    {
+      "number": 53,
+      "text": "कारकांशाच्च नवमे गुरुभानुयुतेक्षिते ।\nतदाऽपि गुरुद्रोही स्यात् गुरुवाक्यं न मन्यते",
+      "english_meaning": "Sun and Jupiter in the 9th from Karakamsha also make one a hater of Gurus; he does not follow Guru's words.",
+      "hindi_meaning": "कारकांश से नौवें में सूर्य और गुरु होने पर भी गुरुद्रोही होता है और गुरु के वचनों को नहीं मानता।"
+    },
+    {
+      "number": 54,
+      "text": "कारकांशाच्च नवमे शुक्रभौमयुतेक्षिते ।\nषड्वर्गादिकयोगे तु मरणं पारदारिकम्",
+      "english_meaning": "Venus and Mars in the 9th from Karakamsha cause death due to adultery (in certain yogas).",
+      "hindi_meaning": "कारकांश से नौवें में शुक्र और मंगल होने पर (विशेष योगों में) परस्त्री गमन के कारण मृत्यु होती है।"
+    },
+    {
+      "number": 55,
+      "text": "कारकांशाच्च नवमे ज्ञेन्दुयुक्तेक्षिते द्विज ।\nपरस्त्री सङ्गमाद् बालो बन्धको भवति ध्रुवम्",
+      "english_meaning": "Mercury and Moon in the 9th from Karakamsha make one a prisoner due to connection with other's wives.",
+      "hindi_meaning": "कारकांश से नौवें में बुध और चन्द्र होने पर जातक परस्त्री संसर्ग के कारण बन्धन में पड़ता है।"
+    },
+    {
+      "number": 56,
+      "text": "नवमे केवलेनैवे गुरुणा च युतेक्षिते ।\nस्त्रीलोतुपो भवेज्जातो विषयी चैव जायते",
+      "english_meaning": "Jupiter alone in the 9th from Karakamsha makes one lustful and addicted to sensual pleasures.",
+      "hindi_meaning": "नौवें में केवल गुरु के होने या दृष्ट होने पर जातक स्त्री-लोलुप और विषयी होता है।"
+    },
+    {
+      "number": 57,
+      "text": "कारकांशाच्च दशमे शुभल्हेटयुतेक्षिते ।\nस्थिरवित्तो भवेद् बालो गम्भीरो बलबुद्धिमान्",
+      "english_meaning": "Benefics in the 10th from Karakamsha make one wealthy, grave, strong, and intelligent.",
+      "hindi_meaning": "कारकांश से दसवें भाव में शुभ ग्रह होने पर जातक स्थिर लक्ष्मी वाला, गम्भीर, बली और बुद्धिमान होता है।"
+    },
+    {
+      "number": 58,
+      "text": "दशमे कारकांशाच्च पापखेटयुतेक्षिते ।\nव्यापारे जायते हानिः पितृसौख्येन वर्जितः",
+      "english_meaning": "Malefics in the 10th from Karakamsha cause loss in business and lack of happiness from father.",
+      "hindi_meaning": "कारकांश से दसवें में पाप ग्रह होने पर व्यापार में हानि होती है और पिता के सुख से वंचित होता है।"
+    },
+    {
+      "number": 59,
+      "text": "दशमे कारकांशाच्च बुधशुक्रयुतेक्षिते ।\nव्यापारे बहुलाभश्च महत्कर्मकओर् नरः",
+      "english_meaning": "Mercury and Venus in the 10th from Karakamsha give great gains in business and make one do great deeds.",
+      "hindi_meaning": "कारकांश से दसवें में बुध और शुक्र होने पर व्यापार में बहुत लाभ होता है और जातक महान कार्य करने वाला होता है।"
+    },
+    {
+      "number": 60,
+      "text": "कारकांशाच्च दशमे रविचन्द्रयुतेक्षिते ।\nगुरुदृष्टयुते विप्र जातको राज्यभाग् भवेत्",
+      "english_meaning": "Sun and Moon in the 10th from Karakamsha, aspected by Jupiter, make one a king.",
+      "hindi_meaning": "कारकांश से दसवें में सूर्य और चन्द्र हों और गुरु से दृष्ट हों, तो जातक राजा होता है।"
+    },
+    {
+      "number": 61,
+      "text": "स्वांशादेकादशे स्थाने शुभखेटयुतेक्षिते ।\nभ्रातृसौख्ययुतो बालः सर्वकार्येषु लाभकृत्",
+      "english_meaning": "Benefics in the 11th from Karakamsha give happiness from brothers and gains in all works.",
+      "hindi_meaning": "कारकांश से ग्यारहवें भाव में शुभ ग्रह होने पर जातक को भाइयों का सुख मिलता है और सब कार्यों में लाभ होता है।"
+    },
+    {
+      "number": 62,
+      "text": "एकादशे सपापे तु कुमार्गाल्लाबकृन्नरः ।\nविख्यातो विक्रमी चैव जायते नाऽत्र संशयः",
+      "english_meaning": "Malefics in the 11th from Karakamsha give gains from bad paths. The person is famous and valorous.",
+      "hindi_meaning": "ग्यारहवें में पाप ग्रह होने पर कुमार्ग से लाभ होता है। वह विख्यात और पराक्रमी होता है।"
+    },
+    {
+      "number": 63,
+      "text": "कारकांशाद् व्ययस्थाने सद्ग्रहे सद्व्ययो भवेत् ।\nअसद्व्ययोऽशुभे ज्ञयो ग्रहाभावे च सत्फलम्",
+      "english_meaning": "Benefics in the 12th from Karakamsha give good expenditure. Malefics give bad expenditure. If no planet, good results.",
+      "hindi_meaning": "कारकांश से बारहवें भाव में शुभ ग्रह होने पर शुभ व्यय होता है। पाप ग्रह से अशुभ व्यय और ग्रह न होने पर शुभ फल होता है।"
+    },
+    {
+      "number": 64,
+      "text": "कारकांशाद् व्ययस्थाने स्वभोच्चस्थे शुभग्रहे ।\nसद्गतिर्जायते तस्य शुभलोकमवाप्नुयात्",
+      "english_meaning": "Benefic in own or exaltation sign in the 12th from Karakamsha gives good end (Sadgati) and attainment of auspicious worlds.",
+      "hindi_meaning": "कारकांश से बारहवें में शुभ ग्रह अपने स्वराशि या उच्च राशि में हो, तो उसे सद्गति और शुभ लोकों की प्राप्ति होती है।"
+    },
+    {
+      "number": 65,
+      "text": "कारकांशाद् व्यये केतौ शुभखेटयुतेक्षिते ।\nतदा तु जायते मुक्तिः सायुज्यपदमाप्नुयात्",
+      "english_meaning": "Ketu in the 12th from Karakamsha, joined or aspected by benefics, gives liberation (Mukti/Sayujya).",
+      "hindi_meaning": "कारकांश से बारहवें में केतु हो और शुभ ग्रहों से युक्त या दृष्ट हो, तो जातक को मुक्ति और सायुज्य पद प्राप्त होता है।"
+    },
+    {
+      "number": 66,
+      "text": "मेषे धनुषि वा केतौ कारकांशात् व्यये स्थिते ।\nशुभखेटेन सन्दृष्टे सायुजपदमाप्नुयात्",
+      "english_meaning": "Ketu in Aries or Sagittarius in the 12th from Karakamsha, aspected by benefics, gives Sayujya (oneness with God).",
+      "hindi_meaning": "मेष या धनु राशि के केतु के कारकांश से बारहवें भाव में होने और शुभ ग्रहों से दृष्ट होने पर सायुज्य पद मिलता है।"
+    },
+    {
+      "number": 67,
+      "text": "व्यये च केवले केतौ पापयुक्तेक्षितेपि वा ।\nन तदा जायते मुक्तिः शुभलोकं न पश्यति",
+      "english_meaning": "Ketu alone in the 12th or joined/aspected by malefics does not give liberation; one does not see the auspicious worlds.",
+      "hindi_meaning": "बारहवें में केवल केतु होने या पाप ग्रहों से युक्त/दृष्ट होने पर मुक्ति नहीं होती और वह शुभ लोकों को नहीं देख पाता।"
+    },
+    {
+      "number": 68,
+      "text": "रविणा संयुते केतौ कारकांशाद् व्ययस्थिते ।\nशिवभक्तिर्भवेस्यत्त निर्विशंकं द्विजोत्तम",
+      "english_meaning": "Sun and Ketu in the 12th from Karakamsha give devotion to Shiva.",
+      "hindi_meaning": "कारकांश से बारहवें में सूर्य और केतु होने पर जातक की शिव में भक्ति होती है।"
+    },
+    {
+      "number": 69,
+      "text": "चन्द्रेण संयुते केतौ कारकांशाद् व्ययस्थिते ।\nगौर्यां भक्तिर्भवेत्तस्य शाक्तिको जायते नरः",
+      "english_meaning": "Moon and Ketu in the 12th from Karakamsha give devotion to Gauri (Shakti).",
+      "hindi_meaning": "कारकांश से बारहवें में चन्द्र और केतु होने पर गौरी (शक्ति) में भक्ति होती है और जातक शाक्त होता है।"
+    },
+    {
+      "number": 70,
+      "text": "शुक्रेण संयुते केतौ कारकांशाद् व्ययस्थिते ।\nलक्ष्म्यां सञ्जायते भक्तिर्जातको सौ समृद्धिमान्",
+      "english_meaning": "Venus and Ketu in the 12th from Karakamsha give devotion to Lakshmi; the person is prosperous.",
+      "hindi_meaning": "कारकांश से बारहवें में शुक्र और केतु होने पर लक्ष्मी में भक्ति होती है और जातक समृद्ध होता है।"
+    },
+    {
+      "number": 71,
+      "text": "कुजेन संयुते केतौ स्कन्दभक्तौ भवेन्नरः ।\nवैष्णवो बुधसौरिभ्यां गुरुणा शिवभक्तिमान्",
+      "english_meaning": "Mars and Ketu give devotion to Skanda. Mercury and Saturn give devotion to Vishnu. Jupiter gives devotion to Shiva.",
+      "hindi_meaning": "मंगल और केतु से स्कन्द (कार्तिकेय) में भक्ति होती है। बुध और शनि से वैष्णव और गुरु से शिव भक्त होता है।"
+    },
+    {
+      "number": 72,
+      "text": "राहुणा तामसीं दुर्गां सेवते क्षुद्रदेवताम् ।\nभक्तिः स्कन्देऽथ हेरभ्भे शिखिना केवलेन वा",
+      "english_meaning": "Rahu gives devotion to Tamasic Durga or petty deities. Ketu alone gives devotion to Skanda or Ganesha.",
+      "hindi_meaning": "राहु से तामसी दुर्गा या क्षुद्र देवताओं की सेवा करता है। केवल केतु से स्कन्द या गणेश (हेरम्भ) में भक्ति होती है।"
+    },
+    {
+      "number": 73,
+      "text": "कारकांशाद् व्यये सौरिः पापराशौ यदा भवेत् ।\nतदाऽपि क्षुद्रदेवस्य भक्तिस्तस्य न संशयः",
+      "english_meaning": "Saturn in a malefic sign in the 12th from Karakamsha gives devotion to petty deities.",
+      "hindi_meaning": "कारकांश से बारहवें में पाप राशि का शनि होने पर भी क्षुद्र देवताओं में भक्ति होती है।"
+    },
+    {
+      "number": 74,
+      "text": "पापर्क्षेऽपि शनौ सुक्रे तदाऽपि क्षुद्रसेवकः ।\nअमात्यकारकात् षष्ठेप्तेवमेव फलं वदेत्",
+      "english_meaning": "Saturn and Venus in a malefic sign also make one a servant of petty deities. Similar results from the 6th of Amatyakaraka.",
+      "hindi_meaning": "पाप राशि में शनि और शुक्र होने पर भी क्षुद्रों का सेवक होता है। अमात्यकारक से छठे भाव से भी ऐसा ही फल कहें।"
+    },
+    {
+      "number": 75,
+      "text": "कारकांशात् त्रिकोणस्थे पापखेतद्वये द्विज ।\nमानवो मन्त्रतन्त्रज्ञो जायते नाऽत्र संशयः",
+      "english_meaning": "Two malefics in Trikona from Karakamsha make one an expert in Mantras and Tantras.",
+      "hindi_meaning": "कारकांश से त्रिकोण में दो पाप ग्रह होने पर जातक मन्त्र और तन्त्र का ज्ञाता होता है।"
+    },
+    {
+      "number": 76,
+      "text": "पापेन वीक्षिते तत्र जातो निग्राहको भवेत् ।\nशुभैर्निरीक्षिते तस्मिन् नरोऽनुग्राहको भवेत्",
+      "english_meaning": "If aspected by malefics, he uses it for harm (Nigraha). If by benefics, for blessing (Anugraha).",
+      "hindi_meaning": "वहाँ पाप दृष्टि होने पर वह दूसरों का निग्रह (अहित) करने वाला और शुभ दृष्टि होने पर अनुग्रह (कल्याण) करने वाला होता है।"
+    },
+    {
+      "number": 77,
+      "text": "शुक्रदृष्टे विधौ स्वांशे रसवादी भवेन्नरः ।\nबुधदृष्टे च सद्वैद्यः सर्वरोगहरो भवेत्",
+      "english_meaning": "Moon in Karakamsha aspected by Venus makes one an alchemist. Aspected by Mercury, a good physician.",
+      "hindi_meaning": "कारकांश में चन्द्रमा पर शुक्र की दृष्टि होने पर जातक रसवादी और बुध की दृष्टि होने पर सर्वरोगहारी वैद्य होता है।"
+    },
+    {
+      "number": 78,
+      "text": "शुक्रदृष्टे सुखे चन्द्रे पाण्डुश्वित्री भवेन्नरः ।\nभौमदृष्टे महारोगी रक्तपित्तार्दितो भवेत्",
+      "english_meaning": "Moon in the 4th from Karakamsha aspected by Venus causes leprosy or white spots. Aspected by Mars, causes blood disorders.",
+      "hindi_meaning": "कारकांश से चौथे में चन्द्र पर शुक्र की दृष्टि से कोढ़ या सफेद दाग होता है। मंगल की दृष्टि से रक्तपित्त आदि महारोग होते हैं।"
+    },
+    {
+      "number": 79,
+      "text": "केतुदृष्टे सुखे चंद्रे नीलकुष्ठी प्रजायते ।\nचतुर्थे पञ्चमेवाऽहि स्थितौ राहुकुजौ यदि",
+      "english_meaning": "Aspected by Ketu, causes blue leprosy. Rahu and Mars in the 4th or 5th from Karakamsha...",
+      "hindi_meaning": "केतु की दृष्टि से नीला कुष्ठ होता है। कारकांश से चौथे या पाँचवें में राहु और मंगल होने पर..."
+    },
+    {
+      "number": 80,
+      "text": "क्षयरोगो भवेत् तस्य चन्द्रदृष्टौ तु निश्चितः ।\nस्वांशात् सुखे सुते वाऽपि केवलः संस्थितः कुजः",
+      "english_meaning": "Cause tuberculosis, certainly if aspected by Moon. Mars alone causes boils etc.",
+      "hindi_meaning": "निश्चय ही क्षय (टी.बी.) रोग होता है, यदि चन्द्रमा देखता हो। केवल मंगल के होने से फुंसियाँ आदि रोग होते हैं।"
+    },
+    {
+      "number": 81,
+      "text": "पिट्कादिर्भवेत् तस्य तदा रोगो न संशयः ।\nग्रहणी जलरोगो वा तत्र केतौ स्थिते सति",
+      "english_meaning": "Ketu there causes dysentery or water diseases. Rahu and Gulika make one a poison-physician or afflicted by poison.",
+      "hindi_meaning": "वहाँ केतु होने पर संग्रहणी या जल रोग होता है। राहु और गुलिक होने पर विष-वैद्य होता है या स्वयं विष से पीड़ित।"
+    },
+    {
+      "number": 82,
+      "text": "स्वर्भानुगुलिकौ तत्र विषवैद्यो विषार्दितः ।\nस्वांशकात् पञ्चमे भावे केवले संस्थिते शनौ",
+      "english_meaning": "Saturn alone in the 5th makes one an archer. Ketu alone makes one a clock-maker.",
+      "hindi_meaning": "कारकांश से पाँचवें भाव में केवल शनि होने पर जातक धनुर्विद्या में कुशल होता है। केवल केतु से घड़ी बनाने वाला।"
+    },
+    {
+      "number": 83,
+      "text": "धनुर्विद्याविदा जाता भवन्त्यत्र न संशयः ।\nकेतौ च केवले तत्र घटिकायन्त्रकारकः",
+      "english_meaning": "Mercury makes one a monk or staff-bearer. Rahu an iron-worker. Sun a sword-bearer.",
+      "hindi_meaning": "बुध से परमहंस या दण्डी संन्यासी, राहु से लोहे के यन्त्र का काम करने वाला और सूर्य से तलवार चलाने वाला होता है।"
+    },
+    {
+      "number": 84,
+      "text": "बुधे परमहंसो वा दण्डी भवति मानवः ।\nलोहयन्त्री तथा राहौ रवौ खेड्गधरो भवेत्",
+      "english_meaning": "Mars alone makes one a spear-bearer. Moon and Jupiter in Karakamsha or 5th...",
+      "hindi_meaning": "पाँचवें में केवल मंगल होने पर वह कुन्तास्त्र (भाला) धारण करने वाला होता है। कारकांश या उसके पाँचवें में चन्द्र और गुरु होने पर..."
+    },
+    {
+      "number": 85,
+      "text": "केवले च कुजे तत्र जातः कुन्तास्त्रधारकः ।\nस्वांशे वा पञ्चमे स्वांशाच्चन्द्रेज्यौ संस्थितौ तदा",
+      "english_meaning": "Make one an author, expert in all sciences. Venus makes him slightly less.",
+      "hindi_meaning": "जातक ग्रन्थकर्ता और सर्वविद्या विशारद होता है। शुक्र होने पर वह कुछ कम ग्रन्थ लिखने वाला होता है।"
+    },
+    {
+      "number": 86,
+      "text": "ग्रन्थकर्ता भवेज्जातः सर्वविद्याविशारदः ।\nतत्र दैत्यगुरौ किञ्चिदूनग्रन्थकरो भवेत्",
+      "english_meaning": "Mercury even less. Venus makes one a poet and orator.",
+      "hindi_meaning": "बुध होने पर उससे भी कम ग्रन्थ लिखने वाला होता है। शुक्र होने पर कवि और वाग्मी (कुशल वक्ता) होता है।"
+    },
+    {
+      "number": 87,
+      "text": "बुधे तत्र ततोऽप्यूनग्रन्थकर्त्ता प्रजायते ।\nतत्र शुक्रे कविर्वाग्मी काव्यज्ञश्च प्रजायते",
+      "english_meaning": "Jupiter makes one all-knowing, an author, and knower of Vedas and Vedanta, even if not an orator.",
+      "hindi_meaning": "गुरु होने पर वह सर्वज्ञ, ग्रन्थकर्ता और वेद-वेदान्त का ज्ञाता होता है, चाहे वह सभा में बोलने वाला न हो।"
+    },
+    {
+      "number": 88,
+      "text": "सर्वविद्ग्रान्थिको जीवे न वाग्मी च सभादिषु ।\nशब्दज्ञश्च विशेषेण वेदवेदान्तवित् तथा",
+      "english_meaning": "Saturn there makes one dull in assembly. Mercury makes one a Mimamsaka.",
+      "hindi_meaning": "उक्त स्थान में शनि होने पर जातक सभा में जड़ होता है। बुध होने पर वह मीमांसा शास्त्र का ज्ञाता होता है।"
+    },
+    {
+      "number": 89,
+      "text": "सभाजडो भवेद् बाल उक्तस्थानगते शनौ ।\nमीमांसको भवेन्नूनमुक्तस्थानगते बुधे",
+      "english_meaning": "Mars makes one a logician. Moon a knower of Sankhya Yoga, literature, and a singer.",
+      "hindi_meaning": "मंगल होने पर नैयायिक (तर्कशास्त्री) होता है। चन्द्रमा से सांख्य योग, साहित्य और संगीत का ज्ञाता होता है।"
+    },
+    {
+      "number": 90,
+      "text": "स्वांशे वा पञ्चमे भौमे जातो नैयायिको भवेत् ।\nचन्द्रे च सांख्ययोगज्ञः साहित्यज्ञश्च गायकः",
+      "english_meaning": "Sun a knower of Vedanta and music. Ketu a mathematician and expert in astrology.",
+      "hindi_meaning": "सूर्य से वेदान्त और संगीत का ज्ञाता होता है। केतु से गणितज्ञ और ज्योतिष शास्त्र में निपुण होता है।"
+    },
+    {
+      "number": 91,
+      "text": "रवौ वेदान्तविच्चैव गीतज्ञश्च प्रजायते ।\nकेतौ च गणितज्ञः स्याज्ज्योतिःशास्त्रविशारदः",
+      "english_meaning": "Attainment of tradition/sect from Jupiter's connection. Consider this from 2nd and 3rd of Karakamsha as well.",
+      "hindi_meaning": "गुरु के सम्बन्ध से सम्प्रदाय की सिद्धि होती है। कारकांश से दूसरे और तीसरे भाव से भी ऐसा विचार करना चाहिए।"
+    },
+    {
+      "number": 92,
+      "text": "सम्प्रदायस्य संसिद्धिर्गुरुसम्बन्धतो भवेत् ।\nद्वितीये च तृतीये च स्वांशादेवं विचारयेत्",
+      "english_meaning": "Declare the results of the native after knowing the subtle effects of the houses. Ketu in 2nd or 3rd makes one speechless.",
+      "hindi_meaning": "भावों के सूक्ष्म फल को जानकर ही जातक का फल कहना चाहिए। दूसरे या तीसरे में केतु होने पर वाणी रुक जाती है (स्तब्धवाक्)।"
+    },
+    {
+      "number": 93,
+      "text": "भावे सूक्ष्मफलं ज्ञात्वा जातकस्य फलं वदेत् ।\nकेतौ स्वांशाद्द्वितीये वा तृतीये स्तब्धवाग् भवेत्",
+      "english_meaning": "Especially with malefic aspect, the person is unable to speak. Kemadruma Yoga occurs from Lagna/Pada/Karakamsha...",
+      "hindi_meaning": "विशेषकर पाप दृष्टि होने पर मनुष्य बोलने में अक्षम होता है। कारकांश, लग्न या पद से दूसरे और आठवें भाव में..."
+    },
+    {
+      "number": 94,
+      "text": "पापदृष्टे विशेषेण मानवो वक्तुमक्षमः ।\nस्वांशाल्लग्नात् पदाद्वाऽपि द्वितीयाष्टमभावयोः",
+      "english_meaning": "If malefics are equal and Moon aspects. The yogas mentioned in this chapter...",
+      "hindi_meaning": "पाप ग्रहों की समानता होने और चन्द्र दृष्टि होने पर अशुभ केमद्रुम योग होता है। इस अध्याय में जो योग मैंने कहे हैं..."
+    },
+    {
+      "number": 95,
+      "text": "केमद्रुमः पापसाम्ये चन्द्रदृष्टौ विशेषतः ।\nअत्राऽध्याये च ये योगाः सफलाः कथिता मया",
+      "english_meaning": "Should be known as fruit-giving at the end of the Dasha of the yoga-causing planet.",
+      "hindi_meaning": "वे सब योग-कर्ता की दशा के अन्त में फल देने वाले होते हैं।"
+    },
+    {
+      "number": 96,
+      "text": "योगकर्तृदशायान्ते ज्ञेयाः सर्वे फलप्रदाः ।\nएवं दशाप्रदाद्राशैर्द्वितीयाष्टमयोर्द्विज",
+      "english_meaning": "Thus, from the signs providing Dashas, if there is malefic equality in 2nd and 8th, it is Kemadruma.",
+      "hindi_meaning": "इसी प्रकार दशा देने वाली राशियों से दूसरे और आठवें में पाप ग्रहों की समानता होने पर अशुभ केमद्रुम योग होता है।"
+    },
+    {
+      "number": 97,
+      "text": "ग्रहसाम्ये च विज्ञेयो योगः केमद्रुमोऽशुभः ।\nदशाप्रारम्भसमये सलग्नान् साधयेद् ग्रहान्",
+      "english_meaning": "At the beginning of the Dasha, one should calculate the planets along with the Lagna.",
+      "hindi_meaning": "दशा के प्रारम्भ के समय लग्न सहित ग्रहों को साधना चाहिए।"
+    },
+    {
+      "number": 98,
+      "text": "ज्ञेयस्तत्रापि योगोऽयं पापसाम्येऽर्थरन्ध्रयोः ।\nएवं तन्वादिभावानां सूर्यादीनां नभसदाम्",
+      "english_meaning": "There also this yoga is known if there is malefic equality in 2nd and 8th. Thus for all houses 1st onwards...",
+      "hindi_meaning": "वहाँ भी दूसरे और आठवें भाव में पाप ग्रहों की समानता होने पर यह योग जानना चाहिए। इस प्रकार तन्वादि भावों और सूर्यादि ग्रहों का..."
+    },
+    {
+      "number": 99,
+      "text": "तत्तत्स्थित्यनुसारेण फलं वाच्यं विपश्चिता ।\nइति संक्षेपतः प्रोक्तं कारकांशफलं मया",
+      "english_meaning": "Results should be told by a wise person according to their positions. Karakamsha effects are thus told by me in brief.",
+      "hindi_meaning": "उनकी स्थिति के अनुसार विद्वान को फल कहना चाहिए। इस प्रकार मेरे द्वारा कारकांश का फल संक्षेप में कहा गया है।"
+    }
+  ]
+}

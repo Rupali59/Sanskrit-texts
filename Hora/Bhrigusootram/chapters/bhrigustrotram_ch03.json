@@ -1,0 +1,558 @@
+{
+  "source": "bhrigustrotram.md",
+  "header": "भृगु सूत्रम्",
+  "chapters": [
+    {
+      "number": 3,
+      "title": "अथ तन्वादिद्वादशभावस्थित भौमफलं",
+      "shlokas": [
+        {
+          "number": "१",
+          "text": "तत्रादौ लग्ने भौमफलं\nदेहे व्रणं भवति",
+          "english_meaning": "Mars in the first house: The native will have scars or wounds on the body.",
+          "hindi_meaning": "प्रथम भाव (लग्न) में मंगल का फल: जातक के शरीर पर घाव या चोट के निशान (व्रण) होते हैं।"
+        },
+        {
+          "number": "२",
+          "text": "दृढगात्रः चौरबुभूषकः बृहन्नाभि रक्तपाणिः\n     क्रूरो बलवान् मूर्खः कोपवान् सभानशौर्य धनवान्\n     चापलवान् चित्तरोगी क्रोधी दुर्जनः",
+          "english_meaning": "He will have a strong physique, a tendency towards theft, a large navel, reddish hands, be cruel, strong, foolish, angry, courageous in assemblies, wealthy, restless, suffer from mental diseases, irritable, and a wicked person.",
+          "hindi_meaning": "वह सुदृढ़ शरीर वाला, चोरी की प्रवृत्ति रखने वाला, बड़ी नाभि वाला, लाल हथेलियों वाला, क्रूर, बलवान, मूर्ख, क्रोधी, सभा में शौर्य प्रदर्शन करने वाला, धनवान, चंचल, मानसिक रोगी, चिड़चिड़ा और दुर्जन (बुरा व्यक्ति) होगा।"
+        },
+        {
+          "number": "३",
+          "text": "स्वोच्चे स्वक्षेत्रे आरोग्यं दृढ्गात्रवान् राजसन्मान कीर्तिः",
+          "english_meaning": "If in its exaltation or own sign, the native will be healthy, have a strong body, receive honors from the king/government, and be famous.",
+          "hindi_meaning": "यदि उच्च का या स्वराशि में हो, तो जातक आरोग्यवान (निरोगी), सुदृढ़ शरीर वाला, राज-सम्मान प्राप्त करने वाला और कीर्तिमान होता है।"
+        },
+        {
+          "number": "४",
+          "text": "दीर्घायुः",
+          "english_meaning": "He will have a long life.",
+          "hindi_meaning": "वह दीर्घायु होगा।"
+        },
+        {
+          "number": "५",
+          "text": "पापशत्रुयुते अल्पायु",
+          "english_meaning": "If associated with malefics or enemies, the native will have a short life.",
+          "hindi_meaning": "यदि पाप ग्रहों या शत्रुओं के साथ हो, तो जातक अल्पायु होता है।"
+        },
+        {
+          "number": "६",
+          "text": "स्वल्पपुत्रवान् वातशूलादिरोगः दुर्मुखः",
+          "english_meaning": "He will have few children, suffer from diseases like wind-colic (Vata-shoola), and have an ugly or foul face.",
+          "hindi_meaning": "वह कम संतान वाला, वात-शूल (वायु दर्द) आदि रोगों से पीड़ित और दुर्मुख (कड़वा बोलने वाला या कुरूप चेहरे वाला) होगा।"
+        },
+        {
+          "number": "७",
+          "text": "स्वोच्चे लग्नर्क्ष धनवान्",
+          "english_meaning": "If in its exaltation in the Lagna, the native will be wealthy.",
+          "hindi_meaning": "यदि लग्न में उच्च का मंगल हो, तो जातक धनवान होता है।"
+        },
+        {
+          "number": "८",
+          "text": "विद्यावान् नेत्रविलासवान्",
+          "english_meaning": "He will be learned and have attractive/expressive eyes.",
+          "hindi_meaning": "वह विद्यावान और सुंदर नेत्रों (नेत्र विलास) वाला होगा।"
+        },
+        {
+          "number": "९",
+          "text": "तत्र पापयुते पापक्षेत्रे पापदृष्टियुते नेत्र रोगः",
+          "english_meaning": "If associated with malefics, in a malefic sign, or aspected by malefics, the native will suffer from eye diseases.",
+          "hindi_meaning": "यदि पाप ग्रहों से युक्त, पाप राशि में या पाप ग्रहों से दृष्ट हो, तो जातक को नेत्र रोग होता है।"
+        },
+        {
+          "number": "१०",
+          "text": "लग्नाद्वितीये भौमफलं\nविद्याहीनः लाभवान्",
+          "english_meaning": "Mars in the second house: The native will be lacking in education but will be gainful.",
+          "hindi_meaning": "द्वितीय भाव में मंगल का फल: जातक विद्याहीन (शिक्षा में कमी वाला) होता है, किंतु उसे लाभ प्राप्त होता है।"
+        },
+        {
+          "number": "११",
+          "text": "पष्ठाधिपेनयुतः तिष्ठति चेन्नेत्रवैपरीत्यं भवति",
+          "english_meaning": "If associated with the lord of the 6th house, there will be eye defects or vision problems.",
+          "hindi_meaning": "यदि षष्ठेश के साथ हो, तो नेत्रों में दोष (तिरछापन या दृष्टि विकार) होता है।"
+        },
+        {
+          "number": "१२",
+          "text": "शुभदृष्टे परिहारः",
+          "english_meaning": "If aspected by benefics, the negative effects (of shloka 11) are neutralized.",
+          "hindi_meaning": "यदि शुभ ग्रहों से दृष्ट हो, तो (नेत्र दोष का) परिहार (निवारण) हो जाता है।"
+        },
+        {
+          "number": "१३",
+          "text": "स्वोच्चे स्वक्षेत्रे विद्यावान्",
+          "english_meaning": "If in its exaltation or own sign, the native will be learned.",
+          "hindi_meaning": "यदि उच्च का या स्वराशि में हो, तो जातक विद्यावान होता है।"
+        },
+        {
+          "number": "१४",
+          "text": "नेत्र विलासः",
+          "english_meaning": "He will have attractive eyes.",
+          "hindi_meaning": "उसके नेत्र सुंदर होंगे।"
+        },
+        {
+          "number": "१५",
+          "text": "तत्र पापयुतेक्षेत्रे पापदृष्टे नेत्ररोगः",
+          "english_meaning": "If associated with or aspected by malefics in a malefic sign, the native will suffer from eye diseases.",
+          "hindi_meaning": "यदि पाप ग्रहों से युक्त या दृष्ट हो, तो जातक को नेत्र रोग होता है।"
+        },
+        {
+          "number": "१६",
+          "text": "लग्नात्तृतीये भौमफलं\nस्वस्त्री व्यभिचारिणी",
+          "english_meaning": "Mars in the third house: The native's own wife may be unchaste or have loose conduct.",
+          "hindi_meaning": "तृतीय भाव में मंगल का फल: जातक की अपनी पत्नी व्यभिचारिणी (चरित्रहीन) हो सकती है।"
+        },
+        {
+          "number": "१७",
+          "text": "शुभदृष्टे न दोष अनुजहीनः",
+          "english_meaning": "If aspected by benefics, the defect (of shloka 16) is not present; however, he will be devoid of younger siblings.",
+          "hindi_meaning": "यदि शुभ ग्रहों से दृष्ट हो, तो (पत्नी दोष) नहीं होता, किंतु जातक अनुज (छोटे भाई-बहनों) से हीन होता है।"
+        },
+        {
+          "number": "१८",
+          "text": "द्रव्यलाभः",
+          "english_meaning": "He will gain wealth.",
+          "hindi_meaning": "उसे द्रव्य (धन) का लाभ होता है।"
+        },
+        {
+          "number": "१९",
+          "text": "राहुकेतुयुते वेश्यासङ्गमः",
+          "english_meaning": "If associated with Rahu or Ketu, the native will have associations with prostitutes/low-class women.",
+          "hindi_meaning": "यदि राहु या केतु के साथ हो, तो जातक वेश्या-गामी होता है।"
+        },
+        {
+          "number": "२०",
+          "text": "भ्रातृद्वेषी क्लेशयुतः शुभगः",
+          "english_meaning": "He will have enmity with his brothers, be troubled by afflictions, but will have a good gait or appearance.",
+          "hindi_meaning": "वह भाइयों से द्वेष करने वाला और क्लेशयुक्त होगा, फिर भी उसकी चाल या स्वरूप सुंदर होगा।"
+        },
+        {
+          "number": "२१",
+          "text": "अल्पसहोदरः",
+          "english_meaning": "He will have few siblings.",
+          "hindi_meaning": "उसके सहोदर (भाई-बहन) कम होंगे।"
+        },
+        {
+          "number": "२२",
+          "text": "पापयुते पापवीक्षणेन भ्रातृनाशः",
+          "english_meaning": "If associated with or aspected by malefics, there will be loss of brothers.",
+          "hindi_meaning": "यदि पाप ग्रहों से युक्त या दृष्ट हो, तो भाइयों का नाश होता है।"
+        },
+        {
+          "number": "२३",
+          "text": "उच्चस्वक्षेत्रे शुभयुते भ्राता दीर्घायुः धैर्यविक्रमवान्",
+          "english_meaning": "If in its exaltation or own sign, or associated with benefics, the native's brothers will have long lives, and he himself will be courageous and powerful.",
+          "hindi_meaning": "यदि उच्च का, स्वराशि का या शुभ ग्रहों से युक्त हो, तो भाई दीर्घायु होते हैं और जातक स्वयं धैर्यवान तथा पराक्रमी होता है।"
+        },
+        {
+          "number": "२४",
+          "text": "युद्धे शूरः",
+          "english_meaning": "He will be brave in battle/conflicts.",
+          "hindi_meaning": "वह युद्ध में शूरवीर होगा।"
+        },
+        {
+          "number": "२५",
+          "text": "पापयुते मित्रक्षेत्रे धृतिमान्",
+          "english_meaning": "If associated with malefics but in a friendly sign, the native will remain firm and resolute.",
+          "hindi_meaning": "यदि पाप ग्रहों के साथ हो किंतु मित्र राशि में हो, तो जातक धृतिमान (धैर्यवान) होता है।"
+        },
+        {
+          "number": "२६",
+          "text": "लग्नाच्चतुर्थे भौमफलं\nग्रहच्छिद्रम्",
+          "english_meaning": "Mars in the fourth house: There will be internal family disputes or 'holes' (flaws) in the household.",
+          "hindi_meaning": "चतुर्थ भाव में मंगल का फल: घर में कलह या पारिवारिक छिद्र (दोष) होते हैं।"
+        },
+        {
+          "number": "२७",
+          "text": "अष्टमे वर्षे पित्रारिष्टं मातृरोगी",
+          "english_meaning": "In the 8th year, there is a risk of father's death or illness, and the mother will be sickly.",
+          "hindi_meaning": "8वें वर्ष में पिता को अरिष्ट (संकट) होता है और माता रोगी रहती है।"
+        },
+        {
+          "number": "२८",
+          "text": "सौम्ययुते परगृहवासः",
+          "english_meaning": "If associated with Mercury (Saumya), the native will reside in other people's houses.",
+          "hindi_meaning": "यदि बुध (सौम्य) के साथ हो, तो जातक दूसरों के घर में निवास करता है।"
+        },
+        {
+          "number": "२९",
+          "text": "निरोगशरीरी क्षेत्रहीनः धनधान्यहीनः जीर्णगृहवासः",
+          "english_meaning": "He will have a disease-free body but be devoid of lands, wealth, and grains, and live in a dilapidated house.",
+          "hindi_meaning": "उसका शरीर निरोगी होगा, किंतु वह भूमि, धन और धान्य से हीन होगा और पुराने/टूटे हुए घर में रहेगा।"
+        },
+        {
+          "number": "३०",
+          "text": "उच्चे स्वक्षेत्रे शुभयुते मित्रक्षेत्रे\n     वाहनवान् क्षेत्रवान् मातृदीर्घायुः",
+          "english_meaning": "If in its exaltation, own sign, or friendly sign, and associated with benefics, the native will possess vehicles and lands, and the mother will have a long life.",
+          "hindi_meaning": "यदि उच्च का, स्वराशि का या मित्र राशि का होकर शुभ ग्रहों से युक्त हो, तो जातक वाहन और भूमि का स्वामी होता है और माता दीर्घायु होती है।"
+        },
+        {
+          "number": "३१",
+          "text": "नीचर्क्षे पापमृत्युयुते मातृनाशः",
+          "english_meaning": "If in its sign of debilitation or associated with death-inflicting malefics, there will be loss of the mother.",
+          "hindi_meaning": "यदि नीच राशि में हो या मृत्युकारक पाप ग्रहों के साथ हो, तो माता का नाश होता है।"
+        },
+        {
+          "number": "३२",
+          "text": "सौम्ययुते वाहन निष्ठावान्",
+          "english_meaning": "If associated with benefics, the native will be dedicated to his vehicles/status.",
+          "hindi_meaning": "यदि शुभ ग्रहों (सौम्य) के साथ हो, तो जातक वाहनों के प्रति निष्ठावान (या सुख प्राप्त करने वाला) होता है।"
+        },
+        {
+          "number": "३३",
+          "text": "बन्धुजनद्वेषी स्वदेशपरित्यागी वस्त्रहीनः",
+          "english_meaning": "He will have enmity with his relatives, desert his own country, and be poorly dressed.",
+          "hindi_meaning": "वह बंधु-बांधवों से द्वेष करने वाला, स्वदेश का त्याग करने वाला और अच्छे वस्त्रों से हीन होगा।"
+        },
+        {
+          "number": "३४",
+          "text": "लग्नात्पञ्चमे भौमफलं\nनिर्धनः पुत्राभावः दुर्मार्गी राजकोपः",
+          "english_meaning": "Mars in the fifth house: The native will be poor, childless, follow an evil path, and incur royal/governmental displeasure.",
+          "hindi_meaning": "पंचम भाव में मंगल का फल: जातक निर्धन, संतानहीन, कुमार्गगामी (गलत रास्ते पर चलने वाला) और राज-दंड का पात्र होता है।"
+        },
+        {
+          "number": "३५",
+          "text": "षष्ठवर्षे आयुधेन किञ्चिदण्डकालः",
+          "english_meaning": "In the 6th year, the native may suffer some punishment or injury by weapons.",
+          "hindi_meaning": "6वें वर्ष में जातक को शस्त्र द्वारा कुछ दंड या चोट का संकट हो सकता है।"
+        },
+        {
+          "number": "३६",
+          "text": "दुर्वासन ज्ञानशीलवान्",
+          "english_meaning": "He may have bad habits (Durvasana) yet be inclined towards knowledge and discipline.",
+          "hindi_meaning": "वह बुरे व्यसनों वाला हो सकता है, फिर भी ज्ञान और शील (अनुशासन) की ओर प्रवृत्त होगा।"
+        },
+        {
+          "number": "३७",
+          "text": "मायावादी",
+          "english_meaning": "He will be a 'Mayavadi' (one who believes in the illusory nature of the world) or a deceptive person.",
+          "hindi_meaning": "वह मायावादी (भ्रम में विश्वास रखने वाला या छल करने वाला) होगा।"
+        },
+        {
+          "number": "३८",
+          "text": "तीक्षणधीः",
+          "english_meaning": "He will possess sharp intelligence.",
+          "hindi_meaning": "वह तीक्ष्ण बुद्धि (तेज दिमाग) वाला होगा।"
+        },
+        {
+          "number": "३९",
+          "text": "उच्चे स्वक्षेत्रे पुत्रसमृद्धिः अन्नदानप्रियः",
+          "english_meaning": "If in its exaltation or own sign, there will be abundance of children, and the native will be fond of distributing food.",
+          "hindi_meaning": "यदि उच्च का या स्वराशि में हो, तो संतान की समृद्धि होती है और जातक अन्न-दान करने का प्रेमी होता है।"
+        },
+        {
+          "number": "४०",
+          "text": "राजाधिकारयोगः शत्रुपीडा",
+          "english_meaning": "There will be a 'Raja-adhikara Yoga' (possession of governmental authority), but he will also suffer from enemies.",
+          "hindi_meaning": "उसे राजाधिकार (सरकारी सत्ता) का योग प्राप्त होता है, किंतु शत्रुओं से पीड़ा भी होती है।"
+        },
+        {
+          "number": "४१",
+          "text": "पापयुते पापक्षेत्रे पुत्रनाशः",
+          "english_meaning": "If associated with malefics or in a malefic sign, there will be loss of children.",
+          "hindi_meaning": "यदि पाप ग्रहों से युक्त या पाप राशि में हो, तो संतान का नाश होता है।"
+        },
+        {
+          "number": "४२",
+          "text": "बुद्धि भ्रंशादिरोगः",
+          "english_meaning": "He may suffer from mental instability or loss of intelligence.",
+          "hindi_meaning": "वह बुद्धि-भ्रंश (मानसिक अस्थिरता) आदि रोगों से पीड़ित हो सकता है।"
+        },
+        {
+          "number": "४३",
+          "text": "रन्ध्रेशे पापयुते पापी",
+          "english_meaning": "If the lord of the 8th house (Randhresha) is associated with malefics here, the native will be sinful.",
+          "hindi_meaning": "यदि अष्टमेश पाप ग्रहों के साथ यहाँ स्थित हो, तो जातक पापी होता है।"
+        },
+        {
+          "number": "४४",
+          "text": "वीरः",
+          "english_meaning": "He will be a hero/brave person.",
+          "hindi_meaning": "वह वीर (बहादुर) होगा।"
+        },
+        {
+          "number": "४५",
+          "text": "दत्त पुत्र योगः",
+          "english_meaning": "There is a possibility of adopting a child (Datta-putra Yoga).",
+          "hindi_meaning": "जातक के लिए दत्तक पुत्र (गोद ली हुई संतान) का योग होता है।"
+        },
+        {
+          "number": "४६",
+          "text": "लग्नात्षष्ठे भौमफलं\nप्रसिद्धः",
+          "english_meaning": "Mars in the sixth house: The native will be famous.",
+          "hindi_meaning": "षष्ठ भाव में मंगल का फल: जातक प्रसिद्ध (विख्यात) होता है।"
+        },
+        {
+          "number": "४७",
+          "text": "कार्यसमर्थः",
+          "english_meaning": "He will be capable in executing his tasks.",
+          "hindi_meaning": "वह अपने कार्यों को संपन्न करने में समर्थ होता है।"
+        },
+        {
+          "number": "४८",
+          "text": "शत्रुहन्ता पुत्रवान् सप्तविंशति वर्षे कन्यकाश्वादि युत ऊढवान्",
+          "english_meaning": "He will be a destroyer of enemies, have children, and in the 27th year, acquire cattle, horses, etc., and get married.",
+          "hindi_meaning": "वह शत्रुओं का नाश करने वाला, पुत्रवान और 27वें वर्ष में पशु, घोड़े आदि से युक्त होकर विवाहित होता है।"
+        },
+        {
+          "number": "४९",
+          "text": "शत्रुक्षयः",
+          "english_meaning": "There will be destruction of enemies.",
+          "hindi_meaning": "शत्रुओं का क्षय (नाश) होता है।"
+        },
+        {
+          "number": "५०",
+          "text": "पापर्क्षे पापयुते पूर्णफलानि",
+          "english_meaning": "If in a malefic sign or associated with malefics, the results mentioned above will be fully manifest.",
+          "hindi_meaning": "यदि पाप राशि में हो या पाप ग्रहों से युक्त हो, तो उपर्युक्त फल पूर्ण रूप से प्राप्त होते हैं।"
+        },
+        {
+          "number": "५१",
+          "text": "वातशूलादिरोगः",
+          "english_meaning": "He may suffer from wind-colic or digestive pains.",
+          "hindi_meaning": "वह वात-शूल (गैस का दर्द) आदि रोगों से पीड़ित हो सकता है।"
+        },
+        {
+          "number": "५२",
+          "text": "बुधक्षेत्र युते कुष्ठरोगः",
+          "english_meaning": "If in the signs of Mercury (Gemini/Virgo), the native may suffer from leprosy or skin diseases.",
+          "hindi_meaning": "यदि बुध की राशि (मिथुन या कन्या) में हो, तो जातक को कुष्ठ रोग (या चर्म रोग) हो सकता है।"
+        },
+        {
+          "number": "५३",
+          "text": "शुभदृष्टे परिहारः",
+          "english_meaning": "If aspected by benefics, the negative results (like skin diseases) are mitigated.",
+          "hindi_meaning": "यदि शुभ ग्रहों से दृष्ट हो, तो (रोगों का) परिहार हो जाता है।"
+        },
+        {
+          "number": "५४",
+          "text": "लग्नात्सप्तमे भौमफलं\nस्वदार पीडा",
+          "english_meaning": "Mars in the seventh house: The native's wife will suffer or cause him distress.",
+          "hindi_meaning": "सप्तम भाव में मंगल का फल: जातक की पत्नी को कष्ट होता है या वह जातक के लिए पीड़ा का कारण बनती है।"
+        },
+        {
+          "number": "५५",
+          "text": "पापार्ते पापयुतेन च स्वर्क्षे स्वदार हानिः",
+          "english_meaning": "If afflicted by malefics, associated with malefics, or in its own sign, there will be loss of the wife.",
+          "hindi_meaning": "यदि पाप ग्रहों से पीड़ित, पाप ग्रहों से युक्त या अपनी ही राशि में हो, तो पत्नी की हानि होती है।"
+        },
+        {
+          "number": "५६",
+          "text": "शुभयुते जीवति पत्यौ स्त्रीनाशः",
+          "english_meaning": "If associated with benefics, the wife may die while the husband (native) is alive.",
+          "hindi_meaning": "यदि शुभ ग्रहों से युक्त हो, तो पति के जीवित रहते ही स्त्री का नाश (मृत्यु) हो सकता है।"
+        },
+        {
+          "number": "५७",
+          "text": "विदेशपरः",
+          "english_meaning": "The native will live in foreign lands.",
+          "hindi_meaning": "जातक विदेश-गामी (प्रदेश में रहने वाला) होता है।"
+        },
+        {
+          "number": "५८",
+          "text": "उच्चमित्र स्वक्षेत्र शुभयुते पापक्षेत्रे ईक्षणवशात्कलत्र\n                                           नाशः",
+          "english_meaning": "If in its exaltation, own sign, or friendly sign, and associated with benefics, yet aspected by malefics in a malefic sign, there will be loss of the wife.",
+          "hindi_meaning": "यदि उच्च का, स्वराशि का या मित्र राशि का होकर शुभ ग्रहों से युक्त हो, किंतु पाप राशि में स्थित पाप ग्रहों से दृष्ट हो, तो पत्नी का नाश होता है।"
+        },
+        {
+          "number": "५९",
+          "text": "अथवा चोरव्यभिचार मूलेन कलत्रान्तरं दुष्टस्त्रीसङ्गः",
+          "english_meaning": "Alternatively, due to theft or adultery, the native may acquire another wife or associate with wicked women.",
+          "hindi_meaning": "अथवा चोरी या व्यभिचार के कारण वह दूसरी पत्नी प्राप्त करता है या दुष्ट स्त्रियों का संग करता है।"
+        },
+        {
+          "number": "६०",
+          "text": "भगचुम्बनवान",
+          "english_meaning": "He will be inclined towards oral-genital acts (Yoni-chumbana).",
+          "hindi_meaning": "वह योनि-चुम्बन (कामुक चेष्टाओं) में रत होगा।"
+        },
+        {
+          "number": "६१",
+          "text": "चतुष्पाद मैथुनवान् मद्यपानाप्रियः",
+          "english_meaning": "He may have associations with quadrupeds and be fond of liquor.",
+          "hindi_meaning": "वह पशुवत मैथुन (अत्यंत कामुकता) करने वाला और मद्यपान का प्रेमी होगा।"
+        },
+        {
+          "number": "६२",
+          "text": "मन्दयुते दृष्टे शिश्नचुम्बन परः",
+          "english_meaning": "If associated with or aspected by Saturn (Manda), he will be inclined towards oral sex (Shishna-chumbana).",
+          "hindi_meaning": "यदि शनि (मंद) के साथ हो या उससे दृष्ट हो, तो वह लिंग-चुम्बन (कामुक विकृति) में रत होगा।"
+        },
+        {
+          "number": "६३",
+          "text": "केतुयुते रजस्वला स्त्री सम्भोगी",
+          "english_meaning": "If associated with Ketu, the native may have relations with a woman in her menses.",
+          "hindi_meaning": "यदि केतु के साथ हो, तो जातक रजस्वला स्त्री के साथ समागम करने वाला होता है।"
+        },
+        {
+          "number": "६४",
+          "text": "तत्रशत्रुयुते बहुकलत्र-नाशः",
+          "english_meaning": "If associated with enemies/malefics, there will be loss of multiple wives.",
+          "hindi_meaning": "यदि शत्रुओं/पाप ग्रहों के साथ हो, तो अनेक पत्नियों का नाश होता है।"
+        },
+        {
+          "number": "६५",
+          "text": "अवीरः अहङ्कारी वा शुभदृष्टे न दोषः",
+          "english_meaning": "He will be unheroic/cowardly or arrogant. If aspected by benefics, these defects are not present.",
+          "hindi_meaning": "वह वीरता से हीन या अहंकारी होगा। यदि शुभ ग्रहों से दृष्ट हो, तो यह दोष नहीं होते।"
+        },
+        {
+          "number": "६६",
+          "text": "लग्नादष्टमे भौमफलं\nनेत्ररोगी अर्धायुः पित्रारिष्टं मूत्रकृच्छृरोगः",
+          "english_meaning": "Mars in the eighth house: The native will have eye diseases, a medium lifespan, suffer from father's death/crisis, and diseases of the urinary tract (Mutrakriccha).",
+          "hindi_meaning": "अष्टम भाव में मंगल का फल: जातक नेत्र रोगी होता है, उसकी आयु मध्यम (अर्धायु) होती है, पिता को अरिष्ट (संकट) होता है और वह मूत्र-कृच्छ (पेशाब में जलन/कठिनाई) रोग से पीड़ित होता है।"
+        },
+        {
+          "number": "६७",
+          "text": "अल्पपुत्रवान् वातशूलादिरोगः दारसुखयुतः",
+          "english_meaning": "He will have few sons, suffer from wind-colic, but enjoy the company of his wife.",
+          "hindi_meaning": "वह अल्प पुत्रों वाला, वात-शूल रोगी होगा, किंतु स्त्री-सुख से युक्त होगा।"
+        },
+        {
+          "number": "६८",
+          "text": "शुभयुते देहारोग्यं दीर्घायु मुनष्यादि वृद्धिः",
+          "english_meaning": "If associated with benefics, he will have a healthy body, a long life, and increase in family/dependents.",
+          "hindi_meaning": "यदि शुभ ग्रहों से युक्त हो, तो देह आरोग्य (स्वस्थ), दीर्घायु और मनुष्यों (परिवार/सेवकों) की वृद्धि होती है।"
+        },
+        {
+          "number": "६९",
+          "text": "पापक्षेत्रे पापयुते ईक्षणवशाद् वातक्षयादिरोगः\n                                           मुत्रकृच्छृधिक्यं वा",
+          "english_meaning": "If in a malefic sign, associated with or aspected by malefics, he will suffer from wind diseases, consumption (Kshaya), or severe urinary disorders.",
+          "hindi_meaning": "यदि पाप राशि में हो, पाप ग्रहों से युक्त या दृष्ट हो, तो वात-रोग, क्षय (टी.बी.) या अत्यधिक मूत्र-कृच्छ रोग होता है।"
+        },
+        {
+          "number": "७०",
+          "text": "मध्यमायुः",
+          "english_meaning": "He will have a medium lifespan.",
+          "hindi_meaning": "उसकी आयु मध्यम होती है।"
+        },
+        {
+          "number": "७१",
+          "text": "भावाधिपबलयुते पूणोयुः",
+          "english_meaning": "If the lord of the 8th house is strong, the native will have a full lifespan.",
+          "hindi_meaning": "यदि अष्टमेश बली हो, तो जातक पूर्णायु (दीर्घायु) होता है।"
+        },
+        {
+          "number": "७२",
+          "text": "लग्नान्नवमे भौमफलं\nपित्रारिष्टम्",
+          "english_meaning": "Mars in the ninth house: There will be crisis or early death for the father.",
+          "hindi_meaning": "नवम भाव में मंगल का फल: पिता को अरिष्ट (मृत्यु या भारी कष्ट) होता है।"
+        },
+        {
+          "number": "७३",
+          "text": "भाग्यहीनः",
+          "english_meaning": "The native will be unfortunate.",
+          "hindi_meaning": "जातक भाग्यहीन होता है।"
+        },
+        {
+          "number": "७४",
+          "text": "उच्चस्वक्षेत्रे गुरुदारगः",
+          "english_meaning": "If in its exaltation or own sign, the native may have relations with the preceptor's wife (Guru-dara-ga).",
+          "hindi_meaning": "यदि उच्च का या स्वराशि में हो, तो जातक गुरु-पत्नी (या पूजनीय स्त्री) के साथ समागम करने वाला हो सकता है।"
+        },
+        {
+          "number": "७५",
+          "text": "लग्नाद्दशमे भौमफलं\nजनवल्लभः",
+          "english_meaning": "Mars in the tenth house: The native will be loved by the people (Jana-vallabha).",
+          "hindi_meaning": "दशम भाव में मंगल का फल: जातक जन-प्रिय (लोगों का प्रिय) होता है।"
+        },
+        {
+          "number": "७६",
+          "text": "भावाधिपे बलयुते भ्राता दीर्घायुः",
+          "english_meaning": "If the lord of the 10th house is strong, the native's brother will have a long life.",
+          "hindi_meaning": "यदि दशमेश बली हो, तो जातक का भाई दीर्घायु होता है।"
+        },
+        {
+          "number": "७७",
+          "text": "विशेष भाग्यवान् ध्यानशीलवान् गुरुभक्ति युतः",
+          "english_meaning": "He will be exceptionally fortunate, meditative/thoughtful, and devoted to his preceptor (Guru).",
+          "hindi_meaning": "वह विशेष रूप से भाग्यवान, ध्यानशील और गुरु-भक्ति से युक्त होता है।"
+        },
+        {
+          "number": "७८",
+          "text": "पापयुते कर्मविघ्नवान्",
+          "english_meaning": "If associated with malefics, there will be obstacles in his professional work.",
+          "hindi_meaning": "यदि पाप ग्रहों से युक्त हो, तो कार्यों (व्यवसाय) में विघ्न आते हैं।"
+        },
+        {
+          "number": "७९",
+          "text": "शुभयुते शुभक्षेत्रे कर्मसिद्धिः",
+          "english_meaning": "If associated with benefics or in a benefic sign, he will achieve success in his deeds.",
+          "hindi_meaning": "यदि शुभ ग्रहों से युक्त हो या शुभ राशि में हो, तो उसे कार्यों में सिद्धि प्राप्त होती है।"
+        },
+        {
+          "number": "८०",
+          "text": "कीर्तिप्रतिष्ठावान् अष्टादशवर्षे द्रव्यार्जन समर्थः",
+          "english_meaning": "He will gain fame and reputation and be capable of earning money from the age of 18.",
+          "hindi_meaning": "वह कीर्ति और प्रतिष्ठा प्राप्त करता है तथा १८ वर्ष की आयु से ही धनार्जन करने में समर्थ हो जाता है।"
+        },
+        {
+          "number": "८१",
+          "text": "सर्वसमर्थः दृढगात्र चोरबुद्धिः पापयुते\n     पापक्षेत्रे कर्मविघ्नकरः",
+          "english_meaning": "He will be capable and have a strong body, but may have a thieving mind. If in a malefic sign or with malefics, he faces many professional obstacles.",
+          "hindi_meaning": "वह सब प्रकार से समर्थ और सुदृढ़ शरीर वाला होता है, किंतु उसकी बुद्धि चोर की (छलपूर्ण) हो सकती है। पाप राशि या पाप ग्रहों के साथ होने पर कार्यों में विघ्न आते हैं।"
+        },
+        {
+          "number": "८२",
+          "text": "दुष्कृतिः",
+          "english_meaning": "He may perform evil deeds or have a bad reputation.",
+          "hindi_meaning": "वह दुष्कर्मी (बुरे कर्म करने वाला) हो सकता है।"
+        },
+        {
+          "number": "८३",
+          "text": "भाग्येश कर्मेशयुते महाराजयौवराज्ये पट्टभिषेकवान्",
+          "english_meaning": "If associated with the lords of the 9th (fortune) and 10th (action) houses, he attains high royal status or is coronated as a prince.",
+          "hindi_meaning": "यदि भाग्येश और कर्मेश के साथ हो, तो जातक महाराज पद प्राप्त करता है या युवराज के रूप में उसका पट्टाभिषेक होता है।"
+        },
+        {
+          "number": "८४",
+          "text": "गुरुयुते गजान्तैश्वर्यवान्",
+          "english_meaning": "If associated with Jupiter (Guru), he will possess immense wealth, including elephants (symbol of royal prosperity).",
+          "hindi_meaning": "यदि गुरु से युक्त हो, तो जातक के पास गजान्त (हाथियों तक की समृद्धि वाला) ऐश्वर्य होता है।"
+        },
+        {
+          "number": "८५",
+          "text": "भूसमृद्धिमान्",
+          "english_meaning": "He will possess abundant land and prosperity.",
+          "hindi_meaning": "वह भूमि और समृद्धि से युक्त होता है।"
+        },
+        {
+          "number": "८६",
+          "text": "लग्नादेकादशे भौमफलं\nबहुकृत्यवान् धनी स्वगुणे राशुलाभवान्",
+          "english_meaning": "Mars in the eleventh house: The native will be multi-talented, wealthy, and gain quick profits through his own qualities.",
+          "hindi_meaning": "एकादश भाव में मंगल का फल: जातक अनेक कार्यों को करने वाला, धनी और अपने गुणों से शीघ्र लाभ प्राप्त करने वाला होता है।"
+        },
+        {
+          "number": "८७",
+          "text": "क्षेत्रेशयुते राजाधिपत्यवान्",
+          "english_meaning": "If associated with the lord of the house (11th lord), he attains lordship or royal authority.",
+          "hindi_meaning": "यदि एकादशेश के साथ हो, तो जातक को राजकीय आधिपत्य प्राप्त होता है।"
+        },
+        {
+          "number": "८८",
+          "text": "शुभद्वययुते माहाराजाधिपत्ययोगः",
+          "english_meaning": "If associated with two benefics, it creates a combination for supreme royal lordship (Maharajadhipatya-yoga).",
+          "hindi_meaning": "यदि दो शुभ ग्रहों के साथ हो, तो महाराजाधिपत्य योग बनता है।"
+        },
+        {
+          "number": "८९",
+          "text": "भ्रातृवित्तवान्",
+          "english_meaning": "He will gain wealth through his brothers.",
+          "hindi_meaning": "वह भाइयों के माध्यम से धन प्राप्त करने वाला होता है।"
+        },
+        {
+          "number": "९०",
+          "text": "लग्नाद्द्वादशे भौमफलं\nद्रव्याभावः वातपित्तदेहः",
+          "english_meaning": "Mars in the twelfth house: There will be a lack of wealth, and the body will be prone to wind and bile (Vata-Pitta) imbalances.",
+          "hindi_meaning": "द्वादश भाव में मंगल का फल: जातक के पास धन का अभाव होता है और उसका शरीर वात-पित्त प्रकृति का होता है।"
+        },
+        {
+          "number": "९१",
+          "text": "पापयुते दाम्भिकः",
+          "english_meaning": "If associated with malefics, the native will be hypocritical or boastful.",
+          "hindi_meaning": "यदि पाप ग्रहों से युक्त हो, तो जातक दाम्भिक (पाखंडी या अहंकारी) होता है।"
+        }
+      ]
+    }
+  ]
+}

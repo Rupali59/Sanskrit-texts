@@ -1,0 +1,628 @@
+{
+  "source_file": "BPHS8190.md",
+  "source_chunk": "BPHS8190.json",
+  "chunk_index": 2,
+  "chapter": 83,
+  "variant": null,
+  "title": "अथ पूर्वजन्मशापद्योतनाध्यायः",
+  "shloka_count": 111,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "महर्षे भवता प्रोक्तं फलं स्त्रीणां नृणां पृथक् ।\nअधुना श्रोतुमिच्छामि त्वत्तो वेदविदांवर",
+      "english_meaning": "O Sage! You have described many yoga-combinations for happiness and sorrow. Now, for the benefit of humanity, please explain the reasons for not having children.",
+      "hindi_meaning": "हे मुनि! आपने सुख और दुःख के अनेक योग बताए हैं। अब मनुष्यों के कल्याण के लिए, कृपा करके संतानहीनता के कारणों का वर्णन करें।"
+    },
+    {
+      "number": 2,
+      "text": "अपुत्रस्य गतिर्नास्ति शास्त्रेषु श्रूयते मुने ।\nअपुत्रः केन पापेन भवतीति वद प्रभो",
+      "english_meaning": "O Brahmin! I shall explain the planetary combinations that cause childlessness due to curses from previous births, and the remedial measures to overcome them.",
+      "hindi_meaning": "हे विप्र! मैं उन ग्रह योगों का वर्णन करूँगा जो पूर्व जन्म के शापों के कारण संतानहीनता पैदा करते हैं, और उन्हें दूर करने के उपाय भी बताऊंगा।"
+    },
+    {
+      "number": 3,
+      "text": "जन्मलग्नाच्च तज्ज्ञानं कथं दैवविदां भवेत् ।\nअपुत्रस्य सुतप्राप्तेरुपायं कृपयोच्यताम्",
+      "english_meaning": "Sons are denied due to the curse of a serpent, the father, the mother, a brother, an uncle, a Brahmin, the wife, or an ancestor (Preta).",
+      "hindi_meaning": "सर्प, पिता, माता, भाई, मामा, ब्राह्मण, पत्नी या प्रेत (पितर) के शाप के कारण पुत्र प्राप्ति में बाधा आती है।"
+    },
+    {
+      "number": 4,
+      "text": "साधु पृष्टं त्वया विप्र कथ्यते हि तथा मया ।\nयथोमया हि पृष्टेन शिवेन कथितं पुरा",
+      "english_meaning": "If Jupiter is in the fifth house, the lord of the fifth is in the eighth, and the lord of the lagna is in an inauspicious house, childlessness occurs due to the curse of a serpent.",
+      "hindi_meaning": "यदि गुरु पांचवें भाव में हो, पांचवें भाव का स्वामी आठवें में हो और लग्न का स्वामी अशुभ भाव में हो, तो सर्प के शाप से संतानहीनता होती है।"
+    },
+    {
+      "number": 5,
+      "text": "केन योगेन पापेन ज्ञायतेऽपत्यनाशनम् ।\nतेषां च रक्षणोपायं कृपया नाथ मे वद",
+      "english_meaning": "If Rahu is in the fifth house, aspected by Saturn, and the lord of the fifth is conjoined with a malefic, it indicates the curse of a serpent.",
+      "hindi_meaning": "यदि राहु पांचवें भाव में हो, शनि से दृष्ट हो और पांचवें भाव का स्वामी पाप ग्रह के साथ हो, तो यह सर्प के शाप का संकेत है।"
+    },
+    {
+      "number": 6,
+      "text": "साधु पृष्टं त्वया देवि कथयामि तवाऽधुना ।\nसन्तानहानियोगांश्च तद्रक्षोपायसंयुतान्",
+      "english_meaning": "If the lord of the fifth is in the eighth house, Jupiter is with Rahu, and the lord of the lagna is weak, it indicates the curse of a serpent.",
+      "hindi_meaning": "यदि पंचमेश आठवें भाव में हो, गुरु राहु के साथ हो और लग्नेश निर्बल हो, तो यह सर्प के शाप को दर्शाता है।"
+    },
+    {
+      "number": 7,
+      "text": "गुरुलग्नेश दारेशपुत्रस्थानाधिपेषु च ।\nसर्वेषु बलहीनेषु वक्तव्या त्वनपत्यता",
+      "english_meaning": "When the Guru (Jupiter), Lagna Lord, 7th lord, and 5th lord are all weak, one should predict childlessness (Anapatya).",
+      "hindi_meaning": "जब गुरु, लग्नेश, दारेश (सप्तमेश) और पुत्रस्थानाधिप — ये सभी बलहीन हों, तब अनपत्यता (सन्तानहीनता) का फल कहना चाहिए।"
+    },
+    {
+      "number": 8,
+      "text": "रव्यारराहुशनयः सबलाः पुत्रभावगाः ।\nतदाऽनपत्यता चेत् स्युरबलाः पुत्रकारकाः",
+      "english_meaning": "When the Sun, Mars, Rahu, and Saturn are strong and placed in the 5th house, and the planet of children (Jupiter, Putrakāraka) is weak — childlessness results from a serpent's curse (Sarpa-Shapa).",
+      "hindi_meaning": "जब सूर्य, मंगल, राहु और शनि बलवान होकर पुत्र भाव में हों, और पुत्रकारक निर्बल हो — तब सर्पशाप से सन्तानहानि होती है।"
+    },
+    {
+      "number": 9,
+      "text": "पुत्रस्थानगते राहौ कुजेन च निरीक्षिते ।\nकुजक्षेत्रगते वाऽपि सर्पशापात् सुतक्षयः",
+      "english_meaning": "When Rahu is in the 5th house and aspected by Mars, or when (the 5th lord) is in a Mars-owned sign — there is loss of children due to a serpent's curse (Sarpa-Shapa).",
+      "hindi_meaning": "जब पुत्र भाव में राहु हो और मंगल उसे देखता हो, अथवा (पुत्रेश) कुजक्षेत्र में हो — तब सर्पशाप के कारण पुत्रहानि होती है।"
+    },
+    {
+      "number": 10,
+      "text": "पुत्रशे राहुसंयुक्ते पुत्रस्थे भानुनन्दने ।\nचन्द्रेण संयुते दृष्टे सर्पशापात् सुतक्षयः",
+      "english_meaning": "When the 5th lord is conjoined with Rahu, and Saturn is in the 5th house conjoined with or aspected by the Moon — there is loss of children due to a serpent's curse.",
+      "hindi_meaning": "जब पुत्रेश राहु से युक्त हो, और पुत्र भाव में शनि हो तथा चन्द्रमा से युक्त या दृष्ट हो — तब सर्पशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 11,
+      "text": "कारके राहुसंयुक्ते पुत्रेशे बलवर्जिते ।\nलग्नेशे कुजसंयुक्ते सर्पशापात् सुतक्षयः",
+      "english_meaning": "To overcome the curse of a serpent, one should have a golden idol of a serpent (Naga) made and worship it according to rituals, and donate a cow.",
+      "hindi_meaning": "सर्प के शाप को दूर करने के लिए, सोने की नाग-प्रतिमा बनवाकर उसकी विधि-विधान से पूजा करनी चाहिए और गौदान करना चाहिए।"
+    },
+    {
+      "number": 12,
+      "text": "कारके भौमसंयुक्ते लग्ने च राहुसंयुते ।\nपुत्रस्थानाधिपे दुःस्थे सर्पशापात् सुतक्षयः",
+      "english_meaning": "If the Sun is in the ninth house, aspected by a malefic, and the lord of the fifth is in the eighth, it indicates the curse of the father.",
+      "hindi_meaning": "यदि सूर्य नौवें भाव में हो, पाप ग्रह से दृष्ट हो और पंचमेश आठवें भाव में हो, तो यह पिता के शाप का संकेत है।"
+    },
+    {
+      "number": 13,
+      "text": "भौमांशे भौमसंयुक्ते पुत्रेशे सोमनन्दने ।\nराहुमान्दियुते लग्ने सर्पशापात् सुतक्षयः",
+      "english_meaning": "If the lord of the fifth is in the Sun's sign, aspected by a malefic, and the Sun is in the fifth house, it indicates the curse of the father.",
+      "hindi_meaning": "यदि पंचमेश सूर्य की राशि में हो, पाप ग्रह से दृष्ट हो और सूर्य पांचवें भाव में हो, तो यह पिता के शाप को दर्शाता है।"
+    },
+    {
+      "number": 14,
+      "text": "पुत्रभावे कुजक्षेत्रे पुत्रेशे राहुसंयुते ।\nसौम्यदृष्टे युते वाऽपि सर्पशापात् सुतक्षयः",
+      "english_meaning": "When Mars is in the 5th house (Putra-sthana) in a Mars-owned sign, and the 5th lord is conjoined with Rahu, and they are aspected or conjoined by benefics — loss of children from a serpent's curse.",
+      "hindi_meaning": "जब पुत्रभाव में मंगल की राशि में मंगल हो, पुत्रेश राहु से युक्त हो और वे शुभ ग्रहों से दृष्ट या युक्त हों — तब सर्पशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 15,
+      "text": "पुत्रस्था भानुमन्दाराः स्वभानुः शशिजोऽङ्गिराः ।\nनिर्बलौ पुत्रलग्नेशौ सर्पशापात् सुतक्षयः",
+      "english_meaning": "When the Sun, Saturn, and Mars are in the 5th house, and the Lagna lord and 5th lord (Putra-Lagnesha) are both weak — loss of children from a serpent's curse.",
+      "hindi_meaning": "जब पुत्र भाव में सूर्य, शनि और मंगल हों, और पुत्र व लग्न दोनों के स्वामी निर्बल हों — तब सर्पशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 16,
+      "text": "लग्नेशे राहुसंयुक्ते पुत्रेशे भोमसंयुते ।\nकारके राहुयुक्ते वा सर्पशापात् सुतक्षयः",
+      "english_meaning": "When the Lagna lord is conjoined with Rahu, the 5th lord is conjoined with Mars, and the Putra-Karaka (Jupiter) is also conjoined with Rahu — loss of children from a serpent's curse.",
+      "hindi_meaning": "जब लग्नेश राहु से युक्त हो, पुत्रेश मंगल से युक्त हो, और पुत्रकारक (गुरु) भी राहु से युक्त हो — तब सर्पशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 17,
+      "text": "ग्रहयोगवशेनैवं नृणां ज्ञात्वाऽनपत्यता ।\nतद्दोषपरिहारार्थं नागपूजां समारभेत्",
+      "english_meaning": "Having thus determined childlessness through planetary combinations, one should undertake Naga-Puja (serpent worship) for the pacification of this curse.",
+      "hindi_meaning": "इस प्रकार ग्रह-योग के आधार पर अनपत्यता जानकर, उस दोष के निवारण के लिए नागपूजा (सर्पपूजा) प्रारम्भ करनी चाहिए।"
+    },
+    {
+      "number": 18,
+      "text": "स्वगृह्योक्तविधानेन प्रतिष्ठां कारयेत् सुधीः ।\nनागमूर्ति सुवर्णेन कृत्वा पूजां समाचरेत्",
+      "english_meaning": "One should have a golden image of the Naga (serpent deity) made — with both the male and female forms — and worship it with prescribed rituals in order to get rid of this defect.",
+      "hindi_meaning": "दोष-निवारण के लिए नाग का सुवर्णमय (सोने का) युगल रूप (नर-नारी सहित) बनवाकर, विधिपूर्वक उसकी पूजा करनी चाहिए।"
+    },
+    {
+      "number": 19,
+      "text": "गोभूतिलहिरण्यादि दद्याद् वित्तानुसारतः ।\nएवं कृते तु नागेन्द्रप्रसादात् वर्धते कुलम्",
+      "english_meaning": "Cows, land, sesame, gold, and other such things should be donated according to one's means. By doing so, through the grace of the Naga-Indra (Lord of Serpents), the family lineage flourishes.",
+      "hindi_meaning": "सामर्थ्यानुसार गाय, भूमि, तिल, सोना आदि का दान करना चाहिए। ऐसा करने पर नागेन्द्र की कृपा से कुल (वंश) में वृद्धि होती है।"
+    },
+    {
+      "number": 20,
+      "text": "पुत्रस्थानं गते भानौ नीचे मन्दांशकस्थिते ।\nपार्श्वयोः क्रूरसम्बन्धे पितृशापात् सुतक्षयः",
+      "english_meaning": "When the Sun is in the 5th house debilitated or in Saturn's navamsha, with malefics on both sides — loss of children from a paternal curse (Pitru-Shapa).",
+      "hindi_meaning": "जब पुत्र भाव में सूर्य नीच राशि में या शनि के नवांश में हो, और दोनों ओर पाप ग्रह हों — तब पितृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 21,
+      "text": "पुत्रस्थानाधिपे भानौ त्रिकोणे पापसंयुते ।\nक्रूरान्तरे पापदृष्टे पितृशापात् सुतक्षयः",
+      "english_meaning": "To overcome the father's curse, one should perform Gaya-shraddha and feed a thousand Brahmins, or perform rituals according to their capacity.",
+      "hindi_meaning": "पिता के शाप को दूर करने के लिए गया-श्राद्ध करना चाहिए और एक हजार ब्राह्मणों को भोजन कराना चाहिए, या अपनी शक्ति के अनुसार अनुष्ठान करना चाहिए।"
+    },
+    {
+      "number": 22,
+      "text": "भानुराशिस्थिते जीवे पुत्रेशे भानुसंयुते ।\nपुत्रे लग्ने च पापाढ्ये पितृशापात् सुतक्षयः",
+      "english_meaning": "If the Moon is in the fifth house, aspected by a malefic, and the lord of the fifth is in the eighth, it indicates the curse of the mother.",
+      "hindi_meaning": "यदि चन्द्रमा पांचवें भाव में हो, पाप ग्रह से दृष्ट हो और पंचमेश आठवें भाव में हो, तो यह माता के शाप का संकेत है।"
+    },
+    {
+      "number": 23,
+      "text": "लग्नेशे दुर्बले पुत्रे पुत्रेशे भानुसंयुते ।\nपुत्रे लग्ने पापयुते पितृशापात् सुतक्षयः",
+      "english_meaning": "If the lord of the fifth is in the Moon's sign, aspected by a malefic, and the Moon is in the fifth house, it indicates the curse of the mother.",
+      "hindi_meaning": "यदि पंचमेश चन्द्रमा की राशि में हो, पाप ग्रह से दृष्ट हो और चन्द्रमा पांचवें भाव में हो, तो यह माता के शाप को दर्शाता है।"
+    },
+    {
+      "number": 24,
+      "text": "पितृस्थानाधिपे पुत्रे पुत्रेशे वापि कर्मगे ।\nपुत्रे लग्ने च पापाढ्ये पितृशापात् सुतक्षयः",
+      "english_meaning": "When the 9th lord (Pitru-sthana lord) is in the 5th house, or the 5th lord is in the 10th house, and both the 5th and Lagna are filled with malefics — loss of children from a paternal curse.",
+      "hindi_meaning": "जब नवमेश (पितृस्थानाधिप) पुत्र भाव में हो, या पुत्रेश दशम भाव में हो, और पुत्र तथा लग्न दोनों पाप ग्रहों से भरे हों — तब पितृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 25,
+      "text": "पितृस्थानाधिपे भौमः पुत्रेशेन समन्वितः ।\nलग्ने पुत्रे पितृस्थाने पापे सन्ततिनाशनम्",
+      "english_meaning": "When Mars is the 9th lord (Pitru-sthana) conjoined with the 5th lord, and malefics are in the Lagna, 5th house, and 9th house — destruction of progeny.",
+      "hindi_meaning": "जब मंगल नवमेश होकर पुत्रेश से युक्त हो, और लग्न, पुत्र और पितृ भाव में पाप ग्रह हों — तब सन्तति का नाश होता है।"
+    },
+    {
+      "number": 26,
+      "text": "पितृस्थानाधिपे दुःस्थे कारके पापराशिगे ।\nसपापौ पुत्रलग्नेशौ पितृशापात् सुतक्षयः",
+      "english_meaning": "When the 9th lord is in a bad house (6th, 8th, 12th), the Putra-Karaka is in a malefic sign, and the Lagna lord and 5th lord are both with malefics — loss of children from a paternal curse.",
+      "hindi_meaning": "जब नवमेश दुःस्थ (6, 8, 12वें) भाव में हो, पुत्रकारक पाप राशि में हो, और पुत्रेश तथा लग्नेश दोनों पाप ग्रहों के साथ हों — तब पितृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 27,
+      "text": "लग्नपञ्चमभावस्था भानुभौमशनैश्चराः ।\nरन्ध्रे रिष्फे राहुजीवौ पितृशापात् सुतक्षयः",
+      "english_meaning": "When the Sun, Mars, and Saturn are in the Lagna and 5th house, and Rahu and Jupiter are in the 8th and 12th — loss of children from a paternal curse.",
+      "hindi_meaning": "जब सूर्य, मंगल और शनि लग्न व पुत्र भाव में हों, और राहु तथा गुरु 8वें व 12वें भाव में हों — तब पितृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 28,
+      "text": "लग्नादष्टमगे भानौ पुत्रस्थे भानुनन्दने ।\nपुत्रेशे राहुसंयुक्ते लग्ने पापे सुतक्षयः",
+      "english_meaning": "When the Sun is in the 8th from the Lagna, Saturn is in the 5th, the 5th lord is conjoined with Rahu, and the Lagna contains malefics — loss of children.",
+      "hindi_meaning": "जब सूर्य लग्न से अष्टम भाव में हो, शनि पुत्र भाव में हो, पुत्रेश राहु से युक्त हो, और लग्न में पाप ग्रह हों — तब पुत्रहानि होती है।"
+    },
+    {
+      "number": 29,
+      "text": "व्ययेशे लग्नभावस्थे रन्ध्रेशे पुत्रराशिगे ।\nपितृस्थानाधिपे रन्ध्रे पितृशापात् सुतक्षयः",
+      "english_meaning": "When the 12th lord is in the Lagna, the 8th lord is in the 5th, and the 9th lord (Pitru-sthana) is in the 8th — loss of children from a paternal curse.",
+      "hindi_meaning": "जब व्ययेश (12वें का स्वामी) लग्न भाव में हो, रन्ध्रेश (8वें का स्वामी) पुत्र राशि में हो, और पितृस्थानाधिप (9वें का स्वामी) 8वें भाव में हो — तब पितृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 30,
+      "text": "रोगेशे पुत्रभावस्थे पितृस्थानाधिपे रिपौ ।\nकारके राहुसंयुक्ते पितृशापात् सुतक्षयः",
+      "english_meaning": "To overcome the mother's curse, one should perform the 'Setubandha' pilgrimage (Rameshwaram) or donate a silver idol of a cow with a calf.",
+      "hindi_meaning": "माता के शाप को दूर करने के लिए सेतुबन्ध (रामेश्वरम) की यात्रा करनी चाहिए या बछड़े सहित चांदी की गाय की प्रतिमा दान करनी चाहिए।"
+    },
+    {
+      "number": 31,
+      "text": "तद्दोषपरिहारार्थं गयाश्राद्धं च कारयेत् ।\nब्राह्मणान् भोजयेदत्र अयुतं वा सहस्रकम्",
+      "english_meaning": "If the lord of the third is with Rahu, and Mars aspects the fifth house, it indicates the curse of a brother.",
+      "hindi_meaning": "यदि तृतीयेश राहु के साथ हो और मंगल पांचवें भाव को देखता हो, तो यह भाई के शाप का संकेत है।"
+    },
+    {
+      "number": 32,
+      "text": "अथवा कन्यकादानं गोदानं च समाचरेत् ।\nएवं कृते पितुः शापान्मुच्यते नाऽत्र संशयः",
+      "english_meaning": "If the lord of the fifth is in the third house, and the lord of the third is in the fifth house, both aspected by malefics, it indicates the curse of a brother.",
+      "hindi_meaning": "यदि पंचमेश तीसरे भाव में हो और तृतीयेश पांचवें भाव में हो, और दोनों पाप ग्रहों से दृष्ट हों, तो यह भाई के शाप को दर्शाता है।"
+    },
+    {
+      "number": 33,
+      "text": "वर्धते च कुलं तस्य पुत्रपौत्रदिभिः सदा ।\nग्रहयोगवशादेवं फलं ब्रूयात् विचक्षणः",
+      "english_meaning": "His family shall always grow with sons, grandsons, and other descendants. In this way, the wise astrologer should declare the results based on planetary combinations.",
+      "hindi_meaning": "उसके कुल में सदा पुत्र, पौत्र आदि की वृद्धि होती है। इस प्रकार विचक्षण (कुशल) ज्योतिषी को ग्रह-योग के आधार पर फल बताना चाहिए।"
+    },
+    {
+      "number": 34,
+      "text": "पुत्रस्थानाधिपे चन्द्रे नीचे वा पापमध्यगे ।\nहिबुके पञ्चमे पापे मातृशापात् सुतक्षयः",
+      "english_meaning": "When the Moon (lord of 4th, mother) is the 5th lord and is debilitated or between malefics, and malefics are in the 4th and 5th houses — loss of children due to a maternal curse (Matru-Shapa).",
+      "hindi_meaning": "जब पुत्रस्थानाधिप चन्द्रमा नीच हो या पाप ग्रहों के मध्य में हो, और चतुर्थ तथा पंचम भाव में पाप ग्रह हों — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 35,
+      "text": "लाभे मन्दसमायुक्ते मातृस्थाने शुभेतरे ।\nनीचे पञ्चमगे चन्द्रे मातृशापात् सुतक्षयः",
+      "english_meaning": "When Saturn is in the 11th house, the 4th house (Matru-sthana) has malefics, and the Moon is debilitated in the 5th — loss of children from a maternal curse.",
+      "hindi_meaning": "जब 11वें भाव में शनि हो, मातृ भाव (चतुर्थ) में पाप ग्रह हों, और चन्द्रमा पुत्र भाव में नीच हो — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 36,
+      "text": "पुत्रस्थानाधिपे दुःस्थे लग्नेशे नीचराशिगे ।\nचन्द्रे च पापसंयुक्ते मातृशापात् सुतक्षयः",
+      "english_meaning": "When the 5th lord is in a bad house (6th, 8th, 12th), the Lagna lord is in a debilitated sign, and the Moon is conjoined with malefics — loss of children from a maternal curse.",
+      "hindi_meaning": "जब पुत्रेश दुःस्थ (6, 8, 12वें) भाव में हो, लग्नेश नीच राशि में हो, और चन्द्रमा पाप ग्रहों से युक्त हो — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 37,
+      "text": "पुत्रेशेऽष्टारिरिष्फेस्थे चन्द्रे पापांशसंगते ।\nलग्ने पुत्रे च पापाढ्ये मातृशापात् सुतक्षयः",
+      "english_meaning": "When the 5th lord is in the 8th, 6th, or 12th house, the Moon is in a malefic navamsha, and both the Lagna and 5th are full of malefics — loss of children from a maternal curse.",
+      "hindi_meaning": "जब पुत्रेश 8, 6 या 12वें भाव में हो, चन्द्रमा पाप नवांश में हो, और लग्न तथा पुत्र भाव दोनों पाप ग्रहों से भरे हों — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 38,
+      "text": "पुत्रस्थानाधिपे चन्द्रे मन्दराह्वारसंयुते ।\nभाग्ये वा पुत्रभावे वा मातृशापात् सुतक्षयः",
+      "english_meaning": "To overcome a brother's curse, one should listen to the Chandrayana vrata or the Harivansha Purana and plant a Peepal tree.",
+      "hindi_meaning": "भाई के शाप को दूर करने के लिए चान्द्रायण व्रत करना चाहिए या हरिवंश पुराण सुनना चाहिए और पीपल का वृक्ष लगाना चाहिए।"
+    },
+    {
+      "number": 39,
+      "text": "मातृस्थानाधिपे भौमे शनिराहुसमन्विते ।\nचन्द्रभानुयुते पुत्रे लग्ने वा सन्ततिक्षयः",
+      "english_meaning": "If Jupiter is with Mercury in the fifth house, aspected by a malefic, it indicates the curse of an uncle (mother's brother).",
+      "hindi_meaning": "यदि गुरु पांचवें भाव में बुध के साथ हो और पाप ग्रह से दृष्ट हो, तो यह मामा के शाप का संकेत है।"
+    },
+    {
+      "number": 40,
+      "text": "लग्नात्मजेशौ शत्रुस्थौ रन्ध्रे मात्रधिपः स्थितः ।\nपितृनाशाधिपौ लग्ने मातृशापात् सुतक्षयः",
+      "english_meaning": "If the lord of the fifth is with Mercury, and Mercury is in the lagna aspected by Saturn, it indicates the curse of an uncle.",
+      "hindi_meaning": "यदि पंचमेश बुध के साथ हो और बुध लग्न में होकर शनि से दृष्ट हो, तो यह मामा के शाप को दर्शाता है।"
+    },
+    {
+      "number": 41,
+      "text": "षष्ठाष्टमेशौ लग्नस्थौ व्यये मात्रधिपः सुते ।\nचन्द्रजीवौ पापयुक्तौ मातृशापात् सुतक्षयः",
+      "english_meaning": "When the 6th and 8th lords are in the Lagna, the 12th lord is in the 5th, and Jupiter and Moon are conjoined with malefics — loss of children from a maternal curse.",
+      "hindi_meaning": "जब 6वें और 8वें के स्वामी लग्न में हों, 12वें का स्वामी पुत्र भाव में हो, और चन्द्रमा तथा गुरु पाप ग्रहों से युक्त हों — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 42,
+      "text": "पापमध्यगते लग्ने क्षीणे चन्द्रे च सप्तम ।\nमातृपुत्रे राहुमन्दौ मातृशापात् सुतक्षयः",
+      "english_meaning": "When the Lagna is hemmed between malefics, the waning Moon is in the 7th, and Rahu and Saturn are in the 4th and 5th — loss of children from a maternal curse.",
+      "hindi_meaning": "जब लग्न पाप ग्रहों के मध्य (पापकर्तरी) में हो, क्षीण चन्द्रमा सप्तम भाव में हो, और मातृ (4) तथा पुत्र (5) भाव में राहु और शनि हों — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 43,
+      "text": "नाशस्थानाधिपे पुत्रे पुत्रेशे नाशराशिगे ।\nचन्द्रमातृपतौ दुःस्थे मातृशापात् सुतक्षयः",
+      "english_meaning": "When the 8th lord is in the 5th, the 5th lord is in an 8th-house sign (Nasha-Rashi), and the Moon and the 4th lord are in bad houses — loss of children from a maternal curse.",
+      "hindi_meaning": "जब 8वें का स्वामी पुत्र भाव में हो, पुत्रेश नाश-राशि (8वें भाव की राशि) में हो, और चन्द्रमा तथा मातृपति (4वें का स्वामी) दुःस्थ हों — तब मातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 44,
+      "text": "चन्द्रक्षेत्रे यदा लग्ने कुजराहुसमन्विते ।\nचन्द्रमन्दौ पुत्रसंस्थौ मातृशापात् सुतक्षयः",
+      "english_meaning": "To overcome an uncle's curse, one should install an idol of Lord Vishnu and donate land or perform social welfare acts.",
+      "hindi_meaning": "मामा के शाप को दूर करने के लिए भगवान विष्णु की प्रतिमा स्थापित करनी चाहिए और भूमि दान या जनकल्याण के कार्य करने चाहिए।"
+    },
+    {
+      "number": 45,
+      "text": "लग्ने पुत्रे मृतौ रिष्फे कुजो राहू रविः शनिः ।\nमातृलग्नाधिपौ दुःस्थौ मातृशापात् सुतक्षयः",
+      "english_meaning": "If Jupiter is in the ninth house, aspected by Rahu, and the lord of the fifth is in the twelfth, it indicates the curse of a Brahmin.",
+      "hindi_meaning": "यदि गुरु नौवें भाव में हो, राहु से दृष्ट हो और पंचमेश बारहवें भाव में हो, तो यह ब्राह्मण के शाप का संकेत है।"
+    },
+    {
+      "number": 46,
+      "text": "नाशस्थानं गते जीवे कुजराहुसमन्विते ।\nपुत्रस्थानौ मन्दचन्द्रौ मातृशापात् सुतक्षयः",
+      "english_meaning": "If the lord of the ninth is in the fifth house, and the lord of the fifth is in the eighth, it indicates the curse of a Brahmin.",
+      "hindi_meaning": "यदि नवमेश पांचवें भाव में हो और पंचमेश आठवें भाव में हो, तो यह ब्राह्मण के शाप को दर्शाता है।"
+    },
+    {
+      "number": 47,
+      "text": "एवं योगं बुधैदृष्ट्वा विज्ञेया त्वनपत्यता ।\nततः सन्तानरक्षार्थं कर्त्तव्या शान्तिरुत्तमा",
+      "english_meaning": "Having recognized such a yoga, the wise astrologer should conclude childlessness. Thereafter, for the protection of progeny, an excellent Shanti (peace ritual) should be performed.",
+      "hindi_meaning": "ऐसे योग को देखकर बुद्धिमान ज्योतिषी को अनपत्यता (सन्तानहीनता) जाननी चाहिए। तत्पश्चात् सन्तान-रक्षा के लिए उत्तम शान्तिकर्म करना चाहिए।"
+    },
+    {
+      "number": 48,
+      "text": "सेतुस्नानं प्रकर्तव्यं गायत्रीलक्षसंख्यका ।\nरौप्यमात्रं पयः पीत्वा ग्रहदानं प्रयत्नतः",
+      "english_meaning": "A pilgrimage and bath at Setu (Rameswaram) should be performed. The Gayatri Mantra should be recited 100,000 times. Planetary charity (Graha-Dana) should be made with silver vessels filled with milk — with great effort.",
+      "hindi_meaning": "सेतु (रामेश्वरम) में स्नान करना चाहिए। गायत्री मन्त्र का एक लाख जप करना चाहिए। प्रयत्नपूर्वक रजत-पात्र में दूध लेकर ग्रह-दान करना चाहिए।"
+    },
+    {
+      "number": 49,
+      "text": "ब्राह्मणान् भोजयेत्तद्वदश्वत्थस्य प्रदक्षिणम् ।\nकर्तव्यं भक्तियुक्तेन चाष्टोत्तरसहस्रकम्",
+      "english_meaning": "Brahmins should be fed in the same manner. Circumambulation of the Ashvattha (Peepal) tree should be done with devotion — 1008 times.",
+      "hindi_meaning": "उसी प्रकार ब्राह्मणों को भोजन कराना चाहिए। भक्तियुक्त होकर अश्वत्थ (पीपल) वृक्ष की एक सहस्र आठ (१००८) बार प्रदक्षिणा करनी चाहिए।"
+    },
+    {
+      "number": 50,
+      "text": "एवं कृते महादेवि शापान्मोक्षो भविष्यति ।\nसुपुत्रं लभते पश्चात् कुलवृद्धिश्च जायते",
+      "english_meaning": "O Great Goddess! Having done all this, liberation from the curse will surely occur. Afterwards, one will obtain a good son, and there will be growth of the family lineage.",
+      "hindi_meaning": "हे महादेवि! इस प्रकार करने पर शाप से मुक्ति होगी। इसके बाद उत्तम पुत्र की प्राप्ति होती है और कुल-वृद्धि होती है।"
+    },
+    {
+      "number": 51,
+      "text": "अथो योगान् प्रवक्ष्यामि भ्रातृशापसमुद्भवान् ।\nयज्ज्ञात्वाऽपत्यरक्षार्थं यत्नं कुर्याद् विचक्षणः",
+      "english_meaning": "Now I will explain the yogas arising from a sibling's curse (Bhratru-Shapa). Knowing these, the wise person should make effort to protect progeny.",
+      "hindi_meaning": "अब मैं भ्रातृशाप से उत्पन्न होने वाले योगों को बताऊँगा। इन्हें जानकर बुद्धिमान पुरुष को अपत्य (सन्तान) की रक्षा के लिए यत्न करना चाहिए।"
+    },
+    {
+      "number": 52,
+      "text": "भ्रातृस्थानाधिपे पुत्रे कुजराहुसमन्विते ।\nपुत्रलग्नेश्वरौ रन्ध्रे भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "To overcome a Brahmin's curse, one should perform the Chandrayana vrata and donate a cow to a learned Brahmin.",
+      "hindi_meaning": "ब्राह्मण के शाप को दूर करने के लिए चान्द्रायण व्रत करना चाहिए और एक विद्वान ब्राह्मण को गाय का दान करना चाहिए।"
+    },
+    {
+      "number": 53,
+      "text": "लग्ने सुते कुजे मन्दे भ्रातृपे भाग्यराशिगे ।\nकारके नाशभावस्थे भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "If the lord of the seventh is in the fifth house, and the lord of the fifth is in the eighth, it indicates the curse of the wife.",
+      "hindi_meaning": "यदि सप्तमेश पांचवें भाव में हो और पंचमेश आठवें भाव में हो, तो यह पत्नी के शाप का संकेत है।"
+    },
+    {
+      "number": 54,
+      "text": "भ्रातृस्थाने गुरुर्नीचे मन्दः पञ्चमगते यदि ।\nनाशस्थाने तु चन्द्रारौ भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "If Venus is in the fifth house, aspected by a malefic, and the lord of the fifth is in the twelfth, it indicates the curse of the wife.",
+      "hindi_meaning": "यदि शुक्र पांचवें भाव में हो, पाप ग्रह से दृष्ट हो और पंचमेश बारहवें भाव में हो, तो यह पत्नी के शाप को दर्शाता है।"
+    },
+    {
+      "number": 55,
+      "text": "तनुस्थानाधिपे रिष्फे भौमः पञ्चमगो यदि ।\nरन्ध्रे सपापपुत्रेशे भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "When the Lagna lord is in the 12th house, Mars is in the 5th, and the 5th lord is in the 8th along with malefics — loss of children from a sibling's curse.",
+      "hindi_meaning": "जब लग्नेश 12वें भाव में हो, मंगल 5वें भाव में हो, और पुत्रेश पाप ग्रहों सहित 8वें भाव में हो — तब भ्रातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 56,
+      "text": "पापमध्यगते लग्ने पापमध्ये सुतेऽपि च ।\nलग्नेशपुत्रपौ दुःस्थौ भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "When the Lagna is hemmed between malefics, the 5th house is also between malefics, and the Lagna lord and 5th lord are both in bad houses — loss of children from a sibling's curse.",
+      "hindi_meaning": "जब लग्न पापकर्तरी में हो, पुत्र भाव भी पाप ग्रहों के मध्य हो, और लग्नेश तथा पुत्रेश दोनों दुःस्थ हों — तब भ्रातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 57,
+      "text": "कर्मेशे भ्रातृभावस्थे पापयुक्ते तथा शुभे ।\nपुत्रगे कुजसंयुक्ते भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "When the 10th lord is in the 3rd house (Bhratru-sthana) conjoined with malefics or benefics, and Mars is in the 5th house — loss of children from a sibling's curse.",
+      "hindi_meaning": "जब 10वें का स्वामी भ्रातृ भाव (3) में पाप या शुभ ग्रहों से युक्त हो, और मंगल पुत्र भाव में हो — तब भ्रातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 58,
+      "text": "पुत्रस्थाने बुधक्षेत्रे शमिराहुसमन्विते ।\nरिष्फे विदारौ विज्ञेयो भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "When a Mercury-owned sign is in the 5th house with Saturn and Rahu, and the 12th house shows a sibling indicator — there is loss of children from a sibling's curse.",
+      "hindi_meaning": "जब 5वें भाव में बुध की राशि में शनि और राहु हों, और 12वें भाव में भ्रातृ-सूचक हो — तब भ्रातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 59,
+      "text": "लग्नेशे भ्रातृभावस्थे भ्रातृस्थानाधिपे सुते ।\nलग्नभ्रातृसुते पापे भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "When the Lagna lord is in the 3rd house (Bhratru-sthana), the 3rd lord is in the 5th, and the Lagna, 3rd, and 5th houses are all afflicted by malefics — loss of children from a sibling's curse.",
+      "hindi_meaning": "जब लग्नेश भ्रातृ भाव (3) में हो, भ्रातृस्थानाधिप पुत्र भाव में हो, और लग्न, भ्रातृ और पुत्र भाव तीनों पाप ग्रहों से पीड़ित हों — तब भ्रातृशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 60,
+      "text": "भ्रात्रीशे मृत्युभावस्थे पुत्रस्थे कारके तथा ।\nराहुमन्देयुते दृष्टे भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "To overcome the wife's curse, one should donate a golden idol of Goddess Lakshmi or a cow to a Brahmin.",
+      "hindi_meaning": "पत्नी के शाप को दूर करने के लिए भगवती लक्ष्मी की स्वर्ण प्रतिमा या ब्राह्मण को गाय का दान करना चाहिए।"
+    },
+    {
+      "number": 61,
+      "text": "नाशस्थानाधिपे पुत्रे भ्रातृनाथेन संयुते ।\nरन्ध्रे आरार्किसंयुक्ते भ्रातृशापात् सुतक्षयः",
+      "english_meaning": "One should have a golden idol of Sun God (Surya) and worship it with flowers and incense. The Brahmin should perform homa with ghee and fuel-wood (samidha).",
+      "hindi_meaning": "सूर्य देव की स्वर्ण प्रतिमा बनवाकर उसकी पुष्प और धूप से पूजा करनी चाहिए। ब्राह्मण को घी और समिधा से हवन करना चाहिए।"
+    },
+    {
+      "number": 62,
+      "text": "भ्रातृशापविमोक्षार्थं वंशस्य श्रवणं हरेः ।\nचान्द्रायण्स्ं चरेत् पश्चात् कावेर्य्या विष्णुसन्निधौ",
+      "english_meaning": "If Saturn is the cause of childlessness, one should donate a black cow and iron, and feed the poor.",
+      "hindi_meaning": "यदि संतानहीनता का कारण शनि हो, तो काली गाय और लोहे का दान करना चाहिए, और गरीबों को भोजन कराना चाहिए।"
+    },
+    {
+      "number": 63,
+      "text": "अश्वत्थस्थापनं कुर्याद् दशधेनूश्च दापयेत् ।\nपत्नीहस्तेन पुत्रेच्छुर्भूमिं दद्यात् फलान्विताम्",
+      "english_meaning": "If the curse of a Preta (ancestor) is the cause, one should perform Shraddha at a holy place and donate food to Brahmins.",
+      "hindi_meaning": "यदि प्रेत (पितर) का शाप कारण हो, तो किसी पवित्र तीर्थ पर श्राद्ध करना चाहिए और ब्राह्मणों को अन्नदान करना चाहिए।"
+    },
+    {
+      "number": 64,
+      "text": "एवं यः कुरुते भक्त्या धर्मपत्न्या समन्वितः ।\nध्रुवं तस्य भवेत् पुत्रः कुलवृद्धिश्च जायते",
+      "english_meaning": "O best of Brahmins! By performing this pacification ritual, all defects are destroyed. The son takes birth and the family prospers.",
+      "hindi_meaning": "हे द्विजसत्तम! इस शान्ति विधान को करने से सभी दोष नष्ट हो जाते हैं। पुत्र का जन्म होता है और कुल की वृद्धि होती है।"
+    },
+    {
+      "number": 65,
+      "text": "पुत्रस्थाने बुधे जीवे कुजराहुसमन्विते ।\nलग्ने मन्दे सुतभावो ज्ञेयो मातुलशापतः",
+      "english_meaning": "If the Moon is in the eighth house aspected by Saturn, and the fifth house has a malefic, it indicates the curse of an ancestor.",
+      "hindi_meaning": "यदि चन्द्रमा आठवें भाव में शनि से दृष्ट हो और पांचवें भाव में पाप ग्रह हो, तो यह पितर के शाप का संकेत है।"
+    },
+    {
+      "number": 66,
+      "text": "लग्नेपुत्रेश्वरौ पुत्रे बुधभौमार्किसंयुतौ ।\nज्ञेयं मातुलशापत्वाज्जनस्य सन्ततिक्षयः",
+      "english_meaning": "If the lord of the fifth is in the navamsha of Saturn, and Rahu is in the fifth house, it indicates the curse of an ancestor.",
+      "hindi_meaning": "यदि पंचमेश शनि के नवमांश में हो और राहु पांचवें भाव में हो, तो यह पितर के शाप को दर्शाता है।"
+    },
+    {
+      "number": 67,
+      "text": "लुप्ते पुत्राधिपे लग्ने सप्तमे भानुनन्दने ।\nलग्नेशे बुधसंयुक्ते तस्यापि सन्ततिक्षयः",
+      "english_meaning": "When the 5th lord is obscured (lost) and Saturn is in the Lagna or 7th house, and the Lagna lord is conjoined with Mercury — there too, progeny is lost.",
+      "hindi_meaning": "जब पुत्रेश अस्त हो (लुप्त हो) और शनि लग्न या सप्तम भाव में हो, और लग्नेश बुध से युक्त हो — तब भी सन्ततिक्षय (पुत्र-नाश) होता है।"
+    },
+    {
+      "number": 68,
+      "text": "ज्ञातिस्थानाधिपे लग्ने व्ययेशेन समन्विते ।\nशशिसौम्यकुजे पुत्रे विज्ञेयः सन्ततिक्षयः",
+      "english_meaning": "When the 11th lord is in the Lagna conjoined with the 12th lord, and the Moon, Mercury, and Mars are in the 5th house — there too, progeny is lost.",
+      "hindi_meaning": "जब 11वें का स्वामी 12वें के स्वामी के साथ लग्न में हो, और पुत्र भाव में चन्द्रमा, बुध और मंगल हों — तब भी सन्ततिक्षय होता है।"
+    },
+    {
+      "number": 69,
+      "text": "तद्दोषपरिहारार्थं विष्णुस्थापरमाचरेत् ।\nवापीकूपतडागादिखननं सुतबन्धुनम्",
+      "english_meaning": "For the pacification of this defect, one should perform worship of Lord Vishnu (Vishnu-Sthapana). One should also have wells, ponds, and reservoirs (Vapi-Kupa-Tadaga) dug for the benefit of sons and relatives.",
+      "hindi_meaning": "इस दोष के निवारण के लिए विष्णु-स्थापन (विष्णु-पूजा) करनी चाहिए। पुत्र और बन्धुओं के लाभ के लिए वापी (बावड़ी), कूप (कुआँ) और तड़ाग (तालाब) भी खुदवाने चाहिए।"
+    },
+    {
+      "number": 70,
+      "text": "पुत्रवृद्धिर्भवेत्तस्य सम्पद्वृद्धिः प्रजायते ।\nइति योगवशादेवं शान्तिं कुर्याद् विचक्षणः",
+      "english_meaning": "Through this, his children will flourish and his wealth will increase. In this manner, based on planetary combinations, the wise astrologer should prescribe peace-rituals.",
+      "hindi_meaning": "इससे उसके पुत्रों में वृद्धि होगी और सम्पत्ति बढ़ेगी। इस प्रकार ग्रह-योग के अनुसार विचक्षण (कुशल) ज्योतिषी को शान्ति करानी चाहिए।"
+    },
+    {
+      "number": 71,
+      "text": "बलगर्व्व यो मर्त्यो ब्राह्मणानवमन्यते ।\nतद्दोषाद् ब्रह्मशापाच्च तस्य स्यात् सन्ततिक्षयः",
+      "english_meaning": "A man who, out of pride and arrogance, disrespects Brahmins — due to that sin and a Brahmin's curse, he suffers loss of progeny.",
+      "hindi_meaning": "जो मनुष्य बल और अहंकार के कारण ब्राह्मणों का अपमान करता है — उस दोष तथा ब्रह्मशाप के कारण उसके सन्तति का नाश होता है।"
+    },
+    {
+      "number": 72,
+      "text": "गुरुक्षेत्रे यदा राहुः पुत्रे जीवारभानुजाः ।\nधर्मस्थानाधिपे नाशे ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "When Rahu is in a Jupiter-owned sign in the 5th, and Jupiter, Saturn, and the Sun are there too, and the 9th lord is in the 8th — loss of children from a Brahmin's curse.",
+      "hindi_meaning": "जब पुत्र भाव में बृहस्पति की राशि में राहु हो, और गुरु, शनि तथा सूर्य भी वहाँ हों, और 9वें का स्वामी 8वें भाव में हो — तब ब्रह्मशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 73,
+      "text": "धर्मेशे पुत्रभावस्थे पुत्रेशे नाशराशिगे ।\nजीवारराहुभिर्युक्ते ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "When the 9th lord is in the 5th, the 5th lord is in an 8th-house sign (Nasha-Rashi), and conjoined with Jupiter, Mars, and Rahu — loss of children from a Brahmin's curse.",
+      "hindi_meaning": "जब 9वें का स्वामी 5वें भाव में हो, पुत्रेश नाश-राशि (8वें की राशि) में हो, और गुरु, मंगल और राहु से युक्त हो — तब ब्रह्मशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 74,
+      "text": "धर्मभावाधिपे नीचे व्ययेशे पुत्रभावगे ।\nराहुयुतेक्षिते वापि ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "When the 9th lord is debilitated, the 12th lord is in the 5th, and they are conjoined with or aspected by Rahu — loss of children from a Brahmin's curse.",
+      "hindi_meaning": "जब 9वें का स्वामी नीच हो, 12वें का स्वामी पुत्र भाव में हो, और वे राहु से युक्त या दृष्ट हों — तब ब्रह्मशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 75,
+      "text": "जीवे नीचगते राहौ लग्ने वा पुत्रराशिगे ।\nपुत्रस्थानाधिपे दुःस्थे ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "To overcome an ancestor's curse, one should perform the Narayanabali ritual and donate a silver idol of Lord Brahma.",
+      "hindi_meaning": "पितर के शाप को दूर करने के लिए नारायणबलि अनुष्ठान करना चाहिए और भगवान ब्रह्मा की चांदी की प्रतिमा दान करनी चाहिए।"
+    },
+    {
+      "number": 76,
+      "text": "पुत्रभावाधिपे जीवे रन्ध्रे पापसमन्विते ।\nपुत्रेशे सार्कचन्द्रे वा ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "O Sage! The wise should perform the prescribed remedies. Without remedies, the curses from previous births cannot be destroyed.",
+      "hindi_meaning": "हे मुनि! बुद्धिमान व्यक्ति को बताए गए उपाय करने चाहिए। उपायों के बिना पूर्व जन्म के शाप नष्ट नहीं हो सकते।"
+    },
+    {
+      "number": 77,
+      "text": "मन्दांशे मन्दसंयुक्ते जीवे भौमसमन्विते ।\nपुत्रेशे व्ययराशिस्थे ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "If the curse is due to multiple planets, one should perform a composite pacification ritual combining the remedies for all involved.",
+      "hindi_meaning": "यदि शाप अनेक ग्रहों के कारण हो, तो उन सभी के उपायों को मिलाकर एक संयुक्त शान्ति अनुष्ठान करना चाहिए।"
+    },
+    {
+      "number": 78,
+      "text": "लग्ने गुरुयुते मन्दे भाग्ये राहुसमन्विते ।\nव्यय वा गुरुसंयुक्ते ब्रह्मशापात् सुतक्षयः",
+      "english_meaning": "When Saturn in the Lagna is conjoined with Jupiter, and Rahu is in the 9th or the 12th conjoined with Jupiter — loss of children from a Brahmin's curse.",
+      "hindi_meaning": "जब लग्न में शनि गुरु से युक्त हो, और 9वें या 12वें भाव में राहु गुरु से युक्त हो — तब ब्रह्मशाप से पुत्रहानि होती है।"
+    },
+    {
+      "number": 79,
+      "text": "तस्य दोषस्य शान्त्यर्थं कुर्याच्चान्द्रायणं नरः ।\nब्रह्मकृच्छ्रत्र्यं कृत्वा धनुं दद्यात् सदक्षिणाम्"
+    },
+    {
+      "number": 80,
+      "text": "पञ्चरत्नानि देयानि सुवर्णसहितानि च ।\nब्राह्मणान् भोजयेत् पश्चाद्यथाशक्ति द्विजोत्तम",
+      "english_meaning": "O Maitreya! I have explained the astrological combinations for the lack of male progeny due to curses. Now listen to the general remedies.",
+      "hindi_meaning": "हे मैत्रेय! मैंने शापों के कारण पुत्र संतान न होने के ज्योतिषीय योग बताए हैं। अब सामान्य उपायों को सुनो।"
+    },
+    {
+      "number": 81,
+      "text": "एवं कृते तु सत्पुत्रं लभते नाऽत्र संशयः ।\nमुक्तशापो विशुद्धात्मा स नरः सुखमेधते",
+      "english_meaning": "One should worship Lord Shiva and Parvati with devotion, and chant the Santana Gopala Mantra to obtain a virtuous son.",
+      "hindi_meaning": "श्रद्धापूर्वक भगवान शिव और पार्वती की पूजा करनी चाहिए, और गुणवान पुत्र की प्राप्ति के लिए संतान गोपाल मन्त्र का जाप करना चाहिए।"
+    },
+    {
+      "number": 82,
+      "text": "दारेशे पुत्रभावस्थे दारेशस्यांशपे शनौ ।\nपुत्रेशे नाशराशिस्थे पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 83,
+      "text": "नाशसंस्थे कलत्रेशे पुत्रेशे नाशराशिगे ।\nकारके पापसंयुक्ते पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 84,
+      "text": "पुत्रस्थानगते शुक्रे कामपे रन्ध्रमाश्रिते ।\nकारके पापसंयुक्ते पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 85,
+      "text": "कुटुम्बे पापसंयुक्ते कामपे नाशराशिगे ।\nपुत्रे पापग्रहैर्युक्ते पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 86,
+      "text": "भाग्यस्थानगते शुक्रे दारेशे नाशराशिगे ।\nलग्ने सुते च पापढ्ये पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 87,
+      "text": "भाग्यस्थानाधिपे शुक्रे पुत्रेशे शत्रुराशिगे ।\nगुरुलग्नेशदारेशा दुःस्थाश्चेत् सन्ततिक्षयः"
+    },
+    {
+      "number": 88,
+      "text": "पुत्रस्थाने भृगुक्षेत्रे राहुचन्द्रसमन्विते ।\nव्यये लग्ने धने पापे पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 89,
+      "text": "सप्तमे मन्दशुक्रौ च रन्ध्रेशे पुत्रभे रवौ ।\nलग्ने राहुसमायुक्ते पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 90,
+      "text": "धने कुजे व्यये जीवे पुत्रस्थे भृगुनन्दने ।\nशनिराहुयुते दृष्टे पत्नीशापात् सुतक्षयः",
+      "english_meaning": "By feeding the poor, donating to the needy, and performing good deeds, the accumulated sins of previous births are washed away.",
+      "hindi_meaning": "गरीबों को भोजन कराने, जरूरतमंदों को दान देने और सत्कर्म करने से पूर्व जन्म के संचित पाप धुल जाते हैं।"
+    },
+    {
+      "number": 91,
+      "text": "नाशस्थौ वित्तदारेशौ पुत्रे लग्ने कुजे शनौ ।\nकारके पापसंयुक्ते पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 92,
+      "text": "लग्नपञ्चमभाग्यस्था राहुमन्दकुजाः क्रमात् ।\nरन्ध्रस्थौ पुत्रदारेशौ पत्नीशापात् सुतक्षयः"
+    },
+    {
+      "number": 93,
+      "text": "शापमुक्त्यै च कन्यायां सत्यां तद्दानमाचरेत् ।\nकन्याभावे च श्रीविष्णोर्मूर्ति लक्ष्मीसमन्विताम्"
+    },
+    {
+      "number": 94,
+      "text": "दद्यात् स्वर्णमयीं विप्र दशदेनुसमन्विताम् ।\nशय्यां च भूषणं वस्त्रं दम्पतिभ्यां द्विजन्मनाम्"
+    },
+    {
+      "number": 95,
+      "text": "ध्रुवं तस्य भवेत् पुत्रो भाग्यवृद्धिश्च जायते ।\nकर्मलोपे पितृणां च प्रेतत्वं तस्य जायते"
+    },
+    {
+      "number": 96,
+      "text": "तस्य प्रेतस्य शापाच्च पुत्राभावः प्रजायते ।\nअतोऽत्र तादृशान् योगात् जन्मलग्नात् प्रवच्म्यहम्"
+    },
+    {
+      "number": 97,
+      "text": "पुत्रस्थानौ मन्दसूर्यौ क्षीणचन्द्रश्च सप्तमे ।\nलग्ने व्यये राहुजीवौ प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 98,
+      "text": "पुत्रस्थानाधिपे मन्दे नाशस्थे लग्नगे कुजे ।\nकारके नाशभावे च प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 99,
+      "text": "लग्ने पापे व्यये भानौ सुते चारार्किसोमजाः ।\nपुत्रेशे रन्ध्रभावस्थे प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 100,
+      "text": "लग्ने स्वर्भानुना युक्ते पुत्रस्थे भानुनन्दने ।\nगुरौ च नाशराशिस्थे प्रेतशापात् सुतक्षयः",
+      "english_meaning": "Fasting on Ekadashi, listening to the glories of Lord Vishnu, and respecting the elders bring auspicious progeny.",
+      "hindi_meaning": "एकादशी का व्रत करने, भगवान विष्णु की महिमा सुनने और बड़ों का सम्मान करने से शुभ संतान की प्राप्ति होती है।"
+    },
+    {
+      "number": 101,
+      "text": "लग्ने राहौ सशुक्रेज्ये चन्द्रे मन्दयुते तथा ।\nलग्नेशे मृत्युराशिस्थे प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 102,
+      "text": "पुत्रस्थानाधिपे नीचे कारके नीचराशिगे ।\nनीचस्थग्रहदृष्टे च प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 103,
+      "text": "लग्ने मन्दे सुते राहौ रन्ध्रे भानुसमन्विते ।\nव्यये भौमेन संयुक्ते प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 104,
+      "text": "कामस्थानाधिपे दुःस्थे पुत्रे चन्द्रसमन्विते ।\nमन्दमान्दियुते लग्ने प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 105,
+      "text": "वधस्थानाधिपे पुत्रे शनिशुक्रसमन्विते ।\nकारके नाशराशिस्थे प्रेतशापात् सुतक्षयः"
+    },
+    {
+      "number": 106,
+      "text": "अस्य दोषस्य शान्त्यर्थं गयाश्राद्धं समाचरेत् ।\nकुर्यांद्रुद्राभिषेकञ्च ब्रह्ममूर्ति प्रदापयेत्"
+    },
+    {
+      "number": 107,
+      "text": "धेनुं रजतपात्रं च तथा नीलमणिं द्विज ।\nब्राह्मणान् भोजयेत् पश्चात् तेभ्यश्च दक्षिणां दिशेत्"
+    },
+    {
+      "number": 108,
+      "text": "एवं कृते मनुष्यस्य शापमोक्षा प्रजायते ।\nपुत्रोत्पत्तिर्भवेत्तस्य कुलवृद्धिश्च जायते",
+      "english_meaning": "By doing this, the person is freed from the curse. He obtains a son, and his family lineage grows.",
+      "hindi_meaning": "ऐसा करने से मनुष्य शाप से मुक्त हो जाता है। उसे पुत्र की प्राप्ति होती है और उसके कुल की वृद्धि होती है।"
+    },
+    {
+      "number": 109,
+      "text": "तथा ज्ञशुक्रजे दोषे पुत्राप्तिः शम्भुपूजनात् ।\nजीवचन्द्रकृते विप्र मन्त्रयन्त्रौषधादितः",
+      "english_meaning": "For defects caused by Mercury and Venus, worship Lord Shiva. For Jupiter and Moon, use mantras, yantras, and medicines, O Brahmin.",
+      "hindi_meaning": "बुध और शुक्र जनित दोष के लिए भगवान शिव की पूजा करनी चाहिए। गुरु और चन्द्रमा के लिए, हे विप्र, मन्त्र, यन्त्र और औषधियों का प्रयोग करना चाहिए।"
+    },
+    {
+      "number": 110,
+      "text": "राहुजे कन्यकादानात् सूर्यजे हरिकीर्तनात् ।\nगोदानात् केतुजे दोषे रुद्रजापात् कुजाऽर्किजे",
+      "english_meaning": "For Rahu, donate a maiden (Kanyadaan); for Sun, sing the glories of Hari. For Ketu, donate a cow; for Mars and Saturn, chant Rudra mantras.",
+      "hindi_meaning": "राहु के दोष के लिए कन्यादान; सूर्य के लिए हरि कीर्तन। केतु के लिए गौदान; मंगल और शनि के लिए रुद्र जाप करना चाहिए।"
+    },
+    {
+      "number": 111,
+      "text": "सर्वदोषविनाशाय शुभसन्तानलब्धये ।\nहरिवंशकथा भक्त्या श्रोतव्या विधिना द्विज",
+      "english_meaning": "For the destruction of all defects and to obtain auspicious progeny, one should devoutly listen to the Harivansha Katha according to the prescribed rules, O Brahmin.",
+      "hindi_meaning": "हे द्विज! सभी दोषों के विनाश और शुभ संतान की प्राप्ति के लिए, विधि-विधान से भक्तिपूर्वक हरिवंश कथा सुननी चाहिए।"
+    }
+  ]
+}

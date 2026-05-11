@@ -1,0 +1,456 @@
+{
+  "source_file": "BPHS0110.md",
+  "source_chunk": "BPHS0110.json",
+  "chunk_index": 2,
+  "chapter": 3,
+  "variant": null,
+  "title": "अथ ग्रहगुणस्वरूपाध्यायः",
+  "shloka_count": 74,
+  "is_duplicate": false,
+  "shlokas": [
+    {
+      "number": 1,
+      "text": "कथितं भवता प्रेम्णा ग्रहावतरणं मुने ।\nतेषां गुणस्वरूपाद्यं कृपया कथ्यतां पुनः",
+      "english_meaning": "Maitreya said: O Sage! You have described the incarnations of planets with great love. Now, please tell me about their qualities, forms, and other characteristics.",
+      "hindi_meaning": "मैत्रेय ने कहा: हे मुने! आपने बड़े प्रेम से ग्रहों के अवतारों का वर्णन किया। अब कृपा करके मुझे उनके गुण, स्वरूप आदि के बारे में भी बताइये।"
+    },
+    {
+      "number": 2,
+      "text": "श‍ृणु विप्र प्रवक्ष्यामि भग्रहाणां परिस्थितिम् ।\nआकाशे यानि दृश्यन्ते ज्योतिर्बिम्बान्यनेकशः",
+      "english_meaning": "Parashara said: Listen, O Brahmin! I shall explain the situation of the constellations and planets. Many luminous bodies are seen in the sky.",
+      "hindi_meaning": "पराशर जी ने कहा: हे विप्र! सुनो, मैं नक्षत्रों और ग्रहों की स्थिति का वर्णन करता हूँ। आकाश में अनेक ज्योति-पुंज (तारे) दिखाई देते हैं।"
+    },
+    {
+      "number": 3,
+      "text": "तेषु नक्षत्रसञ्ज्ञानि ग्रहसञ्ज्ञानि कानिचित् ।\nतानि नक्षत्रनामानि स्थिरस्थानानि यानि वै",
+      "english_meaning": "Among those, some are called constellations (Nakshatras) and some are called planets (Grahas). Those that are fixed in their positions are known as Nakshatras.",
+      "hindi_meaning": "उनमें से कुछ को 'नक्षत्र' और कुछ को 'ग्रह' कहते हैं। जो अपने स्थान पर स्थिर रहते हैं, उन्हें नक्षत्र कहा जाता है।"
+    },
+    {
+      "number": 4,
+      "text": "गच्छन्तो भानि गृह्णन्ति सततं ये तु ते ग्रहाः ।\nभचक्रस्य नगाश्व्यंशा अश्विन्यादिसमाह्वयाः",
+      "english_meaning": "Those which constantly move through the constellations are called planets. The zodiacal circle is divided into 27 parts (Nagashvi = 27), called Ashwini, etc.",
+      "hindi_meaning": "जो निरंतर नक्षत्रों में भ्रमण करते रहते हैं, वे 'ग्रह' हैं। भचक्र (राशिचक्र) के जो २७ विभाग हैं, उन्हें अश्विनी आदि नक्षत्र कहते हैं।"
+    },
+    {
+      "number": 5,
+      "text": "तद्द्वादशविभागास्तु तुल्या मेषादिसञ्ज्ञकाः ।\nप्रसिद्धा राशयः सन्ति ग्रहास्त्वर्कादिसञ्ज्ञकाः",
+      "english_meaning": "The twelve equal divisions of the zodiac are known as Aries (Mesha), etc. These are famous as Signs (Rashis), and the planets are called Sun (Arka), etc.",
+      "hindi_meaning": "उसी राशिचक्र के बारह बराबर विभाग मेष आदि कहलाते हैं। ये ही 'राशि' नाम से प्रसिद्ध हैं और ग्रह सूर्य आदि नाम से जाने जाते हैं।"
+    },
+    {
+      "number": 6,
+      "text": "राशीनामुदयो लग्नं तद्वशादेव जन्मिनाम् ।\nग्रहयोगवियोगाभ्यां फलं चिन्त्यं शुभाशुभम्",
+      "english_meaning": "The rising of the signs is called the Ascendant (Lagna). Based on that, the auspicious or inauspicious results for beings should be determined through the conjunctions and separations of planets.",
+      "hindi_meaning": "राशियों के उदय को 'लग्न' कहते हैं। उसी लग्न के अनुसार ग्रहों के संयोग और वियोग से प्राणियों के शुभ-अशुभ फल का विचार करना चाहिए।"
+    },
+    {
+      "number": 7,
+      "text": "सञ्ज्ञा नक्षत्रवृन्दानां ज्ञेयाः सामान्यशास्त्रतः ।\nएतच्छास्त्रानुसारेण राशिखेटफलं ब्रुवे",
+      "english_meaning": "The names and definitions of the constellation groups should be learned from general astronomy. According to this science (Hora), I will describe the results of the signs and planets.",
+      "hindi_meaning": "नक्षत्रों के समूहों के नाम और सञ्ज्ञाएँ सामान्य ज्योतिष शास्त्र से जाननी चाहिए। इस (होरा) शास्त्र के अनुसार मैं अब राशियों और ग्रहों के फल कहूँगा।"
+    },
+    {
+      "number": 8,
+      "text": "यस्मिन् काले यतः खेटा यान्ति दृग्गणितैकताम् ।\nतत एव स्फुटाः कार्याः दिक्कालौ च स्फुटौ विदा",
+      "english_meaning": "At the time when the calculated positions of the planets match the observed positions, only then should the planetary positions, directions, and time be made accurate by the wise.",
+      "hindi_meaning": "जिस समय ग्रहों की गणना और प्रत्यक्ष दर्शन में एकता हो जाए (मैच कर जाए), उसी समय से विद्वानों को ग्रहों की स्थिति, दिशा और काल को स्पष्ट करना चाहिए।"
+    },
+    {
+      "number": 9,
+      "text": "स्वस्वदेशोद्भवैः साध्यं लग्नं राश्युदयैः स्फुटम् ।\nअथादौ वच्मि खेटानां जातिरूपगुणानहम्",
+      "english_meaning": "The accurate Ascendant should be calculated using the sign rising times of one's own country. Now, first, I will tell the castes, forms, and qualities of the planets.",
+      "hindi_meaning": "अपने देश के राश्यूदय मानों से स्पष्ट लग्न साधन करना चाहिए। अब मैं सबसे पहले ग्रहों की जाति, रूप और गुणों का वर्णन करूँगा।"
+    },
+    {
+      "number": 10,
+      "text": "अथ खेटा रविश्चन्द्रो मङ्गलश्च बुधस्तथा ।\nगुरुः शुक्रः शनी राहुः केतुश्चैते यथाक्रमम्",
+      "english_meaning": "The planets are Sun (Ravi), Moon (Chandra), Mars (Mangala), Mercury (Budha), Jupiter (Guru), Venus (Shukra), Saturn (Shani), Rahu, and Ketu in this order.",
+      "hindi_meaning": "ग्रहों के नाम इस प्रकार हैं: सूर्य, चन्द्रमा, मंगल, बुध, बृहस्पति, शुक्र, शनि, राहु और केतु।"
+    },
+    {
+      "number": 11,
+      "text": "तत्रार्कशनिभूपुत्राः क्षीणेन्दुराहुकेतवः ।\nक्रूराः शेषग्रहा सौम्याः क्रूरः क्रूरयुतो बुधः",
+      "english_meaning": "Among them, Sun (Arka), Saturn, Mars (Bhuputra), weak Moon, Rahu, and Ketu are cruel (malefics). The remaining planets are auspicious (benefics). Mercury is malefic when joined by a malefic.",
+      "hindi_meaning": "इनमें सूर्य, शनि, मंगल, क्षीण चन्द्रमा, राहु और केतु क्रूर (पाप) ग्रह हैं। शेष ग्रह शुभ हैं, और बुध पाप ग्रह के साथ होने पर पाप ग्रह हो जाता है।"
+    },
+    {
+      "number": 12,
+      "text": "सर्वात्मा च दिवानाथो मनः कुमुदबान्धवः ।\nसत्त्वं कुजो बुधैः प्रोक्तो बुधो वाणीप्रदायकः",
+      "english_meaning": "The Sun (Divanatha) is the soul of all, the Moon (Kumudabandhava) is the mind. Mars (Kuja) is called the strength (Sattva) by the wise, and Mercury (Budha) is the giver of speech.",
+      "hindi_meaning": "सूर्य सबकी आत्मा है, चन्द्रमा मन है। मंगल को विद्वानों ने बल (सत्त्व) कहा है और बुध वाणी देने वाला है।"
+    },
+    {
+      "number": 13,
+      "text": "देवेज्यो ज्ञानसुखदो भृगुर्वीर्यप्रदयकः ।\nऋषिभिः प्राक्तनैः प्रोक्तश्छायासूनुश्च दुःखदः",
+      "english_meaning": "Jupiter (Devejya) gives knowledge and happiness, Venus (Bhrigu) is the giver of vitality (passion). Saturn (Chhayasunu), the son of Shadow, is called the giver of sorrow by the ancient seers.",
+      "hindi_meaning": "बृहस्पति ज्ञान और सुख देने वाले हैं, शुक्र वीर्य (शक्ति/काम) देने वाले हैं। प्राचीन ऋषियों ने शनि (छायापुत्र) को दुःख देने वाला कहा है।"
+    },
+    {
+      "number": 14,
+      "text": "रविचन्द्रौ तु राजानौ नेता ज्ञेयो धरात्मजः ।\nबुधो राजकुमारश्च सचिवौ गुरुभार्गवौ",
+      "english_meaning": "The Sun and Moon are the Kings, Mars (Dharatmaja) is known as the Leader (Commander). Mercury is the Prince, and Jupiter and Venus are the Ministers.",
+      "hindi_meaning": "सूर्य और चन्द्रमा राजा हैं, मंगल को नेता (सेनापति) समझना चाहिए। बुध राजकुमार है और बृहस्पति एवं शुक्र मन्त्री हैं।"
+    },
+    {
+      "number": 15,
+      "text": "प्रेष्यको रविपुत्रश्च सेना स्वर्भानुपुच्छकौ ।\nएवं क्रमेण वै विप्र सूर्यादीन् प्रविचिन्तयेत्",
+      "english_meaning": "Saturn is the Servant, and Rahu (Svarbhanu) and Ketu (the tail) are the Army. In this order, O Brahmin, one should consider the planets starting from the Sun.",
+      "hindi_meaning": "शनि सेवक है और राहु एवं केतु सेना हैं। हे विप्र! इस क्रम से सूर्य आदि ग्रहों के बारे में विचार करना चाहिए।"
+    },
+    {
+      "number": 16,
+      "text": "रक्तश्यामो दिवाधीशो गौरगात्रो निशाकरः ।\nनात्युच्चाङ्गः कुजो रक्तो दूर्वाश्यामो बुधस्तथा",
+      "english_meaning": "The Sun is dark red, the Moon is fair-bodied. Mars is red and not too tall, and Mercury is green like the Durva grass.",
+      "hindi_meaning": "सूर्य रक्तश्याम (गहरा लाल) है, चन्द्रमा गौर वर्ण का है। मंगल लाल रंग का और मँझले कद का है तथा बुध दूर्वा घास के समान हरा है।"
+    },
+    {
+      "number": 17,
+      "text": "गौरगात्रो गुरुर्ज्ञेयः शुक्रः श्यावस्तथैव च ।\nकृष्णदेहो रवेः पुत्रो ज्ञायते द्विजसत्तम",
+      "english_meaning": "Jupiter is known as fair-bodied, and Venus is variegated (Shyava). Saturn, the son of the Sun, is known to have a black body, O best of the twice-born.",
+      "hindi_meaning": "बृहस्पति गौर वर्ण के हैं और शुक्र श्याव (चितकबरे/श्याम) वर्ण के हैं। हे द्विजश्रेष्ठ! शनि का शरीर काला माना जाता है।"
+    },
+    {
+      "number": 18,
+      "text": "वह्न्यम्बुशिखिजा विष्णुविढौजः शचिका द्विज ।\nसूर्यादीनां खगानां च देवा ज्ञेयाः क्रमेण च",
+      "english_meaning": "Agni (Fire), Ambu (Water), Skanda (Shikhija), Vishnu, Indra (Vidhauja), and Shachi are the deities of the planets starting from the Sun, O Brahmin.",
+      "hindi_meaning": "हे द्विज! अग्नि, जल, कार्तिकेय, विष्णु, इन्द्र और शची - ये सूर्य आदि ग्रहों के क्रमशः देवता जानने चाहिए।"
+    },
+    {
+      "number": 19,
+      "text": "क्लीवौ द्वौ सौम्यसौरी च युवतीन्दुभृगू द्विज ।\nनराः शेषाश्च विज्ञेया भानुर्भौमो गुरुस्तथा",
+      "english_meaning": "Mercury (Saumya) and Saturn (Sauri) are the two eunuchs. Moon and Venus are females. The rest - Sun, Mars, and Jupiter - are known as males.",
+      "hindi_meaning": "बुध और शनि नपुंसक हैं, चन्द्रमा और शुक्र स्त्री हैं। शेष सूर्य, मंगल और बृहस्पति पुरुष ग्रह जानने चाहिए।"
+    },
+    {
+      "number": 20,
+      "text": "अग्निभूमिनभस्तोयवायवः क्रमतो द्विज ।\nभौमादीनां ग्रहाणां च तत्त्वानीति यथाक्रमम्",
+      "english_meaning": "Fire, Earth, Space, Water, and Air are the Tattvas (elements) of the planets starting from Mars in order, O Brahmin.",
+      "hindi_meaning": "हे द्विज! मंगल आदि ग्रहों के तत्त्व क्रमशः अग्नि, पृथ्वी, आकाश, जल और वायु हैं।"
+    },
+    {
+      "number": 21,
+      "text": "गुरुशुक्रौ विप्रवर्णौ कुजार्कौ क्षत्रियौ द्विज ।\nशशिसोम्यौ वैश्यवर्णौ शनिः शूद्रो द्विजोत्तम्",
+      "english_meaning": "Jupiter and Venus are of the Brahmin caste, Mars and Sun are Kshatriyas. Moon and Mercury are of the Vaishya caste, and Saturn is a Shudra, O best of the twice-born.",
+      "hindi_meaning": "बृहस्पति और शुक्र ब्राह्मण वर्ण के हैं, मंगल और सूर्य क्षत्रिय हैं। चन्द्रमा और बुध वैश्य वर्ण के हैं और शनि शूद्र है।"
+    },
+    {
+      "number": 22,
+      "text": "जीवसूर्येन्द्रवः सत्त्वं बुधशुक्रौ रजस्तथा ।\nसूर्यपुत्रभरापुत्रौ तमःप्रकृतिकौ द्विज",
+      "english_meaning": "Jupiter, Sun, and Moon are of Sattva nature. Mercury and Venus are of Rajas nature. Saturn and Mars are of Tamas nature, O Brahmin.",
+      "hindi_meaning": "बृहस्पति, सूर्य और चन्द्रमा सत्त्वगुणी हैं। बुध और शुक्र रजोगुणी हैं। शनि और मंगल तमोशगुणी प्रकृति के हैं।"
+    },
+    {
+      "number": 23,
+      "text": "मधुपिङ्गलदृक्सूर्यश्चतुरस्रः शुचिर्द्विज ।\nपित्तप्रकृतिको धीमान् पुमानल्पकचो द्विज",
+      "english_meaning": "The Sun has honey-colored eyes, a square body, and is clean. He is of Pitta (bile) nature, intelligent, and has little hair.",
+      "hindi_meaning": "सूर्य की आँखें शहद के समान पीली हैं, शरीर चौकोर और स्वच्छ है। वह पित्त प्रकृति वाला, बुद्धिमान और कम बालों वाला पुरुष है।"
+    },
+    {
+      "number": 24,
+      "text": "बहुवातकफः प्राज्ञश्चन्द्रो वृत्ततनुर्द्विज ।\nशुभदृङ्मधुवाक्यश्च चञ्चलो मदनातुरः",
+      "english_meaning": "The Moon is of Vata and Kapha (air and phlegm) nature, wise, and has a round body. He has auspicious looks, sweet speech, is fickle, and passionate.",
+      "hindi_meaning": "चन्द्रमा वात और कफ प्रकृति वाला, विद्वान और गोल शरीर वाला है। उसकी दृष्टि शुभ है, वाणी मधुर है, वह चंचल और कामुक है।"
+    },
+    {
+      "number": 25,
+      "text": "क्रूरो रक्तेक्षणो भौमश्चपलोदारमूर्तिकः ।\nपित्तप्रकृतिकः क्रोधी कृशमध्यतनुर्द्विज",
+      "english_meaning": "Mars is cruel, has red eyes, is fickle, and has a generous form. He is of Pitta (bile) nature, angry, and has a thin waist.",
+      "hindi_meaning": "मंगल क्रूर, लाल आँखों वाला, चंचल और उदार शरीर वाला है। वह पित्त प्रकृति वाला, क्रोधी और पतली कमर वाला है।"
+    },
+    {
+      "number": 26,
+      "text": "वपुःश्रेष्ठः श्लिष्टवाक्च ह्यतिहास्यरुचिर्बुधः ।\nपित्तवान् कफवान् विप्र मारुतप्रकृतिस्तथा",
+      "english_meaning": "Mercury has an excellent body, speaks with double meanings, and is very fond of humor. He is of Pitta, Kapha, and Vata (mixed) nature.",
+      "hindi_meaning": "बुध का शरीर श्रेष्ठ है, वह श्लिष्ट (द्विअर्थी) वाणी बोलने वाला और अत्यंत हास्यप्रिय है। वह पित्त, कफ और वात तीनों प्रकृतियों वाला है।"
+    },
+    {
+      "number": 27,
+      "text": "बृहद्गात्रो गुरुश्चैव पिङ्गलो मूर्द्धजेक्षणे ।\nकफप्रकृतिको धीमान् सर्वशास्त्रविशारदः",
+      "english_meaning": "Jupiter has a big body, golden-brown hair and eyes, is of Kapha nature, intelligent, and proficient in all scriptures.",
+      "hindi_meaning": "बृहस्पति का शरीर विशाल है, बाल और आँखें भूरी (पीली) हैं। वह कफ प्रकृति वाला, बुद्धिमान और समस्त शास्त्रों का ज्ञाता है।"
+    },
+    {
+      "number": 28,
+      "text": "सुखि कान्तवपु श्रेष्ठः सुलोचनो भृगोः सुतः ।\nकाव्यकर्ता कफाधिक्योऽनिलात्मा वक्रमूर्धजः",
+      "english_meaning": "Venus is happy, has a lovely and excellent body, beautiful eyes, and is a poet. He has an excess of Kapha, is of Vata nature, and has curly hair.",
+      "hindi_meaning": "शुक्र सुखी, सुंदर शरीर वाला, श्रेष्ठ और सुंदर आँखों वाला है। वह कवि (काव्यकर्ता), कफ की अधिकता वाला, वात प्रकृति वाला और घुँघराले बालों वाला है।"
+    },
+    {
+      "number": 29,
+      "text": "कृश्दीर्घतनुः शौरिः पिङ्गदृष्ट्यनिलात्मकः ।\nस्थूलदन्तोऽलसः पङ्गुः खररोमकचो द्विज",
+      "english_meaning": "Saturn has a thin and long body, golden-brown eyes, and is of Vata nature. He has big teeth, is lazy, lame, and has coarse hair.",
+      "hindi_meaning": "शनि दुबले और लंबे शरीर वाला, भूरी आँखों वाला और वात प्रकृति वाला है। उसके दाँत मोटे हैं, वह आलसी, पंगु (लंगड़ा) और कठोर बालों वाला है।"
+    },
+    {
+      "number": 30,
+      "text": "धूम्राकारो नीलतनुर्वनस्थोऽपि भयङ्करः ।\nवातप्रकृतिको धीमान् स्वर्भानुस्तत्समः शिखी",
+      "english_meaning": "Rahu is of smoke-color, blue-bodied, a forest-dweller, terrifying, of Vata nature, and intelligent. Ketu is similar to him.",
+      "hindi_meaning": "राहु धुएँ के रंग जैसा, नीले शरीर वाला, वन में रहने वाला, भयानक, वात प्रकृति वाला और बुद्धिमान है। केतु भी उसी के समान है।"
+    },
+    {
+      "number": 31,
+      "text": "अस्थि रक्तस्तथा मज्जा त्वग् वसा वीर्यमेव च ।\nस्नायुरेषामधीशाश्च क्रमात् सूर्यादयो द्विज",
+      "english_meaning": "Bone, Blood, Marrow, Skin, Fat, Virya (potency), and Sinew (nerves) are ruled by the planets from Sun onwards in order.",
+      "hindi_meaning": "हड्डी, रक्त, मज्जा, त्वचा, वसा (चर्बी), वीर्य और स्नायु - ये क्रमशः सूर्य आदि सात ग्रहों के अधीन हैं।"
+    },
+    {
+      "number": 32,
+      "text": "देवालयजलं वह्निक्रीडादीनां तथैव च ।\nकोशशय्योत्कराणान्तु नाथां सूर्यादयः क्रमात्",
+      "english_meaning": "Temple, Water, Fire, Playground, Treasury, Bedroom, and Garbage-heap are ruled by the planets from Sun onwards in order.",
+      "hindi_meaning": "देवालय, जलाशय, अग्नि स्थान, क्रीड़ा स्थल, कोष (खजाना), शयनकक्ष और कूड़ा-करकट का स्थान - ये क्रमशः सूर्य आदि ग्रहों के स्थान हैं।"
+    },
+    {
+      "number": 33,
+      "text": "अयनक्षणवारर्तुमासपक्षसमा द्विज ।\nसूर्यादीनां क्रमाज्ज्ञेया निर्विशङ्कं द्विजोत्तम",
+      "english_meaning": "Ayana (6 months), Kshana (48 minutes), Vara (day), Ritu (season), Masa (month), Paksha (fortnight), and Sama (year) are the periods ruled by Sun and others in order without doubt.",
+      "hindi_meaning": "हे द्विजश्रेष्ठ! अयन, क्षण, वार, ऋतु, मास, पक्ष और वर्ष - ये क्रमशः सूर्य आदि ग्रहों के काल (समय) विभाग निःसन्देह जानने चाहिए।"
+    },
+    {
+      "number": 34,
+      "text": "कटुक्षारतिक्तमिश्रमधुराम्लकषायकाः ।\nक्रमेण सर्वे विज्ञेयाः सूर्यादीनां रसा इति",
+      "english_meaning": "Pungent, Salty, Bitter, Mixed, Sweet, Sour, and Astringent are the tastes of the planets from Sun onwards in order.",
+      "hindi_meaning": "चरपरा (कटु), खारा, तीखा (तिक्त), मिला-जुला (मिश्र), मीठा, खट्टा और कसैला - ये क्रमशः सूर्य आदि ग्रहों के रस कहे गए हैं।"
+    },
+    {
+      "number": 35,
+      "text": "बुधेज्यौ बलिनौ पूर्वे रविभौमौ च दक्षिणे ।\nपश्चिमे सूर्यपुत्रश्च सितचन्द्रौ तथोत्तरे",
+      "english_meaning": "Mercury and Jupiter are strong in the East. Sun and Mars are strong in the South. Saturn is strong in the West. Venus and Moon are strong in the North.",
+      "hindi_meaning": "बुध और बृहस्पति पूर्व दिशा में बली होते हैं। सूर्य और मंगल दक्षिण में, शनि पश्चिम में तथा शुक्र और चन्द्रमा उत्तर दिशा में बली होते हैं।"
+    },
+    {
+      "number": 36,
+      "text": "निशायां बलिनश्चन्द्रकुजसौरा भवन्ति हि ।\nसर्वदा ज्ञो बली ज्ञेयो दिने शेषा द्विजोत्तम",
+      "english_meaning": "Moon, Mars, and Saturn are strong at night. Mercury is always strong. The remaining planets (Sun, Jupiter, Venus) are strong during the day.",
+      "hindi_meaning": "चन्द्रमा, मंगल और शनि रात्रि में बली होते हैं। बुध सदैव बली रहता है और शेष ग्रह (सूर्य, गुरु, शुक्र) दिन में बली होते हैं।"
+    },
+    {
+      "number": 37,
+      "text": "कृष्णे च बलिनः क्रूराः सौम्या वीर्ययुताः सिते ।\nसौम्यायने सौम्यखेटो बली याम्यायनेऽपरः",
+      "english_meaning": "Malefics are strong in the dark fortnight, and benefics are strong in the bright fortnight. Benefic planets are strong in the northern solstice, and others in the southern solstice.",
+      "hindi_meaning": "कृष्ण पक्ष में क्रूर ग्रह बली होते हैं और शुक्ल पक्ष में शुभ ग्रह बली होते हैं। उत्तरायण में शुभ ग्रह और दक्षिणायन में अन्य (क्रूर) ग्रह बली होते हैं।"
+    },
+    {
+      "number": 38,
+      "text": "वर्षमासाहहोराणां पतयो बलिनस्तथा ।\nशमम्बुगुशुचंराद्या वृद्धितो वीर्यवत्तरः",
+      "english_meaning": "The lords of the year, month, day, and hour are strong. Saturn, Moon, Mars, Mercury, Jupiter, Venus, and Sun are stronger than each other in this increasing order of natural strength.",
+      "hindi_meaning": "वर्ष, मास, दिन और होरा के स्वामी भी बली होते हैं। शनि, चन्द्र, मंगल, बुध, गुरु, शुक्र और सूर्य - ये बढ़ते हुए क्रम में एक-दूसरे से अधिक बली (नैसर्गिक बल) होते हैं।"
+    },
+    {
+      "number": 39,
+      "text": "सूर्ये जनयति स्थूलान् दुर्भगान् सूर्यपुत्रकः ।\nक्षीरोपेतांस्तथा चन्द्रः कटुकाद्यान् धरासुतः",
+      "english_meaning": "The Sun produces thick/strong trees, Saturn produces weak/ugly ones. The Moon produces milky trees, and Mars produces bitter/thorny ones.",
+      "hindi_meaning": "सूर्य मजबूत वृक्ष उत्पन्न करता है, शनि दुर्बल वृक्ष। चन्द्रमा दूध वाले वृक्ष और मंगल कड़वे या काँटेदार वृक्ष उत्पन्न करता है।"
+    },
+    {
+      "number": 40,
+      "text": "पुष्पवृक्षं भृगोः पुत्रो गुरुज्ञौ सफलाफलौ ।\nनीरसान् सूर्यपुत्रश्च एवं ज्ञेयाः खगा द्विज",
+      "english_meaning": "Venus produces flowering trees. Jupiter produces fruitful ones, and Mercury produces fruitless ones. Saturn produces dry (sapless) trees. Thus should the planets be known.",
+      "hindi_meaning": "शुक्र फूलों वाले वृक्ष, बृहस्पति फलदार वृक्ष और बुध फलहीन वृक्ष उत्पन्न करता है। शनि नीरस (सूखे) वृक्ष पैदा करता है।"
+    },
+    {
+      "number": 41,
+      "text": "राहुश्चाण्डालजातिश्च केतुर्जात्यन्तरस्तथा ।\nशिखिस्वर्भानुमन्दानां वल्मीकः स्थानमुच्यते",
+      "english_meaning": "Rahu is of the Chandala caste, and Ketu is of a mixed caste. The places of Ketu, Rahu, and Saturn are said to be ant-hills.",
+      "hindi_meaning": "राहु चाण्डाल जाति का है और केतु संकर (मिश्रित) जाति का है। केतु, राहु और शनि का स्थान बाँबी (दीमक का घर) कहा गया है।"
+    },
+    {
+      "number": 42,
+      "text": "चित्रकन्था फनीन्द्रस्य केतुश्छिद्रयुतो द्विज! ।\nसीसं रहोर्नीलमणिः केतोर्ज्ञेयो द्विजोत्तम",
+      "english_meaning": "Rahu's garment is a multi-colored quilt, and Ketu's garment is full of holes. O best of the twice-born! Rahu rules Lead, and Ketu rules Blue Sapphire.",
+      "hindi_meaning": "राहु का वस्त्र चितकबरी कंथा (फटा-पुराना वस्त्र) है और केतु का वस्त्र छिद्रयुक्त (फटा हुआ) है। राहु का धातु सीसा है और केतु का रत्न नीलमणि जानना चाहिए।"
+    },
+    {
+      "number": 43,
+      "text": "गुरोः पीताम्बरं विप्र भृगोः क्षौमं तथैव च ।\nरक्तक्षौमं भास्करस्य इन्दोः क्षौमं सितं द्विज",
+      "english_meaning": "Jupiter wears yellow garments, and Venus wears silk. The Sun wears red silk, and the Moon wears white silk, O Brahmin.",
+      "hindi_meaning": "बृहस्पति का वस्त्र पीला है और शुक्र का वस्त्र रेशमी (क्षौम) है। सूर्य का लाल रेशमी और चन्द्रमा का सफेद रेशमी वस्त्र है।"
+    },
+    {
+      "number": 44,
+      "text": "बुधस्य कृष्णक्षौमं तु रक्तवस्त्रं कुजस्य च ।\nवस्त्रं चित्रं शनेर्विप्र पट्टवस्त्रं तथैव च",
+      "english_meaning": "Mercury wears black silk and Mars wears red cloth. Saturn wears multi-colored cloth and also silk garments, O Brahmin.",
+      "hindi_meaning": "बुध का काला रेशमी वस्त्र है और मंगल का लाल वस्त्र है। शनि का चितकबरा (रंग-बिरंगा) और पट्टवस्त्र (रेशमी/ऊन) है।"
+    },
+    {
+      "number": 45,
+      "text": "भृगोरृतुर्वसन्तश्च कुजभान्वोश्च ग्रीष्मकः ।\nचन्द्रस्य वर्षा विज्ञेया शरच्चैव तथा विदः",
+      "english_meaning": "Venus rules the Spring season. Mars and Sun rule the Summer. The Moon rules the Rainy season, and Mercury rules the Autumn, as known by the wise.",
+      "hindi_meaning": "शुक्र की ऋतु वसंत है, मंगल और सूर्य की ग्रीष्म है। चन्द्रमा की वर्षा ऋतु और बुध की शरद ऋतु विद्वानों द्वारा कही गई है।"
+    },
+    {
+      "number": 46,
+      "text": "हेमन्तोऽपि गुरोर्ज्ञेयः शनेस्तु शिशिरो द्विज ।\nअष्टौ मासाश्च स्वर्भानोः केतोर्मासत्रयं द्विज",
+      "english_meaning": "Jupiter rules the Early Winter (Hemanta), and Saturn rules the Late Winter (Shishira). Rahu rules 8 months and Ketu rules 3 months.",
+      "hindi_meaning": "बृहस्पति की हेमन्त ऋतु और शनि की शिशिर ऋतु है। राहु का काल ८ महीने और केतु का ३ महीने का है।"
+    },
+    {
+      "number": 47,
+      "text": "राह्वारपङ्गुचन्द्रश्च विज्ञेया धातुखेचराः ।\nमूलग्रहौ सूर्यशुक्रौ अपरा जीवसञ्ज्ञकाः",
+      "english_meaning": "Rahu, Mars, Saturn, and Moon are the Dhatu (mineral) planets. Sun and Venus are Mula (plant) planets. The others (Mercury and Jupiter) are Jiva (living being) planets.",
+      "hindi_meaning": "राहु, मंगल, शनि और चन्द्रमा 'धातु' ग्रह हैं। सूर्य और शुक्र 'मूल' (वनस्पति) ग्रह हैं। शेष (बुध और बृहस्पति) 'जीव' ग्रह कहे गए हैं।"
+    },
+    {
+      "number": 48,
+      "text": "ग्रहेषु मन्दो वृद्धोऽस्ति आयुर्वृद्धिप्रदायकः ।\nनैसर्गिके बहुसमान् ददाति द्विजसत्तम",
+      "english_meaning": "Among the planets, Saturn is aged and is the giver of longevity. In his natural state, he gives many years of life, O best of the twice-born.",
+      "hindi_meaning": "ग्रहों में शनि वृद्ध है और आयु को बढ़ाने वाला है। वह अपनी नैसर्गिक अवस्था में बहुत वर्षों की आयु प्रदान करता है।"
+    },
+    {
+      "number": 49,
+      "text": "मेषो वृषो मृगः कन्या कर्को मीनस्तथा तुला ।\nसूर्यादीनां क्रमादेते कथिता उच्चराशयः",
+      "english_meaning": "Aries, Taurus, Capricorn, Virgo, Cancer, Pisces, and Libra are the exaltation signs of the planets from Sun onwards in order.",
+      "hindi_meaning": "मेष, वृष, मकर, कन्या, कर्क, मीन और तुला - ये क्रमशः सूर्य आदि ग्रहों की उच्च राशियाँ कही गई हैं।"
+    },
+    {
+      "number": 50,
+      "text": "भागा दश त्रयोऽष्टाश्व्यस्तिथ्योऽक्षा भमिता नखाः ।\nउच्चात् सप्तमभं नीचं तैरेवांशैः प्रकीर्तितम्",
+      "english_meaning": "The degrees of exaltation are 10, 3, 28, 15, 5, 27, and 20 in order for Sun onwards. The seventh sign from the exaltation sign is the debilitation sign with the same degrees.",
+      "hindi_meaning": "सूर्य आदि ग्रहों के उच्च अंश क्रमशः १०, ३, २८, १५, ५, २७ और २० हैं। उच्च राशि से सातवीं राशि उन्हीं अंशों पर नीच राशि कहलाती है।"
+    },
+    {
+      "number": 51,
+      "text": "रवेः सिम्हे नखांशाश्च त्रिकोणमपरे स्वभम् ।\nउच्चमिन्दोर्वृषे त्र्यंशास्त्रिकोणमपरेंऽशकाः",
+      "english_meaning": "For the Sun, the first 20 degrees in Leo are Moolatrikona, and the rest is his own sign. For the Moon, the first 3 degrees in Taurus are exaltation, and the remaining degrees are Moolatrikona.",
+      "hindi_meaning": "सूर्य के लिए सिंह राशि के प्रथम २० अंश मूलत्रिकोण हैं और शेष अपनी राशि है। चन्द्रमा के लिए वृष राशि के प्रथम ३ अंश उच्च हैं और शेष अंश मूलत्रिकोण हैं।"
+    },
+    {
+      "number": 52,
+      "text": "मेषेऽर्कांशास्तु भौमस्य त्रिकोणमपरे स्वभम् ।\nउच्चं बुधस्य कन्यायामुक्तं पञ्चदशांशकाः",
+      "english_meaning": "For Mars, the first 12 degrees in Aries are Moolatrikona, and the rest is his own sign. For Mercury, up to 15 degrees in Virgo is his exaltation.",
+      "hindi_meaning": "मंगल के लिए मेष राशि के प्रथम १२ अंश मूलत्रिकोण हैं और शेष अपनी राशि है। बुध के लिए कन्या राशि के १५ अंश तक उच्च कहा गया है।"
+    },
+    {
+      "number": 53,
+      "text": "ततः पञ्चांशकाः प्रोक्तं त्रिकोणमपरे स्वभम् ।\nचापे दशांशा जीवस्य त्रिकोणमपरे स्वभम्",
+      "english_meaning": "After 15 degrees in Virgo, the next 5 degrees are Mercury's Moolatrikona, and the rest is his own sign. For Jupiter, the first 10 degrees in Sagittarius are Moolatrikona, and the rest is his own sign.",
+      "hindi_meaning": "कन्या राशि में १५ अंश के बाद अगले ५ अंश बुध के मूलत्रिकोण हैं और शेष अपनी राशि है। बृहस्पति के लिए धनु राशि के प्रथम १० अंश मूलत्रिकोण हैं और शेष अपनी राशि है।"
+    },
+    {
+      "number": 54,
+      "text": "तुले शुक्रस्य तिथ्यंशास्त्रिकोणमपरे स्वभम् ।\nशनेः कुम्भे नखांशाश्च त्रिकोणमपरे स्वभम्",
+      "english_meaning": "For Venus, the first 15 degrees in Libra are Moolatrikona, and the rest is his own sign. For Saturn, the first 20 degrees in Aquarius are Moolatrikona, and the rest is his own sign.",
+      "hindi_meaning": "शुक्र के लिए तुला राशि के प्रथम १५ अंश मूलत्रिकोण हैं और शेष अपनी राशि है। शनि के लिए कुम्भ राशि के प्रथम २० अंश मूलत्रिकोण हैं और शेष अपनी राशि है।"
+    },
+    {
+      "number": 55,
+      "text": "त्रिकोणात् स्वात्सुखस्वाऽन्त्यधीधर्मायुःस्वतुङ्गपाः ।\nसुहृदो रिपवश्वान्वे समाश्चोभयलक्षणाः",
+      "english_meaning": "Lords of the 2nd, 4th, 5th, 8th, 9th, and 12th houses from one's Moolatrikona sign, and the lord of its exaltation sign, are friends. Others are enemies. Those with both traits are neutral.",
+      "hindi_meaning": "अपने मूलत्रिकोण राशि से दूसरे, चौथे, पाँचवें, आठवें, नौवें और बारहवें भाव के स्वामी तथा उच्च राशि का स्वामी - ये मित्र होते हैं। शेष शत्रु और दोनों लक्षण वाले सम होते हैं।"
+    },
+    {
+      "number": 56,
+      "text": "दशबन्ध्वायसहजस्वान्त्यस्थास्तु परस्परम् ।\nतत्काले मित्रतां यान्ति रिपवोऽन्यत्र संस्थिताः",
+      "english_meaning": "Planets placed in the 2nd, 3rd, 4th, 10th, 11th, and 12th houses from each other become temporary friends. Those in other houses are temporary enemies.",
+      "hindi_meaning": "आपस में एक-दूसरे से दूसरे, तीसरे, चौथे, दसवें, ग्यारहवें और बारहवें भाव में स्थित ग्रह तत्कालीन मित्र हो जाते हैं। अन्य भावों में स्थित ग्रह शत्रु होते हैं।"
+    },
+    {
+      "number": 57,
+      "text": "तत्काले च निसर्गे च मित्रं चेदधिमित्रकम् ।\nमित्रं मित्रसमत्वे तु शत्रुः शत्रुसमत्वके",
+      "english_meaning": "If a planet is a friend both naturally and temporarily, it is a Great Friend. A friend in one and neutral in the other is a Friend. An enemy in both is a Great Enemy.",
+      "hindi_meaning": "यदि कोई ग्रह नैसर्गिक और तत्कालीन दोनों रूप से मित्र है, तो वह 'अधिमित्र' है। एक में मित्र और दूसरे में सम होने पर 'मित्र' और दोनों में शत्रु होने पर 'अधिशत्रु' होता है।"
+    },
+    {
+      "number": 58,
+      "text": "समो मित्ररिपुत्वे तु शत्रुत्वे त्वधिशत्रुता ।\nएवं विविच्य दैवज्ञो जातकस्य फलं वदेत्",
+      "english_meaning": "A planet is Neutral if it is a friend in one and an enemy in the other. One who is an enemy in one and neutral in the other is an Enemy. Thus analyzing, the astrologer should tell the results.",
+      "hindi_meaning": "एक में मित्र और दूसरे में शत्रु होने पर 'सम' होता है। एक में शत्रु और दूसरे में सम होने पर 'शत्रु' होता है। ऐसा विचार कर ज्योतिषी को फल कहना चाहिए।"
+    },
+    {
+      "number": 59,
+      "text": "स्वोच्चे शुभं फलं पूर्ण त्रिकोणे पादवर्जितम् ।\nस्वर्क्षेऽर्धं मित्रगेहे तु पादमात्रं प्रकीर्तितम्",
+      "english_meaning": "In exaltation, the planet gives full auspicious result. In Moolatrikona, it gives 3/4th. In its own sign, it gives 1/2, and in a friend's sign, it gives 1/4th result.",
+      "hindi_meaning": "अपने उच्च में ग्रह पूर्ण शुभ फल देता है, मूलत्रिकोण में ३/४ (पौने), अपनी राशि में आधा और मित्र की राशि में १/४ (पाव) फल देता है।"
+    },
+    {
+      "number": 60,
+      "text": "पादार्धं समभे प्रोक्तं शून्यं नीचास्तशत्रुभे ।\nतद्वद्दुष्टफलं ब्रूयद् व्यत्ययेन विचक्षणः",
+      "english_meaning": "In a neutral sign, it gives 1/8th result. In debilitation, combustion, or enemy's sign, the result is zero. The wise should judge the bad results in the reverse manner.",
+      "hindi_meaning": "सम राशि में १/८ (आधा पाव) फल कहा गया है। नीच, अस्त और शत्रु की राशि में फल शून्य होता है। इसी प्रकार विद्वान को अशुभ फलों का विचार इसके विपरीत क्रम से करना चाहिए।"
+    },
+    {
+      "number": 61,
+      "text": "त्र्यंशाढ्यविश्वभागैश्च चतुर्भैः सहितो रविः ।\nधूमो नाम महादोषः सर्वकर्मविनाशकः",
+      "english_meaning": "Add 4 signs and 13 degrees 20 minutes to the longitude of the Sun. The result is Dhuma, which is a great malefic and destroyer of all works.",
+      "hindi_meaning": "सूर्य के स्पष्ट अंशों में ४ राशि, १३ अंश और २० कला जोड़ने से 'धूम' नामक उपग्रह होता है, जो महान दोषकारक और सभी कार्यों का विनाशक है।"
+    },
+    {
+      "number": 62,
+      "text": "धूमो मण्डलतः शुद्धो व्यतीपातोऽत्र दोषदः ।\nसषद्भोऽत्र व्यतीपातः परिवेषोऽतिदोषकृत्",
+      "english_meaning": "Subtract Dhuma from 12 signs (360 degrees) to get Vyatipata. Add 6 signs to Vyatipata to get Parivesha, which is extremely malefic.",
+      "hindi_meaning": "१२ राशि (३६० अंश) में से धूम को घटाने पर 'व्यतीपात' होता है। व्यतीपात में ६ राशि जोड़ने पर 'परिवेष' होता है, जो अत्यंत दोषकारक है।"
+    },
+    {
+      "number": 63,
+      "text": "परिवेषश्च्युतश्चक्रादिन्द्रचापस्तु दोषदः ।\nवित्र्यंशास्यष्टिभागाढ्यश्चापः केतुखगोऽशुभः",
+      "english_meaning": "Subtract Parivesha from 12 signs to get Indrachapa. Add 16 degrees 40 minutes to Indrachapa to get Upaketu (Shikhi), which is inauspicious.",
+      "hindi_meaning": "१२ राशि में से परिवेष को घटाने पर 'इन्द्रचाप' होता है। इन्द्रचाप में १६ अंश और ४० कला जोड़ने पर 'उपकेतु' (शिखी) होता है, जो अशुभ है।"
+    },
+    {
+      "number": 64,
+      "text": "एकराशियुतः केतुः सूर्यतुल्यः प्रजायते ।\nअप्रकाशग्रहाश्चैते पापा दोषप्रदाः स्मृताः",
+      "english_meaning": "Add 1 sign (30 degrees) to Upaketu, and it will be equal to the Sun's longitude. These are the non-luminous malefic planets, known as givers of defects.",
+      "hindi_meaning": "उपकेतु में १ राशि (३० अंश) जोड़ने पर वह सूर्य के बराबर हो जाता है। ये 'अप्रकाश' (छाया) ग्रह पापी और दोष देने वाले कहे गए हैं।"
+    },
+    {
+      "number": 65,
+      "text": "सूर्येन्दुलग्नगेष्वेषु वंशायुर्ज्ञाननाशनम् ।\nइति धूमादिदोषाणां स्थितिः पद्मासनोदिता",
+      "english_meaning": "If these (Upagrahas) are in the signs occupied by Sun, Moon, or Ascendant, they destroy lineage, longevity, and knowledge. This was told by Brahma.",
+      "hindi_meaning": "यदि ये (धूमादि उपग्रह) सूर्य, चन्द्रमा या लग्न में स्थित हों, तो वंश, आयु और ज्ञान का नाश करते हैं। धूमादि दोषों की यह स्थिति ब्रह्मा जी ने कही है।"
+    },
+    {
+      "number": 66,
+      "text": "रविवारादिशन्यन्तं गुलिकादि निरूप्यते ।\nदिवसानष्टधा भक्त्वा वारेशाद् गणेयत् क्रमात्",
+      "english_meaning": "Now the calculation of Gulika from Sunday to Saturday is described. Divide the duration of the day into 8 parts and count from the lord of the day.",
+      "hindi_meaning": "अब रविवार से शनिवार तक 'गुलिका' आदि का निरूपण किया जाता है। दिन के मान को ८ बराबर भागों में बाँटकर वार के स्वामी से गणना करनी चाहिए।"
+    },
+    {
+      "number": 67,
+      "text": "अष्ट्मोंऽशो निरीशः स्याच्छन्यंशो गुलिकःस्मृतः ।\nरात्रिमप्यष्टधा कृत्वा वारेशात् पञ्चमादितः",
+      "english_meaning": "The 8th part is without a lord. The part ruled by Saturn is known as Gulika. Similarly, divide the night into 8 parts and count from the 5th lord from the day-lord.",
+      "hindi_meaning": "आठवाँ भाग स्वामी रहित होता है। शनि के भाग को 'गुलिका' कहते हैं। इसी प्रकार रात्रि को भी ८ भागों में बाँटें और वार के स्वामी से ५वें वार के स्वामी से गणना शुरू करें।"
+    },
+    {
+      "number": 68,
+      "text": "गणयेदष्टमः खण्डो निष्यतिः परिकीर्तितः ।\nश्न्यंशो गुलिकः प्रोक्तो रव्यंशः कालसञ्ज्ञकः",
+      "english_meaning": "The 8th part is lordless. The part of Saturn is Gulika, and the part of Sun is known as Kala.",
+      "hindi_meaning": "आठवाँ खण्ड स्वामी रहित होता है। शनि का अंश (भाग) 'गुलिका' और सूर्य का अंश 'काल' कहलाता है।"
+    },
+    {
+      "number": 69,
+      "text": "भौमांशो मृत्युरादिष्टो गुर्वंशो यमघण्ट्कः ।\nसोम्यांशोऽर्धप्रहरकः स्वस्वदेशोद्भवः स्फुटः",
+      "english_meaning": "The part of Mars is Mrityu, of Jupiter is Yamaghantaka, and of Mercury is Ardhapraharaka. These should be calculated precisely for one's own location.",
+      "hindi_meaning": "मंगल का भाग 'मृत्यु', बृहस्पति का 'यमघण्टक' और बुध का भाग 'अर्धप्रहर' कहा गया है। ये अपने देश (स्थान) के अनुसार स्पष्ट करने चाहिए।"
+    },
+    {
+      "number": 70,
+      "text": "गुलिकेष्टवशाल्लग्नं स्फुटं यत् स्वस्वदेशजम् ।\nगुलिकं प्रोच्यते तस्माज्जातकस्य फलं वदेत्",
+      "english_meaning": "The ascendant rising at the beginning of the Gulika part for that location is called Gulika-Sphuta. Based on that, the results of the birth should be predicted.",
+      "hindi_meaning": "गुलिका के इष्ट काल के अनुसार जो स्पष्ट लग्न उस स्थान पर आता है, उसे 'गुलिक' (गुलिक स्पष्ट) कहते हैं। उससे जातक का फल कहना चाहिए।"
+    },
+    {
+      "number": 71,
+      "text": "भांशपादसमैः प्राणैश्चराद्यर्कत्रिकोणभात् ।\nउदयादिष्टकालान्तं यद्भं प्राणपदं हि तत्",
+      "english_meaning": "Convert the time from sunrise to birth into Palas and divide by 15. The resulting signs, degrees, etc., should be added to the Sun's position according to its sign (Movable, Fixed, or Dual).",
+      "hindi_meaning": "सूर्योदय से इष्टकाल तक के समय को पलों में बदलकर १५ से भाग दें। प्राप्त राशि-अंशादि को सूर्य की स्थिति (चर, स्थिर, द्विस्वभाव राशि) के अनुसार जोड़कर 'प्राणपद' ज्ञात करें।"
+    },
+    {
+      "number": 72,
+      "text": "स्वेष्टकालं पलीकृत्य तिथ्याप्तं भादिकं च यत् ।\nचरागद्विभसंस्थेऽर्के भानौ युङ् नवमे सुते",
+      "english_meaning": "If the Sun is in a Movable sign, add the result to the Sun's longitude. If in a Fixed sign, add it to the 9th from Sun. If in a Dual sign, add it to the 5th from Sun.",
+      "hindi_meaning": "यदि सूर्य चर राशि में हो तो उसी में जोड़ें, स्थिर राशि में हो तो सूर्य से ९वीं राशि में जोड़ें और द्विस्वभाव राशि में हो तो सूर्य से ५वीं राशि में जोड़ें।"
+    },
+    {
+      "number": 73,
+      "text": "स्फुटं प्राणपदाख्यं तल्लग्नं ज्ञेयं द्विजोत्तम ।\nलग्नाद् द्विकोणे तुर्ये च राज्ये प्राणपदं तदा",
+      "english_meaning": "The resulting position is called Pranapada-Sphuta. O best of the twice-born! If Pranapada is in the 2nd, 5th, 9th, 4th, or 10th house from the Ascendant, it is auspicious.",
+      "hindi_meaning": "प्राप्त स्पष्ट मान 'प्राणपद' कहलाता है। हे द्विजोत्तम! यदि प्राणपद लग्न से दूसरे, पाँचवें, नौवें, चौथे या दसवें भाव में हो, तो शुभ होता है।"
+    },
+    {
+      "number": 74,
+      "text": "शुभं जन्म विजानीयात्तथैवैकादशेऽपि च ।\nअन्यस्थाने स्थितं चेत् स्यात् तदा जन्माशुभं वदेत्",
+      "english_meaning": "One should also consider the birth auspicious if Pranapada is in the 11th house. If it is in any other house, the birth should be declared inauspicious.",
+      "hindi_meaning": "ग्यारहवें भाव में भी प्राणपद होने पर जन्म शुभ समझना चाहिए। इनके अतिरिक्त अन्य भावों में स्थित होने पर जन्म अशुभ कहना चाहिए।"
+    }
+  ]
+}
