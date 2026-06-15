@@ -26,7 +26,7 @@ Hora/                          Natal astrology texts
   VarahamihirDaivagnavallabh/  Varahamihircharita_daivagya_vallabh.json
   [README-only stubs]          Saravali, UttaraKalamrita, SarvarthaChintamani, PrashnaMarga, JatakaTattvam
 Samhita/
-  BrihatSamhita/               Varahmihir_brihatsamhita.json + brihatsamhita2.json
+  BrihatSamhita/               Varahmihir_brihatsamhita.json + Varahmihir_brihatsamhita2.json
 Vedanga-Jyotisha/
   Rigveda/Aarchjyotisham/      Aarchjyotisham.json
   Yajurveda/Yajushajyotisham/  Yajushajyotisham.json
@@ -91,7 +91,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 | `varahamihir_daivagnavallabh` | Hora/VarahamihirDaivagnavallabh/ | 248 | 100% |
 | `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
 | `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 44 | 100% |
-| `brihat_samhita` | Samhita/BrihatSamhita/ | 2770 | 19% ⚑ |
+| `brihat_samhita` | Samhita/BrihatSamhita/ | 2770 | 100% |
 
 Note: Shloka counts reflect deduplication by (chapter, shloka) key — BPHS chunks and brihat_samhita
 files had overlapping entries that inflated previous counts. Unique counts are authoritative.
