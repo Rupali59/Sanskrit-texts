@@ -36,7 +36,6 @@ SamudrikShastra/               README stubs only
 docs/
   BPHS_Master_Lexicon.md
   BPHS_Only_Terminology.md
-  TRANSLATION_FLAGS.json       Machine-readable index of all untranslated/partial shlokas
 ```
 
 ## Uniform JSON schema
@@ -97,8 +96,6 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 Note: Shloka counts reflect deduplication by (chapter, shloka) key — BPHS chunks and brihat_samhita
 files had overlapping entries that inflated previous counts. Unique counts are authoritative.
-
-⚑ = flagged in `docs/TRANSLATION_FLAGS.json`
 
 ## Translation workflow
 

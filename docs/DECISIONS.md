@@ -29,3 +29,8 @@ Convention: `../../docs/STATE_MANAGEMENT.md`. Never edit past entries; supersede
 **What:** Wired the T33 hooks — `.githooks/{pre-commit,post-commit}` (5-line dispatchers resolving the workspace via `~/.gstack/workspace-root`) + `scripts/install-hooks.sh` (sets `core.hooksPath=.githooks` per-clone). Registered `"sanskrit-texts" = "main"` in workspace `docs/CONTEXT-BUDGET.md [active_lines]`. Supersedes the "remain not installed — deferred, infra-only" note in the entry above.
 **Why:** 6th-sibling parity. The hooks are type-agnostic (size-caps + state-shape check line counts / file presence, not build structure), so the no-build data corpus runs them identically to the Node/Python siblings. dep-audit skips this repo (no `package.json`).
 **Affects:** sanskrit-texts, workspace
+
+## 2026-06-20: Data-correctness audit — normalize stray status; drop dead `TRANSLATION_FLAGS.json` refs
+**What:** Audit verified all 14 texts genuinely 100% translated (0 untranslated/partial, 0 empty `english`/`hindi`). Two fixes: (1) 350 shlokas in Jataka Parijata (JP_014/017/018) carried the non-canonical `"status": "completed"` → normalized to `"translated"` (schema allows only `translated`/`partial`/`untranslated`; content was already complete). (2) Removed the two `docs/TRANSLATION_FLAGS.json` references in `CLAUDE.md` (layout block + ⚑ footer) — the file was never tracked, has no consumer (astroacharya doesn't read it), and at 100% there is nothing to flag.
+**Why:** Keep the `status` field machine-trustworthy for AstroAcharya's `/texts` ingestion, and stop docs pointing at a file that never existed.
+**Affects:** sanskrit-texts
