@@ -7,22 +7,29 @@ Decisions: [`docs/DECISIONS.md`](./docs/DECISIONS.md) (project `docs/` is tracke
 Plans: [`docs/plans/README.md`](./docs/plans/README.md) (adopted 2026-06-20, 6th sibling).
 Supersedes: `TODO.md` (digitization checklist subsumed below; file retained as historical).
 
-## ⚠️ Uncommitted working tree (as of 2026-06-20)
+## Recently shipped (2026-06-20)
 
-The corpus is **complete in the working tree but largely uncommitted.** HEAD (`0f2b00c`) still carries the pre-normalization schema. Pending commit:
+The full corpus + catch-up work is committed and pushed (`main` @ `e23cbe2`). Five commits:
 
-- **Schema-normalization sweep** — 331 Hora + 28 Samhita JSON files migrated to the uniform schema (legacy `source`/`header`/`english_meaning` → `text_id`/`english`/`status`). See `docs/DECISIONS.md` 2026-06-20.
-- **New digitizations (untracked)** — Uttara Kalamrita (`uttara_kalamrita.json`) + Minaraja Uttarakhanda (`MS_040`–`MS_071`).
-- **`.gitignore` fix + `docs/plans/README.md` + `CLAUDE.md` registry → 100%** (this catch-up).
-- **Cleanup needed before commit:** untracked throwaway processing scripts (`Samhita/BrihatSamhita/update_shlokas*.py`, `template.py`) and temp artifacts (`temp_untranslated*.json`, `ch47_*.json`) must NOT be committed — see `CLAUDE.md` → "Do not commit processing scripts". The new `.gitignore` ignores `*.py[cod]`/`__pycache__/` but not the loose `.py`/`temp_*.json` themselves; remove or ignore them before staging.
+- `f2034e2` `refactor:` schema normalization (137 modified) + per-chapter→chunk consolidation (165 deletions, 2 `.md` renames)
+- `3792b90` `feat:` new digitizations — Uttara Kalamrita + Minaraja Uttarakhanda (35 files) → all 14 texts 100%
+- `b13cd88` `chore(state):` docs/state convention catch-up (`.gitignore` un-ignore `docs/`, `docs/plans/README.md`, registry → 100%)
+- `da480bd` `chore(hooks):` T33 per-project hygiene hooks (6th-sibling parity) + `scripts/install-hooks.sh`
+- `e23cbe2` `docs(decisions):` record T33 install
+
+Throwaway processing scripts + temp artifacts were deleted; raw OCR intermediates + tool-local config are now gitignored (kept on disk). See `docs/DECISIONS.md` 2026-06-20 (3 entries).
 
 ## Now (in flight)
 
-- **Commit the corpus** — stage the normalization sweep + new digitizations; exclude throwaway scripts/temp files. Recommended split: (1) schema normalization, (2) new digitizations, (3) docs/state catch-up.
+- None.
 
 ## Active initiatives
 
 - None.
+
+## Known signal
+
+- `size-caps` (hygiene daemon) reports **`CLAUDE.md` at 164/180 lines (yellow, 91%)** — warn-only, goes red at 180. Trim on next edit (MCP/code-review-graph section + layout block are the fattest). Not urgent.
 
 ## Pending (by priority)
 
@@ -40,9 +47,9 @@ The corpus is **complete in the working tree but largely uncommitted.** HEAD (`0
 
 ## Completed
 
-- ✅ **All 14 texts at 100% translation** — full registry in `CLAUDE.md`. Milestone reached in working tree 2026-06-20 (commit pending).
-- ✅ **Uniform-schema normalization sweep** — 331 Hora + 28 Samhita files migrated off legacy fields onto the `CLAUDE.md` schema; counts deduplicated by `(chapter, shloka)`. See `docs/DECISIONS.md` 2026-06-20.
-- ✅ **Caught up to workspace plans convention** — added `docs/plans/README.md`; fixed malformed `.gitignore` that was hiding the tracked `docs/` tree (mirrors Astroclarity T13).
+- ✅ **All 14 texts at 100% translation** — full registry in `CLAUDE.md`. Shipped 2026-06-20 (`3792b90`).
+- ✅ **Uniform-schema normalization sweep** — 137 modified + 165 consolidated files onto the `CLAUDE.md` schema; counts deduplicated by `(chapter, shloka)` (`f2034e2`). See `docs/DECISIONS.md` 2026-06-20.
+- ✅ **Caught up to workspace conventions** — `docs/plans/README.md`, `.gitignore` un-ignore of `docs/`, and **T33 per-project hygiene hooks** (`b13cd88`, `da480bd`); registered in workspace `docs/CONTEXT-BUDGET.md [active_lines]`.
 - ✅ Digitize and translate Kalidasa's *Uttara Kalamrita* (324 shlokas across 9 chapters) into English and Hindi, bringing the entire text to 100% translated.
 - ✅ Translate the Uttarakhanda section (Chapters 40–71) of Minaraja Shrivriddhayavanajataka (1,887 shlokas across 34 JSON files) into English and Hindi, bringing the entire Minaraja text to 100% translated.
 - ✅ Digitize the Uttarakhanda section (Chapters 40–71) of Minaraja Shrivriddhayavanajataka (Volume II, Baroda 1976), adding 1,887 shlokas across 34 JSON files.
