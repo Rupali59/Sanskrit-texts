@@ -1,280 +1,327 @@
 {
-  "source": "Yajushajyotisham.md",
-  "header": "याजुषज्योतिषम्\n\nपंचसंवत्सरमयं युगाध्यक्षं प्रजापतिम् ।\nदिनर्त्वयनमासांगं प्रणम्य शिरसा शुचिः ॥ १॥\n\nज्योतिषामयनं पुण्यं प्रवक्ष्याम्यनुपूर्वशः ।\nविप्राणां सम्मतं लोके यज्ञकालार्थ सिद्धये ॥ २॥\n\nवेद हि यज्ञार्थमभिप्रवृत्ताः कालानुपूर्व्या विहिताश्च यज्ञाः ।\nतस्मादिदं कालविधानशास्त्रं यो ज्योतिषं वेद स वेद यज्ञान् ॥ ३॥\n\nयथा शिखा मयूराणां नागानां मणयो यथा ।\nतद्वद्वेदांगशास्त्राणां ज्यौतिषं मूर्धानि स्थितम् ॥ ४॥\n\nये बृहस्पतिना भुक्ता मीनात्प्रभृति राशयः ।\nते हृताः पंचभिर्भूता यः शेषः स परिग्रहः ॥ ०॥\n\nमाघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः ।\nयुगस्य पंचवर्षस्य कालज्ञानं प्रचक्षते ॥ ५॥\n\nस्वराक्रमेते सोमार्कौ यदा साकं सवासवौ ।\nस्यात्तदादियुगं माघस्तपः शुक्लोऽयनं ह्युदक् ॥ ६॥\n\nप्रपद्यते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् ।\nसार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा ॥ ७॥\n\nधर्मवृद्धिरपां प्रस्थः क्षपाह्रास उदग्गतौ ।\nदक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु ॥ ८॥\n\nप्रथमं सप्तमं चाहुरयनाद्यं त्रयोदशम् ।\nचतुर्थं दशमं चैव द्विर्युग्मं बहुलेप्यृतौ ॥ ९॥\n\nवसुस्त्वष्टा भवोऽजश्च मित्रः सर्पोऽश्विनौ जलम् ।\nधाता कश्चायनाद्याः स्युरर्धपंचमभस्त्वृतुः ॥ १०॥\n\nएकान्तरेऽह्नि मासे च पूर्वान् कृत्वादिमुत्तरः ।\nअर्धयोः पंचवर्षाणामृदु पंचदशाष्टमौ ॥ ११॥\n\nद्युहेयं पर्व चेत्पादे पादस्त्रिंशत्तु सैकिका ।\nभागात्मनापवृज्यांशान् निर्दिशेदधिको यदि ॥ १२॥\n\nनिरेकं द्वादशाभ्यस्तं द्विगुणं गतसंज्ञिकम् ।\nषष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिरुच्यते ॥ १३॥\n\nस्युः पादोऽर्धंत्रिपाद्याया त्रिद्वयेकऽह्नः कृतस्थितिम् ।\nसाम्येन्दोस्तृणोऽन्ये तु पर्वकाः पंच सम्मिताः ॥ १४॥\n\nभांशाः स्युरष्टकाः कार्याः पक्षद्वादशकोद्गताः ।\nएकादशगुणश्चोनः शुक्लेऽर्धं चैन्दवा यदि ॥ १५॥\n\nनवकैरुद्गतोंशः स्यादूनः सप्तगुणो भवेत् ।\nआवापस्त्वयुजेऽर्धं स्यात्पौलस्ये।आस्तंगतेऽपरम् ॥ १६॥\n\nजावाद्यंशैः समं विद्यात् पूर्वार्धे पर्व सूत्तरे ।\nभादानं स्याच्चतुर्दश्यां काष्ठानां देविना कलाः ॥ १७॥\n\nजौ द्रा गः खे श्वे ही रो षा श्चिन्मूषक्ण्यः सूमाधाणः ।\nरे मृ घाः स्वापोजः कृष्यो ह ज्येष्ठा इत्यृक्षा लिंगैः ॥ १८॥\n\nकार्या भांशाष्टकास्थाने कला एकान्नविंशतिः ।\nउनस्थाने त्रिसप्तति मुद्ववपेदूनसम्भवे ॥ १९॥\n\nतिथिमेकादशाभ्यस्तां पर्वभांशसमन्विताम् ।\nविभज्य भसमूहेन तिथिनक्षत्रमादिशेत् ॥ २०॥\n\nयाः पर्वाभादानकलास्तासु सप्तगुणां तिथिम् ।\nयुक्त्या तासां विजानीयात् तिथिभादानिकाः कलाः ॥ २१॥\n\nअतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् ।\nतेषु मण्डलभागेषु तिथिनिष्ठांगतो रविः ॥ २२॥\n\nविषुवन्तं द्विरभ्यस्तं रूपोनं षड्गुणीकृतम् ।\nपक्षा यदर्धं पक्षाणां तिथिः स विषुवान् स्मृतः ॥ २३॥\n\nपलानि पंचाशदपां धृतानि तदाढकं द्रोणमतः प्रमेयम् ।\nत्रिभिर्विहीनं कुड्वैस्तु कार्यं तन्नाडिकायास्तु भवेत् प्रमाणम् ॥ २४॥\n\nएकादशभिरभ्यस्य पर्वाणि नवभिस्तिथिम् ।\nयुगलब्धं सपर्व स्याद् वर्तमानार्कभं क्रमात् ॥ २५॥\n\nसूर्यर्क्षभागान् नवभिर्विभज्य शेषान् द्विरभ्यस्य दिनोपभुक्तिः ।\nतिथेर्युता भुक्तिदिनेषु कालो योगो दिनैकादशकेन् तद्भम् ॥ २६॥\n\nत्र्यंशो भशेषो दिवसांशभागश्चतुर्दशस्याप्यपनीय भिन्नम् ।\nभार्धेऽधिके चाधिगते परोंऽशोद्वावुत्तमे तन्नवकैरवेत्य ॥ २७॥\n\nत्रिंशत्यह्नां सषट्षष्टिरब्दः षट् चर्तवोऽयने ।\nमासा द्वादश सौर्याः स्युरेतत् पंचगुणं युगम् ॥ २८॥\n\nउदयावासवस्य स्युर्दिनराशि सपंचकः ।\nऋषेर्द्विषष्टिहीनः स्याद् विंशत्या चैकयास्तृणाम् ॥ २९॥\n\nपंचत्रिंशं शतं पौष्णम् एकोनमयनोन्यृषेः ।\nपर्वणां स्याच्चतुष्पादी काष्ठानां चैव ताः कलाः ॥ ३०॥\n\nसावनेन्दुस्तृमासानां षष्टिः सैकद्विसप्तिका ।\nद्युस्त्रिंशत् सावनः सार्धः सौरस्तृणां स पर्ययः ॥ ३१॥\n\nअग्निः प्रजापतिः सोमो रुद्रोदितिबृहस्पती ।\nसर्पाश्च पितरश्चैव भगश्चैवार्यमापि च ॥ ३२॥\n\nसविता त्वष्टाथ वायुश्चेन्द्राग्नी मित्र एव च ।\nइन्द्रो निॠतिरापो वै विश्वेदेवास्तथैव च ॥ ३३॥\n\nविष्णुर्वसवो वरुणूऽजेकपात् तथैव च ।\nअहिर्बुध्न्यस्तथा पूषा अश्विनौ यम एव च ॥ ३४॥\n\nनक्षत्रदेवता एता एताभिर्यज्ञकर्मणि ।\nयजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम् ॥ ३५॥\n\nउग्राण्यार्द्रा च चित्रा च विशाखा श्रवणोश्वयुक् ।\nक्रूरणि तु मघास्वाती ज्येष्टा मूलं यमस्य च ॥ ३६॥\n\nद्यूनं द्विषष्टिभागेन ज्ञे (हे) यं सौरं सपार्वणम् ।\nयत्कृतावुपजायेते मध्येऽन्ते चाधिमासकौ ॥ ३७॥\n\nकला दश सविंशा स्याद् द्वे मुहुर्तस्य नाडिके ।\nद्युस्त्रिंशत् तत्कलानां तु षट्शती त्र्यधिका भवेत् ॥ ३८॥\n\nससप्तमं भयुक् सोमः सूर्यो द्यूनि त्रयोदश ।\nनवमानि तु पंचाह्नः काष्ठा पंचाक्षरा भवेत् ॥ ३९॥\n\nयदुत्तरस्यायनतो गतं स्याच् छेषं तथा दक्षिणतोऽयनस्य ।\nतदेकषष्ट्याद्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम् ॥ ४०॥\n\nयदर्धं दिनभागानां सदा पर्वणि पर्वणि ।\nॠतुशेषं तु तद् विद्यात् संख्याय सह सर्वणाम् ॥ ४१॥\n\nइत्युपायसमुद्देशो भूयोप्यह्नः प्रकल्पयेत् ।\nज्ञेयराशिं गताभ्यस्तं विभजेज्ज्ञानराशिना ॥ ४२॥\n\nइत्येतन्मासवर्षाणां मुहूर्तोदयपर्वणाम् ।\nदिनर्त्वयनमासांगं व्याख्यानं लगधोऽब्रवीत् ॥ ००॥\n\nसोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते ।\nसोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम् ॥ ४३॥\n\n॥ इति याजुषज्योतिषं समाप्तम् ॥\n\nEncoded and proofread by\nSanjay Prabhakaran sanjaychettiar at gmail.com",
+  "text_id": "yajusha_jyotisham",
+  "title_sa": "यजुर्ज्योतिषम्",
+  "title_en": "Yajusha Jyotisham",
+  "category": "vedanga_jyotisha",
   "chapters": [
     {
       "number": 1,
       "title": "General",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "याजुषज्योतिषम्\n\nपंचसंवत्सरमयं युगाध्यक्षं प्रजापतिम् ।\nदिनर्त्वयनमासांगं प्रणम्य शिरसा शुचिः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Yajusha Jyotisham. Having bowed down with a pure mind to Prajapati, the lord of the Yuga consisting of five years, whose limbs are the days, seasons, half-years (Ayanas), and months.",
+          "hindi": "यजुर्वेद ज्योतिषम्। पाँच संवत्सरों वाले युग के अध्यक्ष प्रजापति को, जिनके अंग दिन, ऋतु, अयन और मास हैं, पवित्र भाव से शिर झुकाकर प्रणाम करके—",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "ज्योतिषामयनं पुण्यं प्रवक्ष्याम्यनुपूर्वशः ।\nविप्राणां सम्मतं लोके यज्ञकालार्थ सिद्धये",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "I shall sequentially explain the sacred course of the luminaries (Jyotisha), which is approved by the learned Brahmanas in the world, for the purpose of determining the correct time for performing Yajnas (sacrifices).",
+          "hindi": "यज्ञों के उचित काल की सिद्धि के लिए, संसार में विप्रों (ब्राह्मणों) द्वारा सम्मत, ज्योतिषों की पवित्र गति का मैं क्रमशः वर्णन करूँगा।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "वेद हि यज्ञार्थमभिप्रवृत्ताः कालानुपूर्व्या विहिताश्च यज्ञाः ।\nतस्मादिदं कालविधानशास्त्रं यो ज्योतिषं वेद स वेद यज्ञान्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Vedas are primarily intended for the performance of sacrifices, and sacrifices are prescribed according to the sequence of time. Therefore, he who knows Jyotisha — this science of time-determination — truly knows the sacrifices.",
+          "hindi": "वेद यज्ञ के लिए प्रवृत्त हुए हैं और यज्ञ काल के अनुक्रम से विहित हैं। अतः जो इस काल-विधान शास्त्र (ज्योतिष) को जानता है, वही वास्तव में यज्ञों को जानता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "यथा शिखा मयूराणां नागानां मणयो यथा ।\nतद्वद्वेदांगशास्त्राणां ज्यौतिषं मूर्धानि स्थितम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Just as the crests on the heads of peacocks and the gems on the hoods of serpents, similarly Jyotisha stands at the crown (highest position) among the Vedanga Shastras.",
+          "hindi": "जैसे मोरों के सिर पर शिखा और नागों के फन पर मणि सुशोभित होती है, वैसे ही वेदांग शास्त्रों में ज्योतिष का स्थान मस्तक पर (सर्वोपरि) है।",
+          "status": "translated"
         },
         {
-          "number": "०",
+          "number": 0,
           "text": "ये बृहस्पतिना भुक्ता मीनात्प्रभृति राशयः ।\nते हृताः पंचभिर्भूता यः शेषः स परिग्रहः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Those signs (Rashis) traversed by Jupiter (Brihaspati) beginning from Pisces (Meena), when divided by five — the remainder gives the current position (Parigraha) of Jupiter in the Yuga cycle.",
+          "hindi": "मीन राशि से लेकर बृहस्पति ने जितनी राशियाँ भोगी हैं, उन्हें पाँच से भाग देने पर जो शेष बचता है, वह बृहस्पति की वर्तमान युग-स्थिति (परिग्रह) होती है।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "माघशुक्लप्रपन्नस्य पौषकृष्णसमापिनः ।\nयुगस्य पंचवर्षस्य कालज्ञानं प्रचक्षते",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Beginning with the bright fortnight of Magha and ending with the dark fortnight of Pausha — this is declared as the knowledge of time (Kala-jnana) for a Yuga of five years.",
+          "hindi": "माघ शुक्ल पक्ष से आरम्भ होकर पौष कृष्ण पक्ष पर समाप्त होने वाले पाँच वर्षों के युग का यह कालज्ञान कहा गया है।",
+          "status": "translated"
         },
         {
-          "number": "६",
+          "number": 6,
           "text": "स्वराक्रमेते सोमार्कौ यदा साकं सवासवौ ।\nस्यात्तदादियुगं माघस्तपः शुक्लोऽयनं ह्युदक्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "When the Sun and the Moon together enter the beginning of Dhanishtha (Shravishtha) nakshatra, then begins the Yuga, the month of Magha, the Tapas (winter) season, the bright fortnight, and the Northern course (Uttarayana).",
+          "hindi": "जब सूर्य और चन्द्रमा एक साथ इन्द्र (वासव) सहित श्रविष्ठा (धनिष्ठा) नक्षत्र के आरम्भ में प्रवेश करते हैं, तब युग, माघ मास, तपस् ऋतु, शुक्ल पक्ष और उत्तरायण — सब आरम्भ होते हैं।",
+          "status": "translated"
         },
         {
-          "number": "७",
+          "number": 7,
           "text": "प्रपद्यते श्रविष्ठादौ सूर्याचन्द्रमसावुदक् ।\nसार्पार्धे दक्षिणार्कस्तु माघश्रावणयोः सदा",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Sun and the Moon begin their Northern course (Uttarayana) at the beginning of Dhanishtha; the Sun begins its Southern course (Dakshinayana) at the middle of Ashlesha. This always occurs in the months of Magha and Shravana respectively.",
+          "hindi": "सूर्य और चन्द्रमा श्रविष्ठा (धनिष्ठा) के आरम्भ में उत्तरायण में प्रवेश करते हैं, और सूर्य आश्लेषा (सर्पार्ध) के मध्य में दक्षिणायन में प्रवेश करता है। यह सदा माघ और श्रावण में होता है।",
+          "status": "translated"
         },
         {
-          "number": "८",
+          "number": 8,
           "text": "धर्मवृद्धिरपां प्रस्थः क्षपाह्रास उदग्गतौ ।\nदक्षिणे तौ विपर्यासः षण्मुहूर्त्ययनेन तु",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "During the Northern course (Uttarayana), there is an increase of daylight (Dharma-vriddhi) and a decrease of night, measured by one Prastha of water (clepsydra). During the Southern course, the reverse occurs. The total variation over one Ayana is six Muhurtas.",
+          "hindi": "उत्तरायण में दिन की वृद्धि और रात का ह्रास एक प्रस्थ जल के माप के बराबर होता है; दक्षिणायन में इसका विपर्यय होता है। एक अयन में कुल परिवर्तन छह मुहूर्त का होता है।",
+          "status": "translated"
         },
         {
-          "number": "९",
+          "number": 9,
           "text": "प्रथमं सप्तमं चाहुरयनाद्यं त्रयोदशम् ।\nचतुर्थं दशमं चैव द्विर्युग्मं बहुलेप्यृतौ",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The first, seventh, and thirteenth Parvans are declared as the beginnings of the Ayanas. The fourth and the tenth likewise — the paired ones in the dark fortnight also mark the seasons.",
+          "hindi": "प्रथम, सप्तम और त्रयोदश पर्व अयन के आरम्भ कहे गए हैं। चतुर्थ और दशम भी — कृष्ण पक्ष (बहुल) में युग्म पर्वों से ऋतु का आरम्भ होता है।",
+          "status": "translated"
         },
         {
-          "number": "१०",
+          "number": 10,
           "text": "वसुस्त्वष्टा भवोऽजश्च मित्रः सर्पोऽश्विनौ जलम् ।\nधाता कश्चायनाद्याः स्युरर्धपंचमभस्त्वृतुः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Vasu (Dhanishtha), Tvashta (Chitra), Bhava (Ardra), Aja (Purva Bhadrapada), Mitra (Anuradha), Sarpa (Ashlesha), Ashvins (Ashvini), Jala (Purvashadha), Dhata (Rohini), and Ka (Shatabhisha) — these are the presiding deities at the beginnings of the Ayanas. A season consists of four and a half Nakshatras.",
+          "hindi": "वसु (धनिष्ठा), त्वष्टा (चित्रा), भव (आर्द्रा), अज (पू. भाद्रपद), मित्र (अनुराधा), सर्प (आश्लेषा), अश्विनौ (अश्विनी), जल (पू. आषाढ़ा), धाता (रोहिणी) और क (शतभिषा) — ये अयनों के आरम्भ के देवता हैं। एक ऋतु साढ़े चार नक्षत्रों की होती है।",
+          "status": "translated"
         },
         {
-          "number": "११",
+          "number": 11,
           "text": "एकान्तरेऽह्नि मासे च पूर्वान् कृत्वादिमुत्तरः ।\nअर्धयोः पंचवर्षाणामृदु पंचदशाष्टमौ",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "On alternate days and months, placing the earlier ones first, the latter follow in order. In the half of the five-year Yuga, the intercalary (soft) Parvans are the fifteenth and the eighth.",
+          "hindi": "एकान्तर दिन और मास में, पहले वालों को आदि में रखकर उत्तरवाले अनुक्रम में आते हैं। पाँच वर्षों के अर्ध-युग में अधिमास पर्व पन्द्रहवें और आठवें हैं।",
+          "status": "translated"
         },
         {
-          "number": "१२",
+          "number": 12,
           "text": "द्युहेयं पर्व चेत्पादे पादस्त्रिंशत्तु सैकिका ।\nभागात्मनापवृज्यांशान् निर्दिशेदधिको यदि",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If the Parvan is to be known as falling in a quarter of the day, then the quarter consists of thirty-one parts. Having subtracted the individual parts by their fraction, one should declare the excess if any remains.",
+          "hindi": "यदि पर्व दिन के पाद (चतुर्थांश) में पड़े, तो पाद इकतीस भागों का होता है। भागों को उनके अंश से घटाकर, यदि अधिक हो तो उसे निर्दिष्ट करना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "१३",
+          "number": 13,
           "text": "निरेकं द्वादशाभ्यस्तं द्विगुणं गतसंज्ञिकम् ।\nषष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिरुच्यते",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The collection (Rashi) of Parvans is obtained thus: subtract one from the elapsed year, multiply by twelve, double it, and for every sixty add two. This is called the total count of Parvans.",
+          "hindi": "पर्वों की राशि (कुल संख्या) इस प्रकार ज्ञात होती है: व्यतीत वर्ष में से एक घटाकर बारह से गुणा करें, दुगुना करें, और प्रत्येक साठ में दो जोड़ दें; इसे पर्वों की राशि कहते हैं।",
+          "status": "translated"
         },
         {
-          "number": "१४",
+          "number": 14,
           "text": "स्युः पादोऽर्धंत्रिपाद्याया त्रिद्वयेकऽह्नः कृतस्थितिम् ।\nसाम्येन्दोस्तृणोऽन्ये तु पर्वकाः पंच सम्मिताः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The quarter, half, and three-quarters of the day determine the positions. By equal lunar reckoning with three, two, and one day's standing, the Moon's Parvans are five in count.",
+          "hindi": "दिन के पाद, अर्ध और त्रिपाद से स्थिति ज्ञात होती है। तीन, दो और एक दिन की स्थिति से चन्द्र की सम गणना में पर्व पाँच गिने जाते हैं।",
+          "status": "translated"
         },
         {
-          "number": "१५",
+          "number": 15,
           "text": "भांशाः स्युरष्टकाः कार्याः पक्षद्वादशकोद्गताः ।\nएकादशगुणश्चोनः शुक्लेऽर्धं चैन्दवा यदि",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Nakshatra divisions (Bhamshas) should be made into eight parts. The Pakshas arising from twelve are computed. The result multiplied by eleven and subtracted — if it is the bright fortnight, half is taken as the lunar measure.",
+          "hindi": "नक्षत्र के अंश (भांश) आठ भागों में किए जाने चाहिए। बारह से उत्पन्न पक्षों की गणना की जाती है। ग्यारह से गुणा कर घटाने पर — यदि शुक्ल पक्ष हो तो आधा चान्द्र मान लिया जाता है।",
+          "status": "translated"
         },
         {
-          "number": "१६",
+          "number": 16,
           "text": "नवकैरुद्गतोंशः स्यादूनः सप्तगुणो भवेत् ।\nआवापस्त्वयुजेऽर्धं स्यात्पौलस्ये।आस्तंगतेऽपरम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The risen part obtained by nines should be diminished sevenfold. The intercalation (Avapa) is half in the odd fortnight; the other half occurs at the setting of the Full Moon (Amavasya).",
+          "hindi": "नवक (नौ) से उदित अंश को सात गुना घटाया जाता है। विषम पक्ष में आवाप (क्षेपक) आधा होता है; शेष आधा पौलस्त्य (अमावस्या) के अस्त होने पर होता है।",
+          "status": "translated"
         },
         {
-          "number": "१७",
+          "number": 17,
           "text": "जावाद्यंशैः समं विद्यात् पूर्वार्धे पर्व सूत्तरे ।\nभादानं स्याच्चतुर्दश्यां काष्ठानां देविना कलाः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "By the parts beginning with 'Ja' (nakshatra abbreviations), one should know the Parvan equally in the first half and the latter half. The Nakshatra-assignment (Bhadana) occurs on the fourteenth Tithi; the Kalas of the Kashthas are reckoned by the deities.",
+          "hindi": "'ज' आदि अंशों से प्रथमार्ध और उत्तरार्ध में पर्व को समान रूप से जानना चाहिए। चतुर्दशी तिथि पर भादान होता है; काष्ठाओं की कलाएँ देवताओं के अनुसार गिनी जाती हैं।",
+          "status": "translated"
         },
         {
-          "number": "१८",
+          "number": 18,
           "text": "जौ द्रा गः खे श्वे ही रो षा श्चिन्मूषक्ण्यः सूमाधाणः ।\nरे मृ घाः स्वापोजः कृष्यो ह ज्येष्ठा इत्यृक्षा लिंगैः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Jau (Ashvini), Dra (Bharani), Gah (Krittika), Khe (Rohini), Shve (Mrigashirsha), Hi (Ardra), Ro (Punarvasu), Sha (Pushya), Chin (Ashlesha), Mu (Magha), Shak (Purva Phalguni), Nyah (Uttara Phalguni), Su (Hasta), Ma (Chitra), Dha (Svati), Nah (Vishakha), Re (Anuradha), Mri (Jyeshtha), Ghah (Mula), Sva (Purvashadha), Po (Uttarashadha), Jah (Shravana), Kri (Dhanishtha), Shyo (Shatabhisha), Ha (Purva Bhadrapada), Jyeshtha (Uttara Bhadrapada & Revati) — these are the 27 Nakshatras identified by their indicator syllables.",
+          "hindi": "जौ (अश्विनी), द्रा (भरणी), गः (कृत्तिका), खे (रोहिणी), श्वे (मृगशीर्ष), ही (आर्द्रा), रो (पुनर्वसु), षा (पुष्य), चिन् (आश्लेषा), मू (मघा), षक् (पू. फाल्गुनी), ण्यः (उ. फाल्गुनी), सू (हस्त), मा (चित्रा), धा (स्वाति), णः (विशाखा), रे (अनुराधा), मृ (ज्येष्ठा), घाः (मूल), स्वा (पू. आषाढ़ा), पो (उ. आषाढ़ा), जः (श्रवण), कृ (धनिष्ठा), ष्यो (शतभिषा), ह (पू. भाद्रपद), ज्येष्ठा (उ. भाद्रपद व रेवती) — ये २७ नक्षत्रों के सांकेतिक अक्षर (लिंग) हैं।",
+          "status": "translated"
         },
         {
-          "number": "१९",
+          "number": 19,
           "text": "कार्या भांशाष्टकास्थाने कला एकान्नविंशतिः ।\nउनस्थाने त्रिसप्तति मुद्ववपेदूनसम्भवे",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "In place of the eight Nakshatra-divisions (Bhamshas), nineteen Kalas should be used. In place of the subtracted part, seventy-three should be added when the subtraction cannot be performed.",
+          "hindi": "नक्षत्र के आठ अंशों (भांश) के स्थान पर उन्नीस कलाओं का प्रयोग किया जाना चाहिए। घटाने के स्थान पर, जब घटाना सम्भव न हो, तिहत्तर जोड़ना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "२०",
+          "number": 20,
           "text": "तिथिमेकादशाभ्यस्तां पर्वभांशसमन्विताम् ।\nविभज्य भसमूहेन तिथिनक्षत्रमादिशेत्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Tithi multiplied by eleven, combined with the Parvan's Nakshatra-division (Parva-Bhamsha), and divided by the total Nakshatra count — the result indicates the Tithi-Nakshatra (the Nakshatra in which the Tithi falls).",
+          "hindi": "तिथि को ग्यारह से गुणा कर, पर्व के भांश (नक्षत्र-अंश) से युक्त करके, नक्षत्र-समूह (२७) से भाग देने पर तिथि-नक्षत्र (जिस नक्षत्र में तिथि पड़ती है) प्राप्त होता है।",
+          "status": "translated"
         },
         {
-          "number": "२१",
+          "number": 21,
           "text": "याः पर्वाभादानकलास्तासु सप्तगुणां तिथिम् ।\nयुक्त्या तासां विजानीयात् तिथिभादानिकाः कलाः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Those Kalas which are the Nakshatra-assignment of the Parvans — in them the Tithi multiplied by seven should be added. By method, one should know these as the Tithi-Bhadanika Kalas (Kalas of the Tithi's Nakshatra portion).",
+          "hindi": "पर्वों की जो भादान (नक्षत्र-आवंटन) कलाएँ हैं, उनमें सात से गुणा की गई तिथि को जोड़ना चाहिए। युक्ति से उन कलाओं को तिथि-भादानिक कलाएँ जानना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "२२",
+          "number": 22,
           "text": "अतीतपर्वभागेभ्यः शोधयेद् द्विगुणां तिथिम् ।\nतेषु मण्डलभागेषु तिथिनिष्ठांगतो रविः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "From the parts of the elapsed Parvans, one should subtract twice the Tithi. In those parts of the circle (Mandala), the Sun is situated at the end-point of the Tithi.",
+          "hindi": "व्यतीत पर्वों के भागों में से तिथि के दुगुने को घटाना चाहिए। मण्डल (कक्षा) के उन भागों में सूर्य तिथि के अन्त में स्थित होता है।",
+          "status": "translated"
         },
         {
-          "number": "२३",
+          "number": 23,
           "text": "विषुवन्तं द्विरभ्यस्तं रूपोनं षड्गुणीकृतम् ।\nपक्षा यदर्धं पक्षाणां तिथिः स विषुवान् स्मृतः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The equinox (Vishuvant), doubled, decreased by one, and multiplied by six — half of that gives the number of Pakshas (fortnights). That half-count is the Tithi known as the equinoctial Tithi (Vishuvant).",
+          "hindi": "विषुवान् को दो से गुणा कर, एक घटाकर, छह से गुणा करने पर — उसका आधा पक्षों (पर्वों) की संख्या देता है। वह विषुवान् तिथि कहलाती है।",
+          "status": "translated"
         },
         {
-          "number": "२४",
+          "number": 24,
           "text": "पलानि पंचाशदपां धृतानि तदाढकं द्रोणमतः प्रमेयम् ।\nत्रिभिर्विहीनं कुड्वैस्तु कार्यं तन्नाडिकायास्तु भवेत् प्रमाणम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Fifty Palas of water are held in a vessel; that constitutes an Adhaka. From that the Drona is measured. Reduced by three Kudvas, that becomes the standard measure of a Nadika (water-clock unit).",
+          "hindi": "पचास पल जल एक पात्र में धारण किया जाता है; वह एक आढ़क होता है। उससे द्रोण प्रमाण बनता है। तीन कुड्व घटाने पर वह नाड़िका (जल-घड़ी की इकाई) का प्रमाण होता है।",
+          "status": "translated"
         },
         {
-          "number": "२५",
+          "number": 25,
           "text": "एकादशभिरभ्यस्य पर्वाणि नवभिस्तिथिम् ।\nयुगलब्धं सपर्व स्याद् वर्तमानार्कभं क्रमात्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Having multiplied the Parvans by eleven and the Tithis by nine, dividing by the Yuga — the quotient together with the Parvan gives the current Sun's Nakshatra (Arka-Bha) in sequence.",
+          "hindi": "पर्वों को ग्यारह से और तिथियों को नौ से गुणा करके, युग से भाग देने पर — पर्व सहित लब्धि क्रमानुसार वर्तमान सूर्य का नक्षत्र (अर्क-भ) बताती है।",
+          "status": "translated"
         },
         {
-          "number": "२६",
+          "number": 26,
           "text": "सूर्यर्क्षभागान् नवभिर्विभज्य शेषान् द्विरभ्यस्य दिनोपभुक्तिः ।\nतिथेर्युता भुक्तिदिनेषु कालो योगो दिनैकादशकेन् तद्भम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Having divided the Sun's Nakshatra-parts by nine, the remainder doubled gives the daily motion (Bhukti). The Tithi added to the Bhukti gives the time in days; by the group of eleven the Yoga is found, and from that the Nakshatra.",
+          "hindi": "सूर्य के नक्षत्र-भागों को नौ से भाग देकर, शेष को दुगुना करने पर दैनिक भुक्ति (गति) मिलती है। तिथि को भुक्ति के दिनों में जोड़ने पर काल प्राप्त होता है; ग्यारह के समूह से योग और उससे नक्षत्र ज्ञात होता है।",
+          "status": "translated"
         },
         {
-          "number": "२७",
+          "number": 27,
           "text": "त्र्यंशो भशेषो दिवसांशभागश्चतुर्दशस्याप्यपनीय भिन्नम् ।\nभार्धेऽधिके चाधिगते परोंऽशोद्वावुत्तमे तन्नवकैरवेत्य",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "One-third of the Nakshatra-remainder is the day-part fraction. Having subtracted it from the fourteenth part — if the Nakshatra-half is in excess and the further part is obtained, the upper two are known by groups of nine.",
+          "hindi": "नक्षत्र शेष का एक-तिहाई दिन के अंश का भाग है। चौदहवें भाग से भिन्न को घटाकर — यदि नक्षत्र का आधा अधिक हो और आगे का अंश प्राप्त हो, तो ऊपर के दो नवक (नौ के समूहों) से ज्ञात होते हैं।",
+          "status": "translated"
         },
         {
-          "number": "२८",
+          "number": 28,
           "text": "त्रिंशत्यह्नां सषट्षष्टिरब्दः षट् चर्तवोऽयने ।\nमासा द्वादश सौर्याः स्युरेतत् पंचगुणं युगम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "A year consists of three hundred and sixty-six days. There are six seasons in two Ayanas. There are twelve solar months. All this multiplied by five constitutes one Yuga.",
+          "hindi": "तीन सौ छियासठ दिनों का एक वर्ष होता है। दो अयनों में छह ऋतुएँ होती हैं। बारह सौर मास होते हैं। यह सब पाँच से गुणा करने पर एक युग होता है।",
+          "status": "translated"
         },
         {
-          "number": "२९",
+          "number": 29,
           "text": "उदयावासवस्य स्युर्दिनराशि सपंचकः ।\nऋषेर्द्विषष्टिहीनः स्याद् विंशत्या चैकयास्तृणाम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The risings of Indra's star (Shatabhisha/Dhanishtha) give the day-count plus five in the Yuga. The sage's (star) count is diminished by sixty-two, and the lunar (Nakshatra) count by twenty-one.",
+          "hindi": "इन्द्र के नक्षत्र (वासव/धनिष्ठा) के उदय से युग में दिनों की संख्या पाँच अधिक होती है। ऋषि (नक्षत्र) की गणना बासठ से कम और तारा (नक्षत्र) गणना इक्कीस से कम होती है।",
+          "status": "translated"
         },
         {
-          "number": "३०",
+          "number": 30,
           "text": "पंचत्रिंशं शतं पौष्णम् एकोनमयनोन्यृषेः ।\nपर्वणां स्याच्चतुष्पादी काष्ठानां चैव ताः कलाः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "One hundred and thirty-five is the Pushya (Paushna/Revati) count. The Ayana is one less than the sage's count. The Parvans have four quarters; and the Kashthas have their corresponding Kalas.",
+          "hindi": "एक सौ पैंतीस पौष्ण (रेवती) की संख्या है। अयन ऋषि की संख्या से एक कम है। पर्वों के चार पाद होते हैं; और काष्ठाओं की तद्नुसार कलाएँ होती हैं।",
+          "status": "translated"
         },
         {
-          "number": "३१",
+          "number": 31,
           "text": "सावनेन्दुस्तृमासानां षष्टिः सैकद्विसप्तिका ।\nद्युस्त्रिंशत् सावनः सार्धः सौरस्तृणां स पर्ययः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Savana, lunar, and Nakshatra months — sixty plus one-hundred-and-seventy-two in the Yuga. The Savana month is thirty and a half days; the solar month equals the Nakshatra cycle (one full revolution).",
+          "hindi": "सावन, चान्द्र और नाक्षत्र मासों की संख्या — युग में साठ, एकसठ और बहत्तर (१७२ कुल) होती है। सावन मास साढ़े तीस दिन का होता है; सौर मास नक्षत्र पर्याय (एक पूर्ण भ्रमण) के बराबर होता है।",
+          "status": "translated"
         },
         {
-          "number": "३२",
+          "number": 32,
           "text": "अग्निः प्रजापतिः सोमो रुद्रोदितिबृहस्पती ।\nसर्पाश्च पितरश्चैव भगश्चैवार्यमापि च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Agni (Krittika), Prajapati (Rohini), Soma (Mrigashirsha), Rudra (Ardra), Aditi (Punarvasu), Brihaspati (Pushya), the Sarpas/Serpents (Ashlesha), the Pitris/Ancestors (Magha), Bhaga (Purva Phalguni), and Aryaman (Uttara Phalguni).",
+          "hindi": "अग्नि (कृत्तिका), प्रजापति (रोहिणी), सोम (मृगशीर्ष), रुद्र (आर्द्रा), अदिति (पुनर्वसु), बृहस्पति (पुष्य), सर्प (आश्लेषा), पितर (मघा), भग (पू. फाल्गुनी) और अर्यमा (उ. फाल्गुनी)।",
+          "status": "translated"
         },
         {
-          "number": "३३",
+          "number": 33,
           "text": "सविता त्वष्टाथ वायुश्चेन्द्राग्नी मित्र एव च ।\nइन्द्रो निॠतिरापो वै विश्वेदेवास्तथैव च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Savita (Hasta), Tvashta (Chitra), Vayu (Svati), Indra-Agni (Vishakha), Mitra (Anuradha), Indra (Jyeshtha), Nirriti (Mula), Apah/Waters (Purvashadha), and the Vishvedevas (Uttarashadha).",
+          "hindi": "सविता (हस्त), त्वष्टा (चित्रा), वायु (स्वाति), इन्द्राग्नी (विशाखा), मित्र (अनुराधा), इन्द्र (ज्येष्ठा), निर्ऋति (मूल), आपः (पू. आषाढ़ा) और विश्वेदेवा (उ. आषाढ़ा)।",
+          "status": "translated"
         },
         {
-          "number": "३४",
+          "number": 34,
           "text": "विष्णुर्वसवो वरुणूऽजेकपात् तथैव च ।\nअहिर्बुध्न्यस्तथा पूषा अश्विनौ यम एव च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Vishnu (Shravana), the Vasus (Dhanishtha), Varuna (Shatabhisha), Aja Ekapad (Purva Bhadrapada), Ahirbudhnya (Uttara Bhadrapada), Pushan (Revati), the Ashvins (Ashvini), and Yama (Bharani).",
+          "hindi": "विष्णु (श्रवण), वसु (धनिष्ठा), वरुण (शतभिषा), अजैकपात् (पू. भाद्रपद), अहिर्बुध्न्य (उ. भाद्रपद), पूषा (रेवती), अश्विनौ (अश्विनी) और यम (भरणी)।",
+          "status": "translated"
         },
         {
-          "number": "३५",
+          "number": 35,
           "text": "नक्षत्रदेवता एता एताभिर्यज्ञकर्मणि ।\nयजमानस्य शास्त्रज्ञैर्नाम नक्षत्रजं स्मृतम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "These are the presiding deities of the Nakshatras. In the performance of Yajna (sacrifice), the name derived from the birth-Nakshatra of the sacrificer (Yajamana) is remembered by those who know the Shastras.",
+          "hindi": "ये नक्षत्रों के अधिष्ठाता देवता हैं। यज्ञकर्म में शास्त्रज्ञ विद्वानों द्वारा यजमान का नक्षत्रज (जन्म-नक्षत्र से व्युत्पन्न) नाम स्मरण किया जाता है।",
+          "status": "translated"
         },
         {
-          "number": "३६",
+          "number": 36,
           "text": "उग्राण्यार्द्रा च चित्रा च विशाखा श्रवणोश्वयुक् ।\nक्रूरणि तु मघास्वाती ज्येष्टा मूलं यमस्य च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The fierce (Ugra) Nakshatras are Ardra, Chitra, Vishakha, Shravana, and Ashvayuk (Ashvini). The cruel (Krura) ones are Magha, Svati, Jyeshtha, Mula, and Yama's star (Bharani).",
+          "hindi": "उग्र नक्षत्र हैं — आर्द्रा, चित्रा, विशाखा, श्रवण और अश्वयुक् (अश्विनी)। क्रूर नक्षत्र हैं — मघा, स्वाती, ज्येष्ठा, मूल और यम का नक्षत्र (भरणी)।",
+          "status": "translated"
         },
         {
-          "number": "३७",
+          "number": 37,
           "text": "द्यूनं द्विषष्टिभागेन ज्ञे (हे) यं सौरं सपार्वणम् ।\nयत्कृतावुपजायेते मध्येऽन्ते चाधिमासकौ",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Diminished by one-sixty-second part, the solar and Parvan (synodic) reckonings should be known. In the Yuga, two intercalary months (Adhimasas) arise — one in the middle and one at the end.",
+          "hindi": "बासठवें भाग से घटाकर, सौर और पार्वण (सांवत्सरिक) गणना जाननी चाहिए। युग में दो अधिमास उत्पन्न होते हैं — एक मध्य में और एक अन्त में।",
+          "status": "translated"
         },
         {
-          "number": "३८",
+          "number": 38,
           "text": "कला दश सविंशा स्याद् द्वे मुहुर्तस्य नाडिके ।\nद्युस्त्रिंशत् तत्कलानां तु षट्शती त्र्यधिका भवेत्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "A Kala consists of thirty (ten plus twenty) units. Two Nadikas make one Muhurta. A day (Ahoratra) has thirty Muhurtas, and the total Kalas in a day are six hundred and three (603).",
+          "hindi": "एक कला तीस (दस और बीस) इकाइयों की होती है। दो नाड़िकाओं का एक मुहूर्त होता है। एक दिन (अहोरात्र) में तीस मुहूर्त होते हैं, और दिन की कुल कलाएँ छह सौ तीन (६०३) होती हैं।",
+          "status": "translated"
         },
         {
-          "number": "३९",
+          "number": 39,
           "text": "ससप्तमं भयुक् सोमः सूर्यो द्यूनि त्रयोदश ।\nनवमानि तु पंचाह्नः काष्ठा पंचाक्षरा भवेत्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With seven added, the Moon is conjoined with a Nakshatra. The Sun traverses in thirteen days. The ninth parts equal five days. A Kashtha is the duration of five syllables (Aksharas).",
+          "hindi": "सात जोड़ने पर चन्द्रमा नक्षत्र से युक्त होता है। सूर्य तेरह दिनों में (एक नक्षत्र पार करता है)। नवमांश पाँच दिन के होते हैं। एक काष्ठा पाँच अक्षरों के उच्चारण-काल के बराबर होती है।",
+          "status": "translated"
         },
         {
-          "number": "४०",
+          "number": 40,
           "text": "यदुत्तरस्यायनतो गतं स्याच् छेषं तथा दक्षिणतोऽयनस्य ।\nतदेकषष्ट्याद्विगुणं विभक्तं सद्वादशं स्याद् दिवसप्रमाणम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Whatever has elapsed from the Northern Ayana, and similarly the remainder of the Southern Ayana — that, doubled and divided by sixty-one, combined with twelve, gives the measure (length) of the day in Muhurtas.",
+          "hindi": "उत्तरायण से जो व्यतीत हो गया है, और उसी प्रकार दक्षिणायन का जो शेष है — उसे दुगुना करके इकसठ से भाग देने पर, बारह जोड़ने पर, दिन का प्रमाण (मुहूर्तों में लम्बाई) प्राप्त होता है।",
+          "status": "translated"
         },
         {
-          "number": "४१",
+          "number": 41,
           "text": "यदर्धं दिनभागानां सदा पर्वणि पर्वणि ।\nॠतुशेषं तु तद् विद्यात् संख्याय सह सर्वणाम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Whatever is half of the day-parts, always at every Parvan — one should know that as the remainder of the season, after counting along with all the Parvans.",
+          "hindi": "प्रत्येक पर्व पर दिन के भागों का जो आधा हिस्सा है — पर्वों के साथ गिनकर उसे ऋतु का शेष जानना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "४२",
+          "number": 42,
           "text": "इत्युपायसमुद्देशो भूयोप्यह्नः प्रकल्पयेत् ।\nज्ञेयराशिं गताभ्यस्तं विभजेज्ज्ञानराशिना",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Thus is the statement of the method. One should again apply it for the day. The known quantity (Jneya-rashi), multiplied by the elapsed, should be divided by the knowledge-quantity (Jnana-rashi).",
+          "hindi": "इस प्रकार उपाय (विधि) का समुद्देश है। दिन के लिए भी पुनः इसी प्रकार गणना करनी चाहिए। ज्ञेय-राशि को गत (व्यतीत) से गुणा कर, ज्ञान-राशि से भाग देना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "००",
+          "number": 0,
           "text": "इत्येतन्मासवर्षाणां मुहूर्तोदयपर्वणाम् ।\nदिनर्त्वयनमासांगं व्याख्यानं लगधोऽब्रवीत्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Thus the explanation of the months, years, Muhurtas, risings, Parvans, days, seasons, Ayanas, and month-divisions was spoken by the sage Lagadha.",
+          "hindi": "इस प्रकार मास, वर्ष, मुहूर्त, उदय, पर्व, दिन, ऋतु, अयन और मासों के अंगों की यह व्याख्या लगध ऋषि ने कही है।",
+          "status": "translated"
         },
         {
-          "number": "४३",
+          "number": 43,
           "text": "सोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते ।\nसोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The wise one who knows the movements of the Moon and the Sun attains the knowledge of the Vedas. He attains the world traversed by the Moon and the Sun, and earns respect in this world.",
+          "hindi": "जो विद्वान सोम (चन्द्रमा) और सूर्य की गति को जानता है, वह वेदों का ज्ञान प्राप्त करता है। वह सोम-सूर्य द्वारा विचरित लोकों को और संसार में सम्मान को प्राप्त करता है।",
+          "status": "translated"
         }
       ]
     }

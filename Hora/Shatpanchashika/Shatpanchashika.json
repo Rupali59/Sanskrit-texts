@@ -1,382 +1,440 @@
 {
-  "source": "Shatpanchashika.md",
-  "header": "षट्पञ्चाशिका\n\nश्रीवराहमिहिरात्मजपृथुयशसा विरचिता\n१. अथ होराध्याय (7)\n२. गमागमाध्यायः (17)\n३. जयपराजयोऽध्यायः (5)\n४. शुभाशुभलक्षणाध्यायः (5)\n५. प्रवासचिन्ताध्याय (5)\n६. अथ नष्टप्राप्त्याध्याय (6)\n७. अथ मिश्रकाध्याय (11)",
+  "text_id": "shatpanchashika",
+  "title_sa": "षट्पञ्चाशिका",
+  "title_en": "Shatpanchashika",
+  "category": "hora",
   "chapters": [
     {
-      "number": "१",
+      "number": 1,
       "title": "अथ होराध्याय",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "प्रणिपत्य रविं मूर्ध्ना वराहमिहिरात्मजेन पृथुयशसा ।\nप्रश्ने कृतार्थगहना परार्थमुद्दिश्य सध्यशसा",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Having bowed with the head to the Sun, Prithuyasas, the son of Varahamihira, composes this profound work on horary astrology (Prashna) for the benefit of others, aiming for good fame.",
+          "hindi": "अपने सिर से सूर्य को प्रणाम करके, वराहमिहिर के पुत्र पृथुयशस दूसरों के लाभ के उद्देश्य से और अच्छे यश की प्राप्ति के लिए प्रश्न शास्त्र पर इस गहन ग्रंथ की रचना कर रहे हैं।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "च्युतिर्विलग्नाद्धिबुकाच्च वृद्धिर्मध्यात्प्रवासोऽस्तमयान्निवृत्तिः ।\nवाच्यः ग्रहैः प्रश्नविलग्रकालादृहं प्रविष्टो हिबुके प्रवासी",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Loss or fall is predicted from the Ascendant (Lagna); growth or success from the 4th house (Hibuka); journey or exile from the 10th house (Madhya); and return from the 7th house (Astamaya). This should be stated by the planets from the time of the horary Ascendant. A traveler entering the home is seen from the 4th house.",
+          "hindi": "लग्न से हानि (या पतन), चौथे भाव (हिबुक) से वृद्धि या सफलता, दसवें भाव (मध्य) से यात्रा या प्रवास, और सातवें भाव (अस्त) से वापसी बतानी चाहिए। प्रश्न लग्न के समय से ग्रहों के आधार पर ऐसा विचार करना चाहिए। चौथे भाव से घर में प्रवेश करने वाले प्रवासी का विचार किया जाता है।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "यो यो भावः स्वामिदृष्टो युतो वा सौम्यैर्वा स्यात्तस्य तस्यास्ति वृद्धिः ।\nपापैरेवं तस्य भावस्य दानि निर्देष्टव्या पृच्छतां जन्मतो वा",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Whichever house is aspected by or conjoined with its own lord, or with benefic planets, there is growth/prosperity of that house. If it is so with malefic planets, the loss of that house should be indicated for the querent, or from the time of birth.",
+          "hindi": "जो-जो भाव अपने स्वामी से दृष्ट या युत हो, अथवा शुभ ग्रहों से दृष्ट या युत हो, उस-उस भाव की वृद्धि होती है। यदि ऐसा पापी ग्रहों के साथ हो, तो प्रश्नकर्ता के लिए उस भाव की हानि (क्षय) बतानी चाहिए, अथवा जन्म के समय से भी यही नियम लागू होता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "सौम्ये विलग्रे यदि वास्य वर्गे शीर्षोदये सिद्धिमुपैति कार्यम् ।\nअतो विपर्यस्तमसिद्धिहेतुः कृच्छ्नेण संसिद्धिकरं विमिश्रम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If a benefic planet is in the Ascendant, or it is in the varga (division) of a benefic, or a Sirshodaya (head-rising) sign is in the Ascendant, the undertaking attains success. The opposite of this is the cause of failure. Mixed conditions cause success with difficulty.",
+          "hindi": "यदि लग्न में शुभ ग्रह हो, या लग्न शुभ ग्रह के वर्ग में हो, या शीर्षोदय राशि लग्न में हो, तो कार्य में सफलता प्राप्त होती है। इसके विपरीत स्थिति असफलता का कारण होती है। मिश्रित प्रभाव होने पर बड़ी कठिनाई से कार्य की सिद्धि होती है।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "होरास्थितः पूर्ण्यतनुः शशाङ्को जीवेन दृष्तो यदि वा सितेन ।\nधिप्रं प्रनष्टस्य करोति लब्धिं लाभोपय तो बलवाञ्छुभश्च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If the Moon with a full body (full moon) is situated in the Ascendant, aspected by Jupiter or Venus, it quickly brings the recovery of lost things. A strong and benefic planet situated in the house of gain (11th) also does the same.",
+          "hindi": "यदि पूर्ण शरीर वाला (पूर्णिमा का) चंद्रमा लग्न में स्थित हो और गुरु या शुक्र से दृष्ट हो, तो वह नष्ट हुई (खोई हुई) वस्तु की शीघ्र प्राप्ति कराता है। लाभ भाव (ग्यारहवें भाव) में स्थित बली और शुभ ग्रह भी ऐसा ही करता है।",
+          "status": "translated"
         },
         {
-          "number": "६",
+          "number": 6,
           "text": "स्वांशे विलग्ने यदि वा त्रिकोणे स्वां शे स्थितः पश्यति धातुचिन्ताम् ।\nपरांशकस्थश्च करोति जीवं मूलं परांशोपगतः परंशम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If the Ascendant or a trine is in its own Navamsha, and a planet situated in its own Navamsha aspects it, it indicates a thought of minerals (Dhatu). Situated in another's Navamsha, it indicates living beings (Jiva), and going to another's Navamsha (or Vargas), it indicates roots/plants (Mula).",
+          "hindi": "यदि लग्न या त्रिकोण अपने नवांश में हो और अपने नवांश में स्थित ग्रह उसे देखता हो, तो वह धातु (खनिज) की चिंता (विचार) दर्शाता है। दूसरे के नवांश में स्थित ग्रह जीव की चिंता, और अन्य अंशों में स्थित ग्रह मूल (पेड़-पौधे) की चिंता दर्शाता है।",
+          "status": "translated"
         },
         {
-          "number": "७",
+          "number": 7,
           "text": "धातुं मूलं जीवं त्रयो जराशौ युग्मे विन्ध्यादेतदेव प्रतीपम् ।\nलग्ने योंशस्तत्क्रमाक्षगय एव सन्धेपोऽयं विस्तरातत्प्रभेदः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "In an odd sign (Oja rasi), the sequence is Mineral (Dhatu), Root (Mula), and Living being (Jiva). In an even sign (Yugma rasi), one should know this in reverse order. Whatever Navamsha is in the Ascendant, the thought follows that sequence. This is the summary; the detailed differentiation is from extensive study.",
+          "hindi": "विषम राशि में यह क्रम धातु, मूल और जीव का होता है। सम राशि में इसके विपरीत (जीव, मूल, धातु) जानना चाहिए। लग्न में जो नवांश हो, उसी क्रम से विचार करना चाहिए। यह एक संक्षेप है, इसका विस्तृत भेद विस्तार से अध्ययन करने पर मिलता है।",
+          "status": "translated"
         }
       ]
     },
     {
-      "number": "२",
+      "number": 2,
       "title": "गमागमाध्यायः",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "वृषसिंहवृश्चिकघटैर्विद्धि स्थानं गमागमौ न स्तः ।\nन नृतं चापि नष्टं न रोगशान्तिर्न चाभिभवः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Know that with Taurus, Leo, Scorpio, and Aquarius (fixed signs) rising, there is no departure or return. Also, there is no falsehood, no loss/destruction, no cure of disease, and no defeat.",
+          "hindi": "वृषभ, सिंह, वृश्चिक और कुंभ (स्थिर राशियों) के उदित होने पर न तो प्रस्थान (जाना) होता है और न ही आगमन (लौटना)। इसी प्रकार न तो झूठ होता है, न नष्ट होता है, न रोग की शांति होती है, और न ही पराजय होती है।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "तद्विपरीतं तु चरैर्द्विशरीरैर्मिश्रितं फलं भवति ।\nलग्नेन्द्वोर्वक्तव्यं शुभदृष्ट्या शोभनमतोऽन्यत्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The opposite of this happens with movable signs. With dual signs, the result is mixed. It should be spoken according to the Ascendant and the Moon. A benefic aspect makes it auspicious, otherwise inauspicious.",
+          "hindi": "इसके विपरीत परिणाम चर राशियों में होते हैं। द्विस्वभाव राशियों में मिश्रित फल होता है। लग्न और चंद्रमा की स्थिति के अनुसार विचार करना चाहिए। शुभ दृष्टि होने पर फल शुभ होता है, अन्यथा अशुभ।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "सुतशत्रुगतैः पापैः शत्रुमार्गार्न्निवर्तते ।\nचतुर्थगैरपि प्राप्तः शत्रुर्भग्नो निवर्तते",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With malefic planets in the 5th and 6th houses, the enemy returns from the middle of the path. If malefics are in the 4th house, even after arriving, the enemy is broken/defeated and retreats.",
+          "hindi": "पांचवें और छठे भाव में पापी ग्रह हों, तो शत्रु रास्ते से ही लौट जाता है। यदि चौथे भाव में पापी ग्रह हों, तो शत्रु आकर भी पराजित होकर लौट जाता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "भ्रष्टालिकुन्भकर्कटा रसातले यदा स्थितः ।\nरिपोः पराजयस्तदाचतुष्पदैः पलायनम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "When Scorpio, Aquarius, and Cancer fall from the Ascendant, or are situated in the 4th house (Rasatala), then there is defeat of the enemy and flight on quadrupeds (horses, etc.).",
+          "hindi": "जब वृश्चिक, कुंभ और कर्क राशियाँ लग्न से हट जाएं, या पाताल (चौथे भाव) में स्थित हों, तो शत्रु की पराजय होती है और वह चौपायों (घोड़े आदि) पर सवार होकर भाग जाता है।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "चरोदये शुभः स्थितः शुभं करोति यायिनाम् ।\nअशोभनैरशोभनं स्थिरोदयेऽपि वा शुभम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If a benefic is situated in a movable Ascendant, it causes good/auspicious results for travelers. With malefics, it is inauspicious. In a fixed Ascendant, it is auspicious (for staying).",
+          "hindi": "यदि चर लग्न में शुभ ग्रह स्थित हो, तो यह यात्रा करने वालों के लिए शुभ करता है। अशुभ ग्रहों के होने पर अशुभ होता है। स्थिर लग्न में शुभ होता है (रुकने के लिए)।",
+          "status": "translated"
         },
         {
-          "number": "६",
+          "number": 6,
           "text": "स्थिरे शशीचरोदये न चागमो रिपोर्यदा ।\nतदागमं रिपोर्वद्विपर्यये विपर्ययम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "When the Moon is in a fixed sign and the Ascendant is a movable sign, there is no arrival of the enemy. If it is the reverse (Moon in movable, Ascendant in fixed), state the arrival of the enemy.",
+          "hindi": "जब चंद्रमा स्थिर राशि में हो और लग्न चर राशि का हो, तो शत्रु का आगमन नहीं होता है। यदि इसके विपरीत स्थिति हो (चंद्रमा चर में, लग्न स्थिर में), तो शत्रु का आगमन होता है।",
+          "status": "translated"
         },
         {
-          "number": "७",
+          "number": 7,
           "text": "स्थिरे तु लग्नमागते द्विरात्मके तु चन्द्रमाः ।\nनिवर्तते रिपुस्तदा सुदूरमागतोऽपि सन्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If a fixed sign is in the Ascendant, and the Moon is in a dual sign, then the enemy retreats even after having come from a great distance.",
+          "hindi": "यदि स्थिर राशि लग्न में हो और चंद्रमा द्विस्वभाव राशि में हो, तो बहुत दूर से आया हुआ शत्रु भी वापस लौट जाता है।",
+          "status": "translated"
         },
         {
-          "number": "८",
+          "number": 8,
           "text": "चरे शशी लग्नगतो द्विदेहः पथोऽर्द्धमागत्य निवर्तते रिपुः ।\nविप्रर्यते चागमनं द्विधा स्यात्पराजयः स्यादशुभेधिते",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If the Moon is in a movable sign and a dual sign is in the Ascendant, the enemy comes halfway and retreats. If the reverse, the arrival is two-fold (doubtful), and there is defeat if aspected by malefics.",
+          "hindi": "यदि चंद्रमा चर राशि में हो और लग्न द्विस्वभाव राशि का हो, तो शत्रु आधे रास्ते से ही लौट जाता है। यदि स्थिति विपरीत हो, तो आगमन दो प्रकार का (संदेहपूर्ण) होता है, और पापी ग्रहों की दृष्टि होने पर पराजय होती है।",
+          "status": "translated"
         },
         {
-          "number": "९",
+          "number": 9,
           "text": "अर्कार्किज्ञ्सितानामेकोऽपि चरोदये यदा भवति ।\nप्रववदेत्तदाशुगमनं वक्रगतैर्नेति वक्तव्यम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If even one among the Sun, Saturn, Mercury, or Venus is in a movable Ascendant, one should predict a quick departure/journey. If they are retrograde, one should say 'no'.",
+          "hindi": "यदि सूर्य, शनि, बुध या शुक्र में से एक भी चर लग्न में स्थित हो, तो शीघ्र प्रस्थान (यात्रा) की भविष्यवाणी करनी चाहिए। यदि वे वक्री हों, तो 'नहीं' (यात्रा नहीं होगी) ऐसा कहना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "१०",
+          "number": 10,
           "text": "स्थिरोदये जीवशनैश्चरेधिते गमागमौ नैव वदेत्त पृच्छ्तः ।\nत्रिपञ्चषष्ठ रिपुसङ्गमाय पापाश्चतुर्था विनिवर्तनाय",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If a fixed sign is in the Ascendant aspected by Jupiter or Saturn, one should not predict departure or return for the querent. Malefics in the 3rd, 5th, or 6th indicate meeting with the enemy. In the 4th, they indicate retreat.",
+          "hindi": "यदि स्थिर लग्न हो और उस पर गुरु या शनि की दृष्टि हो, तो प्रश्नकर्ता के लिए गमन (जाना) या आगमन (आना) नहीं बताना चाहिए। तीसरे, पांचवें या छठे भाव में पापी ग्रह शत्रु से मिलन (टकराव) कराते हैं, और चौथे भाव में पापी ग्रह होने पर वापसी (पीछे हटना) होती है।",
+          "status": "translated"
         },
         {
-          "number": "११",
+          "number": 11,
           "text": "नागच्छाति परचक्रे यदार्कचन्द्रौ चतुर्थभवनस्थौ\nबुधगुरुशुक्रा हिबुके यदा शीघ्रमायाति",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The enemy's army does not come if the Sun and Moon are in the 4th house. When Mercury, Jupiter, and Venus are in the 4th house (Hibuka), it comes quickly.",
+          "hindi": "यदि सूर्य और चंद्रमा चौथे भाव में हों, तो शत्रु की सेना नहीं आती है। जब बुध, गुरु और शुक्र हिबुक (चौथे भाव) में हों, तो शत्रु शीघ्र आता है।",
+          "status": "translated"
         },
         {
-          "number": "१२",
+          "number": 12,
           "text": "मेषधनुः सिंहवववृषा यत्युदयस्था भवन्ति हिबुके वा ।\nशत्रुर्निवर्तति तदा ग्रहसहिता वा वियुक्ता वा",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If Aries, Sagittarius, Leo, or Taurus are in the Ascendant or in the 4th house (Hibuka), the enemy retreats, whether these signs are conjoined with planets or not.",
+          "hindi": "यदि मेष, धनु, सिंह या वृषभ राशि लग्न में या चौथे भाव में हो, तो शत्रु वापस लौट जाता है, चाहे ये राशियाँ ग्रहों से युक्त हों या रहित हों।",
+          "status": "translated"
         },
         {
-          "number": "१३",
+          "number": 13,
           "text": "स्थिरराशौ यद्युदये शनिगुरुर्वा स्थितस्तदा शत्रुः ।\nउदये रविर्गुरुर्वा चरराशौ स्यात्तदागमनम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If a fixed sign is in the Ascendant with Saturn or Jupiter situated in it, then the enemy stays. If the Sun or Jupiter is in the Ascendant in a movable sign, then there is arrival.",
+          "hindi": "यदि स्थिर राशि लग्न में हो और उसमें शनि या गुरु स्थित हो, तो शत्रु रुकता है। यदि चर राशि के लग्न में सूर्य या गुरु स्थित हो, तो आगमन होता है।",
+          "status": "translated"
         },
         {
-          "number": "१४",
+          "number": 14,
           "text": "ग्रहः सर्वोत्तमबलो लग्नद्यस्मिन् गृहे स्थितः ।\nमासैस्तत्तुल्यसङ्ख्याकैर्निवृत्तिं यातुरादिशेत्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Whichever house from the Ascendant the planet with supreme strength is situated in, one should predict the return of the traveler in that equal number of months.",
+          "hindi": "सबसे अधिक बलवान ग्रह लग्न से जिस भाव में स्थित हो, उसी भाव की संख्या के बराबर महीनों में यात्री की वापसी बतानी चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "१५",
+          "number": 15,
           "text": "चरांशस्थे ग्रहे तस्मिन् कालमेवा विनिर्दिशेत् ।\nद्विगुणं स्थिरभागस्थे त्रिगुणं ह्यात्मकांशके",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If that planet is in a movable Navamsha, predict the exact time. If in a fixed division, double the time, and if in a dual Navamsha, triple the time.",
+          "hindi": "यदि वह ग्रह चर नवांश में हो, तो वही समय (महीनों की संख्या) बताना चाहिए। स्थिर नवांश में दोगुना, और द्विस्वभाव नवांश में तीन गुना समय बताना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "१६",
+          "number": 16,
           "text": "यातुर्विलग्नाज्जामित्रभवनाधिपतिर्यदा ।\nकरोति वक्रमावृतेः कालान्तं ब्रुवते परे",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "For the traveler, when the lord of the 7th house (Jamitra) from the Ascendant becomes retrograde, he turns back/returns. Others say the end of the specified time.",
+          "hindi": "यात्री के लिए, जब लग्न से सातवें भाव का स्वामी वक्री होता है, तो वह वापस लौटता है। अन्य आचार्यों का मत है कि वह निर्धारित समय की समाप्ति पर लौटता है।",
+          "status": "translated"
         },
         {
-          "number": "१७",
+          "number": 17,
           "text": "उदयर्क्षच्चन्द्रर्क्षं भवति च यावादिनानि तावद्भिः ।\nआगमनं स्याच्छन्नोर्यदि मध्ये न ग्रहः कश्चित्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "However many signs the Moon's sign is from the Ascendant sign, in that many days the arrival of the enemy will occur, provided there is no planet in between.",
+          "hindi": "लग्न की राशि से चंद्रमा की राशि जितनी संख्या दूर हो, उतने ही दिनों में शत्रु का आगमन होता है, यदि उनके मध्य में कोई अन्य ग्रह न हो।",
+          "status": "translated"
         }
       ]
     },
     {
-      "number": "३",
+      "number": 3,
       "title": "जयपराजयोऽध्यायः",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "दशमोदयसप्तमगाः सौम्या नगराधिपस्य विजयकराः ।\nआरार्कि ग़्यगुरुसिताः प्रभङ्गदौ विजयदा नवमे",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefic planets situated in the 10th, Ascendant, or 7th bring victory to the lord of the city (defender). Mars, Saturn, Mercury, Jupiter, and Venus in the 9th are destroyers of the enemy and givers of victory.",
+          "hindi": "दसवें, लग्न या सातवें भाव में स्थित शुभ ग्रह नगर के स्वामी (रक्षक) को विजय दिलाते हैं। नौवें भाव में मंगल, शनि, बुध, गुरु और शुक्र शत्रु का नाश करने वाले और विजय देने वाले होते हैं।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "पौरास्तृतीयभवनाद्धर्मद्वा यायिनः शुभेः शुभदाः ।\nव्ययदशमाये पापाः पुरस्य नेष्टाः शुभा याभा यातुः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefics from the 3rd to the 9th house are auspicious for the citizens (defenders), and for the traveler (attacker). Malefics in the 12th, 10th, and 11th are inauspicious for the city, but auspicious for the traveler/attacker.",
+          "hindi": "तीसरे भाव से नौवें भाव तक शुभ ग्रह नगरवासियों (रक्षकों) के लिए और आक्रमणकारी के लिए शुभ होते हैं। बारहवें, दसवें और ग्यारहवें भाव में पापी ग्रह नगर के लिए अशुभ होते हैं, लेकिन आक्रमणकारी (यात्री) के लिए शुभ होते हैं।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "नृराशिसंस्था ह्युदये शुभाः स्युर्व्ययायसंस्थाश्च यदा भवन्ति ।\nतदाशु सन्धिं प्रवदेन्नृपाणां पापैर्द्विदेहहोपगतैर्विरोधम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Human signs in the Ascendant are auspicious, and when benefics are in the 12th and 11th, then one should predict a quick treaty/peace among kings. With malefics situated in dual signs, predict hostility/conflict.",
+          "hindi": "लग्न में मनुष्य राशियाँ शुभ होती हैं, और जब शुभ ग्रह 12वें और 11वें भाव में हों, तो राजाओं के बीच शीघ्र संधि (समझौता) होने की भविष्यवाणी करनी चाहिए। द्विस्वभाव राशियों में पापी ग्रहों के होने पर विरोध (शत्रुता) होता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "केन्द्रोपगताः सौम्याः सौम्यैर्दृष्टा नृलग्नगाः प्रीतिम् ।\nकुर्वान्ति पापदृष्टाः पापास्तेष्वेव विपरीतम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefics situated in quadrants, aspected by benefics, going to human ascendants, create affection/peace. If aspected by malefics, or if they are malefics, the opposite happens.",
+          "hindi": "केंद्र में स्थित शुभ ग्रह, यदि शुभ ग्रहों से दृष्ट हों और मनुष्य राशि लग्न में हो, तो वे प्रेम और शांति स्थापित करते हैं। यदि पापी ग्रहों से दृष्ट हों या स्वयं पापी ग्रह हों, तो इसके विपरीत (शत्रुता) परिणाम होता है।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "द्वितीये वा तृतीये वा गुरुशुक्रौ यदा तदा ।\nअश्वेवागच्छते सेना प्रवासो च न संशयः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "When Jupiter and Venus are in the 2nd or 3rd house, then the army or the traveler arrives quickly like a horse; there is no doubt.",
+          "hindi": "जब गुरु और शुक्र दूसरे या तीसरे भाव में हों, तब सेना या प्रवासी घोड़े के समान शीघ्रता से आ जाता है, इसमें कोई संदेह नहीं है।",
+          "status": "translated"
         }
       ]
     },
     {
-      "number": "४",
+      "number": 4,
       "title": "शुभाशुभलक्षणाध्यायः",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "केन्द्रत्रिकोणेषु शुभस्थितेषु पापेषु केन्द्राष्टमवर्जितेषु ।\nसर्वार्थसिद्धिं प्रवदेन्नराणां विपर्यवस्थेषु विपर्ययः स्यात्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With benefics situated in quadrants and trines, and malefics devoid of quadrants and the 8th house, one should predict the accomplishment of all objects for men. In reverse positions, there is the reverse (failure).",
+          "hindi": "शुभ ग्रहों के केंद्र और त्रिकोण में स्थित होने पर, तथा पापी ग्रहों के केंद्र और आठवें भाव से रहित (दूर) होने पर, मनुष्यों के सभी कार्यों की सिद्धि बतानी चाहिए। विपरीत स्थिति में विपरीत फल (असफलता) होता है।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "त्रिपञ्चलाभस्तमयेषु सौम्या लाभप्रदा नेष्टफलश्च पापाः ।\nतुलाथ कन्या मिथुनं घटश्च नृराशयस्तेषु शुभं वदन्ति",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefics in the 3rd, 5th, 11th, and 7th provide gain. Malefics yield undesirable results. Libra, Virgo, Gemini, and Aquarius are human signs; in them, they predict auspiciousness.",
+          "hindi": "तीसरे, पांचवें, ग्यारहवें और सातवें भाव में शुभ ग्रह लाभ देने वाले होते हैं, और पापी ग्रह अनिष्ट फल देते हैं। तुला, कन्या, मिथुन और कुंभ मनुष्य राशियाँ हैं; इनमें ग्रह शुभ फल कहते हैं।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "स्थानप्रदा दशमसप्तमगाश्च सौम्या पानार्थदाः स्वसुतलग्नगता भवन्ति ।\nपापा व्ययायसहिताः स्युर्लग्ने शशी न शुभदो दशमे शुभश्च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefics situated in the 10th and 7th provide position/status. Going to the 2nd, 5th, and Ascendant, they give drinking/enjoyment and wealth. Malefics joined in the 12th and 11th... The Moon in the Ascendant is not auspicious, but in the 10th it is auspicious.",
+          "hindi": "दसवें और सातवें भाव में स्थित शुभ ग्रह स्थान (पद-प्रतिष्ठा) प्रदान करते हैं। दूसरे, पांचवें और लग्न में होने पर वे भोग-विलास और धन देते हैं। पापी ग्रह यदि 12वें और 11वें भाव में हों... चंद्रमा लग्न में शुभ नहीं होता, लेकिन दसवें भाव में शुभ होता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "इन्दुं द्विसप्तदशमायरिपुत्रिसंस्थ पश्येद्रुरुः शुभफलं प्रमादकृतं स्यात् ।\nलग्नत्रिधर्मसुतनैर्धनगाश्च पापाः कार्यार्थनाशभयदा शुभद शुभश्च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "If Jupiter aspects the Moon situated in the 2nd, 7th, 10th, 11th, 6th, or 3rd, there will be auspicious results brought about without error. Malefics in the Ascendant, 3rd, 9th, 5th, and 8th cause destruction of work and wealth, and give fear. Benefics give auspiciousness.",
+          "hindi": "यदि गुरु दूसरे, सातवें, दसवें, ग्यारहवें, छठे या तीसरे भाव में स्थित चंद्रमा को देखे, तो शुभ फल बिना किसी प्रमाद (चूक) के प्राप्त होता है। लग्न, तीसरे, नौवें, पांचवें और आठवें भाव में पापी ग्रह कार्य और धन का नाश तथा भय देते हैं। शुभ ग्रह शुभ फल देते हैं।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "शुभग्रहाः सौम्यनिरोधिताश्च विलग्नसप्ताष्टमञ्चमस्थः ।\nत्रिषट्दशाये च निशाकरः स्याच्छुभं भवेद्रोगनिपीडितानाम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefic planets, unopposed by malefics, situated in the Ascendant, 7th, 8th, and 5th, and the Moon in the 3rd, 6th, 10th, and 11th—this indicates auspiciousness (recovery) for those afflicted by disease.",
+          "hindi": "शुभ ग्रह, बिना किसी पापी ग्रह के विरोध के, लग्न, सातवें, आठवें और पांचवें भाव में स्थित हों, और चंद्रमा तीसरे, छठे, दसवें और ग्यारहवें भाव में हो—तो यह रोगों से पीड़ित लोगों के लिए शुभ (स्वास्थ्य लाभ) होता है।",
+          "status": "translated"
         }
       ]
     },
     {
-      "number": "५",
+      "number": 5,
       "title": "प्रवासचिन्ताध्याय",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "दुरगतस्यागमनं सुतधनसहजस्थितैर्ग्रहैर्लग्नात् ।\nसौम्यैर्नष्टप्राप्तिं लघ्वागमन गुरुलिताभ्याम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Arrival of one gone far away is known by planets situated in the 5th, 2nd, or 3rd from the Ascendant. With benefics, recovery of lost things. Quick arrival by Jupiter and Venus.",
+          "hindi": "बहुत दूर गए हुए व्यक्ति का आगमन लग्न से पांचवें, दूसरे या तीसरे भाव में स्थित ग्रहों से जाना जाता है। शुभ ग्रहों से नष्ट हुई वस्तु की प्राप्ति होती है। गुरु और शुक्र से शीघ्र आगमन होता है।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "जामित्रे त्वथवा षष्ठे ग्रहः केन्द्रेऽथ वाक्पतिः ।\nप्रोषितागमनं विद्यात् त्रिकोणे ग़्ये सितेऽपि वा",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "A planet in the 7th or 6th, and Jupiter in a quadrant—one should know the arrival of the exile. Or if Mercury or Venus is in a trine.",
+          "hindi": "यदि सातवें या छठे भाव में ग्रह हो, और गुरु केंद्र में हो, तो प्रवासी (बाहर गए हुए व्यक्ति) का आगमन जानना चाहिए। अथवा यदि बुध या शुक्र त्रिकोण में हों।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "अष्टमस्थे निशानाथे कराटकै पायवर्जितैः ।\nप्रवासी सुखमायाति सौम्यैर्लाभसमवितः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With the Moon in the 8th, and quadrants devoid of malefics, the traveler arrives happily, endowed with profit by benefics.",
+          "hindi": "चंद्रमा के आठवें भाव में होने पर, और केंद्रों के पापी ग्रहों से रहित होने पर, शुभ ग्रहों के प्रभाव से प्रवासी लाभ के साथ सुखपूर्वक वापस आ जाता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "पृष्ठोदये पापस्तृतीये रिपुकेन्द्रगे वा ।\nसौम्यैरदृष्टा वधबन्धदाः स्युर्नष्टा मुषिताश्च वाच्याः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With a malefic in a Prishtodaya (hind-rising) sign, in the 3rd, or in the 6th, or a quadrant, unaspected by benefics, they give death and bondage. They should be declared as destroyed or robbed.",
+          "hindi": "यदि पापी ग्रह पृष्ठोदय राशि में, तीसरे भाव में, छठे भाव में, या केंद्र में हो, और उस पर शुभ ग्रहों की दृष्टि न हो, तो वे मृत्यु और बंधन देते हैं। ऐसे प्रवासियों को नष्ट हुआ या लुटा हुआ समझना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "ग्रहो विलग्नाद्यतमे गृहे तु तेनाहता द्वादश राशयः स्युः ।\nतावद्दिनान्यागमनस्य विद्यानिवर्त्तनं वक्रगतैर्ग्रहैर्स्तु",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Multiply the number of signs from the Ascendant to the house where the planet is by 12. Know that many days for the arrival. By retrograde planets, there is turning back.",
+          "hindi": "लग्न से जिस भाव में ग्रह स्थित है, उस भाव की संख्या को 12 से गुणा करें। उतने ही दिनों में आगमन जानना चाहिए। वक्री ग्रहों के होने पर यात्री रास्ते से ही लौट आता है।",
+          "status": "translated"
         }
       ]
     },
     {
-      "number": "६",
+      "number": 6,
       "title": "अथ नष्टप्राप्त्याध्याय",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "स्थिरोदये स्थिरांशे वा वर्गोत्तमगतेऽपि वा ।\nस्थित तत्रैव तद्द्रव्यं स्वकियेनैव चोरितम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With a fixed sign rising, or a fixed Navamsha, or going to Vargottama, that article is situated right there, stolen by one's own people.",
+          "hindi": "स्थिर लग्न उदित होने पर, या स्थिर नवांश होने पर, या वर्गोत्तम होने पर, वह (चोरी गई) वस्तु वहीं पर स्थित है, और अपने ही किसी व्यक्ति द्वारा चुराई गई है।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "आदिमध्यावसानेषु द्रेक्काणेषु विलग्नतः ।\nद्वारदेशे तथा मध्ये गृहन्ते च वदेद्धनम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "In the first, middle, or last decanates (Drekkana) from the Ascendant, predict the wealth at the door, in the middle of the house, or at the end of the house respectively.",
+          "hindi": "लग्न से प्रथम, मध्य या अंतिम द्रेष्काण के अनुसार, धन को क्रमशः घर के द्वार पर, मध्य में, या घर के अंत (भीतर) में बताना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "पूर्णः शशी लग्नगतः शुभो वा शीर्षोदये सौम्यनिरीधितश्च ।\nतष्टस्य लाभ कुरुते तदाशु लाभोदयातो बलवाञ्छ्यभश्च",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The full Moon in the Ascendant, or a benefic, in a Sirshodaya sign aspected by a benefic, causes the gain of the lost article quickly. A strong benefic in the 11th (Labha) also does so.",
+          "hindi": "यदि पूर्ण चंद्रमा लग्न में हो, या शुभ ग्रह शीर्षोदय राशि में शुभ ग्रहों से दृष्ट हो, तो नष्ट हुई (चोरी गई) वस्तु की शीघ्र प्राप्ति कराता है। लाभ (ग्यारहवें) भाव में बलवान शुभ ग्रह भी ऐसा ही करता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "दिग्वाच्या केन्द्रगतैरसम्भवे वा वदेद्विलग्नर्धात् ।\nमध्याच्च्युतैर्विलग्नान्नवांशैकर्योजना वाच्या",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The direction is indicated by planets in quadrants; if absent, tell it from the Ascendant sign. The distance in Yojanas is told by the number of Navamshas past the middle of the Ascendant.",
+          "hindi": "दिशा का ज्ञान केंद्र में स्थित ग्रहों से करना चाहिए; यदि वे न हों, तो लग्न की राशि से बताना चाहिए। लग्न के मध्य से बीते हुए नवांशों की संख्या के बराबर योजन में दूरी बतानी चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "अंशकाज्ज्ञायते द्रव्यं द्रेष्काणैस्तस्कराः स्मृताः ।\nराशिभ्यः कालदिग्देशा वयो जातिश्च लग्नपात्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The article is known from the Navamsha. Thieves are thought of from the Drekkanas. Time, direction, and place from the signs. Age and caste from the lord of the Ascendant.",
+          "hindi": "नवांश से वस्तु (द्रव्य) का ज्ञान होता है। द्रेष्काण से चोरों का विचार किया जाता है। राशियों से समय, दिशा और स्थान का ज्ञान होता है। लग्न के स्वामी से आयु और जाति का ज्ञान होता है।",
+          "status": "translated"
         }
       ]
     },
     {
-      "number": "७",
+      "number": 7,
       "title": "अथ मिश्रकाध्याय",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "विषमस्थितेऽर्कपुत्रे सुतस्य जन्मान्यथाङ्गनायश्च ।\nलभ्या वरस्य नरी समस्थितेऽतोऽन्यथा वामन्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With Saturn situated in an odd sign, birth of a son; otherwise, of a female. A bride is obtainable for the groom if situated in an even sign; from the opposite, reverse.",
+          "hindi": "यदि शनि विषम राशि में स्थित हो, तो पुत्र का जन्म होता है; अन्यथा (सम राशि में) पुत्री का जन्म होता है। सम राशि में स्थित होने पर वर को वधू प्राप्त होती है; इसके विपरीत होने पर विपरीत फल मिलता है।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "गुरुराविसौम्यैर्दृष्टस्त्रिसुतमदायारिगः शशी लग्नात् ।\nभवति च विवाहकर्ता त्रिकोणकेन्द्रेषु वा सौम्याः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Moon situated in the 3rd, 5th, 7th, 11th, or 6th from the Ascendant, aspected by Jupiter, Sun, and Mercury, becomes the maker of marriage. Or benefics in trines and quadrants.",
+          "hindi": "लग्न से तीसरे, पांचवें, सातवें, ग्यारहवें या छठे भाव में स्थित चंद्रमा यदि गुरु, सूर्य और बुध से दृष्ट हो, तो वह विवाह कराने वाला होता है। अथवा त्रिकोण और केंद्र में शुभ ग्रहों के होने पर भी विवाह होता है।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "चन्द्रार्कयोः सप्तमगौ सितार्की सुखेऽष्टमे वापि तथा विलग्नात् ।\nद्वितीयदुश्चिक्यगतौ तथा च वर्षसु वृष्टिं प्रवदेन्नराणम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Venus and Saturn in the 7th from the Moon and Sun, or in the 4th, 8th, or Ascendant, and similarly in the 2nd and 3rd—one should predict rain for men during the rainy season.",
+          "hindi": "चंद्रमा और सूर्य से सातवें भाव में यदि शुक्र और शनि हों, अथवा लग्न से चौथे, आठवें या लग्न में हों, तथा दूसरे और तीसरे भाव में हों—तो मनुष्यों के लिए वर्षा ऋतु में वर्षा की भविष्यवाणी करनी चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "सौम्या जलराशिस्थास्तृतीयधनकेन्द्रगाः सिते पधे ।\nचन्द्रे वाप्युदयगते जलराशिस्थे वदेद्वर्षम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Benefics situated in watery signs, going to the 3rd, 2nd, or quadrants in the bright half. Or with the Moon rising in a watery sign, one should predict rain.",
+          "hindi": "शुक्ल पक्ष में यदि शुभ ग्रह जल तत्त्व की राशियों में होकर तीसरे, दूसरे या केंद्र भावों में स्थित हों। अथवा यदि चंद्रमा जल राशि में होकर लग्न में उदित हो रहा हो, तो वर्षा होने की भविष्यवाणी करनी चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "पुंवर्गे लग्नगते पुंग्रहदृष्टे बलन्विते पुरुषः ।\nयुग्मे स्त्रीग्रहदृष्टे स्त्रीबुधयुक्ते तु गर्भयुता",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With a male division in the Ascendant, aspected by a strong male planet, a male. In an even sign aspected by a female planet, a female. Joined with Mercury, endowed with pregnancy.",
+          "hindi": "यदि लग्न पुरुष वर्ग में हो और बलवान पुरुष ग्रह से दृष्ट हो, तो पुरुष (लड़का) होता है। सम राशि में स्त्री ग्रह से दृष्ट होने पर स्त्री (लड़की) होती है। बुध से युक्त होने पर स्त्री गर्भवती होती है।",
+          "status": "translated"
         },
         {
-          "number": "६",
+          "number": 6,
           "text": "कुमारिकां बालशशी बुधश्च वृद्धां शनीः सूर्यगुरू प्रसूताम् ।\nस्त्रीं कर्कशां भौमसितौ विघत्त एवं वयः स्यात्पुरुषेषु चैवम्",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The waxing Moon and Mercury indicate a young girl. Saturn a very old woman. Sun and Jupiter a woman who has delivered. Mars and Venus make a harsh woman. Thus the age should be known for men as well.",
+          "hindi": "बाल (बढ़ता हुआ) चंद्रमा और बुध एक कुंवारी/युवा कन्या का संकेत देते हैं। शनि एक वृद्ध स्त्री का। सूर्य और गुरु प्रसूता (जिसने बच्चे को जन्म दिया हो) स्त्री का। मंगल और शुक्र स्त्री को कठोर बनाते हैं। पुरुषों के संबंध में भी आयु का यही विचार करना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "७",
+          "number": 7,
           "text": "आत्मसमंलग्नगतैर्भ्राता सहजस्थितैः सुता सुतगैः ।\nमाता वा भागिनी वा चतुर्थगैः शत्रुगै शत्रुः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "By planets in the Ascendant, one's self. By those in the 3rd, a brother. By those in the 5th, a son. A mother or sister by those in the 4th. An enemy by those in the 6th.",
+          "hindi": "लग्न में स्थित ग्रहों से स्वयं (अपने) के बारे में जानना चाहिए। तीसरे भाव में स्थित ग्रहों से भाई, पांचवें भाव में पुत्र, चौथे भाव में स्थित ग्रहों से माता या बहन, और छठे भाव में स्थित ग्रहों से शत्रु के बारे में जानना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "८",
+          "number": 8,
           "text": "भार्या सप्तमसंस्थैर्नवमे धर्माश्रितो गुरुदशमे ।\nस्वांशपतिमित्रशत्रुषु तथैव वाच्यं बलयुतेषु",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "A wife by those in the 7th. In the 9th, one devoted to religion. A teacher/elder in the 10th. Thus it should be told from the lords of their Navamshas, friends, and enemies, endowed with strength.",
+          "hindi": "सातवें भाव में स्थित ग्रहों से पत्नी, नौवें भाव से धर्म में लगे व्यक्ति, और दसवें भाव से गुरु (या बड़े) के बारे में जानना चाहिए। बलवान होने पर ग्रहों के अपने नवांश के स्वामियों, मित्रों और शत्रुओं के अनुसार भी ऐसा ही विचार करना चाहिए।",
+          "status": "translated"
         },
         {
-          "number": "९",
+          "number": 9,
           "text": "चरलग्ने चरभागे मध्याद्भ्रष्टे प्रवासाचिन्ता स्यात् ।\nभ्रष्टः सप्तमभवनात्पुर्ननिवृत्तो यदि व वक्री",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With a movable Ascendant, a movable division, falling from the 10th (Madhya), there is thought of travel/exile. Fallen from the 7th house, returned again if retrograde.",
+          "hindi": "यदि चर लग्न हो, चर नवांश हो, और दसवें भाव (मध्य) से ग्रह हट जाए, तो प्रवास (यात्रा) की चिंता होती है। सातवें भाव से हटने पर, यदि ग्रह वक्री हो, तो पुनः वापस लौट आता है।",
+          "status": "translated"
         },
         {
-          "number": "१०",
+          "number": 10,
           "text": "अस्ते राविसितवक्रैः परजायां स्वां गुरौ बुधे वेश्याम् ।\nचन्द्रे च वयः शशिवत्प्रवदेत्सौरेऽशुभैर्युतदृष्टः",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "With Sun, Venus, and Mars in the 7th, another's wife. With Jupiter, one's own. With Mercury, a courtesan. With the Moon, age like the Moon. With Saturn aspected by or conjoined with malefics.",
+          "hindi": "सातवें भाव में सूर्य, शुक्र और मंगल के होने पर पराई स्त्री (से संबंध)। गुरु के होने पर अपनी पत्नी। बुध के होने पर वेश्या। चंद्रमा के होने पर स्त्री की आयु चंद्रमा की अवस्था जैसी होती है। शनि के पापी ग्रहों से दृष्ट या युत होने पर अशुभ होता है।",
+          "status": "translated"
         },
         {
-          "number": "११",
+          "number": 11,
           "text": "मन्दः पपसमेतो लग्नन्नवमे अशुभैर्युतदृष्टः ।\nरोगार्तः परदेशे चाष्टमगो मृत्युकर एव",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "Saturn conjoined with malefics in the 9th from the Ascendant, conjoined with or aspected by malefics, indicates one afflicted with disease in a foreign land. In the 8th, it is certainly causing death.",
+          "hindi": "लग्न से नौवें भाव में शनि यदि पापी ग्रहों से युत और दृष्ट हो, तो वह विदेश में रोग से पीड़ित होने का संकेत देता है। यदि यह आठवें भाव में हो, तो निश्चित रूप से मृत्यु का कारण बनता है।",
+          "status": "translated"
         },
         {
-          "number": "१२",
+          "number": 12,
           "text": "सौम्ययुतोऽर्कः सौम्यैः सन्दृष्टश्चाष्टमर्धसंस्थश्च\nतस्माद्देशादन्यं गतः स वाच्यः पिता तस्य",
-          "english_meaning": "",
-          "hindi_meaning": ""
+          "english": "The Sun conjoined with benefics and well-aspected by benefics, situated in the 8th house, it should be said he has gone from that country to another. His father.",
+          "hindi": "यदि सूर्य शुभ ग्रहों से युत और दृष्ट हो, और आठवें भाव में स्थित हो, तो यह कहना चाहिए कि वह व्यक्ति उस देश से किसी अन्य देश चला गया है। (अथवा यह विचार उसके पिता के लिए करना चाहिए)।",
+          "status": "translated"
         }
       ]
     }

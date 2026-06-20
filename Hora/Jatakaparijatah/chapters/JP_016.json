@@ -1,336 +1,399 @@
 {
-  "number": "१६",
-  "title": "अथ स्त्रीजातकाध्यायः",
-  "shlokas": [
+  "text_id": "jataka_parijata",
+  "title_sa": "जातकपारिजातः",
+  "title_en": "Jataka Parijata",
+  "category": "hora",
+  "chapters": [
     {
-      "number": "१",
-      "text": "स्त्रीबलारोग्यसन्तानविद्याकीतिविवर्द्धनम् ।\nतिथिमग्रहसंयुक्तं जातकं ब्रमहे वयम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२",
-      "text": "अर्थार्जने सहायः पुरुषाणमापदर्णवे पोतः ।\nयात्राकाले मन्त्री जातकमपहाय नास्यपरः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३",
-      "text": "श्रीमज्जातलपत्रिका परहितं व्योमाधिवासस्फुटैः\nपञ्चाङ्गद्युचराष्टवर्गसहितस्थानादिषड्वीर्यजैः ।\nआयुर्गोचरयोगभावजफलैः सार्द्धं दशाचक्रज्ञै-\nर्दीर्घायुःसुतभर्तृसौख्यविपुलश्रीकीर्तिदा लिख्यते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४",
-      "text": "स्त्रीणां जन्मफलं नृयोगमुदितं यत्तत्पतौ योजयेत्-\nतासां देहशुभाशुभं हिमकराल्लग्नाच्च वीर्याधिकात् ।\nभर्तृणामगुणं गुणं मदगृहाच्छिद्राच्च तेषां मृतिम्\nसौम्यासौम्यबलाबलेन सकलं सञ्चिन्त्य सर्वं वदेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५",
-      "text": "स्त्रीणां जन्मनि लग्नशीतकरयोर्मध्ये बली यस्ततः\nसम्पद्रूपबलानि तन्नवमतः पुत्रायवृद्धिं वदेत् ।\nसौमङ्गल्यप्रनिष्टमष्टमगृहाद् भर्तृश्रियं सप्तमात्\nकेचिद्भर्तृशुभाशुभं शुभगृहादिच्छन्ति होराविदः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६",
-      "text": "वैधव्यं निधनेन लग्नभवनात्तेजो यशः सम्पदः\nपुत्रं पञ्चमभावतः पतिसुखं कामेन केचिद्विदुः ।\nप्रव्रज्यामपि योषितामतिसुखं धर्मोपयातग्रहैः\nशेषं भावजयोगजन्यमखिलं नारीनराणां समम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७",
-      "text": "यमे लग्ननिशाकरौ यदि वरस्त्री रूपशिलान्विता\nसौम्यालोकितसंयुतौ गुणवती साध्वी च सम्पद्युता ।\nओजर्क्षे पुरुषाकृतिश्च चपला पुंश्चेष्टित पापिनी\nपापव्योमचरेण वीक्षितयुतौ जाता दुराचारिणी",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "८",
-      "text": "लग्नेन्दू विपमर्क्षगौ शुभयुतौ सौम्यग्रहालोकितौ\nनारी मिश्रगुणाकृतिः स्थितिगतिप्रक्षावती जायते ।\nयुग्मागारगतौ तु पापसहितौ पापेक्षितौ वा तथा\nतद्राशीशयुतेक्षकग्रहबलादाहुः समस्तं विदः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "९",
-      "text": "ओजे विलग्ने पुरुषैर्बलिष्ठैर्बलान्वितैश्चन्द्रबुधासुरेज्यैः ।\nसामान्यशक्तौ सति सूर्यपुत्रे जाता हि तस्था बहवो धवाः स्युः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१०",
-      "text": "युग्मे विलग्ने कुजसौम्यजीवशुक्रैर्बकिष्ठैः खलु जातकन्या ।\nविख्यातनाम्नी सकलार्थतत्त्वबुद्धिप्रसिद्धा भवतीह साध्वी",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "११",
-      "text": "सौरे मध्यबले बलेन अहितैः शीतांशुशुक्रेन्दुजैः\nशेषैर्वीर्यसमन्वितैः पुरुषीणी यद्योजराश्युद्रमे ।\nजीवारास्फुजिदैन्दवेषु बलिषु प्राग्लग्नराशौ समे\nविख्याताखिलशास्त्रयुक्तिकुशला स्त्री ब्रह्मवादिन्यपि",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१२",
-      "text": "अथ त्रिंशामशफलम् ।\nलग्ने भौमगृहं गते शशिनि वा वीर्याधिके भूसुते\nत्रिंशांशप्रभवाऽबला यदि दुराचारप्रयुक्ता भवेत् ।\nप्रेष्या भानुसुतांशके गुणवती साध्वी च जीवांशके\nसौम्यांशे मलिना सितांशजवधूर्जारव्रताचारिणी",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१३",
-      "text": "लग्ने भार्गवराशिगे कलहकृद् दुष्टा कुजस्यांशके\nसाध्वी पुत्रवती पुरन्दरगुरोरंशे पुनर्भूः शनेः ।\nसौम्यस्यांशसमुद्भवाऽखिलकलासङ्गीतवाद्यप्रिया\nशुक्रांशे बुधवल्लभा च सुभगा लोकप्रिया जायते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१४",
-      "text": "त्रिंशांशेऽवनिजस्य बोधनगृहे लग्ने तु पुत्रान्विता\nमन्दांशे विधवाऽथवा मृतसुता क्लीबाकृतिस्थाऽसनी ।\nजैवे भर्तृपरा बुधस्य तरुणी विख्याततेजस्विनी\nशौक्रे चारुतराम्बराभरणगोवित्तप्रसिद्धा भवेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१५",
-      "text": "लग्ने चन्द्रगृहं गते बलवति क्षोणिसुतस्यांशके\nजाता जारविनोदशीलरसिका पापेक्षिते शीतगौ ।\nविश्वस्ता रवीजस्य निर्जजरगुरोरल्पायुरल्पात्मजा\nबौधे शिल्पकलावती भृगुसुतत्रिंशांशके कामुकी",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१६",
-      "text": "भानुक्षेत्रगते तनौ शशिनि वा भूनन्दनस्यांशके\nनारी पुम्प्रकृतिस्थिता च कुलटा मन्दांशके दुःखिता ।\nजीवांशे नृपवल्लभा गुणवती सौम्यस्य पुंश्चेष्टिता\nदुष्टा चासुरवन्दितस्य कुपतिस्नेहान्विता रोगिणी",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१७",
-      "text": "वागीशस्य गृहोदये वसुमतीपुत्रस्य भागोद्भवा\nविख्याता परिवारिणी रविसुतस्यांशे दरिद्रा भवेत् ।\nजीवांशे धनवस्त्रभूषणवती सौम्यस्य सम्पूजिता\nसाध्वी दानवमन्त्रिणः सुतवती सद्वस्त्रभूषान्विता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१८",
-      "text": "लग्ने मन्दगृहे बलिन्यवनिजत्रिंशांशके शोकिनी\nमन्दांशे सति दुर्भगा निजकुलाचारानुरक्ता गुरोः ।\nसर्वज्ञा कुलटा बुधांशजनिता शुक्रस्य बन्ध्या सती\nलग्नेन्दुस्फुटयोगतस्तु सकलत्रिंशांशजं वा वदेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१९",
-      "text": "आग्नेयैर्विधवाऽस्तराशिसहितैर्मिश्रैः पुनर्भूर्भवेत्\nक्रूरे हीनबलेऽस्तगे स्वपतिना सौम्येक्षिते प्रोज्भिता ।\nअन्योन्यांशकयोः सितावनिजयोरन्यप्रसक्ताङ्गना\nद्यूने वा यदि शीतरश्मिसहिते भर्तुस्तदाऽनुज्ञया",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२०",
-      "text": "स्वैरिणी चा पति स्यक्त्वा सर्वणं कामतः श्रयेत् ।\nअक्षतं च प्रजाद्वारं पुनर्भूः संस्कृता पुनः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२१",
-      "text": "सौरार्क्षे लग्नगे सेन्दुशुक्रे मात्रा सार्द्धं पुंश्चली पापदृष्टे ।\nकौजे स्वांशे सौरिणा व्याधियोनिश्चारुश्रोणी वल्लभा सद्ग्रहांशे",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२२",
-      "text": "बलहीनेऽस्तगे पापे सौम्यग्रहनिरीक्षिते ।\nपत्या विसृजते नारी नीचारिस्थे च वैरिणी",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२३",
-      "text": "उत्सृष्टा मदनस्थिते दिनकरे शत्रुग्रहालोकिते।\nअविश्वस्ताऽवनिजे वधूरमणयोरन्योन्यवैरं तु वा ।\nसौम्यासौम्ययुते कलत्रभवने जाता पुनर्भूः शनौ\nकामस्थे रिपुवीक्षिते त्वविधवा जाता जरां गच्छति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२४",
-      "text": "पापर्क्षे मदनस्थिते शनियुते वैधव्यमेत्यङ्गना\nजारासक्तविलासिनी सितकुजावन्योन्यराश्यंशगौ ।\nचन्द्रे कामगृहं गते तु पतिना सार्द्धं दुराचारिणी\nमन्दारर्क्षविलग्नौ शशिसितौ बन्ध्या सुतस्थे खले",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२५",
-      "text": "कलत्रराश्यांशगते महीजे मन्देक्षिते दुर्भगमेति कन्या ।\nकलत्रांशके सौम्यदृशा समेते कलत्रराशौ पतिवल्लभा स्यात्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२६",
-      "text": "भौमागारविलग्नगौ शशिसितौ नारी पतिद्वेषिणी\nचन्द्रज्ञौ परतत्त्ववादचतुरा भौमेन्दुजौ भोगिनी ।\nचन्द्रज्ञासुरवन्दिता यदि सुखद्रव्यान्विता लग्नगा\nवागीशो यदि लग्नगः सुतनया प्रज्ञाविभूषान्विता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२७",
-      "text": "तुङ्गथा गगनाटनाः शुभकरा रन्ध्रे सपापे वधू-\nर्वैधव्यं समुपैति पापभवने पापग्रहालोकिते ।\nरन्ध्रेशांशपतौ खले च विधवा निसंशयो भामिनी\nसौम्यै रन्ध्रगतैः समेति तरुणी प्रागेव मृत्यु पतेः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२८",
-      "text": "भग्यास्थाः शुभखेचराः स्मरगते पापेऽष्टमस्थेऽथवा\nभर्तृश्रीबहुपुत्रसौख्यविभवैः सार्द्ध चिरं जीवति ।\nक्रूरैर्बन्धुगृहोपगैर्बहुसुतप्राप्ता भवत्यङ्गना\nचापे वा कटकोदये पतिसुतप्राप्ता दरिद्रान्विता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२९",
-      "text": "गोसिंहालिवधूदये सुतगते चन्द्रेऽल्पपुत्रान्विता\nपापिरस्तशुभोदयाष्टमगतैर्दारिद्र्यशोकाकुला ।\nसौम्यासौम्ययुतैश्च मिश्रफलिनी सौम्यैः शुभश्रीयुता\nपुत्रेशेऽरिगते लग्नौ रिपुपतौ शस्त्रेण मृत्युर्भवेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३०",
-      "text": "करग्रहैरस्तगतैः समस्तैर्विलग्नराशेर्विधवा भवेत्सा ।\nमिश्रैः पुनर्भूरिह जातकन्या पत्युज्भिता हीनबलैरसद्भिः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३१",
-      "text": "स्त्रीजन्मलग्नान्मदगे शशाङ्के शुक्रारयुक्ते यदि जातकन्या ।\nसा पत्यनुज्ञापरगामिनी स्यात्सौरारभांशोपगते तथैव",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३२",
-      "text": "सौरारभांशोपगतग्रहेषु शुक्रेन्दुयुक्तेश्वशुभेक्षितेषु ।\nजाता कुलाचारगुणैर्विहीना मात्रा च साकं व्यभिचारिणी स्यात्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३३",
-      "text": "क्षितितनयनवांशे लग्नतः सप्तमस्थे दिनकरबुधदृष्टे व्याधियोनिः प्रजाता ।\nशुभकरनवभागे सप्तमस्थानसंस्थे सुभगसुतवती सा चान्यथा दुर्भगा स्यात्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३४",
-      "text": "कामासक्तमनस्विनी च विधवा पापद्वये सप्तमे\nपश्चार्खामिवधं करोति कुलटा पापत्रये चास्तगे ।\nराजामात्यवराङ्गना यदि शुभे कामं गते कन्यका\nमारस्थे तु शुभत्रये गुणवती राज्ञी भवेद् भूपतेः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३५",
-      "text": "अन्योन्यांशगतौ सितार्कतनयावन्योन्यदृष्टौ तु वा\nकुम्भे चाष्टमभागजातवनिता कामाग्नितप्ता भवेत् ।\nवैधव्यं समुपैति चन्द्रभवनात् क्रूरे मदस्थानगे\nचन्द्रादस्तगृहोपगः शुभकरो राज्यापदं यच्छति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३६",
-      "text": "स्त्रीजन्मलग्ने शशिशुक्रयुक्ते कोपान्विता सा सुखभागिनी स्यात् ।\nसर्वत्र चन्द्रे सति तत्र जाता सुखान्विता वीतरतिप्रिया स्यात्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३७",
-      "text": "शुक्रेन्दुभे रूपगुणाभिरामा कलावती जीवबुधोदये तु ।\nलग्नस्थिता जीवबुधासुरेज्या जाताङ्गना सर्वगुणप्रसिद्धा",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३८",
-      "text": "वाचस्पतौ नवमपञ्चमकेन्द्रसंस्थे तुङ्गादिके भवति शीलसमन्विता च ।\nसाध्वी सुपुत्रजननी सुखिनी गुणाढ्यां नूनं कुलद्वययशत्करिणी भवेत्सा",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३९",
-      "text": "यदि शुभकरदृष्टा शिल्पिनी शुद्धचित्ता सततमिह सलज्जा चारुमूतिः सुपुत्रा ।\nबहुधनशुभयुक्ता वल्लभे व्रजति शुभशतानां भाजनत्वं च होरा",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४०",
-      "text": "चन्द्रे कर्कटकोदये च बलिभिः शुक्रज्ञजीवेन्दुभि-\nर्नानाशास्त्रकलारसज्ञचतुरा विख्याततेजखिनी ।\nकामस्थैरथवा विलग्नभवनाद्धर्मस्थितैः खेचरैः\nप्रव्रज्याभुपयाति जन्मसमये पाणिग्रहे चिन्तयेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४१",
-      "text": "पापेऽस्ते नवमगतग्रहस्य तुल्यां प्रव्रज्यां युवतिरुपैत्यसंशयेन ।\nउद्वाहे वरणविधौ प्रदानकाले चिन्तायामपि सकलं विधेयमेतन्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४२",
-      "text": "जन्मन्युद्धाहकाले च चिन्तायां वरणे तथा ।\nस्त्रीणां चिन्ता बुधेनोक्ता घटते तत्पतिष्वपि",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४३",
-      "text": "क्रूरेऽष्टमे विधवता निधनेश्वरांशे यस्य स्थिते वयसि तस्य समे प्रदिष्टा ।\nसत्स्वर्थगेषु मरणं स्वयमेव तस्याः कन्यालिगोहरिषु चाल्पसुतत्वमिन्दौ",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४४",
-      "text": "रन्ध्रे मिश्रबले शुभाशुभखगैरालोकिते वा युते\nदम्पत्यो समकालमृत्युमखिलज्योतिर्विदः संविदुः ।\nएकस्थौ मदलग्नपौ यदि वा लग्नस्थिते कामपे\nकामस्थे तनुपे शुभग्रहयुते मृत्युस्तयेस्तुल्यतः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४५",
-      "text": "सत्स्वर्थगेषु स्वयमेव सा स्त्री विपद्यते तत्परिपाककाले ।\nरन्ध्रस्थतन्नाथतदंशपानां दशापहारे मृतिमाहुरार्याः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४६",
-      "text": "सहजभवननाथे पुङ्ग्रहे पुङ्ग्रहर्क्षे पुरुषस्वचरयुक्ते पुङ्ग्रहालोकिते वा ।\nनय्नभवनकेन्द्रे कोणगे वा बलिष्टे बहुधनसुखवन्तं सोद्रं याति जाता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४७",
-      "text": "सहोदरस्थानपलाभनाथौ विलग्नतः पञ्चमराशियातौ ।\nनृपालतेजोगुणरूपवन्तं सहोदरं जातवधूः समेति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४८",
-      "text": "अथ् पतिलक्षणम् ।\nयस्या मन्मथमन्दिरे गतबले शून्ये खलालोकिते\nसौम्यव्योमनिवासदृष्टिरहिते भर्ता नरः को भवेत् ।\nक्लीबः स्यान् पतिरस्तगे शशिसुते सार्कात्मजे दुर्भगा\nबन्ध्या वा तरुणी चरे मदगृहे नित्यं प्रवासान्वितः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४९",
-      "text": "स्वांशे भास्वति कामगे मृदुरतिक्रीडाविनोदी पति-\nश्चन्द्रे सौख्यमुपैति भूमितनये जारे वधूतत्परः ।\nविद्वान् चन्द्रसुते जितेन्द्रियवरो जीवे मदस्थानगे\nशुक्रे कान्तवपुः सुखी च रविजे वृद्धोऽतिमूर्खो भवेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५०",
-      "text": "स्थान्मार्दवाङ्गो गुणवान्प्रगल्भो जामित्रराश्य्ंशकजा तु थाऽस्याः ।\nसौरेऽस्तगे स्वांशगृहोपयाते वृद्धोऽतिमूर्खः पतिरेव तस्याः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५१",
-      "text": "दुःस्थौ धर्मगृहेशदेशदेसचिवौ भर्ता गतायुर्भवेद्\nदीर्घायुर्धनवांस्त्रिकोणगृहगौ केन्द्रस्थितौ वा यदि ।\nविद्वान् बोधनवाहनेशसहितौ सारार्कजौ कर्षकः\nस्वर्भानुध्वजसंयुतौ यदि खलः सारीश्ररश्चोरराट्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५२",
-      "text": "गौराङ्गः पतिरस्तगे दिनकरे कामी सरोषेक्षण-\nश्चन्द्रे रूपगुणान्वितः कृशतनुर्भोगी रुगार्तो भवेत् ।\nनम्रः क्रूररसोऽलसः पटुवचाः संरक्तकान्तिः कुजे\nविद्यावित्तगुणप्रपञ्चरैकः सौम्ये मदस्थानगे",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५३",
-      "text": "दीर्घायुर्नृपतुल्यवित्तविभवः कामी च बाल्ये गुरौ\nकान्तो नित्यविनोदकेलिचतुरः काव्ये कविः श्मापतिः ।\nमन्दे वृद्धकलेवरोऽस्थिरतनुः पापी पतिः कामगे\nराहौ वा शिखिनि स्थिते मलिनधीर्नीचोऽथवा तत्समः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५४",
-      "text": "दिग्देशस्थितिधर्मकर्मजगुणाः पञ्चातके योषितां\nये नारीजनजातके निजपतौ संयोजितास्तत्वतः ।\nद्युणांशोपगतग्रहेषु बलवत्खेटांशतुल्याः सुताः\nकेन्द्रे कामपतिः करोति विपुलं कल्याणकालोत्सवम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१६",
-      "text": "इति श्रीनवग्रहकृपया वैद्यनाथविरचिते जातकपारिजाते षोडशोऽध्यायः",
-      "english_meaning": "",
-      "hindi_meaning": ""
+      "number": 16,
+      "title": "अथ स्त्रीजातकाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "स्त्रीबलारोग्यसन्तानविद्याकीतिविवर्द्धनम् ।\nतिथिमग्रहसंयुक्तं जातकं ब्रमहे वयम्",
+          "english": "We shall now describe the horoscopy of females, which increases their strength, health, offspring, learning, and fame, and which is conjoined with the movements of Tithis and planets.",
+          "hindi": "हम अब स्त्रियों के जातक (जन्मफल) का वर्णन करेंगे, जो उनके बल, आरोग्य, संतान, विद्या और कीर्ति को बढ़ाने वाला है, और जो तिथि तथा ग्रहों की स्थिति से युक्त है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "अर्थार्जने सहायः पुरुषाणमापदर्णवे पोतः ।\nयात्राकाले मन्त्री जातकमपहाय नास्यपरः",
+          "english": "Horoscopy is a helper in earning wealth and a boat in the ocean of calamities for men. At the time of a journey, it is like a minister; there is nothing better than horoscopy.",
+          "hindi": "धनार्जन में जातक (ज्योतिष) मनुष्यों का सहायक है और आपत्तियों के समुद्र में नौका के समान है। यात्रा के समय यह मंत्री के समान परामर्शदाता है; जातक शास्त्र से बढ़कर और कुछ नहीं है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "श्रीमज्जातलपत्रिका परहितं व्योमाधिवासस्फुटैः\nपञ्चाङ्गद्युचराष्टवर्गसहितस्थानादिषड्वीर्यजैः ।\nआयुर्गोचरयोगभावजफलैः सार्द्धं दशाचक्रज्ञै-\nर्दीर्घायुःसुतभर्तृसौख्यविपुलश्रीकीर्तिदा लिख्यते",
+          "english": "The auspicious horoscope is being written here for the sake of others' benefit, containing the clear positions of the planets, Panchanga, Ashtakavarga, Shadbala, etc., which bestows long life, happiness from sons and husband, and abundant wealth and fame.",
+          "hindi": "दूसरों के हित के लिए यहाँ श्रेष्ठ जन्म-पत्रिका लिखी जा रही है, जिसमें ग्रहों की स्पष्ट स्थिति, पञ्चाङ्ग, अष्टकवर्ग, षड्बल आदि का समावेश है, जो दीर्घायु, पुत्र एवं पति का सुख और प्रचुर लक्ष्मी तथा कीर्ति देने वाली है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "स्त्रीणां जन्मफलं नृयोगमुदितं यत्तत्पतौ योजयेत्-\nतासां देहशुभाशुभं हिमकराल्लग्नाच्च वीर्याधिकात् ।\nभर्तृणामगुणं गुणं मदगृहाच्छिद्राच्च तेषां मृतिम्\nसौम्यासौम्यबलाबलेन सकलं सञ्चिन्त्य सर्वं वदेत्",
+          "english": "Whatever effects are mentioned for the birth of men, all that should be applied to the husband in the case of women. The physical well-being or otherwise of women should be judged from the Moon and the Lagna, whichever is stronger. Characteristics of the husband should be judged from the 7th house, and his death from the 8th. All this should be predicted after considering the strength and weakness of benefics and malefics.",
+          "hindi": "पुरुषों के जन्म के जो फल कहे गए हैं, स्त्रियों के विषय में वे सब उनके पति पर घटाने चाहिए। स्त्रियों के शरीर के शुभ-अशुभ का विचार लग्न और चन्द्रमा में से जो भी बलवान हो, उससे करना चाहिए। पति के गुणों का विचार सप्तम भाव से और पति की मृत्यु का विचार अष्टम भाव से करना चाहिए। शुभ और पाप ग्रहों के बलाबल का भली-भांति विचार करके ही सब कुछ कहना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "स्त्रीणां जन्मनि लग्नशीतकरयोर्मध्ये बली यस्ततः\nसम्पद्रूपबलानि तन्नवमतः पुत्रायवृद्धिं वदेत् ।\nसौमङ्गल्यप्रनिष्टमष्टमगृहाद् भर्तृश्रियं सप्तमात्\nकेचिद्भर्तृशुभाशुभं शुभगृहादिच्छन्ति होराविदः",
+          "english": "In a woman's birth, wealth, beauty, and strength should be predicted from the stronger between the Lagna and the Moon. From the 9th house, children and prosperity; from the 8th house, the welfare of the husband (Saumangalya); and from the 7th house, the prosperity of the husband. Some experts in horoscopy also look for the good and bad of the husband from the 7th house.",
+          "hindi": "स्त्री के जन्म में लग्न और चन्द्रमा में से जो बलवान हो, उससे संपत्ति, रूप और बल का विचार करना चाहिए। नवम भाव से पुत्र और समृद्धि; अष्टम भाव से पति के सौभाग्य (सौमंगल्य) और सप्तम भाव से पति की लक्ष्मी (संपत्ति) का विचार करना चाहिए। कुछ होरा-विद् सप्तम भाव से ही पति के शुभ-अशुभ का विचार करना उचित मानते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "वैधव्यं निधनेन लग्नभवनात्तेजो यशः सम्पदः\nपुत्रं पञ्चमभावतः पतिसुखं कामेन केचिद्विदुः ।\nप्रव्रज्यामपि योषितामतिसुखं धर्मोपयातग्रहैः\nशेषं भावजयोगजन्यमखिलं नारीनराणां समम्",
+          "english": "Widowhood is known from the 8th house from the Lagna; brilliance, fame, and wealth from the Lagna itself. Children are known from the 5th house and happiness from the husband from the 7th. Some also look for renunciation (Pravrajya) and great happiness from the planets in the 9th house. All other results arising from houses and yogas are common to both men and women.",
+          "hindi": "लग्न से अष्टम भाव से वैधव्य (विधवा होना) का, और लग्न से ही तेज, यश तथा संपत्ति का विचार किया जाता है। पंचम भाव से पुत्र का और सप्तम भाव से पति-सुख का विचार कुछ विद्वान करते हैं। नवम भाव में स्थित ग्रहों से स्त्रियों के संन्यास और अत्यधिक सुख का भी विचार किया जाता है। शेष सभी भावों और योगों से उत्पन्न होने वाले फल स्त्री और पुरुष दोनों के लिए समान होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "यमे लग्ननिशाकरौ यदि वरस्त्री रूपशिलान्विता\nसौम्यालोकितसंयुतौ गुणवती साध्वी च सम्पद्युता ।\nओजर्क्षे पुरुषाकृतिश्च चपला पुंश्चेष्टित पापिनी\nपापव्योमचरेण वीक्षितयुतौ जाती दुराचारिणी",
+          "english": "If the Lagna and the Moon are in even signs, the woman born will be beautiful, of good character, and possessed of virtues. If they are aspected by or conjoined with benefics, she will be virtuous, chaste, and wealthy. If they are in odd signs, she will have a masculine form, be fickle, act like a man, and be sinful. If they are also aspected by or conjoined with malefics, she will be of wicked conduct.",
+          "hindi": "यदि लग्न और चन्द्रमा सम राशि में हों, तो कन्या सुंदर, शीलवान और गुणों से युक्त होती है। यदि वे शुभ ग्रहों से दृष्ट या युक्त हों, तो वह गुणवती, पतिव्रता और धनवती होती है। यदि वे विषम राशि में हों, तो वह पुरुष जैसी आकृति वाली, चंचल, पुरुषों जैसा आचरण करने वाली और पापिनी होती है। यदि उन पर पाप ग्रहों की दृष्टि या युति हो, तो वह दुराचारिणी होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "लग्नेन्दू विपमर्क्षगौ शुभयुतौ सौम्यग्रहालोकितौ\nनारी मिश्रगुणाकृतिः स्थितिगतिप्रक्षावती जायते ।\nयुग्मागारगतौ तु पापसहितौ पापेक्षितौ वा तथा\nतद्राशीशयुतेक्षकग्रहबलादाहुः समस्तं विदः",
+          "english": "If the Lagna and the Moon are in odd signs but conjoined with or aspected by benefics, the woman will have a mixture of qualities and appearance, being prudent in her actions and behavior. If they are in even signs but conjoined with or aspected by malefics, the wise say the results should be declared based on the strength of the lord of that sign and the planets conjoining or aspecting it.",
+          "hindi": "यदि लग्न और चन्द्रमा विषम राशि में हों किन्तु शुभ ग्रहों से युक्त या दृष्ट हों, तो स्त्री मिश्रित गुणों और आकृति वाली, तथा अपनी स्थिति और गति में बुद्धिमत्ता दिखाने वाली होती है। यदि वे सम राशि में हों किन्तु पाप ग्रहों से युक्त या दृष्ट हों, तो विद्वानों का कहना है कि उस राशि के स्वामी और उस पर दृष्टि या युति रखने वाले ग्रहों के बल के अनुसार फल कहना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "ओजे विलग्ने पुरुषैर्बलिष्ठैर्बलान्वितैश्चन्द्रबुधासुरेज्यैः ।\nसामान्यशक्तौ सति सूर्यपुत्रे जाता हि तस्था बहवो धवाः स्युः",
+          "english": "If the Lagna is an odd sign, and the Moon, Mercury, and Jupiter are strong and endowed with strength, and Saturn is of average strength, the woman born will have many husbands.",
+          "hindi": "यदि लग्न विषम राशि हो, और चन्द्रमा, बुध तथा गुरु बलवान और वीर्यवान हों, तथा शनि सामान्य बल वाला हो, तो ऐसी स्त्री के बहुत से पति होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "युग्मे विलग्ने कुजसौम्यजीवशुक्रैर्बकिष्ठैः खलु जातकन्या ।\nविख्यातनाम्नी सकलार्थतत्त्वबुद्धिप्रसिद्धा भवतीह साध्वी",
+          "english": "If the Lagna is an even sign, and Mars, Mercury, Jupiter, and Venus are very strong, the girl born will be famous by name, intelligent in understanding the truth of all matters, and a chaste woman.",
+          "hindi": "यदि सम राशि का लग्न हो, और मंगल, बुध, गुरु तथा शुक्र अत्यंत बलवान हों, तो उत्पन्न होने वाली कन्या विख्यात नाम वाली, समस्त पदार्थों के तत्त्व को समझने वाली बुद्धि से युक्त और इस संसार में पतिव्रता होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "सौरे मध्यबले बलेन अहितैः शीतांशुशुक्रेन्दुजैः\nशेषैर्वीर्यसमन्वितैः पुरुषीणी यद्योजराश्युद्रमे ।\nजीवारास्फुजिदैन्दवेषु बलिषु प्राग्लग्नराशौ समे\nविख्याताखिलशास्त्रयुक्तिकुशला स्त्री ब्रह्मवादिन्यपि",
+          "english": "If Saturn is of average strength, the Moon, Venus, and Mercury are without strength, and the remaining planets are strong, the woman born in an odd sign will be masculine. If Jupiter, Mars, Venus, and the Moon are strong and the Lagna is in an even sign, she will be famous, skilled in all sciences and logic, and a knower of Brahman (spiritual knowledge).",
+          "hindi": "यदि शनि मध्यम बली हो और चन्द्रमा, शुक्र तथा बुध बलहीन हों, और शेष ग्रह बलवान हों, तो विषम राशि में जन्म लेने वाली स्त्री पुरुष के समान होती है। यदि गुरु, मंगल, शुक्र और चन्द्रमा बलवान हों और लग्न सम राशि में हो, तो वह विख्यात, समस्त शास्त्र और युक्तियों में कुशल और ब्रह्मवादिनी (ब्रह्मज्ञान को जानने वाली) होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "अथ त्रिंशामशफलम् ।\nलग्ने भौमगृहं गते शशिनि वा वीर्याधिके भूसुते\nत्रिंशांशप्रभवाऽबला यदि दुराचारप्रयुक्ता भवेत् ।\nप्रेष्या भानुसुतांशके गुणवती साध्वी च जीवांशके\nसौम्यांशे मलिना सितांशजवधूर्जारव्रताचारिणी",
+          "english": "If the Lagna or the Moon is in a sign of Mars, and is in the Trimshamsha of Mars, the woman will be of bad conduct. If in the Trimshamsha of Saturn, she will be a servant; if in that of Jupiter, she will be virtuous and chaste; if in that of Mercury, she will be dirty; and if in that of Venus, she will be unchaste.",
+          "hindi": "यदि लग्न या चन्द्रमा मंगल की राशि (मेष, वृश्चिक) में हो, और मंगल के ही त्रिंशांश में हो, तो स्त्री दुराचारिणी होती है। यदि शनि के त्रिंशांश में हो, तो वह दासी (प्रेष्या) होती है; यदि गुरु के त्रिंशांश में हो, तो वह गुणवती और साध्वी होती है; यदि बुध के त्रिंशांश में हो, तो वह मलिन (नीच आचरण वाली) होती है; और यदि शुक्र के त्रिंशांश में हो, तो वह कुलटा होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "लग्ने भार्गवराशिगे कलहकृद् दुष्टा कुजस्यांशके\nसाध्वी पुत्रवती पुरन्दरगुरोरंशे पुनर्भूः शनेः ।\nसौम्यस्यांशसमुद्भवाऽखिलकलासङ्गीतवाद्यप्रिया\nशुक्रांशे बुधवल्लभा च सुभगा लोकप्रिया जायते",
+          "english": "If the Lagna is in a sign of Venus, and in the Trimshamsha of Mars, she will be quarrelsome and wicked. If in the Trimshamsha of Jupiter, she will be chaste and have sons. If in that of Saturn, she will be a remarried woman. If in the Trimshamsha of Mercury, she will be skilled in all arts, music, and instruments. If in that of Venus, she will be beloved of her husband, fortunate, and popular.",
+          "hindi": "यदि लग्न शुक्र की राशि (वृष, तुला) में हो, और मंगल के त्रिंशांश में हो, तो स्त्री झगड़ालू और दुष्ट होती है। यदि गुरु के त्रिंशांश में हो, तो वह साध्वी और पुत्रवती होती है। यदि शनि के त्रिंशांश में हो, तो वह पुनर्भू (दुबारा विवाह करने वाली) होती है। यदि बुध के त्रिंशांश में हो, तो वह समस्त कलाओं, संगीत और वाद्ययंत्रों में निपुण होती है। यदि शुक्र के त्रिंशांश में हो, तो वह पति की प्रिया, सौभाग्यवती और लोकप्रिया होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "जाता बुधभवने भौमत्रिंशांशे बहुपुत्रिका ।\nमन्दांशे विधवा मृतवत्सा पुंवच्च विनिर्दिशेत् ।\nजीवांशे पतिभक्ता च बौधे यौवनसंयुता ।\nसुप्रसिद्धा सितांशे तु वस्त्रालङ्कारभोगिनी",
+          "english": "If the Lagna is in Mercury's sign and in the Trimshamsha of Mars, she will have many sons. In the Trimshamsha of Saturn, she will be a widow, or have dead children, or have a masculine form. In the Trimshamsha of Jupiter, she will be devoted to her husband. In that of Mercury, she will be youthful. In that of Venus, she will be famous for her beautiful clothes, ornaments, and wealth.",
+          "hindi": "यदि लग्न बुध की राशि (मिथुन, कन्या) में हो और मंगल के त्रिंशांश में हो, तो वह अनेक पुत्रों वाली होती है। शनि के त्रिंशांश में वह विधवा, या मृत-संतान वाली, या पुरुष के समान आकृति वाली होती है। गुरु के त्रिंशांश में वह पतिपरायणा होती है। बुध के त्रिंशांश में वह यौवन से युक्त होती है। शुक्र के त्रिंशांश में वह सुंदर वस्त्रों, आभूषणों और धन के लिए प्रसिद्ध होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "लग्ने चन्द्रगृहं गते बलवति क्षोणिसुतस्यांशके\nजाता जारविनोदशीलरसिका पापेक्षिते शीतगौ ।\nविश्वस्ता रवीजस्य निर्जजरगुरोरल्पायुरल्पात्मजा\nबौधे शिल्पकलावती भृगुसुतत्रिंशांशके कामुकी",
+          "english": "If the Lagna is in Cancer (the Moon's sign), and the Moon is strong, and in the Trimshamsha of Mars, she will be a seeker of pleasure with paramours, especially if the Moon is aspected by malefics. If in the Trimshamsha of Saturn, she will be a widow. If in that of Jupiter, she will have few children and short life. If in that of Mercury, she will be skilled in manual arts. If in that of Venus, she will be very lustful.",
+          "hindi": "यदि लग्न कर्क राशि (चन्द्रमा की राशि) में हो और चन्द्रमा बलवान हो, और मंगल के त्रिंशांश में हो, तो वह परपुरुषों के साथ मनोरंजन करने वाली होती है, विशेषकर यदि चन्द्रमा पाप ग्रहों से दृष्ट हो। यदि शनि के त्रिंशांश में हो, तो वह विधवा होती है। यदि गुरु के त्रिंशांश में हो, तो वह कम संतान वाली और अल्पायु होती है। यदि बुध के त्रिंशांश में हो, तो वह शिल्पकला में कुशल होती है। यदि शुक्र के त्रिंशांश में हो, तो वह कामुकी (अत्यंत कामुक) होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "भानुक्षेत्रगते तनौ शशिनि वा भूनन्दनस्यांशके\nनारी पुम्प्रकृतिस्थिता च कुलटा मन्दांशके दुःखिता ।\nजीवांशे नृपवल्लभा गुणवती सौम्यस्य पुंश्चेष्टिता\nदुष्टा चासुरवन्दितस्य कुपतिस्नेहान्विता रोगिणी",
+          "english": "If the Lagna or the Moon is in Leo (the Sun's sign), and in the Trimshamsha of Mars, the woman will have a masculine nature and be unchaste. If in the Trimshamsha of Saturn, she will be sorrowful. If in that of Jupiter, she will be a queen and virtuous. If in that of Mercury, she will act like a man. If in that of Venus, she will be wicked, or have a bad husband, or be diseased despite being affectionate.",
+          "hindi": "यदि लग्न या चन्द्रमा सिंह राशि (सूर्य की राशि) में हो, और मंगल के त्रिंशांश में हो, तो स्त्री पुरुष के समान स्वभाव वाली और कुलटा होती है। यदि शनि के त्रिंशांश में हो, तो वह दुखी होती है। यदि गुरु के त्रिंशांश में हो, तो वह रानी के समान और गुणवती होती है। यदि बुध के त्रिंशांश में हो, तो वह पुरुषों जैसी चेष्टाएं करने वाली होती है। यदि शुक्र के त्रिंशांश में हो, तो वह दुष्ट, या बुरे पति वाली, या स्नेही होते हुए भी रोगी होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "जीवक्षेत्रे तु विलग्ने चन्द्रमसि क्षोणिसुतस्यांशके ।\nसुप्रसिद्धा सपरिवारा मन्दांशे तु निर्धना ।\nजीवांशे धनवस्त्रालङ्कारयुता बुधांशे तु मानिता ।\nशुक्रेण सती सपुत्रा सुवस्त्रालङ्कारा भवेत्",
+          "english": "If the Lagna is in a sign of Jupiter, and in the Trimshamsha of Mars, she will be famous and have a large family. If in the Trimshamsha of Saturn, she will be poor. If in that of Jupiter, she will have wealth, clothes, and ornaments. If in that of Mercury, she will be respected. If in that of Venus, she will be chaste, have sons, and beautiful clothes and ornaments.",
+          "hindi": "यदि लग्न गुरु की राशि (धनु, मीन) में हो, और मंगल के त्रिंशांश में हो, तो वह विख्यात और परिवार वाली होती है। यदि शनि के त्रिंशांश में हो, तो वह दरिद्र होती है। यदि गुरु के त्रिंशांश में हो, तो वह धन, वस्त्र और आभूषणों से युक्त होती है। यदि बुध के त्रिंशांश में हो, तो वह सम्मानित होती है। यदि शुक्र के त्रिंशांश में हो, तो वह सती, पुत्रवती और उत्तम वस्त्र-आभूषणों वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "लग्ने मन्दगृहे बलिष्ठे चन्द्रमसि भूनन्दनस्यांशके ।\nदुःखिता मन्दत्रिंशांशे दुर्भगा जीवभागतः ।\nकुलक्रमचारिणी बौधे सर्वज्ञा पुंश्चली भवेत् ।\nशुक्रेण वन्ध्या च सती लग्नचन्द्रवशात् फलम्",
+          "english": "If the Lagna is in a sign of Saturn and is strong, and in the Trimshamsha of Mars, she will be sorrowful. If in the Trimshamsha of Saturn, she will be unfortunate. If in that of Jupiter, she will be devoted to the traditions of her family. If in that of Mercury, she will be all-knowing but unchaste. If in that of Venus, she will be barren but chaste. All results of the Trimshamshas should be predicted from the combined positions of the Lagna and the Moon.",
+          "hindi": "यदि लग्न शनि की राशि (मकर, कुम्भ) में हो और बलवान हो, और मंगल के त्रिंशांश में हो, तो वह दुखी होती है। यदि शनि के त्रिंशांश में हो, तो वह दुर्भाग्यशाली होती है। यदि गुरु के त्रिंशांश में हो, तो वह अपने कुल के आचरण में अनुरक्त रहने वाली होती है। यदि बुध के त्रिंशांश में हो, तो वह सर्वज्ञ (सब कुछ जानने वाली) किन्तु कुलटा होती है। यदि शुक्र के त्रिंशांश में हो, तो वह बाँझ (वन्ध्या) किन्तु सती होती है। लग्न और चन्द्रमा के स्पष्ट योग से ही समस्त त्रिंशांशों के फल कहने चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "मदने दीप्तराश्यादौ जाता विधवा भवेत् ।\nमिश्रराशौ तु पुनर्भूः पापे सौम्येक्षितेऽपि वा ।\nपतिस्त्यजति निर्वीर्ये भृगुभौमौ परस्परांशगौ ।\nपररक्ता मदने चन्द्रे पत्यनुज्ञाप्यसती भवेत्",
+          "english": "If the 7th house contains fiery signs (Aries, Leo, Sagittarius), she will become a widow. If mixed signs, she will be a remarried woman. If a weak malefic is in the 7th house and aspected by a benefic, she will be abandoned by her husband. If Venus and Mars are in each other's Navamshas, she will be attached to others. If the Moon is in the 7th house, she might be unchaste with her husband's permission.",
+          "hindi": "यदि सप्तम भाव में अग्नि तत्व वाली राशियाँ (मेष, सिंह, धनु) हों, तो वह विधवा होती है। यदि मिश्रित राशियाँ हों, तो वह पुनर्भू (पुनर्विवाह करने वाली) होती है। यदि सप्तम भाव में कोई निर्बल पाप ग्रह हो और उसे कोई शुभ ग्रह देखता हो, तो वह पति द्वारा त्याग दी जाती है। यदि शुक्र और मंगल एक-दूसरे के नवांश में हों, तो वह परपुरुष में आसक्त होती है। यदि सप्तम भाव में चन्द्रमा हो, तो वह पति की अनुमति से परपुरुष के प्रति आसक्त हो सकती है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "स्वैरिणी या पतिं हित्वा परान् भुङ्क्ते स्वतन्त्रिणी ।\nअक्षतयोनिया नारी पुनर्भूः परिकीर्तिता",
+          "english": "An independent woman who leaves her husband and seeks others for pleasure is called a Swairini. A woman who is married again when her reproductive organ is intact is called a Punarbhu.",
+          "hindi": "जो स्वतंत्र स्त्री अपने पति को छोड़कर कामेच्छा के कारण अन्यों का आश्रय लेती है, वह स्वैरिणी कहलाती है। जिस स्त्री की योनि अक्षत (अछूता) हो और जिसका पुनः संस्कार (विवाह) किया जाए, वह पुनर्भू कहलाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "सौरार्क्षे लग्नगे सेन्दुशुक्रे मात्रा सार्द्धं पुंश्चली पापदृष्टे ।\nकौजे स्वांशे सौरिणा व्याधियोनिश्चारुश्रोणी वल्लभा सद्ग्रहांशे",
+          "english": "If the Lagna is in a sign of Saturn and contains the Moon and Venus, and is aspected by a malefic, the woman will be unchaste along with her mother. If the Navamsha is of Mars and is aspected by Saturn, she will have a diseased or deformed genital organ. If she is born in a Navamsha of a benefic planet, she will have beautiful hips and be beloved of her husband.",
+          "hindi": "यदि शनि की राशि का लग्न हो और उसमें चन्द्रमा तथा शुक्र हों, और वह पाप ग्रह से दृष्ट हो, तो वह स्त्री अपनी माता के साथ व्यभिचारिणी होती है। यदि मंगल का नवांश हो और शनि से दृष्ट हो, तो उसके जननांग में रोग होता है। यदि वह शुभ ग्रह के नवांश में उत्पन्न हो, तो वह सुंदर कटि (कमर) वाली और पति की प्रिया होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "बलहीनेऽस्तगे पापे सौम्यग्रहनिरीक्षिते ।\nपत्या विसृजते नारी नीचारिस्थे च वैरिणी",
+          "english": "If a weak malefic is in the 7th house and aspected by a benefic, she is abandoned by her husband. If a malefic is in a low (debilitated) or enemy sign in the 7th house, she becomes an enemy to her husband.",
+          "hindi": "यदि सप्तम भाव में कोई निर्बल पाप ग्रह हो और शुभ ग्रह से दृष्ट हो, तो वह पति द्वारा त्याग दी जाती है। यदि पाप ग्रह नीच या शत्रु राशि में होकर सप्तम भाव में हो, तो वह पति की वैरिणी (शत्रु) होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "उत्सृष्टा मदनस्थिते दिनकरे शत्रुग्रहालोकिते।\nअविश्वस्ताऽवनिजे वधूरमणयोरन्योन्यवैरं तु वा ।\nसौम्यासौम्ययुते कलत्रभवने जाता पुनर्भूः शनौ\nकामस्थे रिपुवीक्षिते त्वविधवा जाता जरां गच्छति",
+          "english": "If the Sun is in the 7th house and aspected by an enemy planet, she will be abandoned. If Mars is in the 7th house, there will be mutual enmity between the couple. If both benefics and malefics are in the 7th house, she becomes a remarried woman. If Saturn is in the 7th house and aspected by an enemy, she lives until old age without becoming a widow.",
+          "hindi": "यदि सप्तम भाव में सूर्य हो और शत्रु ग्रह से दृष्ट हो, तो वह त्याग दी जाती है। यदि मंगल सप्तम भाव में हो, तो पति-पत्नी में परस्पर शत्रुता होती है। यदि सप्तम भाव में शुभ और पाप दोनों ग्रह हों, तो वह पुनर्भू (पुनर्विवाह वाली) होती है। यदि शनि सप्तम भाव में हो और शत्रु से दृष्ट हो, तो वह विधवा हुए बिना वृद्धावस्था तक जीवित रहती है।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "पापर्क्षे मदनस्थिते शनियुते वैधव्यमेत्यङ्गना\nजारासक्तविलासिनी सितकुजावन्योन्यराश्यंशगौ ।\nचन्द्रे कामगृहं गते तु पतिना सार्द्धं दुराचारिणी\nमन्दारर्क्षविलग्नौ शशिसितौ बन्ध्या सुतस्थे खले",
+          "english": "If the 7th house is a malefic sign and conjoined with Saturn, the woman becomes a widow. If Venus and Mars are in each other's signs or Navamshas, she will be a playful woman attached to paramours. If the Moon is in the 7th house, she will be of bad conduct along with her husband. If the Lagna is in a sign of Mars or Saturn and contains the Moon and Venus, she will be barren; if a malefic is in the 5th house, the same result follows.",
+          "hindi": "यदि सप्तम भाव पाप राशि का हो और शनि से युक्त हो, तो वह विधवा हो जाती है। यदि शुक्र और मंगल एक-दूसरे की राशि या नवांश में हों, तो वह जारों (प्रेमियों) में आसक्त रहने वाली विलासिनी होती है। यदि सप्तम भाव में चन्द्रमा हो, तो वह पति के साथ रहते हुए भी दुराचारिणी होती है। यदि मंगल या शनि की राशि का लग्न हो और उसमें चन्द्रमा तथा शुक्र हों, तो वह बाँझ होती है; पंचम भाव में पाप ग्रह होने पर भी यही फल होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "कलत्रराश्यांशगते महीजे मन्देक्षिते दुर्भगमेति कन्या ।\nकलत्रांशके सौम्यदृशा समेते कलत्रराशौ पतिवल्लभा स्यात्",
+          "english": "If Mars is in the sign or Navamsha of the 7th lord and aspected by Saturn, the girl will be unfortunate. If the Navamsha of the 7th lord is aspected by a benefic, or the 7th sign itself is aspected by a benefic, she will be beloved of her husband.",
+          "hindi": "यदि मंगल सप्तमेश की राशि या नवांश में हो और शनि से दृष्ट हो, तो कन्या दुर्भाग्यशाली होती है। यदि सप्तमेश का नवांश शुभ ग्रह से दृष्ट हो, या सप्तम राशि शुभ ग्रह से दृष्ट हो, तो वह पति की प्रिया होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "भौमागारविलग्नगौ शशिसितौ नारी पतिद्वेषिणी\nचन्द्रज्ञौ परतत्त्ववादचतुरा भौमेन्दुजौ भोगिनी ।\nचन्द्रज्ञासुरवन्दिता यदि सुखद्रव्यान्विता लग्नगा\nवागीशो यदि लग्नगः सुतनया प्रज्ञाविभूषान्विता",
+          "english": "If the Moon and Venus are in a sign of Mars or in the Lagna, the woman hates her husband. If the Moon and Mercury are there, she is skilled in the knowledge of other principles. If Mars and Mercury are there, she is a seeker of enjoyment. If the Moon, Mercury, and Jupiter are in the Lagna, she will be endowed with happiness and wealth. If Jupiter is in the Lagna, she will have good children and be adorned with wisdom.",
+          "hindi": "यदि मंगल की राशि में या लग्न में चन्द्रमा और शुक्र हों, तो स्त्री पति से द्वेष करने वाली होती है। यदि चन्द्रमा और बुध हों, तो वह पर-तत्त्वों के विवेचन में चतुर होती है। यदि मंगल और बुध हों, तो वह भोग विलास वाली होती है। यदि लग्न में चन्द्रमा, बुध और गुरु हों, तो वह सुख और द्रव्य से संपन्न होती है। यदि लग्न में गुरु हो, तो वह उत्तम संतान वाली और बुद्धि रूपी आभूषण से युक्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "तुङ्गथा गगनाटनाः शुभकरा रन्ध्रे सपापे वधू-\nर्वैधव्यं समुपैति पापभवने पापग्रहालोकिते ।\nरन्ध्रेशांशपतौ खले च विधवा निसंशयो भामिनी\nसौम्यै रन्ध्रगतैः समेति तरुणी प्रागेव मृत्यु पतेः",
+          "english": "If planets in the 10th house are in exaltation, they are auspicious. If a malefic is in the 8th house, the woman becomes a widow, especially if it is a malefic sign aspected by malefics. If the lord of the 8th house or its Navamsha lord is a malefic, she will certainly be a widow. If benefics are in the 8th house, the woman dies before her husband.",
+          "hindi": "यदि दशम भाव में उच्च के ग्रह हों, तो वे शुभकर होते हैं। यदि अष्टम भाव में पाप ग्रह हो, तो वह विधवा होती है, विशेषकर यदि वह पाप राशि हो और पाप ग्रहों से दृष्ट हो। यदि अष्टमेश या उसका नवांशपति पाप ग्रह हो, तो वह निश्चित ही विधवा होती है। यदि अष्टम भाव में शुभ ग्रह हों, तो वह पति से पहले ही मृत्यु को प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "भग्यास्थाः शुभखेचराः स्मरगते पापेऽष्टमस्थेऽथवा\nभर्तृश्रीबहुपुत्रसौख्यविभवैः सार्द्ध चिरं जीवति ।\nक्रूरैर्बन्धुगृहोपगैर्बहुसुतप्राप्ता भवत्यङ्गना\nचापे वा कटकोदये पतिसुतप्राप्ता दरिद्रान्विता",
+          "english": "If benefics are in the 9th house, or a malefic is in the 7th or 8th house, she lives long with the prosperity of her husband, many sons, and happiness. If malefics are in the 4th house, she will have many sons. If the Lagna is Sagittarius or Cancer, she will have husband and sons but be poor.",
+          "hindi": "यदि नवम भाव में शुभ ग्रह हों, या सप्तम या अष्टम भाव में पाप ग्रह हों, तो वह पति की लक्ष्मी (समृद्धि), अनेक पुत्रों और सुख-वैभव के साथ चिरकाल तक जीवित रहती है। यदि चतुर्थ भाव में पाप ग्रह हों, तो वह अनेक पुत्रों वाली होती है। यदि धनु या कर्क का लग्न हो, तो वह पति और पुत्रों से युक्त किन्तु दरिद्र होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "गोसिंहालिवधूदये सुतगते चन्द्रेऽल्पपुत्रान्विता\nपापिरस्तशुभोदयाष्टमगतैर्दारिद्र्यशोकाकुला ।\nसौम्यासौम्ययुतैश्च मिश्रफलिनी सौम्यैः शुभश्रीयुता\nपुत्रेशेऽरिगते लग्नौ रिपुपतौ शस्त्रेण मृत्युर्भवेत्",
+          "english": "If the Lagna is Taurus, Leo, Scorpio, or Virgo, and the Moon is in the 5th house, she will have few sons. If malefics are in the 7th house and benefics in the 1st or 8th house, she will be distressed by poverty and sorrow. If there is a mixture of benefics and malefics, the results will be mixed; if only benefics, she will be fortunate and wealthy. If the 5th lord is in the 6th house, or the 6th lord is in the 1st house, death will be caused by a weapon.",
+          "hindi": "यदि वृष, सिंह, वृश्चिक या कन्या का लग्न हो और चन्द्रमा पंचम भाव में हो, तो वह कम पुत्रों वाली होती है। यदि सप्तम में पाप ग्रह और लग्न या अष्टम में शुभ ग्रह हों, तो वह दरिद्रता और शोक से व्याकुल होती है। शुभ और पाप ग्रहों के मेल से मिश्रित फल होता है, और केवल शुभ ग्रहों से वह सौभाग्य और लक्ष्मी से युक्त होती है। यदि पंचमेश छठे भाव में हो, या छठे भाव का स्वामी लग्न में हो, तो शस्त्र से मृत्यु होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "करग्रहैरस्तगतैः समस्तैर्विलग्नराशेर्विधवा भवेत्सा ।\nमिश्रैः पुनर्भूरिह जातकन्या पत्युज्भिता हीनबलैरसद्भिः",
+          "english": "If all cruel planets are in the 7th house from the Lagna, she becomes a widow. If there is a mixture, she is a remarried woman. If the malefics are weak, she is abandoned by her husband.",
+          "hindi": "यदि लग्न से सप्तम भाव में सभी क्रूर ग्रह हों, तो वह विधवा होती है। यदि मिश्रित ग्रह हों, तो वह पुनर्भू होती है। यदि पाप ग्रह निर्बल हों, तो वह पति द्वारा त्याग दी जाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "स्त्रीजन्मलग्नान्मदगे शशाङ्के शुक्रारयुक्ते यदि जातकन्या ।\nसा पत्यनुज्ञापरगामिनी स्यात्सौरारभांशोपगते तथैव",
+          "english": "If the Moon is in the 7th house from the woman's Lagna, conjoined with Venus and Mars, she will be attached to others with her husband's permission. The same result applies if they are in the signs or Navamshas of Saturn and Mars.",
+          "hindi": "यदि स्त्री के जन्मलग्न से सप्तम भाव में चन्द्रमा हो और वह शुक्र तथा मंगल से युक्त हो, तो वह पति की अनुमति से परपुरुषगामिनी होती है। शनि और मंगल की राशि या नवांश में होने पर भी यही फल होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "सौरारभांशोपगतग्रहेषु शुक्रेन्दुयुक्तेश्वशुभेक्षितेषु ।\nजाता कुलाचारगुणैर्विहीना मात्रा च साकं व्यभिचारिणी स्यात्",
+          "english": "If planets are in the signs or Navamshas of Saturn and Mars, and conjoined with Moon and Venus and aspected by malefics, the woman will be devoid of family traditions and virtues, and will be unchaste along with her mother.",
+          "hindi": "यदि ग्रह शनि और मंगल की राशि या नवांश में हों, और चन्द्रमा तथा शुक्र से युक्त हों और पाप ग्रहों से दृष्ट हों, तो उत्पन्न कन्या कुलाचार और गुणों से हीन होती है तथा माता के साथ व्यभिचारिणी होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "क्षितितनयनवांशे लग्नतः सप्तमस्थे दिनकरबुधदृष्टे व्याधियोनिः प्रजाता ।\nशुभकरनवभागे सप्तमस्थानसंस्थे सुभगसुतवती सा चान्यथा दुर्भगा स्यात्",
+          "english": "If the Navamsha of Mars is in the 7th house from the Lagna and aspected by Sun and Mercury, she will have a diseased genital organ. If a benefic Navamsha is in the 7th house, she will be fortunate and have sons; otherwise, she will be unfortunate.",
+          "hindi": "यदि लग्न से सप्तम भाव में मंगल का नवांश हो और सूर्य तथा बुध से दृष्ट हो, तो वह रोगी जननांग वाली होती है। यदि सप्तम भाव में शुभ ग्रह का नवांश हो, तो वह सौभाग्यवती और पुत्रवती होती है; अन्यथा वह दुर्भाग्यशाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "कामासक्तमनस्विनी च विधवा पापद्वये सप्तमे\nपश्चार्खामिवधं करोति कुलटा पापत्रये चास्तगे ।\nराजामात्यवराङ्गना यदि शुभे कामं गते कन्यका\nमारस्थे तु शुभत्रये गुणवती राज्ञी भवेद् भूपतेः",
+          "english": "If two malefics are in the 7th house, the woman will be lustful and a widow. If three malefics are in the 7th house, she kills her husband and becomes unchaste. If a benefic is in the 7th house, she will be a queen or a high-ranking woman. If three benefics are in the 7th house, she becomes the queen of a king and is virtuous.",
+          "hindi": "यदि सप्तम भाव में दो पाप ग्रह हों, तो वह कामासक्त और विधवा होती है। यदि सप्तम भाव में तीन पाप ग्रह हों, तो वह पति की हत्या करने वाली और कुलटा होती है। यदि सप्तम में शुभ ग्रह हो, तो वह राजा या मंत्री की उत्तम स्त्री होती है। यदि सप्तम भाव में तीन शुभ ग्रह हों, तो वह राजा की रानी और गुणवती होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "अन्योन्यांशगतौ सितार्कतनयावन्योन्यदृष्टौ तु वा\nकुम्भे चाष्टमभागजातवनिता कामाग्नितप्ता भवेत् ।\nवैधव्यं समुपैति चन्द्रभवनात् क्रूरे मदस्थानगे\nचन्द्रादस्तगृहोपगः शुभकरो राज्यापदं यच्छति",
+          "english": "If Venus and Saturn are in each other's Navamshas or aspect each other, or if born in the 8th part of Aquarius, the woman will be consumed by the fire of passion. If a malefic is in the 7th house from the Moon, she becomes a widow. If a benefic is in the 7th house from the Moon, she gets wealth and kingdom.",
+          "hindi": "यदि शुक्र और शनि एक-दूसरे के नवांश में हों या एक-दूसरे को देखते हों, अथवा कुम्भ राशि के आठवें भाग में जन्म हो, तो वह कामाग्नि से तप्त रहने वाली होती है। यदि चन्द्रमा से सप्तम भाव में पाप ग्रह हो, तो वह विधवा होती है। चन्द्रमा से सप्तम में शुभ ग्रह होने पर वह राज्य और वैभव प्राप्त करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "स्त्रीजन्मलग्ने शशिशुक्रयुक्ते कोपान्विता सा सुखभागिनी स्यात् ।\nसर्वत्र चन्द्रे सति तत्र जाता सुखान्विता वीतरतिप्रिया स्यात्",
+          "english": "If the Moon and Venus are in the woman's birth Lagna, she will be angry but enjoy happiness. If the Moon is alone there, she will be happy but devoid of sexual desire.",
+          "hindi": "यदि स्त्री के जन्मलग्न में चन्द्रमा और शुक्र हों, तो वह क्रोधी स्वभाव वाली किन्तु सुख प्राप्त करने वाली होती है। यदि वहां केवल चन्द्रमा हो, तो वह सुखी होती है किन्तु रति-क्रीडा (काम-इच्छा) से रहित होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "शुक्रेन्दुभे रूपगुणाभिरामा कलावती जीवबुधोदये तु ।\nलग्नस्थिता जीवबुधासुरेज्या जाताङ्गना सर्वगुणप्रसिद्धा",
+          "english": "If the Moon is in the sign of Venus (Taurus or Libra), she will be beautiful and virtuous. If Jupiter or Mercury are in the Lagna, she will be skilled in arts. If Jupiter, Mercury, and Venus are in the Lagna, the woman will be famous for all good qualities.",
+          "hindi": "यदि चन्द्रमा शुक्र की राशि (वृष या तुला) में हो, तो वह रूपवती और गुणवान होती है। यदि लग्न में गुरु या बुध हों, तो वह कलावती होती है। यदि लग्न में गुरु, बुध और शुक्र हों, तो उत्पन्न कन्या समस्त गुणों के लिए विख्यात होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "वाचस्पतौ नवमपञ्चमकेन्द्रसंस्थे तुङ्गादिके भवति शीलसमन्विता च ।\nसाध्वी सुपुत्रजननी सुखिनी गुणाढ्यां नूनं कुलद्वययशत्करिणी भवेत्सा",
+          "english": "If Jupiter is in the 9th, 5th, or a Kendra (1st, 4th, 7th, 10th), especially in exaltation, she will be of virtuous conduct, chaste, mother of good sons, happy, endowed with virtues, and bring fame to both families (paternal and marital).",
+          "hindi": "यदि गुरु नवम, पंचम या केंद्र (१, ४, ७, १०) भाव में हो, विशेषकर उच्च आदि का होकर, तो वह शीलवती, साध्वी, उत्तम पुत्रों की जननी, सुखी, गुणवान और निश्चित रूप से दोनों कुलों (पिता और पति) का यश बढ़ाने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "यदि शुभकरदृष्टा शिल्पिनी शुद्धचित्ता सततमिह सलज्जा चारुमूतिः सुपुत्रा ।\nबहुधनशुभयुक्ता वल्लभे व्रजति शुभशतानां भाजनत्वं च होरा",
+          "english": "If the Lagna is aspected by a benefic, she will be skilled in arts (or manual work), pure-hearted, always modest, beautiful, mother of good sons, endowed with much wealth and auspiciousness, and beloved of her husband, becoming a vessel of hundreds of blessings.",
+          "hindi": "यदि लग्न शुभ ग्रह से दृष्ट हो, तो वह शिल्पी (कला-कुशल), शुद्ध हृदय वाली, सदा लज्जाशील, सुंदर रूप वाली, उत्तम पुत्रवती, बहुत धन और शुभता से युक्त, और अपने पति की प्रिया होकर सैकड़ों सुखों का पात्र बनती है।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "चन्द्रे कर्कटकोदये च बलिभिः शुक्रज्ञजीवेन्दुभि-\nर्नानाशास्त्रकलारसज्ञचतुरा विख्याततेजखिनी ।\nकामस्थैरथवा विलग्नभवनाद्धर्मस्थितैः खेचरैः\nप्रव्रज्याभुपयाति जन्मसमये पाणिग्रहे चिन्तयेत्",
+          "english": "If Cancer is the Lagna and contains the Moon, along with strong Venus, Mercury, and Jupiter, she will be skilled in various sciences and arts, and famous for her brilliance. If planets are in the 7th or 9th houses from the Lagna, she will take to a religious or ascetic life; this should be considered at the time of marriage or birth.",
+          "hindi": "यदि कर्क लग्न हो और उसमें चन्द्रमा हो, साथ ही बलवान शुक्र, बुध और गुरु हों, तो वह नाना शास्त्रों और कलाओं के रस को जानने वाली चतुर और विख्यात तेज वाली होती है। यदि लग्न से सप्तम या नवम भाव में ग्रह हों, तो वह संन्यास (प्रव्रज्या) धारण करती है; यह विचार जन्म या विवाह के समय करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "पापेऽस्ते नवमगतग्रहस्य तुल्यां प्रव्रज्यां युवतिरुपैत्यसंशयेन ।\nउद्वाहे वरणविधौ प्रदानकाले चिन्तायामपि सकलं विधेयमेतन्",
+          "english": "If a malefic is in the 7th house, the woman will certainly take to an ascetic life corresponding to the planet in the 9th house. This should be examined at the time of marriage, selection of a groom, giving away the girl, or any such inquiry.",
+          "hindi": "यदि सप्तम भाव में पाप ग्रह हो, तो वह युवती निश्चित रूप से नवम भाव में स्थित ग्रह के अनुसार संन्यास (प्रव्रज्या) धारण करती है। विवाह, वर-वरण, कन्यादान या किसी प्रश्न के समय इसका विचार करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "जन्मन्युद्धाहकाले च चिन्तायां वरणे तथा ।\nस्त्रीणां चिन्ता बुधेनोक्ता घटते तत्पतिष्वपि",
+          "english": "The inquiry about women mentioned by Mercury applies to birth, marriage, and questions, and the results also apply to their husbands.",
+          "hindi": "बुध द्वारा बताई गई स्त्रियों के विषय में जो चिन्ता (विचार) है, वह जन्म, विवाह और प्रश्न काल में घटती है, और वह उनके पतियों पर भी लागू होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "क्रूरेऽष्टमे विधवता निधनेश्वरांशे यस्य स्थिते वयसि तस्य समे प्रदिष्टा ।\nसत्स्वर्थगेषु मरणं स्वयमेव तस्याः कन्यालिगोहरिषु चाल्पसुतत्वमिन्दौ",
+          "english": "If a cruel planet is in the 8th house, widowhood is predicted in the age corresponding to the Navamsha lord of the 8th house. If benefics are in the 2nd house, she dies before her husband. If the Moon is in Virgo, Scorpio, Taurus, or Leo, she will have few sons.",
+          "hindi": "यदि अष्टम भाव में क्रूर ग्रह हो, तो अष्टमेश के नवांशपति के अनुसार बताई गई आयु में विधवापन होता है। यदि द्वितीय भाव में शुभ ग्रह हों, तो उसकी मृत्यु अपने पति से पहले होती है। कन्या, वृश्चिक, वृष और सिंह राशि में चन्द्रमा होने पर कम संतान होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "रन्ध्रे मिश्रबले शुभाशुभखगैरालोकिते वा युते\nदम्पत्यो समकालमृत्युमखिलज्योतिर्विदः संविदुः ।\nएकस्थौ मदलग्नपौ यदि वा लग्नस्थिते कामपे\nकामस्थे तनुपे शुभग्रहयुते मृत्युस्तयेस्तुल्यतः",
+          "english": "If the 8th house is of mixed strength and aspected or conjoined by both benefics and malefics, the death of the couple occurs at the same time, as understood by all astrologers. If the 7th and Lagna lords are together, or the 7th lord is in the Lagna, or the Lagna lord is in the 7th conjoined with benefics, the couple dies together.",
+          "hindi": "यदि अष्टम भाव मिश्रित बल वाला हो और शुभ-अशुभ ग्रहों से दृष्ट या युक्त हो, तो पति-पत्नी की मृत्यु एक ही समय में होती है, ऐसा समस्त ज्योतिषी जानते हैं। यदि सप्तमेश और लग्नेश एक साथ हों, या सप्तमेश लग्न में हो, या लग्नेश सप्तम में शुभ ग्रहों के साथ हो, तो दोनों की मृत्यु समान समय पर होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "सत्स्वर्थगेषु स्वयमेव सा स्त्री विपद्यते तत्परिपाककाले ।\nरन्ध्रस्थतन्नाथतदंशपानां दशापहारे मृतिमाहुरार्याः",
+          "english": "If benefics are in the 2nd house, the woman herself dies during the period of those planets. The wise say death occurs during the Dasha/Antardasha of the 8th lord or its Navamsha lord.",
+          "hindi": "यदि द्वितीय भाव में शुभ ग्रह हों, तो वह स्त्री स्वयं ही उन ग्रहों के पाक (दशा) काल में मृत्यु को प्राप्त होती है। विद्वान कहते हैं कि अष्टमेश या उसके नवांशपति की दशा-अन्तर्दशा में मृत्यु होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "सहजभवननाथे पुङ्ग्रहे पुङ्ग्रहर्क्षे पुरुषस्वचरयुक्ते पुङ्ग्रहालोकिते वा ।\nनय्नभवनकेन्द्रे कोणगे वा बलिष्टे बहुधनसुखवन्तं सोद्रं याति जाता",
+          "english": "If the 3rd lord is a male planet, in a male sign, conjoined with male planets and aspected by male planets, or if it is strong in a Kendra or Trikona from the Lagna, she will have brothers with much wealth and happiness.",
+          "hindi": "यदि तृतीयेश पुरुष ग्रह हो, पुरुष राशि में हो, पुरुष ग्रहों से युक्त और दृष्ट हो, अथवा लग्न से केंद्र या त्रिकोण में होकर बलवान हो, तो वह बहुत धन और सुख वाले भाइयों से युक्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": "सहोदरस्थानपलाभनाथौ विलग्नतः पञ्चमराशियातौ ।\nनृपालतेजोगुणरूपवन्तं सहोदरं जातवधूः समेति",
+          "english": "If the lords of the 3rd and 11th houses are in the 5th house from the Lagna, the woman will have brothers endowed with royal brilliance, virtues, and beauty.",
+          "hindi": "यदि तृतीय भाव और एकादश भाव के स्वामी लग्न से पंचम भाव में स्थित हों, तो उत्पन्न वधू राजतुल्य तेज, गुण और रूप वाले भाइयों को प्राप्त करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "अथ् पतिलक्षणम् ।\nयस्या मन्मथमन्दिरे गतबले शून्ये खलालोकिते\nसौम्यव्योमनिवासदृष्टिरहिते भर्ता नरः को भवेत् ।\nक्लीबः स्यान् पतिरस्तगे शशिसुते सार्कात्मजे दुर्भगा\nबन्ध्या वा तरुणी चरे मदगृहे नित्यं प्रवासान्वितः",
+          "english": "If the 7th house is weak, vacant, aspected by malefics and devoid of the aspect of benefics, what kind of husband will she have? If Mercury and Saturn are in the 7th house, the husband will be a eunuch. If Saturn is in the 7th, she will be unfortunate. If the 7th house is a movable sign, the husband will always be away from home (traveling).",
+          "hindi": "जिसका सप्तम भाव बलहीन, शून्य, पाप ग्रहों से दृष्ट और शुभ ग्रहों की दृष्टि से रहित हो, उसका पति कैसा होगा? यदि सप्तम में बुध और शनि हों, तो पति नपुंसक होता है। यदि शनि सप्तम में हो, तो वह दुर्भाग्यशाली होती है। यदि सप्तम भाव चर राशि का हो, तो उसका पति सदैव प्रवास (यात्रा) पर रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "स्वांशे भास्वति कामगे मृदुरतिक्रीडाविनोदी पति-\nश्चन्द्रे सौख्यमुपैति भूमितनये जारे वधूतत्परः ।\nविद्वान् चन्द्रसुते जितेन्द्रियवरो जीवे मदस्थानगे\nशुक्रे कान्तवपुः सुखी च रविजे वृद्धोऽतिमूर्खो भवेत्",
+          "english": "If the Sun is in his own Navamsha in the 7th house, the husband will be a lover of gentle sexual play and amusement. If the Moon is there, he brings happiness. If Mars, he is attached to other women. If Mercury, he is learned. If Jupiter, he is a master of his senses. If Venus, he is handsome and happy. If Saturn, he is old and a great fool.",
+          "hindi": "यदि सप्तम भाव में सूर्य अपने नवांश में हो, तो पति कोमल रति-क्रीडा और विनोद चाहने वाला होता है। चन्द्रमा होने पर सुख देता है। मंगल होने पर वह पर-स्त्रियों में आसक्त (जार) होता है। बुध होने पर विद्वान होता है। गुरु होने पर वह जितेन्द्रिय (इन्द्रियों को जीतने वाला) होता है। शुक्र होने पर सुंदर शरीर वाला और सुखी होता है। शनि होने पर वह वृद्ध और अत्यंत मूर्ख होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "स्थान्मार्दवाङ्गो गुणवान्प्रगल्भो जामित्रराश्य्ंशकजा तु थाऽस्याः ।\nसौरेऽस्तगे स्वांशगृहोपयाते वृद्धोऽतिमूर्खः पतिरेव तस्याः",
+          "english": "The husband will be of gentle body, virtuous, and bold if the 7th house or its Navamsha belongs to specific planets (as mentioned before). If Saturn is in the 7th in his own Navamsha, the husband is definitely old and very foolish.",
+          "hindi": "पति कोमल अंगों वाला, गुणवान और प्रगल्भ (चतुर) होता है यदि सप्तम राशि या नवांश वैसा ही हो। यदि शनि अपने नवांश में होकर सप्तम भाव में हो, तो उसका पति वृद्ध और अत्यंत मूर्ख ही होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 51,
+          "text": "दुःस्थौ धर्मगृहेशदेशदेसचिवौ भर्ता गतायुर्भवेद्\nदीर्घायुर्धनवांस्त्रिकोणगृहगौ केन्द्रस्थितौ वा यदि ।\nविद्वान् बोधनवाहनेशसहितौ सारार्कजौ कर्षकः\nस्वर्भानुध्वजसंयुतौ यदि खलः सारीश्ररश्चोरराट्",
+          "english": "If the lords of the 9th and 7th houses are in bad houses (6, 8, 12), the husband will have a short life. If they are in a Trikona or Kendra, he will be long-lived and wealthy. If joined with Mercury and Venus, he is learned. If with Mars and Saturn, he is a farmer. If with Rahu or Ketu, he is a wicked person, a thief, or a leader of thieves.",
+          "hindi": "यदि नवम और सप्तम भाव के स्वामी अशुभ भावों (६, ८, १२) में हों, तो पति अल्पायु होता है। यदि वे त्रिकोण या केंद्र में हों, तो वह दीर्घायु और धनवान होता है। यदि बुध और शुक्र के साथ हों, तो वह विद्वान होता है। मंगल और शनि के साथ हों, तो किसान होता है। राहु या केतु के साथ हों, तो वह दुष्ट, चोर या चोरों का राजा होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 52,
+          "text": "गौराङ्गः पतिरस्तगे दिनकरे कामी सरोषेक्षण-\nश्चन्द्रे रूपगुणान्वितः कृशतनुर्भोगी रुगार्तो भवेत् ।\nनम्रः क्रूररसोऽलसः पटुवचाः संरक्तकान्तिः कुजे\nविद्यावित्तगुणप्रपञ्चरैकः सौम्ये मदस्थानगे",
+          "english": "If the Sun is in the 7th house, the husband is fair-complexioned, lustful, and has angry eyes. If the Moon, he is endowed with beauty and virtues, has a slender body, is an enjoyer, but might be diseased. If Mars, he is humble but of cruel taste, lazy, clever in speech, and of reddish brilliance. If Mercury is in the 7th, he is focused on the expansion of knowledge, wealth, and virtues.",
+          "hindi": "यदि सप्तम भाव में सूर्य हो, तो पति गौरवर्ण, कामुक और क्रोधी दृष्टि वाला होता है। चन्द्रमा होने पर रूप और गुणों से युक्त, कृश शरीर वाला, भोगी किन्तु रोगी होता है। मंगल होने पर वह नम्र किन्तु क्रूर रुचि वाला, आलसी, बोलने में चतुर और लाल कान्ति वाला होता है। यदि बुध सप्तम में हो, तो वह विद्या, धन और गुणों के विस्तार में लगा रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 53,
+          "text": "दीर्घायुर्नृपतुल्यवित्तविभवः कामी च बाल्ये गुरौ\nकान्तो नित्यविनोदकेलिचतुरः काव्ये कविः श्मापतिः ।\nमन्दे वृद्धकलेवरोऽस्थिरतनुः पापी पतिः कामगे\nराहौ वा शिखिनि स्थिते मलिनधीर्नीचोऽथवा तत्समः",
+          "english": "If Jupiter is in the 7th, the husband is long-lived, has wealth like a king, and is lustful in youth. If Venus, he is handsome, always skillful in amusement and play, a poet, and a lord of men. If Saturn is in the 7th, he has an old body, unstable physical structure, and is sinful. If Rahu or Ketu are there, he has a dirty mind, is low-born, or similar to that.",
+          "hindi": "यदि गुरु सप्तम में हो, तो पति दीर्घायु, राजा के समान धन-वैभव वाला और युवावस्था में कामुक होता है। शुक्र होने पर वह सुंदर, नित्य विनोद और क्रीडा में चतुर, काव्य करने वाला और मनुष्यों का स्वामी होता है। शनि होने पर वह वृद्ध शरीर वाला, अस्थिर शरीर वाला और पापी होता है। राहु या केतु होने पर वह मलीन बुद्धि वाला, नीच या उसके समान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 54,
+          "text": "दिग्देशस्थितिधर्मकर्मजगुणाः पञ्चातके योषितां\nये नारीजनजातके निजपतौ संयोजितास्तत्वतः ।\nद्युणांशोपगतग्रहेषु बलवत्खेटांशतुल्याः सुताः\nकेन्द्रे कामपतिः करोति विपुलं कल्याणकालोत्सवम्",
+          "english": "The qualities arising from direction, country, position, Dharma, and Karma for women should be truly applied to their husbands as well. Sons will be equal to the number of strong planets in the Navamshas of the 7th house. If the 7th lord is in a Kendra, he brings great auspiciousness and celebratory occasions.",
+          "hindi": "स्त्रियों के लिए दिशा, देश, स्थिति, धर्म और कर्म से होने वाले जो गुण हैं, उन्हें उनके पति पर भी यथार्थ रूप से लागू करना चाहिए। सप्तम भाव के नवांशों में जितने बलवान ग्रह होंगे, उतने ही पुत्र होंगे। यदि सप्तमेश केंद्र में हो, तो वह विशाल कल्याणकारी उत्सवों को करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "इति श्रीनवग्रहकृपया वैद्यनाथविरचिते जातकपारिजाते षोडशोऽध्यायः",
+          "english": "Thus ends the sixteenth chapter named Strijataka in the Jatakaparijata composed by Vaidyanatha by the grace of the nine planets.",
+          "hindi": "इस प्रकार नवग्रहों की कृपा से वैद्यनाथ द्वारा रचित जातकपारिजात में 'स्त्रीजातक' नामक सोलहवाँ अध्याय समाप्त होता है।",
+          "status": "translated"
+        }
+      ]
     }
   ]
 }

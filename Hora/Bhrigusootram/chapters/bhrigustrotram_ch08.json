@@ -1,202 +1,236 @@
 {
-  "source": "bhrigustrotram.md",
-  "header": "भृगु सूत्रम्",
+  "text_id": "bhrigu_sutram",
+  "title_sa": "भृगुसूत्रम्",
+  "title_en": "Bhrigu Sutram",
+  "category": "hora",
   "chapters": [
     {
       "number": 8,
       "title": "अथ तन्वादिद्वादश भावस्थित राहुकेत्वोः फलमाह",
       "shlokas": [
         {
-          "number": "१",
+          "number": 1,
           "text": "तत्रादौ लग्ने राहुकेत्वोः फलं\nमृतप्रसूतिः",
-          "english_meaning": "Rahu or Ketu in the first house: The native may suffer from stillborn children or difficult childbirths.",
-          "hindi_meaning": "प्रथम भाव में राहु या केतु का फल: जातक को मृत-संतान या प्रसव संबंधी कष्ट का सामना करना पड़ सकता है।"
+          "english": "Rahu or Ketu in the first house: The native may suffer from stillborn children or difficult childbirths.",
+          "hindi": "प्रथम भाव में राहु या केतु का फल: जातक को मृत-संतान या प्रसव संबंधी कष्ट का सामना करना पड़ सकता है।",
+          "status": "translated"
         },
         {
-          "number": "२",
+          "number": 2,
           "text": "मेषवृषभकर्कराशिस्थे द्यावान्",
-          "english_meaning": "If in Aries, Taurus, or Cancer, the native will be compassionate.",
-          "hindi_meaning": "यदि मेष, वृषभ या कर्क राशि में हो, तो जातक दयालु होता है।"
+          "english": "If in Aries, Taurus, or Cancer, the native will be compassionate.",
+          "hindi": "यदि मेष, वृषभ या कर्क राशि में हो, तो जातक दयालु होता है।",
+          "status": "translated"
         },
         {
-          "number": "३",
+          "number": 3,
           "text": "बहुभोगी",
-          "english_meaning": "The native will enjoy many pleasures and luxuries.",
-          "hindi_meaning": "जातक अनेक भोगों को भोगने वाला होता है।"
+          "english": "The native will enjoy many pleasures and luxuries.",
+          "hindi": "जातक अनेक भोगों को भोगने वाला होता है।",
+          "status": "translated"
         },
         {
-          "number": "४",
+          "number": 4,
           "text": "अशुभे दृष्टे मुखलाञ्छनी",
-          "english_meaning": "If aspected by malefics, there will be a mark on the face.",
-          "hindi_meaning": "यदि पाप ग्रहों द्वारा दृष्ट हो, तो मुख पर कोई निशान या दाग होता है।"
+          "english": "If aspected by malefics, there will be a mark on the face.",
+          "hindi": "यदि पाप ग्रहों द्वारा दृष्ट हो, तो मुख पर कोई निशान या दाग होता है।",
+          "status": "translated"
         },
         {
-          "number": "५",
+          "number": 5,
           "text": "लग्नाद्द्वितीये राहुकेत्वोः फलं\nनिर्धनः देहव्याधिः पुत्रशोकः श्यामवर्णः",
-          "english_meaning": "Rahu or Ketu in the second house: The native will be poor, sickly, and have a dark complexion.",
-          "hindi_meaning": "द्वितीय भाव में राहु या केतु का फल: जातक निर्धन, रोगी और श्याम वर्ण का होता है।"
+          "english": "Rahu or Ketu in the second house: The native will be poor, sickly, and have a dark complexion.",
+          "hindi": "द्वितीय भाव में राहु या केतु का फल: जातक निर्धन, रोगी और श्याम वर्ण का होता है।",
+          "status": "translated"
         },
         {
-          "number": "६",
+          "number": 6,
           "text": "पापयुते चुबुके लाञ्छनम्",
-          "english_meaning": "If associated with malefics, there will be a mark on the chin.",
-          "hindi_meaning": "यदि पाप ग्रहों से युक्त हो, तो ठुड्डी पर कोई निशान होता है।"
+          "english": "If associated with malefics, there will be a mark on the chin.",
+          "hindi": "यदि पाप ग्रहों से युक्त हो, तो ठुड्डी पर कोई निशान होता है।",
+          "status": "translated"
         },
         {
-          "number": "७",
+          "number": 7,
           "text": "लग्नात्तृतीये राहुकेत्वोः फलं\nतिलनिष्पावमुद्रकोद्रवसमृद्धिवान्",
-          "english_meaning": "Rahu or Ketu in the third house: The native will have abundance of grains and agricultural produce.",
-          "hindi_meaning": "तृतीय भाव में राहु या केतु का फल: जातक के पास अन्न और कृषि उत्पादों की प्रचुरता रहती है।"
+          "english": "Rahu or Ketu in the third house: The native will have abundance of grains and agricultural produce.",
+          "hindi": "तृतीय भाव में राहु या केतु का फल: जातक के पास अन्न और कृषि उत्पादों की प्रचुरता रहती है।",
+          "status": "translated"
         },
         {
-          "number": "८",
+          "number": 8,
           "text": "शुभयुते कण्ठलाञ्छनम्",
-          "english_meaning": "If associated with benefics, there will be a mark on the throat.",
-          "hindi_meaning": "यदि शुभ ग्रहों से युक्त हो, तो गले पर कोई निशान होता है।"
+          "english": "If associated with benefics, there will be a mark on the throat.",
+          "hindi": "यदि शुभ ग्रहों से युक्त हो, तो गले पर कोई निशान होता है।",
+          "status": "translated"
         },
         {
-          "number": "९",
+          "number": 9,
           "text": "लग्नाच्चतुर्थे राहुकेतुफलं\nबहुभूषणसमृद्धिः जायाद्वयं सेवकः\nमातृक्लेशः पापयुते निश्चयेन",
-          "english_meaning": "Rahu or Ketu in the fourth house: The native will have many ornaments but cause distress to the mother.",
-          "hindi_meaning": "चतुर्थ भाव में राहु या केतु का फल: जातक के पास अनेक आभूषण होते हैं, किंतु वह माता को कष्ट देने वाला होता है।"
+          "english": "Rahu or Ketu in the fourth house: The native will have many ornaments but cause distress to the mother.",
+          "hindi": "चतुर्थ भाव में राहु या केतु का फल: जातक के पास अनेक आभूषण होते हैं, किंतु वह माता को कष्ट देने वाला होता है।",
+          "status": "translated"
         },
         {
-          "number": "१०",
+          "number": 10,
           "text": "शुभयुतदृष्टे न दोषः",
-          "english_meaning": "If associated with benefics, these negative results are neutralized.",
-          "hindi_meaning": "यदि शुभ ग्रहों से युक्त हो, तो ये अशुभ फल नहीं मिलते।"
+          "english": "If associated with benefics, these negative results are neutralized.",
+          "hindi": "यदि शुभ ग्रहों से युक्त हो, तो ये अशुभ फल नहीं मिलते।",
+          "status": "translated"
         },
         {
-          "number": "११",
+          "number": 11,
           "text": "लग्नात्पञ्चमे राहुकेत्वोः फलं\nपुत्राभावः सर्पशापात् सुतक्षयः",
-          "english_meaning": "Rahu or Ketu in the fifth house: The native will be childless due to a curse from serpents.",
-          "hindi_meaning": "पंचम भाव में राहु या केतु का फल: जातक सर्प-शाप के कारण पुत्रहीन होता है।"
+          "english": "Rahu or Ketu in the fifth house: The native will be childless due to a curse from serpents.",
+          "hindi": "पंचम भाव में राहु या केतु का फल: जातक सर्प-शाप के कारण पुत्रहीन होता है।",
+          "status": "translated"
         },
         {
-          "number": "१२",
+          "number": 12,
           "text": "नाग प्रतिष्ठया पुत्रप्राप्तिः",
-          "english_meaning": "Rituals for the serpent deity will grant him sons.",
-          "hindi_meaning": "नाग-प्रतिष्ठा (अनुष्ठान) करने से पुत्र की प्राप्ति होती है।"
+          "english": "Rituals for the serpent deity will grant him sons.",
+          "hindi": "नाग-प्रतिष्ठा (अनुष्ठान) करने से पुत्र की प्राप्ति होती है।",
+          "status": "translated"
         },
         {
-          "number": "१३",
+          "number": 13,
           "text": "पवनव्याधिः दुर्मार्गी राजकोपः दुष्टग्रामवासी",
-          "english_meaning": "He will suffer from windy diseases, follow a bad path, and face government wrath.",
-          "hindi_meaning": "वह वायु रोगों से पीड़ित, कुमार्गी और शासन के कोप का भागी होता है।"
+          "english": "He will suffer from windy diseases, follow a bad path, and face government wrath.",
+          "hindi": "वह वायु रोगों से पीड़ित, कुमार्गी और शासन के कोप का भागी होता है।",
+          "status": "translated"
         },
         {
-          "number": "१४",
+          "number": 14,
           "text": "लग्नात्षष्ठे राहुकेत्वोः फलं\nधीरवान् अतिसुखी",
-          "english_meaning": "Rahu or Ketu in the sixth house: The native will be brave and very happy.",
-          "hindi_meaning": "षष्ठ भाव में राहु या केतु का फल: जातक धैर्यवान और अत्यंत सुखी होता है।"
+          "english": "Rahu or Ketu in the sixth house: The native will be brave and very happy.",
+          "hindi": "षष्ठ भाव में राहु या केतु का फल: जातक धैर्यवान और अत्यंत सुखी होता है।",
+          "status": "translated"
         },
         {
-          "number": "१५",
+          "number": 15,
           "text": "इन्दुयुते राजस्त्रीभोगी",
-          "english_meaning": "With the Moon, he will enjoy the company of noble women.",
-          "hindi_meaning": "चन्द्रमा के साथ होने पर वह श्रेष्ठ कुल की स्त्रियों का प्रेमी होता है।"
+          "english": "With the Moon, he will enjoy the company of noble women.",
+          "hindi": "चन्द्रमा के साथ होने पर वह श्रेष्ठ कुल की स्त्रियों का प्रेमी होता है।",
+          "status": "translated"
         },
         {
-          "number": "१६",
+          "number": 16,
           "text": "निर्धनः चोरः",
-          "english_meaning": "He may become poor or a thief.",
-          "hindi_meaning": "वह निर्धन या चोर हो सकता है।"
+          "english": "He may become poor or a thief.",
+          "hindi": "वह निर्धन या चोर हो सकता है।",
+          "status": "translated"
         },
         {
-          "number": "१७",
+          "number": 17,
           "text": "लग्नात्सप्तमे राहुकेत्वोः फलं\nदारद्वयं तन्मध्ये प्रथमस्त्रीनाशः\nद्वितिये कलत्रे गुल्मव्याधिः",
-          "english_meaning": "Rahu or Ketu in the seventh house: He will have two wives; the first is lost, and the second is sickly.",
-          "hindi_meaning": "सप्तम भाव में राहु या केतु का फल: जातक की दो पत्नियां होती हैं; प्रथम की हानि होती है और दूसरी रोगिणी होती है।"
+          "english": "Rahu or Ketu in the seventh house: He will have two wives; the first is lost, and the second is sickly.",
+          "hindi": "सप्तम भाव में राहु या केतु का फल: जातक की दो पत्नियां होती हैं; प्रथम की हानि होती है और दूसरी रोगिणी होती है।",
+          "status": "translated"
         },
         {
-          "number": "१८",
+          "number": 18,
           "text": "पापयुते गण्डोत्पत्तिः",
-          "english_meaning": "Malefics cause danger or fatal defects.",
-          "hindi_meaning": "पाप ग्रहों से कष्ट और अरिष्ट की उत्पत्ति होती है।"
+          "english": "Malefics cause danger or fatal defects.",
+          "hindi": "पाप ग्रहों से कष्ट और अरिष्ट की उत्पत्ति होती है।",
+          "status": "translated"
         },
         {
-          "number": "१९",
+          "number": 19,
           "text": "शुभयुते गण्डनिवृत्तिः",
-          "english_meaning": "Benefics neutralize the danger.",
-          "hindi_meaning": "शुभ ग्रहों के योग से कष्टों का निवारण होता है।"
+          "english": "Benefics neutralize the danger.",
+          "hindi": "शुभ ग्रहों के योग से कष्टों का निवारण होता है।",
+          "status": "translated"
         },
         {
-          "number": "२०",
+          "number": 20,
           "text": "नियमेन दारद्वयम्",
-          "english_meaning": "He consistently has two wives.",
-          "hindi_meaning": "नियमतः जातक की दो पत्नियां होती हैं।"
+          "english": "He consistently has two wives.",
+          "hindi": "नियमतः जातक की दो पत्नियां होती हैं।",
+          "status": "translated"
         },
         {
-          "number": "२१",
+          "number": 21,
           "text": "शुभयुते एकमेव",
-          "english_meaning": "Benefics ensure he has only one wife.",
-          "hindi_meaning": "शुभ ग्रहों के होने पर केवल एक ही पत्नी होती है।"
+          "english": "Benefics ensure he has only one wife.",
+          "hindi": "शुभ ग्रहों के होने पर केवल एक ही पत्नी होती है।",
+          "status": "translated"
         },
         {
-          "number": "२२",
+          "number": 22,
           "text": "लग्नादष्टमे राहुकेत्वोः फलं\nअतिरोगी द्वत्रिंशद्वर्षायुष्मान",
-          "english_meaning": "Rahu or Ketu in the eighth house: The native is very sickly with a 32-year lifespan.",
-          "hindi_meaning": "अष्टम भाव में राहु या केतु का फल: जातक बहुत रोगी और ३२ वर्ष की आयु वाला होता है।"
+          "english": "Rahu or Ketu in the eighth house: The native is very sickly with a 32-year lifespan.",
+          "hindi": "अष्टम भाव में राहु या केतु का फल: जातक बहुत रोगी और ३२ वर्ष की आयु वाला होता है।",
+          "status": "translated"
         },
         {
-          "number": "२३",
+          "number": 23,
           "text": "शुभयुते पञ्चचत्वारिंशद्वर्षे भावाधिपे बलयुते\n     स्वोच्चे षष्टिवर्षाणिवा जीवितम्",
-          "english_meaning": "Benefics extend life to 45 years; a strong 8th lord can extend it to 60 years.",
-          "hindi_meaning": "शुभ ग्रहों से ४५ वर्ष और बली अष्टमेश होने पर ६० वर्ष की आयु होती है।"
+          "english": "Benefics extend life to 45 years; a strong 8th lord can extend it to 60 years.",
+          "hindi": "शुभ ग्रहों से ४५ वर्ष और बली अष्टमेश होने पर ६० वर्ष की आयु होती है।",
+          "status": "translated"
         },
         {
-          "number": "२४",
+          "number": 24,
           "text": "लग्नान्नवमे राहुकेत्वोः फलं\nपुत्रहीनः शूद्रस्त्रीसम्भोगी सेवकः धर्महीनः",
-          "english_meaning": "Rahu or Ketu in the ninth house: The native will be childless, a servant, and lack righteousness.",
-          "hindi_meaning": "नवम भाव में राहु या केतु का फल: जातक पुत्रहीन, सेवक और धर्महीन होता है।"
+          "english": "Rahu or Ketu in the ninth house: The native will be childless, a servant, and lack righteousness.",
+          "hindi": "नवम भाव में राहु या केतु का फल: जातक पुत्रहीन, सेवक और धर्महीन होता है।",
+          "status": "translated"
         },
         {
-          "number": "२५",
+          "number": 25,
           "text": "लग्नाद्दशमे राहुकेत्वोः फलं\nवितन्तुसङ्गमः",
-          "english_meaning": "Rahu or Ketu in the tenth house: The native may associate with widows.",
-          "hindi_meaning": "दशम भाव में राहु या केतु का फल: जातक विधवा-गामी हो सकता है।"
+          "english": "Rahu or Ketu in the tenth house: The native may associate with widows.",
+          "hindi": "दशम भाव में राहु या केतु का फल: जातक विधवा-गामी हो सकता है।",
+          "status": "translated"
         },
         {
-          "number": "२६",
+          "number": 26,
           "text": "दुर्ग्रामवासः",
-          "english_meaning": "He will live in a bad village.",
-          "hindi_meaning": "वह दुष्ट ग्राम में निवास करने वाला होता है।"
+          "english": "He will live in a bad village.",
+          "hindi": "वह दुष्ट ग्राम में निवास करने वाला होता है।",
+          "status": "translated"
         },
         {
-          "number": "२७",
+          "number": 27,
           "text": "शुभयुते न दोषः",
-          "english_meaning": "If associated with benefics, these defects do not occur.",
-          "hindi_meaning": "यदि शुभ ग्रहों से युक्त हो, तो ये दोष नहीं होते।"
+          "english": "If associated with benefics, these defects do not occur.",
+          "hindi": "यदि शुभ ग्रहों से युक्त हो, तो ये दोष नहीं होते।",
+          "status": "translated"
         },
         {
-          "number": "२८",
+          "number": 28,
           "text": "काव्यव्यसनः",
-          "english_meaning": "He will be deeply interested in poetry.",
-          "hindi_meaning": "वह काव्य और साहित्य प्रेमी होता है।"
+          "english": "He will be deeply interested in poetry.",
+          "hindi": "वह काव्य और साहित्य प्रेमी होता है।",
+          "status": "translated"
         },
         {
-          "number": "२९",
+          "number": 29,
           "text": "लग्नादेकादशे राहुकेत्वोः फलं\nपुत्रैः समृध्दः",
-          "english_meaning": "Rahu or Ketu in the eleventh house: The native will be blessed with many sons.",
-          "hindi_meaning": "एकादश भाव में राहु या केतु का फल: जातक पुत्रों से समृद्ध होता है।"
+          "english": "Rahu or Ketu in the eleventh house: The native will be blessed with many sons.",
+          "hindi": "एकादश भाव में राहु या केतु का फल: जातक पुत्रों से समृद्ध होता है।",
+          "status": "translated"
         },
         {
-          "number": "३०",
+          "number": 30,
           "text": "धनधान्य समृध्दः",
-          "english_meaning": "He will have abundance of wealth and grains.",
-          "hindi_meaning": "वह धन-धान्य से समृद्ध होता है।"
+          "english": "He will have abundance of wealth and grains.",
+          "hindi": "वह धन-धान्य से समृद्ध होता है।",
+          "status": "translated"
         },
         {
-          "number": "३१",
+          "number": 31,
           "text": "लग्नाद्द्वादशे राहुकेत्वोः फलं\nअल्पपुत्रः",
-          "english_meaning": "Rahu or Ketu in the twelfth house: The native will have few sons.",
-          "hindi_meaning": "द्वादश भाव में राहु या केतु का फल: जातक के कम पुत्र होते हैं।"
+          "english": "Rahu or Ketu in the twelfth house: The native will have few sons.",
+          "hindi": "द्वादश भाव में राहु या केतु का फल: जातक के कम पुत्र होते हैं।",
+          "status": "translated"
         },
         {
-          "number": "३२",
+          "number": 32,
           "text": "नेत्ररोगी पापगतिः",
-          "english_meaning": "He will suffer from eye diseases and follow a sinful path.",
-          "hindi_meaning": "वह नेत्र रोगी होता है और पाप-पूर्ण मार्ग पर चलने वाला होता है।"
+          "english": "He will suffer from eye diseases and follow a sinful path.",
+          "hindi": "वह नेत्र रोगी होता है और पाप-पूर्ण मार्ग पर चलने वाला होता है।",
+          "status": "translated"
         }
       ]
     }

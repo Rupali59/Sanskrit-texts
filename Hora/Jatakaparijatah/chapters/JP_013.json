@@ -1,480 +1,567 @@
 {
-  "number": "१३",
-  "title": "अथ पञ्चमषष्ठभावफलाध्यायः",
-  "shlokas": [
-    {
-      "number": "१",
-      "text": "अथ पञ्चमभावफलम् ।\nपुत्रादेवमहीपपुत्रपितृधीपुण्यानि सज्चिन्तये-\nद्यात्रामस्तौतखर्कमभवनैर्दूराटनं रिष्फतः ।\nलग्नाद्वन्धुदिनेशतः पितृसुखं जीवात्मजस्थानतः\nपुत्रप्राप्तिरङ्गवित्तपसितैः स्त्रीसम्पदश्चिन्तयेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२",
-      "text": "अथ देवताविचारः ।\nलग्नादात्मनि पुंग्रहेक्षितयुते पुंदेवताराधनं\nयुग्मे शुक्रेनिशाकरेक्षितयुते स्त्रीदेवतामिच्छति ।\nभानौ भास्करमुख्यमिन्दुसितयोगौरी कुमारं कुजे\nविष्णुं चन्द्रसुते गुरौ शशिघरं रान्यादियोगे परान्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३",
-      "text": "लग्नाधिपस्यात्मपतौ सपत्ने तद्देवभक्तिः सुतनाशहेतुः ।\nसमानता साम्यतरे सुहृत्त्वे तद्देवताऽपारकृपामुपैति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४",
-      "text": "अथ राज्यविचारः ।\nराजस्थाने गुरुबुधसितैरीक्षिते संयुते वा\nतद्राशीशे बलवति नृपप्रीतिसम्पतिमेति ।\nपापाक्रान्ते विगतबलिनि स्वामिनि क्रूरभागे\nजातो विद्याविनयगुणधीराजसन्मानहीनः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५",
-      "text": "अथ जन्मविचारः ।\nलग्न यानपतौ सुखे तनुपतौ दृष्टेऽथवा खेचरैः\nसंयुक्ते तु चतुष्पदस्य जननं राहुध्वजाभ्यामजः ।\nगोजन्मार्यसितेन्दुभिश्च महिषी मन्देन दृष्टे युते\nजातः पादपुरःसरं तनुपतिमनि तनौ भोगिराट्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६",
-      "text": "वित्तास्तगौ पञ्चमयाननाथौ पापेक्षितौ पापसमन्वितौ वा ।\nपुंसस्त्रिभागे पुरुषग्रहेन्द्रे जाताः कपिक्रोडबिडालकाद्याः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७",
-      "text": "तस्मिन्दबुधेक्षिते तु जननं पिण्डाकृतिर्वाक्पतिः ।\nसाहिर्दुर्बलवीक्षितो यदि महीदेवान्वयो नीचकृत् ।\nएकस्था गुरुराहुभानुतनयाः शुक्रेन्दुपुत्रेक्षिताः\nशूद्रोऽपि द्विजतौल्यमेति निखिलां विद्यामुपैति द्विजः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "८",
-      "text": "अथ पुत्रविचारः ।\nलग्नात्पुत्रकलत्रभे शुभपतिप्राप्तेऽथवाऽलोकिते\nचन्द्राद्वा यदि सम्पदस्ति हि तयोर्ज्ञेयोऽन्यथा।सम्भवः ।\nपाथोनोदयगे रवौ रविसुते मीनस्थिते दारहा\nपुत्रस्थानगतश्व पुत्रमरणं पुत्रोऽवनेर्यच्छति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "९",
-      "text": "पुत्रस्यानपतौ तु वा नवमपे लग्नात्कलत्रेऽथवा\nयुग्मक्षिरे शशिशुक्रवीक्षितयुते पुत्रीजनो जायते ।\nपुंवर्गे पुरुषग्रहेक्षितयुते जातस्तु पुत्राधिको\nजीवात्पञ्चमराशितश्व तनयप्राप्तिं वदेद् दैरिकः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१०",
-      "text": "शुक्रेन्दुवर्गे सुतभे विलग्नाच्चुक्रेण चन्द्रेण युतेऽथ दृष्टे ।\nपापैरयुक्ते बहुपुत्रशाली शान्यारदृष्टे सति पुत्रहीनः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "११",
-      "text": "पौत्रप्राप्तिरङ्गभे सुतगृहात्सौम्यस्य राश्यंशके\nतन्नाथे शुभखेटवीक्षितयुते केन्द्रत्रिकोणेऽथवा ।\nस्वक्षेत्रोपगते तु पुत्रगृहपे जातोऽल्पपुत्रो भवेत्\nपुत्रेशांशपतिः स्वभाम्शकगतो यद्येकपुत्रं वदेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१४",
-      "text": "केन्द्रत्रिकोणगृहगः सुतपः शुभर्क्षे सौम्यान्वितो यदि सुतं समुपैति बाल्ये ।\nभोगीशयुक्तसुतराशिपभुक्तिजातः स्वल्पायुरति फणिभुक्तिभवश्विरायुः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१५",
-      "text": "पुत्रस्थानपवित्तपौ ग्तबलौ पापेक्षिते पुत्रभे\nजातोऽनेककलत्रवानपि सुताभावं समेति ध्रुवम् ।\nतज्जाया यदि पुत्रयोगजनिता सौम्येन वा पञ्चमात्\nषष्ठेशेन निरीक्षिते सुतवती जारेण सञ्ज्ञायते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१६",
-      "text": "पुत्रस्थाने तदीशे वा गुरौ वा शुभवीक्षिते ।\nशुभग्रहेण संयुक्ते पुत्रप्राप्तिर्न संशयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१७",
-      "text": "लग्नेशे पुत्रभावस्थे पुत्रेशे बलसंयुते ।\nपरिपूर्णबले जीवे पुत्रप्राप्तिर्न संशयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१८",
-      "text": "पुत्रस्थानगते जीवे परिपूर्णबलान्विते ।\nलग्नाधिपेन संदृष्टे पुत्रप्राप्तिर्न संशयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१९",
-      "text": "वैशेषिकांशके जीवे पुत्रेशे च तथास्थिते ।\nशुभनाथेन संदृष्टे पुत्रे तत्प्राप्तिमादिशेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२०",
-      "text": "दशमे शीतगुर्द्युने भृगुजः पापिनः सुखे ।\nतस्य सन्ततिविच्छेदो भवेष्यति न संशयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२१",
-      "text": "षष्ठाष्टमस्थो लग्नेशः पापयुक्तः सुताधिपः ।\nदृष्टो वा शत्रुनीचस्थैः पुत्रहानि वदेद् बुधः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२२",
-      "text": "लग्नसप्तमधर्मान्त्यराशिगाः पापखेचराः ।\nसपत्नराशिवर्गस्था वंशविच्छेदकारिणः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२३",
-      "text": "बन्ध्या वृद्धा कृशा बाला रोगिणी पुष्पवर्जिता ।\nकर्कशा स्थूलदेहा च नायोर्ऽष्टौ परिवर्जिताः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२४",
-      "text": "गुरुलग्नेशदारेशपुत्रस्थानाधिपेषु च ।\nसर्वेषु बलहीनेषु वक्तव्या त्वनपत्यता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२५",
-      "text": "पुत्रस्थानं गते पापे तदीशे नीचराशिगे ।\nशुभदृष्तिविहीने तु वक्तव्या त्वनपत्यता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२६",
-      "text": "गुरुलग्नहिमांशूनां पञ्चमस्थैरशोभनैः ।\nशुभदृम्योगरहितैर्वक्तव्या त्वानपत्यता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२७",
-      "text": "पुत्रस्थानगते पापे तदीशे पापमध्यगे ।\nसौम्यदृग्योगरहिते वक्तव्या त्वनपत्क्ता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२८",
-      "text": "पापमध्यगते जीवे पुत्रेशे बलवर्जिते ।\nसौम्यदृम्योगरहिते वक्तव्यम् त्वनपत्कता",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "२९",
-      "text": "पुत्रस्थाने बुधक्षेत्रे मन्दक्षेत्रेऽथवा यदि ।\nमान्दिमन्दयुते दृष्टे तदा दत्तादयः सुताः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३०",
-      "text": "मीनस्थोऽत्यल्पसन्तानश्वापस्थः कृच्छ्रसन्ततिः ।\nअसन्ततिः कुलीरस्थो जीवः कुम्भे न सन्तति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३१",
-      "text": "पुत्रस्थाने कुलिरे वा मीने कुम्भे शरसने ।\nस्थितो यदि सुराचार्थस्तत्फलं कुरुते नृणाम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३२",
-      "text": "पापग्रहेन संदृष्टे देवशापत्सुतक्षयः ।\nषष्टाधिपयुते दृष्टे विप्रशापत्मतक्षयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३३",
-      "text": "सुतेशे कुजसंयुक्ते रिपुनाधेन वीक्षिते ।\nशुभदृष्टिविहीने च रिपुदोषत्सुतक्षयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३४",
-      "text": "नवमे पापसंयुक्ते मन्दयुक्ते सुतधिपे ।\nत्रिकोणे मान्दिसंयुक्ते पितृदोषात्सुतक्षयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३५",
-      "text": "मातृस्थानगते पापे सुतेशे मन्दसंयुते ।\nव्ययनाशगते पापे मातृदोशात्सुतक्षयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३६",
-      "text": "राहु केतुयुते दृष्टे पञ्चमे बलवर्जिते ।\nतदीशे वा तथा प्राप्ते सर्पदोषात्सुतक्षयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३७",
-      "text": "गुरुपुत्रेशदारेशभूमिजाः संयुता यदि ।\nदुर्देवपीडया पुत्रीपुत्रनाशं वदेद् बुधः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३८",
-      "text": "पुत्रस्थानगतः कश्चित्परिपूर्णबलान्वितः ।\nअदृष्टः पुत्रनाथेन तदा दत्तादयः सुताः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "३९",
-      "text": "पापक्षेत्रेगते चन्द्रे पुत्रेशे धर्मराशिगे ।\nदत्तपुत्रस्य सम्प्राप्तिर्लग्नेशस्तु त्रिकोनगः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४०",
-      "text": "युग्मोदये पुत्रनाथश्चतुर्थस्थानगोऽपि वा ।\nमन्दाशकसमारूढो दत्तपुत्रो भविष्यति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४१",
-      "text": "युग्मांशे भानुजांशे वा पुतेशोऽर्केन्दुजान्वितः ।\nदत्तपुत्रस्य सम्प्राप्तिस्तस्मिन्योगे भविष्यति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४२",
-      "text": "मन्दांशे पुत्रराशीशः स्वराशौ गुरुभार्गवौ ।\nपूर्वं दत्तसुतप्राप्तिः पुनर्नार्याः पुनः सुतः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४३",
-      "text": "मन्दांशकस्थिताः खेटाः शुक्लपक्षबलाधिकाः ।\nगुरुर्यदि सुखस्थाने दत्तपुत्रेण सन्ततिः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४४",
-      "text": "विलग्नस्थे धरासूनौ निधनस्थे दिवाकरे ।\nसुखे वा शुभसंदृष्टे पुत्र कालान्तरे भवेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४५",
-      "text": "लग्ने दिनेशतनये रन्ध्रस्थानगते गुरौ ।\nपञ्चमे दुर्बले रिष्फे भौमे कालान्तरे सुतः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४६",
-      "text": "पुत्रान् पञ्चमभातृतीयभवनाद् भ्रातृन् कलत्रात् स्नियो\nदासीश्च क्षितिराशितः स्वभवनाद्दसांअश्च मित्राणि च ।\nयातांश्चैव नवांशकाज्ञ्च्छुभदृशा हत्वा तथा रोपयेद् ।\nव्योमव्योमकरैर्विभज्य तु भृताश्व पुत्रादयः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४७",
-      "text": "पुत्रं सोदरभं कलत्रमुदयं यानं च राशि विना\nतल्लिप्ताः शुभखेटदृग्बलहताः षष्ट्या विभक्ताः क्रमात् ।\nव्योमाकाशकराप्तपुत्रसहजस्त्रीदासदासीउहृत्-\nसङ्ख्याः पापनभोगदृग्बलभवाः पुत्रादिनाशप्रदाः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४८",
-      "text": "पुत्रस्थानपलग्नपस्फुटयुते राश्यंशकोणे गुरौ\nपुत्रातिः सचिवेन्द्रनस्फुटयुते राश्यंशसंख्याः सुताः ।\nधीधर्मावनिनायकस्फुटचयप्राप्रांशसंख्याऽथवः\nधीर्घमक्षितिगस्फुटैक्यभवने यातांशतुल्याः नुताः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "४९",
-      "text": "जीवाच्चन्द्रमसो विलग्नभवनात्पुत्रप्रदं पश्चमं\nतस्माद्धर्मगृहं च तत्पतिदशाभुक्तौ मुताप्तिं वदेत् ।\nपुत्रस्थानपकामपस्फुटयुते यत्तारका तद्दशा\nतत्खेटान्वितविक्षकग्रहदशाभुक्तिश्च पुत्रप्रदा",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५०",
-      "text": "पुत्रस्थानपकारकेक्षकयुता दुःस्थानपा दुर्बला\nदुःस्थास्तत्परिपालभूक्तिसमये पुत्रस्य नाशं वदेत् ।\nचत्वारो बलशालिनो यदि शुभास्तत्पाकभ्क्त्यन्तरे\nपुत्राप्तिं सुतसम्पदः प्रभुजनप्रीतिं च कुर्वन्ति ते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५१",
-      "text": "पुत्रेशकारकयुतेक्षकखेचराणां तत्कालजस्फुटयुतांशकराशियातौ ।\nवागीशभानुतनयौ यदि गोचरेण जातस्य पुत्रजनिमृत्युकरौ भवेताम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५२",
-      "text": "अथ पितृविचारः ।\nपितृस्थानेश्वरे सौम्ये कारके शुभसंयुते ।\nभावे वा शुभसंयुक्ते पितृसौख्यं विनिर्दिशेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५३",
-      "text": "पारावतादौ तन्नाथे कारके च तथा स्थिते ।\nस्वोच्चमित्रांशके वाऽपि पितृदीर्घयुरादिशेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५४",
-      "text": "क्रूरनीचांशकस्थे वा भावनाथे च कारके ।\nमन्दमान्द्यगुसंयुक्ते पितृदुःखं विनिर्दिशेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५५",
-      "text": "सौम्ये तदीश्वरे वाऽपि नीचमूढारिराशिगे ।\nक्रूरषष्ट्यंशके वाऽपि पितृदुःखं विनिर्दिशेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५६",
-      "text": "पित्रिकर्मगृहे जातः पितृतुल्यगुणान्वितः ।\nपितृजन्मतृतीयर्क्षे जातः पितृवशानुगः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५७",
-      "text": "पितृषष्ठाष्टमे जातः पितृशत्रुर्भविश्यति ।\nतद्भावपे विलग्नस्थे पितृश्रेष्ठो भवेत्सुतः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५८",
-      "text": "लग्नादायतपःस्थनाः शनिमहीपुत्रागवो मृत्युदा-\nस्तातस्यार्कजभूसुतौ निधनदौ बलस्य रन्ध्रास्थगौ ।\nमाने वा यदि पञ्चमे कुजरविच्छायाकुमारेन्दवः\nसद्यो मातुलतातबालजननीनाशं प्रकुर्वन्ति ते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "५९",
-      "text": "सबले पितृभावेशे लग्नेशेन्दुचतुर्थपाः ।\nदुर्बला यदि तन्मार्गर्भतो मरणं विदुः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६०",
-      "text": "नवमादष्टमाधीशो नवमात्खरपोऽथवा ।\nशनिर्वेधेषु यः क्रूरः संभवेत् पितृमृत्युदः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६१",
-      "text": "दिनेशस्थितराश्यंशप्राणितः कोणगे रवौ ।\nपितृमृत्युर्मातृमृत्युरिन्दुस्थांशर्क्षयोर्बलाट्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६२",
-      "text": "भानुस्थितांशपारूढनवांशद्वादशांशभम् ।\nगते चन्द्रे भवेन्मृत्युर्मातापित्रोर्यथाक्रमम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६३",
-      "text": "दुष्टस्थानगते भानौ सिंहान्त्यद्वादशांशके ।\nजातश्वेज्जननात्पूर्वं पितृमृत्युं प्रयच्छति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६४",
-      "text": "मार्तण्डे गुलिकस्फुटादपहृते राशित्रिकोणे शनौ\nरागं तज्जनकस्य देवसचिवे मृत्युस्तदंशोपगे ।\nआदित्ये यमकण्टकस्फुटयुते तद्राशिकोणे गुरौ\nरागं तद्भावनांशकेऽमरगुरौ तातस्य नाशं वदेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६५",
-      "text": "केन्द्रे चरेऽर्के चन्द्रे वा पितरौ न दहेत्सुतः ।\nकेन्द्रे द्विदेहगौ तौ चेन्मृत्युदाहौ द्विकालगौ",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६६",
-      "text": "अदृश्ययातौ पितृमातृनाथौ पित्रोर्मुखादर्शनदौ भवेताम् ।\nपुत्राधिपोऽडृशुअगृहोपगस्चेत्पुत्राननादर्शनदोऽन्त्यकाले",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६७",
-      "text": "अथ बुद्धिविचारः ।\nदुःस्थे बुद्धिस्थानपेऽदृश्यगे वा जातो मन्दप्रायबुद्धि समेति ।\nकेन्द्रे कोणे सौम्यवागिशयुक्ते वीर्योपेते बुद्धिमानिङ्गितज्ञः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६८",
-      "text": "त्रिकालज्ञो भवेज्जीवे स्वाम्शे मृद्वंशसंयुते ।\nगोपुराद्यंशके वाऽपि शुभंशे शुभवीक्षिते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "६९",
-      "text": "हृद्रोगी पञ्चमे पापे सपपे च रसातले ।\nक्रूरषष्त्यंशसंयुक्ते शुभदृग्योगवर्जिते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७०",
-      "text": "अथ पुण्यविचारः ।\nअन्नदानपरो नित्यं पञ्चमेशे शुभांशके ।\nशुभखेचरसंयुक्ते भूमिजे केन्द्रमाश्रिते",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७१",
-      "text": "इति पञ्चमभावफलानि ।\nअथ षष्थभावफलम् ।\nतत्रादौ रोगविचारः ।\nरोगारिव्यसनक्षतानि वसुधापुत्रारितश्चिन्तये-\nदुक्तं रोगकरं तदेव रिपुगे जीवे जितारिभवेत् ।\nधण्ढोऽरीशबुधौ विधुन्तुदयुतौ लग्नेशसम्बधिनौ\nलिङ्गस्यामयकृद् व्रणेन रुधिरः षष्ठे सलग्नाधिपः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७२",
-      "text": "पत्नी षण्ढत्त्रमेति क्षतभवन्गते कामपे सासुरेज्ये\nभौमे मन्देन दृष्टे रिपिभवनगते शत्रुभार्यमुपैति ।\nसौम्यैर्दृष्टे युते वा न भयमरिजनाच्छत्रुभे जन्मलग्नात्\nपापैः शत्रुक्षतादिव्रणभयविपुलं जायते लाञ्छनं वा",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७३",
-      "text": "षष्थे भास्वति लग्ननायकरिपौ नीचारिगे दुर्बले\nजातस्तन्पितृवर्गशसहितो लग्नेशामित्रग्रहे ।\nइष्टस्थानगते निजोच्चसुहृदां वर्गोपयाते सति\nज्ञातीनां बहुलं वदन्ति मुनयः शत्रुव्रणाभावभाक्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७४",
-      "text": "शत्रस्थानगतोऽरिनीचगृहगो वक्रं गतो वाऽस्तगो।-\nअनेकारातिजनो बहुक्षततदुः षष्थाधिपो वा तथा ।\nषष्ठस्थानगतेषु भात्करमुखध्योमातनेषु क्रमात्\nतत्तकारकखेटवर्गरिपुणा सम्पीढितः सन्ततम्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७५",
-      "text": "पापव्योमचरास्त्रयोऽरिपतितत्प्राप्तेक्षका दुर्बला-\nगोवित्तक्षयमामयं रिपुभयं कुर्वन्ति जन्मादितः ।\nते सर्वे बलशालिने यदि शुभा गोवित्तमश्वदिकं\nराजान्नं सकलोपदंशसहितं रोगारिनाशं वदेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७६",
-      "text": "तेषामम्बरचारिणामतिशुभौ केन्द्रत्रिकोणायगौ\nद्वावेतौ बलशालिनौ यदि लघुव्याध्यादिनाशं नृणाम् ।\nएकोऽपि प्रबलो यदि व्रणरिपुक्लेशादि किञ्चित् फलं\nयत्तत्कारकवर्गमूलमखिलं भोदं प्रमादं तु वा",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७७",
-      "text": "पापे लग्नगते सपत्नपयुते देहव्रणं देहिनां\nपुत्रस्थे पितृपुत्रयोः सुखगते मातुः कलत्रे स्नियाः ।\nधर्मस्थे सति मातुलस्य सहजे तस्यानुजस्य व्रणं\nलाभस्थे तु तदग्रजस्य निधने जातो गुदार्तो भवेत्",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७८",
-      "text": "भानुर्मूध्रि शशी मुखेऽवनिसुतः कण्ठे तु नाभेरध-\nश्चन्द्रः सूरिरनामयं प्रकुरुते नेत्राभयं भार्गवः ।\nमन्दो वातम्हिश्च केतुरुदरव्याधि बुधक्षेत्रगो\nलग्नेशः शशिजेन वीक्षितयुतो गुह्यव्रणं यच्छति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "७९",
-      "text": "लग्नाइयद्राशिगते फणीशे शुक्रेक्षिते तत्तनुचिह्नमेति ।\nमन्दाहियुक्ते रिपुराशिनाथे तुरङ्गपश्वादिभयं वदन्ति",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "८०",
-      "text": "पापग्रहेण संदृष्टे बलहीनेऽरिनायके ।\nपापान्तरगते वाऽपि शत्रुपीडा भविष्यति ।\nशत्रुस्थानाधिपे दुःस्थे नीचमूढारिराशिगे ।\nलग्नेशे बलसंयुक्ते शत्रुनाशं व्देद्बुधः",
-      "english_meaning": "",
-      "hindi_meaning": ""
-    },
-    {
-      "number": "१३",
-      "text": "षष्ठेशे गोपुरांशादौ दिवाकरनिरीक्षिते ।\nलग्नेशे बलसम्पूर्णे ज्ञातीनामुपकारकृत् ।\nइति श्रीनवग्रहपवा वैद्यनाथविरचिते\nजातकपारिजाते त्रयोदशोऽध्यायः",
-      "english_meaning": "",
-      "hindi_meaning": ""
+  "text_id": "jataka_parijata",
+  "title_sa": "जातकपारिजातः",
+  "title_en": "Jataka Parijata",
+  "category": "hora",
+  "chapters": [
+    {
+      "number": 13,
+      "title": "अथ पञ्चमषष्ठभावफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "अथ पञ्चमभावफलम् ।\nपुत्रादेवमहीपपुत्रपितृधीपुण्यानि सज्चिन्तये-\nद्यात्रामस्तौतखर्कमभवनैर्दूराटनं रिष्फतः ।\nलग्नाद्वन्धुदिनेशतः पितृसुखं जीवात्मजस्थानतः\nपुत्रप्राप्तिरङ्गवित्तपसितैः स्त्रीसम्पदश्चिन्तयेत्",
+          "english": "One should examine the 5th house for children, gods, the king's son, father, intelligence, and religious merit (Punya). Journeys and distant travel should be considered from the 7th, 10th, 4th, and 12th houses respectively. The father's happiness is seen from the Lagna, the 4th house, and the Sun. Progeny is determined from Jupiter and the 5th house, while wealth related to women is judged from the Lagna, the 2nd lord, and Venus.",
+          "hindi": "संतान, देवता, राजपुत्र, पिता, बुद्धि और पुण्य का विचार पांचवें भाव से करना चाहिए। यात्राओं और दूरस्थ भ्रमण का विचार क्रमशः ७वें, १०वें, ४थे और १२वें भावों से करना चाहिए। पिता का सुख लग्न, चतुर्थ भाव और सूर्य से देखा जाता है। संतान की प्राप्ति गुरु और पंचम भाव से, तथा स्त्रियों से संबंधित संपत्ति का विचार लग्न, द्वितीयेश और शुक्र से करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "अथ देवताविचारः ।\nलग्नादात्मनि पुंग्रहेक्षितयुते पुंदेवताराधनं\nयुग्मे शुक्रेनिशाकरेक्षितयुते स्त्रीदेवतामिच्छति ।\nभानौ भास्करमुख्यमिन्दुसितयोगौरी कुमारं कुजे\nविष्णुं चन्द्रसुते गुरौ शशिघरं रान्यादियोगे परान्",
+          "english": "If the 5th house from the Lagna is associated with or aspected by male planets, the person worships male deities. If associated with even signs and aspected by Venus or the Moon, worship of female deities is indicated. Specifically: Sun indicates Surya; Moon and Venus indicate Gauri; Mars indicates Kartikeya; Mercury indicates Vishnu; Jupiter indicates Shiva; and Saturn/Rahu indicate other (lower or fierce) deities.",
+          "hindi": "यदि लग्न से पंचम भाव पुरुष ग्रहों से युक्त या दृष्ट हो, तो व्यक्ति पुरुष देवताओं की आराधना करता है। यदि यह सम राशि में हो और शुक्र या चंद्रमा से दृष्ट हो, तो स्त्री देवताओं की उपासना होती है। विशेषतः: सूर्य से सूर्यदेव; चंद्र और शुक्र से गौरी; मंगल से कुमार (कार्तिकेय); बुध से विष्णु; गुरु से शिव; और शनि-राहु आदि से अन्य (तामसिक या क्षुद्र) देवताओं की उपासना समझनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "लग्नाधिपस्यात्मपतौ सपत्ने तद्देवभक्तिः सुतनाशहेतुः ।\nसमानता साम्यतरे सुहृत्त्वे तद्देवताऽपारकृपामुपैति",
+          "english": "If the lord of the 5th house is an enemy to the Lagna lord, devotion to that deity may cause the loss of children. If they are equals or friends, the deity bestows immense grace upon the native.",
+          "hindi": "यदि पंचमेश लग्नेश का शत्रु हो, तो उस देवता की भक्ति संतान के नाश का कारण बनती है। यदि वे दोनों सम हों या मित्र हों, तो वह देवता जातक पर अपार कृपा करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "अथ राज्यविचारः ।\nराजस्थाने गुरुबुधसितैरीक्षिते संयुते वा\nतद्राशीशे बलवति नृपप्रीतिसम्पतिमेति ।\nपापाक्रान्ते विगतबलिनि स्वामिनि क्रूरभागे\nजातो विद्याविनयगुणधीराजसन्मानहीनः",
+          "english": "If the 10th house (house of royalty/profession) is associated with or aspected by Jupiter, Mercury, or Venus, and its lord is strong, the person gains royal favor and wealth. Conversely, if it is occupied by malefic planets, its lord is weak or in a cruel Navamsha, the native is devoid of learning, humility, virtues, intelligence, and royal honors.",
+          "hindi": "यदि राज्य स्थान (१०वां भाव) गुरु, बुध या शुक्र से युक्त या दृष्ट हो और उसका स्वामी बलवान हो, तो व्यक्ति को राजा की कृपा और संपत्ति प्राप्त होती है। यदि यह भाव पाप ग्रहों से घिरा हो, इसका स्वामी निर्बल हो या क्रूर नवांश में हो, तो जातक विद्या, विनय, गुण, बुद्धि और राजकीय सम्मान से हीन होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "अथ जन्मविचारः ।\nलग्न यानपतौ सुखे तनुपतौ दृष्टेऽथवा खेचरैः\nसंयुक्ते तु चतुष्पदस्य जननं राहुध्वजाभ्यामजः ।\nगोजन्मार्यसितेन्दुभिश्च महिषी मन्देन दृष्टे युते\nजातः पादपुरःसरं तनुपतिमनि तनौ भोगिराट्",
+          "english": "If the Lagna lord is in the 4th house and the 4th lord is in the Lagna, or if they are aspected by or joined with specific planets, the birth of quadrupeds is indicated. Rahu and Ketu indicate goats; Mars, Venus, and Moon indicate cows; Saturn indicates buffaloes. If the Lagna lord is in the Lagna and associated with Rahu, birth of a serpent/reptile (or like one) is suggested.",
+          "hindi": "यदि लग्नेश चतुर्थ में और चतुर्थेश लग्न में हो, अथवा विशिष्ट ग्रहों से दृष्ट या युत हो, तो चौपायों का जन्म होता है। राहु और केतु बकरी; मंगल, शुक्र और चंद्र गाय; शनि भैंस के जन्म का संकेत देते हैं। यदि लग्नेश लग्न में हो और राहु से युक्त हो, तो सर्प के समान जन्म (या सर्प का जन्म) समझना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "वित्तास्तगौ पञ्चमयाननाथौ पापेक्षितौ पापसमन्वितौ वा ।\nपुंसस्त्रिभागे पुरुषग्रहेन्द्रे जाताः कपिक्रोडबिडालकाद्याः",
+          "english": "If the lords of the 5th and 4th houses are in the 2nd and 7th houses, aspected by or joined with malefic planets, and if the Moon is in a masculine Decanate (Drekkana) with masculine planets, creatures like monkeys, boars, or cats are born.",
+          "hindi": "यदि पंचमेश और चतुर्थेश द्वितीय और सप्तम भाव में हों, पाप ग्रहों से दृष्ट या युत हों, और चंद्रमा पुरुष ग्रहों के साथ पुरुष द्रेष्काण में हो, तो बंदर, सूअर, बिल्ली आदि प्राणियों का जन्म होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "तस्मिन्दबुधेक्षिते तु जननं पिण्डाकृतिर्वाक्पतिः ।\nसाहिर्दुर्बलवीक्षितो यदि महीदेवान्वयो नीचकृत् ।\nएकस्था गुरुराहुभानुतनयाः शुक्रेन्दुपुत्रेक्षिताः\nशूद्रोऽपि द्विजतौल्यमेति निखिलां विद्यामुपैति द्विजः",
+          "english": "If Mercury aspects the Lagna, the birth is lump-like; if Jupiter aspects, it is human-like. If the Lagna lord is weak and aspected by malefics, one born in a Brahmin family performs low deeds. If Jupiter, Rahu, and Saturn are in one house aspected by Venus and Mercury, even a Shudra attains equality with a Brahmin and gains all knowledge, while a Brahmin becomes exceptionally learned.",
+          "hindi": "यदि बुध लग्न को देखे तो जन्म पिण्डाकृति (अविकसित) होता है; यदि गुरु देखे तो मानव आकृति होती है। यदि लग्नेश निर्बल होकर पाप ग्रहों से दृष्ट हो, तो ब्राह्मण कुल में जन्मा व्यक्ति भी नीच कर्म करता है। यदि गुरु, राहु और शनि एक ही भाव में हों और शुक्र तथा बुध से दृष्ट हों, तो शूद्र भी ब्राह्मण के समान पद और पूर्ण विद्या प्राप्त करता है, और द्विज (ब्राह्मण) अत्यंत विद्वान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "अथ पुत्रविचारः ।\nलग्नात्पुत्रकलत्रभे शुभपतिप्राप्तेऽथवाऽलोकिते\nचन्द्राद्वा यदि सम्पदस्ति हि तयोर्ज्ञेयोऽन्यथा।सम्भवः ।\nपाथोनोदयगे रवौ रविसुते मीनस्थिते दारहा\nपुत्रस्थानगतश्व पुत्रमरणं पुत्रोऽवनेर्यच्छति",
+          "english": "If the 5th and 7th houses from the Lagna or the Moon are associated with or aspected by their respective lords or benefic planets, the birth of children is possible; otherwise, it is unlikely. If the Sun is in Virgo and Saturn is in Pisces, it destroys the wife. If Mars is in the 5th house, it causes the death of children.",
+          "hindi": "यदि लग्न या चंद्रमा से ५वें और ७वें भावों के स्वामी या शुभ ग्रह उन भावों में स्थित हों या उन्हें देखते हों, तो संतान प्राप्ति संभव है; अन्यथा नहीं। यदि कन्या राशि का सूर्य हो और मीन का शनि, तो वह पत्नी का नाशक होता है। यदि मंगल ५वें भाव में हो, तो वह संतान की मृत्यु का कारण बनता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "पुत्रस्यानपतौ तु वा नवमपे लग्नात्कलत्रेऽथवा\nयुग्मक्षिरे शशिशुक्रवीक्षितयुते पुत्रीजनो जायते ।\nपुंवर्गे पुरुषग्रहेक्षितयुते जातस्तु पुत्राधिको\nजीवात्पञ्चमराशितश्व तनयप्राप्तिं वदेद् दैरिकः",
+          "english": "If the lord of the 5th or 9th house, or the 7th house from the Lagna, is in an even sign and aspected by or joined with the Moon and Venus, female children are born. If they are in male divisions (Vargas) and aspected by male planets, more male children are born. Progeny should also be judged from the 5th house from Jupiter.",
+          "hindi": "यदि पंचमेश, नवमेश या लग्न से सप्तम भाव सम राशि में हो और चंद्र तथा शुक्र से दृष्ट या युत हो, तो पुत्रियों का जन्म होता है। यदि वे पुरुष वर्गों में हों और पुरुष ग्रहों से दृष्ट हों, तो पुत्रों की अधिकता होती है। संतान की प्राप्ति का विचार गुरु से पंचम स्थान से भी करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "शुक्रेन्दुवर्गे सुतभे विलग्नाच्चुक्रेण चन्द्रेण युतेऽथ दृष्टे ।\nपापैरयुक्ते बहुपुत्रशाली शान्यारदृष्टे सति पुत्रहीनः",
+          "english": "If the 5th house is in the Varga (division) of Venus or the Moon, and is joined with or aspected by Venus and the Moon without any malefic influence, the native has many children. However, if it is aspected by Saturn and Mars, the person is childless.",
+          "hindi": "यदि पंचम भाव शुक्र या चंद्र के वर्ग में हो, और शुक्र तथा चंद्र से युक्त या दृष्ट हो, साथ ही किसी पाप ग्रह का प्रभाव न हो, तो जातक के बहुत से पुत्र होते हैं। इसके विपरीत, यदि शनि और मंगल की दृष्टि हो, तो व्यक्ति संतानहीन होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "पौत्रप्राप्तिरङ्गभे सुतगृहात्सौम्यस्य राश्यंशके\nतन्नाथे शुभखेटवीक्षितयुते केन्द्रत्रिकोणेऽथवा ।\nस्वक्षेत्रोपगते तु पुत्रगृहपे जातोऽल्पपुत्रो भवेत्\nपुत्रेशांशपतिः स्वभाम्शकगतो यद्येकपुत्रं वदेत्",
+          "english": "Attainment of grandchildren is indicated if a benefic planet occupies the sign or Navamsha of the 5th house from the Lagna, and its lord is in a Kendra or Trikona, aspected by or joined with benefic planets. If the lord of the 5th house is in its own sign, the native has few children. If the lord of the Navamsha occupied by the 5th lord is in its own Navamsha, only one son is predicted.",
+          "hindi": "यदि लग्न से पंचम भाव के राश्यांश में शुभ ग्रह हो, और उसका स्वामी केंद्र या त्रिकोण में शुभ ग्रहों से युक्त या दृष्ट हो, तो पौत्र (पोते) की प्राप्ति होती है। यदि पंचमेश अपने ही क्षेत्र में हो, तो जातक के अल्प पुत्र होते हैं। यदि पंचमेश जिस नवांश में है उसका स्वामी अपने ही नवांश में हो, तो केवल एक पुत्र का विचार करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "केन्द्रत्रिकोणगृहगः सुतपः शुभर्क्षे सौम्यान्वितो यदि सुतं समुपैति बाल्ये ।\nभोगीशयुक्तसुतराशिपभुक्तिजातः स्वल्पायुरति फणिभुक्तिभवश्विरायुः",
+          "english": "If the 5th lord is in a Kendra or Trikona in a benefic sign and joined with benefic planets, the native attains a son in early life. A son born during the Bhukti of the lord of the 5th house who is associated with the lord of the 8th house (Bhogi-isha) is short-lived; however, one born during Rahu's Bhukti is long-lived.",
+          "hindi": "यदि पंचमेश केंद्र या त्रिकोण में शुभ राशि में होकर शुभ ग्रहों के साथ हो, तो जातक को युवावस्था में ही पुत्र प्राप्त होता है। अष्टमेश (भोगीश) से युक्त पंचमेश की भुक्ति में उत्पन्न पुत्र अल्पायु होता है, किंतु राहु (फणि) की भुक्ति में उत्पन्न पुत्र दीर्घायु होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "पुत्रस्थानपवित्तपौ ग्तबलौ पापेक्षिते पुत्रभे\nजातोऽनेककलत्रवानपि सुताभावं समेति ध्रुवम् ।\nतज्जाया यदि पुत्रयोगजनिता सौम्येन वा पञ्चमात्\nषष्ठेशेन निरीक्षिते सुतवती जारेण सञ्ज्ञायते",
+          "english": "If the lords of the 5th and 2nd houses are weak and the 5th house is aspected by malefic planets, the native remains childless despite having many wives. If the wife has a yoga for children but the 5th house is aspected by the 6th lord or a benefic, she may have children through another man (Jara-ja).",
+          "hindi": "यदि पंचमेश और द्वितीयेश निर्बल हों और पंचम भाव पाप ग्रहों से दृष्ट हो, तो व्यक्ति के कई पत्नियाँ होने पर भी निश्चित रूप से संतान नहीं होती। यदि उसकी पत्नी की कुंडली में संतान योग हो किंतु पंचम भाव षष्ठेश या किसी शुभ ग्रह से दृष्ट हो, तो वह पर-पुरुष (जार) से संतान प्राप्त करने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "पुत्रस्थाने तदीशे वा गुरौ वा शुभवीक्षिते ।\nशुभग्रहेण संयुक्ते पुत्रप्राप्तिर्न संशयः",
+          "english": "If the 5th house, its lord, or Jupiter is aspected by benefic planets or joined with a benefic planet, the attainment of a son is certain.",
+          "hindi": "यदि पंचम भाव, उसका स्वामी, या गुरु शुभ ग्रहों से दृष्ट हों अथवा शुभ ग्रह के साथ स्थित हों, तो निःसंदेह पुत्र की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "लग्नेशे पुत्रभावस्थे पुत्रेशे बलसंयुते ।\nपरिपूर्णबले जीवे पुत्रप्राप्तिर्न संशयः",
+          "english": "If the Lagna lord is in the 5th house, the 5th lord is strong, and Jupiter possesses full strength, there is no doubt about obtaining children.",
+          "hindi": "यदि लग्नेश पंचम भाव में हो, पंचमेश बलवान हो, और गुरु पूर्ण बली हो, तो निश्चित रूप से पुत्र रत्न की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "पुत्रस्थानगते जीवे परिपूर्णबलान्विते ।\nलग्नाधिपेन संदृष्टे पुत्रप्राप्तिर्न संशयः",
+          "english": "If Jupiter is in the 5th house with full strength and is aspected by the lord of the Lagna, the attainment of a son is certain.",
+          "hindi": "यदि गुरु पूर्ण बल के साथ पंचम भाव में स्थित हो और लग्नेश द्वारा देखा जाता हो, तो निःसंदेह संतान की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "वैशेषिकांशके जीवे पुत्रेशे च तथास्थिते ।\nशुभनाथेन संदृष्टे पुत्रे तत्प्राप्तिमादिशेत्",
+          "english": "If Jupiter and the lord of the 5th house are in Vaisheshikamsha and aspected by the lord of a benefic house, the birth of a son should be predicted.",
+          "hindi": "यदि गुरु और पंचमेश वैशेषिकांश में हों और शुभ भाव के स्वामी द्वारा दृष्ट हों, तो पुत्र की प्राप्ति कहनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "दशमे शीतगुर्द्युने भृगुजः पापिनः सुखे ।\nतस्य सन्ततिविच्छेदो भवेष्यति न संशयः",
+          "english": "If the Moon is in the 10th house, Venus in the 7th, and malefic planets are in the 4th, the native's lineage will certainly face discontinuity (extinction).",
+          "hindi": "यदि चंद्रमा दशम भाव में, शुक्र सप्तम में और पाप ग्रह चतुर्थ भाव में हों, तो जातक की संतति का विच्छेद (वंश का रुकना) निश्चित रूप से होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "षष्ठाष्टमस्थो लग्नेशः पापयुक्तः सुताधिपः ।\nदृष्टो वा शत्रुनीचस्थैः पुत्रहानि वदेद् बुधः",
+          "english": "Wise men say that if the Lagna lord is in the 6th or 8th house, the 5th lord is associated with malefic planets or aspected by planets in enemy or debilitated signs, it causes loss of children.",
+          "hindi": "विद्वानों का मत है कि यदि लग्नेश छठे या आठवें भाव में हो, पंचमेश पाप युक्त हो, अथवा शत्रु या नीच राशि के ग्रहों द्वारा देखा जाता हो, तो पुत्र की हानि होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "लग्नसप्तमधर्मान्त्यराशिगाः पापखेचराः ।\nसपत्नराशिवर्गस्था वंशविच्छेदकारिणः",
+          "english": "If malefic planets occupy the 1st, 7th, 9th, and 12th houses, and are in the Varga (divisions) of enemy signs, they cause the extinction of the lineage (Vamsha-viccheda).",
+          "hindi": "यदि लग्न, ७वें, ९वें और १२वें भावों में पाप ग्रह हों और वे शत्रु राशि के वर्गों में स्थित हों, तो वे वंश विच्छेद करने वाले होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "बन्ध्या वृद्धा कृशा बाला रोगिणी पुष्पवर्जिता ।\nकर्कशा स्थूलदेहा च नायोर्ऽष्टौ परिवर्जिताः",
+          "english": "Eight types of women should be avoided for the purpose of progeny: those who are barren (Bandhya), aged (Vriddha), emaciated (Krisha), very young (Baala), diseased (Rogini), devoid of menses (Pushpa-varjita), harsh/shrewish (Karkasha), or excessively obese (Sthula-deha).",
+          "hindi": "संतान प्राप्ति के लिए आठ प्रकार की स्त्रियों का त्याग करना चाहिए: जो बांझ हों, वृद्ध हों, अत्यंत दुर्बल हों, बहुत छोटी हों, रोगी हों, जिनका रजोधर्म न होता हो, जो स्वभाव से कर्कश हों, या जो बहुत अधिक मोटी हों।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "गुरुलग्नेशदारेशपुत्रस्थानाधिपेषु च ।\nसर्वेषु बलहीनेषु वक्तव्या त्वनपत्यता",
+          "english": "If Jupiter, the lord of the Lagna, the lord of the 7th house, and the lord of the 5th house are all devoid of strength, childlessness (Anapatyata) should be predicted.",
+          "hindi": "यदि गुरु, लग्नेश, सप्तमेश और पंचमेश - ये सभी बलहीन हों, तो जातक के संतान न होने (अनपत्यता) की भविष्यवाणी करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "पुत्रस्थानं गते पापे तदीशे नीचराशिगे ।\nशुभदृष्तिविहीने तु वक्तव्या त्वनपत्यता",
+          "english": "If a malefic planet is in the 5th house, its lord is in a debilitated sign, and there is no aspect from benefic planets, childlessness is indicated.",
+          "hindi": "यदि पंचम भाव में पाप ग्रह हो, पंचमेश नीच राशि में हो, और उस पर किसी शुभ ग्रह की दृष्टि न हो, तो संतानहीनता कहनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "गुरुलग्नहिमांशूनां पञ्चमस्थैरशोभनैः ।\nशुभदृम्योगरहितैर्वक्तव्या त्वानपत्यता",
+          "english": "If malefic planets occupy the 5th house from Jupiter, the Lagna, or the Moon, and are devoid of any benefic aspect or association, childlessness should be predicted.",
+          "hindi": "यदि गुरु, लग्न या चंद्रमा से पंचम स्थान में अशुभ ग्रह स्थित हों और वे किसी शुभ दृष्टि या योग से रहित हों, तो अनपत्यता (संतान का न होना) कहनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "पुत्रस्थानगते पापे तदीशे पापमध्यगे ।\nसौम्यदृग्योगरहिते वक्तव्या त्वनपत्क्ता",
+          "english": "If a malefic planet is in the 5th house, and its lord is hemmed between malefic planets (Papa-madhyagata) and devoid of any benefic influence, the native will be childless.",
+          "hindi": "यदि पंचम भाव में पाप ग्रह हो, और पंचमेश पाप ग्रहों के मध्य में (पापकर्तरी योग में) हो तथा शुभ ग्रहों के प्रभाव से रहित हो, तो जातक संतानहीन होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "पापमध्यगते जीवे पुत्रेशे बलवर्जिते ।\nसौम्यदृम्योगरहिते वक्तव्यम् त्वनपत्कता",
+          "english": "If Jupiter is hemmed between malefic planets, the 5th lord is devoid of strength, and there is no benefic aspect, childlessness is the result.",
+          "hindi": "यदि गुरु पाप ग्रहों के मध्य में हो, पंचमेश बलहीन हो और शुभ दृष्टि का अभाव हो, तो संतान का सुख प्राप्त नहीं होता।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "पुत्रस्थाने बुधक्षेत्रे मन्दक्षेत्रेऽथवा यदि ।\nमान्दिमन्दयुते दृष्टे तदा दत्तादयः सुताः",
+          "english": "If the 5th house falls in the sign of Mercury or Saturn, and is joined with or aspected by Mandi and Saturn, the native will have adopted children (Dattaka).",
+          "hindi": "यदि पंचम भाव बुध या शनि की राशि में हो, और वह मान्दि तथा शनि से युक्त या दृष्ट हो, तब दत्तक (गोद लिए हुए) आदि पुत्र होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "मीनस्थोऽत्यल्पसन्तानश्वापस्थः कृच्छ्रसन्ततिः ।\nअसन्ततिः कुलीरस्थो जीवः कुम्भे न सन्तति",
+          "english": "Jupiter in Pisces gives very few children; in Sagittarius, it gives children with difficulty; in Cancer, it indicates no progeny; and in Aquarius, there is also an absence of progeny.",
+          "hindi": "मीन राशि का गुरु अत्यंत कम संतान देता है; धनु में कठिनाई से संतान होती है; कर्क में संतान का अभाव रहता है और कुंभ राशि में भी संतान नहीं होती।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "पुत्रस्थाने कुलिरे वा मीने कुम्भे शरसने ।\nस्थितो यदि सुराचार्थस्तत्फलं कुरुते नृणाम्",
+          "english": "If Jupiter (Sura-acharya) is in the 5th house in Cancer, Pisces, Aquarius, or Sagittarius, it produces results as mentioned before (related to scarcity or difficulty of progeny).",
+          "hindi": "यदि देवगुरु बृहस्पति पंचम भाव में कर्क, मीन, कुंभ या धनु राशि में स्थित हों, तो वे मनुष्यों के लिए पूर्वोक्त फल (संतान की कमी या कठिनाई) ही प्रदान करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "पापग्रहेन संदृष्टे देवशापत्सुतक्षयः ।\nषष्टाधिपयुते दृष्टे विप्रशापत्मतक्षयः",
+          "english": "If the 5th house or its lord is aspected by malefic planets, loss of children occurs due to a curse from the gods (Deva-shapa). If associated with or aspected by the lord of the 6th house, it is due to the curse of a Brahmin (Vipra-shapa).",
+          "hindi": "यदि पंचम भाव या उसका स्वामी पाप ग्रहों से दृष्ट हो, तो देव-शाप के कारण संतान का नाश होता है। यदि वह छठे भाव के स्वामी से युक्त या दृष्ट हो, तो ब्राह्मण के शाप से संतान की हानि होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "सुतेशे कुजसंयुक्ते रिपुनाधेन वीक्षिते ।\nशुभदृष्टिविहीने च रिपुदोषत्सुतक्षयः",
+          "english": "If the 5th lord is joined with Mars, aspected by the lord of the 6th house, and is devoid of any benefic aspect, the loss of children occurs due to the influence of enemies (Ripu-dosha).",
+          "hindi": "यदि पंचमेश मंगल के साथ हो, छठे भाव के स्वामी द्वारा देखा जाता हो, और किसी शुभ दृष्टि से रहित हो, तो शत्रुओं के दोष (रिपु-दोष) के कारण संतान का नाश होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "नवमे पापसंयुक्ते मन्दयुक्ते सुतधिपे ।\nत्रिकोणे मान्दिसंयुक्ते पितृदोषात्सुतक्षयः",
+          "english": "If the 9th house is occupied by a malefic planet, the 5th lord is with Saturn, and Mandi is in a Trikona (1st, 5th, or 9th), the loss of children is due to the father's defects or curse (Pitri-dosha).",
+          "hindi": "यदि नवम भाव में पाप ग्रह हो, पंचमेश शनि के साथ हो, और त्रिकोण में मान्दि स्थित हो, तो पितृ-दोष के कारण संतान की हानि होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "मातृस्थानगते पापे सुतेशे मन्दसंयुते ।\nव्ययनाशगते पापे मातृदोशात्सुतक्षयः",
+          "english": "If a malefic planet is in the 4th house (mother's house), the 5th lord is with Saturn, and malefic planets are in the 12th and 8th houses, the loss of children is due to the mother's defects or curse (Matri-dosha).",
+          "hindi": "यदि चतुर्थ भाव (मातृ स्थान) में पाप ग्रह हो, पंचमेश शनि के साथ हो, और १२वें तथा ८वें भावों में पाप ग्रह हों, तो माता के दोष (मातृ-दोष) से संतान का नाश होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "राहु केतुयुते दृष्टे पञ्चमे बलवर्जिते ।\nतदीशे वा तथा प्राप्ते सर्पदोषात्सुतक्षयः",
+          "english": "If the 5th house is weak and associated with or aspected by Rahu and Ketu, or if its lord is similarly placed, the loss of children is due to the serpent's curse (Sarpa-dosha).",
+          "hindi": "यदि पंचम भाव निर्बल हो और राहु-केतु से युक्त या दृष्ट हो, अथवा उसका स्वामी इसी प्रकार प्रभावित हो, तो सर्प-दोष के कारण संतान की हानि होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "गुरुपुत्रेशदारेशभूमिजाः संयुता यदि ।\nदुर्देवपीडया पुत्रीपुत्रनाशं वदेद् बुधः",
+          "english": "If Jupiter, the lord of the 5th house, the lord of the 7th house, and Mars are joined together, wise men say it causes the loss of sons and daughters due to the affliction from evil deities (Durdeva-pida).",
+          "hindi": "यदि गुरु, पंचमेश, सप्तमेश और मंगल एक साथ स्थित हों, तो विद्वान कहते हैं कि दुर्देव (अशुभ शक्तियों) की पीड़ा के कारण पुत्रों और पुत्रियों का नाश होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "पुत्रस्थानगतः कश्चित्परिपूर्णबलान्वितः ।\nअदृष्टः पुत्रनाथेन तदा दत्तादयः सुताः",
+          "english": "If any planet is in the 5th house with full strength but is not aspected by the lord of the 5th house, the native will have adopted children (Dattaka).",
+          "hindi": "यदि कोई ग्रह पूर्ण बल के साथ पंचम भाव में स्थित हो, किंतु वह पंचमेश द्वारा न देखा जाता हो, तब जातक को गोद लिया हुआ (दत्तक) पुत्र प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "पापक्षेत्रेगते चन्द्रे पुत्रेशे धर्मराशिगे ।\nदत्तपुत्रस्य सम्प्राप्तिर्लग्नेशस्तु त्रिकोनगः",
+          "english": "If the Moon is in a malefic sign, the 5th lord is in the 9th house, and the Lagna lord is in a Trikona (1st, 5th, or 9th), the native attains an adopted son.",
+          "hindi": "यदि चंद्रमा पाप ग्रह की राशि में हो, पंचमेश नवम भाव में हो, और लग्नेश त्रिकोण में स्थित हो, तो जातक को दत्तक पुत्र की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "युग्मोदये पुत्रनाथश्चतुर्थस्थानगोऽपि वा ।\nमन्दाशकसमारूढो दत्तपुत्रो भविष्यति",
+          "english": "If a dual sign is rising (Gemini, Virgo, Sagittarius, or Pisces) and the 5th lord is in the 4th house and in the Navamsha of Saturn, the native will have an adopted son.",
+          "hindi": "यदि द्विस्वभाव लग्न हो, पंचमेश चतुर्थ भाव में स्थित हो और शनि के नवांश में हो, तो जातक का पुत्र दत्तक होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "युग्मांशे भानुजांशे वा पुतेशोऽर्केन्दुजान्वितः ।\nदत्तपुत्रस्य सम्प्राप्तिस्तस्मिन्योगे भविष्यति",
+          "english": "If the 5th lord is in a dual Navamsha or in the Navamsha of Saturn and is associated with Mercury, the native will certainly attain an adopted son.",
+          "hindi": "यदि पंचमेश द्विस्वभाव नवांश में या शनि के नवांश में हो और बुध (इन्दुज) के साथ स्थित हो, तो इस योग में दत्तक पुत्र की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "मन्दांशे पुत्रराशीशः स्वराशौ गुरुभार्गवौ ।\nपूर्वं दत्तसुतप्राप्तिः पुनर्नार्याः पुनः सुतः",
+          "english": "If the 5th lord is in Saturn's Navamsha, and Jupiter and Venus are in their own signs, the native first attains an adopted son and subsequently has a biological child through his wife.",
+          "hindi": "यदि पंचमेश शनि के नवांश में हो, और गुरु तथा शुक्र अपनी-अपनी राशियों में हों, तो पहले दत्तक पुत्र की प्राप्ति होती है और उसके बाद पत्नी से स्वयं की संतान होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "मन्दांशकस्थिताः खेटाः शुक्लपक्षबलाधिकाः ।\nगुरुर्यदि सुखस्थाने दत्तपुत्रेण सन्ततिः",
+          "english": "If planets located in Saturn's Navamsha are strong (especially during the bright half of the month) and Jupiter is in the 4th house, the native's lineage continues through an adopted son.",
+          "hindi": "यदि शनि के नवांश में स्थित ग्रह बलवान हों (विशेषकर शुक्ल पक्ष के) और गुरु चतुर्थ भाव में हो, तो जातक की संतति दत्तक पुत्र के माध्यम से आगे बढ़ती है।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "विलग्नस्थे धरासूनौ निधनस्थे दिवाकरे ।\nसुखे वा शुभसंदृष्टे पुत्र कालान्तरे भवेत्",
+          "english": "If Mars is in the Lagna, the Sun is in the 8th house, and the 4th house is aspected by benefic planets, a son is born after a long interval of time (Kalantara).",
+          "hindi": "यदि मंगल लग्न में हो, सूर्य आठवें भाव में हो, और चतुर्थ भाव शुभ ग्रहों से दृष्ट हो, तो काफी समय के अंतराल (कालान्तर) के बाद पुत्र की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "लग्ने दिनेशतनये रन्ध्रस्थानगते गुरौ ।\nपञ्चमे दुर्बले रिष्फे भौमे कालान्तरे सुतः",
+          "english": "If Saturn is in the Lagna, Jupiter is in the 8th house, the 5th house is weak, and Mars is in the 12th house, a son is born after a long period of time.",
+          "hindi": "यदि शनि लग्न में हो, गुरु आठवें भाव में हो, पंचम भाव निर्बल हो, और मंगल बारहवें भाव में हो, तो लम्बे समय के बाद पुत्र रत्न की प्राप्ति होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "पुत्रान् पञ्चमभातृतीयभवनाद् भ्रातृन् कलत्रात् स्नियो\nदासीश्च क्षितिराशितः स्वभवनाद्दसांअश्च मित्राणि च ।\nयातांश्चैव नवांशकाज्ञ्च्छुभदृशा हत्वा तथा रोपयेद् ।\nव्योमव्योमकरैर्विभज्य तु भृताश्व पुत्रादयः",
+          "english": "The number of children is determined from the 5th house; siblings from the 3rd; wives from the 7th; female servants from the sign of Mars; male servants from the 4th; and friends from their respective indicators. Multiply the expired Navamshas by the strength of benefic aspects and divide by specific factors to determine the actual number of children, etc.",
+          "hindi": "पंचम भाव से पुत्रों, तृतीय भाव से भाइयों, सप्तम से स्त्रियों, मंगल की राशि से दासियों, चतुर्थ भाव से दासों और अन्य से मित्रों की संख्या का विचार करें। व्यतीत नवांशों को शुभ ग्रहों के दृष्टि-बल से गुणा करके और विशिष्ट संख्या (१००) से विभाजित करके पुत्रों आदि की संख्या निश्चित करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": "पुत्रं सोदरभं कलत्रमुदयं यानं च राशि विना\nतल्लिप्ताः शुभखेटदृग्बलहताः षष्ट्या विभक्ताः क्रमात् ।\nव्योमाकाशकराप्तपुत्रसहजस्त्रीदासदासीउहृत्-\nसङ्ख्याः पापनभोगदृग्बलभवाः पुत्रादिनाशप्रदाः",
+          "english": "Excluding the sign, multiply the minutes (Liptas) of the houses related to children, siblings, wife, Lagna, and vehicles by the aspect strength of benefic planets, then divide by sixty. The resulting numbers indicate the count of children, siblings, etc. Conversely, the influence of malefic planets on these points indicates the number of losses or destructions.",
+          "hindi": "राशि को छोड़कर, पुत्र, भाई, स्त्री, लग्न और वाहन से संबंधित भावों की कलाओं (लिप्ता) को शुभ ग्रहों के दृष्टि-बल से गुणा करें और ६० से विभाजित करें। प्राप्त संख्या पुत्रों, भाइयों आदि की संख्या दर्शाती है। इसके विपरीत, इन पर पाप ग्रहों का दृष्टि-बल पुत्रों आदि के नाश की संख्या बताता है।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "पुत्रस्थानपलग्नपस्फुटयुते राश्यंशकोणे गुरौ\nपुत्रातिः सचिवेन्द्रनस्फुटयुते राश्यंशसंख्याः सुताः ।\nधीधर्मावनिनायकस्फुटचयप्राप्रांशसंख्याऽथवः\nधीर्घमक्षितिगस्फुटैक्यभवने यातांशतुल्याः नुताः",
+          "english": "Progeny results when Jupiter transits the Trikona (1st, 5th, or 9th) from the sum of the longitudes of the 5th lord and the Lagna lord. The number of children equals the number of Navamshas in the sum of the longitudes of Jupiter and the 5th lord, or similarly from other combined planetary points (Sphutas).",
+          "hindi": "पंचमेश और लग्नेश के स्पष्ट योग से जो राशि और नवांश प्राप्त हो, उसके त्रिकोण में जब गुरु गोचर करता है, तब संतान प्राप्ति होती है। गुरु और पंचमेश के योग के नवांशों की संख्या के बराबर पुत्र होते हैं, अथवा अन्य ग्रहों के स्पष्ट योगों (स्फुटों) के नवांशों के समान संख्या समझनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "जीवाच्चन्द्रमसो विलग्नभवनात्पुत्रप्रदं पश्चमं\nतस्माद्धर्मगृहं च तत्पतिदशाभुक्तौ मुताप्तिं वदेत् ।\nपुत्रस्थानपकामपस्फुटयुते यत्तारका तद्दशा\nतत्खेटान्वितविक्षकग्रहदशाभुक्तिश्च पुत्रप्रदा",
+          "english": "The 5th and 9th houses from Jupiter, the Moon, and the Lagna indicate children. The birth of a child occurs during the Dasha or Bhukti of their respective lords. Also, the Dasha of the Nakshatra indicated by the sum of the longitudes of the 5th and 7th lords, or the Dasha/Bhukti of planets associated with or aspecting them, bestows children.",
+          "hindi": "गुरु, चंद्रमा और लग्न से पंचम और नवम भाव संतान प्रदायक होते हैं। उनके स्वामियों की दशा-भुक्ति में संतान प्राप्ति कहनी चाहिए। इसके अतिरिक्त, पंचमेश और सप्तमेश के स्पष्ट योग से प्राप्त नक्षत्र की दशा, अथवा उनसे युक्त या दृष्ट ग्रहों की दशा-भुक्ति संतान सुख देती है।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "पुत्रस्थानपकारकेक्षकयुता दुःस्थानपा दुर्बला\nदुःस्थास्तत्परिपालभूक्तिसमये पुत्रस्य नाशं वदेत् ।\nचत्वारो बलशालिनो यदि शुभास्तत्पाकभ्क्त्यन्तरे\nपुत्राप्तिं सुतसम्पदः प्रभुजनप्रीतिं च कुर्वन्ति ते",
+          "english": "If the planets associated with the 5th house or its significator (Jupiter) are lords of dusthanas (6, 8, 12), weak, or in bad houses, they cause the death of children during their Bhukti. If the four factors (5th house, 5th lord, Jupiter, and Lagna lord) are strong and benefic, their Dasha-Bhukti brings children, wealth, and favor from superiors.",
+          "hindi": "यदि पंचम भाव या उसके कारक (गुरु) से संबंधित ग्रह दुस्थानों (६, ८, १२) के स्वामी हों, निर्बल हों या बुरे भावों में हों, तो वे अपनी भुक्ति में संतान का नाश करते हैं। यदि चारों कारक (पंचम भाव, पंचमेश, गुरु और लग्नेश) बलवान और शुभ हों, तो उनकी दशा-भुक्ति में संतान प्राप्ति, पुत्र सुख और उच्चाधिकारियों की कृपा प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 51,
+          "text": "पुत्रेशकारकयुतेक्षकखेचराणां तत्कालजस्फुटयुतांशकराशियातौ ।\nवागीशभानुतनयौ यदि गोचरेण जातस्य पुत्रजनिमृत्युकरौ भवेताम्",
+          "english": "When Jupiter and Saturn, in their transit (Go-chara), reach the sign or Navamsha indicated by the sum of the longitudes of the 5th lord, its significator, and the planets aspecting it, they cause the birth or death of children for the native respectively.",
+          "hindi": "जब गुरु और शनि गोचरवश उस राशि या नवांश में पहुँचते हैं जो पंचमेश, उसके कारक और उसे देखने वाले ग्रहों के स्पष्ट योग से प्राप्त होता है, तब वे जातक के लिए क्रमशः संतान के जन्म या मृत्यु का कारण बनते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 52,
+          "text": "अथ पितृविचारः ।\nपितृस्थानेश्वरे सौम्ये कारके शुभसंयुते ।\nभावे वा शुभसंयुक्ते पितृसौख्यं विनिर्दिशेत्",
+          "english": "Now, the analysis of the Father (Pitri Vichara): If the lord of the 9th house is a benefic, the significator of the father (Sun) is associated with benefics, or the 9th house itself is occupied by benefics, one should predict happiness and well-being for the father.",
+          "hindi": "अब पितृ विचार (पिता का विश्लेषण): यदि नवम भाव का स्वामी शुभ ग्रह हो, पिता का कारक (सूर्य) शुभ ग्रहों से युक्त हो, अथवा नवम भाव में शुभ ग्रह स्थित हों, तो पिता के सुख और कल्याण का निर्देश करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 53,
+          "text": "पारावतादौ तन्नाथे कारके च तथा स्थिते ।\nस्वोच्चमित्रांशके वाऽपि पितृदीर्घयुरादिशेत्",
+          "english": "If the lord of the 9th house and the significator (Sun) are in Paravata or other auspicious Shashtyamsas, or in their exaltation or friendly Navamshas, a long life for the father should be predicted.",
+          "hindi": "यदि नवमेश और कारक (सूर्य) पारावत आदि उत्तम षष्ठ्यंशों में हों, अथवा अपनी उच्च या मित्र राशि के नवांश में स्थित हों, तो पिता की दीर्घायु का फल कहना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 54,
+          "text": "क्रूरनीचांशकस्थे वा भावनाथे च कारके ।\nमन्दमान्द्यगुसंयुक्ते पितृदुःखं विनिर्दिशेत्",
+          "english": "If the lord of the 9th house and the significator are in malefic or debilitated Navamshas, or associated with Saturn, Gulika, or Mandi, one should predict suffering and distress for the father.",
+          "hindi": "यदि नवमेश और कारक (सूर्य) क्रूर या नीच नवांश में स्थित हों, अथवा शनि, गुलिक या मांदि से युक्त हों, तो पिता को दुःख और कष्ट होने का निर्देश करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 55,
+          "text": "सौम्ये तदीश्वरे वाऽपि नीचमूढारिराशिगे ।\nक्रूरषष्ट्यंशके वाऽपि पितृदुःखं विनिर्दिशेत्",
+          "english": "Even if the lord of the 9th house is a benefic, if it is in a debilitated, combust, or enemy sign, or in a malefic Shashtyamsa, it indicates distress for the father.",
+          "hindi": "यदि नवमेश शुभ ग्रह भी हो, किन्तु वह नीच, अस्त या शत्रु राशि में स्थित हो, अथवा क्रूर षष्ठ्यंश में हो, तो भी पिता को कष्ट प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 56,
+          "text": "पित्रिकर्मगृहे जातः पितृतुल्यगुणान्वितः ।\nपितृजन्मतृतीयर्क्षे जातः पितृवशानुगः",
+          "english": "A native born when the planets are in the house of the father's actions (9th/10th) possesses qualities similar to the father. One born in the 3rd sign from the father's birth sign remains obedient and under the influence of the father.",
+          "hindi": "पिता के कर्म स्थान (नवम या दशम) से संबंधित ग्रहों में जन्म लेने वाला जातक पिता के समान गुणों वाला होता है। पिता की जन्म राशि से तीसरी राशि में जन्म लेने वाला जातक पिता की आज्ञा मानने वाला और उनके प्रभाव में रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 57,
+          "text": "पितृषष्ठाष्टमे जातः पितृशत्रुर्भविश्यति ।\nतद्भावपे विलग्नस्थे पितृश्रेष्ठो भवेत्सुतः",
+          "english": "If a person is born in the 6th or 8th sign from the father's birth sign, he becomes an enemy to his father. If the lord of the 9th house is in the Lagna, the son surpasses the father in excellence.",
+          "hindi": "पिता की जन्म राशि से छठे या आठवें भाव में जन्म लेने वाला जातक अपने पिता का शत्रु होता है। यदि नवमेश लग्न में स्थित हो, तो पुत्र अपने पिता से भी श्रेष्ठ और गुणवान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 58,
+          "text": "लग्नादायतपःस्थनाः शनिमहीपुत्रागवो मृत्युदा-\nस्तातस्यार्कजभूसुतौ निधनदौ बलस्य रन्ध्रास्थगौ ।\nमाने वा यदि पञ्चमे कुजरविच्छायाकुमारेन्दवः\nसद्यो मातुलतातबालजननीनाशं प्रकुर्वन्ति ते",
+          "english": "If Saturn, Mars, and Rahu are in the 11th or 9th house from Lagna, they cause death to the father. If Saturn and Mars are in the 8th house from the Sun, they indicate the father's death. If Mars, Sun, Saturn, and Moon are in the 10th or 5th house, they cause immediate destruction of maternal uncle, father, child, or mother respectively.",
+          "hindi": "यदि लग्न से ११वें या ९वें भाव में शनि, मंगल और राहु हों, तो वे पिता के लिए मृत्युकारक होते हैं। यदि सूर्य से ८वें भाव में शनि और मंगल हों, तो वे पिता की मृत्यु का संकेत देते हैं। यदि १०वें या ५वें भाव में मंगल, सूर्य, शनि और चंद्रमा हों, तो वे क्रमशः मामा, पिता, बालक और माता का शीघ्र विनाश करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 59,
+          "text": "सबले पितृभावेशे लग्नेशेन्दुचतुर्थपाः ।\nदुर्बला यदि तन्मार्गर्भतो मरणं विदुः",
+          "english": "If the lord of the 9th house is strong, but the lords of the Lagna, the Moon sign, and the 4th house are weak, the native's death occurs through the path or means indicated by those weak planets.",
+          "hindi": "यदि नवमेश बलवान हो, किन्तु लग्नेश, चंद्र राशि का स्वामी और चतुर्थेश निर्बल हों, तो जातक की मृत्यु उन निर्बल ग्रहों द्वारा सूचित मार्ग या कारणों से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 60,
+          "text": "नवमादष्टमाधीशो नवमात्खरपोऽथवा ।\nशनिर्वेधेषु यः क्रूरः संभवेत् पितृमृत्युदः",
+          "english": "The lord of the 8th house from the 9th, or the planet becoming the Khara (22nd Drekkana) from the 9th, or Saturn if in malefic Vedha, becomes the cause of the father's death.",
+          "hindi": "नवम भाव से आठवें भाव का स्वामी, या नवम भाव से 'खर' (२२वां द्रेष्काण) होने वाला ग्रह, अथवा क्रूर वेध में स्थित शनि पिता की मृत्यु का कारण बनता है।",
+          "status": "translated"
+        },
+        {
+          "number": 61,
+          "text": "दिनेशस्थितराश्यंशप्राणितः कोणगे रवौ ।\nपितृमृत्युर्मातृमृत्युरिन्दुस्थांशर्क्षयोर्बलाट्",
+          "english": "When the Sun transits the Trikona from the sign or Navamsha occupied by the Sun at birth, it indicates the father's death. Similarly, the Moon's transit indicates the mother's death based on its birth position.",
+          "hindi": "जन्म के समय सूर्य जिस राशि या नवांश में हो, उसके त्रिकोण में जब सूर्य का गोचर होता है, तब पिता की मृत्यु होती है। इसी प्रकार, चंद्रमा की स्थिति के आधार पर माता की मृत्यु का विचार करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 62,
+          "text": "भानुस्थितांशपारूढनवांशद्वादशांशभम् ।\nगते चन्द्रे भवेन्मृत्युर्मातापित्रोर्यथाक्रमम्",
+          "english": "When the Moon transits the sign indicated by the Navamsha or Dwadashamsha occupied by the Sun's dispositor at birth, it indicates the death of the father. A similar method is applied for the mother using the Moon's dispositor.",
+          "hindi": "जन्म के समय सूर्य जिस नवांश या द्वादशांश में हो, उसके स्वामी की राशि में जब चंद्रमा का गोचर होता है, तब पिता की मृत्यु होती है। इसी प्रकार की विधि माता के लिए चंद्रमा के स्वामी के आधार पर अपनानी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 63,
+          "text": "दुष्टस्थानगते भानौ सिंहान्त्यद्वादशांशके ।\nजातश्वेज्जननात्पूर्वं पितृमृत्युं प्रयच्छति",
+          "english": "If the Sun is placed in an inauspicious house (6th, 8th, or 12th) and is in the last Dwadashamsha of Leo, the native's father is likely to have passed away before the birth of the child.",
+          "hindi": "यदि सूर्य किसी दुष्ट स्थान (६, ८, १२) में स्थित हो और सिंह राशि के अन्तिम द्वादशांश में हो, तो जातक के जन्म से पूर्व ही पिता की मृत्यु हो जाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 64,
+          "text": "मार्तण्डे गुलिकस्फुटादपहृते राशित्रिकोणे शनौ\nरागं तज्जनकस्य देवसचिवे मृत्युस्तदंशोपगे ।\nआदित्ये यमकण्टकस्फुटयुते तद्राशिकोणे गुरौ\nरागं तद्भावनांशकेऽमरगुरौ तातस्य नाशं वदेत्",
+          "english": "Calculations involving the Sun, Gulika, and Saturn's transit through Trikona signs from these points indicate the timing of the father's illness or death. Similarly, the association of the Sun with Yamakantaka and Jupiter's transit indicate the father's passing.",
+          "hindi": "सूर्य, गुलिक और शनि के गोचर (त्रिकोण राशियों में) के माध्यम से पिता की बीमारी या मृत्यु के समय का विचार किया जाता है। इसी प्रकार, सूर्य का यमकण्टक के साथ संबंध और गुरु का गोचर पिता के विनाश का संकेत देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 65,
+          "text": "केन्द्रे चरेऽर्के चन्द्रे वा पितरौ न दहेत्सुतः ।\nकेन्द्रे द्विदेहगौ तौ चेन्मृत्युदाहौ द्विकालगौ",
+          "english": "If the Sun or the Moon is in a movable sign within a Kendra, the son may not be able to perform the last rites of his parents. If they are in dual signs within a Kendra, death and cremation may occur at different times or places.",
+          "hindi": "यदि सूर्य या चंद्रमा केंद्र में चर राशि में हों, तो पुत्र अपने माता-पिता का दाह-संस्कार नहीं कर पाता है। यदि वे केंद्र में द्विस्वभाव राशि में हों, तो मृत्यु और दाह-संस्कार अलग-अलग समय या स्थानों पर होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 66,
+          "text": "अदृश्ययातौ पितृमातृनाथौ पित्रोर्मुखादर्शनदौ भवेताम् ।\nपुत्राधिपोऽडृशुअगृहोपगस्चेत्पुत्राननादर्शनदोऽन्त्यकाले",
+          "english": "If the lords of the houses of the father and mother are in the invisible half of the zodiac, the native may not see the faces of the parents at the time of their death. Similarly, if the lord of the 5th house is so placed, one may not see the son's face in one's final moments.",
+          "hindi": "यदि पिता और माता के भावों के स्वामी राशिचक्र के अदृश्य भाग में हों, तो जातक अंत समय में अपने माता-पिता का मुख नहीं देख पाता। इसी प्रकार यदि पंचमेश ऐसी स्थिति में हो, तो अंत समय में पुत्र का मुख देखना दुर्लभ होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 67,
+          "text": "अथ बुद्धिविचारः ।\nदुःस्थे बुद्धिस्थानपेऽदृश्यगे वा जातो मन्दप्रायबुद्धि समेति ।\nकेन्द्रे कोणे सौम्यवागिशयुक्ते वीर्योपेते बुद्धिमानिङ्गितज्ञः",
+          "english": "Now, the analysis of Intelligence (Buddhi Vichara): If the lord of the 5th house is in a bad house or in the invisible half, the native may have dull intelligence. If it is in a Kendra or Trikona, associated with Mercury or Jupiter and strong, the native is intelligent and perceptive.",
+          "hindi": "अब बुद्धि विचार: यदि पंचमेश दुष्ट स्थान में या अदृश्य भाग में हो, तो जातक मंदबुद्धि होता है। यदि वह केंद्र या त्रिकोण में बुध या गुरु से युक्त होकर बलवान हो, तो जातक बुद्धिमान और सूक्ष्म संकेतों को समझने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 68,
+          "text": "त्रिकालज्ञो भवेज्जीवे स्वाम्शे मृद्वंशसंयुते ।\nगोपुराद्यंशके वाऽपि शुभंशे शुभवीक्षिते",
+          "english": "The native becomes a knower of the three periods of time (past, present, future) if Jupiter is in its own Navamsha, associated with a soft Shashtyamsa, or in Gopura or other higher Vaisheshikanshas, or aspected by benefics.",
+          "hindi": "यदि गुरु अपने नवांश में, मृदु षष्ठ्यंश से युक्त, अथवा गोपुर आदि उत्तम वैशेषिकांशों में हो और शुभ ग्रहों से दृष्ट हो, तो जातक त्रिकालज्ञ (भूत, वर्तमान और भविष्य का ज्ञाता) होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 69,
+          "text": "हृद्रोगी पञ्चमे पापे सपपे च रसातले ।\nक्रूरषष्त्यंशसंयुक्ते शुभदृग्योगवर्जिते",
+          "english": "The native suffers from heart disease if there is a malefic in the 5th house, another malefic in the 4th house (Rasatala), and they are in cruel Shashtyamsas without the aspect or association of benefics.",
+          "hindi": "यदि पंचम भाव में पाप ग्रह हो, चतुर्थ भाव (रसातल) में भी पाप ग्रह हो, और वे क्रूर षष्ठ्यंश में स्थित होकर शुभ ग्रहों की दृष्टि या योग से रहित हों, तो जातक हृदयरोगी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 70,
+          "text": "अथ पुण्यविचारः ।\nअन्नदानपरो नित्यं पञ्चमेशे शुभांशके ।\nशुभखेचरसंयुक्ते भूमिजे केन्द्रमाश्रिते",
+          "english": "Now, the analysis of Virtue (Punya Vichara): The native is always devoted to the distribution of food (Annadana) if the 5th lord is in a benefic Navamsha, associated with a benefic planet, and Mars is placed in a Kendra.",
+          "hindi": "अब पुण्य विचार: यदि पंचमेश शुभ नवांश में हो, शुभ ग्रह से युक्त हो और मंगल केंद्र में स्थित हो, तो जातक सदैव अन्नदान करने में तत्पर रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 71,
+          "text": "इति पञ्चमभावफलानि ।\nअथ षष्थभावफलम् ।\nतत्रादौ रोगविचारः ।\nरोगारिव्यसनक्षतानि वसुधापुत्रारितश्चिन्तये-\nदुक्तं रोगकरं तदेव रिपुगे जीवे जितारिभवेत् ।\nधण्ढोऽरीशबुधौ विधुन्तुदयुतौ लग्नेशसम्बधिनौ\nलिङ्गस्यामयकृद् व्रणेन रुधिरः षष्ठे सलग्नाधिपः",
+          "english": "Conclusion of 5th house results. Now, the results of the 6th house. First, the analysis of Disease: Diseases, enemies, vices, and wounds are considered from Mars and the 6th house. If Jupiter is in the 6th, the native overcomes enemies. Certain combinations involving the 6th lord, Mercury, Rahu, and Lagnesha indicate specific ailments.",
+          "hindi": "इति पंचम भाव फल। अब छठे भाव का फल। सबसे पहले रोग विचार: रोग, शत्रु, व्यसन और घावों का विचार मंगल और छठे भाव से करना चाहिए। यदि गुरु छठे भाव में हो, तो जातक शत्रुओं पर विजय प्राप्त करता है। षष्ठेश, बुध, राहु और लग्नेश के विशेष योगों से विशिष्ट रोगों का संकेत मिलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 72,
+          "text": "पत्नी षण्ढत्त्रमेति क्षतभवन्गते कामपे सासुरेज्ये\nभौमे मन्देन दृष्टे रिपिभवनगते शत्रुभार्यमुपैति ।\nसौम्यैर्दृष्टे युते वा न भयमरिजनाच्छत्रुभे जन्मलग्नात्\nपापैः शत्रुक्षतादिव्रणभयविपुलं जायते लाञ्छनं वा",
+          "english": "If the lord of the 7th house (Kamapa) is with Venus in the 6th house (the house of wounds), the wife may become sterile or have defects. If Mars is aspected by Saturn and in the 6th, one may marry an enemy's wife. If benefics aspect the 6th, there is no fear from enemies, but malefics there indicate fear of wounds or significant scars.",
+          "hindi": "यदि सप्तमेश शुक्र के साथ छठे भाव (व्रण स्थान) में हो, तो पत्नी को विकार या बंध्यत्व प्राप्त हो सकता है। यदि मंगल शनि से दृष्ट होकर छठे भाव में हो, तो जातक शत्रु की पत्नी को प्राप्त करता है। यदि छठे भाव पर शुभ ग्रहों की दृष्टि हो, तो शत्रुओं से भय नहीं होता, किन्तु पाप ग्रहों की उपस्थिति घावों या बड़े निशानों का भय उत्पन्न करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 73,
+          "text": "षष्थे भास्वति लग्ननायकरिपौ नीचारिगे दुर्बले\nजातस्तन्पितृवर्गशसहितो लग्नेशामित्रग्रहे ।\nइष्टस्थानगते निजोच्चसुहृदां वर्गोपयाते सति\nज्ञातीनां बहुलं वदन्ति मुनयः शत्रुव्रणाभावभाक्",
+          "english": "If the Sun is in the 6th house and is an enemy to the lord of the Lagna, or is weak and in a debilitated sign, the native may suffer from paternal relatives. However, if it is in an auspicious house or in its own exaltation/friendly Varga, the sages say the native will have many kinsmen and remain free from enemies and wounds.",
+          "hindi": "यदि सूर्य छठे भाव में हो और लग्नेश का शत्रु हो, अथवा निर्बल और नीच राशि में हो, तो जातक को पितृ-वर्ग से कष्ट होता है। इसके विपरीत, यदि वह इष्ट स्थान में या अपनी उच्च/मित्र वर्ग में हो, तो मुनियों के अनुसार जातक के बहुत से संबंधी होते हैं और वह शत्रुओं तथा घावों के भय से मुक्त रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 74,
+          "text": "शत्रस्थानगतोऽरिनीचगृहगो वक्रं गतो वाऽस्तगो।-\nअनेकारातिजनो बहुक्षततदुः षष्थाधिपो वा तथा ।\nषष्ठस्थानगतेषु भात्करमुखध्योमातनेषु क्रमात्\nतत्तकारकखेटवर्गरिपुणा सम्पीढितः सन्ततम्",
+          "english": "If the 6th lord is in its debilitation, retrograde, or combust, the native will have many enemies and suffer from many wounds. When planets like the Sun are in the 6th house, the native is constantly troubled by enemies corresponding to the significations of those planets.",
+          "hindi": "यदि षष्ठेश अपनी नीच राशि में, वक्री या अस्त हो, तो जातक के अनेक शत्रु होते हैं और वह बहुत से घावों से पीड़ित रहता है। जब सूर्य आदि ग्रह छठे भाव में होते हैं, तो जातक उन ग्रहों के कारकात्व के अनुसार शत्रुओं से निरंतर पीड़ित रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 75,
+          "text": "पापव्योमचरास्त्रयोऽरिपतितत्प्राप्तेक्षका दुर्बला-\nगोवित्तक्षयमामयं रिपुभयं कुर्वन्ति जन्मादितः ।\nते सर्वे बलशालिने यदि शुभा गोवित्तमश्वदिकं\nराजान्नं सकलोपदंशसहितं रोगारिनाशं वदेत्",
+          "english": "If three malefic planets are associated with the 6th house or its lord and are weak, they cause loss of cattle, wealth, illness, and fear of enemies from birth. If they are strong and auspicious, they indicate acquisition of cattle, horses, wealth, and destruction of diseases and enemies.",
+          "hindi": "यदि तीन पाप ग्रह षष्ठेश से संबंधित हों और निर्बल हों, तो जन्म से ही पशु-धन और संपत्ति की हानि, रोग तथा शत्रुओं का भय रहता है। यदि वे बलवान और शुभ हों, तो पशु, अश्व, धन की प्राप्ति और रोगों तथा शत्रुओं का नाश होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 76,
+          "text": "तेषामम्बरचारिणामतिशुभौ केन्द्रत्रिकोणायगौ\nद्वावेतौ बलशालिनौ यदि लघुव्याध्यादिनाशं नृणाम् ।\nएकोऽपि प्रबलो यदि व्रणरिपुक्लेशादि किञ्चित् फलं\nयत्तत्कारकवर्गमूलमखिलं भोदं प्रमादं तु वा",
+          "english": "If the two most auspicious planets are in Kendra, Trikona, or the 11th house and are strong, they destroy minor diseases. If even one planet is strong, it reduces the distress from wounds and enemies, though some effects related to the planetary significations may remain.",
+          "hindi": "यदि अत्यंत शुभ ग्रह केंद्र, त्रिकोण या एकादश भाव में बलवान होकर स्थित हों, तो वे मनुष्यों के छोटे रोगों का नाश करते हैं। यदि एक भी ग्रह प्रबल हो, तो घावों और शत्रुओं से होने वाले क्लेशों में कमी आती है, हालांकि ग्रहों के कारकात्व के अनुसार कुछ फल अवश्य प्राप्त होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 77,
+          "text": "पापे लग्नगते सपत्नपयुते देहव्रणं देहिनां\nपुत्रस्थे पितृपुत्रयोः सुखगते मातुः कलत्रे स्नियाः ।\nधर्मस्थे सति मातुलस्य सहजे तस्यानुजस्य व्रणं\nलाभस्थे तु तदग्रजस्य निधने जातो गुदार्तो भवेत्",
+          "english": "If a malefic is in the Lagna along with the 6th lord, the native has wounds on the body. If in the 5th, the father/son suffer; if in the 4th, the mother; if in the 7th, the wife. In the 9th, the maternal uncle; in the 3rd, the younger sibling; in the 11th, the elder sibling; and in the 8th, the native suffers from rectal diseases.",
+          "hindi": "यदि लग्नेश के साथ षष्ठेश लग्न में हो, तो जातक के शरीर पर घाव होते हैं। यदि पंचम में हो, तो पिता-पुत्र को; चतुर्थ में हो, तो माता को; सप्तम में हो, तो पत्नी को कष्ट होता है। नवम में होने पर मामा को; तृतीय में छोटे भाई को; एकादश में बड़े भाई को और अष्टम में होने पर जातक को गुदा संबंधी रोग होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 78,
+          "text": "भानुर्मूध्रि शशी मुखेऽवनिसुतः कण्ठे तु नाभेरध-\nश्चन्द्रः सूरिरनामयं प्रकुरुते नेत्राभयं भार्गवः ।\nमन्दो वातम्हिश्च केतुरुदरव्याधि बुधक्षेत्रगो\nलग्नेशः शशिजेन वीक्षितयुतो गुह्यव्रणं यच्छति",
+          "english": "The Sun indicates diseases in the head, the Moon in the face, Mars in the throat, and Jupiter below the navel. Venus protects the eyes. Saturn causes windy diseases, Ketu abdominal issues, and the Lagna lord with Mercury indicates secret diseases/wounds.",
+          "hindi": "सूर्य सिर के रोगों का, चंद्रमा मुख का, मंगल कंठ का और गुरु नाभि के नीचे के रोगों का संकेत देता है। शुक्र नेत्रों की रक्षा करता है। शनि वात रोग, केतु पेट की बीमारी और बुध के साथ लग्नेश गुप्त अंगों में घाव या रोग उत्पन्न करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 79,
+          "text": "लग्नाइयद्राशिगते फणीशे शुक्रेक्षिते तत्तनुचिह्नमेति ।\nमन्दाहियुक्ते रिपुराशिनाथे तुरङ्गपश्वादिभयं वदन्ति",
+          "english": "If Rahu is in any house and aspected by Venus, it leaves a mark on the corresponding part of the body. If the 6th lord is with Saturn and Rahu, it signifies fear from horses, cattle, and other animals.",
+          "hindi": "यदि राहु किसी भी भाव में हो और शुक्र से दृष्ट हो, तो शरीर के उस संबंधित भाग पर कोई चिह्न (लांछन) होता है। यदि षष्ठेश शनि और राहु के साथ हो, तो घोड़ों, पशुओं आदि से भय कहा जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 80,
+          "text": "पापग्रहेण संदृष्टे बलहीनेऽरिनायके ।\nपापान्तरगते वाऽपि शत्रुपीडा भविष्यति ।\nशत्रुस्थानाधिपे दुःस्थे नीचमूढारिराशिगे ।\nलग्नेशे बलसंयुक्ते शत्रुनाशं व्देद्बुधः",
+          "english": "If the 6th lord is weak, aspected by malefics, or hemmed between malefics, the native suffers from enemies. If the 6th lord is in a bad house, debilitated, or combust, while the Lagna lord is strong, the wise predict the destruction of enemies.",
+          "hindi": "यदि षष्ठेश निर्बल हो, पाप ग्रहों से दृष्ट हो या पाप-कर्तरी योग में हो, तो जातक को शत्रुओं से पीड़ा होती है। यदि षष्ठेश दुष्ट स्थान में, नीच या अस्त हो, और लग्नेश बलवान हो, तो विद्वान शत्रुओं के नाश की भविष्यवाणी करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "षष्ठेशे गोपुरांशादौ दिवाकरनिरीक्षिते ।\nलग्नेशे बलसम्पूर्णे ज्ञातीनामुपकारकृत् ।\nइति श्रीनवग्रहपवा वैद्यनाथविरचिते\nजातकपारिजाते त्रयोदशोऽध्यायः",
+          "english": "If the 6th lord is in Gopuramsha or other higher divisions and is aspected by the Sun, while the Lagna lord is fully strong, the native is a benefactor to his kinsmen. Thus ends the thirteenth chapter of Jataka Parijata composed by Vaidyanatha.",
+          "hindi": "यदि षष्ठेश गोपुरांश आदि में हो और सूर्य से दृष्ट हो, तथा लग्नेश पूर्ण रूप से बलवान हो, तो जातक अपने संबंधियों का उपकार करने वाला होता है। इस प्रकार श्री वैद्यनाथ द्वारा विरचित जातक पारिजात का तेरहवां अध्याय समाप्त होता है।",
+          "status": "translated"
+        }
+      ]
     }
   ]
 }
