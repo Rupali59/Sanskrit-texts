@@ -24,3 +24,8 @@ Convention: `../../docs/STATE_MANAGEMENT.md`. Never edit past entries; supersede
 **What:** Adopted the missing pieces of the 2026-06-19 workspace sweep that bypassed this repo: added `docs/plans/README.md` (project-plan convention), and corrected `.gitignore` — the prior content was a malformed `docs/` ignore line that hid the tracked `docs/` tree (same defect Astroclarity fixed in its T13 follow-up). New `.gitignore` ignores `.DS_Store`, `__pycache__/`, `*.py[cod]`, and `.code-review-graph/`. Per-project hygiene hooks (T33) remain **not installed** here — deferred, infra-only.
 **Why:** Keep all six siblings on one shape so a workspace sweep over `*/STATE.md` and `*/docs/plans/` returns coherent results. The malformed `.gitignore` contradicted `CLAUDE.md`'s claim that "`docs/` is tracked here."
 **Affects:** sanskrit-texts
+
+## 2026-06-20: T33 per-project hygiene hooks installed (supersedes prior "deferred")
+**What:** Wired the T33 hooks — `.githooks/{pre-commit,post-commit}` (5-line dispatchers resolving the workspace via `~/.gstack/workspace-root`) + `scripts/install-hooks.sh` (sets `core.hooksPath=.githooks` per-clone). Registered `"sanskrit-texts" = "main"` in workspace `docs/CONTEXT-BUDGET.md [active_lines]`. Supersedes the "remain not installed — deferred, infra-only" note in the entry above.
+**Why:** 6th-sibling parity. The hooks are type-agnostic (size-caps + state-shape check line counts / file presence, not build structure), so the no-build data corpus runs them identically to the Node/Python siblings. dep-audit skips this repo (no `package.json`).
+**Affects:** sanskrit-texts, workspace
