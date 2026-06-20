@@ -43,8 +43,8 @@ Scope confirmed 2026-06-20 (see `docs/DECISIONS.md`). Each is a `README.md` stub
 ### Removed from corpus (2026-06-20)
 
 - **ThreeHundredImportantCombinationsRaman** — excluded entirely. B.V. Raman's 20th-c. **English** work (raw OCR only, no Devanagari shlokas) — outside this corpus's purpose. `git rm`'d; recoverable from history if ever needed.
-- **SamudrikShastra** (Hastamuktavali, SamudrikaTilaka) — `git rm`'d from this corpus; ownership moved to **Youvan Prakashan** (palmistry/physiognomy → Tantra split, 2026-05-04). README metadata preserved in git history.
-  - **⏳ Pending (Youvan side):** scaffold under `Tushar/Youvan`. Blocker — Youvan is a Next.js **website**, not a text corpus; nearest home is the existing `app/concepts/palmistry/` page, and the repo currently has uncommitted work. Needs a decision on form (concept-page content vs. a new corpus structure) before scaffolding. Not owned by this repo.
+- **SamudrikShastra** (Hastamuktavali, SamudrikaTilaka) — `git rm`'d from this corpus; ownership moved to **Youvan Prakashan** (palmistry/physiognomy → Tantra split, 2026-05-04).
+  - **✅ Relocated:** now a separate corpus folder at `Tushar/Youvan/sanskrit-texts/SamudrikShastra/` (commit `56d9b4f`), kept apart from the Youvan website app; README metadata preserved verbatim, same uniform schema when digitized. Not owned by this repo going forward.
 
 ### P2 — Translation injection (from TODO.md)
 
