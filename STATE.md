@@ -33,9 +33,16 @@ Throwaway processing scripts + temp artifacts were deleted; raw OCR intermediate
 
 ## Pending (by priority)
 
-### P1 — Digitization (from TODO.md)
+### P1 — Digitization backlog (README-only stubs, not yet digitized)
 
-- None pending.
+Scope candidates, not committed work — confirm intent before starting. Each is currently a `README.md` stub (or raw text) awaiting a digitized + translated `.json` under the uniform schema.
+
+- **Hora:** Saravali, SarvarthaChintamani, PrashnaMarga, JatakaTattvam
+- **Hora (raw text on disk, not yet JSON):** ThreeHundredImportantCombinationsRaman (`Three-Hundred-Important-Combinations.txt`)
+- **Siddhanta:** Aryabhatiya, BrahmasphutaSiddhanta, Panchasiddhantika, SiddhantaShiromani, SuryaSiddhanta
+- **SamudrikShastra:** Hastamuktavali, SamudrikaTilaka
+
+Note: per parent workspace decision (2026-05-04), AstroAcharya owns all Jyotish source texts; Tantra/Mantra/Philosophy belong to Youvan Prakashan. Confirm a candidate is in-scope for this corpus before digitizing.
 
 ### P2 — Translation injection (from TODO.md)
 
