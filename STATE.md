@@ -33,16 +33,20 @@ Throwaway processing scripts + temp artifacts were deleted; raw OCR intermediate
 
 ## Pending (by priority)
 
-### P1 — Digitization backlog (README-only stubs, not yet digitized)
+### P1 — Digitization backlog (in-scope, README-only stubs)
 
-Scope candidates, not committed work — confirm intent before starting. Each is currently a `README.md` stub (or raw text) awaiting a digitized + translated `.json` under the uniform schema.
+Scope confirmed 2026-06-20 (see `docs/DECISIONS.md`). Each is a `README.md` stub awaiting a digitized + translated `.json` under the uniform schema. Source links live in each stub's README / the `Siddhanta/README.md` parent.
 
-- **Hora:** Saravali, SarvarthaChintamani, PrashnaMarga, JatakaTattvam
-- **Hora (raw text on disk, not yet JSON):** ThreeHundredImportantCombinationsRaman (`Three-Hundred-Important-Combinations.txt`)
-- **Siddhanta:** Aryabhatiya, BrahmasphutaSiddhanta, Panchasiddhantika, SiddhantaShiromani, SuryaSiddhanta
-- **SamudrikShastra:** Hastamuktavali, SamudrikaTilaka
+- **Hora (classical Sanskrit):** Saravali (Kalyanavarma, ~4000 vv), Sarvartha Chintamani (Venkatesa Sharma), Prashna Marga (Kerala horary), Jataka Tattvam
+- **Siddhanta (mathematical astronomy):** Surya Siddhanta, Aryabhatiya, Brahmasphuta Siddhanta, Siddhanta Shiromani, Panchasiddhantika — all 113-byte placeholder stubs; technical content, so the en/hi layer differs from Hora prediction shlokas
 
-Note: per parent workspace decision (2026-05-04), AstroAcharya owns all Jyotish source texts; Tantra/Mantra/Philosophy belong to Youvan Prakashan. Confirm a candidate is in-scope for this corpus before digitizing.
+### P1 — Scope-flagged (needs a call before any work)
+
+- **ThreeHundredImportantCombinationsRaman** — B.V. Raman, 20th-c. **English** work; 56 KB raw OCR txt on disk (garbled), no Devanagari shlokas → **does not fit the uniform schema.** Decide: exclude entirely, or keep as a non-schema reference. Not digitizable as-is.
+
+### Out of scope (relocated 2026-06-20)
+
+- **SamudrikShastra → Youvan Prakashan** (Tantra/Mantra/Philosophy ownership, per 2026-05-04 split). Hastamuktavali + SamudrikaTilaka stubs to be removed from this corpus and recreated under Youvan. **Pending:** physical removal of `SamudrikShastra/` from this repo.
 
 ### P2 — Translation injection (from TODO.md)
 
