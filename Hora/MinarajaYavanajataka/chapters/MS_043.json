@@ -1,0 +1,504 @@
+{
+  "text_id": "minaraja_yavana_jataka",
+  "title_sa": "यवनजातकम्",
+  "title_en": "Minaraja Yavana Jataka",
+  "category": "hora",
+  "chapters": [
+    {
+      "number": 43,
+      "title": "सुखाश्रयोगाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "नरं विधत्ते सुखसौरूयहीनम्‌ ¦\nविपत्नशीर परतर्कके च\nप्रभावहीनं गतसत्यशौ चम्‌ ।\nव्यपेतलञ्ज मय विहृरु च",
+          "english": "The Sun in the fourth house makes a person devoid of happiness and comfort, fallen in conduct or afflicted by misfortunes, arguing with others, lacking influence, truthfulness, and purity, shameless, and overwhelmed by fear.",
+          "hindi": "चतुर्थ भाव में सूर्य मनुष्य को सुख और आराम से हीन, विपत्तिग्रस्त या चरित्रहीन, दूसरों से व्यर्थ तर्क करने वाला, प्रभावहीन, सत्य और पवित्रता से रहित, निर्लज्ज और भय से व्याकुल बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "सोम्यान्वितम्तीक्ष्णकरश्तुर्भ\nनरं सुवाते कफपीडिताङ्गम्‌ ।\nस्वल्पासज मूरिपगभिभूतं\nखर्र द्ेषरतं सैव",
+          "english": "The Sun conjoined with Mercury in the fourth house produces a person whose body is afflicted by phlegm (kapha), who has low vitality/blood, is overcome by many diseases, and is harsh and always prone to hatred.",
+          "hindi": "चतुर्थ भाव में बुध से युक्त सूर्य ऐसे मनुष्य को उत्पन्न करता है जिसका शरीर कफ से पीड़ित होता है, जो अल्प रक्त/तेज वाला होता है, अनेक रोगों से घिरा रहता है, और कठोर स्वभाव का तथा सदैव द्वेष करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "जीवन्वितस्तीक्ष्णकरः सुखम्धो\nनरं प्रसूते मलिनिम्बभावम्‌ ।\nविहीनवित्त कृतकस्वभावं\nपित्ताधिकं कोपसमन्वितं च",
+          "english": "The Sun conjoined with Jupiter in the fourth house produces a person of impure/dirty nature, devoid of wealth, of a deceitful or artificial temperament, with an excess of bile (pitta), and filled with anger.",
+          "hindi": "चतुर्थ भाव में बृहस्पति से युक्त सूर्य ऐसे मनुष्य को उत्पन्न करता है जो मलिन स्वभाव का, धनहीन, बनावटी (कृत्रिम) आचरण वाला, पित्त की अधिकता से युक्त और अत्यधिक क्रोधी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शुक्रानितस्तीक्षणकरः सुखभ्थो\nनरं प्रसूते बहुपानसक्तम्‌ 1\nबाधाधिकं छक्षतरं वृशसं\nबहाशनं लोल्यसमन्वितं च ॥ “",
+          "english": "The Sun conjoined with Venus in the fourth house produces a person highly addicted to drinking, facing many obstacles, very emaciated/injured, eating excessively, and filled with greed.",
+          "hindi": "चतुर्थ भाव में शुक्र से युक्त सूर्य ऐसे मनुष्य को उत्पन्न करता है जो मदिरापान में अत्यधिक आसक्त, अनेक बाधाओं से ग्रस्त, अत्यंत दुर्बल या क्षत-विक्षत शरीर वाला, अधिक खाने वाला और लालची स्वभाव का होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "सौरान्वितस्तीक्ष्णकरः सुखस्थो\nनरं प्रसूते रसपीडिताज्गम्‌ ।\nसुतीत्रकोपं कल्दानुरक्तं\nविमुक्तलज्ञ जडतासमेतम्‌",
+          "english": "The Sun conjoined with Saturn in the fourth house produces a person whose body is afflicted by fluid disorders (or diseases), who is extremely angry, fond of quarrels, shameless, and dull-witted.",
+          "hindi": "चतुर्थ भाव में शनि से युक्त सूर्य ऐसे मनुष्य को उत्पन्न करता है जिसका शरीर रसों (धातुओं या वात-कफ आदि) के विकारों से पीड़ित होता है, जो अत्यंत क्रोधी, कलहप्रिय, निर्लज्ज और मंदबुद्धि होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "चन्द्रान्वितो भूतनयः सुखः\nस्वल्पायुषं संजनयन्ति मत्यम्‌ ।\nक्षमाविहीनं परदाररक्त\nजनातिगं साधुविवर्जित च",
+          "english": "The Moon conjoined with Mars in the fourth house produces a short-lived person, who lacks forgiveness, is attached to others' wives, violates social norms, and is devoid of the company of virtuous people.",
+          "hindi": "चतुर्थ भाव में मंगल से युक्त चन्द्रमा मनुष्य को अल्पायु बनाता है, जो क्षमा से रहित, पराई स्त्रियों में आसक्त, सामाजिक मर्यादाओं को लांघने वाला और सज्जनों की संगति से वंचित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "चन्द्राच्ितः सोमसुतः सुखस्थो\nनरं प्रसूते बहुसौख्ययुक्तम्‌ ।\nप्रसन्नवाक्यं सुविवेकभाजं\nजनप्रियं प्राणभृतां षरिष्टम्‌",
+          "english": "The Moon conjoined with Mercury in the fourth house produces a person endowed with much happiness, who speaks pleasingly, possesses excellent discrimination, is popular among people, and is highly respected among living beings.",
+          "hindi": "चतुर्थ भाव में बुध से युक्त चन्द्रमा मनुष्य को अत्यधिक सुखी बनाता है, जो मधुरभाषी, विवेकशील, लोकप्रिय और समस्त जीवों में श्रेष्ठ होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "चन्द्रान्वितो देवगुरुः सुखस्थो\nनरं नयज्ञं सुभग प्रसूते ।\nबहुप्रतापं नृपतेरभीष्ट\nकृपानिवितं देवगुरुप्रसक्तम्‌",
+          "english": "The Moon conjoined with Jupiter in the fourth house produces a person who is well-versed in ethics and diplomacy, fortunate, highly powerful, favored by the king, compassionate, and devoted to gods and gurus.",
+          "hindi": "चतुर्थ भाव में बृहस्पति से युक्त चन्द्रमा मनुष्य को नीतिवान, भाग्यशाली, प्रतापी, राजा का प्रिय, दयालु और देवताओं तथा गुरुओं में आस्था रखने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "चन्द्रान्वितो दैत्यगुरुः सुखस्थो\nमहानरं स्फीतिकरं प्रसूते ।\nप्रभूतमित्रा्जितमभूरिसौ स्यं\nकुरप्रधानं विनतं सदैव",
+          "english": "The Moon conjoined with Venus in the fourth house produces a great and prosperous person, who gains abundant happiness and many friends, is the leader of his family, and is always humble.",
+          "hindi": "चतुर्थ भाव में शुक्र से युक्त चन्द्रमा मनुष्य को महान और समृद्ध बनाता है, जिसके पास अनेक मित्र और प्रचुर सुख होते हैं, जो अपने कुल में प्रधान और सदैव विनम्र रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "चन्द्रान्वितः सूर्यघुतः सुखस्थो\nनरं प्रसूते परुषं सदेव ।\nरोगाभिभूत परुषस्वभावं\nनिन्ये कृतघ्नं परदेशरक्तम्‌",
+          "english": "The Moon conjoined with Saturn in the fourth house produces a person who is always harsh, afflicted by diseases, of a rough temperament, blameworthy, ungrateful, and fond of foreign lands.",
+          "hindi": "चतुर्थ भाव में शनि से युक्त चन्द्रमा मनुष्य को सदैव कठोर, रोगों से पीड़ित, उग्र स्वभाव वाला, निंदनीय, कृतघ्न और परदेस (विदेश) में रुचि रखने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "भमान्वितः सोमसुतः सुखस्थो\nनरं प्रसूते क्षतजार्तदेहम्‌ ।\nस््रीचोर्यपानत्यसनाभिमूतं\nचूतप्रिय प्रीतिविवर्जिते च",
+          "english": "Mars conjoined with Mercury in the fourth house produces a person whose body is afflicted by wounds or blood disorders, who is addicted to vices like women, stealing, and drinking, is fond of gambling, and is devoid of affection.",
+          "hindi": "चतुर्थ भाव में बुध से युक्त मंगल ऐसे मनुष्य को उत्पन्न करता है जिसका शरीर घावों या रक्त विकारों से पीड़ित रहता है, जो स्त्रियों, चोरी तथा मदिरापान के व्यसनों में लिप्त होता है, जुआ खेलने का शौकीन और प्रेम-रहित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "भोमान्वितो देवगुरूः सुखस्थः\nकरोति मयै विजितं सुदीनम्‌ ।\nकद्यमल्पातसजमिष्टपाप\nस्वबन्धुभुक्तं कलडनुरक्तम्‌",
+          "english": "Mars conjoined with Jupiter in the fourth house makes a person defeated, very miserable, miserly, of low vitality, inclined to sinful deeds, exploited by his own relatives, and fond of quarrels.",
+          "hindi": "चतुर्थ भाव में बृहस्पति से युक्त मंगल मनुष्य को पराजित, अत्यंत दीन (दुखी), कंजूस, अल्प ओज (या रक्त) वाला, पाप कर्मों में रुचि रखने वाला, अपने ही बंधुओं द्वारा शोषित और कलहप्रिय बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "भोमान्वितो दैत्यगुरुः सुख्थो\nनरं प्रसूते विफरोयमं च ।\nचरित्रहीन विरतं स्वर्गे\nकदर्यमल्पश्रुतमोजसार्तम्‌",
+          "english": "Mars conjoined with Venus in the fourth house produces a person whose efforts are futile, who is characterless, strayed from his own path, miserly, of little learning, and lacking energy.",
+          "hindi": "चतुर्थ भाव में शुक्र से युक्त मंगल मनुष्य को निष्फल प्रयत्नों वाला, चरित्रहीन, अपने मार्ग से भटका हुआ, कंजूस, अल्पज्ञानी और ओजहीन (कमजोर) बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "भोमान्वितः ूर्यसुतः सुखम्ो\nनरं प्रसूते बहुदुःखभाजम्‌ ।\nअसब्ययं स्नेह विग्रजिताङ्ग\nसुनीचकर्माणमतिप्रयुक्तम्‌",
+          "english": "Mars conjoined with Saturn in the fourth house produces a person who experiences much suffering, has an unhealthy or dry body, and is engaged in very low/degraded actions.",
+          "hindi": "चतुर्थ भाव में शनि से युक्त मंगल मनुष्य को अत्यंत दुख भोगने वाला, अस्वस्थ या रुक्ष (सूखे) शरीर वाला और अत्यंत नीच कार्यों में संलग्न रहने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "सैौम्थान्वितो देवगुरुः सुखस्थो\nनरं प्रसूते बहुसस्ययुक्तम्‌ ।\nदयाधिकं कीर्तिकरं प्रशान्तं\n` नरेनद्रपूञ्यं मतिसंयुतं च",
+          "english": "Mercury conjoined with Jupiter in the fourth house produces a person who is highly prosperous, extremely compassionate, famous, peaceful, honored by kings, and highly intelligent.",
+          "hindi": "चतुर्थ भाव में बृहस्पति से युक्त बुध ऐसे मनुष्य को उत्पन्न करता है जो अत्यंत समृद्ध, दयालु, यशस्वी, शांत स्वभाव का, राजाओं द्वारा पूजनीय और बुद्धिमान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "सौम्यान्वितो दैत्यगुरुः सुखम्थो\nनरं प्रसूते नृपतेरभीष्टम्‌ ।\nनरेनद्रतल्यं सचिवं च वा स्यात्‌\nसेनापतिं च जनयेत्‌ प्रधानम्‌",
+          "english": "Mercury conjoined with Venus in the fourth house produces a person favored by the king, who may be equal to a king, a minister, or a chief commander of the army.",
+          "hindi": "चतुर्थ भाव में शुक्र से युक्त बुध ऐसे मनुष्य को उत्पन्न करता है जो राजा का प्रिय होता है, और वह राजा के समान प्रभावशाली, मंत्री या सेना का मुख्य सेनापति हो सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "सैम्यान्वितः सू्मुतः सुस्थो\nनरं प्रसूते विजितान्तरोगम्‌ ।\nसम्पीडिताङ्गं छृपणस्वभावं\nरोगार्दिताद्ये ज्वरसंयुतं च",
+          "english": "Mercury conjoined with Saturn in the fourth house produces a person afflicted by internal diseases, whose body is plagued by pain, who is miserly, and who suffers from ailments and fevers.",
+          "hindi": "चतुर्थ भाव में शनि से युक्त बुध ऐसे मनुष्य को उत्पन्न करता है जो आंतरिक रोगों से ग्रस्त, पीड़ित शरीर वाला, कृपण (कंजूस) स्वभाव का, और विभिन्न व्याधियों तथा ज्वर (बुखार) से पीड़ित रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "जीवानितो दैत्यगुरुः सुखम्ो\nनरं प्रसूतेऽथ्मृद्धिमाजम्‌ ।\nमुवणमुक्तामणिभतमुताब्व\n्रदधान्वितं तीर्थरतं सदेव",
+          "english": "Jupiter conjoined with Venus in the fourth house produces a highly prosperous person, adorned with gold, pearls, and gems, who is full of faith and always devoted to visiting holy pilgrimages.",
+          "hindi": "चतुर्थ भाव में शुक्र से युक्त बृहस्पति मनुष्य को अत्यंत समृद्ध बनाता है, जो स्वर्ण, मोती तथा मणियों के आभूषणों से सुसज्जित रहता है, श्रद्धालु होता है और सदैव तीर्थयात्राओं में लीन रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "गुक्रानिवितः सूर्य पुतः सुखस्थो\nनरं प्रसूतेऽस्पसुखं विजिह्यम्‌ ।\nविरक्तमित्र रसनस्वभावं\nसस्ययुक्तं परवंचकतं च",
+          "english": "Venus conjoined with Saturn in the fourth house produces a person who has little happiness, is crooked, whose friends are detached from him, is prone to vices, and is deceitful towards others.",
+          "hindi": "चतुर्थ भाव में शनि से युक्त शुक्र ऐसे मनुष्य को उत्पन्न करता है जिसे अल्प सुख प्राप्त होता है, जो कुटिल होता है, जिसके मित्र उससे विरक्त रहते हैं, जो व्यसनों में लिप्त और दूसरों को ठगने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "स्वौन्दुभौमाः सुग्वगा मनुष्यं\nसद्वा प्रकुर्वन्ति विनष्टवित्तम्‌ ।\nदुगन्धिवक्त्र मतिहीनमुभर\nपित्तार्दितं छकेदसमन्वितं च",
+          "english": "The Sun, Moon, and Mars in the fourth house always make a person lose his wealth, have bad breath, lack intelligence, be fierce, and suffer from bilious disorders and excessive moisture/sweat.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा और मंगल मनुष्य को सदा धन-नष्ट करने वाला, मुख से दुर्गन्ध युक्त, बुद्धिहीन, उग्र स्वभाव का, तथा पित्त एवं क्लेद (पसीने या कफ आदि के विकार) से पीड़ित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "रवौन्द्‌ जीवाः सुखा मनुष्यं |\nउययाथतं ्ेदाकुकर्मरक्तम्‌ ।\nकुचैनिर गेगत्यसनाभिमूतं\nठोच्यं दरिद्रं मतिवित्तहीनम्‌",
+          "english": "The Sun, Moon, and Jupiter in the fourth house produce a person who is distressed, engaged in bad deeds, poorly dressed, afflicted by diseases and vices, pitiable, poor, and devoid of intellect and wealth.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा और बृहस्पति मनुष्य को दुखी, बुरे कार्यों में रत, फटे-पुराने कपड़े पहनने वाला, रोगों तथा व्यसनों से ग्रस्त, शोचनीय, दरिद्र तथा बुद्धि और धन से हीन बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "रवीन्दुशुक्राः सुखगा मनुष्य\nसदा प्रकरर्वनिति कल्छत्रमाजम्‌ ।\nरण्डप्रकोपार्दितसृक्ष्मकायं\nपराभिमूतं नयवर्जितं च",
+          "english": "The Sun, Moon, and Venus in the fourth house make a person prone to quarrels (or having a troublesome spouse), having a lean body, prone to fierce anger, defeated by others, and devoid of ethics.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा और शुक्र मनुष्य को सदैव झगड़ालू (या कुपत्नी वाला), अत्यंत क्रोधी स्वभाव का, दुर्बल शरीर वाला, दूसरों से पराजित होने वाला और नीति-रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "रवीन्दुसीराः सुखगा मनुष्यं\nकुर्वन्ति वाताधिकमुप्रमेव ।\nपगङ्मुख देवगुरुद्िजानां\nनानाखलम्नेह सुदुष्टचित्तम्‌",
+          "english": "The Sun, Moon, and Saturn in the fourth house make a person highly afflicted by wind disorders, fierce, averse to gods, gurus, and brahmins, befriending wicked people, and having a corrupt mind.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा और शनि मनुष्य को वात (वायु) रोग की अधिकता वाला, अत्यंत उग्र, देवताओं, गुरुओं तथा ब्राह्मणों से विमुख रहने वाला, दुष्टों की संगति करने वाला और कलुषित (दुष्ट) हृदय वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "1. न्कार्यं ५ 260 द्विपानां ४५\n",
+          "english": "[Sanskrit text of Shloka 24 is lost/damaged in the manuscript]",
+          "hindi": "[पांडुलिपि में श्लोक 24 का संस्कृत पाठ नष्ट/क्षतिग्रस्त है]",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "सूर्यरसोम्याः सुखगा मनुष्ये\nकुर्वन्ति तीरं परवित्तटधब्धम्‌ ।\nकुटुम्बयुक्तं कृतक्रस्वभीवं\nवन्ध्याश्रमं शास्त्रपराङ्पुख च",
+          "english": "The Sun, Mars, and Mercury in the fourth house make a person intense and greedy for others' wealth, having a family but of a deceitful nature, performing fruitless efforts, and averse to scriptures.",
+          "hindi": "चतुर्थ भाव में सूर्य, मंगल और बुध मनुष्य को दूसरों के धन का तीव्र लोभी, परिवार-युक्त किन्तु कपटी (कृत्रिम) स्वभाव का, निष्फल परिश्रम करने वाला और शास्त्रों से विमुख बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "ूर्यारजीवाः सुखगा मनुष\nकुर्मन्ति मातापितृबन्धुहीनम्‌ ।\nविलक्षमोजोरहितं प्रकामं\nसुनिष्ठुरं नीचजनानुरक्तम्‌",
+          "english": "The Sun, Mars, and Jupiter in the fourth house make a person devoid of mother, father, and relatives, highly embarrassed, lacking vigor, very cruel, and attached to low-minded people.",
+          "hindi": "चतुर्थ भाव में सूर्य, मंगल और बृहस्पति मनुष्य को माता-पिता तथा बंधुओं से रहित, अत्यंत लज्जित या तेजहीन, अत्यंत कठोर स्वभाव का और नीच लोगों की संगति में रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "सूर्यरिश्युक्राः सुखगा मनुष्य\nसदा प्रकुर्वन्ति सुखप्रधानम्‌ ।\nसेनाधिक शास््रकथानुरक्त\nदुष्टस्वभावं भगयसंयुत च",
+          "english": "The Sun, Mars, and Venus in the fourth house make a person pleasure-seeking, a military chief or having authority in the army, fond of scriptural discourses, yet of a wicked disposition and filled with fear.",
+          "hindi": "चतुर्थ भाव में सूर्य, मंगल और शुक्र मनुष्य को सुख-प्रधान (विलासी), सेना में उच्च पद या अधिकार प्राप्त, शास्त्र-कथाओं में रुचि रखने वाला, किन्तु दुष्ट स्वभाव का और भययुक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "सूर्यारसोराः सुलगा मनुष्य\nकुर्वन्ति दुःसैर्विविधैः समेतम्‌ ।\nविमुक्तरुज्ञ जडतासमेतं\nस्वस्पायुषं भीतिस्षमन्वितं च",
+          "english": "The Sun, Mars, and Saturn in the fourth house make a person suffer from various griefs, shameless, dull-witted, short-lived, and filled with fear.",
+          "hindi": "चतुर्थ भाव में सूर्य, मंगल और शनि मनुष्य को अनेक प्रकार के दुखों से युक्त, निर्लज्ज, बुद्धिहीन (मूर्ख), अल्पायु और भयभीत रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "सूर्यज्ञसोराः सुखगा मनुष्यं\nकुर्न्ति चारित्रविवर्जित च ।\nकुमित्रसङ्गप्तमयं सदेव\nरद्ेषशीलं कुकलत्रमाजम्‌",
+          "english": "The Sun, Mercury, and Saturn in the fourth house make a person devoid of good character, constantly associated with bad friends, hateful, and married to a troublesome wife.",
+          "hindi": "चतुर्थ भाव में सूर्य, बुध और शनि मनुष्य को चरित्रहीन, बुरे मित्रों की संगति में रहने वाला, द्वेषी (ईर्ष्यालु) स्वभाव का और कुपत्नी से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "सूर्यामरेज्याभृगुजाः सुखसथा\nनरं प्रकुर्वन्ति सुखेन हीनम्‌ ।\nनितान्तसुभ्रं परदेशसङ्गात्‌\nकृच्छेण रुन्धद्रविणे कदर्यम्‌",
+          "english": "The Sun, Jupiter, and Venus in the fourth house make a person devoid of happiness, highly distressed (or suffering) in foreign lands, obtaining wealth with great difficulty, and miserly.",
+          "hindi": "चतुर्थ भाव में सूर्य, बृहस्पति और शुक्र मनुष्य को सुख से हीन, परदेस (विदेश) की संगति से अत्यंत दुखी या पीड़ित रहने वाला, अत्यंत कठिनाई से धन अर्जित करने वाला और कंजूस बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "सर्यामरेज्याकंुताः सुखा\nनरं प्रकुर्वन्ति परम्बन्धम्‌ ।\nविमुक्तसत्य परुषस्वभावं\nरोसाविवेकार्थनयेरविंहीनम्‌",
+          "english": "The Sun, Jupiter, and Saturn in the fourth house make a person dependent on others, devoid of truthfulness, of a harsh temperament, angry, and lacking discrimination, wealth, and ethics.",
+          "hindi": "चतुर्थ भाव में सूर्य, बृहस्पति और शनि मनुष्य को दूसरों पर निर्भर, सत्य से रहित, कठोर स्वभाव वाला, क्रोधी तथा विवेक, धन और नीति से हीन बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "सूर्याघुरेज्याकयुताः सुखस्था\nनरं प्रकुर्वन्ति युहद्धिमुक्तम्‌ ।\nविमुक्तहम्यं जया समेतं\nहीनाधिकाज्गं गुणवर्जित च",
+          "english": "The Sun, Venus, and Saturn in the fourth house make a person devoid of a home and prosperity, deprived of a mansion, sluggish, having deformed/defective or extra limbs, and devoid of virtues.",
+          "hindi": "चतुर्थ भाव में सूर्य, शुक्र और शनि मनुष्य को घर और समृद्धि से रहित, महलों (अच्छे मकानों) से वंचित, मंदबुद्धि, अंगों की हीनता या अधिकता (विकलांगता) वाले तथा सद्गुणों से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "प्रभूतसोख्यं वरिजितेन्दरियाथ\nकुर्वन्ति नानाविंधसीख्यमाजम्‌ ।\nनरेन््रपूजयं निजवन्धुमान्य\nमहाप्रभावं जनसंमतं च",
+          "english": "The combination of benefic planets [Mercury, Jupiter, and Venus] in the fourth house makes a person possess abundant happiness, conquer their senses, enjoy various comforts, be honored by kings, respected by relatives, highly influential, and popular.",
+          "hindi": "चतुर्थ भाव में शुभ ग्रहों (बुध, बृहस्पति और शुक्र) की युति मनुष्य को अत्यधिक सुखी, जितेन्द्रिय (इन्द्रियों को जीतने वाला), विविध प्रकार के सुखों को भोगने वाला, राजाओं द्वारा पूजनीय, अपने बंधुओं में आदरणीय, महाप्रतापी और लोकप्रिय बनाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "चन्द्रज्ञजीवाः सुखगा मनुष्य\nकुर्वन्ति मूपारमसेगदेह्‌ ।\nह याश्वकोैविविधैः समेतं\nबहुप्रभावं विजितारिसंघम्‌",
+          "english": "The Moon, Mercury, and Jupiter in the fourth house make a person royal in stature, possessing various horses, elephants, and treasuries, highly powerful, and a conqueror of all enemies.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, बुध और बृहस्पति मनुष्य को राजा के समान (तेजस्वी), विभिन्न घोड़ों, हाथियों तथा खजानों से युक्त, महाप्रतापी और शत्रुओं के समूह को जीतने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "चन्द्र्ञशुक्राः सुखगा मनुप्यं\nकुर्वन्ति मूरिप्र्तासमेतम्‌ ,\nप्रभूतयनजारजतद्युभकीरतिं\nकृपासमेतं सुजनानुक्ररम्‌",
+          "english": "The Moon, Mercury, and Venus in the fourth house make a person endowed with great glory, abundant gold and silver, splendor, fame, compassion, and favorable to good people.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, बुध और शुक्र मनुष्य को महान प्रतापी, प्रचुर स्वर्ण और चांदी की चमक (वैभव), यश, दयालुता और सज्जनों के प्रति अनुकूलता से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "420 किया 0 स्वजना\" 1.\n470 इयास्व”\n428 सुभगा ए\nत्रिचत्वारिंशोऽध्याथः",
+          "english": "[Sanskrit text of Shloka 36 is lost/damaged in the manuscript]",
+          "hindi": "[पांडुलिपि में श्लोक 36 का संस्कृत पाठ नष्ट/क्षतिग्रस्त है]",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "चन्द्र्ञसोराः सुखगा मनुष्य\nकुवैन्ति वित्तश्ुतिविप्ररक्तम्‌ ।\nमहामनुष्यं सुकुरप्रधानं\nमातापितृभ्यां सततंं च रक्तम्‌",
+          "english": "The Moon, Mercury, and Saturn in the fourth house make a person a leader of a noble family, a great man, devoted to brahmins, always devoted to his father and mother, though prone to loss of wealth.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, बुध और शनि मनुष्य को एक श्रेष्ठ कुल का प्रधान, महान पुरुष, ब्राह्मणों के प्रति समर्पित, माता-पिता की सेवा में सदैव लीन रहने वाला, किन्तु धन हानि से ग्रस्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "चन्दरेज्यशकराः सुखगा मनुष्यं\nकुर्वन्ति मूनाथमतिप्रगल्मम्‌ ।\nजगस्प्रसिद्ध घृणया समेतं\nहतारिपक्ष जनसंमतं च",
+          "english": "The Moon, Jupiter, and Venus in the fourth house make a person a highly confident king (or ruler), world-famous, compassionate, a destroyer of enemies, and popular among people.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, बृहस्पति और शुक्र मनुष्य को अत्यंत प्रगल्भ (चतुर) राजा, विश्व-प्रसिद्ध, दयावान, शत्रुओं का नाश करने वाला और जन-प्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "चन्द्रमुरेऽयार्कमुताः सुखस्था\nनरं प्रकुर्वन्ति धृरतिप्रधानम्‌ ।\nसुबन्धुमान्य सुसदाभिरक्त\nनरेनद्रसार्जितभूरिवित्तम",
+          "english": "The Moon, Jupiter, and Saturn in the fourth house make a person highly resolute/patient, respected by good relatives, always affectionate, and possessing abundant wealth acquired from the king.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, बृहस्पति और शनि मनुष्य को धैर्यवान, अच्छे बंधुओं में आदरणीय, सदैव स्नेही और राजा की कृपा से प्रचुर धन अर्जित करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "मोमज्ञजीवाः सुगा मनुष्यं\nकुर्वन्ति पूत्रार्जितसोख्य भाजम्‌ ।\nकषीरं रव्धयज्चःप्रतापं\nद्विजातिथि प्रीतिसमन्वितं च",
+          "english": "Mars, Mercury, and Jupiter in the fourth house make a person enjoy happiness through sons (or self-earned comforts), brave, highly famous and glorious, and devoted to brahmins and guests.",
+          "hindi": "चतुर्थ भाव में मंगल, बुध और बृहस्पति मनुष्य को पुत्रों से सुख प्राप्त करने वाला (या स्व-अर्जित सुख भोगने वाला), वीर, यश और प्रताप प्राप्त करने वाला, तथा ब्राह्मणों एवं अतिथियों के प्रति प्रेम रखने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "भौमज्ञश्युक्राः सुखगा मनुष्य\nकुर्वन्ति नानाविधसष्यभाजम्‌ ।\nचतुप्यदाद्ये विनयप्रधानं\nस्वम्थस्वमावं बहुबान्धवं च",
+          "english": "Mars, Mercury, and Venus in the fourth house make a person enjoy various comforts, rich in cattle and vehicles, highly humble, of a healthy and stable temperament, and surrounded by many relatives.",
+          "hindi": "चतुर्थ भाव में मंगल, बुध और शुक्र मनुष्य को अनेक प्रकार के सुखों को भोगने वाला, पशुधन (या वाहनों) से समृद्ध, अत्यंत विनम्र, स्वस्थ स्वभाव वाला और अनेक बंधुओं से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "भोमामरेज्धामृगुजाः सुखा\nनरं प्रकुवैन्ति सदा सुशीलम्‌ ।\nतीर्थाश्रयं मूरियज्ञःप्रतापं\nमुख्यं स्ववर्गे श्ुभसर्वगात्रम्‌",
+          "english": "Mars, Jupiter, and Venus in the fourth house make a person always of excellent character, devoted to holy pilgrimages, possessing great fame and glory, a leader of their community, and handsome in all limbs.",
+          "hindi": "चतुर्थ भाव में मंगल, बृहस्पति और शुक्र मनुष्य को सदा उत्तम शील (चरित्र) वाला, तीर्थों का आश्रय लेने वाला, महान यश और प्रताप से युक्त, अपने वर्ग में मुख्य (नेता) और सभी अंगों से सुंदर तथा शुभ बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "मोमामरेन्यार्कषुताः सुखयथा\nनरं प्रकुर्वन्ति चलस्वमावम्‌ ।\nस्वस्पा्जित स्वल्पपुख।यताज्ग\n्रष्यं नरेन्द्रस्य हिते स्थितं च",
+          "english": "Mars, Jupiter, and Saturn in the fourth house make a person of a fickle nature, earning little, possessing little happiness, yet dedicated to the service and welfare of the king.",
+          "hindi": "चतुर्थ भाव में मंगल, बृहस्पति और शनि मनुष्य को चंचल स्वभाव वाला, अल्प धन कमाने वाला, कम सुख भोगने वाला, किन्तु राजा के हित (सेवा) में तत्पर रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "नैमापुरेज्यारकषुताः सुखस्था\nनरं प्रकुर्वन्ति खरस्वमावम्‌ ।\nपराद्मुख साधुजनस्य नित्य\nप्रभूतकोपं परुषस्वभावम्‌",
+          "english": "Mars, Venus, and Saturn in the fourth house make a person harsh, always averse to virtuous people, easily angered, and rough in behavior.",
+          "hindi": "चतुर्थ भाव में मंगल, शुक्र और शनि मनुष्य को कठोर स्वभाव वाला, सज्जनों से सदैव विमुख रहने वाला, अत्यधिक क्रोधी और रूखा व्यवहार करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "सौम्यामरेज्याभृगुजाः सुखसथा\nनरं प्रकुर्वन्ति धराधिनाथभ्‌ ।\nव्यपेत सुतधर्मभाज\nहतारिवगं प्रियदर्शन च",
+          "english": "Mercury, Jupiter, and Venus in the fourth house make a person a ruler of the earth, free from sins, blessed with children and righteousness, a destroyer of enemies, and pleasing in appearance.",
+          "hindi": "चतुर्थ भाव में बुध, बृहस्पति और शुक्र मनुष्य को पृथ्वी का स्वामी (राजा), पापरहित, उत्तम पुत्रों और धर्म से युक्त, शत्रुओं का नाश करने वाला और देखने में प्रिय (सुंदर) बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "सौम्यामरेज्यार्कघुता सुखभ्था\nनरं प्रकुर्वन्ति निधानभाजम्‌ ।\nवाणिञ्यरक्तं गतशत्नुपक्ष\nक्षमान्वितं शौचसमन्वितं च",
+          "english": "Mercury, Jupiter, and Saturn in the fourth house make a person a possessor of treasures, inclined towards commerce, free from enemies, forgiving, and pure.",
+          "hindi": "चतुर्थ भाव में बुध, बृहस्पति और शनि मनुष्य को खजाने (धन) का स्वामी, व्यापार में रुचि रखने वाला, शत्रुओं से रहित, क्षमाशील और पवित्रता से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": "जीवाघुरेज्यारकसुताः सुखस्था\nनरं प्रकुर्वन्ति यद्चोनिधानम्‌ ।\nदीक्षासमेतं गुरुह्ृत्यरक्त\nशुभाननं सुख्यतमं जनानाम्‌",
+          "english": "Jupiter, Venus, and Saturn in the fourth house make a person a storehouse of fame, initiated into spiritual paths, devoted to the service of gurus, having an auspicious face, and prominent among people.",
+          "hindi": "चतुर्थ भाव में बृहस्पति, शुक्र और शनि मनुष्य को यश का भंडार, दीक्षा से युक्त, गुरु की सेवा में लीन रहने वाला, शुभ मुखमंडल वाला और लोगों में अत्यंत प्रमुख बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "रवीन्दुभेमेन्दुख॒ताः सुखश्था\nनरं प्रकुर्वन्ति धिया विहीनम्‌ ।\nपरामिभूतं निजवगीमुक्तं\nगतघरृण भीतिस्मन्वित च",
+          "english": "The Sun, Moon, Mars, and Mercury in the fourth house make a person devoid of intelligence, defeated by others, abandoned by their family, merciless, and filled with fear.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल और बुध मनुष्य को बुद्धिहीन, दूसरों से पराजित, अपने परिवार से बहिष्कृत, निर्दयी और भयभीत रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "रवीन्दुभोमामरपूजिताज्गा\nनरं प्रकुवैनि गतस्वमावम्‌ ।\nसदा वियुक्तप्रजमुग्रहूपं\nचरित्रहीन सुखवजित च",
+          "english": "The Sun, Moon, Mars, and Jupiter in the fourth house make a person lose their good nature, remain separated from children, have a fierce appearance, be characterless, and devoid of happiness.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल और बृहस्पति मनुष्य को अच्छे स्वभाव से रहित, संतान से सदैव वियुक्त, उग्र रूप वाला, चरित्रहीन और सुख से वंचित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "रवीन्दुभोमामुरपूजिताज्गाः\nसुखस्थिताः संजनयन्ति मर्यम्‌ ।\nपित्र्विहीने विधनं कुरूप\nपरौर्जतं नष्टमतिं सदैव",
+          "english": "The Sun, Moon, Mars, and Venus in the fourth house produce a person who is fatherless, poor, ugly, abandoned by others, and always of ruined intellect.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल और शुक्र मनुष्य को पिता-रहित, धनहीन, कुरूप, दूसरों द्वारा त्यागा हुआ और सदैव नष्ट बुद्धि वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 51,
+          "text": "रवीन्दुभोमार्कसुताः सुखप्था\nनरं प्रकुर्वन्ति घृणाविहीनम्‌ ।\nमलिम्टुच त्रास्तकरं जनानां\nसुदीधसूत्र कल्हप्रियं च",
+          "english": "The Sun, Moon, Mars, and Saturn in the fourth house make a person devoid of compassion, a thief who terrifies people, a procrastinator, and fond of quarrels.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल और शनि मनुष्य को दया-रहित, लोगों को डराने वाला चोर, अत्यधिक काम टालने वाला (दीर्घसूत्री) और कलहप्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 52,
+          "text": "रवीन्दु सोम्यामरपूनिताज्गाः\nसुखम्थिताः संजनयन्ति मरसयम्‌ ।\nतृष्णान्विते कामनिपीडिताङ्ग\nगुणप्रमुक्तं कुख्सवेहीनम्‌",
+          "english": "The Sun, Moon, Mercury, and Jupiter in the fourth house produce a person who is filled with insatiable desires, tormented by lust, devoid of virtues, and lacking family happiness.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, बुध और बृहस्पति मनुष्य को तृष्णा (लोभ) से युक्त, कामवासना से पीड़ित शरीर वाला, सद्गुणों से रहित और पारिवारिक सुख से हीन बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 53,
+          "text": "रवीन्दुसौम्यासुरपूजिताज्गाः\nसुखस्थिताः संजनयन्ति मर्त्यम्‌ ।\nविरूपमभ्नेदमरोमशाङ्ग\nव्रिदेशसेवानुरतं सदैव",
+          "english": "The Sun, Moon, Mercury, and Venus in the fourth house produce a person who is deformed, hairless, and always devoted to serving in foreign lands.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, बुध और शुक्र मनुष्य को कुरूप, शरीर पर बालों से रहित (रोमहीन) और सदैव विदेश में सेवा (नौकरी) करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 54,
+          "text": "रवीन्दु सैम्यारकसुताः सुखस्था\nनरं प्रकुर्वन्ति हताशयं च ।\nचोरं नृरोसं परदाररक्त\nसुनीचवृत्ति कुधिया समेतम्‌",
+          "english": "The Sun, Moon, Mercury, and Saturn in the fourth house make a person despondent, a thief, cruel, attached to others' wives, engaged in a low livelihood, and of corrupt intellect.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, बुध और शनि मनुष्य को निराश (हताश), चोर, क्रूर, पराई स्त्रियों में आसक्त, अत्यंत नीच आजीविका वाला और दुर्मति (कुबुद्धि) से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 55,
+          "text": "रवीन्दुजीवासुरपूजिताज्गाः\nसुग्वस्थिताः संजनयन्ति मर्यम्‌ ।\nबहुप्रगादरं कर्हानुरक्त\nकटोरवाक्यं विधृतं कुचेटम्‌",
+          "english": "The Sun, Moon, Jupiter, and Venus in the fourth house produce a person who babbles excessively, is fond of quarrels, speaks harshly, and is openly engaged in bad deeds.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, बृहस्पति और शुक्र मनुष्य को अत्यधिक बकवास करने वाला, कलहप्रिय, कठोर बोलने वाला और खुलेआम कुचेष्टाएं (बुरे काम) करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 56,
+          "text": "रवीन्दुशुक्राकैुताः मुखम्था\nनरं प्रकुर्वन्ति सुनीचरक्तम्‌ ।\nययुतप्रिये नष्टधनं विष्पं\nकुकरमेसेवासु सदा प्रसक्तम्‌",
+          "english": "The Sun, Moon, Venus, and Saturn in the fourth house make a person attached to low-minded people, fond of gambling, having lost their wealth, distressed, and always engaged in wicked deeds.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, शुक्र और शनि मनुष्य को नीच लोगों से स्नेह करने वाला, जुए का शौकीन, धन नष्ट करने वाला, दुखी और सदा बुरे कार्यों में लगा रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 57,
+          "text": "सूयरसौम्यामरपूजिताङ्गाः\nसुखस्थिताः संजनयन्ति मर्यम्‌ ।\nउम्रस्वमावं परपाकरक्तं ;.\nभयेरविहीनं गतसोदं च",
+          "english": "The Sun, Mercury, Jupiter, and Mars in the fourth house produce a person of a fierce nature, fond of food cooked by others, devoid of fear, and lacking affection or friendship.",
+          "hindi": "चतुर्थ भाव में सूर्य, बुध, बृहस्पति और मंगल मनुष्य को उग्र स्वभाव वाला, दूसरों के द्वारा पकाए गए अन्न को खाने वाला, भय से रहित और मित्रता या स्नेह से शून्य बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 58,
+          "text": "भोमज्ञजीव।कमुताः सुत्वस्था\nनरं प्रर्वन्ति रते गुरूणाम्‌ ।\nगतत्ययं भेरिधनं प्रसिद्धं\nनितान्तमान्ये प्रभुतासमेतम्‌",
+          "english": "Mars, Mercury, Jupiter, and Saturn in the fourth house make a person devoted to gurus, free from unnecessary expenses, possessing abundant wealth, famous, highly respected, and endowed with authority.",
+          "hindi": "चतुर्थ भाव में मंगल, बुध, बृहस्पति और शनि मनुष्य को गुरुओं के प्रति समर्पित, अपव्यय से रहित, प्रचुर धन से युक्त, प्रसिद्ध, अत्यंत सम्मानित और प्रभुत्व (अधिकार) से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 59,
+          "text": "मैमज्ञशुक्रा्कषुताः सुखस्था\nनरं प्रकुर्वन्ति विधिज्ञमाढ्यम्‌ ।\nशस्त्राने तत्परमानसं च\nपरजञाधिकं कामदमोजसाद्यम्‌",
+          "english": "Mars, Mercury, Venus, and Saturn in the fourth house make a person knowledgeable of laws, wealthy, inclined towards weapons and warfare, highly intelligent, fulfilling others' desires, and full of vigor.",
+          "hindi": "चतुर्थ भाव में मंगल, बुध, शुक्र और शनि मनुष्य को विधियों (कानूनों) का ज्ञाता, धनवान, शस्त्रास्त्रों के अभ्यास में मन लगाने वाला, अत्यंत बुद्धिमान, दूसरों की कामनाओं को पूर्ण करने वाला और ओजस्वी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 60,
+          "text": "मौमामरेग्याभृगुजार्कपुत्राः\nसुखस्थिताः संजनयन्ति मर्त्यम्‌ ।\nअध्यासविधानिरतं विपापं\nयथार्थवाक्यं विदितं दृपाणाम्‌",
+          "english": "Mars, Jupiter, Venus, and Saturn in the fourth house produce a person devoted to spiritual knowledge, sinless, truthful in speech, and known and respected by kings.",
+          "hindi": "चतुर्थ भाव में मंगल, बृहस्पति, शुक्र और शनि मनुष्य को आध्यात्मिक विद्या में लीन, निष्पाप, सत्यभाषी और राजाओं के बीच प्रसिद्ध तथा सम्मानित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 61,
+          "text": "सोम्यामरेज्यासुगुजार्कपुत्राः\nसुखस्थिताः संजनयन्ति मर्त्यम्‌ ।\nवीणात्मकं मूरिदयासमेतं\nपरोपकोरेः कमर्ष्यवीर्यम्‌",
+          "english": "Mercury, Jupiter, Venus, and Saturn in the fourth house produce a person who is musical (like a Veena player), highly compassionate, and possesses attractive prowess through helping others.",
+          "hindi": "चतुर्थ भाव में बुध, बृहस्पति, शुक्र और शनि मनुष्य को संगीत प्रेमी (वीणा बजाने वाले के समान), अत्यंत दयालु और परोपकार के कार्यों द्वारा आकर्षक पराक्रम (शक्ति) से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 62,
+          "text": "रवीन्दुभोमङपुरेनरपूज्याः\nसुखस्थिताः संजनयन्ति मत्यम्‌ ।\nगुह्यस्थरोगोपहतं कृतन्नं\nलम्बोदरं इमश्रुविवजितं च",
+          "english": "The Sun, Moon, Mars, Mercury, and Jupiter in the fourth house produce a person afflicted by secret diseases, ungrateful, pot-bellied, and lacking facial hair (beard/mustache).",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल, बुध और बृहस्पति मनुष्य को गुप्त रोगों से पीड़ित, कृतघ्न, बड़े पेट वाला (लम्बोदर) और दाढ़ी-मूछ से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 63,
+          "text": "रवीन्दुभोमज्ञसिताः सुखस्था\nनरं प्रकुर्वन्ति विनष्टधर्भम्‌ ।\nकामप्रसक्तं प्रचुगर्तिभाज\nविश्वासहीनं चपलस्वभावम्‌",
+          "english": "The Sun, Moon, Mars, Mercury, and Venus in the fourth house make a person devoid of righteousness, addicted to lust, suffering from much pain, untrustworthy, and of a fickle temperament.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल, बुध और शुक्र मनुष्य को धर्मभ्रष्ट, काम-लोलुप, अत्यधिक कष्ट भोगने वाला, अविश्वसनीय और चंचल स्वभाव वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 64,
+          "text": "सुखस्थिताः सं जनयन्ति मत्यम्‌ ।\nदुःवाधिक मोगविवर्जिताङ्ग\nवैशुन्यरक्त दृददूषणे च ॥ १०३ ॥\n",
+          "english": "[Sanskrit text of the planet combination is missing/damaged]. When situated in the fourth house, they produce a person suffering from excessive grief, whose body is deprived of enjoyment, who is inclined to backbiting, and is strongly flawed.",
+          "hindi": "[ग्रह युति का संस्कृत पाठ लुप्त/क्षतिग्रस्त है]। चतुर्थ भाव में स्थित होने पर वे मनुष्य को अत्यधिक दुखी, भोगों से रहित शरीर वाला, चुगली करने में लगा रहने वाला और अत्यंत दोषयुक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 65,
+          "text": "सूर्यारजीवासुरपूज्यसोराः\nसुखम्थिताः संजनयन्ति मत्यम्‌ ।\nपरियेविहीन नियमैः समेतं\nकुकर्मरक्त सततंं दरिद्रम्‌",
+          "english": "The Sun, Mars, Jupiter, Venus, and Saturn in the fourth house produce a person devoid of loved ones, bound by rules, engaged in bad deeds, and always poor.",
+          "hindi": "चतुर्थ भाव में सूर्य, मंगल, बृहस्पति, शुक्र और शनि मनुष्य को प्रियजनों से हीन, नियमों में बंधा रहने वाला, बुरे कार्यों में लीन और सदा दरिद्र रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 66,
+          "text": "सरयज्ञजीवासुरपून्यसौराः\n। ुखस्थिताः संजनयन्ति म्यम्‌ ।\nस्वधर्मेहीनं परधरममस्त\nचरित्रवित्तेन विवर्जितं च",
+          "english": "The Sun, Mercury, Jupiter, Venus, and Saturn in the fourth house produce a person devoid of their own dharma, practicing others' dharma, and devoid of character and wealth.",
+          "hindi": "चतुर्थ भाव में सूर्य, बुध, बृहस्पति, शुक्र और शनि मनुष्य को स्वधर्म से हीन, दूसरे के धर्म में निष्ठा रखने वाला तथा चरित्र और धन से सर्वथा रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 67,
+          "text": "चन्द्राग्सोम्यामगपूञय्क्राः\nसुखरिथताः सजनयन्ति मस्यम्‌ ।\nसुखाधिकं भूरिधन प्रगल्भ\nविद्याविहीन जनवरहभ च",
+          "english": "The Moon, Mars, Mercury, Jupiter, and Venus in the fourth house produce a person who is highly happy, possessing abundant wealth, confident, devoid of learning, yet beloved by the people.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, मंगल, बुध, बृहस्पति और शुक्र मनुष्य को अत्यंत सुखी, प्रचुर धन से युक्त, प्रगल्भ (चतुर), विद्या से रहित किन्तु लोक-प्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 68,
+          "text": "चनदरा्सेम्यामरपूज्यसीगः\nमुगबस्थिताः सं ऋन्ति मर्यम्‌ ।\nदीक्नात्रतस्नानपरे प्रधान\nम्हगुण नीतावल्नारदं च",
+          "english": "The Moon, Mars, Mercury, Jupiter, and Saturn in the fourth house produce a person who is devoted to spiritual initiations, vows, and sacred baths, a leader, highly virtuous, and skilled in ethics and diplomacy.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, मंगल, बुध, बृहस्पति और शनि मनुष्य को दीक्षा, व्रत तथा स्नान (धार्मिक अनुष्ठानों) में लीन रहने वाला, प्रधान (प्रमुख), महान गुणों से युक्त और नीति-निपुण बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 69,
+          "text": "चन्द्रारसोम्यामरपूज्यशुक्र-\nदानैश्चराः संजनयन्ति मर्यम्‌ ।\nबहुश्रुतं तीथेरतं क्षमाब्य\nगुणाधिक सत्यदयासमेतम्‌",
+          "english": "The Moon, Mars, Mercury, Jupiter, Venus, and Saturn in the fourth house produce a person who is highly learned, devoted to holy pilgrimages, extremely forgiving, highly virtuous, truthful, and compassionate.",
+          "hindi": "चतुर्थ भाव में चन्द्रमा, मंगल, बुध, बृहस्पति, शुक्र और शनि मनुष्य को बहुश्रुत (विद्वान), तीर्थयात्रा में तत्पर, अत्यंत क्षमाशील, सद्गुणों की अधिकता से युक्त, सत्यवादी और दयालु बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 70,
+          "text": "रवीन्दु मीमङ्ञमुरेग्यश्चुक-\nदनैश्चराः संजनयन्ति मत्यम्‌ ।\nसु्व्यमिष्टान्नसुसेवितारं\nमूपालमायं गुर्वत्सरु च",
+          "english": "The Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn (all seven planets) in the fourth house produce a person who is good-hearted, enjoys delicious food, is honored by kings, and is extremely virtuous.",
+          "hindi": "चतुर्थ भाव में सूर्य, चन्द्रमा, मंगल, बुध, बृहस्पति, शुक्र और शनि (सभी सातों ग्रह) मनुष्य को सहर्द्यी (उदार), स्वादिष्ट भोजन का सेवन करने वाला, राजाओं द्वारा सम्मानित और अत्यंत गुणवान बनाते हैं।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

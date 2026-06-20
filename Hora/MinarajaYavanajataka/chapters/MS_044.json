@@ -1,0 +1,798 @@
+{
+  "text_id": "minaraja_yavana_jataka",
+  "title_sa": "यवनजातकम्",
+  "title_en": "Minaraja Yavana Jataka",
+  "category": "hora",
+  "chapters": [
+    {
+      "number": 44,
+      "title": "सुताश्रयोगाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "चन्दरान्वितस्तीक्ष्णकरः सुतस्थो\nनरं प्रसूते विगतामिमानम्‌ ।\nकुमोज्यरक्त च वुपुत्रभाज\nसदातिकष्ट कृतकस्वमावम्‌",
+          "english": "The Sun conjoined with the Moon in the fifth house produces a person devoid of self-respect, who eats bad food, has bad sons, is always in great difficulties, and is of a deceitful nature.",
+          "hindi": "पंचम भाव में सूर्य से युक्त चन्द्रमा मनुष्य को स्वाभिमान-रहित, कुत्सित (बुरा) भोजन करने वाला, बुरे पुत्रों वाला, सदा अत्यधिक कष्ट उठाने वाला और कपटी स्वभाव वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भौमान्वितस्तीक्ष्णकररः सुतस्थो\nनरं प्रसूते बहुपुत्र शरम्‌ ।\nगम्यं रिपूणां सतरां नृशंसं\nभयान्वितं पापरतं सदैव",
+          "english": "Mars conjoined with the Sun in the fifth house produces a person having many sons, brave, yet a target of enemies, highly cruel, fearful, and always engaged in sins.",
+          "hindi": "पंचम भाव में सूर्य से युक्त मंगल मनुष्य को अनेक पुत्रों वाला और शूरवीर बनाता है, किन्तु वह शत्रुओं का निशाना बनने वाला, अत्यंत क्रूर, भयभीत और सदा पाप कर्मों में लगा रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "सोम्यान्वितस्तीक्ष्णकरः सु्म्थो\nनरं प्रघूते बहुपापरक्तम्‌ ।\nदोषैः समम्तैः सहितं नृशषं\nस्वदारसन्तयक्तमनथेयुक्तम्‌",
+          "english": "Mercury conjoined with the Sun in the fifth house produces a person highly inclined to sins, filled with all flaws, cruel, abandoned by his own wife, and plagued by misfortunes.",
+          "hindi": "पंचम भाव में सूर्य से युक्त बुध ऐसे मनुष्य को उत्पन्न करता है जो पाप कर्मों में अत्यधिक लगा रहने वाला, सभी दोषों से युक्त, क्रूर, अपनी पत्नी द्वारा त्यागा हुआ और संकटों (अनर्थों) से घिरा रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "जीवान्वितस्तीक्ष्णकरः युतस्थो\nनरं प्रसूते स्तुतित्राक्यहीनम्‌ ।\nपरान्नपष्ट परदाररक्त\nसुनिष्ठुगङ्गं गुणवर्जिते च",
+          "english": "Jupiter conjoined with the Sun in the fifth house produces a person who is harsh in speech (devoid of praising words), nourished by others' food, attached to others' wives, harsh-limbed, and devoid of virtues.",
+          "hindi": "पंचम भाव में सूर्य से युक्त बृहस्पति ऐसे मनुष्य को उत्पन्न करता है जो प्रशंसात्मक वचनों (मधुर भाषण) से रहित, दूसरों के अन्न पर पलने वाला, पराई स्त्री में आसक्त, कठोर शरीर वाला और सद्गुणों से रहित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "सौरान्वितस्तीक्षणकरः घुतस्थो\nनरं प्रसूते गतनुद्धिपत्यम्‌ ।\nव्ययान्वितं वैरिजितं कृशातै\nदुर्मेधसं शाम्त्रपराङ्मुखे च",
+          "english": "Saturn conjoined with the Sun in the fifth house produces a person who has lost their intellect and status, is burdened by heavy expenses, defeated by enemies, emaciated, dull-witted, and averse to scriptures.",
+          "hindi": "पंचम भाव में सूर्य से युक्त शनि ऐसे मनुष्य को उत्पन्न करता है जो बुद्धि और स्वामित्व (अधिकार) से रहित, खर्चीला, शत्रुओं से पराजित, दुर्बल, मंदबुद्धि और शास्त्रों से विमुख होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "चन्द्रानितो भूतनयः सुतस्थो\nनरं प्रसूते बहुसं्ययुद्धः ।\nसम्प्राप्तवित्त द्विजदेवतानां\nसाधुप्रदत्त श्ुतलाटसे च",
+          "english": "The Moon conjoined with Mars in the fifth house produces a highly happy person, who acquires wealth, donates to brahmins and gods, is generous to saintly people, and is devoted to learning/scriptures.",
+          "hindi": "पंचम भाव में मंगल से युक्त चन्द्रमा मनुष्य को अत्यंत सुखी बनाता है, जो धन प्राप्त करने वाला, ब्राह्मणों और देवताओं को दान देने वाला, सज्जनों के प्रति उदार और शास्त्रों को सुनने में लीन रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "चन्द्रानिितः सोमसुतः सुतस्थो\nनरं प्रसूते गरिमासमेतम्‌ ।\nबहन्नपानं बहुमित्रसभेः\nसमन्वितं देवगुरुप्रसक्तम्‌",
+          "english": "The Moon conjoined with Mercury in the fifth house produces a person endowed with dignity, possessing abundant food and drink, surrounded by a large group of friends, and devoted to gods and gurus.",
+          "hindi": "पंचम भाव में बुध से युक्त चन्द्रमा मनुष्य को गौरवशाली (गंभीर) बनाता है, जिसके पास प्रचुर अन्न-जल होता है, जो अनेक मित्रों के समूह से घिरा रहता है और देवताओं तथा गुरुओं में श्रद्धा रखता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "चन्द्रान्वितो देवगुरुः सुतस्थो\nनरं प्रसूते क्षतशन्रुपक्षम्‌ ।\nनिसगसोख्यं प्रमुतासमेतं\nसदाजयं शास्त्रविचक्षण च",
+          "english": "The Moon conjoined with Jupiter in the fifth house produces a person who destroys the ranks of enemies, is naturally happy, endowed with authority, always victorious, and expert in scriptures.",
+          "hindi": "पंचम भाव में बृहस्पति से युक्त चन्द्रमा ऐसे मनुष्य को उत्पन्न करता है जो शत्रुओं के पक्ष का नाश करने वाला, स्वाभाविक रूप से सुखी, प्रभुत्व (अधिकार) से संपन्न, सदा विजयी और शास्त्रों में कुशल होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "चन्द्रान्वितो दैत्यगुहः सुतस्थो\nनरं प्रसूते निजबुद्धिभाजम्‌ ।\nसन्तुष्टचित्त बहुसौरूययुक्तं\nकन्याप्रिय स्त्रीदयितं सदेव",
+          "english": "The Moon conjoined with Venus in the fifth house produces a highly intelligent and contented person, who enjoys much happiness, is fond of daughters, and is always beloved of women.",
+          "hindi": "पंचम भाव में शुक्र से युक्त चन्द्रमा मनुष्य को कुशाग्र बुद्धि वाला, संतुष्ट हृदय, प्रचुर सुख भोगने वाला, कन्याओं (पुत्रियों) को चाहने वाला और स्त्रियों का अत्यंत प्रिय बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "चन्दरान्वितः सूयैसुतः सुतम्थो\nनरं प्रसूते सुतसौख्यहीनम्‌ ।\nप्रपचश्ीलं कुधिया समेतं\nनिरगैरं शास्त्रबहिःृत च",
+          "english": "The Moon conjoined with Saturn in the fifth house produces a person devoid of happiness from children, deceitful, of corrupt intellect, illiterate, and excluded from scriptural knowledge.",
+          "hindi": "पंचम भाव में शनि से युक्त चन्द्रमा मनुष्य को संतान के सुख से हीन, प्रपंची (कपट करने वाला), दुर्बुद्धि, निरक्षर और शास्त्रों के ज्ञान से बहिष्कृत बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "भोमानितः सोमसुतः सुतस्थो\nनरं प्रसूते व्यथितस्वमावम्‌ ।\nविवर्जित मानधनान्नपतरः\nकुसङ्गसंसक्तमनेकदुःखम्‌",
+          "english": "Mars conjoined with Mercury in the fifth house produces a person of a distressed temperament, devoid of respect and wealth from the king, attached to bad company, and suffering from multiple sorrows.",
+          "hindi": "पंचम भाव में बुध से युक्त मंगल मनुष्य को व्यथित (दुखी) स्वभाव वाला, राजा से मान-सम्मान और धन न पाने वाला, कुसंगति में रहने वाला और अनेक कष्टों को भोगने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "मान्वितो देवगुरुः सुनम्थो\nनरं प्रसूते विनयप्रमुक्तम्‌ ।\nकृषिश्रमं नष्टधन सुतीनं\nविदेशरक्तं कृतकं कुपुत्रम्‌",
+          "english": "Mars conjoined with Jupiter in the fifth house produces a person devoid of humility, engaged in hard agricultural labor, having lost their wealth, very miserable, attached to foreign lands, deceitful, and a bad son.",
+          "hindi": "पंचम भाव में बृहस्पति से युक्त मंगल मनुष्य को विनम्रता से रहित, खेती के कठिन परिश्रम में लगा हुआ, धन नष्ट करने वाला, अत्यंत दीन (दुखी), विदेश में रुचि रखने वाला, कपटी और कुपुत्र बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "मौमानिततो दैत्यगुरः सुनम्थो\nनरं प्रपते बहुवैर भाजम्‌ ।\nपगृजितं नीचजनेन निस्य\nश्रमाम्वितं ब्राह्मणभक्तिहीनम्‌",
+          "english": "Mars conjoined with Venus in the fifth house produces a person who has many enmities, is always defeated by low-minded people, is burdened by labor, and lacks devotion to brahmins.",
+          "hindi": "पंचम भाव में शुक्र से युक्त मंगल मनुष्य को अत्यधिक शत्रुता मोल लेने वाला, नीच लोगों द्वारा सदैव पराजित होने वाला, कठोर श्रम से थका हुआ और ब्राह्मणों के प्रति भक्ति से रहित बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "मौमान्वितः सूर्यसुतः सुतम्थो\nनरं प्रसूते श्षतजार्दिताङ्गम्‌ ।\nमत्रीनिर्जितं दुष्टमति क्रनघ्नं\nक्षमाविहीन परपेशुनेप्मुम्‌",
+          "english": "Mars conjoined with Saturn in the fifth house produces a person whose body is afflicted by wounds or blood disorders, who is dominated by advisors, wicked, ungrateful, lacking forgiveness, and prone to slandering others.",
+          "hindi": "पंचम भाव में शनि से युक्त मंगल मनुष्य को रक्त विकारों या घावों से पीड़ित शरीर वाला, मंत्रियों (या सलाहकारों) से पराजित, दुष्ट बुद्धि, कृतघ्न, क्षमा-रहित और दूसरों की चुगली करने के लिए लालायित रहने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "सैम्यान्वितो देवगुरः सुनस्थो\nनरं प्रसूते ञ्युभपुत्रभाजम्‌ ।\nजयेषिणं स्त्रीद यितं मनोज्ञ\nप्रधानकर्माणमलोटपं च",
+          "english": "Mercury conjoined with Jupiter in the fifth house produces a person blessed with good sons, desiring victory, beloved of women, pleasing in nature, performing noble deeds, and free from greed.",
+          "hindi": "पंचम भाव में बृहस्पति से युक्त बुध मनुष्य को योग्य पुत्रों वाला, विजय की इच्छा रखने वाला, स्त्रियों का प्रिय, आकर्षक, प्रधान कार्यों को करने वाला और निर्लोभी बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "सैौम्ान्वितो दैत्यगुरुः सुतस्थो\nनरं प्रसूते शुभवाक्यरक्तम्‌ ।\n्रुद्धमल्यदभुतकर्मरक्त\nद्विजातिभक्तं निपुणं प्रगस्भम्‌",
+          "english": "Mercury conjoined with Venus in the fifth house produces a person devoted to pleasant speech, pure, inclined to perform wonderful deeds, devoted to brahmins, skillful, and highly confident.",
+          "hindi": "पंचम भाव में शुक्र से युक्त बुध मनुष्य को कल्याणकारी वचनों में प्रीति रखने वाला, शुद्ध आचरण वाला, अद्भुत कार्यों को करने में रुचि रखने वाला, ब्राह्मणों का भक्त, चतुर और प्रगल्भ बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "सौम्यान्वितः सुय पुतः सुतस्थः\nषष्ठे प्रसूते विहृतं मनुष्यम्‌ ।\nसुेर्विहीनं विधनं कुरूपे\nनिन्य सतामुच्छरयव्जित च",
+          "english": "Mercury conjoined with Saturn in the fifth house produces a deformed person, who is devoid of sons, poor, ugly, blamed by the righteous, and devoid of success.",
+          "hindi": "पंचम भाव में शनि से युक्त बुध मनुष्य को विकृत (विकलांग), संतान-हीन, निर्धन, कुरूप, सज्जनों द्वारा निंदित और उन्नति (सफलता) से रहित बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "जीवान्वितः सूयैसुतः सुस्थः\nकरोति म्यं बहुवंचकं च ।\nप्रमाददुष्टाशचयपानरक्त\nकुचेरमश्छध्यमधर्मिण च",
+          "english": "Jupiter conjoined with Saturn in the fifth house makes a person highly deceitful, prone to negligence, of evil intentions, addicted to drinking, poorly dressed, unpraiseworthy, and unrighteous.",
+          "hindi": "पंचम भाव में शनि से युक्त बृहस्पति मनुष्य को अत्यधिक ठग (धोखेबाज), प्रमाद करने वाला, दुर्भावना से युक्त, मदिरापान में लीन, गंदे वस्त्र पहनने वाला, निंदनीय और अधर्मी बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "शुकरान्वितः सूर्यसुतः सुतस्थो\nबन्ध्याजनित्रं मनुज प्रसूते ।\nस्त्रीचचलं पापकथानुरक्त\nकृतध्नमछध्यतमं विदूपम्‌",
+          "english": "Venus conjoined with Saturn in the fifth house produces a person married to a barren spouse, fickle-minded due to women, fond of sinful stories, highly ungrateful, unpraiseworthy, and deformed.",
+          "hindi": "पंचम भाव में शनि से युक्त शुक्र मनुष्य को संतानहीन पत्नी वाला, स्त्रियों के कारण चंचल रहने वाला, पापपूर्ण कहानियों (वार्ताओं) में रुचि रखने वाला, अत्यंत कृतघ्न, अत्यंत निंदनीय और कुरूप बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "सर्वनदुमोमाः सुतगा भनुष्ये\nकुवैनित कीर््या सहिते सदेव ।\nपुण्येन मुक्तं कृतकस्वभावं\nसम्पीडिताङ्ग क्षतजेधिकारैः",
+          "english": "The Sun, Moon, and Mars in the fifth house produce a person devoid of virtue, of a deceitful nature, whose body is afflicted by wounds or blood disorders, though they may have some fame.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा और मंगल मनुष्य को पुण्य से रहित, कपटी स्वभाव वाला, रक्त विकारों और चोटों से पीड़ित शरीर वाला बनाते हैं, यद्यपि उनके पास कुछ यश हो सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "सून्दुसोम्ाः सुतगा मनुष्य\nकुरवनि पाप्प्रचुरं मनुष्यम्‌ ।\nपनिर्विमक्तं सुनसोख्यहीनं\nमत्रीनिर्जित चचनमानसं च",
+          "english": "The Sun, Moon, and Mercury in the fifth house make a person highly sinful, devoid of intellect and happiness from sons, dominated by others, and having an anxious mind.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा और बुध मनुष्य को अत्यंत पापी, बुद्धि और पुत्र-सुख से हीन, दूसरों से पराजित (या सलाहकारों के अधीन) और व्यग्र चित्त वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "सूर्यन्दुजीवाः सुतगा मनुप्ये\nकुर्वन्ति मायाक्रपैः समेतम्‌ ।\nबहादिनं निधृणकरमैरक्त\nजिक्षस्वभावे कृतशास्त्रहीनम्‌",
+          "english": "The Sun, Moon, and Jupiter in the fifth house make a person full of tricks and deceit, talkative, engaged in merciless deeds, crooked in nature, and devoid of scriptural knowledge.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा और बृहस्पति मनुष्य को छल और कपट से युक्त, बहुत बोलने वाला, निर्दयी कार्यों में लगा रहने वाला, कुटिल स्वभाव का और शास्त्रों के ज्ञान से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "सूर्नदुश॒कराः वँतगा मनुष्यं\nसदा प्रकुर्वनिति गुणेर्विहीनम्‌ ।\nपरस्वरक्तं बहुशत्रपक्ष\nक्षमादयाभ्यां परिवमित च",
+          "english": "The Sun, Moon, and Venus in the fifth house make a person devoid of virtues, attached to others' wives, facing many enemies, and devoid of forgiveness and compassion.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा और शुक्र मनुष्य को सदैव सद्गुणों से हीन, पराई स्त्रियों में आसक्त, अनेक शत्रुओं वाले और क्षमा तथा दया से सर्वथा रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "सूर्यन्दुसोरः घुतगा मनुष्यं\nकुर्वन्ति विड्भ्याधिमयेविहीनम्‌ ।\nप्रपचशस्यं व्यसनेसपेन\nसुकातरं बन्धुपराङ्मुखे च",
+          "english": "The Sun, Moon, and Saturn in the fifth house make a person filled with fears of various diseases, absorbed in vices, highly cowardly, and averse to relatives.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा और शनि मनुष्य को अनेक रोगों के भय से युक्त, व्यसनों में डूबा हुआ, अत्यंत कायर और अपने बंधुओं से विमुख रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "सर्थारसोम्याः सुतगा मनुष्यं\nकुर्वन्त दुष्टं ्रणपीडितं च ।\nनिस्तेजसं दीनतरं निरा\nसदा विमुक्तं परतककं च",
+          "english": "The Sun, Mars, and Mercury in the fifth house make a person wicked, afflicted by wounds, lacking luster, very miserable, hopeless, and argumentative.",
+          "hindi": "पंचम भाव में सूर्य, मंगल और बुध मनुष्य को दुष्ट, घावों से पीड़ित, कांतिहीन, अत्यंत दीन, निराश और दूसरों से व्यर्थ तर्क करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "सूर्यारजीवाः सुनगा मनुष्य\nकुर्वन्ति हदीनानुगतं चप्षम्‌ ।\nव्यङ्ग निराश हतद्रानसक्त\nविरक्तदारं हतवोरुषं च",
+          "english": "The Sun, Mars, and Jupiter in the fifth house make a person follow low-minded people, fickle, deformed in body, hopeless, unable to give charity, detached from their spouse, and devoid of courage.",
+          "hindi": "पंचम भाव में सूर्य, मंगल और बृहस्पति मनुष्य को नीच लोगों का अनुसरण करने वाला, चंचल, अंग-हीन (विकलांग), निराश, दान देने में असमर्थ, अपनी पत्नी से उदासीन और पुरुषार्थ-हीन बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "सूर्यार्शुक्राः सुतगा मनुष्यं\nकुर्वन्ति सर्वाश्चभसंधभाजम्‌ ।\nमह्‌।तिभाज जनतानिरस्तं\nनिरामिभूत कटिनस्वभावम्‌",
+          "english": "The Sun, Mars, and Venus in the fifth house make a person associated with all kinds of evils, suffering from major diseases, rejected by society, afflicted by ailments, and of a harsh nature.",
+          "hindi": "पंचम भाव में सूर्य, मंगल और शुक्र मनुष्य को सभी प्रकार के अशुभों से युक्त, महान रोगों से पीड़ित, जनता (समाज) द्वारा बहिष्कृत, व्याधियों से ग्रस्त और कठोर स्वभाव वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "सूर्यारसोरा सुतगा मनुष्य\nकुर्वन्ति पापात्मजकन्यकाढ्यम्‌ ।\nविरक्तमार्थ श्ुतिशास्त्रहीनं\nप्द्वेषकं साघुजनस्य नित्यम्‌",
+          "english": "The Sun, Mars, and Saturn in the fifth house make a person have sinful children, stray from the right path, lack knowledge of scriptures, and constantly hate virtuous people.",
+          "hindi": "पंचम भाव में सूर्य, मंगल और शनि मनुष्य को पापी संतानों वाला, सन्मार्ग से भटका हुआ, वेद-शास्त्रों के ज्ञान से हीन और सज्जनों से सदैव द्वेष करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "सूर्यज्ञजीबाः सुतगा मनुष्य\nकू्मैन्ति पापात्मकमृग्रकोपम्‌ ।\nकरीव नसं परद।ररक्त\nसृदुःखितं दुःखितलोकमित्रम्‌",
+          "english": "The Sun, Mercury, and Jupiter in the fifth house make a person sinful, highly short-tempered, miserly, attached to others' wives, highly miserable, and a friend of distressed people.",
+          "hindi": "पंचम भाव में सूर्य, बुध और बृहस्पति मनुष्य को पापात्मा, अत्यंत क्रोधी, कंजूस, पराई स्त्रियों में आसक्त, अत्यंत दुखी और दुखी लोगों का मित्र बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "सरयजञशुक्राः सुतगा मनुष्यं\nकुर्वन्ति वन्ध्याजनकं कृतघ्नम्‌ ।\nमयाधिकं छेरायुतं सुपाप\nविवर्जित भोगधनाशनैश्च",
+          "english": "The Sun, Mercury, and Venus in the fifth house make a person childless (or parent of childless offspring), ungrateful, highly fearful, troubled, sinful, and devoid of enjoyments, wealth, and food.",
+          "hindi": "पंचम भाव में सूर्य, बुध और शुक्र मनुष्य को संतानहीन (या केवल बंध्या कन्याओं का जनक), कृतघ्न, अत्यंत भीरु, कष्टों से युक्त, पापी तथा भोग, धन एवं उत्तम भोजन से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "सरवज्ञसोराः युतगा मनुं\nुर्यनित सन्तानधर्विहीनम्‌ ।\nलम्बोदरं दीधकुकायसंघे\nसुदीषैजंषं पदवर्जितं च",
+          "english": "The Sun, Mercury, and Saturn in the fifth house make a person devoid of children and land, pot-bellied with a tall and emaciated body, very long shanks, and deformed feet.",
+          "hindi": "पंचम भाव में सूर्य, बुध और शनि मनुष्य को संतान और भूमि (जमीन) से रहित, बड़े पेट (लम्बोदर) वाला, लंबे और दुबले शरीर वाला, अत्यंत लंबी जंघाओं वाला और पैरों की विकृति से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "सूर्यामरेज्याभृगुजाः युतस्था\nनरं प्रद्रवन्ति विधर्मरक्तम्‌ ।\nम्वधरममुक्त कुट कानुरक्त\nमायेन्द्रजानादविशतैर्धिवृदधम्‌",
+          "english": "The Sun, Jupiter, and Venus in the fifth house make a person attached to other religions, strayed from their own dharma, fond of deceit, and highly skilled in magic and illusory arts.",
+          "hindi": "पंचम भाव में सूर्य, बृहस्पति और शुक्र मनुष्य को विधर्म (दूसरे मतों) में रुचि रखने वाला, अपने धर्म से च्युत, कपट में आसक्त और माया तथा इन्द्रजाल (जादू) की सैकड़ों कलाओं में निपुण बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "सूर्यासुरेज्यार्कघुताः सुतस्था\nनरं प्रकुर्वन्ति निरस्तथेथम्‌ ।\nदष्टप्रमावे च धिया विहीनं\nविदेशसेवानुश्तं सदैव",
+          "english": "The Sun, Venus, and Saturn in the fifth house make a person devoid of patience, lacking influence and intelligence, and always devoted to serving in foreign lands.",
+          "hindi": "पंचम भाव में सूर्य, शुक्र और शनि मनुष्य को धैर्य-रहित, प्रभावहीन, बुद्धिहीन और सदैव विदेश में सेवा (नौकरी) करने में रुचि रखने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "चन्द्रारसोम्याः सुतगा मनुष्ये\nकुर्वन्ति दीने गतपेोंरुषे च ।\nविधर्मिणं यूतनिषेवणे च\nपरतप्तकन्दरपैधिया समेतम्‌",
+          "english": "The Moon, Mars, and Mercury in the fifth house make a person miserable, lacking courage, irreligious, addicted to gambling, and tormented by lust.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल और बुध मनुष्य को दीन (दुखी), पराक्रम-हीन, अधर्मी, जुआ खेलने में लगा रहने वाला और कामवासना से पीड़ित बुद्धि वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "चन्द्रारजीवाः युतगा मनुष्यं\nकुर्वन्ति निःश्रीकृमुस्प्रकोपम्‌ ।\nअसब्ययं बन्धवधानुरक्त\nप्रज्ञाविहीनं बहुगर्वितं च",
+          "english": "The Moon, Mars, and Jupiter in the fifth house make a person poor, extremely short-tempered, having deformed limbs, hostile to relatives, devoid of wisdom, and highly arrogant.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल और बृहस्पति मनुष्य को श्रीहीन (निर्धन), अत्यंत क्रोधी, अंग-विकार युक्त, अपने बंधुओं का अहित करने में प्रवृत्त, बुद्धिहीन और अत्यंत घमंडी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "चन्द्रारश्युक्राः सुतगा मनुष्य\nकुर्वन्ति हीनानुगतं कुरूपम्‌ ।\nवाताधिकं कीर्तिविवर्जिताङ्ग\nगतप्रतापान्मनुजर्निरस्तम्‌",
+          "english": "The Moon, Mars, and Venus in the fifth house make a person a follower of low-minded people, deformed, afflicted by wind disorders, lacking fame, devoid of glory, and rejected by society.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल और शुक्र मनुष्य को नीच लोगों का अनुगामी, कुरूप, वात रोग से पीड़ित, यश-रहित, तेजहीन और मनुष्यों (समाज) द्वारा तिरस्कृत बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "चन्द्रारसौराः दुतगा मनुष्यं\nकुर्वन्ति सत्यार्थसुविपिहीनम्‌ ।\nप्रभूतनिद्रं च विहूषगात्र\nखलस्वभावं भग्रवर्जित च",
+          "english": "The Moon, Mars, and Saturn in the fifth house make a person devoid of truth, wealth, and happiness, sleeping excessively, having an ugly body, wicked, and devoid of fear (reckless).",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल और शनि मनुष्य को सत्य, अर्थ (धन) तथा सुख से हीन, बहुत सोने वाला, कुरूप शरीर वाला, दुष्ट स्वभाव का और निर्भय (निर्लज्ज या दुःसाहसी) बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "चन्द्रन्नजीवाः सुतगा मनुप्य\nकुर्वन्ति ती्थप्रवण सुबुद्धिम्‌ ।\nप्रभूतविज्ञापिसमृद्धधम\nमातापितृभ्यां दढभक्तिभाजम्‌",
+          "english": "The Moon, Mercury, and Jupiter in the fifth house make a person inclined towards holy pilgrimages, highly intelligent, rich in knowledge and righteousness, and firmly devoted to their parents.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध और बृहस्पति मनुष्य को तीर्थयात्रा में रुचि रखने वाला, उत्तम बुद्धि वाला, प्रचुर विद्या और धर्म से समृद्ध तथा माता-पिता के प्रति दृढ़ भक्ति रखने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "चन्द्रज्ञशुक्राः सुतगाः मनुष्यं\nकुर्वन्ति पीनाङ्गमलोल्यभाजम्‌ ।\nतपोभिरक्तं बहुतीथसङ्गा-\n्विमुक्तपाप प्रथितप्रमावम्‌",
+          "english": "The Moon, Mercury, and Venus in the fifth house produce a person with a well-nourished body, free from greed, devoted to penance, freed from sins by visiting many holy places, and possessing famous influence.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध और शुक्र मनुष्य को हृष्ट-पुष्ट शरीर वाला, लोभ-रहित, तपस्या में लीन, अनेक तीर्थों की संगति से पाप-मुक्त और विख्यात प्रभाव वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "चन्द्र्ञसोराः सुतगा मनुष्यं\nकुर्वन्ति धन्यं यदसा समेतम्‌ ।\nस्थिरस्वमावं व्रतधर्मयुक्तं\nकलाधिकं कामविवर्जित च",
+          "english": "The Moon, Mercury, and Saturn in the fifth house make a person fortunate, famous, of a stable temperament, devoted to vows and righteousness, highly skilled in arts, and free from excessive lust.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध और शनि मनुष्य को धन्य (भाग्यशाली), यश से युक्त, स्थिर स्वभाव वाला, व्रत और धर्म का पालन करने वाला, कलाओं में निपुण और कामवासना से मुक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "चन्द्रामरेज्याभृगुजाः सुतम्था\nनरं प्रक्र्वन्ति सुवकत्रकण्ठम्‌ ।\nम्बाटकं धर्मपरं प्रधानं\nहतारिपक्ष प्रियददोनं च",
+          "english": "The Moon, Jupiter, and Venus in the fifth house produce a person with a beautiful face and sweet voice, devoted to good conduct, righteous, a leader, a destroyer of enemies, and pleasing in appearance.",
+          "hindi": "पंचम भाव में चन्द्रमा, बृहस्पति और शुक्र मनुष्य को सुंदर मुख और कंठ (मधुर आवाज) वाला, सदाचारी, धर्मपरायण, प्रधान (प्रमुख), शत्रुओं का नाश करने वाला और प्रियदर्शन (सुंदर) बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "चन्द्रामरेज्याकंमुताः सुतम्था\nनरं प्रकुर्वन्ति मतिप्रधानम्‌ ।\nख्यातं कवीन्द्रं प्रवरं हतारिं\nनिमगसाख्यं सुदृश सुवक्त्रम्‌",
+          "english": "The Moon, Jupiter, and Saturn in the fifth house produce a highly intelligent person, who is a famous chief of poets/scholars, prominent, a destroyer of enemies, naturally happy, and has beautiful eyes and face.",
+          "hindi": "पंचम भाव में चन्द्रमा, बृहस्पति और शनि मनुष्य को प्रखर बुद्धि वाला, प्रसिद्ध कवियों में श्रेष्ठ, प्रमुख, शत्रुओं को परास्त करने वाला, स्वाभाविक सुखी तथा सुंदर नेत्र और सुंदर मुख वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "चन्द्रामृरेञ्याकंसुनाः सुतम्था\nनरं प्रकु्ैनि गुणज्ञ भाजम्‌ ।\nज्योतिर्विदं रागविवर्जिताङ्गं\nमदान्वितं र्मकथानुरक्तम्‌",
+          "english": "Moon, Jupiter, Venus, and Saturn in the fifth house make a person an appreciator of virtues, an astrologer, free from disease (or passion), proud, and fond of religious stories.",
+          "hindi": "पंचम भाव में चन्द्रमा, बृहस्पति, शुक्र और शनि मनुष्य को गुणों का ज्ञाता, ज्योतिषी, रोग-मुक्त (या आसक्ति-रहित), गर्वीला और धार्मिक कथाओं में रुचि रखने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "मैमज्ञजीवाः सुतगा भनुष्यं\nकुर्वन्ति धर्मध्वजमिष्टसत्यम्‌ 1\nसत्पात्ररक्त बहुबुद्धिभाज\nसख्ज्मुपाहिनमेक्वीरम्‌",
+          "english": "Mars, Mercury, and Jupiter in the fifth house make a person a standard-bearer of dharma, truthful, devoted to virtuous people, highly intelligent, and a singular hero who defeats enemies in battle.",
+          "hindi": "पंचम भाव में मंगल, बुध और बृहस्पति मनुष्य को धर्म की ध्वजा धारण करने वाला (या धर्मात्मा), सत्यवादी, सत्पात्रों के प्रति स्नेही, अत्यंत बुद्धिमान और युद्ध में अनेक वीरों को परास्त करने वाला अद्वितीय वीर बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "मौमक्ञसोराः सुतगा मनुष्ये\nकुर्वन्ति पण्दं कुकलन्नभाजम्‌ ।\nदयाविहीनं खथ निगुणं च\nश्रमार्तदेहं निजवगैमुक्तम्‌",
+          "english": "Mars, Mercury, and Saturn in the fifth house make a person impotent or weak, having a troublesome wife, merciless, wicked, devoid of virtues, distressed by labor, and abandoned by their family.",
+          "hindi": "पंचम भाव में मंगल, बुध और शनि मनुष्य को दुर्बल या नपुंसक, कुपत्नी वाला, दया-रहित, दुष्ट, सद्गुणों से हीन, श्रम से पीड़ित शरीर वाला और अपने परिवार से बहिष्कृत बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "भोमामरेज्यामृगुजाः सुतस्था\nनरं प्रकुर्वन्ति धिया ममेतम्‌ ।\nमुसूक्षमवम्त्ाभरणेः समेतं\nददप्रतिज्ञ परमदेनं च",
+          "english": "Mars, Jupiter, and Venus in the fifth house produce a person endowed with intellect, adorned with fine clothes and ornaments, firm in vows, and highly joyful.",
+          "hindi": "पंचम भाव में मंगल, बृहस्पति और शुक्र मनुष्य को बुद्धिमान, बारीक (सुंदर) वस्त्रों तथा आभूषणों से युक्त, दृढ़प्रतिज्ञ और अत्यंत आनंदित रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": "भोमामरेज्यारकमुताः सुतम्था\nनरं प्रकुवेनिनि दयापमेतम्‌ ।\nबाणिजञ्यविद्यागमगाधुयुक्त\nक्षमान्वितं देवगुरुपरभक्तम्‌",
+          "english": "Mars, Jupiter, and Saturn in the fifth house make a person compassionate, skilled in trade and learning, associated with saintly people, forgiving, and devoted to gods and gurus.",
+          "hindi": "पंचम भाव में मंगल, बृहस्पति और शनि मनुष्य को दयालु, व्यापार तथा शास्त्रों के ज्ञान से युक्त, सज्जनों की संगति करने वाला, क्षमाशील और देवताओं तथा गुरुओं का परम भक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "मोमासुरेज्यार्कमुताः सुनस्था\nनरं प्रकुवैनिन कबुद्धिभाजम्‌ ।\nलजाविहीन नयवर्जिताङ्ग\nविमुक्तदारं बहुगविते च ॥-",
+          "english": "Mars, Venus, and Saturn in the fifth house produce a person of corrupt intellect, shameless, unethical, separated from their spouse, and highly arrogant.",
+          "hindi": "पंचम भाव में मंगल, शुक्र और शनि मनुष्य को दुर्बुद्धि, निर्लज्ज, नीति-रहित आचरण वाला, पत्नी से रहित (या वियुक्त) और अत्यंत घमंडी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "साम्यामरेज्यामृगुजाः सुम्था\nनरं प्रकुर्वन्ति स॒गत्नमाजम्‌ ।\nविप्रानुरक्तं बहुनुरीन\nविख्यातमुर्वीतरमण्डनं च",
+          "english": "Mercury, Jupiter, and Venus in the fifth house produce a person belonging to a noble lineage, devoted to brahmins, a great leader, famous, and an ornament of the earth.",
+          "hindi": "पंचम भाव में बुध, बृहस्पति और शुक्र मनुष्य को उत्तम गोत्र (कुल) वाला, ब्राह्मणों का प्रेमी, महान अगुआ (नेता), विख्यात और पृथ्वी का आभूषण बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "सैम्याघुरेजयाषुताः सुतस्था\nनरं प्रकुर्बन्ति विहीनपुत्रम्‌ ।\nस्थूरं प्ु्रीवमुज कुकण\nधूतानुरक्त परवचकं च",
+          "english": "Mercury, Venus, and Saturn in the fifth house make a person devoid of sons, stout, thick-necked, fond of gambling, and deceitful towards others.",
+          "hindi": "पंचम भाव में बुध, शुक्र और शनि मनुष्य को पुत्र-हीन, स्थूल (मोटा), मोटी गर्दन वाला, जुए में आसक्त और दूसरों को ठगने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 51,
+          "text": "जीवासुरेज्यार्कसुताः सुतखा\nनरं प्रकुर्वन्ति बहुप्रशस्तम्‌ ।\nधान्यानिवतं वास्करं परेषां\nशास्त्राजने तस्परमानसं च",
+          "english": "Jupiter, Venus, and Saturn in the fifth house make a person highly praised, rich in grains and wealth, doing good to others, and devoted to acquiring scriptural knowledge.",
+          "hindi": "पंचम भाव में बृहस्पति, शुक्र और शनि मनुष्य को अत्यंत प्रशंसित, धन-धान्य से युक्त, दूसरों का हित करने वाला और शास्त्रों के उपार्जन में मन लगाने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 52,
+          "text": "रवीन्दुभेमन्दुसुताः सुतस्था\nनरं प्रकुर्वन्ति सुदूषणाब्यम्‌ ।\nगुरुपरकोपं नियमेर्विुक्तं\nव्यपेतर्ज्ञं विह्कृतस्वभावम्‌",
+          "english": "The Sun, Moon, Mars, and Mercury in the fifth house make a person highly flawed, experiencing the wrath of gurus, undisciplined, shameless, and of a perverted nature.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल और बुध मनुष्य को अत्यंत दोषयुक्त, गुरुजनों के कोप का भाजन बनने वाला, नियमों से रहित, निर्लज्ज और विकृत स्वभाव वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 53,
+          "text": "रवीन्दुभोमामरपूजिताज्गाः\nसुतस्थिताः संजनयन्ति मत्येष्‌ । - ..\nप्रलम्बलिङ्गं सुनणोश्युक्त\nविहीनवि त्तं परदारढन्धम्‌",
+          "english": "The Sun, Moon, Mars, and Jupiter in the fifth house produce a person who is devoid of wealth, greedy for others' wives, yet endowed with some fame.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल और बृहस्पति मनुष्य को धनहीन, पराई स्त्रियों का लोभी, किन्तु यश से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 54,
+          "text": "रवीन्दुभोमार्कयुताः सुतखा\nनरं प्रकुर्वन्ति कृदो कतध्नम्‌ ।\nहर्षाविक्रारेण निपीडिताङ्ग\nसुदीनश्ृसतिं गतयन्धुवगेम्‌",
+          "english": "The Sun, Moon, Mars, and Saturn in the fifth house make a person emaciated, ungrateful, afflicted by diseases (like eye or heart ailments), having a miserable livelihood, and abandoned by relatives.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल और शनि मनुष्य को दुर्बल (कमजोर), कृतघ्न, रोगों (हृदय या नेत्र रोग) से पीड़ित शरीर वाला, अत्यंत दयनीय आजीविका वाला और अपने बंधु-वर्ग से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 55,
+          "text": "रवीन्दुसोम्यामरपूजिताङ्गाः\nसुतस्थिताः संजनयन्ति म्यम्‌ ।\nहर्षाधिक्रं कामनिपीडिताङ्ग\nसदा कुलीनं नयवर्जित च",
+          "english": "The Sun, Moon, Mercury, and Jupiter in the fifth house produce a person born in a noble family, highly joyful, yet tormented by lust, and devoid of ethics.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बुध और बृहस्पति मनुष्य को हर्षित रहने वाला, कामवासना से पीड़ित शरीर वाला, कुलीन किन्तु नीति-रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 56,
+          "text": "रवीन्दुसौम्यासुरपूजिताङ्गाः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nपेद्युन्यरक्तं निजधर्महीनं\nप्द्ेषकं साधुजनस्य नित्यम्‌",
+          "english": "The Sun, Moon, Mercury, and Venus in the fifth house produce a person devoted to backbiting, devoid of their own dharma, and always harboring hatred towards virtuous people.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बुध और शुक्र मनुष्य को चुगली करने में लगा रहने वाला, अपने धर्म से हीन और सज्जनों से सदैव द्वेष करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 57,
+          "text": "रीन्दुसौम्यार्कषुताः सुतस्था\nनरं प्रकुर्वन्ति दयाविद्दीनम्‌ ।\nविनष्टबुद्धि विगताभिमानं\nभयान्वित पापसरमन्वितं च",
+          "english": "The Sun, Moon, Mercury, and Saturn in the fifth house make a person devoid of compassion, of ruined intellect, devoid of self-respect, filled with fear, and prone to sins.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बुध और शनि मनुष्य को दया-रहित, नष्ट बुद्धि वाला, स्वाभिमान-शून्य, भयभीत और पाप कर्मों में लिप्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 58,
+          "text": "रवीन्दुजीवासुरपूजिताज्ञः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nरथा्थसक्तं विनयेन दीने\nविलेपिते म्नानविलेपनायेः",
+          "english": "The Sun, Moon, Jupiter, and Venus in the fifth house produce a person who is fond of traveling (or holy pilgrimages), lacks humility, and is fond of perfumes, ointments, and baths.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बृहस्पति और शुक्र मनुष्य को यात्राओं (या तीर्थों) में रुचि रखने वाला, विनम्रता से हीन, तथा स्नान, सुगन्धित लेपों और उबटन आदि से सुसज्जित रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 59,
+          "text": "रवीन्दुजीवारकसुताः सुतस्था\nमरं प्रकुवैन्ति चरम्बमावम्‌ ,\nमुङोल्ययुक्तं ध्रणया विहीनं\nनिसर्गदुषठ प्रियसाृसं च",
+          "english": "The Sun, Moon, Jupiter, and Saturn in the fifth house make a person of a fickle nature, foolish, greedy, devoid of compassion, naturally wicked, yet enjoying the company of saintly people.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बृहस्पति और शनि मनुष्य को चंचल स्वभाव वाला, मूर्ख, लोभी, दया-रहित, जन्मजात दुष्ट, किन्तु सज्जनों की संगति पसंद करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 60,
+          "text": "ग्वीन्दुशक्राकंयुताः सुतम्था\nनरं प्रकुर्वन्ति सुखैः प्रयुक्तम्‌ । .\nवृथाश्चमं सित्रजनेरविहीनं\nसन्तानहीनें रुषितं सदैव",
+          "english": "The Sun, Moon, Venus, and Saturn in the fifth house make a person devoid of happiness, performing futile labor, friendless, childless, and always irritable.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, शुक्र और शनि मनुष्य को सुख से रहित, व्यर्थ परिश्रम करने वाला, मित्रों से हीन, संतान-हीन और सदैव चिड़चिड़ा (क्रोधित) रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 61,
+          "text": "सूर्यारसोम्यामरपूजिताङ्गाः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nओजोविहीनं सुविरुद्धवेष्\nसुनीचकर्माणमुरुप्रकोपम्‌",
+          "english": "The Sun, Mars, Mercury, and Jupiter in the fifth house produce a person devoid of vigor, wearing strange or inappropriate clothes, engaged in degraded actions, and having great anger.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध और बृहस्पति मनुष्य को ओज-हीन, विचित्र (असंगत) वेशभूषा धारण करने वाला, अत्यंत नीच कार्यों में संलग्न और अत्यधिक क्रोधी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 62,
+          "text": "सूर्यारसम्यासुरपूजिताज्गाः\nसुतस्थिताः संजनयन्ति मर्यम्‌ ।\nविधर्मिणं नीतिमतिप्रहीण\nजिद्यप्व भावं विहृतानुरक्तम्‌",
+          "english": "The Sun, Mars, Mercury, and Venus in the fifth house produce a person who is irreligious, devoid of ethics and intelligence, crooked, and attached to perverted things.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध और शुक्र मनुष्य को धर्महीन (विधर्मी), नीति और बुद्धि से रहित, कुटिल स्वभाव वाला और विकृत (अस्वाभाविक) चीजों में आसक्त रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 63,
+          "text": "तूर्यारसेोम्यार्कषुताः सुतस्था\nनरं प्कर्वैनिति विहीनसत्यम्‌ ।\nप्रमोषकं कामकथानुरक्त\nरेप्यं पररनिजितपीरूपं च",
+          "english": "The Sun, Mars, Mercury, and Saturn in the fifth house make a person untruthful, a plunderer, fond of amorous stories, hated by others, and having their manhood defeated by others.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध और शनि मनुष्य को असत्यवादी, दूसरों को ठगने वाला (लुटेरा), कामुक चर्चाओं में रुचि रखने वाला, लोगों का द्वेषी और दूसरों द्वारा पराजित पौरुष वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 64,
+          "text": "सूर्वारजीवामुरपूजिताज्जाः\nसुतस्थिताः सं जनयन मर्त्यम्‌ ।\nबहुक्षताते प्रविनष्टधमं\nकुशास्त्रसेवानिरतं सदैव",
+          "english": "The Sun, Mars, Jupiter, and Venus in the fifth house produce a person highly afflicted by wounds, having lost their righteousness, and always devoted to studying false or harmful doctrines.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बृहस्पति और शुक्र मनुष्य को अनेक घावों से पीड़ित, नष्ट-धर्म वाला और सदा कुशास्त्रों (हानिकारक विद्याओं) के सेवन में लीन रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 65,
+          "text": "सूर्यारजीवाकैमुताः सुतम्था\nनरं प्रकुवैनिनि सुतीत्रमावम्‌ ।\nमहारुजापै कृतक्रम्बमावं\nविहीनवणे श्रुतवर्जित च",
+          "english": "The Sun, Mars, Jupiter, and Saturn in the fifth house make a person of an intense nature, afflicted by major diseases, of a deceitful disposition, pale in complexion, and devoid of learning.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बृहस्पति और शनि मनुष्य को अत्यंत उग्र स्वभाव वाला, महान रोगों से पीड़ित, बनावटी आचरण वाला, फीके रंग (कांतिहीन) वाला और ज्ञान से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 66,
+          "text": "सूरयरशुक्राकैसुनाः सुतम्था\nनरं परकरर्वन्ति विदीनवाहम्‌ ।\nचतुप्पदाच्छादनमोजनर्थ-\nविवर्जित च त्यसनाचिततं च",
+          "english": "The Sun, Mars, Venus, and Saturn in the fifth house make a person ride miserable vehicles, remain devoid of cattle, clothes, food, and wealth, and be highly addicted to vices.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, शुक्र और शनि मनुष्य को अत्यंत दयनीय सवारी (वाहन) वाला, पशुधन, वस्त्र, भोजन तथा धन से रहित और सदैव व्यसनों में लीन रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 67,
+          "text": "सूयैज्ञजीवापुरपूजिताङ्जाः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nकुकीर्तिमाज विगतप्रमावं\nनीचाजने तत्परमानसं च",
+          "english": "The Sun, Mercury, Jupiter, and Venus in the fifth house produce a person who has a bad reputation, is devoid of influence, and has a mind inclined towards low-minded people.",
+          "hindi": "पंचम भाव में सूर्य, बुध, बृहस्पति और शुक्र मनुष्य को अपयश (बदनामी) प्राप्त करने वाला, प्रभावहीन और नीच लोगों की संगति में मन लगाने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 68,
+          "text": "ूरय्ञजीवारकघुताः सुतस्था\nनरं प्रकु्बैन्ति परामिमूतम्‌ ।\nकुेलमाश्युद्धमलीकमभाज\nदारिद्रदुःखार्दितमेव नित्यम्‌",
+          "english": "The Sun, Mercury, Jupiter, and Saturn in the fifth house make a person defeated by others, poorly dressed, unpraiseworthy, untruthful, and always afflicted by the misery of poverty.",
+          "hindi": "पंचम भाव में सूर्य, बुध, बृहस्पति और शनि मनुष्य को दूसरों से पराजित, फटे-पुराने वस्त्र पहनने वाला, निंदनीय, झूठ बोलने वाला और सदा दरिद्रता के दुख से पीड़ित रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 69,
+          "text": "ूर्ह्शुक्रा्कयुताः सुतस्था\nनरं प्रकुर्वन्ति कुबगीभाजम्‌ ।\nकुस्त्ीकुसेवायु रते विसंज्ञं\nसुनिये विप्रपराङ्मुखे च",
+          "english": "The Sun, Mercury, Venus, and Saturn in the fifth house make a person belong to a wicked class, attached to wicked women and low service, senseless, degraded, and averse to brahmins.",
+          "hindi": "पंचम भाव में सूर्य, बुध, शुक्र और शनि मनुष्य को दुष्टों की संगति वाला, दुष्ट स्त्रियों और नीच चाकरी में लीन, चेतना-शून्य, अत्यंत पतित और ब्राह्मणों से विमुख रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 70,
+          "text": "सर्यामरेज्यासृगुजारकपुत्राः `\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nकुपुण्यरक्तं कुमतिप्रसक्त\nकुकाव्यसंयुक्तमपक्षप्‌।तम्‌",
+          "english": "The Sun, Jupiter, Venus, and Saturn in the fifth house produce a person inclined to unrighteousness, attached to evil thoughts, engaged in bad literature, and biased/unjust.",
+          "hindi": "पंचम भाव में सूर्य, बृहस्पति, शुक्र और शनि मनुष्य को पाप कर्मों में रुचि रखने वाला, दुर्बुद्धि से युक्त, कुत्सित काव्यों (बुरे साहित्य) में लगा रहने वाला और पक्षपाती (अन्यायी) बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 71,
+          "text": "चनदरारसौम्यामरपूजिताज्गः\nसुतस्थिताः संजनयन्ति मर्यम्‌ ।\nसौभाग्यविधाविनयैः समेतं\nसत्पात्ररक्त सुविचक्षणं च",
+          "english": "The Moon, Mars, Mercury, and Jupiter in the fifth house produce a person endowed with fortune, learning, and humility, who is devoted to worthy people, and highly wise.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध और बृहस्पति मनुष्य को सौभाग्य, विद्या और विनय (नम्रता) से युक्त, सत्पात्रों के प्रति स्नेही और अत्यंत विवेकी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 72,
+          "text": "चनद्रारसौम्यासुरपूजिता्चः ।\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nविवेकविध्यागमसास््ररक्त\nक्षतारिपक्ष दृदसेषृदं च",
+          "english": "The Moon, Mars, Mercury, and Venus in the fifth house produce a person devoted to wisdom, scriptures, and traditional learning, who destroys the ranks of enemies, and is firm in friendship.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध और शुक्र मनुष्य को विवेक, विद्या, आगम और शास्त्रों में रुचि रखने वाला, शत्रुओं के पक्ष का नाश करने वाला और दृढ़ मित्रता निभाने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 73,
+          "text": "चन्द्रारसौम्याकंघुताः सुतखा\nनरं प्रकुर्मन्ति विनीतवेषम्‌ ।\nस्वधर्मेसम्पोषणमुप्रवीरय\nदानप्रानं बेहुगोरवं च",
+          "english": "The Moon, Mars, Mercury, and Saturn in the fifth house make a person wear humble attire, nourish their own dharma, possess fierce valor, be foremost in charity, and be highly respected.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध और शनि मनुष्य को शालीन (विनीत) वेशभूषा धारण करने वाला, स्वधर्म का पालन-पोषण करने वाला, उग्र पराक्रमी, दानवीर और अत्यधिक गौरवशाली बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 74,
+          "text": "चन्द्रारजीवासुरपूनिताज्गाः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nबहुश्रुत त्राणकरं द्विजानां\nगुणानुरक्तं प्रथिताभिमानम्‌",
+          "english": "The Moon, Mars, Jupiter, and Venus in the fifth house produce a person who is highly learned, a protector of brahmins, devoted to virtues, and possesses well-known self-respect.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बृहस्पति और शुक्र मनुष्य को बहुश्रुत (अत्यंत विद्वान), ब्राह्मणों की रक्षा करने वाला, सद्गुणों में अनुरागी और विख्यात स्वाभिमान वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 75,
+          "text": "चन्द्रारजीवार्कसुताः सुतस्था\nनरं प्रकुर्वन्ति सुशीरुताढ्यम्‌ ।\nनाना्थेशास््ैः सहितं प्रगल्भं\nकरिप्रधानं जनवह्वभ च",
+          "english": "The Moon, Mars, Jupiter, and Saturn in the fifth house make a person highly virtuous in character, well-versed in various scriptures, confident, a leader of their family, and beloved by people.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बृहस्पति और शनि मनुष्य को अत्यंत सुशील स्वभाव वाला, विभिन्न प्रकार के शास्त्रों के ज्ञान से युक्त, चतुर (प्रगल्भ), अपने कुल में प्रधान और लोगों का प्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 76,
+          "text": "चन्द्रारडुकार्कषुताः सुतस्था\nनर प्रकुर्वन्ति हितं द्विजानाम्‌ ।\nप्रभूतमल्याभरणं समृद्ध\nक्षमान्वितं धर्मविधानदक्षम्‌",
+          "english": "The Moon, Mars, Venus, and Saturn in the fifth house make a person a benefactor of brahmins, adorned with garlands and ornaments, prosperous, forgiving, and skilled in performing righteous rites.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, शुक्र और शनि मनुष्य को ब्राह्मणों का हित करने वाला, प्रचुर मालाओं और आभूषणों से सुसज्जित, समृद्ध, क्षमाशील और धार्मिक नियमों को निभाने में दक्ष बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 77,
+          "text": "चन्दरज्ञजीवाभृगुजाः सुतस्था\nनर प्रकुर्वन्ति सुतार्थयुक्तम्‌ ।\nविलेपनाच्छादनमक्षणाढ्यं\nमह ।धनं पुत्रधनैः समेतम्‌",
+          "english": "The Moon, Mercury, Jupiter, and Venus in the fifth house produce a person who is blessed with sons and wealth, enjoys fine clothing, cosmetics, and delicious food, and possesses great riches.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध, बृहस्पति और शुक्र मनुष्य को सुयोग्य पुत्रों और धन से युक्त, सुगन्धित लेपों, वस्त्रों तथा स्वादिष्ट भोजन से संपन्न, और अत्यधिक धनवान बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 78,
+          "text": "790 विनीता ¢, विनीती\" ए\nफाऽ त्रास ह, त्रा 7\nगशाभिः",
+          "english": "[Sanskrit text of Shloka 78 is lost/damaged in the manuscript]",
+          "hindi": "[पांडुलिपि में श्लोक 78 का संस्कृत पाठ नष्ट/क्षतिग्रस्त है]",
+          "status": "translated"
+        },
+        {
+          "number": 79,
+          "text": "चन्दरजञजीवाकैसुतास्तु नित्यं\nस॒तस्थिताः संजनयन्ति मर्त्यम्‌ ।\nसत्यप्रधानं बहुयज्ञमाजं\nसुधर्मिण पण्डितसंमतं च",
+          "english": "The Moon, Mercury, Jupiter, and Saturn in the fifth house produce a person who is highly truthful, performs many sacrifices, is righteous, and is respected by scholars.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध, बृहस्पति और शनि मनुष्य को सत्यवादी, अनेक यज्ञ करने वाला, परम धार्मिक और विद्वानों द्वारा सम्मानित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 80,
+          "text": "चन्द्जञ्॒क्राकैयुताः सुतस्था\nनरं प्रकुर्वन्ति विशारभाजम्‌ ।\nजितेन्दियं होचपरं सुरूपं\nसौमाग्यवीर्याब्यमरोटपं च",
+          "english": "The Moon, Mercury, Venus, and Saturn in the fifth house produce a person who is thoughtful (or fond of recreation), has conquered their senses, is pure, handsome, fortunate, strong, and free from greed.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध, शुक्र और शनि मनुष्य को विचारवान (या सुख-विहार करने वाला), जितेन्द्रिय, शुचिता (पवित्रता) से युक्त, सुंदर रूप वाला, सौभाग्य तथा पराक्रम से संपन्न और निर्लोभी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 81,
+          "text": "चनद्रेञ्यशुकरारकघुताः सुतस्था\nनरं प्रकुर्वन्ति नरेनद्रपूज्यम्‌ ।\nशात्त्रा्जने तत्परमिष्टघ्म\nसुतप्रधान बहुबुद्धिभाजम्‌",
+          "english": "The Moon, Jupiter, Venus, and Saturn in the fifth house produce a person honored by kings, devoted to acquiring scriptural knowledge, practicing righteous duties, blessed with good sons, and highly intelligent.",
+          "hindi": "पंचम भाव में चन्द्रमा, बृहस्पति, शुक्र और शनि मनुष्य को राजाओं द्वारा पूजनीय, शास्त्रों के उपार्जन में तत्पर, धर्मपरायण, उत्तम पुत्रों वाला और अत्यंत बुद्धिमान बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 82,
+          "text": "मौम्ञजीवासुरपूजिताज्गाः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nअध्यात्मवेत्तारमरिप्रमुक्तं\nसन्तुष्टचित्त नृपवहछमं च",
+          "english": "Mars, Mercury, Jupiter, and Venus in the fifth house produce a person who is a knower of spiritual truth, free from enemies, content in mind, and beloved of the king.",
+          "hindi": "पंचम भाव में मंगल, बुध, बृहस्पति और शुक्र मनुष्य को अध्यात्म का ज्ञाता, शत्रुओं से रहित, संतुष्ट हृदय वाला और राजा का प्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 83,
+          "text": "भोमज्ञजी्ाकंयुताः सुतस्था ्\nनरं प्रकुर्वन्ति सुश्षीरमाजम्‌ ।\nधमेप्रानं पितृकारयदक्ष\nक्षमान्वितं सर्वजनानुरक्तम्‌",
+          "english": "Mars, Mercury, Jupiter, and Saturn in the fifth house make a person highly virtuous, righteous, skilled in ancestral rites, forgiving, and loved by all people.",
+          "hindi": "पंचम भाव में मंगल, बुध, बृहस्पति और शनि मनुष्य को अत्यंत सुशील, धर्म-परायण, पितृ-कार्यों (श्राद्ध आदि) में दक्ष, क्षमाशील और सभी लोगों का प्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 84,
+          "text": "मौमज्यकार्षसुताः सुतस्था\nनरं प्रकुर्वन्ति सुरूपगात्रम्‌ । `\nतृष्णाविहीनं नियमेन युक्त\nकुर्प्रधानं मतिद्युद्धिभाजम्‌",
+          "english": "Mars, Mercury, Venus, and Saturn in the fifth house produce a person who is handsome, free from greed, self-disciplined, a leader of their family, and possesses excellent intellect.",
+          "hindi": "पंचम भाव में मंगल, बुध, शुक्र और शनि मनुष्य को सुंदर अंगों वाला, लोभ-रहित, नियमबद्ध (अनुशासित), अपने कुल का प्रधान और तीक्ष्ण बुद्धि वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 85,
+          "text": "मोमामरेज्याभृगुजारकपुत्राः\nसुतस्थिताः सेजनयन्ति मर्यम्‌ ।\nसुमिष्टखभान्वितमिष्टसाधु\nसुभक्तिमूग्बेद गुरुद्धिजानाम्‌",
+          "english": "Mars, Jupiter, Venus, and Saturn in the fifth house produce a person of a sweet nature, who loves saintly people, and is devoted to Vedas, gurus, and brahmins.",
+          "hindi": "पंचम भाव में मंगल, बृहस्पति, शुक्र और शनि मनुष्य को अत्यंत मधुर स्वभाव वाला, सज्जनों का प्रिय, तथा वेदों, गुरुओं एवं ब्राह्मणों के प्रति उत्तम भक्ति रखने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 86,
+          "text": "सौम्यामरेऽ्याभृगुजार्कपुत्राः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nसुशिस्पवियाथचतुष्यदाढ्य\nश्रद्धापिकं कीर्तिसमन्वितं च",
+          "english": "Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person skilled in crafts and learning, wealthy, rich in cattle, full of faith, and famous.",
+          "hindi": "पंचम भाव में बुध, बृहस्पति, शुक्र और शनि मनुष्य को शिल्प (कला), विद्या, धन तथा पशुधन से समृद्ध, श्रद्धालु और कीर्तिवान बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 87,
+          "text": "रवीन्दु भोमज्ञसुरेनदरपूञ्याः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nविरूपदें मलदिग्धगात्र\nसन्तानमिष्टं बहुदोषयुक्तम्‌",
+          "english": "The Sun, Moon, Mars, Mercury, and Jupiter in the fifth house produce a person with a deformed and dirty body, who faces troubles regarding children, and is filled with many flaws.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध और बृहस्पति मनुष्य को कुरूप, मैल से लिप्त शरीर वाला, संतानों के संबंध में कष्ट उठाने वाला और अनेक दोषों से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 88,
+          "text": "रवीन्दुभोमक्ञसिताः सुतस्था\nनरं प्रकुर्वन्ति निज्ञान्धमुप्रम्‌ ।\nकदर्थिताङ्ग गणिकाप्रसक्तं\nप्रभूतरोगोपहतं सदैव",
+          "english": "The Sun, Moon, Mars, Mercury, and Venus in the fifth house make a person extremely fierce, having an injured body, attached to courtesans, and always afflicted by numerous diseases.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध और शुक्र मनुष्य को अत्यंत उग्र, पीड़ित शरीर वाला, वेश्याओं में आसक्त और सदा अनेक रोगों से ग्रस्त रहने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 89,
+          "text": "रवीन्दुभम्ञदिनेशपुत्राः\nसुनस्थिताः संजनयन्ति मर्यम्‌ ।\nवीं विवर्ण श्रुतिशास््रहीनं\nसुनिष्ठुराङ्ग गुणवजितं च",
+          "english": "The Sun, Moon, Mars, Mercury, and Saturn in the fifth house produce a person who is miserable, pale, devoid of scriptural knowledge, harsh-limbed, and devoid of virtues.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध और शनि मनुष्य को दीन (दुखी), कांतिहीन, वेद-शास्त्रों के ज्ञान से शून्य, अत्यंत कठोर शरीर वाला और सद्गुणों से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 90,
+          "text": "रवीन्दुभोमामरपूज्यशक्राः\nघुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nभरिया विहीने प्रचुरप्रकोपं\nबृथाटन्‌ बन्धुजनप्रमुक्तम्‌",
+          "english": "The Sun, Moon, Mars, Jupiter, and Venus in the fifth house produce a person devoid of a beloved/spouse, extremely short-tempered, wandering aimlessly, and abandoned by relatives.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बृहस्पति और शुक्र मनुष्य को प्रिय (पत्नी) से रहित, अत्यधिक क्रोधी, व्यर्थ ही इधर-उधर भटकने वाला और अपने बंधु-बांधवों द्वारा त्यागा हुआ बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 91,
+          "text": "रषीन्दुमोमामरपूज्यसोराः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nकुसङ्गरक्त कृतकोपचारं\nचारित्रहीनं हतसत्यमानम्‌",
+          "english": "The Sun, Moon, Mars, Jupiter, and Saturn in the fifth house produce a person attached to bad company, hypocritically polite, characterless, and lacking truthfulness and self-respect.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बृहस्पति और शनि मनुष्य को कुसंगति में आसक्त, बनावटी आदर (दिखावा) करने वाला, चरित्रहीन तथा सत्य और मान-मर्यादा से रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 92,
+          "text": "रवीन्दुसौम्यामरपूज्यश्क्राः\nसुतस्थिताः संजनयन्ति म्यम्‌ ।\nदुष्ट्णाते निजवन्धुमुक्तं\nदेवद्विजातिक्षतमक्तिकं च",
+          "english": "The Sun, Moon, Mercury, Jupiter, and Venus in the fifth house produce a person afflicted by painful wounds, abandoned by relatives, and completely lacking devotion to gods and brahmins.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बुध, बृहस्पति और शुक्र मनुष्य को कष्टदायक घावों से पीड़ित, अपने बंधुओं द्वारा त्यागा हुआ और देवताओं तथा ब्राह्मणों के प्रति भक्ति से सर्वथा रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 93,
+          "text": "रवीन्दुसोम्यासुरपूञ्यसोराः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nअसद्ययान्युतं व्ययातै\nपानप्रसक्तं कृपया विहीनम्‌",
+          "english": "The Sun, Moon, Mercury, Venus, and Saturn in the fifth house produce a person with deformed limbs, troubled by high expenses, addicted to drinking, and devoid of compassion.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बुध, शुक्र और शनि मनुष्य को अंग-विकार युक्त, भारी खर्चों से परेशान, मदिरापान में लिप्त और दया-रहित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 94,
+          "text": "रवीन्दुजीवासुरपूज्यसेराः\nसुतस्थिताः स जनयन्ति मत्यम्‌ ।\nविदहीनकोदा सुतमानहीनं\nसुनिःप्रम शोकसमन्ितं च",
+          "english": "The Sun, Moon, Jupiter, Venus, and Saturn in the fifth house produce a person who is poor, angry, lacking children and respect, lusterless, and filled with grief.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बृहस्पति, शुक्र और शनि मनुष्य को धनहीन, क्रोधी, संतान तथा सम्मान से रहित, सर्वथा तेजहीन और शोकग्रस्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 95,
+          "text": "ूर्यारसोम्यामरपूज्यशुक्राः `\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nकलत्रदोषोपहतं सुजात\nभयान्वितं व्यर्थसमुद्मं च",
+          "english": "The Sun, Mars, Mercury, Jupiter, and Venus in the fifth house produce a person who, though well-born, is afflicted by their spouse's flaws, filled with fear, and whose efforts are futile.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध, बृहस्पति और शुक्र मनुष्य को सुकुल में उत्पन्न होने पर भी पत्नी के दोषों से पीड़ित, भययुक्त और निष्फल प्रयत्नों वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 96,
+          "text": "सूर्यारसौम्यामरपूज्यसोराः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nविमूढबुद्धं प्रमदाप्रमुक्त\nसुदृष्टचित्त रणकातरं च",
+          "english": "The Sun, Mars, Mercury, Jupiter, and Saturn in the fifth house produce a highly foolish person, abandoned by women, evil-minded, and cowardly in battle.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध, बृहस्पति और शनि मनुष्य को महामूर्ख, स्त्रियों द्वारा त्यागा हुआ, कलुषित हृदय वाला और युद्ध में कायर बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 97,
+          "text": "सूर्यारसोम्यासुरपूज्यसोराः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nव्यपेतरज्जञ जितसाधुशेकं\nगतश्चिये पानपरं कृतघ्नम्‌",
+          "english": "The Sun, Mars, Mercury, Venus, and Saturn in the fifth house produce a person who is shameless, hostile to virtuous people, devoid of wealth, addicted to drinking, and ungrateful.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध, शुक्र और शनि मनुष्य को निर्लज्ज, सज्जनों को कष्ट देने वाला, लक्ष्मी (वैभव) से रहित, मदिरापान में लीन और कृतघ्न बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 98,
+          "text": "सूर्यारजीवासुरपूज्यसराः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nशिरोर्तिदाधे क्षतपीडिताङ्ग\nगुरुतहीनं विभवैः प्रमुक्तम्‌",
+          "english": "The Sun, Mars, Jupiter, Venus, and Saturn in the fifth house produce a person whose body is afflicted by headaches, burning sensations, and wounds, who lacks devotion to gurus, and is deprived of wealth.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बृहस्पति, शुक्र और शनि मनुष्य को सिर दर्द, जलन और घावों से पीड़ित शरीर वाला, गुरुभक्ति से रहित और धन-वैभव से सर्वथा हीन बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 99,
+          "text": "सूर्वज्ञजीवासुरपूऽयसौराः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nनेत्रन्यथापीडितमुग्रदोषं\nविदूपदेहं सततंं कुवलम्‌",
+          "english": "The Sun, Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person afflicted by eye ailments, having severe defects, a deformed body, and behaving in a degraded manner.",
+          "hindi": "पंचम भाव में सूर्य, बुध, बृहस्पति, शुक्र और शनि मनुष्य को नेत्र रोगों से पीड़ित, उग्र दोषों (विकारों) से युक्त, कुरूप शरीर वाला और सदा कुत्सित व्यवहार करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 100,
+          "text": "चन्द्रारसौम्यामरपूज्यश्क्राः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nउत्साहदीनं सततंं वृरोसं\nविचा्चकामार्थसमन्वितं च",
+          "english": "The Moon, Mars, Mercury, Jupiter, and Venus in the fifth house produce a person devoid of enthusiasm, always cruel, yet possessing peculiar desires and wealth.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध, बृहस्पति और शुक्र मनुष्य को उत्साह-हीन, सदैव क्रूर, किन्तु विचित्र कामनाओं तथा धन से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 101,
+          "text": "चन्द्रारसोम्यामरपूज्यसौराः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nभहुप्रतापं व्यसनैर्विसुक्तं\nशुरं प्रभुं मानस्षमन्वितं च",
+          "english": "The Moon, Mars, Mercury, Jupiter, and Saturn in the fifth house produce a highly glorious person, free from vices, brave, authoritative, and noble-minded.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध, बृहस्पति और शनि मनुष्य को महाप्रतापी, व्यसनों से रहित, शूरवीर, स्वामी (अधिकारी) और उच्च विचारों वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 102,
+          "text": "चन्दरारसौम्याबुरपूज्यसौराः `\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nदाक्षिण्यश्ीर सुतवित्तभाज\nजितेन्दियं क्षान्तिपरं सदेव",
+          "english": "The Moon, Mars, Mercury, Venus, and Saturn in the fifth house produce a person who is courteous, blessed with children and wealth, self-controlled, and always forgiving.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध, शुक्र और शनि मनुष्य को उदार आचरण (दाक्षिण्य) वाला, संतान तथा धन का स्वामी, जितेन्द्रिय और सदैव क्षमाशील बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 103,
+          "text": "चन्द्रारजीवाघुरपूज्यसौराः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nसुमानिनं दुजनमप्रमेयं\nपरभूतकोद्यं सुतवत्सल च",
+          "english": "The Moon, Mars, Jupiter, Venus, and Saturn in the fifth house produce a person who is highly self-respecting, incomprehensible to wicked people, possessing a large treasury, and very affectionate to their children.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बृहस्पति, शुक्र और शनि मनुष्य को स्वाभिमानी, दुष्टों के लिए समझ से परे, प्रचुर कोष (खजाने) का स्वामी और अपनी संतान से अत्यधिक स्नेह करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 104,
+          "text": "चन्दज्ञजीवामुरपूम्यसैराः\nसुतस्थिताः संजनयन्ति मर्त्यम्‌ ।\nविस्तीणेकीतिं कुख्बन्धुमुख्यं\nविनीतवेश्चाभरणे §दान्तम्‌",
+          "english": "The Moon, Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person of widespread fame, chief among their family and relatives, wearing humble attire, and self-restrained.",
+          "hindi": "पंचम भाव में चन्द्रमा, बुध, बृहस्पति, शुक्र और शनि मनुष्य को विस्तृत कीर्ति (यश) वाला, अपने कुल तथा बंधुओं में प्रमुख, शालीन वेशभूषा और आभूषण धारण करने वाला तथा संयमी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 105,
+          "text": "भौम्ञजीवासुरपूज्यसोराः न\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nप्ररास्तवाक्य प्रणते विनीते\nदयान्विते दानर्चि ससत्यम्‌",
+          "english": "Mars, Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person who speaks praiseworthy words, is humble, polite, compassionate, fond of charity, and truthful.",
+          "hindi": "पंचम भाव में मंगल, बुध, बृहस्पति, शुक्र और शनि मनुष्य को प्रशंसनीय वचन बोलने वाला, विनम्र, विनीत, दयालु, दान में रुचि रखने वाला और सत्यवादी बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 106,
+          "text": "रवीन्दु भौमज्ञसुरेऽयश्चुक्राः\nसुतस्थिताः संजनयन्ति मत्यम्‌ ।\nदारिद्रदुःखान्वितमचस्पबुद्धि\nमलिम्हुचं निष्टुरवाक्यरक्तम्‌",
+          "english": "The Sun, Moon, Mars, Mercury, Jupiter, and Venus in the fifth house produce a person afflicted by poverty, of low intellect, deceitful, and prone to speaking harsh words.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध, बृहस्पति और शुक्र मनुष्य को दरिद्रता के दुख से युक्त, मंदबुद्धि, चोरी या कपट करने वाला और कठोर वचन बोलने में रुचि रखने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 107,
+          "text": "रवीन्दु मौमक्ञसुरेज्यसीराः\nसुस्थिता; संजनयन्ति मर्यम्‌ ।\nअरोगमोजोन्वितमुख्यदारं\nप्रषानदक्ति बहुपौरुषं च",
+          "english": "The Sun, Moon, Mars, Mercury, Jupiter, and Saturn in the fifth house produce a disease-free, vigorous person, who has a prominent spouse, great devotion, and immense courage.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध, बृहस्पति और शनि मनुष्य को निरोगी, ओजस्वी, प्रमुख (कुलीन) पत्नी वाला, उत्तम भक्ति वाला और महान पुरुषार्थ से युक्त बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 108,
+          "text": "रषीन्दुभोमकञसितार्कपुत्राः\nसुतस्थिताः सेजनयन्ति मत्यम्‌ ¦\nप्रियातिथि चारुविशालनेत्रं\nकरुस्वनं नीतिसमन्वितं चं",
+          "english": "The Sun, Moon, Mars, Mercury, Venus, and Saturn in the fifth house produce a person who is hospitable to guests, has beautiful large eyes, a sweet voice, and is endowed with ethical wisdom.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध, शुक्र और शनि मनुष्य को अतिथियों का सत्कार करने वाला, सुंदर और बड़े नेत्रों वाला, मधुर आवाज वाला और नीतिवान बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 109,
+          "text": "रवीन्दुसोम्यामरपूज्यशुक्र-\nनैश्चराः संजनयन्ति मर्त्यम्‌ ।\nकृपाविदहीनं न यशस्यभाज\nविदेशरक्तं परतर्ककं च",
+          "english": "The Sun, Moon, Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person who is devoid of compassion, lacks fame, is fond of foreign lands, and is argumentative.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, बुध, बृहस्पति, शुक्र और शनि मनुष्य को दया-रहित, यश से वंचित, विदेश प्रेमी और दूसरों से व्यर्थ तर्क करने वाला बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 110,
+          "text": "सर्यारसोम्यामरपूज्यशुक्र-\nशनैश्वराः संजनयन्ति मर्त्यम्‌ ।\nहृतप्रमावं परदाररक्त\nविहीनकोक् रिपुनिन्दितं च",
+          "english": "The Sun, Mars, Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person deprived of influence, attached to others' wives, lacking wealth, and blamed by enemies.",
+          "hindi": "पंचम भाव में सूर्य, मंगल, बुध, बृहस्पति, शुक्र और शनि मनुष्य को प्रभावहीन, पराई स्त्री में आसक्त, खजाने (धन) से हीन और शत्रुओं द्वारा निंदित बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 111,
+          "text": "चन्द्रारसोम्यामरपूज्यशुक- ।\nशनैः सं नयन्ति मर्त्यम्‌ !\nअध्यालविद्यानिरतं पुमुस्यं\nधनानित बान्धवसंमतं ब",
+          "english": "The Moon, Mars, Mercury, Jupiter, Venus, and Saturn in the fifth house produce a person devoted to spiritual knowledge, always cheerful, wealthy, and loved by relatives.",
+          "hindi": "पंचम भाव में चन्द्रमा, मंगल, बुध, बृहस्पति, शुक्र और शनि मनुष्य को आध्यात्मिक विद्या में लीन, सदा प्रसन्न रहने वाला, धनवान और बंधु-बांधवों का प्रिय बनाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 112,
+          "text": "रवीन्दुभोमजसुरेञशत्र-\nरनेश्चगः संजनयन्ति मत्यम्‌ ।\nसुतस्थिताः सवेकृलमु दक्षं\nप्रभूतत्रियानिवितमीशवरं च",
+          "english": "The Sun, Moon, Mars, Mercury, Jupiter, Venus, and Saturn (all seven planets) in the fifth house produce a highly skilled person of noble birth, who possesses abundant wealth and is lordly.",
+          "hindi": "पंचम भाव में सूर्य, चन्द्रमा, मंगल, बुध, बृहस्पति, शुक्र और शनि (सातों ग्रह) मनुष्य को अपने कुल में श्रेष्ठ, अत्यंत दक्ष (कुशल), प्रचुर अन्न-धान्य से युक्त और ऐश्वर्यशाली (ईश्वर के समान) बनाते हैं।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

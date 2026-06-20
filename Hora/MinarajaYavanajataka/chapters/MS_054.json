@@ -1,0 +1,938 @@
+{
+  "text_id": "minaraja_yavana_jataka",
+  "title_sa": "यवनजातकम्",
+  "title_en": "Minaraja Yavana Jataka",
+  "category": "hora",
+  "chapters": [
+    {
+      "number": 54,
+      "title": "तन्वादिद्वादशभावधीशफलाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "1४ सैः-22 श्र 01, 1. 26 पिषीलिङाख्यः 1.5 20 सुखदीनपुत्र ©\nचतुःपश्चारात्तमोऽध्यायः ॥ ५४॥\nप्रणिपत्य परं ञ्योतिर्यातिते जगतीतर तपः शमनम्‌ ।\nजन्मप्रदीपशास्त्र भावापिपमेरनो त्क्य",
+          "english": "Bowing down to the supreme light (or the Supreme Being) who quietens the distress of the world, I describe the results of the lords of the houses (bhavas) according to the science of Janma Pradipa (horoscopy).",
+          "hindi": "जगत् के संताप का शमन करने वाले परम ज्योति स्वरूप (परमेश्वर/सूर्य) को प्रणाम करके, जन्मप्रदीप शास्त्र (जन्मपत्रिका विज्ञान) के अनुसार भावों के स्वामियों (भावेशों) के फलों का वर्णन करता हूँ।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "रसराधिपतिटेमे नीरोगं दीथजीमितं कुर्न ।\nअतिवटमवरनिर्पाति वा मृलाधममनिविते जातम्‌",
+          "english": "If the lord of the ascendant (lagna) is placed in the ascendant itself, it makes the native healthy, long-lived, extremely strong, a king, or one who rises from a humble origin to a high status.",
+          "hindi": "यदि लग्नेश लग्न में ही स्थित हो, तो वह जातक को निरोगी, दीर्घायु, अत्यंत बलवान, राजा अथवा अत्यंत साधारण कुल में उत्पन्न होने पर भी उच्च पद प्राप्त करने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "टञ्मपतिधनभवने धनवन्तं दीषजीवित रभू ।\nस्थानप्रधानम्वनी् सक्वर्मरतं मर कुरुत",
+          "english": "If the lord of the ascendant is in the second house, it makes the native wealthy, long-lived, prominent in his place of residence, respected on the earth, and devoted to good deeds.",
+          "hindi": "यदि लग्नेश द्वितीय भाव (धन भाव) में हो, तो वह जातक को धनवान, दीर्घजीवी, अपने स्थान पर प्रमुख, पृथ्वी पर सम्मानित और सत्कर्मों में लीन रहने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "सह जगतो रस्यति: महन्धुप्रवरं भित्रपरि फलिपतम्‌ ।\nधर्मरतं दराठारं शुरं सवय करोति न्य्‌",
+          "english": "If the lord of the ascendant is in the third house, it makes the native have excellent relatives and brothers, protected by friends, devoted to righteousness (dharma), charitable, brave, and virtuous.",
+          "hindi": "यदि लग्नेश तृतीय भाव (सहज भाव) में हो, तो वह जातक को उत्तम भाई-बंधुओं से युक्त, मित्रों द्वारा रक्षित, धर्म में रुचि रखने वाला, दानी, शूरवीर और सद्गुणी बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "लग्रदाम्तु्यगतो नृपप्रियं प्रचु जीपितं पुम्‌ ।\nसलुव्पमित्र पित्रोभ॑कते सब्रहुमोजनं कुस्ते",
+          "english": "If the lord of the ascendant is in the fourth house, it makes the native dear to the king, long-lived, respected in their own family, devoted to their parents, and fond of eating or possessing a good appetite.",
+          "hindi": "यदि लग्नेश चतुर्थ भाव (सुख/बन्धु भाव) में हो, तो वह पुरुष को राजा का प्रिय, दीर्घायु, अपने कुल में पूजनीय, माता-पिता का भक्त और प्रचुर भोजन करने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "पृरचमगो रययपतिः सुभं स्त्यागा म मीश्वरं विदितम्‌\nबहुजीचितं सुगीतं सक्रमःतं नरं बुस्ते",
+          "english": "If the lord of the ascendant is in the fifth house, it makes the native blessed with good sons, intelligent, famous, long-lived, renowned, and devoted to good actions.",
+          "hindi": "यदि लग्नेश पंचम भाव (पुत्र/बुद्धि भाव) में हो, तो वह जातक को उत्तम पुत्रों से युक्त, बुद्धिमान, विख्यात, दीर्घजीवी, सुप्रसिद्ध और सत्कर्मों में तत्पर बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "कृपणे धनिनमरिनच सृकर्मपक्नानिविनं कुर्ते ॥ ५॥\nप्रथमधने। सक्तमगं तेजम्बी कटवा भवन पुरपः ।\nतद्धार्याि मृङ्ञीरा तेजःकरिता यृख्था च!",
+          "english": "If the ascendant lord is in the sixth or seventh house, it makes the native miserly, wealthy, subduing enemies, and devoted to good deeds. If the lord of the second house is in the first house, the native is attached to sensory pleasures, radiant, and harsh-spoken; his wife is also beautiful, radiant, and belongs to a respectable family.",
+          "hindi": "यदि लग्नेश छठे या सातवें भाव में हो, तो वह जातक को कंजूस, धनवान, शत्रुओं का नाश करने वाला तथा सत्कर्मों में रुचि रखने वाला बनाता है। यदि द्वितीयेश प्रथम भाव (लग्न) में हो, तो जातक विषयों में आसक्त, तेजस्वी और कटुभाषी होता है; उसकी पत्नी भी सुंदर, तेजस्विनी और कुलीन होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "€ 2 ल्मे 8८, पुम्पे 1 312 दीव ८11. ८\", विपुल\" । 36 “मनि 1\n२८० बद्धयचनजाते\nटद्यपतावष्टमगे कृपणो धनसंचयः सुदीर्घायुः ।\nक्रूरे खेचरे कडुजल्पको मूर्खो मवत्येव",
+          "english": "If the lord of the ascendant is in the eighth house, the native is miserly, accumulates wealth, and is long-lived. If a malefic planet is there, he becomes harsh-spoken and foolish.",
+          "hindi": "यदि लग्नेश अष्टम भाव में हो, तो जातक कंजूस, धन संचय करने वाला और दीर्घायु होता है। यदि वहां क्रूर ग्रह हो, तो वह कटु वचन बोलने वाला और मूर्ख होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "मूर्तिपतिर्यदि नवमे तदा भवेत्‌ प्रवरबान्धवः सृतः ।\nसमसक्चश्च सक्षीरः सुृतस्यातः सुतेजस्वी",
+          "english": "If the lord of the ascendant is in the ninth house, the native is blessed with excellent relatives, is well-balanced, of good character, famous for his virtuous deeds, and highly radiant.",
+          "hindi": "यदि लग्नेश नवम भाव (भाग्य भाव) में हो, तो जातक उत्तम भाई-बंधुओं से युक्त, समभावी, सुशील, अपने पुण्यों के लिए प्रसिद्ध और अत्यंत तेजस्वी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "प्रथमेरो दशमस्थे नृपलामः पण्डितः सुशीलश्च |\nगुरुमात्रृपूजनमतिनःप्रसिद्धो नरो मवति",
+          "english": "If the lord of the ascendant is in the tenth house, the native gains from the king, is wise, of excellent character, devoted to worshiping gurus and the mother, and becomes highly famous.",
+          "hindi": "यदि लग्नेश दशम भाव (कर्म भाव) में हो, तो जातक को राजकृपा से लाभ प्राप्त होता है, वह बुद्धिमान, सुशील, गुरुओं और माता की सेवा-पूजा में लीन तथा सुप्रसिद्ध होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "एकादशषगस्तनुपः सुजीवितं सुतसमन्वितं विदितम्‌ ।\nतेजःकलितं पुरुषं कुरुते बलिनं नृप्राहमपि च",
+          "english": "If the lord of the ascendant is in the eleventh house, the native has a good life span, is blessed with sons, is radiant, strong, and highly favored or accepted by the king.",
+          "hindi": "यदि लग्नेश एकादश भाव (आय भाव) में हो, तो वह जातक को दीर्घजीवी, पुत्रवान, तेजस्वी, बलवान और राजा द्वारा आदर या लाभ प्राप्त करने वाला बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "द्वादशमे मूर्तिपतो कटुभाषी वादकारको मानी ।\nसहगो विधिमिङितानां विदेशगो दत्तभुक्तो नरः",
+          "english": "If the lord of the ascendant is in the twelfth house, the native is harsh-spoken, argumentative, proud, travels to foreign lands, and lives on what is given by others.",
+          "hindi": "यदि लग्नेश द्वादश भाव (व्यय भाव) में हो, तो जातक कटुभाषी, विवाद करने वाला, अभिमानी, विदेश जाने वाला तथा दूसरों के द्वारा दिए गए धन पर जीवन यापन करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "पूजनरतः 1 122. एकादशम” $ 127 सुख “सर 01. 805 विदात 8८\n¢, चरसादपि चेन्‌ 8, त्रसीदपि चेत्‌ ऽ, सलाभकरं 7 7132. द्दशगे 89, ददशो 1\nधनपो धनमवनस्थो बहुवित्तं भोगभाजनं पुरुषम्‌ ।\nलाभाधिक्रात्‌ सखम कुरुते पुरुषं सदा दक्षम्‌",
+          "english": "If the lord of the second house is in the second house itself, it makes the native very wealthy, an enjoyer of pleasures, happy due to abundant gains, and always skillful.",
+          "hindi": "यदि द्वितीयेश द्वितीय भाव (धन भाव) में ही स्थित हो, तो वह जातक को अत्यधिक धनवान, भोगों का उपभोग करने वाला, अधिक लाभ से सुखी और सदैव चतुर बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "सहजगते तु धनेशो व्यवसायी गािकरः कलीनः ।\nचौरश्चलचित्तो वा भवति नरो नवकखहीनः",
+          "english": "If the lord of the second house is in the third house, the native is industrious, a singer (or artistic), noble, or may become a thief, fickle-minded, or lacking in physical beauty/possessions.",
+          "hindi": "यदि द्वितीयेश तृतीय भाव में हो, तो जातक परिश्रमी, गायक, कुलीन, अथवा चोर, चंचल चित्त वाला या शारीरिक अंगों/वस्तुओं से हीन होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "तर्यगते द्रविणपती प्तृखाभपरः सदोदयः पुरुपः\nदीर्घायुः क्रूरे पुनरम्बामरणं विनिर्देश्यम्‌",
+          "english": "If the lord of the second house is in the fourth house, the native gains from his father, is always progressive and prosperous, and is long-lived. If a malefic planet is present, the death or distress of the mother is indicated.",
+          "hindi": "यदि द्वितीयेश चतुर्थ भाव में हो, तो जातक पिता से लाभ प्राप्त करने वाला, सदैव उन्नतिशील और दीर्घायु होता है। यदि वहां क्रूर ग्रह हो, तो माता की मृत्यु या कष्ट का निर्देश करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "कपण दुःखनिधानं धर्मरतं विपुरसच्संयुक्तम्‌ ।\nपुरुषं कयोरहदयं तनयगतो धनपति; कुरते",
+          "english": "If the lord of the second house is in the fifth house, it makes the native miserly, a vessel of sorrow, or devoted to righteousness, possessed of great happiness, and compassionate.",
+          "hindi": "यदि द्वितीयेश पंचम भाव में हो, तो वह जातक को कंजूस, दुःख का पात्र, अथवा धर्मपरायण, प्रचुर सुख से युक्त और दयालु हृदय बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "षष्ठगतो द्रविणपतिधनसङ्ग्रहतत्परं रिपष्नं च ।\nकुरूते दुःखसमेतं पापे धनवर्जिते पुरुषम्‌",
+          "english": "If the lord of the second house is in the sixth house, the native is intent on accumulating wealth and destroys his enemies. If afflicted by a malefic, he is sorrowful and devoid of wealth.",
+          "hindi": "यदि द्वितीयेश छठे भाव में हो, तो जातक धन संग्रह में तत्पर रहने वाला और शत्रुओं का नाश करने वाला होता है। यदि पाप ग्रह से युक्त हो, तो जातक को दुःखी और धन से रहित करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "क्‌ गलिः 8 1546 आचिकः 875 खा? 87 शद्वतिते। ऽ, श्दितो ४, °दितिनो ए\n२८२ बृडयवनजातवे\nधनसस्प्रहणी भार्या क्रूरे सचरे मवति वन्ध्या",
+          "english": "If the lord of the second house is in the seventh house, the native's wife accumulates wealth. If a malefic planet is present, she may be childless or barren.",
+          "hindi": "यदि द्वितीयेश सप्तम भाव में हो, तो जातक की पत्नी धन का संग्रह करने वाली होती है। यदि क्रूर ग्रह हो, तो वह संतानहीन (वन्ध्या) होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "धनपेऽष्टमभवनस्येऽष्टकपाली चातमघातकः पुरुषः ।\nउत्यन्नमुग्विटसी परहिंसी भवति देवपरः",
+          "english": "If the lord of the second house is in the eighth house, the native becomes a beggar or gambler, is self-destructive, seeks pleasure from others, harms others, yet remains devoted to the gods.",
+          "hindi": "यदि द्वितीयेश अष्टम भाव में हो, तो जातक भिक्षुक या जुआरी, आत्मघाती, दूसरों के सुखों को बिगाड़ने वाला या दूसरों का अहित करने वाला, फिर भी देवताओं की पूजा में तत्पर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "धनपे धर्मगृहस्थे सौम्ये दानप्रसिद्धिमाग्भवति ।\nक्रूरे दरिद्रमिश्चुकविडम्बवृत्तितथा मनुजः",
+          "english": "If the lord of the second house is in the ninth house, and is a benefic, the native becomes famous for his charity. If it is a malefic, the native is poor, a beggar, and leads a deceitful or deplorable life.",
+          "hindi": "यदि द्वितीयेश नवम भाव (धर्म भाव) में हो, और वह सौम्य ग्रह हो, तो जातक दान के कारण प्रसिद्धि प्राप्त करता है। यदि वह क्रूर ग्रह हो, तो मनुष्य दरिद्र, भिक्षुक और निंदनीय आजीविका वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "करूरम्रहेऽपि मातुः पितुश्च परिपाख्कः पुरुषः ॥ २३॥\nएकादशगः स्वपतिव्यैवहारपरं श्रियः पतिं ख्यातम्‌ ।\nछोकौघप्रतिपाखननिरतं कुरते नरं जातम्‌",
+          "english": "Even with a malefic planet there, if it is associated with a benefic, the native protects his parents. If the lord of the second house is in the eleventh house, the native is engaged in trade, is very wealthy, famous, and devoted to supporting many people.",
+          "hindi": "क्रूर ग्रह होने पर भी यदि सौम्य संबंध हो तो वह माता-पिता का पालन करने वाला होता है। यदि द्वितीयेश एकादश भाव में हो, तो वह जातक को व्यापार में तत्पर, धनपति, प्रसिद्ध और जनसमूह का पालन-पोषण करने में संलग्न बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "द्वादशगे द्रविणपतावष्टकपाटी विदेशनिरतश्च ।\nदुःकर्मा भिष्वुश्च रे सोम्ये च सङ्ग्रा",
+          "english": "If the lord of the second house is in the twelfth house, the native is a beggar, resides in foreign lands, does bad deeds, and is a mendicant; but if it is a benefic, he is a collector of wealth.",
+          "hindi": "यदि द्वितीयेश द्वादश भाव में हो, तो जातक भिक्षुक, विदेश में रहने वाला, बुरे काम करने वाला और संन्यासी होता है; यदि सौम्य ग्रह हो तो वह धन का संग्रह करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "20 गा. 8 208 ग्त्रहगे 2, गेहे 1, गे € 200 शेष्ठान्विता\n25 236 सौम्यः 1, सौम्ये 878 गृहे ८०५. च ए75 230 \"पालकः ,\nसहजपतो रनगते वादी स्त्रीरम्पटः स्वजनमेदी ।\nसेवारतः सरोभी कूटकरो ग्याधितः पुरूषः",
+          "english": "If the lord of the third house is in the ascendant, the native is talkative, lustful, creates rifts among his own relatives, is engaged in service, is fearful or greedy, deceitful, and sickly.",
+          "hindi": "यदि तृतीयेश लग्न में हो, तो जातक बातूनी, परस्त्रीगामी, अपने ही लोगों में भेद उत्पन्न करने वाला, सेवा कार्य में लगा रहने वाला, भयभीत या लोभी, कपटी और रोगी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "धनगृहगे सहजेरो मिक्षुनिधनोऽस्पजीवितो मनुजः ।\nसहजगतः सहजयपतिः सहजसमव्वं सुदटच्छुभे सुजनम्‌ ।\nदेषगुरुपूजनरतं कृपल्यभपरं नरं कुरते",
+          "english": "If the lord of the third house is in the second house, the native is a poor beggar and short-lived. If the lord of the third house is in the third house itself, it makes the native a good person, surrounded by brothers, devoted to worshiping gods and gurus, and compassionate.",
+          "hindi": "यदि तृतीयेश द्वितीय भाव (धन भाव) में हो, तो जातक निर्धन भिक्षुक और अल्पायु होता है। यदि तृतीयेश तृतीय भाव में ही स्थित हो, तो वह जातक को उत्तम भाई-बंधुओं से युक्त, सज्जन, देवताओं तथा गुरुओं की पूजा में लीन और दयालु बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "्रातृपती तुर्यगते पितृसोदरग्ुषृदुदयङ्कततेषाम्‌ ।\nमात्रा सह वैरकरः पितृवित्तप्रमक्षकः पुरुषः",
+          "english": "If the lord of the third house is in the fourth house, the native causes the rise and happiness of his father's brothers and friends, but has enmity with his mother and consumes his father's wealth.",
+          "hindi": "यदि तृतीयेश चतुर्थ भाव में हो, तो जातक पिता के भाइयों (चाचाओं) और मित्रों के अभ्युदय का कारण बनता है, परंतु माता से शत्रुता रखने वाला और पिता के धन को नष्ट करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "दुश्चिकयपतौ सुते सुत्रानधवः सुनसहोदरेः पाल्य: ।\nदीर्थायुभमैवति नरः परोपकोरेकनिरतमतिः",
+          "english": "If the lord of the third house is in the fifth house, the native is blessed with good sons and brothers, is supported by them, is long-lived, and has his mind devoted to helping others.",
+          "hindi": "यदि तृतीयेश पंचम भाव में हो, तो जातक उत्तम पुत्रों और भाइयों से युक्त होता है, उनके द्वारा पोषित होता है, दीर्घायु होता है और परोपकार में ही उसकी बुद्धि लगी रहती है।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "षष्ठगते सजेरो बन्धुविरोधी च नयनरोगी च ।\nमूलामी भवति भृशः कदाचिदपि रोगभयक्रलितः ॥ २३१ ॥\nसक्ठमगे सहजेदो नरस्य भार्या भवेत्‌ प्रवररूपा ।\nतौमाग्यवती साध्वी वरे देवरगृहं याति",
+          "english": "If the lord of the third house is in the sixth house, the native is hostile to his relatives, suffers from eye diseases, is highly distressed, and is sometimes afflicted by the fear of disease. If the lord of the third house is in the seventh house, the native's wife is extremely beautiful, fortunate, chaste, and goes to the house of her brother-in-law.",
+          "hindi": "यदि तृतीयेश छठे भाव में हो, तो जातक बंधु-बांधवों का विरोधी, नेत्र रोगी, अत्यंत पीड़ित और कभी-कभी रोगों के भय से ग्रस्त होता है। यदि तृतीयेश सप्तम भाव में हो, तो जातक की पत्नी अत्यंत रूपवती, सौभाग्यवती, पतिव्रता और देवर के घर जाने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "आतृध्रमुर्टमगः सरुजं मृतसोदरं नरं कुरुते ।\nक्रे बाहव्यज्ग जीविति यचषटवर्षाणि",
+          "english": "If the lord of the third house is in the eighth house, the native is sickly and his brothers die. If it is a malefic, he may have physical deformities and live only for a short time.",
+          "hindi": "यदि तृतीयेश अष्टम भाव में हो, तो जातक रोगी होता है और उसके भाई नष्ट (मृत) हो जाते हैं। यदि क्रूर ग्रह हो, तो जातक शारीरिक अंग विकृति से युक्त और अल्पजीवी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "सहज 875\n३८४ -बुदधयवनजातषे\nधर्मेगते सहजपते क्रूरे बन्धूत्थितस्तथा सोम्ये ।\nसद्वान्धवश्च सुङृती सोदरभक्तो भवेन्मनुजः",
+          "english": "If the lord of the third house is in the ninth house, and it is a malefic, the native faces troubles arising from relatives; if it is a benefic, he is blessed with good relatives, is virtuous, and is devoted to his brothers.",
+          "hindi": "यदि तृतीयेश नवम भाव में हो, और वह क्रूर ग्रह हो, तो बंधु-बांधवों से कष्ट उत्पन्न होता है; यदि सौम्य ग्रह हो, तो जातक उत्तम बंधुओं से युक्त, धर्मात्मा और भाइयों का भक्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "उत्तमबन्धुबैनधुषु विनिश्ितो जायते मनुजः ॥ २५॥\nलामस्थः सहजेश्चः सुबान्धवं राजखामिनं स्यातम्‌ ।\nकुरुते बन्धुषु सेवाविधायिनं भोगनिरतं च",
+          "english": "The native is established among excellent relatives. If the lord of the third house is in the eleventh house, it makes the native famous, possessing good relatives, a royal officer, serving his relatives, and devoted to pleasures.",
+          "hindi": "जातक उत्तम बंधु-बांधवों में प्रतिष्ठित होता है। यदि तृतीयेश एकादश भाव में हो, तो जातक उत्तम बंधुओं से युक्त, प्रसिद्ध राज्याधिकारी, बंधुओं की सेवा करने वाला और सुख-भोगों में लीन रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "उययगे दुधिक्येशो मित्रनिरोधी स्वबन्धुसन्तापी ।\nदूरे वासितवन्पर्विदेशगामी नरौ मवति",
+          "english": "If the lord of the third house is in the twelfth house, the native opposes his friends, torments his own relatives, lives far away from his kin, and travels to foreign lands.",
+          "hindi": "यदि तृतीयेश द्वादश भाव में हो, तो जातक मित्रों का विरोध करने वाला, अपने बंधु-बांधवों को संताप देने वाला, अपने सगे-संबंधियों से दूर रहने वाला और विदेश गमन करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "ुर्यपतिङनगतः पितपत्री स्नेदल मिथः कुरुते ।\nपितृपक्षेवेरकटिते पितृनाम्ना मवि प्रसिद्ध च",
+          "english": "If the lord of the fourth house is in the ascendant, it creates mutual affection between the father and the wife (or mother), makes the native famous by his father's name, but sometimes involved in paternal family disputes.",
+          "hindi": "यदि चतुर्थेश लग्न में स्थित हो, तो वह पिता और पत्नी के बीच परस्पर स्नेह उत्पन्न करता है, जातक को पिता के नाम से प्रसिद्ध करता है, परंतु कभी-कभी वह पितृपक्ष के विवादों में उलझा रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "पातार्पे धनस्थे क्रूरखगे पितृव्रिरोधङ्च शमे ।\nपितृपालकरः प्रसिद्धः पितापि भुनक्ति च तलटक्ष्मीम्‌",
+          "english": "If the lord of the fourth house is in the second house, and is a malefic, there are disputes with the father; if it is a benefic, the native protects and serves the father, is famous, and the father also enjoys his wealth.",
+          "hindi": "यदि चतुर्थेश द्वितीय भाव (धन भाव) में हो, और वह क्रूर ग्रह हो तो पिता के साथ विरोध होता है; यदि सौम्य ग्रह हो तो जातक पिता का पालन-पोषण करने वाला और प्रसिद्ध होता है, तथा पिता भी उसके धन का उपभोग करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "सौम्यः ऽ 34१ °भोक्तो 875 भवति 818 35 ०1. 35 °वेधुः\nतर्यशः सह जश्थः पितृम।तृच्छेदकं विदितपितरम्‌ ।\nपिता सह कलह परं पितृबान्धवघातकं पुरुषम्‌",
+          "english": "If the lord of the fourth house is in the third house, it causes separation from or loss of parents, though the father is known; the native is prone to quarrels with the father and acts as a destroyer of paternal relatives.",
+          "hindi": "यदि चतुर्थेश तृतीय भाव में हो, तो जातक के माता-पिता का वियोग या ह्रास होता है (यद्यपि पिता प्रसिद्ध होता है), वह पिता के साथ कलह करने में तत्पर और पितृपक्ष के बंधुओं का अहित करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "तु्यैगते तुयैपतों पितुगज्ञारक्षकः सदा दष्टः ।\nविदितः पिवृखमकरो भवति सुकर्मा सुखी निधिपः",
+          "english": "If the lord of the fourth house is in the fourth house itself, the native is always seen to protect his father's commands. He is renowned, brings happiness to his father, does good deeds, is happy, and becomes a treasurer or wealthy.",
+          "hindi": "यदि चतुर्थेश चतुर्थ भाव में ही स्थित हो, तो जातक सदैव अपने पिता की आज्ञा का पालन करने वाला देखा जाता है। वह प्रसिद्ध होता है, पिता को सुख देने वाला, सत्कर्मी, सुखी और कोषपति (धनी) होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "सुतगे तुर्यगृहेशे पिता सरमोद्रतश्च दीर्घायुः ।\nभवति क्षितौ प्रसिद्धः ससुतः पुतपालकः सोऽपि",
+          "english": "If the lord of the fourth house is in the fifth house, the native's father is highly elevated and long-lived; the native becomes famous on earth, is blessed with sons, and supports his children.",
+          "hindi": "यदि चतुर्थेश पंचम भाव में हो, तो जातक का पिता अत्यंत उन्नत और दीर्घायु होता है; जातक पृथ्वी पर प्रसिद्ध होता है, पुत्रवान होता है और अपनी संतानों का पालन करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "हिबुकपतो रिपुसंस्ये पितुर्थविनाशकः पितरि वैरी ।\nपितृदवेषकररः क्रूरे सौम्ये धनसंचयम्तनयः",
+          "english": "If the lord of the fourth house is in the sixth house, the native destroys his father's wealth and is hostile to the father. If it is a malefic, he hates the father; if a benefic, the son accumulates wealth.",
+          "hindi": "यदि चतुर्थेश छठे भाव में हो, तो जातक पिता के धन का विनाश करने वाला और पिता का वैरी होता है। क्रूर ग्रह होने पर वह पिता से द्वेष करता है; सौम्य ग्रह होने पर वह पुत्र धन का संचय करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "अम्बुपतौ सप्तमगे क्रे श्वञ्युरं म्नुषां न पाटयति ।\nसोम्ये पालयति पुनः कुख्ान्तं कुञजकवी कुरूतः",
+          "english": "If the lord of the fourth house is in the seventh house, and it is a malefic, the native does not protect or care for his father-in-law or daughter-in-law. If it is a benefic, he protects them, brings prosperity to his family, and makes them happy.",
+          "hindi": "यदि चतुर्थेश सप्तम भाव में हो, और वह क्रूर ग्रह हो, तो जातक ससुर या पुत्रवधू का पालन नहीं करता है। यदि सौम्य ग्रह हो, तो वह उनका पालन करता है, अपने कुल को आनंदित और सुखी बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "छिद्रगतस्तुयेपतिः करो रोगान्वितं दरं च ।\nदुःकर्मरतं मन्युप्रियमथवा मानवं कुस्ते",
+          "english": "If the lord of the fourth house is in the eighth house, it makes the native sickly, poor, devoted to evil deeds, or dear to angry or wicked people.",
+          "hindi": "यदि चतुर्थेश अष्टम भाव में हो, तो वह मनुष्य को रोगयुक्त, निर्धन, दुष्कर्मों में लगा रहने वाला अथवा क्रोधी या दुष्टों का प्रिय बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "सुङ्कतगते तु्ैपतौ पितर्यसङ्गी समस्तवि्यावान्‌ ।\nपितृधर्मसङ्ग्रह परः पितृनिरपेक्षो भवेन्मनुजः",
+          "english": "If the lord of the fourth house is in the ninth house, the native is detached from or independent of his father, possesses all branches of learning, is intent on accumulating the virtues and righteousness of his father, and is self-reliant.",
+          "hindi": "यदि चतुर्थेश नवम भाव (भाग्य भाव) में हो, तो मनुष्य पिता से स्वतंत्र, समस्त विद्याओं से युक्त, पिता के धर्म का संग्रह करने वाला और पिता पर निर्भर न रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "पाताल्पेऽम्बरगते पापे सुतमातरं त्यजति जनकः ।\nश्रयते चान्यां दयितां सीम्ये पुनरन्यमेवाञ्कत्‌",
+          "english": "If the lord of the fourth house is in the tenth house, and is a malefic, the father abandons the mother of his son and resorts to another beloved; if it is a benefic, he is associated with proper and righteous conduct.",
+          "hindi": "यदि चतुर्थेश दशम भाव (कर्म भाव) में हो, और वह पाप ग्रह हो, तो पिता जातक की माता का परित्याग कर अन्य स्त्री का आश्रय लेता है; यदि सौम्य ग्रह हो तो आचरण उत्तम होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "क्रे 011. 8175 चेश्वरं 5, श्वरे 80 तु 875 44 : स्वकीयापनी व्रनसस्नदां कुख्तं\nसेवाङृता 8125\nएकादश्षगे तुर्यपतौ पित्रोः पाठकः सुकर्मा च ।\nपितृभक्तः प्रचुरायुः सौम्ये पुनरीश्वरो मवति",
+          "english": "If the lord of the fourth house is in the eleventh house, the native supports and serves his parents, performs good deeds, is devoted to his father, and is long-lived. If it is a benefic, he becomes a lord or wealthy ruler.",
+          "hindi": "यदि चतुर्थेश एकादश भाव में हो, तो जातक माता-पिता का सेवक, सत्कर्मी, पितृभक्त और दीर्घायु होता है। यदि सौम्य ग्रह हो, तो वह स्वामी (धनी) होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "द्वादशगे तुयैपतो मृतः पिता वा विदेशगो वाच्यः ।\nपुत्र्य पापखचरे खन्यपितु्जन्म निर्देश्यम्‌",
+          "english": "If the lord of the fourth house is in the twelfth house, the native's father is dead or is to be declared as residing in a foreign land. If it is a malefic planet, birth from another father may be indicated.",
+          "hindi": "यदि चतुर्थेश द्वादश भाव में हो, तो जातक का पिता मृत होता है अथवा उसे विदेश गया हुआ कहना चाहिए। यदि वहां पाप ग्रह हो, तो अन्य पिता से जन्म का निर्देश करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "खनगतः पंचमपः प्रविद्धमस्तोकतनयपरिककितम्‌ ।\nशास््नविदं गीतविदं सुकर्मनिरतं नरं कुरूते",
+          "english": "If the lord of the fifth house is in the ascendant, it makes the native renowned, blessed with many children, a knower of scriptures and music, and devoted to performing good deeds.",
+          "hindi": "यदि पंचमेश लग्न में हो, तो वह जातक को सुप्रसिद्ध, अनेक पुत्रों (संतानों) से युक्त, शास्त्रों तथा संगीत का ज्ञाता और सत्कर्मों में निरत बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "पेचमपतिर्ेनस्थः क्रूरः खचरो धनोज्ितं कुरते ।\nगीतादिकखाकल्िति कष्टभुज स्थानकप्रचुरम्‌",
+          "english": "If the lord of the fifth house is in the second house, and is a malefic planet, it makes the native devoid of wealth. Though skilled in music and other arts, he experiences hardships and changes his place of residence frequently.",
+          "hindi": "यदि पंचमेश द्वितीय भाव (धन भाव) में हो, और वह क्रूर ग्रह हो, तो जातक को धन से रहित करता है। संगीत आदि कलाओं से युक्त होने पर भी वह कष्ट भोगता है और बार-बार स्थान बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "तनयपतिः सहजगतः सुमधुरवाच स्वबन्धजनविदितम्‌ ।\nकुरुते स्थानं तदीयतनयाः परिपाख्यन्ति बन्धुम्‌",
+          "english": "If the lord of the fifth house is in the third house, the native is very sweet-spoken and well-known among his relatives; his children support and protect his relatives.",
+          "hindi": "यदि पंचमेश तृतीय भाव में हो, तो जातक अत्यंत मधुरभाषी और अपने बंधु-बांधवों में प्रसिद्ध होता है; उसकी संतानें उसके बंधुओं का पालन-पोषण करती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": "सुतपः पाताख्गतः पितृकर्माणां प्रपाङ्तिं पित्रा ।\nजननीभक्त कुरुते क्रस्तु विरोधङ्कत्‌ पित्रा",
+          "english": "If the lord of the fifth house is in the fourth house, the native continues the duties of his father along with him and is devoted to his mother; but if it is a malefic, he opposes or quarrels with his father.",
+          "hindi": "यदि पंचमेश चतुर्थ भाव में हो, तो जातक पिता के साथ रहकर पितृ-कार्यों को आगे बढ़ाता है और माता का भक्त होता है; परंतु क्रूर ग्रह होने पर वह पिता का विरोध करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "तनयगतस्तनयपतिमैतिमन्तं मानिनं वचनङ्कुशालम्‌ ।\nसुतयुक्त प्रवरजनं प्रख्यातं मानवं कुरूते",
+          "english": "If the lord of the fifth house is in the fifth house itself, it makes the native highly intelligent, honorable, eloquent and skilled in speech, blessed with children, an excellent person, and famous.",
+          "hindi": "यदि पंचमेश पंचम भाव में ही स्थित हो, तो वह जातक को अत्यंत बुद्धिमान, स्वाभिमानी, वाक्-चतुर, पुत्रवान, श्रेष्ठ और प्रसिद्ध मनुष्य बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "सुत 8708 तदीयः 01. भ, तदीयाः 878 52 तनयाः 011. 878, °तनयात्‌\nखतुःपञ्चारा समोऽध्यायः । २८अॐ\nपचमपः श्रुगतः श्रुप्रतिमाङ्गसम्भवं हीनम्‌ ।\nरोगधनं धनरहितं क्रूरः खचरः करोति नरम्‌",
+          "english": "If the lord of the fifth house is in the sixth house, and is a malefic, it makes the native devoid of maternal happiness (or ear diseases), sickly, and poor.",
+          "hindi": "यदि पंचमेश छठे भाव में हो, और वह क्रूर ग्रह हो, तो जातक को मातृ-सुख (या कर्ण-रोग) से हीन, रोगी और धनहीन बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "तनयपतौ सप्तमगे सुसुता सुभगा स्वदेदगुरुमक्ता ।\nप्रियवादिनी सुशीला नरस्य खलु जायते दयिता",
+          "english": "If the lord of the fifth house is in the seventh house, the native's wife is of excellent birth, fortunate, devoted to gods and gurus, sweet-spoken, and of good character.",
+          "hindi": "यदि पंचमेश सप्तम भाव में हो, तो जातक की पत्नी उत्तम संतान उत्पन्न करने वाली, सौभाग्यवती, अपने कुल व गुरुओं की भक्त, प्रियवादिनी और सुशील होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 51,
+          "text": "सुतपे निधनगृहसम्थे कुस्सितवाभिस्त्रपो भवति भण्डः ।\nनष्टा व्यङ्गा: सह जान्त्पुत्राः सम्भवन्ति तथा",
+          "english": "If the lord of the fifth house is in the eighth house, the native is bad-spoken, shameless, and deceitful or wicked. His children may be lost or born with physical deformities.",
+          "hindi": "यदि पंचमेश अष्टम भाव में हो, तो जातक निंदित वचन बोलने वाला, निर्लज्ज और दुष्ट होता है। उसकी संतानें नष्ट हो जाती हैं अथवा शारीरिक रूप से विकृत उत्पन्न होती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 52,
+          "text": "सुक्ृतगतस्तनयपतिः सुबोधविद्यं कर्विं सुगीतन्ञम्‌ ।\nनृपपूजितं सुप नादटकरसिकं नरं कुरुते",
+          "english": "If the lord of the fifth house is in the ninth house, it makes the native highly wise, learned, a poet, knowledgeable in music, honored by the king, happy, and fond of dance and drama.",
+          "hindi": "यदि पंचमेश नवम भाव (भाग्य भाव) में हो, तो वह जातक को ज्ञानी, विद्वान, कवि, संगीतज्ञ, राजा द्वारा पूजित, सुखी और नृत्य-नाट्य का रसिक बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 53,
+          "text": "सुतपतिरम्बरसंस्थो वृपकरमणि नृगत्‌ कलितिलभम्‌ ।\nसकर्मरतं प्रवरं जननी्ृतसुग्वदातं तनुते ॥ ५९. ॥\nगीतादिकल्यकरलितो नृपभाजी जायते वातः",
+          "english": "If the lord of the fifth house is in the tenth house, the native is like a jewel in the royal court, gains royal favor, is devoted to good deeds, provides happiness to his mother, is skilled in music and arts, and enjoys high status.",
+          "hindi": "यदि पंचमेश दशम भाव (कर्म भाव) में हो, तो जातक राजसभा का आभूषण, राजकृपा प्राप्त करने वाला, सत्कर्मों में लीन, माता को सुख देने वाला तथा संगीत व कलाओं से युक्त होकर राजकीय भोग प्राप्त करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 54,
+          "text": "पंचमपे द्वादशगे क्रूरे मुनविरहितः शुभे सुमुनः ।\nसुनमन्तापपरः स्याद विदेशगमनोद्यतो मनुजः",
+          "english": "If the lord of the fifth house is in the twelfth house, and is a malefic, the native is childless; if it is a benefic, he has good children, but remains anxious about them, and is prone to traveling to foreign lands.",
+          "hindi": "यदि पंचमेश द्वादश भाव में हो, और वह क्रूर ग्रह हो, तो जातक संतानहीन होता है; यदि सौम्य ग्रह हो, तो उत्तम संतान होती है परंतु वह संतान की चिंता से ग्रस्त रहने वाला और विदेश यात्रा के लिए तत्पर रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 55,
+          "text": "श्रीशृद्धयवने सुतभावफठ 125\n१८८ शृदयवनजात\nषषठेरो रुनगते नीरुक्‌ सबलः कुटुम्बकरष्टकरः ॥\nबहुपक्षो रिपुहन्ता भवति नरः जहोचवचनधनः",
+          "english": "If the lord of the sixth house is in the ascendant, the native is healthy, strong, but causes disputes or distress in his family; he has many factions or supporters, destroys his enemies, and is talkative yet wealthy.",
+          "hindi": "यदि षष्ठेश लग्न में हो, तो जातक निरोगी, बलवान, परंतु परिवार में कलह या कष्ट उत्पन्न करने वाला होता है; उसके कई समर्थक होते हैं, वह शत्रुओं का नाश करने वाला, बहुत बोलने वाला परंतु धनवान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 56,
+          "text": "शातरुपतो द्रविणस्थे दुष्टश्चतुरो हि सङ्प्रहेऽनिष्टः ।\nस्थानप्रवरो विदितः क्रूरे सन्याधितनुदतवित्तः",
+          "english": "If the lord of the sixth house is in the second house, the native is wicked and clever, but unfavorable for accumulating wealth, though prominent in his region; if it is a malefic planet, he has a diseased body and loses his wealth.",
+          "hindi": "यदि षष्ठेश द्वितीय भाव (धन भाव) में हो, तो जातक दुष्ट और चतुर होता है, परंतु धन संचय के लिए यह स्थिति अनिष्टकारी होती है, यद्यपि वह अपने स्थान पर प्रसिद्ध होता है; यदि क्रूर ग्रह हो तो उसका शरीर रोगी और धन नष्ट होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 57,
+          "text": "षष्टपतिः सहजखः क्रूरः कुरुते सरोककष्टकरम्‌ ।\nजनकस्य तथा कष्टमरण सङ्प्रामतस्तस्य",
+          "english": "If the lord of the sixth house is in the third house, and is a malefic, it causes diseases and distress to the native, as well as a painful death to his father in battle.",
+          "hindi": "यदि षष्ठेश तृतीय भाव में हो, और वह क्रूर ग्रह हो, तो जातक को रोग और कष्ट देने वाला होता है, तथा उसके पिता को युद्ध या संघर्ष में कष्टदायक मृत्यु प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 58,
+          "text": "षष्ठाधिपतिप्तु्ये पितृतनयो वैरिणो मिथः कुरूते ।\nसरूपता सोऽप्ययुतो रक्ष्मीं रमते नरः सुचिरम्‌",
+          "english": "If the lord of the sixth house is in the fourth house, it creates mutual enmity between the father and the son; yet the native is handsome, and enjoys wealth and prosperity for a long time.",
+          "hindi": "यदि षष्ठेश चतुर्थ भाव में हो, तो वह पिता और पुत्र में परस्पर शत्रुता उत्पन्न करता है; फिर भी जातक रूपवान होता है और दीर्घकाल तक लक्ष्मी का भोग करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 59,
+          "text": "रिपुभवनपतौं सुतगे पितृषुतर्ोर्वैरता मतिस्तु ततः ।\nक्रूरे शमे च नि्ेनपदवी दुष्टश्च तज्नातः",
+          "english": "If the lord of the sixth house is in the fifth house, it causes enmity between father and son, and affects the intellect; if it is a malefic, it leads to a lowly position or poverty, and the native's child is wicked.",
+          "hindi": "यदि षष्ठेश पंचम भाव में हो, तो पिता और पुत्र में शत्रुता होती है तथा बुद्धि भ्रमित होती है; क्रूर ग्रह होने पर निर्धनता प्राप्त होती है और उसकी संतान दुष्ट स्वभाव की होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 60,
+          "text": "रिपुमवनेरो रिपुगे नीरुगेरी सुखी कृपणख्पः ।\nन हि जन्मतोऽपि सीद्रति खानकवासी भवति मनुजः",
+          "english": "If the lord of the sixth house is in the sixth house itself, the native is disease-free, happy, but of a miserly nature; he never suffers distress from birth, and remains residing in his own native place.",
+          "hindi": "यदि षष्ठेश छठे भाव में ही स्थित हो, तो जातक निरोगी, सुखी परंतु कृपण स्वभाव का होता है; वह जन्म से कभी दुःखी नहीं होता और अपने ही स्थान पर निवास करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 61,
+          "text": "अहितपतौ सप्तमगे क्रूरे मार्या विरोधिनी चण्डा ।\nतापकरी तथ सोम्ये बन्ध्या वा गर्मगल्नपरा",
+          "english": "If the lord of the sixth house is in the seventh house, and it is a malefic, the wife is hostile, short-tempered, and causes torment. If it is a benefic, she may be barren or suffer from miscarriage.",
+          "hindi": "यदि षष्ठेश सप्तम भाव में हो, और वह क्रूर ग्रह हो, तो पत्नी विरोधिनी, क्रोधी स्वभाव की और संताप देने वाली होती है। यदि सौम्य ग्रह हो, तो वह वन्ध्या होती है अथवा गर्भपात की समस्या से पीड़ित होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 62,
+          "text": "रनेर््डणिका रुजो विषधरा धरानन्दना-\nदुबु बराज्च विषदोषतः सपदि मृत्युरेणाहतः ।\nरवेमृगपतेभैये भवति रिष्टपद्रष्टमा-\nद गुरोनैपतितः स्वमानधनदोषवान्‌ शुक्तः",
+          "english": "If the lord of the sixth house is in the eighth house: if it is Mars, death or trouble is caused by weapons, diseases, or poison; if Sun, death or trouble is from fire or royal wrath; if Jupiter, from disease or falls; if Venus or Mercury, from various other ailments.",
+          "hindi": "यदि षष्ठेश अष्टम भाव में हो: यदि मंगल हो तो शस्त्र, रोग या विष से मृत्यु या कष्ट; यदि सूर्य हो तो अग्नि या राजकोप से; यदि गुरु हो तो रोग या पतन से; यदि शुक्र या बुध हो तो विविध रोगों से मृत्यु या मान-हानि की संभावना होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 63,
+          "text": "रनरुपतिर्यैदि नवमः क्रूरः खचरर्तदा भवेत्‌ संजः ।\nबन्धुविरोधी शास्त्रं न मन्यते याचकः पुरुषः",
+          "english": "If the lord of the sixth house is in the ninth house, and it is a malefic, the native is fickle-minded, hostile to his relatives, does not believe in the scriptures, and becomes a beggar.",
+          "hindi": "यदि षष्ठेश नवम भाव में हो, और वह क्रूर ग्रह हो, तो मनुष्य चंचल स्वभाव का, अपने बंधुओं का विरोधी, शास्त्रों को न मानने वाला और याचक होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 64,
+          "text": "मरिगृषरपे दशमस्थे क्रूरे मातरि रिपुस्तथा दुष्टः ।\nधर्मेषुतपारक्रमतिरातुदेषिभ॑वदरैी",
+          "english": "If the lord of the sixth house is in the tenth house, and is a malefic, the native acts as an enemy to his mother and is wicked. His mind is hostile to righteousness, children, and courage, and he becomes inimical to brothers.",
+          "hindi": "यदि षष्ठेश दशम भाव (कर्म भाव) में हो, और वह क्रूर ग्रह हो, तो जातक अपनी माता का शत्रु और दुष्ट होता है। उसकी बुद्धि धर्म, संतान और पराक्रम के विरुद्ध तथा भाइयों से वैर रखने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 65,
+          "text": "चैरिपतो लाभगते क्रूरे मरणं विश्नतो मवति ।\nतस्र तहानिः म्या्धवुप्पदाह्ध। भवान्‌ \"नजः",
+          "english": "If the lord of the sixth house is in the eleventh house, and is a malefic, the native faces death or severe obstacles. There is loss of wealth, and fear from fire or quadrupeds.",
+          "hindi": "यदि षष्ठेश एकादश भाव में हो, और वह क्रूर ग्रह हो, तो जातक को बाधाओं या मृत्यु का सामना करना पड़ता है। धन की हानि होती है तथा अग्नि या चौपायों से भय रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 66,
+          "text": "षष्ठपठो द्वादयगे चतुप्यदद्र्यधान्यनामकरः ।\nगमनागमनं रक्ष्याः सो दैवपरो नरो भवति",
+          "english": "If the lord of the sixth house is in the twelfth house, the native earns or destroys wealth and grains through quadrupeds, is constantly traveling, and becomes devoted to destiny.",
+          "hindi": "यदि षष्ठेश द्वादश भाव में हो, तो मनुष्य चौपायों के माध्यम से धन और धान्य प्राप्त या नष्ट करता है, निरंतर यात्रा करने वाला और भाग्यवादी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 67,
+          "text": "8 20११५ श्रीबरद्धयवने\n२९० ब्दयवनजातङे\nदयितेशो खनगतोऽदोसं निःस्नेहमन्त्यतममा्थम्‌ ।\nमोगमुज रूपयुतं जनयति दयितादर्तिवित्तम्‌",
+          "english": "If the lord of the seventh house is in the ascendant, the native is healthy, affectionate, but may have relations with low-class women; he is an enjoyer of pleasures, handsome, and obtains wealth through his wife.",
+          "hindi": "यदि सप्तमेश लग्न में हो, तो जातक निरोगी, स्नेही, परंतु निम्न वर्ण की स्त्रियों के साथ संबंध रखने वाला हो सकता है; वह सुखों का भोग करने वाला, रूपवान और पत्नी के माध्यम से धन प्राप्त करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 68,
+          "text": "जायापतौ धनस्थे दुष्टा दयिता सुतोज्ज्षिता भवति ।\nवित्तं च कलत्रकरं स च तद्वदनो विपङ्कश्च",
+          "english": "If the lord of the seventh house is in the second house, the wife may be wicked or devoid of sons. The native's wealth is spent on his wife, and he is prone to distress or physical afflictions.",
+          "hindi": "यदि सप्तमेश द्वितीय भाव (धन भाव) में हो, तो जातक की पत्नी दुष्ट स्वभाव वाली अथवा पुत्रहीन हो सकती है। जातक का धन पत्नी पर व्यय होता है और वह स्वयं संकटों या शारीरिक कष्टों से घिर सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 69,
+          "text": "सप्तमपे सहजगत आ!त्मबखो बन्धुवत्पशो दुःखी ।\nजायेशो तुर्यस्ये लोलः पितृवैरसाधकोऽम्नेही ।\nअस्य पिता दुर्वक्यस्तद्धार्या पायेच्च पिता",
+          "english": "If the lord of the seventh house is in the third house, the native has self-strength, is affectionate to his relatives, but is unhappy. If the lord of the seventh house is in the fourth house, the native is fickle-minded, hostile to his father, and lacks affection; his father has a harsh voice, and the father may protect or love the native's wife.",
+          "hindi": "यदि सप्तमेश तृतीय भाव में हो, तो जातक आत्म-बल से युक्त, बंधुओं से स्नेह करने वाला परंतु दुःखी होता है। यदि सप्तमेश चतुर्थ भाव में हो, तो जातक चंचल, पिता से शत्रुता रखने वाला और स्नेहहीन होता है; उसके पिता की वाणी कठोर होती है, तथा पिता जातक की पत्नी का पालन या स्नेह कर सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 70,
+          "text": "सप्तमपतो सुतस्थे सोभाग्ययुतः सुतान्वितः पुरुषः ।\nप्रियया सह दुष्टमतिप्तत्तनयः पालयेदयिताम्‌",
+          "english": "If the lord of the seventh house is in the fifth house, the native is fortunate and blessed with children. Though he may have a wicked mind along with his beloved, his son later supports the mother.",
+          "hindi": "यदि सप्तमेश पंचम भाव में हो, तो जातक सौभाग्यशाली और पुत्रवान होता है। प्रियतमा के साथ रहते हुए भी कभी-कभी दुष्ट बुद्धि हो जाती है, परंतु उसका पुत्र उसकी पत्नी का पालन करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 71,
+          "text": "रिपुगहगः कान्तेशः प्रियया सह वैरिणं सरूपाम्‌ ।\nदयितासङ्गक्षयिणं क्रूरः कुरुते च मृत्युपदम्‌",
+          "english": "If the lord of the seventh house is in the sixth house, it makes the native's wife beautiful but hostile; if a malefic is there, it causes the loss of the wife or leads to death or severe illness.",
+          "hindi": "यदि सप्तमेश छठे भाव (शत्रु भाव) में हो, तो जातक की पत्नी सुंदर होते हुए भी शत्रुता रखने वाली होती है; क्रूर ग्रह होने पर पत्नी का वियोग अथवा स्वयं जातक को मृत्युतुल्य कष्ट प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 72,
+          "text": "सप्तमपे सप्तमगे परमायुः प्रीतिवत्सकः पुरुषः ।\nनिर्मल्शीरसमेतस्तेजस्वी जायते सततंम्‌",
+          "english": "If the lord of the seventh house is in the seventh house itself, the native is blessed with a very long life, is affectionate, possesses a pure character, and is always radiant.",
+          "hindi": "यदि सप्तमेश सप्तम भाव में ही स्थित हो, तो जातक दीर्घायु, अत्यंत स्नेही, निर्मल चरित्र वाला और सदैव तेजस्वी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 73,
+          "text": "कान्तेदो निधनगते गणिकासु रतः करम्रहणरहितः ।\nदेवद्धिजातिसक्तो न स्त्रीसेवाकरः पुरुषः",
+          "english": "If the lord of the seventh house is in the eighth house, the native is attached to courtesans, remains unmarried, is devoted to gods and Brahmins, but does not respect his wife.",
+          "hindi": "यदि सप्तमेश अष्टम भाव में हो, तो जातक वेश्याओं में आसक्त रहने वाला, विवाह से रहित, देवताओं और ब्राह्मणों का भक्त, परंतु अपनी पत्नी की सेवा या आदर न करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 74,
+          "text": "सप्तमपे पुत्रस्थे ऽऽ 78 : शस्तनयास्तस्यापि दुष्टमावस्तु 7 768 ््रहगः 0 790\nए, चेह्टितीयाशक्तो ऽ 810 दुस्ी 1\nसुकृतगते मप्तमपे तेजोवान्‌ श्ीखवान्‌ प्रियोऽप्येवम्‌ ।\nक्रूरे तु षण्डरूपो रनेरवीक्षणे तपः प्रवरः",
+          "english": "If the lord of the seventh house is in the ninth house, the native is radiant, virtuous, and beloved. If it is a malefic, he lacks virility, but if aspected by benefics, he becomes a prominent ascetic.",
+          "hindi": "यदि सप्तमेश नवम भाव (भाग्य भाव) में हो, तो जातक तेजस्वी, शीलवान और सबका प्रिय होता है। यदि क्रूर ग्रह हो, तो वह नपुंसक रूप वाला होता है, परंतु शुभ ग्रहों से दृष्ट होने पर श्रेष्ठ तपस्वी बनता है।",
+          "status": "translated"
+        },
+        {
+          "number": 75,
+          "text": "सप्तमपे दशमस्थे नृपदोषी म्परः कुवाक्‌ कूटः ।\nक्रूरे दुःखार्तः स्याच्छरवभरूवशगो भवेत्‌ पुरषः",
+          "english": "If the lord of the seventh house is in the tenth house, the native is critical of the king, proud, harsh-spoken, and deceitful. If it is a malefic, he suffers from sorrow and becomes submissive to his wife.",
+          "hindi": "यदि सप्तमेश दशम भाव (कर्म भाव) में हो, तो जातक राजा में दोष ढूँढने वाला, अभिमानी, कटुभाषी और कपटी होता है। क्रूर ग्रह होने पर वह दुःख से पीड़ित और पत्नी के वश में रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 76,
+          "text": "खमस्य जायेशो भक्ता शूपान्विता सुरी च !\nदयिता परिणीता स्यान्मरियते सा च प्रसवस्षमये",
+          "english": "If the lord of the seventh house is in the eleventh house, the native's wife is devoted, beautiful, and happy. However, she may die at the time of childbirth.",
+          "hindi": "यदि सप्तमेश एकादश भाव में हो, तो जातक की विवाहिता पत्नी पतिभक्ता, सुन्दरी और सुखी होती है; परंतु प्रसव के समय उसकी मृत्यु की आशंका होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 77,
+          "text": "सप्तमपे द्वादशगे गृहबन्धां नास्तिका भवेद्भार्या ।\nसा रोख दुष्टगुणा रूवकिता तस्य पुरुषस्य",
+          "english": "If the lord of the seventh house is in the twelfth house, the native's wife is bound to her home, is an atheist, of wicked qualities, and causes distress to the husband.",
+          "hindi": "यदि सप्तमेश द्वादश भाव में हो, तो जातक की पत्नी घर में ही बंधी रहने वाली, नास्तिक, दुष्ट गुणों से युक्त और अपने पति को कष्ट देने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 78,
+          "text": "अष्टपे रुनगते बहुविप्नो दी्रोगथत्‌ पुरुषः ।\nनष्टानुवादनिरतो लक्ष्मीं खमते नृपतिवचसा",
+          "english": "If the lord of the eighth house is in the ascendant, the native faces many obstacles, suffers from long-term diseases, is engaged in repeating useless topics, but obtains wealth by royal decree.",
+          "hindi": "यदि अष्टमेश लग्न में हो, तो जातक को अनेक विघ्नों का सामना करना पड़ता है, वह दीर्घकाल तक रोगी रहता है, व्यर्थ की बातों में लगा रहता है, परंतु राजा की कृपा से धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 79,
+          "text": "निधनपतो धनटीनेऽल्पजीवितो वैरवाननरश्चोरः ।\nक्रूरे सौम्ये च शुम किं तु क्षितिपारुतो मरणम्‌",
+          "english": "If the lord of the eighth house is in the second house, the native is short-lived, hostile, and a thief. If it is a malefic, it is unfavorable, but if a benefic, it gives mixed results; however, death may occur due to royal wrath.",
+          "hindi": "यदि अष्टमेश द्वितीय भाव (धन भाव) में हो, तो जातक अल्पायु, शत्रुता रखने वाला और चोर होता है। क्रूर ग्रह होने पर अनिष्ट और सौम्य होने पर कुछ शुभ फल मिलता है, परंतु राजा के कोप से मृत्यु का भय रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 80,
+          "text": "अष्टमपती तृतीये बन्धुवियेधी सुहद्वियोधी च ।\nव्यङ्गो दुरवाग्लोलः सोदररहितो भवेन्मनुजः",
+          "english": "If the lord of the eighth house is in the third house, the native is hostile to his relatives and friends, has deformed limbs, is harsh-spoken, fickle, and devoid of brothers.",
+          "hindi": "यदि अष्टमेश तृतीय भाव में हो, तो मनुष्य अपने बंधुओं और मित्रों का विरोधी, शारीरिक अंग विकृति से युक्त, कटुभाषी, चंचल और सहोदरों से रहित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 81,
+          "text": "9 । 88५ भवलयथवा 8715 ~\n२९२ शृद्धयवनंजातके\nनिधनेरो तुयेगते पितरि रिपुः पितृगतां लमेक्ष्मीम्‌ ।\nपितृपुत्रयोश्च यद्धं पिता च रोगान्वितो भवति",
+          "english": "If the lord of the eighth house is in the fourth house, the native is an enemy to his father, yet inherits the father's wealth. There are conflicts between father and son, and the father becomes sickly.",
+          "hindi": "यदि अष्टमेश चतुर्थ भाव में हो, तो जातक पिता का शत्रु होता है, फिर भी उसे पैतृक धन प्राप्त होता है। पिता-पुत्र में विवाद होता है और पिता रोगी रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 82,
+          "text": "छिद्रपतौ तनयस्थे क्रूरे सुतविरदितः शमे ससुतः ।\nजातोऽपि नेव जीवति जीवत्यथ कितवकर्मेरतः",
+          "english": "If the lord of the eighth house is in the fifth house, and is a malefic, the native is childless; if it is a benefic, he has children. Even if a child is born, it may not survive, or if it survives, they may be engaged in gambling.",
+          "hindi": "यदि अष्टमेश पंचम भाव में हो, और वह क्रूर ग्रह हो, तो जातक संतानहीन होता है; यदि सौम्य ग्रह हो, तो संतान होती है। संतान उत्पन्न होकर भी जीवित नहीं रहती, अथवा यदि जीवित रहे तो जातक/संतान जुए आदि के कार्यों में लीन रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 83,
+          "text": "छिद्रेरो रिपुसञ्गते दिनकरे भूभृद्विरोषी गुरौ\nतुङ्गे सीदति दष्टिरोगककितः शुक्रे सरोगो भृशम्‌ ।\nभौमे वक्षसि संहतोऽहिभयमृतुङ्गातमूतः शनौ\nसोम्ये व्यधिमये शलौ च मरणं सोम्यक्षिते नेव किम्‌",
+          "english": "If the lord of the eighth house is in the sixth house: if it is the Sun, he is opposed by the king; if Jupiter is exalted, he suffers from eye diseases; if Venus, he is highly diseased; if Mars, he receives injuries on the chest; if Saturn, he fears snakes; if Mercury, he has fear of diseases and weapons. If aspected by benefics, there is relief.",
+          "hindi": "यदि अष्टमेश छठे भाव में हो: यदि सूर्य हो तो राजा से विरोध; यदि गुरु उच्च का हो तो नेत्र रोग से पीड़ित; यदि शुक्र हो तो अत्यंत रोगी; यदि मंगल हो तो छाती पर चोट लगती है; यदि शनि हो तो सर्पभय होता है; यदि बुध हो तो रोग और शस्त्र का भय होता है। शुभ ग्रहों की दृष्टि हो, तो बचाव होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 84,
+          "text": "मृत्युपतो सप्तमगे गुह्यस्ककुस्त्रीवछछमो दुष्टः ।\nक्रूरे मायद्विषी कसुत्रदोषान्मृतिं रमते",
+          "english": "If the lord of the eighth house is in the seventh house, the native has secret diseases, is attached to wicked women, and is malicious. If it is a malefic, he hates his wife, and may face death due to poison or genital disorders.",
+          "hindi": "यदि अष्टमेश सप्तम भाव में हो, तो जातक गुप्त रोगों से पीड़ित, दुष्ट स्त्रियों का प्रिय और द्वेषी होता है। क्रूर ग्रह होने पर वह अपनी पत्नी से द्वेष करता है, तथा विष या मूत्र-जनन अंगों के दोष से मृत्यु प्राप्त कर सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 85,
+          "text": "निधनपतौ निधनगते व्यवसायी व्याधिवर्जितो नीरुक्‌ ।\nकितवक्रलकलितिवपुः किंतवकुले ज।यते विदितः",
+          "english": "If the lord of the eighth house is in the eighth house itself, the native is industrious, free from diseases, healthy, but associated with gamblers or famous in a family of gamblers.",
+          "hindi": "यदि अष्टमेश अष्टम भाव में ही स्थित हो, तो जातक परिश्रमी, रोगों से रहित, स्वस्थ, परंतु जुआरियों की संगति में रहने वाला अथवा जुआरियों के कुल में प्रसिद्ध होने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 86,
+          "text": "मृतिनाये नवमस्थे निःसङ्गी जीवघातकः पापी ।\nनिबैन्ुर्नस्नेदी पूजाविमुखो सखम्यङ्गः ॥ ९.४ ॥\nकर्मेगते निधनेरो नृपकर्मा नीचकर्मनिरतश्च ।\nअल्पः कररेऽन्यमवरस्तनयो वा जीवति न माता",
+          "english": "If the lord of the eighth house is in the ninth house, the native is detached, a killer of living beings, sinful, devoid of relatives, friendless, averse to worship, and lacks happiness. If the lord of the eighth house is in the tenth house, he is engaged in royal service yet performs low deeds; if a malefic is there, his child may survive but the mother dies early.",
+          "hindi": "यदि अष्टमेश नवम भाव में हो, तो जातक अनासक्त, जीवों की हिंसा करने वाला, पापी, बंधुओं से रहित, स्नेहहीन, पूजा-पाठ से विमुख और सुख से हीन होता है। यदि अष्टमेश दशम भाव (कर्म भाव) में हो, तो वह राजकार्य में नियुक्त होकर भी नीच कर्मों में लगा रहता है; क्रूर ग्रह होने पर उसकी संतान तो जीवित रह सकती है परंतु माता की मृत्यु शीघ्र होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 87,
+          "text": "विधौ ए7$ 916 रम्या सहितो बुधे 715 भूमिः 728, “मूमे 1 970 क्ट\n18 95 °कर्मरतश्च 8708 950 : तनयो नीचनीचकर्मां च 1 050 जीवते 8, जिवति\nसाभस्थे मृत्युपत बास्ये दुःखी सुखी भवति पश्चात्‌ ।\nदीर्घायुः सोम्यखगे पपेऽस्पायुर्मरो भवति",
+          "english": "If the lord of the eighth house is in the eleventh house, the native is unhappy in childhood but happy later. If it is a benefic, he is long-lived; if a malefic, he is short-lived.",
+          "hindi": "यदि अष्टमेश एकादश भाव (आय भाव) में हो, तो जातक बाल्यावस्था में दुःखी परंतु बाद में सुखी होता है। सौम्य ग्रह होने पर वह दीर्घायु और पाप ग्रह होने पर अल्पायु होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 88,
+          "text": "आतसमगतिव्यङ्गवपुरृतकः काकादिमिर्भक्ष्यः ॥ ९७ ॥\nइत्यष्टमभावाधिपफलम्‌ ।\nकृपणः क्षितिपतिकर्मा स्वल्पम्रासी भवति मतिमान्‌",
+          "english": "If the lord of the eighth house is in the twelfth house, the native has a deformed body and his corpse may be eaten by wild animals after death. If the lord of the ninth house is in the first house, the native is miserly, engaged in royal service, eats very little, and is intelligent.",
+          "hindi": "यदि अष्टमेश द्वादश भाव में हो, तो जातक विकृत शरीर वाला होता है और मृत्यु के बाद उसका शव जंगली जीवों द्वारा खाया जा सकता है। यदि नवमेश प्रथम भाव (लग्न) में हो, तो जातक कंजूस, राजकार्य करने वाला, अल्पहारी और बुद्धिमान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 89,
+          "text": "नवमाधिपतो धनगे वृषभो विदितः सुशीखान्‌ सत्यः\nसुकृती वदनव्यङ्गश्चतुष्पदोत्पन्नपीडावान्‌ ॥ ९९. ॥\nसहजगते सुक़ृतपतो रूपस्वी बन्धुवत्सलः पुरुषः ।\nबन्धुश्रीरक्षण्रयदि जीवति बन्धुभि्तदा रहितः",
+          "english": "If the lord of the ninth house is in the second house, the native is strong and hardworking, famous, of good character, truthful, virtuous, but has facial defects and suffers pain caused by quadrupeds. If the lord of the ninth house is in the third house, he is handsome, affectionate to relatives, but may live separated from his relatives to protect family wealth.",
+          "hindi": "यदि नवमेश द्वितीय भाव (धन भाव) में हो, तो जातक बैल के समान बलवान, प्रसिद्ध, सुशील, सत्यवादी, धर्मात्मा, परंतु मुख-दोष से युक्त और चौपायों से पीड़ित होने वाला होता है। यदि नवमेश तृतीय भाव में हो, तो वह रूपवान, बंधु-प्रेमी होता है, परंतु यदि कुल-संपत्ति की रक्षा के लिए जीवित रहे, तो वह बंधुओं से अलग रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 90,
+          "text": "सुकृतेरो हिबुकस्थे पितृभक्तः पितृक्ृतेषु श्रद्धावान्‌ ।\nविदितो म्यः सुङ्कती भेत्रे कर्मयुरतिर्भवति",
+          "english": "If the lord of the ninth house is in the fourth house, the native is devoted to his father, has faith in his father's deeds, is famous, virtuous, and enjoys a good position in work.",
+          "hindi": "यदि नवमेश चतुर्थ भाव (सुख भाव) में हो, तो जातक पितृभक्त, पिता के कार्यों में श्रद्धा रखने वाला, विख्यात, धर्मात्मा और कर्मक्षेत्र में अच्छी स्थिति प्राप्त करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 91,
+          "text": "सुकृतगरहपे सुतस्थे सुकृती गुरुदेवपूजने निरतः ।\nवपुषा सुन्दरमूर्तिः सुकृतसमेता भवन्ति सुता",
+          "english": "If the lord of the ninth house is in the fifth house, the native is virtuous, devoted to worshiping gurus and gods, possesses a handsome physical form, and has virtuous and righteous children.",
+          "hindi": "यदि नवमेश पंचम भाव में हो, तो जातक पुण्यवान, गुरुओं और देवताओं की पूजा में लीन, सुंदर शरीर वाला और सुपुत्रों से युक्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 92,
+          "text": "8128, रतिक्रत्‌ 1 101८-0: विदितः सुकृती पिवृभक्तारितिभवति विभुः सर्वभुश्तां चैव 1\n7076 मत्यः 00. 87 101 पितृकम\" 8128 सुरतिमति° 40 विभुः सदैव भूतां\nदातरुप्रणतिपरायणधर्मरतिकितं कलाविकल्देहम्‌ ।\nदशननिन्दानिरतं सुङ्ृतपतिः षष्ठगः कुरुते",
+          "english": "If the lord of the ninth house is in the sixth house, it makes the native humble and respectful to donors, devoted to righteousness (dharma), skilled in arts, but physically weak, and prone to criticizing others.",
+          "hindi": "यदि नवमेश छठे भाव में हो, तो जातक दानियों के प्रति विनम्र, धर्मप्रेमी, कलाओं में रुचि रखने वाला, शारीरिक रूप से शिथिल और दूसरों की निंदा करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 93,
+          "text": "नवमपतौ सप्तमगे सत्यवती सुविनया सुरूपा च ।\nशीरश्रीयुतदयिता सुक्ृतयुता जायते नियतम्‌",
+          "english": "If the lord of the ninth house is in the seventh house, the native is definitely blessed with a wife who is truthful, humble, beautiful, virtuous, wealthy, and righteous.",
+          "hindi": "यदि नवमेश सप्तम भाव में हो, तो जातक की पत्नी निश्चित रूप से सत्यवादिनी, अत्यंत विनम्र, रूपवती, सुशील, धनवान और धार्मिक प्रवृत्ति की होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 94,
+          "text": "दुष्टौजस्तु विधाती गृहबन्धुविवर्जितः सक्ृतरहितः ।\nनवमेदो निधनगते क्रूरे ष्टश्च स विज्ञेयः",
+          "english": "If the lord of the ninth house is in the eighth house, the native's strength and vitality are compromised, he is devoid of home and relatives, lacks virtuous deeds, and if a malefic is there, he is considered wicked.",
+          "hindi": "यदि नवमेश अष्टम भाव में हो, तो जातक का तेज और बल नष्ट हो जाता है, वह घर और बंधुओं से रहित, धर्मविहीन होता है; और यदि क्रूर ग्रह हो, तो वह दुष्ट स्वभाव का माना जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 95,
+          "text": "सुकृतपतिः सुङ्ृतस्थः स्वबन्धुभिः प्रीतमनुचरितसमत्वम्‌ ।\nदातारं देषगुरुष्वजनकल्त्रादिषु च भक्तम्‌",
+          "english": "If the lord of the ninth house is in the ninth house itself, the native is loved by his relatives, possesses a balanced character, is charitable, and is devoted to gods, gurus, parents, and his wife.",
+          "hindi": "यदि नवमेश नवम भाव में ही स्थित हो, तो जातक अपने बंधु-बांधवों द्वारा स्नेहित, समान आचरण वाला, दानी और देवताओं, गुरुओं, माता-पिता तथा पत्नी का परम भक्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 96,
+          "text": "नृपकर्माणं शूरं ख्यातं नृपलाभिनं स्वकर्मरतम्‌ ।\nमातुरविध्नं कुरुते सुङ्ृतपतिरगगनगृहटीनः",
+          "english": "If the lord of the ninth house is in the tenth house, it makes the native engaged in royal duties, brave, famous, gaining royal favor, devoted to his own work, and free from obstacles for his mother.",
+          "hindi": "यदि नवमेश दशम भाव (कर्म भाव) में हो, तो वह जातक को राजकार्य करने वाला, शूरवीर, विख्यात, राजकृपा से लाभ प्राप्त करने वाला, अपने कर्तव्य में लीन और माता के लिए विघ्न-रहित बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 97,
+          "text": "दीर्घायुरषरमेपरो धनेश्वरः स्नेहलो नृपतिलाभी ।\nसुद्ृतख्यातः सततंं सुह्ृतविभौ सममवनस्ये",
+          "english": "If the lord of the ninth house is in the eleventh house, the native is long-lived, wealthy, affectionate, gains from the king, and is always famous for his good deeds and friends.",
+          "hindi": "यदि नवमेश एकादश भाव में हो, तो जातक दीर्घायु, धनवान, स्नेही, राजकृपा प्राप्त करने वाला और अपने सत्कर्मों तथा मित्रों के लिए सदैव विख्यात होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 98,
+          "text": "द्वादशगे सुक्ृतेरो मानी देशान्तरी सुरूपश्च ।\nविबावान्‌ श्ुभखेटे क्रूरे च भवेऽजगति धूतैः",
+          "english": "If the lord of the ninth house is in the twelfth house, the native is proud, resides in foreign countries, and is handsome. If it is a benefic, he is learned; if a malefic, he is cheated by wicked people in the world.",
+          "hindi": "यदि नवमेश द्वादश भाव में हो, तो जातक अभिमानी, विदेशों में रहने वाला और सुंदर रूप वाला होता. सौम्य ग्रह होने पर वह विद्वान होता है; क्रूर ग्रह होने पर वह संसार में धूर्तों द्वारा ठगा जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 99,
+          "text": "चृपतिरागी 1 1086 चर्त © 108त्‌ खक्ृतपतो एपए8 100 वक्रासन € च\nदशमपती रुनगते मात्वैरी पितृपूजकः सरलः ।\nलोभासक्तश्च सुखी दुःखी † गतापितवक परपुरूषरता भवेन्माता",
+          "english": "If the lord of the tenth house is in the ascendant, the native may be hostile to his mother, but worships and respects his father, is straightforward, inclined to greed, yet happy; if afflicted, he is unhappy, and his mother may have bad associations.",
+          "hindi": "यदि दशमेश लग्न में हो, तो जातक अपनी माता का विरोधी हो सकता है परंतु पिता का पूजक और सरल स्वभाव का होता है; वह लोभी किंतु सुखी होता है; यदि पीड़ित हो तो दुःखी होता है और माता का चरित्र संदिग्ध हो सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 100,
+          "text": "वित्तये गगनपतौ मात्रान्यया रछितः सुतो भवति ।\nलोभी मातरि दुष्टः स्वल्पम्रासः सुतनुकर्मा",
+          "english": "If the lord of the tenth house is in the second house, the native is brought up by a stepmother or another maternal figure, is greedy, hostile to his mother, eats little, and is engaged in good actions.",
+          "hindi": "यदि दशमेश द्वितीय भाव (धन भाव) में हो, तो जातक सौतेली या अन्य माता द्वारा पालित होता है, लोभी, माता से द्वेष रखने वाला, कम भोजन करने वाला और शुभ कर्मों में लगा रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 101,
+          "text": "मातृस्वजनविरोधी सेवानिरतो न कर्मणि समर्थः ।\nमातुलकपङ्मतिः स्याद्‌ दश्चमपतौ सहजमवनस्ये",
+          "english": "If the lord of the tenth house is in the third house, the native opposes his mother and relatives, is engaged in service, is not very competent in major works, and his mind is inclined towards his maternal uncles.",
+          "hindi": "यदि दशमेश तृतीय भाव में हो, तो जातक माता और बंधुओं का विरोधी, सेवाकार्यों में लगा रहने वाला, बड़े कार्यों में विशेष समर्थ न होने वाला और मामा के पक्ष में बुद्धि रखने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 102,
+          "text": "दशमपेऽम्बुगते निरतः सुखे पितरि मातरि पोषणपूजने ।\nसकलकोकदश्चाममृतायते नृपतिसम्भवरभविमूषितः",
+          "english": "If the lord of the tenth house is in the fourth house, the native is devoted to providing comfort, nourishment, and worship to his father and mother; he is highly respected by all people and is adorned with royal assets and glory.",
+          "hindi": "यदि दशमेश चतुर्थ भाव (सुख भाव) में हो, तो जातक माता-पिता के पूजन, पोषण और सुख प्रदान करने में लगा रहता है; वह समस्त संसार में आदरणीय होता है तथा राजसी वैभव और कांति से विभूषित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 103,
+          "text": "शुभकर्मकोऽविडम्बी नृपलाभी गीतवायनिरतः स्यात्‌ ।\nगगनपतो तनयगते पारयति च तत्सुतं माता",
+          "english": "If the lord of the tenth house is in the fifth house, the native performs righteous deeds, is straightforward, gains from the king, is fond of music and singing, and his mother supports and loves his children.",
+          "hindi": "यदि दशमेश पंचम भाव में हो, तो जातक शुभ कर्म करने वाला, निष्कपट, राजकृपा से लाभ पाने वाला, संगीत-गायन में रुचि रखने वाला होता है और उसकी माता उसकी संतान का स्नेहपूर्वक पालन करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 104,
+          "text": "अम्बरपे शत्रुगते शत्रभयात्‌ कारतः करहरीलः ।\nकृपणः सभया हीनो नरो न रोगी भवति ठोके",
+          "english": "If the lord of the tenth house is in the sixth house, the native faces imprisonment due to fear of enemies, is tax-paying, miserly, fearful, but does not suffer from diseases in the world.",
+          "hindi": "यदि दशमेश छठे भाव (शत्रु भाव) में हो, तो मनुष्य शत्रुओं के भय से कारावास भोग सकता है, कर चुकाने वाला, कंजूस, भयभीत परंतु संसार में निरोगी रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 105,
+          "text": "सुतवती शुभूपसमन्विता रमणमातरि पारनलयर्सा ।\nभवति तस्य नरस्य निरन्तरं प्रियतमाम्बरपे दयितागते",
+          "english": "If the lord of the tenth house is in the seventh house, the native's wife is blessed with children, decorated with good qualities, and serves or cares for the native's mother; she remains constantly dear to the native.",
+          "hindi": "यदि दशमेश सप्तम भाव में हो, तो जातक की पत्नी उत्तम संतान वाली, सद्गुणों से युक्त, अपनी सास की सेवा करने वाली और जातक को निरंतर प्रिय लगने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 106,
+          "text": "अंबरपे रीपुसंस्थे बाल्ये दःखी सुखी भत्ेतकृरे ।\nपहष पश्चादीषः परनरनियतास्तथा माता ॥\nअम्बरपतिरष्टमगः क्रूरशवोरं सृषान्वितं दुष्टम्‌ ।\nमातरि सन्तापकरं जनयति तनुजीवितं कितवम्‌",
+          "english": "If the lord of the tenth house is in the eighth house, it makes the native a gambler, short-lived, wicked, causing grief to his mother, and of harsh speech; if in the sixth or eighth house with a malefic, he is unhappy in youth but happy later.",
+          "hindi": "यदि दशमेश अष्टम भाव में हो, तो जातक जुआरी, अल्पजीवी, दुष्ट, माता को कष्ट देने वाला और कठोर स्वभाव वाला होता है; यदि पाप ग्रह से युक्त छठे या आठवें भाव में हो, तो बाल्यावस्था में दुःखी किंतु बाद में सुखी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 107,
+          "text": "श्ुभरीकः सद्न्धुः सन्मित्रो दशमपे नवमरीने ।\nतन्मातापि सुशीख युङृतवती सत्यवचनरता",
+          "english": "If the lord of the tenth house is in the ninth house, the native has a good character, good relatives, and good friends; his mother is also well-behaved, virtuous, and truthful.",
+          "hindi": "यदि दशमेश नवम भाव में हो, तो जातक सुशील, उत्तम भाई-बंधुओं और अच्छे मित्रों से युक्त होता है; उसकी माता भी शीलवती, धार्मिक और सत्यवादी होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 108,
+          "text": "गगनपतिगैगनगतो जनयति जननीमुखभ्रदं पुरुषम्‌ ।\nजननीकरुरुत्रिपुखसुखं प्रकटनघरनापदीयामम्‌",
+          "english": "If the lord of the tenth house is in the tenth house itself, it makes the native bring comfort and happiness to his mother, and makes him famous, wealthy, and protected from sudden calamities.",
+          "hindi": "यदि दशमेश दशम भाव में ही स्थित हो, तो वह जातक को अपनी माता के मुख पर प्रसन्नता लाने वाला बनाता है, तथा वह समाज में प्रकट रूप से धनवान और अचानक आने वाली विपत्तियों से सुरक्षित रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 109,
+          "text": "मातर्यतिरिक्तपरस्तथा च सुतपक्षिणी सुखिनी ।\nदीधायुर्मातृदुखः पुरुषो खमाश्रितेऽम्बरपे",
+          "english": "If the lord of the tenth house is in the eleventh house, the native is highly devoted to his mother, his wife and children are happy, and he is long-lived, though he may experience maternal worries.",
+          "hindi": "यदि दशमेश एकादश भाव में हो, तो जातक माता के प्रति विशेष भक्ति रखने वाला होता है, उसकी पत्नी व संतान सुखी होती हैं, और वह दीर्घायु होता है, यद्यपि माता से संबंधित चिंता हो सकती है।",
+          "status": "translated"
+        },
+        {
+          "number": 110,
+          "text": "मात्रोक्तितो निजबलः शुभकर्म नृपकिकर्मरतचेताः ।\nव्योमपती तययसंस्ये देशान्तरगश्च पापखगे",
+          "english": "If the lord of the tenth house is in the twelfth house, the native gains strength through his mother's advice, is engaged in good deeds or royal services, but if it is a malefic, he travels to foreign lands.",
+          "hindi": "यदि दशमेश द्वादश भाव में हो, तो जातक माता के परामर्श से बल प्राप्त करने वाला, शुभ कार्यों या राजसेवा में लगा रहने वाला होता है; परंतु पाप ग्रह होने पर वह विदेश जाने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 111,
+          "text": "स्वस्पायुबैरकरितिः शुरो दाता जनप्रियः सुभगः ।\nलाभपतौ लग्नगते तुच्छादोषान्मृतिं रुभते",
+          "english": "If the lord of the eleventh house is in the ascendant, the native is short-lived, hostile, but brave, charitable, loved by the people, and fortunate. He may face death due to minor or sudden ailments.",
+          "hindi": "यदि एकादशेश लग्न में हो, तो जातक अल्पायु, शत्रुता रखने वाला, परंतु वीर, दानी, जनता का प्रिय और भाग्यशाली होता है। उसकी मृत्यु किसी छोटे या आकस्मिक रोग से हो सकती है।",
+          "status": "translated"
+        },
+        {
+          "number": 112,
+          "text": "वित्तगते खाभपताबुन्नसुगस्पभोजनोऽस्पायुः ।\nअष्टकपाटी चौरः क्रूरे सौम्ये च धनककितः",
+          "english": "If the lord of the eleventh house is in the second house, the native eats very little but is noble, short-lived, and may become a beggar or thief if it is a malefic planet; if a benefic, he is endowed with wealth.",
+          "hindi": "यदि एकादशेश द्वितीय भाव (धन भाव) में हो, तो जातक अल्पहारी किंतु उच्च विचार वाला, अल्पायु होता है; क्रूर ग्रह होने पर वह भिक्षुक या चोर होता है और सौम्य होने पर धन-संपत्ति से युक्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 113,
+          "text": "बन्धुस्त्ीपाटनकः सुबान्धवो बन्धुवत्सर्तु शमे ।\nलामेशे सह जगते बन्धूनामाश्रयो रिपोच्छेत्ता",
+          "english": "If the lord of the eleventh house is in the third house, the native is a protector of relatives' wives, has good relatives, is affectionate to relatives if a benefic, serves as a refuge for relatives, and destroys his enemies.",
+          "hindi": "यदि एकादशेश तृतीय भाव में हो, तो जातक बंधुओं की स्त्रियों का रक्षक, उत्तम बंधुओं वाला, शुभ ग्रह होने पर बंधु-प्रेमी, बंधुओं का आश्रयदाता और शत्रुओं का नाश करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 114,
+          "text": "7122 तुच्छान्‌ 3, तखन ।, तनुरान्‌ 7, तोचछा 8 1236 भारः 218, भीरू 1\nभ्माश्रयो 010. 8708 रिपुरिव छेत्ता 285, रिपुवहेता 0, रिपुदेता 1\nतुर्यस्य समरो दीर्घायुः पितरि भक्तिभाग्भवति ।\nसामयिककर्मनिरतः स्वकर्म॑तो समभवान्‌ पुरषः",
+          "english": "If the lord of the eleventh house is in the fourth house, the native is balanced, long-lived, devoted to his father, engaged in timely duties, and achieves equanimity through his own work.",
+          "hindi": "यदि एकादशेश चतुर्थ भाव (सुख भाव) में हो, तो जातक समभावी, दीर्घायु, पिता का भक्त, समयानुकूल कर्मों में तत्पर और अपने पुरुषार्थ से प्रतिष्ठा प्राप्त करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 115,
+          "text": "तनयगतो लाभपतिः पित्पुत्रौ स्नेहटो मिथः कुरुते ।\nतुस्यगुणौ च परस्परतुच्छो जीवी च भवति सुतः",
+          "english": "If the lord of the eleventh house is in the fifth house, it creates mutual affection between the father and the son; they possess similar qualities, and the son survives and protects the father.",
+          "hindi": "यदि एकादशेश पंचम भाव में हो, तो वह पिता और पुत्र में परस्पर स्नेह उत्पन्न करता है; वे समान गुणों वाले होते हैं और पुत्र पिता का पालन करने वाला तथा जीवित रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 116,
+          "text": "लामाधिपे षष्ठगते सुवेरः सुदीधरोगी चतुरङ्गसडग्रही ।\nमृतिं समाप्नोति च चोरहस्तात्‌ क्रूरे वरिदेशान्तरतङ्गतो नरः",
+          "english": "If the lord of the eleventh house is in the sixth house, the native is hostile, suffers from long-term diseases, possesses vehicles/armies, and if it is a malefic, he may face death at the hands of thieves or in a foreign land.",
+          "hindi": "यदि एकादशेश छठे भाव में हो, तो जातक शत्रुता रखने वाला, दीर्घकाल तक रोगी, वाहनों व सेना से युक्त होता है, और यदि क्रूर ग्रह हो, तो चोरों के हाथों अथवा विदेश में मृत्यु को प्राप्त हो सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 117,
+          "text": "सप्तमगे लभेद तेजस्वी शीरसम्पदः पदवी ।\nदीरघायुमेवति नरस्तथकट यितापतिनियतम्‌",
+          "english": "If the lord of the eleventh house is in the seventh house, the native is radiant, achieves a position of high virtue and wealth, is long-lived, and has a devoted wife.",
+          "hindi": "यदि एकादशेश सप्तम भाव में हो, तो जातक तेजस्वी, शील और संपत्ति के उच्च पद को प्राप्त करने वाला, दीर्घायु और पतिव्रता पत्नी से युक्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 118,
+          "text": "एकाद कपेऽषटमगे क्ररेऽल्यायुः सुदीधेरोगी च ।\nजीवनन्मरतश्च दुखी भवति नरः सौम्यगगनचंरे",
+          "english": "If the lord of the eleventh house is in the eighth house, and is a malefic, the native is short-lived and suffers from chronic diseases; if it is a benefic, he is unhappy despite living a long life.",
+          "hindi": "यदि एकादशेश अष्टम भाव में हो, और वह क्रूर ग्रह हो, तो जातक अल्पायु और पुराने रोगों से ग्रस्त होता है; यदि सौम्य ग्रह हो, तो वह जीवित रहते हुए भी दुःखी जीवन जीता है।",
+          "status": "translated"
+        },
+        {
+          "number": 119,
+          "text": "एकादेशे सुद्ताख्यस्थे बहुश्रुतः शास्त्रविारदश्च ।\nधर्मप्रसिद्धो गुस्देवभक्तः करर च बन्धुत्रपवर्जितश्च",
+          "english": "If the lord of the eleventh house is in the ninth house, the native is highly learned, expert in scriptures, famous for righteousness, devoted to gurus and gods; if a malefic is there, he is devoid of relatives and shameful conduct.",
+          "hindi": "यदि एकादशेश नवम भाव (भाग्य भाव) में हो, तो जातक ज्ञानवान, शास्त्रों का ज्ञाता, धर्म के लिए प्रसिद्ध, गुरु व देव का भक्त होता है; यदि क्रूर ग्रह हो तो वह बंधुओं और लज्जा से रहित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 120,
+          "text": "मातरि भक्तः युक्ती पितरि द्वेषी सुदीरषतरजीवी ।\nधनवान्‌ जननीपाल्कनिग्तो सभाधिपे खगते",
+          "english": "If the lord of the eleventh house is in the tenth house, the native is devoted to his mother, virtuous, but may have disagreements with his father; he is long-lived, wealthy, and devoted to protecting his mother.",
+          "hindi": "यदि एकादशेश दशम भाव (कर्म भाव) में हो, तो जातक माता का भक्त, पुण्यात्मा, परंतु पिता से द्वेष रखने वाला होता है; वह दीर्घजीवी, धनवान और माता का पोषण करने में तत्पर रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 121,
+          "text": "लाभाधिपो लयमगतः करोति दीर्घायुषं पृष्कलपुत्रपष्टम्‌ ।\nसक्कर्मकं खूपयुतं सुशीरे जनप्रमोदप्रवण सुगीतम्‌",
+          "english": "If the lord of the eleventh house is in the eleventh house itself, it makes the native long-lived, blessed with many children, engaged in righteous deeds, endowed with royal status, of excellent character, loved by the people, and fond of music/arts.",
+          "hindi": "यदि एकादशेश एकादश भाव में ही स्थित हो, तो वह जातक को दीर्घजीवी, अनेक उत्तम संतानों से युक्त, सत्कर्मी, राज्याधिकार प्राप्त करने वाला, सुशील, लोक-प्रिय और संगीत व कलाओं का प्रेमी बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 122,
+          "text": "पुच्छ० $ भपुत्रमाब्ये 85, मुप्रमाछां 7, पुत्व॑तं 1 7320 भूषयुनं ए218 132त्‌\n२९८ जदयवनजातवे\nद्वादशगे खाभपतावुत्पन्नमुगस्थिरो भवति रोगी ।\nउत्पातरतो मानी दाता दुःखी सदा पुषः",
+          "english": "If the lord of the eleventh house is in the twelfth house, the native is diseased, though his source of pleasure or comfort may be stable; he is inclined to creating disturbances, proud, charitable, yet always unhappy.",
+          "hindi": "यदि एकादशेश द्वादश भाव में हो, तो जातक रोगी होता है, यद्यपि उसके सुख के साधन स्थिर हो सकते हैं; वह उपद्रव करने में रुचि रखने वाला, अभिमानी, दानी परंतु सदा दुःखी रहने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 123,
+          "text": "व्ययनाये रुनगते विदेश्चगः सुवचनः सुरूपश्च ।\nअपसङ्गवाददोषी भवति कुमारोऽथवा षण्डः",
+          "english": "If the lord of the twelfth house is in the ascendant, the native travels to foreign lands, is sweet-spoken, and handsome. He may suffer from blame due to bad association, or may remain unmarried or lack virility.",
+          "hindi": "यदि द्वादशेश लग्न में हो, तो जातक विदेश जाने वाला, मधुरभाषी और सुंदर रूप वाला होता है। वह कुसंगति के कारण वाद-विवाद के दोष से पीड़ित हो सकता है, अथवा अविवाहित या नपुंसक रह सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 124,
+          "text": "ठ्रयनाये वित्तगते कृपणः कंटुवाबिनष्टसामलम्बः ।\nभोमे गच्छति निधनं नृपतस्करवहिमक्तमयतः",
+          "english": "If the lord of the twelfth house is in the second house, the native is miserly, harsh-spoken, and lacks support. If it is Mars, he may face death due to the king, thieves, fire, or weapons.",
+          "hindi": "यदि द्वादशेश द्वितीय भाव (धन भाव) में हो, तो जातक कंजूस, कटु वचन बोलने वाला और आश्रयहीन होता है। यदि वहां मंगल हो, तो राजा, चोर, अग्नि या शस्त्र के भय से उसकी मृत्यु हो सकती है।",
+          "status": "translated"
+        },
+        {
+          "number": 125,
+          "text": "सहजगते द्वादशपे क्रूरेऽधनबान्धवः शुम च धनी ।\nतत्सोदरः सुकृपणो बन्धुषु दूरे सदा वसति",
+          "english": "If the lord of the twelfth house is in the third house, and is a malefic, the native has poor relatives; if a benefic, he is wealthy. His brother is very miserly, and the native always lives far away from his relatives.",
+          "hindi": "यदि द्वादशेश तृतीय भाव में हो, और वह क्रूर ग्रह हो, तो जातक के भाई-बंधु निर्धन होते हैं; यदि शुभ ग्रह हो, तो वह धनवान होता है। उसका भाई अत्यंत कृपण होता है, और जातक अपने बंधुओं से सदा दूर निवास करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 126,
+          "text": "द्वादशचपतो सुतस्थे करर सुतवर्जितः शमे ससुतः ।\nजनककमलविखसी समथताविरहितः पुरुषः ॥ १२३८ ॥\nपष्ठगते उ्ययनाये क्रूरे कृपणोऽक्षिदूषणः पुरूषः ।\nलभते मृतिमनुकरितो भृगुतनये भवति गतनयनः",
+          "english": "If the lord of the twelfth house is in the fifth house: if it is a malefic, he is childless; if a benefic, he has children. He is not very efficient in paternal works. If the lord of the twelfth house is in the sixth house: if it is a malefic, the native is miserly and suffers from eye diseases; if it is Venus, he may lose his eyesight entirely.",
+          "hindi": "यदि द्वादशेश पंचम भाव में हो: क्रूर ग्रह होने पर संतानहीन, सौम्य ग्रह होने पर संतानयुक्त होता है। वह पिता के कार्यों को करने में विशेष समर्थ नहीं होता। यदि द्वादशेश छठे भाव में हो: क्रूर ग्रह होने पर मनुष्य कंजूस व नेत्र-दोष से पीड़ित होता है; यदि शुक्र हो तो वह पूर्णतः नेत्रहीन हो जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 127,
+          "text": "1333 लाभेशे 09, लामये 9 1331 उन्मत्तमुग 815, बुदन्नानभः ¢, वुत्पन्नो\nसुमुतः ८708 1396 परिकरितो ८715\nदवादरशपे सप्तमगे दुष्टो दुश्चरितभृत्‌ कपटवचनः ।\nररे न स्त्री सौम्ये सः सौख्यतामेति गणिकातः",
+          "english": "If the lord of the twelfth house is in the seventh house, the native is wicked, of loose character, and deceitful in speech. If a malefic is there, he does not get a wife; if a benefic, he derives pleasure from courtesans.",
+          "hindi": "यदि द्वादशेश सप्तम भाव में हो, तो जातक दुष्ट, दुराचारी और कपटपूर्ण वचन बोलने वाला होता है। क्रूर ग्रह होने पर उसे पत्नी सुख नहीं मिलता; सौम्य ग्रह होने पर वह गणिकाओं से सुख प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 128,
+          "text": "व्ययनाथे विधनगतेऽष्टकपारी का्यैसाधनारहितः ।\n्रोदमतिः सौम्यग्बगे धनसङ्परहतत्परो मवति",
+          "english": "If the lord of the twelfth house is in the eighth house, the native is a beggar, unable to achieve his goals, and short-tempered. If it is a benefic, he becomes intent on accumulating wealth.",
+          "hindi": "यदि द्वादशेश अष्टम भाव में हो, तो जातक भिक्षुक, अपने कार्यों को सिद्ध न कर पाने वाला और क्रोधी बुद्धि वाला होता है। यदि सौम्य ग्रह हो, तो वह धन संचय करने में तत्पर रहता है।",
+          "status": "translated"
+        },
+        {
+          "number": 129,
+          "text": "त्ययनाये सुङ्कतगते तीर्थामीष्टञखरयी व्ययनवृत्तिः ।\nक्रूरे खचरे पापी निरथकं पाति तदू द्रत्यम्‌",
+          "english": "If the lord of the twelfth house is in the ninth house, the native spends his wealth on visiting holy places or pilgrimages. If it is a malefic planet, he is sinful and wastes his wealth uselessly.",
+          "hindi": "यदि द्वादशेश नवम भाव (भाग्य भाव) में हो, तो जातक तीर्थयात्राओं और शुभ कार्यों में व्यय करने वाला होता है। यदि क्रूर ग्रह हो, तो वह पापी होता है और अपने धन को व्यर्थ में नष्ट करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 130,
+          "text": "व्ययनाग्े गगनम्थे पररमणीपगङ्मुखः पवित्राङ्गः ।\nसुतधनमङ्ग्रहनिरता दर्वचनपरा भवति माता",
+          "english": "If the lord of the twelfth house is in the tenth house, the native turns away from other women, has a pure body, while his mother is intent on accumulating wealth for her children but speaks harshly.",
+          "hindi": "यदि द्वादशेश दशम भाव (कर्म भाव) में हो, तो जातक पर-स्त्रियों से विमुख रहने वाला, पवित्र अंगों वाला होता है, जबकि उसकी माता अपने बच्चों के लिए धन संग्रह करने में लगी रहती है परंतु कटु वचन बोलती है।",
+          "status": "translated"
+        },
+        {
+          "number": 131,
+          "text": "लभ्ये द्वादय्रपे द्रभ्यपि्दीजीवितो भवति ।\nस्थान प्रवेश्यदाता विख्यातः सत्यवचनपरः",
+          "english": "If the lord of the twelfth house is in the eleventh house, the native enjoys wealth and a long life, provides shelters to others, is famous, and is devoted to speaking the truth.",
+          "hindi": "यदि द्वादशेश एकादश भाव (आय भाव) में हो, तो जातक धन-संपत्ति और दीर्घायु से युक्त होता है, दूसरों को शरण देने वाला, विख्यात और सत्यवादी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 132,
+          "text": "विभृतिमान्‌ प्रामनिवास्षवित्तः कारष्यवुद्धिः पशुसङ्प्रदी च ।\nचेज्जीवते मांसयुतः सदा स्याद्‌ व्ययाधिनाय व्ययगेदलमीने",
+          "english": "If the lord of the twelfth house is in the twelfth house itself, the native is glorious, possesses wealth in his village/town, is compassionate, accumulates cattle, is physically robust, and spends his resources wisely. Thus ends the chapter on the results of the lords of the houses.",
+          "hindi": "यदि द्वादशेश द्वादश भाव में ही स्थित हो, तो जातक ऐश्वर्यशाली, अपने ग्राम/नगर में धनवान, दयालु बुद्धि वाला, पशुओं का संग्रह करने वाला, पुष्ट शरीर वाला और उचित व्यय करने वाला होता है। इस प्रकार भावेशों के फलों का अध्याय समाप्त होता है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "text_id": "minaraja_yavana_jataka",
+  "title_sa": "यवनजातकम्",
+  "title_en": "Minaraja Yavana Jataka",
+  "category": "hora",
+  "chapters": [
+    {
+      "number": 55,
+      "title": "द्वादशभावस्थानचिन्ताध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "7458 श्रीबुद्धिमान्‌ 15 1450 कर्येषु बुद्धिः 8715 1456 चेज्जीवति 015,\nपञ्चपश्ारात्तमोऽष्यायः ॥ ५५ ॥\nमेषोदये रक्ततनुर्मनुष्यः सदाल्पबुद्धिः परनिरजितश्च ।\nपित्ताधिकरः सर्वजनोपसेऽ्यः सर्वाशनोऽबुद्धिविचक्षणश्च",
+          "english": "With Aries rising (ascendant), the native has a reddish complexion, is often simple-minded, is defeated or subjugated by others, has an excess of bile (pitta), is served by or serves all people, eats all kinds of food, and is clever in non-intellectual matters.",
+          "hindi": "मेष लग्न में उत्पन्न मनुष्य लाल आभा वाले शरीर से युक्त, प्रायः सरल बुद्धि, दूसरों द्वारा पराजित होने वाला, पित्त की अधिकता वाला, सभी लोगों की सेवा करने व पाने वाला, सब कुछ खाने वाला और व्यावहारिक कार्यों में चतुर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "वृषोदये श्वेपतनुरमनुष्यः शेष्माधिकरः क्रोधपरः कृतध्नः ।\nमुमन्दवुद्धिः स्थिरतासमेतः पराजितः स्तरीभृतकैः सदैव",
+          "english": "With Taurus rising, the native has a fair complexion, has an excess of phlegm (kapha), is prone to anger, ungrateful, slow-witted, possessing stability, and is always dominated or defeated by women and servants.",
+          "hindi": "वृषभ लग्न में उत्पन्न मनुष्य गौर वर्ण के शरीर वाला, कफ की अधिकता वाला, क्रोधी, कृतघ्न, मंदबुद्धि, स्थिरता से युक्त, तथा स्त्रियों और नौकरों द्वारा सदैव पराजित होने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "तृतीये पुरूषोऽतिगौरः खीशक्तचित्तो नृपपीडिताङ्गः ।\nदूतः प्रस्नः प्रियवाजिनीतः सुमूधैजो गीतविचक्षणश्च",
+          "english": "With Gemini rising, the native is very fair, has his mind attached to women, has limbs afflicted by royal punishment or illness, acts as a messenger, is cheerful, dear to horses, has beautiful hair, and is expert in music.",
+          "hindi": "मिथुन लग्न में उत्पन्न मनुष्य अत्यंत गोरा, स्त्रियों में आसक्त चित्त वाला, राजा द्वारा दंडित या पीड़ित अंगों वाला, दूत का कार्य करने वाला, प्रसन्न रहने वाला, घोड़ों का प्रिय, सुंदर केशों वाला और संगीत का ज्ञाता होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "कर्कोदये गोखपुर्मनुप्यः पित्ताधिकः कल्यतनुः प्रगल्भः ।\nजखवगाहानुरतोऽतिबुद्धः शुचिः क्षमी धर्मरुचिः पुसेव्यः",
+          "english": "With Cancer rising, the native has a fair body, is bilious (pitta), healthy-bodied, proud and eloquent, fond of bathing in water, highly intelligent, pure, forgiving, inclined towards righteousness (dharma), and respected by good people.",
+          "hindi": "कर्क लग्न में उत्पन्न मनुष्य गोरे शरीर वाला, पित्त की अधिकता वाला, स्वस्थ शरीर वाला, चतुर, जल में स्नान करने का प्रेमी, अत्यंत बुद्धिमान, पवित्र, क्षमाशील, धर्मप्रेमी और सज्जनों द्वारा सेवित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "सिंहोदये पाण्डतनुर्मनुप्यः पित्तानिखभ्यां परिपीडिताङ्गः ।\nप्रियामिषोऽरण्यरसः सुतीक्ष्णः शूरः प्रगल्भः सुतरां निरीहः",
+          "english": "With Leo rising, the native has a pale body, is afflicted by bile and wind (pitta and vata), is fond of meat, loves forests, is sharp-tempered, brave, eloquent, and highly inactive or contented.",
+          "hindi": "सिंह लग्न में उत्पन्न मनुष्य पीले-सफ़ेद वर्ण के शरीर वाला, पित्त और वायु रोगों से पीड़ित, मांसप्रिय, वन-प्रेमी, तीक्ष्ण स्वभाव वाला, शूरवीर, प्रगल्भ और अत्यंत शांत होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "कन्याविखने कफपित्तयुक्तो भवेन्मनुष्यः शुभकान्तिमाजः ।\nदछप्मप्रियः खीविजितोऽतिभीर्मायाधिकः कामक्रदधिताङ्गः",
+          "english": "With Virgo rising, the native is afflicted by phlegm and bile, possesses an auspicious and radiant glow, is fond of show, is dominated by women, very fearful, highly deceitful, and has a body affected by desire and anger.",
+          "hindi": "कन्या लग्न में उत्पन्न मनुष्य कफ और पित्त की अधिकता वाला, सुंदर कांति से युक्त, दिखावा पसंद करने वाला, स्त्रियों के वश में रहने वाला, अत्यंत भयभीत, अत्यंत कपटी और काम-क्रोध से पीड़ित शरीर वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "॥\nतुखविटग्ने च मवेन्मनुप्यः ेप्मान्वितः सत्यपरः सदेव ।\nपण्यप्रियः पा्थिवमानयुक्तः मुगचने तत्पर एव कल्यः",
+          "english": "With Libra rising, the native is phlegmatic, always devoted to truth, fond of trade, honored by the ruler, sweet-spoken, and healthy.",
+          "hindi": "तुला लग्न में उत्पन्न मनुष्य कफयुक्त, सदैव सत्यपरायण, व्यापारप्रिय, राजा से मान-सम्मान प्राप्त करने वाला, मधुरभाषी और स्वस्थ होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "टग्नेऽ्टमे कोपपरो जराव्यो भवेन्मनुप्यो नृपपूजिताङ्गः ।\nगुणान्वितः शाखकथानुरक्तः प्रमर्दकः रात्रुगणप्य नित्यम्‌",
+          "english": "With Scorpio rising, the native is prone to anger, wealthy, honored by the king, virtuous, interested in scriptures and discourses, and always a destroyer of his enemies.",
+          "hindi": "वृश्चिक लग्न में उत्पन्न मनुष्य क्रोधी, धनवान, राजा द्वारा सम्मानित अंगों वाला, गुणी, शास्त्रों और कथाओं में रुचि रखने वाला तथा नित्य अपने शत्रुओं का नाश करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "धनूदये राजयुतो मनुप्यः कारये प्रधृप्यो द्िजदेवरक्तः ।\nतुरनगयुक्तः पुद्ैः प्रयुक्तस्तुरक्गजधश्च भवेत्‌ सदैव",
+          "english": "With Sagittarius rising, the native is associated with the king, unconquerable in battles, devoted to Brahmins and gods, possesses horses, is assisted by sons, and always acquires wealth through horses and elephants.",
+          "hindi": "धनु लग्न में उत्पन्न मनुष्य राजा से संबद्ध, कार्यों में अजेय, ब्राह्मणों और देवताओं का भक्त, घोड़ों से युक्त, पुत्रों से सेवित तथा सदैव घोड़े और हाथियों के माध्यम से धन प्राप्त करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "एर्ाण€ 1 70 195 : अथ मेषादिक्रजन्मफ्ट; 1 128 : अथ राहिभावाध्यायो निरूप्यते\nश्ेष्मप्रजः ऽ स्त्रीविनीतो 8 20 श्मायुतः 08 7 पण्याः ©, पुण्य 8\nमृगोदये तोषरतः सतीनो भीरः सदा पण्यनिषेवकश्च ।\nशेप्मानिसाभ्यां परिपीडिताङ्गः सुदीरगात्रः परवंचकश्च",
+          "english": "With Capricorn rising, the native is contented, humble, fearful, always engaged in trade, afflicted by phlegm and wind, has a tall body, and is deceptive towards others.",
+          "hindi": "मकर लग्न में उत्पन्न मनुष्य संतोषी, विनम्र, डरपोक, सदैव व्यापार में लगा रहने वाला, कफ और वायु रोगों से पीड़ित शरीर वाला, लंबे कद वाला और दूसरों को ठगने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "घटोदये सुस्थिरतासमेतो वाताधिकः स्तेयनिषेवणोक्तः ।\nसुद्रस्वगात्रः प्रमदास्वभीष्टः सिद्धानुरक्तो जनरलमश्च",
+          "english": "With Aquarius rising, the native possesses great stability, has an excess of wind (vata), is prone to stealing or secret acts, has a well-formed body, is desired by women, is devoted to accomplished saints, and is popular.",
+          "hindi": "कुंभ लग्न में उत्पन्न मनुष्य स्थिर बुद्धि वाला, वायु दोष की अधिकता वाला, चोरी या गुप्त कार्यों में संलग्न रहने वाला, सुगठित शरीर वाला, स्त्रियों का प्रिय, सिद्ध पुरुषों का भक्त और जनप्रिय होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "मीनोदये तोषरतो मनुष्यो भवेद्विनीतः सुरतानुदरूरः ।\nसुपण्डितः प्त्रीदयितः प्रचण्डः पित्ताधिकः कीर्तिप्तमन्वितश्च",
+          "english": "With Pisces rising, the native is contented, humble, fond of sexual pleasures, highly learned, dear to women, fierce, bilious, and endowed with fame.",
+          "hindi": "मीन लग्न में उत्पन्न मनुष्य संतोषी, विनम्र, मैथुन-प्रिय, उत्तम विद्वान, स्त्रियों का प्रिय, अत्यंत उग्र, पित्त की अधिकता वाला और कीर्तिमान होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "मेषे धनम खमते मनुप्यो धनं सुपण्ेर्विविभैः प्रभूतः।\nचतुष्पदाद्यः बहुवान्धतराव्यः प्रयच्छति प्रीनिपरः सदेव",
+          "english": "If Aries is in the second (wealth) house, the native obtains abundant wealth through various trade goods, quadrupeds (cattle), has many relatives, and is always affectionate and charitable.",
+          "hindi": "यदि द्वितीय भाव (धन भाव) में मेष राशि हो, तो मनुष्य अनेक प्रकार के व्यापारिक सामानों, चौपायों के माध्यम से प्रचुर धन प्राप्त करता है, बहुत से बंधु-बांधवों से युक्त होता है और सदैव स्नेही व दानी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "वृषे धनम्ध्े रमते मनुप्यः कृषिप्रयत्नेन धनं सदैव ।\nअन्नासिधान च चतुप्पदराष्व्यं तथा हिरण्ये मणिसुक्तिकोत्थम्‌",
+          "english": "If Taurus is in the second house, the native always enjoys wealth earned through agricultural endeavors, food grains, quadrupeds, gold, gems, and pearls.",
+          "hindi": "यदि द्वितीय भाव में वृषभ राशि हो, तो मनुष्य कृषि कार्य के प्रयत्नों से, अन्न-धान्य, चौपायों, स्वर्ण, मणियों और मोतियों से सदैव प्रचुर धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "तृतीयखग्ने धनगे मनुप्यो धन नमेत खीजनतश्च नित्यम्‌ ।\nरौप्यं तथा कांचनं प्रभृनं हयापिकं युष्टुभिरेव सप्यम्‌",
+          "english": "If Gemini is in the second house, the native always obtains wealth from women, as well as silver, gold, horses, and various assets through physical efforts.",
+          "hindi": "यदि द्वितीय भाव में मिथुन हो, तो जातक सदैव स्त्रियों के माध्यम से धन प्राप्त करता है, तथा चांदी, सोना, घोड़े और शारीरिक पुरुषार्थ से अनेक संपत्तियां प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "चतु्थगिरनगो मनुप्यरो घ्रने लभेद्‌ बृश्नजमेव्र नित्यम्‌ ।\nजलोद्धवं ययजनिष्ठभोञ्ये नयार्जित प्रीतिकरं पुतानाम्‌",
+          "english": "If Cancer is in the second house, the native always obtains wealth from water-born products, food grains, and ethical earnings, which bring pleasure to his children.",
+          "hindi": "यदि द्वितीय भाव में कर्क हो, तो मनुष्य जल से उत्पन्न वस्तुओं, अन्न-धान्य और नीतिगत रूप से उपार्जित धन को प्राप्त करता है जो उसकी संतानों को प्रसन्न करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "सिंहे धनम्थे कमते मनुष्यो धनं तथारण्यजनोत्थमाप्तम्‌ ।\nसर्वोपकरारं प्रवणप्रभूते म्वविक्रमोपार्जिंतमेव नित्यम्‌",
+          "english": "If Leo is in the second house, the native obtains wealth from forest products or forest dwellers, is inclined to help all, and earns wealth through his own valor.",
+          "hindi": "यदि द्वितीय भाव में सिंह राशि हो, तो मनुष्य वन की वस्तुओं या वनवासियों से धन प्राप्त करता है, सब पर उपकार करने में तत्पर और अपने पराक्रम से धन कमाने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "कन्योदये वित्तगते मनुष्यो धनं स्मेद्‌ भूमिपते: सकाशात ।\nरिरण्यमुक्तामणिगुक्तजातं गजाश्चनानाविधवित्तज च",
+          "english": "If Virgo is in the second house, the native obtains wealth from the ruler, gold, pearls, gems, elephants, horses, and various other sources of income.",
+          "hindi": "यदि द्वितीय भाव में कन्या राशि हो, तो मनुष्य राजा की ओर से धन प्राप्त करता है, तथा स्वर्ण, मोती, मणि, हाथी, घोड़े और अनेक प्रकार के साधनों से धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "तुले धनस्थे बहुपण्यजातं धनं भवेत्‌ पुत्रजनैर्पेतम्‌ ।\nवित्ताहवं चाप्रतिमं प्रधानं स्वन्यायरुन्धं गुरुरुढ्धरोषम्‌ ॥ १९. ॥\nअल धनस्य तृणकाष्टज।तं धने मनुष्यो लभते प्रभूतम्‌ ।\nपाषाणजं मृन्मयमार्तिजातं सस्योद्धवं कर्मजमेव नित्यम्‌",
+          "english": "If Libra is in the second house, the native obtains wealth through extensive trade, with the support of his sons; it is unmatched, earned rightfully, and respected by elders. If Scorpio is in the second house, the native obtains abundant wealth from grass, wood, stones, clay items, grains, and physical labor.",
+          "hindi": "यदि द्वितीय भाव में तुला राशि हो, तो मनुष्य बहुत से व्यापारिक सामानों से, अपनी संतानों के सहयोग से न्यायपूर्ण ढंग से प्रचुर धन कमाता है जो गुरुजनों द्वारा प्रशंसित होता है। यदि द्वितीय भाव में वृश्चिक राशि हो, तो मनुष्य घास, लकड़ी, पत्थर, मिट्टी के पात्रों, फसलों और शारीरिक श्रम से प्रचुर धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "धनुधरे वित्तगते मनुष्यो धनं मेत्‌ स्थेभरविधानजातम्‌ ।\nचतुष्पदाख्यं विविधं यशस्यं रसोद्धवं धर्मविधानट्धन्धम्‌",
+          "english": "If Sagittarius is in the second house, the native obtains wealth through stable means, various prestigious quadrupeds, liquid products, and righteous practices.",
+          "hindi": "यदि द्वितीय भाव में धनु राशि हो, तो जातक स्थिर साधनों, विविध यशश्वी चौपायों, रसों और धार्मिक अनुष्ठानों के माध्यम से धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "मृगे धनस्थे रभते मनुष्यो धने प्रप॑चेरविंविषैरपायेः ।\nसेवासमुत्थं च सदा नृषणां छृषिक्रियाभिश्च विदेशसङ्कात्‌",
+          "english": "If Capricorn is in the second house, the native obtains wealth through various clever means, royal service, agriculture, and contacts in foreign lands.",
+          "hindi": "यदि द्वितीय भाव में मकर राशि हो, तो मनुष्य अनेक चतुर उपायों से, राजाओं की सेवा से, कृषि कार्यों से और विदेश संपर्कों से धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "घटे धनस्थे रमते मनुष्यो धनं प्रभूतं फल्पुष्पजातम्‌ ।\nजनोद्धवं साधुजनस्य भोज्यं महाजनोत्थे च परोपकौरैः",
+          "english": "If Aquarius is in the second house, the native enjoys abundant wealth from fruits and flowers, public dealings, serving good people, and deeds of charity associated with great men.",
+          "hindi": "यदि द्वितीय भाव में कुंभ राशि हो, तो मनुष्य फल-फूलों, जन-व्यवहार, सज्जनों की सेवा और महापुरुषों के सहयोग से परोपकार के कार्यों द्वारा प्रचुर धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "मत्स्ये धनस्थे लमते मनुष्यो धनं प्रभूतेर्नियमोपवासेः ।\nविदाप्रमावाननिधिपङ्गमाच् मातापितृभ्यां समुपार्जित च",
+          "english": "If Pisces is in the second house, the native obtains wealth through vows and fasts, through the power of learning and finding treasures, and inherits wealth accumulated by his parents.",
+          "hindi": "यदि द्वितीय भाव में मीन राशि हो, तो मनुष्य नियम-उपवासों से, अपनी विद्या के प्रभाव से, निधि की प्राप्ति से तथा माता-पिता द्वारा अर्जित धन प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "तृतीयसंस्ये प्रथमे च राशौ मित्र द्विजाति च रमेन्मनुप्यः |\nपरोपकारं प्रवणं शुचि च प्रभूतविय नृपपूनिताङ्गम्‌",
+          "english": "If Aries is in the third house, the native enjoys friendship with Brahmins, is inclined to help others, is pure, highly learned, and honored by the king.",
+          "hindi": "यदि तृतीय भाव में मेष राशि हो, तो मनुष्य ब्राह्मणों से मित्रता रखता है, परोपकार में लीन, पवित्र, महान ज्ञानी और राजा द्वारा सम्मानित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "वृषे तृतीये रमते मनुष्यो मित्रं नरेन्द्रं प्रचुखतापम्‌ ।\nसुवित्तद्‌ भूरियशोनिधानं शुरं कविं बह्मणरक्तचित्त्‌",
+          "english": "If Taurus is in the third house, the native has friends who are kings or leaders of great power, donors of wealth, of high fame, brave, poets, and devoted to Brahmins.",
+          "hindi": "यदि तृतीय भाव में वृषभ राशि हो, तो मनुष्य को राजाओं व प्रतापी शासकों, धनदाता, यशस्वी, शूरवीर, कवि और ब्राह्मण-भक्त लोगों से मित्रता प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "€ पादह ? ब्द्धयवने धनफरं € 24 7 185 : अथ मेषादिकस्तृतीयष्थानफल\n256-262 गा. ‰ 27 ०. 6०त्‌.,\nकुलीरराो सहजप्रयाते मित्र लमेदविशयगुरुप्रसेवम्‌ ।\nकृषीवल धर्मकथानुरक्त सदा सुशीलं सुरस॑मतं च",
+          "english": "If Cancer is in the third house, the native has friends who serve deities and gurus, are farmers, fond of righteous stories, always of good character, and wise.",
+          "hindi": "यदि तृतीय भाव में कर्क राशि हो, तो मनुष्य देवताओं और गुरुओं की सेवा करने वाले, कृषक, धार्मिक कथाओं में रुचि रखने वाले, सदा सुशील और विद्वानों द्वारा आदरणीय मित्रों को प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "सिंहे तृतीये रभते मनुष्यः शद्रे कुमित्रे परवीतरन्धम्‌ ।\nवधातक पापकथानुरक्त प्रचण्डवाक्यं जनगर्हितं च",
+          "english": "If Leo is in the third house, the native gets bad friends who are wicked, find faults in others, are violent, interested in sinful talks, harsh-spoken, and condemned by the public.",
+          "hindi": "यदि तृतीय भाव में सिंह राशि हो, तो मनुष्य को दुष्ट, दूसरों के छिद्र ढूंढने वाले, हिंसक, पाप की चर्चा में लीन, कठोर बोलने वाले और लोक-निंदित कुमित्र मिलते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "॥२०॥\nतृतीयसंस्ये तु तुलाभिधाने मत्री भवेत्‌ पापपैमैनुष्येः ।\nसल्यालमकैर्लोल्यकरथानुरक्तः सार्थ मनुष्यस्य सुताथयुक्तेः",
+          "english": "If Libra is in the third house, the native has friendship with sinful or deceptive people, who are greedy, but he may also gain from traveling merchants and those with children and wealth.",
+          "hindi": "यदि तृतीय भाव में तुला राशि हो, तो मनुष्य की मित्रता पापी या कपटी लोगों से होती है जो चंचल होते हैं, परंतु उसे व्यापारियों और पुत्र व धन वाले लोगों से भी लाभ मिल सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "मलो तृतीये लभते मनुप्यो मेत्रीं सदा पापजनर्दरिदिः ।\nकृतप्रताव्येः करहानुरक्त्येपेतरमजेर्जनताविर्दैः",
+          "english": "If Scorpio is in the third house, the native always gets friendship with poor, sinful, or distressed people, who are engaged in cruel deeds and rejected by society.",
+          "hindi": "यदि तृतीय भाव में वृश्चिक राशि हो, तो मनुष्य को सदा दरिद्र, पापी, या पीड़ित लोगों, क्रूर कर्म करने वालों तथा समाज द्वारा उपेक्षित लोगों से मित्रता प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "चापे तृतीये लभते मनुप्यो भेत्रीं सुदयरनृपसेवकेश्च ।\nवित्तश्धर्मपैः प्रसनेः कपानुरक्तेः रणकोविदरैश्च",
+          "english": "If Sagittarius is in the third house, the native obtains friendship with kind royal servants, wealthy and righteous people, who are cheerful, compassionate, and skilled in battles.",
+          "hindi": "यदि तृतीय भाव में धनु राशि हो, तो मनुष्य दयालु राजसेवकों, धनवान व धर्मात्मा लोगों, प्रसन्न रहने वाले, करुणामयी और युद्ध कला में निपुण वीरों से मित्रता प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "॥ २५४ ॥\nकुम्भे तृतीये टमते भनुप्यो मत्री वत्ञर्बहुकीर्तयुकतेः ।\nक्षपाचिकरैः सत्यपरः मुरीरेः गुणाधिकः साधुकथानुरक्तेः",
+          "english": "If Aquarius is in the third house, the native obtains friendship with highly renowned, righteous, truthful, virtuous people, who are fond of pious stories and discourses.",
+          "hindi": "यदि तृतीय भाव में कुंभ राशि हो, तो मनुष्य को अत्यंत कीर्तिमान, सत्यपरायण, सुशील, सद्गुणी और सत्पुरुषों की कथाओं में रुचि रखने वाले मित्रों से मैत्री प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "सुपुण्यरक्तो गुरुभक्तिक्श्च\n11311 7753615 5€, 46 771 ए\nमीने तृतीये रभते मनुष्यो मैत्रं सदा हाखपैः सुमुभ्यैः ।\nकुीरनैः करी डनकैः कु्ीरलिर्गतप्रर्गोपपैरेः खरश्च",
+          "english": "If Pisces is in the third house, the native always gets friendship with humorous, pleasant-faced, artistic and playful people, or those involved in sports and recreation.",
+          "hindi": "यदि तृतीय भाव में मीन राशि हो, तो मनुष्य को सदा हास्य-विनोद करने वाले, प्रसन्न मुख वाले, कला-क्रीड़ा में कुशल लोगों से मित्रता प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "मेषे सुखभ्थे रभते सुख च चतुप्पदेभ्योऽथ विखसिनीभ्यः ।\nभोगेविचितरः प्रचुरान्नपनिः पराक्रमोपाजितमर्दैनैश्च",
+          "english": "If Aries is in the fourth house (sukha-sthah), the native obtains happiness from quadrupeds (cattle/vehicles) and beautiful women, experiences various pleasures, has abundance of food and drinks, and achieves success through his own valor.",
+          "hindi": "यदि चतुर्थ भाव (सुख भाव) में मेष राशि हो, तो मनुष्य चौपायों (वाहनों/पशुओं) और सुंदर स्त्रियों से सुख प्राप्त करता है, विविध प्रकार के भोग भोगता है, अन्न-जल से संपन्न होता है और अपने पराक्रम से अर्जित सफलता का आनंद लेता है।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "वृषे सुखस्थे रमते सुखानि नरातिमान्येर्विविधैश्च मान्यैः ।\nशर्येण भूपारनिषेवणेन विप्रोपचारैरनियमेनतेश्च",
+          "english": "If Taurus is in the fourth house, the native enjoys comforts through respect shown by highly honorable people, by serving kings, through association with Brahmins, and following religious disciplines.",
+          "hindi": "यदि चतुर्थ भाव में वृष राशि हो, तो मनुष्य अत्यंत प्रतिष्ठित लोगों द्वारा किए गए आदर से, राजाओं की सेवा से, ब्राह्मणों के संग से और धार्मिक नियमों के पालन से सुख प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "तृतीयरासौ सुगे सुखःनि लभेन्मनुष्यः प्रमदाज्तनि ।\nजलावगाहै्वेनसेवया च प्रभूतपुप्पाम्बरसेवनेन",
+          "english": "If Gemini (the third sign) is in the fourth house, the native obtains pleasures from women, water sports, visiting forests, and using abundance of flowers and fine clothes.",
+          "hindi": "यदि चतुर्थ भाव में मिथुन (तृतीय राशि) हो, तो मनुष्य स्त्रियों से, जल-क्रीड़ा से, वन-विहार से तथा प्रचुर पुष्पों व सुंदर वस्त्रों के धारण करने से सुख प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "॥ ४० ॥\nसिंहे सुखस्थे तु सुखं मनुष्यः प्राप्नोति जातु प्रचुरप्रकोपत्‌ |\nदरिद्रतः शीटविपयेयाच्च कुमित्रसङ्गाद्धनसंश्रायाच",
+          "english": "If Leo is in the fourth house, the native's happiness is compromised due to sudden anger, poverty, change of character, association with bad friends, and anxiety about money.",
+          "hindi": "यदि चतुर्थ भाव में सिंह राशि हो, तो मनुष्य का सुख अत्यधिक क्रोध, निर्धनता, शील में बदलाव, कुमित्रों की संगति और धन की चिंता के कारण कभी-कभी बाधित होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "कन्यागृे बन्धुम मनुष्यो प्राप्नोति सौख्यं प्रमदामियोगात्‌\nबहन्नपानान्ृपसेवनाच महोयमाद्धमनिषेवणाच",
+          "english": "If Virgo is in the fourth house, the native obtains happiness from association with women, abundant food and drinks, serving the king, performing great efforts, and practicing righteousness.",
+          "hindi": "यदि चतुर्थ भाव में कन्या राशि हो, तो मनुष्य स्त्रियों के समागम से, प्रचुर अन्न-पान से, राजसेवा से, महान उद्यमों से और धर्म के पालन से सुख प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "तरे सुखस्ये लभते मनुष्ये वेशुन्यसङ्गाहभते सुखानि ।\nपरोत्थच्िद्वेक्षणकीर्वनेन चौर्येण युद्धेन च मोहनेन",
+          "english": "If Libra is in the fourth house, the native gets pleasure from backbiting, observing and discussing others' faults, stealing, fighting, or deceiving others.",
+          "hindi": "यदि चतुर्थ भाव में तुला राशि हो, तो मनुष्य चुगली करने से, दूसरों के दोष देखने और उनका वर्णन करने से, चोरी से, युद्ध से और दूसरों को मोहित करने से सुख पाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "मृगे सुखस्थे सुखभाग्‌ मनुष्यः सदा भवेत्तोयनिषेवणेन ।\nउद्यानवापीतटसङ्गमेन मित्रोपचौरेः सुरतप्रधनिः ॥ ९६॥\nघटे सुखस्थे प्रमदाभिधानात्‌ प्राप्नोति सौख्यं विविधं मनुष्यः ।\nमिष्टा्नपनैः फटदाकपतरविदग्धवाक्येः कुहकानुकरः",
+          "english": "If Capricorn is in the fourth house, the native enjoys happiness from water resorts, gardens, banks of ponds, serving friends, and sexual pleasures. If Aquarius is in the fourth house, the native obtains various pleasures from women, sweet food and drinks, fruit-bearing trees, clever speech, and magic or deceitful acts.",
+          "hindi": "यदि चतुर्थ भाव में मकर राशि हो, तो मनुष्य जल-क्रीड़ा, उद्यानों, सरोवरों के तट पर विहार करने, मित्रों की सेवा और मैथुन सुख से आनंदित होता है। यदि चतुर्थ भाव में कुंभ राशि हो, तो मनुष्य स्त्रियों से, मिष्ठान्न व उत्तम पेय पदार्थों से, फलदार वृक्षों से, चतुर वाणी से और कौतुकपूर्ण कार्यों से अनेक प्रकार का सुख प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "मीने सुखस्ये तु सुखं मनुष्यः प्राप्नोति सोयं जरसंश्रयेण ।\nदानैसथा देवसमसुद्धवैश्च खनेः सुवस्त्रः सुधर्विकितरः",
+          "english": "If Pisces is in the fourth house, the native obtains comfort and happiness in old age, through charity, worship of gods, and possessing good clothes and noble virtues.",
+          "hindi": "यदि चतुर्थ भाव में मीन राशि हो, तो मनुष्य वृद्धावस्था में, दान से, देव-पूजा से तथा उत्तम वस्त्रों व धार्मिक आचरणों से सुख प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "मेषे सुतस्थे रमते मनुष्यः प्रायेण पुत्रान्‌ वितरां तथा च ।\nवृषे सुतस्थे रभते मनुष्यः प्राप्नोति कन्याः सुभगाः सुरूपाः ।\nअपत्यदीना बहुकान्तियुक्ताः सद।नुस्ता निजभवृधर्म",
+          "english": "If Aries is in the fifth house, the native generally gets sons. If Taurus is in the fifth house, the native gets beautiful and fortunate daughters, who have high radiance and are devoted to their husband's duties.",
+          "hindi": "यदि पंचम भाव में मेष राशि हो, तो मनुष्य प्रायः पुत्र प्राप्त करता है। यदि पंचम भाव में वृषभ राशि हो, तो मनुष्य सुंदर और भाग्यशाली कन्याएं प्राप्त करता है, जो अत्यंत कांतिवान और अपने पति के धर्म का अनुकरण करने वाली होती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "तृतीथरान्ौ सुतगे मनुष्यः प्राप्नोत्यपत्यानि मनोहराणि ।\nसुशीट्युक्तानि गुणाधिकानि प्रमासमेतानि बलाधिक्रानि",
+          "english": "If Gemini is in the fifth house, the native gets charming children, who are well-behaved, highly virtuous, radiant, and very strong.",
+          "hindi": "यदि पंचम भाव में मिथुन हो, तो मनुष्य सुंदर संतान प्राप्त करता है, जो सुशील, सद्गुणी, तेजस्वी और बलवान होती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "कके सुतस्थे जनयेन्मनुष्यः पुत्रान्‌ प्रसिद्धान्‌ सुतलालांश्च ।\nविस्तीणैकीर्तीश्च महानुभावान्‌ धनेन युक्तान्‌ विनयेन युक्तान्‌",
+          "english": "If Cancer is in the fifth house, the native generates famous, beloved sons, who have widespread fame, noble character, wealth, and humility.",
+          "hindi": "यदि पंचम भाव में कर्क राशि हो, तो मनुष्य प्रसिद्ध और लाड़ले पुत्रों को जन्म देता है, जो विस्तृत कीर्ति वाले, महानुभाव, धनवान और अत्यंत विनम्र होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "48 70 पशन इष 8 एरटणि€ 49 7 185 : अथ मेषादिकमुतस्थानफटे 49\n३०६ ब्रढयवनजातङे\nसिंहे सुतस्थे जनयेन्भनुष्यः कररस्वभावान्‌ नयनेन कान्तान्‌ ।\nमांसग्रियान्‌ स््रीजनकान्‌ सुतीन्रान्‌ विदेशमाजान्‌ क्षुधया समेतान्‌",
+          "english": "If Leo is in the fifth house, the native generates children who are harsh in nature, have attractive eyes, are fond of meat, sire female children, are sharp-tempered, live in foreign lands, and have a strong appetite.",
+          "hindi": "यदि पंचम भाव में सिंह राशि हो, तो जातक उग्र स्वभाव वाले, सुंदर नेत्रों वाले, मांसप्रिय, अधिक कन्याएं उत्पन्न करने वाले, तीक्ष्ण बुद्धि, विदेश में रहने वाले और अधिक भूख वाले पुत्र उत्पन्न करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "कन्या यदा पंचमगा तदा स्युः कन्या नराणां तनयेरविदीनाः ।\nपतिग्रियाः पुण्यपराः प्रगस्माः प्रशञान्तपापाः प्रियमूषणाश्च",
+          "english": "If Virgo is in the fifth house, the native mostly gets daughters, who are dear to their husbands, virtuous, eloquent, peaceful and sinless, and fond of ornaments.",
+          "hindi": "यदि पंचम भाव में कन्या राशि हो, तो मनुष्य को कन्याएं प्राप्त होती हैं, वे पति की प्रिय, पुण्यकर्म करने वाली, विदुषी, शांत स्वभाव वाली और आभूषणों को पसंद करने वाली होती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "तुख यदा पंचमगा नराणां तदा सुक्ीरानि मनोहराणि ।\nभवन्त्यपत्यानि सुरूपकाणि क्रियासमेतानि सुभिक्षितानि",
+          "english": "If Libra is in the fifth house, the native gets handsome, charming children, who are active and dutiful, and well-nourished.",
+          "hindi": "यदि पंचम भाव में तुला राशि हो, तो जातक के सुंदर, आकर्षक, कर्तव्यनिष्ठ और सुशिक्षित बच्चे होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": ", कीटे सुतस्थे जनयेद्वियोन पुत्रान्‌ मनुष्यः सुभगान्‌ सुरीखन्‌ ।\nअज्ञातदोषान्‌ प्रणवेन युक्तान्‌ सदानुरक्तान्‌ निजगोत्रधर्मे",
+          "english": "If Scorpio is in the fifth house, the native generates handsome, well-behaved sons, who are free from known defects, humble and devoted, and always attached to their family duties.",
+          "hindi": "यदि पंचम भाव में वृश्चिक राशि हो, तो मनुष्य सुंदर, सुशील, दोषरहित, विनीत और अपने कुल-धर्म में सदा निष्ठा रखने वाले पुत्रों को जन्म देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "चापे सुतस्थे जनयेन्मनुष्यः सुतान्‌ विचित्रान्‌ हयरब्धलक्षान्‌ ।\nधानुष्कचर्यान्‌ क्षतशत्ुपक्षान्‌ सेवाप्रियान्‌ पार्थिवमानतुष्टान्‌",
+          "english": "If Sagittarius is in the fifth house, the native generates excellent sons who are skilled in riding horses, archery, destroy their enemies, are fond of service, and pleased with royal honors.",
+          "hindi": "यदि पंचम भाव में धनु राशि हो, तो मनुष्य विलक्षण पुत्रों को जन्म देता है जो अश्व-विद्या में निपुण, धनुर्विद्या जानने वाले, शत्रुओं का नाश करने वाले, सेवा-प्रिय और राजकीय सम्मान से संतुष्ट रहने वाले होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "मृगे सुत्ये जनयेन्मनुष्यः पुत्रान्‌ 1 मृगे पापमतीन्‌ कुरूपान्‌ ।\nद्कीबान्‌ कुमावान्‌ विगतप्रमावान्‌ घुनिष्दुरान्‌ क्षिप्रविवर्जितांश्च",
+          "english": "If Capricorn is in the fifth house, the native may get sons who are sinful, ugly, weak or impotent, of bad character, lacking in radiance, harsh, and impatient.",
+          "hindi": "यदि पंचम भाव में मकर राशि हो, तो मनुष्य पाप-बुद्धि वाले, कुरूप, निर्बल या नपुंसक रूप वाले, दुर्गुणी, तेजहीन, अत्यंत कठोर और धैर्यहीन पुत्र उत्पन्न करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "कुम्मे सुतस्थे स्थिरतासमेतान्‌ गम्भीरचेष्टान्‌ मतिसत्ययुक्तान्‌ ।\nपुत्रान्‌ मनुष्यो जनयेत्‌ प्रसिद्धान्‌ नष्टासनान्‌ कष्टसहान्‌ प्रसूतान्‌",
+          "english": "If Aquarius is in the fifth house, the native generates famous sons who possess stability, grave behavior, truthfulness, and are capable of enduring hardships.",
+          "hindi": "यदि पंचम भाव में कुंभ राशि हो, तो मनुष्य स्थिर बुद्धि वाले, गंभीर चेष्टाओं वाले, सत्यप्रिय, प्रसिद्ध और कष्ट सहन करने में समर्थ पुत्रों को जन्म देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 51,
+          "text": "मीने सुतस्थे सर्िखिनुरक्तान्‌ पूत्रान्‌ मनुष्यो लमतेऽल्पवीर्यान्‌ ।\nरोगातुरान्‌ पापरतान्‌ कुरूपान्‌ सुहास्यताख्लीसदितान्‌ सदैव",
+          "english": "If Pisces is in the fifth house, the native gets children who are fond of comforts, of low strength, sickly, sinful, ugly, yet cheerful and associated with women.",
+          "hindi": "यदि पंचम भाव में मीन राशि हो, तो मनुष्य सुख-प्रिय, अल्प बल वाले, रोगग्रस्त, पापकर्मों में लगे रहने वाले, कुरूप, परंतु प्रसन्नमुख व स्त्रियों की संगति में रहने वाले पुत्र प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 52,
+          "text": "मेषे रिपुस्ये प्रभवन्ति पुसां चतुष्पदा मूसैतराः सुरौद्राः।\nप्रपन्नतो म्लेच्छसमुद्धवाश्च काथ विना चेव नरस्य कोके",
+          "english": "If Aries is in the sixth house (ripu-sthah), the native has enemies who are animal-like, fierce, from lower castes, and cause troubles in society.",
+          "hindi": "यदि छठे भाव (शत्रु भाव) में मेष राशि हो, तो मनुष्य के शत्रु पशुओं के समान मूर्ख, अत्यंत भयानक, म्लेच्छ कुल के और समाज में उपद्रव करने वाले होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 53,
+          "text": "गान्‌ 708 17 11€ शह 8 125 : बृद्धियवने पुत्रचिता रधाग€ 67 7 125 :\nअथ मेषादिरिपुस्थानिफलं 677 सरौद्राः 78, प्रसिद्धाः 48८\nचतुष्पदार्थ प्रभवेत्‌ प्रैरं सदा नराणां वृषभे रिपु्थे ।\nअमत्यमार्गेण तथाङ्गनानां सङ्गानितान्तं निजबन्धुव्भे",
+          "english": "If Taurus is in the sixth house, the native faces enmity due to quadrupeds (animals/vehicles), unethical conduct of women, and disputes with close relatives.",
+          "hindi": "यदि छठे भाव में वृष राशि हो, तो मनुष्य को चौपायों, स्त्रियों के अनुचित आचरण और अपने ही बंधु-बांधवों के कारण तीव्र विरोध का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 54,
+          "text": "तृतीयराशो रिपुगे नराणां वैरं भवेत्‌ स्रीजनितं सदैव ।\nतथा नराणां सहितं च पिर्वणिग्जनैर्नीचजनानुरक्तेः",
+          "english": "If Gemini (the third sign) is in the sixth house, the native always faces enmity generated by women, paternal relatives, merchants, and low-class people.",
+          "hindi": "यदि छठे भाव में मिथुन हो, तो मनुष्य को सदैव स्त्रियों के कारण, पैतृक संबंधों, व्यापारियों और नीच पुरुषों की संगति से शत्रुता का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 55,
+          "text": "कक रिष्ये हयसम्भवं च भवेन्मनुप्यस्य सदातुरस्य ।\nसमं द्विजनैश्च नराधियैश्च महाजनेनैव परानुरोधात्‌",
+          "english": "If Cancer is in the sixth house, the native, though often sickly, faces enmity related to horses, or conflicts with Brahmins, rulers, and prominent citizens under pressure.",
+          "hindi": "यदि छठे भाव में कर्क राशि हो, तो जातक (जो प्रायः अस्वस्थ रहता है) घोड़ों से संबंधित विवाद, अथवा ब्राह्मणों, राजाओं और समाज के प्रतिष्ठित लोगों के साथ दबाववश शत्रुता प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 56,
+          "text": "सिंहे रिपुस्थे प्रभवेच्च वैरं पुत्रैः समं बन्धुजनेन नियम्‌ ।\nकन्यास्थिते शतुगृहे स्वैरं समं सुताभिः प्रभवेन्नरणाम्‌ ।\nदुश्वारिणीभिश्च सुनिणेयाभिरवेद्याभिरेवाश्रयवर्जिताभिः",
+          "english": "If Leo is in the sixth house, the native faces constant enmity with his sons and relatives. If Virgo is in the sixth house, the native faces disputes or enmity with daughters or bad women who are rootless.",
+          "hindi": "यदि छठे भाव में सिंह राशि हो, तो मनुष्य की अपने पुत्रों और बंधुओं से निरंतर शत्रुता रहती है। यदि छठे भाव में कन्या राशि हो, तो मनुष्य को अपनी पुत्रियों अथवा आश्रयहीन व दुराचारी स्त्रियों के कारण विवादों का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 57,
+          "text": "त॒लाधरे शत्रुगृहे नरस्य निधिस्थितस्य प्रभवेच वैरम्‌ ।\nकार्य सुधर्मस्य नरस्य साधोः खबन्धुवर्गाच्च निजारयस्य",
+          "english": "If Libra is in the sixth house, the native faces opposition in his search for wealth, or in performing righteous deeds, and has conflicts with his own relatives and enemies.",
+          "hindi": "यदि छठे भाव में तुला राशि हो, तो मनुष्य को अपने संचित धन (निधि) के संबंध में, अथवा धार्मिक कार्यों के अनुष्ठान में अपने ही बंधुओं और विरोधियों से शत्रुता प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 58,
+          "text": "कोरे रिपुस्थे च भवेच वेरी सार्थ द्विजिहैश्च सरीरपेश्च ।\nव्यलिर्मगश्वोरगणेनेराणां सरवेतथान्यश्च विलाश्रयेश्च",
+          "english": "If Scorpio is in the sixth house, the native faces enmity from double-tongued (deceitful) people, reptiles, wild beasts, thieves, and forest-dwellers.",
+          "hindi": "यदि छठे भाव में वृश्चिक राशि हो, तो जातक को दुमुँहे लोगों, सांपों, जंगली पशुओं, चोरों और वनवासियों से भय तथा शत्रुता होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 59,
+          "text": "चापे रिपुस्थे च भवेद्धि वैरं शरैः समेतं च शगवरेश्च ।\nसदा मनुष्यस्य हयेश्च हस्तिभिः पुनस्तथान्येः परवंचनाच्च",
+          "english": "If Sagittarius is in the sixth house, the native faces conflicts involving weapons, hunters, horses, elephants, and due to deceit by others.",
+          "hindi": "यदि छठे भाव में धनु राशि हो, तो मनुष्य को शस्त्रों, शिकारियों, घोड़ों, हाथियों के कारण तथा दूसरों के धोखे के कारण शत्रुता का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 60,
+          "text": "मृगे रिपुस्ये प्रभवेच्च वैरं सदा नराणां धनसम्मवं च ।\nमित्रैः समे साधुमहाजनेन प्रभूतकारे गृहसम्भवं च",
+          "english": "If Capricorn (Mriga) is in the sixth house, the native faces disputes regarding money, conflicts with friends and good people, and troubles at home during major works.",
+          "hindi": "यदि छठे भाव में मकर राशि हो, तो मनुष्य को धन को लेकर विवाद, मित्रों तथा सज्जनों से मतभेद और बड़े कार्यों के समय घर में अशांति का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 61,
+          "text": "रावकैश्च ८०५. 690 ग्वेचनाश्च 2, ववैचनैश्च $ 700 ब्रह\nकुम्भे सिपुस्थे च तथाभहेतो्मराधिपेनैव जलश्रयेश्च ।\nवापीतडागादिभिरेव नित्य कषत्रादितोज्येः पुरषः ऊुचेठेः",
+          "english": "If Aquarius is in the sixth house, the native faces enmity from water-related sources, step-well or pond construction, royal officers, and dirty or ill-clad persons.",
+          "hindi": "यदि छठे भाव में कुंभ राशि हो, तो मनुष्य को जल-स्रोतों, बावड़ी-तालाब आदि के निर्माण, राज्याधिकारियों और गंदे वस्त्र धारण करने वाले नीच लोगों के कारण शत्रुता का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 62,
+          "text": "मीने रिपुस्ये च भवेन्नराणां वेरं च नित्यं सुतवस्रजातम्‌ ।\nखीहेतुकं स्वीयभवापराणामपि प्रियाणामितरेतरं च",
+          "english": "If Pisces is in the sixth house, the native faces constant disputes or enmity regarding gold, clothes, women, or mutual conflicts among his own beloved ones.",
+          "hindi": "यदि छठे भाव में मीन राशि हो, तो मनुष्य को सोने, वस्त्रों, स्त्रियों अथवा अपनी ही प्रियतमाओं के परस्पर विवादों के कारण नित्य शत्रुता का सामना करना पड़ता है।",
+          "status": "translated"
+        },
+        {
+          "number": 63,
+          "text": "मेषेऽ्तसंस्थे च भवेरकखत्रं करूरं नराणां चपरस्वभावम्‌ ।\nपाणनुरक्त कठिनं नृरोसं वित्तप्रिय साध्यपरं सदैव",
+          "english": "If Aries is in the seventh house (astasansthe), the native's wife is harsh, fickle-minded, fond of traveling, tough-hearted, of lower nature, money-loving, and always focused on achieving her own goals.",
+          "hindi": "यदि सप्तम भाव में मेष राशि हो, तो जातक की पत्नी कठोर स्वभाव वाली, चंचल चित्त की, यात्रा-प्रिय, कठोर हृदय वाली, निम्न आचरण वाली, धन-लोभी और सदा अपना स्वार्थ सिद्ध करने में लगी रहने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 64,
+          "text": "वृषेऽसतसंस्थे च सुरूपदन्तं भवेत्कर्त्रं प्रणतं प्रशान्तम्‌ ।\nपतिव्रताचारगुणेन युक्तं रजाधिकं ब्राह्मणदेवभक्तम्‌",
+          "english": "If Taurus is in the seventh house, the native's wife has beautiful teeth, is humble, peaceful, endowed with chaste conduct, highly respected, and devoted to Brahmins and gods.",
+          "hindi": "यदि सप्तम भाव में वृष राशि हो, तो जातक की पत्नी सुंदर दांतों वाली, अत्यंत विनम्र, शांत, पतिव्रता आचरण से युक्त, अत्यंत आदरणीय तथा ब्राह्मणों व देवताओं की भक्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 65,
+          "text": "तृतीयराो तु मवेत्करत्रे करतरमुक्तं सुधनं सुक्तम्‌ ।\nसुखान्वितं सर्वगुणोपपन्न विनीतवेद्च † गुणवर्जित च",
+          "english": "If Gemini (the third sign) is in the seventh house, the native gets a wife who is wealthy, speaks well, is happy, endowed with all virtues, humble, and polite in behavior.",
+          "hindi": "यदि सप्तम भाव में मिथुन हो, तो जातक को धनवान, प्रियवादिनी, सुखी, सर्वगुणसंपन्न, अत्यंत विनीत और आदरपूर्ण आचरण वाली पत्नी प्राप्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 66,
+          "text": "कर्केऽस्तसंस्ये च मनोहराणि सो मागययुक्तानि गुणान्वितानि ।\nभवन्ति सौम्यानि कलत्रकाणि करङ्कहीनानि सुसंयतानि",
+          "english": "If Cancer is in the seventh house, the native's wife is charming, highly fortunate, virtuous, gentle, faultless, and well-disciplined.",
+          "hindi": "यदि सप्तम भाव में कर्क राशि हो, तो जातक की पत्नी आकर्षक, अत्यंत भाग्यशाली, सद्गुणी, सौम्य, लांछन-रहित और अत्यंत संयमित होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 67,
+          "text": "सिहेऽस्तसंस्ये च भवेत्करत्रं तीव्रस्वमावं चपर सुदुष्टम्‌ ।\nविहीनवेषं परतद्मरक्त बह्कासन स्वल्पं रो च",
+          "english": "If Leo is in the seventh house, the native's wife is fierce-tempered, highly fickle or wicked, poorly dressed, interested in others' affairs, lazy, and has a small build.",
+          "hindi": "यदि सप्तम भाव में सिंह राशि हो, तो जातक की पत्नी उग्र स्वभाव वाली, चंचल, दुष्ट, सामान्य वस्त्र धारण करने वाली, दूसरों के मामलों में रुचि रखने वाली, आलसी और क्षीण शरीर वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 68,
+          "text": "कन्येऽस्तसंस्ये च भवन्ति दाराः सुरूपदेहासनयेरविहीनाः ।\nसोभाग्यभोगाथनयेन युक्ताः प्रियंवदाः सत्यधनाः प्रगल्माः",
+          "english": "If Virgo is in the seventh house, the native's wife is beautiful in body and gait, has good fortunes, is sweet-spoken, highly truthful, and clever.",
+          "hindi": "यदि सप्तम भाव में कन्या राशि हो, तो जातक की पत्नी सुंदर शरीर व चाल वाली, सौभाग्यशाली, प्रिय बोलने वाली, सत्य को ही अपना धन मानने वाली और चतुर होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 69,
+          "text": "तुकेऽप्तसंस्ये गुणगर्विताङ्गा भवन्ति नार्यो विविधप्रकाराः ।\nपण्यप्रिया धर्मपराः सुदान्ताः प्रभूतपुत्राः प्रथिता विनीताः",
+          "english": "If Libra is in the seventh house, the native's wife is proud of her virtues, versatile, fond of trade, righteous, self-controlled, has many sons, is famous and humble.",
+          "hindi": "यदि सप्तम भाव में तुला राशि हो, तो जातक की पत्नी अपने गुणों पर गर्व करने वाली, बहुमुखी प्रतिभा वाली, व्यापार-प्रिय, धर्मपरायण, जितेंद्रिय, अनेक पुत्रों वाली, प्रसिद्ध और विनम्र होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 70,
+          "text": "75 श्युक्तं ९०५. 750 पा 7, खता ©, रूपाः ऽ 250 शेषं 15 760\n28 790 त्रियभा 7\nकीटेऽस्तसंस्थे बकजासमेता भवन्ति भार्या; कृपणा नराणाम्‌ ।\nसुकुत्सिताङ्गाः प्रणयेन हीना दौ्माम्यदोषैर्विविधेः समेताः",
+          "english": "If Scorpio (Kita) is in the seventh house, the native's wife is weak or deceitful, miserly, has unattractive limbs, is devoid of affection, and afflicted with various misfortunes.",
+          "hindi": "यदि सप्तम भाव में वृश्चिक राशि हो, तो जातक की पत्नी निर्बल, कंजूस, कुरूप अंगों वाली, प्रेम से रहित और विविध प्रकार के दुर्भाग्यपूर्ण दोषों से युक्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 71,
+          "text": "चापेऽस्तसंस्थे च भवेत्करुत्रे सदा नराणां पुरुषाङृतिं च ।\nस॒निष्ठुरं भक्तिनयेन हीन प्रशान्तस्य मतिवर्जित च",
+          "english": "If Sagittarius is in the seventh house, the native's wife has a masculine appearance, is highly harsh, lacking in devotion and humility, and lacks a peaceful intellect.",
+          "hindi": "यदि सप्तम भाव में धनु राशि हो, तो जातक की पत्नी पुरुष जैसी आकृति वाली, अत्यंत कठोर, भक्ति व विनम्रता से हीन और शांत या विवेकपूर्ण बुद्धि से रहित होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 72,
+          "text": "मृगेऽस्तसंस्थे च भवेत्करत्रे नृणां सुदुष्टं विगतस्वभावम्‌ ।\nविक्लस्तरज्ज परलोकरक्तं युदधप्रिय दम्भसमन्वित च",
+          "english": "If Capricorn is in the seventh house, the native's wife is wicked, of poor temperament, restless, interested in others' affairs, fond of quarrels, and full of hypocrisy.",
+          "hindi": "यदि सप्तम भाव में mकर राशि हो, तो मनुष्य की पत्नी दुष्ट स्वभाव वाली, दुर्गुणी, चंचल, दूसरों के कार्यों में रुचि रखने वाली, कलह-प्रिय और पाखंड से युक्त होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 73,
+          "text": "घटेऽस्तसंस्थे च भवेत्करुत्र स्थिरस्वभावं पतिकर्मदक्षम्‌ ।\nदेषद्धिजानां सततंं प्रष्ठ धर्मध्वज शंसकरृपासमेतम्‌",
+          "english": "If Aquarius is in the seventh house, the native's wife is of stable nature, expert in serving her husband, devoted to gods and Brahmins, flag-bearer of righteousness, and compassionate.",
+          "hindi": "यदि सप्तम भाव में कुंभ राशि हो, तो जातक की पत्नी स्थिर स्वभाव वाली, पति के कार्यों में निपुण, देवताओं व ब्राह्मणों की भक्त, धर्म की ध्वजा धारण करने वाली और दयालु होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 74,
+          "text": "मीनेऽस्तसंस्थे च विकारयुक्तं भवेत्करत्र कुमति कुपुत्रम्‌ ।\nस्वधर्मश्षीरं प्रणयेन हीनं सदा नराणां कर्ट्प्रिय च",
+          "english": "If Pisces is in the seventh house, the native's wife has physical or mental afflictions, possesses a wicked mind, has bad children, deviates from her duties, lacks affection, and is fond of harsh words.",
+          "hindi": "यदि सप्तम भाव में मीन राशि हो, तो जातक की पत्नी विकारों से युक्त, कुबुद्धि वाली, दुष्ट संतान उत्पन्न करने वाली, अपने धर्म से विमुख, स्नेहहीन और कटु वचन पसंद करने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 75,
+          "text": "मेषेऽष्टमस्ये निधन नगणां भवेद्विदेदो तु सुजान्वितानाम्‌ ।\nकथानुस्म्रत्यथविसर्जितानां महाधनानामतिदुःखितानाम्‌",
+          "english": "If Aries is in the eighth house, the death of the native occurs in a foreign land; he is born of a respectable family but may die after losing his wealth and suffering great sorrow.",
+          "hindi": "यदि अष्टम भाव में मेष राशि हो, तो मनुष्य की मृत्यु विदेश में होती है; वह संभ्रांत कुल का होते हुए भी अपना धन खोकर और अत्यंत दुःखी होकर प्राण त्याग करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 76,
+          "text": "वृषेऽष्टमस्थे च भवेन्नराणां मृद्यु्गृह शेप्मङृताद्विकारात ।\nमहासनाद्वाथ चतुष्पदाद्वा रात्रो तथा इष्टजनार्दितानाम्‌",
+          "english": "If Taurus is in the eighth house, death occurs due to phlegmatic disorders, falling from high seats or vehicles, accidents involving quadrupeds, or at night due to torment by loved ones.",
+          "hindi": "यदि अष्टम भाव में वृष राशि हो, तो मनुष्य की मृत्यु कफ दोष के विकारों से, ऊंचे आसन से गिरने से, चौपायों के आघात से, अथवा रात्रि में अपने ही प्रियजनों द्वारा दिए गए कष्ट से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 77,
+          "text": "तृतीयराओौ च भवेन्नराणां मृद्युस्थिते मृ्युरनिष्टसङ्गात्‌ ।\nपीहोद्धवो वा रससम्मवो वा गुदप्रकोपादथवा प्रमादात्‌",
+          "english": "If Gemini (the third sign) is in the eighth house, death occurs due to bad associations, spleen diseases, blood disorders, diseases of the anus, or due to negligence.",
+          "hindi": "यदि अष्टम भाव में मिथुन हो, तो मनुष्य की मृत्यु कुसंगति के कारण, प्लीहा के रोग से, रक्त विकारों से, गुदा रोग से अथवा असावधानी से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 78,
+          "text": "कर्वेऽषटमस्थे च जलोपसर्गात्‌ कीयात्तथा चैव विभीषणाद्रा ।\nमवेद्धिनाशः परहस्ततो वा विदेशसंखस्य नरस्य चैव",
+          "english": "If Cancer is in the eighth house, the destruction or death of the native is caused by water hazards, reptiles, fear, at the hands of enemies, or while residing in a foreign land.",
+          "hindi": "यदि अष्टम भाव में कर्क राशि हो, तो मनुष्य का विनाश जल के प्रकोप से, कीड़ों से, अचानक आए भय से, दूसरों के हाथों से अथवा विदेश में निवास के समय होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 79,
+          "text": "802. व्यकजा° & छा, व्यसुजा° ¢ 807 नराणां 0171. 7 ६०८ सुक्ुत्सिनान्यः\nसिंहेऽष्टमस्थे च सरीसपाच्च भवेद्धिनाशो मनुजसख सम्यक्‌ ।\nव्यालोद्धवो वापि वनाश्नितसखय चैरोद्धवो वाथ चतुष्पदोतथः",
+          "english": "If Leo is in the eighth house, death occurs due to snakes, wild beasts in the forest, thieves, or accidents involving quadrupeds.",
+          "hindi": "यदि अष्टम भाव में सिंह राशि हो, तो मनुष्य की मृत्यु सांपों से, वन के हिंसक पशुओं से, चोरों के हमले से अथवा चौपायों के कारण होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 80,
+          "text": "कन्या यदा चाष्टमगा विरुनात्तदा स्ववित्तान्मनुजस्य विन्यात्‌ ।\nखीणां हि हिंलाद्विषमाश्नखात्‌ खीणां कृतो वा स्वगृहाश्चितस्य ॥९.०॥\nतुखधरे चाष्टमगे च मृद्युभेवेत्नराणां द्विपदोस्थ एव ।\nनिशागमे संखक्ृतोपवासानिष्ठीविकोत्थोऽप्यथवा प्रतापात्‌",
+          "english": "If Virgo is in the eighth house, death is caused by diseases, loss of wealth, violence by women, poison, or occurs within one's own home due to women. If Libra is in the eighth house, death is caused by two-legged creatures, at nightfall, during fasts, or due to coughing or severe heat.",
+          "hindi": "यदि अष्टम भाव में कन्या राशि हो, तो मनुष्य की मृत्यु रोगों से, धनहानि से, स्त्रियों द्वारा की गई हिंसा से, विष से अथवा अपने ही घर में स्त्रियों के कारण होती है। यदि अष्टम भाव में तुला राशि हो, तो मनुष्य की मृत्यु मनुष्यों के आघात से, संध्याकाल में, उपवास के समय, थूकने या खांसने के वेग से अथवा अत्यधिक ताप के कारण होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 81,
+          "text": "खानेऽष्टमस्थेऽष्टमरारितङ्गच्रणां विनाशो वदनोद्धवेन ।\nरोगेण वा कीरसमुद्धवेश्च स्वखानसंखस्य विषोद्धवो वा",
+          "english": "If Scorpio is in the eighth house, death is caused by facial or mouth diseases, or diseases of the chest, or due to poison while in one's own place.",
+          "hindi": "यदि अष्टम भाव में वृश्चिक राशि हो, तो मनुष्य की मृत्यु मुख के रोगों से, छाती के रोगों से अथवा अपने ही स्थान पर विष दोष से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 82,
+          "text": "चापेऽष्टमस्थे प्रमवेन्नराणां मृत्युः ससंख्य शरताडितानाम्‌ ।\nगुह्योद्धवेनापि गुदोद्धवेन चतुष्पदोत्थस्य विषः † खरस्य",
+          "english": "If Sagittarius is in the eighth house, death occurs in battle, hit by arrows, or due to secret diseases, rectal disorders, or poison from quadrupeds.",
+          "hindi": "यदि अष्टम भाव में धनु राशि हो, तो मनुष्य की मृत्यु युद्ध में बाणों से आहत होने से, गुप्त रोगों या गुदा के विकारों से, अथवा चौपायों के विष या आघात से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 83,
+          "text": "॥ ९.४ ॥\nघटेऽष्टमस्येऽस्य भवेद्धिनाशो वैश्वानरात्‌ सद्मगतस्य जन्तोः ।\nनानात्रर्वा दवजे्विकोरेः श्रमात्तथा वा परसंश्रयाद्वा",
+          "english": "If Aquarius (Ghate) is in the eighth house, death occurs due to fire inside the house, or due to various wind disorders, exhaustion, or dependency on others.",
+          "hindi": "यदि अष्टम भाव में कुंभ राशि हो, तो मनुष्य की मृत्यु घर में आग लगने से, विभिन्न वायु विकारों से, अत्यधिक थकान से अथवा दूसरों के आश्रय में रहने के कष्ट से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 84,
+          "text": "मीनेऽष्टमस्ये प्रमवेच् मृद्युैणामतीसारकृताच्च कष्टात्‌ ।\nपित्तज्वराद्वा सलिराश्रयाद्वा रक्तप्रकोपादथवा च शखरात्‌",
+          "english": "If Pisces is in the eighth house, death is caused by severe diarrhea, bilious fever, water-borne diseases, blood disorders, or kidney stones.",
+          "hindi": "यदि अष्टम भाव में मीन राशि हो, तो मनुष्य की मृत्यु अतिसार के कष्ट से, पित्तज्वर से, जल-संबंधी रोगों से, रक्तविकार से अथवा शर्करा के रोग से होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 85,
+          "text": "धर्मस्थितेऽतरेव हि मेषराो चतुष्पदो प्रकरोति धर्मम्‌ ।\nतेषां प्रदानेन च पोषणेन दयाविवेकेन सुपाखनेन",
+          "english": "If Aries is in the ninth house, the native performs righteous deeds regarding quadrupeds, such as donating them, nourishing them, showing kindness, and protecting them well.",
+          "hindi": "यदि नवम भाव में मेष राशि हो, तो मनुष्य चौपायों के संबंध में धर्म कार्य करता है, जैसे उनका दान करना, उनका पोषण करना, दया और विवेकपूर्वक उनका पालन करना।",
+          "status": "translated"
+        },
+        {
+          "number": 86,
+          "text": "प्ाशह0; अष्टम एटणि€ 97 0 128: मेषादिधरमस्थानफलं\nवृषे च धर्मप्राते मनुष्यो धै करोत्येव † धनप्रधूतम्‌ ।\nविचित्रदनिैहुगोप्रधनिर्विमूषणाच्छादनभोजौैश्च",
+          "english": "If Taurus is in the ninth house, the native definitely performs extensive religious acts using his wealth, such as donating cows, providing ornaments, clothing, and food to others.",
+          "hindi": "यदि नवम भाव में वृष राशि हो, तो मनुष्य अपने प्रचुर धन से अवश्य ही धार्मिक कार्य करता है, जैसे गौ-दान, आभूषण, वस्त्र और भोजन आदि का दान करना।",
+          "status": "translated"
+        },
+        {
+          "number": 87,
+          "text": "तृतीयराशौ प्रकरोति धर्मे धर्मङ्तं सस्यङ्कनं सदेव ।\nअभ्यागतोत्थ द्विजमोजनाद्वा दीनानुकम्पाश्रयमानसेन",
+          "english": "If Gemini (the third sign) is in the ninth house, the native always performs righteous acts related to agriculture, feeding guests and Brahmins, and showing compassion to the poor.",
+          "hindi": "यदि नवम भाव में मिथुन हो, तो मनुष्य फसलों के दान से, अतिथियों और ब्राह्मणों को भोजन कराने से तथा दीन-दुखियों के प्रति दया का भाव रखकर सदैव धर्म कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 88,
+          "text": "वरतोपवासिरविषयेरविचिर्मं नरः संकुरते पदैव ।\nधर्मध्चिते चेव चतुर्थराशो तीर्थाश्रयाद्वा वनसेवया च",
+          "english": "If Cancer (the fourth sign) is in the ninth house, the native always performs religious acts through vows, fasts, visiting holy pilgrimages, and residing in forests.",
+          "hindi": "यदि नवम भाव में कर्क राशि हो, तो मनुष्य सदैव व्रतों, उपवासों, तीर्थयात्राओं और वन-सेवन के माध्यम से उत्तम धर्म कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 89,
+          "text": "तत्र स्थिते चाथ हि सिहराशौ धर्म परेषां प्रकरोति मर्त्यं; ।\nस्वधर्महीनं विक्रियाभिरेव युती्थरूपं विनयेन हीनम्‌",
+          "english": "If Leo is in the ninth house, the native performs religious or charitable acts for others, but may neglect his own duties, show erratic behaviors, and lack humility.",
+          "hindi": "यदि नवम भाव में सिंह राशि हो, तो मनुष्य दूसरों के लिए धर्म कार्य करता है, परंतु अपने धर्म से विमुख, चंचल आचरण वाला और विनम्रता से हीन हो सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 90,
+          "text": "धर्मा्रितः स्या्यदि षष्ठराशिः स्रीधर्मसेवं कुरते मनुष्यम्‌ ।\nविहीनभक्ति बहुजन्मना च पापण्डमाश्चित्य तथान्यपक्षम्‌",
+          "english": "If Virgo (the sixth sign) is in the ninth house, the native follows the duties prescribed for women or under their influence, has weak devotion, and may resort to heterodox paths.",
+          "hindi": "यदि नवम भाव में कन्या राशि हो, तो मनुष्य स्त्रियों के धर्म का अनुसरण करने वाला, भक्ति से हीन और पाखंड या अन्य गैर-पारंपरिक मार्गों को अपनाने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 91,
+          "text": "तुलाधर धर्मगते मनुष्यो धर्म करोष्येव सदा प्रसिद्धम्‌ ।\nदेवद्धिजानां परितोषणेन जनानुशगेण तथाद्भूतानाम्‌",
+          "english": "If Libra is in the ninth house, the native performs highly famous and public religious acts, satisfying gods and Brahmins, and gaining the affection and wonder of the people.",
+          "hindi": "यदि नवम भाव (धर्म भाव) में तुला राशि हो, तो मनुष्य देवताओं और ब्राह्मणों को संतुष्ट करके तथा लोगों का स्नेह व आश्चर्य प्राप्त करके सदैव प्रसिद्ध धर्म कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 92,
+          "text": "धमश्रिते चाष्टमगे च राहो पाषण्डधम कुरते मनुष्यः ।\nपीडाकरं चैव तथा जनानां भक्तया विहीनं परपोषणेन",
+          "english": "If Scorpio (the eighth sign) is in the ninth house, the native follows heterodox or hypocritical paths, which cause trouble to people, is devoid of real devotion, but may support others.",
+          "hindi": "यदि नवम भाव में वृश्चिक (अष्टम राशि) हो, तो मनुष्य पाखंडपूर्ण धर्म का आचरण करता है, जो लोगों को पीड़ा देने वाला, वास्तविक भक्ति से रहित परंतु परोपकार करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 93,
+          "text": "चापे तथा धर्मगते मनुष्यः करोति धरम द्विजतर्पणोत्थम्‌ ।\nसदन्वितं साक्विनिर्मितं च प्रभूततोप प्रथिते नृलोके",
+          "english": "If Sagittarius is in the ninth house, the native performs righteous deeds such as serving and satisfying Brahmins, characterized by goodness and truth, bringing great satisfaction, and making him famous in the world.",
+          "hindi": "यदि नवम भाव में धनु राशि हो, तो मनुष्य ब्राह्मणों की सेवा-सत्कार से जनित धर्म कार्य करता है, जो सत्य व सदाचार से युक्त, अत्यधिक संतोष देने वाला और संसार में प्रसिद्ध होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 94,
+          "text": "लोके\nघम्रिते वे मकरे मनुष्यश्चापोत्थधर्मं कुरुते प्रतापम्‌ ।\nपश्चाद्विरत्येव विडम्बनाभिः कोस्य समाश्रित्य सदा च पक्षम्‌",
+          "english": "If Capricorn is in the ninth house, the native performs works of courage or ostentatious dharma, but later withdraws due to frustrations or mockery, relying on some faction.",
+          "hindi": "यदि नवम भाव में मकर राशि हो, तो मनुष्य प्रतापयुक्त या दिखावे का धर्म कार्य करता है, परंतु बाद में बाधाओं के कारण उससे विरक्त हो जाता है और किसी पक्ष का आश्रय लेता है।",
+          "status": "translated"
+        },
+        {
+          "number": 95,
+          "text": "कुम्भे च धर्मप्रगते च धरम पुंसां विधत्ते सुरसंघजातम्‌ ।\nबृक्षाश्रयोत्थ च तथा † सिरं च आरामवापीप्रजयं सदैव",
+          "english": "If Aquarius is in the ninth house, the native performs religious acts like worshiping the assembly of gods, planting trees, constructing gardens, public step-wells, and creating stable structures.",
+          "hindi": "यदि नवम भाव में कुंभ राशि हो, तो मनुष्य देवताओं की पूजा करने, वृक्षारोपण करने, बगीचों और बावलियों के निर्माण जैसे जनकल्याणकारी और स्थायी धर्म कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 96,
+          "text": "धमभ्रिते चैव हि मीनराशौ करोति धमै विविधं नृलोके ।\nसत्रप्रपारामतडागजातं तीर्थाजजनेनाथ मसैर्विकित्रैः",
+          "english": "If Pisces is in the ninth house, the native performs various charitable acts in the world, such as establishing free feeding centers (sattra), water booths (prapa), gardens, ponds, and visiting holy places with diverse groups.",
+          "hindi": "यदि नवम भाव में मीन राशि हो, तो मनुष्य संसार में अनेक प्रकार के धर्म कार्य करता है, जैसे सदाव्रत, प्याऊ, बगीचे, तालाब बनवाना और विभिन्न लोगों के साथ तीर्थयात्रा करना।",
+          "status": "translated"
+        },
+        {
+          "number": 97,
+          "text": "कर्माधिते मुख्यतमे च राशो करोति कर्म प्रवरं सुदुष्टम्‌ ।\nवेशुन्यरूपं विनयातिरक्तं सुनिन्दितं साधुजनस्य रोके ॥ १०९.॥\nवृषेऽम्बरप्थे प्रकरोति करम व्ययासकं साघुजनानुरक्तम्‌ ।\nद्विजेन्द्रदेवातिथिमिर्विभक्तमाज्ञात्मकं प्रीतिकरं सतां च",
+          "english": "If Aries (the first sign) is in the tenth house, the native performs wicked, backbiting, proud, and highly condemned works which are disliked by good people. If Taurus is in the tenth house, he performs works related to expenditure or investment, is attached to good people, shares his earnings with Brahmins, deities, and guests, and is highly respected.",
+          "hindi": "यदि दशम भाव (कर्म भाव) में प्रथम राशि (मेष) हो, तो मनुष्य निंदनीय, चुगलीयुक्त, उद्दंड और सज्जनों द्वारा तिरस्कृत कार्य करता है। यदि दशम भाव में वृष राशि हो, तो वह दानशील, सज्जनों से प्रेम करने वाला, ब्राह्मणों, देवताओं व अतिथियों में अपने धन का भाग बांटने वाला तथा आदरणीय होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 98,
+          "text": "युम्मेऽम्बरस्ये प्रकरोति मर्त्यं करम प्रधानं गुरुभिः प्रदिष्टम्‌ ।\nकीर््यानिवतं प्रीतिकरं जनानां प्रभासमेतं कृषिजं सदैव",
+          "english": "If Gemini (the twin sign) is in the tenth house, the native performs major works directed by elders or gurus, which bring fame, are pleasing to people, radiant, and related to agriculture.",
+          "hindi": "यदि दशम भाव में मिथुन राशि हो, तो मनुष्य गुरुजनों द्वारा निर्देशित प्रधान कार्य करता है, जो कीर्तिदायक, लोगों को प्रिय लगने वाले, तेजस्वी और कृषि से संबंधित होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 99,
+          "text": "कर्कऽम्बरस्ये प्रकरोति मर्त्यः करम प्रपारामतडागजातम्‌ ।\nविचित्रवापीतरघट्जे च कृपामिनिष्पन्नमकस्यकं च",
+          "english": "If Cancer is in the tenth house, the native constructs water booths, gardens, ponds, beautiful step-wells, and performs works of mercy and compassion.",
+          "hindi": "यदि दशम भाव में कर्क राशि हो, तो मनुष्य प्याऊ, बगीचे, तालाब, बावड़ी आदि का निर्माण करता है और दया से ओतप्रोत निष्कपट कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 100,
+          "text": "सिहेऽम्बरस्थे कुरूते मनुष्यो रौद्रं सपापं विङ्ृते च कर्म ।\nसवीरूषं प्राणजमेव नित्यं वधारमकं निन्दितमेव पुंसाम्‌",
+          "english": "If Leo is in the tenth house, the native performs fierce, sinful, and deformed works, which are violent, harmful to life, and highly condemned.",
+          "hindi": "यदि दशम भाव में सिंह राशि हो, तो मनुष्य भयानक, पापयुक्त और निंदित कार्य करता है, जो हिंसक, दूसरों को पीड़ा देने वाले और समाज में अत्यंत निंदनीय होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 101,
+          "text": "नभस्तरस्ये त्वथ षष्ठरालञो करोति करम ज्ञपितो मनुष्यः ।\nस््रीराज्यभाजो जनताविरुद्रं कामास्कं निन्यतमं नृरोके",
+          "english": "If Virgo (the sixth sign) is in the tenth house, the native performs works under the influence of women or rulers, which are opposed to public opinion, lustful, and highly detested in the world.",
+          "hindi": "यदि दशम भाव में कन्या (छठी राशि) हो, तो मनुष्य स्त्रियों या शासकों के प्रभाव में आकर लोक-विरुद्ध, कामुकता से पूर्ण और समाज में अत्यंत घृणित कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 102,
+          "text": "“मेव 0120. 8  विद्यत्मकं 1 774 ज्ञमितो ५००५. 14652 ०, ए\n1746 ज्लिराज्यः 1, ज्ञीराज 4805\nतखधरे व्योमगते मनुष्यो वाणिज्यकर्म प्रचुरं करोति ।\nधमत्मिकं चापि नयेन युक्त सताममीष्ट परसंमतं च",
+          "english": "If Libra is in the tenth house, the native performs extensive trading or commercial activities, which are righteous, ethical, desired by good people, and approved by others.",
+          "hindi": "यदि दशम भाव में तुला राशि हो, तो मनुष्य प्रचुर मात्रा में व्यापारिक कार्य करता है, जो धर्मानुकूल, नीतिपूर्ण, सज्जनों के प्रिय और दूसरों द्वारा प्रशंसित होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 103,
+          "text": "कीटेऽम्बरस्थे प्रकरोति कर्म पुं सुदुष्टं जनसंमतं च ।\nग्यथाकरं देवगुरुद्भिजानां घनिरदय नीतिविवरजितं च",
+          "english": "If Scorpio (Kita) is in the tenth house, the native performs very wicked works though sometimes acceptable to the public; these cause pain to gods, gurus, and Brahmins, are devoid of mercy, and violate ethics.",
+          "hindi": "यदि दशम भाव में वृश्चिक (कीट) राशि हो, तो जातक अत्यंत दुष्टतापूर्ण कार्य करता है, जो देवताओं, गुरुओं और ब्राह्मणों को कष्ट देने वाले, निर्दयी और नीति-रहित होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 104,
+          "text": "चापेऽम्बरस्ये च करोति कर्मं सेवात्मकं चैभरयुतं मनुष्यः ।\nपरोपकारासकमोजसाव्यं नृपात्मकं भूरियश्चःसमेतम्‌",
+          "english": "If Sagittarius is in the tenth house, the native performs service-oriented or authoritative works, is inclined to help others, possesses vital energy, and achieves royal honors and great fame.",
+          "hindi": "यदि दशम भाव में धनु राशि हो, तो मनुष्य सेवा-भाव वाले अथवा प्रभुत्वशाली कार्य करता है, परोपकार में लीन, ओजस्वी और राजसी सम्मान व प्रचुर यश प्राप्त करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 105,
+          "text": "मृगेऽम्बरस्थे च परोपतापं कर्म प्रधानं कुरूते मनुप्यः।\nसुनिर्दय अन्धुवधेः समेतं धर्मेण हीनं खलसमतं च",
+          "english": "If Capricorn is in the tenth house, the native performs works that cause pain to others, is merciless, hostile to his relatives, devoid of righteousness, and approved only by wicked people.",
+          "hindi": "यदि दशम भाव में मकर राशि हो, तो मनुष्य दूसरों को संताप देने वाले कार्य करता है, वह निर्दयी, बंधुओं का अहित करने वाला, धर्महीन और केवल दुष्टों द्वारा प्रशंसित कार्य करने वाला होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 106,
+          "text": "घटे ऽम्बरस्थे च करोति कर्म प्रायेण मर्त्यंः परवंचनोतथम्‌ ।\nपाषण्डधर्मानितमिष्टखोमाद्िश्वासदीनं जनताविरुद्धम्‌",
+          "english": "If Aquarius is in the tenth house, the native generally performs works based on deceiving others, follows hypocritical religious paths for personal gain, lacks trustworthiness, and acts against public welfare.",
+          "hindi": "यदि दशम भाव में कुंभ राशि हो, तो मनुष्य प्रायः दूसरों को धोखा देने वाले, अपने स्वार्थ के लिए पाखंडी धर्म का आश्रय लेने वाले, विश्वास-रहित और लोक-कल्याण के विरुद्ध कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 107,
+          "text": "कुलोचितं धर्मगुरुप्रदिष्टं कीरत्यासिकं सुस्थिरमादरेण ।\nनानाद्विजाराधनसंस्थितं च मीनेऽम्बरम्थे प्रकरोति क्म",
+          "english": "If Pisces is in the tenth house, the native performs actions suited to his family traditions, directed by elders or gurus, prestigious, stable, respectful, and devoted to serving Brahmins.",
+          "hindi": "यदि दशम भाव में मीन राशि हो, तो मनुष्य अपने कुल के अनुकूल, गुरुओं द्वारा निर्देशित, यशस्वी, स्थिर, आदरणीय और ब्राह्मणों की सेवा से युक्त उत्तम कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 108,
+          "text": "लामाश्चिते मुख्यतमे च राकौ चतुप्पदोत्थं प्रकरोति लाभम्‌ ।\nतथा नराणां नृपसेवया च देशान्ताधनतः प्रभूतम्‌",
+          "english": "If Aries (the first sign) is in the eleventh house (labha-shrite), the native gains from quadrupeds (cattle/vehicles), royal service, and acquires abundant wealth from foreign lands.",
+          "hindi": "यदि एकादश भाव (लाभ भाव) में प्रथम राशि (मेष) हो, तो मनुष्य को चौपायों, राजसेवा और विदेशों से प्रचुर धन लाभ प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 109,
+          "text": "आयस्थिते वे वृषभे प्रखभो भवेन्मनुप्यस्य विशिष्टजातः ।\nसीणां सकाशात्वथ सजनानां कुरीदिनां धरमङृतस्तथेव",
+          "english": "If Taurus is in the eleventh house, the native obtains high gains from women, good people, traders, and through performing righteous deeds.",
+          "hindi": "यदि एकादश भाव में वृष राशि हो, तो मनुष्य को स्त्रियों से, सज्जनों से, व्यापारियों से और धार्मिक कार्यों से विशिष्ट लाभ प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 110,
+          "text": "ग्दरेण-60, 230 नारी ओला 120 ॐ ०५०5 इति श्रीडृद्धयवन कमेस्थानचिता; 128 :\n३१४ बृदयवनजावके\nतृतीयराशिः कुरूतेऽतिलामे लाभाश्रितः श्ञीदयितं सदैव ।\nवस्ाथेपुष्पासनपानजाते सदा नराणां विविधं प्रसिद्धम्‌",
+          "english": "If Gemini (the third sign) is in the eleventh house, it always makes the native loved by women, and brings extensive gains through clothes, wealth, flowers, comfortable seats, and drinks.",
+          "hindi": "यदि एकादश भाव में मिथुन (तृतीय राशि) हो, तो जातक स्त्रियों का प्रिय होता है, और उसे वस्त्रों, धन, पुष्पों, आसनों और उत्तम पेयों के माध्यम से प्रचुर व प्रसिद्ध लाभ मिलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 111,
+          "text": "खमो भवेहाभगते च राशौ सदा चतुर्थे वरभाजनानाम्‌ ।\nसेवाङ्ृषीभ्यां जनितः प्रभूतः शास्रेण वा ताधुजनस्य पर्ति",
+          "english": "If Cancer (the fourth sign) is in the eleventh house, the native obtains excellent gains through service, agriculture, scriptures, or from noble and respectable citizens.",
+          "hindi": "यदि एकादश भाव में कर्क (चतुर्थ राशि) हो, तो मनुष्य को सेवा, कृषि, शास्त्रों के ज्ञान अथवा प्रतिष्ठित सज्जनों के सहयोग से उत्तम लाभ प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 112,
+          "text": "लाभाश्चिते पचममे च छखामो मवेन्मनुष्यस्य निरगहैणामिः ।\nनानाजनानां वधवन्धनैश्च उ्यायामदेशान्तरसंश्रयाच्च",
+          "english": "If Leo (the fifth sign) is in the eleventh house, the native obtains gains through bold or unrestrained actions, by capturing or defeating various people, physical exercise, and traveling to foreign lands.",
+          "hindi": "यदि एकादश भाव में सिंह (पंचम राशि) हो, तो मनुष्य को निर्भीक कार्यों, शत्रुओं को परास्त करने, शारीरिक व्यायाम और विदेशों की यात्राओं से लाभ प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 113,
+          "text": "कन्यात्के लाभगते मनुष्यः प्राप्नोति लाम व्रिवियैरुपायैः ।\nशाखागमाभ्यां विनयेन पुंसां नीत्या वित्रकेन तथाद्भुतेन",
+          "english": "If Virgo is in the eleventh house, the native obtains gains through various means: study of scriptures, humility, ethical conduct, discrimination, and extraordinary skills.",
+          "hindi": "यदि एकादश भाव में कन्या राशि हो, तो मनुष्य को अनेक उपायों जैसे शास्त्रों के अध्ययन, विनम्रता, नीति, विवेक और अद्भुत प्रतिभा के माध्यम से लाभ प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 114,
+          "text": "तुलधंरे सभगते मनुष्यः प्राप्नोति लम वणिनेर्विकित्रैः ।\nसुसाधुसेवाविनयेन नित्यं सुसंस्तुतं मुख्यतमं प्रभूतम्‌",
+          "english": "If Libra is in the eleventh house, the native obtains abundant gains through diverse trading activities, serving good people, humility, and highly praised endeavors.",
+          "hindi": "यदि एकादश भाव में तुला राशि हो, तो मनुष्य विभिन्न प्रकार के व्यापारों से, सज्जनों की सेवा से, विनम्रता से तथा प्रशंसित व उत्तम साधनों से प्रचुर लाभ प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 115,
+          "text": "त्यमभाध्िते चाष्टमगे च रा्चौ प्राप्नोति लम मनुजोऽतिनिन्यम्‌ ।\nछटेन पापेन सुमोषणेन परस्य पेशुन्यङतैर्विकौरेः",
+          "english": "If Scorpio (the eighth sign) is in the eleventh house, the native obtains highly condemned gains through deceit, sinful means, exploiting others, backbiting, and wicked actions.",
+          "hindi": "यदि एकादश भाव में वृश्चिक (अष्टम राशि) हो, तो मनुष्य छल से, पापकर्मों से, दूसरों के शोषण से, चुगली से और नीच कार्यों से अत्यंत निंदनीय लाभ प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 116,
+          "text": "लाभाश्चितै चेव धनुप्ररे च नृपा्थेलामे मजते मनुष्यः ।\nसत्रीसेवया वा निजपौरूषेण र पुष्पाम्बराराधनजाश्चजोत्थम्‌",
+          "english": "If Sagittarius is in the eleventh house, the native enjoys gains from the king, serving women, his own valor, or from flowers, clothes, and worship.",
+          "hindi": "यदि एकादश भाव में धनु राशि हो, तो मनुष्य राजा से, स्त्रियों की सेवा से, अपने पुरुषार्थ से, अथवा पुष्प, वस्त्र और पूजा आदि के माध्यम से लाभ प्राप्त करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 117,
+          "text": "लमाश्चिते वै मकरेऽथैलमो भवेन्नराणां जख्यानयोगात्‌ ।\nविदेशवासान्नुपसेवनाद्वा ्ययालको मूरितरः सदैव",
+          "english": "If Capricorn is in the eleventh house, the native obtains gains from water-born products, residing in foreign lands, royal service, and is always active and highly progressive.",
+          "hindi": "यदि एकादश भाव में मकर राशि हो, तो जातक को जलीय वस्तुओं से, विदेश में रहने से, राजसेवा से तथा निरंतर क्रियाशील रहकर प्रचुर लाभ प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 118,
+          "text": "लाभाधिते चान्त्यमगे च राशौ प्राप्नोति काभ विविधं मनुष्यः।\nमित्रोद्धवं पार्थिवमानजातं विचित्रवाकये प्रणयेन नित्यम्‌ ॥ १२३२ ॥\nमेषे व्ययस्थे प्रभवेन्नराणां त्ययः सदाच्छादनमोजनैश्च |\nचतुप्पदानेकविवधैनेन समेन नानाविधपैसूषेण",
+          "english": "If Pisces (the last sign) is in the eleventh house, the native obtains various gains from friends, royal honors, clever speech, and affection. If Aries is in the twelfth house (vyayasthe), his expenditure is always on clothes, food, maintaining quadrupeds, and various physical comforts.",
+          "hindi": "यदि एकादश भाव में मीन हो, तो मनुष्य मित्रों से, राजकीय सम्मान से, चतुर वाणी से और स्नेह से अनेक प्रकार का लाभ प्राप्त करता है। यदि द्वादश भाव (व्यय भाव) में मेष राशि हो, तो मनुष्य का व्यय वस्त्र, भोजन, चौपायों के रख-रखाव और विभिन्न शारीरिक सुखों पर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 119,
+          "text": "वृषे व्ययस्थे व्यय एव पुसां भवेद्धिचित्राम्बरयोपितानाम्‌ ।\nलाभेन रण्येन च छ्त्रिमेण सुपाधुवादिर्विविधैः संदेव",
+          "english": "If Taurus is in the twelfth house, the native's expenditure is on fine clothes, women, decorative items, entertainment, and hosting good speakers.",
+          "hindi": "यदि द्वादश भाव में वृष राशि हो, तो मनुष्य का व्यय सुंदर वस्त्रों, स्त्रियों, सजावटी सामानों, मनोरंजन और विद्वान वक्ताओं के आदर-सत्कार पर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 120,
+          "text": "तृतीयरारो व्ययगे नराणां व्ययो भवेत्‌ सीत्यसनासमकैश्च ।\nभृतोद्धबो व! सततंं प्रभूतः कुशीजः पापजनाङ्गनेश्च",
+          "english": "If Gemini (the third sign) is in the twelfth house, the native's expenditure is caused by attachment to women, bad habits, payments to servants, or due to wicked people and prostitutes.",
+          "hindi": "यदि द्वादश भाव में मिथुन (तृतीय राशि) हो, तो मनुष्य का व्यय स्त्रियों में आसक्ति, व्यसनों, नौकरों के वेतन अथवा दुष्ट लोगों और वेश्याओं के कारण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 121,
+          "text": "कर्के व्ययस्थे द्विजदेवतानां ग्ययो भवेचज्ञपमुद्धवैश्च ।\nधर्मक्रियामिर्विविधामिरेव सुरेसितः साधुजने रोके",
+          "english": "If Cancer is in the twelfth house, the native's expenditure is on Brahmins, gods, sacrifices (yajnas), and various religious activities; he is liked by gods and good people in the world.",
+          "hindi": "यदि द्वादश भाव में कर्क राशि हो, तो मनुष्य का व्यय ब्राह्मणों, देवताओं, यज्ञों और विविध धार्मिक क्रियाकलापों पर होता है; वह देवताओं और संसार के सज्जनों का प्रिय होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 122,
+          "text": "सिंहे व्ययस्य तु भवेन्नराणामसब्ययो भूरितरः म॑देव ।\nरुपान्नजातश्च कुकर्मेणा च निन्यः सतां पार्थवचारतो वा",
+          "english": "If Leo is in the twelfth house, the native always has high amount of bad or useless expenditure, caused by anger, bad actions, or due to royal taxes or fines, which is condemned by good men.",
+          "hindi": "यदि द्वादश भाव में सिंह राशि हो, तो मनुष्य का अपव्यय सदैव बहुत अधिक होता है, जो क्रोध, दुष्कर्मों अथवा राजकीय करों या दंडों के कारण होता है और सज्जनों द्वारा निंदित माना जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 123,
+          "text": "कन्यासके चान््यगते व्ययश्च भवेन्मनुप्यम्य हि चाङ्गनोत्थः ।\nविवाहमाङ्गल्यमवैर्विचित्रः सूतैः प्रभानिरवहुमाधुसङ्गात्‌",
+          "english": "If Virgo is in the twelfth house, the native's expenditure is generated by women, marriages, auspicious celebrations, children, and hosting noble saintly gatherings.",
+          "hindi": "यदि द्वादश भाव में कन्या राशि हो, तो जातक का व्यय स्त्रियों, विवाह, मांगलिक उत्सवों, संतानों और सज्जनों की संगति या आतिथ्य पर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 124,
+          "text": "तुले व्ययस्थे सुरविप्रबन्धुम्मृतिश्चुतीभ्यश्च कृतो व्ययश्च ।\nभवेत्नराणां नियमश्च सुतीभसेवाजनितः प्रसिद्धः",
+          "english": "If Libra is in the twelfth house, the native's expenditure is on gods, Brahmins, relatives, or associated with funerals and mortuary rites, and on religious disciplines and serving noble causes.",
+          "hindi": "यदि द्वादश भाव में तुला राशि हो, तो मनुष्य का व्यय देवताओं, ब्राह्मणों, बंधु-बांधवों, अथवा अंत्येष्टि आदि कार्यों पर, तथा धार्मिक नियमों व लोक-सेवा के कार्यों पर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 125,
+          "text": "अलो व्ययस्थे च भवेद्यस्तु पुमां प्रसादेन विडम्बिताभिः।\nकुमित्रसेवा जनितः सुनिन्यः वुबुद्धितश्चौरङृताधिकारात्‌",
+          "english": "If Scorpio (Alau) is in the twelfth house, the native's expenditure is on useless show, or caused by serving bad friends, which is highly condemned, or due to bad intellect and theft by authoritative persons.",
+          "hindi": "यदि द्वादश भाव में वृश्चिक राशि हो, तो मनुष्य का व्यय व्यर्थ के दिखावे, कुमित्रों की सेवा, बुरे विचारों अथवा चोरों व राजकीय अधिकारियों द्वारा की गई धन-हानि के कारण होता है, जो अत्यंत निंदनीय है।",
+          "status": "translated"
+        },
+        {
+          "number": 126,
+          "text": "240 कुगुद्धित? 01, $ ृताद्विकारात्‌ 75\n३१६ कृडयवमजातवे\nचापे व्ययध्ये परव॑चनामि््यंयो भवेत्‌ पापजनप्रसङ्गात्‌ ।\nसेवाहृतो वीतधिया च पुतं कृषिप्रसङ्गात्‌ परवंचनाद्वा",
+          "english": "If Sagittarius is in the twelfth house, the native's expenditure is caused by deceit of others, association with sinful people, loss in services, lack of intellect, agricultural issues, or cheating.",
+          "hindi": "यदि द्वादश भाव में धनु राशि हो, तो मनुष्य का व्यय दूसरों के धोखे से, पापी लोगों की संगति से, नौकरी में हानि, बुद्धिभ्रम, कृषि कार्यों अथवा ठगी के कारण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 127,
+          "text": "मृगे व्ययस्ये च भवेन्नराणां प्ययप्तु पानाश्नसस्यजातः ।\nस्ववगैपूजानिरतस्तथास्पः कृषीविहीनश्च विगरहिंतश्च",
+          "english": "If Capricorn is in the twelfth house, the native's expenditure is on drinks, food, agricultural products, worshiping his own family deities, but he may lack agriculture and face criticism.",
+          "hindi": "यदि द्वादश भाव में मकर राशि हो, तो मनुष्य का व्यय खान-पान, फसलों, अपने कुल के पूजन-सत्कार पर होता है, वह कृषि-रहित और कभी-कभी लोक-निंदित हो सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 128,
+          "text": "घटे व्ययस्थे सुरसिद्धविप्रतपस्विनां बन्दिभवो व्ययश्च ।\nपुंसा मवेत्‌ साधुजनानुरोधाच्छासप्रदिष्टः प्रथितश्च भूरिः",
+          "english": "If Aquarius is in the twelfth house, the native spends extensively on gods, accomplished saints (siddhas), Brahmins, ascetics, prisoners' release or charities, according to scriptural dictates and under the influence of good people.",
+          "hindi": "यदि द्वादश भाव में कुंभ राशि हो, तो मनुष्य का व्यय देवताओं, सिद्ध पुरुषों, ब्राह्मणों, तपस्वियों, बंदियों के कल्याण कार्यों पर, शास्त्रों के आदेशानुसार तथा सज्जनों के अनुरोध पर प्रचुर मात्रा में होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 129,
+          "text": "मीने व्यपे जर्पानतो वा कुसङ्गमाद्रा प्रभवे्ययश्च ।\nपुसां कुपुत्रारानपानजातस्तथा विवादेन निरगैलेन",
+          "english": "If Pisces is in the twelfth house, the native's expenditure is due to water-related ventures, bad association, bad children, excessive food and drinks, or unrestrained lawsuits and disputes.",
+          "hindi": "यदि द्वादश भाव में मीन राशि हो, तो मनुष्य का व्यय जल-संबंधी कार्यों, कुसंगति, दुष्ट पुत्रों, भोजन-पान अथवा अनियंत्रित मुकदमों व विवादों के कारण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 130,
+          "text": "ये स्थानचिन्ताु पुरा प्रदिष्टा योगा मया तान्‌ परिहृत्य चेव ।\nयोगा विचिन्त्याः स्वधिया ततस्तु कार्या नराणां हि शुभा्यभेम्तेः",
+          "english": "Thus the reflection on the twelve houses or signs has been declared by me. Having analyzed these, one should contemplate the yogas with one's own intellect to determine the auspicious and inauspicious results for mankind.",
+          "hindi": "इस प्रकार मेरे द्वारा बारह भावों में राशियों की स्थिति का विचार कहा गया है। इनका भली-भांति विचार करके, मनुष्य को अपनी बुद्धि से योगों का विश्लेषण करना चाहिए ताकि मानव जीवन के शुभ और अशुभ फलों का निर्णय किया जा सके।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}
