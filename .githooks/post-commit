@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# T33 hygiene touch-file fast path.
+# Writes ~/.gstack/hygiene-touch-sanskrit-texts so collect.sh's next tick
+# re-audits only this project. Silent no-op if the workspace symlink or
+# the script is missing.
+
+set -uo pipefail
+
+WS_ROOT="$(readlink "$HOME/.gstack/workspace-root" 2>/dev/null)"
+if [ -n "$WS_ROOT" ] && [ -x "$WS_ROOT/scripts/hygiene/post-commit-touch.sh" ]; then
+  bash "$WS_ROOT/scripts/hygiene/post-commit-touch.sh" sanskrit-texts || true
+fi
+
+exit 0

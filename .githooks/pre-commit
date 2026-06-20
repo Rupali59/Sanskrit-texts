@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# T33 hygiene policy dispatcher (workspace-side).
+# Resolves the workspace via ~/.gstack/workspace-root and runs the shared
+# precommit-check.sh against the sanskrit-texts project. Exits silently if
+# the symlink is missing (developers not running the hygiene daemon are not
+# blocked).
+#
+# Bypass: GSTACK_HYGIENE_BYPASS=1 git commit ...
+# Strict: GSTACK_HYGIENE_STRICT=1
+
+set -uo pipefail
+
+WS_ROOT="$(readlink "$HOME/.gstack/workspace-root" 2>/dev/null)"
+if [ -n "$WS_ROOT" ] && [ -x "$WS_ROOT/scripts/hygiene/precommit-check.sh" ]; then
+  bash "$WS_ROOT/scripts/hygiene/precommit-check.sh" sanskrit-texts || exit 1
+fi
+
+exit 0
