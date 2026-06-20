@@ -32,7 +32,6 @@ Vedanga-Jyotisha/
   Rigveda/Aarchjyotisham/      Aarchjyotisham.json
   Yajurveda/Yajushajyotisham/  Yajushajyotisham.json
 Siddhanta/                     README stubs only (texts not yet digitized)
-SamudrikShastra/               README stubs only
 docs/
   BPHS_Master_Lexicon.md
   BPHS_Only_Terminology.md
@@ -68,7 +67,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 **Field notes:**
 - `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
-- `category` — `"hora"` | `"samhita"` | `"vedanga_jyotisha"` | `"siddhanta"` | `"samudrika"`
+- `category` — `"hora"` | `"samhita"` | `"vedanga_jyotisha"` | `"siddhanta"`
 - `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither)
 - `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter (stored in files `MS_063अ.json` / `MS_063ब.json`)
 - Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script

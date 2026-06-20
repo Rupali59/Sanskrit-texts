@@ -40,13 +40,11 @@ Scope confirmed 2026-06-20 (see `docs/DECISIONS.md`). Each is a `README.md` stub
 - **Hora (classical Sanskrit):** Saravali (Kalyanavarma, ~4000 vv), Sarvartha Chintamani (Venkatesa Sharma), Prashna Marga (Kerala horary), Jataka Tattvam
 - **Siddhanta (mathematical astronomy):** Surya Siddhanta, Aryabhatiya, Brahmasphuta Siddhanta, Siddhanta Shiromani, Panchasiddhantika — all 113-byte placeholder stubs; technical content, so the en/hi layer differs from Hora prediction shlokas
 
-### P1 — Scope-flagged (needs a call before any work)
+### Removed from corpus (2026-06-20)
 
-- **ThreeHundredImportantCombinationsRaman** — B.V. Raman, 20th-c. **English** work; 56 KB raw OCR txt on disk (garbled), no Devanagari shlokas → **does not fit the uniform schema.** Decide: exclude entirely, or keep as a non-schema reference. Not digitizable as-is.
-
-### Out of scope (relocated 2026-06-20)
-
-- **SamudrikShastra → Youvan Prakashan** (Tantra/Mantra/Philosophy ownership, per 2026-05-04 split). Hastamuktavali + SamudrikaTilaka stubs to be removed from this corpus and recreated under Youvan. **Pending:** physical removal of `SamudrikShastra/` from this repo.
+- **ThreeHundredImportantCombinationsRaman** — excluded entirely. B.V. Raman's 20th-c. **English** work (raw OCR only, no Devanagari shlokas) — outside this corpus's purpose. `git rm`'d; recoverable from history if ever needed.
+- **SamudrikShastra** (Hastamuktavali, SamudrikaTilaka) — `git rm`'d from this corpus; ownership moved to **Youvan Prakashan** (palmistry/physiognomy → Tantra split, 2026-05-04). README metadata preserved in git history.
+  - **⏳ Pending (Youvan side):** scaffold under `Tushar/Youvan`. Blocker — Youvan is a Next.js **website**, not a text corpus; nearest home is the existing `app/concepts/palmistry/` page, and the repo currently has uncommitted work. Needs a decision on form (concept-page content vs. a new corpus structure) before scaffolding. Not owned by this repo.
 
 ### P2 — Translation injection (from TODO.md)
 
