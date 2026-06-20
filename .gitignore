@@ -1,2 +1,18 @@
-docs/
-docs/
+.DS_Store
+__pycache__/
+*.py[cod]
+# Added by code-review-graph
+.code-review-graph/
+
+# Local digitization intermediates (raw OCR dumps + section splits; JSON is the committed derived form)
+Hora/UttaraKalamrita/raw_uttara_kalamrita.txt
+Hora/UttaraKalamrita/sections/
+
+# Editor / agent tool-local config (not shared)
+.claude/
+.cursor/
+.cursorrules
+.kiro/
+.mcp.json
+.opencode.json
+.windsurfrules

@@ -1,0 +1,261 @@
+# BPHS Technical Lexicon: Only Relevant Terminology
+
+This lexicon excludes common English words and focuses exclusively on BPHS-specific Sanskrit terms, calculation principles, and astrological entities.
+
+## BPHS0110.json
+- Action/Profession, Adhi-Mitra, Agni, Ahankara
+- Aja, Ajapada, Akshavedansha, Amritam
+- Amshas, Anarishta, Ancestors, Antardasha
+- Aries, etc., Arishta, Arishtas, Arka
+- Arudha Lagna, Ashvinikumaras, Aspect Diagram, Ayurdaya
+- Bala, Balarishta, Bhansha, Bhargava
+- Bhava, Bhava Kundali, Bhava Lagna, Bhavani
+- Bhrigu, Bhuputra, Boar, Body
+- Brahma, Budha, Cadent, Chandra
+- Chandrarekha, Chaturthansha, Chaturvimshansha, Chhayasunu
+- Commander, Dasha, Dashamansha, Dashavarga
+- Death/Longevity, Devejya, Dharatmaja, Digvarga
+- Dikpalas, Divanatha, Drekkana, Drishti Chakra
+- Duhsthana, Dwadashansha, Enemies, Female
+- Final Bhansha, Fire, Fish, For Saptamansha
+- For Saptavarga, From Akshavedansha, From Chaturvimshansha, From Dwadashansha
+- From Navamansha, From Saptamansha, From Shodashansha, From Trimshansha
+- From Vimshansha, Gains, Ghati Lagna, Gods
+- Grahas, Gulika-Sphuta, Guru, Hara
+- Hemanta, Hora, Hora Lagna, If Pranapada
+- In Dashavarga, In Saptavarga, In Shadvarga, In Trimshansha
+- Indra, Ishta Ghati, Jivansha, Jupiter
+- Kala, Kalapavaka, Karma, Keeta
+- Ketu, Khavedansha, Krishna Paksha, Kubera
+- Kuja, Kumudabandhava, Lagna, Lakshmi
+- Loss, Mahat, Male, Mangala
+- Mathematics/Astronomy, Matru-ha, Mesha, Nakshatras
+- Navamansha, Navamsha, Nirguna, Nirriti
+- Nrupavarga, Other Siddhansha, Papa-kartari, Paramatma
+- Paramatmansha, Paternal Arishta, Planets, Pranapada
+- Pranapada-Sphuta, Purna Avatars, Quadrants, Rahu
+- Rajasika Ego, Rashi, Rashis, Ravi
+- Relatives/Happiness, Religion/Fortune, Rudrashula Dasha, Sandhya
+- Saptamansha, Saptavarga, Saptavimshansha, Sattva
+- Sattvika Ego, Saumya, Sauri, Sayana Avastha
+- Serpent, Serpents, Shadvarga, Shani
+- Shashtyansha, Shashtyanshas, Shikhi, Shikhija
+- Shishira, Shiva, Shodashansha, Shodashavarga
+- Shukla Paksha, Shukra, Shula Dasha, Shulin
+- Shyava, Siblings, Siddhansha, Son/Children
+- Succedent, Sukha, Sun, Surya
+- Suryansha, Svarbhanu, Tamas, The Antardashas
+- The Dasha, The Lagna, Tortoise, Trimshansha
+- Trines, Turyansha, Upagrahas, Vamshakshaya
+- Varga Vimshopaka, Varnada Dasha, Varnada Lagna, Varuna
+- Vayu, Vedavahvansha, Vidhauja, Vimshansha
+- Vimshopaka, Vimshopaka points, Vishnu, Water
+- Wealth, Wife/Partner, ग्रहगुणस्वरूप, राशिदृष्टि
+- राशिस्वरूप, वर्गविवेक, विशेषलग्न, षोडशवर्ग
+- सृष्टिक्रम, ारिष्ट, ावतार, ाऽरिष्टभङ्ग
+
+---
+## BPHS1120.json
+- Ayur Bhava, Bhagya, Bhavas, Chara Rashi
+- Dhana Bhava, Dharma Bhava, Drekkana, Duschikya
+- Dvisvabhava, Jaya Bhava, Kendra, Labha
+- Lagna, Lagna Bhava, Lagna Lord, Lakshma
+- Mars, Mars/Mercury, Mars/Moon, Netra-esha
+- Putra Bhava, Rahu, Randhra Bhava, Shashta Bhava
+- Sukha Bhava, Trika, Trikona, Vikrama Bhava
+- Vrana, Vyoma Bhava, आयुर्भाव, जातनरस्याङ्गे व्रणचिह्नादिकं ब्रुवे
+- जायाभाव, तनुभाव, धनभाव, पञ्चमभाव
+- भाग्यभाव, भावविवेक, षष्ठभाव, सहजभाव
+- सुखभाव
+
+---
+## BPHS2130.json
+- Abhichara, Anuvakra, Argala, Arudha
+- Arudha Lagna, Arudha Pada, Ashtakavarga, Atichara
+- Atmakaraka, Ayana Bala, Benefic Rays, Bhava
+- Bhava Bala, Brahmins, Calculate Digbala, Chapa
+- Chesta, Chesta Bala, Chesta Kendra, Chesta Rashmi
+- Darapada, Dasha, Dattaka, Digbala
+- Dina Bala, Directional Strength, Drashta, Drekkana
+- Drik, Drishya, Dusthana, Dwadashansha
+- East, Exaltation Rays, Fortnight Strength, Gauna Pada
+- Graha Arudha, Graha Bala, Graha Drishti, Hora
+- House Strength, If Arudha Lagna, If Darapada, If Pranapada
+- If Upapada, Ishta, Ishta Bala, Kala
+- Kapha, Karakamsha, Karta, Kashta
+- Kashta Bala, Kendras, Ketu, Kranti
+- Lagna, Lakshmi, Lakshmivan, Malefic Rays
+- Mlechhas, Moksha, Motional Rays, Motional Strength
+- Mukhiya Pada, Naisargika, Naisargika Bala, Natabala
+- Navamansha, Navamsha, North, Pada
+- Padas, Paksha Bala, Paridhi, Pata
+- Placement Strength, Planet Strength, Planetary War, Pradhana Pada
+- Prishthodaya, Rahu, Rajayoga, Rasayani
+- Rashi Drishti, Saptamansha, Saptavargaja Bala, Shadbala
+- Shikhi, Shirshodaya, Shoola Roga, Siddha Vidya
+- South, Sphuta Bala, Sphuta Drishti, Sthana
+- Sthana Bala, Subtracting Ishta, The Arudha, The Chesta Bala
+- The Pada, This Upapada, Trimshansha, Ubhayodaya
+- Uchcha Bala, Upapada, Vakra, Venus
+- Vikala, Virupa calculation, West, कर्मभाव
+- पद, भावेश, लाभभाव, व्ययभाव
+- स्पष्टबल, ाऽप्रकाशग्रह, े ग्रहस्फुटदृष्टिाध्ययाः, ेष्टकष्ट
+- ोपपद
+
+---
+## BPHS3140.json
+- AK, AmK, Amala Yoga, Amatyakaraka
+- Anugraha, Aquarius Lagna, Argala, Argalas
+- Aries Lagna, Aries Navamsha, Arudha, Arudha Lagna
+- Ascendant, Atma etc., Atmakaraka, Bhagyapada
+- Bhava Karakas, Bhava Lagna, Bheri Yoga, Bhratrikaraka
+- Brahma Yoga, Cancer Lagna, Capricorn Lagna, Chakravarti
+- Chamara Yoga, Chandradhi Yoga, Darakaraka, Dasha
+- Dashas, Dharma, Dikshita, Drekkana
+- Dusthana, Fixed, Fixed Karakas, Fixed Lagna
+- For Aries Lagna, From Lagna, Ghatika Lagna, Guru
+- Hara Yoga, Hari Yoga, Hora Lagna, House Indicators
+- If Arudha Lagna, If Atmakaraka, If Karakamsha, If Lagna
+- In Taurus Navamsha, Janma Lagna, Jatakadhisha, Jnatikaraka
+- Kahala Yoga, Kaivalya, Kalanidhi, Kalanidhi Yoga
+- Kalpadruma, Kalpadruma Yoga, Kama, Karaka
+- Karakamsha, Karakamsha Lagna, Karakas, Kemadruma Yoga
+- Kendra/Trikona, Ketu, Khadga Yoga, Kurma Yoga
+- Kusuma Yoga, Labha, Lagna, Lagna Navamsha
+- Lagnadhi Yoga, Lakshmi Yoga, Leo Lagna, Libra Lagna
+- Maharaja Yoga, Maraka, Matrikaraka, Matsya Yoga
+- Mobile, Mriganga Yoga, Mukti, Mukti/Sayujya
+- Naiyayika, Navamsha, Navamsha Kendras, Nigraha
+- Nirabhasa Argala, PK, Pada, Pakantara/Dasha
+- Papa, Parvata Yoga, Pisces Lagna, Pitrikaraka
+- Punya, Putrakaraka, Rahu, Rajayoga
+- Reverse Argala, Sadgati, Sagittarius Lagna, Sankhya Yoga
+- Scorpio Lagna, Self, Shadvargas, Shakti
+- Shankha Yoga, Sharada Yoga, Shrinatha Yoga, Sthira Karakas
+- Subha, Tamograhas, Taurus Lagna, The Lagna
+- Varga, Vargottama Navamsha, Vidhaka, Virgo Lagna
+- Vishavaidya, With Argala, Yoga, Yogakarakas
+- कारक, कारकांश, चन्द्रयोग, नाभसयोग
+- भावाधिपत्येन ग्रहयोगं स्रृणु ( योगकारक), रवियोग, राजयोग, राजसम्बन्धयोग
+- विविधयोग, ाऽर्गल
+
+---
+## BPHS4145.json
+- AK, Alpa, Amita-ayu, Amshayu
+- Anayu, Aries/Scorpio, Atmakaraka, Avasthas
+- Ayus-sthana, Bala, Balarishta, Cancer Lagna
+- Capricorn/Aquarius, Convert Navamsha, Dadru, Dasha
+- Dirgha, Divya-ayu, Drekkana, Drishti
+- From Lagna, Gemini/Virgo, Hora Lagna, If Lagna
+- Jupiter's sign, Kapha, Karmasthana, Ketu
+- Lagna, Madhya, Marakas, Mars' sign
+- Mercury's sign, Moon's sign, Multiply Lagna, Nagaresha
+- Natural longevity, Navamsha, Pindayu, Pitta
+- Pratyari, Rahu, Raja Yoga, Sagittarius/Pisces
+- Saturn's sign, Shofa, Sun's sign, Sutasthana
+- Taurus/Libra, Vadha, Venus' sign, Vikala
+- Vipat, Yogarishta, ग्रहावस्थ, दारिद्र्ययोग
+- मारकभेद, विशेषधनयोगः, ायुर्दाय
+
+---
+## BPHS4650.json
+- After Trikona Shodhana, Amsha, Amsha Dasa, Antardasas
+- Aquarius Amsha, Aries Amsha, Aries-Leo-Sagittarius, etc., Ashtakavarga
+- Ashtakavarga Bindus, Ashtakavarga Dasa, Ashtakavarga Dasas, Ashwini etc.
+- Atmakaraka, Ayurdaya, Bhadrika, Bhumiputra
+- Bindu, Bindus, Cancer Amsha, Capricorn Amsha
+- Dharma bhava, Drekkana, Drishti, Dwisaptati-sama
+- Dwiswabhava, Ekadhipatya Shodhana, Frog leap, From Lagna
+- Gemini Amsha, Graha Mana, Hora, If Lagna
+- Kaala Dasa, Karaka, Karaka Dasa, Ketu
+- Lagna, Leo Amsha, Libra Amsha, Mangala
+- More Bindus, Nairitya, Naisargika, Naisargika Dasas
+- Oja/Yugma, Pada, Pisces Amsha, Purvabhadrapada
+- Rahu, Rashi Mana, Rohini etc., Sagittarius Amsha
+- Samudaya Ashtakavarga, Samudayashtakavarga, Sandhya, Scorpio Amsha
+- Shadbala, Shadtrimsha-vatsara, Taurus Amsha, Taurus etc.
+- The Shuddha Bindus, Trikona Shodhana, Trine Reduction, Varga
+- Variable, Virgo Amsha, Yogardha Dasa, कालचक्रदशा
+- चरादिदशा, दश, दशा, विशेषनक्षत्रदशा
+
+---
+## BPHS5160.json
+- Aquarius/Virgo, Ashtakavarga, Ashtakavargas, Bindus
+- Capricorn/Aquarius, Gochara, Kapha, Kendra
+- Ketu, Krishnadhenu, Lagna, Libra
+- Maraka, Maraka houses, Moong, Rahu
+- Shadbala, Trikona, Varga, Wealth
+- कुजदशान्तर्दशा, केत्वन्तर्दशा, चन्द्रान्तर्दशा, जीवान्तर्दशा
+- बुधान्तर्दशा, रह्वन्तर्दशा, विंशोत्तरीमतेन सूर्यदशान्तर्दशा, शन्यन्तर्दशा
+- शुक्रान्तर्दशा, ाऽन्तर्दश, े देहबाधा भविष्यति
+
+---
+## BPHS6170.json
+- After Trikona Shodhana, Aries, Ashtakavarga, Ashtakavargas
+- Bindus, Body, Dasas, Ekadhipatya Shodhana
+- Gemini, High Bindus, If Lagna, In Aquarius Navamsha
+- In Aries Navamsha, In Cancer Navamsha, In Capricorn Navamsha, In Gemini Navamsha
+- In Leo Navamsha, In Libra Navamsha, In Pisces Navamsha, In Sagittarius Navamsha
+- In Scorpio Navamsha, In Taurus Navamsha, In Virgo Navamsha, Kalachakra
+- Kalachakra Antardasa, Kalachakra Navamsha Dasa, Ketu, Lagna
+- Lagna Ashtakavarga, Leo Navamsha, Low Bindus, Mandala Shodhana
+- Manduka Gati, Markati Gati, Mesha, Mithuna
+- Navamsha, Navamshas, Pindas, Pisces Navamsha
+- Rahu, Samudaya Ashtakavarga, Shuddha Pinda, Simhavalokana
+- Soul, Taurus, Taurus Navamsha, The Samudaya Ashtakavarga
+- The Shuddha Pinda, Trikona Shodhana, Vrishabha, कालचक्रनवांशदशा
+- कालचक्रान्तर्दशा, त्रिकोणशोधन, पिण्डसाधन, प्रत्यन्तर्दशा
+- प्राणदशा, वा कलिमुद्वेगं गुरोः प्रत्यन्तरे वदेत्, सूक्ष्मान्तर्दश, स्थानं प्रवक्ष्यामि लग्नस्य द्विजपुङ्गव
+- स्थानग्रहान् वक्ष्ये सुखबोधाय सुरिणाम्, ाष्टकवर्ग, ाऽष्टकवर्ग, ैकाधिपत्यशोधन
+
+---
+## BPHS7180.json
+- Agni, Akasha, Ashtakavarga, Autumn
+- Bhadra Yoga, Bindu, Bindus, Chakradhara/Vaishnava monk
+- Chhaya, Dasas, Drekkana, Early Winter
+- Ekadandi/Single-staff monk, Gunatita, Guru, Hamsa Yoga
+- Jala, Jupiter, Kapali/Aghori, Karma
+- Ketu, Lagna, Lost Horoscopy, Mahabhutas
+- Malavya Yoga, Mangala Dosha, Mars, Mercury
+- Moksha, Month Lagna, Navamsa, Navamsa Lagna
+- Nimittas, No Bindus, Pancha Mahabhutas, Pancha Mahapurushas
+- Paryaya, Planetary Rays, Prasna, Prasna Lagna
+- Pravrajya Yoga, Prithvi, Rahu, Rainy
+- Rajayogas, Raktavastra/Red-robed, Rashmis, Renunciation
+- Ritu, Sadhana, Samudaya Ashtakavarga, Sanskaras
+- Saturn, Shasha Yoga, Stri Jataka, Summer
+- Summer/Spring, Tapasvi/Hermit, Upayas, Varga
+- Varsha Lagna, Vayu, Venus, Winter
+- Yati/Sage, Yogas, नष्टजातक, पंचमहापुरुषलक्षण
+- पंचमहाभूत, प्रव्रज्यायोग, रश्मि, सत्त्वादिगुण
+- समुदायाष्टकवर्ग, सुदर्शनचक्र, स्त्रीजातक, ाऽष्टवर्गायुर्दाय
+
+---
+## BPHS8190.json
+- Ankusha, Bhaga, Chamara, Father's Curse
+- Gajakumbha, Gati, Gemini/Virgo, Harivansha Purana
+- Jupiter, Leo, Mashaka, Moon's sign
+- Nadyavarta, Navamsha, Pipal, Pitru-nasha-adhipau
+- Pradakshina-varta, Pradeshini, Rahu, Seemanta
+- Svishtakrit Homa, Tila, Tula, अंगलक्षण
+- तिलादिलांछन, पूर्वजन्मशापद्योतन
+
+---
+## BPHS9197.json
+- Abhisheka, Agni, Angalakshana, Antar
+- Aprakashaka, Argala, Arishta, Ashtakavarga
+- Avasthas, Ayus, Bhavesha, Chandra
+- Chapter 95, Devar, Different Dasha, Drishti
+- Ishta, Jeth, Jyeshtha, Kalasha
+- Kalasha Sthapana, Karakamsha, Karakas, Kashta
+- Lagna, Lagna Gandanta, Mahabhutas, Mahapurusha
+- Mahesh, Mula, Nirriti, Pada
+- Palasha, Phala, Pinda, Prasava Vikara
+- Pratyantar, Pravrajya, Rahu, Rashmi
+- Samudaya Ashtakavarga, Shanti, Shiva, Significators
+- Spashtabala, Surya, Sutaka, Svishtakrit Homa
+- Tithis, Upapada, Varuna, Yogakarakas
+- अभुक्तमूलशान्त्यध्यायः, गण्डान्तजातशान्त्यध्यायः, ग्रहणजातशान्त्यध्यायः, ज्येष्ठादि गण्डशान्त्यध्यायः
+- त्रीतरजन्मशान्त्यध्यायः, प्रसवविकारशान्त्यध्यायः, ोपसंहार
+
+---

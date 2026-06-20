@@ -23,8 +23,9 @@ Hora/                          Natal astrology texts
   MinarajaYavanajataka/chapters/ MS_001…039.json
   Phaladeepika/                phaladeepika.json
   Shatpanchashika/             Shatpanchashika.json
+  UttaraKalamrita/             uttara_kalamrita.json (9 chapters, 324 shlokas)
   VarahamihirDaivagnavallabh/  Varahamihircharita_daivagya_vallabh.json
-  [README-only stubs]          Saravali, UttaraKalamrita, SarvarthaChintamani, PrashnaMarga, JatakaTattvam
+  [README-only stubs]          Saravali, SarvarthaChintamani, PrashnaMarga, JatakaTattvam
 Samhita/
   BrihatSamhita/               Varahmihir_brihatsamhita.json + Varahmihir_brihatsamhita2.json
 Vedanga-Jyotisha/
@@ -79,19 +80,20 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 | text_id | Directory | Shlokas | Translation |
 |---------|-----------|---------|-------------|
-| `bphs` | Hora/BrihatParasharaHoraShastra/ | 3867 | 97% |
+| `bphs` | Hora/BrihatParasharaHoraShastra/ | 3932 | 100% |
 | `brihat_jataka` | Hora/BrihatJataka/chapters/ | 409 | 100% |
 | `bhrigu_sutram` | Hora/Bhrigusootram/chapters/ | 568 | 100% |
 | `chamatkar_chintamani` | Hora/Chamatkarchintamani/chapters/ | 112 | 100% |
-| `jataka_parijata` | Hora/Jatakaparijatah/chapters/ | 1772 | 88% |
-| `laghu_jatakam` | Hora/Laghujatakam/chapters/ | 168 | 100% |
-| `minaraja_yavana_jataka` | Hora/MinarajaYavanajataka/chapters/ | 2139 | 99.5% |
-| `phaladeepika` | Hora/Phaladeepika/ | 851 | 93% |
+| `jataka_parijata` | Hora/Jatakaparijatah/chapters/ | 1947 | 100% |
+| `laghu_jatakam` | Hora/Laghujatakam/chapters/ | 182 | 100% |
+| `minaraja_yavana_jataka` | Hora/MinarajaYavanajataka/chapters/ | 4027 | 100% |
+| `phaladeepika` | Hora/Phaladeepika/ | 851 | 100% |
 | `shatpanchashika` | Hora/Shatpanchashika/ | 56 | 100% |
 | `varahamihir_daivagnavallabh` | Hora/VarahamihirDaivagnavallabh/ | 248 | 100% |
+| `uttara_kalamrita` | Hora/UttaraKalamrita/ | 324 | 100% |
 | `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
-| `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 44 | 100% |
-| `brihat_samhita` | Samhita/BrihatSamhita/ | 2770 | 100% |
+| `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 45 | 100% |
+| `brihat_samhita` | Samhita/BrihatSamhita/ | 5500 | 100% |
 
 Note: Shloka counts reflect deduplication by (chapter, shloka) key — BPHS chunks and brihat_samhita
 files had overlapping entries that inflated previous counts. Unique counts are authoritative.
