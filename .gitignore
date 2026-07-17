@@ -20,3 +20,9 @@ Hora/UttaraKalamrita/sections/
 # Stray temp artifacts
 temp_page.png
 temp_*.png
+
+# Source scans — canonical data is the per-chapter JSON (DECISIONS 2026-07-17).
+# PDFs stay LOCAL (144MB of .git); stripped from history in the bloat-rewrite step.
+*.pdf
+# Raw OCR working dirs
+**/raw/
