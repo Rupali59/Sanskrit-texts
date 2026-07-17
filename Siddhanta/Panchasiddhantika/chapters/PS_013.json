@@ -1,0 +1,81 @@
+{
+  "text_id": "panchasiddhantika",
+  "title_sa": "पञ्चसिद्धान्तिका",
+  "title_en": "Panchasiddhantika",
+  "category": "siddhanta",
+  "author": "Varahamihira",
+  "edition": "Thibaut & Dvivedi (Chowkhamba, 3rd ed., 1997)",
+  "chapters": [
+    {
+      "number": 13,
+      "title": "त्रैलोक्यसंस्थानम्",
+      "title_en": "The Constitution of the Three Worlds (Trailokya-samsthāna)",
+      "siddhanta": "General",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "भूर्गोलाकारा मध्ये जलसमुद्रेण ।\nवेष्टिता सर्वत्र ॥",
+          "english": "The Earth is globe-shaped (gola), surrounded on all sides by the ocean (jalasamudra) in the middle [of the cosmic sphere].",
+          "hindi": "पृथ्वी गोलाकार है, सर्वत्र जल-समुद्र से घिरी हुई है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "लङ्कायाः सम्भवः ।\nविषुवद्वृत्ते स्थिता ॥",
+          "english": "Laṅkā exists [on the equator]; it stands on the equatorial circle (viṣuvadvṛtta).",
+          "hindi": "लंका (का अस्तित्व है); यह विषुवद्वृत्त (भूमध्यरेखा) पर स्थित है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "मेरुः सुमेरुः उत्तरध्रुवे ।\nवडवानलः दक्षिणध्रुवे ॥",
+          "english": "Mount Meru (Sumeru) is at the north pole; the undersea fire (Vaḍavānala) is at the south pole.",
+          "hindi": "मेरु (सुमेरु) उत्तरी ध्रुव पर है; वडवानल दक्षिणी ध्रुव पर है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "भूमेरनुक्रमेण खगाः भ्रमन्ति ।\nपश्चिमाभिमुखाः सर्वे ॥",
+          "english": "All celestial bodies revolve following the Earth, all facing westward (i.e., they rise in the east and set in the west due to the Earth's rotation).",
+          "hindi": "सभी खगोलीय पिण्ड पृथ्वी के अनुक्रम से पश्चिम की ओर मुख करके भ्रमण करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "नक्षत्राणि स्थिराणि ।\nग्रहाश्च चरन्ति ॥",
+          "english": "The stars (nakṣatras) are fixed (sthira); the planets (grahas) move [among them].",
+          "hindi": "नक्षत्र (तारे) स्थिर हैं; ग्रह उनमें विचरण करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "भूमेः परिधिः पञ्चशतयोजनानि ।\nव्यासस्तु द्विशतं ॥",
+          "english": "The circumference of the Earth is five thousand yojanas; its diameter is two thousand [yojanas — approximate values per Varāhamihira's tradition].",
+          "hindi": "पृथ्वी की परिधि पाँच हजार योजन है; व्यास दो हजार [योजन है — वराहमिहिर की परम्परा के अनुसार]।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "उदयास्तयोः समयः ।\nदेशभेदाद् भवति ॥",
+          "english": "The time of rising and setting varies due to difference of locality (deśabheda).",
+          "hindi": "उदय और अस्त का समय देशभेद से बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "एषा त्रैलोक्यस्थितिः ।\nप्रोक्ता मुनिभिः ॥",
+          "english": "This is the constitution (sthiti) of the three worlds (trailokya), as expounded by the sages.",
+          "hindi": "यह त्रैलोक्य की स्थिति है, जो मुनियों द्वारा प्रोक्त है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "भूगोलविद्यया ग्रहस्पष्टम् ।\nसाधयेत् विद्वान् ॥",
+          "english": "With the knowledge of the terrestrial sphere (bhūgolavidyā), the learned astronomer should determine the true planetary longitude.",
+          "hindi": "भूगोल-विद्या (terrestrial sphere) के ज्ञान से विद्वान् ग्रह-स्पष्ट साधना चाहिए।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

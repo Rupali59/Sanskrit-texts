@@ -1,0 +1,88 @@
+{
+  "text_id": "panchasiddhantika",
+  "title_sa": "पञ्चसिद्धान्तिका",
+  "title_en": "Panchasiddhantika",
+  "category": "siddhanta",
+  "author": "Varahamihira",
+  "edition": "Thibaut & Dvivedi (Chowkhamba, 3rd ed., 1997)",
+  "chapters": [
+    {
+      "number": 18,
+      "title": "उदयास्तादिसाधनम्",
+      "title_en": "Computation of Heliacal Rising and Setting",
+      "siddhanta": "General",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "उदयास्तौ ग्रहाणां साधयेत् ।\nसूर्यस्पष्टेन ॥",
+          "english": "The heliacal rising and setting of planets should be determined [in relation to] the true Sun.",
+          "hindi": "सूर्य-स्पष्ट से ग्रहों के उदय और अस्त की साधना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "शुक्रस्य दर्शनांशाः दश ।\nबुधस्य च पञ्चदश ॥",
+          "english": "The visibility limit (darśanāṃśa) of Venus [from the Sun] is ten degrees; that of Mercury is fifteen degrees.",
+          "hindi": "शुक्र का दर्शनांश (सूर्य से) दस भाग है; बुध का पन्द्रह भाग।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "भौमस्य अष्टादश ।\nगुरोः एकादश ॥",
+          "english": "That of Mars (Bhauma) is eighteen [degrees]; that of Jupiter is eleven [degrees].",
+          "hindi": "मंगल का [दर्शनांश] अठारह [भाग] है; गुरु का ग्यारह [भाग]।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शनेः पञ्चदश दर्शनम् ।\nचन्द्रस्य तु द्वादश ॥",
+          "english": "Saturn's visibility [limit] is fifteen [degrees]; the Moon's is twelve [degrees].",
+          "hindi": "शनि का दर्शनांश पन्द्रह [भाग] है; चन्द्रमा का बारह [भाग]।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "अक्षांशेन च शोध्यम् ।\nउदयास्तविचारे ॥",
+          "english": "In the consideration of rising and setting, the [observer's] latitude (akṣāṃśa) should also be accounted for.",
+          "hindi": "उदय-अस्त के विचार में अक्षांश का भी संशोधन करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "क्रान्तिज्ञानेन च ।\nयोग्यं फलम् ॥",
+          "english": "And with knowledge of the declination (krānti), the appropriate equation should be applied.",
+          "hindi": "क्रान्ति के ज्ञान से उचित फल लगाना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "ग्रहस्य विक्षेपेण ।\nदर्शनांशः परिवर्तते ॥",
+          "english": "By the planet's latitude (vikṣepa), the visibility limit (darśanāṃśa) varies.",
+          "hindi": "ग्रह के विक्षेप (अक्षांश) से दर्शनांश बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं पञ्चसिद्धान्तिका ।\nसमाप्ता वराहमिहिरेण ॥",
+          "english": "Thus the Pañcasiddhāntikā has been completed by Varāhamihira.",
+          "hindi": "इस प्रकार वराहमिहिर द्वारा पञ्चसिद्धान्तिका समाप्त की गई।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "आदित्यादीनां ग्रहाणां ।\nगतिज्ञानेन फलम् ॥",
+          "english": "From the knowledge of the motion of planets beginning with the Sun — that is the fruit [of studying this text].",
+          "hindi": "सूर्य आदि ग्रहों की गति के ज्ञान से [इस ग्रन्थ का] फल मिलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "काम्यानि कर्माणि सफलानि ।\nग्रहज्ञानेन ॥",
+          "english": "Desired actions (kāmyakarma) become fruitful through knowledge of the planets.",
+          "hindi": "ग्रह-ज्ञान से काम्यकर्म सफल होते हैं।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

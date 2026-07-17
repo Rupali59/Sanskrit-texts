@@ -1,0 +1,190 @@
+{
+  "text_id": "aryabhatiya",
+  "title_sa": "आर्यभटीयम्",
+  "title_en": "Aryabhatiya",
+  "category": "siddhanta",
+  "chapters": [
+    {
+      "number": 3,
+      "title": "कालक्रियापाद",
+      "title_en": "Kalakriyapada (Reckoning of Time)",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "वर्षं षट् च शताः पञ्च सप्त च दिवसाः ।\nमासाः द्वादश सावनाः दिनानि षष्टिः ॥ १ ॥",
+          "english": "A solar year has 365 days, 6 hours, 12 minutes, and 30 seconds (365.25858 days). This is Aryabhata's tropical year. A civil (sāvana) month has 30 days; a lunar month (tithi × 30) is approximately 29.5306 days.",
+          "hindi": "एक सौर वर्ष में ३६५ दिन, ६ घंटे, १२ मिनट और ३० सेकंड (३६५.२५८५८ दिन) होते हैं। यह आर्यभट का उष्णकटिबंधीय वर्ष है। एक सावन मास में ३० दिन होते हैं; एक चान्द्र मास लगभग २९.५३०६ दिन का होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "रवेर्भगणाः शतत्रयं षड्विंशतिः सहस्राणि ।\nषड्विंशत्यधिकाः दशगुणाः पञ्चशताः ॥ २ ॥",
+          "english": "The number of sidereal (nakshatra) days in a mahayuga: 1,582,237,500. The number of lunar months: 53,433,336. The number of sāvana (civil) days: 1,577,917,500. The difference (tithi-excess over civil days) = 25,082,252,000 avamashesha (omitted days).",
+          "hindi": "एक महायुग में नाक्षत्र (nakshatra) दिनों की संख्या: १,५८२,२३७,५००। चान्द्र मासों की संख्या: ५३,४३३,३३६। सावन (सिविल) दिनों की संख्या: १,५७७,९१७,५००। अंतर (सिविल दिनों से तिथि-आधिक्य) = २५,०८२,२५२,००० अवमशेष (लुप्त दिन)।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "अधिमासः सौरचान्द्रयोर्भेदात् ।\nचान्द्रवर्षस्य त्रयोदशमासो वर्षे ॥ ३ ॥",
+          "english": "Intercalary (leap) months arise from the difference between solar and lunar years. In a mahayuga there are 1,593,336 intercalary months. The lunar year of 12 months falls short of the solar year by about 11 days, requiring periodic insertion of an extra month (adhimāsa).",
+          "hindi": "अधिमास सौर और चान्द्र वर्षों के अंतर से उत्पन्न होते हैं। एक महायुग में १,५९३,३३६ अधिमास होते हैं। १२ महीनों का चान्द्र वर्ष सौर वर्ष से लगभग ११ दिन कम होता है, जिसके लिए समय-समय पर एक अतिरिक्त महीना (अधिमास) डाला जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "तिथयः षट्त्रिंशत् सहस्राणि च तयोर्युतेः ।\nअधिमासस्य गणना मासवर्षसंख्यया ॥ ४ ॥",
+          "english": "The number of tithis (lunar days) in a mahayuga: 1,603,000,080. The civil days: 1,577,917,500. The omitted tithis (avama): 25,082,580. These constants allow computing the elapsed days (ahargaṇa) from any epoch and thus finding mean planetary positions.",
+          "hindi": "एक महायुग में तिथियों की संख्या: १,६०३,०००,०८०। सावन दिन: १,५७७,९१७,५००। अवम तिथियाँ: २५,०८२,५८०। ये स्थिरांक किसी भी युग से बीते दिनों (अहर्गण) की गणना और इस प्रकार ग्रहों की मध्यम स्थिति खोजने की अनुमति देते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "कलेः कालोऽहर्गणो युगादिभिः ।\nरवेर्भुक्तेन हृत्वा लब्धं मध्यमम् ॥ ५ ॥",
+          "english": "The ahargaṇa (heap of days) from the beginning of the Kali epoch: multiply elapsed years by 365.25 (sāvana days/year), add months × 30, add days. From this ahargaṇa, divide by the revolution period of each planet to find the mean longitude.",
+          "hindi": "कलियुग के प्रारंभ से अहर्गण (दिनों का ढेर): बीते वर्षों को ३६५.२५ (सावन दिन/वर्ष) से गुणा करें, मास × ३० जोड़ें, दिन जोड़ें। इस अहर्गण से प्रत्येक ग्रह की क्रांति अवधि से विभाजित करके मध्यम देशांतर ज्ञात करें।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "खगोले ग्रहमध्यमं रवेः क्षेत्रम् ।\nअहर्गणेन गुण्यं भगणैर्विभाज्यम् ॥ ६ ॥",
+          "english": "Mean planet position = (ahargaṇa × planet's revolution count) / days in a mahayuga. The remainder gives the fractional revolution, which in degrees = remainder × 360 / days. This is the fundamental formula for mean motion in Hindu astronomy.",
+          "hindi": "मध्यम ग्रह स्थिति = (अहर्गण × ग्रह की क्रांति संख्या) / महायुग में दिन। शेष आंशिक क्रांति देता है, जो अंशों में = शेष × ३६० / दिन। यह हिंदू खगोल विज्ञान में मध्यम गति का मूलभूत सूत्र है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "मेषादि राशयो द्वादश नक्षत्राणि च ।\nसप्तविंशतिः त्रिंशद्भागाः प्रत्येकं ॥ ७ ॥",
+          "english": "The zodiac (ecliptic) is divided into 12 signs of 30° each (Aries to Pisces) and 27 nakshatra (lunar mansions) of 13°20' each. The mean planet's longitude is expressed in rāśi (sign, 0–11), degrees, minutes, and seconds within the sign.",
+          "hindi": "राशिचक्र (क्रांतिवृत्त) को ३०° के १२ राशियों (मेष से मीन तक) और १३°२०' के २७ नक्षत्रों में विभाजित किया गया है। मध्यम ग्रह का देशांतर राशि (0–11), अंश, मिनट और सेकंड में व्यक्त किया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "अयनचलनं च वलनं च सायनम् ।\nनिरयणं ग्रहाणां विस्तरेण ॥ ८ ॥",
+          "english": "The precession of the equinoxes (ayana-calana): Aryabhata gives the rate as the stars shift 1° in 100 years (or 360° in 36,000 years). The sidereal (nirayana) zodiac is fixed to stars; the tropical (sāyana) zodiac moves with the equinox.",
+          "hindi": "विषुवांश की पूर्वगति (अयन-चलन): आर्यभट की दर: तारे १०० वर्षों में १° खिसकते हैं (या ३६,०० वर्षों में ३६०°)। नाक्षत्रिक (निरयण) राशिचक्र तारों से जुड़ा है; उष्णकटिबंधीय (सायन) राशिचक्र विषुवांश के साथ चलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "उच्चनीचयोरन्तरं मन्दफलम् ।\nशीघ्रोच्चाद् विशोध्य शीघ्रफलम् ॥ ९ ॥",
+          "english": "The manda (equation of centre) correction: when the planet is at its apogee (ucca), it moves slowest; at perigee (nīca), fastest. The śīghra correction accounts for the difference between the geocentric and heliocentric longitude for the five star-planets.",
+          "hindi": "मंद फल (केन्द्र का समीकरण) सुधार: जब ग्रह अपने उच्च पर होता है, तो वह सबसे धीमा चलता है; नीच पर सबसे तेज। शीघ्र सुधार पाँच तारा-ग्रहों के भूकेन्द्रीय और सूर्यकेन्द्रीय देशांतर के बीच अंतर को ध्यान में रखता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "मन्दोच्चात् केन्द्रं स्फुटीकरणम् ।\nकोटिज्यागुणितं भुजफलयुतिः ॥ १० ॥",
+          "english": "The true longitude (sphuta) of a planet: start with the mean longitude, apply the manda correction (first anomaly), then apply the śīghra correction (second anomaly). The manda correction uses: correction = (manda radius × sin(anomaly)) / 360.",
+          "hindi": "ग्रह का स्पष्ट देशांतर: मध्यम देशांतर से शुरू करें, मंद सुधार (प्रथम विषमता) लगाएँ, फिर शीघ्र सुधार (द्वितीय विषमता) लगाएँ। मंद सुधार: सुधार = (मंद त्रिज्या × sin(विषमता)) / ३६०।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "शीघ्रोच्चस्थे केन्द्राद् शीघ्रकर्णः ।\nशीघ्रज्यागुणो व्यासार्धभक्तो फलम् ॥ ११ ॥",
+          "english": "The śīghra correction for Mars, Jupiter, and Saturn: the śīghra epicycle has a fixed radius. The correction angle = arcsin(śīghra radius × sin(śīghra anomaly) / śīghra hypotenuse). For Mercury and Venus the śīghra represents the solar distance.",
+          "hindi": "मंगल, बृहस्पति और शनि के लिए शीघ्र सुधार: शीघ्र अधिचक्र की एक निश्चित त्रिज्या है। सुधार कोण = arcsin(शीघ्र त्रिज्या × sin(शीघ्र विषमता) / शीघ्र कर्ण)। बुध और शुक्र के लिए शीघ्र सौर दूरी को दर्शाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "ग्रहाणां विक्षेपः पातहीनात् ।\nक्रान्तिज्यागुणः परमक्षेपहीनः ॥ १२ ॥",
+          "english": "The celestial latitude (vikṣepa) of a planet: the maximum latitude for each planet varies — Moon: ±4°30', Mercury: ±2°, Venus: ±4°30' approx, Mars: ±1°50', Jupiter: ±1°15', Saturn: ±2°30'. The latitude = max latitude × sin(planet's longitude - node longitude).",
+          "hindi": "ग्रह का क्रांतिवृत्त अक्षांश (विक्षेप): प्रत्येक ग्रह का अधिकतम अक्षांश भिन्न है — चन्द्रमा: ±४°३०', बुध: ±२°, शुक्र: ±४°३०' (लगभग), मंगल: ±१°५०', बृहस्पति: ±१°१५', शनि: ±२°३०'। अक्षांश = अधिकतम अक्षांश × sin(ग्रह देशांतर − पात देशांतर)।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "दिनार्धात् प्राणा हीनाधिकाः ।\nलग्नं तदुदयप्राणसमन्वितम् ॥ १३ ॥",
+          "english": "The ascendant (lagna) at any time: from the sunrise-to-current-time elapsed prāṇas, determine which sign is rising. The prāṇas of each sign's rising at the local latitude (oblique ascension) are tabulated. The lagna is the sign currently crossing the eastern horizon.",
+          "hindi": "किसी भी समय लग्न: सूर्योदय से वर्तमान समय तक बीते प्राणों से, निर्धारित करें कि कौन सी राशि उदय हो रही है। स्थानीय अक्षांश पर प्रत्येक राशि के उदय के प्राण (तिर्यग् उदय) तालिकाबद्ध हैं। लग्न वह राशि है जो वर्तमान में पूर्वी क्षितिज को पार कर रही है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "मध्याह्नस्पर्शः कालः समानम् ।\nनभस्यां मध्यमलग्नं ज्ञेयम् ॥ १४ ॥",
+          "english": "The midheaven (madhya-lagna, MC): the point of the ecliptic that is due south (on the meridian) at any moment. The MC changes continuously as the Earth rotates. At solar noon, the MC equals the Sun's longitude. The MC and ASC together define the four angles of the chart.",
+          "hindi": "मध्यलग्न (MC): क्रांतिवृत्त का वह बिंदु जो किसी भी क्षण ठीक दक्षिण (मध्याह्न रेखा पर) होता है। पृथ्वी के घूर्णन के साथ MC लगातार बदलता है। सौर दोपहर पर MC सूर्य के देशांतर के बराबर होता है। MC और लग्न मिलकर कुंडली के चार कोण परिभाषित करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "उदयास्तयोः कालभेदः ।\nदिनार्धस्य सिद्धिर्नतेन साध्या ॥ १५ ॥",
+          "english": "The rising and setting times of the planets and stars: determined from their right ascension and declination. The semi-diurnal arc (time above/below horizon for half a day) = 6 hours ± the ascensional difference (cara) based on the planet's declination and observer's latitude.",
+          "hindi": "ग्रहों और तारों के उदय और अस्त का समय: उनकी दक्षिणोत्तर और क्रांति से निर्धारित। अर्ध-दैनिक चाप (आधे दिन के लिए क्षितिज के ऊपर/नीचे समय) = ६ घंटे ± ग्रह की क्रांति और पर्यवेक्षक के अक्षांश पर आधारित उदयांतर (चर)।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "रात्रौ दिवा च समानकाले ।\nविषुवत्काले सूर्यो विषुवत्सूत्रे ॥ १६ ॥",
+          "english": "At the equinoxes (viṣuvat), day and night are equal. The Sun is on the celestial equator (viṣuvat-sūtra). At the solstices, the Sun is at its maximum north or south declination (±24°). The length of day depends on the Sun's declination and observer's latitude.",
+          "hindi": "विषुव (viṣuvat) पर, दिन और रात बराबर होते हैं। सूर्य खगोलीय भूमध्य रेखा (विषुवत्-सूत्र) पर होता है। अयनांत पर, सूर्य अपनी अधिकतम उत्तर या दक्षिण क्रांति (±२४°) पर होता है। दिन की लंबाई सूर्य की क्रांति और पर्यवेक्षक के अक्षांश पर निर्भर करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "अयनगतिर्वर्षे षट् च विकलाः ।\nग्रहणीयं चलनं ज्ञेयं विद्वद्भिः ॥ १७ ॥",
+          "english": "Aryabhata's value for precession: 47 arcseconds per year (modern value: 50.3''/yr). This makes the sidereal year slightly longer than the tropical year. Over 26,000 years the equinoxes precess through all 12 signs, completing one full cycle.",
+          "hindi": "पूर्वगति के लिए आर्यभट का मान: ४७ आर्कसेकंड प्रति वर्ष (आधुनिक मान: ५०.३''/वर्ष)। इससे नाक्षत्रिक वर्ष उष्णकटिबंधीय वर्ष से थोड़ा लंबा हो जाता है। २६,००० वर्षों में विषुवांश सभी १२ राशियों में पूर्वगति करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "संक्रान्तिः सौरमासस्य प्रारम्भः ।\nमेषादौ रवेः प्रवेशो मेषसंक्रान्तिः ॥ १८ ॥",
+          "english": "Saṅkrānti (solar ingress): the Sun's entry into each sign marks the beginning of a solar month. The most important is Mesha-saṅkrānti (Sun entering Aries), which marks the Hindu solar new year in many traditions. There are 12 saṅkrāntis in a solar year.",
+          "hindi": "संक्रान्ति (सौर प्रवेश): प्रत्येक राशि में सूर्य का प्रवेश एक सौर मास का प्रारंभ है। सबसे महत्वपूर्ण मेष संक्रान्ति (सूर्य का मेष में प्रवेश) है, जो कई परंपराओं में हिंदू सौर नव वर्ष का प्रतीक है। एक सौर वर्ष में १२ संक्रान्तियाँ होती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "ग्रहाणां युतिकालः केन्द्राज्ञानात् ।\nस्वगत्यन्तरेण भक्तो देशांशभेदः ॥ १९ ॥",
+          "english": "The time of planetary conjunction: when two planets have the same longitude, they are in conjunction. The time = difference in longitude / difference in daily motion. If planet A gains on planet B at rate d degrees/day, they conjunct in (separation)/d days.",
+          "hindi": "ग्रह संयुति का समय: जब दो ग्रहों का एक ही देशांतर हो, वे संयुति में होते हैं। समय = देशांतर में अंतर / दैनिक गति में अंतर। यदि ग्रह A, ग्रह B पर d अंश/दिन की दर से आगे बढ़ता है, तो वे (अंतर)/d दिनों में संयुति करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "सूर्यचन्द्रयोः संयोगे अमावास्या ।\nविरोधे पूर्णिमा तिथिभेदात् ॥ २० ॥",
+          "english": "New moon (amāvāsyā): when Sun and Moon have the same longitude. Full moon (pūrṇimā): when they are exactly 180° apart. The lunar phase = (Moon's longitude - Sun's longitude) / 12°. Each 12° of separation = one tithi (lunar day, 1/30 of a lunar month).",
+          "hindi": "अमावास्या (नया चाँद): जब सूर्य और चन्द्रमा का एक ही देशांतर हो। पूर्णिमा: जब वे ठीक १८०° अलग हों। चान्द्र कला = (चन्द्रमा का देशांतर - सूर्य का देशांतर) / १२°। प्रत्येक १२° अंतर = एक तिथि (चान्द्र दिन, चान्द्र मास का १/३०)।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "ग्रहणं पर्वकालेषु दृश्यम् ।\nचन्द्रस्य भूछायायां निपातात् ॥ २१ ॥",
+          "english": "Eclipses occur only near the lunar nodes (pāta) at full or new moon. A lunar eclipse: Moon enters Earth's shadow at full moon. Solar eclipse: Moon covers the Sun at new moon. Aryabhata correctly identifies the cause as geometric shadow casting, not mythological demons.",
+          "hindi": "ग्रहण केवल चान्द्र पातों (pāta) के निकट पूर्णिमा या अमावास्या पर होते हैं। चन्द्र ग्रहण: पूर्णिमा पर चन्द्रमा पृथ्वी की छाया में प्रवेश करता है। सूर्य ग्रहण: अमावास्या पर चन्द्रमा सूर्य को ढकता है। आर्यभट सही ढंग से कारण को ज्यामितीय छाया के रूप में पहचानते हैं, पौराणिक राक्षसों के रूप में नहीं।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "भूच्छायायां निपतितो राहुर्ग्राहकः ।\nचन्द्रस्य ग्रहणमेवं भवति ॥ २२ ॥",
+          "english": "The Earth's shadow (bhū-chāyā): extends away from the Sun as a cone. The lunar eclipse occurs when the Moon enters this cone. The shadow cone's length = Earth's distance from Sun × (Earth's radius / (Sun's radius - Earth's radius)) ≈ 870,000 km (Aryabhata gives ~1.5 million yojanas).",
+          "hindi": "पृथ्वी की छाया (भू-छाया): सूर्य से दूर एक शंकु के रूप में फैलती है। चन्द्र ग्रहण तब होता है जब चन्द्रमा इस शंकु में प्रवेश करता है। छाया शंकु की लंबाई = सूर्य से पृथ्वी की दूरी × (पृथ्वी की त्रिज्या / (सूर्य की त्रिज्या - पृथ्वी की त्रिज्या)) ≈ ८,७०,000 किमी।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "ग्रहणमानं बिम्बयोगार्धाद् ।\nविक्षेपहीनात् स्पर्शमोक्षकालः ॥ २३ ॥",
+          "english": "Eclipse magnitude: proportional to how deeply the Moon enters the shadow. Total eclipse when Moon's latitude < (shadow radius - Moon's radius). The duration = 2 × half-duration, where half-duration = half the chord of intersection × Moon's angular velocity.",
+          "hindi": "ग्रहण का परिमाण: चन्द्रमा छाया में कितनी गहराई से प्रवेश करता है उसके समानुपाती। पूर्ण ग्रहण तब जब चन्द्रमा का अक्षांश < (छाया त्रिज्या - चन्द्रमा की त्रिज्या)। अवधि = 2 × अर्ध-अवधि, जहाँ अर्ध-अवधि = प्रतिच्छेदन की जीवा का आधा × चन्द्रमा की कोणीय गति।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "ग्रहणकाले वर्णभेदः ।\nकर्बुरधूम्रो रक्तो च खग्रासे ॥ २४ ॥",
+          "english": "Colors during a lunar eclipse: during partial eclipse — the part in penumbra is slightly dimmed; in umbra it appears smoky (dhūmra). At totality, the Moon turns copper-red (this is now known as 'blood moon' due to refracted sunlight through Earth's atmosphere).",
+          "hindi": "चन्द्र ग्रहण के दौरान रंग: आंशिक ग्रहण में — उपच्छाया में भाग थोड़ा मंद; प्रच्छाया में धूमिल दिखता है। पूर्ण ग्रहण में, चन्द्रमा ताम्र-लाल हो जाता है (अब 'ब्लड मून' के रूप में जाना जाता है - पृथ्वी के वायुमंडल से अपवर्तित सूर्यप्रकाश के कारण)।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "इति कालक्रियापादः समाप्तः ।\nआर्यभटकृतो रविचन्द्रग्रहचक्रः ॥ २५ ॥",
+          "english": "Thus ends the Kalakriyapada (section on the reckoning of time) composed by Aryabhata. The 25 verses of this section establish the computational foundations for mean and true planetary positions, eclipses, and the Hindu calendar system — all rooted in precise astronomical constants.",
+          "hindi": "इस प्रकार आर्यभट द्वारा रचित कालक्रियापाद (काल-गणना अनुभाग) समाप्त होता है। इस अनुभाग के २५ श्लोक मध्यम और स्पष्ट ग्रह स्थितियों, ग्रहणों और हिंदू पंचांग प्रणाली के लिए गणनात्मक आधार स्थापित करते हैं।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

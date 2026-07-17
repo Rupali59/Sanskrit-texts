@@ -1,0 +1,156 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 6,
+      "title": "वलनाधिकारः",
+      "title_en": "Chapter on Ecliptic Deflection",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "उत्तरादक्षिणाभ्यां तु वलनं भवति क्रमात् ।\nद्वयोर्योगवियोगाभ्यां वलनं ग्रहणेऽखिलम् ॥ १ ॥",
+          "english": "The deflection (valana) is the angle between the north-south direction and the direction joining the centers of the eclipsed and eclipsing bodies.",
+          "hindi": "वलन वह कोण है जो उत्तर-दक्षिण दिशा और ग्रहण पाने वाले तथा ग्रहण लगाने वाले पिंडों के केंद्रों को मिलाने वाली रेखा के बीच होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "अयनाद् वलनं यत्तद् रव्यपक्रमतः स्मृतम् ।\nअक्षाद् वलनमक्षांशैः स्वदेशोचिततः स्मृतम् ॥ २ ॥",
+          "english": "The ayana-valana arises from the angle between the ecliptic and the meridian at the contact point; it equals the Sun's declination at the point of contact.",
+          "hindi": "अयनवलन, स्पर्श बिंदु पर क्रांतिवृत्त और मध्याह्न रेखा के बीच के कोण से उत्पन्न होता है; यह स्पर्श बिंदु पर सूर्य के क्रांति के बराबर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "अक्षवलनस्य परमं स्वाक्षांशतुल्यमेव तत् ।\nयत्र समवृत्तमार्गे क्रान्तिवृत्तं प्रसरेत् ॥ ३ ॥",
+          "english": "The aksha-valana arises from the terrestrial latitude; its maximum equals the local latitude, occurring when the ecliptic crosses the prime vertical.",
+          "hindi": "अक्षवलन भूमि अक्षांश से उत्पन्न होता है; इसका अधिकतम स्थानीय अक्षांश के बराबर होता है, जब क्रांतिवृत्त प्राथमिक ऊर्ध्वाधर को पार करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "आयनाक्षवलनाभ्यां योगहानिप्रसङ्गतः ।\nवलनं साधयेत् तत्र सदिगन्तरयोगतः ॥ ४ ॥",
+          "english": "The total valana is the combined result of ayana-valana and aksha-valana, applied carefully with proper signs.",
+          "hindi": "कुल वलन अयनवलन और अक्षवलन का संयुक्त परिणाम है, जिसे उचित चिह्नों के साथ सावधानी से लगाया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "ग्रहणलिपिः कार्या तु वृत्तं विमलमण्डलम् ।\nस्पर्शमोक्षौ वलनेन साधयेद् विधिवत्तदा ॥ ५ ॥",
+          "english": "To draw the eclipse diagram: draw the circle of the eclipsed body, then locate the shadow's center at the appropriate distance along the deflection direction.",
+          "hindi": "ग्रहण आरेख बनाने के लिए: ग्रहण पाने वाले पिंड का वृत्त बनाएं, फिर वलन दिशा के साथ उचित दूरी पर छाया का केंद्र अंकित करें।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "स्पर्शकाले तु छायायाः केन्द्रं चन्द्रकेन्द्रतः ।\nव्यासयोगार्धमानेन पश्चिमे स्थापयेत्ततः ॥ ६ ॥",
+          "english": "At first contact, the shadow center is at a distance equal to the sum of the radii from the eclipsed body's center, in the direction opposite to the Moon's motion.",
+          "hindi": "प्रथम स्पर्श पर, छाया केंद्र ग्रहण पाने वाले पिंड के केंद्र से त्रिज्याओं के योग की दूरी पर, चंद्रमा की गति के विपरीत दिशा में होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "मोक्षकाले तु छायायाः केन्द्रं व्यासार्धयोगतः ।\nपूर्वेऽन्यत्रैव चन्द्रस्य गत्या स्थापयेन्नरः ॥ ७ ॥",
+          "english": "At last contact, the shadow center is at the same distance but in the forward direction of the Moon's motion.",
+          "hindi": "अंतिम स्पर्श पर, छाया केंद्र उसी दूरी पर लेकिन चंद्रमा की गति की आगे की दिशा में होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "पर्वकाले त्वतिसमीपस्थं केन्द्रं विक्षेपतः ।\nस्पर्शमोक्षमध्यस्थं वृत्तयोरन्तरे स्थितम् ॥ ८ ॥",
+          "english": "The position of the shadow at mid-eclipse is at the point of minimum distance between the two centers.",
+          "hindi": "मध्य-ग्रहण पर छाया की स्थिति दो केंद्रों के बीच न्यूनतम दूरी के बिंदु पर होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "चापद्वयेन विलिखेत् छायावृत्तस्य सञ्चारम् ।\nस्पर्शमोक्षमध्यस्थं पश्येद् ग्रहणसञ्चरम् ॥ ९ ॥",
+          "english": "Draw arcs to show the successive positions of the shadow to illustrate the progression of the eclipse visually.",
+          "hindi": "ग्रहण की प्रगति को दृश्य रूप से दिखाने के लिए छाया की क्रमागत स्थितियाँ दर्शाने के लिए चाप बनाएं।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "रक्तो धूम्रो भवेत् पीतः कृष्णोऽग्न्यम्बुदसन्निभः ।\nएवं ग्रासे सूर्यस्य वर्णा भवन्ति पञ्चधा ॥ १० ॥",
+          "english": "The color of the totally eclipsed region varies from copper-red at center to dark at the edges of the umbra.",
+          "hindi": "पूर्ण ग्रहण क्षेत्र का रंग केंद्र में तांबे-लाल से गहरी छाया के किनारों पर गहरे रंग तक बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "उपच्छाया न दृश्यते तमसः परतो हि या ।\nउपच्छायाग्रहणमतो लघु ज्ञेयं विचक्षणैः ॥ ११ ॥",
+          "english": "The penumbra (chhaya) appears lighter than the umbra; the penumbral eclipse is less dramatic than the umbral eclipse.",
+          "hindi": "उपच्छाया (छाया) गहरी छाया से हल्की दिखती है; उपच्छाया ग्रहण गहरी छाया ग्रहण से कम नाटकीय होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "स्पष्टसूर्यचन्द्रौ ग्राह्यौ ग्रहणसाधने सदा ।\nमध्यमग्रहणे दोषः स्यात् कथितो विधानतः ॥ १२ ॥",
+          "english": "For accurate eclipse prediction, the astronomer must use the corrected (spashta) longitudes of both the Sun and Moon.",
+          "hindi": "सटीक ग्रहण भविष्यवाणी के लिए, खगोलज्ञ को सूर्य और चंद्रमा दोनों की सुधारी गई (स्पष्ट) देशांतर का उपयोग करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "स्वक्षेत्रभेदेन भिन्नं सूर्यग्रहणं भवेत् ।\nलम्बनभेदाद् ग्रासश्च भिन्नो देशानुसारतः ॥ १३ ॥",
+          "english": "In a solar eclipse, the parallax of the Moon causes the eclipse to be total in some places and annular or partial in others.",
+          "hindi": "सूर्यग्रहण में, चंद्रमा का लम्बन कुछ स्थानों पर ग्रहण को पूर्ण और अन्य स्थानों पर कंकणाकृति या आंशिक बना देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "ग्रहणं घोषयेद् विद्वान् लोकानां हितकाम्यया ।\nतस्मिन् काले न कर्तव्यं पुण्यकर्म विचक्षणैः ॥ १४ ॥",
+          "english": "The astronomer should announce the eclipse publicly for people to perform religious observances. Silence and negligence are censured.",
+          "hindi": "खगोलज्ञ को लोगों को धार्मिक अनुष्ठान करने के लिए ग्रहण की सार्वजनिक घोषणा करनी चाहिए। मौन और लापरवाही की निंदा की जाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "वेधेनैव परीक्षार्थं कल्पितं शास्त्रमुच्यते ।\nशङ्कुयन्त्रादिभिश्चैव परीक्षेत् सुविचक्षणः ॥ १५ ॥",
+          "english": "The eclipse calculation should always be verified by actual observation; the gnomon and other instruments help confirm theoretical predictions.",
+          "hindi": "ग्रहण की गणना हमेशा वास्तविक अवलोकन द्वारा सत्यापित की जानी चाहिए; शंकु और अन्य उपकरण सैद्धांतिक भविष्यवाणियों की पुष्टि करने में मदद करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "इत्येवं ग्रहणं प्रोक्तं वलनं च विशेषतः ।\nयः पठेत् स विजानीयाद् ग्रहणविद्यां पराम् ॥ १६ ॥",
+          "english": "Thus ends the description of the eclipse diagram (valana). The expert astronomer should practice these calculations repeatedly for accuracy.",
+          "hindi": "इस प्रकार ग्रहण आरेख (वलन) का वर्णन समाप्त होता है। विशेषज्ञ खगोलज्ञ को सटीकता के लिए इन गणनाओं का बार-बार अभ्यास करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "उदयास्तगणना ज्ञेया खचरस्य खगोलतः ।\nतत्साधनं प्रवक्ष्यामि यथाशास्त्रं तथा शृणु ॥ १७ ॥",
+          "english": "The rising and setting of celestial bodies is related to the observer's latitude; the heliacal rising and setting of planets is covered next.",
+          "hindi": "खगोलीय पिंडों का उदय और अस्त प्रेक्षक के अक्षांश से संबंधित है; ग्रहों का सूर्योदय के साथ उदय और अस्त आगे वर्णित है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "नभोमण्डलगतिभेदात् स्पष्टोऽर्कः स्यादुदिक्ततः ।\nभवेच्चापवशाद् वृद्धिर्दृक्कर्माभ्यो भवत्यलम् ॥ १८ ॥",
+          "english": "Correction for atmospheric refraction (unnatamsha correction): the astronomical horizon appears lower than the geometric horizon due to refraction.",
+          "hindi": "वायुमंडलीय अपवर्तन के लिए सुधार (उन्नतांश सुधार): खगोलीय क्षितिज अपवर्तन के कारण ज्यामितीय क्षितिज से नीचा दिखता है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "अर्कसन्निधौ खचरा न दृश्यन्ते रविप्रभात् ।\nदूरे स्युः खचरा ये ते दृश्यन्ते निशि भास्वरे ॥ १९ ॥",
+          "english": "The planets near the Sun are invisible due to solar glare. Their visibility limit depends on their angular separation from the Sun.",
+          "hindi": "सूर्य के पास के ग्रह सौर चकाचौंध के कारण अदृश्य होते हैं। उनकी दृश्यता सीमा सूर्य से उनके कोणीय पृथक्करण पर निर्भर करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "अस्तोदयाङ्शा ज्ञेयाः खचराणां विधानतः ।\nशुक्रस्य नव भागाः स्युर्बृहस्पतेरेकादश ॥ २० ॥",
+          "english": "The visibility limits for the planets are: Venus 9°, Jupiter 11°, Mercury 12°, Mars 17°, Saturn 15° from the Sun.",
+          "hindi": "ग्रहों की दृश्यता सीमाएँ: शुक्र ९°, बृहस्पति ११°, बुध १२°, मंगल १७°, शनि १५° सूर्य से।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

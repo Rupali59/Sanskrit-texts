@@ -1,0 +1,156 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 2,
+      "title": "स्पष्टाधिकारः",
+      "title_en": "Chapter on True Motions",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "भुजकोटिज्ये मध्यमे करणं स्याद् गुणस्तथा ।\nमन्दोच्चात् केन्द्रमानीय मन्दफलमाचरेत् ॥ १ ॥",
+          "english": "Having calculated the mean longitude (madhyama) of a planet, the astronomer should apply the correction for the equation of center (manda samskara) to find the true longitude.",
+          "hindi": "ग्रह की मध्यम देशांतर (मध्यम) की गणना करने के बाद, खगोलज्ञ को केंद्र समीकरण (मंद संस्कार) के लिए सुधार लागू करके सत्य देशांतर प्राप्त करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "ग्रहमन्दोच्चयोगार्धं स्फुटीकुर्याद् विधानतः ।\nतद्वत् शीघ्रोच्चभागांशात् शीघ्रफलमुदीरितम् ॥ २ ॥",
+          "english": "The orbit (kaksya) of a planet is a circle. The manda epicycle represents the planet's apogee-correction orbit, centered on the mean planet.",
+          "hindi": "ग्रह की कक्षा एक वृत्त है। मंद अधिवृत्त (एपिसायकल) मध्यम ग्रह को केंद्र मानकर उच्च-सुधार कक्षा को दर्शाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "सूर्यचन्द्रयोर्मन्दो भवत्येवेति केवलम् ।\nपञ्चानामपि मन्दं च शीघ्रं चेति द्विधा भवेत् ॥ ३ ॥",
+          "english": "For the Sun and Moon there is only one correction (manda); for the five planets (Mars, Mercury, Jupiter, Venus, Saturn) there are two corrections: manda and sighrocca.",
+          "hindi": "सूर्य और चंद्रमा के लिए केवल एक संस्कार (मंद) है; पाँच ग्रहों (मंगल, बुध, बृहस्पति, शुक्र, शनि) के लिए दो संस्कार हैं: मंद और शीघ्रोच्च।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "रव्युच्चे क्रोडहीनं मन्दे भागानां वलयम् ।\nशतत्रयं कुजार्काणां षट्चत्वारिंशदेव च ॥ ४ ॥",
+          "english": "The manda epicycle radii for the planets in degrees at the zodiacal apex are: Sun 14, Moon 32, Mars 75, Mercury 30, Jupiter 33, Venus 12, Saturn 49.",
+          "hindi": "राशि-शीर्ष पर ग्रहों के मंद अधिवृत्त की त्रिज्याएँ अंशों में: सूर्य १४, चंद्र ३२, मंगल ७५, बुध ३०, बृहस्पति ३३, शुक्र १२, शनि ४९।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "शीघ्रकर्णस्य वलयं कुजादेर्भागसंख्यया ।\nपञ्चविंशत्यधिकं द्वे शते बुधशुक्रयोः ॥ ५ ॥",
+          "english": "The sighrocca epicycle radii are: Mars 235, Mercury 133, Jupiter 70, Venus 262, Saturn 39.",
+          "hindi": "शीघ्र अधिवृत्त की त्रिज्याएँ: मंगल २३५, बुध १३३, बृहस्पति ७०, शुक्र २६२, शनि ३९।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "उच्चहीनं ग्रहं कृत्वा तज्ज्यां शीघ्रफले क्षिपेत् ।\nव्यासार्धेन हृते लब्धं मन्दफलमुच्यते ॥ ६ ॥",
+          "english": "Having subtracted the longitude of the apogee from the mean planet, compute the sine (jyā) of that arc. Multiply by the epicycle radius and divide by the radius (3438).",
+          "hindi": "मध्यम ग्रह में से उच्च की देशांतर घटाकर उस चाप की ज्या (साइन) की गणना करें। उसे अधिवृत्त त्रिज्या से गुणा करें और त्रिज्या (३४३८) से भाग दें।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "तद् द्विधाप्यृणमेव स्यान्मृगादौ धनमन्यतः ।\nस्पष्टः स्यात् सौम्यवृत्तात् सप्तमांशस्त्वयं मतः ॥ ७ ॥",
+          "english": "The result gives the correction in minutes (kala). Added or subtracted from the mean planet, depending on whether the anomaly (kendra) is in the first or second half of the circle, it yields the mandaphala.",
+          "hindi": "परिणाम कलाओं में सुधार देता है। यह केंद्र (कोण) के पहले या दूसरे अर्धभाग में होने के अनुसार जोड़ने या घटाने पर मंदफल देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "मेषादौ कर्कटान्तेऽर्धे कर्कटादि मकरान्तके ।\nऋणं ग्रहस्य मन्दाभ्यां मृगाद्यर्धे तु धनम् ॥ ८ ॥",
+          "english": "When the anomaly is in the first half (0°–180°), the correction is subtractive; when in the second half (180°–360°), it is additive, for the Sun and Moon.",
+          "hindi": "जब केंद्र पहले अर्धभाग (०°–१८०°) में हो तो सुधार घटाव होता है; दूसरे अर्धभाग (१८०°–३६०°) में होने पर योग होता है — सूर्य और चंद्र के लिए।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "मन्दस्पष्टः परः पञ्चानां शीघ्रोच्चे केन्द्रमाश्रयेत् ।\nशीघ्रोच्चहीनो मन्दस्तः शीघ्रकेन्द्रं तदुच्यते ॥ ९ ॥",
+          "english": "The true planet corrected by the manda equation is called the manda-spashta. For the five planets, the second correction (sighrocca) must also be applied.",
+          "hindi": "मंद समीकरण से सुधारा गया ग्रह 'मंद-स्पष्ट' कहलाता है। पाँच ग्रहों के लिए दूसरा सुधार (शीघ्रोच्च) भी लगाना होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "शीघ्रवृत्तात् स्पष्टस्तत्र शीघ्रकर्णो भवेत्ततः ।\nशीघ्रज्यया गुणं कर्णं शीघ्रफलं तदुच्यते ॥ १० ॥",
+          "english": "The sighrocca equation: subtract the manda-spashta from the sighrocca longitude to get the sighrakendra. Compute its sine and apply the sighraphala as before.",
+          "hindi": "शीघ्र समीकरण: मंद-स्पष्ट में से शीघ्रोच्च की देशांतर घटाकर शीघ्रकेंद्र प्राप्त होता है। उसकी ज्या की गणना करें और शीघ्रफल पूर्ववत् लगाएं।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "स्पष्टग्रहाद् द्युचरतिर्दिनैकभेदतः ।\nऊनाधिकत्वाद् वक्रादि गति ज्ञेया बुधादिषु ॥ ११ ॥",
+          "english": "The true (sphuta) longitude is thus obtained. The rate of motion (gati) is found by computing the difference in longitude in one day.",
+          "hindi": "इस प्रकार सत्य (स्फुट) देशांतर प्राप्त होती है। एक दिन में देशांतर का अंतर ज्ञात करने से गति (दैनिक गति) मिलती है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "त्रिभजीवाः समाः सर्वाः समकोणाचितास्तथा ।\nव्यासार्धेन गुणं भक्तं जीवावर्गस्तदुच्यते ॥ १२ ॥",
+          "english": "The celestial circle (bhagola) has a radius of 3438 minutes. The sines (jyā) of arcs are tabulated at intervals of 3°45' (225 minutes of arc).",
+          "hindi": "खगोलीय वृत्त (भगोल) की त्रिज्या ३४३८ कला है। चापों की ज्याएँ (साइन) ३°४५' (२२५ कला के अंतराल) पर सारणीबद्ध हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "पञ्चविंशत्यधिके द्वे शते प्रथमज्याः ।\nचतुर्विंशत्यधिकं चैकमधिकं शते त्रयोदशी ॥ १३ ॥",
+          "english": "The twenty-four sines from 3°45' to 90° are: 225, 449, 671, 890, 1105, 1315, 1520, 1719, 1910, 2093, 2267, 2431, 2585, 2728, 2859, 2978, 3084, 3177, 3256, 3321, 3372, 3409, 3431, 3438.",
+          "hindi": "३°४५' से ९०° तक की चौबीस ज्याएँ: २२५, ४४९, ६७१, ८९०, ११०५, १३१५, १५२०, १७१९, १९१०, २०९३, २२६७, २४३१, २५८५, २७२८, २८५९, २९७८, ३०८४, ३१७७, ३२५६, ३३२१, ३३७२, ३४०९, ३४३१, ३४३८।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "कोटिज्या जीवभेदाः स्युः उत्क्रमज्याः पृथक् क्रमात् ।\nव्यासार्धहीना ज्या कोटिरुत्क्रमज्योच्यते ॥ १४ ॥",
+          "english": "The differences of successive sines yield the cosines (koṭijyā). The Rversed sine (utkramajyā) is 3438 minus the cosine.",
+          "hindi": "क्रमागत ज्याओं का अंतर कोटिज्याएँ (कोसाइन) देता है। उत्क्रमज्या = ३४३८ – कोटिज्या।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "पातहीनो ग्रहः पातः परिलिप्ताः स विक्षेपः ।\nचन्द्रस्य परमः क्षेपो विकलाः सप्ततिर्भवेत् ॥ १५ ॥",
+          "english": "The latitude of a planet (viksepa) is computed from its orbit's inclination to the ecliptic. The maximum latitude of the Moon is 270 minutes.",
+          "hindi": "ग्रह का अक्षांश (विक्षेप) क्रांतिवृत्त से उसकी कक्षा के झुकाव से गणना किया जाता है। चंद्रमा का अधिकतम अक्षांश २७० कला है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "कुजशनिबुधयोर्बुध एतच्छान्तिः तदर्धकम् ।\nगुरुशुक्रयोस्तु कथितो विक्षेपो भागसंख्यया ॥ १६ ॥",
+          "english": "The maximum latitudes of the five planets: Mars 90', Mercury 120', Jupiter 60', Venus 120', Saturn 120' minutes.",
+          "hindi": "पाँच ग्रहों के अधिकतम अक्षांश: मंगल ९०', बुध १२०', बृहस्पति ६०', शुक्र १२०', शनि १२०' कला।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "पातोत्तरे ग्रहे क्षेपः उत्तरो दक्षिणस्तथा ।\nपातदक्षिणे तु दक्षिणः क्षेपो भवत्ययम् ॥ १७ ॥",
+          "english": "The latitude is positive (north) when the planet is at the ascending node side, and negative (south) when at the descending node side.",
+          "hindi": "जब ग्रह आरोही पात की ओर हो तो अक्षांश उत्तरी (धनात्मक) होता है, और जब अवरोही पात की ओर हो तो दक्षिणी (ऋणात्मक)।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "परमो भुजभागः स्यात् चतुर्विंशतिरेव च ।\nतस्य ज्यागुणिता राशेः क्रान्तिर्ज्ञेया विदुषा ॥ १८ ॥",
+          "english": "The obliquity of the ecliptic is 24 degrees. The declination of the Sun is calculated from its true longitude on the ecliptic.",
+          "hindi": "क्रांतिवृत्त का झुकाव (ऑब्लिक्विटी) २४ डिग्री है। सूर्य का क्रांति उसकी क्रांतिवृत्त पर सत्य देशांतर से गणना की जाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "स्वाहोरात्रवृत्तस्थः सूर्यः स्वे पात उच्यते ।\nक्रान्त्या त्वर्कस्य तज्ज्यागुणितं व्यासार्धभाजितम् ॥ १९ ॥",
+          "english": "The maximum declination of the Sun is 24°. The declination for any longitude is: sin(declination) = sin(24°) × sin(longitude).",
+          "hindi": "सूर्य का अधिकतम क्रांति (अपक्रम) २४° है। किसी भी देशांतर के लिए: sin(क्रांति) = sin(२४°) × sin(देशांतर)।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "उदयास्तमये भेदो लम्बनं ग्रहणादिषु ।\nचरखण्डसमायुक्तं लङ्कोदयगुणादितम् ॥ २० ॥",
+          "english": "The right ascension (lankodaya) is calculated from the oblique ascension by correcting for the terrestrial latitude. Ascensional difference (cara) is the key intermediate value.",
+          "hindi": "सम-उदय (लंकोदय) को भूमध्यरेखीय उदय में स्थानीय अक्षांश के लिए सुधार करके प्राप्त किया जाता है। चरखंड (cara) प्रमुख मध्यवर्ती मान है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 9,
+      "title": "उदयास्ताधिकारः",
+      "title_en": "Chapter on Risings and Settings",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "खचराणां उदयास्तं वक्ष्ये रव्यन्तरेण च ।\nयत्र दृश्यन्ते खगाः तत्र साध्यं प्रयत्नतः ॥ १ ॥",
+          "english": "Now the rising and setting of planets: they become visible when sufficiently separated from the Sun, and invisible when too close.",
+          "hindi": "अब ग्रहों का उदय और अस्त: जब सूर्य से पर्याप्त पृथक् हों तो दृश्य होते हैं, और बहुत करीब होने पर अदृश्य।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "शुक्रस्य नव भागाः स्यात् भानोरुदयास्तके ।\nगुरोरेकादश प्रोक्ताः बुधद्वादश कीर्तितम् ॥ २ ॥",
+          "english": "The visibility limit in degrees for each planet differs: Venus is visible at 9°, Jupiter at 11°, Mercury at 12°, Mars at 17°, Saturn at 15°.",
+          "hindi": "प्रत्येक ग्रह के लिए दृश्यता सीमा अलग होती है: शुक्र ९°, बृहस्पति ११°, बुध १२°, मंगल १७°, शनि १५° पर दृश्य।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "उत्तरे क्षेपवान् ग्रहः पूर्वे दृश्यतरो भवेत् ।\nदक्षिणे क्षेपवान् ग्रहः पश्चिमे शस्यते नरैः ॥ ३ ॥",
+          "english": "The actual visibility also depends on the planet's latitude: a planet with northern latitude is more easily visible in the east, and southern latitude in the west.",
+          "hindi": "वास्तविक दृश्यता ग्रह के अक्षांश पर भी निर्भर करती है: उत्तरी अक्षांश वाला ग्रह पूर्व में अधिक आसानी से दिखता है, और दक्षिणी अक्षांश वाला पश्चिम में।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "स्वतिर्यगुदयेन स्फुटमेलनं सर्वदा ।\nस्थानिकाक्षांशभेदेन भागभेदः प्रजायते ॥ ४ ॥",
+          "english": "The angular separation of the planet from the Sun, corrected for the oblique ascension at the local latitude, gives the effective elongation.",
+          "hindi": "स्थानीय अक्षांश पर तिर्यक् उदय के लिए सुधारी गई ग्रह और सूर्य के बीच की कोणीय दूरी प्रभावी दीर्घकाय कोण देती है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "भागाधिके दिगन्तरे पूर्वे दृश्यो ग्रहो भवेत् ।\nन्यूने भागे पश्चिमे स्याद् अस्तो ग्रहः प्रकीर्तितः ॥ ५ ॥",
+          "english": "When the corrected elongation exceeds the visibility limit, the planet rises heliacally in the east; when it falls below, the planet sets heliacally in the west.",
+          "hindi": "जब सुधारी गई दीर्घकाय कोण दृश्यता सीमा से अधिक हो, तो ग्रह पूर्व में सौर उदय करता है; जब नीचे गिरे, तो ग्रह पश्चिम में सौर अस्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "वक्री ग्रहः पश्चिमतो अस्तोदयौ करोति यत् ।\nमार्गी पूर्वे उदयः पश्चिमे च अस्तो भवेद् ध्रुवम् ॥ ६ ॥",
+          "english": "The retrograde planet sets in the west before heliacal setting and rises in the east after heliacal rising, since retrograde motion is opposite to the Sun's apparent motion.",
+          "hindi": "वक्री ग्रह सौर अस्त से पहले पश्चिम में अस्त होता है और सौर उदय के बाद पूर्व में उगता है, क्योंकि वक्री गति सूर्य की आभासी गति के विपरीत होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "अवरग्रहयोः शुक्रबुधयोर्दृश्यतां द्विधा ।\nप्रातःकालिको वा स्यात् सायंकालिको भवेत्तथा ॥ ७ ॥",
+          "english": "Mercury and Venus (inferior planets) have two visibility phases: morning star (in the east before sunrise) and evening star (in the west after sunset).",
+          "hindi": "बुध और शुक्र (अवर ग्रह) की दो दृश्यता चरण होते हैं: प्रातःकालीन तारा (सूर्योदय से पहले पूर्व में) और सायंकालीन तारा (सूर्यास्त के बाद पश्चिम में)।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "प्रातस्तारा शुक्रो यदा पूर्वे उदेति भास्करात् ।\nसायंतारा पश्चिमे यदा अस्तं ययाद् रवौ ॥ ८ ॥",
+          "english": "Venus as a morning star rises before the Sun, and as an evening star sets after the Sun. The transitions occur at inferior and superior conjunctions.",
+          "hindi": "शुक्र प्रातःकालीन तारे के रूप में सूर्य से पहले उगता है, और सायंकालीन तारे के रूप में सूर्य के बाद अस्त होता है। संक्रमण अवर और श्रेष्ठ संयोजनों पर होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "भागसाम्याद् उदयास्तकालं साधयेद् विधिवत् ।\nरव्यन्तरं यत्र सम्पन्नं दृश्यतां प्राप्नुयाद् ग्रहः ॥ ९ ॥",
+          "english": "The time of heliacal rising or setting can be calculated by finding when the planet's corrected elongation equals the visibility limit.",
+          "hindi": "सौर उदय या अस्त का समय ग्रह की सुधारी गई दीर्घकाय कोण के दृश्यता सीमा के बराबर होने पर ज्ञात करके गणना की जा सकती है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "रव्यन्तर्धानकालस्तु ग्रहाणां भिन्नभिन्नकः ।\nबुधस्याविर्भवः स्यात् स्वकेन्द्रानुगुणं सदा ॥ १० ॥",
+          "english": "The duration of invisibility (antaradhana) of each planet near the Sun is: Sun itself never sets; Moon: 2-3 days; Mercury: 10-30 days depending on anomaly.",
+          "hindi": "सूर्य के पास प्रत्येक ग्रह की अदृश्यता की अवधि (अंतर्धान): सूर्य स्वयं कभी अस्त नहीं होता; चंद्रमा: २-३ दिन; बुध: केंद्र के आधार पर १०-३० दिन।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "चन्द्रस्य तु उदयास्तः सर्वत्र न भवेत्तथा ।\nअमावास्यां लुप्यते किञ्चित्कालं प्रतिमासतः ॥ ११ ॥",
+          "english": "The Moon is not subject to heliacal phenomena in the same way as planets; it is visible through most of the month and disappears for 2-3 days near new moon.",
+          "hindi": "चंद्रमा ग्रहों की तरह सौर घटनाओं के अधीन नहीं है; यह महीने के अधिकांश समय दृश्य रहता है और अमावस्या के पास २-३ दिनों के लिए अदृश्य हो जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "कर्णाल्पत्वेन प्रभावः शुक्रस्य महत्तमः ।\nदिवापि दृश्यते शुक्रः स्वप्रभायाधिक्यतः ॥ १२ ॥",
+          "english": "The brightness of planets varies with their distance from Earth. Venus at its brightest has a magnitude of -4, making it visible even in daylight.",
+          "hindi": "पृथ्वी से दूरी के साथ ग्रहों की चमक बदलती है। अपनी सर्वाधिक चमक पर शुक्र का परिमाण -४ होता है, जो इसे दिन के उजाले में भी दृश्य बनाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "तारकाणामपि उदयः ग्रहवत् साधयेद् बुधः ।\nअगस्त्यस्योदये विशेषः पञ्चषष्टिभागतः ॥ १३ ॥",
+          "english": "The rising and setting of stars (nakshatras) follows similar rules. The heliacal rising of Agastya (Canopus) marks an important calendar event in India.",
+          "hindi": "तारों (नक्षत्रों) का उदय और अस्त समान नियमों का पालन करता है। अगस्त्य (कैनोपस) का सौर उदय भारत में एक महत्वपूर्ण कैलेंडर घटना को चिह्नित करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "अगस्त्यः पञ्चषष्टि भागाद् रव्युदेति यदा ।\nवर्षाकालाद् द्वितीये मासे प्रायेण भवेत्तथा ॥ १४ ॥",
+          "english": "Agastya (Canopus) rises heliacally when it is separated from the Sun by at least 65°; this occurs about two months after the monsoon begins.",
+          "hindi": "अगस्त्य (कैनोपस) सौर उदय करता है जब वह सूर्य से कम से कम ६५° पृथक् होता है; यह मानसून शुरू होने के लगभग दो महीने बाद होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "उदयास्तसाधनं ज्ञेयं पञ्चाङ्गज्ञाय सर्वदा ।\nकृष्यादिकर्मणे चापि धर्मकर्मणि साधवे ॥ १५ ॥",
+          "english": "The rising and setting calculations are important for the calendar (panchanga) and for planning agricultural, religious, and social activities.",
+          "hindi": "उदय और अस्त गणना पंचांग और कृषि, धार्मिक तथा सामाजिक गतिविधियों की योजना के लिए महत्वपूर्ण हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "प्रत्येकस्य ग्रहस्यापि प्रथमदर्शनं सदा ।\nवेधेन संग्रहीतव्यं गणनाशुद्धये बुधैः ॥ १६ ॥",
+          "english": "The astronomer should observe the first visibility of each planet carefully and record it for comparison with calculations.",
+          "hindi": "खगोलज्ञ को प्रत्येक ग्रह की पहली दृश्यता को सावधानी से देखना चाहिए और गणनाओं के साथ तुलना के लिए इसे रिकॉर्ड करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "वेधगणनयोर्भेदे हेतुं विचारयेत् बुधः ।\nग्रहस्थानं दृग्व्यत्यासो वायुमण्डलभेदतः ॥ १७ ॥",
+          "english": "If the calculated and observed first visibility times differ significantly, the astronomer should investigate the cause: errors in planet position, visibility limit, or atmospheric conditions.",
+          "hindi": "यदि गणना और अवलोकित पहली दृश्यता में महत्वपूर्ण अंतर हो, तो खगोलज्ञ को कारण की जाँच करनी चाहिए: ग्रह स्थिति, दृश्यता सीमा या वायुमंडलीय स्थितियों में त्रुटियाँ।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "उदयास्तसाधनं ज्ञेयं खगोलशास्त्रविदो ध्रुवम् ।\nवेधाभ्यासेन तुल्यं स्याच्छास्त्रज्ञानं विशेषतः ॥ १८ ॥",
+          "english": "Thus, the computation of heliacal rising and setting is both an astronomical and observational science requiring careful practice.",
+          "hindi": "इस प्रकार, सौर उदय और अस्त की गणना एक खगोलीय और अवलोकनात्मक विज्ञान है जिसके लिए सावधानीपूर्वक अभ्यास की आवश्यकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "त्रिप्रश्नज्ञः खचरदर्शी विद्वान् सर्वज्ञ उच्यते ।\nखगोलज्ञो यत्नतो ज्ञेयाः सर्वघटनाः खगे ॥ १९ ॥",
+          "english": "The astronomer who masters the three questions (time, place, direction) and the visibility phenomena can predict all celestial events accurately.",
+          "hindi": "जो खगोलज्ञ तीन प्रश्नों (समय, स्थान, दिशा) और दृश्यता घटनाओं में निपुण है, वह सभी खगोलीय घटनाओं की सटीक भविष्यवाणी कर सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "इति उदयास्ताधिकारः समाप्त इह कीर्तितः ।\nज्ञानं पवित्रं शुभदायि सदा ज्ञातव्यमेव च ॥ २० ॥",
+          "english": "Thus ends the chapter on rising and setting (udayasta). The knowledge herein is both practical and sacred.",
+          "hindi": "इस प्रकार उदय-अस्त अधिकार समाप्त होता है। यहाँ का ज्ञान व्यावहारिक और पवित्र दोनों है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

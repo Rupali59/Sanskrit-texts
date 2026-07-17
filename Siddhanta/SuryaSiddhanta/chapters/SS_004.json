@@ -1,0 +1,156 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 4,
+      "title": "चन्द्रग्रहणाधिकारः",
+      "title_en": "Chapter on Lunar Eclipses",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "भूभायां निपतत्यिन्दुः पूर्णिमायां भवेत्ततः ।\nचन्द्रग्रहणं विज्ञेयं पर्वान्ते विमलेन्दुना ॥ १ ॥",
+          "english": "The Moon's shadow falls on the Earth causing a lunar eclipse. The shadow is conical; its length depends on the ratio of the diameters of the Sun and Moon.",
+          "hindi": "चंद्रमा की छाया पृथ्वी पर पड़ने से चंद्रग्रहण होता है। छाया शंक्वाकार होती है; इसकी लंबाई सूर्य और चंद्रमा के व्यासों के अनुपात पर निर्भर करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "सूर्यस्य परिधिः प्रोक्तः षट्षष्टिर्द्विशती भवेत् ।\nचत्वारिंशच्च विंशत्यः सप्ताशीत्यङ्गुलोच्यते ॥ २ ॥",
+          "english": "The true diameters of the Sun and Moon in minutes are related to their distances. The Sun's diameter is 6522 yojanas; the Moon's is 480 yojanas.",
+          "hindi": "सूर्य और चंद्रमा के वास्तविक व्यास कलाओं में उनकी दूरियों से संबंधित हैं। सूर्य का व्यास ६५२२ योजन है; चंद्रमा का ४८० योजन।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "सूर्यबिम्बं चन्द्रबिम्बं स्वव्यासार्धगुणं तदा ।\nकल्पीयभगणैर्विभज्य विकलाः स्युस्तथा ॥ ३ ॥",
+          "english": "The apparent diameter of the Sun in minutes: divide its true diameter by the distance in yojanas and multiply by 3438.",
+          "hindi": "कलाओं में सूर्य का आभासी व्यास: उसके वास्तविक व्यास को योजनों में दूरी से भाग दें और ३४३८ से गुणा करें।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "मध्यमे स्पष्टभेदे तु बिम्बमानं पृथक् त्रयम् ।\nस्वस्वव्यासार्धहीनेन ज्ञातव्यं सूर्यचन्द्रयोः ॥ ४ ॥",
+          "english": "At mean distance, the apparent diameters are: Sun 32', Moon 32'. These vary with the planet's anomaly.",
+          "hindi": "मध्यम दूरी पर आभासी व्यास: सूर्य ३२', चंद्रमा ३२'। ये ग्रह के केंद्र के साथ बदलते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "भूच्छाया दीर्घता ज्ञेया षट्पञ्चाशत्सहस्रकम् ।\nयोजनानां तु मानं तत् सूर्यभूव्यासयोगतः ॥ ५ ॥",
+          "english": "The umbra (tamogarbha) of the Earth has a length of 1,581,924 yojanas at mean Sun distance.",
+          "hindi": "पृथ्वी की गहरी छाया (तमोगर्भ) की लंबाई मध्यम सूर्य दूरी पर १,५८१,९२४ योजन है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "छायाद्रव्यासकं तत्र भूव्यासोनं तदार्धकम् ।\nचन्द्रस्य विक्षेपो येन ग्राह्यस्तेनैव साधितम् ॥ ६ ॥",
+          "english": "The diameter of the Earth's shadow at the Moon's distance is found by: Earth shadow diameter = Earth diameter × (Earth shadow length – Moon distance) / Earth shadow length.",
+          "hindi": "चंद्रमा की दूरी पर पृथ्वी की छाया का व्यास: पृथ्वी छाया व्यास = पृथ्वी व्यास × (पृथ्वी छाया लंबाई – चंद्र दूरी) / पृथ्वी छाया लंबाई।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "भूभाव्यासार्धसहितो विक्षेपो यदि न्यूनो भवेत् ।\nतदा ग्रहणमर्कस्य चन्द्रस्य भवति ध्रुवम् ॥ ७ ॥",
+          "english": "An eclipse occurs when the Moon at full moon is within the eclipse limit, i.e., when the sum of the half-diameters of the Moon and Earth's shadow exceeds the Moon's latitude.",
+          "hindi": "ग्रहण तब होता है जब पूर्णिमा का चंद्रमा ग्रहण सीमा के भीतर हो, अर्थात् चंद्रमा और पृथ्वी की छाया के अर्धव्यासों का योग चंद्रमा के अक्षांश से अधिक हो।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "छायाचन्द्रव्यासयोगार्धं विक्षेपाधिकमेव ना ।\nशोध्यमर्धव्यासयोगाद् ग्रासफलं भवेत्तदा ॥ ८ ॥",
+          "english": "The eclipse limit for a lunar eclipse: the sum of the radii of the Moon and Earth's umbra must exceed the Moon's latitude.",
+          "hindi": "चंद्रग्रहण के लिए ग्रहण सीमा: चंद्रमा और पृथ्वी की गहरी छाया की त्रिज्याओं का योग चंद्रमा के अक्षांश से अधिक होना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "स्पर्शमोक्षयोः कालार्धं योगव्यासार्धभेदतः ।\nचन्द्रगत्यन्तरेण भक्तं ग्रासकालो भवेत्तथा ॥ ९ ॥",
+          "english": "The half-duration (sparsha to parva) of an eclipse is computed from the relative velocity of the Moon and the shadow diameter.",
+          "hindi": "ग्रहण की अर्ध-अवधि (स्पर्श से पर्व तक) चंद्रमा की सापेक्ष गति और छाया व्यास से गणना की जाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "व्यासयोगार्धहीनं स्पर्शकालं पर्वकालतः ।\nव्यासयोगार्धाधिकं मोक्षकालं साधयेत्ततः ॥ १० ॥",
+          "english": "At the moment of first contact (sparsha), the distance between the Moon's center and the shadow center equals the sum of their radii.",
+          "hindi": "प्रथम स्पर्श (स्पर्श) के क्षण में, चंद्रमा के केंद्र और छाया केंद्र के बीच की दूरी उनकी त्रिज्याओं के योग के बराबर होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "निमज्जनान्तरं ज्ञेयं खग्रासार्धव्यासतः ।\nशोध्यं स्पर्शकालाद् यद्यद् खग्रासस्तदाऽर्धकम् ॥ ११ ॥",
+          "english": "The half-duration of totality (nimajjana) is the time from first contact to the beginning of totality, calculated similarly.",
+          "hindi": "पूर्णता की अर्ध-अवधि (निमज्जन) प्रथम स्पर्श से पूर्णता के आरंभ तक का समय है, जो इसी प्रकार गणना की जाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "व्यासयोगार्धहीनं यद् विक्षेपस्तन्मानकम् ।\nतद्भेदाद् ग्रासमानं स्याद् बिम्बार्धव्यासभाजितम् ॥ १२ ॥",
+          "english": "The maximum obscuration (grasa) at mid-eclipse is the difference between the sum of the radii and the Moon's latitude at that moment.",
+          "hindi": "मध्य-ग्रहण पर अधिकतम ग्रास (ग्रास) = त्रिज्याओं का योग – उस क्षण चंद्रमा का अक्षांश।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "कर्बुरो ध्वान्ततामे तु धूम्रोऽग्न्यम्बुदसंनिभः ।\nसर्वग्रासे खगे चन्द्रे रक्तो मूषिकसन्निभः ॥ १३ ॥",
+          "english": "The color of the eclipsed Moon varies: totally eclipsed Moon appears coppery red, due to the refraction of sunlight through Earth's atmosphere.",
+          "hindi": "ग्रहण लगे चंद्रमा का रंग बदलता है: पूर्ण ग्रहण में चंद्रमा तांबे जैसे लाल रंग का दिखता है, जो पृथ्वी के वायुमंडल में सूर्यप्रकाश के अपवर्तन के कारण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "ग्रहणं दृश्यते यत्र चन्द्रोऽस्तमिते यदा ।\nउदिते वा ग्रहण्यते तत्रैव तत् प्रकाशते ॥ १४ ॥",
+          "english": "Eclipses are visible from those places where the Moon is above the horizon at the time of the eclipse.",
+          "hindi": "ग्रहण उन स्थानों से दिखाई देते हैं जहाँ ग्रहण के समय चंद्रमा क्षितिज से ऊपर हो।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "वलनं ग्रहणेऽजस्रं दक्षिणोत्तरतः स्मृतम् ।\nयत्स्यान्नभसि तद्ग्राह्यं श्रेणिभागात्तदुच्यते ॥ १५ ॥",
+          "english": "The valana (deflection from the north-south direction) of a lunar eclipse is the angle between the north-south direction and the direction of eclipse contacts.",
+          "hindi": "चंद्रग्रहण का वलन (उत्तर-दक्षिण दिशा से विचलन) उत्तर-दक्षिण दिशा और ग्रहण स्पर्श बिंदुओं की दिशा के बीच का कोण है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "अक्षाद्वलनमक्षं स्यादयनात्तु तदायनम् ।\nद्वयोर्योगवियोगाभ्यां वलनं ग्रहणेऽखिलम् ॥ १६ ॥",
+          "english": "The aksha-valana (geographic deflection) is due to the terrestrial latitude; the ayana-valana (ecliptic deflection) is due to the Sun's declination.",
+          "hindi": "अक्षवलन (भौगोलिक विचलन) भूमि अक्षांश के कारण होता है; अयनवलन (क्रांतिवृत्त विचलन) सूर्य के क्रांति के कारण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "पर्वकाले विलिखितं वृत्तं विमलमण्डलम् ।\nछायाविक्षेपमानेन ग्रहणानुलिखेत्ततः ॥ १७ ॥",
+          "english": "Illustration of an eclipse diagram (anulikhya): draw circles for the Moon and the Earth's shadow with a point of contact to show the eclipse phases.",
+          "hindi": "ग्रहण आरेख (अनुलिख्य): चंद्रमा और पृथ्वी की छाया के लिए वृत्त बनाएं और ग्रहण चरण दिखाने के लिए स्पर्श बिंदु अंकित करें।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "स्पर्शादिकालभेदेन छायाकेन्द्रस्य भेदतः ।\nचन्द्रवृत्ते विलिखेत् छायावृत्तं विचक्षणः ॥ १८ ॥",
+          "english": "The time of conjunction in latitude (parva): the Moon's true latitude at the moment of full moon is used to determine if an eclipse will occur.",
+          "hindi": "अक्षांश में संयोजन का समय (पर्व): पूर्णिमा के क्षण में चंद्रमा का वास्तविक अक्षांश यह निर्धारित करने के लिए उपयोग किया जाता है कि ग्रहण होगा या नहीं।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "शनैः शनैर्मुञ्चति ग्रहणमिन्दुरेष सर्वशः ।\nग्रासक्रमेण ग्रहणं चित्रं पश्यन्ति वेधकाः ॥ १९ ॥",
+          "english": "The magnitude of a lunar eclipse: if the eclipse limit is barely exceeded, the eclipse is penumbral or very small; full totality requires the Moon to be fully within the umbra.",
+          "hindi": "चंद्रग्रहण की मात्रा: यदि ग्रहण सीमा से थोड़ा अधिक हो, ग्रहण उपच्छाया या बहुत छोटा होता है; पूर्ण पूर्णता के लिए चंद्रमा को पूरी तरह से गहरी छाया के भीतर होना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "लम्बनं नत्यनुसारं ग्रहणे सूर्यस्य साधयेत् ।\nचन्द्रगतौ तु विक्षेपे नतिं संसाध्य कारयेत् ॥ २० ॥",
+          "english": "The projection of the eclipse (drikkarma correction for Moon's parallax): applies to the apparent position of the Moon as seen from a specific location on Earth.",
+          "hindi": "ग्रहण का प्रक्षेपण (चंद्र लम्बन के लिए दृक्कर्म सुधार): पृथ्वी पर किसी विशिष्ट स्थान से दिखाई देने वाली चंद्रमा की आभासी स्थिति पर लागू होता है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

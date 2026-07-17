@@ -1,0 +1,1011 @@
+{
+  "text_id": "manu_smriti",
+  "title_sa": "मनुस्मृतिः",
+  "title_en": "Manu Smriti",
+  "category": "dharmashastra",
+  "chapter_number": 8,
+  "shlokas": [
+    {
+      "number": "8.3",
+      "sanskrit": "लेन पुनः किंचिदप्यङ्गं न स्पृशेत्। अतो रात्रौ शिष्टानामतैलशिरःस्नातानां तैलेन पादाभ्यङ्गसमाचरणमविरुद्धम्॥",
+      "english_translation": "One should not touch even a little part of the body of another while receiving a gift. Therefore, at night, for those who are well-behaved and have bathed with oil, the act of anointing the feet with oil is not contradictory.",
+      "hindi_translation": "किसी अन्य के शरीर के किसी भी हिस्से को उपहार लेते समय नहीं छूना चाहिए। इसलिए, रात में, जो लोग अच्छे व्यवहार वाले हैं और तेल से स्नान कर चुके हैं, उनके लिए पैरों को तेल से मलना असंगत नहीं है।"
+    },
+    {
+      "number": "8.4",
+      "sanskrit": "न राज्ञः प्रतिगृह्णीयादराजन्यप्रसूतितः। सूनाचक्रध्वजवतां वेशेनैव च जीवताम्॥",
+      "english_translation": "A king should not accept gifts from those born of a non-kshatriya lineage. He should live like a person with a sun, a wheel, or a flag.",
+      "hindi_translation": "राजा को गैर-क्षत्रिय वंश के लोगों से उपहार नहीं लेना चाहिए। उसे सूर्य, चक्र या ध्वज के समान जीना चाहिए।"
+    },
+    {
+      "number": "8.5",
+      "sanskrit": "दशसूनासमं चक्रं दशचक्रसमो ध्वजः। दशध्वजसमो वेशो दशवेशसमो नृपः॥",
+      "english_translation": "A wheel is equal to ten sons, a flag is equal to ten wheels, a merchant is equal to ten flags, and a king is equal to ten merchants.",
+      "hindi_translation": "एक चक्र दस पुत्रों के समान है, एक ध्वज दस चक्रों के समान है, एक व्यापारी दस ध्वजों के समान है, और एक राजा दस व्यापारियों के समान है।"
+    },
+    {
+      "number": "8.6",
+      "sanskrit": "दश सूनासहस्राणि यो वाह्यति सौनिकः। तेन तुल्यः स्मृतो राजा घोरस्तस्य प्रतिग्रहः॥",
+      "english_translation": "He who carries a thousand sons is called a soldier. A king who is equal to him is remembered as terrible, and his acceptance of gifts is dreadful.",
+      "hindi_translation": "जो हजार पुत्रों को ले जाता है, उसे सैनिक कहा जाता है। एक राजा जो उसके समान है, उसे भयानक माना जाता है, और उसका उपहार स्वीकार करना भयानक है।"
+    },
+    {
+      "number": "8.7",
+      "sanskrit": "यो राज्ञः प्रतिगृह्णाति लुब्धस्योच्छास्त्रवर्तिनः। स पर्यायेण यातीमान्नरकानेकविंशतिम्॥",
+      "english_translation": "He who accepts gifts from a greedy person who is engaged in unlawful activities will, in turn, go to twenty-one hells.",
+      "hindi_translation": "जो एक लालची व्यक्ति से उपहार स्वीकार करता है जो अवैध गतिविधियों में संलग्न है, वह बाईस नरकों में जाएगा।"
+    },
+    {
+      "number": "8.8",
+      "sanskrit": "तामित्रमिति त्रिभिः तामिस्रमन्धतामिस्रं महारौरवरौरवौ। नरकं कालसूत्रं च महानरकमेव च॥",
+      "english_translation": "The three types of hell are called Tāmra, Tāmisra, and Andhatāmisra, as well as Mahāraurava and Raurava. The hell of Kālāsūtra and the great hell are also mentioned.",
+      "hindi_translation": "तीन प्रकार के नरक ताम्र, तामिस्र और अंधतामिस्र कहलाते हैं, साथ ही महारौरव और रौरव भी। कालसूत्र का नरक और महानरक भी उल्लेखित हैं।"
+    },
+    {
+      "number": "8.9",
+      "sanskrit": "संजीवनं महावीचिं तपनं संप्रतापनम्। संहातं च सकाकोलं कुङ्मलं प्रतिमूर्तिकम्॥",
+      "english_translation": "The hells are called Sanjīvana, Mahāvīci, Tapana, Sampratāpana, and Sahākola, as well as Kuṅmala and Pratimūrtika.",
+      "hindi_translation": "नरक संजीवन, महावीचि, तपन, संप्रतापन, और सहाकोल, साथ ही कुंग्मल और प्रतिमूर्तिका कहलाते हैं।"
+    },
+    {
+      "number": "8.10",
+      "sanskrit": "लोहशङ्कुमृजीषं च पन्थानं शाल्मलीं नदीम्। असिपत्रवनं चैव लोहदारकमेव च॥",
+      "english_translation": "The hells are Lohashankumṛjiṣa, the path of Shālmali, the river, and the forest of Asipatra, as well as Lohadāraka.",
+      "hindi_translation": "नरक लोहशङ्कुमृजीष, शाल्मली का मार्ग, नदी, और असिपत्र का वन, साथ ही लोहदारक हैं।"
+    },
+    {
+      "number": "8.11",
+      "sanskrit": "एतेषां नरकाणां स्वरूपं मार्कण्डेयपुराणादिषु विस्तरेणोक्तं तत्रैवावगन्तव्यम्॥",
+      "english_translation": "The forms of these hells are elaborately described in texts like the Markandeya Purana; one should understand them there.",
+      "hindi_translation": "इन नरकों के स्वरूप को मार्कण्डेय पुराण जैसे ग्रंथों में विस्तार से वर्णित किया गया है; इसे वहीं समझना चाहिए।"
+    },
+    {
+      "number": "8.12",
+      "sanskrit": "एतद्विदन्तो विद्वांसो ब्राह्मणा ब्रह्मवादिनः। न राज्ञः प्रतिगृह्णन्ति प्रेत्य श्रेयोऽभिकाङ्क्षिणः॥",
+      "english_translation": "Those who know this, the wise Brahmins who speak of Brahman, do not accept gifts from kings, desiring the better after death.",
+      "hindi_translation": "जो इसे जानते हैं, वे ज्ञानी ब्राह्मण जो ब्रह्म की बात करते हैं, राजाओं से उपहार नहीं लेते, मृत्यु के बाद बेहतर की इच्छा करते हैं।"
+    },
+    {
+      "number": "8.13",
+      "sanskrit": "ब्राह्मे मुहूर्ते बुध्येत धर्मार्थौ चानुचिन्तयेत। कायक्लेशांश्च तन्मूलान्वेदतत्त्वार्थमेव च॥",
+      "english_translation": "A Brahmin should awaken at the Brahma muhurta and contemplate on Dharma and Artha, as well as the physical hardships and the essence of the Vedas.",
+      "hindi_translation": "एक ब्राह्मण को ब्रह्म मुहूर्त में जागना चाहिए और धर्म और अर्थ पर विचार करना चाहिए, साथ ही शारीरिक कठिनाइयों और वेदों के सार पर भी।"
+    },
+    {
+      "number": "8.14",
+      "sanskrit": "उत्थायावश्यकं कृत्वा कृतशौचः समाहितः। पूर्वां संध्यां जपंस्तिष्ठेत्स्वकाले चापरां चिरम्॥",
+      "english_translation": "After rising and performing necessary actions, having purified oneself, one should remain focused and perform the morning Sandhya and also the evening Sandhya for a long time.",
+      "hindi_translation": "उठने और आवश्यक क्रियाएँ करने के बाद, स्वयं को शुद्ध करके, एकाग्र रहना चाहिए और सुबह की संध्या और शाम की संध्या को लंबे समय तक करना चाहिए।"
+    },
+    {
+      "number": "8.15",
+      "sanskrit": "ऋषयो दीर्घसंध्यत्वाद्दीर्घमायुरवाप्नुयुः। प्रज्ञां यशश्च कीर्तिं च ब्रह्मवर्चसमेव च॥",
+      "english_translation": "The sages, due to their long practice of Sandhya, attain a long life, wisdom, fame, and the brilliance of Brahman.",
+      "hindi_translation": "ऋषि, संध्या के लंबे अभ्यास के कारण, लंबी आयु, ज्ञान, प्रसिद्धि और ब्रह्म की चमक प्राप्त करते हैं।"
+    },
+    {
+      "number": "8.16",
+      "sanskrit": "श्रावण्यां प्रौष्ठपद्यां वाप्युपाकृत्य यथाविधि। युक्तश्छन्दांस्यधीयीत मासान्विप्रोऽर्धपञ्चमान्॥",
+      "english_translation": "In the month of Shravana, during the full moon or new moon, one should study the appropriate verses of the Vedas for half a month.",
+      "hindi_translation": "श्रावण के महीने में, पूर्णिमा या अमावस्या के दौरान, एक को आधे महीने तक वेदों के उपयुक्त श्लोकों का अध्ययन करना चाहिए।"
+    },
+    {
+      "number": "8.82",
+      "sanskrit": "शुद्ध्येद्विप्रो दशाहेन द्वादशाहेन भूमिपः। वैश्यः पञ्चदशाहेन शूद्रो मासेन शुद्ध्यति॥",
+      "english_translation": "A Brahmin becomes pure in ten days, a Kshatriya in twelve days, a Vaishya in fifteen days, and a Shudra becomes pure in a month.",
+      "hindi_translation": "एक ब्राह्मण दस दिनों में, एक क्षत्रिय बारह दिनों में, एक वैश्य पंद्रह दिनों में, और एक शूद्र एक महीने में शुद्ध होता है।"
+    },
+    {
+      "number": "8.83",
+      "sanskrit": "उपनीतसपिण्डमरणे संपूर्णकालीनजनने च वृत्तस्वाध्यायादिरहितब्राह्मणो दशाहेन शुद्धो भवति। क्षत्रियो द्वादशाहेन। वैश्यः पञ्चदशाहेन। शुद्धो मासेन। तस्य चोपनयनस्थाने विवाहः॥",
+      "english_translation": "A Brahmin who is devoid of the duties of his order becomes pure in ten days after the death of a relative or after the birth of a child. A Kshatriya becomes pure in twelve days, a Vaishya in fifteen days, and a Shudra in a month. And at the time of his Upanayana, he may marry.",
+      "hindi_translation": "एक ब्राह्मण जो अपने कर्तव्यों से रहित है, वह किसी रिश्तेदार की मृत्यु या बच्चे के जन्म के बाद दस दिनों में शुद्ध होता है। एक क्षत्रिय बारह दिनों में, एक वैश्य पंद्रह दिनों में, और एक शूद्र एक महीने में शुद्ध होता है। और अपने उपनयन के समय, वह विवाह कर सकता है।"
+    },
+    {
+      "number": "8.84",
+      "sanskrit": "न वर्धयेदधाहानि प्रत्यूहेन्नाग्निषु क्रियाः। न च तत्कर्म कुर्वाणः सनाभ्योऽप्यशुचिर्भवेत्॥",
+      "english_translation": "One should not increase the days of impurity; nor should one perform any rites in the fire during this period. Nor should one who is engaged in such rites become impure even by contact with others.",
+      "hindi_translation": "किसी को अशुद्धता के दिनों को नहीं बढ़ाना चाहिए; न ही इस अवधि में अग्नि में कोई कर्म करना चाहिए। न ही जो ऐसे कर्म में संलग्न है, वह दूसरों के संपर्क से अशुद्ध होना चाहिए।"
+    },
+    {
+      "number": "8.85",
+      "sanskrit": "दिवाकीर्तिमुदक्यां च पतितं सूतिकां तथा। शवं तत्स्पृष्टिनं चैव स्पृष्ट्वा स्नानेन शुद्ध्यति॥",
+      "english_translation": "One becomes pure by bathing after touching a corpse fallen in water, a woman in childbirth, and a corpse that has been touched.",
+      "hindi_translation": "एक व्यक्ति पानी में गिरे हुए शव, प्रसव के समय की महिला, और छुए हुए शव को छूने के बाद स्नान करके शुद्ध होता है।"
+    },
+    {
+      "number": "8.86",
+      "sanskrit": "आचम्य प्रयतो नित्यं जपेदशुचिदर्शने। सौरान्मन्त्रान्यथोत्साहं पावमानीश्च शक्तितः॥",
+      "english_translation": "One should regularly perform Achamana and recite mantras according to one's capacity when seeing something impure.",
+      "hindi_translation": "किसी अशुद्ध वस्तु को देखकर, एक व्यक्ति को नियमित रूप से आचमन करना चाहिए और अपनी क्षमता के अनुसार मंत्रों का जाप करना चाहिए।"
+    },
+    {
+      "number": "8.87",
+      "sanskrit": "नारं स्पृष्ट्वास्थि सस्नेहं स्नात्वा विप्रो विशुद्ध्यति। आचम्यैव तु निःस्नेहं गामालभ्यार्कमीक्ष्य वा॥",
+      "english_translation": "A Brahmin becomes pure by bathing after touching a corpse with affection. But after touching a cow or looking at the sun, he becomes pure only by performing Achamana.",
+      "hindi_translation": "एक ब्राह्मण किसी शव को स्नेहपूर्वक छूने के बाद स्नान करके शुद्ध होता है। लेकिन गाय को छूने या सूर्य को देखने के बाद, वह केवल आचमन करके शुद्ध होता है।"
+    },
+    {
+      "number": "8.88",
+      "sanskrit": "आदिष्टी नोदकं कुर्यादाव्रतस्य समापनात्। समाप्ते तूदकं कृत्वा त्रिरात्रेणैव शुद्ध्यति॥",
+      "english_translation": "One should not perform the water rite at the end of a vow. After the vow is completed, one should perform the water rite and become pure after three nights.",
+      "hindi_translation": "एक को व्रत के अंत में जल कर्म नहीं करना चाहिए। व्रत समाप्त होने के बाद, एक को जल कर्म करना चाहिए और तीन रातों के बाद शुद्ध होना चाहिए।"
+    },
+    {
+      "number": "8.89",
+      "sanskrit": "वृथासंकरजातानां प्रव्रज्यासु च तिष्ठताम्। आत्मनस्त्यागिनां चैव निवर्तेतोदकक्रिया॥",
+      "english_translation": "Those of mixed birth should not perform the water rite; they should refrain from the water rite if they have renounced their self.",
+      "hindi_translation": "मिश्रित जन्म वाले लोगों को जल कर्म नहीं करना चाहिए; यदि उन्होंने आत्मा का त्याग किया है, तो उन्हें जल कर्म से बचना चाहिए।"
+    },
+    {
+      "number": "8.89",
+      "sanskrit": "तानां बाहुल्येन त्यक्तस्वधर्माणां संकरजातानां हीनवर्णेनोत्कृष्टस्त्रीपुत्पन्नानां वेदवाह्यरक्तपटादिप्रव्रज्यासुवर्तमानानामशास्त्रीयविपोद्बन्धनादिना कामतश्च कृतजीवितत्यागिनामुदकादिक्रिया न कर्तव्या॥",
+      "english_translation": "Due to the abundance of those who have abandoned their own duties, of mixed castes, of inferior birth, of women who have given birth to high-born sons, of those who are outside the Vedas, who are engaged in practices like wearing red cloth, and who are engaged in unregulated activities, the rites involving water and others should not be performed for those who have given up their lives due to desire.",
+      "hindi_translation": "उन लोगों की प्रचुरता के कारण जिन्होंने अपने स्वयं के धर्मों का त्याग किया है, मिश्रित जातियों के, निम्न वर्ण के, उच्च जाति के पुत्रों को जन्म देने वाली स्त्रियों के, जो वेदों के बाहर हैं, जो लाल कपड़े पहनने जैसी प्रथाओं में लगे हुए हैं, और जो अनियंत्रित गतिविधियों में लगे हुए हैं, उनके लिए इच्छाओं के कारण जीवन का त्याग करने वालों के लिए जल और अन्य क्रियाएँ नहीं की जानी चाहिए।"
+    },
+    {
+      "number": "8.90",
+      "sanskrit": "पाषण्डमाश्रितानां च चरन्तीनां च कामतः।गर्भभर्तृद्रुहां चैव सुरापीनां च योषिताम्॥",
+      "english_translation": "For those who are dependent on heretics and for those who wander about out of desire, for those who are pregnant, for those who cause abortion, and for women who are addicted to liquor.",
+      "hindi_translation": "जो लोग पाषण्डों पर निर्भर हैं और जो इच्छाओं के कारण घूमते हैं, गर्भवती महिलाओं के लिए, गर्भपात कराने वाली महिलाओं के लिए, और शराब की आदी महिलाओं के लिए।"
+    },
+    {
+      "number": "8.91",
+      "sanskrit": "आचार्यं स्वमुपाध्यायं पितरं मातरं गुरुम्।निर्हृत्य तु व्रती प्रेतान्न व्रतेन वियुज्यते॥",
+      "english_translation": "One should abandon the teacher, the own preceptor, the father, the mother, and the guru. However, the vow-taker should not be separated from the dead by the vow.",
+      "hindi_translation": "व्यक्ति को अपने आचार्य, उपाध्याय, पिता, माता और गुरु को छोड़ देना चाहिए। हालाँकि, व्रति को मृतकों से व्रत द्वारा अलग नहीं किया जाना चाहिए।"
+    },
+    {
+      "number": "8.92",
+      "sanskrit": "दक्षिणेन मृतं शूद्रं पुरद्वारेण निर्हरेत्।पश्चिमोत्तरपूर्वैस्तु यथायोगं द्विजन्मनः॥",
+      "english_translation": "A dead Shudra should be removed from the city gate towards the south. However, the twice-born should be removed according to the appropriate direction: west, north, or east.",
+      "hindi_translation": "एक मृत शूद्र को दक्षिण की ओर नगर के द्वार से हटाना चाहिए। हालाँकि, द्विजों को उचित दिशा के अनुसार हटाना चाहिए: पश्चिम, उत्तर, या पूर्व।"
+    },
+    {
+      "number": "8.93",
+      "sanskrit": "न राज्ञामघदोषोऽस्ति व्रतिनां न च सत्रिणाम्।ऐन्द्रं स्थानमुपासीना ब्रह्मभूता हि ते सदा॥",
+      "english_translation": "There is no fault of sin for kings, nor for vow-takers, nor for those who perform sacrifices. They are always Brahman, who worship the place of Indra.",
+      "hindi_translation": "राजाओं के लिए, न ही व्रति करने वालों के लिए, न ही यज्ञ करने वालों के लिए कोई पाप का दोष नहीं है। वे हमेशा ब्रह्म हैं, जो इंद्र के स्थान की पूजा करते हैं।"
+    },
+    {
+      "number": "8.94",
+      "sanskrit": "राज्ञो माहात्मिके स्थाने सद्यः शौचं विधीयते।प्रजानां परिरक्षार्थमासनं चात्र कारणम्॥",
+      "english_translation": "In the exalted position of a king, immediate purification is prescribed. The reason for this is to protect the subjects.",
+      "hindi_translation": "राजा के उच्च स्थान में, तात्कालिक शुद्धि का विधान किया गया है। इसका कारण प्रजा की रक्षा करना है।"
+    },
+    {
+      "number": "8.95",
+      "sanskrit": "डिंभाहवहतानां च विद्युता पार्थिवेन च।गोब्राह्मणस्य चैवार्थे यस्य चेच्छति पार्थिवः॥",
+      "english_translation": "For those killed in battle by the king, by lightning, and for the protection of cows and Brahmanas, the king desires immediate purification.",
+      "hindi_translation": "राजा द्वारा युद्ध में मारे गए, बिजली से, और गायों और ब्राह्मणों की रक्षा के लिए, राजा तात्कालिक शुद्धि की इच्छा करता है।"
+    },
+    {
+      "number": "8.96",
+      "sanskrit": "सोमाग्न्यर्कानिलेन्द्राणां वित्ताप्पत्योर्यमस्य च।अष्टानां लोकपालानां वपुर्धारयते नृपः॥",
+      "english_translation": "The king bears the body of the eight guardians of the world, including the Moon, Fire, Sun, Wind, and Indra, as well as the wealth of the earth and the waters.",
+      "hindi_translation": "राजा चंद्रमा, अग्नि, सूर्य, वायु, और इंद्र सहित आठ लोकपालों के शरीर को धारण करता है, साथ ही पृथ्वी और जल की संपत्ति को भी।"
+    },
+    {
+      "number": "8.97",
+      "sanskrit": "लोकेशाधिष्ठितो राजा नास्याशौचं विधीयते।शौचाशौचं हि मर्त्यानां लोकेशप्रभवाप्ययम्॥",
+      "english_translation": "The king, established by the Lord of the worlds, is not subject to impurity. For mortals, purity and impurity arise from the Lord of the worlds.",
+      "hindi_translation": "राजा, जो लोकों के भगवान द्वारा स्थापित है, अशुद्धता के अधीन नहीं है। क्योंकि मनुष्यों के लिए, शुद्धता और अशुद्धता लोकों के भगवान से उत्पन्न होती है।"
+    },
+    {
+      "number": "8.98",
+      "sanskrit": "उद्यतैराहवे शस्त्रैः क्षत्रधर्महतस्य च।सद्यः संतिष्ठते यज्ञस्तथाशौचमिति स्थितिः॥",
+      "english_translation": "In the case of a warrior who is killed in battle with raised weapons, the sacrifice and purity are established immediately.",
+      "hindi_translation": "एक योद्धा के मामले में जो युद्ध में उठाए गए हथियारों से मारा जाता है, यज्ञ और शुद्धता तुरंत स्थापित होती है।"
+    },
+    {
+      "number": "8.99",
+      "sanskrit": "विप्रः शुद्ध्यत्यपः स्पृष्ट्वा क्षत्रियो वाहनायुधम्।वैश्यः प्रतोदं रश्मीन्वा यष्टिं शूद्रः कृतक्रियः॥",
+      "english_translation": "A Brahmana becomes pure by touching water, a Kshatriya by touching weapons, a Vaishya by touching the plow, and a Shudra by performing his duties.",
+      "hindi_translation": "एक ब्राह्मण पानी को छूने से शुद्ध होता है, एक क्षत्रिय हथियारों को छूने से, एक वैश्य हल को छूने से, और एक शूद्र अपने कर्तव्यों को निभाने से।"
+    },
+    {
+      "number": "8.1",
+      "sanskrit": "न्द्वैर्मानापमानादिभिर्निर्मुक्तोऽनेन यथोक्तेन ज्ञानकर्मानुष्ठानेन ब्रह्मण्येवात्यन्तिकं लयमाप्नोति॥",
+      "english_translation": "Freed from honor and dishonor by this knowledge and action, one attains the ultimate union with Brahman.",
+      "hindi_translation": "इस ज्ञान और क्रिया द्वारा मान और अपमान से मुक्त होकर, व्यक्ति ब्रह्म के साथ अंतिम एकता को प्राप्त करता है।"
+    },
+    {
+      "number": "8.2",
+      "sanskrit": "न ह्यनध्यात्मवित्कश्चित्क्रियाफलमुपाश्नुते॥",
+      "english_translation": "Indeed, no one who is not knowledgeable in the spiritual science can attain the fruits of action.",
+      "hindi_translation": "वास्तव में, कोई भी जो आध्यात्मिक विज्ञान में ज्ञानी नहीं है, वह क्रिया के फल को प्राप्त नहीं कर सकता।"
+    },
+    {
+      "number": "8.3",
+      "sanskrit": "अधियज्ञं ब्रह्म जपेदाधिदैविकमेव च। आध्यात्मिकं च सततं वेदान्ताभिहितं च यत्॥",
+      "english_translation": "One should constantly chant the Brahman associated with the higher sacrifice, as well as the divine and spiritual aspects as prescribed in the Vedanta.",
+      "hindi_translation": "व्यक्ति को उच्च यज्ञ से संबंधित ब्रह्म का निरंतर जप करना चाहिए, साथ ही वेदांत में निर्धारित दिव्य और आध्यात्मिक पहलुओं का भी।"
+    },
+    {
+      "number": "8.4",
+      "sanskrit": "इदं शरणमज्ञानामिदमेव विजानताम्। इदमन्विच्छतां स्वर्गमिदमानन्त्यमिच्छताम्॥",
+      "english_translation": "This is the refuge for the ignorant; those who know this seek heaven, and those who desire the eternal seek this.",
+      "hindi_translation": "यह अज्ञानों के लिए शरण है; जो इसे जानते हैं, वे स्वर्ग की खोज करते हैं, और जो अनंत की इच्छा करते हैं, वे इसे खोजते हैं।"
+    },
+    {
+      "number": "8.5",
+      "sanskrit": "अनेन क्रमयोगेन परिव्रजति यो द्विजः। स विधूयेह पाप्मानं परं ब्रह्माधिगच्छति॥",
+      "english_translation": "By this sequential practice, the twice-born who renounces worldly sins attains the supreme Brahman.",
+      "hindi_translation": "इस क्रमबद्ध अभ्यास द्वारा, जो द्विज सांसारिक पापों को छोड़ता है, वह परम ब्रह्म को प्राप्त करता है।"
+    },
+    {
+      "number": "8.6",
+      "sanskrit": "एष धर्मोऽनुशिष्टो वो यतीनां नियतात्मनाम्। वेदसंन्यासिकानां तु कर्मयोगं निबोधत॥",
+      "english_translation": "This is the prescribed duty for you, O ascetics with controlled minds; but for those who have renounced the Vedas, understand the path of action.",
+      "hindi_translation": "यह आपके लिए निर्धारित धर्म है, हे संयमित मन वाले तपस्वियों; लेकिन जिन्होंने वेदों का त्याग किया है, उन्हें कर्म के मार्ग को समझना चाहिए।"
+    },
+    {
+      "number": "8.7",
+      "sanskrit": "इदानीं वेदसंन्यासिकस्य प्रतिज्ञाते कर्मयोगेऽनन्तरं वक्तुमुचितमपि वेदसंन्यासिकः पञ्चमाश्रमी निराश्रमी वा चत्वार एवाश्रमा नियता इति दर्शयितुमुक्तानाश्रमाननुवदति—ब्रह्मचारी गृहस्थश्च वानप्रस्थो यतिस्तथा।",
+      "english_translation": "Now, having established the vow of renunciation of the Vedas, it is appropriate to speak of the path of action; the renunciant, the householder, the hermit, and the ascetic are the four established orders.",
+      "hindi_translation": "अब, वेदों के त्याग की प्रतिज्ञा के साथ, कर्म के मार्ग के बारे में बोलना उचित है; त्यागी, गृहस्थ, वनवासी और तपस्वी ये चार स्थापित आश्रम हैं।"
+    },
+    {
+      "number": "8.8",
+      "sanskrit": "सर्वेऽपि क्रमशस्त्वेते यथाशास्त्रं निषेविताः। यथोक्तकारिणं विप्रं नयन्ति परमां गतिम्॥",
+      "english_translation": "All these, when followed in order according to the scriptures, lead the practitioner to the highest goal.",
+      "hindi_translation": "इन सभी का अनुसरण जब शास्त्रों के अनुसार क्रम से किया जाता है, तो यह साधक को सर्वोच्च लक्ष्य की ओर ले जाता है।"
+    },
+    {
+      "number": "8.9",
+      "sanskrit": "यथा नदीनदाः सर्वे सागरे यान्ति संस्थितिम्। तथैवाश्रमिणः सर्वे गृहस्थे यान्ति संस्थितिम्॥",
+      "english_translation": "Just as all rivers merge into the ocean, so do all orders of life find their stability in the householder.",
+      "hindi_translation": "जैसे सभी नदियाँ समुद्र में मिल जाती हैं, वैसे ही जीवन के सभी आश्रम गृहस्थ में अपनी स्थिरता पाते हैं।"
+    },
+    {
+      "number": "8.10",
+      "sanskrit": "चतुर्भिरपि चैवैतैर्नित्यमाश्रमिभिर्द्विजैः। दशलक्षणको धर्मः सेवितव्यः प्रयत्नतः॥",
+      "english_translation": "Even these four orders should be served diligently, as they embody the ten characteristics of righteousness.",
+      "hindi_translation": "इन चारों आश्रमों की सेवा भी मेहनत से की जानी चाहिए, क्योंकि वे धर्म के दस लक्षणों का प्रतिनिधित्व करते हैं।"
+    },
+    {
+      "number": "8.3",
+      "sanskrit": "न स्कन्दते न व्यथते न विनश्यति कर्हिचित्।वरिष्ठमग्निहोत्रेभ्यो ब्राह्मणस्य मुखे हुतम्॥",
+      "english_translation": "It does not rise, does not tremble, and does not perish at any time. The offering made in the mouth of a Brahmin is superior to the offerings made in the fire.",
+      "hindi_translation": "यह कभी नहीं उठता, नहीं कांपता, और नहीं नष्ट होता। ब्राह्मण के मुख में किया गया अर्पण अग्नि में किए गए अर्पणों से श्रेष्ठ है।"
+    },
+    {
+      "number": "8.4",
+      "sanskrit": "सममब्राह्मणे दानं द्विगुणं ब्राह्मणब्रुवे।प्राधीते शतसाहस्रमनन्तं वेदपारगे॥",
+      "english_translation": "The donation to a Brahmin is equal, but it is doubled when given to a Brahmin who is learned in the Vedas.",
+      "hindi_translation": "ब्राह्मण को दिया गया दान समान है, लेकिन वेदों में पारंगत ब्राह्मण को दिया गया दान दोगुना है।"
+    },
+    {
+      "number": "8.5",
+      "sanskrit": "पात्रस्य हि विशेषेण श्रद्दधानतयैव च।अल्पं वा बहु वा प्रेत्य दानस्य फलमश्रुते॥",
+      "english_translation": "The result of a donation, whether small or large, is determined by the worthiness of the recipient and the faith of the donor.",
+      "hindi_translation": "दान का फल, चाहे वह छोटा हो या बड़ा, प्राप्तकर्ता की योग्यता और दाता की श्रद्धा द्वारा निर्धारित होता है।"
+    },
+    {
+      "number": "8.6",
+      "sanskrit": "समोत्तमाधमै राजा त्वाहूतः पालयन्प्रजाः।न निवर्तेत संग्रामात्क्षात्रं धर्ममनुस्मरन्॥",
+      "english_translation": "A king who is called upon should protect his subjects and not retreat from battle, remembering the duty of a Kshatriya.",
+      "hindi_translation": "एक राजा जिसे बुलाया जाता है, उसे अपने प्रजाओं की रक्षा करनी चाहिए और युद्ध से पीछे नहीं हटना चाहिए, क्षत्रिय के धर्म को याद करते हुए।"
+    },
+    {
+      "number": "8.7",
+      "sanskrit": "आहवेषु मिथोऽन्योन्यं जिघांसन्तो महीक्षितः।युध्यमानाः परं शक्त्या स्वर्गं यान्त्यपराङ्मुखाः॥",
+      "english_translation": "Kings, desiring to kill each other in battle, fight with great strength and go to heaven even when they are facing away from the enemy.",
+      "hindi_translation": "राजा, जो एक-दूसरे को युद्ध में मारने की इच्छा रखते हैं, बड़ी शक्ति से लड़ते हैं और जब वे दुश्मन की ओर से मुंह मोड़ते हैं तब भी स्वर्ग जाते हैं।"
+    },
+    {
+      "number": "8.8",
+      "sanskrit": "न कूटैरायुधैर्हन्याद्युध्यमानो रणे रिपून्।न कर्णिभिर्नापि दिग्धैर्नाग्निज्वलिततेजनैः॥",
+      "english_translation": "One should not kill enemies in battle with concealed weapons, nor with arrows, nor with fiery weapons.",
+      "hindi_translation": "युद्ध में दुश्मनों को छिपे हुए हथियारों से, न ही तीरों से, न ही अग्नि से जलने वाले हथियारों से नहीं मारना चाहिए।"
+    },
+    {
+      "number": "8.9",
+      "sanskrit": "न सुप्तं न विसन्नाहं न नग्नं न निरायुधम्।नायुध्यमानं पश्यन्तं न परेण समागतम्॥",
+      "english_translation": "One should not kill a sleeping person, nor one who is bewildered, nor one who is naked, nor one who is unarmed, nor one who is watching the battle.",
+      "hindi_translation": "किसी सोते हुए व्यक्ति, भ्रमित व्यक्ति, नग्न व्यक्ति, निरायुध व्यक्ति, या युद्ध को देख रहे व्यक्ति को नहीं मारना चाहिए।"
+    },
+    {
+      "number": "8.10",
+      "sanskrit": "नायुधव्यसनप्राप्तं नार्तं नातिपरिक्षतम्।न भीतं न परावृत्तं सतां धर्ममनुस्मरन्॥",
+      "english_translation": "One should not kill a person who is afflicted by the loss of weapons, nor one who is distressed, nor one who is frightened, nor one who has turned away, remembering the dharma of the righteous.",
+      "hindi_translation": "किसी ऐसे व्यक्ति को नहीं मारना चाहिए जो हथियारों के नुकसान से पीड़ित हो, न ही किसी दुखी व्यक्ति, न ही किसी डरपोक व्यक्ति, न ही किसी पलटे हुए व्यक्ति को, धर्म का स्मरण करते हुए।"
+    },
+    {
+      "number": "8.1",
+      "sanskrit": "व्यवहारान्दिदृक्षुस्तु ब्राह्मणैः सह पार्थिवः। मन्त्रज्ञैर्मन्त्रिभिश्चैव विनीतः प्रविशेत्सभाम्।",
+      "english_translation": "The king, wishing to see the proceedings, should enter the assembly along with the Brahmanas, who are knowledgeable in mantras and ministers, and who are well-behaved.",
+      "hindi_translation": "राजा, जो कार्यों को देखना चाहता है, उसे मंत्रों में ज्ञानी ब्राह्मणों और विनम्र मंत्रियों के साथ सभा में प्रवेश करना चाहिए।"
+    },
+    {
+      "number": "8.2",
+      "sanskrit": "तत्रासीनः स्थितो वापि पाणिमुद्यम्य दक्षिणम्। विनीतवेषाभरणः पश्येत्कार्याणि कार्यिणाम्।",
+      "english_translation": "Whether seated there or standing, he should raise his right hand and observe the works of the doers, adorned in a humble attire.",
+      "hindi_translation": "चाहे वह वहाँ बैठे या खड़े हों, उन्हें अपने दाहिने हाथ को उठाकर कार्य करने वालों के कार्यों को देखना चाहिए, विनम्र वस्त्रों में सजे हुए।"
+    },
+    {
+      "number": "8.3",
+      "sanskrit": "प्रत्यहं देशदृष्टैश्च शास्त्रदृष्टैश्च हेतुभिः। अष्टादशसु मार्गेषु निबद्धानि पृथक्पृथक्।",
+      "english_translation": "Every day, based on the observations of the country and the scriptures, he should consider the matters separately in the eighteen paths.",
+      "hindi_translation": "हर दिन, देश और शास्त्रों के अवलोकनों के आधार पर, उसे अठारह मार्गों में मामलों पर अलग-अलग विचार करना चाहिए।"
+    },
+    {
+      "number": "8.8",
+      "sanskrit": "एषु स्थानेषु भूयिष्ठं विवादं चरतां नृणाम्। धर्मं शाश्वतमाश्रित्य कुर्यात्कार्यविनिर्णयम्।",
+      "english_translation": "In these matters, when disputes arise among men, they should rely on eternal dharma to make decisions regarding their actions.",
+      "hindi_translation": "इन मामलों में, जब मनुष्यों के बीच विवाद उत्पन्न होते हैं, तो उन्हें अपने कार्यों के निर्णय के लिए शाश्वत धर्म पर निर्भर रहना चाहिए।"
+    },
+    {
+      "number": "8.9",
+      "sanskrit": "यदा स्वयं न कुर्यात्तु नृपतिः कार्यदर्शनम्। तदा नियुञ्जयाद्विद्वांसं ब्राह्मणं कार्यदर्शने।",
+      "english_translation": "If the king himself does not perform the duty of observing the actions, then he should appoint a learned Brahmana to oversee the actions.",
+      "hindi_translation": "यदि राजा स्वयं कार्यों का अवलोकन नहीं करता है, तो उसे कार्यों का अवलोकन करने के लिए एक विद्वान् ब्राह्मण को नियुक्त करना चाहिए।"
+    },
+    {
+      "number": "8.11",
+      "sanskrit": "यस्मिन्देशे निषीदन्ति विप्रा वेदविदस्त्रयः। राज्ञश्चाधिकृतो विद्वान्ब्रह्मणस्तां सभां विदुः।",
+      "english_translation": "In that place where the three types of learned Brahmanas, who are well-versed in the Vedas, reside, the knowledgeable Brahmana is the one authorized by the king to preside over the assembly.",
+      "hindi_translation": "जिस स्थान पर वेदों में निपुण तीन प्रकार के विद्वान् ब्राह्मण निवास करते हैं, वहाँ राजा द्वारा अधिकृत विद्वान् ब्राह्मण सभा की अध्यक्षता करने वाला होता है।"
+    },
+    {
+      "number": "8.87",
+      "sanskrit": "वा पूर्वाह्णे वै शुचिः शुचीन्॥",
+      "english_translation": "In the morning, indeed, the pure one is pure.",
+      "hindi_translation": "सुबह में, वास्तव में, शुद्ध व्यक्ति शुद्ध है।"
+    },
+    {
+      "number": "8.88",
+      "sanskrit": "ब्रह्मघ्नो ये स्मृता लोका ये च स्त्रीबालघातिनः। मित्रद्रुहः कृतघ्नस्य ते ते स्युर्ब्रुवतो मृषा॥",
+      "english_translation": "Those who are remembered as killers of Brahmins, those who harm women and children, those who betray friends and are ungrateful, they will be the ones who speak falsely.",
+      "hindi_translation": "जो ब्राह्मणों के हत्यारे, महिलाओं और बच्चों को नुकसान पहुँचाने वाले, मित्रों के साथ विश्वासघात करने वाले और कृतघ्न माने जाते हैं, वे ही झूठ बोलेंगे।"
+    },
+    {
+      "number": "8.89",
+      "sanskrit": "जन्मप्रभृति यत्किंचित्पुण्यं भद्र त्वया कृतम्। तत्ते सर्वं शुनो गच्छेद्यदि ब्रूयास्त्वमन्यथा॥",
+      "english_translation": "Whatever merit you have done since birth, O auspicious one, may all of it go to the dog if you speak otherwise.",
+      "hindi_translation": "आपने जन्म से जो भी पुण्य किया है, हे शुभ, यदि आप अन्यथा बोलते हैं तो वह सब कुत्ते के पास चला जाए।"
+    },
+    {
+      "number": "8.90",
+      "sanskrit": "एकोऽहमस्मीत्यात्मानं यत्त्वं कल्याण मन्यसे। नित्यं स्थितस्ते हृद्येषः पुण्यपापेक्षिता मुनिः॥",
+      "english_translation": "You think of yourself as one, O auspicious one. The sage, who is always present in your heart, is the witness to your merits and sins.",
+      "hindi_translation": "आप अपने आप को एक मानते हैं, हे शुभ। जो ऋषि आपके हृदय में हमेशा उपस्थित है, वह आपके पुण्य और पापों का साक्षी है।"
+    },
+    {
+      "number": "8.91",
+      "sanskrit": "यमो वैवस्वतो देवो यस्तवैष हृदि स्थितः। तेन चेदविवादस्ते मा गङ्गां मा कुरून्गमः॥",
+      "english_translation": "Yama, the god of death, who resides in your heart, if there is no dispute with him, do not go to the Ganges, do not go to Kurukshetra.",
+      "hindi_translation": "यम, जो आपके हृदय में निवास करता है, यदि उसके साथ कोई विवाद नहीं है, तो गंगा मत जाओ, कुरुक्षेत्र मत जाओ।"
+    },
+    {
+      "number": "8.92",
+      "sanskrit": "नग्नो मुण्डः कपालेन भिक्षार्थी क्षुत्पिपासितः। अन्धः शत्रुकुलं गच्छेद्यः साक्ष्यमनृतं वदेत्॥",
+      "english_translation": "The naked one, with a shaved head, who is a beggar, afflicted by hunger and thirst, if he speaks false testimony, he will go to the enemy's family.",
+      "hindi_translation": "नग्न, मुंडित, जो भिक्षा मांगने वाला है, जो भूख और प्यास से पीड़ित है, यदि वह झूठी गवाही देता है, तो वह दुश्मन के परिवार में जाएगा।"
+    },
+    {
+      "number": "8.93",
+      "sanskrit": "अवाक्शिरास्तमस्यन्धे किल्बिषी नरकं व्रजेत्। यः प्रश्नं वितथं ब्रूयात्पृष्टः सन्धर्मनिश्चये॥",
+      "english_translation": "The one who speaks falsehood in matters of Dharma will go to hell, even if he is blind and has a shaved head.",
+      "hindi_translation": "जो धर्म के मामलों में झूठ बोलता है, वह नरक में जाएगा, भले ही वह अंधा हो और उसका सिर मुंडा हो।"
+    },
+    {
+      "number": "8.94",
+      "sanskrit": "अन्धो मत्स्यानिवाश्नाति स नरः कण्टकैः सह। यो भाषतेऽर्थवैकल्यमप्रत्यक्षं सभां गतः॥",
+      "english_translation": "The blind man eats fish, and that man, along with thorns, speaks of the incompleteness of meaning in the assembly.",
+      "hindi_translation": "अंधा आदमी मछली खाता है, और वह आदमी, कांटों के साथ, सभा में अर्थ की अपूर्णता के बारे में बोलता है।"
+    },
+    {
+      "number": "8.95",
+      "sanskrit": "महर्षिभिश्च देवैश्च कार्यार्थं शपथाः कृताः। वसिष्ठश्चापि शपथं शेपे पैजवने नृपे॥",
+      "english_translation": "The great sages and the gods have taken oaths for the purpose of action. Vasistha also took an oath in the presence of the king.",
+      "hindi_translation": "महान ऋषियों और देवताओं ने कार्य के उद्देश्य से शपथ ली है। वसिष्ठ ने भी राजा के सामने शपथ ली।"
+    },
+    {
+      "number": "8.279",
+      "sanskrit": "णादिनाङ्गेन साक्षाद्दण्डादिनाऽव्यवहितेन द्विजातिं प्रहरेत्तदेवाङ्गमस्य छेत्तव्यमित्ययं मनोरुपदेशः। मनुग्रहणमादरार्थम्॥",
+      "english_translation": "One should strike a twice-born (Brahmin) with a stick or any other weapon that is not obstructed by the rules of conduct; this is the teaching of Manu, which should be accepted with reverence.",
+      "hindi_translation": "किसी द्विज (ब्राह्मण) को एक डंडे या किसी अन्य हथियार से मारना चाहिए जो आचार के नियमों द्वारा बाधित न हो; यह मनु का उपदेश है, जिसे श्रद्धा के साथ स्वीकार किया जाना चाहिए।"
+    },
+    {
+      "number": "8.280",
+      "sanskrit": "पाणिमुद्यम्य दण्डं वा पाणिच्छेदनमर्हति।पादेन प्रहरन्कोपात्पादच्छेदनमर्हति॥",
+      "english_translation": "One may strike with a hand or cut off a hand; one may also strike with a foot or cut off a foot in anger.",
+      "hindi_translation": "कोई हाथ से मार सकता है या हाथ काट सकता है; कोई गुस्से में पैर से भी मार सकता है या पैर काट सकता है।"
+    },
+    {
+      "number": "8.281",
+      "sanskrit": "सहासनमभिप्रेप्सुरुत्कृष्टस्यापकृष्टजः।कट्यां कृताङ्को निर्वास्यः स्फिचं वास्यावकर्तयेत्॥",
+      "english_translation": "A person who desires to sit with the superior should be marked on the hip and expelled; he should not be allowed to live.",
+      "hindi_translation": "जो व्यक्ति श्रेष्ठ के साथ बैठने की इच्छा करता है, उसे कूल्हे पर चिह्नित किया जाना चाहिए और निकाल दिया जाना चाहिए; उसे जीवित रहने की अनुमति नहीं दी जानी चाहिए।"
+    },
+    {
+      "number": "8.282",
+      "sanskrit": "अवनिष्ठीवतो दर्पाद्द्वावोष्ठौ छेदयेन्नृपः।अवमूत्रयतो मेढ्रमवशर्धयतो गुदम्॥",
+      "english_translation": "A king should cut off the two lips of a proud person; he should cut off the testicles of one who urinates on others and the anus of one who defecates in a shameful manner.",
+      "hindi_translation": "राजा को गर्वित व्यक्ति के दो होंठ काट देने चाहिए; जो दूसरों पर मूत्र करता है उसके अंडकोष और जो अपमानजनक तरीके से मल करता है उसके गुदा को काट देना चाहिए।"
+    },
+    {
+      "number": "8.283",
+      "sanskrit": "केशेषु गृह्णतो हस्तौ छेदयेदविचारयन्।पादयोर्दाढिकायां च ग्रीवायां वृषणेषु च॥",
+      "english_translation": "One should cut off the hands of a person who grabs hair without thinking; one should also cut off the feet, the neck, and the genitals.",
+      "hindi_translation": "जिस व्यक्ति ने बिना सोचे-समझे बाल पकड़ा है, उसके हाथ काट देने चाहिए; पैरों, गर्दन और जननांगों को भी काट देना चाहिए।"
+    },
+    {
+      "number": "8.284",
+      "sanskrit": "त्वग्भेदकः शतं दण्ड्यो लोहितस्य च दर्शकः।मांसभेत्ता तु षण्णिष्कान्प्रवास्यस्त्वस्थिभेदकः॥",
+      "english_translation": "The one who cuts the skin should be punished with a hundred lashes; the one who cuts flesh should be punished with six hundred; the one who breaks bones should be exiled.",
+      "hindi_translation": "जो त्वचा काटता है उसे सौ कोड़े की सजा दी जानी चाहिए; जो मांस काटता है उसे छह सौ की सजा दी जानी चाहिए; जो हड्डियाँ तोड़ता है उसे निर्वासित किया जाना चाहिए।"
+    },
+    {
+      "number": "8.285",
+      "sanskrit": "वनस्पतीनां सर्वेषामुपभोगं यथायथा।तथातथा दमः कार्यो हिंसायामिति धारणा॥",
+      "english_translation": "For all plants, the use should be according to their nature; thus, punishment should be applied in cases of violence.",
+      "hindi_translation": "सभी पौधों के लिए उपयोग उनकी प्रकृति के अनुसार होना चाहिए; इस प्रकार, हिंसा के मामलों में दंड लगाया जाना चाहिए।"
+    },
+    {
+      "number": "8.286",
+      "sanskrit": "मनुष्याणां पशूनां च दुःखाय प्रहृते सति।यथायथा महद्दुःखं दण्डं कुर्यात्तथातथा॥",
+      "english_translation": "When a person or an animal is struck, the punishment should be proportional to the suffering caused.",
+      "hindi_translation": "जब किसी व्यक्ति या जानवर को मारा जाता है, तो दंड उस पीड़ा के अनुपात में होना चाहिए जो उत्पन्न होती है।"
+    },
+    {
+      "number": "8.287",
+      "sanskrit": "अङ्गावपीडनायां च व्रणशोणितयोस्तथा।समुत्थानव्ययं दाप्यः सर्वदण्डमथापि वा॥",
+      "english_translation": "In cases of injury to the limbs and blood, the compensation should be given according to the severity of the injury.",
+      "hindi_translation": "अंगों और रक्त की चोटों के मामलों में, मुआवजा चोट की गंभीरता के अनुसार दिया जाना चाहिए।"
+    },
+    {
+      "number": "8.288",
+      "sanskrit": "द्रव्याणि हिंस्याद्यो यस्य ज्ञानतोऽज्ञानतोऽपि वा।स तस्योत्पादयेत्तुष्टिं राज्ञे दद्याच्च सत्समम्॥",
+      "english_translation": "If someone destroys property knowingly or unknowingly, he should compensate the owner appropriately.",
+      "hindi_translation": "यदि कोई जानबूझकर या अनजाने में संपत्ति को नष्ट करता है, तो उसे मालिक को उचित मुआवजा देना चाहिए।"
+    },
+    {
+      "number": "8.289",
+      "sanskrit": "चर्मचार्मिकभाण्डेषु काष्ठलोष्टमयेषु च।मूल्यात्पञ्चगुणो दण्डः पुष्पमूलफलेषु च॥",
+      "english_translation": "In cases of leather, pottery, and wooden vessels, the fine should be five times the value of the destroyed items, including flowers, fruits, and vegetables.",
+      "hindi_translation": "चर्म, बर्तन और लकड़ी के बर्तनों के मामलों में, दंड नष्ट किए गए सामान के मूल्य का पांच गुना होना चाहिए, जिसमें फूल, फल और सब्जियाँ शामिल हैं।"
+    },
+    {
+      "number": "8.290",
+      "sanskrit": "यानस्य चैव यातुश्च यानस्वामिन एव च।दशातिवर्तनान्याहुः शेषे दण्डो विधीयते॥",
+      "english_translation": "For vehicles and their owners, if they exceed ten times the limit, they should be punished accordingly.",
+      "hindi_translation": "वाहनों और उनके मालिकों के लिए, यदि वे सीमा से दस गुना अधिक हो जाते हैं, तो उन्हें तदनुसार दंडित किया जाना चाहिए।"
+    },
+    {
+      "number": "8.291",
+      "sanskrit": "छिन्ननास्ये भग्नयुगे तिर्यक्प्रतिमुखागते।अक्षभङ्गे च यानस्य चक्रभङ्गे तथैव च॥",
+      "english_translation": "In cases of broken noses, broken wheels, and broken vehicles, the punishment should be the same.",
+      "hindi_translation": "टूटी नाक, टूटी पहिए और टूटी गाड़ियों के मामलों में, दंड समान होना चाहिए।"
+    },
+    {
+      "number": "8.292",
+      "sanskrit": "छेदने चैव यन्त्राणां योक्त्त्ररम्योस्तथैव च।आक्रन्दे चाप्यपैहीति न दण्डं मनुरब्रवीत्॥",
+      "english_translation": "In cases of cutting and breaking machines, the punishment should be the same; if there is a cry, it should not be punished.",
+      "hindi_translation": "यंत्रों को काटने और तोड़ने के मामलों में, दंड समान होना चाहिए; यदि कोई चिल्लाता है, तो उसे दंडित नहीं किया जाना चाहिए।"
+    },
+    {
+      "number": "8.305",
+      "sanskrit": "यः कश्चिज्जपयागदानदेवतार्चादीनि करोति तस्य राजा पालनेन षड्भागं प्राप्नोति॥",
+      "english_translation": "Whoever performs japa, yajna, donations, and worship of deities, the king, by protecting him, obtains six parts of his wealth.",
+      "hindi_translation": "जो कोई जप, यज्ञ, दान और देवताओं की पूजा करता है, राजा उसकी रक्षा करके उसके धन का छह भाग प्राप्त करता है।"
+    },
+    {
+      "number": "8.306",
+      "sanskrit": "भूतानि सर्वाणि स्थावरजङ्गमादीनि यथाशास्त्रं दण्डप्रणयनरूपेण धर्मेण रक्षन्, वध्यांश्च स्तेनादींस्ताडयन् प्रत्यहं लक्षगोदक्षिणैर्यज्ञैर्यजते।",
+      "english_translation": "All beings, both stationary and moving, are protected according to the scriptures by the king, who punishes thieves and others daily with sacrifices and offerings.",
+      "hindi_translation": "सभी प्राणी, स्थिर और गतिशील, राजा द्वारा शास्त्रों के अनुसार रक्षा किए जाते हैं, जो चोरों और अन्य को प्रतिदिन बलिदानों और दानों से दंडित करता है।"
+    },
+    {
+      "number": "8.307",
+      "sanskrit": "योऽरक्षन्वलिमादत्ते करं शुल्कं च पार्थिवः।प्रतिभागं च दण्डं च स सद्यो नरकं व्रजेत्॥",
+      "english_translation": "The king who takes the offerings and taxes from those who are unprotected, immediately goes to hell.",
+      "hindi_translation": "जो राजा असुरक्षित लोगों से बलि और कर लेता है, वह तुरंत नरक में जाता है।"
+    },
+    {
+      "number": "8.308",
+      "sanskrit": "यो राजा न रक्षत्यथ च धान्यादिषड्भागं बलिरूपं गृह्णाति, तं सर्वलोकानां सकलपापहारिणं मन्वादय आहुः॥",
+      "english_translation": "The king who does not protect and takes the six parts of the offerings from grains, is called the destroyer of all sins by the Manus.",
+      "hindi_translation": "जो राजा रक्षा नहीं करता और अनाज से बलि के छह भाग लेता है, उसे मनु द्वारा सभी पापों का नाशक कहा जाता है।"
+    },
+    {
+      "number": "8.309",
+      "sanskrit": "अनपेक्षितमर्यादं नास्तिकं विप्रलुम्पकम्।अरक्षितारमत्तारं नृपं विद्यादधोगतिम्॥",
+      "english_translation": "The king who is unrestrained, atheistic, and exploits the unprotected, is known to be heading downwards.",
+      "hindi_translation": "जो राजा अनियंत्रित, नास्तिक और असुरक्षित का शोषण करता है, उसे नीचे की ओर जाने वाला माना जाता है।"
+    },
+    {
+      "number": "8.390",
+      "sanskrit": "अधार्मिकं त्रिभिर्न्यायैर्निगृह्णीयात्प्रयत्नतः।निरोधनेन बन्धेन विविधेन वधेन च॥",
+      "english_translation": "The unrighteous should be restrained by three means: imprisonment, binding, and various forms of punishment.",
+      "hindi_translation": "अधार्मिक को तीन तरीकों से नियंत्रित किया जाना चाहिए: कारावास, बंधन और विभिन्न प्रकार की सजाएँ।"
+    },
+    {
+      "number": "8.311",
+      "sanskrit": "पापशालिनां निग्रहेण साधूनां संग्रहेण, द्विजातय इव महायज्ञादिभिः सर्वकालं नृपतयः पवित्रीभवन्ति।",
+      "english_translation": "By restraining the sinful and protecting the virtuous, kings become purified like the twice-born through great sacrifices.",
+      "hindi_translation": "पापियों को नियंत्रित करके और साधुओं की रक्षा करके, राजा महान यज्ञों के माध्यम से द्विजों की तरह पवित्र हो जाते हैं।"
+    },
+    {
+      "number": "8.312",
+      "sanskrit": "क्षन्तव्यं प्रभुणा नित्यं क्षिपतां कार्यिणां नृणाम्।बालवृद्धातुराणां च कुर्वता हितमात्मनः॥",
+      "english_translation": "The lord should always forgive those who are engaged in work, including children, the elderly, and the sick, while doing good for themselves.",
+      "hindi_translation": "स्वामी को हमेशा काम में लगे लोगों, बच्चों, वृद्धों और बीमारों को क्षमा करना चाहिए, जबकि वे अपने लिए भलाई कर रहे हैं।"
+    },
+    {
+      "number": "8.313",
+      "sanskrit": "यः क्षिप्तो मर्षयत्यार्तैस्तेन स्वर्गे महीयते।यस्त्वैश्वर्यान्न क्षमते नरकं तेन गच्छति॥",
+      "english_translation": "He who is hurt by the afflicted is honored in heaven; he who cannot bear the pride of wealth goes to hell.",
+      "hindi_translation": "जो दुखियों द्वारा आहत होता है, उसे स्वर्ग में सम्मान मिलता है; जो धन के गर्व को सहन नहीं कर सकता, वह नरक में जाता है।"
+    },
+    {
+      "number": "8.314",
+      "sanskrit": "राजा स्तेनेन गन्तव्यो मुक्तकेशेन धावता।आचक्षाणेन तत्स्तेयमेवंकर्मास्मि शोधि माम्॥",
+      "english_translation": "The king should pursue the thief with disheveled hair, saying, 'I am the one who has been robbed by this action.'",
+      "hindi_translation": "राजा को उस चोर का पीछा करना चाहिए, जिसके बाल बिखरे हुए हैं, यह कहते हुए, 'मैं इस कार्य से लूटा गया हूँ।'"
+    },
+    {
+      "number": "8.316",
+      "sanskrit": "शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते।अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम्॥",
+      "english_translation": "By the order or release, the thief is freed from theft; but if the king does not rule, he incurs sin from the thief.",
+      "hindi_translation": "आदेश या मुक्ति द्वारा, चोर चोरी से मुक्त होता है; लेकिन यदि राजा शासन नहीं करता है, तो वह चोर से पाप करता है।"
+    },
+    {
+      "number": "8.317",
+      "sanskrit": "अन्नादे भ्रूणहा मार्ष्टि पत्यौ भार्यापचारिणी।गुरौ शिष्यश्च याज्यश्च स्तेनो राजनि किल्बिषम्॥",
+      "english_translation": "The killer of the fetus, the husband who harms his wife, the teacher, the disciple, and the one who violates the rules, all incur sin.",
+      "hindi_translation": "भ्रूण का हत्यारा, पत्नी को हानि पहुँचाने वाला पति, गुरु, शिष्य और जो नियमों का उल्लंघन करता है, सभी पाप करते हैं।"
+    },
+    {
+      "number": "8.318",
+      "sanskrit": "राजभिः कृतदण्डास्तु कृत्वा पापानि मानवाः।निर्मलाः स्वर्गमायान्ति सन्तः सुकृतिनो यथा॥",
+      "english_translation": "Those who have been punished by kings for their sins go to heaven, pure like the virtuous.",
+      "hindi_translation": "जो लोग अपने पापों के लिए राजाओं द्वारा दंडित होते हैं, वे पवित्र होकर स्वर्ग जाते हैं, जैसे कि साधु।"
+    },
+    {
+      "number": "8.396",
+      "sanskrit": "्वस्त्रैरन्यवस्त्राणि नयेन्न चान्यवासांस्यन्यपरिधानार्थं दद्यात्। यद्येवं कुर्यात्तदासौ दण्ड्यः स्यात्॥",
+      "english_translation": "One should not give other garments for the purpose of wearing different clothes; if one does so, he shall be punished.",
+      "hindi_translation": "किसी अन्य वस्त्र को पहनने के लिए अन्य वस्त्र नहीं देना चाहिए; यदि ऐसा किया जाए, तो उसे दंडित किया जाएगा।"
+    },
+    {
+      "number": "8.397",
+      "sanskrit": "तन्तुवायो दशपलं दद्यादेकपलाधिकम्। अतोऽन्यथा वर्तमानो दाप्यो द्वादशकं दमम्॥",
+      "english_translation": "For the weaver, one should give ten palas, plus one more; otherwise, he should give twelve palas as a fine.",
+      "hindi_translation": "बुनकर के लिए, दस पल और एक अतिरिक्त देना चाहिए; अन्यथा, उसे बारह पल दंड के रूप में देना चाहिए।"
+    },
+    {
+      "number": "8.398",
+      "sanskrit": "शुल्कस्थानेषु कुशलाः सर्वपण्यविचक्षणाः। कुर्युरर्घं यथापल्यं ततो विंशं नृपो हरेत्॥",
+      "english_translation": "In the places of taxation, the skilled and knowledgeable merchants should determine the price according to the value; then the king should take one-fifth.",
+      "hindi_translation": "कर के स्थानों पर, कुशल और ज्ञानी व्यापारी मूल्य के अनुसार मूल्य निर्धारित करें; फिर राजा एक-पांचवां हिस्सा ले।"
+    },
+    {
+      "number": "8.399",
+      "sanskrit": "राज्ञः प्रख्यातभाण्डानि प्रतिषिद्धानि यानि च। तानि निर्हरतो लोभात्सर्वहारं हरेन्नृपः॥",
+      "english_translation": "The king should not take away all the goods that are known to be prohibited and are related to him out of greed.",
+      "hindi_translation": "राजा को अपने लालच के कारण उन सभी वस्तुओं को नहीं लेना चाहिए जो उसके लिए प्रतिबंधित और ज्ञात हैं।"
+    },
+    {
+      "number": "8.400",
+      "sanskrit": "शुल्कस्थानं परिहरन्नकाले क्रयविक्रयी। मिथ्यावादी च संख्याने दाप्योऽष्टगुणमत्ययम्॥",
+      "english_translation": "One who engages in trade at the wrong time in the place of taxation should be punished eightfold for false statements.",
+      "hindi_translation": "जो कर के स्थान पर गलत समय पर व्यापार करता है, उसे झूठे बयानों के लिए आठ गुना दंड दिया जाना चाहिए।"
+    },
+    {
+      "number": "8.401",
+      "sanskrit": "आगमं निर्गमं स्थानं तथा वृद्धिक्षयावुभौ। विचार्य सर्वपण्यानां कारयेत्क्रयविक्रयौ॥",
+      "english_translation": "Considering the arrival and departure, the place, and the increase or decrease, one should conduct all transactions.",
+      "hindi_translation": "आगमन और निर्गमन, स्थान और वृद्धि या कमी पर विचार करते हुए, सभी लेन-देन करना चाहिए।"
+    },
+    {
+      "number": "8.402",
+      "sanskrit": "पञ्चरात्रे पञ्चरात्रे पक्षे पक्षेऽथवा गते। कुर्वीत चैषां प्रत्यक्षमर्घसंस्थापनं नृपः॥",
+      "english_translation": "In the case of five nights, the king should establish the price directly according to the situation.",
+      "hindi_translation": "पाँच रातों के मामले में, राजा को स्थिति के अनुसार सीधे मूल्य स्थापित करना चाहिए।"
+    },
+    {
+      "number": "8.403",
+      "sanskrit": "तुलामानं प्रतीमानं सर्वं च स्यात्सुलक्षितम्। षट्सु षट्सु च मासेषु पुनरेव परीक्षयेत्॥",
+      "english_translation": "The weight and measure should be carefully examined every six months.",
+      "hindi_translation": "वजन और माप को हर छह महीने में सावधानी से जांचा जाना चाहिए।"
+    },
+    {
+      "number": "8.404",
+      "sanskrit": "पणं यानं तरे दाप्यं पौरुषोऽर्धपणं तरे। पादं पशुश्च योषिच्च पादार्धं रिक्तकः पुमान्॥",
+      "english_translation": "For a vehicle, one should give a quarter; for a man, half a quarter; for an animal, a quarter; and for a woman, half a quarter.",
+      "hindi_translation": "एक वाहन के लिए, एक चौथाई देना चाहिए; एक आदमी के लिए, आधा चौथाई; एक जानवर के लिए, एक चौथाई; और एक महिला के लिए, आधा चौथाई।"
+    },
+    {
+      "number": "8.405",
+      "sanskrit": "भाण्डपूर्णानि यानानि तार्यं दाप्यानि सारतः। रिक्तभाण्डानि यत्किंचित्पुमांसश्चापरिच्छदाः॥",
+      "english_translation": "Full vehicles should be given as a whole; empty vessels should be given as much as possible.",
+      "hindi_translation": "पूर्ण वाहनों को संपूर्ण रूप से दिया जाना चाहिए; खाली बर्तन को यथासंभव दिया जाना चाहिए।"
+    },
+    {
+      "number": "8.406",
+      "sanskrit": "दीर्घाध्वनि यथादेशं यथाकालं तरो भवेत्। नदीतीरेषु तद्विद्यात्समुद्रे नास्ति लक्षणम्॥",
+      "english_translation": "On long journeys, the price should be determined according to the time; at riverbanks, it should be known that there are no signs in the sea.",
+      "hindi_translation": "लंबी यात्राओं में, मूल्य को समय के अनुसार निर्धारित किया जाना चाहिए; नदी के किनारों पर, यह जानना चाहिए कि समुद्र में कोई संकेत नहीं है।"
+    },
+    {
+      "number": "8.407",
+      "sanskrit": "गर्भिणी तु द्विमासादिस्तथा प्रव्रजितो मुनिः। ब्राह्मणा लिङ्गिनश्चैव न दाप्यास्तारिकं तरे॥",
+      "english_translation": "A pregnant woman should not be given anything for two months; nor should a wandering monk or a Brahmin be given anything.",
+      "hindi_translation": "गर्भवती महिला को दो महीने तक कुछ नहीं दिया जाना चाहिए; न ही एक भिक्षु या ब्राह्मण को कुछ दिया जाना चाहिए।"
+    },
+    {
+      "number": "8.408",
+      "sanskrit": "यन्नावि किंचिद्दाशानां विशीर्येतापराधतः। तद्दाशैरेव दातव्यं समागम्य स्वतोंऽशतः॥",
+      "english_translation": "Whatever is lost due to the fault of the boatmen should be given back to them according to their share.",
+      "hindi_translation": "जो कुछ नाविकों की गलती के कारण खो गया है, वह उन्हें उनके हिस्से के अनुसार वापस दिया जाना चाहिए।"
+    },
+    {
+      "number": "8.409",
+      "sanskrit": "एष नौयायिनामुक्तो व्यवहारस्य निर्णयः। दाशापराधतस्तोये दैविके नास्ति निग्रहः॥",
+      "english_translation": "This is the decision regarding the transactions of boatmen; there is no punishment for losses due to divine causes.",
+      "hindi_translation": "यह नाविकों के लेन-देन के संबंध में निर्णय है; दिव्य कारणों से होने वाले नुकसान के लिए कोई दंड नहीं है।"
+    },
+    {
+      "number": "8.420",
+      "sanskrit": "वाणिज्यं कारयेद्वैश्यं कुसीदं कृषिमेव च। पशूनां रक्षणं चैव दास्यं शूद्रं द्विजन्मनाम्॥",
+      "english_translation": "The Vaishya should engage in trade, agriculture, and the protection of animals; the Shudra should serve the twice-born.",
+      "hindi_translation": "वैश्य को व्यापार, कृषि और पशुओं की रक्षा में संलग्न होना चाहिए; शूद्र को द्विजों की सेवा करनी चाहिए।"
+    },
+    {
+      "number": "8.409",
+      "sanskrit": "नौयायिनामेष व्यवहारस्य निर्णय उक्तः। दैवोपजातवातादिना नौभङ्गेन धनादिनाशे नाविकानां न दण्डः॥",
+      "english_translation": "This is the decision regarding the conduct of boatmen: in cases of loss due to divine or natural calamities, they shall not be punished.",
+      "hindi_translation": "यह नाविकों के व्यवहार के बारे में निर्णय है: दिव्य या प्राकृतिक आपदाओं के कारण होने वाले नुकसान में उन्हें दंडित नहीं किया जाएगा।"
+    },
+    {
+      "number": "8.420",
+      "sanskrit": "एवं सर्वानिमान्राजा व्यवहारान्समापयन्।व्यपोह्य किल्विषं सर्वं प्राप्नोति परमां गतिम्॥",
+      "english_translation": "Thus, the king should conclude all these transactions, and by removing all sins, he attains the highest state.",
+      "hindi_translation": "इस प्रकार, राजा को इन सभी लेन-देन को समाप्त करना चाहिए, और सभी पापों को हटाकर, वह सर्वोच्च स्थिति को प्राप्त करता है।"
+    },
+    {
+      "number": "8.1",
+      "sanskrit": "पुरुपस्य स्त्रियाश्चैव धर्म्मे वर्त्मनि तिष्ठतोः।संयोगे विप्रयोगे च धर्मान्वक्ष्यामि शाश्वतान्॥",
+      "english_translation": "I shall now explain the eternal dharma concerning men and women who stand on the path of righteousness, in union and separation.",
+      "hindi_translation": "अब मैं पुरुषों और महिलाओं के बारे में शाश्वत धर्म को समझाऊंगा, जो धर्म के मार्ग पर खड़े हैं, संगम और विछोह में।"
+    },
+    {
+      "number": "8.1",
+      "sanskrit": "पुरुपस्य स्त्रियाश्चैव धर्म्मे वर्त्मनि तिष्ठतोः।संयोगे विप्रयोगे च धर्मान्वक्ष्यामि शाश्वतान्॥",
+      "english_translation": "I shall explain the eternal duties of men and women who are in the path of righteousness, both in union and separation.",
+      "hindi_translation": "मैं पुरुषों और महिलाओं के शाश्वत धर्मों का वर्णन करूंगा, जो धर्म के मार्ग पर हैं, दोनों एकता और पृथक्करण में।"
+    },
+    {
+      "number": "8.2",
+      "sanskrit": "अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम्।विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे॥",
+      "english_translation": "Women are dependent and should be engaged in their duties by men, day and night, and they should be placed under their control in all matters.",
+      "hindi_translation": "महिलाएँ निर्भर होती हैं और उन्हें पुरुषों द्वारा दिन-रात अपने कार्यों में संलग्न रहना चाहिए, और सभी मामलों में उन्हें अपने नियंत्रण में रखा जाना चाहिए।"
+    },
+    {
+      "number": "8.3",
+      "sanskrit": "पिता रक्षति कौमारे भर्ता रक्षति यौवने।रक्षन्ति स्थविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति॥",
+      "english_translation": "The father protects her in childhood, the husband protects her in youth; in old age, her sons protect her; a woman does not deserve independence.",
+      "hindi_translation": "पिता उसे बचपन में, पति युवा अवस्था में बचाता है; वृद्धावस्था में, उसके पुत्र उसकी रक्षा करते हैं; एक महिला को स्वतंत्रता का अधिकार नहीं है।"
+    },
+    {
+      "number": "8.4",
+      "sanskrit": "कालेऽदाता पिता वाच्यो वाच्यश्चानुपयन्पतिः।मृते भर्तरि पुत्रस्तु वाच्यो मातुररक्षिता॥",
+      "english_translation": "At the appropriate time, the father should be addressed, and the husband should be addressed when he is present; after the husband's death, the son should address the mother who is being protected.",
+      "hindi_translation": "उचित समय पर, पिता को संबोधित किया जाना चाहिए, और पति को तब संबोधित किया जाना चाहिए जब वह उपस्थित हो; पति की मृत्यु के बाद, पुत्र को माता को संबोधित करना चाहिए जो संरक्षित है।"
+    },
+    {
+      "number": "8.5",
+      "sanskrit": "सूक्ष्मेभ्योऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः।द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः॥",
+      "english_translation": "Women should be specially protected from even minor dangers; for both families suffer grief if they are unprotected.",
+      "hindi_translation": "महिलाओं की विशेष रूप से छोटी-छोटी खतरों से रक्षा की जानी चाहिए; क्योंकि दोनों परिवारों को दुख होता है यदि वे असुरक्षित हैं।"
+    },
+    {
+      "number": "8.6",
+      "sanskrit": "इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम्।यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि॥",
+      "english_translation": "Indeed, all classes strive to protect their wives, even if the husbands are weak, seeing this supreme duty.",
+      "hindi_translation": "वास्तव में, सभी वर्ग अपनी पत्नियों की रक्षा करने का प्रयास करते हैं, भले ही पति कमजोर हों, इस सर्वोच्च धर्म को देखते हुए।"
+    },
+    {
+      "number": "8.7",
+      "sanskrit": "स्वां प्रसूर्ति चरित्रं च कुलमात्मानमेव च।स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति॥",
+      "english_translation": "One protects one's own character, family, and self; thus, by protecting one's wife, one protects one's own dharma.",
+      "hindi_translation": "एक अपने चरित्र, परिवार और आत्मा की रक्षा करता है; इस प्रकार, अपनी पत्नी की रक्षा करके, एक अपने धर्म की रक्षा करता है।"
+    },
+    {
+      "number": "8.8",
+      "sanskrit": "पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते।जायायास्तद्धि जायात्वं यदस्यां जायते पुनः॥",
+      "english_translation": "The husband enters the wife and becomes the embryo; thus, the child is born from her, and the husband is reborn in her.",
+      "hindi_translation": "पति पत्नी में प्रवेश करता है और भ्रूण बनता है; इस प्रकार, बच्चा उससे जन्म लेता है, और पति उसमें पुनर्जन्म लेता है।"
+    },
+    {
+      "number": "8.9",
+      "sanskrit": "यादृशं भजते हि स्त्री सुतं सूते तथाविधम्।तस्मात्प्रजाविशुद्ध्यर्थं स्त्रियं रक्षेत्प्रयत्नतः॥",
+      "english_translation": "As a woman gives birth to a son of the same nature as herself, therefore, for the purity of progeny, one should protect the wife with effort.",
+      "hindi_translation": "जैसे एक महिला अपने समान स्वभाव के पुत्र को जन्म देती है, इसलिए, संतान की शुद्धता के लिए, पत्नी की रक्षा करनी चाहिए।"
+    },
+    {
+      "number": "8.10",
+      "sanskrit": "न कश्चिद्योषितः शक्तः प्रसह्य परिरक्षितुम्।एतैरुपाययोगैस्तु शक्यास्ताः परिरक्षितुम्॥",
+      "english_translation": "No woman is capable of being protected by force; however, she can be protected by these means.",
+      "hindi_translation": "कोई महिला बल द्वारा संरक्षित होने में सक्षम नहीं है; हालाँकि, उसे इन तरीकों से संरक्षित किया जा सकता है।"
+    },
+    {
+      "number": "8.11",
+      "sanskrit": "अर्थस्य संग्रहे चैनां व्यये चैव नियोजयेत्।शौचे धर्मेऽन्नपक्त्यां च पारिणाह्यस्य वेक्षणे॥",
+      "english_translation": "One should engage her in the collection and expenditure of wealth, in purity, in dharma, and in the preparation of food.",
+      "hindi_translation": "एक को धन के संग्रह और व्यय, शुद्धता, धर्म, और भोजन की तैयारी में संलग्न करना चाहिए।"
+    },
+    {
+      "number": "8.12",
+      "sanskrit": "अरक्षिता गृहे रुद्धाः पुरुषैराप्तकारिभिः।आत्मानमात्मना यास्तु रक्षेयुस्ताः सुरक्षिताः॥",
+      "english_translation": "Those who are unprotected at home by men and are restrained by them, should protect themselves; they are indeed secure.",
+      "hindi_translation": "जो महिलाएँ पुरुषों द्वारा घर पर असुरक्षित हैं और उनके द्वारा रोकी गई हैं, उन्हें स्वयं की रक्षा करनी चाहिए; वे वास्तव में सुरक्षित हैं।"
+    },
+    {
+      "number": "8.13",
+      "sanskrit": "पानं दुर्जनसंसर्गः पत्या च विरहोऽटनम्।स्वप्नोऽन्यगेहवासश्च नारीसंदूषणानि षट्॥",
+      "english_translation": "Drinking, association with bad people, separation from the husband, wandering, dreaming, and living in another's house are the six causes of a woman's degradation.",
+      "hindi_translation": "पीना, बुरे लोगों के साथ संगति, पति से अलग होना, भटकना, सपना देखना, और किसी और के घर में रहना, ये एक महिला के पतन के छह कारण हैं।"
+    },
+    {
+      "number": "8.87",
+      "sanskrit": "त्कारयेत्स यथा ब्राह्मण्यां शूद्राज्जातो ब्राह्मणचाण्डालस्तथैव पूर्वैऋषिभिर्दृष्ट इति पूर्वानुवादः॥",
+      "english_translation": "One should perform the marriage of a girl born in a Shudra family to a Brahmana, as has been seen by the ancient sages.",
+      "hindi_translation": "एक ब्राह्मण के परिवार में जन्मी कन्या का विवाह शूद्र परिवार में करना चाहिए, जैसा कि प्राचीन ऋषियों ने देखा है।"
+    },
+    {
+      "number": "8.88",
+      "sanskrit": "उत्कृष्टायाभिरूपाय वराय सदृशाय च।अप्राप्तामपि तां तस्मै कन्यां दद्याद्यथाविधि॥",
+      "english_translation": "To a superior, beautiful, and suitable groom, one should give the girl, even if she has not yet reached maturity, according to the prescribed rules.",
+      "hindi_translation": "एक श्रेष्ठ, सुंदर और उपयुक्त वर को, कन्या को, भले ही वह अभी परिपक्व न हुई हो, निर्धारित विधियों के अनुसार देना चाहिए।"
+    },
+    {
+      "number": "8.89",
+      "sanskrit": "काममामरणात्तिष्ठेद्गृहे कन्यर्तुमत्यपि।नचैवैनां प्रयच्छेत्तु गुणहीनाय कर्हिचित्॥",
+      "english_translation": "If she is desired, the girl should remain in her father's house until she reaches maturity; she should not be given to anyone who is devoid of qualities.",
+      "hindi_translation": "यदि वह वांछित है, तो कन्या को अपने पिता के घर में तब तक रहना चाहिए जब तक वह परिपक्व न हो जाए; उसे गुणहीन व्यक्ति को नहीं देना चाहिए।"
+    },
+    {
+      "number": "8.90",
+      "sanskrit": "त्रीणि वर्षाण्युदीक्षेत कुमार्यृतुमती सती।ऊर्ध्वं तु कालादेतस्माद्विन्देत सदृशं पतिम्॥",
+      "english_translation": "A maiden who has attained maturity should wait for three years; thereafter, she should seek a husband of similar qualities.",
+      "hindi_translation": "एक कन्या जो परिपक्व हो गई है, उसे तीन वर्षों तक प्रतीक्षा करनी चाहिए; उसके बाद, उसे समान गुणों वाले पति की खोज करनी चाहिए।"
+    },
+    {
+      "number": "8.91",
+      "sanskrit": "अदीयमाना भर्तारमधिगच्छेद्यदि स्वयम्।नैनः किंचिदवाप्नोति न च यं साधिगच्छति॥",
+      "english_translation": "If a girl chooses her husband herself, she does not incur any sin, nor does her husband.",
+      "hindi_translation": "यदि एक कन्या स्वयं अपने पति का चयन करती है, तो वह कोई पाप नहीं करती, न ही उसका पति।"
+    },
+    {
+      "number": "8.92",
+      "sanskrit": "अलंकारं नाददीत पित्र्यं कन्या स्वयंवरा।मातृकं भ्रातृदत्तं वा स्तेना स्याद्यदि तं हरेत्॥",
+      "english_translation": "A self-chosen bride should not accept any adornments from her father; if she does, she may be considered a thief.",
+      "hindi_translation": "एक स्वयंवरा कन्या को अपने पिता से कोई अलंकार नहीं लेना चाहिए; यदि वह ऐसा करती है, तो उसे चोर माना जा सकता है।"
+    },
+    {
+      "number": "8.93",
+      "sanskrit": "पित्रे न दद्याच्छुल्कं तु कन्यामृतुमतीं हरन्।स हि स्वाम्यादतिक्रामेदृतूनां प्रतिरोधनात्॥",
+      "english_translation": "One should not give a bride price to the father for a girl who has attained maturity, as it would violate the rights of the seasons.",
+      "hindi_translation": "एक परिपक्व कन्या के लिए पिता को दहेज नहीं देना चाहिए, क्योंकि यह ऋतुओं के अधिकारों का उल्लंघन करेगा।"
+    },
+    {
+      "number": "8.94",
+      "sanskrit": "त्रिंशद्वर्षोद्वहेत्कन्यां हृद्यां द्वादशवार्षिकीम्।त्र्यष्टवर्षोऽष्टवर्षां वा धर्मे सीदति सत्वरः॥",
+      "english_translation": "A man of thirty should marry a girl of twelve; a man of twenty-eight should marry a girl of eight, according to dharma.",
+      "hindi_translation": "एक तीस वर्षीय पुरुष को बारह वर्षीय कन्या से विवाह करना चाहिए; एक अठाईस वर्षीय पुरुष को आठ वर्षीय कन्या से विवाह करना चाहिए, धर्म के अनुसार।"
+    },
+    {
+      "number": "8.95",
+      "sanskrit": "देवदत्तां पतिर्भार्यां विन्दते नेच्छयात्मनः।तां साध्वीं बिभृयान्नित्यं देवानां प्रियमाचरन्॥",
+      "english_translation": "A husband should seek a wife given by the gods, not according to his own desire; he should always treat her with respect.",
+      "hindi_translation": "एक पति को देवी-देवताओं द्वारा दी गई पत्नी की खोज करनी चाहिए, न कि अपनी इच्छा के अनुसार; उसे हमेशा उसका सम्मान करना चाहिए।"
+    },
+    {
+      "number": "8.96",
+      "sanskrit": "प्रजनार्थं स्त्रियः सृष्टाः संतानार्थं च मानवाः।तस्मात्साधारणो धर्मः श्रुतौ पत्न्या सहोदितः॥",
+      "english_translation": "Women are created for procreation, and men for offspring; hence, this is the common dharma as stated in the scriptures.",
+      "hindi_translation": "महिलाएँ प्रजनन के लिए और पुरुष संतान के लिए बनाई गई हैं; इसलिए, यह शास्त्रों में कहा गया सामान्य धर्म है।"
+    },
+    {
+      "number": "8.97",
+      "sanskrit": "कन्यायां दत्तशुल्कायां म्रियेत यदि शुल्कदः।देवराय प्रदातव्या यदि कन्यानुमन्यते॥",
+      "english_translation": "If the bride price is given for a girl and the giver dies, the girl should be given to the family of the giver if she agrees.",
+      "hindi_translation": "यदि कन्या के लिए दहेज दिया गया है और देने वाला मर जाता है, तो यदि वह सहमत है, तो कन्या को देने वाले के परिवार को दे दिया जाना चाहिए।"
+    },
+    {
+      "number": "8.98",
+      "sanskrit": "आददीत न शूद्रोऽपि शुल्कं दुहितरं ददन्।शुल्कं हि गृह्णन्कुरुते छन्नं दुहितृविक्रयम्॥",
+      "english_translation": "Even a Shudra should not accept a bride price for his daughter; for accepting it leads to the hidden sale of his daughter.",
+      "hindi_translation": "यहां तक कि एक शूद्र को अपनी बेटी के लिए दहेज नहीं लेना चाहिए; क्योंकि इसे स्वीकार करने से उसकी बेटी की छिपी हुई बिक्री होती है।"
+    },
+    {
+      "number": "8.99",
+      "sanskrit": "एतत्तु न परे चक्रुर्नापरे जातु साधवः।यदन्यस्य प्रतिज्ञाय पुनरन्यस्य दीयते॥",
+      "english_translation": "This should not be done by others; it should never be done by the virtuous, to give a girl who has been promised to another.",
+      "hindi_translation": "यह दूसरों द्वारा नहीं किया जाना चाहिए; इसे कभी भी सदाचारी द्वारा नहीं किया जाना चाहिए, कि किसी कन्या को जो किसी अन्य को वचनबद्ध है, दिया जाए।"
+    },
+    {
+      "number": "8.100",
+      "sanskrit": "नानुशुश्रुम जात्वेतत्पूर्वेष्वपि हि जन्मसु।शुल्कसंज्ञेन मूल्येन छन्नं दुहितृविक्रयम्॥",
+      "english_translation": "We have not heard of this in previous births; the hidden sale of daughters is condemned by the term 'bride price'.",
+      "hindi_translation": "हमने इसे पिछले जन्मों में नहीं सुना; कन्याओं की छिपी हुई बिक्री को 'दहेज' के शब्द से निंदा की गई है।"
+    },
+    {
+      "number": "8.101",
+      "sanskrit": "अन्योन्यस्याव्यभीचारो भवेदामरणान्तिकः।एष धर्मः समासेन ज्ञेयः स्त्रीपुंसयोः परः॥",
+      "english_translation": "Mutual fidelity should exist until death; this is the dharma that is to be understood between men and women.",
+      "hindi_translation": "आपसी वफादारी मृत्यु तक बनी रहनी चाहिए; यह वह धर्म है जिसे पुरुषों और महिलाओं के बीच समझा जाना चाहिए।"
+    },
+    {
+      "number": "8.222",
+      "sanskrit": "प्रकटमेतच्चौर्यं यद्द्यूतसमाह्वयौ, तस्मात्तन्निवारणे राजा नित्यं यत्नयुक्तः स्यात्॥",
+      "english_translation": "This theft, which is called gambling, should be prevented by the king, who should always be diligent in this matter.",
+      "hindi_translation": "यह चोरी, जिसे जुए का नाम दिया गया है, राजा द्वारा रोकी जानी चाहिए, जिसे इस मामले में हमेशा सतर्क रहना चाहिए।"
+    },
+    {
+      "number": "8.223",
+      "sanskrit": "अप्राणिभिर्यत्क्रियते तल्लोके द्यूतमुच्यते।प्राणिभिः क्रियते यस्तु स विज्ञेयः समाह्वयः॥",
+      "english_translation": "What is done without living beings is called gambling in this world. But that which is done with living beings is known as a game.",
+      "hindi_translation": "जो जीवों के बिना किया जाता है, उसे इस संसार में जुआ कहा जाता है। लेकिन जो जीवों के साथ किया जाता है, उसे खेल के रूप में जाना जाता है।"
+    },
+    {
+      "number": "8.224",
+      "sanskrit": "द्यूतं समाह्वयं चैव यः कुर्यात्कारयेत वा।तान्सर्वान्घातयेद्राजा शूद्रांश्च द्विजलिङ्गिनः॥",
+      "english_translation": "The king should punish all those who engage in gambling or organize it, including Shudras and those of the twice-born.",
+      "hindi_translation": "राजा को उन सभी को दंडित करना चाहिए जो जुए में संलग्न होते हैं या इसे आयोजित करते हैं, जिसमें शूद्र और द्विज शामिल हैं।"
+    },
+    {
+      "number": "8.225",
+      "sanskrit": "कितवान्कुशीलवान्क्रूरान्पाषण्डस्थांश्च मानवान्।विकर्मस्थाञ्छौण्डिकांश्च क्षिप्रं निर्वासयेत्पुरात्॥",
+      "english_translation": "The king should quickly expel from the kingdom the deceitful, the wicked, the cruel, and those who engage in wrongful acts.",
+      "hindi_translation": "राजा को जल्दी से राज्य से धोखेबाजों, दुष्टों, क्रूरों और जो गलत कार्य करते हैं, उन्हें निकाल देना चाहिए।"
+    },
+    {
+      "number": "8.230",
+      "sanskrit": "स्त्रीबालोन्मत्तवृद्धानां दरिद्राणां च रोगिणाम्।शिफाविदलरज्ज्वाद्यैर्विदध्यान्नृपतिर्दमम्॥",
+      "english_translation": "The king should impose punishment on women, children, the insane, the aged, the poor, and the sick using ropes and other means.",
+      "hindi_translation": "राजा को महिलाओं, बच्चों, पागलों, वृद्धों, गरीबों और बीमारों पर सजा लगानी चाहिए, रस्सियों और अन्य साधनों का उपयोग करके।"
+    },
+    {
+      "number": "8.231",
+      "sanskrit": "ये नियुक्तास्तु कार्येषु हन्युः कार्याणि कार्यिणाम्।धनोष्मणा पच्यमानास्तान्निःखान्कारयेन्नृपः॥",
+      "english_translation": "Those who are appointed to tasks should be punished if they harm the work or the workers. The king should not spare them.",
+      "hindi_translation": "जो कार्यों के लिए नियुक्त हैं, उन्हें दंडित किया जाना चाहिए यदि वे कार्य या श्रमिकों को नुकसान पहुँचाते हैं। राजा को उन्हें नहीं छोड़ना चाहिए।"
+    },
+    {
+      "number": "8.232",
+      "sanskrit": "कूटशासनकर्तृृंश्च प्रकृतीनां च दूषकान्।स्त्रीबालब्राह्मणघ्नांश्च हन्याद्विट्सेविनस्तथा॥",
+      "english_translation": "The king should punish those who engage in deceitful governance, those who harm the nature, and those who kill women, children, and Brahmins.",
+      "hindi_translation": "राजा को उन लोगों को दंडित करना चाहिए जो धोखाधड़ी वाली शासन में संलग्न होते हैं, जो प्रकृति को नुकसान पहुँचाते हैं, और जो महिलाओं, बच्चों और ब्राह्मणों की हत्या करते हैं।"
+    },
+    {
+      "number": "8.233",
+      "sanskrit": "तीरितं चानुशिष्टं च यत्र क्वचन यद्भवेत्।कृतं तद्धर्मतो विद्यान्न तद्भूयो निवर्तयेत्॥",
+      "english_translation": "What is done according to Dharma, whether it is completed or not, should not be undone.",
+      "hindi_translation": "जो धर्म के अनुसार किया गया है, चाहे वह पूरा हुआ हो या नहीं, उसे वापस नहीं लिया जाना चाहिए।"
+    },
+    {
+      "number": "8.235",
+      "sanskrit": "ब्रह्महा च सुरापश्च स्तेयी च गुरुतल्पगः।एते सर्वे पृथग्ज्ञेया महापातकिनो नराः॥",
+      "english_translation": "The one who kills a Brahmin, the one who drinks alcohol, and the one who steals are all known as great sinners.",
+      "hindi_translation": "जो ब्राह्मण की हत्या करता है, जो शराब पीता है, और जो चोरी करता है, ये सभी महान पापी के रूप में जाने जाते हैं।"
+    },
+    {
+      "number": "8.236",
+      "sanskrit": "चतुर्णामपि चैतेषां प्रायश्चित्तमकुर्वताम्।शारीरं धनसंयुक्तं दण्डं धर्म्यं प्रकल्पयेत्॥",
+      "english_translation": "For these four types of great sinners, a penance should be prescribed, which is appropriate and involves physical punishment.",
+      "hindi_translation": "इन चार प्रकार के महान पापियों के लिए, एक प्रायश्चित्त निर्धारित किया जाना चाहिए, जो उचित हो और शारीरिक दंड शामिल हो।"
+    },
+    {
+      "number": "8.80",
+      "sanskrit": "प्राणलाभे ब्रह्महत्यापापान्मुच्यते। एतदितरप्रकारेण तु रक्षणे गोप्ता गोब्राह्मणस्य चेत्यपुनरुक्तिः॥",
+      "english_translation": "By gaining life, one is freed from the sin of killing a Brahmin. This is reiterated in the context of protecting the cow and Brahmins.",
+      "hindi_translation": "जीवन प्राप्ति से, एक ब्राह्मण की हत्या के पाप से मुक्त होता है। यह गाय और ब्राह्मणों की रक्षा के संदर्भ में पुनः कहा गया है।"
+    },
+    {
+      "number": "8.81",
+      "sanskrit": "एवं दृढव्रतो नित्यं ब्रह्मचारी समाहितः। समाप्ते द्वादशे वर्षे ब्रह्महत्यां व्यपोहति॥",
+      "english_translation": "Thus, the steadfast vow of a celibate, when completed after twelve years, absolves him from the sin of Brahmin killing.",
+      "hindi_translation": "इस प्रकार, एक ब्रह्मचारी का दृढ़ व्रत, जब बारह वर्षों के बाद पूरा होता है, उसे ब्रह्मण हत्या के पाप से मुक्त करता है।"
+    },
+    {
+      "number": "8.82",
+      "sanskrit": "शिष्ट्वा वा भूमिदेवानां नरदेवसमागमे। स्वमेनोऽवभृथस्नातो हयमेधे विमुच्यते॥",
+      "english_translation": "By performing the Ashvamedha sacrifice and bathing after the ritual, one is freed from the sin of killing a Brahmin during the gathering of deities.",
+      "hindi_translation": "अश्वमेध यज्ञ करने और अनुष्ठान के बाद स्नान करने से, एक ब्रह्मण की हत्या के पाप से मुक्त होता है।"
+    },
+    {
+      "number": "8.83",
+      "sanskrit": "धर्मस्य ब्राह्मणो मूलमग्रं राजन्य उच्यते। तस्मात्समागमे तेषामेनो विख्याप्य शुद्ध्यति॥",
+      "english_translation": "The Brahmin is said to be the root of Dharma, and thus, in their gathering, he becomes purified by the ritual.",
+      "hindi_translation": "ब्राह्मण को धर्म का मूल कहा जाता है, और इस प्रकार, उनके समागम में वह अनुष्ठान द्वारा शुद्ध होता है।"
+    },
+    {
+      "number": "8.84",
+      "sanskrit": "ब्राह्मणः संभवेनैव देवानामपि दैवतम्। प्रमाणं चैव लोकस्य ब्रह्मात्रैव हि कारणम्॥",
+      "english_translation": "The Brahmin is indeed the deity of the gods by birth, and he is the very cause of the world.",
+      "hindi_translation": "ब्राह्मण जन्म से ही देवताओं का देवता है, और वह संसार का कारण है।"
+    },
+    {
+      "number": "8.85",
+      "sanskrit": "तेषां वेदविदो ब्रूयुस्त्रयोऽप्येनःसुनिष्कृतिम्। सा तेषां पावनाय स्यात्पवित्रा विदुषां हि वाक्॥",
+      "english_translation": "Among those who know the Vedas, the three should speak of the purification. That speech is indeed purifying for the learned.",
+      "hindi_translation": "जो वेदों को जानते हैं, उनमें से तीन को शुद्धि की बात करनी चाहिए। वह वाक्य वास्तव में विद्वानों के लिए पवित्र है।"
+    },
+    {
+      "number": "8.86",
+      "sanskrit": "अतोऽन्यतममास्थाय विधिं विप्रः समाहितः। ब्रह्महत्याकृतं पापं व्यपोहत्यात्मवत्तया॥",
+      "english_translation": "Thus, taking refuge in one of the prescribed methods, the Brahmin, being composed, removes the sin of Brahmin killing with self-awareness.",
+      "hindi_translation": "इस प्रकार, निर्धारित विधियों में से एक में शरण लेकर, ब्राह्मण, संयमित होकर, आत्म-ज्ञान से ब्रह्मण हत्या के पाप को दूर करता है।"
+    },
+    {
+      "number": "8.87",
+      "sanskrit": "हत्वा गर्भमविज्ञातमेतदेव व्रतं चरेत्। राजन्यवैश्यौ चेजानावात्रेयीमेव च स्त्रियम्॥",
+      "english_translation": "Having killed an unknown fetus, one should perform this vow. If a Kshatriya or Vaishya knows of a woman, he should also perform the vow.",
+      "hindi_translation": "अज्ञात गर्भ को मारकर, एक को यह व्रत करना चाहिए। यदि एक क्षत्रिय या वैश्य किसी स्त्री को जानता है, तो उसे भी यह व्रत करना चाहिए।"
+    },
+    {
+      "number": "8.88",
+      "sanskrit": "उक्त्वा चैवानृतं साक्ष्ये प्रतिरुद्ध्य गुरुं तथा। अपहृत्य च निःक्षेपं कृत्वा च स्त्रीसुहृद्वधम्॥",
+      "english_translation": "Having spoken falsehood in the presence of witnesses and having opposed the guru, one should also perform the vow of killing a female friend.",
+      "hindi_translation": "गवाहों के सामने झूठ बोलने और गुरु का विरोध करने के बाद, एक को स्त्री मित्र की हत्या का व्रत भी करना चाहिए।"
+    },
+    {
+      "number": "8.87",
+      "sanskrit": "ग्नेर्ब्राह्मणस्य हत्वा पत्नीमनिन्दिताम्। ब्रह्महत्याव्रतं कुर्यादात्रेयीघ्नस्तथैव च'॥",
+      "english_translation": "Having killed a Brahmana, one should perform the vow of Brahma-hatya, even if he kills a wife who is blameless.",
+      "hindi_translation": "एक ब्राह्मण को मारने पर, एक निर्दोष पत्नी को मारने पर भी, उसे ब्रह्महत्या का व्रत करना चाहिए।"
+    },
+    {
+      "number": "8.88",
+      "sanskrit": "उक्त्वा चैवानृतं साक्ष्ये प्रतिरुद्ध्य गुरुं तथा। अपहृत्य च निःक्षेपं कृत्वा च स्त्रीसुहृद्वधम्॥",
+      "english_translation": "Having spoken falsehood in the presence of witnesses, having opposed the guru, and having committed the killing of a woman friend, one should perform the atonement.",
+      "hindi_translation": "गवाहों के सामने झूठ बोलने, गुरु का विरोध करने और एक महिला मित्र की हत्या करने पर, उसे प्रायश्चित्त करना चाहिए।"
+    },
+    {
+      "number": "8.89",
+      "sanskrit": "इयं विशुद्धिरुदिता प्रमाप्याकामतो द्विजम्। कामतो ब्राह्मणवधे निष्कृतिर्न विधीयते॥",
+      "english_translation": "This purification is declared for the Brahmana who kills out of desire; no atonement is prescribed for the killing of a Brahmana done out of desire.",
+      "hindi_translation": "यह शुद्धि उस ब्राह्मण के लिए घोषित की गई है जो इच्छावश हत्या करता है; इच्छावश ब्राह्मण हत्या के लिए कोई प्रायश्चित्त निर्धारित नहीं है।"
+    },
+    {
+      "number": "8.90",
+      "sanskrit": "सुरां पीत्वा द्विजो मोहादग्निवर्णां सुरां पिबेत्। तया स काये निर्दग्धे मुच्यते किल्बिषात्ततः॥",
+      "english_translation": "Having drunk the fiery liquor out of delusion, the Brahmana is freed from sin when his body is burned.",
+      "hindi_translation": "भ्रमवश आग्निवर्ण सुरा पीने पर, उसका शरीर जलने पर ब्राह्मण पाप से मुक्त हो जाता है।"
+    },
+    {
+      "number": "8.91",
+      "sanskrit": "गोमूत्रमग्निवर्णं वा पिबेदुदकमेव वा। पयो घृतं वामरणाद्गोशकृद्रसमेव वा॥",
+      "english_translation": "One may drink cow urine, fiery liquor, or water; or milk, ghee, or any other liquid that is not harmful.",
+      "hindi_translation": "कोई गाय का मूत्र, आग्निवर्ण सुरा या पानी पी सकता है; या दूध, घी या कोई अन्य तरल जो हानिकारक नहीं है।"
+    },
+    {
+      "number": "8.92",
+      "sanskrit": "कणान्वा भक्षयेदब्दं पिण्याकं वा सकृन्निशि। सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी॥",
+      "english_translation": "One may eat a small amount of food or a morsel of food at night; for the purpose of atoning for drinking liquor, one should wear a matted hair and a flag.",
+      "hindi_translation": "कोई रात में थोड़ी मात्रा में भोजन या एक कौर खा सकता है; शराब पीने के प्रायश्चित्त के लिए, उसे जटा और ध्वज धारण करना चाहिए।"
+    },
+    {
+      "number": "8.93",
+      "sanskrit": "सुरां वै मलमन्नानां पाप्मा च मलमुच्यते। तस्माद्ब्राह्मणराजन्यौ वैश्यश्च न सुरां पिबेत्॥",
+      "english_translation": "Liquor is indeed impure food, and sin is also impure; therefore, Brahmanas, Kshatriyas, and Vaishyas should not drink liquor.",
+      "hindi_translation": "शराब वास्तव में अशुद्ध भोजन है, और पाप भी अशुद्ध है; इसलिए, ब्राह्मणों, क्षत्रियों और वैश्याओं को शराब नहीं पीनी चाहिए।"
+    },
+    {
+      "number": "8.94",
+      "sanskrit": "गौडी पैष्टी च माध्वी च विज्ञेया त्रिविधा सुरा। यथैवैका तथा सर्वा न पातव्या द्विजोत्तमैः॥",
+      "english_translation": "The three types of liquor are known as Gaudi, Paishthi, and Madhvi; just as one should not drink one, one should not drink any of them.",
+      "hindi_translation": "तीन प्रकार की शराब गौडी, पैष्टी और माध्वी के रूप में जानी जाती हैं; जैसे एक को नहीं पीना चाहिए, वैसे ही किसी को भी नहीं पीना चाहिए।"
+    },
+    {
+      "number": "8.95",
+      "sanskrit": "यक्षरक्षः पिशाचान्नं मद्यं मांसं सुरासवम्। तद्ब्राह्मणेन नात्तव्यं देवानामश्नता हविः॥",
+      "english_translation": "Food that is associated with Yakshas, Rakshasas, and Pisachas, as well as liquor and meat, should not be eaten by Brahmanas, who are the ones who offer oblations to the gods.",
+      "hindi_translation": "जो भोजन यक्षों, राक्षसों और पिशाचों से संबंधित है, साथ ही शराब और मांस, उसे ब्राह्मणों द्वारा नहीं खाना चाहिए, जो देवताओं को हविः अर्पित करते हैं।"
+    }
+  ]
+}

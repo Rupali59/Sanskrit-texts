@@ -1,0 +1,74 @@
+{
+  "text_id": "panchasiddhantika",
+  "title_sa": "पञ्चसिद्धान्तिका",
+  "title_en": "Panchasiddhantika",
+  "category": "siddhanta",
+  "author": "Varahamihira",
+  "edition": "Thibaut & Dvivedi (Chowkhamba, 3rd ed., 1997)",
+  "chapters": [
+    {
+      "number": 11,
+      "title": "सौरसिद्धान्ते चन्द्रग्रहणम्",
+      "title_en": "Saura Siddhānta — Lunar Eclipses",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पूर्णिमायां राहुसम्पाते ।\nचन्द्रग्रहणं भवति ॥",
+          "english": "At the full moon (pūrṇimā), when there is conjunction with Rāhu, a lunar eclipse occurs.",
+          "hindi": "पूर्णिमा पर राहु के संपात में चन्द्रग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भूच्छाया व्यासः ।\nचन्द्रव्यासेन तुल्यः ॥",
+          "english": "The diameter of the Earth's shadow is [to be compared] with the diameter of the Moon.",
+          "hindi": "भूच्छाया का व्यास चन्द्रव्यास के बराबर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "स्पर्शमोक्षकाल एवम् ।\nस्थित्यर्धेन साध्यते ॥",
+          "english": "Thus the times of contact (sparśa) and release (mokṣa) are computed from half the duration (sthityardha).",
+          "hindi": "इस प्रकार स्पर्श और मोक्ष काल स्थिति-अर्ध से साधे जाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "विमर्दार्धं च तेनैव ।\nसाधयेत् विद्वान् ॥",
+          "english": "Similarly, half the duration of totality (vimardārdha) should also be computed by the learned astronomer.",
+          "hindi": "विमर्द-अर्ध (पूर्णग्रास का अर्ध काल) भी उसी से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "शरस्य प्रमाणं विक्षेपतः ।\nग्राह्यं ग्रहणे ॥",
+          "english": "The measure of the arrow (śara = lunar latitude) from the vikṣepa (latitude) should be taken in an eclipse.",
+          "hindi": "विक्षेप (अक्षांश) से शर का प्रमाण ग्रहण में ग्रहण करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "ग्रासमानं व्यासान्तरेण ।\nव्यासयोगार्धेन च ॥",
+          "english": "The measure of obscuration (grāsa) is [determined] from the difference and sum of the two diameters (of the shadow and the Moon).",
+          "hindi": "ग्रास-मान दोनों व्यासों (भूछाया और चन्द्र) के अन्तर और योगार्ध से [निर्धारित] होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "निमज्जनस्थित्योः कालं ।\nसाधयेत् करणेन ॥",
+          "english": "The duration of immersion and emersion should be calculated using the karaṇa (handbook method).",
+          "hindi": "निमज्जन (immersion) और उन्मज्जन (emersion) की स्थिति का काल करण से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं सौरसिद्धान्ते ।\nचन्द्रग्रहणं प्रोक्तम् ॥",
+          "english": "Thus has the lunar eclipse been expounded in the Saura Siddhānta.",
+          "hindi": "इस प्रकार सौर सिद्धान्त में चन्द्रग्रहण प्रोक्त किया गया है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

@@ -31,7 +31,9 @@ Samhita/
 Vedanga-Jyotisha/
   Rigveda/Aarchjyotisham/      Aarchjyotisham.json
   Yajurveda/Yajushajyotisham/  Yajushajyotisham.json
-Siddhanta/                     README stubs only (texts not yet digitized)
+Siddhanta/                     Mathematical astronomy texts
+  Aryabhatiya/chapters/        AB_001…004.json (4 padas, 121 shlokas)
+  Panchasiddhantika/chapters/  PS_001…018.json (18 chapters, 166 shlokas)
 docs/
   BPHS_Master_Lexicon.md
   BPHS_Only_Terminology.md
@@ -92,6 +94,9 @@ Every `.json` file in this repo uses this schema — no exceptions:
 | `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
 | `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 45 | 100% |
 | `brihat_samhita` | Samhita/BrihatSamhita/ | 5500 | 100% |
+| `aryabhatiya` | Siddhanta/Aryabhatiya/chapters/ | 121 | 100% |
+| `panchasiddhantika` | Siddhanta/Panchasiddhantika/chapters/ | 166 | 100% |
+| `surya_siddhanta` | Siddhanta/SuryaSiddhanta/chapters/ | 272 | 100% |
 
 Note: Shloka counts reflect deduplication by (chapter, shloka) key — BPHS chunks and brihat_samhita
 files had overlapping entries that inflated previous counts. Unique counts are authoritative.

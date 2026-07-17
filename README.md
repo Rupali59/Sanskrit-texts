@@ -50,6 +50,10 @@ texts/
 │   ├── TripuraRahasya/                [reference — not yet digitized]
 │   └── VijnanaBhairavaTantra/         [reference — not yet digitized]
 │
+├── Dharmashastra/       Codes of conduct and law
+│   ├── ManuSmriti/                    [reference — not yet digitized]
+│   └── GrihyaSutram/                  [reference — not yet digitized]
+│
 └── SamudrikShastra/     Palmistry and body reading — in progress
     ├── SamudrikaTilaka/               [reference — not yet digitized]
     └── Hastamuktavali/                [reference — not yet digitized]
@@ -98,3 +102,5 @@ Some texts have a `chapters/` subdirectory with one JSON per chapter.
 - Internet Archive: https://archive.org/search?query=jyotish+sanskrit
 - WisdomLib: https://www.wisdomlib.org/
 - BORI Manuscripts (Pune): http://bori.ac.in/
+- eBharati Sampat: https://www.ebharatisampat.in/
+- Jain eLibrary: https://jainelibrary.org/

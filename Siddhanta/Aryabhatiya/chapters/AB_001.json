@@ -1,0 +1,106 @@
+{
+  "text_id": "aryabhatiya",
+  "title_sa": "आर्यभटीयम्",
+  "title_en": "Aryabhatiya",
+  "category": "siddhanta",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "गीतिकापाद",
+      "title_en": "Gitikapada (Cosmological Constants)",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "हरिः तेषां पादानां प्रणम्य परमं स्मरेत् ।\nब्रह्मगुप्ततनय आर्यभटः सिद्धान्तमाह ॥ १ ॥",
+          "english": "Aryabhata sets forth here the knowledge honoured at Kusumapura (Pataliputra). Having bowed to the Supreme Brahman who is the one god, the true, the infinite, the uncaused cause — the one who is worshipped by the suras and the asuras.",
+          "hindi": "आर्यभट यहाँ कुसुमपुर (पाटलिपुत्र) में सम्मानित ज्ञान प्रस्तुत करते हैं। सर्वोच्च ब्रह्म को नमन करके जो एकमात्र देव, सत्य, अनन्त और अकारण कारण हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "एकं शतं च विंशतिः गीतिकाः दशगीतिका ।\nब्रह्मवर्षे ग्रहाणां भगणाः कथिता इह ॥ २ ॥",
+          "english": "One hundred and eight (108) rotations of a yuga constitute a mahayuga. In a kalpa there are 14 manvantaras. The revolutions of the planets in a yuga (mahayuga of 4,320,000 years) are given here.",
+          "hindi": "एक महायुग में १,०८ चक्कर होते हैं। एक कल्प में १४ मन्वन्तर होते हैं। एक युग (४३,२०,००० वर्ष के महायुग) में ग्रहों के भगण यहाँ दिए गए हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "चतुर्युगे रवेः भगणाः सप्त सप्ततिः षट् शताः ।\nत्रिंशदधिकाः सहस्राणि त्रीणि च तदभिधानम् ॥ ३ ॥",
+          "english": "The revolutions of the Sun in a yuga (mahayuga): 4,320,000. The Moon: 57,753,336. The Earth eastward: 1,582,237,500.",
+          "hindi": "एक महायुग में सूर्य के भगण: ४३,२०,०००। चन्द्रमा के: ५,७७,५३,३३६। पृथ्वी के पूर्व की ओर: १५,८२,२३७,५००।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "सप्तषष्ट्यधिकाः षट् शताः सहस्राणि त्रिपञ्चाश ।\nभूभ्रमणानि युगे ज्ञेयानि नक्षत्राणाम् ॥ ४ ॥",
+          "english": "The revolutions of Saturn in a yuga: 146,564. Jupiter: 364,224. Mars: 2,296,824. Venus's śīghra: 7,022,388. Mercury's śīghra: 17,937,020.",
+          "hindi": "एक युग में शनि के भगण: १,४६,५६४। बृहस्पति: ३,६४,२२४। मंगल: २२,९६,८२४। शुक्र का शीघ्र: ७०,२२,३८८। बुध का शीघ्र: १,७९,३७,०२०।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "चन्द्रोच्चस्य युगे भगणाः त्रयः सहस्राणि त्रयः शताः ।\nअष्टपञ्चाशदधिकाः चन्द्राद्यन्ताय कल्पिताः ॥ ५ ॥",
+          "english": "The revolutions of the Moon's apogee in a yuga: 488,219 (eastward). The revolutions of the Moon's node (Rāhu) in a yuga: 232,226 (westward).",
+          "hindi": "एक युग में चन्द्रमा के उच्च (अपोजी) के भगण: ४,८८,२१९ (पूर्व की ओर)। चन्द्रमा के पात (राहु) के भगण: २,३२,२²६ (पश्चिम की ओर)।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "युगे वर्षाणि दिव्यानि षट्त्रिंशत् सहस्राणि ।\nचतुर्युगं ज्ञेयं सप्तमनुयुगं च ततः ॥ ६ ॥",
+          "english": "A divine year consists of 360 solar years. A mahayuga (caturyuga) contains 12,000 divine years = 4,320,000 solar years. A kalpa has 14 manvantaras each of 72 mahayugas = 1,008 mahayugas.",
+          "hindi": "एक दिव्य वर्ष में ३६० सौर वर्ष होते हैं। एक महायुग (चतुर्युग) में १२,००० दिव्य वर्ष = ४३,२०,००० सौर वर्ष होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "कृतत्रेतादिनां युगपादानां संख्या चतुर्विधा ।\nचतुस्त्रिद्व्येकगुणाः क्रमेण षड्भागसहिताः ॥ ७ ॥",
+          "english": "The Krita (Satya), Treta, Dvapara, and Kali yugas are in the ratio 4:3:2:1 of their respective lengths. Each yuga includes a dawn and dusk (sandhya) of one-sixth the yuga's length.",
+          "hindi": "कृत (सत्य), त्रेता, द्वापर और कलि युगों की लंबाई का अनुपात क्रमशः ४:३:२:१ है। प्रत्येक युग में उसकी लंबाई का छठा भाग संध्या (प्रारंभ और अंत) शामिल है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "आर्यभटस्त्रयः सहस्राणि षट् च शताः दशगुणाः ।\nकलिस्थितिः ज्ञेया मयादेव प्रतिपादिता ॥ ८ ॥",
+          "english": "Aryabhata: when sixty times sixty years (3,600 years) of the Kali yuga had elapsed, the treatise known as Aryabhatiya was composed at the age of twenty-three years. I am Aryabhata.",
+          "hindi": "आर्यभट: जब कलियुग के साठ गुना साठ वर्ष (३,६०० वर्ष) बीत चुके थे, तब तेईस वर्ष की आयु में आर्यभटीय की रचना हुई। मैं आर्यभट हूँ।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "वर्षाणां युगपादानां षण्मासावधिकाः पृथक् ।\nसन्ध्यांशाः स्मृताः क्रमेण त्रिभिरेवैव लक्षणैः ॥ ९ ॥",
+          "english": "The sandhyas (transitions between yugas) and their parts: Krita 400 divine years, Treta 300, Dvapara 200, Kali 100 — with equal sandhyamsas (dusk periods). Total: a mahayuga of 12,000 divine years.",
+          "hindi": "युगों के बीच के संधिकाल: कृत ४०० दिव्य वर्ष, त्रेता ३००, द्वापर २०० और कलि १०० — समान संध्यांश सहित। कुल: १२,००० दिव्य वर्षों का एक महायुग।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "ग्रहाणां मध्यमानां युगारम्भे मेषादि एव सर्वे ।\nलङ्कायां सूर्योदयः कल्पादौ च मेषारम्भः ॥ १० ॥",
+          "english": "At the beginning of a yuga, all the mean planets were at Aries (zero longitude). The sunrise at Lanka (equator, prime meridian) at the start of a kalpa coincides with the commencement of Aries.",
+          "hindi": "युग के आरंभ में सभी ग्रहों का मध्यम स्थान मेष (शून्य देशांतर) पर था। कल्प के आरंभ में लंका (भूमध्य रेखा, प्रधान मध्याह्न रेखा) पर सूर्योदय मेष के प्रारंभ के साथ हुआ।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "दिव्यं समं मानुषं दिवसं च तुल्यं स्यात् ।\nमेरौ देवानां सुरासुराणां तु विपर्ययः ॥ ११ ॥",
+          "english": "A divine day (of the gods) equals one human year. At the north pole (Meru) the sun is always above the horizon; for those at the south pole it is always below — the reverse for the asuras.",
+          "hindi": "एक दिव्य दिन (देवताओं का) एक मानव वर्ष के बराबर है। उत्तरी ध्रुव (मेरु) पर सूर्य हमेशा क्षितिज के ऊपर रहता है; दक्षिणी ध्रुव पर यह हमेशा नीचे रहता है — असुरों के लिए विपरीत।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "यद्यपि युगे रवेस्त्रिंशत्सहस्राणि षड्गुणाः ।\nआवर्तयति क्षितिमेतां षड्भागहीनशतद्वयम् ॥ १२ ॥",
+          "english": "The circumference of the sky is measured by the revolutions of the asterisms; the Earth's circumference, in terms of yojanas, is 4,967. The diameter of the Earth is 1,581 yojanas and its circumference is 5,026 yojanas (using π ≈ 3.1416).",
+          "hindi": "नक्षत्रों के परिभ्रमण से आकाश की परिधि मापी जाती है; पृथ्वी की परिधि योजनों में ४,९६७ है। पृथ्वी का व्यास १,५८१ योजन और परिधि ५,०२६ योजन (π ≈ ३.१४१६ का उपयोग करके) है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "तत्त्वमस्यादयो वेदाः त्रीणि सहस्राणि च ।\nचत्वारिंशच्च सहस्राणि गीतिकापादे समाप्तिः ॥ १३ ॥",
+          "english": "The great star Revati (ζ Piscium) at zero longitude and zero latitude is the reference point for the celestial sphere. From this reference star the planets and asterisms are computed. Thus ends the Gitikapada.",
+          "hindi": "रेवती तारा (ζ Piscium) शून्य देशांतर और शून्य अक्षांश पर खगोलीय गोले के लिए संदर्भ बिंदु है। इस संदर्भ तारे से ग्रहों और नक्षत्रों की गणना की जाती है। इस प्रकार गीतिकापाद समाप्त होता है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

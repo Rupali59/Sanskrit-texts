@@ -1,0 +1,246 @@
+{
+  "text_id": "aryabhatiya",
+  "title_sa": "आर्यभटीयम्",
+  "title_en": "Aryabhatiya",
+  "category": "siddhanta",
+  "chapters": [
+    {
+      "number": 2,
+      "title": "गणितपाद",
+      "title_en": "Ganitapada (Mathematics)",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "वर्गस्य मूलं वर्गमूलं विषमस्य विषमात् ।\nस्थानान्तरात् समस्थानात् पृथगेव विभाजयेत् ॥ १ ॥",
+          "english": "One should always divide the non-square number (placed at the odd position from right) by twice the square root of the square (preceding it). After subtracting the square of the quotient from the number at the even place, the result gives the next digit of the square root.",
+          "hindi": "किसी भी विषम स्थान की संख्या को उससे पूर्व के वर्ग के वर्गमूल के दोगुने से विभाजित करना चाहिए। सम स्थान की संख्या से भागफल के वर्ग को घटाने के बाद शेष वर्गमूल का अगला अंक देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "घनस्य मूलं घनसम्पन्नात् स्थानात्त्रिभागे ।\nत्रिभिर्वर्गैः त्रिगुणेन मूलं शोधयेत्त्रिभागात् ॥ २ ॥",
+          "english": "For cube root: one should subtract the greatest cube (contained in the number at the third place from right), and then divide the remainder by three times the square of that cube root. Continue alternately subtracting cube and dividing to find each digit.",
+          "hindi": "घनमूल के लिए: दाईं ओर से तीसरे स्थान की संख्या से सबसे बड़ा घन (जो उसमें निहित हो) घटाना चाहिए, फिर शेष को उस घनमूल के वर्ग के तिगुने से विभाजित करें। प्रत्येक अंक खोजने के लिए बारी-बारी से घटाव और विभाजन जारी रखें।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "समत्रिभुजस्य क्षेत्रफलं विष्कम्भार्धेन गुणितं ।\nविष्कम्भस्य वर्गाः षट्त्रिंशद् वृत्तक्षेत्रफलम् ॥ ३ ॥",
+          "english": "The area of a triangle is half the base times the height. The area of a circle is (π/4) × diameter². The volume of a sphere is (π/6) × diameter³ (Aryabhata gives: area = circumference/2 × radius = π r²).",
+          "hindi": "त्रिभुज का क्षेत्रफल आधार गुणा ऊँचाई का आधा है। वृत्त का क्षेत्रफल (π/4) × व्यास² है। गोले का आयतन (π/6) × व्यास³ है (आर्यभट देते हैं: क्षेत्रफल = परिधि/2 × त्रिज्या = π r²)।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "समचतुर्भुजक्षेत्रं सर्वकर्णद्वयं समम् ।\nत्रिभुजे कर्णः स्याद् भुजस्य वर्गयोगमूलम् ॥ ४ ॥",
+          "english": "In a rectangle, the area equals the product of the two sides. In a right triangle, the hypotenuse equals the square root of the sum of the squares of the two sides (Pythagoras theorem). The area of a rhombus equals half the product of the diagonals.",
+          "hindi": "आयत में क्षेत्रफल दो भुजाओं के गुणनफल के बराबर होता है। समकोण त्रिभुज में कर्ण दोनों भुजाओं के वर्गों के योग का वर्गमूल होता है (पाइथागोरस प्रमेय)। समचतुर्भुज का क्षेत्रफल विकर्णों के गुणनफल का आधा होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "समपरिणाहस्य बाहुयुगलं षड्भागयुतं विस्तारे ।\nपरिधिस्त्रिगुणो व्यासः सूक्ष्मः प्रयोगे ॥ ५ ॥",
+          "english": "Add 4 to 100, multiply by 8, and add 62,000: the result (62,832) is the approximate circumference of a circle with diameter 20,000. Therefore π ≈ 62832/20000 = 3.1416 — this is āsanna (approximate) but near the truth.",
+          "hindi": "१०० में ४ जोड़ें, ८ से गुणा करें, और ६२,००० जोड़ें: परिणाम (६२,८३२) व्यास २०,००० वाले वृत्त की अनुमानित परिधि है। अतः π ≈ ३.१४१६ — यह 'आसन्न' (सन्निकट) है किंतु सत्य के निकट है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "समचापस्य ज्याखण्डानि षट्त्रिंशत् विभज्य ।\nप्रथमज्याखण्डमूलाद् अनन्तरं शोधयेत् ॥ ६ ॥",
+          "english": "The chord of one-eighth of a circle (arc of 45°) is found by dividing the circumference into equal arcs. The method of finding successive jyā (half-chords/sines) in steps of 3°45' (225 minutes of arc), generating 24 values from 0° to 90°.",
+          "hindi": "वृत्त के एक-आठवें भाग (४५° की चाप) की ज्या वृत्त को समान चापों में विभाजित करके प्राप्त की जाती है। ३°४५' (२२५ आर्कमिनट) के चरणों में क्रमिक ज्या (अर्धजीवाएँ/साइन) खोजने की विधि, ०° से ९०° तक २४ मान उत्पन्न करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "प्रथमज्या खण्डेन स्वयमेव विभाजिता ।\nद्वितीयज्याखण्डाद् विशोधयेत्प्रथमखण्डात् ॥ ७ ॥",
+          "english": "The first jyā difference is 225. Each subsequent difference is obtained by subtracting from the preceding difference the quotient obtained by dividing the sum of all preceding differences by 225. This generates the 24 canonical sine values.",
+          "hindi": "पहला ज्यांतर २२५ है। प्रत्येक अगला अंतर पूर्व अंतर में से उन सभी पूर्व अंतरों के योग को ²२५ से विभाजित करके प्राप्त भागफल को घटाने से मिलता है। इससे २४ कैनोनिकल साइन मान उत्पन्न होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "त्रिभुजयुगलाभ्यां समचतुष्पार्श्वे संयोज्य ।\nयदि षड्भागस्त्रिभुजस्य विशेषो भवति ॥ ८ ॥",
+          "english": "The 24 sine differences (jyākhanda) in minutes of arc: 225, 224, 222, 219, 215, 210, 205, 199, 191, 183, 174, 164, 154, 143, 131, 119, 106, 93, 79, 65, 51, 37, 22, 7.",
+          "hindi": "आर्कमिनट में २४ ज्यांतर: ²²५, ²²४, ²²², ²१९, ²१५, ²१०, ²०५, १९९, १९१, १८३, १७४, १६४, १५४, १४³, १३१, ११९, १०६, ९³, ७९, ६५, ५१, ३७, ²², ७।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "समान्तरश्रेण्याः प्रथमोत्तरान्त्यः ।\nसरूपाणां समं व्येकं पदोनं गच्छलब्धम् ॥ ९ ॥",
+          "english": "The sum of an arithmetic series: (first term + last term)/2 × number of terms. The number of terms = (last – first)/common difference + 1. The sum of cubes of the first n natural numbers equals the square of the sum of the first n natural numbers.",
+          "hindi": "समान्तर श्रेणी का योग: (पहला पद + अंतिम पद)/२ × पदों की संख्या। पदों की संख्या = (अंतिम – पहला)/सार्व अंतर + १। प्रथम n प्राकृतिक संख्याओं के घनों का योग प्रथम n प्राकृतिक संख्याओं के योग के वर्ग के बराबर है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "वर्गाणां समासः यावन्नवानां यत् पदम् ।\nतस्य षड्भागो विवर्धितो द्वित्रिसंयुतेन ॥ १० ॥",
+          "english": "The sum of the squares of the first n natural numbers is n(n+1)(2n+1)/6. The sum of the cubes of the first n natural numbers is [n(n+1)/2]². Aryabhata's formulas predate similar results in European mathematics by over a millennium.",
+          "hindi": "प्रथम n प्राकृतिक संख्याओं के वर्गों का योग n(n+1)(2n+1)/6 है। प्रथम n प्राकृतिक संख्याओं के घनों का योग [n(n+1)/2]² है। आर्यभट के ये सूत्र यूरोपीय गणित में समान परिणामों से एक सहस्राब्दी से अधिक पुराने हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "उत्क्रमज्यायाः खण्डानि तद्वर्गस्य च ।\nत्रिभुजे कोटिभुजयोर्वर्गयोगमूलं कर्णः ॥ ११ ॥",
+          "english": "The versine (utkrama-jyā) of an arc equals the radius minus the cosine (koti-jyā). The sine (jyā) and cosine of an arc satisfy: jyā² + koti-jyā² = radius². In a right triangle: hypotenuse² = base² + height².",
+          "hindi": "किसी चाप की उत्क्रम-ज्या = त्रिज्या − कोटि-ज्या (कोज्या)। किसी चाप की ज्या और कोटि-ज्या: ज्या² + कोटि-ज्या² = त्रिज्या²। समकोण त्रिभुज में: कर्ण² = आधार² + लंब²।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "क्षेत्रफलं समव्यासार्धगुणितपरिधिः ।\nअर्धव्यासघ्नमेव वृत्तक्षेत्रफलं जानीयात् ॥ १२ ॥",
+          "english": "The area of a circle = (circumference/2) × (radius) = π r². Half the circumference times the radius gives the circular area. This is equivalent to the modern formula and shows Aryabhata's grasp of the relationship between circumference and area.",
+          "hindi": "वृत्त का क्षेत्रफल = (परिधि/२) × (त्रिज्या) = π r²। परिधि का आधा गुणा त्रिज्या वृत्त का क्षेत्रफल देता है। यह आधुनिक सूत्र के समतुल्य है और परिधि तथा क्षेत्रफल के बीच संबंध की आर्यभट की समझ को दर्शाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "यदि स्वर्णस्य मूल्यं ज्ञातं पण्यस्य मूल्यम् ।\nलब्धं त्रैराशिकेन विज्ञाय साधयेत्त्रिभिः ॥ १३ ॥",
+          "english": "The rule of three (trairāśika): if quantity A costs B, what does C cost? Answer: BC/A. This includes the inverse rule of three and compound proportion (five-term, seven-term rules). A foundational technique for commerce and astronomical computation.",
+          "hindi": "त्रैराशिक नियम: यदि A की कीमत B है, तो C की कीमत क्या होगी? उत्तर: BC/A। इसमें व्युत्क्रम त्रैराशिक और यौगिक अनुपात (पाँच-पद, सात-पद नियम) शामिल हैं। व्यापार और खगोलीय गणना के लिए एक मूलभूत तकनीक।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "फलं स्वर्णसमूहस्य धनर्णयोर्विभागः ।\nसमीकरणेन साध्यं मूलफलसमन्वितम् ॥ १४ ॥",
+          "english": "Interest problems: if principal P earns interest I in time T, find the rate or any missing quantity. Aryabhata's approach covers simple interest, time-rate problems, and the algebraic kuttaka (pulverizer) method for solving linear indeterminate equations.",
+          "hindi": "ब्याज की समस्याएँ: यदि मूलधन P, समय T में ब्याज I कमाता है, तो दर या कोई अज्ञात राशि ज्ञात करें। आर्यभट का दृष्टिकोण साधारण ब्याज, समय-दर समस्याओं और रैखिक अनिश्चित समीकरणों को हल करने के लिए बीजगणितीय कुट्टक (विभाजक) विधि को शामिल करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "यत्संख्यया भागेन युज्यते हीयते च यत् ।\nमध्यमसंख्यालब्धोत्तरं गुणितं तेन ॥ १५ ॥",
+          "english": "To find a number which when divided by a gives remainder b, and when divided by c gives remainder d: Aryabhata's kuttaka ('pulverizer') algorithm for solving such linear congruences — the earliest known systematic method, equivalent to the modern extended Euclidean algorithm.",
+          "hindi": "ऐसी संख्या खोजना जो a से विभाजित करने पर शेष b दे, और c से विभाजित करने पर शेष d दे: आर्यभट का कुट्टक ('पीसने वाला') एल्गोरिदम — ऐसे रैखिक सर्वांगसमों को हल करने की सबसे पुरानी ज्ञात व्यवस्थित विधि, आधुनिक विस्तारित यूक्लिडियन एल्गोरिदम के समतुल्य।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "छेदे तुल्ये समाने राशिद्वयसमासे ।\nसमस्तयोः संख्यानां वर्गसमासमूलम् ॥ १६ ॥",
+          "english": "The product of two numbers is equal to the product of their GCD and LCM: GCD × LCM = a × b. The square root of the sum of squares of two quantities gives the hypotenuse (another statement of the Pythagorean theorem applied to calculations).",
+          "hindi": "दो संख्याओं का गुणनफल उनके महत्तम समापवर्तक और लघुत्तम समापवर्तक के गुणनफल के बराबर है: महसपव × लसपव = a × b। दो राशियों के वर्गों के योग का वर्गमूल कर्ण देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "श्रेण्यानयनं तत्पदसंख्याभ्यां ।\nगच्छस्य आदि उत्तरान्त्यं संख्या च प्रथमात् ॥ १७ ॥",
+          "english": "The general term and sum of geometric progressions: if the first term is a and common ratio is r, the nth term = ar^(n-1), and the sum of n terms = a(r^n - 1)/(r - 1). Applied also to computing compound interest over multiple periods.",
+          "hindi": "गुणोत्तर श्रेणियों का सामान्य पद और योग: यदि पहला पद a और सार्व अनुपात r है, तो n वाँ पद = ar^(n-1), और n पदों का योग = a(r^n - 1)/(r - 1)। कई अवधियों में चक्रवृद्धि ब्याज की गणना में भी प्रयुक्त।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "खातायां भुवि गहनायां समधूल्यां ।\nक्षेत्रफलेन गुणितं गहनता तत् फलम् ॥ १८ ॥",
+          "english": "The volume of an excavation equals area × depth. For a frustum (truncated pyramid or cone), the volume is the average cross-section × height. The approximate volume of a sphere is (π/6) × d³, but Aryabhata notes this is not exact.",
+          "hindi": "एक खुदाई का आयतन = क्षेत्रफल × गहराई। किसी शंकु खंड (छिन्नित पिरामिड या शंकु) का आयतन औसत अनुच्छेद × ऊँचाई है। गोले का अनुमानित आयतन (π/6) × d³ है, किंतु आर्यभट बताते हैं कि यह सटीक नहीं है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "नयनरश्मेः पादपयोः समान्तरं ।\nछायागत् नरस्य क्षितिपादपयोः ॥ १९ ॥",
+          "english": "Shadow problems: the length of a shadow cast by a pole of height h, given a light source at height L and horizontal distance D: shadow = hD/(L-h). Applicable to gnomon (śańku) calculations, measuring heights of buildings, and solar altitude from shadow length.",
+          "hindi": "छाया समस्याएँ: ऊँचाई h के खंभे से पड़ने वाली छाया की लंबाई, ऊँचाई L और क्षैतिज दूरी D पर प्रकाश स्रोत दिया गया है: छाया = hD/(L-h)। शंकु (gnomon) गणनाओं, भवनों की ऊँचाई मापने और छाया की लंबाई से सौर उन्नतांश पर लागू।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "मिलितयोः समं गत्योः अन्तरेण ।\nमिलितकालोऽपि साधनीयो भूमिकाभ्याम् ॥ २० ॥",
+          "english": "Meeting-time problems: if two bodies moving at speeds v₁ and v₂ start from the same point or different points, the time when they meet is distance/(v₁ - v₂) or distance/(v₁ + v₂) depending on direction. Applied directly to planetary conjunction calculations.",
+          "hindi": "मिलन-समय समस्याएँ: यदि दो पिंड v₁ और v₂ गति से एक ही बिंदु या अलग-अलग बिंदुओं से चलते हैं, तो मिलने का समय दिशा के अनुसार दूरी/(v₁ - v₂) या दूरी/(v₁ + v₂) है। ग्रह संयुति गणनाओं में प्रत्यक्ष रूप से लागू।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "दृष्टिरश्मिर्वृत्तं स्पृशति यत्र ।\nतच्चापं कर्णेन गुणितं परिधेः ॥ २१ ॥",
+          "english": "The angle subtended by a chord at the center of a circle is twice the angle it subtends at any point on the major arc (inscribed angle theorem). The sagitta (arrow, śara) of an arc = radius - cosine of half the arc angle.",
+          "hindi": "वृत्त के केन्द्र पर किसी जीवा द्वारा बना कोण उसके वृहत्तर चाप के किसी भी बिंदु पर बने कोण का दोगुना होता है (अंकित कोण प्रमेय)। किसी चाप का शर (बाण) = त्रिज्या − अर्ध-चाप कोण की कोज्या।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "त्रिभुजे समतायां क्षेत्रफलसाधनम् ।\nतत्त्रिभुजस्य भुजैः सिद्धं विशेषतः ॥ २२ ॥",
+          "english": "For a triangle with sides a, b, c: the area can be found using the altitude. If the altitude from vertex A to side a is h, then area = (1/2) × a × h. The altitude h can be found from the right triangles formed. This is Aryabhata's approach to Heron's formula.",
+          "hindi": "भुजाओं a, b, c वाले त्रिभुज के लिए: लंब का उपयोग करके क्षेत्रफल ज्ञात किया जा सकता है। यदि शीर्ष A से भुजा a पर लंब h है, तो क्षेत्रफल = (1/2) × a × h। यह हेरॉन के सूत्र के लिए आर्यभट का दृष्टिकोण है।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "विषमत्रिभुजे कर्णः पादद्वयभेदात् ।\nऊर्ध्वाधरसूत्रेण समखण्डे यदा ॥ २३ ॥",
+          "english": "In an unequal (scalene) triangle, the altitude from any vertex divides the base into two segments. These segments are found using: smaller segment = (a² + b² - c²)/(2a), where a is the base. This allows computing the altitude and then the area.",
+          "hindi": "किसी विषमबाहु त्रिभुज में, किसी भी शीर्ष से लंब आधार को दो खंडों में विभाजित करता है। ये खंड इस प्रकार ज्ञात होते हैं: छोटा खंड = (a² + b² - c²)/(2a), जहाँ a आधार है। इससे लंब और फिर क्षेत्रफल की गणना की जा सकती है।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "त्रिभुजे समस्तभुजानां वर्गसमासात् ।\nमूलं कर्णः स्यात् विषमे चतुर्भुजे ॥ २४ ॥",
+          "english": "The diagonal of a quadrilateral: knowing the diagonals and sides, compute areas of the four triangles formed. In a cyclic quadrilateral (inscribed in a circle), opposite angles are supplementary. Aryabhata's formulas handle both equal and unequal quadrilaterals.",
+          "hindi": "किसी चतुर्भुज का विकर्ण: विकर्ण और भुजाएँ जानकर, बने चार त्रिभुजों का क्षेत्रफल गणना करें। चक्रीय चतुर्भुज (वृत्त में अंकित) में सम्मुख कोण पूरक होते हैं। आर्यभट के सूत्र समान और असमान दोनों चतुर्भुजों को संभालते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "पित्रोर्भागफलस्यानुपातेन ।\nभिन्नफलस्य च साधनमुक्तम् ॥ २५ ॥",
+          "english": "Mixtures: if articles of two prices are mixed to obtain a desired average price, find the quantities of each. This is the alligation rule. Also covers currency mixing (gold of different purities) and grain mixing problems of daily commerce.",
+          "hindi": "मिश्रण: यदि दो मूल्यों की वस्तुओं को वांछित औसत मूल्य प्राप्त करने के लिए मिलाया जाए, तो प्रत्येक की मात्रा ज्ञात करें। यह मिश्रण नियम है। मुद्रा मिश्रण (भिन्न शुद्धता के सोने) और अनाज मिश्रण की दैनिक व्यापार समस्याओं को भी शामिल करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "रूपाणामपवर्तनं तद्वधेन ।\nगच्छाच्छेदे युगपद् विभागे ॥ २६ ॥",
+          "english": "To find a number N such that N ≡ r₁ (mod m₁) and N ≡ r₂ (mod m₂): Aryabhata's kuttaka algorithm finds the solution systematically. This is the Chinese Remainder Theorem, discovered independently in India centuries before its Chinese statement.",
+          "hindi": "ऐसी संख्या N खोजना जो N ≡ r₁ (mod m₁) और N ≡ r₂ (mod m₂) हो: आर्यभट का कुट्टक एल्गोरिदम व्यवस्थित रूप से हल खोजता है। यह चीनी शेषफल प्रमेय है, जिसे भारत में चीनी कथन से सदियों पहले स्वतंत्र रूप से खोजा गया था।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "अग्रहणेन संख्यां गणयित्वा भक्त्वा ।\nशेषं ग्रहणे विजानीयाद् विधिना ॥ २७ ॥",
+          "english": "The kuttaka method in detail: given ax + b = cy, find integer solutions. Step 1: reduce a and c by their GCD. Step 2: apply repeated division (like Euclidean algorithm). Step 3: back-substitute to find x and y. This is applied to find elapsed days in astronomical calculations.",
+          "hindi": "कुट्टक विधि विस्तार से: ax + b = cy दिया गया, पूर्णांक हल खोजें। चरण 1: a और c को उनके महसपव से घटाएँ। चरण 2: क्रमिक विभाजन लगाएँ (यूक्लिडियन एल्गोरिदम की तरह)। चरण 3: x और y खोजने के लिए पीछे प्रतिस्थापित करें। खगोलीय गणनाओं में बीते दिन खोजने के लिए प्रयुक्त।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "छायायां दृष्टिसूत्रस्य भेदात् ।\nज्ञेयो वृत्तव्यासश्च संख्यया ॥ २८ ॥",
+          "english": "The diameter of a circle inscribed in a triangle equals: 2 × area / semi-perimeter (where semi-perimeter = (a+b+c)/2). The circumscribed circle's radius = abc/(4 × area). These results are used in computing eclipse geometry.",
+          "hindi": "त्रिभुज में अंकित वृत्त का व्यास = 2 × क्षेत्रफल / अर्ध-परिमाप (जहाँ अर्ध-परिमाप = (a+b+c)/2)। परिवृत्त वृत्त की त्रिज्या = abc/(4 × क्षेत्रफल)। ये परिणाम ग्रहण ज्यामिति की गणना में उपयोग किए जाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "समतायां क्षेत्रे भूमिस्तदर्धं ।\nतथा शंकोरुन्नतौ छायाया लम्बम् ॥ २९ ॥",
+          "english": "The gnomon (śańku): a vertical rod of standard height (12 aṅgulas). At noon, its shadow gives the solar altitude. Shadow length = 12 × cos(altitude)/sin(altitude) = 12/tan(altitude). The hypotenuse (karṇa) = √(shadow² + 144). Essential for time-keeping.",
+          "hindi": "शंकु (gnomon): मानक ऊँचाई का एक ऊर्ध्वाधर दंड (12 अंगुल)। दोपहर में इसकी छाया सौर उन्नतांश देती है। छाया लंबाई = 12/tan(उन्नतांश)। कर्ण = √(छाया² + 144)। समय-पालन के लिए आवश्यक।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "विष्कम्भार्धेन वर्गेण युतं ।\nभुजवर्गेण विशोध्य मूलम् ॥ ३० ॥",
+          "english": "The arrow (śara or versine) of a chord: if a chord of length 2c is drawn in a circle of radius r, the arrow (perpendicular from chord midpoint to arc) = r - √(r² - c²). This is used extensively in eclipse geometry and in computing the chord tables.",
+          "hindi": "किसी जीवा का बाण (शर या उत्क्रम-ज्या): यदि त्रिज्या r के वृत्त में लंबाई 2c की जीवा खींची जाए, तो बाण (जीवा के मध्यबिंदु से चाप तक लंब) = r - √(r² - c²)। ग्रहण ज्यामिति और जीवा तालिकाओं की गणना में व्यापक रूप से प्रयुक्त।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "गोलक्षेत्रस्य व्यासेन तुल्यः ।\nपरिधिर्वक्रस्य विस्तारो ज्ञेयः ॥ ३१ ॥",
+          "english": "The surface area of a sphere = π × diameter² = 4πr². The volume = (π/6) × diameter³ ≈ (4/3)πr³. Aryabhata gives the surface area correctly but his volume formula is approximate (he does not know the exact factor).",
+          "hindi": "गोले का पृष्ठीय क्षेत्रफल = π × व्यास² = 4πr²। आयतन = (π/6) × व्यास³ ≈ (4/3)πr³। आर्यभट पृष्ठीय क्षेत्रफल सही देते हैं किंतु उनका आयतन सूत्र अनुमानित है।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "समानव्यासार्धेन गोलमध्ये ।\nकर्णार्धेन मण्डलव्यासार्धे ॥ ३२ ॥",
+          "english": "A chord of a circle subtends an angle at the center equal to twice the angle it subtends at the circumference. The perpendicular from the center to a chord bisects the chord. Key theorems of circle geometry used in constructing astronomical instruments.",
+          "hindi": "वृत्त की जीवा केंद्र पर वह कोण बनाती है जो परिधि पर बनने वाले कोण का दोगुना है। केंद्र से जीवा पर डाला गया लंब जीवा को समद्विभाजित करता है। खगोलीय उपकरण बनाने में उपयोग किए जाने वाले वृत्त ज्यामिति के मुख्य प्रमेय।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "इत्येवं गणितपादे समाप्तः ।\nआर्यभटकृतं गणितं समग्रम् ॥ ३३ ॥",
+          "english": "Thus ends the Ganitapada (mathematical section) composed by Aryabhata. The 33 verses of this chapter cover arithmetic, algebra, geometry, trigonometry, and their astronomical applications — a comprehensive mathematical treatise in a remarkably compact form.",
+          "hindi": "इस प्रकार आर्यभट द्वारा रचित गणितपाद समाप्त होता है। इस अध्याय के 33 श्लोकों में अंकगणित, बीजगणित, ज्यामिति, त्रिकोणमिति और उनके खगोलीय अनुप्रयोग शामिल हैं — अत्यंत संक्षिप्त रूप में एक व्यापक गणितीय ग्रंथ।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

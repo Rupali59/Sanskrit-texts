@@ -1,0 +1,74 @@
+{
+  "text_id": "panchasiddhantika",
+  "title_sa": "पञ्चसिद्धान्तिका",
+  "title_en": "Panchasiddhantika",
+  "category": "siddhanta",
+  "author": "Varahamihira",
+  "edition": "Thibaut & Dvivedi (Chowkhamba, 3rd ed., 1997)",
+  "chapters": [
+    {
+      "number": 14,
+      "title": "सौरेण ग्रहस्थानसाधनम्",
+      "title_en": "Determination of Planetary Positions by the Saura Method",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सौरसिद्धान्तेन ग्रहाणां स्थानम् ।\nसाधयामि संक्षेपात् ॥",
+          "english": "By the Saura Siddhānta, I determine the positions of the planets briefly.",
+          "hindi": "सौर सिद्धान्त से ग्रहों के स्थान का संक्षेप में निर्धारण करता हूँ।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भौमस्य मन्दोच्चः वृश्चिके ।\nमकरे गुरोः तथा ॥",
+          "english": "The mandocca (apogee) of Mars is in Vṛścika (Scorpio); that of Jupiter is in Makara (Capricorn).",
+          "hindi": "मंगल का मन्दोच्च वृश्चिक राशि में है; गुरु का मन्दोच्च मकर राशि में है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "बुधस्य मन्दोच्चः कन्यायाम् ।\nशुक्रस्य मिथुने ॥",
+          "english": "The mandocca of Mercury is in Kanyā (Virgo); that of Venus is in Mithuna (Gemini).",
+          "hindi": "बुध का मन्दोच्च कन्या राशि में है; शुक्र का मिथुन राशि में।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शनेः मन्दोच्चः तुलायाम् ।\nसूर्यस्य मेषे ॥",
+          "english": "Saturn's mandocca is in Tulā (Libra); the Sun's is in Meṣa (Aries).",
+          "hindi": "शनि का मन्दोच्च तुला राशि में है; सूर्य का मेष राशि में।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "एवं मन्दोच्चाः प्रोक्ताः ।\nशीघ्रोच्चाश्च तथा ॥",
+          "english": "Thus the mandoccas have been stated; and similarly the śīghroccas (synodic aphelions).",
+          "hindi": "इस प्रकार मन्दोच्च कहे गए; और उसी प्रकार शीघ्रोच्च भी।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "शीघ्रोच्चाः सूर्यसमाः ।\nबुधशुक्रयोः ॥",
+          "english": "The śīghroccas of Mercury and Venus are equal to [the longitude of] the Sun.",
+          "hindi": "बुध और शुक्र के शीघ्रोच्च सूर्य के [देशांश के] बराबर होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "भौमगुरुशनीनाम् च शीघ्रोच्चाः ।\nस्वशीघ्रोच्चाः पृथक् ॥",
+          "english": "And the śīghroccas of Mars, Jupiter, and Saturn are each their own distinct śīghrocca [= their heliocentric positions].",
+          "hindi": "मंगल, गुरु और शनि के शीघ्रोच्च उनके अपने-अपने पृथक् शीघ्रोच्च होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं ग्रहस्थानम् ।\nसौरे प्रोक्तम् ॥",
+          "english": "Thus has the planetary position been stated in the Saura [Siddhānta].",
+          "hindi": "इस प्रकार सौर [सिद्धान्त] में ग्रह-स्थान का प्रतिपादन किया गया है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

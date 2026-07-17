@@ -1,0 +1,121 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 10,
+      "title": "शृङ्गोन्नत्यधिकारः",
+      "title_en": "Chapter on the Elevation of the Lunar Crescent",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "शृङ्गोन्नतिं प्रवक्ष्यामि चन्द्रस्य दर्शनं शृणु ।\nपश्चिमे क्षितिजे दृश्यं शृङ्गोन्नतिरुच्यते ॥ १ ॥",
+          "english": "Now I explain the elevation of the lunar crescent (shringonnati): the angular height of the Moon's bright limb above the western horizon after sunset.",
+          "hindi": "अब मैं चंद्र अर्धचंद्र की ऊँचाई (शृंगोन्नति) की व्याख्या करता हूँ: सूर्यास्त के बाद पश्चिमी क्षितिज के ऊपर चंद्रमा के चमकीले किनारे की कोणीय ऊँचाई।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "प्रतिपद्यां चन्द्रदर्शनं भागकोणभेदतः ।\nस्थानक्षांशभेदाच्च भवति द्रष्टुसापेक्षम् ॥ २ ॥",
+          "english": "The crescent is visible only on certain days after new moon; the first sighting depends on latitude, azimuth, and the Moon's elongation from the Sun.",
+          "hindi": "अर्धचंद्र केवल अमावस्या के बाद कुछ दिनों पर दिखाई देता है; पहली दृष्टि अक्षांश, दिगंश और सूर्य से चंद्रमा की दीर्घकाय कोण पर निर्भर करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "सूर्यास्ते चन्द्रोन्नतिः प्रतिपत्कालतो भवेत् ।\nशृङ्गोन्नतिः साध्या तस्यां विधानज्ञैः सदा बुधैः ॥ ३ ॥",
+          "english": "The Moon's altitude at sunset on the first day of the lunar month determines the size of the visible crescent.",
+          "hindi": "चंद्र मास के पहले दिन सूर्यास्त पर चंद्रमा की ऊँचाई दृश्य अर्धचंद्र के आकार को निर्धारित करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "सूर्यचन्द्रास्तकालभेदो दृक्फलमुच्यते ।\nतत्साधनं ग्रहणवत् सूर्यचन्द्रान्तरेण च ॥ ४ ॥",
+          "english": "The difference in setting times between the Sun and Moon on the first day of the month (drkphala) is the main parameter for crescent visibility.",
+          "hindi": "महीने के पहले दिन सूर्य और चंद्रमा के अस्त समय का अंतर (दृक्फल) अर्धचंद्र दृश्यता के लिए मुख्य पैरामीटर है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "अष्टचत्वारिंशत्प्राणाधिकेऽस्ते चन्द्रे सति ।\nदर्शनं भवति शृङ्गस्य दिवसप्रथमस्य च ॥ ५ ॥",
+          "english": "The crescent is visible if the Moon sets at least 48 minutes after the Sun on the first day; shorter intervals make it invisible to the naked eye.",
+          "hindi": "यदि चंद्रमा पहले दिन सूर्य के कम से कम ४८ मिनट बाद अस्त हो तो अर्धचंद्र दृश्य होता है; छोटे अंतराल इसे नग्न आँख से अदृश्य बना देते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "शृङ्गयोर्योजकरेखायाः ऊर्ध्वाधरकोणो यः ।\nसः शृङ्गोन्नतिकोणः स्याच्छृङ्गोन्नतिरितीर्यते ॥ ६ ॥",
+          "english": "The angle of the crescent is the angle between the line joining the Moon's horns (cusps) and the vertical direction at the Moon.",
+          "hindi": "अर्धचंद्र का कोण वह कोण है जो चंद्रमा के सींगों (नुकीले बिंदुओं) को मिलाने वाली रेखा और चंद्रमा पर ऊर्ध्वाधर दिशा के बीच होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "दिने दिने चन्द्रस्य दीप्तिः वर्धते सौम्यताम् ।\nशृङ्गस्य विस्तारः प्रतिदिनमधिको भवेत् ॥ ७ ॥",
+          "english": "The crescent's illumination (dipti) increases each day as the Moon moves away from the Sun; the width of the crescent is proportional to the lunar phase.",
+          "hindi": "अर्धचंद्र की रोशनी (दीप्ति) प्रत्येक दिन बढ़ती है जैसे-जैसे चंद्रमा सूर्य से दूर जाता है; अर्धचंद्र की चौड़ाई चंद्र चरण के समानुपाती होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "क्षितिजक्रान्तिवृत्तयोर्कोणो भवति यत्र यः ।\nतेन शृङ्गस्य झुकावः क्षितिजे साध्यते तदा ॥ ८ ॥",
+          "english": "The inclination of the crescent to the horizon depends on the angle between the ecliptic and the horizon at the Moon's position.",
+          "hindi": "क्षितिज से अर्धचंद्र का झुकाव चंद्रमा की स्थिति पर क्रांतिवृत्त और क्षितिज के बीच के कोण पर निर्भर करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "क्रिया साध्या सूर्यास्ते चन्द्रोन्नतिदिगंशतः ।\nशृङ्गं द्रष्टुर्दृष्टिकोणे क्षेपयेत्तत्फलं शृणु ॥ ९ ॥",
+          "english": "The computation proceeds: find the Moon's altitude and azimuth at sunset, then project the crescent onto the visual field of the observer.",
+          "hindi": "गणना इस प्रकार होती है: सूर्यास्त पर चंद्रमा की ऊँचाई और दिगंश ज्ञात करें, फिर अर्धचंद्र को प्रेक्षक के दृश्य क्षेत्र पर प्रक्षेपित करें।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "शृङ्गस्योपरिभागो यः क्षितिजात् परितस्थितः ।\nतदंशः शृङ्गोन्नतिरित्युच्यते ज्योतिषे सदा ॥ १० ॥",
+          "english": "The altitude of the upper cusp of the crescent above the horizon gives the shringonnati (elevation of the horn).",
+          "hindi": "क्षितिज के ऊपर अर्धचंद्र के ऊपरी नुकीले बिंदु की ऊँचाई शृंगोन्नति (सींग की ऊँचाई) देती है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "शृङ्गोन्नतियन्त्रेण ग्राह्यं दर्शनमेव च ।\nकालस्थानस्य भेदेन ज्ञातव्यं प्रयत्नतः ॥ ११ ॥",
+          "english": "A diagram of the crescent (shringonnati-yantra) can be drawn to illustrate the crescent's position and visibility at any given time and place.",
+          "hindi": "किसी दिए गए समय और स्थान पर अर्धचंद्र की स्थिति और दृश्यता दर्शाने के लिए अर्धचंद्र का एक आरेख (शृंगोन्नति-यंत्र) बनाया जा सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "शृङ्गस्य दर्शनं प्रथमं नवमासस्य साधनम् ।\nपञ्चाङ्गविद्भिर्ग्राह्यं तत्तत्प्रान्तेषु सर्वदा ॥ १२ ॥",
+          "english": "The first visibility of the crescent moon begins the new lunar month (masa) in the traditional Indian calendar system.",
+          "hindi": "अर्धचंद्र की पहली दृश्यता पारंपरिक भारतीय कैलेंडर प्रणाली में नए चंद्र मास (मास) की शुरुआत करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "चान्द्रमासस्य प्रारम्भो देशे देशे भिद्यते क्वचित् ।\nतत्तत्पञ्चाङ्गे लिखितं शृङ्गदर्शनमाश्रितम् ॥ १३ ॥",
+          "english": "The religious significance of the crescent moon is great: festivals like Eid and many Hindu observances are based on the sighting of the crescent.",
+          "hindi": "अर्धचंद्र का धार्मिक महत्व बहुत अधिक है: ईद जैसे त्योहार और कई हिंदू धार्मिक कार्य अर्धचंद्र के दर्शन पर आधारित हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "शृङ्गोन्नतिज्ञानेन गणकः कथयेत्तदा ।\nप्रथमदर्शनकालं प्रजायां निवेदयेत् ॥ १४ ॥",
+          "english": "Thus the shringonnati gives the astronomer the ability to predict the first visibility of the crescent and inform the community accordingly.",
+          "hindi": "इस प्रकार शृंगोन्नति खगोलज्ञ को अर्धचंद्र की पहली दृश्यता की भविष्यवाणी करने और समुदाय को तदनुसार सूचित करने की क्षमता देती है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "इति शृङ्गोन्नत्यधिकारो वर्णितोऽत्र विशेषतः ।\nवेधगणनाभ्यां सिद्धः शास्त्रज्ञैः सर्वदा शृणु ॥ १५ ॥",
+          "english": "Thus ends the chapter on the elevation of the crescent (shringonnati-adhikara). The methods here are validated by both calculation and observation.",
+          "hindi": "इस प्रकार अर्धचंद्र की ऊँचाई (शृंगोन्नति-अधिकार) का अध्याय समाप्त होता है। यहाँ की विधियाँ गणना और अवलोकन दोनों द्वारा मान्य हैं।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

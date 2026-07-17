@@ -1,0 +1,135 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 5,
+      "title": "सूर्यग्रहणाधिकारः",
+      "title_en": "Chapter on Solar Eclipses",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "राहुमुखेन गृहीतः सूर्यो यदा चन्द्रमण्डलेन ।\nदृश्यते न्यूनः किञ्चिद् यदि वा सर्वतो नभसि ॥ १ ॥",
+          "english": "The solar eclipse occurs when the Moon passes between the Sun and the Earth near a node (Rahu or Ketu) at new moon.",
+          "hindi": "सूर्यग्रहण तब होता है जब चंद्रमा अमावस्या पर किसी पात (राहु या केतु) के पास सूर्य और पृथ्वी के बीच से गुजरता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "रव्यर्कविम्बमानं तदुत्पन्नं भानुमण्डलम् ।\nस्वे स्वे कर्णे भक्तमानं विकलाः स्युः पृथक् तदा ॥ २ ॥",
+          "english": "The apparent diameters of the Sun and Moon in minutes at any moment are computed from their true distances.",
+          "hindi": "किसी भी क्षण सूर्य और चंद्रमा के आभासी व्यास कलाओं में उनकी वास्तविक दूरियों से गणना किए जाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "कर्णे ग्रहकर्णस्य भागहारस्तदा शृणु ।\nभागहारस्त्रिभिर्भक्तः त्रिभिश्च तद्व्यासतः ॥ ३ ॥",
+          "english": "The true distance of the Sun in yojanas = mean Sun-Earth distance × (mean radius / true radius), corrected for the manda equation.",
+          "hindi": "योजनों में सूर्य की वास्तविक दूरी = मध्यम सूर्य-पृथ्वी दूरी × (मध्यम त्रिज्या / वास्तविक त्रिज्या), मंद समीकरण से सुधारी गई।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "सूर्यचन्द्रबिम्बार्धयोगो यद्यपि क्षेपं जयेत् ।\nतदा ग्रहणयोग्यः स्यात् सूर्यस्यानुमतेः ॥ ४ ॥",
+          "english": "The eclipse limit for a solar eclipse: the sum of the apparent radii of the Sun and Moon must exceed the Moon's parallactic latitude.",
+          "hindi": "सूर्यग्रहण की ग्रहण सीमा: सूर्य और चंद्रमा के आभासी त्रिज्याओं का योग चंद्रमा के लम्बनिक अक्षांश से अधिक होना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "लम्बनोपहतो भानुः स्वस्थानाद् अन्यगो भवेत् ।\nदेशभेदाद्भवेद्भेदो ग्रहणे रविसंभवे ॥ ५ ॥",
+          "english": "Because of parallax, the solar eclipse is local, not universal like the lunar eclipse. Different observers at different latitudes see different magnitudes.",
+          "hindi": "लम्बन के कारण, सूर्यग्रहण स्थानीय है, चंद्रग्रहण की तरह सार्वभौमिक नहीं। विभिन्न अक्षांशों पर अलग-अलग प्रेक्षक अलग-अलग मात्रा देखते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "राश्युदयप्राणेन हृता लम्बनस्य कला भवेत् ।\nसैव नाडीकृता लम्बनं तत्कालसाधनात् ॥ ६ ॥",
+          "english": "The parallax in longitude (lambana) is the difference between the apparent and true longitudes of the Moon, due to the observer being on Earth's surface.",
+          "hindi": "देशांतर में लम्बन (लम्बन) पृथ्वी की सतह पर प्रेक्षक होने के कारण चंद्रमा के आभासी और वास्तविक देशांतर के बीच का अंतर है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "दृक्क्षेपज्यागुणं लम्बं व्यासार्धेन विभाजितम् ।\nलम्बनं तत्कलाः प्राणाः स्युश्चन्द्रगत्यन्तरेण च ॥ ७ ॥",
+          "english": "Lambana = (Moon's parallax) × sin(angle between zenith and ecliptic pole). It is computed in terms of nādīs (time units).",
+          "hindi": "लम्बन = (चंद्र लम्बन) × sin(शिरोबिंदु और क्रांतिवृत्त ध्रुव के बीच का कोण)। इसे नाड़ियों (समय इकाइयों) में गणना किया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "नतिर्लम्बज्यया गुणा विभाज्या व्यासार्धेन च ।\nदृक्क्षेपोनितलम्बस्य ज्यागुणं नत्युच्यते ॥ ८ ॥",
+          "english": "Nati (parallax in latitude) = Moon's horizontal parallax × cos(angle between zenith and ecliptic pole) × sin(ecliptic latitude correction).",
+          "hindi": "नति (अक्षांश में लम्बन) = चंद्र क्षितिज लम्बन × cos(शिरोबिंदु और क्रांतिवृत्त ध्रुव के बीच का कोण) × sin(क्रांतिवृत्त अक्षांश सुधार)।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "नतिसंस्कृतविक्षेपो नतिविक्षेपमुच्यते ।\nग्रहणसाधनार्थं तद् युक्तं वा हीनमेव च ॥ ९ ॥",
+          "english": "The apparent latitude of the Moon corrected for nati gives the parallactic latitude used in eclipse calculations.",
+          "hindi": "नति से सुधारा गया चंद्रमा का आभासी अक्षांश ग्रहण गणना में उपयोग किया जाने वाला लम्बनिक अक्षांश देता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "लम्बनस्पृष्टपर्वाणि मोक्षस्पर्शादिकाः क्रमात् ।\nपुनः संशोधनं कृत्वा पर्वकालं विनिर्दिशेत् ॥ १० ॥",
+          "english": "The computation of the eclipse: find the true time of conjunction (new moon), correct for lambana to find the apparent conjunction as seen from the local site.",
+          "hindi": "ग्रहण की गणना: सत्य संयोजन (अमावस्या) का समय ज्ञात करें, फिर स्थानीय स्थल से दिखाई देने वाले आभासी संयोजन के लिए लम्बन से सुधार करें।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "व्यासयोगार्धहीनं यत् नतिविक्षेपतः पृथक् ।\nमानं ग्रासस्य गत्यर्धात् कालार्धं ग्रहणस्य च ॥ ११ ॥",
+          "english": "The half-duration, first and last contacts of the solar eclipse are computed from the apparent velocity of the Moon relative to the Sun and the sum of their apparent radii.",
+          "hindi": "सूर्यग्रहण की अर्ध-अवधि, प्रथम और अंतिम स्पर्श सूर्य के सापेक्ष चंद्रमा की आभासी गति और उनके आभासी त्रिज्याओं के योग से गणना किए जाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "सूर्यग्रहणचित्रेऽपि वलनं साधयेद् बुधः ।\nचन्द्रवृत्ते विलिखेत् तदनुरूपं विधानतः ॥ १२ ॥",
+          "english": "The valana (deflection) and the eclipse diagram for a solar eclipse are drawn similarly to the lunar eclipse, with the Moon's circle overlapping the Sun's.",
+          "hindi": "सूर्यग्रहण का वलन (विचलन) और आरेख चंद्रग्रहण की तरह ही बनाया जाता है, जिसमें चंद्रमा का वृत्त सूर्य के वृत्त के ऊपर आता है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "व्यासयोगार्धहीनं यद् विक्षेपो ग्रासमानकम् ।\nसूर्यबिम्बेन भाजितं स्याद् ग्रासांशाः प्रकीर्तिताः ॥ १३ ॥",
+          "english": "The magnitude (grasa) of a solar eclipse at maximum phase = (sum of apparent radii – apparent distance) / Sun's apparent diameter.",
+          "hindi": "अधिकतम चरण पर सूर्यग्रहण की मात्रा (ग्रास) = (आभासी त्रिज्याओं का योग – आभासी दूरी) / सूर्य का आभासी व्यास।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "चन्द्रबिम्बं रवेर्न्यूनं कण्ठस्थं तदुच्यते यदा ।\nसूर्यस्य वलयं दृश्यं कण्ठस्थग्रहणे तदा ॥ १४ ॥",
+          "english": "An annular eclipse (kanthastha) occurs when the Moon is farther than usual and its apparent diameter is less than the Sun's; the Sun's ring remains visible.",
+          "hindi": "कंकणाकृति ग्रहण (कंठस्थ) तब होता है जब चंद्रमा सामान्य से अधिक दूर हो और उसका आभासी व्यास सूर्य से कम हो; सूर्य की वलय दिखाई देती रहती है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "सर्वग्रास इति ज्ञेयो यदा चन्द्रो रवेराधिकः ।\nबिम्बेन सर्वतः सूर्यं ग्रासयेद् अन्धकारयन् ॥ १५ ॥",
+          "english": "A total solar eclipse (sarvagrasa) occurs when the Moon's apparent diameter exceeds the Sun's and the Moon's center passes within the eclipse limit.",
+          "hindi": "पूर्ण सूर्यग्रहण (सर्वग्रास) तब होता है जब चंद्रमा का आभासी व्यास सूर्य से अधिक हो और चंद्रमा का केंद्र ग्रहण सीमा के भीतर हो।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "छायामयी धरा यस्माद् भूच्छाया राहुसंज्ञिका ।\nचन्द्रमयो राहुर्नामतः सूर्यस्य ग्रहणे स्मृतः ॥ १६ ॥",
+          "english": "Both the solar and lunar eclipses are natural phenomena caused by the shadows of celestial bodies. The 'demon' Rahu is a poetic description, not the actual cause.",
+          "hindi": "सूर्य और चंद्रग्रहण दोनों खगोलीय पिंडों की छाया से उत्पन्न प्राकृतिक घटनाएं हैं। 'राक्षस' राहु एक काव्यात्मक वर्णन है, न कि वास्तविक कारण।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "इति सूर्यग्रहणाधिकारो वर्णितो मया ।\nयः पठेत् स विजानीयाद् ग्रहणं सर्वदा शुभम् ॥ १७ ॥",
+          "english": "Thus ends the Chapter on Solar Eclipses. One who masters these calculations can predict all solar eclipses accurately.",
+          "hindi": "इस प्रकार सूर्यग्रहण अधिकार समाप्त होता है। जो इन गणनाओं में निपुण है, वह सभी सूर्यग्रहणों की सटीक भविष्यवाणी कर सकता है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

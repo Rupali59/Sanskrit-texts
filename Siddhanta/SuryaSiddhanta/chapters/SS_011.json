@@ -1,0 +1,156 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 11,
+      "title": "पाताधिकारः",
+      "title_en": "Chapter on Nodes (Pāta)",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सूर्यचन्द्रक्रान्त्योः साम्यं भवति यदा तु वर्तते ।\nयद्यप्यन्यार्धे क्रान्त्योस्तदा व्यतीपातः स्मृतः ॥ १ ॥",
+          "english": "Now the chapter on Pāta: when the Sun and Moon are at exactly opposite declinations (one north, the other south by the same amount), a vyatipata occurs.",
+          "hindi": "अब पात अधिकार: जब सूर्य और चंद्रमा की क्रांतियाँ बिल्कुल विपरीत हों (एक उत्तर, दूसरा उतनी ही मात्रा में दक्षिण), तो व्यतीपात होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "सूर्यचन्द्रांशयोर्योगे षट्त्रिंशद्वा समाप्ते सति ।\nव्यतीपातो वैधृतिश्च पातद्वयमुदाहृतम् ॥ २ ॥",
+          "english": "The Vyatipata yoga occurs when the sum of the Sun's and Moon's longitudes equals 180° or 360° (i.e., 6 or 12 signs), and their declinations are equal but opposite.",
+          "hindi": "व्यतीपात योग तब होता है जब सूर्य और चंद्रमा की देशांतर का योग १८०° या ३६०° (अर्थात् ६ या १२ राशियाँ) हो, और उनकी क्रांतियाँ समान लेकिन विपरीत हों।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "वैधृतिः षट्त्रिंशांशपूर्णे सूर्येन्दुभागयोगे ।\nव्यतीपातः सूर्यचन्द्रक्रान्त्योर्विपर्ययात् ॥ ३ ॥",
+          "english": "The Vaidhriti yoga similarly occurs when the sum of longitudes equals 360°. Both are considered inauspicious yogas in the Indian calendar.",
+          "hindi": "वैधृति योग भी तब होता है जब देशांतर का योग ३६०° हो। भारतीय पंचांग में दोनों अशुभ योग माने जाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "व्यतीपातसाधने विचिन्त्यं चन्द्रक्रान्तिसमत्वम् ।\nसूर्यस्य च विपरीतभागे तत्कालसाधितम् ॥ ४ ॥",
+          "english": "The astronomer calculates the moment of Vyatipata by finding when the condition of equal and opposite declinations is fulfilled.",
+          "hindi": "खगोलज्ञ व्यतीपात के क्षण की गणना समान और विपरीत क्रांतियों की स्थिति पूर्ण होने पर ज्ञात करके करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "पातकालस्य विस्तारः चन्द्रगत्यंशचतुर्थकम् ।\nघटिकार्धेन तुल्यः स्यात् पूर्वापरत्वेन वा ॥ ५ ॥",
+          "english": "The duration of the Vyatipata spans a quarter of a degree of the Moon's daily motion on either side of the exact moment, typically about 1.5 hours.",
+          "hindi": "व्यतीपात की अवधि सटीक क्षण के दोनों ओर चंद्रमा की दैनिक गति के एक-चौथाई डिग्री तक फैली होती है, आमतौर पर लगभग १.५ घंटे।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "तिथिनक्षत्रसम्बन्धात् व्यतीपातः साध्यते बुधैः ।\nतन्नक्षत्रान्तकालज्ञो व्यतीपातं प्रसाधयेत् ॥ ६ ॥",
+          "english": "The Vyatipata is computed from the tithi and the nakshatra of the Moon; tables are given to identify the nakshatra ending at a Vyatipata.",
+          "hindi": "व्यतीपात की गणना तिथि और चंद्रमा के नक्षत्र से की जाती है; व्यतीपात पर समाप्त होने वाले नक्षत्र की पहचान के लिए सारणियाँ दी गई हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "नक्षत्रराशिसन्धिषु गण्डान्तमिति कीर्तितम् ।\nश्लेषामघाज्येष्ठामूलरेवत्यश्विन्यन्तेषु च ॥ ७ ॥",
+          "english": "The Ganda-anta (junction of certain nakshatras and signs) is another inauspicious time defined where the boundary of certain nakshatras and signs coincide.",
+          "hindi": "गंड-अंत (कुछ नक्षत्रों और राशियों का संधिस्थल) एक और अशुभ समय है जहाँ कुछ नक्षत्रों और राशियों की सीमाएँ मिलती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "श्लेषामघसन्धौ च ज्येष्ठामूलसन्धावपि ।\nरेवत्यश्विनीसन्धौ च गण्डान्तत्रयमुच्यते ॥ ८ ॥",
+          "english": "The nakshatras at ganda-anta are: the junctions of Ashlesha-Magha, Jyeshtha-Mula, and Revati-Ashwini; each is a brief inauspicious period.",
+          "hindi": "गंड-अंत के नक्षत्र: आश्लेषा-मघा, ज्येष्ठा-मूल, और रेवती-अश्विनी के संधिस्थल; प्रत्येक एक संक्षिप्त अशुभ काल है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "गण्डान्ते जन्म विवाहश्च कर्म सर्वं विशेषतः ।\nवर्जनीयं विज्ञातव्यं ज्योतिर्विद्भिः प्रयत्नतः ॥ ९ ॥",
+          "english": "These transitional periods are particularly inauspicious for birth, marriage, and other auspicious ceremonies.",
+          "hindi": "ये संक्रमणकालीन अवधियाँ जन्म, विवाह और अन्य शुभ समारोहों के लिए विशेष रूप से अशुभ हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "व्यतीपातवैधृत्योः कालः साध्यः सुनिश्चितम् ।\nजनाय निवेद्यताम् एव शुभकालं विनिश्चयेत् ॥ १० ॥",
+          "english": "The astronomer should compute the Vyatipata and Vaidhriti times accurately and inform the community so that auspicious activities can be scheduled around them.",
+          "hindi": "खगोलज्ञ को व्यतीपात और वैधृति के समय सटीक रूप से गणना करनी चाहिए और समुदाय को सूचित करना चाहिए ताकि शुभ गतिविधियाँ उनके आसपास निर्धारित की जा सकें।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "विषुवत्काले सूर्यस्य चन्द्रस्य च तदापरे ।\nव्यतीपातो भवेद् एव चतुर्वारं प्रतिवर्षम् ॥ ११ ॥",
+          "english": "When the Sun is at the equinox and the Moon is at the same declination but on the other side, Vyatipata occurs; this happens four times a year.",
+          "hindi": "जब सूर्य विषुव पर हो और चंद्रमा दूसरी ओर उसी क्रांति पर हो, तो व्यतीपात होता है; यह वर्ष में चार बार होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "मृगशीर्षार्द्राओर्मध्यसन्धौ महाविष्णुपदं स्मृतम् ।\nतद् व्यतीपातानां मुख्यतमं सुरास्रवम् ॥ १२ ॥",
+          "english": "The Vyatipata at the junctions of Mrigashira and Ardra (near summer solstice) is called Mahavisnupada, the most important of these yogas.",
+          "hindi": "मृगशिरा और आर्द्रा के संधिस्थल पर (ग्रीष्म अयनांत के पास) व्यतीपात 'महाविष्णुपद' कहलाता है, ये सबसे महत्वपूर्ण योगों में से एक है।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "व्यतीपातात् पूर्वापरे घटिकैका त्यजेत् सदा ।\nस्नानादन्यत् कर्म सर्वं वर्जनीयं विशेषतः ॥ १३ ॥",
+          "english": "The inauspicious period (ashubha) extends for one ghati (24 minutes) before and after the exact Vyatipata; all activities except bathing are avoided.",
+          "hindi": "अशुभ अवधि (अशुभ) सटीक व्यतीपात से पहले और बाद में एक घटी (२४ मिनट) तक फैली होती है; स्नान को छोड़कर सभी गतिविधियाँ टाली जाती हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "व्यतीपातकालज्ञो गणको लोकहितायकः ।\nशुभाशुभकालनिर्देशे सदा रक्षको भवेत् ॥ १४ ॥",
+          "english": "A learned astronomer who masters Vyatipata computation serves as a protector of auspicious timing for the community.",
+          "hindi": "व्यतीपात गणना में निपुण विद्वान खगोलज्ञ समुदाय के लिए शुभ समय का रक्षक के रूप में कार्य करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "सप्तविंशतियोगाः स्युः रव्येन्दुभागयोगतः ।\nत्रयोदशांशविभागेन योगो लभ्यते क्रमात् ॥ १५ ॥",
+          "english": "The Vyatipata yoga is one of the 27 yogas (solar-lunar yogas) enumerated in the panchanga. The yoga is found by dividing the sum of Sun's and Moon's longitudes by 13°20'.",
+          "hindi": "व्यतीपात योग पंचांग में सूचीबद्ध २७ योगों (सौर-चंद्र योग) में से एक है। योग सूर्य और चंद्रमा की देशांतर के योग को १३°२०' से भाग देकर ज्ञात होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "विष्कम्भव्यतीपातवैधृतयश्च पापिनः ।\nसप्तविंशतियोगेषु तेषु कर्म न शस्यते ॥ १६ ॥",
+          "english": "The 27 yogas cycle continuously; each yoga spans a lunar day equivalent in arc. Among them, Vishkambha, Vyatipata, and Vaidhriti are the most malefic.",
+          "hindi": "२७ योग लगातार चलते रहते हैं; प्रत्येक योग चाप में एक चंद्र दिन के समकक्ष होता है। उनमें विष्कम्भ, व्यतीपात और वैधृति सबसे पापी हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "योगपातो राहुपाताद् भिन्नः स्यात् प्रकृत्या तु यः ।\nक्रान्तिसमतायोगलक्षणैः स विनिश्चितः ॥ १७ ॥",
+          "english": "The yoga-pata (yogic node) is different from the sidereal node (Rahu); it is an abstract point defined by the declination equality condition.",
+          "hindi": "योग-पात (योगिक पात) नाक्षत्र पात (राहु) से अलग है; यह क्रांति-समानता की स्थिति द्वारा परिभाषित एक अमूर्त बिंदु है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "पाताध्यायो मानसाधनाय पञ्चाङ्गार्थं च सुव्रताः ।\nमुहूर्तसाधनार्थं च प्रयुक्तो ज्योतिषे सदा ॥ १८ ॥",
+          "english": "The Pata chapter is foundational for the Indian luni-solar calendar and for astrological muhurta (electional astrology).",
+          "hindi": "पात अध्याय भारतीय लूनि-सौर कैलेंडर और ज्योतिषीय मुहूर्त (चुनाव ज्योतिष) के लिए आधारभूत है।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "शुभाशुभकालनिर्देशे गणकः कर्तव्यनिष्ठितः ।\nलोकोपकाराय सर्वदा विद्यां साधयेत् प्रयत्नतः ॥ १९ ॥",
+          "english": "The astronomer is responsible for correctly identifying and communicating these auspicious and inauspicious periods for the benefit of society.",
+          "hindi": "खगोलज्ञ समाज के लाभ के लिए इन शुभ और अशुभ अवधियों को सही ढंग से पहचानने और संप्रेषित करने के लिए जिम्मेदार है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "इति पाताधिकारो वर्णितो विस्तरेण च ।\nव्यतीपातगण्डान्तज्ञानं विद्वद्भिरावश्यकम् ॥ २० ॥",
+          "english": "Thus ends the chapter on Pata. The knowledge of Pata, Vyatipata, and Ganda-anta is essential for the complete astronomical pandit.",
+          "hindi": "इस प्रकार पात अधिकार समाप्त होता है। पूर्ण खगोलीय पंडित के लिए पात, व्यतीपात और गंड-अंत का ज्ञान आवश्यक है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

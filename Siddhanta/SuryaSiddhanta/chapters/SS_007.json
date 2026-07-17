@@ -1,0 +1,156 @@
+{
+  "text_id": "surya_siddhanta",
+  "title_sa": "सूर्यसिद्धान्तः",
+  "title_en": "Surya Siddhanta",
+  "category": "siddhanta",
+  "source": "Surya Siddhanta with Sudhavarshini commentary by Sudhakara Dvivedi (1906)",
+  "chapters": [
+    {
+      "number": 7,
+      "title": "ग्रहयुत्यधिकारः",
+      "title_en": "Chapter on Planetary Conjunctions",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "समदेशांशतां यातौ द्वौ ग्रहौ युतिमेयतुः ।\nयोगमेवं विदुः सौरा भागभेदात् स्फुटा क्रिया ॥ १ ॥",
+          "english": "Now I explain the conjunction of planets (grahayuti): when two planets have the same longitude, they are in conjunction.",
+          "hindi": "अब मैं ग्रहयुति (ग्रहों का संयोजन) की व्याख्या करता हूँ: जब दो ग्रहों की एक ही देशांतर हो, तो वे संयोजन में होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "उत्तरो दक्षिणो वापि क्षेपभेदेन वर्तते ।\nस्वल्पक्षेपो भवेद् उत्तरस्तदा जयी स्मृतः ॥ २ ॥",
+          "english": "The planet with greater latitude (uttara or dakshina) is said to be north or south respectively in the conjunction.",
+          "hindi": "अधिक अक्षांश (उत्तर या दक्षिण) वाला ग्रह संयोजन में क्रमशः उत्तर या दक्षिण कहलाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "युतिकाले ग्रहयोर्देशांशसाम्यं विनिर्दिशेत् ।\nक्षेपभेदमवेक्ष्यैव युतिर्ज्ञेया बुधैः सदा ॥ ३ ॥",
+          "english": "The distance (yoga) between two planets in conjunction is their difference in latitude, since their longitudes are equal.",
+          "hindi": "संयोजन में दो ग्रहों के बीच की दूरी (योग) उनके अक्षांश का अंतर है, क्योंकि उनकी देशांतर समान होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "गत्यन्तरेण भक्तेन देशांशभेदकेन च ।\nलब्धं दिनाद्यं कालः स्यात् युतेः साधनकालतः ॥ ४ ॥",
+          "english": "The time of exact conjunction in longitude is found by dividing the longitude difference by the difference in velocities.",
+          "hindi": "देशांतर में सटीक संयोजन का समय देशांतर के अंतर को गति के अंतर से भाग देकर प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "रवितुल्यगतिश्चन्द्रो भवत्यर्कस्य संयुगे ।\nसंयोगकाले ग्रहाणां गतिसाम्यं भवेद् ध्रुवम् ॥ ५ ॥",
+          "english": "For a conjunction of Mars and Jupiter: if Mars is north of Jupiter in Aquarius, Mars rises before Jupiter; south of Jupiter in Leo, Mars sets after Jupiter.",
+          "hindi": "मंगल और बृहस्पति के संयोजन के लिए: यदि मंगल कुंभ राशि में बृहस्पति के उत्तर में है, तो मंगल बृहस्पति से पहले उगता है; सिंह राशि में बृहस्पति के दक्षिण में, मंगल बृहस्पति के बाद अस्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "शीघ्रकेन्द्रे ग्रहाणां वक्री भवति साधितः ।\nपूर्वार्धे मार्गी ज्ञेयः परार्धे वक्री कीर्तितः ॥ ६ ॥",
+          "english": "The superior planets (Mars, Jupiter, Saturn) move eastward when far from the Sun and retrograde when near it in opposition.",
+          "hindi": "सौर ग्रह (मंगल, बृहस्पति, शनि) सूर्य से दूर होने पर पूर्व की ओर और विरोध में उसके पास होने पर वक्री गति करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "स्तम्भनाख्यमुभयत्र यत्र ग्रहो भवेत् स्थिरः ।\nतस्य वेधे विधानज्ञो वक्रमार्गिणमादिशेत् ॥ ७ ॥",
+          "english": "The stationary point (stambhana) of a planet occurs when its true velocity is zero; before this it is retrograde, after this it is direct.",
+          "hindi": "ग्रह का स्थिर बिंदु (स्तम्भन) तब होता है जब उसकी वास्तविक गति शून्य हो; इससे पहले यह वक्री, इसके बाद मार्गी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "वक्रिणः शीघ्रकेन्द्रस्य द्वितीयार्धे स्थितस्य च ।\nशोधनं तु विपरीतं शीघ्रफलस्य कीर्तितम् ॥ ८ ॥",
+          "english": "The sighrocca (superior conjunction) determines retrograde motion: when the sighrakendra is in the first half of the circle, the planet is direct.",
+          "hindi": "शीघ्रोच्च (श्रेष्ठ संयोजन) वक्री गति निर्धारित करता है: जब शीघ्रकेंद्र वृत्त के पहले अर्धभाग में हो तो ग्रह मार्गी होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "मार्गिणो वा वक्रिणो वा स्वल्पकेन्द्रग्रहस्य च ।\nशीघ्रफलस्य सङ्ख्या स्यात् कोटिज्यानुगुणा सदा ॥ ९ ॥",
+          "english": "When the sighrakendra is in the second half, the planet is retrograde. The limits for each planet are given numerically.",
+          "hindi": "जब शीघ्रकेंद्र दूसरे अर्धभाग में हो तो ग्रह वक्री होता है। प्रत्येक ग्रह की सीमाएँ संख्यात्मक रूप से दी गई हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "अस्ताद् ग्रहाः प्रतिष्ठन्ते दृश्यन्ते भेदतो ग्रहाः ।\nप्रत्येकं स्वविशेषेण उदयास्तं विदुर्बुधाः ॥ १० ॥",
+          "english": "The heliacal visibility (udayasta) of planets depends on their elongation from the Sun; planets less than the limit are invisible.",
+          "hindi": "ग्रहों का सौर उदय-अस्त सूर्य से उनके कोणीय पृथक्करण पर निर्भर करता है; सीमा से कम पृथक्करण वाले ग्रह अदृश्य होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "वक्रचापं प्रत्येकस्य क्रूरशान्तग्रहस्य च ।\nभिन्नं स्यात् कर्णभेदेन ग्रहस्य स्वव्यवस्थितेः ॥ ११ ॥",
+          "english": "The retrograde arc (vakra-chapa) is the total arc traversed by the planet during retrograde motion; it varies with the planet and its distance.",
+          "hindi": "वक्र चाप (वक्रचाप) वक्री गति के दौरान ग्रह द्वारा पार किया गया कुल चाप है; यह ग्रह और उसकी दूरी के साथ बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "कुजस्य वक्रं त्रिसप्तत्यः शनेरष्टत्रिंशदुत्तराः ।\nगुरोरेकविंशतिः स्यात् बुधशुक्रयोः क्रमेण च ॥ १२ ॥",
+          "english": "The duration of retrograde motion varies: Mars about 73 days, Mercury about 23 days, Jupiter about 121 days, Venus about 42 days, Saturn about 138 days.",
+          "hindi": "वक्री गति की अवधि भिन्न होती है: मंगल लगभग ७३ दिन, बुध लगभग २३ दिन, बृहस्पति लगभग १२१ दिन, शुक्र लगभग ४२ दिन, शनि लगभग १३८ दिन।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "वक्रे भास्वन्तो ग्रहाः स्युः क्षितिजाद् अधोगते रवौ ।\nभूमिकर्षणेन तेषां देदीप्यते प्रभा सदा ॥ १३ ॥",
+          "english": "During retrograde motion, planets appear brighter because they are closer to Earth (near opposition for superior planets).",
+          "hindi": "वक्री गति के दौरान, ग्रह अधिक चमकीले दिखते हैं क्योंकि वे पृथ्वी के करीब होते हैं (श्रेष्ठ ग्रहों के लिए विरोध के पास)।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "ग्रहयोगस्य फलं विद्यात् ग्रहराशिसमन्वितम् ।\nशुभाशुभं तत् कथितं फलादेशे विचक्षणैः ॥ १४ ॥",
+          "english": "The conjunction of two planets is auspicious or inauspicious depending on the planets involved and the longitude at which it occurs.",
+          "hindi": "दो ग्रहों का संयोजन शामिल ग्रहों और जिस देशांतर पर होता है, उसके आधार पर शुभ या अशुभ होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "कुजबुधयोर्युतिः कलहं गुरुशुक्रयोः शुभम् ।\nशनिचन्द्रयोः पीडा फलं ज्ञेयं विशेषतः ॥ १५ ॥",
+          "english": "Mars conjunct with Mercury is said to cause discord; Venus conjunct with Jupiter brings prosperity; Saturn conjunct with Moon causes illness.",
+          "hindi": "मंगल-बुध संयोजन कलह का कारण माना जाता है; शुक्र-बृहस्पति संयोजन समृद्धि लाता है; शनि-चंद्र संयोजन बीमारी का कारण बनता है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "ग्रहाणां समगमः स्वराशावेकराशिषु ।\nसमागम इति ख्यातं युतिरित्याभिधीयते ॥ १६ ॥",
+          "english": "The mutual conjunction of planets within a zodiacal sign is called samāgama; the astronomical term for the event is called grahayuti.",
+          "hindi": "एक राशि के भीतर ग्रहों का आपसी संयोजन 'समागम' कहलाता है; घटना के लिए खगोलीय शब्द 'ग्रहयुति' है।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "ग्रहयुद्धं तु विज्ञेयं भागान्तरं यदा स्मृतम् ।\nयः प्रभावी ग्रहो विद्याज्जयी सोऽत्र प्रकीर्तितः ॥ १७ ॥",
+          "english": "The planetary war (graha-yuddha) is declared when two planets are within 1° of each other in longitude. The victor is the planet with greater brightness.",
+          "hindi": "ग्रह-युद्ध तब घोषित होता है जब दो ग्रह देशांतर में एक-दूसरे के १° के भीतर हों। विजेता अधिक चमक वाला ग्रह होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "उत्तरो ग्रहः स विजयी दक्षिणो विजयं न लभेत् ।\nप्रत्येकं नियमो विद्यात् कतिपयग्रहेषु च ॥ १८ ॥",
+          "english": "In a planetary war, the northern planet is generally the victor; the southern planet is the loser. Specific rules apply for each pair.",
+          "hindi": "ग्रह-युद्ध में, उत्तरी ग्रह आमतौर पर विजेता होता है; दक्षिणी ग्रह हारने वाला। प्रत्येक जोड़े के लिए विशिष्ट नियम लागू होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "जितग्रहस्य बलहानिः विजयिनश्च वृद्धिः ।\nज्योतिर्विदः स्पष्टं कथितं विधानतः ॥ १९ ॥",
+          "english": "The defeated planet loses its strength (bala) in the horoscope; the winning planet gains additional strength.",
+          "hindi": "पराजित ग्रह कुंडली में अपना बल खो देता है; विजयी ग्रह को अतिरिक्त बल प्राप्त होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "खगोलज्ञो गणनां कुर्याद् ग्रहयुत्यादिसाधने ।\nफलादेशस्तु ज्योतिषे विद्वद्भिरभिधीयते ॥ २० ॥",
+          "english": "The astronomical calculation of grahayuti (planetary conjunction) is distinct from the astrological interpretation; the astronomer provides the former.",
+          "hindi": "ग्रहयुति (ग्रहों का संयोजन) की खगोलीय गणना ज्योतिषीय व्याख्या से अलग है; खगोलज्ञ पूर्व की गणना प्रदान करता है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}

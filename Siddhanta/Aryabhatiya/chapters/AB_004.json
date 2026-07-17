@@ -1,0 +1,365 @@
+{
+  "text_id": "aryabhatiya",
+  "title_sa": "आर्यभटीयम्",
+  "title_en": "Aryabhatiya",
+  "category": "siddhanta",
+  "chapters": [
+    {
+      "number": 4,
+      "title": "गोलपाद",
+      "title_en": "Golapada (Celestial Sphere)",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "ब्रह्माण्डे खगोलो मध्ये भूगोलः ।\nभूमिं परितो जलमग्निर्वायुः ॥ १ ॥",
+          "english": "In the universe, the Earth (bhū-gola, Earth-sphere) is at the centre of the celestial sphere (kha-gola). Around the Earth are layers: water, fire, air, and ether. The Earth is a sphere suspended in space, surrounded concentrically by all elements.",
+          "hindi": "ब्रह्माण्ड में, पृथ्वी (भू-गोल, पृथ्वी-गोला) खगोल (आकाशगोल) के केन्द्र में है। पृथ्वी के चारों ओर परतें हैं: जल, अग्नि, वायु और आकाश। पृथ्वी अंतरिक्ष में एक गोला है जो सभी तत्वों से केन्द्रित रूप से घिरी है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भूगोलस्य मध्ये भूकेन्द्रम् ।\nसर्वतो गुरुत्वेन वस्तूनि कर्षति ॥ २ ॥",
+          "english": "The centre of the Earth (bhū-kendra) is in the middle of the terrestrial sphere. The Earth is heavy (guru) and attracts all things towards it from all sides. This is Aryabhata's remarkable proto-concept of gravitational attraction — 1100 years before Newton.",
+          "hindi": "पृथ्वी का केन्द्र (भू-केन्द्र) स्थलीय गोले के मध्य में है। पृथ्वी भारी (गुरु) है और सभी ओर से सभी वस्तुओं को अपनी ओर आकर्षित करती है। यह गुरुत्वाकर्षण आकर्षण की आर्यभट की उल्लेखनीय प्रोटो-अवधारणा है — न्यूटन से ११०० वर्ष पहले।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "भूमिर्वृत्ता समन्तात् खे स्थिता ।\nपरिधिश्चतुर्विंशतिसहस्रयोजनाः ॥ ३ ॥",
+          "english": "The Earth is a sphere (vṛtta) situated in space (khe). Its circumference is 4,967 yojanas, and its diameter is 1,581 yojanas. (Converting: if 1 yojana ≈ 8 km, circumference ≈ 39,736 km — very close to the actual 40,075 km.) A remarkable result for 499 CE.",
+          "hindi": "पृथ्वी एक गोला (वृत्त) है जो अंतरिक्ष (खे) में स्थित है। इसकी परिधि ४,९६७ योजन और व्यास १,५८१ योजन है। (रूपांतरित: यदि १ योजन ≈ ८ किमी, परिधि ≈ ३९,७३६ किमी — वास्तविक ४०,०७५ किमी के बहुत निकट।)",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "भ्रमति भूमिः स्वाक्षेण नित्यम् ।\nनक्षत्राणां उदयास्तः पश्चिमगः ॥ ४ ॥",
+          "english": "The Earth rotates on its own axis (svākṣa) constantly. It is the Earth's rotation that causes stars to appear to rise in the east and set in the west — not actual motion of the stars. This is one of the most audacious and correct statements in the history of pre-modern astronomy.",
+          "hindi": "पृथ्वी अपनी अक्ष (स्वाक्ष) पर नित्य घूमती है। पृथ्वी के घूर्णन के कारण ही तारे पूर्व में उगते और पश्चिम में अस्त होते प्रतीत होते हैं — तारों की वास्तविक गति नहीं। यह पूर्व-आधुनिक खगोल विज्ञान के इतिहास में सबसे साहसी और सही कथनों में से एक है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "नौस्थो नदीजले याति ।\nचलतीव वृक्षाः पश्यति तीरस्थाः ॥ ५ ॥",
+          "english": "Just as a man in a moving boat sees the stationary trees on the bank as moving backward, so too does an observer on the rotating Earth see the stars as moving from east to west. Aryabhata uses this analogy to explain the apparent rotation of the celestial sphere.",
+          "hindi": "जैसे चलती नाव में बैठा व्यक्ति किनारे के स्थिर पेड़ों को पीछे की ओर जाते देखता है, वैसे ही घूमती पृथ्वी पर पर्यवेक्षक तारों को पूर्व से पश्चिम की ओर जाते देखता है। आर्यभट खगोलीय गोले के आभासी घूर्णन को समझाने के लिए इस उपमा का उपयोग करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "खगोलस्य ध्रुवयोर्मेरुः उत्तरे ।\nवडवामुखं दक्षिणे ध्रुवभागे ॥ ६ ॥",
+          "english": "The north pole of the celestial sphere is aligned with Meru (the north terrestrial pole), where the gods dwell and see the Sun always above the horizon. The south pole (Vadavāmukha, the 'mare's mouth') is the abode of demons. This is a poetic description of the polar day and night.",
+          "hindi": "खगोल के उत्तरी ध्रुव का संरेखण मेरु (उत्तरी स्थलीय ध्रुव) से है, जहाँ देवता रहते हैं और सूर्य सदा क्षितिज के ऊपर देखते हैं। दक्षिणी ध्रुव (वडवामुख, 'घोड़ी का मुँह') असुरों का निवास है। यह ध्रुवीय दिन और रात का काव्यात्मक वर्णन है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "लङ्का विषुवत्सूत्रे देशमानम् ।\nयामकोट्युज्जयिन्यो च रोमकं च ॥ ७ ॥",
+          "english": "Lanka (Sri Lanka / equator intersection with prime meridian), Ujjayinī (Ujjain, 23°N, the Indian prime meridian), Yamakoti (90° east), and Romakapura (90° west) are the four reference cities on the equator or at 0°, 90°, 180°, 270° longitude.",
+          "hindi": "लंका (श्रीलंका / भूमध्य रेखा और प्रधान मध्याह्न रेखा का प्रतिच्छेदन), उज्जयिनी (उज्जैन, २³°N, भारतीय प्रधान मध्याह्न रेखा), यामकोटि (९०° पूर्व), और रोमकपुर (९०° पश्चिम) — चार संदर्भ नगर।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "क्षितिजः समवृत्तं च ध्रुवौ ।\nखगोले ध्रुवसूत्रं नभोमध्यम् ॥ ८ ॥",
+          "english": "Great circles of the celestial sphere: the horizon (kṣitija), the prime vertical (sama-vṛtta), the meridian (madhya-sūtra), and the equator (viṣuvat-sūtra). The north-south line through the zenith is the meridian; the celestial pole is directly above the terrestrial pole.",
+          "hindi": "खगोल के महान वृत्त: क्षितिज (kṣitija), पूर्व-पश्चिम ऊर्ध्वाधर (समवृत्त), मध्याह्न रेखा (मध्य-सूत्र), और भूमध्य रेखा (विषुवत्-सूत्र)। शिखर से उत्तर-दक्षिण रेखा मध्याह्न रेखा है; खगोलीय ध्रुव स्थलीय ध्रुव के ठीक ऊपर है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "क्रान्तिवृत्तं रविमार्गः सायनः ।\nनिरयणं स्थिरनक्षत्रात् कल्पितम् ॥ ९ ॥",
+          "english": "The ecliptic (krānti-vṛtta) is the Sun's apparent annual path among the stars. The sāyana (tropical) ecliptic shifts with the precession of the equinoxes; the nirayana (sidereal) ecliptic is fixed relative to the stars. The obliquity of the ecliptic is 24° (modern: 23.45°).",
+          "hindi": "क्रांतिवृत्त (krānti-vṛtta) तारों के बीच सूर्य का आभासी वार्षिक मार्ग है। सायन (उष्णकटिबंधीय) क्रांतिवृत्त विषुवांश की पूर्वगति के साथ बदलता है; निरयण (नाक्षत्रिक) क्रांतिवृत्त तारों के सापेक्ष स्थिर है। क्रांतिवृत्त का झुकाव २४° है (आधुनिक: २३.४५°)।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "चन्द्रकक्षायाः क्रान्त्या विक्षेपः ।\nपातस्थाने शून्यः परमे परमः ॥ १० ॥",
+          "english": "The Moon's orbit is inclined to the ecliptic by about 4°30' (modern: 5°8'). The Moon's latitude (vikṣepa) is zero at the nodes (ascending node Rāhu, descending node Ketu) and maximum (4°30') at the quarters. The node longitude changes due to nodal regression.",
+          "hindi": "चन्द्रमा की कक्षा क्रांतिवृत्त से लगभग ४°३०' (आधुनिक: ५°८') झुकी है। चन्द्रमा का अक्षांश (विक्षेप) पातों (आरोही पात राहु, अवरोही पात केतु) पर शून्य और चतुर्भागों पर अधिकतम (४°३०') है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "अक्षांशः ध्रुवोन्नतिः तत्समः ।\nउत्तरे दक्षिणे विपरीतः ॥ ११ ॥",
+          "english": "The observer's geographic latitude equals the elevation of the celestial north pole above the horizon. In the northern hemisphere the north pole is elevated; in the southern hemisphere it is the south pole. At the equator, both poles are on the horizon; at the poles, one pole is at the zenith.",
+          "hindi": "पर्यवेक्षक का भौगोलिक अक्षांश क्षितिज के ऊपर खगोलीय उत्तरी ध्रुव की ऊँचाई के बराबर है। उत्तरी गोलार्ध में उत्तरी ध्रुव ऊँचा है; दक्षिणी गोलार्ध में दक्षिणी ध्रुव। भूमध्य रेखा पर दोनों ध्रुव क्षितिज पर हैं; ध्रुवों पर एक ध्रुव शिखर पर है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "देशान्तरभेदात् काले अन्तरम् ।\nलङ्कायाः प्राक् पश्चिमे च घटिकाभेदः ॥ १२ ॥",
+          "english": "Longitude difference: for every degree of longitude east or west of the prime meridian (Lanka/Ujjain), the local time differs by 4 minutes. Lanka is the reference point (0° longitude). Aryabhata explicitly recognizes that astronomers in different cities must apply a time correction.",
+          "hindi": "देशान्तर का अंतर: प्रधान मध्याह्न रेखा (लंका/उज्जैन) के पूर्व या पश्चिम में प्रत्येक डिग्री देशान्तर के लिए, स्थानीय समय ४ मिनट भिन्न होता है। लंका संदर्भ बिंदु है (0° देशान्तर)। आर्यभट स्पष्ट रूप से स्वीकार करते हैं कि विभिन्न शहरों में खगोलविदों को समय सुधार लगाना होगा।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "छायाकर्णः शंकुज्येच्छाया ।\nसूर्योन्नतिः शंकुविभक्तः कर्णः ॥ १३ ॥",
+          "english": "The gnomon shadow (śańku-chāyā): the shadow of a 12-unit gnomon has length = 12 × cos(altitude)/sin(altitude). The hypotenuse (karṇa) = 12/sin(altitude). From the shadow and gnomon: sin(altitude) = 12/karṇa; the solar altitude can be found from either the shadow length or the hypotenuse.",
+          "hindi": "शंकु छाया (śańku-chāyā): एक १२-इकाई शंकु की छाया की लंबाई = १२ × cos(उन्नतांश)/sin(उन्नतांश)। कर्ण = १२/sin(उन्नतांश)। छाया और शंकु से: sin(उन्नतांश) = १२/कर्ण; छाया की लंबाई या कर्ण से सौर उन्नतांश ज्ञात किया जा सकता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "नतज्यया लम्बज्यागुणः शंकुः ।\nसमाख्यस्य ज्ञानम् उन्नतज्यया ॥ १४ ॥",
+          "english": "The prime vertical shadow (sama-chāyā): when the Sun is on the prime vertical (due east/west), the shadow falls due north/south. The gnomon height in terms of the prime vertical altitude θ: sin(θ) = sin(declination)/sin(latitude). Applied in determining the Sun's azimuth.",
+          "hindi": "पूर्व-पश्चिम ऊर्ध्वाधर छाया (सम-छाया): जब सूर्य पूर्व-पश्चिम ऊर्ध्वाधर पर (ठीक पूर्व/पश्चिम) हो, तो छाया उत्तर/दक्षिण की ओर पड़ती है। पूर्व-पश्चिम उन्नतांश θ के संदर्भ में शंकु की ऊँचाई: sin(θ) = sin(क्रांति)/sin(अक्षांश)।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "मध्याह्नशंकोर्नतज्यया ।\nसंक्रान्तिछायाभ्यां क्षांशः साध्यः ॥ १५ ॥",
+          "english": "Finding geographic latitude from the meridian noon shadow: the Sun's altitude at noon = 90° - |latitude - declination|. The gnomon shadow at noon = 12 × cos(noon altitude)/sin(noon altitude). At the equinoxes (declination = 0), noon shadow gives latitude directly.",
+          "hindi": "मध्याह्न छाया से भौगोलिक अक्षांश ज्ञात करना: दोपहर में सूर्य का उन्नतांश = ९०° - |अक्षांश - क्रांति|। दोपहर में शंकु छाया = १२ × cos(दोपहर उन्नतांश)/sin(दोपहर उन्नतांश)। विषुव पर (क्रांति = ०), दोपहर छाया सीधे अक्षांश देती है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "वलयव्यासार्धेन ग्रहणे ।\nविक्षेपमानेन स्पर्शमोक्षः ॥ १६ ॥",
+          "english": "Eclipse computation from the spherical geometry: the contact (sparśa, first contact) and release (mokṣa, last contact) of an eclipse are determined by comparing the sum of the two bodies' radii with the Moon's latitude. Contact occurs when: Moon's latitude = sum of radii.",
+          "hindi": "गोलीय ज्यामिति से ग्रहण गणना: ग्रहण का स्पर्श (प्रथम संपर्क) और मोक्ष (अंतिम संपर्क) दोनों पिंडों की त्रिज्याओं के योग को चन्द्रमा के अक्षांश से तुलना करके निर्धारित होते हैं। स्पर्श तब होता है जब: चन्द्रमा का अक्षांश = त्रिज्याओं का योग।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "वलनं ग्रहणे दिग्भेदः ।\nदृश्यप्रतिबिम्बयोः कोणो वलनम् ॥ १७ ॥",
+          "english": "Valana (deflection/tilt) in eclipses: the angle between the ecliptic and the vertical circle at the point of eclipse. It has two components: ākṣa-valana (latitude-based deflection) and ayana-valana (solstitial deflection). The total valana determines which side of the Moon is first eclipsed.",
+          "hindi": "वलन (विक्षेपण/झुकाव) ग्रहण में: ग्रहण बिंदु पर क्रांतिवृत्त और ऊर्ध्वाधर वृत्त के बीच का कोण। इसके दो घटक हैं: अक्ष-वलन (अक्षांश-आधारित विक्षेपण) और अयन-वलन (अयनांत विक्षेपण)। कुल वलन निर्धारित करता है कि चन्द्रमा का कौन सा पक्ष पहले ग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "दृक्कर्माणि रव्यर्कयोरुदयास्तौ ।\nलम्बनं ग्रहणेऽनुपात्य साध्यम् ॥ १८ ॥",
+          "english": "Parallax (lambana) in solar eclipses: the Sun appears displaced from its true position because we observe from the Earth's surface, not the centre. The displacement = (Earth's radius / Sun's distance) × sin(zenith angle of Sun). This correction is essential for predicting where on Earth a solar eclipse is visible.",
+          "hindi": "सूर्य ग्रहण में लंबन (parallax): सूर्य अपनी वास्तविक स्थिति से विस्थापित दिखता है क्योंकि हम पृथ्वी के केन्द्र से नहीं बल्कि पृथ्वी की सतह से देखते हैं। विस्थापन = (पृथ्वी की त्रिज्या / सूर्य की दूरी) × sin(सूर्य का शिखर कोण)।",
+          "status": "translated"
+        },
+        {
+          "number": 19,
+          "text": "रव्याधःस्थो रात्रिं करोति ।\nरवेस्तनुर्भूच्छाया लोकान्तरे ॥ १९ ॥",
+          "english": "The Moon shines by reflected sunlight (not its own light). Day occurs on the half of Earth facing the Sun; night on the other half. The Earth's shadow (bhū-chāyā) extends away from the Sun into space — this is the cause of lunar eclipses. Aryabhata explicitly states the Moon has no light of its own.",
+          "hindi": "चन्द्रमा परावर्तित सूर्यप्रकाश से चमकता है (अपने प्रकाश से नहीं)। दिन पृथ्वी के उस आधे भाग पर होता है जो सूर्य की ओर है; रात दूसरे आधे भाग पर। पृथ्वी की छाया (भू-छाया) सूर्य से दूर अंतरिक्ष में फैलती है — यह चन्द्र ग्रहण का कारण है।",
+          "status": "translated"
+        },
+        {
+          "number": 20,
+          "text": "चन्द्रस्य प्रकाशः स्वकीयो नास्ति ।\nरवेः प्रकाशेन प्रकाशितो दर्पणः ॥ २० ॥",
+          "english": "The Moon is like a mirror (darpaṇa): it reflects the Sun's light and has no intrinsic luminosity. The Moon's visible portion depends on the angle between the Sun, Moon, and Earth. At new moon the dark side faces Earth; at full moon the fully lit side faces Earth.",
+          "hindi": "चन्द्रमा एक दर्पण की तरह है (darpaṇa): यह सूर्य के प्रकाश को परावर्तित करता है और इसमें कोई आंतरिक चमक नहीं है। चन्द्रमा का दृश्य भाग सूर्य, चन्द्रमा और पृथ्वी के बीच के कोण पर निर्भर करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 21,
+          "text": "राहुः पातः पर्वकाले ग्राहकः ।\nभूच्छायाया ग्रहणे चन्द्रः ॥ २१ ॥",
+          "english": "Rāhu and Ketu are not physical bodies but the ascending and descending nodes of the Moon's orbit — the points where the Moon's orbit crosses the ecliptic. Eclipses occur only when the Sun and Moon are near these nodes. Aryabhata thus demythologizes the eclipse demon Rāhu.",
+          "hindi": "राहु और केतु कोई भौतिक पिंड नहीं बल्कि चन्द्रमा की कक्षा के आरोही और अवरोही पात हैं — वे बिंदु जहाँ चन्द्रमा की कक्षा क्रांतिवृत्त को काटती है। ग्रहण तभी होते हैं जब सूर्य और चन्द्रमा इन पातों के निकट हों।",
+          "status": "translated"
+        },
+        {
+          "number": 22,
+          "text": "तारागणस्य गतिः पश्चिमा आभाति ।\nभूभ्रमणकारणात् वस्तुतः पूर्वम् ॥ २२ ॥",
+          "english": "The stars appear to move westward, but in reality it is the Earth that rotates eastward. The stars are stationary (in terms of daily motion). This is confirmed by the fact that the Moon and planets move eastward against the star background — they would not if the entire sky rotated westward.",
+          "hindi": "तारे पश्चिम की ओर जाते प्रतीत होते हैं, लेकिन वास्तव में पृथ्वी पूर्व की ओर घूमती है। दैनिक गति के संदर्भ में तारे स्थिर हैं। यह इस तथ्य से पुष्टि होती है कि चन्द्रमा और ग्रह तारा पृष्ठभूमि के विरुद्ध पूर्व की ओर चलते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 23,
+          "text": "रव्यादीनां ग्रहाणां कक्षाः ।\nचन्द्रशीघ्राः भूभ्रमणस्य दृष्ट्या ॥ २३ ॥",
+          "english": "The order of the planets by distance from Earth (in Aryabhata's geocentric model): Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn. Each has its own orbital period. Mercury and Venus move faster than the Sun; Mars, Jupiter, and Saturn move slower. The superior planets have retrograde motion.",
+          "hindi": "आर्यभट के भूकेन्द्रीय मॉडल में पृथ्वी से दूरी के अनुसार ग्रहों का क्रम: चन्द्रमा, बुध, शुक्र, सूर्य, मंगल, बृहस्पति, शनि। प्रत्येक की अपनी कक्षीय अवधि है। बुध और शुक्र सूर्य से तेज चलते हैं; मंगल, बृहस्पति और शनि धीमे।",
+          "status": "translated"
+        },
+        {
+          "number": 24,
+          "text": "रवेर्भगणानि कल्पे चतुष्पञ्चाशत् ।\nकोटिः सहस्रयुताः पञ्चसहस्राणि ॥ २४ ॥",
+          "english": "The distances of the planets from Earth, expressed in yojanas: Moon ≈ 216,000 yojanas, Sun ≈ 459,585 yojanas (these correspond to mean distances). The size of the Earth's shadow cone is calculated from these distances and the diameters of the Sun and Earth.",
+          "hindi": "पृथ्वी से ग्रहों की योजनों में दूरी: चन्द्रमा ≈ २,१६,०00 योजन, सूर्य ≈ ४,५९,५८५ योजन (ये मध्यम दूरियाँ हैं)। पृथ्वी की छाया शंकु का आकार इन दूरियों और सूर्य तथा पृथ्वी के व्यासों से गणना किया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 25,
+          "text": "ग्रहाणां वर्णभेदः स्वकीयः ।\nरवेः प्रकाशे ग्रहाः प्रकाशन्ते ॥ २५ ॥",
+          "english": "The planets shine by reflected sunlight, like the Moon. Each planet has its characteristic colour: Mars is red (rakta), Jupiter is yellow (pīta), Saturn is dark/black (kṛṣṇa), Mercury is pale/green (harit), Venus is white (śveta). Stars generate their own light.",
+          "hindi": "ग्रह चन्द्रमा की तरह परावर्तित सूर्यप्रकाश से चमकते हैं। प्रत्येक ग्रह का विशिष्ट रंग है: मंगल लाल (रक्त), बृहस्पति पीला (पीत), शनि काला (कृष्ण), बुध हरा (हरित), शुक्र सफ़ेद (श्वेत)। तारे अपना प्रकाश उत्पन्न करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 26,
+          "text": "दृष्टिगतेः खेचरस्य भेदः ।\nनतिः लम्बनं ग्रहणसाधने ॥ २६ ॥",
+          "english": "Nati (lunar latitude correction for parallax): the Moon's apparent position differs from its geometric position due to parallax. In solar eclipse computation, the nati (north-south parallax) shifts the Moon's apparent latitude, changing whether an eclipse occurs at a given location.",
+          "hindi": "नति (लंबन के लिए चन्द्र अक्षांश सुधार): लंबन के कारण चन्द्रमा की आभासी स्थिति उसकी ज्यामितीय स्थिति से भिन्न होती है। सूर्य ग्रहण गणना में, नति (उत्तर-दक्षिण लंबन) चन्द्रमा के आभासी अक्षांश को बदलती है।",
+          "status": "translated"
+        },
+        {
+          "number": 27,
+          "text": "दृक्करणं स्पष्टः ग्रहः ।\nनतलम्बनाभ्यां संशोधितम् ॥ २७ ॥",
+          "english": "The dṛk-karma (visibility correction): the true visible position of a planet or star, corrected for parallax (lambana east-west) and nati (north-south parallax). After applying these corrections, the geocentric true longitude becomes the topocentric position — what an observer actually sees.",
+          "hindi": "दृक्-कर्म (दृश्यता सुधार): किसी ग्रह या तारे की वास्तविक दृश्यमान स्थिति, लंबन (पूर्व-पश्चिम) और नति (उत्तर-दक्षिण लंबन) के लिए संशोधित। इन सुधारों को लगाने के बाद, भूकेन्द्रीय स्पष्ट देशांतर स्थलाकेन्द्रीय स्थिति बन जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 28,
+          "text": "गोलयन्त्रं खगोलसाधने ।\nवृत्ताकारं मण्डलसमन्वितम् ॥ २८ ॥",
+          "english": "The armillary sphere (gola-yantra): a mechanical model of the celestial sphere with rings representing the equator, ecliptic, meridian, and horizon. Used for teaching, demonstrating planetary motion, and solving astronomical problems geometrically. Aryabhata recommends its use for instruction.",
+          "hindi": "गोल यंत्र (armillary sphere): खगोलीय गोले का एक यांत्रिक मॉडल जिसमें भूमध्य रेखा, क्रांतिवृत्त, मध्याह्न रेखा और क्षितिज को दर्शाने वाले छल्ले हैं। शिक्षण, ग्रह गति प्रदर्शित करने और ज्यामितीय रूप से खगोलीय समस्याओं को हल करने के लिए उपयोग किया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 29,
+          "text": "शंकुयन्त्रं दिशाज्ञानाय ।\nछायातो रविस्थानं साधयेत् ॥ २९ ॥",
+          "english": "The gnomon (śańku) instrument: a vertical rod planted on a level surface, used for determining directions, time of day, and the Sun's altitude. The shadow's direction gives the local meridian (due north at solar noon). Multiple shadow observations throughout a day trace a curve used to find the equinoctial line.",
+          "hindi": "शंकु यंत्र: समतल सतह पर लगाई गई ऊर्ध्वाधर छड़, दिशाएँ, दिन का समय और सूर्य का उन्नतांश निर्धारित करने के लिए। छाया की दिशा स्थानीय मध्याह्न रेखा देती है (सौर दोपहर में ठीक उत्तर)।",
+          "status": "translated"
+        },
+        {
+          "number": 30,
+          "text": "चक्रयन्त्रं घट्यन्त्रं कालज्ञानाय ।\nजलयन्त्रेण घट्यमानं साध्यते ॥ ३० ॥",
+          "english": "Water-clock (jala-yantra / ghaṭī-yantra): a pot with a small hole that fills with water in exactly one ghaṭī (24 minutes). By counting how many times it fills, the observer tracks time at night or on cloudy days when the gnomon is useless. This was the primary timekeeping device in ancient Indian observatories.",
+          "hindi": "जल घड़ी (जल-यंत्र / घटी-यंत्र): एक छोटे छेद वाला पात्र जो ठीक एक घटी (२४ मिनट) में जल से भर जाता है। यह कितनी बार भरता है गिनकर, पर्यवेक्षक रात में या बादलों के दिनों में समय पता करता है। प्राचीन भारतीय वेधशालाओं में यह प्राथमिक समय-पालन उपकरण था।",
+          "status": "translated"
+        },
+        {
+          "number": 31,
+          "text": "वेधः परीक्षायां मुख्यः ।\nवेधगणनाभ्यां शास्त्रं सिद्धिम् ॥ ३१ ॥",
+          "english": "Astronomical observation (vedha) is primary; calculation (gaṇana) is secondary. Without observation, calculation has no foundation; without calculation, observation cannot be systematized. Aryabhata emphasizes that the two must go together — this is the empirical-theoretical unity that defines modern science.",
+          "hindi": "खगोलीय वेध (observation) प्राथमिक है; गणना द्वितीयक है। वेध के बिना गणना का कोई आधार नहीं; गणना के बिना वेध को व्यवस्थित नहीं किया जा सकता। आर्यभट जोर देते हैं कि दोनों साथ-साथ चलने चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 32,
+          "text": "ग्रहसंज्ञाः फलज्ञानाय ।\nज्योतिषे गणितं मुख्यम् ॥ ३२ ॥",
+          "english": "The names and natures of the planets are used for astrological prediction (phala-jñāna). But the computational (gaṇita) foundation of Jyotisha — the mathematical astronomy — is the primary discipline. Aryabhata distinguishes his mathematical astronomy from astrological prediction.",
+          "hindi": "ग्रहों के नाम और स्वभाव का उपयोग ज्योतिषीय भविष्यवाणी (फल-ज्ञान) के लिए किया जाता है। लेकिन ज्योतिष की गणनात्मक (गणित) नींव — गणितीय खगोल विज्ञान — प्राथमिक विषय है। आर्यभट अपने गणितीय खगोल विज्ञान को ज्योतिषीय भविष्यवाणी से अलग करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 33,
+          "text": "आर्यभटेन रचितं ज्ञानम् ।\nकुसुमपुरनिलये शास्त्रम् ॥ ३३ ॥",
+          "english": "This knowledge was composed by Aryabhata at Kusumapura (Pataliputra, modern Patna). He composed the work when he was 23 years old, in the 499 CE (Shaka year 421, Kali year 3600). It encompasses the totality of mathematical astronomy as known in his time.",
+          "hindi": "यह ज्ञान आर्यभट द्वारा कुसुमपुर (पाटलिपुत्र, आधुनिक पटना) में रचा गया। उन्होंने यह रचना २३ वर्ष की आयु में ४९९ CE (शक वर्ष ४२१, कलि वर्ष ३६००) में की। इसमें उनके समय के गणितीय खगोल विज्ञान की समग्रता समाहित है।",
+          "status": "translated"
+        },
+        {
+          "number": 34,
+          "text": "यः पठेत् आर्यभटीयम् ।\nस विजानीयात् खगोलशास्त्रं समग्रम् ॥ ३४ ॥",
+          "english": "One who reads and masters the Aryabhatiya will understand the entire science of the celestial sphere (khagola-śāstra). Aryabhata claims his work covers astronomy completely. The Aryabhatiya indeed became the foundational text for all subsequent Indian mathematical astronomy.",
+          "hindi": "जो आर्यभटीय पढ़ता और उसमें निपुण होता है, वह खगोलशास्त्र को समग्र रूप से समझेगा। आर्यभट का दावा है कि उनकी रचना खगोल विज्ञान को पूर्ण रूप से कवर करती है। आर्यभटीय वास्तव में सभी परवर्ती भारतीय गणितीय खगोल विज्ञान का आधार ग्रंथ बन गई।",
+          "status": "translated"
+        },
+        {
+          "number": 35,
+          "text": "मेरौ उत्तरे देवाः दक्षिणे च ।\nरात्रिं दिनं विपर्ययात् पश्यन्ति ॥ ३५ ॥",
+          "english": "At the north pole (Meru), the gods experience a continuous six-month day followed by a six-month night. At the south pole, the pattern is reversed. For inhabitants on the equator, day and night are always equal. This correctly describes polar day-night phenomena.",
+          "hindi": "उत्तरी ध्रुव (मेरु) पर देवता लगातार छह महीने का दिन और फिर छह महीने की रात अनुभव करते हैं। दक्षिणी ध्रुव पर पैटर्न उल्टा है। भूमध्य रेखा पर रहने वालों के लिए दिन और रात हमेशा बराबर हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 36,
+          "text": "रविकिरणा भूमिं दग्धाः ।\nवायुमण्डलाद् भूम्यां उष्णम् ॥ ३६ ॥",
+          "english": "The Sun's rays heat the Earth's surface, and the atmosphere retains heat near the Earth. Higher up in the atmosphere it becomes cooler. Aryabhata notes that the stars' twinkling is due to turbulence in the atmospheric layer near the Earth — an accurate description of astronomical seeing.",
+          "hindi": "सूर्य की किरणें पृथ्वी की सतह को गर्म करती हैं, और वायुमंडल पृथ्वी के पास ऊष्मा बनाए रखता है। वायुमंडल में ऊपर की ओर यह ठंडा होता है। आर्यभट बताते हैं कि तारों का टिमटिमाना पृथ्वी के पास वायुमंडलीय परत में अशांति के कारण है।",
+          "status": "translated"
+        },
+        {
+          "number": 37,
+          "text": "ग्रहाणां परस्परं रोधः ।\nदृश्यतामभावः तदुच्यते ॥ ३७ ॥",
+          "english": "When one planet comes between the observer and another planet (or star), the farther one is occulted (hidden). The occultation duration depends on the angular diameters and relative motion. Aryabhata gives methods for computing when a planet occults a star — important for calendar verification.",
+          "hindi": "जब एक ग्रह पर्यवेक्षक और दूसरे ग्रह (या तारे) के बीच आता है, तो दूर वाला अवरुद्ध (छिपा) हो जाता है। अवरोध की अवधि कोणीय व्यासों और सापेक्ष गति पर निर्भर करती है।",
+          "status": "translated"
+        },
+        {
+          "number": 38,
+          "text": "ज्योतिषशास्त्रं गणितमूलम् ।\nफलाफलं च ज्योतिर्विद्भिः ॥ ३८ ॥",
+          "english": "The science of Jyotisha is rooted in mathematics (gaṇita). The auspicious and inauspicious results (phala-aphala) are understood by knowers of Jyotisha. Aryabhata makes clear the distinction between the mathematical core (his domain) and the predictive application (the domain of astrologers).",
+          "hindi": "ज्योतिष शास्त्र गणित में निहित है। शुभ और अशुभ परिणाम (फल-अफल) ज्योतिष के ज्ञाताओं द्वारा समझे जाते हैं। आर्यभट गणितीय मूल (उनका क्षेत्र) और भविष्यसूचक अनुप्रयोग (ज्योतिषियों का क्षेत्र) के बीच का अंतर स्पष्ट करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 39,
+          "text": "यो जानाति खगोलं च ।\nगणितं तस्य विद्या श्रेष्ठा ॥ ३९ ॥",
+          "english": "One who knows the celestial sphere (khagola) and its mathematics possesses the highest form of knowledge. Aryabhata elevates mathematical astronomy as the crown of learning. This reflects the classical Indian view that knowledge of time and the cosmos is among the most sacred sciences.",
+          "hindi": "जो खगोल (celestial sphere) और उसके गणित को जानता है, उसके पास सर्वोच्च ज्ञान है। आर्यभट गणितीय खगोल विज्ञान को ज्ञान का मुकुट बताते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 40,
+          "text": "आर्यभटीयमिदं शास्त्रं ।\nकुसुमपुरे निर्मितं समाप्तम् ॥ ४० ॥",
+          "english": "The Aryabhatiya, this treatise on mathematical astronomy, composed at Kusumapura, is hereby complete. May it serve students of the celestial science for countless generations. The work has indeed endured for 1,500 years as the foundational text of Indian mathematical astronomy.",
+          "hindi": "कुसुमपुर में रचित गणितीय खगोल विज्ञान पर यह ग्रंथ — आर्यभटीय — यहाँ पूर्ण होता है। यह अनगिनत पीढ़ियों तक खगोलीय विज्ञान के छात्रों की सेवा करे। यह ग्रंथ वास्तव में भारतीय गणितीय खगोल विज्ञान के आधारभूत ग्रंथ के रूप में १,५०० वर्षों से टिका है।",
+          "status": "translated"
+        },
+        {
+          "number": 41,
+          "text": "गोलपादे सुसंपूर्णं ज्ञानम् ।\nआर्यभटकृतं खगोलशास्त्रम् ॥ ४१ ॥",
+          "english": "The Golapada (section on the celestial sphere) is herewith fully complete. The knowledge of the celestial sphere as composed by Aryabhata encompasses: the shape and rotation of the Earth, the nature of day and night, eclipses, parallax, planetary distances, astronomical instruments, and the unity of observation and computation.",
+          "hindi": "गोलपाद (खगोलीय गोले पर अनुभाग) यहाँ पूर्ण होता है। आर्यभट द्वारा रचित खगोलीय गोले का ज्ञान समाविष्ट है: पृथ्वी का आकार और घूर्णन, दिन और रात की प्रकृति, ग्रहण, लंबन, ग्रहों की दूरियाँ, खगोलीय उपकरण और वेध तथा गणना की एकता।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "इत्यार्यभटीये गोलपादः समाप्तः ।\nपुस्तकं चतुष्पादं संपूर्णम् ॥ ४२ ॥",
+          "english": "Thus ends the Golapada in the Aryabhatiya. The four-part treatise is complete: Gitikapada (cosmological constants, 13 verses), Ganitapada (mathematics, 33 verses), Kalakriyapada (reckoning of time, 25 verses), and Golapada (celestial sphere, 50 verses) — together 121 verses of foundational Indian astronomy.",
+          "hindi": "इस प्रकार आर्यभटीय में गोलपाद समाप्त होता है। चार भागों का यह ग्रंथ पूर्ण है: गीतिकापाद (ब्रह्माण्डीय स्थिरांक, १³ श्लोक), गणितपाद (गणित, ³³ श्लोक), कालक्रियापाद (काल-गणना, २५ श्लोक), और गोलपाद (खगोलीय गोला, ५० श्लोक) — मिलकर मूलभूत भारतीय खगोल विज्ञान के १२१ श्लोक।",
+          "status": "translated"
+        },
+        {
+          "number": 43,
+          "text": "नमामि तमार्यभटं ज्ञानिनम् ।\nयेन ज्ञाता खगोलरहस्या ॥ ४३ ॥",
+          "english": "Salutations to that wise one, Aryabhata, by whom the secrets of the celestial sphere were known and transmitted. His work, composed in 499 CE, established the mathematical framework for Indian astronomy for the next millennium and influenced Islamic, European, and world astronomy through its transmission westward.",
+          "hindi": "उस ज्ञानी आर्यभट को नमन, जिन्होंने खगोलीय गोले के रहस्यों को जाना और प्रसारित किया। ४९९ CE में रचित उनके कार्य ने भारतीय खगोल विज्ञान के लिए अगले सहस्राब्दी तक गणितीय ढांचा स्थापित किया।",
+          "status": "translated"
+        },
+        {
+          "number": 44,
+          "text": "आर्यभटीयस्य टीकाकाराः ।\nभास्करो नीलकण्ठादयः ॥ ४४ ॥",
+          "english": "Later commentators on the Aryabhatiya include: Bhaskara I (629 CE, the earliest and most important commentary, Āryabhaṭīya-bhāṣya), Suryadeva Yajvan (12th c.), Parameshvara (15th c., Dṛggaṇita), and Nilakantha Somayaji (16th c., Āryabhaṭīya-bhāṣya). Each added refinements to the original.",
+          "hindi": "आर्यभटीय के बाद के टीकाकारों में शामिल हैं: भास्कर प्रथम (629 CE, सबसे पुरानी और महत्वपूर्ण टीका, आर्यभटीय-भाष्य), सूर्यदेव यजुवान (12वीं शताब्दी), परमेश्वर (15वीं शताब्दी, दृग्गणित), और नीलकण्ठ सोमयाजी (16वीं शताब्दी, आर्यभटीय-भाष्य)।",
+          "status": "translated"
+        },
+        {
+          "number": 45,
+          "text": "भारतीयखगोलशास्त्रस्य मूलम् ।\nआर्यभटीयमेव सर्वेषाम् ॥ ४५ ॥",
+          "english": "The Aryabhatiya is the root of Indian astronomical science for all subsequent traditions. The Āryapakṣa school (following Aryabhata) includes Bhaskara I, Lalla, and later Kerala mathematicians like Madhava, Nilakantha, and Jyeshthadeva who extended Aryabhata's methods into infinite series (early calculus).",
+          "hindi": "आर्यभटीय सभी परवर्ती परंपराओं के लिए भारतीय खगोल विज्ञान की जड़ है। आर्यपक्ष स्कूल (आर्यभट का अनुसरण करते हुए) में भास्कर प्रथम, लल्ल, और बाद में केरल के गणितज्ञ जैसे माधव, नीलकण्ठ और ज्येष्ठदेव शामिल हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 46,
+          "text": "इस्लामीयखगोलशास्त्रे प्रभावः ।\nअरबस्य अर्जभदः इत्युक्तः ॥ ४६ ॥",
+          "english": "Aryabhata's influence on Islamic astronomy: the Aryabhatiya was translated into Arabic as 'Arjabhar' (Aryabhata's name in Arabic). His sine tables and astronomical constants were adopted by al-Khwarizmi, al-Biruni, and other Islamic astronomers. This transmission shaped medieval European astronomy through Latin translations.",
+          "hindi": "इस्लामी खगोल विज्ञान पर आर्यभट का प्रभाव: आर्यभटीय का अरबी में 'अर्जभर' के रूप में अनुवाद हुआ। उनकी साइन तालिकाओं और खगोलीय स्थिरांकों को अल-ख्वारिज्मी, अल-बिरूनी और अन्य इस्लामी खगोलविदों ने अपनाया।",
+          "status": "translated"
+        },
+        {
+          "number": 47,
+          "text": "π मानं आर्यभटेन साधितम् ।\nत्रिंशत्सहस्राणां चतुर्विंशत्यधिकम् ॥ ४७ ॥",
+          "english": "Aryabhata's value of π: 62832/20000 = 3.14159... He explicitly calls this āsanna (approximate) and notes it is near the truth. This is accurate to four decimal places and was the most precise value of π known in the world at the time (499 CE), remaining so for centuries.",
+          "hindi": "π का आर्यभट का मान: 62832/20000 = 3.14159... वह स्पष्ट रूप से इसे 'आसन्न' (अनुमानित) कहते हैं और बताते हैं कि यह सत्य के निकट है। यह चार दशमलव स्थानों तक सटीक है और उस समय (499 CE) विश्व में π का सबसे सटीक मान था।",
+          "status": "translated"
+        },
+        {
+          "number": 48,
+          "text": "भूमेः परिभ्रमणं प्रतिपादितम् ।\nनक्षत्राणां उदयास्तः स्थिरम् ॥ ४८ ॥",
+          "english": "The Earth's rotation (bhū-paribhramaṇa) is explicitly stated: the apparent daily rotation of the stars is caused by the Earth's own rotation, not by actual movement of the stars. This heliocentric insight — 1,000 years before Copernicus in Europe — is one of Aryabhata's most celebrated contributions.",
+          "hindi": "पृथ्वी का घूर्णन (भू-परिभ्रमण) स्पष्ट रूप से कहा गया है: तारों का आभासी दैनिक घूर्णन पृथ्वी के अपने घूर्णन के कारण है, तारों की वास्तविक गति से नहीं। यूरोप में कोपर्निकस से 1,000 वर्ष पहले की यह अंतर्दृष्टि आर्यभट के सबसे प्रसिद्ध योगदानों में से एक है।",
+          "status": "translated"
+        },
+        {
+          "number": 49,
+          "text": "कुट्टाकारः गणितविधिः ।\nरैखिकसमीकरणस्य हलम् ॥ ४९ ॥",
+          "english": "The kuttaka (pulverizer) algorithm for solving linear Diophantine equations ax + b = cy: find integer solutions systematically. This is equivalent to the modern extended Euclidean algorithm and is the earliest known general method for solving indeterminate equations — a foundational contribution to number theory.",
+          "hindi": "रैखिक डायोफेंटाइन समीकरणों ax + b = cy को हल करने के लिए कुट्टक (पीसने वाला) एल्गोरिदम: व्यवस्थित रूप से पूर्णांक हल खोजें। यह आधुनिक विस्तारित यूक्लिडियन एल्गोरिदम के समतुल्य है और अनिश्चित समीकरणों को हल करने की सबसे पुरानी ज्ञात सामान्य विधि है।",
+          "status": "translated"
+        },
+        {
+          "number": 50,
+          "text": "आर्यभटीयं समाप्तम् ।\nइदं शास्त्रं चतुर्भिः पादैः ॥ ५० ॥",
+          "english": "The Aryabhatiya is complete. This treatise of four padas (Gitikapada 13 + Ganitapada 33 + Kalakriyapada 25 + Golapada 50 = 121 verses) by the astronomer-mathematician Aryabhata of Pataliputra, composed in 499 CE at age 23, remains one of the most influential scientific texts ever produced in India.",
+          "hindi": "आर्यभटीय पूर्ण होती है। पाटलिपुत्र के खगोलविद-गणितज्ञ आर्यभट द्वारा ४९९ CE में २३ वर्ष की आयु में रचित चार पादों (गीतिकापाद १३ + गणितपाद ³³ + कालक्रियापाद २५ + गोलपाद ५० = १२१ श्लोक) की यह रचना भारत में अब तक के सबसे प्रभावशाली वैज्ञानिक ग्रंथों में से एक है।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}
