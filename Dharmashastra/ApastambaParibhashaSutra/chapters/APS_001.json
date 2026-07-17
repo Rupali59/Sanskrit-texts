@@ -1,0 +1,2159 @@
+{
+  "text_id": "apastamba_paribhasha_sutra",
+  "title_sa": "आपस्तम्बपरिभाषासूत्रम्",
+  "title_en": "Apastamba Paribhasha Sutra",
+  "category": "dharmashastra",
+  "chapter_number": "1",
+  "chapter_title_sa": "परिभाषा",
+  "chapter_title_en": "Paribhasha",
+  "sutras": [
+    {
+      "number": "1",
+      "sanskrit": "यज्ञं व्याख्यास्यामः॥",
+      "english_translation": "We shall explain the sacrifice.",
+      "hindi_translation": "हम यज्ञ का व्याख्यान करेंगे।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "स त्रयाणां वर्णानां ब्राह्मणराजन्ययोर्वैश्यस्य च॥",
+      "english_translation": "It is for the three classes: Brahmins, Kshatriyas, and Vaishyas.",
+      "hindi_translation": "यह तीन वर्णों के लिए है: ब्राह्मण, क्षत्रिय और वैश्य।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "स त्रिभिर्वैदेर्विधीयत ऋग्वेदयजुर्वेदसामवेदैः॥",
+      "english_translation": "It is to be performed with the three Vedas: Rigveda, Yajurveda, and Samaveda.",
+      "hindi_translation": "यह तीन वेदों: ऋग्वेद, यजुर्वेद और सामवेद के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "ऋग्वेदयजुर्वेदाभ्यां दर्शपूर्णमासौ॥",
+      "english_translation": "The full moon days are to be observed with Rigveda and Yajurveda.",
+      "hindi_translation": "पूर्णिमा के दिन ऋग्वेद और यजुर्वेद के साथ मनाए जाने चाहिए।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "यजुर्वेदेनाग्निहोत्रम्॥",
+      "english_translation": "The Agnihotra is to be performed with Yajurveda.",
+      "hindi_translation": "अग्निहोत्र यजुर्वेद के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "सर्वैरग्निष्टोमः॥",
+      "english_translation": "The Agnistoma is to be performed by all.",
+      "hindi_translation": "अग्निष्टोम सभी द्वारा किया जाना चाहिए।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "उच्चैर् ऋग्वेदसामवेदाभ्यां क्रियते॥",
+      "english_translation": "It is performed loudly with Rigveda and Samaveda.",
+      "hindi_translation": "यह ऋग्वेद और सामवेद के साथ ऊँची आवाज में किया जाता है।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "उपांशु यजुर्वेदेन॥",
+      "english_translation": "It is performed quietly with Yajurveda.",
+      "hindi_translation": "यह यजुर्वेद के साथ चुपचाप किया जाता है।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "अन्यत्राश्रुतप्रत्याश्रुतप्रवरसंवादसंप्रेषैश्च॥",
+      "english_translation": "In other cases, it is communicated through heard and unheeded texts.",
+      "hindi_translation": "अन्य मामलों में, इसे सुनी गई और अनसुनी गई ग्रंथों के माध्यम से संप्रेषित किया जाता है।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "अन्तरा सामिधेनीष्वनूच्यम्॥",
+      "english_translation": "In between, it is not to be spoken in the Samidheni.",
+      "hindi_translation": "बीच में, इसे सामिधेनी में नहीं कहा जाना चाहिए।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "मन्द्रेणं प्रागाज्यभागाभ्याम्॥",
+      "english_translation": "With the mantra, it is to be performed with the portions of ghee.",
+      "hindi_translation": "मंत्र के साथ, इसे घी के भागों के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "प्रातस्सवने च॥",
+      "english_translation": "And in the morning offering.",
+      "hindi_translation": "और प्रातः के अर्पण में।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "स्विष्टकृतः॥",
+      "english_translation": "It is to be performed with the Swishtakrit.",
+      "hindi_translation": "इसे स्विष्टकृत के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "माध्यन्दिने च॥",
+      "english_translation": "And in the midday offering.",
+      "hindi_translation": "और मध्याह्न के अर्पण में।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "तृतीयसवने च॥",
+      "english_translation": "And in the third offering.",
+      "hindi_translation": "और तीसरे अर्पण में।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "वाक्संद्रवश्च तद्वत॥",
+      "english_translation": "And similarly with the speech and the essence.",
+      "hindi_translation": "और इसी तरह वाक् और सार के साथ।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "ऋग्वेदेन होता करोति॥",
+      "english_translation": "The priest performs with Rigveda.",
+      "hindi_translation": "पुरोहित ऋग्वेद के साथ करता है।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "यजुर्वेदेनाध्वर्युः॥",
+      "english_translation": "The Adhvaryu performs with Yajurveda.",
+      "hindi_translation": "अध्वर्युः यजुर्वेद के साथ करता है।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "सामवेदेनोद्गाता॥",
+      "english_translation": "The Udgata performs with Samaveda.",
+      "hindi_translation": "उद्गाता सामवेद के साथ करता है।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "सर्वैर्ब्रह्मा॥",
+      "english_translation": "All perform as Brahma.",
+      "hindi_translation": "सभी ब्रह्मा के रूप में करते हैं।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "वचनाद्विप्रतिषेधाद्वान्यः कुर्यात्॥",
+      "english_translation": "One should not perform otherwise due to the prohibition of the words.",
+      "hindi_translation": "शब्दों के निषेध के कारण किसी अन्य तरीके से नहीं करना चाहिए।"
+    },
+    {
+      "number": "22",
+      "sanskrit": "ब्राह्मणानामार्त्विज्यम्॥",
+      "english_translation": "The priesthood of the Brahmins.",
+      "hindi_translation": "ब्राह्मणों का पुरोहितत्व।"
+    },
+    {
+      "number": "23",
+      "sanskrit": "सर्वक्रतूनामग्रयस्सकृदाहिताः॥",
+      "english_translation": "The foremost of all sacrifices is to be performed once.",
+      "hindi_translation": "सभी यज्ञों का अग्रणी एक बार किया जाना चाहिए।"
+    },
+    {
+      "number": "24",
+      "sanskrit": "जुहोतीति चोद्यमाने सर्पिराज्यं प्रतीयात्॥",
+      "english_translation": "When it is said 'he offers', the ghee is to be understood.",
+      "hindi_translation": "जब कहा जाता है 'वह अर्पित करता है', तो घी को समझा जाना चाहिए।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "अध्वर्युं कर्तारम्॥",
+      "english_translation": "The Adhvaryu is the doer.",
+      "hindi_translation": "अध्वर्युः कर्ता है।"
+    },
+    {
+      "number": "26",
+      "sanskrit": "जुहूं पात्रम्॥",
+      "english_translation": "I offer the vessel.",
+      "hindi_translation": "मैं पात्र अर्पित करता हूँ।"
+    },
+    {
+      "number": "27",
+      "sanskrit": "व्यापृतायां स्रुवेण॥",
+      "english_translation": "With the ladle, it is to be offered.",
+      "hindi_translation": "चम्मच के साथ इसे अर्पित किया जाना चाहिए।"
+    },
+    {
+      "number": "28",
+      "sanskrit": "आहवनीये प्रदानम्॥",
+      "english_translation": "The offering is to be made in the Ahavaniya.",
+      "hindi_translation": "आहवनीय में अर्पण किया जाना चाहिए।"
+    },
+    {
+      "number": "29",
+      "sanskrit": "आधानप्रभृति यावज्जीवं पात्राणि धार्यते॥",
+      "english_translation": "As long as the vessels are held, from the beginning of the offering.",
+      "hindi_translation": "जब तक पात्र धारण किए जाते हैं, अर्पण की शुरुआत से।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "तेषां प्रतितन्त्रं संस्कारः॥",
+      "english_translation": "The rites are dependent on them.",
+      "hindi_translation": "संस्कार उन पर निर्भर करते हैं।"
+    },
+    {
+      "number": "31",
+      "sanskrit": "मन्त्रब्राह्मणे यज्ञस्य प्रमाणम्॥",
+      "english_translation": "The mantra is the measure of the sacrifice.",
+      "hindi_translation": "मंत्र यज्ञ का प्रमाण है।"
+    },
+    {
+      "number": "32",
+      "sanskrit": "मन्त्रब्राह्मणयोर्वेदनामधेयम्॥",
+      "english_translation": "The Vedic names are for the mantra and the Brahmana.",
+      "hindi_translation": "वेदीय नाम मंत्र और ब्राह्मण के लिए हैं।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "ब्राह्मणशेषोऽर्थवादः॥",
+      "english_translation": "The remaining Brahmana is the explanation.",
+      "hindi_translation": "शेष ब्राह्मण व्याख्या है।"
+    },
+    {
+      "number": "34",
+      "sanskrit": "कर्मचोदना ब्राह्मणानि॥",
+      "english_translation": "The Brahmanas are the injunctions of action.",
+      "hindi_translation": "ब्राह्मण क्रियाओं के आदेश हैं।"
+    },
+    {
+      "number": "35",
+      "sanskrit": "निन्दा प्रशंसा परकृतिः पुराकल्पश्च॥",
+      "english_translation": "Criticism and praise are the nature of others, as per the ancient tradition.",
+      "hindi_translation": "निंदा और प्रशंसा दूसरों की प्रकृति है, प्राचीन परंपरा के अनुसार।"
+    },
+    {
+      "number": "36",
+      "sanskrit": "अतोऽन्ये मन्त्राः॥",
+      "english_translation": "Therefore, there are other mantras.",
+      "hindi_translation": "इसलिए, अन्य मंत्र हैं।"
+    },
+    {
+      "number": "37",
+      "sanskrit": "अनास्नातास्त्वमन्त्राः यथा प्रवरोहनामधेयग्रहणानीति॥",
+      "english_translation": "Those who are not initiated are not to take the names of the mantras.",
+      "hindi_translation": "जो अनामंत्रित हैं, उन्हें मंत्रों के नाम नहीं लेने चाहिए।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "रथशब्दो दुन्दुभिशब्दश्च॥",
+      "english_translation": "The word 'ratha' and the word 'dundubhi'.",
+      "hindi_translation": "'रथ' शब्द और 'दुन्दुभि' शब्द।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "ब्राह्मणशेषोऽर्थवादः",
+      "english_translation": "The remaining part of the Brahmana is an explanation.",
+      "hindi_translation": "ब्राह्मण का शेष भाग एक व्याख्या है।"
+    },
+    {
+      "number": "34",
+      "sanskrit": "कर्मचोदना ब्राह्मणानि",
+      "english_translation": "The Brahmanas are exhortations for action.",
+      "hindi_translation": "ब्राह्मण क्रियाओं के लिए प्रेरणाएँ हैं।"
+    },
+    {
+      "number": "35",
+      "sanskrit": "निन्दा प्रशंसा परकृतिः पुराकल्पश्च",
+      "english_translation": "Censure, praise, and the nature of others are also ancient conventions.",
+      "hindi_translation": "निंदा, प्रशंसा और दूसरों की प्रकृति भी प्राचीन परंपराएँ हैं।"
+    },
+    {
+      "number": "36",
+      "sanskrit": "अतोऽन्ये मन्त्राः",
+      "english_translation": "Therefore, there are other mantras.",
+      "hindi_translation": "इसलिए, अन्य मंत्र हैं।"
+    },
+    {
+      "number": "37",
+      "sanskrit": "अनास्नातास्त्वमन्त्राः यथा प्रवरोहनामधेयग्रहणानीति",
+      "english_translation": "Those who have not eaten are not mantras, as they are not accepted in the name of the supreme.",
+      "hindi_translation": "जो लोग नहीं खाए हैं, वे मंत्र नहीं हैं, क्योंकि उन्हें सर्वोच्च के नाम में स्वीकार नहीं किया जाता।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "रथशब्दो दुन्दुभिशब्दश्च",
+      "english_translation": "The word 'chariot' and the word 'dundubhi' (drum) are also included.",
+      "hindi_translation": "'रथ' शब्द और 'दुन्दुभि' (ढोल) शब्द भी शामिल हैं।"
+    },
+    {
+      "number": "39",
+      "sanskrit": "स्वाध्यायेऽनध्यायो मन्त्राणां न कर्मण्यर्थान्तरत्वात्",
+      "english_translation": "In self-study, there is no non-study of mantras, as they are not different from actions.",
+      "hindi_translation": "स्वाध्याय में, मंत्रों का अनाध्याय नहीं है, क्योंकि वे क्रियाओं से भिन्न नहीं हैं।"
+    },
+    {
+      "number": "40",
+      "sanskrit": "एकमन्त्राणि कर्माणि",
+      "english_translation": "One mantra corresponds to one action.",
+      "hindi_translation": "एक मंत्र एक क्रिया के अनुरूप है।"
+    },
+    {
+      "number": "41",
+      "sanskrit": "अपि संख्यायुक्तचेष्टा पृथक्त्वनिर्वतीनि",
+      "english_translation": "Even if the actions are numbered, they do not lead to separation.",
+      "hindi_translation": "हालांकि क्रियाएँ संख्याबद्ध हैं, वे पृथक्करण की ओर नहीं ले जातीं।"
+    },
+    {
+      "number": "42",
+      "sanskrit": "कण्डूयंनस्वमनदीतरणाववर्षणामेध्यप्रतिमन्त्रणेषु च तद्वत्कालाव्यवेतेषु",
+      "english_translation": "In the case of certain rituals, the time of performance is also determined.",
+      "hindi_translation": "कुछ अनुष्ठानों के मामले में, प्रदर्शन का समय भी निर्धारित होता है।"
+    },
+    {
+      "number": "43",
+      "sanskrit": "प्रयाणे स्वार्थनिवृत्तेः",
+      "english_translation": "In departure, the cessation of self-interest occurs.",
+      "hindi_translation": "प्रस्थान में, स्वार्थ का अंत होता है।"
+    },
+    {
+      "number": "44",
+      "sanskrit": "असन्निपातिकर्मसु च तद्वत्",
+      "english_translation": "In non-fall rituals, it is the same.",
+      "hindi_translation": "गिरने वाले अनुष्ठानों में, यह समान है।"
+    },
+    {
+      "number": "45",
+      "sanskrit": "हविष्कृदधिगुपुरोनुवाक्यामनोतस्यावृत्तिर्भिन्नकालेषु",
+      "english_translation": "In the case of offerings, the recitation of the mantra is different at different times.",
+      "hindi_translation": "अर्पण के मामले में, मंत्र का उच्चारण विभिन्न समयों पर भिन्न होता है।"
+    },
+    {
+      "number": "46",
+      "sanskrit": "वचनादेकं कर्म बहुमन्त्रम्",
+      "english_translation": "From a single statement, many actions can arise.",
+      "hindi_translation": "एक ही वाक्य से कई क्रियाएँ उत्पन्न हो सकती हैं।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "मन्त्रान्तैः कर्मादीन्त्सन्निपातयेत्",
+      "english_translation": "By the mantras, one should perform the actions.",
+      "hindi_translation": "मंत्रों द्वारा, एक को क्रियाएँ करनी चाहिए।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "आधारे धारायां चादिसंयोगः",
+      "english_translation": "In the foundation, there is a connection to the beginning.",
+      "hindi_translation": "आधार में, आरंभ से एक संबंध है।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "आदिप्रदिष्टा मन्त्राः",
+      "english_translation": "The mantras are prescribed from the beginning.",
+      "hindi_translation": "मंत्रों को आरंभ से निर्धारित किया गया है।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "उत्तरस्यादिना पूर्वस्यावसानं विन्द्यात्",
+      "english_translation": "One should find the conclusion of the later part from the earlier part.",
+      "hindi_translation": "एक को पहले भाग से बाद के भाग का निष्कर्ष खोजना चाहिए।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "होत्रा याजमानेषु समुच्चयः",
+      "english_translation": "In the case of the Hota, there is a combination in the offerings.",
+      "hindi_translation": "होटा के मामले में, अर्पणों में एक संयोजन है।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "विकल्पो याज्यानुवाक्यासु",
+      "english_translation": "There is an option in the offerings.",
+      "hindi_translation": "अर्पणों में एक विकल्प है।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "संख्यासु च तद्वत्",
+      "english_translation": "Similarly, in the numbers.",
+      "hindi_translation": "इसी प्रकार, संख्याओं में।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "क्रयपरिक्रयसंस्कारेषु द्रव्यसमुच्चयः",
+      "english_translation": "In the rituals of purchase and sale, there is a collection of substances.",
+      "hindi_translation": "क्रय और विक्रय के अनुष्ठानों में, पदार्थों का संग्रह होता है।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "रौद्रराक्षसनैर्ऋतिपैतृकच्छेदनभेदननिरसनात्माभिमर्शनानि च कृत्वाप उपस्पृशेत्",
+      "english_translation": "By performing certain rituals, one should touch the essence of the Roudra and Rakshasa.",
+      "hindi_translation": "कुछ अनुष्ठानों को करके, एक को रौद्र और राक्षस की सार्थकता को छूना चाहिए।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "उत्तरतउपचारो विहारः",
+      "english_translation": "The later treatment is a departure.",
+      "hindi_translation": "बाद की चिकित्सा एक प्रस्थान है।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "नाग्नेरपपर्यावर्तेत",
+      "english_translation": "The fire should not be turned away.",
+      "hindi_translation": "आग को नहीं मोड़ना चाहिए।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "न विहारात्",
+      "english_translation": "Not from the departure.",
+      "hindi_translation": "प्रस्थान से नहीं।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "अन्तराणि यज्ञाङ्गानि बाह्याः कतरिः",
+      "english_translation": "Which of the internal and external parts of the sacrifice?",
+      "hindi_translation": "यज्ञ के आंतरिक और बाह्य भागों में से कौन सा?"
+    },
+    {
+      "number": "14",
+      "sanskrit": "न मन्त्रवता यज्ञाङ्गेनात्मानमभिपरिहरेत्",
+      "english_translation": "One should not avoid oneself with the sacrificial part by the mantra.",
+      "hindi_translation": "एक को मंत्र द्वारा यज्ञ के भाग से खुद को नहीं बचाना चाहिए।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "प्रागपवर्गाण्युदगपवर्गाणि वा यज्ञोपवीती प्रदक्षिणं दैवानि कर्माणि करोति",
+      "english_translation": "One performs the sacred actions of the Yajna by the sacred thread, either from the previous or the upward category.",
+      "hindi_translation": "एक यज्ञ के पवित्र कार्यों को पवित्र धागे द्वारा करता है, चाहे वह पिछले या ऊर्ध्व श्रेणी से हो।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "प्राचीनावीती प्रसव्यं दक्षिणापवर्गाणि पित्र्याणि",
+      "english_translation": "The ancient path leads to the left and the southern categories of the ancestors.",
+      "hindi_translation": "प्राचीन मार्ग बाएँ और पूर्वजों की दक्षिण श्रेणियों की ओर ले जाता है।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "यानी शुल्बानि समासं गच्छन्ति प्रसव्यं तान्यावेष्टच प्रदक्षिणं समस्येत्",
+      "english_translation": "Those that go to the left in the form of a bundle should be wrapped and turned to the right.",
+      "hindi_translation": "जो बंडल के रूप में बाएँ जाते हैं, उन्हें लपेटकर दाएँ मोड़ना चाहिए।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "अथ यानि न समस्यते प्रदक्षिणं तानि",
+      "english_translation": "And those that do not turn to the right, those should be.",
+      "hindi_translation": "और जो दाएँ नहीं मुड़ते, वे होने चाहिए।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "अमावास्यायाममावास्यया यजेत",
+      "english_translation": "One should perform the sacrifice on the new moon day.",
+      "hindi_translation": "एक को अमावस्या के दिन यज्ञ करना चाहिए।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "पौर्णमास्यां पौर्णमास्या",
+      "english_translation": "On the full moon day, one should perform the full moon sacrifice.",
+      "hindi_translation": "पूर्णिमा के दिन, एक को पूर्णिमा का यज्ञ करना चाहिए।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "यदहः पुरस्ताच्चन्द्रमाः पूर्ण उत्सर्पेत्तां पौर्णमासीमुपवसेत्",
+      "english_translation": "On the day when the full moon rises, one should sit for the full moon sacrifice.",
+      "hindi_translation": "जिस दिन पूर्णिमा उगती है, एक को पूर्णिमा के यज्ञ के लिए बैठना चाहिए।"
+    },
+    {
+      "number": "22",
+      "sanskrit": "श्वः पूरितेति वा",
+      "english_translation": "Or it is said that it is fulfilled tomorrow.",
+      "hindi_translation": "या कहा जाता है कि यह कल पूरा हो गया है।"
+    },
+    {
+      "number": "23",
+      "sanskrit": "खर्विकां तृतीयां वाजसनेयिनस्समामनन्ति",
+      "english_translation": "The third of the Khervika is mentioned in the Vajasaneis.",
+      "hindi_translation": "खर्विका का तीसरा वाजसनेयियों में उल्लेख किया गया है।"
+    },
+    {
+      "number": "24",
+      "sanskrit": "यदहर्नदृश्यते तदहरमावास्याम्",
+      "english_translation": "What is not seen today should be performed on the new moon day.",
+      "hindi_translation": "जो आज नहीं देखा जाता, उसे अमावस्या के दिन करना चाहिए।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "श्वो न द्रष्टार इति वा",
+      "english_translation": "Or it is said that it will not be seen tomorrow.",
+      "hindi_translation": "या कहा जाता है कि यह कल नहीं देखा जाएगा।"
+    },
+    {
+      "number": "26",
+      "sanskrit": "एकप्रकरणे चोद्यमानानि प्रधानानि समानविधानानि",
+      "english_translation": "In a single context, the main actions are prescribed similarly.",
+      "hindi_translation": "एक ही संदर्भ में, मुख्य क्रियाएँ समान रूप से निर्धारित की जाती हैं।"
+    },
+    {
+      "number": "27",
+      "sanskrit": "प्रकारेण विधयो बध्यन्ते",
+      "english_translation": "The rules are bound by the type.",
+      "hindi_translation": "नियम प्रकार द्वारा बंधे होते हैं।"
+    },
+    {
+      "number": "28",
+      "sanskrit": "अनिर्देशात्साधारणानि",
+      "english_translation": "From the absence of specification, the general ones.",
+      "hindi_translation": "निर्देश की अनुपस्थिति से, सामान्य होते हैं।"
+    },
+    {
+      "number": "29",
+      "sanskrit": "निर्देशाद्व्यवतिष्ठन्ते",
+      "english_translation": "From specification, they are distinguished.",
+      "hindi_translation": "निर्देश से, वे भिन्न होते हैं।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "आग्नेयोऽष्टाकपालोऽग्रीषोमीय एकादशकपाल उपांशुयाजश्च पौर्णमास्यां प्रधानानि",
+      "english_translation": "The Agni and the eight-headed, the Agriṣoma, and the eleven-headed are the main ones on the full moon.",
+      "hindi_translation": "आग्नि और आठ-हेड, अग्रीषोम और ग्यारह-हेड पूर्णिमा पर मुख्य होते हैं।"
+    },
+    {
+      "number": "31",
+      "sanskrit": "तदङ्गमितरे होमाः",
+      "english_translation": "The other offerings are related to that.",
+      "hindi_translation": "अन्य अर्पण उससे संबंधित हैं।"
+    },
+    {
+      "number": "32",
+      "sanskrit": "आग्नेयोऽष्टाकपाल ऐन्द्राग्न एकादशकपालो द्वादशकपालो वाऽमावास्यायाम सोमयाजिनः",
+      "english_translation": "The eight-headed Agni, the Indrāgni, the eleven-headed, or the twelve-headed are for the new moon sacrifice.",
+      "hindi_translation": "आग्नि का आठ-हेड, इंद्राग्नि, ग्यारह-हेड, या बारह-हेड अमावस्या के यज्ञ के लिए हैं।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "सान्नाय्यं द्वितीयं सोमयाजिनः",
+      "english_translation": "The second is for the Soma sacrifice.",
+      "hindi_translation": "दूसरा सोम यज्ञ के लिए है।"
+    },
+    {
+      "number": "34",
+      "sanskrit": "नासोमयाजिनो ब्राह्मणस्यानीषोमीयः पुरोडाशो विद्यते",
+      "english_translation": "There is no offering for the Brahmana of the Soma sacrificer.",
+      "hindi_translation": "सोम याजक के ब्राह्मण के लिए कोई अर्पण नहीं है।"
+    },
+    {
+      "number": "35",
+      "sanskrit": "नैन्द्राग्नस्सन्नयतो वर्णाविशेषेण",
+      "english_translation": "The Indrāgni is not to be performed with a specific color.",
+      "hindi_translation": "इंद्राग्नि को विशेष रंग के साथ नहीं किया जाना चाहिए।"
+    },
+    {
+      "number": "36",
+      "sanskrit": "पितृयज्ञः स्वकालविधानादनङ्गं स्यात्",
+      "english_translation": "The ancestor sacrifice should be performed at the appropriate time.",
+      "hindi_translation": "पूर्वजों का यज्ञ उचित समय पर किया जाना चाहिए।"
+    },
+    {
+      "number": "37",
+      "sanskrit": "तुल्यवच्च प्रसंख्यानात्",
+      "english_translation": "Similarly, from the enumeration.",
+      "hindi_translation": "इसी प्रकार, गणना से।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "प्रतिषिद्धे च दर्शनात्",
+      "english_translation": "And from the prohibition, there is a vision.",
+      "hindi_translation": "और निषेध से, एक दृष्टि है।"
+    },
+    {
+      "number": "39",
+      "sanskrit": "सहाङ्गं प्रधानम्",
+      "english_translation": "The main one is with its parts.",
+      "hindi_translation": "मुख्य वह है जो इसके भागों के साथ है।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "देशे काले कर्तरीति निर्दिश्यते",
+      "english_translation": "It is indicated in terms of place and time.",
+      "hindi_translation": "यह स्थान और समय के संदर्भ में निर्दिष्ट किया गया है।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "स्वशब्दं यत्",
+      "english_translation": "The word 'self' is.",
+      "hindi_translation": "'स्व' शब्द है।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "अपूर्वो दर्वीहोमः",
+      "english_translation": "The unprecedented Darvi offering.",
+      "hindi_translation": "अपूर्व दर्वी अर्पण।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "जुहोतिचोदनः स्वाहाकारप्रदानः",
+      "english_translation": "The offering is made with the command of 'Swaha'.",
+      "hindi_translation": "'स्वाहा' के आदेश से अर्पण किया जाता है।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "सकृद्गृहीत्वा",
+      "english_translation": "Once taken.",
+      "hindi_translation": "एक बार लिया गया।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "आहुतिगणे प्रत्याहुति गृहीत्वा",
+      "english_translation": "Taking the offerings in the count of the oblations.",
+      "hindi_translation": "अर्पणों की गणना में अर्पण लेना।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "न वा समवद्येत्",
+      "english_translation": "Or it should not be equal.",
+      "hindi_translation": "या यह समान नहीं होना चाहिए।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "समिदभावश्च",
+      "english_translation": "And the presence of the fuel.",
+      "hindi_translation": "और ईंधन की उपस्थिति।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "अग्निहोत्रवर्जम्",
+      "english_translation": "Excluding the Agnihotra.",
+      "hindi_translation": "अग्निहोत्र को छोड़कर।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "अपरेणाग्निं दक्षिणं जान्वाच्यानाच्य वासीनो दर्वीहोमान् जुहोति",
+      "english_translation": "Another offers the Agni to the south, the one who is seated.",
+      "hindi_translation": "एक और आग्नि को दक्षिण की ओर अर्पित करता है, जो बैठा है।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "वचनादन्यथा",
+      "english_translation": "Otherwise, it is said.",
+      "hindi_translation": "अन्यथा कहा जाता है।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "अपरेणाहवनीयं दक्षिणातिक्रम्योदगावृत्तस्सर्वा आहुतीर्जुहोति",
+      "english_translation": "Another offers the Ahavaniya, crossing the south.",
+      "hindi_translation": "एक और दक्षिण को पार करते हुए अहवनीय अर्पित करता है।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "वचनादन्यथा",
+      "english_translation": "Otherwise, it is said.",
+      "hindi_translation": "अन्यथा कहा जाता है।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "आश्रुतप्रत्याश्रुते याज्यानुवाक्ये अवदानेषु चोपस्तरणाभिघारणे चतुर्गृहीतं वषट्कारश्चादर्वीहोमानाम्",
+      "english_translation": "In the case of the Yajna, the four are taken in the recitation of the mantra.",
+      "hindi_translation": "यज्ञ के मामले में, मंत्र के उच्चारण में चार लिए जाते हैं।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "वषट्कृते वषट्कारेण वाहुतिषु सन्निपातयेत्",
+      "english_translation": "In the case of the Vashat, it should be performed with the Vashat.",
+      "hindi_translation": "वषट के मामले में, इसे वषट के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "उपयामेन ग्रहेषु",
+      "english_translation": "With the approach to the houses.",
+      "hindi_translation": "घरों के लिए दृष्टिकोण के साथ।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "तयादेवतेनेष्टकासु",
+      "english_translation": "By that deity, in the offerings.",
+      "hindi_translation": "उस देवता द्वारा, अर्पणों में।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "पुरोडाशगणे यथाभागं व्यावर्तध्वमित्येकैकमपछिन्द्यात्",
+      "english_translation": "In the case of the Purodasa, each should be divided according to the portion.",
+      "hindi_translation": "पुरोडाश के मामले में, प्रत्येक को भाग के अनुसार विभाजित किया जाना चाहिए।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "उत्तमौ यथाभागं व्यावर्तेथामिति तयोरेव देवतोपदेशनं करोति",
+      "english_translation": "The best should be divided according to the portion, and thus the deity is indicated.",
+      "hindi_translation": "सर्वश्रेष्ठ को भाग के अनुसार विभाजित किया जाना चाहिए, और इस प्रकार देवता का संकेत दिया जाता है।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "चरुपुरोडाशगणे चरुपुरोडाशीयान् प्रागधिवपनाद्विभजति",
+      "english_translation": "In the case of the Charu Purodasa, it is divided from the previous offering.",
+      "hindi_translation": "चरु पुरोडाश के मामले में, इसे पिछले अर्पण से विभाजित किया जाता है।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "तमुपलक्षयति",
+      "english_translation": "It is to be recognized.",
+      "hindi_translation": "इसे पहचानना है।"
+    },
+    {
+      "number": "22",
+      "sanskrit": "इदंशब्दस्तत्र स्यात्",
+      "english_translation": "The word 'this' is there.",
+      "hindi_translation": "'यह' शब्द वहाँ है।"
+    },
+    {
+      "number": "23",
+      "sanskrit": "व्यतिषक्तेष्वपि",
+      "english_translation": "Even in the exceptional cases.",
+      "hindi_translation": "विशेष मामलों में भी।"
+    },
+    {
+      "number": "24",
+      "sanskrit": "कपालानामुपधानकाले प्रथमेन कपालमन्त्रेण चरुमुपदधाति ध्रुवासीति मन्त्रं सन्नमयति",
+      "english_translation": "In the case of the Kapalas, the first mantra is used to establish the Charu.",
+      "hindi_translation": "कपालों के मामले में, पहले मंत्र का उपयोग चरु को स्थापित करने के लिए किया जाता है।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "पिष्टानामुत्पवनकाले तण्डुलानुत्पुनाति",
+      "english_translation": "In the case of the ground grains, it is produced at the time of the wind.",
+      "hindi_translation": "पिसे हुए अनाज के मामले में, यह हवा के समय में उत्पन्न होता है।"
+    },
+    {
+      "number": "26",
+      "sanskrit": "अधिश्रयणकालेऽधिश्रयणमन्त्रेण तण्डुलानावपति",
+      "english_translation": "At the time of the Adhishrayana, the grains are offered with the Adhishrayana mantra.",
+      "hindi_translation": "अधिश्रयण के समय, अनाज को अधिश्रयण मंत्र के साथ अर्पित किया जाता है।"
+    },
+    {
+      "number": "27",
+      "sanskrit": "अनुद्धृत्य चरुमासादयति",
+      "english_translation": "Without lifting, the Charu is produced.",
+      "hindi_translation": "उठाए बिना, चरु का उत्पादन होता है।"
+    },
+    {
+      "number": "28",
+      "sanskrit": "पञ्चदश सामिधेन्यो दर्शपूर्णमासयोः",
+      "english_translation": "With fifteen offerings, on the full moon days.",
+      "hindi_translation": "पंद्रह अर्पणों के साथ, पूर्णिमा के दिनों में।"
+    },
+    {
+      "number": "29",
+      "sanskrit": "सप्तदशोष्टपशुबन्धानां यत्र श्रूयन्ते",
+      "english_translation": "Seventeen and eight are the bonds of animals, where they are heard.",
+      "hindi_translation": "सत्रह और आठ जानवरों के बंधन हैं, जहाँ उन्हें सुना जाता है।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "उपांशुकाम्या इष्टयः क्रियन्त इति तत्र यावत्प्रधानमुपांशु",
+      "english_translation": "The Upanshuka offerings are performed there as the main ones.",
+      "hindi_translation": "उपांशु अर्पण वहाँ मुख्य रूप से किए जाते हैं।"
+    },
+    {
+      "number": "31",
+      "sanskrit": "दर्शपूर्णमासाविष्टीनां प्रकृतिः",
+      "english_translation": "The nature of the offerings on the full moon day.",
+      "hindi_translation": "पूर्णिमा के दिन अर्पणों की प्रकृति।"
+    },
+    {
+      "number": "32",
+      "sanskrit": "अग्नीषोमीयस्य च पशोः",
+      "english_translation": "For the Agniṣoma and the animals.",
+      "hindi_translation": "आग्नीषोम और जानवरों के लिए।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "स सवनीयस्य",
+      "english_translation": "It is for the one who is to be honored.",
+      "hindi_translation": "यह सम्मानित होने वाले के लिए है।"
+    },
+    {
+      "number": "34",
+      "sanskrit": "सवनीय ऐकादशिनानाम्",
+      "english_translation": "For the one who is to be honored, the eleven.",
+      "hindi_translation": "सम्मानित होने वाले के लिए, ग्यारह।"
+    },
+    {
+      "number": "35",
+      "sanskrit": "ऐकादशिनाः पशुगणानाम्",
+      "english_translation": "For the eleven animals.",
+      "hindi_translation": "ग्यारह जानवरों के लिए।"
+    },
+    {
+      "number": "36",
+      "sanskrit": "वैश्वदेवं वरुणप्रघाससाकमेधशुनासीरीयाणाम्",
+      "english_translation": "For the Vaishvadeva, Varuna, and the Shunasi.",
+      "hindi_translation": "वैश्वदेव, वरुण, और शुनासी के लिए।"
+    },
+    {
+      "number": "37",
+      "sanskrit": "वैश्वदेविक एककपाल एककपालानाम्",
+      "english_translation": "For the Vaishvadeva, the single-headed.",
+      "hindi_translation": "वैश्वदेव के लिए, एक-हेड।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "वैश्वदेव्यामिक्षाऽऽमिक्षाणाम्",
+      "english_translation": "In the Vaishvadeva, the offerings are made.",
+      "hindi_translation": "वैश्वदेव में, अर्पण किए जाते हैं।"
+    },
+    {
+      "number": "39",
+      "sanskrit": "तत्र सामान्याद्विकारो गम्येत",
+      "english_translation": "There, the general transformations are to be understood.",
+      "hindi_translation": "वहाँ, सामान्य परिवर्तन को समझा जाना चाहिए।"
+    },
+    {
+      "number": "40",
+      "sanskrit": "एकदेवता आयविकाराः",
+      "english_translation": "One deity has transformations.",
+      "hindi_translation": "एक देवता के परिवर्तन होते हैं।"
+    },
+    {
+      "number": "41",
+      "sanskrit": "द्विदेवता अग्रीषोमीयविकाराः",
+      "english_translation": "Two deities have transformations.",
+      "hindi_translation": "दो देवताओं के परिवर्तन होते हैं।"
+    },
+    {
+      "number": "42",
+      "sanskrit": "बहुदेवताश्च",
+      "english_translation": "And many deities.",
+      "hindi_translation": "और कई देवता।"
+    },
+    {
+      "number": "43",
+      "sanskrit": "ऐन्द्राग्रविकारा वा",
+      "english_translation": "Or the transformations of Indrāgni.",
+      "hindi_translation": "या इंद्राग्नि के परिवर्तन।"
+    },
+    {
+      "number": "44",
+      "sanskrit": "अन्यत्र प्रकृतिदेवताभ्यो यथैन्द्रः पुरोडाशस्सौम्यश्चरुरिति",
+      "english_translation": "In other places, the natural deities are like Indra, the Purodasa, and the gentle ones.",
+      "hindi_translation": "अन्य स्थानों पर, प्राकृतिक देवता इंद्र, पुरोडाश और सौम्य होते हैं।"
+    },
+    {
+      "number": "45",
+      "sanskrit": "हविर्देवता सामान्ये हविर्बलीयः",
+      "english_translation": "The deity of the offering is generally more powerful.",
+      "hindi_translation": "अर्पण का देवता सामान्यतः अधिक शक्तिशाली होता है।"
+    },
+    {
+      "number": "46",
+      "sanskrit": "द्रव्यसंस्कारविरोधे द्रव्यं बलीयः",
+      "english_translation": "In the case of the substance, the substance is more powerful than the ritual.",
+      "hindi_translation": "पदार्थ के मामले में, पदार्थ अनुष्ठान से अधिक शक्तिशाली होता है।"
+    },
+    {
+      "number": "47",
+      "sanskrit": "अर्थद्रव्यविरोधेऽर्थो बलीयान्",
+      "english_translation": "In the case of the meaning, the meaning is more powerful than the substance.",
+      "hindi_translation": "अर्थ के मामले में, अर्थ पदार्थ से अधिक शक्तिशाली होता है।"
+    },
+    {
+      "number": "48",
+      "sanskrit": "न प्रकृतावूहो विद्यते",
+      "english_translation": "There is no confusion in the natural state.",
+      "hindi_translation": "प्राकृतिक स्थिति में कोई भ्रम नहीं होता।"
+    },
+    {
+      "number": "49",
+      "sanskrit": "विकृतौ यथार्थमूहोऽर्थवादवर्जम्",
+      "english_translation": "In the distorted state, the meaning is not confused.",
+      "hindi_translation": "विकृत स्थिति में, अर्थ का भ्रम नहीं होता।"
+    },
+    {
+      "number": "50",
+      "sanskrit": "परवाक्यश्रवणादर्थवादः",
+      "english_translation": "From the hearing of others' words, the meaning arises.",
+      "hindi_translation": "दूसरों के शब्दों को सुनने से अर्थ उत्पन्न होता है।"
+    },
+    {
+      "number": "51",
+      "sanskrit": "शिष्टाभावे सामान्यात्प्रतिनिधिः",
+      "english_translation": "In the absence of the learned, the representative is general.",
+      "hindi_translation": "ज्ञानी की अनुपस्थिति में, प्रतिनिधि सामान्य होता है।"
+    },
+    {
+      "number": "52",
+      "sanskrit": "तद्धर्मा च स्यात्",
+      "english_translation": "Thus, it should be.",
+      "hindi_translation": "इस प्रकार, ऐसा होना चाहिए।"
+    },
+    {
+      "number": "53",
+      "sanskrit": "मात्रापचारे तच्छेषेण समाप्नुयात्",
+      "english_translation": "In the case of the measure, it should be completed with that remainder.",
+      "hindi_translation": "मात्रा के मामले में, इसे उस शेष के साथ पूरा किया जाना चाहिए।"
+    },
+    {
+      "number": "48",
+      "sanskrit": "प्रकृतावूहो विद्यते॥",
+      "english_translation": "In the original state, there is a declaration.",
+      "hindi_translation": "मूल स्थिति में, एक घोषणा होती है।"
+    },
+    {
+      "number": "49",
+      "sanskrit": "विकृतौ यथार्थमूहोऽर्थवादवर्जम्॥",
+      "english_translation": "In the altered state, the declaration is true, excluding the statement of meaning.",
+      "hindi_translation": "परिवर्तित स्थिति में, घोषणा सत्य है, अर्थ के कथन को छोड़कर।"
+    },
+    {
+      "number": "50",
+      "sanskrit": "परवाक्यश्रवणादर्थवादः॥",
+      "english_translation": "The statement of meaning arises from hearing another's words.",
+      "hindi_translation": "अपर के शब्दों को सुनने से अर्थ का कथन उत्पन्न होता है।"
+    },
+    {
+      "number": "51",
+      "sanskrit": "शिष्टाभावे सामान्यात्प्रतिनिधिः॥",
+      "english_translation": "In the absence of the learned, the representative is general.",
+      "hindi_translation": "ज्ञानी की अनुपस्थिति में, प्रतिनिधि सामान्य होता है।"
+    },
+    {
+      "number": "52",
+      "sanskrit": "तद्धर्मा च स्यात्॥",
+      "english_translation": "That is also the nature of it.",
+      "hindi_translation": "वह भी इसकी प्रकृति है।"
+    },
+    {
+      "number": "53",
+      "sanskrit": "मात्रापचारे तच्छेषेण समाप्नुयात्॥",
+      "english_translation": "In the case of a minor offense, it should be completed with that remainder.",
+      "hindi_translation": "छोटी गलती के मामले में, इसे उस शेष के साथ पूरा किया जाना चाहिए।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "स्वामिनोग्नेर्देवतायाश्शब्दात्कर्मणः प्रतिषेधाच्च प्रतिनिधिनिवृत्तः॥",
+      "english_translation": "Due to the word of the deity of the fire, and the prohibition of action, the representative is withdrawn.",
+      "hindi_translation": "अग्नि के देवता के शब्द और क्रिया के निषेध के कारण, प्रतिनिधि वापस ले लिया जाता है।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "त्रिभिः कारणैः प्रकृतिर्निवर्तते प्रत्याम्नानात्प्रतिषेधादर्थलोपाच्च॥",
+      "english_translation": "The original does not revert due to three causes: the prohibition of the opposite, and the loss of meaning.",
+      "hindi_translation": "मूल तीन कारणों से वापस नहीं आता: विपरीत का निषेध और अर्थ का ह्रास।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "अग्निष्टोम एकाहानां प्रकृतिः॥",
+      "english_translation": "The original state of the Agnistoma is for one day.",
+      "hindi_translation": "अग्निष्टोम की मूल स्थिति एक दिन की होती है।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "द्वादशाहोऽहर्गणानाम्॥",
+      "english_translation": "For the twelve-day sacrifices.",
+      "hindi_translation": "बारह दिन के यज्ञों के लिए।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "गवामयनं सांवत्सरिकाणाम्॥",
+      "english_translation": "For the yearly sacrifices of the cow.",
+      "hindi_translation": "गाय के वार्षिक यज्ञों के लिए।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "निकायिनां तु प्रथमः॥",
+      "english_translation": "For the first of the groups.",
+      "hindi_translation": "समूहों में पहले के लिए।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "अग्निष्टोम उत्तरवेदिः॥",
+      "english_translation": "The Agnistoma is the northern altar.",
+      "hindi_translation": "अग्निष्टोम उत्तरी वेदी है।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "उत्तरेषु क्रतुष्वग्निरन्यत्र साद्यस्क्रेभ्यो वाजपेयात्षोडशिनः सारस्वताच्च सत्रात्॥",
+      "english_translation": "In the northern sacrifices, the fire is from other sources, from the Vājapeya and the sixteen and from the Sārasvat.",
+      "hindi_translation": "उत्तरी यज्ञों में, अग्नि अन्य स्रोतों से है, वाजपेय और सोलह से और सारस्वत से।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "क्रत्वादौ क्रतुकामं कामयेत॥",
+      "english_translation": "From the performance of the sacrifice, one should desire the desire of the sacrifice.",
+      "hindi_translation": "यज्ञ के प्रदर्शन से, एक को यज्ञ की इच्छा करनी चाहिए।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "यज्ञाङ्गादौ यज्ञाङ्गकामम्॥",
+      "english_translation": "From the parts of the sacrifice, one should desire the desire of the parts.",
+      "hindi_translation": "यज्ञ के भागों से, एक को भागों की इच्छा करनी चाहिए।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "अल्पीयांसो मन्त्राः भूयांसि कर्माणि तत्र समशः प्रविभज्य पूर्वैः पूर्वाणि कारयेदुत्तरैरुत्तरणि॥",
+      "english_translation": "The lesser mantras and the greater actions should be divided equally there, and the earlier ones should be performed with the later ones.",
+      "hindi_translation": "छोटे मंत्र और बड़े कर्मों को वहां समान रूप से विभाजित किया जाना चाहिए, और पहले वाले को बाद वालों के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "अल्पीयांसि कर्माणि भूयांसो मन्त्रास्तत्र प्रतिमन्त्रं कुर्यादवशिष्टा विकल्पार्था यथा यूपद्रव्याणीति॥",
+      "english_translation": "The lesser actions should have greater mantras there, and the remaining should be done for the sake of alternatives, as in the case of the sacrificial materials.",
+      "hindi_translation": "छोटी क्रियाओं में वहां बड़े मंत्र होने चाहिए, और शेष को विकल्प के लिए किया जाना चाहिए, जैसे कि बलिदान सामग्री के मामले में।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "अन्ताल्लोपो विवृद्धिर्वा॥",
+      "english_translation": "There may be an increase or a decrease at the end.",
+      "hindi_translation": "अंत में वृद्धि या कमी हो सकती है।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "प्रकृतेः पूर्वोक्तत्वादपूर्वमन्ते स्यात्॥",
+      "english_translation": "Due to the previously mentioned nature, it should be at the beginning.",
+      "hindi_translation": "पूर्व में उल्लेखित प्रकृति के कारण, यह शुरुआत में होना चाहिए।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "कुम्भीशूलवपाश्रपणि प्रभुत्वान्तन्त्रं स्यात्॥",
+      "english_translation": "There may be a dominance of the pot, the thorn, and the rope.",
+      "hindi_translation": "घड़े, कांटे और रस्सी का प्रभुत्व हो सकता है।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "जातिभेदे तु भिद्येत पक्तिवैषम्यात्॥",
+      "english_translation": "In the case of caste differences, there may be a division due to cooking differences.",
+      "hindi_translation": "जाति भेद के मामले में, पकाने के भेद के कारण विभाजन हो सकता है।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "स्विष्टकृद्विकारे वनस्पतौ याज्यायां देवतानिगमास्स्युः प्रकृत्युपबन्धात्॥",
+      "english_translation": "In the case of the offering of the deity, the nature is bound by the action of the plant.",
+      "hindi_translation": "देवता के बलिदान के मामले में, प्रकृति पौधे की क्रिया द्वारा बंधी होती है।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "अन्वारम्भणीया विकृतौ न स्यात्प्रकृतिकालमध्यत्वात्कृता हि तदर्थेन॥",
+      "english_translation": "In the altered state, there should not be a beginning due to the nature of the time.",
+      "hindi_translation": "परिवर्तित स्थिति में, समय की प्रकृति के कारण कोई शुरुआत नहीं होनी चाहिए।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "स्याद्वा कालस्याशेषभूतत्वात्॥",
+      "english_translation": "Or it may be due to the completeness of time.",
+      "hindi_translation": "या यह समय की पूर्णता के कारण हो सकता है।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "आरम्भविभागाच्च॥",
+      "english_translation": "Due to the division of the beginning.",
+      "hindi_translation": "शुरुआत के विभाजन के कारण।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "अर्थायार्थायाग्निं प्रणयत्यपवृत्तेः कर्मणि लौकिकस्सम्पद्यते यथासमारूढे॥",
+      "english_translation": "For the sake of meaning, one should invoke the fire, and in the action, the worldly is attained as per the established.",
+      "hindi_translation": "अर्थ के लिए, एक को अग्नि का आह्वान करना चाहिए, और क्रिया में, संसारिक को स्थापित के अनुसार प्राप्त किया जाता है।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "चक्षिङो व्यक्तवचनार्थस्य ख्याङादेशस्य लट्प्रत्यये उत्तमपुरुषरूपं।",
+      "english_translation": "The form of the best person in the present tense of the verb is for the purpose of expressing the meaning of the eye.",
+      "hindi_translation": "आंख के अर्थ को व्यक्त करने के लिए क्रिया के वर्तमान रूप में श्रेष्ठ व्यक्ति का रूप।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "स तु यागः आदितस्त्रयाणां वर्णानां ब्राह्मणराजन्यवैश्यानामदुष्टकर्मणामनुष्ठानसमर्थानां सपत्नीकानां कामिनां प्रत्येकमुपदिश्यन्ते।",
+      "english_translation": "The sacrifice is prescribed for the three varnas of Brahmins, Kshatriyas, and Vaishyas who are capable of performing righteous actions along with their wives.",
+      "hindi_translation": "यज्ञ उन तीन वर्णों ब्राह्मणों, क्षत्रियों और वैश्याओं के लिए निर्धारित है जो अपनी पत्नियों के साथ धर्म कार्य करने में सक्षम हैं।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "स तु यज्ञस्त्रिभिर्वेदैस्साध्यो यागः विधीयते।",
+      "english_translation": "The sacrifice is to be performed with the three Vedas.",
+      "hindi_translation": "यज्ञ को तीन वेदों के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "क—ऋग्वेदयजुर्वेदाभ्यां दर्शपूर्णमासौ साङ्गौ विधीयेते।",
+      "english_translation": "From the Rigveda and Yajurveda, the Darsha-Purnamasa is to be performed with the associated rituals.",
+      "hindi_translation": "ऋग्वेद और यजुर्वेद से, दर्शपूर्णमास का आयोजन संबंधित अनुष्ठानों के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "क—साङ्गं यजुर्वेदविहितमिति अध्वर्युकर्तृत्वमुपांशुत्वं च।",
+      "english_translation": "The Yajurveda prescribes the associated rituals for the performance of the Agnihotra.",
+      "hindi_translation": "यजुर्वेद अग्निहोत्र के आयोजन के लिए संबंधित अनुष्ठानों का वर्णन करता है।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "क—कस्तर्हि त्रिभिर्वेदैर्विधीयत इत्यत्राह। सर्वैरग्निष्टोमः॥",
+      "english_translation": "Who then is to be performed with all three Vedas? The Agnistoma is to be performed.",
+      "hindi_translation": "फिर सभी तीन वेदों के साथ किसका आयोजन किया जाना चाहिए? अग्निष्टोम का आयोजन किया जाना चाहिए।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "क—दूरस्थस्य श्रवणकरणशब्दप्रयोगः उच्चैः प्रयोगः ऋग्वेदसामवेदविहितानां मन्त्राणां साम्नां चोच्चैः प्रयोगः कर्तव्यः।",
+      "english_translation": "For distant rituals, the pronunciation of the words must be loud; the mantras from the Rigveda and Samaveda should also be pronounced loudly.",
+      "hindi_translation": "दूरस्थ अनुष्ठानों के लिए, शब्दों का उच्चारण जोर से होना चाहिए; ऋग्वेद और सामवेद के मंत्रों का भी जोर से उच्चारण किया जाना चाहिए।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "क—क्रियत इत्यनुषङ्गः। करणवदशब्द(वद) मनः प्रयोग उपांशु।",
+      "english_translation": "The term 'let it be done' indicates the necessity of the action; the use of the word in the context of the mind is also to be performed quietly.",
+      "hindi_translation": "'यह किया जाए' शब्द क्रिया की आवश्यकता को दर्शाता है; मन के संदर्भ में शब्द का उपयोग भी चुपचाप किया जाना चाहिए।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "जामदग्न्ये चतूरात्रे यजुर्वेदेनाग्यादयः पुरोडाशा विहिताः।",
+      "english_translation": "In the case of Jamadagni, the offerings prescribed by the Yajurveda are the purodasha for the four-night ritual.",
+      "hindi_translation": "जामदग्नि के मामले में, यजुर्वेद द्वारा निर्धारित अर्पण चार रातों के अनुष्ठान के लिए पुरोडाशा हैं।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "उपसत्सु तेषां हौत्रमन्त्रास्सामवेदविहिताः अग्निर्होतावेत्वग्नेर्होत्रमित्यादयः।",
+      "english_translation": "In the case of offerings, the mantras for the Homa are prescribed by the Samaveda, such as 'Agni is the Hota'.",
+      "hindi_translation": "अर्पणों के मामले में, होम के लिए मंत्र सामवेद द्वारा निर्धारित हैं, जैसे 'अग्नि ही होत है'।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "तेषां यजुर्वेदविहितहोमशेषविहितत्वादुपांश्वेव प्रयोगः।",
+      "english_translation": "Due to the completeness of the Yajurveda prescribed homa, the use is only partial.",
+      "hindi_translation": "यजुर्वेद द्वारा निर्धारित होम की पूर्णता के कारण, उपयोग केवल आंशिक है।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "आश्रुतमाभावयेति। प्रत्याश्रुतमस्तुश्रौषडिति।",
+      "english_translation": "To indicate the absence of what is heard. The opposite is to indicate what is heard.",
+      "hindi_translation": "सुनी गई चीज़ की अनुपस्थिति को इंगित करने के लिए। विपरीत यह है कि सुनी गई चीज़ को इंगित करना।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "अग्नेस्समिन्धनार्था ऋचस्सामिधेन्यः।",
+      "english_translation": "The verses for the fire are for the purpose of kindling.",
+      "hindi_translation": "आग के लिए श्लोक प्रज्वलन के उद्देश्य से हैं।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "आज्यभागाभ्यामिति पञ्चमी।",
+      "english_translation": "With the portions of ghee, this is the fifth.",
+      "hindi_translation": "घी के भागों के साथ, यह पांचवां है।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "ह—महारात्रे बुद्ध्वेत्यारभ्य निस्सर्पणान्तः क्रियाकलापः सोमाभिषवसम्बन्धः प्रातस्सवनमित्युच्यते।",
+      "english_translation": "Having understood on the great night, the activity related to the Soma offering, which is to be performed after the cessation of the serpent, is called the morning offering.",
+      "hindi_translation": "महानिशा में समझकर, जो क्रियाकलाप सोम अभिषेक से संबंधित है, उसे निस्सर्पण के बाद प्रातः का समर्पण कहा जाता है।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "क—स्विष्टकृत इति पंचमी। दर्शपूर्णमासयो राज्यभागप्रभृति प्राक्स्विष्टकृतः ज्योतिष्टोमे माध्यन्दिने सवने च यदुच्चैः प्रयोक्तव्यं तन्मध्यमेन स्वरेण प्रयोक्तव्यं।",
+      "english_translation": "The fifth case is called 'Swishtakrit'. During the full moon and the royal portion, the offerings made before the Swishtakrit, in the Jyotishtoma and during the midday offering, should be performed with a medium tone.",
+      "hindi_translation": "पंचमी को 'स्विष्टकृत' कहा जाता है। पूर्णिमा और राजकीय भाग में, स्विष्टकृत से पूर्व किए गए समर्पण, ज्योतिष्टोम और मध्याह्न समर्पण में मध्यम स्वर से किए जाने चाहिए।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "ह—सोमोपहरणादि निस्सर्पणान्तो माध्यन्दिनकाले अनुष्ठेयः क्रियाकलापो माध्यन्दिनसवनमित्युच्यते।",
+      "english_translation": "The activity related to the midday offering, which is to be performed after the cessation of the serpent, is called the midday offering.",
+      "hindi_translation": "जो क्रियाकलाप मध्याह्न समर्पण से संबंधित है, उसे निस्सर्पण के बाद किया जाना चाहिए, इसे मध्याह्न समर्पण कहा जाता है।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "क—दर्शपूर्णमासयोस्स्विष्टकृत्प्रभृति शेषे तृतीयसवने च यदुच्चैः प्रयोक्तव्यं तत्क्रुष्टस्वरेण वाच्यं।",
+      "english_translation": "In the remaining offerings from the full moon to the Swishtakrit, whatever is to be performed loudly should be done with a low tone.",
+      "hindi_translation": "पूर्णिमा से स्विष्टकृत तक के शेष समर्पण में, जो भी ऊँचे स्वर में किया जाना है, उसे निम्न स्वर में किया जाना चाहिए।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "ह—आदित्यग्रहणप्रभृति निस्सर्पणान्तः सोमाभिषवसंबन्धः क्रियाकलापस्तृतीयसवनमित्युच्यते।",
+      "english_translation": "The activity related to the Soma offering, which is to be performed after the cessation of the serpent, starting from the solar eclipse, is called the third offering.",
+      "hindi_translation": "जो क्रियाकलाप सोम अभिषेक से संबंधित है, जिसे निस्सर्पण के बाद किया जाना चाहिए, सूर्य ग्रहण से शुरू होकर इसे तीसरे समर्पण कहा जाता है।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "क—यानि ऋग्वेदविहितान्यङ्गानि तानि होता कुर्यात्।",
+      "english_translation": "The components prescribed in the Rigveda should be performed by the priest.",
+      "hindi_translation": "ऋग्वेद में निर्धारित अंगों को पुरोहित द्वारा किया जाना चाहिए।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "क—यजुर्वेदविहितेष्वङ्गेष्वध्वर्युः कर्ता।",
+      "english_translation": "The components prescribed in the Yajurveda are to be performed by the Adhvaryu.",
+      "hindi_translation": "यजुर्वेद में निर्धारित अंगों को अध्वर्य द्वारा किया जाना चाहिए।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "क—सामवेदविहितेष्वङ्गेषूद्गाता कर्तृत्वेन नियम्यते।",
+      "english_translation": "The components prescribed in the Samaveda are to be performed by the Udgata.",
+      "hindi_translation": "सामवेद में निर्धारित अंगों को उद्गाता द्वारा किया जाना चाहिए।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "क—प्रस्तुतैरेव सर्वैः ऋग्वेदयजुर्वेदसामवेदैः विहितान्यङ्गानि ब्रह्मा करोति।",
+      "english_translation": "The components prescribed by all the Rigveda, Yajurveda, and Samaveda are performed by Brahma.",
+      "hindi_translation": "ऋग्वेद, यजुर्वेद और सामवेद द्वारा निर्धारित सभी अंगों को ब्रह्मा द्वारा किया जाता है।"
+    },
+    {
+      "number": "22",
+      "sanskrit": "क—ऋग्वेदयजुर्वेदसामवेदविहितानां पदार्थानां होत्रध्वर्यूद्गातृृणां कर्तृत्वे प्राप्ते इदमुच्यते।",
+      "english_translation": "When the duties of the Hotri, Adhvaryu, and Udgatri, as prescribed in the Rigveda, Yajurveda, and Samaveda, are accomplished, this is stated.",
+      "hindi_translation": "जब ऋग्वेद, यजुर्वेद और सामवेद में निर्धारित होत्र, अध्वर्य और उद्गात्री के कर्तव्यों का पालन किया जाता है, तो इसे कहा जाता है।"
+    },
+    {
+      "number": "23",
+      "sanskrit": "क—विद्वत्तया सर्वेषामेव प्राप्तमार्त्विज्यं ब्राह्मणानामेव नियम्यते।",
+      "english_translation": "By virtue of knowledge, the priesthood of all Brahmanas is regulated.",
+      "hindi_translation": "ज्ञान के आधार पर, सभी ब्राह्मणों की पुरोहिताई को नियंत्रित किया जाता है।"
+    },
+    {
+      "number": "24",
+      "sanskrit": "क—क्रतवः क्रियन्त इत्याहवनीयादिसाध्यान्यग्निकर्माण्युच्यन्ते।",
+      "english_translation": "The actions of the sacrifices are referred to as the Agni rituals, which are performed.",
+      "hindi_translation": "बलिदानों के कार्यों को अग्नि अनुष्ठान कहा जाता है, जो किए जाते हैं।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "क—देवतोद्देशेन द्रव्यत्यागो यागो होमः।",
+      "english_translation": "By the direction of the deity, the abandonment of substances is the sacrifice.",
+      "hindi_translation": "देवता के निर्देश से, पदार्थों का त्याग ही यज्ञ है।"
+    },
+    {
+      "number": "26",
+      "sanskrit": "क—प्रतीयादित्यनुषङ्गः। अनिर्दिष्ट(द्रव्य)कर्तृके होमे अध्वर्युं कर्तारं होतारं प्रतीयात्। यजुर्वेदेनाध्वर्युरित्युक्तेपि यागस्य त्यागात्मकत्वाद्यजमाने प्राप्तेऽध्वर्युर्नियम्यते॥",
+      "english_translation": "K—The connection is understood. In the case of an unspecified (substance) in the offering, the Adhvaryu is to be understood as the doer and the officiant. Even though it is said in the Yajurveda that the Adhvaryu is the officiant, due to the relinquishing nature of the sacrifice, when the sacrifice is being performed, the Adhvaryu is restricted.",
+      "hindi_translation": "क—संबंध को समझा जाता है। अनिर्दिष्ट (पदार्थ) के होम में अध्वर्यु को कर्ता और होतार के रूप में समझा जाना चाहिए। यजुर्वेद में कहा गया है कि अध्वर्यु ही होतार है, लेकिन यज्ञ के त्यागात्मक स्वभाव के कारण, जब यज्ञ किया जा रहा है, अध्वर्यु को सीमित किया जाता है।"
+    },
+    {
+      "number": "29",
+      "sanskrit": "क—अनिर्दिष्टाधारके होमे देवतामुद्दिश्य द्रव्यप्रदानं प्रक्षेप आहवनीये नियम्यते॥",
+      "english_translation": "K—In the case of an unspecified base in the offering, the offering of the substance is restricted with reference to the deity.",
+      "hindi_translation": "क—अनिर्दिष्ट आधार के होम में, पदार्थ का प्रदान देवता को संदर्भित करते हुए सीमित किया जाता है।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "क—आधानप्रभृति यावन्तं कालं जीवति यजमानः तावन्तं कालं जुह्वादीनि पात्राणि धार्याणि। यजमानजीवनकालस्यानियतकालत्वादतीते पौर्णमासीकालेऽनागते दर्शकाले यद्यन्तरा यजमानो म्रियेत पात्राणि च विनष्टानि तत्र 'आहिताग्निमग्निभिर्दहन्ति यज्ञपात्रैश्च' इति यजमानस्य दहनात्मकसंस्कारः पात्रैर्विना न सगुणस्स्यात्। अतस्तानि दहनार्थं धार्याणि। अथान्यान्युत्पाद्य पूर्वेषां त्याग इति चेत्। यजमानसादने जुहूं सादयति सव्य उपभृतमुरसि ध्रुवामित्यादितः द्वितीयानिर्देशेनैषामनेककर्मोपयुक्तौ प्रतिपत्त्यात्मकस्संस्कारः प्रतीयते। अत एव वरुणप्रघासपात्राण्यपि यावद्दहनं धार्याणि॥",
+      "english_translation": "K—As long as the yajamana lives, the vessels for the offerings should be maintained. Due to the uncertain duration of the yajamana's life, if he dies during the time of the full moon or the new moon, the vessels will be destroyed. Therefore, they should be maintained for the purpose of offering. If it is said that other vessels should be produced, then the offerings should be made with the vessels that are already there. Thus, the vessels for Varuna's offerings should also be maintained until the offering is made.",
+      "hindi_translation": "क—जब तक यजमान जीवित है, तब तक यज्ञ के लिए पात्रों को बनाए रखना चाहिए। यजमान के जीवन की अनिश्चितता के कारण, यदि वह पूर्णिमा या अमावस्या के समय मर जाता है, तो पात्र नष्ट हो जाएंगे। इसलिए, उन्हें होम के लिए बनाए रखना चाहिए। यदि यह कहा जाए कि अन्य पात्र उत्पन्न किए जाने चाहिए, तो पहले से मौजूद पात्रों के साथ ही होम किया जाना चाहिए। इस प्रकार, वरुण के होम के पात्रों को भी होम किए जाने तक बनाए रखा जाना चाहिए।"
+    },
+    {
+      "number": "31",
+      "sanskrit": "क—तेषां यज्ञपात्राणां प्रतितन्त्रं प्रतिकर्म प्रतिप्रयोगं दर्शपूर्णमासादीनां पुनः पुनः प्रयोगे संमार्गादिसंस्कारः कर्तव्यः। पात्राणां धारणं तत्संस्कारोक्त्यनन्तरम्॥",
+      "english_translation": "K—For those sacrificial vessels, the dependent rituals and applications must be performed repeatedly, especially during the full moon and similar occasions, and the purification rituals must be performed thereafter.",
+      "hindi_translation": "क—उन यज्ञ पात्रों के लिए, निर्भर कर्म और प्रयोगों को बार-बार किया जाना चाहिए, विशेषकर पूर्णिमा और समान अवसरों पर, और उसके बाद शुद्धिकरण के संस्कार किए जाने चाहिए।"
+    },
+    {
+      "number": "32",
+      "sanskrit": "क—केयं वेदप्रामाण्यप्रतिज्ञा मन्त्रब्राह्मणे यज्ञस्य प्रमाणमिति। हेतुश्च नोक्तः। स्थितेन वेदप्रामाण्येन धर्मसूत्रकाराणां व्यापारः। तत्राचार्येण यज्ञव्याख्यानं प्रतिज्ञातं च। यज्ञोभिव्यक्तः फलाय भवति। यानि चान्यानि साधनानि तैश्चाभिव्यज्यते। कुत एतद्गृह्यत इति प्राप्ते इदमुच्यते॥ मन्त्रब्राह्मणे यज्ञस्य प्रमाणम्॥",
+      "english_translation": "K—What is the assertion of the authority of the Vedas regarding the proof of the sacrifice in the Mantra-Brahmana? The reason is not stated. The activities of the authors of the Dharma Sutras are based on the established authority of the Vedas. There, the teacher has asserted the explanation of the sacrifice. The sacrifice becomes manifest for the purpose of results. Other means are also expressed through it. When this is understood, it is stated that the proof of the sacrifice is in the Mantra-Brahmana.",
+      "hindi_translation": "क—वेदों की प्रामाणिकता के संबंध में यज्ञ के प्रमाण का क्या तर्क है? कारण नहीं बताया गया है। धर्मसूत्रकारों की गतिविधियाँ वेदों की स्थापित प्रामाणिकता पर आधारित हैं। वहाँ आचार्य ने यज्ञ की व्याख्या का प्रतिज्ञा की है। यज्ञ फल के लिए प्रकट होता है। अन्य साधनों को भी इसके माध्यम से व्यक्त किया जाता है। जब इसे समझा जाता है, तो कहा जाता है कि यज्ञ का प्रमाण मन्त्र-ब्रह्मण में है।"
+    },
+    {
+      "number": "",
+      "sanskrit": "यज्ञस्य प्रमाणं।",
+      "english_translation": "The proof of the sacrifice.",
+      "hindi_translation": "यज्ञ का प्रमाण।"
+    },
+    {
+      "number": "",
+      "sanskrit": "साङ्गो यज्ञः प्रमीयते ज्ञायते येन परिच्छिद्यते तस्य तत्प्रमाणं।",
+      "english_translation": "The sacrifice is known by the auxiliary, which is the proof of that which is defined.",
+      "hindi_translation": "यज्ञ को सहायक द्वारा जाना जाता है, जो परिभाषित चीज का प्रमाण है।"
+    },
+    {
+      "number": "",
+      "sanskrit": "मन्त्रश्च ब्राह्मणं च मन्त्रब्रह्मणे।",
+      "english_translation": "The mantra and the Brahmana are both in the mantra Brahmana.",
+      "hindi_translation": "मंत्र और ब्राह्मण दोनों मंत्र ब्राह्मण में हैं।"
+    },
+    {
+      "number": "",
+      "sanskrit": "यज्ञ इति यज्ञसाध्यमपूर्वमभिधीयते।",
+      "english_translation": "The sacrifice is referred to as that which is to be accomplished through the sacrifice.",
+      "hindi_translation": "यज्ञ को उस चीज के रूप में संदर्भित किया जाता है जिसे यज्ञ के माध्यम से पूरा किया जाना है।"
+    },
+    {
+      "number": "",
+      "sanskrit": "ननु मन्त्रानुच्चार्य विहितकर्मप्रयोगं कुर्वन्ति।",
+      "english_translation": "Indeed, they perform the prescribed actions by reciting the mantras.",
+      "hindi_translation": "वास्तव में, वे मंत्रों का उच्चारण करके निर्धारित कार्य करते हैं।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "क—ननु मन्त्रानुच्चार्य विहितकर्मप्रयोगं कुर्वन्ति। [न] ततोर्थमवगच्छन्ति। अतोनर्थका मन्त्राः। अनर्थकत्वान्नमान्त्रवर्णिकी देवता सिध्यतीत्यत आह—मन्त्रब्राह्मणयोर्वेदनामधेयम्॥",
+      "english_translation": "Do they not perform the prescribed actions by reciting the mantras? They do not understand the meaning. Therefore, the mantras are meaningless. Due to their meaninglessness, the deity of the mantra does not become accomplished.",
+      "hindi_translation": "क्या वे मंत्रों का उच्चारण करके निर्धारित कर्म नहीं करते? वे अर्थ को नहीं समझते। इसलिए, मंत्र निरर्थक हैं। उनके निरर्थक होने के कारण, मंत्र की देवता सिद्ध नहीं होती।"
+    },
+    {
+      "number": "34",
+      "sanskrit": "क—तत्र मन्त्रब्राह्मणयोर्विवेकायाह—कर्मचोदना ब्राह्मणानि॥",
+      "english_translation": "Here, it is said for the distinction between mantra and Brahmana: the Brahmanas are the injunctions for actions.",
+      "hindi_translation": "यहाँ, मंत्र और ब्राह्मण के बीच भेद के लिए कहा गया है: ब्राह्मण क्रियाओं के लिए आज्ञाएँ हैं।"
+    },
+    {
+      "number": "35",
+      "sanskrit": "क—यदि कर्मोपदेशानि ब्राह्मणानि, कर्माणि न चोद्यन्ते [यैः] यथा 'वायुर्वै क्षेपिष्ठा' इति।",
+      "english_translation": "If the Brahmanas are instructions for actions, and do not enjoin actions, as in 'the wind is indeed the most powerful',",
+      "hindi_translation": "यदि ब्राह्मण क्रियाओं के लिए उपदेश हैं, और क्रियाओं का आदेश नहीं देते, जैसे 'वायु वास्तव में सबसे शक्तिशाली है',"
+    },
+    {
+      "number": "36",
+      "sanskrit": "ह —'तद्रजतँ हिरण्यमभवत्तस्माद्रजतँ हिरण्यमदक्षिण्यमश्रुजँ हि यो बर्हिषि ददाति पुरास्य संवत्सराद्गृहे रुदन्ति' इति निन्दा।",
+      "english_translation": "It is criticized as 'that silver became gold; therefore, that silver, gold, and the one who gives it on the altar weeps at home for a year.'",
+      "hindi_translation": "इसका निंदा की गई है जैसे 'वह चांदी सोना बन गई; इसलिए, वह चांदी, सोना, और जो इसे वेदी पर देता है, एक वर्ष तक घर में रोता है।'"
+    },
+    {
+      "number": "37",
+      "sanskrit": "क—अतस्सार्थवादेभ्यो विधायकेभ्योन्ये वाक्यशेषा अनुष्ठेयार्थप्रकाशकाः ते [ये] (मन्त्राः) 'उभावामिन्द्रानी' 'उरु प्रथस्व' इति ऋग्यजुषात्मका आम्नाताः त एव मन्त्राः॥",
+      "english_translation": "Therefore, from the meaningful statements, the remaining sentences that illuminate the purpose of performance are those mantras like 'May both Indras be favorable' and 'O vast one, shine forth'.",
+      "hindi_translation": "इसलिए, अर्थपूर्ण वाक्यों से, जो प्रदर्शन के उद्देश्य को उजागर करते हैं, वे मंत्र हैं जैसे 'दोनों इंद्र कृपालु हों' और 'हे विशाल, चमको'।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "उक्तलक्षणादन्ये मन्त्रा विज्ञेयाः इषेत्वेत्येवमादयः।",
+      "english_translation": "Other mantras are to be known as those which are defined by the mentioned characteristics.",
+      "hindi_translation": "अन्य मंत्रों को उन विशेषताओं द्वारा परिभाषित किया जाना चाहिए।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "प्रवरादीनां वाक्यैकदेशत्वेन अनुष्ठेयार्थप्रकाशकत्वेन च मन्त्रत्वं प्राप्तं पर्युदस्यति।",
+      "english_translation": "The mantras are obtained by the unity of the words of the Pravaras and others, and by their function of revealing the purpose of the performance.",
+      "hindi_translation": "प्रवर और अन्य के शब्दों की एकता और प्रदर्शन के उद्देश्य को प्रकट करने के कार्य द्वारा मंत्र प्राप्त होते हैं।"
+    },
+    {
+      "number": "39",
+      "sanskrit": "चशब्देन अमन्त्रत्वमनुकृष्यते।",
+      "english_translation": "The word 'cha' indicates the non-mantra status.",
+      "hindi_translation": "'च' शब्द अमंत्रत्व को इंगित करता है।"
+    },
+    {
+      "number": "40",
+      "sanskrit": "स्वाध्यायो ग्रहणार्थमध्ययनं प्रसिद्धम्।",
+      "english_translation": "The study for the purpose of learning is well-known.",
+      "hindi_translation": "सीखने के उद्देश्य से अध्ययन करना प्रसिद्ध है।"
+    },
+    {
+      "number": "41",
+      "sanskrit": "संस्कारस्यैकस्य कर्मणः प्रकाशनार्थमेक एव मन्त्रः भवेत्।",
+      "english_translation": "For the purpose of revealing a single action of a rite, there should be only one mantra.",
+      "hindi_translation": "एक संस्कार के एक क्रिया को प्रकट करने के लिए केवल एक मंत्र होना चाहिए।"
+    },
+    {
+      "number": "42",
+      "sanskrit": "अपिशब्देनैकमन्त्रत्वमनुकृप्यते।",
+      "english_translation": "The word 'api' indicates the singularity of the mantra.",
+      "hindi_translation": "'अपि' शब्द मंत्र की एकता को इंगित करता है।"
+    },
+    {
+      "number": "43",
+      "sanskrit": "कण्डूयनादीनां संख्यायुक्तादिपदेन [वदेक] मन्त्रत्वम्।",
+      "english_translation": "The mantra-hood of the sounds of itching is indicated by the term associated with numbers.",
+      "hindi_translation": "खुजली की ध्वनियों का मंत्रत्व संख्या से संबंधित शब्द द्वारा दर्शाया गया है।"
+    },
+    {
+      "number": "44",
+      "sanskrit": "प्रयाणे प्रयोजनोद्देशेन गमने यावद्भिर्दिनैः प्रयोजनस्य निवृत्तिः परिसमाप्तिः।",
+      "english_translation": "In the journey, the cessation of the purpose is completed with the days of the journey.",
+      "hindi_translation": "यात्रा में, उद्देश्य की समाप्ति यात्रा के दिनों के साथ पूरी होती है।"
+    },
+    {
+      "number": "45",
+      "sanskrit": "येषां कर्मणामिदंतया फलं दृश्यते तानि सन्निपातीनि स्तरणाच्छादनादीनि।",
+      "english_translation": "Those actions whose results are visible are called 'sannipātī' (converging) actions, such as covering and spreading.",
+      "hindi_translation": "जिन कार्यों के परिणाम स्पष्ट होते हैं, उन्हें 'सन्निपातीनि' (एकत्रित) कार्य कहा जाता है, जैसे ढकना और फैलाना।"
+    },
+    {
+      "number": "46",
+      "sanskrit": "एकस्मिन्नपि प्रयोगे भिन्नकालेष्ववहननादिषु हविष्कृदादयो मन्त्राः आवर्तन्ते।",
+      "english_translation": "In a single usage, the mantras related to offerings and sounds recur at different times.",
+      "hindi_translation": "एक ही उपयोग में, भिन्न समय पर बलिदान और ध्वनियों से संबंधित मंत्र पुनः आते हैं।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "याग आवर्तते। मनोताप्यध्रिगुवद्वाजपेय आवर्तते। इतरेषां कालभेदेपि तन्त्रत्वमेव।",
+      "english_translation": "The sacrifice is repeated. The mental offering and the offering of the Adhrigu and the Vajapeya are also repeated. For others, even with differences in time, it is only the nature of the ritual.",
+      "hindi_translation": "यज्ञ का पुनरावृत्ति होती है। मानसिक आहुति और अध्रिगु तथा वाजपेय की आहुति भी पुनरावृत्त होती है। अन्य के लिए, समय में भिन्नताओं के बावजूद, यह केवल अनुष्ठान की प्रकृति है।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "एकमन्त्राणीत्यस्यापवादः। वचनादेकं कर्मानेकमन्त्रं भवति।",
+      "english_translation": "The negation of 'one mantra' implies that from the statement, there is one action and one mantra.",
+      "hindi_translation": "एक 'मंत्र' के नकार का अर्थ है कि कथन से एक क्रिया और एक मंत्र होता है।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "मन्त्रप्रकाशितानुष्ठितस्य कर्मणो निश्श्रेयसकरत्वान्मन्त्रोच्चारणेन भवितव्यं।",
+      "english_translation": "The action of the ritual, which is established by the recitation of the mantra, should be such that it leads to the highest good.",
+      "hindi_translation": "जिस क्रिया का आधार मंत्र के उच्चारण से स्थापित होता है, वह सर्वोत्तम लाभ की ओर ले जाने वाली होनी चाहिए।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "आधारमन्त्राद्योस्संयोगस्सहभावः।",
+      "english_translation": "The connection with the foundational mantra and others is a mutual presence.",
+      "hindi_translation": "आधार मंत्र और अन्य के साथ संबंध एक आपसी उपस्थिति है।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "इह शास्त्रे मन्त्रादिनोपदिष्टेन कृत्स्नोयं मन्त्र उपदिष्टो वेदितव्यः।",
+      "english_translation": "In this scripture, the entire mantra is to be understood as prescribed by the mantra and others.",
+      "hindi_translation": "इस शास्त्र में, संपूर्ण मंत्र को मंत्र और अन्य द्वारा निर्धारित के रूप में समझा जाना चाहिए।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "उत्तरस्य मन्त्रस्यादिना निर्दिश्यमानेन पूर्वस्य मन्त्रस्यावसानमन्तं जानीयात्।",
+      "english_translation": "By the indication of the subsequent mantra, one should know the end of the previous mantra.",
+      "hindi_translation": "उत्तर मंत्र के संकेत द्वारा, पूर्व मंत्र के अंत को जानना चाहिए।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "अकर्मकरणाः क्रियमाणानुवादिनो मन्त्रा होत्रा उच्यन्ते।",
+      "english_translation": "The mantras that are performed without action are called hotra.",
+      "hindi_translation": "जो मंत्र बिना क्रिया के किए जाते हैं, उन्हें होत्र कहा जाता है।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "ऐन्द्राबार्हस्पत्ये यागे 'इदं वामास्ये हविः' इति याज्यानुवाक्यायुगळान्याम्नातानि विकल्प्यन्ते।",
+      "english_translation": "In the Aindra-Bharhishpatya sacrifice, the phrase 'This offering is for you, O Vama' is chosen as an alternative in the yajna-anuvaka.",
+      "hindi_translation": "ऐन्द्र-बार्हस्पत्य याग में 'यह हविः आपके लिए है, ओ वाम' वाक्य को याज्यानुवाक्य में विकल्प के रूप में चुना जाता है।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "याज्यानुवाक्यास्विव विकल्पः।",
+      "english_translation": "There is an alternative in the yajna-anuvaka.",
+      "hindi_translation": "याज्यानुवाक्य में एक विकल्प है।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "क्रये सोमक्रये, 'हिरण्येन क्रीणाति' इत्यादिना द्रव्याणां समुच्चयः।",
+      "english_translation": "In the purchase of soma, the collection of substances is indicated by the phrase 'He purchases with gold'.",
+      "hindi_translation": "सोम की खरीद में, 'वह सोने से खरीदता है' वाक्य द्वारा पदार्थों का संग्रह दर्शाया गया है।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "रूद्रप्रधानं कर्म रौद्रं। रक्षःप्रधानं कर्म राक्षसं।",
+      "english_translation": "The action dominated by Rudra is called Roudra. The action dominated by the Rakshasas is called Rakshasa.",
+      "hindi_translation": "जो क्रिया रुद्र द्वारा प्रधान होती है, उसे रौद्र कहा जाता है। जो क्रिया राक्षसों द्वारा प्रधान होती है, उसे राक्षस कहा जाता है।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "अग्नयः पात्राणि च यस्मिन्विह्रियन्ते स विहारः।",
+      "english_translation": "The vessels in which the offerings are made to Agni are called vihara.",
+      "hindi_translation": "जो पात्र अग्नि को अर्पित किए जाते हैं, उन्हें विहार कहा जाता है।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "अध्वर्य्वादिरग्निमासाद्य नापपर्यावर्तेत नानभिमुखं पर्यावर्तेत;",
+      "english_translation": "The adhvaryu should not turn back after approaching Agni, nor should he turn away from him.",
+      "hindi_translation": "अध्वर्य को अग्नि के पास पहुँचने के बाद पीछे नहीं मुड़ना चाहिए, न ही उसे उससे मुड़ना चाहिए।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "अध्वर्य्वादिरग्निमासाद्य नापपर्यावर्तेत नानभिमुखं पर्यावर्तेत; न तु पृष्ठतः कृत्वा सञ्चरेत्॥",
+      "english_translation": "Having approached the fire, the officiant should not turn away from it, nor should he turn his back to it; he should not move around behind it.",
+      "hindi_translation": "अग्नि के पास पहुँचकर, अध्वर्युवादि को उससे मुड़ना नहीं चाहिए, न ही उसे अपनी पीठ दिखानी चाहिए; उसे इसके पीछे घूमना नहीं चाहिए।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "अपपर्यावर्तेतेत्यनुवर्तते। महावेद्यामप्रणीतेग्नौ तत्स्थानानभिमुखो न सञ्चरेत्॥",
+      "english_translation": "It is stated that one should not turn away from the fire in the great Veda when it is not properly kindled.",
+      "hindi_translation": "यह कहा गया है कि जब महावेद्या में अग्नि ठीक से प्रज्वलित नहीं होती है, तो उसे मुड़ना नहीं चाहिए।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "यज्ञाङ्गानि ग्रहचमसादीनि अभ्यन्तराणि, बाह्याः कर्तारो यथा स्युस्तथा सञ्चरेत्। पत्नी यजमानश्च ऋत्विग्भ्योन्तरे स्याताम्॥",
+      "english_translation": "The components of the sacrifice, such as the ladle and the pot, are internal; the external officiants should move as they are. The wife and the patron should be among the priests.",
+      "hindi_translation": "यज्ञ के अंग, जैसे चम्मच और बर्तन, आंतरिक होते हैं; बाहरी कर्ता जैसे हैं, वैसे ही चलें। पत्नी और यजमान को ऋत्विजों के बीच होना चाहिए।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "मन्त्रवता मन्त्रेण प्रोक्षितेनाभिमृष्टेन गृहीतेन. वा स्रुवादिना नात्मानमभिपरिहरेत्।",
+      "english_translation": "One who is endowed with a mantra should not reject oneself by the mantra that has been sprinkled, or by the ladle.",
+      "hindi_translation": "जो व्यक्ति मंत्र से संपन्न है, उसे उस मंत्र को छोड़ना नहीं चाहिए जो छिड़का गया है, या चम्मच द्वारा।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "प्राक् पुरस्तात्, उदक् उत्तरतः, अपवर्गः परिसमाप्तिर्येषां कर्मणां तानि प्रागपवर्गाण्युदगपवर्गाणि करोति।",
+      "english_translation": "Before and after, the water is the end of the action; those actions are the preliminary and subsequent actions.",
+      "hindi_translation": "पहले और बाद में, जल क्रिया का अंत है; वे क्रियाएँ प्रारंभिक और पश्चात क्रियाएँ हैं।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "सव्यम्य बाहोरधस्तात् दक्षिणस्य बाहोरुपरिष्टात् 'यस्योपवीतं स प्राचीनावीती।",
+      "english_translation": "From the right hand, the southern side is the end of the action; the one who is invested with the sacred thread is the ancient one.",
+      "hindi_translation": "दाहिने हाथ से, दक्षिण की ओर क्रिया का अंत है; जो पवित्र धागा धारण करता है, वह प्राचीन है।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "शुल्वानि रज्जवः। येषां विवृत्तये गुणान्तरे गुणास्समस्यन्ते यथा 'द्विगुणा पशुरशना, त्रिगुणा यूपरशना' इति।",
+      "english_translation": "The cords are of the type that, for their expansion, the qualities are intermingled, as in 'double the animal's food, triple the sacrificial post's food.'",
+      "hindi_translation": "रस्सियाँ उस प्रकार की होती हैं कि उनके विस्तार के लिए गुण आपस में मिलते हैं, जैसे 'पशु का भोजन दो गुना, यूप का भोजन तीन गुना।'"
+    },
+    {
+      "number": "18",
+      "sanskrit": "यान्येकगुणशुल्बानि तानि प्रदक्षिणमेवावेष्टयेत् आवर्तयेत्॥",
+      "english_translation": "Those single-quality cords should be wrapped around and turned in a clockwise direction.",
+      "hindi_translation": "वे एकल गुण वाली रस्सियाँ लपेटी जानी चाहिए और घड़ी की दिशा में घुमाई जानी चाहिए।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "अमावास्यायामिति सप्तमीनिर्देशः कालवचनः स्वस्मिन् काले वर्तते।",
+      "english_translation": "On the new moon day, this is the seventh indication; it pertains to the time that exists in its own time.",
+      "hindi_translation": "अमावस्या के दिन, यह सातवाँ संकेत है; यह अपने समय में विद्यमान समय से संबंधित है।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "पौर्णमास्यामिति सप्तम्या कालनिर्देशः। यस्मिन्काले चन्द्रादित्ययोः परो विप्रकर्षस्तस्मिन् चन्द्रमाः पूर्यते। स कालः पौर्णमासी। पौर्णमास्येति तृतीयानिर्देशः। 'आग्नेयोष्टाकपाल ऐन्द्राग्न एकादशकपालः' इत्येवमादिभिर्निर्दिष्टानि पौर्णमासीनामकानि। अत्रापि तृतीयानिर्देशात्तया पौर्णमास्या करणभूतया साङ्गया पौर्णमास्यां काले यजेत॥",
+      "english_translation": "In the full moon, the seventh specifies the time. At that time, when the moon and the sun are in conjunction, the moon is full. That time is called the full moon. The third specifies the full moon. The offerings mentioned such as 'the Agni's eight skulls' and 'the Indra-Agni's eleven skulls' are designated for the full moon. Here too, according to the third specification, one should perform the offering during the full moon with the accompanying rites.",
+      "hindi_translation": "पूर्णमासी में, सप्तमी समय का निर्धारण करती है। उस समय, जब चंद्र और सूर्य एक साथ होते हैं, चंद्र पूर्ण होता है। उस समय को पूर्णमासी कहा जाता है। तीसरा पूर्णमासी का निर्धारण करता है। 'आग्नि के आठ खोपड़ी' और 'इंद्र-आग्नि के ग्यारह खोपड़ी' जैसे उल्लेखित बलिदान पूर्णमासी के लिए निर्धारित हैं। यहाँ भी, तीसरे निर्धारण के अनुसार, पूर्णमासी के समय सहायक अनुष्ठानों के साथ बलिदान करना चाहिए।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "कलाभिः पूर्यमाणो यस्मिन् क्षणे चन्द्रमास्स पूर्णमासः। पूर्णः क्षयाभिमुखः। तस्मिन् चन्द्रादित्ययोः परो विप्रकर्षो भवति। स क्षणः पर्वसन्धिः। पञ्चदश्याः प्रतिपदश्च पूर्णमासयोगात् [पौर्णमासी] तत्क्षणयोगात् पञ्चदशी प्रतिपच्च पौर्णमासी। तदा अहर्द्वयात्मकपौर्णमास्यां 'पौर्णमास्या यजेत' इति साङ्गा पौर्णमास्यनुष्ठेया विधीयते। तत्राहर्द्वये यस्मिन्नहनि चन्द्रमाः पूर्ण उत्सर्पेत् उदेति तां पौर्णमासीं यागानुष्ठानात्पुरस्तात्पूर्वमुपवसेत।",
+      "english_translation": "When the moon is filled with phases, at that moment, the lunar month is the full moon. The full moon is directed towards decline. At that time, when the moon and the sun are in conjunction, that moment is the festival junction. The fifteenth day and the full moon are connected by the full moon's conjunction. Then, in the dual nature of the full moon, it is prescribed to perform the offering during the full moon. There, on the day when the moon is full, it rises, and one should perform the offering before that.",
+      "hindi_translation": "जब चंद्रमा कलाओं से भरा होता है, उस क्षण में, चंद्र मास पूर्णमासी होता है। पूर्णमासी क्षय की ओर होती है। उस समय, जब चंद्र और सूर्य एक साथ होते हैं, वह क्षण पर्व संधि होती है। पंद्रहवां दिन और पूर्णमासी पूर्णमासी के संयोग से जुड़े होते हैं। तब, पूर्णमासी की द्वैतिकता में, पूर्णमासी के दौरान बलिदान करना निर्धारित है। वहाँ, जिस दिन चंद्रमा पूर्ण होता है, वह उगता है, और उस से पहले बलिदान करना चाहिए।"
+    },
+    {
+      "number": "22",
+      "sanskrit": "श्वशब्दोऽव्ययम्, आगामिदिनवाची, अधिकरणवृत्तिश्च। अन्वाधानानन्तरदिने चन्द्रमाः पूरिता चन्द्रमसः पूरणं भविता। श्वः काले पूर्वाह्ने चन्द्रमाः पूरिता चन्द्रादित्ययोः परो विप्रकर्षस्स पर्वसन्धिरिति। यागानुष्ठानात्पुरस्तात्पूर्वेद्युः पौर्णमासीमुपवसेत्। इयमनुमतिः।",
+      "english_translation": "The word 'tomorrow' is indeclinable, indicating the coming day and the nature of the context. On the day following the new moon, the moon is filled. Tomorrow, in the morning, when the moon and the sun are in conjunction, that is the festival junction. One should perform the offering before that morning.",
+      "hindi_translation": "शब्द 'कल' अव्यय है, जो आने वाले दिन और संदर्भ की प्रकृति को दर्शाता है। नए चंद्रमा के बाद के दिन, चंद्रमा भरा होता है। कल, सुबह, जब चंद्र और सूर्य एक साथ होते हैं, वह पर्व संधि होती है। उस सुबह से पहले बलिदान करना चाहिए।"
+    },
+    {
+      "number": "23",
+      "sanskrit": "अस्य सूत्रस्याचार्यग्रन्थः [स्यचायमर्थः]। तृतीयां पौर्णमासीं खर्विकां वाजसनेयिनः पठन्ति। द्वादशधा रात्रिं कृत्वा, द्वादशभागावशिष्टे यदा विप्रकर्षस्तां खर्विकेत्याहुः। अल्पकालावशिष्टायां रात्र्यां यदा पर्वकालः सा खर्विकेत्युच्यते।",
+      "english_translation": "The teacher's text of this sutra states that in the third full moon, the Kharvika is recited by the Vajasaneyins. After making twelve nights, when the remaining part is twelve, that is called Kharvika. When there is a short time left in the night, that is called Kharvika.",
+      "hindi_translation": "इस सूत्र का आचार्य ग्रंथ कहता है कि तीसरी पूर्णमासी में, खर्विका का पाठ वाजसनेयिन करते हैं। बारह रातें बनाने के बाद, जब शेष भाग बारह होता है, उसे खर्विका कहा जाता है। जब रात में थोड़ा समय बचा होता है, उसे खर्विका कहा जाता है।"
+    },
+    {
+      "number": "24",
+      "sanskrit": "वशिष्टे यदा सूर्याचन्द्रमसोः परो विप्रकर्षस्तां खर्विकामाहुः। यद्वा षोडशेहनि यदा पुरस्तान्मध्यंदिनाद्विप्रकर्षम्सा खर्विका। तस्यामुपोप्य श्वोभूते यागः। वाजसनेयिग्रहणं मुख्यकल्पानुकल्प विवेकार्थम् ॥",
+      "english_translation": "When the sun and moon are in close proximity, it is called Khavika. Or, when it is the sixteenth day, and when it is in the afternoon, it is Khavika. The sacrifice is to be performed on the next day. The Vajasaneyis are to be taken for the main purpose of understanding the rules.",
+      "hindi_translation": "जब सूर्य और चंद्रमा निकट होते हैं, इसे खर्विका कहा जाता है। या, जब यह सोलहवें दिन होता है, और जब यह अपराह्न में होता है, यह खर्विका है। अग्नि की पूजा अगले दिन की जानी चाहिए। मुख्य उद्देश्य के लिए वाजसनेयियों को लिया जाना चाहिए।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "क—श्वश्चन्द्रमसं न द्रष्टारो नेक्षितारः। चन्द्रादर्शनकालः प्रतिपत्पञ्चदश्योस्सन्धिः। स कालः श्वः पूर्वाह्णे भवितेति वा पुरस्ताद्यागानुष्ठानात्पूर्वं अमावास्यामुपवसेत्। सिनीवाली चैषा॥",
+      "english_translation": "The moon is not to be seen by those who observe the fast. The time for seeing the moon is the evening of the fifteenth day. This time is to be observed on the previous day in the morning or before the performance of the sacrifice. This is the rule.",
+      "hindi_translation": "चंद्रमा को देखने वाले लोग उपवास नहीं करते हैं। चंद्रमा देखने का समय पंद्रहवें दिन की शाम है। यह समय अगले दिन सुबह या बलिदान के प्रदर्शन से पहले देखा जाना चाहिए। यह नियम है।"
+    },
+    {
+      "number": "26",
+      "sanskrit": "क—विधीयन्त इति विधानान्यङ्गानि। एकस्याधिकारिणः स्वर्गकामादेः पुरुषस्य स्वर्गार्थं यजमानस्य यो व्यापारः स प्रकर्षेण पुरुषार्थकारित्वात् प्रकरणं। तदेकफलत्वादेकं। तत्रैकस्सिन् प्रकरणे 'दर्शपूर्णमासाभ्यां स्वर्गकामो यजेत' इति चोद्यमानानि विधीयमानानि समानाङ्गानि भवेयुः। अतो दर्शपूर्णमासयोः आग्नेयादीनां सर्वेषामुपदेशानां न परस्परं प्रकृतिविकारभावः॥",
+      "english_translation": "The rules are to be established as components. The actions of a person who desires heaven are to be performed for the sake of the yajamana. This is a single action due to its singular result. In one action, it is stated that 'one who desires heaven should perform the sacrifice on the full moon and new moon days.' Therefore, there is no inherent transformation among the teachings of the Agni and others.",
+      "hindi_translation": "नियमों को घटकों के रूप में स्थापित किया जाना चाहिए। जो व्यक्ति स्वर्ग की इच्छा करता है, उसके कार्य यजमान के लिए किए जाने चाहिए। यह एकल परिणाम के कारण एकल कार्य है। एक कार्य में कहा गया है कि 'जो स्वर्ग की इच्छा करता है, उसे पूर्णिमा और अमावस्या के दिनों में बलिदान करना चाहिए।' इसलिए, अग्नि और अन्य शिक्षाओं के बीच कोई अंतर्निहित परिवर्तन नहीं है।"
+    },
+    {
+      "number": "27",
+      "sanskrit": "क—विधीयन्त इति विधयोङ्गानि। तानि प्रकृतेन प्रधानेन बध्यन्ते अपरुध्यन्ते। पुरुषार्थनिर्वर्तकत्वेन प्रमाणान्तरास्पृष्टापूर्वसाधनं करणम्। करणं विधीयमानं करणमित्युपकारकमपेक्षते। अङ्गान्यपि निरधिकारवाक्यविहितत्वेन प्रयोजनापेक्षाणि सन्ति, श्रुत्यादिभिः फलवत्प्रधानतादर्थ्यं प्रतिपाद्यमानानि, तदपेक्षितोपकारजनकलेन प्रधानेन प्रकृतेनावरुध्यन्ते॥",
+      "english_translation": "The rules are to be established as components. They are bound by the primary principle. The means of achieving the goals are to be established as necessary. The components are also dependent on the rules, which are established by the scriptures and others.",
+      "hindi_translation": "नियमों को घटकों के रूप में स्थापित किया जाना चाहिए। वे प्राथमिक सिद्धांत द्वारा बंधे होते हैं। लक्ष्यों को प्राप्त करने के साधन आवश्यक रूप से स्थापित किए जाने चाहिए। घटक भी नियमों पर निर्भर करते हैं, जो शास्त्रों और अन्य द्वारा स्थापित होते हैं।"
+    },
+    {
+      "number": "28",
+      "sanskrit": "क—श्रुत्यादिभिर्येषामविशेषनिर्देशः विशेषसम्बन्धो नास्ति यथा प्रयाजादयस्तानि साधारणानि॥",
+      "english_translation": "Those that are specified by the scriptures and others do not have a special relationship, just as the offerings are general.",
+      "hindi_translation": "जो शास्त्रों और अन्य द्वारा निर्दिष्ट हैं, उनका विशेष संबंध नहीं है, जैसे कि बलिदान सामान्य होते हैं।"
+    },
+    {
+      "number": "29",
+      "sanskrit": "क—येषां श्रुत्यादिभिर्विशेषनिर्देशस्तानि यथोपदेशं व्यवतिष्ठन्ते व्यवस्थितानि भवन्ति। यथा 'अरुणया' इति क्रये, लिङ्गेन 'स्योनन्ते' इति सदनकरणे, वाक्येन 'अवीवृधेताम्' इत्यग्नीषोमीये, प्रकरणेन प्राजापत्ये, स्थानेन 'दब्धिरसि इत्युपांशुयाजे, समाख्ययाऽध्वर्युः॥",
+      "english_translation": "Those that are specified by the scriptures and others are established according to the teachings. For example, 'by the Aruna' in the offering, 'by the Syonante' in the establishment, 'let it not be diminished' in the Agniṣomīya, in the context of the Prajāpati, and 'in the place of the Upāṃśu sacrifice.'",
+      "hindi_translation": "जो शास्त्रों और अन्य द्वारा निर्दिष्ट हैं, वे शिक्षाओं के अनुसार स्थापित होते हैं। उदाहरण के लिए, 'अरुणया' में बलिदान, 'स्योनन्ते' में स्थापना, 'इसे कम न होने दें' अग्निषोमीये में, प्रजापति के संदर्भ में, और 'उपांशु बलिदान के स्थान पर।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "क—यद्यप्याग्नेयोष्टाकपाल इति द्रव्यपरो निर्देशः; तथाप्याग्नेय इति देवतातद्धितत्वादष्टाकपाल आग्नेयः कर्तव्यः। तस्याग्नेयत्वं यागमन्तरेण न सिध्यतीति 'आग्नेयोष्टाकपालः' इति याग एवोपदिष्ट। उपांशुयाज इति यागनाम्ना याग एवोपदिष्टः। 'अग्नीषोमीय एकादशकपालः' इत्यादिभिरपि याग एवोपदिष्टः। एतानि त्रीणि यजनानि पौर्णमास्यां काले प्रयोगे प्रधानानि॥",
+      "english_translation": "Although the instruction regarding the Agni's eight vessels is related to the material, the Agni's vessels are to be used for the deity. The Agni's nature is not established without the sacrifice, hence 'the Agni's eight vessels' is the prescribed sacrifice. The Upāṃśu sacrifice is also prescribed by name. 'The Agniṣomīya with eleven vessels' is also prescribed. These three sacrifices are primary in the performance during the full moon.",
+      "hindi_translation": "हालांकि अग्नि के आठ बर्तनों के बारे में निर्देश सामग्री से संबंधित है, अग्नि के बर्तन देवता के लिए उपयोग किए जाने चाहिए। अग्नि की प्रकृति बलिदान के बिना स्थापित नहीं होती, इसलिए 'अग्नि के आठ बर्तन' निर्धारित बलिदान है। उपांशु बलिदान भी नाम से निर्धारित है। 'अग्निषोमीय एकादशकपाल' भी निर्धारित है। ये तीन बलिदान पूर्णिमा के दौरान प्रदर्शन में प्राथमिक हैं।"
+    },
+    {
+      "number": "31",
+      "sanskrit": "तेषां प्रधानानामङ्गान्युपकारकाणि शेषभूतानि इतरे होमाः आरादुपकारकाः।",
+      "english_translation": "Among the principal components, the auxiliary ones are the remaining offerings; the others are auxiliary offerings.",
+      "hindi_translation": "प्रधान घटकों में, सहायक घटक शेष हैं; अन्य सहायक अर्पण हैं।"
+    },
+    {
+      "number": "32",
+      "sanskrit": "आग्नेयैन्द्राग्नावसोमयाजिनोऽमावास्यायां काले अमावास्याशब्दवाच्यौ प्रधानभूतौ।",
+      "english_translation": "For those who perform the Agneya, Indragnya, and Somayaji rites, during the Amavasya, the terms 'Amavasya' are the principal ones.",
+      "hindi_translation": "जो आग्नेय, इन्द्राग्न और सोमयाजी अनुष्ठान करते हैं, अमावस्या के दौरान 'अमावस्या' शब्द प्रधान होते हैं।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "सान्नाय्यशब्देन यागसाधनभूते दधिपयसी उच्येते।",
+      "english_translation": "By the term 'Sannayya', the offerings of curds and milk are indicated.",
+      "hindi_translation": "'सान्नाय्य' शब्द से दही और दूध के अर्पण का संकेत मिलता है।"
+    },
+    {
+      "number": "34",
+      "sanskrit": "असोमयाजी ब्राह्मणः पुरोडाशद्रव्यकमग्नीषोमदैवत्यं यागं न कुर्यात्।",
+      "english_translation": "A Brahmin who is not a Somayaji should not perform the Agniṣoma and Daivata rites with the offering of the Purodasa.",
+      "hindi_translation": "जो ब्राह्मण सोमयाजी नहीं है, उसे अग्नीषोम और दैवत्य अनुष्ठान पुरोडाश के अर्पण के साथ नहीं करना चाहिए।"
+    },
+    {
+      "number": "35",
+      "sanskrit": "ब्राह्मणस्येत्यनुवर्तते इत्याशङ्क्याह वर्णाविशेषेणेति।",
+      "english_translation": "It is said that this applies to the Brahmin, and there is a concern regarding the specific castes.",
+      "hindi_translation": "यह ब्राह्मण पर लागू होता है, और विशेष जातियों के बारे में चिंता है।"
+    },
+    {
+      "number": "36",
+      "sanskrit": "स्वस्य कालः स्वकालः स्वकालस्य विधौ, पितृयज्ञो नामामावास्यायामनारभ्याधीतः तस्य स्वकालो विधीयते।",
+      "english_translation": "His own time, in his own time, in the performance of the ritual, the Pitṛyajña is not performed during the Amavasya, and its own time is designated.",
+      "hindi_translation": "उसका अपना समय, अपने समय में, अनुष्ठान के प्रदर्शन में, पितृयज्ञ अमावस्या के दौरान नहीं किया जाता है, और इसका अपना समय निर्धारित किया जाता है।"
+    },
+    {
+      "number": "37",
+      "sanskrit": "दर्शपूर्णमासाभ्यां सह तुल्यवत्प्रसङ्ख्यानात् गणनात् तद्वदेवानङ्गम्।",
+      "english_translation": "From the conjunction of the Darśa and Pūrṇamāsa, by equal counting, it is similarly non-auxiliary.",
+      "hindi_translation": "दर्श और पूर्णमासी के संयोग से, समान गणना द्वारा, यह भी सहायक नहीं है।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "प्रतिषिद्धे अमावास्यायागे पिण्डपितृयज्ञो दृश्यते 'पौर्णमासीमेव यजेत नामावस्यां; पिण्डपितृयज्ञमेवामावास्यां प्रीणाति' इत्यमावास्यायां पिण्डपितृयज्ञमनुवदन् तदनङ्गं दर्शयति।",
+      "english_translation": "In the prohibited Amavasya rites, the Pindapitṛyajña is seen: 'One should perform only during the Pūrṇamāsa; the Pindapitṛyajña is only for the Amavasya.' Thus, it shows that the Pindapitṛyajña is non-auxiliary.",
+      "hindi_translation": "प्रतिषिद्ध अमावस्या अनुष्ठानों में, पिण्डपितृयज्ञ देखा जाता है: 'केवल पूर्णमासी में यज्ञ करना चाहिए; पिण्डपितृयज्ञ केवल अमावस्या के लिए है।' इस प्रकार, यह दिखाता है कि पिण्डपितृयज्ञ सहायक नहीं है।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "आहिताग्नेरपीति॥",
+      "english_translation": "Even for the one who has kindled the fire.",
+      "hindi_translation": "जिसने अग्नि प्रज्वलित की है, उसके लिए भी।"
+    },
+    {
+      "number": "38",
+      "sanskrit": "प्रतिषिद्धे अमावास्यायागे पिण्डपितृयज्ञो दृश्यते 'पौर्णमासीमेव यजेत नामावस्यां; पिण्डपितृयज्ञमेवामावास्यां प्रीणाति' इत्यमावास्यायां पिण्डपितृयज्ञमनुवदन् तदनङ्गं दर्शयति॥",
+      "english_translation": "When the new moon day is prohibited, the Pinda-Pitṛyajña is seen to be performed on the full moon day; it is said that one should perform the Pinda-Pitṛyajña on the new moon day, which is pleasing to the ancestors.",
+      "hindi_translation": "जब अमावस्या निषिद्ध होती है, तब पूर्णिमा के दिन पिण्ड-पितृयज्ञ का आयोजन किया जाता है; कहा जाता है कि अमावस्या के दिन पिण्ड-पितृयज्ञ करना चाहिए, जो पूर्वजों को प्रसन्न करता है।"
+    },
+    {
+      "number": "39",
+      "sanskrit": "अधिकारिपदसंयुक्तवाक्यनिर्दिष्टं कर्म प्रधानम्। तत् यत्र विहितं तत्राङ्गैस्सह विधीयते; यथा—'उद्भिदा यजेत पशुकामः' 'सौर्यं चरुं निर्वपेद्ब्रह्मवर्चसकामः' इति॥",
+      "english_translation": "The action specified by a sentence combined with the term of authority is the primary one. Where it is prescribed, it is performed along with its components; for example, 'One who desires cattle should perform the Udbhida sacrifice' and 'One who desires Brahmavarchas should offer the Saurya oblation.'",
+      "hindi_translation": "जिस वाक्य में अधिकार का पद जुड़ा होता है, वह क्रिया प्रधान होती है। जहाँ यह निर्धारित है, वहाँ इसे उसके अंगों के साथ किया जाता है; जैसे—'जो पशु चाहता है, उसे उद्भिदा यज्ञ करना चाहिए' और 'जो ब्रह्मवर्चस चाहता है, उसे सौर्य का हवन करना चाहिए।'"
+    },
+    {
+      "number": "1-2",
+      "sanskrit": "सहाङ्गं प्रधानमित्यनुवर्तते। यत्प्रधानं यत्र देशादिषु स्वशब्देन वाचकेन निर्दिश्यते उपदिश्यते, तत्र तत्सहाङ्गं विहितं प्रत्येतव्यम्।",
+      "english_translation": "The primary action is said to be accompanied by its components. Wherever the primary action is indicated by a term in relation to place, time, etc., it should be performed along with its components.",
+      "hindi_translation": "प्रधान क्रिया को उसके अंगों के साथ कहा जाता है। जहाँ प्रधान क्रिया को स्थान, समय आदि के संदर्भ में किसी शब्द से निर्दिष्ट किया जाता है, वहाँ इसे उसके अंगों के साथ किया जाना चाहिए।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "अङ्गभूतत्वात्तयोर्न भवति सद्यस्कालता।",
+      "english_translation": "Due to being part of the body, they do not have immediate temporal quality.",
+      "hindi_translation": "शरीर का हिस्सा होने के कारण, उनमें तात्कालिक गुण नहीं होते।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "अपूर्वा दर्वीहोमा न कुतश्चिद्धर्मान् गृह्णीयुः।",
+      "english_translation": "The unique Darvi homa does not accept any dharmas from elsewhere.",
+      "hindi_translation": "विशिष्ट दर्वी होम किसी अन्य धर्म को नहीं स्वीकार करता।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "जुहोतिशब्दश्चोदनो विधायको येषां ते होमा दर्वीहोमसंज्ञकाः।",
+      "english_translation": "The term 'Juhoti' indicates the directive for those homas which are called Darvi homas.",
+      "hindi_translation": "'जुहोति' शब्द उन होमों के लिए निर्देश देता है जिन्हें दर्वी होम कहा जाता है।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "प्रदानमित्यनुवर्तते।",
+      "english_translation": "The act of offering is reiterated.",
+      "hindi_translation": "अर्पण का कार्य पुनः कहा गया है।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "सकृद्गृहीत्वा सकृदेव होतव्य इत्यर्थः।",
+      "english_translation": "Having taken once, it should be offered once.",
+      "hindi_translation": "एक बार लिया गया, उसे एक बार ही अर्पित किया जाना चाहिए।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "यथा 'उपाकृत्य पञ्च जुहोति' इति आहुतिमाहुतिं प्रत्याहुति परिगणय्य स्रुवेण तावन्त्यवदानानि गृह्णाति।",
+      "english_translation": "As stated, 'Having prepared, he offers five', he counts the offerings and receives the total with the ladle.",
+      "hindi_translation": "जैसा कहा गया है, 'तैयार करके, वह पाँच अर्पित करता है', वह अर्पणों की गिनती करता है और चम्मच से कुल प्राप्त करता है।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "समवदानं सहावदानं पूर्वोक्तं न वा कुर्यात्कुर्यादेव वा।",
+      "english_translation": "One should not perform simultaneous offerings as previously stated.",
+      "hindi_translation": "एक साथ अर्पण नहीं करना चाहिए जैसा पहले कहा गया है।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "समिधोऽभावस्समिदभावः।",
+      "english_translation": "The absence of fuel is the presence of fuel.",
+      "hindi_translation": "ईंधन की अनुपस्थिति ईंधन की उपस्थिति है।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "अग्निहोत्रस्यापि समिधः प्रतिषेधे प्राप्ते।",
+      "english_translation": "Even in the case of Agnihotra, the fuel is obtained upon prohibition.",
+      "hindi_translation": "अग्निहोत्र के मामले में भी, ईंधन निषेध पर प्राप्त होता है।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "अपरेणाग्निमग्नेरपरत्रासीनः दक्षिणं जान्वाच्य भूमौ निपात्य न सव्यं नोभयम्।",
+      "english_translation": "By another, the fire is not to be placed on the right side, nor on the left, nor in both.",
+      "hindi_translation": "दूसरे द्वारा, अग्नि को दाहिनी ओर नहीं रखा जाना चाहिए, न ही बाईं ओर, न ही दोनों में।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "करम्भपात्राणि प्रत्यङ्मुखस्तिष्ठन् जुहोति।",
+      "english_translation": "The offering is made while standing with the vessel facing the direction.",
+      "hindi_translation": "दिशा की ओर मुंह करके पात्र के साथ खड़े होकर अर्पण किया जाता है।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "करम्भपात्राणि प्रत्यङ्मुखस्तिष्ठन् जुहोति॥",
+      "english_translation": "The offering vessels are placed facing the east and the oblation is performed.",
+      "hindi_translation": "अर्पण पात्र पूर्व की ओर रखे जाते हैं और आहुति दी जाती है।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "अपरेणाहवनीयं दक्षिणाभिमुखो वेदिमतिक्रम्य प्रसव्यमुदगावृत्त उदङ्मुखो यतो मन्येतानभिक्रम्य होष्यामीति तत्रतिष्ठन् सर्ववषट्काराहुतीर्जुहोति॥",
+      "english_translation": "In another case, the ahavaniya is placed facing south, crossing the altar, and the oblation is performed with all the Vashat calls.",
+      "hindi_translation": "एक अन्य मामले में, आहवनीय दक्षिण की ओर रखा जाता है, वेदी को पार करते हुए, और सभी वषट् आहुतियों के साथ आहुति दी जाती है।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "यथावचनमेव जुहोति। यथा सौम्ये चरौ पितृयज्ञे च हवींषि॥",
+      "english_translation": "He performs the oblation exactly as stated, as in the case of the offerings in the Pitr Yajna.",
+      "hindi_translation": "वह आहुति को ठीक उसी तरह करता है जैसा कहा गया है, जैसे पितृ यज्ञ में हव्य हैं।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "आश्रुतं 'आश्रावय' इति। प्रत्याश्रतं 'अस्तु श्रौषट्' इति। याज्यानुवाक्ये, याज्याया 'अल्पाच्तरम्'। इति पूर्वनिपातत्वम्।",
+      "english_translation": "The heard is 'Asravaya'. The repeated is 'Let it be Shraushat'. In the Yajna Anuvakya, the Yajna is 'less than the minimum'. This is the nature of the previous injunction.",
+      "hindi_translation": "सुना हुआ 'आश्रावय' है। पुनरुक्त 'अस्तु श्रौषट्' है। यज्ञ अनुवाक्य में, यज्ञ 'न्यूनतम से कम' है। यह पूर्व निर्देश का स्वभाव है।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "आहुतिषु कार्यासु वषट्कृते वषट्कारे कृते 'वौषट्' इति शब्द उक्ते यागे द्रव्यस्य स्रुगादिभ्यः प्रच्यावनं; वषट्कारेण वा सह॥",
+      "english_translation": "In the case of offerings, when the Vashat is uttered, it indicates the pouring of the substance from the ladle and so on; or it can be done together with the Vashat.",
+      "hindi_translation": "आहुति के मामलों में, जब वषट् कहा जाता है, तो यह पदार्थ को कलश आदि से डालने का संकेत करता है; या इसे वषट् के साथ भी किया जा सकता है।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "सन्निपातयेदित्यनुवर्तते। वायव्यचमसादिषु सोमादौ गृह्यमाणे 'उपयामगृहीतोसि' इत्यनेन सह अस्योच्चारणकाले वायव्यादिषु सोमादिषु ग्रहणम्।",
+      "english_translation": "It is stated that one should perform the Sannipata. When the Soma is taken in the Vayavya ladle, it is said, 'You have taken it with the Upayama'.",
+      "hindi_translation": "यह कहा गया है कि सन्निपात करना चाहिए। जब सोम वायव्य कलश में लिया जाता है, तो कहा जाता है, 'आपने इसे उपयाम के साथ लिया है'।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "इष्टकोपधानमिष्टकासादनम्। तच्चास्य मन्त्रस्यान्त्यपादेन प्रकाश्यते।",
+      "english_translation": "The offering is to be made with the Ishtakopa. This is revealed by the last part of the mantra.",
+      "hindi_translation": "अर्पण इष्टकोप के साथ किया जाना चाहिए। यह मंत्र के अंतिम भाग द्वारा प्रकट होता है।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "आधाने 'उभयानि सह निरुप्याणि' इति पवमानहविषामाग्नेयेन समानतन्त्रत्वे सति पुरोडाशगणः।",
+      "english_translation": "In the foundation, it is stated, 'Both should be determined together'. In the case of the Pavamana offerings, there is equality.",
+      "hindi_translation": "आधार में, कहा गया है, 'दोनों को एक साथ निर्धारित किया जाना चाहिए'। पवमान अर्पणों के मामले में, समानता है।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "अपच्छिन्द्यादित्यनुवर्तते। यदोत्तमौ द्वौ भागौ परिशिष्टौ, तदा तयोरन्योन्यव्यावृत्तिमात्रापेक्षणाद्द्विवचनेन व्यावर्तेथामिति विभागः कर्तव्यः॥",
+      "english_translation": "It is stated that one should cut off. When two parts remain, then the division should be made by considering their mutual separation.",
+      "hindi_translation": "यह कहा गया है कि एक को काट देना चाहिए। जब दो भाग शेष रहते हैं, तो उनके आपसी पृथक्करण पर विचार करके विभाग किया जाना चाहिए।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "चंरवश्च पुरोडाशाश्च चरुपुरोडाशाः। तेषां गणस्समवायः। तत्र चरुपुरोडाशीयान् चर्वर्थान्पुरोडाशार्थांश्च प्रागधिवपनात् अधिवपनार्थं कृष्णाजिनादानात्प्राक् पृथक्करोति।",
+      "english_translation": "The charu and the purodasa are of the same kind. Their group is a combination. There, the charu purodasa is separated from the purodasa meaning by the prior offering and the offering of the black skin.",
+      "hindi_translation": "चरु और पुरोडाश एक ही प्रकार के होते हैं। उनका समूह एक संयोजन है। वहाँ, चरु पुरोडाश को पहले की भेंट और काले चमड़े की भेंट से पुरोडाश के अर्थ से अलग किया जाता है।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "यथोक्ते विभागे कृते चर्वर्थः कश्चिद्भागः पुरोडाशार्थः कश्चिद्भागः। तत्र चर्वर्थो भागश्चरुदेवतानां यथास्वं पुरोडाशार्थो भागश्च पुरोडाशदेवतानां तथोपलक्षयेत्।",
+      "english_translation": "In the stated division, there is a certain portion for the charu meaning and a certain portion for the purodasa meaning. There, the charu meaning is designated for the charu deities, and the purodasa meaning is designated for the purodasa deities.",
+      "hindi_translation": "उल्लेखित विभाग में, चरु अर्थ के लिए एक निश्चित भाग और पुरोडाश अर्थ के लिए एक निश्चित भाग है। वहाँ, चरु अर्थ को चरु देवताओं के लिए और पुरोडाश अर्थ को पुरोडाश देवताओं के लिए निर्धारित किया गया है।"
+    },
+    {
+      "number": "22",
+      "sanskrit": "प्रकृतौ विभक्तयोर्हविषोः किं कस्या इति सन्देहे 'इदमग्नेः' इति मन्त्रेणेदंशब्देन हविर्निर्दिश्यते, अग्नेरिति षष्ठ्या देवता च।",
+      "english_translation": "In the case of the separated offerings, there is a doubt as to whose offering it is. The word 'this is for Agni' in the mantra indicates the offering, and the deity is Agni.",
+      "hindi_translation": "अलग-अलग भेंटों के मामले में, यह संदेह है कि यह किसकी भेंट है। मंत्र में 'यह अग्नि के लिए है' शब्द भेंट को इंगित करता है, और देवता अग्नि है।"
+    },
+    {
+      "number": "23",
+      "sanskrit": "चरुपुरोडाश' इत्यादिसूत्रत्रयमनुवर्तते। वैश्वदेवहविर्गणे चरुपुरोडाशा व्यतिषक्ताः अन्योन्यं व्यवहिताः।",
+      "english_translation": "The three sutras beginning with 'charu purodasa' are followed. In the group of offerings to the Vaishvadeva, the charu purodasa is separated and distinguished from each other.",
+      "hindi_translation": " 'चरुपुरोडाश' से शुरू होने वाले तीन सूत्रों का पालन किया जाता है। वैश्वदेव के भेंटों के समूह में, चरु पुरोडाश को एक-दूसरे से अलग और भिन्न किया जाता है।"
+    },
+    {
+      "number": "24",
+      "sanskrit": "इदानीं चरुधर्मा उच्यन्ते। कपालानामुपधानकाले 'धृष्टिरसि' इत्यादि प्रतिपाद्य प्रथमेन कपालमन्त्रेण चर्वर्थां स्थालीमुपदधाति।",
+      "english_translation": "Now, the charu dharma is stated. At the time of the offering of the skulls, the first mantra 'Dhrishtirasi' is recited, and the charu meaning is placed in the vessel.",
+      "hindi_translation": "अब, चरु धर्म का उल्लेख किया गया है। खोपड़ी की भेंट के समय, पहले मंत्र 'धृष्टिरसि' का पाठ किया जाता है, और चरु अर्थ को पात्र में रखा जाता है।"
+    },
+    {
+      "number": "25",
+      "sanskrit": "पिष्टानामुत्पवनकाले चरुमुपधाय तण्डुलानुत्पुनाति।",
+      "english_translation": "At the time of the offering of the ground substances, the charu is placed, and the rice is offered again.",
+      "hindi_translation": "पिसे हुए पदार्थों की भेंट के समय, चरु को रखा जाता है, और चावल को फिर से भेंट किया जाता है।"
+    },
+    {
+      "number": "26",
+      "sanskrit": "स्रुवेण प्रणीताभ्य आदाय अन्या वा यजुषोत्पूयाभिमन्त्र्य 'समाप' इति चरुस्थाल्यामानीय लौकिकमुदकं चरुपाकपर्याप्तमानीय तत्रोदकवत्यां चरूस्थाल्यां चर्वनेकत्वे विभागं कृत्वा 'घर्मोसि' इति तण्डुलानावपति।",
+      "english_translation": "Taking the offerings prepared with a ladle, or another, and after invoking the Yajus, placing it in the dish, one should bring the worldly water sufficient for the cooking of the offering, and after dividing it into portions in the dish containing water, one should say 'You are warm'.",
+      "hindi_translation": "चम्मच से तैयार किए गए भोगों को लेकर, या किसी अन्य को लेकर, यजुर्वेद का उच्चारण करके, उसे थाली में रखकर, एक सामान्य जल लाना चाहिए जो भोग पकाने के लिए पर्याप्त हो, और जल वाली थाली में भागों में बांटकर, 'तुम गर्म हो' कहना चाहिए।"
+    },
+    {
+      "number": "27",
+      "sanskrit": "स्थाल्यामनुद्धृत्य स्थाल्या सह चरुमुद्वास्य आसादयति। चरोर [पि] पृथुत्वात् 'आर्द्रः प्रथस्नुः' इत्यविकृतो मन्त्रः।",
+      "english_translation": "Without lifting the dish, one should place the offering along with the dish. Due to the thickness of the offering, the mantra 'The moist one is the first' is not altered.",
+      "hindi_translation": "थाली को उठाए बिना, भोग को थाली के साथ रखना चाहिए। भोग की मोटाई के कारण, 'गीला पहला है' मंत्र में कोई परिवर्तन नहीं होता।"
+    },
+    {
+      "number": "28",
+      "sanskrit": "दर्शपूर्णमासयोस्सामिधेन्यः अग्निसमिन्धनार्था ऋचः 'त्रिः प्रथमामन्वाह। त्रिरुत्तमाम्' इत्यभ्यस्ताभ्यां प्रथमोत्तमाभ्यां सह पञ्चदश।",
+      "english_translation": "For the full moon months, the hymns for the fire offerings are 'Three are the first, three are the best', and from these, along with the first and best, one obtains fifteen.",
+      "hindi_translation": "पूर्णिमा के महीनों के लिए, अग्नि भोग के लिए मंत्र हैं 'तीन पहले हैं, तीन सबसे अच्छे हैं', और इनसे, पहले और सबसे अच्छे के साथ, पंद्रह प्राप्त होते हैं।"
+    },
+    {
+      "number": "29",
+      "sanskrit": "यासां विकृतीनां इष्टीनां पशुबन्धानां च 'सप्तदश सामिधेनीरन्वाह' इति पुनस्सप्तदश सामिधेन्यो विधीयन्ते तत्र सप्तदश, अन्यत्र पञ्चदशैव।",
+      "english_translation": "For those offerings that are altered, and for the binding of animals, it is stated 'Seventeen are the offerings with the fire', and again seventeen are prescribed there, while elsewhere it is only fifteen.",
+      "hindi_translation": "जो भोग परिवर्तित होते हैं, और पशुओं के बंधन के लिए, कहा गया है 'सत्रह अग्नि भोग हैं', और वहां फिर से सत्रह निर्धारित होते हैं, जबकि अन्यत्र केवल पंद्रह होते हैं।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "'आर्थवणा वै काम्यास्ता उपांशु कर्तव्याः' इति या विकृतय उपांशु क्रियन्ते, तत्र यावत्प्रधानं प्रधानदेवतावाचकं पदमुपांशु प्रयोक्तव्यम्, याज्यानुवाक्ये च।",
+      "english_translation": "'Indeed, those that are desired should be performed as partial offerings', and for those altered offerings that are performed as partial, the principal word denoting the principal deity should be used as a partial offering, as stated in the sacrificial text.",
+      "hindi_translation": "'वास्तव में, जो इच्छित हैं, उन्हें आंशिक भोग के रूप में किया जाना चाहिए', और जो परिवर्तित भोग आंशिक रूप से किए जाते हैं, वहां मुख्य देवता को दर्शाने वाला मुख्य शब्द आंशिक भोग के रूप में उपयोग किया जाना चाहिए, जैसा कि याज्ञिक पाठ में कहा गया है।"
+    },
+    {
+      "number": "30",
+      "sanskrit": "आर्थवणा वै काम्यास्ता उपांशु कर्तव्याः",
+      "english_translation": "The actions that are desired are to be performed as subsidiary.",
+      "hindi_translation": "जो कार्य इच्छित हैं, उन्हें सहायक के रूप में किया जाना चाहिए।"
+    },
+    {
+      "number": "31",
+      "sanskrit": "येषां प्रधानानां श्रुत्याद्यवगतशेषत्वैः पदार्थैः कल्पित उपकारः कथमंशपूरकः ताः प्रकृतयः।",
+      "english_translation": "How can the primary substances, which are understood through the scriptures and other means, be considered as supportive?",
+      "hindi_translation": "जो प्राथमिक पदार्थ शास्त्रों और अन्य साधनों से समझे जाते हैं, वे सहायक कैसे माने जा सकते हैं?"
+    },
+    {
+      "number": "32",
+      "sanskrit": "अग्नीषोमीयस्यापि पशोस्तावेव धर्मान् प्रयच्छतः।",
+      "english_translation": "The same principles apply to the Agniṣomīya as well.",
+      "hindi_translation": "अग्नीषोमीय पर भी वही सिद्धांत लागू होते हैं।"
+    },
+    {
+      "number": "33",
+      "sanskrit": "सोग्नीषोमीयः दार्शपूर्णमासिकान् धर्मानात्मसात्कृत्वा, तैस्सहात्मीयान् सवनीयाय प्रयच्छति।",
+      "english_translation": "The Agniṣomīya, having internalized the principles of the Darśapūrṇamāsa, provides them along with their associated ones.",
+      "hindi_translation": "अग्नीषोमीय, दर्शपूर्णमास के सिद्धांतों को आत्मसात करके, उन्हें उनके संबंधित सिद्धांतों के साथ प्रदान करता है।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "तयोरपि हुतानुमन्त्रणस्य दार्शपूर्णमासिकत्वमेव न्याय्यम्।",
+      "english_translation": "It is justifiable that both of them have the characteristic of a Darsha-Purnamasa in the case of the Huta-Anumantra.",
+      "hindi_translation": "यह न्यायसंगत है कि दोनों का हुतानुमन्त्रण के मामले में दर्शपूर्णमास का गुण है।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "इदमर्थमेवाग्नीषोमीयस्य च पशोरित्यत्र चशब्दग्रहणम्।",
+      "english_translation": "This is the reason for the acceptance of the Agniṣomīya and the animal here.",
+      "hindi_translation": "यह आग्नीषोमीय और पशु के लिए यहाँ शब्द ग्रहण करने का कारण है।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "आग्नेयस्य पशुपुरोडाशस्य आग्नेयवद्धुतानुमन्त्रणम्।",
+      "english_translation": "The Huta-Anumantra of the Agneya animal Purodasa.",
+      "hindi_translation": "आग्नेय पशु पुरोडाश का हुतानुमन्त्रण।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "ऐन्द्राग्नस्यैन्द्राग्नवत्॥",
+      "english_translation": "Like that of the Indrāgni.",
+      "hindi_translation": "इन्द्राग्न के समान।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "एकादशिनीति यागसंज्ञा‚ यस्यामेकादश यूपाः पशवो वा स्युः।",
+      "english_translation": "The term Ekādashinī refers to a sacrifice in which there are eleven posts or animals.",
+      "hindi_translation": "एकादशिनी शब्द का अर्थ है एक यज्ञ जिसमें ग्यारह यूप या पशु होते हैं।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "एकादशिन्यां भवा ऐकादशिनाः।",
+      "english_translation": "In the Ekādashinī, there are eleven.",
+      "hindi_translation": "एकादशिनी में ग्यारह होते हैं।"
+    },
+    {
+      "number": "7",
+      "sanskrit": "प्रयोजनं 'मध्येग्नेराज्याहुतीः' इत्येवमादीनां प्रयोगः॥",
+      "english_translation": "The purpose is the offering of the royal oblation in the middle of the fire.",
+      "hindi_translation": "उद्देश्य है अग्नि के मध्य में राजकीय हुति का अर्पण।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "समानतन्त्राणामैकादशिनधर्मा भवेयुः।",
+      "english_translation": "The characteristics of the Ekādashin are the same for both.",
+      "hindi_translation": "एकादशिन के गुण दोनों के लिए समान होते हैं।"
+    },
+    {
+      "number": "9",
+      "sanskrit": "वैश्वदेवं 'आग्नेयमष्टाकपालम्' इत्यदिविहितम् दर्शपूर्णमासलब्धैस्सहात्मीयान्नवप्रयाजादिधर्मान् वरुणप्रघासादीनां प्रयच्छत्तेषां प्रकृतिः॥",
+      "english_translation": "The Vaishvadeva is designated as 'Agneya with eight skulls' and is characterized by the offerings of the nine oblations obtained through the Darsha-Purnamasa.",
+      "hindi_translation": "वैश्वदेव को 'आग्नेयमष्टाकपालम्' कहा गया है और यह दर्शपूर्णमास के माध्यम से प्राप्त नौ हुतियों के अर्पणों द्वारा विशेषित है।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "विश्वेदेवा देवतात्वेन यस्मिन् यागगणेन्तर्भूतास्तस्य वैश्वदेवमिति नामधेयम्।",
+      "english_translation": "The universal deities are included in the sacrificial group, and this is called Vaishvadeva.",
+      "hindi_translation": "सार्वभौमिक देवता यज्ञ समूह में शामिल होते हैं, और इसे वैश्वदेव कहा जाता है।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "तच्च चातुर्मास्यानामाद्यं पर्व।",
+      "english_translation": "This is the first festival of the four-month period.",
+      "hindi_translation": "यह चार महीने की अवधि का पहला पर्व है।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "वरुणप्रघासो द्वितीयं पर्व।",
+      "english_translation": "Varunapraghasa is the second festival.",
+      "hindi_translation": "वरुणप्रघास दूसरा पर्व है।"
+    },
+    {
+      "number": "13",
+      "sanskrit": "साकमेध इति महाहविर्गृह्यते, पञ्चसञ्चराणां तत्र विधानात्, तन्निमित्तत्वाद्वैश्वदेवातिदेशस्य।",
+      "english_translation": "The Sākamedha is a great offering, as prescribed for the five movements, and is due to the special nature of the Vaishvadeva.",
+      "hindi_translation": "साकमेध एक महान हुति है, जो पाँच संचारों के लिए निर्धारित है, और यह वैश्वदेव की विशेष प्रकृति के कारण है।"
+    },
+    {
+      "number": "14",
+      "sanskrit": "इन्द्रश्शुनासीरो यस्मिन्यागगणे देवतात्वेनान्तर्भूतस्तस्य शुनासीरीयमिति संज्ञा।",
+      "english_translation": "In the sacrificial group where Indra and Shunasīra are included, it is called Shunasīra.",
+      "hindi_translation": "जिस यज्ञ समूह में इन्द्र और शुनासीरा शामिल होते हैं, उसे शुनासीरा कहा जाता है।"
+    },
+    {
+      "number": "15",
+      "sanskrit": "वैश्वदेवे यागगणे भवा वैश्वदेवी।",
+      "english_translation": "In the sacrificial group of Vaishvadeva, there is the Vaishvadevi.",
+      "hindi_translation": "वैश्वदेव के यज्ञ समूह में वैश्वदेवी होती है।"
+    },
+    {
+      "number": "16",
+      "sanskrit": "न देवता, तद्धितेन वैश्वदेविक्या एककपालेन सह निर्देशात्।",
+      "english_translation": "Not a deity, but indicated by the term Vaishvadevi with a single skull.",
+      "hindi_translation": "यह कोई देवता नहीं है, बल्कि एककपाले के साथ वैश्वदेवी शब्द द्वारा संकेतित है।"
+    },
+    {
+      "number": "17",
+      "sanskrit": "वैश्वदेव्यामिक्षा एककपालवदात्मीयान् 'द्वयोः पात्रयोरुद्धुत्य' इत्येवमादीनन्यासामामिक्षाणां प्रयच्छति।",
+      "english_translation": "In the Vaishvadevi, the offerings are made as in the case of a single skull, such as 'by lifting the two vessels'.",
+      "hindi_translation": "वैश्वदेवी में, एककपाले के मामले में अर्पण किए जाते हैं, जैसे 'दो पात्रों को उठाकर'।"
+    },
+    {
+      "number": "18",
+      "sanskrit": "तत्र पशपूर्णमासाविष्टीनां प्रकृतिः इत्युक्तम्।",
+      "english_translation": "It is stated that the nature of the offerings in the full moon of the animal is as follows.",
+      "hindi_translation": "यह कहा गया है कि पशु के पूर्णिमा में अर्पणों की प्रकृति इस प्रकार है।"
+    },
+    {
+      "number": "19",
+      "sanskrit": "दर्शपूर्णमासयोश्च यान्याग्नेयादीनि पयोन्तानि षट्प्रधानानि तेषामेकैकं प्रधानं वैकृतस्य प्रधानस्य प्रकृतिः।",
+      "english_translation": "Among the six main offerings in the Darsha-Purnamasa, those that are Agneya and others, each has its own primary nature.",
+      "hindi_translation": "दर्शपूर्णमास में छह मुख्य अर्पणों में, जो आग्नेय और अन्य हैं, प्रत्येक की अपनी प्राथमिक प्रकृति होती है।"
+    },
+    {
+      "number": "20",
+      "sanskrit": "एका देवता यासां विकृतीनां औषधद्रव्याणां ता आग्नेयधर्मानभिघारणादीन् गृह्णीयुः, यथा 'आदित्यं चरुम्' 'सावित्रं द्वादशकपालम्' इत्यादि॥",
+      "english_translation": "One deity among those whose offerings are medicinal substances should be accepted, such as 'Aditya Charum' and 'Savitra with twelve skulls'.",
+      "hindi_translation": "उन देवताओं में से एक, जिनके अर्पण औषधीय पदार्थ हैं, को स्वीकार किया जाना चाहिए, जैसे 'आदित्यं चरुम्' और 'सावित्रं द्वादशकपालम्'।"
+    },
+    {
+      "number": "40",
+      "sanskrit": "विशेषातिदेशकारणानामक्षरसामान्यादीनामुपसङ्ग्रहणार्थमपि॥",
+      "english_translation": "For the sake of collecting the special and general reasons of the letters.",
+      "hindi_translation": "अक्षरों के विशेष और सामान्य कारणों को एकत्र करने के लिए।"
+    },
+    {
+      "number": "41",
+      "sanskrit": "द्वे देवते यासां विकृतीनामौषधद्रव्याणां ता द्विदेवताः। तासां द्विदेवत्वसामान्यादग्नीषोमीयविकारत्वम्। यथा 'आग्नावैष्णवमेकादशकपालम्' इत्येवमादयः॥",
+      "english_translation": "For two deities whose transformations are medicinal substances, they are dual deities. Their duality is due to the commonality of Agni and Soma transformations. For example, 'Agni-Vaishnava with eleven skulls'.",
+      "hindi_translation": "उन दो देवताओं के लिए जिनके विकृतियाँ औषधीय पदार्थ हैं, वे द्विदेवता हैं। उनका द्विदेवत्व अग्नि और सोम के विकारों की सामान्यता के कारण है। उदाहरण के लिए, 'अग्नि-वैष्णव एकादशकपाल।'"
+    },
+    {
+      "number": "42",
+      "sanskrit": "अग्नीषोमीयविकार इति चशब्देगानुकृष्यते। बह्व्यो देवता यासां विकृतीनां ता बहुदेवताः ता अनेकदेवतासामान्यादग्नीषोमीयविकाराः। थपा—'वैश्वदेवश्चरुः' इत्येवमादगः॥",
+      "english_translation": "The term 'Agni-Soma transformations' is derived from the word. For many deities whose transformations are, they are many deities, and they are Agni-Soma transformations due to the commonality of many deities. For example, 'Vaishvadeva is Charu'.",
+      "hindi_translation": "'अग्नीषोमीय विकार' शब्द से निकला है। उन कई देवताओं के लिए जिनके विकृतियाँ हैं, वे बहुदेवता हैं, और वे कई देवताओं की सामान्यता के कारण अग्नि-सोम के विकार हैं। उदाहरण के लिए, 'वैश्वदेव चरु है।'"
+    },
+    {
+      "number": "43",
+      "sanskrit": "द्विदेवता बहुदेवताश्च द्विदेवतात्वानेकदेवतात्वसामान्यादैन्द्राग्नविकारा वा। यथा—'आश्विनं द्विकपालं' 'मारुतं सप्तकपालं' इत्येवमादयः। न तु समविकल्पः। चत्वार्यक्षराण्यग्नीषोमौ। त्रीणीन्द्राग्नी। तत्र यासां विकृतीनां द्विबहुदेवतापदेषु चत्वार्यक्षराण्यधिकानि वा ता अग्नीषोमीयविकाराः। यासां त्रीण्यूनानि वा ता ऐन्द्राग्नविकाराः। तथा चोदाहृतं अन्यतन्त्रप्रकृति वा॥",
+      "english_translation": "Dual deities and many deities are common in duality and many deities, such as 'Ashvins with two skulls' and 'Marut with seven skulls'. There is no equal option. Four letters are Agni-Soma. Three are Indra-Agni. Among those whose transformations are dual and many deities, four letters are more, they are Agni-Soma transformations. Those with three fewer are Indra-Agni transformations. Thus, it is stated in another context.",
+      "hindi_translation": "द्विदेवता और बहुदेवता द्विदेवता और बहुदेवता में सामान्य हैं, जैसे 'आश्विन दो कपालों के साथ' और 'मारुत सात कपालों के साथ'। कोई समान विकल्प नहीं है। चार अक्षर अग्नि-सोम हैं। तीन इन्द्र-आग्नि हैं। जिनके विकृतियाँ द्विदेवता और बहुदेवता हैं, उनमें चार अक्षर अधिक हैं, वे अग्नि-सोमीय विकार हैं। जिनके तीन कम हैं, वे इन्द्र-आग्नीय विकार हैं। इस प्रकार, यह अन्य संदर्भ में कहा गया है।"
+    },
+    {
+      "number": "44",
+      "sanskrit": "प्रकृतावग्नीषोमीये सोमश्च देवता। ऐन्द्राग्ने इन्द्रश्च। ते प्रकृतिदेवते विकृतिष्वैन्द्रपुरोडाशे सौम्ये चरौ दृश्येते। ताभ्यामन्यत्रैकदेवतात्वेन विकारभावः। तयोस्सौम्योग्नीषोमीयविकारः, देवतैक्यात्। तथैन्द्रश्चैन्द्राग्नविकारः। सौमैन्द्रश्चरुस्सोममुख्यत्वादग्नीषोमीयविकारः। इन्द्रासोमीय इन्द्रमुख्यत्वादैन्द्राग्नविकारः॥",
+      "english_translation": "In the natural state, Agni and Soma are deities. Indra and Agni are also deities. They are seen in the transformations of the natural deities, in the gentle forms of Indra's offerings. From them, there is a transformation of singular deity. Thus, Agni-Soma transformations are due to the unity of deities. Similarly, Indra's transformations are Indra-Agni transformations due to the predominance of Soma.",
+      "hindi_translation": "प्राकृतिक अवस्था में, अग्नि और सोम देवता हैं। इन्द्र और अग्नि भी देवता हैं। वे प्राकृतिक देवताओं के विकारों में, इन्द्र के बलिदानों के सौम्य रूपों में देखे जाते हैं। उनसे, एकल देवता का विकार होता है। इस प्रकार, अग्नि-सोमीय विकार देवताओं की एकता के कारण होते हैं। इसी प्रकार, इन्द्र के विकार इन्द्र-आग्नीय विकार होते हैं सोम के प्रमुखता के कारण।"
+    },
+    {
+      "number": "45",
+      "sanskrit": "इह बलीयश्शब्दश्रवणादनुक्तोपि विरुद्धो विकारः विकारविरोध आश्रीयते। सामान्यशब्दो हविषापि सम्बध्यते। यत्र प्राजापत्यचर्वादौ प्रजापतिदेवताकत्वादुपांशुयाजधर्मप्राप्तिः औषधद्रव्यकत्वादाग्नेयधर्मप्राप्तिः। अतः प्राजापत्ये हविर्देवतासामान्ये विरुद्ध्येते। तत्र विरोधे सति हविस्सामान्यादाग्नेयधर्मप्राप्तिर्बलीयसी। प्रकृतिविकारभाव आसामप्यस्त्येव॥",
+      "english_translation": "Here, the stronger word is opposed to the unspoken transformations. The general word is also connected to the offerings. Where the Prajapati offerings are related to the deity of Prajapati, the attainment of the Upanshu Yajna is due to the medicinal substance, and the attainment of Agni is due to the Agni nature. Therefore, in the Prajapati offerings, the generality of the deities is opposed. In that opposition, the generality of the offerings is stronger than the Agni nature. The essence of natural transformations is also present.",
+      "hindi_translation": "यहाँ, मजबूत शब्द अनकहे विकारों के खिलाफ है। सामान्य शब्द भी बलिदानों से जुड़ा है। जहाँ प्रजापति बलिदान प्रजापति के देवता से संबंधित हैं, उपांशु यज्ञ की प्राप्ति औषधीय पदार्थ के कारण है, और अग्नि की प्राप्ति अग्नि स्वभाव के कारण है। इसलिए, प्रजापति बलिदानों में, देवताओं की सामान्यता का विरोध होता है। उस विरोध में, बलिदानों की सामान्यता अग्नि स्वभाव से अधिक मजबूत होती है। प्राकृतिक विकारों का सार भी मौजूद है।"
+    },
+    {
+      "number": "46",
+      "sanskrit": "बलाबलप्रसङ्गादिदमाह—यत्रैतदापतति अवहननादिद्रव्यसंस्कारायोग्या व्रीहिमयास्तण्डुला विद्यन्ते सर्वसंस्कारयोग्या व्रीहिसदृशा नीवारा विद्यन्ते, तत्र यदि व्रीहिमयः पुरोडाशः अवहननादिसंस्कारहानिः अथ तत्संस्कारादन्यः व्रीहिमयत्वहानिः। एवं द्रव्यसंस्कारविरोधः। तस्मिन्विरोधे द्रव्यं बलीयः। द्रव्यं ग्राह्यं संस्कारहीनमपि॥",
+      "english_translation": "This is stated in the context of the strong and weak: where there are rice-based offerings suitable for the rituals of offerings, if the rice-based offering is a result of the loss of the ritual, then that loss is due to the rice nature. Thus, there is a conflict of substance and ritual. In that conflict, the substance is stronger. The substance is acceptable even if it is devoid of rituals.",
+      "hindi_translation": "यह मजबूत और कमजोर के संदर्भ में कहा गया है: जहाँ अनुष्ठानों के लिए उपयुक्त चावल आधारित बलिदान होते हैं, यदि चावल आधारित बलिदान अनुष्ठान के नुकसान का परिणाम है, तो वह नुकसान चावल के स्वभाव के कारण है। इस प्रकार, पदार्थ और अनुष्ठान का संघर्ष होता है। उस संघर्ष में, पदार्थ अधिक मजबूत होता है। पदार्थ को अनुष्ठानों से रहित होने पर भी स्वीकार किया जाता है।"
+    },
+    {
+      "number": "47",
+      "sanskrit": "अर्थशब्दः प्रयोजनवाची। द्रव्यप्रयोजनयोर्यत्र  विरोधः तत्र प्रयोजनं बलीयः बलवत्। तथा हि खादिरो यूपद्रव्यत्वेन विहितः 'खादिरो यूपः' इति। तस्य च प्रयोजनमात्मनिबद्धस्य पशोर्निवारणम्। स चाणुर्विद्यते तन्निवारणासमर्थः। तत्समर्थश्च कदरो विद्यते। यदि द्रव्यजिघृक्षा पशुवारणप्रयोजनानवाप्तिः। यदि तज्जिघृक्षा द्रव्यानवाप्तिः। अतोर्थद्रव्ययोविरोधः। तत्रार्थो बलीयान्, प्रयोजनं बलवत्तरम्॥",
+      "english_translation": "The term 'artha' refers to purpose. Where there is a conflict between the purposes of substances, the purpose is stronger. Thus, the Khadira is prescribed as a sacrificial substance, as stated 'Khadira is the sacrificial post'. Its purpose is to prevent the animal from being bound. If the substance is desired, the purpose of preventing the animal is not achieved. If that desire is not fulfilled, the substance is not obtained. Therefore, there is a conflict of purpose and substance. In that case, the purpose is stronger, and the intention is even stronger.",
+      "hindi_translation": "'अर्थ' शब्द का अर्थ उद्देश्य है। जहाँ पदार्थों के उद्देश्यों के बीच संघर्ष होता है, वहाँ उद्देश्य अधिक मजबूत होता है। इस प्रकार, खादिर को बलिदान के पदार्थ के रूप में निर्धारित किया गया है, जैसा कि कहा गया है 'खादिर यूप है'। इसका उद्देश्य पशु को बंधन से रोकना है। यदि पदार्थ की इच्छा है, तो पशु को रोकने का उद्देश्य प्राप्त नहीं होता है। यदि वह इच्छा पूरी नहीं होती है, तो पदार्थ प्राप्त नहीं होता है। इसलिए, उद्देश्य और पदार्थ का संघर्ष होता है। उस मामले में, उद्देश्य अधिक मजबूत होता है, और इरादा और भी मजबूत होता है।"
+    },
+    {
+      "number": "48",
+      "sanskrit": "अध्ययनविध्यधीतानां मन्त्रवाक्यानां स्वाध्यायपाठावधृतस्वरूपाणामर्थवशाद्रूपान्तरकरणमूहः। स प्रकृतौ न विद्यते न क्रियते। प्रकृतौ मन्त्रा यत्राभिधातुं समर्थाः तत्र न। यथा 'अग्नये जुष्टमभिघारयामि' इत्याग्नेयपुराडाशाभिघारणे, नाग्नीषोमीये। तत्रामन्त्रकः प्रयोगः, नाग्नीषोमाभ्यामित्यूहः॥",
+      "english_translation": "The alteration of the forms of the mantras and sentences learned through study, based on their meanings, does not exist in their original state nor is it performed. In the original state, the mantras are not capable of being invoked where they are meant to be invoked, as in 'I offer to Agni what is pleasing' in the Agni Purana invocation, and in the case of the Nagniṣoma invocation.",
+      "hindi_translation": "अध्ययन के माध्यम से सीखे गए मंत्रों और वाक्यों के रूपों का अर्थ के आधार पर परिवर्तन उनकी मूल स्थिति में नहीं होता है और न ही इसे किया जाता है। मूल स्थिति में, मंत्रों को उस स्थान पर नहीं बुलाया जा सकता जहाँ उन्हें बुलाने का इरादा है, जैसे 'मैं अग्नि को प्रिय अर्पित करता हूँ' अग्नि पुराण के आह्वान में, और नाग्नीषोम आह्वान के मामले में।"
+    },
+    {
+      "number": "49",
+      "sanskrit": "यदीया धर्माः कार्यमुखेन यस्मिन्नतिदिश्यन्ते सा तस्य विकृतिः। प्रकृतौ मन्त्रा यंयमर्थ प्रकाश्य प्रधानमुपकृतवन्तः यदि विकृतावपि तंतमेव प्रकाश्योपकुर्युः न तत्र तेषामूहः। यत्र तु प्राकृतप्रकाश्याभावः तत्स्थाने च वैकृतं प्रकाश्यान्तरमुपदिश्यते अन्यत् प्राकृताधिकं वोपदिश्यते तद्विकृतौ यथार्थं यथा यथार्थवन्तो मन्त्रास्तथा तथा ऊहः मन्त्रसन्नामः कर्तव्यः। यत्नाम्नातप्रत्ययार्थस्थाने प्रत्ययार्थान्तरमुपदिश्यते तत्र प्रत्ययार्थस्योहः, यथा 'येन येनादधाति'।",
+      "english_translation": "If the dharmas are directed towards a specific action, then that is its alteration. In the original state, the mantras that reveal meanings, if they are invoked in their altered form, should reveal the same meaning; otherwise, there is no invocation for them. Where there is an absence of the original revelation, an alternative revelation is prescribed in that place, and the mantras should be as true as they are meant to be. In the case of the meaning of the action, an alternative meaning is prescribed, as in 'by whomsoever he supports'.",
+      "hindi_translation": "यदि धर्म किसी विशेष क्रिया की ओर निर्देशित होते हैं, तो वह उसकी विकृति है। मूल स्थिति में, जो मंत्र अर्थ प्रकट करते हैं, यदि उन्हें उनके विकृत रूप में बुलाया जाता है, तो उन्हें वही अर्थ प्रकट करना चाहिए; अन्यथा, उनके लिए कोई आह्वान नहीं है। जहाँ मूल प्रकट होने की अनुपस्थिति है, वहाँ उस स्थान पर एक वैकल्पिक प्रकट होना निर्धारित किया जाता है, और मंत्रों को उनके अर्थ के अनुसार सच्चा होना चाहिए। क्रिया के अर्थ के मामले में, एक वैकल्पिक अर्थ निर्धारित किया जाता है, जैसे 'जिसके द्वारा वह समर्थन करता है'।"
+    },
+    {
+      "number": "51",
+      "sanskrit": "नित्ये नैमित्तिके काम्ये च प्रयोगे प्रक्रान्ते शिष्टाभावे उपदिष्टस्यालामे सामान्यात् सादृश्यात् तत्संदृशतरं प्रतिनिधिमुपादाय स प्रयोगः परिसमापनीयः। विहितालाभे तत्सदृशस्तत्कार्यकरश्च प्रतिनिधिरूपात्तव्यः। चर्वर्थेपि पयस्यलब्धे श्वैत्यान्न शङ्खोपादानमिष्यते। सुसदृशाभावे अप्रतिषिद्धमीषत्सदृशमपि प्रतिनिधातव्यम्। मौद्गे चरौ प्रक्रान्ते तदलाभे 'अयज्ञिया वै माषाः' इति प्रतिषेधान्न माषाः प्रतिनिधातव्याः।",
+      "english_translation": "In the case of eternal, occasional, and desired actions, when the prescribed item is absent, the use of a representative similar to it should be concluded based on generality and similarity. In the case of a prescribed gain, a representative that is similar and capable of performing the same function should be taken. In the case of obtaining milk, if it is obtained from a cow, the use of a conch should not be made. In the absence of a suitable representative, even an item that is not prohibited may be used as a representative. In the case of the Mauḍgī, if the prescribed item is absent, the statement 'the split lentils are indeed not to be used as a representative' applies.",
+      "hindi_translation": "नित्य, नैमित्तिक और काम्य क्रियाओं के मामले में, जब निर्धारित वस्तु अनुपस्थित होती है, तो समानता के आधार पर उसके समान प्रतिनिधि का उपयोग किया जाना चाहिए। निर्धारित लाभ के मामले में, एक ऐसा प्रतिनिधि जो समान हो और वही कार्य कर सके, लिया जाना चाहिए। यदि दूध प्राप्त किया जाता है, तो शंख का उपयोग नहीं किया जाना चाहिए। उपयुक्त प्रतिनिधि की अनुपस्थिति में, यहां तक कि एक ऐसा वस्तु जो निषिद्ध नहीं है, उसे प्रतिनिधि के रूप में उपयोग किया जा सकता है। मौद्गी के मामले में, यदि निर्धारित वस्तु अनुपस्थित है, तो 'विभाजित दालें वास्तव में प्रतिनिधि के रूप में उपयोग नहीं की जानी चाहिए' यह लागू होता है।"
+    },
+    {
+      "number": "52",
+      "sanskrit": "यदलाभे यत्स्थाने यस्सदृशतरः प्रतिनिधीयते, स तद्धर्मा स्यात्। व्रीह्यभावे नीवारः प्रतिनिधीयमानो व्रीहिधर्मा स्यात्। व्रीहिपदस्यापचारः नीवारशब्दोहश्च। यत्र वाचनिकः प्रतिनिधिस्तत्र नोहः यथा पूतीकेषु।",
+      "english_translation": "Wherever a representative is taken that is more similar to the obtained item, that item should be considered as having that quality. In the absence of rice, the niwār (a type of grain) is taken as a representative of the quality of rice. The term 'niwār' is also applicable in this context. Where a verbal representative is taken, it should not be otherwise, as in the case of pure items.",
+      "hindi_translation": "जहां भी एक ऐसा प्रतिनिधि लिया जाता है जो प्राप्त वस्तु के अधिक समान होता है, उस वस्तु को उसी गुण का माना जाना चाहिए। चावल की अनुपस्थिति में, नीवार (एक प्रकार का अनाज) को चावल के गुण का प्रतिनिधि माना जाता है। 'नीवार' शब्द भी इस संदर्भ में लागू होता है। जहां एक मौखिक प्रतिनिधि लिया जाता है, वहां ऐसा नहीं होना चाहिए, जैसे शुद्ध वस्तुओं के मामले में।"
+    },
+    {
+      "number": "53",
+      "sanskrit": "द्रव्यस्यैकदेशनाशे यावदुक्तपरिमाणाद्यभावेपि अवशिष्टेनैव समाप्नुयात्। यथा कूर्मप्रतिकृतिपुरोडाशे 'चतुरो मुष्टीन्' इत्यादिपरिमाणन्यूनतायामपि मुख्येनैव समापयेत्।",
+      "english_translation": "In the case of the loss of a single item, even if the prescribed quantity is absent, it should still be concluded with what remains. For example, in the case of a tortoise-shaped offering, even if the quantity is less, it should still be concluded with the main item.",
+      "hindi_translation": "एक वस्तु के नुकसान के मामले में, भले ही निर्धारित मात्रा अनुपस्थित हो, फिर भी जो शेष है उसके साथ निष्कर्ष निकाला जाना चाहिए। उदाहरण के लिए, कछुए के आकार की पेशकश के मामले में, भले ही मात्रा कम हो, फिर भी इसे मुख्य वस्तु के साथ निष्कर्ष निकाला जाना चाहिए।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "स्वामिनो यजमानस्य पत्न्याश्च, अग्नेराहवनीयादेर्देवतायाः, कर्मणः क्रियायाः, एतेषां प्रतिषेधादेव प्रतिनिधिर्नास्ति। देवतायां शब्दात्मकत्वमपरो हेतुः।",
+      "english_translation": "There is no representative for the actions of the master, the wife of the patron, the fire, and the deity of the sacrificial offering, due to their prohibition. The word itself is another reason for the deity.",
+      "hindi_translation": "स्वामी, यजमान की पत्नी, अग्नि और बलिदान की देवता की क्रियाओं के लिए कोई प्रतिनिधि नहीं है, उनके निषेध के कारण। देवता के लिए शब्दात्मकता एक और कारण है।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "क—स्वामिनो यजमानस्य पत्न्याश्च, अग्नेराहवनीयादेर्देवतायाः, कर्मणः क्रियायाः, एतेषां प्रतिषेधादेव प्रतिनिधिर्नास्ति। देवतायां शब्दात्मकत्वमपरो हेतुः॥",
+      "english_translation": "Regarding the master, the wife of the patron, the deity of the Agni Ahavaniya, and the action of the ritual, there is no representative due to the prohibition of these. The word-based nature of the deity is another reason.",
+      "hindi_translation": "स्वामी, यजमान की पत्नी, अग्नि आहवनीय की देवता, और कर्म की क्रिया के संबंध में, इन सभी के निषेध के कारण कोई प्रतिनिधि नहीं है। देवता का शब्दात्मक स्वरूप एक और कारण है।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "त्रिभिर्हेतुभिः प्रकृतिपदार्थो निवर्तते। प्रत्याम्नानं कुशस्थाने शरमयं बर्हिः। प्रतिषेधो 'नार्षेयं वृणीते' इत्यादौ।",
+      "english_translation": "The nature of the object is determined by three reasons. The term 'Pratyamnana' refers to the soft grass in the place of the ritual. The prohibition is stated as 'one should not choose the Narshya'.",
+      "hindi_translation": "वस्तु की प्रकृति तीन कारणों से निर्धारित होती है। 'प्रत्यम्नान' शब्द का अर्थ यज्ञ स्थल पर नरम घास है। निषेध इस प्रकार कहा गया है कि 'नार्ष्य का चयन नहीं करना चाहिए।'"
+    },
+    {
+      "number": "3",
+      "sanskrit": "एकेनाह्ना येषु सुत्यापरिसमाप्तिस्त एकाहाः। तेषामग्निष्टोमसंस्थो ज्योतिष्टोमः प्रकृतिः।",
+      "english_translation": "In those where the completion of the Suti is done in one day, they are called 'one-day' rituals. The Agnistoma is the basis for these, and the Jyotishtoma is its nature.",
+      "hindi_translation": "जिनमें सुत्य की समाप्ति एक दिन में होती है, उन्हें 'एक-दिन' यज्ञ कहा जाता है। अग्निष्टोम इनका आधार है, और ज्योतिष्टोम इसकी प्रकृति है।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "इहाहश्शब्दो रात्रिशब्दश्च सोमयागवचनः। द्वादशाहानि यागा यस्य स द्वादशाहः।",
+      "english_translation": "Here, the word 'Ihah' and the word 'Ratri' refer to the Soma ritual. The one who performs the rituals for twelve nights is called 'the one of twelve nights'.",
+      "hindi_translation": "यहाँ 'इह' शब्द और 'रात्रि' शब्द सोम यज्ञ का उल्लेख करते हैं। जो बारह रातों तक यज्ञ करता है, उसे 'बारह रातों वाला' कहा जाता है।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "अह्नां यागानां। गणोहर्गणः। गणस्सङ्घः। ते ह्युभयात्मकाः अहीनात्मकास्सत्रात्मकाश्च। द्विरात्रप्रभृतय एकादशरात्रान्ता अहीनात्मकाः। त्रयोदशरात्रप्रभृत्याशतरात्रात्सत्रात्मकाः। तेषां द्वादशाहः प्रकृतिः॥",
+      "english_translation": "Of the sacrifices of the days, the group is the group of the group. They are both dual-natured, non-dual-natured, and sacrificial in nature. From two nights to eleven nights, they are non-dual-natured. From thirteen nights to the night of the hundred, they are sacrificial in nature. Their nature is the twelve nights.",
+      "hindi_translation": "दिनों के यज्ञों में, समूह समूह का समूह है। वे दोनों द्वैधात्मक, अद्वैधात्मक और यज्ञात्मक हैं। दो रातों से लेकर ग्यारह रातों तक, वे अद्वैधात्मक हैं। तेरह रातों से लेकर सौ रातों तक, वे यज्ञात्मक हैं। उनकी प्रकृति बारह रातें हैं।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "संवत्सराय दीक्षिप्यमाणाः इति विहितेतिकर्तव्यताकं गवामयनं सर्वेषामयनानां प्रकृतिः॥",
+      "english_translation": "Those who are initiated for a year, this is the nature of the cow sacrifice, which is the nature of all sacrifices.",
+      "hindi_translation": "जो एक वर्ष के लिए दीक्षित होते हैं, यह गाय के यज्ञ की प्रकृति है, जो सभी यज्ञों की प्रकृति है।"
+    },
+    {
+      "number": "6",
+      "sanskrit": "निकायस्सद्यो येषां ते निकायिनस्सद्यस्कालादयः। तेषां प्रथमोग्निष्टोमः प्रकृतिः॥",
+      "english_translation": "Of those who are immediately in the group, the first is the Agnistoma.",
+      "hindi_translation": "जो तुरंत समूह में हैं, उनमें पहला अग्निष्टोम है।"
+    },
+    {
+      "number": "8",
+      "sanskrit": "स चाग्निष्षोडशिनि तद्विकारे च वाजपेये असङ्कीर्तनान्न भवति। साद्यस्क्रेषु सद्यःपरिसमाप्तेरसम्भवाच्चयनाभावः। सारस्वते सत्रे अनवस्थानान्नाग्निश्चीयते। अत एतेभ्योन्यत्रोत्तरेषु क्रतुष्वग्निः॥",
+      "english_translation": "In the case of the Agnishomashodashi, in that modification, there is no mention of the Vajapeya. In the immediate sacrifices, due to the impossibility of immediate completion, there is no selection. In the Sarasvatya sacrifice, there is no establishment of Agni. Therefore, in other sacrifices, Agni is present.",
+      "hindi_translation": "अग्निष्षोडशिनि के मामले में, उस परिवर्तन में, वाजपेये का कोई उल्लेख नहीं है। तात्कालिक यज्ञों में, तात्कालिक पूर्णता की असंभवता के कारण, कोई चयन नहीं है। सारस्वती यज्ञ में, अग्नि की कोई स्थापना नहीं है। इसलिए, अन्य यज्ञों में, अग्नि उपस्थित है।"
+    },
+    {
+      "number": "10",
+      "sanskrit": "कामयेतेत्यनुवर्तते। क्रतुकामवद्यज्ञाङ्गकामोपि भवति। यज्ञाङ्गादौ वर्तमानो यज्ञाङ्गं प्रयुङ्क्ते। अतो यज्ञाङ्गफले सङ्कल्पस्तदादौ कर्तव्यः॥",
+      "english_translation": "It is said that one desires. The desire for the fruit of the sacrifice is present. The one who is present in the sacrificial limb uses the sacrificial limb. Therefore, the intention for the fruit of the sacrifice should be made at the beginning.",
+      "hindi_translation": "यह कहा गया है कि कोई इच्छा करता है। यज्ञ के फल की इच्छा मौजूद है। जो यज्ञ के अंग में उपस्थित है, वह यज्ञ के अंग का उपयोग करता है। इसलिए, यज्ञ के फल के लिए संकल्प प्रारंभ में किया जाना चाहिए।"
+    },
+    {
+      "number": "11",
+      "sanskrit": "यत्राल्पीयांसो मन्त्राः कर्माणि भूयांसि; यथा काम्यानामिष्टीनां 'उभा वामिन्द्राग्नि' 'इन्द्राग्नि नवतिं पुरः' इति याज्यानुवाक्यायुगळमाम्नातम्। 'ऐन्द्राग्नमेकादशकपालम्' इति षडाम्नातानि। तद्युगळद्वयं समशः प्रविभज्य कर्माणि च पूर्वेण युगळेन पूर्वाणि त्रीणि कारयेत्, उत्तरैरुत्तराणि।",
+      "english_translation": "Where the shorter mantras are more numerous; as in the case of the desired offerings, 'Both Indra and Agni' and 'Indra and Agni, ninety in front', this is the duality of the offerings. 'The Indra-Agni is one with eleven heads', this is the six dualities. Dividing that duality equally, the actions should be performed with the first duality in the first three, and with the later dualities in the later.",
+      "hindi_translation": "जहाँ छोटे मंत्र अधिक होते हैं; जैसे इच्छित बलियों के मामले में, 'दोनों इंद्र और अग्नि' और 'इंद्र और अग्नि, नब्बे आगे', यह बलियों की द्वैतता है। 'इंद्र-अग्नि एक ग्यारह सिर वाला है', यह छह द्वैत हैं। उस द्वैत को समान रूप से विभाजित करते हुए, क्रियाएँ पहले द्वैत के पहले तीन में और बाद के द्वैतों में बाद में की जानी चाहिए।"
+    },
+    {
+      "number": "12",
+      "sanskrit": "अग्नौ चतुर्दशौषधिवपनकर्माणि। 'या जाता ओषधयः' इति वपनार्था मन्त्रा बहवः। तत्रादितो मध्यतोन्ततो वा अव्यवहितैश्चतुर्दशभिर्मन्त्रैः प्रतिमन्त्रं प्रथमेन मन्त्रेण प्रथमवपनं द्वितीयेन द्वितीयमिति। एवं चतुर्दश वपनानि कुर्यात्।",
+      "english_translation": "In the fire, there are fourteen herbal planting actions. Many mantras are for planting, such as 'Those herbs that have gone'. There, from the beginning, from the middle, and from the end, with fourteen unbroken mantras, the first planting is done with the first mantra, the second with the second, and so on. Thus, fourteen plantings should be done.",
+      "hindi_translation": "अग्नि में, चौदह औषधीय रोपण क्रियाएँ होती हैं। रोपण के लिए कई मंत्र हैं, जैसे 'जो औषधियाँ गई हैं'। वहाँ, शुरुआत से, मध्य से, और अंत से, चौदह अव्यवहित मंत्रों के साथ, पहले मंत्र से पहला रोपण किया जाता है, दूसरे से दूसरा, और इसी तरह। इस प्रकार, चौदह रोपण किए जाने चाहिए।"
+    },
+    {
+      "number": "1",
+      "sanskrit": "यमिति। एवं चतुर्दश वपनानि कुर्यात्।",
+      "english_translation": "Thus, one should perform the fourteen offerings.",
+      "hindi_translation": "इस प्रकार, चौदह बलियों का अनुष्ठान करना चाहिए।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "अवशिष्टा विकल्पार्थाः प्रयोगान्तरेर्थवन्तः यथा यूपद्रव्याणि पलाशाद्याम्नातानि विकल्प्यन्ते पशुबन्धे।",
+      "english_translation": "The remaining options are to be considered in the context of the offerings, as the materials for the sacrificial post are selected from the Palasha tree.",
+      "hindi_translation": "शेष विकल्पों को बलि के संदर्भ में विचार किया जाना चाहिए, जैसे यज्ञ के लिए पलाश वृक्ष से सामग्री का चयन किया जाता है।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "जातिभेदे पशुजातिभेदे सौत्रामण्यादौ कुम्भ्यादि भिद्यते, प्रतिपशु कुम्भ्यादिभेदः।",
+      "english_translation": "In the case of different species of animals, the distinctions among them are made based on their types, such as the differences among the vessels.",
+      "hindi_translation": "पशुओं की विभिन्न जातियों के मामले में, उनके प्रकारों के आधार पर भेद किए जाते हैं, जैसे बर्तन के बीच भेद।"
+    },
+    {
+      "number": "4",
+      "sanskrit": "स्विष्टकृद्वनस्पतौ वनस्पतियागे या याज्यातस्यां देवतानिगमा देवतासङ्कीर्तनानि स्युः यद्यप्यनाम्नाता देवतानिगमाः।",
+      "english_translation": "In the case of the offering of plants, the deities invoked may be those of the plants, even if they are not named.",
+      "hindi_translation": "पौधों की बलि के मामले में, जो देवता आमंत्रित किए जाते हैं, वे पौधों के देवता हो सकते हैं, भले ही उनका नाम न लिया गया हो।"
+    },
+    {
+      "number": "5",
+      "sanskrit": "यदि सा दर्शपूर्णमासावारभमाणेन कर्तव्या स्यात् 'दर्शपूर्णमासावालभमानः' इति श्रुतिर्वृत्ता;",
+      "english_translation": "If it is to be performed at the beginning of the full moon, the scripture states, 'One who begins at the full moon...'",
+      "hindi_translation": "यदि इसे पूर्णिमा के आरंभ में किया जाना है, तो शास्त्र कहता है, 'जो पूर्णिमा पर आरंभ करता है...'"
+    },
+    {
+      "number": "1",
+      "sanskrit": "आमदग्न्ये चतूरात्रे, यथा च राजमार्गे रात्रौ कृतः प्रदीपः तत्काले भुञ्जानानामप्युपकरोति।",
+      "english_translation": "In the case of the fire of the Amadagnya, during the four nights, just as a lamp lit on the royal road at night benefits those who partake at that time.",
+      "hindi_translation": "आमदग्न्य की आग के मामले में, चार रातों में, जैसे रात में राजमार्ग पर जलाया गया दीपक उस समय भाग लेने वालों को लाभ पहुंचाता है।"
+    },
+    {
+      "number": "2",
+      "sanskrit": "एवं प्रकृत्यर्थे कृताऽन्वारम्भणीया तत्कालमध्यवर्तिनीनां विकृतीनामुपकरोति।",
+      "english_translation": "Similarly, the action performed for the purpose of nature benefits those who are present at that time in the case of modifications.",
+      "hindi_translation": "इसी प्रकार, प्रकृति के उद्देश्य से किया गया कार्य उन परिवर्तनों के मामले में उस समय उपस्थित लोगों को लाभ पहुंचाता है।"
+    },
+    {
+      "number": "3",
+      "sanskrit": "तस्मात् विकृतौ न स्यात् नानुष्ठेया॥",
+      "english_translation": "Therefore, in the case of modifications, there should not be any action performed.",
+      "hindi_translation": "इसलिए, परिवर्तनों के मामले में, कोई कार्य नहीं किया जाना चाहिए।"
+    },
+    {
+      "number": "",
+      "sanskrit": "ध्यरहितमेवोपकारं कल्पयित्वा तयोरन्यासां च विकृतीनां प्रयच्छतः। ततो विकृतिष्वन्वारम्भणीया न कर्तव्येति॥",
+      "english_translation": "Having conceived of the benefit that is devoid of distraction, and having given the offerings of the two (sacrifices) to the modifications, one should not commence any action in the modifications.",
+      "hindi_translation": "विक्षिप्तता से रहित लाभ की कल्पना करते हुए, और दो (यज्ञों) के भिन्नताओं को अर्पित करते हुए, किसी भी भिन्नता में कोई कार्य प्रारंभ नहीं करना चाहिए।"
+    },
+    {
+      "number": "21",
+      "sanskrit": "अर्थशब्दः प्रयोजनवाची। प्रयोजनं चाग्निसाध्यविहितकर्मानुष्ठानम्। तादर्थे चतुर्थी।",
+      "english_translation": "The word 'artha' denotes purpose. The purpose is the performance of the rituals prescribed for the fire. For that purpose, the fourth (sacrifice) is to be performed.",
+      "hindi_translation": "'अर्थ' शब्द का अर्थ है उद्देश्य। उद्देश्य अग्नि के लिए निर्धारित कर्मों का पालन करना है। उस उद्देश्य के लिए, चौथा (यज्ञ) किया जाना चाहिए।"
+    }
+  ]
+}
