@@ -44,3 +44,17 @@ Convention: `../../docs/STATE_MANAGEMENT.md`. Never edit past entries; supersede
 **What:** `git rm`'d `SamudrikShastra/` (→ Youvan) and `Hora/ThreeHundredImportantCombinationsRaman/` (excluded — English OCR, non-schema). Dropped `SamudrikShastra/` from the `CLAUDE.md` layout and removed `"samudrika"` from the `category` enum (no file ever used it). README metadata for both is preserved in git history. **Youvan scaffold deferred:** `Tushar/Youvan` is a Next.js website with no text-corpus structure (nearest is `app/concepts/palmistry/`) and currently has uncommitted work — form + timing is a Youvan-side decision, not blocking this repo.
 **Why:** Complete the scope call physically so the corpus contains only in-scope Jyotish texts. Avoided forcing a malformed scaffold into a dirty website repo.
 **Affects:** sanskrit-texts, Youvan
+
+## 2026-07-17: Corpus wiki + source-out-of-git policy + propagation flow
+**What:** (1) Added a generated corpus **wiki** — `scripts/gen_inventory.py` walks the tree and
+emits `docs/INVENTORY.md` (23 texts / 240 chapters, by category with links); `docs/README.md` is the
+wiki front page. Generated, never hand-edited — rerun the script after adding a text. (2) **Source-out-of-git
+policy:** canonical data is the per-chapter JSON; source scans (PDF, raw OCR `.txt`) are kept **local, not
+committed** — they bloat git and aren't the canonical form (the 4 already-tracked PDFs are stripped in the
+history-rewrite step; new ones gitignored). (3) **State-based propagation:** new root `.propagates.yml`
+declares `docs/INVENTORY.md` → astroacharya `reference.md` + `DATA_GAPS.md` — a text-level change fires a
+drift row so astroacharya's from-canon `@source` tracking never silently diverges from the corpus.
+**Why:** The corpus grows continuously; a hand-maintained inventory would rot, and downstream astroacharya
+canon had no automated signal when the corpus changed. Generate the catalog + declare one coarse
+producer→consumer edge (INVENTORY, not per-chapter — that would flood the ledger).
+**Affects:** sanskrit-texts, astroacharya
