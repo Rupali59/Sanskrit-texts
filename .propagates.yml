@@ -18,10 +18,10 @@ sources:
     propagates_to:
       - path: ../astroacharya/app/masters/hora_acharya/reference.md
         why: "New/renamed texts change what from-canon primitives can @source; reference.md is the canon tracker"
-        kind: data
+        kind: prose
       - path: ../astroacharya/app/masters/hora_acharya/DATA_GAPS.md
         why: "A newly-ingested text may close (or open) a canon gap for primitive implementers"
-        kind: data
+        kind: prose
     concepts:
       "§Corpus":
         - shloka
