@@ -58,3 +58,15 @@ drift row so astroacharya's from-canon `@source` tracking never silently diverge
 canon had no automated signal when the corpus changed. Generate the catalog + declare one coarse
 producer→consumer edge (INVENTORY, not per-chapter — that would flood the ledger).
 **Affects:** sanskrit-texts, astroacharya
+
+## 2026-07-17: Recategorize Hora into schools (backfilled 2026-08-12)
+**What:** Restructured the flat `Hora/<Text>/` layout into school-level subdirectories: `Hora/Parashari/` (BrihatJataka, BrihatParasharaHoraShastra, Chamatkarchintamani, Jatakaparijatah, JatakaTattvam, Laghujatakam, MinarajaYavanajataka, Phaladeepika, Saravali, SarvarthaChintamani, Shatpanchashika, UttaraKalamrita, VarahamihirDaivagnavallabh), `Hora/Nadi/` (Bhrigusootram), `Hora/Prashna/` (PrashnaMarga), `Hora/Jaimini/` (JaiminiSutras). ~194 file renames in commit `1cccca6`. Empty school branches not yet holding a digitized text (`Hora/Nadi/ChandraKalaNadi/`, `Hora/Jaimini/JaiminiSutras/`) were seeded with a `.placeholder` file so the school directory exists in git ahead of content. The same commit also ingested new digitized chapter stores and added the `Dharmashastra/` and `Muhurta/` category trees, and committed `scripts/digitize.py` + `scripts/translate.py`.
+**Why:** The flat `Hora/<Text>/` list conflated distinct predictive traditions (Parashari natal astrology, Nadi, Prashna/horary, Jaimini) that classical Jyotish treats as separate schools with different methodological assumptions. Grouping by school makes the corpus tree reflect the actual textual tradition and gives new Nadi/Jaimini/Prashna acquisitions an obvious home instead of flattening everything under one Hora bucket.
+**Consequence:** `CLAUDE.md`'s layout block and `text_id` registry still show the pre-restructure flat paths — every path in both tables is now wrong. Not fixed as part of this entry; tracked in `STATE.md` Pending.
+**Affects:** sanskrit-texts
+
+## 2026-08-10: Raw Dharmashastra source ingest ahead of chunking (backfilled 2026-08-12)
+**What:** Committed four raw Dharmashastra source texts unprocessed — `Dharmashastra/4605.txt`, `4607.txt`, `4609.txt`, `4617.txt` (commit `7fbfae1`). None are yet chunked into per-chapter JSON under the uniform schema. The same commit re-tagged two `hora_acharya` targets in `.propagates.yml` to `kind: prose`.
+**Why:** Follows the existing precedent set by `Dharmashastra/ManuSmriti/9048.txt` (also committed raw, ahead of its own chunking pass) — land the raw source text first so it's tracked and diffable, chunk into JSON on a later pass rather than blocking ingestion on immediate digitization.
+**Status:** Raw `.txt` files committed; chunking into `chapters/*.json` not yet done.
+**Affects:** sanskrit-texts

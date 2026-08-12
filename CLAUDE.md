@@ -128,4 +128,4 @@ Adopted the workspace state-system convention on 2026-06-09 (sixth and final sib
 - [`docs/DECISIONS.md`](./docs/DECISIONS.md) — append-only project-scoped decisions. Lives under `docs/` because `docs/` is tracked here.
 - [`TODO.md`](./TODO.md) — frozen 2026-06-09. Historical only; new items go to `STATE.md`.
 
-Convention reference: [`../docs/STATE_MANAGEMENT.md`](../docs/STATE_MANAGEMENT.md). Workspace-wide decisions live in `../docs/DECISIONS.md`; cross-project initiatives live in `../STATE.md` and `../TODOS.md` (legacy).
+Convention reference: [`../docs/conventions/STATE_MANAGEMENT.md`](../docs/conventions/STATE_MANAGEMENT.md). Workspace-wide decisions live in `../docs/DECISIONS.md`; cross-project initiatives live in `../STATE.md` and `../TODOS.md` (legacy).
