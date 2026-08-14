@@ -118,7 +118,7 @@ files had overlapping entries that inflated previous counts. Unique counts are a
 
 ## Code exploration
 
-This is a **JSON data corpus, not code** — the `code-review-graph` graph is empty here (0 nodes; nothing to parse), and its callers/impact/tests tools don't apply to data files. Use **Grep / Read / the Explore agent** directly. (The "graph-first" guidance in the parent/global `CLAUDE.md` is for the code-bearing siblings like astroacharya, not this repo.)
+This is a **JSON data corpus, not code** — the `code-review-graph` graph is empty here (0 nodes; nothing to parse), and its callers/impact/tests tools don't apply to data files. Use **Grep / Read / the Explore agent** directly. See `rule:tool-priority` for the general tool-priority ordering (it applies to code-bearing siblings like astroacharya; this repo has no code for it to index).
 
 ## State management
 
