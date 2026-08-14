@@ -122,10 +122,12 @@ This is a **JSON data corpus, not code** — the `code-review-graph` graph is em
 
 ## State management
 
-Adopted the workspace state-system convention on 2026-06-09 (sixth and final sibling). Three files:
+See `rule:state-and-decisions` (`../docs/conventions/STATE_MANAGEMENT.md` is the
+long-form convention). Adopted 2026-06-09 — sixth and final sibling.
 
-- [`STATE.md`](./STATE.md) at repo root — daily-open file. Now / Active / Pending / Completed / Linked plans. Subsumes the original `TODO.md` (now frozen with a banner).
-- [`docs/DECISIONS.md`](./docs/DECISIONS.md) — append-only project-scoped decisions. Lives under `docs/` because `docs/` is tracked here.
+- [`STATE.md`](./STATE.md) at repo root — subsumes the original `TODO.md` (now frozen with a banner).
+- [`docs/DECISIONS.md`](./docs/DECISIONS.md) — lives under `docs/` because `docs/` is tracked here.
 - [`TODO.md`](./TODO.md) — frozen 2026-06-09. Historical only; new items go to `STATE.md`.
 
-Convention reference: [`../docs/conventions/STATE_MANAGEMENT.md`](../docs/conventions/STATE_MANAGEMENT.md). Workspace-wide decisions live in `../docs/DECISIONS.md`; cross-project initiatives live in `../STATE.md` and `../TODOS.md` (legacy).
+Workspace-wide decisions live in `../docs/DECISIONS.md`; cross-project initiatives live
+in `../STATE.md` and `../TODOS.md` (legacy).
