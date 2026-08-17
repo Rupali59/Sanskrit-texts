@@ -1,6 +1,6 @@
 # sanskrit-texts — State
 
-Last updated: 2026-08-12
+Last updated: 2026-08-17
 
 Convention: `../docs/conventions/STATE_MANAGEMENT.md` (adopted 2026-06-09).
 Decisions: [`docs/DECISIONS.md`](./docs/DECISIONS.md) (project `docs/` is tracked).
@@ -21,7 +21,158 @@ Five commits on `main` since the last update (all 2026-07-17 except the last), c
 
 ## Now (in flight)
 
-- None.
+### 2026-08-17 — schema standardisation: 3 texts migrated, 3 stopped, and a bigger defect found
+
+**Migrated onto the uniform schema** (content preserved byte-for-byte, asserted field-by-field
+before writing; only names and structure changed):
+
+| File | Records | Change |
+|---|---:|---|
+| `Hora/Parashari/Saravali/chapters/SV_FULL.json` | 1,163 | `sutras[]`→`chapters[].shlokas[]`, `id "sv_N"`→`number N`, `category` `hora`→`parashari`, `meter` retained |
+| `Kalpa/Grhyasutra/Asvalayana/chapters/AGS_001.json` | 394 | same; `category: kalpa` |
+| `Muhurta/MuhurtaChintamani/chapters/MC_001.json` | 37 | added all four metadata fields + chapter `number`; **no Hindi → `status: "partial"`** |
+
+Corpus: **222 → 225 conformant files, 18,965 → 20,559 normalized shlokas** (+1,594, exactly the
+three files), off-schema 6,331 → 4,737. `hora` was the last stale category value and is gone;
+`CLAUDE.md`'s category enum was 4 values against 8 in the data and is corrected.
+
+**Stopped, deliberately — 14 files across 3 texts.** `manu_smriti` (12 files), Apastamba ×2.
+Their problem is **numbering, not schema**: keys collide with *distinct* content — `1.1.1`
+appears 24 times with 24 different sūtras, `1` appears 15 times with 15. `MS_001.json` claims
+chapter 1 but spans 1–5; `MS_012.json` contains a chapter "13" of a 12-chapter work. Converting
+them would yield schema-valid files that `seed_texts.py` then **silently truncates from 4,737
+records to 1,520**, because it deduplicates by `(chapter, shloka)` with later-file-wins. Fixing
+the numbering needs the source text and is a scholarly act. Not attempted.
+
+### ⚠ New, larger, and pre-existing: 2,873 shlokas never reach AstroAcharya
+
+Found by simulating `../astroacharya/scripts/seed_texts.py:92-94` against the **conformant**
+corpus — nothing to do with the migration:
+
+- **`brihat_samhita` 5500 present → 2771 ingested, 2,729 lost.**
+  `Varahmihir_brihatsamhita.json` and `Varahmihir_brihatsamhita2.json` are **two different
+  recensions of the same 106 chapters**, both numbered 1–106. 2,711 of 2,750 keys collide and
+  **2,575 of those hold different text.** One recension is discarded at ingest.
+- `bphs` −65 (the known chunk-boundary overlap the seeder documents), `jataka_parijata` −55
+  (was −63; 8 recovered, below), `laghu_jatakam` −14, `minaraja_yavana_jataka` −1,
+  `yajusha_jyotisham` −1.
+
+**Measured side by side, the brihat_samhita call is easy:** file 2 has 106 chapters to file
+1's 105 (it carries ch 38), and longer translations (avg English 193 vs 173). Both are fully
+en+hi. **File 2 is already the one kept** — `seed_texts.py:96` sorts filenames, later wins —
+so the corpus keeps its better text and discards the variant *by filename luck rather than by
+decision*. Either drop file 1 as superseded, or give it its own `text_id`.
+
+### Numbering repair — 12 candidates, 11 applied, 1 correctly refused
+
+Repaired only where the neighbours **force** the answer; 506 further disordered records were
+left alone, because a heuristic that fixes 2.5% is not a fix and inventing shloka numbers is
+worse than the defect.
+
+- 9 bare `"1/2"` half-shlokas → `"46 1/2"`, `"48 1/2"`, `"44 1/2"`, `"33 1/2"`, `"34 1/2"`,
+  `"88 1/2"`, `"91 1/2"`, `"94 1/2"` (JP_001/002/003/017). A bare `"1/2"` collides with every
+  other bare `"1/2"` in the chapter; the corpus already uses the `"N 1/2"` form.
+- 3 records in `JP_002` ch2 numbered 41,42,43 sat between 80 and 84 → **81,82,83**.
+- **1 refused by its own guard:** a `Varahmihir_brihatsamhita.json` ch97 change removed no
+  duplicate, so the invariant ("a repair must strictly reduce duplicate keys") rejected it.
+  It would have been an unjustified edit to the data. The guard also caught an earlier
+  invariant of mine that was too strict — it demanded zero duplicates, which trailing
+  colophons make impossible.
+
+**Colophons are left numbered as they are.** 8 records in `jataka_parijata` are chapter
+colophons ("इति श्री… अध्यायः प्रथमः") whose *chapter ordinal* was parsed as a shloka number,
+so 7 of them collide with a real shloka. They are not shlokas, the corpus has no convention
+for them, and inventing one is a decision, not a repair.
+
+Net: **17,686 → 17,694 shlokas reach ingestion**; 240 JSON files all still parse.
+
+**The registry's Shlokas column counts what is present, not what is ingestible.** Needs an
+editorial call: which recension is canonical, or does the second need its own `text_id`.
+Recorded in `CLAUDE.md`; the schema migration cannot fix it.
+
+Full astroacharya suite after the corpus change: **1001 passed**.
+
+
+### 2026-08-17 — corpus path map was dead in two places; fixed, and the coupling declared
+
+Commit `1cccca6` (2026-07-17) recategorised Hora into schools (~194 renames). **Two
+consumers restated those paths and neither followed**, for a month, with no drift row —
+because the coupling was never declared.
+
+- **`CLAUDE.md` text_id registry — 11 of 17 directories did not exist.** Every `Hora/` row.
+  All corrected against disk; `muhurta_chintamani` added; **23 of 23 paths now resolve.**
+- **`../astroacharya/scripts/list_sources.py` — `TEXT_ID_TO_PATH`, 9 of 10 paths dead.**
+  Corrected; 10/10 now resolve *and* contain shloka JSON. Its docstring `--canon-dir`
+  example also pointed at `../../Youvan/texts/`, a tree that no longer exists.
+- **Declared the edges** in `.propagates.yml`: `docs/INVENTORY.md` → `list_sources.py`
+  (`kind: code`) and → `CLAUDE.md` (`kind: prose`). INVENTORY is generated, so it moves on
+  exactly the changes that invalidate both. Both verified CLEAN.
+
+**Severity was friction, not a wrong answer.** `print_missing` exits 2 naming the directory
+rather than reporting "0 shlokas missing" — absence stayed attributable throughout.
+
+### `--missing` rewritten — and the second defect was NOT friction, it was a silent zero
+
+Fixing the paths exposed two further defects in `print_missing`, and **the severity call in
+the entry above was wrong for the second one**:
+
+1. **Filename-convention glob.** `canon_dir.glob(f"*_{chapter:03d}*.json")` matches only the
+   Siddhanta naming (`AB_001.json`). Hora uses `_chNN`, BPHS uses range-bundled files
+   (`BPHS0110.json` holds chapters 1–10), BrihatSamhita is single-file. So `--missing`
+   exited 2 for every Hora text.
+2. **It read `data.get("shlokas")` — top-level — while the normalized schema nests them
+   under `chapters[].shlokas[]`.** For `aryabhatiya:1`, the one family whose filenames the
+   glob *did* match, that returned an empty list and printed `missing: —` for a chapter
+   with **13 unimplemented shlokas**. A tool reporting full canon coverage because it never
+   looked is the S1 shape, not friction.
+
+**Fixed** by `chapter_records()` in `../astroacharya/scripts/list_sources.py`, which selects
+on `chapters[].number` and never on the filename, searches both the text dir and
+`chapters/`, and **raises rather than returning empty** for unreadable or off-schema files —
+a silent `[]` there reads as "canon fully implemented".
+
+**The first version of that fix had two silent defects of its own**, found by running it
+against real corpus data rather than fixtures, and both are now pinned:
+- It filtered shloka numbers on `isinstance(n, int)`, dropping `Jatakaparijatah`'s
+  **half-shlokas** (`"1/2"`, 6 files) — an undercount with no signal. They are now surfaced
+  in the output label as `[N unnumbered shloka(s) — not listed]`.
+- It matched chapters on `== chapter`, making `MinarajaYavanajataka`'s **variant chapters**
+  (`"24अ"`, `"63अ"`, `"63ब"`, 3 files) unreachable. They now match their base number and the
+  label discloses the suffix.
+
+Both are legitimate corpus conventions, not data defects — recorded so they are not
+"corrected" into breakage. A survey of every `chapters[]`-wrapped file found exactly **one**
+genuinely off-schema case, `Muhurta/MuhurtaChintamani/chapters/MC_001.json`, which
+`STATE.md` P1 already lists.
+
+Verified on real corpus data, not just fixtures:
+- `--missing BPHS:27` → found inside `BPHS2130.json`, **40 shlokas, 15 cited, 25 missing**.
+  Previously exit 2.
+- `aryabhatiya:1` → **13 missing**. Previously `missing: —`.
+
+`tests/test_list_sources_missing.py` (11 tests) pins all three filename conventions, the
+variant and half-shloka numberings, and the off-schema and unreadable cases. The guard was **mutated back to the top-level read** and 4
+tests went red including the one naming that defect; the mutation was asserted present in
+the file before running, and the restore verified by reading content rather than trusting
+the command. Full astroacharya suite: **997 passed**.
+
+### Two measurement errors I made and corrected — both worth keeping
+
+1. **"Five texts have zero shlokas / are not yet digitized" was wrong.** They are digitized
+   on the *pre-normalization* schema (top-level `sutras[]`/`shlokas[]`) — **6,294 shlokas**
+   my scanner could not see because it only read `chapters[].shlokas[]`. Caught by reading
+   **P1 below**, which had recorded Saravali's 1,163 sūtras all along; my independent count
+   now matches it exactly. A scanner that understands one schema reports the other as empty.
+2. **`muhurta_chintamani`: 206 shlokas present, 169 usable — and my first correction of
+   this was also wrong.** `MC_001.json` carries no `text_id`, so a `text_id`-keyed count
+   silently dropped its 37 and I "corrected" 169 to 206. But MC_001 is *off-schema*
+   (`sanskrit`/`english_translation`, string numbers, no chapter `number`), so its 37 are
+   not usable content and 169 was right for the normalized total all along. Both numbers
+   are true of different questions; the table now states both. Migration belongs to P1.
+
+Verified totals 2026-08-17: **18,965 normalized · 6,331 off-schema (6,294 whole-file + MC_001's 37) · 25,296 combined.** The
+registry's shloka counts and translation percentages were all **already correct** — only the
+Directory column, the one duplicating generated `docs/INVENTORY.md`, had rotted.
 
 ## Active initiatives
 

@@ -13,6 +13,13 @@
 #
 # Paths are relative to this file. Schema: ~/.claude/skills/propagate/propagates.schema.json
 
+# Ledger-owning root (added 2026-08-17). Own git repo, so rows land in
+# sanskrit-texts/docs/PROPAGATION_LEDGER.jsonl and commit with the change that
+# caused them, rather than in an untracked ledger a level up. Same call as
+# Keerti-portfolio and keerti-job-radar. node_id is derived from the git repo
+# root (lib/reconcile.mjs:82-87), so this churns no edge_id.
+workspace: true
+
 sources:
   docs/INVENTORY.md:
     propagates_to:
@@ -21,6 +28,19 @@ sources:
         kind: prose
       - path: ../astroacharya/app/masters/hora_acharya/DATA_GAPS.md
         why: "A newly-ingested text may close (or open) a canon gap for primitive implementers"
+        kind: prose
+      # Declared 2026-08-17, after finding both of these carried a stale copy of the
+      # corpus path map. Commit 1cccca6 (2026-07-17) recategorised Hora into schools
+      # — ~194 renames — and neither consumer followed: 9 of 10 paths in
+      # list_sources.py and 11 of 17 rows in CLAUDE.md pointed at directories that no
+      # longer existed, for a month, with no drift row because the coupling was never
+      # declared. INVENTORY.md is the generated manifest, so it moves on exactly the
+      # changes that invalidate these two.
+      - path: ../astroacharya/scripts/list_sources.py
+        why: "TEXT_ID_TO_PATH restates corpus paths; a recategorisation or rename breaks --missing for every affected text"
+        kind: code
+      - path: CLAUDE.md
+        why: "the text_id registry restates each text's directory; INVENTORY is the authority and this table is the copy that rots"
         kind: prose
     concepts:
       "§Corpus":

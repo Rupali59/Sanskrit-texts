@@ -28,14 +28,14 @@ From-canon Sanskrit shloka stores. Each text is chunked into per-chapter JSON un
 | Text | School | Chapters | Docs | Source held |
 |------|--------|---------:|------|-------------|
 | [`Aryabhatiya`](../Siddhanta/Aryabhatiya) | — | 4 | [README](../Siddhanta/Aryabhatiya/README.md) | — |
-| [`Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | — | 18 | [README](../Siddhanta/Panchasiddhantika/README.md) | pdf |
-| [`SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | — | 14 | [README](../Siddhanta/SuryaSiddhanta/README.md) | pdf |
+| [`Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | — | 18 | [README](../Siddhanta/Panchasiddhantika/README.md) | — |
+| [`SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | — | 14 | [README](../Siddhanta/SuryaSiddhanta/README.md) | — |
 
 ## Muhurta — Muhūrta — electional timing
 
 | Text | School | Chapters | Docs | Source held |
 |------|--------|---------:|------|-------------|
-| [`MuhurtaChintamani`](../Muhurta/MuhurtaChintamani) | — | 15 | [README](../Muhurta/MuhurtaChintamani/README.md) | pdf |
+| [`MuhurtaChintamani`](../Muhurta/MuhurtaChintamani) | — | 15 | [README](../Muhurta/MuhurtaChintamani/README.md) | — |
 
 ## Samhita — Saṃhitā — mundane / omens
 

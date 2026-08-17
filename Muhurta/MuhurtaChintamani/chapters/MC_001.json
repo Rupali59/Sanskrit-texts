@@ -1,195 +1,274 @@
 {
-    "chapters": [
+  "text_id": "muhurta_chintamani",
+  "title_sa": "मुहूर्तचिन्तामणिः",
+  "title_en": "Muhurta Chintamani",
+  "category": "muhurta",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Shubhashubha Prakaranam",
+      "title_en": "Auspicious and Inauspicious Times",
+      "shlokas": [
         {
-            "chapter_name": "Shubhashubha Prakaranam",
-            "chapter_name_english": "Auspicious and Inauspicious Times",
-            "shlokas": [
-                {
-                    "number": "11",
-                    "sanskrit": "तथा निं शमे सार्पं द्वादश्यां वैश्वमादिमे ॥",
-                    "english_translation": "Thus, the serpent is inauspicious on the twelfth day of the lunar fortnight, and the first day of the lunar month is ruled by Vishvadeva."
-                },
-                {
-                    "number": "12",
-                    "sanskrit": "अनुराधा दितीयायां पंचम्यां पित्र्यम तथा ।",
-                    "english_translation": "Anuradha is inauspicious on the second day, and Pitrya is inauspicious on the fifth day."
-                },
-                {
-                    "number": "13",
-                    "sanskrit": "इ्युत्तराश् तृतीयायामेकादस्यां च रोहिणी ॥",
-                    "english_translation": "Uttarashadha is inauspicious on the third day, and Rohini is inauspicious on the eleventh day."
-                },
-                {
-                    "number": "14",
-                    "sanskrit": "खातीचित्रे ्योदश्यां सप्तम्यां दस्तराक्षसे ।",
-                    "english_translation": "Krittika is inauspicious on the eighth day, and Hasta is inauspicious on the seventh day."
-                },
-                {
-                    "number": "15",
-                    "sanskrit": "नवम्यां कृत्तिकाऽ््टम्यां पूभा षष्ठयां च रोहिणी ॥",
-                    "english_translation": "Krittika is inauspicious on the ninth day, and Rohini is inauspicious on the sixth day."
-                },
-                {
-                    "number": "16",
-                    "sanskrit": "घटो क्षपो ओोमिंधुनं मेषकन्यारितोलिनः ।",
-                    "english_translation": "The signs Aquarius, Pisces, Taurus, Gemini, Aries, Virgo, and Scorpio are inauspicious."
-                },
-                {
-                    "number": "17",
-                    "sanskrit": "धलुः कर्को खगः सिंहभैत्रादौ शन्यराश्चयः ॥",
-                    "english_translation": "Sagittarius, Cancer, Capricorn, Leo, and Libra are inauspicious."
-                },
-                {
-                    "number": "18",
-                    "sanskrit": "यक्षादितस्त्वोजतिथौ धदैणौ खगेद्रनक्रौ मिथुनांगने च ।",
-                    "english_translation": "Yaksha and others are inauspicious on odd lunar days, and Capricorn and others are inauspicious in Gemini and Virgo."
-                },
-                {
-                    "number": "19",
-                    "sanskrit": "चापेन्दुमे कर्करी हयांलै लयौ च नेष्टे तिथिशल्यलमर ।",
-                    "english_translation": "In Sagittarius, Cancer, and Pisces, the lunar days are inauspicious."
-                },
-                {
-                    "number": "20",
-                    "sanskrit": "वज॑येत्सर्वकायैषु हस्तां पंचमीतिथौ ।",
-                    "english_translation": "Avoid the Hasta nakshatra on the fifth lunar day for all activities."
-                },
-                {
-                    "number": "21",
-                    "sanskrit": "मौमाश्िनीं च स्षम्यां ष्चां व्रदवं तथा ॥",
-                    "english_translation": "Avoid the Ashwini nakshatra on the seventh lunar day and the Revati nakshatra on the sixth lunar day."
-                },
-                {
-                    "number": "22",
-                    "sanskrit": "बुधादुराधामष्टम्यां दशम्यां भगुरेवतीम्‌ ।",
-                    "english_translation": "Avoid Anuradha on the eighth lunar day and Revati on the tenth lunar day."
-                },
-                {
-                    "number": "23",
-                    "sanskrit": "नवम्यां गुरुपुष्यं चेकादश्यां शनिरोदिणीम्‌ ॥",
-                    "english_translation": "Avoid Guru Pushya on the ninth lunar day and Shani Rohini on the eleventh lunar day."
-                },
-                {
-                    "number": "24",
-                    "sanskrit": "आनंदाख्यः कारदंडश्च धूम्रो धाता सौम्यो ध्वांश्चकेत क्रमेण ।",
-                    "english_translation": "The auspicious yogas are Anand, Karadanda, Dhuma, Dhata, Saumya, and Dhvaja in sequence."
-                },
-                {
-                    "number": "25",
-                    "sanskrit": "श्रीवत्सारूयो वज्रकं दधर्थ छत्रं मित्रं मानसं पग्रडंबौ ॥",
-                    "english_translation": "The auspicious yogas are Shreevatsa, Vajra, Dadhartha, Chhatra, Mitra, and Manasa in sequence."
-                },
-                {
-                    "number": "26",
-                    "sanskrit": "ध्वांक्षे वजे शद्रे वेषुनाव्यो वर्ज्या वेदाः पदमवे गदेऽशाः। धूम्रे काणे मौसले भूदं दे रोमलयुतयातकालाश्च सव ॥",
-                    "english_translation": "In Dhvanksha, Vajra, Shadra, and Veshuna, the initial moments are to be avoided. In Padma and Amala, four ghatis are to be avoided. Similarly, in Gada, Ashva, and Dhuma, one ghati each is to be avoided. In Kaana, two ghatis, and in Saumya, sixty ghatis are to be avoided."
-                },
-                {
-                    "number": "27",
-                    "sanskrit": "सूर्यभारेदगोतकदिग्बिश्चनखसंमिते। चंद्रं रवियोगाः स्यर्दोषसंघविनारशकाः ॥",
-                    "english_translation": "When the Sun is in a certain constellation, and the Moon is in the constellation that is fourth, sixth, ninth, or tenth from it, the Ravi Yogas occur, which are free from the group of defects."
-                },
-                {
-                    "number": "28",
-                    "sanskrit": "घर्यऽकमूरोत्तरपुष्यदासं चद शतिन्रादराशीज्यभेवरम्‌। भौमश्यदि ध्यकृशायुसा ज्ञ नाह्मैत्रार्कङ़शालुचान्द्रम्‌॥",
-                    "english_translation": "On Sunday, the constellations Hasta, Mula, Uttara, Pushya, Ashvini, and Shatabhisha are auspicious. On Tuesday, the constellations Ashvini, Krittika, and Shravana are auspicious."
-                },
-                {
-                    "number": "29",
-                    "sanskrit": "जीर्ेऽलय त्राश्यदितीज्यधिष्ण्यं क्ऽखभाग्याश्चयदितिश्रवोभम्‌ शनौ श्वतित्राहसमीरभानि सवौरथसिदरथै कथितानि पूर्वैः ॥",
-                    "english_translation": "On Thursday, the constellations Revati, Anuradha, and Shravana are auspicious. On Saturday, the constellations Shravana, Rohini, and Swati are auspicious, as stated by the ancients."
-                },
-                {
-                    "number": "30",
-                    "sanskrit": "दीञात्तोयाद्ासवात्पौष्णभाच ब्राह्यातपुष्यादयमक्षीदुगर्भैः। स्यादुत्पातो गत्युकाणौ च सिद्धिवौरेऽकचे तत्फलं नामतुख्यम्‌ ॥",
-                    "english_translation": "From the constellations Vishakha, Purvashadha, Dhanishta, Revati, Rohini, and Uttaraphalguni, starting from the respective days, arise the Utpata, Gati, and Kana Yogas, which are considered inauspicious."
-                },
-                {
-                    "number": "31",
-                    "sanskrit": "इयोगास्तिथिवारोत्थासिथिभोत्था भवारजाः। हृणवंगखरोष्वेव बज्याखितयजास्तथा ॥",
-                    "english_translation": "The Yogas arising from the combination of tithi and day, and those arising from the combination of tithi and constellation, are considered inauspicious in the regions of Huna, Vanga, and Kharoshtra."
-                },
-                {
-                    "number": "32",
-                    "sanskrit": "सर्वसिन्विधुपापयुक्तलुलवावथे निशादयो्ैटी-यंशं वै नवांशकं श्हणतः पूरं दिनानां बयम्‌। उत्पातग्रहतोऽन्यहां् छभदोत्पातेश्च दुष्टं दिनं प्ण्मासं ग्रहभिन्नमं यज शुभे योद्धं तथोत्पातमम्‌॥",
-                    "english_translation": "Avoid all activities during the time when the Moon is afflicted by malefic planets, during lunar and solar eclipses, and when there are ominous planetary positions. Avoid the first three days after an eclipse and the days when there are celestial disturbances."
-                },
-                {
-                    "number": "1",
-                    "sanskrit": "उत्पातैः पीडितास्ताराः षण्मासैः प्रकृतिं ययुः। राहुकेतुवियुक्तं यदक्षचक्रं निपीडितम्‌॥",
-                    "english_translation": "Stars afflicted by omens return to their natural state in six months. The zodiac, when free from Rahu and Ketu, is afflicted."
-                },
-                {
-                    "number": "2",
-                    "sanskrit": "वत्सरार्धेन शुध्येत ग्रहयुद्धगतं च भम्‌। नक्षत्रग्रहयोगेन यदुक्तं दोषसंचयम्‌॥",
-                    "english_translation": "The blemish caused by planetary war is purified in half a year. The faults accumulated by the conjunction of stars and planets are mentioned."
-                },
-                {
-                    "number": "3",
-                    "sanskrit": "आसन्नक्रमयोगाद्वेदोलेखांमर्दनासभ्यैः। युद्धं चतुष्प्रकारं परादाराधिमुनिभिरुक्तम्‌॥",
-                    "english_translation": "Due to the proximity of conjunctions, four types of conflicts are described by sages as Vedolekha, Mardana, and Asabya."
-                },
-                {
-                    "number": "4",
-                    "sanskrit": "नेष्टं दक्ष सकलार्थपादग्रासे करमात्तकगुर्णेुमासान्‌। पूरं परस्तादुभयोखिषखा ग्रसतेऽस्तगे बाभ्युदितेऽथसंडे॥",
-                    "english_translation": "Unfavorable are the months when the moon is eclipsed in the eastern or western horizon, or when it is partially or fully eclipsed."
-                },
-                {
-                    "number": "5",
-                    "sanskrit": "जन्मर्धमासतिथयो व्यतिपातमद्रा-वैश्रयमापिर्दिनानि तिथिक्षयद्धौ। न्युनाधिमासङ्रिकग्रहरा्धपाता विष्कंमवजघटिकात्रयमेव वर्ज्यम्‌॥",
-                    "english_translation": "Birth star, month, and tithi, Vyatipata, Bhadra, Vishkambha, and Parigha are to be avoided. Also, the days of tithi loss, intercalary months, and planetary conjunctions are to be avoided."
-                },
-                {
-                    "number": "6",
-                    "sanskrit": "परिषां पंच शूले षद्‌ च गंडातिगंडयोः। व्याघाते नव नाड्यश्च वज्यौः सर्वेषु कर्मसु॥",
-                    "english_translation": "Five nadiyas in Parigha, six in Ganda and Atiganda, and nine in Vyaghata are to be avoided in all activities."
-                },
-                {
-                    "number": "7",
-                    "sanskrit": "वेदागाटनवर्वदरपक्षरन्धतिथौ त्यजेत्‌। वखंकमलुत्ाशाशरा नाडीः पराः शमाः॥",
-                    "english_translation": "In the tithis of Chaturthi, Shashti, Ashtami, Navami, Dvadashi, and Chaturdashi, avoid the first few nadis as prescribed."
-                },
-                {
-                    "number": "37",
-                    "sanskrit": "लिकः काटवेरा च यमघण्टश्च कंटकः। वाराधिमे क्रमान्मन्दे बुधे जीवे च क्षणः॥",
-                    "english_translation": "The planets Saturn, Mercury, and Jupiter are associated with the malefic influences of Lika, Katavera, Yamaghanta, and Kantaka respectively."
-                },
-                {
-                    "number": "38",
-                    "sanskrit": "सूर्ये यमघण्टकः कारवेलः सोमवारे कुलिकः। मङ्गले कंटकः बुधे यमघण्टकः॥",
-                    "english_translation": "On Sunday, Yamaghanta; on Monday, Kulika; on Tuesday, Kantaka; and on Wednesday, Yamaghanta are considered inauspicious."
-                },
-                {
-                    "number": "39",
-                    "sanskrit": "गुरौ कारवेलः शुक्रे यमघण्टकः शनौ कंटकः। एते दोषाः प्रकीर्तिताः सर्वेषु दिनेषु॥",
-                    "english_translation": "On Thursday, Karavela; on Friday, Yamaghanta; and on Saturday, Kantaka are the inauspicious times mentioned for all days."
-                },
-                {
-                    "number": "40",
-                    "sanskrit": "विपादेरावतीतीरे शल्याश्च त्रिपुष्करे। विवाहादिदिने नेष्टं होलिकाप्राग्दिनाष्टकम्॥",
-                    "english_translation": "In the regions of Vipasha and Iravati, and at the three Pushkaras, the eight days before Holika are not auspicious for marriage and other ceremonies."
-                },
-                {
-                    "number": "41",
-                    "sanskrit": "सृत्यक्रकचदग्धादीनिंदौ शस्ते शुमाज्ञगुः। केचिच्छामोत्तरं चान्ये यात्रायामेव निंदितान्॥",
-                    "english_translation": "Some sages consider the inauspicious times like Srita, Krakata, and Dagdha as auspicious when the moon is favorable, while others only consider them inauspicious for travel."
-                },
-                {
-                    "number": "42",
-                    "sanskrit": "अयोगे सुयोगोऽपि चेत्खात्तदानीं सयोगं निहत्यैष सिद्धिं तनोति।",
-                    "english_translation": "Even if there is an inauspicious time, if a favorable time coincides, it can negate the inauspiciousness and lead to success."
-                },
-                {
-                    "number": "43",
-                    "sanskrit": "शङ पूौर्थऽटमीपंचदक्योभेदरैकादश्यां चतुध्या परार्धं।",
-                    "english_translation": "The Bhadra occurs in the first half of the fourth, eighth, and fifteenth days, and in the latter half of the eleventh and fourth days."
-                },
-                {
-                    "number": "44",
-                    "sanskrit": "पंचदयद्विकृताष्टगामरसभूयामादिषय्यः।",
-                    "english_translation": "The Bhadra is auspicious in the first five nadis of the fourth, eighth, and fifteenth days, and in the latter half of the eleventh and fourth days."
-                }
-            ]
+          "number": 11,
+          "text": "तथा निं शमे सार्पं द्वादश्यां वैश्वमादिमे ॥",
+          "english": "Thus, the serpent is inauspicious on the twelfth day of the lunar fortnight, and the first day of the lunar month is ruled by Vishvadeva.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 12,
+          "text": "अनुराधा दितीयायां पंचम्यां पित्र्यम तथा ।",
+          "english": "Anuradha is inauspicious on the second day, and Pitrya is inauspicious on the fifth day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 13,
+          "text": "इ्युत्तराश् तृतीयायामेकादस्यां च रोहिणी ॥",
+          "english": "Uttarashadha is inauspicious on the third day, and Rohini is inauspicious on the eleventh day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 14,
+          "text": "खातीचित्रे ्योदश्यां सप्तम्यां दस्तराक्षसे ।",
+          "english": "Krittika is inauspicious on the eighth day, and Hasta is inauspicious on the seventh day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 15,
+          "text": "नवम्यां कृत्तिकाऽ््टम्यां पूभा षष्ठयां च रोहिणी ॥",
+          "english": "Krittika is inauspicious on the ninth day, and Rohini is inauspicious on the sixth day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 16,
+          "text": "घटो क्षपो ओोमिंधुनं मेषकन्यारितोलिनः ।",
+          "english": "The signs Aquarius, Pisces, Taurus, Gemini, Aries, Virgo, and Scorpio are inauspicious.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 17,
+          "text": "धलुः कर्को खगः सिंहभैत्रादौ शन्यराश्चयः ॥",
+          "english": "Sagittarius, Cancer, Capricorn, Leo, and Libra are inauspicious.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 18,
+          "text": "यक्षादितस्त्वोजतिथौ धदैणौ खगेद्रनक्रौ मिथुनांगने च ।",
+          "english": "Yaksha and others are inauspicious on odd lunar days, and Capricorn and others are inauspicious in Gemini and Virgo.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 19,
+          "text": "चापेन्दुमे कर्करी हयांलै लयौ च नेष्टे तिथिशल्यलमर ।",
+          "english": "In Sagittarius, Cancer, and Pisces, the lunar days are inauspicious.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 20,
+          "text": "वज॑येत्सर्वकायैषु हस्तां पंचमीतिथौ ।",
+          "english": "Avoid the Hasta nakshatra on the fifth lunar day for all activities.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 21,
+          "text": "मौमाश्िनीं च स्षम्यां ष्चां व्रदवं तथा ॥",
+          "english": "Avoid the Ashwini nakshatra on the seventh lunar day and the Revati nakshatra on the sixth lunar day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 22,
+          "text": "बुधादुराधामष्टम्यां दशम्यां भगुरेवतीम्‌ ।",
+          "english": "Avoid Anuradha on the eighth lunar day and Revati on the tenth lunar day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 23,
+          "text": "नवम्यां गुरुपुष्यं चेकादश्यां शनिरोदिणीम्‌ ॥",
+          "english": "Avoid Guru Pushya on the ninth lunar day and Shani Rohini on the eleventh lunar day.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 24,
+          "text": "आनंदाख्यः कारदंडश्च धूम्रो धाता सौम्यो ध्वांश्चकेत क्रमेण ।",
+          "english": "The auspicious yogas are Anand, Karadanda, Dhuma, Dhata, Saumya, and Dhvaja in sequence.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 25,
+          "text": "श्रीवत्सारूयो वज्रकं दधर्थ छत्रं मित्रं मानसं पग्रडंबौ ॥",
+          "english": "The auspicious yogas are Shreevatsa, Vajra, Dadhartha, Chhatra, Mitra, and Manasa in sequence.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 26,
+          "text": "ध्वांक्षे वजे शद्रे वेषुनाव्यो वर्ज्या वेदाः पदमवे गदेऽशाः। धूम्रे काणे मौसले भूदं दे रोमलयुतयातकालाश्च सव ॥",
+          "english": "In Dhvanksha, Vajra, Shadra, and Veshuna, the initial moments are to be avoided. In Padma and Amala, four ghatis are to be avoided. Similarly, in Gada, Ashva, and Dhuma, one ghati each is to be avoided. In Kaana, two ghatis, and in Saumya, sixty ghatis are to be avoided.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 27,
+          "text": "सूर्यभारेदगोतकदिग्बिश्चनखसंमिते। चंद्रं रवियोगाः स्यर्दोषसंघविनारशकाः ॥",
+          "english": "When the Sun is in a certain constellation, and the Moon is in the constellation that is fourth, sixth, ninth, or tenth from it, the Ravi Yogas occur, which are free from the group of defects.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 28,
+          "text": "घर्यऽकमूरोत्तरपुष्यदासं चद शतिन्रादराशीज्यभेवरम्‌। भौमश्यदि ध्यकृशायुसा ज्ञ नाह्मैत्रार्कङ़शालुचान्द्रम्‌॥",
+          "english": "On Sunday, the constellations Hasta, Mula, Uttara, Pushya, Ashvini, and Shatabhisha are auspicious. On Tuesday, the constellations Ashvini, Krittika, and Shravana are auspicious.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 29,
+          "text": "जीर्ेऽलय त्राश्यदितीज्यधिष्ण्यं क्ऽखभाग्याश्चयदितिश्रवोभम्‌ शनौ श्वतित्राहसमीरभानि सवौरथसिदरथै कथितानि पूर्वैः ॥",
+          "english": "On Thursday, the constellations Revati, Anuradha, and Shravana are auspicious. On Saturday, the constellations Shravana, Rohini, and Swati are auspicious, as stated by the ancients.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 30,
+          "text": "दीञात्तोयाद्ासवात्पौष्णभाच ब्राह्यातपुष्यादयमक्षीदुगर्भैः। स्यादुत्पातो गत्युकाणौ च सिद्धिवौरेऽकचे तत्फलं नामतुख्यम्‌ ॥",
+          "english": "From the constellations Vishakha, Purvashadha, Dhanishta, Revati, Rohini, and Uttaraphalguni, starting from the respective days, arise the Utpata, Gati, and Kana Yogas, which are considered inauspicious.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 31,
+          "text": "इयोगास्तिथिवारोत्थासिथिभोत्था भवारजाः। हृणवंगखरोष्वेव बज्याखितयजास्तथा ॥",
+          "english": "The Yogas arising from the combination of tithi and day, and those arising from the combination of tithi and constellation, are considered inauspicious in the regions of Huna, Vanga, and Kharoshtra.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 32,
+          "text": "सर्वसिन्विधुपापयुक्तलुलवावथे निशादयो्ैटी-यंशं वै नवांशकं श्हणतः पूरं दिनानां बयम्‌। उत्पातग्रहतोऽन्यहां् छभदोत्पातेश्च दुष्टं दिनं प्ण्मासं ग्रहभिन्नमं यज शुभे योद्धं तथोत्पातमम्‌॥",
+          "english": "Avoid all activities during the time when the Moon is afflicted by malefic planets, during lunar and solar eclipses, and when there are ominous planetary positions. Avoid the first three days after an eclipse and the days when there are celestial disturbances.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 1,
+          "text": "उत्पातैः पीडितास्ताराः षण्मासैः प्रकृतिं ययुः। राहुकेतुवियुक्तं यदक्षचक्रं निपीडितम्‌॥",
+          "english": "Stars afflicted by omens return to their natural state in six months. The zodiac, when free from Rahu and Ketu, is afflicted.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 2,
+          "text": "वत्सरार्धेन शुध्येत ग्रहयुद्धगतं च भम्‌। नक्षत्रग्रहयोगेन यदुक्तं दोषसंचयम्‌॥",
+          "english": "The blemish caused by planetary war is purified in half a year. The faults accumulated by the conjunction of stars and planets are mentioned.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 3,
+          "text": "आसन्नक्रमयोगाद्वेदोलेखांमर्दनासभ्यैः। युद्धं चतुष्प्रकारं परादाराधिमुनिभिरुक्तम्‌॥",
+          "english": "Due to the proximity of conjunctions, four types of conflicts are described by sages as Vedolekha, Mardana, and Asabya.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 4,
+          "text": "नेष्टं दक्ष सकलार्थपादग्रासे करमात्तकगुर्णेुमासान्‌। पूरं परस्तादुभयोखिषखा ग्रसतेऽस्तगे बाभ्युदितेऽथसंडे॥",
+          "english": "Unfavorable are the months when the moon is eclipsed in the eastern or western horizon, or when it is partially or fully eclipsed.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 5,
+          "text": "जन्मर्धमासतिथयो व्यतिपातमद्रा-वैश्रयमापिर्दिनानि तिथिक्षयद्धौ। न्युनाधिमासङ्रिकग्रहरा्धपाता विष्कंमवजघटिकात्रयमेव वर्ज्यम्‌॥",
+          "english": "Birth star, month, and tithi, Vyatipata, Bhadra, Vishkambha, and Parigha are to be avoided. Also, the days of tithi loss, intercalary months, and planetary conjunctions are to be avoided.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 6,
+          "text": "परिषां पंच शूले षद्‌ च गंडातिगंडयोः। व्याघाते नव नाड्यश्च वज्यौः सर्वेषु कर्मसु॥",
+          "english": "Five nadiyas in Parigha, six in Ganda and Atiganda, and nine in Vyaghata are to be avoided in all activities.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 7,
+          "text": "वेदागाटनवर्वदरपक्षरन्धतिथौ त्यजेत्‌। वखंकमलुत्ाशाशरा नाडीः पराः शमाः॥",
+          "english": "In the tithis of Chaturthi, Shashti, Ashtami, Navami, Dvadashi, and Chaturdashi, avoid the first few nadis as prescribed.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 37,
+          "text": "लिकः काटवेरा च यमघण्टश्च कंटकः। वाराधिमे क्रमान्मन्दे बुधे जीवे च क्षणः॥",
+          "english": "The planets Saturn, Mercury, and Jupiter are associated with the malefic influences of Lika, Katavera, Yamaghanta, and Kantaka respectively.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 38,
+          "text": "सूर्ये यमघण्टकः कारवेलः सोमवारे कुलिकः। मङ्गले कंटकः बुधे यमघण्टकः॥",
+          "english": "On Sunday, Yamaghanta; on Monday, Kulika; on Tuesday, Kantaka; and on Wednesday, Yamaghanta are considered inauspicious.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 39,
+          "text": "गुरौ कारवेलः शुक्रे यमघण्टकः शनौ कंटकः। एते दोषाः प्रकीर्तिताः सर्वेषु दिनेषु॥",
+          "english": "On Thursday, Karavela; on Friday, Yamaghanta; and on Saturday, Kantaka are the inauspicious times mentioned for all days.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 40,
+          "text": "विपादेरावतीतीरे शल्याश्च त्रिपुष्करे। विवाहादिदिने नेष्टं होलिकाप्राग्दिनाष्टकम्॥",
+          "english": "In the regions of Vipasha and Iravati, and at the three Pushkaras, the eight days before Holika are not auspicious for marriage and other ceremonies.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 41,
+          "text": "सृत्यक्रकचदग्धादीनिंदौ शस्ते शुमाज्ञगुः। केचिच्छामोत्तरं चान्ये यात्रायामेव निंदितान्॥",
+          "english": "Some sages consider the inauspicious times like Srita, Krakata, and Dagdha as auspicious when the moon is favorable, while others only consider them inauspicious for travel.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 42,
+          "text": "अयोगे सुयोगोऽपि चेत्खात्तदानीं सयोगं निहत्यैष सिद्धिं तनोति।",
+          "english": "Even if there is an inauspicious time, if a favorable time coincides, it can negate the inauspiciousness and lead to success.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 43,
+          "text": "शङ पूौर्थऽटमीपंचदक्योभेदरैकादश्यां चतुध्या परार्धं।",
+          "english": "The Bhadra occurs in the first half of the fourth, eighth, and fifteenth days, and in the latter half of the eleventh and fourth days.",
+          "hindi": "",
+          "status": "partial"
+        },
+        {
+          "number": 44,
+          "text": "पंचदयद्विकृताष्टगामरसभूयामादिषय्यः।",
+          "english": "The Bhadra is auspicious in the first five nadis of the fourth, eighth, and fifteenth days, and in the latter half of the eleventh and fourth days.",
+          "hindi": "",
+          "status": "partial"
         }
-    ]
+      ]
+    }
+  ]
 }
