@@ -11,6 +11,7 @@ The corpus is the PRODUCER; astroacharya's from-canon compute is the CONSUMER
 propagation watcher flags downstream canon that may need reconciling.
 """
 from __future__ import annotations
+import json
 import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -40,10 +41,21 @@ def find_texts(cat: str):
     texts = []
     for tdir in tdirs:
         chdir = tdir / "chapters"
-        if chdir.is_dir() and any(chdir.glob("*.json")):
-            n = len(list(chdir.glob("*.json")))
-        else:
-            n = len(list(tdir.glob("*.json")))
+        srcdir = chdir if (chdir.is_dir() and any(chdir.glob("*.json"))) else tdir
+        # Count CHAPTERS, not files. Until 2026-08-17 this counted *.json and labelled the
+        # column "Chapters", which was invisibly wrong while most texts happened to be one
+        # file per chapter — and became plainly wrong when BPHS was consolidated from 11
+        # chunks into one file and reported "1" for a 97-chapter work.
+        n = 0
+        for jf in sorted(srcdir.glob("*.json")):
+            try:
+                data = json.loads(jf.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                n += 1  # unreadable: count the file, never silently zero
+                continue
+            chapters = data.get("chapters")
+            # off-schema files (top-level sutras[]/shlokas[]) carry one chapter block
+            n += len(chapters) if isinstance(chapters, list) else 1
         rel = tdir.relative_to(ROOT)
         parts = rel.parts  # ("Hora","Parashari","BrihatJataka")
         school = "/".join(parts[1:-1]) or "—"
@@ -76,7 +88,7 @@ def main():
                "JSON under `chapters/`. This is the **producer**; astroacharya's from-canon "
                "compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) "
                "and [propagation flow](#state-based-propagation-flow).\n")
-    out.append(f"**Totals:** {n_texts} texts · {n_ch} chapter files · "
+    out.append(f"**Totals:** {n_texts} texts · {n_ch} chapters · "
                f"{sum(1 for c in rows_by_cat if rows_by_cat[c])} live categories.\n")
 
     for cat, label in CATEGORIES:

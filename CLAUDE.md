@@ -14,7 +14,7 @@ AstroAcharya seeds this data into MongoDB and queries it via a `/texts` API. The
 
 ```
 Hora/                          Natal astrology texts
-  BrihatParasharaHoraShastra/  BPHS0110.json … BPHS9197.json  (11 chunks, ~3932 shlokas)
+  BrihatParasharaHoraShastra/  BrihatParasharaHoraShastra.json + .md  (97 chapters, 3937 shlokas)
   BrihatJataka/chapters/       brihmajjataka_ch01…28.json
   Bhrigusootram/chapters/      bhrigustrotram_ch01…08.json
   Chamatkarchintamani/chapters/ CC_001…010.json
@@ -48,7 +48,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
   "text_id": "bphs",
   "title_sa": "बृहत्पाराशरहोराशास्त्रम्",
   "title_en": "Brihat Parashara Hora Shastra",
-  "category": "hora",
+  "category": "parashari",
   "chapters": [
     {
       "number": 1,
@@ -78,24 +78,14 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 ## text_id registry
 
-> **Paths corrected 2026-08-17; every row re-derived from the chapter JSON.** All eleven
-> `Hora/` paths were dead — commit `1cccca6` (2026-07-17) recategorised Hora into schools
-> (~194 renames) and this table did not follow. The **shloka counts and translation
-> percentages were all correct** and are unchanged; only the Directory column had rotted,
-> which is the column that duplicates the generated `docs/INVENTORY.md`. The same stale map
-> also lived in `../astroacharya/scripts/list_sources.py` and was fixed in the same pass.
->
-> `docs/INVENTORY.md` is **generated** (`scripts/gen_inventory.py`) and is the authority on
-> paths and layout. This table exists only for what INVENTORY does not emit: `text_id`
-> (which is also stamped inside every chapter JSON), shloka counts and translation state.
-> **When they disagree, INVENTORY is right.**
->
-> Note the layout is not uniform: some texts hold their JSON **directly** in the text
-> directory, others under `chapters/`. The trailing path segment below reflects the real one.
+> **Corrected 2026-08-17 — every row re-derived from the JSON** (11 of 17 `Hora/` paths were
+> dead after `1cccca6`). `docs/INVENTORY.md` is **generated** and is the authority on paths;
+> this table holds only what it does not emit — `text_id`, counts, translation state. **When
+> they disagree, INVENTORY is right.** Some texts hold JSON directly, others under `chapters/`.
 
 | text_id | Directory | Shlokas | Translation |
 |---------|-----------|---------|-------------|
-| `bphs` | Hora/Parashari/BrihatParasharaHoraShastra/ | 3932 | 100% |
+| `bphs` | Hora/Parashari/BrihatParasharaHoraShastra/ | 3937 | 99.9% ⚑ |
 | `brihat_jataka` | Hora/Parashari/BrihatJataka/chapters/ | 409 | 100% |
 | `bhrigu_sutram` | Hora/Nadi/Bhrigusootram/chapters/ | 568 | 100% |
 | `chamatkar_chintamani` | Hora/Parashari/Chamatkarchintamani/chapters/ | 112 | 100% |
@@ -116,80 +106,44 @@ Every `.json` file in this repo uses this schema — no exceptions:
 | `panchasiddhantika` | Siddhanta/Panchasiddhantika/chapters/ | 166 | 100% |
 | `surya_siddhanta` | Siddhanta/SuryaSiddhanta/chapters/ | 272 | 100% |
 
-**21 texts on the normalized schema · 20,559 shlokas**, derived 2026-08-17 by walking every
-JSON and counting `chapters[].shlokas[]`. Three texts were migrated onto the schema that day
-(`saravali` 1,163, `asvalayana_grhya_sutra` 394, `MuhurtaChintamani`'s `MC_001` 37) — content
-preserved byte-for-byte, only field names and structure changed.
+**21 texts on the normalized schema · 20,564 shlokas.** Rationale for every figure below:
+`docs/DECISIONS.md`, three entries dated 2026-08-17.
 
-⚑ **`muhurta_chintamani` is 82% translated, not 100%.** `MC_001.json` (37 shlokas, chapter 1)
-has English but **no Hindi**, so those shlokas carry `status: "partial"` and an empty `hindi`.
-Its shloka numbers also run 11–32, then 1–7, then 37–44 — distinct, so they ingest without
-collision, but the sequence is wrong and needs the source text to repair.
+⚑ **`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a
+97-chapter work). 4 mis-split chapters repaired, 5 shlokas recovered; ingests **3937 of
+3937**. Its whole translation backlog is those 5 — `12.11`, `53.20`, `61.55`, `66.43`,
+`66.65` — Sanskrit only. Separately, **ch 25 shloka 16 is absent from the digitisation**
+and was not invented, and ch 60's parenthesised duplicate is now `"12अ"` (a variant reading).
 
-Two neighbouring conventions are **not** defects and are handled, listed so they are not
-"fixed" into breakage:
-- `MinarajaYavanajataka` numbers variant chapters `"24अ"`, `"63अ"`, `"63ब"` (3 files).
-- `Jatakaparijatah` numbers half-shlokas `"1/2"` (6 files) — legitimate prosody.
+⚑ **`muhurta_chintamani` is 82%, not 100%** — `MC_001`'s 37 shlokas have English but no
+Hindi (`status: "partial"`). Its numbers run 11–32, 1–7, 37–44: distinct, so they ingest,
+but the sequence is wrong and needs the source.
 
-### ⚠ 2,873 shlokas never reach AstroAcharya — a `(chapter, shloka)` key collision
+Not defects, and handled — do not "fix" them into breakage: `MinarajaYavanajataka` numbers
+variant chapters `"24अ"`/`"63अ"`/`"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
 
-Found 2026-08-17 by simulating `../astroacharya/scripts/seed_texts.py`, which accumulates
-shlokas **deduplicated by `(chapter, shloka)`, later file wins** (`:92-94`). Where two records
-share a key, one is silently discarded. **The Shlokas column above counts what is present, not
-what is ingestible**, and for one text those differ by half:
+### ⚠ 2,800 shlokas never reach AstroAcharya
 
-| text_id | present | ingested | lost |
-|---------|--------:|---------:|-----:|
-| `brihat_samhita` | 5500 | **2771** | **2729** |
-| `bphs` | 3932 | 3867 | 65 |
-| `jataka_parijata` | 1947 | 1892 | 55 |
-| `laghu_jatakam` | 182 | 168 | 14 |
-| `minaraja_yavana_jataka` | 4027 | 4026 | 1 |
-| `yajusha_jyotisham` | 45 | 44 | 1 |
+`seed_texts.py:92-94` deduplicates by `(chapter, shloka)`, later file wins — so **the Shlokas
+column counts what is present, not what is ingestible.** Corpus ingests **17,764 of 20,564**.
 
-BPHS's 65 are the known chunk-boundary overlaps the seeder's own comment describes.
+**`brihat_samhita` is 2,729 of that 2,800**, and the fix is a decision, not code: it ships
+**two recensions of the same work**, both numbering chapters 1–106 (2,711 keys collide, 2,575
+holding different text). File 2 is the fuller one — 106 chapters incl. ch 38, avg English 193
+vs 173 — **and already the one kept**, because filenames sort and later wins. So the variant
+is discarded by luck rather than by decision. Either drop file 1 as superseded, or give it
+its own `text_id`. Remainder: `jataka_parijata` 55, `laghu_jatakam` 14, `minaraja` 1,
+`yajusha_jyotisham` 1.
 
-**`brihat_samhita`'s 2,729 are the whole remaining problem, and the fix is a decision, not
-code.** `Varahmihir_brihatsamhita.json` and `Varahmihir_brihatsamhita2.json` are **two
-recensions of the same work**, both numbering chapters 1–106: 2,711 of 2,750 keys collide,
-2,575 of those holding different text. Measured side by side 2026-08-17:
+### Digitized but off-schema — blocked on numbering, not schema
 
-| | chapters | shlokas | translated | avg Sanskrit | avg English |
-|---|---:|---:|---|---:|---:|
-| `…brihatsamhita.json` | 105 | 2750 | en + hi | 116 | 173 |
-| `…brihatsamhita2.json` | **106** — adds ch 38 | 2750 | en + hi | 118 | **193** |
+`manu_smriti` (12 files), `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — **14 files,
+4,737 records over 1,520 distinct keys.** Keys collide with *distinct* content (`1.1.1` ×24,
+all different). **Do not convert them mechanically:** the result would be schema-valid files
+the seeder silently truncates by two-thirds. Repairing the numbering needs the source text.
 
-**File 2 is the fuller recension** — it carries a chapter the other lacks and materially
-longer translations — **and it is already the one being kept**, because `seed_texts.py:96`
-sorts filenames and later wins. So the corpus is not losing its better text; it is discarding
-the variant *by filename luck rather than by decision*, which is the actual defect.
-
-**The call:** either drop `Varahmihir_brihatsamhita.json` as superseded, or give it its own
-`text_id` to preserve the variant readings. Do not leave it as an accident.
-
-### Digitized but off-schema — blocked on numbering, not on schema
-
-Three texts remain on the pre-normalization shape (14 files). **Converting them is not a
-schema problem and must not be attempted mechanically:** their numbering keys collide with
-*distinct* content, so a conversion would produce schema-valid files that the seeder then
-silently truncates by two-thirds.
-
-| text_id | Files | Records | Distinct keys | Collision |
-|---------|------:|--------:|--------------:|-----------|
-| `manu_smriti` | 12 | 2,942 | 900 | key `1.1` × 5, all different text; `MS_001` claims chapter 1 but spans 1–5; `MS_012` contains a chapter "13" |
-| `apastamba_dharma_sutra` | 1 | 1,437 | 565 | key `1.1.1` × 24, all different text |
-| `apastamba_paribhasha_sutra` | 1 | 358 | 55 | key `1` × 15, all different text |
-
-**4,737 records, 1,520 distinct keys.** The content is real and distinct; the *numbers* are
-wrong, and repairing them needs the source text — a scholarly act, not a mechanical one.
-This is `STATE.md` P1, now with the reason it cannot simply be swept.
-
-Placeholder-only directories with no JSON at all (`JaiminiSutras`, `ChandraKalaNadi`,
-`JatakaTattvam`, `SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only
-genuine stubs.
-
-Note: Shloka counts reflect deduplication by (chapter, shloka) key — BPHS chunks and brihat_samhita
-files had overlapping entries that inflated previous counts. Unique counts are authoritative.
+Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`,
+`SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only genuine stubs.
 
 ## Translation workflow
 

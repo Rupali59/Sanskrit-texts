@@ -4,7 +4,7 @@
 
 From-canon Sanskrit shloka stores. Each text is chunked into per-chapter JSON under `chapters/`. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals:** 23 texts · 240 chapter files · 7 live categories.
+**Totals:** 23 texts · 590 chapters · 7 live categories.
 
 ## Hora — Horā — horoscopy (jātaka, praśna, nāḍī)
 
@@ -12,16 +12,16 @@ From-canon Sanskrit shloka stores. Each text is chunked into per-chapter JSON un
 |------|--------|---------:|------|-------------|
 | [`Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | Nadi | 8 | — | — |
 | [`BrihatJataka`](../Hora/Parashari/BrihatJataka) | Parashari | 28 | — | — |
-| [`BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | Parashari | 11 | — | — |
+| [`BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | Parashari | 97 | — | — |
 | [`Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | Parashari | 10 | — | — |
 | [`Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | Parashari | 18 | — | — |
 | [`Laghujatakam`](../Hora/Parashari/Laghujatakam) | Parashari | 16 | — | — |
 | [`MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | Parashari | 74 | — | — |
-| [`Phaladeepika`](../Hora/Parashari/Phaladeepika) | Parashari | 1 | — | — |
+| [`Phaladeepika`](../Hora/Parashari/Phaladeepika) | Parashari | 28 | — | — |
 | [`Saravali`](../Hora/Parashari/Saravali) | Parashari | 1 | [README](../Hora/Parashari/Saravali/README.md) | pdf |
-| [`Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | Parashari | 1 | — | — |
-| [`UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | Parashari | 1 | [README](../Hora/Parashari/UttaraKalamrita/README.md) | txt |
-| [`VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | Parashari | 1 | — | — |
+| [`Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | Parashari | 7 | — | — |
+| [`UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | Parashari | 9 | [README](../Hora/Parashari/UttaraKalamrita/README.md) | txt |
+| [`VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | Parashari | 15 | — | — |
 
 ## Siddhanta — Siddhānta — mathematical astronomy
 
@@ -41,7 +41,7 @@ From-canon Sanskrit shloka stores. Each text is chunked into per-chapter JSON un
 
 | Text | School | Chapters | Docs | Source held |
 |------|--------|---------:|------|-------------|
-| [`BrihatSamhita`](../Samhita/BrihatSamhita) | — | 2 | — | — |
+| [`BrihatSamhita`](../Samhita/BrihatSamhita) | — | 211 | — | — |
 
 ## Dharmashastra — Dharmaśāstra — ritual law / calendar
 
