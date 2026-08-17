@@ -91,3 +91,10 @@ producer→consumer edge (INVENTORY, not per-chapter — that would flood the le
 **Why not fixed:** (1) is an editorial call — drop file 1 as superseded, or give it its own `text_id` to preserve the variant readings. (2) needs the source text; a heuristic that repairs 2.5% is not a repair, and inventing shloka numbers is worse than the defect.
 **Status:** open. Corpus ingestion is 17,764 of 20,564 present shlokas.
 **Affects:** sanskrit-texts, astroacharya
+
+## 2026-08-17: Retire `scripts/gen_inventory.py`; `docs/INVENTORY.md` becomes hand-maintained
+**What:** Deleted the generator. `docs/INVENTORY.md` is now maintained by hand, updated in the same commit as the corpus change it describes. Its header carries a one-line `node -e …` check that counts chapters straight from the JSON, and states that **the tree wins when the two disagree**. `docs/README.md`, `.propagates.yml` and `STATE.md` repointed; the two earlier DECISIONS entries that describe the generator are left untouched, per append-only.
+**Why:** Rupali's call — a script whose entire job was writing one document earned less than it cost.
+**Recorded against it, for whoever revisits this:** in the same session, the *hand-maintained* `text_id` registry in `CLAUDE.md` had 11 of 17 directories pointing at paths dead since `1cccca6`, while the generated INVENTORY was accurate; and the generator is what surfaced the chapter-count mislabelling. The mitigation for that risk is the verification one-liner, not the script.
+**Found on the way out:** the generator was over-counting by one. It fell back to `else 1` for any JSON without a `chapters` list, which counted `Muhurta/MuhurtaChintamani/chapters/MC_REMAINING_RAW.json` — 320KB of raw `info`/`segments`, not a chapter. **Totals corrected 590 → 589.**
+**Affects:** sanskrit-texts

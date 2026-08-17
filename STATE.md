@@ -13,11 +13,11 @@ Five commits on `main` since the last update (all 2026-07-17 except the last), c
 
 - `1cccca6` `refactor(corpus):` recategorize Hora into schools + ingest new texts — ~194 renames. New tree: `Hora/Parashari/` (BrihatJataka, BrihatParasharaHoraShastra, Chamatkarchintamani, Jatakaparijatah, JatakaTattvam, Laghujatakam, MinarajaYavanajataka, Phaladeepika, Saravali, SarvarthaChintamani, Shatpanchashika, UttaraKalamrita, VarahamihirDaivagnavallabh), `Hora/Nadi/` (Bhrigusootram + ChandraKalaNadi `.placeholder`), `Hora/Prashna/` (PrashnaMarga), `Hora/Jaimini/` (JaiminiSutras `.placeholder`). Also added new digitized chapter stores + new category trees (`Dharmashastra/`, `Muhurta/`) and committed `scripts/digitize.py` + `scripts/translate.py`. See `docs/DECISIONS.md` 2026-08-12 (backfilled).
 - `4258491` `feat(corpus):` Apastamba sutras, Kalpa Grhyasutra, Saravali chapters — +22,027 lines. New top-level `Kalpa/` category.
-- `c2cc99b` `docs:` corpus wiki — `scripts/gen_inventory.py` (117 lines) generates `docs/INVENTORY.md`; `docs/README.md` is the front page; root `.propagates.yml` declares `docs/INVENTORY.md` → astroacharya `reference.md` + `DATA_GAPS.md`.
+- `c2cc99b` `docs:` corpus wiki — `docs/INVENTORY.md` + `docs/README.md` front page; root `.propagates.yml` declares `docs/INVENTORY.md` → astroacharya `reference.md` + `DATA_GAPS.md`. (The generator this commit added, `scripts/gen_inventory.py`, was retired 2026-08-17 — see DECISIONS.)
 - `b4aa78f` `chore:` gitignore source scans — `*.pdf` + `**/raw/`; source-out-of-git policy.
 - `7fbfae1` (2026-08-10) `feat(corpus):` four new raw Dharmashastra source texts (`Dharmashastra/{4605,4607,4609,4617}.txt`) — raw, NOT yet chunked into JSON. Also re-tagged two `hora_acharya` targets in `.propagates.yml` to `kind: prose`. See `docs/DECISIONS.md` 2026-08-12 (backfilled).
 
-**Corpus is now 23 texts / 590 chapters / 7 live categories** (per `docs/INVENTORY.md`) — the old "all 14 texts 100%" claim in the 2026-06-20 entry below is obsolete. Corrected 2026-08-17: this read "240 chapter files" because `gen_inventory.py` counted `*.json` and labelled it "Chapters". That was invisibly wrong while most texts were one file per chapter, and became plainly wrong when BPHS was consolidated and reported **1** chapter for a 97-chapter work. The generator now counts real `chapters[]` entries; all 23 rows verified against the data.
+**Corpus is now 23 texts / 589 chapters / 7 live categories** (per `docs/INVENTORY.md`) — the old "all 14 texts 100%" claim in the 2026-06-20 entry below is obsolete. Corrected 2026-08-17: this read "240 chapter files" because `gen_inventory.py` counted `*.json` and labelled it "Chapters". That was invisibly wrong while most texts were one file per chapter, and became plainly wrong when BPHS was consolidated and reported **1** chapter for a 97-chapter work. The generator now counts real `chapters[]` entries; all 23 rows verified against the data.
 
 ## Now (in flight)
 
@@ -33,8 +33,10 @@ Summary of what is now true:
   394, `MC_001` 37. Corpus: **225 conformant files, 20,564 normalised shlokas**.
 - `CLAUDE.md`'s `category` enum and `text_id` registry corrected from disk; the same stale
   path map in `../astroacharya/scripts/list_sources.py` fixed there.
-- `scripts/gen_inventory.py` now counts real chapters, not JSON files (**590**, previously
-  reported as 240 "chapter files"). All 23 rows verified against the data.
+- `docs/INVENTORY.md` is **hand-maintained**; its generator was retired. Chapter total corrected
+  to **589** — the generator counted `MC_REMAINING_RAW.json` (raw `info`/`segments`, not a
+  chapter) and had long reported file counts as "chapter files". Verification one-liner is in
+  INVENTORY's header; the tree wins when they disagree.
 
 **Open, and none of it mechanical** — see P1 and the 2026-08-17 decisions:
 
@@ -89,9 +91,9 @@ Genuine stubs remaining:
 ### P2 — Corpus hygiene / doc drift (recorded, not fixed here)
 
 - `CLAUDE.md` layout block + text_id registry still show the pre-`1cccca6` flat `Hora/<Text>/` paths — all now wrong (correct tree is `Hora/{Parashari,Nadi,Prashna,Jaimini}/<Text>/`). Its `[README-only stubs]` line is also stale (references texts now digitized).
-- `CLAUDE.md` `category` enum is `hora | samhita | vedanga_jyotisha | siddhanta` — missing `muhurta`, `dharmashastra`, `kalpa`, `jaimini`, all now in use by committed files.
+- ~~`CLAUDE.md` `category` enum missing values~~ — **fixed 2026-08-17**: now the 8 values the data uses. `hora` was retired by `1cccca6` and its last user (`SV_FULL.json`) was migrated.
 - Root `README.md` ~3 months stale: still shows the flat Hora tree, `Tantra/` and `SamudrikShastra/` sections (both removed 2026-06-20), the 4 now-digitized texts listed as "not yet digitized," and the pre-normalization Schema A/B (`english_meaning`, `source`, `header`, `book`) that `docs/DECISIONS.md` 2026-06-20 banned.
-- `docs/INVENTORY.md` "Source held" column is stale — lists `pdf` for Saravali/Panchasiddhantika/SuryaSiddhanta/MuhurtaChintamani, but those source scans moved to `../sanskrit-texts-sources/` (see new section below). Needs a `python scripts/gen_inventory.py` regen + commit.
+- ~~`docs/INVENTORY.md` "Source held" stale~~ — **mostly fixed 2026-08-17**: Panchasiddhantika/SuryaSiddhanta/MuhurtaChintamani now read `—`. **Saravali's `pdf` is correct** — it still holds a 17MB `saravaliofkalyan01kalyuoft.pdf` locally (gitignored per the source-out-of-git policy). Maintained by hand now; the generator that regenerated it was retired.
 - `.gitignore` lines 8–9 are dead rules — they ignore pre-recategorization paths `Hora/UttaraKalamrita/raw_uttara_kalamrita.txt` and `Hora/UttaraKalamrita/sections/`, but those files moved to `Hora/Parashari/UttaraKalamrita/` in `1cccca6` and the sections were then committed as chapter JSON.
 - `scripts/digitize.py` + `scripts/translate.py` are committed (landed in `1cccca6`), against `CLAUDE.md`'s "Do not commit processing scripts" rule.
 - The 4 raw `Dharmashastra/{4605,4607,4609,4617}.txt` (from `7fbfae1`) await chunking into per-chapter JSON.
@@ -123,7 +125,7 @@ Contents (310MB total):
 
 - ✅ **Hora recategorized into schools** (`1cccca6`) — flat `Hora/<Text>/` → `Hora/{Parashari,Nadi,Prashna,Jaimini}/<Text>/`, ~194 renames. See `docs/DECISIONS.md` 2026-08-12 (backfilled).
 - ✅ **New texts ingested:** Apastamba Dharma Sutra + Apastamba Paribhasha Sutra, Kalpa Grhyasutra (Asvalayana), Saravali chapters (`4258491`); four raw Dharmashastra source texts (`7fbfae1`).
-- ✅ **Corpus wiki + generator** — `scripts/gen_inventory.py` → `docs/INVENTORY.md`, `docs/README.md` front page, root `.propagates.yml` producer→consumer edge to astroacharya (`c2cc99b`).
+- ✅ **Corpus wiki** — `docs/INVENTORY.md`, `docs/README.md` front page, root `.propagates.yml` producer→consumer edge to astroacharya (`c2cc99b`). The generator shipped alongside it was **retired 2026-08-17**; INVENTORY is hand-maintained.
 - ✅ **Source-out-of-git policy** — `*.pdf` + `**/raw/` gitignored; canonical form is per-chapter JSON (`b4aa78f`).
 - ✅ **All 14 (original-registry) texts at 100% translation** — full registry in `CLAUDE.md`. Shipped 2026-06-20 (`3792b90`).
 - ✅ **Uniform-schema normalization sweep** — 137 modified + 165 consolidated files onto the `CLAUDE.md` schema; counts deduplicated by `(chapter, shloka)` (`f2034e2`). See `docs/DECISIONS.md` 2026-06-20. Note: 18 newer files (see P1 above) have since landed off this schema and need a follow-up sweep.

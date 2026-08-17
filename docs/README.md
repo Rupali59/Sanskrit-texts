@@ -23,11 +23,12 @@ The corpus grows continuously. Keep the wiki + propagation in sync with one step
 
 ```
 1. digitize + chunk the text  →  <Category>/<School?>/<Text>/chapters/*.json (+ README.md)
-2. python scripts/gen_inventory.py        # regenerates docs/INVENTORY.md
+2. update docs/INVENTORY.md by hand       # add the row; correct the Totals line
 3. commit                                 # INVENTORY.md change fires propagation (below)
 ```
 
-`INVENTORY.md` is **generated — never hand-edit it**; edit the tree + rerun the script.
+`INVENTORY.md` is **hand-maintained** (the generator was retired 2026-08-17). It is a summary of
+the tree, so the tree wins when they disagree — the verification one-liner is in its header.
 
 ## State-based propagation
 

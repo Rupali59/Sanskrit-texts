@@ -4,9 +4,11 @@
 # compute is the CONSUMER — each primitive cites @source(("<Text>", chapter, [shlokas]))
 # per astroacharya MASTER_DECISIONS D17.
 #
-# docs/INVENTORY.md is the GENERATED manifest (scripts/gen_inventory.py). Regenerate +
-# commit it after adding / renaming / re-chunking a text; the change fires the drift rows
-# below so astroacharya's canon trackers stay in sync with what the corpus can @source.
+# docs/INVENTORY.md is the hand-maintained manifest (its generator was retired 2026-08-17).
+# Update it in the SAME commit as the corpus change; that change fires the drift rows below
+# so astroacharya's canon trackers stay in sync with what the corpus can @source. Because
+# nothing regenerates it now, it can drift from the tree — its header carries a one-line
+# check, and the tree is authoritative when they disagree.
 #
 # Deliberately NOT declared: individual chapter JSON (too granular — thousands of files,
 # would flood the ledger). INVENTORY.md is the single coarse edge: text-level changes only.
