@@ -169,9 +169,8 @@ This is a **JSON data corpus, not code** — the `code-review-graph` graph is em
 See `rule:state-and-decisions` (`../docs/conventions/STATE_MANAGEMENT.md` is the
 long-form convention). Adopted 2026-06-09 — sixth and final sibling.
 
-- [`STATE.md`](./STATE.md) at repo root — subsumes the original `TODO.md` (now frozen with a banner).
+- [`STATE.md`](./STATE.md) at repo root — subsumed the original `TODO.md`, which was **deleted 2026-08-17** once its 8 items were fully absorbed. Git history keeps it.
 - [`docs/DECISIONS.md`](./docs/DECISIONS.md) — lives under `docs/` because `docs/` is tracked here.
-- [`TODO.md`](./TODO.md) — frozen 2026-06-09. Historical only; new items go to `STATE.md`.
 
 Workspace-wide decisions live in `../docs/DECISIONS.md`; cross-project initiatives live
 in `../STATE.md` and `../TODOS.md` (legacy).

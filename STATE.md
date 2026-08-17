@@ -5,7 +5,7 @@ Last updated: 2026-08-17
 Convention: `../docs/conventions/STATE_MANAGEMENT.md` (adopted 2026-06-09).
 Decisions: [`docs/DECISIONS.md`](./docs/DECISIONS.md) (project `docs/` is tracked).
 Plans: [`docs/plans/README.md`](./docs/plans/README.md) (adopted 2026-06-20, 6th sibling).
-Supersedes: `TODO.md` (digitization checklist subsumed below; file retained as historical).
+Supersedes: `TODO.md` — its digitization checklist is subsumed below; the file itself was deleted 2026-08-17 (git history keeps it).
 
 ## Recently shipped
 
@@ -95,10 +95,10 @@ Genuine stubs remaining:
 - Root `README.md` ~3 months stale: still shows the flat Hora tree, `Tantra/` and `SamudrikShastra/` sections (both removed 2026-06-20), the 4 now-digitized texts listed as "not yet digitized," and the pre-normalization Schema A/B (`english_meaning`, `source`, `header`, `book`) that `docs/DECISIONS.md` 2026-06-20 banned.
 - ~~`docs/INVENTORY.md` "Source held" stale~~ — **mostly fixed 2026-08-17**: Panchasiddhantika/SuryaSiddhanta/MuhurtaChintamani now read `—`. **Saravali's `pdf` is correct** — it still holds a 17MB `saravaliofkalyan01kalyuoft.pdf` locally (gitignored per the source-out-of-git policy). Maintained by hand now; the generator that regenerated it was retired.
 - `.gitignore` lines 8–9 are dead rules — they ignore pre-recategorization paths `Hora/UttaraKalamrita/raw_uttara_kalamrita.txt` and `Hora/UttaraKalamrita/sections/`, but those files moved to `Hora/Parashari/UttaraKalamrita/` in `1cccca6` and the sections were then committed as chapter JSON.
-- `scripts/digitize.py` + `scripts/translate.py` are committed (landed in `1cccca6`), against `CLAUDE.md`'s "Do not commit processing scripts" rule.
+- ~~`scripts/digitize.py` + `scripts/translate.py` committed against the "Do not commit processing scripts" rule~~ — **resolved 2026-08-17**: both deleted, along with `scripts/gen_inventory.py`. `scripts/` now holds only `install-hooks.sh`, which wires the hygiene githooks and is not a processing script.
 - The 4 raw `Dharmashastra/{4605,4607,4609,4617}.txt` (from `7fbfae1`) await chunking into per-chapter JSON.
 
-### P2 — Translation injection (from TODO.md)
+### P2 — Translation injection
 
 - None pending on the original 14-text set. `muhurta_chintamani` is the one partially-digitized new text: 15 files, 206 shlokas, 169 translated (~82%).
 
