@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals:** 23 texts · 589 chapters · 7 live categories.
+**Totals:** 23 texts · 484 chapters · 7 live categories.
 
 _Corrected to 589 on retiring the generator: it counted `MC_REMAINING_RAW.json` as a chapter via an `else 1` fallback, but that file holds `info`/`segments` — 320KB of raw un-chunked material, not a chapter._
 
@@ -51,7 +51,7 @@ _Corrected to 589 on retiring the generator: it counted `MC_REMAINING_RAW.json` 
 
 | Text | School | Chapters | Docs | Source held |
 |------|--------|---------:|------|-------------|
-| [`BrihatSamhita`](../Samhita/BrihatSamhita) | — | 211 | — | — |
+| [`BrihatSamhita`](../Samhita/BrihatSamhita) | — | 106 | — | — |
 
 ## Dharmashastra — Dharmaśāstra — ritual law / calendar
 

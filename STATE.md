@@ -38,8 +38,7 @@ Rationale in [`docs/DECISIONS.md`](./docs/DECISIONS.md) 2026-08-18. What is now 
 
 | Text | Blocker |
 |---|---|
-| `BrihatSamhita` | two **recensions**, 105 duplicate chapter numbers — merging conflates two works. Needs the editorial call: drop file 1, or give it its own `text_id` |
-| `ManuSmriti`, both Apastamba | `sutras[]` shape — blocked on numbering, not format |
+| `ManuSmriti`, both Apastamba | `sutras[]` shape — needs **re-digitisation**, see P1 |
 
 **Carrying known duplicates, consolidated anyway** (layout does not affect them — the
 seeder dedupes by `(chapter, shloka)` across all files of a `text_id`):
@@ -71,7 +70,7 @@ Summary of what is now true:
 
 | # | Issue | Needs |
 |---|---|---|
-| 1 | `brihat_samhita` ships two recensions of the same 106 chapters; **2,729 shlokas discarded at ingest**. File 2 is the fuller one and already wins, but by filename sort order | a decision: drop file 1, or give it its own `text_id` |
+| ~~1~~ | ~~`brihat_samhita` two recensions, 2,729 discarded~~ — **resolved 2026-08-18.** Not recensions at all: 2,574 of 2,711 shared keys differed only in sandhi/word-splitting, i.e. one text digitised twice. Consolidated to the union file 2 already won, so ingestion was unchanged at 2,771 and the collision went to **0** | done |
 | 2 | 14 files (`manu_smriti` ×12, both Apastamba) blocked on **numbering, not schema** — 4,737 records over 1,520 distinct keys | the source text |
 | 3 | ~506 disordered shloka numbers across 25 chapters | the source text |
 | 4 | **BPHS translation backlog is exactly 5 shlokas** — 12.11, 53.20, 61.55, 66.43, 66.65 (Sanskrit only). Plus ch 25 shloka 16, absent from the digitisation entirely | translation / digitising |
@@ -98,7 +97,14 @@ Corpus ingestion: **17,764 of 20,564** present shlokas.
 
 **Cleared:** `Saravali`, `Asvalayana` and `MuhurtaChintamani`'s `MC_001` were migrated onto the schema 2026-08-17; `MC_REMAINING_RAW.json` was raw extraction, not a chapter, and moved to `../sanskrit-texts-sources/` 2026-08-18.
 
-**The remaining 14 are blocked on NUMBERING, not schema** — 4,737 records over 1,520 distinct keys, colliding with *distinct* content (`1.1.1` appears 24 times with 24 different sūtras). A mechanical conversion would produce schema-valid files the seeder silently truncates by two-thirds. Needs the source text.
+**The remaining 14 need RE-DIGITISATION, not renumbering** — checked against the canonical structures 2026-08-18:
+
+- **Manusmriti**: 12 adhyāyas, ~2,684 verses (ch 1 = 119, ch 2 = 249). The data's leading component runs **1–33**, "chapter 1" holds 1,516 records against 119, and `MS_001` alone contains **89 fragmentary cycles** with gaps (`1.14 → 1.18`) and bare integers mixed in.
+- **Apastamba**: the hierarchy is Praśna → Paṭala → Khaṇḍa → sūtra, so **`1.1.1` is a correct citation**, not a broken number. But of 1,437 records, 219 carry a bare integer, 13 are malformed `..10`, and 15 are the literal placeholder **`X.X.21`/`X.X.22`** — the digitiser recording "prefix unknown". 136 restart-cycles of lengths 14, 20, 1, 10, 21, 29, 63…
+
+A first reading of Apastamba's opening 30 records — a clean `1.1.1…1.1.14` run — suggested the numbering was merely truncated and reconstructible. Across the whole file that is false; **a 30-record sample gave the wrong answer about a 1,437-record file.**
+
+Sources are in `../sanskrit-texts-sources/Dharmashastra/`, but `manu_clean.txt` is a **2.8MB scanned book on a single line** (1909 Nirnaya Sagar edition, front matter and Kullūka's commentary included). This is a digitisation project, not a patch.
 
 ### P1 — Digitization backlog (in-scope, README-only stubs)
 

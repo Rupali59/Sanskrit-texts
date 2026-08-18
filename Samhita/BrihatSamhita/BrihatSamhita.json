@@ -197,6 +197,13 @@
           "status": "translated"
         },
         {
+          "number": 16,
+          "text": "अविदित्वैव यत् (यः) शास्त्रं दैवज्ञत्वं प्रपद्यते ।\nस पंक्तिदूषकः पापो ज्ञेयो नक्षत्रसूचकः ॥ २.१६॥",
+          "english": "One who, without knowing the science, claims to be an astrologer, is a defiler of the assembly, a sinner, and should be known as a mere pointer to stars (Nakshatra-suchaka).",
+          "hindi": "जो शास्त्र को जाने बिना ही ज्योतिषी होने का दावा करता है, वह सभा को दूषित करने वाला, पापी और केवल नक्षत्रों का सूचक (नक्षत्रसूचक) माना जाना चाहिए।",
+          "status": "translated"
+        },
+        {
           "number": 17,
           "text": "अविदित्वा एव \\*यत् शास्त्रं दैवज्ञत्वं प्रपद्यते । (K.यः)\nनक्षत्रसूचकोद्दिष्टमुपहासं करोति यः । K.२.१८.३/ स व्रजत्यन्धताग्मिस्रं सार्धं ऋक्षविडम्बिना ॥)\nनगरद्वारलोष्टस्य यद्वत् स्यादुपयाचितम् ।\nआदेशस्तद्वदज्ञानां यः सत्यः स विभाव्यते ॥ २.१७॥",
           "english": "Just as a vow made to a clod of earth at the city gate might occasionally come true, similarly, a prediction made by an ignorant person might coincidentally be correct.",
@@ -3739,6 +3746,13 @@
           "status": "translated"
         },
         {
+          "number": 11,
+          "text": "द्रविडविदेहान्ध्राश्मकभासापर (पुर) कौंकणाः समन्त्रिषिकाः ।\nकुन्तलकेरलदण्डककान्तिपुरम्लेच्छसंकरिणः (संकरजाः) ॥ १६.११॥",
+          "english": "Dravida, Videha, Andhra, Ashmaka, Bhasapara (or Bhasapura), Konkana, the Mantrishikas, Kuntala, Kerala, Dandaka, Kantipura, and the Mlechchhas (mixed-born).",
+          "hindi": "द्रविड़, विदेह, आन्ध्र, अश्मक, भासापर (या भासापुर), कोङ्कण, मन्त्रिषिक, कुन्तल, केरल, दण्डक, कान्तिपुर और म्लेच्छ (संकर जाति)।",
+          "status": "translated"
+        },
+        {
           "number": 12,
           "text": "द्रविडविदेहान्ध्राश्मक\\*भासापर कौङ्कणाः समन्त्रिषिकाः । (K.भासापुर)\nये च पिबन्ति सुतोयां तापीं ये च अपि गोमतीसलिलम् ॥) नासिक्यभोगवर्धनविराटविन्ध्याद्रिपार्श्वगा देशाः । K.१६.१२॥\nनागरकृषिकरपारतहुताशनाजीवि\\*शस्त्रवार्तानाम् । (K.शस्त्रवार्त्तानाम्)\nआटविकदुर्गकर्वट\\*वधिक नृशंसावलिप्तानाम् ॥ १६.१२॥ (K.वधक)",
           "english": "Dravida, Videha, Andhra, Ashmaka, Bhasapara, Konkana, the Mantrishikas, those who drink the good waters of Tapi and those who drink the waters of Gomati; Nasikya, Bhogavardhana, Virata, and the countries situated on the sides of the Vindhya mountains. City-dwellers, farmers, Paratas, those whose livelihood is fire, those living by weapons, foresters, forts, Karvatas, executioners, cruel people, and the arrogant.",
@@ -5239,6 +5253,20 @@
           "english": "(In these conjunctions), the winds from the East and other directions bring respectively: the ripening of crops (East), the wrath of fire (Southeast), scanty rain (South), moderate rain (Southwest), excellent rain (West), abundant rain with wind (Northwest), heavy rain (North), and auspicious results (Northeast).",
           "hindi": "(इन योगों में) पूर्व आदि दिशाओं की हवाओं से क्रमशः ये फल होते हैं: (पूर्व से) फसलों की निष्पत्ति, (आग्नेय से) अग्नि का प्रकोप, (दक्षिण से) कम वर्षा, (नैऋत्य से) मध्यम वर्षा, (पश्चिम से) श्रेष्ठ वर्षा, (वायव्य से) तेज़ हवा के साथ बहुत जल, (उत्तर से) पुष्ट (भारी) वर्षा, और (ईशान से) शुभ फल।",
           "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "वृत्तायामाषाढ्याम् कृष्णचतुर्थ्यामजैकपादर्क्षे ।\nयदि वर्षति पर्जन्यः प्रावृट् शस्ता न चेन् न ततः ॥ २६.१४॥",
+          "english": "If it rains on the fourth day of the dark fortnight after Ashadha full moon under Purva Bhadrapada, the rainy season will be excellent; otherwise, not.",
+          "hindi": "आषाढ़ पूर्णिमा के बाद कृष्ण चतुर्थी को पूर्वाभाद्रपद नक्षत्र में वर्षा होने पर वर्षा ऋतु श्रेष्ठ होती है; अन्यथा नहीं।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "आषाढ्याम् पौर्णमास्यां तु यद्यैशानोऽनिलो भवेत् ।\nअस्तं गच्छति तीक्ष्णांशौ सस्यसम्पत्तिरुत्तमा ॥ २६.१५॥",
+          "english": "If on the Ashadha full moon the wind blows from the North-East at sunset, there will be an excellent harvest of crops.",
+          "hindi": "यदि आषाढ़ की पूर्णिमा को सूर्यास्त के समय ईशान कोण से वायु चले, तो फसलों की पैदावार उत्तम होती है।",
+          "status": "translated"
         }
       ]
     },
@@ -6033,6 +6061,13 @@
           "status": "translated"
         },
         {
+          "number": 23,
+          "text": "षड्भिः मासैः कंपो द्वाभ्यां पाकं च याति निर्घातः ।\nअन्यान् अपि उत्पातान् जगुः अन्ये मण्डलैः एतैः ॥ ३२.२३॥",
+          "english": "Earthquake effects manifest in 6 months; 'Nirghata' thuds in 2 months. Various portents are judged by these same circles.",
+          "hindi": "भूकम्प का फल 6 माह में और निर्घात का 2 माह में मिलता है। अन्य उत्पातों का फल भी इन्हीं मण्डलों से जानना चाहिए।",
+          "status": "translated"
+        },
+        {
           "number": 24,
           "text": "षड्भिर्मासैः कम्पो द्वाभ्यां पाकं च याति निर्घातः ।\nअन्यच्च यत्स्यात् प्रकृतेः प्रतीपं तन्मण्डलैरेव फलं निगाद्यम् ॥)\nहन्त्यैन्द्रो वायव्यं वायुश्चाप्यैन्द्रमेवमन्योन्यम् ।\nवारुणघौतभुजावपि वेलानक्षत्रजाः कम्पाः ॥ ३२.२४॥",
           "english": "An earthquake matures (yields its result) in six months, and a meteor fall (nirghata/thunderbolt) in two months. And whatever else happens contrary to nature, its result should be declared according to the mandalas (circles). The earthquake of the Indra circle destroys the effect of the Vayu circle, and the Vayu destroys the Indra; they act mutually this way. Similarly, the Varuna and Agni circles, and earthquakes born of their respective asterisms at their respective times, destroy each other's effects.",
@@ -6578,6 +6613,48 @@
           "text": "पीतो व्याधिं जनयत्यशोकरूपश्च शस्त्रकोपाय ।\nप्रतिसूर्याणां माला दस्युग्भयातङ्कनृपहन्त्री ॥ ३७.०२॥",
           "english": "A yellow mock sun generates diseases, and one having the form (color) of an Ashoka flower leads to an outbreak of weapons (war). A garland (row) of mock suns brings fear of robbers, terror, and destroys the king.",
           "hindi": "पीला प्रतिसूर्य बीमारियों को जन्म देता है, और अशोक के फूल (लाल रंग) के समान प्रतिसूर्य हथियारों का प्रकोप (युद्ध) कराता है। प्रतिसूर्यों की माला (कतार) डाकुओं का भय, आतंक, और राजा का नाश करने वाली होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "दिवसकृतः प्रतिसूर्यो जलकृदुरग्दक्षिणे स्थितोऽनिलकृट् ।\nउभयस्थः सलिलभयं नृपमुपरि निहन्त्यधो जनहा ॥ ३७.३॥",
+          "english": "Mock sun to the North causes rain; South causes wind; above kills the king; below kills the people.",
+          "hindi": "उत्तर में प्रतिसूर्य वर्षा, दक्षिण में वायु, ऊपर राजा का वध और नीचे प्रजा का नाश करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "अर्कोदये विजृंभति यदि दिनमेकं दिनद्वयं वापि ।\nस्थगयन्न् इव गगनतलं भयमत्युग्रं निवेदयति ॥ ३८.४॥",
+          "english": "Dust covering the sky at sunrise for 1-2 days indicates extremely terrible fear.",
+          "hindi": "सूर्योदय के समय 1-2 दिन तक धूल का आकाश को ढंकना अत्यन्त उग्र भय का संकेत है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "अनवरतसञ्चयवहं रजनीमेकां प्रधाननृपहन्तृ ।\nक्षेमाय च शेषाणां विचक्षणानां नरेन्द्राणाम् ॥ ३८.५॥",
+          "english": "Continuous dust for one night kills the main king but brings peace to wise kings.",
+          "hindi": "एक रात तक निरन्तर धूल प्रधान राजा का वध करती है, पर चतुर राजाओं के लिए शुभ है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "रजनीद्वयं विसर्पति यस्मिन् राष्ट्रे रजोघनं बहुलम् ।\nपरचक्रस्य आगमनं तस्मिन् अपि सन्निबोद्धव्यम् ॥ ३८.६॥",
+          "english": "Thick dust spreading for two nights indicates an enemy invasion should be expected.",
+          "hindi": "दो रातों तक घनी धूल का छाये रहना शत्रु के आक्रमण की सम्भावना का संकेत है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "निपतति रजनीत्रितयं चतुष्कमपि अन्नरसविनाशाय ।\nराज्ञां सैन्यक्षोभो रजसि भवेत् पञ्चरात्रभवे ॥ ३८.७॥",
+          "english": "Dust for 3-4 nights destroys food. For 5 nights, it causes military revolt among kings.",
+          "hindi": "3-4 रातों की धूल अन्न नाश करती है। 5 रातों तक होने पर सेना में विद्रोह होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "केत्वाद्युदयविमुक्तं यदा रजो भवति तीव्रभयदायि ।\nशिशिरादन्यत्रर्तौ फलमविकलमाहु आचार्याः ॥ ३८.८॥",
+          "english": "Dust without Ketu's rise is very fearful in all seasons except winter.",
+          "hindi": "केतु के बिना उड़ने वाली धूल शिशिर के अलावा अन्य ऋतुओं में तीव्र भयदायक है।",
           "status": "translated"
         }
       ]
@@ -8019,6 +8096,13 @@
           "text": "धान्यघिरण्यत्वक्फलकुसुमाद्यैर्वर्षितैर्भयं विन्द्यात् ।\nअङ्गारपांशुवर्षे विनाशमायाति तन्नगरम् ॥ ४५.४१॥",
           "english": "If it rains grain, gold, bark, fruit, or flowers, one should know it brings fear. If it rains charcoal or dust, that city goes to ruin.",
           "hindi": "यदि अनाज, सोना, छाल, फल, या फूलों की बारिश होती है, तो यह जानना चाहिए कि यह भय लाता है। यदि कोयले या धूल की बारिश होती है, तो वह शहर बर्बाद हो जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 42,
+          "text": "उपला विना जलधरैः विकृता वा प्राणिनो यदा वृष्टाः ।\nछिद्रं वाप्यतिवृष्टौ सस्यानामीतिसंजननम् ॥ ४५.४२॥",
+          "english": "Rain of stones without clouds, or rain of abnormal creatures, or gaps (unevenness) in excessive rain, causes diseases or pests (iti) in crops.",
+          "hindi": "बिना बादलों के पत्थरों (ओलों) की वर्षा, या विकृत प्राणियों की वर्षा, अथवा अतिवृष्टि में असमानता होना, फसलों में ईति (रोग या उपद्रव) पैदा करता है।",
           "status": "translated"
         },
         {
@@ -11603,6 +11687,20 @@
           "english": "The asterisms Hasta, Magha, Anuradha, Pushya, Dhanishta, the three Uttaras, Rohini, and Shatabhisha are commended for beginning the excavation of wells.",
           "hindi": "कुओं की खुदाई शुरू करने के लिए हस्त, मघा, अनुराधा, पुष्य, धनिष्ठा, तीनों उत्तरा (उत्तराफाल्गुनी, उत्तराषाढ़ा, उत्तराभाद्रपद), रोहिणी, और शतभिषा नक्षत्र शुभ माने जाते हैं।",
           "status": "translated"
+        },
+        {
+          "number": 124,
+          "text": "कृत्वा वरुणस्य बलिं वटवेतसकीलकं शिरास्थाने ।\nकुसुमैः गन्धैः धूपैः सम्पूज्य निधापयेत् प्रथमम् ॥ ५३.१२४॥",
+          "english": "After offering a sacrifice to Varuna, a stake (Kilaka) of Banyan or Vetasa should be first placed at the site of the water vein, worshiping it with flowers, scents, and incense.",
+          "hindi": "वरुण देव को बलि (अर्पण) देने के बाद, जल की शिरा वाले स्थान पर बड़ या बेंत की एक खूंटी (कीलक) को फूल, गंध और धूप से पूजकर सबसे पहले स्थापित करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 125,
+          "text": "मेघोद्भवं प्रथममेव मया प्रदिष्टं ज्येष्ठामतीत्य बलदेवमतादि दृष्ट्वा ।\nभौमं दगार्गलमिदं कथितं द्वितीयं सम्यग्वराहमिहिरेण मुनिप्रसादात् ॥ ५४.१२५॥)",
+          "english": "The first method of finding water, originating from clouds, was described by me at the very beginning, having passed beyond the Jyeṣṭhā nakṣatra and examined the opinions of Baladeva and others. This second method — the earthen water-lock (bhaumadakārgala) — has now been expounded correctly by Varāhamihira by the grace of the sages.",
+          "hindi": "प्रथम विधि, जो मेघ से उत्पन्न होती है, मैंने पहले ही ज्येष्ठा नक्षत्र का अतिक्रमण कर बलदेव आदि के मतों का परीक्षण करते हुए बताई थी। यह द्वितीय भौम-दकार्गल (भूमिगत जल की खोज) की विधि ऋषि-प्रसाद से वराहमिहिर द्वारा सम्यक् रूप में कथित की गई है।",
+          "status": "translated"
         }
       ]
     },
@@ -12508,6 +12606,20 @@
           "text": "मातृगणः कर्तव्यः स्वनामदेवानुरूपकृतचिह्नः ।\nरेवन्तोऽश्वारूढो मृगयाग्क्रीडादिपरिवारः ॥ ५७.५६॥",
           "english": "I have briefly stated this description of the characteristics of images. Whatever has been detailed by the sage Garga has been compiled here by me.",
           "hindi": "मैंने मूर्तियों के लक्षणों का यह वर्णन संक्षेप में किया है। गर्ग मुनि द्वारा जो कुछ भी विस्तार से बताया गया है, उसे मैंने यहां संकलित किया है।",
+          "status": "translated"
+        },
+        {
+          "number": 57,
+          "text": "(यम, वरुण, कुबेर)\nदण्डी यमो महिषगो हंसारूढश्च पाशभृद् वरुनः ।\nनरवाहनः कुबेरो वामकिरीटी बृहत्कुक्षिः ॥ ५७.५७॥",
+          "english": "Yama should hold a staff and ride a buffalo; Varuna should hold a noose and ride a swan. Kubera should have a man as his vehicle (Naravahana), wear his crown tilted to the left, and have a large belly.",
+          "hindi": "ययराज को दंड धारण किए हुए और भैंसे पर सवार बनाना चाहिए; वरुण को पाश (फंदा) लिए हुए और हंस पर सवार बनाना चाहिए। कुबेर का वाहन मनुष्य होना चाहिए, वे बाईं ओर झुके हुए मुकुट वाले और बड़े पेट वाले होने चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 58,
+          "text": "प्रमथाधिपो गजमुखः प्रलंबजठरः कुठारधारी स्यात् ।\nएकविषाणो बिभ्रन्मूलककन्दं सुनीलदलकन्दम् ॥ ५८.५८॥)",
+          "english": "The lord of the Pramathas (Ganesha) should have an elephant's head, a hanging belly, and hold an axe. He should have one tusk and hold a radish with its very blue leaves and bulb.",
+          "hindi": "प्रमथों के स्वामी (गणेश) हाथी के मुख वाले, लटकते हुए पेट वाले और कुल्हाड़ी धारण करने वाले होने चाहिए। वे एक दाँत वाले हों और अपने हाथ में नीले पत्तों वाली मूली धारण किए हुए हों।",
           "status": "translated"
         }
       ]
@@ -13996,6 +14108,20 @@
           "text": "शार्दूलघंससमदद्विपगोपतीनां\nतुल्या भवन्ति गतिभिः शिखिनां च भूपाः ।\nयेषां च शब्दग्रहितं स्तिमितं च यातं\nतेऽपीश्वरा द्रुतपरिप्लुतगा दरिद्राः ॥ ६७.११५॥",
           "english": "Kings have a gait like that of a tiger, swan, intoxicated elephant, bull, or peacock. Those whose walk is silent and steady also become lords. Those who walk fast or with jumping steps are poor.",
           "hindi": "राजाओं की चाल व्याघ्र, हंस, मदमत्त हाथी, बैल या मोर के समान होती है। जिनकी चाल शब्दरहित और स्थिर होती है, वे भी ऐश्वर्यवान होते हैं। तेज या उछल-उछल कर चलने वाले दरिद्र होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 116,
+          "text": "श्रान्तस्य यानमशनं च बुभुक्षितस्य\nपानं तृषापरिगतस्य भयेषु रक्षा ।\nएतानि यस्य पुरुषस्य भवन्ति काले\nधन्यं वदन्ति खलु तं नरलक्षणज्ञाः ॥ ६७.११६॥",
+          "english": "One who gets a vehicle when tired, food when hungry, drink when thirsty, and protection in fear at the right time is called 'Fortunate' (Dhanya) by experts.",
+          "hindi": "जिसे थकावट होने पर सवारी, भूख लगने पर भोजन, प्यास लगने पर पानी और भय के समय रक्षा समय पर प्राप्त हो जाए, सामुद्रिक विशेषज्ञ उसे 'धन्य' कहते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 117,
+          "text": "पुरुषलक्षणमुक्तमिदं मया मुनिमतानि अवलोक्य समासतः ।\nइदमधीत्य नरो नृपसम्मतो भवति सर्वजनस्य च वल्लभः ॥ ६८.११७॥",
+          "english": "Thus have I briefly described the characteristics of men after consulting the opinions of sages. By studying this, a man becomes honored by kings and beloved by all people.",
+          "hindi": "इस प्रकार मैंने ऋषियों के मतों का अवलोकन कर संक्षेप में पुरुष लक्षणों का वर्णन किया है। इसे पढ़ने वाला मनुष्य राजाओं द्वारा सम्मानित और सभी लोगों का प्रिय होता है।",
           "status": "translated"
         }
       ]
@@ -18813,10 +18939,31 @@
           "status": "translated"
         },
         {
+          "number": 14,
+          "text": "नृपाज्ञया ब्राह्मणसम्मते च विवाहकाले मृतसूतके च ।\nबद्धस्य मोक्षे क्रतुदीक्षणासु सर्वेषु शस्तं क्षुरकर्म भेषु ॥ ९७.१४॥",
+          "english": "By the king's command, with the approval of Brahmins, at the time of marriage, after birth or death impurity is over, on release from prison, and during Vedic sacrifices, shaving is auspicious under all Nakshatras.",
+          "hindi": "राजा की आज्ञा होने पर, ब्राह्मणों की सहमति से, विवाह के समय, जन्म या मरण के सूतक की निवृत्ति पर, कारागार से मुक्त होने पर और यज्ञदीक्षा के समय सभी नक्षत्रों में क्षौर कर्म प्रशस्त है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "% ओने वेर्से इन्सेर्तेद्\nहस्तो मूलं श्रवणा पुनर्वसुः मृगशिरः तथा पुष्यः ।\nपुंसञ्ज्ञितेषु कार्येष्वेतानि शुभानि धिष्ण्यानि ॥ ९८.१५॥",
+          "english": "Hasta, Mula, Shravana, Punarvasu, Mrigashirsha, and Pushya—these male Nakshatras are auspicious for all activities relating to males (like Pumsavana).",
+          "hindi": "हस्त, मूल, श्रवण, पुनर्वसु, मृगशिरा और पुष्य—ये पुरुष नक्षत्र पुरुष-संज्ञक कार्यों (जैसे पुंसवन संस्कार) में शुभ कहे गए हैं।",
+          "status": "translated"
+        },
+        {
           "number": 16,
           "text": "नृपाज्ञया ब्राह्मणसम्मते च विवाहकाले मृतसूतके च ।\nपुंसंज्ञितेषु कार्येष्वेतानि शुभानि धिष्ण्यानि ॥) हस्तो मूलं श्रवणा पुनर्वसुर्मृगशिरस्तथा पुष्यः । K.९८.१५॥\nसावित्रपौष्णानिलमैत्रतिष्यत्वाष्ट्रे तथा चोडुगणाधिपऋक्षे ।\nवेध्यौ तु कर्णौ त्रिदशेज्यलग्ने तिष्येन्दुचित्राहरिरेवतीषु ॥) लाभे तृतीये च शुभैः समेते पापैर्विहीने शुभराशिलग्ने । K.९८.१७॥\nशुद्धैर्द्वादशकेन्द्रनैधनगृहैः पापैस्त्रिषष्ठायगैर्\nलग्ने केन्द्रगतेऽथ वा सुरगुरौ दैत्येन्द्रपूज्येऽपि वा ।\nसर्वारम्भफलप्रसिद्धिरुदये राशौ च कर्तुः शुभे\nसग्राम्यस्थिरभोदये च भवनं कार्यं प्रवेशोऽपि वा ॥ ९७.१६॥",
           "english": "When the 12th, angles, and 8th house are free from malefics, and malefics occupy 3rd, 6th, and 11th, and Jupiter or Venus is in Lagna or Kendra, success is ensured. Building a house or entry should be performed under a rustic or fixed sign rising, or when transit Moon is auspicious.",
           "hindi": "यदि कुंडली के १२वें, केन्द्रों और ८वें भाव में पाप ग्रह न हों, और पाप ग्रह ३, ६ व ११वें भाव में हों, तथा गुरु या शुक्र लग्न या केन्द्र में हों, तो सफलता मिलती है। गृह निर्माण या गृह प्रवेश ग्राम्य या स्थिर राशि के लग्न में और गृहस्वामी के लिए शुभ चन्द्रमा होने पर करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "% ओने वेर्से इन्सेर्तेद्\nलाभे तृतीये च शुभैः समेते पापैः विहीने शुभराशिलग्ने ।\nवेध्यौ तु कर्णौ त्रिदशेज्यलग्ने तिष्येन्दुचित्राहरिरेवतीषु ॥ ९८.१७॥",
+          "english": "If benefics occupy the 3rd and 11th houses, and the 6th is devoid of malefics, and the rising sign is a benefic sign, it is auspicious. Ears should be pierced under Jupiter's Lagna and under Pushya, Moon (Mriga), Chitra, Shravana, or Revati.",
+          "hindi": "यदि तीसरे और ११वें भाव में शुभ ग्रह हों, और छठा भाव पाप ग्रहों से रहित हो तथा शुभ राशि का लग्न हो, तो वह मंगलकारी है। कान का वेधन (कान छेदना) बृहस्पति के लग्न में और पुष्य, मृगशिरा, चित्रा, श्रवण या रेवती नक्षत्र में करना चाहिए।",
           "status": "translated"
         }
       ]

@@ -29,10 +29,9 @@ docs/   INVENTORY.md (the manifest) · DECISIONS.md · BPHS_Master_Lexicon.md ·
 transcriptions (`.md`), raw OCR (`.txt`), scans (`.pdf`). This repo is the translation
 layer: `.json` + `README.md` and nothing else. `.gitignore` enforces it.
 
-**4 texts do not yet follow the one-file rule**, each for a recorded reason, not an
-oversight: `Samhita/BrihatSamhita/` holds two files because they are two *recensions*;
-`Dharmashastra/{ManuSmriti,ApastambaDharmaSutra,ApastambaParibhashaSutra}/chapters/` are
-still on the `sutras[]` shape, blocked on numbering. See `docs/DECISIONS.md` 2026-08-18.
+**3 texts do not yet follow the one-file rule** —
+`Dharmashastra/{ManuSmriti,ApastambaDharmaSutra,ApastambaParibhashaSutra}/chapters/`, still
+on the `sutras[]` shape. See `docs/DECISIONS.md` 2026-08-18.
 
 **13 text directories are undigitised** — a `README.md` and nothing else, so
 `docs/INVENTORY.md` cannot see them by construction (it defines a text as a dir holding
@@ -102,7 +101,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 | `asvalayana_grhya_sutra` | Kalpa/Grhyasutra/Asvalayana/ | 394 | 100% |
 | `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
 | `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 45 | 100% |
-| `brihat_samhita` | Samhita/BrihatSamhita/ | 5500 | 100% |
+| `brihat_samhita` | Samhita/BrihatSamhita/ | 2771 | 100% |
 | `aryabhatiya` | Siddhanta/Aryabhatiya/ | 121 | 100% |
 | `panchasiddhantika` | Siddhanta/Panchasiddhantika/ | 166 | 100% |
 | `surya_siddhanta` | Siddhanta/SuryaSiddhanta/ | 272 | 100% |
@@ -123,25 +122,26 @@ but the sequence is wrong and needs the source.
 Not defects, and handled — do not "fix" them into breakage: `MinarajaYavanajataka` numbers
 variant chapters `"24अ"`/`"63अ"`/`"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
 
-### ⚠ 2,800 shlokas never reach AstroAcharya
+### ⚠ 71 shlokas never reach AstroAcharya
 
-`seed_texts.py:92-94` deduplicates by `(chapter, shloka)`, later file wins — so **the Shlokas
-column counts what is present, not what is ingestible.** Corpus ingests **17,764 of 20,564**.
+`seed_texts.py:92-94` dedupes by `(chapter, shloka)`, later file wins — the Shlokas column
+counts what is *present*, not what is ingestible. Was **2,800**; `brihat_samhita` was 2,729 of
+it and is now **0**, its two files consolidated 2026-08-18. They were never two recensions:
+2,574 of 2,711 shared keys differed only in **sandhi** (`प्रसूतिः विश्वात्मा` vs
+`प्रसूतिर्विश्वात्मा`) — one text digitised twice. Ingestion unchanged at 2,771.
 
-**`brihat_samhita` is 2,729 of that 2,800**, and the fix is a decision, not code: it ships
-**two recensions of the same work**, both numbering chapters 1–106 (2,711 keys collide, 2,575
-holding different text). File 2 is the fuller one — 106 chapters incl. ch 38, avg English 193
-vs 173 — **and already the one kept**, because filenames sort and later wins. So the variant
-is discarded by luck rather than by decision. Either drop file 1 as superseded, or give it
-its own `text_id`. Remainder: `jataka_parijata` 55, `laghu_jatakam` 14, `minaraja` 1,
-`yajusha_jyotisham` 1.
+Remaining, all intra-chapter and pre-existing: `jataka_parijata` 55, `laghu_jatakam` 14,
+`minaraja_yavana_jataka` 1, `yajusha_jyotisham` 1.
 
-### Digitized but off-schema — blocked on numbering, not schema
+### Off-schema — needs RE-DIGITISATION, not renumbering
 
-`manu_smriti` (12 files), `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — **14 files,
-4,737 records over 1,520 distinct keys.** Keys collide with *distinct* content (`1.1.1` ×24,
-all different). **Do not convert them mechanically:** the result would be schema-valid files
-the seeder silently truncates by two-thirds. Repairing the numbering needs the source text.
+`manu_smriti` (12 files), `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 14 files,
+4,737 records over 1,520 distinct keys. Checked against the canonical structures 2026-08-18
+(Manusmriti = 12 adhyāyas / ~2,684 verses; Apastamba = Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1`
+is a *correct citation*). **The data cannot be mapped onto either**: Manusmriti's leading
+component runs 1–33 and `MS_001` holds 89 fragmentary cycles; Apastamba has 219 bare-integer
+records and 15 literal `X.X.21` placeholders — the digitiser recording "prefix unknown".
+**Not a renumbering job — needs re-digitisation.** Detail and sources: `docs/DECISIONS.md`.
 
 Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`,
 `SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only genuine stubs.
