@@ -21,6 +21,35 @@ Five commits on `main` since the last update (all 2026-07-17 except the last), c
 
 ## Now (in flight)
 
+### 2026-08-18 — one format; sources and translations separated
+
+Rationale in [`docs/DECISIONS.md`](./docs/DECISIONS.md) 2026-08-18. What is now true:
+
+- **Every digitised text is one file**: `<Category>/<School?>/<Text>/<Text>.json`.
+  230 JSON files → **35**. Data unchanged and proved: chapters **589 → 589**, shlokas
+  **25,301 → 25,301**, ingestible **17,764 → 17,764**.
+- **This repo is the translation layer only** — `.json` + `README.md`. All 32 source files
+  (14 `.md`, 17 `.txt`, 1 raw `.json`) now live in `../sanskrit-texts-sources/`, mirroring
+  the same tree. `.gitignore` enforces it; its two dead rules were removed.
+- Saravali's 17MB PDF deleted — byte-identical duplicate of the sources copy. This clears
+  the straggler previously flagged here.
+
+**Not yet on the one-file rule, each for a reason:**
+
+| Text | Blocker |
+|---|---|
+| `BrihatSamhita` | two **recensions**, 105 duplicate chapter numbers — merging conflates two works. Needs the editorial call: drop file 1, or give it its own `text_id` |
+| `ManuSmriti`, both Apastamba | `sutras[]` shape — blocked on numbering, not format |
+
+**Carrying known duplicates, consolidated anyway** (layout does not affect them — the
+seeder dedupes by `(chapter, shloka)` across all files of a `text_id`):
+`Jatakaparijatah` 55, `Laghujatakam` 14, `MinarajaYavanajataka` 1.
+
+**13 undigitised text dirs** are invisible to `docs/INVENTORY.md` by construction — it
+defines a text as a dir holding JSON. Listed in `CLAUDE.md`. `GargaSamhita` and
+`MuhurtaMartanda` already have sources waiting.
+
+
 ### 2026-08-17 — corpus normalisation + BPHS consolidation
 
 Full rationale in [`docs/DECISIONS.md`](./docs/DECISIONS.md) (three entries dated 2026-08-17).
@@ -61,22 +90,21 @@ Corpus ingestion: **17,764 of 20,564** present shlokas.
 
 ### P1 — Off-schema JSON blocks AstroAcharya ingestion
 
-**18 JSON files use the pre-normalization shape** — top-level `sutras`/`shlokas` with `sanskrit` / `english_translation` / `hindi_translation` / `chapter_number`, **no `status` field, no `chapters[]` wrapper**. This is exactly the shape `docs/DECISIONS.md` 2026-06-20 (uniform-schema normalization sweep) banned. **Blocks AstroAcharya `/texts` ingestion** for these texts until fixed.
+**14 JSON files use the pre-normalization shape** — top-level `sutras`/`shlokas` with `sanskrit` / `english_translation`, **no `chapters[]` wrapper**, banned by `docs/DECISIONS.md` 2026-06-20. **Blocks AstroAcharya `/texts` ingestion.** Was 18; 4 cleared 2026-08-17/18.
 
-- `Hora/Parashari/Saravali/chapters/SV_FULL.json` (1)
 - `Dharmashastra/ManuSmriti/chapters/MS_001.json` … `MS_012.json` (12)
 - `Dharmashastra/ApastambaDharmaSutra/chapters/ADS_001.json` (1)
 - `Dharmashastra/ApastambaParibhashaSutra/chapters/APS_001.json` (1)
-- `Kalpa/Grhyasutra/Asvalayana/chapters/AGS_001.json` (1)
-- `Muhurta/MuhurtaChintamani/chapters/MC_001.json` and `MC_REMAINING_RAW.json` (2)
 
-Not fixed here — recorded for a follow-up schema-migration pass.
+**Cleared:** `Saravali`, `Asvalayana` and `MuhurtaChintamani`'s `MC_001` were migrated onto the schema 2026-08-17; `MC_REMAINING_RAW.json` was raw extraction, not a chapter, and moved to `../sanskrit-texts-sources/` 2026-08-18.
+
+**The remaining 14 are blocked on NUMBERING, not schema** — 4,737 records over 1,520 distinct keys, colliding with *distinct* content (`1.1.1` appears 24 times with 24 different sūtras). A mechanical conversion would produce schema-valid files the seeder silently truncates by two-thirds. Needs the source text.
 
 ### P1 — Digitization backlog (in-scope, README-only stubs)
 
 Corrected 2026-08-12 — the 2026-06-20 list was wrong: **Saravali, Surya Siddhanta, Aryabhatiya, and Panchasiddhantika are now digitized**, not stubs.
 
-- **Saravali** — digitized but off-schema (see P1 above): `Hora/Parashari/Saravali/chapters/SV_FULL.json`, 1,163 sūtras, single-file (not chapter-split).
+- **Saravali** — digitized, on-schema since 2026-08-17: `Hora/Parashari/Saravali/Saravali.json`, 1,163 sūtras, single chapter (not chapter-split).
 - **Surya Siddhanta** — 14 chapters / 272 shlokas / 100% translated.
 - **Aryabhatiya** — 4 padas / 121 shlokas / 100% translated.
 - **Panchasiddhantika** — 18 chapters / 166 shlokas / 100% translated.
@@ -85,7 +113,7 @@ Genuine stubs remaining:
 
 - **Hora (classical Sanskrit):** SarvarthaChintamani (Venkatesa Sharma), PrashnaMarga (Kerala horary, now `Hora/Prashna/`), JatakaTattvam
 - **Siddhanta (mathematical astronomy):** Brahmasphuta Siddhanta, Siddhanta Shiromani
-- **New since 2026-06-20:** `Muhurta/MuhurtaMartanda/` (README + empty `chapters/`), `Samhita/GargaSamhita/` (README + raw `3003.txt`), `Dharmashastra/Dharmasindhu/`, `Dharmashastra/NirnayaSindhu/`, `Hora/Jaimini/JaiminiSutras/` (`.placeholder`), `Hora/Nadi/ChandraKalaNadi/` (`.placeholder`)
+- **New since 2026-06-20:** `Muhurta/MuhurtaMartanda/` (README; its empty `chapters/` removed 2026-08-18, PDF waiting in sources), `Samhita/GargaSamhita/` (README; raw `3003.txt` now in sources), `Dharmashastra/Dharmasindhu/`, `Dharmashastra/NirnayaSindhu/`, `Hora/Jaimini/JaiminiSutras/` (`.placeholder`), `Hora/Nadi/ChandraKalaNadi/` (`.placeholder`)
 - **Permanently non-digitizable — lost recensions, not backlog:** `Vedanga-Jyotisha/Samaveda/`, `Vedanga-Jyotisha/Atharvaveda/`. Record as such, don't carry as pending work.
 
 ### P2 — Corpus hygiene / doc drift (recorded, not fixed here)

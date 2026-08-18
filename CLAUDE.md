@@ -12,32 +12,35 @@ AstroAcharya seeds this data into MongoDB and queries it via a `/texts` API. The
 
 ## Layout
 
+**One JSON per text, always** (standardised 2026-08-18). Sources are not in this repo.
+
 ```
-Hora/                          Natal astrology texts
-  BrihatParasharaHoraShastra/  BrihatParasharaHoraShastra.json + .md  (97 chapters, 3937 shlokas)
-  BrihatJataka/chapters/       brihmajjataka_ch01…28.json
-  Bhrigusootram/chapters/      bhrigustrotram_ch01…08.json
-  Chamatkarchintamani/chapters/ CC_001…010.json
-  Jatakaparijatah/chapters/    JP_001…018.json
-  Laghujatakam/chapters/       LJ_001…016.json
-  MinarajaYavanajataka/chapters/ MS_001…039.json
-  Phaladeepika/                phaladeepika.json
-  Shatpanchashika/             Shatpanchashika.json
-  UttaraKalamrita/             uttara_kalamrita.json (9 chapters, 324 shlokas)
-  VarahamihirDaivagnavallabh/  Varahamihircharita_daivagya_vallabh.json
-  [README-only stubs]          Saravali, SarvarthaChintamani, PrashnaMarga, JatakaTattvam
-Samhita/
-  BrihatSamhita/               Varahmihir_brihatsamhita.json + Varahmihir_brihatsamhita2.json
-Vedanga-Jyotisha/
-  Rigveda/Aarchjyotisham/      Aarchjyotisham.json
-  Yajurveda/Yajushajyotisham/  Yajushajyotisham.json
-Siddhanta/                     Mathematical astronomy texts
-  Aryabhatiya/chapters/        AB_001…004.json (4 padas, 121 shlokas)
-  Panchasiddhantika/chapters/  PS_001…018.json (18 chapters, 166 shlokas)
-docs/
-  BPHS_Master_Lexicon.md
-  BPHS_Only_Terminology.md
+<Category>/<School?>/<Text>/
+    <Text>.json          the text — every chapter, every shloka
+    README.md            per-text metadata (optional)
+
+Hora/{Parashari,Nadi,Prashna,Jaimini}/   Siddhanta/   Samhita/
+Vedanga-Jyotisha/{Rigveda,Yajurveda}/    Dharmashastra/   Kalpa/Grhyasutra/   Muhurta/
+
+docs/   INVENTORY.md (the manifest) · DECISIONS.md · BPHS_Master_Lexicon.md · …
 ```
+
+**Sources live in `../sanskrit-texts-sources/`**, mirroring the same tree — Devanagari
+transcriptions (`.md`), raw OCR (`.txt`), scans (`.pdf`). This repo is the translation
+layer: `.json` + `README.md` and nothing else. `.gitignore` enforces it.
+
+**4 texts do not yet follow the one-file rule**, each for a recorded reason, not an
+oversight: `Samhita/BrihatSamhita/` holds two files because they are two *recensions*;
+`Dharmashastra/{ManuSmriti,ApastambaDharmaSutra,ApastambaParibhashaSutra}/chapters/` are
+still on the `sutras[]` shape, blocked on numbering. See `docs/DECISIONS.md` 2026-08-18.
+
+**13 text directories are undigitised** — a `README.md` and nothing else, so
+`docs/INVENTORY.md` cannot see them by construction (it defines a text as a dir holding
+JSON): `JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`, `SarvarthaChintamani`,
+`PrashnaMarga`, `BrahmasphutaSiddhanta`, `SiddhantaShiromani`, `GargaSamhita`,
+`Atharvaveda`, `Samaveda`, `Dharmasindhu`, `NirnayaSindhu`, `MuhurtaMartanda`.
+`GargaSamhita` and `MuhurtaMartanda` already have sources waiting in
+`../sanskrit-texts-sources/`.
 
 ## Uniform JSON schema
 
@@ -78,33 +81,31 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 ## text_id registry
 
-> **Corrected 2026-08-17 — every row re-derived from the JSON** (11 of 17 `Hora/` paths were
-> dead after `1cccca6`). `docs/INVENTORY.md` is **generated** and is the authority on paths;
-> this table holds only what it does not emit — `text_id`, counts, translation state. **When
-> they disagree, INVENTORY is right.** Some texts hold JSON directly, others under `chapters/`.
+> Every row re-derived from the JSON. `docs/INVENTORY.md` is the manifest and wins on paths;
+> this table holds what it does not carry — `text_id`, counts, translation state.
 
 | text_id | Directory | Shlokas | Translation |
 |---------|-----------|---------|-------------|
 | `bphs` | Hora/Parashari/BrihatParasharaHoraShastra/ | 3937 | 99.9% ⚑ |
-| `brihat_jataka` | Hora/Parashari/BrihatJataka/chapters/ | 409 | 100% |
-| `bhrigu_sutram` | Hora/Nadi/Bhrigusootram/chapters/ | 568 | 100% |
-| `chamatkar_chintamani` | Hora/Parashari/Chamatkarchintamani/chapters/ | 112 | 100% |
-| `jataka_parijata` | Hora/Parashari/Jatakaparijatah/chapters/ | 1947 | 100% |
-| `laghu_jatakam` | Hora/Parashari/Laghujatakam/chapters/ | 182 | 100% |
-| `minaraja_yavana_jataka` | Hora/Parashari/MinarajaYavanajataka/chapters/ | 4027 | 100% |
+| `brihat_jataka` | Hora/Parashari/BrihatJataka/ | 409 | 100% |
+| `bhrigu_sutram` | Hora/Nadi/Bhrigusootram/ | 568 | 100% |
+| `chamatkar_chintamani` | Hora/Parashari/Chamatkarchintamani/ | 112 | 100% |
+| `jataka_parijata` | Hora/Parashari/Jatakaparijatah/ | 1947 | 100% |
+| `laghu_jatakam` | Hora/Parashari/Laghujatakam/ | 182 | 100% |
+| `minaraja_yavana_jataka` | Hora/Parashari/MinarajaYavanajataka/ | 4027 | 100% |
 | `phaladeepika` | Hora/Parashari/Phaladeepika/ | 851 | 100% |
 | `shatpanchashika` | Hora/Parashari/Shatpanchashika/ | 56 | 100% |
 | `varahamihir_daivagnavallabh` | Hora/Parashari/VarahamihirDaivagnavallabh/ | 248 | 100% |
 | `uttara_kalamrita` | Hora/Parashari/UttaraKalamrita/ | 324 | 100% |
-| `muhurta_chintamani` | Muhurta/MuhurtaChintamani/chapters/ | 206 | 82% ⚑ |
-| `saravali` | Hora/Parashari/Saravali/chapters/ | 1163 | 100% |
-| `asvalayana_grhya_sutra` | Kalpa/Grhyasutra/Asvalayana/chapters/ | 394 | 100% |
+| `muhurta_chintamani` | Muhurta/MuhurtaChintamani/ | 206 | 82% ⚑ |
+| `saravali` | Hora/Parashari/Saravali/ | 1163 | 100% |
+| `asvalayana_grhya_sutra` | Kalpa/Grhyasutra/Asvalayana/ | 394 | 100% |
 | `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
 | `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 45 | 100% |
 | `brihat_samhita` | Samhita/BrihatSamhita/ | 5500 | 100% |
-| `aryabhatiya` | Siddhanta/Aryabhatiya/chapters/ | 121 | 100% |
-| `panchasiddhantika` | Siddhanta/Panchasiddhantika/chapters/ | 166 | 100% |
-| `surya_siddhanta` | Siddhanta/SuryaSiddhanta/chapters/ | 272 | 100% |
+| `aryabhatiya` | Siddhanta/Aryabhatiya/ | 121 | 100% |
+| `panchasiddhantika` | Siddhanta/Panchasiddhantika/ | 166 | 100% |
+| `surya_siddhanta` | Siddhanta/SuryaSiddhanta/ | 272 | 100% |
 
 **21 texts on the normalized schema · 20,564 shlokas.** Rationale for every figure below:
 `docs/DECISIONS.md`, three entries dated 2026-08-17.

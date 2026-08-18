@@ -10,7 +10,7 @@
 >
 > If that number and the Totals line below disagree, **the data is right and this file is stale.**
 
-From-canon Sanskrit shloka stores. Each text is chunked into per-chapter JSON under `chapters/`. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
+From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
 **Totals:** 23 texts · 589 chapters · 7 live categories.
 
@@ -45,7 +45,7 @@ _Corrected to 589 on retiring the generator: it counted `MC_REMAINING_RAW.json` 
 
 | Text | School | Chapters | Docs | Source held |
 |------|--------|---------:|------|-------------|
-| [`MuhurtaChintamani`](../Muhurta/MuhurtaChintamani) | — | 15 | [README](../Muhurta/MuhurtaChintamani/README.md) | — |
+| [`MuhurtaChintamani`](../Muhurta/MuhurtaChintamani) | — | 14 | [README](../Muhurta/MuhurtaChintamani/README.md) | — |
 
 ## Samhita — Saṃhitā — mundane / omens
 
