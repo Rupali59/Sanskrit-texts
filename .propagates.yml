@@ -51,3 +51,90 @@ sources:
         - from-canon
         - chapter
         - BPHS
+
+  # --- source -> corpus (declared 2026-08-18) -------------------------------
+  #
+  # The JSON in this repo is DERIVED from the Devanagari transcriptions in
+  # ../sanskrit-texts-sources/. Until now nothing declared that, so improving a
+  # transcription left the derived text silently stale. One coarse edge per text —
+  # the same call the INVENTORY edge above makes, and for the same reason: per-chapter
+  # edges would flood the ledger.
+  #
+  # Declared HERE and not in the sources tree on purpose: ../sanskrit-texts-sources/ is
+  # gitignored (workspace .gitignore:39), so a sidecar placed there would be untracked and
+  # lost on a fresh clone. Source keys resolve via path.resolve(sidecarDir, key), so `../`
+  # works and the declaration lives with the repo it protects.
+  #
+  # On a clone without the sources these edges cannot resolve. That is correct and
+  # attributable — 'the source is not on this machine', not silence.
+
+  ../sanskrit-texts-sources/Hora/Nadi/Bhrigusootram/bhrigustrotram.md:
+    propagates_to:
+      - path: Hora/Nadi/Bhrigusootram/Bhrigusootram.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/BrihatJataka/brihmajjataka.md:
+    propagates_to:
+      - path: Hora/Parashari/BrihatJataka/BrihatJataka.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShastra.md:
+    propagates_to:
+      - path: Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShastra.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/Chamatkarchintamani/Chamatkarchintamani.md:
+    propagates_to:
+      - path: Hora/Parashari/Chamatkarchintamani/Chamatkarchintamani.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/Jatakaparijatah/jatakaparijatah.md:
+    propagates_to:
+      - path: Hora/Parashari/Jatakaparijatah/Jatakaparijatah.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/Laghujatakam/Laghujatakam_By_Varahamihiracharya.md:
+    propagates_to:
+      - path: Hora/Parashari/Laghujatakam/Laghujatakam.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/MinarajaYavanajataka/Minaraja_Shrivriddhayavanajataka_Purvakhanda.md:
+    propagates_to:
+      - path: Hora/Parashari/MinarajaYavanajataka/MinarajaYavanajataka.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/Phaladeepika/phaladeepika.md:
+    propagates_to:
+      - path: Hora/Parashari/Phaladeepika/Phaladeepika.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/Shatpanchashika/Shatpanchashika.md:
+    propagates_to:
+      - path: Hora/Parashari/Shatpanchashika/Shatpanchashika.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Hora/Parashari/VarahamihirDaivagnavallabh/Varahamihircharita_daivagya_vallabh.md:
+    propagates_to:
+      - path: Hora/Parashari/VarahamihirDaivagnavallabh/VarahamihirDaivagnavallabh.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Samhita/BrihatSamhita/Varahmihir_brihatsamhita.md:
+    propagates_to:
+      - path: Samhita/BrihatSamhita/BrihatSamhita.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Samhita/BrihatSamhita/Varahmihir_brihatsamhita2.md:
+    propagates_to:
+      - path: Samhita/BrihatSamhita/BrihatSamhita.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Vedanga-Jyotisha/Rigveda/Aarchjyotisham/Aarchjyotisham.md:
+    propagates_to:
+      - path: Vedanga-Jyotisha/Rigveda/Aarchjyotisham/Aarchjyotisham.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose
+  ../sanskrit-texts-sources/Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/Yajushajyotisham.md:
+    propagates_to:
+      - path: Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/Yajushajyotisham.json
+        why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
+        kind: prose

@@ -28,6 +28,11 @@ Rationale in [`docs/DECISIONS.md`](./docs/DECISIONS.md) 2026-08-18. What is now 
 - **Every digitised text is one file**: `<Category>/<School?>/<Text>/<Text>.json`.
   230 JSON files → **35**. Data unchanged and proved: chapters **589 → 589**, shlokas
   **25,301 → 25,301**, ingestible **17,764 → 17,764**.
+- **Sources are now declared** (2026-08-18): 14 coarse edges, one per text, from
+  `../sanskrit-texts-sources/<Text>/<transcription>.md` to the derived `<Text>.json`.
+  They sit in **this** repo's tracked sidecar, not in the sources tree — that tree is
+  gitignored, so a sidecar there would be lost on a clone. All 14 resolve; they stay
+  NEVER_VERIFIED because nobody has yet read a transcription against its JSON.
 - **This repo is the translation layer only** — `.json` + `README.md`. All 32 source files
   (14 `.md`, 17 `.txt`, 1 raw `.json`) now live in `../sanskrit-texts-sources/`, mirroring
   the same tree. `.gitignore` enforces it; its two dead rules were removed.
