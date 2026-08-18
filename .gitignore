@@ -4,9 +4,9 @@ __pycache__/
 # Added by code-review-graph
 .code-review-graph/
 
-# Local digitization intermediates (raw OCR dumps + section splits; JSON is the committed derived form)
-Hora/UttaraKalamrita/raw_uttara_kalamrita.txt
-Hora/UttaraKalamrita/sections/
+# Raw OCR — dead rules removed 2026-08-18. They named pre-recategorisation paths
+# (Hora/UttaraKalamrita/...) that moved in 1cccca6, so they had matched nothing for weeks.
+# Replaced by the repo-wide rule at the bottom: sources live in ../sanskrit-texts-sources/.
 
 # Editor / agent tool-local config (not shared)
 .claude/
@@ -21,8 +21,10 @@ Hora/UttaraKalamrita/sections/
 temp_page.png
 temp_*.png
 
-# Source scans — canonical data is the per-chapter JSON (DECISIONS 2026-07-17).
-# PDFs stay LOCAL (144MB of .git); stripped from history in the bloat-rewrite step.
+# SOURCES LIVE IN ../sanskrit-texts-sources/ (DECISIONS 2026-07-17, enforced 2026-08-18).
+# This repo holds the translation layer only: per-text JSON + README.md. Raw Devanagari
+# transcriptions (.md), OCR dumps (.txt) and scans (.pdf) were moved out wholesale; these
+# patterns stop them coming back by accident. README.md is deliberately NOT ignored.
 *.pdf
-# Raw OCR working dirs
+*.txt
 **/raw/
