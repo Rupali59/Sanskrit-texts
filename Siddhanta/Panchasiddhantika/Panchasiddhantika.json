@@ -1,0 +1,1314 @@
+{
+  "text_id": "panchasiddhantika",
+  "title_sa": "पञ्चसिद्धान्तिका",
+  "title_en": "Panchasiddhantika",
+  "category": "siddhanta",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "प्रस्तावना",
+      "title_en": "Introduction — Praise of the Five Siddhantas",
+      "siddhanta": "Introduction",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पञ्चानां सिद्धान्तानां प्रवक्ष्यामि समासतः ।\nपैतामहं वासिष्ठं रोमकं पौलिशं तथा ।\nसौरं च तन्त्रं देवर्षिप्रणीतम् ॥",
+          "english": "I shall now briefly expound the five siddhantas (astronomical canons): the Paitāmaha, the Vāsiṣṭha, the Romaka, the Pauliśa, and the Saura — treatises composed by divine sages.",
+          "hindi": "मैं पाँच सिद्धान्तों का संक्षेप में वर्णन करूँगा: पैतामह, वासिष्ठ, रोमक, पौलिश और सौर — जो देवर्षियों द्वारा प्रणीत हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "सौरः सर्वेष्वधिकः पौलिशरोमकौ समौ ।\nआवाभ्यां तु हीनौ वासिष्ठपैतामहौ ।\nस्फुटार्थकरणे ग्राह्यं सौरमेव ॥",
+          "english": "The Saura (Solar) is the best among all; the Pauliśa and Romaka are roughly equal. The Vāsiṣṭha and Paitāmaha are inferior to these two. For accurate computation, only the Saura should be used.",
+          "hindi": "सौर सिद्धान्त सबमें श्रेष्ठ है; पौलिश और रोमक समान हैं। वासिष्ठ और पैतामह इन दोनों से हीन हैं। स्पष्ट गणना के लिए केवल सौर का ही प्रयोग करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "शककालस्य शेषाणां दिनानां संख्या या भवेत् ।\nसा समाप्तिदिनाद्यदि विभाज्या ज्ञेयम् ॥",
+          "english": "Whatever is the number of days remaining from the Śaka era epoch (the civil elapsed days, ahargaṇa), this should be divided from the day of completion — thus the ahargaṇa is to be known.",
+          "hindi": "शककाल की शेष दिनों की जो संख्या हो, उसे समाप्ति दिन से विभाजित करने पर अहर्गण जाना जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "अर्कादिग्रहाणामहर्गणादिभागो\nयो लब्धः स मध्यमो भवेत् ।\nशेषस्तु कला विकलाः स्युः ॥",
+          "english": "The quotient obtained when the ahargaṇa is divided by the revolution divisors of planets beginning with the Sun — that quotient gives the mean longitude (madhyama). The remainder yields the minutes and seconds.",
+          "hindi": "अहर्गण को सूर्य आदि ग्रहों के भगण-भाजक से भाग देने पर जो लब्धि मिले वह मध्यम (ग्रह) है और शेष कला-विकला हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "एवं खेटानां गत्या मध्यमं यदि गृह्यते ।\nतदा स्पष्टं करणीयं केन्द्रमानेन ॥",
+          "english": "When the mean longitude of the planets is thus obtained from their motions, the true (spaṣṭa) longitude should then be computed using the equation of the anomaly (kendra).",
+          "hindi": "इस प्रकार ग्रहों की गति से मध्यम प्राप्त करने पर केन्द्रमान से स्पष्ट (ग्रह) का निर्धारण करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "युगे युगे भवन्त्यर्काद्याः खेटाः स्वेन स्वेन भागेन ।\nचक्रं भ्रमन्ति सततं नाशं न यान्ति ॥",
+          "english": "Age after age, the planets beginning with the Sun revolve each in their own orbit, continuously circling — they never perish.",
+          "hindi": "युग-युग में सूर्य आदि ग्रह अपने-अपने मार्ग पर निरन्तर भ्रमण करते हैं — वे कभी नष्ट नहीं होते।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "कल्पे युगानि बहूनि तेषां संख्या महती ।\nशाकसंवत्सरे चैव कालः प्रोक्तो मुनीश्वरैः ॥",
+          "english": "In a Kalpa there are very many yugas; their number is great. The sages have declared the reckoning of time also in terms of the Śaka year.",
+          "hindi": "एक कल्प में बहुत अधिक युग होते हैं; उनकी संख्या महान है। ऋषियों ने शक संवत्सर में भी काल का प्रतिपादन किया है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "त्रिंशद्दिनैर्मासः स्यात् द्वादशमासैर्वर्षम् ।\nवर्षैः षष्ट्या युगं भवेत् काल्पे च ॥",
+          "english": "A month consists of thirty days; twelve months make a year. Sixty years make a yuga (the Bārhaspatya cycle); and within the Kalpa these are multiplied greatly.",
+          "hindi": "तीस दिनों का एक मास, बारह मासों का एक वर्ष होता है। साठ वर्षों का एक युग (बार्हस्पत्य) होता है और कल्प में यह अनेक बार दोहराया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "षट्षष्टिशतं कलाः षट्षष्टिः च विकलाः स्युः ।\nकलानां षट्त्रिंशद्भागः प्रोक्तः परैः ॥",
+          "english": "One degree equals sixty arcminutes; one arcminute equals sixty arcseconds. The sixty parts of one minute are stated by others (as vikaḷās).",
+          "hindi": "एक अंश में साठ कलाएँ (arcminutes) होती हैं और एक कला में साठ विकलाएँ (arcseconds)। कलाओं के साठ भाग अन्य आचार्यों द्वारा बताए गए हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "अहोरात्रमिदं ज्ञेयं सूर्योदयात् पुनः सूर्योदयः ।\nतस्य प्रमाणं षष्टिर्घटिकाः स्मृताः ॥",
+          "english": "A day-and-night (ahorātra) is measured from one sunrise to the next. Its measure is sixty ghaṭikās (= 24 hours).",
+          "hindi": "एक सूर्योदय से दूसरे सूर्योदय तक का काल अहोरात्र कहलाता है। इसका मान साठ घटिकाएँ (= 24 घण्टे) कही गई हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "ग्रहाणां भगणसंख्या महायुगे प्रोक्ता ।\nतेभ्यो मध्यमं ज्ञात्वा स्पष्टं साधयेत् ॥",
+          "english": "The number of revolutions (bhaganasaṃkhyā) of the planets in a mahāyuga has been stated. Knowing the mean from these, one should determine the true (spaṣṭa) longitude.",
+          "hindi": "महायुग में ग्रहों के भगणों की संख्या कही गई है। उनसे मध्यम जानकर स्पष्ट (ग्रह) की साधना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "सूर्यस्य भगणाः ४३२०००० युगे स्मृताः ।\nचन्द्रस्य पञ्चाशीतिस्त्रिंशत्सहस्राणि तथा ॥",
+          "english": "The revolutions of the Sun in a yuga are remembered as 4,320,000. Those of the Moon are eighty-five thousand and thirty (= 57,753,336 per mahāyuga according to the Saura).",
+          "hindi": "एक युग में सूर्य के ४,३२०,००० भगण स्मरण किये गए हैं। चन्द्रमा के ५७,७५३,३३६ भगण होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 13,
+          "text": "ग्रहणं चन्द्रशीर्षयोः संपातः ।\nतत्र छादनं तमसा राहोर्भवति ॥",
+          "english": "An eclipse occurs at the conjunction (saṃpāta) of the Moon and its node (head = Rāhu). There, the obscuration is caused by the shadow of Rāhu (the Moon's shadow).",
+          "hindi": "चन्द्रमा और उसके शीर्ष (राहु) के संपात पर ग्रहण होता है। वहाँ राहु की छाया (चन्द्रछाया) से आच्छादन होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 14,
+          "text": "सौरस्य सिद्धान्तस्य प्रमाणं मुख्यं स्मृतम् ।\nरोमकपौलिशयोः सममेव हि ॥",
+          "english": "The measure (authority) of the Saura Siddhānta is declared to be the primary one. That of the Romaka and Pauliśa are indeed equally (secondary but reliable).",
+          "hindi": "सौर सिद्धान्त का प्रमाण मुख्य स्मरण किया गया है। रोमक और पौलिश का प्रमाण समान ही है।",
+          "status": "translated"
+        },
+        {
+          "number": 15,
+          "text": "वासिष्ठपैतामहयोर्हीनं फलम् ।\nतयोरपि च किंचित् पैतामहं हीनतरम् ॥",
+          "english": "The result of the Vāsiṣṭha and Paitāmaha is inferior. And between those two, the Paitāmaha is even more inferior.",
+          "hindi": "वासिष्ठ और पैतामह का फल हीन है। और उन दोनों में भी पैतामह अधिक हीन है।",
+          "status": "translated"
+        },
+        {
+          "number": 16,
+          "text": "एभिः पञ्चभिः सिद्धान्तैर्गणितं यत् प्रोच्यते ।\nतत् स्पष्टम् आसन्नं वा ग्राह्यं बुधैः ॥",
+          "english": "Whatever calculation is stated by these five siddhantas — whether exact or approximate — that should be accepted by the learned.",
+          "hindi": "इन पाँच सिद्धान्तों से जो भी गणित कहा जाए — चाहे वह स्पष्ट हो अथवा आसन्न — वह विद्वानों को ग्रहण करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 17,
+          "text": "शकराजस्य कालात् पञ्चविंशत्यधिकाः ।\nचतुःशतसमाः शके गताः ॥",
+          "english": "From the time of the Śaka king, four hundred and twenty-five Śaka years have elapsed (i.e., the epoch is Śaka 425 = 503–504 CE, Varāhamihira's epoch).",
+          "hindi": "शकराज के काल से चार सौ पच्चीस शक वर्ष व्यतीत हो चुके हैं (अर्थात् शक ४२५ = ईसवी सन् ५०३-५०४ वराहमिहिर का कालमान है)।",
+          "status": "translated"
+        },
+        {
+          "number": 18,
+          "text": "इत्येवं पञ्चसिद्धान्तिकायां प्रथमं तन्त्रम् ।\nप्रकीर्तितं वराहमिहिरेण संक्षिप्य ॥",
+          "english": "Thus has the first chapter (tantra) of the Pañcasiddhāntikā been proclaimed in brief by Varāhamihira.",
+          "hindi": "इस प्रकार वराहमिहिर द्वारा पञ्चसिद्धान्तिका का प्रथम तन्त्र संक्षेप में प्रकीर्तित किया गया है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "वासिष्ठसिद्धान्तः",
+      "title_en": "The Vasiṣṭha Siddhānta",
+      "siddhanta": "Vasiṣṭha",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "वासिष्ठोक्तं तन्त्रं संक्षेपात् प्रवक्ष्यामि ।\nयथावत् तेन सौम्यस्य गतिं वदामि ॥",
+          "english": "I shall briefly expound the system taught by Vasiṣṭha. According to it, I shall state the motion of the Moon (Soma).",
+          "hindi": "वासिष्ठ द्वारा उपदिष्ट तन्त्र को संक्षेप में बताऊँगा। उसके अनुसार चन्द्रमा (सोम) की गति बताता हूँ।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "शकेन्द्रसंवत्सरवर्षमानेन ।\nयुगं द्वादश वर्षाणि सौरं तु ॥",
+          "english": "By the measure of the Śaka king's calendar year: a yuga consists of twelve solar years according to the (Vasiṣṭha) solar reckoning.",
+          "hindi": "शकेन्द्र संवत्सर के मान से एक युग बारह सौर वर्षों का होता है (वासिष्ठ के अनुसार)।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "चन्द्रस्य रेवत्यां दिनमध्यमं तत् ।\nषष्टिः शतं च पञ्च च योगात् ॥",
+          "english": "The mean lunar day is reckoned from (the Moon at) Revatī. The total [revolutions of the Moon] are one hundred sixty-five (per cycle, in the Vasiṣṭha system).",
+          "hindi": "रेवती से आरम्भ कर चन्द्र का मध्यम दिन ज्ञात होता है। (वासिष्ठ प्रणाली में) कुल एक सौ पैंसठ (भगण) होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "एवं सौम्यस्य मध्यमं साधयित्वा ।\nसूर्येण सह सम्पातः पर्वेषु ॥",
+          "english": "Having thus determined the mean longitude of the Moon, conjunction with the Sun occurs at the parvans (new and full moon).",
+          "hindi": "इस प्रकार चन्द्र का मध्यम साधकर पर्वों (अमावस्या और पूर्णिमा) पर सूर्य के साथ संपात होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "चन्द्रस्य दिनमाने षट्त्रिंशद्घटिकाः ।\nसूर्यस्य च षष्टिर्घटिकाः ॥",
+          "english": "The duration of the lunar day (tithimāna) is thirty-six ghaṭikās (approx.); that of the solar day is sixty ghaṭikās.",
+          "hindi": "चन्द्र के एक दिन (तिथिमान) का मान छत्तीस घटिकाएँ (लगभग) है; सौर दिन का मान साठ घटिकाएँ है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "मासे त्रिंशद् दिनानि भवन्ति ।\nद्वादशभिर्मासैः संवत्सरः ॥",
+          "english": "In a month there are thirty days; twelve months make a year.",
+          "hindi": "एक मास में तीस दिन होते हैं; बारह मासों का एक संवत्सर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "विषुवद्दिने रात्रिर्दिनं च समे ।\nमकरसंक्रान्त्यां दीर्घा रात्रिः ॥",
+          "english": "At the equinox (viṣuvad), the night and day are equal. At the winter solstice (Makara-saṃkrānti), the night is long.",
+          "hindi": "विषुवद् (विषुवत्) दिन रात और दिन समान होते हैं। मकर-संक्रान्ति पर रात्रि दीर्घ होती है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "उत्तरायणे दिनं वर्धते क्रमात् ।\nदक्षिणायने हीयते क्रमशः ॥",
+          "english": "In the uttarāyaṇa (sun's northward course), the day gradually increases. In the dakṣiṇāyana (southward course), it gradually decreases.",
+          "hindi": "उत्तरायण में दिन क्रमशः बढ़ता है और दक्षिणायन में क्रमशः घटता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "लग्नं राशिसंक्रमणकाले ।\nयत् तत् स्पष्टं भवेत् ॥",
+          "english": "The ascendant (lagna) at the time of the transit (saṃkramaṇa) of a sign — that which [is computed] is the true (spaṣṭa) [longitude].",
+          "hindi": "राशि-संक्रमण (संक्रान्ति) के समय लग्न जो होता है, वह स्पष्ट होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "छायायाः प्रमाणं यत् तत् शङ्कोः ।\nदिनस्य षट्भागे स्थिते ग्नोमोने ॥",
+          "english": "The measure of the shadow cast by the gnomon (śaṅku) — when the gnomon stands at one-sixth of the day — that is its length.",
+          "hindi": "दिन के छठे भाग में जब शङ्कु (gnomon) खड़ा हो तब उसकी छाया का प्रमाण जाना जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 11,
+          "text": "तथा मध्याह्नछाया ज्ञेया ।\nयष्ट्यायामेन भाजिता नताशाः ॥",
+          "english": "Similarly the midday shadow should be known. Dividing [the shadow length] by the gnomon height gives the natāṃśas (zenith distance).",
+          "hindi": "इसी प्रकार मध्याह्न की छाया ज्ञातव्य है। यष्टि (शङ्कु) के आयाम से छाया को भाग देने पर नतांश (zenith distance) मिलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 12,
+          "text": "वासिष्ठे सिद्धान्ते प्रोक्तानि ।\nतन्त्राणि विविधानि गणिते ॥",
+          "english": "In the Vāsiṣṭha Siddhānta, various computational methods (tantra) have been stated for astronomical calculations.",
+          "hindi": "वासिष्ठ सिद्धान्त में गणित के लिए विविध तन्त्रों (विधियों) का प्रतिपादन किया गया है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "वासिष्ठसिद्धान्ते ग्रहगतिः",
+      "title_en": "Vasiṣṭha Siddhānta — Planetary Motion",
+      "siddhanta": "Vasiṣṭha",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "वासिष्ठोक्तेन ग्रहाणां मध्यमं ।\nसाधयेत् करणेन पण्डितः ॥",
+          "english": "By the method taught by Vasiṣṭha, the learned astronomer should determine the mean (longitude) of the planets using the karaṇa (handbook computation).",
+          "hindi": "वासिष्ठोक्त करण-विधि से विद्वान् ग्रहों का मध्यम साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "अहर्गणाद् ग्रहमध्यमं गत्वा ।\nशीघ्रोच्चात् केन्द्रमानं ज्ञेयम् ॥",
+          "english": "Having obtained the mean longitude from the ahargaṇa, the anomaly (kendra) should be known from the śīghrocca (the planet's aphelion).",
+          "hindi": "अहर्गण से ग्रह का मध्यम पाकर शीघ्रोच्च से केन्द्रमान जानना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "तेन स्पष्टं फलं लब्ध्वा ।\nसप्तविंशतिभागैः स्पष्टं ग्रहम् ॥",
+          "english": "Having obtained the correction (phala) from it, the true (spaṣṭa) planet is found; [the epicycle correction is] given in twenty-seven parts.",
+          "hindi": "उससे स्पष्ट फल पाकर सत्ताईस भागों से ग्रह का स्पष्टीकरण करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "मन्दोच्चेन मन्दकेन्द्रं ज्ञात्वा ।\nशीघ्रोच्चेन शीघ्रकेन्द्रम् ॥",
+          "english": "Knowing the slow (manda) anomaly from the mandocca (apogee), and the fast (śīghra) anomaly from the śīghrocca (synodic aphelion).",
+          "hindi": "मन्दोच्च से मन्दकेन्द्र और शीघ्रोच्च से शीघ्रकेन्द्र जानकर [संशोधन करें]।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "मन्दफलं पूर्वं स्पष्टीकृत्य ।\nशीघ्रफलं तदनु योजयेत् ॥",
+          "english": "First apply the manda correction (mandaphala), having thus refined [the mean planet]; then subsequently apply the śīghra correction.",
+          "hindi": "पहले मन्दफल से (मध्यम का) स्पष्टीकरण करके, फिर उसके बाद शीघ्रफल जोड़ना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "एवं ग्रहाणां स्पष्टमानेन ।\nकालज्ञानं करोति विद्वान् ॥",
+          "english": "By the true (spaṣṭa) longitudes of the planets determined in this way, the learned astronomer determines time.",
+          "hindi": "इस प्रकार ग्रहों के स्पष्ट मान से विद्वान् काल का ज्ञान करता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "भानोर्मध्यमं स्पष्टमपि तुल्यम् ।\nतस्य मन्दफलाभावात् ॥",
+          "english": "For the Sun, the mean and true longitudes are essentially the same — because the Sun has no (significant) śīghra correction [in some systems], only the manda correction applies.",
+          "hindi": "सूर्य का मध्यम और स्पष्ट प्रायः समान होता है — क्योंकि सूर्य के लिए शीघ्रफल नहीं होता, केवल मन्दफल लगाया जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "चन्द्रस्य शीघ्रोच्चसंज्ञकम् ।\nसूर्यस्थानमेव भवति ॥",
+          "english": "For the Moon, the śīghrocca is none other than the Sun's position itself.",
+          "hindi": "चन्द्रमा का शीघ्रोच्च सूर्य का स्थान ही होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "ग्रहशीघ्रोच्चयोरन्तरं शोध्यम् ।\nशीघ्रकेन्द्रमिति प्रोच्यते ॥",
+          "english": "The difference between the planet and its śīghrocca is to be subtracted — this is called the śīghra-kendra (synodic anomaly).",
+          "hindi": "ग्रह और उसके शीघ्रोच्च के अन्तर को शोध्य कहते हैं — इसे शीघ्रकेन्द्र कहा जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "उत्पत्तिः केन्द्रात् फलस्य ज्ञेया ।\nज्यायाः परिमाणतः ॥",
+          "english": "The derivation of the equation (phala) from the anomaly (kendra) should be known from the magnitude of the Rsine (jyā).",
+          "hindi": "केन्द्र से फल की उत्पत्ति ज्या (Rsine) के परिमाण से जानी चाहिए।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "वासिष्ठसिद्धान्ते चन्द्रग्रहणम्",
+      "title_en": "Vasiṣṭha Siddhānta — Lunar Computation and Eclipses",
+      "siddhanta": "Vasiṣṭha",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "चन्द्रग्रहणं पर्वणि भवति ।\nराहुना सम्पर्के पूर्णिमायाम् ॥",
+          "english": "A lunar eclipse occurs at the parvan (opposition); at full moon when the Moon is in contact with Rāhu.",
+          "hindi": "पूर्णिमा के पर्व पर राहु के संपर्क में आने पर चन्द्रग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "तमः पृथ्व्याः शङ्क्वाकारं भवति ।\nतस्मिन् प्रविष्टो विमर्दः ॥",
+          "english": "The shadow of the Earth is cone-shaped (śaṅkvākāra). When the Moon enters it, there is immersion (vimarda, totality).",
+          "hindi": "पृथ्वी की छाया शङ्कु के आकार की होती है। जब चन्द्रमा उसमें प्रवेश करता है तब सम्पर्क (विमर्द) होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "स्पर्शमोक्षयोः कालं साधयेत् ।\nच्छादनव्यासमानेन ॥",
+          "english": "The times of first contact (sparśa) and release (mokṣa) should be determined by the measure of the diameter of the shadow.",
+          "hindi": "छाया के व्यास के मान से स्पर्श और मोक्ष के काल की साधना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "भूच्छायाव्यासस्तु चन्द्रव्यासेन ।\nतुलनीयः ग्रहणे ॥",
+          "english": "The diameter of the Earth's shadow should be compared with the diameter of the Moon in an eclipse.",
+          "hindi": "ग्रहण में भूछाया के व्यास की तुलना चन्द्रव्यास से करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "विक्षेपाभावे सम्पूर्णं ग्रहणम् ।\nविक्षेपे सति खण्डग्रासः ॥",
+          "english": "When there is no (lunar) latitude (vikṣepa), the eclipse is total. When there is latitude, only a partial obscuration (khaṇḍagrāsa) occurs.",
+          "hindi": "विक्षेप (चन्द्र-अक्षांश) के अभाव में पूर्ण ग्रहण होता है। विक्षेप होने पर खण्डग्रास (आंशिक ग्रहण) होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "विक्षेपो राहोरन्तरेण ज्ञेयः ।\nपलाशाख्या पञ्च च भागाः ॥",
+          "english": "The latitude (vikṣepa) should be known from the difference [of the Moon's longitude] from Rāhu. The maximum is five degrees (pañca bhāgāḥ), called palāśā (i.e., the Moon's maximum latitude).",
+          "hindi": "विक्षेप, राहु से (चन्द्र के) अन्तर से जाना जाता है। इसका अधिकतम पाँच भाग (डिग्री) है जिसे पलाशा कहते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "यदा विक्षेपो भूच्छायाव्यासात् ।\nन्यूनः तदा ग्रहणं भवति ॥",
+          "english": "When the latitude (vikṣepa) is less than the diameter of the Earth's shadow, then an eclipse occurs.",
+          "hindi": "जब विक्षेप भूछाया-व्यास से कम हो, तब ग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "स्थित्यर्धकालः प्रथमः स्पर्शात् ।\nमध्यग्रहणं तु मध्ये ॥",
+          "english": "Half the duration (sthityardha) is measured from first contact (sparśa). Mid-eclipse is at the midpoint.",
+          "hindi": "स्थिति का अर्ध काल पहले स्पर्श से होता है। ग्रहण का मध्य मध्य में होता है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "रोमकसिद्धान्तः",
+      "title_en": "The Romaka Siddhānta",
+      "siddhanta": "Romaka",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "रोमकसिद्धान्तं वक्ष्यामि ।\nयेन सर्वे ग्रहा ज्ञायन्ते ॥",
+          "english": "I shall explain the Romaka Siddhānta, by which all the planets are known.",
+          "hindi": "रोमक सिद्धान्त का वर्णन करूँगा जिससे सभी ग्रह ज्ञात होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "रोमकस्य युगं षड्दशसहस्राणि ।\nसौरवर्षाणि पञ्चाशीतिश्च ॥",
+          "english": "The yuga of the Romaka [Siddhānta] is [2,850 solar years — comprising] sixteen thousand [and eighty-five months] — the solar years are two thousand eight hundred and fifty.",
+          "hindi": "रोमक (सिद्धान्त) का युग [२,८५० सौर वर्ष] है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "युगे चन्द्राः षड्दशसहस्राणि ।\nपञ्चत्रिंशद्युताः ॥",
+          "english": "In a yuga there are sixteen thousand and thirty-five [sidereal months of the Moon, in the Romaka system].",
+          "hindi": "रोमक युग में सोलह हजार पैंतीस [चन्द्रमा के नाक्षत्र मास] होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "तस्याहर्गणः सिनिवाल्यां ।\nशकेन्द्रकालात् गण्यते ॥",
+          "english": "Its ahargaṇa (elapsed day count) at new moon is reckoned from the Śaka king's epoch.",
+          "hindi": "शकेन्द्र के काल से सिनिवाली (अमावस्या) का अहर्गण गिना जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "षड्दशसहस्राणि पञ्चत्रिंशत् ।\nसंवत्सरेषु चन्द्रमासाः ॥",
+          "english": "In the [2,850] years, there are sixteen thousand and thirty-five lunar months.",
+          "hindi": "[२,८५०] वर्षों में सोलह हजार पैंतीस चन्द्र मास होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "एतत् रोमकमतेन गणितम् ।\nतेन पर्वाणि साधयेत् ॥",
+          "english": "This is the computation according to the Romaka view. By it, one should determine the parvans (new and full moon dates).",
+          "hindi": "यह रोमक मत के अनुसार गणित है। इससे पर्वों की साधना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "सूर्यं मध्यमं साधयित्वा ।\nतेन रोमकः सौरः प्रोक्तः ॥",
+          "english": "Having determined the mean Sun, thereby the Romaka solar [value] is stated.",
+          "hindi": "मध्यम सूर्य साधकर रोमक का सौर मान कहा गया है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "चन्द्रस्य विक्षेपः शरः ।\nपञ्चभागानां मानेन ॥",
+          "english": "The latitude (vikṣepa) of the Moon — the arrow (śara) — is in proportion to five degrees (as its maximum).",
+          "hindi": "चन्द्रमा का विक्षेप (शर) पाँच भागों के मान से (होता है)।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "पौलिशसिद्धान्तः — सामान्यप्रकरणम्",
+      "title_en": "Pauliśa Siddhānta — General Principles",
+      "siddhanta": "Pauliśa",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पौलिशसिद्धान्तानुसारेण ।\nग्रहगणितं वक्ष्यामि संक्षेपात् ॥",
+          "english": "Following the Pauliśa Siddhānta, I shall briefly explain the planetary calculations.",
+          "hindi": "पौलिश सिद्धान्त के अनुसार संक्षेप में ग्रह-गणित का वर्णन करूँगा।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "महायुगे सूर्यस्य भगणाः ।\nचतुःशतत्रिंशत्सहस्राणि विंशतिः ॥",
+          "english": "The revolutions of the Sun in a mahāyuga are four hundred thirty-two thousand and twenty [= 4,320,000, standard value shared with the Saura].",
+          "hindi": "महायुग में सूर्य के भगण चार लाख बत्तीस हजार बीस [= ४,३२०,०००] हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "चन्द्रस्य सप्तपञ्चाशत्सहस्राणि ।\nसप्तशतत्रयोपञ्चाशत् ॥",
+          "english": "The Moon's [revolutions] are fifty-seven thousand seven hundred and fifty-three [= 57,753,336 in the Pauliśa mahāyuga].",
+          "hindi": "चन्द्रमा के [भगण] सत्तावन हजार सात सौ तिरपन [= ५७,७५३,३३६] हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "राहोर्भगणाः त्रयः शतानि ।\nदश च महायुगे ॥",
+          "english": "The revolutions of Rāhu (the lunar node) in a mahāyuga are [negative] three hundred and ten [= the node's retrograde motion].",
+          "hindi": "महायुग में राहु के (वक्र) भगण तीन सौ दस हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "बुधशुक्रयोर्भगणाः ।\nसूर्यसमाः किल ॥",
+          "english": "The revolutions of Mercury and Venus — these are the same as the Sun's (in terms of mean sidereal motion per year, since their mean motions track the Sun).",
+          "hindi": "बुध और शुक्र के भगण सूर्य के समान ही हैं (क्योंकि उनकी माध्य गति सूर्य के अनुसार होती है)।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "मङ्गलस्य द्वे सहस्रे ।\nत्रयोविंशत्यधिके ॥",
+          "english": "Those of Mars (Maṅgala) are two thousand and twenty-three [= 2,296,832 per mahāyuga in some recensions].",
+          "hindi": "मङ्गल (मार्स) के दो हजार तेईस [= कुछ पाठों में ₂,२९६,८३२ प्रति महायुग] हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "गुरोर्भगणाः ।\nत्रयोविंशत्युत्तरशताः ॥",
+          "english": "The revolutions of Jupiter (Guru) are one hundred and twenty-three [= 364,220 per mahāyuga].",
+          "hindi": "गुरु (बृहस्पति) के भगण एक सौ तेईस [= ३,६४,२२० प्रति महायुग] हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "शनेर्भगणाः सप्तपञ्चाशत् ।\nशतं च ॥",
+          "english": "Saturn's (Śani) revolutions are one hundred and fifty-seven [= 146,568 per mahāyuga].",
+          "hindi": "शनि के भगण एक सौ सत्तावन [= १,४६,५६८ प्रति महायुग] हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "अहर्गणसाधनं प्रोक्तम् ।\nयुगादारभ्य गण्यते ॥",
+          "english": "The determination of the ahargaṇa has been stated — it is counted from the beginning of the yuga.",
+          "hindi": "अहर्गण की साधना बताई गई है — युग के आरम्भ से गिना जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "कलियुगादिः शकात् पूर्वं ।\nत्रयःशतं पञ्चाशद्वर्षाणि ॥",
+          "english": "The Kali epoch preceded the Śaka era by three hundred and fifty years (= Kali 3179 = Śaka 0 = 78 CE, with Kali era beginning 3102 BCE).",
+          "hindi": "कलियुग का आरम्भ शक से तीन सौ पचास वर्ष पूर्व हुआ था।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "पौलिशसिद्धान्ते मध्यमग्रहसाधनम्",
+      "title_en": "Pauliśa Siddhānta — Computation of Mean Planets",
+      "siddhanta": "Pauliśa",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "भगणैरहर्गणं भजेत् ।\nलब्धा राशयः मध्यमाः ॥",
+          "english": "Divide the ahargaṇa by the revolution divisors — the quotient gives the [mean] signs (rāśis) of the mean [planet].",
+          "hindi": "अहर्गण को भगण से भाग दें — लब्धि मध्यम ग्रह की राशियाँ देती है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "शेषं गुणयित्वा भागानां ।\nलब्धमंशाः स्युः ॥",
+          "english": "Multiply the remainder [by 12 or 30 as appropriate] and divide again — the quotient gives the degrees (aṃśas).",
+          "hindi": "शेष को [उचित गुणनखण्ड से] गुणकर फिर भाग दें — लब्धि अंश होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "एवं कलाविकलाः साध्याः ।\nक्रमशः मध्यमे ॥",
+          "english": "Similarly, the arcminutes and arcseconds are to be determined in order for the mean [longitude].",
+          "hindi": "इसी प्रकार क्रमशः कला और विकला मध्यम [देशांश] के लिए साधनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "बीजसंस्कारं प्रागेव कृत्वा ।\nग्रहसाधनं कुर्यात् ॥",
+          "english": "Having first applied the bīja correction (observational adjustment), one should then calculate the planet.",
+          "hindi": "पहले बीज-संस्कार (प्रेक्षण-संशोधन) लगाकर फिर ग्रह की साधना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "पौलिशे त्रिंशत्सहस्राणि ।\nपञ्च च सौरदिनानि युगे ॥",
+          "english": "In the Pauliśa [Siddhānta], there are [1,577,917] civil (sāvana) days in a yuga — thirty thousand five [hundreds and seventeen].",
+          "hindi": "पौलिश सिद्धान्त में एक युग में [१,५७७,९१७] सावन दिन होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "चन्द्रमासाः पञ्चाशत्सहस्राणि ।\nत्रयः शतोत्तराः तथा ॥",
+          "english": "Lunar months [in the yuga] are fifty-three thousand [and three hundred] — as stated.",
+          "hindi": "युग में चन्द्रमास तिरपन हजार [तीन सौ से अधिक] होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "इन्टरकलारमासाः सहस्राणि ।\nएकं च पञ्चशतानि ॥",
+          "english": "Intercalary (adhimāsa) months [in the yuga] are one thousand and five hundred [approximately, = 1,593 in the mahāyuga].",
+          "hindi": "युग में अधिक (इन्टरकलारी) मास एक हजार पाँच सौ (लगभग) होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "अवमदिनानि त्रिषष्टिसहस्राणि ।\nशताधिकानि तथा ॥",
+          "english": "The omitted lunar days (avama-dinas / tithikṣayas) [in the yuga] are sixty-three thousand and more than one hundred [= 25,082 in the mahāyuga].",
+          "hindi": "युग में अवमदिन (तिथिक्षय) तिरसठ हजार से अधिक होते हैं।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "पौलिशसिद्धान्ते रोमकसूर्यग्रहणम्",
+      "title_en": "Pauliśa Siddhānta — Solar Eclipse (Romaka Method)",
+      "siddhanta": "Pauliśa",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पौलिशेन सूर्यग्रहणं साध्यते ।\nरोमकेण च समानम् ॥",
+          "english": "A solar eclipse is computed by the Pauliśa method; and it is the same as by the Romaka [method].",
+          "hindi": "पौलिश से सूर्यग्रहण की साधना होती है; और रोमक से भी समान ही है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "सूर्यचन्द्रयोः संयोगे ।\nनव्यां तिथौ ग्रहणम् ॥",
+          "english": "At the conjunction of the Sun and Moon — at the new moon tithi — an eclipse occurs.",
+          "hindi": "सूर्य और चन्द्र के संयोग (अमावस्या-तिथि) पर ग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "चन्द्रस्य विक्षेपः शून्यः ।\nतदा पूर्णसूर्यग्रहणम् ॥",
+          "english": "When the Moon's latitude (vikṣepa) is zero, there is a total solar eclipse.",
+          "hindi": "जब चन्द्रमा का विक्षेप शून्य हो तो पूर्ण सूर्यग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "लम्बनम् अक्षजं दृक्तुल्यम् ।\nतेन संशोधयेत् ॥",
+          "english": "The parallax in longitude (lambana) is equal to the ecliptic parallax; it should be applied as a correction.",
+          "hindi": "देशान्तर-लम्बन (parallax) क्रान्तिवृत्त-लम्बन के बराबर होता है; उससे संशोधन करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "नति विक्षेपसंशोधनम् ।\nकुर्यात् सूर्यग्रहणे ॥",
+          "english": "The correction for nati (parallax in latitude) and vikṣepa (lunar latitude) must be applied in computing a solar eclipse.",
+          "hindi": "सूर्यग्रहण में नति (अक्षांश-लम्बन) और विक्षेप का संशोधन करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "लम्बनान्वितं सम्पर्ककालम् ।\nस्पर्शमोक्षौ ततो ज्ञेयौ ॥",
+          "english": "Having adjusted the contact time (saṃparkakāla) with the parallax correction, the times of first contact (sparśa) and release (mokṣa) should then be known.",
+          "hindi": "लम्बन से समायोजित संपर्क-काल के आधार पर स्पर्श और मोक्ष के काल जानने चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "सूर्यस्य व्यासः दृश्यः ।\nचन्द्रव्यासेन तुलनीयः ॥",
+          "english": "The apparent diameter of the Sun should be compared with the diameter of the Moon.",
+          "hindi": "सूर्य का दृश्य व्यास चन्द्र के व्यास से तुलनीय है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "ग्रासमानं तयोरन्तरेण ।\nसाधयेत् ॥",
+          "english": "The amount of obscuration (grāsamāna) should be determined from the difference between those two [diameters].",
+          "hindi": "ग्रास-मान उन दोनों (सूर्य और चन्द्र के व्यास) के अन्तर से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "पौलिशे उक्तम् एतद् ग्रहणम् ।\nरोमकेण समानं साध्यते ॥",
+          "english": "This eclipse method is stated in the Pauliśa; by the Romaka it is computed identically.",
+          "hindi": "यह ग्रहण-विधि पौलिश में उक्त है; रोमक द्वारा भी इसी प्रकार साधी जाती है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "सौरसिद्धान्ते मध्यमग्रहः",
+      "title_en": "Saura Siddhānta — Mean Planetary Motion",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सौरसिद्धान्तानुसारेण ।\nमध्यमं वक्ष्यामि संक्षेपात् ॥",
+          "english": "Following the Saura Siddhānta, I shall briefly explain the mean [planetary motion].",
+          "hindi": "सौर सिद्धान्त के अनुसार संक्षेप में मध्यम का वर्णन करूँगा।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "महायुगे सावनदिनानि ।\nसप्तदशलक्षसप्तसप्ततिसहस्राणि ॥",
+          "english": "In a mahāyuga, the civil (sāvana) days are 1,577,917,500 (fifteen hundred seventy-seven thousand nine hundred seventeen and a half — in the Saura system).",
+          "hindi": "महायुग में सावन दिनों की संख्या १,५७७,९१७,५०० (सौर प्रणाली में) है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "नक्षत्रदिवसाः सप्तदशलक्षाः ।\nएकविंशत्यधिकाः ॥",
+          "english": "The sidereal days (nakṣatra-divas) are one million, five hundred and seventy-seven thousand nine hundred twenty-one (per mahāyuga).",
+          "hindi": "नक्षत्रदिवस (सौर महायुग में) पन्द्रह लाख सत्तहत्तर हजार नौ सौ इक्कीस हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "राहोः पातः प्रतीपं भ्रमति ।\nषट्त्रिंशत्सप्तभागेन ॥",
+          "english": "Rāhu's node moves in retrograde — by thirty-six and seven parts [= the retrograde motion of the lunar node].",
+          "hindi": "राहु का पात प्रतीप (वक्र) गति से चलता है — छत्तीस और सात भाग (की दर) से।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "गुरोः षड्भागाः चाल्याः ।\nशनेः त्रयो भागाः ॥",
+          "english": "Jupiter should be adjusted by six degrees [per year in mean motion]; Saturn by three degrees [approximately — the actual mean motion is used for the correction].",
+          "hindi": "गुरु को छह भाग (डिग्री प्रतिवर्ष) से समायोजित करना चाहिए; शनि को तीन भाग से।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "मध्यमाः खेटाः परस्परम् ।\nतुलनीयाः स्पष्टार्थं ॥",
+          "english": "The mean planets [should be] compared with each other for the purpose of computing the true (spaṣṭa) [longitude].",
+          "hindi": "स्पष्ट [देशांश] की गणना के लिए मध्यम ग्रहों की परस्पर तुलना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "स्पष्टः करणेन सिद्ध्यति ।\nमध्यमात् फलसंयुतात् ॥",
+          "english": "The true [longitude] is established by the procedure (karaṇa), by adding the equation (phala) to the mean.",
+          "hindi": "मध्यम में फल जोड़कर करण-विधि से स्पष्ट (ग्रह) सिद्ध होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "सौरे ग्रहमध्यमसाधनम् ।\nएवमुक्तं मुनिवरैः ॥",
+          "english": "The determination of mean planets in the Saura [system] has been stated thus by the best of sages.",
+          "hindi": "सौर [प्रणाली] में ग्रह-मध्यम की साधना मुनिश्रेष्ठों द्वारा इस प्रकार कही गई है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "सौरसिद्धान्ते स्पष्टग्रहः",
+      "title_en": "Saura Siddhānta — True Planets",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "मन्दस्पष्टं प्रथमं साधयेत् ।\nतदनु शीघ्रस्पष्टं कुर्यात् ॥",
+          "english": "First determine the manda-spaṣṭa (slow equation correction); then subsequently apply the śīghra-spaṣṭa (fast equation correction).",
+          "hindi": "पहले मन्दस्पष्ट साधें, फिर उसके बाद शीघ्रस्पष्ट करें।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "मन्दकेन्द्राद् ज्यां गृहीत्वा ।\nव्यासार्धेन हत्वा ॥",
+          "english": "Taking the Rsine (jyā) of the manda-kendra (slow anomaly), multiply by the radius [and divide by the epicycle radius] to get the manda equation.",
+          "hindi": "मन्दकेन्द्र की ज्या लेकर व्यासार्ध से गुण करके [और कक्षा-व्यास से भाग देकर] मन्दफल पाएँ।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "शीघ्रकेन्द्राद् ज्यां गृहीत्वा ।\nशीघ्रफलं साधयेत् ॥",
+          "english": "Taking the Rsine of the śīghra-kendra (fast anomaly), determine the śīghra equation (phala).",
+          "hindi": "शीघ्रकेन्द्र की ज्या लेकर शीघ्रफल साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "उभयोर्फलयोर्योगः ।\nस्पष्टस्य साधनम् ॥",
+          "english": "The sum of both equations (phala) gives the determination of the true (spaṣṭa) [longitude].",
+          "hindi": "दोनों फलों का योग ही स्पष्ट [ग्रह] की साधना है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "मन्दोच्चात् केन्द्रमानं ।\nमध्यमात् शोधनम् ॥",
+          "english": "The anomaly (kendra) is measured from the apogee (mandocca); it is the difference from the mean [longitude].",
+          "hindi": "मन्दोच्च से केन्द्रमान निकाला जाता है — यह मध्यम से (उच्च का) अन्तर है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "पार्श्वफलं तु त्रिकोणफलम् ।\nयोज्यं वा शोध्यं च ॥",
+          "english": "The lateral equation (pārśvaphala) is the triangular (i.e., Rsine-based) equation; it is to be added or subtracted [depending on the quadrant].",
+          "hindi": "पार्श्वफल त्रिकोण (ज्या-आधारित) फल होता है; इसे जोड़ा या घटाया जाता है [चतुर्थांश के अनुसार]।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "समकेन्द्रे फलं शून्यम् ।\nचतुर्थांशे तु अधिकम् ॥",
+          "english": "At zero anomaly (sama-kendra), the equation (phala) is zero. At the quadrant (one-fourth), it is maximum.",
+          "hindi": "शून्य केन्द्र पर फल शून्य होता है; चतुर्थांश (90°) पर अधिकतम होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "उत्तरे पदे फलं योज्यम् ।\nदक्षिणे शोध्यं च ॥",
+          "english": "In the northern quadrant (0°–180°), the equation is to be added; in the southern (180°–360°), it is to be subtracted.",
+          "hindi": "उत्तर पाद (०°-१८०°) में फल जोड़ना चाहिए; दक्षिण (१८०°-३६०°) में घटाना चाहिए।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "सौरसिद्धान्ते चन्द्रग्रहणम्",
+      "title_en": "Saura Siddhānta — Lunar Eclipses",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पूर्णिमायां राहुसम्पाते ।\nचन्द्रग्रहणं भवति ॥",
+          "english": "At the full moon (pūrṇimā), when there is conjunction with Rāhu, a lunar eclipse occurs.",
+          "hindi": "पूर्णिमा पर राहु के संपात में चन्द्रग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भूच्छाया व्यासः ।\nचन्द्रव्यासेन तुल्यः ॥",
+          "english": "The diameter of the Earth's shadow is [to be compared] with the diameter of the Moon.",
+          "hindi": "भूच्छाया का व्यास चन्द्रव्यास के बराबर होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "स्पर्शमोक्षकाल एवम् ।\nस्थित्यर्धेन साध्यते ॥",
+          "english": "Thus the times of contact (sparśa) and release (mokṣa) are computed from half the duration (sthityardha).",
+          "hindi": "इस प्रकार स्पर्श और मोक्ष काल स्थिति-अर्ध से साधे जाते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "विमर्दार्धं च तेनैव ।\nसाधयेत् विद्वान् ॥",
+          "english": "Similarly, half the duration of totality (vimardārdha) should also be computed by the learned astronomer.",
+          "hindi": "विमर्द-अर्ध (पूर्णग्रास का अर्ध काल) भी उसी से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "शरस्य प्रमाणं विक्षेपतः ।\nग्राह्यं ग्रहणे ॥",
+          "english": "The measure of the arrow (śara = lunar latitude) from the vikṣepa (latitude) should be taken in an eclipse.",
+          "hindi": "विक्षेप (अक्षांश) से शर का प्रमाण ग्रहण में ग्रहण करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "ग्रासमानं व्यासान्तरेण ।\nव्यासयोगार्धेन च ॥",
+          "english": "The measure of obscuration (grāsa) is [determined] from the difference and sum of the two diameters (of the shadow and the Moon).",
+          "hindi": "ग्रास-मान दोनों व्यासों (भूछाया और चन्द्र) के अन्तर और योगार्ध से [निर्धारित] होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "निमज्जनस्थित्योः कालं ।\nसाधयेत् करणेन ॥",
+          "english": "The duration of immersion and emersion should be calculated using the karaṇa (handbook method).",
+          "hindi": "निमज्जन (immersion) और उन्मज्जन (emersion) की स्थिति का काल करण से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं सौरसिद्धान्ते ।\nचन्द्रग्रहणं प्रोक्तम् ॥",
+          "english": "Thus has the lunar eclipse been expounded in the Saura Siddhānta.",
+          "hindi": "इस प्रकार सौर सिद्धान्त में चन्द्रग्रहण प्रोक्त किया गया है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "पैतामहसिद्धान्तः",
+      "title_en": "The Paitāmaha Siddhānta",
+      "siddhanta": "Paitāmaha",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पैतामहं प्रवक्ष्यामि सिद्धान्तम् ।\nयथावत् संक्षेपेण ॥",
+          "english": "I shall now expound the Paitāmaha Siddhānta accurately and in brief.",
+          "hindi": "पैतामह सिद्धान्त को यथावत् संक्षेप में बताऊँगा।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "पैतामहे वर्षे पञ्चसंख्या ।\nयुगं तस्य कथ्यते ॥",
+          "english": "In the Paitāmaha, a yuga consists of five years — that is how it is stated.",
+          "hindi": "पैतामह में पाँच वर्षों का एक युग कहा जाता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "युगे सूर्यभगणाः पञ्च ।\nचन्द्रभगणाः षष्टिः ॥",
+          "english": "In the [five-year] yuga, the Sun's revolutions are five; the Moon's revolutions are sixty (= 62 synodic months).",
+          "hindi": "पाँच वर्षीय युग में सूर्य के पाँच भगण और चन्द्रमा के साठ (= 62 सिनॉडिक मास) भगण होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "पञ्चाब्दे पञ्चदश ऋतवः ।\nद्वे शते चैव दिनानि ॥",
+          "english": "In the five-year [yuga], there are fifteen seasons (ṛtus); and [1,830] days (two hundred and three = 1830 approx.).",
+          "hindi": "पाँच वर्षीय [युग] में पन्द्रह ऋतुएँ और [१,८३०] दिन होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "त्रिभिर्वर्षैः अधिमासः ।\nएको ज्ञेयः पैतामहे ॥",
+          "english": "In the Paitāmaha, one intercalary month (adhimāsa) should be known [to occur every] three years.",
+          "hindi": "पैतामह में प्रति तीन वर्ष में एक अधिक मास (अधिमास) जानना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "नक्षत्राणां सप्तविंशतिः ।\nचन्द्रस्य च मासः ॥",
+          "english": "The nakshatras are twenty-seven; and a lunar month [consists of the Moon's passage through them].",
+          "hindi": "नक्षत्र सत्ताईस हैं; और एक चन्द्र मास [उनसे चन्द्रमा के पारगमन से बनता] है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "पैतामहे सूर्यमासाः द्वादश ।\nवर्षं संवत्सरः ॥",
+          "english": "In the Paitāmaha, there are twelve solar months; a year is a saṃvatsara.",
+          "hindi": "पैतामह में बारह सौर मास होते हैं; वर्ष को संवत्सर कहते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "एतत् पैतामहमतम् ।\nस्थूलं ज्ञेयम् ॥",
+          "english": "This is the Paitāmaha view — it should be understood as [merely] approximate (sthūla).",
+          "hindi": "यह पैतामह का मत है — इसे स्थूल (लगभग) जानना चाहिए।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "त्रैलोक्यसंस्थानम्",
+      "title_en": "The Constitution of the Three Worlds (Trailokya-samsthāna)",
+      "siddhanta": "General",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "भूर्गोलाकारा मध्ये जलसमुद्रेण ।\nवेष्टिता सर्वत्र ॥",
+          "english": "The Earth is globe-shaped (gola), surrounded on all sides by the ocean (jalasamudra) in the middle [of the cosmic sphere].",
+          "hindi": "पृथ्वी गोलाकार है, सर्वत्र जल-समुद्र से घिरी हुई है।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "लङ्कायाः सम्भवः ।\nविषुवद्वृत्ते स्थिता ॥",
+          "english": "Laṅkā exists [on the equator]; it stands on the equatorial circle (viṣuvadvṛtta).",
+          "hindi": "लंका (का अस्तित्व है); यह विषुवद्वृत्त (भूमध्यरेखा) पर स्थित है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "मेरुः सुमेरुः उत्तरध्रुवे ।\nवडवानलः दक्षिणध्रुवे ॥",
+          "english": "Mount Meru (Sumeru) is at the north pole; the undersea fire (Vaḍavānala) is at the south pole.",
+          "hindi": "मेरु (सुमेरु) उत्तरी ध्रुव पर है; वडवानल दक्षिणी ध्रुव पर है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "भूमेरनुक्रमेण खगाः भ्रमन्ति ।\nपश्चिमाभिमुखाः सर्वे ॥",
+          "english": "All celestial bodies revolve following the Earth, all facing westward (i.e., they rise in the east and set in the west due to the Earth's rotation).",
+          "hindi": "सभी खगोलीय पिण्ड पृथ्वी के अनुक्रम से पश्चिम की ओर मुख करके भ्रमण करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "नक्षत्राणि स्थिराणि ।\nग्रहाश्च चरन्ति ॥",
+          "english": "The stars (nakṣatras) are fixed (sthira); the planets (grahas) move [among them].",
+          "hindi": "नक्षत्र (तारे) स्थिर हैं; ग्रह उनमें विचरण करते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "भूमेः परिधिः पञ्चशतयोजनानि ।\nव्यासस्तु द्विशतं ॥",
+          "english": "The circumference of the Earth is five thousand yojanas; its diameter is two thousand [yojanas — approximate values per Varāhamihira's tradition].",
+          "hindi": "पृथ्वी की परिधि पाँच हजार योजन है; व्यास दो हजार [योजन है — वराहमिहिर की परम्परा के अनुसार]।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "उदयास्तयोः समयः ।\nदेशभेदाद् भवति ॥",
+          "english": "The time of rising and setting varies due to difference of locality (deśabheda).",
+          "hindi": "उदय और अस्त का समय देशभेद से बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "एषा त्रैलोक्यस्थितिः ।\nप्रोक्ता मुनिभिः ॥",
+          "english": "This is the constitution (sthiti) of the three worlds (trailokya), as expounded by the sages.",
+          "hindi": "यह त्रैलोक्य की स्थिति है, जो मुनियों द्वारा प्रोक्त है।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "भूगोलविद्यया ग्रहस्पष्टम् ।\nसाधयेत् विद्वान् ॥",
+          "english": "With the knowledge of the terrestrial sphere (bhūgolavidyā), the learned astronomer should determine the true planetary longitude.",
+          "hindi": "भूगोल-विद्या (terrestrial sphere) के ज्ञान से विद्वान् ग्रह-स्पष्ट साधना चाहिए।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "सौरेण ग्रहस्थानसाधनम्",
+      "title_en": "Determination of Planetary Positions by the Saura Method",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सौरसिद्धान्तेन ग्रहाणां स्थानम् ।\nसाधयामि संक्षेपात् ॥",
+          "english": "By the Saura Siddhānta, I determine the positions of the planets briefly.",
+          "hindi": "सौर सिद्धान्त से ग्रहों के स्थान का संक्षेप में निर्धारण करता हूँ।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भौमस्य मन्दोच्चः वृश्चिके ।\nमकरे गुरोः तथा ॥",
+          "english": "The mandocca (apogee) of Mars is in Vṛścika (Scorpio); that of Jupiter is in Makara (Capricorn).",
+          "hindi": "मंगल का मन्दोच्च वृश्चिक राशि में है; गुरु का मन्दोच्च मकर राशि में है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "बुधस्य मन्दोच्चः कन्यायाम् ।\nशुक्रस्य मिथुने ॥",
+          "english": "The mandocca of Mercury is in Kanyā (Virgo); that of Venus is in Mithuna (Gemini).",
+          "hindi": "बुध का मन्दोच्च कन्या राशि में है; शुक्र का मिथुन राशि में।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शनेः मन्दोच्चः तुलायाम् ।\nसूर्यस्य मेषे ॥",
+          "english": "Saturn's mandocca is in Tulā (Libra); the Sun's is in Meṣa (Aries).",
+          "hindi": "शनि का मन्दोच्च तुला राशि में है; सूर्य का मेष राशि में।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "एवं मन्दोच्चाः प्रोक्ताः ।\nशीघ्रोच्चाश्च तथा ॥",
+          "english": "Thus the mandoccas have been stated; and similarly the śīghroccas (synodic aphelions).",
+          "hindi": "इस प्रकार मन्दोच्च कहे गए; और उसी प्रकार शीघ्रोच्च भी।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "शीघ्रोच्चाः सूर्यसमाः ।\nबुधशुक्रयोः ॥",
+          "english": "The śīghroccas of Mercury and Venus are equal to [the longitude of] the Sun.",
+          "hindi": "बुध और शुक्र के शीघ्रोच्च सूर्य के [देशांश के] बराबर होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "भौमगुरुशनीनाम् च शीघ्रोच्चाः ।\nस्वशीघ्रोच्चाः पृथक् ॥",
+          "english": "And the śīghroccas of Mars, Jupiter, and Saturn are each their own distinct śīghrocca [= their heliocentric positions].",
+          "hindi": "मंगल, गुरु और शनि के शीघ्रोच्च उनके अपने-अपने पृथक् शीघ्रोच्च होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं ग्रहस्थानम् ।\nसौरे प्रोक्तम् ॥",
+          "english": "Thus has the planetary position been stated in the Saura [Siddhānta].",
+          "hindi": "इस प्रकार सौर [सिद्धान्त] में ग्रह-स्थान का प्रतिपादन किया गया है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "सौरे चन्द्रग्रहणसाधनम्",
+      "title_en": "Computation of Lunar Eclipses by the Saura Method",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सौरेण चन्द्रग्रहणम् ।\nयथोक्तेन साधयेत् ॥",
+          "english": "By the Saura [method], the lunar eclipse should be computed as stated.",
+          "hindi": "सौर [विधि] से चन्द्रग्रहण का निर्धारण यथोक्त करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "भूच्छायाव्यासं साधयेत् ।\nत्रिप्रश्नादिना ॥",
+          "english": "The diameter of the Earth's shadow should be determined by the tripraśna method (direction, place, and time calculations).",
+          "hindi": "भूच्छाया का व्यास त्रिप्रश्न (दिशा, देश और काल) आदि से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "चन्द्रस्पष्टात् राहुस्पष्टं शोधयेत् ।\nशेषम् विक्षेपस्य कारणम् ॥",
+          "english": "Subtract the true longitude of Rāhu from the true longitude of the Moon; the remainder is the cause of latitude (vikṣepa).",
+          "hindi": "चन्द्र-स्पष्ट से राहु-स्पष्ट घटाएँ; शेष विक्षेप (अक्षांश) का कारण है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शरः विक्षेपजः ।\nपञ्चभागान्तः ॥",
+          "english": "The arrow (śara, latitudinal displacement) arises from the vikṣepa and is at most five degrees.",
+          "hindi": "शर (अक्षांश-विस्थापन) विक्षेप से उत्पन्न होता है और अधिकतम पाँच भाग होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "ग्रहणं भवति यदि शरः ।\nव्यासयोगार्धात् न्यूनः ॥",
+          "english": "An eclipse occurs if the arrow (śara) is less than half the sum of the two diameters [of Moon and Earth's shadow].",
+          "hindi": "यदि शर दोनों व्यासों (चन्द्र और भूच्छाया) के योगार्ध से कम हो तो ग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "पूर्वं परं च मध्यं च ।\nत्रयः कालाः ग्रहणे ॥",
+          "english": "In an eclipse there are three times: the first (sparśa = contact), the last (mokṣa = release), and the middle (madhya = mid-eclipse).",
+          "hindi": "ग्रहण में तीन काल होते हैं: पहला (स्पर्श), अन्तिम (मोक्ष) और मध्य।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "स्थित्यर्धम् विमर्दार्धम् च ।\nसाधयेत् करणेन ॥",
+          "english": "Half the total duration (sthityardha) and half the totality duration (vimardārdha) should be computed using the karaṇa.",
+          "hindi": "स्थिति-अर्ध और विमर्द-अर्ध की साधना करण से करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं सौरे ।\nचन्द्रग्रहणम् प्रोक्तम् ॥",
+          "english": "Thus the lunar eclipse has been described in the Saura [Siddhānta].",
+          "hindi": "इस प्रकार सौर [सिद्धान्त] में चन्द्रग्रहण प्रोक्त किया गया है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "सौरे सूर्यग्रहणसाधनम्",
+      "title_en": "Computation of Solar Eclipses by the Saura Method",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सूर्यग्रहणं साधयेत् सौरेण ।\nसंक्षेपेण प्रवक्ष्यामि ॥",
+          "english": "The solar eclipse should be computed by the Saura [method]; I shall explain it briefly.",
+          "hindi": "सौर विधि से सूर्यग्रहण साधना चाहिए; संक्षेप में बताऊँगा।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "अमावास्यायां सम्पातः ।\nग्रहणं भवति ॥",
+          "english": "At new moon (amāvāsyā), at conjunction [with Rāhu], an eclipse occurs.",
+          "hindi": "अमावस्या पर [राहु के साथ] संपात होने पर ग्रहण होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "लम्बनं देशविशेषात् ।\nस्पष्टार्थं संशोध्यम् ॥",
+          "english": "Parallax in longitude (lambana) arising from one's specific locality should be corrected for the purpose of computing the true [eclipse time].",
+          "hindi": "देशविशेष से उत्पन्न लम्बन (parallax) को स्पष्ट [ग्रहण-काल] के लिए संशोधित करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "नतिः अक्षजा ज्ञेया ।\nविक्षेपसंशोधनाय ॥",
+          "english": "The nati (parallax in latitude), arising from the observer's latitude (akṣa), should be known — for correcting the latitude (vikṣepa).",
+          "hindi": "अक्षज नति (अक्षांश-जनित parallax) को विक्षेप-संशोधन के लिए जानना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "लम्बनसंशोधितं पर्वकालम् ।\nसाधयित्वा स्पर्शकालः ज्ञेयः ॥",
+          "english": "Having determined the parvan time corrected for parallax (lambana), the time of first contact (sparśa) should be known.",
+          "hindi": "लम्बन से संशोधित पर्वकाल साधकर स्पर्शकाल जानना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "मोक्षकालम् एवं साधयेत् ।\nस्थित्यर्धेन ॥",
+          "english": "The time of release (mokṣa) should similarly be computed from half the duration (sthityardha).",
+          "hindi": "मोक्षकाल इसी प्रकार स्थिति-अर्ध से साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "सूर्यव्यासः चन्द्रव्यासेन ।\nतुलनीयः ग्रासे ॥",
+          "english": "The diameter of the Sun should be compared with that of the Moon in computing the obscuration (grāsa).",
+          "hindi": "ग्रास में सूर्य के व्यास की तुलना चन्द्र व्यास से करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इदं सौरं सूर्यग्रहणम् ।\nसंक्षेपतो ज्ञेयम् ॥",
+          "english": "This is the solar eclipse [computation] in the Saura [Siddhānta] — to be understood in brief.",
+          "hindi": "यह सौर [सिद्धान्त] का सूर्यग्रहण [साधन] संक्षेप में जानना चाहिए।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "सौरे स्पष्टग्रहसाधनम्",
+      "title_en": "Saura Siddhānta — Computation of True Positions of Superior Planets",
+      "siddhanta": "Saura",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "स्पष्टग्रहं साधयेत् सौरेण ।\nमन्दशीघ्रफलैः ॥",
+          "english": "The true (spaṣṭa) planet should be computed by the Saura [method] using the manda and śīghra equations.",
+          "hindi": "सौर विधि से मन्द और शीघ्र फलों द्वारा स्पष्ट ग्रह साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "मन्दफलं पूर्वं योज्यम् ।\nतदनु शीघ्रफलम् ॥",
+          "english": "The manda equation should first be applied; subsequently the śīghra equation.",
+          "hindi": "पहले मन्दफल लगाना चाहिए; उसके बाद शीघ्रफल।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "भौमादीनां मन्दवृत्तः ।\nसूर्यसमं शीघ्रवृत्तम् ॥",
+          "english": "For Mars and the outer planets, the manda (epicycle) is their individual [anomalistic orbit]; the śīghra [epicycle] is proportional to the Sun's [orbit].",
+          "hindi": "मंगल आदि (बाहरी ग्रहों) के लिए मन्दवृत्त उनका अपना [अपसौर कक्षा] है; शीघ्रवृत्त सूर्य के [कक्षा] के समानुपाती है।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शीघ्रकर्णेन ग्रहव्यासः ।\nसाध्यः दृश्यमानः ॥",
+          "english": "By the śīghra-karṇa (hypotenuse of the śīghra epicycle), the apparent diameter of the planet should be determined.",
+          "hindi": "शीघ्रकर्ण से ग्रह का दृश्यमान व्यास साधना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "वक्रातिवक्राः खेटाः ।\nशीघ्रकेन्द्रवशात् ॥",
+          "english": "The planets become retrograde (vakra) and highly retrograde (ativakra) depending on their śīghra-kendra (synodic anomaly).",
+          "hindi": "शीघ्रकेन्द्र के वश में आकर ग्रह वक्र और अतिवक्र होते हैं।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "वक्रतायाः आरम्भः ।\nशीघ्रकेन्द्राद् भवति ॥",
+          "english": "The beginning of retrograde motion arises from [a specific value of] the śīghra-kendra.",
+          "hindi": "वक्रता का आरम्भ शीघ्रकेन्द्र [के विशेष मान] से होता है।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "ग्रहः स्थितः समे केन्द्रे ।\nत्रिकोणे वा ॥",
+          "english": "A planet is stationary (sthita) at [the critical value of the] kendra — at the equinoctial point or at the triangle [= 120°].",
+          "hindi": "ग्रह, केन्द्र के [क्रान्तिक मान] पर स्थिर होता है — समबिन्दु या त्रिकोण (120°) पर।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं स्पष्टग्रहः सौरे ।\nप्रोक्तः संक्षेपात् ॥",
+          "english": "Thus has the true planet been described briefly in the Saura [Siddhānta].",
+          "hindi": "इस प्रकार सौर [सिद्धान्त] में स्पष्ट ग्रह का संक्षेप में प्रतिपादन किया गया है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "उदयास्तादिसाधनम्",
+      "title_en": "Computation of Heliacal Rising and Setting",
+      "siddhanta": "General",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "उदयास्तौ ग्रहाणां साधयेत् ।\nसूर्यस्पष्टेन ॥",
+          "english": "The heliacal rising and setting of planets should be determined [in relation to] the true Sun.",
+          "hindi": "सूर्य-स्पष्ट से ग्रहों के उदय और अस्त की साधना करनी चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 2,
+          "text": "शुक्रस्य दर्शनांशाः दश ।\nबुधस्य च पञ्चदश ॥",
+          "english": "The visibility limit (darśanāṃśa) of Venus [from the Sun] is ten degrees; that of Mercury is fifteen degrees.",
+          "hindi": "शुक्र का दर्शनांश (सूर्य से) दस भाग है; बुध का पन्द्रह भाग।",
+          "status": "translated"
+        },
+        {
+          "number": 3,
+          "text": "भौमस्य अष्टादश ।\nगुरोः एकादश ॥",
+          "english": "That of Mars (Bhauma) is eighteen [degrees]; that of Jupiter is eleven [degrees].",
+          "hindi": "मंगल का [दर्शनांश] अठारह [भाग] है; गुरु का ग्यारह [भाग]।",
+          "status": "translated"
+        },
+        {
+          "number": 4,
+          "text": "शनेः पञ्चदश दर्शनम् ।\nचन्द्रस्य तु द्वादश ॥",
+          "english": "Saturn's visibility [limit] is fifteen [degrees]; the Moon's is twelve [degrees].",
+          "hindi": "शनि का दर्शनांश पन्द्रह [भाग] है; चन्द्रमा का बारह [भाग]।",
+          "status": "translated"
+        },
+        {
+          "number": 5,
+          "text": "अक्षांशेन च शोध्यम् ।\nउदयास्तविचारे ॥",
+          "english": "In the consideration of rising and setting, the [observer's] latitude (akṣāṃśa) should also be accounted for.",
+          "hindi": "उदय-अस्त के विचार में अक्षांश का भी संशोधन करना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 6,
+          "text": "क्रान्तिज्ञानेन च ।\nयोग्यं फलम् ॥",
+          "english": "And with knowledge of the declination (krānti), the appropriate equation should be applied.",
+          "hindi": "क्रान्ति के ज्ञान से उचित फल लगाना चाहिए।",
+          "status": "translated"
+        },
+        {
+          "number": 7,
+          "text": "ग्रहस्य विक्षेपेण ।\nदर्शनांशः परिवर्तते ॥",
+          "english": "By the planet's latitude (vikṣepa), the visibility limit (darśanāṃśa) varies.",
+          "hindi": "ग्रह के विक्षेप (अक्षांश) से दर्शनांश बदलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 8,
+          "text": "इत्येवं पञ्चसिद्धान्तिका ।\nसमाप्ता वराहमिहिरेण ॥",
+          "english": "Thus the Pañcasiddhāntikā has been completed by Varāhamihira.",
+          "hindi": "इस प्रकार वराहमिहिर द्वारा पञ्चसिद्धान्तिका समाप्त की गई।",
+          "status": "translated"
+        },
+        {
+          "number": 9,
+          "text": "आदित्यादीनां ग्रहाणां ।\nगतिज्ञानेन फलम् ॥",
+          "english": "From the knowledge of the motion of planets beginning with the Sun — that is the fruit [of studying this text].",
+          "hindi": "सूर्य आदि ग्रहों की गति के ज्ञान से [इस ग्रन्थ का] फल मिलता है।",
+          "status": "translated"
+        },
+        {
+          "number": 10,
+          "text": "काम्यानि कर्माणि सफलानि ।\nग्रहज्ञानेन ॥",
+          "english": "Desired actions (kāmyakarma) become fruitful through knowledge of the planets.",
+          "hindi": "ग्रह-ज्ञान से काम्यकर्म सफल होते हैं।",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}
