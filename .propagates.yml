@@ -15,13 +15,6 @@
 #
 # Paths are relative to this file. Schema: ~/.claude/skills/propagate/propagates.schema.json
 
-# Ledger-owning root (added 2026-08-17). Own git repo, so rows land in
-# sanskrit-texts/docs/PROPAGATION_LEDGER.jsonl and commit with the change that
-# caused them, rather than in an untracked ledger a level up. Same call as
-# Keerti-portfolio and keerti-job-radar. node_id is derived from the git repo
-# root (lib/reconcile.mjs:82-87), so this churns no edge_id.
-workspace: true
-
 sources:
   docs/INVENTORY.md:
     propagates_to:
