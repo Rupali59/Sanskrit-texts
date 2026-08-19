@@ -10,6 +10,16 @@
 
 set -uo pipefail
 
+# --- propagate: declared-coupling check (added 2026-08-19) ---
+# Warn-only by design: propagate never edits a downstream, it tells a human.
+# --staged is the prescribed pre-commit selector (REFERENCE.md). Never --strict here:
+# a coupling is information, not a defect, and blocking teaches people to use --no-verify.
+# Bypass: PROPAGATE_SKIP=1 git commit ...
+if [ -z "${PROPAGATE_SKIP:-}" ] && [ -f "$HOME/.claude/skills/propagate/cli.mjs" ]; then
+  node "$HOME/.claude/skills/propagate/cli.mjs" check --staged || true
+fi
+# --- end propagate ---
+
 WS_ROOT="$(readlink "$HOME/.gstack/workspace-root" 2>/dev/null)"
 if [ -n "$WS_ROOT" ] && [ -x "$WS_ROOT/scripts/hygiene/precommit-check.sh" ]; then
   bash "$WS_ROOT/scripts/hygiene/precommit-check.sh" sanskrit-texts || exit 1
