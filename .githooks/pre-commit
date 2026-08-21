@@ -10,13 +10,26 @@
 
 set -uo pipefail
 
-# --- propagate: declared-coupling check (added 2026-08-19) ---
+# --- propagate: declared-coupling check (added 2026-08-19; hardened 2026-08-20 — G48) ---
 # Warn-only by design: propagate never edits a downstream, it tells a human.
 # --staged is the prescribed pre-commit selector (REFERENCE.md). Never --strict here:
 # a coupling is information, not a defect, and blocking teaches people to use --no-verify.
 # Bypass: PROPAGATE_SKIP=1 git commit ...
-if [ -z "${PROPAGATE_SKIP:-}" ] && [ -f "$HOME/.claude/skills/propagate/cli.mjs" ]; then
-  node "$HOME/.claude/skills/propagate/cli.mjs" check --staged || true
+#
+# The CLI path is derived, not hardcoded to one location (G48): PROPAGATE_CLI can
+# override it; otherwise it falls back to the default skill path, then to a `propagate`
+# binary on PATH. If none resolves, this prints exactly one line and does NOT block the
+# commit -- a missing gate must never be silent (the prior version was `[ -f ... ] && ...`,
+# which skipped with zero output when the CLI moved).
+if [ -z "${PROPAGATE_SKIP:-}" ]; then
+  PROPAGATE_CLI="${PROPAGATE_CLI:-$HOME/.claude/skills/propagate/cli.mjs}"
+  if [ -f "$PROPAGATE_CLI" ]; then
+    node "$PROPAGATE_CLI" check --staged || true
+  elif command -v propagate >/dev/null 2>&1; then
+    propagate check --staged || true
+  else
+    echo "pre-commit: propagate gate SKIPPED -- cli.mjs not found at $PROPAGATE_CLI (set PROPAGATE_CLI or reinstall the skill)" >&2
+  fi
 fi
 # --- end propagate ---
 
