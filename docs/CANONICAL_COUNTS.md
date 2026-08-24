@@ -561,3 +561,35 @@ between 41 and 43, so its correct value is pinned by its neighbours. The remaini
 checking against a printed edition. **That is the whole remaining task: 69 verses, each at a
 known position** — not 21 chapters of boundary work, which is what it looked like before the
 headings were used.
+
+
+## Suśruta — blocked on a structural decision, not on data (2026-08-24)
+
+The best-conditioned candidate of the four, and it still does not land.
+
+**What is good:** mūla-only — **zero** Nibandhasaṅgraha/Ḍalhaṇa hits across 17 pages, unlike
+Caraka. 100% of numerals inside ascending runs on every page that parses. Nidāna (16),
+Śārīra (10) and Kalpa (8) recover their canonical adhyāya counts exactly, and two pages
+carry headings that match exactly (Uttaratantra 41–66 with 26; Śārīra with 10).
+
+**What blocks it is a shape this converter has not had to decide before.** Suśruta's pages
+**mix two forms**:
+
+| Page form | Example | Yields |
+|---|---|---|
+| whole sthāna | `सुश्रुतसंहिता/कल्पस्थानम्` | chapter = sthāna, adhyāya as a **sub-level** |
+| adhyāya range | `सुश्रुतसंहिता/उत्तरतन्त्रम्/अध्याय ०१-२०` | chapter = **adhyāya**, no sub-level |
+
+Both are correct readings of their own page. Together they give **inconsistent citation
+depth inside one text**, which the validator reported 3,522 times as *"number 1 has 1
+component(s), structure.levels implies 2"*. That is my design, not the source's fault.
+
+**It needs a per-text sthāna → adhyāya normalisation** — every page mapped into
+sthāna.adhyāya.verse regardless of which form its title takes — before it can be ingested.
+Canonically that is Sūtra 46 · Nidāna 16 · Śārīra 10 · Cikitsā 40 · Kalpa 8 · Uttaratantra
+66 = **186 adhyāyas**.
+
+**Two smaller things to handle in the same pass:** four pages miss their declared range by
+one (Uttaratantra 1–20 parses 21; Cikitsā 35–40 parses 5 for 6), and three near-empty stub
+pages carry ranges that **overlap** real pages — `चिकित्सास्थानम्/अध्याय २१-४०` at 49
+characters against the real 21–25, 26–30, 31–35 and 35–40.
