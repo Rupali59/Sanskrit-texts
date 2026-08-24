@@ -958,3 +958,73 @@ Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1` is a *correct citation*; th
 onto it — 219 bare-integer records and 15 literal `X.X.21` placeholders, the digitiser
 recording "prefix unknown". **`apastamba_paribhasha_sutra` is equally broken, not a minor
 sibling:** every integer 1–53 is reused as `number` 2–15 times, plus 7 empty-string records.
+
+## Nārada Smṛti lands — and the same fix recovered 118 Caraka units (2026-08-24)
+
+**Tier `uncitable`. 3 parts · 22 chapters · 931 verses — against 931 `<lg>` in the file.**
+Zero duplicate keys, zero residual IAST. Lariviere/Ikari critical edition, © Richard W.
+Lariviere and Yasuke Ikari and SARIT, CC BY-SA.
+
+Structure, stated by the TEI: Mātṛkā (Prolegomena) 3, Vyavahārapadāni (Titles of Law) 17,
+Pariśiṣṭam (Addenda) 2. **The addenda declare `n=19,20`, not 1,2** — positional numbering
+would file them as chapters 1 and 2 (G24). Part 2 holds 17 titles where Nārada canonically
+has 18: the 18th is absent from this recension and the addenda resume at 19. That is the
+edition's own numbering and is **not** repaired.
+
+### The two shapes that blocked it — and the weight was the opposite of first reported
+
+| Shape | Lines | Verses | What it is |
+|---|---:|---:|---|
+| `15-16.001a` | **62** | **31** | a **merged chapter** |
+| `01.124-1a` | 4 | 2 | a **sub-numbered verse** |
+
+An earlier note had these reversed in emphasis. Measured: the merged chapter is the bulk.
+
+**The merged chapter carries no collision risk, and that is measured rather than assumed.**
+`<div n="15">` holds **62 merged-numbered labels and zero own-numbered ones**; its `<head>` is
+*Vāgdaṇḍapāruṣye (Verbal and Physical Assault)* — title 15 (Vākpāruṣya, verbal) and 16
+(Daṇḍapāruṣya, physical) combined into one chapter by this edition. The chapter number keeps
+coming from the div; only the last component of the citation is ever the verse.
+
+### One line was the whole blocker
+
+`int(re.sub(r"[^\d]", "", comp))` renders `124-1` as **1241** — a plausible number, silently
+wrong, colliding with nothing so nothing complained. Replaced by `verse_number()`, which
+returns `int | str`; `norm_key()` already returned `int | str` and the validator's
+`SUB_NUMBERED` already accepted `N-M`. The corpus has supported these keys since Mayamata's
+`41-2`. A `verse_sort_key()` is required alongside it — `sorted()` raises `TypeError` on
+`{1, "124-1"}`.
+
+### It was never Nārada-only: 118 Caraka units were hidden the same way
+
+Measured across every SARIT text before shipping: hyphen tolerance also matches **118 Caraka
+lines** (`Ca.1.18.7-1`, `-2`, `-3` — sub-numbered *prose* units) and **1 Suśruta** verse
+range (`1.15.26-27`). Aṣṭāṅgahṛdaya, Aṣṭāṅgasaṃgraha, Bhela and Manusmṛti: **+0**. So it is a
+default rule, not a per-text opt-in.
+
+**Where those 118 units actually were — corrected.** The first report said "merged into verse
+7". They were appended to the **preceding cited verse**: `Ca.1.18.6` measured **1,419
+characters** against a corpus median of 87, and is now **522**. Caraka's verses over 1,000
+characters dropped **50 → 38**. Verse `18.7` was 118 characters throughout and never held
+them — the `order[-1]` continuation branch attaches an unmatched line to whatever was cited
+last, which is not always the verse the citation names.
+
+**One source inconsistency, rejoined rather than corrected away.** Caraka writes the run as
+`Ca.1.18.7.-1`, `Ca.1.18.7-2`, `Ca.1.18.7-3` — a stray dot on the first only. A component that
+is *only* a sub-number is rejoined to the one before it. Without that, `-1` reduces to verse 1
+and collides with the chapter's real verse 1, blocking the whole text on a duplicate key.
+
+### Validator: `structure.levels` counts a sub-number as part of its component
+
+`_components` now returns `(main, sub)` pairs, so `18.7` and `18.7-1` are both **depth 2** and
+`18.7 < 18.7-1 < 18.8`. Reading `18.7-1` as three components would make a correct parse look
+one level too deep. `DOTTED` widened to match. **Measured cost: +1 error**, in
+`apastamba_paribhasha_sutra` — an already-failing off-schema text where the widened check
+found one more real defect. Nothing was suppressed.
+
+### Also fixed: the OUTER division now uses its declared `n`
+
+The inner division was switched to declared numbering under G24; the outer was still
+positional. Measured 2026-08-24: **every held text's outer divs are positional**, so this is a
+no-op today — which is exactly the state G24 was written about, one level up. Confirmed a
+no-op by an unchanged full dry-run.

@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 57 texts · 927 chapters · 91,782 shlokas · 12 categories** — on-schema only.
+**Totals: 58 texts · 930 chapters · 92,832 shlokas · 12 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,9 +24,9 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 57 | 927 | 91,782 |
+| **On-schema** — a real `chapters[]` array | 58 | 930 | 92,832 |
 | Off-schema — the 2 Apastamba texts, scored `1` chapter each by the one-liner | +2 | +2 | — |
-| **The one-liner above** | **59** | **929** | — |
+| **The one-liner above** | **60** | **932** | — |
 
 The off-schema two (`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
@@ -154,8 +154,8 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,443 | 0% | uncitable |
 | `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 0% | uncitable |
 | `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 0% | uncitable |
-| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,525 | 0% | uncitable |
-| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,295 | 0% | uncitable |
+| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,643 | 0% | uncitable |
+| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,296 | 0% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 0% | uncitable |
 | `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
 | `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
@@ -170,6 +170,7 @@ see [`SOURCES.md`](./SOURCES.md) §"Vedāṅga / Upaveda".
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,684 | 0% | range |
+| `narada_smriti` | [`Dharmashastra/NaradaSmriti`](../Dharmashastra/NaradaSmriti) | 3 | 931 | 0% | uncitable |
 
 Eleven of the twelve adhyāyas match Bühler's per-chapter counts **exactly**; adhyāya 11 is
 265 against his 266. It is contiguous 1–265, no gap, no duplicate, and no merged verse —

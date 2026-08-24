@@ -13,7 +13,7 @@
     "shloka_number_format": "level2.verse",
     "citation_prefix": "susruta_samhita",
     "expected_chapters": 6,
-    "expected_verses": 8295,
+    "expected_verses": 8296,
     "count_authority": "uncitable",
     "count_authority_reason": "186 adhyayas across 6 sthanas -- Sutra 46, Nidana 16, Sharira 10, Cikitsa 40, Kalpa 8, Uttaratantra 66. SARIT's TEI states exactly that (sthana x 6, adhyayah x 186), superseding the Wikisource copy whose pages mixed two shapes and carried mislabelled ranges. Transliterated from IAST. No published verse total found to cite.",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
@@ -3339,7 +3339,15 @@
         {
           "number": "15.25",
           "ref": "susruta_samhita 1.15.25",
-          "text": "अभिघातात्क्षयात्कोपाच्छोकाद्ध्यानाच्छ्रमात्क्षुधः / ओजः संक्षीयते ह्येभ्यो धातुग्रहणनिःसृतम् / तेजः समीरितं तस्माद्विस्रंसयते देहिनः // सु.१.१५.२६-२७ तस्य विस्रंसो व्यापत् क्षय इति लिङ्गानि व्यापन्नस्य भवन्ति सन्धिविश्लेषो गात्राणां सदनं दोषच्यवनं क्रिया+अ(ओ.क्रिया)सन्निरोधश्च विस्रंसे स्तब्धगुरुगात्रता वातशोफो वर्णभेदो ग्लानिस्तन्द्रा निद्रा च व्यापन्ने मूर्च्छा मांसक्षयो मोहः प्रलापो मरणमिति च क्षये //",
+          "text": "अभिघातात्क्षयात्कोपाच्छोकाद्ध्यानाच्छ्रमात्क्षुधः / ओजः संक्षीयते ह्येभ्यो धातुग्रहणनिःसृतम् / तेजः समीरितं तस्माद्विस्रंसयते देहिनः //",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "15.26-27",
+          "ref": "susruta_samhita 1.15.26-27",
+          "text": "तस्य विस्रंसो व्यापत् क्षय इति लिङ्गानि व्यापन्नस्य भवन्ति सन्धिविश्लेषो गात्राणां सदनं दोषच्यवनं क्रिया+अ(ओ.क्रिया)सन्निरोधश्च विस्रंसे स्तब्धगुरुगात्रता वातशोफो वर्णभेदो ग्लानिस्तन्द्रा निद्रा च व्यापन्ने मूर्च्छा मांसक्षयो मोहः प्रलापो मरणमिति च क्षये //",
           "english": "",
           "hindi": "",
           "status": "untranslated"

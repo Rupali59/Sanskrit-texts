@@ -146,6 +146,7 @@ corpus-level grant does not name them:
 | `astanga_hridaya`, `caraka_samhita`, `susruta_samhita` | SARIT / the editors named in each header |
 | `manu_smriti` | SARIT, with an added Kyoto Joint Seminar copyright attribution |
 | `bhela_samhita` | **© Tsutomu Yamashita**, distributed by SARIT under CC BY-SA |
+| `narada_smriti` | **© Richard W. Lariviere and Yasuke Ikari** and SARIT — the Lariviere/Ikari critical edition |
 
 Bhela is the first held file naming an individual rather than an institution. Attribution
 must reach him by name, not merely "SARIT".
