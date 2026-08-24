@@ -103,3 +103,56 @@ manifest whose provenance column is empty is a checksum list, not a manifest.
 - `Dharmashastra/{4605,4617}.txt` — Āpastamba-Dharmasūtra with Haradatta's Ujjvalā
   commentary (ed. Mahādeva Śāstri, Mysore 1898). `4607.txt` — Āpastamba-Paribhāṣā-Sūtra.
   `4609.txt` — **unidentified**; a Śrāvaṇī/Upākarma ritual manual fitting no text directory.
+
+
+## Vedāṅga / Upaveda — where the data actually is (surveyed 2026-08-24)
+
+Surveyed before fetching, because the plan's assumed source was wrong. **Sanskrit Wikisource
+is the answer for almost all of it**, not sanskritdocuments and not GRETIL.
+
+### Vipin's texts
+
+| Text | Axis | Source | Devanagari | Shape | Status |
+|---|---|---|---|---|---|
+| **Dhanurveda** | Dhanurveda | sanskritdocuments `doc_veda/dhanurveda.html` | 18,399 | `double` + single-daṇḍa close | **ready** — 227 verses, contiguous |
+| **Caraka Saṃhitā** | Āyurveda | Wikisource, 15 pages | 144,332 in Sūtrasthāna alone | `single_pair`, 1,191 markers | **convertible today** |
+| **Suśruta Saṃhitā** | Āyurveda | Wikisource, 18 pages | 52,188 per sthāna page | **bare numerals** | needs a `bare` grammar |
+| **Mānasāra** | Sthāpatyaveda | Wikisource, 1 page | **408,048** | **bare numerals** | needs a `bare` grammar |
+| **Mayamata** | Sthāpatyaveda | Wikisource, 9 pages | 7,220 per page | **bare numerals** | needs a `bare` grammar |
+| Aṣṭādhyāyī | Vyākaraṇa | Wikisource, 30 pages | 13,360 per adhyāya | sūtra | blocked on the sūtra schema |
+
+### Youvan's texts, noted so nobody re-searches for them
+
+Pāṇinīya Śikṣā (sanskritdocuments `pANinIyashikShA.html`, and Wikisource with khaṇḍa
+subpages) · Nāṭyaśāstra (sanskritdocuments `natya01`–`natya37`, 37 chapters).
+
+### The seventh marker grammar: bare numerals, no daṇḍa at all
+
+Suśruta, Mānasāra and Mayamata carry **zero daṇḍas of any kind**. Their Wikisource
+transcriptions terminate each verse with a bare numeral before a `<br>` — Devanagari in
+Mānasāra and Suśruta (`…नमामि १`), **ASCII** in Mayamata (`…यथाक्रमम् 1`). All five existing
+grammars find 0 markers, which reads as "empty text" and is why this needed checking rather
+than assuming.
+
+A bare numeral is far weaker evidence than a daṇḍa-delimited one, so it was tested rather
+than trusted. Taking any numeral that terminates a segment:
+
+| Text | Numerals | In ascending runs of ≥5 | Restarts at 1 | Implied chapters |
+|---|---:|---:|---:|---|
+| Mānasāra | 5,169 | **100%** | 69 | **70** — matches the canonical 70 adhyāyas exactly |
+| Suśruta Uttaratantra 1–20 | 635 | 96% | 19 | **20** — matches the page's own range |
+| Mayamata 1–5 | 91 | **100%** | 4 | **5** — matches the page's own range |
+
+**The restart count is the validation.** If these numerals were incidental — quantities,
+dates — they would not form ascending runs covering ~100% of occurrences, and the restarts
+would not land exactly on the chapter counts the page titles declare. Mānasāra recovering
+the canonical 70 from the data alone is the strongest single signal.
+
+### Absent everywhere checked
+
+**Aṣṭāṅgahṛdaya**, **Samarāṅgaṇa Sūtradhāra**, and **Nirukta as a standalone text**
+(Wikisource's 87 "nirukta" hits are all mentions inside other works). GRETIL has Nirukta and
+Caraka but in **IAST Roman under no granted licence**, so they serve as count witnesses only.
+**Vedic Heritage Portal (vedicheritage.gov.in) mentions Nirukta and is the outstanding lead.**
+SARIT returned 502 and Muktabodha's host did not resolve on the day — both worth retrying
+rather than writing off.
