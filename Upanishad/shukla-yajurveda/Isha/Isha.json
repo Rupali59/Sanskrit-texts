@@ -1,0 +1,173 @@
+{
+  "text_id": "isha_upanishad",
+  "title_sa": "",
+  "title_en": "Isha Upanishad",
+  "category": "upanishad",
+  "structure": {
+    "levels": [
+      "chapter",
+      "verse"
+    ],
+    "chapter_level": "chapter",
+    "shloka_number_format": "verse",
+    "citation_prefix": "isha_upanishad",
+    "expected_chapters": 1,
+    "expected_verses": 18,
+    "count_authority": "firm",
+    "count_authority_reason": "matches cited 18",
+    "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
+    "known_gaps": []
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "ref": "isha_upanishad 1.1",
+          "text": "IshopaniShat ईशोपनिषत् Home upanishhat ITX Devanagari PDF Tamil PDF Telugu PDF Kananda PDF Gujarati PDF PRINT IshopaniShat ईशोपनिषत् ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ ॐ शान्तिः शान्तिः शान्तिः ॥ ॥ अथ ईशोपनिषत् ॥ ॐ ईशा वास्यमिदꣳ सर्वं यत्किञ्च जगत्यां जगत् । तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "ref": "isha_upanishad 1.2",
+          "text": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतꣳ समाः । एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "ref": "isha_upanishad 1.3",
+          "text": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः । ताꣳस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "ref": "isha_upanishad 1.4",
+          "text": "अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् । तद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "ref": "isha_upanishad 1.5",
+          "text": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके । तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "ref": "isha_upanishad 1.6",
+          "text": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति । सर्वभूतेषु चात्मानं ततो न विजुगुप्सते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "ref": "isha_upanishad 1.7",
+          "text": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः । तत्र को मोहः कः शोक एकत्वमनुपश्यतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "ref": "isha_upanishad 1.8",
+          "text": "स पर्यगाच्छुक्रमकायमव्रण- मस्नाविरꣳ शुद्धमपापविद्धम् । कविर्मनीषी परिभूः स्वयम्भू- र्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "ref": "isha_upanishad 1.9",
+          "text": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते । ततो भूय इव ते तमो य उ विद्यायाꣳ रताः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "ref": "isha_upanishad 1.10",
+          "text": "अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया । इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "ref": "isha_upanishad 1.11",
+          "text": "विद्यां चाविद्यां च यस्तद्वेदोभयꣳ सह । अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "ref": "isha_upanishad 1.12",
+          "text": "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते । ततो भूय इव ते तमो य उ सम्भूत्याꣳ रताः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "ref": "isha_upanishad 1.13",
+          "text": "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् । इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "ref": "isha_upanishad 1.14",
+          "text": "सम्भूतिं च विनाशं च यस्तद्वेदोभयꣳ सह । विनाशेन मृत्युं तीर्त्वा सम्भूत्याऽमृतमश्नुते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "ref": "isha_upanishad 1.15",
+          "text": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् । तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "ref": "isha_upanishad 1.16",
+          "text": "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः । यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "ref": "isha_upanishad 1.17",
+          "text": "वायुरनिलममृतमथेदं भस्मान्तꣳ शरीरम् । ॐ क्रतो स्मर कृतꣳ स्मर क्रतो स्मर कृतꣳ स्मर",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "ref": "isha_upanishad 1.18",
+          "text": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् । युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमौक्तिं विधेम",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    }
+  ]
+}

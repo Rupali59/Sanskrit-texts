@@ -6,7 +6,9 @@ Parent context: `~/Documents/GitHub/Vipin Kaushik/CLAUDE.md`
 
 ## What this repo is
 
-An open-source corpus of classical Sanskrit Jyotisha (Vedic astrology) texts, digitized for computational access by AstroAcharya. **Not a code project** — this is a data repository. Source of truth for proofreading: [sanskritdocuments.org/sanskrit/jyotisha](https://sanskritdocuments.org/sanskrit/jyotisha/) (see `REFERENCES.md`).
+An open-source corpus of classical Sanskrit texts, digitized for computational access by AstroAcharya. **Not a code project** — this is a data repository. Source of truth for proofreading: [sanskritdocuments.org/sanskrit/jyotisha](https://sanskritdocuments.org/sanskrit/jyotisha/) (see `REFERENCES.md`).
+
+**Scope: Jyotisha, and everything that is not Tantra or Mantra** (narrowed 2026-08-23 — see `../CLAUDE.md` §"Content / texts ownership"). This line read "a corpus of classical Sanskrit **Jyotisha** texts", which was already narrower than the contents — `Dharmashastra/` and `Kalpa/` are not Jyotish — and became more so when Philosophy moved here from Youvan. The Vedic corpus (Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad) belongs here; `docs/VEDIC_CORPUS.md` maps all 51 texts and **none are held**. Tantra and Mantra go to `Tushar/Youvan`.
 
 AstroAcharya seeds this data into MongoDB and queries it via a `/texts` API. The `@source(("bphs", chapter, [shlokas]))` decorator in AstroAcharya references `text_id` values from this corpus.
 
@@ -38,8 +40,21 @@ on the `sutras[]` shape. See `docs/DECISIONS.md` 2026-08-18.
 JSON): `JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`, `SarvarthaChintamani`,
 `PrashnaMarga`, `BrahmasphutaSiddhanta`, `SiddhantaShiromani`, `GargaSamhita`,
 `Atharvaveda`, `Samaveda`, `Dharmasindhu`, `NirnayaSindhu`, `MuhurtaMartanda`.
-`GargaSamhita` and `MuhurtaMartanda` already have sources waiting in
-`../sanskrit-texts-sources/`.
+
+**Neither remaining "source waiting" is what it looked like — corrected 2026-08-23.**
+This said `GargaSamhita` and `MuhurtaMartanda` already have sources ready. Both claims
+died on inspection:
+
+- **`GargaSamhita`'s `3003.txt` is the wrong Garga Samhita.** Its colophon reads
+  `अश्वमेधखण्डे ... अध्याय ५९` — the devotional Vaishnava Purana, not the Jyotish work.
+  Digitised, then **relocated to `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`**
+  (127 shlokas) under the Jyotisha/Youvan ownership split. This directory has **no source
+  waiting**; the Jyotish text still needs sourcing.
+- **`MuhurtaMartanda`'s PDF has no text layer.** 154 pages of `tiff2pdf`-wrapped CCITT
+  bitmaps; `pdftotext` returns 154 bytes — one form-feed per page, zero characters. It is
+  a scan, and additionally a *commentary edition* (mula + Sanskrit ṭīkā + Hindi
+  bhāṣā-ṭīkā interleaved), so even clean OCR would not yield mula shlokas without
+  separating three text layers. See `../propagation/state/sanskrit-texts/GOTCHAS.md`.
 
 ## Uniform JSON schema
 
@@ -85,7 +100,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 | text_id | Directory | Shlokas | Translation |
 |---------|-----------|---------|-------------|
-| `bphs` | Hora/Parashari/BrihatParasharaHoraShastra/ | 3937 | 99.9% ⚑ |
+| `bphs` | Hora/Parashari/BrihatParasharaHoraShastra/ | 3937 | 100% ⚑ |
 | `brihat_jataka` | Hora/Parashari/BrihatJataka/ | 409 | 100% |
 | `bhrigu_sutram` | Hora/Nadi/Bhrigusootram/ | 568 | 100% |
 | `chamatkar_chintamani` | Hora/Parashari/Chamatkarchintamani/ | 112 | 100% |
@@ -96,7 +111,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 | `shatpanchashika` | Hora/Parashari/Shatpanchashika/ | 56 | 100% |
 | `varahamihir_daivagnavallabh` | Hora/Parashari/VarahamihirDaivagnavallabh/ | 248 | 100% |
 | `uttara_kalamrita` | Hora/Parashari/UttaraKalamrita/ | 324 | 100% |
-| `muhurta_chintamani` | Muhurta/MuhurtaChintamani/ | 206 | 82% ⚑ |
+| `muhurta_chintamani` | Muhurta/MuhurtaChintamani/ | 206 | 100% ⚑ |
 | `saravali` | Hora/Parashari/Saravali/ | 1163 | 100% |
 | `asvalayana_grhya_sutra` | Kalpa/Grhyasutra/Asvalayana/ | 394 | 100% |
 | `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
@@ -106,18 +121,30 @@ Every `.json` file in this repo uses this schema — no exceptions:
 | `panchasiddhantika` | Siddhanta/Panchasiddhantika/ | 166 | 100% |
 | `surya_siddhanta` | Siddhanta/SuryaSiddhanta/ | 272 | 100% |
 
-**21 texts on the normalized schema · 20,564 shlokas.** Rationale for every figure below:
-`docs/DECISIONS.md`, three entries dated 2026-08-17.
+**20 texts on the normalized schema · 17,835 shlokas · 100% translated.** Rationale for
+every figure below: `docs/DECISIONS.md`, three entries dated 2026-08-17.
+
+**Corrected 2026-08-23.** This line read "21 texts · 20,564 shlokas" and was wrong on both
+numbers — the registry rows above it summed to 17,835 the whole time, so the table was
+right and only the headline was stale. Derive it, do not restate it:
+
+```
+python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
+```
 
 ⚑ **`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a
 97-chapter work). 4 mis-split chapters repaired, 5 shlokas recovered; ingests **3937 of
-3937**. Its whole translation backlog is those 5 — `12.11`, `53.20`, `61.55`, `66.43`,
-`66.65` — Sanskrit only. Separately, **ch 25 shloka 16 is absent from the digitisation**
+3937**. **Translation backlog closed 2026-08-22** — the last 5 (`12.11`, `53.20`, `61.55`,
+`66.43`, `66.65`) are now translated; all are single-pada fragments, a shape that occurs
+13 other times in this text. Separately, **ch 25 shloka 16 is absent from the digitisation**
 and was not invented, and ch 60's parenthesised duplicate is now `"12अ"` (a variant reading).
 
-⚑ **`muhurta_chintamani` is 82%, not 100%** — `MC_001`'s 37 shlokas have English but no
-Hindi (`status: "partial"`). Its numbers run 11–32, 1–7, 37–44: distinct, so they ingest,
-but the sequence is wrong and needs the source.
+⚑ **`muhurta_chintamani` — translation complete, numbering still wrong.** `MC_001`'s
+Hindi gap closed 2026-08-22 (all 206 shlokas now `"translated"`). Its chapter-1 numbers
+still run 11–32, 1–7, 37–44: distinct, so they ingest, but the sequence is wrong.
+`MC_REMAINING_RAW.json` in the sources repo does **not** resolve it — checked 2026-08-22,
+it covers pages 53–480 with zero textual overlap with chapter 1. Fixing it needs the
+chapter-1 pages of `muhurt_chintamani_002342_hr6.pdf` read against a canonical edition.
 
 Not defects, and handled — do not "fix" them into breakage: `MinarajaYavanajataka` numbers
 variant chapters `"24अ"`/`"63अ"`/`"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
@@ -138,10 +165,22 @@ Remaining, all intra-chapter and pre-existing: `jataka_parijata` 55, `laghu_jata
 `manu_smriti` (12 files), `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 14 files,
 4,737 records over 1,520 distinct keys. Checked against the canonical structures 2026-08-18
 (Manusmriti = 12 adhyāyas / ~2,684 verses; Apastamba = Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1`
-is a *correct citation*). **The data cannot be mapped onto either**: Manusmriti's leading
-component runs 1–33 and `MS_001` holds 89 fragmentary cycles; Apastamba has 219 bare-integer
-records and 15 literal `X.X.21` placeholders — the digitiser recording "prefix unknown".
+is a *correct citation*). **The data cannot be mapped onto either**: `MS_001` holds ~87
+fragmentary cycles; Apastamba has 219 bare-integer records and 15 literal `X.X.21`
+placeholders — the digitiser recording "prefix unknown".
 **Not a renumbering job — needs re-digitisation.** Detail and sources: `docs/DECISIONS.md`.
+Full scope, ordered steps and open questions:
+`docs/plans/2026-08-22-dharmashastra-redigitisation.md`.
+
+**Two corrections, 2026-08-23** — re-measured, not restated:
+
+- This said *"Manusmriti's leading component runs 1–33"*. It does not. The leading
+  component is invariantly `1` (1514 of 1514 dotted records in `MS_001`); what cycles
+  1→~34 and restarts is the **second** component, which reaches 315. The conclusion
+  (unrecoverable fragmentation) stands — only the description of the damage was wrong,
+  and it would have misled whoever executes the repair.
+- **`apastamba_paribhasha_sutra` is equally broken, not a minor sibling.** Every integer
+  1–53 is reused as `number` 2–15 times, plus 7 empty-string records.
 
 Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`,
 `SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only genuine stubs.

@@ -12,9 +12,34 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals:** 23 texts · 484 chapters · 7 live categories.
+**Totals:** 23 texts · 484 chapters · 7 live categories — **counting off-schema files.**
 
-_Corrected to 589 on retiring the generator: it counted `MC_REMAINING_RAW.json` as a chapter via an `else 1` fallback, but that file holds `info`/`segments` — 320KB of raw un-chunked material, not a chapter._
+### What these numbers count, and why CLAUDE.md says something different
+
+Both are right. They count different things, and until 2026-08-23 nothing said so.
+
+| | Texts | Chapters | Shlokas |
+|---|---:|---:|---:|
+| **On-schema only** — files with a real `chapters[]` array | 20 | 470 | 17,835 |
+| Off-schema — the 3 Dharmashastra texts, 14 files, counted `1` each by the one-liner above | +3 | +14 | — |
+| **Totals line above** | **23** | **484** | — |
+
+`CLAUDE.md`'s registry says **20 texts · 17,835 shlokas** because it counts only what is on
+the uniform schema. This file says 23 · 484 because its one-liner uses
+`Array.isArray(j.chapters) ? j.chapters.length : 1`, so each off-schema file scores one
+"chapter". The 7 live categories are on-schema only either way.
+
+The off-schema three (`manu_smriti`, `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
+are **not ingestible as they stand** and need re-digitisation — see
+[`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
+Counting them as 14 "chapters" flatters the corpus; the on-schema row is the honest figure
+for anything about coverage.
+
+_Previously a note here read "Corrected to 589 on retiring the generator." **That correction
+was never applied and 589 matches nothing** — verified 2026-08-23, the one-liner returns 484
+and the Totals line has been right all along. Removed rather than carried forward: a stated
+correction that was never made is worse than no note, because it reads as evidence the file
+was checked._
 
 ## Hora — Horā — horoscopy (jātaka, praśna, nāḍī)
 
