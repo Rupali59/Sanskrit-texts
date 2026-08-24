@@ -235,3 +235,58 @@ Genuinely blocking:
 The mechanism is working: real problems surface before anything is written, and the ones
 that turned out not to be problems were reclassified rather than left to erode trust in
 the gate.
+
+
+---
+
+## Part 6 — Saṃhitā verse numbering, and two hypotheses that failed
+
+13 of the Rigveda's 1,027 sūktas carry duplicate marker values, which blocks them on the
+key-distinctness check. Two structural explanations were tested and **both are wrong**;
+recording them so the next person does not re-derive them.
+
+**Rejected 1: "the printed values interleave pada numbers with verse numbers, so keep the
+contiguous 1..N sub-sequence."** This came from inspecting RV 1.65, where the markers read
+`१,१,३,२,५,३,७,४,९,५` — apparently padas 1,3,5,7,9 interleaved with verses 1,2,3,4,5.
+Tested against all 13, the rule recovers the canonical count for **1 of 13**. RV 1.164
+yields 34 where it should yield 52; 1.68, 1.69, 1.70 and 9.109 collapse to a run of 1.
+
+**Rejected 2: "the metre metadata identifies them."** RV 1.65 declares `द्विपदा विराट्`,
+which would explain half-verse marking. But **22 sūktas declare द्विपदा and only 5 have
+duplicate markers**, while **8 duplicate-marker sūktas do not declare it**. Neither
+necessary nor sufficient.
+
+**What the data actually shows.** In every case with a checkable figure except one, the
+marker COUNT equals the canonical verse count and only the printed VALUES are garbled:
+
+| Sūkta | Markers | Canonical verses |
+|---|---:|---:|
+| 1.68 | 10 | 10 |
+| 1.69 | 10 | 10 |
+| 1.70 | 11 | 11 |
+| 1.164 | 52 | 52 |
+| 1.191 | 16 | 16 |
+| **1.65** | **10** | **5** |
+
+RV 1.68 prints `1, 12, 3, 24, 5, 3, 7, 4, 9, 5` for ten verses — the positions are right,
+the numbers are not. So a unit whose marker values contain duplicates is **renumbered
+1..N by position**.
+
+**The risk this accepts, stated plainly:** if a marker is genuinely MISSING from the
+source, renumbering hides it behind a clean run and contiguity can no longer detect it.
+That is why it runs only where the values are already known-bad.
+
+**RV 1.65 is a named exception, not a rule**, because no structural signal separates it:
+its marker count is twice its verse count, and every other duplicate-marker sūkta with a
+checkable figure has a count equal to its verse count. It blocks rather than silently
+converting to ten verses.
+
+### Saṃhitā status
+
+| Saṃhitā | Verses | Status |
+|---|---:|---|
+| Rigveda Śākala | 10,450 | converted; 1.65 blocked, ~90 short of the cited 10,552 |
+| Atharvaveda Śaunaka | 6,088 | converted; 8 units renumbered positionally |
+| Śukla YV Vājasaneyi | 1,965 | converted; 2 units renumbered positionally |
+| **Sāmaveda Kauthuma** | 1,876 | **BLOCKED**: 1,867 distinct over max 1,874, with 9 duplicated values and **7 real gaps** (114, 466, 585, 640, 650, 1179, 1211). Renumbering would paper over the gaps |
+| **Taittirīya Saṃhitā** | 2,296 | **BLOCKED**: markers are anuvāka-level, not verses, and 2 of 2,296 have depth 2 where the rest have 3 |
