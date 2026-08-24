@@ -490,3 +490,39 @@ Tier `defect`, which BLOCKS. Not `uncitable`, because the problem is not a missi
 A mūla-only edition, or a parser that keys on `।। चसं-N,M.K ।।` and the dotted `॥N.M.K॥`
 form and **discards everything not carrying one**. That is real work and it recovers 11
 adhyāyas; the rest of the text is simply not on Wikisource.
+
+
+## The bare-numbered Wikisource texts all block on CHAPTER structure (2026-08-24)
+
+Three candidates, three blocks, one shared cause. **None was written; the validator stopped
+each before it reached the corpus.**
+
+| Text | Verses parsed | Structural signal | Why it blocks |
+|---|---:|---|---|
+| Caraka Saṃhitā | 3,560 | — | markers number the **commentary**; 125 chapters inferred against a canonical 30 |
+| Mayamata | 2,666 | 6 of 7 pages pass the bare gate | pages declaring 5 adhyāyas parse to 6, so page `०६-१०` collides with page `११-१५` — **82 duplicate keys** |
+| Mānasāra | 5,167 | **100%** in ascending runs, 68 chunks vs canonical 70 | numbering repeats **without returning to 1**, so restart-at-1 cannot separate the chapters — **138 duplicate keys** |
+
+**The verse-level parse is fine in all three.** What fails is the level above it. Mānasāra
+is the clearest case: the strongest structural signal of any candidate — every numeral
+inside an ascending run, 68 chunks against a canonical 70 — and it still produces 138
+duplicate keys, because a chapter boundary is not always a return to 1.
+
+**Why this matters more than a count.** `seed_texts.py` drops duplicate keys **silently**
+(G8), so an ingest would have lost ~2.7% of Mānasāra's verses between the corpus and the
+API, with no error anywhere. The count would still have read 5,167.
+
+### What the bare grammar did and did not buy
+
+It works: it finds the verses, and `bare_structure_ok` correctly separates real verse
+numbering from incidental numerals. **It does not recover chapter boundaries**, and on these
+transcriptions nothing available does — the pages carry no headings (Mānasāra has none for
+68 adhyāyas), and Wikisource's own declared ranges disagree with the parse on 2 of 7
+Mayamata pages.
+
+### What would unblock them
+
+An edition with explicit adhyāya headings, or per-verse citations of the kind Caraka's mūla
+carries (`।। चसं-१,१.१ ।।`) and Śārīrasthāna's dotted `॥५.१.१॥`. Inferring the hierarchy from
+verse numbers alone is what destroyed the Dharmaśāstra data, and G7 is the rule against
+repeating it.
