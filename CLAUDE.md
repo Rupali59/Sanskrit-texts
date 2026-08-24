@@ -86,7 +86,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 **Field notes:**
 - `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
-- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"` | `"kalpa"`. **Corrected 2026-08-17**, derived from the data rather than restated: this line read `"hora" | "samhita" | "vedanga_jyotisha" | "siddhanta"`, but commit `1cccca6` split `hora` into schools and added four trees. `hora` survived in exactly one file (`SV_FULL.json`) and is now gone. `prashna` and `jaimini` trees exist but hold only placeholders, so no file declares them yet.
+- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"` | `"kalpa"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24). It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `prashna` and `jaimini` trees exist but hold only placeholders, so no file declares them yet.
 - `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither)
 - `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter (stored in files `MS_063अ.json` / `MS_063ब.json`)
 - Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script
@@ -95,51 +95,32 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 ## text_id registry
 
-> Every row re-derived from the JSON. `docs/INVENTORY.md` is the manifest and wins on paths;
-> this table holds what it does not carry — `text_id`, counts, translation state.
+**`docs/INVENTORY.md` is the registry.** It carries every text's `text_id`, path, chapter and
+shloka counts, translation state and count-authority tier, in one table. This section holds only
+what a manifest cannot: the caveats that make a number mean less than it looks like.
 
-| text_id | Directory | Shlokas | Translation |
-|---------|-----------|---------|-------------|
-| `bphs` | Hora/Parashari/BrihatParasharaHoraShastra/ | 3937 | 100% ⚑ |
-| `brihat_jataka` | Hora/Parashari/BrihatJataka/ | 409 | 100% |
-| `bhrigu_sutram` | Hora/Nadi/Bhrigusootram/ | 568 | 100% |
-| `chamatkar_chintamani` | Hora/Parashari/Chamatkarchintamani/ | 112 | 100% |
-| `jataka_parijata` | Hora/Parashari/Jatakaparijatah/ | 1947 | 100% |
-| `laghu_jatakam` | Hora/Parashari/Laghujatakam/ | 182 | 100% |
-| `minaraja_yavana_jataka` | Hora/Parashari/MinarajaYavanajataka/ | 4027 | 100% |
-| `phaladeepika` | Hora/Parashari/Phaladeepika/ | 851 | 100% |
-| `shatpanchashika` | Hora/Parashari/Shatpanchashika/ | 56 | 100% |
-| `varahamihir_daivagnavallabh` | Hora/Parashari/VarahamihirDaivagnavallabh/ | 248 | 100% |
-| `uttara_kalamrita` | Hora/Parashari/UttaraKalamrita/ | 324 | 100% |
-| `muhurta_chintamani` | Muhurta/MuhurtaChintamani/ | 206 | 100% ⚑ |
-| `saravali` | Hora/Parashari/Saravali/ | 1163 | 100% |
-| `asvalayana_grhya_sutra` | Kalpa/Grhyasutra/Asvalayana/ | 394 | 100% |
-| `arch_jyotisham` | Vedanga-Jyotisha/Rigveda/Aarchjyotisham/ | 36 | 100% |
-| `yajusha_jyotisham` | Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/ | 45 | 100% |
-| `brihat_samhita` | Samhita/BrihatSamhita/ | 2771 | 100% |
-| `aryabhatiya` | Siddhanta/Aryabhatiya/ | 121 | 100% |
-| `panchasiddhantika` | Siddhanta/Panchasiddhantika/ | 166 | 100% |
-| `surya_siddhanta` | Siddhanta/SuryaSiddhanta/ | 272 | 100% |
-
-**20 texts on the normalized schema · 17,835 shlokas · 100% translated.** Rationale for
-every figure below: `docs/DECISIONS.md`, three entries dated 2026-08-17.
-
-**Corrected 2026-08-23.** This line read "21 texts · 20,564 shlokas" and was wrong on both
-numbers — the registry rows above it summed to 17,835 the whole time, so the table was
-right and only the headline was stale. Derive it, do not restate it:
+**49 texts on the normalized schema · 775 chapters · 43,263 shlokas.** Derive it, never restate it:
 
 ```
 python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
 ```
 
-⚑ **`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a
+**Until 2026-08-24 this section duplicated INVENTORY's table** — 20 rows against that file's 23,
+each maintained by hand, neither aware of the other. The Vedic corpus would have made it 49 rows
+in two places. A second copy of a manifest is not a summary, it is a second thing to be wrong.
+
+The Jyotiṣa texts are **100% translated**; the 29 Vedic texts added 2026-08-23/24 land
+**untranslated**, which is why the corpus total is no longer a single percentage. Per-text state
+is in INVENTORY.
+
+**`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a
 97-chapter work). 4 mis-split chapters repaired, 5 shlokas recovered; ingests **3937 of
 3937**. **Translation backlog closed 2026-08-22** — the last 5 (`12.11`, `53.20`, `61.55`,
 `66.43`, `66.65`) are now translated; all are single-pada fragments, a shape that occurs
 13 other times in this text. Separately, **ch 25 shloka 16 is absent from the digitisation**
 and was not invented, and ch 60's parenthesised duplicate is now `"12अ"` (a variant reading).
 
-⚑ **`muhurta_chintamani` — translation complete, numbering still wrong.** `MC_001`'s
+**`muhurta_chintamani` — translation complete, numbering still wrong.** `MC_001`'s
 Hindi gap closed 2026-08-22 (all 206 shlokas now `"translated"`). Its chapter-1 numbers
 still run 11–32, 1–7, 37–44: distinct, so they ingest, but the sequence is wrong.
 `MC_REMAINING_RAW.json` in the sources repo does **not** resolve it — checked 2026-08-22,
@@ -151,14 +132,31 @@ variant chapters `"24अ"`/`"63अ"`/`"63ब"`; `Jatakaparijatah` numbers half-s
 
 ### ⚠ 71 shlokas never reach AstroAcharya
 
-`seed_texts.py:92-94` dedupes by `(chapter, shloka)`, later file wins — the Shlokas column
-counts what is *present*, not what is ingestible. Was **2,800**; `brihat_samhita` was 2,729 of
+`seed_texts.py:92-94` dedupes by `(chapter, shloka)`, later file wins — INVENTORY's Shlokas
+column counts what is *present*, not what is ingestible. Was **2,800**; `brihat_samhita` was 2,729 of
 it and is now **0**, its two files consolidated 2026-08-18. They were never two recensions:
 2,574 of 2,711 shared keys differed only in **sandhi** (`प्रसूतिः विश्वात्मा` vs
 `प्रसूतिर्विश्वात्मा`) — one text digitised twice. Ingestion unchanged at 2,771.
 
 Remaining, all intra-chapter and pre-existing: `jataka_parijata` 55, `laghu_jatakam` 14,
 `minaraja_yavana_jataka` 1, `yajusha_jyotisham` 1.
+
+**Re-measured 2026-08-24 across all 49 texts: still exactly 71.** The 29 Vedic texts added
+**zero** duplicate keys, which is a property of the converter rather than luck — it rejects a
+text with a duplicate `(chapter, number)` instead of writing it, so a collision surfaces as a
+blocked conversion rather than as a shloka that quietly never ingests. The four texts above
+pre-date it. Re-run the count with:
+
+```
+python3 -c "import json,glob,collections;t=0
+for p in glob.glob('**/*.json',recursive=True):
+ if p.startswith('docs/'): continue
+ j=json.load(open(p)); c=collections.Counter()
+ for ch in (j.get('chapters') or []):
+  for s in ch.get('shlokas',[]): c[(ch['number'],s['number'])]+=1
+ t+=sum(v-1 for v in c.values() if v>1)
+print(t)"
+```
 
 ### Off-schema — needs RE-DIGITISATION, not renumbering
 
