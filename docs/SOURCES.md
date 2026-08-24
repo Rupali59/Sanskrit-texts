@@ -156,3 +156,41 @@ Caraka but in **IAST Roman under no granted licence**, so they serve as count wi
 **Vedic Heritage Portal (vedicheritage.gov.in) mentions Nirukta and is the outstanding lead.**
 SARIT returned 502 and Muktabodha's host did not resolve on the day — both worth retrying
 rather than writing off.
+
+
+## SARIT — the answer for Caraka and Suśruta, with one blocker (surveyed 2026-08-24)
+
+`sarit.indology.info`, corpus at `github.com/sarit/SARIT-corpus`. It returned 502 on the
+first attempt and was worth retrying — it is up, and it holds what nothing else did.
+
+| Text | Structure in the TEI | Canonical | Commentary hits | Script |
+|---|---|---|---:|---|
+| **Carakasaṃhitā** | `level1` × 8 (sthānas), **`level2` × 120** | **120 adhyāyas** ✓ | 9 | IAST |
+| **Suśrutasaṃhitā** | `sthāna` × 6, **`adhyāyaḥ` × 186** | **186 adhyāyas** ✓ | 11 | IAST |
+| **Aṣṭāṅgahṛdayasaṃhitā** | 7,726 `<lg>`, 15,439 `<l>` | — | — | IAST |
+
+**The structure is exact.** Caraka's 120 adhyāyas across 8 sthānas and Suśruta's 186 across
+6 are the canonical figures, marked up explicitly rather than inferred. Compare what
+Wikisource gave: Caraka's Cikitsāsthāna a redirect and its markers numbering the commentary;
+Suśruta 4,296 of 8,338 verses with mislabelled page ranges.
+
+**And it is essentially mūla-only** — 9 and 11 commentary-name hits, against **166** in
+Wikisource's Caraka.
+
+**Licence: CC BY-SA 3.0 Unported**, stated in each file's `<availability>`. Usable, and
+share-alike like the Wikisource material already in the corpus — though 3.0 against
+4.0 is a wrinkle for the licence question `LICENSES.md` already carries open.
+
+### The one blocker: script
+
+**Zero Devanagari.** Caraka carries 210,782 IAST diacritics, Suśruta 173,762,
+Aṣṭāṅgahṛdaya 145,913. The whole corpus is Devanagari.
+
+**This is not the GRETIL situation.** GRETIL failed on script *and* licence, and its texts
+were partial. SARIT is complete, correctly structured, and licensed — it fails on script
+alone, and **IAST → Devanagari is a deterministic, reversible character mapping**, not OCR
+and not interpretation. It round-trips, so a conversion is verifiable rather than trusted.
+
+**That is a decision, not an implementation detail**, and it is open: the corpus is
+currently 100% Devanagari-sourced, and accepting machine transliteration changes its
+provenance model. Recorded here rather than assumed either way.
