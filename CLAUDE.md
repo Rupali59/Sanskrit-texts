@@ -96,7 +96,19 @@ Every `.json` file in this repo uses this schema — no exceptions:
 **Field notes:**
 - `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
 - `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24); `kalpa` left with Kalpa/ on 2026-08-24. It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `prashna` and `jaimini` trees exist but hold only placeholders, so no file declares them yet.
-- `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither)
+- `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither) | `"drafted"` (machine-drafted, **not yet verified**)
+- `english_draft` / `hindi_draft` — **optional, and the whole publication gate.** Machine-drafted
+  translation lives here and **never** in `english`/`hindi`. Verification *promotes* a draft into
+  the served field and flips `status` to `translated`, clearing the draft it consumed.
+
+  **Why the fields are separate rather than a filter.** `app/api/texts.py` returns the Mongo
+  document wholesale and filters on **nothing**; `seed_texts.py`'s `_normalize_shloka` is an
+  **allowlist** naming `text`/`english`/`hindi`/`status`, so a draft field is simply never copied
+  to Mongo and cannot be served. The unsafe path is unreachable rather than merely discouraged —
+  `rule:safety-flag-needs-a-test`. Adding a draft field to that allowlist, or rewriting it as
+  `{**sh}`, publishes unverified machine text on the public surface and breaks the workspace hard
+  rule *"Computation is AI-assisted; meaning is not"*. `tests/test_seed_texts.py` pins it and the
+  mutation was checked both ways.
 - `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter (stored in files `MS_063अ.json` / `MS_063ब.json`)
 - Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script
 
