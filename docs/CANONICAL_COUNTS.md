@@ -864,3 +864,57 @@ opt-in, never in the default.** Both directions are pinned by tests and mutation
 - **`dhavaṃ palāśaw nyagrodhaw`** at 1.6.11 — a stray `w`, twice, in SARIT's transcription.
   **Preserved.** The correct reading is not known, and guessing one is how a corpus acquires
   errors that look like data (G7).
+
+## Aṣṭāṅgasaṃgraha — BLOCKED on a schema decision, and it exposed a defect in Caraka (2026-08-24)
+
+**Tier `defect`. Not written.** The parse is otherwise correct: **6 sthānas × 150 adhyāyas**
+matching the canonical 40/12/16/24/8/50, 9,382 verses, **zero duplicate keys, zero residual
+IAST**, and **mūla-only by the header's own statement**, said twice — *"omitting the
+commentary of Indu"*. Licence CC BY-SA 3.0 via SARIT.
+
+### Three parser defects it exposed, all fixed and all no-ops elsewhere
+
+1. **`sarit_levels` chose the outer division by RARITY.** Aṣṭāṅgasaṃgraha has `level2`×150,
+   `level1`×6 and `level3`×1, so rarity picks **`level3` — a single subsection — as the
+   outer division of a 150-adhyāya text**. Caraka has `level1`×8 *and* `level3`×8, a tie
+   `min()` resolved by dict iteration order, so that text has been parsing correctly by
+   luck. The real relationship is **containment**, not rarity, and it is now measured.
+2. **The citation prefix was a hardcoded `Ca|Su|Ah`**, which matched **0 of Aṣṭāṅgasaṃgraha's
+   22,671 lines**. Its six sthāna abbreviations are `AS.Sū` / `AS.Śā` / `AS.ni` / `AS.Ci` /
+   `AS.Ka` / `AS.Utt`. Now a general short dotted-token prefix.
+3. **`n` may be compound.** Aṣṭāṅgasaṃgraha writes `n="1.1"` (sthāna.adhyāya); Bhela writes
+   `n="4"`. A digits-only pattern silently misses the compound form and falls back to
+   position — correct for Aṣṭāṅgasaṃgraha only by accident (G24 again, one level down).
+
+### What blocks it, and why it is not a parser question
+
+The Kalpasthāna **Paribhāṣā** is a *third structural level* — `<div type="level3" n="5.8.1">`
+— and its **119 verses cite `AS.Ka.Paribh.N`, a single numeric component** no pattern
+matches. They fall through to the `order[-1]` continuation branch and glue onto Kalpa
+adhyāya 8 verse 33: **12,159 characters against a corpus median of 87** (G23, third instance
+this session).
+
+Splitting them into their own unit **works** and produces depth-3 keys (`8.1.1`…`8.1.119`),
+which `validate_corpus.py:236` rejects — `structure.levels` declares **one depth per text**
+and the rest of Aṣṭāṅgasaṃgraha is depth 2. There is no depth-preserving encoding: `1.1-5`
+fails `DOTTED` and all three of `HALF_SHLOKA` / `DEVANAGARI_SUFFIXED` / `SUB_NUMBERED`.
+
+**So this is a corpus-wide key-schema choice, not a parsing bug** — astroacharya's `@source`
+citations resolve against these keys. Left for Rupali.
+
+### The same question is a LIVE DEFECT in committed Caraka
+
+Caraka's 8 `level3` divs are the **pādas** of Cikitsāsthāna adhyāyas 1 and 2 (Rasāyana,
+Vājīkaraṇa), cited `Ca.6.1.1.1` = sthāna.adhyāya.pāda.verse. With `comps[-1]` taking the
+verse component, **pāda 1 verse 1 and pāda 2 verse 1 are the same key**, so the four pādas
+merge. Measured in the **committed** file:
+
+| key | length |
+|---|---:|
+| `6.1.81` (Rasāyana) | **11,211 chars** |
+| `6.2.53` (Vājīkaraṇa) | **6,264 chars** |
+| median verse | **87 chars** |
+
+Splitting them raises Caraka 9,256 → **9,525** with zero duplicates and keys `1.1`–`1.4`,
+`2.1`–`2.4` — but lands on the identical depth-3 rejection. **Caraka is in the corpus today
+with two adhyāyas' pādas merged**, and that is not fixable without the schema answer.
