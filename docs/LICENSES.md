@@ -138,6 +138,18 @@ uniform licence across the corpus.
 ShareAlike — derived JSON carries the obligation onward and cannot later be relicensed more
 restrictively.
 
+**Per-file copyright holders held from SARIT**, since the obligation is per-file and the
+corpus-level grant does not name them:
+
+| text_id | TEI copyright holder |
+|---|---|
+| `astanga_hridaya`, `caraka_samhita`, `susruta_samhita` | SARIT / the editors named in each header |
+| `manu_smriti` | SARIT, with an added Kyoto Joint Seminar copyright attribution |
+| `bhela_samhita` | **© Tsutomu Yamashita**, distributed by SARIT under CC BY-SA |
+
+Bhela is the first held file naming an individual rather than an institution. Attribution
+must reach him by name, not merely "SARIT".
+
 **Version mismatch, recorded rather than resolved: this is 3.0, and the Wikisource material
 already in the corpus is 4.0.** They are not the same licence. CC's own compatibility runs
 3.0 → 4.0, not the reverse, so a file mixing both is a question — the same question

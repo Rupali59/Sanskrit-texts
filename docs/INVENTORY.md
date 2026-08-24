@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 55 texts · 913 chapters · 79,318 shlokas · 12 categories** — on-schema only.
+**Totals: 56 texts · 921 chapters · 82,131 shlokas · 12 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,9 +24,9 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 55 | 913 | 79,318 |
+| **On-schema** — a real `chapters[]` array | 56 | 921 | 82,131 |
 | Off-schema — the 2 Apastamba texts, scored `1` chapter each by the one-liner | +2 | +2 | — |
-| **The one-liner above** | **57** | **915** | — |
+| **The one-liner above** | **58** | **923** | — |
 
 The off-schema two (`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
@@ -152,6 +152,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,443 | 0% | uncitable |
+| `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 0% | uncitable |
 | `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,256 | 0% | uncitable |
 | `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,295 | 0% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 0% | uncitable |
