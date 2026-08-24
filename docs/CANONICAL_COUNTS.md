@@ -378,3 +378,63 @@ Whitney/Griffith, or a printed Śaunaka edition.
 but they are not the same licence, and the mix is now declared per-file in
 `structure.secondary_sources` with the oldid of each page. **This needs a licensing call
 before redistribution** — see `LICENSES.md`.
+
+
+## Vedāṅga / Upaveda acquisition — source research, 2026-08-24
+
+**Done before fetching anything, and it invalidated three assumptions in the plan.** Recorded
+here rather than discovered mid-wave.
+
+### 1 · GRETIL cannot be the primary source — it is transliteration, and unlicensed
+
+The plan named GRETIL first. Measured across three files
+(`sa_yAska-nirukta`, `sa_pANini-aSTAdhyAyI`, `sa_agniveza-carakasaMhitA-parts-comm`):
+**zero Devanagari characters in each**, against 27,307 / 13,548 / 47,933 IAST diacritics.
+They are romanised.
+
+`LICENSES.md` already said both halves — *"GRETIL's Vedic files are frequently IAST Roman,
+not Devanagari"* (§3) and *"Licence: not granted. Reference use only, terms inherited per
+file."* **A file already in this repo refuted the plan step.** GRETIL stays useful as a
+*witness for counts and structure*, never as corpus text.
+
+**Corrected order: sanskritdocuments (Devanagari, permission-based) → Wikisource (CC BY-SA,
+Devanagari) → GRETIL for cross-checking only.**
+
+### 2 · Almost everything Devanagari-available on this axis belongs to Youvan
+
+Searched sanskritdocuments' `doc_z_misc_major_works/` (232 documents) and `doc_veda/` (82):
+
+| Text | Axis | Owner | Available |
+|---|---|---|---|
+| `pANinIyashikShA` | Vedāṅga Śikṣā | **Youvan** | yes, Devanagari |
+| `natya01`–`natya37` | Upaveda Gāndharvaveda (Nāṭyaśāstra, 37 ch) | **Youvan** | yes, Devanagari |
+| `aShTAdhyAyI` | Vedāṅga Vyākaraṇa | Vipin | yes — but **sūtra shape, blocked** |
+| `dhanurveda` | **Upaveda Dhanurveda** | **Vipin** | **yes, Devanagari** |
+| Nirukta, Caraka, Suśruta, Aṣṭāṅgahṛdaya, Mānasāra, Mayamata | — | Vipin | **absent** from both indexes |
+
+So **Vipin's entire acquirable Wave 1 on this axis is one text.** The Āyurveda and
+Sthāpatyaveda material is not on sanskritdocuments at all, and the GRETIL copies are
+transliteration under no licence — the scale warning in the plan turns out to be moot for
+now, because the texts are not obtainable in the required form from the established sources.
+
+### 3 · `dhanurveda` — 227 verses, contiguous, and it exposed a sixth marker variant
+
+`sanskritdocuments.org/doc_veda/dhanurveda.html`, encoded by Ravi Mahadevappa. 18,399
+Devanagari characters, unaccented, one file.
+
+The `double` grammar found **217 markers over a span of 227**, missing
+`10, 20, 30, 40, 50, 128, 130, 181, 197, 203`. **The first five being exact multiples of ten
+is a parser smell, not a source property**, and it was: every one of the ten is terminated
+`॥ N ।` — opening double daṇḍa, closing **single**. Verse 10 reads `॥ १० ।`, not `॥ १०॥`.
+
+Tolerating a single-daṇḍa close gives **227 markers · 227 distinct · max 227 · zero gaps ·
+zero duplicates** — a perfectly contiguous 1..227.
+
+**Tier: `contiguity`, not `firm`.** The count is derived and internally perfect, but **no
+published canonical figure was found to check it against**, so it is not citable. Saying so
+is the point; `uncitable` and `firm` are different claims.
+
+**Also present and harmless: stray ASCII line numbers** (`1714`, `1715`, …) after each
+marker — 217 of them, artefacts of the source edition's line numbering. `MARKER` matches
+Devanagari numerals here, so they do not interfere, but a parser widened to ASCII digits
+would ingest them as verse numbers.
