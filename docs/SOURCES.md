@@ -194,3 +194,36 @@ and not interpretation. It round-trips, so a conversion is verifiable rather tha
 **That is a decision, not an implementation detail**, and it is open: the corpus is
 currently 100% Devanagari-sourced, and accepting machine transliteration changes its
 provenance model. Recorded here rather than assumed either way.
+
+
+### The transliteration check — it is lossless, and the citations are the bonus
+
+Measured on SARIT's actual text with `indic-transliteration`, round-tripping
+IAST → Devanagari → IAST and comparing byte-for-byte:
+
+| Text | Lines | Round-trip | Per-line citations |
+|---|---:|---|---:|
+| Carakasaṃhitā | 17,090 | **17,086 ok / 4 differ — 99.98%** | 9,268 (54%) |
+| Suśrutasaṃhitā | 6,191 | **6,188 ok / 3 differ — 99.95%** | 3,130 (50%) |
+| Aṣṭāṅgahṛdaya | 15,439 | 12,035 ok / 3,404 differ — 77% | 14,959 (**96%**) |
+
+**Every residual failure is a citation label or a source typo, never lost Sanskrit.**
+Caraka's 4 and Suśruta's 3 are exactly the lines carrying a stray capital in the source
+(`hetuyuktijO`, `pitYn`). Aṣṭāṅgahṛdaya's 3,404 are lines with an **embedded trailing**
+citation (`... || 5 || Ah.1.1.005v/ 1-5bv`), where only the capital `Ah` changes case —
+the Sanskrit before it is identical. Citations are metadata and must be excluded from
+transliteration anyway.
+
+One normalisation is needed first: the sources mix **`ṁ` (dot above) and `ṃ` (dot below)**
+for anusvāra. `ṁ` round-trips to a candrabindu; mapping it to `ṃ` beforehand resolves it.
+
+**Two instrument errors on the way to this number, both worth recording.** A first pass
+reported **45%** because it transliterated the citation prefix along with the text. A second
+reported HK, SLP1 and Velthuis each round-tripping Aṣṭāṅgahṛdaya at **100%** — a false pass,
+because a scheme that cannot read a character leaves it untouched and it round-trips
+trivially. A 100% on an unreadable text is not a pass.
+
+**And the citations are worth more than the script conversion.** `Ca.1.1.3ab` is
+sthāna.adhyāya.verse.pāda, stated per line by the source. Aṣṭāṅgahṛdaya carries one on 96%
+of its lines. That is the structure this corpus has spent the whole session inferring badly
+from verse numbers — stated outright.
