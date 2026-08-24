@@ -165,7 +165,7 @@ Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaT
 
 ## Code exploration
 
-This is a **JSON data corpus, not code** — the `code-review-graph` graph is empty here (0 nodes; nothing to parse), and its callers/impact/tests tools don't apply to data files. Use **Grep / Read / the Explore agent** directly. See `rule:tool-priority` for the general tool-priority ordering (it applies to code-bearing siblings like astroacharya; this repo has no code for it to index).
+This is a **JSON data corpus**, so the callers/impact/tests tools don't apply to the data — use **Grep / Read / the Explore agent**. This said the `code-review-graph` graph was "empty here (0 nodes)"; it is not, and has not been since the repo gained scripts — **derive it with `code-review-graph status`, never restate it**. A `.git/hooks/pre-commit` rebuilds it on every commit, which is why a stale graph here self-heals; while it WAS stale it emitted `fatal: unable to read <sha>` once per changed file during commits. See `rule:tool-priority`.
 
 ## State management
 
