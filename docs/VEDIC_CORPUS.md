@@ -16,8 +16,8 @@ restate it; `docs/INVENTORY.md` is the registry, and the command is in `CLAUDE.m
 |---|---:|---:|---|
 | **संहिता** | **5** | 13 | The **primary recension of every Veda**, plus both Yajurveda branches: Śākala (RV), Taittirīya (KYV), Mādhyandina (ŚYV), Kauthuma (SV), Śaunaka (AV) |
 | **उपनिषद्** | **24** | 17+ | **All 13 mukhya**, plus 11 minor |
-| **ब्राह्मण** | 0 | 16 | Out of scope, deliberately |
-| **आरण्यक** | 0 | 5 | Out of scope, deliberately |
+| **ब्राह्मण** | — | 16 | **Youvan's, from 2026-08-24** — not this corpus |
+| **आरण्यक** | — | 5 | **Youvan's, from 2026-08-24** — not this corpus |
 
 **The eight Saṃhitās not held are alternate śākhās, not missing Vedas:** Bāṣkala (RV) ·
 Maitrāyaṇī, Kāṭhaka, Kapiṣṭhala (KYV) · Kāṇva (ŚYV) · Rāṇāyanīya, Jaiminīya (SV) ·
@@ -25,9 +25,31 @@ Paippalāda (AV). Several survive only in fragments or single manuscripts; Kapi�
 particular is not fully extant. Do not read "5 of 13" as 38% of the Saṃhitā layer — the
 mantra text of all four Vedas is present.
 
-**Brāhmaṇa and Āraṇyaka are excluded by decision, not by omission.** They are ritual prose
-with four nesting levels, and the converter is built for numbered verse. Taking them on is
-a separate scope with its own parser, not a next wave of the same work.
+**Brāhmaṇa and Āraṇyaka now belong to Youvan** (2026-08-24), so they are not this corpus's
+backlog at all. They were already excluded here by decision rather than omission — ritual
+prose with four nesting levels against a converter built for numbered verse — and the
+ownership change makes that permanent rather than deferred. **Nothing moved on disk: zero
+of the 21 were held**, so this reassigned a scope, not files. The rows above read `—`, not
+`0`, because "not ours" and "ours and absent" are different facts.
+
+### The line is drawn by LAYER, and getting that wrong costs four mukhya Upaniṣads
+
+**Seven of the 24 Upaniṣads held here are textually chapters of a Brāhmaṇa or Āraṇyaka.**
+They stay. Reading the split by *containing work* instead of by *layer* would hand Youvan
+1,497 verses including four principal Upaniṣads:
+
+| Upaniṣad | Held | Sits inside |
+|---|---:|---|
+| Bṛhadāraṇyaka | 437 verses | Śatapatha Brāhmaṇa 14 (Mādhyandina) |
+| Chāndogya | 627 | Chāndogya Brāhmaṇa 3–10 |
+| Mahānārāyaṇa | 263 | Taittirīya Āraṇyaka 10 |
+| Taittirīya Up. | 51 | Taittirīya Āraṇyaka 7–9 |
+| Kauṣītaki | 51 | Kauṣītaki Āraṇyaka 3–6 |
+| Kena | 35 | Jaiminīya Upaniṣad Brāhmaṇa 4.18–21 |
+| Aitareya | 33 | Aitareya Āraṇyaka 2.4–6 |
+
+Say "the Upaniṣad layer is ours"; never "anything not in an Āraṇyaka is ours." The second
+phrasing is wrong for seven texts and reads as correct.
 
 **Two known gaps inside what is held**, both declared in the data rather than papered over:
 RV 1.65 (two interleaved numbering systems — a scholarly call) and AV 20.13 (absent from
@@ -90,8 +112,11 @@ to 108 Upaniṣads overall, of which 10–13 are the *mukhya* (principal) ones.
 
 ## Where this belongs
 
-**This corpus.** Per the ownership split as revised 2026-08-23: **Youvan Prakashan holds
-Tantra and Mantra; Vipin holds Jyotish and everything else.** Philosophy moved to Vipin,
+**Saṃhitā and Upaniṣad: this corpus. Brāhmaṇa and Āraṇyaka: Youvan, from 2026-08-24.**
+
+Per the ownership split as revised 2026-08-23 and narrowed again 2026-08-24: **Youvan
+Prakashan holds Tantra, Mantra, Brāhmaṇa and Āraṇyaka; Vipin holds Jyotish and everything
+else.** Philosophy moved to Vipin,
 so the Āraṇyakas and Upaniṣads land here, and the Saṃhitās and Brāhmaṇas with them.
 
 This file was first written into `Tushar/Youvan/texts/` on 2026-08-23 under the previous
