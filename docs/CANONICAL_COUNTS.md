@@ -1028,3 +1028,83 @@ The inner division was switched to declared numbering under G24; the outer was s
 positional. Measured 2026-08-24: **every held text's outer divs are positional**, so this is a
 no-op today — which is exactly the state G24 was written about, one level up. Confirmed a
 no-op by an unchanged full dry-run.
+
+## `fixability.py` — deciding manual vs code by measurement (2026-08-24)
+
+Six texts have been blocked on **numbering** rather than on data, and the call was made by
+feel each time. Once it was made badly: Manusmṛti got two sessions of accurate damage
+analysis that was thrown away when the text was re-acquired whole in one pass.
+
+`scripts/sanskrit-convert/fixability.py` scores a blocked text and recommends
+**re-acquire / code / code-opt-in / manual**.
+
+### What is derived, and what is not
+
+`A` (affected units), `S` (distinct citation shapes) and `X` (sibling blast radius) are
+**measured** from the source and the current parse. `R` (a clean edition exists elsewhere)
+and `N` (the fix would renumber existing keys) are judgements no script can make, so they are
+**declared** — and declaring them is the point at which someone has to have looked.
+
+### The rule, in order
+
+1. **`R` → re-acquire.** Replacing beats diagnosing; check for a clean source *before*
+   characterising damage.
+2. **`N` → never renumber** (G7). Use a string key or `structure.known_gaps`.
+3. **`A/S ≥ 10` → code a rule.** If `X > 0` it must be a per-text **opt-in**.
+4. **`A/S < 10` → manual**, via `SARIT_CORRECTIONS` / `SOURCE_CORRECTIONS`.
+
+### It reproduces every decision already made — that is what makes it a metric
+
+| Case | A | S | X | Rule says | What was done |
+|---|--:|--:|--:|---|---|
+| Mayamata adhyāya 21 marker | 1 | 1 | 0 | manual | manual |
+| Caraka stray-dot sub-number | 1 | 1 | 0 | manual | manual |
+| Nārada citation shapes | 33 | 2 | 0 | code | code |
+| Aṣṭāṅgasaṃgraha Paribhāṣā | 119 | 1 | 0 | code | code |
+| Bhela no-separator | 272 | 1 | 2 | code-opt-in | code-opt-in |
+| Manusmṛti bracketed xref | 801 | 2 | 0 | code | code |
+| Manusmṛti damaged numbering | — | — | — | re-acquire | re-acquire |
+
+`--history` replays these on every run, and each is a test.
+
+### The threshold is under-determined, and says so
+
+**No case falls between 2 and 16**, so any threshold in that gap reproduces every decision
+identically. `10` is the midpoint of an empty interval, not a discovered constant. Confirmed
+by mutation: moving it to **20** breaks Nārada (16.5), moving it to **0.5** breaks Mayamata
+and Caraka (1.0). The first case that lands in the gap is the one that should settle it.
+
+### The prerequisite: "manual" had to become possible first
+
+`apply_corrections()` is called from exactly one place — the wikitext/marker path — so
+**SARIT texts had no manual-correction mechanism at all**, and every text acquired since
+Aṣṭāṅgahṛdaya is SARIT. A metric that recommends "fix this by hand" is worthless if by-hand
+is unimplemented. `SARIT_CORRECTIONS` is the citation-keyed sibling.
+
+**Its loud half is `unfired_sarit_corrections`.** A page-and-index correction fails loudly by
+landing on the wrong verse; a citation-keyed one just silently does nothing when the source
+changes under it. Verified by mutation: a stale citation prints
+`CORRECTION NEVER FIRED` *and* drops Caraka 9,643 → 9,642.
+
+### The metric's first act was to overturn one of my own changes
+
+The Phase-A rejoin heuristic for `Ca.1.18.7.-1` fires on **exactly one line in the whole
+corpus** — A=1, S=1 → **manual**. It is now a `SARIT_CORRECTIONS` entry instead, and the
+conversion is byte-identical.
+
+### Two instrument errors inside the metric itself, both caught by using it
+
+1. **`shape()` normalised digits but not the trailing Sanskrit word**, so
+   `Ca.2.7.1athāta` and `Ca.2.7.6tasyemāni` counted as two shapes rather than one.
+   S is the denominator, so over-counting shapes deflates `A/S` and flips code → manual.
+   Caraka measured **S=12** before, **S=2** after.
+2. **The digit placeholder was `N`, which is itself a letter**, so the letter-collapse ate its
+   own placeholder: `Ca.2.7.1athāta` → `W.W.W`, which the citation-ish filter discarded. The
+   tool reported **"nothing affected" for a text with 13 real unread citations** — a reader
+   inventing an absence (`rule:discernment-checks` §6). Placeholder is now `#`.
+
+### What it found immediately
+
+**Caraka still has ~13 unread citation lines** in 3 shapes — `Ca.2.7.1athāta` (no separator)
+and `Ca.2.7.7,(1)tato` (comma-parenthesis sub-number). Scored **A=6, S=3 → 2.0 → manual**.
+Not actioned; recorded so the next session starts from a measurement rather than a hunch.
