@@ -865,9 +865,14 @@ opt-in, never in the default.** Both directions are pinned by tests and mutation
   **Preserved.** The correct reading is not known, and guessing one is how a corpus acquires
   errors that look like data (G7).
 
-## Aṣṭāṅgasaṃgraha — BLOCKED on a schema decision, and it exposed a defect in Caraka (2026-08-24)
+## Aṣṭāṅgasaṃgraha — and the schema decision it forced, which also fixed Caraka (2026-08-24)
 
-**Tier `defect`. Not written.** The parse is otherwise correct: **6 sthānas × 150 adhyāyas**
+> **RESOLVED the same day.** Rupali chose **mixed depth**: `structure.levels` now declares
+> the MAXIMUM depth rather than a uniform one. Aṣṭāṅgasaṃgraha landed at **9,382** verses
+> and Caraka's merged pādas were repaired, **9,256 → 9,525**. The section below is kept as
+> written because the measurements are the argument for the decision.
+
+**Tier `uncitable`. 9,382 verses.** The parse is: **6 sthānas × 150 adhyāyas**
 matching the canonical 40/12/16/24/8/50, 9,382 verses, **zero duplicate keys, zero residual
 IAST**, and **mūla-only by the header's own statement**, said twice — *"omitting the
 commentary of Indu"*. Licence CC BY-SA 3.0 via SARIT.

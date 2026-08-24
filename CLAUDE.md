@@ -121,7 +121,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 shloka counts, translation state and count-authority tier, in one table. This section holds only
 what a manifest cannot: the caveats that make a number mean less than it looks like.
 
-**56 texts on the normalized schema · 921 chapters · 82,131 shlokas.** Derive it, never restate it:
+**57 texts on the normalized schema · 927 chapters · 91,782 shlokas.** Derive it, never restate it:
 
 ```
 python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
