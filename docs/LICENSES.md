@@ -121,6 +121,37 @@ Also note GRETIL's Vedic files are frequently **IAST Roman, not Devanagari**.
 
 ---
 
+## 3b · SARIT — `sarit.indology.info` · `github.com/sarit/SARIT-corpus`
+
+**Licence: CC BY-SA 3.0 Unported. Granted, and stated per file.**
+
+Each TEI file carries it in its own `<availability>` block:
+
+> Copyright 2014–2018 SARIT. Distributed by SARIT under a Creative Commons
+> Attribution-ShareAlike 3.0 Unported License.
+
+**This is the opposite of GRETIL (§3), and the distinction matters.** GRETIL grants nothing
+and inherits per-file terms that must be read individually. SARIT grants a single, explicit,
+uniform licence across the corpus.
+
+**Obligations.** Attribution to SARIT plus the per-file editors named in the TEI header, and
+ShareAlike — derived JSON carries the obligation onward and cannot later be relicensed more
+restrictively.
+
+**Version mismatch, recorded rather than resolved: this is 3.0, and the Wikisource material
+already in the corpus is 4.0.** They are not the same licence. CC's own compatibility runs
+3.0 → 4.0, not the reverse, so a file mixing both is a question — the same question
+§"Mixed-licence files" already carries open for ODbL + CC BY-SA 4.0. **Answer it before
+redistributing a file that mixes them**, not after.
+
+**Script.** SARIT is IAST Roman, not Devanagari — verified, not assumed: zero Devanagari
+characters in Caraka, Suśruta and Aṣṭāṅgahṛdaya. Using it means machine transliteration,
+which round-trips losslessly (`SOURCES.md` §"The transliteration check") but changes this
+corpus's provenance model from wholly Devanagari-sourced. That is a separate decision from
+the licence.
+
+---
+
 ## 4 · Digital Library of India mirror — `dli.sanskritdictionary.com`
 
 Governed by the DLI copyright policy. Holdings are **scanned page images** of printed

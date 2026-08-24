@@ -227,3 +227,28 @@ trivially. A 100% on an unreadable text is not a pass.
 sthāna.adhyāya.verse.pāda, stated per line by the source. Aṣṭāṅgahṛdaya carries one on 96%
 of its lines. That is the structure this corpus has spent the whole session inferring badly
 from verse numbers — stated outright.
+
+
+### The Brahmanand Tripāṭhī Aṣṭāṅga Hṛdaya PDF — not usable
+
+`Ashtang_Hridayam_Brahmanand_Tripathi_अष्टांग_हृदय-1.pdf`, 387 pages, 51 MB. **Zero
+characters extract from the entire document** — not a low count, zero. Every page is a pair
+of JPEG images at ~144 ppi, Ghostscript-wrapped. It is a scan.
+
+Checked the way G3 prescribes, because a byte count looks like success: `pdftotext | tr -d
+'\f\n\t ' | wc -c` returns **0** across all 387 pages, and `pdfimages -list` shows each
+page as `887×~1310 rgb jpeg` with no text object.
+
+**Three independent blockers, any one of which is sufficient:**
+
+1. **No text layer.** OCR would be required, and at ~144 ppi — well under the ~300 ppi
+   Devanagari OCR wants — this is the same path already rejected for `MuhurtaMartanda`.
+2. **It is a commentary edition.** Tripāṭhī's is the *Nirmalā* Hindi commentary, so the mūla
+   is interleaved with commentary — the Caraka problem (G18), which no amount of OCR quality
+   fixes.
+3. **Copyright.** The Sanskrit mūla is public domain; Tripāṭhī's commentary and edition are a
+   modern Chaukhamba work and are not.
+
+**SARIT's Aṣṭāṅgahṛdaya is strictly better on every axis** — machine-readable, 96% of lines
+carrying an explicit `Ah.1.1.005` citation, and CC BY-SA 3.0. Its only deficit is script,
+and that is a lossless mapping rather than an OCR gamble.
