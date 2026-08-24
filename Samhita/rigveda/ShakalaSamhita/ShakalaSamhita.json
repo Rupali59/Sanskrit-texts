@@ -13,11 +13,27 @@
     "shloka_number_format": "level2.verse",
     "citation_prefix": "rigveda_samhita",
     "expected_chapters": 10,
-    "expected_verses": 10449,
+    "expected_verses": 10470,
     "count_authority": "range",
     "count_authority_reason": "within published range 10201-10552",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "1.65"
+    ],
+    "known_gaps_reason": "RV 1.65 carries two interleaved numbering systems (pada numbers 1,3,5,7,9 against verse numbers 1..5); which is canonical is a scholarly decision, not a parser setting.",
+    "secondary_sources": [
+      {
+        "scope": "8.66 relabelled; 8.67 supplied (21 verses)",
+        "source": "Sanskrit Wikisource",
+        "license": "CC BY-SA 4.0",
+        "oldid": {
+          "8.66": "300223",
+          "8.67": "299570"
+        },
+        "reason": "The primary source (DharmicData, ODbL) mislabels RV 8.66 as 8.67 and omits the real 8.67. Its record for sukta 67 carries the byline '15 kali: pragatha: ... 15 anustup', which is Wikisource's byline for 8.66. So mandala 8 held 102 suktas with 66 absent, and its '67' was 66's text.",
+        "license_note": "This file is otherwise ODbL; 21 verses are CC BY-SA 4.0. Both are share-alike; the mix is DECLARED here rather than silently merged and needs a licensing call before redistribution. See docs/LICENSES.md."
+      }
+    ]
   },
   "chapters": [
     {
@@ -57043,9 +57059,129 @@
           "status": "untranslated"
         },
         {
+          "number": "66.1",
+          "ref": "rigveda_samhita 8.66.1",
+          "text": "तरोभिर्वो विदद्वसुमिन्द्रं सबाध ऊतये । बृहद्गायन्तः सुतसोमे अध्वरे हुवे भरं न कारिणम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.2",
+          "ref": "rigveda_samhita 8.66.2",
+          "text": "न यं दुध्रा वरन्ते न स्थिरा मुरो मदे सुशिप्रमन्धसः । य आदृत्या शशमानाय सुन्वते दाता जरित्र उक्थ्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.3",
+          "ref": "rigveda_samhita 8.66.3",
+          "text": "यः शक्रो मृक्षो अश्व्यो यो वा कीजो हिरण्यय: । स ऊर्वस्य रेजयत्यपावृतिमिन्द्रो गव्यस्य वृत्रहा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.4",
+          "ref": "rigveda_samhita 8.66.4",
+          "text": "निखातं चिद्यः पुरुसम्भृतं वसूदिद्वपति दाशुषे । वज्री सुशिप्रो हर्यश्व इत्करदिन्द्र: क्रत्वा यथा वशत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.5",
+          "ref": "rigveda_samhita 8.66.5",
+          "text": "यद्वावन्थ पुरुष्टुत पुरा चिच्छूर नृणाम् । वयं तत्त इन्द्र सं भरामसि यज्ञमुक्थं तुरं वच:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.6",
+          "ref": "rigveda_samhita 8.66.6",
+          "text": "सचा सोमेषु पुरुहूत वज्रिवो मदाय द्युक्ष सोमपाः । त्वमिद्धि ब्रह्मकृते काम्यं वसु देष्ठ: सुन्वते भुव:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.7",
+          "ref": "rigveda_samhita 8.66.7",
+          "text": "वयमेनमिदा ह्योऽपीपेमेह वज्रिणम् । तस्मा उ अद्य समना सुतं भरा ऽऽनूनं भूषत श्रुते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.8",
+          "ref": "rigveda_samhita 8.66.8",
+          "text": "वृकश्चिदस्य वारण उरामथिरा वयुनेषु भूषति । सेमं न: स्तोमं जुजुषाण आ गहीन्द्र प्र चित्रया धिया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.9",
+          "ref": "rigveda_samhita 8.66.9",
+          "text": "कदू न्व१स्याकृतमिन्द्रस्यास्ति पौंस्यम् । केनो नु कं श्रोमतेन न शुश्रुवे जनुष: परि वृत्रहा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.10",
+          "ref": "rigveda_samhita 8.66.10",
+          "text": "कदू महीरधृष्टा अस्य तविषी: कदु वृत्रघ्नो अस्तृतम् । इन्द्रो विश्वान्बेकनाटाँ अहर्दृश उत क्रत्वा पणीँरभि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.11",
+          "ref": "rigveda_samhita 8.66.11",
+          "text": "वयं घा ते अपूर्व्येन्द्र ब्रह्माणि वृत्रहन् । पुरूतमासः पुरुहूत वज्रिवो भृतिं न प्र भरामसि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.12",
+          "ref": "rigveda_samhita 8.66.12",
+          "text": "पूर्वीश्चिद्धि त्वे तुविकूर्मिन्नाशसो हवन्त इन्द्रोतय: । तिरश्चिदर्यः सवना वसो गहि शविष्ठ श्रुधि मे हवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.13",
+          "ref": "rigveda_samhita 8.66.13",
+          "text": "वयं घा ते त्वे इद्विन्द्र विप्रा अपि ष्मसि । नहि त्वदन्यः पुरुहूत कश्चन मघवन्नस्ति मर्डिता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.14",
+          "ref": "rigveda_samhita 8.66.14",
+          "text": "त्वं नो अस्या अमतेरुत क्षुधो३ऽभिशस्तेरव स्पृधि । त्वं न ऊती तव चित्रया धिया शिक्षा शचिष्ठ गातुवित्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "66.15",
+          "ref": "rigveda_samhita 8.66.15",
+          "text": "सोम इद्व: सुतो अस्तु कलयो मा बिभीतन । अपेदेष ध्वस्मायति स्वयं घैषो अपायति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
           "number": "67.1",
           "ref": "rigveda_samhita 8.67.1",
-          "text": "तरोभिर्वो विदद्वसुमिन्द्रं सबाध ऊतये । बृहद्गायन्तः सुतसोमे अध्वरे हुवे भरं न कारिणम्",
+          "text": "त्यान्नु क्षत्रियाँ अव आदित्यान्याचिषामहे । सुमृळीकाँ अभिष्टये",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57053,7 +57189,7 @@
         {
           "number": "67.2",
           "ref": "rigveda_samhita 8.67.2",
-          "text": "न यं दुध्रा वरन्ते न स्थिरा मुरो मदे सुशिप्रमन्धसः । य आदृत्या शशमानाय सुन्वते दाता जरित्र उक्थ्यम्",
+          "text": "मित्रो नो अत्यंहतिं वरुणः पर्षदर्यमा । आदित्यासो यथा विदुः",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57061,7 +57197,7 @@
         {
           "number": "67.3",
           "ref": "rigveda_samhita 8.67.3",
-          "text": "यः शक्रो मृक्षो अश्व्यो यो वा कीजो हिरण्यय: । स ऊर्वस्य रेजयत्यपावृतिमिन्द्रो गव्यस्य वृत्रहा",
+          "text": "तेषां हि चित्रमुक्थ्यं वरूथमस्ति दाशुषे । आदित्यानामरंकृते",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57069,7 +57205,7 @@
         {
           "number": "67.4",
           "ref": "rigveda_samhita 8.67.4",
-          "text": "निखातं चिद्यः पुरुसम्भृतं वसूदिद्वपति दाशुषे । वज्री सुशिप्रो हर्यश्व इत्करदिन्द्र: क्रत्वा यथा वशत्",
+          "text": "महि वो महतामवो वरुण मित्रार्यमन् । अवांस्या वृणीमहे",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57077,7 +57213,7 @@
         {
           "number": "67.5",
           "ref": "rigveda_samhita 8.67.5",
-          "text": "यद्वावन्थ पुरुष्टुत पुरा चिच्छूर नृणाम् । वयं तत्त इन्द्र सं भरामसि यज्ञमुक्थं तुरं वच:",
+          "text": "जीवान्नो अभि धेतनादित्यासः पुरा हथात् । कद्ध स्थ हवनश्रुतः",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57085,7 +57221,7 @@
         {
           "number": "67.6",
           "ref": "rigveda_samhita 8.67.6",
-          "text": "सचा सोमेषु पुरुहूत वज्रिवो मदाय द्युक्ष सोमपाः । त्वमिद्धि ब्रह्मकृते काम्यं वसु देष्ठ: सुन्वते भुव:",
+          "text": "यद्वः श्रान्ताय सुन्वते वरूथमस्ति यच्छर्दिः । तेना नो अधि वोचत",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57093,7 +57229,7 @@
         {
           "number": "67.7",
           "ref": "rigveda_samhita 8.67.7",
-          "text": "वयमेनमिदा ह्योऽपीपेमेह वज्रिणम् । तस्मा उ अद्य समना सुतं भरा ऽऽनूनं भूषत श्रुते",
+          "text": "अस्ति देवा अंहोरुर्वस्ति रत्नमनागसः । आदित्या अद्भुतैनसः",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57101,7 +57237,7 @@
         {
           "number": "67.8",
           "ref": "rigveda_samhita 8.67.8",
-          "text": "वृकश्चिदस्य वारण उरामथिरा वयुनेषु भूषति । सेमं न: स्तोमं जुजुषाण आ गहीन्द्र प्र चित्रया धिया",
+          "text": "मा नः सेतुः सिषेदयं महे वृणक्तु नस्परि । इन्द्र इद्धि श्रुतो वशी",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57109,7 +57245,7 @@
         {
           "number": "67.9",
           "ref": "rigveda_samhita 8.67.9",
-          "text": "कदू न्व१स्याकृतमिन्द्रस्यास्ति पौंस्यम् । केनो नु कं श्रोमतेन न शुश्रुवे जनुष: परि वृत्रहा",
+          "text": "मा नो मृचा रिपूणां वृजिनानामविष्यवः । देवा अभि प्र मृक्षत",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57117,7 +57253,7 @@
         {
           "number": "67.10",
           "ref": "rigveda_samhita 8.67.10",
-          "text": "कदू महीरधृष्टा अस्य तविषी: कदु वृत्रघ्नो अस्तृतम् । इन्द्रो विश्वान्बेकनाटाँ अहर्दृश उत क्रत्वा पणीँरभि",
+          "text": "उत त्वामदिते मह्यहं देव्युप ब्रुवे । सुमृळीकामभिष्टये",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57125,7 +57261,7 @@
         {
           "number": "67.11",
           "ref": "rigveda_samhita 8.67.11",
-          "text": "वयं घा ते अपूर्व्येन्द्र ब्रह्माणि वृत्रहन् । पुरूतमासः पुरुहूत वज्रिवो भृतिं न प्र भरामसि",
+          "text": "पर्षि दीने गभीर आँ उग्रपुत्रे जिघांसतः । माकिस्तोकस्य नो रिषत्",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57133,7 +57269,7 @@
         {
           "number": "67.12",
           "ref": "rigveda_samhita 8.67.12",
-          "text": "पूर्वीश्चिद्धि त्वे तुविकूर्मिन्नाशसो हवन्त इन्द्रोतय: । तिरश्चिदर्यः सवना वसो गहि शविष्ठ श्रुधि मे हवम्",
+          "text": "अनेहो न उरुव्रज उरूचि वि प्रसर्तवे । कृधि तोकाय जीवसे",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57141,7 +57277,7 @@
         {
           "number": "67.13",
           "ref": "rigveda_samhita 8.67.13",
-          "text": "वयं घा ते त्वे इद्विन्द्र विप्रा अपि ष्मसि । नहि त्वदन्यः पुरुहूत कश्चन मघवन्नस्ति मर्डिता",
+          "text": "ये मूर्धानः क्षितीनामदब्धासः स्वयशसः । व्रता रक्षन्ते अद्रुहः",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57149,7 +57285,7 @@
         {
           "number": "67.14",
           "ref": "rigveda_samhita 8.67.14",
-          "text": "त्वं नो अस्या अमतेरुत क्षुधो३ऽभिशस्तेरव स्पृधि । त्वं न ऊती तव चित्रया धिया शिक्षा शचिष्ठ गातुवित्",
+          "text": "ते न आस्नो वृकाणामादित्यासो मुमोचत । स्तेनं बद्धमिवादिते",
           "english": "",
           "hindi": "",
           "status": "untranslated"
@@ -57157,7 +57293,55 @@
         {
           "number": "67.15",
           "ref": "rigveda_samhita 8.67.15",
-          "text": "सोम इद्व: सुतो अस्तु कलयो मा बिभीतन । अपेदेष ध्वस्मायति स्वयं घैषो अपायति",
+          "text": "अपो षु ण इयं शरुरादित्या अप दुर्मतिः । अस्मदेत्वजघ्नुषी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "67.16",
+          "ref": "rigveda_samhita 8.67.16",
+          "text": "शश्वद्धि वः सुदानव आदित्या ऊतिभिर्वयम् । पुरा नूनं बुभुज्महे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "67.17",
+          "ref": "rigveda_samhita 8.67.17",
+          "text": "शश्वन्तं हि प्रचेतसः प्रतियन्तं चिदेनसः । देवाः कृणुथ जीवसे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "67.18",
+          "ref": "rigveda_samhita 8.67.18",
+          "text": "तत्सु नो नव्यं सन्यस आदित्या यन्मुमोचति । बन्धाद्बद्धमिवादिते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "67.19",
+          "ref": "rigveda_samhita 8.67.19",
+          "text": "नास्माकमस्ति तत्तर आदित्यासो अतिष्कदे । यूयमस्मभ्यं मृळत",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "67.20",
+          "ref": "rigveda_samhita 8.67.20",
+          "text": "मा नो हेतिर्विवस्वत आदित्याः कृत्रिमा शरुः । पुरा नु जरसो वधीत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "67.21",
+          "ref": "rigveda_samhita 8.67.21",
+          "text": "वि षु द्वेषो व्यंहतिमादित्यासो वि संहितम् । विष्वग्वि वृहता रपः",
           "english": "",
           "hindi": "",
           "status": "untranslated"

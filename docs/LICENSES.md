@@ -144,3 +144,27 @@ have that column filled with something real:
 
 `—` is only acceptable for a file we produced ourselves (our own OCR, our own extraction).
 An empty attribution on an upstream file is a defect, not a formatting gap.
+
+
+## Mixed-licence files — added 2026-08-24, needs a call before redistribution
+
+Two corpus files are no longer single-licence. Both are ODbL from DharmicData except for a
+small number of verses supplied from Sanskrit Wikisource under **CC BY-SA 4.0**, because
+the ODbL source was wrong or empty there:
+
+| File | ODbL | CC BY-SA 4.0 | Wikisource oldid |
+|---|---|---|---|
+| `Samhita/rigveda/ShakalaSamhita` | 10,449 verses | **21** (8.67) | 299570 |
+| `Samhita/atharvaveda/ShaunakaSamhita` | 6,088 verses | **3** (20.3) | 323600 |
+
+The provenance is declared in each file's `structure.secondary_sources`, so it travels with
+the data rather than living only here. Rationale for each: `CANONICAL_COUNTS.md`
+§"The second witness earns its keep".
+
+**Both licences are share-alike, which is why this was acceptable to do — and it is still
+not the same licence.** ODbL and CC BY-SA 4.0 impose their share-alike obligations by
+different mechanisms, and combining them in one distributed file is a question this repo has
+not answered. Recorded as an open decision, not treated as resolved. Options if it becomes a
+problem: keep the Wikisource verses in a sibling file with its own licence header, or
+re-source those 24 verses from a public-domain edition (Aufrecht for the Rigveda, Whitney
+for the Atharvaveda).

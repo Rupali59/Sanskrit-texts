@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 49 texts · 775 chapters · 43,263 shlokas · 9 categories** — on-schema only.
+**Totals: 49 texts · 775 chapters · 43,287 shlokas · 9 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,7 +24,7 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 49 | 775 | 43,263 |
+| **On-schema** — a real `chapters[]` array | 49 | 775 | 43,287 |
 | Off-schema — the 3 Dharmashastra texts, 14 files, scored `1` chapter each by the one-liner | +14 | +14 | — |
 | **The one-liner above** | **63** | **789** | — |
 
@@ -72,9 +72,9 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `brihat_samhita` | [`Samhita/BrihatSamhita`](../Samhita/BrihatSamhita) | 106 | 2,771 | 100% | — |
-| `atharvaveda_samhita` | [`Samhita/atharvaveda/ShaunakaSamhita`](../Samhita/atharvaveda/ShaunakaSamhita) | 20 | 6,088 | 0% | range |
+| `atharvaveda_samhita` | [`Samhita/atharvaveda/ShaunakaSamhita`](../Samhita/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 0% | range |
 | `taittiriya_samhita` | [`Samhita/krishna-yajurveda/TaittiriyaSamhita`](../Samhita/krishna-yajurveda/TaittiriyaSamhita) | 7 | 2,294 | 0% | unit_mismatch |
-| `rigveda_samhita` | [`Samhita/rigveda/ShakalaSamhita`](../Samhita/rigveda/ShakalaSamhita) | 10 | 10,449 | 0% | range |
+| `rigveda_samhita` | [`Samhita/rigveda/ShakalaSamhita`](../Samhita/rigveda/ShakalaSamhita) | 10 | 10,470 | 0% | range |
 | `samaveda_samhita` | [`Samhita/samaveda/KauthumaSamhita`](../Samhita/samaveda/KauthumaSamhita) | 1 | 1,866 | 0% | range |
 | `shukla_yajurveda_samhita` | [`Samhita/shukla-yajurveda/VajasaneyiMadhyandinaSamhita`](../Samhita/shukla-yajurveda/VajasaneyiMadhyandinaSamhita) | 40 | 1,965 | 0% | range |
 

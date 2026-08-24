@@ -324,3 +324,57 @@ Each label repeats **exactly 2 or exactly 4 times** (153 labels ×2, 497 ×4) be
 source runs each kāṇḍa through more than once. So the label alone is not unique and gets a
 positional suffix, and verses are ordered by **citation rather than file position** — file
 order runs 1.1.1 … 8.22.1 and then back to 1.1.2.
+
+
+## The second witness earns its keep — 2026-08-24
+
+The 2026-08-23 decision kept the Wikisource copies of the Rigveda and Atharvaveda
+alongside the ODbL primary, on the argument that "two witnesses is the point, not
+redundancy." This is what the second witness found. **Three requests, three findings, two
+of them fixes the primary source could never have produced on its own.**
+
+### RV 8.66 was not missing — it was MISLABELLED as 8.67
+
+The primary source has 102 sūktas in maṇḍala 8, running 1..103 with 66 absent, which reads
+as one dropped sūkta. It is not. Its record labelled `sukta: 67` opens
+`१५ कलि: प्रागाथ: … १५ अनुष्टुप्` and `तरोभिर्वो विदद्वसुमिन्द्रं` — and Wikisource's
+**8.66** carries byline `कलिः प्रागाथः`, note `१५ अनुष्टुप्`, and the same opening verse.
+So the record was 8.66 wearing 8.67's number, and **the real 8.67 (21 verses, `मत्स्यः
+साम्मदः`, devatā Ādityāḥ) was absent entirely.**
+
+Fixed: the 15 verses were relabelled 66, and 8.67's 21 verses supplied from Wikisource
+(oldid 299570). Maṇḍala 8 is now 103 sūktas with no gaps, 1,706 verses; the Rigveda is
+**10,470**.
+
+**Why a count check alone would never have caught this.** 102 present, max 103, exactly one
+missing — contiguity flags a gap and stops. Every downstream number was self-consistent.
+Only a witness carrying *bylines* could show that a present record was the wrong sūkta, and
+that is an argument for keeping metadata, not only verse text.
+
+### AV 20.3 was header-only, and Wikisource had exactly what the header promised
+
+The primary carries `१-३ इरिम्बिठिः । इन्द्रः।` and **no verse text** — 26 characters, zero
+markers. Wikisource supplied precisely the 3 verses that header declares (oldid 323600).
+Exactly two of kāṇḍa 20's 143 records are header-only this way: 3 and 13.
+
+### AV 20.13 stays BLOCKED, and the witness is why
+
+`013` pages are unreliable in this text. Wikisource's `काण्डं २०/सूक्तम् ०१३` holds 7 real
+verses opening `उदु ब्रह्माण्यैरत श्रवस्येन्द्रं` — which is **20.12 verse 1**. It is an
+orphaned duplicate of 20.012, not the missing sūkta. Ingesting it would have put sūkta 12's
+text under 13 and produced a corpus that passed every count check while being wrong.
+
+`sanskrit_common.py`'s `REDIRECT` comment already recorded this shape for **kāṇḍa 8 sūktam
+013** and said it "holds real wikitext and still needs a manual pass". Both instances are
+`013`. Treat any `013` page in this text as suspect until compared with its neighbour.
+
+So 20.13 is absent from both witnesses and is declared in `structure.known_gaps` with the
+reason, rather than filled from the nearest plausible text. It needs a third witness —
+Whitney/Griffith, or a printed Śaunaka edition.
+
+### Licence consequence, stated rather than buried
+
+24 verses in two otherwise-ODbL files are **CC BY-SA 4.0**. Both licences are share-alike,
+but they are not the same licence, and the mix is now declared per-file in
+`structure.secondary_sources` with the oldid of each page. **This needs a licensing call
+before redistribution** — see `LICENSES.md`.

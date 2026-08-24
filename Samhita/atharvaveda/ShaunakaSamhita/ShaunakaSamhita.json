@@ -13,11 +13,27 @@
     "shloka_number_format": "level2.verse",
     "citation_prefix": "atharvaveda_samhita",
     "expected_chapters": 20,
-    "expected_verses": 6088,
+    "expected_verses": 6091,
     "count_authority": "range",
     "count_authority_reason": "within published range 5977-6121",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "20.13"
+    ],
+    "known_gaps_reason": "AV 20.13 is absent from BOTH witnesses and cannot currently be supplied. The primary source (DharmicData, ODbL) carries the record header-only -- it declares '(1-4) 1 vamadevah, 2 gotamah, 3 kutsah, 4 vishvamitrah' and no verse text. Sanskrit Wikisource's page for it is an ORPHANED DUPLICATE of 20.012: its 7 verses open 'udu brahmanyairata sravasy...', which is 20.12 verse 1. Filling 20.13 from it would insert sukta 12's text under 13. Needs a third witness (Whitney/Griffith or a printed Shaunaka edition).",
+    "secondary_sources": [
+      {
+        "scope": "20.3 (3 verses supplied)",
+        "source": "Sanskrit Wikisource",
+        "license": "CC BY-SA 4.0",
+        "oldid": {
+          "20.3": "323600"
+        },
+        "reason": "The primary source carries 20.3 header-only: it declares '1-3 irimbithih. indrah.' and no verse text. Wikisource supplies exactly the 3 verses that header promises.",
+        "license_note": "This file is otherwise ODbL; 3 verses are CC BY-SA 4.0. Both are share-alike; the mix is DECLARED rather than silently merged and needs a licensing call before redistribution. See docs/LICENSES.md.",
+        "hazard": "Wikisource '013' pages are unreliable in this text: kanda 20 sukta 013 duplicates 012, and the same was already recorded for kanda 8 sukta 013. Verify any 013 page against its neighbour before ingesting."
+      }
+    ]
   },
   "chapters": [
     {
@@ -41110,6 +41126,30 @@
           "number": "2.4",
           "ref": "atharvaveda_samhita 20.2.4",
           "text": "देवो द्रविणोदाः पोत्रात् सुष्टुभः स्वर्कादृतुना सोमं पिबतु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.1",
+          "ref": "atharvaveda_samhita 20.3.1",
+          "text": "आ याहि सुषुमा हि त इन्द्र सोमं पिबा इमम् । एदं बर्हिः सदो मम",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.2",
+          "ref": "atharvaveda_samhita 20.3.2",
+          "text": "आ त्वा ब्रह्मयुजा हरी वहतामिन्द्र केशिना । उप ब्रह्माणि नः शृणु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.3",
+          "ref": "atharvaveda_samhita 20.3.3",
+          "text": "ब्रह्माणस्त्वा वयं युजा सोमपामिन्द्र सोमिनः । सुतावन्तो हवामहे",
           "english": "",
           "hindi": "",
           "status": "untranslated"
