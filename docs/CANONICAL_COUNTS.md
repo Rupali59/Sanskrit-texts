@@ -697,3 +697,37 @@ They are **editorial apparatus, not the mūla as printed**. They are kept unedit
 because stripping is trivial and reversible while un-stripping is not, and because removing
 46,227 characters from a text is an edit that should be a decision rather than a side
 effect. **Open: strip on ingest, or keep as SARIT's compound analysis.**
+
+
+## Caraka and Suśruta land from SARIT — and the first parse was half a text (2026-08-24)
+
+| Text | Sthānas | Adhyāyas | Units |
+|---|---|---|---:|
+| Carakasaṃhitā | **8 / 8** | **120 / 120** | 9,131 |
+| Suśrutasaṃhitā | **6 / 6** | **186 / 186** | 8,298 |
+| Aṣṭāṅgahṛdaya | 6 / 6 | 120 / 120 | 7,443 |
+
+All three: zero duplicate keys, zero residual IAST, structure taken from the TEI rather
+than inferred.
+
+**The first parse looked fine and was less than half the text.** Reading only `<l>` gave
+Caraka 119 of 120 adhyāyas and Suśruta **79 of 186** — counts that were internally
+consistent, validated cleanly, and dropped most of the work. Measured properly: only **46%**
+of Caraka's text and **22%** of Suśruta's sits in `<l>`. They are mixed verse-and-prose
+śāstra; the prose lives in `<p>` (Caraka, 2,474 blocks) and `<ab>` (Suśruta, 6,822), and it
+carries its citation at the END — `… // Su.1.1.18` — where verse carries it at the start.
+
+**Aṣṭāṅgahṛdaya was unaffected and that is why it was worth checking rather than assuming.**
+Only 7,194 characters sit outside its `<l>` elements, and they are the TEI header, chapter
+headings and page breaks. It is verse throughout.
+
+**A second defect the counts also could not see: XML entities were never decoded.**
+`&#x2020;` — a critical-apparatus dagger — survived tag-stripping, and the transliterator
+then rendered its *digits* in Devanagari, producing `&#x२०२०;` **1,413 times** in Suśruta.
+Decoding entities before transliteration fixes it; the 1,413 daggers are now the character
+they always were.
+
+**Two pieces of editorial apparatus are preserved and flagged, not silently removed:**
+Suśruta's 1,413 daggers, and Aṣṭāṅgahṛdaya's 46,227 compound hyphens. Both are the
+editions' apparatus rather than the mūla as printed. Stripping either is trivial and
+reversible; un-stripping is not.

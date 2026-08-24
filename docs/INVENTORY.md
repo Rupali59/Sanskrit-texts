@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 52 texts · 887 chapters · 59,083 shlokas · 11 categories** — on-schema only.
+**Totals: 54 texts · 901 chapters · 76,512 shlokas · 11 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,9 +24,9 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 52 | 887 | 59,083 |
+| **On-schema** — a real `chapters[]` array | 54 | 901 | 76,512 |
 | Off-schema — the 3 Dharmashastra texts, 14 files, scored `1` chapter each by the one-liner | +14 | +14 | — |
-| **The one-liner above** | **66** | **901** | — |
+| **The one-liner above** | **68** | **915** | — |
 
 The off-schema three (`manu_smriti`, `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
@@ -151,6 +151,8 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,443 | 0% | uncitable |
+| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,131 | 0% | uncitable |
+| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,298 | 0% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 0% | uncitable |
 | `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
 | `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
