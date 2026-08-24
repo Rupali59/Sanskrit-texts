@@ -731,3 +731,78 @@ they always were.
 Suśruta's 1,413 daggers, and Aṣṭāṅgahṛdaya's 46,227 compound hyphens. Both are the
 editions' apparatus rather than the mūla as printed. Stripping either is trivial and
 reversible; un-stripping is not.
+
+## Manusmṛti from SARIT — 11 of 12 chapters exact, and a citation form that hid 801 verses (2026-08-24)
+
+**Tier `range`: 2,680–2,700. Parsed 2,684 across 12 adhyāyas, zero duplicate keys.**
+
+`manu_smriti` was the last of the three off-schema Dharmaśāstra texts. It was not repaired —
+it was replaced, from SARIT's `manusmrti.xml` (CC BY-SA 3.0, with a Kyoto Joint Seminar
+copyright attribution). The 12 legacy `MS_*.json` files were deleted in the same change.
+
+### Verified before acquiring, not after
+
+- **12 `<div type="chapter">`** in the TEI, matching the canonical 12 adhyāyas.
+- **Mūla-only.** 391 of 394 commentary hits (Medhātithi, Kullūka) sit inside `<note>`
+  variant-reading apparatus; stripping notes leaves 3. This is the check G18 exists to
+  force — Wikisource's Caraka failed exactly here.
+- **Licence** is SARIT's CC BY-SA 3.0.
+
+### Per-chapter agreement with Bühler
+
+| adhyāya | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| parsed | 119 | 249 | 286 | 260 | 169 | 97 | 226 | 420 | 336 | 131 | **265** | 126 |
+| Bühler | 119 | 249 | 286 | 260 | 169 | 97 | 226 | 420 | 336 | 131 | **266** | 126 |
+
+**Eleven of twelve are exact.** Adhyāya 11 is contiguous 1–265 with no gap, no duplicate,
+and no merged verse — its verses carry the same pāda shape as adhyāya 10, which matches
+canon exactly.
+
+**Stated as a limit rather than resolved** (`GOTCHAS.md` G12): this rules out a dropped
+verse leaving a hole and a mislabelled number producing one. It does **not** distinguish
+"this edition numbers 265" from "one verse is absent and everything after was renumbered."
+Contiguity cannot see the second. Settling it needs a verse-by-verse comparison against
+Bühler that has not been done — which is why the tier is `range` and not `firm`.
+
+### The defect: 1,602 lines that parsed cleanly into the wrong verses
+
+First parse gave **1,887 verses against 2,688 `<lg>` in the same file.** Cause:
+SARIT's Manusmṛti writes a cross-reference to a second edition's numbering immediately
+after the citation with no separating space —
+
+```
+3.67a[57Ma] vaivāhike 'gnau kurvīta gṛhyaṃ karma yathāvidhi |
+[M7.87Ma] deśa.kālavidhānena dravyaṃ śraddhāsamanvitam |      ← 8 lines: bracket is the ONLY citation
+```
+
+— and `SARIT_CITE` required whitespace directly after the citation. 1,602 of 5,376 lines
+failed to match and fell through to the `order[-1]` continuation branch, which appended each
+as tail text to the preceding verse. `1,594/2 + 8/2 = 801`, and `1,887 + 801 = 2,688`: the
+gap is exactly those lines.
+
+**Nothing errored, nothing was lost, and every verse was well-formed.** The chapter count
+was already correct at 12 of 12. Only the verse total against the file's own `<lg>` count
+could see it. Recorded as **G23**, whose trigger fires on the three call-site forms.
+
+The fix consumes the bracket *inside* the citation match, so no separate stripping pass is
+needed and brackets that are genuinely text are untouched. It is `sarit_cite()`, which
+handles all four observed forms and returns `(citation, index where text begins)`.
+
+### Regression, because the same regex serves four texts
+
+Widening it left Caraka at **9,256**, Suśruta at **8,295** and Aṣṭāṅgahṛdaya at **7,443** —
+byte-identical to their pre-change values — and all 36 other converting targets unchanged.
+`nirvana_upanishad` still blocks at 0, which is its deliberate exclusion (prose aphorisms,
+no verse numbering), identical before and after.
+
+### What it settled about the re-digitisation plan
+
+Two sessions were spent characterising *how* Manusmṛti's numbering was damaged, including a
+careful 2026-08-23 correction about which citation component cycled. All of it was accurate;
+none of it was used. **Look for a clean source before characterising damaged data.** SARIT
+was already surveyed in `SOURCES.md` and already held this text while the plan to repair it
+by hand was being written.
+
+That route is **not** available for the two remaining Āpastamba texts: SARIT's 85 XML files
+contain no Āpastamba (checked 2026-08-24). For those, the source hunt has to run first.

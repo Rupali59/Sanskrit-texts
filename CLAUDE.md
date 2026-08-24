@@ -40,9 +40,10 @@ has gone to Youvan.
 transcriptions (`.md`), raw OCR (`.txt`), scans (`.pdf`). This repo is the translation
 layer: `.json` + `README.md` and nothing else. `.gitignore` enforces it.
 
-**3 texts do not yet follow the one-file rule** —
-`Dharmashastra/{ManuSmriti,ApastambaDharmaSutra,ApastambaParibhashaSutra}/chapters/`, still
-on the `sutras[]` shape. See `docs/DECISIONS.md` 2026-08-18.
+**2 texts do not yet follow the one-file rule** —
+`Dharmashastra/{ApastambaDharmaSutra,ApastambaParibhashaSutra}/chapters/`, still on the
+`sutras[]` shape. See `docs/DECISIONS.md` 2026-08-18. **`ManuSmriti` left this set
+2026-08-24** — re-acquired whole from SARIT rather than repaired.
 
 **13 text directories are undigitised** — a `README.md` and nothing else, so
 `docs/INVENTORY.md` cannot see them by construction (it defines a text as a dir holding
@@ -120,7 +121,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 shloka counts, translation state and count-authority tier, in one table. This section holds only
 what a manifest cannot: the caveats that make a number mean less than it looks like.
 
-**54 texts on the normalized schema · 901 chapters · 76,512 shlokas.** Derive it, never restate it:
+**55 texts on the normalized schema · 913 chapters · 79,318 shlokas.** Derive it, never restate it:
 
 ```
 python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
@@ -181,25 +182,27 @@ print(t)"
 
 ### Off-schema — needs RE-DIGITISATION, not renumbering
 
-`manu_smriti` (12 files), `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 14 files,
-4,737 records over 1,520 distinct keys. Checked against the canonical structures 2026-08-18
-(Manusmriti = 12 adhyāyas / ~2,684 verses; Apastamba = Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1`
-is a *correct citation*). **The data cannot be mapped onto either**: `MS_001` holds ~87
-fragmentary cycles; Apastamba has 219 bare-integer records and 15 literal `X.X.21`
-placeholders — the digitiser recording "prefix unknown".
-**Not a renumbering job — needs re-digitisation.** Detail and sources: `docs/DECISIONS.md`.
-Full scope, ordered steps and open questions:
-`docs/plans/2026-08-22-dharmashastra-redigitisation.md`.
+`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 2 files. **`manu_smriti` is no
+longer in this set**: its 12 off-schema files were deleted 2026-08-24 and replaced by a
+single on-schema `ManuSmriti.json` acquired from SARIT (12 adhyāyas, 2,684 verses, 11 of 12
+chapters matching Bühler exactly). Re-acquisition was cheaper than repair, and that is the
+route the re-digitisation plan should take for Apastamba too.
 
-**Two corrections, 2026-08-23** — re-measured, not restated:
+Checked against the canonical structure 2026-08-18: Apastamba is
+Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1` is a *correct citation*. **The data cannot be mapped
+onto it** — 219 bare-integer records and 15 literal `X.X.21` placeholders, the digitiser
+recording "prefix unknown". **`apastamba_paribhasha_sutra` is equally broken, not a minor
+sibling:** every integer 1–53 is reused as `number` 2–15 times, plus 7 empty-string records.
+**Not a renumbering job.** Detail and sources: `docs/DECISIONS.md`. Full scope, ordered
+steps and open questions: `docs/plans/2026-08-22-dharmashastra-redigitisation.md`.
 
-- This said *"Manusmriti's leading component runs 1–33"*. It does not. The leading
-  component is invariantly `1` (1514 of 1514 dotted records in `MS_001`); what cycles
-  1→~34 and restarts is the **second** component, which reaches 315. The conclusion
-  (unrecoverable fragmentation) stands — only the description of the damage was wrong,
-  and it would have misled whoever executes the repair.
-- **`apastamba_paribhasha_sutra` is equally broken, not a minor sibling.** Every integer
-  1–53 is reused as `number` 2–15 times, plus 7 empty-string records.
+**What Manusmriti settled, 2026-08-24.** Two sessions were spent characterising *how* its
+numbering was damaged — including a 2026-08-23 correction establishing that the second
+citation component, not the first, was the one that cycled. All of it was accurate and none
+of it mattered: the text was re-acquired from SARIT in one pass and the analysis was thrown
+away. **Diagnosing damaged data competes with replacing it, and replacing it usually wins.**
+Check whether a clean source exists *before* characterising the damage — that is the lesson
+Apastamba should inherit, and the plan doc now leads with it.
 
 Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`,
 `SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only genuine stubs.

@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 54 texts · 901 chapters · 76,512 shlokas · 11 categories** — on-schema only.
+**Totals: 55 texts · 913 chapters · 79,318 shlokas · 12 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,15 +24,16 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 54 | 901 | 76,512 |
-| Off-schema — the 3 Dharmashastra texts, 14 files, scored `1` chapter each by the one-liner | +14 | +14 | — |
-| **The one-liner above** | **68** | **915** | — |
+| **On-schema** — a real `chapters[]` array | 55 | 913 | 79,318 |
+| Off-schema — the 2 Apastamba texts, scored `1` chapter each by the one-liner | +2 | +2 | — |
+| **The one-liner above** | **57** | **915** | — |
 
-The off-schema three (`manu_smriti`, `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
+The off-schema two (`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
 [`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
-Counting them as 14 "chapters" flatters the corpus; the on-schema row is the honest figure
-for anything about coverage.
+Counting them as 2 "chapters" flatters the corpus; the on-schema row is the honest figure
+for anything about coverage. **`manu_smriti` left this set on 2026-08-24** — re-acquired
+whole from SARIT rather than repaired, which is what the re-digitisation plan called for.
 
 ### Two relocations, 2026-08-24
 
@@ -151,8 +152,8 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,443 | 0% | uncitable |
-| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,131 | 0% | uncitable |
-| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,298 | 0% | uncitable |
+| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,256 | 0% | uncitable |
+| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,295 | 0% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 0% | uncitable |
 | `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
 | `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
@@ -162,16 +163,33 @@ architecture are not one category, the way `parashari` and `nadi` are not one.
 Gāndharvaveda is Youvan's. Āyurveda and Sthāpatyaveda are sourced but not yet converted —
 see [`SOURCES.md`](./SOURCES.md) §"Vedāṅga / Upaveda".
 
-## Dharmashastra — Dharmaśāstra — ritual law / calendar — OFF-SCHEMA
+## Dharmashastra — Dharmaśāstra — ritual law / calendar
 
-14 files on the superseded `sutras[]` shape, holding 4,737 records over 1,520 distinct keys.
+| text_id | Directory | Chapters | Shlokas | Translated | Count authority |
+|---|---|---:|---:|---:|---|
+| `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,684 | 0% | range |
+
+Eleven of the twelve adhyāyas match Bühler's per-chapter counts **exactly**; adhyāya 11 is
+265 against his 266. It is contiguous 1–265, no gap, no duplicate, and no merged verse —
+every verse in it carries the same pāda shape as adhyāya 10, which matches canon exactly.
+
+**What that does and does not establish** (`GOTCHAS.md` G12). It rules out a dropped verse
+leaving a hole, and a mislabelled number producing one. It does **not** distinguish "this
+edition numbers 265" from "one verse is absent and everything after it was renumbered" —
+contiguity cannot see the second, and settling it needs SARIT's text compared against
+Bühler's verse by verse, which has not been done. Tier is `range` (2,680–2,700) rather than
+`firm` for exactly that reason.
+
+## Dharmashastra — OFF-SCHEMA remainder
+
+2 files on the superseded `sutras[]` shape.
 **They have no `chapters[]` array, so they are absent from every table above and do not ingest.**
-Not a renumbering job — the data cannot be mapped onto either canonical structure. See
+Not a renumbering job — the data cannot be mapped onto the canonical
+Praśna→Paṭala→Khaṇḍa→sūtra structure. See
 [`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
 
 | text_id | Directory | Files |
 |---|---|---:|
-| `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 |
 | `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 1 |
 | `apastamba_paribhasha_sutra` | [`Dharmashastra/ApastambaParibhashaSutra`](../Dharmashastra/ApastambaParibhashaSutra) | 1 |
 

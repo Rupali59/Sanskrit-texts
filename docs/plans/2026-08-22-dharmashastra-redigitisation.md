@@ -1,7 +1,29 @@
 # Dharmashastra re-digitisation — scope and plan
 
-Status: proposed, not started. Written 2026-08-22 as Lane D of a 4-lane parallel
-session; analysis-only, no corpus files touched by this plan's author.
+Status: **partly closed 2026-08-24.** `manu_smriti` is done — and not by this plan.
+Written 2026-08-22 as Lane D of a 4-lane parallel session; analysis-only, no corpus files
+touched by this plan's author.
+
+> ## Read this before executing any of the below
+>
+> **`manu_smriti` was not repaired. It was replaced.** On 2026-08-24 it was re-acquired
+> whole from SARIT's `manusmrti.xml` (CC BY-SA 3.0) — 12 adhyāyas, 2,684 verses, on-schema,
+> zero duplicate keys, 11 of 12 chapters matching Bühler's per-chapter counts exactly. The
+> 12 off-schema `MS_*.json` files were deleted in the same change. It took one pass.
+>
+> Everything this document says about *how* Manusmriti's numbering is damaged is accurate
+> and is now worthless. Two sessions went into characterising the damage, including a
+> careful 2026-08-23 correction about which citation component cycles. None of it was used.
+>
+> **The lesson, and the first step for the two remaining texts: look for a clean source
+> before characterising the damage.** A published critical edition in a machine-readable
+> corpus is worth more than any amount of forensic work on a bad digitisation. SARIT was
+> already surveyed in `SOURCES.md` and already held Manusmriti while this plan was being
+> written to repair it by hand.
+>
+> **What remains in scope:** `apastamba_dharma_sutra` and `apastamba_paribhasha_sutra`
+> only. SARIT has **no** Āpastamba text — checked 2026-08-24 — so for those two the source
+> hunt genuinely has to run before the repair analysis below is worth resuming.
 
 ## Diagnosis
 
