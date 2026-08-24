@@ -16,19 +16,42 @@ set -uo pipefail
 # a coupling is information, not a defect, and blocking teaches people to use --no-verify.
 # Bypass: PROPAGATE_SKIP=1 git commit ...
 #
-# The CLI path is derived, not hardcoded to one location (G48): PROPAGATE_CLI can
-# override it; otherwise it falls back to the default skill path, then to a `propagate`
-# binary on PATH. If none resolves, this prints exactly one line and does NOT block the
-# commit -- a missing gate must never be silent (the prior version was `[ -f ... ] && ...`,
-# which skipped with zero output when the CLI moved).
+# The CLI path is DERIVED, and as of 2026-08-22 it actually is. This comment used to
+# claim derivation while the line below hardcoded $HOME/.claude/skills/propagate/cli.mjs
+# -- which the plugin cutover deleted, so the gate had been printing SKIPPED on every
+# commit since. Fourth referrer of that one deleted directory found in a day (propagate
+# docs/ISSUES.md N43 covers the two launchd agents; rules/_check.mjs was the third).
+#
+# Describing a hazard is not implementing the guard against it. The line that mattered
+# was the fallback, not the sentence above it.
+#
+# Order: PROPAGATE_CLI, the plugin root when running inside it, the repo checkout, the
+# version-globbed plugin cache (never pin a version here -- that reintroduces exactly
+# this bug on the next release), the legacy path, then a `propagate` binary on PATH.
+# If none resolves this prints ONE line naming every path tried and does NOT block:
+# a missing gate must never be silent, and must never be fatal either.
 if [ -z "${PROPAGATE_SKIP:-}" ]; then
-  PROPAGATE_CLI="${PROPAGATE_CLI:-$HOME/.claude/skills/propagate/cli.mjs}"
-  if [ -f "$PROPAGATE_CLI" ]; then
-    node "$PROPAGATE_CLI" check --staged || true
+  _pg_tried=""
+  _pg_cli=""
+  for _pg_c in \
+    "${PROPAGATE_CLI:-}" \
+    "${CLAUDE_PLUGIN_ROOT:+$CLAUDE_PLUGIN_ROOT/cli.mjs}" \
+    "$HOME/Documents/GitHub/propagate/cli.mjs" \
+    "$HOME"/.claude/plugins/cache/tathya/propagate/*/cli.mjs \
+    "$HOME/.claude/skills/propagate/cli.mjs"
+  do
+    [ -n "$_pg_c" ] || continue
+    _pg_tried="$_pg_tried $_pg_c"
+    if [ -f "$_pg_c" ]; then _pg_cli="$_pg_c"; break; fi
+  done
+
+  if [ -n "$_pg_cli" ]; then
+    node "$_pg_cli" check --staged || true
   elif command -v propagate >/dev/null 2>&1; then
     propagate check --staged || true
   else
-    echo "pre-commit: propagate gate SKIPPED -- cli.mjs not found at $PROPAGATE_CLI (set PROPAGATE_CLI or reinstall the skill)" >&2
+    echo "pre-commit: propagate gate SKIPPED -- no cli.mjs at any of:$_pg_tried" >&2
+    echo "pre-commit:   set PROPAGATE_CLI, or install the propagate plugin" >&2
   fi
 fi
 # --- end propagate ---
