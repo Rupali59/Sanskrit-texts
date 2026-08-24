@@ -95,6 +95,70 @@ Splits into **कृष्ण** (Krishna/Black) and **शुक्ल** (Shukla/
 
 ---
 
+## The other two axes — Vedāṅga and Upaveda
+
+**The four layers are not the only division, and conflating them is the mistake this section
+exists to stop.** Three axes, orthogonal:
+
+| Axis | What it is | Relation to a Veda |
+|---|---|---|
+| **Layer** (4) | Saṃhitā · Brāhmaṇa · Āraṇyaka · Upaniṣad | *strata within* each Veda |
+| **Vedāṅga** (6) | Śikṣā · Kalpa · Vyākaraṇa · Nirukta · Chandas · Jyotiṣa | *limbs attached to* the Vedas, serving all four |
+| **Upaveda** (4) | Āyurveda · Dhanurveda · Gāndharvaveda · Sthāpatyaveda | *applied* knowledge, one traditionally per Veda |
+
+**Puruṣārtha — dharma, artha, kāma, mokṣa — is on none of these axes.** It is the four aims
+of human life, from Dharmaśāstra and Vedānta. It is not a textual division of anything and
+must not become a directory. Recorded because it was proposed as one, 2026-08-24.
+
+### Vedāṅga — ownership and what is held
+
+| Vedāṅga | Subject | Owner | Held |
+|---|---|---|---|
+| Śikṣā | phonetics, recitation | **Youvan** | — |
+| Kalpa | ritual procedure | **Youvan** | moved there 2026-08-24 (`asvalayana_grhya_sutra`, 394 verses) |
+| Vyākaraṇa | grammar (Aṣṭādhyāyī) | Vipin | — · **sūtra shape, blocked** |
+| Nirukta | etymology | Vipin | — |
+| Chandas | metre (Piṅgala) | Vipin | — · **sūtra shape, blocked** |
+| **Jyotiṣa** | ritual timing | Vipin | **held** — `Vedanga-Jyotisha/`, Ārca 36 + Yājuṣa 45 |
+
+**This corrects a claim that stood here until 2026-08-24:** that Vedāṅga Jyotiṣa was *"the
+one genuine overlap already in this repo."* It was not the only one — `Kalpa/` was a Vedāṅga
+too, sitting as an unrelated top-level directory with nothing recording that they share an
+axis. Two of six were held and the file said one.
+
+### Upaveda — ownership
+
+| Upaveda | Subject | Owner |
+|---|---|---|
+| Āyurveda | medicine | Vipin |
+| Dhanurveda | archery, warfare | Vipin |
+| **Gāndharvaveda** | music, dance (Sāmavedic chant, Nāṭyaśāstra) | **Youvan** — ritual performance |
+| Sthāpatyaveda | architecture, Vāstuśāstra | Vipin |
+
+**Sthāpatyaveda is not blocked by the Vāstu refusal.** Vāstu was refused *as a service* on
+2026-07-15 ("a ritual isn't a repair"). That is about selling a consultation; holding the
+canonical text is a different act, exactly as holding Dharmaśāstra is not offering ritual
+law. Stated here so it is not re-litigated by the next person who greps for "vastu".
+
+**Nothing on either axis is acquired yet beyond Jyotiṣa.** Acquisition splits by **text
+shape, not by axis**: the converter finds numbered verse terminators, and Vyākaraṇa, Chandas
+and Kalpa are *sūtra* — the same shape as the 14 off-schema Dharmaśāstra files. See
+`plans/2026-08-22-dharmashastra-redigitisation.md`; solve it once there.
+
+## The Rigveda's own divisions — two parallel schemes
+
+A Rigvedic citation exists in **two** numbering systems, and they do not convert to one
+another by arithmetic:
+
+| Scheme | Levels | Used by |
+|---|---|---|
+| **Maṇḍala** | maṇḍala (10) → anuvāka → sūkta → ṛc | **our data** — `chapters[]` are the 10 maṇḍalas |
+| Aṣṭaka | aṣṭaka (8) → adhyāya (64) → varga → ṛc | recitational; common in older printed editions |
+
+Only the maṇḍala scheme is implemented. Adding aṣṭaka means dual keys on 10,470 verses, so
+it is documented and deliberately not built. **A citation from a printed edition may be in
+aṣṭaka form** — check before assuming a lookup failure is a missing verse.
+
 ## Counts
 
 | | Saṃhitā | Brāhmaṇa | Āraṇyaka | Upaniṣad | Total |
@@ -142,7 +206,7 @@ The Sāmaveda and Atharvaveda recensions of it are **lost**, with no extant manu
 
 ## Sourcing
 
-None of these are held. Freely available for all of them:
+**Do not restate what is held here** — `docs/INVENTORY.md` is the registry and the derivation command is in `CLAUDE.md`. This line read *"None of these are held"* until 2026-08-24; it was measured on 2026-08-23 and falsified the next day, the third stale count in this one file. Sources, freely available for all of them:
 
 - **GRETIL** — gretil.sub.uni-goettingen.de (machine-readable, best transcription quality)
 - **sanskritdocuments.org** — this ecosystem's existing proofreading source of truth

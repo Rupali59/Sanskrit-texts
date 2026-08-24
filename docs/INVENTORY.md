@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 49 texts · 775 chapters · 43,287 shlokas · 9 categories** — on-schema only.
+**Totals: 48 texts · 774 chapters · 42,893 shlokas · 8 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,15 +24,28 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 49 | 775 | 43,287 |
+| **On-schema** — a real `chapters[]` array | 48 | 774 | 42,893 |
 | Off-schema — the 3 Dharmashastra texts, 14 files, scored `1` chapter each by the one-liner | +14 | +14 | — |
-| **The one-liner above** | **63** | **789** | — |
+| **The one-liner above** | **62** | **788** | — |
 
 The off-schema three (`manu_smriti`, `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
 [`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
 Counting them as 14 "chapters" flatters the corpus; the on-schema row is the honest figure
 for anything about coverage.
+
+### Two relocations, 2026-08-24
+
+**`Veda/` was split out of `Samhita/`.** They were two unrelated senses of one word:
+`Samhita/` is the **Jyotiṣa skandha** — Horā / Siddhānta / Saṃhitā, and the first two are
+already its top-level peers — while the five Vedic Saṃhitās are the Vedas' mantra layer.
+Varāhamihira's Bṛhat Saṃhitā stays in `Samhita/`; the Vedic ones moved to `Veda/<veda>/`.
+The sources tree mirrors the move, and `targets.tsv`'s `layer` column moved with it.
+
+**`Kalpa/` left for Youvan.** Kalpa is one of the six Vedāṅgas — ritual procedure — and went
+to Youvan under the ritual-adjacent split. `asvalayana_grhya_sutra`, 394 verses, now at
+`Tushar/Youvan/texts/Kalpa/Grhyasutra/Asvalayana/`, committed there **before** the removal
+here.
 
 ### Count authority
 
@@ -67,16 +80,15 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `uttara_kalamrita` | [`Hora/Parashari/UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | 9 | 324 | 100% | — |
 | `varahamihir_daivagnavallabh` | [`Hora/Parashari/VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | 15 | 248 | 100% | — |
 
-## Samhita — Saṃhitā — the Vedic saṃhitās, and mundane omens
+## Veda — the four Vedic Saṃhitās (mantra layer)
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `brihat_samhita` | [`Samhita/BrihatSamhita`](../Samhita/BrihatSamhita) | 106 | 2,771 | 100% | — |
-| `atharvaveda_samhita` | [`Samhita/atharvaveda/ShaunakaSamhita`](../Samhita/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 0% | range |
-| `taittiriya_samhita` | [`Samhita/krishna-yajurveda/TaittiriyaSamhita`](../Samhita/krishna-yajurveda/TaittiriyaSamhita) | 7 | 2,294 | 0% | unit_mismatch |
-| `rigveda_samhita` | [`Samhita/rigveda/ShakalaSamhita`](../Samhita/rigveda/ShakalaSamhita) | 10 | 10,470 | 0% | range |
-| `samaveda_samhita` | [`Samhita/samaveda/KauthumaSamhita`](../Samhita/samaveda/KauthumaSamhita) | 1 | 1,866 | 0% | range |
-| `shukla_yajurveda_samhita` | [`Samhita/shukla-yajurveda/VajasaneyiMadhyandinaSamhita`](../Samhita/shukla-yajurveda/VajasaneyiMadhyandinaSamhita) | 40 | 1,965 | 0% | range |
+| `atharvaveda_samhita` | [`Veda/atharvaveda/ShaunakaSamhita`](../Veda/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 0% | range |
+| `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 2,294 | 0% | unit_mismatch |
+| `rigveda_samhita` | [`Veda/rigveda/ShakalaSamhita`](../Veda/rigveda/ShakalaSamhita) | 10 | 10,470 | 0% | range |
+| `samaveda_samhita` | [`Veda/samaveda/KauthumaSamhita`](../Veda/samaveda/KauthumaSamhita) | 1 | 1,866 | 0% | range |
+| `shukla_yajurveda_samhita` | [`Veda/shukla-yajurveda/VajasaneyiMadhyandinaSamhita`](../Veda/shukla-yajurveda/VajasaneyiMadhyandinaSamhita) | 40 | 1,965 | 0% | range |
 
 ## Upanishad — Upaniṣad — the mukhya and minor Upaniṣads
 
@@ -115,6 +127,12 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 166 | 100% | — |
 | `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 14 | 272 | 100% | — |
 
+## Samhita — Saṃhitā — the Jyotiṣa skandha (mundane / omens)
+
+| text_id | Directory | Chapters | Shlokas | Translated | Count authority |
+|---|---|---:|---:|---:|---|
+| `brihat_samhita` | [`Samhita/BrihatSamhita`](../Samhita/BrihatSamhita) | 106 | 2,771 | 100% | — |
+
 ## Muhurta — Muhūrta — electional timing
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
@@ -127,12 +145,6 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 |---|---|---:|---:|---:|---|
 | `arch_jyotisham` | [`Vedanga-Jyotisha/Rigveda/Aarchjyotisham`](../Vedanga-Jyotisha/Rigveda/Aarchjyotisham) | 1 | 36 | 100% | — |
 | `yajusha_jyotisham` | [`Vedanga-Jyotisha/Yajurveda/Yajushajyotisham`](../Vedanga-Jyotisha/Yajurveda/Yajushajyotisham) | 1 | 45 | 100% | — |
-
-## Kalpa — Kalpa — ritual sūtra (gṛhya)
-
-| text_id | Directory | Chapters | Shlokas | Translated | Count authority |
-|---|---|---:|---:|---:|---|
-| `asvalayana_grhya_sutra` | [`Kalpa/Grhyasutra/Asvalayana`](../Kalpa/Grhyasutra/Asvalayana) | 1 | 394 | 100% | — |
 
 ## Dharmashastra — Dharmaśāstra — ritual law / calendar — OFF-SCHEMA
 

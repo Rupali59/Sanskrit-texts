@@ -8,7 +8,7 @@ Parent context: `~/Documents/GitHub/Vipin Kaushik/CLAUDE.md`
 
 An open-source corpus of classical Sanskrit texts, digitized for computational access by AstroAcharya. **Not a code project** — this is a data repository. Source of truth for proofreading: [sanskritdocuments.org/sanskrit/jyotisha](https://sanskritdocuments.org/sanskrit/jyotisha/) (see `REFERENCES.md`).
 
-**Scope: Jyotiṣa, plus everything that is not Tantra, Mantra, Brāhmaṇa or Āraṇyaka** (narrowed 2026-08-23, narrowed again 2026-08-24 — see `../CLAUDE.md` §"Content / texts ownership"). This line read "a corpus of classical Sanskrit **Jyotisha** texts", which was already narrower than the contents — `Dharmashastra/` and `Kalpa/` are not Jyotish — and became more so when Philosophy moved here from Youvan. The Vedic corpus **Saṃhitā and Upaniṣad layers** belong here; **Brāhmaṇa and Āraṇyaka went to Youvan 2026-08-24** (ritual prose — nothing moved on disk, none were held). The line is by LAYER: seven held Upaniṣads are textually chapters of a Brāhmaṇa or Āraṇyaka and stay here — see `../CLAUDE.md` §"Content / texts ownership". `docs/VEDIC_CORPUS.md` maps all 51 texts; **29 are held** as of 2026-08-24 — all 13 mukhya Upaniṣads plus 11 minor, and the primary Saṃhitā of every Veda. Brāhmaṇa and Āraṇyaka are Youvan's, not a backlog here. Tantra and Mantra go to `Tushar/Youvan`.
+**Scope: Jyotiṣa, plus everything that is not Tantra, Mantra, Brāhmaṇa, Āraṇyaka, Śikṣā or Kalpa** (narrowed 2026-08-23, narrowed again 2026-08-24 — see `../CLAUDE.md` §"Content / texts ownership"). This line read "a corpus of classical Sanskrit **Jyotisha** texts", which was already narrower than the contents — `Dharmashastra/` and `Kalpa/` are not Jyotish — and became more so when Philosophy moved here from Youvan. The Vedic corpus **Saṃhitā and Upaniṣad layers** belong here; **Brāhmaṇa and Āraṇyaka went to Youvan 2026-08-24** (ritual prose — nothing moved on disk, none were held). The line is by LAYER: seven held Upaniṣads are textually chapters of a Brāhmaṇa or Āraṇyaka and stay here — see `../CLAUDE.md` §"Content / texts ownership". `docs/VEDIC_CORPUS.md` maps all 51 texts; **29 are held** as of 2026-08-24 — all 13 mukhya Upaniṣads plus 11 minor, and the primary Saṃhitā of every Veda. Brāhmaṇa and Āraṇyaka are Youvan's, not a backlog here. Tantra and Mantra go to `Tushar/Youvan`.
 
 AstroAcharya seeds this data into MongoDB and queries it via a `/texts` API. The `@source(("bphs", chapter, [shlokas]))` decorator in AstroAcharya references `text_id` values from this corpus.
 
@@ -21,11 +21,20 @@ AstroAcharya seeds this data into MongoDB and queries it via a `/texts` API. The
     <Text>.json          the text — every chapter, every shloka
     README.md            per-text metadata (optional)
 
-Hora/{Parashari,Nadi,Prashna,Jaimini}/   Siddhanta/   Samhita/
-Vedanga-Jyotisha/{Rigveda,Yajurveda}/    Dharmashastra/   Kalpa/Grhyasutra/   Muhurta/
+Veda/{rigveda,samaveda,atharvaveda,krishna-yajurveda,shukla-yajurveda}/   Upanishad/<veda>/
+Hora/{Parashari,Nadi,Prashna,Jaimini}/   Siddhanta/   Samhita/   Muhurta/
+Vedanga-Jyotisha/{Rigveda,Yajurveda}/    Dharmashastra/
 
 docs/   INVENTORY.md (the manifest) · DECISIONS.md · BPHS_Master_Lexicon.md · …
 ```
+
+**The top level carries TWO classification systems, and one word collides across them.**
+`Hora/` · `Siddhanta/` · `Samhita/` · `Muhurta/` are the **Jyotiṣa** scheme (Horā, Gaṇita,
+Saṃhitā, Muhūrta). `Veda/` · `Upanishad/` are the **Vedic layer** scheme. Until 2026-08-24
+the five Vedic Saṃhitās sat inside `Samhita/` beside Varāhamihira's Bṛhat Saṃhitā — the same
+spelling, two unrelated meanings. `Veda/` split them apart. `Vedanga-Jyotisha/` belongs to a
+**third** axis, the six Vedāṅgas, and is the only one of them still here now that `Kalpa/`
+has gone to Youvan.
 
 **Sources live in `../sanskrit-texts-sources/`**, mirroring the same tree — Devanagari
 transcriptions (`.md`), raw OCR (`.txt`), scans (`.pdf`). This repo is the translation
@@ -86,7 +95,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 **Field notes:**
 - `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
-- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"` | `"kalpa"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24). It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `prashna` and `jaimini` trees exist but hold only placeholders, so no file declares them yet.
+- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24); `kalpa` left with Kalpa/ on 2026-08-24. It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `prashna` and `jaimini` trees exist but hold only placeholders, so no file declares them yet.
 - `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither)
 - `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter (stored in files `MS_063अ.json` / `MS_063ब.json`)
 - Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script
@@ -99,7 +108,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 shloka counts, translation state and count-authority tier, in one table. This section holds only
 what a manifest cannot: the caveats that make a number mean less than it looks like.
 
-**49 texts on the normalized schema · 775 chapters · 43,287 shlokas.** Derive it, never restate it:
+**48 texts on the normalized schema · 774 chapters · 42,893 shlokas.** Derive it, never restate it:
 
 ```
 python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
