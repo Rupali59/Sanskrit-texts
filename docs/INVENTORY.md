@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 49 texts · 775 chapters · 43,120 shlokas · 9 categories** — on-schema only.
+**Totals: 50 texts · 845 chapters · 48,289 shlokas · 10 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,9 +24,9 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 49 | 775 | 43,120 |
+| **On-schema** — a real `chapters[]` array | 50 | 845 | 48,289 |
 | Off-schema — the 3 Dharmashastra texts, 14 files, scored `1` chapter each by the one-liner | +14 | +14 | — |
-| **The one-liner above** | **63** | **789** | — |
+| **The one-liner above** | **64** | **859** | — |
 
 The off-schema three (`manu_smriti`, `apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
@@ -151,6 +151,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 0% | uncitable |
+| `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
 
 Category is **per-Upaveda** (`upaveda_dhanurveda`), not a flat `upaveda`: medicine and
 architecture are not one category, the way `parashari` and `nadi` are not one.

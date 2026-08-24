@@ -526,3 +526,38 @@ An edition with explicit adhyāya headings, or per-verse citations of the kind C
 carries (`।। चसं-१,१.१ ।।`) and Śārīrasthāna's dotted `॥५.१.१॥`. Inferring the hierarchy from
 verse numbers alone is what destroyed the Dharmaśāstra data, and G7 is the rule against
 repeating it.
+
+
+## The source stated its own structure all along (2026-08-24)
+
+**Mānasāra and Mayamata carry explicit adhyāya headings, and I nearly deleted them.**
+
+The first pass removed `==` headings as page furniture, because `strip_code` keeps their
+words and the page title was leaking into verse 1. Removing them also destroyed the only
+reliable statement of where chapters begin — and the number-inferred boundaries that
+replaced them were subtly wrong: Mānasāra chapters 7, 11, 15 and 40 came out starting at
+**verse 2**, their verse 1 absorbed into the chapter before.
+
+| Text | Headings | Result |
+|---|---:|---|
+| **Mānasāra** | **71**, named (`वास्तुप्रकरणम्`, `विमानलक्षणम्`) | 70 carry verses — the 71st, `सन्दर्भः`, is a reference list. **70 chapters = canonical 70, 5,169 verses, 0 duplicates** |
+| **Mayamata** | 5 or 6 per page, numbered (`अथ द्वितीयोऽध्यायः`) | matches the page's declared adhyāya range on **6 of 7** pages; the 7th's extra is `अथ कत्नपारम्भः`, an appendix. **36 chapters = canonical 36** |
+| Caraka | 5 in Sūtrasthāna for 30 adhyāyas, 1 in Vimāna, 0 elsewhere | too sparse to help; blocked on the commentary problem regardless |
+
+**This is the third time in one session that inferring structure from verse numbers was the
+wrong instrument while the source stated it plainly.** The others were Caraka (`।। चसं-१,१.१ ।।`
+mūla citations, ignored in favour of counting commentary markers) and Taittirīya (the marker
+*is* the citation).
+
+### Mayamata: structure solved, blocked on transcription quality
+
+With headings, its 36 chapters are right and **22 of them are clean**. What blocks is the
+source: **69 duplicate verse numbers across 14 chapters**, 37 of them in chapter 25 alone.
+`seed_texts.py` drops duplicate keys silently (G8), so ingesting would lose 69 verses
+invisibly.
+
+Three are uniquely-determined typos — chapter 7's verse 42 is transcribed `1`, sitting
+between 41 and 43, so its correct value is pinned by its neighbours. The remaining 66 need
+checking against a printed edition. **That is the whole remaining task: 69 verses, each at a
+known position** — not 21 chapters of boundary work, which is what it looked like before the
+headings were used.
