@@ -628,3 +628,40 @@ before inferring.**
 
 Only 4,296 of 8,338 verses parse today, so ingesting now would leave Sūtrasthāna absent.
 The next pass should trust colophons over page titles.
+
+
+## Mayamata lands — and 68 of its 69 "duplicates" were my parser (2026-08-24)
+
+**36 chapters = canonical 36, 3,351 verses, zero duplicate keys.**
+
+The earlier record here said Mayamata needed *"69 verses checked against a printed
+edition"*. That was wrong, and the correction came from a parallel review that was asked to
+report a disagreement rather than resolve it.
+
+**The `bare` grammar was eating a hyphen.** The source writes 68 of its markers as
+sub-numbers — `41-2<br>`, `42-1<br>` — and the pattern's leading `[^\d०-९]` matched the
+hyphen, so the capture took only the digits *after* it. `42-1` parsed as `1`, `41-2` as `2`,
+and the prefix was left inside the verse body. That manufactured 68 of the 69 duplicates.
+
+**It also invented a transcription typo that never existed.** This document previously
+recorded *"chapter 7's verse 42 is transcribed `1`"*. The raw marker is `42-1`. The 42 was
+never lost; the parser dropped it.
+
+Independent confirmation: `grep -ohE '[0-9०-९] *- *[0-9०-९]'` finds **68** hyphenated markers
+across the 7 pages, distributed 1 / 40 / 12 / 15 — and **zero** on the three pages that
+already parsed clean. Widening the capture changes the marker count on **zero** pages, so
+the verse segmentation is untouched and only the key differs.
+
+**The sub-numbers are real, not noise.** For 31 of the 68, the plain `41` *also* exists in
+the same chapter — the source is saying "verse 41, part 2". Stripping the suffix would
+collide them and lose a verse silently (G8), so the whole marker is kept as a string key,
+exactly as `MinarajaYavanajataka`'s `"24अ"` and `Jatakaparijatah`'s `"N 1/2"` already are.
+
+**Chapter 25's 37 duplicates had one cause, not 37.** Two contiguous runs of `N-2` markers
+(16 and 21), each coinciding with a metre change from two-line anuṣṭubh to long four-line
+stanzas. The transcriber suffixed `-2` through a metre-shifted passage.
+
+**One genuine defect remained**, and only one: adhyāya 21 runs `1..9, 20, 11..19, 20` with
+`10` absent. Neighbours pin it. It is fixed through `SOURCE_CORRECTIONS` in `convert.py` —
+a version-controlled table with the reason, **not** an edit to the gitignored source file,
+which would be unreviewable and reverted by `--refetch`.
