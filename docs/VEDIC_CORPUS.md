@@ -6,8 +6,32 @@ Each Veda branches into four layers: **संहिता** (mantra), **ब्�
 **आरण्यक** (forest texts), **उपनिषद्** (philosophy). The names below are śākhā
 (recension) and text names as the tree gives them.
 
-**Status column:** `—` means not held anywhere in this ecosystem. Verified 2026-08-23 by
-filename search across `~/Documents/GitHub`: **zero** of these texts exist on disk.
+**Status column:** `—` means not held. **Superseded 2026-08-24** — this read "**zero** of
+these texts exist on disk", which was true for about one day. Derive what is held, never
+restate it; `docs/INVENTORY.md` is the registry, and the command is in `CLAUDE.md`.
+
+### What is held, as of 2026-08-24
+
+| Layer | Held | Of | Note |
+|---|---:|---:|---|
+| **संहिता** | **5** | 13 | The **primary recension of every Veda**, plus both Yajurveda branches: Śākala (RV), Taittirīya (KYV), Mādhyandina (ŚYV), Kauthuma (SV), Śaunaka (AV) |
+| **उपनिषद्** | **24** | 17+ | **All 13 mukhya**, plus 11 minor |
+| **ब्राह्मण** | 0 | 16 | Out of scope, deliberately |
+| **आरण्यक** | 0 | 5 | Out of scope, deliberately |
+
+**The eight Saṃhitās not held are alternate śākhās, not missing Vedas:** Bāṣkala (RV) ·
+Maitrāyaṇī, Kāṭhaka, Kapiṣṭhala (KYV) · Kāṇva (ŚYV) · Rāṇāyanīya, Jaiminīya (SV) ·
+Paippalāda (AV). Several survive only in fragments or single manuscripts; Kapiṣṭhala in
+particular is not fully extant. Do not read "5 of 13" as 38% of the Saṃhitā layer — the
+mantra text of all four Vedas is present.
+
+**Brāhmaṇa and Āraṇyaka are excluded by decision, not by omission.** They are ritual prose
+with four nesting levels, and the converter is built for numbered verse. Taking them on is
+a separate scope with its own parser, not a next wave of the same work.
+
+**Two known gaps inside what is held**, both declared in the data rather than papered over:
+RV 1.65 (two interleaved numbering systems — a scholarly call) and AV 20.13 (absent from
+both witnesses; see `CANONICAL_COUNTS.md`). Everything else is contiguous.
 
 ---
 
