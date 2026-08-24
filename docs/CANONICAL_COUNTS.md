@@ -593,3 +593,38 @@ Canonically that is Sūtra 46 · Nidāna 16 · Śārīra 10 · Cikitsā 40 · Ka
 one (Uttaratantra 1–20 parses 21; Cikitsā 35–40 parses 5 for 6), and three near-empty stub
 pages carry ranges that **overlap** real pages — `चिकित्सास्थानम्/अध्याय २१-४०` at 49
 characters against the real 21–25, 26–30, 31–35 and 35–40.
+
+
+### Suśruta, second pass: the depth problem is fixed (3,522 errors → 6)
+
+A **per-text sthāna map** replaced the per-page decision. Every page is now normalised to
+`sthāna.adhyāya.verse` regardless of whether its title names a whole sthāna
+(`सुश्रुतसंहिता/कल्पस्थानम्`) or an adhyāya range (`उत्तरतन्त्रम्/अध्याय ०१-२०`). Caraka and
+Suśruta each get their own order — they do not share one; Caraka has Vimāna/Indriya/Siddhi
+where Suśruta has Uttaratantra.
+
+**Two things remain, and one of them is not our bug.**
+
+**The page titles are sometimes wrong.** `चिकित्सास्थानम्/अध्याय ३५-४०` carries the text's own
+colophons for adhyāyas **36..40**, and the preceding page ends
+`इति सुश्रुतसंहितायां चिकित्सास्थाने … पञ्चत्रिंशोऽध्यायः ३५`. So that page is really 36–40 —
+5 adhyāyas, exactly what the parse found — and the declared-range bound was rejecting a
+**correct** parse on the strength of a mislabelled Wikisource title. Three other pages fail
+the bound and need the same check.
+
+**And 6 duplicate verse keys remain** (e.g. Śārīra 8.8), the same class as Mayamata's 69.
+
+### The fourth instance: colophons
+
+Suśruta carries **101 explicit `इति सुश्रुतसंहितायां … ऽध्यायः N` colophons**, naming each
+adhyāya in words *and* digits. They are incomplete — none at all in Uttaratantra — so they
+cannot be the sole structure source, but **where present they are authoritative**, and they
+are what proved the `३५-४०` mislabel.
+
+That makes four texts in one session where the source stated its structure and inference was
+the wrong instrument: Caraka's `।। चसं-१,१.१ ।।` mūla citations, Taittirīya's marker-as-citation,
+Mānasāra and Mayamata's headings, and now Suśruta's colophons. **Look for the statement
+before inferring.**
+
+Only 4,296 of 8,338 verses parse today, so ingesting now would leave Sūtrasthāna absent.
+The next pass should trust colophons over page titles.
