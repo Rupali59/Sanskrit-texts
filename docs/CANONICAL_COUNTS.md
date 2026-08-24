@@ -923,3 +923,38 @@ merge. Measured in the **committed** file:
 Splitting them raises Caraka 9,256 → **9,525** with zero duplicates and keys `1.1`–`1.4`,
 `2.1`–`2.4` — but lands on the identical depth-3 rejection. **Caraka is in the corpus today
 with two adhyāyas' pādas merged**, and that is not fixable without the schema answer.
+
+
+## Per-text caveats (moved out of `CLAUDE.md`, 2026-08-24)
+
+These lived inline in `sanskrit-texts/CLAUDE.md` and took that file 58 lines over its
+180-line cap. A project `CLAUDE.md` is pointers and hard rules; per-text detail is this file.
+
+**`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a 97-chapter
+work). 4 mis-split chapters repaired, 5 shlokas recovered; ingests **3937 of 3937**.
+Translation backlog closed 2026-08-22 — the last 5 (`12.11`, `53.20`, `61.55`, `66.43`,
+`66.65`) are single-pāda fragments, a shape that occurs 13 other times in the text. **Ch 25
+shloka 16 is absent from the digitisation and was not invented**; ch 60's parenthesised
+duplicate is `"12अ"`, a variant reading.
+
+**`muhurta_chintamani` — translation complete, numbering still wrong.** All 206 shlokas are
+`"translated"` since 2026-08-22. Chapter-1 numbers still run 11–32, 1–7, 37–44: distinct, so
+they ingest, but the sequence is wrong. `MC_REMAINING_RAW.json` does **not** resolve it —
+checked 2026-08-22, it covers pages 53–480 with zero textual overlap with chapter 1. Fixing
+it needs the chapter-1 pages of `muhurt_chintamani_002342_hr6.pdf` read against a canonical
+edition.
+
+**Not defects — do not "fix" them into breakage:** `MinarajaYavanajataka` numbers variant
+chapters `"24अ"` / `"63अ"` / `"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
+
+**The 71 dedupe losses, in full.** Was **2,800**: `brihat_samhita` was 2,729 of it and is now
+**0**, its two files consolidated 2026-08-18. They were never two recensions — 2,574 of 2,711
+shared keys differed only in **sandhi** (`प्रसूतिः विश्वात्मा` vs `प्रसूतिर्विश्वात्मा`), one
+text digitised twice. Ingestion unchanged at 2,771. The remaining 71 are intra-chapter and
+pre-date the converter's duplicate rejection.
+
+**Āpastamba, checked against the canonical structure 2026-08-18.** It is
+Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1` is a *correct citation*; the data cannot be mapped
+onto it — 219 bare-integer records and 15 literal `X.X.21` placeholders, the digitiser
+recording "prefix unknown". **`apastamba_paribhasha_sutra` is equally broken, not a minor
+sibling:** every integer 1–53 is reused as `number` 2–15 times, plus 7 empty-string records.

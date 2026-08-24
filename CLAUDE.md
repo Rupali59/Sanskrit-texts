@@ -40,31 +40,16 @@ has gone to Youvan.
 transcriptions (`.md`), raw OCR (`.txt`), scans (`.pdf`). This repo is the translation
 layer: `.json` + `README.md` and nothing else. `.gitignore` enforces it.
 
-**2 texts do not yet follow the one-file rule** —
-`Dharmashastra/{ApastambaDharmaSutra,ApastambaParibhashaSutra}/chapters/`, still on the
-`sutras[]` shape. See `docs/DECISIONS.md` 2026-08-18. **`ManuSmriti` left this set
-2026-08-24** — re-acquired whole from SARIT rather than repaired.
+**2 texts do not yet follow the one-file rule** — the two Āpastamba dirs, still on the
+`sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24.
 
-**13 text directories are undigitised** — a `README.md` and nothing else, so
-`docs/INVENTORY.md` cannot see them by construction (it defines a text as a dir holding
-JSON): `JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`, `SarvarthaChintamani`,
-`PrashnaMarga`, `BrahmasphutaSiddhanta`, `SiddhantaShiromani`, `GargaSamhita`,
-`Atharvaveda`, `Samaveda`, `Dharmasindhu`, `NirnayaSindhu`, `MuhurtaMartanda`.
+**13 text directories are undigitised** — a `README.md` and nothing else, so INVENTORY
+cannot see them by construction (it defines a text as a dir holding JSON). They are listed
+in [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised"; do not restate them here.
 
-**Neither remaining "source waiting" is what it looked like — corrected 2026-08-23.**
-This said `GargaSamhita` and `MuhurtaMartanda` already have sources ready. Both claims
-died on inspection:
-
-- **`GargaSamhita`'s `3003.txt` is the wrong Garga Samhita.** Its colophon reads
-  `अश्वमेधखण्डे ... अध्याय ५९` — the devotional Vaishnava Purana, not the Jyotish work.
-  Digitised, then **relocated to `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`**
-  (127 shlokas) under the Jyotisha/Youvan ownership split. This directory has **no source
-  waiting**; the Jyotish text still needs sourcing.
-- **`MuhurtaMartanda`'s PDF has no text layer.** 154 pages of `tiff2pdf`-wrapped CCITT
-  bitmaps; `pdftotext` returns 154 bytes — one form-feed per page, zero characters. It is
-  a scan, and additionally a *commentary edition* (mula + Sanskrit ṭīkā + Hindi
-  bhāṣā-ṭīkā interleaved), so even clean OCR would not yield mula shlokas without
-  separating three text layers. See `../propagation/state/sanskrit-texts/GOTCHAS.md`.
+**Neither `GargaSamhita` nor `MuhurtaMartanda` has a usable source waiting**, despite older
+notes saying so — both claims died on inspection 2026-08-23. Detail:
+[`docs/SOURCES.md`](./docs/SOURCES.md) §"Two sources that were not what they looked like".
 
 ## Uniform JSON schema
 
@@ -117,57 +102,28 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 ## text_id registry
 
-**`docs/INVENTORY.md` is the registry.** It carries every text's `text_id`, path, chapter and
-shloka counts, translation state and count-authority tier, in one table. This section holds only
-what a manifest cannot: the caveats that make a number mean less than it looks like.
+**`docs/INVENTORY.md` is the registry** — every text's `text_id`, path, chapter and shloka
+counts, translation state and count-authority tier, in one table. **Per-text caveats are in
+[`docs/CANONICAL_COUNTS.md`](./docs/CANONICAL_COUNTS.md)** §"Per-text caveats"; they were
+inline here until 2026-08-24 and took this file 58 lines over its cap.
 
-**57 texts on the normalized schema · 927 chapters · 91,782 shlokas.** Derive it, never restate it:
+**Derive the totals, never restate them:**
 
 ```
 python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
 ```
 
-**Until 2026-08-24 this section duplicated INVENTORY's table** — 20 rows against that file's 23,
-each maintained by hand, neither aware of the other. The Vedic corpus would have made it 49 rows
-in two places. A second copy of a manifest is not a summary, it is a second thing to be wrong.
-
-The Jyotiṣa texts are **100% translated**; the 29 Vedic texts added 2026-08-23/24 land
-**untranslated**, which is why the corpus total is no longer a single percentage. Per-text state
-is in INVENTORY.
-
-**`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a
-97-chapter work). 4 mis-split chapters repaired, 5 shlokas recovered; ingests **3937 of
-3937**. **Translation backlog closed 2026-08-22** — the last 5 (`12.11`, `53.20`, `61.55`,
-`66.43`, `66.65`) are now translated; all are single-pada fragments, a shape that occurs
-13 other times in this text. Separately, **ch 25 shloka 16 is absent from the digitisation**
-and was not invented, and ch 60's parenthesised duplicate is now `"12अ"` (a variant reading).
-
-**`muhurta_chintamani` — translation complete, numbering still wrong.** `MC_001`'s
-Hindi gap closed 2026-08-22 (all 206 shlokas now `"translated"`). Its chapter-1 numbers
-still run 11–32, 1–7, 37–44: distinct, so they ingest, but the sequence is wrong.
-`MC_REMAINING_RAW.json` in the sources repo does **not** resolve it — checked 2026-08-22,
-it covers pages 53–480 with zero textual overlap with chapter 1. Fixing it needs the
-chapter-1 pages of `muhurt_chintamani_002342_hr6.pdf` read against a canonical edition.
-
-Not defects, and handled — do not "fix" them into breakage: `MinarajaYavanajataka` numbers
-variant chapters `"24अ"`/`"63अ"`/`"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
+The Jyotiṣa texts are **100% translated**; the Vedic and Upaveda texts land **untranslated**,
+which is why the corpus total is no longer a single percentage. Per-text state is in INVENTORY.
 
 ### ⚠ 71 shlokas never reach AstroAcharya
 
-`seed_texts.py:92-94` dedupes by `(chapter, shloka)`, later file wins — INVENTORY's Shlokas
-column counts what is *present*, not what is ingestible. Was **2,800**; `brihat_samhita` was 2,729 of
-it and is now **0**, its two files consolidated 2026-08-18. They were never two recensions:
-2,574 of 2,711 shared keys differed only in **sandhi** (`प्रसूतिः विश्वात्मा` vs
-`प्रसूतिर्विश्वात्मा`) — one text digitised twice. Ingestion unchanged at 2,771.
-
-Remaining, all intra-chapter and pre-existing: `jataka_parijata` 55, `laghu_jatakam` 14,
-`minaraja_yavana_jataka` 1, `yajusha_jyotisham` 1.
-
-**Re-measured 2026-08-24 across all 49 texts: still exactly 71.** The 29 Vedic texts added
-**zero** duplicate keys, which is a property of the converter rather than luck — it rejects a
-text with a duplicate `(chapter, number)` instead of writing it, so a collision surfaces as a
-blocked conversion rather than as a shloka that quietly never ingests. The four texts above
-pre-date it. Re-run the count with:
+`seed_texts.py:92-94` dedupes by `(chapter, shloka)`, later file wins — so INVENTORY's Shlokas
+column counts what is *present*, not what is **ingestible**. All 71 are intra-chapter and
+pre-existing: `jataka_parijata` 55, `laghu_jatakam` 14, `minaraja_yavana_jataka` 1,
+`yajusha_jyotisham` 1. **The converter cannot add to it** — it rejects a text with a duplicate
+`(chapter, number)` rather than writing it, so a collision blocks the conversion instead of
+quietly never ingesting. Re-derive:
 
 ```
 python3 -c "import json,glob,collections;t=0
@@ -182,27 +138,12 @@ print(t)"
 
 ### Off-schema — needs RE-DIGITISATION, not renumbering
 
-`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 2 files. **`manu_smriti` is no
-longer in this set**: its 12 off-schema files were deleted 2026-08-24 and replaced by a
-single on-schema `ManuSmriti.json` acquired from SARIT (12 adhyāyas, 2,684 verses, 11 of 12
-chapters matching Bühler exactly). Re-acquisition was cheaper than repair, and that is the
-route the re-digitisation plan should take for Apastamba too.
-
-Checked against the canonical structure 2026-08-18: Apastamba is
-Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1` is a *correct citation*. **The data cannot be mapped
-onto it** — 219 bare-integer records and 15 literal `X.X.21` placeholders, the digitiser
-recording "prefix unknown". **`apastamba_paribhasha_sutra` is equally broken, not a minor
-sibling:** every integer 1–53 is reused as `number` 2–15 times, plus 7 empty-string records.
-**Not a renumbering job.** Detail and sources: `docs/DECISIONS.md`. Full scope, ordered
-steps and open questions: `docs/plans/2026-08-22-dharmashastra-redigitisation.md`.
-
-**What Manusmriti settled, 2026-08-24.** Two sessions were spent characterising *how* its
-numbering was damaged — including a 2026-08-23 correction establishing that the second
-citation component, not the first, was the one that cycled. All of it was accurate and none
-of it mattered: the text was re-acquired from SARIT in one pass and the analysis was thrown
-away. **Diagnosing damaged data competes with replacing it, and replacing it usually wins.**
-Check whether a clean source exists *before* characterising the damage — that is the lesson
-Apastamba should inherit, and the plan doc now leads with it.
+`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 2 files on the superseded `sutras[]`
+shape, with no `chapters[]` array, so they are absent from every count above and do not ingest.
+**Check for a clean source before characterising damaged data**: Manusmṛti's damage analysis
+cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
+SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
+[`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
 
 Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`,
 `SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only genuine stubs.

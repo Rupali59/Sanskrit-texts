@@ -252,3 +252,23 @@ page as `887×~1310 rgb jpeg` with no text object.
 **SARIT's Aṣṭāṅgahṛdaya is strictly better on every axis** — machine-readable, 96% of lines
 carrying an explicit `Ah.1.1.005` citation, and CC BY-SA 3.0. Its only deficit is script,
 and that is a lossless mapping rather than an OCR gamble.
+
+
+## Two sources that were not what they looked like (corrected 2026-08-23)
+
+Moved out of `CLAUDE.md` 2026-08-24, where it was 14 lines of per-source research in a file
+whose job is pointers and hard rules.
+
+`CLAUDE.md` said `GargaSamhita` and `MuhurtaMartanda` already had sources ready. Both claims
+died on inspection.
+
+- **`GargaSamhita`'s `3003.txt` is the wrong Garga Saṃhitā.** Its colophon reads
+  `अश्वमेधखण्डे ... अध्याय ५९` — the devotional Vaiṣṇava Purāṇa, not the Jyotiṣa work.
+  Digitised, then **relocated to `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`**
+  (127 shlokas) under the Jyotiṣa/Youvan ownership split. That directory has **no source
+  waiting**; the Jyotiṣa text still needs sourcing.
+- **`MuhurtaMartanda`'s PDF has no text layer.** 154 pages of `tiff2pdf`-wrapped CCITT
+  bitmaps; `pdftotext` returns 154 bytes — one form-feed per page, zero characters. It is a
+  scan, and additionally a *commentary edition* (mūla + Sanskrit ṭīkā + Hindi bhāṣā-ṭīkā
+  interleaved), so even clean OCR would not yield mūla shlokas without separating three text
+  layers. See `propagation/state/sanskrit-texts/GOTCHAS.md`.
