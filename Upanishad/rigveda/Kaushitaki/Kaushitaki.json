@@ -16,7 +16,9 @@
     "count_authority": "range",
     "count_authority_reason": "within published range 50-51",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "3.2"
+    ]
   },
   "chapters": [
     {

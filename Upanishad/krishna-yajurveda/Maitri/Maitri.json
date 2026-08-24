@@ -16,7 +16,12 @@
     "count_authority": "uncitable",
     "count_authority_reason": "manuscripts vary considerably",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "6.1",
+      "6.2",
+      "6.3",
+      "6.4"
+    ]
   },
   "chapters": [
     {

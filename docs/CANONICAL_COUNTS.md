@@ -288,5 +288,39 @@ converting to ten verses.
 | Rigveda Śākala | 10,450 | converted; 1.65 blocked, ~90 short of the cited 10,552 |
 | Atharvaveda Śaunaka | 6,088 | converted; 8 units renumbered positionally |
 | Śukla YV Vājasaneyi | 1,965 | converted; 2 units renumbered positionally |
-| **Sāmaveda Kauthuma** | 1,876 | **BLOCKED**: 1,867 distinct over max 1,874, with 9 duplicated values and **7 real gaps** (114, 466, 585, 640, 650, 1179, 1211). Renumbering would paper over the gaps |
-| **Taittirīya Saṃhitā** | 2,296 | **BLOCKED**: markers are anuvāka-level, not verses, and 2 of 2,296 have depth 2 where the rest have 3 |
+| Sāmaveda Kauthuma | 1,866 | converted, with 8 gaps recorded in `structure.known_gaps` |
+| Taittirīya Saṃhitā | 2,294 | converted; kāṇḍa is the chapter, anuvāka labels get a positional suffix |
+
+### Sāmaveda: a source with real holes, and a regex bug that hid them
+
+Two separate problems, only one of them ours.
+
+**Ours: `trailing` matched a PREFIX of a longer number.** `॥ ११४ ॥` matched as `११` —
+the greedy numeral run took `११४`, the "not followed by a daṇḍa" lookahead failed, and the
+engine backtracked to `११`, where the next character is `४` and the lookahead passes. That
+silently invented markers. Fixed with `(?![०-९])`, which forbids backtracking into the
+numeral. It applied wherever `trailing` is used, including 27 Rigveda sūktas.
+
+**Also ours: ārcika positional indices read as markers.** The Sāmaveda interleaves
+`॥ ४ ९ ३ ०९०३e` positional references. Since `trailing` numbering is a single running
+count, a marker that goes backwards cannot be one; dropping non-increasing values removed
+exactly 4 (`११८०, ११८१, १२१, ४`) and left zero duplicate keys.
+
+**Not ours: the source is incomplete.** After both fixes it carries **1,866 verses,
+running to 1,874 with gaps at 114, 466, 585, 640, 650, 1179, 1180, 1211 and no 1875** —
+nine short of the canonical total. Those are absent from the source. They are enumerated
+in `structure.known_gaps` so the corpus states the hole instead of hiding it, and the
+tier moved from `firm 1875` to `range 1866–1875` to record the fact rather than to make a
+number pass.
+
+### Taittirīya: the marker IS the citation
+
+`॥ १। १। ६॥` is kāṇḍa.prapāṭhaka.anuvāka. Treating the first component as the chapter
+recovers **650 anuvākas, matching the researched per-kāṇḍa counts EXACTLY in 6 of 7
+kāṇḍas** (kāṇḍa 1 gives 145 against 146, accounted for by two markers that lost a
+component and read `१.२`).
+
+Each label repeats **exactly 2 or exactly 4 times** (153 labels ×2, 497 ×4) because the
+source runs each kāṇḍa through more than once. So the label alone is not unique and gets a
+positional suffix, and verses are ordered by **citation rather than file position** — file
+order runs 1.1.1 … 8.22.1 and then back to 1.1.2.

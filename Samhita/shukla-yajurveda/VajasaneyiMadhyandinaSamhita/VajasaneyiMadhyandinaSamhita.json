@@ -16,7 +16,17 @@
     "count_authority": "range",
     "count_authority_reason": "within published range 1951-1975",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "14.10",
+      "15.10",
+      "15.50",
+      "18.41",
+      "20.10",
+      "21.33",
+      "24.14",
+      "24.16",
+      "33.58"
+    ]
   },
   "chapters": [
     {

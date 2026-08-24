@@ -16,7 +16,9 @@
     "count_authority": "unit_mismatch",
     "count_authority_reason": "16 khandas cited; no mantra total exists",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "1.1"
+    ]
   },
   "chapters": [
     {

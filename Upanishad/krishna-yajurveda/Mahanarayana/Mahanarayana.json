@@ -16,7 +16,11 @@
     "count_authority": "uncitable",
     "count_authority_reason": "recensions give 64/80/84/25 CHAPTERS, never a mantra total",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [
+      "2.10",
+      "2.11",
+      "2.9"
+    ]
   },
   "chapters": [
     {
