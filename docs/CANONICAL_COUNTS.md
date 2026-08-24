@@ -665,3 +665,35 @@ stanzas. The transcriber suffixed `-2` through a metre-shifted passage.
 `10` absent. Neighbours pin it. It is fixed through `SOURCE_CORRECTIONS` in `convert.py` —
 a version-controlled table with the reason, **not** an edit to the gitignored source file,
 which would be unreviewable and reverted by `--refetch`.
+
+
+## Aṣṭāṅgahṛdaya from SARIT — the first source that stated everything (2026-08-24)
+
+**6 sthānas · 7,443 verses · 0 duplicate keys · 798,682 Devanagari characters · 0 residual
+IAST.**
+
+SARIT's TEI carries `<div type="part">` × **6** and `<div type="chapter">` × **120**,
+distributed **30 · 6 · 16 · 22 · 6 · 40** — precisely the canonical Sūtra/Śārīra/Nidāna/
+Cikitsā/Kalpasiddhi/Uttara division. **Nothing was inferred.** Every other Upaveda text in
+this corpus had to have its structure guessed from verse numbers, and the guessing is what
+blocked Caraka, Mayamata and Suśruta in turn.
+
+Each `<l>` also carries its own citation — `Ah.1.1.001a` is sthāna.adhyāya.verse.pāda — so
+the `a` and `c` pādas of one verse rejoin into one verse rather than becoming two.
+
+**Transliteration.** IAST → Devanagari, verified by round-tripping SARIT's own text before
+trusting it: Caraka 17,086/17,090 and Suśruta 6,188/6,191 return byte-identical, and every
+failure is a citation label or a stray capital in the source. The `ṁ` → `ṃ` normalisation is
+required, not cosmetic.
+
+### One thing preserved deliberately, and flagged
+
+**46,227 hyphens across 98% of verses.** SARIT marks compound boundaries in IAST
+(`rāgādi-rogān`) and they transliterate through as `रागादि-रोगान्`. Devanagari orthography
+does not use them, and no other text in this corpus does at this rate — the next highest is
+`minaraja_yavana_jataka` with 411 in total.
+
+They are **editorial apparatus, not the mūla as printed**. They are kept unedited for now
+because stripping is trivial and reversible while un-stripping is not, and because removing
+46,227 characters from a text is an edit that should be a decision rather than a side
+effect. **Open: strip on ingest, or keep as SARIT's compound analysis.**
