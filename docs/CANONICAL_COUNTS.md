@@ -438,3 +438,55 @@ is the point; `uncitable` and `firm` are different claims.
 marker — 217 of them, artefacts of the source edition's line numbering. `MARKER` matches
 Devanagari numerals here, so they do not interfere, but a parser widened to ASCII digits
 would ingest them as verse numbers.
+
+
+## Caraka Saṃhitā — BLOCKED, and the count was the least of it (2026-08-24)
+
+Wikisource's Caraka parses cleanly to **3,560 verses** and is **not ingestible**. The count
+check said nothing: contiguity held, the grammars detected, the validator passed.
+
+### What is actually in those pages
+
+| Sthāna | Commentary markers | Structured citations | Adhyāyas covered | Canonical |
+|---|---:|---:|---:|---:|
+| Sūtra | **125** | 399 (`।। चसं-N,M.K ।।`) | 5 | 30 |
+| Nidāna | 0 | 14 | 1 | 8 |
+| Vimāna | **41** | 29 | 1 | 8 |
+| Śārīra | 0 | 29 (dotted `॥५.१.१॥`) | 4 | 8 |
+| Indriya · Kalpa · Siddhi | 0 | **0** | **0** | 12 each |
+| Cikitsā | — | — | — | 30 — the page is a **REDIRECT** |
+
+**Only 11 of the 78 non-Cikitsā adhyāyas carry a structured citation at all.**
+
+### The finding that matters: the markers number the COMMENTARY
+
+Sūtrasthāna opens `अथातो दीर्घंजीवितीयम् … ।। चसं-१,१.१ ।।` — the mūla, citing itself as
+Caraka Saṃhitā 1, adhyāya 1, verse 1. Immediately after comes `; आयुर्वेददीपिका` and then
+`।। १ ।।`, `।। २ ।।`, `।। ३ ।।` — **Cakrapāṇidatta's commentary, separately numbered.**
+
+`detect_grammar` picked `single_pair` and found **1,191 markers** in Sūtrasthāna. Those are
+overwhelmingly commentary verses. A naive ingest would have put the Āyurvedadīpikā into the
+corpus **as Caraka**, under chapter numbers inferred from where the commentary happens to
+restart.
+
+The inferred structure was visibly wrong and that is what prompted looking: chapter counts
+came out **125 for Sūtrasthāna against a canonical 30**, 196 for Śārīra against 8. Neither
+"split on any decrease" nor "split on restart-at-1" recovers the real structure, because the
+numbers being split on are not the text's.
+
+### Why it is blocked rather than partially ingested
+
+The citable subset is ~9% of the work, and it sits **interleaved with commentary in exactly
+the sthānas that have it**. A corpus is a citation surface: someone resolving
+`caraka_samhita 1.5.3` would get *something*, and it might be Cakrapāṇidatta. That is the
+Dharmaśāstra failure — a hierarchy flattened, the citation components destroyed, invisible
+for months — and G7 is the rule against it.
+
+Tier `defect`, which BLOCKS. Not `uncitable`, because the problem is not a missing figure:
+**our parse is known wrong.**
+
+### What would unblock it
+
+A mūla-only edition, or a parser that keys on `।। चसं-N,M.K ।।` and the dotted `॥N.M.K॥`
+form and **discards everything not carrying one**. That is real work and it recovers 11
+adhyāyas; the rest of the text is simply not on Wikisource.

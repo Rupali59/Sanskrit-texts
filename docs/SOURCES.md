@@ -115,7 +115,7 @@ is the answer for almost all of it**, not sanskritdocuments and not GRETIL.
 | Text | Axis | Source | Devanagari | Shape | Status |
 |---|---|---|---|---|---|
 | **Dhanurveda** | Dhanurveda | sanskritdocuments `doc_veda/dhanurveda.html` | 18,399 | `double` + single-daṇḍa close | **ready** — 227 verses, contiguous |
-| **Caraka Saṃhitā** | Āyurveda | Wikisource, 15 pages | 144,332 in Sūtrasthāna alone | `single_pair`, 1,191 markers | **convertible today** |
+| **Caraka Saṃhitā** | Āyurveda | Wikisource, 15 pages | 546,580 | `single_pair`/`double`/`bare` | **BLOCKED** — the markers number the *commentary*; see CANONICAL_COUNTS.md |
 | **Suśruta Saṃhitā** | Āyurveda | Wikisource, 18 pages | 52,188 per sthāna page | **bare numerals** | needs a `bare` grammar |
 | **Mānasāra** | Sthāpatyaveda | Wikisource, 1 page | **408,048** | **bare numerals** | needs a `bare` grammar |
 | **Mayamata** | Sthāpatyaveda | Wikisource, 9 pages | 7,220 per page | **bare numerals** | needs a `bare` grammar |
