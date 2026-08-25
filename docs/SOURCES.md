@@ -257,24 +257,29 @@ and that is a lossless mapping rather than an OCR gamble.
 ## Four sources that were not what they looked like
 
 **Sanskrit titles collide, and four apparent sources for this corpus turned out to be
-different texts.** Two were found 2026-08-23, two more in the 2026-08-25 survey below. The
-pattern is recorded as `GOTCHAS.md` G26; the instances are here.
+different texts.** All four are NAME COLLISIONS — the pattern is `GOTCHAS.md` G26; the
+instances are here.
 
-The first two: `CLAUDE.md` said `GargaSamhita` and `MuhurtaMartanda` already had sources
-ready. Both claims died on inspection.
+**Two failure modes live in this section and they are not the same thing.** A name collision
+means the file you found is a different work. An unusable source means the right work in an
+unreadable form. `MuhurtaMartanda` has *both*, which is why an earlier version of this
+section listed its unreadable PDF as one of "the four" and left the actual `martanda`
+collision unrecorded — while G26 counted it. Kept apart below.
+
+`CLAUDE.md` said `GargaSamhita` and `MuhurtaMartanda` already had sources ready. Both claims
+died on inspection 2026-08-23.
 
 - **`GargaSamhita`'s `3003.txt` is the wrong Garga Saṃhitā.** Its colophon reads
   `अश्वमेधखण्डे ... अध्याय ५९` — the devotional Vaiṣṇava Purāṇa, not the Jyotiṣa work.
   Digitised, then **relocated to `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`**
   (127 shlokas) under the Jyotiṣa/Youvan ownership split. That directory has **no source
   waiting**; the Jyotiṣa text still needs sourcing.
-- **`MuhurtaMartanda`'s PDF has no text layer.** 154 pages of `tiff2pdf`-wrapped CCITT
-  bitmaps; `pdftotext` returns 154 bytes — one form-feed per page, zero characters. It is a
-  scan, and additionally a *commentary edition* (mūla + Sanskrit ṭīkā + Hindi bhāṣā-ṭīkā
-  interleaved), so even clean OCR would not yield mūla shlokas without separating three text
-  layers. See `propagation/state/sanskrit-texts/GOTCHAS.md`.
+- **`Muhurta Martanda` → Bhoja's `Rājamārtaṇḍa`.** SARIT carries `bhoja-rajamartanda.xml`;
+  the substring `martanda` matched. It is a **commentary on the Yoga-sūtras**, not Nārāyaṇa
+  Daivajña's muhūrta manual. *(This row was missing from this file until 2026-08-25 although
+  G26 counted it — see the note above.)*
 
-The second two, from the 2026-08-25 survey:
+And from the 2026-08-25 survey:
 
 - **`Sarvartha Cintamani` → Pūjyapāda's `Sarvārthasiddhi`.** SARIT carries
   `pujyapada-sarvarthasiddhi.xml`; the substring `sarvartha` matched. It is a **Jain**
@@ -292,6 +297,16 @@ The second two, from the 2026-08-25 survey:
 a transliterated name — `garga`, `martanda`, `sarvartha`, `shiromani`. A name is a search key,
 never evidence. Confirm with the structural markers the target text *must* contain, and with
 the colophon.
+
+### Separately — an unusable source, not a collision
+
+**`MuhurtaMartanda`'s PDF has no text layer.** 154 pages of `tiff2pdf`-wrapped CCITT bitmaps;
+`pdftotext` returns 154 bytes — one form-feed per page, zero characters (G3). It is a scan,
+and additionally a *commentary edition* (mūla + Sanskrit ṭīkā + Hindi bhāṣā-ṭīkā interleaved),
+so even clean OCR would not yield mūla shlokas without separating three text layers.
+
+This is the **right work in an unreadable form**, which is a different problem from the four
+above and does not count toward them.
 
 ## Source survey — all 11 undigitised texts, 2026-08-25
 
