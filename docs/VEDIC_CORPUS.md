@@ -180,8 +180,14 @@ to 108 Upaniṣads overall, of which 10–13 are the *mukhya* (principal) ones.
 
 Per the ownership split as revised 2026-08-23 and narrowed again 2026-08-24: **Youvan
 Prakashan holds Tantra, Mantra, Brāhmaṇa and Āraṇyaka; Vipin holds Jyotish and everything
-else.** Philosophy moved to Vipin,
-so the Āraṇyakas and Upaniṣads land here, and the Saṃhitās and Brāhmaṇas with them.
+else.** Philosophy moved to Vipin, so the **Upaniṣads** land here with the **Saṃhitās**; the
+**Brāhmaṇas and Āraṇyakas go to Youvan**.
+
+*(Corrected 2026-08-25. This sentence read "so the Āraṇyakas and Upaniṣads land here, and the
+Saṃhitās and Brāhmaṇas with them" — a leftover from the pre-2026-08-24 split that contradicted
+this file's own heading two lines above and its layer table at the top. The file stated the
+ownership correctly four times and wrongly once, which is the version a reader in a hurry
+would have taken.)*
 
 This file was first written into `Tushar/Youvan/texts/` on 2026-08-23 under the previous
 three-way split (Youvan = Tantra/Mantra/**Philosophy**) and moved here the same day when
