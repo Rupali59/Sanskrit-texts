@@ -254,13 +254,14 @@ carrying an explicit `Ah.1.1.005` citation, and CC BY-SA 3.0. Its only deficit i
 and that is a lossless mapping rather than an OCR gamble.
 
 
-## Two sources that were not what they looked like (corrected 2026-08-23)
+## Four sources that were not what they looked like
 
-Moved out of `CLAUDE.md` 2026-08-24, where it was 14 lines of per-source research in a file
-whose job is pointers and hard rules.
+**Sanskrit titles collide, and four apparent sources for this corpus turned out to be
+different texts.** Two were found 2026-08-23, two more in the 2026-08-25 survey below. The
+pattern is recorded as `GOTCHAS.md` G26; the instances are here.
 
-`CLAUDE.md` said `GargaSamhita` and `MuhurtaMartanda` already had sources ready. Both claims
-died on inspection.
+The first two: `CLAUDE.md` said `GargaSamhita` and `MuhurtaMartanda` already had sources
+ready. Both claims died on inspection.
 
 - **`GargaSamhita`'s `3003.txt` is the wrong Garga Saṃhitā.** Its colophon reads
   `अश्वमेधखण्डे ... अध्याय ५९` — the devotional Vaiṣṇava Purāṇa, not the Jyotiṣa work.
@@ -272,3 +273,71 @@ died on inspection.
   scan, and additionally a *commentary edition* (mūla + Sanskrit ṭīkā + Hindi bhāṣā-ṭīkā
   interleaved), so even clean OCR would not yield mūla shlokas without separating three text
   layers. See `propagation/state/sanskrit-texts/GOTCHAS.md`.
+
+The second two, from the 2026-08-25 survey:
+
+- **`Sarvartha Cintamani` → Pūjyapāda's `Sarvārthasiddhi`.** SARIT carries
+  `pujyapada-sarvarthasiddhi.xml`; the substring `sarvartha` matched. It is a **Jain**
+  philosophical commentary on the Tattvārthasūtra, not Veṅkaṭeśa's Horā text.
+- **`Siddhanta Siromani` → the Vīraśaiva `Siddhānta Śikhāmaṇi`, and this one is the trap.**
+  Wikisource's `सिद्धान्तशिरोमणिः तत्त्वप्रदीपिकासहितः` is **1,238,304 bytes** where every
+  other candidate in the survey was a 327–465 byte stub. Size read as proof. Content settled
+  it: **zero** occurrences of Bhāskara II's structural markers — `गोलाध्याय`, `ग्रहगणित`,
+  `लीलावती`, `बीजगणित`, `मध्यमाधिकार` — against **967** `लिङ्ग`, **643** `स्थल`, **174**
+  `शिवयोगि`, **103** `रेणुक`, **85** `वीरशैव`. Its own second verse names it
+  `सिद्धान्तशिखामणि`. Also note `भास्कर` appears 11 times in it, so even an author-name probe
+  would have passed.
+
+**Marked by the same instrument error each time.** All four were found by substring match on
+a transliterated name — `garga`, `martanda`, `sarvartha`, `shiromani`. A name is a search key,
+never evidence. Confirm with the structural markers the target text *must* contain, and with
+the colophon.
+
+## Source survey — all 11 undigitised texts, 2026-08-25
+
+**Nine of the eleven had never been surveyed.** This file previously mentioned only Garga
+Saṃhitā and Muhūrta Mārtaṇḍa; the rest were listed as pending on no evidence either way.
+
+**Result: none of the eleven has a machine-readable source in any channel this pipeline
+uses.** They are blocked on **sourcing**, not on parsing.
+
+| Channel | Query | Result |
+|---|---|---|
+| sanskritdocuments | `GET /sanskrit/jyotisha/`, links under `/doc_z_misc_sociology_astrology/` | **0 of 11** — and see below |
+| SARIT | `GET api.github.com/repos/sarit/SARIT-corpus/contents/`, 85 `.xml` | **0 of 11** (2 false positives) |
+| Wikisource (sa) | `action=query&list=search` per title | stubs only, 327–465 bytes (1 false positive) |
+| archive.org | the 104 `archive.org/details/` links on the jyotiṣa index | **0 of 11** name any |
+
+### sanskritdocuments' jyotiṣa corpus is EXHAUSTED — and that is a milestone
+
+Its index carries **50 document links → 25 stems → 13 distinct texts** (a `.pdf` and a
+`.itx` per stem; BPHS alone is 11 stems, `par0110`…`par9197`). **All 13 are already held**,
+and no stem fails to map:
+
+| stem | `text_id` | | stem | `text_id` |
+|---|---|---|---|---|
+| `aarchajyotiSha` | `arch_jyotisham` | | `bRRihatsaMhitA`, `varbrhs` | `brihat_samhita` |
+| `chamatkarachintamani` | `chamatkar_chintamani` | | `bhrigusUtram` | `bhrigu_sutram` |
+| `jAtakapArijAtaH` | `jataka_parijata` | | `vriddhayavanajataka1` | `minaraja_yavana_jataka` |
+| `daivaGYavallabha` | `varahamihir_daivagnavallabh` | | `yaajuShajyotiSha` | `yajusha_jyotisham` |
+| `phaladIpika` | `phaladeepika` | | `laghujAtaka` | `laghu_jatakam` |
+| `brihajjAtakam` | `brihat_jataka` | | `ShaTpanchAshikA` | `shatpanchashika` |
+| `par0110`…`par9197`, `horaashaastraEng34-45` | `bphs` | | | |
+
+Re-derive it by mapping every stem under `/doc_z_misc_sociology_astrology/` to a held
+`text_id` and asserting **both** empty sets: stems that map to nothing, and mapped ids that
+are not held. Measured 2026-08-25: 25 stems, 13 ids, **0 unmapped, 0 unheld**.
+
+**Count stems and texts separately.** "25 texts" is wrong and was written that way first —
+the stem count flatters the corpus by 12, because a chunked text contributes one stem per
+chunk.
+
+### What this means for the eleven
+
+There is no more Jyotiṣa to take from the channels in use. Acquiring any of the eleven needs
+either a **new channel** (muktabodha, the Vedic Heritage Portal, GRETIL under a licence review)
+or **OCR of scans** — and Muhūrta Mārtaṇḍa already showed what that costs: 154 pages of
+`tiff2pdf`-wrapped CCITT bitmaps, `pdftotext` returning 154 bytes, and a commentary edition
+needing mūla, Sanskrit ṭīkā and Hindi bhāṣā-ṭīkā separated. **Both were declined 2026-08-25**;
+the eleven are recorded as unsourceable rather than pending.
+
