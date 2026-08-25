@@ -1108,3 +1108,55 @@ conversion is byte-identical.
 **Caraka still has ~13 unread citation lines** in 3 shapes — `Ca.2.7.1athāta` (no separator)
 and `Ca.2.7.7,(1)tato` (comma-parenthesis sub-number). Scored **A=6, S=3 → 2.0 → manual**.
 Not actioned; recorded so the next session starts from a measurement rather than a hunch.
+
+---
+
+## Part 7 — Brāhmaṇa and Āraṇyaka (Youvan's scope), acquired 2026-08-25
+
+Converted by this pipeline, emitted into `Tushar/Youvan/texts/`. One pipeline, one validator,
+one sources repo; only the output root differs (`convert.py:YOUVAN_OWNED`).
+
+### Both are `unit_mismatch`, and that is a decision
+
+**What is citable for these two is the DIVISION count, not a verse total**, and both parses
+match the citable figure exactly. No published anuvāka total was found for either.
+
+| Text | Citable | Parsed | Verses (anuvākas) |
+|---|---|---|---:|
+| Taittirīya Brāhmaṇa | 28 prapāṭhakas, in 3 aṣṭakas (8 + 8 + 12) | **28**, in 4 sections | 1,832 |
+| Taittirīya Āraṇyaka | 10 praśnas | **10** + a 2-praśna Ekāgnikāṇḍa | 638 |
+
+**The Brāhmaṇa's fourth section is not a fourth aṣṭaka.** The source heads its divisions
+`प्रथमाष्टके … प्रपाठकः N`, `द्वितीयाष्टके …`, `तृतीयाष्टके …` and then `काठके …` — and
+Kāṭhaka's three are prapāṭhakas 10–12 of aṣṭaka 3, which is what makes the canonical 8+8+12
+come out right. The corpus keeps four sections because that is the source's own division;
+citations read `taittiriya_brahmana 1.1.80` = aṣṭaka.prapāṭhaka.anuvāka.
+
+**The Āraṇyaka's Ekāgnikāṇḍa is kept as a second section rather than renumbered.** This
+edition prints it after praśna 10 under its own heading with its own numbering, 1 and 2.
+Folding it in as praśnas 11 and 12 would change the value of a key the source states
+(`rule:safety-flag-needs-a-test`'s sibling, G7: never renumber). It is section 2.
+
+### Three source facts the parse depends on
+
+1. **The structure is in `<h2>` headings inside the content block, not in verse markers.**
+   `parse_sanskritdocs_sectioned` reads the section from the heading's first word and the
+   division number from its trailing numeral. Numbering by POSITION would give 1..28 where
+   the citation says 1.1 .. 4.3, because prapāṭhakas restart at 1 in each section (G24).
+2. **A pluta vowel is written `३` and can start a line.** `वेत्था ३ इति` — two in the
+   Brāhmaṇa, one in the Āraṇyaka, all mid-division and all out of sequence. A verse number
+   strictly increases; these do not, so the line is read as a continuation and merged into
+   the previous verse. Nothing is dropped: 1,834 markers, 1,832 verses, and the body
+   Devanagari count is within 178 characters of the source (colophon stripping).
+3. **Each praśna of the Āraṇyaka closes with a repeated śānti-pāṭha numbered `०`.** Kept as
+   `0-2`, the `SUB_NUMBERED` form already used for Mayamata's `41-2`, and ordered beside its
+   twin because a chapter must not restart. **It is not always a copy of the opening** — in
+   praśna 6 the closing block is 223 characters against the opening's 79 and carries a verse
+   the opening does not, so merging it away on an assumed identity would have deleted text.
+
+### `aranyaka.itx` is excluded, and the source says so itself
+
+`sanskritdocuments.org/doc_veda/aranyaka.itx` is titled, in its own header,
+`taittirIya AraNyaka 1 aruNaprashnaH` — praśna 1 of the text above, i.e. a **subset**.
+It is also ITRANS/TeX, not Devanagari; a Devanagari-character count of it returns 0, which
+is a fact about the encoding and not about the content. Not ingested.
