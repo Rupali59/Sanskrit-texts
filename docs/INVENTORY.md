@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 58 texts · 930 chapters · 92,832 shlokas · 12 categories** — on-schema only.
+**Totals: 54 texts · 918 chapters · 92,166 shlokas · 12 categories** — on-schema only.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,9 +24,9 @@ Both are right, and they count different things.
 
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 58 | 930 | 92,832 |
+| **On-schema** — a real `chapters[]` array | 54 | 918 | 92,166 |
 | Off-schema — the 2 Apastamba texts, scored `1` chapter each by the one-liner | +2 | +2 | — |
-| **The one-liner above** | **60** | **932** | — |
+| **The one-liner above** | **56** | **920** | — |
 
 The off-schema two (`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
 are **not ingestible as they stand** and need re-digitisation — see
@@ -93,13 +93,23 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 
 ## Upanishad — Upaniṣad — the mukhya and minor Upaniṣads
 
+**Four left for Youvan, 2026-08-25.** `tejobindu` (463), `yogatattva` (142), `amritanada`
+(39) and `brahmabindu` (22) — 666 verses — are canonically **Yoga Upaniṣads**, the group
+closest to Tantra in method, and so Youvan's under the Tantra/Mantra split. Committed there
+(`Tushar/Youvan` `ca9f9b6`) **before** removal here, and now at
+`Tushar/Youvan/texts/Upanishad/Yoga/`. Nothing in astroacharya cited them.
+
+**The five Saṃhitās were considered and stay.** `VEDIC_CORPUS.md:5` defines संहिता as the
+*mantra layer*, so a literal reading of "Youvan holds Mantra" would take all five — 22,686
+verses. **Mantra means the genre, not the layer** (2026-08-25). Likewise the Upavedas: their
+tantra/mantra content is embedded rather than sectioned — the Āyurveda texts have no chapter
+titles at all — so there is nothing to separate.
+
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `mandukya_upanishad` | [`Upanishad/atharvaveda/Mandukya`](../Upanishad/atharvaveda/Mandukya) | 1 | 12 | 0% | firm |
 | `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 7 | 65 | 0% | range |
 | `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 0% | range |
-| `amritanada_upanishad` | [`Upanishad/krishna-yajurveda/Amritanada`](../Upanishad/krishna-yajurveda/Amritanada) | 1 | 39 | 0% | range |
-| `brahmabindu_upanishad` | [`Upanishad/krishna-yajurveda/Brahmabindu`](../Upanishad/krishna-yajurveda/Brahmabindu) | 1 | 22 | 0% | firm |
 | `kaivalya_upanishad` | [`Upanishad/krishna-yajurveda/Kaivalya`](../Upanishad/krishna-yajurveda/Kaivalya) | 3 | 24 | 0% | firm |
 | `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 0% | range |
 | `mahanarayana_upanishad` | [`Upanishad/krishna-yajurveda/Mahanarayana`](../Upanishad/krishna-yajurveda/Mahanarayana) | 80 | 263 | 0% | uncitable |
@@ -107,8 +117,6 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `sarvasara_upanishad` | [`Upanishad/krishna-yajurveda/Sarvasara`](../Upanishad/krishna-yajurveda/Sarvasara) | 1 | 5 | 0% | unit_mismatch |
 | `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 0% | firm |
 | `taittiriya_upanishad` | [`Upanishad/krishna-yajurveda/Taittiriya`](../Upanishad/krishna-yajurveda/Taittiriya) | 31 | 51 | 0% | unit_mismatch |
-| `tejobindu_upanishad` | [`Upanishad/krishna-yajurveda/Tejobindu`](../Upanishad/krishna-yajurveda/Tejobindu) | 9 | 463 | 0% | range |
-| `yogatattva_upanishad` | [`Upanishad/krishna-yajurveda/Yogatattva`](../Upanishad/krishna-yajurveda/Yogatattva) | 1 | 142 | 0% | firm |
 | `aitareya_upanishad` | [`Upanishad/rigveda/Aitareya`](../Upanishad/rigveda/Aitareya) | 5 | 33 | 0% | range |
 | `atmabodha_upanishad` | [`Upanishad/rigveda/Atmabodha`](../Upanishad/rigveda/Atmabodha) | 2 | 31 | 0% | uncitable |
 | `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 5 | 51 | 0% | range |
