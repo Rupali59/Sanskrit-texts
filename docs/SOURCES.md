@@ -813,3 +813,26 @@ looked careful — a copyright page quoted, a comparison drawn to the previous o
 made it hard to notice they were four instances of overriding a decision that had already been
 made by the person whose call it was. **A judgment the user has reserved is not yours to make
 well.**
+
+#### The other two clean files are PARTIAL volumes, and neither carries a verse-count witness
+
+Measured 2026-09-02, after `goladhyaya` was digitised successfully from `8252.txt`. **Do not
+assume the Golādhyāya recipe transfers** — what made it safe was a property of that volume,
+not of the series.
+
+| File | Covers | Verse-count witness |
+|---|---|---|
+| `8252.txt` — Golādhyāya | complete | **Yes** — a ToC giving every chapter's last verse. This is what made digitisation defensible |
+| `8244.txt` — Līlāvatī | **`उत्तरार्धरूपो द्वितीयो भागः`** — the SECOND half only, from `क्षेत्रव्यवहार` onward | **None** — the file opens on its title page and goes straight into the text |
+| `7404.txt` — Grahagaṇita | **`(पूर्वार्धः)`** — the FIRST half. Its own preface says `ग्रहगणिताध्यायेऽस्मिन्नेकादशाधिकारा वर्तन्ते`, eleven adhikāras, of which this volume carries **three**: मध्यम, स्पष्ट, त्रिप्रश्न | **Partial** — the `अनुक्रमणिका` lists chapters but **no verse numbers** |
+
+**So a Līlāvatī or Grahagaṇita digitisation has no independent check available**, and contiguity
+alone is exactly the evidence G31 records as worthless: all three fabricated texts, and both
+doubled ones, passed a numbering check. `goladhyaya`'s converter rejected verses numbered above
+the ToC maximum — 7 of its 8 chapters land on the predicted last verse — and none of that is
+possible here.
+
+**Before digitising either, get a witness.** Options, in preference order: a complementary
+volume (the Līlāvatī *pūrvārdha* and the Grahagaṇita *uttarārdha* are separate Ānandāśrama
+numbers and would supply both the missing halves and, if they carry one, a ToC); a printed
+edition's verse counts; or a second digitisation to diff against. Contiguity is not a witness.
