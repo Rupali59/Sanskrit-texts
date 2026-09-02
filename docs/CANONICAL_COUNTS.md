@@ -1590,3 +1590,30 @@ decisively by the epoch: **427 present, 425 absent**, where the deleted forgery 
 section's own colophons run out of order: the 6th adhyāya at @199821, the 10th at @214926, the
 4th at @332344, the 18th at @497654. An offset table cannot segment it. *Needs:* the ordering
 resolved against the chapter colophons' ordinals rather than their positions.
+
+#### Why `panchasiddhantika` is still NOT imported — the work quotes other works' colophons
+
+Both sources are genuine and staged; neither has been converted, and the obstacle is a property
+of the text rather than of the files.
+
+**Pañcasiddhāntikā is a compendium OF five siddhāntas, so it reproduces their colophons.**
+Filtering `8801.txt`'s colophons by ordinal gives the sequence **6, 10, 7, 4, 9, 13, 14, 15, 16**
+— non-monotonic, and for two distinct reasons that a segmenter must tell apart:
+
+- **Other works' chapter-ends.** `@383219` is `इति सूर्यसिद्धान्ते सूर्यग्रहणं नाम नवमोऽध्यायः` —
+  **Sūrya Siddhānta's** ninth adhyāya, quoted; likewise `रोमकसिद्धान्ते` at `@357331` and
+  `पौलिशसिद्धान्ते` at `@497654`. These are not Pañcasiddhāntikā's own divisions.
+- **A false ordinal.** `@240906` is `इति सप्तमश्लोकस्यान्तिमो भागः` — "the final part of the
+  **seventh śloka**". An ordinal probe matches `सप्तम` inside `सप्तमश्लोक` and invents a
+  chapter 7.
+
+**Strip both and the tail is orderly and canonical:** 13 `त्रैलोक्यसंस्थान`, 14
+`छेद्यकयन्त्राणि`, 15 `ज्योतिषोपनिषत्`, 16 `ताराग्रहस्फुटीकरण`, 18 `ताराग्रहाः` — Pañcasiddhāntikā's
+own chapter names, in sequence, from `@417141` on. The early chapters are the unresolved part,
+and Thibaut's edition is a **reconstruction of a fragmentary text**, so their order is an
+editorial question rather than a parsing one.
+
+*What would settle it:* the **Lahore 1930 Prakāśikā** (`raw/`, OCR'd) read as an independent
+witness to the adhyāya sequence — that is why it was acquired. **Do not segment on ordinals
+alone**; require that a colophon name no other siddhānta, and anchor on `अध्यायः` rather than a
+bare ordinal so `सप्तमश्लोक` cannot masquerade as a chapter.
