@@ -40,14 +40,12 @@ has gone to Youvan.
 and it is a **superset**: it also holds Youvan's Brāhmaṇa/Āraṇyaka. This repo is the translation
 layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `docs/`.
 
-**1 text does not yet follow the one-file rule** — `ApastambaDharmaSutra`, still on the
-`sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24 and
-`ApastambaParibhashaSutra` left for Youvan 2026-09-02 (Kalpa, not dharma).
+**1 text is not on the one-file rule** — `ApastambaDharmaSutra`, still `sutras[]`; see
+§"Off-schema". `ManuSmriti` left 2026-08-24, `ApastambaParibhashaSutra` 2026-09-02 (to Youvan).
 
-**13 texts are undigitised, and 11 no longer have a directory** — their README-only dirs
-were drained 2026-09-02 and `git rm` took the empty parents. All 13, with author, period and
-why-wanted, are in [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised" — now the only
-record; do not restate it here.
+**13 texts are undigitised and 11 have no directory** — README-only dirs drained 2026-09-02,
+`git rm` took the empty parents. All 13 with author, period and why-wanted are in
+[`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised", now the only record. Do not restate.
 
 **Neither `GargaSamhita` nor `MuhurtaMartanda` has a usable source waiting**, despite older
 notes saying so — both claims died on inspection 2026-08-23. Detail:
