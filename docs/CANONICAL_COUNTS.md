@@ -1477,3 +1477,33 @@ each segment, the English translation preceding it.
 
 Verified on write: 150 verses **verbatim**, **no Latin** (the translation did not leak), no served
 fields, zero duplicate keys. 37 absences of 187 recorded, and 7 numbers dropped as out-of-order.
+
+### `surya_siddhanta` — DELETED 2026-09-02
+
+**Removed from the corpus.** It was fabricated: 14 chapters, 272 shlokas, every one marked
+`translated` with a non-empty English field, opening
+`प्रणम्य शिरसा देवं गुरुं विद्याविनायकम्` where the attested 1.2 is
+`अल्पावशिष्टे तु कृते मयो नाम महासुरः` — a line that appears **zero** times in the deleted text
+and is present in the genuine 1925 scan.
+
+**Why deletion rather than a fix.** `scripts/seed_texts.py` walks every corpus JSON and
+`/texts/{text_id}` serves it, so the public API was returning 272 invented verses **and 272
+invented English translations** under the name of a real work. That breaks the workspace hard
+rule *"Computation is AI-assisted; meaning is not"* on the surface most likely to be quoted.
+Nothing computed on it — `@source` is read-only (`app/masters/_source.py:77`), attaching
+metadata and a docstring line — so removal costs nothing at runtime and `/texts` returns a 404
+listing the available texts.
+
+**Three `@source` decorators still name it** — `yearly_calendar.py:26,28`, `yearly_gochar.py:29`
+— plus two provenance strings in `panchanga.py`'s tithi table. Those are now **dangling
+citations, which is the correct state**: the claim "this calculation is justified by Sūrya
+Siddhānta 1.1–10" is true of the real text; it simply cannot be resolved against a corpus that
+no longer holds a forgery of it. Do not "fix" them by pointing at another text.
+
+**The replacement is blocked on OCR quality, not availability** — the Asiatic Society of Bengal
+1925 edition (ed. Sudhākara Dvivedī, *Sudhāvarṣiṇī*) is held and public domain; its reading is
+not usable. Detail in STATE.
+
+**`aryabhatiya` and `panchasiddhantika` are still held and still fabricated.** They are cited
+nowhere under any spelling, so the exposure is the `/texts` surface alone — the same argument
+applies to them and they have not been removed.
