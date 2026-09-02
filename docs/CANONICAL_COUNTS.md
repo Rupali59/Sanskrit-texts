@@ -1386,3 +1386,33 @@ and do not fill one in from a second edition without recording which edition it 
 Verified on write: all 241 verses appear **verbatim** in the source, none carries commentary
 vocabulary or Latin characters, all end in a daṇḍa, and the text contributes **zero** duplicate
 `(chapter, number)` keys, so every verse reaches Mongo (G8).
+
+### `grahaganita` — the first half only, and its witness is weaker than `goladhyaya`'s
+
+**272 verses across 9 sections**, digitised 2026-09-02 by
+`scripts/sanskrit-convert/grahaganita.py` from Ānandāśrama Sanskrit Series vol. 110
+(`7404.txt`).
+
+**It is `(पूर्वार्धः)` — the first half.** The volume's own preface says
+`ग्रहगणिताध्यायेऽस्मिन्नेकादशाधिकारा वर्तन्ते`, eleven adhikāras, of which this carries three:
+मध्यम, स्पष्ट, त्रिप्रश्न. The *uttarārdha* is a separate Ānandāśrama number and is **not
+held** — do not read the 272 as a complete Grahagaṇita.
+
+**Nine sections, not three**, because मध्यमाधिकāra is subdivided into seven adhyāyas. The
+volume states this itself (`सप्तभिरध्यायैः` in its closing colophon; the प्रत्यब्दशुद्धि
+colophon calls that adhyāya `पञ्चमः`), so the spans are read off colophons rather than inferred.
+
+**The validation is weaker than `goladhyaya`'s and that difference matters.** Golādhyāya is
+checked against a table of contents giving every chapter's last verse — independent of the body.
+**This volume has no such ToC**: its `अनुक्रमणिका` lists chapter names with no verse numbers. So
+the bound is each section's own highest verse number, derived from the data it checks. It still
+rejects commentary citing a verse from elsewhere, but it cannot catch a section mis-numbered
+throughout. **Treat `grahaganita` as less corroborated than `goladhyaya`.**
+
+**One finding left visible rather than repaired:** `ग्रहभगणमानाध्यायः` reports 14 verses against
+a bound of 52, so 38 read as absent. A stray number is almost certainly inflating the bound.
+Inventing a smaller one to tidy the output is the exact failure G31 records.
+
+Verified on write: all 272 verses **verbatim** in the source, no commentary vocabulary, no Latin,
+all terminated by a daṇḍa, all untranslated with empty served fields, and **zero** duplicate
+`(chapter, number)` keys.
