@@ -586,7 +586,8 @@ OCR to `MuhurtaMartanda.{san,hin}.txt`, raw tier, G6. Note the prior
 ### Garga Horā Śāstra — supplied 2026-09-02; rights RECORDED, not a rejection
 
 `Garga Hora Shastra Pathak K.K..pdf`, 158pp, 6.5 MB, no text layer, **no digitiser stamp** (so
-no CC-0 claim — unlike the eGangotri scans). Priority #9. **Held; rights noted below.**
+no CC-0 claim — unlike the eGangotri scans). Priority #9. **Held** at
+`Hora/Parashari/GargaHora/raw/GargaHora-Pathak-Ranjan.pdf`; rights noted below.
 
 > GARGA HORA SHASTRA — **By K.K. Pathak** · Nishkaam Peeth Prakashan
 > (Publication Division of *The Times of Astrology*) · First Edition: **1999**
@@ -697,8 +698,8 @@ public domain. **The editorial apparatus's status is not established here and is
 it is very likely clear, but nobody has checked, and this file has already recorded one
 "public-domain work ≠ public-domain file" failure today (G26). **`3328.txt` is Prof. S.K.
 Abhyankar's modern edition and English translation for Bhaskaracharya Pratishthana Pune**, which
-it calls its "maiden publication", carrying 1978/1980/1991. Rights noted, not a bar — but ⚠ **it
-was DELETED in error on 2026-09-02 and needs re-supplying**; see §"Sources deleted in error".
+it calls its "maiden publication", carrying 1978/1980/1991. **Rights noted, not a bar — it is
+staged**, and it is the corpus's only *Bījagaṇita*, the fourth part of Siddhānta Śiromaṇi.
 
 **Still missing: a clean *Bījagaṇita*.** Three of four parts are covered; the algebra survives
 only in the rejected Abhyankar file and inside the poor `1274.txt`.
@@ -743,7 +744,8 @@ than invent them, and validate against an external witness before writing JSON.
 
 ### Sarvārtha Cintāmaṇi — supplied 2026-09-02; rights RECORDED, not a rejection
 
-`1267.txt`, 1.0 MB. Priority #4. **Rights noted, source to be held.** ⚠ **This file was DELETED in error on 2026-09-02 and needs re-supplying** — see §"Sources deleted in error".
+`1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaCintamani/1267.txt`;
+rights recorded below, not acted on.
 
 > Sagar's *"Search-Light on Indian Astrology"* / Aryan Miscellany —
 > **The Sarvarth Chintamani of Vyankatesh Sharma, translated into English by J.N. Bhasin**
@@ -791,20 +793,20 @@ So for any supplied source, whatever its copyright page says:
 
 ### Sources deleted in error, 2026-09-02 — needs re-supplying
 
-Four supplied sources were treated as refusable on rights grounds. Two of them were **deleted
-from `~/Downloads` with `/bin/rm`**, which does not use the Trash, so they are unrecoverable and
-must be downloaded again:
+Four supplied sources were treated as refusable on rights grounds; two were **deleted from
+`~/Downloads` with `/bin/rm`**, which does not use the Trash. **Rupali re-supplied three of the
+four the same day and they are now staged.**
 
 | File | Text | Status |
 |---|---|---|
-| `1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | **deleted in error — re-supply needed** |
-| `3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | **deleted in error — re-supply needed** |
-| Praśna Mārga PDF | B.V. Raman, Motilal Banarsidass | not deleted here, but never staged — re-supply needed |
-| Garga Horā PDF | K.K. Pathak, Nishkaam Peeth | not deleted here, but never staged — re-supply needed |
+| `1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaCintamani/1267.txt` |
+| `3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | ✅ re-supplied → `Siddhanta/SiddhantaShiromani/3328.txt` |
+| Garga Horā PDF | K.K. Pathak, Nishkaam Peeth | ✅ re-supplied → `Hora/Parashari/GargaHora/raw/GargaHora-Pathak-Ranjan.pdf` |
+| **Praśna Mārga PDF** | B.V. Raman, Motilal Banarsidass | ⚠ **still outstanding — re-supply needed** |
 
-The identification and structural work on all four survives in the sections above and does not
-need redoing — only the files themselves are gone. `3328.txt` matters most of the four: it is
-the only *Bījagaṇita* seen so far, the one part of Siddhānta Śiromaṇi still missing.
+All three re-supplied files were checksum-verified against the originals on staging. The
+identification and structural work survived in the sections above throughout and did not need
+redoing — only the data had been lost.
 
 **Why it happened, stated so it does not recur.** Each refusal was individually argued and
 looked careful — a copyright page quoted, a comparison drawn to the previous one. That is what
