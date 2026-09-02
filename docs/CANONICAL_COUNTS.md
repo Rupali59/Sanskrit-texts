@@ -997,6 +997,36 @@ citation `praśna.khaṇḍa.sūtra`. Externally checked: the parse independentl
   rather than smoothed — that list is in the commit messages for the drafting batches and is
   the natural starting point for verification.
 
+### `taittiriya_samhita` — 49% of its verses are duplicates that all ingest
+
+Found 2026-09-02 by the incipit audit. **The text is genuine** — TS 4.5 is the Śrī Rudram
+Namakam verbatim, and the attested `इषे त्वोर्जे त्वा` opening is present. This is a
+duplication defect, not the fabrication pattern.
+
+**976 of 2,294 shlokas (42.5%) are exact duplicates of the shloka two positions earlier**, and
+1,126 (49.1%) are exact duplicates of something. The pattern is A, B, A, B:
+
+```
+1.1.1  पूर्णर्षयोऽग्निना ये देवास्सूऱ्यो…
+1.1.2  इद्यज्ञं प्र सुव नारिरानुष्टुभेन…
+1.1.3  पूर्णर्षयोऽग्निना ये देवास्सूऱ्यो…   ← identical to 1.1.1
+1.1.4  इद्यज्ञं प्र सुव नारिरानुष्टुभेन…   ← identical to 1.1.2
+```
+
+**They all ingest, and that is the load-bearing part.** There are **zero** duplicate
+`(chapter, number)` keys, so `seed_texts.py`'s dedupe — which keys on exactly that pair — has
+nothing to catch. G8 records that a duplicate key deletes data silently; this is its mirror
+image: **distinct keys over identical text multiply data silently.** A citation to 1.1.3 and
+one to 1.1.1 return the same verse, and both look valid.
+
+**Consequences:** the text's true unique content is roughly **1,168 verses, not 2,294**, and
+the corpus total of 93,481 is inflated by ~1,126. Any per-text count reasoning about
+`taittiriya_samhita` is wrong by a factor of two.
+
+**The other four Saṃhitās are clean** — Ṛgveda 0.7% incidental, Sāmaveda 0.0%, Śukla Yajurveda
+0.6%, Atharvaveda 3.9%, and **none** shows the offset-2 signature (0.0%, 0.0%, 0.1%, 0.0%).
+So this is one text's ingestion defect, not a pipeline-wide one.
+
 ### ⚠ THREE SIDDHĀNTA TEXTS ARE FABRICATED — verified 2026-09-02, quarantine before use
 
 `aryabhatiya`, `surya_siddhanta` and `panchasiddhantika` — **559 shlokas, all marked
