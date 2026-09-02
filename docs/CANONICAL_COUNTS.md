@@ -1536,3 +1536,31 @@ from pathlib import Path
 f=[x for x in Path('.').rglob('*.json') if 'docs' not in x.parts]
 print(len(f),'files;',any(n in str(x) for x in f for n in ('Aryabhatiya','Panchasiddhantika','SuryaSiddhanta')))"
 ```
+
+### `surya_siddhanta` — REPLACED the same day it was deleted
+
+**280 verses across 11 chapters**, from a clean Rashtriya Sanskrit Sansthan e-text (`1277.txt`,
+405,426 Devanāgarī characters, 458 Latin) carrying Raṅganātha's `गूढार्थप्रकाशक` commentary.
+
+**Authenticity was checked in both directions before conversion**, and the converter refuses to
+run if the first fails: the attested `अल्पावशिष्टे तु कृते मयो नाम महासुरः` is present and
+correctly spelled — `कृते`, where the 1925 scan's OCR gave `कते` — and the deleted forgery's
+opening `प्रणम्य शिरसा देवं` appears **zero** times.
+
+**Its witness is the strongest of any text in this corpus, and it is fully external.** Sūrya
+Siddhānta's canonical chapter lengths are attested independently of this file, and **8 of 11
+chapters land on their canonical last verse exactly**: मध्यम 70, त्रिप्रश्न 48, चन्द्रग्रहण 26,
+सूर्यग्रहण 17, छेद्यक 24, उदयास्त 18, भूगोल 25, ज्योतिष 27. The three that do not — स्पष्ट
+(68 of 69), पात (13 of 14), मान (6 of 13) — are recorded, not adjusted.
+
+**Numbering: ASCII digits inside daṇḍas.** Verses are marked `।।2।।` and `||1||` — the daṇḍa is
+sometimes U+0964 doubled and sometimes an ASCII pipe, and **the digits are ASCII, not
+Devanāgarī**. A `[०-९]` probe scores this file **5** markers against the correct **813**. This is
+G32 one level deeper: the daṇḍa form varies *and* the digit script does.
+
+Verified on write: 280 verbatim, no Latin, no served fields, zero duplicate keys. 67 lines were
+rejected for carrying a number above their chapter's canonical length.
+
+**The three `@source` decorators that dangled after the deletion now resolve again** —
+`yearly_calendar.py:26,28` and `yearly_gochar.py:29` cite Sūrya Siddhānta 1.1–10 and 2.66, and
+chapters 1 and 2 are held. Chapter 2 verse 66 is present.
