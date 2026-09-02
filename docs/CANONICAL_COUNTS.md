@@ -1640,3 +1640,30 @@ Thibaut's chapter divisions, or a decision to import **only the attested tail** 
 rest as absent. **The second is available now and is the smaller claim** — 13 `त्रैलोक्यसंस्थान`,
 14 `छेद्यकयन्त्राणि`, 15 `ज्योतिषोपनिषत्`, 16 `ताराग्रहस्फुटीकरण`, 18 `ताराग्रहाः` — but it is a
 call about what "holding Pañcasiddhāntikā" should mean, so it has not been taken.
+
+##### The chapter witness was inside `8801.txt` all along
+
+**Found 2026-09-02, after two scans were acquired to look for it elsewhere.** Thibaut printed an
+English translation at the back of his edition, and **that translation is numbered by chapter and
+verse**. `8801.txt` contains the whole of it, under `CHAPTER I`–`CHAPTER XVIII` headings at
+offsets 498271–678463 — the very headings that were dismissed earlier as "not the Sanskrit, so
+not useful".
+
+Per-chapter last verse, read off it:
+
+| ch | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| last | 13 | 31 | 56 | 10 | 14 | 6 | 18 | 27 | 7 | 6 | 5 | 42 | 40 | 29 | 11 | 14 | 81 |
+
+**410 verses across 18 chapters.** Chapter 1 yields 0 and is presumably unnumbered introductory
+matter. *(Use `[0-9]`, not `\d`, to read these — G17: `\d` matches Devanāgarī digits.)*
+
+**What remains is alignment, not identification.** The Sanskrit section's 894 markers form
+ascending runs whose maxima go 6, 13, 20, 27, 35, 42, 49, 57, 64, 72, 77 — near-constant
+increments, which is the signature of running references rather than chapter-local verse numbers.
+So the map exists and the Sanskrit numbering has to be reconciled to it before conversion.
+
+**A third scan is staged** (`raw/Panchasiddhantika-Thibaut-scan-333pp.pdf`) and is **the same
+Thibaut edition in image form**, not an independent witness — its preface confirms it: *"The
+Commentary published in the present volume is an entirely original composition by my
+Collaborator."* Useful for checking a passage; useless for a second opinion on ordering.
