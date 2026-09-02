@@ -739,3 +739,33 @@ numbering, and the corpus already carries three fabricated texts and two with do
 every one of which passed a numbering check. Follow `scripts/sanskrit-convert/apastamba.py`:
 block on duplicate or misordered numbers **within a segmented chapter**, record absences rather
 than invent them, and validate against an external witness before writing JSON.
+
+### Sarvārtha Cintāmaṇi — supplied 2026-09-02, REJECTED on copyright
+
+`1267.txt`, 1.0 MB. Priority #4. **Not staged.**
+
+> Sagar's *"Search-Light on Indian Astrology"* / Aryan Miscellany —
+> **The Sarvarth Chintamani of Vyankatesh Sharma, translated into English by J.N. Bhasin**
+> Ranjan Publications, 16 Ansari Road, Darya Ganj, New Delhi 110002
+
+The publisher's note dates it: *"sadly over delayed due to the sudden demise of its renowned
+author Sh. J.N. Bhasin"*, completed from his manuscript by **S.S. Sareen**. Bhasin died in 1993,
+so this is a mid-1990s commercial translation from a publisher still trading — the same class as
+the Raman, Pathak and Abhyankar editions rejected the same day. Latin characters outnumber
+Devanāgarī 375,617 to 177,359.
+
+**It IS the right text, and that was worth confirming** because `sarvartha` is one of G26's nine
+collisions, having matched Pūjyapāda's Jain **Sarvārthasiddhi** on SARIT. Tested against both:
+jyotiṣa markers are dense (`लग्न` 496, `दशा` 250, `ग्रह` 238, `राशि` 183, `भाव` 153) while every
+distinctive Jain marker is **zero** — `अजीव`, `तत्त्वार्थ`, `आस्रव`, `संवर`, `निर्जरा`,
+`पूज्यपाद`. (`जीव` at 145 is non-diagnostic; it is an ordinary word.) So the rejection is on
+rights, not identity.
+
+**It also produced G32**, which nearly cost a good source. A `॥` (U+0965) verse-marker probe
+scores this file **0**, because it uses `।।` — two U+0964 single daṇḍas — throughout. Its real
+count is **1,956**. A zero from that probe reads as "no verse structure" and is exactly the kind
+of confident absence that gets acted on. The three Siddhānta Śiromaṇi files were re-checked and
+are unaffected: they use U+0965 exclusively, so those counts stand.
+
+**What would source this text:** a Devanāgarī edition of Veṅkaṭeśa Śarmā's original that is not a
+modern translator's volume. Still absent from all seven surveyed channels.
