@@ -40,8 +40,7 @@ has gone to Youvan.
 and it is a **superset**: it also holds Youvan's Brāhmaṇa/Āraṇyaka. This repo is the translation
 layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `docs/`.
 
-**Every text is on the one-file rule as of 2026-09-02** — the last off-schema holdout,
-`ApastambaDharmaSutra`, was re-digitised from OCR by `scripts/sanskrit-convert/apastamba.py`.
+**Every text is on the one-file rule as of 2026-09-02** — the last holdout, `ApastambaDharmaSutra`, was re-digitised by `scripts/sanskrit-convert/apastamba.py`.
 
 **13 texts are undigitised and 11 have no directory** — README-only dirs drained 2026-09-02,
 `git rm` took the empty parents. All 13 with author, period and why-wanted are in
