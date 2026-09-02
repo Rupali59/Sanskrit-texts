@@ -647,3 +647,61 @@ Structure is mūla interleaved with the Sanskrit ṭīkā (`सुधावर�
 separation follows **Āpastamba's** pattern — both layers Sanskrit, split on the daṇḍa-plus-numeral
 terminator — not Dharmasindhu's lexical Hindi/Sanskrit discriminator. Raw tier until that parser
 exists, per G6.
+
+### Siddhānta Śiromaṇi — 11 files supplied 2026-09-02; three are CLEAN, and that changes the route
+
+Priority #8, and the one G26's `shiromani` collision burned. **Three of the four parts are now
+sourced as machine-readable Devanāgarī**, so this text does not need the OCR lane at all.
+
+**Identification, by G26's own prescribed test.** That entry records the Vīraśaiva *Siddhānta
+Śikhāmaṇi* passing a title probe *and* an author-name probe (`भास्कर` appears 11 times in it),
+and names the structural markers as the only thing that separated them. Run against all six
+text files: **`शिवयोगि` = 0 and `शिखामणि` = 0 in every one**, while Bhāskara II's markers are
+abundant. These are the real thing. (`लिङ्ग`/`स्थल` counts are non-diagnostic here — they are
+ordinary Sanskrit words; G26 records the Vīraśaiva text at 967 and 643, two orders of magnitude
+above anything seen here.)
+
+**The quality split is the finding, and it is provable on a single shared verse.** `7404.txt`
+and `1139.txt` both contain the maṅgala verse `॥६॥`:
+
+| | text of `॥६॥` |
+|---|---|
+| `7404.txt` | `वेदस्य चक्षुः किल शास्त्रमेतत् प्रधानताऽङ्गेषु ततोऽस्य युक्ता। अङ्गैर्युतोऽन्यैः परिपूर्णमूर्तिश्चक्षुर्विहीनः पुरुषो न कश्चित्॥६॥` |
+| `1139.txt` | `पधानवाप्रवेन्यू वोऽश्य युक्ता। मुपवा चाइगष्षेप्रय ने नोच्यो। अझै तोम्पैः परिपूर्ण मानि-` |
+
+Same verse, same work, one clean and one unusable. **Do not merge or cross-check these two as
+if they were independent witnesses** — the second is OCR noise, not a variant reading.
+
+| File | Devanāgarī | verse markers | stray Latin | Verdict | Part |
+|---|---:|---:|---:|---|---|
+| `7404.txt` | 426,311 | 935 | **0** | **CLEAN** | *Grahagaṇitādhyāya* — Ānandāśrama 110 |
+| `8252.txt` | 560,002 | 735 | **0** | **CLEAN** | *Golādhyāya* — Ānandāśrama 122, Vāsanābhāṣya + Marīci |
+| `8244.txt` | 220,262 | 364 | 1 | clean | *Līlāvatī* — Ānandāśrama 107, two commentaries |
+| `1274.txt` | 532,141 | 550 | 34 | poor OCR | whole Siddhānta Śiromaṇi + Prabhā Hindi commentary |
+| `1139.txt` | 333,191 | 603 | 63 | poor OCR | *Grahagaṇita*, Vāsanābhāṣya + Śiromaṇiprakāśa |
+| `3328.txt` | 23,141 | 83 | 165 | **rejected** | *Bījagaṇita* + English, S.K. Abhyankar |
+
+Five PDFs accompany them, all `no-text` scans, held under `raw/`: `1706778372` (Ānandāśrama 107,
+Līlāvatī — the page witness for `8244.txt`), `1706617850` (Ānandāśrama 122, Golādhyāya — witness
+for `8252.txt`), `1706607175` (175pp, Sanskrit + commentary, *kṣetravyavahāra* sections),
+`1696318554` (53pp, opens on an errata table), `1736590500` (Hindi tr. by Pandit Udai Narain
+Singh of Madhurapur, Muzaffarpur). One carries a **new digitiser stamp variant** the classifier
+had not seen — `Digitized By Siddhanta eGangotri Gyaan Kosha` — and note it does **not** say
+CC-0, unlike the Dharmasindhu and Muhūrta Mārtaṇḍa stamps. Do not infer CC-0 from the word
+eGangotri.
+
+**Rights.** The Ānandāśrama Sanskrit Series files carry `शके १८५९` (1937 CE) and `शके १८७३`
+(1951 CE), consistent with the series volume numbers; the mūla is 1150 CE and unambiguously
+public domain. **The editorial apparatus's status is not established here and is not asserted** —
+it is very likely clear, but nobody has checked, and this file has already recorded one
+"public-domain work ≠ public-domain file" failure today (G26). **`3328.txt` is NOT staged**: it
+is Prof. S.K. Abhyankar's modern edition and English translation for Bhaskaracharya Pratishthana
+Pune, which it calls its "maiden publication", carrying 1978/1980/1991 — the same category as
+the rejected Raman and Pathak editions.
+
+**Still missing: a clean *Bījagaṇita*.** Three of four parts are covered; the algebra survives
+only in the rejected Abhyankar file and inside the poor `1274.txt`.
+
+**Upstream URLs are unrecorded** — the files arrived by numeric id (an archive.org / e-library
+convention) rather than by link. Record them when known; §"Held sources" already carries four
+Dharmaśāstra `.txt` files with `_unrecorded_` provenance and that gap has cost real time.
