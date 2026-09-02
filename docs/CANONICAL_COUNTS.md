@@ -1564,3 +1564,29 @@ rejected for carrying a number above their chapter's canonical length.
 **The three `@source` decorators that dangled after the deletion now resolve again** —
 `yearly_calendar.py:26,28` and `yearly_gochar.py:29` cite Sūrya Siddhānta 1.1–10 and 2.66, and
 chapters 1 and 2 are held. Chapter 2 verse 66 is present.
+
+### `aryabhatiya` — REPLACED; and `panchasiddhantika`'s source is staged but not yet convertible
+
+**`aryabhatiya`: 80 verses of the canonical 121**, from the Parameśvarācārya-ṭīkā edition
+(`3277.txt`). The converter **refuses to run** if `ब्रह्मगुप्ततनय` — the forgery's impossible
+patronymic — is present. It is absent; the commentary states the salutation as
+`स्वयम्भूप्रणामकरणेन`, to Brahman, and the first verse quoted is the alphabetical-numeral
+`वर्गाक्षराणि वर्गेऽवर्गे…`. Canonical pāda counts 13/33/25/50 are the witness and **गणितपाद
+and गोलपाद land on theirs exactly**.
+
+**Coverage is 80, not the 101 a looser filter gives, and that is deliberate.** This edition
+carries a **Hindi translation**, and without a Hindi filter the extractor admitted
+`बराबर हैं-अर्थात् चारो युगों की…` as scripture. Rejecting Hindi postpositions and copulas, plus
+the numerical tables printed between verses, costs 21 real verses. A missing verse is
+recoverable; a Hindi paraphrase served as Āryabhaṭa is not.
+
+**`panchasiddhantika`: the genuine source is staged and identified, and is NOT yet converted.**
+`8801.txt` is **Thibaut and Sudhākara Dvivedī's** edition — the one this file already names —
+confirmed by all five siddhānta names (`पौलिश` 36, `रोमक` 74, `सौर` 54, `वासिष्ठ`, `पैतामह`) and
+decisively by the epoch: **427 present, 425 absent**, where the deleted forgery stated 425.
+
+**Why it is not converted: the edition is not linear.** Its 18 `CHAPTER` headings sit at offsets
+498271–678463 — that is the **English translation at the end of the book** — and the Sanskrit
+section's own colophons run out of order: the 6th adhyāya at @199821, the 10th at @214926, the
+4th at @332344, the 18th at @497654. An offset table cannot segment it. *Needs:* the ordering
+resolved against the chapter colophons' ordinals rather than their positions.

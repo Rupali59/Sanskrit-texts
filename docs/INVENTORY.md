@@ -128,7 +128,7 @@ titles at all — so there is nothing to separate.
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| ~~`aryabhatiya`~~ | — | — | — | **DELETED 2026-09-02** | Fabricated; removed rather than left serving. Git history keeps it. No source of any kind is held. |
+| `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 80 | 0% | **REPLACED 2026-09-02.** Genuine text from the Parameśvarācārya-ṭīkā edition; 2 of 4 pādas land on their canonical count. Coverage is 80 of 121 because the Hindi-translation filter is deliberately aggressive. |
 | ~~`panchasiddhantika`~~ | — | — | — | **DELETED 2026-09-02** | Fabricated; removed rather than left serving. A two-column scan IS held — use `--psm 3`. |
 | `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 11 | 280 | 0% | **REPLACED 2026-09-02.** The fabricated text was deleted and the genuine work re-digitised from a clean Rashtriya Sanskrit Sansthan e-text. **8 of 11 chapters land on their canonical last verse** — the strongest witness of any text here. |
 | `bijaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 150 | 0% | **Least corroborated of the four parts** — its bound (187) is self-derived, with no ToC and no attested total for this edition. Mūla only, from a bilingual edition whose terms are in SOURCES. |
