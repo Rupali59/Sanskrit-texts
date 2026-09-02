@@ -104,7 +104,7 @@ titles at all — so there is nothing to separate.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `mandukya_upanishad` | [`Upanishad/atharvaveda/Mandukya`](../Upanishad/atharvaveda/Mandukya) | 1 | 12 | 0% | firm |
-| `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 7 | 65 | 0% | range |
+| `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 3 | 65 | 0% | **RE-PARSED 2026-09-02** — was 7 flat chapters mis-numbered by one. Now 3 muṇḍakas × 2 khaṇḍas, all six exactly canonical (9/13/10/11/10/11 = 64), plus the śānti as `0.1`. |
 | `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 0% | range |
 | `kaivalya_upanishad` | [`Upanishad/krishna-yajurveda/Kaivalya`](../Upanishad/krishna-yajurveda/Kaivalya) | 3 | 24 | 0% | firm |
 | `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 0% | range |
