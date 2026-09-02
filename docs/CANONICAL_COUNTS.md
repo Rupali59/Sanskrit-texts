@@ -1617,3 +1617,26 @@ editorial question rather than a parsing one.
 witness to the adhyāya sequence — that is why it was acquired. **Do not segment on ordinals
 alone**; require that a colophon name no other siddhānta, and anchor on `अध्यायः` rather than a
 bare ordinal so `सप्तमश्लोक` cannot masquerade as a chapter.
+
+##### The Lahore witness did NOT settle the ordering — measured 2026-09-02
+
+422 pages OCR'd, and **the OCR is good**: `सिद्धान्त` 240 occurrences against 0 corruptions,
+`चन्द्र` 315 vs 9, `ग्रहण` 60 vs 0 — far better than the Sūrya Siddhānta scan that had to be
+abandoned. The reading is not the problem.
+
+**The problem is that this edition is the *Prakāśikā commentary*, and it does not print the
+mūla's chapter colophons in usable form.** Anchoring on `ध्याय` and excluding other siddhāntas'
+colophons yields **2** ordinal-bearing colophons (4 and 13) against Thibaut's 9. `अध्याय` as a
+standalone string appears **0** times — sandhi renders it `ोऽध्यायः` — so probe for `ध्याय`,
+never the bare word.
+
+Its verse markers are also unusable as-is: ranges of `0..12508` and `0..747097` show page and
+computation numbers being caught alongside verse numbers, at 33–41% contiguity.
+
+**So `panchasiddhantika` stays out of the corpus, and the remaining question is editorial, not
+technical.** Thibaut reconstructed a fragmentary text; chapters 13–18 are attested in sequence in
+his edition and the early chapters are not. Settling them needs either a scholarly concordance of
+Thibaut's chapter divisions, or a decision to import **only the attested tail** and record the
+rest as absent. **The second is available now and is the smaller claim** — 13 `त्रैलोक्यसंस्थान`,
+14 `छेद्यकयन्त्राणि`, 15 `ज्योतिषोपनिषत्`, 16 `ताराग्रहस्फुटीकरण`, 18 `ताराग्रहाः` — but it is a
+call about what "holding Pañcasiddhāntikā" should mean, so it has not been taken.
