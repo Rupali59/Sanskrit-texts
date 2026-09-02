@@ -43,15 +43,12 @@ layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `d
 **Every text is on the one-file rule as of 2026-09-02** — the last holdout, `ApastambaDharmaSutra`, was re-digitised by `scripts/sanskrit-convert/apastamba.py`.
 
 **13 texts are undigitised** (no JSON) **and 11 have no directory** — README-only dirs drained
-2026-09-02, `git rm` took the empty parents. All 13 with author, period, why-wanted **and
-whether a source is now held** are in [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised",
-the only record. Do not restate.
-
-**Undigitised no longer implies unsourced** (2026-09-02): six of the 13 have a source in hand.
-`MuhurtaMartanda` in particular now HAS a usable one — a CC-0 eGangotri scan superseding the
-CCITT dead end — so this file's former "neither Garga nor Muhūrta has a source waiting" is half
-retired. `GargaSamhita` still has none, but the distinct jyotiṣa `GargaHora` does. Detail:
-[`docs/SOURCES.md`](./docs/SOURCES.md).
+2026-09-02, `git rm` took the empty parents. All 13, with author, period, why-wanted and
+**whether a source is now held**, are in [`docs/INVENTORY.md`](./docs/INVENTORY.md). Do not
+restate. **Undigitised no longer implies unsourced** (2026-09-02): six of the 13 hold sources,
+and `MuhurtaMartanda` now HAS a usable one (CC-0 scan, superseding the CCITT dead end) — so
+this file's former "neither Garga nor Muhūrta has a source waiting" is half retired.
+`GargaSamhita` still has none; the distinct jyotiṣa `GargaHora` does. [`docs/SOURCES.md`](./docs/SOURCES.md).
 
 ## Uniform JSON schema
 
