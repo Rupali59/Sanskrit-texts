@@ -686,7 +686,11 @@ if they were independent witnesses** — the second is OCR noise, not a variant 
 Five PDFs accompany them, all `no-text` scans, held under `raw/`: `1706778372` (Ānandāśrama 107,
 Līlāvatī — the page witness for `8244.txt`), `1706617850` (Ānandāśrama 122, Golādhyāya — witness
 for `8252.txt`), `1706607175` (175pp, Sanskrit + commentary, *kṣetravyavahāra* sections),
-`1696318554` (53pp, opens on an errata table), `1736590500` (Hindi tr. by Pandit Udai Narain
+`1696318554` (53pp — **misidentified on first pass as "an errata table"**; it is a complete
+**Līlāvatī, Benares Sanskrit Series No. 153**, edited by the pandits of the Benares Sanskrit
+College under **G. Thibaut** — 19th century and unambiguously public domain. The first pass
+sampled pages 1–5, hit an `अशुद्धम्` corrigenda leaf, and stopped. **Sampling the front of a
+scan identifies its front matter, not the volume**), `1736590500` (Hindi tr. by Pandit Udai Narain
 Singh of Madhurapur, Muzaffarpur). One carries a **new digitiser stamp variant** the classifier
 had not seen — `Digitized By Siddhanta eGangotri Gyaan Kosha` — and note it does **not** say
 CC-0, unlike the Dharmasindhu and Muhūrta Mārtaṇḍa stamps. Do not infer CC-0 from the word
@@ -836,3 +840,44 @@ possible here.
 volume (the Līlāvatī *pūrvārdha* and the Grahagaṇita *uttarārdha* are separate Ānandāśrama
 numbers and would supply both the missing halves and, if they carry one, a ToC); a printed
 edition's verse counts; or a second digitisation to diff against. Contiguity is not a witness.
+
+#### The witness arrived: a second, independent Līlāvatī
+
+**`1696318554.pdf` is the complementary volume the section above asks for**, and it was already
+in the tree — supplied 2026-09-02 with the other ten files and filed as an errata leaf.
+
+| | `8244.txt` | `1696318554.pdf` |
+|---|---|---|
+| Edition | Ānandāśrama 107, Śaka 1859 = 1937 | **Benares Sanskrit Series 153**, ed. under G. Thibaut, 19th c. |
+| Form | clean machine-readable Devanāgarī | scan, no text layer, 53pp |
+| Covers | `उत्तरार्धरूपो द्वितीयो भागः` — second half, from `क्षेत्रव्यवहार` | **from `परिभाषा`** — its ToC runs `परिभाषा · संख्यास्थाननिर्णयः · सङ्कलितव्यवकलिते · गुणनप्रकारः · भागहारः · वर्गः · वर्गमूलम् · घनः · घनमूलम् · भागजातिः · … · त्रैराशिकम्` |
+
+So between them the two halves are covered, **and they are independent editions of the same
+text a century apart** — which is a stronger position than either alone. A verse present in
+both, agreeing, is corroborated; a verse in only one is a finding.
+
+**Do not merge them into one file without recording which edition each verse came from.**
+`rule:discernment-checks` §5 — comparing unlike things is how this corpus produced two of its
+worst numbers, and two editions of one work are exactly the case where the distinction stops
+being obvious.
+
+Thibaut also edited the Pañcasiddhāntikā whose edition `CANONICAL_COUNTS.md` records, so the
+same hand is behind two of this corpus's witnesses.
+
+##### …and why Līlāvatī is harder than Golādhyāya even with the witness in hand
+
+**In a mathematics treatise the numerals are the CONTENT.** Golādhyāya is astronomy in verse,
+so a Devanāgarī number between daṇḍas is almost always a verse number. Līlāvatī is arithmetic:
+worked examples print quantities in the same script, between the same daṇḍas, on the same
+lines. Measured on the Benares OCR — 262 markers, **84 descents, only 33% of steps are +1**,
+range 1..196 where the work has ~272 verses. The Golādhyāya converter's core assumption does
+not hold here.
+
+So the Benares volume is a good **corroborating witness for text** — its OCR reads at 81–88%
+word accuracy on probe words, against the Sūrya Siddhānta scan's 6–34% — but **not** a witness
+for numbering. Getting Līlāvatī right needs a way to separate a verse number from a quantity,
+and neither file supplies one on its own.
+
+*The pairing is still the way in:* `8244.txt` is clean text for the second half and can be read
+for structure, while the Benares scan covers the first half and can corroborate wording. Neither
+alone is enough, which is the honest position and is worth more than a plausible merge.
