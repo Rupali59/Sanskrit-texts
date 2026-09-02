@@ -450,12 +450,16 @@ or **OCR of scans** — and Muhūrta Mārtaṇḍa already showed what that cost
 needing mūla, Sanskrit ṭīkā and Hindi bhāṣā-ṭīkā separated. **Both were declined 2026-08-25**;
 the eleven are recorded as unsourceable rather than pending.
 
-> **Superseded in part, 2026-09-02 — 2 of the 11 are now acquired.** Rupali supplied CC-0
-> eGangotri scans of **Dharmasindhu** and **Nirṇayasindhu**, and the OCR route that was declined
-> above was taken for both; see §"Dharmasindhu and Nirṇayasindhu" at the end of this file. The
-> cost estimate above was not wrong — the separation work it names is still outstanding — but
-> "unsourceable" now describes **nine**, not eleven. The remaining nine are unchanged, and the
-> blocker on `brahmasphuta_siddhanta` is licence, not availability.
+> **Superseded in part, 2026-09-02.** Rupali supplied CC-0 eGangotri scans and the OCR route
+> declined above was taken. **Acquired: `Dharmasindhu`, `Nirṇayasindhu`, `MuhurtaMartanda`** —
+> each recorded in its own section at the end of this file. **Rejected on copyright, so still
+> unsourced: `PrasnaMarga`** (the B.V. Raman edition). The cost estimate above was not wrong —
+> the mūla/ṭīkā separation it names is still outstanding for all three.
+>
+> **Do not restate a remaining-count here**; this note carried "nine" for one hour before
+> Muhūrta Mārtaṇḍa arrived and made it eight. The acquired list above is the fact; subtract it
+> from the eleven in §"Source survey" when you need the number.
+> `brahmasphuta_siddhanta`'s blocker remains licence, not availability.
 
 
 ## Dharmasindhu and Nirṇayasindhu — acquired by scan, OCR'd 2026-09-02
@@ -493,3 +497,153 @@ classified a plainly-Hindi line as Sanskrit.
 
 **The ṭīkā is an asset, not only an obstacle.** Hindi is one of the corpus's two target
 languages, and a human Hindi rendering outranks any machine draft.
+
+### Praśna Mārga — a scan was supplied 2026-09-02 and REJECTED on copyright
+
+`Panangadu_Nambudhiri_-_Prasna_Marga_(Part_I).pdf`, 745pp, 18 MB, no text layer. Priority #5
+of the eleven. **Not ingested, and the reason is not fixable by better tooling.**
+
+Its own front matter settles it:
+
+> First Edition: Bangalore, 1980 · Second Edition: Delhi, 1991
+> **© Copyright Dr. B.V. Raman, 1991 · All rights reserved**
+> ISBN 81-208-0914-9 · **Motilal Banarsidass Publishers Pvt. Ltd.**
+
+Title page: *"Praśna Mārga — English Translation with Original Text in Devanagari and Notes by
+Bangalore Venkata Raman"*. The filename names the traditional author (a Nambūdiri of Panangadu,
+Kerala, 16th–17th c.) and **the PDF metadata names the real one**: `Prasna Marga I - B.V.
+RAMAN.djvu`. B.V. Raman died in 1998, so the edition is in copyright for decades yet and the
+publisher is still trading.
+
+**The split that matters.** The Devanāgarī *stanzas* are public domain — the work is 16th–17th
+century. Raman's translation, notes, and this edition's arrangement are **not**. Sampling p.121
+shows them interleaved stanza-by-stanza (`॥११५॥` followed by `Stanza 115.—Watch the questioner
+as to how he stands…`), with whole pages of Raman's own commentary between.
+
+**So a mūla-only extraction is the one defensible route, and it is still not worth taking:**
+
+- OCR would capture the copyrighted translation wholesale; separating it is the *same* problem
+  as Dharmasindhu's ṭīkā split, but with legal stakes rather than merely editorial ones.
+- The Devanāgarī OCR off this scan is **poor** — p.121 yields
+  `दोषाय atuaed हि तख यतिः सिरा तख`, mixing Latin garbage into the stanza.
+- There is **no second witness to proof it against**. That is precisely why Praśna Mārga is on
+  the unsourced list; a lone bad OCR of a copyrighted edition is the worst of both.
+- It is **Part I only** — chapters I–XVI of 32.
+
+**This corpus is public and feeds a paid practice's API.** `LICENSES.md` §"The NonCommercial
+question" records that tension as unresolved for *NonCommercial* sources; "all rights reserved"
+is strictly worse and is not arguable. Contrast eGangotri (§above), which is CC-0 and dissolves
+the question entirely.
+
+**What would actually source this text:** a Devanāgarī witness that is not a modern translator's
+edition. Praśna Mārga remains ABSENT from sanskritdocuments, SARIT, Wikisource and archive.org's
+jyotiṣa index. **Do not re-acquire the Raman edition** — this entry exists so the next person
+recognises it before spending 745 pages of OCR on it.
+
+### Muhūrta Mārtaṇḍa — a SECOND scan, CC-0 and usable, 2026-09-02
+
+**This supersedes every "no usable source" claim about this text in this file** — §"Two sources
+that were not what they looked like", §"Absent everywhere checked", and the cost estimate in
+§"What this means for the eleven" that cites it as the worked example of why OCR was declined.
+Those describe `Muhurta/MuhurtaMartanda/1759902040.pdf`, **154 pages of `tiff2pdf`-wrapped CCITT
+bitmaps**, and remain true of that file. A different and better scan now exists beside it.
+
+| | |
+|---|---|
+| File | `Muhurta/MuhurtaMartanda/raw/MuhurtaMartanda-chaukhamba-eGangotri.pdf` |
+| Pages | 188 · 126 MB · no text layer |
+| Licence | **CC-0** — `CC-0. Mumukshu Bhawan Varanasi Collection. Digitized by eGangotri` |
+| Edition | ed. **Kapileśvara Śāstrī** (Maithil paṇḍita, Jñānodaya Sanskrit Mahāvidyālaya, Patna), with the *sānvaya Mārtaṇḍaprakāśikā* Sanskrit commentary |
+| Publisher | Chaukhamba Sanskrit Sansthan, Varanasi · Kāśī Sanskrit Granthamālā 146 |
+| Printing | third edition, **Vikrama Saṃvat 2039 = 1982 CE**, ₹12 |
+
+**Identified from the title page, not the filename** — `martanda` is one of the nine G26
+collisions, having previously matched Bhoja's **Rājamārtaṇḍa**, a Yoga-sūtra commentary. The
+title page reads `श्रीनारायणदैवज्ञविरचितः मुहूर्तमार्तण्डः` — *composed by Nārāyaṇa Daivajña* — which
+is the target author for the 1571 muhūrta manual, and is decisively not Bhoja.
+
+**On rights, and the contrast with Praśna Mārga two sections above.** Both were supplied the
+same day; one is rejected and this one is not, so the distinction should be explicit. The Raman
+Praśna Mārga carries `© Copyright Dr. B.V. Raman, 1991 · All rights reserved` from a publisher
+still trading, over a translation by a man who died in 1998. This carries **no rights
+reservation in its front matter**, its apparatus is a Sanskrit commentary rather than a modern
+translation, and the digitiser asserts CC-0. The *mūla* is 1571 and public domain either way.
+**The 1982 printing is a printing, not necessarily the commentary's date** — Kāśī Sanskrit
+Granthamālā 146 places the first edition considerably earlier. Not researched further, because
+nothing here turns on it; if the commentary is ever to be published rather than used as
+apparatus, it should be.
+
+**Why this text is wanted** (`INVENTORY.md:268`): it is the independent cross-check on the
+muhūrta windows now that Muhūrta Cintāmaṇi is held — and **where two manuals diverge, as the
+durmuhūrta weekday positions do, the divergence is what to surface for Vipin, not something to
+resolve silently.** A second witness is the entire point, so this must not be reconciled against
+Cintāmaṇi during digitisation.
+
+OCR to `MuhurtaMartanda.{san,hin}.txt`, raw tier, G6. Note the prior
+`raw_muhurta_martanda_ocr.txt` (842 KB) came off the **CCITT scan** and is not the same artifact.
+
+### Garga Horā Śāstra — supplied 2026-09-02 and REJECTED on copyright
+
+`Garga Hora Shastra Pathak K.K..pdf`, 158pp, 6.5 MB, no text layer, **no digitiser stamp** (so
+no CC-0 claim — unlike the eGangotri scans). Priority #9. **Not ingested.**
+
+> GARGA HORA SHASTRA — **By K.K. Pathak** · Nishkaam Peeth Prakashan
+> (Publication Division of *The Times of Astrology*) · First Edition: **1999**
+> **© Rajeshwari Shanker Associates. All rights reserved. No part of this book may be used or
+> reproduced in any manner whatsoever without written permission from the publisher** except
+> in the case of brief quotations embodied in critical essays and reviews.
+> ISBN 81-87528-11-7
+
+**It does contain the Devanāgarī mūla — record that correctly, because the first reading of
+this file got it wrong.** The contents page lists *"House-Wise Effects of Moon / Mars / …"*,
+which reads like a modern English handbook with no source text, and the foreword calls the book
+*"a unique commentary on & elucidation over the principles enshrined in … classics like Garga
+Hora"*. Both suggested there was nothing to extract. **A content page disproves it**: p.42 runs
+śloka, then Hindi, then English, per verse —
+
+> `द्रव्यपतिः लग्नगतः कृपणं व्यवसायिनं सुकर्माणम् ।`
+> `धनिनं श्रीपतिविदितं करोति नरमतुलभोगयुतम् ॥`
+
+So the rejection rests on **rights alone**, and the ground it does *not* rest on is worth
+naming: rejecting it as "not a source text" would have been the right answer for the wrong
+reason, and would have mis-recorded what the file is for whoever finds it next.
+
+**Why it is nonetheless a firmer no than the Raman Praśna Mārga.** That edition asserts
+`© 1991, all rights reserved`; this asserts **1999** plus an explicit prohibition on
+reproduction *in any manner whatsoever*. Same entanglement — public-domain mūla inside a
+copyrighted modern apparatus, here Hindi **and** English — with a later date and a stronger
+clause. `LICENSES.md` §"The NonCommercial question" governs; this is not NonCommercial, it is
+all-rights-reserved.
+
+**What it does settle, and this is worth having.** The **jyotiṣa** Garga Horā is a real text
+that exists in print with a substantial Devanāgarī mūla, and it is **not** the devotional
+`गर्गसंहिता` that G26's first collision matched (the Vaiṣṇava Purāṇa, assigned to Youvan
+2026-08-23 as nāma-mantra). Those are two different works and only the horā is Vipin's. What to
+look for is a Devanāgarī witness that is not a modern translator's edition — a pre-1964 printing
+or a manuscript transcription. **Do not re-acquire the Pathak edition.**
+
+### Sūrya Siddhānta — the replacement for a fabricated text, OCR'd 2026-09-02
+
+**Already held, never OCR'd.** `Siddhanta/SuryaSiddhanta/1770115260.pdf`, 345pp, `no-text`
+tier — in this tree the whole time the corpus was serving a **fabricated** `surya_siddhanta`
+under three live astroacharya citations. It went un-OCR'd because the OCR lane was unmeasured
+and OCR of commentary editions had been declined; both of those changed on 2026-09-02.
+
+| | |
+|---|---|
+| Edition | *Sūryasiddhānta*, ed. with the **Sudhāvarṣiṇī** commentary by Mahāmahopādhyāya **Sudhākara Dvivedī** |
+| Published | Asiatic Society of Bengal, Calcutta, **1925** (Baptist Mission Press) |
+| First edition | Bibliotheca Indica Nos. 1187 (1909) and 1296 (1911) |
+| Rights | **Public domain** — editor died **1922**, per the prefatory note; publication 1909–1925 |
+| OCR | `SuryaSiddhanta.{san,hin}.txt` — 311,251 / 320,147 Devanāgarī characters |
+
+**Identified from content, both directions.** The attested incipit
+`अल्पावशिष्टे तु कृते मयो नाम महासुरः` is present at `SuryaSiddhanta.san.txt:330`; the held
+corpus text's opening `प्रणम्य शिरसा देवं` appears **zero times in 345 pages**. The second check
+is the valuable one — it re-confirms the fabrication using a physical witness and full-text
+search, where the original finding rested on incipit reasoning alone.
+
+Structure is mūla interleaved with the Sanskrit ṭīkā (`सुधावर्षिणी टीका` in the running head), so
+separation follows **Āpastamba's** pattern — both layers Sanskrit, split on the daṇḍa-plus-numeral
+terminator — not Dharmasindhu's lexical Hindi/Sanskrit discriminator. Raw tier until that parser
+exists, per G6.
