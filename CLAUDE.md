@@ -43,9 +43,10 @@ layer: `.json` + `README.md` and nothing else. `.gitignore` enforces it.
 **2 texts do not yet follow the one-file rule** — the two Āpastamba dirs, still on the
 `sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24.
 
-**13 text directories are undigitised** — a `README.md` and nothing else, so INVENTORY
-cannot see them by construction (it defines a text as a dir holding JSON). They are listed
-in [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised"; do not restate them here.
+**13 text directories are undigitised** — 11 holding a `README.md` and nothing else, 2
+holding only a `.placeholder`. Neither shape has JSON, so INVENTORY cannot see them by
+construction (it defines a text as a dir holding JSON). They are listed in
+[`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised"; do not restate them here.
 
 **Neither `GargaSamhita` nor `MuhurtaMartanda` has a usable source waiting**, despite older
 notes saying so — both claims died on inspection 2026-08-23. Detail:
@@ -145,8 +146,11 @@ cost two sessions and was thrown away when it was re-acquired whole from SARIT i
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
 [`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
 
-Placeholder-only dirs with no JSON (`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`,
-`SarvarthaChintamani`, `PrashnaMarga`) have no `text_id` and are the only genuine stubs.
+The only placeholder-only dirs are `JaiminiSutras` and `ChandraKalaNadi` — a `.placeholder`
+and nothing else. This line named `JatakaTattvam`, `SarvarthaChintamani` and `PrashnaMarga`
+alongside them until 2026-09-02; all three carry a `README.md` and no `.placeholder`, so they
+belong to the 13 undigitised above rather than to a separate class. None of the 13 has a
+`text_id`.
 
 ## Translation workflow
 

@@ -204,9 +204,11 @@ Praśna→Paṭala→Khaṇḍa→sūtra structure. See
 | `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 1 |
 | `apastamba_paribhasha_sutra` | [`Dharmashastra/ApastambaParibhashaSutra`](../Dharmashastra/ApastambaParibhashaSutra) | 1 |
 
-## Undigitised — a README and nothing else
+## Undigitised — no JSON, so no `text_id`
 
-No JSON, so no `text_id`, and the one-liner cannot see them by construction:
+The one-liner cannot see them by construction. Eleven hold a `README.md` and nothing else;
+`JaiminiSutras` and `ChandraKalaNadi` hold a `.placeholder` instead and have no README, which
+this heading claimed of all thirteen until 2026-09-02:
 `JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`, `SarvarthaChintamani`, `PrashnaMarga`,
 `BrahmasphutaSiddhanta`, `SiddhantaShiromani`, `GargaSamhita`, `Atharvaveda`, `Samaveda`,
 `Dharmasindhu`, `NirnayaSindhu`, `MuhurtaMartanda`.
