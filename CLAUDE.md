@@ -138,7 +138,7 @@ print(t)"
 ### Off-schema — CLOSED 2026-09-02
 
 `apastamba_dharma_sutra` was the last one. Re-digitised from `4617.txt` by
-`scripts/sanskrit-convert/apastamba.py`: **1,314 sūtras**, citation `praśna.khaṇḍa.sūtra`,
+`scripts/sanskrit-convert/apastamba.py`: **1,315 sūtras**, citation `praśna.khaṇḍa.sūtra`,
 externally checked against the canonical opening (1.1 `अथातः…`, 1.2 `धर्मज्ञसमयः प्रमाणम्`,
 1.3 `वेदाश्च`). **46 sūtras are ABSENT from the OCR and were recorded, never invented** — the
 parser prints every one with its khaṇḍa and line. The prior digitisation's 1,437 records,
@@ -148,9 +148,7 @@ with it; the new text lands `untranslated`.
 cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
 [`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
-A parser exists — `scripts/sanskrit-convert/apastamba.py` — and correctly **blocks**: 31 of 61
-khaṇḍas fail its contiguity guard. `JaiminiSutras` and `ChandraKalaNadi` are the only surviving
-stub dirs. None of the 13 undigitised texts has a `text_id`.
+`JaiminiSutras` and `ChandraKalaNadi` are the only surviving stub dirs. None of the 13 undigitised texts has a `text_id`.
 
 ## Translation workflow
 
