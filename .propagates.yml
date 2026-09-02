@@ -13,7 +13,7 @@
 # Deliberately NOT declared: individual chapter JSON (too granular — thousands of files,
 # would flood the ledger). INVENTORY.md is the single coarse edge: text-level changes only.
 #
-# Paths are relative to this file. Schema: ~/.claude/skills/propagate/propagates.schema.json
+# Paths are relative to this file. Schema: ~/Documents/GitHub/propagate/propagates.schema.json
 
 sources:
   docs/INVENTORY.md:
