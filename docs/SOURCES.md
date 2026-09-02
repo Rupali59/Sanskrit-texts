@@ -903,3 +903,28 @@ A second witness gives the adhyāya sequence independently.
 Identified by sampling the **middle** (G34): p.200 carries `पञ्चसिद्धान्तिकाप्रकाशिका` with
 mandaphala/kendra computation, and p.410 the English *"When Mars is retrograde in Pisces…"*.
 The title page alone would have given only the imprint.
+
+### Bṛhadāraṇyaka — a DEVANĀGARĪ edition, which is what both other sources lacked
+
+Supplied 2026-09-02 as `1781600259.pdf`, **989pp**, 57 MB, `no-text` scan. Staged at
+`Upanishad/shukla-yajurveda/Brihadaranyaka/raw/Brihadaranyaka-devanagari-989pp.pdf`.
+
+**It answers both blockers recorded against this text on the same day:**
+
+| | held `brinew-proofed.html` | GRETIL TEI | this scan |
+|---|---|---|---|
+| Script | Devanāgarī | **IAST only** — 0 Devanāgarī | **Devanāgarī** |
+| `SF` contamination | **4,317 markers** | 0 | to be measured |
+| Citation structure | none usable | 773 attribute-less `<div>`s | **running heads carry `3.1.6`, `3.1.8`, `6.4.5`** |
+
+**The running heads are the witness.** Every page prints the canonical
+**adhyāya.brāhmaṇa.mantra** reference — `[3.1.6`, `3.1.8]`, `6.4.5] BRHADARANYAKA UPANISAD 933` —
+which is exactly the three-level structure the held text cannot express and the GRETIL markup
+does not encode.
+
+Bilingual: Devanāgarī mūla (`पृथिवी रसः, पृथिव्या आपः, अपामोषधयः … ॥ १ ॥`) with facing English,
+`SECTION` headings, and Śaṅkara's commentary — from the translator's preface it is very likely
+Swāmī Mādhavānanda's Advaita Ashrama edition.
+
+Identified by sampling the **middle and end** (G34); the front matter is translator's preface and
+would have said nothing about the structure.
