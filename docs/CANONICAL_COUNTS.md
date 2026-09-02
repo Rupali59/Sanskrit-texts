@@ -1689,3 +1689,33 @@ five-siddhānta naming verse and 18.65 the colophon naming Varāhamihira. The co
 to run** if the epoch reads 425 rather than 427.
 
 Absences are recorded per chapter; ch18 is the largest gap at 65 of 81.
+
+### `taittiriya_samhita` — RE-PARSED, and the count went DOWN on purpose
+
+**2,294 verses → 650 anuvākas.** The old file carried **1,126 duplicates (49%)**, every one of
+which **ingested**, because the copies held *distinct* `(chapter, number)` keys and the seeder's
+dedupe only catches identical ones — G8's mirror image.
+
+**Deduplication would not have fixed it**, which is why this was a re-parse. The old `text`
+fields carried the source's own running number stranded inside the string, and the assigned
+numbering was an unrelated sequential renumber; dropping copies would have left anuvāka-sized
+blobs still mis-labelled as verses.
+
+**The source had the right answer printed in it all along.** Every anuvāka in
+`taittirIyasamhitA.html` ends with its canonical three-level citation —
+`॥ इषे त्रिचत्वारिꣳशत् ॥ १। १। १॥` — i.e. **kāṇḍa . praśna . anuvāka**. Parsing on that gives:
+
+| | got | canonical |
+|---|---:|---:|
+| anuvākas | **650** | 651 |
+| (kāṇḍa, praśna) pairs | **44** | 44 |
+
+Both are external checks the old file could not have passed. Per kāṇḍa: 145, 75, 55, 82, 120,
+66, 107.
+
+`number` is now `"praśna.anuvāka"` with `chapter` the kāṇḍa, matching `ApastambaDharmaSutra`'s
+three-level convention. **This renumbers the text; nothing cites any Vedic Saṃhitā**, so G7 does
+not apply.
+
+Verified: **zero duplicate keys and zero duplicate texts**, where there were 1,126. Corpus-wide
+duplicate texts fell from ~1,915 to 789 — the remainder is other texts, not this one.

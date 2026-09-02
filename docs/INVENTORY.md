@@ -82,7 +82,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `atharvaveda_samhita` | [`Veda/atharvaveda/ShaunakaSamhita`](../Veda/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 0% | range |
-| `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 2,294 | 0% | unit_mismatch |
+| `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 650 | 0% | **RE-PARSED 2026-09-02** — was 2,294 verses with 1,126 duplicates (49%), all ingesting. Now 650 anuvākas against canonical 651, in the canonical 44 (kāṇḍa, praśna) pairs, numbered `praśna.anuvāka` from the source's own citations. |
 | `rigveda_samhita` | [`Veda/rigveda/ShakalaSamhita`](../Veda/rigveda/ShakalaSamhita) | 10 | 10,470 | 0% | range |
 | `samaveda_samhita` | [`Veda/samaveda/KauthumaSamhita`](../Veda/samaveda/KauthumaSamhita) | 1 | 1,866 | 0% | range |
 | `shukla_yajurveda_samhita` | [`Veda/shukla-yajurveda/VajasaneyiMadhyandinaSamhita`](../Veda/shukla-yajurveda/VajasaneyiMadhyandinaSamhita) | 40 | 1,965 | 0% | range |
