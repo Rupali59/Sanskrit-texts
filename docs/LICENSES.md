@@ -121,6 +121,39 @@ a GRETIL text cannot be treated as reusable without reading its individual heade
 
 Also note GRETIL's Vedic files are frequently **IAST Roman, not Devanagari**.
 
+**Worked example, surveyed 2026-09-02.** `sa_brahmagupta-brAhmasphuTasiddhAnta.xml` — the
+only one of the eleven undigitised texts found in any channel — carries in its own header:
+
+> "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+> International License."
+
+plus GRETIL's standard good-faith clause. A different GRETIL file, Vijñāneśvara's
+*Mitākṣarā*, instead carries `status="restricted"` with named rightsholders. **Two files, two
+incompatible terms** — which is the concrete proof of "read the individual header", not an
+abstraction. `TITUS`, which hosts what appears to be the same Hayashi digitisation, is
+stricter still: *"No parts of this document may be republished in any form without prior
+permission by the copyright holder."*
+
+---
+
+## The NonCommercial question — unresolved, and it is a decision not a lookup
+
+**Every reusable licence this corpus has found for new material is NonCommercial**, and this
+repository is public and its data is served through AstroAcharya's `/texts` API, which is the
+funnel for a paid consultation practice. Those two facts have not been reconciled.
+
+- **CC BY-NC-SA 4.0** (the Brāhmasphuṭasiddhānta file) permits redistribution with attribution
+  and share-alike, **but not commercial use**. Whether a free public API that feeds a paid
+  practice is "commercial use" is genuinely arguable and has not been argued here.
+- **TITUS** forbids republication without prior permission outright — and republication is
+  exactly what this repo does.
+- §2 already records the same unresolved tension for Sanskrit Documents.
+
+**This is not a blocker to be engineered around.** The route that opens `brahmasphuta_siddhanta`
+is asking the rights holder, which is a human act. Recorded here so that the next person to
+find a NonCommercial source does not quietly treat the question as settled because a file was
+downloadable.
+
 ---
 
 ## 3b · SARIT — `sarit.indology.info` · `github.com/sarit/SARIT-corpus`

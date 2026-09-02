@@ -255,7 +255,7 @@ survive as `.placeholder` directories. This table is now the sole record of all 
 | `SarvarthaChintamani` | Veṅkaṭeśa Śarmā · 13th c. | House significations in unusual depth; standard in South Indian practice. |
 | `PrashnaMarga` | unknown, Kerala tradition · 16th–17th c. | The primary text of the Kerala horary (praśna) tradition. |
 | `JatakaTattvam` | unknown · medieval | Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. |
-| `BrahmasphutaSiddhanta` | Brahmagupta · 628 | Siddhānta astronomy. |
+| `BrahmasphutaSiddhanta` | Brahmagupta · 628 | Siddhānta astronomy. **The only one of the eleven with a machine-readable source anywhere** (GRETIL + TITUS, from Dvivedin's Benares 1902 ed.) — and still not takeable: 5 of 24 chapters, transliterated not Devanāgarī, and both licences bar what this corpus does. [`SOURCES.md`](SOURCES.md), [`LICENSES.md`](LICENSES.md). |
 | `SiddhantaShiromani` | Bhāskara II · 1150 | Siddhānta astronomy. **Name collision** — see [`SOURCES.md`](SOURCES.md). |
 | `GargaSamhita` | Garga (trad.) · date disputed, possibly pre-Varāhamihira | Omens, planetary portents, mundane prediction. Multiple recensions; the complete text is hard to establish. **No source waiting** — the file under this name is the Vaiṣṇava Purāṇa. |
 | `Vedanga-Jyotisha/Atharvaveda` · `/Samaveda` | Lagadha tradition | **Lost — no extant manuscript located.** Only the Ṛgveda (36 verses) and Yajurveda (43) recensions survive, sharing 29 verses. Recorded as absent rather than pending. |

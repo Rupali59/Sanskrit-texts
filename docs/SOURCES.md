@@ -384,6 +384,63 @@ are not held. Measured 2026-08-25: 25 stems, 13 ids, **0 unmapped, 0 unheld**.
 the stem count flatters the corpus by 12, because a chunked text contributes one stem per
 chunk.
 
+### Second survey, 2026-09-02 — the three channels the first one named as untried
+
+The 2026-08-25 survey closed four channels and named three it had not tried: GRETIL,
+Muktabodha, the Vedic Heritage Portal. All three are now surveyed, plus the Digital Corpus
+of Sanskrit and a partial look at TITUS.
+
+**Result: 1 of the 11 exists as machine-readable text, and it is partial and
+licence-blocked.** The other ten are absent from every channel checked.
+
+| Channel | Method | Result |
+|---|---|---|
+| **GRETIL** | full index + update history grepped across transliteration schemes; TEI header opened on every candidate | **1 of 11** — Brāhmasphuṭasiddhānta |
+| **Muktabodha** (public e-text library) | its two public 499-entry title-link lists, fetched directly | **0 of 11** |
+| **Vedic Heritage Portal** | the site's own `?s=` search, per title | **0 of 11** |
+| **Digital Corpus of Sanskrit** | its enumerated text list (~285 titles) | **0 of 11** |
+| **TITUS** | single index pass — **not exhaustive** | 1 found; other ten **UNVERIFIED**, not absent |
+
+**Two Muktabodha sub-collections are UNSURVEYED, not empty.** Its Gokarna Vedic collection is
+login-gated and its IFP catalog needs individual scholarly registration; neither was accessed.
+Both are manuscript images (DjVu/PDF) under CC BY-NC-ND, so a hit in either would be
+scan-only. Recorded as unsurveyed because "not looked at" and "not there" are different facts.
+
+**The absences are structural, which is what makes them a closure rather than a failed
+search.** GRETIL's Nibandha section holds two texts total and its Jyotiṣa section twelve, all
+siddhānta/gaṇita — it has no Muhūrta, Praśna, Jātaka or Nāḍī literature at all. Muktabodha's
+own category breakdown is Śaiva/Tantric/Pāñcarātra/Śrīvidyā/Yoga with no Jyotiṣa or
+Dharmaśāstra category. The Vedic Heritage Portal covers the Vedic canon by design and stops
+before post-Vedic Jyotiṣa. None of the three is worth returning to for this list.
+
+### `brahmasphuta_siddhanta` — available, partial, and licence-blocked
+
+The one find, from **two** channels carrying what is evidently one digitisation — both cite
+S. Dvivedin's Benares 1902 edition, digitised by Takao Hayashi 1993.
+
+| | GRETIL | TITUS |
+|---|---|---|
+| URL | `gretil/corpustei/sa_brahmagupta-brAhmasphuTasiddhAnta.xml` | `texte/etcs/ind/aind/klskt/mathemat/brsphsd/` |
+| Format | TEI XML + HTML + plain text | HTML, UTF-8 |
+| Licence | **CC BY-NC-SA 4.0** | **"No parts of this document may be republished in any form without prior permission by the copyright holder"** (© TITUS Project, 8.12.2008) |
+
+**Three blockers, and the licence is the one that decides it:**
+
+1. **It is not the whole text.** Chapters 12, 18, 19, 20 and stanzas 17–23 of 21 only — the
+   mathematical chapters — of a 24-chapter work. Verified in GRETIL's own TEI header.
+2. **It is transliterated, not Devanāgarī.** The body opens `parikarma-viṃśatim yas
+   saṅkalita-ādyām pṛthak vijānāti`. This is the same script blocker recorded above against
+   SARIT, and needs the same transliteration step.
+3. **Both licences conflict with what this corpus does.** TITUS forbids republication without
+   permission outright, and republication is precisely the act — this repo is public and the
+   text is served through AstroAcharya's `/texts` API. GRETIL's CC BY-NC-SA 4.0 permits that
+   only **non-commercially**, and AstroAcharya is the funnel for a paid consultation practice.
+   See [`LICENSES.md`](LICENSES.md) §"The NonCommercial question".
+
+**So it is not acquirable on today's terms**, and the blocker is legal rather than technical.
+The route that would open it is asking TITUS or the rights holder directly — a human act, not
+a pipeline one.
+
 ### What this means for the eleven
 
 There is no more Jyotiṣa to take from the channels in use. Acquiring any of the eleven needs
