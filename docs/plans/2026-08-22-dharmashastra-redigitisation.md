@@ -73,6 +73,28 @@ touched by this plan's author.
 > the cross-check for the gaps.
 >
 > So the contiguity guard step 5 demands is not just possible, it is the natural output shape.
+> **PARSER BUILT 2026-09-02** — `scripts/sanskrit-convert/apastamba.py`, a sibling of
+> `convert.py` (whose dispatcher is layer-scoped to Veda/Upanishad/Upaveda and expects a
+> `raw/` dir, neither of which fits a bare `.txt` under `Dharmashastra/`). 13 tests in
+> `tests/test_apastamba.py`, both mutation-checked: removing the `--apply` gate and
+> neutering the contiguity guard each turn the suite red for the stated reason.
+>
+> **It runs, and it correctly BLOCKS.** 61 khaṇḍas, 1,313 sūtras. It applies 2 provable OCR
+> digit repairs (`१८`→`३८` and `२८`→`७८`, each pinned by both neighbours) and recovers 3
+> khaṇḍa colophons the OCR dropped (a clean `1..N` restart mid-segment). Then the guard
+> refuses to write: **31 of 61 khaṇḍas are not contiguous**, ~51 sūtras short.
+>
+> **The missing sūtras are present in the file** — they lost their `॥N॥` marker and were read
+> as commentary. Worked example: khaṇḍa 8's sūtra 2 is line 2340, sitting between a gloss on
+> sūtra 1 and a word-by-word gloss of itself.
+>
+> **But positional recovery does NOT work, measured.** The sūtra/commentary alternation is not
+> strict: against gaps, 23 segments match `comm,(sūtra,comm)*k` and **18 do not**, and even the
+> zero-gap baseline is noisy (896 with one intervening line, 151 with two, 47 with four).
+> Auto-recovering on position would misassign roughly 44% of them, and a wrong sūtra number is
+> worse than a blocked parse. **The remaining ~51 gaps need per-case resolution** — against
+> `4605.txt` (the second OCR of the same edition) or by hand.
+>
 > **What is NOT yet established:** which khaṇḍa belongs to which paṭala/praśna (the colophons
 > give ordinals, and only one praśna marker was found in the body), and whether the 2 missing
 > khaṇḍa colophons hide a run-merge. Both need checking before a parser is trusted.
