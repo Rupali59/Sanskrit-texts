@@ -997,6 +997,61 @@ citation `praśna.khaṇḍa.sūtra`. Externally checked: the parse independentl
   rather than smoothed — that list is in the commit messages for the drafting batches and is
   the natural starting point for verification.
 
+### ⚠ THREE SIDDHĀNTA TEXTS ARE FABRICATED — verified 2026-09-02, quarantine before use
+
+`aryabhatiya`, `surya_siddhanta` and `panchasiddhantika` — **559 shlokas, all marked
+`translated`, all serving as citation surfaces** — do not contain the works they claim to.
+Found while looking for OCR ground truth; the scan of Pañcasiddhāntikā and our held text
+share no content at the same verse number.
+
+**The evidence, per text:**
+
+- **`aryabhatiya` 1.1** reads `हरिः तेषां पादानां प्रणम्य परमं स्मरेत् । ब्रह्मगुप्ततनय आर्यभटः
+  सिद्धान्तमाह ॥` — *"Āryabhaṭa, **son of Brahmagupta**"*. Brahmagupta was born **c. 598 CE**
+  and wrote in 628; the Āryabhaṭīya is **499 CE**, and Brahmagupta *studied* it as a later
+  astronomer (verified against Wikipedia 2026-09-02). The claimed father was born 99 years
+  after the son wrote his book. The real Gītikāpāda 1 opens `प्रणिपत्यैकमनेकं…` with a tribute
+  to **Brahman**; ours opens with **Hari**.
+- **`surya_siddhanta` 1.1–1.2** read `प्रणम्य शिरसा देवं गुरुं विद्याविनायकम्…` and
+  `ब्रह्मा ब्रह्मगिरि ब्रह्ममयं…`. The real 1.2 is the famous
+  `अल्पावशिष्टे तु कृते मयो नाम महासुरः` (verified 2026-09-02). Ours *mentions* `मयदैत्याय` —
+  right topic, wrong words, and `ब्रह्मा ब्रह्मगिरि ब्रह्ममयं` is not grammatical Sanskrit.
+- **`panchasiddhantika`** is genuine for **1.1–1.3 only**, then breaks into uniform two-line
+  paraphrase (163 of 166 verses; median 48 chars, the shortest of any verse text held). 1.12
+  writes revolutions as the digit string `४३२००००` where Sanskrit astronomical texts use
+  *bhūtasaṃkhyā* word-numerals; **1.17 gives the epoch as Śaka 425 where this very file
+  records Śaka 427**; 1.18 is a pseudo-colophon calling chapter 1 "the first *tantra* …
+  abridged by Varāhamihira". Its 13.6 gives earth's circumference as 500 yojanas with
+  diameter 200 — π ≈ 2.5.
+
+**Why every existing check passed.** The metadata is correct. `aryabhatiya`'s structure is
+4 pādas of 13/33/25/50 = 121, matching canon exactly — re-verified against the JSON on
+2026-09-02, hours before this was found. The editions recorded above (Clark 1930; Thibaut &
+Dvivedī) are real. Contiguity, duplicate-key and canonical-count checks all pass, **because
+every one of them checks numbering and none checks the words.** This is `GOTCHAS.md` G6
+arriving from an unwatched direction: the citation surface is intact and what sits behind it
+is invented.
+
+**There is no cheap corpus-wide detector, and that was measured rather than assumed.** A
+digit-string probe flags `samaveda_samhita` at 60.8% and `manu_smriti` at 55.8% — legitimate
+source formatting — while scoring both fabricated Siddhānta texts **0.0%**. Type-token ratio
+does not separate them either (`aryabhatiya` 0.566 sits mid-pack). **Only comparison against
+the known incipit distinguishes them.** Done for all 19 Jyotiṣa texts on 2026-09-02: the Hora
+and Saṃhitā set is genuine — `bphs` opens with Maitreya approaching Parāśara, `brihat_samhita`
+with `जयति जगतः प्रसूतिर्विश्वात्मा`, `shatpanchashika` correctly naming Pṛthuyaśas as
+Varāhamihira's son — and `arch_jyotisham`/`yajusha_jyotisham` are genuine Vedāṅga Jyotiṣa.
+**The three are confined to Siddhānta.**
+
+**Provenance:** all three entered as per-chapter files on **2026-07-17** (`1cccca6`
+"recategorize Hora into schools + ingest new texts", with `4258491`), and were consolidated to
+one-JSON-per-text by `c08e08f` on 2026-08-18. STATE.md's 2026-08-12 line "Saravali, Surya
+Siddhanta, Aryabhatiya, and Panchasiddhantika are now digitized" records that arrival.
+
+**`saravali` has a different defect from the same ingestion window and is NOT fabricated.**
+Its 1.1 is `न प्रपीता भवेत्कूपे…` — a real verse about Mars in the fourth house, i.e. the
+digitisation begins mid-work. A flat 1,163-sūtra single chapter with no opening. Ordering, not
+invention.
+
 **Not defects — do not "fix" them into breakage:** `MinarajaYavanajataka` numbers variant
 chapters `"24अ"` / `"63अ"` / `"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
 

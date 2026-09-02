@@ -72,7 +72,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
 | `minaraja_yavana_jataka` | [`Hora/Parashari/MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | 74 | 4,027 | 100% | — |
 | `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 100% | — |
-| `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100% | — |
+| `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100%* | — |
 | `shatpanchashika` | [`Hora/Parashari/Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | 7 | 56 | 100% | — |
 | `uttara_kalamrita` | [`Hora/Parashari/UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | 9 | 324 | 100% | — |
 | `varahamihir_daivagnavallabh` | [`Hora/Parashari/VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | 15 | 248 | 100% | — |
@@ -128,9 +128,23 @@ titles at all — so there is nothing to separate.
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 121 | 100% | — |
-| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 166 | 100% | — |
-| `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 14 | 272 | 100% | — |
+| `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 121 | **⚠ FABRICATED** | — |
+| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 166 | **⚠ FABRICATED** | — |
+| `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 14 | 272 | **⚠ FABRICATED** | — |
+
+**⚠ These three do not contain the works they name — verified 2026-09-02. DO NOT CITE.**
+`aryabhatiya` 1.1 calls Āryabhaṭa *"son of Brahmagupta"*, a father born c. 598 CE for a
+book written in 499. `surya_siddhanta` lacks the `अल्पावशिष्टे तु कृते मयो नाम महासुरः`
+opening. `panchasiddhantika` is genuine for 1.1–1.3 then becomes paraphrase, and states the
+epoch as Śaka 425 against the 427 this repo records. The **Translated column above is a
+translation of invented text** and means nothing for these rows. Their chapter and shloka
+counts are nonetheless correct, which is why nothing caught it. Evidence, provenance and
+the fix for each: [`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md) §"THREE SIDDHĀNTA TEXTS ARE
+FABRICATED" and STATE.md §P0.
+
+**\* `saravali` is NOT fabricated** — but it begins mid-work (1.1 is a verse on Mars in the
+fourth house) and is a flat 1,163-sūtra single chapter with no opening or chapter divisions.
+An ordering defect from the same 2026-07-17 ingestion; tracked separately in STATE.md §P0.
 
 ## Samhita — Saṃhitā — the Jyotiṣa skandha (mundane / omens)
 
