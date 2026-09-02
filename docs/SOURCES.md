@@ -705,3 +705,37 @@ only in the rejected Abhyankar file and inside the poor `1274.txt`.
 **Upstream URLs are unrecorded** — the files arrived by numeric id (an archive.org / e-library
 convention) rather than by link. Record them when known; §"Held sources" already carries four
 Dharmaśāstra `.txt` files with `_unrecorded_` provenance and that gap has cost real time.
+
+#### Structure of the three clean files — read this before writing a converter
+
+Measured 2026-09-02. **They are commentary editions, and a naive extraction produces a corrupt
+text.** Three findings, in the order they were got wrong and then right:
+
+1. **Indentation does NOT mark verse.** Front matter indents quoted verses at three tabs, which
+   looks like a clean signal. In the body it is the opposite: **705 of 707 verse-ending lines
+   in `7404.txt` sit at zero tabs**, and three-tab lines almost never end a verse. Do not build
+   on the tab.
+2. **Verse numbers repeating is NOT duplication.** Collapsing the whole file gives "verse 1"
+   eighteen times in `8252.txt`, which reads exactly like the `taittiriya_samhita` defect. It is
+   not: **numbering resets per chapter**, so those are eighteen different chapters' opening
+   verses. **Segment by colophon before numbering anything**, or a correct text will be
+   "deduplicated" into ruin.
+3. **The commentary also ends in `॥N॥`**, so the terminator alone does not identify mūla. Marīci
+   prose is introduced by `म०टी०—` and by the `अथ … आह—` formula, and cites the mūla by
+   *pratīka* only (`उपजातिकयाऽऽह—भुजोऽक्षमेति`). Length separates the bulk but not cleanly:
+   mūla runs ~40–75 characters, commentary is either very short (`स्पष्टार्थम्॥२॥`,
+   `स्पष्टम्॥१॥२॥` — "the meaning is clear", covering a verse range) or long prose above ~120.
+
+**These editions also carry Bhāskara's own *Vāsanā*** auto-commentary alongside the later Marīci
+and Mitākṣara ṭīkās. That is three apparatus layers, one of them authorial — decide deliberately
+what the corpus holds, rather than letting a regex decide.
+
+**Authenticity is settled**, so the remaining work is purely structural:
+`इति श्रीमहेश्वरोपाध्यायसुतभास्कराचार्यविरचिते सिद्धान्तशिरोमणिवासना` — Bhāskara II's standard
+self-identification as son of Maheśvara Upādhyāya.
+
+*Do not convert these on a percentage.* A candidate extraction scored 72–91% contiguous verse
+numbering, and the corpus already carries three fabricated texts and two with doubled verses,
+every one of which passed a numbering check. Follow `scripts/sanskrit-convert/apastamba.py`:
+block on duplicate or misordered numbers **within a segmented chapter**, record absences rather
+than invent them, and validate against an external witness before writing JSON.
