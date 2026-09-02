@@ -131,7 +131,15 @@ manifest whose provenance column is empty is a checksum list, not a manifest.
   Substantively corrupt and a three-layer commentary edition; see its `README-OCR.md`.
 - `Dharmashastra/{4605,4617}.txt` — Āpastamba-Dharmasūtra with Haradatta's Ujjvalā
   commentary (ed. Mahādeva Śāstri, Mysore 1898). `4607.txt` — Āpastamba-Paribhāṣā-Sūtra.
-  `4609.txt` — **unidentified**; a Śrāvaṇī/Upākarma ritual manual fitting no text directory.
+  `4609.txt` — **identified 2026-09-02: the `Āpastamba-ukta Śrāvaṇī`**, a *prayoga* (ritual
+  handbook) for the Vedotsarjana/Upākarma rites in Āpastamba's school. It opens
+  `॥अथापस्तंबोक्तश्रावणीप्रारंभः॥` and closes `॥इत्यापस्तंबोक्तश्रावणीसमाप्तः॥`, so it is a
+  complete self-contained work, not a fragment. **It is Kalpa, and therefore Youvan's** — the
+  genre test, not the containing tradition: 13 saṅkalpa resolves (`करिष्ये`), `उत्सर्जन` ×10,
+  `उपाकर्म` ×4, `होम`, `आचम्य`, and **zero** dharma-determination markers (`निर्णय`,
+  `मीमांसा`, `स्मृति`, `व्रत` all absent). It reasons about no dharma; it tells you what to do
+  and in what order. Nothing moves on disk — the file stays here, as Youvan has no sources
+  tier.
 
 
 ## Vedāṅga / Upaveda — where the data actually is (surveyed 2026-08-24)
