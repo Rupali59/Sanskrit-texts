@@ -961,6 +961,42 @@ Both entries were salvaged 2026-09-02 from per-text readme files before those we
 drained; both READMEs also listed per-chapter files (`AB_001.json`, `PS_001.json` …) that the
 one-file rule retired on 2026-08-18, and those lists were **not** carried forward.
 
+**`apastamba_dharma_sutra`** — re-digitised from OCR 2026-09-02 (the 1898 Mysore edition
+with Haradatta's Ujjvalā), replacing a 1,437-record off-schema file. **1,315 sūtras**,
+citation `praśna.khaṇḍa.sūtra`. Externally checked: the parse independently yields 1.1
+`अथातः…`, 1.2 `धर्मज्ञसमयः प्रमाणम्`, 1.3 `वेदाश्च` — the canonical opening, Āp.Dh.S.
+1.1.1.1–3.
+
+- **paṭala is deliberately not in the citation.** Only 4 paṭala colophons survive a strict
+  pattern against 22 canonical; a looser pattern matches commentary prose that merely
+  mentions paṭala, which is how an earlier count reached 20. Khaṇḍa numbers run continuously
+  within a praśna, so `praśna.khaṇḍa.sūtra` is unique and can gain paṭala later from a
+  reference edition **without renumbering anything**.
+- **45 sūtras are ABSENT from the OCR across 29 khaṇḍas** (1,315 emitted + 45 absent =
+  1,360 against the ~1,364 usually cited) — their `॥N॥` markers were lost, so
+  the lines read as commentary. They are recorded, never invented; the parser prints each
+  with its khaṇḍa and source line. Recovery was attempted and rejected: by position it fails
+  (23 of 41 gap segments match the alternation, 18 do not), and by lemma-overlap it reaches
+  83.5% raw / 96% gated — over 45 gaps that still puts commentary into a citable sūtra slot.
+- **One sūtra was recovered, with its evidence in the code.** 1.1 sat unnumbered at source
+  line 1158; the following line glosses its two opening words, and the next sūtra is
+  independently numbered २. `RECOVERIES` in `apastamba.py` carries the justification.
+- **1.9.14 was not absent — it was MERGED.** The OCR ran two sūtras onto one line,
+  `अन्तश्शवम्॥१४॥ अन्तश्चाण्डालम्`, and the parser's end-of-line numeral regex swallowed 14
+  into 15 and reported 14 missing. **Found by a translator reading the text, not by any
+  count** — `GOTCHAS.md` G12, "a 'missing' record may be a MISLABELLED one, and counts cannot
+  tell you." Exactly one such line exists in the text; the parser now splits them.
+- **1.32.24 is genuinely corrupt.** `धर्मप्रह्लादन कुमालनाय रुदह्न मृर्त्युः` does not parse
+  as Sanskrit. Its legible opening and closing are drafted and the corrupt middle is marked
+  untranslatable in both languages rather than smoothed into a plausible sentence.
+- **2.14.20 continues after a lunar day missing from the source itself**, and 2.6.11 lists
+  seven Vedāṅgas where the canonical count is six. Both recorded, neither corrected.
+- **Translation state: `drafted`, not `translated`.** All 1,315 carry `english_draft` and
+  `hindi_draft`; the served `english`/`hindi` fields are empty on every one. Roughly 90
+  sūtras were flagged by their translators as obscure or OCR-damaged and rendered literally
+  rather than smoothed — that list is in the commit messages for the drafting batches and is
+  the natural starting point for verification.
+
 **Not defects — do not "fix" them into breakage:** `MinarajaYavanajataka` numbers variant
 chapters `"24अ"` / `"63अ"` / `"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.
 

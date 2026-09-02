@@ -25,13 +25,9 @@ Both are right, and they count different things.
 | | Files | Chapters | Shlokas |
 |---|---:|---:|---:|
 | **On-schema** — a real `chapters[]` array | 54 | 918 | 92,166 |
-| Off-schema — the 2 Apastamba texts, scored `1` chapter each by the one-liner | +2 | +2 | — |
 | **The one-liner above** | **56** | **920** | — |
 
-The one off-schema text (`apastamba_dharma_sutra`) is **not ingestible as it stands** and
-needs re-digitisation — see
-[`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
-Counting them as 2 "chapters" flatters the corpus; the on-schema row is the honest figure
+Every text is on-schema as of 2026-09-02, so the one-liner above now counts the whole corpus and no separate off-schema adjustment is needed
 for anything about coverage. **`manu_smriti` left this set on 2026-08-24** — re-acquired
 whole from SARIT rather than repaired, which is what the re-digitisation plan called for.
 
@@ -179,6 +175,12 @@ see [`SOURCES.md`](./SOURCES.md) §"Vedāṅga / Upaveda".
 |---|---|---:|---:|---:|---|
 | `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,684 | 0% | range |
 | `narada_smriti` | [`Dharmashastra/NaradaSmriti`](../Dharmashastra/NaradaSmriti) | 3 | 931 | 0% | uncitable |
+| `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 2 | 1,315 | 0%* | range |
+
+**\* `0%` is the VERIFIED figure and it is the only one this column reports.** All 1,315
+sūtras carry `english_draft` and `hindi_draft` with `status: drafted`; the served
+`english`/`hindi` fields are empty on every one, so nothing is published. Drafted is not
+translated, and the column would be lying if it said 100%.
 
 Eleven of the twelve adhyāyas match Bühler's per-chapter counts **exactly**; adhyāya 11 is
 265 against his 266. It is contiguous 1–265, no gap, no duplicate, and no merged verse —
@@ -191,31 +193,20 @@ contiguity cannot see the second, and settling it needs SARIT's text compared ag
 Bühler's verse by verse, which has not been done. Tier is `range` (2,680–2,700) rather than
 `firm` for exactly that reason.
 
-## Dharmashastra — OFF-SCHEMA remainder
+## Dharmashastra — off-schema remainder: CLOSED 2026-09-02
 
-**CLOSED 2026-09-02** — `apastamba_dharma_sutra` was re-digitised from OCR into
-`Dharmashastra/ApastambaDharmaSutra/ApastambaDharmaSutra.json` (1,314 sūtras, 46 absences
-recorded). Nothing in the corpus is off-schema now. This section said **1 file** until then,
-and **2 until earlier the same day**, when
-`apastamba_paribhasha_sutra` left for Youvan (it is Kalpa, not dharma: praśna 24–25 of the
-Āpastamba Kalpasūtra, opening `यज्ञं व्याख्यास्यामः`). It now lives at
-`Tushar/Youvan/texts/Kalpa/Paribhasasutra/Apastamba/`.
-**It has no `chapters[]` array, so it is absent from every table above and does not ingest.**
-Not a renumbering job — the data cannot be mapped onto the canonical
-Praśna→Paṭala→Khaṇḍa→sūtra structure from the numbers alone. See
-[`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
+**Nothing in this corpus is off-schema.** The section is kept because it tracked real work
+for six weeks and its closure is the useful record.
 
-| text_id | Directory | Files |
-|---|---|---:|
-| `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 1 |
-
-**⚠ Its 1,437 records already carry `english_translation` and `hindi_translation` on every
-row — unverified machine output.** Those are not the served `english`/`hindi` fields, so the
-seeder's allowlist cannot publish them. **A schema migration that renames them would publish
-1,437 unverified machine translations in one commit.** Sample: `धर्मज्ञसमयः प्रमाणम्` →
-*"The knowledge of dharma is the proof of time"*, misreading *samaya* as "time". The
-re-digitisation plan asserts "none of the records carry any English or Hindi"; measured
-2026-09-02, that is false for both Āpastamba texts.
+- `manu_smriti` left 2026-08-24, re-acquired whole from SARIT.
+- `apastamba_paribhasha_sutra` left 2026-09-02 **for Youvan** — it is Kalpa, not dharma:
+  praśna 24–25 of the Āpastamba Kalpasūtra, opening `यज्ञं व्याख्यास्यामः`. Now at
+  `Tushar/Youvan/texts/Kalpa/Paribhasasutra/Apastamba/`.
+- `apastamba_dharma_sutra` was **re-digitised** 2026-09-02 from the 1898 Mysore OCR by
+  `scripts/sanskrit-convert/apastamba.py` — 1,315 sūtras, now a normal registry row above.
+  Its 1,437 predecessor records carried unverified machine `english_translation` /
+  `hindi_translation` and were discarded with the file. Caveats:
+  [`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md) §"Per-text caveats".
 
 ## Author and period — held texts
 
