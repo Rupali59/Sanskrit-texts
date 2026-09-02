@@ -997,6 +997,68 @@ citation `praśna.khaṇḍa.sūtra`. Externally checked: the parse independentl
   rather than smoothed — that list is in the commit messages for the drafting batches and is
   the natural starting point for verification.
 
+### Incipit audit COMPLETE — 33 texts, 71,110 shlokas, all GENUINE
+
+Run 2026-09-02 after three fabricated Siddhānta texts were found. Every held text outside the
+Jyotiṣa set was compared against its attested incipit, with mid- and end-of-text spot checks
+because the `panchasiddhantika` pattern (genuine opening, fabricated remainder) defeats an
+opening-only check.
+
+| Set | Texts | Shlokas | Result |
+|---|---:|---:|---|
+| Vedic Saṃhitā | 5 | 22,686 | **all genuine** |
+| Upaniṣad | 20 | 2,100 | **all genuine** |
+| Upaveda | 8 | 45,324 | **all genuine** |
+
+**Fabrication is confined to the three Siddhānta texts** from the 2026-07-17 hand-ingestion.
+Everything fetched through the Wikisource, SARIT and sanskritdocuments pipelines is real. That
+is the single most useful thing this audit establishes: **the pipelines are trustworthy and the
+hand-ingestion was not.**
+
+Two specific worries going in, both cleared:
+- **G21, verse-only extraction.** Caraka and Suśruta are mixed verse and prose, and a
+  digitisation reading only `<l>` would drop most of the text while validating cleanly.
+  Checked: 288 and 203 passages over 400 characters respectively. **The prose is present.**
+- **The seven Brāhmaṇa/Āraṇyaka-embedded Upaniṣads** could legitimately begin mid-work.
+  None does; all open at their canonical beginning.
+
+**`bhela_samhita` starts at 4.1 and that is CORRECT** — it survives in one damaged Tanjore
+manuscript and adhyāyas 1–3 are lost in transmission, as §"Bhela Saṃhitā from SARIT" already
+records. An attested transmission gap, not the `saravali` ordering defect. Do not "fix" it.
+
+**Smaller findings:** `susruta_samhita` carries an extra `1.0` prefatory entry before 1.1.
+`dhanurveda` is a faithful digitisation — byte-checked against its sanskritdocuments source —
+but "Dhanurveda" is a genre label, and this is specifically a **Śārṅgadhara-tradition digest**
+citing the *Vīracintāmaṇi*, distinct from the 17th-c. Vāsiṣṭha Dhanurveda-saṃhitā. Its
+author/edition fields should record that rather than staying blank.
+
+### Upaniṣad set — all 20 GENUINE, three separate defects
+
+Audited 2026-09-02 against attested incipits, with mid/end spot checks on the four largest.
+**No fabrication anywhere**: `isha` opens `ईशा वास्यमिदं सर्वं`, `chandogya`
+`ओमित्येतदक्षरमुद्गीथमुपासीत`, `brihadaranyaka` `उषा वा अश्वस्य मेध्यस्य शिरः`, `maitri` the
+Bṛhadratha–Śākāyanya frame. **None of the seven Brāhmaṇa/Āraṇyaka-embedded Upaniṣads starts
+mid-work** — a specific worry going in, since they are chapters of larger works.
+
+Three defects, none of them fabrication:
+
+- **`brihadaranyaka_upanishad` — 127 of 437 shlokas (29%) carry English editorial apparatus
+  INSIDE the Devanāgarī `text` field.** It is a sandhi-split study edition and the apparatus
+  came with it: *"SF as marked below is Sandhi-free text to aid students"*, `काण्व पाठः । A
+  मधु काण्ड[उपदेश काण्ड] अध्याय I ब्राह्मण i-vi`. This is a **mukhya** Upaniṣad and that text
+  is served as scripture. The worst of the three.
+- **`mundaka_upanishad` — mis-chaptered by one.** Chapter 1 holds a single shloka, the
+  śānti-pāṭha; the real opening `ॐ ब्रह्मा देवानां प्रथमः संबभूव` is chapter 2 shloka 1, so
+  every khaṇḍa number is offset. Distinct from the `saravali` pattern: it does not begin
+  mid-work, it is mis-numbered.
+- **`subala_upanishad` — shloka 1 is absent**, numbering starts at 2. The cosmogonic opening
+  frame (`तदाहुः किं तदासीत्…`) is missing; the substantive content that follows is authentic.
+
+**Why this matters for reading the Translated column:** all three defects sit in texts that are
+otherwise genuine, so none would ever be caught by an incipit check alone — the apparatus
+contamination in particular is invisible unless you look for Latin characters in a Devanāgarī
+field.
+
 ### `taittiriya_samhita` — 49% of its verses are duplicates that all ingest
 
 Found 2026-09-02 by the incipit audit. **The text is genuine** — TS 4.5 is the Śrī Rudram
