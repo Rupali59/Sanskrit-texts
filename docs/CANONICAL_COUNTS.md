@@ -1416,3 +1416,31 @@ Inventing a smaller one to tidy the output is the exact failure G31 records.
 Verified on write: all 272 verses **verbatim** in the source, no commentary vocabulary, no Latin,
 all terminated by a daṇḍa, all untranslated with empty served fields, and **zero** duplicate
 `(chapter, number)` keys.
+
+### `lilavati` — verses 135–272 only, and a correction to an earlier judgement
+
+**117 verses of the 138 in its range**, digitised 2026-09-02 from Ānandāśrama 107 (`8244.txt`),
+which is `उत्तरार्धरूपो द्वितीयो भागः` — the **second half only**, opening at `क्षेत्रव्यवहार`.
+There is no first half in this volume.
+
+**An earlier assessment the same day called Līlāvatī intractable, and it was wrong.** The
+reasoning was that a mathematics treatise prints quantities in Devanāgarī between daṇḍas, so
+verse numbers cannot be told from data. The measurement behind it was taken on the **Benares
+scan's OCR** — 262 markers, 84 descents, 33% +1 steps — and that judged *the instrument*, not
+the text. This clean file opens at verse **135**, where `क्षेत्रव्यवहार` falls in the work, and
+closes at **272**, Līlāvatī's attested last verse.
+
+**That closing 272 is the only external check available here** — no table of contents exists in
+this volume — and it is worth more than it looks: the file's own final verse agreeing with the
+attested total is corroboration from outside the file.
+
+**Ordering was resolved by keeping the longest strictly-ascending reading**, not by tuning. Five
+numbers were dropped as transposed or stray (`154, 164, 29, 1, 14` — the `१४` sits between 260
+and 261), and every one reappears in the absence list, so nothing vanishes silently.
+
+Verified on write: 117 verses **verbatim**, no gloss vocabulary, no Latin, all daṇḍa-terminated,
+all untranslated with empty served fields, **zero** duplicate keys.
+
+**Two further Līlāvatī witnesses are held as scans** and neither has been merged in: Benares
+Sanskrit Series 153, and a 146-page volume reaching verse 249+. Merging editions without
+recording which verse came from which is `rule:discernment-checks` §5 — do not.

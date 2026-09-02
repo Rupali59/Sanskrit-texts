@@ -131,6 +131,7 @@ titles at all — so there is nothing to separate.
 | `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 121 | **⚠ FABRICATED** | — |
 | `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 166 | **⚠ FABRICATED** | — |
 | `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 14 | 272 | **⚠ FABRICATED** | — |
+| `lilavati` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 117 | 0% | **Verses 135–272 only — the `uttarārdha`.** The volume holds no first half. 272 is Līlāvatī's attested last verse and the only external check available. |
 | `grahaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 9 | 272 | 0% | **Partial — the `पूर्वārdha` only** (3 of the 11 adhikāras the volume's own preface names), and its witness is weaker than `goladhyaya`'s. See CANONICAL_COUNTS. |
 | `goladhyaya` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 8 | 241 | 0% | **Partial — 241 of the 318 verses its own table of contents implies.** Every absence is listed by `scripts/sanskrit-convert/goladhyaya.py`, never filled in. |
 
