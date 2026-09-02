@@ -881,3 +881,25 @@ and neither file supplies one on its own.
 *The pairing is still the way in:* `8244.txt` is clean text for the second half and can be read
 for structure, while the Benares scan covers the first half and can corroborate wording. Neither
 alone is enough, which is the honest position and is worth more than a plausible merge.
+
+### Pañcasiddhāntikā — a SECOND edition, and it is wanted for its ordering
+
+Supplied 2026-09-02 as `1736760325.pdf`, 422pp, 54 MB, `no-text` scan. Staged at
+`Siddhanta/Panchasiddhantika/raw/Panchasiddhantika-Prakashika-Lahore-1930.pdf`.
+
+| | `8801.txt` | this scan |
+|---|---|---|
+| Edition | **Thibaut & Sudhākara Dvivedī** — the edition `CANONICAL_COUNTS.md` names | **Pañcasiddhāntikā-prakāśikā**, Moti Lal Banarsi Dass / Punjab Sanskrit Book Depot, **Lahore 1930**, dedicated to F. Max Müller |
+| Form | clean text, bilingual | scan, bilingual (Sanskrit body, English translation at the back) |
+| Rights | — | *"All Rights Reserved"*, 1930. **Noted, not a bar** |
+
+**Why a second edition is worth 422 pages of OCR.** `8801.txt` is genuine — all five siddhānta
+names, and decisively the epoch **427 present / 425 absent** where the deleted forgery said 425
+— but **it is not linear**: its 18 `CHAPTER` headings sit at offsets 498271–678463, which is the
+English translation at the back of the book, and the Sanskrit colophons run out of order (6th
+adhyāya @199821, 10th @214926, 4th @332344, 18th @497654). An offset table cannot segment it.
+A second witness gives the adhyāya sequence independently.
+
+Identified by sampling the **middle** (G34): p.200 carries `पञ्चसिद्धान्तिकाप्रकाशिका` with
+mandaphala/kendra computation, and p.410 the English *"When Mars is retrograde in Pisces…"*.
+The title page alone would have given only the imprint.
