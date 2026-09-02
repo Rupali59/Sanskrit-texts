@@ -1360,3 +1360,29 @@ Folding it in as praśnas 11 and 12 would change the value of a key the source s
 `taittirIya AraNyaka 1 aruNaprashnaH` — praśna 1 of the text above, i.e. a **subset**.
 It is also ITRANS/TeX, not Devanagari; a Devanagari-character count of it returns 0, which
 is a fact about the encoding and not about the content. Not ingested.
+
+### `goladhyaya` — partial by design, and the absences are enumerated
+
+**241 verses of the 318 its own table of contents implies (76%).** Digitised 2026-09-02 by
+`scripts/sanskrit-convert/goladhyaya.py` from Ānandāśrama Sanskrit Series vol. 122
+(`8252.txt`), which interleaves three layers: the mūla, Bhāskara's own *Vāsanā*
+auto-commentary, and Muniśvara's *Marīci* ṭīkā. Only the mūla was taken.
+
+**Seven of the eight chapters end on exactly the verse number the table of contents predicts**
+— ग्रहण 29, वलन 74, उदयास्त 24, शृङ्गोन्नति 6, ऋतुवर्णन 15, प्रश्न 63, त्रिप्रश्न 49. The
+exception is यन्त्र, which ends at 57 against a predicted 58. That disagreement is recorded
+rather than resolved.
+
+**The shortfall is deliberate and is false-negative by choice.** Marīci quotes mūla verses
+inside its own commentary — the Ṛtuvarṇana opening is quoted 700 lines early, inside the
+Yantra chapter — so verses appearing inside a commentary block are skipped rather than
+harvested. That costs real verses: `वलन` holds 45 of 74, `प्रश्न` 39 of 63. **For a citation
+surface a missing verse is recoverable and a wrong one is not**, and this corpus already
+carries three fabricated texts that passed every numbering check (G31).
+
+**Per-chapter absences are printed by the converter on every run** — do not restate them here,
+and do not fill one in from a second edition without recording which edition it came from.
+
+Verified on write: all 241 verses appear **verbatim** in the source, none carries commentary
+vocabulary or Latin characters, all end in a daṇḍa, and the text contributes **zero** duplicate
+`(chapter, number)` keys, so every verse reaches Mongo (G8).

@@ -131,6 +131,7 @@ titles at all — so there is nothing to separate.
 | `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 121 | **⚠ FABRICATED** | — |
 | `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 166 | **⚠ FABRICATED** | — |
 | `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 14 | 272 | **⚠ FABRICATED** | — |
+| `goladhyaya` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 8 | 241 | 0% | **Partial — 241 of the 318 verses its own table of contents implies.** Every absence is listed by `scripts/sanskrit-convert/goladhyaya.py`, never filled in. |
 
 **⚠ These three do not contain the works they name — verified 2026-09-02. DO NOT CITE.**
 `aryabhatiya` 1.1 calls Āryabhaṭa *"son of Brahmagupta"*, a father born c. 598 CE for a
