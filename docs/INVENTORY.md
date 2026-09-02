@@ -128,8 +128,8 @@ titles at all — so there is nothing to separate.
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 121 | **⚠ FABRICATED** | — |
-| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 166 | **⚠ FABRICATED** | — |
+| ~~`aryabhatiya`~~ | — | — | — | **DELETED 2026-09-02** | Fabricated; removed rather than left serving. Git history keeps it. No source of any kind is held. |
+| ~~`panchasiddhantika`~~ | — | — | — | **DELETED 2026-09-02** | Fabricated; removed rather than left serving. A two-column scan IS held — use `--psm 3`. |
 | ~~`surya_siddhanta`~~ | — | — | — | **DELETED 2026-09-02** | Fabricated; removed from the corpus rather than left serving. Git history keeps it. The genuine 1925 Sudhākara Dvivedī scan is held but its OCR is unusable — see STATE. |
 | `bijaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 150 | 0% | **Least corroborated of the four parts** — its bound (187) is self-derived, with no ToC and no attested total for this edition. Mūla only, from a bilingual edition whose terms are in SOURCES. |
 | `lilavati` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 117 | 0% | **Verses 135–272 only — the `uttarārdha`.** The volume holds no first half. 272 is Līlāvatī's attested last verse and the only external check available. |
