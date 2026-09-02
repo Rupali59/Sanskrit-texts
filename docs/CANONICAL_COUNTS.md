@@ -1667,3 +1667,25 @@ So the map exists and the Sanskrit numbering has to be reconciled to it before c
 Thibaut edition in image form**, not an independent witness — its preface confirms it: *"The
 Commentary published in the present volume is an entirely original composition by my
 Collaborator."* Useful for checking a passage; useless for a second opinion on ordering.
+
+##### RESOLVED — `panchasiddhantika` imported, 386 verses
+
+**386 of the 416 the chapter map implies; 11 of 18 chapters land exactly on their canonical
+count.** With this, **all three forgeries deleted on 2026-09-02 have genuine replacements**.
+
+**What finally worked was a greedy walk that accepts only the NEXT expected verse number.**
+Commentary numbering is then skipped automatically, because it never continues the mūla's
+sequence. Two earlier approaches are recorded above and should not be retried: colophons cannot
+segment a compendium that quotes other works' colophons, and numeric resets cannot segment a text
+whose commentary restarts at `॥१॥`.
+
+The apparent "running references" (maxima 6, 13, 20, 27, 35 …) that made the numbering look
+unusable were **an artefact of commentary interleaving**, not a property of the mūla. The mūla is
+cleanly chapter-numbered throughout: chapter 1 closes at `॥६॥`, and `श्रीरामचन्द्राय नमः` then
+opens Sudhākara's commentary with its own `॥१॥`.
+
+Verified: 386 verbatim, no Latin, no served fields, zero duplicate keys; verse 1.3 is the
+five-siddhānta naming verse and 18.65 the colophon naming Varāhamihira. The converter **refuses
+to run** if the epoch reads 425 rather than 427.
+
+Absences are recorded per chapter; ch18 is the largest gap at 65 of 81.
