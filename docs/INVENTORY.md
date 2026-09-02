@@ -261,6 +261,17 @@ JSON. **Eleven no longer have a directory either**: they held only a readme, whi
 2026-09-02, and `git rm` removed the empty parents. `JaiminiSutras` and `ChandraKalaNadi`
 survive as `.placeholder` directories. This table is now the sole record of all thirteen.
 
+> **⚠ "Undigitised" no longer means "unsourced" — updated 2026-09-02.** Six rows below now
+> have a source in hand; the digitisation work is what remains. **Sources held:**
+> `NirnayaSindhu` (1,024pp OCR) · `Dharmasindhu` (738pp OCR) · `MuhurtaMartanda` (188pp OCR,
+> superseding the CCITT dead end) · `SarvarthaChintamani` (`1267.txt`) ·
+> `SiddhantaShiromani` (**all four parts**, three as clean machine-readable Devanāgarī) ·
+> `GargaHora` (see its new row). **Supplied but needing re-supply:** `PrashnaMarga`.
+> **Still unsourced:** `JatakaTattvam`, `JaiminiSutras`, `ChandraKalaNadi`, and
+> `BrahmasphutaSiddhanta` (licence — a human ask, not a pipeline one). The two
+> `Vedanga-Jyotisha` recensions are **lost**, not pending. Provenance and terms for every
+> one: [`SOURCES.md`](SOURCES.md).
+
 | Text | Author · period | Why it is wanted |
 |---|---|---|
 | `NirnayaSindhu` | Kamalākara Bhaṭṭa · 1612 | **Priority festival addition.** The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya currently pins to drikpanchang convention — Vijayadaśamī (daśamī pervading aparāhṇa), Holikā Dahan (Bhadrā avoidance), Dīvālī (amāvāsyā pradoṣa), saṅkrānti civil-date. Digitising it lets those rules cite shlokas. |
@@ -272,6 +283,7 @@ survive as `.placeholder` directories. This table is now the sole record of all 
 | `BrahmasphutaSiddhanta` | Brahmagupta · 628 | Siddhānta astronomy. **The only one of the eleven with a machine-readable source anywhere** (GRETIL + TITUS, from Dvivedin's Benares 1902 ed.) — and still not takeable: 5 of 24 chapters, transliterated not Devanāgarī, and both licences bar what this corpus does. [`SOURCES.md`](SOURCES.md), [`LICENSES.md`](LICENSES.md). |
 | `SiddhantaShiromani` | Bhāskara II · 1150 | Siddhānta astronomy. **Name collision** — see [`SOURCES.md`](SOURCES.md). |
 | `GargaSamhita` | Garga (trad.) · date disputed, possibly pre-Varāhamihira | Omens, planetary portents, mundane prediction. Multiple recensions; the complete text is hard to establish. **No source waiting** — the file under this name is the Vaiṣṇava Purāṇa. |
+| `GargaHora` | Garga (trad.) · early | **A DIFFERENT WORK from `GargaSamhita` above, and only this one is jyotiṣa** — the horā (natal) text, where the Saṃhitā is omens and portents. It had no row here until 2026-09-02 and so could not be distinguished from the Vaiṣṇava Purāṇa that `garga` matches (G26's first collision). **Source held**: the K.K. Pathak edition, which carries the Devanāgarī mūla interleaved with modern Hindi and English; terms recorded in [`SOURCES.md`](SOURCES.md). |
 | `Vedanga-Jyotisha/Atharvaveda` · `/Samaveda` | Lagadha tradition | **Lost — no extant manuscript located.** Only the Ṛgveda (36 verses) and Yajurveda (43) recensions survive, sharing 29 verses. Recorded as absent rather than pending. |
 | `JaiminiSutras` · `ChandraKalaNadi` | — | `.placeholder` only; no README, no metadata recorded. |
 

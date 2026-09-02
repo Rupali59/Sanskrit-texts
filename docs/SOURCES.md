@@ -453,7 +453,7 @@ the eleven are recorded as unsourceable rather than pending.
 > **Superseded in part, 2026-09-02.** Rupali supplied CC-0 eGangotri scans and the OCR route
 > declined above was taken. **Acquired: `Dharmasindhu`, `Nirṇayasindhu`, `MuhurtaMartanda`** —
 > each recorded in its own section at the end of this file. **Also supplied, rights noted and
-> held rather than refused: `PrasnaMarga`, `GargaHora`, `SarvarthaCintamani`, and a
+> held rather than refused: `PrasnaMarga`, `GargaHora`, `SarvarthaChintamani`, and a
 > `Bijaganita`.** The cost estimate above was not wrong — the mūla/ṭīkā separation it names is
 > still outstanding for all of them.
 >
@@ -744,7 +744,7 @@ than invent them, and validate against an external witness before writing JSON.
 
 ### Sarvārtha Cintāmaṇi — supplied 2026-09-02; rights RECORDED, not a rejection
 
-`1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaCintamani/1267.txt`;
+`1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaChintamani/1267.txt`;
 rights recorded below, not acted on.
 
 > Sagar's *"Search-Light on Indian Astrology"* / Aryan Miscellany —
@@ -799,7 +799,7 @@ four the same day and they are now staged.**
 
 | File | Text | Status |
 |---|---|---|
-| `1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaCintamani/1267.txt` |
+| `1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaChintamani/1267.txt` |
 | `3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | ✅ re-supplied → `Siddhanta/SiddhantaShiromani/3328.txt` |
 | Garga Horā PDF | K.K. Pathak, Nishkaam Peeth | ✅ re-supplied → `Hora/Parashari/GargaHora/raw/GargaHora-Pathak-Ranjan.pdf` |
 | **Praśna Mārga PDF** | B.V. Raman, Motilal Banarsidass | ⚠ **still outstanding — re-supply needed** |
