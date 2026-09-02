@@ -1444,3 +1444,36 @@ all untranslated with empty served fields, **zero** duplicate keys.
 **Two further Līlāvatī witnesses are held as scans** and neither has been merged in: Benares
 Sanskrit Series 153, and a 146-page volume reaching verse 249+. Merging editions without
 recording which verse came from which is `rule:discernment-checks` §5 — do not.
+
+### `bijaganita` — completes Siddhānta Śiromaṇi, and is the weakest of the four
+
+**150 verses**, digitised 2026-09-02 from S.K. Abhyankar's bilingual edition (`3328.txt`). With
+this, **all four parts of the Siddhānta Śiromaṇi are held**: Līlāvatī, Bījagaṇita, Grahagaṇita,
+Golādhyāya.
+
+**The file was twice mis-assessed, and both errors were in the same direction — dismissing a
+usable source.**
+
+1. *"83 verse markers."* It uses **both** daṇḍa forms; counting only `॥N॥` missed 106 of 189.
+   That is **G32, on the file that motivated G32.**
+2. *"Poor OCR."* The stray-Latin count was high because the edition is **bilingual** — Devanāgarī
+   and Latin legitimately interleave. The Devanāgarī is clean: `गुण` 84 vs `गुग` 0, `वर्ग` 92 vs
+   `वगे` 0.
+
+On that basis Bījagaṇita was recorded as the one missing part while its source sat in the tree.
+
+**The file has no newlines.** It is a single line, so every line-oriented converter returns zero
+on it. The markers are the only boundaries, and the verse is the maximal Devanāgarī **suffix** of
+each segment, the English translation preceding it.
+
+**Rank the four by how well corroborated they are, because they are not equal:**
+
+| | witness |
+|---|---|
+| `goladhyaya` | **strongest** — a ToC giving every chapter's last verse; 7 of 8 chapters land on it |
+| `lilavati` | closes on **272**, Līlāvatī's attested last verse — corroboration from outside the file |
+| `grahaganita` | section maxima, self-derived |
+| `bijaganita` | **weakest** — bound 187 self-derived, no ToC, no attested total for this edition |
+
+Verified on write: 150 verses **verbatim**, **no Latin** (the translation did not leak), no served
+fields, zero duplicate keys. 37 absences of 187 recorded, and 7 numbers dropped as out-of-order.
