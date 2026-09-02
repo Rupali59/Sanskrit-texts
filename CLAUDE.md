@@ -44,11 +44,10 @@ layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `d
 `sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24 and
 `ApastambaParibhashaSutra` left for Youvan 2026-09-02 (Kalpa, not dharma).
 
-**13 texts are undigitised, and 11 no longer have a directory at all** — their
-README-only dirs were drained 2026-09-02 and `git rm` took the empty parents with them.
-`JaiminiSutras` and `ChandraKalaNadi` survive as `.placeholder` dirs. All 13 are recorded
-with author, period and why-wanted in [`docs/INVENTORY.md`](./docs/INVENTORY.md)
-§"Undigitised" — the registry is now the only record; do not restate it here.
+**13 texts are undigitised, and 11 no longer have a directory** — their README-only dirs
+were drained 2026-09-02 and `git rm` took the empty parents. All 13, with author, period and
+why-wanted, are in [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised" — now the only
+record; do not restate it here.
 
 **Neither `GargaSamhita` nor `MuhurtaMartanda` has a usable source waiting**, despite older
 notes saying so — both claims died on inspection 2026-08-23. Detail:
@@ -149,9 +148,9 @@ carry unverified machine `english_translation`/`hindi_translation`; renaming tho
 cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
 [`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
-
-`JaiminiSutras` and `ChandraKalaNadi` are the only surviving stub dirs — a `.placeholder`
-and nothing else. None of the 13 undigitised texts has a `text_id`.
+A parser exists — `scripts/sanskrit-convert/apastamba.py` — and correctly **blocks**: 31 of 61
+khaṇḍas fail its contiguity guard. `JaiminiSutras` and `ChandraKalaNadi` are the only surviving
+stub dirs. None of the 13 undigitised texts has a `text_id`.
 
 ## Translation workflow
 
