@@ -1507,3 +1507,32 @@ not usable. Detail in STATE.
 **`aryabhatiya` and `panchasiddhantika` are still held and still fabricated.** They are cited
 nowhere under any spelling, so the exposure is the `/texts` surface alone — the same argument
 applies to them and they have not been removed.
+
+### `aryabhatiya` and `panchasiddhantika` — DELETED 2026-09-02
+
+Removed alongside `surya_siddhanta`, on the same argument and by the same instruction. **With
+these, all 559 fabricated shlokas G31 records are out of the corpus**: 121 + 166 + 272, every
+one of which was marked `translated` and carried a machine-written English field.
+
+- **`aryabhatiya`** opened `हरिः तेषां पादानां प्रणम्य … ब्रह्मगुप्ततनय आर्यभटः` — *"Āryabhaṭa
+  son of Brahmagupta"*, naming a father born c. 598 CE for a book written in 499, and saluting
+  Hari where the real Gītikāpāda 1 (`प्रणिपत्यैकमनेकं`) salutes Brahman.
+- **`panchasiddhantika`** was genuine for 1.1–1.3 and paraphrase thereafter, stating the epoch as
+  Śaka 425 where this file records 427.
+
+**Neither was cited anywhere, under any spelling**, so unlike `surya_siddhanta` their exposure
+was the `/texts` API alone and nothing dangles.
+
+**A scan is held for `panchasiddhantika`** (`panch_siddhantika_040577_hr6.pdf`, 344pp) and it is
+**two-column** — use `--psm 3`, not `--psm 6`, which merges the columns into one line. No source
+of any kind is held for `aryabhatiya`.
+
+**The seeder now walks 61 JSON files and none of them is fabricated.** Derive it, do not trust
+this line:
+
+```sh
+python3 -c "
+from pathlib import Path
+f=[x for x in Path('.').rglob('*.json') if 'docs' not in x.parts]
+print(len(f),'files;',any(n in str(x) for x in f for n in ('Aryabhatiya','Panchasiddhantika','SuryaSiddhanta')))"
+```
