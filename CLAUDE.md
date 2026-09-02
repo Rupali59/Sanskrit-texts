@@ -40,8 +40,8 @@ has gone to Youvan.
 and it is a **superset**: it also holds Youvan's Brāhmaṇa/Āraṇyaka. This repo is the translation
 layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `docs/`.
 
-**1 text is not on the one-file rule** — `ApastambaDharmaSutra`, still `sutras[]`; see
-§"Off-schema". `ManuSmriti` left 2026-08-24, `ApastambaParibhashaSutra` 2026-09-02 (to Youvan).
+**Every text is on the one-file rule as of 2026-09-02** — the last off-schema holdout,
+`ApastambaDharmaSutra`, was re-digitised from OCR by `scripts/sanskrit-convert/apastamba.py`.
 
 **13 texts are undigitised and 11 have no directory** — README-only dirs drained 2026-09-02,
 `git rm` took the empty parents. All 13 with author, period and why-wanted are in
@@ -136,12 +136,15 @@ for p in glob.glob('**/*.json',recursive=True):
 print(t)"
 ```
 
-### Off-schema — needs RE-DIGITISATION, not renumbering
+### Off-schema — CLOSED 2026-09-02
 
-`apastamba_dharma_sutra` — 1 file on the superseded `sutras[]` shape, with no `chapters[]`
-array, so it is absent from every count above and does not ingest. **Its 1,437 records already
-carry unverified machine `english_translation`/`hindi_translation`; renaming those to
-`english`/`hindi` during a migration would publish them.**
+`apastamba_dharma_sutra` was the last one. Re-digitised from `4617.txt` by
+`scripts/sanskrit-convert/apastamba.py`: **1,314 sūtras**, citation `praśna.khaṇḍa.sūtra`,
+externally checked against the canonical opening (1.1 `अथातः…`, 1.2 `धर्मज्ञसमयः प्रमाणम्`,
+1.3 `वेदाश्च`). **46 sūtras are ABSENT from the OCR and were recorded, never invented** — the
+parser prints every one with its khaṇḍa and line. The prior digitisation's 1,437 records,
+including their unverified machine `english_translation`/`hindi_translation`, were discarded
+with it; the new text lands `untranslated`.
 **Check for a clean source before characterising damaged data**: Manusmṛti's damage analysis
 cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:

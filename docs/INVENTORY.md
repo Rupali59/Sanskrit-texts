@@ -193,7 +193,10 @@ Bühler's verse by verse, which has not been done. Tier is `range` (2,680–2,70
 
 ## Dharmashastra — OFF-SCHEMA remainder
 
-**1 file** on the superseded `sutras[]` shape — was 2 until 2026-09-02, when
+**CLOSED 2026-09-02** — `apastamba_dharma_sutra` was re-digitised from OCR into
+`Dharmashastra/ApastambaDharmaSutra/ApastambaDharmaSutra.json` (1,314 sūtras, 46 absences
+recorded). Nothing in the corpus is off-schema now. This section said **1 file** until then,
+and **2 until earlier the same day**, when
 `apastamba_paribhasha_sutra` left for Youvan (it is Kalpa, not dharma: praśna 24–25 of the
 Āpastamba Kalpasūtra, opening `यज्ञं व्याख्यास्यामः`). It now lives at
 `Tushar/Youvan/texts/Kalpa/Paribhasasutra/Apastamba/`.
