@@ -22,9 +22,12 @@ temp_page.png
 temp_*.png
 
 # SOURCES LIVE IN ../sanskrit-texts-sources/ (DECISIONS 2026-07-17, enforced 2026-08-18).
-# This repo holds the translation layer only: per-text JSON + README.md. Raw Devanagari
-# transcriptions (.md), OCR dumps (.txt) and scans (.pdf) were moved out wholesale; these
-# patterns stop them coming back by accident. README.md is deliberately NOT ignored.
+# This repo holds the translation layer only: one JSON per text, plus the docs/ wiki. Raw
+# Devanagari transcriptions (.md), OCR dumps (.txt) and scans (.pdf) were moved out
+# wholesale; these patterns stop them coming back by accident. Markdown is deliberately NOT
+# ignored — docs/ is tracked. The corpus tree itself now holds JSON only: the per-text and
+# per-category readme files were drained 2026-09-02 into docs/INVENTORY.md and
+# docs/CANONICAL_COUNTS.md.
 *.pdf
 *.txt
 **/raw/

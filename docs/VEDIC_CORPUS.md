@@ -216,7 +216,7 @@ The Sāmaveda and Atharvaveda recensions of it are **lost**, with no extant manu
 
 - **GRETIL** — gretil.sub.uni-goettingen.de (machine-readable, best transcription quality)
 - **sanskritdocuments.org** — this ecosystem's existing proofreading source of truth
-  (`sanskrit-texts/REFERENCES.md`)
+  ([`REFERENCES.md`](../REFERENCES.md))
 - **Vedic Heritage Portal** — vedicheritage.gov.in (recitation audio, śākhā metadata)
 
 Smallest useful first step is the **mukhya Upaniṣads** — roughly a dozen short texts,

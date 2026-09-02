@@ -18,7 +18,7 @@ touched by this plan's author.
 > **The lesson, and the first step for the two remaining texts: look for a clean source
 > before characterising the damage.** A published critical edition in a machine-readable
 > corpus is worth more than any amount of forensic work on a bad digitisation. SARIT was
-> already surveyed in `SOURCES.md` and already held Manusmriti while this plan was being
+> already surveyed in [`SOURCES.md`](../SOURCES.md) and already held Manusmriti while this plan was being
 > written to repair it by hand.
 >
 > **What remains in scope:** `apastamba_dharma_sutra` and `apastamba_paribhasha_sutra`
@@ -275,7 +275,7 @@ placed anywhere — see Open Questions.
    updating in the same commit as the corpus change (per the hand-maintained
    convention adopted 2026-08-17), not as a follow-up.
 6. **This plan's own "leading component runs 1–33" correction** (see
-   Diagnosis) should be carried into `CLAUDE.md`/`DECISIONS.md` the next time
+   Diagnosis) should be carried into [`CLAUDE.md`](../../CLAUDE.md) / [`DECISIONS.md`](../DECISIONS.md) the next time
    either is touched for this text, so the imprecise phrasing does not get
    copied forward into a future session's starting assumptions.
 

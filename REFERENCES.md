@@ -65,8 +65,9 @@ redistribution here is a live question, not a settled one. Contact for permissio
 `sanskrit@cheerful.com`.
 
 **Attribution is therefore not optional.** Each text sourced from Sanskrit Documents records
-its encoder/proofreader — taken from that file's own footer — in the text's `README.md` and
-in the source manifest.
+its encoder/proofreader — taken from that file's own footer — in the `Attribution` column of
+[`docs/SOURCES.md`](./docs/SOURCES.md) §"Held sources". This said "in the text's `README.md`"
+until 2026-09-02; no per-text README ever carried one.
 
 ## Why not DLI, in general
 
@@ -74,7 +75,7 @@ in the source manifest.
 **scanned page images**; its search is Tesseract OCR over those scans. Devanagari OCR fails
 into well-formed *wrong* characters, so it passes every script-purity check while being
 substantively incorrect, and DLI holdings are frequently commentary editions where mūla and
-ṭīkā interleave. Measured cost of learning this: see `GOTCHAS.md` G3–G5.
+ṭīkā interleave. Measured cost of learning this: see [`GOTCHAS.md`](../propagation/state/sanskrit-texts/GOTCHAS.md) G3–G5.
 
 Use DLI only for a text available nowhere else, and only as raw tier — never as corpus JSON
 without a proofreading pass.

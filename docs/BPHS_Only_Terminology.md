@@ -1,8 +1,20 @@
 # BPHS Technical Lexicon: Only Relevant Terminology
 
-This lexicon excludes common English words and focuses exclusively on BPHS-specific Sanskrit terms, calculation principles, and astrological entities.
+This lexicon excludes common English words and focuses exclusively on BPHS-specific Sanskrit
+terms, calculation principles, and astrological entities. **562 terms**, grouped by the
+chapters of `bphs` they appear in.
 
-## BPHS0110.json
+**It is not a subset of [`BPHS_Master_Lexicon.md`](BPHS_Master_Lexicon.md) — 210 of these
+terms appear only here** (`atmakaraka`, `ashtakavarga`, `avasthas`, `argalas`, `arudha`,
+`balarishta` …), so the two are complements, not duplicates: Master is curated and glossed
+and grouped semantically; this is the full term index, unglossed, grouped by location.
+Measured 2026-09-02, when this file was nearly retired as a duplicate.
+
+The eleven groups were headed `BPHS0110.json` … `BPHS9197.json` until 2026-09-02. Those files
+were retired by the one-file rule on 2026-08-18; the **chapter ranges they encoded are still
+real**, so the headings now name the chapters directly.
+
+## Chapters 1–10
 - Action/Profession, Adhi-Mitra, Agni, Ahankara
 - Aja, Ajapada, Akshavedansha, Amritam
 - Amshas, Anarishta, Ancestors, Antardasha
@@ -55,7 +67,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - सृष्टिक्रम, ारिष्ट, ावतार, ाऽरिष्टभङ्ग
 
 ---
-## BPHS1120.json
+## Chapters 11–20
 - Ayur Bhava, Bhagya, Bhavas, Chara Rashi
 - Dhana Bhava, Dharma Bhava, Drekkana, Duschikya
 - Dvisvabhava, Jaya Bhava, Kendra, Labha
@@ -69,7 +81,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - सुखभाव
 
 ---
-## BPHS2130.json
+## Chapters 21–30
 - Abhichara, Anuvakra, Argala, Arudha
 - Arudha Lagna, Arudha Pada, Ashtakavarga, Atichara
 - Atmakaraka, Ayana Bala, Benefic Rays, Bhava
@@ -103,7 +115,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - ोपपद
 
 ---
-## BPHS3140.json
+## Chapters 31–40
 - AK, AmK, Amala Yoga, Amatyakaraka
 - Anugraha, Aquarius Lagna, Argala, Argalas
 - Aries Lagna, Aries Navamsha, Arudha, Arudha Lagna
@@ -140,7 +152,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - विविधयोग, ाऽर्गल
 
 ---
-## BPHS4145.json
+## Chapters 41–45
 - AK, Alpa, Amita-ayu, Amshayu
 - Anayu, Aries/Scorpio, Atmakaraka, Avasthas
 - Ayus-sthana, Bala, Balarishta, Cancer Lagna
@@ -158,7 +170,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - मारकभेद, विशेषधनयोगः, ायुर्दाय
 
 ---
-## BPHS4650.json
+## Chapters 46–50
 - After Trikona Shodhana, Amsha, Amsha Dasa, Antardasas
 - Aquarius Amsha, Aries Amsha, Aries-Leo-Sagittarius, etc., Ashtakavarga
 - Ashtakavarga Bindus, Ashtakavarga Dasa, Ashtakavarga Dasas, Ashwini etc.
@@ -179,7 +191,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - चरादिदशा, दश, दशा, विशेषनक्षत्रदशा
 
 ---
-## BPHS5160.json
+## Chapters 51–60
 - Aquarius/Virgo, Ashtakavarga, Ashtakavargas, Bindus
 - Capricorn/Aquarius, Gochara, Kapha, Kendra
 - Ketu, Krishnadhenu, Lagna, Libra
@@ -190,7 +202,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - शुक्रान्तर्दशा, ाऽन्तर्दश, े देहबाधा भविष्यति
 
 ---
-## BPHS6170.json
+## Chapters 61–70
 - After Trikona Shodhana, Aries, Ashtakavarga, Ashtakavargas
 - Bindus, Body, Dasas, Ekadhipatya Shodhana
 - Gemini, High Bindus, If Lagna, In Aquarius Navamsha
@@ -209,7 +221,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - स्थानग्रहान् वक्ष्ये सुखबोधाय सुरिणाम्, ाष्टकवर्ग, ाऽष्टकवर्ग, ैकाधिपत्यशोधन
 
 ---
-## BPHS7180.json
+## Chapters 71–80
 - Agni, Akasha, Ashtakavarga, Autumn
 - Bhadra Yoga, Bindu, Bindus, Chakradhara/Vaishnava monk
 - Chhaya, Dasas, Drekkana, Early Winter
@@ -231,7 +243,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - समुदायाष्टकवर्ग, सुदर्शनचक्र, स्त्रीजातक, ाऽष्टवर्गायुर्दाय
 
 ---
-## BPHS8190.json
+## Chapters 81–90
 - Ankusha, Bhaga, Chamara, Father's Curse
 - Gajakumbha, Gati, Gemini/Virgo, Harivansha Purana
 - Jupiter, Leo, Mashaka, Moon's sign
@@ -241,7 +253,7 @@ This lexicon excludes common English words and focuses exclusively on BPHS-speci
 - तिलादिलांछन, पूर्वजन्मशापद्योतन
 
 ---
-## BPHS9197.json
+## Chapters 91–97
 - Abhisheka, Agni, Angalakshana, Antar
 - Aprakashaka, Argala, Arishta, Ashtakavarga
 - Avasthas, Ayus, Bhavesha, Chandra

@@ -759,7 +759,7 @@ copyright attribution). The 12 legacy `MS_*.json` files were deleted in the same
 and no merged verse — its verses carry the same pāda shape as adhyāya 10, which matches
 canon exactly.
 
-**Stated as a limit rather than resolved** (`GOTCHAS.md` G12): this rules out a dropped
+**Stated as a limit rather than resolved** ([`GOTCHAS.md`](../../propagation/state/sanskrit-texts/GOTCHAS.md) G12): this rules out a dropped
 verse leaving a hole and a mislabelled number producing one. It does **not** distinguish
 "this edition numbers 265" from "one verse is absent and everything after was renumbered."
 Contiguity cannot see the second. Settling it needs a verse-by-verse comparison against
@@ -927,7 +927,7 @@ with two adhyāyas' pādas merged**, and that is not fixable without the schema 
 
 ## Per-text caveats (moved out of `CLAUDE.md`, 2026-08-24)
 
-These lived inline in `sanskrit-texts/CLAUDE.md` and took that file 58 lines over its
+These lived inline in [`CLAUDE.md`](../CLAUDE.md) and took that file 58 lines over its
 180-line cap. A project `CLAUDE.md` is pointers and hard rules; per-text detail is this file.
 
 **`bphs`** — one file since 2026-08-17 (was 11 chunks declaring 102 chapters for a 97-chapter
@@ -943,6 +943,23 @@ they ingest, but the sequence is wrong. `MC_REMAINING_RAW.json` does **not** res
 checked 2026-08-22, it covers pages 53–480 with zero textual overlap with chapter 1. Fixing
 it needs the chapter-1 pages of `muhurt_chintamani_002342_hr6.pdf` read against a canonical
 edition.
+
+**`aryabhatiya`** — 4 pādas / **121** shlokas, re-verified against the JSON 2026-09-02:
+Gītikā 13, Gaṇita 33, Kālakriyā 25, Gola 50. **Edition digitised:** Clark, W. E. (ed. & tr.),
+*The Āryabhaṭīya of Āryabhaṭa*, Chicago UP, 1930; cross-checked against Shukla, K. S. &
+Sarma, K. V., INSA New Delhi, 1976. Composed 499 CE at Kusumapura, Āryabhaṭa aged 23.
+
+**`panchasiddhantika`** — 18 chapters / **166** shlokas, re-verified 2026-09-02
+(18·12·10·8·8·10·8·9·8·8·8·8·9·8·8·8·8·10). **Edition digitised:** Thibaut, G. & Dvivedī, S.,
+*Pañcasiddhāntikā*, Benares 1889, repr. Chowkhamba Sanskrit Series vol. LXVIII, 3rd ed. 1997;
+see also Neugebauer & Pingree, Copenhagen 1970–71. It is the sole surviving summary of five
+earlier siddhāntas — Paitāmaha, Vāsiṣṭha, Romaka, Pauliśa, Saura — four of them otherwise
+lost. Varāhamihira ranks Saura best, Romaka and Pauliśa equal behind it, and dismisses
+Vāsiṣṭha and Paitāmaha. Epoch Śaka 427 = 505 CE.
+
+Both entries were salvaged 2026-09-02 from per-text readme files before those were
+drained; both READMEs also listed per-chapter files (`AB_001.json`, `PS_001.json` …) that the
+one-file rule retired on 2026-08-18, and those lists were **not** carried forward.
 
 **Not defects — do not "fix" them into breakage:** `MinarajaYavanajataka` numbers variant
 chapters `"24अ"` / `"63अ"` / `"63ब"`; `Jatakaparijatah` numbers half-shlokas `"N 1/2"`.

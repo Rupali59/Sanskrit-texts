@@ -184,7 +184,7 @@ Eleven of the twelve adhyāyas match Bühler's per-chapter counts **exactly**; a
 265 against his 266. It is contiguous 1–265, no gap, no duplicate, and no merged verse —
 every verse in it carries the same pāda shape as adhyāya 10, which matches canon exactly.
 
-**What that does and does not establish** (`GOTCHAS.md` G12). It rules out a dropped verse
+**What that does and does not establish** ([`GOTCHAS.md`](../../propagation/state/sanskrit-texts/GOTCHAS.md) G12). It rules out a dropped verse
 leaving a hole, and a mislabelled number producing one. It does **not** distinguish "this
 edition numbers 265" from "one verse is absent and everything after it was renumbered" —
 contiguity cannot see the second, and settling it needs SARIT's text compared against
@@ -204,14 +204,65 @@ Praśna→Paṭala→Khaṇḍa→sūtra structure. See
 | `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 1 |
 | `apastamba_paribhasha_sutra` | [`Dharmashastra/ApastambaParibhashaSutra`](../Dharmashastra/ApastambaParibhashaSutra) | 1 |
 
+## Author and period — held texts
+
+Salvaged 2026-09-02 from the per-category readme files before those were drained. Their
+*status* columns were wrong (they marked digitised texts "Not yet digitized"); their author
+and period columns were the **only** record in the repo and are kept here. Attributions marked
+*trad.* / *attr.* are traditional, not established.
+
+| text_id | Author | Period |
+|---|---|---|
+| `bphs` | Parāśara (trad.) | 4th–7th c. CE (est.) |
+| `brihat_jataka` | Varāhamihira | 6th c. CE |
+| `laghu_jatakam` | Varāhamihira | 6th c. CE |
+| `varahamihir_daivagnavallabh` | Varāhamihira (attr.) | 6th c. CE |
+| `brihat_samhita` | Varāhamihira | 6th c. CE |
+| `shatpanchashika` | Pṛthuyaśas (son of Varāhamihira) | 6th c. CE |
+| `phaladeepika` | Mantreśvara | 16th c. CE |
+| `jataka_parijata` | Vaidyanātha Dīkṣita | 15th c. CE |
+| `minaraja_yavana_jataka` | Mīnarāja | ~3rd–4th c. CE |
+| `bhrigu_sutram` | Bhṛgu (trad.) | medieval |
+| `chamatkar_chintamani` | Bhaṭṭa Nārāyaṇa (trad.) | medieval |
+| `surya_siddhanta` | Lāṭadeva (attr.); revised c. 800 CE | 4th–9th c. CE |
+| `aryabhatiya` | Āryabhaṭa | 499 CE |
+| `panchasiddhantika` | Varāhamihira | c. 505–587 CE |
+| `saravali` | Kalyāṇavarma | 8th–9th c. CE |
+| `uttara_kalamrita` | Kālidāsa (attr., not the poet) | medieval |
+| `muhurta_chintamani` | Rāma Daivajña, son of Ananta | 1600 CE |
+| `arch_jyotisham` · `yajusha_jyotisham` | Lagadha | 700–400 BCE (disputed) |
+
+The two Vedāṅga-Jyotiṣa recensions run 36 and 43 verses respectively and share 29 of them.
+Editions digitised for `aryabhatiya` and `panchasiddhantika` are in
+[`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md) §"Per-text caveats".
+
 ## Undigitised — no JSON, so no `text_id`
 
-The one-liner cannot see them by construction. Eleven hold a `README.md` and nothing else;
-`JaiminiSutras` and `ChandraKalaNadi` hold a `.placeholder` instead and have no README, which
-this heading claimed of all thirteen until 2026-09-02:
-`JaiminiSutras`, `ChandraKalaNadi`, `JatakaTattvam`, `SarvarthaChintamani`, `PrashnaMarga`,
-`BrahmasphutaSiddhanta`, `SiddhantaShiromani`, `GargaSamhita`, `Atharvaveda`, `Samaveda`,
-`Dharmasindhu`, `NirnayaSindhu`, `MuhurtaMartanda`.
+The one-liner cannot see them by construction — it defines a text as a directory holding
+JSON. **Eleven no longer have a directory either**: they held only a readme, which was drained
+2026-09-02, and `git rm` removed the empty parents. `JaiminiSutras` and `ChandraKalaNadi`
+survive as `.placeholder` directories. This table is now the sole record of all thirteen.
+
+| Text | Author · period | Why it is wanted |
+|---|---|---|
+| `NirnayaSindhu` | Kamalākara Bhaṭṭa · 1612 | **Priority festival addition.** The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya currently pins to drikpanchang convention — Vijayadaśamī (daśamī pervading aparāhṇa), Holikā Dahan (Bhadrā avoidance), Dīvālī (amāvāsyā pradoṣa), saṅkrānti civil-date. Digitising it lets those rules cite shlokas. |
+| `Dharmasindhu` | Kāśīnātha Upādhyāya · 1790 | Condenses Nirṇaya-Sindhu into ready rules panchāṅga-makers use; the named source for the "Dharmasindhu" durmuhūrta school in astroacharya's `calculations/muhurta/durmuhurta.py`. |
+| `MuhurtaMartanda` | Nārāyaṇa Daivajña · 1571 | The independent cross-check on the muhūrta windows now that Muhūrta Cintāmaṇi is held. Where two manuals diverge — as the durmuhūrta weekday positions do — the divergence is what to surface for Vipin, not something to resolve silently. |
+| `SarvarthaChintamani` | Veṅkaṭeśa Śarmā · 13th c. | House significations in unusual depth; standard in South Indian practice. |
+| `PrashnaMarga` | unknown, Kerala tradition · 16th–17th c. | The primary text of the Kerala horary (praśna) tradition. |
+| `JatakaTattvam` | unknown · medieval | Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. |
+| `BrahmasphutaSiddhanta` | Brahmagupta · 628 | Siddhānta astronomy. |
+| `SiddhantaShiromani` | Bhāskara II · 1150 | Siddhānta astronomy. **Name collision** — see [`SOURCES.md`](SOURCES.md). |
+| `GargaSamhita` | Garga (trad.) · date disputed, possibly pre-Varāhamihira | Omens, planetary portents, mundane prediction. Multiple recensions; the complete text is hard to establish. **No source waiting** — the file under this name is the Vaiṣṇava Purāṇa. |
+| `Vedanga-Jyotisha/Atharvaveda` · `/Samaveda` | Lagadha tradition | **Lost — no extant manuscript located.** Only the Ṛgveda (36 verses) and Yajurveda (43) recensions survive, sharing 29 verses. Recorded as absent rather than pending. |
+| `JaiminiSutras` · `ChandraKalaNadi` | — | `.placeholder` only; no README, no metadata recorded. |
+
+**An unbacked attribution, found while scoping the two Nibandhas.** astroacharya's
+`durmuhurta.py` carries three schools; the third is labelled **"Brihat Samhita"**. Checked
+against the Bṛhat Saṃhitā already held in `Samhita/BrihatSamhita/`: **no durmuhūrta verse
+exists there.** The attribution is unbacked. Of the other two schools, Muhūrta Cintāmaṇi is
+now held (`muhurta_chintamani`, 206 shlokas — but see its numbering caveat in
+[`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md)) and Dharmasindhu is still to be sourced.
 
 `Nirvana` (Upaniṣad) is a deliberate exclusion rather than a gap: it is prose aphorisms with
 no verse numbering, so there is nothing for a verse-numbered schema to hold.

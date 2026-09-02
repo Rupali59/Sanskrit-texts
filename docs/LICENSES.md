@@ -90,7 +90,9 @@ or breaking the chain back to the source.
 
 - **Per-text attribution is mandatory, naming the individual encoder and proofreader** from
   that file's own footer (e.g. *"Transliterated and proofread by Sunder Hattangadi"*), not
-  just the site. Recorded in each text's `README.md` and in `SOURCES.md`.
+  just the site. Recorded in the `Attribution` column of [`SOURCES.md`](SOURCES.md) §"Held
+  sources" — **the one place**. This named each text's own readme too until 2026-09-02;
+  no README ever held an attribution.
 - The attribution chain must remain traceable back to sanskritdocuments.org.
 
 **The unresolved part, stated plainly.** This repository is public and its data is served

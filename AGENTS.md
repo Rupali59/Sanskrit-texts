@@ -1,38 +1,21 @@
-<!-- code-review-graph MCP tools -->
-## MCP Tools: code-review-graph
+# AGENTS.md
 
-**IMPORTANT: This project has a knowledge graph. ALWAYS use the
-code-review-graph MCP tools BEFORE using Grep/Glob/Read to explore
-the codebase.** The graph is faster, cheaper (fewer tokens), and gives
-you structural context (callers, dependents, test coverage) that file
-scanning cannot.
+**Read [`CLAUDE.md`](./CLAUDE.md).** It is the guidance for this repository and this file
+does not duplicate it.
 
-### When to use graph tools FIRST
+## Why this file is a pointer
 
-- **Exploring code**: `semantic_search_nodes` or `query_graph` instead of Grep
-- **Understanding impact**: `get_impact_radius` instead of manually tracing imports
-- **Code review**: `detect_changes` + `get_review_context` instead of reading entire files
-- **Finding relationships**: `query_graph` with callers_of/callees_of/imports_of/tests_for
-- **Architecture questions**: `get_architecture_overview` + `list_communities`
+Until 2026-09-02 it held 38 lines of generic `code-review-graph` boilerplate — byte-identical
+to the gitignored `.cursorrules` and `.windsurfrules` — with no sanskrit-texts content at all.
+Two of its claims were wrong here:
 
-Fall back to Grep/Glob/Read **only** when the graph doesn't cover what you need.
+- It said *"ALWAYS use the code-review-graph MCP tools BEFORE using Grep/Glob/Read."*
+  `CLAUDE.md` §"Code exploration" says the opposite for this repo: it is a **JSON data
+  corpus**, so callers/impact/tests tools do not apply to the data — use Grep, Read, or the
+  Explore agent.
+- It said *"the graph auto-updates on file changes (via hooks)."* It does not. A git
+  **pre-commit** hook rebuilds it, so the graph always lags uncommitted work — which is
+  precisely the work you are asking it about. Verify with `code-review-graph status` before
+  trusting it; `rule:tool-priority` is canonical.
 
-### Key Tools
-
-| Tool | Use when |
-|------|----------|
-| `detect_changes` | Reviewing code changes — gives risk-scored analysis |
-| `get_review_context` | Need source snippets for review — token-efficient |
-| `get_impact_radius` | Understanding blast radius of a change |
-| `get_affected_flows` | Finding which execution paths are impacted |
-| `query_graph` | Tracing callers, callees, imports, tests, dependencies |
-| `semantic_search_nodes` | Finding functions/classes by name or keyword |
-| `get_architecture_overview` | Understanding high-level codebase structure |
-| `refactor_tool` | Planning renames, finding dead code |
-
-### Workflow
-
-1. The graph auto-updates on file changes (via hooks).
-2. Use `detect_changes` for code review.
-3. Use `get_affected_flows` to understand impact.
-4. Use `query_graph` pattern="tests_for" to check coverage.
+Keeping a second file that answered the same questions differently is how the two drifted.

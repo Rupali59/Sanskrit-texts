@@ -18,8 +18,7 @@ AstroAcharya seeds this data into MongoDB and queries it via a `/texts` API. The
 
 ```
 <Category>/<School?>/<Text>/
-    <Text>.json          the text — every chapter, every shloka
-    README.md            per-text metadata (optional)
+    <Text>.json          the text — every chapter, every shloka — and nothing else
 
 Veda/{rigveda,samaveda,atharvaveda,krishna-yajurveda,shukla-yajurveda}/   Upanishad/<veda>/
 Hora/{Parashari,Nadi,Prashna,Jaimini}/   Siddhanta/   Samhita/   Muhurta/
@@ -37,16 +36,18 @@ spelling, two unrelated meanings. `Veda/` split them apart. `Vedanga-Jyotisha/` 
 has gone to Youvan.
 
 **Sources live in `../sanskrit-texts-sources/`**, mirroring the same tree — Devanagari
-transcriptions (`.md`), raw OCR (`.txt`), scans (`.pdf`). This repo is the translation
-layer: `.json` + `README.md` and nothing else. `.gitignore` enforces it.
+`.wikitext`/`.html`/`.xml` fetches, transcriptions (`.md`), OCR (`.txt`), scans (`.pdf`) —
+and it is a **superset**: it also holds Youvan's Brāhmaṇa/Āraṇyaka. This repo is the translation
+layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `docs/`.
 
 **2 texts do not yet follow the one-file rule** — the two Āpastamba dirs, still on the
 `sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24.
 
-**13 text directories are undigitised** — 11 holding a `README.md` and nothing else, 2
-holding only a `.placeholder`. Neither shape has JSON, so INVENTORY cannot see them by
-construction (it defines a text as a dir holding JSON). They are listed in
-[`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised"; do not restate them here.
+**13 texts are undigitised, and 11 no longer have a directory at all** — their
+README-only dirs were drained 2026-09-02 and `git rm` took the empty parents with them.
+`JaiminiSutras` and `ChandraKalaNadi` survive as `.placeholder` dirs. All 13 are recorded
+with author, period and why-wanted in [`docs/INVENTORY.md`](./docs/INVENTORY.md)
+§"Undigitised" — the registry is now the only record; do not restate it here.
 
 **Neither `GargaSamhita` nor `MuhurtaMartanda` has a usable source waiting**, despite older
 notes saying so — both claims died on inspection 2026-08-23. Detail:
@@ -96,14 +97,14 @@ Every `.json` file in this repo uses this schema — no exceptions:
   `{**sh}`, publishes unverified machine text on the public surface and breaks the workspace hard
   rule *"Computation is AI-assisted; meaning is not"*. `tests/test_seed_texts.py` pins it and the
   mutation was checked both ways.
-- `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter (stored in files `MS_063अ.json` / `MS_063ब.json`)
+- `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter
 - Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script
 
 **Do not add back** `source`, `header`, `book`, `english_meaning`, `hindi_meaning`, `source_file`, `source_chunk`, `is_duplicate` — these were pre-normalization artifacts.
 
 ## text_id registry
 
-**`docs/INVENTORY.md` is the registry** — every text's `text_id`, path, chapter and shloka
+**[`docs/INVENTORY.md`](./docs/INVENTORY.md) is the registry**, and [`docs/README.md`](./docs/README.md) indexes every other doc — every text's `text_id`, path, chapter and shloka
 counts, translation state and count-authority tier, in one table. **Per-text caveats are in
 [`docs/CANONICAL_COUNTS.md`](./docs/CANONICAL_COUNTS.md)** §"Per-text caveats"; they were
 inline here until 2026-08-24 and took this file 58 lines over its cap.
@@ -146,24 +147,20 @@ cost two sessions and was thrown away when it was re-acquired whole from SARIT i
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
 [`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
 
-The only placeholder-only dirs are `JaiminiSutras` and `ChandraKalaNadi` — a `.placeholder`
-and nothing else. This line named `JatakaTattvam`, `SarvarthaChintamani` and `PrashnaMarga`
-alongside them until 2026-09-02; all three carry a `README.md` and no `.placeholder`, so they
-belong to the 13 undigitised above rather than to a separate class. None of the 13 has a
-`text_id`.
+`JaiminiSutras` and `ChandraKalaNadi` are the only surviving stub dirs — a `.placeholder`
+and nothing else. None of the 13 undigitised texts has a `text_id`.
 
 ## Translation workflow
 
 **Adding/updating translations:** Edit `english` and `hindi` fields directly in the JSON file. Update `status` accordingly (`"translated"` when both are present, `"partial"` if only one, `"untranslated"` if neither). Do not leave status stale.
 
-**Proofreading Devanagari text:** Edit the `.md` source file and re-run the AstroAcharya parser if one exists for the text. The `.md` is the canonical source for the Sanskrit text; `.json` is the derived form.
+**Proofreading Devanagari text:** Edit the source file in `../sanskrit-texts-sources/` (same tree, see §Layout) and re-convert. The source is canonical for the Sanskrit; `.json` is derived. Sources are **not** in this repo — `.gitignore` enforces it.
 
 **Do not commit processing scripts** (batch*.py, inject*.py etc.) to this repo — they were throwaway tools and have been removed. Future translation patches should directly update JSON.
 
 ## Conventions
 
-- BPHS is split into 10-chapter chunks (`BPHS0110`, `BPHS1120`, …) — keep that chunking when editing
-- Sub-divided chapters keep the Devanagari suffix in both the filename and the chapter `number` (e.g. `MS_063अ.json` → `"number": "63अ"`) — do not renumber them to integers
+- Sub-divided chapters keep the Devanagari suffix in the chapter `number` (`"63अ"` / `"63ब"`) — do not renumber them to integers. **There are no per-chapter files**: `BPHS0110.json` and `MS_063अ.json` were retired by the one-file rule (2026-08-18) and this section named both until 2026-09-02
 - Devanagari shloka boundary markers (`॥ १२॥`) must be preserved in `.md` files
 - Commit messages: `feat: Added <Lang> translations for <Text> ch<N>` or `fix: Corrected <Text> ch<N> shloka <M>`
 

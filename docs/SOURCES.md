@@ -23,13 +23,16 @@ Recorded here because it existed only as scattered prose until 2026-08-23.
 
 | Tier | Meaning | May become corpus JSON? |
 |---|---|---|
+| `.wikitext` | Sanskrit Wikisource page source, byte-exact as fetched. **The largest tier** — most of the Veda, Upaniṣad and Upaveda corpus arrived this way. | **Yes** |
 | `.md` | Proofread Devanagari transcription. **Canonical for the Sanskrit text**; the JSON is the derived form. | **Yes** |
 | `.html` | Upstream proofread Devanagari page, byte-exact as fetched. Strip to `.md` before use. | Yes, via `.md` |
+| `.xml` | SARIT TEI edition. Romanised — needs transliteration to Devanagari first; see §"The one blocker: script". | Yes, after transliteration |
 | `.txt` | **Raw tier** — OCR output or an unprocessed dump. Unproofed. | **No.** Never directly. |
 | `.pdf` | Scan. May have no text layer at all. | No |
 | `.json` | Raw un-chunked extraction held for reference. | No |
+| `.redirect` · `.DUPLICATE-OF-NNN` | **Fetch markers, not content.** A Wikisource page that redirected elsewhere, or one detected as a duplicate of another. Keep them: they are the evidence that a gap in a numbering sequence is deliberate rather than a dropped text ([`GOTCHAS.md`](../../propagation/state/sanskrit-texts/GOTCHAS.md) G12). | No |
 
-The rule the `.txt` row encodes is `GOTCHAS.md` G6: a `text_id` is a citation surface, so
+The rule the `.txt` row encodes is [`GOTCHAS.md`](../../propagation/state/sanskrit-texts/GOTCHAS.md) G6: a `text_id` is a citation surface, so
 unproofed text must not acquire one. `MuhurtaMartanda`'s OCR is the worked example.
 
 ## Attribution
@@ -44,6 +47,20 @@ artifact we produced).
 ## Held sources
 
 Generated 2026-08-23. `sha256` is the first 16 hex characters.
+
+**Scope — read this before treating the table as complete.** It covers the **38 files held on
+2026-08-23** and was never regenerated. The Vedic, Upaniṣad and Upaveda acquisition that
+followed added ~146 more, and their provenance is recorded in the prose sections below
+(§"Vedāṅga / Upaveda — where the data actually is", §SARIT), **not** in this table. So the
+table is authoritative for the Jyotiṣa texts and silent about the corpus's other 81% by shloka
+count. Derive what is actually on disk:
+
+```sh
+find ../sanskrit-texts-sources -type f \
+  -not -name '.DS_Store' -not -name '*.bundle' -not -name '*.jpg' | wc -l
+```
+
+Extending it by hand is what let it rot; if it is regenerated, generate it.
 
 | Path (under `sanskrit-texts-sources/`) | Tier | Size | sha256 | Upstream URL | Attribution |
 |---|---|---:|---|---|---|
@@ -85,6 +102,18 @@ Generated 2026-08-23. `sha256` is the first 16 hex characters.
 | `Siddhanta/SuryaSiddhanta/1770115260.pdf` | .pdf | 86.3 MB | `e5333a829983abba` | _unrecorded_ | — |
 | `Vedanga-Jyotisha/Rigveda/Aarchjyotisham/Aarchjyotisham.md` | .md | 9 KB | `db06d35fd7e3441b` | _unrecorded_ | — |
 | `Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/Yajushajyotisham.md` | .md | 12 KB | `c2a78453fe33ec0e` | _unrecorded_ | — |
+
+### Not a source: `sanskrit-texts-prerewrite-e0613c4.bundle`
+
+150 MB at the root of the sources tree — **41% of its total size** — and named in no document
+until 2026-09-02. It is a `git bundle`: a backup of this repository taken before the
+`e0613c4` history rewrite, parked in the sources tree because that tree is gitignored and
+large files are tolerated there. It is **not** corpus provenance and must not be read as such.
+It verifies clean and **records a complete history**, `refs/heads/main` at `e0613c4` — a commit the live repo no longer has, so this bundle is the only copy. Re-check before deleting:
+
+```sh
+git bundle verify ../sanskrit-texts-sources/sanskrit-texts-prerewrite-e0613c4.bundle
+```
 
 **`_unrecorded_` is a real gap, not a placeholder to ignore.** These files predate this
 manifest and their upstream URLs were never written down. They are recoverable by searching
@@ -257,7 +286,7 @@ and that is a lossless mapping rather than an OCR gamble.
 ## Four sources that were not what they looked like
 
 **Sanskrit titles collide, and four apparent sources for this corpus turned out to be
-different texts.** All four are NAME COLLISIONS — the pattern is `GOTCHAS.md` G26; the
+different texts.** All four are NAME COLLISIONS — the pattern is [`GOTCHAS.md`](../../propagation/state/sanskrit-texts/GOTCHAS.md) G26; the
 instances are here.
 
 **Two failure modes live in this section and they are not the same thing.** A name collision
