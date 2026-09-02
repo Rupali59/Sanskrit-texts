@@ -21,9 +21,61 @@ touched by this plan's author.
 > already surveyed in [`SOURCES.md`](../SOURCES.md) and already held Manusmriti while this plan was being
 > written to repair it by hand.
 >
-> **What remains in scope:** `apastamba_dharma_sutra` and `apastamba_paribhasha_sutra`
-> only. SARIT has **no** Āpastamba text — checked 2026-08-24 — so for those two the source
-> hunt genuinely has to run before the repair analysis below is worth resuming.
+> **What remains in scope — narrowed again 2026-09-02 to `apastamba_dharma_sutra` alone.**
+> `apastamba_paribhasha_sutra` **left for Youvan**: it is not dharma. It is praśna 24–25 of
+> the Āpastamba *Kalpasūtra* — the paribhāṣā governing the whole Kalpasūtra — its first sūtra
+> is `यज्ञं व्याख्यास्यामः` ("we shall explain the sacrifice"), and its commentator
+> Kapardisvāmin commented on the Kalpasūtra. Kalpa went to Youvan 2026-08-24. It now lives at
+> `Tushar/Youvan/texts/Kalpa/Paribhasasutra/Apastamba/`, off-schema, with its defects
+> documented there. **Step 2 below is therefore void** — do not re-parse it here.
+>
+> Its sibling stays: the Dharmasūtra opens `धर्मज्ञसमयः प्रमाणम्` and is genuine
+> Dharmaśāstra. Both are praśnas of the same Kalpasūtra, so the split is **by genre, not by
+> containing work** — the rule that keeps the Brāhmaṇa-embedded Upaniṣads with Vipin.
+>
+> **Source hunt: closed, and it found nothing.** SARIT has no Āpastamba (2026-08-24); GRETIL
+> carries only Āpastamba's Śulba-, Gṛhya- and Śrautasūtra (2026-09-02). There is no clean
+> machine-readable edition. The OCR is what there is.
+>
+> **⚠ This plan says "None of the 4,737 existing records carry any English or Hindi today."
+> That is false.** Measured 2026-09-02: `ADS_001.json` is 1,437/1,437 and `APS_001.json` was
+> 358/358 for both languages — unverified machine output in `english_translation` /
+> `hindi_translation`. Those are not the served field names, so nothing publishes them; **a
+> migration that renames them to `english`/`hindi` would publish 1,795 unverified machine
+> translations.** Sample: `धर्मज्ञसमयः प्रमाणम्` → *"The knowledge of dharma is the proof of
+> time"*, misreading *samaya* (agreed practice) as "time". Step 6 must be rewritten: the job
+> is not "translation begins", it is "these drafts are quarantined or discarded".
+
+> ## Feasibility of re-parsing the Dharmasūtra from OCR — measured 2026-09-02, VERDICT: tractable
+>
+> Against `4617.txt` (9,642 lines; **use it, not `4605.txt`**, which is the same edition as a
+> single-line 1.2 MB dump — the shape that made Manusmṛti unrecoverable).
+>
+> **The mūla/ṭīkā split is mechanical.** Sūtra lines end in a Devanāgarī numeral in daṇḍas
+> (`॥५॥`); Haradatta's commentary lines end in a plain `॥`. They alternate, one per line,
+> blank-separated. 1,313 lines match the sūtra pattern; 3,507 do not.
+>
+> **The structural spine is in the body, not just the table of contents** — explicit
+> colophons: `इति प्रथमः खण्डः`, `व्याख्यायामुज्ज्वलायां प्रथमः पटलः`.
+>
+> | Level | Found in OCR | Canonical | Shortfall |
+> |---|---:|---:|---:|
+> | sūtras | 1,313 | ~1,364 | ~4% |
+> | khaṇḍas | 59 | ~61 | 2 |
+> | paṭalas | 20 | 22 | 2 |
+>
+> **The shortfall is uniform (~3–4%) across all three levels, which is OCR dropout, not
+> missing structure — and it is self-detecting.** The 1,313 numerals form 63 runs that align
+> with the khaṇḍa colophons; 29 of 63 are already exactly `1..N`, and the other 34 fail by
+> *individually missing* numbers in otherwise contiguous runs (the run at line 1748 skips 18,
+> 20 and 23; at 1879 skips 10; at 2336 skips 2). A gap in a contiguous run is repairable and
+> its candidate line is adjacent. `4605.txt` is a second OCR pass of the same edition and is
+> the cross-check for the gaps.
+>
+> So the contiguity guard step 5 demands is not just possible, it is the natural output shape.
+> **What is NOT yet established:** which khaṇḍa belongs to which paṭala/praśna (the colophons
+> give ordinals, and only one praśna marker was found in the body), and whether the 2 missing
+> khaṇḍa colophons hide a run-merge. Both need checking before a parser is trusted.
 
 ## Diagnosis
 

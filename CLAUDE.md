@@ -40,8 +40,9 @@ has gone to Youvan.
 and it is a **superset**: it also holds Youvan's Brāhmaṇa/Āraṇyaka. This repo is the translation
 layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `docs/`.
 
-**2 texts do not yet follow the one-file rule** — the two Āpastamba dirs, still on the
-`sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24.
+**1 text does not yet follow the one-file rule** — `ApastambaDharmaSutra`, still on the
+`sutras[]` shape; see §"Off-schema" below. `ManuSmriti` left this set 2026-08-24 and
+`ApastambaParibhashaSutra` left for Youvan 2026-09-02 (Kalpa, not dharma).
 
 **13 texts are undigitised, and 11 no longer have a directory at all** — their
 README-only dirs were drained 2026-09-02 and `git rm` took the empty parents with them.
@@ -140,8 +141,10 @@ print(t)"
 
 ### Off-schema — needs RE-DIGITISATION, not renumbering
 
-`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra` — 2 files on the superseded `sutras[]`
-shape, with no `chapters[]` array, so they are absent from every count above and do not ingest.
+`apastamba_dharma_sutra` — 1 file on the superseded `sutras[]` shape, with no `chapters[]`
+array, so it is absent from every count above and does not ingest. **Its 1,437 records already
+carry unverified machine `english_translation`/`hindi_translation`; renaming those to
+`english`/`hindi` during a migration would publish them.**
 **Check for a clean source before characterising damaged data**: Manusmṛti's damage analysis
 cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:

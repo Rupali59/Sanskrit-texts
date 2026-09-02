@@ -28,8 +28,8 @@ Both are right, and they count different things.
 | Off-schema — the 2 Apastamba texts, scored `1` chapter each by the one-liner | +2 | +2 | — |
 | **The one-liner above** | **56** | **920** | — |
 
-The off-schema two (`apastamba_dharma_sutra`, `apastamba_paribhasha_sutra`)
-are **not ingestible as they stand** and need re-digitisation — see
+The one off-schema text (`apastamba_dharma_sutra`) is **not ingestible as it stands** and
+needs re-digitisation — see
 [`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
 Counting them as 2 "chapters" flatters the corpus; the on-schema row is the honest figure
 for anything about coverage. **`manu_smriti` left this set on 2026-08-24** — re-acquired
@@ -193,16 +193,26 @@ Bühler's verse by verse, which has not been done. Tier is `range` (2,680–2,70
 
 ## Dharmashastra — OFF-SCHEMA remainder
 
-2 files on the superseded `sutras[]` shape.
-**They have no `chapters[]` array, so they are absent from every table above and do not ingest.**
+**1 file** on the superseded `sutras[]` shape — was 2 until 2026-09-02, when
+`apastamba_paribhasha_sutra` left for Youvan (it is Kalpa, not dharma: praśna 24–25 of the
+Āpastamba Kalpasūtra, opening `यज्ञं व्याख्यास्यामः`). It now lives at
+`Tushar/Youvan/texts/Kalpa/Paribhasasutra/Apastamba/`.
+**It has no `chapters[]` array, so it is absent from every table above and does not ingest.**
 Not a renumbering job — the data cannot be mapped onto the canonical
-Praśna→Paṭala→Khaṇḍa→sūtra structure. See
+Praśna→Paṭala→Khaṇḍa→sūtra structure from the numbers alone. See
 [`plans/2026-08-22-dharmashastra-redigitisation.md`](./plans/2026-08-22-dharmashastra-redigitisation.md).
 
 | text_id | Directory | Files |
 |---|---|---:|
 | `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 1 |
-| `apastamba_paribhasha_sutra` | [`Dharmashastra/ApastambaParibhashaSutra`](../Dharmashastra/ApastambaParibhashaSutra) | 1 |
+
+**⚠ Its 1,437 records already carry `english_translation` and `hindi_translation` on every
+row — unverified machine output.** Those are not the served `english`/`hindi` fields, so the
+seeder's allowlist cannot publish them. **A schema migration that renames them would publish
+1,437 unverified machine translations in one commit.** Sample: `धर्मज्ञसमयः प्रमाणम्` →
+*"The knowledge of dharma is the proof of time"*, misreading *samaya* as "time". The
+re-digitisation plan asserts "none of the records carry any English or Hindi"; measured
+2026-09-02, that is false for both Āpastamba texts.
 
 ## Author and period — held texts
 
