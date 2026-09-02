@@ -154,6 +154,33 @@ is asking the rights holder, which is a human act. Recorded here so that the nex
 find a NonCommercial source does not quietly treat the question as settled because a file was
 downloadable.
 
+### eGangotri — the first upstream that dissolves this question, 2026-09-02
+
+**Licence: CC-0. Public domain, no attribution required, no NonCommercial clause.**
+
+Asserted in a watermark stamped on every page of the scans supplied for **Dharmasindhu** and
+**Nirṇayasindhu**:
+
+> `CC-0. Swami Atmanand Giri (Prabhuji) . Veda Nidhi Varanasi. Digitized by eGangotri`
+
+**This is categorically different from every channel surveyed before it**, and the sentence
+opening this section — *"every reusable licence this corpus has found for new material is
+NonCommercial"* — is **no longer true**. CC-0 material can be served through a paid practice's
+API with no tension to reconcile, so eGangotri is the channel to try first for the nine texts
+still unsourced.
+
+**Two caveats, neither of which is a licence problem.**
+
+- **The scans have no text layer**, so what this corpus gets is OCR, not a digitisation. G6
+  keeps it in the sources repo's raw `.txt` tier; the accuracy bound is in
+  `scripts/sanskrit-pdf/README.md` §ocr.
+- **A CC-0 assertion on a scan is a claim about the scan.** These editions are old enough that
+  the underlying texts are public domain regardless, so nothing here turns on it — but do not
+  generalise the stamp to a modern edition or a living translator's work.
+
+An honest CC-0 upstream that only yields OCR is still worth more than a clean transcription
+under terms this corpus cannot use.
+
 ---
 
 ## 3b · SARIT — `sarit.indology.info` · `github.com/sarit/SARIT-corpus`

@@ -450,3 +450,46 @@ or **OCR of scans** — and Muhūrta Mārtaṇḍa already showed what that cost
 needing mūla, Sanskrit ṭīkā and Hindi bhāṣā-ṭīkā separated. **Both were declined 2026-08-25**;
 the eleven are recorded as unsourceable rather than pending.
 
+> **Superseded in part, 2026-09-02 — 2 of the 11 are now acquired.** Rupali supplied CC-0
+> eGangotri scans of **Dharmasindhu** and **Nirṇayasindhu**, and the OCR route that was declined
+> above was taken for both; see §"Dharmasindhu and Nirṇayasindhu" at the end of this file. The
+> cost estimate above was not wrong — the separation work it names is still outstanding — but
+> "unsourceable" now describes **nine**, not eleven. The remaining nine are unchanged, and the
+> blocker on `brahmasphuta_siddhanta` is licence, not availability.
+
+
+## Dharmasindhu and Nirṇayasindhu — acquired by scan, OCR'd 2026-09-02
+
+Priorities #1 and #2 of the eleven, both supplied by Rupali as PDFs after every online channel
+returned ABSENT for them (§"Source survey", §"Second survey"). **These are the first two of the
+eleven to be acquired at all.**
+
+| | Dharmasindhu | Nirṇayasindhu |
+|---|---|---|
+| Edition | Kāśīnātha Upādhyāya, with Mihir Chandra's Hindi **Bhāṣā Ṭīkā** — Khemraj | Hindi edition |
+| Pages | 738 | 1,024 |
+| Text layer | **none** — the only extractable characters are a per-page eGangotri watermark | none |
+| Licence | **CC-0** (eGangotri watermark) — the first non-NonCommercial upstream this corpus has found; see `LICENSES.md` §"The NonCommercial question" | as above |
+| Landed at | `../sanskrit-texts-sources/Dharmashastra/Dharmasindhu/DharmaSindhu.{san,hin}.txt` | `.../NirnayaSindhu/NirnayaSindhu.{san,hin}.txt` |
+
+**Identified from content, not from the filename** — G26 now has nine instances, and
+`MuhurtaMartanda` and `GargaSamhita` both died on inspection after looking right by name. The
+Dharmasindhu scan carries `धर्मसिन्धु` in its running head (OCR: `धमेसिन्धु`) and its body is
+kāla-nirṇaya throughout — tithi/lagna **gaṇḍānta**, the śānti prescribed for a birth in each
+half, vessel-and-image **varuṇa-pūjana** with 108 āhutis. That is the right subject *and* the
+right genre, which is the test the fabricated Siddhānta texts failed.
+
+**They are OCR, so they stay in the raw `.txt` tier — G6.** Neither has a `text_id`, and
+neither may acquire one without proofing or an explicit decision from Rupali to qualify that
+rule. The accuracy measurement that bounds any such decision is in
+`scripts/sanskrit-pdf/README.md` §ocr: **use the `hin` output, not `san`** — the `san` model
+renders `और` zero times in 738 pages.
+
+**Still to do before either is usable:** separating Kāśīnātha's Sanskrit *mūla* from the Hindi
+Bhāṣā Ṭīkā. The discriminator is **lexical, not structural** — unlike Āpastamba, where mūla and
+commentary were both Sanskrit and split on a numeral. Build the Hindi marker list against
+measured output: a narrow list under-detected Hindi badly in the first Nirṇayasindhu pass and
+classified a plainly-Hindi line as Sanskrit.
+
+**The ṭīkā is an asset, not only an obstacle.** Hindi is one of the corpus's two target
+languages, and a human Hindi rendering outranks any machine draft.
