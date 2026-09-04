@@ -1021,3 +1021,21 @@ named `1784366669.pdf`. The obvious reading — a book and its companion — is 
 a 981-page Saṃhitā from a different Veda in a different layer. G26 records nine sources that were
 a different text than their **name** implied; this is the same failure with **adjacency** in place
 of a name, and it is cheaper to fall for. Identify every file on its own content.
+
+### Seen 2026-09-04 and NOT staged — `Mundaka_Upanishad_SP.pdf`
+
+*Swami Paramārthananda's Lectures on Muṇḍakōpaniṣad*, 457pp, born-digital (Word 2007), tier
+**`clean`** — 29,094 Devanāgarī characters, 0 PUA, mātrā ratio 0.440, so `pdftotext` would extract
+it directly. It is the easiest file to read of anything supplied this week, and it is still not
+corpus material.
+
+**It is a modern teaching commentary, not an edition of the text**: 712,180 Latin characters
+against those 29,094 Devanāgarī. What it contains is a contemporary teacher's lectures, in
+English, quoting the mūla. This corpus holds mūla.
+
+**Left in place, not staged and not deleted.** Recorded here so the next person who finds it does
+not have to re-decide — and because the reason is a scope judgement rather than a defect, which is
+the kind of thing that gets silently re-litigated. If it is ever wanted, it would be as a
+*verification* reference for a human translator, never as a text or a translation source: the
+publication gate takes verified human translation only, and this is a third-party work in
+copyright besides.
