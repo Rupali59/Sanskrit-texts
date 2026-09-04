@@ -94,7 +94,7 @@ The converter gates differently per tier. This is the third authority tier along
 | Jābāla | **6** | 6 khaṇḍas / 14 mantras | unit-mismatch | Deussen, Bedekar & Palsule pp.757–761 | Source numbers 6 khaṇḍas; the citation counts mantras within them |
 | Subāla | **15** | 16 khaṇḍas | unit-mismatch | Aiyar pp.61–77 | Section count, off by one. Mantra total uncitable |
 | Taittirīya Up. | **51** | 31 anuvākas | unit-mismatch | Deussen vol.1 pp.217–246 | 31 is anuvākas; ours is verses within them |
-| Bṛhadāraṇyaka | **437** | — | uncitable | Only per-brāhmaṇa structure cited | Kāṇva vs Mādhyandina differ substantially |
+| Bṛhadāraṇyaka | **437** | 438 (80/66/92/92/33/75) | **firm — the file cites itself** | The held file's OWN front-matter table, `मन्त्राः ८० / ६६ / ९२ / ९२ / ३३ / ७५` | Was recorded `uncitable` until 2026-09-04. It is not: 424 `मन्त्र N` markers and 430 bracketed `[adhyāya.brāhmaṇa.mantra]` refs are inside the text field. See below |
 | Maitri | **99** | — | uncitable | Hume 1921 pp.412–458 | Manuscripts "vary considerably" |
 | Mahānārāyaṇa | **263** | — | uncitable | — | Recensions give 64/80/84/25 **chapters**, never a mantra total |
 | Paiṅgala | **29** | — | uncitable | Deussen pp.915–916 | 4 chapters attested, no verse total |
@@ -1719,3 +1719,54 @@ not apply.
 
 Verified: **zero duplicate keys and zero duplicate texts**, where there were 1,126. Corpus-wide
 duplicate texts fell from ~1,915 to 789 — the remainder is other texts, not this one.
+
+### `brihadaranyaka_upanishad` — the citation was inside the file all along
+
+Measured 2026-09-04, re-reading a text that had been written off as uncitable and unrecoverable.
+Both readings were too pessimistic, and in the same way: the apparatus that contaminates the
+`text` field **is** the structural witness.
+
+**What is in the text field, counted:**
+
+| marker | count | canonical |
+|---|---:|---|
+| `मन्त्र N` | **424** | exactly the Kāṇva mantra count |
+| bracketed `[adhyāya.brāhmaṇa.mantra]` refs | **430** | recorded as 251 until today |
+| ` SF ` phrase markers | 4,305 | the contamination |
+| brāhmaṇa headings | 48 | 47 brāhmaṇas + one in the front matter |
+| adhyāya colophons | 5 | of 6 |
+
+**The chapters already reconcile to canon, adhyāya by adhyāya.** Per chapter the refs run `1..N`;
+the counts are:
+
+| adhyāya | held chapters | mantras | canonical | note |
+|---|---|---:|---:|---|
+| I | 1–6 | 2, 7, 28, 17, 23, 3 | **80 = 80** | exact |
+| II | 7–12 | 20, 4, 6, 14, 19, 3 | **66 = 66** | exact |
+| III | 13–22 | 10, 13, 2, 2, 1, 1, 23, 12, 27 + 1 | **92 = 92** | `III.ix.28` spilled into ch22 |
+| IV | 23–29 | 7, 4, 38, 25, 15, 3 | **92 = 92** | `IV.iii` runs to 38, split across ch25/ch26 |
+| V | 30–42 | 13 chapters | 33 over **15** brāhmaṇas | **short two** — `V.xi`/`V.xii` merged or missing |
+| VI | 43–47 | 13, 16, 13, 28, 4 | **75 = 75** | but `VI.i.1` is **absent** — ch43 starts at `VI.i.2` |
+
+**Do not parse the roman numerals.** They are internally inconsistent — `I.I` is I.ii, `I.Ii` is
+I.iii, `III.vI` is III.vii, `V.xIi` is V.xiii. The brāhmaṇa index is safe to take from chapter
+ORDER, which is correct throughout the file; it is not safe to take from the numeral. A converter
+that trusts the numeral will silently mis-file adhyāya V.
+
+**The one genuinely fuzzy piece.** Each shloka reads
+`<leaked tail of previous mantra> <headings> मन्त्र N [ref] C1 SF F1 C2 SF F2 … Cn SF Fn`. The
+marker is a hard cut, so the leading contamination needs no guessing. What needs work is
+separating `F_i` from `C_{i+1}` inside a ` SF `-split segment. The orthographic discriminator,
+measured over 412 known-pure canonical chunks and 824 known-pure sandhi-free chunks:
+
+| feature | canonical | sandhi-free |
+|---|---:|---:|
+| word-final `स्` | 0.9% | **13.1%** |
+| halanta-final | 12.0% | **35.4%** |
+| contains `ऽ` | **4.6%** | 1.7% |
+
+Real signal, too weak per token to place a boundary in a *mukhya* Upaniṣad. The tractable form is
+an **alignment**, not a classifier: `F_i` is `C_i` with sandhi undone, and `C_i` is known
+(recursively, from `C1` which the marker delimits exactly), so the split point is where the
+segment's prefix stops matching the previous canonical chunk. Well-posed and testable — and it
+edits a *mukhya* Upaniṣad, so it is a decision, not a default.

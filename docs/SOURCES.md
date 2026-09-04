@@ -928,3 +928,27 @@ Swāmī Mādhavānanda's Advaita Ashrama edition.
 
 Identified by sampling the **middle and end** (G34); the front matter is translator's preface and
 would have said nothing about the structure.
+
+**OCR'd 2026-09-02, and the reading FAILS the gate — measured 2026-09-04.** Both passes ran
+(`BriDevanagari.san.txt`, `BriDevanagari.hin.txt`). The scan is genuine, correctly identified and
+public-domain-shaped; the *reading* of it is not usable on a citation surface:
+
+| measure | result |
+|---|---|
+| Devanāgarī chars, `san` pass | 471,649 — but only **94,863** on Devanāgarī-dominant lines. The rest is the edition's English half misread as Devanāgarī |
+| word accuracy, mantra 1.1.1 | **27 of 53 words (51%)** appear verbatim in the held text |
+| systematic substitution | ए→प — `पव` 53, `पवं` 43, `पष` 57 where `एव` / `एवं` / `एष` belong |
+| `याज्ञवल्क्य` | correct **5** times against **12 distinct corrupt spellings** |
+| `hin` pass | **worse** — the attested incipit `उषा वा अश्वस्य` does not occur in it at all |
+
+`उषा वा अश्वस्य मेभ्यस्य शिरः । सू्ेश्वह्ु, धातः प्राणः…` against the true
+`…मेध्यस्य शिरः । सूर्यश्चक्षुर्वातः प्राणो…`.
+
+**Same shape as Sūrya Siddhānta, and the same answer: do not convert from it (G6).** The value of
+this scan is unchanged for the purpose it was acquired for — its running heads are still the only
+witness that prints the canonical `adhyāya.brāhmaṇa.mantra` citation, and it is a proofing
+reference. It is the OCR, not the book, that is refused.
+
+**A bilingual page is an OCR hazard in itself.** Four fifths of this file's apparent Devanāgarī is
+Latin text the `san` pass hallucinated into Devanāgarī. Any character-count check on a bilingual
+edition will read as healthy — measure the Devanāgarī-dominant *lines*, not the character total.
