@@ -94,7 +94,7 @@ The converter gates differently per tier. This is the third authority tier along
 | Jābāla | **6** | 6 khaṇḍas / 14 mantras | unit-mismatch | Deussen, Bedekar & Palsule pp.757–761 | Source numbers 6 khaṇḍas; the citation counts mantras within them |
 | Subāla | **15** | 16 khaṇḍas | unit-mismatch | Aiyar pp.61–77 | Section count, off by one. Mantra total uncitable |
 | Taittirīya Up. | **51** | 31 anuvākas | unit-mismatch | Deussen vol.1 pp.217–246 | 31 is anuvākas; ours is verses within them |
-| Bṛhadāraṇyaka | **437** | 438 (80/66/92/92/33/75) | **firm — the file cites itself** | The held file's OWN front-matter table, `मन्त्राः ८० / ६६ / ९२ / ९२ / ३३ / ७५` | Was recorded `uncitable` until 2026-09-04. It is not: 424 `मन्त्र N` markers and 430 bracketed `[adhyāya.brāhmaṇa.mantra]` refs are inside the text field. See below |
+| Bṛhadāraṇyaka | **431** | 438 (80/66/92/92/33/75) | **firm — the file cites itself** | The source's OWN front-matter table, `मन्त्राः ८० / ६६ / ९२ / ९२ / ३३ / ७५` | Re-parsed 2026-09-04 to adhyāya + `brāhmaṇa.mantra`; 47 brāhmaṇas = canonical 47, III/IV/VI exact. Recorded `uncitable` at 437 until that day. The 7 short: 4 absent from the source's own sequence, 3 the unsubdivided V.15 |
 | Maitri | **99** | — | uncitable | Hume 1921 pp.412–458 | Manuscripts "vary considerably" |
 | Mahānārāyaṇa | **263** | — | uncitable | — | Recensions give 64/80/84/25 **chapters**, never a mantra total |
 | Paiṅgala | **29** | — | uncitable | Deussen pp.915–916 | 4 chapters attested, no verse total |
@@ -1745,8 +1745,15 @@ the counts are:
 | II | 7–12 | 20, 4, 6, 14, 19, 3 | **66 = 66** | exact |
 | III | 13–22 | 10, 13, 2, 2, 1, 1, 23, 12, 27 + 1 | **92 = 92** | `III.ix.28` spilled into ch22 |
 | IV | 23–29 | 7, 4, 38, 25, 15, 3 | **92 = 92** | `IV.iii` runs to 38, split across ch25/ch26 |
-| V | 30–42 | 13 chapters | 33 over **15** brāhmaṇas | **short two** — `V.xi`/`V.xii` merged or missing |
-| VI | 43–47 | 13, 16, 13, 28, 4 | **75 = 75** | but `VI.i.1` is **absent** — ch43 starts at `VI.i.2` |
+| V | 30–42 | 13 chapters | 33 over **15** brāhmaṇas | the JSON merged two; **the source has all 15** |
+| VI | 43–47 | 14, 16, 13, 28, 4 | **75 = 75** | exact |
+
+**Two claims in the first version of this table were the instrument, not the text**, and both are
+corrected above. `VI.i.1` is present — its ref is printed `[VI.1.1]` with an ASCII `1`, which a
+roman-numeral pattern misses. Adhyāya V has all fifteen brāhmaṇas in the source, each with its own
+`<ordinal> ब्राह्मणम्` heading, `एकादशं` and `द्वादशं` included. Both wrong readings came from
+counting the derived JSON's `chapters[]` and calling the result a property of the text
+(`rule:discernment-checks` §4).
 
 **Do not parse the roman numerals.** They are internally inconsistent — `I.I` is I.ii, `I.Ii` is
 I.iii, `III.vI` is III.vii, `V.xIi` is V.xiii. The brāhmaṇa index is safe to take from chapter
@@ -1768,5 +1775,19 @@ measured over 412 known-pure canonical chunks and 824 known-pure sandhi-free chu
 Real signal, too weak per token to place a boundary in a *mukhya* Upaniṣad. The tractable form is
 an **alignment**, not a classifier: `F_i` is `C_i` with sandhi undone, and `C_i` is known
 (recursively, from `C1` which the marker delimits exactly), so the split point is where the
-segment's prefix stops matching the previous canonical chunk. Well-posed and testable — and it
-edits a *mukhya* Upaniṣad, so it is a decision, not a default.
+segment's prefix stops matching the previous canonical chunk.
+
+**Done 2026-09-04** — `scripts/sanskrit-convert/brihadaranyaka.py`. 6 adhyāyas · 47 brāhmaṇas ·
+**431 mantras**, numbered `brāhmaṇa.mantra`. The alignment's own check is the output's
+orthography: word-final `स्` came out at **1.15%** against the canonical 0.9% baseline and the
+sandhi-free 13.1%. A drifting split would have pushed that number up, so the table above is both
+the thing that made the parse possible and the thing that verifies it.
+
+Three source properties, recorded rather than repaired: **4 numbers absent from the source's own
+sequence** (I.5 skips 5, 8, 20; II.4 skips 10); **V.15 unsubdivided** — the entire Īśā-parallel
+passage under mantra 1 where canon has 4, so a unit mismatch and deliberately NOT in
+`known_gaps`; and **8 mantras whose terminator is not `॥ N ॥`** — 6 have none at all, 2 close on
+the source's running count (`॥ ११ ॥`, `॥ १२ ॥` for V.11.1 and V.12.1).
+
+**G32 fired**: 6.2.13 closes `। १३ ॥`, a single daṇḍa on the opening side. A pattern demanding
+the double form on both sides scores it zero and leaves a colophon in the served text.

@@ -118,7 +118,7 @@ titles at all — so there is nothing to separate.
 | `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 5 | 51 | 0% | range |
 | `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 627 | 0% | range |
 | `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 0% | firm |
-| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 47 | 437 | 0% | uncitable |
+| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 431 | 0% | firm |
 | `isha_upanishad` | [`Upanishad/shukla-yajurveda/Isha`](../Upanishad/shukla-yajurveda/Isha) | 1 | 18 | 0% | firm |
 | `jabala_upanishad` | [`Upanishad/shukla-yajurveda/Jabala`](../Upanishad/shukla-yajurveda/Jabala) | 1 | 6 | 0% | unit_mismatch |
 | `paingala_upanishad` | [`Upanishad/shukla-yajurveda/Paingala`](../Upanishad/shukla-yajurveda/Paingala) | 3 | 28 | 0% | uncitable |
