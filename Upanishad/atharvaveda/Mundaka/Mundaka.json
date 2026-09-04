@@ -3,6 +3,22 @@
   "title_sa": "मुण्डकोपनिषत्",
   "title_en": "Mundaka Upanishad",
   "category": "upanishad",
+  "structure": {
+    "levels": [
+      "mundaka",
+      "khanda",
+      "mantra"
+    ],
+    "chapter_level": "mundaka",
+    "shloka_number_format": "khanda.mantra",
+    "citation_prefix": "mundaka_upanishad",
+    "expected_chapters": 3,
+    "expected_verses": 65,
+    "count_authority": "firm",
+    "count_authority_reason": "The six khaṇḍas come out 9/13/10/11/10/11 = 64, the canonical Muṇḍaka count, with nothing inferred. The 65th entry is the śānti-pāṭha, numbered 0.1 so it sits outside the khaṇḍa sequence instead of occupying a slot.",
+    "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
+    "known_gaps": []
+  },
   "chapters": [
     {
       "number": 1,

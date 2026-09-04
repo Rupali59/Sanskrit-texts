@@ -1791,3 +1791,43 @@ the source's running count (`॥ ११ ॥`, `॥ १२ ॥` for V.11.1 and V.
 
 **G32 fired**: 6.2.13 closes `। १३ ॥`, a single daṇḍa on the opening side. A pattern demanding
 the double form on both sides scores it zero and leaves a colophon in the served text.
+
+### `taittiriya_samhita` — the 2026-09-02 re-parse left the apparatus in, in 505 of 650 units
+
+Repaired 2026-09-04. The re-parse got the *structure* right — 44 (kāṇḍa, praśna) pairs against
+the canonical 44, 650 anuvākas against 651 — and none of that changes here. What it left behind
+was the edition's apparatus, sitting inside the Devanāgarī `text` field of **505 of 650** units.
+
+**Two separate defects, and only the first was visible from the text.**
+
+| | what leaked | units | how it got there |
+|---|---|---:|---|
+| A | the section heading `प्रथमकाण्डे द्वितीयः प्रश्नः २ १`, and at a kāṇḍa boundary the śānti-pāṭha, `॥ हरिः ओ(४)म् ॥` and `॥ श्री गुरुभ्यो नमः ॥` | **44** | the heading prints *between* praśnas, so it lands at the head of each praśna's first anuvāka |
+| B | the previous praśna's anukramaṇī (`… यूपस्त्रयोदश च ॥`) **and its repeated citation** `॥ २। १। १॥` | **461** | a repeated citation was skipped without advancing the read cursor, so its text went to the NEXT anuvāka |
+
+Defect B is why `7.1.1` opened with the tail of `6.6.11` and carried a literal `॥ ६। ६। ११॥`
+inside its text. It is also why the count of affected units (505) is six times what a probe for
+heading words finds (78) — **most of the leak had no heading in it to probe for.**
+
+**The converter's own comment described the fix it did not make.** It read *"start AFTER the
+first citation … otherwise anuvāka 1 swallows the preceding śānti"*, and then rebuilt anuvāka 1
+from a fixed 4,000-character window that swallowed the śānti anyway. `rule:safety-flag-needs-a-test`
+— an asserted property, in a file nothing tested.
+
+**The repair is a prefix cut and was gated as one.** Every one of the 505 changes was verified to
+leave the new text a *suffix* of the old — 0 units rewritten, 0 grown, 43,492 characters of
+apparatus removed, keys byte-identical so nothing renumbered. `guard()` now refuses to write at
+all if `1.1.1` does not open `इषे त्वोर्जे त्वा` or if any citation, heading or kāṇḍa front
+matter survives; both were mutation-checked and both make the converter exit 1 rather than emit.
+
+**Do not widen the heading pattern to a bare `काण्डे`.** `काण्डात्काण्डात्प्ररोहन्ति` (TS 5.2.8),
+`काण्डेकाण्डे वै क्रियमाणे` and `काण्डेभ्यः स्वाहा` are mantras. The pattern requires
+`काण्डे … प्रश्नः`, and the seven surviving occurrences of the bare word were each checked as
+genuine text before the strip was accepted.
+
+**The one short anuvāka is now LOCATED, not merely counted: `1.2.7`.** Praśna 1.2 runs 1..14 with
+7 absent, and the absence is the source's own — its citation sequence reads 1,2,3,4,5,6,8,…,14 in
+**both** occurrences, and `॥ १। २। ७॥` appears nowhere in the file. **Whether the TEXT of 1.2.7
+is absent or merged into a neighbour is undetermined** (G12 — a missing record may be a
+mislabelled one), and settling it needs a printed edition. The accented 981-page witness staged
+2026-09-04 is exactly that.
