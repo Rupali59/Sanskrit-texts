@@ -952,3 +952,72 @@ reference. It is the OCR, not the book, that is refused.
 **A bilingual page is an OCR hazard in itself.** Four fifths of this file's apparent Devanāgarī is
 Latin text the `san` pass hallucinated into Devanāgarī. Any character-count check on a bilingual
 edition will read as healthy — measure the Devanāgarī-dominant *lines*, not the character total.
+
+## Supplied 2026-09-04 — two scans, and only one of them is what the batch implied
+
+Both arrived together, one named for the Muṇḍaka. **They are different works, and the unnamed
+one is not an Upaniṣad at all.** Identified by content per G26 and G34 — sampling the middle and
+end, never the front matter, which OCR'd blank on both.
+
+### `TaittiriyaSamhita-Jangamwadi-eGangotri-981pp.pdf` — the Taittirīya Saṃhitā, accented
+
+Supplied as `1784366669.pdf`, **981pp**, 94 MB, landscape two-page spreads, `no-text` tier.
+Staged at `Veda/krishna-yajurveda/TaittiriyaSamhita/raw/`.
+
+**Rights: CC-0** — the only text layer in the whole file is the digitiser's stamp, one line
+repeated across 981 pages: *"CC-0. Jangamwadi Math Collection. Digitized by eGangotri"*. That is
+56,896 characters of provenance and zero characters of text, which is why `classify.py` tiers it
+`no-text` rather than `clean`.
+
+**Identified at page 979, by colophon:** `इति तैत्तिरीयसंहितायाः सप्तमकाण्डः समाप्तः ॥ ७ ॥`, under
+a running head reading `तैत्तिरीय … संहिता`. Page 950 carries `अम्बे अम्बाल्यम्बिके`, page 700 the
+aśvamedha animal lists. The last leaves are an **anukramaṇī index** giving each pratīka with a
+number — `इषे (१९५८३)`, `वायव्यं (११२६५)` — which is a citation witness in its own right.
+
+**It is ACCENTED.** Udātta and anudātta marks throughout, so it is a svara witness, and svara
+marks are precisely what OCR mangles. Any conversion has to be gated on that, not on word
+accuracy alone.
+
+**What it would answer, and what it would not.** The held `taittiriya_samhita` sits at **anuvāka**
+granularity — 650 units over 7 kāṇḍas `[145, 75, 55, 82, 120, 66, 107]` — which was verified
+2026-09-02 against researched anuvāka counts and is **not in doubt**. This edition is a
+**mantra-level** printed witness with the traditional numbering, so what it offers is finer
+granularity and an independent accented reading, not a correction to the 650.
+
+**One real defect it could fix now:** the held unit `1.1.1` opens with the śānti-pāṭha and the
+edition's own front matter — `ओं शान्तिः शान्तिः शान्तिः ॥ हरिः ओ(३)म् ॥ श्री … गुरुभ्यो नमः ॥
+प्रथमकाण्डे प्रथमः प्रश्नः १ १` — and only then the true opening `इषे त्वोर्जे त्वा`. Unlike
+Muṇḍaka's defect this is **not an off-by-one**: nothing is shifted, the apparatus is prepended
+inside the unit. It is a text-field contamination, fixable from the held HTML alone.
+
+### `Mundaka-GitaPress-Gorakhpur-136pp.pdf` — the named text, and it is the named text
+
+**136pp**, 197 MB, `no-text` tier, from an archive.org derive (its sidecar's identifier is
+`/var/tmp/autoclean/derive/mundaka-upanishad-gita-press-gorakhpur`). Staged at
+`Upanishad/atharvaveda/Mundaka/raw/` with its page-number sidecar.
+
+Identified at page 130: running head `१२० मुण्डकोपनिषद् [ मुण्डक ३`, over a two-column
+**Sanskrit + Hindi** body — Śāṅkara-bhāṣya with facing Hindi (`यहाँ ब्रह्मविद्या समाप्त हुई है`).
+
+**Muṇḍaka does not need it for structure.** It was re-parsed 2026-09-02 onto the canonical
+9/13/10/11/10/11 = 64. So this is a **proofing** witness — and, more usefully, a **Hindi
+translation** witness for a Vedic corpus that is 0% translated. It is a commentary edition, so the
+mūla/bhāṣya split is the same problem Golādhyāya and Sūrya Siddhānta posed.
+
+**Rights: not established.** The early leaves OCR blank, so the scan's own copyright page could
+not be read; Gita Press editions are generally still in copyright. **Recorded, not a bar** — G33
+and the standing instruction. Serving is gated mechanically by `seed_texts.py`'s allowlist, and
+the sources tree is not a publication.
+
+`Mundaka-GitaPress-Gorakhpur-page-numbers.json` is archive.org's leaf→printed-page OCR sidecar.
+**Treat it as a hint, not an authority**: every entry in its opening run carries
+`"confidence": 0`, and several read a page number as `"3"` or `"11"` where the leaf is unnumbered
+front matter.
+
+### The lesson worth keeping: a batch is not an identification
+
+Two files arrived together, one named `Mundaka Upanishad - Gita Press Gorakhpur.pdf` and one
+named `1784366669.pdf`. The obvious reading — a book and its companion — is wrong: the second is
+a 981-page Saṃhitā from a different Veda in a different layer. G26 records nine sources that were
+a different text than their **name** implied; this is the same failure with **adjacency** in place
+of a name, and it is cheaper to fall for. Identify every file on its own content.
