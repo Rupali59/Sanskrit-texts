@@ -82,6 +82,9 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `atharvaveda_samhita` | [`Veda/atharvaveda/ShaunakaSamhita`](../Veda/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 0% | range |
+| `sarvartha_chintamani` | [`Hora/Parashari/SarvarthaChintamani`](../Hora/Parashari/SarvarthaChintamani) | 17 | 1227 | 0% | supported |
+| `jaimini_sutra` | [`Hora/Jaimini/JaiminiSutras`](../Hora/Jaimini/JaiminiSutras) | 2 | 408 | 0% | range |
+| `jataka_tattva` | [`Hora/Parashari/JatakaTattvam`](../Hora/Parashari/JatakaTattvam) | 17 | 2277 | 0% | supported |
 | `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 650 | 0% | **RE-PARSED 2026-09-02** — was 2,294 verses with 1,126 duplicates (49%), all ingesting. Now 650 anuvākas against canonical 651, in the canonical 44 (kāṇḍa, praśna) pairs, numbered `praśna.anuvāka` from the source's own citations. **REPAIRED 2026-09-04** — that re-parse left the edition's apparatus inside 505 of the 650 text fields (section headings, anukramaṇī, repeated citations); 43,492 characters removed as a verified prefix cut, no unit renumbered. The short anuvāka is located: `1.2.7`, absent from the source's own numbering. |
 | `rigveda_samhita` | [`Veda/rigveda/ShakalaSamhita`](../Veda/rigveda/ShakalaSamhita) | 10 | 10,470 | 0% | range |
 | `samaveda_samhita` | [`Veda/samaveda/KauthumaSamhita`](../Veda/samaveda/KauthumaSamhita) | 1 | 1,866 | 0% | range |
@@ -271,8 +274,11 @@ survive as `.placeholder` directories. This table is now the sole record of all 
 > superseding the CCITT dead end) · `SarvarthaChintamani` (`1267.txt`) ·
 > `SiddhantaShiromani` (**all four parts**, three as clean machine-readable Devanāgarī) ·
 > `GargaHora` (see its new row). **Supplied but needing re-supply:** `PrashnaMarga`.
-> **Still unsourced:** `JatakaTattvam`, `JaiminiSutras`, `ChandraKalaNadi`, and
-> `BrahmasphutaSiddhanta` (licence — a human ask, not a pipeline one). The two
+> **Still unsourced — ONE, as of 2026-09-04:** `ChandraKalaNadi`.
+> `JatakaTattvam` and `JaiminiSutras` were supplied that day and are now DIGITISED (see the
+> registry above); `BrahmasphutaSiddhanta` was acquired the same day from GRETIL+TITUS into
+> the gitignored sources tree as reference — partial (5 of 24 chapters) and IAST, so it has
+> deliberately **not** been given a `text_id` or a corpus JSON. The two
 > `Vedanga-Jyotisha` recensions are **lost**, not pending. Provenance and terms for every
 > one: [`SOURCES.md`](SOURCES.md).
 

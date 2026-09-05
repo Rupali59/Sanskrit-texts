@@ -1039,3 +1039,69 @@ the kind of thing that gets silently re-litigated. If it is ever wanted, it woul
 *verification* reference for a human translator, never as a text or a translation source: the
 publication gate takes verified human translation only, and this is a third-party work in
 copyright besides.
+
+## Supplied 2026-09-04 (second batch) — two of the four unsourced texts, both digitised same day
+
+`1223.txt` and `1154.txt`, numeric filenames in the sanskritdocuments style. Identified by content
+per G26/G34.
+
+### `1154.txt` — Jaimini Sūtra, and it is the cleanest source acquired all day
+
+`महर्षि-जैमिनिप्रणीतं (उपदेशापरनामकं) जैमिनि-सूत्रम्`, *Vidyābhavan Prācyavidyā Granthamālā-57*,
+with the **Tattvādarśa** commentary of Pt. Sītārāma Śarmā Maithila (Jyotiṣācārya Jhā). Staged at
+`Hora/Jaimini/JaiminiSutras/raw/1154.txt`.
+
+**129,358 Devanāgarī characters and ZERO Latin** — a real digitisation, not OCR of a scan, so the
+gate that blocked five texts earlier the same day does not apply at all. 410 markers of the
+**doubled-single** form `।। N ।।`; a probe for `॥ N ॥` scores zero (G32).
+
+**Partial by transmission, not by damage:** it carries exactly ONE adhyāya colophon, 127
+characters from the end — `…जैमिनिसूत्रतिलके द्वितीयाध्यायः समाप्तः` — so it holds **adhyāyas 1–2
+of the canonical 4**. Digitised the same day: 408 sūtras across 8 pādas.
+
+### `1223.txt` — Jātaka Tattva, bilingual, and its markers are not daṇḍas
+
+`श्री महादेवकृतं जातकतत्त्वम्` — *Mahādeva's Jātaka Tatva, with an English Translation by
+Panditabhushana V. Subrahmanya Sastri, B.A., Asst. Secretary to the Govt. of Mysore (Retd.)*.
+Staged at `Hora/Parashari/JatakaTattvam/raw/1223.txt`.
+
+**97,821 Devanāgarī against 280,689 Latin** — English-dominant, with an English index at the end
+that is apparatus and must not become text.
+
+**The marker form is the finding.** Probes for `॥ N ॥` *and* `।। N ।।` both score **ZERO**. The
+verse numbers print as Devanāgarī digits followed by a full stop — `२०८. सुतेशदृष्टेऽङ्गे…` —
+**2,270 of them**. This is the same shape that made Garga Horā look markerless: *a text can look
+unsegmentable and be densely numbered, and the probe is what is wrong.* Digitised the same day:
+17 chapters, 2,277 sūtras.
+
+**The English translation is a separate work in copyright and never reaches a served field** —
+`english` is empty and `status` is `untranslated` throughout, asserted by a test that fails if a
+single Latin character survives into any `text`.
+
+## `brahmasphuta_siddhanta` — acquired 2026-09-04 as REFERENCE, deliberately not a corpus text
+
+Fetched from **both** channels and staged at `Siddhanta/BrahmasphutaSiddhanta/raw/`:
+`…-GRETIL-TEI.xml` plus `…-TITUS-part{1..5}-ch{12,18,19,20,21.17-23}.htm`.
+
+**Correction to the entry above:** the TITUS path recorded there
+(`texte/etcs/ind/aind/klskt/mathemat/brsphsd/`) serves a "not yet available" placeholder. The real
+files are `brsph001.htm`–`brsph005.htm`, and the working host is **`titus.fkidg1.uni-frankfurt.de`**
+— `titus.uni-frankfurt.de` 403s/404s directory listings.
+
+**Correction to the markup assessment:** the GRETIL TEI has **zero `<div>` elements** — its own
+boilerplate note claiming "unnumbered div elements are used to structure the text" is generic
+template text that does not describe this file. Structure lives in `xml:id` on `<lg>` and `<l>`,
+e.g. `BSS_18.42a`, so chapter/verse/pada are all machine-extractable from the id alone. Verified
+independently: 0 divs, 214 `<lg>`, 645 `xml:id`s. **This is better than the Bṛhadāraṇyaka failure
+mode, not the same as it.**
+
+Contents confirmed against the canonical 24 chapters: 12 (66 verses), 18 (102), 19 (20), 20 (19),
+21.17–23 (7) — **214 verses / 431 padas**, so "partial" is accurate. Script is IAST throughout.
+
+**No `text_id`, no corpus JSON, by decision.** Rupali confirmed 2026-09-04 that this material is
+for internal reference while building astroacharya's logic, not for publication. The
+`sanskrit-texts` repo is public and its contents are served by astroacharya's `/texts` API, so the
+gitignored sources tree is where reference-only material belongs and the licence question does not
+arise there. Licences recorded verbatim: GRETIL **CC BY-NC-SA 4.0**; TITUS *"No parts of this
+document may be republished in any form without prior permission by the copyright holder"*
+(© TITUS Project, 8.12.2008).

@@ -1831,3 +1831,72 @@ genuine text before the strip was accepted.
 is absent or merged into a neighbour is undetermined** (G12 — a missing record may be a
 mislabelled one), and settling it needs a printed edition. The accented 981-page witness staged
 2026-09-04 is exactly that.
+
+## Three texts digitised 2026-09-04 — and the marker form was the blocker in every case
+
+Corpus 59 → **62 texts**, 92,798 → **96,710 shlokas**. Dedupe loss unchanged at exactly **71**;
+`validate_corpus.py` unchanged at 6 failing / 103 errors, with none of the three among them.
+
+| text | structure | units | count authority |
+|---|---|---:|---|
+| `sarvartha_chintamani` | 17 chapters, flat | **1,227** | `supported` — chapters from the source's own headers |
+| `jaimini_sutra` | 2 adhyāyas × 4 pādas | **408** | `range` — adhyāyas 1–2 of the canonical 4 |
+| `jataka_tattva` | 17 chapters, flat | **2,277** | `supported` — two independent witnesses agree |
+
+**The common thread, and it is worth more than any of the three texts.** All three had been
+recorded as unsourceable or unsegmentable, and in every case the obstacle was **the shape of the
+verse marker, not the quality of the source**:
+
+- **Sarvārtha Cintāmaṇi** — the chapter witness was inside `1267.txt` all along: 16 English
+  `CHAPTER-N` page headers from J.N. Bhasin's facing translation, plus `अथ चतुर्थोऽध्यायः ॥४॥` for
+  chapter 4. Two prior attempts missed it because both probed only for *Devanāgarī* colophons in a
+  *bilingual* book.
+- **Jātaka Tattva** — probes for `॥ N ॥` and `।। N ।।` both return **zero**. The numbers print as
+  Devanāgarī digits plus a full stop (`२०८.`), and there are **2,270** of them.
+- **Jaimini Sūtra** — uses `।। N ।।` exclusively; the `॥ N ॥` probe returns zero (G32 again).
+
+**A text that looks markerless is a claim about the probe.** Check the shape before concluding the
+source is unusable — three texts were written off on this and all three converted.
+
+### `sarvartha_chintamani` — printed numbers deliberately NOT preserved
+
+Cross-validated at three fixed points: ch1 ends verse 138, ch2 ends 117, and ch6's last **content**
+verse is 112 — verse **113 is the colophon itself**
+(`इति सप्तमभावस्थनिश्चितार्थविचारयुक् । षष्ठाध्यायो मया प्रोक्तो व्यंकटेशेन धीमता ।।११३।।`),
+which is why 112 and 113 are both "right" depending on what is being counted.
+
+**Verses are renumbered by position and the structure block says so.** The printed numbers survive
+only in fragmentary runs — chapter 1 has **19** ascending runs, chapter 3 has **46** — so they
+cannot carry a citation. A rival converter preserved the printed numbers but dropped **148 verses**,
+and its numbers came from those same fragmentary runs, making its citability illusory. *Honest
+positional numbering beats a "verse 113" that is not the edition's 113.* A three-level
+`chapter.section.verse` scheme was considered and ruled out: the restarts are OCR damage, not a
+per-house structure.
+
+### `jaimini_sutra` — 408 sūtras, and the mūla/ṭīkā split turned on an asymmetry
+
+Adhyāya 1: pādas `{36, 120, 45, 49}` = 250. Adhyāya 2: `{59, 30, 32, 37}` = 158. The 10 raw
+value-runs resolve to 8 colophon-confirmed pādas; two pairs merge where no colophon separates them.
+Incipit `उपदेशं व्याख्यास्यामः`, as attested.
+
+**Only the mūla is marker-terminated in this edition**, so the marker fixes where each sūtra *ends*
+and the parser only has to find where it *starts*. An earlier version of that rule cut at any
+hyphen and **silently truncated 30 genuine sūtras at ordinary compound-word hyphens**
+(`रिष्फ-नीच-कामस्था विरोधिनः`) — caught by diffing all 410 segments rather than sampling. Absences:
+`1.2.50`, `2.1.31`, `2.2.21`. Sūtra 1.2.21 was **recovered**: its marker prints `।। २१ ।` with a
+single closing daṇḍa.
+
+### `jataka_tattva` — 17 sections from two agreeing witnesses
+
+The 22 raw runs are **17 real sections** (lettered A–T, skipping I/J/O), confirmed by two
+independent witnesses that agree exactly: the source's own front-matter *"Tatva Indicative letter"*
+contents table, and the in-body running headers. A, B, S, T are Tatvas I/II/IV/V; C–R are the 13
+Vivekas of Tatva III (Prakīrṇa). The 22-vs-17 gap is internal numbering resets inside 4 sections.
+
+**The number LEADS each unit here** — unlike Bṛhadāraṇyaka and Sarvārtha Cintāmaṇi — so the mūla is
+"everything up to the first Latin letter". Six sūtras were recovered by targeted search for the
+source's own punctuation variants (comma, stray space, no punctuation at all, one ASCII digit). A
+broad loosening of the marker was **tried and rejected**: it inflated 2,271 hits to 2,613 by
+matching ordinary English list punctuation ("6th, 8th") in the translation. Three chapters carry
+printed-number duplicates with no distinguishing witness and are renumbered positionally; the other
+14 keep their printed numbers.

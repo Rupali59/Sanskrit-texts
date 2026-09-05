@@ -1,0 +1,2391 @@
+{
+  "text_id": "brahmasphuta_siddhanta",
+  "title_sa": "ब्राह्मस्फुटसिद्धान्तः",
+  "title_en": "Brahmasphuta Siddhanta",
+  "category": "siddhanta",
+  "structure": {
+    "levels": [
+      "adhyaya",
+      "shloka"
+    ],
+    "chapter_level": "adhyaya",
+    "shloka_number_format": "integer",
+    "citation_prefix": "brahmasphuta_siddhanta",
+    "expected_chapters": 24,
+    "chapters_emitted": 11,
+    "expected_verses": 316,
+    "count_authority": "mixed",
+    "count_authority_reason": "Only 11 of the 24 chapters are emitted in this file -- DO NOT PAD TO 24. Of those, chapters 12, 18, 19, 20 and verses 17-23 of 21 are GRETIL-witnessed ('firm', numbered by content alignment against the witness, not the OCR digit). **'firm' QUALIFIES THE NUMBERING, NEVER THE TEXT.** The verse TEXT throughout this file is unproofed OCR of a 336-page scan and carries character-level error in every chapter, witnessed ones included: ch.12 verse 1 measures ~76% character-similar to the attested reading (`परिकममं विशति थः` for `परिकर्मविंशतिं यः`), and 8 of the 316 verses still carry an inline editorial variant such as `(व)` that the apparatus strip did not catch. Only 11 word-level corrections were applied across the four fully-witnessed chapters. This text is REFERENCE material, acquired 2026-09-04 for work on astroacharya's logic; it is not proofread and must not be quoted as an edition or cited verse-for-verse without checking the scan. The rest emitted are 'ocr_only' -- internally consistent (no duplicate or misordered verse numbers) but with no independent check on their verse text. Per-chapter breakdown, authority and verse count as digitised: ch.3=ocr_only (56v); ch.5=ocr_only (17v); ch.7=ocr_only (15v); ch.8=ocr_only (7v); ch.12=firm (57v); ch.15=ocr_only (49v); ch.18=firm (70v); ch.19=firm (16v); ch.20=firm (13v); ch.21=firm (7v); ch.23=ocr_only (9v). The chapters NOT emitted are: ch.1 (pp.1-22): DUPLICATE verse number(s) [16, 46]; verse numbers are not ascending -- segmentation is wrong; ch.2 (pp.23-48): DUPLICATE verse number(s) [4, 5, 14, 50]; verse numbers are not ascending -- segmentation is wrong; ch.4 (pp.72-77): DUPLICATE verse number(s) [16]; verse numbers are not ascending -- segmentation is wrong; ch.6 (pp.85-90): DUPLICATE verse number(s) [6]; verse numbers are not ascending -- segmentation is wrong; ch.9 (pp.102-109): verse numbers are not ascending -- segmentation is wrong; ch.10 (pp.110-136): DUPLICATE verse number(s) [0, 2, 4, 10, 16, 20, 27, 28]; verse numbers are not ascending -- segmentation is wrong; ch.11 (pp.137-152): DUPLICATE verse number(s) [55]; verse numbers are not ascending -- segmentation is wrong; ch.13 (pp.171-181): DUPLICATE verse number(s) [12, 46]; verse numbers are not ascending -- segmentation is wrong; ch.14 (pp.182-198): DUPLICATE verse number(s) [42, 46]; verse numbers are not ascending -- segmentation is wrong; ch.16 (pp.216-229): verse numbers are not ascending -- segmentation is wrong; ch.17 (pp.230-232): verse numbers are not ascending -- segmentation is wrong; ch.22 (pp.298-315): DUPLICATE verse number(s) [9, 16, 28, 36, 46]; verse numbers are not ascending -- segmentation is wrong; ch.24 (pp.319-336): DUPLICATE verse number(s) [0, 1, 2, 6, 7, 8, 10, 11, 14, 15, 16, 22, 24, 32, 36, 38, 66, 72]; verse numbers are not ascending -- segmentation is wrong. Each of those has a colophon-attested BOUNDARY (see the CHAPTERS table in brahmasphuta_siddhanta.py's source) but this session could not resolve its OCR verse-terminator digits to a duplicate-free numbering -- absent here means 'not digitised yet', not 'does not exist'. All boundaries, emitted or not, come from colophons, never from verse-number contiguity. Per-chapter reasons for the emitted chapters: ch.3: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.71: '...त्रिप्रश्नाध्यायस्तृतीयोऽयम् ॥६६॥ इति ब्रह्मगुप्ते तृतीयोऽध्यायः' | ch.5: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.84: 'आर्या षड्विंशत्यर्कग्रहणपंचमोऽध्यायः ॥२६॥ इति ब्रह्मगुप्ते पंचमोऽध्यायः' (p.82 excluded -- see EXCLUDE_PAGES) | ch.7: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.91 opens fresh (no heading); p.98: '...चन्द्रच्छायातिरिह सप्तमोऽध्यायः ॥१८॥ इति श्रीब्रह्मगुप्ते सप्तमोऽध्यायः' | ch.8: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.101: '...चन्द्रच्छायाऽष्टमोऽध्यायः ॥९॥ इति भो ब्रह्मगुप्ते अष्टमोऽध्यायः' | ch.12: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 4 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.153 opens 'अथ गणिताध्यायः'; p.170 'इति ब्रह्मगुप्ते द्वादशोऽध्यायः' -- GAṆITA, GRETIL-witnessed | ch.15: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.199 opens 'अथ त्रिप्रश्नोत्तराध्यायः पञ्चदशः'; p.215 '...त्रिप्रश्नाध्यायः पंचदशाध्यायः समाप्तः' | ch.18: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 3 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.233 opens 'अथ कुट्टकाध्यायः अष्टादशः'; p.266 ends with the source's OWN closing colophon 'कुट्टकाष्टादशोऽध्यायः ॥१०१॥' -- KUṬṬAKA, GRETIL-witnessed (pp.250-251 excluded, see EXCLUDE_PAGES). DISCREPANCY, reported not resolved: the PRINTED EDITION's own terminator numbers this chapter's last verse 101, but GRETIL's own <lg> count for chapter 18 is 102 (ids BSS_18.1 through BSS_18.102). Both are the source's own numbers for two different things -- the edition's running count and GRETIL's transcription count -- and this parser does not adjudicate which is off by one. | ch.19: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 3 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.267 opens 'अथ शंकुच्छायादिज्ञानाध्यायः एकोनविंशः'; p.271 '...छायाध्यायः एकोनविंशोऽध्यायः समाप्तः' -- GRETIL-witnessed | ch.20: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 1 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.272 opens 'अथ छन्दश्चित्युत्तराध्यायो विंशतितमः'; p.277 '...विंशतितमः समाप्तः' -- GRETIL-witnessed | ch.21: GRETIL-witnessed (verses 17-23 only); numbering by content-aligned against GRETIL; 0 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.278 opens 'अथ गोलाध्यायो नाम एकविंशतितमः'; p.297 'इति ब्रह्मगुप्ते गोलाध्यायः (२१ अध्यायः समाप्तः)' -- GRETIL-witnessed for verses 17-23 ONLY PARTIAL CHAPTER: only verses 17-23 are digitised here (the GRETIL-witnessed span). Verses 1-16 and 24 onward exist in the source and were segmented by this parser, but their OCR terminator numbering could not be resolved without a witness (unlike chapters 12/18/19/20, whole-chapter digit-based numbering for ch.21 left an unresolvable duplicate outside 17-23) -- they are NOT emitted, per se they are absent from this file, not claimed to not exist. | ch.23: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.316 opens 'अथ मानाध्यायो नाम त्रयोविंशः'; p.318 '...मानाध्यायः (२३ अध्याय समाप्त)'. The source's own closing count is 1063 āryā verses (p.336: 'आर्याः १०६३'); this digitisation's total is 316 and the two are not the same measurement -- the source count is for the whole treatise as printed, this total is verses this parser could segment across the chapters it emitted, after 4 excluded pages (see EXCLUDE_PAGES) and any chapter's own recorded gaps.",
+    "canonical_authority": "GRETIL (Dvivedin 1902 / Hayashi 1993) for chapters 12, 18, 19, 20, 21.17-23; none for the other 19 chapters",
+    "known_gaps": [
+      "3.3",
+      "3.4",
+      "3.9",
+      "3.13",
+      "3.16",
+      "3.23",
+      "3.41",
+      "3.42",
+      "3.54",
+      "3.58",
+      "5.7",
+      "5.8",
+      "5.9",
+      "5.10",
+      "5.15",
+      "5.16",
+      "5.17",
+      "5.18",
+      "5.21",
+      "7.6",
+      "7.9",
+      "7.11",
+      "8.1",
+      "12.10",
+      "12.19",
+      "12.20",
+      "12.43",
+      "12.48",
+      "12.52",
+      "12.56",
+      "12.59",
+      "12.63",
+      "15.2",
+      "15.9",
+      "15.12",
+      "15.25",
+      "15.29",
+      "15.32",
+      "15.36",
+      "15.37",
+      "15.40",
+      "15.51",
+      "15.53",
+      "18.10",
+      "18.19",
+      "18.20",
+      "18.26",
+      "18.27",
+      "18.28",
+      "18.29",
+      "18.39",
+      "18.42",
+      "18.46",
+      "18.47",
+      "18.49",
+      "18.50",
+      "18.51",
+      "18.52",
+      "18.53",
+      "18.54",
+      "18.64",
+      "18.69",
+      "18.70",
+      "18.71",
+      "18.72",
+      "18.73",
+      "18.74",
+      "18.76",
+      "18.86",
+      "18.87",
+      "18.89",
+      "18.90",
+      "18.92",
+      "18.96",
+      "18.101",
+      "19.8",
+      "19.13",
+      "19.14",
+      "19.15",
+      "20.2",
+      "20.6",
+      "20.7",
+      "20.8",
+      "20.10",
+      "20.17",
+      "23.3",
+      "23.4"
+    ],
+    "known_gaps_reason": "Verse numbers absent from the SOURCE's own terminator sequence within a chapter, not dropped by this parser -- recorded per 'chapter.verse', never invented."
+  },
+  "chapters": [
+    {
+      "number": 3,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "पर्वन्यः क्रान्तिवशात्तन्मध्यात्‌ शंुतलमभितरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "नृचायाग्रगजमत्स्य दयमध्यगसूत्रयोरयुतियेत्र । सोत्तरगोले याम्या शंकूतला दक्षिणे सौम्या",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "छायाग्रभ्रमरेखा सृत्रद्यतेवृ तपरिधिरग्रस्पृक्‌ । न~ 7 1 तद न, |) 2 }। . ॥, # क 9 # छायावृतेऽकागू कर्णणगुरणा व्यासतदल हूताकम्रा । विषुवच्छाया याम्या तदंतरक्यं भजस्यामग्रं 11 ४ ॥1 रकुप्राच्यपरा या छाया भुजकृतिविशेषम्‌लं नयत्‌ । तत्प्राच्यपरलछाया भजाग्रयोरन्तरं कोटिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "दिगसध्ये चछायाग्रं कृत्वा शंकोयंथादिज्ञं मरणम्‌ । दिग्मध्यस्थित्कोः छायाग्रं रमति विपरीतम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "शंकुर्लबच्यायाक्षज्या तद्रगेसंयुते मलम्‌ । विषवत्कशंद्धाया करणत्यिदा शकु:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "। उन्नतजीवाकोटि छाया हग्ज्या भुजो नतज्या वा । करगदायावृत्तं व्यासाद्ध दवयमतोन्यत्र",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "( +. शंकु छाया कः थोस्तिज्या कृतितत्समास गुखहतया । मूल लम्बाक्षज्येस्तदंशकास्तदधनुर्भागाः ।। & ॥ विषुवत्करणहते वा शंकु छायागते पृथक्‌ ्रिज्ये त्रिज्येतर जीवा लंबाक्नांसो क्रमज्योना",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "भवते ९० रम्बाशालमोज्य ज्यःवितराक्षलम्बज्य 1 शंकुाय्रागुरिते छाया द्रादशहते वान्ये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "लंबाक्षज्यावरगं प्रोह्यज्या कृतेः पदं वान्या श्रन्यत्र सर्वदोन्नत जीवांशा नयनमेव",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "इष्ठदिनाद्ध नतां क्रान्त्यंेक्यातरं क्रियतुलादौ 1 ` न ननन ननन ।) 9 }) मेषवृषमिथुनजा सवाहोराच्यादः चरदलप्राणान्‌ । प्रारवत्करृत्वा स्वाधो विशोध्य चरखं उकप्रारणाः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "मिथुनाहोरात्राद्धं क्रियाहोरात्रदलहत गु रितम्‌ । तज्ज्याभिराप्तं चापान्तरारि लंकोदयप्रारणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "प्ट ज्यावर्गात्तत्क्रान्तिज्या वर्गोनात्तत्पदाहता त्रिज्या । ` तरेर त = ततगदचा |) ०€ |) स्वचरासुभिसुनयुता १६१७ क्रमोत्‌ क्रमस्य क्रमोक्रमन्यस्ताः । उदयप्रारणा व्यस्ताश्चाक तात्कालिकं कत्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "रविरणा भुक्त्याराशेः कला गुरणा स्वोदयासुभिभक्ताः । | 4 च १ रा्िकलाभिलंन्धा प्रदनासुभ्योऽशवः शोध्याः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "प्रक्षिप्य राय भुक्तं ञञेषा सुम्यः क्रमेर यावंतः । शुद्धत्फदया सूयं तावतो राशयः क्षेष्याः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "शेषां त्रिशत्‌ गुखितानस्तन शुद्धोदया सुभि विभजेत्‌ । लदधंभागादिरवो प्रक्षिप्य तथा कृते लग्नम्‌ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "रविराहायभुक्तलिप्तास्तदुदय गुरिता हता ग्रहकलाभिः १८०० । लब्यं प्रारास्थाप्याः प्रक्षिप्याकं ग्रहाभुक्तम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "। तावत्सू्ये राशि न क्षिपेत्समो लग्नराशिभिर्यावत्‌ । किप्रग्रहारणं प्राणान्‌ प्रक्षिप्य स्थापितेष्वसुषु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "तदधिककालोदयवधरालि कलाभिभजेत्‌ फलं प्रारणान्‌ । |. , कि = वनाम कनानन्न ने, त, कन्न्वननननानक + ननन ननन )} => || प्राग्‌दयं प्रनासुभिरूनोर्छी भुक्तराशिभिलग्नम्‌ । कृत्वेवमूनमक लग्नसमं प्राग्भवेत्कालः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "गतञेषाल्पास्याह्न सौम्थोत्तरगोलयोरचराद्ध न \"। ऊनाधिकस्य जीवा स्वाहोरान्रयाद्ध संगरिता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "त्रिज्याहता युतोना क्षितिज्यया सौम्ययाम्ययोचदः । चेदोबलम्बकगुरणो व्यासाद्ध' विभाजितः शंकु: ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "८ ^ ( ५६ ) विषुवत्कणं विभक्तः खेदो वां द्रादश्ञाहूतः शंकुः । कुक तिविहीनाया व्यासाद्ध कृतेः पदं हग्ज्या",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "हृग्ज्या द्वाद गुरिता विभाजिता शकुना फल छाया । व्यासाद्धं॒खेदहतं विषवत्करहतं करणः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 29,
+          "text": "गरितं वा दादशभिर्व्यासिाद्धं शंकुनाहतं करणः । जीवा क्षयवृद्धिज्यायुतहीना ज्या क्रियतुलादौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "स्वाहोरात्रयद्ध गुरा व्यासाद्ध विभाजिताऽथवा चैदः । रक्वारि प्राग्वज्ज्या स्वाहोरान्यद्ध धात कृता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "व्यासाद्धकृति गरिता विषुवत्कर्णेन वा भवेत्करः । लम्बगुरो घातः शंकु व्यासाद्धकृतिभक्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "धातोवाकगुणा १२ स्तरिज्या विषुवत्कणवधः हतः शङ कर्णाङ्गते संशोध्य द्वादश्षव्मं १४४ पद॒ चखाया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "्र्पप्ररनासूनां यदि बहवश्चरदलासवः क्षितिजा । हतयोना जोवोना क्षयवृद्धिज्योक्तवदेषं ं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "स्वा होरात्रादधंभुदकदक्षिएयो क्षितिज्यया युतविहीनं । द्य दलान्त्यज्याभिज्य क्षयवृद्धिज्या युतोनांत्या ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "। छेदहता दयुदलांत्या दिनाद्ध करन वा करः । भक्ता ज्यया ऽथवाऽन्त्या दिनाद्ध कर्णा हता कर्णः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "च्‌.दलान्नतो क्रमज्या स्वाहोरात्रयाद्ध' सगु विभजेत्‌ । व्यासा न फलोना च्‌ दलान्त्ययाथवा खेदः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "भ्न्त्यानतो क्रमज्या हीनां ज्या षट्‌ पृथक्‌ छेदः ज्याभ्यां च सह फलानि छाया नयनानि षट्‌ त्रिशत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "( ६३ ) छायो करण विभक्ता विषुवत्करणन सगुरणा नृज्या । ल्षन्धं सौम्येतरयोः क्षितिज्यया हीनसंगुक्त",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 39,
+          "text": "\\ गखितं व्यासाद्धन स्वाहोरात्राद् भक्तमाप्तधनु | उत्तर गोले युक्तं याम्ये हीनं चरप्राणैः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "दिनगतशेषचेदप्राराः प्राग॑परदिनाद्ध योविज्लोध्याप्तम्‌ । व्यासाद्ध चेष्भे क्रमजोवा चापं नताः प्रासाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "स्वाहोरात्रा्देन छायाकर्णाहतेन भक्ताय । विषुवत्क गुणाया ग्यासद्धङ़ृतेः फलं सौम्ये ॥ ४१1 - क्षयवृद्धिज्याहीनं युक्त याम्ये धनुश्चरप्रारौः ॥ सौम्येयुतं विहीनं याम्थे प्रागवरयोः ध्राणाः ।1 ४२१ ग्रह्लोगताऽवशेषाः फएलमन्त्याया विशोध्य शेषस्य । धनुरक्रमजीवाभिः पूर्वपिरयोनेताः प्राणाः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "दिनदलकरण गृरत्या चछायाकरणोदता फलोनान्या । ेषस्योतकमजीवा धनुदिनाद्ध नताः प्रारणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "चरदल जीवोनाधिकं फल क्रमज्यो धनुरचराद्धन ! युतहीन पूर्वाह्न दिवसगतं शेषं भ्रपराद्ध",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": ", उत्करमजीवाम्यधिक क्रमज्यया संयुक्त (तं) धनुधनुषा । व्यस्तविशुद्धो हीनाड्चरांसवः पु्ववच्छेषं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 47,
+          "text": "। दिनमध्यार्का करत्याक्षभागयोगांतरं सामान्यदिशोः । नतभागा नवते प्राक ज्योन्नताः शेषाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "। नतभागज्या द्ादज्ञगुरणोन्नतां शज्यया हताल्लन्म्‌ । इष्टदिनाद्छाया यथोक्तकररेदिनादडद्ा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 49,
+          "text": "उन्नतजीवाभक्त' व्यासाद्धं द्वादशाहं कण : भध्यदछायाकरणं दादशक्रान्त्यतरं पदं वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 50,
+          "text": "कदलात्याज्या चैदोमध्यलछाया यथोक्तकररर्वा । श्रस्त्याज्या खेदाय म॑ध्यचायाऽयवा बहुधा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 51,
+          "text": "विषृवत्करेन गुरणा विष्वत्छाया हतोत्तरा कान्तिः । यदुनाक्क्षज्याया शंङ्गसममंडलस्थेऽक",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 52,
+          "text": "सर्यज्या जिनभागज्यया गरगाक्षज्ययाऽथवा भक्ता श्रग्रा दादक्षगरिता विषदच्छाया विभक्तावा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 53,
+          "text": "दाद विषुवच्छाया गणिते पृथगक्षलंबजीवे वा। क्रान्तिहूते सममण्डलकर्ण प्राग्वत्‌ पृथक्‌ छाया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "श्रक्राव्रा वर्गोनिं नज्या वगर्धिं ५३४६४५० मकं श कृतिगुितं । तन १- नन न -नर्वतथ्यद ष त उतो. |} ४५ 1} विष्वच्छाया कृत्याद्रा संगय॒तया ७२ न्य कृतियुतादाद्यात्‌ । पदमन्ययुतविहीनं सौम्येत्तरगोलयोः शंकु:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 56,
+          "text": "विदिक्लोः सौम्येत्तरयोरत्तरगोले पदोनयुक्तो.^ न्यः । सममण्डल दक्षि तोतच्छाया नाडिकाः प्राग्वत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "प्राच्यपरा श्ंकुतलान्तरदयन्यस्तकरणं वधविवरं । समदिग्विषवत्छायान्यदिगेक्यं कर विवरहतम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 59,
+          "text": "छायावृत्तागोमा सोम्येन युगान्तरेण याम्येन । विषवच्छायाज्जादिषु तुलादिषु तथान्तरं हीनं ॥ भन ॥\\ दृष्टाद्धाया वृत्त तदग्रयौ यदुदयास्तमयसूत्रम्‌ । श्रनुपातात चछंको विषवत्छायांतरमिहऽगा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "। छं कुप्राच्यपरांतर विषुवत्छायाऽगुलातर यास्य । उदगक्यं लम्बगुरं छाया कणद्ध.त क्रान्तिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 61,
+          "text": "करान्तिव्यासाद्धेगुणा ३२७० जिनभागज्या १३२९४ हतातुरजादौ । कक चक्रादत्पिोक्ततुलादौ स चक्रादध",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 62,
+          "text": "चक्रातप्रोह्य मृगादौ स्फुटो सङृत्‌ व्यस्तमूर धनंमध्यम्‌ । ग्रकस्मिाह्‌ शन्तरयुगयाते मध्यमा प्राग्वत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 63,
+          "text": "शाशिमृगोन्यत्यर्धे रात्रेगंतशेषनाडिका शकु । विपरीतगोलविधिना रा्यद्धां क्रान्तिराभिर्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 64,
+          "text": "क्षितिजेऽग्रा ्ाच्यपराक्रान्तिस्त्िज्यागुणावलम्बहता । द्विगुखमुदयास्तसूत्रं तत्त्रिज्या कृतिविरेषपदम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 65,
+          "text": "। भ्रक्षज्या शेकुवघालम्बकलभ्धोदयास्तमयसुत्रात्‌ । दक्षिरतः शंकुतलं दिवसो रात्रौ तदत्तरतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 66,
+          "text": "दिग्लम्बाक्षस्वोदयलग्नद्छायादिषु यदिष्टेषु । षट षष्टार्यारां ननिप्र्नाध्यायस्तरृतीयोयम्‌ \\",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "हम्ग रितैवयं न भवति यस्मात्पंचज्यया रविग्रह । यस्माद्यथा तदैक्यं तथा प्रवक्ष्यामि तिथ्यन्ते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "वित्रिभलग्नसमेऽकेन लम्बनं तदधिकोनके भवति । तत्संक्रान्ति ज्योदक्‌ यदाक्षजोवा समान तदा।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "ग्रवनतिरतोन्यथा भवति संभवेत्तदुदयं विलग्नसमं कृत्वा । तदुदितघटिकातः छंकुस्तच्चरप्रारं :",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "िज्याकृते चतुगुंरश्ञकुहताया फलेन भक्तायाः । ` तात्कालिकाकरारित्रयोनलग्नान्तरज्याया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "लम्बनघटिकालग्नात्‌ तात्कालिकार्त्िरादयूनात्‌ । ऋ्रण' (ऋणं) श्रधिके ऽक हीने धनमसरत्पच दृश्यन्ते ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "। करं गुणाद्‌ व्यासाद्धद्वसुवेद ४८ विभाजिता फलविभक्ता । लम्बननाडयो भास्करवित्रिभलग्नान्तरं वा \\",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "रविकरिपातगतिकला लम्बनघटिका गुरषष्टचा । यदि लम्बनमणम्‌ना धनमधिका स्वफललिप्राभिः ॥ ७ ५ ग्क्षज्याया वित्रिभलग्नात्स्वक्रान्तिहत्तराकस्य ! रन्नैर्ठा थरलधिका न नतिः सौस्या ऽन्यथा याम्या ॥ = ॥ (वि वित्रिभलग्नादुत्तरदक्षिरी विक्षेपहीनसंयुक्तम्‌ । शंहधनुरूत्तरायामधिकोनं दाक्षणावनतौ ॥ € ॥ तज्ज्येदु (तज्ज) शंश्रादययः सवितुः दृक्षेप मंडले युक्त । ग्रपमण्डलेन भानोश्चन्दरस्थ विमण्डलेन युते ॥ १० \\1 त्रिज्या व्गयुनो स्वश्चंकुव्गेण तत्पदे हश्ज्ये । रविशशिमध्यगतिगुणे तिथिगुणितव्यासदलभक्तं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "४६०५० स्वल्ायागुखिते वा मध्यगतितिथिगुरणस्वकणंहते । फलयोदिक्‌ याम्येतरमवनतिरेक्यं दिगन्यतवे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "संयोगान्तरमवनतिशर्ञांकविक्षेपयोः - सामान्यदिशो स्फुट विक्षेपः शशिवत्‌ स्थित्यद्धं विमदंदलनाडचः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "प्रार्वल्लम्बनमसकृत्तिथ्यांतात्‌ स्थितिदलेन हीनयुतात्‌ । ग्रधिकोनं तन्मध्या ऋरणयोरूनाधिकं घनयोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "ग्रासात्कालः प्राग्वत्स्पष्ठस्थितिदलगुरो सकृ दुक्त: । स्फुट विक्षेपक्ऋतस्थितिदलेन शोध्यः स्थितिदलात्स्वात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "। वलनादिशशशिवदन्यत्‌ ग्रहं तंक्ष्णाद्र वरनादेश्यम्‌ । हवादशभागादूनं स्वच्छत्वात्षोडज्ञादिदे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "न स्फुटमार्यभटादिष्टैक्रहणं यतस्ततः स्पष्टम्‌ । शंकरुज्यया कृतं लघु लघुतरमेवं र विग्रहम्‌ \\\\ २१ ॥ लग्नात्तरिराशिहीनादपक्रमक्षांशयुतिविहोषोनात्‌ । भततया तज्जया भक्ता त्रिज्याद्ध कृत्तिः ३६७२३२२५ फलेनहूता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "1 त्ित्रिभलग्ना्कातरजीवा धरिकादिलम्बनं लब्धम्‌ । वित्रिभलग्नापक्रमविक्षेषाक्षांशयुतिवियुति (ते)",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "जीवा शदांकभास्करमध्यमभूक्तातरेण संगुरिता । पंचदश-भिर्गरितं था विभाजिता च्रिज्यया वनति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "४६०५० पुर्ववदम्यस्पष ब्रह्योक्तस्पष्ठमुयज्ञशिपातः । ५ £ ना्यभटादिभिरक्त या तो स्फ्टास्ते ततो स्पष्टम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "इष्ठग्रासविमदस्थित्यर्द्धा वनति लम्बा नाद्येष। भ्रार्या षड़विशत्यकंग्रहरणपंचमोऽध्यायः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सितवृद्धि हानिर्वा यदि क्ापाज्जायते कथम गखितात्‌ । उपरि खेरिन्दुश्चेदर्धागरधं सदा शुक्लां",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "` र विद्रष्टं सितमद्धं कृष्णमहष्टं यथा तपस्थस्य । कुम्भस्य तथासन्न सेरर्थस्थस्य चन्द्रस्य ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "सिममुण्णतं यतोकं सितासितं शुक्लङृष्णपक्षति ग्रधगिद्ध परचादूगरिता च गोन्नतिस्तस्मात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "रविचन््रपात लग्नं स्वक्रान्त्युदयास्तलग्नगतशेषाः घटिकाः स्वचराद्ध॑स्तौ स्वेष्टकालिकेः शीतगो कृत्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "कषशशिविक्षेपाक्रमधनुषो योगान्तरं समान्यदिशोः ! सज्ज्येद्रयक्रमज्या स्वाहोरात्राद्यतो रविवत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "स्वक्रान्तिज्ये त्रिज्यागुखे हते लम्बकेन रविशशिनोः । मग्र पृथक्‌ स्वशंकुतल तुल्ययुक्ते विदिक्‌ वियुते ॥ ६ पृथगन्तरं संयोगो भुजो युतोर्की समान्यदिश्ो । दिर्ज्या वगत्स्वात्‌ स्वपुथक्स्थं वं विध्य पदे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "वियुतसहिते रविन्द्रोरेकान्यकपालसंस्कृतयोराद् । रविशशिहक्‌ शंक्वन्तरमन्योऽटटक्‌ हश्यशंक्कंक्यम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "म क्मादन्तवर्गयोगान्मलं पुर्वापरात्‌ भुजात्‌ कोटिः । भुजकोटिङृतियुतिपदं तियक्कणएंस्य चन्राग्र ॥ £ ॥\\ एवं तावाद्यावन्यदयोराद्यन्तयो शशिन्यकंः । रविरदधंचक्रयक्त कल्पो द्वितृतयोरकंः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "व्यकन्दुदलभुजाशाः शशिमानगुखाः शितं नवतिभक्ताः १ द्विगुरणंशो फमजोवाद्यावन्नवतिरंशाः ॥ ११ ५ नवतेरधिकांजाना करमज्यया संयतो क्रमतरिज्या । चन्द्रप्रमारागुणिता द्विगुणा व्यासाद्ध भक्तान्यत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "६५। ४० प्रथम शुक्लं रात्रौ दिवसेन्यसध्ययोस्तदेक्यार्धम्‌ । वरणज्यासवदिदावससितस्य सितं वरं गत्या",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "शरिमानपादवर्गो नामाद्ध सितांतराद्धं भक्तयुत . परिलेखमुत्रमध्ये शुक्लेद्ध व्देव परिलेखः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "्िप्रवनोत्तचा शको पूर्वापरतो निधाय दिग्मध्ये । छायागछायागखकुग॒दीधसुजवशात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "कृत्वा विशाद्वितयं हृगुद्ध तं प्रथग्मुञ्च॒रतमन्यत्‌ । प्रथमागस्थितटृषटचा द्वितीयवलागगं चन्द्रम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "गृहणं गृहयौयं वा विस्मयकरणाय दर्शयेद्‌ गणकः । लोकस्य नरपतेर्वां दुष्करमन्यर्गणितविद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "इति वाहुकरकोरिस्फुटसितपरिलेखमुत्रकरषु । भ्रारयाष्टादज्ञ चन्द्रश गोच्नतिरिह्‌ सप्तमो ऽध्यायः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 2,
+          "text": "प्राक्‌चन्द्रलरनयोरस्तलग्नशशिनो यतोन्तरात्पइचात्‌ । भरतिदिनमिन्दुच्छाया यतस्तदानयनमभिधास्ये ॥ १ ५ प्रगृहखकालिकरिष्टकालिकर्वाकलम्नशशिपातः । कृत्वोदयास्तलग्ने स्वचरप्राणान्‌ शंशाकस्य",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "यद्यधिकमुदयलम्नादूनं षडगृहयुतास्तमयलग्नात्‌ । लग्नं तदा शाको हृश्यः सवितुदंशने छाया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "लग्नसममुदयलम्नं षडगहयतास्त लग्नं समम्‌ । पूर्वापरयोः कत्वा ग॑तक्षेषाः स्वोदयै्टिका",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "४ क १ चि गतधटिकाः शेषा वा स्वदिनादधं समावंदीदुरद्ादं । । नतारि ् (~ ५ 3 । - गतदोषनाडिकाभिनताभिरथवाकवद्कुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "शंकुधनुषोऽधिकस्य स्फुटप्रमाणाद्वं लिप्तिकाभिर्वा ! ४, ि 3 रविश्शिमध्यगतिकला तिथ्यंशज्योनितादेदः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": ". श ७ १ .. ` हादह्यभिगुखिताया हज्या लब्धमगुलाय' यत्‌ । ॐ ५ ४. ६ फं | तत्प्रगृहे छाया स्फुटा न्यादावान्यथाऽऽसन्ना",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "ज्येष्टापक्रमभावे मध्याया कं वचश कस्य हाशिवमादाताम्रक्नारां तु स्वकोत ध वकात्‌ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "परिकममं विशति थः संक (व) लितादं पृथक्‌ विजानाति अष्टौ च व्यवहारान्‌ छायातान्‌ भवति गरणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "विपरीत दछेदगुणाः राइयोः दां शकाः समचेदाः । संकलितेशा योज्या व्यवकलितंशांतरं कायम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "रूपाणि देदगुरान्यंशयुतानि ्रोरबहुना वा प्रत्युत्पन्नस् भवति ददवधेनोधृतां्ञवधः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "प्रत्यत्वन्नः परिवर्य भागहारयेदांशौ वेदसंगुणयेदः। भ्रां शगुणो भाज्यस्य भागहारः सवरितयोः भागहारः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "सर्वशिताशवगं छैदकृति विभाजितो भवति वगः । स्वणितांशमुलं चेदपदेनोधृते मूलम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "वर्गभूलो स्थाप्योत्पद्यनोन्यकृतिस्त्रिगुणोत्तरसंगुणा च यत्प्रथमा 1 नोत्तरकृति रंत्यगुरणां तरिगणा चोत्तर धनदच घनः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "घन समाप्त - : छैदोघधना द्वितीयात्‌ घनमूलकृतिस्तिसंगुरणा सकृतिः । शोध्या त्रिपुरवेगुरिता प्रथमात्‌ धनतो घनो मूलं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "धनमूलं समाप्त “` घनमूलं समाप्त सह शचेशंशयतिचेदविभक्ताफलं प्रयमजातौ । ध्रशेरेशगुखिता छेदे घेरा द्वितीयाम्याम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "प्रथमद्वितीयजाति समाप्नः उद्धा छेदगणास्तृतीयजातौ दयोः पृथक्‌ परयोः । छेदं छेदा गरिता: स्वांशयतोनरूपरिमांशाः ॥ & ॥ तृतीय चतुर्थीजाति स । तरैर।रिके प्रमाराफलमिघा्य' तयोः सटशराजिः । दच्छाफलेन गरिता प्रमाराभक्ताफलंभवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "त्ररारिक स ° व्यस्तन्ीराक्शिकफलामिच्छाभक्तः प्रमाणफलघातः । व्यस्तत्रंरारिकं स° त्ररारिकादिषु फलं विषमेष्वेकादशतिष",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "फलं संक्रमणमुभयतो बहुराशिवधे तुलवधहतो जेयः । सकलेष्वेवं भिन्नेषु भयतलेदसंक्रमणं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "पंचसप्तनवेकादशरारि समातानि । ¦ प्राग्‌ भूल्यव्यत्यासो भांडप्रतिभांडिकैत्यदुक्तः ॥ समपरिकर्मान्यष्टानां व्यवहारारणामभिहितानि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "कालगुरितं प्रमाणं फलभक्तः व्ये रुगुणहतं कालः । स्वफलयुतरूपभक्त\" मूलफलक्यं. भवति मूलम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "कालप्रमारणघातः परकालह्तो दिधाद्यनिश्रवधात्‌ । भ्रन्याद्धङृतियुतात्पदमन्याद्धेनि प्रमाणफलम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "प्रदनेपयोगहूतया लम्धा प्रहनेपका गुणा लाभाः । ऊनाधिकोत्तराद् स्त्य तोनया स्वफलमून युतम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "मिश्रक व्यवहार समाप्तः पदमेकहोनमृक्तरगुरितं संयुक्तमादिनात्यधनम्‌ । श्रादि यतान्त्यधनादं मघ्यधनं पदगरण गरितम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "उत्तरहौना द्विगुखादिश्चवगं धनोत्तरटयघे प्रहिनप्य पदं शेषोनं द्विगुरोत्तर हतं गः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "} एकोत्तरमेका्ं यदोष्टगच्खुस्य भवति संकलितम्‌ । तद्‌ वियु्‌ गच्छ गुशितं तृ हतं संकलितम्‌. 11 १६ ॥ द्विगुखपदसकगुरितं तत्रहतं भवति वगंसंकलितम्‌ ॥ दनसंकलितं तक्रतिरेषां समगोलकंश्चितयः ॥ २० श्र ्टीव्यवहार समाघ्तः ॥ स्थूलफल त्रिचतुभुजबाहूप्रतिबाहूयोगदलघातः । भुजयोगाद्धचतुष्टवमुजो न घातात्पदं सुक्ष्मम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "भृजज़ृत्यंतरभ्‌ ह तहीनयुतामूदभाजिता बाघे । स्वाबाधावर्गोनम्दु . जवर्गान्फलमवलंब",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "भ्रविषमचतुलरमुजगतिभुजवधयो्युते पदं करः । करकृतिभ्‌ मुखयुतिदल व (प)र्गो नापदं लंब",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "कणेडृतेः कोटिृतं विशोष्य मूलं भुजो भुजस्य कति ! ्रोह्य यदं कोटिबाहु कृतियुतिषदं केः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "कर्णायुतादुदधाधिरखण्डे करणवलंबयोगे । वास्वाबाचे स्वयुतिह्ते द्विधा प्रयङ्कणंलंबगुणे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "प्रविषमपादवैभुजगुरकर्णे द्विगुणोवलंबकविभक्तः । हदयं विषमस्यभुज प्रतिङृतिभुजङ़ृतियोगमुला्ड ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "त्रिभुजस्य बघोभुजयोद्विगुणितलंबोदतो हृदयरजः । नृचतुरभृजहूदय द्विगुणं वहिवृत विष्कुभः \\",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "करस्त्रितभुजघःतंकामुभयथान्योन्यभाजितं गुरयेत्‌ । योगेन भुजप्रतिभुजवधयोः करणोपिदे विषमे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 29,
+          "text": "विषमचतुरस्त्रमध्ये विषमत्रिभुज्टयं प्रकल्प पृथक्‌ । करदयेन पुवंवदाबाधे लंबकौ च पृथक्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "विषमभुजातस्त्रिभुजे प्रकल्प्य कर्णो भजो तदादवे } पृथगृर्धा धरखण्डे कर्रयुतौ करंयोरधरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "त्रिभुजभुजौमूर्भुमिस्तलल्नंबो उद्ध मवलंब खण्डम्‌ } लंबकयोगाद्ध मधरोनम्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "करणवलकयुतौ दंड करवलंबयोरघरे । भ्रनुपातेन तुदूने उद श॒न्यांस पाटायाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "कृतियुरसहशराहयोर्बाहुधातो दविसंगुरणो लंबः । करत्यन्तरमसद्रहमयोद्धिगणं द्विसमत्रिभुजम्दमिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "इृष्टद्रयेन भक्तो द्विष्ट बग फलेष्टयोगाद् 1 विषमनत्निभूजस्य भुजा विष्टोनफलाद योगा मुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "इष्टस्य भुजस्य क्रतिर्भक्तो नेष्टेन तद्वलं कोटिः । ध्रायनचतुरस्त्रस्य क्षत्रस्यष्टाधिका करणः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "भ्रायतकरणौ बाहु भुजकृतिरिष्टेन भाजितेष्टोना ! दहता कोद्यधिकामुममुलानादिसमचतुरल्र",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "करगक्रतिस्त्रतमभजास्त्रय्चतुर्थो विश्रोध्य कोरिक्रति । बाहूक्रतेस्त्रिगुरार्या यद्यधिकोमुमुखं हीनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "जात्यद्रयकोरिभुजाः परकरगुरणाः भुजाइचतुविषमे । ग्रधिकोभुम्‌.लमुनो बाहु द्वितयम्भुजौ अन्यौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 39,
+          "text": "दृष्टगुरणकारगुरितो गियुं्कायः पुरांतरमनष्टम्‌ । द्वियतं गुराकरभाजितमुत्पातोन्यस्य समगत्योः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "व्यासव्यासाद्धंकृतिषरिधिफले व्यासहारिके त्रिगुणे । तदवर्गाभ्थिां दशाभिः संगरिताभ्यां पदे सक्ष्मे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "वत्ते शरोनगुरिितात्‌ व्यासाच्चतुराहतात्पद त्पदं जीवा | ज्यावरमेदचतुराहतज्ञरभक्त शरयुतो व्यासः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 42,
+          "text": "ज्याव्यासकृति वि्ेषान्मूलव्यासातराद्धं मिषुरत्पः व्यासो ग्रासोनगुरणौ ग्रासो नैवधोद्धतौ बारै ॥ ४२५ इष्ठश्षरस्य भक्त उयाद्ध छृन्तिशरफले यतौ व्यासौ । जञरयोः प.लयोरेष्यं गसौ ग्‌सद्यदुनं तत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "क्षेत्रव्यवक्षे्रफलं वेधगुरणं समखातफलहतं त्रिभिः शुन्या । मुखतुल्यतुल्यमु नेक्यानेकाग्रह्तानि समरस्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "मुखतुलयुतिः दलगुरितं बेधगुणं व्यासहारिकं गरितम्‌ । मुलतलगुं काद्ध वेधेन गशितमौच्चम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": "उद्रगरिताद्विशोध्य ग्यवहाररलं त्रि भिभेजेदेराम्‌ । लव्यं व्यवहारष्टले प्रक्षिप्य फलं भवति स॒क्ष्म",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 47,
+          "text": "। खात व्यवैहारश्चतुथं ष ्ाकृतिफलमौव्याहतमग्रतलेकयादंमोच्यदध्यगुरम्‌ ॥ चछरनगखितमिष्ठकाघनफलेन हृतमिष्कागरिितम्‌ 11 ४७ \\। चितिव्यवहारः. समाप्तः ॥ विस्तारायांमांगलघातो भार्गाहतो द्विवेदछतः । किरण गंलम्निलम्धे तत्परणवति्भैवति कथः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 49,
+          "text": "1 शाकादिषु जञात्मल्यां हातददयं जीयके शतं विकचं ज्ञालः । सरलादिषु सवेविहृग्हसु चतुः षष्टिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 50,
+          "text": "क्रवच व्ययहार समाप्तः । नवम सूकिषु दरामस्थूलेष्वेकादशो भवत्यरुषु । परिषेर्वेधपरिधिः षडंडवर्गो हतो गरितम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 51,
+          "text": "द्विचतुः सन्यंशगुरोमित्यंतर बाह्यकोरणगः परिधिः प्राग्बरङृत्वा गरि तं तद्‌ गणितं स्वगुरणकारहूतं ॥ ५१ ५ राशिव्यवहार: समाप्तः । छार्यातरसकहतं दलं प्रागपरयो दगतरेषम्‌ । दिनगत शेषां गहूतं चुदलं छायांतरब्येकम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 53,
+          "text": "दीपतलश्चंकुतलयोरंतरमिष्टप्रमाणशकुगुरणम्‌ । दीपशिखोच्या शंकं विशोध्य शेषोद तं चाया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 54,
+          "text": "छाया््रातरगरिता छाया छायांतरेश भक्ता भः। भः शकुगखा द्धाया विभाजिता दीप शिखौच्यम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "छाया व्यवहार समाप्तः गुणकार खण्डतुल्यो गुण्यौ गोमृत्रिकाक्रतो गितः । सहितः प्रत्युत्पन्नो युण कारकमेदतुल्यो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "गुण्यो राश्िगुरणकार राहिनेष्टधिकोनकेन गुरणः गष्येष्टवधो न यतो गणकेभ्यधिकोनके कायं: ॥ ५६१५ चेदेनेष्ट य॒तोनेना संभाज्यादनष्टमिष्टगरम्‌ । | प्रकृ तिस्थदेदहूतं लब्धायुतहीनकमनष्टम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 58,
+          "text": "1 गुराखेदफलवधो गुरकहतो गुष्यभाजितो गृरकः । खेदो धृतः फलं गुण्यगुरणवधः फलहूतः चेदः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "गुण्यगुरणकारयोः देदलम्धयो दयो दयोर्ना्िः । तेषां इश्यो न्यस्तौ कत्वा तस्थानयो रिष्टो ॥ ५६1 गण्यं गुरकारं वा गुणयेत् छेदेन भागहरस्य । गृण्यगणकाररा्यो देदगरणो भागहरईच",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 61,
+          "text": "छेदस्य ददरूपं कृत्वा न्दूक्तवत्सरवप्‌ । श्रपवर्त्यौ तुल्यो न छंदगरणो सेदग॒ण्यौ वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 62,
+          "text": "स्वविकलषष्टचंशगरण सकलस्च्यंदेद्धतो विकलवगः प्ररनेप्यः सकलकृतौ व्गघातो दितरितल्यवधौ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 64,
+          "text": "रा्ञेखनं द्विगुर बहुतरगुरणम्‌नक़ तियुतं वगः । चन सेरिति ततार > र ~ } €ॐ2 ।)} शष्टाल्पराशिवर्गौ यक्तोना वितरविकलवर्गाम्याम्‌ । हिगरणोत्तरराश्चिम्याम्‌ भक्तौ तेनाधिकाम्याम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 65,
+          "text": "} स्थानांतरेष लभ्धं येन समं फलय॒तोनकलैदः 1 दलितकृतियोगान्तरपदमितसो वा फलय॒तो नः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 66,
+          "text": "दिग्मात्रमेतदन्या ज्योत्पत्तौ कुटके च कथयिष्ये । संकलितादिष्ठार्याः षट्षष््ट्दशोऽध्यायः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "स्फुटगदयत्तरमन्या दिल्ानधाप्पृहयेतप्दनम्‌ । योह्वपूर्वापरयोस्वुल्यछायांगुलाग्रयो बिन्दु न्दु । विक्ष्याक्ृन्त्याक्षांञ्ञं विना दिशो वेत्ति गरणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "त्रिलायाग्रज्ञो यः कर.न्त्यक्षाकं विना दिगो रमणम्‌ । छायाग्रस्य दिनाद्धं छायां वा वेत्ति गणकः सः 11 २॥१ छायाग्र' दृष वा क्रात्यक्षनज्ञो दिशो विजानाति । हंकुदायाश्रमणे दिकृज्ञो वा वेत्ति गरणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "दृष्टवा विषुददछायां लम्बहनेज्ये करोति यो बहूधा मध्यद्यायाके्ञो इनांशान्यो वेत्ति गरणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "यश्चरखंडकलंकोदयादिजानाति लग्नमुदयंः स्वैः लग्ना घटिका छ्यांगत शेषनताच्च गरणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "गतरेषनता घटिका छायातो भिषटदिनदलद्धायां । बहुधाकं क.न्त्यदनान दष्ट वा यो वेत्ति गरएकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "क्रातिज्ञः सममंडल श्षंकुकणं वयोहनलंबज्ञः जानति कोरशंकुदाया घटिकाः स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "शंक्तलप्राच्यपरांतरद्यं विक्षयो विजानाति । विष बछायामेक द्रष्टवारित्यं च गणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "पातलश्ंकमुदयेदुस्ते वा हृर्ज्यां खे विजानाति । दक्‌ पाताल द्रक्‌शंको पथक्‌ तले वा स तंत्रज्ञः ॥ € ॥ दिनगतशेषप्रारंरिष्टार्को 'दिनदलःन्वतस्थवा । भवति सभमंडले यंय॑स्तान्‌ कथयति स तचः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "सममंडलगंः भ्रांदिनगत शेषं नतं हिनर्डाद्रा । यं भर्वति ज्ञात्वा तान्योऽकं कथयति स तंत्रज्ञः \\",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "यः सममंडलशंकुकणं व वीक्न सूयमानयति । रविसममंडलशंङुज्ञो क्षं कथयति स तंत्रज्ञः 1 १२॥ रविलग्नांतर घटिका विनोदयंलंग्नमिष्टघटिकाभिः वेत्ति चराद्ध दक्षं योकंज्लो वास तंत्रज्ञः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "भ्रक्षचरादज्ञाकं शछायातो यश्चराद्धमिष्टायाः इषचरारद्दिथवा खायां कथयति स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "। मध्यद्ायातो क्षविदानयति रविवाक्‌ रज्ञोऽनं । योग्रारकज्ञो लं बाक्षज्ये कथयति स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "उदयेस्तमये चाग्रं देत्ति दिनाद्धं नतोन्नतज्ययः । ताभिविषवलाया श्नज्यालबान्‌ स तत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "दिनरात्रयर्धे यइचरदलाद्‌ विनां स्वेकरोति वाताभ्यां । भ्रक्षावलंबङौ वां नस्तमयाकत्सि तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "~ भ्राय निवक्योनां प्ररनानामूत्तरं चतुःषष्टि 1 ्रायास्तिप्रदनोक्ताज्ेषप्रहनोत्तरोक्तिरत ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "1 विषुवच्धाया गुरिता स्वाहोरात्याद्धं भाजिता त्रिज्या । क्रान्तद्रादक्चगुषिता फलचापकला श्र भिः सहितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "स्वचरप्राणदिनगतश्ञेषः सममंडले रविभेवति । फल चापारुन्यभिस्तियि घटिकाभि नताभिर्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "उदयसमभमंडलान्तरं धटिकाज्यालं बकाहतं गुरयेत्‌ । ग्रक्षज्यया हतां तत च्छान्तया व्यााद्धंसंगरणया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "लब्धधनुरविरजाक्त ककंटकादौ विशोद्ध चक्रात्‌ 1 तज्या तदुदय सममंडलांतरा श्ुज्ययाभक्ता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "प्रन सममण्डला सुक्रमज्यया संगुरणा सङहृत्सुयः । प्रन घटिकाभिरेवं गतघटिकामिभवत्यह",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "त्रिज्यादिनाद्धंसममंडलतरा सुज्यायाः कृतिविज्ञेषः । स्वविषयविषुवद्धाया वर्गे गुणो द्विधा प्रथमाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "व्यासाद्धं बमं भक्तौ लब्धं ध्वादश्ञकंवगं संयुक्तम्‌ 1 छेदो द्वितीयराश्ञे लब्धं पदं क्रान्तिरर्कातिः ॥ २५५ 1 ॥, ष्टे सममण्डल शंङ्गुरणाक्षज्या जीनभागजीवया भक्ता ॥ फलधनुरको जादौ कक्यदिौ प्रोह्य चक्रात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "१ दादशगुखिताक्तज्या विष्वचायो गृ णावलं बज्या । सममंडल ककि क्रान्तिज्ये भास्करः प्राग्वत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "१ परमापक्रमजीवा तत्कालिकमसूय बाहूसंगु खिता । संममंडलशंकुह्ताक्षज्या तच्चापमक्षांशाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "लंकोदयचरदलवद्रविलग्नाभ्यां पथक्‌ पृथक्‌ प्राराः छृत्वा तदंतरंक्यं मृगकवर्यादिषु पृथक्‌ लिप्ताः \\ २६ ॥ सेषादिष कर्कादिष विशोध्य भार्ा तुलादिषु समाद । मकरादि ष्‌ संशोध्याइचक्ररवि भुक्ता लिप्तां वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "लग्नकालाययना सृचकालिप्ता विना स्वर्यूदयः। एवं स्फुटाभर्व॑त्यकं लग्नयोरंतरप्राणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "द्रष्टयमाश्र त्य गुरणा दिगिषु कालोना रदाः सतिधिलिप्ताः स्वचराद्धाशंख्ना विपरीता संधुता व्यस्तं ५ ३२ १ व्यस्ता चा जादीनां कलांशलग्नभिषटवटिका । लग्ना घटिकाः कालां विनवं स्वराइयूदयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "` इष्टाकं चरारद्धं ज्या क्षयव्ृद्धिज्यायुरात्रिदलगुरिता । व्यासाद्धेन विभक्ता क्षितिजा दादशगुरणा भक्ता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "क्रांत्याविषुवदछाया क्षितिजे क्रान्तिवरयोगं पदम्‌ । ग्र क्ितिजापक्रमजीवे त्रिज्या गुरोभक्ता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "प्रकग्रियाक्षकनंबकजीवे दिनकृतचरासुविज्ञाने । ।, क्न ><= +¬ = ¬) {~त == ग्न-71#+ )\\ =€ ॥। ञ्मष्टचराद्ंयस्य ज्या क्षयवृद्धि ज्यातदकंवधकृत्या । तिज्याविषवल्ाया वधवर्गो युतवधचेदः ॥ ३७ ५ ध्यासाद्धेक्रते मुल ्रांतिज्यावासदलगुरणा भक्ता । जीनभागजीवया लन्धचापमकपाद प्राग्वत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 39,
+          "text": "विषुवद्याया भक्ता स्वचरादज्येष्षास्यया भक्ता गुखिता । लन्धस्य चापमिष्ट ` छायायाश्चरदलप्रारणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "स्वचराद्धज्याभक्ता विषुवदायेष् चरदल र नाम्‌ । मध्यमलायाग्रमुदक्‌ हांकुतलादक्षनतभागः । दक्षिखतो यदि सौम्याः स्वाक्षांश्चा स्वंदा याम्याः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 42,
+          "text": "द॒ दलनतोक्षांशानामेक दिश्चानामंतरं यतिभरे। क्रात्यन्नाः प्रागदिनः करवत्यंशोरेव मक्षांशाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "उदये ज्येष्ठापक्रम जीवा छत्यंतरात्यदं क्षितिजा ॥ व्यासाद्धं गुणा क्षितिजा भक्तोदयजिवया कक्लः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "उदय ज्ययाविभक्ता क्ातिज्या व्यासगुरालबः दवादशगु णिता क्षितिजा विबुवद्धाया हुता कान्तिः. ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "\\ यष्टिव्यासा्धेग्राप्राच्यपरा भास्करातरारज्या । दविगुखमुदया सुत्रं तत्त्रिज्या कतिविशेषपदम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": "य दले. शंक न तज्ये प्राच्यपराया थदि स्थितः शंकुः । उदगना दक्षिणतः स्तदंतरेणाधिकाकम्रा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 47,
+          "text": "उत्तरगोले नं तदं याम्य गोलगे सूय । नःकतल शंक दतं विषवद्ाया हिषटक गरम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "। श्ंक्तलशंक्‌गरिते च्रिज्ये तदरगेयुतिपदविभक्त । ` श्रक्षावलंबज्ये च्य दलस्येऽकंन्यदा द्‌ दलात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 49,
+          "text": "छायावृतेऽकंग्रा कणेगुरणा न्यासदल हतार्का्ा । प्राच्यपरा शंक्वंतरमृत्तरयाम्यं तदून युता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 50,
+          "text": "॥! उत्तर गोले याम्ये विषुवल्ायाग्रयांतरं हीनम्‌ । एवं विषुवद्धाया ुक्तिविहीनांतरेरणाग्रा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 52,
+          "text": "बाहु क्रांतिः कोटिः क्षितिजातद्गंयुतिपदं करणः 1 ज्र्नो-नौच क यवको तन्न जनत नवल 3) ४५9 1) त्रिज्याक्षयवृद्धि्यं कातर मुदगितरयोदिनाधात्या । व्यासादंचराद्धं ज्यांतर संयोगोद्धं रात्रात्या ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 54,
+          "text": "उक्रमजीवा चापं कमजोवाचापसहितमधिकं यत्‌ । दिनरात्रयद्धं प्रारणां पृथग्दिना चरदलप्रारणः 11 ५३ ॥ दिवसाद्धत्करिमजीवाधिकक्रमज्याधिकादिनाद्धत्या । व्यासाद्धं दिनात्यातर चरज्याक्षयजीवातः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "स्वाहोरात्राद्धसम यत्राक्षज्याबलंबकः ! कान्त्या द्य षा दिगम्यता वद्यावत्‌ कंकर्यादिगस्य वेः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 56,
+          "text": "नास्तमयस्तच्र तुला मकरादिस्थस्य नोदयोकंस्य । तन्मध्यांतरलिप्ता मध्यमभुक्त्या हता दिवसाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "कोरगद्धाथा क्रतिदल यद विषुवल्ायाया रूदानतबलं प्राच्य परयोः । यद्य कयतरं याम्यदिकस्थं चेत्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 58,
+          "text": "कोरलायाकरणेन भक्तमवलंबकेन संगु रितम्‌ । इष्टापक्रमजीवा त्रिप्रदनोकत्या स्फुटोर्कोतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 59,
+          "text": "\\ मध्यमगति स्पुटगति त्रिप्रनात्‌ सोत्तरान्‌ विजानाति यः । स भवत्याचार्यो ब्रह्मोक्ता ज्ञानतत्रज्ञाः \\",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "्रव्यायः पंचदशस्त्ि्रदनस्योत्तरं यदीह नोक्तम्‌ । द्रार्याषष्टयोक्त तदृगोलादृतर क्ष्य बुद्धिमता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "भ्रायेर यतः प्ररनाः कुदाकाराद्रतेन शक्यंते । ज्ञातु वक्षामि ततः कुदाकारं सह्‌ प्रडनेः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "कुदकरणं धनाव्यक्त मध्यमाहूररण वेण्यता वितकः । श्राचार्यस्तंत्रविदां ज्ञातवग प्रकृत्याच्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "श्रधिकाग्रभागहारा दूनाग्रवेदभाजिता शोषम्‌ । यत्तत्परस्य हतं लन्धमध्योधः पृथक्‌ स्थाप्यम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "शेषं तथेष्टगुरितं यथाग्रयोरंतरेण संयुक्तम्‌ । शुध्यति गुरणकः स्थाभ्यो लन्धं चात्यादुपात्यगुरणाः ॥ ४ ५ स्तोद्धात्ययुतोग्रातो हीनाग्रचेदभाजितः शेषम्‌ । ्रधिकाग्रलेदाहतमधिकाग्रयुतं भवत्यग्रम्‌ 1 ५।। छेदवधस्य द्वियुगखेद वधोयुगतं द्रयोरग्रम्‌ । बुधकारेरवं त्यादिग्रहयुगगतानयनम्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "यो जानाति युगादि ग्रहुथुगपातंः प्रथक्‌ प्रथक्‌ तिथितंः। द्वित्रिचतुः प्रभुत्तिनां कुटाकारं स जानाति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "भगरगादिशेषमग्‌ चेरहतं ख चर दिनजेषहतम्‌ भ्रनयोरग्‌' भगरणादिं दिनजश्ेषोदतं द्यगुरणः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "श्रथवा जिनजभगरणादिशेषं येन गुणं मंडलादि शेषोनं । शुध्यति विभाजितं स्वेन भागहारेण सद्यगुरः ॥ & ५ - मंडल रादयश्नकला विकलाद्ेषादभिष्टतः कथितान ॥1 भ्रानयति दिनगर यः कुठाकारं स जानाति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "एकेष्टदिवसघटिका विनाडिका मंडलादिश्ञेषकयोः । सद्रशचेदो धृतयोस्तघात्‌ महगंराद्यमतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "` हतयोपरस्परं यदेष गुणकारभागहारकयोः । तेन हतौ निदेदौ तावेव परस्परं हतयोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "लब्धमध्येधः स्थाप्यं तथेष्ट गुराकारसंगुरं शेषम्‌ । अनन ==) जननान्‌ = भ न „४ # # कछ ३ # # ग्रत्यमुपोत्येना स्वाद्धो गुरिएतोंत्य संयुतो भगणः । चेदभागहारेणौवं स्थिरकटुकः शेषम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "इष्टभगरणादिरेषात्‌ स्वकुटकगुरात्‌ स्वाभागहार हतात्‌ । शेषं चयगरणोहूत निरपवेत गुरएभागहारं युत",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "एवं समेषु विषमेष्वरं धनं धनमृणं यदुक्त\" तत्‌ । ऋरणधनयोव्यंस्तत्वं गण्यप्रक्षपयोः कायम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "गुणकचेदः छेदो गुरको धनमभररधनं कारम्‌ । वग पदं पदङरृति रतादेपरित माद्यं तत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "१ श्रवमावरोष वरगन्यिर्कथशति विभाजितोध्व्यधिक । भ्रष्टगुणे दज्ञभक्त द्वियते ष्टादश्ञकदा भवति \\) २१११ इष्टमगणादिश्चेषा दयुगरणस्तत्कुंहकेन सयुक्त तसिददिनैस्तादहिनवारो यावदिष्टस्य",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "भगराद्यमिष्टशेषं कदेदुदिवसे खेर्गृरू दिने वा । ज्ञदिने वायः कथयति कुट्टाकारम्सस् जानाति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "दिने यदंशशेषं विकलाशञेषं कदा न दिद दिने। भानोरथवा शशिनो यः कथयति कुटकन्ञः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "। इष्टेषुमान दिवसे द्विमासान्म्‌न रात्रिशेषे वा । भूयस्ते यः कथयति पृथग्‌ पथग वा कुंदज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "निचेदभागहाराद्राहयादि कलानाहता .क्तात्‌ । भगरणकलाभिलंन्धं मंडलज्ञेषं दिनगरोस्सात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "एवं राश्यग कलाशेषाण्यहगे ख प्राग्वत्‌ । नष्रस्थानेष्विष्टानं कान्‌ कत्वोक्त वदशषम्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "यो र्यादीन्‌ द्रष्वा मध्यस्येष्ठस्य कथयति युगुरम्‌ । ध्व्यधिश्रहयोगाद ग्रहातराद्रा घ कटन्नः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "यैन गुणे शेषयुते छेदः शुध्यति हत स्वगुरकैन । तइ. क्त' शेषं फलमेव शेषाद्‌ ग्रहदयुगुरणैः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "रारयंशकला विकला शेषात्कथितादभीष्तोनष्टात्‌ । यः साधयद्युपरिमान सभध्यमा कुदकल्लः स",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "इतिश्री कुहक प्रकरणम्‌ ५ < १, „8 ग्रथ धनं श्र त्यानां संकलना धनयो्धनमृरणयोधनरयोरंतरं समश्यखं । वररोक्यमृणं धनश॒न्ययोः दनं श॒न्ययोः शन्यम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "चऋ्रमधिकाद्‌ विश्ोध्यं धनं धनाहरणमृरादधिकमूनात्‌ । व्यस्तं तदंतरं वा ऋणं धनं न मूरा भवति ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "शून्यविहीनमुरणमरणं घनं धनं भवति शून्यमाकाशम्‌ । शोध्ये यदा घनमरदरं घद्धातदभ य्यम्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "भर्युत्यन्नः ऋरणमरणधनयोघति धनमृणयोर्धन वघोधनं भवति 1 रुन्यण्ययो स्वधनयो खदुन्ययो वा वध चन्यस्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "धनभक्त धनभुरहतं भणं धन भवति खंलभक्तम्‌ । खंभक्तमुरो धनधनमृखधनेन हतपुणम्रण भवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "खोदृतमरणधनं वा तदेदं खभृरंधन विभक्त वा । धनमृरएधनयोवैगैः खं खस्यपदं कृतियत्तत ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "\\ योगोन्तर युतहीनो द्विहतः संक्रमणमंतरविभक्तम्‌ 1 वार्मान्तरमेतर युतहौीनं द्विहतं विषमकमं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "करारलबस्तत्छृति रिष्हृतेष्ठौन सयुतोऽल्पोमूः । भ्रधिको द्विहतो बाहू संकषे्यावद्रधो वर्भः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "इष्टोदत करारी पदक्रतियुतिरिष्टगणितांतरकृतिर्वां गण्यः । स्ति्यंगधोधो युकः समसदृगुरः सहितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "सेष्टणंचेदगुखो भाज्यचेदौ पृथक्‌ युतावसङ़त्‌ । इष्टेकरन्यनाया रूपकृतैः पदयुतोनरूपादधं । प्रथमे रूपाष्यन्यहि्ना ना द्वितीयं करण्यसक्त्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "श्रव्यक्तवर्मधनव्ेवमं पंचगंतषड्ध तादीनास्‌ १ तुल्यानां संकलित व्यवकलिते पृथगवुल्यानाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "सहश द्विवधो वगेत्यादिवधस्तद्‌गतोऽन्यरूपवधः ॥ षे ्रव्यक्तातरभक्त स्परूपातरं समे व्यक्तः वर्गा व्यक्ता शोध्या यस्माद्र पाशि तथ्व्यस्तात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "वग चतुगुखितानां रूपारणां मध्यवगं सहितानाम्‌ ! मलं मध्येनोनं टदिगृखित वर्गोदधतं मध्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "वर्गाहतरूपारमन्यक्तादं करतिसंयुतानाम्‌ ॥ यत्पदमव्यक्ताद्धानं तद्रगे विभक्तमव्यक्तः # ४६। । संकादंशक शेषाध्व्यादशमाईचतुगुणेष्ट युतः । सैकांश शेषतुत्यो यदा तदाहमेख कथयतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "ध्व्यनमधिमास श्ञेषं हित्रिहूतं सप्ताधिक द्विसंगुखितम्‌ । श्रधिमास शषतुत्यं यदा तदा युगतं कथयः 11 ४८ ॥ व्येकमवमास शष षड्धृतंतयुत मवमशंषस्य । पंच विभक्तस्य समं यदा तदा युगगतं कथय",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "श्रंशक गेषेर युता स्त्रिप्ता लेषात्र तदंतरादथवा । भानोन्दिने च्‌ गुणं यः कथयति कुटकनज्ञः सः !",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 56,
+          "text": "भ्रंडक शेष त्रियुतं लिप्ता शेषं कदां रवेज्ञं दिने षट्‌ । सप्ताष्टोन वा कुवेन्नावत्संराद्ररकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "भ्ररासम मंगके कलासमं वा कला कदा शेषम्‌ । दिवसकरस्येष्ट दिने कृवन्नावत्सरादगरगणक्ः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 58,
+          "text": "! ददभावरोषमवमे रधिभासकशेषमधिकमासेर्वा १ इष्टयुतोनं तुल्यं कूवंन्नावत्सरगणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 59,
+          "text": "` निद भागहारो भानो सप्ततिमुरणोंशञ्ेषोनः शुध्यत्ययुत विभक्तः क्‌वेन्नावत्सं राद्गराकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "\\ भावितकरूप गुरना साव्यक्तवयेष्टभाजिताष्वासौ । ्रल्पाधिकं धिकोत्पक्षेष्पौ भावितहूतौ व्यस्तौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 61,
+          "text": "भानोरा्य रावधा त्रिचतुगुितान्विश्ोध्यराइयंशात्‌ । नवति द्रष्ट्वा सूर्यं कूवेन्नावत्सरादगरणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 62,
+          "text": "भावितके यद्घातस् विनष्ट वरन तत्प्रमारानि । ऋत्वेष्टानि तदाहत वरंक्यं भवति रूपाणि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 63,
+          "text": "वरप्रमाणभावितघातो भवतीष्टवरंसंख्यवम्‌ । ` सिध्यति विनापि भावितसमकरणात्‌ किकृतं तदतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 65,
+          "text": "मुलद्िधेष्टवर्गोगरुणगुरणादियुतविहीनाच्च । | बराच शाता अतर = र-ल 13 चानन ॥) ९ 3१ चन्नावाचेक्ं प्रथमं प्रक्षेपः क्षेप्य शोध्यतुल्यवधः ्रसषपशोधकहूते मूले प्रक्षेपके रूपे ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 66,
+          "text": "। रपप्रक्षेपपदे पृथगीष्टक्षेप्योध्यम्‌लाभ्याम्‌ । कृत्वाचयोत्पाद्यपद प्रक्षेपे शोधने चेष्ठ॒ चतुरधिके",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 67,
+          "text": "इत्यपदशृतिस्त्यूना दलितांत्य पदगुखात्पदम्‌ । भ्रं त्यपदङृतिव्येका द्विहतचपदा हताद्यपदम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 68,
+          "text": "चतुरनत्यपद कताग्रकयुतेवधदलं प्रथग्वेकम्‌ । व्येकाष्व्यहतमंत्यं पदवधगरा मन्यदाद्यहदम्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 75,
+          "text": "वग गुणकः क्षेप; केनचिदुद्धत य॒तोन को दलितः । प्रथमोत्ये मूलमन्यो गुररपदो.द्‌ त प्रथमम्‌ ॥ ६९५ गुरके वगंचिन्ने छेदपदे यो धतपदं प्रथमवर्गः । हतत ध्रिपे स्यते रत {> ,) ^ ७ + शाशिलिप्ता शेषकृतिद्िनवति गुखिता श्रदिति गुखितं वा । सेकाज्ञ दिने वर्गं कृवन्नावस्पराद्‌ गणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 77,
+          "text": "इषठभगरणादि शेषं द्विनवत्यूनं ज्यशिति संगुखितम्‌ । रुपेरणं युतेन वणं कवंन्नावत्सराद्‌ गणकः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 78,
+          "text": "भगरणादिशषव्गं चतुर्गुणं पचषष्टि पयु क्तम्‌ । षठधूनं वा वं कूवन्नावत्सराद्‌ गरकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 79,
+          "text": "[/ भगरणादिश्ेष वगं त्रिभिर्गणं संयतं लतनवभिः वर्गोष्टशतोनं वा कृवन्नावत्संराद्‌ गरणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 80,
+          "text": "श्रधिमासशेषवर्गं च्योदशगुरणं न्रिभिर्यक्तम्‌ । त्रिघनोनं वा वगं कृबन्नात्सराद्‌ गरणकः ॥ ७५ + श्रवमावशेषवगं दादशगुरितं शतेन संयुक्तम्‌ । त्रिभिरूनं वा वगं क्‌वेन्नावत्सराद्‌ गरणकः ॥। ७६१ गुरणकयुतिरष्टगुरिता गखिकांतरवगेभाजिता राशिः गरणकोौ त्रिगरणौ व्यस्ताधिकौ हतावंतरेण पदे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 81,
+          "text": "इन्दुविलिप्ताशेषं सप्तदशगुरण च यो दशगर च । पुथगेयुतं वं कूवेन्नावत्सराद्‌ गणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 82,
+          "text": "याभ्यां कृतिरधिकोनस्तदंतरं हृतयुतो न मिष्टेन । तदलकृतिरधिके न्यूनाम्यधि भवति राशि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 83,
+          "text": "जदिनेऽकं कलाशेषं गुरू दिनविकलावशेष युक्तौनम्‌ । वर्गोविधं च सेकं कूर्वन्नावत्सरांदू गणकः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 84,
+          "text": "{्िकलारोषं ` सहितं त्रिवत्यः३ सप्तषष्टिहीनं च भानोज्ञदिने वणं कवन्नावत्सराद्‌ गरकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 85,
+          "text": ".. ज्ञदिने ज बलाक्षेषं वर्गो द्वादशभिः संयुतं त्रिषष्टया च ! षष्टचा्ठाभिश्चोनं कूबन्नावत्सराद गरणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 88,
+          "text": "इन्दु विलिप्ता शंषं मत्राशष वा १ श्रथवा सध्यमिष्टं कवन्नावत्सरादर्‌ गरणकः ॥ ८१ जोवविलिप्ता शेषा कजमिदं भौमलिप्तिकाशंषात्‌ु 1 इष्टगप्रहेष्टशेषा च्‌ गरणो गतनिरपवंतंयं संग रितः । चेददिनेरधिकोस्मादन्यग्रहशेषमिष्टो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 91,
+          "text": "निचेदभागहारो ग्रहयोर्भगरणादि शेषयोयुं गणात्‌ । यस्मात्तं निचेदेनोदतयोलंम्धयोर्गरितौ ॥ दद ॥ ` निचेदभागहारौ विपरीतौ तद तात्फलस्तस्मात्‌ । शेषे गरगदेवं च्यादिना प्राग्बदिष्टदिने ।॥ =€ ॥ गरमवशेषाद्रविचंद्रौ मध्यमौ सफुटादथवा । एवं तिथ ग्रहं वा कूवेन्नावत्सराद्‌ गणकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 93,
+          "text": "एकदिनावमशेषं षट्‌ गरमेकरविचन््रभगरणोनम्‌ ॥ ` युध्यति भूदिनभक्त व्येकं चा स्तदृक्तिरियम्‌ ॥ ६१५ हवशषरङ़ताष्टदिग्भिः १०८४५५ संगुरितादवमशंषाद भक्तात्‌ । रूपाष्टरसवेदरसशन्यश्षरगु ३५०६४०८१ दिनगणः शंषम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 94,
+          "text": "जिनरस गोभ्धिरदुगुरा ३२४६६२४ छश्ि वसूकृत रसखभरुतरामहतान्‌ 1 इष्टावमश्ञेषाद्यचेषं रविभगरण शेषं तत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 95,
+          "text": "गोगेदुखेश ११०९१७६ गुरितडुक्तान्नखपक्षयम रसेषु गैः ३५६२२२० । ेषमवमावञशेषात्तिथयो वमश्षोषकाद्विकलम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 97,
+          "text": "| भागकलाविकलक्यं दष्ट्वा विकलातंर न के शषः, ¬) [अकम अ सः | ‰ अ + य तदर्गातरमाद्य तदंतरं चांतरीद्ध तयतोनम्‌ । वर्गातंरं विभक्त ताभ्यां शेषोन्यतो दय॒गरगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 98,
+          "text": "कृुतिसंयोगादिगरण चेषयुतिङृति विशोध्य मूतेन । करं य॒तिर्यत हीनादिहता शेषे पथक्‌ युक्त्या ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 99,
+          "text": "श्ेषवधाटिऋति गुखा दचेषांतरवगसंयुतान्मूले । श षांतरीनयक्त' दलितं श्वे पथगमिष्टे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 100,
+          "text": "सुखमात्रममी प्रह्ना प्रहनान्यात्सहलश्षः कूर्यात्‌ । ` श्रन्येदत्तात्प्रहनानुक्तं र्वा साधरेत्कशे ५ ९९॥ जन संसदि दंवविदां तेजो नाहायति भानुरिव भानाम्‌ । कुटाकारप्रहनैः पटितरपि कि पुन॑ज्ञातः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 102,
+          "text": "प्रतिसुत्रममी प्रश्ना पठिता सोद शङेषु सूत्रेषु । | 4 भ्रायारणां ज्यधिकराते कटकोष्ठादशोऽध्यायः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "दष्ट वा दिनाद्धंघटिका योकंजो क्षांशकान्वीजानाति । उदथांतरघरिकाभिक्नतिा ज्ञेय स तन्त्ज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "ञ्मस्तांतघंटिकाभिर्यो ज्ञाताज्ञेयमानयति तस्मात्‌ । मध्यगति ग्रहभगणाननयति तया स तत्रलः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "श्रानयति यस्तमो रविशशांक भानानि दिष कौच्यतलात्‌ । श्ंकतलांतरमभूरमि ज्ञाने छायां स तन्त्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "चवायादितीयागांतर विज्ञाने वेत्ति दीपौच्ये । शंक छायाज्ञो वा यद्धायोच्ये स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "ष्टि गुहौच्यज्लो यः स्तदंतरजो नराक्रते नजते | गृहभित्यग्‌ दशेयति द्यो वा स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "हगृहतलातरनते यो हृष्टवागू\" गृहस्य भूमिज्ञस् वेत्ति गहौच्यं इष्ट्वा तलस्थं वा स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "वीक्ष गृहाग्‌ सलिले प्रसायं सलिलं पुनरचमूज्ञाने । भ्रानयति जला डू.मि गृहस्य चौच्यं स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "ज्ञातं छाया पुरेषं विज्ञाते तोय कृघयो विवरे । ` -ब- ॥ > +न) =-गतद->, त लत्व । } >) } इष्ट दिवसअर्ध घटिका धटिका च दकार प्राराः १ तदिवसचरध्राणास्तेरक्षं साधयेत्प्राग्बत्‌ !",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "` ज्ञातः सभार्द उदयैरस्तातरनाडिकाभिरधिको नः ज्ञातात्यर्वापरयोक्ञेयो भारद्धोनके ज्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "जञातज्ञेयग्रहयोरूद्यांतरनाडिकाभि रधिकोनः । उदयैज्ञतिो ज्ञातये प्रागधरयोक्लयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "ज्ञातं कृत्वा मध्य मुयोन्यदिने तदंतरं भुक्तिः। ` त्रैराशिकेन मुत्ता कल्पग्र हमंडलानयनम्‌ । १२. ५ स्थित्यद्धाद्विपरीतं तमः प्रमाणं स्फुटं ग्रहे । मानोदयाद्रवोदोघं टिकावयवेन भोदयतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "दीपतलक्णंकतलयोरतरमिष्टप्रमारणश्कृगरम्‌ ! दीपरशिखोच्याच्छंक्‌ विशोध्य शछेषोद्धतं छाया \\ १४ शंकवंतरेण गुणिता चाया छायांतरेण भक्ता मुः । स छाया हंकृगरणा दीपोच्यं छायया भक्ता ॥ १५११ ज्ञात्वा शंक्चछाया मनुपातात्साधयेत्समुद्ायान्‌ । गृहचत्यतरू नगानामोच्यं विज्ञायवच्यायाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "दृष्ट गृहौच्यव्च हूतातदन्तरधराद गौच्य गुरिता । फलमून्यस्ते तोये प्रतिरूपाग्र गुहस्य नरात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "१ गुह पुरूषांतर सलिले विक्ष्य गृहागूं हगौच्य संगुरितम्‌ ! गृहतोयांतरमौच्यं गृहस्य नुजलांतरेण हृतम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "भ्रथम द्वितीय नृजलातरातरेणोदध.ता जलाय सृतिः । दृष्टौच्य गृणोद्धायस्तोयानूजलतरगुणा भूः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "छाया पुरुषछिन्नम् जल कुधांतर मवाप्तमारूदिः । भ्रध्याये विह्ात्यार्यारणामेकोन वियम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "ऋग्व्गः पयार्यः समुह योगो वयुकषु युग्मेषु । सोपाः प्राग्वत्पादारचतुष्कका शेष युक्तोत्यः \\ १ ॥ एकंक युत विहीना वातौ तद्विपयेयो यावत्‌ \\ वर्गादिष्वं समयुजः क्रमो क्रमाट्रद्धयेत्पादान्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "एककेनद्राया न सोयेष्टधिकेषु तत्प्रविष्टेष । वर्यादिरीष्टात प्रस्तारो भवति यवमध्यात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "च्यूनोचोद्विषदाग्र विपदाद्या नामतः पृथक्‌ संख्या । तच्छोधोयेव्येकः पृथगंतापमुद्ध युतम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "थावत्पादान्येका गचदणष्वथक वृद्धषु । रूपाद्यद्धतघाते वर्गद्यानां परा संख्या",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "रूपाधिकयोद्धं विषमे पुवः समेषु पादाद्ध । भ्राघा द्विगुराव्येकां गुला- यघस्त्स्य सर्वेषाम्‌ !\\ ६ ॥ मध्येस्तथार्दहीनंः क्रमपादेव्यस्त तुल्य पादादेः । \"का क क क सक सवक्रम तुलायन्यासोप्यधिको विशोधितदचाधः सांख्यक्यं ताटक्‌ ताहक्‌ प्रथमस्त्रिरहितो नष्टे 11 ८ ॥ माध्यः कतश्चदलित सम सं्यायां कमोक्रमाक्ेप्यम्‌ । विषमायां व्येकायां दलं करमादुक्रमात्‌ सकम्‌ ॥ € ॥1 समसस्यायां सोपाव्‌ क्रमोक्रमाभ्यां तथेव विषमायाम्‌ ॥ केल्पोपविते हृष्टे प्रथमः शेषाक्षराण्यंते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "समदलसम विषमारणां संल्यापादाद्धं सर्वकल्पवधः ॥ स्वादय वधोन्येः पादः स्वपरस्य प्राग्बधः सेकेः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "द्माद्यादनंतरोधः कत्पोत्य तुल्य माद्य कत्प प्राक्‌ 1 न्यासो वर्गोन्योन्य प्रस्तारेद्धं सरूविषमारणाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "नष्टत्पास्वाधस्थो न कल्प धातो श्रद्धं तुल्य विषमाणाम्‌ । व्येकः पृथक्स्ववर्गोद्धृतः फलं तुल्य कल्पानाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "उद्दिष्टे कल्प कृतो तीतं प्रथम फलस्वहूपेन्यः श्रसङदर्गाज युते सके वाद्धं सम विषमारणाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "ध्व्यापाः कोटक वृद्धया लघु संल्यकादि भाजिताः प्राग्वत्‌ । विषमे ज्याघल चूनो लघ्रूनो लघुभिर्मेलः समादीनाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "एकट्टिकयोः परतो द्वि संगुणो नंतरो द्विरूपोधः। वर्गपराद्योनोदल समविषमारं ध्वजो लघुभिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "लघु सस्यादौ परतो दलितां धोधच शुध्यति हताः । द्िगरणतिः संख्यं शर्वं पर्मदरो लघभिः।। शद्‌ ॥ कृत्वाधोधः कल्पान्ये काको त्तरानधः शेषात्‌ चात्परतां तेकमधः प्रस्तारा दयुक्त वदीहाद्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "गरूषष्टधेका विधटि द्विगुखा व्येकागुलानि संस्याद्रा । विद्यति रार्या विज्ञ दंदश्चितुत्तराध्यायः \\ २० ॥ इत्ति ब्रह्य गप्ते द्यंद रिचत्यत्तराध्यायः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 17,
+          "text": "यन्मूलं तघ्वासो मंडललिप्ता ङृतेदंशहताया | तस्यार्धं व्यासाद्धं योजनकणप्रमाथाथम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "राहयष्टांलेष्टकात्यदसंधिभ्यः क्रमोक्रमाकत्वा । दध्नीयात यन्रारिग दयोर्हयो ज्यस्तिदरददानि ॥ १७१ ज्यार्धानि ज्यानिं ज्याखंडान्यंतराणि तन्ये च । व्यस्तान्यं तदेथ विषुरू क्रमज्या धनुस्ताभ्याम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "एक द्वित्रि गुणाया व्यासाद्धं कते: पृथक्‌ चतुर्थेभ्यः। भमूलान्यष्ट दादश षोडष षडान्यतो न्यानि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "तुल्यक्रमीक्रम समज्या खंडक वगं युतिर्भागिम्‌ । प्रोह्यानष्टं व्यासादं व्धतस्तत्पदे प्रथमं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "तदलखण्डानि तदुन जिन समानि द्वितीयमुत्पत्तौ । कृतपमलक दिगीकञेषु सप्तरसगुरा नवादीनाम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "एवं जीवा खेंडान्यल्पानि बहुनि वाद्यखण्डानि । ज्यार्द्धानि बुत्तपरिधेः षष्टचतु्थंचिभागानास्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "उकम समखण्ड गुरणाध्व्यासादथवा चतुथभागादयम्‌ । कुत्वोक्त खण्डकानि ज्याद्धनियनं नलध्वमस्मात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "सौरेशाग्द मासतिथयदचा्र ए सावर्नीदिवसाः । दिनमासा्द पमध्यानत द्विनाकंदु मानाभ्याम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "मानाति सौरचन््राक्षंसावनानि श्रहानयनमेभिः । मानेन पृथक्‌वतुभिव्यवहारोत्र लोकस्य",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "युयववषं विषुवदयनत्वहनिदोवुंदधिहानयः। सौरात्तियि करराधिकमासोन रात्रपवंक्रियाइचांद्रातु ॥ ३ ५ यस्य वनं प्रमा ग्रहगत्फपवाच सतक चिकित्साः । नक्षत्रसावनदिनात्‌ सूर्यादीनां स्वसावन्‌ दिनानि । यस्मात्तस्मादाक्षं दुरधिगमं मन्दबुदधिनास्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "सानुष्य पित्रदेव बराह यान्यष्ठा वमूत्तकालस्य । उक्तानि ज्ञानाय बाहस्पत्य नवममन्यत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "द्रौ द्धौ राशि मकराहतवः षट्‌ सुर्यंगति वशाचोज्याः । ्ञक्चिरवसन्त श्रीष्मा वर्षा शरदौ सहेमन्ताः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "। मुव्यास गुोभक्तः ककं व्यासांतरे रविकणं भुमध्या पु छाया दिघत्वं चन्द्रकरणोनं शेषम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "व्यासगुर दीघत्वहतं श्ांकक्लायाम्‌ । तमसो व्यासं शशि करदधतस्त्िज्यया गुरालिष्ता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "रविकणं दूता स्त्रिज्या ककं व्यासान्तर हृता शोध्या । त्रिज्याभुश्यास वधा छलि कणं हृतातमो व्यासः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "भ व्यासंदगति वधात्‌ ककं व्यासातराकंभुक्ति वधम्‌ । प्रोह्य दुमध्यभुक्तथा तिविगुखयाप्तं तमो व्यासः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    }
+  ]
+}

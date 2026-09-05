@@ -1,0 +1,2896 @@
+{
+  "text_id": "jaimini_sutra",
+  "title_sa": "जैमिनिसूत्रम्",
+  "title_en": "Jaimini Sutra",
+  "category": "jaimini",
+  "structure": {
+    "levels": [
+      "adhyaya",
+      "pada",
+      "sutra"
+    ],
+    "chapter_level": "adhyaya",
+    "shloka_number_format": "pada.sutra",
+    "citation_prefix": "jaimini_sutra",
+    "expected_chapters": 2,
+    "expected_verses": 408,
+    "count_authority": "firm",
+    "count_authority_reason": "This source holds adhyāyas 1-2 of the canonical 4, confirmed by its own closing colophon (...जैमिनिसूत्रतिलके द्वितीयाध्यायः समाप्तः) -- adhyāyas 3-4 are entirely outside this edition, a sourcing gap rather than a parse gap. Within the two held adhyāyas all 8 pādas are present and colophon-bounded (7 explicit इति...पादः colophons plus the closing adhyāya colophon for the 8th); three individual sūtras (1.2.50, 2.1.31, 2.2.21) are absent from the source's own numbering and were not invented. A fourth apparent absence, 1.2.21, was recovered from a malformed marker -- see the script's module docstring.",
+    "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
+    "known_gaps": [
+      "1.2.50",
+      "2.1.31",
+      "2.2.21"
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "प्रथमोऽध्यायः",
+      "shlokas": [
+        {
+          "number": "1.1",
+          "text": "उपदेशं व्याख्यास्यामः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.2",
+          "text": "अभि पश्यन्त्यृक्षाणि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.3",
+          "text": "पार्श्वभे च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.4",
+          "text": "तन्निष्ठाश्च तद्वत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.5",
+          "text": "स्थार्गला निध्यातुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.6",
+          "text": "कामस्था तु भूयसा पापानाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.7",
+          "text": "रिष्फ-नीच-कामस्था विरोधिनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.8",
+          "text": "न न्यूना विबलाश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.9",
+          "text": "प्राग्तम् त्रिकोणे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.10",
+          "text": "विपरीतं केतोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.11",
+          "text": "आत्माधिक: कलादिभिर्नभोगः सप्तानामष्टानां वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.12",
+          "text": "स ईष्टे बन्धमोक्षयोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.13",
+          "text": "तस्यानुसरणादमात्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.14",
+          "text": "तस्य भ्राता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.15",
+          "text": "तस्य माता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.16",
+          "text": "तस्य पिता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.17",
+          "text": "तस्य पुत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.18",
+          "text": "तस्य ज्ञातिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.19",
+          "text": "तस्य दाराश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.20",
+          "text": "मात्रा सह पुत्रमेके समामनन्ति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.21",
+          "text": "भगिन्यारत: श्याल:, कनीयान्, जननी च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.22",
+          "text": "मातुलादयो बन्धवो मातृसजातीया इत्युत्तरतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.23",
+          "text": "पितामहः पतिपुत्राविति गुरुमुखादेव जानीयात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.24",
+          "text": "पत्नीपितरौ श्वशुरौ मातामहा इत्यन्तेवासिनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.25",
+          "text": "मन्दो ज्यायान् ग्रहेषु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.26",
+          "text": "प्राचीवृत्तिर्विषमभेषु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.27",
+          "text": "परावृत्योत्तरेषु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.28",
+          "text": "न क्वचित्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.29",
+          "text": "नाथन्ताः समाः प्रायेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.30",
+          "text": "मावृत्तिर्भानाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.31",
+          "text": "यावदीशाश्रयं पदमृक्षाणाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.32",
+          "text": "स्वस्थे दाराः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.33",
+          "text": "सुतस्थे जन्म",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.34",
+          "text": "सर्वत्र सवर्णा भावा राशयश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.35",
+          "text": "न ग्रहाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.36",
+          "text": "होरादयः सिद्धाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.1",
+          "text": "अथ स्वांशो ग्रहाणाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.2",
+          "text": "पञ्च मूषिकमार्जाराः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.3",
+          "text": "तत्र चतुष्पाद:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.4",
+          "text": "मृत्यौ कण्डूः स्थौल्यञ्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.5",
+          "text": "दूरे जलकुष्ठादिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.6",
+          "text": "शेषाः श्वापदानि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.7",
+          "text": "मृत्युवज्जायाग्निकणश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.8",
+          "text": "लाभे वाणिज्यं",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.9",
+          "text": "अत्र जलसरीसृपाः स्तन्यहानिश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.10",
+          "text": "समे वाहनादुच्चाच्च क्रमात् पतनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.11",
+          "text": "जलचर-खेचर-खेट-कण्डू-दुष्टग्रन्थयश्च रिष्फे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.12",
+          "text": "तडागादयो धर्मे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.13",
+          "text": "उच्चे धर्मनित्यता कैवल्यञ्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.14",
+          "text": "तत्र रवौ राजकार्यपरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.15",
+          "text": "पूर्णेन्दुशुक्रयोर्भोगी विद्या-जीवी च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.16",
+          "text": "धातुवादी कौन्तायुधो वह्निजीवो च भौमे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.17",
+          "text": "वणिजस्तन्तुवाया: शिल्पिनी व्यवहारविदश्च सौम्ये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.18",
+          "text": "कर्मज्ञाननिष्ठा वेदविदश्च जीवे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.19",
+          "text": "राजकीयाः कामिनः शतेन्द्रियाश्च शुक्रे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.20",
+          "text": "प्रसिद्धकर्माजीवः शनौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.21",
+          "text": "धानुष्काश्चौराश्च जाङ्गुलिका लोहयन्त्रिणश्च राहौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.22",
+          "text": "गजव्यवहारिणश्चौराश्च केतौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.23",
+          "text": "रविराहुभ्यां सर्पनिधनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.24",
+          "text": "शुभदृष्टे तत्रिवृत्तिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.25",
+          "text": "शुभमात्रसम्बन्धाज्जाङ्गुलिकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.26",
+          "text": "कुजमात्रदृष्टे गृहदाहकोऽग्निदो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.27",
+          "text": "शुक्रदृष्टे न दाहः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.28",
+          "text": "गुरुदृष्टे त्वासमीपगृहात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.29",
+          "text": "सगुलिके विषदो विषहतो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.30",
+          "text": "चन्द्रदृष्टे चौरा-पहृत-धनश्चौरौ वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.31",
+          "text": "बुधमात्रदृष्टे बृहद्बीजः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.32",
+          "text": "तत्र केतौ पापदृष्टे कर्णच्छेदः कर्णरोगो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.33",
+          "text": "बुध-शुक्रदृष्टे दीक्षितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.34",
+          "text": "बुधशनिदृष्टे निर्वीर्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.35",
+          "text": "बुधशुक्रदृष्टे पौन:पुनिको दासीपुत्रो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.36",
+          "text": "शनिदृष्टे तपस्वी प्रेष्यो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.37",
+          "text": "शनिमात्रदृष्टे संन्यासाभासः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.38",
+          "text": "तत्र रविशुक्रदृष्टे राजप्रेष्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.39",
+          "text": "बुधे, रिष्फे बुधदृष्टे वा मन्दवत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.40",
+          "text": "शुभदृष्टे स्थेयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.41",
+          "text": "रवौ गुरुमात्रदृष्टे गोपालः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.42",
+          "text": "दारे चन्द्रशुक्रदृग्योगाभ्यां प्रासादः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.43",
+          "text": "उच्चग्रहेऽपि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.44",
+          "text": "राहुशनिभ्यां शिलागृहम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.45",
+          "text": "कुजकेतुभ्यामैष्टिकम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.46",
+          "text": "गुरुणा दारवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.47",
+          "text": "तार्णं रविणा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.48",
+          "text": "समे शुभदृग्योगाद् धर्मनित्यः सत्यवादी गुरुभक्तश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.49",
+          "text": "अन्यथा पापैः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.51",
+          "text": "शनिराहुभ्यां गुरुद्रोहः।।गुरुभ्यां गुरावविश्वासः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.52",
+          "text": "तत्र भृग्वङ्गारकवर्गे पारदारिकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.53",
+          "text": "दृग्योगाभ्यामधिकाभ्यामामरणम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.54",
+          "text": "केतुना प्रतिबन्धः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.55",
+          "text": "गुरुणा स्त्रैणः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.56",
+          "text": "राहुणार्थनिवृत्तिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.57",
+          "text": "लाभे चन्द्रगुरुभ्यां सुन्दरी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.58",
+          "text": "राहुणा विधवा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.59",
+          "text": "शनिना वयोधिका रोगिणो तपस्विनी वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.60",
+          "text": "कुजेन विकलाङ्गी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.61",
+          "text": "रविणा स्वकुले गुप्ता च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.62",
+          "text": "बुधेन कलावती",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.63",
+          "text": "चापे चन्द्रेणानावृते देशे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.64",
+          "text": "कर्मणि पापे शूरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.65",
+          "text": "शुभे कातरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.66",
+          "text": "मृत्युचिन्तयोः पापे कर्षक:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.67",
+          "text": "समे गुरौ विशेषेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.68",
+          "text": "उच्चे शुभे शुभलोकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.69",
+          "text": "केतौ कैवल्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.70",
+          "text": "क्रियचापयोर्विशेषण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.71",
+          "text": "पापैरन्यथा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.72",
+          "text": "रविकेतुभ्यां शिवे भक्तिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.73",
+          "text": "चन्द्रेण गौर्याम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.74",
+          "text": "शुक्रेण लक्ष्म्याम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.75",
+          "text": "कुजेन स्कन्दे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.76",
+          "text": "बुधशनिभ्यां विष्णौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.77",
+          "text": "गुरुणा साम्बशिवे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.78",
+          "text": "राहुणा तामस्यां दुर्गायाञ्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.79",
+          "text": "केतुना गणेशे स्कन्दे च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.80",
+          "text": "पापर्क्षे मन्दे क्षुद्रदेवतासु",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.81",
+          "text": "शुक्रे च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.82",
+          "text": "अमात्यदासे चैवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.83",
+          "text": "त्रिकोणे पापद्वये मान्त्रिकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.84",
+          "text": "पापदृष्टे निग्राहकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.85",
+          "text": "। शुभदृष्टेऽनुग्राहकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.86",
+          "text": "शुक्रेन्दौ शुक्रदृष्टे रसवादी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.87",
+          "text": "बुधदृष्टे भिषक्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.88",
+          "text": "चापे चन्द्रे शुक्रदृष्टे पाण्डुश्वित्री",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.89",
+          "text": "कुजदृष्टे महारोगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.90",
+          "text": "केतुदृष्टे नीलकुष्ठम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.91",
+          "text": "तत्र मृतौ वा कुजराहुभ्यां क्षयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.92",
+          "text": "चन्द्रदृष्टे निश्चयेन",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.93",
+          "text": "कुजेन पिटकादिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.94",
+          "text": "केतुना ग्रहणी जलरोगी वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.95",
+          "text": "राहुगुलिकाभ्यां क्षुद्रविषाणि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.96",
+          "text": "तत्र शनौ धानुष्कः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.97",
+          "text": "केतुना घटिकायन्त्री",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.98",
+          "text": "बुधेन परमहंसो लगुडीवा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.99",
+          "text": "राहुणा लोहयन्त्री",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.100",
+          "text": "रविणा खड्गो",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.101",
+          "text": "कुजेन कुन्तो",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.102",
+          "text": "मातापित्रोश्चन्द्रगुरुभ्यां ग्रन्थकृत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.103",
+          "text": "शुक्रेण किञ्चिदूनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.104",
+          "text": "बुधेन ततोऽपि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.105",
+          "text": "शुक्रेण कविर्वाग्मीकाव्यज्ञश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.106",
+          "text": "गुरुणा सर्वविद्ग्रान्थिकश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.107",
+          "text": "न वाग्मी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.108",
+          "text": "विशिष्य वैयाकरणो वेदवेदान्तविच्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.109",
+          "text": "सभाजड: शनिना",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.110",
+          "text": "बुधेन मीमांसकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.111",
+          "text": "कुजेन नैयायिकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.112",
+          "text": "चन्द्रेण सांख्ययोगज्ञ: साहित्ययज्ञो गायकश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.113",
+          "text": "रविणा वेदान्तज्ञो गीतज्ञश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.114",
+          "text": "केतुणा गणितज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.115",
+          "text": "गुरुसम्बन्धेन सम्प्रदायसिद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.116",
+          "text": "भाग्ये चैवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.117",
+          "text": "सदा चैवमित्येके",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.118",
+          "text": "भाग्ये केतौ पापदृष्टे स्तब्धवाक्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.119",
+          "text": "स्वपितृपदाद् भाग्यरोगयो: पापसाम्येकेमद्रुमः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.120",
+          "text": "चन्द्रदृष्टौ विशेषेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.121",
+          "text": "सर्वेषां चैव पाके",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.1",
+          "text": "अथ पदम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.2",
+          "text": "व्यये सग्रहे ग्रहदृष्टे श्रीमन्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.3",
+          "text": "शुभैर्न्याय्यो लाभः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.4",
+          "text": "पापैरमार्गेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.5",
+          "text": "उच्चादिभिर्विशेषात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.6",
+          "text": "नीचे ग्रहदृग्योगाद् व्ययाधिक्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.7",
+          "text": "रविराहुशुक्रैर्नृपात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.8",
+          "text": "चन्द्रदृष्टौ निश्चयेन",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.9",
+          "text": "बुधेन ज्ञातितोविवादाद्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.10",
+          "text": "गुरुणा करमूलात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.11",
+          "text": "कुजशनिभ्यां भ्रातृमुखात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.12",
+          "text": "एतैव्यर्य एवं लाभः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.13",
+          "text": "लाभे राहुकेतुभ्यामुदररोगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.14",
+          "text": "तत्र केतुना झटिति ज्यानि लिङ्गानि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.15",
+          "text": "चन्द्रगुरुशुक्रेषु श्रीमन्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.16",
+          "text": "उच्चेन वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.17",
+          "text": "स्वांशवदन्यत् प्रायेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.18",
+          "text": "लाभपदे केन्द्रे त्रिकोणे वा श्रीमन्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.19",
+          "text": "अन्यथा दु:स्थे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.20",
+          "text": "केन्द्रत्रिकोणोपचयेषु द्वायोर्मैत्री",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.21",
+          "text": "रिपुरोगचिन्तासु वैरम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.22",
+          "text": "पत्नीलाभयोर्दिष्ट्या निराभासार्गलया",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.23",
+          "text": "शुभार्गले धनसमृद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.24",
+          "text": "घटिकास्वेकदृष्टासु राजानः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.25",
+          "text": "पत्नीलाभयोश्च राश्यंशकदृक्काणैर्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.26",
+          "text": "तेष्वेकस्मिन्न्यूने न्यूनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.27",
+          "text": "एवमंशतो दृक्काणतश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.28",
+          "text": "चन्द्रयोर्मिथो दृष्टयो: सिंहस्थयोर्वायानवन्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.29",
+          "text": "शुक्र-कुज-केतुषु वैतानिकाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.30",
+          "text": "स्वभाग्यदारमातृभावे समेषु* शुभेषु राजानः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.31",
+          "text": "कर्मदासयो: पापयोश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.32",
+          "text": "पितृलाभाधिपाच्चैवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.33",
+          "text": "मिश्रे समाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.34",
+          "text": "दरिद्रा विपरीते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.35",
+          "text": "मातरि गुरौ शुक्रे चन्द्रे वा राजकीयाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.36",
+          "text": "कर्मणि दासे वा पापे सेनान्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.37",
+          "text": "दृष्ट्या च धीमन्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.38",
+          "text": "दारेशदृष्ट्या सुखिनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.39",
+          "text": "रोगेशदृष्ट्या दरिद्राः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.40",
+          "text": "रिपुनाथदृष्ट्या व्ययशीला:",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.41",
+          "text": "स्वामिदृष्ट्या प्रबलाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.42",
+          "text": "कोणयो रिपुजाययो: कोटयुग्मगोर्दाररिष्फयोश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.43",
+          "text": "एवमृक्षाणां तदीशानां च शुभ-सम्बन्धे निरोधमात्रं पापसम्बन्धाच्छृङ्खलाप्रहारादयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.44",
+          "text": "शुक्राद् गौणपदस्थो राहुः सूर्यदृष्टो नेत्रहा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.45",
+          "text": "चन्द्रयोरातोद्यं राजचिह्नानि च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.1",
+          "text": "उपपदं पदं पित्रनुचरात्*",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.2",
+          "text": "तत्र पापस्य पापयोगे प्रव्रज्या दारनाशौ वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.3",
+          "text": "नात्र: रवि पापः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.4",
+          "text": "शुभदृग्योगान्न",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.5",
+          "text": "नीचे दार-नाशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.6",
+          "text": "उच्चे बहुदारः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.7",
+          "text": "युग्मे च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.8",
+          "text": "तत्र स्वामियुक्ते स्वर्क्षे वा तद्धेतावुत्तरायुषि निर्दारः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.9",
+          "text": "उच्चे तस्मिन्नुत्तमकुलाद्दारलाभः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.10",
+          "text": "नीचे विपर्ययः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.11",
+          "text": "शुभसम्बन्धात् सुन्दरो",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.12",
+          "text": "राहु-शनिभ्यामप-वादात् त्यागो नाशो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.13",
+          "text": "केतुभ्यां रक्तप्रदरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.14",
+          "text": "अस्थिस्त्रावो बुध-केतुभ्यां",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.15",
+          "text": "शनि-रविराहुभिरस्थिज्वरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.16",
+          "text": "बुध-केतुभ्यां स्थौल्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.17",
+          "text": "बुधक्षेत्रे मन्दाराभ्यां नासिकारोगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.18",
+          "text": "कुजक्षेत्र च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.19",
+          "text": "गुरु-शनिभ्यां कर्णरोगो नरहका च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.20",
+          "text": "गुरु-राहुभ्यां दन्तरोगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.21",
+          "text": "शनि-राहुभ्यां कन्या-तुलयो: पंगुर्वा रोगो वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.22",
+          "text": "शुभदृग्योगान्न",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.23",
+          "text": "सप्तमांशग्रहेभ्यश्चैवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.24",
+          "text": "शुक्रेष्वनपत्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.25",
+          "text": "पुत्रेषु रवि-राहु-गुरुभि-र्बहुपुत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.26",
+          "text": "चन्द्रेणैकपुत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.27",
+          "text": "मिश्रे विलम्बात् पुत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.28",
+          "text": "कुज-शनिभ्यां दत्तपुत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.29",
+          "text": "ओजे बहुपुत्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.30",
+          "text": "युग्मेऽल्पप्रजः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.31",
+          "text": "ग्रहेभ्यश्चैवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.32",
+          "text": "भ्रातृभ्यां शनिराहुभ्यां भ्रातृनाशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.33",
+          "text": "शुक्रेण व्यवहित-गर्भनाशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.34",
+          "text": "पितृभावे शुक्रेदृष्टेऽपि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.35",
+          "text": "कुज-गुरु-चन्द्र-बुधैर्बहुभ्रातरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.36",
+          "text": "शन्याराभ्यां दृष्टे यथास्वं भ्रातृ-नाशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.37",
+          "text": "शनिना स्वमात्रशेषश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.38",
+          "text": "केतौ भगिनी बाहुल्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.39",
+          "text": "लाभेशाद् भाग्यभे राहौ द्रंष्ट्रावान्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.40",
+          "text": "केतौ स्तब्ध-वाक्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.41",
+          "text": "मन्दे कुरुपः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.42",
+          "text": "पीतादिवर्णाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.43",
+          "text": "अमात्यानुचराद्देवताभक्तिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.44",
+          "text": "स्वांशे केवलपापसम्बन्धे परजातः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.45",
+          "text": "नात्र पापात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.46",
+          "text": "शनि-राहुभ्यां प्रसिद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.47",
+          "text": "गोपनमन्येभ्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.48",
+          "text": "शुभवर्गेऽपवादमात्रम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.49",
+          "text": "द्विग्रहे कुलमुख्यः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "आयुर्दायाध्यायः (द्वितीयोऽध्यायः)",
+      "shlokas": [
+        {
+          "number": "1.1",
+          "text": "आयुः पितृदिनेशाभ्याम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.2",
+          "text": "प्रथमयोरुत्तरयोर्वा दीर्घम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.3",
+          "text": "प्रथमद्वितीययोरन्तयोर्वा मध्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.4",
+          "text": "मध्ययोराद्यन्तयोर्वा हीनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.5",
+          "text": "एवं मन्दचन्द्राभ्याम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.6",
+          "text": "पितृकालतश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.7",
+          "text": "संवादात् प्रामाण्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.8",
+          "text": "विसंवादे पितृकालतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.9",
+          "text": "पितृलाभगे चन्द्रे चन्द्रमन्दाभ्याम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.10",
+          "text": "शनौ योगहेतौ कक्ष्याह्रासः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.11",
+          "text": "विपरीतमित्यन्ये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.12",
+          "text": "न स्वर्क्षतुङ्गगे सौरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.13",
+          "text": "केवलपापदृग्योगिनि च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.14",
+          "text": "पितृलाभगे गुरौ केवलशुभदृग्योगिनि च कक्ष्यावृद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.15",
+          "text": "मलिने द्वारबाह्ये नवांशे निधनं, द्वारद्वारेशयोश्च मालिन्ये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.16",
+          "text": "शुभदृग्योगान्न",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.17",
+          "text": "रोगेशे तुङ्गे नवांशवृद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.18",
+          "text": "तत्रापि पदेशदशान्ते, पदनवांशदशायां, पितृदिनेशत्रिकोणे वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.19",
+          "text": "पितृलाभरोगेशप्राणिनि कण्टकादिस्थे स्वतश्चैवं त्रिधा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.20",
+          "text": "योगात्समे स्वस्मिन् विपरीतम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.21",
+          "text": "राशितः प्राणः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.22",
+          "text": "रोगेशयोः स्वत ऐक्ये योगे वा मध्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.23",
+          "text": "ह्यसः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.24",
+          "text": "स्वस्मिन्नप्येवम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.25",
+          "text": "तस्मिन् पापे, नीचेऽतुङ्गेऽशुभसंयुवते च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.26",
+          "text": "अन्यदन्यथा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.27",
+          "text": "गुरौ च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.28",
+          "text": "पूर्णेन्दुशुक्रयोरेकराशिवृद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.29",
+          "text": "शनौ विपरीतम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.30",
+          "text": "स्थिरदशायां यथाखण्डं निधनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.32",
+          "text": "पापमध्ये, पापकोणे, रिपुरोगयोः पापे वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.33",
+          "text": "तदीशयो: केवलक्षीणेन्दुशुक्रदृष्टौ वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.34",
+          "text": "तत्राप्याद्यर्क्षारिनाथदृश्यनवभागाद्वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.35",
+          "text": "भावेशप्राणी रुद्र",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.36",
+          "text": "अप्राण्यपि पापदृष्टः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.37",
+          "text": "प्राणिनि शुभदृष्टे रुद्रे* शूलान्तमायुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.38",
+          "text": "तत्रापि शुभयोगे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.39",
+          "text": "व्यर्कपापयोगे न",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.40",
+          "text": "मन्दारेन्दुदृष्टे शुभयोगाभावे, पापयोगेऽपि वा शुभदृष्टौ वा परतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.41",
+          "text": "शूले चेत्तदन्तशूले",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.42",
+          "text": "रुद्राश्रेऽपि प्रायेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.43",
+          "text": "क्रिये पितरि विशेषेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.44",
+          "text": "द्वन्द्वे रुद्रे तदन्तं प्रायः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.45",
+          "text": "प्रथममध्यमोत्तमेषु वा तत्तदायुषाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.46",
+          "text": "अथ प्रकारान्तरेणायुर्दायनिर्णयार्थं महेश्वरग्रहमाह स्वभावेशो महेश्वरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.47",
+          "text": "स्वोच्चे स्वभ रिपुभावेशप्राणी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.48",
+          "text": "पाताभ्यां योगे स्वस्य तयोर्वा रोगे ततः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.49",
+          "text": "प्रभुभाववैरीशप्राणी पितृलाभप्राण्यनुचरोविषमस्थोब्रह्मा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.50",
+          "text": "ब्रह्मणि शनौ पातयोर्वा ततः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.51",
+          "text": "बहूनां योगे स्वजातीयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.52",
+          "text": "राहुयोगे विपरीतम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.53",
+          "text": "ब्रह्मा स्वभावेशो भावस्थः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.54",
+          "text": "विवादे बली",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.55",
+          "text": "ब्रह्माणो यावन्महेश्वरर्क्षदशान्तमायुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.56",
+          "text": "तत्रापि महेश्वर-भावेशत्रिकोणाब्दे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.57",
+          "text": "स्व-कर्म-चित्त-रिपु-रोगनाथप्राणी मारकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.58",
+          "text": "चित्तनाथः प्रायेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.59",
+          "text": "तदृक्षदशायां निधनम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "1.60",
+          "text": "तत्रापि कालाद् रिपुरोगचित्तनाथापहारे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.1",
+          "text": "रविशुक्रयोः प्राणी जनकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.2",
+          "text": "चन्द्रारयोर्जननी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.3",
+          "text": "अप्राण्यपि पापदृष्टः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.4",
+          "text": "प्राणिनि शुभदृष्टे तच्छूले निधनं मातापित्रोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.5",
+          "text": "तद्भावेशे स्पष्टबले तच्छूल इत्यन्ये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.6",
+          "text": "आयुषि चान्यत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.7",
+          "text": "अर्कज्ञयोगे तदाश्रिते क्रिये लग्नमेषदशायां पितृरित्येके",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.8",
+          "text": "व्यर्कपापमात्रदृष्टयो: पित्रो: प्राग् द्वादशाब्दात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.9",
+          "text": "गुरुशूले कलत्रस्य",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.10",
+          "text": "तत्तच्छूले तेषाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.11",
+          "text": "कर्मणि पापयुतदृष्टे दुष्टं मरणम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.12",
+          "text": "शुभं शुभदृष्टयुते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.13",
+          "text": "मिश्रे मिश्रम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.14",
+          "text": "आदित्येन राजमूलात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.15",
+          "text": "चन्द्रेण यक्ष्मणः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.16",
+          "text": "कुजेन व्रणशस्त्राग्निदाहाद्यैः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.17",
+          "text": "शनिना वातरोगात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.18",
+          "text": "मन्दमान्दिभ्यां विषसर्पजलोद्वन्धनादिभिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.19",
+          "text": "केतुना विषूचीजलरोगाद्यैः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.20",
+          "text": "चन्द्रमान्दिभ्यां पूगमदान्नकवलादिभिः क्षणिकम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.22",
+          "text": "गुरुणा शोफारुचिवमनाद्यैः २१ ।। शुक्रेण मेहात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.23",
+          "text": "मिश्रे मिश्रात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.24",
+          "text": "चन्द्रदृग्योगान्निश्चयेन",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.25",
+          "text": "शुभैः शुभदेशे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.26",
+          "text": "पापैः कीकटे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.27",
+          "text": "गुरुशुक्राभ्यां ज्ञानपूर्वकम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.28",
+          "text": "अन्यैरन्यथा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.29",
+          "text": "केतुभिः पित्रोर्न संस्कर्ता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.30",
+          "text": "लेयादिपूर्वार्धे जनकाद्यपरार्धे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "2.31",
+          "text": "शुभदृग्योगान्न",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.1",
+          "text": "विषमे तदादिर्नवांशा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.2",
+          "text": "समे आदर्शादिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.3",
+          "text": "शशि नन्द-पावका: क्रमादब्दाः स्थिरदशायाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.4",
+          "text": "ब्रह्मादिरेषा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.5",
+          "text": "अथः प्राण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.6",
+          "text": "कारकयोग: प्रथमो भानाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.7",
+          "text": "साम्ये भूयसा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.8",
+          "text": "ततस्तुङ्गादिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.9",
+          "text": "निसर्गस्ततः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.10",
+          "text": "तदभावे स्वामिन इत्थंभावः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.11",
+          "text": "आग्रायतोऽत्र विशेषात्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.12",
+          "text": "प्रातिवेशिक: पुरुषे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.13",
+          "text": "इति प्रथमः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.14",
+          "text": "स्वामिगुरुज्ञदृग्योगो द्वितीयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.15",
+          "text": "स्वामिनस्तृतीयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.16",
+          "text": "स्वात् स्वामिनः कण्टकादिष्वपारदौर्बल्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.17",
+          "text": "चतुर्थत: पुरुषे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.18",
+          "text": "पितृलाभप्रथमप्राण्यादिः शूलदशा निर्याणे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.19",
+          "text": "पितृलाभपुत्रप्राण्यादिः पितुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.20",
+          "text": "आदर्शादिर्मातुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.21",
+          "text": "कर्मादिर्भ्रातुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.22",
+          "text": "मात्रादिर्भगिनीपुत्रयोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.23",
+          "text": "व्ययादिर्ज्येष्ठस्य",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.24",
+          "text": "पितृवत् पितृवर्गे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.25",
+          "text": "मातृवन्मातृवर्गे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.26",
+          "text": "पुरुष समा दासान्ताः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.27",
+          "text": "स्थानव्यतिकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.28",
+          "text": "पापदृग्योगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.29",
+          "text": "तुङ्गादिग्रहयोगः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.30",
+          "text": "इति चत्वारः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.31",
+          "text": "पञ्चमे पदक्रमात् प्राक्प्रत्यक्त्वं चरदशायाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "3.32",
+          "text": "अत्र शुभ: केतुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.1",
+          "text": "द्वितीयं भावबलं चरनवांशे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.2",
+          "text": "दशाश्रयो द्वारम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.3",
+          "text": "ततस्तावतिथं बाह्यम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.4",
+          "text": "तयो: पापे बन्धयोगादिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.5",
+          "text": "स्वर्क्षेऽस्य तस्मिन् नोपजीवस्य",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.6",
+          "text": "भग्रहयोगोक्तं सर्वमस्मिन्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.7",
+          "text": "पितृलाभप्राणितोऽयम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.8",
+          "text": "प्रथमे प्राक्प्रत्यक्त्वम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.9",
+          "text": "द्वितीये रवितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.10",
+          "text": "पृथक्क्रमेण तृतीये चतुष्टयादिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.11",
+          "text": "स्वकेन्द्रस्थाद्या : स्वामिनो नवांशानाम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.12",
+          "text": "पितृचतुष्टय-वैषम्यबलाश्रयः स्थितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.13",
+          "text": "स तल्लाभयोरावर्तते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.14",
+          "text": "स्वामिबलफलानि च प्राग्वत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.15",
+          "text": "स्थूलादर्शवैषम्याश्रयो मण्डूकस्त्रिकूटः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.16",
+          "text": "निर्याणलाभादिशूलदशाफले",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.17",
+          "text": "पुरुषे समाः सामान्यतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.18",
+          "text": "सिद्धा उडुदाये",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.19",
+          "text": "जगत्तस्थुषोर्धं योगार्धे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.20",
+          "text": "स्थूलादर्शवैषम्याश्रयमेतत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.21",
+          "text": "कुजादिस्त्रिकूटपदक्रमेण दृग्दशा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.22",
+          "text": "मातृधर्मयो: सामान्यम् विपरीतमोजकूटयोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.23",
+          "text": "यथा-सामान्यं युग्मे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.24",
+          "text": "पितृमातृधनप्राण्यादिस्त्रिकोणे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.25",
+          "text": "तत्र द्वारबाह्याभ्यां तद्वत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.26",
+          "text": "धासगैरिकात् पत्नीकरात् कारकः फलादेशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.27",
+          "text": "तारार्कांशे मन्दाद्यो दशेशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.28",
+          "text": "तस्मिन्नुच्चे नीचे वा श्रीमन्तः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.29",
+          "text": "स्वमित्रभे किञ्चित्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.30",
+          "text": "दुर्गतोऽपरथा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.31",
+          "text": "स्ववैषम्ये यथास्वं क्रमव्युत्क्रमौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.32",
+          "text": "साम्ये विपरीतम्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.33",
+          "text": "शनौ चेत्येके",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.34",
+          "text": "अन्तर्भुक्त्यंशयोरेतत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.35",
+          "text": "शुभदशा शुभयुते धाम्न्युच्चे वा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.36",
+          "text": "अन्यथाऽन्यथा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "4.37",
+          "text": "सिद्धमन्यत्",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    }
+  ]
+}
