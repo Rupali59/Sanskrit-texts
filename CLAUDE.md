@@ -42,13 +42,14 @@ layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `d
 
 **Every text is on the one-file rule as of 2026-09-02** — the last holdout, `ApastambaDharmaSutra`, was re-digitised by `scripts/sanskrit-convert/apastamba.py`.
 
-**13 texts are undigitised** (no JSON) **and 11 have no directory** — README-only dirs drained
-2026-09-02, `git rm` took the empty parents. All 13, with author, period, why-wanted and
-**whether a source is now held**, are in [`docs/INVENTORY.md`](./docs/INVENTORY.md). Do not
-restate. **Undigitised no longer implies unsourced** (2026-09-02): six of the 13 hold sources,
-and `MuhurtaMartanda` now HAS a usable one (CC-0 scan, superseding the CCITT dead end) — so
-this file's former "neither Garga nor Muhūrta has a source waiting" is half retired.
-`GargaSamhita` still has none; the distinct jyotiṣa `GargaHora` does. [`docs/SOURCES.md`](./docs/SOURCES.md).
+**Undigitised texts: derive it, never restate it here** — this line said 13 until 2026-09-04,
+when four landed in a day. Register: [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised";
+five more are held but **refused on measured OCR quality**, each with its number in
+`propagation/state/sanskrit-texts/STATE.md`. **As of 2026-09-05 no text is unsourced** — only
+`GargaSamhita` (omens) lacks one, as it always has; the distinct jyotiṣa `GargaHora` is held.
+**How that closed does not generalise:** the seven-channel survey calling these texts absent was
+right and stands — none of them carries Muhūrta, Praśna, Jātaka or Nāḍī literature. Rupali
+supplied the scans; **for this genre the channel is human.** [`docs/SOURCES.md`](./docs/SOURCES.md).
 
 ## Uniform JSON schema
 
@@ -80,7 +81,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 **Field notes:**
 - `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
-- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24); `kalpa` left with Kalpa/ on 2026-08-24. It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `prashna` and `jaimini` trees exist but hold only placeholders, so no file declares them yet.
+- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"` | `"jaimini"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24); `kalpa` left with Kalpa/ on 2026-08-24. It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `jaimini` was added 2026-09-04 when `jaimini_sutra` became the first text to declare it — and `astroacharya/scripts/validate_corpus.py`'s `KNOWN_CATEGORIES` had to be widened in the same change, because that allowlist is the ONLY thing checking this field. The `prashna` tree still holds only a placeholder, so nothing declares it yet.
 - `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither) | `"drafted"` (machine-drafted, **not yet verified**)
 - `english_draft` / `hindi_draft` — **optional, and the whole publication gate.** Machine-drafted
   translation lives here and **never** in `english`/`hindi`. Verification *promotes* a draft into
