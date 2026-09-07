@@ -1,0 +1,618 @@
+{
+  "text_id": "garga_hora",
+  "title_sa": "गर्गहोराशास्त्रम्",
+  "title_en": "Garga Hora Shastra",
+  "category": "parashari",
+  "structure": {
+    "levels": [
+      "chapter",
+      "shloka"
+    ],
+    "chapter_level": "chapter",
+    "shloka_number_format": "N",
+    "citation_prefix": "garga_hora",
+    "expected_chapters": 3,
+    "expected_verses": 84,
+    "count_authority": "supported",
+    "count_authority_reason": "This is CHAPTER 1 ONLY of a 3-chapter print edition (K.K. Pathak, 1999). Chapters 2-3 (~85% of the book) carry NO printed verse numbers at all in either of the two independent OCR passes used here (`-l san`, `-l hin`) -- confirmed absent in the source, not lost in extraction -- and are therefore not digitisable from this source; they remain out of scope until a differently-numbered witness is found. Within chapter 1, numbering is resolved positionally: the sequence runs a clean, duplicate-free 1..84 with ZERO gaps once each raw marker reading is checked against the next expected integer, allowing for the `san` pass's own leading-'1' glue bug (confirmed on ~40% of its markers) and cross-checked against the independent `hin` pass wherever legible. Verse 64 is a single unpaired pāda in BOTH OCR passes -- the edition's own Hindi translation glosses 63-64 together -- and is recorded as a unit-pairing note (RUN_TOGETHER), not a gap: its content is present and entire.",
+    "canonical_authority": "see sanskrit-texts/docs/SOURCES.md \"Garga Horā Śāstra\"",
+    "known_gaps": [],
+    "known_gaps_reason": "Empty: every one of chapter 1's 84 verse numbers is present, confirmed by positional resolution against the source's own (glue-corrected) markers. Verse 64 is intentionally not listed here -- see count_authority_reason and RUN_TOGETHER: its single-pāda form is the edition's own structure, not an absence."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "प्रथमोऽध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "क्ररकषत्रे यदा जनम अस्तको लग्ननायकः| अकं जीवे तथा पातः सोऽष्टवर्षन जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "षष्ठाष्टमे च मूर्तो च बुधभौमो यदा स्थितौ तस्करं घोरकर्माणा करपादं विनश्यति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "षष्ठाष्टमे च मूर्तो च जन्मकाले यदा बुधः| चतुर्वर्षं भवेत्मृत्युरमृते यदि सिंचति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "भौमकषेत्रे यदि जीवः जीवक्षेत्रे च मंगलः। द्वादशाब्दे भवेन्मृत्यु रक्षते यदि शंकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "भोमक्ेत्रे यदा जीवः षष्ठाष्टम दितीयकः| षष्ठे वर्षे भवेन्मत्युं जातकस्य न संशयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "जन्ममूरतो यदा राहुरष्टषष्ठे च चन्द्रमाः विंशद्रात्रौ भवेन्मृत्युजतिकस्य न संशयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "चतुर्थपि यदा राहु केन्द्रे भवति चन्द्रमाः। विंशद्रात्रौ भवेन्मृत्युर्जातिकस्य न संशयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "सप्तभस्थो यदा राहूर्जन्मलग्ने यदा शशी | दशवर्ष भवेन्यमृत्युरमृते यदि सिंचति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "दादशे च यदा चन्द्रो षष्ठे पापग्रहो भवेत्‌ अल्पायुर्जायते बालोदररोगी न संशयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "नवमे दशमे राहुर्जन्ममकाले यदा र्थितः। षोडशाब्दे भवेन्मृत्यर्यदि शक्रोऽपि रक्षति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "रनिक्षेत्रे यदा भानुः भानुक्षेवे यदि शनिः। विंशे वर्ष भवेन्मृत्युरुत्न्नो यदि बालकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "जन्मलग्ने यदाराहूुः षष्ठे वायदि चंद्रमाः। गुदारोगी च मंदाग्निः अंगहीनो हि जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "षष्टाष्टमे जन्मकाले स्थितौ च शनिभास्करौ | राजरोगे भवेन्मृत्युर्जातकस्य न संशय",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "जन्मकाले तनुस्थाने भवेद्ेवोऽपि भास्करः। रथानहीनो भवेद्बालो शोकसंतापकारकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "दशमस्थोयद भौम उच्चे शत्रुगृहे रिथितः। सूतकेपि तदामृत्युर्भवेन्मातुर्न संशयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "लग्नेऽष्टमे यदा राहुश्चन्द्र वा यदि पश्यति । सूतकेपि तदा मृत्युः शक्रोऽपि यदि रक्षति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "केन्द्रे शुक्रगुरौ यस्य द्वादशे यदि भास्करः। लग्ने बुधश्च संप्राप्तः शतंजीवति बालकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "गुरु्धनुषिमीने च तथा कर्कटकेऽपि चं लग्नात्रिकोणकेन्द्रे वा तदारिष्टं न जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "बुधभार्गवजीवनामेकोऽपि यदि केन्द्रगः| स्वरथानबलसंयुक्तस्तदारिष्टं न जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "शनेश्चरस्तुला कुंभो मकरे च यदा भवेत्‌| आदये षष्ठतृतीये च तदारिष्टं न जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "यदा भानुर्भवेत्‌ सिंहे मेषे च मित्रवीक्षितः| यदि षष्ठोऽपि लाभस्थस्तदारिष्टं न जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "मेषे वृषे कुलीरे वा रार्हुलग्नमुपासितः। यदा सौम्यग्रहेरदष्टे तदारिष्टं न जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "लग्ने सौरिस्तथा चनद्रस्त्रिकोणे जीवभास्करौ | कर्मस्थाने यदा भेमोराजयोगौ विधीयते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "नवमे च यदा सूर्यः स्वगृहस्थो यदा भवेत्‌ तस्य नो जीवति भ्राता एकोऽपि च नृपैः सम",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "कर्मस्थाने निजक्षत्री यदि राहुर्भवेदिह | भोमशुक्रवुधैर्युक्तः क्षणे वृद्धिः क्षणे क्षयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "धनस्थाने यदा क्रूरः सहजे च तमस्सथा | पंचमे च भवेज्जीवो नीचजातिस्तदा भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "नवपंचचतुर्थषु स्थाने सूर्यादयो ग्रहाः || आदौ जाता विनश्यन्ति पश्चाज्जातश्च जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "धनस्थौ यदा क्रूरः भौमसौरिसमन्वितः। सहजे च यदा राहुस्तस्य भ्राता न जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 29,
+          "text": "धने व्यये तदा लग्ने सप्तमे भवने ग्रहः | छत्रयोगं विजानीयात्स्वकुले नायको भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "लग्ने शुक्रो व्यये सोम्यो धने क्रूरस्तथेव च। राजयोगे भवेदाजा दानदारिद्रयभास्करः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "लग्ने क्रूरो व्यये क्रूरो धने सौम्यस्तथेव च| सप्तमे भवने क्रूरः परिवारक्षयंकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "धने चंद्रे च सौरिश्च मेषे जीवो यदा भवेत्‌ दशमे राहु शुक्रौ च राजयोगो विधीयते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "धने व्ययेऽष्टमे क्रूरो जन्मकाले भवेद्यदि | तस्य त्वक्षिविनाशश्च द्वादशाष्टमवासरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "अष्टमे भवने भौमः सप्तमे राहु संभवः | भौमः सौरेण संयुक्तस्य भ्राता न जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "तिथ्यते च दिनांते च लग्नस्यांते तथैव च रात्रावपि च यो जातः सोन्यजातो भविष्यति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "स्वकषेत्रस्थो यदा भौमः कर्मस्थाने निरीक्षते । बुधः क्रूरसमाविष्टः स्वल्पकर्मफलप्रदः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "सिंहे जीवस्तथा शुक्रो कन्यायां मिथुने शनिः। स्वक्षेत्रे हिबुके भौमः स पुमान्नायको भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "कन्यायां सौरिचंद्रे च मृगे भौमे घटे तमः। सिंहे जीवस्तथा जातो दुष्टपक्षक्षयकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 39,
+          "text": "अस्मिन्नयोगे समुत्पन्नः सामान्यो नैव मानवः कुटुम्बस्य समुद्धर्ता स भवेद्राजयोगतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "शुक्रो जीवो रविभौमो धनुर्मकर कुंभयोः। मीने च तत्सरे विंशे जातस्य क्रूर कर्मकृत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "एकादशे यदा क्रूरः पंचमे शुक्रशीतगू | प्रथमे कन्या जन्म माता तस्य सकणष्टका",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 42,
+          "text": "सुहत्स्थाने यदा राहूर्धनस्थाने बृहस्पतिः। बुधो वा नवमे षष्ठे तस्यं ब॑धुक्षयंकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "धर्मरथाने यदा जीवों बुधः शुक्रस्तथा शशी । तस्य कार्याणि सिध्यन्ति राजमान्यो भवेन्नरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "षष्ठाष्टमे पंचमे च नवमे द्वादशे तथा| सौम्यक्रूरग्रहैर्योगि राजमान्यो सकष्टकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "पंचषष्टाष्टमगता नवमस्था यथाक्रमम्‌| भौमो राहुः शितः सूर्यः स्वपक्षपरिपालकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": "लग्ने सौरिस्तथा चन्द्रश्चाष्टमे भवनेशितः | राजमान्यो तथा कामी भोगवांश्च यथा तथा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 47,
+          "text": "मकरस्थो यदा चंद्रो नीचे शत्रुगृहे र्थितः। भ्रातृवर्गतथा कष्टं यदि स्वामी न पश्यति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "मिथुनस्थो यदा राहु सिंहस्थो भूमिनंदनः | वृश्चिके च यदा जीवो तदा जातो नृपो भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 49,
+          "text": "कुमे सौरिर्धने सूर्यो मेषे वै चंद्रमा भवेत्‌। मकरे च तथा भौमः स्व॑भुक्ते वा पितुर्धनम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 50,
+          "text": "दशमस्थौ बुधदित्यौ षष्टे राहुधरासुतौ | राजयोगे च यो जातः स पुमान्नायको भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 51,
+          "text": "स्वगृहे दशमे सूर्यः तुलायां सूर्यजो रिपौ | बुधेन्दू मिथुने धर्मे राजयोगोऽभिजायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 52,
+          "text": "आदौ जीवः शितश्चांत्ये ग्रहामध्ये निरंतर | राजयोगं विजानीयात्‌ कुटुबबलवर्धनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 53,
+          "text": "सहजस्थ यदा जीवो मृत्युस्थाने यदा सितः। निरतरं ग्रहा मध्ये राजा भवति निश्चितम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 54,
+          "text": "वृषे जीवस्तथा चंद्रो मिथुने मकरे कूजः। सिंहस्थो यदि शुक्रश्च कन्यायां बुधभास्करौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "तुलायां जायते सौरी राजयोगो भवेद्यदा | योगेसिमिन्पुण्यवान्नयायौ जायते मानवः शुभः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 56,
+          "text": "अष्टमे द्वादशे वर्षे यदि जीवति बालकः। तदा कूदुम्बमध्यं तु पूर्वं जातान्समुद्धरेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "क्रूरश्च तुलकेन्दरेषु तथा क्रूरो धनेऽपि च। दारिद्रययोगजातश्च स्वयंपक्षक्षयंकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 58,
+          "text": "दशमे भवने चन्द्रौ सप्तमे भवने शितः पापैः पातालसंस्थेश्च वंशचछेदकरो नरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 59,
+          "text": "मीनस्थे च यदा जीवो धने सौरिः यदा भवेत्‌। राहुश्च सहजे यस्य माता तस्य न जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "सप्तमे भवने भौमश्चाष्टमे च यदा शितः। नवमे च भवेत्सूर्यः स्वल्पायुश्च भवेन्नरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 61,
+          "text": "तस्य भ्राता भवेदन्यान्प्रीतात्मा च समुद्धरेत्‌। जीवके च भवेल्लग्ने सर्वयोगे शुभंकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 62,
+          "text": "दीर्घजीवी महाप्राज्ञो स पुमान्नायको भवेत्‌| अस्मिन्योगे भवेज्जातो स विभुर्दभवर्जित",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 63,
+          "text": "दानभोगादिविख्यातः सामान्यः संभवेन्न हि| ककं सौरिर्वृषे राहुर्बहुभार्यायुतो नरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 64,
+          "text": "वीक्षिते तु सुतस्थाने सौरिर्यत्रतदेकिकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 65,
+          "text": "राहुजीवौ रिपु्षत्रे लग्ने सथानाच्चतुर्थके | उमापतिर्यदि रक्षेन्नाशं याति त्रयोदशे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 66,
+          "text": "लग्नात्स्यादष्टमे भौमस्त्रिकोणे नीचगो रविः | शीघ्रं च गुरुधर्मस्थो लक्ष्मीपात्रं भवेन्नरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 67,
+          "text": "मीनांशे शुक्रो बुधःस्वांशे लग्नंसूर्यः शशी धने। सहजे च भवेद्भमौमो राजयोगं प्रयच्छति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 68,
+          "text": "अस्मिन्योगे भवेज्जातो देवतागुरुपूजकः| स्वदेशे परदेशे च विख्यातो जनदुर्लभः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 69,
+          "text": "व्यये जीवो धने सौरी रविभौमोबुधस्तथा। विवाहसमये तस्य स जातो प्रियते पिता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 70,
+          "text": "भ्रातृस्थाने यदा जीवो लाभस्थाने शशी भवेत्‌| स्वज्ञातिमध्ये विख्यातः कुटुबकुलदीपकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 71,
+          "text": "लग्ने शुक्रो धने चन्द्रः सहजस्थो यदा गुरुः| तदार्जितं पितुर्द्रव्यं यच्छुक्रो नैव पश्यति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 72,
+          "text": "सिंहे भौमस्तथा सौरिः कन्यायां य यदाशितः। मिथुने च यदा राहूर्भियते जननी शिशोः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 73,
+          "text": "अस्मिन्योगे तु यो जातो बालभावेपि निर्धनः विधुभौमो च एकस्थौ तदा सौख्यं प्रचक्षते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 74,
+          "text": "स्वस्थाने लग्नगः क्रूरः पाताले सप्तमस्तथा | दशमे भवने क्रूरः षष्ठं जीवति बालकः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 75,
+          "text": "अस्मिन्योगे सुतो जातो मातुर्दुःरवकरो भवेत्‌| यदि जीवो न पश्यति मातृपक्षक्षयंकरः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 76,
+          "text": "स्वक्षेत्रे च यदा सूर्यः कन्यायां क्रूरगेहगः। ्रूरक्षेत्रे यदा राहुः षष्टवर्षण जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 77,
+          "text": "अष्टमस्थे निशानाथे केन्द्रे च क्रूर संस्थितः कर्मस्थाने यदा राहुः वर्षमेकोन विंशतिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 78,
+          "text": "उच्वस्थानगतः सौम्यः केन्द्रसथाने भवति चेत्‌। घ्रुवं राज्यं भवेत्तस्य कूटुम्बाधारनिस्चयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 79,
+          "text": "सप्तमे भवने भानुः मध्यस्थो भूमिनन्दनः। राहुर्लग्ने यदा जातः पिता तस्य न जीवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 80,
+          "text": "रमरे व्यये तृतीये चाष्टमे क्रूरग्रहो यदि। तदा जातस्य पुत्रस्य शरीरे कष्टमादिशेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 81,
+          "text": "स्वक्षत्रसथो यदा जीवो बुधसौरियुतस्तदा | दीरघायुर्जायते तस्य संपदश्च पदे पदे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 82,
+          "text": "मीने शुक्रो यदा जीवश्चंद्रमा च यदा भवेत्‌| जातस्य राज्य-सौभाग्यं बहुपुत्रकटुम्बवान्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 83,
+          "text": "धने राहर्बुधः शुक्रः सौरिः सूर्योयदा ग्रहः। तदा मातुः भवेन्मृत्युरथवा पितूनाशनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 84,
+          "text": "लग्ने पापा व्यये पापा निधने पापसंरिथिताः। तदा मातुः भवेन्मृत्युश्चतुर्थं दशमे पिता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    }
+  ]
+}
