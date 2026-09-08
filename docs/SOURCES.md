@@ -64,11 +64,11 @@ Extending it by hand is what let it rot; if it is regenerated, generate it.
 
 | Path (under `sanskrit-texts-sources/`) | Tier | Size | sha256 | Upstream URL | Attribution |
 |---|---|---:|---|---|---|
-| `Dharmashastra/ApastambaDharmaSutra-MahadevaSastri1898-sdApastambaDharmaSutra-MahadevaSastri1898-sd4605.txt` | .txt | 1.1 MB | `99c1fcf9a5a0e76c` | _unrecorded_ | — |
-| `Dharmashastra/ApastambaParibhasaSutra-Kapardisvamin-Haradatta-sdApastambaParibhasaSutra-Kapardisvamin-Haradatta-sd4607.txt` | .txt | 345 KB | `8339d002c024f5b1` | _unrecorded_ | — |
-| `Dharmashastra/ApastambaSravani-sdApastambaSravani-sd4609.txt` | .txt | 90 KB | `c4bbe40e18ba2da2` | _unrecorded_ | — |
-| `Dharmashastra/ApastambaDharmaSutra-Haradatta-Ujjvala-sdApastambaDharmaSutra-Haradatta-Ujjvala-sd4617.txt` | .txt | 1000 KB | `3041cb26648d3db9` | _unrecorded_ | — |
-| `Dharmashastra/ManuSmriti/ManuSmriti-Kullukabhatta-VasudevaSarma-sdManuSmriti-Kullukabhatta-VasudevaSarma-sd9048.txt` | .txt | 2.7 MB | `24f1585579005646` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaDharmaSutra-MahadevaSastri1898-sd4605.txt` | .txt | 1.1 MB | `99c1fcf9a5a0e76c` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaParibhasaSutra-Kapardisvamin-Haradatta-sd4607.txt` | .txt | 345 KB | `8339d002c024f5b1` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaSravani-sd4609.txt` | .txt | 90 KB | `c4bbe40e18ba2da2` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaDharmaSutra-Haradatta-Ujjvala-sd4617.txt` | .txt | 1000 KB | `3041cb26648d3db9` | _unrecorded_ | — |
+| `Dharmashastra/ManuSmriti/ManuSmriti-Kullukabhatta-VasudevaSarma-sd9048.txt` | .txt | 2.7 MB | `24f1585579005646` | _unrecorded_ | — |
 | `Dharmashastra/ManuSmriti/manu_clean.txt` | .txt | 2.7 MB | `d7f52eaef22a977b` | _unrecorded_ | — |
 | `Hora/Nadi/Bhrigusootram/BhriguSutram.md` | .md | 67 KB | `33e60e77a5fca439` | _unrecorded_ | — |
 | `Hora/Parashari/BrihatJataka/brihmajjataka.md` | .md | 162 KB | `a01f10125acf5d4a` | _unrecorded_ | — |
@@ -122,7 +122,13 @@ manifest whose provenance column is empty is a checksum list, not a manifest.
 
 ## Known provenance, recorded elsewhere
 
-- `Samhita/GargaSamhita/GargaSamhita-KrishnaSahasranamaStotra-VAISHNAVA-sdGargaSamhita-KrishnaSahasranamaStotra-VAISHNAVA-sd3003.txt` — the **devotional Vaishnava** Garga Samhita, Ashvamedha
+- **Left the tree 2026-09-08, to Youvan** (`Tushar/text-sources/Kalpa/…`), both Kalpa —
+  ritual procedure — and so Youvan's by the 2026-09-02 assignment. Tracked there as **YV-036**:
+  `ApastambaParibhasaSutra-Kapardisvamin-Haradatta-sd4607.txt` (Bibliotheca Sanskrita No. 2;
+  it fills an EMPTY stub already declared in Youvan's corpus) and `ApastambaSravani-sd4609.txt`
+  (not held there at all). **The Āpastamba _Dharmasūtra_ editions `sd4605` and `sd4617` stay
+  here** — a praśna of a Kalpasūtra, but its genre is dharma. Do not move them on the author.
+- `Samhita/GargaSamhita/GargaSamhita-KrishnaSahasranamaStotra-VAISHNAVA-sd3003.txt` — **REMOVED 2026-09-08** (Youvan already holds it digitised as `krishna_sahasranama_stotram_garga`, 127 units). Was the **devotional Vaishnava** Garga Samhita, Ashvamedha
   Khanda ch. 59, not the Jyotish work. Digitised and relocated to
   `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`. See `DECISIONS.md` 2026-08-23.
 - `Muhurta/MuhurtaMartanda/raw_muhurta_martanda_ocr.txt` — **produced here**, not fetched:
@@ -747,7 +753,7 @@ than invent them, and validate against an external witness before writing JSON.
 
 ### Sarvārtha Cintāmaṇi — supplied 2026-09-02; rights RECORDED, not a rejection
 
-`SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaChintamani/SarvarthaChintamani-VyankateshSharma-Bhasin-sdSarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`;
+`SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaChintamani/SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`;
 rights recorded below, not acted on.
 
 > Sagar's *"Search-Light on Indian Astrology"* / Aryan Miscellany —
@@ -802,8 +808,8 @@ four the same day and they are now staged.**
 
 | File | Text | Status |
 |---|---|---|
-| `SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaChintamani/SarvarthaChintamani-VyankateshSharma-Bhasin-sdSarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` |
-| `SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | ✅ re-supplied → `Siddhanta/SiddhantaShiromani/SiddhantaShiromani-Bijaganita-Abhyankar-sdSiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` |
+| `SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaChintamani/SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` |
+| `SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | ✅ re-supplied → `Siddhanta/SiddhantaShiromani/SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` |
 | Garga Horā PDF | K.K. Pathak, Nishkaam Peeth | ✅ re-supplied → `Hora/Parashari/GargaHora/raw/GargaHora-Pathak-Ranjan.pdf` |
 | **Praśna Mārga PDF** | B.V. Raman, Motilal Banarsidass | ⚠ **still outstanding — re-supply needed** |
 
@@ -1048,7 +1054,7 @@ per G26/G34.
 
 `महर्षि-जैमिनिप्रणीतं (उपदेशापरनामकं) जैमिनि-सूत्रम्`, *Vidyābhavan Prācyavidyā Granthamālā-57*,
 with the **Tattvādarśa** commentary of Pt. Sītārāma Śarmā Maithila (Jyotiṣācārya Jhā). Staged at
-`Hora/Jaimini/JaiminiSutras/raw/JaiminiSutra-Upadesa-VidyabhavanSeries57-sdJaiminiSutra-Upadesa-VidyabhavanSeries57-sd1154.txt`.
+`Hora/Jaimini/JaiminiSutras/raw/JaiminiSutra-Upadesa-VidyabhavanSeries57-sd1154.txt`.
 
 **129,358 Devanāgarī characters and ZERO Latin** — a real digitisation, not OCR of a scan, so the
 gate that blocked five texts earlier the same day does not apply at all. 410 markers of the
@@ -1062,7 +1068,7 @@ of the canonical 4**. Digitised the same day: 408 sūtras across 8 pādas.
 
 `श्री महादेवकृतं जातकतत्त्वम्` — *Mahādeva's Jātaka Tatva, with an English Translation by
 Panditabhushana V. Subrahmanya Sastri, B.A., Asst. Secretary to the Govt. of Mysore (Retd.)*.
-Staged at `Hora/Parashari/JatakaTattvam/raw/JatakaTattva-Mahadeva-SubrahmanyaSastri-sdJatakaTattva-Mahadeva-SubrahmanyaSastri-sd1223.txt`.
+Staged at `Hora/Parashari/JatakaTattvam/raw/JatakaTattva-Mahadeva-SubrahmanyaSastri-sd1223.txt`.
 
 **97,821 Devanāgarī against 280,689 Latin** — English-dominant, with an English index at the end
 that is apparatus and must not become text.
