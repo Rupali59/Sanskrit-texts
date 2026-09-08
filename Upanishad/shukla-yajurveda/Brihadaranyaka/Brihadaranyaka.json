@@ -23,7 +23,21 @@
       "1.5.20",
       "2.4.10"
     ],
-    "known_gaps_reason": "Numbers absent from the source's own sequence, not dropped by this parser: I.5 runs 1-4, 6, 7, 9-19, 21-23 and II.4 skips 10. V.15 is a separate case and is NOT listed here — its content is entire, printed under mantra 1, so it is a unit mismatch rather than a gap."
+    "known_gaps_reason": "Numbers absent from the source's own sequence, not dropped by this parser: I.5 runs 1-4, 6, 7, 9-19, 21-23 and II.4 skips 10. V.15 is a separate case and is NOT listed here — its content is entire, printed under mantra 1, so it is a unit mismatch rather than a gap.",
+    "contained_in": [
+      {
+        "work": "satapatha_brahmana",
+        "work_en": "Śatapatha Brāhmaṇa",
+        "layer": "brahmana/aranyaka",
+        "where_in_that_text": "kāṇḍa 14",
+        "held_by": "Tushar / youvan-texts",
+        "counterpart_path": "Tushar/texts/Brahmana/ShuklaYajurveda/SatapathaBrahmana/SatapathaBrahmana.json",
+        "evidence": "166 of 431 of Vipin's verses appear verbatim in our kāṇḍa 14 (39%); a control text scores 0 of 80 against the same region",
+        "note": "The Bṛhadāraṇyaka IS Śatapatha kāṇḍa 14 — that is what its name means. Neither copy is redundant: ours is the Brāhmaṇa layer, Vipin's is the Upaniṣad layer.",
+        "established": "2026-09-08 (YV-023)"
+      }
+    ],
+    "contained_in_note": "Verse-level 1:1 linking was attempted and rejected. The matcher was validated against ground truth — GRETIL's explicit '= KU x,y' marks on 50 Śāṅkhāyana verses — and agreed with it on only 7 of 50, because the copies are different recensions with different verse divisions. A forced verse map would be invented data. Link at text level; use each side's own citation scheme to navigate."
   },
   "chapters": [
     {

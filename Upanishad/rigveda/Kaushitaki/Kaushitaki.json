@@ -18,7 +18,21 @@
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
     "known_gaps": [
       "3.2"
-    ]
+    ],
+    "contained_in": [
+      {
+        "work": "sankhayana_aranyaka",
+        "work_en": "Śāṅkhāyana Āraṇyaka",
+        "layer": "brahmana/aranyaka",
+        "where_in_that_text": "adhyāyas 3–6",
+        "held_by": "Tushar / youvan-texts",
+        "counterpart_path": "Tushar/texts/Aranyaka/Rigveda/SankhayanaAranyaka/SankhayanaAranyaka.json",
+        "evidence": "9 of 50 of Vipin's verses appear verbatim (18%), control 0 of 80; and GRETIL marks 50 of our verses with an explicit '= KU x,y' reference",
+        "note": "GRETIL's own concordance is the strong evidence here, not the verbatim rate: the two copies are different recensions and differently divided.",
+        "established": "2026-09-08 (YV-023)"
+      }
+    ],
+    "contained_in_note": "Verse-level 1:1 linking was attempted and rejected. The matcher was validated against ground truth — GRETIL's explicit '= KU x,y' marks on 50 Śāṅkhāyana verses — and agreed with it on only 7 of 50, because the copies are different recensions with different verse divisions. A forced verse map would be invented data. Link at text level; use each side's own citation scheme to navigate."
   },
   "chapters": [
     {

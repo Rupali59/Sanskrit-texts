@@ -16,7 +16,21 @@
     "count_authority": "firm",
     "count_authority_reason": "matches cited 35",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": []
+    "known_gaps": [],
+    "contained_in": [
+      {
+        "work": "jaiminiya_upanisad_brahmana",
+        "work_en": "Jaiminīya-Upaniṣad-Brāhmaṇa",
+        "layer": "brahmana/aranyaka",
+        "where_in_that_text": "within the text (traditionally JUB 4.18–21)",
+        "held_by": "Tushar / youvan-texts",
+        "counterpart_path": "Tushar/texts/Brahmana/Samaveda/JaiminiyaUpanisadBrahmana/JaiminiyaUpanisadBrahmana.json",
+        "evidence": "2 of 35 of Vipin's verses appear verbatim (6%), control 0 of 80 — the containment is real but the recensions differ most in this pair",
+        "note": "The weakest verbatim overlap of the three. The link is recorded on the traditional attribution and the non-zero-against-zero-control signal, NOT on a strong match.",
+        "established": "2026-09-08 (YV-023)"
+      }
+    ],
+    "contained_in_note": "Verse-level 1:1 linking was attempted and rejected. The matcher was validated against ground truth — GRETIL's explicit '= KU x,y' marks on 50 Śāṅkhāyana verses — and agreed with it on only 7 of 50, because the copies are different recensions with different verse divisions. A forced verse map would be invented data. Link at text level; use each side's own citation scheme to navigate."
   },
   "chapters": [
     {
