@@ -64,13 +64,13 @@ Extending it by hand is what let it rot; if it is regenerated, generate it.
 
 | Path (under `sanskrit-texts-sources/`) | Tier | Size | sha256 | Upstream URL | Attribution |
 |---|---|---:|---|---|---|
-| `Dharmashastra/4605.txt` | .txt | 1.1 MB | `99c1fcf9a5a0e76c` | _unrecorded_ | — |
-| `Dharmashastra/4607.txt` | .txt | 345 KB | `8339d002c024f5b1` | _unrecorded_ | — |
-| `Dharmashastra/4609.txt` | .txt | 90 KB | `c4bbe40e18ba2da2` | _unrecorded_ | — |
-| `Dharmashastra/4617.txt` | .txt | 1000 KB | `3041cb26648d3db9` | _unrecorded_ | — |
-| `Dharmashastra/ManuSmriti/9048.txt` | .txt | 2.7 MB | `24f1585579005646` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaDharmaSutra-MahadevaSastri1898-sdApastambaDharmaSutra-MahadevaSastri1898-sd4605.txt` | .txt | 1.1 MB | `99c1fcf9a5a0e76c` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaParibhasaSutra-Kapardisvamin-Haradatta-sdApastambaParibhasaSutra-Kapardisvamin-Haradatta-sd4607.txt` | .txt | 345 KB | `8339d002c024f5b1` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaSravani-sdApastambaSravani-sd4609.txt` | .txt | 90 KB | `c4bbe40e18ba2da2` | _unrecorded_ | — |
+| `Dharmashastra/ApastambaDharmaSutra-Haradatta-Ujjvala-sdApastambaDharmaSutra-Haradatta-Ujjvala-sd4617.txt` | .txt | 1000 KB | `3041cb26648d3db9` | _unrecorded_ | — |
+| `Dharmashastra/ManuSmriti/ManuSmriti-Kullukabhatta-VasudevaSarma-sdManuSmriti-Kullukabhatta-VasudevaSarma-sd9048.txt` | .txt | 2.7 MB | `24f1585579005646` | _unrecorded_ | — |
 | `Dharmashastra/ManuSmriti/manu_clean.txt` | .txt | 2.7 MB | `d7f52eaef22a977b` | _unrecorded_ | — |
-| `Hora/Nadi/Bhrigusootram/bhrigustrotram.md` | .md | 67 KB | `33e60e77a5fca439` | _unrecorded_ | — |
+| `Hora/Nadi/Bhrigusootram/BhriguSutram.md` | .md | 67 KB | `33e60e77a5fca439` | _unrecorded_ | — |
 | `Hora/Parashari/BrihatJataka/brihmajjataka.md` | .md | 162 KB | `a01f10125acf5d4a` | _unrecorded_ | — |
 | `Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShastra.md` | .md | 962 KB | `bb8a79a4fa04a8c8` | _unrecorded_ | — |
 | `Hora/Parashari/Chamatkarchintamani/Chamatkarchintamani.md` | .md | 45 KB | `755cd71b10882348` | _unrecorded_ | — |
@@ -78,9 +78,9 @@ Extending it by hand is what let it rot; if it is regenerated, generate it.
 | `Hora/Parashari/Laghujatakam/Laghujatakam_By_Varahamihiracharya.md` | .md | 57 KB | `6f34f5307d1ced90` | _unrecorded_ | — |
 | `Hora/Parashari/MinarajaYavanajataka/Minaraja_Shrivriddhayavanajataka_Purvakhanda.md` | .md | 680 KB | `ad410e29c737c37f` | _unrecorded_ | — |
 | `Hora/Parashari/Phaladeepika/phaladeepika.md` | .md | 325 KB | `e8314fba229690d3` | _unrecorded_ | — |
-| `Hora/Parashari/Saravali/saravaliofkalyan01kalyuoft.pdf` | .pdf | 16.5 MB | `3bfd4f7f717798f8` | _unrecorded_ | — |
+| `Hora/Parashari/Saravali/Saravali-Kalyanavarma-archiveorg.pdf` | .pdf | 16.5 MB | `3bfd4f7f717798f8` | _unrecorded_ | — |
 | `Hora/Parashari/Shatpanchashika/Shatpanchashika.md` | .md | 19 KB | `f7a26d9b31de4978` | _unrecorded_ | — |
-| `Hora/Parashari/UttaraKalamrita/raw_uttara_kalamrita.txt` | .txt | 1016 KB | `6552c2bba6333432` | _unrecorded_ | — |
+| `Hora/Parashari/UttaraKalamrita/UttaraKalamrita-raw.txt` | .txt | 1016 KB | `6552c2bba6333432` | _unrecorded_ | — |
 | `Hora/Parashari/UttaraKalamrita/sections/sec1.txt` | .txt | 29 KB | `570f7dc8be125322` | _unrecorded_ | — |
 | `Hora/Parashari/UttaraKalamrita/sections/sec2.txt` | .txt | 100 KB | `db1e48d71c1f83e4` | _unrecorded_ | — |
 | `Hora/Parashari/UttaraKalamrita/sections/sec3.txt` | .txt | 45 KB | `e8f3dd2c4a58abe1` | _unrecorded_ | — |
@@ -93,13 +93,12 @@ Extending it by hand is what let it rot; if it is regenerated, generate it.
 | `Hora/Parashari/VarahamihirDaivagnavallabh/Varahamihircharita_daivagya_vallabh.md` | .md | 87 KB | `00eb70a50536ac2b` | _unrecorded_ | — |
 | `Muhurta/MuhurtaChintamani/MC_REMAINING_RAW.json` | .json | 313 KB | `0b574dfa23192322` | _unrecorded_ | — |
 | `Muhurta/MuhurtaChintamani/muhurt_chintamani_002342_hr6.pdf` | .pdf | 35.8 MB | `1f6a56a104795c2e` | _unrecorded_ | — |
-| `Muhurta/MuhurtaMartanda/1759902040.pdf` | .pdf | 4.8 MB | `a472456702c49cca` | _unrecorded_ | — |
+| `Muhurta/MuhurtaMartanda/MuhurtaMartanda-Mohanarama-Martandavallabha-154pp.pdf` | .pdf | 4.8 MB | `a472456702c49cca` | _unrecorded_ | — |
 | `Muhurta/MuhurtaMartanda/raw_muhurta_martanda_ocr.txt` | .txt | 842 KB | `9e069e7fc7163b4a` | _unrecorded_ | — |
 | `Samhita/BrihatSamhita/Varahmihir_brihatsamhita.md` | .md | 882 KB | `176344af746f0d52` | _unrecorded_ | — |
 | `Samhita/BrihatSamhita/Varahmihir_brihatsamhita2.md` | .md | 902 KB | `83f051c6a4e8c3ca` | _unrecorded_ | — |
-| `Samhita/GargaSamhita/3003.txt` | .txt | 43 KB | `2df74209e0bdc377` | _unrecorded_ | — |
 | `Siddhanta/Panchasiddhantika/panch_siddhantika_040577_hr6.pdf` | .pdf | 17.0 MB | `901c7020770ed2be` | _unrecorded_ | — |
-| `Siddhanta/SuryaSiddhanta/1770115260.pdf` | .pdf | 86.3 MB | `e5333a829983abba` | _unrecorded_ | — |
+| `Siddhanta/SuryaSiddhanta/SuryaSiddhanta-SudhakaraDvivedi-BibliothecaIndica-345pp.pdf` | .pdf | 86.3 MB | `e5333a829983abba` | _unrecorded_ | — |
 | `Vedanga-Jyotisha/Rigveda/Aarchjyotisham/Aarchjyotisham.md` | .md | 9 KB | `db06d35fd7e3441b` | _unrecorded_ | — |
 | `Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/Yajushajyotisham.md` | .md | 12 KB | `c2a78453fe33ec0e` | _unrecorded_ | — |
 
@@ -123,15 +122,15 @@ manifest whose provenance column is empty is a checksum list, not a manifest.
 
 ## Known provenance, recorded elsewhere
 
-- `Samhita/GargaSamhita/3003.txt` — the **devotional Vaishnava** Garga Samhita, Ashvamedha
+- `Samhita/GargaSamhita/GargaSamhita-KrishnaSahasranamaStotra-VAISHNAVA-sdGargaSamhita-KrishnaSahasranamaStotra-VAISHNAVA-sd3003.txt` — the **devotional Vaishnava** Garga Samhita, Ashvamedha
   Khanda ch. 59, not the Jyotish work. Digitised and relocated to
   `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`. See `DECISIONS.md` 2026-08-23.
 - `Muhurta/MuhurtaMartanda/raw_muhurta_martanda_ocr.txt` — **produced here**, not fetched:
   `pdftoppm -r 300 -gray` then `tesseract -l san+hin --psm 6` over the sibling PDF.
   Substantively corrupt and a three-layer commentary edition; see its `README-OCR.md`.
 - `Dharmashastra/{4605,4617}.txt` — Āpastamba-Dharmasūtra with Haradatta's Ujjvalā
-  commentary (ed. Mahādeva Śāstri, Mysore 1898). `4607.txt` — Āpastamba-Paribhāṣā-Sūtra.
-  `4609.txt` — **identified 2026-09-02: the `Āpastamba-ukta Śrāvaṇī`**, a *prayoga* (ritual
+  commentary (ed. Mahādeva Śāstri, Mysore 1898). `ApastambaParibhasaSutra-Kapardisvamin-Haradatta-sd4607.txt` — Āpastamba-Paribhāṣā-Sūtra.
+  `ApastambaSravani-sd4609.txt` — **identified 2026-09-02: the `Āpastamba-ukta Śrāvaṇī`**, a *prayoga* (ritual
   handbook) for the Vedotsarjana/Upākarma rites in Āpastamba's school. It opens
   `॥अथापस्तंबोक्तश्रावणीप्रारंभः॥` and closes `॥इत्यापस्तंबोक्तश्रावणीसमाप्तः॥`, so it is a
   complete self-contained work, not a fragment. **It is Kalpa, and therefore Youvan's** — the
@@ -306,7 +305,7 @@ collision unrecorded — while G26 counted it. Kept apart below.
 `CLAUDE.md` said `GargaSamhita` and `MuhurtaMartanda` already had sources ready. Both claims
 died on inspection 2026-08-23.
 
-- **`GargaSamhita`'s `3003.txt` is the wrong Garga Saṃhitā.** Its colophon reads
+- **`GargaSamhita`'s `GargaSamhita-KrishnaSahasranamaStotra-VAISHNAVA-sd3003.txt` is the wrong Garga Saṃhitā.** Its colophon reads
   `अश्वमेधखण्डे ... अध्याय ५९` — the devotional Vaiṣṇava Purāṇa, not the Jyotiṣa work.
   Digitised, then **relocated to `Tushar/Youvan/texts/Stotra/KrishnaSahasranamaStotram/`**
   (127 shlokas) under the Jyotiṣa/Youvan ownership split. That directory has **no source
@@ -546,7 +545,7 @@ recognises it before spending 745 pages of OCR on it.
 **This supersedes every "no usable source" claim about this text in this file** — §"Two sources
 that were not what they looked like", §"Absent everywhere checked", and the cost estimate in
 §"What this means for the eleven" that cites it as the worked example of why OCR was declined.
-Those describe `Muhurta/MuhurtaMartanda/1759902040.pdf`, **154 pages of `tiff2pdf`-wrapped CCITT
+Those describe `Muhurta/MuhurtaMartanda/MuhurtaMartanda-Mohanarama-Martandavallabha-154pp.pdf`, **154 pages of `tiff2pdf`-wrapped CCITT
 bitmaps**, and remain true of that file. A different and better scan now exists beside it.
 
 | | |
@@ -626,7 +625,7 @@ or a manuscript transcription. **Do not re-acquire the Pathak edition.**
 
 ### Sūrya Siddhānta — the replacement for a fabricated text, OCR'd 2026-09-02
 
-**Already held, never OCR'd.** `Siddhanta/SuryaSiddhanta/1770115260.pdf`, 345pp, `no-text`
+**Already held, never OCR'd.** `Siddhanta/SuryaSiddhanta/SuryaSiddhanta-SudhakaraDvivedi-BibliothecaIndica-345pp.pdf`, 345pp, `no-text`
 tier — in this tree the whole time the corpus was serving a **fabricated** `surya_siddhanta`
 under three live astroacharya citations. It went un-OCR'd because the OCR lane was unmeasured
 and OCR of commentary editions had been declined; both of those changed on 2026-09-02.
@@ -663,29 +662,29 @@ abundant. These are the real thing. (`लिङ्ग`/`स्थल` counts are
 ordinary Sanskrit words; G26 records the Vīraśaiva text at 967 and 643, two orders of magnitude
 above anything seen here.)
 
-**The quality split is the finding, and it is provable on a single shared verse.** `7404.txt`
-and `1139.txt` both contain the maṅgala verse `॥६॥`:
+**The quality split is the finding, and it is provable on a single shared verse.** `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt`
+and `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama-sd1139.txt` both contain the maṅgala verse `॥६॥`:
 
 | | text of `॥६॥` |
 |---|---|
-| `7404.txt` | `वेदस्य चक्षुः किल शास्त्रमेतत् प्रधानताऽङ्गेषु ततोऽस्य युक्ता। अङ्गैर्युतोऽन्यैः परिपूर्णमूर्तिश्चक्षुर्विहीनः पुरुषो न कश्चित्॥६॥` |
-| `1139.txt` | `पधानवाप्रवेन्यू वोऽश्य युक्ता। मुपवा चाइगष्षेप्रय ने नोच्यो। अझै तोम्पैः परिपूर्ण मानि-` |
+| `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt` | `वेदस्य चक्षुः किल शास्त्रमेतत् प्रधानताऽङ्गेषु ततोऽस्य युक्ता। अङ्गैर्युतोऽन्यैः परिपूर्णमूर्तिश्चक्षुर्विहीनः पुरुषो न कश्चित्॥६॥` |
+| `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama-sd1139.txt` | `पधानवाप्रवेन्यू वोऽश्य युक्ता। मुपवा चाइगष्षेप्रय ने नोच्यो। अझै तोम्पैः परिपूर्ण मानि-` |
 
 Same verse, same work, one clean and one unusable. **Do not merge or cross-check these two as
 if they were independent witnesses** — the second is OCR noise, not a variant reading.
 
 | File | Devanāgarī | verse markers | stray Latin | Verdict | Part |
 |---|---:|---:|---:|---|---|
-| `7404.txt` | 426,311 | 935 | **0** | **CLEAN** | *Grahagaṇitādhyāya* — Ānandāśrama 110 |
-| `8252.txt` | 560,002 | 735 | **0** | **CLEAN** | *Golādhyāya* — Ānandāśrama 122, Vāsanābhāṣya + Marīci |
-| `8244.txt` | 220,262 | 364 | 1 | clean | *Līlāvatī* — Ānandāśrama 107, two commentaries |
-| `1274.txt` | 532,141 | 550 | 34 | poor OCR | whole Siddhānta Śiromaṇi + Prabhā Hindi commentary |
-| `1139.txt` | 333,191 | 603 | 63 | poor OCR | *Grahagaṇita*, Vāsanābhāṣya + Śiromaṇiprakāśa |
-| `3328.txt` | 23,141 | 83 | 165 | **rejected** | *Bījagaṇita* + English, S.K. Abhyankar |
+| `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt` | 426,311 | 935 | **0** | **CLEAN** | *Grahagaṇitādhyāya* — Ānandāśrama 110 |
+| `SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt` | 560,002 | 735 | **0** | **CLEAN** | *Golādhyāya* — Ānandāśrama 122, Vāsanābhāṣya + Marīci |
+| `SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt` | 220,262 | 364 | 1 | clean | *Līlāvatī* — Ānandāśrama 107, two commentaries |
+| `SiddhantaShiromani-Ganitadhyaya-GirijaprasadDvivedi-hindi-sd1274.txt` | 532,141 | 550 | 34 | poor OCR | whole Siddhānta Śiromaṇi + Prabhā Hindi commentary |
+| `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama-sd1139.txt` | 333,191 | 603 | 63 | poor OCR | *Grahagaṇita*, Vāsanābhāṣya + Śiromaṇiprakāśa |
+| `SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` | 23,141 | 83 | 165 | **rejected** | *Bījagaṇita* + English, S.K. Abhyankar |
 
 Five PDFs accompany them, all `no-text` scans, held under `raw/`: `1706778372` (Ānandāśrama 107,
-Līlāvatī — the page witness for `8244.txt`), `1706617850` (Ānandāśrama 122, Golādhyāya — witness
-for `8252.txt`), `1706607175` (175pp, Sanskrit + commentary, *kṣetravyavahāra* sections),
+Līlāvatī — the page witness for `SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt`), `1706617850` (Ānandāśrama 122, Golādhyāya — witness
+for `SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt`), `1706607175` (175pp, Sanskrit + commentary, *kṣetravyavahāra* sections),
 `1696318554` (53pp — **misidentified on first pass as "an errata table"**; it is a complete
 **Līlāvatī, Benares Sanskrit Series No. 153**, edited by the pandits of the Benares Sanskrit
 College under **G. Thibaut** — 19th century and unambiguously public domain. The first pass
@@ -700,13 +699,13 @@ eGangotri.
 (1951 CE), consistent with the series volume numbers; the mūla is 1150 CE and unambiguously
 public domain. **The editorial apparatus's status is not established here and is not asserted** —
 it is very likely clear, but nobody has checked, and this file has already recorded one
-"public-domain work ≠ public-domain file" failure today (G26). **`3328.txt` is Prof. S.K.
+"public-domain work ≠ public-domain file" failure today (G26). **`SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` is Prof. S.K.
 Abhyankar's modern edition and English translation for Bhaskaracharya Pratishthana Pune**, which
 it calls its "maiden publication", carrying 1978/1980/1991. **Rights noted, not a bar — it is
 staged**, and it is the corpus's only *Bījagaṇita*, the fourth part of Siddhānta Śiromaṇi.
 
 **Still missing: a clean *Bījagaṇita*.** Three of four parts are covered; the algebra survives
-only in the rejected Abhyankar file and inside the poor `1274.txt`.
+only in the rejected Abhyankar file and inside the poor `SiddhantaShiromani-Ganitadhyaya-GirijaprasadDvivedi-hindi-sd1274.txt`.
 
 **Upstream URLs are unrecorded** — the files arrived by numeric id (an archive.org / e-library
 convention) rather than by link. Record them when known; §"Held sources" already carries four
@@ -719,10 +718,10 @@ text.** Three findings, in the order they were got wrong and then right:
 
 1. **Indentation does NOT mark verse.** Front matter indents quoted verses at three tabs, which
    looks like a clean signal. In the body it is the opposite: **705 of 707 verse-ending lines
-   in `7404.txt` sit at zero tabs**, and three-tab lines almost never end a verse. Do not build
+   in `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt` sit at zero tabs**, and three-tab lines almost never end a verse. Do not build
    on the tab.
 2. **Verse numbers repeating is NOT duplication.** Collapsing the whole file gives "verse 1"
-   eighteen times in `8252.txt`, which reads exactly like the `taittiriya_samhita` defect. It is
+   eighteen times in `SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt`, which reads exactly like the `taittiriya_samhita` defect. It is
    not: **numbering resets per chapter**, so those are eighteen different chapters' opening
    verses. **Segment by colophon before numbering anything**, or a correct text will be
    "deduplicated" into ruin.
@@ -748,7 +747,7 @@ than invent them, and validate against an external witness before writing JSON.
 
 ### Sarvārtha Cintāmaṇi — supplied 2026-09-02; rights RECORDED, not a rejection
 
-`1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaChintamani/1267.txt`;
+`SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`, 1.0 MB. Priority #4. **Held** at `Hora/Parashari/SarvarthaChintamani/SarvarthaChintamani-VyankateshSharma-Bhasin-sdSarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`;
 rights recorded below, not acted on.
 
 > Sagar's *"Search-Light on Indian Astrology"* / Aryan Miscellany —
@@ -803,8 +802,8 @@ four the same day and they are now staged.**
 
 | File | Text | Status |
 |---|---|---|
-| `1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaChintamani/1267.txt` |
-| `3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | ✅ re-supplied → `Siddhanta/SiddhantaShiromani/3328.txt` |
+| `SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` | **Sarvārtha Cintāmaṇi** — J.N. Bhasin tr., Ranjan Publications | ✅ re-supplied → `Hora/Parashari/SarvarthaChintamani/SarvarthaChintamani-VyankateshSharma-Bhasin-sdSarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` |
+| `SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` | **Bījagaṇita** — S.K. Abhyankar, Bhaskaracharya Pratishthana | ✅ re-supplied → `Siddhanta/SiddhantaShiromani/SiddhantaShiromani-Bijaganita-Abhyankar-sdSiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt` |
 | Garga Horā PDF | K.K. Pathak, Nishkaam Peeth | ✅ re-supplied → `Hora/Parashari/GargaHora/raw/GargaHora-Pathak-Ranjan.pdf` |
 | **Praśna Mārga PDF** | B.V. Raman, Motilal Banarsidass | ⚠ **still outstanding — re-supply needed** |
 
@@ -820,15 +819,15 @@ well.**
 
 #### The other two clean files are PARTIAL volumes, and neither carries a verse-count witness
 
-Measured 2026-09-02, after `goladhyaya` was digitised successfully from `8252.txt`. **Do not
+Measured 2026-09-02, after `goladhyaya` was digitised successfully from `SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt`. **Do not
 assume the Golādhyāya recipe transfers** — what made it safe was a property of that volume,
 not of the series.
 
 | File | Covers | Verse-count witness |
 |---|---|---|
-| `8252.txt` — Golādhyāya | complete | **Yes** — a ToC giving every chapter's last verse. This is what made digitisation defensible |
-| `8244.txt` — Līlāvatī | **`उत्तरार्धरूपो द्वितीयो भागः`** — the SECOND half only, from `क्षेत्रव्यवहार` onward | **None** — the file opens on its title page and goes straight into the text |
-| `7404.txt` — Grahagaṇita | **`(पूर्वार्धः)`** — the FIRST half. Its own preface says `ग्रहगणिताध्यायेऽस्मिन्नेकादशाधिकारा वर्तन्ते`, eleven adhikāras, of which this volume carries **three**: मध्यम, स्पष्ट, त्रिप्रश्न | **Partial** — the `अनुक्रमणिका` lists chapters but **no verse numbers** |
+| `SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt` — Golādhyāya | complete | **Yes** — a ToC giving every chapter's last verse. This is what made digitisation defensible |
+| `SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt` — Līlāvatī | **`उत्तरार्धरूपो द्वितीयो भागः`** — the SECOND half only, from `क्षेत्रव्यवहार` onward | **None** — the file opens on its title page and goes straight into the text |
+| `SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt` — Grahagaṇita | **`(पूर्वार्धः)`** — the FIRST half. Its own preface says `ग्रहगणिताध्यायेऽस्मिन्नेकादशाधिकारा वर्तन्ते`, eleven adhikāras, of which this volume carries **three**: मध्यम, स्पष्ट, त्रिप्रश्न | **Partial** — the `अनुक्रमणिका` lists chapters but **no verse numbers** |
 
 **So a Līlāvatī or Grahagaṇita digitisation has no independent check available**, and contiguity
 alone is exactly the evidence G31 records as worthless: all three fabricated texts, and both
@@ -843,10 +842,10 @@ edition's verse counts; or a second digitisation to diff against. Contiguity is 
 
 #### The witness arrived: a second, independent Līlāvatī
 
-**`1696318554.pdf` is the complementary volume the section above asks for**, and it was already
+**`SiddhantaShiromani-BenaresSanskritSeries-Thibaut-53pp.pdf` is the complementary volume the section above asks for**, and it was already
 in the tree — supplied 2026-09-02 with the other ten files and filed as an errata leaf.
 
-| | `8244.txt` | `1696318554.pdf` |
+| | `SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt` | `SiddhantaShiromani-BenaresSanskritSeries-Thibaut-53pp.pdf` |
 |---|---|---|
 | Edition | Ānandāśrama 107, Śaka 1859 = 1937 | **Benares Sanskrit Series 153**, ed. under G. Thibaut, 19th c. |
 | Form | clean machine-readable Devanāgarī | scan, no text layer, 53pp |
@@ -878,7 +877,7 @@ word accuracy on probe words, against the Sūrya Siddhānta scan's 6–34% — b
 for numbering. Getting Līlāvatī right needs a way to separate a verse number from a quantity,
 and neither file supplies one on its own.
 
-*The pairing is still the way in:* `8244.txt` is clean text for the second half and can be read
+*The pairing is still the way in:* `SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt` is clean text for the second half and can be read
 for structure, while the Benares scan covers the first half and can corroborate wording. Neither
 alone is enough, which is the honest position and is worth more than a plausible merge.
 
@@ -887,13 +886,13 @@ alone is enough, which is the honest position and is worth more than a plausible
 Supplied 2026-09-02 as `1736760325.pdf`, 422pp, 54 MB, `no-text` scan. Staged at
 `Siddhanta/Panchasiddhantika/raw/Panchasiddhantika-Prakashika-Lahore-1930.pdf`.
 
-| | `8801.txt` | this scan |
+| | `Panchasiddhantika-ThibautDvivedi-sd8801.txt` | this scan |
 |---|---|---|
 | Edition | **Thibaut & Sudhākara Dvivedī** — the edition `CANONICAL_COUNTS.md` names | **Pañcasiddhāntikā-prakāśikā**, Moti Lal Banarsi Dass / Punjab Sanskrit Book Depot, **Lahore 1930**, dedicated to F. Max Müller |
 | Form | clean text, bilingual | scan, bilingual (Sanskrit body, English translation at the back) |
 | Rights | — | *"All Rights Reserved"*, 1930. **Noted, not a bar** |
 
-**Why a second edition is worth 422 pages of OCR.** `8801.txt` is genuine — all five siddhānta
+**Why a second edition is worth 422 pages of OCR.** `Panchasiddhantika-ThibautDvivedi-sd8801.txt` is genuine — all five siddhānta
 names, and decisively the epoch **427 present / 425 absent** where the deleted forgery said 425
 — but **it is not linear**: its 18 `CHAPTER` headings sit at offsets 498271–678463, which is the
 English translation at the back of the book, and the Sanskrit colophons run out of order (6th
@@ -1042,14 +1041,14 @@ copyright besides.
 
 ## Supplied 2026-09-04 (second batch) — two of the four unsourced texts, both digitised same day
 
-`1223.txt` and `1154.txt`, numeric filenames in the sanskritdocuments style. Identified by content
+`JatakaTattva-Mahadeva-SubrahmanyaSastri-sd1223.txt` and `JaiminiSutra-Upadesa-VidyabhavanSeries57-sd1154.txt`, numeric filenames in the sanskritdocuments style. Identified by content
 per G26/G34.
 
-### `1154.txt` — Jaimini Sūtra, and it is the cleanest source acquired all day
+### `JaiminiSutra-Upadesa-VidyabhavanSeries57-sd1154.txt` — Jaimini Sūtra, and it is the cleanest source acquired all day
 
 `महर्षि-जैमिनिप्रणीतं (उपदेशापरनामकं) जैमिनि-सूत्रम्`, *Vidyābhavan Prācyavidyā Granthamālā-57*,
 with the **Tattvādarśa** commentary of Pt. Sītārāma Śarmā Maithila (Jyotiṣācārya Jhā). Staged at
-`Hora/Jaimini/JaiminiSutras/raw/1154.txt`.
+`Hora/Jaimini/JaiminiSutras/raw/JaiminiSutra-Upadesa-VidyabhavanSeries57-sdJaiminiSutra-Upadesa-VidyabhavanSeries57-sd1154.txt`.
 
 **129,358 Devanāgarī characters and ZERO Latin** — a real digitisation, not OCR of a scan, so the
 gate that blocked five texts earlier the same day does not apply at all. 410 markers of the
@@ -1059,11 +1058,11 @@ gate that blocked five texts earlier the same day does not apply at all. 410 mar
 characters from the end — `…जैमिनिसूत्रतिलके द्वितीयाध्यायः समाप्तः` — so it holds **adhyāyas 1–2
 of the canonical 4**. Digitised the same day: 408 sūtras across 8 pādas.
 
-### `1223.txt` — Jātaka Tattva, bilingual, and its markers are not daṇḍas
+### `JatakaTattva-Mahadeva-SubrahmanyaSastri-sd1223.txt` — Jātaka Tattva, bilingual, and its markers are not daṇḍas
 
 `श्री महादेवकृतं जातकतत्त्वम्` — *Mahādeva's Jātaka Tatva, with an English Translation by
 Panditabhushana V. Subrahmanya Sastri, B.A., Asst. Secretary to the Govt. of Mysore (Retd.)*.
-Staged at `Hora/Parashari/JatakaTattvam/raw/1223.txt`.
+Staged at `Hora/Parashari/JatakaTattvam/raw/JatakaTattva-Mahadeva-SubrahmanyaSastri-sdJatakaTattva-Mahadeva-SubrahmanyaSastri-sd1223.txt`.
 
 **97,821 Devanāgarī against 280,689 Latin** — English-dominant, with an English index at the end
 that is apparatus and must not become text.

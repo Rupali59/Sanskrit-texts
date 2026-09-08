@@ -271,7 +271,7 @@ survive as `.placeholder` directories. This table is now the sole record of all 
 > **⚠ "Undigitised" no longer means "unsourced" — updated 2026-09-02.** Six rows below now
 > have a source in hand; the digitisation work is what remains. **Sources held:**
 > `NirnayaSindhu` (1,024pp OCR) · `Dharmasindhu` (738pp OCR) · `MuhurtaMartanda` (188pp OCR,
-> superseding the CCITT dead end) · `SarvarthaChintamani` (`1267.txt`) ·
+> superseding the CCITT dead end) · `SarvarthaChintamani` (`SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`) ·
 > `SiddhantaShiromani` (**all four parts**, three as clean machine-readable Devanāgarī) ·
 > `GargaHora` (see its new row). **Supplied but needing re-supply:** `PrashnaMarga`.
 > **Still unsourced — ONE, as of 2026-09-04:** `ChandraKalaNadi`.

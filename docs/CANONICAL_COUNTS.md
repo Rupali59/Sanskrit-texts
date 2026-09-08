@@ -1365,7 +1365,7 @@ is a fact about the encoding and not about the content. Not ingested.
 
 **241 verses of the 318 its own table of contents implies (76%).** Digitised 2026-09-02 by
 `scripts/sanskrit-convert/goladhyaya.py` from Ānandāśrama Sanskrit Series vol. 122
-(`8252.txt`), which interleaves three layers: the mūla, Bhāskara's own *Vāsanā*
+(`SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt`), which interleaves three layers: the mūla, Bhāskara's own *Vāsanā*
 auto-commentary, and Muniśvara's *Marīci* ṭīkā. Only the mūla was taken.
 
 **Seven of the eight chapters end on exactly the verse number the table of contents predicts**
@@ -1391,7 +1391,7 @@ vocabulary or Latin characters, all end in a daṇḍa, and the text contributes
 
 **272 verses across 9 sections**, digitised 2026-09-02 by
 `scripts/sanskrit-convert/grahaganita.py` from Ānandāśrama Sanskrit Series vol. 110
-(`7404.txt`).
+(`SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt`).
 
 **It is `(पूर्वार्धः)` — the first half.** The volume's own preface says
 `ग्रहगणिताध्यायेऽस्मिन्नेकादशाधिकारा वर्तन्ते`, eleven adhikāras, of which this carries three:
@@ -1419,7 +1419,7 @@ all terminated by a daṇḍa, all untranslated with empty served fields, and **
 
 ### `lilavati` — verses 135–272 only, and a correction to an earlier judgement
 
-**117 verses of the 138 in its range**, digitised 2026-09-02 from Ānandāśrama 107 (`8244.txt`),
+**117 verses of the 138 in its range**, digitised 2026-09-02 from Ānandāśrama 107 (`SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt`),
 which is `उत्तरार्धरूपो द्वितीयो भागः` — the **second half only**, opening at `क्षेत्रव्यवहार`.
 There is no first half in this volume.
 
@@ -1447,7 +1447,7 @@ recording which verse came from which is `rule:discernment-checks` §5 — do no
 
 ### `bijaganita` — completes Siddhānta Śiromaṇi, and is the weakest of the four
 
-**150 verses**, digitised 2026-09-02 from S.K. Abhyankar's bilingual edition (`3328.txt`). With
+**150 verses**, digitised 2026-09-02 from S.K. Abhyankar's bilingual edition (`SiddhantaShiromani-Bijaganita-Abhyankar-sd3328.txt`). With
 this, **all four parts of the Siddhānta Śiromaṇi are held**: Līlāvatī, Bījagaṇita, Grahagaṇita,
 Golādhyāya.
 
@@ -1539,7 +1539,7 @@ print(len(f),'files;',any(n in str(x) for x in f for n in ('Aryabhatiya','Pancha
 
 ### `surya_siddhanta` — REPLACED the same day it was deleted
 
-**280 verses across 11 chapters**, from a clean Rashtriya Sanskrit Sansthan e-text (`1277.txt`,
+**280 verses across 11 chapters**, from a clean Rashtriya Sanskrit Sansthan e-text (`SuryaSiddhanta-EDatabank-sd1277.txt`,
 405,426 Devanāgarī characters, 458 Latin) carrying Raṅganātha's `गूढार्थप्रकाशक` commentary.
 
 **Authenticity was checked in both directions before conversion**, and the converter refuses to
@@ -1568,7 +1568,7 @@ chapters 1 and 2 are held. Chapter 2 verse 66 is present.
 ### `aryabhatiya` — REPLACED; and `panchasiddhantika`'s source is staged but not yet convertible
 
 **`aryabhatiya`: 80 verses of the canonical 121**, from the Parameśvarācārya-ṭīkā edition
-(`3277.txt`). The converter **refuses to run** if `ब्रह्मगुप्ततनय` — the forgery's impossible
+(`Aryabhatiya-Paramesvaracarya-sd3277.txt`). The converter **refuses to run** if `ब्रह्मगुप्ततनय` — the forgery's impossible
 patronymic — is present. It is absent; the commentary states the salutation as
 `स्वयम्भूप्रणामकरणेन`, to Brahman, and the first verse quoted is the alphabetical-numeral
 `वर्गाक्षराणि वर्गेऽवर्गे…`. Canonical pāda counts 13/33/25/50 are the witness and **गणितपाद
@@ -1581,7 +1581,7 @@ the numerical tables printed between verses, costs 21 real verses. A missing ver
 recoverable; a Hindi paraphrase served as Āryabhaṭa is not.
 
 **`panchasiddhantika`: the genuine source is staged and identified, and is NOT yet converted.**
-`8801.txt` is **Thibaut and Sudhākara Dvivedī's** edition — the one this file already names —
+`Panchasiddhantika-ThibautDvivedi-sd8801.txt` is **Thibaut and Sudhākara Dvivedī's** edition — the one this file already names —
 confirmed by all five siddhānta names (`पौलिश` 36, `रोमक` 74, `सौर` 54, `वासिष्ठ`, `पैतामह`) and
 decisively by the epoch: **427 present, 425 absent**, where the deleted forgery stated 425.
 
@@ -1597,7 +1597,7 @@ Both sources are genuine and staged; neither has been converted, and the obstacl
 of the text rather than of the files.
 
 **Pañcasiddhāntikā is a compendium OF five siddhāntas, so it reproduces their colophons.**
-Filtering `8801.txt`'s colophons by ordinal gives the sequence **6, 10, 7, 4, 9, 13, 14, 15, 16**
+Filtering `Panchasiddhantika-ThibautDvivedi-sd8801.txt`'s colophons by ordinal gives the sequence **6, 10, 7, 4, 9, 13, 14, 15, 16**
 — non-monotonic, and for two distinct reasons that a segmenter must tell apart:
 
 - **Other works' chapter-ends.** `@383219` is `इति सूर्यसिद्धान्ते सूर्यग्रहणं नाम नवमोऽध्यायः` —
@@ -1641,11 +1641,11 @@ rest as absent. **The second is available now and is the smaller claim** — 13 
 14 `छेद्यकयन्त्राणि`, 15 `ज्योतिषोपनिषत्`, 16 `ताराग्रहस्फुटीकरण`, 18 `ताराग्रहाः` — but it is a
 call about what "holding Pañcasiddhāntikā" should mean, so it has not been taken.
 
-##### The chapter witness was inside `8801.txt` all along
+##### The chapter witness was inside `Panchasiddhantika-ThibautDvivedi-sd8801.txt` all along
 
 **Found 2026-09-02, after two scans were acquired to look for it elsewhere.** Thibaut printed an
 English translation at the back of his edition, and **that translation is numbered by chapter and
-verse**. `8801.txt` contains the whole of it, under `CHAPTER I`–`CHAPTER XVIII` headings at
+verse**. `Panchasiddhantika-ThibautDvivedi-sd8801.txt` contains the whole of it, under `CHAPTER I`–`CHAPTER XVIII` headings at
 offsets 498271–678463 — the very headings that were dismissed earlier as "not the Sanskrit, so
 not useful".
 
@@ -1847,7 +1847,7 @@ Corpus 59 → **62 texts**, 92,798 → **96,710 shlokas**. Dedupe loss unchanged
 recorded as unsourceable or unsegmentable, and in every case the obstacle was **the shape of the
 verse marker, not the quality of the source**:
 
-- **Sarvārtha Cintāmaṇi** — the chapter witness was inside `1267.txt` all along: 16 English
+- **Sarvārtha Cintāmaṇi** — the chapter witness was inside `SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt` all along: 16 English
   `CHAPTER-N` page headers from J.N. Bhasin's facing translation, plus `अथ चतुर्थोऽध्यायः ॥४॥` for
   chapter 4. Two prior attempts missed it because both probed only for *Devanāgarī* colophons in a
   *bilingual* book.
