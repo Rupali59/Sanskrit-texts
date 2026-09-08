@@ -12,10 +12,10 @@
     "shloka_number_format": "integer",
     "citation_prefix": "brahmasphuta_siddhanta",
     "expected_chapters": 24,
-    "chapters_emitted": 19,
-    "expected_verses": 639,
+    "chapters_emitted": 20,
+    "expected_verses": 676,
     "count_authority": "mixed",
-    "count_authority_reason": "Only 19 of the 24 chapters are emitted in this file -- DO NOT PAD TO 24. Of those, chapters 12, 18, 19, 20 and verses 17-23 of 21 are GRETIL-witnessed ('firm', numbered by content alignment against the witness, not the OCR digit). **'firm' QUALIFIES THE NUMBERING, NEVER THE TEXT.** The verse TEXT throughout this file is unproofed OCR of a 336-page scan and carries character-level error in every chapter, witnessed ones included. **2026-09-08 re-OCR:** the whole 336-page scan was re-rendered at NATIVE resolution (177-193ppi, measured per page, not upsampled to 300dpi) and re-OCR'd with `-l script/Devanagari` in place of `-l san` (benchmarked at 66.1% vs 52.2% mean verse-match against the GRETIL witness -- GOTCHAS G43). Re-measured the same way after: ch.12 verse 1 now measures ~80.5% character-similar to the attested reading (was ~76%). The parenthesised-apparatus check was re-run against this corpus's new 578 verses: **19 of 578** carry it (was 21 of 578 on the smaller 19-chapter batch) -- same two shapes as before (inline manuscript variants and a leading page/footnote reference), neither stripped, for the same reason. Witnessed-chapter completeness rose from 163/? to 191 GRETIL verses aligned across chapters 12/18/19/20/21.17-23 (51 -> 23 gaps), and mean character-similarity against the witness rose from 0.634 to 0.675 overall. Every regression this re-OCR could have shipped silently was checked verse-by-verse against the previous alignment before landing: four chapters (2, 6, 15, 16) that were previously EMITTED would have been silently LOST under the raw new OCR and were recovered by evidence-cited digit/segmentation fixes (see RAW_TEXT_FIXES_NATIVE); one 'recovery' (ch.22 clearing guard()) was found to be a NEW OCR misread masking the already-confirmed genuine source duplicate at verse 46 and was corrected back to blocking, not shipped; ch.11 was reported blocked THE SAME SESSION on p.151 reading verse 56 twice (57,56,56,60,61,62), and count_authority_reason at the time asserted this was 'confirmed directly against the image, not an OCR misread' -- **that claim was false and has been corrected, not merely walked back.** A second, INDEPENDENTLY rendered/OCR'd reading of the same page (fixed 193dpi, `-l script/Devanagari --psm 4`, see OCR_TXT_RENDER193) reads p.151 as 57,58,59,60,61,62 -- a clean monotonic run, which is the only reading a printed edition supports; no edition prints '57,56,56,60'. Tesseract was collapsing 8->6 and 9->6 on this page in the primary cache. The systematic tell was visible without any second render: this file's own gap list already reported verse 9 missing from NINE separate chapters (2.9, 3.9, 4.9, 5.9, 9.9, 12.9, 14.9, 15.9, 17.9) -- nine independent lacunae at the same ordinal is not a coincidence, it is one misread digit, and it should have been the tell before any single-page claim about the source being defective was written (GOTCHAS G44/G45). Chapter 11 is emitted THIS session by a corroborated bridge in `repair()`: a run wider than the unconditional max_bridge=1 ceiling fires ONLY when this independent second render confirms the exact proposed numbers in order on the same page -- see `repair()`'s docstring and the mutation-checked safety test in tests/test_brahmasphuta_siddhanta.py asserting an UNCORROBORATED wide bridge is refused. This is a correction of this file's own prior false statement, not a new finding about the source. **The ch.18 v77/v79 defect is FIXED this session, and its cause was misdiagnosed when first reported.** It was attributed to a repetitive-formula span defeating similarity scoring. The real cause is structural: THIS EDITION PRINTS THOSE TWO VERSES IN THE REVERSE ORDER TO GRETIL (its own printed numbering on p.257 runs 71,72,73 and carries GRETIL 79 ahead of GRETIL 78 and 77), and align_to_gretil is a MONOTONIC Needleman-Wunsch alignment, which is structurally incapable of representing a transposition. Faced with an order it cannot encode, it assigned the blobs to consecutive GRETIL numbers in printed order and mislabelled both. So this is an EDITION difference, not OCR damage, and it was invisible to every existing check: contiguous numbering, correct verse count, intact text -- only the labels crossed. Repaired by `_repair_transpositions`, which swaps two aligned verses' numbers only when doing so raises the SUM of their content similarities by a margin AND at least one side reaches a confident match; every swap is logged with both scores. Sweeping the whole text found THREE, not one: ch.18 23/25 (gain +0.497), ch.18 77/79 (+0.459) and ch.19 4/5 (+0.926, 0.294/0.230 as printed -> 0.717/0.734 swapped) -- the latter two previously unknown. **The reported 'wrong v82' was NOT a defect**: v82 scores 0.792 against GRETIL 82, unambiguously its best match, and it is unchanged. One side of the 18.23/25 pair remains weak (0.373) and is left as-is rather than forced -- the swap is carried by its partner at 0.696. Only 12 word-level corrections were applied across the fully-witnessed chapters this session (was 11; the four witnessed chapters were themselves re-corrected against GRETIL from the new OCR, this count is not cumulative with the prior session's). This text is REFERENCE material, acquired 2026-09-04 for work on astroacharya's logic; it is not proofread and must not be quoted as an edition or cited verse-for-verse without checking the scan. The rest emitted are 'ocr_only' -- internally consistent (no duplicate or misordered verse numbers) but with no independent check on their verse text. Per-chapter breakdown, authority and verse count as digitised: ch.2=ocr_only (64v); ch.3=ocr_only (64v); ch.4=ocr_only (18v); ch.5=ocr_only (21v); ch.6=ocr_only (14v); ch.7=ocr_only (17v); ch.8=ocr_only (6v); ch.9=ocr_only (23v); ch.11=ocr_only (61v); ch.12=firm (65v); ch.14=ocr_only (50v); ch.15=ocr_only (57v); ch.16=ocr_only (47v); ch.17=ocr_only (9v); ch.18=firm (71v); ch.19=firm (18v); ch.20=firm (17v); ch.21=firm (7v); ch.23=ocr_only (10v). The chapters NOT emitted are: ch.1 (pp.1-22): DUPLICATE verse number(s) [46, 56]; verse numbers are not ascending -- segmentation is wrong; ch.10 (pp.110-136): DUPLICATE verse number(s) [6, 10]; verse numbers are not ascending -- segmentation is wrong; ch.13 (pp.171-181): DUPLICATE verse number(s) [46]; verse numbers are not ascending -- segmentation is wrong; ch.22 (pp.298-315): DUPLICATE verse number(s) [46]; verse numbers are not ascending -- segmentation is wrong; ch.24 (pp.319-336): DUPLICATE verse number(s) [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15]; verse numbers are not ascending -- segmentation is wrong. Each of those has a colophon-attested BOUNDARY (see the CHAPTERS table in brahmasphuta_siddhanta.py's source); ch.1 and ch.10 remain blocked by unresolved OCR noise (large spurious digit runs in ch.1's numeric tables; a nakshatra table and a trailing-colophon numeral collision in ch.10); ch.13 and ch.22 block on confirmed genuine source duplicates (not OCR misreads); ch.11 no longer blocks -- see the correction above, it is emitted this session by a corroborated bridge; ch.24's numbering genuinely restarts mid-chapter (verses 1-8 appear twice, pp.319-320 and 323-324) -- now clearly confirmed structural rather than an OCR artifact, but resolving it needs a subsection.verse key this schema does not have, a data-modelling decision out of scope here. Absent here means 'not digitised yet', not 'does not exist'. All boundaries, emitted or not, come from colophons, never from verse-number contiguity. Per-chapter reasons for the emitted chapters: ch.2: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.48: 'स्फुटगतिरध्याय ... द्वितीयोऽयम् ॥६८॥ इति ब्रह्मगुप्ते ... अध्यायः' | ch.3: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.71: '...त्रिप्रश्नाध्यायस्तृतीयोऽयम् ॥६६॥ इति ब्रह्मगुप्ते तृतीयोऽध्यायः' | ch.4: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.72 opens with eclipse (chandra-grahana) content; p.77: '...चतुर्थोयां ॥२०॥ इति ब्रह्मगुप्ते चतुर्थोऽध्यायः' | ch.5: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.84: 'आर्या षड्विंशत्यर्कग्रहणपंचमोऽध्यायः ॥२६॥ इति ब्रह्मगुप्ते पंचमोऽध्यायः' (p.82 excluded -- see EXCLUDE_PAGES) | ch.6: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.90: 'मयाध्यायः चतुर्दशभिरार्याभिः ॥१४॥ इति ब्रह्मगुप्त षष्ठोऽध्यायः' | ch.7: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.91 opens fresh (no heading); p.98: '...चन्द्रच्छायातिरिह सप्तमोऽध्यायः ॥१८॥ इति श्रीब्रह्मगुप्ते सप्तमोऽध्यायः' | ch.8: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.101: '...चन्द्रच्छायाऽष्टमोऽध्यायः ॥९॥ इति भो ब्रह्मगुप्ते अष्टमोऽध्यायः' | ch.9: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.109: 'नवमो ग्रहमेलकोऽध्यायः ॥२५॥ इति ब्रह्मगुप्ते नवमोऽध्यायः' | ch.11: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.152: '...एकादशोऽध्यायः ॥६३॥ इति श्री ब्रह्मगुप्तसिद्धान्ते एकादशोऽध्यायः' | ch.12: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 4 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.153 opens 'अथ गणिताध्यायः'; p.170 'इति ब्रह्मगुप्ते द्वादशोऽध्यायः' -- GAṆITA, GRETIL-witnessed | ch.14: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.198: '...चतुर्दशोऽध्यायः । चतुर्दशोऽध्यायः समाप्त' | ch.15: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.199 opens 'अथ त्रिप्रश्नोत्तराध्यायः पञ्चदशः'; p.215 '...त्रिप्रश्नाध्यायः पंचदशाध्यायः समाप्तः' | ch.16: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.216 opens fresh; p.229 'इति श्री ब्रह्यगुप्ते ग्रहणाधिकार षोडशोऽध्यायः समाप्तः' | ch.17: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.230 opens fresh; p.232 'इत्ति सप्तदशाध्यायः समाप्तः' | ch.18: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 4 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.233 opens 'अथ कुट्टकाध्यायः अष्टादशः'; p.266 ends with the source's OWN closing colophon 'कुट्टकाष्टादशोऽध्यायः ॥१०१॥' -- KUṬṬAKA, GRETIL-witnessed (pp.250-251 excluded, see EXCLUDE_PAGES). DISCREPANCY, reported not resolved: the PRINTED EDITION's own terminator numbers this chapter's last verse 101, but GRETIL's own <lg> count for chapter 18 is 102 (ids BSS_18.1 through BSS_18.102). Both are the source's own numbers for two different things -- the edition's running count and GRETIL's transcription count -- and this parser does not adjudicate which is off by one. | ch.19: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 7 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.267 opens 'अथ शंकुच्छायादिज्ञानाध्यायः एकोनविंशः'; p.271 '...छायाध्यायः एकोनविंशोऽध्यायः समाप्तः' -- GRETIL-witnessed | ch.20: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 1 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.272 opens 'अथ छन्दश्चित्युत्तराध्यायो विंशतितमः'; p.277 '...विंशतितमः समाप्तः' -- GRETIL-witnessed | ch.21: GRETIL-witnessed (verses 17-23 only); numbering by content-aligned against GRETIL; 0 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.278 opens 'अथ गोलाध्यायो नाम एकविंशतितमः'; p.297 'इति ब्रह्मगुप्ते गोलाध्यायः (२१ अध्यायः समाप्तः)' -- GRETIL-witnessed for verses 17-23 ONLY PARTIAL CHAPTER: only verses 17-23 are digitised here (the GRETIL-witnessed span). Verses 1-16 and 24 onward exist in the source and were segmented by this parser, but their OCR terminator numbering could not be resolved without a witness (unlike chapters 12/18/19/20, whole-chapter digit-based numbering for ch.21 left an unresolvable duplicate outside 17-23) -- they are NOT emitted, per se they are absent from this file, not claimed to not exist. | ch.23: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.316 opens 'अथ मानाध्यायो नाम त्रयोविंशः'; p.318 '...मानाध्यायः (२३ अध्याय समाप्त)'. The source's own closing count is 1063 āryā verses (p.336: 'आर्याः १०६३'); this digitisation's total is 639 and the two are not the same measurement -- the source count is for the whole treatise as printed, this total is verses this parser could segment across the chapters it emitted, after 4 excluded pages (see EXCLUDE_PAGES) and any chapter's own recorded gaps.",
+    "count_authority_reason": "Only 20 of the 24 chapters are emitted in this file -- DO NOT PAD TO 24. Of those, chapters 12, 18, 19, 20 and verses 17-23 of 21 are GRETIL-witnessed ('firm', numbered by content alignment against the witness, not the OCR digit). **'firm' QUALIFIES THE NUMBERING, NEVER THE TEXT.** The verse TEXT throughout this file is unproofed OCR of a 336-page scan and carries character-level error in every chapter, witnessed ones included. **2026-09-08 re-OCR:** the whole 336-page scan was re-rendered at NATIVE resolution (177-193ppi, measured per page, not upsampled to 300dpi) and re-OCR'd with `-l script/Devanagari` in place of `-l san` (benchmarked at 66.1% vs 52.2% mean verse-match against the GRETIL witness -- GOTCHAS G43). Re-measured the same way after: ch.12 verse 1 now measures ~80.5% character-similar to the attested reading (was ~76%). The parenthesised-apparatus check was re-run against this corpus's new 578 verses: **19 of 578** carry it (was 21 of 578 on the smaller 19-chapter batch) -- same two shapes as before (inline manuscript variants and a leading page/footnote reference), neither stripped, for the same reason. Witnessed-chapter completeness rose from 163/? to 191 GRETIL verses aligned across chapters 12/18/19/20/21.17-23 (51 -> 23 gaps), and mean character-similarity against the witness rose from 0.634 to 0.675 overall. Every regression this re-OCR could have shipped silently was checked verse-by-verse against the previous alignment before landing: four chapters (2, 6, 15, 16) that were previously EMITTED would have been silently LOST under the raw new OCR and were recovered by evidence-cited digit/segmentation fixes (see RAW_TEXT_FIXES_NATIVE); one 'recovery' (ch.22 clearing guard()) was found to be a NEW OCR misread masking the already-confirmed genuine source duplicate at verse 46 and was corrected back to blocking, not shipped; ch.11 was reported blocked THE SAME SESSION on p.151 reading verse 56 twice (57,56,56,60,61,62), and count_authority_reason at the time asserted this was 'confirmed directly against the image, not an OCR misread' -- **that claim was false and has been corrected, not merely walked back.** A second, INDEPENDENTLY rendered/OCR'd reading of the same page (fixed 193dpi, `-l script/Devanagari --psm 4`, see OCR_TXT_RENDER193) reads p.151 as 57,58,59,60,61,62 -- a clean monotonic run, which is the only reading a printed edition supports; no edition prints '57,56,56,60'. Tesseract was collapsing 8->6 and 9->6 on this page in the primary cache. The systematic tell was visible without any second render: this file's own gap list already reported verse 9 missing from NINE separate chapters (2.9, 3.9, 4.9, 5.9, 9.9, 12.9, 14.9, 15.9, 17.9) -- nine independent lacunae at the same ordinal is not a coincidence, it is one misread digit, and it should have been the tell before any single-page claim about the source being defective was written (GOTCHAS G44/G45). Chapter 11 is emitted THIS session by a corroborated bridge in `repair()`: a run wider than the unconditional max_bridge=1 ceiling fires ONLY when this independent second render confirms the exact proposed numbers in order on the same page -- see `repair()`'s docstring and the mutation-checked safety test in tests/test_brahmasphuta_siddhanta.py asserting an UNCORROBORATED wide bridge is refused. This is a correction of this file's own prior false statement, not a new finding about the source. **The ch.18 v77/v79 defect is FIXED this session, and its cause was misdiagnosed when first reported.** It was attributed to a repetitive-formula span defeating similarity scoring. The real cause is structural: THIS EDITION PRINTS THOSE TWO VERSES IN THE REVERSE ORDER TO GRETIL (its own printed numbering on p.257 runs 71,72,73 and carries GRETIL 79 ahead of GRETIL 78 and 77), and align_to_gretil is a MONOTONIC Needleman-Wunsch alignment, which is structurally incapable of representing a transposition. Faced with an order it cannot encode, it assigned the blobs to consecutive GRETIL numbers in printed order and mislabelled both. So this is an EDITION difference, not OCR damage, and it was invisible to every existing check: contiguous numbering, correct verse count, intact text -- only the labels crossed. Repaired by `_repair_transpositions`, which swaps two aligned verses' numbers only when doing so raises the SUM of their content similarities by a margin AND at least one side reaches a confident match; every swap is logged with both scores. Sweeping the whole text found THREE, not one: ch.18 23/25 (gain +0.497), ch.18 77/79 (+0.459) and ch.19 4/5 (+0.926, 0.294/0.230 as printed -> 0.717/0.734 swapped) -- the latter two previously unknown. **The reported 'wrong v82' was NOT a defect**: v82 scores 0.792 against GRETIL 82, unambiguously its best match, and it is unchanged. One side of the 18.23/25 pair remains weak (0.373) and is left as-is rather than forced -- the swap is carried by its partner at 0.696. Only 12 word-level corrections were applied across the fully-witnessed chapters this session (was 11; the four witnessed chapters were themselves re-corrected against GRETIL from the new OCR, this count is not cumulative with the prior session's). This text is REFERENCE material, acquired 2026-09-04 for work on astroacharya's logic; it is not proofread and must not be quoted as an edition or cited verse-for-verse without checking the scan. The rest emitted are 'ocr_only' -- internally consistent (no duplicate or misordered verse numbers) but with no independent check on their verse text. Per-chapter breakdown, authority and verse count as digitised: ch.2=ocr_only (64v); ch.3=ocr_only (64v); ch.4=ocr_only (18v); ch.5=ocr_only (21v); ch.6=ocr_only (14v); ch.7=ocr_only (17v); ch.8=ocr_only (6v); ch.9=ocr_only (23v); ch.11=ocr_only (61v); ch.12=firm (65v); ch.13=ocr_only_corroborated_alt_source (37v); ch.14=ocr_only (50v); ch.15=ocr_only (57v); ch.16=ocr_only (47v); ch.17=ocr_only (9v); ch.18=firm (71v); ch.19=firm (18v); ch.20=firm (17v); ch.21=firm (7v); ch.23=ocr_only (10v). The chapters NOT emitted are: ch.1 (pp.1-22): DUPLICATE verse number(s) [46, 56]; verse numbers are not ascending -- segmentation is wrong; ch.10 (pp.110-136): DUPLICATE verse number(s) [6, 10]; verse numbers are not ascending -- segmentation is wrong; ch.22 (pp.298-315): DUPLICATE verse number(s) [46]; verse numbers are not ascending -- segmentation is wrong; ch.24 (pp.319-336): DUPLICATE verse number(s) [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15]; verse numbers are not ascending -- segmentation is wrong. Each of those has a colophon-attested BOUNDARY (see the CHAPTERS table in brahmasphuta_siddhanta.py's source); ch.1 and ch.10 remain blocked by unresolved OCR noise (large spurious digit runs in ch.1's numeric tables; a nakshatra table and a trailing-colophon numeral collision in ch.10); ch.13 and ch.22 block on confirmed genuine source duplicates (not OCR misreads); ch.11 no longer blocks -- see the correction above, it is emitted this session by a corroborated bridge; ch.24's numbering genuinely restarts mid-chapter (verses 1-8 appear twice, pp.319-320 and 323-324) -- now clearly confirmed structural rather than an OCR artifact, but resolving it needs a subsection.verse key this schema does not have, a data-modelling decision out of scope here. Absent here means 'not digitised yet', not 'does not exist'. All boundaries, emitted or not, come from colophons, never from verse-number contiguity. Per-chapter reasons for the emitted chapters: ch.2: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.48: 'स्फुटगतिरध्याय ... द्वितीयोऽयम् ॥६८॥ इति ब्रह्मगुप्ते ... अध्यायः' | ch.3: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.71: '...त्रिप्रश्नाध्यायस्तृतीयोऽयम् ॥६६॥ इति ब्रह्मगुप्ते तृतीयोऽध्यायः' | ch.4: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.72 opens with eclipse (chandra-grahana) content; p.77: '...चतुर्थोयां ॥२०॥ इति ब्रह्मगुप्ते चतुर्थोऽध्यायः' | ch.5: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.84: 'आर्या षड्विंशत्यर्कग्रहणपंचमोऽध्यायः ॥२६॥ इति ब्रह्मगुप्ते पंचमोऽध्यायः' (p.82 excluded -- see EXCLUDE_PAGES) | ch.6: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.90: 'मयाध्यायः चतुर्दशभिरार्याभिः ॥१४॥ इति ब्रह्मगुप्त षष्ठोऽध्यायः' | ch.7: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.91 opens fresh (no heading); p.98: '...चन्द्रच्छायातिरिह सप्तमोऽध्यायः ॥१८॥ इति श्रीब्रह्मगुप्ते सप्तमोऽध्यायः' | ch.8: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.101: '...चन्द्रच्छायाऽष्टमोऽध्यायः ॥९॥ इति भो ब्रह्मगुप्ते अष्टमोऽध्यायः' | ch.9: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.109: 'नवमो ग्रहमेलकोऽध्यायः ॥२५॥ इति ब्रह्मगुप्ते नवमोऽध्यायः' | ch.11: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.152: '...एकादशोऽध्यायः ॥६३॥ इति श्री ब्रह्मगुप्तसिद्धान्ते एकादशोऽध्यायः' | ch.12: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 4 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.153 opens 'अथ गणिताध्यायः'; p.170 'इति ब्रह्मगुप्ते द्वादशोऽध्यायः' -- GAṆITA, GRETIL-witnessed | ch.13: No independent WITNESS (GRETIL) for this chapter's verse text. The primary OCR source's own numbering could not clear guard() (a duplicate with no confirmed neighbour to bridge against), so this chapter is built from OCR_TXT_RENDER193 -- a second, independently rendered/OCR'd pass over the SAME pages -- instead of the default source, and ONLY for the verses that source's reading independently corroborates against the primary source's own text (see corroborate_alt_source's docstring for the exact gate). corroborated 37/47 (78.7%) of render-193's proposed verses against the primary source's own reading (thresholds: 0.5 ordinary / 0.85 arbitrating a primary-source duplicate); 11 gap(s): [6, 9, 10, 16, 20, 24, 29, 34, 39, 44, 47]. Chapter BOUNDARY is colophon-attested: p.171 opens 'अथ ग्रहणाध्यायः त्रयोदशः'; p.181 'इत्ति त्रयोदशोऽध्यायः' | ch.14: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.198: '...चतुर्दशोऽध्यायः । चतुर्दशोऽध्यायः समाप्त' | ch.15: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.199 opens 'अथ त्रिप्रश्नोत्तराध्यायः पञ्चदशः'; p.215 '...त्रिप्रश्नाध्यायः पंचदशाध्यायः समाप्तः' | ch.16: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.216 opens fresh; p.229 'इति श्री ब्रह्यगुप्ते ग्रहणाधिकार षोडशोऽध्यायः समाप्तः' | ch.17: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.230 opens fresh; p.232 'इत्ति सप्तदशाध्यायः समाप्तः' | ch.18: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 4 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.233 opens 'अथ कुट्टकाध्यायः अष्टादशः'; p.266 ends with the source's OWN closing colophon 'कुट्टकाष्टादशोऽध्यायः ॥१०१॥' -- KUṬṬAKA, GRETIL-witnessed (pp.250-251 excluded, see EXCLUDE_PAGES). DISCREPANCY, reported not resolved: the PRINTED EDITION's own terminator numbers this chapter's last verse 101, but GRETIL's own <lg> count for chapter 18 is 102 (ids BSS_18.1 through BSS_18.102). Both are the source's own numbers for two different things -- the edition's running count and GRETIL's transcription count -- and this parser does not adjudicate which is off by one. | ch.19: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 7 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.267 opens 'अथ शंकुच्छायादिज्ञानाध्यायः एकोनविंशः'; p.271 '...छायाध्यायः एकोनविंशोऽध्यायः समाप्तः' -- GRETIL-witnessed | ch.20: GRETIL-witnessed (in full); numbering by content-aligned against GRETIL; 1 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.272 opens 'अथ छन्दश्चित्युत्तराध्यायो विंशतितमः'; p.277 '...विंशतितमः समाप्तः' -- GRETIL-witnessed | ch.21: GRETIL-witnessed (verses 17-23 only); numbering by content-aligned against GRETIL; 0 OCR reading(s) corrected against the witness. Chapter boundary from colophon: p.278 opens 'अथ गोलाध्यायो नाम एकविंशतितमः'; p.297 'इति ब्रह्मगुप्ते गोलाध्यायः (२१ अध्यायः समाप्तः)' -- GRETIL-witnessed for verses 17-23 ONLY PARTIAL CHAPTER: only verses 17-23 are digitised here (the GRETIL-witnessed span). Verses 1-16 and 24 onward exist in the source and were segmented by this parser, but their OCR terminator numbering could not be resolved without a witness (unlike chapters 12/18/19/20, whole-chapter digit-based numbering for ch.21 left an unresolvable duplicate outside 17-23) -- they are NOT emitted, per se they are absent from this file, not claimed to not exist. | ch.23: No independent witness for this chapter's verse text -- OCR of the sole supplied edition only. Chapter BOUNDARY is colophon-attested: p.316 opens 'अथ मानाध्यायो नाम त्रयोविंशः'; p.318 '...मानाध्यायः (२३ अध्याय समाप्त)'. The source's own closing count is 1063 āryā verses (p.336: 'आर्याः १०६३'); this digitisation's total is 676 and the two are not the same measurement -- the source count is for the whole treatise as printed, this total is verses this parser could segment across the chapters it emitted, after 4 excluded pages (see EXCLUDE_PAGES) and any chapter's own recorded gaps.",
     "canonical_authority": "GRETIL (Dvivedin 1902 / Hayashi 1993) for chapters 12, 18, 19, 20, 21.17-23; none for the other 19 chapters",
     "known_gaps": [
       "2.7",
@@ -39,6 +39,17 @@
       "11.4",
       "11.9",
       "12.9",
+      "13.6",
+      "13.9",
+      "13.10",
+      "13.16",
+      "13.20",
+      "13.24",
+      "13.29",
+      "13.34",
+      "13.39",
+      "13.44",
+      "13.47",
       "14.5",
       "14.6",
       "14.9",
@@ -2612,6 +2623,271 @@
         {
           "number": 66,
           "text": "दिग्मात्रमेतदन्या ज्योत्पत्तौ कुहृके च कथयिष्ये । संकलितादिष्टार्याः षद्षष्टि्वादशोऽध्यायः॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "प्रहनध्यायान्‌ प्रवक्षामि सोत्तरान्‌ गणाकबुद्धिवृद्धिकरान्‌ । यैज्ञातेस्तन्त्रविदामाचार्यो भवति बुद्धिमताम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "ग्रधिमासकः सविकलं हृष्ट यृगयातमवमररात्रर्वा । द्यगरोन वायुगगतयो वेत्ति स कालतत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "ग्रवमाति यः सविकलेरधिमासँरधिकमासकानवमः। ग्रहमिष्ठ ताभ्यां वायो वेति स कलतंत्रज्ञ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "दगुणः विनाधिमासावमेविनादिन गणेन चन्द्ाक्को । ताभ्यां विनास्फुटर्तिथि यो वेत्ति स कालतंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "इष्टान्मध्यादन्यांस्तिथिगिष्ट्ान्मध्यमाछशिग्रहणम्‌ \\ ष्टाद्रविदुपाते यो वेत्ति बिना स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "दवित्रिगुणयो रविद्वोर्यृति कुजोनान्यभगरालब्धेन । राइयादिनाधिकगुरूरूना शशिरन्यभगणाः के",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "रष्ठोदयिकानहिवन्यौ दयिकात्वाकरो तिथौ मध्यात्‌ । मध्यारक गराके गरामिष्टं मध्यं स तंत्रज्ञः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "सावनमासान्दाधिप होरेशान्ष्टिमध्यसंयोगात्‌। इष्टगुरितेर्युतोना दिष्टान्यो वेत्ति गणकः सः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "युगरविदिवसेर्मुणिता गताधिमासाः स्वञ्ञेषसं युक्ता । भक्ता युगायिमासँः फलं युगादेपेता दिवसाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "गुरिएंतानि चन्द्रदिवसेर्गतावमानि स्वशञेषसहितानि । विभजेयुगावमः फलमनष्टमधिमासकंर्गरिपतम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "हुर्तामदुर्दिने लेब्ाधिमासंदिवसेविहितकमनष्टम्‌ । ड युगयातदिनान्यविमासदिनगरष्टग्रहादयमत",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "दय गुरांदुदिवसघातात्‌ कुदिनाप्तमधोयुगादिमासगराम्‌ । = युगशञश्चिदिनभ क्त फलमासदिनोनें युगगतदिनानि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "कुदिनगताधिकमासकघातः स्पध्टाधिमासञ्ञेषय॒तः भक्तो युगाधिमासँरहाणिः पु्ववन्मध्याः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "भूदिनगता इवमवधः शेषयुक्तो युगावमविभक्तः। लब्धं भवति द्युगुणो यृगयातो मध्यमाः प्राग्वत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "युगगतराशिमासवधघाद्रविमासाप्तं दिनाकृति सदिनम्‌ । सुदिनगुर शशिदिनहूतपाप्तमहगणः मेकम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "ग शिताद्य गाधिमासैयुंगमु दिवसेल्णं तादवमञ्चेषात्‌ । फलयक्तमधिकमासकद्षेषं मध्यावतोऽक दू",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "ग्रधिमासोवमश्ञेषयुगश्ञशिमूह्वते पृथग्लब्धे ` मासदिनाद्य स्याप्ये गतमासदितानि चत्राद्य :",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "ग्रवमावशेषलब्धा सहितानि पृथक्‌ त्रयोदशगुशानि । अधिमास शेषलब्धा हीनाति पृथग्‌ रविशशाॉको",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "केन्द्र पृथक्‌ फले द्वादशोद्धते न्यस्तपृणधनं सौरम्‌ ॥ ्रनुलोममंदवं मासदिनावमशेषलब्धियुतो",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "तिथिविकलषष्टिघाताद्रविह्ृतभुक्तंतराप्तघटिकासु t देशांतरमनुलोमं भुजांतरं चारकं फलमसवः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "अवमविकलं न सावनमेंभिः परिकल्पितं यतश्रांद्रस्‌ । नार्यभटाद्यः प्रहनो मध्यान्यत्वा कृतो ज्ञातः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "्षातभुगणादिभुक्त सविकलमिष्ट युगभगरा संगुरिएतम्‌ । ज्ञातयुगभगराभक्त मध्योभगरादिफलमिष्टः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "ज्ञानैकभगरा भृक्तिस्तद्ूभगमाप्त यदिष्टभगरोम्यः । भगणा दिवसविकलं सविकलेष्टभगणादि गुणमिष्ट",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "शशिदिनगुणां सविकलं वदू क्त मंडलादितःडूगराः । विभेजफलं सविकलास्थितयः प्राग्वत्‌ स्फुटीकरणम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "पा्तेदुयोगलब्धौ कृत्वा देजञांतराद्यमनुलोमम्‌ । विक्षेपो स्यात्सूर्यादिभिविनेदुग्रहमेवम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "कुदिनदुतमवशेषं द्वादशभिर्गुरितं मासमशद्यम्‌ । द्वादशगुणतिथ्यंशर्युतं घनं भास्करे चंद्रः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "इष्ठगुणकारगुशितं ग्रहभगरक्यांतर यथा निहितम्‌ । कृत्वा कुदिनैविभजे छें्रो न युतानि कुदिनानि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "श्रधनभगरपलब्धं घनरमिष्टग्रहस्य युगभगरः श्रत्यफलमृराधनं चेटूनयुतान्यन्ययुगभगणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "भदिनानि ग्रहभगणैरूनानि भवंति सावनदिनानि। इष्टाइिवन्योदयिकाः स्वसावनेः पुर्ववन्मध्याः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "रविभगराप्तं दिसविकलं ज्ञेयमंडलेभ्यो यत्‌ । मध्याकंसविकलकलासंगुणितं ञञेयमध्यमकलाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "दयुगुरोन कुदिनशेषेरनुलोमगो विलोमगतिः । भवति विलोमो मध्योरनुलोमगो वाङृतः प्राग्वत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "कल्पदिनसप्तकवधात्‌ कल्पयताहर्गणोनकचछेषात्‌ सप्तहृता दिनवारः शेषं शन्यादिको भवति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 42,
+          "text": ". व्यतिपात वेध॒तान्यकं चंद्रभगणयुताद्विसंगुशिता । गुरूवर्षाण्याश्चा युजा द्वादशगुरिपताः गुरोभंगरणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "स्वोच्चग्रहयुगभगराा विशेषितास्वोच्चनीचपरिवर्ताः । भगणांतरं वियोगा कार्यास्त्रेराशिकेन गताः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "षष्टिशतत्रयभक्तात्‌ कल्पगताहरगंशात्फजं त्रिएएम्‌ । सेकं सप्तविभक्त सायनवर्षाधिपोर्कादि",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": "श्र्कोनलग्नहोरा पंच गुणाः सविकलाः यदि सरूपाः ॥ सप्तविभक्ता शेषो दिनांधिपात्‌ कालहोरेशः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "त्रिचजुरनंतर षष्टयः सावनमासाब्ददितपहोरेश्ाः । दिनगतघटिका द्विगुणा पंच हृताश्चान्यमतमेतत्‌ h४७॥ गछधनमिष्ट गुणितंघनर्युतोनं पृथक्‌ पथक्‌ सहितम्‌ । 3 गुराक युतोन पदहूत सरवंघनमतोवशेषारि",
           "english": "",
           "hindi": "",
           "status": "untranslated"
