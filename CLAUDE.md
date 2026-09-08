@@ -149,7 +149,7 @@ with it; the new text lands `untranslated`.
 cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
 SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
 [`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
-`JaiminiSutras` and `ChandraKalaNadi` are the only surviving stub dirs. None of the 13 undigitised texts has a `text_id`.
+`ChandraKalaNadi` is the only surviving stub dir — `JaiminiSutras` was digitised 2026-09-04. **Six of the 13 rows in INVENTORY's §Undigitised now DO have a `text_id`** and are marked ✅ there; the claim that none does was true when written and is not now. Derive it: a text is held iff a `.json` carrying a `text_id` exists for it.
 
 ## Translation workflow
 
