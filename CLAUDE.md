@@ -171,11 +171,8 @@ This is a **JSON data corpus**, so the callers/impact/tests tools don't apply to
 
 ## State management
 
-See `rule:state-and-decisions` (`../docs/conventions/STATE_MANAGEMENT.md` is the
-long-form convention). Adopted 2026-06-09 — sixth and final sibling.
-
-- [`STATE.md`](./STATE.md) at repo root — subsumed the original `TODO.md`, which was **deleted 2026-08-17** once its 8 items were fully absorbed. Git history keeps it.
-- [`docs/DECISIONS.md`](./docs/DECISIONS.md) — lives under `docs/` because `docs/` is tracked here.
-
-Workspace-wide decisions live in `../docs/DECISIONS.md`; cross-project initiatives live
-in `../STATE.md` and `../TODOS.md` (legacy).
+See `rule:state-and-decisions`. **`STATE.md`, `DECISIONS.md` and `GOTCHAS.md` live in the
+WORKSPACE** at `../propagation/state/sanskrit-texts/`. The `STATE.md`
+and `docs/DECISIONS.md` still in this repo are 14-line stubs headed "moved"; this section
+described them as the real files until 2026-09-10. Pre-move history, including the `TODO.md`
+absorbed into STATE.md and deleted 2026-08-17: `git log --follow -- STATE.md`.
