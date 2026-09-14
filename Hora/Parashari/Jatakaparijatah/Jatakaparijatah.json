@@ -3,6 +3,23 @@
   "title_sa": "जातकपारिजातः",
   "title_en": "Jataka Parijata",
   "category": "parashari",
+  "structure": {
+    "levels": [
+      "adhyaya",
+      "shloka"
+    ],
+    "chapter_level": "adhyaya",
+    "shloka_number_format": "integer",
+    "citation_prefix": "jataka_parijata",
+    "expected_chapters": 18,
+    "chapters_emitted": 18,
+    "expected_verses": 1947,
+    "count_authority": "defect",
+    "count_authority_reason": "OUR PARSE IS KNOWN WRONG IN TWO SEPARATE WAYS, and 55 shlokas are silently dropped by seed_texts.py's (chapter, shloka) dedupe as a result -- the largest loss of any text in this corpus. The source itself is sound: lane-verified 2026-09-14 against jatakaparijatah.md, whose opening and closing verses match 1.1 and 18.4 verbatim. (1) COLOPHON STORED AS A SHLOKA, 16 of 18 chapters. Each chapter's closing formula ('iti ... jatakaparijate ...adhyayah') is held as a verse and carries an English translation. In chapters 1-6 the parser took the colophon's trailing CHAPTER ORDINAL as its verse number, so ch.1's colophon is numbered 1 and COLLIDES with the genuine mangala at 1.1 ('srikantajasivasvarupam...'); one of the two never reaches MongoDB, and which one survives is decided by file order, not by intent. Chapters 7+ numbered the colophon sequentially instead, which is why only six show as numbering restarts. (2) CHAPTER 17 HAS REAL SUB-SECTIONS THIS SCHEMA CANNOT EXPRESS -- 25 of the 55 losses are this one chapter. Keys 1-6 each recur 3-4 times because the adhyaya contains named divisions that each restart at 1 ('atha savyacakravakyani', 'atha apasavyacakravakyani'). That is genuine textual structure, not corruption; it needs a subsection.verse key, the same shape apastamba_dharma_sutra uses for prasna.khanda.sutra. Do NOT renumber to flatten it -- G7. Measured 2026-09-14.",
+    "canonical_authority": "sanskrit-texts-sources/Hora/Parashari/Jatakaparijatah/jatakaparijatah.md (Vaidyanatha Dikshita). Verified as the right source; the defects are in the PARSE, not the text.",
+    "known_gaps": [],
+    "known_gaps_reason": "No numbering gaps -- the defect is duplicate keys and an inexpressible hierarchy, which is why every contiguity check has passed on this text while 55 shlokas went un-ingested."
+  },
   "chapters": [
     {
       "number": 1,
