@@ -1110,3 +1110,171 @@ gitignored sources tree is where reference-only material belongs and the licence
 arise there. Licences recorded verbatim: GRETIL **CC BY-NC-SA 4.0**; TITUS *"No parts of this
 document may be republished in any form without prior permission by the copyright holder"*
 (© TITUS Project, 8.12.2008).
+
+## Supplied 2026-09-14 — eight items, one exact duplicate, one mislabelled zip that turns out to unblock a named gap
+
+All seven from `~/Downloads`, plus two archive.org text fetches. `classify.py` plus
+chars-per-page (`pdftotext` byte count / `pdfinfo` page count) run on every PDF.
+
+### `saravaliofkalyan01kalyuoft.pdf` — NOT staged, byte-identical to the held copy
+
+**MD5 `a893...42c1` matches exactly** the already-held
+`Hora/Parashari/Saravali/Saravali-Kalyanavarma-archiveorg.pdf` — same 17,278,726 bytes, same
+`pdfinfo` metadata (`Recoded by LuraDocument PDF v2.28`, `CreationDate` 2009-01-21) down to the
+second. This is the same archive.org derive downloaded twice. Not staged; nothing to record
+beyond this note.
+
+### `PingreeVYJ.zip` → two files — **not Vedāṅga Jyotiṣa.** It is Pingree's Vṛddhayavanajātaka
+of Mīnarāja, and it is the exact witness commit `5039783` (this morning) named as missing
+
+The filename reads as "Vedanga Jyotisha" (VYJ); it is not. Both halves open with the same
+title page: *Gaekwad's Oriental Series, Oriental Institute Baroda, no. 162/163,
+"VṚDDHAYAVANAJĀTAKA OF MĪNARĀJA"*, ed. David Pingree, Professor of the History of
+Mathematics, Brown University, 1976. Vol. II's foreword states explicitly: *"The present
+volume contains chapters 40-71 of the text and the four appendices."*
+
+`classify.py`: both tier `latin` (21,448 and 59,690 Roman letters respectively, 0 Devanāgarī —
+an English critical apparatus around a romanised text, not a script problem). Chars-per-page:
+Vol. I 453pp / 52,279 chars = **115/pp**; Vol. II 415pp / 122,007 chars = **293/pp**. Low
+density, consistent with a scanned critical edition (introduction, apparatus, romanised verse)
+rather than continuous prose.
+
+Staged at `Hora/Parashari/MinarajaYavanajataka/raw/`:
+- `MinarajaYavanajataka-Pingree-Vol1-GaekwadOrientalSeries162-Baroda1976-453pp.pdf`
+- `MinarajaYavanajataka-Pingree-Vol2-Ch40-71-GaekwadOrientalSeries163-Baroda1976-415pp.pdf`
+
+**Why this matters immediately:** commit `5039783` (`fix(corpus): minaraja_yavana_jataka is
+two halves with different provenance`, landed the same day this batch arrived) declared that
+the held text's chapters 40–71 (the Uttarakhaṇḍa, 1,887 śloka, 6% carrying detectable OCR
+noise) have **NO SOURCE ANYWHERE** — added 2026-06-20 already translated, no source file
+committed then or since — and named *"Pingree's edition of the Vrddhayavanajataka"* as *"the
+obvious unconsulted witness"* that had not been consulted. Vol. II of this delivery is exactly
+that witness, covering exactly that chapter range (40–71) plus four appendices. Vol. I (ch.
+1–~39) is a second, independently-edited witness for the already-sourced Pūrvakhaṇḍa. Neither
+is a proofread transcription — both are romanised critical-edition scans — so this unblocks
+*verification against a witness*, not a ready-to-ingest source; someone still has to read Vol.
+II against the 1,887 held śloka. Flagging this prominently because it directly answers a named
+open item, not a general acquisition.
+
+### Two Deva Keralam scans — IDENTITY UNVERIFIED, and the held `ChandraKalaNadi` row is already `REFUSED` for exactly this class of material
+
+Both `no-text` per `classify.py` (0 extractable characters, `pdfimages` reports image
+content) — chars-per-page is undefined/0 for both, so identity **cannot** be checked without
+OCR. Recording them as supplied, not as Chandra Kala Nadi, per G26.
+
+- `2015.489052.Deva-Keralam.pdf` — 268pp, archive.org id `2015.489052`. Staged at
+  `Hora/Nadi/DevaKeralam/raw/DevaKeralam-archiveorg-2015.489052-268pp-IDENTITY-UNVERIFIED.pdf`.
+- `Deva-Keralam-3-Chandrakala-Nadi-compressed.pdf` — 322pp, filename implies "book 3" of a
+  multi-volume Deva Keralam set. Staged at
+  `Hora/Nadi/DevaKeralam/raw/DevaKeralam-3-ChandraKalaNadi-compressed-322pp-IDENTITY-UNVERIFIED.pdf`.
+
+**Neither is identical to what is already held.** The existing `raw/` in the same directory
+carries `DevaKeralam-298pp.pdf` (298pp) and `ChandraKalaNadi-Book1-260pp.pdf` (260pp) — both
+different page counts from the two supplied here, so these are not re-downloads of the same
+scans.
+
+**Read this alongside `INVENTORY.md`'s Acquisition status table before acting on these:** its
+`ChandraKalaNadi` row is `REFUSED`, with the note *"Both supplied Deva Keralam scans were
+refused on measured OCR quality. The last surviving stub directory."* — a plain reading of
+that note is about the two files already in `raw/` (`DevaKeralam-298pp.pdf` and
+`ChandraKalaNadi-Book1-260pp.pdf`), not these two. But it establishes that this exact
+identity/quality problem has already been evaluated and refused once for this work. These two
+new scans are additional/different material for what is functionally the same refused
+acquisition target, not a fresh, unevaluated text. Did not touch `INVENTORY.md` — flagging
+this cross-reference for whoever picks the OCR work up next.
+
+### `2015.312156.Jataka-Parijata.pdf` — a second witness scan for the held `jataka_parijata`
+
+682pp, archive.org id `2015.312156`, `no-text` per `classify.py` (0 chars, image content).
+Chars-per-page undefined (0/682). Staged at
+`Hora/Parashari/Jatakaparijatah/raw/JatakaParijata-archiveorg-2015.312156-682pp.pdf` — the
+first file in that directory's `raw/`, which held only a `.md` until now.
+
+`jataka_parijata` is already `HELD` (18 chapters / 1,947 units, 100%, sourced from
+sanskritdocuments' `jAtakapArijAtaH` stem per the 2026-08-25 survey). This scan is a
+**second, independent witness** — useful for cross-checking chapter/verse boundaries, not
+needed to establish the text exists.
+
+### Two English-only Garga Horā translations — TRANSLATION WITNESSES, explicitly NOT corpus sources
+
+Same precedent as `ThreeHundredImportantCombinationsRaman` (excluded 2026-06-20, DECISIONS.md:
+*"a 20th-c. English work (raw OCR only, no Devanagari shlokas) — does not fit the uniform
+schema"*). Both score **0 Devanāgarī characters** — `classify.py` tiers both `latin`.
+
+- `Sage_Gargacharya_-_Garga_Hora.pdf` — 95pp, 207,524 Roman letters, chars-per-page **2,920**
+  (dense continuous English prose, not a low-density scan artifact). Identified from the title
+  page: *"GARGA HORA by SAGE GARGACHARYA, Translated by R. SANTHANAM, Ranjan Publications, New
+  Delhi, Edition 2014"*, foreword by B.V. Raman. Staged at
+  `Hora/Parashari/GargaHora/raw/GargaHora-Santhanam-English-translation-RanjanPublications2014-95pp-TRANSLATION-WITNESS-NOT-SOURCE.pdf`.
+- `Garga_Hora_by_Sage_Gargacarya.zip` → `garghora.htm` — 271 KB HTML, 232,408 characters after
+  tag-stripping, IAST-diacritic English (`Sūrya`, `Candr`, `Mangal` …) — a **different**
+  translation style from the Santhanam PDF (which uses plain English planet names), so likely a
+  different translator; no translator credit found in the sampled front matter. Staged at
+  `Hora/Parashari/GargaHora/raw/GargaHora-English-translation-witness-TRANSLATION-WITNESS-NOT-SOURCE.htm`.
+
+**Why this might matter later:** the held `garga_hora` is `HELD` but incomplete — *"chapter 1
+only of 3 / 84 units. Chapters 2–3 carry no printed verse numbers in either OCR pass"*. These
+two English witnesses were not checked chapter-by-chapter against that gap in this pass; they
+are recorded as witnesses for whoever takes that on, not confirmed to cover chapters 2–3.
+
+### Two archive.org text fetches — not independently re-verified this pass
+
+`mm.txt` (Muhurta Martanda, `in.ernet.dli.2015.307447`) and `pm.txt` (Prashna Marga) were
+fetched to scratch per the brief's URLs but **not staged or further processed in this pass** —
+out of scope for this batch, which covered the seven `~/Downloads` items. `MuhurtaMartanda`
+already has raw material staged (`Muhurta/MuhurtaMartanda/raw/`); `PrashnaMarga` is
+`UNSOURCED` per INVENTORY ("Supplied once and unusable; needs re-supply") — these two fetches
+may be relevant to that gap but identification and staging is left to a dedicated pass.
+
+### `PingreeVYJ2.pdf` — ADJUDICATED 2026-09-14, and it settles the Mīnarāja P0
+
+Vol. II, 415pp. Its foreword states it *"contains chapters 40-71"* plus four appendices — an
+**exact match for the unsourced range** of `minaraja_yavana_jataka`, so there was no ambiguity
+about which witness applies. Chapter openings were located directly: ch.40 p.19 · ch.47 p.190 ·
+ch.53 p.290 · ch.54 p.291 · ch.62 p.360 · ch.68 p.390.
+
+**Pingree prints in DEVANĀGARĪ, not IAST.** The brief assumed IAST and was wrong. This is the
+fact that made the adjudication cheap — the held `text` field compares directly, string for
+string, against page renders with no transliteration layer.
+
+**Usable only as page images.** `pdftotext` on the embedded layer is junk (as with Vol. I).
+`tesseract -l script/Devanagari --psm 4` at 300dpi beat `-l san`, but the verdict rested on
+**direct visual reading of the renders** — these are legible photo-offset reproductions, unlike
+Vol. I's ruined layer, and eyeballing beat OCR noise for verse-by-verse comparison.
+
+**Verdict: the Uttarakhaṇḍa is GENUINE.** Six chapters spanning the range agreed with the
+witness; none contradicted. The defect is digitisation contamination — running headers, apparatus
+sigla and the chapter heading bleeding into `text` ahead of the real verse. Full reasoning and
+the worked 55.1 decode: `propagation/state/sanskrit-texts/STATE.md` §P2 Mīnarāja.
+
+### `saravali00kalyuoft` — a SANSKRIT Sāravalī, found 2026-09-14, not yet staged
+
+Found while testing whether the held `saravali01kalyuoft.pdf` had a sibling volume. **The
+sibling is `00`, not `02`** — archive.org's multi-volume suffixes are not reliably sequential,
+and its metadata API returns **HTTP 200 with an empty object** for an identifier that does not
+exist, so the status code is not the existence test. `files: 0` is.
+
+`language: san`, 19MB PDF, **932KB `_djvu.txt` text layer** — where `01` is Santhanam's English
+translation at `no-text` tier, which is what forced Sāravalī into the OCR lane at all.
+
+**Identity verified internally, per G26.** The colophons read
+`इति कल्याणवर्मविरचितायां सारावल्यां … नाम प्रथमोऽध्यायः` — naming Kalyāṇavarma and the work,
+not matched on a filename. Its chapter titles agree with the printed English ToC of the `01`
+volume **6 for 6** (शास्त्रावतार / "Birth of Hora Sasthra"; होराशब्दार्थचिन्ता / "Meaning of
+Hora"; होराराशिभेदो / "Rasi Description"; ग्रहयोनिभेदो / "Planetary Characters"; मिश्रकाध्यायः /
+"Miscellaneous Matters"; कारकाध्यायः / "(Yoga) Karakas") — two independent witnesses in two
+languages.
+
+**2,368 verse markers · ~53 numbering resets**, consistent with the 55 chapters the `01` volume
+states in print. Held `saravali` is 1,163 verses in one flat chapter.
+
+**OCR damage is systematic and recoverable, which G55 says the ratios cannot tell you.** Its
+profile is 100% Devanāgarī / 0 ASCII — identical to the REFUSED Praśna Mārga — but the damage is
+a font-confusion set (`ल→ठ/ट`, `र्य→थ`): `प्रियाठापम्` ← प्रियालापम्, `कुटीनं` ← कुलीनं,
+`कठहूप्रिय` ← कलहप्रिय. Words are damaged, not destroyed, and **the colophons are clean**.
+
+**OPEN, and not to be resolved by assertion:** under damage-tolerant skeleton matching only
+**5 of 40** held verses were located in this source, and the meter difference expected did not
+appear (92 vs 93 Devanāgarī chars/verse — indistinguishable). That is consistent with partial
+overlap *or* with a 12-character exact window being too strict for per-character damage. **The
+instrument is not yet good enough to say which**, and no status change follows from it.
