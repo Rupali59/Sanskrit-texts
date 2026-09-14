@@ -16,23 +16,22 @@ appears in ≥20% of chapters (likely function vocabulary).
 Keyness measures against Sanskrit are documented to surface register markers as
 confident false positives, so this never decides a disposition.
 
-Regenerate: `python3 scripts/term_ledger.py --text bphs`
+Regenerate: `python3 scripts/term_ledger.py --text bphs --known scripts/known/relation_markers.txt`
 
 ## Run
 
 - text: `bphs` (Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShastra.json)
 - chapters scanned: 97
-- recognised roots loaded: 0
-- distinct unrecognised terms (count ≥ 2): **3,076**
-- rows written: 400 of 3,076
+- recognised roots loaded: 53
+- distinct unrecognised terms (count ≥ 2): **2,466**
+- rows written: 400 of 2,466
 - curated dispositions carried forward: **3**
-- disposition tally: common 2 · relation 1 · unreviewed 3073
+- disposition tally: common 2 · relation 1 · unreviewed 2463
 
 ## Terms
 
 | term | verses | chapters | signal | examples | disposition | resolved_to |
 |---|---:|---:|---|---|---|---|
-| `भवेत्` | 307 | 70 | SPREAD | 6.6, 6.7, 6.46 | unreviewed |  |
 | `द्विज` | 119 | 44 | SPREAD | 3.18, 3.19, 3.20 | common | vocative address to Maitreya, not content |
 | `फलं` | 111 | 46 | SPREAD | 3.6, 3.58, 3.59 | unreviewed |  |
 | `जायते` | 107 | 36 | SPREAD | 1.8, 4.27, 9.25 | unreviewed |  |
@@ -42,7 +41,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `एवं` | 83 | 41 | SPREAD | 3.15, 3.40, 3.58 | unreviewed |  |
 | `वदेत्` | 81 | 37 | SPREAD | 3.58, 3.70, 3.74 | unreviewed |  |
 | `विप्र` | 81 | 37 | SPREAD | 1.5, 2.2, 2.11 | common | ditto |
-| `स्वोच्चे` | 80 | 23 | SPREAD | 3.59, 15.3, 15.11 | unreviewed |  |
 | `व्यये` | 79 | 26 | SPREAD | 7.42, 9.11, 9.30 | unreviewed |  |
 | `वापि` | 74 | 31 | SPREAD | 12.8, 18.16, 18.17 | unreviewed |  |
 | `सदा` | 74 | 23 | SPREAD | 1.20, 2.9, 12.1 | unreviewed |  |
@@ -50,16 +48,13 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `फलम्` | 71 | 25 | SPREAD | 5.3, 5.10, 5.18 | unreviewed |  |
 | `सुतक्षयः` | 67 | 2 | TOPIC | 16.22, 83.9, 83.10 | unreviewed |  |
 | `यदा` | 66 | 22 | SPREAD | 1.14, 9.9, 9.17 | unreviewed |  |
-| `सूक्ष्मगते` | 66 | 1 | TOPIC | 62.3, 62.4, 62.5 | unreviewed |  |
 | `नरः` | 65 | 21 | SPREAD | 2.13, 13.7, 14.1 | unreviewed |  |
 | `शनौ` | 64 | 21 | SPREAD | 16.29, 16.30, 16.31 | unreviewed |  |
 | `क्रमात्` | 62 | 31 | SPREAD | 2.4, 3.31, 3.32 | unreviewed |  |
-| `लग्नेशे` | 59 | 18 | MIXED | 12.6, 15.2, 16.4 | unreviewed |  |
 | `ज्ञेयं` | 58 | 34 | SPREAD | 3.73, 4.28, 4.30 | unreviewed |  |
 | `द्विजोत्तम` | 58 | 31 | SPREAD | 3.33, 3.36, 3.42 | unreviewed |  |
 | `संशयः` | 58 | 33 | SPREAD | 1.8, 9.18, 9.32 | unreviewed |  |
 | `चन्द्रे` | 57 | 29 | SPREAD | 9.20, 9.26, 14.12 | unreviewed |  |
-| `स्यात्` | 57 | 32 | SPREAD | 3.74, 5.16, 6.48 | unreviewed |  |
 | `ततः` | 53 | 33 | SPREAD | 1.7, 3.53, 5.12 | unreviewed |  |
 | `भवति` | 53 | 24 | SPREAD | 9.26, 25.30, 25.53 | unreviewed |  |
 | `शुक्रे` | 53 | 22 | SPREAD | 13.9, 18.10, 18.12 | unreviewed |  |
@@ -70,33 +65,25 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `राहौ` | 47 | 22 | SPREAD | 9.31, 16.21, 20.17 | unreviewed |  |
 | `लाभे` | 47 | 23 | SPREAD | 7.39, 7.40, 13.8 | unreviewed |  |
 | `सुखी` | 47 | 10 | MIXED | 22.1, 24.2, 24.3 | unreviewed |  |
-| `केन्द्रे` | 46 | 23 | SPREAD | 9.28, 12.1, 14.9 | unreviewed |  |
 | `गुरौ` | 46 | 15 | MIXED | 9.31, 16.15, 18.8 | unreviewed |  |
-| `द्वितीयद्यूननाथे` | 46 | 10 | MIXED | 47.88, 52.14, 52.21 | unreviewed |  |
 | `तद्दोषपरिहारार्थं` | 45 | 13 | MIXED | 47.89, 52.3, 52.72 | unreviewed |  |
 | `वाऽपि` | 45 | 29 | SPREAD | 11.14, 12.7, 13.3 | unreviewed |  |
 | `कुजे` | 44 | 13 | MIXED | 17.10, 18.7, 33.39 | unreviewed |  |
 | `दशा` | 43 | 8 | MIXED | 5.14, 5.15, 5.21 | unreviewed |  |
 | `प्रजायते` | 43 | 26 | SPREAD | 3.64, 19.12, 24.14 | unreviewed |  |
 | `प्रत्यन्तरे` | 43 | 1 | TOPIC | 61.2, 61.9, 61.17 | unreviewed |  |
-| `पापसंयुते` | 42 | 19 | SPREAD | 16.21, 17.13, 18.19 | unreviewed |  |
 | `नित्यं` | 41 | 18 | MIXED | 24.108, 24.120, 25.5 | unreviewed |  |
 | `मन्दे` | 41 | 22 | SPREAD | 15.8, 16.9, 16.14 | unreviewed |  |
-| `शुभं` | 41 | 22 | SPREAD | 3.59, 3.74, 9.24 | unreviewed |  |
 | `सप्तमे` | 41 | 16 | MIXED | 7.42, 9.30, 9.37 | unreviewed |  |
 | `जीवे` | 40 | 25 | SPREAD | 13.9, 16.18, 16.20 | unreviewed |  |
 | `भौमे` | 40 | 22 | SPREAD | 15.9, 17.14, 18.20 | unreviewed |  |
 | `रवौ` | 40 | 11 | MIXED | 20.17, 20.23, 33.13 | unreviewed |  |
 | `केतौ` | 39 | 14 | MIXED | 30.36, 33.18, 33.31 | unreviewed |  |
 | `ध्रुवम्` | 39 | 24 | SPREAD | 7.40, 11.16, 16.3 | unreviewed |  |
-| `प्राणगते` | 39 | 1 | TOPIC | 63.3, 63.4, 63.6 | unreviewed |  |
 | `सौख्यं` | 39 | 16 | MIXED | 7.2, 31.17, 47.8 | unreviewed |  |
 | `बुधे` | 38 | 12 | MIXED | 18.8, 18.40, 33.15 | unreviewed |  |
 | `ज्ञेया` | 36 | 17 | MIXED | 1.24, 6.16, 14.10 | unreviewed |  |
-| `दृष्टे` | 35 | 19 | SPREAD | 12.4, 13.5, 16.9 | unreviewed |  |
 | `पीडा` | 35 | 13 | MIXED | 24.6, 33.5, 46.127 | unreviewed |  |
-| `गते` | 34 | 16 | MIXED | 13.4, 16.14, 16.18 | unreviewed |  |
-| `नीचे` | 34 | 15 | MIXED | 12.2, 18.5, 39.30 | unreviewed |  |
 | `भयम्` | 34 | 13 | MIXED | 17.11, 24.90, 45.130 | unreviewed |  |
 | `लभते` | 34 | 15 | MIXED | 13.7, 18.25, 18.27 | unreviewed |  |
 | `तस्मिन्` | 33 | 11 | MIXED | 29.4, 30.3, 31.9 | unreviewed |  |
@@ -113,25 +100,18 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `कारके` | 29 | 7 | MIXED | 14.6, 14.7, 14.8 | unreviewed |  |
 | `प्रोक्तं` | 29 | 23 | SPREAD | 3.53, 3.60, 7.25 | unreviewed |  |
 | `कारयेत्` | 28 | 18 | MIXED | 44.13, 52.39, 52.57 | unreviewed |  |
-| `त्रिकोणे` | 28 | 17 | MIXED | 3.59, 5.17, 26.3 | unreviewed |  |
 | `नरो` | 28 | 13 | MIXED | 4.21, 13.3, 13.4 | unreviewed |  |
-| `भाग्येशे` | 28 | 5 | MIXED | 16.26, 20.3, 20.4 | unreviewed |  |
 | `यत्र` | 28 | 16 | MIXED | 5.9, 7.6, 7.7 | unreviewed |  |
 | `यथा` | 28 | 19 | SPREAD | 1.6, 7.7, 7.8 | unreviewed |  |
 | `रन्ध्रे` | 28 | 13 | MIXED | 19.9, 19.10, 19.12 | unreviewed |  |
 | `रवेः` | 28 | 9 | MIXED | 3.17, 3.51, 7.14 | unreviewed |  |
-| `सौम्ये` | 28 | 18 | MIXED | 12.4, 15.5, 15.10 | unreviewed |  |
-| `स्थिते` | 28 | 20 | SPREAD | 13.11, 14.12, 15.9 | unreviewed |  |
 | `जनः` | 27 | 9 | MIXED | 24.83, 29.25, 33.7 | unreviewed |  |
 | `धने` | 27 | 15 | MIXED | 7.40, 9.25, 9.30 | unreviewed |  |
 | `राजा` | 27 | 12 | MIXED | 20.6, 24.117, 29.11 | unreviewed |  |
 | `सति` | 27 | 10 | MIXED | 15.8, 17.18, 25.9 | unreviewed |  |
 | `सर्वे` | 27 | 15 | MIXED | 1.23, 2.7, 3.34 | unreviewed |  |
 | `स्त्रीणां` | 27 | 7 | MIXED | 25.30, 25.32, 25.67 | unreviewed |  |
-| `धनेशे` | 26 | 8 | MIXED | 13.4, 13.5, 13.9 | unreviewed |  |
-| `लाभेशे` | 26 | 8 | MIXED | 13.4, 13.5, 15.13 | unreviewed |  |
 | `विधौ` | 26 | 9 | MIXED | 16.14, 33.77, 50.70 | unreviewed |  |
-| `व्ययेशे` | 26 | 7 | MIXED | 17.17, 17.20, 17.27 | unreviewed |  |
 | `शनेः` | 26 | 6 | MIXED | 3.54, 49.5, 50.45 | unreviewed |  |
 | `चरेत्` | 25 | 10 | MIXED | 52.3, 52.47, 52.72 | unreviewed |  |
 | `विशेषतः` | 25 | 19 | SPREAD | 2.12, 4.29, 7.33 | unreviewed |  |
@@ -144,23 +124,17 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `केतोः` | 23 | 3 | TOPIC | 61.9, 61.17, 61.25 | unreviewed |  |
 | `गुरोः` | 23 | 9 | MIXED | 3.43, 7.42, 27.12 | unreviewed |  |
 | `ध्वजे` | 23 | 3 | TOPIC | 25.51, 25.54, 25.55 | unreviewed |  |
-| `पापे` | 23 | 11 | MIXED | 16.22, 17.13, 18.10 | unreviewed |  |
 | `भृगौ` | 23 | 7 | MIXED | 16.20, 36.29, 44.36 | unreviewed |  |
 | `मया` | 23 | 19 | SPREAD | 10.1, 11.1, 15.1 | unreviewed |  |
 | `शान्तिं` | 23 | 17 | MIXED | 49.36, 52.3, 52.22 | unreviewed |  |
 | `सर्वत्र` | 23 | 10 | MIXED | 7.15, 7.29, 11.13 | unreviewed |  |
-| `कर्मेशे` | 22 | 6 | MIXED | 20.7, 21.4, 21.6 | unreviewed |  |
 | `समे` | 22 | 9 | MIXED | 6.5, 6.11, 6.14 | unreviewed |  |
 | `सुते` | 22 | 7 | MIXED | 3.72, 16.1, 16.5 | unreviewed |  |
-| `सुतेशे` | 22 | 5 | MIXED | 16.12, 16.13, 16.14 | unreviewed |  |
 | `गां` | 21 | 9 | MIXED | 47.89, 52.14, 52.31 | unreviewed |  |
 | `दुश्चिक्ये` | 21 | 7 | MIXED | 47.23, 47.31, 47.39 | unreviewed |  |
 | `पुत्रे` | 21 | 4 | MIXED | 7.42, 55.30, 66.16 | unreviewed |  |
 | `मरणं` | 21 | 13 | MIXED | 4.30, 11.4, 11.8 | unreviewed |  |
 | `महाराजप्रसादेन` | 21 | 9 | MIXED | 47.39, 47.55, 52.6 | unreviewed |  |
-| `रन्ध्रेशे` | 21 | 6 | MIXED | 18.32, 18.40, 19.9 | unreviewed |  |
-| `लग्नात्केन्द्रत्रिकोणगे` | 21 | 8 | MIXED | 52.4, 52.23, 52.32 | unreviewed |  |
-| `संयुते` | 21 | 13 | MIXED | 15.12, 16.16, 17.14 | unreviewed |  |
 | `सुखम्` | 21 | 10 | MIXED | 30.1, 46.138, 46.143 | unreviewed |  |
 | `कन्यायां` | 20 | 6 | MIXED | 30.29, 49.9, 49.14 | unreviewed |  |
 | `चापे` | 20 | 5 | MIXED | 3.53, 25.42, 25.43 | unreviewed |  |
@@ -168,15 +142,12 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `द्वौ` | 20 | 13 | MIXED | 3.19, 4.5, 7.19 | unreviewed |  |
 | `धनागमः` | 20 | 12 | MIXED | 50.22, 54.49, 55.41 | unreviewed |  |
 | `पूर्णं` | 20 | 11 | MIXED | 7.11, 7.24, 7.31 | unreviewed |  |
-| `बली` | 20 | 13 | MIXED | 3.36, 3.37, 10.3 | unreviewed |  |
 | `भवेद्` | 20 | 12 | MIXED | 6.50, 30.38, 33.52 | unreviewed |  |
 | `मानी` | 20 | 4 | MIXED | 18.4, 24.3, 24.22 | unreviewed |  |
 | `राहोः` | 20 | 5 | MIXED | 50.42, 61.46, 61.70 | unreviewed |  |
-| `संयुक्ते` | 20 | 12 | MIXED | 15.4, 21.11, 21.17 | unreviewed |  |
 | `जपेत्` | 19 | 12 | MIXED | 47.89, 53.31, 53.46 | unreviewed |  |
 | `तदीशे` | 19 | 9 | MIXED | 14.7, 15.6, 16.11 | unreviewed |  |
 | `तृतीये` | 19 | 9 | MIXED | 20.16, 25.28, 30.36 | unreviewed |  |
-| `दारेशे` | 19 | 3 | TOPIC | 18.14, 18.21, 18.22 | unreviewed |  |
 | `पुनः` | 19 | 16 | MIXED | 1.5, 2.9, 3.1 | unreviewed |  |
 | `भयं` | 19 | 12 | MIXED | 24.120, 33.19, 33.38 | unreviewed |  |
 | `भवन्ति` | 19 | 10 | MIXED | 2.9, 3.36, 6.43 | unreviewed |  |
@@ -184,7 +155,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `मेषे` | 19 | 7 | MIXED | 12.8, 33.66, 45.135 | unreviewed |  |
 | `लग्नगे` | 19 | 7 | MIXED | 9.15, 24.1, 24.13 | unreviewed |  |
 | `लाभगेऽपि` | 19 | 7 | MIXED | 53.1, 53.19, 53.27 | unreviewed |  |
-| `शुभे` | 19 | 12 | MIXED | 28.16, 33.9, 39.17 | unreviewed |  |
 | `षष्ठाष्टमव्यये` | 19 | 10 | MIXED | 20.13, 47.25, 47.57 | unreviewed |  |
 | `सिंहे` | 19 | 4 | MIXED | 30.29, 49.10, 49.13 | unreviewed |  |
 | `सुखावहा` | 19 | 9 | MIXED | 47.48, 52.35, 52.63 | unreviewed |  |
@@ -200,30 +170,23 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `लग्नं` | 18 | 10 | MIXED | 3.6, 3.9, 5.4 | unreviewed |  |
 | `वै` | 18 | 15 | MIXED | 2.8, 2.9, 3.3 | unreviewed |  |
 | `सम्प्रवक्ष्यामि` | 18 | 13 | MIXED | 4.25, 4.26, 5.1 | unreviewed |  |
-| `सुखेशे` | 18 | 4 | MIXED | 15.2, 15.7, 15.10 | unreviewed |  |
 | `आदौ` | 17 | 12 | MIXED | 4.20, 9.1, 43.34 | unreviewed |  |
 | `कामी` | 17 | 7 | MIXED | 24.4, 24.13, 24.15 | unreviewed |  |
 | `कुम्भे` | 17 | 4 | MIXED | 3.54, 49.8, 49.11 | unreviewed |  |
 | `ग्रहाः` | 17 | 13 | MIXED | 1.23, 3.4, 6.41 | unreviewed |  |
-| `चेत्` | 17 | 14 | MIXED | 3.74, 9.28, 16.7 | unreviewed |  |
 | `द्वितीये` | 17 | 13 | MIXED | 20.4, 20.17, 24.26 | unreviewed |  |
 | `धनवान्` | 17 | 9 | MIXED | 13.3, 13.4, 24.14 | unreviewed |  |
-| `पापसंयुक्ते` | 17 | 9 | MIXED | 13.13, 16.24, 16.30 | unreviewed |  |
 | `भुक्त्यादौ` | 17 | 6 | MIXED | 52.45, 52.55, 52.70 | unreviewed |  |
 | `लग्नात्` | 17 | 16 | MIXED | 5.15, 7.35, 10.2 | unreviewed |  |
-| `विदेशगमनं` | 17 | 11 | MIXED | 47.66, 52.61, 53.30 | unreviewed |  |
 | `स्मृतम्` | 17 | 9 | MIXED | 7.16, 7.27, 7.32 | unreviewed |  |
 | `कष्टं` | 16 | 12 | MIXED | 9.45, 28.6, 31.15 | unreviewed |  |
 | `दाता` | 16 | 8 | MIXED | 24.39, 24.47, 24.122 | unreviewed |  |
 | `दिशेत्` | 16 | 10 | MIXED | 12.1, 47.26, 47.74 | unreviewed |  |
 | `नवमे` | 16 | 10 | MIXED | 3.72, 9.10, 24.33 | unreviewed |  |
 | `नैव` | 16 | 12 | MIXED | 5.22, 22.11, 24.94 | unreviewed |  |
-| `पुत्रेशे` | 16 | 1 | TOPIC | 83.11, 83.13, 83.14 | unreviewed |  |
 | `प्राप्ते` | 16 | 8 | MIXED | 15.11, 15.14, 18.25 | unreviewed |  |
-| `बलवर्जिते` | 16 | 9 | MIXED | 52.13, 52.27, 53.17 | unreviewed |  |
 | `बुधः` | 16 | 14 | MIXED | 3.11, 11.6, 11.15 | unreviewed |  |
 | `भावे` | 16 | 9 | MIXED | 4.27, 22.3, 22.4 | unreviewed |  |
-| `मृतिर्भवेत्` | 16 | 6 | MIXED | 18.39, 19.10, 19.13 | unreviewed |  |
 | `वक्ष्ये` | 16 | 14 | MIXED | 5.14, 6.42, 7.21 | unreviewed |  |
 | `स्याद्` | 16 | 11 | MIXED | 27.33, 34.39, 46.94 | unreviewed |  |
 | `ग्रहाणां` | 15 | 11 | MIXED | 3.20, 5.22, 34.45 | unreviewed |  |
@@ -236,7 +199,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `विज्ञेया` | 15 | 9 | MIXED | 3.19, 3.45, 3.47 | unreviewed |  |
 | `विधोः` | 15 | 5 | MIXED | 27.18, 61.18, 61.19 | unreviewed |  |
 | `सर्वं` | 15 | 13 | MIXED | 1.21, 2.11, 7.27 | unreviewed |  |
-| `स्वक्षेत्रगे` | 15 | 8 | MIXED | 47.17, 47.45, 47.53 | unreviewed |  |
 | `ह्यपमृत्युर्भविष्यति` | 15 | 8 | MIXED | 52.14, 52.72, 53.31 | unreviewed |  |
 | `अन्ते` | 14 | 7 | MIXED | 47.4, 47.76, 52.45 | unreviewed |  |
 | `कुर्यात्` | 14 | 11 | MIXED | 9.28, 53.52, 55.59 | unreviewed |  |
@@ -245,7 +207,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `जातकस्य` | 14 | 13 | MIXED | 3.58, 9.1, 14.15 | unreviewed |  |
 | `ततो` | 14 | 13 | MIXED | 8.9, 44.11, 45.111 | unreviewed |  |
 | `पृथक्` | 14 | 12 | MIXED | 5.1, 5.9, 7.22 | unreviewed |  |
-| `बलसंयुक्ते` | 14 | 10 | MIXED | 13.12, 15.6, 18.21 | unreviewed |  |
 | `भाग्ये` | 14 | 10 | MIXED | 7.40, 20.1, 20.3 | unreviewed |  |
 | `भृगोः` | 14 | 6 | MIXED | 3.28, 3.40, 3.43 | unreviewed |  |
 | `मकरे` | 14 | 4 | MIXED | 44.23, 46.117, 49.8 | unreviewed |  |
@@ -254,10 +215,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `लाभगे` | 14 | 9 | MIXED | 22.7, 24.11, 24.35 | unreviewed |  |
 | `वाच्यं` | 14 | 12 | MIXED | 4.29, 14.5, 33.99 | unreviewed |  |
 | `विचक्षणः` | 14 | 10 | MIXED | 3.60, 25.23, 25.55 | unreviewed |  |
-| `शुभम्` | 14 | 12 | MIXED | 45.60, 46.111, 47.8 | unreviewed |  |
-| `शुभा` | 14 | 10 | MIXED | 35.39, 39.40, 45.126 | unreviewed |  |
-| `शुभाः` | 14 | 10 | MIXED | 2.4, 6.52, 19.11 | unreviewed |  |
-| `षष्ठेशे` | 14 | 4 | MIXED | 17.27, 20.13, 24.61 | unreviewed |  |
 | `सहजे` | 14 | 3 | TOPIC | 14.1, 24.3, 24.15 | unreviewed |  |
 | `स्मृता` | 14 | 7 | MIXED | 6.6, 31.7, 33.48 | unreviewed |  |
 | `स्मृताः` | 14 | 13 | MIXED | 3.64, 6.13, 6.33 | unreviewed |  |
@@ -265,8 +222,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `कथ्यते` | 13 | 11 | MIXED | 10.1, 28.5, 31.2 | unreviewed |  |
 | `करोति` | 13 | 8 | MIXED | 45.27, 47.56, 47.75 | unreviewed |  |
 | `दद्यात्` | 13 | 6 | MIXED | 7.14, 27.31, 53.6 | unreviewed |  |
-| `दायेशात्केन्द्रकोणे` | 13 | 5 | MIXED | 53.19, 53.27, 53.42 | unreviewed |  |
-| `पापाः` | 13 | 5 | MIXED | 19.11, 34.20, 34.23 | unreviewed |  |
 | `बन्धनं` | 13 | 8 | MIXED | 47.58, 52.9, 52.28 | unreviewed |  |
 | `ब्रुवे` | 13 | 11 | MIXED | 3.7, 12.11, 29.8 | unreviewed |  |
 | `मानवः` | 13 | 6 | MIXED | 24.70, 24.74, 24.75 | unreviewed |  |
@@ -278,11 +233,9 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `शून्यं` | 13 | 7 | MIXED | 3.60, 7.11, 28.8 | unreviewed |  |
 | `षष्ठे` | 13 | 11 | MIXED | 7.41, 15.9, 18.42 | unreviewed |  |
 | `सह` | 13 | 9 | MIXED | 9.8, 9.20, 17.8 | unreviewed |  |
-| `स्थितः` | 13 | 11 | MIXED | 9.8, 9.25, 12.15 | unreviewed |  |
 | `स्वर्क्षगे` | 13 | 7 | MIXED | 30.11, 52.5, 54.3 | unreviewed |  |
 | `अथाऽहं` | 12 | 8 | MIXED | 29.8, 32.1, 32.22 | unreviewed |  |
 | `कुरुते` | 12 | 8 | MIXED | 18.2, 23.5, 25.29 | unreviewed |  |
-| `केन्द्रलाभत्रिकोणगे` | 12 | 8 | MIXED | 47.62, 53.39, 53.47 | unreviewed |  |
 | `छागदानं` | 12 | 7 | MIXED | 52.31, 52.47, 52.64 | unreviewed |  |
 | `जन्मनि` | 12 | 7 | MIXED | 9.5, 30.12, 32.16 | unreviewed |  |
 | `जाता` | 12 | 7 | MIXED | 1.4, 2.10, 24.92 | unreviewed |  |
@@ -291,7 +244,6 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `दुःखं` | 12 | 9 | MIXED | 1.8, 11.2, 46.145 | unreviewed |  |
 | `नृणाम्` | 12 | 9 | MIXED | 24.108, 24.144, 43.22 | unreviewed |  |
 | `परम्` | 12 | 11 | MIXED | 4.3, 5.12, 6.4 | unreviewed |  |
-| `बलसंयुते` | 12 | 9 | MIXED | 16.26, 21.12, 47.31 | unreviewed |  |
 | `बालो` | 12 | 7 | MIXED | 24.2, 24.28, 30.38 | unreviewed |  |
 | `बुधैः` | 12 | 11 | MIXED | 3.12, 43.40, 44.35 | unreviewed |  |
 | `बुधो` | 12 | 8 | MIXED | 3.12, 3.14, 7.14 | unreviewed |  |
@@ -300,17 +252,13 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `मिष्ठान्नभोजनम्` | 12 | 7 | MIXED | 47.80, 47.87, 52.67 | unreviewed |  |
 | `मृत्युञ्जयजपं` | 12 | 6 | MIXED | 52.3, 53.38, 53.52 | unreviewed |  |
 | `याति` | 12 | 8 | MIXED | 9.9, 9.15, 41.26 | unreviewed |  |
-| `युक्ते` | 12 | 6 | MIXED | 41.9, 41.10, 41.15 | unreviewed |  |
-| `रिपुभावस्थे` | 12 | 3 | TOPIC | 17.26, 17.27, 24.18 | unreviewed |  |
 | `वाहनं` | 12 | 8 | MIXED | 15.12, 20.10, 47.19 | unreviewed |  |
 | `विचिन्तयेत्` | 12 | 10 | MIXED | 5.20, 6.23, 7.15 | unreviewed |  |
 | `विज्ञेयं` | 12 | 9 | MIXED | 29.4, 29.5, 29.7 | unreviewed |  |
 | `वृषभे` | 12 | 3 | TOPIC | 49.6, 49.11, 49.12 | unreviewed |  |
-| `शुभौ` | 12 | 4 | MIXED | 34.8, 34.20, 34.23 | unreviewed |  |
 | `श्वेतां` | 12 | 8 | MIXED | 52.14, 52.73, 53.6 | unreviewed |  |
 | `समाः` | 12 | 5 | MIXED | 46.28, 46.89, 46.168 | unreviewed |  |
 | `सर्वदा` | 12 | 7 | MIXED | 1.7, 3.36, 17.14 | unreviewed |  |
-| `सुखभावस्थे` | 12 | 3 | TOPIC | 15.2, 24.16, 24.40 | unreviewed |  |
 | `स्मृतः` | 12 | 10 | MIXED | 4.11, 4.22, 33.43 | unreviewed |  |
 | `स्वयं` | 12 | 8 | MIXED | 1.17, 16.32, 24.57 | unreviewed |  |
 | `स्वांशगे` | 12 | 4 | MIXED | 33.16, 53.32, 54.23 | unreviewed |  |
@@ -335,16 +283,9 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `प्रयाणं` | 11 | 5 | MIXED | 55.2, 55.11, 55.24 | unreviewed |  |
 | `बहुधा` | 11 | 8 | MIXED | 29.10, 43.51, 45.40 | unreviewed |  |
 | `भार्या` | 11 | 4 | MIXED | 18.5, 18.12, 18.42 | unreviewed |  |
-| `लग्नाधिपेन` | 11 | 6 | MIXED | 52.17, 52.59, 54.2 | unreviewed |  |
 | `लाभो` | 11 | 8 | MIXED | 24.124, 24.127, 29.10 | unreviewed |  |
 | `विवाहं` | 11 | 2 | TOPIC | 18.25, 18.27, 18.28 | unreviewed |  |
-| `शुभयुक्ते` | 11 | 11 | MIXED | 23.10, 30.7, 47.38 | unreviewed |  |
-| `शुभराशौ` | 11 | 5 | MIXED | 39.22, 43.56, 46.140 | unreviewed |  |
-| `शुभसंयुक्ते` | 11 | 9 | MIXED | 13.9, 16.25, 21.4 | unreviewed |  |
 | `समाचरेत्` | 11 | 9 | MIXED | 52.31, 53.21, 56.49 | unreviewed |  |
-| `सहजाधीशे` | 11 | 1 | TOPIC | 24.25, 24.26, 24.27 | unreviewed |  |
-| `स्थानभ्रंशो` | 11 | 7 | MIXED | 47.41, 47.43, 53.17 | unreviewed |  |
-| `स्थितौ` | 11 | 7 | MIXED | 9.41, 30.16, 30.17 | unreviewed |  |
 | `कथिता` | 10 | 7 | MIXED | 3.49, 29.22, 29.27 | unreviewed |  |
 | `कार्या` | 10 | 8 | MIXED | 9.15, 18.41, 19.3 | unreviewed |  |
 | `कृपया` | 10 | 10 | MIXED | 1.3, 3.1, 6.1 | unreviewed |  |
@@ -354,15 +295,12 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `जीवो` | 10 | 7 | MIXED | 9.35, 10.3, 16.21 | unreviewed |  |
 | `ज्ञात्वा` | 10 | 8 | MIXED | 20.25, 28.17, 33.93 | unreviewed |  |
 | `तौ` | 10 | 7 | MIXED | 9.33, 14.3, 39.34 | unreviewed |  |
-| `दायेशाद्रिपुरन्ध्रस्थे` | 10 | 6 | MIXED | 52.13, 52.54, 53.29 | unreviewed |  |
 | `देहजीवौ` | 10 | 1 | TOPIC | 46.59, 46.60, 46.61 | unreviewed |  |
 | `देहारोग्यं` | 10 | 7 | MIXED | 46.131, 47.64, 52.25 | unreviewed |  |
 | `देहे` | 10 | 7 | MIXED | 17.1, 17.2, 46.125 | unreviewed |  |
 | `धनं` | 10 | 9 | MIXED | 13.4, 24.86, 40.10 | unreviewed |  |
 | `नाम` | 10 | 8 | MIXED | 3.61, 6.50, 30.3 | unreviewed |  |
-| `नीचराशिस्थे` | 10 | 6 | MIXED | 16.17, 18.35, 18.39 | unreviewed |  |
 | `पत्नीशापात्` | 10 | 1 | TOPIC | 83.82, 83.83, 83.84 | unreviewed |  |
-| `पश्यति` | 10 | 7 | MIXED | 8.2, 9.42, 16.6 | unreviewed |  |
 | `प्रकीर्तिताः` | 10 | 9 | MIXED | 2.8, 6.26, 6.40 | unreviewed |  |
 | `प्रवक्ष्यामि` | 10 | 10 | MIXED | 3.2, 8.1, 34.46 | unreviewed |  |
 | `बौधे` | 10 | 2 | TOPIC | 62.57, 62.58, 62.59 | unreviewed |  |
@@ -374,26 +312,20 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `राजसम्मानं` | 10 | 7 | MIXED | 31.16, 47.30, 54.10 | unreviewed |  |
 | `राशौ` | 10 | 7 | MIXED | 6.5, 28.15, 29.2 | unreviewed |  |
 | `विचक्षणैः` | 10 | 8 | MIXED | 6.12, 33.12, 41.17 | unreviewed |  |
-| `व्ययभावस्थे` | 10 | 2 | TOPIC | 15.10, 24.12, 24.24 | unreviewed |  |
-| `संस्थितः` | 10 | 7 | MIXED | 17.6, 19.2, 23.2 | unreviewed |  |
 | `सः` | 10 | 10 | MIXED | 13.6, 16.16, 24.28 | unreviewed |  |
-| `सबले` | 10 | 6 | MIXED | 21.2, 36.15, 36.17 | unreviewed |  |
 | `साहसी` | 10 | 4 | MIXED | 24.25, 24.35, 24.38 | unreviewed |  |
 | `सुखमाप्नोति` | 10 | 7 | MIXED | 47.32, 47.51, 49.13 | unreviewed |  |
 | `सुखे` | 10 | 6 | MIXED | 15.8, 15.9, 20.4 | unreviewed |  |
 | `सूर्यादीनां` | 10 | 6 | MIXED | 3.18, 3.33, 3.34 | unreviewed |  |
 | `स्वर्क्षे` | 10 | 10 | MIXED | 23.3, 32.26, 43.21 | unreviewed |  |
-| `स्वांशगते` | 10 | 2 | TOPIC | 33.17, 64.11, 64.12 | unreviewed |  |
 | `अपमृत्युभयं` | 9 | 6 | MIXED | 52.30, 52.46, 53.63 | unreviewed |  |
 | `अष्टमे` | 9 | 9 | MIXED | 17.24, 18.42, 24.32 | unreviewed |  |
 | `कथयाम्यहम्` | 9 | 7 | MIXED | 25.1, 26.2, 28.1 | unreviewed |  |
 | `करणं` | 9 | 1 | TOPIC | 66.15, 66.19, 66.24 | unreviewed |  |
 | `कर्के` | 9 | 3 | TOPIC | 64.12, 64.14, 64.15 | unreviewed |  |
 | `कारकांशाच्च` | 9 | 1 | TOPIC | 33.50, 33.52, 33.53 | unreviewed |  |
-| `जीवस्यान्तर्गते` | 9 | 1 | TOPIC | 56.8, 56.20, 56.32 | unreviewed |  |
 | `तं` | 9 | 6 | MIXED | 45.17, 45.32, 74.7 | unreviewed |  |
 | `त्वया` | 9 | 7 | MIXED | 1.5, 34.19, 43.2 | unreviewed |  |
-| `दायेशाद्वा` | 9 | 4 | MIXED | 56.43, 56.52, 56.54 | unreviewed |  |
 | `देहसौख्यं` | 9 | 7 | MIXED | 53.56, 55.41, 56.21 | unreviewed |  |
 | `द्वादशे` | 9 | 6 | MIXED | 9.29, 9.41, 15.14 | unreviewed |  |
 | `धनक्षयः` | 9 | 7 | MIXED | 13.8, 45.125, 45.140 | unreviewed |  |
@@ -402,14 +334,9 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `पदे` | 9 | 7 | MIXED | 17.5, 29.29, 29.33 | unreviewed |  |
 | `पश्चात्` | 9 | 5 | MIXED | 14.8, 14.9, 24.21 | unreviewed |  |
 | `पाते` | 9 | 2 | TOPIC | 25.14, 25.17, 25.18 | unreviewed |  |
-| `पापयुक्ते` | 9 | 8 | MIXED | 16.30, 33.2, 47.33 | unreviewed |  |
-| `पापा` | 9 | 6 | MIXED | 3.64, 31.4, 34.8 | unreviewed |  |
-| `पापैः` | 9 | 7 | MIXED | 9.18, 9.32, 9.44 | unreviewed |  |
-| `पापो` | 9 | 6 | MIXED | 9.28, 12.15, 13.2 | unreviewed |  |
 | `पितुः` | 9 | 8 | MIXED | 9.29, 9.40, 10.8 | unreviewed |  |
 | `पितृशापात्` | 9 | 1 | TOPIC | 83.20, 83.21, 83.22 | unreviewed |  |
 | `पुत्रलाभं` | 9 | 8 | MIXED | 16.31, 47.9, 50.27 | unreviewed |  |
-| `पुत्रस्थानाधिपे` | 9 | 2 | TOPIC | 16.16, 83.12, 83.21 | unreviewed |  |
 | `पुत्रो` | 9 | 7 | MIXED | 3.17, 3.40, 16.3 | unreviewed |  |
 | `पृष्टं` | 9 | 8 | MIXED | 1.5, 34.19, 43.2 | unreviewed |  |
 | `प्रेतशापात्` | 9 | 1 | TOPIC | 83.97, 83.98, 83.99 | unreviewed |  |
@@ -423,13 +350,86 @@ Regenerate: `python3 scripts/term_ledger.py --text bphs`
 | `मतिमान्` | 9 | 3 | TOPIC | 24.3, 24.15, 24.28 | unreviewed |  |
 | `मानहानिश्च` | 9 | 6 | MIXED | 54.39, 55.14, 55.27 | unreviewed |  |
 | `यस्याः` | 9 | 3 | TOPIC | 80.5, 81.5, 81.13 | unreviewed |  |
-| `युते` | 9 | 9 | MIXED | 12.3, 15.12, 33.23 | unreviewed |  |
 | `योगः` | 9 | 5 | MIXED | 10.8, 33.97, 35.10 | unreviewed |  |
 | `योगाः` | 9 | 5 | MIXED | 29.22, 29.27, 29.29 | unreviewed |  |
 | `राजदर्शनम्` | 9 | 6 | MIXED | 47.19, 52.32, 54.66 | unreviewed |  |
 | `राज्यलाभं` | 9 | 5 | MIXED | 47.20, 47.29, 47.46 | unreviewed |  |
-| `लाभभावस्थे` | 9 | 3 | TOPIC | 13.4, 24.23, 24.83 | unreviewed |  |
 | `लोके` | 9 | 6 | MIXED | 22.1, 35.48, 62.22 | unreviewed |  |
 | `वदेद्` | 9 | 7 | MIXED | 11.15, 11.16, 12.15 | unreviewed |  |
 | `विदुः` | 9 | 7 | MIXED | 7.43, 29.3, 31.5 | unreviewed |  |
+| `विद्वान्` | 9 | 6 | MIXED | 24.109, 25.26, 33.13 | unreviewed |  |
+| `शुक्रेण` | 9 | 8 | MIXED | 15.12, 17.11, 33.41 | unreviewed |  |
+| `सम्प्राप्ते` | 9 | 5 | MIXED | 18.39, 22.5, 22.8 | unreviewed |  |
+| `सर्वेषु` | 9 | 6 | MIXED | 1.17, 1.21, 1.22 | unreviewed |  |
+| `सूर्यो` | 9 | 9 | MIXED | 6.16, 9.25, 32.34 | unreviewed |  |
+| `सौभाग्यं` | 9 | 8 | MIXED | 53.7, 57.45, 59.8 | unreviewed |  |
+| `ृणु` | 9 | 9 | MIXED | 3.2, 5.14, 7.33 | unreviewed |  |
+| `कारकांशाद्` | 8 | 1 | TOPIC | 33.31, 33.63, 33.64 | unreviewed |  |
+| `क्रमेण` | 8 | 5 | MIXED | 3.15, 3.18, 3.34 | unreviewed |  |
+| `खेटानां` | 8 | 7 | MIXED | 3.9, 29.1, 43.16 | unreviewed |  |
+| `ग्रहः` | 8 | 5 | MIXED | 9.22, 32.3, 43.8 | unreviewed |  |
+| `ग्रहा` | 8 | 6 | MIXED | 5.9, 9.11, 9.23 | unreviewed |  |
+| `चतुष्पाज्जीवलाभकृत्` | 8 | 5 | MIXED | 47.51, 47.74, 54.50 | unreviewed |  |
+| `चिन्तयेत्` | 8 | 7 | MIXED | 9.2, 32.2, 39.3 | unreviewed |  |
+| `जातको` | 8 | 8 | MIXED | 13.10, 18.19, 22.1 | unreviewed |  |
+| `तुले` | 8 | 4 | MIXED | 3.54, 49.22, 64.27 | unreviewed |  |
+| `दद्याद्` | 8 | 7 | MIXED | 55.75, 72.22, 72.24 | unreviewed |  |
+| `दशाफलम्` | 8 | 3 | TOPIC | 47.5, 47.44, 47.52 | unreviewed |  |
+| `दिने` | 8 | 6 | MIXED | 3.36, 24.107, 24.109 | unreviewed |  |
+| `धनगेऽपि` | 8 | 6 | MIXED | 47.28, 53.35, 53.42 | unreviewed |  |
+| `धनम्` | 8 | 6 | MIXED | 24.18, 27.17, 47.64 | unreviewed |  |
+| `धर्मे` | 8 | 3 | TOPIC | 9.12, 31.15, 66.27 | unreviewed |  |
+| `नायकः` | 8 | 2 | TOPIC | 6.5, 41.2, 41.3 | unreviewed |  |
+| `निधनं` | 8 | 6 | MIXED | 9.5, 9.15, 18.39 | unreviewed |  |
+| `निश्चितम्` | 8 | 8 | MIXED | 9.44, 28.10, 30.41 | unreviewed |  |
+| `पञ्च` | 8 | 5 | MIXED | 7.18, 45.35, 46.44 | unreviewed |  |
+| `पञ्चमगे` | 8 | 4 | MIXED | 16.22, 16.29, 16.30 | unreviewed |  |
+| `पश्चिमे` | 8 | 6 | MIXED | 3.35, 8.7, 53.16 | unreviewed |  |
+| `पुरा` | 8 | 7 | MIXED | 27.13, 32.15, 39.2 | unreviewed |  |
+| `पुरुषाः` | 8 | 2 | TOPIC | 35.27, 35.29, 35.30 | unreviewed |  |
+| `प्रकल्पयेत्` | 8 | 6 | MIXED | 39.4, 46.206, 50.91 | unreviewed |  |
+| `प्रसादतः` | 8 | 6 | MIXED | 52.73, 53.52, 53.70 | unreviewed |  |
+| `भवे` | 8 | 3 | TOPIC | 7.39, 45.126, 66.16 | unreviewed |  |
+| `भूपो` | 8 | 4 | MIXED | 34.12, 36.17, 36.24 | unreviewed |  |
+| `भोजने` | 8 | 1 | TOPIC | 45.48, 45.60, 45.72 | unreviewed |  |
+| `भौमः` | 8 | 5 | MIXED | 9.34, 9.38, 18.42 | unreviewed |  |
+| `मानवो` | 8 | 3 | TOPIC | 25.11, 25.46, 25.64 | unreviewed |  |
+| `मिथः` | 8 | 6 | MIXED | 29.36, 32.26, 36.9 | unreviewed |  |
+| `मृतिः` | 8 | 2 | TOPIC | 44.26, 44.30, 44.31 | unreviewed |  |
+| `यस्या` | 8 | 3 | TOPIC | 80.44, 81.12, 81.14 | unreviewed |  |
+| `योगे` | 8 | 4 | MIXED | 35.25, 35.41, 35.47 | unreviewed |  |
+| `राजद्वारे` | 8 | 5 | MIXED | 21.4, 24.32, 54.41 | unreviewed |  |
+| `राजप्रीतिकरं` | 8 | 6 | MIXED | 52.25, 55.9, 55.61 | unreviewed |  |
+| `रोगी` | 8 | 3 | TOPIC | 24.8, 24.21, 24.68 | unreviewed |  |
+| `लभेत्` | 8 | 5 | MIXED | 47.20, 47.30, 47.50 | unreviewed |  |
+| `वक्ष्यामि` | 8 | 6 | MIXED | 1.6, 7.33, 7.38 | unreviewed |  |
+| `वाग्मी` | 8 | 4 | MIXED | 24.111, 24.115, 25.54 | unreviewed |  |
+| `वाहनाम्बरभूषणम्` | 8 | 6 | MIXED | 47.30, 52.49, 53.43 | unreviewed |  |
+| `विशेषेण` | 8 | 7 | MIXED | 7.21, 18.6, 32.27 | unreviewed |  |
+| `विषमे` | 8 | 4 | MIXED | 6.19, 6.23, 6.27 | unreviewed |  |
+| `विष्णुसाहस्रकं` | 8 | 7 | MIXED | 53.46, 55.39, 56.18 | unreviewed |  |
+| `शनिना` | 8 | 6 | MIXED | 9.40, 17.5, 17.7 | unreviewed |  |
+| `शयनं` | 8 | 3 | TOPIC | 45.30, 45.40, 45.52 | unreviewed |  |
+| `समं` | 8 | 7 | MIXED | 24.30, 28.10, 61.17 | unreviewed |  |
+| `समादिशेत्` | 8 | 8 | MIXED | 12.15, 22.9, 30.43 | unreviewed |  |
+| `सम्मानं` | 8 | 7 | MIXED | 46.136, 48.6, 55.48 | unreviewed |  |
+| `सर्पशापात्` | 8 | 1 | TOPIC | 83.9, 83.10, 83.11 | unreviewed |  |
+| `साधु` | 8 | 7 | MIXED | 1.5, 43.2, 46.2 | unreviewed |  |
+| `सुधीः` | 8 | 8 | MIXED | 5.12, 36.14, 75.13 | unreviewed |  |
+| `स्वप्रभोश्च` | 8 | 5 | MIXED | 54.58, 55.79, 57.18 | unreviewed |  |
+| `स्वांशके` | 8 | 3 | TOPIC | 15.3, 19.5, 64.6 | unreviewed |  |
+| `आरोग्यं` | 7 | 4 | MIXED | 54.8, 55.7, 55.69 | unreviewed |  |
+| `एते` | 7 | 5 | MIXED | 1.23, 2.2, 32.15 | unreviewed |  |
+| `कथितं` | 7 | 7 | MIXED | 2.11, 3.1, 5.7 | unreviewed |  |
+| `कुजः` | 7 | 6 | MIXED | 10.7, 17.24, 32.34 | unreviewed |  |
+| `कुजप्रत्यन्तरे` | 7 | 1 | TOPIC | 61.4, 61.12, 61.20 | unreviewed |  |
+| `कृष्णां` | 7 | 6 | MIXED | 52.31, 52.47, 53.38 | unreviewed |  |
+| `खे` | 7 | 2 | TOPIC | 32.27, 66.16, 66.19 | unreviewed |  |
+| `खेटस्य` | 7 | 6 | MIXED | 6.5, 6.33, 7.9 | unreviewed |  |
+| `गमनं` | 7 | 4 | MIXED | 45.26, 45.68, 45.118 | unreviewed |  |
+| `गुरुः` | 7 | 7 | MIXED | 3.10, 9.10, 24.52 | unreviewed |  |
+| `जन्मकाले` | 7 | 3 | TOPIC | 45.10, 45.81, 45.83 | unreviewed |  |
+| `जायन्ते` | 7 | 6 | MIXED | 16.29, 24.17, 41.33 | unreviewed |  |
+| `जैवे` | 7 | 1 | TOPIC | 80.10, 80.11, 80.12 | unreviewed |  |
+| `तत्फलं` | 7 | 7 | MIXED | 7.30, 45.37, 46.206 | unreviewed |  |
 
