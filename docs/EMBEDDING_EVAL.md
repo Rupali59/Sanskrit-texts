@@ -112,6 +112,76 @@ result kills a direction it did not test.
 
 ## Result
 
-**Not yet measured.** No arm has been run. This section must name the model and dimension, the
-measured N1 floor, the null distribution it clears, the per-text pass count out of 16, and the
-lexical baseline's score — or it is not a result.
+**PARTIAL — the lexical baseline arm only, run 2026-09-14. No embedding arm has run; no API
+spend. The goal this file answers stays OPEN.**
+
+### Lexical baseline — D1: **2 of 16. FAIL** (bar: ≥12 of 16)
+
+Instrument: Devanāgarī → IAST (`indic-transliteration` 2.3.82, python3.9), NFKD-normalised with
+combining marks stripped, **Dice coefficient over character 3-grams** against lowercased English.
+The Sanskrit side is held fixed across true and null pairs, so verse-length effects cancel.
+
+**The N1 null is exhaustive — all 2,410,736 within-chapter pairs, no sampling.** An earlier
+sampled version returned 1/16 and 2/16 on different seeds; the two sub-50-verse texts flip on
+sampling noise, which is why the deciding statistic enumerates.
+
+| | result |
+|---|---|
+| **D1 (N1, within-chapter)** | **2 of 16 — FAIL.** Passes: `muhurta_chintamani` (206 verses), `yajusha_jyotisham` (45 verses, margin 0.1262 vs 0.1260 — too thin to lean on) |
+| N2 (within-text) | 1 of 16 |
+| N3 (global) | 4 of 16 |
+| Mean AUC | **≈ 0.64** — real signal, about a coin weighted 64/36 |
+| Median true > median null | **15 of 16** texts |
+| Robustness | Jaccard/3-gram **1/16**; Dice/4-gram **4/16**. Not an artefact of the measure |
+
+**Harness validated** (`rule:discernment-checks` §1 — the code path must be able to report a
+pass). The identical script with the Sanskrit side replaced by the English itself — an oracle
+whose true pair scores exactly 1.0 — returns **15 of 16, PASS**. It can report a pass. It did not
+here.
+
+**Population:** 16,882 → **16,668** surviving after exclusions (157 shared-English, 74 under-40,
+13 marker strings — the marker class is a strict subset of the length class, so it adds nothing);
+6 further unscorable (`text` has zero 3-grams) reported as unscorable, never as a zero; 1
+N1-ineligible (sole verse in its chapter).
+
+*The protocol predicted 11 markers, the run measured 13. Reconciled: 11 is the subset that are
+**also** shared-English duplicates, while the "5 distinct strings" was over the full 13 — the two
+halves of that row came from two different populations, the same per-string-vs-per-verse split
+already flagged for 97 vs 157. Surviving n is 16,668 under either reading.*
+
+### What this decides, and what it does not
+
+**D2's cheap exit does NOT fire.** The lexical baseline is not a free triage tool, so the corpus
+does not get its triage instrument for nothing — and **D2 stays unanswered**, because it compares
+embeddings *to* this baseline and there is no embedding arm yet.
+
+**Per D4, stated explicitly: this falsifies lexical TRIAGE and nothing about retrieval**, in
+either direction, and says nothing about embeddings.
+
+**Why the signal that exists is the wrong signal:** N1 p95 > N3 p95 in most texts — within-chapter
+confusion is *harder* than global. Where character overlap works at all it is matching retained
+Sanskrit technical terms and proper nouns carried untranslated into the English, and those are
+exactly the tokens held constant across a chapter. It cannot do the operational job by
+construction.
+
+**The per-text N1 95th percentiles are now the measured floors an embedding arm must beat.** D3's
+triage floor is read off the embedding arm's N1 distribution, never off this one.
+
+### Blocking defect found by this arm — fix before any further arm runs
+
+**`phaladeepika`: 178 of 851 translated verses (20.9%) carry a template stub, not a translation.**
+`Chapter 21, Shloka 11 - Description of the subtle effects of planetary sub-sub-periods…`,
+incrementing only the verse number. All `status: translated`, all over 40 characters, none an
+exact-duplicate string — **so every one survives all three of this protocol's exclusions.**
+
+**Consequence for the protocol itself: `phaladeepika` cannot pass D1 for ANY instrument, a perfect
+one included.** Its oracle N1 p95 is **1.0000** — more than 5% of its within-chapter null pairs
+are genuine duplicates, so no median can exceed the 95th percentile. **The effective denominator
+is 15, not 16**, until those 178 are fixed, and that is the single failure in the 15/16 oracle.
+
+**Also: 18 `minaraja` verses have a `text` field containing no Devanāgarī at all** (runs of
+`..........`). **The exclusions clean the English side only** — they need a Devanāgarī-side rule
+and a near-duplicate (not exact-string) rule.
+
+**Order of work:** fix the 178 stubs → extend the exclusions to the Devanāgarī side and to
+near-duplicates → then run the embedding arms against the table above.
