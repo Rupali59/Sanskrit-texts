@@ -174,14 +174,88 @@ triage floor is read off the embedding arm's N1 distribution, never off this one
 incrementing only the verse number. All `status: translated`, all over 40 characters, none an
 exact-duplicate string — **so every one survives all three of this protocol's exclusions.**
 
-**Consequence for the protocol itself: `phaladeepika` cannot pass D1 for ANY instrument, a perfect
-one included.** Its oracle N1 p95 is **1.0000** — more than 5% of its within-chapter null pairs
-are genuine duplicates, so no median can exceed the 95th percentile. **The effective denominator
-is 15, not 16**, until those 178 are fixed, and that is the single failure in the 15/16 oracle.
+**Consequence — CORRECTED 2026-09-14 by the embedding arm.** This originally read *"`phaladeepika`
+cannot pass D1 for ANY instrument… the effective denominator is 15, not 16."* **That is a property
+of the LEXICAL instrument, not of the corpus.** Under Dice-3-gram the 178 stubs score ≈1.0 against
+each other, putting the oracle p95 at 1.0000; under cosine they score **0.95–0.985**, because an
+embedding does not treat two near-identical strings as identical. The embedding oracle returns
+**16 of 16**, and `phaladeepika`'s oracle p95 there is **0.9638**. **Do not carry "denominator 15"
+forward unqualified.** The 178 stubs still do real damage — `phaladeepika` has the worst AUC
+(0.672) and the worst margin (−29.6%) of any text in the embedding arm — but they bar it from
+passing only under a character-overlap measure.
 
 **Also: 18 `minaraja` verses have a `text` field containing no Devanāgarī at all** (runs of
 `..........`). **The exclusions clean the English side only** — they need a Devanāgarī-side rule
 and a near-duplicate (not exact-string) rule.
+
+### Embedding arm — `text-embedding-3-large`, run 2026-09-14
+
+**Pinned:** `text-embedding-3-large`, **3072 dimensions**, OpenAI `/v1/embeddings`, no dimension
+reduction. L2-normalised once; cosine. Both sides verbatim — no preprocessing — so verse-length
+effects are held as the lexical arm held them.
+
+**Cost: $0.349.** 33,308 unique strings, 174 batched requests, 2,685,497 tokens. Cached per
+batch; a retry re-spends nothing.
+
+**Read from `git archive HEAD`, not the working tree** — a translation job had left 7 files
+unreadable there. All 66 parsed from HEAD. Population reproduces the lexical arm exactly:
+**16,668** surviving (157 / 13 / 74 excluded), 16 texts, **0 unscorable**.
+
+**N1 exhaustive: 2,411,676 pairs** — 940 more than the lexical arm, reconciled: that arm dropped
+6 verses it could not 3-gram (5 `minaraja` verses whose `text` is `..........`), removing their
+chapters' pairs. Embeddings score those.
+
+> ## D1 — **5 of 16. FAIL** (bar ≥12)
+>
+> **And 3 of the 5 passes are SINGLE-CHAPTER texts** — `saravali` (1 ch), `yajusha_jyotisham`
+> (1 ch), `arch_jyotisham` (1 ch) — where the within-chapter null is degenerate and collapses
+> into the global one. **Among the 13 texts with real chapter structure: 2 of 13**
+> (`brihat_samhita`, 106 chapters; `bhrigu_sutram`, 8). Verified independently. **The headline 5
+> is flattered by corpus structure.**
+
+| | embedding | lexical |
+|---|---|---|
+| D1 | **5 of 16** (2 of 13 multi-chapter) | 2 of 16 |
+| Mean AUC vs N1 | **0.870** | 0.673 |
+| Median true > median null | **16 of 16** | 15 of 16 |
+| N2 | 8 of 13 evaluable (3 not computable — single chapter) | 1 of 16 |
+| N3 | 11 of 16 | 4 of 16 |
+
+**The two largest texts fail worst.** `minaraja` (4,012) −15.1% and `bphs` (3,816) −12.9% —
+together 47% of the population. A triage queue that systematically under-ranks those two is worse
+than no queue, which is what the ≥12 bar exists to catch.
+
+**Harness validated three ways** (`rule:discernment-checks` §1): oracle (Devanāgarī replaced by
+the English itself) **16 of 16 PASS**; negative control (English deranged within chapter, two
+seeds) **0 of 16** both times; real arm 5 of 16. It can report a pass and it can report a floor.
+
+**D2 cannot be satisfied as written.** It requires beating lexical "in at least the same 12
+texts"; neither instrument reaches 12, so the clause is unreachable. Scale-free, the embedding
+beats lexical in **13 of 16** — but **the pass-sets are not nested**: the embedding *loses*
+`muhurta_chintamani`, which lexical passes. Better nearly everywhere, and still not containing
+the baseline.
+
+**D3 — there is no single corpus-wide floor.** The per-text N1 p95 ranges **0.2996–0.4125**, a
+spread of 0.11. Any triage threshold would have to be per text. That is itself a result.
+
+**Mismatch logged, not resolved.** An independent lexical re-run during this arm measured **3 of
+16** against the committed **2 of 16**, diverging on `arch_jyotisham` (0.1008 vs p95 0.0889 — not
+a thin margin), reproduced by a second implementation. Attributed to normalisation detail between
+two implementations. **The committed 2 of 16 stands as the pre-registered baseline of record.**
+
+### Verdict — embedding triage does not work here, and a different model will not fix it
+
+**Per D4: this falsifies embedding-based TRIAGE and nothing about retrieval**, in either
+direction.
+
+The signal is real and large — AUC 0.870 means a true pair beats a random within-chapter false
+pair about 8.4 times in 10. **It fails anyway, and structurally rather than marginally.** D1 asks
+the *median* true pair to clear the *95th percentile* of the null, which needs something near AUC
+0.98. The distributions overlap because **a chapter is 40 verses on one topic in one translator's
+register, so a wrong pairing inside it is genuinely similar text.** The model is right that those
+verses resemble each other. D1 is asking it to be wrong about that.
+
+**What remains open is retrieval**, where AUC 0.87 is encouraging and a different bar applies.
 
 **Order of work:** fix the 178 stubs → extend the exclusions to the Devanāgarī side and to
 near-duplicates → then run the embedding arms against the table above.
