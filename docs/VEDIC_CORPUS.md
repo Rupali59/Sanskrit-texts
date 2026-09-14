@@ -10,12 +10,12 @@ Each Veda branches into four layers: **संहिता** (mantra), **ब्�
 these texts exist on disk", which was true for about one day. Derive what is held, never
 restate it; `docs/INVENTORY.md` is the registry, and the command is in `CLAUDE.md`.
 
-### What is held, as of 2026-08-24
+### What is held — derived 2026-09-14, and `check_inventory.py` is what keeps it true
 
 | Layer | Held | Of | Note |
 |---|---:|---:|---|
 | **संहिता** | **5** | 13 | The **primary recension of every Veda**, plus both Yajurveda branches: Śākala (RV), Taittirīya (KYV), Mādhyandina (ŚYV), Kauthuma (SV), Śaunaka (AV) |
-| **उपनिषद्** | **24** | 17+ | **All 13 mukhya**, plus 11 minor |
+| **उपनिषद्** | **20** | 17+ | **All 13 mukhya**, plus 7 minor. Was 24 until 2026-08-25, when four **Yoga** Upaniṣads went to Youvan — Tejobindu, Yogatattva, Amṛtanāda, Brahmabindu (666 verses). No mukhya moved |
 | **ब्राह्मण** | — | 16 | **Youvan's, from 2026-08-24** — not this corpus |
 | **आरण्यक** | — | 5 | **Youvan's, from 2026-08-24** — not this corpus |
 
@@ -34,7 +34,7 @@ of the 21 were held**, so this reassigned a scope, not files. The rows above rea
 
 ### The line is drawn by LAYER, and getting that wrong costs four mukhya Upaniṣads
 
-**Seven of the 24 Upaniṣads held here are textually chapters of a Brāhmaṇa or Āraṇyaka.**
+**Seven of the 20 Upaniṣads held here are textually chapters of a Brāhmaṇa or Āraṇyaka.**
 They stay. Reading the split by *containing work* instead of by *layer* would hand Youvan
 1,497 verses including four principal Upaniṣads:
 
