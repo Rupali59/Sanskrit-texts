@@ -96,6 +96,7 @@ def load_corpus(root: Path) -> dict[str, dict]:
             "cat": j.get("category"),
             "dupes": dupes,
             "titles": f"{j.get('title_en', '')} {j.get('title_sa', '')}",
+            "authority": (j.get("structure") or {}).get("count_authority"),
         }
     return out
 
@@ -171,6 +172,20 @@ def main() -> int:
             )
     else:
         fail.append("no **Totals:** line found — cannot check the aggregate")
+
+    # A text that loses shlokas to the seeder MUST say so. Three texts do (declared
+    # 2026-09-14 after a corpus-wide audit found 70 losses across five distinct shapes);
+    # any NEW one is a silent regression. This is the check whose absence let 55 shlokas
+    # sit un-ingested in jataka_parijata for months: contiguity passed, totals matched,
+    # and only key DISTINCTNESS broke — which nothing tested, because seed_texts.py logs
+    # the collision and drops the row rather than failing (G8).
+    for tid in sorted(corpus):
+        v = corpus[tid]
+        if v["dupes"] and not v["authority"]:
+            fail.append(
+                f"{tid}: loses {v['dupes']} shloka(s) to the (chapter, shloka) dedupe but "
+                f"declares no count_authority — a silent loss must be declared, not discovered"
+            )
 
     # HELD must mean held. This is what the ✅-prefix-plus-banners layout could not assert.
     # A section that exists but parses to zero rows is a READER FAILURE, not a clean result
