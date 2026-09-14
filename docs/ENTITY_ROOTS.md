@@ -20,13 +20,13 @@ Measured 2026-09-14 over BPHS's 3,937 verses. Regenerate: `python3 scripts/entit
 
 | entity | verses | % | roots |
 |---|---:|---:|---:|
-| GRAHA | 1328 | 33.7% | 34 |
+| GRAHA | 1314 | 33.4% | 41 |
 | BHAVA | 1187 | 30.1% | 28 |
 | DASHA | 537 | 13.6% | 8 |
 | YOGA | 369 | 9.4% | 6 |
 | RASHI | 285 | 7.2% | 12 |
 | VARGA | 178 | 4.5% | 11 |
-| **any entity** | **2749** | **69.8%** | **99** |
+| **any entity** | **2738** | **69.5%** | **106** |
 
 With the 53 relational markers, **94.5% of BPHS verses carry at least one feature**, and
 **62.5% carry both an entity and a relation** — which is the number that matters, because that
@@ -36,13 +36,13 @@ is the share of the book stating a proposition the feature layer can represent.
 
 | entity | roots |
 |---|---|
-| GRAHA · sun | `सूर्य` `रवि` `भास्कर` `भानु` |
-| GRAHA · moon | `चन्द्र` `शशि` `विधु` `इन्दु` `सोम` `हिमांशु` |
-| GRAHA · mars | `कुज` `भौम` `मङ्गल` `अङ्गारक` `रुधिर` |
-| GRAHA · mercury | `बुध` |
+| GRAHA · sun | `सूर्य` `रवि` `भास्कर` `भानु` `दिवानाथ` `दिवाकर` |
+| GRAHA · moon | `चन्द्र` `शशि` `विधु` `इन्दु` `सोम` `हिमांशु` `कुमुद` |
+| GRAHA · mars | `कुज` `भौम` `मङ्गल` `अङ्गारक` `रुधिर` `भूसुत` `भूपुत्र` |
+| GRAHA · mercury | `बुध` `सोमसुत` `धरात्मज` |
 | GRAHA · jupiter | `जीव` `बृहस्पति` `देवेज्य` `गुरु` |
 | GRAHA · venus | `शुक्र` `भृगु` `भार्गव` |
-| GRAHA · saturn | `शनि` `मन्द` `सूर्यज` `अर्कज` `छायासुत` |
+| GRAHA · saturn | `शनि` `मन्द` `सूर्यज` `अर्कज` `छायासूनु` `सौरि` `भानुज` |
 | GRAHA · rahu | `राहु` `राहो` `स्वर्भानु` |
 | GRAHA · ketu | `केतु` `केतो` `शिखि` |
 | BHAVA | `लग्न` `धन` `सहज` `भ्रातृ` `सुख` `वाहन` `मातृ` `सुत` `पुत्र` `पञ्चम` `षष्ठ` `रिपु` `अरि` `दार` `द्यून` `जाया` `सप्तम` `रन्ध्र` `अष्टम` `भाग्य` `धर्म` `पितृ` `कर्म` `राज्य` `लाभ` `व्यय` `मारक` `भाव` |
@@ -67,7 +67,7 @@ kinds of thing.
 | **strict — the root carries a lord-suffix, a locative `-े`, or a position marker** | **1187** | **30.1%** |
 
 The 1,307-verse gap is verses where the word is the **result**, not the house. The table above
-reports strict. Reporting loose would have doubled BHAVA and pushed "any entity" from 69.8% to
+reports strict. Reporting loose would have doubled BHAVA and pushed "any entity" from 69.5% to
 84.5% — a number that is true of *bhāva vocabulary* and false of *bhāva discussion*
 (`rule:discernment-checks` §5: state what the measurement is over).
 
@@ -127,6 +127,7 @@ Applied per token, never per verse, for the reason given in `RELATION_MARKERS.md
 | `केतु` | `केतुमाल` | a region name |
 | `अरि` | `अरिष्ट` `चारि` | `अरिष्ट` is its own YOGA root |
 | `धर्म` | `अधर्म` | the negation is not the 9th house |
+| `जीव` | `जीवति` `जीवलाभ` `देहजीव` `जीवेषु` | **"living being" / "lives"**, not Jupiter — `जीवति`, `देहजीवौ` "body and life", `चतुष्पाज्जीवलाभकृत्` "gain of four-footed creatures". Found by the spot-check sheet on its first generation, in verse 1.21 |
 | `योग` | `योगिनी` | `योगिनी` is a **daśā** system and is already a DASHA root — counting it as a yoga double-counts one concept under two types |
 
 **The `X-सुत`/`X-ज` pattern is the sharpest of these: a graha's name inside a patronymic names
@@ -251,3 +252,39 @@ house. BPHS says **`लग्न`**, 498 verses, 9 of them in ch12.
 `तनु` is a correct classical name and is not wrong in astroacharya. It is simply the wrong
 **key** for reaching this corpus, which is exactly the kind of thing only a cross-check
 surfaces — neither list is defective on its own terms.
+
+## Cross-checked against this repo's own BPHS_Master_Lexicon.md
+
+`docs/BPHS_Master_Lexicon.md` declares itself *"the Source of Truth for shloka-level tagging"*
+and was hand-curated, independently, before any of this. It is therefore the closest thing to a
+dictionary check available without leaving the repo — and it earned its place three ways.
+
+**1 · It caught a wrong form in this list.** `छायासुत` (Saturn) occurs **0 times** in BPHS. The
+lexicon's `Chhayasunu` → `छायासूनु` is the form the text actually uses. **A root that never
+fires is a claim that cannot fail** (`rule:discernment-checks` §1) and would have sat here
+looking like coverage.
+
+**2 · It supplied six roots the harvest missed**, all verified against surface forms before
+being accepted:
+
+| added | for | verses | first seen as |
+|---|---|---:|---|
+| `सौरि` | saturn | 10 | `सौरिः`, `सौरिभौमेक्षितं`, `सौरिबुधौ` |
+| `भूसुत` | mars | 7 | `भूसुते`, `जीवार्कभूसुताः` |
+| `भूपुत्र` | mars | 4 | `भूपुत्रो`, `क्षीणेन्द्वर्कार्किभूपुत्राः` |
+| `भानुज` | saturn | 4 | `भानुजः` — previously only an *exclusion*, never a root |
+| `दिवानाथ` `दिवाकर` | sun | 3 | `दिवानाथो`, `दिवाकरः` |
+| `कुमुद` `धरात्मज` `छायासूनु` | moon, mercury, saturn | 1 each | `कुमुदबान्धवः`, `धरात्मजः` |
+
+GRAHA rises 1,328 → 1,338 verses, then falls to 1,314 once the spot-check exposes जीव. A small gain, and an honest one: the long tail of graha
+synonyms is genuinely long and genuinely thin.
+
+**3 · And its own suggestions needed the same surface check, so it is a validator and not an
+oracle.** It offers `Kavi` and `Kavya` for Venus. In BPHS `कवि` is 22 verses of `कविर्वाग्मी`
+("poet and eloquent") and `लोकविश्रुतः`; `काव्य` is `काव्यकर्ता`, `काव्यकृत्`, `काव्यज्ञो`.
+Both are **poetry**, not Venus, and both are rejected. `सूर्यसुत`, `सुधांशु` and `अर्कि` were
+also offered and occur **zero** times.
+
+**The general form: a lexicon proposes candidates; only the corpus accepts them.** Taking the
+Master Lexicon as authoritative would have added `कवि` and shipped 22 false Venus verses — the
+same failure as taking Amarakośa or astroacharya as the source rather than the validator.
