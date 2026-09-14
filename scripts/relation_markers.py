@@ -34,15 +34,37 @@ DOC = REPO / "docs" / "RELATION_MARKERS.md"
 # A coverage row: | CONCEPT | 1342 | 34.1% | `स्थित` `स्थ` ... |
 ROW = re.compile(r"^\|\s*(?:\*\*)?([A-Z_]+|any marker)(?:\*\*)?\s*\|")
 TICKED = re.compile(r"`([^`]+)`")
+# An exclusion row: | `ेश` | `देश` `क्लेश` | why |   — lowercase/Devanagari first cell, so it
+# cannot collide with ROW, which anchors on an ASCII-uppercase concept name.
+EXCL_ROW = re.compile(r"^\|\s*`([^`]+)`\s*\|\s*((?:`[^`]+`\s*)+)\|")
+WORD = re.compile(r"[ऀ-ॣ॰-ॿ]+")
+
+
+def matches(verse, marker, excl):
+    """True if some TOKEN carries the marker and none of its exclusions.
+
+    Per-token, never per-verse. A verse reading "the lagna-lord causes travel to a
+    foreign country" holds both लग्नेशे and विदेशगमनं; it is a true LORDSHIP hit.
+    Excluding the whole verse would trade a false positive for a false negative and
+    report the trade as an improvement.
+    """
+    bad = excl.get(marker, ())
+    if not bad:
+        return marker in verse
+    return any(marker in w and not any(e in w for e in bad) for w in WORD.findall(verse))
 
 
 def load_markers(doc_path):
-    """Parse the curated coverage table. Returns ({concept: [markers]}, {concept: verses})."""
+    """Parse the curated tables. Returns ({concept: [markers]}, {concept: verses}, {marker: [excl]})."""
     if not doc_path.exists():
         print(f"could not run: no marker doc at {doc_path}", file=sys.stderr)
-        return None, None
-    concepts, stated = {}, {}
+        return None, None, None
+    concepts, stated, excl = {}, {}, {}
     for line in doc_path.read_text(encoding="utf-8").splitlines():
+        e = EXCL_ROW.match(line)
+        if e and not ROW.match(line):
+            excl[e.group(1)] = TICKED.findall(e.group(2))
+            continue
         m = ROW.match(line)
         if not m:
             continue
@@ -61,8 +83,8 @@ def load_markers(doc_path):
         stated[name] = int(n) if n else None
     if not concepts:
         print(f"could not run: parsed {doc_path} but found no marker rows", file=sys.stderr)
-        return None, None
-    return concepts, stated
+        return None, None, None
+    return concepts, stated, excl
 
 
 def load_text(text_id):
@@ -86,7 +108,7 @@ def main():
                     help="print marker strings one per line (for term_ledger.py --known) and exit")
     args = ap.parse_args()
 
-    concepts, stated = load_markers(DOC)
+    concepts, stated, excl = load_markers(DOC)
     if concepts is None:
         return 2
 
@@ -108,14 +130,14 @@ def main():
 
     tot = len(verses)
     all_markers = [m for ms in concepts.values() for m in ms]
-    any_cov = sum(1 for t in verses if any(m in t for m in all_markers))
+    any_cov = sum(1 for t in verses if any(matches(t, m, excl) for m in all_markers))
 
     print(f"{args.text}  ({rel})  {tot:,} verses · {len(all_markers)} markers")
     print()
     drift = []
     for concept, ms in sorted(concepts.items(), key=lambda kv: -sum(
-            1 for t in verses if any(m in t for m in kv[1]))):
-        n = sum(1 for t in verses if any(m in t for m in ms))
+            1 for t in verses if any(matches(t, m, excl) for m in kv[1]))):
+        n = sum(1 for t in verses if any(matches(t, m, excl) for m in ms))
         flag = ""
         if args.text == "bphs" and stated.get(concept) not in (None, n):
             flag = f"   <- doc says {stated[concept]:,}"

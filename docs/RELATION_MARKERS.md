@@ -7,7 +7,7 @@ Same split as `docs/INVENTORY.md` ↔ `check_inventory.py`.
 
 An entity model alone cannot represent a verse. `(Mars, 4th)` is two nouns; `(Mars, स्थित, 4th)`
 is a claim. And the relational vocabulary is **an order of magnitude cheaper to capture**: one
-graha takes ~857 surface forms, while **53 markers cover 73.5% of BPHS's 3,937 verses**.
+graha takes ~857 surface forms, while **53 markers cover 72.5% of BPHS's 3,937 verses**.
 
 Measured 2026-09-14 over BPHS. Regenerate with
 `python3 scripts/relation_markers.py --text bphs`.
@@ -17,15 +17,15 @@ Measured 2026-09-14 over BPHS. Regenerate with
 | concept | verses | % | markers |
 |---|---:|---:|---|
 | POSITION | 1342 | 34.1% | `स्थित` `स्थ` `गत` `संस्थ` `वर्ती` `आश्रित` |
-| LORDSHIP | 1043 | 26.5% | `ेश` `ाधिप` `ाधीश` `नाथ` `पति` `ेश्वर` |
+| LORDSHIP | 938 | 23.8% | `ेश` `ाधिप` `ाधीश` `नाथ` `पति` `ेश्वर` |
 | CONJUNCTION | 846 | 21.5% | `युत` `युक्त` `संयुत` `सहित` `समन्वित` `सम्बन्ध` |
 | POLARITY | 763 | 19.4% | `शुभ` `पाप` `सौम्य` `क्रूर` |
 | MODALITY | 610 | 15.5% | `यदि` `चेत्` `तदा` `स्यात्` `भवेत्` |
 | DIGNITY | 488 | 12.4% | `स्वोच्च` `उच्च` `नीच` `तुङ्ग` `स्वक्षेत्र` `स्वगृह` `मूलत्रिकोण` `मित्र` `शत्रु` |
 | HOUSE_GROUP | 302 | 7.7% | `केन्द्र` `त्रिकोण` `उपचय` `अपोक्लिम` `पणफर` `दुःस्थान` |
-| STATE | 279 | 7.1% | `अस्त` `बल` `निर्बल` `बली` `दीप्त` `मुदित` |
+| STATE | 262 | 6.7% | `अस्त` `बल` `निर्बल` `बली` `दीप्त` `मुदित` |
 | ASPECT | 264 | 6.7% | `दृष्ट` `पश्य` `वीक्ष` `निरीक्ष` `अवलोक` |
-| **any marker** | **2894** | **73.5%** | **53 markers** |
+| **any marker** | **2854** | **72.5%** | **53 markers** |
 
 **`HOUSE_GROUP` is why a `(graha, bhāva)` model is insufficient.** 7.7% of verses speak of
 *kendras* (1/4/7/10) and *trikoṇas* (1/5/9) as groups — *"Jupiter in a kendra"* has no
@@ -51,15 +51,39 @@ This is not a tuning detail — it is a **20× undercount** that would have look
 rare in BPHS". Any marker beginning with an independent vowel needs its matra form checked against
 real text before it is trusted.
 
-Precision of `ेश` is close to perfect — every frequent match is a bhāva-lord:
+**Precision of `ेश` is 83.2%, NOT "close to perfect" — corrected 2026-09-14, same day it was
+written.** The original claim came from reading the ten most frequent forms, every one of them a
+genuine bhāva-lord:
 
 ```
 लग्नेशे 59 · भाग्येशे 28 · धनेशे 26 · लाभेशे 26 · व्ययेशे 26
 सुतेशे 22 · कर्मेशे 22 · रन्ध्रेशे 21 · सुखेशे 19 · दारेशे 19
 ```
 
-**And it yields bhāva vocabulary for free** — `रन्ध्र` (8th), `दार` (7th), `भाग्य` (9th),
+The head is clean and the **tail is not**: `देश` ("country") and `क्लेश` ("affliction") both
+contain the suffix. **125 of the 742 `ेश` verses — 16.8% — match nothing but those**:
+`विदेशगमनं` "going abroad" (16), `विदेशे` (6), `देशे` (5), `क्लेशकरं` (5), `देशत्यागो` (5),
+`स्वदेशे` (4). Inspecting the head of a distribution and generalising to the whole of it is the
+same error as trusting the first ten rows of any ranked list — the exclusions below fix it, and
+LORDSHIP drops from 1,043 verses to 938.
+
+**It does still yield bhāva vocabulary for free** — `रन्ध्र` (8th), `दार` (7th), `भाग्य` (9th),
 `सुत` (5th) — classical names the chapter titles do not all use.
+
+## Exclusions — a marker minus the words that merely contain it
+
+The script reads this table. A verse counts for a marker only if some token contains the marker
+**and** contains none of its exclusions.
+
+| marker | excluded | why |
+|---|---|---|
+| `ेश` | `देश` `क्लेश` | "country" and "affliction", not lordship — 16.8% of raw `ेश` hits |
+| `बल` | `बलि` | `बलि` is an offering / the demon Bali, not strength — 17 verses |
+
+**Exclusion is per-token, never per-verse.** A verse reading *"the lagna-lord causes travel to a
+foreign country"* contains both `लग्नेशे` and `विदेशगमनं`; it is a true LORDSHIP hit and must stay
+one. Dropping the whole verse because one token is excluded would trade a false positive for a
+false negative and report the trade as an improvement.
 
 ## Known imprecision, stated rather than hidden
 
