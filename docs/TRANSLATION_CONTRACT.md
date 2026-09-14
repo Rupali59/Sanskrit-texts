@@ -23,8 +23,8 @@ doc = json.loads(p.read_text(encoding="utf-8"))     # PARSE
 for ch in doc["chapters"]:                           # MUTATE THE OBJECT
     for sh in ch["shlokas"]:
         if sh.get("status") == "untranslated":
-            sh["english"] = translate(sh["text"])
-            sh["status"] = "partial" if not sh.get("hindi") else "translated"
+            sh["english_draft"] = translate(sh["text"])   # DRAFT, not `english` — see §2
+            sh["status"] = "drafted"
 
 p.write_text(                                        # SERIALISE, ONCE
     json.dumps(doc, ensure_ascii=False, indent=2) + "\n",
