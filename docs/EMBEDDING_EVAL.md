@@ -112,8 +112,18 @@ result kills a direction it did not test.
 
 ## Result
 
-**PARTIAL — the lexical baseline arm only, run 2026-09-14. No embedding arm has run; no API
-spend. The goal this file answers stays OPEN.**
+**BOTH ARMS RUN 2026-09-14. Lexical D1 = 2 of 16. Embedding D1 = 5 of 16, and 3 of those 5 are
+single-chapter texts — 2 of 13 among texts with real chapter structure. Both FAIL the ≥12 bar.**
+
+**Verdict: embedding-based triage does not work on this corpus, and a different model will not
+fix it** — the failure is structural, not marginal. Per **D4** this falsifies *triage* and says
+nothing about *retrieval*, where the measured AUC of 0.870 is encouraging and a different bar
+applies.
+
+**Goal 3 stays OPEN**, and the reason is worth being exact about: the *measurement* it asks for
+is now done and recorded — that half is discharged. What is not done is the other half, "the
+model **serving retrieval** was chosen on evidence". Nothing serves retrieval yet. **The
+measurement having a negative answer is a result, not a failure to measure.**
 
 ### Lexical baseline — D1: **2 of 16. FAIL** (bar: ≥12 of 16)
 
