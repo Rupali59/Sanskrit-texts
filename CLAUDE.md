@@ -28,12 +28,10 @@ docs/   INVENTORY.md (the manifest) · DECISIONS.md · BPHS_Master_Lexicon.md ·
 ```
 
 **The top level carries TWO classification systems, and one word collides across them.**
-`Hora/` · `Siddhanta/` · `Samhita/` · `Muhurta/` are the **Jyotiṣa** scheme (Horā, Gaṇita,
-Saṃhitā, Muhūrta). `Veda/` · `Upanishad/` are the **Vedic layer** scheme. Until 2026-08-24
-the five Vedic Saṃhitās sat inside `Samhita/` beside Varāhamihira's Bṛhat Saṃhitā — the same
-spelling, two unrelated meanings. `Veda/` split them apart. `Vedanga-Jyotisha/` belongs to a
-**third** axis, the six Vedāṅgas, and is the only one of them still here now that `Kalpa/`
-has gone to Youvan.
+`Hora/` · `Siddhanta/` · `Samhita/` · `Muhurta/` are the **Jyotiṣa** scheme, so `Samhita/` is
+Varāhamihira's Bṛhat Saṃhitā; `Veda/` · `Upanishad/` are the **Vedic layer** scheme, and `Veda/`
+holds the five Vedic Saṃhitās. `Vedanga-Jyotisha/` is a **third** axis, the six Vedāṅgas, and is
+the only one still here now that `Kalpa/` has gone to Youvan.
 
 **Sources live in `../sanskrit-texts-sources/`**, mirroring the same tree — Devanagari
 `.wikitext`/`.html`/`.xml` fetches, transcriptions (`.md`), OCR (`.txt`), scans (`.pdf`) —
@@ -42,14 +40,10 @@ layer: `.json` and nothing else. `.gitignore` enforces it; all prose lives in `d
 
 **Every text is on the one-file rule as of 2026-09-02** — the last holdout, `ApastambaDharmaSutra`, was re-digitised by `scripts/sanskrit-convert/apastamba.py`.
 
-**Undigitised texts: derive it, never restate it here** — this line said 13 until 2026-09-04,
-when four landed in a day. Register: [`docs/INVENTORY.md`](./docs/INVENTORY.md) §"Undigitised";
-five more are held but **refused on measured OCR quality**, each with its number in
-`propagation/state/sanskrit-texts/STATE.md`. **As of 2026-09-05 no text is unsourced** — only
-`GargaSamhita` (omens) lacks one, as it always has; the distinct jyotiṣa `GargaHora` is held.
-**How that closed does not generalise:** the seven-channel survey calling these texts absent was
-right and stands — none of them carries Muhūrta, Praśna, Jātaka or Nāḍī literature. Rupali
-supplied the scans; **for this genre the channel is human.** [`docs/SOURCES.md`](./docs/SOURCES.md).
+**Acquisition state is a table, not a sentence.** [`docs/INVENTORY.md`](./docs/INVENTORY.md)
+§"Acquisition status" gives every pursued text one row and one status — `HELD` · `SOURCED` ·
+`REFUSED` · `UNSOURCED` · `LOST` — and `scripts/check_inventory.py` fails if that column and the
+corpus disagree. Provenance and terms: [`docs/SOURCES.md`](./docs/SOURCES.md).
 
 ## Uniform JSON schema
 
@@ -81,20 +75,14 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 **Field notes:**
 - `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
-- `category` — `"parashari"` | `"nadi"` | `"siddhanta"` | `"samhita"` | `"veda_samhita"` | `"upanishad"` | `"vedanga_jyotisha"` | `"muhurta"` | `"dharmashastra"` | `"jaimini"`. **Re-derived 2026-08-24** — the Vedic corpus added `veda_samhita` (5 texts) and `upanishad` (24); `kalpa` left with Kalpa/ on 2026-08-24. It is a plain string in the schema, not an enum, so nothing rejects a typo: a misspelt category makes a text silently invisible to any category filter rather than failing. `jaimini` was added 2026-09-04 when `jaimini_sutra` became the first text to declare it — and `astroacharya/scripts/validate_corpus.py`'s `KNOWN_CATEGORIES` had to be widened in the same change, because that allowlist is the ONLY thing checking this field. The `prashna` tree still holds only a placeholder, so nothing declares it yet.
+- `category` — a plain string, **not** an enum, so the schema rejects nothing. The one thing that rejects a typo is `KNOWN_CATEGORIES` in `astroacharya/scripts/validate_corpus.py`, and **no hook or test here runs it** — so adding a category is a two-repo change, and a misspelt one goes silently invisible to every category filter while all counts stay green. **Do not restate the list here**: this bullet carried its own copy until 2026-09-14 and it had rotted to 10 of the 14 in use. **G51**.
 - `status` — `"translated"` (both languages present) | `"partial"` (one language) | `"untranslated"` (neither) | `"drafted"` (machine-drafted, **not yet verified**)
 - `english_draft` / `hindi_draft` — **optional, and the whole publication gate.** Machine-drafted
   translation lives here and **never** in `english`/`hindi`. Verification *promotes* a draft into
-  the served field and flips `status` to `translated`, clearing the draft it consumed.
-
-  **Why the fields are separate rather than a filter.** `app/api/texts.py` returns the Mongo
-  document wholesale and filters on **nothing**; `seed_texts.py`'s `_normalize_shloka` is an
-  **allowlist** naming `text`/`english`/`hindi`/`status`, so a draft field is simply never copied
-  to Mongo and cannot be served. The unsafe path is unreachable rather than merely discouraged —
-  `rule:safety-flag-needs-a-test`. Adding a draft field to that allowlist, or rewriting it as
-  `{**sh}`, publishes unverified machine text on the public surface and breaks the workspace hard
-  rule *"Computation is AI-assisted; meaning is not"*. `tests/test_seed_texts.py` pins it and the
-  mutation was checked both ways.
+  the served field, flips `status` to `translated`, and clears the draft it consumed. The gate is
+  **structural, not a flag** — nothing filters on `status`; `seed_texts.py`'s `_normalize_shloka`
+  is an allowlist that cannot copy a draft field. **Never widen it.** The two innocuous-looking
+  edits that publish every draft in the corpus, and the test pinning them: **G50**.
 - `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter
 - Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script
 
@@ -107,49 +95,34 @@ counts, translation state and count-authority tier, in one table. **Per-text cav
 [`docs/CANONICAL_COUNTS.md`](./docs/CANONICAL_COUNTS.md)** §"Per-text caveats"; they were
 inline here until 2026-08-24 and took this file 58 lines over its cap.
 
-**Derive the totals, never restate them:**
+**Derive the totals, never restate them:** `python3 scripts/check_inventory.py` prints texts,
+chapters, shlokas, categories and dedupe loss, and **exits 1 if INVENTORY disagrees with the
+corpus**. Written 2026-09-14, after the registry's Totals line sat 12 texts stale above 66
+correct rows with nothing able to tell the difference.
 
-```
-python3 -c "import json,glob;print(sum(len(c['shlokas']) for p in glob.glob('**/*.json',recursive=True) if not p.startswith('docs/') for c in (json.load(open(p)).get('chapters') or [])))"
-```
-
-The Jyotiṣa texts are **100% translated**; the Vedic and Upaveda texts land **untranslated**,
-which is why the corpus total is no longer a single percentage. Per-text state is in INVENTORY.
+**Translation splits by ARRIVAL DATE, not category** — never restate a percentage. Texts digitised
+before 2026-09-02 are translated; everything landed since arrives `untranslated`, as the Vedic and
+Upaveda texts always have. "The Jyotiṣa texts are 100% translated" was true here until 2026-09-14,
+by when all 8 Siddhāntas, both Jaimini texts and 4 more had falsified it. Per-text: INVENTORY.
 
 ### ⚠ 71 shlokas never reach AstroAcharya
 
-`seed_texts.py:92-94` dedupes by `(chapter, shloka)`, later file wins — so INVENTORY's Shlokas
-column counts what is *present*, not what is **ingestible**. All 71 are intra-chapter and
-pre-existing: `jataka_parijata` 55, `laghu_jatakam` 14, `minaraja_yavana_jataka` 1,
-`yajusha_jyotisham` 1. **The converter cannot add to it** — it rejects a text with a duplicate
+`seed_texts.py` dedupes by `(chapter, shloka)`, later file wins — so INVENTORY's Shlokas column
+counts what is *present*, not what is **ingestible** (G8). All 71 are intra-chapter and
+pre-existing; `python3 scripts/check_inventory.py` prints the current loss and names every text
+carrying it. **The converter cannot add to it** — it refuses a text with a duplicate
 `(chapter, number)` rather than writing it, so a collision blocks the conversion instead of
-quietly never ingesting. Re-derive:
-
-```
-python3 -c "import json,glob,collections;t=0
-for p in glob.glob('**/*.json',recursive=True):
- if p.startswith('docs/'): continue
- j=json.load(open(p)); c=collections.Counter()
- for ch in (j.get('chapters') or []):
-  for s in ch.get('shlokas',[]): c[(ch['number'],s['number'])]+=1
- t+=sum(v-1 for v in c.values() if v>1)
-print(t)"
-```
+quietly never ingesting.
 
 ### Off-schema — CLOSED 2026-09-02
 
-`apastamba_dharma_sutra` was the last one. Re-digitised from `4617.txt` by
-`scripts/sanskrit-convert/apastamba.py`: **1,315 sūtras**, citation `praśna.khaṇḍa.sūtra`,
-externally checked against the canonical opening (1.1 `अथातः…`, 1.2 `धर्मज्ञसमयः प्रमाणम्`,
-1.3 `वेदाश्च`). **46 sūtras are ABSENT from the OCR and were recorded, never invented** — the
-parser prints every one with its khaṇḍa and line. The prior digitisation's 1,437 records,
-including their unverified machine `english_translation`/`hindi_translation`, were discarded
-with it; the new text lands `untranslated`.
-**Check for a clean source before characterising damaged data**: Manusmṛti's damage analysis
-cost two sessions and was thrown away when it was re-acquired whole from SARIT in one pass.
-SARIT has no Āpastamba, so that route is not available here. Scope and ordered steps:
-[`docs/plans/2026-08-22-dharmashastra-redigitisation.md`](./docs/plans/2026-08-22-dharmashastra-redigitisation.md).
-`ChandraKalaNadi` is the only surviving stub dir — `JaiminiSutras` was digitised 2026-09-04. **Six of the 13 rows in INVENTORY's §Undigitised now DO have a `text_id`** and are marked ✅ there; the claim that none does was true when written and is not now. Derive it: a text is held iff a `.json` carrying a `text_id` exists for it.
+**Nothing in this corpus is off-schema.** `apastamba_dharma_sutra` was the last, re-digitised
+from `4617.txt` by `scripts/sanskrit-convert/apastamba.py` — 1,315 sūtras, citation
+`praśna.khaṇḍa.sūtra`, landing `untranslated`; **46 sūtras are ABSENT from the OCR and were
+recorded, never invented.** Closure record and the two departures: INVENTORY §"Dharmashastra —
+off-schema remainder". **Check for a clean source before characterising damaged data** —
+Manusmṛti's damage analysis cost two sessions and was discarded when SARIT yielded it whole in
+one pass; SARIT has no Āpastamba, so that route was not available here.
 
 ## Translation workflow
 
@@ -167,7 +140,7 @@ SARIT has no Āpastamba, so that route is not available here. Scope and ordered 
 
 ## Code exploration
 
-This is a **JSON data corpus**, so the callers/impact/tests tools don't apply to the data — use **Grep / Read / the Explore agent**. This said the `code-review-graph` graph was "empty here (0 nodes)"; it is not, and has not been since the repo gained scripts — **derive it with `code-review-graph status`, never restate it**. A `.git/hooks/pre-commit` rebuilds it on every commit, which is why a stale graph here self-heals; while it WAS stale it emitted `fatal: unable to read <sha>` once per changed file during commits. See `rule:tool-priority`.
+This is a **JSON data corpus**, so the callers/impact/tests tools don't apply to the data — use **Grep / Read / the Explore agent**. A `code-review-graph` graph does exist here — **derive its freshness with `code-review-graph status`, never restate it.** But `.git/hooks/pre-commit` is **DEAD**: this repo sets `core.hooksPath=.githooks`, so nothing rebuilds the graph on commit and no stale graph "self-heals". This section asserted both until 2026-09-14; the `fatal: unable to read <sha>` bursts it invoked as evidence are **G25 — narrowed, not solved**, and G25 explicitly rules out the graph hook as their cause. See `rule:tool-priority`.
 
 ## State management
 

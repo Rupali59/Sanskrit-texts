@@ -12,24 +12,23 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 54 texts · 918 chapters · 92,166 shlokas · 12 categories** — on-schema only.
+**Totals: 66 texts · 955 chapters · 97,794 shlokas · 14 categories** — derived 2026-09-14; the one-liner above is the check.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
 two tables; `CLAUDE.md`'s had 20 rows against this file's 23 and neither said so.
 
-### What these numbers count, and why the one-liner says something different
+### One figure, not two — the on-schema/off-schema split is retired
 
-Both are right, and they count different things.
+There used to be a table here reconciling an "on-schema" count against the one-liner's, because
+some texts carried a `sutras[]` shape instead of `chapters[]`. **Every text has been on-schema
+since 2026-09-02**, so the two columns have counted the same thing ever since — and they still
+drifted apart, because two hand-maintained numbers in one file rot independently. On 2026-09-14
+they read 54/918 and 56/920 against a true 66/955. Both are gone; the Totals line above is the
+only figure, and the one-liner is what checks it.
 
-| | Files | Chapters | Shlokas |
-|---|---:|---:|---:|
-| **On-schema** — a real `chapters[]` array | 54 | 918 | 92,166 |
-| **The one-liner above** | **56** | **920** | — |
-
-Every text is on-schema as of 2026-09-02, so the one-liner above now counts the whole corpus and no separate off-schema adjustment is needed
-for anything about coverage. **`manu_smriti` left this set on 2026-08-24** — re-acquired
-whole from SARIT rather than repaired, which is what the re-digitisation plan called for.
+**`manu_smriti` left the off-schema set on 2026-08-24** — re-acquired whole from SARIT rather
+than repaired, which is what the re-digitisation plan called for.
 
 ### Two relocations, 2026-08-24
 
@@ -265,52 +264,47 @@ The two Vedāṅga-Jyotiṣa recensions run 36 and 43 verses respectively and sh
 Editions digitised for `aryabhatiya` and `panchasiddhantika` are in
 [`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md) §"Per-text caveats".
 
-## Undigitised — no JSON, so no `text_id`
+## Acquisition status — every text pursued, and where it stands
 
-The one-liner cannot see them by construction — it defines a text as a directory holding
-JSON. **Eleven no longer have a directory either**: they held only a readme, which was drained
-2026-09-02, and `git rm` removed the empty parents. `JaiminiSutras` and `ChandraKalaNadi`
-survive as `.placeholder` directories. This table is now the sole record of all thirteen — but see the banner below: six of them have since been digitised.
+**One row per text, one `Status` cell, no banners.** This section was titled "Undigitised — no
+JSON, so no `text_id`" until 2026-09-14 while **six of its thirteen rows were held with a
+`text_id`**, reconciled by two stacked ⚠ banners and a ✅ prefix inside the Text cell. Answering
+"is Sarvārtha Cintāmaṇi held?" took a banner, the table, and arithmetic. The status vocabulary
+below is closed, and `scripts/check_inventory.py` asserts that every `HELD` row names a
+`text_id` that exists — the old layout could not be checked by anything.
 
-> **⚠ SIX OF THESE ROWS ARE NO LONGER UNDIGITISED — updated 2026-09-08**, and they are marked
-> ✅ in the table. `NirnayaSindhu`, `SarvarthaChintamani`, `JatakaTattvam`, `BrahmasphutaSiddhanta`,
-> `GargaHora` and `JaiminiSutras` are all held with JSON and a `text_id`. Their rows are kept
-> rather than deleted because the "why it is wanted" column is the reason each was pursued, and
-> that is worth keeping after the fact. **Six remain genuinely undigitised:** `Dharmasindhu`,
-> `MuhurtaMartanda`, `PrashnaMarga`, `SiddhantaShiromani`, `GargaSamhita`, `ChandraKalaNadi` —
-> of which three are blocked on measured OCR quality rather than sourcing. **Derive, never trust
-> this list:** a text is held iff a `.json` with a `text_id` exists for it.
->
-> **⚠ "Undigitised" no longer means "unsourced" — updated 2026-09-02.** Six rows below now
-> have a source in hand; the digitisation work is what remains. **Sources held:**
-> `NirnayaSindhu` (1,024pp OCR) · `Dharmasindhu` (738pp OCR) · `MuhurtaMartanda` (188pp OCR,
-> superseding the CCITT dead end) · `SarvarthaChintamani` (`SarvarthaChintamani-VyankateshSharma-Bhasin-sd1267.txt`) ·
-> `SiddhantaShiromani` (**all four parts**, three as clean machine-readable Devanāgarī) ·
-> `GargaHora` (see its new row). **Supplied but needing re-supply:** `PrashnaMarga`.
-> **Still unsourced — ONE, as of 2026-09-04:** `ChandraKalaNadi`.
-> `JatakaTattvam` and `JaiminiSutras` were supplied that day and are now DIGITISED (see the
-> registry above); `BrahmasphutaSiddhanta` was acquired the same day from GRETIL+TITUS into
-> the gitignored sources tree as reference — partial (5 of 24 chapters) and IAST, so it has
-> deliberately **not** been given a `text_id` or a corpus JSON. The two
-> `Vedanga-Jyotisha` recensions are **lost**, not pending. Provenance and terms for every
-> one: [`SOURCES.md`](SOURCES.md).
+| Status | Means |
+|---|---|
+| `HELD` | in the registry above, with a `text_id`. The row here records *why it was pursued* |
+| `SOURCED` | a usable source is in hand; digitisation is the remaining work |
+| `REFUSED` | a source is in hand and was **measured** unusable. Each refusal names its number |
+| `UNSOURCED` | no usable source on any channel we use |
+| `LOST` | no manuscript survives. Not work, and never a backlog row |
 
-| Text | Author · period | Why it is wanted |
-|---|---|---|
-| ✅ `NirnayaSindhu` → **HELD** as `nirnayasindhu`, 32 units — partial — the Dīvālī rule and little else, from a 1,024pp source | Kamalākara Bhaṭṭa · 1612 | **Priority festival addition.** The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya currently pins to drikpanchang convention — Vijayadaśamī (daśamī pervading aparāhṇa), Holikā Dahan (Bhadrā avoidance), Dīvālī (amāvāsyā pradoṣa), saṅkrānti civil-date. Digitising it lets those rules cite shlokas. |
-| `Dharmasindhu` | Kāśīnātha Upādhyāya · 1790 | Condenses Nirṇaya-Sindhu into ready rules panchāṅga-makers use; the named source for the "Dharmasindhu" durmuhūrta school in astroacharya's `calculations/muhurta/durmuhurta.py`. |
-| `MuhurtaMartanda` | Nārāyaṇa Daivajña · 1571 | The independent cross-check on the muhūrta windows now that Muhūrta Cintāmaṇi is held. Where two manuals diverge — as the durmuhūrta weekday positions do — the divergence is what to surface for Vipin, not something to resolve silently. |
-| ✅ `SarvarthaChintamani` → **HELD** as `sarvartha_chintamani`, 1,227 units | Veṅkaṭeśa Śarmā · 13th c. | House significations in unusual depth; standard in South Indian practice. |
-| `PrashnaMarga` | unknown, Kerala tradition · 16th–17th c. | The primary text of the Kerala horary (praśna) tradition. |
-| ✅ `JatakaTattvam` → **HELD** as `jataka_tattva`, 2,277 units | unknown · medieval | Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. |
-| ✅ `BrahmasphutaSiddhanta` → **HELD** as `brahmasphuta_siddhanta`, 691 units — 21 of 25 chapters; ch.1, 10, 22, 25 absent | Brahmagupta · 628 | Siddhānta astronomy. **The only one of the eleven with a machine-readable source anywhere** (GRETIL + TITUS, from Dvivedin's Benares 1902 ed.) — and still not takeable: 5 of 24 chapters, transliterated not Devanāgarī, and both licences bar what this corpus does. [`SOURCES.md`](SOURCES.md), [`LICENSES.md`](LICENSES.md). |
-| `SiddhantaShiromani` | Bhāskara II · 1150 | Siddhānta astronomy. **Name collision** — see [`SOURCES.md`](SOURCES.md). |
-| `GargaSamhita` | Garga (trad.) · date disputed, possibly pre-Varāhamihira | Omens, planetary portents, mundane prediction. Multiple recensions; the complete text is hard to establish. **No source waiting** — the file under this name is the Vaiṣṇava Purāṇa. |
-| ✅ `GargaHora` → **HELD** as `garga_hora`, 84 units — 1 of 3 chapters | Garga (trad.) · early | **A DIFFERENT WORK from `GargaSamhita` above, and only this one is jyotiṣa** — the horā (natal) text, where the Saṃhitā is omens and portents. It had no row here until 2026-09-02 and so could not be distinguished from the Vaiṣṇava Purāṇa that `garga` matches (G26's first collision). **Source held**: the K.K. Pathak edition, which carries the Devanāgarī mūla interleaved with modern Hindi and English; terms recorded in [`SOURCES.md`](SOURCES.md). |
-| `Vedanga-Jyotisha/Atharvaveda` · `/Samaveda` | Lagadha tradition | **Lost — no extant manuscript located.** Only the Ṛgveda (36 verses) and Yajurveda (43) recensions survive, sharing 29 verses. Recorded as absent rather than pending. |
-| ✅ `JaiminiSutras` → **HELD** as `jaimini_sutra`, 408 units (Tattvādarśa recension, complete at 2 adhyāyas) | — | Was `.placeholder` only, no README, no metadata. Digitised 2026-09-04. |
-| `ChandraKalaNadi` | — | `.placeholder` only; no README, no metadata recorded. Both supplied Deva Keralam scans were REFUSED on measured OCR quality. |
+**Derive, never trust this column:** a text is held iff a `.json` carrying a `text_id` exists
+for it. `python3 scripts/check_inventory.py` fails if this table and the corpus disagree.
 
+| Text | Status | Author · period | Where it stands, and why it was wanted |
+|---|---|---|---|
+| `NirnayaSindhu` | `HELD` | Kamalākara Bhaṭṭa · 1612 | `nirnayasindhu`, 2 chapters / 32 units — **a deliberate curated selection** of 32 of the edition's 454 body pages, not a gap. The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya pins to drikpanchang convention (Vijayadaśamī, Holikā Dahan, Dīvālī pradoṣa, saṅkrānti civil-date); holding it lets those rules cite shlokas. |
+| `SarvarthaChintamani` | `HELD` | Veṅkaṭeśa Śarmā · 13th c. | `sarvartha_chintamani`, 17 chapters / 1,227 units, from two independent in-text witnesses. House significations in unusual depth; standard in South Indian practice. |
+| `JatakaTattvam` | `HELD` | unknown · medieval | `jataka_tattva`, 17 sections / 2,277 units, two independent witnesses agreeing exactly. Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. |
+| `BrahmasphutaSiddhanta` | `HELD` | Brahmagupta · 628 | `brahmasphuta_siddhanta`, 21 of 25 chapters / 691 units — ch.1, 10, 22, 25 absent; **do not pad to 24**. Siddhānta astronomy. Rights: the corpus JSON is public, so only the OCR of Rupali's scan is used, never the licence-barred GRETIL/TITUS text that seeded the reference copy. |
+| `GargaHora` | `HELD` | Garga (trad.) · early | `garga_hora`, chapter 1 only of 3 / 84 units. **A DIFFERENT WORK from `GargaSamhita` below, and only this one is jyotiṣa** — the horā (natal) text, where the Saṃhitā is omens. Chapters 2–3 carry no printed verse numbers in either OCR pass (G26's first collision). |
+| `JaiminiSutras` | `HELD` | — | `jaimini_sutra`, 2 adhyāyas / 408 units — the **Tattvādarśa recension, complete in its own terms**, not a truncation of a canonical 4. Was a bare `.placeholder`; digitised 2026-09-04. |
+| `SiddhantaShiromani` | `HELD` | Bhāskara II · 1150 | **Held as its four parts, under their own names, not under this one** — `lilavati` 117 · `bijaganita` 150 · `grahaganita` 272 (pūrvārdha) · `goladhyaya` 241 = **780 units**, each naming the parent work in its `title_en`. This row said `SOURCED — digitisation is the remaining work` until 2026-09-14 while all four sat in the registry. **Completeness is UNDECLARED**: none of the four carries a `count_authority`, and Līlāvatī's 117 is well short of the ~270 usually cited — treat the parts as present, not as verified complete. **Name collision** — Wikisource's 1.2 MB `सिद्धान्तशिरोमणिः` is the Vīraśaiva *Siddhānta Śikhāmaṇi* (G26); see [`SOURCES.md`](SOURCES.md). |
+| `Dharmasindhu` | `REFUSED` | Kāśīnātha Upādhyāya · 1790 | 738pp OCR in hand. Its **307 markers number the texts it QUOTES, not itself** — 39 resets to 1 — so a `chapter → shlokas` schema has nothing to key on. Cross-pass OCR agreement 34.6%. Named as the "Dharmasindhu" durmuhūrta school in astroacharya's `calculations/muhurta/durmuhurta.py`. |
+| `MuhurtaMartanda` | `REFUSED` | Nārāyaṇa Daivajña · 1571 | 188pp OCR in hand. `मुहूर्त` occurs **0 times correctly** against 21 corrupted near-misses (systematic म→स). A reusable gate script exits 1 on it. Wanted as the independent cross-check on muhūrta windows now that Muhūrta Cintāmaṇi is held. |
+| `ChandraKalaNadi` | `REFUSED` | — | `.placeholder` only, no README, no metadata. **Both** supplied Deva Keralam scans were refused on measured OCR quality. The last surviving stub directory. |
+| `PrashnaMarga` | `UNSOURCED` | unknown, Kerala tradition · 16th–17th c. | Supplied once and unusable; needs re-supply. The primary text of the Kerala horary (praśna) tradition. |
+| `GargaSamhita` | `UNSOURCED` | Garga (trad.) · date disputed, possibly pre-Varāhamihira | **No source has ever existed here** — the file that carried this name was the devotional Vaiṣṇava Purāṇa and was removed 2026-09-08 (Youvan holds it as `krishna_sahasranama_stotram_garga`). Omens, planetary portents, mundane prediction; multiple recensions, complete text hard to establish. |
+| Vedāṅga Jyotiṣa — Sāmaveda · Atharvaveda recensions | `LOST` | Lagadha tradition | **No extant manuscript.** The two recensions that survive are in the registry above: Ārca (Ṛgveda, 36 verses) and Yājuṣa (Yajurveda, 45 objects / 43 numbered), sharing 29. `VEDIC_CORPUS.md` §Vedāṅga. The directories were drained 2026-09-02 and no longer exist, so this row is the only record. **This is not about the Vedas — see the note below.** |
+> **⚠ `LOST` applies to the Vedāṅga Jyotiṣa, never to a Veda.** The Sāmaveda and Atharvaveda
+> **Saṃhitās** are held in full — `samaveda_samhita` (1,866) and `atharvaveda_samhita` (6,091),
+> both in the Veda table above. What is lost is Lagadha's ritual-timing manual *in those two
+> recensions*, which is a Vedāṅga — a limb attached to the Vedas, not a layer of them. The
+> distinction is the same one `CLAUDE.md` §Layout draws for `Samhita/` versus `Veda/`, and a row
+> reading "Atharvaveda … LOST" invites exactly the wrong conclusion.
 **An unbacked attribution, found while scoping the two Nibandhas.** astroacharya's
 `durmuhurta.py` carries three schools; the third is labelled **"Brihat Samhita"**. Checked
 against the Bṛhat Saṃhitā already held in `Samhita/BrihatSamhita/`: **no durmuhūrta verse
