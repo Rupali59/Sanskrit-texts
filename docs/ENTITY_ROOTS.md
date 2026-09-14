@@ -209,3 +209,45 @@ This is the closest thing to a gold standard the corpus has yielded. It does not
 per-root precision — it measures whether the *chain extraction* recovers a structure the text's
 own organisation independently asserts. Those are different claims (`rule:discernment-checks`
 §5), and only the second is supported here.
+
+## Cross-checked against astroacharya — as a validator, never as a source
+
+The direction stays fixed: `astroacharya` builds **from** this corpus, so its `seeds/` cannot
+define the corpus's vocabulary. But two lists built independently disagreeing **is** evidence,
+and this one produced three findings — two about this list, one about astroacharya's.
+
+astroacharya carries exactly **one name per entity** (`nameHi`), no synonyms.
+
+| | astroacharya | this list | ratio |
+|---|---:|---:|---:|
+| GRAHA — names/roots | 9 | 34 | |
+| GRAHA — BPHS verses matched | 797 | **1341** | **1.7×** |
+| RASHI — names/roots | 12 | 12 | |
+| RASHI — BPHS verses matched | 292 | 304 | 1.0× |
+
+**The synonym tail is worth 544 graha verses — 40% more of the book — and it is worth nothing
+at all for rāśis.** Rāśi names are stable single words (`मेष`, `कर्क`), so a one-name list loses
+nothing; graha names are not, so it loses two fifths. That asymmetry is why "add synonyms"
+is the right effort for grahas and wasted effort for rāśis.
+
+### `मंगल` vs `मङ्गल` — one name, and it is a real join defect
+
+astroacharya writes `मंगल` with **ANUSVARA**; BPHS writes `मङ्गल` with **NGA + VIRAMA**. They
+are different strings. In BPHS the anusvāra form appears in **2** verses and the conjunct form
+in **15**, so any join between astroacharya's entity names and this corpus on the Devanāgarī
+string silently under-matches Mars by ~87%.
+
+**Checked systematically across all 60 graha / rāśi / nakṣatra / bhāva names: `मंगल` is the only
+one affected.** It is a single defect, not a class — stated that way rather than generalised
+into an encoding-normalisation project the evidence does not support.
+
+### astroacharya's 1st-house name is the one BPHS does not use
+
+`seeds/bhavas.json` calls the 1st house **`तनु भाव`**. In BPHS, `तनु` occurs **0 times in
+ch12 — the 1st-house chapter** — and its 34 corpus-wide hits are overwhelmingly `मध्यतनुर्`
+("middling body") and `वृत्ततनुर्` ("round body"): phala describing the physique, not the
+house. BPHS says **`लग्न`**, 498 verses, 9 of them in ch12.
+
+`तनु` is a correct classical name and is not wrong in astroacharya. It is simply the wrong
+**key** for reaching this corpus, which is exactly the kind of thing only a cross-check
+surfaces — neither list is defective on its own terms.
