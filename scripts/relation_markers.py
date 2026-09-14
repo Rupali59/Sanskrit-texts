@@ -40,6 +40,25 @@ EXCL_ROW = re.compile(r"^\|\s*`([^`]+)`\s*\|\s*((?:`[^`]+`\s*)+)\|")
 WORD = re.compile(r"[ऀ-ॣ॰-ॿ]+")
 
 
+def blocked(word, marker, excl):
+    """True if an exclusion fires on this token.
+
+    A plain exclusion is a SUBSTRING test; one written `=form` is an EXACT-TOKEN test.
+    The distinction is not decoration. Excluding `गे` (position, "gone to") from
+    stem-final-ग words by substring kills `लग्नगे` and `धनगे` too, because `लग्नगे`
+    contains `नग` and `भाग्यगे` contains `भाग` — the exclusion over-matches exactly the
+    way the marker it is correcting did. Anchored exclusions say `=योगे`, `=तुङ्गे`,
+    `=मृगे` and touch nothing else.
+    """
+    for e in excl.get(marker, ()):
+        if e.startswith("="):
+            if word == e[1:]:
+                return True
+        elif e in word:
+            return True
+    return False
+
+
 def matches(verse, marker, excl):
     """True if some TOKEN carries the marker and none of its exclusions.
 
@@ -48,10 +67,9 @@ def matches(verse, marker, excl):
     Excluding the whole verse would trade a false positive for a false negative and
     report the trade as an improvement.
     """
-    bad = excl.get(marker, ())
-    if not bad:
+    if not excl.get(marker):
         return marker in verse
-    return any(marker in w and not any(e in w for e in bad) for w in WORD.findall(verse))
+    return any(marker in w and not blocked(w, marker, excl) for w in WORD.findall(verse))
 
 
 def load_markers(doc_path):

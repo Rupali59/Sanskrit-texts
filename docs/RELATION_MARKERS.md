@@ -7,7 +7,7 @@ Same split as `docs/INVENTORY.md` ↔ `check_inventory.py`.
 
 An entity model alone cannot represent a verse. `(Mars, 4th)` is two nouns; `(Mars, स्थित, 4th)`
 is a claim. And the relational vocabulary is **an order of magnitude cheaper to capture**: one
-graha takes ~857 surface forms, while **53 markers cover 72.5% of BPHS's 3,937 verses**.
+graha takes ~857 surface forms, while **54 markers cover 74.3% of BPHS's 3,937 verses**.
 
 Measured 2026-09-14 over BPHS. Regenerate with
 `python3 scripts/relation_markers.py --text bphs`.
@@ -16,7 +16,7 @@ Measured 2026-09-14 over BPHS. Regenerate with
 
 | concept | verses | % | markers |
 |---|---:|---:|---|
-| POSITION | 1342 | 34.1% | `स्थित` `स्थ` `गत` `संस्थ` `वर्ती` `आश्रित` |
+| POSITION | 1638 | 41.6% | `स्थित` `स्थ` `गत` `गे` `संस्थ` `वर्ती` `आश्रित` |
 | LORDSHIP | 938 | 23.8% | `ेश` `ाधिप` `ाधीश` `नाथ` `पति` `ेश्वर` |
 | CONJUNCTION | 846 | 21.5% | `युत` `युक्त` `संयुत` `सहित` `समन्वित` `सम्बन्ध` |
 | POLARITY | 763 | 19.4% | `शुभ` `पाप` `सौम्य` `क्रूर` |
@@ -25,7 +25,7 @@ Measured 2026-09-14 over BPHS. Regenerate with
 | HOUSE_GROUP | 302 | 7.7% | `केन्द्र` `त्रिकोण` `उपचय` `अपोक्लिम` `पणफर` `दुःस्थान` |
 | STATE | 262 | 6.7% | `अस्त` `बल` `निर्बल` `बली` `दीप्त` `मुदित` |
 | ASPECT | 264 | 6.7% | `दृष्ट` `पश्य` `वीक्ष` `निरीक्ष` `अवलोक` |
-| **any marker** | **2854** | **72.5%** | **53 markers** |
+| **any marker** | **2927** | **74.3%** | **54 markers** |
 
 **`HOUSE_GROUP` is why a `(graha, bhāva)` model is insufficient.** 7.7% of verses speak of
 *kendras* (1/4/7/10) and *trikoṇas* (1/5/9) as groups — *"Jupiter in a kendra"* has no
@@ -79,6 +79,7 @@ The script reads this table. A verse counts for a marker only if some token cont
 |---|---|---|
 | `ेश` | `देश` `क्लेश` | "country" and "affliction", not lordship — 16.8% of raw `ेश` hits |
 | `बल` | `बलि` | `बलि` is an offering / the demon Bali, not strength — 17 verses |
+| `गे` | `=योगे` `=तुङ्गे` `=मृगे` `=भागे` `=मार्गे` `=रोगे` `=त्यागे` `=भङ्गे` | `X-गे` is "gone to X", the commonest positional form (`लग्नगे` 19, `लाभगे` 33, `धनगे`, `पञ्चमगे`). These are words whose OWN stem ends in ग. **Anchored (`=`) on purpose:** a substring exclusion for `योग` also kills `लग्नगे` (contains `नग`) and `भाग्यगे` (contains `भाग`) — the exclusion over-matching exactly as the marker did |
 
 **Exclusion is per-token, never per-verse.** A verse reading *"the lagna-lord causes travel to a
 foreign country"* contains both `लग्नेशे` and `विदेशगमनं`; it is a true LORDSHIP hit and must stay

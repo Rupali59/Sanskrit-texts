@@ -72,7 +72,18 @@ BHAVA_NUM = {"लग्न": 1, "धन": 2, "सहज": 3, "भ्रातृ
              "द्यून": 7, "जाया": 7, "सप्तम": 7, "रन्ध्र": 8, "अष्टम": 8, "भाग्य": 9,
              "धर्म": 9, "पितृ": 9, "कर्म": 10, "राज्य": 10, "लाभ": 11, "व्यय": 12}
 
-TAG_RE = re.compile(r"^(graha|rashi|bhava|entity|rel|mahadasha):[a-z_0-9]+$")
+TAG_RE = re.compile(r"^(graha|rashi|bhava|entity|rel|chain|mahadasha):[a-z_0-9]+$")
+
+# A flat tag SET cannot represent a proposition, and that is measured rather than feared:
+# 38 (lord_of, in_house) pairs occur in BPHS together with their reverse, and
+# `सुतेशे भाग्यगे` (lord of 5 in 9) and `भाग्येशो … सुतेशो` (lord of 9 in 5) produce the
+# SAME set. 20% of tagged verses share their tag set with another verse.
+#
+# The fix keeps the binding INSIDE the tag string — `chain:lord5_pos9` — rather than adding
+# a structured field. That matters: `_normalize_shloka` in astroacharya is a 12-key
+# ALLOWLIST (G50), so a new key would not reach Mongo at all without a two-repo change to
+# the same allowlist that guards the publication gate. A tag string needs neither.
+CHAIN_SUBJ = ("bhava:", "graha:")
 # Written by tag_dashas.py, not by this script — preserved verbatim. Everything else
 # under the tags key is this script's output and is regenerated from scratch each run.
 OWNED_BY_OTHERS = ("mahadasha:",)
@@ -122,7 +133,7 @@ def scan(word, lex, order, excl):
         for r in order:
             if len(r) > n - i or not word.startswith(r, i):
                 continue
-            if any(e in word for e in excl.get(r, ())):
+            if RM.blocked(word, r, excl):
                 continue
             tag = lex[r]
             if tag.startswith("bhava:") or tag == "entity:bhava":
@@ -132,6 +143,31 @@ def scan(word, lex, order, excl):
             i += len(r) - 1
             break
         i += 1
+    return out
+
+
+def chains(seq):
+    """Ordered (subject, position) pairs from the token sequence.
+
+    A token carrying a subject AND lordship is a lord-subject (`सुतेशे` -> lord of 5); a
+    token carrying a subject AND position is a locus (`भाग्यगे` -> in 9). Emitting the
+    pair in ORDER is the whole point — it is what distinguishes lord(5)-in-9 from
+    lord(9)-in-5, which the flat set cannot.
+    """
+    out, subj = set(), None
+    for tags in seq:
+        ents = [t for t in tags if t.startswith(CHAIN_SUBJ)]
+        if not ents:
+            continue
+        ent = sorted(ents)[0]
+        kind, val = ent.split(":", 1)
+        if "rel:lordship" in tags:
+            subj = f"lord{val}" if kind == "bhava" else val
+        elif "rel:position" in tags and subj:
+            out.add(f"chain:{subj}_pos{val}" if kind == "bhava" else f"chain:{subj}_with_{val}")
+            subj = None
+        elif kind == "graha" and "rel:lordship" not in tags:
+            subj = val
     return out
 
 
@@ -165,9 +201,13 @@ def main():
     tally, tagged, added = Counter(), 0, 0
     for ch in doc["chapters"]:
         for sh in ch["shlokas"]:
-            found = set()
+            found, seq = set(), []
             for w in WORD.findall(sh.get("text", "")):
-                found |= scan(w, lex, order, excl)
+                tags = scan(w, lex, order, excl)
+                found |= tags
+                if tags:
+                    seq.append(tags)
+            found |= chains(seq)
             if found:
                 tagged += 1
             for t in found:

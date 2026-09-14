@@ -92,13 +92,25 @@ def parse_doc(path):
 
 
 def carries(word, root, excl):
-    return root in word and not any(e in word for e in excl.get(root, ()))
+    import relation_markers as _RM      # blocked() handles `=exact` anchored exclusions
+    return root in word and not _RM.blocked(word, root, excl)
+
+
+# The locative can sit on the ROOT (धने) or on a COMPOUND built from it (धनगे = धन+ग+े,
+# "gone to the 2nd"). Checking only the character after the root missed the second form
+# entirely — 128 tokens including लग्नगे (19), लाभगे (33 with variants), धनगे, व्ययगे,
+# कर्मगे. It surfaced because three verses reading लग्नेशे धनगे / सुखगे / भाग्यगे all
+# collapsed to the SAME tag set, with the second bhava absent.
+# `गे|गो|गा` and not a bare `ग`: बहुदारगुणैर्युतः is दार+गुण, not a house.
+POSITIONAL = re.compile(r"^(गे|गो|गा|गत|स्थ|संस्थ|वर्ति|ांश)")
 
 
 def bhava_house_sense(word, root):
     """The root is used as a HOUSE here, not as its phala."""
     i = word.find(root) + len(root)
-    return (i < len(word) and word[i] == "े") or any(m in word[i - 1:] for m in HOUSE_MARK)
+    if (i < len(word) and word[i] == "े") or any(m in word[i - 1:] for m in HOUSE_MARK):
+        return True
+    return bool(POSITIONAL.match(word[i:i + 5]))
 
 
 def hit(verse, root, excl, strict):

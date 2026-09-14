@@ -1006,7 +1006,8 @@
           "hindi": "यदि कोई ग्रह नैसर्गिक और तत्कालीन दोनों रूप से मित्र है, तो वह 'अधिमित्र' है। एक में मित्र और दूसरे में सम होने पर 'मित्र' और दोनों में शत्रु होने पर 'अधिशत्रु' होता है।",
           "status": "translated",
           "tags": [
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -1028,7 +1029,8 @@
           "tags": [
             "rel:dignity",
             "rel:house_group",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -1097,6 +1099,7 @@
           "hindi": "यदि ये (धूमादि उपग्रह) सूर्य, चन्द्रमा या लग्न में स्थित हों, तो वंश, आयु और ज्ञान का नाश करते हैं। धूमादि दोषों की यह स्थिति ब्रह्मा जी ने कही है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "entity:yoga",
             "graha:sun",
             "rel:position"
@@ -1497,7 +1500,7 @@
           "hindi": "इससे जन्म से पहले के निषेक (गर्भाधान) के मास आदि का ज्ञान होता है। यदि लग्नेश अदृश्य अर्धभाग में हो, तो चन्द्रमा के भुक्त अंशों को भी जोड़ें।",
           "status": "translated",
           "tags": [
-            "rel:lordship"
+            "rel:position"
           ]
         },
         {
@@ -2002,7 +2005,8 @@
           "status": "translated",
           "tags": [
             "rashi:karka",
-            "rashi:simha"
+            "rashi:simha",
+            "rel:position"
           ]
         },
         {
@@ -2459,6 +2463,7 @@
           "status": "translated",
           "tags": [
             "bhava:7",
+            "chain:sun_pos7",
             "graha:sun",
             "rel:aspect",
             "rel:dignity",
@@ -2508,7 +2513,8 @@
           "hindi": "द्रेष्काण, चतुर्थांश, नवांश आदि सभी वर्गों में भी राशि (गृह) की तरह ही बीच की स्थितियों के लिए अनुपात (Interpolation) का विचार करना चाहिए।",
           "status": "translated",
           "tags": [
-            "entity:varga"
+            "entity:varga",
+            "rel:position"
           ]
         },
         {
@@ -2983,6 +2989,7 @@
           "hindi": "पाप ग्रहों से युक्त या दृष्ट मंगल यदि लग्न में हो और शुभ ग्रहों से दृष्ट न हो, तो मृत्युदायक होता है। इसी प्रकार यदि मंगल ८वें भाव में शनि या सूर्य के साथ हो, तो भी मृत्यु देता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "graha:mars",
             "rel:conjunction",
             "rel:polarity",
@@ -3014,6 +3021,7 @@
           "tags": [
             "bhava:10",
             "bhava:7",
+            "chain:saturn_pos7",
             "graha:saturn",
             "rel:dignity",
             "rel:position"
@@ -3043,6 +3051,7 @@
           "status": "translated",
           "tags": [
             "bhava:7",
+            "chain:sun_pos7",
             "entity:varga",
             "graha:jupiter",
             "graha:sun",
@@ -3106,7 +3115,9 @@
           "hindi": "यदि राशिचक्र के पूर्व और परार्द्ध में क्रमशः क्रूर और सौम्य ग्रह हों और लग्न में वृश्चिक (कीट) राशि हो, तो जातक की मृत्यु हो जाती है; इसमें संशय नहीं है।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "bhava:1",
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -3144,6 +3155,7 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "chain:moon_pos1",
             "graha:moon",
             "rel:house_group",
             "rel:lordship",
@@ -3183,6 +3195,7 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "chain:mars_pos2",
             "graha:mars",
             "rashi:mesha",
             "rel:aspect",
@@ -3197,6 +3210,7 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "chain:moon_pos1",
             "entity:varga",
             "graha:jupiter",
             "graha:moon",
@@ -3345,6 +3359,7 @@
           "hindi": "यदि शनि और मंगल एक ही नवांश में हों, या वे चन्द्रमा से केन्द्रों में हों, तो बालक को दो माताओं का सुख नहीं मिलता (अर्थात् माता और धात्री/विमाता दोनों का वियोग हो सकता है)।",
           "status": "translated",
           "tags": [
+            "chain:saturn_with_moon",
             "graha:moon",
             "graha:saturn",
             "rel:house_group",
@@ -3360,6 +3375,7 @@
           "tags": [
             "bhava:1",
             "bhava:6",
+            "chain:mars_pos6",
             "graha:mars",
             "graha:moon",
             "rel:modality",
@@ -3405,6 +3421,7 @@
             "bhava:10",
             "bhava:12",
             "bhava:7",
+            "chain:sun_pos10",
             "graha:rahu",
             "graha:sun",
             "rel:position"
@@ -3432,6 +3449,7 @@
             "bhava:1",
             "bhava:6",
             "bhava:7",
+            "chain:moon_pos1",
             "graha:mars",
             "graha:moon",
             "rel:position"
@@ -3555,6 +3573,7 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "chain:jupiter_pos1",
             "graha:jupiter",
             "rel:polarity",
             "rel:position",
@@ -3842,8 +3861,8 @@
           "hindi": "यदि देहेश (लग्न का स्वामी) पाप ग्रहों से युक्त होकर ८, ६ या १२वें भाव में हो, तो वह शारीरिक सुख का नाश करता है। यदि लग्नेश केन्द्र या त्रिकोण में स्थित हो, तो वह सदैव शारीरिक सुख प्रदान करता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "rel:house_group",
-            "rel:lordship",
             "rel:polarity",
             "rel:position"
           ]
@@ -3980,7 +3999,10 @@
           "text": "अथ जातनरस्याङ्गे व्रणचिह्नादिकं ब्रुवे",
           "english": "Now I shall speak of scars, marks and the like on the body of the native.",
           "hindi": "अब मैं जातक के शरीर पर व्रण (घाव के चिह्न) आदि चिह्नों के विषय में कहता हूँ।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 12,
@@ -4000,7 +4022,8 @@
           "status": "translated",
           "tags": [
             "bhava:1",
-            "entity:varga"
+            "entity:varga",
+            "rel:position"
           ]
         },
         {
@@ -4039,6 +4062,7 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "chain:lord2_pos2",
             "entity:bhava",
             "rel:house_group",
             "rel:lordship",
@@ -4065,6 +4089,7 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "chain:jupiter_pos2",
             "entity:bhava",
             "graha:jupiter",
             "graha:mars",
@@ -4083,6 +4108,7 @@
           "tags": [
             "bhava:11",
             "bhava:2",
+            "chain:lord2_pos11",
             "entity:bhava",
             "rel:house_group",
             "rel:lordship",
@@ -4118,6 +4144,7 @@
             "bhava:11",
             "bhava:2",
             "bhava:6",
+            "chain:lord2_pos6",
             "entity:bhava",
             "rel:aspect",
             "rel:conjunction",
@@ -4255,6 +4282,7 @@
           "status": "translated",
           "tags": [
             "bhava:3",
+            "chain:lord3_pos3",
             "entity:bhava",
             "graha:mars",
             "rel:aspect",
@@ -4310,7 +4338,8 @@
             "entity:varga",
             "rel:dignity",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -4339,7 +4368,8 @@
             "rel:conjunction",
             "rel:dignity",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -4416,6 +4446,7 @@
           "status": "translated",
           "tags": [
             "bhava:3",
+            "chain:sun_pos3",
             "graha:sun",
             "rel:position"
           ]
@@ -4456,6 +4487,7 @@
           "tags": [
             "bhava:1",
             "bhava:4",
+            "chain:lord4_pos4",
             "entity:bhava",
             "rel:aspect",
             "rel:lordship",
@@ -4545,6 +4577,7 @@
             "bhava:11",
             "bhava:4",
             "bhava:9",
+            "chain:moon_pos9",
             "graha:mars",
             "graha:moon",
             "graha:saturn",
@@ -4579,6 +4612,8 @@
             "bhava:11",
             "bhava:12",
             "bhava:4",
+            "chain:lord4_pos11",
+            "chain:lord4_pos12",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -4623,6 +4658,7 @@
           "tags": [
             "bhava:11",
             "bhava:4",
+            "chain:lord11_pos4",
             "rel:conjunction",
             "rel:lordship",
             "rel:modality",
@@ -4715,6 +4751,7 @@
             "bhava:12",
             "bhava:5",
             "bhava:6",
+            "chain:lord5_pos12",
             "graha:ketu",
             "graha:mercury",
             "rel:dignity",
@@ -4731,6 +4768,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:lord5_pos5",
             "graha:mercury",
             "graha:saturn",
             "rel:aspect",
@@ -4812,6 +4850,7 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:modality",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -4853,6 +4892,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:rahu_pos5",
             "graha:rahu",
             "graha:saturn",
             "rel:conjunction",
@@ -4867,10 +4907,12 @@
           "hindi": "यदि राहु पंचम भाव में हो और पंचमेश निर्बल हो, तो जातक को ईश्वर की कृपा या धार्मिक उपायों से सन्तान प्राप्त होती है।",
           "status": "translated",
           "tags": [
+            "chain:moon_with_moon",
             "graha:moon",
             "rel:aspect",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -4943,6 +4985,7 @@
           "tags": [
             "bhava:1",
             "bhava:9",
+            "chain:jupiter_pos9",
             "graha:jupiter",
             "graha:venus",
             "rel:conjunction",
@@ -4972,8 +5015,11 @@
           "hindi": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।",
           "status": "translated",
           "tags": [
+            "bhava:5",
+            "chain:jupiter_pos5",
             "graha:jupiter",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -4986,7 +5032,8 @@
             "bhava:1",
             "rel:conjunction",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -5031,6 +5078,7 @@
           "tags": [
             "bhava:5",
             "bhava:9",
+            "chain:lord9_pos5",
             "graha:jupiter",
             "rel:conjunction",
             "rel:lordship",
@@ -5048,6 +5096,8 @@
             "bhava:10",
             "bhava:2",
             "bhava:5",
+            "chain:lord2_pos10",
+            "chain:saturn_pos5",
             "entity:bhava",
             "graha:saturn",
             "rel:lordship",
@@ -5073,8 +5123,12 @@
           "hindi": "सन्तान और पुत्र का विचार। के विषय में श्लोक संख्या 29 में और फल बताए गए हैं।",
           "status": "translated",
           "tags": [
+            "bhava:5",
+            "chain:jupiter_pos5",
+            "chain:saturn_pos5",
             "graha:jupiter",
-            "graha:saturn"
+            "graha:saturn",
+            "rel:position"
           ]
         },
         {
@@ -5085,9 +5139,11 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:jupiter_pos5",
             "graha:jupiter",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -5098,10 +5154,12 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:jupiter_pos5",
             "graha:jupiter",
             "rel:conjunction",
             "rel:modality",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -5114,6 +5172,7 @@
             "bhava:1",
             "bhava:2",
             "bhava:5",
+            "chain:lord1_pos2",
             "entity:bhava",
             "graha:mars",
             "rel:conjunction",
@@ -5379,6 +5438,7 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "chain:lord1_pos1",
             "graha:saturn",
             "rel:conjunction",
             "rel:dignity",
@@ -5396,6 +5456,7 @@
             "bhava:1",
             "bhava:12",
             "bhava:6",
+            "chain:lord12_pos1",
             "rel:lordship",
             "rel:modality",
             "rel:position"
@@ -5409,6 +5470,7 @@
           "status": "translated",
           "tags": [
             "bhava:6",
+            "chain:lord6_pos6",
             "graha:moon",
             "rel:conjunction",
             "rel:lordship",
@@ -5463,7 +5525,8 @@
           "tags": [
             "graha:rahu",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -5475,6 +5538,7 @@
           "tags": [
             "bhava:11",
             "bhava:6",
+            "chain:lord11_pos6",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -5492,6 +5556,8 @@
             "bhava:12",
             "bhava:5",
             "bhava:6",
+            "chain:lord12_pos1",
+            "chain:lord5_pos6",
             "entity:bhava",
             "graha:jupiter",
             "rel:conjunction",
@@ -5509,6 +5575,7 @@
           "tags": [
             "bhava:1",
             "bhava:6",
+            "chain:lord1_pos6",
             "rel:lordship",
             "rel:position"
           ]
@@ -5593,11 +5660,13 @@
           "status": "translated",
           "tags": [
             "bhava:7",
+            "chain:saturn_with_venus",
             "graha:saturn",
             "graha:venus",
             "rel:dignity",
             "rel:modality",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -5669,6 +5738,7 @@
           "hindi": "यदि सप्तमेश दूसरे भाव में हो और धनेश सातवें में हो, तो जातक को पत्नी के माध्यम से या विवाह के बाद धन प्राप्त होता है।",
           "status": "translated",
           "tags": [
+            "chain:venus_with_mars",
             "graha:mars",
             "graha:venus",
             "rel:lordship",
@@ -5682,6 +5752,8 @@
           "hindi": "यदि सप्तमेश अपनी नीच राशि में हो और षष्ठेश के साथ हो, तो जातक के बहुत से शत्रु होते हैं और उसकी पत्नी का चरित्र संदेहास्पद होता है।",
           "status": "translated",
           "tags": [
+            "chain:mars_with_saturn",
+            "chain:venus_with_saturn",
             "graha:mars",
             "graha:saturn",
             "graha:venus",
@@ -5786,6 +5858,7 @@
           "tags": [
             "bhava:1",
             "bhava:8",
+            "chain:lord1_pos8",
             "graha:mars",
             "graha:venus",
             "rel:dignity",
@@ -5864,6 +5937,7 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "chain:lord1_with_saturn",
             "graha:saturn",
             "graha:venus",
             "rel:house_group",
@@ -5891,9 +5965,11 @@
           "hindi": "पत्नी और विवाह का विचार। के विषय में श्लोक संख्या 27 में और फल बताए गए हैं।",
           "status": "translated",
           "tags": [
+            "chain:venus_with_venus",
             "graha:moon",
             "graha:venus",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -5906,6 +5982,7 @@
             "bhava:1",
             "bhava:11",
             "bhava:2",
+            "chain:lord2_pos11",
             "rel:lordship",
             "rel:position"
           ]
@@ -5919,7 +5996,8 @@
           "tags": [
             "bhava:11",
             "bhava:2",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -5932,7 +6010,8 @@
             "graha:mars",
             "graha:venus",
             "rel:conjunction",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -5959,6 +6038,7 @@
             "bhava:1",
             "bhava:7",
             "bhava:8",
+            "chain:lord8_pos7",
             "graha:venus",
             "rel:conjunction",
             "rel:lordship",
@@ -5988,7 +6068,8 @@
           "tags": [
             "bhava:7",
             "graha:venus",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -6039,6 +6120,7 @@
           "status": "translated",
           "tags": [
             "bhava:8",
+            "chain:venus_with_saturn",
             "graha:saturn",
             "graha:venus",
             "rel:position"
@@ -6068,6 +6150,8 @@
           "tags": [
             "bhava:5",
             "bhava:8",
+            "chain:lord8_pos5",
+            "chain:moon_with_moon",
             "entity:bhava",
             "graha:mercury",
             "graha:moon",
@@ -6094,6 +6178,7 @@
             "bhava:6",
             "bhava:7",
             "bhava:8",
+            "chain:mars_with_rahu",
             "graha:mars",
             "graha:rahu",
             "graha:saturn",
@@ -6284,6 +6369,7 @@
           "status": "translated",
           "tags": [
             "bhava:8",
+            "chain:lord8_pos8",
             "graha:moon",
             "rel:aspect",
             "rel:conjunction",
@@ -6302,6 +6388,7 @@
           "tags": [
             "bhava:1",
             "bhava:8",
+            "chain:moon_pos8",
             "graha:jupiter",
             "graha:moon",
             "rel:conjunction",
@@ -6438,6 +6525,7 @@
           "tags": [
             "bhava:10",
             "bhava:9",
+            "chain:lord9_pos10",
             "entity:bhava",
             "rel:aspect",
             "rel:lordship",
@@ -6455,6 +6543,7 @@
           "tags": [
             "bhava:11",
             "bhava:9",
+            "chain:lord9_pos11",
             "graha:sun",
             "rel:lordship",
             "rel:position"
@@ -6469,6 +6558,7 @@
           "tags": [
             "bhava:7",
             "bhava:9",
+            "chain:lord9_pos7",
             "graha:jupiter",
             "graha:sun",
             "rel:aspect",
@@ -6487,6 +6577,7 @@
           "tags": [
             "bhava:2",
             "bhava:9",
+            "chain:lord9_pos2",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -6502,6 +6593,7 @@
             "bhava:1",
             "bhava:6",
             "bhava:9",
+            "chain:lord1_pos9",
             "rel:conjunction",
             "rel:lordship",
             "rel:modality",
@@ -6536,6 +6628,7 @@
             "bhava:5",
             "bhava:6",
             "bhava:8",
+            "chain:lord12_pos1",
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
@@ -6550,6 +6643,8 @@
           "tags": [
             "bhava:8",
             "bhava:9",
+            "chain:lord8_pos9",
+            "entity:bhava",
             "graha:sun",
             "rel:lordship",
             "rel:modality",
@@ -6565,6 +6660,7 @@
           "tags": [
             "bhava:12",
             "bhava:9",
+            "chain:lord12_pos9",
             "rel:dignity",
             "rel:lordship",
             "rel:position"
@@ -6606,6 +6702,7 @@
           "status": "translated",
           "tags": [
             "bhava:9",
+            "chain:sun_pos9",
             "graha:moon",
             "graha:rahu",
             "graha:sun",
@@ -6623,6 +6720,7 @@
           "tags": [
             "bhava:12",
             "bhava:9",
+            "chain:lord9_pos12",
             "rel:lordship",
             "rel:position"
           ]
@@ -6664,8 +6762,10 @@
           "hindi": "भाग्य और धर्म का विचार। के विषय में श्लोक संख्या 22 में और फल बताए गए हैं।",
           "status": "translated",
           "tags": [
+            "bhava:7",
             "graha:sun",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -6676,8 +6776,10 @@
           "status": "translated",
           "tags": [
             "bhava:6",
+            "chain:saturn_with_saturn",
             "graha:saturn",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -6710,6 +6812,7 @@
           "tags": [
             "bhava:3",
             "bhava:9",
+            "chain:lord9_pos3",
             "graha:saturn",
             "graha:venus",
             "rel:conjunction",
@@ -6728,7 +6831,8 @@
             "bhava:9",
             "graha:jupiter",
             "rel:conjunction",
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -6740,7 +6844,8 @@
           "tags": [
             "bhava:9",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -6753,6 +6858,7 @@
             "bhava:1",
             "bhava:7",
             "bhava:9",
+            "chain:lord1_pos9",
             "graha:jupiter",
             "rel:conjunction",
             "rel:lordship",
@@ -6834,6 +6940,7 @@
             "rel:dignity",
             "rel:lordship",
             "rel:polarity",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -6901,6 +7008,7 @@
           "tags": [
             "bhava:10",
             "bhava:7",
+            "chain:lord10_pos7",
             "graha:mars",
             "graha:saturn",
             "rel:conjunction",
@@ -6918,6 +7026,7 @@
           "tags": [
             "bhava:10",
             "bhava:9",
+            "chain:lord9_pos10",
             "graha:jupiter",
             "rel:conjunction",
             "rel:dignity",
@@ -6934,6 +7043,7 @@
           "tags": [
             "bhava:10",
             "bhava:11",
+            "chain:lord11_pos10",
             "graha:jupiter",
             "rel:conjunction",
             "rel:house_group",
@@ -7003,6 +7113,7 @@
             "bhava:1",
             "bhava:10",
             "bhava:11",
+            "chain:lord11_pos1",
             "graha:venus",
             "rel:house_group",
             "rel:lordship",
@@ -7024,7 +7135,8 @@
             "rel:dignity",
             "rel:house_group",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -7036,6 +7148,7 @@
           "tags": [
             "bhava:1",
             "bhava:10",
+            "chain:lord10_pos1",
             "entity:bhava",
             "graha:moon",
             "rel:conjunction",
@@ -7069,6 +7182,7 @@
           "tags": [
             "bhava:10",
             "bhava:8",
+            "chain:lord8_pos10",
             "rel:conjunction",
             "rel:lordship",
             "rel:modality",
@@ -7084,6 +7198,7 @@
           "status": "translated",
           "tags": [
             "bhava:10",
+            "chain:lord10_pos10",
             "rel:dignity",
             "rel:lordship",
             "rel:polarity",
@@ -7117,6 +7232,7 @@
           "tags": [
             "bhava:10",
             "bhava:11",
+            "chain:lord11_pos10",
             "entity:bhava",
             "graha:jupiter",
             "rel:aspect",
@@ -7136,7 +7252,9 @@
           "tags": [
             "bhava:1",
             "bhava:10",
+            "bhava:5",
             "bhava:9",
+            "chain:lord1_pos5",
             "graha:moon",
             "rel:conjunction",
             "rel:lordship",
@@ -7196,6 +7314,7 @@
           "tags": [
             "bhava:11",
             "bhava:2",
+            "chain:lord11_pos2",
             "entity:bhava",
             "graha:jupiter",
             "rel:conjunction",
@@ -7229,7 +7348,8 @@
             "rel:conjunction",
             "rel:house_group",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -7242,6 +7362,7 @@
             "bhava:11",
             "bhava:2",
             "bhava:9",
+            "chain:moon_pos9",
             "graha:jupiter",
             "graha:moon",
             "graha:venus",
@@ -7258,12 +7379,14 @@
           "hindi": "यदि लाभ से लाभ स्थान (नवम) में गुरु हो और बुध व चन्द्रमा से युक्त हो, तो मनुष्य धन-धान्य का स्वामी, श्रीमान् और रत्नादि आभूषणों से युक्त होता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:2",
             "graha:jupiter",
             "graha:mercury",
             "graha:moon",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7275,6 +7398,7 @@
           "tags": [
             "bhava:1",
             "bhava:11",
+            "chain:lord11_pos1",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -7291,6 +7415,7 @@
           "tags": [
             "bhava:11",
             "bhava:2",
+            "chain:lord2_pos11",
             "rel:lordship",
             "rel:position"
           ]
@@ -7304,6 +7429,7 @@
           "tags": [
             "bhava:11",
             "bhava:3",
+            "chain:lord11_pos3",
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
@@ -7512,6 +7638,7 @@
             "bhava:1",
             "bhava:12",
             "bhava:5",
+            "chain:lord1_pos12",
             "graha:venus",
             "rel:conjunction",
             "rel:lordship",
@@ -7532,7 +7659,9 @@
           "status": "translated",
           "tags": [
             "bhava:1",
-            "rel:lordship"
+            "chain:lord1_pos1",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7543,8 +7672,11 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:2",
+            "chain:lord1_pos2",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7569,8 +7701,11 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:4",
+            "chain:lord1_pos4",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7581,7 +7716,10 @@
           "status": "translated",
           "tags": [
             "bhava:1",
-            "rel:lordship"
+            "bhava:5",
+            "chain:lord1_pos5",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7592,10 +7730,13 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:6",
+            "chain:lord1_pos6",
             "rel:aspect",
             "rel:dignity",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -7619,7 +7760,8 @@
           "status": "translated",
           "tags": [
             "bhava:1",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7630,8 +7772,11 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:9",
+            "chain:lord1_pos9",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7654,8 +7799,11 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:11",
+            "chain:lord1_pos11",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7667,6 +7815,7 @@
           "tags": [
             "bhava:1",
             "bhava:12",
+            "chain:lord1_pos12",
             "entity:bhava",
             "entity:yoga",
             "rel:lordship",
@@ -7681,9 +7830,12 @@
           "hindi": "यदि द्वितीयेश लग्न में हो, तो जातक पुत्रवान और धनवान होता है, परन्तु वह अपने ही कुटुंब के लिए काँटा (पीड़ादायक), कामी, निष्ठुर और दूसरों का काम करने वाला होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:2",
+            "chain:lord2_pos1",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7694,8 +7846,10 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "chain:lord2_pos2",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7720,6 +7874,7 @@
           "tags": [
             "bhava:2",
             "bhava:4",
+            "chain:lord2_pos4",
             "entity:bhava",
             "graha:jupiter",
             "rel:conjunction",
@@ -7738,6 +7893,7 @@
           "tags": [
             "bhava:2",
             "bhava:5",
+            "chain:lord2_pos5",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -7753,6 +7909,7 @@
           "tags": [
             "bhava:2",
             "bhava:6",
+            "chain:lord2_pos6",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -7785,7 +7942,8 @@
             "bhava:2",
             "rel:conjunction",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -7797,6 +7955,7 @@
           "tags": [
             "bhava:2",
             "bhava:9",
+            "chain:lord2_pos9",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -7809,9 +7968,12 @@
           "hindi": "यदि द्वितीयेश दसवें भाव में हो, तो जातक कामी, मानी और पण्डित होता है। वह अनेक स्त्रियों और धन से युक्त होता है, परन्तु उसे पुत्र-सुख की कमी रहती है।",
           "status": "translated",
           "tags": [
+            "bhava:10",
             "bhava:2",
+            "chain:lord2_pos10",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7823,6 +7985,7 @@
           "tags": [
             "bhava:11",
             "bhava:2",
+            "chain:lord2_pos11",
             "entity:bhava",
             "entity:yoga",
             "rel:conjunction",
@@ -7839,6 +8002,7 @@
           "tags": [
             "bhava:12",
             "bhava:2",
+            "chain:lord2_pos12",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -7851,8 +8015,10 @@
           "hindi": "यदि तृतीयेश लग्न में हो, तो जातक अपने बाहुबल से धन कमाने वाला, सेवा कार्य को जानने वाला, साहसी और विद्याहीन होने पर भी बुद्धिमान होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:3",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -7980,8 +8146,10 @@
           "hindi": "यदि तृतीयेश ग्यारहवें भाव में हो, तो जातक को व्यापार में सदा लाभ होता है। वह विद्याहीन होने पर भी मेधावी, साहसी और दूसरों की सेवा करने वाला होता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:3",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8006,9 +8174,12 @@
           "hindi": "यदि चतुर्थेश लग्न में हो, तो जातक विद्या और गुणों से विभूषित, भूमि व वाहन से युक्त और माता के सुख से सम्पन्न होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:4",
+            "chain:lord4_pos1",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8018,9 +8189,12 @@
           "hindi": "यदि चतुर्थेश दूसरे भाव में हो, तो जातक भोगी और सब प्रकार के धन से युक्त होता है। वह कुटुंब के साथ रहने वाला, मानी, साहसी परन्तु कपटी (मायावी) होता है।",
           "status": "translated",
           "tags": [
+            "bhava:2",
             "bhava:4",
+            "chain:lord4_pos2",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8044,6 +8218,7 @@
           "status": "translated",
           "tags": [
             "bhava:4",
+            "chain:lord4_pos4",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8058,6 +8233,7 @@
           "tags": [
             "bhava:4",
             "bhava:5",
+            "chain:lord4_pos5",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8072,6 +8248,7 @@
           "tags": [
             "bhava:4",
             "bhava:6",
+            "chain:lord4_pos6",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8100,6 +8277,7 @@
           "tags": [
             "bhava:4",
             "bhava:8",
+            "chain:lord4_pos8",
             "entity:bhava",
             "rel:lordship",
             "rel:modality",
@@ -8115,6 +8293,7 @@
           "tags": [
             "bhava:4",
             "bhava:9",
+            "chain:lord4_pos9",
             "entity:bhava",
             "rel:lordship",
             "rel:modality",
@@ -8130,6 +8309,7 @@
           "tags": [
             "bhava:10",
             "bhava:4",
+            "chain:lord4_pos10",
             "entity:bhava",
             "rel:lordship",
             "rel:modality",
@@ -8143,8 +8323,11 @@
           "hindi": "यदि चतुर्थेश ग्यारहवें भाव में हो, तो जातक को गुप्त रोगों का भय रहता है। वह उदार, गुणी, दानी और दूसरों की भलाई करने में लगा रहता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:4",
-            "rel:lordship"
+            "chain:lord4_pos11",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8156,6 +8339,7 @@
           "tags": [
             "bhava:12",
             "bhava:4",
+            "chain:lord4_pos12",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8169,8 +8353,11 @@
           "hindi": "यदि पंचमेश लग्न में हो, तो जातक विद्वान और पुत्र-सुख से युक्त होता है, परन्तु वह कंजूस, कुटिल बुद्धि वाला और दूसरे के धन को हरने वाला होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:5",
-            "rel:lordship"
+            "chain:lord5_pos1",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8180,8 +8367,11 @@
           "hindi": "यदि पंचमेश दूसरे भाव में हो, तो जातक बहुत पुत्रों वाला, धनवान, कुटुंब का पालन करने वाला, मानी, स्त्रियों का प्रिय और संसार में सुयश पाने वाला होता है।",
           "status": "translated",
           "tags": [
+            "bhava:2",
             "bhava:5",
-            "rel:lordship"
+            "chain:lord5_pos2",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8206,6 +8396,7 @@
           "tags": [
             "bhava:4",
             "bhava:5",
+            "chain:lord5_pos4",
             "entity:bhava",
             "graha:jupiter",
             "rel:conjunction",
@@ -8235,6 +8426,7 @@
           "tags": [
             "bhava:5",
             "bhava:6",
+            "chain:lord5_pos6",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -8264,6 +8456,7 @@
           "tags": [
             "bhava:5",
             "bhava:8",
+            "chain:lord5_pos8",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8278,8 +8471,11 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "bhava:9",
+            "chain:lord5_pos9",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -8291,6 +8487,7 @@
           "tags": [
             "bhava:10",
             "bhava:5",
+            "chain:lord5_pos10",
             "entity:bhava",
             "entity:yoga",
             "rel:lordship",
@@ -8305,8 +8502,11 @@
           "hindi": "यदि पंचमेश ग्यारहवें भाव में हो, तो जातक विद्वान, जनता का प्रिय, महान ग्रन्थकर्ता, अत्यंत कुशल और अनेक पुत्रों व धन से युक्त होता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:5",
-            "rel:lordship"
+            "chain:lord5_pos11",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8318,6 +8518,7 @@
           "tags": [
             "bhava:12",
             "bhava:5",
+            "chain:lord5_pos12",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8331,10 +8532,13 @@
           "hindi": "यदि षष्ठेश लग्न में हो, तो जातक रोगी होता है परन्तु प्रसिद्ध होता है। वह अपना ही शत्रु (आत्म-शत्रु), धनी, मानी, साहसी और गुणी होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:6",
+            "chain:lord6_pos1",
             "rel:conjunction",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8346,6 +8550,7 @@
           "tags": [
             "bhava:2",
             "bhava:6",
+            "chain:lord6_pos2",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8373,6 +8578,7 @@
           "tags": [
             "bhava:4",
             "bhava:6",
+            "chain:lord6_pos4",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8385,6 +8591,7 @@
           "hindi": "यदि षष्ठेश पांचवें भाव में हो, तो जातक का धन आदि अस्थिर रहता है। उसकी पुत्रों और मित्रों से शत्रुता होती है, वह सुखी, स्वार्थी और दयालु स्वभाव का होता है।",
           "status": "translated",
           "tags": [
+            "bhava:5",
             "bhava:6",
             "rel:dignity",
             "rel:lordship"
@@ -8398,6 +8605,7 @@
           "status": "translated",
           "tags": [
             "bhava:6",
+            "chain:lord6_pos6",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8412,6 +8620,7 @@
           "tags": [
             "bhava:6",
             "bhava:7",
+            "chain:lord6_pos7",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8427,7 +8636,8 @@
           "tags": [
             "bhava:6",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8438,7 +8648,10 @@
           "status": "translated",
           "tags": [
             "bhava:6",
-            "rel:lordship"
+            "bhava:9",
+            "chain:lord6_pos9",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8461,9 +8674,12 @@
           "hindi": "यदि षष्ठेश ग्यारहवें भाव में हो, तो जातक शत्रुओं के माध्यम से धन प्राप्त करता है। वह गुणी, साहसी और मानी होता है, परन्तु उसे पुत्र-सुख की कमी रहती है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:6",
+            "chain:lord6_pos11",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8475,6 +8691,7 @@
           "tags": [
             "bhava:12",
             "bhava:6",
+            "chain:lord6_pos12",
             "entity:bhava",
             "graha:jupiter",
             "rel:lordship",
@@ -8488,8 +8705,11 @@
           "hindi": "यदि सप्तमेश लग्न में हो, तो जातक पर-स्त्रियों में लम्पट (कामी), दुष्ट स्वभाव का, चतुर, अधीर और वात रोगों (गैस आदि) से पीड़ित होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:7",
-            "rel:lordship"
+            "chain:lord7_pos1",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8499,10 +8719,13 @@
           "hindi": "यदि सप्तमेश दूसरे भाव में हो, तो जातक कई स्त्रियों वाला होता है। उसे पत्नी के माध्यम से धन की प्राप्ति होती है और वह काम को टालने वाला (दीर्घसूत्री) होता है।",
           "status": "translated",
           "tags": [
+            "bhava:2",
             "bhava:7",
+            "chain:lord7_pos2",
             "entity:yoga",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8526,6 +8749,7 @@
           "tags": [
             "bhava:4",
             "bhava:7",
+            "chain:lord7_pos4",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8554,6 +8778,7 @@
           "tags": [
             "bhava:6",
             "bhava:7",
+            "chain:lord7_pos6",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8594,6 +8819,7 @@
           "tags": [
             "bhava:7",
             "bhava:9",
+            "chain:lord7_pos9",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8608,6 +8834,7 @@
           "tags": [
             "bhava:10",
             "bhava:7",
+            "chain:lord7_pos10",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8623,6 +8850,7 @@
           "tags": [
             "bhava:11",
             "bhava:7",
+            "chain:lord7_pos11",
             "entity:bhava",
             "rel:lordship",
             "rel:modality",
@@ -8636,10 +8864,13 @@
           "hindi": "यदि सप्तमेश बारहवें भाव में हो, तो जातक दरिद्र या कंजूस होता है। उसकी पत्नी भी बहुत खर्च करने वाली होती है और जातक वस्त्रों के व्यापार से अपनी जीविका चलाता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "bhava:7",
+            "chain:lord7_pos12",
             "graha:jupiter",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -8691,6 +8922,7 @@
           "tags": [
             "bhava:4",
             "bhava:8",
+            "chain:lord8_pos4",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -8706,6 +8938,7 @@
           "tags": [
             "bhava:5",
             "bhava:8",
+            "chain:lord8_pos5",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8720,6 +8953,7 @@
           "tags": [
             "bhava:6",
             "bhava:8",
+            "chain:lord8_pos6",
             "entity:bhava",
             "rel:conjunction",
             "rel:dignity",
@@ -8736,6 +8970,7 @@
           "tags": [
             "bhava:7",
             "bhava:8",
+            "chain:lord8_pos7",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8794,6 +9029,7 @@
           "tags": [
             "bhava:11",
             "bhava:8",
+            "chain:lord8_pos11",
             "entity:bhava",
             "rel:lordship",
             "rel:polarity",
@@ -8809,6 +9045,7 @@
           "tags": [
             "bhava:12",
             "bhava:8",
+            "chain:lord8_pos12",
             "entity:bhava",
             "rel:lordship",
             "rel:polarity",
@@ -8822,8 +9059,11 @@
           "hindi": "यदि नवमेश लग्न में हो, तो जातक भाग्यवान, राजा द्वारा वन्दित (सम्मानित), सुशील, सुन्दर रूप वाला, विद्वान और जनता द्वारा पूजित होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:9",
-            "rel:lordship"
+            "chain:lord9_pos1",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -8835,6 +9075,7 @@
           "tags": [
             "bhava:2",
             "bhava:9",
+            "chain:lord9_pos2",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8849,6 +9090,7 @@
           "tags": [
             "bhava:3",
             "bhava:9",
+            "chain:lord9_pos3",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8878,6 +9120,7 @@
           "tags": [
             "bhava:5",
             "bhava:9",
+            "chain:lord9_pos5",
             "entity:bhava",
             "graha:jupiter",
             "rel:conjunction",
@@ -8894,6 +9137,7 @@
           "tags": [
             "bhava:6",
             "bhava:9",
+            "chain:lord9_pos6",
             "entity:bhava",
             "rashi:tula",
             "rel:dignity",
@@ -8910,6 +9154,7 @@
           "tags": [
             "bhava:7",
             "bhava:9",
+            "chain:lord9_pos7",
             "entity:bhava",
             "entity:yoga",
             "rel:lordship",
@@ -8939,6 +9184,7 @@
           "tags": [
             "bhava:3",
             "bhava:9",
+            "chain:lord9_pos9",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -8954,6 +9200,7 @@
           "tags": [
             "bhava:10",
             "bhava:9",
+            "chain:lord9_pos10",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -8968,6 +9215,7 @@
           "tags": [
             "bhava:11",
             "bhava:9",
+            "chain:lord9_pos11",
             "entity:bhava",
             "graha:jupiter",
             "rel:lordship",
@@ -8983,6 +9231,7 @@
           "tags": [
             "bhava:12",
             "bhava:9",
+            "chain:lord9_pos12",
             "entity:bhava",
             "rel:lordship",
             "rel:polarity",
@@ -8996,8 +9245,11 @@
           "hindi": "यदि दशमेश लग्न में हो, तो जातक विद्वान, प्रसिद्ध, धनी और कवि होता है। बचपन में रोगी हो सकता है परन्तु बाद में सुखी होता है और उसका धन दिन-प्रतिदिन बढ़ता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:10",
-            "rel:lordship"
+            "chain:lord10_pos1",
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -9009,6 +9261,7 @@
           "tags": [
             "bhava:10",
             "bhava:2",
+            "chain:lord10_pos2",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -9036,6 +9289,7 @@
           "tags": [
             "bhava:10",
             "bhava:4",
+            "chain:lord10_pos4",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9050,6 +9304,7 @@
           "tags": [
             "bhava:10",
             "bhava:5",
+            "chain:lord10_pos5",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -9065,6 +9320,7 @@
           "tags": [
             "bhava:10",
             "bhava:6",
+            "chain:lord10_pos6",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -9080,6 +9336,7 @@
           "tags": [
             "bhava:10",
             "bhava:7",
+            "chain:lord10_pos7",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9094,6 +9351,7 @@
           "tags": [
             "bhava:10",
             "bhava:8",
+            "chain:lord10_pos8",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9119,6 +9377,7 @@
           "status": "translated",
           "tags": [
             "bhava:10",
+            "chain:lord10_pos10",
             "entity:bhava",
             "graha:jupiter",
             "rel:lordship",
@@ -9134,6 +9393,7 @@
           "tags": [
             "bhava:10",
             "bhava:11",
+            "chain:lord10_pos11",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9148,6 +9408,7 @@
           "tags": [
             "bhava:10",
             "bhava:12",
+            "chain:lord10_pos12",
             "entity:bhava",
             "rel:dignity",
             "rel:lordship",
@@ -9161,10 +9422,13 @@
           "hindi": "यदि एकादशेश लग्न में हो, तो जातक सात्त्विक, धनवान, सुखी, सबको समान दृष्टि से देखने वाला, कवि, वक्ता और सदा लाभ प्राप्त करने वाला होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:11",
+            "chain:lord11_pos1",
             "rel:aspect",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -9176,6 +9440,7 @@
           "tags": [
             "bhava:11",
             "bhava:2",
+            "chain:lord11_pos2",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -9204,6 +9469,7 @@
           "tags": [
             "bhava:11",
             "bhava:4",
+            "chain:lord11_pos4",
             "entity:bhava",
             "rel:lordship",
             "rel:modality",
@@ -9219,6 +9485,7 @@
           "tags": [
             "bhava:11",
             "bhava:5",
+            "chain:lord11_pos5",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9249,6 +9516,7 @@
           "tags": [
             "bhava:11",
             "bhava:7",
+            "chain:lord11_pos7",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9263,6 +9531,7 @@
           "tags": [
             "bhava:11",
             "bhava:8",
+            "chain:lord11_pos8",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9291,6 +9560,7 @@
           "tags": [
             "bhava:10",
             "bhava:11",
+            "chain:lord11_pos10",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9304,6 +9574,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "chain:lord11_pos11",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9318,6 +9589,7 @@
           "tags": [
             "bhava:11",
             "bhava:12",
+            "chain:lord11_pos12",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9330,9 +9602,12 @@
           "hindi": "यदि द्वादशेश लग्न में हो, तो जातक बहुत खर्च करने वाला होता है। वह दुर्बल शरीर वाला, कफ रोगी और धन व विद्या से रहित होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:12",
+            "chain:lord12_pos1",
             "rel:lordship",
             "rel:modality",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -9345,6 +9620,7 @@
           "tags": [
             "bhava:12",
             "bhava:2",
+            "chain:lord12_pos2",
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
@@ -9373,6 +9649,7 @@
           "tags": [
             "bhava:12",
             "bhava:4",
+            "chain:lord12_pos4",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9387,6 +9664,7 @@
           "tags": [
             "bhava:12",
             "bhava:5",
+            "chain:lord12_pos5",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9401,6 +9679,7 @@
           "tags": [
             "bhava:12",
             "bhava:6",
+            "chain:lord12_pos6",
             "entity:bhava",
             "rel:lordship",
             "rel:polarity",
@@ -9416,6 +9695,7 @@
           "tags": [
             "bhava:12",
             "bhava:7",
+            "chain:lord12_pos7",
             "entity:bhava",
             "rel:lordship",
             "rel:position",
@@ -9445,6 +9725,7 @@
           "tags": [
             "bhava:12",
             "bhava:9",
+            "chain:lord12_pos9",
             "entity:bhava",
             "graha:jupiter",
             "rel:dignity",
@@ -9461,6 +9742,7 @@
           "tags": [
             "bhava:10",
             "bhava:12",
+            "chain:lord12_pos10",
             "entity:bhava",
             "rel:lordship",
             "rel:modality",
@@ -9476,6 +9758,7 @@
           "tags": [
             "bhava:11",
             "bhava:12",
+            "chain:lord12_pos11",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9489,6 +9772,7 @@
           "status": "translated",
           "tags": [
             "bhava:12",
+            "chain:lord12_pos12",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -9612,7 +9896,9 @@
           "status": "translated",
           "tags": [
             "bhava:6",
+            "entity:bhava",
             "rel:conjunction",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -9624,7 +9910,8 @@
           "status": "translated",
           "tags": [
             "bhava:7",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -9728,7 +10015,9 @@
           "hindi": "पंचम भाव में व्यतिपात हो, तो जातक निर्धन, सुंदर, कफ-पित्त-वात विकारों से युक्त, निष्ठुर और निर्लज्ज होता है।",
           "status": "translated",
           "tags": [
-            "rel:conjunction"
+            "bhava:5",
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -9749,7 +10038,8 @@
           "hindi": "सप्तम भाव में व्यतिपात हो, तो जातक धन, स्त्री और पुत्र से रहित, स्त्रियों के वश में रहने वाला, दुखी, कामी, निर्लज्ज और दूसरों का मित्र होता है।",
           "status": "translated",
           "tags": [
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -9812,7 +10102,8 @@
           "hindi": "यदि लग्न में परिवेष (परिधि) हो, तो जातक विद्वान, सत्यरतः, शांत, धनवान, पुत्रवान, पवित्र, दानी और गुरु का भक्त होता है।",
           "status": "translated",
           "tags": [
-            "graha:jupiter"
+            "graha:jupiter",
+            "rel:position"
           ]
         },
         {
@@ -9882,6 +10173,7 @@
           "status": "translated",
           "tags": [
             "bhava:7",
+            "chain:saturn_pos7",
             "entity:bhava",
             "graha:saturn",
             "rel:polarity",
@@ -9905,7 +10197,11 @@
           "text": "पुत्रान्वितः सुखी कान्तो धनाढयो लौल्यवर्जितः ।\nपरिधौ धर्मगे मानी स्वल्पसन्तुष्टमानसः",
           "english": "In the 9th house, the native is endowed with sons, happy, handsome, wealthy, lacking greed, honorable and easily contented.",
           "hindi": "नवम भाव में परिवेष हो, तो जातक पुत्रवान, सुखी, सुंदर, धनाढ्य, लोभ रहित, मानी और अल्प-संतोषी होता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "bhava:9",
+            "rel:position"
+          ]
         },
         {
           "number": 35,
@@ -9921,7 +10217,9 @@
           "hindi": "एकादश भाव में परिवेष हो, तो जातक स्त्रियों का भोग करने वाला, गुणवान, बुद्धिमान, स्वजनों का प्रिय और मंदाग्नि वाला होता है।",
           "status": "translated",
           "tags": [
-            "graha:saturn"
+            "bhava:11",
+            "graha:saturn",
+            "rel:position"
           ]
         },
         {
@@ -9984,7 +10282,11 @@
           "text": "रुचिमान् दीर्घदर्शो च देवभक्तः प्रियंवदः ।\nचापे पञ्चमगे जातो विवृद्धः सर्वकर्मसु",
           "english": "In the 5th house, the native has good taste, is far-sighted, a devotee of gods, sweet-spoken and grows in all works.",
           "hindi": "पंचम भाव में इन्द्रचाप हो, तो जातक सुरुचिपूर्ण, दूरदर्शी, देवभक्त, प्रियभाषी और सभी कार्यों में उन्नति करने वाला होता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "bhava:5",
+            "rel:position"
+          ]
         },
         {
           "number": 43,
@@ -10051,8 +10353,10 @@
           "hindi": "एकादश भाव में इन्द्रचाप हो, तो जातक लाभान्वित, नीरोग, अत्यंत क्रोधी, तथा मंत्र, स्त्री और अस्त्रों का ज्ञाता होता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "graha:sun",
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -10205,8 +10509,11 @@
           "hindi": "द्वादश भाव में उपकेतु हो, तो जातक पापकर्मों में रत, शूरवीर, श्रद्धाहीन, निर्दयी, परस्त्रीगामी और उग्र होता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
+            "chain:ketu_pos12",
             "graha:ketu",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -10291,6 +10598,7 @@
           "tags": [
             "bhava:2",
             "bhava:7",
+            "chain:jupiter_pos7",
             "graha:jupiter",
             "rel:polarity",
             "rel:position"
@@ -10303,7 +10611,9 @@
           "hindi": "अष्टम भाव में गुलिक हो, तो जातक क्षुद्र, हिंसक, नेत्र रोगी, कुरूप और क्रोधी होता है।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "bhava:8",
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -10313,7 +10623,9 @@
           "hindi": "नवम भाव में गुलिक हो, तो जातक बहुत कष्ट देने वाला, क्रूर, नीच और अपने पिता को कष्ट देने वाला होता है।",
           "status": "translated",
           "tags": [
-            "graha:saturn"
+            "bhava:9",
+            "graha:saturn",
+            "rel:position"
           ]
         },
         {
@@ -10345,8 +10657,10 @@
           "hindi": "द्वादश भाव में गुलिक हो, तो जातक नीच कर्म करने वाला, अत्यंत लोभी, परस्त्रीगामी, अल्पायु और कुरूप होता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "rel:dignity",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -10378,7 +10692,8 @@
           "status": "translated",
           "tags": [
             "graha:jupiter",
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -10665,6 +10980,7 @@
             "rel:dignity",
             "rel:house_group",
             "rel:modality",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -11292,7 +11608,8 @@
           "status": "translated",
           "tags": [
             "rel:dignity",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -11425,7 +11742,8 @@
           "tags": [
             "entity:yoga",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -11435,7 +11753,8 @@
           "hindi": "मिश्रित ग्रह होने पर मिश्रित फल मिलता है। यदि ग्रह उच्च या मित्र राशि में हों, तो प्रचुर लाभ और सुख प्राप्त होता है।",
           "status": "translated",
           "tags": [
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -11477,7 +11796,8 @@
           "status": "translated",
           "tags": [
             "rel:aspect",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -11513,7 +11833,9 @@
           "hindi": "द्वादश भाव में शुभ ग्रह होने पर शुभ कार्यों में व्यय होता है; पाप ग्रह होने पर कुमार्ग से धन का व्यय होता है।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "bhava:11",
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -11654,6 +11976,7 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "chain:venus_pos2",
             "graha:jupiter",
             "graha:venus",
             "rel:dignity",
@@ -11894,7 +12217,8 @@
           "hindi": "यदि उपपद का स्वामी या उससे द्वितीय का स्वामी अपनी ही राशि में बैठा हो, चाहे वह कुंडली में कहीं भी हो...",
           "status": "translated",
           "tags": [
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -11970,6 +12294,7 @@
           "hindi": "यदि उपपद से द्वितीय भाव का स्वामी द्वितीय भाव में ही स्थित हो, तो जातक की पत्नी की शीघ्र मृत्यु हो जाती है।",
           "status": "translated",
           "tags": [
+            "chain:mercury_with_saturn",
             "graha:mercury",
             "graha:saturn",
             "rel:conjunction",
@@ -12129,6 +12454,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "chain:saturn_pos11",
             "graha:saturn",
             "rel:position"
           ]
@@ -12176,6 +12502,7 @@
           "hindi": "उपपद से द्वितीय भाव पर पाप प्रभाव साथी को रोग या अकाल मृत्यु दे सकता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "graha:saturn"
           ]
         },
@@ -12186,7 +12513,9 @@
           "hindi": "भाई-बहन: जातक के भाइयों और बहनों के बारे में जानने के लिए उपपद से तृतीय भाव का विश्लेषण करें।",
           "status": "translated",
           "tags": [
-            "rel:modality"
+            "bhava:11",
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -12267,6 +12596,7 @@
           "tags": [
             "bhava:2",
             "bhava:7",
+            "chain:lord7_pos2",
             "graha:ketu",
             "rel:lordship",
             "rel:position"
@@ -12282,7 +12612,8 @@
             "bhava:7",
             "rel:conjunction",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         }
       ]
@@ -12424,7 +12755,8 @@
           "status": "translated",
           "tags": [
             "bhava:5",
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -12601,7 +12933,10 @@
           "text": "आत्माकारकभागेभ्यो न्यूनांशोऽमात्यकारकः ।\nतस्मान्न्यूनांशको भ्राता तन्न्यूनोमातृसंज्ञकः",
           "english": "The planet with degrees less than Atmakaraka is Amatyakaraka. Less than that is Bhratrikaraka, and less than that is Matrikaraka.",
           "hindi": "आत्मकारक से कम अंश वाला अमात्यकारक होता है। उससे कम अंश वाला भ्रातृकारक और उससे भी कम मातृकारक कहलाता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 14,
@@ -12881,7 +13216,8 @@
           "hindi": "अब मैं मेष आदि राशियों के अनुसार कारकांश का फल कहूँगा, जैसा कि ब्रह्मा जी ने कहा है, जहाँ आत्मकारक का नवांश पड़ता है।",
           "status": "translated",
           "tags": [
-            "rashi:mesha"
+            "rashi:mesha",
+            "rel:position"
           ]
         },
         {
@@ -12994,7 +13330,8 @@
           "status": "translated",
           "tags": [
             "rel:dignity",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -13054,7 +13391,8 @@
           "hindi": "यदि कारकांश में गुरु हो, तो धर्मात्मा, ज्ञाननिष्ठ और वेदों का ज्ञाता होता है। यदि शुक्र हो, तो कामी और राजप्रिय होता है।",
           "status": "translated",
           "tags": [
-            "graha:venus"
+            "graha:venus",
+            "rel:position"
           ]
         },
         {
@@ -13232,7 +13570,8 @@
           "hindi": "दूसरे में केतु होने पर इसमें रुकावट आती है; गुरु होने पर वह पत्नीभक्त होता है; राहु होने पर धन की हानि होती है।",
           "status": "translated",
           "tags": [
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -13242,7 +13581,8 @@
           "hindi": "कारकांश से तीसरे भाव में पाप ग्रह होने पर जातक शूर और प्रतापी होता है। शुभ ग्रह होने पर वह निश्चय ही डरपोक होता है।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -13257,7 +13597,8 @@
             "graha:venus",
             "rel:conjunction",
             "rel:dignity",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -13685,6 +14026,7 @@
           "status": "translated",
           "tags": [
             "bhava:12",
+            "chain:sun_pos12",
             "graha:sun",
             "rel:conjunction",
             "rel:position"
@@ -13698,6 +14040,7 @@
           "status": "translated",
           "tags": [
             "bhava:12",
+            "chain:moon_pos12",
             "graha:moon",
             "rel:conjunction",
             "rel:modality",
@@ -13712,6 +14055,7 @@
           "status": "translated",
           "tags": [
             "bhava:12",
+            "chain:venus_pos12",
             "graha:venus",
             "rel:conjunction",
             "rel:position"
@@ -14916,7 +15260,8 @@
           "status": "translated",
           "tags": [
             "entity:dasha",
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -14938,7 +15283,8 @@
           "status": "translated",
           "tags": [
             "entity:yoga",
-            "graha:jupiter"
+            "graha:jupiter",
+            "rel:position"
           ]
         },
         {
@@ -15334,7 +15680,8 @@
             "rel:dignity",
             "rel:house_group",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -15422,7 +15769,8 @@
             "entity:yoga",
             "graha:venus",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -15434,11 +15782,14 @@
           "tags": [
             "bhava:10",
             "bhava:11",
+            "bhava:5",
+            "chain:lord10_pos5",
             "graha:mars",
             "graha:mercury",
             "graha:moon",
             "rel:house_group",
             "rel:lordship",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -15510,6 +15861,8 @@
             "bhava:1",
             "bhava:2",
             "bhava:9",
+            "chain:lord2_pos9",
+            "chain:lord9_pos2",
             "entity:bhava",
             "entity:yoga",
             "rel:house_group",
@@ -15540,6 +15893,7 @@
             "rel:dignity",
             "rel:house_group",
             "rel:lordship",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -15650,6 +16004,7 @@
           "tags": [
             "bhava:1",
             "bhava:10",
+            "chain:lord1_pos10",
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
@@ -16061,7 +16416,8 @@
           "status": "translated",
           "tags": [
             "entity:varga",
-            "rel:aspect"
+            "rel:aspect",
+            "rel:position"
           ]
         },
         {
@@ -16135,6 +16491,7 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "chain:mercury_pos2",
             "entity:bhava",
             "graha:jupiter",
             "graha:mercury",
@@ -16167,6 +16524,7 @@
             "bhava:1",
             "bhava:12",
             "bhava:6",
+            "chain:lord12_pos6",
             "rel:aspect",
             "rel:dignity",
             "rel:lordship",
@@ -16316,10 +16674,12 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:11",
             "rel:aspect",
             "rel:dignity",
             "rel:house_group",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -16602,6 +16962,7 @@
             "rel:conjunction",
             "rel:dignity",
             "rel:polarity",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -16661,9 +17022,11 @@
           "hindi": "यदि आत्मकारक और जन्म राशि का स्वामी लग्न में शुभ ग्रह के साथ हों, तो वृद्धावस्था में मन्त्रित्व का मुख्य योग होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "entity:yoga",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -16701,6 +17064,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "chain:lord11_pos11",
             "entity:bhava",
             "rel:aspect",
             "rel:conjunction",
@@ -16718,6 +17082,8 @@
           "tags": [
             "bhava:1",
             "bhava:10",
+            "chain:lord10_pos1",
+            "chain:lord1_pos10",
             "entity:bhava",
             "entity:yoga",
             "rel:conjunction",
@@ -16846,6 +17212,7 @@
           "tags": [
             "bhava:11",
             "bhava:5",
+            "chain:mars_pos11",
             "graha:mars",
             "graha:venus",
             "rel:conjunction",
@@ -16860,6 +17227,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "chain:moon_pos11",
             "graha:moon",
             "rel:conjunction",
             "rel:position"
@@ -17155,7 +17523,10 @@
           "text": "वर्तमानयुगे जातस्तथा राजा युधिष्ठिरः ।\nभविता शालिवाहाद्यस्तथैव द्विजसत्तम",
           "english": "In the present age: King Yudhishthira, and in future, Shalivahana and others.",
           "hindi": "वर्तमान युग में राजा युधिष्ठिर और भविष्य में शालिवाहन आदि इसी योग में होंगे।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 33,
@@ -17196,6 +17567,8 @@
           "tags": [
             "bhava:1",
             "bhava:12",
+            "chain:lord12_pos1",
+            "chain:lord1_pos12",
             "entity:bhava",
             "rel:aspect",
             "rel:conjunction",
@@ -17212,6 +17585,8 @@
           "tags": [
             "bhava:1",
             "bhava:6",
+            "chain:lord1_pos6",
+            "chain:lord6_pos1",
             "entity:bhava",
             "rel:aspect",
             "rel:lordship",
@@ -17278,6 +17653,7 @@
             "bhava:12",
             "bhava:6",
             "bhava:9",
+            "chain:lord9_pos12",
             "entity:bhava",
             "rel:aspect",
             "rel:lordship",
@@ -17345,7 +17721,8 @@
             "rel:aspect",
             "rel:conjunction",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -17506,7 +17883,8 @@
           "hindi": "ये 'आयु-पिण्ड' कहलाते हैं। नीच राशियों में ये आधे (9.5, 12.5 आदि) समझने चाहिए। इनके बीच में अनुपात (proportion) से गणना करनी चाहिए।",
           "status": "translated",
           "tags": [
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -17567,10 +17945,12 @@
           "hindi": "यदि सूर्य, मंगल या शनि लग्न में हों और शुभ ग्रह से दृष्ट हों, तो उनकी दी हुई आयु का आधा भाग कम कर देना चाहिए।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "graha:mars",
             "graha:sun",
             "rel:aspect",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -17901,7 +18281,8 @@
           "hindi": "राशि के आदि में पूर्ण आयु और मध्य या अन्त में हानि होती है। योगकारक ग्रह के अंशों के योग को उस संख्या से भाग दें।",
           "status": "translated",
           "tags": [
-            "entity:yoga"
+            "entity:yoga",
+            "rel:position"
           ]
         },
         {
@@ -17924,7 +18305,8 @@
             "entity:yoga",
             "rel:conjunction",
             "rel:dignity",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -17934,9 +18316,11 @@
           "hindi": "यदि लग्न या 7वें भाव में गुरु हो और केवल शुभ ग्रहों से दृष्ट हो, तो हे विप्र! आयु की श्रेणी (कक्ष्या) में वृद्धि होती है।",
           "status": "translated",
           "tags": [
+            "bhava:7",
             "graha:jupiter",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -18048,7 +18432,8 @@
           "tags": [
             "graha:mars",
             "graha:saturn",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -18708,7 +19093,8 @@
           "tags": [
             "graha:venus",
             "rel:aspect",
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -18848,6 +19234,7 @@
           "hindi": "गुरु, चन्द्रमा/शुक्र, सूर्य/मंगल और बुध/शनि क्रमशः देव, पितृ, मनुष्य और अधोलोक (नरक) ले जाते हैं यदि वे 7, 6 या 8वें भाव में हों।",
           "status": "translated",
           "tags": [
+            "bhava:8",
             "graha:jupiter",
             "graha:mars",
             "graha:moon",
@@ -18886,7 +19273,8 @@
           "status": "translated",
           "tags": [
             "entity:bhava",
-            "entity:dasha"
+            "entity:dasha",
+            "rel:position"
           ]
         }
       ]
@@ -18992,6 +19380,7 @@
           "hindi": "जन्म के समय जो ग्रह जिस भाव में जैसी अवस्था में होता है, उस भाव का वैसा ही फल समझना चाहिए।",
           "status": "translated",
           "tags": [
+            "entity:bhava",
             "rel:modality"
           ]
         },
@@ -19046,7 +19435,8 @@
             "rel:aspect",
             "rel:conjunction",
             "rel:dignity",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -19072,6 +19462,7 @@
             "graha:jupiter",
             "rel:conjunction",
             "rel:dignity",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -19513,7 +19904,8 @@
           "status": "translated",
           "tags": [
             "rel:modality",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -19708,7 +20100,8 @@
           "tags": [
             "graha:mars",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -19729,7 +20122,8 @@
           "hindi": "बुध शयन में हो तो: लग्न में होने पर भूखा, लंगड़ा और लाल आँखों वाला। अन्य राशियों में कामी और धूर्त होता है।",
           "status": "translated",
           "tags": [
-            "graha:mercury"
+            "graha:mercury",
+            "rel:position"
           ]
         },
         {
@@ -19742,7 +20136,8 @@
             "bhava:5",
             "rel:conjunction",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -19757,7 +20152,8 @@
             "graha:mercury",
             "graha:moon",
             "rashi:kanya",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -19790,7 +20186,8 @@
           "hindi": "बुध सभा में हो तो: उच्च का होने पर सभा में धन और पुण्य की वृद्धि, राजा या मन्त्री पद, और ईश्वर में भक्ति प्राप्त होती है।",
           "status": "translated",
           "tags": [
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -20026,6 +20423,7 @@
           "hindi": "शुक्र नेत्रपाणि में हो तो: लग्न, 7वें या 10वें में होने पर धन की हानि। अन्य भावों में होने पर विशाल निवास स्थान मिलता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:7",
             "rel:modality",
             "rel:position"
@@ -20093,7 +20491,10 @@
           "text": "क्षुधातुरो व्याधिनिपीडितः स्यादनेकधारातिभयर्द्दितश्च ।\nकवौ यदा भोजनगे युवत्या महाधनी पण्डितमण्डितश्च",
           "english": "Venus in Bhojana (eating): hungry, diseased, fear from enemies. Very wealthy if in a benefic house.",
           "hindi": "शुक्र भोजन में हो तो: भूखा, रोगों से पीड़ित और शत्रुओं से डरा हुआ। शुभ राशि में होने पर बहुत धनी और सम्मानित होता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 108,
@@ -20788,7 +21189,8 @@
           "hindi": "नक्षत्र के भुक्त और भोग्य मान के आधार पर दशा के व्यतीत और शेष वर्षों का साधन करना चाहिए।",
           "status": "translated",
           "tags": [
-            "entity:dasha"
+            "entity:dasha",
+            "rel:position"
           ]
         },
         {
@@ -20881,6 +21283,7 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "chain:moon_with_sun",
             "entity:varga",
             "graha:moon",
             "graha:sun",
@@ -21025,8 +21428,10 @@
           "status": "translated",
           "tags": [
             "bhava:10",
+            "chain:lord10_pos10",
             "entity:dasha",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -21887,7 +22292,8 @@
           "hindi": "दशा के समय दिशा के अनुसार फल कहना चाहिए, जैसा कि सभी के लिए उपदेश दिया गया है।",
           "status": "translated",
           "tags": [
-            "entity:dasha"
+            "entity:dasha",
+            "rel:position"
           ]
         },
         {
@@ -21899,7 +22305,8 @@
           "tags": [
             "rashi:kanya",
             "rashi:karka",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -23045,7 +23452,8 @@
           "status": "translated",
           "tags": [
             "entity:dasha",
-            "entity:varga"
+            "entity:varga",
+            "rel:position"
           ]
         },
         {
@@ -23067,10 +23475,12 @@
           "hindi": "दशा के आरम्भ में यदि दशाधिपति लग्न में हो, शुभ ग्रहों से युक्त या दृष्ट हो, या उच्च आदि में हो, तो शुभ फल मिलता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "entity:dasha",
             "rel:conjunction",
             "rel:dignity",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -23235,6 +23645,7 @@
             "rel:dignity",
             "rel:house_group",
             "rel:polarity",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -23368,6 +23779,8 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
+            "chain:mars_pos2",
             "graha:mars",
             "rel:dignity",
             "rel:house_group",
@@ -23513,7 +23926,8 @@
           "tags": [
             "bhava:11",
             "rel:house_group",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -23523,8 +23937,10 @@
           "hindi": "स्थान नाश, मानसिक चिन्ता, स्त्री-पुत्रों को कष्ट और बन्धु-बान्धवों से वियोग होता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "bhava:8",
-            "entity:dasha"
+            "entity:dasha",
+            "rel:position"
           ]
         },
         {
@@ -23572,7 +23988,8 @@
           "tags": [
             "entity:dasha",
             "graha:mercury",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -23585,7 +24002,8 @@
             "bhava:11",
             "graha:jupiter",
             "rel:dignity",
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -23664,7 +24082,8 @@
             "bhava:9",
             "graha:saturn",
             "rel:dignity",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -23672,7 +24091,11 @@
           "text": "दुश्चिक्ये लाभगे चैव राजसम्मानवैभवम् ।\nसत्कीर्तिर्धनलाभश्च विद्यावादविनोदकृत्",
           "english": "Happiness of brothers, gain of land or house, and construction of new projects.",
           "hindi": "भाइयों का सुख, भूमि-भवन का लाभ और नई योजनाओं का निर्माण होता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "bhava:11",
+            "rel:position"
+          ]
         },
         {
           "number": 55,
@@ -23728,7 +24151,8 @@
             "rashi:mina",
             "rel:conjunction",
             "rel:house_group",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -23746,7 +24170,8 @@
           "status": "translated",
           "tags": [
             "entity:dasha",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -23760,7 +24185,8 @@
             "rel:conjunction",
             "rel:dignity",
             "rel:house_group",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -23831,7 +24257,8 @@
           "hindi": "धन लाभ, पुत्र-स्त्री का सुख और पुण्य कार्यों में सफलता प्राप्त होती है।",
           "status": "translated",
           "tags": [
-            "entity:dasha"
+            "entity:dasha",
+            "rel:position"
           ]
         },
         {
@@ -23991,7 +24418,8 @@
           "tags": [
             "bhava:12",
             "graha:venus",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -24014,7 +24442,8 @@
             "bhava:10",
             "bhava:9",
             "entity:yoga",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -24115,7 +24544,8 @@
           "tags": [
             "bhava:5",
             "entity:dasha",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -24207,6 +24637,7 @@
             "bhava:4",
             "bhava:5",
             "bhava:9",
+            "chain:lord9_pos5",
             "entity:dasha",
             "rel:conjunction",
             "rel:lordship",
@@ -24285,6 +24716,7 @@
           "tags": [
             "bhava:1",
             "bhava:9",
+            "chain:lord1_pos9",
             "entity:bhava",
             "entity:dasha",
             "graha:rahu",
@@ -24303,6 +24735,7 @@
           "tags": [
             "bhava:1",
             "bhava:10",
+            "chain:lord10_pos1",
             "entity:dasha",
             "rel:lordship",
             "rel:position"
@@ -24882,8 +25315,10 @@
           "hindi": "चन्द्रमा का अष्टकवर्ग: 8 बिन्दु अपार धन और वस्त्र देते हैं। 7 बिन्दु स्त्रियों या पत्नी से सुख प्रदान करते हैं।",
           "status": "translated",
           "tags": [
+            "bhava:6",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -24977,7 +25412,8 @@
           "hindi": "बुध का अष्टकवर्ग: 8 बिन्दु अनेक शास्त्रों का ज्ञान और राजकृपा देते हैं। 7 बिन्दु बुद्धि में वृद्धि करते हैं।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -25614,6 +26050,7 @@
           "tags": [
             "bhava:10",
             "bhava:9",
+            "chain:rahu_pos10",
             "graha:rahu",
             "rel:modality",
             "rel:position"
@@ -25745,7 +26182,8 @@
           "hindi": "यदि मकर राशि में अधिक बिन्दु हों, तो जातक परिश्रमी, अनुशासित और दृढ़ निश्चयी होता है।",
           "status": "translated",
           "tags": [
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -26139,7 +26577,8 @@
           "tags": [
             "entity:dasha",
             "rel:house_group",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -26260,7 +26699,8 @@
           "status": "translated",
           "tags": [
             "mahadasha:sun",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -26386,6 +26826,8 @@
           "hindi": "यदि राहु अशुभ स्थिति में हो, तो भ्रम, धन की भारी हानि और विषाक्त पदार्थों से भय रहता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:mars_pos11",
             "graha:mars",
             "graha:sun",
             "mahadasha:sun",
@@ -26730,7 +27172,8 @@
             "mahadasha:sun",
             "rel:conjunction",
             "rel:dignity",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -26815,6 +27258,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "chain:sun_pos11",
             "entity:varga",
             "graha:mercury",
             "graha:sun",
@@ -27151,13 +27595,16 @@
           "status": "translated",
           "tags": [
             "bhava:10",
+            "bhava:11",
             "bhava:9",
+            "chain:moon_pos11",
             "graha:moon",
             "mahadasha:moon",
             "rel:conjunction",
             "rel:dignity",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -27177,11 +27624,14 @@
           "hindi": "पूर्ण और बलवान चन्द्रमा सेनापतित्व और महान सुख देता है; निर्बल या अशुभ स्थिति में स्थित चन्द्रमा इसके विपरीत फल देता है।",
           "status": "translated",
           "tags": [
+            "bhava:6",
+            "chain:moon_pos6",
             "graha:moon",
             "mahadasha:moon",
             "rel:conjunction",
             "rel:dignity",
             "rel:polarity",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -27263,7 +27713,8 @@
             "rel:conjunction",
             "rel:dignity",
             "rel:modality",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -27379,7 +27830,8 @@
           "status": "translated",
           "tags": [
             "mahadasha:moon",
-            "rashi:vrischika"
+            "rashi:vrischika",
+            "rel:position"
           ]
         },
         {
@@ -27389,10 +27841,12 @@
           "hindi": "चन्द्रमा से तीसरे, दसवें या ग्यारहवें भाव में स्थिति तीर्थयात्रा और दिव्य आध्यात्मिक दर्शन का संकेत देती है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:moon",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -27423,6 +27877,8 @@
           "hindi": "चन्द्रमा की महादशा में गुरु की अन्तर्दशा का फल: यदि गुरु केन्द्र या त्रिकोण में हो, तो राजकृपा, धन और उत्सवों का सुख मिलता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:jupiter_pos11",
             "graha:jupiter",
             "graha:moon",
             "mahadasha:moon",
@@ -27488,10 +27944,12 @@
           "hindi": "जातक को भूमि, वाहन और सामान्य सांसारिक सुखों की हानि उठानी पड़ सकती है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:moon",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -27595,9 +28053,12 @@
           "status": "translated",
           "tags": [
             "bhava:12",
+            "bhava:2",
+            "chain:saturn_pos2",
             "graha:saturn",
             "mahadasha:moon",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -27624,6 +28085,7 @@
           "tags": [
             "bhava:7",
             "bhava:8",
+            "chain:sun_pos7",
             "graha:sun",
             "mahadasha:moon",
             "rel:position"
@@ -27686,11 +28148,13 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
             "entity:dasha",
             "mahadasha:moon",
             "rel:house_group",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -27766,7 +28230,8 @@
           "hindi": "परिवार से सुख और अपने धार्मिक कर्तव्यों का निष्ठापूर्वक पालन करना मुख्य फल हैं।",
           "status": "translated",
           "tags": [
-            "mahadasha:moon"
+            "mahadasha:moon",
+            "rel:position"
           ]
         },
         {
@@ -27797,7 +28262,8 @@
             "rel:aspect",
             "rel:conjunction",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -27927,10 +28393,12 @@
           "hindi": "दशा स्वामी से केन्द्र या त्रिकोण में स्थिति भूमि और समग्र धन में स्थिर लाभ सुनिश्चित करती है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "graha:venus",
             "mahadasha:moon",
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -28099,6 +28567,7 @@
             "mahadasha:mars",
             "rel:conjunction",
             "rel:dignity",
+            "rel:position",
             "rel:state"
           ]
         },
@@ -28275,6 +28744,7 @@
           "status": "translated",
           "tags": [
             "bhava:10",
+            "bhava:11",
             "bhava:4",
             "bhava:9",
             "entity:dasha",
@@ -28297,7 +28767,8 @@
             "mahadasha:mars",
             "rel:conjunction",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -28402,7 +28873,8 @@
             "entity:varga",
             "graha:saturn",
             "mahadasha:mars",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -28548,6 +29020,7 @@
           "hindi": "जातक धार्मिक लोगों के साथ जुड़ता है, उत्तम भोजन का आनन्द लेता है और अपने सामाजिक जीवन में शान्ति पाता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "mahadasha:mars",
             "rel:dignity",
             "rel:position"
@@ -28676,6 +29149,8 @@
           "hindi": "मंगल की महादशा में केतु की अन्तर्दशा का फल: यदि केतु केन्द्र, त्रिकोण, तृतीय या एकादश भाव में शुभ स्थिति में हो।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:mars_pos11",
             "graha:mars",
             "mahadasha:mars",
             "rel:conjunction",
@@ -28799,6 +29274,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
             "entity:dasha",
             "mahadasha:mars",
             "rel:house_group",
@@ -29061,7 +29537,8 @@
           "status": "translated",
           "tags": [
             "mahadasha:rahu",
-            "rashi:vrischika"
+            "rashi:vrischika",
+            "rel:position"
           ]
         },
         {
@@ -29131,6 +29608,7 @@
           "status": "translated",
           "tags": [
             "bhava:7",
+            "chain:lord7_pos7",
             "mahadasha:rahu",
             "rel:lordship",
             "rel:modality",
@@ -29230,10 +29708,12 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
             "entity:dasha",
             "mahadasha:rahu",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -29348,10 +29828,13 @@
           "hindi": "यदि शनि छठे, आठवें या बारहवें भाव में हो या निर्बल हो, तो यह गम्भीर शारीरिक और मानसिक रोग लाता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "bhava:8",
+            "chain:saturn_pos12",
             "graha:saturn",
             "mahadasha:rahu",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -29461,11 +29944,14 @@
           "hindi": "व्यापार, वाणिज्य और बौद्धिक प्रयासों में सफलता इस अन्तर्दशा के दौरान वित्तीय स्थिरता सुनिश्चित करती है।",
           "status": "translated",
           "tags": [
+            "bhava:10",
             "bhava:11",
+            "chain:lord11_pos10",
             "entity:dasha",
             "mahadasha:rahu",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -29644,7 +30130,8 @@
           "status": "translated",
           "tags": [
             "mahadasha:rahu",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -29795,6 +30282,8 @@
           "hindi": "दुर्गा सप्तशती पाठ करना और गाय एवं चाँदी की वस्तुओं का दान करना सुरक्षा और शान्ति सुनिश्चित करता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:sun_pos11",
             "graha:rahu",
             "graha:sun",
             "mahadasha:rahu",
@@ -29876,11 +30365,13 @@
           "hindi": "जातक को यात्राओं के दौरान कष्ट और स्वास्थ्य सम्बन्धी जटिलताओं का निरन्तर भय बना रह सकता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:rahu",
             "rel:house_group",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -29944,8 +30435,10 @@
           "hindi": "राजकृपा, आभूषणों की प्राप्ति और सामाजिक मान्यता इस अन्तर्दशा के सकारात्मक परिणाम हैं।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:4",
             "bhava:9",
+            "chain:lord4_pos11",
             "entity:dasha",
             "mahadasha:rahu",
             "rel:house_group",
@@ -30039,10 +30532,12 @@
           "hindi": "खोया हुआ पद और धन पुनः प्राप्त करना, और साहसिक कार्यों में सफलता जातक को यश दिलाती है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:rahu",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -30124,7 +30619,8 @@
             "graha:jupiter",
             "mahadasha:jupiter",
             "rel:dignity",
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -30207,6 +30703,7 @@
           "tags": [
             "bhava:1",
             "bhava:11",
+            "chain:saturn_pos1",
             "graha:jupiter",
             "graha:saturn",
             "mahadasha:jupiter",
@@ -30261,7 +30758,8 @@
             "bhava:12",
             "graha:saturn",
             "mahadasha:jupiter",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -30295,6 +30793,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
             "entity:dasha",
             "mahadasha:jupiter",
             "rel:house_group",
@@ -30409,7 +30908,8 @@
             "mahadasha:jupiter",
             "rel:dignity",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -30569,9 +31069,11 @@
           "hindi": "जीवनसाथी को कष्ट, धन की हानि और तीव्र मानसिक शोक जातक की समृद्धि को बाधित करते हैं।",
           "status": "translated",
           "tags": [
+            "bhava:10",
             "bhava:4",
             "bhava:5",
             "bhava:9",
+            "chain:lord5_pos10",
             "entity:dasha",
             "entity:yoga",
             "mahadasha:jupiter",
@@ -30622,6 +31124,7 @@
             "bhava:11",
             "bhava:5",
             "bhava:9",
+            "chain:lord9_pos5",
             "graha:jupiter",
             "graha:venus",
             "mahadasha:jupiter",
@@ -30700,6 +31203,7 @@
           "status": "translated",
           "tags": [
             "bhava:2",
+            "bhava:9",
             "entity:dasha",
             "mahadasha:jupiter",
             "rel:conjunction",
@@ -30771,6 +31275,8 @@
           "hindi": "मानसिक शान्ति के लिए दुर्गा सप्तशती का पाठ करना और सफेद गाय का दान करना अनुशंसित उपाय हैं।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:sun_pos11",
             "graha:jupiter",
             "graha:sun",
             "mahadasha:jupiter",
@@ -30987,6 +31493,7 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
             "entity:dasha",
             "mahadasha:jupiter",
             "rel:aspect",
@@ -31023,7 +31530,8 @@
             "rel:conjunction",
             "rel:dignity",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -31184,7 +31692,8 @@
             "rashi:tula",
             "rel:conjunction",
             "rel:dignity",
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -31406,7 +31915,8 @@
             "entity:dasha",
             "mahadasha:saturn",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -31440,6 +31950,7 @@
           "status": "translated",
           "tags": [
             "bhava:7",
+            "chain:sun_pos7",
             "entity:yoga",
             "graha:sun",
             "mahadasha:saturn",
@@ -31464,6 +31975,8 @@
           "hindi": "नये घर का निर्माण और धार्मिक एवं परोपकारी कार्यों में संलग्नता इस अवधि की प्रमुख विशेषताएँ हैं।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:venus_pos11",
             "graha:saturn",
             "graha:venus",
             "mahadasha:saturn",
@@ -31516,7 +32029,8 @@
             "graha:saturn",
             "graha:venus",
             "mahadasha:saturn",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -31537,11 +32051,13 @@
           "hindi": "यदि द्वितीय या सप्तम भाव में हो, तो यह शारीरिक संकट पैदा करता है। दुर्गा पूजा सुरक्षा सुनिश्चित करती है।",
           "status": "translated",
           "tags": [
+            "bhava:9",
             "entity:dasha",
             "mahadasha:saturn",
             "rel:conjunction",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -31562,11 +32078,13 @@
           "hindi": "शत्रुओं पर विजय, राजकृपा और धन एवं सम्मान की प्राप्ति होती है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "bhava:6",
             "entity:dasha",
             "graha:venus",
             "mahadasha:saturn",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -31703,6 +32221,8 @@
           "hindi": "इस चरण के दौरान मानसिक कष्ट, धन की हानि और जल या डूबने का अकारण भय जातक को परेशान कर सकता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:jupiter_pos11",
             "graha:jupiter",
             "graha:moon",
             "graha:saturn",
@@ -31769,7 +32289,8 @@
           "hindi": "जातक साहसिक कार्यों में सफलता प्राप्त करता है और अपने साहस एवं जीवन-शक्ति में उल्लेखनीय वृद्धि का अनुभव करता है।",
           "status": "translated",
           "tags": [
-            "mahadasha:saturn"
+            "mahadasha:saturn",
+            "rel:position"
           ]
         },
         {
@@ -31779,6 +32300,7 @@
           "hindi": "यदि मंगल शनि से छठे, आठवें या बारहवें भाव में हो या निर्बल हो, तो यह अनेक दुःख देता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:saturn",
             "rel:house_group",
@@ -31900,6 +32422,7 @@
           "tags": [
             "bhava:1",
             "bhava:12",
+            "chain:mars_pos1",
             "graha:mars",
             "mahadasha:saturn",
             "rel:aspect",
@@ -31928,7 +32451,8 @@
           "status": "translated",
           "tags": [
             "graha:jupiter",
-            "mahadasha:saturn"
+            "mahadasha:saturn",
+            "rel:position"
           ]
         },
         {
@@ -31994,7 +32518,8 @@
             "rel:conjunction",
             "rel:dignity",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -32130,11 +32655,13 @@
           "hindi": "यदि ग्रह मारक के रूप में कार्य करते हैं, तो योग्य लोगों को स्वर्ण और सुन्दर वस्त्रों का दान करना उपाय है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "bhava:2",
             "entity:dasha",
             "mahadasha:saturn",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -32299,12 +32826,14 @@
           "hindi": "यदि द्वितीय या सप्तम भाव में हो, तो मृत्यु का भय होता है। विष्णु सहस्रनाम का पाठ शान्ति सुनिश्चित करता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "entity:yoga",
             "mahadasha:mercury",
             "rel:conjunction",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -32396,6 +32925,7 @@
           "hindi": "राजकृपा, विवाह और कई वाहनों की प्राप्ति घर में बड़े उत्सव लाती है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:mercury",
             "rel:dignity",
@@ -32621,6 +33151,7 @@
           "hindi": "मानसिक शान्ति के लिए दुर्गा सप्तशती का पाठ करना और सफेद गाय का दान करना सुझाए गए उपाय हैं।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:mercury",
             "rel:house_group",
@@ -32752,11 +33283,14 @@
           "hindi": "पश्चिम या नैऋत्य दिशा से सम्बन्धित कार्यों में सफलता और सम्पत्ति के लाभ का संकेत मिलता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:mars_pos11",
             "entity:dasha",
             "graha:mars",
             "mahadasha:mercury",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -32980,6 +33514,7 @@
           "hindi": "यदि शनि निर्बल हो या बुध से छठे, आठवें या बारहवें भाव में हो, तो यह अनेक दुखों और हानियों की ओर ले जाता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "mahadasha:mercury",
             "rel:dignity",
             "rel:position"
@@ -33079,6 +33614,8 @@
           "hindi": "सामाजिक सभाओं, मित्रों और भाई-बहनों से सुख इस महादशा का एक निरन्तर विषय है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
+            "chain:saturn_pos11",
             "graha:saturn",
             "mahadasha:mercury",
             "rel:dignity",
@@ -33187,9 +33724,11 @@
           "hindi": "यदि केतु निर्बल हो या छठे, आठवें या बारहवें भाव में हो, तो यह मानसिक और शारीरिक कष्ट का कारण बनता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "mahadasha:ketu",
             "rel:conjunction",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -33278,10 +33817,12 @@
           "hindi": "जीवनसाथी को कष्ट, धन की हानि और तीव्र मानसिक शोक जातक की घरेलू शान्ति को भंग करते हैं।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:ketu",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -33532,7 +34073,8 @@
           "tags": [
             "graha:moon",
             "mahadasha:ketu",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -33672,11 +34214,13 @@
           "hindi": "केतु महादशा के सामान्य फल: जातक आध्यात्मिक परिवर्तन से गुजरता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:ketu",
             "rel:dignity",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -33687,10 +34231,12 @@
           "status": "translated",
           "tags": [
             "bhava:12",
+            "bhava:2",
             "entity:dasha",
             "graha:mars",
             "mahadasha:ketu",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -33772,12 +34318,14 @@
           "hindi": "जातक का अन्तर्ज्ञान मजबूत हो जाता है, जो उन्हें कठिन परिस्थितियों में मार्गदर्शन करता है।",
           "status": "translated",
           "tags": [
+            "bhava:12",
             "bhava:8",
             "graha:sun",
             "mahadasha:ketu",
             "rel:aspect",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -33869,7 +34417,8 @@
             "graha:jupiter",
             "mahadasha:ketu",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -33890,12 +34439,14 @@
           "hindi": "पौत्रों या विस्तारित परिवार के छोटे सदस्यों से सुख प्राप्त होता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:ketu",
             "rel:conjunction",
             "rel:house_group",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -33971,7 +34522,8 @@
             "mahadasha:ketu",
             "rashi:mina",
             "rashi:tula",
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -34104,7 +34656,8 @@
             "graha:saturn",
             "mahadasha:ketu",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -34124,11 +34677,13 @@
           "hindi": "पितरों का आशीर्वाद वंश को सुरक्षा और समृद्धि प्रदान करता है।",
           "status": "translated",
           "tags": [
+            "bhava:11",
             "entity:dasha",
             "mahadasha:ketu",
             "rel:house_group",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -34222,7 +34777,8 @@
           "status": "translated",
           "tags": [
             "mahadasha:venus",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -34364,12 +34920,15 @@
           "status": "translated",
           "tags": [
             "bhava:11",
+            "bhava:2",
+            "chain:sun_pos2",
             "entity:dasha",
             "graha:sun",
             "mahadasha:venus",
             "rel:dignity",
             "rel:house_group",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -34401,6 +34960,7 @@
           "tags": [
             "bhava:12",
             "bhava:6",
+            "chain:sun_pos6",
             "entity:varga",
             "graha:sun",
             "mahadasha:venus",
@@ -34474,7 +35034,8 @@
             "mahadasha:venus",
             "rel:conjunction",
             "rel:lordship",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -34517,11 +35078,13 @@
           "hindi": "बैल का दान करना और मृत्युञ्जय जप करना इन बाधाओं से सुरक्षा और शान्ति सुनिश्चित करता है।",
           "status": "translated",
           "tags": [
+            "bhava:6",
             "bhava:8",
             "entity:dasha",
             "mahadasha:venus",
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -34976,7 +35539,8 @@
           "hindi": "इस अवधि के दौरान जातक वस्त्रों, भोजन और विभिन्न सांसारिक सुखों में एक परिष्कृत रुचि प्राप्त करता है।",
           "status": "translated",
           "tags": [
-            "mahadasha:venus"
+            "mahadasha:venus",
+            "rel:position"
           ]
         },
         {
@@ -35114,7 +35678,8 @@
           "status": "translated",
           "tags": [
             "graha:sun",
-            "mahadasha:venus"
+            "mahadasha:venus",
+            "rel:position"
           ]
         },
         {
@@ -37085,6 +37650,7 @@
           "hindi": "सूर्य की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: अचानक मानसिक चिन्ता, परिवेश से विरक्ति और गुप्त शत्रुओं या अचानक परिवर्तनों से भय।",
           "status": "translated",
           "tags": [
+            "chain:jupiter_with_sun",
             "graha:jupiter",
             "graha:sun",
             "rel:position"
@@ -37178,6 +37744,7 @@
           "hindi": "चन्द्रमा की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: पारिवारिक बन्धनों से अचानक विरक्ति, आध्यात्मिक मौन और सहज सपने।",
           "status": "translated",
           "tags": [
+            "chain:sun_with_moon",
             "entity:yoga",
             "graha:moon",
             "graha:sun",
@@ -37702,6 +38269,7 @@
           "hindi": "बुध की सूक्ष्मान्तर्दशा में गुरु की प्राण दशा: बुद्धि और विवेक का सामंजस्यपूर्ण मिश्रण। परामर्श और कानून में सफलता।",
           "status": "translated",
           "tags": [
+            "chain:jupiter_with_mercury",
             "graha:jupiter",
             "graha:mercury",
             "rel:position"
@@ -37920,6 +38488,7 @@
           "hindi": "शुक्र की सूक्ष्मान्तर्दशा में केतु की प्राण दशा: विलासिता का अनासक्त आनन्द, आध्यात्मिक कला और आनन्द के दौरान अचानक आध्यात्मिक बोध।",
           "status": "translated",
           "tags": [
+            "chain:jupiter_with_venus",
             "graha:jupiter",
             "graha:venus",
             "rel:position"
@@ -38130,7 +38699,8 @@
           "status": "translated",
           "tags": [
             "graha:mars",
-            "rashi:simha"
+            "rashi:simha",
+            "rel:position"
           ]
         },
         {
@@ -38188,7 +38758,8 @@
           "hindi": "मेष में कर्क की अन्तर्दशा: भावनात्मक सन्तोष और जल के निकट की सम्पत्तियों से लाभ। पारिवारिक सुख।",
           "status": "translated",
           "tags": [
-            "rashi:kanya"
+            "rashi:kanya",
+            "rel:position"
           ]
         },
         {
@@ -38232,7 +38803,8 @@
           "hindi": "मेष में वृश्चिक की अन्तर्दशा: तीव्र परिवर्तन, गुप्त अनुसन्धान में सफलता, किन्तु अचानक बदलाव का जोखिम।",
           "status": "translated",
           "tags": [
-            "rashi:kanya"
+            "rashi:kanya",
+            "rel:position"
           ]
         },
         {
@@ -38298,7 +38870,8 @@
           "tags": [
             "graha:mercury",
             "graha:venus",
-            "rashi:vrischika"
+            "rashi:vrischika",
+            "rel:position"
           ]
         },
         {
@@ -38309,7 +38882,8 @@
           "status": "translated",
           "tags": [
             "rashi:vrischika",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -38320,7 +38894,8 @@
           "status": "translated",
           "tags": [
             "graha:mars",
-            "rashi:vrischika"
+            "rashi:vrischika",
+            "rel:position"
           ]
         },
         {
@@ -38330,7 +38905,8 @@
           "hindi": "वृषभ में कन्या की अन्तर्दशा: छोटे व्यवसाय में सफलता और सूक्ष्म नियोजन के माध्यम से लाभ। बच्चों से सुख।",
           "status": "translated",
           "tags": [
-            "rashi:vrischika"
+            "rashi:vrischika",
+            "rel:position"
           ]
         },
         {
@@ -38341,7 +38917,8 @@
           "status": "translated",
           "tags": [
             "rashi:vrischika",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -38351,7 +38928,8 @@
           "hindi": "वृषभ में वृश्चिक की अन्तर्दशा: वित्तीय स्थिति में परिवर्तन, गुप्त अध्ययन में सफलता, किन्तु अचानक हानि का जोखिम।",
           "status": "translated",
           "tags": [
-            "graha:mars"
+            "graha:mars",
+            "rel:position"
           ]
         },
         {
@@ -38371,7 +38949,10 @@
           "text": "भार्यावित्तविनाशं च कलहं च नृपाद् भयम् ।\nदूरयात्रामवाप्नोति चापांशे स्वांशगे रवौ",
           "english": "Capricorn Antardasa in Taurus: Hard work leads to professional stability. Gain from traditional properties.",
           "hindi": "वृषभ में मकर की अन्तर्दशा: कड़ी मेहनत व्यावसायिक स्थिरता की ओर ले जाती है। पारम्परिक सम्पत्तियों से लाभ।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 40,
@@ -38390,7 +38971,8 @@
           "hindi": "वृषभ में मीन की अन्तर्दशा: आध्यात्मिक लाभ, विदेशों में सफलता और ध्यान अभ्यासों के माध्यम से शान्ति।",
           "status": "translated",
           "tags": [
-            "rashi:makara"
+            "rashi:makara",
+            "rel:position"
           ]
         },
         {
@@ -38423,7 +39005,8 @@
           "hindi": "मिथुन में सिंह की अन्तर्दशा: साहसिक संचार अधिकार की ओर ले जाता है। मीडिया या प्रशासनिक भूमिकाओं में सफलता।",
           "status": "translated",
           "tags": [
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -38456,7 +39039,8 @@
           "hindi": "मिथुन में वृश्चिक की अन्तर्दशा: प्रखर अन्तर्ज्ञान और गुप्त मिशनों या खोजी पत्रकारिता में सफलता।",
           "status": "translated",
           "tags": [
-            "rashi:kumbha"
+            "rashi:kumbha",
+            "rel:position"
           ]
         },
         {
@@ -38464,7 +39048,10 @@
           "text": "धातुत्रयप्रकोपं च कलहं देशविभ्रमम् ।\nक्षयव्याधिमवाप्नोति कुंभांशस्वांशगे शनौ",
           "english": "Sagittarius Antardasa in Gemini: Expansion of horizons through education and gain of legal or moral wisdom.",
           "hindi": "मिथुन में धनु की अन्तर्दशा: शिक्षा के माध्यम से क्षितिज का विस्तार और कानूनी या नैतिक बुद्धि का लाभ।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 49,
@@ -38475,7 +39062,8 @@
           "tags": [
             "graha:mercury",
             "rashi:kumbha",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -38485,7 +39073,8 @@
           "hindi": "मिथुन में कुम्भ की अन्तर्दशा: समूहों और नेटवर्कों के माध्यम से सफलता। डिजिटल क्षेत्रों में अभिनव लाभ।",
           "status": "translated",
           "tags": [
-            "rashi:mina"
+            "rashi:mina",
+            "rel:position"
           ]
         },
         {
@@ -38521,7 +39110,8 @@
           "tags": [
             "graha:mars",
             "rashi:mina",
-            "rel:dignity"
+            "rel:dignity",
+            "rel:position"
           ]
         },
         {
@@ -38531,7 +39121,8 @@
           "hindi": "कर्क में कन्या की अन्तर्दशा: स्वास्थ्य सम्बन्धी क्षेत्रों में सफलता और सेवा या विश्लेषणात्मक घरेलू कार्य के माध्यम से लाभ।",
           "status": "translated",
           "tags": [
-            "rashi:mina"
+            "rashi:mina",
+            "rel:position"
           ]
         },
         {
@@ -38542,7 +39133,8 @@
           "status": "translated",
           "tags": [
             "rashi:mina",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -39102,7 +39694,8 @@
           "hindi": "बुध से, सूर्य तीसरे, पाँचवें, छठे, नौवें, दसवें, ग्यारहवें और बारहवें भाव में बिन्दु देता है।",
           "status": "translated",
           "tags": [
-            "graha:jupiter"
+            "graha:jupiter",
+            "rel:position"
           ]
         },
         {
@@ -39866,7 +40459,7 @@
           "tags": [
             "entity:dasha",
             "rel:conjunction",
-            "rel:lordship"
+            "rel:position"
           ]
         },
         {
@@ -39954,7 +40547,8 @@
           "status": "translated",
           "tags": [
             "graha:mercury",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         }
       ]
@@ -40216,7 +40810,8 @@
           "tags": [
             "graha:jupiter",
             "graha:saturn",
-            "graha:venus"
+            "graha:venus",
+            "rel:position"
           ]
         },
         {
@@ -40227,6 +40822,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:moon_with_jupiter",
             "graha:jupiter",
             "graha:mercury",
             "graha:moon",
@@ -40253,7 +40849,11 @@
           "text": "पितृजन्माष्टमे जातस्तदीशे लग्नगेऽपि वा ।\nकरोति पितृकार्याणि स एवात्र न संशयः",
           "english": "If the 11th house has more Bindus than the 10th, the native's income exceeds their efforts.",
           "hindi": "यदि एकादश भाव में दशम से अधिक बिन्दु हों, तो जातक की आय उनके प्रयासों से अधिक होती है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "bhava:1",
+            "rel:position"
+          ]
         },
         {
           "number": 16,
@@ -40265,6 +40865,9 @@
             "bhava:1",
             "bhava:11",
             "bhava:4",
+            "bhava:9",
+            "chain:lord4_pos1",
+            "chain:moon_pos9",
             "entity:dasha",
             "graha:moon",
             "rel:conjunction",
@@ -40559,7 +41162,8 @@
           "hindi": "इन सिद्धान्तों का नियमित अध्ययन गहन बुद्धि और आध्यात्मिक विकास की ओर ले जाता है।",
           "status": "translated",
           "tags": [
-            "rel:house_group"
+            "rel:house_group",
+            "rel:position"
           ]
         },
         {
@@ -41679,7 +42283,10 @@
           "text": "शक्तो वनाद्रिदुर्गेषु सेनानीर्दन्तुरः शशः ।\nचंचलो धातुवादी च स्त्रीशक्तोऽन्यधानान्वितः",
           "english": "This knowledge was kept secret by sages and is only given to sincere seekers of astrological truth.",
           "hindi": "यह ज्ञान ऋषियों द्वारा गुप्त रखा गया था और केवल ज्योतिषीय सत्य के ईमानदार साधकों को दिया जाता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 22,
@@ -42050,7 +42657,10 @@
           "text": "उत्तमे तूत्तमो जन्तुर्मध्येऽङ्गे च मध्यमः ।\nउदासीने ह्यदासीनो जायते चाऽधमेऽधमः",
           "english": "One should identify the dominant Guna in a chart before suggesting any path for career or spiritual growth.",
           "hindi": "करियर या आध्यात्मिक विकास के लिए कोई भी मार्ग सुझाने से पहले कुण्डली में प्रमुख गुण की पहचान करनी चाहिए।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 20,
@@ -42671,9 +43281,12 @@
           "hindi": "एक गुणी स्त्री के संयोजन: बलवान चन्द्रमा और गुरु, और केन्द्र भावों में शुभ ग्रहों की उपस्थिति।",
           "status": "translated",
           "tags": [
+            "bhava:1",
+            "chain:venus_pos1",
             "graha:saturn",
             "graha:venus",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -42773,7 +43386,8 @@
           "hindi": "स्वास्थ्य और आयु के लिए 6ठे, 8वें और 12वें भाव के प्रभाव का सावधानीपूर्वक मूल्यांकन किया जाना चाहिए।",
           "status": "translated",
           "tags": [
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -42795,7 +43409,8 @@
           "status": "translated",
           "tags": [
             "rel:lordship",
-            "rel:modality"
+            "rel:modality",
+            "rel:position"
           ]
         },
         {
@@ -42850,10 +43465,13 @@
           "hindi": "लग्न में बुध और शुक्र का संयोजन कलात्मक और बौद्धिक व्यक्तित्व देता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
+            "chain:mercury_pos1",
             "graha:mercury",
             "graha:moon",
             "graha:venus",
-            "rel:conjunction"
+            "rel:conjunction",
+            "rel:position"
           ]
         },
         {
@@ -43040,6 +43658,7 @@
           "hindi": "गंभीर दुर्भाग्य से बचने के लिए 'विष कन्या' के विशिष्ट ग्रहीय संयोजनों की जाँच की जानी चाहिए।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "rel:aspect",
             "rel:position",
             "rel:state"
@@ -43074,8 +43693,10 @@
           "hindi": "स्त्री जातक एक सूक्ष्म विज्ञान है जिसके लिए समाज और परिवार में स्त्रियों की अद्वितीय भूमिका को समझने की आवश्यकता होती है।",
           "status": "translated",
           "tags": [
+            "bhava:7",
             "rel:modality",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -43086,7 +43707,8 @@
           "status": "translated",
           "tags": [
             "entity:yoga",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -43566,7 +44188,10 @@
           "text": "रेखा प्रसादवज्राभा सूते तीर्थकरं सुतम् ।\nकृषीवलस्य पत्नी स्याच्छकटेन युगेन वा",
           "english": "Signs like a palace or thunderbolt indicate she will give birth to a spiritual leader. A cart or yoke sign indicates she will be a farmer's wife.",
           "hindi": "महल या वज्र के समान रेखा होने पर वह तीर्थंकर (महापुरुष) पुत्र को जन्म देती है। छकड़ा या जुए के चिह्न होने पर वह किसान की पत्नी होती है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 50,
@@ -43754,7 +44379,8 @@
           "hindi": "लाल और कोमल जीभ अपार भोग प्रदान करती है। बीच में संकरी और आगे बहुत चौड़ी जीभ दुःख देने वाली होती है।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -43936,7 +44562,8 @@
           "hindi": "हे विप्र! स्त्रियों के लिए शरीर के बाएं भाग के चिह्न शुभ होते हैं, जबकि पुरुषों के लिए दाएं भाग के चिह्न शुभ माने गए हैं।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -44012,7 +44639,7 @@
           "hindi": "बगल में तिल होने से गुप्त धन प्राप्त होता है। भुजा पर तिल होने से वह धनी और गुणवान होती है।",
           "status": "translated",
           "tags": [
-            "rel:lordship"
+            "rel:position"
           ]
         },
         {
@@ -44050,7 +44677,8 @@
           "hindi": "घुटने पर तिल होने से वह धनी और सौभाग्यवती होती है। पिंडली पर तिल होने से वह पति की प्रिय होती है।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -44152,6 +44780,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "entity:bhava",
             "graha:rahu",
             "rel:modality",
             "rel:state"
@@ -44165,6 +44794,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:mars_with_mars",
             "graha:mars",
             "rel:aspect",
             "rel:position"
@@ -44178,6 +44808,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:rahu_pos5",
             "graha:moon",
             "graha:rahu",
             "rel:aspect",
@@ -44306,7 +44937,10 @@
           "text": "गोभूतिलहिरण्यादि दद्याद् वित्तानुसारतः ।\nएवं कृते तु नागेन्द्रप्रसादात् वर्धते कुलम्",
           "english": "One should donate a cow, land, sesame seeds, gold, etc., according to one's capacity. By doing so, the family lineage grows by the grace of the lord of serpents.",
           "hindi": "अपनी शक्ति के अनुसार गौ, भूमि, तिल, स्वर्ण आदि का दान करना चाहिए। ऐसा करने पर नागराज के प्रसाद (कृपा) से कुल की वृद्धि होती है।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 20,
@@ -44380,8 +45014,10 @@
           "status": "translated",
           "tags": [
             "bhava:1",
+            "bhava:10",
             "bhava:5",
             "bhava:9",
+            "chain:lord5_pos10",
             "rel:lordship",
             "rel:polarity",
             "rel:position"
@@ -44397,6 +45033,7 @@
             "bhava:1",
             "bhava:5",
             "bhava:9",
+            "chain:lord5_pos9",
             "graha:mars",
             "rel:conjunction",
             "rel:lordship",
@@ -44464,6 +45101,7 @@
             "bhava:12",
             "bhava:8",
             "bhava:9",
+            "chain:lord12_pos1",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -44537,6 +45175,8 @@
           "tags": [
             "bhava:11",
             "bhava:4",
+            "bhava:5",
+            "chain:saturn_pos4",
             "graha:moon",
             "graha:saturn",
             "rel:conjunction",
@@ -44640,6 +45280,7 @@
             "bhava:12",
             "bhava:5",
             "bhava:6",
+            "chain:lord6_pos1",
             "graha:jupiter",
             "graha:moon",
             "rel:conjunction",
@@ -44686,6 +45327,7 @@
           "tags": [
             "bhava:1",
             "bhava:5",
+            "chain:moon_pos5",
             "graha:mars",
             "graha:moon",
             "graha:rahu",
@@ -44719,6 +45361,7 @@
           "status": "translated",
           "tags": [
             "bhava:5",
+            "chain:mars_pos5",
             "graha:jupiter",
             "graha:mars",
             "graha:moon",
@@ -44817,6 +45460,7 @@
           "tags": [
             "bhava:3",
             "bhava:5",
+            "chain:saturn_pos5",
             "graha:jupiter",
             "graha:moon",
             "graha:saturn",
@@ -44864,6 +45508,8 @@
           "tags": [
             "bhava:10",
             "bhava:3",
+            "bhava:5",
+            "chain:lord10_pos3",
             "entity:bhava",
             "graha:mars",
             "rel:conjunction",
@@ -44896,6 +45542,7 @@
             "bhava:1",
             "bhava:3",
             "bhava:5",
+            "chain:lord1_pos3",
             "entity:bhava",
             "rel:lordship",
             "rel:polarity",
@@ -45087,6 +45734,7 @@
           "tags": [
             "bhava:5",
             "bhava:9",
+            "chain:lord9_pos5",
             "entity:bhava",
             "graha:jupiter",
             "graha:rahu",
@@ -45105,11 +45753,13 @@
             "bhava:12",
             "bhava:5",
             "bhava:9",
+            "chain:lord12_pos5",
             "entity:bhava",
             "graha:rahu",
             "rel:conjunction",
             "rel:dignity",
-            "rel:lordship"
+            "rel:lordship",
+            "rel:position"
           ]
         },
         {
@@ -45153,6 +45803,7 @@
           "tags": [
             "bhava:12",
             "bhava:5",
+            "chain:lord5_pos12",
             "graha:jupiter",
             "graha:mars",
             "graha:saturn",
@@ -45213,6 +45864,7 @@
           "tags": [
             "bhava:5",
             "bhava:7",
+            "chain:lord7_pos5",
             "entity:bhava",
             "rel:lordship",
             "rel:position"
@@ -45255,7 +45907,8 @@
           "tags": [
             "bhava:5",
             "rel:conjunction",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -45340,6 +45993,7 @@
             "bhava:12",
             "bhava:2",
             "bhava:5",
+            "chain:jupiter_pos5",
             "graha:jupiter",
             "graha:mars",
             "graha:rahu",
@@ -45379,6 +46033,7 @@
             "bhava:7",
             "bhava:8",
             "bhava:9",
+            "chain:mars_pos8",
             "graha:mars",
             "graha:rahu",
             "graha:saturn",
@@ -45457,7 +46112,9 @@
           "hindi": "यदि पंचमेश शनि आठवें भाव में हो, लग्न में मंगल हो, और कारक (गुरु) आठवें भाव में हो, तो प्रेत के शाप से संतान का नाश होता है।",
           "status": "translated",
           "tags": [
+            "bhava:1",
             "bhava:5",
+            "chain:saturn_pos1",
             "entity:bhava",
             "graha:mars",
             "graha:saturn",
@@ -45476,6 +46133,7 @@
             "bhava:12",
             "bhava:5",
             "bhava:8",
+            "chain:lord5_pos8",
             "entity:bhava",
             "graha:moon",
             "rel:lordship",
@@ -45492,6 +46150,7 @@
           "tags": [
             "bhava:1",
             "bhava:5",
+            "chain:rahu_pos5",
             "graha:rahu",
             "rel:conjunction",
             "rel:position"
@@ -45692,7 +46351,10 @@
           "text": "पूर्वोक्तैः स्वस्ववर्णैर्वा पटे लेख्या द्विजोत्तमैः ।\nस्वस्वोक्तदिग्विभागेषु गन्द्याद्यैर्मण्डनेषु वा",
           "english": "O best of Brahmins! The images of the planets should be painted on a canvas using their respective colors, or drawn on Mandalas in their respective directions using sandalwood paste, scents, and flowers.",
           "hindi": "हे ब्राह्मणों में श्रेष्ठ! ग्रहों के चित्रों को उनके अपने-अपने रंगों से वस्त्र (कैनवास) पर अंकित करना चाहिए, या चन्दन, गन्ध और पुष्पों द्वारा मण्डलों पर उनकी अपनी-अपनी दिशाओं में अंकित करना चाहिए।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 6,
@@ -46050,7 +46712,8 @@
           "status": "translated",
           "tags": [
             "rel:modality",
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -46249,7 +46912,8 @@
           "hindi": "रिक्ता तिथियों (४, ९, १४) और विष्टि करण (भद्रा) से रहित शुभ समय में शान्ति विधान करें। शनि के ईशान कोण (उत्तर-पूर्व) में नक्षत्र देवता की एक सुन्दर प्रतिमा स्थापित करें।",
           "status": "translated",
           "tags": [
-            "rel:polarity"
+            "rel:polarity",
+            "rel:position"
           ]
         },
         {
@@ -46264,7 +46928,10 @@
           "text": "स्वस्वशाखोक्तमार्गेण कुर्यादग्निमुखं तथा ।\nपुनस्तेनैव मन्त्रेण हुनदष्टोत्तरं शतम्",
           "english": "Perform the fire ritual (Agnimukha) according to the rules of one's own Vedic branch (Shakha), and offer 108 oblations in the fire reciting the same Nakshatra mantra.",
           "hindi": "अपनी वेद शाखा के नियमों के अनुसार अग्निमुख (हवन की अग्नि का संस्कार) करें, और पुनः उसी नक्षत्र मन्त्र से १०८ बार हवन सामग्री की आहुति दें।",
-          "status": "translated"
+          "status": "translated",
+          "tags": [
+            "rel:position"
+          ]
         },
         {
           "number": 6,
@@ -46311,7 +46978,8 @@
           "hindi": "संक्रान्ति जन्म के दोष की शान्ति के लिए नवग्रह यज्ञ करें। घर के पूर्वी भाग में गोबर से लीपन कर भूमि को शुद्ध करें।",
           "status": "translated",
           "tags": [
-            "entity:yoga"
+            "entity:yoga",
+            "rel:position"
           ]
         },
         {
@@ -46675,7 +47343,8 @@
           "hindi": "लग्न गण्डान्त के दोष निवारण के लिए सुवर्ण दान करना चाहिए। यदि जातक प्रथम भाग में जन्मा हो, तो पिता का अभिषेक करना चाहिए।",
           "status": "translated",
           "tags": [
-            "entity:yoga"
+            "entity:yoga",
+            "rel:position"
           ]
         },
         {

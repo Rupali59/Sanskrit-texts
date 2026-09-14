@@ -21,12 +21,12 @@ Measured 2026-09-14 over BPHS's 3,937 verses. Regenerate: `python3 scripts/entit
 | entity | verses | % | roots |
 |---|---:|---:|---:|
 | GRAHA | 1314 | 33.4% | 41 |
-| BHAVA | 1187 | 30.1% | 28 |
+| BHAVA | 1246 | 31.6% | 28 |
 | DASHA | 537 | 13.6% | 8 |
 | YOGA | 369 | 9.4% | 6 |
 | RASHI | 285 | 7.2% | 12 |
 | VARGA | 178 | 4.5% | 11 |
-| **any entity** | **2738** | **69.5%** | **106** |
+| **any entity** | **2756** | **70.0%** | **106** |
 
 With the 53 relational markers, **94.5% of BPHS verses carry at least one feature**, and
 **62.5% carry both an entity and a relation** — which is the number that matters, because that
@@ -64,10 +64,10 @@ kinds of thing.
 | counted as | verses | % |
 |---|---:|---:|
 | loose — the root anywhere | 2494 | 63.3% |
-| **strict — the root carries a lord-suffix, a locative `-े`, or a position marker** | **1187** | **30.1%** |
+| **strict — the root carries a lord-suffix, a locative `-े`, or a position marker** | **1246** | **31.6%** |
 
 The 1,307-verse gap is verses where the word is the **result**, not the house. The table above
-reports strict. Reporting loose would have doubled BHAVA and pushed "any entity" from 69.5% to
+reports strict. Reporting loose would have doubled BHAVA and pushed "any entity" from 70.0% to
 84.5% — a number that is true of *bhāva vocabulary* and false of *bhāva discussion*
 (`rule:discernment-checks` §5: state what the measurement is over).
 
