@@ -3,6 +3,22 @@
   "title_sa": "गोलाध्यायः",
   "title_en": "Goladhyaya (Siddhanta Shiromani)",
   "category": "siddhanta",
+  "structure": {
+    "levels": [
+      "chapter",
+      "verse"
+    ],
+    "chapter_level": "chapter",
+    "shloka_number_format": "verse",
+    "citation_prefix": "goladhyaya",
+    "expected_chapters": 8,
+    "expected_verses": 241,
+    "count_authority": "mixed",
+    "count_authority_reason": "241 verses across 8 chapters, digitised 2026-09-02 from Anandashrama Sanskrit Series vol. 122 (SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt), which interleaves the mula with Bhaskara's own Vasana auto-commentary and Munisvara's Marici tika; only the mula was taken. WHAT IS ESTABLISHED: this volume carries its own table of contents giving each chapter's LAST verse number, an independent check on completeness that none of the other three Siddhanta Siromani parts has. 7 of the 8 chapters end EXACTLY on the number the ToC predicts -- grahana 29, valana 74, udayasta 24, sringonnati 6, rtuvarnana 15, prasna 63, triprasna 49 -- making this the best-corroborated of the four parts. WHAT IS NOT ESTABLISHED: the 8th chapter, yantra, ends at 57 against a ToC-predicted 58, an unresolved one-verse disagreement recorded rather than silently closed; and the 241-of-318 total (about 76%) is a DELIBERATE, by-design shortfall, not damage -- Munisvara's Marici commentary quotes mula verses out of place inside its own discussion (the rtuvarnana chapter's opening verse appears roughly 700 lines early, inside the yantra chapter's span), so any verse appearing inside a commentary block was deliberately skipped rather than harvested from its out-of-place location, on the ground that a missing verse is recoverable later and a wrongly-placed one is not (this corpus's G31 gotcha). So while the per-chapter ToC gives real external corroboration for WHERE each chapter ends, it says nothing about the verses deliberately omitted within a chapter's own span, and 'mixed' records that the authority is strong at the chapter-boundary level and unverified at the within-chapter level.",
+    "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md \"`goladhyaya` -- partial by design, and the absences are enumerated\"",
+    "known_gaps": [],
+    "known_gaps_reason": "Not enumerated here by design, per CANONICAL_COUNTS.md's own instruction: 'Per-chapter absences are printed by the converter on every run -- do not restate them here, and do not fill one in from a second edition without recording which edition it came from.' scripts/sanskrit-convert/goladhyaya.py's own run output is the authoritative, current list. A naive per-chapter 1..max sweep over this file's own data is not safe here either -- at least one chapter (valanavasana) is numbered 30..74 rather than 1..74 in this file, so a hand-derived gap list risks inventing absences the source never had."
+  },
   "chapters": [
     {
       "number": 1,

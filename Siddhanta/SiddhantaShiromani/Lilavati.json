@@ -3,6 +3,44 @@
   "title_sa": "लीलावती",
   "title_en": "Lilavati (Siddhanta Shiromani, uttarardha)",
   "category": "siddhanta",
+  "structure": {
+    "levels": [
+      "chapter",
+      "verse"
+    ],
+    "chapter_level": "chapter",
+    "shloka_number_format": "verse",
+    "citation_prefix": "lilavati",
+    "expected_chapters": 1,
+    "expected_verses": 117,
+    "count_authority": "uncitable",
+    "count_authority_reason": "This file holds ONLY the uttarardha (second half) of Lilavati -- verses 135-272 -- digitised 2026-09-02 from Anandashrama Sanskrit Series vol. 107 (SiddhantaShiromani-Lilavati-uttarardha-Anandashrama107-sd8244.txt), which opens directly at ksetravyavahara with no purvardha and no table of contents. WHAT IS ESTABLISHED: this file's own closing verse, 272, agrees with the figure commonly cited as Lilavati's attested last verse -- corroboration from outside the file, and the only external check available for this text. Within the possible range 135-272 (138 verse numbers), 117 are present; the 21 absent are listed in known_gaps below, independently re-derived here directly from this file's own verse numbers against the full span, and two of them (154, 164) match numbers CANONICAL_COUNTS.md already names as raw OCR markers that were ambiguous and resolved by dropping a stray or transposed reading rather than by invention. WHAT IS NOT ESTABLISHED: verses 1-134 (the purvardha) do not exist in this volume at all and are not counted toward any total here or anywhere in this file; no edition-specific verse total for the uttarardha ALONE has been located, so completeness of 117-of-138 within the held range is a fact, not a verified-complete claim, and the cause of the other 19 absences (source damage vs. genuinely unnumbered in this edition) is uninvestigated; and the commonly-cited ~270-272 figure for the whole work is a repeated approximation, not a page-cited edition total. Two further Lilavati witnesses (Benares Sanskrit Series 153pp, and a 146-page volume reaching verse 249+) are held as scans and have never been cross-checked against this file -- doing so before treating the 21 within-range absences as final is the obvious next step.",
+    "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md \"`lilavati` -- verses 135-272 only, and a correction to an earlier judgement\"",
+    "known_gaps": [
+      "1.147",
+      "1.154",
+      "1.156",
+      "1.164",
+      "1.173",
+      "1.176",
+      "1.180",
+      "1.185",
+      "1.190",
+      "1.191",
+      "1.206",
+      "1.210",
+      "1.213",
+      "1.219",
+      "1.222",
+      "1.223",
+      "1.224",
+      "1.240",
+      "1.246",
+      "1.262",
+      "1.268"
+    ],
+    "known_gaps_reason": "Verse numbers absent from the held range 135-272, computed directly from this file's own verse numbers against the full 135..272 span (138 possible values, 117 held, 21 absent). Verses 154 and 164 are independently named in CANONICAL_COUNTS.md as numbers whose raw OCR marker was ambiguous and were resolved by dropping a stray or transposed reading during digitisation; the remaining 19 are simply not present in the source and their cause has not been investigated."
+  },
   "chapters": [
     {
       "number": 1,

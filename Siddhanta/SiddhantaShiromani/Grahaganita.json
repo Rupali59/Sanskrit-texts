@@ -3,6 +3,22 @@
   "title_sa": "ग्रहगणिताध्यायः",
   "title_en": "Grahaganitadhyaya (Siddhanta Shiromani, purvardha)",
   "category": "siddhanta",
+  "structure": {
+    "levels": [
+      "chapter",
+      "verse"
+    ],
+    "chapter_level": "chapter",
+    "shloka_number_format": "verse",
+    "citation_prefix": "grahaganita",
+    "expected_chapters": 9,
+    "expected_verses": 272,
+    "count_authority": "uncitable",
+    "count_authority_reason": "272 verses across 9 sections, digitised 2026-09-02 from Anandashrama Sanskrit Series vol. 110 (SiddhantaShiromani-Grahaganitadhyaya-purvardha-Anandashrama110-sd7404.txt). WHAT IS ESTABLISHED: this volume is explicitly the purvardha (first half) only -- its own preface states 'grahaganitadhyaye asmin ekadasadhikara vartante' (eleven adhikaras), of which this volume carries three (madhyama, sphuta, triprasna), subdivided into the 9 sections held here; that subdivision is read off the volume's own colophons (e.g. 'saptabhir adhyayaih' for the madhyamadhikara's seven adhyayas), not inferred. Every held verse is verbatim against the source, danda-terminated, free of commentary vocabulary and Latin, and the text contributes zero duplicate (chapter, number) keys. WHAT IS NOT ESTABLISHED: this volume carries NO table of contents giving chapter-ending verse numbers -- unlike goladhyaya, whose ToC is an independent check on completeness -- so each section's upper bound is SELF-DERIVED (its own highest verse marker), not attested by any outside witness; CANONICAL_COUNTS.md names this explicitly as weaker-witnessed than goladhyaya for that reason. No published total exists for the whole Grahaganita or for this purvardha alone, and the uttarardha (the other 8 of 11 adhikaras) is not held here at all, so the 272 verses in this file must never be read as a complete Grahaganita. One section, grahabhaganamanadhyaya (chapter 2), reports 14 verses against a self-derived bound of 52 -- a wide gap that is left visible rather than resolved, because inventing a smaller bound to tidy the output is the exact failure this corpus's G31 gotcha records.",
+    "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md \"`grahaganita` -- the first half only, and its witness is weaker than `goladhyaya`'s\"",
+    "known_gaps": [],
+    "known_gaps_reason": "Not enumerated here by design. This is a 9-section, self-derived-bound text where each section's expected range is not simply 1..(that section's own max) -- CANONICAL_COUNTS.md documents per-chapter absences that scripts/sanskrit-convert/grahaganita.py prints on every run, and instructs that they not be restated in prose to avoid drift between the converter's live output and a hand-copied list. Attempting to independently re-derive a per-chapter gap list without that script's own section-boundary logic risks silently miscounting (a real risk, since a naive 1..max sweep is not safe once a section's own numbering does not start at 1). Consult the converter's own run output or CANONICAL_COUNTS.md for the current per-chapter absence list rather than this field."
+  },
   "chapters": [
     {
       "number": 1,
