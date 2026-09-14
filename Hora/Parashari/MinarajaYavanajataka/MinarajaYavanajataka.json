@@ -3,6 +3,23 @@
   "title_sa": "यवनजातकम्",
   "title_en": "Minaraja Yavana Jataka",
   "category": "parashari",
+  "structure": {
+    "levels": [
+      "adhyaya",
+      "shloka"
+    ],
+    "chapter_level": "adhyaya",
+    "shloka_number_format": "integer",
+    "citation_prefix": "minaraja_yavana_jataka",
+    "expected_chapters": 74,
+    "chapters_emitted": 74,
+    "expected_verses": 4027,
+    "count_authority": "mixed",
+    "count_authority_reason": "TWO HALVES WITH DIFFERENT PROVENANCE AND DIFFERENT QUALITY -- do not read the 4,027 total as one witnessed number. Chapters 1-39 (2,140 shlokas) derive from the one held source, Minaraja_Shrivriddhayavanajataka_Purvakhanda.md, whose body ends at that chapter's colophon 'iti srivrddhayavane durdharayogadhyayah || 181||'; opening and closing verses match it verbatim and 0 of the 2,140 carry OCR noise. Chapters 40-71 (1,887 shlokas, the Uttarakhanda) were added 2026-06-20 in commit 3792b90 ALREADY FULLY TRANSLATED, with NO source file committed then or since; chapter 71's closing verse appears in no file anywhere under sanskrit-texts-sources/, and DECISIONS.md's entry for that commit records the addition without naming a source. 121 of those 1,887 (6%) carry interleaved ASCII digits in `text` -- raw OCR noise, e.g. '7458 sribuddhiman 15 1450 karyesu buddhih 8715' -- and every one of the 121 nonetheless carries fluent English AND Hindi and status 'translated'. The corruption rate is 6% in the unsourced half against 0% in the sourced half, so the two halves did not come through the same pipeline. The remaining 94% of the Uttarakhanda is UNVERIFIED rather than known-good: ASCII digits are merely the detectable marker. Measured 2026-09-14.",
+    "canonical_authority": "Chapters 1-39: the held source Minaraja_Shrivriddhayavanajataka_Purvakhanda.md (sanskritdocuments, proofread by Radu Canahai), verified by verbatim match of its opening and closing verses. Chapters 40-71: NONE. No witness of any kind has been located for the Uttarakhanda -- no source file, no edition cited in the commit that added it, no record in DECISIONS.md. Pingree's edition of the Vrddhayavanajataka is the obvious external witness and has not been consulted.",
+    "known_gaps": [],
+    "known_gaps_reason": "No numbering gaps. The defect here is provenance and text quality, not missing units -- which is precisely why every count and contiguity check has passed on it since 2026-06-20 (G31)."
+  },
   "chapters": [
     {
       "number": 1,
