@@ -3,6 +3,23 @@
   "title_sa": "लघुजातकम्",
   "title_en": "Laghu Jatakam",
   "category": "parashari",
+  "structure": {
+    "levels": [
+      "adhyaya",
+      "shloka"
+    ],
+    "chapter_level": "adhyaya",
+    "shloka_number_format": "integer",
+    "citation_prefix": "laghu_jatakam",
+    "expected_chapters": 16,
+    "chapters_emitted": 16,
+    "expected_verses": 182,
+    "count_authority": "defect",
+    "count_authority_reason": "OUR PARSE IS KNOWN WRONG IN EXACTLY ONE PLACE, and it costs 14 of the 182 shlokas (7.7%), every one of them silently dropped by seed_texts.py's (chapter, shloka) dedupe (G8). The source is sound -- lane-verified 2026-09-14 against Laghujatakam_By_Varahamihiracharya.md, closing verse 16.6 matching verbatim -- and 15 of the 16 chapters are clean. CHAPTER 12 HOLDS THREE NAMED SUB-SECTIONS FLATTENED INTO ONE ADHYAYA, each restarting its numbering at 1: the sequence runs [1..13][1..7][1..7], so keys 1-7 each occur three times. The divisions are stated in the text itself -- the second opens 'atha rasisilanirupanam' and the third 'iti rasisilanirupanam | atha asrayayoga nirupanam'. This is GENUINE TEXTUAL STRUCTURE, not corruption, and it is the same defect as jataka_parijata ch.17. It needs a subsection.verse key -- the shape apastamba_dharma_sutra already uses for prasna.khanda.sutra. Do NOT renumber to flatten it; that breaks every existing citation (G7). Note also that the third sub-section's opening shloka carries the PRECEDING section's colophon concatenated into its text rather than split off. Unlike jataka_parijata, this text has NO colophon-as-shloka defect: 0 of 16 chapters end in one. Measured 2026-09-14.",
+    "canonical_authority": "sanskrit-texts-sources/Hora/Parashari/Laghujatakam/Laghujatakam_By_Varahamihiracharya.md (Varahamihira). Verified as the right source; the defect is in the PARSE, not the text.",
+    "known_gaps": [],
+    "known_gaps_reason": "No numbering gaps. Every sequence is contiguous within its own sub-section, which is precisely why contiguity checks have always passed while 14 shlokas went un-ingested."
+  },
   "chapters": [
     {
       "number": 1,
