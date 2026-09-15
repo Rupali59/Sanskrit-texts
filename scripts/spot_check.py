@@ -43,6 +43,18 @@ BPHS = REPO / "Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShas
 SHEET = REPO / "docs" / "SPOT_CHECK.md"
 
 SEED = 20260914          # the date, so the sample is reproducible and its origin is legible
+PLANT_CACHE = Path.home() / ".cache" / "sanskrit-texts"
+
+# Deliberately wrong tags, planted to measure whether a REVIEWER is reading the text.
+# Every other check in this repo has been held to "construct the input that makes it
+# fail"; the reviewer is the one instrument that never has been. A reviewer that misses
+# these is not usable, whatever its agreement rate on everything else.
+#
+# Planted in the RENDERED SHEET ONLY. The corpus is never touched, so there is nothing to
+# undo and no path by which a planted defect reaches `tags`.
+GRAHA_SWAP = {"sun": "saturn", "moon": "mars", "mars": "moon", "mercury": "venus",
+              "jupiter": "rahu", "venus": "mercury", "saturn": "sun", "rahu": "ketu",
+              "ketu": "jupiter"}
 N_CHAPTERS = 20
 PER_CHAPTER = 10
 VERDICTS = {"ok", "wrong", "partial", "unsure"}
@@ -98,6 +110,129 @@ def sample(doc):
 PHALA_HEADING = "## Phala sample"
 
 
+def plant(rows, ph_rows, n, seed):
+    """Choose n rows and mutate their rendered tags. Returns {(section, ref): record}.
+
+    Five defect types, each failing a different way — see the plan. The chain reversal is
+    the one that matters: 38 (lord_of, in_house) pairs genuinely occur with their reverse
+    in BPHS, so a reviewer who cannot catch lord5_pos9 rendered as lord9_pos5 cannot
+    validate the only layer that distinguishes them.
+    """
+    rng = random.Random(seed)
+    pool = ([("tags", c, s, sorted(s.get("tags") or [])) for c, s in rows]
+            + [("phala", c, s, sorted(x for x in (s.get("tags_draft") or [])
+                                      if x.startswith("phala:"))) for c, s in ph_rows])
+    pool = [x for x in pool if x[3]]
+    rng.shuffle(pool)
+    out = {}
+    for section, c, sh, tags in pool:
+        if len(out) >= n:
+            break
+        ref = f"{c}.{sh['number']}"
+        kinds = []
+        if any(x.startswith("chain:lord") and "_pos" in x for x in tags):
+            kinds.append("chain_reversed")
+        if any(x.startswith("graha:") for x in tags):
+            kinds.append("graha_swapped")
+        if any(x.startswith("bhava:") for x in tags):
+            kinds.append("bhava_swapped")
+        kinds += ["tag_added", "tag_dropped"]
+        kind = rng.choice(kinds)
+        new = list(tags)
+
+        if kind == "chain_reversed":
+            i = next(i for i, x in enumerate(new)
+                     if x.startswith("chain:lord") and "_pos" in x)
+            lord, pos = new[i][len("chain:lord"):].split("_pos", 1)
+            new[i] = f"chain:lord{pos}_pos{lord}"
+        elif kind == "graha_swapped":
+            i = next(i for i, x in enumerate(new) if x.startswith("graha:"))
+            g = new[i].split(":", 1)[1]
+            new[i] = f"graha:{GRAHA_SWAP.get(g, 'saturn')}"
+        elif kind == "bhava_swapped":
+            i = next(i for i, x in enumerate(new) if x.startswith("bhava:"))
+            b = int(new[i].split(":", 1)[1])
+            new[i] = f"bhava:{(b + 5) % 12 + 1}"
+        elif kind == "tag_added":
+            extra = "phala:death" if section == "phala" else "rel:aspect"
+            if extra in new:
+                extra = "phala:travel" if section == "phala" else "rel:dignity"
+            if extra in new:
+                continue
+            new.append(extra)
+        else:  # tag_dropped
+            if len(new) < 2:
+                continue
+            new.pop(rng.randrange(len(new)))
+
+        if new == tags:
+            continue
+        out[(section, ref)] = {"kind": kind, "was": tags, "shown": sorted(new)}
+    return out
+
+
+def sensitivity_report(planted_key, got):
+    """Did the reviewer catch the deliberately wrong tags? Report BEFORE anything else.
+
+    A reviewer below ~80% here is not reading the Devanagari, and its verdicts on the
+    unplanted rows are an opinion rather than a measurement.
+    """
+    by_kind, caught, seen = defaultdict(lambda: [0, 0]), 0, 0
+    missed = []
+    for (section, ref), rec in planted_key.items():
+        ch, sh = ref.split(".", 1)
+        v = got.get((section, ch, sh), (None, ""))[0]
+        if v is None:
+            continue
+        seen += 1
+        hit = v in ("wrong", "partial") if rec["kind"] == "tag_dropped" else v == "wrong"
+        caught += hit
+        by_kind[rec["kind"]][0] += hit
+        by_kind[rec["kind"]][1] += 1
+        if not hit:
+            missed.append((section, ref, rec["kind"], v))
+    if not seen:
+        return ("  SENSITIVITY: none of the planted rows were reviewed — not measured.\n"
+                "  Absent, not a pass.")
+    L = ["  === reviewer sensitivity (measured FIRST — the rest means nothing without it)",
+         f"    planted rows reviewed: {seen} of {len(planted_key)}",
+         f"    CAUGHT: {caught}/{seen} = {100*caught/seen:.0f}%", ""]
+    for k, (c, n) in sorted(by_kind.items()):
+        L.append(f"      {k:<16}{c}/{n}")
+    if missed:
+        L += ["", "    missed:"]
+        L += [f"      {s}/{r:<10}{k:<16}reviewer said {v!r}" for s, r, k, v in missed[:8]]
+    verdict = ("    => USABLE reviewer" if caught / seen >= 0.8 else
+               "    => NOT a usable reviewer. Discard its other verdicts.")
+    L += ["", verdict]
+    return "\n".join(L)
+
+
+def selftest():
+    """The sensitivity measure must be able to report both 0% and 100%.
+
+    rule:discernment-checks §1. Without this the catch rate is a number that cannot fail,
+    which is exactly what this whole mechanism exists to stop other people shipping.
+    """
+    key = {("tags", "1.1"): {"kind": "graha_swapped", "was": [], "shown": []},
+           ("tags", "1.2"): {"kind": "chain_reversed", "was": [], "shown": []},
+           ("phala", "2.1"): {"kind": "tag_dropped", "was": [], "shown": []}}
+    lazy = {("tags", "1", "1"): ("ok", ""), ("tags", "1", "2"): ("ok", ""),
+            ("phala", "2", "1"): ("ok", "")}
+    keen = {("tags", "1", "1"): ("wrong", ""), ("tags", "1", "2"): ("wrong", ""),
+            ("phala", "2", "1"): ("partial", "")}
+    lo, hi = sensitivity_report(key, lazy), sensitivity_report(key, keen)
+    ok_lo, ok_hi = "CAUGHT: 0/3 = 0%" in lo, "CAUGHT: 3/3 = 100%" in hi
+    print(f"  all-`ok` reviewer      -> {'0%   ' if ok_lo else 'NOT 0%'}  {'PASS' if ok_lo else 'FAIL'}")
+    print(f"  catches-everything     -> {'100% ' if ok_hi else 'NOT 100%'}  {'PASS' if ok_hi else 'FAIL'}")
+    if not (ok_lo and ok_hi):
+        print("selftest FAILED: the sensitivity measure cannot report both ends",
+              file=sys.stderr)
+        return 1
+    print("  the sensitivity measure can report both ends")
+    return 0
+
+
 def read_verdicts(path):
     """{(section, chapter, shloka): (verdict, note)} from a filled-in sheet.
 
@@ -134,6 +269,13 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[1])
     ap.add_argument("--score", action="store_true",
                     help="read the filled-in sheet and report precision instead of writing it")
+    ap.add_argument("--plant", type=int, default=0, metavar="N",
+                    help="render N rows with a deliberately wrong tag, to measure whether "
+                         "a reviewer is reading the text. The CORPUS is never touched.")
+    ap.add_argument("--plant-seed", type=int, default=SEED,
+                    help="seed for --plant; the answer key is named after it")
+    ap.add_argument("--selftest", action="store_true",
+                    help="prove the sensitivity measure can report both 0%% and 100%%")
     args = ap.parse_args()
 
     if not BPHS.exists():
@@ -151,8 +293,22 @@ def main():
               file=sys.stderr)
         return 2
 
+    if args.selftest:
+        return selftest()
+
     if args.score:
         got = read_verdicts(SHEET)
+        key_path = PLANT_CACHE / f"plant-{args.plant_seed}.json"
+        planted_key = {}
+        if key_path.exists():
+            planted_key = {tuple(k.split("|", 1)): v
+                           for k, v in json.loads(key_path.read_text()).items()}
+        if planted_key:
+            print(sensitivity_report(planted_key, got))
+        else:
+            print(f"  no planted-defect key at {key_path} — SENSITIVITY NOT MEASURED.")
+            print("  That is not a pass. An unvalidated reviewer's verdicts are an opinion,")
+            print("  not a measurement. Regenerate with --plant N before dispatching one.")
         if not got:
             print(f"could not score: no verdicts filled in at {SHEET}\n"
                   f"  the verdict column must read one of: {', '.join(sorted(VERDICTS))}",
@@ -192,6 +348,18 @@ def main():
         print("  separately — folding it either way invents a verdict the reviewer withheld.")
         return 0
 
+    ph = phala_sample(doc)
+    planted = {}
+    if args.plant:
+        planted = plant(rows, ph, args.plant, args.plant_seed)
+        PLANT_CACHE.mkdir(parents=True, exist_ok=True)
+        key = PLANT_CACHE / f"plant-{args.plant_seed}.json"
+        key.write_text(json.dumps(
+            {f"{s}|{r}": v for (s, r), v in planted.items()}, indent=2, ensure_ascii=False))
+        # The key lives OUTSIDE the repo on purpose: committed beside the sheet it would
+        # be one `grep` from whoever is meant to be reviewing blind.
+        print(f"  planted {len(planted)} defect(s) · key -> {key}", file=sys.stderr)
+
     prior = read_verdicts(SHEET)          # never lose a reviewer's work on regeneration
     lines = [
         "# Spot check — the only honest precision estimate",
@@ -230,11 +398,12 @@ def main():
         key = ("tags", str(c), str(sh["number"]))
         v, note = prior.get(key, ("", ""))
         dev = (sh.get("text", "") or "").replace("\n", " ").replace("|", "/")[:110]
-        tags = " ".join(f"`{t}`" for t in sorted(sh.get("tags") or []))
+        shown = planted.get(("tags", f"{c}.{sh['number']}"), {}).get(
+            "shown", sorted(sh.get("tags") or []))
+        tags = " ".join(f"`{t}`" for t in shown)
         lines.append(f"| `{c}.{sh['number']}` | {dev} | {tags} | {v} | {note} |")
     lines.append("")
 
-    ph = phala_sample(doc)
     if ph:
         lines += [
             "",
@@ -272,8 +441,11 @@ def main():
             v, note = prior.get(key, ("", ""))
             dev = (sh.get("text", "") or "").replace("\n", " ").replace("|", "/")[:78]
             eng = (sh.get("english", "") or "").replace("\n", " ").replace("|", "/")[:88]
-            tags = " ".join(f"`{x.split(':', 1)[1]}`" for x in sorted(sh.get("tags_draft") or [])
-                            if x.startswith("phala:")) or "*(none — states no result)*"
+            shown = planted.get(("phala", f"{c}.{sh['number']}"), {}).get(
+                "shown", sorted(x for x in (sh.get("tags_draft") or [])
+                                if x.startswith("phala:")))
+            tags = " ".join(f"`{x.split(':', 1)[1]}`" for x in shown) \
+                or "*(none — states no result)*"
             lines.append(f"| `{c}.{sh['number']}` | {dev} | {eng} | {tags} | {v} | {note} |")
         lines.append("")
 
