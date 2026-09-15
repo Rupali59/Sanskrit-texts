@@ -128,13 +128,52 @@ only be failed by over-answering.
 |---|---:|---:|---:|---:|
 | **tags** | 2 | **11** | 38 | 1 |
 | **`$text`** | 11 | **18** | 31 | 1 |
-| embeddings | — | — | — | **NOT RUN** (needs an API key) |
+| **embed-en** — local `all-minilm` | **19** | **29** | 20 | 1 |
+| **hybrid** — tag filter → embed rank | 14 | 26 | 23 | 1 |
+
+**The embedding arm ran LOCALLY on 2026-09-15 — no API key, no cost.** `ollama` 0.34.0 was
+already installed and serving; the model is `all-minilm`, 384d, **46 MB, English-only, and the
+weakest option available**. A stronger model would raise these numbers, not change the ordering.
+
+*(`bge-m3` was attempted first — 1024d and multilingual, which would have opened a Devanāgarī
+arm the 2026-09-14 run could not run at all. Its 1.2 GB download died on a TLS timeout at 32 MB.
+Worth retrying: the corpus is 83% untranslated, so an arm that reads the Sanskrit directly is
+worth more than any English model.)*
 
 **Harness validated both ways** (`rule:discernment-checks` §1). Oracle — each question replaced by
 its own gold verse's English — **49 of 49 hit@1**. Negative control — a nonsense query — **0 of
 49**. It can report a pass and it can report a floor.
 
-### D2′ is answered, and not the way either side expected
+### D2′ is answered: embeddings earn their existence, decisively
+
+**29 against 11.** The weakest available local embedding model answers **29 of 49** where the tag
+layer answers **11** and `$text` answers **18**. D2′ asked whether embeddings answer queries the
+tag layer cannot; they answer more than twice as many.
+
+### The hybrid LOST, which is the opposite of what was predicted
+
+The plan stated *"the hybrid is the one the plan predicts wins"*, reasoning that a ranker facing
+~332 tag-filtered candidates is doing an easier job than one facing 3,937. **It measured 26
+against the plain embedding's 29.** The prediction was wrong and the reason is measurable:
+
+> **The tag filter's recall is 71%.** Of 45 gold verses, the filter *excludes* **13** outright —
+> and the ranker can never recover a verse the filter removed.
+
+Examples of the filter throwing away the answer: *"which house shows profession"* → `bhava:10`,
+*"which house shows the mother"* → `bhava:4`, *"Sun in the seventh house and the wife"* →
+`{bhava:7, graha:sun}`. Each is a *reasonable* tag set that simply does not match how the gold
+verse is tagged.
+
+**The general rule this measures: a filter placed before a ranker imposes its own recall as a
+hard ceiling.** 71% recall caps the hybrid at 71% no matter how good the ranker is. Precision
+bought at the cost of recall is a bad trade in front of a ranker that was already handling the
+unfiltered problem.
+
+**This does not make the tag layer useless** — it makes it the wrong instrument *for this job*.
+It remains exact, auditable, and the right thing for a structured filter a user asks for
+explicitly (`graha:saturn` + `bhava:10`). It is not a pre-filter for free-text retrieval.
+
+### What the earlier reasoning got right and wrong
 
 **The tag layer answers 11 of 49 (22%).** So the gap is **large**, and on that reading embeddings
 are amply justified.
@@ -166,6 +205,20 @@ tag layer is excellent at the first and weak at the second, and conflating them 
 An embedding asked to rank 332 tag-filtered candidates is doing a far easier job than one asked
 to rank 3,937 — and 0.870 was measured on the *harder* version. **The hybrid is the arm worth
 running next**, and it is cheap because the filter is already built.
+
+> **THAT PREDICTION WAS RUN AND IS FALSE. Hybrid 26, plain embedding 29.** The paragraph above is
+> left standing because it was the stated reasoning and it was wrong for a reason worth keeping:
+> it counted what a filter *gives* the ranker and never counted what it *takes away*. The tag
+> filter's recall is **71%**, so it discards 13 of 45 gold verses before the ranker sees them. A
+> filter in front of a ranker imposes its own recall as a hard ceiling.
+
+**Revised shape, measured rather than reasoned:**
+
+| use | instrument |
+|---|---|
+| free-text retrieval | **the embedding alone** — 29/49, no filter in front of it |
+| an explicit structured query a user asks for (`graha:saturn` + `bhava:10`) | **tags** — exact and auditable, and the user has accepted the recall trade by asking for it |
+| telling two verses apart once retrieved | **tags** — 97.32% of within-chapter pairs |
 
 ### The trap row worked, and both arms failed it
 
