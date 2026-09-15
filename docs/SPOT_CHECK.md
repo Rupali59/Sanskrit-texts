@@ -17,8 +17,7 @@ Write one word in `verdict`:
 | `ok` | every tag on this verse is right |
 | `wrong` | at least one tag is wrong |
 | `partial` | tags are right but something obvious is missed |
-| `unsure` | cannot judge — **use this freely**; it is reported separately and never
-folded into precision either way |
+| `unsure` | cannot judge — **use this freely**; reported separately, never folded in |
 
 Put what was wrong in `note`. Then: `python3 scripts/spot_check.py --score`.
 
@@ -218,4 +217,98 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `79.8` | शनिदृक्काणसंस्थे च शनिभौमनवांशके । शनिदृष्टे विधौ ज्ञेया प्रव्रज्या शनिसम्भवा | `entity:varga` `graha:mars` `graha:saturn` `rel:aspect` `rel:position` |  |  |
 | `79.3` | एकदण्डी यतिश्चक्रधरो निर्ग्रन्थिकः क्रमात् । ज्ञेया वीर्याधिकस्यैव सबलेषु बहुष्वपि | `rel:state` |  |  |
 | `79.2` | चतुरादिभिरेकस्थैः प्रव्रज्या बलिभिः समाः । रव्यादिभिस्तपस्वी च कपाली रक्तवस्त्रभृत् | `rel:position` |  |  |
+
+
+## Phala sample — a DIFFERENT judgement, please read this first
+
+These carry `phala:` tags in `tags_draft`. They were assigned by **reading the
+verse**, not by matching strings, because the result side of a shloka has no
+productive morphology to match on.
+
+**So judge them differently.** For the sample above, a tag is right or wrong about
+the text. Here, the common failure is a *defensible but different* category —
+`phala:loss` where you would have said `phala:sorrow`. That is not `wrong`.
+
+| verdict | means, for THIS section |
+|---|---|
+| `ok` | you would accept every tag, even if you might have added others |
+| `wrong` | a tag is not supported by the verse at all |
+| `partial` | a clear result the verse states is missing |
+| `unsure` | cannot judge |
+
+The 18 categories and the rule for each are in
+[`PHALA_CATEGORIES.md`](PHALA_CATEGORIES.md). Two are worth knowing before you
+start: a category is the **topic**, so `phala:wealth` covers a verse about the loss
+of wealth too; and verses that state no result at all — chapter openings,
+methodological closers — correctly carry **no** phala tag.
+
+Sample: **64 verses across 6 chapters** of the
+210 read so far.
+
+| ref | devanāgarī | english | phala | verdict | note |
+|---|---|---|---|---|---|
+| `1.4` | कथं सृष्टिरियं जाता जगतश्च लयः कथम् । खस्थानां भूस्थतानां च सम्बन्धं वद विस्तर | How was this creation born and how does the world dissolve? Tell me in detail the relati | *(none — states no result)* |  |  |
+| `1.6` | सूर्य नत्वा ग्रहपतिं जगदुत्पत्तिकारणम् । वक्ष्यामि वेदनयनं यथा ब्रह्ममुखाच्छ्र | Having bowed to the Sun, the lord of planets and the cause of the world's origin, I shal | *(none — states no result)* |  |  |
+| `1.24` | शक्तयश्च तथैतेषामधिकांशाः श्रियादयः । स्वस्वशक्तिषु चान्यासु ज्ञेया जीवांशकाधि | Their powers such as Shri (Lakshmi), etc., also have a dominance of Paramatmansha. In ot | *(none — states no result)* |  |  |
+| `1.23` | सूर्यादयो ग्रहाः सर्वे ब्रह्मकामद्विषादयः । एते चान्ये च बहवः परमात्मांशकाधिका | The Sun and other planets, Brahma, Shiva (enemy of Kama), and many others like them have | *(none — states no result)* |  |  |
+| `1.7` | शान्ताय गुरुभक्ताय सर्वदा सत्यवादिने । आस्तिकाय प्रदातव्यं ततः श्रेयो ह्यवाप्स | This knowledge should be given to one who is peaceful, devoted to the Guru, always truth | *(none — states no result)* |  |  |
+| `1.10` | संसारकारकः श्रीमान्निमित्तात्मा प्रतापवान् । एकांशेन जगत्सर्व सृजत्यवति लीलया | The illustrious, instrumental soul and glorious cause of the universe creates and protec | *(none — states no result)* |  |  |
+| `1.20` | श्रीशक्त्या सहितो विष्णुः सदा पाति जगत्त्रयम् । भूशक्त्या सृजते ब्रह्मा नीलशक् | Vishnu, along with Shri-Shakti, always protects the three worlds. Brahma creates with Bh | *(none — states no result)* |  |  |
+| `1.21` | सर्वेषु चैव जीवेषु परमात्मा विराजते । सर्वं हि तदिदं ब्रह्मन् स्थितं हि परमात् | The Supreme Soul (Paramatma) resides in all living beings. O Brahmin! Everything that we | *(none — states no result)* |  |  |
+| `1.2` | भगवन् परमं पुण्यं गुह्यं वेदाङ्गमुत्तमम् । त्रिस्कन्धं ज्यौतिषं होरा गणितं संह | "O Venerable One! Jyotisha (astrology) is supremely merit-giving, secret, and the best l | *(none — states no result)* |  |  |
+| `1.9` | एकोऽव्यक्तात्मको विष्णुरनादिः प्रभुरीश्वरः । शुद्धसत्वो जगत्स्वामी निर्गुणस्त् | Lord Vishnu is the one unmanifest soul, beginningless, the lord and ruler. He is pure Sa | *(none — states no result)* |  |  |
+| `13.8` | षष्ठेऽष्टमे व्यये वाऽपि धनलाभाधिपौ यदि । लाभे कुजोधने राहू राजदण्डाद् धनक्षयः | If the lords of the 2nd and 11th are in the 6th, 8th, or 12th houses, or if Mars is in t | `danger` `loss` |  |  |
+| `13.13` | धनेशे पापसंयुक्ते धने पापसमन्विते । पिशुनोऽसत्यवादी च वातव्याधिसमन्वितः | If the 2nd lord is associated with malefics and a malefic planet is in the 2nd house, th | `disease` |  |  |
+| `13.1` | धनभावफलं वच्मि श‍ृणु त्वं द्विजसत्तम । धनेशो धनभावस्थः केन्द्रकोणगतोऽपि वा | Now I shall tell the results of the 2nd house (Dhana Bhava), listen O best of Brahmins!  | *(none — states no result)* |  |  |
+| `13.11` | स्थिते पारावतांशादौ धनेशे शुभसंयुते । तद्गृहे सर्वसम्पत्तिर्विनाऽयासेन जायते | If the 2nd lord is in Paravat-amsha etc. and associated with benefics, all kinds of weal | `wealth` |  |  |
+| `13.2` | धनवृद्धिकरो ज्ञेयस्त्रिकस्थो धनहानिकृत् । धनदश्च धने सौम्यः पापो धनविनाशकृत् | ...it increases wealth. If placed in the 6th, 8th, or 12th (Trika), it causes loss of we | `loss` `wealth` |  |  |
+| `13.10` | स्वभोच्चस्थे धनाधीशे जातको जनपोषकः । परोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम | If the 2nd lord is in its own sign or exaltation, the native nourishes people, is a bene | `honour` |  |  |
+| `13.5` | धनेशे केन्द्रराशिस्थे लाभेशे तत्त्रिकोणगे । गुरुशुक्रयुते दृष्टे धनलाभमुदीरयेत | If the 2nd lord is in a quadrant sign and the 11th lord is in its trine, and they are as | `wealth` |  |  |
+| `13.7` | धनलाभाधिपावस्तौ पापग्रहसमन्वितौ । जन्मप्रभृतिदारिद्रं भिक्षान्नं लभते नरः | If the lords of the 2nd and 11th are combust or associated with malefic planets, the per | `loss` |  |  |
+| `13.12` | नेत्रेशे बलसंयुक्ते शोभनाक्षो भवेन्नरः । षष्ठाष्टमव्ययस्थे च नेत्रवैकल्यवान् भ | If the lord of the 2nd (Netra-esha) is powerful, the person has beautiful eyes. If it is | `disease` |  |  |
+| `13.9` | लाभे जीवे धने शुक्रे धनेशे शुभसंयुते । व्यये च शुभसंयुक्ते धर्मकार्ये धनव्ययः | If Jupiter is in the 11th, Venus in the 2nd, the 2nd lord is with benefics, and the 12th | `religion` |  |  |
+| `17.7` | लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ । राहुणा शनिना सार्द्धं कुष्ठं तत्र विनि | If the Lagna lord, Mars, and Mercury are conjoined with the Moon, along with Rahu or Sat | `disease` |  |  |
+| `17.23` | षष्ठाष्टमगते सूर्ये तद्व्यये चन्द्रसंयुतः । पञ्चमे नवमेऽब्दे तु जलभीतिं विनिर् | If the Sun is in the 6th or 8th house, and the Moon is conjoined in the 12th from it, da | `danger` |  |  |
+| `17.22` | जातस्य जन्मतो विप्र प्रथमे च द्वितीयके । वत्सरेऽग्निभयं तस्य त्रिवर्षे पक्षिदो | ...O Brahmin! in the first and second year from birth, there is danger from fire for him | `danger` |  |  |
+| `17.2` | षष्ठाधिपः स्वगेहे वा देहे वाऽप्यष्टमे स्थितः । तदा व्रणा भवेद्देहे षष्ठराशिसमा | If the 6th lord is in its own house, or in the Lagna, or in the 8th house, then there wi | `disease` |  |  |
+| `17.24` | अष्टमे मन्दसंयुक्ते तस्माद्वा द्वादशे कुजः । त्रिंशाब्दे दशमेऽब्दे तु स्फोटकाद | If Saturn is conjoined in the 8th house, or Mars is in the 12th from it, boils/eruptions | `disease` |  |  |
+| `17.12` | चन्द्रेण गण्डः सलिलैः कफश्लेष्मादिना भवेत् । एवं पित्रादिभावानां तत्तत्कारकयोग | With the Moon, danger from water, phlegm etc. Similarly for the houses of father etc., b | `disease` |  |  |
+| `17.8` | लग्नाधिपं विना लग्ने स्थितश्चेत्तमसा शशी । स्वेतकुष्ठं तदा कृष्णकुष्ठं च शनिना | If without the Lagna lord, the Moon is situated in the Lagna with Rahu, then white lepro | `disease` |  |  |
+| `17.17` | लग्नेशे नाशराशिस्थे षड्विंशे क्षयरोगता । व्ययेशे रोगराशिस्थे तदीशे व्ययराशिगे | ...and the Lagna lord is in the 8th house, consumption (tuberculosis) in the 26th year.  | `disease` |  |  |
+| `17.6` | लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः । यत्र कुत्र स्थितो ज्ञेन वीक्षितो मु | If the Lagna lord is located in the sign of Mars or Mercury, and placed anywhere is aspe | `disease` |  |  |
+| `17.16` | द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् । रोगस्थानं गतो राहुः केन्द्रे म | ...leprosy should be indicated in the 22nd or 19th year. If Rahu is in the 6th house, an | `disease` |  |  |
+| `20.4` | भाग्यस्थानाद् द्वितीये वा सुखे भौमसमन्विते । भाग्येशे नीचराशिस्थे पिता निर्धन  | If the 2nd or 4th house from the 9th house is occupied by Mars, and the 9th lord is in i | `family` `loss` |  |  |
+| `20.22` | पञ्चाशद्वत्सरे प्राप्ते जनकस्य मृतिर्भवेत् । भाग्यात् सप्तमगे सूर्ये भ्रातृसप् | ...the death of the father occurs when the 50th year is reached. If the Sun is in the 7t | `death` `family` |  |  |
+| `20.16` | तृतीये षोडशे वर्षे जनकस्य मृतिर्भवेत् । लग्नेशे नाशराशिस्थे रन्ध्रेशे भानुसंयु | ...the death of the father occurs in the 3rd or 16th year. If the Lagna lord is in the 8 | `death` `family` |  |  |
+| `20.19` | सप्तमैकोनविंशाब्दे तातस्य मरणं ध्रुवम् । भाग्येशे व्ययराशिस्थे व्ययेशे भाग्यरा | ...the death of the father is certain in the 7th or 19th year. If the 9th lord is in the | `death` `family` |  |  |
+| `20.31` | भाग्यस्थानगते मन्दे शशिना च समन्विते । लग्नेशे नीचराशिस्थे भिक्षाशी च नरो भवेत | If Saturn is in the 9th house associated with the Moon, and the Lagna lord is in its deb | `loss` |  |  |
+| `20.11` | लग्नेशे भाग्यराशिस्थे षष्ठेशेन समन्विते । अन्योन्यवैरं ब्रुवते जनकः कुत्सितो भ | If the Lagna lord is in the 9th house and associated with the 6th lord, they proclaim mu | `enemies` `family` |  |  |
+| `20.24` | त्रिंशैकविंशे षड्विंशे जनकस्य मृतिर्भवेत् । भाग्येशे नीचराशिस्थे तदीशे भाग्यरा | ...the death of the father occurs in the 30th, 21st, or 26th year. If the 9th lord is in | `death` `family` |  |  |
+| `20.6` | भाग्येशे केन्द्रभावस्थे गुरुणा च निरीक्षिते । तत्पिता वाहनैर्युक्तो राजा वा तत | If the 9th lord is in a Kendra and is aspected by Jupiter, the native's father will be e | `family` `honour` `property` |  |  |
+| `20.10` | भाग्येशे धनभावस्थे धनेशे भाग्यराशिगे । द्वात्रिंशात्परतो भाग्यं वाहनं कीर्तिसम | If the 9th lord is in the 2nd house and the 2nd lord is in the 9th house, the native att | `honour` `property` |  |  |
+| `20.15` | जातस्य प्रथमाब्दे तु पितुर्मरणमादिशेत् । व्ययेशे भाग्यराशिस्थे नीचांशे भाग्यना | ...the death of the father should be predicted in the first year of the native. If the 1 | `death` `family` |  |  |
+| `21.9` | लाभेशे कर्मराशिस्थे कर्मेशे लग्नसंयुते । तावुभौ केन्द्रगौ वापि सुखजीवनभाग् भवे | If the 11th lord is in the 10th house and the 10th lord is in the ascendant, or if both  | `happiness` |  |  |
+| `21.13` | केन्द्रेशे लाभराशिस्थे लाभेशे लग्नसंस्थिते । कर्मराशिस्थिते शुक्रे रत्नवान् स  | If a quadrant lord is in the 11th house, the 11th lord is in the ascendant, and Venus is | `wealth` |  |  |
+| `21.3` | कर्माधिपो बलोनश्चेत् कर्मवैकल्यमादिशेत् । सैहिः केन्द्रत्रिकोणस्थो ज्योतिष्टोम | If the lord of the 10th house is weak, the person's actions will be deficient. If it is  | `profession` `religion` |  |  |
+| `21.22` | इति कर्मफलं प्रोक्तं संक्षेपेण द्विजोत्तम । लग्नकर्मेशसम्बन्धादूह्यमन्यदपि स्व | Thus, the effects of the 10th house have been described in brief. Other results should b | *(none — states no result)* |  |  |
+| `21.5` | दशमे पापसंयुक्ते लाभे पापसमन्विते । दुष्कृतिं लभते मर्त्यः स्वजनानां विदूषकः | If the 10th and 11th houses are occupied by malefic planets, the person commits sins and | `enemies` `family` |  |  |
+| `21.12` | मीने जीवे भृगुयुते लग्नेशे बलसंयुते । स्वोच्चराशिगते चन्द्रे सम्यग्ज्ञानार्थवा | If Jupiter is in Pisces with Venus, the ascendant lord is strong, and the Moon is in its | `learning` `wealth` |  |  |
+| `21.4` | कर्मेशे शुभसंयुक्ते शुभस्थानगते तथा । राजद्वारे च वाणिज्ये सदा लाभोऽन्यथान्यथा | If the 10th lord is associated with benefics and placed in an auspicious house, the pers | `profession` `wealth` |  |  |
+| `21.16` | कर्मस्थानगते मन्दे नीचखेचरसंयुते । कर्मांशे पापसंयुक्ते कर्महीनो भवेन्नरः | If Saturn is in the 10th house with a debilitated planet, or if the Dashamansha is assoc | `profession` |  |  |
+| `21.14` | केन्द्रत्रिकोणगे कर्मनाथे स्वोच्चसमाश्रिते । गुरुणा सहिते दृष्टे स कर्मसहितो भ | If the 10th lord is in a quadrant or trine in its exaltation, and is associated with or  | `profession` |  |  |
+| `21.6` | कर्मेशे नाशराशिस्थे राहुणा संयुते तथा । जनद्वेषी महामूर्खो दुष्कृतिं लभते नरः | If the 10th lord is in the 8th house associated with Rahu, the person will be hated by p | `enemies` `learning` |  |  |
+| `21.8` | तुङ्गराशिं समाश्रित्य कर्मेशे गुरुसंयुते । भाग्येशे कर्मराशिस्थे मानैश्वर्यप्र | If the 10th lord is in its exaltation house with Jupiter, and the 9th lord is in the 10t | `honour` `wealth` |  |  |
+| `21.21` | कर्मस्थानाधिपे भाग्ये लग्नेशे कर्मसंयुते । लग्नात् पञ्चमगे चन्द्रे ख्यातनामा न | If the 10th lord is in the 9th house, the ascendant lord is in the 10th house, and the M | `honour` |  |  |
+| `24.113` | कर्मेशे सुतभावस्थे सर्वविद्यासमन्वितः । सर्वदा हृर्षसंयुक्तो धनवान् पुत्रवानपि | If the 10th lord is in the 5th house, the person is endowed with all kinds of learning;  | `children` `happiness` `learning` `wealth` |  |  |
+| `24.25` | लग्नगे सहजाधीशे स्वभुजार्जितवित्तवान् । सेवाज्ञः साहसी जातो विद्याहीनोऽपि बुद् | If the 3rd lord is in the ascendant, the person earns wealth by his own efforts, is know | `learning` `profession` `wealth` |  |  |
+| `24.77` | दारेशे पञ्चमे जातो मानि सर्वगुणान्वितः । सर्वदा हर्षयुक्तश्च तथा सर्वधनाधिपः | If the 7th lord is in the 5th house, the person is honorable, endowed with all virtues,  | `happiness` `honour` `wealth` |  |  |
+| `24.88` | रन्ध्रेशे सुखभावस्थे मातृहीनो भवेच्छिशुः । गृहभूमिसुखैर्हीनो मित्रद्रोही न संश | If the 8th lord is in the 4th house, the child is devoid of a mother; he is devoid of ha | `family` `property` |  |  |
+| `24.127` | लाभेशे दारभावस्थे लाभो दारकुलात् सदा । उदारश्च गुणी कामी जनो भार्यावशानुगः | If the 11th lord is in the 7th house, gain is always through the wife's side; the person | `marriage` `wealth` |  |  |
+| `24.106` | भाग्येशे कर्मभावस्थे जातो राजाऽथ तत्समः । मन्त्री सेनापतिर्वाऽपि गुणवान् जनपुज | If the 9th lord is in the 10th house, the person becomes a king or like a king, a minist | `honour` `profession` |  |  |
+| `24.100` | भाग्येशे तुर्यभावस्थे गृहयानसुखान्वितः । सर्वसम्पत्तियुक्तश्च मातृभक्तो भवेन्न | If the 9th lord is in the 4th house, the person enjoys happiness from mother, house, and | `family` `property` `wealth` |  |  |
+| `24.54` | सुतेशे रिपुभावस्थे पुत्रः शत्रुसमो भवेत् । मृतापत्योऽथवा जातो दत्तक्रीतसुतोऽथव | If the 5th lord is in the 6th house, his son becomes like an enemy, or he may have dead  | `children` `death` `enemies` |  |  |
+| `24.89` | रन्ध्रेशे सुतभावस्थे जडबुद्धिः प्रजायते । स्वल्पप्रज्ञो भवेज्जतो दीर्घायुश्च ध | If the 8th lord is in the 5th house, the person is of dull intellect; he has little inte | `learning` `longevity` `wealth` |  |  |
+| `24.101` | भाग्येशे सुतभावस्थे सुतभाग्यसमन्वितः । गुरुभक्तिरतो धीरो धर्मात्मा पण्डितो नरः | If the 9th lord is in the 5th house, the person is endowed with happiness from sons and  | `children` `learning` `religion` |  |  |
+| `24.3` | लग्नेशे सहजे जातः सिंहतुल्यपराक्रमी । सर्वसम्पद्युतो मानी द्विभार्यो मतिमान् स | If the Lagna Lord is in the 3rd house, the person is as brave as a lion, endowed with al | `happiness` `honour` `marriage` `wealth` |  |  |
+| `24.74` | दारेशे धनगे जातो बहुस्त्रीभिः समन्वितः । दारयोगाद्धनाप्तिश्च दीर्घसूत्री च मान | If the 7th lord is in the 2nd house, the person is endowed with many wives; he gains wea | `marriage` `wealth` |  |  |
 

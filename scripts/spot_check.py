@@ -50,6 +50,30 @@ VERDICTS = {"ok", "wrong", "partial", "unsure"}
 ROW = re.compile(r"^\|\s*`(\d+)\.([^`]+)`\s*\|")
 
 
+def phala_sample(doc, per_chapter=12):
+    """Every chapter that has been READ, up to `per_chapter` verses each.
+
+    Drawn separately from the matched-tag sample because the two layers are different
+    KINDS of claim and need different judgements. A `graha:mars` tag is a string match
+    and is right or wrong about the text. A `phala:wealth` tag is a READING, and its
+    failure mode is a defensible-but-different category, not a mismatch. Folding them
+    into one verdict column would average two unlike things.
+    """
+    read = defaultdict(list)
+    for ch in doc.get("chapters") or []:
+        for sh in ch.get("shlokas") or []:
+            if sh.get("tags_draft"):
+                read[ch["number"]].append(sh)
+    if not read:
+        return []
+    rng = random.Random(SEED)
+    out = []
+    for c in sorted(read, key=lambda x: str(x)):
+        verses = sorted(read[c], key=lambda s: str(s["number"]))
+        out += [(c, s) for s in rng.sample(verses, min(per_chapter, len(verses)))]
+    return out
+
+
 def sample(doc):
     """Deterministic stratified draw. Returns [(chapter, shloka_obj)]."""
     tagged = defaultdict(list)
@@ -71,21 +95,38 @@ def sample(doc):
     return out
 
 
+PHALA_HEADING = "## Phala sample"
+
+
 def read_verdicts(path):
-    """{(chapter, shloka): (verdict, note)} from a filled-in sheet."""
+    """{(section, chapter, shloka): (verdict, note)} from a filled-in sheet.
+
+    KEYED BY SECTION, and that is not cosmetic: 42 verses appear in BOTH samples, so a
+    key of (chapter, shloka) alone would let a verdict written in one section silently
+    overwrite the reviewer's verdict for the same verse in the other. Their two
+    judgements are about different tags and must not collide.
+
+    Section is decided by position — every row after the phala heading belongs to it.
+    """
     if not path.exists():
         return {}
     got = {}
+    section = "tags"
     for line in path.read_text(encoding="utf-8").splitlines():
+        if line.startswith(PHALA_HEADING):
+            section = "phala"
+            continue
         m = ROW.match(line)
         if not m:
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        if len(cells) < 5:
+        # the phala table has an extra `english` column, so the verdict sits one later
+        idx = 4 if section == "phala" else 3
+        if len(cells) < idx + 2:
             continue
-        v = cells[3].strip().lower()
+        v = cells[idx].strip().lower()
         if v in VERDICTS:
-            got[(m.group(1), m.group(2))] = (v, cells[4])
+            got[(section, m.group(1), m.group(2))] = (v, cells[idx + 1])
     return got
 
 
@@ -117,27 +158,38 @@ def main():
                   f"  the verdict column must read one of: {', '.join(sorted(VERDICTS))}",
                   file=sys.stderr)
             return 1
-        tally = Counter(v for v, _ in got.values())
-        by_type = defaultdict(Counter)
-        for (c, s), (v, _) in got.items():
-            sh = next((x for ch in doc["chapters"] if str(ch["number"]) == c
-                       for x in ch["shlokas"] if str(x["number"]) == s), None)
-            for t in (sh.get("tags") if sh else []) or []:
-                by_type[t.split(":")[0]][v] += 1
-        n = len(got)
-        print(f"  {n} of {len(rows)} sampled verses reviewed ({100*n/len(rows):.0f}%)")
-        for v in sorted(VERDICTS):
-            print(f"    {v:<9}{tally[v]:>5}  {100*tally[v]/n:>5.1f}%")
-        judged = tally["ok"] + tally["wrong"] + tally["partial"]
-        if judged:
-            print(f"\n  precision (ok / ok+wrong+partial): {100*tally['ok']/judged:.1f}%")
-            print(f"  'unsure' is EXCLUDED from that denominator and reported separately —")
-            print(f"  folding it either way would invent a verdict the reviewer withheld.")
-        print("\n  by tag type:")
-        for t, c in sorted(by_type.items(), key=lambda kv: -sum(kv[1].values())):
-            tot = c["ok"] + c["wrong"] + c["partial"]
-            p = f"{100*c['ok']/tot:.0f}%" if tot else "n/a"
-            print(f"    {t:<10}{sum(c.values()):>5} tags · ok {c['ok']:>4} · wrong {c['wrong']:>4} · {p}")
+        ph_rows = phala_sample(doc)
+        sizes = {"tags": len(rows), "phala": len(ph_rows)}
+        field = {"tags": "tags", "phala": "tags_draft"}
+        # NEVER pool the two. They are different kinds of claim scored against different
+        # instructions, and one precision number over both would be a mixture reported as
+        # a measurement (rule:discernment-checks §5).
+        for section in ("tags", "phala"):
+            sub = {k: v for k, v in got.items() if k[0] == section}
+            print(f"\n  === {section} layer")
+            if not sub:
+                print(f"    not reviewed yet — 0 of {sizes[section]}")
+                continue
+            tally = Counter(v for v, _ in sub.values())
+            by_type = defaultdict(Counter)
+            for (_, c, s), (v, _) in sub.items():
+                sh = next((x for ch in doc["chapters"] if str(ch["number"]) == c
+                           for x in ch["shlokas"] if str(x["number"]) == s), None)
+                for t in (sh.get(field[section]) if sh else []) or []:
+                    by_type[t.split(":")[0]][v] += 1
+            n = len(sub)
+            print(f"    {n} of {sizes[section]} reviewed ({100*n/max(sizes[section],1):.0f}%)")
+            for v in sorted(VERDICTS):
+                print(f"      {v:<9}{tally[v]:>5}  {100*tally[v]/n:>5.1f}%")
+            judged = tally["ok"] + tally["wrong"] + tally["partial"]
+            if judged:
+                print(f"    precision (ok / ok+wrong+partial): {100*tally['ok']/judged:.1f}%")
+            for t, c in sorted(by_type.items(), key=lambda kv: -sum(kv[1].values())):
+                tot = c["ok"] + c["wrong"] + c["partial"]
+                pc = f"{100*c['ok']/tot:.0f}%" if tot else "n/a"
+                print(f"      {t:<10}{sum(c.values()):>5} tags · ok {c['ok']:>4} · wrong {c['wrong']:>4} · {pc}")
+        print("\n  'unsure' is EXCLUDED from every precision denominator and reported")
+        print("  separately — folding it either way invents a verdict the reviewer withheld.")
         return 0
 
     prior = read_verdicts(SHEET)          # never lose a reviewer's work on regeneration
@@ -161,8 +213,7 @@ def main():
         "| `ok` | every tag on this verse is right |",
         "| `wrong` | at least one tag is wrong |",
         "| `partial` | tags are right but something obvious is missed |",
-        "| `unsure` | cannot judge — **use this freely**; it is reported separately and never",
-        "folded into precision either way |",
+        "| `unsure` | cannot judge — **use this freely**; reported separately, never folded in |",
         "",
         "Put what was wrong in `note`. Then: `python3 scripts/spot_check.py --score`.",
         "",
@@ -176,16 +227,60 @@ def main():
         "|---|---|---|---|---|",
     ]
     for c, sh in rows:
-        key = (str(c), str(sh["number"]))
+        key = ("tags", str(c), str(sh["number"]))
         v, note = prior.get(key, ("", ""))
         dev = (sh.get("text", "") or "").replace("\n", " ").replace("|", "/")[:110]
         tags = " ".join(f"`{t}`" for t in sorted(sh.get("tags") or []))
         lines.append(f"| `{c}.{sh['number']}` | {dev} | {tags} | {v} | {note} |")
     lines.append("")
 
+    ph = phala_sample(doc)
+    if ph:
+        lines += [
+            "",
+            "## Phala sample — a DIFFERENT judgement, please read this first",
+            "",
+            "These carry `phala:` tags in `tags_draft`. They were assigned by **reading the",
+            "verse**, not by matching strings, because the result side of a shloka has no",
+            "productive morphology to match on.",
+            "",
+            "**So judge them differently.** For the sample above, a tag is right or wrong about",
+            "the text. Here, the common failure is a *defensible but different* category —",
+            "`phala:loss` where you would have said `phala:sorrow`. That is not `wrong`.",
+            "",
+            "| verdict | means, for THIS section |",
+            "|---|---|",
+            "| `ok` | you would accept every tag, even if you might have added others |",
+            "| `wrong` | a tag is not supported by the verse at all |",
+            "| `partial` | a clear result the verse states is missing |",
+            "| `unsure` | cannot judge |",
+            "",
+            "The 18 categories and the rule for each are in",
+            "[`PHALA_CATEGORIES.md`](PHALA_CATEGORIES.md). Two are worth knowing before you",
+            "start: a category is the **topic**, so `phala:wealth` covers a verse about the loss",
+            "of wealth too; and verses that state no result at all — chapter openings,",
+            "methodological closers — correctly carry **no** phala tag.",
+            "",
+            f"Sample: **{len(ph)} verses across {len({c for c, _ in ph})} chapters** of the",
+            f"{sum(1 for c in doc['chapters'] for s in c['shlokas'] if s.get('tags_draft'))} read so far.",
+            "",
+            "| ref | devanāgarī | english | phala | verdict | note |",
+            "|---|---|---|---|---|---|",
+        ]
+        for c, sh in ph:
+            key = ("phala", str(c), str(sh["number"]))
+            v, note = prior.get(key, ("", ""))
+            dev = (sh.get("text", "") or "").replace("\n", " ").replace("|", "/")[:78]
+            eng = (sh.get("english", "") or "").replace("\n", " ").replace("|", "/")[:88]
+            tags = " ".join(f"`{x.split(':', 1)[1]}`" for x in sorted(sh.get("tags_draft") or [])
+                            if x.startswith("phala:")) or "*(none — states no result)*"
+            lines.append(f"| `{c}.{sh['number']}` | {dev} | {eng} | {tags} | {v} | {note} |")
+        lines.append("")
+
     SHEET.parent.mkdir(parents=True, exist_ok=True)
     SHEET.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"  {len(rows)} verses across {len({c for c, _ in rows})} chapters")
+    print(f"  {len(rows)} verses across {len({c for c, _ in rows})} chapters (matched tags)")
+    print(f"  {len(ph)} verses across {len({c for c, _ in ph})} chapters (read phala)")
     print(f"  {len(prior)} existing verdict(s) carried forward")
     print(f"-> {SHEET.relative_to(REPO)}")
     return 0
