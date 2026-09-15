@@ -29,336 +29,384 @@
           "text": "उन्मण्डलक्ष्मावलयान्तराले द्युरात्रवृत्ते चरखण्डकालः। तज्ज्याऽत्र कुज्या चरशिञ्जिनी स्याद्व्यासार्धवृत्ते परिणामिता सा॥१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The interval on the diurnal circle between the prime vertical (unmaṇḍala) and the horizon circle (kṣitija) represents the ascensional difference (cara-khaṇḍa-kāla). The sine of this arc on the diurnal circle is the kujyā (earth-sine), and when converted to the circle of radius R (trijyāvṛtta), it becomes the cara-śiñjinī (sine of ascensional difference)."
         },
         {
           "number": 2,
           "text": "निरक्षदेशे क्षितिजाख्यवृत्तमुन्मण्डलं तज्जगुरन्यदेशे। स्वे स्वे कुजेऽर्कस्य समुद्गमोऽस्माच्चरार्धमर्कोदययोस्तु मध्ये॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the terrestrial equator (nirekṣa-deśa), the horizon circle itself functions as the unmaṇḍala. In other terrestrial latitudes, they differ. The Sun rises at his own local horizon; hence, the time interval between equatorial sunrise and local sunrise is equal to half the ascensional difference (carārdha)."
         },
         {
           "number": 3,
           "text": "आदौ स्वदेशेऽथ निरक्षदेशे सूर्योदयो ह्यस्तमयोऽन्यथाऽतः। ऋणं ग्रहेऽस्मादुदये स्वमस्ते फलं चरोत्थं रविसौम्यगोले॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When the Sun is in the northern hemisphere (saumya-gola), sunrise occurs earlier at the local place than at the equator, and sunset occurs later. Therefore, the correction derived from ascensional difference (caraphala) is subtracted from the planet at local sunrise and added at local sunset."
         },
         {
           "number": 4,
           "text": "याम्ये विलोमं खलु तत्र यस्मादुन्मण्डलं स्वक्षितिजादधस्तात्। नाड्याह्वयादुत्तरयाम्यभागौ गोलस्य तावुत्तरयाम्यगोलौ॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In the southern hemisphere (yāmya-gola), the rule is reversed because the unmaṇḍala lies below the local horizon. The two hemispheres of the celestial sphere, north and south of the celestial equator (nāḍīvṛtta), are designated as the Northern and Southern Hemispheres."
         },
         {
           "number": 5,
           "text": "अतश्च सौम्ये दिवसो महान्स्याद्रात्रिर्लघुर्व्यस्तमतश्च याम्ये। द्युरात्रवृत्ते क्षितिजादधःस्थे रात्रिर्यतः स्याद्दिनमानमूर्ध्वे॥५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Hence, during northern declination, the day is long and the night is short; the reverse holds true during southern declination. This is because the portion of the diurnal circle above the horizon constitutes daytime, while the portion below constitutes night."
         },
         {
           "number": 6,
           "text": "सदा समत्वं द्युनिशोर्निरक्षे नोन्मण्डलं तत्र कुजाद्यतोऽन्यत्। षट्षष्टिभागाभ्यधिकाः पलांशा यत्राथ तत्रास्त्यपरो विशेषः॥६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the equator, day and night are always equal in length because the unmaṇḍala is not distinct from the horizon. However, in regions where the latitude (palāṁśa) exceeds 66 degrees, a special phenomenon occurs."
         },
         {
           "number": 7,
           "text": "लम्बाधिका क्रान्तिरुदक् च यावत्तावद्दिनं सन्ततमेव तत्र। यावच्च याम्या सततं तमिस्रा ततश्च मेरौ सततं समार्धम्॥७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "As long as the northern declination exceeds the co-latitude (lambā), continuous daylight prevails there for that duration. Conversely, as long as southern declination exceeds co-latitude, continuous night prevails. At the North Pole (Meru), day and night each continuously last for half a year."
         },
         {
           "number": 8,
           "text": "विषुवद्वृत्तं द्युसदां क्षितिजत्वमितं तथा च दैत्यानाम्। उत्तरयाम्यौ क्रमशो मूर्धोर्ध्वगतौ ध्रुवौ यतस्तेषाम्॥८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The celestial equator (viṣuvad-vṛtta) forms the horizon for the Gods (at Meru) as well as for the Demons (at Baḍavāmukha), because their zeniths coincide respectively with the North and South Celestial Poles."
         },
         {
           "number": 9,
           "text": "उत्तरगोले क्षितिजादूर्ध्वे परितो भ्रमन्तमादित्यम्। सव्यं त्रिदशाः सततं पश्यन्त्यसुरा असव्यगं याम्ये॥९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When the Sun is in the northern hemisphere, moving above the horizon, the Gods behold him circumambulating continuously from left to right (clockwise/savya), while the Demons in the south view him moving counter-clockwise (asavya)."
         },
         {
           "number": 10,
           "text": "दिनं दिनेशस्य यतोऽत्र दर्शने तमी तमोहन्तुरदर्शने सति। कुपृष्ठगानां द्युनिशं यथा नृणां तथा पितॄणां शशिपृष्ठवासिनाम्॥१०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Since daytime is defined by the visibility of the Sun and night by his absence, just as humans on Earth experience day and night, so also do the Pitṛs (Ancestors) residing on the upper surface of the Moon."
         },
         {
           "number": 11,
           "text": "दिनं सुराणामयनं यदुत्तरं निशेतरत्सांहितिकैः प्रकीर्तितम्। दिनोन्मुखेऽर्के दिनमेव तन्मतं निशा तथा तत्फलकीर्तनाय तत्॥११॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The northern progress of the Sun (Uttara-ayana) is stated by astronomers to be the daytime of the Gods, and the southern progress is their night. This conventional division is stated for the purpose of assigning astrological fruits based on the Sun's orientation toward daytime or night."
         },
         {
           "number": 12,
           "text": "द्वंद्वान्तमारोहति यैः क्रमेण तैरेव वृत्तैरवरोहतीनः। यत्रैव दृष्टः प्रथमं स देवैस्तत्रैव तिष्ठन्न विलोक्यते किम्॥१२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The Sun ascends along the diurnal circles in the same succession as he subsequently descends after reaching the solstice (dvandvānta). Why then is he not seen continuously at the same spot where the Gods first observe him?"
         },
         {
           "number": 13,
           "text": "विधूर्ध्वभागे पितरो वसन्तः स्वाधः सुधादीधितिमामनन्ति। पश्यन्ति तेऽर्के निजमस्तकोर्ध्वे दर्शे यतोऽस्माद्द्युदलं तदैषाम्॥१३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The Pitṛs living on the upper side of the Moon perceive the nectar-rayed Moon beneath them. At the New Moon (Darśa), they see the Sun directly above their heads; hence, New Moon is their midday."
         },
         {
           "number": 14,
           "text": "भार्धान्तरत्वान्न विधोरधःस्थं तस्मान्निशीथः खलु पौर्णमास्याम्। कृष्णे रविः पक्षदलेऽभ्युदेति शुक्लेऽस्तमेत्यर्थत एव सिद्धम्॥१४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At Full Moon (Paurṇamāsī), the Sun is 180 degrees away and below the Moon, making it midnight for the Pitṛs. Consequently, sunrise occurs for them at the middle of the dark fortnight (Kṛṣṇa-pakṣa) and sunset at the middle of the bright fortnight (Śukla-pakṣa)."
         },
         {
           "number": 15,
           "text": "यदतिदूरगतो द्रुहिणः क्षितेः सततमाप्रलयं रविमीक्षते। भवति तावदयं शयितश्च तद्युगसहस्रयुगं द्युनिशं विधेः॥१५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Because Lord Brahmā resides at an immense distance beyond Earth, he beholds the Sun continuously until cosmic dissolution (pralaya). When he sleeps for that duration, it constitutes his night; thus a day and night of Brahmā each equal one thousand Mahāyugas."
         },
         {
           "number": 16,
           "text": "यो हि प्रदेशोऽपममण्डलस्य तिर्यक्स्थितो यात्युदयं तथाऽस्तम्। सोऽल्पेन कालेन य ऊर्ध्वसंस्थोऽनल्पेन सोऽस्मादुदया न तुल्याः॥१६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "That portion of the ecliptic (apamaṇḍala) which rises obliquely takes a shorter time to ascend and set, whereas that which stands more upright takes a longer time. For this reason, the rising times (udaya-mānas) of the zodiacal signs are not equal."
         },
         {
           "number": 17,
           "text": "य उद्गमे याम्यनता मृगाद्याः स्वस्वापमेनापि निरक्षदेशे। याम्याक्षतस्तेऽतिनतत्वमाप्ता उद्यन्ति कालेन ततोऽल्पकेन॥१७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The signs beginning with Capricorn (Mṛga), which incline southward at sunrise even at the equator due to their own declination, become further tilted southward owing to southern latitude; hence they rise in a shorter time."
         },
         {
           "number": 18,
           "text": "कर्क्यादयः सौम्यनता हि येऽत्र ते यान्ति याम्याक्षवशादृजुत्वम्। कालेन तस्माद्बहुनोदयन्ते तदन्तरे स्वं चरखण्डमेव॥१८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Conversely, the signs starting with Cancer (Karki), which incline northward, become more upright due to southern latitude; thus they require a longer time to rise. The difference between equatorial and local rising times is precisely their respective ascensional difference (cara-khaṇḍa)."
         },
         {
           "number": 19,
           "text": "भचक्रपादास्तिथिनाडिकाभिः पृथक्समुद्यन्ति निरक्षदेशे। चक्रार्धमाद्यं च तथा द्वितीयं सर्वत्र पूर्णाग्निमिताभिरेव॥१९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the equator, each quadrant of the zodiac rises in 15 nāḍikās (tithi-nāḍī). Everywhere on Earth, the first half of the zodiac as well as the second half rise in exactly 30 nāḍikās (pūrṇāgni)."
         },
         {
           "number": 20,
           "text": "मेषादेर्मिथुनान्तो नाडीभिस्तिथिमिताभिरुद्वृत्ते। लगति कुजे तदधःस्थे प्रथमं ताभिश्वरोनाभिः॥२०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The arc from the start of Aries to the end of Gemini touches the unmaṇḍala in 15 nāḍikās. When it lies below the local horizon, it reaches the horizon earlier, in 15 nāḍikās minus the ascensional difference (caronā)."
         },
         {
           "number": 21,
           "text": "कन्यान्ताद्धनुषोऽन्तस्तिथिमितनाडीभिरुद्वलये। लगति कुजे चोर्ध्वस्थे पश्चात्ताभिश्वराढ्याभिः॥२१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The arc from the end of Virgo to the end of Sagittarius touches the unmaṇḍala in 15 nāḍikās. When it lies above the horizon, it reaches the horizon later, in 15 nāḍikās plus the ascensional difference (carāḍhyā)."
         },
         {
           "number": 22,
           "text": "तद्रहितत्रिंशद्भिः कन्यान्तो वा झषान्तो वा। चरखण्डैरूनाढ्यास्तेन निरक्षोदयाः स्वदेशे स्युः॥२२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Subtracting these from 30 nāḍikās yields the times for Virgo or Pisces. Thus, local rising times are obtained by subtracting or adding the ascensional differences (cara-khaṇḍas) to the equatorial rising times."
         },
         {
           "number": 23,
           "text": "क्षितिजेऽजादिं कृत्वा गोलं भ्रमयन्प्रदर्शयेत्सर्वम्। उक्तमनुक्तं चान्याच्छिष्याणां बोधजननार्थम्॥२३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Setting the start of Aries on the horizon of the armillary sphere and rotating the globe, the teacher should demonstrate all stated and unstated principles to illuminate the minds of students."
         },
         {
           "number": 24,
           "text": "योऽभ्युदेति समयेन येन तत्सप्तमोऽस्तमुपयाति तेन च। राशिरूर्ध्वमपमण्डंलं कुजादर्धमेव सततं यतः स्थितम्॥२४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Whichever sign rises in a given time, its seventh sign sets in that exact same duration, because exactly one-half of the ecliptic circle always remains above the horizon."
         },
         {
           "number": 25,
-          "text": "यत्र लम्बजलवा जिनोनकास्तत्र नोदयचराद्यमुक्तवत्। नान्यसंस्थिततयाऽन्यथोदितं येन नैष विषयो नृगोचरः॥२५॥",
+          "text": "यत्र लम्बजलवा जिनोनकास्तत्र नोदयचराद्यमुक्तवत्। नान्यसंस्थिततयाऽन्यthoदितं येन नैष विषयो नृगोचरः॥२५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In latitudes where the co-latitude is less than 24 degrees (jinonaka), standard rising times and ascensional difference rules do not hold as stated, due to atypical geometry; such extreme polar/high-latitude regions are beyond human habitation."
         },
         {
           "number": 26,
           "text": "या लग्नमपमण्डलं कुजे तद्गृहाद्यमिह लग्नमुच्यते। प्राचि पश्चिमकुजेऽस्तलग्नकं मध्यलग्नमिति दक्षिणोत्तरे॥२६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The point where the ecliptic intersects the horizon in the east is called the Ascendant (Lagna). The intersection in the west is the Descendant (Asta-lagna), and the intersection with the meridian (south-north) is the Midheaven (Madhya-lagna)."
         },
         {
           "number": 27,
           "text": "लग्नार्थमिष्टघटिका यदि सावनास्तास्तात्कालिकार्ककरणेन भवेयुरार्क्ष्यः आर्क्षोदया हि सदृशीभ्य इहापनेयास्तात्कालिकत्वमथ न क्रियते यदाऽऽर्क्ष्यः॥२७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "If the desired time for calculating the Lagna is given in civil (sāvana) nāḍikās, it must be converted into sidereal (ārkṣa) nāḍikās using the Sun's true motion; sidereal risings must be subtracted from equal sidereal durations when computing true positions."
         },
         {
           "number": 28,
           "text": "त्र्यंशयुङ्नवरसाः ६९/२०पलांशका यत्र तत्र विषये कदाचन।        दृश्यते न मकरो न कार्मुकं किंच ककिंमिथुनौ सदोदितौ॥२८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At a latitude of 69° 20', Sagittarius and Capricorn are never visible above the horizon, whereas Gemini and Cancer remain continuously visible at all times."
         },
         {
           "number": 29,
           "text": "यत्र साङगिजवाजिमंमिता ७८/१५ स्तत्र वृश्चिकचतुष्टयं न च। दृश्यतेऽथ वृषभाच्चतुष्टयं सर्वदा समुदितं च लक्ष्यते॥२९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Where the latitude is 78° 15', the four signs beginning with Scorpio are never seen, while the four signs starting with Taurus remain perpetually above the horizon."
         },
         {
           "number": 30,
           "text": "अत्र तेऽथ नवतिः पलांशकास्तत्र काञ्चनगिरौ कदाचन। दृश्यते न भदलं तुलादिकं सर्वदा समुदितं क्रियादिकम्॥३०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Where the latitude is 90 degrees (at Mount Meru), the six southern signs beginning with Libra are never seen, while the six northern signs starting with Aries are continuously visible."
         },
         {
           "number": 31,
           "text": "राशेर्यस्य निरक्षजोदयसमाः स्वीयाश्चरार्धासवो दृश्यस्तत्र सदा स राशिरिति यन्निर्युक्ति लल्लोदितम्। यद्येवं रसषट् ६६ पलांशविषये सर्वेऽप्यमी सर्वदा दृश्याः स्युर्युगपञ्चरोदयघटीमाम्यादसत्तत्ततः॥३१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Lalla's assertion—that a sign whose half-ascensional difference equals its equatorial rising time remains perpetually visible—is illogical. Were it so, at 66° latitude all signs would be visible simultaneously due to equal cara and udaya times, which is absurd."
         },
         {
           "number": 32,
           "text": "र्नक्रश्चापि न वृश्चिको न च घटः पञ्चाद्रयो ७५। ० यत्र च। दृश्यः स्यादिति यत्सदा प्रलपितं लल्लेन गोले निजे गोलज्ञ त्रिलवोनितास्त उदिताः केनोच्यतां हेतुना॥३२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Lalla further claimed that at latitude 75°, Capricorn, Scorpio, and Aquarius are never seen. O Astronomer, explain by what logic those signs are declared invisible when they actually rise diminished by just 3 degrees!"
         },
         {
           "number": 33,
           "text": "यत्रवेधविधिना ध्रुवोन्नतिर्या नतिश्च भवतोऽक्षलम्बकौ। तौ क्रमाद्विषुवदह्न्यहर्दले येऽथवा नतसमुन्नता लवाः॥३३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The altitude of the celestial pole (dhruva-unnati) measured by observation is the latitude (akṣa), and its complement is the co-latitude (lamba). Alternatively, on the equinoctial day at noon, the zenith distance and altitude of the Sun give latitude and co-latitude respectively."
         },
         {
           "number": 34,
           "text": "उन्नतं द्युनिशमण्डले कृजात्सावनं द्युतिविधौ हि तज्ज्यका। तिर्यगक्षबशलोऽक्षकर्णवच्छेदको न तु नरः स लम्बवत्॥३४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The altitude of a celestial body along its diurnal circle above the horizon is its unnata; its sine is used in calculating solar illumination, adjusted by the hypotenuse of the gnomonic shadow (akṣakarṇa)."
         },
         {
           "number": 35,
           "text": "चद्रप्रभार्थमसाद्विधिनोदितं यत् कैश्चित्कृतं खलु न सत्तदसावनत्वात्। जानन्ति ये न निपुणं गणितं सगोलं तेषां तु तन्त्रकरणव्यसनं वृथैव॥३५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The method stated by some for lunar illumination without using civil diurnal arcs is incorrect. Those who do not thoroughly understand spherical astronomy and calculation pursue astronomical composition in vain."
         },
         {
           "number": 36,
-          "text": "इष्टिमण्डलभवा लवाः कुजादुन्नता गगनमध्यतो नताः। शङ्कुरुन्नतलवज्यका भवेद्दृग्गुणश्च नतभागशिञ्जिनी॥३६॥",
+          "text": "इष्टापवर्तितां पृथ्वीं कक्षे च शशिसूर्ययोः। भित्तौ विलिख्य तन्मध्ये तिर्यग्रेखां तथोर्ध्वगाम्॥३६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Drawing a scaled representation of the Earth and the orbits of the Sun and Moon on a wall, with horizontal and vertical axes through the center..."
         },
         {
           "number": 37,
           "text": "भास्करेऽत्र सममण्डलोपगे यो नरः स समशङ्कुरुच्यते। कोणशङ्कुरथ कोणवृत्तगे मध्यशङ्कुरिति दक्षिणोत्तरे॥३७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When the Sun is on the prime vertical, the gnomon/sine of altitude is called Sama-śaṅku; when on the corner vertical (intermediate cardinal direction), it is Koṇa-śaṅku; and when on the meridian (south-north), it is Madhya-śaṅku."
         },
         {
           "number": 38,
           "text": "कुपृष्ठगानां कुदलेन हीनं दृङ्मण्डलार्थं खचरस्य दृश्यम्। कुच्छन्नलिप्तानुरतो विशोध्याः स्वभुक्तितिथ्यंशमिताः प्रभार्थम्॥३८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "For observers on the Earth's surface, the visible hemisphere is diminished by the Earth's semi-diameter (parallax adjustment). Parallax corrections proportional to daily motion must be subtracted for accurate shadow calculations."
         },
         {
           "number": 39,
           "text": "जीवाग्रका भवति पूर्वपराशयोः सा। अग्राग्रयोः प्रगुणमत्र निबद्धसूत्रं यत्तद्वदन्ति गणका उदयास्तसूत्रम्॥३९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The sine of amplitude (agrā) extends from the east-west points. The straight line joining the rising and setting points of a planet is called the Udayāsta-sūtra (Rising-Setting Line) by astronomers."
         },
         {
           "number": 40,
           "text": "मूत्राद्विवाशङ्कुतलं यमाशं याम्यां गतं हि द्युनिशं कुजोर्ध्वे। अधश्च सौम्यां निशि सौम्यमस्मात्सद्युक्तियुक्तं नृतलं निरुक्तम्॥४०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The horizontal distance (śanku-tala) from the rising-setting line towards the south or north determines the projection of the diurnal circle above or below the horizon, establishing the true gnomonic base (nṛtala)."
         },
         {
           "number": 41,
           "text": "सौम्याग्रकाग्रन्नृतलं हि याम्यं याम्याग्रकाग्रात्पुनरेव याम्यम्। तदन्तरैक्यं समवृत्तखेटमध्यांशजीवां भुवि बाहुमाहुः॥४१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When amplitude is north, the base is south; when amplitude is south, it is also south. Their sum or difference gives the sine of distance from the prime vertical, called the base (bāhu) on the plane."
         },
         {
           "number": 43,
           "text": "भुजोऽपमः कोटिगुणो द्युजीवा कर्णास्त्रिभज्या त्रिभुजेऽपमोत्थे। मेषादिजीवाः श्रुतयोऽपवृत्ते तद्भूमिजे क्रान्तिगुणा भुजाः स्युः॥४३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In the right triangle of declination (apama-tribhuja): the perpendicular/base is declination (apama), the altitude/upright is the day-radius sine (dyujīvā), and the hypotenuse is the radius (trijyā). Along the ecliptic, sines of signs are hypotenuses, and their declinations are bases."
         },
         {
           "number": 44,
           "text": "तत्कोटयः स्वद्युनिशाख्यवृत्ते व्यासार्धवृत्ते परिणामितानाम्। चापेषु तासामसवस्ततो ये तेऽधो विशुद्धा उदया निरक्षे॥४४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The uprights (koṭis) on their respective diurnal circles, when scaled to the standard radius circle and converted to arcs, give the sidereal ascensions (asus) which yield the equatorial risings."
         },
         {
           "number": 45,
           "text": "भुजोऽक्षमा कोटिरिनाङ्गलो ना कर्णोऽक्षकर्णस्त्रिभुजं यथेदम्। तथाऽक्षलम्बौ भुजकोटिरूपौ त्रिज्या श्रुतिदक्षिणसौस्यवृत्ते॥४५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Just as local latitude-sine is base, 12 inches is upright, and gnomonic hypotenuse is hypotenuse in the shadow triangle, so in the meridian circle latitude-sine and co-latitude-sine are base and upright, with radius as hypotenuse."
         },
         {
           "number": 46,
           "text": "त्कान्तिज्यका कोटिरथ द्युरात्रे। कुज्या भुजोऽग्रा क्षितिजे च कर्णः क्षेत्रं तथेदं त्रिभुजं प्रसिद्धम्॥४६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In the diurnal triangle on the horizon plane, declination-sine is upright, earth-sine (kujyā) is base, and solar amplitude (agrā) is hypotenuse—this famous right-angled triangle is well known."
         },
         {
           "number": 47,
           "text": "र्द्युरात्रके  तद्धृतिरत्र कर्णः। भुजोऽपमज्या समना च कर्णः कुज्योनिता तद्धृतिरेव कोटिः॥४७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "On the diurnal circle, the diurnal hypotenuse (taddhṛti) is the hypotenuse, declination-sine is base, and diurnal hypotenuse minus earth-sine forms the upright."
         },
         {
           "number": 48,
           "text": "उद्धृत्तना दोरपमः श्रुतिः स्यादग्रादिखण्डं खलु तत्र कोटिः। उद्वृत्तना कोटिरथाग्रकाग्रखण्डं भुजस्तच्छ्रवणः क्षितिज्या॥४८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In the triangle formed by the unmaṇḍala: declination is hypotenuse, the amplitude segment is upright; and in its counterpart, unmaṇḍala altitude is upright, amplitude segment is base, and earth-sine is hypotenuse."
         },
         {
           "number": 49,
           "text": "कोटिर्नरः शङ्कुतलं च बाहुश्छेदः श्रुतिस्त्र्यस्रसहस्रमेवम्। उत्पाद्य सद्यः स्फुटगोलविद्यैश्छात्राय शास्त्रं प्रतिपादनीयम्॥४९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "With gnomon as upright, śaṅkutala as base, and cheda as hypotenuse, thousands of such right triangles can be generated by expert astronomers to explain spherical geometry to students."
         }
       ]
     },
@@ -371,196 +419,224 @@
           "text": "पश्चाद्भागाज्जलदवदधः संस्थितोऽभ्येत्य चन्द्रो भानोर्बिम्बं स्फुरदसितया छादयत्यात्ममूर्त्या। पश्चात्स्पर्शो हरिदिशि ततो मुक्तिरस्यात एव क्वापि च्छन्नः क्वचिदपिहितो नैष कक्षान्तरत्वात्॥१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Approaching from the west like a dark cloud, the Moon, situated below the Sun, covers the shining solar disc with her own dark body. Thus contact begins on the western limb and release occurs on the eastern limb. Due to difference in orbital radii, the eclipse is visible in some places and not in others."
         },
         {
           "number": 2,
           "text": "द्भूमध्यस्थो न तु वसुमतीपृष्ठनिष्ठस्तदानीम्। तद्दृकसूत्राद्धिमरुचिरधो लम्बितोऽर्कग्रहेऽतः कक्षाभेदादिह खलु नतिर्लम्बनं चोपपन्नम्॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The observer stands on the surface of the Earth and not at its center. Along the line of sight, the Moon is depressed lower during a solar eclipse; hence parallax in longitude (lambana) and parallax in latitude (nati) arise from orbital differences."
         },
         {
           "number": 3,
           "text": "समकलकाले भूभा लगति मृगाङ्के यतस्तया म्लानम्। सर्वे पश्यन्ति समं समकक्षत्वान्न लम्बनावनती॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the moment of exact opposition, the Earth's shadow touches the Moon. Because all observers view the Moon entering the shadow at the same orbital distance, lunar eclipses show no parallax in longitude or latitude."
         },
         {
           "number": 4,
           "text": "पूर्वाभिमुखो गच्छन्कुच्छायान्तर्यतः शशी विशति। तेन प्राक प्रग्रहणं पश्चान्मोक्षोऽस्य निःसरतः॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Moving eastward in her orbit, the Moon enters the Earth's shadow. Therefore, contact occurs on the eastern limb of the Moon, and release occurs on the western limb as she exits."
         },
         {
           "number": 5,
           "text": "भानोर्बिम्बपृथुत्वादपृथुपृथिव्याः प्रभा हि सूच्यग्रा। दीर्घतया शशिकक्षामतीत्य दूरं बहिर्याता॥५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Because the Sun's disc is larger than the Earth's, the Earth's shadow cone tapers into a needle point, extending far beyond the Moon's orbital distance into space."
         },
         {
           "number": 6,
           "text": "अनुपातात्तद्दैर्घ्यं शशिकक्षायां च तद्बिम्बम्। भूमेन्दोरन्यादिशि व्यस्तः क्षेपः शशिग्रहे तस्मात्॥६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The length of the shadow cone and its diameter at the Moon's orbit are calculated by proportion. Because the shadow is directly opposite the Sun from Earth, celestial latitude has a reversed directional effect in lunar eclipses."
         },
         {
           "number": 7,
           "text": "छादकः पृथुतरस्ततो विधोरर्धखण्डितनोर्विषाणयोः। कुण्ठता च महती स्थितिर्यतो लक्ष्यते हरिणलक्षणग्रहे॥७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In a lunar eclipse, the obscuring body (Earth's shadow) is much larger than the Moon; hence when partially eclipsed, the Moon's horns appear blunt and the duration of eclipse is long."
         },
         {
           "number": 8,
           "text": "अर्धखण्डिततनोर्विषाणयोस्तीक्ष्णता भवति तीक्ष्णदीधितेः। स्यात्स्थितिर्लघुरतो लघुः पृथक् छादको दिनकृतोऽवगम्यते॥८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In a solar eclipse, when the Sun is partially obscured, his horns appear sharp and the duration is short, proving that the obscuring Moon is relatively smaller than the Earth's shadow cone."
         },
         {
           "number": 9,
           "text": "दिग्देशकालावरणादिभेदान्न च्छादको राहुरिति ब्रुवन्ति। यन्मानिनः केवलगोलविद्यास्तत्संहितावेदपुराणबाह्यम्॥९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Those who claim Rāhu is not the cause of eclipses because of variations in direction, region, time, and obscuration are merely arrogant sphere-theorists acting contrary to Saṁhitās, Vedas, and Purāṇas."
         },
         {
           "number": 10,
           "text": "राहुः कुभामण्डलगः शशाङ्कं शशाङ्कगश्छादयतीनबिम्बम्। तमोमयः शंभुवरप्रदानात्सर्वागमानामविरुद्धमेतत्॥१०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Rāhu, being of dark nature by the boon of Lord Śiva, enters the Earth's shadow to obscure the Moon, and positioned on the Moon's disc conceals the Sun; thus traditional scriptures and astronomical logic remain fully reconciled."
         },
         {
           "number": 11,
           "text": "यतः क्वर्धोच्छ्रितो द्रष्टा चन्द्रं पश्यति लम्बितम्। साध्यते कुदलेनातो लम्बेनं च नतिस्तथा॥११॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Because an observer elevated on the Earth's surface beholds the Moon depressed relative to the geocentric line of sight, parallax in longitude (lambana) and latitude (nati) are computed using the Earth's radius."
         },
         {
           "number": 12,
           "text": "इष्टापवर्तितां पृथ्वीं कक्षे च शशिसूर्ययोः। भित्तौ विलिख्य तन्मध्ये तिर्यग्रेखां तथोर्ध्वगाम्॥१२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Drawing a scaled diagram of the Earth and the orbits of the Sun and Moon on a wall, with horizontal and vertical reference lines through the center..."
         },
         {
           "number": 13,
           "text": "तिर्यग्रेखायुतौ कल्प्यं कक्षायां क्षितिजं तथा। ऊर्ध्वरेखायुतौ खार्धं दृग्ज्याचापांशकैर्नतौ॥१३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The intersection with the horizontal axis represents the horizon, and the vertical axis represents the zenith; plotting zenith distances according to their sines..."
         },
         {
           "number": 14,
           "text": "कृत्वाऽर्केन्दु समुत्पत्तिं लम्बनस्य प्रदर्शयेत्। एकं भूमध्यतः सूत्रं नयेच्चण्डांशुमण्डलम्॥१४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Plotting the true positions of the Sun and Moon, one demonstrates the origin of parallax: a line drawn from the Earth's center to the solar disc gives true alignment..."
         },
         {
           "number": 15,
           "text": "द्रष्टुर्भूपृष्ठगादन्यद्दृष्टिसूत्रं तदुच्यते। कक्षायां सूत्रयोर्मध्ये यास्ता लम्बनलिप्तिकाः॥१५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "While another line drawn from the observer on the Earth's surface forms the visual line of sight. The arc on the orbit between these two lines measures parallax in minutes."
         },
         {
           "number": 16,
           "text": "गर्भसूत्रे सदा स्यातां चन्द्रार्कौ समलिप्तिकौ। दृक्सूत्राल्लम्बितश्चन्द्रस्तेन तल्लम्बनं स्मृतम्॥१६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Along the geocentric line (garbha-sūtra), Sun and Moon have identical longitudes. Along the visual line (dṛk-sūtra), the Moon is seen depressed; hence it is called lambana (parallax)."
         },
         {
           "number": 18,
           "text": "ये कक्षामण्डले तत्र ज्ञेये हक्क्षेपमण्डले। त्रिभोनलग्नदृग्ज्या या स दृक्क्षेपो द्वयोरपि॥१८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The circles passing through zenith and orbit points form the vertical circles. The sine of the zenith distance of the nonagesimal (tribhona-lagna) is the dṛkkṣepa (sine of vertical parallax angle) for both."
         },
         {
           "number": 19,
           "text": "तच्चापांशैर्ततौ बिन्दू कृत्वा वित्रिभसंज्ञकौ। तल्लुम्बनकलाः प्राग्वज्ज्ञेयास्ता नतिलिप्तिकाः॥१९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Marking nonagesimal points on the orbital arcs according to zenith distance degrees, the resulting longitudinal parallax components yield the latitude parallax (nati) in minutes."
         },
         {
           "number": 20,
           "text": "कक्षयोरन्तरं यत्स्याद्वित्रिभे सर्वतोऽपि तत्। याम्योत्तरं नतिः साऽत्र दृक्क्षेपात्साध्यते ततः॥२०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The distance between the two orbital planes at the nonagesimal represents the latitudinal separation; hence latitude parallax (nati) is calculated directly from dṛkkṣepa."
         },
         {
           "number": 21,
           "text": "यत्र तत्र नतादर्कादधचन्द्रावलम्बनम्। तद्दृग्वृत्तेऽन्तरं चन्द्रभान्वोः पूर्वापरं तु तत्॥२१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The downward displacement of the Moon relative to the Sun along the vertical circle gives the spatial separation, resolved into east-west (longitudinal) parallax."
         },
         {
           "number": 22,
           "text": "पूर्वापरं च याम्योदग्जातं तेनान्तरद्वयम्। अत्रापमण्डलं प्राची तत्तिर्यग्दक्षिणोत्तरा॥२२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Thus two components of parallax arise: east-west (along the ecliptic east direction) and north-south (perpendicular to the ecliptic)."
         },
         {
           "number": 23,
           "text": "यत्पूर्वापरभावेन लम्बनाख्यं तदन्तरम्। यद्याम्योत्तरभावेन नतिसंज्ञं तदुच्यते॥२३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The displacement along the east-west ecliptic orientation is called lambana (longitudinal parallax), and that along the north-south direction is called nati (latitudinal parallax)."
         },
         {
           "number": 24,
           "text": "नातिलिप्ता भुजः कर्णो दृग्लम्बनकलास्तयोः। कृत्यन्तरपदं कोटिः स्फुटलम्बनलिप्तिकाः॥२४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Taking latitude parallax minutes as base and total vertical parallax minutes as hypotenuse, the square root of their squared difference gives the upright, which is true longitudinal parallax."
         },
         {
           "number": 25,
           "text": "परलम्बनलिप्ता ४८/४६ घ्नी त्रिज्याप्ता रविदृग्ज्यका। दृग्लम्बनकलास्ताः स्युरेवं दृक्क्षेपतो नतिः॥२५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Multiplying the maximum horizontal parallax (48' 46\") by the Sun's zenith distance sine and dividing by radius yields total parallax; latitude parallax is similarly derived from dṛkkṣepa."
         },
         {
           "number": 26,
           "text": "गत्यन्तरस्य तिथ्यंशः परलम्बनलिप्तिकाः४८/४६। गतियोजन ११८५९• १/४ तिथ्यंशः कुदलस्य ७९०/३५ यतो मितिः॥२६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Maximum horizontal parallax (48' 46\") equals one-fifteenth of the difference in daily motion between Moon and Sun, derived from Earth's radius (790 yojanas) relative to daily orbital motion (11859 yojanas)."
         },
         {
           "number": 27,
           "text": "स्युर्लम्बनकला नाड्यो गत्यन्तरलवोद्धृताः। प्रागग्रतो रवेश्चन्द्रः पश्चात्पृष्ठेऽवलम्बितः॥२७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Parallax in minutes divided by daily relative motion in degrees yields parallax in nāḍikās. When east of the meridian, the Moon is depressed ahead of the Sun; when west, behind."
         },
         {
           "number": 28,
           "text": "शीघ्रेऽग्रगे युतिर्याता गम्या पृष्ठगते यतः। प्रागृणं तद्धनं पश्चात्क्रियते लम्बनं तिथौ॥२८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Because the faster-moving Moon depressed ahead means opposition/conjunction has passed, and depressed behind means it is prospective: parallax time is subtracted east of meridian and added west of meridian to conjunction time."
         },
         {
           "number": 29,
           "text": "याम्योत्तरं शरस्तावदन्तरं शशिसूर्ययोः। नतिस्तथा तथा तस्मात्संस्कृतः स्यात्स्फुटः शरः॥२९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The celestial latitude (śara) is the north-south separation between Moon and Sun; modifying latitude by latitude parallax (nati) yields the apparent/true latitude of the Moon."
         }
       ]
     },
@@ -573,315 +649,360 @@
           "text": "तुलाजाद्योर्हि संपाते विषुवत्क्रान्तिवृत्तयोः। स्यातां याम्योत्तरे भिन्ने परक्रान्त्यन्तरे च ते॥३०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the equinoctial points (start of Aries and Libra), where the celestial equator and ecliptic intersect, their respective north-south directions diverge up to the maximum declination."
         },
         {
           "number": 31,
           "text": "आयनं वलनं तत्र जिनांशज्यासमं ततः। एकैवाऽऽयनसंधौ तु तयोः स्याद्दक्षिणोत्तरा॥३१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Hence at the equinoxes, the declinational deflection (āyana-valana) equals the sine of maximum declination (24°). At the solstices (āyana-saṁdhi), however, their north-south directions coincide."
         },
         {
           "number": 32,
           "text": "एकैव तद्वशात्प्राची तत्र नो वलनं ततः। तदन्तरेऽनुपातेन खेटकोटिक्रमज्यका॥३२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Consequently, at the solstices the east directions coincide and āyana-valana is zero. At intermediate points, it is calculated proportionally using the cosine sine (koṭi-jīvā) of the planet."
         },
         {
           "number": 33,
           "text": "जिनज्याघ्नी जीवाप्ताऽऽयनदिग्वलनं भवेत्। एवमेव हि संपाते विषुवत्समवृत्तयोः॥३३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Multiplying by sine of maximum declination (24°) and dividing by radius yields āyana-valana. Similarly, at the intersection of celestial equator and prime vertical..."
         },
         {
           "number": 34,
           "text": "उन्मण्डलं भवेत्तत्र विषुवद्दक्षिणोत्तरा। क्षितिजं समवृत्तस्य पलज्या च तदन्तरम्॥३४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The unmaṇḍala serves as the equator's north-south line, while the horizon serves as the prime vertical's north-south line; the separation between them is measured by latitude-sine (palajyā)."
         },
         {
           "number": 35,
           "text": "क्षितिजेऽक्षज्यया तुल्यमक्षजं वलनं ततः। तयोरेकैव याम्योदङ्न मध्ये वलनं ततः॥३५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "On the horizon, latitudinal deflection (akṣaja-valana) equals latitude-sine. On the meridian, their north-south lines coincide, so akṣaja-valana at the meridian is zero."
         },
         {
           "number": 36,
           "text": "नतक्रमज्यया साध्यमन्तरे त्वनुपाततः। नतं खाङ्काहतं भक्तं द्युदलेनाऽऽप्तभागकैः॥३६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At intermediate positions, akṣaja-valana is calculated proportionally using the sine of hour angle (nata-kramajyā), multiplying hour angle by 90 and dividing by half-day duration."
         },
         {
           "number": 37,
           "text": "क्रमज्याऽक्षज्यया क्षुण्णा द्युन्याभक्ताक्षजं भवेत्। प्राक्सौम्यं पश्चिमे याम्यं तच्चापैक्यान्तरात्स्फुटम्॥३७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Multiplying that sine by latitude-sine and dividing by day-radius sine yields akṣaja-valana (north in the east, south in the west). Combining the arcs of āyana and akṣaja valanas yields true total valana."
         },
         {
           "number": 38,
           "text": "एवमेव च संपातो यः क्रान्तिसमवृत्तयोः। परमं तत्र तत्कालवलनैक्यान्तरं स्फुटम्॥३८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the intersection of the ecliptic and prime vertical, total combined deflection reaches its maximum value."
         },
         {
           "number": 39,
           "text": "अग्रतः पृष्ठतस्तस्मात्क्रान्तिवृत्ते त्रिभेऽन्तरे। तयोर्याम्योत्तरैकत्वात्तत्र नो वलनं स्फुटम्॥३९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "90 degrees ahead or behind that point along the ecliptic, their north-south lines coincide, making total deflection zero."
         },
         {
           "number": 40,
           "text": "न स्पष्टवलनाभावस्तत्र स्यादुत्क्रमज्यया। क्रमज्यया ततः कार्यं दार्ढ्यार्थं कथ्यते पुनः॥४०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Because total deflection does not become zero when calculated using versed sine (utkramajyā), standard sine (kramajyā) must be used instead; this is re-emphasized for clarity."
         },
         {
           "number": 41,
           "text": "सर्वतः क्रान्तिसूत्राणां ध्रुवे योगो भवेद्यतः॥ विषुवन्मण्डलप्राच्या ध्रुवे याम्या तथोत्तरा॥४१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Since all declination lines converge at the Celestial Pole (dhruva), the north-south direction relative to the equatorial east points toward the Celestial Pole."
         },
         {
           "number": 42,
           "text": "सर्वतः क्षेपसूत्राणां ध्रुवाज्जिनलवान्तरे। योगः कदम्बसंज्ञोऽयं ज्ञेयो वलनबोधकृत्॥४२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "All latitude secondary circles converge at a point 24 degrees away from the Celestial Pole, called the Ecliptic Pole (kadamba), which is essential for understanding valana."
         },
         {
           "number": 43,
           "text": "तत्रापमण्डलप्राच्या याम्या सौम्या च दिक् सदा। कदम्बभ्रमवृत्तं च बध्नीयात्परितो ध्रुवात्॥४३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The direction towards the Ecliptic Pole defines true north-south relative to the ecliptic east; the circle described by the Ecliptic Pole around the Celestial Pole has a radius of 24 degrees."
         },
         {
           "number": 44,
           "text": "गोले तु जिनतुल्यांशैस्तत्र ज्या क्रान्तिशिञ्जिनी। सर्वतः समवृत्ताच्च याम्योदक्कुजसंगमे॥४४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "On the celestial sphere, the sine of 24 degrees is maximum declination-sine. At the intersection of the prime vertical and the horizon..."
         },
         {
           "number": 45,
           "text": "तत्तिर्यग्गतसूत्राणां योगः स समसंज्ञकः। समध्रुवकदम्बानामुपरि द्युचरान्नयेत्॥४५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The convergence point of vertical circles is called the Zenith Pole (sama). Circles passing through Zenith, Celestial Pole, and Ecliptic Pole are drawn through the planet."
         },
         {
           "number": 46,
           "text": "सूत्राणि वृत्तरूपाणि वलनानि तदन्तरे। अक्षजं वलनं मध्ये स्यात्समध्रुवसूत्रयोः॥४६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The angular arcs between these circles represent deflections: akṣaja-valana is the angle between the Zenith-circle and Celestial Pole-circle."
         },
         {
           "number": 47,
           "text": "कदम्बध्रुवसूत्रान्तरायनं च त्रिभे ग्रहात्। कदम्बसमसूत्रान्तः स्फुटं सर्वदिशां च तत्॥४७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Āyana-valana is the angle between Ecliptic Pole-circle and Celestial Pole-circle 90° from planet; the total angle between Ecliptic Pole-circle and Zenith-circle gives true total valana."
         },
         {
           "number": 48,
           "text": "अथवा परितः खेटात्खाङ्कभागान्तरे न्यसेत्। त्रिज्यावृत्तं ततस्तत्र विषुवत्समवृत्तयोः॥४८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Alternatively, drawing a circle of radius R centered on the planet at 90 degrees distance, the arc between equator and prime vertical..."
         },
         {
           "number": 49,
           "text": "मध्येऽक्षवलनं विद्याद्विषुवत्क्रान्तिवृत्तयोः। अन्तरं चाऽऽयनं क्रान्तिसमवृत्तान्तरे स्फुटम्॥४९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Measures akṣaja-valana; the arc between equator and ecliptic measures āyana-valana; and the total arc between ecliptic and prime vertical gives true total valana."
         },
         {
           "number": 50,
           "text": "तत्रापमण्डलं प्राची तस्या याम्योत्तरः शरः। वलनानयने क्षेपः क्षिप्तो यैस्ते कुबुद्धयः॥५०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "On that circle, the ecliptic defines east-west, and celestial latitude (śara) lies strictly north-south. Those who add celestial latitude directly while computing valana are ignorant."
         },
         {
           "number": 51,
           "text": "नक्रादिश्च कदम्बश्च स्यातां याम्योत्तरे समम्। आयनं वलनं तस्मान्नाऽऽयनादौ प्रजायते॥५१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At the winter solstice (naka-rāśi), the Ecliptic Pole lies on the meridian; hence āyana-valana is zero at solstitial points."
         },
         {
           "number": 52,
           "text": "ततो भ्रमति गोले स मकरादिर्यथा यथा। तथा तथा भ्रमत्येष कदम्बो निजमण्डले॥५२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "As the solstitial point revolves on the celestial sphere, the Ecliptic Pole rotates accordingly in its small circle around the Celestial Pole."
         },
         {
           "number": 53,
           "text": "कुम्भादावथ मीनादौ याम्यदग्वलयस्थिते। जायते वलनं तद्यत्सौम्यसूत्रकदम्बयोः॥५३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "As the planet moves through Aquarius and Pisces, the deflection increases according to the angular distance between the northern meridian and Ecliptic Pole."
         },
         {
           "number": 54,
           "text": "अन्तरं शिञ्जिनीरूपं कदम्बभ्रममण्डले। अयनाद्गतकालांशक्रमक्रान्तिज्यका हि सा॥५४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The linear displacement on the Ecliptic Pole circle corresponds to the sine of declination for the arc traversed from the solstice."
         },
         {
           "number": 55,
           "text": "उत्क्रमज्या यतो बाणः शिञ्जिनी तु क्रमज्यका। सत्रिभार्कात्क्रमकान्तिज्यातो वलनमायनम्॥५५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Because versed sine is sagitta and standard sine is half-chord, āyana-valana must be computed from the standard sine of declination of planet plus 90 degrees."
         },
         {
           "number": 56,
           "text": "यैरुक्तमुत्क्रमक्रान्त्या भ्रान्त्या तैर्नाशितं हि तत्। युक्त्याऽनयैव विज्ञेयमक्षजं च क्रमज्यया॥५६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Those who advocated using versed sine of declination were deluded and corrupted the science; by this exact same logic, akṣaja-valana must also be calculated using standard sine."
         },
         {
           "number": 57,
           "text": "परोक्तेरन्यथा ब्रूयाद्यः परान्न प्रदूषयेत्। तस्यैव दूषणं तद्धि न दोषोऽतोऽन्यदूषणे॥५७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "One who presents a correct mathematical derivation differing from predecessors does not falsely vilify them; the error belongs to the original flawed statement, not to the critic who exposes it."
         },
         {
           "number": 58,
           "text": "उत्क्रमज्यानिरासोऽयमन्यथा वाऽथ कथ्यते। जिनांशैर्जिनवृत्ताख्यं कदम्बात्परितो न्यसेत्॥५८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The refutation of versed sine is further demonstrated as follows: draw a circle of 24 degrees radius (jina-vṛtta) around the Ecliptic Pole..."
         },
         {
           "number": 59,
           "text": "क्रान्तियाम्योत्तरं वृत्तं कदम्बद्वयकीलयोः। प्रोतं कृत्वा चलं न्यस्तं द्वंद्वान्ते स्याद्ध्रुवोपरि॥५९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "A movable meridian circle attached at both Ecliptic Poles lies directly over the Celestial Pole at the solstices."
         },
         {
           "number": 60,
           "text": "द्वंद्वान्ताञ्चाल्यर्तेऽशैर्यैस्तैरेव चलति ध्रुवात्। जिनवृते तदंशानां तत्र ज्या क्रान्तिशिञ्जिनी॥६०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "As it moves from the solstice by a given arc, it shifts from the Celestial Pole on the 24-degree circle; the sine of that shift is the declination-sine."
         },
         {
           "number": 61,
           "text": "आयनं सैव वलनं द्युज्याग्रे जायते ग्रहात्। ग्रहध्रुवान्तरे यस्माद्द्युज्याचापांशकाः सदा॥६१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "That arc constitutes āyana-valana formed at the tip of the day-radius, because the distance between planet and Celestial Pole is always the day-radius co-declination arc."
         },
         {
           "number": 62,
           "text": "त्रिज्यावृत्ते यतो देयं तत्रातः परिणाम्यते। एवमज्ञांशकैर्वृत्तं समाख्यात्परितो न्यसेत्॥६२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Since deflection must be expressed on the radius circle (trijyā-vṛtta), it is scaled accordingly. Similarly, draw a circle of radius equal to latitude around the Zenith Pole..."
         },
         {
           "number": 63,
           "text": "समकालिकयोः प्रोतं तथा याम्योत्तरं चलम्। तत्तत्खेटोपरि न्यस्तं यैरंशैः खार्धतो नतम्॥६३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Passing through Zenith Pole and movable meridian over the planet, inclined from zenith by a given zenith distance arc..."
         },
         {
           "number": 64,
           "text": "समवृत्तेऽक्षवृत्ते च तैरेव स्यान्नतं ध्रुवात्। समवृत्तनतांशज्याऽक्षज्यापरिणताक्षजम्॥६४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The inclination from Celestial Pole equals the hour angle on prime vertical; sine of hour angle scaled by latitude-sine yields akṣaja-valana."
         },
         {
           "number": 65,
           "text": "द्युज्याग्रे वलनं प्राग्वत्त्रिज्याग्रे परिणाम्यते। उपपत्त्याऽनया सम्यक् समवृत्तनतांशजम्॥६५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Deflection formed on day-radius is scaled to radius R. By this rigorous rationale, akṣaja-valana from prime vertical hour angle is established."
         },
         {
           "number": 66,
           "text": "वलनं स्यात्तथा वक्ष्ये स्वाहोरात्रतादपि। अग्रानृतयोर्योगः समदिक्त्वेऽन्यथाऽन्तरम्॥६६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Now I shall explain valana derived from the diurnal circle: the sum of solar amplitude (agrā) and gnomonic base (nṛtala) when in same direction, or their difference when opposite..."
         },
         {
           "number": 67,
           "text": "तन्त्रिज्या वर्गविश्लेषपदभक्ताक्षशिञ्जिनी। नतासुदोर्ज्यया क्षुण्णा वलनं पलजं स्फुटम्॥६७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Multiplied by latitude-sine and divided by the square root of (trijyā² - amplitude²), then scaled by sine of hour angle in asus, yields precise akṣaja-valana."
         },
         {
           "number": 68,
           "text": "नतं खाङ्काहतं भक्तं द्युदलेनाऽऽप्तभागकैः। क्रमज्याऽक्षज्यया क्षुण्णा स्थूलं वा द्युज्यया हृता॥६८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Or approximately: hour angle multiplied by 90 and divided by half-day duration gives degrees; its sine multiplied by latitude-sine and divided by day-radius sine yields akṣaja-valana."
         },
         {
           "number": 69,
           "text": "द्युज्यावृत्तापवृत्तैक्ये न्यसेद्वा रविमण्डलम्। बिम्बाग्रे वलनं तद्यदन्तरं वृत्तयोस्तयोः॥६९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Alternatively, placing the solar disc at the intersection of diurnal circle and ecliptic, the angular separation of the two circles at the disc's rim constitutes deflection."
         },
         {
           "number": 70,
           "text": "बिम्बान्तबिम्बमध्योत्थक्रान्ति मौर्व्योस्तदन्तरम्। अर्कदोर्भोग्यखण्डघ्नं बिम्बार्धं तत्त्वदस्रहृत्॥७०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The difference between declination sines at center and limb equals solar sine tabular difference multiplied by semi-diameter and divided by 225."
         },
         {
           "number": 71,
           "text": "जिनज्याघ्नं त्रिभज्याप्तमेवं स्यादन्तरं हि तत्। बिम्बार्धस्त्रिभज्याघ्नमेवं त्रिज्यागतं भवेत्॥७१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Multiplying by 24° sine and dividing by radius gives that linear separation; multiplying semi-diameter by radius scales it to standard radius."
         },
         {
           "number": 72,
           "text": "गुणहारक बिम्बार्धत्रिज्यानाशे कृते सति। भोग्यखण्डं जिनांशज्यागुणं तत्त्वाश्विभाजितम्॥७२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Canceling equal terms of semi-diameter and radius in numerator and denominator, the tabular difference multiplied by 24° sine and divided by 225 yields the value."
         },
         {
           "number": 73,
           "text": "सत्रिभार्कात्क्रमक्रान्तेस्तत्तुल्यं जायतेऽथवा। क्रमक्रान्तेरिदं वीक्ष्य भ्रान्तिं त्यजत बालिशाः॥७३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "This equals the standard declination-sine of Sun plus 90 degrees. Seeing this proof from standard declination, O fools, abandon your delusion!"
         },
         {
           "number": 74,
           "text": "नाभितं छत्रवद्बिम्बं तिर्यक् क्रान्तिस्तु सा समा। अत्र द्युजानुपातो यस्तत्तिर्यक्करणाय सः॥७४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The solar disc is inclined like an umbrella, and declination is perpendicular to it; scaling by day-radius serves precisely to project this inclination onto the visual plane."
         }
       ]
     },
@@ -894,147 +1015,168 @@
           "text": "क्रान्तिवृत्तग्रहस्थानचिह्नं यदा स्यात्कुजे नो तदा खेचरोऽयं यतः। स्वेवुणोत्क्षिप्यते नाम्यते वा कुजात्तेन दृक्कर्म खेटोदयास्ते कृतम्॥१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When the point of the ecliptic occupied by a planet reaches the horizon, the planet itself is not on the horizon because it is elevated or depressed above or below the horizon by its own celestial latitude. Therefore, visibility corrections (dṛk-karma) are required for heliacal risings and settings."
         },
         {
           "number": 2,
           "text": "नैव वाणः कुजेऽसौ कदम्बोन्मुखस्तत्समुत्क्षेपणं नामनं व द्विधा। आयनं चाक्षजं तेन कर्मद्वयं तत्प्रपञ्चः पुनः संविविच्योच्यते॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Celestial latitude (śara) is not perpendicular to the horizon but points toward the Ecliptic Pole; hence its elevation or depression has two components: āyana (declinational) and akṣaja (latitudinal). Therefore two visibility corrections are applied, explained in detail below."
         },
         {
           "number": 3,
           "text": "क्षितिजे बलने ये स्तस्तद्वशादिषुणा ग्रहः। याम्येन नाम्यते क्ष्माजात्सौम्येनोन्नाम्यते तथा॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "According to the deflections (valanas) on the horizon, a planet with southern latitude is depressed below the horizon, while one with northern latitude is elevated above it."
         },
         {
           "number": 4,
           "text": "तद्व्यस्तं वलने याम्ये व्यस्तं प्रत्यक्कुजेऽप्यतः। आयनं त्रिज्यया चेत्स्यादस्पष्टेन शरेण किम्॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The rule is reversed when valana is south, and also on the western horizon. If āyana correction is calculated using radius R, why use un-rectified celestial latitude?"
         },
         {
           "number": 6,
-          "text": "तच्चापैक्यान्तरप्राणैः कुजात्खेटो नतोन्नतः। तैः प्राणैर्यत्क्रमाल्लग्नं नतात्खेटात्प्रजायते॥६॥",
+          "text": "तच्चापैक्यान्तराप्राणैः कुजात्खेटो नतोन्नतः। तैः प्राणैर्यत्क्रमाल्लग्नं नतात्खेटात्प्रजायते॥६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "By the sidereal time (prāṇas) of the sum or difference of these correction arcs, the planet is depressed or elevated from the horizon; adding or subtracting these prāṇas to the planet yields its horizon ascension point."
         },
         {
           "number": 7,
           "text": "उत्क्रमेणानताद्यच्च तद्ग्रहोदयलग्नकम्। उक्तव्यत्ययतः प्रत्यगस्तलग्नं सषड्ग्रहात्॥७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Evaluating the rising sign corresponding to that modified point gives the planet's eastern rising Lagna; reversing the process for planet plus 6 signs gives the western setting Lagna."
         },
         {
           "number": 8,
           "text": "शरे महति भानां तु चरार्धं मध्यमापमात्। शरस्फुटात्तथा कृत्वा तच्चापैक्यान्तराभिः॥८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "For stars with large celestial latitude, computing half-ascensional difference from mean declination and true latitude-adjusted declination, their sum or difference yields..."
         },
         {
           "number": 9,
           "text": "विभिन्नैकदिशोर्विद्यादक्षजेन नतोन्नतम् | आयनाक्षजयोर्योगवियोगाल्लग्नमुक्तवत्॥९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The elevation or depression due to akṣaja correction depending on opposite or same direction; combining āyana and akṣaja corrections determines the true Lagna as stated."
         },
         {
           "number": 10,
           "text": "सत्रिराशिग्रहद्युज्यानिघ्नस्त्रिज्योद्धृतः शरः। स्फुटोऽसौ क्रान्तिसंस्कारे दृक्कर्मण्यक्षजे तथा॥१०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Celestial latitude multiplied by day-radius of planet plus 90° and divided by radius R gives the rectified latitude (sphuṭa-śara), used in declination combination and akṣaja visibility correction."
         },
         {
           "number": 11,
           "text": "ब्रह्मगुप्तादिभिः स्वल्पान्तरत्वान्न कृतः स्फुटः। स्थित्यर्धपरिलेखादौ गणितागत एव हि॥११॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Brahmagupta and others did not rectify latitude due to the minute difference involved; however, in eclipse duration and graphical projection, the mathematically true latitude must be used."
         },
         {
           "number": 12,
           "text": "नक्षत्राणां स्फुटा एव स्थिरत्वात्पठिताः शराः। दृक्कर्मणाऽऽयनेनैषां संस्कृताश्च तथा ध्रुवाः॥१२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "For fixed stars, true latitudes are stated directly because they are stationary; their polar longitudes (dhruvas) are already corrected for āyana visibility error."
         },
         {
           "number": 13,
           "text": "क्रान्तिसूत्रे शरं केचिन्मन्यन्ते ते कुबुद्धयः। यद्येवमायनं तैश्च दृक्कर्मान्यैश्च किं कृतम्॥१३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Some ignorant writers consider celestial latitude to lie along the declination line; if so, why did they or others formulate a separate āyana visibility correction?"
         },
         {
           "number": 14,
           "text": "किं स्पष्टे वालने सूत्रे दत्तो मध्यशरश्च तैः। कोटिवद्वालनात्सूत्रात्स्पर्शमुक्तिशरौ च किम्॥१४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Why did they apply mean latitude on the true deflection line, and project contact and release latitudes as uprights from the deflection line?"
         },
         {
           "number": 15,
           "text": "किंच कृत्वा शरं कोटिं स्थित्यर्धानयनं कृतम्। तादृक् चेत्स शरस्तेन नानुपातेन सिध्यति॥१५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Furthermore, making latitude the upright in calculating half-duration: if latitude were along declination line, such geometry could never be established by proportion."
         },
         {
           "number": 16,
           "text": "दृष्टिकर्म वलनं च केनचिद्भ्रान्तितः कथितमुत्क्रमज्यया। तत्कृतं तदनुगैस्ततोऽपरैरन्धपूरुषपरम्परोपमैः॥१६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The formulation of visibility correction and deflection using versed sine was stated by someone out of delusion; subsequent followers repeated it blindly, like a line of blind men leading the blind."
         },
         {
           "number": 18,
           "text": "उत्क्रमज्याविधानेन दृक्कर्म वलनं तथा। यत्तैरुक्तं न तत्तथ्यं व्यभिचारोऽत्र कथ्यते॥१८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Whatever visibility correction and deflection rules they stated using versed sines are untrue; the logical flaw and contradiction in their method is now demonstrated."
         },
         {
           "number": 20,
           "text": "दृङ्मण्डलाकारतयाऽपवृत्तं तद्याम्यसौम्यं क्षितिजं तदा स्यात्। क्षिप्तोऽपि खेटः परमेषुणाऽत्र याम्योत्तरत्वात्क्षितिजं न जह्यात्॥२०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When the ecliptic coincides with the vertical circle, the horizon becomes perpendicular to it; a planet with maximum latitude lying north or south would still remain on the horizon line."
         },
         {
           "number": 21,
           "text": "दृक्कर्मसंभूतफलद्वयस्य नाशो भवेदत्र धनर्णसाम्यात्। नैवोत्क्रमज्याविधिनाऽत्र साम्यं दृक्कर्म कार्यं कमजीवयाऽतः॥२१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Here the two visibility corrections must cancel out due to equal positive and negative values. Under the versed sine rule this cancellation fails; hence visibility correction must be performed using standard sines."
         },
         {
           "number": 22,
           "text": "तथैव नाशो वलनद्वयस्य साम्याद्दिगन्यत्ववियोजनेन। न साम्यमत्रोत्क्रमजीवया स्यात्क्रमज्ययोऽतो वलनं विधेयम्॥२२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Similarly, the two deflections must cancel each other when opposite in direction and equal in magnitude. Since versed sine fails to yield equality, deflection must be calculated using standard sines."
         },
         {
           "number": 23,
           "text": "गर्वाद्रसराभस्यात्परविश्वासात् प्रमादतश्चापि। मुह्यन्त्यपि मतिमन्तः किं मन्दोऽन्यैस्तथा चोक्तम्॥२३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Through pride, haste, blind trust in others, or oversight, even wise scholars become confused—what then of dull minds? As the saying goes:"
         },
         {
           "number": 24,
           "text": "गणयन्ति नापशब्दं न वृत्तभङ्ग क्षयं न चार्थस्य। रसिकत्वेनाऽऽकुलिता वेश्यापतयः कुकवयश्च॥२४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Infatuated paramours of harlots and bad poets care nothing for grammatical errors, metric flaws, or loss of sense, being blinded by their own passions."
         }
       ]
     },
@@ -1047,35 +1189,40 @@
           "text": "सूर्यादधःस्थस्य विधोरधःस्थमर्धंं नृदृश्यं सकलासितं स्यात्। दर्शेऽथ भार्धान्तरितस्य शुक्लं तत्पौर्णमास्यां परिवर्तनेन॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When the Moon is positioned below the Sun at New Moon, her lower hemisphere visible to humans is entirely dark. At Full Moon, being 180 degrees opposite the Sun, that visible lower hemisphere becomes completely illuminated."
         },
         {
           "number": 3,
           "text": "कक्षाचतुर्थे तरर्णेर्हि चन्द्रकर्णान्तरे तिर्यगिनो यतोऽब्जात्। पादोनषट्काष्ट८९लवान्तरेऽतो दलं नृदृश्यस्य दलस्य शुक्लम्॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At first or third quarter, when the Sun is at a right angle (89° 51' elongation accounting for distance ratio), the Sun shines laterally on the Moon; hence exactly half of the visible lunar hemisphere is illuminated."
         },
         {
           "number": 4,
           "text": "४५ उपचितिमुपयाति शौक्ल्यमिन्दोस्त्यजत इनं व्रजतश्च मेचकत्वम्। जलमयजलजस्य गोलकत्वात् प्रभवति तीक्ष्णविषाणरूपताऽस्य॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "As the Moon moves away from the Sun, her brightness increases; as she approaches the Sun, dark area increases. Because the watery, lotus-like Moon is a sphere, her illuminated portion naturally assumes the form of sharp-pointed horns."
         },
         {
           "number": 5,
           "text": "यद्याम्योदक् तपनशशिनोरन्तरं सोऽत्र बाहुः कोटिस्तूर्ध्वाधरमपि तयोर्यच्च तिर्यक् स कर्णः। दोर्मूलेऽर्कः शशिदिशि भुजोऽग्राच्चकोटिस्तदग्रे चन्द्रः कर्णो रविदिगनया दीयते तेन शौक्क्यम्॥५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The north-south distance between Sun and Moon forms the base (bāhu), their vertical height difference forms the upright (koṭi), and the line joining them forms the hypotenuse (karṇa). The Sun is at the base vertex, the Moon at the top of the upright, and illumination is directed along the hypotenuse towards the Moon."
         },
         {
           "number": 6,
           "text": "ईषदीषदिह मध्यगमादौ ग्रन्थगौरवभयेन मयोक्ता। वासना मतिमता सकलोह्या  गोलबोध इदमेव फलं हि॥६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "To avoid expanding the text excessively, I have briefly stated the core rationale here. The intelligent scholar should deduce all details logically, for achieving clear comprehension of the celestial sphere is the ultimate fruit of astronomical study."
         }
       ]
     },
@@ -1088,336 +1235,384 @@
           "text": "गोलो नाडीवलयं यष्टिः शङ्कुर्घटी चक्रम्। चापं तुर्यं फलकं धीरेकं पारमार्थिकं यन्त्रम्॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The Armillary Sphere (Gola), Equatorial Ring (Nāḍī-valaya), Staff (Yaṣṭi), Gnomon (Śaṅku), Water-clepsydra (Ghaṭī), Circle (Cakra), Bow (Cāpa), Quadrant (Turya), Board (Phalaka), and Intellect (Dhī)—intellect alone is the ultimate, supreme instrument."
         },
         {
           "number": 3,
           "text": "अपवृत्तगरविचिह्न क्षितिजे  धृत्वा कुजेन संसके। नाडीवृत्ते बिन्दुं कृत्वा धृत्वाऽथ जलसमं क्षितिजम्॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Setting the solar point on the ecliptic ring upon the horizon circle, adjusting the equator ring, marking the equinoctial point, and keeping the horizon perfectly level with water..."
         },
         {
           "number": 4,
           "text": "रविचिह्नस्य च्छाया पतति कुमध्ये यथा तथा विधृते। उडुगोले कुजविन्द्वोर्मध्ये नाड्यो द्युयाताः स्युः॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Holding the stellar globe so that the shadow of the Sun-mark falls on the Earth's center, the arc between horizon and mark on the equator ring indicates elapsed day-nāḍikās."
         },
         {
           "number": 5,
           "text": "अपवृते कुजलग्ने लग्नं चाथो खगोलनलिकान्तः। भूस्थं ध्रुवष्टिस्थं चक्रं षष्ट्या निजोदयैश्वाङ्क्यम्॥५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The point where ecliptic meets horizon is the Lagna; observing through the sighting tube aligned with the pole, a circular instrument fixed on the polar axis marked with 60 graduations and sign risings is used."
         },
         {
           "number": 6,
           "text": "व्यस्तैर्यष्टीभायामुदयेऽर्कं न्यस्य नाडिका ज्ञेयाः। इष्टच्छायासूर्यान्तरेऽथ लग्नं प्रभायां च॥६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Placing the Sun opposite the staff shadow at sunrise yields elapsed nāḍikās; measuring the distance between Sun and shadow point determines elapsed time and Lagna."
         },
         {
           "number": 7,
           "text": "केनचिदाधारेण ध्रुवाभिमुखकीलकेऽत्र धृते। अथवा कीलच्छायातलमध्ये स्युर्नता नाड्यः॥७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Mounting a gnomon pin oriented toward the Celestial Pole, the angle of its shadow on the dial face directly indicates the hour angle (nata-nāḍī)."
         },
         {
           "number": 8,
           "text": "घटदलरूपा घटिता घटिका ताम्री तले पृथुच्छिद्रा। द्युनिशनिमज्जनमित्या भक्तं द्युनिशं घटीमानम्॥८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "A copper hemispherical bowl (ghaṭī-yantra) with a calibrated perforation at its bottom, floating in water, sinks 60 times in a day-and-night, measuring each nāḍikā precisely."
         },
         {
           "number": 9,
           "text": "समतलमस्तकपरिधिर्भ्रमसिद्धो दन्तिदन्तजः शङ्कुः। तच्छायातः प्रोक्तं ज्ञानं दिग्देशकालानाम्॥९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "A gnomon (śaṅku) turned on a lathe from ivory or wood, with flat base and circular rim, yields knowledge of direction, latitude (space), and time through its shadow."
         },
         {
           "number": 10,
           "text": "चक्रं चक्रांशाङ्कं परिधौ श्लथशङ्खलादिकाधारम्। धात्री त्रिभ आधारात् कल्प्या भार्धेऽत्र स्वार्ं च॥१०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The Cakra-yantra is a metal circle graduated in 360 degrees, suspended by a loose chain at the top; the vertical diameter represents zenith-nadir and horizontal diameter represents horizon."
         },
         {
           "number": 11,
           "text": "तन्मध्ये सूक्ष्माक्षं क्षिप्त्वाऽर्काभिमुखनेमिकं धार्यम्। भूमेरुन्नतभागास्तत्राक्षच्छायया भुक्ताः॥११॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Fitting a fine central axis and pointing the rim toward the Sun, the shadow cast by the pin on the graduated rim measures the solar altitude degrees."
         },
         {
           "number": 12,
           "text": "तत्स्वार्धान्तश्च नता उन्नतलवसंगुणीकृतं द्युदलम्। द्युलोन्नतांशभक्तं नाड्यः स्थूलाः परैः प्रोक्ताः॥१२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Subtracting altitude from 90° gives zenith distance. Multiplying altitude degrees by half-day duration and dividing by maximum solar altitude gives approximate elapsed nāḍikās as taught by ancients."
         },
         {
           "number": 13,
-          "text": "पैत्रर्क्षपुष्यान्तिमवारुणानामृक्षद्वयं नेमिगतं यथा स्यात्। दूरेऽन्तरेऽल्पेषुभखेचरौ वा तथाऽत्र यन्त्रं सुधिया प्रधार्यम्॥१३॥",
+          "text": "पैत्रर्क्षपुष्यान्तिमवारुणानामऋक्षद्वयं नेमिगतं यथा स्यात्। दूरेऽन्तरेऽल्पेषुभखेचरौ वा तथाऽत्र यन्त्रं सुधिया प्रधार्यम्॥१३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Positioning pair-stars such as Maghā, Puṣya, Revatī, Śatabhiṣā on the instrument rim or sighting two distant planets/stars, the wise astronomer holds the instrument steadily."
         },
         {
           "number": 14,
           "text": "नेमिस्थदृष्ट्याऽक्षगतं प्रपश्येत् खेटं च धिष्ण्यस्य च योगताराम्। नेम्यङ्कयोरक्षयुजोस्तु मध्ये येंऽशाः स्थिता भध्रुवको युतस्तैः॥१४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Sighting the planet or junction star through the rim pin aligned with the center axis, the degrees between rim mark and center give the latitude/polar distance added to star polar longitude."
         },
         {
           "number": 16,
           "text": "दृङ्मण्डलेऽत्र स्फुटकाल उक्तः सुखेन नान्यैयतितं मयाऽतः। सद्गोलयुक्तेर्गणितस्य सारं स्पष्टं प्रवक्ष्ये फलकाख्ययन्त्रम्॥ १६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Since determining precise time on the vertical circle is difficult by other means, I shall now clearly explain the Phalaka-yantra (Board Instrument), which contains the essence of spherical mathematics."
         },
         {
           "number": 17,
           "text": "नित्यं जाड्यतमोहरं सुमनसामुल्लासनं सप्रभं चाक्लेशं समयावबोधनविधौ प्रोद्बोधितज्योतिषम्। सेव्यं मण्डलमध्यगं सुकृतिभिर्यन्त्रं स्फुटं वच्म्यहं नत्वैतद्गुणमेव देवममलं श्रीभास्करं भास्करः॥१७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Bowing to the luminous Lord Sun (Bhāskara), who dispels darkness and brings joy to the virtuous, I, Bhāskara, clearly describe this superb instrument (Phalaka-yantra) which effortlessly illuminates astronomical time."
         },
         {
           "number": 19,
           "text": "लम्बं नवत्य ९० ङ्गुलकैर्विभज्य प्रत्यङ्गुलं तिर्यगतः प्रसार्य। सूत्राणि तत्राऽऽयनसूक्ष्मरेखा जीवाभिधानाः सुधिया विधेयाः॥१९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Dividing the vertical axis of 90 inches into individual inches and drawing horizontal lines across, fine sine-lines (jīvā-rekhās) are marked by the intelligent astronomer."
         },
         {
           "number": 20,
           "text": "आधारतोऽधः खगुणा ३०ङ्गलेषु ज्यालम्बयोगे सुषिरं च सूक्ष्मम्। इष्टप्रमाणा सुषिरे शलाका क्षेप्याऽक्षसंज्ञा खलु सा प्रकल्प्या॥ २०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "At a distance of 30 inches below the suspension top along the vertical line, a fine hole is drilled where axis meets sine-lines, and a gnomon pin called Akṣa-śalākā is inserted."
         },
         {
           "number": 21,
           "text": "षष्ट्यङ्गुलव्याममतश्च रन्ध्रात् कृत्वा सुवृत्तं परिधौ तदङ्क्यम्। षष्ट्या घटीनां भगणांश ३६० केश्च प्रत्यंशकं चाम्बुपलैश्च दिग्भिः॥ २१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Drawing a circle of 60 inches radius from that hole, its circumference is graduated into 60 nāḍikās, 360 degrees, and corresponding sub-units of time."
         },
         {
           "number": 22,
           "text": "यत् खण्डकैः स्थूलचरं पलाद्यं तद्गोकु १९हृत् स्याच्चरशिजिनीह॥२२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The approximate ascensional difference in vināḍikās calculated from tabular values, when divided by 19, yields the sine of ascensional difference (cara-śiñjinī) on the board."
         },
         {
           "number": 23,
           "text": "वेदा ४ भवाः ११ शैलभुवो १७ धृतिश्च १८ विश्वे १३ च बाणाः ५ पलकर्णनिघ्नाः। अर्कोद्धृताः स्युः क्रमशः स्वदेशे राश्यर्धलभ्यानि हि खण्डकानि॥ २३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The tabular values 4, 11, 17, 18, 13, 5 multiplied by local gnomonic hypotenuse (palakarṇa) and divided by 12 yield the ascensional difference segments for each 15° of zodiac in one's locale."
         },
         {
           "number": 24,
           "text": "तैः क्रान्तिपाताड्यरवेर्भुजज्या पष्ट्युद्धृताक्षश्रवणेन युक्ता। दिग्धी कृताऽऽप्ता भवतीह यष्टिः सा पट्टिकायां सुचिरात् प्रदेया॥२४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The sine of solar longitude plus ayanāṁśa, multiplied by 60 and divided by gnomonic hypotenuse, adjusted for direction, gives the staff length (yaṣṭi) marked on the index strip."
         },
         {
           "number": 25,
           "text": "धार्यं तथा फलकयन्त्रमिदं यथैव तत्पार्श्वयोर्लगति तुल्यमिनस्य तेजः। छायाऽक्षजा स्पृशति तत्परिधौ यमंशं तत्रांशके मतिमता तरणिः प्रकल्प्यः॥२५ ॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Holding the Phalaka board so that sunlight strikes both sides equally, the point on the rim touched by the shadow of the central pin determines the Sun's altitude position."
         },
         {
           "number": 26,
           "text": "यष्टेरग्रादुपरि फलकेऽधश्च गोलक्रमेण। यत्नाद्देयश्चरदलगुणस्तत्र या ज्या तयाऽत्र च्छिन्ने वृत्ते तलगघटिकाः स्युर्नता लम्बकान्ताः॥२६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "From the tip of the yaṣṭi staff, applying the ascensional difference sine above or below according to hemisphere, the intersection on the circle measures the elapsed/remaining hour angle nāḍikās from noon."
         },
         {
           "number": 27,
           "text": "लम्बाद्देया विनतघटिकास्तज्ज्यकातश्चरज्या व्यस्ता दया भवति च तथा या परा तत्र मौर्वी। धार्या पट्टी स्पृशति हि यथा तज्ज्यकां यष्टिचिह्नं पट्टीस्थाने निपतति तदाऽक्षस्य नूनं प्रभाऽस्य॥२७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Setting the hour angle nāḍikās from the vertical plumb line, their sine adjusted by reverse ascensional sine gives the true position where the pin's shadow falls on the index strip."
         },
         {
           "number": 28,
           "text": "त्रिज्याविष्कम्भार्धं वृत्तं कृत्वा दिगङ्कितं तत्र। दत्त्वाऽग्रां प्राक् पश्चाद्द्युज्यावृत्तं च तन्मध्ये॥२८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Drawing a circle of radius R marked with cardinal directions, setting the solar amplitude (agrā) east and west, and drawing the diurnal circle within it..."
         },
         {
           "number": 29,
           "text": "तत्परिधौ षष्ट्यङ्के यष्टिर्नष्टद्युतिस्ततः केन्द्रे। त्रिज्याङ्गुला निधेया यष्ट्यग्राऽग्रान्तरं यावत्॥२९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Placing a gnomon staff of radius R inches at the center towards the shadow-free rim mark, measuring the distance from staff tip to amplitude point..."
         },
         {
           "number": 30,
           "text": "तावत्या मौध्यां यद्द्वितीयवृत्ते धनुर्भवेत्तत्र। दिनगतशेषा नाड्यः प्राक् पश्चात् स्युः क्रमेणैवम्॥३०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The arc cut on the second circle by that chord length gives the exact elapsed or remaining day-nāḍikās in the forenoon or afternoon."
         },
         {
           "number": 31,
           "text": "अत्रोपपत्तिस्रैराशिकेन। तद्यथा। यद्यस्य शङ्कोः शङ्कूदयास्तसूत्रयोरन्तरं शङ्कुतलं भुजस्तदा द्वादशाङ्गुलस्य शङ्कोः क हति। कतं दिषुवती भवति॥३१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The rationale here is by proportion: if for a given gnomon height the distance from rising-setting line to gnomon base is śaṅkutala, then for a 12-inch gnomon the corresponding shadow is derived."
         },
         {
           "number": 34,
           "text": "आद्यन्तशङ्कुशिरसोस्तिर्यक सूत्रं निबध्य तत्सक्ते। मध्यमशङ्क्वग्राद्द्वे सूत्रे भूमिं पृथङ्नेये॥३४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Tying a string across the tops of the first and third gnomons, and extending two strings from the top of the middle gnomon to the ground plane..."
         },
         {
           "number": 35,
           "text": "भूचिह्नद्वितयोपरि सूत्रं तत्रोदयास्तसूत्रं स्यात्। तत्केन्द्रान्तरमग्रा सूत्रादत्रान्तरे ततः प्राची॥३५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The line connecting the two ground intersection points constitutes the Udayāsta-sūtra (Rising-Setting Line); its distance to center gives amplitude (agrā), establishing true East."
         },
         {
           "number": 36,
           "text": "प्राग्वदतोऽक्षच्छाया तच्छ्रुतिविहृताग्रकार्कसंगुणिता। कान्तिज्या त्रिज्याघ्नी जिनभागज्योद्धृता÷दोर्ज्या॥३६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "From equinoctial shadow and hypotenuse, multiplying amplitude by 12 and dividing by hypotenuse yields declination-sine; multiplying by radius R and dividing by 24° sine yields the sine of solar longitude."
         },
         {
           "number": 37,
           "text": "तद्धनुराद्ये चरणे वर्षस्यार्कः प्रजायतेऽग्येषु। भार्धाच्च्युतः स भार्धो भगणात्‌ पतितोऽष्दचरणानाम्॥३७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Its arc gives the true solar longitude in the first quadrant of the year; in subsequent quadrants, it is subtracted from 6 signs, added to 6 signs, or subtracted from 12 signs."
         },
         {
           "number": 38,
           "text": "ऋतुचिह्नैर्ज्ञानं x  स्यादृतुचिह्नन्यग्रतस्ततो वक्षये। भात्रितयाद्भाभ्रमणं* न सदस्माद्दिकप्लाद्यं च॥३८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Knowledge of seasons is obtained through shadow marks; I shall now explain season marks. Shadow rotation beyond 3 signs is not uniform, hence direction and latitude are derived."
         },
         {
           "number": 39,
           "text": "छायातोऽग्रातो वा भानुः सक्रान्तिपात एव स्यात्‌। पातोनः स्फुटभानुः स्फुटभानूनो भवेत्‌ पातः॥३९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Solar longitude derived from shadow or amplitude includes ayanāṁśa (precession); subtracting ayanāṁśa yields true tropical/sidereal Sun, and subtracting true Sun yields ayanāṁśa."
         },
         {
           "number": 40,
           "text": "अथ किमु पृथुतन्त्रैर्धीमतो भूरियन्त्रैः स्वकरकलितष्टेर्दत्तमूलाग्रदृष्टेः। न तदविदितमानं वस्तु यद्दृश्यमानं दिवि भुवि च जलस्थं प्रोच्यतेऽथ स्थलस्यमू॥४०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "What need is there for bulky treatises or complex instruments for an intelligent person holding a simple staff? By sighting along its base and tip, no visible height or distance in sky, land, or water remains unknown."
         },
         {
           "number": 41,
           "text": "वैशस्य मूलं प्रविलोक्य चाग्रं तत्स्वान्तरं तस्य समुच्छु्यं च। यो वेत्ति यष्ट्यैव करस्ययाऽसौ धीयन्त्रवेदी वद किं न वेत्ति॥४१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "One who, by merely observing the root and top of a bamboo reed with a hand-held staff, determines his distance to it and its height—tell me, what can such a master of the Dhī-yantra (Intellect-Instrument) not know?"
         },
         {
           "number": 42,
           "text": "यष्ट्यग्रमूलसंस्थं विद्ध्वा ध्रूवमप्रमूलयोर्लब्धौ। बाहुर्लम्बान्तरभूर्लम्बोच्छायान्तरं कोटिः॥४२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Sighting the pole/top through staff tip and base, the horizontal distance between plumb-lines forms the base (bāhu), and difference in shadow heights forms the upright (koṭi)."
         },
         {
           "number": 44,
           "text": "कोट्या लब्धं ज्ञेयं स्ववंशमध्ये महीमानम्। विद्ध्वाऽथो वंशाग्रं भूमानं कोटिर्मगुणं भक्तम्॥४४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The ground distance to the bamboo base is calculated from the upright ratio; sighting the bamboo top, ground distance multiplied by upright ratio yields the bamboo height."
         },
         {
           "number": 46,
           "text": "निजभुजभक्ते कोटी तदन्तरहृतो दृगौच्च्यविश्लेषः। भूमिर्वंशौच्च्यमतः पृथक् पृथक् पूर्ववज्ज्ञेयम्॥४६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Dividing uprights by their respective bases, the eye-level height difference divided by their difference yields the ground distance; individual heights are then known as before."
         },
         {
           "number": 47,
           "text": "ऊर्ध्वस्थस्य गृहादिभिर्व्यवहितस्याप्यग्रमात्रं सखे वंशस्य प्रगुणस्य यस्य सुसमे देशे समालोक्यते। अत्रैव त्वमवस्थितो यदि वदस्यस्यान्तरं चोच्छ्रयं मन्ये यन्त्रविदां वरिष्ठपदवीं यातोऽसि धीयन्त्रवित्॥४७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "O friend! If you can stand right here and determine the distance and height of a tall bamboo hidden behind houses, whereof only the tip is visible across level ground, I consider you to have attained the supreme rank among masters of instrument-astronomy!"
         },
         {
           "number": 48,
           "text": "एवं तोयेऽप्यौच्च्यं तत्र दृगौच्च्योनितं भवति। किंवा यष्ट्या कोटी दृष्ट्युच्छ्रायौ जलान्तरे बाहू॥४८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Similarly, heights across water bodies are calculated by subtracting eye-height, or by using staff uprights as eye-heights and water distances as bases."
         },
         {
           "number": 49,
           "text": "दूरस्थस्य न दूरगस्य यदि वाऽदृष्टस्य दृष्टस्य बा वंशस्य प्रतिबिम्बितस्य सलिले दृष्ट्वाऽग्रमात्रं सखे। अत्रैव त्वमवस्थितो यदि वदस्यस्यान्तरं चोच्छ्रयं त्वां सर्वज्ञमतीन्द्रियज्ञमनुजव्याजेन मन्ये भुवि॥४९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "O friend! If by merely observing the reflection of a distant, near, visible or invisible bamboo tip in water while standing right here, you state its distance and height, I revere you on Earth as an omniscient seer disguised as a human!"
         },
         {
           "number": 50,
           "text": "लघुदारुजसमचक्रे समसुषिराराः समान्तरा नेम्याम्। किंचिद्वक्रा योज्याः सुषिरस्याधः पृथक् तासाम्॥५०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "On a light wooden wheel, hollow spokes drilled at equal intervals are attached slightly tilted to the rim; below each hollow spoke..."
         },
         {
           "number": 52,
           "text": "तदुपरि तालदलाद्यं कृत्वा सुषिरं रसं क्षिपेत्तावत्। यावद्रसैकपार्श्वे क्षिप्तजलं नान्यतो याति॥५२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Sealing the spokes with palm leaves, mercury (rasa) is poured in such that mercury filled on one side does not spill over prematurely to the other."
         },
         {
           "number": 54,
           "text": "एकं कुण्डजलान्तर्द्वितीयमरं त्वधोमुखं च बहिः। युगपन्मुक्तं चेत् कं नलेन कुण्डाद्बहिः पतति॥५४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Placing one end of a bent tube inside a water vessel and the other end outside facing downwards, when opened simultaneously, water flows continuously out of the vessel through the siphon tube."
         },
         {
           "number": 55,
           "text": "नेम्यां बद्ध्वा घटिकाश्चक्रं जलयन्त्रवत्तथा धार्यम्। नलकप्रच्युतसलिलं पतति यथा तद्घटीमध्ये॥५५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Attaching small pots to the rim of a wheel and mounting it like a water-wheel, water discharging from the siphon pipe falls into the pots sequentially."
         },
         {
           "number": 56,
           "text": "भ्रमति ततस्तत् सततं पूर्णघटीभिः समाकृष्टम्। चक्रच्युतं तदुदकं कुण्डे याति प्रणालिकया॥५६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The wheel rotates continuously, pulled down by the weight of filled pots; the discharged water flows back into the reservoir via a channel."
         },
         {
           "number": 57,
           "text": "यदधोरन्ध्रनलं तत् सापेक्षत्वात् स्वयंवहं ग्राम्यम्। चतुरचमत्कारकरी युक्तिर्यन्त्रं नहि ग्राम्यम्॥५७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "A simple bottom-draining vessel is crude because it depends on constant manual refilling; an ingenious self-sustaining mechanism that causes wonder is a true instrument, not crude."
         }
       ]
     },
@@ -1430,49 +1625,56 @@
           "text": "स्वकुसुमैर्मलिनामिव मालतीमवहसन्ति वसन्तजमल्लिकाः। उपवनं विनिवारयतीव ताः किसलयैर्मलयानिलकम्पितैः॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Spring jasmines (mallikās) seem to mock the mālati creeper tarnished of its flowers, while the grove appears to restrain them with tender sprouts swayed by the gentle Malaya breeze."
         },
         {
           "number": 3,
           "text": "विहाय सौधं तृणकुण्ड्यमण्डपे प्रसिच्यमाने सलिलैः समन्ततः। शुचौ रमन्ते विरलं विलासिनः प्रियाजनैः सीकरसेचनोन्मुखाः॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In the scorching summer heat (Śuci), lovers leave luxury mansions to delight in thatched bowers constantly sprinkled with water, enjoying spray showers in the company of their beloveds."
         },
         {
           "number": 4,
           "text": "निदाधदाहातिविघातहेतवे वनाय कामोच्छ्रितचूतकेतवे। व्रजन्ति वापीजलकेलिलालसाः शुचौ रतिस्वेदगलज्जलालसाः॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "To dispel the fierce summer heat, couples eager for water sports in step-wells resort to groves where Kama's mango banner flies high, weary with perspiration from amorous play."
         },
         {
           "number": 5,
           "text": "मदनदहनखिन्नामागतेऽप्येत्य काले परिमलवहलानां मालतीनां नदीनाम्। अदय दयित सिञ्चस्याऽऽत्मदृग्वारिणा किं परिमलबहलानां मा लतीनां न दीनाम्॥५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "O heartless lover! Why do you distress your beloved with tears when the monsoon arrives, filling rivers and blooming fragrant mālati creepers, while she suffers tormented by love's fire?"
         },
         {
           "number": 13,
           "text": "नवरतरमणीया भारती कामितार्थम्। न हरति हृदयं वा कस्य सा सानुरागा नवरतरमणी या भारती कामिताऽर्थम्॥१३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Whose heart is not captivated by passionate, elegant poetry rich in nine poetic sentiments (navarasa), fulfilling all desired meanings like an enchanting, beloved maiden?"
         },
         {
           "number": 14,
           "text": "न भवति हृतचित्तो वाचमाकर्ण्य रम्यां परभृतसरसां ना कोऽमलां सत्कवीनाम्। सततमुपगतानां साम्बुजैर्वा पयोभिः परभूतसरसां नाकोमलां सत्कवीनाम्॥१४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Who is not charmed by listening to the sweet, flawless verse of great poets, melodious as cuckoos, or by lakes filled with lotus-fragrant waters under rain-laden clouds?"
         },
         {
           "number": 15,
           "text": "रुचिरसिकतया वाऽऽश्लेषिताङ्गः सुवृत्तैः। कृतिन इह रमन्ते रम्यसारस्वतौघे रुचिरसिकतया वा श्लेषिताङ्गैः सुवृत्तैः॥१५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Virtuous connoisseurs delight in the exquisite flood of Sarasvatī's wisdom, embraced by elegant meters and refined sentiments, just as lovers delight in well-rounded limbs."
         }
       ]
     },
@@ -1485,273 +1687,312 @@
           "text": "तस्तां वच्मि विचित्रभङ्गिचतुरप्रीतिप्रदानाय यान्। आकर्ण्यापि सुवर्णवर्णवदनं वैवर्ण्यमेति क्षणात् तस्याखर्वकुगर्वपर्वतशिरःप्रौढ्याऽधिरूढोऽत्र यः॥१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "I state these ingenious mathematical questions to delight the learned, hearing which the fair faces of arrogant scholars turn pale in an instant, crushing their mountain of pride."
         },
         {
           "number": 2,
           "text": "अपरखेचरपर्यतताडिता द्युगणको द्युचरम्मतमानयेत्। अभिमतैः गुणकैः उत ताडितात्। भवति तंत्रविदां स शिरोमणिः॥२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who can calculate the mean position of a planet from Ahargaṇa multiplied by revolutions of another planet or desired multipliers is truly a Śiro-maṇi (Crest-Jewel) among astronomers."
         },
         {
           "number": 3,
           "text": "विमाधिमासैरपमैरहर्गणं विना द्युराशिं च शशिप्रभाकरौ। विना च ताभ्यां तिथियोगभादिकं प्रवक्ति यस्सोऽत्र सुतंत्रक्तिमः॥३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who can determine Ahargaṇa without intercalary months or omitted lunar days, or compute Tithi, Yoga, and Nakṣatra without knowing the explicit positions of Sun and Moon, is a master of astronomy."
         },
         {
           "number": 4,
           "text": "एवं विलोक्यापमशेषमेव समानयत्यर्कमहर्गणं वा। सौद्धान्तिकानां गणकैकवन्द्यो गर्वं स खर्वो कुरुतेऽखिलानाम्॥४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who, merely observing the remaining declination, calculates the true Sun or the Ahargaṇa, humbles the pride of all competing Siddhāntic astronomers."
         },
         {
           "number": 5,
           "text": "ज्यामिर्विनैव भुजकोटिगुणौ प्रवक्ति स्पष्टं च यो दिनगणात् स्थितिमिष्टखेचरात्। तिग्मांशुना तुहिनदीधितिना विना वा सिद्धान्तविभिनदितस्स महीतलेऽस्मिन्॥५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who calculates sine and cosine values without sine tables and determines true planetary positions directly from Ahargaṇa without Sun or Moon is famed across the Earth."
         },
         {
           "number": 6,
           "text": "भादौशीघ्रतरान्तरश्ववफान्नैसर्गिकींचक्रमात् मन्दामन्दतरासि वेदपतियो द्राकेन्द्रमध्येबुधः। वक्तां वक्रतरां तथा व कुटिलामित्थं हि गत्यष्टकं तस्य क्ष्मातलवाकपतेर्न कुरुते कूपादयाना नतिम्॥६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who understands the eight types of planetary motion—direct, swift, very swift, slow, very slow, retrograde, very retrograde, and stationary—surpasses even Bṛhaspati on Earth."
         },
         {
           "number": 7,
           "text": "स्तद्योगो गुणसंगुणात्सुरगुरो राश्यादिकात्पातितः। शेषं चापरपर्ययोत्थखचरेणेनं युतं वा शनिः॥७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Given the sum of planetary longitudes multiplied by factors and adjusted by Jupiter's position, computing Saturn or other planets through residual cycle equations..."
         },
         {
           "number": 8,
           "text": "उद्देशकालापवदेव कार्यं योगान्तराद्ये ग्रहपर्ययाणाम्। दृष्टस्य चक्राणि तदूनितानि तैरूनितं तत् क्रमशो विधेयम्॥८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Operations involving sums and differences of planetary revolutions must be performed according to the problem statement, subtracting observed completed revolutions sequentially."
         },
         {
           "number": 9,
           "text": "अज्ञातखेटः स्वमृणं कृतश्चेदज्ञातचक्राणि भवन्ति तानि। क्वहाः प्रदेया अविशुद्धशुद्धौ क्वहैश्च तक्ष्यं कुदिनाधिकं चेत्॥९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "If an unknown planet is added or subtracted, its revolutions become unknown variables; civil days (kuhā/kudina) are added or subtracted to achieve non-negative remainders in pulverizer (kuṭṭaka) division."
         },
         {
           "number": 10,
           "text": "ये याताधिकमासहीनदिवसा ये चापि तच्छेषके तेषामैक्यमवेक्ष्य यो दिनगणान् ब्रूतेऽत्र कल्पे गतान्।संश्लिष्टस्फुटकुट्टकोभ्दटबटुक्षुद्रेणविद्रावणे तस्याव्यक्तविदो विदो विजयते शार्दूलविक्रीडितम्॥१०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who, given only the sum of elapsed intercalary months, omitted days, and their remainders, determines the elapsed Ahargaṇa of the Kalpa using complex simultaneous pulverizers (saṁśliṣṭa-kuṭṭaka), triumphs over rival mathematicians."
         },
         {
           "number": 11,
           "text": "द्विप ८६३३७४४९१६८४ध्ने सशेषाधिमासावमैक्यै भवेद्व्येकचन्द्राह१६०२९९८९९९९९९ भक्तेऽवशेषं गतेन्दुद्युराशिस्ततः सावनाद्यः॥११॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Multiplying the combined sum by 863,374,491,684 and dividing by 1,602,998,999,999 yields the elapsed lunar days, from which civil Ahargaṇa is derived."
         },
         {
           "number": 12,
           "text": "६४८४२६००० १७१ तुल्यं यदा काले कल्पगतं तदा वदति यः स ब्रह्मसिद्धान्तवित्॥१२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who states the elapsed Kalpa duration equal to 648,426,000 years is a true knower of the Brahma-siddhānta."
         },
         {
           "number": 16,
           "text": "रिन्दोऽर्वाहनि कुजस्य वा वद यदा कीदृग्द्युपिण्डस्तदा॥१६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "State what the Ahargaṇa (day-count) is when a specific celestial configuration occurs on Monday or Tuesday!"
         },
         {
           "number": 17,
           "text": "भागा भागदलं गृहाणि शशिनः खत्रीन्दवस्तद्युतिः दृष्टा चन्द्रदिने कदा वद पुनस्तादृक् च काव्याहनि यक्ताव्यक्तविविक्तयुक्तिगणितं विद्वन्द्विजानासि चेत्॥१७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "If the sum of degrees, half-degrees, and signs of the Moon equals 130 on a Monday, tell when the same combination occurs on a Friday, O learned scholar who understands algebra!"
         },
         {
           "number": 18,
           "text": "अस्य भङ्गः(२)। राश्यादेर्विका दृढकुदिनगुणाश्चक्रविकलिकाभक्ताः शेषत्यागे लब्धं रूपयुतं भगणशेषं स्यात्॥१८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Solution: Convert signs and degrees to seconds, multiply by reduced civil days, divide by total seconds in a revolution; discarding remainder, quotient plus 1 gives revolution remainder."
         },
         {
           "number": 19,
           "text": "शेषोनहरो विकलाशेषं तस्मिन्क्वहाधिके ज्ञेयः। स खिलः खेटस्त्वखिलेविकलाशेषाद्(१)द्युपिण्डो वा॥१९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Divisor minus remainder gives seconds remainder; if greater than civil days, the problem is impossible (khila); otherwise Ahargaṇa is derived from valid seconds remainder."
         },
         {
           "number": 20,
           "text": "दृढभगणा येन गुणाश्चक्राग्रोमा दृढक्वहैः शुद्धाः। स द्युगणो दृढकुदिनयुतस्तावद्यावदीप्सितो वारः॥२०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Reduced revolutions multiplied by multiplier minus revolution remainder divided by reduced civil days gives Ahargaṇa; adding reduced civil days iteratively matches the desired weekday."
         },
         {
           "number": 21,
           "text": "उदाहरणम्। चक्राग्रं  शशिनः खखाभ्रगगनप्राणर्तुभूमि १६५०००० र्हृतं शुध्येञ्चेन्न खिलं फलं कृतगुणाष्टाङ्गाहिनागा ८८६८३४ हतम् विश्वाग्न्यङ्गशराङ्ककै ९४६३१३ श्च विभजेत् स्याच्छेषमङ्नां मणस्तावत् तत्र हरं क्षिपेदभिमते यावद्भवेद्वासरे॥२१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Example: If Moon's revolution remainder divided by 1,650,000 leaves no remainder, it is valid; multiplying by 886,834 and dividing by 946,313, the remainder gives Ahargaṇa, incremented by divisor until weekday matches."
         },
         {
           "number": 23,
           "text": "र्व्येका शेषकृतिर्हृता च दशभिः स्यान्मूलदा वा यदा। काले कल्पगतं तदा वदति यस्तत्पादपद्मं बुधाः सेवन्ते बहुधा प्रमेयवियति भ्रान्ता भ्रमन्तोऽलिवत्॥२३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When remainder squared minus 1 divided by 10 yields a perfect square, he who calculates the elapsed Kalpa time for that moment is revered by scholars like bees at a lotus."
         },
         {
           "number": 24,
           "text": "उद्दिष्टं कुट्टके त्तज्ज्ञैर्ज्ञेयं निरपवर्तनम्। व्यभिचारः क्वचित् क्वाषि खिलत्वापत्तिरन्यथा॥२४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In pulverizer problems, experts must ensure coefficients are reduced to lowest terms without common factors; otherwise contradictions or impossible solutions (khilatva) arise."
         },
         {
           "number": 26,
           "text": "दिग्ज्यापलमाक्षुण्णे त्रिज्यार्कहृते च बाहुकोटिज्ये। अपसृतियोजनलवजे तदन्तरं दक्षिणे भागे॥२६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Azimuth-sine multiplied by equinoctial shadow and divided by radius R and 12 yields base and upright sines; their difference for displacement in yojanas gives southern latitude."
         },
         {
           "number": 28,
           "text": "स्त्रिनयनादिशि यद्वा पत्तने चाग्निभागे। कथय गणक तत्र क्षिप्रमक्षांशकान् से क्षितिपरिधितृतीयेऽथांशके तत्र तत्र॥२८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "If a city lies in the north-east or south-east at a distance of one-third of Earth's circumference, calculate its latitude quickly, O astronomer!"
         },
         {
           "number": 32,
           "text": "द्व्यासार्धेऽष्टगुणाब्धिपावकमिते क्रान्तिज्यकातो रविः॥३२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "When radius R is 3438, determine the solar position from the declination sine."
         },
         {
           "number": 33,
           "text": "र्दृष्टा खाम्बरपञ्चखचरमिता पञ्चाङ्गुलाक्षप्रभे। देशे तत्र पृथक् पृथग्गणक ता गोलोऽसि दक्षोऽक्षज-, क्षेत्रक्षोदविधौ विचक्षण समाचक्ष्वाविलक्षोऽसि चेत्॥३३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In a place where equinoctial shadow is 5 inches and solar shadow values are observed, compute each variable separately, O expert astronomer skilled in latitude geometry!"
         },
         {
           "number": 34,
           "text": "क्रान्तिज्यां विषुवत्प्रभारविहतस्तुल्यां प्रकल्प्यापराः कृत्वाग्रासमशङ्कुतद्धृतिमहीजीवा अभीष्टास्ततः। द्व्यायास्तद्युतिभाजिताः पृथगथ प्रोद्दिष्टयुत्या हता उद्दिष्टा खलु यद्युतिः पृथगिमा व्यक्ता भवन्ति क्रमात्॥३४॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Assuming declination-sine proportional to equinoctial shadow times 12, computing amplitude, sama-śaṅku, taddhṛti, and earth-sine, their sum divided into given sum yields each true value."
         },
         {
           "number": 35,
           "text": "अग्रापमज्याक्षितिशिञ्जिनीनां योगं सहस्रद्वितयं विदित्वा। पृथक्पृथक् ता गणक प्रचक्ष्व रूढा सगोले गणिते मतिश्चेत्॥३५॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "If the sum of amplitude (agrā), declination-sine (apamajyā), and earth-sine (kujyā) is known to be 2000, state each of them individually, O astronomer, if your mind is versed in spherical mathematics!"
         },
         {
           "number": 36,
           "text": "आस्तां तावत् सगोलः सुगणक गणितस्कन्धबन्धप्रसिद्धः सिद्धान्तो लग्नसिद्ध्यै किमिति बत कृतस्तत्र तात्कालिकोऽर्कः नाडीषष्ट्या द्युरात्रं दशपलयुतया भानवीयं किलार्क्ष्या लग्नं तात्कालिकार्कात् प्रवद किमधिकं तद्युरात्रे पलोने (१)॥३६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Let spherical theory aside for a moment—why do Siddhāntas prescribe true solar position for finding Lagna? If a solar day is 60 nāḍikās 10 palas sidereal time, tell how much Lagna differs when day is reduced by 1 pala!"
         },
         {
           "number": 37,
           "text": "नाक्षत्रा उत सावनास्तनुकृतौ नाड्योऽथ चेत् सावना नाक्षत्रा उदयाः कथं विसदृशास्ताभ्यो विशोध्या वद। नाक्षत्रा यदि तद्युरात्रसदृशे काले गतेऽकाधिकं किं लग्नं न समं ततो दिनकरस्तात्कालिकः किं कृतः॥३७॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Are nāḍikās used in Lagna calculation sidereal or civil? If civil, why are unequal sidereal risings subtracted from them? If sidereal, why is true Sun calculated when sidereal day elapsed gives identical Lagna?"
         },
         {
           "number": 38,
           "text": "पञ्चाङ्गुला गणक यत्र पलप्रभा स्यात् तत्रेष्टभा नवमिता दशनाडिकासु। दृष्टा यदा वद तदा तरणिं तवास्ति यद्यत्र कौशलमलं गणिते सगोले(१)॥३८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Where equinoctial shadow is 5 inches, if at 10 nāḍikās after sunrise the shadow is observed to be 9 inches, state the solar longitude if you possess mastery in spherical astronomy!"
         },
         {
           "number": 39,
           "text": "दिनकरे करिवैरिदलस्थिते नरसमा नरभापराङ्मुखी। भवति यत्र पटो पुटभेदने कथय तान्त्रिक तत्र पलप्रभाम्॥३९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In a city where when the Sun is at the middle of Leo (15° Leo) the gnomon shadow equals gnomon height facing north, calculate the local equinoctial shadow!"
         },
         {
           "number": 40,
           "text": "न्मन्ये त्वां निशितं सगर्वगणकोन्मत्तेभकुम्भाङ्कुशम्॥४०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "...I consider you a sharp goad to tame the wild temple of arrogant astronomers!"
         },
         {
           "number": 41,
           "text": "मार्तण्डे सममण्डलं प्रविशतिच्छाया किलाष्ट्यङ्गुला दृष्टाष्टासु घटीषु कुत्रचिदपि स्थाने कदाचिद्दिने। अर्कक्रान्तिगुणं तदा वदसि चेदक्षप्रभां तत्र च त्रिप्रश्नप्रचुरप्रपञ्चचतुरं मन्ये त्वदन्यं नहि(१)॥४१॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "If when the Sun enters the prime vertical at 8 nāḍikās after sunrise the shadow is observed to be 8 inches, tell the solar declination-sine and local latitude shadow!"
         },
         {
           "number": 42,
           "text": "यत्र क्षितिज्या शरसिद्ध २४५ तुल्या स्यात् तद्धृतिस्तत्त्वकुरामसंख्या ३१२४। तत्राक्षमार्कौ गणक प्रचक्ष्व चेदक्षजक्षेत्रविचक्षणोऽसि(२)॥४२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Where earth-sine (kujyā) equals 245 and diurnal hypotenuse (taddhṛti) equals 3124, state the local latitude and solar longitude if you are skilled in latitude geometry!"
         },
         {
           "number": 46,
           "text": "र्यास्तद्दिग्विवरान्तरान्तरगता याः प्रच्छकेच्छावशात्। ता एकानयनेन चानयति यो मन्ये तमन्यं भुवि ज्योतिर्विद्वदनारविन्दमुकुलप्रोल्लासने भास्करम् (१)॥४६॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He who computes all intermediate directional shadow problems by a single unified mathematical method, I consider him another Sun on Earth illuminating the lotus faces of astronomers!"
         },
         {
           "number": 58,
           "text": "रसगुणपूर्णमही १०३६ समशकनृपसमयेऽभवन्ममोत्पत्तिः। रसगुण ३६ वर्षेण मया सिद्धान्तशिरोमणी रचितः॥५८॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "My birth occurred in the Śaka year 1036 (1114 CE). At the age of 36 years (1150 CE), I composed the Siddhānta Śiromaṇi."
         },
         {
           "number": 59,
           "text": "गणितस्कन्धसंदर्भोऽदभ्रदर्भाग्रधीमतः (१)। उचितोऽनुचितो यन्मे धार्ष्ट्यं तत् क्षम्यतां विदः॥५९॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "This work on astronomy was composed for those of keen intellect like the tip of Kuśa grass; O learned scholars, forgive whatever audacity of mine is proper or improper!"
         },
         {
           "number": 60,
           "text": "ये वृद्धा लघवोऽपि येऽत्र गणका बद्ध्वाञ्जलिं वच्मि तान् क्षन्तव्यं मम तैर्मया यदधुना पूर्वोक्तयो दूषिताः। कर्तव्ये स्फुटवासनाप्रकथने पूर्वोक्तिविश्वासिनां तत्तद्दूषणमन्तरेण नितरां नास्ति प्रतीतिर्यतः॥६०॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "With folded hands, I request all astronomers, senior or junior, to pardon me for refuting ancient views. In presenting clear and true rationales, conviction cannot be established without pointing out previous errors."
         },
         {
           "number": 62,
           "text": "र्मुगधोद्वोधकरं विदग्धगणकप्रीतिप्रदं प्रस्फुटम्। एतद्व्यक्तसदुक्तियुक्तिबहुलं हेलावगम्यं विदां सिद्धान्तग्रथनं कुबुद्धिमथनं चक्रे कविर्भास्करः॥६२॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "The poet Bhāskara has composed this clear astronomical treatise, rich in lucid reasoning and valid proofs, enlightening the novice, delighting the learned astronomer, easily understood by the wise, and crushing flawed doctrines."
         },
         {
           "number": 63,
           "text": "केचित् पिपठिषन्त्येनं प्रश्नाध्यायं हि केवलम्। तदर्थं लिखिता अत्र प्रश्नाः प्राग्गदिता अपि॥६३॥",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Some desire to study this Praśnādhyāya (Question Chapter) alone; for their sake, questions stated earlier in the text have also been compiled and recorded here."
         }
       ]
     }

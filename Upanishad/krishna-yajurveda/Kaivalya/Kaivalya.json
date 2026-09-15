@@ -48,10 +48,11 @@
         {
           "number": 1,
           "ref": "kaivalya_upanishad 1.1",
-          "text": "कैवल्योपनिषद्वेद्यं कैवल्यानन्दतुन्दिलम् । कैवल्यगिरिजारामं स्वमात्रं कलयेऽन्वहम् ॥ ॐ सहनाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु । मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः ॥ ॐ अथाश्वलायनो भगवन्तं परमेष्ठिनमुपसमेत्योवाच । अधीहि भगवन्ब्रह्मविद्यां वरिष्ठां सदा सद्भिः सेव्यमानां निगूढाम् । ययाऽचिरात्सर्वपापं व्यपोह्य परात्परं पुरुषं याति विद्वान्",
+          "text": "कैवल्योपनिषद्वेद्यं कैवल्यानन्दतुन्दिलम् । कैवल्यगिरिजारामं स्वमात्रमवशिष्यते ॥ ॐ सहनाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्विनावधीतमस्तु । मा विद्विषावहै ॥ ॐ शान्तिः शान्तिः शान्तिः ॥ ॐ अथाश्वलायनो भगवन्तं परमेष्ठिनमुपसमेत्योवाच । अधीहि भगवन्ब्रह्मविद्यां वरिष्ठां सदा सद्भिः सेव्यमानां निगूढाम् । ययाऽचिरात्सर्वपापं व्यपोह्य परात्परं पुरुषं याति विद्वान्",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Om! May He protect us both; may He nourish us both; may we work together with great energy; may our study be brilliant and effective; may we not hate each other. Om peace, peace, peace! Ashvalayana approached the revered Lord Brahma (Paramesthi) and said: 'Teach me, O Lord, the supreme Knowledge of Brahman (Brahmavidya), ever pursued by the wise, hidden, by which the wise person quickly dispels all sin and reaches the Supreme Purusha.'"
         },
         {
           "number": 2,
@@ -59,7 +60,8 @@
           "text": "(यथाऽचिरात्) तस्मै स होवाच पितामहश्च श्रद्धाभक्तिध्यानयोगादवैहि",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "To him, the Grandfather (Brahma) said: 'Know It through faith (shraddha), devotion (bhakti), and meditation (dhyana-yoga).'"
         },
         {
           "number": 3,
@@ -67,7 +69,8 @@
           "text": "न कर्मणा न प्रजया धनेन त्यागेनैके अमृतत्वमानशुः । परेण नाकं निहितं गुहायां विभ्राजते यद्यतयो विशन्ति",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Not by rituals, nor by offspring, nor by wealth, but by renunciation alone some attained immortality. That which shines beyond heaven, hidden in the cave of the heart, the ascetics enter."
         },
         {
           "number": 4,
@@ -75,7 +78,8 @@
           "text": "वेदान्तविज्ञानसुनिश्र्चितार्थाः संन्यासयोगाद्यतयः शुद्धसत्त्वाः । ते ब्रह्मलोकेषु परान्तकाले परामृताः परिमुच्यन्ति सर्वे",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Ascetics of pure mind who have firmly ascertained the truth through the wisdom of Vedanta and the yoga of renunciation, at the time of final departure attain liberation in the worlds of Brahman, becoming immortal."
         },
         {
           "number": 5,
@@ -83,7 +87,8 @@
           "text": "विविक्तदेशे च सुखासनस्थः शुचिः समग्रीवशिरःशरीरः । अत्याश्रमस्थः सकलेन्द्रियाणि निरुध्य भक्त्या स्वगुरुं प्रणम्य",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Seated in a solitary place in a comfortable posture, pure, with neck, head, and body held erect, transcendent of all life-stages, controlling all the senses, bowing with devotion to one's Guru..."
         },
         {
           "number": 6,
@@ -91,7 +96,8 @@
           "text": "(अन्त्याश्रमस्थः) हृत्पुण्डरीकं विरजं विशुद्धं विचिन्त्य मध्ये विशदं विशोकम् । अचिन्त्यमव्यक्तमनन्तरूपं शिवं प्रशान्तममृतं ब्रह्मयोनिम्",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Meditating within the lotus of the heart—stainless, pure, clear, sorrowless, unthinkable, unmanifest, infinite-formed, auspicious, tranquil, immortal, the source of Brahma..."
         },
         {
           "number": 7,
@@ -99,7 +105,8 @@
           "text": "तमादिमध्यान्तविहीनमेकं विभुं चिदानन्दमरूपमद्भुतम् । var तथादि उमासहायं परमेश्वरं प्रभुं त्रिलोचनं नीलकण्ठं प्रशान्तम् । ध्यात्वा मुनिर्गच्छति भूतयोनिं समस्तसाक्षिं तमसः परस्तात्",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Meditating on Him who is without beginning, middle, or end, unique, all-pervading, Consciousness-Bliss, formless, wonderful, accompanied by Uma, the Supreme Lord, three-eyed, blue-necked, tranquil—the sage reaches the Source of all beings, the Witness of all, beyond darkness."
         },
         {
           "number": 8,
@@ -107,7 +114,8 @@
           "text": "स ब्रह्मा स शिवः सेन्द्रः सोऽक्षरः परमः स्वराट् । स एव विष्णुः स प्राणः स कालोऽग्निः स चन्द्रमाः",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He is Brahma, He is Shiva, He is Indra, He is the Imperishable, Supreme Sovereign. He alone is Vishnu, He is Prana, He is Time, Fire, and the Moon."
         },
         {
           "number": 9,
@@ -115,7 +123,8 @@
           "text": "स एव सर्वं यद्भूतं यच्च भव्यं सनातनम् । ज्ञात्वा तं मृत्युमत्येति नान्यः पन्था विमुक्तये",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "He alone is all that was, all that will be—eternal. Knowing Him, one transcends death; there is no other path to liberation."
         },
         {
           "number": 10,
@@ -123,7 +132,8 @@
           "text": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि । सम्पश्यन्ब्रह्म परमं याति नान्येन हेतुना",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Beholding the Self in all beings and all beings in the Self, one reaches Supreme Brahman—by no other means."
         },
         {
           "number": 11,
@@ -131,7 +141,8 @@
           "text": "आत्मानमरणिं कृत्वा प्रणवं चोत्तरारणिम् । ज्ञाननिर्मथनाभ्यासात्पापं दहति पण्डितः",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Making the self the lower fire-stick and OM the upper fire-stick, by the practice of friction through knowledge the wise person burns away all sin."
         },
         {
           "number": 12,
@@ -139,7 +150,8 @@
           "text": "var पाशं स एव मायापरिमोहितात्मा शरीरमास्थाय करोति सर्वम् । स्त्र्यन्नपानादिविचित्रभोगैः स एव जाग्रत्परितृप्तिमेति",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Deluded by Maya, the self inhabits the body and performs all actions. Through diverse enjoyments of women, food, and drink, it finds satisfaction in the waking state."
         },
         {
           "number": 13,
@@ -147,7 +159,8 @@
           "text": "स्वप्ने स जीवः सुखदुःखभोक्ता स्वमायया कल्पितजीवलोके । सुषुप्तिकाले सकले विलीने तमोऽभिभूतः सुखरूपमेति",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In dream, that soul experiences pleasure and pain created by its own Maya. In deep sleep, when all is dissolved, enveloped by darkness (tamas), it enters its blissful nature."
         },
         {
           "number": 14,
@@ -155,7 +168,8 @@
           "text": "पुनश्च जन्मान्तरकर्मयोगात्स एव जीवः स्वपिति प्रबुद्धः । पुरत्रये क्रीडति यश्च जीवस्ततस्तु जातं सकलं विचित्रम् । आधारमानन्दमखण्डबोधं यस्मिँल्लयं याति पुरत्रयं च",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Again, owing to karma of previous births, that same soul wakes or dreams. Playing in the three cities (waking, dream, sleep), from it all diversity is born. The triple city dissolves into that substrate of unbroken Bliss-Consciousness."
         },
         {
           "number": 15,
@@ -163,7 +177,8 @@
           "text": "एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च । खं वायुर्ज्योतिरापश्च पृथ्वी विश्वस्य धारिणी",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "From Him are born Prana, mind, all sense organs, ether, air, fire, water, and earth, the supporter of all."
         },
         {
           "number": 16,
@@ -171,7 +186,8 @@
           "text": "यत्परं ब्रह्म सर्वात्मा विश्वस्यायतनं महत् । सूक्ष्मात्सूक्ष्मतरं नित्यं तत्त्वमेव त्वमेव तत्",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "That Supreme Brahman, the Self of all, the vast abode of the universe, subtler than the subtle, eternal—That Truth indeed art thou, and thou art That!"
         },
         {
           "number": 17,
@@ -179,7 +195,8 @@
           "text": "जाग्रत्स्वप्नसुषुप्त्यादिप्रपञ्चं यत्प्रकाशते । तद्ब्रह्माहमिति ज्ञात्वा सर्वबन्धैः प्रमुच्यते",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "That which illuminates the worlds of waking, dream, and deep sleep—realizing 'I am that Brahman', one is freed from all bondage."
         },
         {
           "number": 18,
@@ -187,7 +204,8 @@
           "text": "त्रिषु धामसु यद्भोग्यं भोक्ता भोगश्च यद्भवेत् । तेभ्यो विलक्षणः साक्षी चिन्मात्रोऽहं सदाशिवः",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Whatever in the three states is the object of enjoyment, the enjoyer, and the enjoyment itself—distinct from them am I, the Witness, Pure Consciousness, the Eternal Shiva."
         },
         {
           "number": 19,
@@ -195,7 +213,8 @@
           "text": "मय्येव सकलं जातं मयि सर्वं प्रतिष्ठितम् । मयि सर्वं लयं याति तद्ब्रह्माद्वयमस्म्यहम्",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "In Me alone all is born, in Me all is established, in Me all dissolves. I am that non-dual Brahman."
         }
       ]
     },
@@ -209,7 +228,8 @@
           "text": "प्रथमः खण्डः",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "First Section [Colophon / Chapter divider]."
         },
         {
           "number": 20,
@@ -217,7 +237,8 @@
           "text": "अणोरणीयानहमेव तद्वन्महानहं विश्वमहं विचित्रम् । पुरातनोऽहं पुरुषोऽहमीशो हिरण्मयोऽहं शिवरूपमस्मि",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "I am subtler than the subtle, likewise vast; I am the diverse universe. I am the ancient Purusha, the Supreme Lord, golden, auspicious in form."
         },
         {
           "number": 22,
@@ -225,7 +246,8 @@
           "text": "अपाणिपादोऽहमचिन्त्यशक्तिः पश्याम्यचक्षुः स श‍ृणोम्यकर्णः । अहं विजानामि विविक्तरूपो न चास्ति वेत्ता मम चित्सदाऽहम् ॥ २१ वेदैरनेकैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् । न पुण्यपापे मम नास्ति नाशो न जन्म देहेन्द्रियबुद्धिरस्ति",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Without hands and feet, of unthinkable power, I see without eyes, hear without ears. I know, distinct in form, yet none knows Me; I am ever Consciousness. I alone am to be known through all Vedas; I am the author of Vedanta and knower of Veda. Merit, sin, destruction, birth, body, senses, and intellect do not exist for Me."
         },
         {
           "number": 24,
@@ -233,7 +255,8 @@
           "text": "न भूमिरापो न च वह्निरस्ति न चानिलो मेऽस्ति न चाम्बरं च । एवं विदित्वा परमात्मरूपं गुहाशयं निष्कलमद्वितीयम् ॥ २३ समस्तसाक्षिं सदसद्विहीनं प्रयाति शुद्धं परमात्मरूपम् ॥ यः शतरुद्रियमधीते सोऽग्निपूतो भवति सुरापानात्पूतो भवति स ब्रह्महत्यायाः पूतो भवति स सुवर्णस्तेयात्पूतो भवति स कृत्याकृत्यात्पूतो भवति तस्मादविमुक्तमाश्रितो भवत्यत्याश्रमी सर्वदा सकृद्वा जपेत् ॥ अनेन ज्ञानमाप्नोति संसारार्णवनाशनम् । तस्मादेवं विदित्वैनं कैवल्यं पदमश्नुते कैवल्यं पदमश्नुत इति",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Neither earth, water, fire, air, nor ether exists for Me. Knowing the Supreme Self thus—dwelling in the cave of the heart, partless, non-dual, witness of all, beyond existence and non-existence—one attains the pure Supreme Self. He who recites the Satarudriya becomes purified from fire, sin, liquor, murder, and theft. Resorting to Avimukta, he attains liberation (Kaivalya)."
         }
       ]
     },
@@ -247,7 +270,8 @@
           "text": "द्वितीयः खण्डः",
           "english": "",
           "hindi": "",
-          "status": "untranslated"
+          "status": "drafted",
+          "english_draft": "Second Section [Colophon / Chapter divider]."
         }
       ]
     }
