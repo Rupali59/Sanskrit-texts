@@ -65,6 +65,21 @@ Start from the 16,882 translated verses with non-empty English. **Exclude** the 
 verses, the 11 marker verses, and the 74 under 40 characters — reporting the excluded count, not
 silently dropping them. Report the surviving n.
 
+**Two further exclusion rules, added 2026-09-15 — the run itself named both as missing.**
+
+| rule | why | current count |
+|---|---|---|
+| **Devanāgarī-side**: drop a verse whose `text` holds no Devanāgarī | 18 `minaraja` verses are runs of `..........`. **The original three exclusions clean the English side only**, so these entered the population with nothing to align against | **18** |
+| **near-duplicate**, not exact-string | the exclusion tests exact equality; the 2026-09-15 translation runs produced 81 verses carrying *near*-identical text that exact matching would pass | — |
+
+`scripts/translation_audit.py` computes both classes (`DUP`, and a Devanāgarī check); **the
+harness should read it rather than re-implement**, so the two cannot drift.
+
+**The population has also moved since the run.** Measured 2026-09-15: shared-English verses
+**157 → 53**, after three BPHS translation runs rewrote 952 English and 894 Hindi fields.
+`phaladeepika`'s **178 stubs remain**, and they are still the blocking defect this file names
+below. Any second arm must re-derive its population rather than reuse the recorded 16,668.
+
 ### Three nulls, reported separately
 
 | null | how the false pair is drawn | what it measures |
@@ -102,6 +117,30 @@ worse than not having it — it would silently under-rank whole texts.
 least the same 12 texts. If lexical passes D1 and the embedding does not beat it, **ship the
 lexical instrument and stop** — the corpus gets its triage tool and the vector direction is
 answered "not needed yet", which is a successful outcome, not a failure.
+
+> **D2 IS SUPERSEDED BY D2′ — 2026-09-15. The original is kept above unedited because it is the
+> pre-registered text and the run below was scored against it.**
+>
+> D2 was already unreachable as written: it requires beating lexical "in at least the same 12
+> texts" and neither instrument reached 12, which the run records. But the deeper problem is that
+> **the baseline it names is no longer the relevant one.**
+>
+> **D2′ · Embeddings earn their existence iff they answer queries the TAG LAYER cannot.**
+>
+> Between the run and this amendment the corpus gained an entity/relation tag layer
+> (`docs/ENTITY_ROOTS.md`, `docs/RELATION_MARKERS.md`, written into `tags`). Measured over BPHS
+> on 2026-09-15: of **142,212 within-chapter pairs only 3,812 are tag-identical — 97.32%
+> separated** — and 2,665 of 3,937 verses (67.7%) are uniquely identified by their tag set
+> *inside their own chapter*.
+>
+> That is the discrimination D1 asked for and the embedding could not supply. D1 needs roughly
+> AUC 0.98; the embedding measured 0.870. **The tag layer is not a better embedding — it encodes
+> a different thing**, namely what *varies* within a chapter (which graha, which bhāva,
+> `chain:lord5_pos9`) rather than topical proximity.
+>
+> So the open question is no longer "can embeddings discriminate" but **"what is left for them to
+> do"**, and D2′ is scored on a frozen 50-pair query set against three arms — tags alone, `$text`
+> over English, embeddings — not on D1's metric at all.
 
 **D3 · The floor is measured, never chosen.** Whatever threshold the triage tool uses is the
 N1 95th percentile, recorded here beside the distribution it came from.
