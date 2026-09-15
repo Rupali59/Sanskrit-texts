@@ -9456,6 +9456,10 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:marriage"
           ]
         },
         {
@@ -9472,6 +9476,13 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:marriage",
+            "phala:religion",
+            "phala:wealth"
           ]
         },
         {
@@ -9488,6 +9499,12 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:marriage",
+            "phala:wealth"
           ]
         },
         {
@@ -9504,6 +9521,12 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:loss",
+            "phala:marriage",
+            "phala:profession"
           ]
         },
         {
@@ -9516,6 +9539,11 @@
             "bhava:8",
             "rel:conjunction",
             "rel:lordship"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:religion"
           ]
         },
         {
@@ -9530,6 +9558,11 @@
             "rel:lordship",
             "rel:modality",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:loss"
           ]
         },
         {
@@ -9544,6 +9577,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:family"
           ]
         },
         {
@@ -9560,6 +9598,11 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:property"
           ]
         },
         {
@@ -9575,6 +9618,12 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:learning",
+            "phala:longevity",
+            "phala:wealth"
           ]
         },
         {
@@ -9592,6 +9641,12 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:danger",
+            "phala:disease",
+            "phala:enemies"
           ]
         },
         {
@@ -9610,6 +9665,12 @@
             "rel:modality",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:loss",
+            "phala:marriage",
+            "phala:profession"
           ]
         },
         {
@@ -9641,6 +9702,11 @@
             "bhava:8",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:marriage",
+            "phala:religion"
           ]
         },
         {
@@ -9655,6 +9721,11 @@
             "rel:lordship",
             "rel:modality",
             "rel:polarity"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:profession"
           ]
         },
         {
@@ -9671,6 +9742,13 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:longevity",
+            "phala:loss",
+            "phala:sorrow"
           ]
         },
         {
@@ -9687,6 +9765,11 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:longevity",
+            "phala:loss"
           ]
         },
         {
@@ -9701,6 +9784,11 @@
             "chain:lord9_pos1",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour",
+            "phala:learning"
           ]
         },
         {
@@ -9716,6 +9804,13 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:learning",
+            "phala:marriage",
+            "phala:wealth"
           ]
         },
         {
@@ -9732,6 +9827,11 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:wealth"
           ]
         },
         {
@@ -9746,6 +9846,12 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:property",
+            "phala:wealth"
           ]
         },
         {
@@ -9763,6 +9869,12 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:learning",
+            "phala:religion"
           ]
         },
         {
@@ -9780,6 +9892,12 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:enemies",
+            "phala:family",
+            "phala:loss"
           ]
         },
         {
@@ -9796,6 +9914,12 @@
             "entity:yoga",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:honour",
+            "phala:marriage"
           ]
         },
         {
@@ -9810,6 +9934,11 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:loss"
           ]
         },
         {
@@ -9826,6 +9955,11 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:happiness"
           ]
         },
         {
@@ -9841,6 +9975,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour",
+            "phala:profession"
           ]
         },
         {
@@ -9857,6 +9996,11 @@
             "graha:jupiter",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:religion",
+            "phala:wealth"
           ]
         },
         {
@@ -9873,6 +10017,11 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:loss",
+            "phala:religion"
           ]
         },
         {
@@ -9887,6 +10036,13 @@
             "chain:lord10_pos1",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:honour",
+            "phala:learning",
+            "phala:wealth"
           ]
         },
         {
@@ -9903,6 +10059,12 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:honour",
+            "phala:wealth"
           ]
         },
         {
@@ -9915,6 +10077,11 @@
             "bhava:10",
             "bhava:3",
             "rel:lordship"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:learning"
           ]
         },
         {
@@ -9953,6 +10120,13 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:happiness",
+            "phala:learning",
+            "phala:wealth"
           ]
         },
         {
@@ -9969,6 +10143,12 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:enemies",
+            "phala:family",
+            "phala:loss"
           ]
         },
         {
@@ -9984,6 +10164,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:marriage",
+            "phala:religion"
           ]
         },
         {
@@ -9999,6 +10184,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:longevity",
+            "phala:profession"
           ]
         },
         {
@@ -10011,6 +10201,12 @@
             "bhava:10",
             "rel:conjunction",
             "rel:lordship"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:honour",
+            "phala:wealth"
           ]
         },
         {
@@ -10026,6 +10222,12 @@
             "graha:jupiter",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:profession",
+            "phala:religion"
           ]
         },
         {
@@ -10041,6 +10243,12 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:happiness",
+            "phala:wealth"
           ]
         },
         {
@@ -10057,6 +10265,12 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:danger",
+            "phala:enemies",
+            "phala:loss"
           ]
         },
         {
@@ -10073,6 +10287,12 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:learning",
+            "phala:wealth"
           ]
         },
         {
@@ -10089,6 +10309,12 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:religion",
+            "phala:wealth"
           ]
         },
         {
@@ -10102,6 +10328,13 @@
             "bhava:3",
             "bhava:4",
             "rel:lordship"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:family",
+            "phala:profession",
+            "phala:wealth"
           ]
         },
         {
@@ -10118,6 +10351,13 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:property",
+            "phala:religion",
+            "phala:wealth"
           ]
         },
         {
@@ -10133,6 +10373,13 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:happiness",
+            "phala:learning",
+            "phala:religion"
           ]
         },
         {
@@ -10149,6 +10396,12 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:enemies",
+            "phala:travel"
           ]
         },
         {
@@ -10164,6 +10417,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:marriage",
+            "phala:wealth"
           ]
         },
         {
@@ -10200,6 +10458,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour",
+            "phala:wealth"
           ]
         },
         {
@@ -10215,6 +10478,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour",
+            "phala:religion"
           ]
         },
         {
@@ -10229,6 +10497,12 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:learning",
+            "phala:wealth"
           ]
         },
         {
@@ -10244,6 +10518,12 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:loss",
+            "phala:marriage",
+            "phala:religion"
           ]
         },
         {
@@ -10260,6 +10540,12 @@
             "rel:modality",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:learning",
+            "phala:loss"
           ]
         },
         {
@@ -10277,6 +10563,12 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:loss",
+            "phala:religion"
           ]
         },
         {
@@ -10289,6 +10581,11 @@
             "bhava:12",
             "bhava:3",
             "rel:lordship"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:enemies",
+            "phala:family"
           ]
         },
         {
@@ -10304,6 +10601,12 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:loss",
+            "phala:property"
           ]
         },
         {
@@ -10319,6 +10622,13 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:children",
+            "phala:learning",
+            "phala:loss",
+            "phala:religion"
           ]
         },
         {
@@ -10335,6 +10645,12 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:enemies",
+            "phala:marriage",
+            "phala:sorrow"
           ]
         },
         {
@@ -10351,6 +10667,12 @@
             "rel:lordship",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:learning",
+            "phala:loss",
+            "phala:marriage"
           ]
         },
         {
@@ -10365,6 +10687,11 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:longevity",
+            "phala:wealth"
           ]
         },
         {
@@ -10402,6 +10729,11 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:loss"
           ]
         },
         {
@@ -10417,6 +10749,11 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:loss",
+            "phala:wealth"
           ]
         },
         {
@@ -10431,6 +10768,12 @@
             "entity:bhava",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:disease",
+            "phala:enemies",
+            "phala:loss"
           ]
         },
         {
@@ -10443,6 +10786,9 @@
             "entity:bhava",
             "rel:lordship",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned"
           ]
         },
         {
@@ -10450,7 +10796,10 @@
           "text": "द्विराशीशस्य खेटस्य विदित्वोभयथा फलम् ।\nविरोधे तुल्यफलयोर्द्वयोर्नाशः प्रजायते",
           "english": "If a planet is the lord of two signs, its effects should be known in both ways. If the two effects are equal and contradictory, both are destroyed.",
           "hindi": "दो राशियों के स्वामी ग्रह का फल दोनों प्रकार से जानना चाहिए। यदि दोनों फल समान और एक-दूसरे के विरोधी हों, तो दोनों का नाश हो जाता है।",
-          "status": "translated"
+          "status": "translated",
+          "tags_draft": [
+            "align:aligned"
+          ]
         },
         {
           "number": 147,
@@ -10460,6 +10809,9 @@
           "status": "translated",
           "tags": [
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned"
           ]
         },
         {
@@ -10474,6 +10826,9 @@
             "rel:lordship",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned"
           ]
         }
       ]
