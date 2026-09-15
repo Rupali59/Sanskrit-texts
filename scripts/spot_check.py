@@ -320,8 +320,14 @@ def main():
         # NEVER pool the two. They are different kinds of claim scored against different
         # instructions, and one precision number over both would be a mixture reported as
         # a measurement (rule:discernment-checks §5).
+        # Precision is measured on UNPLANTED rows only. A planted row's `wrong` is the
+        # reviewer succeeding, not the tagger failing — counting it as a tag error would
+        # make the corpus look worse the harder the reviewer was tested, which is the
+        # instrument contaminating the measurement.
+        planted_refs = {(s, r.split(".", 1)[0], r.split(".", 1)[1]) for s, r in planted_key}
         for section in ("tags", "phala"):
-            sub = {k: v for k, v in got.items() if k[0] == section}
+            sub = {k: v for k, v in got.items()
+                   if k[0] == section and k not in planted_refs}
             print(f"\n  === {section} layer")
             if not sub:
                 print(f"    not reviewed yet — 0 of {sizes[section]}")
@@ -334,7 +340,9 @@ def main():
                 for t in (sh.get(field[section]) if sh else []) or []:
                     by_type[t.split(":")[0]][v] += 1
             n = len(sub)
-            print(f"    {n} of {sizes[section]} reviewed ({100*n/max(sizes[section],1):.0f}%)")
+            n_planted = sum(1 for k in got if k[0] == section and k in planted_refs)
+            print(f"    {n} unplanted rows scored "
+                  f"({n_planted} planted rows excluded — they measure the reviewer)")
             for v in sorted(VERDICTS):
                 print(f"      {v:<9}{tally[v]:>5}  {100*tally[v]/n:>5.1f}%")
             judged = tally["ok"] + tally["wrong"] + tally["partial"]
