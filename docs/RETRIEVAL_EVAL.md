@@ -131,7 +131,40 @@ only be failed by over-answering.
 | **embed-en** — local `all-minilm` | **19** | **29** | 20 | 1 |
 | **hybrid** — tag filter → embed rank | 14 | 26 | 23 | 1 |
 
-**The embedding arm ran LOCALLY on 2026-09-15 — no API key, no cost.** `ollama` 0.34.0 was
+### Second run, same day — `bge-m3`, 1024d, multilingual
+
+| arm | hit@1 | hit@5 | miss |
+|---|---:|---:|---:|
+| tags | 2 | 11 | 38 |
+| `$text` | 11 | 18 | 31 |
+| **embed-en** | 16 | **35** | 14 |
+| hybrid | 17 | 27 | 22 |
+| **embed-sa** — Devanāgarī | 5 | **7** | 42 |
+
+**1 · The model matters: 29 → 35.** Swapping 46 MB English-only `all-minilm` for 1.2 GB
+multilingual `bge-m3` gains six answers. Both run locally and free.
+
+**2 · The hybrid loses again — replicated.** 27 against 35 with a second, stronger model. The
+71% filter-recall ceiling is a property of the filter, not of the ranker it was paired with.
+(Its hit@**1** is marginally *better* — 17 vs 16 — which is the trade stated exactly: the filter
+buys a little precision at the top and pays for it in recall.)
+
+**3 · The Devanāgarī arm is FIVE TIMES WORSE, and this is the finding with consequences.**
+English questions against embedded Devanāgarī: **7 of 49**, against 35 for the same questions
+over embedded English. A multilingual model **does not** substitute for translation.
+
+That matters far beyond this eval, because **83% of the corpus has no English.** It means the
+untranslated 80,894 verses are not reachable by an English query today, and no choice of
+embedding model fixes it — **translation is a prerequisite for retrieval, not an enhancement.**
+
+It also independently reproduces the literature the *"Choosing the Shastra Database"* artifact
+cites: *"the Anveshana study (Bhāgavatam retrieval) found that translating documents first beat
+searching the Sanskrit directly. That supports embedding the translations, not the shlokas."*
+We measured 35 against 7 on our own corpus without having read that study first.
+
+---
+
+**The first embedding arm ran LOCALLY on 2026-09-15 — no API key, no cost.** `ollama` 0.34.0 was
 already installed and serving; the model is `all-minilm`, 384d, **46 MB, English-only, and the
 weakest option available**. A stronger model would raise these numbers, not change the ordering.
 

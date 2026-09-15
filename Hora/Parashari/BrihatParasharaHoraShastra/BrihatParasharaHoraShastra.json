@@ -7086,6 +7086,9 @@
           "status": "translated",
           "tags": [
             "bhava:10"
+          ],
+          "tags_draft": [
+            "align:aligned"
           ]
         },
         {
@@ -7103,6 +7106,12 @@
             "rel:polarity",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:family",
+            "phala:honour",
+            "phala:profession"
           ]
         },
         {
@@ -7118,6 +7127,11 @@
             "rel:modality",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession",
+            "phala:religion"
           ]
         },
         {
@@ -7132,6 +7146,11 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession",
+            "phala:wealth"
           ]
         },
         {
@@ -7144,6 +7163,11 @@
             "bhava:11",
             "rel:conjunction",
             "rel:polarity"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:enemies",
+            "phala:family"
           ]
         },
         {
@@ -7158,6 +7182,11 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:enemies",
+            "phala:learning"
           ]
         },
         {
@@ -7176,6 +7205,9 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned"
           ]
         },
         {
@@ -7193,6 +7225,11 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour",
+            "phala:wealth"
           ]
         },
         {
@@ -7211,6 +7248,10 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness"
           ]
         },
         {
@@ -7226,6 +7267,11 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:happiness",
+            "phala:property"
           ]
         },
         {
@@ -7242,6 +7288,10 @@
             "graha:sun",
             "rel:conjunction",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession"
           ]
         },
         {
@@ -7262,6 +7312,11 @@
             "rel:modality",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:learning",
+            "phala:wealth"
           ]
         },
         {
@@ -7280,6 +7335,10 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:wealth"
           ]
         },
         {
@@ -7298,6 +7357,10 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession"
           ]
         },
         {
@@ -7317,6 +7380,11 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession",
+            "phala:religion"
           ]
         },
         {
@@ -7332,6 +7400,10 @@
             "rel:dignity",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession"
           ]
         },
         {
@@ -7349,6 +7421,10 @@
             "rel:modality",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession"
           ]
         },
         {
@@ -7364,6 +7440,10 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:profession"
           ]
         },
         {
@@ -7382,6 +7462,10 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour"
           ]
         },
         {
@@ -7402,6 +7486,10 @@
             "rel:modality",
             "rel:position",
             "rel:state"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour"
           ]
         },
         {
@@ -7421,6 +7509,10 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
+          ],
+          "tags_draft": [
+            "align:aligned",
+            "phala:honour"
           ]
         },
         {
@@ -7434,6 +7526,9 @@
             "bhava:10",
             "rel:conjunction",
             "rel:lordship"
+          ],
+          "tags_draft": [
+            "align:aligned"
           ]
         }
       ]
