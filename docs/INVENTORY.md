@@ -198,12 +198,20 @@ see [`SOURCES.md`](./SOURCES.md) §"Vedāṅga / Upaveda".
 |---|---|---:|---:|---:|---|
 | `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,684 | 0% | range |
 | `narada_smriti` | [`Dharmashastra/NaradaSmriti`](../Dharmashastra/NaradaSmriti) | 3 | 931 | 0% | uncitable |
-| `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 2 | 1,315 | 0%* | range |
+| `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 2 | 1,315 | 1%* | range |
 
-**\* `0%` is the VERIFIED figure and it is the only one this column reports.** All 1,315
-sūtras carry `english_draft` and `hindi_draft` with `status: drafted`; the served
-`english`/`hindi` fields are empty on every one, so nothing is published. Drafted is not
+**\* `1%` is the VERIFIED figure and it is the only one this column reports.** **1,297 of
+the 1,315** sūtras carry `english_draft` and `hindi_draft` with `status: drafted`; their served
+`english`/`hindi` fields are empty, so nothing of theirs is published. Drafted is not
 translated, and the column would be lying if it said 100%.
+
+**Updated 2026-09-15: the figure was `0%` and the sentence above said "all 1,315".** A
+translation run promoted **18 sūtras** from `drafted` to `translated`, each gaining both a
+served `english` and a served `hindi` — 18/1,315 = 1.37%, which rounds to the `1%` now shown.
+The promotion is correct; the registry simply did not follow it, and `check_inventory.py`
+exited 1 on this single cell from that day until this one. It is the failure
+`rule:state-and-decisions` names — a hand-maintained count rotting faster than anything else
+in the file — and the reason the totals line above is derived rather than written.
 
 Eleven of the twelve adhyāyas match Bühler's per-chapter counts **exactly**; adhyāya 11 is
 265 against his 266. It is contiguous 1–265, no gap, no duplicate, and no merged verse —
