@@ -122,6 +122,12 @@ class Text_(Base):
     structure: Mapped[dict | None] = mapped_column(JSONB)
     # sha256 of the source JSON at import, so a re-import is diffable and a stale row detectable.
     source_sha: Mapped[str | None] = mapped_column(String(64))
+    # The TEXT-level `status`, carried by 28 of 66 files and absent from the rest -- so NULL
+    # means "the file has no such key", which the exporter needs to reproduce. It is a cached
+    # summary of the verses and was false on 17 texts the day it was first omitted as
+    # "derivable"; `reader.derive_text_status` is its definition and `tests/test_reader.py`
+    # fails if a file's value disagrees with it. Migration 0002.
+    status: Mapped[str | None] = mapped_column(String(16))
     # T7/D11: Siddhanta Siromani is one work in four parts sharing a directory -- the only
     # real case in 66 texts. Cross-REPO containment stays in `structure`, because its
     # counterpart lives in another repository and could never be a foreign key.

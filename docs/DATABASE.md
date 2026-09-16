@@ -66,6 +66,15 @@ both types, so it cannot live on `text`) and **`annotation.source_field`** (a se
 its draft both land as `state='draft'` with identical `(kind, lang)`, so nothing else tells
 them apart).
 
+**`text.status`** (migration `0002`) is the third. 28 of 66 files carry a text-level `status`
+and the rest do not, so NULL means "no such key" and the exporter needs the column to know
+which files to emit it for. It is a summary of the verses, and on the day it landed it was
+false on 17 texts — stamped `translated` over Manusmṛti's 0 of 2,684. Its definition is
+`reader.derive_text_status`, and `tests/test_reader.py` fails naming any text whose stored
+value disagrees with its verses. **The importer stores it as the file has it and never
+corrects it**: an importer that fixed data would hide exactly the disagreement the test exists
+to report.
+
 ## The editorial lifecycle
 
 ```

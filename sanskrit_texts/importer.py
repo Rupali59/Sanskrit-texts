@@ -174,8 +174,8 @@ def import_text(conn: sa.Connection, doc: dict[str, Any], result: Result,
 
     conn.execute(
         sa.text(
-            "INSERT INTO text (id, title_sa, title_en, category, structure, source_sha)"
-            " VALUES (:id, :sa, :en, :cat, CAST(:st AS jsonb), :sha)"
+            "INSERT INTO text (id, title_sa, title_en, category, structure, source_sha, status)"
+            " VALUES (:id, :sa, :en, :cat, CAST(:st AS jsonb), :sha, :status)"
         ),
         {
             "id": tid, "sa": doc.get("title_sa"), "en": doc.get("title_en"),
@@ -183,6 +183,10 @@ def import_text(conn: sa.Connection, doc: dict[str, Any], result: Result,
             "st": json.dumps(doc.get("structure"), ensure_ascii=False)
             if doc.get("structure") is not None else None,
             "sha": doc["_sha"],
+            # Stored as the file has it, NULL when the file has no key. Whether the value is
+            # TRUE is asserted against the verses by tests/test_reader.py, not silently fixed
+            # here -- an importer that corrected data would hide the disagreement.
+            "status": doc.get("status"),
         },
     )
     result.texts += 1

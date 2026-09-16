@@ -57,7 +57,11 @@ KNOWN_OMITTED = {
     ("verse", "number"): "becomes verse.number_label (literal) + verse.position (ordering)",
     # Denormalised aggregates. A cached summary that can disagree with its source is a defect
     # waiting to happen; both are derivable with a GROUP BY.
-    ("text", "status"): "always the literal 'translated' on 28 texts; derivable from its verses",
+    # ("text","status") left this list 2026-09-16 for the same reason ("verse","status") did
+    # below. Its reason read "always the literal 'translated'; derivable from its verses" --
+    # after the quarantine that literal was FALSE on 17 of the 28 texts, and "derivable" could
+    # not say which 28 files carry the key, so the round trip failed on all of them. It is now
+    # text.status (migration 0002), and test_reader.py asserts every value equals its derivation.
     # ("verse","status") IS NO LONGER HERE, and its removal is the point. It sat here reading
     # "derivable from annotation.state" -- true under the withdrawn two-state mapping, FALSE
     # from the moment that mapping went, and green either way because nothing tests whether a

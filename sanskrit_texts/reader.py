@@ -108,6 +108,7 @@ from __future__ import annotations
 import collections
 import json
 import os
+from collections.abc import Iterable
 from pathlib import Path
 from typing import Any
 
@@ -115,6 +116,35 @@ Summary = dict[str, Any]  # {'ch','sh','tr','pct','dir','cat','dupes','titles','
 Doc = dict[str, Any]  # a full corpus text: {'text_id', 'title_sa', ..., 'chapters': [...]}
 
 SOURCES = ("json", "db")
+
+
+def derive_text_status(verse_statuses: Iterable[str | None]) -> str:
+    """The TEXT-level `status`, derived from its verses -- never asserted independently.
+
+    28 texts carry a text-level `status`. A translation run stamped all 28 `translated` on
+    2026-09-16; after the quarantine that evening 17 of them were false (Manusmrti 0/2,684,
+    Rgveda 0/10,470). A cached summary that can disagree with its source is only safe if
+    something re-derives it, so the value is recomputed from this function and
+    `tests/test_reader.py` fails if any file's stored value differs from it.
+
+      every verse `translated`                  -> translated
+      else any verse `translated` or `partial`  -> partial
+      else any verse `drafted`                  -> drafted
+      else                                      -> untranslated
+
+    `drafted` outranks `untranslated` because it is the more informative claim: machine text
+    exists and awaits review. An empty text is `untranslated`, not `translated` -- `all()` over
+    nothing is True, and a text with no verses has translated nothing.
+    """
+    seen = collections.Counter(verse_statuses)
+    total = sum(seen.values())
+    if total and seen["translated"] == total:
+        return "translated"
+    if seen["translated"] or seen["partial"]:
+        return "partial"
+    if seen["drafted"]:
+        return "drafted"
+    return "untranslated"
 
 
 class TextNotFoundError(LookupError):

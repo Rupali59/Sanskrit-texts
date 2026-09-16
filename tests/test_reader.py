@@ -253,3 +253,47 @@ def test_load_text_from_json_does_not_import_sqlalchemy() -> None:
         f"stdout={result.stdout!r}\nstderr={result.stderr!r}"
     )
     assert result.stdout.strip() == "OK"
+
+
+@pytest.mark.parametrize(
+    ("verses", "expected"),
+    [
+        (["translated", "translated"], "translated"),
+        (["translated", "drafted"], "partial"),
+        (["partial", "drafted"], "partial"),
+        (["untranslated", "drafted"], "drafted"),
+        (["untranslated", None], "untranslated"),
+        ([], "untranslated"),  # all() over nothing is True; an empty text translated nothing
+    ],
+)
+def test_derive_text_status_rule(verses: list[str | None], expected: str) -> None:
+    assert reader.derive_text_status(verses) == expected
+
+
+def test_every_text_level_status_equals_its_derivation() -> None:
+    """A cached summary is only safe if something re-derives it. The 28 text-level `status`
+    values were stamped `translated` on 2026-09-16 and were false on 17 texts by that evening,
+    with every test green. This is the check that was missing: change a verse, forget the text,
+    and this names the text."""
+    from sanskrit_texts.exclusions import EXCLUDED_TEXTS
+
+    carrying, wrong = 0, []
+    for path in sorted(REPO.rglob("*.json")):
+        rel = path.relative_to(REPO)
+        if rel.parts[0] == "docs" or any(p.startswith(".") for p in rel.parts):
+            continue
+        try:
+            doc = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        if "chapters" not in doc or "status" not in doc or doc.get("text_id") in EXCLUDED_TEXTS:
+            continue
+        carrying += 1
+        derived = reader.derive_text_status(
+            s.get("status") for c in doc["chapters"] for s in c["shlokas"]
+        )
+        if doc["status"] != derived:
+            wrong.append(f"{doc['text_id']}: file says {doc['status']!r}, verses say {derived!r}")
+    # Absence must be attributable: zero files carrying the key is a finding, not a pass.
+    assert carrying, "no corpus file carries a text-level status -- corpus missing, or key gone"
+    assert not wrong, "\n".join(wrong)

@@ -25,23 +25,25 @@ deps:  ## create .venv-corpus and install
 
 db:  ## start postgres on 5433 and wait for it
 	docker compose up -d
-	@until docker compose exec -T db pg_isready -U corpus_owner -q 2>/dev/null; do sleep 1; done
+	@until docker compose exec -T postgres pg_isready -U corpus_owner -q 2>/dev/null; do sleep 1; done
 	@echo "postgres ready on 5433"
 
 migrate:  ## create the schema, the published views and the read-only API role
 	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(VENV)/bin/alembic upgrade head
 
 testdb:  ## the suite's own database — the TRUNCATE guard requires the _test suffix (G59)
-	@docker compose exec -T db psql -U corpus_owner -d postgres -tc \
+	@docker compose exec -T postgres psql -U corpus_owner -d postgres -tc \
 	  "SELECT 1 FROM pg_database WHERE datname='sanskrit_texts_test'" | grep -q 1 || \
-	  docker compose exec -T db createdb -U corpus_owner sanskrit_texts_test
+	  docker compose exec -T postgres createdb -U corpus_owner sanskrit_texts_test
 	CORPUS_OWNER_DSN="$(TEST_DSN)" $(VENV)/bin/alembic upgrade head
 
 hello:  ## the fast loop: one small text, nothing written
 	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(PY) -m sanskrit_texts.importer --dry-run --text yajusha_jyotisham
 
-import:  ## the whole corpus. Refuses to commit if anything violates a constraint.
-	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(PY) -m sanskrit_texts.importer --all
+import:  ## the whole corpus, accepting the 70 known duplicate labels (G8). Exits 1 while they exist.
+	# Without --allow-partial this target could never commit: the 70 are real data defects the
+	# importer names and refuses, by design. The flag accepts THEM; a new violation still prints.
+	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(PY) -m sanskrit_texts.importer --all --allow-partial
 
 export:  ## fidelity export — the cutover gate's input
 	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(PY) -m sanskrit_texts.export --mode fidelity --all --out /tmp/rt

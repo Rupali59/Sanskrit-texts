@@ -78,7 +78,7 @@ def _chapter_number(label: str) -> Any:
 def build_doc(conn: sa.Connection, text_id: str, *, mode: str) -> dict[str, Any] | None:
     """Reconstruct one text's JSON from the store."""
     row = conn.execute(
-        sa.text("SELECT id, title_sa, title_en, category, structure, source_sha"
+        sa.text("SELECT id, title_sa, title_en, category, structure, source_sha, status"
                 " FROM text WHERE id = :t"),
         {"t": text_id},
     ).mappings().first()
@@ -180,6 +180,10 @@ def build_doc(conn: sa.Connection, text_id: str, *, mode: str) -> dict[str, Any]
         chapters[root_of(v["section_id"])]["shlokas"].append(sh)
 
     doc["chapters"] = [chapters[s["id"]] for s in sections if s["parent_id"] is None]
+    # Last, after `chapters`: that is where all 28 files carrying it put it, and after cutover
+    # this exporter writes the tracked JSON, so key order is part of the serialisation contract.
+    if row["status"] is not None:
+        doc["status"] = row["status"]
     return doc
 
 
