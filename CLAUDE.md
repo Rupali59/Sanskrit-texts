@@ -6,7 +6,7 @@ Parent context: `~/Documents/GitHub/Vipin Kaushik/CLAUDE.md`
 
 ## What this repo is
 
-An open-source corpus of classical Sanskrit texts, digitized for computational access by AstroAcharya. **Not a code project** — this is a data repository. Source of truth for proofreading: [sanskritdocuments.org/sanskrit/jyotisha](https://sanskritdocuments.org/sanskrit/jyotisha/) (see `REFERENCES.md`).
+An open-source corpus of classical Sanskrit texts, digitized for computational access by AstroAcharya. **The JSON is still the source of truth**, and a modelled Postgres store now sits beside it — schema, importer, exporter and a structural publication gate, documented in [`docs/DATABASE.md`](./docs/DATABASE.md). This file said "not a code project, a data repository" until 2026-09-16; `make setup` then `make hello`. Source of truth for proofreading: [sanskritdocuments.org/sanskrit/jyotisha](https://sanskritdocuments.org/sanskrit/jyotisha/) (see `REFERENCES.md`).
 
 **Scope: Jyotiṣa, plus everything that is not Tantra, Mantra, Brāhmaṇa, Āraṇyaka, Śikṣā or Kalpa.** Tantra, Mantra and Kalpa go to `Tushar/Youvan`; Brāhmaṇa and Āraṇyaka are Youvan's too and are **not** a backlog here. The Vedic **Saṃhitā and Upaniṣad layers** belong here. **The line is drawn by LAYER, not by containing work** — seven held Upaniṣads are textually chapters of a Brāhmaṇa or Āraṇyaka and stay, and the Āpastamba Dharmasūtra stays though it is a praśna of a Kalpasūtra, while the Āpastamba Paribhāṣāsūtra left 2026-09-02 because its genre is ritual procedure. Full rule and its history: `../CLAUDE.md` §"Content / texts ownership". `docs/VEDIC_CORPUS.md` maps all 51 Vedic texts; the registry says which are held.
 
