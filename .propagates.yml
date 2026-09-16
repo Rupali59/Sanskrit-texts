@@ -153,6 +153,9 @@ sources:
         kind: code
   migrations/versions/0001_corpus_schema_and_gate.py:
     propagates_to:
+      - path: tests/test_grants_and_views.py
+        why: "the grant-set test asserts corpus_api holds exactly SELECT on the published views, and the grain tests pin published_verse's LEFT JOIN shape; a GRANT or a view change must move these"
+        kind: code
       - path: tests/test_publication_gate.py
         why: "The grants and views the gate test asserts are defined in the migration; changing one silently invalidates the other"
         kind: code
@@ -176,4 +179,27 @@ sources:
     propagates_to:
       - path: tests/test_key_census.py
         why: "the census skips exactly what the importer skips; if they diverge the census either endorses fabricated files as schema or fails on texts nobody intends to import"
+        kind: code
+  # Declared 2026-09-16 with the four parallel lanes. The migration's new target is MERGED
+  # into its existing key above: re-declaring a source key makes a duplicate YAML mapping key,
+  # which PyYAML silently collapses (keeping the last) but propagate rejects outright — and it
+  # rejected the WHOLE sidecar, dropping all 25 of this repo's edges while `yaml.safe_load`
+  # reported the file as parsing fine. kind MUST be `code` or `prose` (G57).
+  tests/conftest.py:
+    propagates_to:
+      - path: .github/workflows/corpus.yml
+        why: "the truncate guard hardcodes EXPECTED_PORT=5433 and requires a `_test` database; CI maps 5433:5432 and creates sanskrit_texts_test to satisfy exactly those — change either rule and CI fails, or worse, gets loosened to pass"
+        kind: code
+  sanskrit_texts/reader.py:
+    propagates_to:
+      - path: scripts/check_inventory.py
+        why: "check_inventory is the reader's first consumer and depends on its return shape {ch,sh,tr,pct,dir,cat,dupes,titles,authority}; a renamed key breaks the pre-import gate"
+        kind: code
+      - path: tests/test_reader.py
+        why: "the reader must default to CORPUS_API_DSN and never read the owner DSN implicitly; that is the publication gate's precondition and this test is its only guard"
+        kind: code
+  sanskrit_texts/importer.py:
+    propagates_to:
+      - path: tests/test_importer_dryrun.py
+        why: "the dry-run test isolates `dry_run` as the SOLE guard by passing allow_partial=True; a change to the rollback branches in run() can silently re-introduce the overlap that made 3 of 5 tests unable to attribute their own pass"
         kind: code
