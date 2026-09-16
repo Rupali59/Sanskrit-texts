@@ -1,0 +1,40 @@
+# Local Postgres for the corpus store.
+#
+# PORT 5433, NOT 5432, and that is deliberate. `~/Documents/GitHub/scripts/execution/ports.yml`
+# allocates 5432 to `Divyansh/AuroraV3/postgres-forward` (a kubectl port-forward), recorded
+# 2026-08-28 with the note "so a later allocation cannot take it silently". This is that later
+# allocation. 5433-5439 were free; register any change in ports.yml, which is canonical per
+# rule:nextjs-dev-server-port.
+#
+# THE OWNER DSN IS NOT THE APPLICATION DSN. POSTGRES_USER below is the OWNER. The read-only
+# API role is created by the Alembic migration, never here, because a single POSTGRES_USER
+# hands every consumer the owner credentials — and a table owner can re-grant past any REVOKE
+# and is not subject to RLS unless it is FORCEd. A publication gate built on GRANT is worth
+# nothing if the app connects as owner, so the two roles must never be the same role.
+#
+# This compose is for LOCAL DEVELOPMENT AND TESTS ONLY. It is not a deployment.
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: sanskrit-texts-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: corpus_owner
+      POSTGRES_PASSWORD: corpus_local_dev
+      POSTGRES_DB: sanskrit_texts
+    ports:
+      - "5433:5432"
+    volumes:
+      - sanskrit_texts_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      # The importer and the test suite both assume a server that is actually accepting
+      # connections, not merely a container that has started. Without this, a test run started
+      # immediately after `up` fails on connection refused and reads as a code failure.
+      test: ["CMD-SHELL", "pg_isready -U corpus_owner -d sanskrit_texts"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  sanskrit_texts_pgdata:

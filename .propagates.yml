@@ -136,3 +136,44 @@ sources:
       - path: Vedanga-Jyotisha/Yajurveda/Yajushajyotisham/Yajushajyotisham.json
         why: "corpus JSON is derived from this transcription; correcting the source leaves the derived text stale"
         kind: prose
+
+  # Declared 2026-09-16 after the autoplan eng review. Each of these is a coupling the
+  # review's findings IMPLY — per rule:adversarial-review-reads-the-ledger §5, a review
+  # that ends without new declarations found defects and left the mechanism intact.
+  # kind MUST be `code` or `prose`; anything else is a silently deleted edge (G57).
+  sanskrit_texts/models.py:
+    propagates_to:
+      - path: migrations/versions/0001_corpus_schema_and_gate.py
+        why: "Two hand-maintained schema definitions with nothing comparing them; a column can have a home in models.py the database does not have"
+        kind: code
+  tests/test_key_census.py:
+    propagates_to:
+      - path: sanskrit_texts/models.py
+        why: "Each KNOWN_OMITTED entry claims a mechanism makes a key recoverable; verse.status's reason was already false and the test stayed green"
+        kind: code
+  migrations/versions/0001_corpus_schema_and_gate.py:
+    propagates_to:
+      - path: tests/test_publication_gate.py
+        why: "The grants and views the gate test asserts are defined in the migration; changing one silently invalidates the other"
+        kind: code
+  # Declared 2026-09-16 alongside the exporter, promote and the exclusion list. Each is a
+  # promise one file makes that another has to keep -- the shape three review phases found
+  # independently. kind MUST be `code` or `prose` (G57).
+  sanskrit_texts/export.py:
+    propagates_to:
+      - path: tests/test_roundtrip.py
+        why: "export.serialize() IS the serialization contract; after cutover it writes the tracked JSON, so every future git diff depends on indent/ensure_ascii/key order staying put"
+        kind: code
+      - path: docs/DATABASE.md
+        why: "the two export modes and why they cannot be one artifact are documented there; a third mode or a changed default silently makes that section wrong"
+        kind: prose
+  sanskrit_texts/promote.py:
+    propagates_to:
+      - path: tests/test_promote.py
+        why: "the TRANSITIONS table and the human-only rule are the §6 acceptance criteria; widening either without the test is how `approved` stops meaning a named human reviewed it"
+        kind: code
+  sanskrit_texts/exclusions.py:
+    propagates_to:
+      - path: tests/test_key_census.py
+        why: "the census skips exactly what the importer skips; if they diverge the census either endorses fabricated files as schema or fails on texts nobody intends to import"
+        kind: code

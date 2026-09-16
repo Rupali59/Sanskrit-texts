@@ -31,3 +31,30 @@ temp_*.png
 *.pdf
 *.txt
 **/raw/
+
+# ONE-SHOT TRANSLATION DRIVERS (2026-09-15). This repo's convention is already stated in
+# CLAUDE.md — "Do not commit processing scripts (batch*.py, inject*.py etc.) ... they were
+# throwaway tools" — but nothing enforced it, so 16 of them sat untracked and turned
+# `git status` into noise that hid real changes. Ignored rather than deleted: they are the
+# user's translation work, and scripts/apply_translations.py in particular holds ~33 KB of
+# hand-curated Hindi as DATA, so deleting it would lose the provenance of translations that
+# are now in the corpus.
+#
+# Deliberately NARROW. `translate_*` does NOT match the tracked `translation_audit.py` /
+# `translation_backlog.py`, and `apply_translations.py` is named exactly so it cannot shadow
+# the tracked `apply_phala.py`. Check with `git ls-files '*.py'` before widening either.
+/translate_*.py
+/retranslate_*.py
+/test_sdk.py
+scripts/translate_*.py
+scripts/retranslate_*.py
+scripts/apply_translations.py
+scripts/run_all_translations.py
+scripts/build_hindi_translations.py
+
+# Virtualenvs. `.venv` is the TRANSLATION scripts' environment (Python 3.14 + google-generativeai)
+# and predates this package; it is deliberately left alone. The package's own env is
+# `.venv-corpus`, because pyproject.toml pins >=3.12,<3.14 and `uv sync` would otherwise
+# REPLACE .venv rather than coexist with it. Neither belongs in git.
+.venv/
+.venv-corpus/
