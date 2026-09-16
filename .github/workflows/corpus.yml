@@ -1,0 +1,106 @@
+# CI for the corpus store. There is NO CI at all before this file — the gate suite has
+# only ever proven anything on one laptop.
+#
+# Three constraints that a stock Postgres-service template gets wrong for this repo
+# (tests/conftest.py has the authoritative comments; this file only cites them):
+#
+#   1. CORPUS_REQUIRE_DB=1 — without it, `tests/conftest.py::_engine_or_skip` SKIPs every
+#      gate test when the database is unreachable, and a skip reads as a pass. Set at job
+#      level so both the migration and the suite see it; the suite is the half that matters.
+#   2. Port 5433, not 5432 — `tests/conftest.py:EXPECTED_PORT` refuses to TRUNCATE anything
+#      else, so the Postgres service must publish its container port 5432 on host 5433.
+#   3. Database name ends `_test` — the same truncate guard refuses a database that doesn't,
+#      because `sanskrit_texts` (the real, non-test corpus) lives on this same host/port
+#      convention and must never be reachable from a test run.
+#
+# The `corpus_api` role does not exist until `alembic upgrade head` runs — it is created by
+# migrations/versions/0001_corpus_schema_and_gate.py, not by the postgres image — so the
+# migration step must run before pytest or every api-role test fails.
+
+name: corpus
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: corpus_owner
+          POSTGRES_PASSWORD: corpus_local_dev
+          # Constraint 3: must end `_test`, or tests/conftest.py's TRUNCATE guard refuses to
+          # empty it and every gate test that needs a clean fixture fails.
+          POSTGRES_DB: sanskrit_texts_test
+        ports:
+          # Constraint 2: host 5433, container 5432. Never map 5432:5432 here — that is the
+          # port the truncate guard refuses, on purpose (ports.yml gives 5432 to an unrelated
+          # project, and 5433 is this repo's own allocation).
+          - 5433:5432
+        options: >-
+          --health-cmd="pg_isready -U corpus_owner -d sanskrit_texts_test"
+          --health-interval=2s
+          --health-timeout=3s
+          --health-retries=20
+
+    env:
+      # This project's environment is `.venv-corpus`, never the conventional `.venv` — see
+      # the Makefile's own header comment. Omitting this makes `uv sync` build the wrong
+      # environment and every later command fail somewhere else, silently.
+      UV_PROJECT_ENVIRONMENT: .venv-corpus
+      # Owner: migrations + the importer. Points at the service container above, on 5433,
+      # at the `_test`-suffixed database it created.
+      CORPUS_OWNER_DSN: postgresql+psycopg://corpus_owner:corpus_local_dev@127.0.0.1:5433/sanskrit_texts_test
+      # API role: created BY the migration below, not by the service container.
+      CORPUS_API_DSN: postgresql+psycopg://corpus_api:corpus_api_local@127.0.0.1:5433/sanskrit_texts_test
+      # Constraint 1 — the entire point of this task. Verified locally: with this unset and
+      # the DSNs pointed at an unreachable port, `pytest` exits 0 (18 passed, 49 skipped —
+      # a vacuous green). With it set to 1, the same run exits 1 (49 errors) instead of
+      # skipping. Without this line CI would assert nothing about the publication gate.
+      CORPUS_REQUIRE_DB: "1"
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Install dependencies
+        run: uv sync --extra dev
+
+      - name: Run migrations (creates the corpus_api role and the published views)
+        run: .venv-corpus/bin/alembic upgrade head
+
+      - name: Run the gate suite (CORPUS_REQUIRE_DB=1 — a missing DB fails, never skips)
+        run: .venv-corpus/bin/pytest tests/ -q
+
+      - name: Corpus reconciliation (registry vs. corpus) — advisory, not a merge gate
+        # check_inventory.py exits 1 whenever docs/INVENTORY.md's drift row disagrees with
+        # the corpus, which today includes two standing, deliberate findings about the four
+        # texts sanskrit_texts/exclusions.py excludes (docs/DATABASE.md "What is deliberately
+        # excluded" — check_inventory.py deliberately does not read that exclusion list, so
+        # the drift row is left as the visible record rather than suppressed).
+        #
+        # Not asserting an exact expected-drift count here: at the moment this workflow was
+        # written, a parallel lane (T2, in the same plan) is migrating this very script onto
+        # sanskrit_texts/reader.py, and a local run of the CURRENT script exited 0 rather than
+        # the 1-with-2-findings this task's brief described — i.e. the number is presently
+        # moving under a concurrent change this task does not own. Pinning an exact count now
+        # would be asserting someone else's in-flight work, and a future genuine regression
+        # here is a corpus-content question, not a reason to redden the publication-gate CI
+        # that T3 exists to build. So: run it, print its output for a human to read, and let
+        # it fail VISIBLY (the step shows red) without failing the job. If the four-texts
+        # drift is ever resolved or the expected count is settled, tighten this to `run:`
+        # with no `continue-on-error` and assert the exact exit code.
+        continue-on-error: true
+        run: .venv-corpus/bin/python scripts/check_inventory.py
