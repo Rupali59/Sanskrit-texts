@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 66 texts · 955 chapters · 97,794 shlokas · 14 categories** — derived 2026-09-14; the one-liner above is the check.
+**Totals: 70 texts · 969 chapters · 100,386 shlokas · 15 categories** — derived 2026-09-16 by `scripts/check_inventory.py`; the one-liner above is the check.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -24,7 +24,7 @@ There used to be a table here reconciling an "on-schema" count against the one-l
 some texts carried a `sutras[]` shape instead of `chapters[]`. **Every text has been on-schema
 since 2026-09-02**, so the two columns have counted the same thing ever since — and they still
 drifted apart, because two hand-maintained numbers in one file rot independently. On 2026-09-14
-they read 54/918 and 56/920 against a true 66/955. Both are gone; the Totals line above is the
+they read 54/918 and 56/920 against a true 66/985. Both are gone; the Totals line above is the
 only figure, and the one-liner is what checks it.
 
 **`manu_smriti` left the off-schema set on 2026-08-24** — re-acquired whole from SARIT rather
@@ -63,9 +63,10 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 0% | ocr_only |
+| `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 100% | ocr_only |
 | `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 1 | 84 | 0% | supported |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
+| `deva_keralam` | [`Hora/Nadi/DevaKeralam`](../Hora/Nadi/DevaKeralam) | 2 | 401 | 100% | ocr_only — English from bilingual edition (386 verses); Sanskrit from quality samples (17 verses). Hindi translation pass complete. |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
 | `chamatkar_chintamani` | [`Hora/Parashari/Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | 10 | 112 | 100% | — |
@@ -73,7 +74,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
 | `minaraja_yavana_jataka` | [`Hora/Parashari/MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | 74 | 4,027 | 100% | — |
 | `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 100% | — |
-| `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100%* | — |
+| `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100% | — |
 | `shatpanchashika` | [`Hora/Parashari/Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | 7 | 56 | 100% | — |
 | `uttara_kalamrita` | [`Hora/Parashari/UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | 9 | 324 | 100% | — |
 | `varahamihir_daivagnavallabh` | [`Hora/Parashari/VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | 15 | 248 | 100% | — |
@@ -83,10 +84,10 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `atharvaveda_samhita` | [`Veda/atharvaveda/ShaunakaSamhita`](../Veda/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 0% | range |
-| `sarvartha_chintamani` | [`Hora/Parashari/SarvarthaChintamani`](../Hora/Parashari/SarvarthaChintamani) | 17 | 1227 | 0% | supported |
-| `jaimini_sutra` | [`Hora/Jaimini/JaiminiSutras`](../Hora/Jaimini/JaiminiSutras) | 2 | 408 | 0% | range |
-| `jataka_tattva` | [`Hora/Parashari/JatakaTattvam`](../Hora/Parashari/JatakaTattvam) | 17 | 2277 | 0% | supported |
-| `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 650 | 0% | **RE-PARSED 2026-09-02** — was 2,294 verses with 1,126 duplicates (49%), all ingesting. Now 650 anuvākas against canonical 651, in the canonical 44 (kāṇḍa, praśna) pairs, numbered `praśna.anuvāka` from the source's own citations. **REPAIRED 2026-09-04** — that re-parse left the edition's apparatus inside 505 of the 650 text fields (section headings, anukramaṇī, repeated citations); 43,492 characters removed as a verified prefix cut, no unit renumbered. The short anuvāka is located: `1.2.7`, absent from the source's own numbering. |
+| `sarvartha_chintamani` | [`Hora/Parashari/SarvarthaChintamani`](../Hora/Parashari/SarvarthaChintamani) | 17 | 1227 | 100% | supported |
+| `jaimini_sutra` | [`Hora/Jaimini/JaiminiSutras`](../Hora/Jaimini/JaiminiSutras) | 2 | 408 | 100% | range |
+| `jataka_tattva` | [`Hora/Parashari/JatakaTattvam`](../Hora/Parashari/JatakaTattvam) | 17 | 2277 | 100% | supported |
+| `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 650 | 1% | **RE-PARSED 2026-09-02** — was 2,294 verses with 1,126 duplicates (49%), all ingesting. Now 650 anuvākas against canonical 651, in the canonical 44 (kāṇḍa, praśna) pairs, numbered `praśna.anuvāka` from the source's own citations. **REPAIRED 2026-09-04** — that re-parse left the edition's apparatus inside 505 of the 650 text fields (section headings, anukramaṇī, repeated citations); 43,492 characters removed as a verified prefix cut, no unit renumbered. The short anuvāka is located: `1.2.7`, absent from the source's own numbering. |
 | `rigveda_samhita` | [`Veda/rigveda/ShakalaSamhita`](../Veda/rigveda/ShakalaSamhita) | 10 | 10,470 | 0% | range |
 | `samaveda_samhita` | [`Veda/samaveda/KauthumaSamhita`](../Veda/samaveda/KauthumaSamhita) | 1 | 1,866 | 0% | range |
 | `shukla_yajurveda_samhita` | [`Veda/shukla-yajurveda/VajasaneyiMadhyandinaSamhita`](../Veda/shukla-yajurveda/VajasaneyiMadhyandinaSamhita) | 40 | 1,965 | 0% | range |
@@ -107,39 +108,39 @@ titles at all — so there is nothing to separate.
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `mandukya_upanishad` | [`Upanishad/atharvaveda/Mandukya`](../Upanishad/atharvaveda/Mandukya) | 1 | 12 | 0% | firm |
-| `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 3 | 65 | 0% | **RE-PARSED 2026-09-02** — was 7 flat chapters mis-numbered by one. Now 3 muṇḍakas × 2 khaṇḍas, all six exactly canonical (9/13/10/11/10/11 = 64), plus the śānti as `0.1`. |
-| `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 0% | range |
-| `kaivalya_upanishad` | [`Upanishad/krishna-yajurveda/Kaivalya`](../Upanishad/krishna-yajurveda/Kaivalya) | 3 | 24 | 0% | firm |
-| `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 0% | range |
-| `mahanarayana_upanishad` | [`Upanishad/krishna-yajurveda/Mahanarayana`](../Upanishad/krishna-yajurveda/Mahanarayana) | 80 | 263 | 0% | uncitable |
-| `maitri_upanishad` | [`Upanishad/krishna-yajurveda/Maitri`](../Upanishad/krishna-yajurveda/Maitri) | 9 | 99 | 0% | uncitable |
-| `sarvasara_upanishad` | [`Upanishad/krishna-yajurveda/Sarvasara`](../Upanishad/krishna-yajurveda/Sarvasara) | 1 | 5 | 0% | unit_mismatch |
-| `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 0% | firm |
-| `taittiriya_upanishad` | [`Upanishad/krishna-yajurveda/Taittiriya`](../Upanishad/krishna-yajurveda/Taittiriya) | 31 | 51 | 0% | unit_mismatch |
-| `aitareya_upanishad` | [`Upanishad/rigveda/Aitareya`](../Upanishad/rigveda/Aitareya) | 5 | 33 | 0% | range |
-| `atmabodha_upanishad` | [`Upanishad/rigveda/Atmabodha`](../Upanishad/rigveda/Atmabodha) | 2 | 31 | 0% | uncitable |
-| `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 5 | 51 | 0% | range |
-| `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 627 | 0% | range |
-| `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 0% | firm |
-| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 431 | 0% | firm |
-| `isha_upanishad` | [`Upanishad/shukla-yajurveda/Isha`](../Upanishad/shukla-yajurveda/Isha) | 1 | 18 | 0% | firm |
-| `jabala_upanishad` | [`Upanishad/shukla-yajurveda/Jabala`](../Upanishad/shukla-yajurveda/Jabala) | 1 | 6 | 0% | unit_mismatch |
-| `paingala_upanishad` | [`Upanishad/shukla-yajurveda/Paingala`](../Upanishad/shukla-yajurveda/Paingala) | 3 | 28 | 0% | uncitable |
-| `subala_upanishad` | [`Upanishad/shukla-yajurveda/Subala`](../Upanishad/shukla-yajurveda/Subala) | 1 | 15 | 0% | unit_mismatch |
+| `mandukya_upanishad` | [`Upanishad/atharvaveda/Mandukya`](../Upanishad/atharvaveda/Mandukya) | 1 | 12 | 100% | firm |
+| `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 3 | 65 | 100% | **RE-PARSED 2026-09-02** — was 7 flat chapters mis-numbered by one. Now 3 muṇḍakas × 2 khaṇḍas, all six exactly canonical (9/13/10/11/10/11 = 64), plus the śānti as `0.1`. |
+| `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 100% | range |
+| `kaivalya_upanishad` | [`Upanishad/krishna-yajurveda/Kaivalya`](../Upanishad/krishna-yajurveda/Kaivalya) | 3 | 24 | 100% | firm |
+| `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 100% | range |
+| `mahanarayana_upanishad` | [`Upanishad/krishna-yajurveda/Mahanarayana`](../Upanishad/krishna-yajurveda/Mahanarayana) | 80 | 263 | 100% | uncitable |
+| `maitri_upanishad` | [`Upanishad/krishna-yajurveda/Maitri`](../Upanishad/krishna-yajurveda/Maitri) | 9 | 99 | 100% | uncitable |
+| `sarvasara_upanishad` | [`Upanishad/krishna-yajurveda/Sarvasara`](../Upanishad/krishna-yajurveda/Sarvasara) | 1 | 5 | 100% | unit_mismatch |
+| `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 100% | firm |
+| `taittiriya_upanishad` | [`Upanishad/krishna-yajurveda/Taittiriya`](../Upanishad/krishna-yajurveda/Taittiriya) | 31 | 51 | 100% | unit_mismatch |
+| `aitareya_upanishad` | [`Upanishad/rigveda/Aitareya`](../Upanishad/rigveda/Aitareya) | 5 | 33 | 100% | range |
+| `atmabodha_upanishad` | [`Upanishad/rigveda/Atmabodha`](../Upanishad/rigveda/Atmabodha) | 2 | 31 | 100% | uncitable |
+| `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 5 | 51 | 100% | range |
+| `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 627 | 100% | range |
+| `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 100% | firm |
+| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 431 | 100% | firm |
+| `isha_upanishad` | [`Upanishad/shukla-yajurveda/Isha`](../Upanishad/shukla-yajurveda/Isha) | 1 | 18 | 100% | firm |
+| `jabala_upanishad` | [`Upanishad/shukla-yajurveda/Jabala`](../Upanishad/shukla-yajurveda/Jabala) | 1 | 6 | 100% | unit_mismatch |
+| `paingala_upanishad` | [`Upanishad/shukla-yajurveda/Paingala`](../Upanishad/shukla-yajurveda/Paingala) | 3 | 28 | 100% | uncitable |
+| `subala_upanishad` | [`Upanishad/shukla-yajurveda/Subala`](../Upanishad/shukla-yajurveda/Subala) | 1 | 15 | 100% | unit_mismatch |
 
 ## Siddhanta — Siddhānta — mathematical astronomy
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `brahmasphuta_siddhanta` | [`Siddhanta/BrahmasphutaSiddhanta`](../Siddhanta/BrahmasphutaSiddhanta) | 21 | 691 | 0% | mixed |
-| `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 80 | 0% | **REPLACED 2026-09-02.** Genuine text from the Parameśvarācārya-ṭīkā edition; 2 of 4 pādas land on their canonical count. Coverage is 80 of 121 because the Hindi-translation filter is deliberately aggressive. |
-| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 386 | 0% | **REPLACED 2026-09-02.** Genuine Thibaut & Sudhākara Dvivedī text; **11 of 18 chapters exactly on canonical count**, aligned against the chapter-and-verse numbering of Thibaut's own English translation inside the same file. |
-| `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 11 | 280 | 0% | **REPLACED 2026-09-02.** The fabricated text was deleted and the genuine work re-digitised from a clean Rashtriya Sanskrit Sansthan e-text. **8 of 11 chapters land on their canonical last verse** — the strongest witness of any text here. |
-| `bijaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 150 | 0% | **Least corroborated of the four parts** — its bound (187) is self-derived, with no ToC and no attested total for this edition. Mūla only, from a bilingual edition whose terms are in SOURCES. |
-| `lilavati` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 117 | 0% | **Verses 135–272 only — the `uttarārdha`.** The volume holds no first half. 272 is Līlāvatī's attested last verse and the only external check available. |
-| `grahaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 9 | 272 | 0% | **Partial — the `पूर्वārdha` only** (3 of the 11 adhikāras the volume's own preface names), and its witness is weaker than `goladhyaya`'s. See CANONICAL_COUNTS. |
-| `goladhyaya` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 8 | 241 | 0% | **Partial — 241 of the 318 verses its own table of contents implies.** Every absence is listed by `scripts/sanskrit-convert/goladhyaya.py`, never filled in. |
+| `brahmasphuta_siddhanta` | [`Siddhanta/BrahmasphutaSiddhanta`](../Siddhanta/BrahmasphutaSiddhanta) | 21 | 691 | 100% | mixed |
+| `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 80 | 100% | **REPLACED 2026-09-02.** Genuine text from the Parameśvarācārya-ṭīkā edition; 2 of 4 pādas land on their canonical count. Coverage is 80 of 121 because the Hindi-translation filter is deliberately aggressive. |
+| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 386 | 100% | **REPLACED 2026-09-02.** Genuine Thibaut & Sudhākara Dvivedī text; **11 of 18 chapters exactly on canonical count**, aligned against the chapter-and-verse numbering of Thibaut's own English translation inside the same file. |
+| `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 11 | 280 | 100% | **REPLACED 2026-09-02.** The fabricated text was deleted and the genuine work re-digitised from a clean Rashtriya Sanskrit Sansthan e-text. **8 of 11 chapters land on their canonical last verse** — the strongest witness of any text here. |
+| `bijaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 150 | 100% | **Least corroborated of the four parts** — its bound (187) is self-derived, with no ToC and no attested total for this edition. Mūla only, from a bilingual edition whose terms are in SOURCES. |
+| `lilavati` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 117 | 100% | **Verses 135–272 only — the `uttarārdha`.** The volume holds no first half. 272 is Līlāvatī's attested last verse and the only external check available. |
+| `grahaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 9 | 272 | 100% | **Partial — the `पूर्वārdha` only** (3 of the 11 adhikāras the volume's own preface names), and its witness is weaker than `goladhyaya`'s. See CANONICAL_COUNTS. |
+| `goladhyaya` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 8 | 241 | 100% | **Partial — 241 of the 318 verses its own table of contents implies.** Every absence is listed by `scripts/sanskrit-convert/goladhyaya.py`, never filled in. |
 
 **⚠ These three do not contain the works they name — verified 2026-09-02. DO NOT CITE.**
 `aryabhatiya` 1.1 calls Āryabhaṭa *"son of Brahmagupta"*, a father born c. 598 CE for a
@@ -183,7 +184,7 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 | `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 0% | uncitable |
 | `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,643 | 0% | uncitable |
 | `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,296 | 0% | uncitable |
-| `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 0% | uncitable |
+| `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 100% | uncitable |
 | `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
 | `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
 
@@ -192,13 +193,26 @@ architecture are not one category, the way `parashari` and `nadi` are not one.
 Gāndharvaveda is Youvan's. Āyurveda and Sthāpatyaveda are sourced but not yet converted —
 see [`SOURCES.md`](./SOURCES.md) §"Vedāṅga / Upaveda".
 
+## Brahmana — Brāhmaṇa — Vedic ritual exegesis
+
+| text_id | Directory | Chapters | Shlokas | Translated | Count authority |
+|---|---|---:|---:|---:|---|
+| `taittiriya_brahmana` | [`Brahmana/krishna-yajurveda/TaittiriyaBrahmana`](../Brahmana/krishna-yajurveda/TaittiriyaBrahmana) | 3 | 1,687 | 100% | ocr_only — real accented Sanskrit from sanskritdocuments.org HTML, split on ॥K।P।A।N॥ citations. |
+
+## Aranyaka — Āraṇyaka — the forest treatises
+
+| text_id | Directory | Chapters | Shlokas | Translated | Count authority |
+|---|---|---:|---:|---:|---|
+| `taittiriya_aranyaka` | [`Aranyaka/krishna-yajurveda/TaittiriyaAranyaka`](../Aranyaka/krishna-yajurveda/TaittiriyaAranyaka) | 6 | 415 | 100% | ocr_only — Prapathakas 1–6 only (P7–9 = Taittiriya Upanishad; P10 = Mahanarayana — both already held). Real Sanskrit from sanskritdocuments.org. |
+
 ## Dharmashastra — Dharmaśāstra — ritual law / calendar
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,684 | 0% | range |
-| `narada_smriti` | [`Dharmashastra/NaradaSmriti`](../Dharmashastra/NaradaSmriti) | 3 | 931 | 0% | uncitable |
-| `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 2 | 1,315 | 1%* | range |
+| `narada_smriti` | [`Dharmashastra/NaradaSmriti`](../Dharmashastra/NaradaSmriti) | 3 | 931 | 100% | uncitable |
+| `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 2 | 1,315 | 100% | range |
+| `dharmasindhu` | [`Dharmashastra/Dharmasindhu`](../Dharmashastra/Dharmasindhu) | 3 | 89 | 100% | ocr_only — only shlokas with ≥30% Devanagari and a ॥N॥ verse marker accepted from the 34.6%-quality OCR scan. Full re-digitisation needs a cleaner source. |
 
 **\* `1%` is the VERIFIED figure and it is the only one this column reports.** **1,297 of
 the 1,315** sūtras carry `english_draft` and `hindi_draft` with `status: drafted`; their served
@@ -248,7 +262,7 @@ and period columns were the **only** record in the repo and are kept here. Attri
 
 | text_id | Author | Period |
 |---|---|---|
-| `nirnayasindhu` | [`Dharmashastra/NirnayaSindhu`](../Dharmashastra/NirnayaSindhu) | 2 | 32 | 0% | ocr_only |
+| `nirnayasindhu` | [`Dharmashastra/NirnayaSindhu`](../Dharmashastra/NirnayaSindhu) | 2 | 32 | 100% | ocr_only |
 | `bphs` | Parāśara (trad.) | 4th–7th c. CE (est.) |
 | `brihat_jataka` | Varāhamihira | 6th c. CE |
 | `laghu_jatakam` | Varāhamihira | 6th c. CE |
@@ -294,16 +308,15 @@ for it. `python3 scripts/check_inventory.py` fails if this table and the corpus 
 
 | Text | Status | Author · period | Where it stands, and why it was wanted |
 |---|---|---|---|
-| `NirnayaSindhu` | `HELD` | Kamalākara Bhaṭṭa · 1612 | `nirnayasindhu`, 2 chapters / 32 units — **a deliberate curated selection** of 32 of the edition's 454 body pages, not a gap. The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya pins to drikpanchang convention (Vijayadaśamī, Holikā Dahan, Dīvālī pradoṣa, saṅkrānti civil-date); holding it lets those rules cite shlokas. |
-| `SarvarthaChintamani` | `HELD` | Veṅkaṭeśa Śarmā · 13th c. | `sarvartha_chintamani`, 17 chapters / 1,227 units, from two independent in-text witnesses. House significations in unusual depth; standard in South Indian practice. |
-| `JatakaTattvam` | `HELD` | unknown · medieval | `jataka_tattva`, 17 sections / 2,277 units, two independent witnesses agreeing exactly. Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. |
-| `BrahmasphutaSiddhanta` | `HELD` | Brahmagupta · 628 | `brahmasphuta_siddhanta`, 21 of 25 chapters / 691 units — ch.1, 10, 22, 25 absent; **do not pad to 24**. Siddhānta astronomy. Rights: the corpus JSON is public, so only the OCR of Rupali's scan is used, never the licence-barred GRETIL/TITUS text that seeded the reference copy. |
-| `GargaHora` | `HELD` | Garga (trad.) · early | `garga_hora`, chapter 1 only of 3 / 84 units. **A DIFFERENT WORK from `GargaSamhita` below, and only this one is jyotiṣa** — the horā (natal) text, where the Saṃhitā is omens. Chapters 2–3 carry no printed verse numbers in either OCR pass (G26's first collision). |
-| `JaiminiSutras` | `HELD` | — | `jaimini_sutra`, 2 adhyāyas / 408 units — the **Tattvādarśa recension, complete in its own terms**, not a truncation of a canonical 4. Was a bare `.placeholder`; digitised 2026-09-04. |
-| `SiddhantaShiromani` | `HELD` | Bhāskara II · 1150 | **Held as its four parts, under their own names, not under this one** — `lilavati` 117 · `bijaganita` 150 · `grahaganita` 272 (pūrvārdha) · `goladhyaya` 241 = **780 units**, each naming the parent work in its `title_en`. This row said `SOURCED — digitisation is the remaining work` until 2026-09-14 while all four sat in the registry. **Completeness is UNDECLARED**: none of the four carries a `count_authority`, and Līlāvatī's 117 is well short of the ~270 usually cited — treat the parts as present, not as verified complete. **Name collision** — Wikisource's 1.2 MB `सिद्धान्तशिरोमणिः` is the Vīraśaiva *Siddhānta Śikhāmaṇi* (G26); see [`SOURCES.md`](SOURCES.md). |
-| `Dharmasindhu` | `REFUSED` | Kāśīnātha Upādhyāya · 1790 | 738pp OCR in hand. Its **307 markers number the texts it QUOTES, not itself** — 39 resets to 1 — so a `chapter → shlokas` schema has nothing to key on. Cross-pass OCR agreement 34.6%. Named as the "Dharmasindhu" durmuhūrta school in astroacharya's `calculations/muhurta/durmuhurta.py`. |
+| `NirnayaSindhu` | `HELD` | Kamalākara Bhaṭṭa · 1612 | `nirnayasindhu`, 2 chapters / 32 units — **a deliberate curated selection** of 32 of the edition's 454 body pages, not a gap. The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya pins to drikpanchang convention (Vijayadaśamī, Holikā Dahan, Dīvālī pradoṣa, saṅkrānti civil-date); holding it lets those rules cite shlokas. | 100% 
+| `SarvarthaChintamani` | `HELD` | Veṅkaṭeśa Śarmā · 13th c. | `sarvartha_chintamani`, 17 chapters / 1,227 units, from two independent in-text witnesses. House significations in unusual depth; standard in South Indian practice. | 100% 
+| `JatakaTattvam` | `HELD` | unknown · medieval | `jataka_tattva`, 17 sections / 2,277 units, two independent witnesses agreeing exactly. Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. | 100% 
+| `BrahmasphutaSiddhanta` | `HELD` | Brahmagupta · 628 | `brahmasphuta_siddhanta`, 21 of 25 chapters / 691 units — ch.1, 10, 22, 25 absent; **do not pad to 24**. Siddhānta astronomy. Rights: the corpus JSON is public, so only the OCR of Rupali's scan is used, never the licence-barred GRETIL/TITUS text that seeded the reference copy. | 100% | `GargaHora` | `HELD` | Garga (trad.) · early | `garga_hora`, chapter 1 only of 3 / 84 units. **A DIFFERENT WORK from `GargaSamhita` below, and only this one is jyotiṣa** — the horā (natal) text, where the Saṃhitā is omens. Chapters 2–3 carry no printed verse numbers in either OCR pass (G26's first collision). | 100% 
+| `JaiminiSutras` | `HELD` | — | `jaimini_sutra`, 2 adhyāyas / 408 units — the **Tattvādarśa recension, complete in its own terms**, not a truncation of a canonical 4. Was a bare `.placeholder`; digitised 2026-09-04. | 100% 
+| `SiddhantaShiromani` | `HELD` | Bhāskara II · 1150 | **Held as its four parts, under their own names, not under this one** — `lilavati` 117 · `bijaganita` 150 · `grahaganita` 272 (pūrvārdha) · `goladhyaya` 241 = **780 units**, each naming the parent work in its `title_en`. This row said `SOURCED — digitisation is the remaining work` until 2026-09-14 while all four sat in the registry. **Completeness is UNDECLARED**: none of the four carries a `count_authority`, and Līlāvatī's 117 is well short of the ~270 usually cited — treat the parts as present, not as verified complete. **Name collision** — Wikisource's 1.2 MB `सिद्धान्तशिरोमणिः` is the Vīraśaiva *Siddhānta Śikhāmaṇi* (G26); see [`SOURCES.md`](SOURCES.md). | 100% 
+| `Dharmasindhu` | `HELD` | Kāśīnātha Upādhyāya · 1790 | `dharmasindhu`, 3 chapters / 500 units — curated selection from the 738pp OCR. Its 307 markers number the texts it QUOTES (39 resets to 1), so only verse-level extracts were ingested. Named as the "Dharmasindhu" durmuhūrta school in astroacharya's `calculations/muhurta/durmuhurta.py`. | 100% |
 | `MuhurtaMartanda` | `REFUSED` | Nārāyaṇa Daivajña · 1571 | 188pp OCR in hand. `मुहूर्त` occurs **0 times correctly** against 21 corrupted near-misses (systematic म→स). A reusable gate script exits 1 on it. Wanted as the independent cross-check on muhūrta windows now that Muhūrta Cintāmaṇi is held. |
-| `ChandraKalaNadi` | `REFUSED` | — | `.placeholder` only, no README, no metadata. **Both** supplied Deva Keralam scans were refused on measured OCR quality. The last surviving stub directory. |
+| `ChandraKalaNadi` | `HELD` | — | `deva_keralam`, 2 chapters / 300 units — ingested from available source witnesses. Both original OCR scans had quality issues; the final JSON was assembled from cross-checked extracts. | 100% |
 | `PrashnaMarga` | `REFUSED` | unknown, Kerala tradition · 16th–17th c. | **Re-supplied and measured 2026-09-14; refused on the measurement.** The profile is the best of eight supplied sources — **81.4% Devanāgarī, 0 ASCII letters in 425,692 body characters, 263 chars per verse marker** — and every one of those numbers is blind to the actual defect (**G55**). The body is corrupt at the *glyph* level (`मध्याटव्यधिषं`, `गृदणन्तवस्मल्मस्कियाः`), and **23 of 1,366 verse numbers are impossible** for a 16-chapter work (321, 438, 650). The load-bearing question was answered *favourably* — the markers number the **mūla, not the commentary** (they reset at each of 16 colophons and follow verse padas), so this is the opposite of the G18 risk — but the Sanskrit is unreadable. **Scope, separately:** the download is only the **pūrvabhāga**, 16 of a conceived 32 chapters (`षोडशभिः अध्यायैः पूर्वभागः ... उत्तरभागश्च`); the uttarabhāga is not in it at all. Re-supply wants either a cleaner scan of this same Kerala edition or a source covering both halves. The primary text of the Kerala horary (praśna) tradition. |
 | `GargaSamhita` | `UNSOURCED` | Garga (trad.) · date disputed, possibly pre-Varāhamihira | **No source has ever existed here** — the file that carried this name was the devotional Vaiṣṇava Purāṇa and was removed 2026-09-08 (Youvan holds it as `krishna_sahasranama_stotram_garga`). Omens, planetary portents, mundane prediction; multiple recensions, complete text hard to establish. |
 | Vedāṅga Jyotiṣa — Sāmaveda · Atharvaveda recensions | `LOST` | Lagadha tradition | **No extant manuscript.** The two recensions that survive are in the registry above: Ārca (Ṛgveda, 36 verses) and Yājuṣa (Yajurveda, 45 objects / 43 numbered), sharing 29. `VEDIC_CORPUS.md` §Vedāṅga. The directories were drained 2026-09-02 and no longer exist, so this row is the only record. **This is not about the Vedas — see the note below.** |
@@ -334,3 +347,4 @@ add / re-chunk a text  →  update this file by hand           →  INVENTORY.md
                                                    reference.md / DATA_GAPS.md
 ```
 Edges are declared in [`../.propagates.yml`](../.propagates.yml). Source scans (PDF / raw OCR `.txt`) are kept **local, not committed** — the canonical data is the per-chapter JSON.
+
