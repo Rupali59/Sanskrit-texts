@@ -100,15 +100,13 @@ chapters, shlokas, categories and dedupe loss, and **exits 1 if INVENTORY disagr
 corpus**. Written 2026-09-14, after the registry's Totals line sat 12 texts stale above 66
 correct rows with nothing able to tell the difference.
 
-**Translation splits by ARRIVAL DATE, not category** — never restate a percentage. Texts digitised
-before 2026-09-02 are translated; everything landed since arrives `untranslated`, as the Vedic and
-Upaveda texts always have. **Do not restate which texts falsify that either — this paragraph did,
-and the claim rotted in nine days.** It read "all 8 Siddhāntas, both Jaimini texts and 4 more had
-falsified it"; a translation run on 2026-09-15 took 22 texts to 100%, so **5 of 8 Siddhāntas and
-both Jaimini texts are now translated** and 3 Siddhāntas (`brahmasphuta_siddhanta`,
-`grahaganita`, `panchasiddhantika`) are not. Derive it, per-text, and never write the list here:
-`python3 scripts/check_inventory.py`. (Found by the declared `docs/INVENTORY.md → CLAUDE.md`
-propagate edge, which is the only reason anyone looked.)
+**Never write which texts are translated, or any percentage, in this file.** Derive it:
+`python3 scripts/check_inventory.py`. This paragraph enumerated the list twice and was wrong
+both times — first after nine days, then after **hours**, when 67,820 served "translations"
+turned out to be the Sanskrit with an English prefix glued on and were moved to
+`english_draft`/`hindi_draft` (2026-09-16). **A non-empty `english` field is not a
+translation**: `status` and the served fields can disagree, and the Mongo seeder reads the
+fields, not `status` (G50). (Caught both times by the `docs/INVENTORY.md → CLAUDE.md` edge.)
 
 ### ⚠ ~70 shlokas never reach AstroAcharya — derive the number, never trust this heading
 
