@@ -11,7 +11,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने रविफलं\nआरोग्यं भवति",
-          "english": "Sun in the first house (Ascendant): The native will be healthy.",
+          "english": "Surya in 1st Bhava (Lagna) (Ascendant): The native will be healthy.",
           "hindi": "प्रथम भाव (लग्न) में सूर्य का फल: जातक आरोग्यवान (स्वस्थ) होता है।",
           "status": "translated"
         },
@@ -60,21 +60,21 @@
         {
           "number": 8,
           "text": "स्वोच्चे कीर्तिमान्",
-          "english": "If the Sun is in its exaltation sign (Aries), the native will be famous.",
+          "english": "If Surya is in its exaltation Rashi (Mesha), the native will be famous.",
           "hindi": "यदि सूर्य अपनी उच्च राशि (मेष) में हो, तो जातक कीर्तिमान (यशस्वी) होता है।",
           "status": "translated"
         },
         {
           "number": 9,
           "text": "बलिनिरीक्षिते विद्वान्",
-          "english": "If aspected by strong planets, the native will be a scholar.",
+          "english": "If aspected by strong Grahas, the native will be a scholar.",
           "hindi": "यदि बली ग्रहों से दृष्ट हो, तो जातक विद्वान होता है।",
           "status": "translated"
         },
         {
           "number": 10,
           "text": "नीचे प्रतापवान्",
-          "english": "If the Sun is in its sign of debilitation (Libra), the native will be valiant.",
+          "english": "If Surya is in its Rashi of debilitation (Tula), the native will be valiant.",
           "hindi": "यदि सूर्य अपनी नीच राशि (तुला) में हो, तो जातक प्रतापवान होता है।",
           "status": "translated"
         },
@@ -95,14 +95,14 @@
         {
           "number": 13,
           "text": "सिंहे स्वांशे नाथः",
-          "english": "If the Sun is in Leo or its own Navamsha, the native will be a master/leader.",
+          "english": "If Surya is in Simha or its own Navamsha, the native will be a master/leader.",
           "hindi": "यदि सूर्य सिंह राशि में या अपने नवांश में हो, तो जातक स्वामी/नायक होता है।",
           "status": "translated"
         },
         {
           "number": 14,
           "text": "कुलीरे ज्ञानवान्",
-          "english": "If the Sun is in Cancer, the native will be knowledgeable.",
+          "english": "If Surya is in Karka, the native will be knowledgeable.",
           "hindi": "यदि सूर्य कर्क राशि में हो, तो जातक ज्ञानवान होता है।",
           "status": "translated"
         },
@@ -116,35 +116,35 @@
         {
           "number": 16,
           "text": "मकरो हृद्रोगी",
-          "english": "If the Sun is in Capricorn, the native will suffer from heart disease.",
+          "english": "If Surya is in Makara, the native will suffer from heart disease.",
           "hindi": "यदि सूर्य मकर राशि में हो, तो जातक हृदयरोगी (दिल की बीमारी वाला) होता है।",
           "status": "translated"
         },
         {
           "number": 17,
           "text": "मीने स्त्रीजनसेवी",
-          "english": "If the Sun is in Pisces, the native will be a servant to women.",
+          "english": "If Surya is in Meena, the native will be a servant to women.",
           "hindi": "यदि सूर्य मीन राशि में हो, तो जातक स्त्री-वर्ग की सेवा करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 18,
           "text": "कन्यायां रवौ कन्याप्रजः दारहीनः कृतघ्नः",
-          "english": "If the Sun is in Virgo, the native will have female children, be without a wife, and ungrateful.",
+          "english": "If Surya is in Kanya, the native will have female children, be without a wife, and ungrateful.",
           "hindi": "यदि सूर्य कन्या राशि में हो, तो जातक को कन्या संतान अधिक होती है, वह पत्नीहीन और कृतघ्न होता है।",
           "status": "translated"
         },
         {
           "number": 19,
           "text": "क्षेत्री शुभयुक्तहः आरोग्यवान्",
-          "english": "If the Sun is in its own sign or with benefics, the native will be healthy.",
+          "english": "If Surya is in its own Rashi or with benefics, the native will be healthy.",
           "hindi": "यदि सूर्य अपनी राशि में हो या शुभ ग्रहों से युक्त हो, तो जातक आरोग्यवान होता है।",
           "status": "translated"
         },
         {
           "number": 20,
           "text": "पापयुते शत्रुनीचक्षेत्रे तृतीये वर्षे ज्वरपीडा",
-          "english": "If the Sun is with malefics or in an enemy or debilitation sign, the native will suffer from fever in the 3rd year.",
+          "english": "If Surya is with malefics or in an enemy or debilitation Rashi, the native will suffer from fever in the 3rd year.",
           "hindi": "यदि सूर्य पाप ग्रहों से युक्त हो या शत्रु/नीच राशि में हो, तो तीसरे वर्ष में ज्वर (बुखार) से पीड़ा होती है।",
           "status": "translated"
         },
@@ -158,7 +158,7 @@
         {
           "number": 22,
           "text": "लग्नाद्द्वितीये रविफलं\nमुखरोगी",
-          "english": "Sun in the second house: The native will suffer from mouth diseases.",
+          "english": "Surya in 2nd Bhava: The native will suffer from mouth diseases.",
           "hindi": "द्वितीय भाव में सूर्य का फल: जातक मुख का रोगी होता है।",
           "status": "translated"
         },
@@ -172,7 +172,7 @@
         {
           "number": 24,
           "text": "उच्चे स्वक्षेत्रे न दोषः",
-          "english": "If the Sun is exalted or in its own sign, there will be no such defect.",
+          "english": "If Surya is exalted or in its own Rashi, there will be no such defect.",
           "hindi": "यदि सूर्य उच्च का या अपनी राशि का हो, तो दोष नहीं होता।",
           "status": "translated"
         },
@@ -207,21 +207,21 @@
         {
           "number": 29,
           "text": "स्वोच्चे स्वक्षेत्रे वा बहुधनवान्",
-          "english": "If the Sun is in its exaltation or own sign, the native will be very wealthy.",
+          "english": "If Surya is in its exaltation or own Rashi, the native will be very wealthy.",
           "hindi": "यदि सूर्य उच्च राशि या अपनी राशि में हो, तो जातक बहुत धनवान होता है।",
           "status": "translated"
         },
         {
           "number": 30,
           "text": "बुधयुते पवनवाक्",
-          "english": "If the Sun is with Mercury, the native may have speech defects like stammering.",
+          "english": "If Surya is with Budha, the native may have speech defects like stammering.",
           "hindi": "यदि बुध के साथ हो, तो जातक की वाणी में पवन (हकलाहट या दोष) हो सकता है।",
           "status": "translated"
         },
         {
           "number": 31,
           "text": "धनाधिपःस्वोच्चे वाग्मी",
-          "english": "If the lord of the 2nd house is exalted, the native will be an eloquent speaker.",
+          "english": "If the lord of 2nd Bhava is exalted, the native will be an eloquent speaker.",
           "hindi": "यदि द्वितीयेश (धनेश) उच्च का हो, तो जातक वाग्मी (कुशल वक्ता) होता है।",
           "status": "translated"
         },
@@ -235,7 +235,7 @@
         {
           "number": 33,
           "text": "लग्नातृतीये रविफलं\nबुद्धिमान् अनुजरहितः ज्येष्ठनाशः",
-          "english": "Sun in the third house: The native will be intelligent, but will have no younger siblings and may lose his elder ones.",
+          "english": "Surya in 3rd Bhava: The native will be intelligent, but will have no younger siblings and may lose his elder ones.",
           "hindi": "तृतीय भाव में सूर्य का फल: जातक बुद्धिमान होता है, किंतु उसके छोटे भाई-बहन नहीं होते और बड़े भाई-बहनों का नाश (हानि) हो सकता है।",
           "status": "translated"
         },
@@ -284,7 +284,7 @@
         {
           "number": 40,
           "text": "भावाधिपे बलयुते भ्रातृदीर्घायुः",
-          "english": "If the lord of the 3rd house is strong, the brothers will have long lives.",
+          "english": "If the lord of 3rd Bhava is strong, the brothers will have long lives.",
           "hindi": "यदि तृतीयेश (भाव का स्वामी) बली हो, तो भाइयों की आयु लंबी होती है।",
           "status": "translated"
         },
@@ -305,7 +305,7 @@
         {
           "number": 43,
           "text": "लग्नाच्चतुर्थे रविफलं\nहीनाङ्गः अहङ्कारी जनविरोधी उष्णदेही मनः पीडावान्",
-          "english": "Sun in the fourth house: The native may have physical defects, be egoistic, opposed to people, have a hot body, and suffer from mental distress.",
+          "english": "Surya in 4th Bhava: The native may have physical defects, be egoistic, opposed to people, have a hot body, and suffer from mental distress.",
           "hindi": "चतुर्थ भाव में सूर्य का फल: जातक हीनांग (शारीरिक दोष युक्त), अहंकारी, जन-विरोधी, उष्ण शरीर वाला और मानसिक पीड़ा से ग्रस्त हो सकता है।",
           "status": "translated"
         },
@@ -333,14 +333,14 @@
         {
           "number": 47,
           "text": "भावाधिपे बलयुते स्वक्षेत्रत्रिकोणे केन्द्रे लक्षणापेक्षया\n                                           आन्दोलिकाप्राप्तिः",
-          "english": "If the lord of the 4th house is strong, in its own sign, trine, or quadrant, the native will acquire a palanquin (luxurious vehicles) based on his qualities.",
+          "english": "If the lord of 4th Bhava is strong, in its own Rashi, trine, or quadrant, the native will acquire a palanquin (luxurious vehicles) based on his qualities.",
           "hindi": "यदि चतुर्थेश बली होकर स्वराशि, त्रिकोण या केंद्र में हो, तो जातक को अपने लक्षणों/गुणों के अनुसार पालकी (विलासी वाहन) की प्राप्ति होती है।",
           "status": "translated"
         },
         {
           "number": 48,
           "text": "पापयुते पापविक्षणवशाद्दुष्टस्थाने दुर्वाहनसिद्धिः",
-          "english": "If associated with or aspected by malefics, or in a bad house, he will have poor/bad vehicles.",
+          "english": "If associated with or aspected by malefics, or in a bad Bhava, he will have poor/bad vehicles.",
           "hindi": "यदि पाप ग्रहों से युक्त या दृष्ट हो, अथवा दुष्ट स्थान में हो, तो खराब वाहनों की प्राप्ति होती है।",
           "status": "translated"
         },
@@ -354,14 +354,14 @@
         {
           "number": 50,
           "text": "परगृह एव वासः",
-          "english": "He will reside in others' houses.",
+          "english": "He will reside in others' Bhavas.",
           "hindi": "उसका निवास दूसरों के घरों में होगा।",
           "status": "translated"
         },
         {
           "number": 51,
           "text": "लग्नात्पञ्चमे रविफलं\nनिर्धनः स्थूलदेही सप्तमे वर्षे पित्रारिष्टवान्",
-          "english": "Sun in the fifth house: The native will be poor, have a stout body, and may face a calamity regarding his father in the 7th year.",
+          "english": "Surya in 5th Bhava: The native will be poor, have a stout body, and may face a calamity regarding his father in the 7th year.",
           "hindi": "पंचम भाव में सूर्य का फल: जातक निर्धन, स्थूल शरीर वाला होगा और 7वें वर्ष में पिता को अरिष्ट (कष्ट) हो सकता है।",
           "status": "translated"
         },
@@ -375,7 +375,7 @@
         {
           "number": 53,
           "text": "भावाधिपे बलयुते पुत्रसिद्धिः",
-          "english": "If the lord of the 5th house is strong, he will be blessed with children.",
+          "english": "If the lord of 5th Bhava is strong, he will be blessed with children.",
           "hindi": "यदि पंचमेश बली हो, तो पुत्र (संतान) की प्राप्ति होती है।",
           "status": "translated"
         },
@@ -389,7 +389,7 @@
         {
           "number": 55,
           "text": "कुजयुते शत्रुयुते मूलात्",
-          "english": "If with Mars or enemies, it indicates loss from the very root (fundamental loss).",
+          "english": "If with Mangala or enemies, it indicates loss from the very root (fundamental loss).",
           "hindi": "यदि मंगल या शत्रुओं के साथ हो, तो मूल (जड़) से ही हानि सूचित होती है।",
           "status": "translated"
         },
@@ -403,21 +403,21 @@
         {
           "number": 57,
           "text": "सूर्यशरभादिषु भक्तः",
-          "english": "He will be a devotee of the Sun, Sharabha, or other deities.",
+          "english": "He will be a devotee of Surya, Sharabha, or other deities.",
           "hindi": "वह सूर्य, शरभ आदि देवताओं का भक्त होगा।",
           "status": "translated"
         },
         {
           "number": 58,
           "text": "बलयुते पुत्रसमृद्धिः",
-          "english": "If the Sun is strong, he will have many children (prosperity of children).",
+          "english": "If Surya is strong, he will have many children (prosperity of children).",
           "hindi": "यदि सूर्य बली हो, तो पुत्रों की समृद्धि होती है।",
           "status": "translated"
         },
         {
           "number": 59,
           "text": "लग्नात्षष्ठे रविफलं\nअल्पज्ञातिः",
-          "english": "Sun in the sixth house: The native will have few relatives/kinsmen.",
+          "english": "Surya in 6th Bhava: The native will have few relatives/kinsmen.",
           "hindi": "षष्ठ भाव में सूर्य का फल: जातक के कम ही जाति-बंधु (रिश्तेदार) होते हैं।",
           "status": "translated"
         },
@@ -459,7 +459,7 @@
         {
           "number": 65,
           "text": "शुभयुते भावाधिपे देहारोग्यम्",
-          "english": "If the Sun and the house lord are with benefics, he will have a healthy body.",
+          "english": "If Surya and the Bhava lord are with benefics, he will have a healthy body.",
           "hindi": "यदि सूर्य और भावेश शुभ ग्रहों के साथ हों, तो देह आरोग्य (स्वस्थ शरीर) रहता है।",
           "status": "translated"
         },
@@ -473,7 +473,7 @@
         {
           "number": 67,
           "text": "भावाधिपे दुर्बले शत्रुनाशः",
-          "english": "If the lord of the 6th house is weak, his enemies will be destroyed.",
+          "english": "If the lord of 6th Bhava is weak, his enemies will be destroyed.",
           "hindi": "यदि षष्ठेश निर्बल हो, तो शत्रुओं का नाश होता है।",
           "status": "translated"
         },
@@ -487,7 +487,7 @@
         {
           "number": 69,
           "text": "लग्नत्सप्तमे रविफलं\nविवाहविलम्बनं स्त्रीद्वेषी परदाररतः दारद्वयवान्",
-          "english": "Sun in the seventh house: Delayed marriage, hater of women, inclined towards others' wives, and may have two wives.",
+          "english": "Surya in 7th Bhava: Delayed marriage, hater of women, inclined towards others' wives, and may have two wives.",
           "hindi": "सप्तम भाव में सूर्य का फल: विवाह में विलंब, स्त्रियों से द्वेष करने वाला, पराई स्त्रियों में रुचि रखने वाला और दो पत्नियों वाला हो सकता है।",
           "status": "translated"
         },
@@ -515,7 +515,7 @@
         {
           "number": 73,
           "text": "स्वर्क्षेबलवति एकदारवान्",
-          "english": "If the Sun is in its own sign and strong, he will have only one wife.",
+          "english": "If Surya is in its own Rashi and strong, he will have only one wife.",
           "hindi": "यदि सूर्य अपनी राशि में और बली हो, तो जातक की एक ही पत्नी होती है।",
           "status": "translated"
         },
@@ -529,7 +529,7 @@
         {
           "number": 75,
           "text": "लग्नादष्टमे रविफलं\nअल्पपुत्रः नेत्ररोगी",
-          "english": "Sun in the eighth house: The native will have few children and suffer from eye diseases.",
+          "english": "Surya in 8th Bhava: The native will have few children and suffer from eye diseases.",
           "hindi": "अष्टम भाव में सूर्य का फल: जातक के कम पुत्र (संतान) होते हैं और वह नेत्र रोगों से पीड़ित रहता है।",
           "status": "translated"
         },
@@ -571,28 +571,28 @@
         {
           "number": 81,
           "text": "भावाधिपे बलयुते इष्टक्षेत्रवान्",
-          "english": "If the lord of the 8th house is strong, the native will possess lands and desired properties.",
+          "english": "If the lord of 8th Bhava is strong, the native will possess lands and desired properties.",
           "hindi": "यदि अष्टमेश बली हो, तो जातक के पास इच्छित भूमि और संपत्ति होती है।",
           "status": "translated"
         },
         {
           "number": 82,
           "text": "स्वोच्चेस्वक्षेत्रे दीर्घायुः",
-          "english": "If the Sun is in its own sign or exaltation, the native will have a long life.",
+          "english": "If Surya is in its own Rashi or exaltation, the native will have a long life.",
           "hindi": "यदि सूर्य अपनी राशि या उच्च राशि में हो, तो जातक दीर्घायु होता है।",
           "status": "translated"
         },
         {
           "number": 83,
           "text": "लग्नान्नवमे रविफलं\nसूर्यादिदेवताभक्तः",
-          "english": "Sun in the ninth house: The native will be a devotee of the Sun and other deities.",
+          "english": "Surya in 9th Bhava: The native will be a devotee of Surya and other deities.",
           "hindi": "नवम भाव में सूर्य का फल: जातक सूर्य आदि देवताओं का भक्त होता है।",
           "status": "translated"
         },
         {
           "number": 84,
           "text": "धार्मिकः अल्पभाग्यः पितृद्वेषी सुतदारवान्\n     स्वोच्चे स्वक्षेत्रे तस्य पिता दीर्घायुः",
-          "english": "He will be religious but may have little fortune and be at odds with his father. He will have a wife and children. If the Sun is in its own sign or exalted, his father will have a long life.",
+          "english": "He will be religious but may have little fortune and be at odds with his father. He will have a wife and children. If Surya is in its own Rashi or exalted, his father will have a long life.",
           "hindi": "वह धार्मिक होगा किंतु अल्प भाग्यशाली हो सकता है और पिता से द्वेष रखने वाला होगा। उसके पास पत्नी और संतान होगी। यदि सूर्य स्वराशि या उच्च राशि में हो, तो उसके पिता दीर्घायु होते हैं।",
           "status": "translated"
         },
@@ -606,7 +606,7 @@
         {
           "number": 86,
           "text": "नीचारिपापक्षेत्रे पापैर्युते दृष्टे वा पितृनाशः",
-          "english": "If the Sun is in a debilitated, enemy, or malefic sign, or with/aspected by malefics, it indicates loss of the father.",
+          "english": "If Surya is in a debilitated, enemy, or malefic Rashi, or with/aspected by malefics, it indicates loss of the father.",
           "hindi": "यदि सूर्य नीच, शत्रु या पाप राशि में हो, अथवा पाप ग्रहों से युक्त/दृष्ट हो, तो पिता की हानि होती है।",
           "status": "translated"
         },
@@ -620,7 +620,7 @@
         {
           "number": 88,
           "text": "लग्नाद्दशमे रविफलं\nअष्टादशवर्षे विद्यादिकारेण प्रसिद्धो भवति\nद्रव्यार्जनसमर्थश्च",
-          "english": "Sun in the tenth house: In the 18th year, the native will become famous through learning and be capable of earning wealth.",
+          "english": "Surya in 10th Bhava: In the 18th year, the native will become famous through learning and be capable of earning wealth.",
           "hindi": "दशम भाव में सूर्य का फल: 18वें वर्ष में जातक विद्या आदि के कारण प्रसिद्ध होता है और धनार्जन करने में समर्थ होता है।",
           "status": "translated"
         },
@@ -634,7 +634,7 @@
         {
           "number": 90,
           "text": "स्वोच्चे स्वक्षेत्रे बल परः",
-          "english": "If the Sun is in its own or exalted sign, the native will be very powerful and influential.",
+          "english": "If Surya is in its own or exalted Rashi, the native will be very powerful and influential.",
           "hindi": "यदि सूर्य अपनी राशि या उच्च राशि में हो, तो जातक अत्यंत बली और प्रभावशाली होता है।",
           "status": "translated"
         },
@@ -655,7 +655,7 @@
         {
           "number": 93,
           "text": "पापक्षेत्रे पापयुते पापदृष्टवशात् कर्मविघ्नकरः",
-          "english": "If in a malefic sign, associated with or aspected by malefics, he will face obstacles in his work.",
+          "english": "If in a malefic Rashi, associated with or aspected by malefics, he will face obstacles in his work.",
           "hindi": "यदि पाप राशि में हो, अथवा पाप ग्रहों से युक्त/दृष्ट हो, तो कार्यों में विघ्न उत्पन्न होते हैं।",
           "status": "translated"
         },
@@ -676,7 +676,7 @@
         {
           "number": 96,
           "text": "लग्नादेकादशे रविफलं\nबहुधान्यवान् पञ्चविंशतिवर्षे वाहनसिद्धिः",
-          "english": "Sun in the eleventh house: The native will have an abundance of food grains and will acquire vehicles in his 25th year.",
+          "english": "Surya in 11th Bhava: The native will have an abundance of food grains and will acquire vehicles in his 25th year.",
           "hindi": "एकादश भाव में सूर्य का फल: जातक बहुत धान्य वाला होता है और 25वें वर्ष में उसे वाहन की प्राप्ति होती है।",
           "status": "translated"
         },
@@ -704,14 +704,14 @@
         {
           "number": 100,
           "text": "स्वक्षेत्रे स्वोच्चे अधिकप्राबल्यम्",
-          "english": "If in its own sign or exaltation, he will be extremely powerful and influential.",
+          "english": "If in its own Rashi or exaltation, he will be extremely powerful and influential.",
           "hindi": "यदि अपनी राशि या उच्च राशि में हो, तो उसकी प्रचुर प्रबलता और प्रभाव होता है।",
           "status": "translated"
         },
         {
           "number": 101,
           "text": "वाहनेशयुते बहुक्षेत्रे वित्ताधिकारः",
-          "english": "If associated with the lord of the 4th house (lord of vehicles), he will have control over many lands and much wealth.",
+          "english": "If associated with the lord of 4th Bhava (lord of vehicles), he will have control over many lands and much wealth.",
           "hindi": "यदि चतुर्थेश (वाहनेश) के साथ हो, तो उसे बहुत सी भूमि और धन पर अधिकार प्राप्त होता है।",
           "status": "translated"
         },
@@ -725,7 +725,7 @@
         {
           "number": 103,
           "text": "लग्नाद्द्वादशे रविफलं\nषट्त्रिंशद्वर्षे गुल्मरोगी",
-          "english": "Sun in the twelfth house: In the 36th year, the native will suffer from 'gulma' (abdominal tumor/enlargement).",
+          "english": "Surya in 12th Bhava: In the 36th year, the native will suffer from 'gulma' (abdominal tumor/enlargement).",
           "hindi": "द्वादश भाव में सूर्य का फल: 36वें वर्ष में जातक गुल्म रोग (पेट की गाँठ या सूजन) से पीड़ित होता है।",
           "status": "translated"
         },
@@ -746,7 +746,7 @@
         {
           "number": 106,
           "text": "भावाधिपे बलयुते वा देवतासिद्धिः",
-          "english": "If the lord of the 12th house is strong, the native may attain 'Devata-siddhi' (divine powers/attainment).",
+          "english": "If the lord of 12th Bhava is strong, the native may attain 'Devata-siddhi' (divine powers/attainment).",
           "hindi": "यदि द्वादशेश बली हो, तो जातक को देवता-सिद्धि (दैवीय कृपा या सिद्धि) प्राप्त हो सकती है।",
           "status": "translated"
         },
@@ -767,7 +767,7 @@
         {
           "number": 109,
           "text": "षष्ठेशयुते कुष्ठरोगयुतः शुभदृष्टियुते निवृत्तिः",
-          "english": "If associated with the lord of the 6th house, he may suffer from leprosy or skin diseases, but if aspected by benefics, he will be cured.",
+          "english": "If associated with the lord of 6th Bhava, he may suffer from leprosy or skin diseases, but if aspected by benefics, he will be cured.",
           "hindi": "यदि षष्ठेश के साथ हो, तो जातक को कुष्ठ रोग (या चर्म रोग) हो सकता है, परंतु शुभ ग्रहों की दृष्टि होने पर वह रोग निवृत्त (ठीक) हो जाता है।",
           "status": "translated"
         },
@@ -787,7 +787,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने चन्द्रफलं\nरूपलावण्ययुक्तश्चपलः व्याधिना जलाच्चसौख्यः",
-          "english": "Moon in the first house (Ascendant): The native will be handsome, unstable/fickle, and will find happiness from diseases and water (possibly immunity or water-related gains).",
+          "english": "Chandra in 1st Bhava (Lagna) (Ascendant): The native will be handsome, unstable/fickle, and will find happiness from diseases and water (possibly immunity or water-related gains).",
           "hindi": "प्रथम भाव (लग्न) में चन्द्रमा का फल: जातक सुंदर और लावण्ययुक्त, चंचल और रोगों तथा जल से सुख पाने वाला होगा।",
           "status": "translated"
         },
@@ -801,7 +801,7 @@
         {
           "number": 3,
           "text": "मेषवृषभकर्कलग्ने चन्द्रेशास्त्र परः",
-          "english": "If the Ascendant is Aries, Taurus, or Cancer, and the Moon is there, the native will be dedicated to scriptures.",
+          "english": "If the Ascendant is Mesha, Vrishabha, or Karka, and Chandra is there, the native will be dedicated to scriptures.",
           "hindi": "यदि मेष, वृषभ या कर्क लग्न हो और चन्द्रमा वहाँ स्थित हो, तो जातक शास्त्रों में लीन रहने वाला होता है।",
           "status": "translated"
         },
@@ -843,7 +843,7 @@
         {
           "number": 9,
           "text": "लग्नाद्द्वितीये चन्द्रफलं\nशोभनवान् बहुप्रतापी धनवान अल्पसन्तोषी",
-          "english": "Moon in the second house: The native will be handsome, very valiant, wealthy, but easily dissatisfied.",
+          "english": "Chandra in 2nd Bhava: The native will be handsome, very valiant, wealthy, but easily dissatisfied.",
           "hindi": "द्वितीय भाव में चन्द्रमा का फल: जातक सुंदर, अत्यंत प्रतापी, धनवान और अल्प-संतोषी होता है।",
           "status": "translated"
         },
@@ -871,7 +871,7 @@
         {
           "number": 13,
           "text": "एकेनैवपूर्णचन्द्रेण सम्पूर्णधनवान्",
-          "english": "The full Moon alone in this house makes the native extremely wealthy.",
+          "english": "The full Chandra alone in this Bhava makes the native extremely wealthy.",
           "hindi": "केवल पूर्ण चन्द्रमा के यहाँ होने से ही जातक सम्पूर्ण धनवान होता है।",
           "status": "translated"
         },
@@ -885,7 +885,7 @@
         {
           "number": 15,
           "text": "लग्नाद्तृतीये चन्द्रफलं\nभगिनीसामान्यः वातशरीरी अन्नहीनः अल्पभाग्यः",
-          "english": "Moon in the third house: The native will have ordinary relations with sisters, have a windy temperament (Vata), lack sufficient food, and be less fortunate.",
+          "english": "Chandra in 3rd Bhava: The native will have ordinary relations with sisters, have a windy temperament (Vata), lack sufficient food, and be less fortunate.",
           "hindi": "तृतीय भाव में चन्द्रमा का फल: जातक की बहनें सामान्य होंगी, उसका शरीर वात प्रकृति का होगा, वह अन्नहीन और अल्प भाग्यशाली होगा।",
           "status": "translated"
         },
@@ -913,7 +913,7 @@
         {
           "number": 19,
           "text": "लग्नाच्चतुर्थे चन्द्रफलं\nराज्याभिषिक्तः अश्ववान् क्षीरसमृद्धिः धनधान्यसमृद्धिः\nमातृरोगी",
-          "english": "Moon in the fourth house: The native will be crowned like a king, possess horses, have an abundance of milk, wealth, and food grains, but his mother may be sickly.",
+          "english": "Chandra in 4th Bhava: The native will be crowned like a king, possess horses, have an abundance of milk, wealth, and food grains, but his mother may be sickly.",
           "hindi": "चतुर्थ भाव में चन्द्रमा का फल: जातक का राज्याभिषेक होगा (उच्च पद मिलेगा), उसके पास घोड़े होंगे, दूध, धन और धान्य की समृद्धि होगी, किंतु उसकी माता रोगी हो सकती है।",
           "status": "translated"
         },
@@ -934,28 +934,28 @@
         {
           "number": 22,
           "text": "पूर्णचन्द्रं स्वक्षेत्रे बलवान् मातृदीर्घायुः क्षीणचन्द्रे पापयुते\n                                           मातृनाशः",
-          "english": "If it is a full Moon, in its own sign, and strong, the mother will have a long life. If it is a waning Moon associated with malefics, the mother will face an early death.",
+          "english": "If it is a full Chandra, in its own Rashi, and strong, the mother will have a long life. If it is a waning Chandra associated with malefics, the mother will face an early death.",
           "hindi": "यदि पूर्ण चन्द्रमा स्वराशि में और बली हो, तो माता दीर्घायु होती है। यदि क्षीण चन्द्रमा पाप ग्रहों के साथ हो, तो माता का नाश (अल्पायु) होता है।",
           "status": "translated"
         },
         {
           "number": 23,
           "text": "वाहनहीनः बलयुते वाहनसिद्धिः",
-          "english": "He may lack vehicles, but if the Moon is strong, he will acquire vehicles.",
+          "english": "He may lack vehicles, but if Chandra is strong, he will acquire vehicles.",
           "hindi": "वह वाहनहीन हो सकता है, किंतु चन्द्रमा के बली होने पर उसे वाहन की प्राप्ति होती है।",
           "status": "translated"
         },
         {
           "number": 24,
           "text": "भावाधिपे स्वोच्चे अनेकाश्वादिवाहनसिद्धिः",
-          "english": "If the lord of the 4th house is exalted, the native will possess many horses and other vehicles.",
+          "english": "If the lord of 4th Bhava is exalted, the native will possess many horses and other vehicles.",
           "hindi": "यदि चतुर्थेश अपनी उच्च राशि में हो, तो जातक को अनेक घोड़ों और अन्य वाहनों की प्राप्ति होती है।",
           "status": "translated"
         },
         {
           "number": 25,
           "text": "लग्नात्पञ्चमे चन्द्रफलं\nस्त्रीदेवतासिद्धिः भार्यारूपवती",
-          "english": "Moon in the fifth house: The native will attain 'Siddhi' (divine favor) of a goddess, and his wife will be beautiful.",
+          "english": "Chandra in 5th Bhava: The native will attain 'Siddhi' (divine favor) of a goddess, and his wife will be beautiful.",
           "hindi": "पंचम भाव में चन्द्रमा का फल: जातक को स्त्री-देवता (देवी) की सिद्धि प्राप्त होती है और उसकी पत्नी रूपवती होती है।",
           "status": "translated"
         },
@@ -1004,14 +1004,14 @@
         {
           "number": 32,
           "text": "पूर्णचन्द्रे बलवान् अन्नदानप्रीतिः अनेकबुधप्रसादैश्वर्यसम्पन्नः\n     सत्कर्मकृत् भाग्यसमृद्धिः राजयोगी ज्ञानवान्",
-          "english": "If it is a full and strong Moon, he will be fond of food charity, endowed with wealth through the grace of many wise men, a doer of good deeds, prosperous, a Raja Yogi, and wise.",
+          "english": "If it is a full and strong Chandra, he will be fond of food charity, endowed with wealth through the grace of many wise men, a doer of good deeds, prosperous, a Raja Yogi, and wise.",
           "hindi": "यदि पूर्ण और बली चन्द्रमा हो, तो वह अन्न दान का प्रेमी, अनेक विद्वानों की कृपा से ऐश्वर्य संपन्न, सत्कर्म करने वाला, भाग्यवान, राजयोगी और ज्ञानवान होता है।",
           "status": "translated"
         },
         {
           "number": 33,
           "text": "लग्नात्षष्ठे चन्द्रफलं\nअधिकदारिद्र्यदेही",
-          "english": "Moon in the sixth house: The native will suffer from extreme poverty.",
+          "english": "Chandra in 6th Bhava: The native will suffer from extreme poverty.",
           "hindi": "षष्ठ भाव में चन्द्रमा का फल: जातक अत्यधिक दरिद्रता (गरीबी) से ग्रस्त होता है।",
           "status": "translated"
         },
@@ -1053,7 +1053,7 @@
         {
           "number": 39,
           "text": "क्षीणचन्द्रे पुर्णफलानि",
-          "english": "The results mentioned above are especially true if it is a waning Moon (Ksheena Chandra).",
+          "english": "The results mentioned above are especially true if it is a waning Chandra (Ksheena Chandra).",
           "hindi": "यदि चन्द्रमा क्षीण हो, तो उपर्युक्त फल पूर्ण रूप से घटित होते हैं।",
           "status": "translated"
         },
@@ -1067,7 +1067,7 @@
         {
           "number": 41,
           "text": "लग्नात्सप्तमे चन्द्रफलं\nमृदुभाषी पार्श्वनेत्रः द्वात्रिंशद्वर्षे स्त्रीयुक्तः",
-          "english": "Moon in the seventh house: The native will be soft-spoken, may have a squint in the eyes, and will be married/associated with a woman in the 32nd year.",
+          "english": "Chandra in 7th Bhava: The native will be soft-spoken, may have a squint in the eyes, and will be married/associated with a woman in the 32nd year.",
           "hindi": "सप्तम भाव में चन्द्रमा का फल: जातक मृदुभाषी, तिरछी नजर वाला (पार्श्व-नेत्र) होगा और 32वें वर्ष में स्त्री-युक्त (विवाहित) होगा।",
           "status": "translated"
         },
@@ -1088,14 +1088,14 @@
         {
           "number": 44,
           "text": "भावाधिपे बलयुते स्त्रीद्वयम्",
-          "english": "If the lord of the 7th house is strong, the native may have two wives.",
+          "english": "If the lord of 7th Bhava is strong, the native may have two wives.",
           "hindi": "यदि सप्तमेश बली हो, तो जातक की दो पत्नियाँ हो सकती हैं।",
           "status": "translated"
         },
         {
           "number": 45,
           "text": "क्षीणचन्द्रे कलत्रनाशः पूर्णचन्द्रे बलयुते\n     स्वोच्चे एकदारवान्",
-          "english": "If it is a waning Moon, there will be loss of the spouse. If it is a full Moon, strong, or in its exaltation, he will have only one wife.",
+          "english": "If it is a waning Chandra, there will be loss of the spouse. If it is a full Chandra, strong, or in its exaltation, he will have only one wife.",
           "hindi": "यदि चन्द्रमा क्षीण हो, तो पत्नी का नाश होता. यदि पूर्ण चन्द्रमा, बली या अपनी उच्च राशि में हो, तो जातक की एक ही पत्नी होती है।",
           "status": "translated"
         },
@@ -1109,7 +1109,7 @@
         {
           "number": 47,
           "text": "लग्नादष्टमे चन्द्रफलं\nअल्पवाहनवान्",
-          "english": "Moon in the eighth house: The native will possess few vehicles.",
+          "english": "Chandra in 8th Bhava: The native will possess few vehicles.",
           "hindi": "अष्टम भाव में चन्द्रमा का फल: जातक के पास वाहन कम होते हैं।",
           "status": "translated"
         },
@@ -1130,14 +1130,14 @@
         {
           "number": 50,
           "text": "स्वर्क्षे स्वोच्चे दीर्घायुः क्षीणे वा मध्यमायुः",
-          "english": "If the Moon is in its own sign or exalted, the native will have a long life. If it is a waning Moon, he will have a medium lifespan.",
+          "english": "If Chandra is in its own Rashi or exalted, the native will have a long life. If it is a waning Chandra, he will have a medium lifespan.",
           "hindi": "यदि चन्द्रमा अपनी राशि या उच्च राशि में हो, तो जातक दीर्घायु होता है। यदि चन्द्रमा क्षीण हो, तो मध्यम आयु होती है।",
           "status": "translated"
         },
         {
           "number": 51,
           "text": "लग्नान्नवमे चन्द्रफलं\nबहुश्रुतवान् पुण्यवान्",
-          "english": "Moon in the ninth house: The native will be highly learned and virtuous/pious.",
+          "english": "Chandra in 9th Bhava: The native will be highly learned and virtuous/pious.",
           "hindi": "नवम भाव में चन्द्रमा का फल: जातक बहुश्रुत (विद्वान) और पुण्यवान होता है।",
           "status": "translated"
         },
@@ -1158,7 +1158,7 @@
         {
           "number": 54,
           "text": "पूर्णचन्द्रे बलयुते बहुभाग्यवान्",
-          "english": "If it is a full and strong Moon, the native will be extremely fortunate.",
+          "english": "If it is a full and strong Chandra, the native will be extremely fortunate.",
           "hindi": "यदि पूर्ण और बली चन्द्रमा हो, तो जातक बहुत भाग्यवान होता है।",
           "status": "translated"
         },
@@ -1172,7 +1172,7 @@
         {
           "number": 56,
           "text": "पापयुते पापक्षेत्रे भाग्यहीनः",
-          "english": "If associated with malefics or in a malefic sign, the native will be unfortunate.",
+          "english": "If associated with malefics or in a malefic Rashi, the native will be unfortunate.",
           "hindi": "यदि पाप ग्रहों से युक्त हो या पाप राशि में हो, तो जातक भाग्यहीन होता है।",
           "status": "translated"
         },
@@ -1186,7 +1186,7 @@
         {
           "number": 58,
           "text": "लग्नाद्दशमे चन्द्रफलं\nविद्यावान्",
-          "english": "Moon in the tenth house: The native will be highly educated/learned.",
+          "english": "Chandra in 10th Bhava: The native will be highly educated/learned.",
           "hindi": "दशम भाव में चन्द्रमा का फल: जातक विद्यावान (विद्वान) होता है।",
           "status": "translated"
         },
@@ -1214,7 +1214,7 @@
         {
           "number": 62,
           "text": "भावाधिपे बलयुते विशेसत्कर्मसिद्धिः",
-          "english": "If the lord of the 10th house is strong, the native will achieve great success in virtuous deeds.",
+          "english": "If the lord of 10th Bhava is strong, the native will achieve great success in virtuous deeds.",
           "hindi": "यदि दशमेश बली हो, तो जातक को सत्कर्मों में विशेष सफलता प्राप्त होती है।",
           "status": "translated"
         },
@@ -1235,7 +1235,7 @@
         {
           "number": 65,
           "text": "लग्नादेकादशे चन्द्रफलं\nबहुश्रुतवान् पुत्रवान् उपकारि",
-          "english": "Moon in the eleventh house: The native will be highly learned, have children, and be helpful/beneficent to others.",
+          "english": "Chandra in 11th Bhava: The native will be highly learned, have children, and be helpful/beneficent to others.",
           "hindi": "एकादश भाव में चन्द्रमा का फल: जातक बहुश्रुत (विद्वान), पुत्रवान (संतान सुख युक्त) और उपकारी (दूसरों की सहायता करने वाला) होता है।",
           "status": "translated"
         },
@@ -1256,28 +1256,28 @@
         {
           "number": 68,
           "text": "भावाधिपे बलहीने बहुधन व्ययः",
-          "english": "If the lord of the 11th house is weak, the native will face heavy expenditure of wealth.",
+          "english": "If the lord of 11th Bhava is weak, the native will face heavy expenditure of wealth.",
           "hindi": "यदि एकादशेश निर्बल हो, तो जातक का बहुत धन व्यय होता है।",
           "status": "translated"
         },
         {
           "number": 69,
           "text": "बलयुते लाभवान्",
-          "english": "If the house lord is strong, the native will be very profitable/gaining.",
+          "english": "If the Bhava lord is strong, the native will be very profitable/gaining.",
           "hindi": "यदि भावेश बली हो, तो जातक को लाभ प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 70,
           "text": "लाभेचन्द्रे निक्षेपलाभः",
-          "english": "Moon in the 11th house brings gains from hidden wealth or deposits.",
+          "english": "Chandra in 11th Bhava brings gains from hidden wealth or deposits.",
           "hindi": "एकादश भाव में चन्द्रमा होने से निक्षेप (जमा पूंजी या गड़ा धन) का लाभ होता है।",
           "status": "translated"
         },
         {
           "number": 71,
           "text": "शुक्रयुतेन नरवाहन योग",
-          "english": "If associated with Venus, the native will enjoy the 'Nara-vahana Yoga' (palanquins or high-status vehicles).",
+          "english": "If associated with Shukra, the native will enjoy the 'Nara-vahana Yoga' (palanquins or high-status vehicles).",
           "hindi": "यदि शुक्र के साथ हो, तो नर-वाहन योग (पालकी या उच्च श्रेणी के वाहन का सुख) प्राप्त होता है।",
           "status": "translated"
         },
@@ -1298,7 +1298,7 @@
         {
           "number": 74,
           "text": "लग्नाद्द्वादशे चन्द्रफलं\nदुर्भोजनः दुष्पात्रव्ययः कोपोद्भवव्यसन समृद्धिमान्\nस्त्रीयोगयुक्तः अन्न हीनः",
-          "english": "Moon in the twelfth house: The native will have poor food, spend wealth on unworthy causes, be afflicted by vices born of anger, yet possess some prosperity. He will be associated with women and may face shortage of grains/food.",
+          "english": "Chandra in 12th Bhava: The native will have poor food, spend wealth on unworthy causes, be afflicted by vices born of anger, yet possess some prosperity. He will be associated with women and may face shortage of grains/food.",
           "hindi": "द्वादश भाव में चन्द्रमा का फल: जातक को खराब भोजन प्राप्त होता है, वह अपात्रों पर धन व्यय करता है, क्रोध जनित व्यसनों से ग्रस्त होता है, फिर भी समृद्धिशाली होता है। वह स्त्री-योग युक्त होगा और अन्न की कमी से जूझ सकता है।",
           "status": "translated"
         },
@@ -1318,7 +1318,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने भौमफलं\nदेहे व्रणं भवति",
-          "english": "Mars in the first house: The native will have scars or wounds on the body.",
+          "english": "Mangala in 1st Bhava (Lagna): The native will have scars or wounds on the body.",
           "hindi": "प्रथम भाव (लग्न) में मंगल का फल: जातक के शरीर पर घाव या चोट के निशान (व्रण) होते हैं।",
           "status": "translated"
         },
@@ -1332,7 +1332,7 @@
         {
           "number": 3,
           "text": "स्वोच्चे स्वक्षेत्रे आरोग्यं दृढ्गात्रवान् राजसन्मान कीर्तिः",
-          "english": "If in its exaltation or own sign, the native will be healthy, have a strong body, receive honors from the king/government, and be famous.",
+          "english": "If in its exaltation or own Rashi, the native will be healthy, have a strong body, receive honors from the king/government, and be famous.",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो जातक आरोग्यवान (निरोगी), सुदृढ़ शरीर वाला, राज-सम्मान प्राप्त करने वाला और कीर्तिमान होता है।",
           "status": "translated"
         },
@@ -1374,21 +1374,21 @@
         {
           "number": 9,
           "text": "तत्र पापयुते पापक्षेत्रे पापदृष्टियुते नेत्र रोगः",
-          "english": "If associated with malefics, in a malefic sign, or aspected by malefics, the native will suffer from eye diseases.",
+          "english": "If associated with malefics, in a malefic Rashi, or aspected by malefics, the native will suffer from eye diseases.",
           "hindi": "यदि पाप ग्रहों से युक्त, पाप राशि में या पाप ग्रहों से दृष्ट हो, तो जातक को नेत्र रोग होता है।",
           "status": "translated"
         },
         {
           "number": 10,
           "text": "लग्नाद्वितीये भौमफलं\nविद्याहीनः लाभवान्",
-          "english": "Mars in the second house: The native will be lacking in education but will be gainful.",
+          "english": "Mangala in 2nd Bhava: The native will be lacking in education but will be gainful.",
           "hindi": "द्वितीय भाव में मंगल का फल: जातक विद्याहीन (शिक्षा में कमी वाला) होता है, किंतु उसे लाभ प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 11,
           "text": "पष्ठाधिपेनयुतः तिष्ठति चेन्नेत्रवैपरीत्यं भवति",
-          "english": "If associated with the lord of the 6th house, there will be eye defects or vision problems.",
+          "english": "If associated with the lord of 6th Bhava, there will be eye defects or vision problems.",
           "hindi": "यदि षष्ठेश के साथ हो, तो नेत्रों में दोष (तिरछापन या दृष्टि विकार) होता है।",
           "status": "translated"
         },
@@ -1402,7 +1402,7 @@
         {
           "number": 13,
           "text": "स्वोच्चे स्वक्षेत्रे विद्यावान्",
-          "english": "If in its exaltation or own sign, the native will be learned.",
+          "english": "If in its exaltation or own Rashi, the native will be learned.",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो जातक विद्यावान होता है।",
           "status": "translated"
         },
@@ -1416,14 +1416,14 @@
         {
           "number": 15,
           "text": "तत्र पापयुतेक्षेत्रे पापदृष्टे नेत्ररोगः",
-          "english": "If associated with or aspected by malefics in a malefic sign, the native will suffer from eye diseases.",
+          "english": "If associated with or aspected by malefics in a malefic Rashi, the native will suffer from eye diseases.",
           "hindi": "यदि पाप ग्रहों से युक्त या दृष्ट हो, तो जातक को नेत्र रोग होता है।",
           "status": "translated"
         },
         {
           "number": 16,
           "text": "लग्नात्तृतीये भौमफलं\nस्वस्त्री व्यभिचारिणी",
-          "english": "Mars in the third house: The native's own wife may be unchaste or have loose conduct.",
+          "english": "Mangala in 3rd Bhava: The native's own wife may be unchaste or have loose conduct.",
           "hindi": "तृतीय भाव में मंगल का फल: जातक की अपनी पत्नी व्यभिचारिणी (चरित्रहीन) हो सकती है।",
           "status": "translated"
         },
@@ -1472,7 +1472,7 @@
         {
           "number": 23,
           "text": "उच्चस्वक्षेत्रे शुभयुते भ्राता दीर्घायुः धैर्यविक्रमवान्",
-          "english": "If in its exaltation or own sign, or associated with benefics, the native's brothers will have long lives, and he himself will be courageous and powerful.",
+          "english": "If in its exaltation or own Rashi, or associated with benefics, the native's brothers will have long lives, and he himself will be courageous and powerful.",
           "hindi": "यदि उच्च का, स्वराशि का या शुभ ग्रहों से युक्त हो, तो भाई दीर्घायु होते हैं और जातक स्वयं धैर्यवान तथा पराक्रमी होता है।",
           "status": "translated"
         },
@@ -1486,14 +1486,14 @@
         {
           "number": 25,
           "text": "पापयुते मित्रक्षेत्रे धृतिमान्",
-          "english": "If associated with malefics but in a friendly sign, the native will remain firm and resolute.",
+          "english": "If associated with malefics but in a friendly Rashi, the native will remain firm and resolute.",
           "hindi": "यदि पाप ग्रहों के साथ हो किंतु मित्र राशि में हो, तो जातक धृतिमान (धैर्यवान) होता है।",
           "status": "translated"
         },
         {
           "number": 26,
           "text": "लग्नाच्चतुर्थे भौमफलं\nग्रहच्छिद्रम्",
-          "english": "Mars in the fourth house: There will be internal family disputes or 'holes' (flaws) in the household.",
+          "english": "Mangala in 4th Bhava: There will be internal family disputes or 'holes' (flaws) in the household.",
           "hindi": "चतुर्थ भाव में मंगल का फल: घर में कलह या पारिवारिक छिद्र (दोष) होते हैं।",
           "status": "translated"
         },
@@ -1507,28 +1507,28 @@
         {
           "number": 28,
           "text": "सौम्ययुते परगृहवासः",
-          "english": "If associated with Mercury (Saumya), the native will reside in other people's houses.",
+          "english": "If associated with Budha (Saumya), the native will reside in other people's Bhavas.",
           "hindi": "यदि बुध (सौम्य) के साथ हो, तो जातक दूसरों के घर में निवास करता है।",
           "status": "translated"
         },
         {
           "number": 29,
           "text": "निरोगशरीरी क्षेत्रहीनः धनधान्यहीनः जीर्णगृहवासः",
-          "english": "He will have a disease-free body but be devoid of lands, wealth, and grains, and live in a dilapidated house.",
+          "english": "He will have a disease-free body but be devoid of lands, wealth, and grains, and live in a dilapidated Bhava.",
           "hindi": "उसका शरीर निरोगी होगा, किंतु वह भूमि, धन और धान्य से हीन होगा और पुराने/टूटे हुए घर में रहेगा।",
           "status": "translated"
         },
         {
           "number": 30,
           "text": "उच्चे स्वक्षेत्रे शुभयुते मित्रक्षेत्रे\n     वाहनवान् क्षेत्रवान् मातृदीर्घायुः",
-          "english": "If in its exaltation, own sign, or friendly sign, and associated with benefics, the native will possess vehicles and lands, and the mother will have a long life.",
+          "english": "If in its exaltation, own Rashi, or friendly Rashi, and associated with benefics, the native will possess vehicles and lands, and the mother will have a long life.",
           "hindi": "यदि उच्च का, स्वराशि का या मित्र राशि का होकर शुभ ग्रहों से युक्त हो, तो जातक वाहन और भूमि का स्वामी होता है और माता दीर्घायु होती है।",
           "status": "translated"
         },
         {
           "number": 31,
           "text": "नीचर्क्षे पापमृत्युयुते मातृनाशः",
-          "english": "If in its sign of debilitation or associated with death-inflicting malefics, there will be loss of the mother.",
+          "english": "If in its Rashi of debilitation or associated with death-inflicting malefics, there will be loss of the mother.",
           "hindi": "यदि नीच राशि में हो या मृत्युकारक पाप ग्रहों के साथ हो, तो माता का नाश होता है।",
           "status": "translated"
         },
@@ -1549,7 +1549,7 @@
         {
           "number": 34,
           "text": "लग्नात्पञ्चमे भौमफलं\nनिर्धनः पुत्राभावः दुर्मार्गी राजकोपः",
-          "english": "Mars in the fifth house: The native will be poor, childless, follow an evil path, and incur royal/governmental displeasure.",
+          "english": "Mangala in 5th Bhava: The native will be poor, childless, follow an evil path, and incur royal/governmental displeasure.",
           "hindi": "पंचम भाव में मंगल का फल: जातक निर्धन, संतानहीन, कुमार्गगामी (गलत रास्ते पर चलने वाला) और राज-दंड का पात्र होता है।",
           "status": "translated"
         },
@@ -1584,7 +1584,7 @@
         {
           "number": 39,
           "text": "उच्चे स्वक्षेत्रे पुत्रसमृद्धिः अन्नदानप्रियः",
-          "english": "If in its exaltation or own sign, there will be abundance of children, and the native will be fond of distributing food.",
+          "english": "If in its exaltation or own Rashi, there will be abundance of children, and the native will be fond of distributing food.",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो संतान की समृद्धि होती है और जातक अन्न-दान करने का प्रेमी होता है।",
           "status": "translated"
         },
@@ -1598,7 +1598,7 @@
         {
           "number": 41,
           "text": "पापयुते पापक्षेत्रे पुत्रनाशः",
-          "english": "If associated with malefics or in a malefic sign, there will be loss of children.",
+          "english": "If associated with malefics or in a malefic Rashi, there will be loss of children.",
           "hindi": "यदि पाप ग्रहों से युक्त या पाप राशि में हो, तो संतान का नाश होता है।",
           "status": "translated"
         },
@@ -1612,7 +1612,7 @@
         {
           "number": 43,
           "text": "रन्ध्रेशे पापयुते पापी",
-          "english": "If the lord of the 8th house (Randhresha) is associated with malefics here, the native will be sinful.",
+          "english": "If the lord of 8th Bhava (Randhresha) is associated with malefics here, the native will be sinful.",
           "hindi": "यदि अष्टमेश पाप ग्रहों के साथ यहाँ स्थित हो, तो जातक पापी होता है।",
           "status": "translated"
         },
@@ -1633,7 +1633,7 @@
         {
           "number": 46,
           "text": "लग्नात्षष्ठे भौमफलं\nप्रसिद्धः",
-          "english": "Mars in the sixth house: The native will be famous.",
+          "english": "Mangala in 6th Bhava: The native will be famous.",
           "hindi": "षष्ठ भाव में मंगल का फल: जातक प्रसिद्ध (विख्यात) होता है।",
           "status": "translated"
         },
@@ -1661,7 +1661,7 @@
         {
           "number": 50,
           "text": "पापर्क्षे पापयुते पूर्णफलानि",
-          "english": "If in a malefic sign or associated with malefics, the results mentioned above will be fully manifest.",
+          "english": "If in a malefic Rashi or associated with malefics, the results mentioned above will be fully manifest.",
           "hindi": "यदि पाप राशि में हो या पाप ग्रहों से युक्त हो, तो उपर्युक्त फल पूर्ण रूप से प्राप्त होते हैं।",
           "status": "translated"
         },
@@ -1675,7 +1675,7 @@
         {
           "number": 52,
           "text": "बुधक्षेत्र युते कुष्ठरोगः",
-          "english": "If in the signs of Mercury (Gemini/Virgo), the native may suffer from leprosy or skin diseases.",
+          "english": "If in the Rashis of Budha (Mithuna/Kanya), the native may suffer from leprosy or skin diseases.",
           "hindi": "यदि बुध की राशि (मिथुन या कन्या) में हो, तो जातक को कुष्ठ रोग (या चर्म रोग) हो सकता है।",
           "status": "translated"
         },
@@ -1689,14 +1689,14 @@
         {
           "number": 54,
           "text": "लग्नात्सप्तमे भौमफलं\nस्वदार पीडा",
-          "english": "Mars in the seventh house: The native's wife will suffer or cause him distress.",
+          "english": "Mangala in 7th Bhava: The native's wife will suffer or cause him distress.",
           "hindi": "सप्तम भाव में मंगल का फल: जातक की पत्नी को कष्ट होता है या वह जातक के लिए पीड़ा का कारण बनती है।",
           "status": "translated"
         },
         {
           "number": 55,
           "text": "पापार्ते पापयुतेन च स्वर्क्षे स्वदार हानिः",
-          "english": "If afflicted by malefics, associated with malefics, or in its own sign, there will be loss of the wife.",
+          "english": "If afflicted by malefics, associated with malefics, or in its own Rashi, there will be loss of the wife.",
           "hindi": "यदि पाप ग्रहों से पीड़ित, पाप ग्रहों से युक्त या अपनी ही राशि में हो, तो पत्नी की हानि होती है।",
           "status": "translated"
         },
@@ -1717,7 +1717,7 @@
         {
           "number": 58,
           "text": "उच्चमित्र स्वक्षेत्र शुभयुते पापक्षेत्रे ईक्षणवशात्कलत्र\n                                           नाशः",
-          "english": "If in its exaltation, own sign, or friendly sign, and associated with benefics, yet aspected by malefics in a malefic sign, there will be loss of the wife.",
+          "english": "If in its exaltation, own Rashi, or friendly Rashi, and associated with benefics, yet aspected by malefics in a malefic Rashi, there will be loss of the wife.",
           "hindi": "यदि उच्च का, स्वराशि का या मित्र राशि का होकर शुभ ग्रहों से युक्त हो, किंतु पाप राशि में स्थित पाप ग्रहों से दृष्ट हो, तो पत्नी का नाश होता है।",
           "status": "translated"
         },
@@ -1745,7 +1745,7 @@
         {
           "number": 62,
           "text": "मन्दयुते दृष्टे शिश्नचुम्बन परः",
-          "english": "If associated with or aspected by Saturn (Manda), he will be inclined towards oral sex (Shishna-chumbana).",
+          "english": "If associated with or aspected by Shani (Manda), he will be inclined towards oral sex (Shishna-chumbana).",
           "hindi": "यदि शनि (मंद) के साथ हो या उससे दृष्ट हो, तो वह लिंग-चुम्बन (कामुक विकृति) में रत होगा।",
           "status": "translated"
         },
@@ -1773,7 +1773,7 @@
         {
           "number": 66,
           "text": "लग्नादष्टमे भौमफलं\nनेत्ररोगी अर्धायुः पित्रारिष्टं मूत्रकृच्छृरोगः",
-          "english": "Mars in the eighth house: The native will have eye diseases, a medium lifespan, suffer from father's death/crisis, and diseases of the urinary tract (Mutrakriccha).",
+          "english": "Mangala in 8th Bhava: The native will have eye diseases, a medium lifespan, suffer from father's death/crisis, and diseases of the urinary tract (Mutrakriccha).",
           "hindi": "अष्टम भाव में मंगल का फल: जातक नेत्र रोगी होता है, उसकी आयु मध्यम (अर्धायु) होती है, पिता को अरिष्ट (संकट) होता है और वह मूत्र-कृच्छ (पेशाब में जलन/कठिनाई) रोग से पीड़ित होता है।",
           "status": "translated"
         },
@@ -1794,7 +1794,7 @@
         {
           "number": 69,
           "text": "पापक्षेत्रे पापयुते ईक्षणवशाद् वातक्षयादिरोगः\n                                           मुत्रकृच्छृधिक्यं वा",
-          "english": "If in a malefic sign, associated with or aspected by malefics, he will suffer from wind diseases, consumption (Kshaya), or severe urinary disorders.",
+          "english": "If in a malefic Rashi, associated with or aspected by malefics, he will suffer from wind diseases, consumption (Kshaya), or severe urinary disorders.",
           "hindi": "यदि पाप राशि में हो, पाप ग्रहों से युक्त या दृष्ट हो, तो वात-रोग, क्षय (टी.बी.) या अत्यधिक मूत्र-कृच्छ रोग होता है।",
           "status": "translated"
         },
@@ -1808,14 +1808,14 @@
         {
           "number": 71,
           "text": "भावाधिपबलयुते पूणोयुः",
-          "english": "If the lord of the 8th house is strong, the native will have a full lifespan.",
+          "english": "If the lord of 8th Bhava is strong, the native will have a full lifespan.",
           "hindi": "यदि अष्टमेश बली हो, तो जातक पूर्णायु (दीर्घायु) होता है।",
           "status": "translated"
         },
         {
           "number": 72,
           "text": "लग्नान्नवमे भौमफलं\nपित्रारिष्टम्",
-          "english": "Mars in the ninth house: There will be crisis or early death for the father.",
+          "english": "Mangala in 9th Bhava: There will be crisis or early death for the father.",
           "hindi": "नवम भाव में मंगल का फल: पिता को अरिष्ट (मृत्यु या भारी कष्ट) होता है।",
           "status": "translated"
         },
@@ -1829,21 +1829,21 @@
         {
           "number": 74,
           "text": "उच्चस्वक्षेत्रे गुरुदारगः",
-          "english": "If in its exaltation or own sign, the native may have relations with the preceptor's wife (Guru-dara-ga).",
+          "english": "If in its exaltation or own Rashi, the native may have relations with the preceptor's wife (Guru-dara-ga).",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो जातक गुरु-पत्नी (या पूजनीय स्त्री) के साथ समागम करने वाला हो सकता है।",
           "status": "translated"
         },
         {
           "number": 75,
           "text": "लग्नाद्दशमे भौमफलं\nजनवल्लभः",
-          "english": "Mars in the tenth house: The native will be loved by the people (Jana-vallabha).",
+          "english": "Mangala in 10th Bhava: The native will be loved by the people (Jana-vallabha).",
           "hindi": "दशम भाव में मंगल का फल: जातक जन-प्रिय (लोगों का प्रिय) होता है।",
           "status": "translated"
         },
         {
           "number": 76,
           "text": "भावाधिपे बलयुते भ्राता दीर्घायुः",
-          "english": "If the lord of the 10th house is strong, the native's brother will have a long life.",
+          "english": "If the lord of 10th Bhava is strong, the native's brother will have a long life.",
           "hindi": "यदि दशमेश बली हो, तो जातक का भाई दीर्घायु होता है।",
           "status": "translated"
         },
@@ -1864,7 +1864,7 @@
         {
           "number": 79,
           "text": "शुभयुते शुभक्षेत्रे कर्मसिद्धिः",
-          "english": "If associated with benefics or in a benefic sign, he will achieve success in his deeds.",
+          "english": "If associated with benefics or in a benefic Rashi, he will achieve success in his deeds.",
           "hindi": "यदि शुभ ग्रहों से युक्त हो या शुभ राशि में हो, तो उसे कार्यों में सिद्धि प्राप्त होती है।",
           "status": "translated"
         },
@@ -1878,7 +1878,7 @@
         {
           "number": 81,
           "text": "सर्वसमर्थः दृढगात्र चोरबुद्धिः पापयुते\n     पापक्षेत्रे कर्मविघ्नकरः",
-          "english": "He will be capable and have a strong body, but may have a thieving mind. If in a malefic sign or with malefics, he faces many professional obstacles.",
+          "english": "He will be capable and have a strong body, but may have a thieving mind. If in a malefic Rashi or with malefics, he faces many professional obstacles.",
           "hindi": "वह सब प्रकार से समर्थ और सुदृढ़ शरीर वाला होता है, किंतु उसकी बुद्धि चोर की (छलपूर्ण) हो सकती है। पाप राशि या पाप ग्रहों के साथ होने पर कार्यों में विघ्न आते हैं।",
           "status": "translated"
         },
@@ -1892,14 +1892,14 @@
         {
           "number": 83,
           "text": "भाग्येश कर्मेशयुते महाराजयौवराज्ये पट्टभिषेकवान्",
-          "english": "If associated with the lords of the 9th (fortune) and 10th (action) houses, he attains high royal status or is coronated as a prince.",
+          "english": "If associated with the lords of the 9th (fortune) and 10th (action) Bhavas, he attains high royal status or is coronated as a prince.",
           "hindi": "यदि भाग्येश और कर्मेश के साथ हो, तो जातक महाराज पद प्राप्त करता है या युवराज के रूप में उसका पट्टाभिषेक होता है।",
           "status": "translated"
         },
         {
           "number": 84,
           "text": "गुरुयुते गजान्तैश्वर्यवान्",
-          "english": "If associated with Jupiter (Guru), he will possess immense wealth, including elephants (symbol of royal prosperity).",
+          "english": "If associated with Guru, he will possess immense wealth, including elephants (symbol of royal prosperity).",
           "hindi": "यदि गुरु से युक्त हो, तो जातक के पास गजान्त (हाथियों तक की समृद्धि वाला) ऐश्वर्य होता है।",
           "status": "translated"
         },
@@ -1913,14 +1913,14 @@
         {
           "number": 86,
           "text": "लग्नादेकादशे भौमफलं\nबहुकृत्यवान् धनी स्वगुणे राशुलाभवान्",
-          "english": "Mars in the eleventh house: The native will be multi-talented, wealthy, and gain quick profits through his own qualities.",
+          "english": "Mangala in 11th Bhava: The native will be multi-talented, wealthy, and gain quick profits through his own qualities.",
           "hindi": "एकादश भाव में मंगल का फल: जातक अनेक कार्यों को करने वाला, धनी और अपने गुणों से शीघ्र लाभ प्राप्त करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 87,
           "text": "क्षेत्रेशयुते राजाधिपत्यवान्",
-          "english": "If associated with the lord of the house (11th lord), he attains lordship or royal authority.",
+          "english": "If associated with the lord of the Bhava (11th lord), he attains lordship or royal authority.",
           "hindi": "यदि एकादशेश के साथ हो, तो जातक को राजकीय आधिपत्य प्राप्त होता है।",
           "status": "translated"
         },
@@ -1941,7 +1941,7 @@
         {
           "number": 90,
           "text": "लग्नाद्द्वादशे भौमफलं\nद्रव्याभावः वातपित्तदेहः",
-          "english": "Mars in the twelfth house: There will be a lack of wealth, and the body will be prone to wind and bile (Vata-Pitta) imbalances.",
+          "english": "Mangala in 12th Bhava: There will be a lack of wealth, and the body will be prone to wind and bile (Vata-Pitta) imbalances.",
           "hindi": "द्वादश भाव में मंगल का फल: जातक के पास धन का अभाव होता है और उसका शरीर वात-पित्त प्रकृति का होता है।",
           "status": "translated"
         },
@@ -1961,7 +1961,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने बुधफलं\nविद्यावान् विवाहादिबहुश्रुतवान्",
-          "english": "Mercury in the first house: The native will be learned (Vidyavan) and well-versed in rituals like marriage and many other subjects (Bahu-shrutavan).",
+          "english": "Budha in 1st Bhava (Lagna): The native will be learned (Vidyavan) and well-versed in rituals like marriage and many other subjects (Bahu-shrutavan).",
           "hindi": "प्रथम भाव (लग्न) में बुध का फल: जातक विद्यावान होता है और विवाह आदि संस्कारों तथा अनेक शास्त्रों का ज्ञाता (बहुश्रुत) होता है।",
           "status": "translated"
         },
@@ -1982,14 +1982,14 @@
         {
           "number": 4,
           "text": "पापयुते पापक्षेत्रे देहेरोगः पित्तपाण्डुरोगः",
-          "english": "If associated with or in the sign of malefics, there will be bodily diseases, specifically bile-related disorders or jaundice (Pandu-roga).",
+          "english": "If associated with or in the Rashi of malefics, there will be bodily diseases, specifically bile-related disorders or jaundice (Pandu-roga).",
           "hindi": "यदि पाप ग्रहों से युक्त हो या पाप राशि में हो, तो शरीर में रोग होते हैं, विशेषकर पित्त और पाण्डु (पीलिया) रोग।",
           "status": "translated"
         },
         {
           "number": 5,
           "text": "शुभयुते शुभक्षेत्रे देहारोग्यम्",
-          "english": "If associated with or in the sign of benefics, the native will enjoy physical health.",
+          "english": "If associated with or in the Rashi of benefics, the native will enjoy physical health.",
           "hindi": "यदि शुभ ग्रहों से युक्त हो या शुभ राशि में हो, तो जातक का शरीर निरोग और स्वस्थ रहता है।",
           "status": "translated"
         },
@@ -2017,7 +2017,7 @@
         {
           "number": 9,
           "text": "उच्चस्वक्षेत्रे भ्रातृसौख्यम्",
-          "english": "If in its exaltation or own sign, there will be happiness from brothers.",
+          "english": "If in its exaltation or own Rashi, there will be happiness from brothers.",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो भाइयों का सुख प्राप्त होता है।",
           "status": "translated"
         },
@@ -2031,7 +2031,7 @@
         {
           "number": 11,
           "text": "पापयुते पापदृष्टयुते नीचर्क्षे पापलोकं गमिष्यति",
-          "english": "If associated with malefics, aspected by them, or in its sign of debilitation, he will go to a lower world (Papa-lokam).",
+          "english": "If associated with malefics, aspected by them, or in its Rashi of debilitation, he will go to a lower world (Papa-lokam).",
           "hindi": "यदि पाप ग्रहों से युक्त या दृष्ट हो, अथवा नीच राशि में हो, तो वह पाप लोक को जाता है।",
           "status": "translated"
         },
@@ -2045,7 +2045,7 @@
         {
           "number": 13,
           "text": "पापमन्दादियुते वामनेत्रे हानिः\n     षष्ठेशयुते नीचेशयुते वा न दोषः",
-          "english": "If associated with malefics or Saturn, there will be loss of or injury to the left eye. If associated with the 6th lord or the debilitation lord, this defect is not present.",
+          "english": "If associated with malefics or Shani, there will be loss of or injury to the left eye. If associated with the 6th lord or the debilitation lord, this defect is not present.",
           "hindi": "यदि पाप ग्रहों या शनि के साथ हो, तो वाम (बाएँ) नेत्र की हानि होती है। यदि षष्ठेश या नीचेश के साथ हो, तो यह दोष नहीं होता।",
           "status": "translated"
         },
@@ -2080,7 +2080,7 @@
         {
           "number": 18,
           "text": "लग्नाद्द्वितीये बुधफलं\nपुत्र समृद्धिः वाचालकः वेदशास्त्रविचक्षणः\nसङ्कल्पसिद्धया संयुतः धनी गुणाढ्यः सद्गुणी\nपञ्चदशवर्शे बहुविद्यावान्",
-          "english": "Mercury in the second house: The native will have many sons, be talkative (Vachalaka), an expert in Vedic scriptures, possess the power of fulfillment of his resolutions, be wealthy, virtuous, and acquire vast knowledge by the age of 15.",
+          "english": "Budha in 2nd Bhava: The native will have many sons, be talkative (Vachalaka), an expert in Vedic scriptures, possess the power of fulfillment of his resolutions, be wealthy, virtuous, and acquire vast knowledge by the age of 15.",
           "hindi": "द्वितीय भाव में बुध का फल: जातक पुत्र-समृद्धि वाला, वाचाल (बोलने में कुशल), वेद-शास्त्रों में निपुण, संकल्प-सिद्धि वाला, धनी और सद्गुणी होता है। १५ वर्ष की आयु में वह महान विद्वान बन जाता है।",
           "status": "translated"
         },
@@ -2094,7 +2094,7 @@
         {
           "number": 20,
           "text": "पापयुते पापक्षेत्रे अरिनीचगे विद्याविहीनः",
-          "english": "If associated with or in the sign of malefics, or in the sign of an enemy or debilitation, the native will be devoid of learning.",
+          "english": "If associated with or in the Rashi of malefics, or in the Rashi of an enemy or debilitation, the native will be devoid of learning.",
           "hindi": "यदि पाप ग्रहों के साथ हो, पाप राशि में हो, शत्रु या नीच राशि में हो, तो जातक विद्याहीन होता है।",
           "status": "translated"
         },
@@ -2122,14 +2122,14 @@
         {
           "number": 24,
           "text": "गुरुणा युते वीक्षिते वा गणितशास्त्राधिकारेण सम्पन्नः",
-          "english": "If associated with or aspected by Jupiter (Guru), he will be highly proficient in mathematics and related authorities.",
+          "english": "If associated with or aspected by Guru, he will be highly proficient in mathematics and related authorities.",
           "hindi": "यदि गुरु से युक्त या दृष्ट हो, तो वह गणित शास्त्र में अधिकार प्राप्त (निपुण) होता है।",
           "status": "translated"
         },
         {
           "number": 25,
           "text": "लग्नात्तृतीये बुधफलं\nभ्रातृमान् बहुसौख्यवान्",
-          "english": "Mercury in the third house: The native will have brothers and enjoy much happiness.",
+          "english": "Budha in 3rd Bhava: The native will have brothers and enjoy much happiness.",
           "hindi": "तृतीय भाव में बुध का फल: जातक भाइयों वाला और बहुत सुखी होता है।",
           "status": "translated"
         },
@@ -2157,28 +2157,28 @@
         {
           "number": 29,
           "text": "भावाधिपे बलयुते दीर्घायुः धैर्यवान्",
-          "english": "If the lord of the 3rd house is strong, the native will have a long life and be courageous.",
+          "english": "If the lord of 3rd Bhava is strong, the native will have a long life and be courageous.",
           "hindi": "यदि तृतीयेश बली हो, तो जातक दीर्घायु और धैर्यवान होता है।",
           "status": "translated"
         },
         {
           "number": 30,
           "text": "भावाधिपे भ्रातृपीडा भीतिमान्",
-          "english": "If the lord of the 3rd house is weak or afflicted, there will be suffering to brothers, and the native will be fearful.",
+          "english": "If the lord of 3rd Bhava is weak or afflicted, there will be suffering to brothers, and the native will be fearful.",
           "hindi": "यदि तृतीयेश (निर्बल या पीड़ित) हो, तो भाइयों को कष्ट होता है और जातक भयभीत (डरपोक) स्वभाव का होता है।",
           "status": "translated"
         },
         {
           "number": 31,
           "text": "बलयुते भ्राता दीर्घायुः",
-          "english": "If the planet is strong, the brother will have a long life.",
+          "english": "If the Graha is strong, the brother will have a long life.",
           "hindi": "यदि बली हो, तो भाई दीर्घायु होता है।",
           "status": "translated"
         },
         {
           "number": 32,
           "text": "लग्नाच्चतुर्थे बुधफलं\nहस्तचापल्यवान् धैर्यवान् विशालाक्षः पितृमातृसौख्ययुतः",
-          "english": "Mercury in the fourth house: The native will have manual dexterity, be courageous, have broad eyes, and enjoy happiness from both parents.",
+          "english": "Budha in 4th Bhava: The native will have manual dexterity, be courageous, have broad eyes, and enjoy happiness from both parents.",
           "hindi": "चतुर्थ भाव में बुध का फल: जातक हस्त-कौशल वाला, धैर्यवान, विशाल नेत्रों वाला और माता-पिता के सुख से युक्त होता है।",
           "status": "translated"
         },
@@ -2199,14 +2199,14 @@
         {
           "number": 35,
           "text": "भावाधिपे बलयुते आन्दोलिका प्राप्तिः",
-          "english": "If the lord of the 4th house is strong, the native will attain high status, symbolized by a palanquin (Andolika).",
+          "english": "If the lord of 4th Bhava is strong, the native will attain high status, symbolized by a palanquin (Andolika).",
           "hindi": "यदि चतुर्थेश बली हो, तो जातक को आन्दोलिका (पालकी या उच्च वाहन) की प्राप्ति होती है।",
           "status": "translated"
         },
         {
           "number": 36,
           "text": "राहुकेतुशनियुते वाहनारिष्टवान्",
-          "english": "If associated with Rahu, Ketu, or Saturn, there will be crisis or loss regarding vehicles.",
+          "english": "If associated with Rahu, Ketu, or Shani, there will be crisis or loss regarding vehicles.",
           "hindi": "यदि राहु, केतु या शनि के साथ हो, तो वाहन का अरिष्ट (दुर्घटना या हानि) होता है।",
           "status": "translated"
         },
@@ -2220,14 +2220,14 @@
         {
           "number": 38,
           "text": "लग्नात्पञ्चमे बुधफलं\nमातुलगण्डः मात्रादिसौख्यम्पुत्र विघ्नमेधावी\nमधुरभाषी बुद्धिमान्",
-          "english": "Mercury in the fifth house: There is a crisis for the maternal uncle, but happiness from the mother. There may be obstacles regarding sons, yet the native is intelligent and wise.",
+          "english": "Budha in 5th Bhava: There is a crisis for the maternal uncle, but happiness from the mother. There may be obstacles regarding sons, yet the native is intelligent and wise.",
           "hindi": "पञ्चम भाव में बुध का फल: मामा को अरिष्ट होता है, किंतु माता का सुख मिलता है। पुत्र प्राप्ति में विघ्न हो सकते हैं, किंतु जातक मेधावी और बुद्धिमान होता है।",
           "status": "translated"
         },
         {
           "number": 39,
           "text": "भावाधिपे पापयुते बलहीने पुत्रनाशः",
-          "english": "If the lord of the 5th house is associated with malefics or is weak, there will be loss of sons.",
+          "english": "If the lord of 5th Bhava is associated with malefics or is weak, there will be loss of sons.",
           "hindi": "यदि पञ्चमेश पाप ग्रहों से युक्त या निर्बल हो, तो पुत्रों का नाश होता है।",
           "status": "translated"
         },
@@ -2241,7 +2241,7 @@
         {
           "number": 41,
           "text": "लग्नात्षष्ठे बुधफलं\nराजपूज्यः विद्याविघ्नः दाम्भिकः विवादशूरः",
-          "english": "Mercury in the sixth house: The native will be respected by the king, but face obstacles in education. He will be boastful and skilled in arguments.",
+          "english": "Budha in 6th Bhava: The native will be respected by the king, but face obstacles in education. He will be boastful and skilled in arguments.",
           "hindi": "षष्ठ भाव में बुध का फल: जातक राजा द्वारा सम्मानित होता है, किंतु शिक्षा में विघ्न आते हैं। वह दाम्भिक (पाखंडी) और विवाद करने में कुशल होता है।",
           "status": "translated"
         },
@@ -2262,35 +2262,35 @@
         {
           "number": 44,
           "text": "कुजर्क्षे नीलकुष्ठादिरोगी",
-          "english": "If in the sign of Mars, he may suffer from leprosy or skin diseases (Kushtha).",
+          "english": "If in the Rashi of Mangala, he may suffer from leprosy or skin diseases (Kushtha).",
           "hindi": "यदि मंगल की राशि में हो, तो जातक नील-कुष्ठ आदि चर्म रोगों से पीड़ित हो सकता है।",
           "status": "translated"
         },
         {
           "number": 45,
           "text": "शनिराहुयुते केतुयुते वातशूलादिरोगी ज्ञातिशत्रुकलहः",
-          "english": "If associated with Saturn, Rahu, or Ketu, he will suffer from wind-colic and have quarrels with kinsmen and enemies.",
+          "english": "If associated with Shani, Rahu, or Ketu, he will suffer from wind-colic and have quarrels with kinsmen and enemies.",
           "hindi": "यदि शनि, राहु या केतु के साथ हो, तो वात-शूल रोगी होता है और बंधु-बांधवों व शत्रुओं से कलह करता है।",
           "status": "translated"
         },
         {
           "number": 46,
           "text": "भावाधिपे बलयुते ज्ञातिप्रबलः",
-          "english": "If the lord of the 6th house is strong, his kinsmen will be powerful.",
+          "english": "If the lord of 6th Bhava is strong, his kinsmen will be powerful.",
           "hindi": "यदि षष्ठेश बली हो, तो उसके बंधु-बांधव प्रभावशाली होते हैं।",
           "status": "translated"
         },
         {
           "number": 47,
           "text": "अरिनीचर्क्षे ज्ञातिक्षयः",
-          "english": "If in the sign of an enemy or debilitation, there will be decline or loss of kinsmen.",
+          "english": "If in the Rashi of an enemy or debilitation, there will be decline or loss of kinsmen.",
           "hindi": "यदि शत्रु या नीच राशि में हो, तो जाति के लोगों का क्षय होता है।",
           "status": "translated"
         },
         {
           "number": 48,
           "text": "लग्नात्सप्तमे बुधफलं\nमातृसौख्यं अश्वाद्यारूढो धर्मज्ञः उदारमतिः",
-          "english": "Mercury in the seventh house: The native will enjoy maternal happiness, ride horses/vehicles, be knowledgeable in Dharma, and have a generous disposition.",
+          "english": "Budha in 7th Bhava: The native will enjoy maternal happiness, ride horses/vehicles, be knowledgeable in Dharma, and have a generous disposition.",
           "hindi": "सप्तम भाव में बुध का फल: जातक को माता का सुख मिलता है, वह अश्व (वाहनों) की सवारी करने वाला, धर्मज्ञ और उदार हृदय वाला होता है।",
           "status": "translated"
         },
@@ -2325,14 +2325,14 @@
         {
           "number": 53,
           "text": "भावेशे बलयुते एकदारवान्",
-          "english": "If the lord of the 7th house is strong, the native will have only one wife.",
+          "english": "If the lord of 7th Bhava is strong, the native will have only one wife.",
           "hindi": "यदि सप्तमेश बली हो, तो जातक की एक ही पत्नी होती है।",
           "status": "translated"
         },
         {
           "number": 54,
           "text": "दारेशे दुर्बले पापे पापर्क्षे कुजादियुते कलत्रनाशः",
-          "english": "If the lord of the 7th house is weak, associated with malefics, in a malefic sign, or with Mars, there will be loss of the wife.",
+          "english": "If the lord of 7th Bhava is weak, associated with malefics, in a malefic Rashi, or with Mangala, there will be loss of the wife.",
           "hindi": "यदि सप्तमेश निर्बल, पाप ग्रहों से युक्त, पाप राशि में या मंगल आदि के साथ हो, तो पत्नी का नाश होता है।",
           "status": "translated"
         },
@@ -2353,7 +2353,7 @@
         {
           "number": 57,
           "text": "लग्नादष्टमे बुधफलं\nआयुकारकः बहुक्षेत्रवान्",
-          "english": "Mercury in the eighth house: It contributes to longevity (Ayu-karaka) and grants the possession of much land.",
+          "english": "Budha in 8th Bhava: It contributes to longevity (Ayu-karaka) and grants the possession of much land.",
           "hindi": "अष्टम भाव में बुध का फल: यह आयु बढ़ाने वाला (आयु-कारक) होता है और जातक को बहुत भूमि प्रदान करता है।",
           "status": "translated"
         },
@@ -2381,7 +2381,7 @@
         {
           "number": 61,
           "text": "भावाधिपे बलयुतेपूर्णायुः",
-          "english": "If the lord of the 8th house is strong, the native will have a full lifespan (Purnayu).",
+          "english": "If the lord of 8th Bhava is strong, the native will have a full lifespan (Purnayu).",
           "hindi": "यदि अष्टमेश बली हो, तो जातक पूर्णायु होता है।",
           "status": "translated"
         },
@@ -2395,14 +2395,14 @@
         {
           "number": 63,
           "text": "अथवा उच्चस्वक्षेत्रे वा शुभयुते पूर्णायुः",
-          "english": "Alternatively, if in its exaltation, own sign, or associated with benefics, he will have a full lifespan.",
+          "english": "Alternatively, if in its exaltation, own Rashi, or associated with benefics, he will have a full lifespan.",
           "hindi": "अथवा यदि उच्च का, स्वराशि में या शुभ ग्रहों से युक्त हो, तो पूर्णायु प्राप्त होती है।",
           "status": "translated"
         },
         {
           "number": 64,
           "text": "लग्नान्नवमे बुधफलं\nबहुप्रजासिद्धिः",
-          "english": "Mercury in the ninth house: The native will be blessed with many children.",
+          "english": "Budha in 9th Bhava: The native will be blessed with many children.",
           "hindi": "नवम भाव में बुध का फल: जातक को बहुत सन्तानें प्राप्त होती हैं।",
           "status": "translated"
         },
@@ -2423,7 +2423,7 @@
         {
           "number": 67,
           "text": "लग्नाद्दशमे बुधफलं\nसत्कर्मसिद्धिः धैर्यवान् बहुलकीर्तिमान् बहुचितवान्",
-          "english": "Mercury in the tenth house: The native will achieve success through good deeds, be courageous, possess great fame, and have a deep mind.",
+          "english": "Budha in 10th Bhava: The native will achieve success through good deeds, be courageous, possess great fame, and have a deep mind.",
           "hindi": "दशम भाव में बुध का फल: जातक सत्कर्मों से सिद्धि प्राप्त करने वाला, धैर्यवान, महान कीर्तिवान और गम्भीर बुद्धि वाला होता है।",
           "status": "translated"
         },
@@ -2437,7 +2437,7 @@
         {
           "number": 69,
           "text": "उच्चस्वक्षेत्रे गुरुयुतेऽग्निष्टोमादि बहुकर्मवान्",
-          "english": "If in its exaltation or own sign, and associated with Jupiter, he will perform many religious rituals like sacrifices.",
+          "english": "If in its exaltation or own Rashi, and associated with Guru, he will perform many religious rituals like sacrifices.",
           "hindi": "यदि उच्च का या स्वराशि में हो और गुरु से युक्त हो, तो वह अग्निष्टोम आदि अनेक बड़े धार्मिक अनुष्ठान करने वाला होता है।",
           "status": "translated"
         },
@@ -2451,7 +2451,7 @@
         {
           "number": 71,
           "text": "लग्नादेकादशे बुधफलं\nबहुमङ्गलप्रदः",
-          "english": "Mercury in the eleventh house: It bestows many auspicious results.",
+          "english": "Budha in 11th Bhava: It bestows many auspicious results.",
           "hindi": "एकादश भाव में बुध का फल: यह अनेक मंगलकारी फल प्रदान करने वाला होता है।",
           "status": "translated"
         },
@@ -2472,21 +2472,21 @@
         {
           "number": 74,
           "text": "पापर्क्षे पापयुते हीनमूलेन धनलोपः",
-          "english": "If in a malefic sign or associated with malefics, there will be loss of wealth through low or improper means.",
+          "english": "If in a malefic Rashi or associated with malefics, there will be loss of wealth through low or improper means.",
           "hindi": "यदि पाप राशि में हो या पाप ग्रहों से युक्त हो, तो नीच कार्यों या अनुचित साधनों से धन का लोप (हानि) होता है।",
           "status": "translated"
         },
         {
           "number": 75,
           "text": "उच्चस्वक्षेत्रे शुभमूलेन धनवान्",
-          "english": "If in its exaltation or own sign, he will be wealthy through auspicious or righteous means.",
+          "english": "If in its exaltation or own Rashi, he will be wealthy through auspicious or righteous means.",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो शुभ कार्यों या उचित साधनों से धनवान होता है।",
           "status": "translated"
         },
         {
           "number": 76,
           "text": "लग्नाद्द्वदशे बुधफलं\nज्ञानवान्",
-          "english": "Mercury in the twelfth house: The native will be knowledgeable.",
+          "english": "Budha in 12th Bhava: The native will be knowledgeable.",
           "hindi": "द्वादश भाव में बुध का फल: जातक ज्ञानवान होता है।",
           "status": "translated"
         },
@@ -2534,7 +2534,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने गुरुफलं\nस्वक्षेत्रे शब्दशास्त्राधिकारी",
-          "english": "Jupiter in the first house: If in its own sign, the native will be an authority on grammar and linguistics.",
+          "english": "Guru in 1st Bhava (Lagna): If in its own Rashi, the native will be an authority on grammar and linguistics.",
           "hindi": "प्रथम भाव (लग्न) में गुरु का फल: यदि स्वराशि में हो, तो जातक व्याकरण और शब्द-शास्त्र का ज्ञाता होता है।",
           "status": "translated"
         },
@@ -2562,7 +2562,7 @@
         {
           "number": 5,
           "text": "अरिनीचपापानां क्षेत्रे पापयुते वा नीचकर्मवान्",
-          "english": "If in an enemy's sign, debilitated, or associated with malefics, he will perform low or base deeds.",
+          "english": "If in an enemy's Rashi, debilitated, or associated with malefics, he will perform low or base deeds.",
           "hindi": "यदि शत्रु राशि, नीच राशि या पाप ग्रहों से युक्त हो, तो वह नीच कर्म करने वाला होता है।",
           "status": "translated"
         },
@@ -2576,7 +2576,7 @@
         {
           "number": 7,
           "text": "लग्नाद्द्वितीये गुरुफलं\nधनवान् बुद्धिमान् इष्टभाषी षोडशवर्षे धनधान्यसमृद्धिः\nबहुप्राबल्यवान् उच्चस्वक्षेत्रे धनुषि द्रव्यमान्",
-          "english": "Jupiter in the second house: The native will be wealthy, intelligent, and a pleasant speaker. If in exaltation or its own sign, he will be very wealthy.",
+          "english": "Guru in 2nd Bhava: The native will be wealthy, intelligent, and a pleasant speaker. If in exaltation or its own Rashi, he will be very wealthy.",
           "hindi": "द्वितीय भाव में गुरु का फल: जातक धनवान, बुद्धिमान और मधुरभाषी होता है। यदि उच्च का या स्वराशि (धनु) में हो, तो अत्यंत द्रव्यवान होता है।",
           "status": "translated"
         },
@@ -2597,7 +2597,7 @@
         {
           "number": 10,
           "text": "नीचक्षेत्रे पापयुते मद्यपानी भ्रष्टः",
-          "english": "If in a debilitated sign and associated with malefics, he will be a drunkard and morally corrupt.",
+          "english": "If in a debilitated Rashi and associated with malefics, he will be a drunkard and morally corrupt.",
           "hindi": "यदि नीच राशि में पाप ग्रहों के साथ हो, तो मद्यपान करने वाला और आचरण से भ्रष्ट होता है।",
           "status": "translated"
         },
@@ -2618,7 +2618,7 @@
         {
           "number": 13,
           "text": "लग्नात्तृतीये गुरुफलं\nअतिलुब्धः भ्रातृवृद्धिः दाक्षिण्यवान् सङ्कल्प सिद्धिकरः",
-          "english": "Jupiter in the third house: The native will be very greedy, have many brothers, be skillful, and fulfill his resolutions.",
+          "english": "Guru in 3rd Bhava: The native will be very greedy, have many brothers, be skillful, and fulfill his resolutions.",
           "hindi": "तृतीय भाव में गुरु का फल: जातक अत्यंत लोभी होता है, उसके भाइयों की वृद्धि होती है, वह चतुर होता है और अपने संकल्पों को सिद्ध करने वाला होता है।",
           "status": "translated"
         },
@@ -2639,14 +2639,14 @@
         {
           "number": 16,
           "text": "भावाधिपे बलयुते भ्रातृदीर्घायुः",
-          "english": "If the lord of the 3rd house is strong, his brothers will have a long life.",
+          "english": "If the lord of 3rd Bhava is strong, his brothers will have a long life.",
           "hindi": "यदि तृतीयेश बली हो, तो उसके भाई दीर्घायु होते हैं।",
           "status": "translated"
         },
         {
           "number": 17,
           "text": "भावाधिपे पापयुते भ्रातृनाशः",
-          "english": "If the lord of the 3rd house is associated with malefics, there will be loss of brothers.",
+          "english": "If the lord of 3rd Bhava is associated with malefics, there will be loss of brothers.",
           "hindi": "यदि तृतीयेश पाप ग्रहों से युक्त हो, तो भाइयों का नाश होता है।",
           "status": "translated"
         },
@@ -2660,21 +2660,21 @@
         {
           "number": 19,
           "text": "लग्नाच्चतुर्थे गुरुफलं\nसुखी क्षेत्रवान् बुद्धिमान् क्षीरसमृद्धिः सन्मनाः मेधावी",
-          "english": "Jupiter in the fourth house: The native will be happy, possess lands, be intelligent, have abundance of comforts, and be brilliant.",
+          "english": "Guru in 4th Bhava: The native will be happy, possess lands, be intelligent, have abundance of comforts, and be brilliant.",
           "hindi": "चतुर्थ भाव में गुरु का फल: जातक सुखी, भूमि का स्वामी, बुद्धिमान, सुखों से समृद्ध और मेधावी होता है।",
           "status": "translated"
         },
         {
           "number": 20,
           "text": "भावाधिपे बलयुते भृगुचन्द्रयुक्ते शुभवर्गेण नरवाहनयोगः",
-          "english": "If the lord of the 4th house is strong and associated with Venus or Moon, and in auspicious vargas, he will have high status and vehicles.",
+          "english": "If the lord of 4th Bhava is strong and associated with Shukra or Chandra, and in auspicious vargas, he will have high status and vehicles.",
           "hindi": "यदि चतुर्थेश बली हो और शुक्र या चन्द्रमा से युक्त हो, तथा शुभ वर्गों में हो, तो उसे उच्च वाहन और सुख का योग मिलता है।",
           "status": "translated"
         },
         {
           "number": 21,
           "text": "बहुक्षेत्रः अश्ववाहनयोगः गृहविस्तरवान्",
-          "english": "He will have many lands, horse-driven vehicles, and a large house.",
+          "english": "He will have many lands, horse-driven vehicles, and a large Bhava.",
           "hindi": "उसके पास बहुत भूमि, अश्व-वाहन और विशाल घर होता है।",
           "status": "translated"
         },
@@ -2688,14 +2688,14 @@
         {
           "number": 23,
           "text": "परगृहवासः क्षेत्रहीनः मातृनाशः बन्धुद्वेषी",
-          "english": "He may live in others' houses, have no land, lose his mother, and hate his relatives.",
+          "english": "He may live in others' Bhavas, have no land, lose his mother, and hate his relatives.",
           "hindi": "वह दूसरों के घर में निवास करने वाला, भूमिहीन, मातृ-नाश भोगने वाला और बंधुओं से द्वेष करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 24,
           "text": "लग्नात्पञ्चमे गुरुफलं\nबुद्धिचातुर्यवान् विशालेक्षणः वाग्मी प्रतापी अन्नदानप्रियः\nकुलप्रियः अष्टादशवर्षे राजद्वारेण सेनाधिपत्य योगः",
-          "english": "Jupiter in the fifth house: The native will be clever, have large eyes, be an eloquent speaker, powerful, and fond of giving food in charity. At age 18, he will gain a high military post through the king.",
+          "english": "Guru in 5th Bhava: The native will be clever, have large eyes, be an eloquent speaker, powerful, and fond of giving food in charity. At age 18, he will gain a high military post through the king.",
           "hindi": "पञ्चम भाव में गुरु का फल: जातक बुद्धिमान, विशाल नेत्रों वाला, वाग्मी, प्रतापी और अन्नदान प्रिय होता है। १८ वर्ष की आयु में उसे राज-कृपा से सेनाधिपति का पद प्राप्त होता है।",
           "status": "translated"
         },
@@ -2709,7 +2709,7 @@
         {
           "number": 26,
           "text": "भावाधिपे बलयुते पापक्षेत्रे अरिनीचगे पुत्रनाशः",
-          "english": "If the lord of the 5th house is strong but in a malefic, enemy's, or debilitated sign, there will be loss of sons.",
+          "english": "If the lord of 5th Bhava is strong but in a malefic, enemy's, or debilitated Rashi, there will be loss of sons.",
           "hindi": "यदि पञ्चमेश बली हो किंतु पाप राशि, शत्रु राशि या नीच राशि में हो, तो पुत्रों का नाश होता है।",
           "status": "translated"
         },
@@ -2744,56 +2744,56 @@
         {
           "number": 31,
           "text": "शुभदृष्टे परिहारः",
-          "english": "If there is an aspect of a benefic planet, the evil effects will be mitigated.",
+          "english": "If there is an aspect of a benefic Graha, the evil effects will be mitigated.",
           "hindi": "यदि शुभ ग्रहों की दृष्टि हो, तो शाप आदि का परिहार हो जाता है।",
           "status": "translated"
         },
         {
           "number": 32,
           "text": "लग्नात्षष्ठे गुरुफलं\nशत्रुक्षयः ज्ञातिवृद्धिः पौत्रादिदर्शनं व्रणशरीरः\nशुभयुते रोगाभावः",
-          "english": "Jupiter in the sixth house: Enemies will be destroyed, kinsmen will increase, and the native will see his grandchildren. If associated with benefics, he will be free from disease.",
+          "english": "Guru in 6th Bhava: Enemies will be destroyed, kinsmen will increase, and the native will see his grandchildren. If associated with benefics, he will be free from disease.",
           "hindi": "षष्ठ भाव में गुरु का फल: शत्रुओं का नाश होता है, बंधु-बांधवों की वृद्धि होती है और जातक पौत्रों का सुख देखता है। यदि शुभ ग्रहों से युक्त हो, तो रोगों का अभाव होता है।",
           "status": "translated"
         },
         {
           "number": 33,
           "text": "पापयुते पापक्षेत्रे वातशैत्यादिरोगः",
-          "english": "If associated with malefics or in a malefic sign, he will suffer from wind and cold-related diseases.",
+          "english": "If associated with malefics or in a malefic Rashi, he will suffer from wind and cold-related diseases.",
           "hindi": "यदि पाप ग्रहों से युक्त या पाप राशि में हो, तो वात और शीत जनित रोग होते हैं।",
           "status": "translated"
         },
         {
           "number": 34,
           "text": "मन्दक्षेत्रे राहुयुते महारोगः",
-          "english": "If in the sign of Saturn and associated with Rahu, he may suffer from a major or chronic disease.",
+          "english": "If in the Rashi of Shani and associated with Rahu, he may suffer from a major or chronic disease.",
           "hindi": "यदि शनि की राशि में राहु के साथ हो, तो महारोग (गम्भीर रोग) होने की संभावना रहती है।",
           "status": "translated"
         },
         {
           "number": 35,
           "text": "लग्नात्सप्तमे गुरुफलं\nविद्या धनेशः बहुलाभप्रदः चिन्ताधिकः\nविद्यवान् पातिव्रत्य भक्तियुत कलत्रः",
-          "english": "Jupiter in the seventh house: The native will be learned, wealthy, and gain much profit. He will have a wise, devoted, and faithful wife.",
+          "english": "Guru in 7th Bhava: The native will be learned, wealthy, and gain much profit. He will have a wise, devoted, and faithful wife.",
           "hindi": "सप्तम भाव में गुरु का फल: जातक विद्वान, धनी और बहुत लाभ प्राप्त करने वाला होता है। उसकी पत्नी विदुषी, पतिव्रता और पति-भक्त होती है।",
           "status": "translated"
         },
         {
           "number": 36,
           "text": "भावाधिपे बलहीने राहुकेतुशनिकुजयुते\n     पापवीक्षणाद्वाकलत्रान्तरम्",
-          "english": "If the lord of the 7th house is weak, associated with Rahu, Ketu, Saturn, or Mars, or under malefic aspect, the native may have a second marriage.",
+          "english": "If the lord of 7th Bhava is weak, associated with Rahu, Ketu, Shani, or Mangala, or under malefic aspect, the native may have a second marriage.",
           "hindi": "यदि सप्तमेश निर्बल हो, राहु, केतु, शनि या मंगल से युक्त हो, अथवा पाप दृष्टि में हो, तो जातक का दूसरा विवाह हो सकता है।",
           "status": "translated"
         },
         {
           "number": 37,
           "text": "शुभयुते उच्चस्वक्षेत्रे एकदारवान् कलत्रद्वारा\n     बहुवित्तवान् सुखी चतुस्त्रिम्शद्वर्षे प्रतिष्ठासिद्धिः",
-          "english": "If associated with benefics, in exaltation or its own sign, he will have only one wife, gain much wealth through her, and achieve honor at age 34.",
+          "english": "If associated with benefics, in exaltation or its own Rashi, he will have only one wife, gain much wealth through her, and achieve honor at age 34.",
           "hindi": "यदि शुभ ग्रहों से युक्त हो, उच्च का या स्वराशि में हो, तो एक ही पत्नी होती है, पत्नी के माध्यम से बहुत धन प्राप्त होता है और ३४ वर्ष की आयु में मान-प्रतिष्ठा प्राप्त करता है।",
           "status": "translated"
         },
         {
           "number": 38,
           "text": "लग्नादष्टमे गुरुफलं\nअल्पायुः नीचकृत्यकारी",
-          "english": "Jupiter in the eighth house: The native will have a short life and perform base or low deeds.",
+          "english": "Guru in 8th Bhava: The native will have a short life and perform base or low deeds.",
           "hindi": "अष्टम भाव में गुरु का फल: जातक अल्पायु होता है और नीच कर्म करने वाला होता है।",
           "status": "translated"
         },
@@ -2807,14 +2807,14 @@
         {
           "number": 40,
           "text": "भावाधिपे शुभयुते रन्ध्रेदीर्घायुः",
-          "english": "If the lord of the 8th house is associated with benefics, the native will have a long life.",
+          "english": "If the lord of 8th Bhava is associated with benefics, the native will have a long life.",
           "hindi": "यदि अष्टमेश शुभ ग्रहों से युक्त हो, तो जातक दीर्घायु होता है।",
           "status": "translated"
         },
         {
           "number": 41,
           "text": "बलहीने अल्पायुः",
-          "english": "If the planet is weak, he will have a short life.",
+          "english": "If the Graha is weak, he will have a short life.",
           "hindi": "यदि ग्रह निर्बल हो, तो अल्पायु होती है।",
           "status": "translated"
         },
@@ -2828,14 +2828,14 @@
         {
           "number": 43,
           "text": "उच्चस्वक्षेत्रे दीर्घायुः बलहीनः अरोगी योगपौरुषः\n     विद्वान् वेदशास्त्रविचक्षणः",
-          "english": "If in exaltation or its own sign, he will have a long life, be healthy, possess manly strength, be a scholar, and expert in scriptures.",
+          "english": "If in exaltation or its own Rashi, he will have a long life, be healthy, possess manly strength, be a scholar, and expert in scriptures.",
           "hindi": "यदि उच्च का या स्वराशि में हो, तो दीर्घायु होता है, आरोग्य रहता है, पुरुषार्थी, विद्वान और शास्त्रों में निपुण होता है।",
           "status": "translated"
         },
         {
           "number": 44,
           "text": "लग्नान्नवमे गुरुफलं\nधार्मिकः",
-          "english": "Jupiter in the ninth house: The native will be religious.",
+          "english": "Guru in 9th Bhava: The native will be religious.",
           "hindi": "नवम भाव में गुरु का फल: जातक धार्मिक होता है।",
           "status": "translated"
         },
@@ -2849,21 +2849,21 @@
         {
           "number": 46,
           "text": "लग्नाद्दशमे गुरुफलं\nधार्मिक शुभकर्मकारी गीतापाठकः\nयोग्यतावान् प्रौढकीर्तिः बहुजनपूज्यः",
-          "english": "Jupiter in the tenth house: The native will be religious, perform auspicious deeds, be a student of the Gita, competent, possess great fame, and be respected by many.",
+          "english": "Guru in 10th Bhava: The native will be religious, perform auspicious deeds, be a student of the Gita, competent, possess great fame, and be respected by many.",
           "hindi": "दशम भाव में गुरु का फल: जातक धार्मिक, शुभ कर्म करने वाला, गीता का पाठी, योग्य, महान कीर्तिवान और बहुत से लोगों द्वारा पूजनीय होता है।",
           "status": "translated"
         },
         {
           "number": 47,
           "text": "भावाधिपे बलयुते विशेषक्रतुसिद्धिः",
-          "english": "If the lord of the 10th house is strong, he will achieve success in special sacrifices or rituals.",
+          "english": "If the lord of 10th Bhava is strong, he will achieve success in special sacrifices or rituals.",
           "hindi": "यदि दशमेश बली हो, तो उसे विशेष यज्ञों या अनुष्ठानों में सिद्धि प्राप्त होती है।",
           "status": "translated"
         },
         {
           "number": 48,
           "text": "पापयुते पापक्षेत्रे कर्मविघ्नः",
-          "english": "If associated with malefics or in a malefic sign, there will be obstacles in his professional work or deeds.",
+          "english": "If associated with malefics or in a malefic Rashi, there will be obstacles in his professional work or deeds.",
           "hindi": "यदि पाप ग्रहों से युक्त या पाप राशि में हो, तो कार्यों में विघ्न आते हैं।",
           "status": "translated"
         },
@@ -2877,7 +2877,7 @@
         {
           "number": 50,
           "text": "लग्नादेकादशे गुरुफलं\nविद्वान् धनवान् बहुलाभवान् द्वात्रिंशद्वर्षे अश्वारूढः",
-          "english": "Jupiter in the eleventh house: The native will be learned, wealthy, and gain much profit. At age 32, he will attain high status and vehicles.",
+          "english": "Guru in 11th Bhava: The native will be learned, wealthy, and gain much profit. At age 32, he will attain high status and vehicles.",
           "hindi": "एकादश भाव में गुरु का फल: जातक विद्वान, धनवान और बहुत लाभ प्राप्त करने वाला होता है। ३२ वर्ष की आयु में वह उच्च वाहन और प्रतिष्ठा प्राप्त करता है।",
           "status": "translated"
         },
@@ -2898,14 +2898,14 @@
         {
           "number": 53,
           "text": "भाग्यवृद्धिः चन्द्रयुते निक्षेपलाभः",
-          "english": "His fortune will increase. If associated with the Moon, he will gain hidden or buried treasure.",
+          "english": "His fortune will increase. If associated with Chandra, he will gain hidden or buried treasure.",
           "hindi": "उसकी भाग्य-वृद्धि होती है। यदि चन्द्रमा से युक्त हो, तो गड़ा हुआ धन प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 54,
           "text": "लग्नाद्द्वादशे गुरुफलं\nनिर्धनः पठितः अल्पपुत्रः गणितशास्त्रज्ञः सम्भोगी",
-          "english": "Jupiter in the twelfth house: The native will be poor, yet well-read. He will have few sons, be an expert in mathematics, and be fond of pleasures.",
+          "english": "Guru in 12th Bhava: The native will be poor, yet well-read. He will have few sons, be an expert in mathematics, and be fond of pleasures.",
           "hindi": "द्वादश भाव में गुरु का फल: जातक निर्धन होता है, किंतु शिक्षित होता है। उसके पुत्र कम होते हैं, वह गणित-शास्त्र का ज्ञाता और भोगी होता है।",
           "status": "translated"
         },
@@ -2919,7 +2919,7 @@
         {
           "number": 56,
           "text": "शुभयुते उच्चस्वक्षेत्रे स्वर्गलोकप्राप्तिः",
-          "english": "If associated with benefics or in exaltation/own sign, he will attain heaven after death.",
+          "english": "If associated with benefics or in exaltation/own Rashi, he will attain heaven after death.",
           "hindi": "यदि शुभ ग्रहों से युक्त हो, उच्च का या स्वराशि में हो, तो उसे स्वर्ग की प्राप्ति होती है।",
           "status": "translated"
         },
@@ -2946,7 +2946,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने भृगुफलं\nगणितशास्त्रज्ञः",
-          "english": "Venus in the first house: The native will be an expert in mathematics.",
+          "english": "Shukra in 1st Bhava (Lagna): The native will be an expert in mathematics.",
           "hindi": "प्रथम भाव में शुक्र का फल: जातक गणित-शास्त्र का ज्ञाता होता है।",
           "status": "translated"
         },
@@ -2981,7 +2981,7 @@
         {
           "number": 6,
           "text": "पापवीक्षितयुते नीचास्तगते चोरवञ्चनवान्",
-          "english": "If aspected by/associated with malefics, or if Venus is debilitated or combust, the native may be a deceiver.",
+          "english": "If aspected by/associated with malefics, or if Shukra is debilitated or combust, the native may be a deceiver.",
           "hindi": "यदि पाप ग्रहों से दृष्ट या युक्त हो, अथवा शुक्र नीच का या अस्त हो, तो जातक ठग या धोखेबाज हो सकता है।",
           "status": "translated"
         },
@@ -2995,28 +2995,28 @@
         {
           "number": 8,
           "text": "भावाधिपे राहुयुते बृह द्विद्विजो भवति",
-          "english": "If the lord of the 1st house is associated with Rahu, the native may have a large physique.",
+          "english": "If the lord of 1st Bhava (Lagna) is associated with Rahu, the native may have a large physique.",
           "hindi": "यदि लग्नेश राहु से युक्त हो, तो जातक विशाल शरीर वाला होता है।",
           "status": "translated"
         },
         {
           "number": 9,
           "text": "वाहने शुभयुते गजान्तैश्वर्यवान्",
-          "english": "If associated with benefics in the house of vehicles, the native will possess immense wealth.",
+          "english": "If associated with benefics in the Bhava of vehicles, the native will possess immense wealth.",
           "hindi": "यदि वाहन भाव में शुभ ग्रहों का योग हो, तो जातक अत्यधिक वैभवशाली होता है।",
           "status": "translated"
         },
         {
           "number": 10,
           "text": "स्वक्षेत्रे महाराजयोगः",
-          "english": "If Venus is in its own sign, it forms a Maharaja Yoga (great royal combination).",
+          "english": "If Shukra is in its own Rashi, it forms a Maharaja Yoga (great royal combination).",
           "hindi": "यदि शुक्र अपनी स्वराशि में हो, तो 'महाराज योग' बनता है।",
           "status": "translated"
         },
         {
           "number": 11,
           "text": "रन्धरे षष्ठाष्ठव्ययाधिपेशुक्रे दुर्बले स्त्रीद्वयम्",
-          "english": "If Venus is the lord of a dusthana (6th, 8th, or 12th) and is weak, the native may have two wives.",
+          "english": "If Shukra is the lord of a dusthana (6th, 8th, or 12th) and is weak, the native may have two wives.",
           "hindi": "यदि शुक्र ६, ८ या १२वें भाव का स्वामी होकर निर्बल हो, तो जातक की दो पत्नियां हो सकती हैं।",
           "status": "translated"
         },
@@ -3037,7 +3037,7 @@
         {
           "number": 14,
           "text": "लग्नाद्द्वितीये भृगुफलं\nधनवान् कुटुम्बी सुभोजनः विनयवान्",
-          "english": "Venus in the second house: The native will be wealthy, have a family, enjoy good food, and be modest.",
+          "english": "Shukra in 2nd Bhava: The native will be wealthy, have a family, enjoy good food, and be modest.",
           "hindi": "द्वितीय भाव में शुक्र का फल: जातक धनवान, कुटुम्ब वाला, उत्तम भोजन करने वाला और विनम्र होता है।",
           "status": "translated"
         },
@@ -3065,21 +3065,21 @@
         {
           "number": 18,
           "text": "भावाधिपे दुर्बलः दुःस्थाने नेत्रवैपरीत्यं भवति",
-          "english": "If the lord of the 2nd house is weak or in a bad house, there may be eye defects.",
+          "english": "If the lord of 2nd Bhava is weak or in a bad Bhava, there may be eye defects.",
           "hindi": "यदि द्वितीयेश निर्बल हो या दुःस्थान में हो, तो नेत्रों में विकार हो सकता है।",
           "status": "translated"
         },
         {
           "number": 19,
           "text": "शशियुते निशान्धः कुटुम्बहीनो नेत्ररोगी धननाशकरः",
-          "english": "If associated with the Moon, the native may suffer from night blindness, be without family, and lose his wealth.",
+          "english": "If associated with Chandra, the native may suffer from night blindness, be without family, and lose his wealth.",
           "hindi": "यदि चन्द्रमा से युक्त हो, तो जातक रतौंधी का रोगी, कुटुम्बहीन और धन नष्ट करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 20,
           "text": "लग्नात्तृतीये भृगुफलं\nअतिलुब्धः दाक्षिण्यवान् भ्रातृवृद्धिः सङ्कल्पसिद्धिः\nपश्चात् सहोदराभावः",
-          "english": "Venus in the third house: The native will be greedy yet courteous, have many brothers, and achieve his goals.",
+          "english": "Shukra in 3rd Bhava: The native will be greedy yet courteous, have many brothers, and achieve his goals.",
           "hindi": "तृतीय भाव में शुक्र का फल: जातक लोभी किंतु उदार होता है। उसके भाइयों की वृद्धि होती है और संकल्पों की सिद्धि होती है।",
           "status": "translated"
         },
@@ -3100,7 +3100,7 @@
         {
           "number": 23,
           "text": "लग्नाच्चतुर्थे भृगुफलं\nशोभनवान् बुद्धिमान् भ्रातृसौख्यं सुखी क्षमावान्",
-          "english": "Venus in the fourth house: The native will be handsome, intelligent, enjoy happiness from brothers, be happy, and forgiving.",
+          "english": "Shukra in 4th Bhava: The native will be handsome, intelligent, enjoy happiness from brothers, be happy, and forgiving.",
           "hindi": "चतुर्थ भाव में शुक्र का फल: जातक सुंदर, बुद्धिमान, भाइयों का सुख प्राप्त करने वाला, सुखी और क्षमावान होता है।",
           "status": "translated"
         },
@@ -3121,7 +3121,7 @@
         {
           "number": 26,
           "text": "तत्रपापयुते पापक्षेत्रे अरिनीचगे बलहीने क्षेत्रवाहनहीनः",
-          "english": "If the planet is weak or with malefics in a bad sign, he will lack land and vehicles.",
+          "english": "If the Graha is weak or with malefics in a bad Rashi, he will lack land and vehicles.",
           "hindi": "यदि पाप ग्रहों से युक्त या निर्बल होकर नीच राशि में हो, तो जातक भूमि और वाहन से हीन होता है।",
           "status": "translated"
         },
@@ -3142,7 +3142,7 @@
         {
           "number": 29,
           "text": "लग्नात्पञ्चमे भृगुफलं\nबुद्धिमान् मन्त्री सेनापतिः",
-          "english": "Venus in the fifth house: The native will be intelligent, a minister, or a commander.",
+          "english": "Shukra in 5th Bhava: The native will be intelligent, a minister, or a commander.",
           "hindi": "पञ्चम भाव में शुक्र का फल: जातक बुद्धिमान, मंत्री या सेनापति होता है।",
           "status": "translated"
         },
@@ -3177,7 +3177,7 @@
         {
           "number": 34,
           "text": "लग्नाषष्ठे भृगुफलं\nज्ञातिप्रजासिद्धि शत्रुक्षयः पुत्रपौत्रवान्",
-          "english": "Venus in the sixth house: The native will achieve success among kin, destroy enemies, and have sons and grandsons.",
+          "english": "Shukra in 6th Bhava: The native will achieve success among kin, destroy enemies, and have sons and grandsons.",
           "hindi": "षष्ठ भाव में शुक्र का फल: जातक संबंधियों में प्रतिष्ठा प्राप्त करता है, शत्रुओं का नाश करता है और पुत्र-पौत्रों वाला होता है।",
           "status": "translated"
         },
@@ -3198,7 +3198,7 @@
         {
           "number": 37,
           "text": "लग्नात्सप्तमे भृगुफलं\nअतिकामुकः मुखचुम्बकः",
-          "english": "Venus in the seventh house: The native will be very lustful and fond of intimacy.",
+          "english": "Shukra in 7th Bhava: The native will be very lustful and fond of intimacy.",
           "hindi": "सप्तम भाव में शुक्र का फल: जातक अत्यंत कामुक और विलासी स्वभाव का होता है।",
           "status": "translated"
         },
@@ -3212,7 +3212,7 @@
         {
           "number": 39,
           "text": "पापयुते शत्रुक्षेत्रे अरिनीचगे कलत्रनाशः",
-          "english": "If associated with malefics or in a bad sign, his wife may be lost.",
+          "english": "If associated with malefics or in a bad Rashi, his wife may be lost.",
           "hindi": "यदि पाप ग्रहों से युक्त या नीच राशि में हो, तो जातक की पत्नी का नाश होता है।",
           "status": "translated"
         },
@@ -3240,7 +3240,7 @@
         {
           "number": 43,
           "text": "शुभयुते उच्चे स्वक्षेत्रे तुले कलत्रदेशे बहुवित्तवान्",
-          "english": "If associated with benefics or in its own sign, he will be very wealthy.",
+          "english": "If associated with benefics or in its own Rashi, he will be very wealthy.",
           "hindi": "यदि शुभ ग्रहों से युक्त या स्वराशि में हो, तो वह अत्यंत धनवान होता है।",
           "status": "translated"
         },
@@ -3254,7 +3254,7 @@
         {
           "number": 45,
           "text": "लग्नादष्टमे भृगुफलं\nसुखी चतुर्थे वर्षे मातृगण्डः",
-          "english": "Venus in the eighth house: The native will be happy, but there is danger to the mother in the 4th year.",
+          "english": "Shukra in 8th Bhava: The native will be happy, but there is danger to the mother in the 4th year.",
           "hindi": "अष्टम भाव में शुक्र का फल: जातक सुखी होता है, किंतु ४ वर्ष की आयु में माता को कष्ट का योग होता है।",
           "status": "translated"
         },
@@ -3268,7 +3268,7 @@
         {
           "number": 47,
           "text": "शुभक्षेत्रे पुर्णायुः",
-          "english": "If in a benefic sign, the native will have a full lifespan.",
+          "english": "If in a benefic Rashi, the native will have a full lifespan.",
           "hindi": "यदि शुभ राशि में हो, तो पूर्णायु होती है।",
           "status": "translated"
         },
@@ -3282,7 +3282,7 @@
         {
           "number": 49,
           "text": "लग्नान्नवमे भृगुफलं\nधार्मिकः तपस्वी अनुष्ठानपरः",
-          "english": "Venus in the ninth house: The native will be religious, a practitioner of penance, and devoted to rituals.",
+          "english": "Shukra in 9th Bhava: The native will be religious, a practitioner of penance, and devoted to rituals.",
           "hindi": "नवम भाव में शुक्र का फल: जातक धार्मिक, तपस्वी और अनुष्ठान करने वाला होता है।",
           "status": "translated"
         },
@@ -3310,7 +3310,7 @@
         {
           "number": 53,
           "text": "पापयुते पापक्षेत्रे अरिनीचगे धनहानिः",
-          "english": "If associated with malefics or in a bad sign, there will be loss of wealth.",
+          "english": "If associated with malefics or in a bad Rashi, there will be loss of wealth.",
           "hindi": "यदि पाप ग्रहों से युक्त या नीच राशि में हो, तो धन की हानि होती है।",
           "status": "translated"
         },
@@ -3352,7 +3352,7 @@
         {
           "number": 59,
           "text": "लग्नाद्दशमे भृगुफलं\nबहुप्रतापवान् पापयुते कर्मविघ्नकरः\nगुरुबुधचन्द्रयुते अनेकवाहनारोहणवान्",
-          "english": "Venus in the tenth house: The native will be powerful. Malefics cause obstacles. Jupiter, Mercury, and Moon associations give many vehicles.",
+          "english": "Shukra in 10th Bhava: The native will be powerful. Malefics cause obstacles. Guru, Budha, and Chandra associations give many vehicles.",
           "hindi": "दशम भाव में शुक्र का फल: जातक प्रतापी होता है। पाप ग्रहों से कार्यों में बाधा आती है। गुरु, बुध और चन्द्रमा के योग से अनेक वाहन प्राप्त होते हैं।",
           "status": "translated"
         },
@@ -3373,7 +3373,7 @@
         {
           "number": 62,
           "text": "लग्नादेकादशे भृगुफलं\nविद्वान् बहुधनवान् भूमिलाभवान् दयावान् शुभयुते\nअनेक वाहनयोगः",
-          "english": "Venus in the eleventh house: The native will be learned, wealthy, gain land, and be kind. Benefics give many vehicles.",
+          "english": "Shukra in 11th Bhava: The native will be learned, wealthy, gain land, and be kind. Benefics give many vehicles.",
           "hindi": "एकादश भाव में शुक्र का फल: जातक विद्वान, धनवान, भूमि का लाभ पाने वाला और दयालु होता है। शुभ ग्रहों से अनेक वाहन प्राप्त होते हैं।",
           "status": "translated"
         },
@@ -3394,7 +3394,7 @@
         {
           "number": 65,
           "text": "लग्नाद्द्वादशे भृगुफलं\nबहुलदारिद्र्यवान्",
-          "english": "Venus in the twelfth house: The native will suffer from great poverty.",
+          "english": "Shukra in 12th Bhava: The native will suffer from great poverty.",
           "hindi": "द्वादश भाव में शुक्र का फल: जातक बहुत दरिद्र होता है।",
           "status": "translated"
         },
@@ -3428,7 +3428,7 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने शनिफलं\nवातपित्तदेहः",
-          "english": "Saturn in the first house: The native will have a body dominated by Vata and Pitta temperaments.",
+          "english": "Shani in 1st Bhava (Lagna): The native will have a body dominated by Vata and Pitta temperaments.",
           "hindi": "प्रथम भाव में शनि का फल: जातक का शरीर वात और पित्त प्रकृति का होता है।",
           "status": "translated"
         },
@@ -3442,14 +3442,14 @@
         {
           "number": 3,
           "text": "स्वर्क्षे पितृधनवान्",
-          "english": "If in its own sign, the native will possess ancestral wealth.",
+          "english": "If in its own Rashi, the native will possess ancestral wealth.",
           "hindi": "यदि स्वराशि में हो, तो जातक के पास पैतृक धन होता है।",
           "status": "translated"
         },
         {
           "number": 4,
           "text": "वाहनेशकर्मेशक्षेत्रे बहुभाग्यम्",
-          "english": "If in the sign of the 4th or 10th lord, the native will be very fortunate.",
+          "english": "If in the Rashi of the 4th or 10th lord, the native will be very fortunate.",
           "hindi": "यदि चतुर्थेश या दशमेश की राशि में हो, तो जातक बहुत भाग्यशाली होता है।",
           "status": "translated"
         },
@@ -3463,7 +3463,7 @@
         {
           "number": 6,
           "text": "चन्द्रमसा दृष्टे भिक्षुकी वृत्तिः",
-          "english": "If aspected by the Moon, the native may live like a beggar or have a mendicant's disposition.",
+          "english": "If aspected by Chandra, the native may live like a beggar or have a mendicant's disposition.",
           "hindi": "यदि चन्द्रमा द्वारा दृष्ट हो, तो जातक की वृत्ति भिक्षु जैसी हो सकती है।",
           "status": "translated"
         },
@@ -3477,7 +3477,7 @@
         {
           "number": 8,
           "text": "लग्नाद्द्वितीये शनिफलं\nद्रव्याभावः दारद्वयम्",
-          "english": "Saturn in the second house: The native will suffer from a lack of wealth and may have two wives.",
+          "english": "Shani in 2nd Bhava: The native will suffer from a lack of wealth and may have two wives.",
           "hindi": "द्वितीय भाव में शनि का फल: जातक के पास धन का अभाव रहता है और उसके दो विवाह हो सकते हैं।",
           "status": "translated"
         },
@@ -3491,7 +3491,7 @@
         {
           "number": 10,
           "text": "लग्नात्तृतीये शनिफलं\nभ्रातृहानिकारकः",
-          "english": "Saturn in the third house: It causes loss or harm to brothers.",
+          "english": "Shani in 3rd Bhava: It causes loss or harm to brothers.",
           "hindi": "तृतीय भाव में शनि का फल: यह भाइयों के लिए हानिकारक होता है।",
           "status": "translated"
         },
@@ -3505,7 +3505,7 @@
         {
           "number": 12,
           "text": "उच्चस्वक्षेत्रे भ्रातृवृद्धिः",
-          "english": "If exalted or in its own sign, brothers will prosper.",
+          "english": "If exalted or in its own Rashi, brothers will prosper.",
           "hindi": "यदि उच्च या स्वराशि में हो, तो भाइयों की वृद्धि होती है।",
           "status": "translated"
         },
@@ -3519,7 +3519,7 @@
         {
           "number": 14,
           "text": "लग्नाच्चतुर्थे शनिफलं\nमातृहानिः द्विमातृवान्",
-          "english": "Saturn in the fourth house: It causes loss to the mother; the native may have two mothers.",
+          "english": "Shani in 4th Bhava: It causes loss to the mother; the native may have two mothers.",
           "hindi": "चतुर्थ भाव में शनि का फल: यह माता के लिए हानिकारक है; जातक की दो माताएं हो सकती हैं।",
           "status": "translated"
         },
@@ -3533,7 +3533,7 @@
         {
           "number": 16,
           "text": "उच्चस्वक्षेत्रे न दोषः",
-          "english": "If exalted or in its own sign, these defects do not occur.",
+          "english": "If exalted or in its own Rashi, these defects do not occur.",
           "hindi": "यदि शनि उच्च या स्वराशि में हो, तो ये दोष नहीं होते।",
           "status": "translated"
         },
@@ -3547,7 +3547,7 @@
         {
           "number": 18,
           "text": "लग्नेशेमन्दे मातृदीर्घयुः",
-          "english": "If Saturn is the Ascendant lord in the 4th, the mother will be long-lived.",
+          "english": "If Shani is the Ascendant lord in the 4th, the mother will be long-lived.",
           "hindi": "यदि शनि लग्नेश होकर चतुर्थ भाव में हो, तो माता दीर्घायु होती है।",
           "status": "translated"
         },
@@ -3575,21 +3575,21 @@
         {
           "number": 22,
           "text": "लग्नात्पञ्चमे शनिफलं\nपुत्रहीनः अतिदरिद्री दुर्वृत्तः दत्तपुत्री",
-          "english": "Saturn in the fifth house: The native will be childless, very poor, and may have an adopted daughter.",
+          "english": "Shani in 5th Bhava: The native will be childless, very poor, and may have an adopted daughter.",
           "hindi": "पंचम भाव में शनि का फल: जातक पुत्रहीन, अत्यंत दरिद्र होता है और उसकी दत्तक पुत्री हो सकती है।",
           "status": "translated"
         },
         {
           "number": 23,
           "text": "स्वक्षेत्रे स्त्रीप्रजासिद्धिः",
-          "english": "If in its own sign, the native will have female children.",
+          "english": "If in its own Rashi, the native will have female children.",
           "hindi": "यदि स्वराशि में हो, तो जातक को कन्या संतान प्राप्त होती है।",
           "status": "translated"
         },
         {
           "number": 24,
           "text": "गुरुदृष्टे स्त्रीद्वयम्",
-          "english": "If aspected by Jupiter, the native may have two wives.",
+          "english": "If aspected by Guru, the native may have two wives.",
           "hindi": "यदि गुरु द्वारा दृष्ट हो, तो जातक की दो पत्नियां हो सकती हैं।",
           "status": "translated"
         },
@@ -3603,21 +3603,21 @@
         {
           "number": 26,
           "text": "बलयुते मन्दे स्त्रीभिर्युक्तः",
-          "english": "If Saturn is strong, the native will be associated with many women.",
+          "english": "If Shani is strong, the native will be associated with many women.",
           "hindi": "यदि शनि बली हो, तो जातक अनेक स्त्रियों से युक्त रहता है।",
           "status": "translated"
         },
         {
           "number": 27,
           "text": "लग्नात्षष्ठे शनिफलं\nअल्पज्ञातिः शत्रुक्षयः",
-          "english": "Saturn in the sixth house: The native will have few relatives and his enemies will be destroyed.",
+          "english": "Shani in 6th Bhava: The native will have few relatives and his enemies will be destroyed.",
           "hindi": "षष्ठ भाव में शनि का फल: जातक के कम संबंधी होते हैं और शत्रुओं का नाश होता है।",
           "status": "translated"
         },
         {
           "number": 28,
           "text": "धनधान्यसमृद्धिः कुजयुते देशान्तर सञ्चारी",
-          "english": "He will have abundance of wealth; with Mars, he will travel to foreign lands.",
+          "english": "He will have abundance of wealth; with Mangala, he will travel to foreign lands.",
           "hindi": "धन-धान्य की समृद्धि होती है। मंगल के साथ होने पर जातक विदेश यात्रा करने वाला होता है।",
           "status": "translated"
         },
@@ -3638,14 +3638,14 @@
         {
           "number": 31,
           "text": "रन्ध्रेशे मन्दे अरिष्टं वातरोगी शूलव्रणदेही",
-          "english": "If the 8th lord is Saturn (in 6th), it causes illness, Vata diseases, and wounds on the body.",
+          "english": "If the 8th lord is Shani (in 6th), it causes illness, Vata diseases, and wounds on the body.",
           "hindi": "यदि अष्टमेश शनि (षष्ठ में) हो, तो स्वास्थ्य कष्ट, वात रोग और शरीर पर घाव होते हैं।",
           "status": "translated"
         },
         {
           "number": 32,
           "text": "लग्नात्सप्तमे शनिफलं\nशरीरदोषकरः कृशकलत्रः वेश्यासम्भोगवान् अतिदुखीः\nउच्चस्वक्षेत्रगते अनेकस्त्रीसम्भोगी",
-          "english": "Saturn in the seventh house: The native will have physical defects, be unhappy, and associate with many women if Saturn is strong.",
+          "english": "Shani in 7th Bhava: The native will have physical defects, be unhappy, and associate with many women if Shani is strong.",
           "hindi": "सप्तम भाव में शनि का फल: जातक शरीर दोष वाला, दुखी और वेश्यागामी होता है। बली शनि होने पर अनेक स्त्रियों का भोगी होता है।",
           "status": "translated"
         },
@@ -3659,14 +3659,14 @@
         {
           "number": 34,
           "text": "कुजयुते शिश्नचुम्बनपरः",
-          "english": "With Mars, he may have perverted sexual tendencies.",
+          "english": "With Mangala, he may have perverted sexual tendencies.",
           "hindi": "मंगल के साथ होने पर कामुक प्रवृत्तियां विकृत हो सकती हैं।",
           "status": "translated"
         },
         {
           "number": 35,
           "text": "शुक्रयुते भगचुम्बनपरः",
-          "english": "With Venus, he will have intense and peculiar sexual leanings.",
+          "english": "With Shukra, he will have intense and peculiar sexual leanings.",
           "hindi": "शुक्र के साथ होने पर भी कामुक प्रवृत्तियां तीव्र और विचित्र होती हैं।",
           "status": "translated"
         },
@@ -3680,21 +3680,21 @@
         {
           "number": 37,
           "text": "लग्नादष्टमे शनिफलं\nत्रिपादायुः दरिद्री शूद्रस्त्रीरतः सेवकः",
-          "english": "Saturn in the eighth house: The native will have a medium lifespan, be poor, and work as a servant.",
+          "english": "Shani in 8th Bhava: The native will have a medium lifespan, be poor, and work as a servant.",
           "hindi": "अष्टम भाव में शनि का फल: जातक की आयु मध्यम होती है, वह निर्धन होता है और सेवा कार्य करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 38,
           "text": "उच्चस्वक्षेत्रे दीर्घायुः",
-          "english": "If exalted or in its own sign, the native will have a long life.",
+          "english": "If exalted or in its own Rashi, the native will have a long life.",
           "hindi": "यदि शनि उच्च या स्वराशि में हो, तो जातक दीर्घायु होता है।",
           "status": "translated"
         },
         {
           "number": 39,
           "text": "अरिनीचगे भावाधिपे अल्पायुः",
-          "english": "If the 8th lord is weak or in an enemy sign, the native will have a short life.",
+          "english": "If the 8th lord is weak or in an enemy Rashi, the native will have a short life.",
           "hindi": "यदि अष्टमेश निर्बल या शत्रु राशि में हो, तो जातक की आयु कम होती है।",
           "status": "translated"
         },
@@ -3708,14 +3708,14 @@
         {
           "number": 41,
           "text": "लग्नान्नवमे शनिफलं\nपतितः जीर्णोद्धारकरः एकोनचत्वारिंशद्वर्षे\nतटाकगोपुरनिर्माणकर्त्ता",
-          "english": "Saturn in the ninth house: The native may be of bad conduct but will engage in renovations and construction in his 39th year.",
+          "english": "Shani in 9th Bhava: The native may be of bad conduct but will engage in renovations and construction in his 39th year.",
           "hindi": "नवम भाव में शनि का फल: जातक दुराचारी हो सकता है, किंतु वह निर्माण और जीर्णोद्धार कार्यों में लगा रहता है।",
           "status": "translated"
         },
         {
           "number": 42,
           "text": "उच्चस्वक्षेत्रे पितृदीर्घायुः",
-          "english": "If exalted or in its own sign, his father will be long-lived.",
+          "english": "If exalted or in its own Rashi, his father will be long-lived.",
           "hindi": "यदि उच्च या स्वराशि में हो, तो जातक का पिता दीर्घायु होता है।",
           "status": "translated"
         },
@@ -3729,7 +3729,7 @@
         {
           "number": 44,
           "text": "लग्नाद्दशमे शनिफलं\nपञ्चविंशतिवर्षे गङ्गास्नानी अतिलुब्धः पित्तशरीरी",
-          "english": "Saturn in the tenth house: In his 25th year, he will go on a pilgrimage. He will be greedy and of Pitta temperament.",
+          "english": "Shani in 10th Bhava: In his 25th year, he will go on a pilgrimage. He will be greedy and of Pitta temperament.",
           "hindi": "दशम भाव में शनि का फल: २५ वर्ष की आयु में तीर्थ यात्रा करता है। वह लोभी और पित्त प्रकृति वाला होता है।",
           "status": "translated"
         },
@@ -3743,14 +3743,14 @@
         {
           "number": 46,
           "text": "लग्नादेकादशे शनिफलं\nबहुधनी विघ्नकरः भूमिलाभः राजपूजकः",
-          "english": "Saturn in the eleventh house: The native will be very wealthy, gain land, and be honored by the government.",
+          "english": "Shani in 11th Bhava: The native will be very wealthy, gain land, and be honored by the government.",
           "hindi": "एकादश भाव में शनि का फल: जातक अत्यंत धनी होता है, उसे भूमि का लाभ होता है और वह शासन द्वारा सम्मानित होता है।",
           "status": "translated"
         },
         {
           "number": 47,
           "text": "उच्चे स्वक्षेत्रे वा विद्वान्",
-          "english": "If exalted or in its own sign, the native will be learned.",
+          "english": "If exalted or in its own Rashi, the native will be learned.",
           "hindi": "यदि उच्च या स्वराशि में हो, तो जातक विद्वान होता है।",
           "status": "translated"
         },
@@ -3764,7 +3764,7 @@
         {
           "number": 49,
           "text": "लग्नाद्द्वादशे शनिफलं\nपतितः विकलाङ्गः",
-          "english": "Saturn in the twelfth house: The native may have bad conduct and physical deformities.",
+          "english": "Shani in 12th Bhava: The native may have bad conduct and physical deformities.",
           "hindi": "द्वादश भाव में शनि का फल: जातक दुराचारी और शारीरिक रूप से विकलाङ्ग हो सकता है।",
           "status": "translated"
         },
@@ -3805,14 +3805,14 @@
         {
           "number": 1,
           "text": "तत्रादौ लग्ने राहुकेत्वोः फलं\nमृतप्रसूतिः",
-          "english": "Rahu or Ketu in the first house: The native may suffer from stillborn children or difficult childbirths.",
+          "english": "Rahu or Ketu in 1st Bhava (Lagna): The native may suffer from stillborn children or difficult childbirths.",
           "hindi": "प्रथम भाव में राहु या केतु का फल: जातक को मृत-संतान या प्रसव संबंधी कष्ट का सामना करना पड़ सकता है।",
           "status": "translated"
         },
         {
           "number": 2,
           "text": "मेषवृषभकर्कराशिस्थे द्यावान्",
-          "english": "If in Aries, Taurus, or Cancer, the native will be compassionate.",
+          "english": "If in Mesha, Vrishabha, or Karka, the native will be compassionate.",
           "hindi": "यदि मेष, वृषभ या कर्क राशि में हो, तो जातक दयालु होता है।",
           "status": "translated"
         },
@@ -3833,7 +3833,7 @@
         {
           "number": 5,
           "text": "लग्नाद्द्वितीये राहुकेत्वोः फलं\nनिर्धनः देहव्याधिः पुत्रशोकः श्यामवर्णः",
-          "english": "Rahu or Ketu in the second house: The native will be poor, sickly, and have a dark complexion.",
+          "english": "Rahu or Ketu in 2nd Bhava: The native will be poor, sickly, and have a dark complexion.",
           "hindi": "द्वितीय भाव में राहु या केतु का फल: जातक निर्धन, रोगी और श्याम वर्ण का होता है।",
           "status": "translated"
         },
@@ -3847,7 +3847,7 @@
         {
           "number": 7,
           "text": "लग्नात्तृतीये राहुकेत्वोः फलं\nतिलनिष्पावमुद्रकोद्रवसमृद्धिवान्",
-          "english": "Rahu or Ketu in the third house: The native will have abundance of grains and agricultural produce.",
+          "english": "Rahu or Ketu in 3rd Bhava: The native will have abundance of grains and agricultural produce.",
           "hindi": "तृतीय भाव में राहु या केतु का फल: जातक के पास अन्न और कृषि उत्पादों की प्रचुरता रहती है।",
           "status": "translated"
         },
@@ -3861,7 +3861,7 @@
         {
           "number": 9,
           "text": "लग्नाच्चतुर्थे राहुकेतुफलं\nबहुभूषणसमृद्धिः जायाद्वयं सेवकः\nमातृक्लेशः पापयुते निश्चयेन",
-          "english": "Rahu or Ketu in the fourth house: The native will have many ornaments but cause distress to the mother.",
+          "english": "Rahu or Ketu in 4th Bhava: The native will have many ornaments but cause distress to the mother.",
           "hindi": "चतुर्थ भाव में राहु या केतु का फल: जातक के पास अनेक आभूषण होते हैं, किंतु वह माता को कष्ट देने वाला होता है।",
           "status": "translated"
         },
@@ -3875,7 +3875,7 @@
         {
           "number": 11,
           "text": "लग्नात्पञ्चमे राहुकेत्वोः फलं\nपुत्राभावः सर्पशापात् सुतक्षयः",
-          "english": "Rahu or Ketu in the fifth house: The native will be childless due to a curse from serpents.",
+          "english": "Rahu or Ketu in 5th Bhava: The native will be childless due to a curse from serpents.",
           "hindi": "पंचम भाव में राहु या केतु का फल: जातक सर्प-शाप के कारण पुत्रहीन होता है।",
           "status": "translated"
         },
@@ -3896,14 +3896,14 @@
         {
           "number": 14,
           "text": "लग्नात्षष्ठे राहुकेत्वोः फलं\nधीरवान् अतिसुखी",
-          "english": "Rahu or Ketu in the sixth house: The native will be brave and very happy.",
+          "english": "Rahu or Ketu in 6th Bhava: The native will be brave and very happy.",
           "hindi": "षष्ठ भाव में राहु या केतु का फल: जातक धैर्यवान और अत्यंत सुखी होता है।",
           "status": "translated"
         },
         {
           "number": 15,
           "text": "इन्दुयुते राजस्त्रीभोगी",
-          "english": "With the Moon, he will enjoy the company of noble women.",
+          "english": "With Chandra, he will enjoy the company of noble women.",
           "hindi": "चन्द्रमा के साथ होने पर वह श्रेष्ठ कुल की स्त्रियों का प्रेमी होता है।",
           "status": "translated"
         },
@@ -3917,7 +3917,7 @@
         {
           "number": 17,
           "text": "लग्नात्सप्तमे राहुकेत्वोः फलं\nदारद्वयं तन्मध्ये प्रथमस्त्रीनाशः\nद्वितिये कलत्रे गुल्मव्याधिः",
-          "english": "Rahu or Ketu in the seventh house: He will have two wives; the first is lost, and the second is sickly.",
+          "english": "Rahu or Ketu in 7th Bhava: He will have two wives; the first is lost, and the second is sickly.",
           "hindi": "सप्तम भाव में राहु या केतु का फल: जातक की दो पत्नियां होती हैं; प्रथम की हानि होती है और दूसरी रोगिणी होती है।",
           "status": "translated"
         },
@@ -3952,7 +3952,7 @@
         {
           "number": 22,
           "text": "लग्नादष्टमे राहुकेत्वोः फलं\nअतिरोगी द्वत्रिंशद्वर्षायुष्मान",
-          "english": "Rahu or Ketu in the eighth house: The native is very sickly with a 32-year lifespan.",
+          "english": "Rahu or Ketu in 8th Bhava: The native is very sickly with a 32-year lifespan.",
           "hindi": "अष्टम भाव में राहु या केतु का फल: जातक बहुत रोगी और ३२ वर्ष की आयु वाला होता है।",
           "status": "translated"
         },
@@ -3966,14 +3966,14 @@
         {
           "number": 24,
           "text": "लग्नान्नवमे राहुकेत्वोः फलं\nपुत्रहीनः शूद्रस्त्रीसम्भोगी सेवकः धर्महीनः",
-          "english": "Rahu or Ketu in the ninth house: The native will be childless, a servant, and lack righteousness.",
+          "english": "Rahu or Ketu in 9th Bhava: The native will be childless, a servant, and lack righteousness.",
           "hindi": "नवम भाव में राहु या केतु का फल: जातक पुत्रहीन, सेवक और धर्महीन होता है।",
           "status": "translated"
         },
         {
           "number": 25,
           "text": "लग्नाद्दशमे राहुकेत्वोः फलं\nवितन्तुसङ्गमः",
-          "english": "Rahu or Ketu in the tenth house: The native may associate with widows.",
+          "english": "Rahu or Ketu in 10th Bhava: The native may associate with widows.",
           "hindi": "दशम भाव में राहु या केतु का फल: जातक विधवा-गामी हो सकता है।",
           "status": "translated"
         },
@@ -4001,7 +4001,7 @@
         {
           "number": 29,
           "text": "लग्नादेकादशे राहुकेत्वोः फलं\nपुत्रैः समृध्दः",
-          "english": "Rahu or Ketu in the eleventh house: The native will be blessed with many sons.",
+          "english": "Rahu or Ketu in 11th Bhava: The native will be blessed with many sons.",
           "hindi": "एकादश भाव में राहु या केतु का फल: जातक पुत्रों से समृद्ध होता है।",
           "status": "translated"
         },
@@ -4015,7 +4015,7 @@
         {
           "number": 31,
           "text": "लग्नाद्द्वादशे राहुकेत्वोः फलं\nअल्पपुत्रः",
-          "english": "Rahu or Ketu in the twelfth house: The native will have few sons.",
+          "english": "Rahu or Ketu in 12th Bhava: The native will have few sons.",
           "hindi": "द्वादश भाव में राहु या केतु का फल: जातक के कम पुत्र होते हैं।",
           "status": "translated"
         },

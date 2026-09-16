@@ -102,13 +102,22 @@ correct rows with nothing able to tell the difference.
 
 **Translation splits by ARRIVAL DATE, not category** — never restate a percentage. Texts digitised
 before 2026-09-02 are translated; everything landed since arrives `untranslated`, as the Vedic and
-Upaveda texts always have. "The Jyotiṣa texts are 100% translated" was true here until 2026-09-14,
-by when all 8 Siddhāntas, both Jaimini texts and 4 more had falsified it. Per-text: INVENTORY.
+Upaveda texts always have. **Do not restate which texts falsify that either — this paragraph did,
+and the claim rotted in nine days.** It read "all 8 Siddhāntas, both Jaimini texts and 4 more had
+falsified it"; a translation run on 2026-09-15 took 22 texts to 100%, so **5 of 8 Siddhāntas and
+both Jaimini texts are now translated** and 3 Siddhāntas (`brahmasphuta_siddhanta`,
+`grahaganita`, `panchasiddhantika`) are not. Derive it, per-text, and never write the list here:
+`python3 scripts/check_inventory.py`. (Found by the declared `docs/INVENTORY.md → CLAUDE.md`
+propagate edge, which is the only reason anyone looked.)
 
-### ⚠ 71 shlokas never reach AstroAcharya
+### ⚠ ~70 shlokas never reach AstroAcharya — derive the number, never trust this heading
+
+**This heading said 71 until 2026-09-15 and the tool said 70.** A count in a heading rots faster
+than the paragraph under it; the figure below is whatever `check_inventory.py` last printed, and
+the command is the authority.
 
 `seed_texts.py` dedupes by `(chapter, shloka)`, later file wins — so INVENTORY's Shlokas column
-counts what is *present*, not what is **ingestible** (G8). All 71 are intra-chapter and
+counts what is *present*, not what is **ingestible** (G8). All of them are intra-chapter and
 pre-existing; `python3 scripts/check_inventory.py` prints the current loss and names every text
 carrying it. **The converter cannot add to it** — it refuses a text with a duplicate
 `(chapter, number)` rather than writing it, so a collision blocks the conversion instead of
