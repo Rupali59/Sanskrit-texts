@@ -28,10 +28,52 @@ Exit codes (rule:discernment-checks §2):
   0  ran
   1  --score found no verdicts to score, or the sheet disagrees with the corpus
   2  could not run — corpus absent or unparseable
+
+THE BLIND IS NOT SELF-ENFORCING — VERIFY IT, DO NOT ASK FOR IT (2026-09-15)
+--------------------------------------------------------------------------
+Planting mutates the RENDERED SHEET and leaves the corpus clean. That is what makes the
+plant safe, and it is also the hole: the corpus therefore holds the unplanted truth, so
+**25 of 25 plants are recoverable by string-diffing the sheet against the JSON**, with no
+Sanskrit read at all. A reviewer that opens the corpus is not blind, and its sensitivity
+score then measures diffing rather than reading.
+
+This is not hypothetical. Of the two reviewers dispatched that day the phala agent said,
+unprompted, that it was "reading the full Devanagari from the corpus JSON (the sheet
+truncates it)" — an entirely reasonable thing to do, and it invalidates its own 4/4. The
+matched-section agent read only the sheet and the two rubric docs, and its verdicts stand.
+
+So every reviewer brief carries, verbatim:
+
+    Work ONLY from the rows in this sheet. Do NOT open the corpus JSON, do not run git
+    log/diff/show, and do not consult any other copy of these verses. The sheet's
+    Devanagari is the whole input. If a row is truncated, judge the tags against what is
+    shown and mark it `unsure` rather than going to another source.
+
+AND — because a brief is a request, not a guarantee — confirm it afterwards from the
+agent's own tool log, which is the only evidence that outranks its self-report:
+
+    python3 -c "
+    import json,sys
+    bad=[]
+    for l in open(sys.argv[1],encoding='utf-8',errors='replace'):
+        try: d=json.loads(l)
+        except: continue
+        m=d.get('message') or {}
+        for c in (m.get('content') or []) if isinstance(m.get('content'),list) else []:
+            if isinstance(c,dict) and c.get('type')=='tool_use':
+                t=str((c.get('input') or {}).get('file_path') or
+                      (c.get('input') or {}).get('command') or '')
+                if '.json' in t or 'git ' in t: bad.append(t[:90])
+    print('BLIND BROKEN:' if bad else 'blind intact', *bad[:6], sep='\\n  ')
+    " <task-output-file>
+
+A reviewer that broke the blind has not failed — its verdicts are simply a different
+measurement, and must be reported as such rather than pooled with a blind one.
 """
 
 import argparse
 import json
+import math
 import random
 import re
 import sys
@@ -43,6 +85,33 @@ BPHS = REPO / "Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShas
 SHEET = REPO / "docs" / "SPOT_CHECK.md"
 
 SEED = 20260914          # the date, so the sample is reproducible and its origin is legible
+# The usability bar, and the sample size at which it can actually fail. See
+# sensitivity_report.__doc__ — MIN_PLANTS is solved from THRESHOLD, never typed in.
+THRESHOLD = 0.80
+MIN_PLANTS = math.ceil(math.log(0.05) / math.log(THRESHOLD))
+
+# Rarest kind first — the quota loop lets a scarce kind claim its rows before a
+# common one consumes them. chain_reversed leads because chain tags are ~1% of the corpus.
+KINDS_BY_SCARCITY = ["chain_reversed", "graha_swapped", "bhava_swapped",
+                     "phala_swapped", "tag_added", "tag_dropped"]
+# A phala row carries only `phala:` tags, so chain/graha/bhava swaps are IMPOSSIBLE there
+# and tag_added would have been its only commission defect — a single, crude kind. Swapping
+# one read category for another is the true analogue of graha_swapped: it asks whether the
+# reviewer read the verse, not whether it noticed an extra line. Pairs are chosen to be
+# semantically DISTANT (wealth<->disease, not loss<->sorrow), because near-neighbour
+# confusion is exactly the judgement call PHALA_CATEGORIES.md tells reviewers to allow.
+PHALA_SWAP = {"wealth": "disease", "disease": "wealth", "loss": "honour",
+              "honour": "loss", "happiness": "danger", "danger": "happiness",
+              "sorrow": "learning", "learning": "sorrow", "death": "marriage",
+              "marriage": "death", "children": "travel", "travel": "children",
+              "family": "enemies", "enemies": "family", "longevity": "property",
+              "property": "longevity", "religion": "profession",
+              "profession": "religion"}
+QUOTA = 3
+# A dropped tag leaves every SHOWN tag correct, which is the rubric's definition of `ok`.
+# It is an omission, scored separately — see sensitivity_report.
+OMISSION_KINDS = {"tag_dropped"}
+
 PLANT_CACHE = Path.home() / ".cache" / "sanskrit-texts"
 
 # Deliberately wrong tags, planted to measure whether a REVIEWER is reading the text.
@@ -117,6 +186,17 @@ def plant(rows, ph_rows, n, seed):
     the one that matters: 38 (lord_of, in_house) pairs genuinely occur with their reverse
     in BPHS, so a reviewer who cannot catch lord5_pos9 rendered as lord9_pos5 cannot
     validate the only layer that distinguishes them.
+
+    QUOTA FIRST, RANDOM AFTER (2026-09-15). This drew its kind with rng.choice over a list
+    that ALWAYS held tag_added and tag_dropped and held chain_reversed only on the rare row
+    carrying a chain tag — 11 chain tags across 166 sampled rows. Seed 7 therefore planted
+    ZERO chain reversals in 25 plants, and the reviewer was still reported USABLE: the one
+    defect this layer exists to catch was the one never tested. So each kind now gets a
+    guaranteed QUOTA before anything is filled randomly, rarest first.
+
+    A kind that is IMPOSSIBLE in this sample (no eligible row) is returned in `impossible`
+    and must be printed, never silently skipped — rule:discernment-checks §2. "No chain row
+    to plant on" and "chain reversals all caught" are different facts and only one is a pass.
     """
     rng = random.Random(seed)
     pool = ([("tags", c, s, sorted(s.get("tags") or [])) for c, s in rows]
@@ -124,20 +204,53 @@ def plant(rows, ph_rows, n, seed):
                                       if x.startswith("phala:"))) for c, s in ph_rows])
     pool = [x for x in pool if x[3]]
     rng.shuffle(pool)
-    out = {}
-    for section, c, sh, tags in pool:
-        if len(out) >= n:
-            break
-        ref = f"{c}.{sh['number']}"
-        kinds = []
-        if any(x.startswith("chain:lord") and "_pos" in x for x in tags):
-            kinds.append("chain_reversed")
-        if any(x.startswith("graha:") for x in tags):
-            kinds.append("graha_swapped")
-        if any(x.startswith("bhava:") for x in tags):
-            kinds.append("bhava_swapped")
-        kinds += ["tag_added", "tag_dropped"]
-        kind = rng.choice(kinds)
+    out, used = {}, set()
+
+    def eligible(tags, kind):
+        if kind == "chain_reversed":
+            return any(x.startswith("chain:lord") and "_pos" in x for x in tags)
+        if kind == "graha_swapped":
+            return any(x.startswith("graha:") for x in tags)
+        if kind == "bhava_swapped":
+            return any(x.startswith("bhava:") for x in tags)
+        if kind == "phala_swapped":
+            return any(x.split(":", 1)[1] in PHALA_SWAP
+                       for x in tags if x.startswith("phala:"))
+        if kind == "tag_dropped":
+            return len(tags) >= 2
+        return True
+
+    # rarest first, so a scarce kind claims its rows before a common one consumes them
+    impossible = []
+    # PER SECTION. Pooling the budget gave the phala section ~6 of 25 plants purely
+    # because it has fewer rows, so its sensitivity could never reach MIN_PLANTS and its
+    # reviewer could never be validated. Each section now gets its own quota run.
+    for sec in ("tags", "phala"):
+        sec_pool = [(i, x) for i, x in enumerate(pool) if x[0] == sec]
+        plan = [(k, QUOTA) for k in KINDS_BY_SCARCITY]
+        plan += [(None, max(0, n - sum(q for _, q in plan)))]
+        for kind, quota in plan:
+            got_k = 0
+            for idx, (section, c, sh, tags) in sec_pool:
+                if got_k >= quota or sum(1 for k2 in out if k2[0] == sec) >= n:
+                    break
+                if idx in used or (kind and not eligible(tags, kind)):
+                    continue
+                k = kind or rng.choice([x for x in KINDS_BY_SCARCITY if eligible(tags, x)])
+                rec = _mutate(section, tags, k, rng)
+                if rec is None:
+                    continue
+                used.add(idx)
+                out[(section, f"{c}.{sh['number']}")] = rec
+                got_k += 1
+            if kind and got_k == 0:
+                impossible.append(f"{sec}/{kind}")
+    return out, impossible
+
+
+def _mutate(section, tags, kind, rng):
+    """One defect of `kind` on `tags`, or None when this row cannot carry it."""
+    if True:
         new = list(tags)
 
         if kind == "chain_reversed":
@@ -153,66 +266,152 @@ def plant(rows, ph_rows, n, seed):
             i = next(i for i, x in enumerate(new) if x.startswith("bhava:"))
             b = int(new[i].split(":", 1)[1])
             new[i] = f"bhava:{(b + 5) % 12 + 1}"
+        elif kind == "phala_swapped":
+            i = next(i for i, x in enumerate(new)
+                     if x.startswith("phala:") and x.split(":", 1)[1] in PHALA_SWAP)
+            new[i] = f"phala:{PHALA_SWAP[new[i].split(':', 1)[1]]}"
+            if new[i] in tags:
+                return None
         elif kind == "tag_added":
-            extra = "phala:death" if section == "phala" else "rel:aspect"
-            if extra in new:
-                extra = "phala:travel" if section == "phala" else "rel:dignity"
-            if extra in new:
-                continue
-            new.append(extra)
+            # DRAWN, NOT CONSTANT (2026-09-15). This appended a fixed `phala:death` with a
+            # single `phala:travel` fallback, so one 64-row sheet carried 8 spurious
+            # `death` tags and 3 spurious `travel`. The blind reviewer reported, unprompted,
+            # that "`death` is attached to eight verses that state no mortality ... both
+            # look like a bleed from something other than the verse text" — it recovered the
+            # MECHANISM from the aggregate. A reviewer can then flag every one of them
+            # without reading a single verse, which makes a perfect catch rate ambiguous
+            # between "read the Sanskrit" and "noticed a repeated tag". Same shape as the
+            # corpus leak: a shortcut that bypasses the thing being measured.
+            pool = ([f"phala:{c}" for c in PHALA_SWAP] if section == "phala"
+                    else ["rel:aspect", "rel:dignity", "rel:conjunction", "rel:state",
+                          "rel:polarity", "rel:house_group", "rel:modality"])
+            choices = [x for x in pool if x not in new]
+            if not choices:
+                return None
+            new.append(rng.choice(choices))
         else:  # tag_dropped
             if len(new) < 2:
-                continue
+                return None
             new.pop(rng.randrange(len(new)))
 
         if new == tags:
-            continue
-        out[(section, ref)] = {"kind": kind, "was": tags, "shown": sorted(new)}
-    return out
+            return None
+        return {"kind": kind, "was": tags, "shown": sorted(new)}
 
 
 def sensitivity_report(planted_key, got):
     """Did the reviewer catch the deliberately wrong tags? Report BEFORE anything else.
 
-    A reviewer below ~80% here is not reading the Devanagari, and its verdicts on the
+    A reviewer below THRESHOLD here is not reading the Devanagari, and its verdicts on the
     unplanted rows are an opinion rather than a measurement.
+
+    MIN_PLANTS IS DERIVED, NOT PICKED. The adversarial review of 2026-09-15 found this
+    function printing "USABLE reviewer" off a PERFECT 4/4 — a sample on which the verdict
+    cannot fail. Clopper-Pearson: a flawless k/k score has exact 95% lower bound
+    0.05**(1/k), which is 0.47 at k=4 and does not clear 0.80 until k=14. Below that the
+    check reports success by construction, which rule:discernment-checks §1 calls worse
+    than no check. So the floor is the k at which a perfect score's lower bound reaches
+    THRESHOLD, and it is computed from THRESHOLD rather than written down beside it.
+
+    THE SENSITIVITY DENOMINATOR IS REVIEWER-CONTROLLED, and that is the second finding.
+    `seen` counts only planted rows the reviewer actually returned a verdict for, so an
+    agent that reviews the rows it feels sure about shrinks the sample it is graded on.
+    Hence the coverage line: sensitivity measured over a fraction of the plants is
+    reported with that fraction, never as a bare percentage.
     """
-    by_kind, caught, seen = defaultdict(lambda: [0, 0]), 0, 0
+    # PER SECTION, for the same reason the quotas are: the two sections are reviewed by
+    # different agents against different rubrics, so one pooled catch rate describes
+    # neither. Measured 2026-09-15 — pooling a blind phala reviewer's plants with stale
+    # tags-section verdicts produced "61% — NOT a usable reviewer" for an agent that had
+    # in fact caught every commission defect in the section it was actually asked to read.
+    out = []
+    for sec in ("tags", "phala"):
+        sub = {k: v for k, v in planted_key.items() if k[0] == sec}
+        if sub:
+            out.append(_sensitivity_one(sec, sub, got))
+    return "\n\n".join(out) if out else "  SENSITIVITY: no plants. Not measured."
+
+
+def _sensitivity_one(sec, planted_key, got):
+    by_kind = defaultdict(lambda: [0, 0])
+    caught = seen = om_caught = om_seen = 0
     missed = []
     for (section, ref), rec in planted_key.items():
         ch, sh = ref.split(".", 1)
         v = got.get((section, ch, sh), (None, ""))[0]
         if v is None:
             continue
-        seen += 1
-        hit = v in ("wrong", "partial") if rec["kind"] == "tag_dropped" else v == "wrong"
-        caught += hit
+        omission = rec["kind"] in OMISSION_KINDS
+        hit = v in ("wrong", "partial") if omission else v == "wrong"
         by_kind[rec["kind"]][0] += hit
         by_kind[rec["kind"]][1] += 1
+        if omission:
+            om_seen += 1
+            om_caught += hit
+        else:
+            seen += 1
+            caught += hit
         if not hit:
             missed.append((section, ref, rec["kind"], v))
     if not seen:
-        return ("  SENSITIVITY: none of the planted rows were reviewed — not measured.\n"
-                "  Absent, not a pass.")
-    L = ["  === reviewer sensitivity (measured FIRST — the rest means nothing without it)",
-         f"    planted rows reviewed: {seen} of {len(planted_key)}",
+        # NOT an early return. A section can hold omission plants and no commission ones,
+        # and "commission not measured" must not swallow an omission result that WAS
+        # measured — that is rule:discernment-checks §2 inverted, absence eating a fact.
+        # The selftest pins this: its phala section carries only a tag_dropped.
+        L = [f"  === [{sec}] SENSITIVITY: no COMMISSION plant was reviewed — "
+             f"not measured. Absent, not a pass."]
+        if om_seen:
+            L += [f"    omission plants (tag_dropped) — scored APART, "
+                  f"`ok` is defensible here:",
+                  f"      noticed: {om_caught}/{om_seen}  "
+                  f"— measures whether `partial` is used at all, "
+                  f"not whether the text was read"]
+        return "\n".join(L)
+    L = [f"  === [{sec}] reviewer sensitivity "
+         f"(measured FIRST — the rest means nothing without it)",
+         f"    commission plants reviewed: {seen} of "
+         f"{sum(1 for r in planted_key.values() if r['kind'] not in OMISSION_KINDS)} "
+         f"(the reviewer chose this sample)",
          f"    CAUGHT: {caught}/{seen} = {100*caught/seen:.0f}%", ""]
     for k, (c, n) in sorted(by_kind.items()):
         L.append(f"      {k:<16}{c}/{n}")
     if missed:
         L += ["", "    missed:"]
         L += [f"      {s}/{r:<10}{k:<16}reviewer said {v!r}" for s, r, k, v in missed[:8]]
-    verdict = ("    => USABLE reviewer" if caught / seen >= 0.8 else
-               "    => NOT a usable reviewer. Discard its other verdicts.")
+    if seen < MIN_PLANTS:
+        verdict = (f"    => NOT MEASURED at usable power: {seen} plant(s) reviewed, "
+                   f"{MIN_PLANTS} needed.\n"
+                   f"       A perfect {seen}/{seen} has a 95% lower bound of "
+                   f"{0.05 ** (1 / seen):.0%}, under the {THRESHOLD:.0%} bar — so this\n"
+                   f"       sample cannot fail. Absent, not a pass "
+                   f"(rule:discernment-checks §2). Re-plant with --plant "
+                   f"{MIN_PLANTS * 3} or more.")
+    else:
+        verdict = (f"    => USABLE reviewer" if caught / seen >= THRESHOLD else
+                   "    => NOT a usable reviewer. Discard its other verdicts.")
     L += ["", verdict]
+    if om_seen:
+        # SCORED APART, and that is the 2026-09-15 correction. Dropping a tag leaves every
+        # tag still SHOWN correct — the rubric's literal definition of `ok` — so only
+        # `partial` catches it, and only when the omission is obvious. Pooling these with
+        # the swaps put 4 plants in a denominator they could not fairly be in and dragged
+        # a commission score down for a verdict the rubric permits.
+        L += ["",
+              f"    omission plants (tag_dropped) — scored APART, `ok` is defensible here:",
+              f"      noticed: {om_caught}/{om_seen}  "
+              f"— measures whether `partial` is used at all, not whether the text was read"]
     return "\n".join(L)
 
 
 def selftest():
-    """The sensitivity measure must be able to report both 0% and 100%.
+    """The sensitivity measure must report both 0% and 100%, and must NOT pool omissions.
 
-    rule:discernment-checks §1. Without this the catch rate is a number that cannot fail,
-    which is exactly what this whole mechanism exists to stop other people shipping.
+    rule:discernment-checks §1. Without the first half the catch rate is a number that
+    cannot fail, which is exactly what this whole mechanism exists to stop other people
+    shipping. The second half was added 2026-09-15 with the commission/omission split:
+    the earlier version asserted `CAUGHT: 3/3` over a key holding two swaps and one
+    tag_dropped, so it would have passed an implementation that quietly folded a dropped
+    tag back into the commission denominator — the exact defect the split removes.
     """
     key = {("tags", "1.1"): {"kind": "graha_swapped", "was": [], "shown": []},
            ("tags", "1.2"): {"kind": "chain_reversed", "was": [], "shown": []},
@@ -222,19 +421,28 @@ def selftest():
     keen = {("tags", "1", "1"): ("wrong", ""), ("tags", "1", "2"): ("wrong", ""),
             ("phala", "2", "1"): ("partial", "")}
     lo, hi = sensitivity_report(key, lazy), sensitivity_report(key, keen)
-    ok_lo, ok_hi = "CAUGHT: 0/3 = 0%" in lo, "CAUGHT: 3/3 = 100%" in hi
-    print(f"  all-`ok` reviewer      -> {'0%   ' if ok_lo else 'NOT 0%'}  {'PASS' if ok_lo else 'FAIL'}")
-    print(f"  catches-everything     -> {'100% ' if ok_hi else 'NOT 100%'}  {'PASS' if ok_hi else 'FAIL'}")
-    if not (ok_lo and ok_hi):
-        print("selftest FAILED: the sensitivity measure cannot report both ends",
-              file=sys.stderr)
+
+    checks = [
+        ("all-`ok` reviewer       -> 0%", "CAUGHT: 0/2 = 0%" in lo),
+        ("catches-everything      -> 100%", "CAUGHT: 2/2 = 100%" in hi),
+        ("omission NOT pooled     -> /2 not /3", "CAUGHT: 0/3" not in lo
+                                                 and "CAUGHT: 3/3" not in hi),
+        ("omission reported apart -> 0/1", "noticed: 0/1" in lo),
+        ("omission reported apart -> 1/1", "noticed: 1/1" in hi),
+    ]
+    bad = 0
+    for label, ok in checks:
+        print(f"  {label:<40}{'PASS' if ok else 'FAIL'}")
+        bad += not ok
+    if bad:
+        print(f"selftest FAILED: {bad} assertion(s)", file=sys.stderr)
         return 1
-    print("  the sensitivity measure can report both ends")
+    print("  sensitivity can report both ends, and omissions are scored apart")
     return 0
 
 
 def read_verdicts(path):
-    """{(section, chapter, shloka): (verdict, note)} from a filled-in sheet.
+    """{(section, chapter, shloka): (verdict, note, tags_cell)} from a filled-in sheet.
 
     KEYED BY SECTION, and that is not cosmetic: 42 verses appear in BOTH samples, so a
     key of (chapter, shloka) alone would let a verdict written in one section silently
@@ -261,7 +469,10 @@ def read_verdicts(path):
             continue
         v = cells[idx].strip().lower()
         if v in VERDICTS:
-            got[(section, m.group(1), m.group(2))] = (v, cells[idx + 1])
+            # the TAGS CELL is carried too: a verdict is a judgement about the tags that
+            # were shown, so it is only valid while those tags are unchanged. See
+            # main()'s carry-forward.
+            got[(section, m.group(1), m.group(2))] = (v, cells[idx + 1], cells[idx - 1])
     return got
 
 
@@ -332,9 +543,9 @@ def main():
             if not sub:
                 print(f"    not reviewed yet — 0 of {sizes[section]}")
                 continue
-            tally = Counter(v for v, _ in sub.values())
+            tally = Counter(v for v, _, _t in sub.values())
             by_type = defaultdict(Counter)
-            for (_, c, s), (v, _) in sub.items():
+            for (_, c, s), (v, _, _tags) in sub.items():
                 sh = next((x for ch in doc["chapters"] if str(ch["number"]) == c
                            for x in ch["shlokas"] if str(x["number"]) == s), None)
                 for t in (sh.get(field[section]) if sh else []) or []:
@@ -347,11 +558,26 @@ def main():
                 print(f"      {v:<9}{tally[v]:>5}  {100*tally[v]/n:>5.1f}%")
             judged = tally["ok"] + tally["wrong"] + tally["partial"]
             if judged:
-                print(f"    precision (ok / ok+wrong+partial): {100*tally['ok']/judged:.1f}%")
+                # PRECISION AND RECALL ARE DIFFERENT QUESTIONS AND THIS PRINTED ONE NUMBER.
+                # Until 2026-09-15 it reported ok/(ok+wrong+partial) and called it precision.
+                # But `partial` means "every tag shown is RIGHT, something obvious is missed" —
+                # a partial row contains no wrong tag, so charging it to precision understates
+                # precision by exactly the miss rate. On the first real review that turned
+                # 77% precision / 54% completeness into a single "41.2%", which reads as a
+                # broken matcher rather than an accurate but incomplete one. Two defects that
+                # need opposite fixes (drop roots vs add roots) were being summed into one
+                # unactionable figure. rule:discernment-checks §5: compare like with like.
+                clean = tally["ok"] + tally["partial"]
+                print(f"    precision  (no WRONG tag present): "
+                      f"{100*clean/judged:.1f}%   [{clean}/{judged}]")
+                if clean:
+                    print(f"    completeness (nothing obvious MISSED): "
+                          f"{100*tally['ok']/clean:.1f}%   [{tally['ok']}/{clean}]")
             for t, c in sorted(by_type.items(), key=lambda kv: -sum(kv[1].values())):
                 tot = c["ok"] + c["wrong"] + c["partial"]
-                pc = f"{100*c['ok']/tot:.0f}%" if tot else "n/a"
-                print(f"      {t:<10}{sum(c.values()):>5} tags · ok {c['ok']:>4} · wrong {c['wrong']:>4} · {pc}")
+                pc = f"{100*(c['ok']+c['partial'])/tot:.0f}%" if tot else "n/a"
+                print(f"      {t:<10}{sum(c.values()):>5} tags · ok {c['ok']:>4} "
+                      f"· wrong {c['wrong']:>4} · prec {pc}")
         print("\n  'unsure' is EXCLUDED from every precision denominator and reported")
         print("  separately — folding it either way invents a verdict the reviewer withheld.")
         return 0
@@ -359,16 +585,41 @@ def main():
     ph = phala_sample(doc)
     planted = {}
     if args.plant:
-        planted = plant(rows, ph, args.plant, args.plant_seed)
+        planted, impossible = plant(rows, ph, args.plant, args.plant_seed)
         PLANT_CACHE.mkdir(parents=True, exist_ok=True)
         key = PLANT_CACHE / f"plant-{args.plant_seed}.json"
         key.write_text(json.dumps(
             {f"{s}|{r}": v for (s, r), v in planted.items()}, indent=2, ensure_ascii=False))
         # The key lives OUTSIDE the repo on purpose: committed beside the sheet it would
         # be one `grep` from whoever is meant to be reviewing blind.
+        from collections import Counter as _C
         print(f"  planted {len(planted)} defect(s) · key -> {key}", file=sys.stderr)
+        comm = 10 ** 6
+        for sec in ("tags", "phala"):
+            kinds = _C(v["kind"] for (s2, _), v in planted.items() if s2 == sec)
+            c = sum(v for k, v in kinds.items() if k not in OMISSION_KINDS)
+            comm = min(comm, c)
+            print(f"    [{sec}] {c} commission + "
+                  f"{sum(kinds.values()) - c} omission · "
+                  + " ".join(f"{k}={kinds.get(k, 0)}" for k in KINDS_BY_SCARCITY),
+                  file=sys.stderr)
+        if impossible:
+            # Attributable absence: no eligible row existed, which is NOT the same as
+            # "the reviewer caught them all". rule:discernment-checks §2.
+            print(f"    IMPOSSIBLE in this sample (no eligible row): "
+                  f"{', '.join(impossible)}", file=sys.stderr)
+        if comm < MIN_PLANTS:
+            print(f"    WARNING: only {comm} commission defect(s); sensitivity needs "
+                  f"{MIN_PLANTS} to be able to fail. Raise --plant.", file=sys.stderr)
 
-    prior = read_verdicts(SHEET)          # never lose a reviewer's work on regeneration
+    # NEVER LOSE A REVIEWER'S WORK ON REGENERATION — but never carry a verdict onto tags
+    # it was not written about. Verdicts key on (section, chapter, shloka) and the tags are
+    # not part of that key, so re-planting under a new seed silently re-attached 251
+    # verdicts from the previous review to freshly mutated rows. A stale `ok` on a row that
+    # now carries a planted defect reads as a reviewer who missed it. Carry-forward is
+    # therefore conditional on the rendered tag cell being byte-identical.
+    prior = read_verdicts(SHEET)
+    dropped = [0]
     lines = [
         "# Spot check — the only honest precision estimate",
         "",
@@ -404,11 +655,14 @@ def main():
     ]
     for c, sh in rows:
         key = ("tags", str(c), str(sh["number"]))
-        v, note = prior.get(key, ("", ""))
+        v, note, _was = prior.get(key, ("", "", None))
         dev = (sh.get("text", "") or "").replace("\n", " ").replace("|", "/")[:110]
         shown = planted.get(("tags", f"{c}.{sh['number']}"), {}).get(
             "shown", sorted(sh.get("tags") or []))
         tags = " ".join(f"`{t}`" for t in shown)
+        if _was is not None and _was.strip() != tags.strip():
+            v, note = "", ""          # the tags moved; the verdict was about the old ones
+            dropped[0] += 1
         lines.append(f"| `{c}.{sh['number']}` | {dev} | {tags} | {v} | {note} |")
     lines.append("")
 
@@ -446,7 +700,7 @@ def main():
         ]
         for c, sh in ph:
             key = ("phala", str(c), str(sh["number"]))
-            v, note = prior.get(key, ("", ""))
+            v, note, _was = prior.get(key, ("", "", None))
             dev = (sh.get("text", "") or "").replace("\n", " ").replace("|", "/")[:78]
             eng = (sh.get("english", "") or "").replace("\n", " ").replace("|", "/")[:88]
             shown = planted.get(("phala", f"{c}.{sh['number']}"), {}).get(
@@ -454,6 +708,9 @@ def main():
                                 if x.startswith("phala:")))
             tags = " ".join(f"`{x.split(':', 1)[1]}`" for x in shown) \
                 or "*(none — states no result)*"
+            if _was is not None and _was.strip() != tags.strip():
+                v, note = "", ""      # the tags moved; the verdict was about the old ones
+                dropped[0] += 1
             lines.append(f"| `{c}.{sh['number']}` | {dev} | {eng} | {tags} | {v} | {note} |")
         lines.append("")
 
@@ -461,7 +718,10 @@ def main():
     SHEET.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"  {len(rows)} verses across {len({c for c, _ in rows})} chapters (matched tags)")
     print(f"  {len(ph)} verses across {len({c for c, _ in ph})} chapters (read phala)")
-    print(f"  {len(prior)} existing verdict(s) carried forward")
+    kept = len(prior) - dropped[0]
+    print(f"  {kept} verdict(s) carried forward · "
+          f"{dropped[0]} INVALIDATED (their tags changed — a verdict is about the tags "
+          f"it was written against)")
     print(f"-> {SHEET.relative_to(REPO)}")
     return 0
 

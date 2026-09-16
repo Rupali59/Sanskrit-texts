@@ -45,14 +45,14 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `13.12` | नेत्रेशे बलसंयुक्ते शोभनाक्षो भवेन्नरः । षष्ठाष्टमव्ययस्थे च नेत्रवैकल्यवान् भवेत् | `bhava:12` `bhava:6` `rel:conjunction` `rel:lordship` `rel:modality` `rel:position` `rel:state` |  |  |
 | `13.9` | लाभे जीवे धने शुक्रे धनेशे शुभसंयुते । व्यये च शुभसंयुक्ते धर्मकार्ये धनव्ययः | `bhava:11` `bhava:12` `bhava:2` `graha:jupiter` `graha:venus` `rel:conjunction` `rel:lordship` `rel:polarity` |  |  |
 | `13.8` | षष्ठेऽष्टमे व्यये वाऽपि धनलाभाधिपौ यदि । लाभे कुजोधने राहू राजदण्डाद् धनक्षयः | `bhava:11` `bhava:12` `bhava:2` `bhava:6` `graha:mars` `rel:lordship` `rel:modality` |  |  |
-| `13.1` | धनभावफलं वच्मि श‍ृणु त्वं द्विजसत्तम । धनेशो धनभावस्थः केन्द्रकोणगतोऽपि वा | `bhava:2` `chain:lord2_pos2` `entity:bhava` `rel:house_group` `rel:lordship` `rel:position` |  |  |
+| `13.1` | धनभावफलं वच्मि श‍ृणु त्वं द्विजसत्तम । धनेशो धनभावस्थः केन्द्रकोणगतोऽपि वा | `bhava:2` `chain:lord2_pos2` `entity:bhava` `rel:house_group` `rel:lordship` `rel:polarity` `rel:position` |  |  |
 | `13.11` | स्थिते पारावतांशादौ धनेशे शुभसंयुते । तद्गृहे सर्वसम्पत्तिर्विनाऽयासेन जायते | `bhava:2` `rel:conjunction` `rel:lordship` `rel:polarity` `rel:position` |  |  |
-| `13.10` | स्वभोच्चस्थे धनाधीशे जातको जनपोषकः । परोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम | `bhava:2` `rel:lordship` `rel:position` |  |  |
+| `13.10` | स्वभोच्चस्थे धनाधीशे जातको जनपोषकः । परोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम | `bhava:8` `rel:lordship` `rel:position` |  |  |
 | `13.2` | धनवृद्धिकरो ज्ञेयस्त्रिकस्थो धनहानिकृत् । धनदश्च धने सौम्यः पापो धनविनाशकृत् | `bhava:2` `rel:polarity` `rel:position` |  |  |
-| `17.16` | द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् । रोगस्थानं गतो राहुः केन्द्रे मान्दिसमन्विते | `graha:rahu` `rel:conjunction` `rel:house_group` `rel:position` |  |  |
+| `17.16` | द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् । रोगस्थानं गतो राहुः केन्द्रे मान्दिसमन्विते | `graha:rahu` `rel:house_group` `rel:position` |  |  |
 | `17.12` | चन्द्रेण गण्डः सलिलैः कफश्लेष्मादिना भवेत् । एवं पित्रादिभावानां तत्तत्कारकयोगतः | `entity:yoga` `graha:moon` `rel:modality` |  |  |
-| `17.7` | लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ । राहुणा शनिना सार्द्धं कुष्ठं तत्र विनिर्दिशेत् | `bhava:1` `graha:mars` `graha:mercury` `graha:moon` `graha:rahu` `graha:saturn` `rel:conjunction` `rel:lordship` `rel:modality` |  |  |
-| `17.6` | लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः । यत्र कुत्र स्थितो ज्ञेन वीक्षितो मुखरुक्प्रदः | `bhava:1` `graha:mars` `graha:mercury` `rel:aspect` `rel:lordship` `rel:modality` `rel:position` |  |  |
+| `17.7` | लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ । राहुणा शनिना सार्द्धं कुष्ठं तत्र विनिर्दिशेत् | `bhava:1` `graha:mercury` `graha:moon` `graha:moon` `graha:rahu` `graha:saturn` `rel:conjunction` `rel:lordship` `rel:modality` |  |  |
+| `17.6` | लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः । यत्र कुत्र स्थितो ज्ञेन वीक्षितो मुखरुक्प्रदः | `bhava:7` `graha:mars` `graha:mercury` `rel:aspect` `rel:lordship` `rel:modality` `rel:position` |  |  |
 | `17.8` | लग्नाधिपं विना लग्ने स्थितश्चेत्तमसा शशी । स्वेतकुष्ठं तदा कृष्णकुष्ठं च शनिना सह | `bhava:1` `graha:saturn` `rel:lordship` `rel:modality` `rel:position` |  |  |
 | `17.24` | अष्टमे मन्दसंयुक्ते तस्माद्वा द्वादशे कुजः । त्रिंशाब्दे दशमेऽब्दे तु स्फोटकादि विनिर्दिशेत् | `bhava:8` `graha:mars` `graha:saturn` `rel:conjunction` |  |  |
 | `17.2` | षष्ठाधिपः स्वगेहे वा देहे वाऽप्यष्टमे स्थितः । तदा व्रणा भवेद्देहे षष्ठराशिसमाश्रिते | `bhava:6` `rel:lordship` `rel:modality` `rel:position` |  |  |
@@ -64,15 +64,15 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `20.6` | भाग्येशे केन्द्रभावस्थे गुरुणा च निरीक्षिते । तत्पिता वाहनैर्युक्तो राजा वा तत्समो भवेत् | `bhava:9` `entity:bhava` `graha:jupiter` `rel:aspect` `rel:conjunction` `rel:house_group` `rel:lordship` `rel:modality` `rel:position` |  |  |
 | `20.4` | भाग्यस्थानाद् द्वितीये वा सुखे भौमसमन्विते । भाग्येशे नीचराशिस्थे पिता निर्धन एव हि | `bhava:4` `bhava:9` `graha:mars` `rel:conjunction` `rel:dignity` `rel:lordship` `rel:position` |  |  |
 | `20.31` | भाग्यस्थानगते मन्दे शशिना च समन्विते । लग्नेशे नीचराशिस्थे भिक्षाशी च नरो भवेत् | `bhava:1` `bhava:9` `graha:moon` `graha:saturn` `rel:conjunction` `rel:dignity` `rel:lordship` `rel:modality` `rel:position` |  |  |
-| `20.11` | लग्नेशे भाग्यराशिस्थे षष्ठेशेन समन्विते । अन्योन्यवैरं ब्रुवते जनकः कुत्सितो भवेत् | `bhava:1` `bhava:6` `bhava:9` `chain:lord1_pos9` `rel:conjunction` `rel:lordship` `rel:modality` `rel:position` |  |  |
+| `20.11` | लग्नेशे भाग्यराशिस्थे षष्ठेशेन समन्विते । अन्योन्यवैरं ब्रुवते जनकः कुत्सितो भवेत् | `bhava:1` `bhava:6` `bhava:9` `chain:lord9_pos1` `rel:conjunction` `rel:lordship` `rel:modality` `rel:position` |  |  |
 | `20.15` | जातस्य प्रथमाब्दे तु पितुर्मरणमादिशेत् । व्ययेशे भाग्यराशिस्थे नीचांशे भाग्यनायके | `bhava:12` `bhava:9` `chain:lord12_pos9` `rel:dignity` `rel:lordship` `rel:position` |  |  |
 | `20.24` | त्रिंशैकविंशे षड्विंशे जनकस्य मृतिर्भवेत् । भाग्येशे नीचराशिस्थे तदीशे भाग्यराशिगे | `bhava:9` `rel:dignity` `rel:lordship` `rel:modality` `rel:position` |  |  |
 | `20.19` | सप्तमैकोनविंशाब्दे तातस्य मरणं ध्रुवम् । भाग्येशे व्ययराशिस्थे व्ययेशे भाग्यराशिगे | `bhava:12` `bhava:9` `chain:lord9_pos12` `rel:lordship` `rel:position` |  |  |
-| `20.16` | तृतीये षोडशे वर्षे जनकस्य मृतिर्भवेत् । लग्नेशे नाशराशिस्थे रन्ध्रेशे भानुसंयुते | `bhava:1` `bhava:8` `graha:sun` `rel:conjunction` `rel:lordship` `rel:modality` `rel:position` |  |  |
-| `24.92` | रन्ध्रेशे मृत्युभावस्थे जाता दीर्घायुषा युतः । निर्बले मध्यमायुः स्याच्चौरो निन्द्योऽन्यनिन्दकः | `bhava:8` `entity:bhava` `rel:conjunction` `rel:lordship` `rel:position` `rel:state` |  |  |
+| `20.16` | तृतीये षोडशे वर्षे जनकस्य मृतिर्भवेत् । लग्नेशे नाशराशिस्थे रन्ध्रेशे भानुसंयुते | `bhava:1` `bhava:8` `graha:saturn` `rel:conjunction` `rel:lordship` `rel:modality` `rel:position` |  |  |
+| `24.92` | रन्ध्रेशे मृत्युभावस्थे जाता दीर्घायुषा युतः । निर्बले मध्यमायुः स्याच्चौरो निन्द्योऽन्यनिन्दकः | `bhava:8` `entity:bhava` `rel:conjunction` `rel:dignity` `rel:lordship` `rel:position` `rel:state` |  |  |
 | `24.59` | सुतेशे लाभगे जातो विद्यावान् जनवल्लभः । ग्रन्थकर्ता महादक्षो बहुपुत्रधनान्वितः | `bhava:11` `bhava:5` `chain:lord5_pos11` `rel:lordship` `rel:position` |  |  |
 | `24.141` | व्ययेशे भाग्यभावस्थे गुरुद्वेषी भवेन्नरः । मित्रैरपि भवेद्वैरं स्वार्थसाधनतत्परः | `bhava:12` `bhava:9` `chain:lord12_pos9` `entity:bhava` `graha:jupiter` `rel:dignity` `rel:lordship` `rel:position` |  |  |
-| `24.128` | लाभेशे रन्ध्रभावस्थे हानिः कार्येषु जायते । तस्यायुश्च भवेद्दीर्घं प्रथमं मरणं स्त्रियः | `bhava:11` `bhava:8` `chain:lord11_pos8` `entity:bhava` `rel:lordship` `rel:position` |  |  |
+| `24.128` | लाभेशे रन्ध्रभावस्थे हानिः कार्येषु जायते । तस्यायुश्च भवेद्दीर्घं प्रथमं मरणं स्त्रियः | `bhava:11` `bhava:8` `chain:lord8_pos11` `entity:bhava` `rel:lordship` `rel:position` |  |  |
 | `24.32` | अष्टमे सहजाधीशे जातश्चैरो नरो भवेत् । दासवृत्त्योपजीवी च राजद्वारे मृतिर्भवेत् | `bhava:3` `bhava:8` `graha:jupiter` `rel:lordship` `rel:modality` |  |  |
 | `24.112` | कर्मेशे सुखभावस्थे सुखी मातृहिते रतः । यानभूमिगृहाधीशो गुणवान् धनवानपि | `bhava:10` `bhava:4` `chain:lord10_pos4` `entity:bhava` `rel:lordship` `rel:position` |  |  |
 | `24.53` | सुतेशे सुतभावस्ते शुभाढ्ये पुत्रवान् नरः । पापाढ्येऽपत्यहीनोऽसौ गुणवान् मित्रवत्सलः | `bhava:5` `rel:dignity` `rel:lordship` `rel:polarity` |  |  |
@@ -90,10 +90,10 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `28.16` | फलं तस्य शुभे युञ्ज्यादशुभे वर्जयेत् तथा । पापश्चेदन्यथा चैवं बले दृष्ट्यां तथैव च | `rel:aspect` `rel:polarity` `rel:state` |  |  |
 | `28.17` | युञ्ज्यादुच्चादिगे खेटे फलं नीचादिगे त्यजेत् । एवं शुभाऽशुभं ज्ञात्वा जातकस्य फलं वदेत् | `rel:dignity` `rel:polarity` `rel:position` |  |  |
 | `31.9` | यत्र राशौ स्थितः खेटस्तस्य पाकान्तरं यदा । तस्मिन् काले फलं ज्ञेयं निर्विशंकं द्विजोत्तम | `rel:position` |  |  |
-| `31.11` | पदे लग्ने मदे वापि निराभासार्गला यदा । तदा जातोऽतिविख्यातो बहुभाग्ययुतो भवेत् | `bhava:1` `rel:conjunction` `rel:modality` |  |  |
+| `31.11` | पदे लग्ने मदे वापि निराभासार्गला यदा । तदा जातोऽतिविख्यातो बहुभाग्ययुतो भवेत् | `bhava:1` `rel:aspect` `rel:conjunction` `rel:modality` |  |  |
 | `31.4` | निर्बला न्यूनसंख्या वा बाधका नैव सम्मताः । तृतीये व्याधिकाः पापा यत्र मैत्रेय बाधकाः | `rel:polarity` `rel:state` |  |  |
 | `31.1` | भगवान् याऽर्गला प्रोक्ता शुभदा भवताऽधुना । तामहं स्रोतुमिच्छामि सलक्षणफलं मुने | `rel:polarity` |  |  |
-| `31.3` | चतुर्थे च धने लाभे ग्रहे ज्ञेया तदर्गला । तद्बाधकाः क्रमात् खेटा व्योमरिष्फतृतीयगाः | `bhava:11` `bhava:2` |  |  |
+| `31.3` | चतुर्थे च धने लाभे ग्रहे ज्ञेया तदर्गला । तद्बाधकाः क्रमात् खेटा व्योमरिष्फतृतीयगाः | `bhava:11` |  |  |
 | `31.16` | दशमे राजसम्मानं लाभे लाभसमन्वितः । सार्गले च व्यये विप्र व्ययाधिक्यं प्रजायते | `bhava:11` `bhava:12` `rel:conjunction` |  |  |
 | `31.6` | पञ्चमं चार्गलास्थानं नवमं तद्विरोधकृत् । तमोग्रहभवा सा च व्यत्ययाज् ज्ञायते द्विज | `rel:position` |  |  |
 | `31.15` | षष्ठे रिपुभयं कामे धनदारसुखं बहु । अष्टमे जायते कष्टं धर्मे भाग्योदयो भवेत् | `bhava:6` `bhava:8` `bhava:9` `rel:modality` |  |  |
@@ -105,10 +105,10 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `35.8` | केन्द्रत्रयगतैः सौम्यैः पापैर्वा दलसंज्ञकौ । क्रमान्मालाभुजंगाख्यौ शुभाशुभफलप्रदौ | `rel:house_group` `rel:polarity` `rel:position` |  |  |
 | `35.34` | धनरहितविफलदुःखितनीचलसाश्चिरायुषः पुरुषाः । संग्रामबुद्धिनिपुणाः शक्त्यां जाताः स्थिराः शुभगाः | `rel:dignity` `rel:polarity` `rel:position` |  |  |
 | `35.47` | तीक्ष्णालसधनहीना हिंस्राः सुबहिष्कृता महाशूराः । संग्रामे लब्धयशा शूले योगे भवन्ति नराः | `entity:yoga` |  |  |
-| `35.26` | प्रियकलहाः समरसहाः सुखिनो नृपतेः शुभकलत्राः । आढ्या युवतिद्वेष्याः स्रृङ्गाटकसम्भवा मनुजाः | `rel:polarity` |  |  |
-| `35.19` | मानज्ञानधनाद्यैर्युक्ता भूपप्रियाः ख्याताः । बहुपुत्राः स्थिरचित्ता मुसलसमुत्था भवन्ति नराः | `rel:conjunction` `rel:position` |  |  |
+| `35.26` | प्रियकलहाः समरसहाः सुखिनो नृपतेः शुभकलत्राः । आढ्या युवतिद्वेष्याः स्रृङ्गाटकसम्भवा मनुजाः | `rel:polarity` `rel:state` |  |  |
+| `35.19` | मानज्ञानधनाद्यैर्युक्ता भूपप्रियाः ख्याताः । बहुपुत्राः स्थिरचित्ता मुसलसमुत्था भवन्ति नराः | `rel:conjunction` |  |  |
 | `35.5` | शरशक्तिदण्डनौकाकूटच्छत्रध्नूंषि च । अर्धचन्द्रस्तु चक्रं च समुद्रश्चेति विंशतिः | `graha:moon` |  |  |
-| `35.50` | सर्वास्वपि दशस्वेते भवेयुः फलदायिनः । प्राणिनामिति विज्ञेयाः प्रवदन्ति तवाग्रजाः | `entity:dasha` |  |  |
+| `35.50` | सर्वास्वपि दशस्वेते भवेयुः फलदायिनः । प्राणिनामिति विज्ञेयाः प्रवदन्ति तवाग्रजाः | `entity:dasha` `rel:house_group` |  |  |
 | `39.18` | स्वोच्चस्थो हरिणांको वा जीवो वा शुक्र एव वा । बुधो वा धनभावस्थः श्रियं दिशति देहिनः | `bhava:2` `chain:mercury_pos2` `entity:bhava` `graha:jupiter` `graha:mercury` `graha:venus` `rel:dignity` `rel:position` |  |  |
 | `39.46` | षड्भिरुच्चगतैः खेटैश्चक्रवर्तित्वमाप्नुयात् । एवं बहुविधा राजयोगा ज्ञेया द्विजोत्तम | `entity:yoga` `rel:position` |  |  |
 | `39.11` | स्वांशे वा पञ्चमे शुक्रे जीवेन्दुयुतवीक्षिते । लग्ने लग्नपदे वाऽपि राजवर्गो भवेन्नरः | `bhava:1` `bhava:5` `entity:varga` `graha:jupiter` `graha:venus` `rel:aspect` `rel:conjunction` |  |  |
@@ -119,7 +119,7 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `39.33` | तपःस्थानाधिपो मन्त्री मन्त्राधीशो विशेषतः । उभावन्योन्यसंदृष्टौ जातश्चेदिह राज्यभाक् | `rel:aspect` `rel:lordship` `rel:position` |  |  |
 | `39.28` | दुःस्थानेशोऽपि नीचस्थो यदि लग्नं प्रपश्यति । तदाऽपि राजयोगः स्यादिति ज्ञेयं द्विजोत्तम | `entity:yoga` `rel:aspect` `rel:dignity` `rel:house_group` `rel:lordship` `rel:modality` `rel:position` |  |  |
 | `39.45` | चतुर्भिः पञ्चभिर्वाऽपि खेटैः स्वोच्चत्रिकोणगैः । हीनवंशभवश्चापि राजा भवति निश्चितः | `rel:dignity` `rel:house_group` |  |  |
-| `42.7` | मन्त्रेशो धर्मनाथश्च क्रमात् षष्ठव्ययस्थितौ । दृष्टौ चेन्मारकेशेन निर्धनो जायते नरः | `bhava:12` `bhava:6` `bhava:9` `chain:lord9_pos12` `entity:bhava` `rel:aspect` `rel:lordship` `rel:position` |  |  |
+| `42.7` | मन्त्रेशो धर्मनाथश्च क्रमात् षष्ठव्ययस्थितौ । दृष्टौ चेन्मारकेशेन निर्धनो जायते नरः | `bhava:12` `bhava:6` `bhava:9` `chain:lord12_pos9` `entity:bhava` `rel:aspect` `rel:lordship` `rel:position` |  |  |
 | `42.9` | त्रिकेशा यत्र भावस्था तद्भावेशास्त्रिकस्थिताः । पापदृष्टयुत बालो दुःखाक्रान्तश्च निर्धनः | `entity:bhava` `rel:aspect` `rel:conjunction` `rel:lordship` `rel:polarity` `rel:position` |  |  |
 | `42.17` | बुधेक्षितौ महावित्तं कुरुतो नात्र संशयः । निःस्वतां कुरुते तत्र रविर्नित्यं यमेक्षितः | `graha:mercury` `graha:sun` |  |  |
 | `42.8` | पापग्रहे लग्नगते राज्यधर्माधिपौ विना । मारकेशयुते दृष्टे जातः स्यन्निर्धनो भवेत् | `bhava:1` `bhava:10` `bhava:9` `entity:bhava` `rel:aspect` `rel:conjunction` `rel:lordship` `rel:modality` `rel:polarity` `rel:position` |  |  |
@@ -130,7 +130,7 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `42.16` | अथ दारिद्र्ययोगांस्त् कथयामि सभङ्गकान् । धनसंस्थौ तु भौमार्की कथितौ धननाशकौ | `bhava:2` `entity:yoga` `graha:mars` `rel:position` |  |  |
 | `42.6` | त्रिकेशेन समायुक्ते पापदृष्टे विलग्नपे । शनियुक्तेऽधवा सौम्यैरदृष्टे निर्धनो नरः | `bhava:1` `graha:saturn` `rel:aspect` `rel:conjunction` `rel:lordship` `rel:polarity` |  |  |
 | `46.180` | ततः क्रमेणौजराशौ समे नेया तथोऽत्क्रमात् । त्रिकूटानां च विज्ञेयाः स्थिरवच्च दशा समाः | `entity:dasha` `rel:position` |  |  |
-| `46.127` | कुजे शस्त्रकृता पीडा वायुवाधा बुधे भवेत् । गुल्मवाधा शनौ ज्ञेया राहौ केतौ विषाद् भयम् | `graha:mars` `graha:mercury` `rel:modality` |  |  |
+| `46.127` | कुजे शस्त्रकृता पीडा वायुवाधा बुधे भवेत् । गुल्मवाधा शनौ ज्ञेया राहौ केतौ विषाद् भयम् | `graha:mercury` `graha:moon` `rel:modality` |  |  |
 | `46.4` | द्वादशाब्दोत्तरी विप्र दशा पञ्चोत्तरी तथा । दशा शतसमा तद्वत् चतुराशीतिवत्सरा | `entity:dasha` |  |  |
 | `46.7` | दशाऽथ चरपर्याया स्थिराख्या च दशा द्विज । केन्द्राद्य च दशा ज्ञेया कारकादिग्रहोद्भवा | `entity:dasha` `rel:house_group` `rel:position` |  |  |
 | `46.42` | श्रवणाज्जन्मभं यावत् संख्या वसुविभाजिता । शेषे चन्द्ररवीज्यारबुधार्किभृगुराहवः | `graha:mercury` `graha:moon` `graha:venus` |  |  |
@@ -141,32 +141,32 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `46.122` | चापांशे ज्ञानसम्पन्नो मरकांशे च पापकृत् । कुम्भांशे च वणिक्कर्मा मीनांशे धनधान्यवान् | `rashi:kumbha` `rashi:mina` `rel:polarity` |  |  |
 | `5.22` | ग्रहाणां वर्णदा नैव राशीनां वर्णदा दशा । कृत्वार्कधा राशिदशां क्रमादन्तर्दशां वदेत् | `entity:dasha` |  |  |
 | `5.9` | क्रमादेषां च लग्नानां भावकोष्ठं पृथक् लिखेत् । ये ग्रहा यत्र भे तत्र ते स्थाप्या राशिलग्नवत् | `rel:position` |  |  |
-| `5.12` | मेषमीनादितो जन्मलग्नान्तं गणयेत् सुधीः । तथैव होरालग्नान्तं गणयित्वा ततः परम् | `entity:varga` `rashi:mesha` `rashi:mina` |  |  |
+| `5.12` | मेषमीनादितो जन्मलग्नान्तं गणयेत् सुधीः । तथैव होरालग्नान्तं गणयित्वा ततः परम् | `rashi:mesha` `rashi:mina` |  |  |
 | `5.3` | इष्टं घट्यादिकं भक्त्वा पञ्चभिर्भादिकं फलम् । योज्यमौदयिके सूर्ये भावलग्नं स्फुटं च तत् | `graha:sun` |  |  |
 | `5.23` | एवमन्तर्दशादिं च कृत्वा तेन फलं वदेत् । क्रमव्युत्क्रमभेदेन लिखेदन्तर्दशामपि | `entity:dasha` `rel:conjunction` |  |  |
 | `5.13` | ओजत्वेन समत्वेन सजातीये उभे यदि । तर्हि सङ्ख्ये योजयीत वैजात्ये तु वियोजयेत् | `rel:modality` |  |  |
 | `5.6` | कथयामि घटीलग्नं श‍ृनु त्वं द्विजसत्तम । सूर्योदयत् समारभ्य जन्मकालावधि क्रमात् | `graha:sun` |  |  |
 | `5.4` | तथा सार्धद्विघटिकामितादर्कोदयाद् द्विज । प्रयाति लग्नं तन्नाम होरालग्नं प्रचक्षते | `entity:varga` |  |  |
-| `5.19` | एकादशादग्रजस्य तृतीयात्तु यवीयसः । सुतस्य पञ्चमे विद्यान्मातुश्चतुर्थभावतः | `bhava:5` `entity:dasha` |  |  |
+| `5.19` | एकादशादग्रजस्य तृतीयात्तु यवीयसः । सुतस्य पञ्चमे विद्यान्मातुश्चतुर्थभावतः | `bhava:11` `entity:dasha` |  |  |
 | `5.5` | इष्टघट्यादिकं द्विघ्नं पञ्चाप्तं भादिकं च यत् । योज्यमौदयिके भानौ होरालग्नं स्फुटं हि तत् | `entity:varga` |  |  |
 | `53.63` | द्वितीयद्यूननाथे तु अपमृत्युभयं भवेत् । तद्दोषविनिवृत्त्यर्थं रुद्रजाप्यं च कारयेत् | `bhava:7` `entity:yoga` `mahadasha:moon` `rel:lordship` `rel:modality` |  |  |
 | `53.47` | चन्द्रस्यान्तर्गते केतौ केन्द्रलाभत्रिकोणगे । दुश्चिक्ये बलसंयुक्ते धनलाभं महत्सुखम् | `graha:moon` `mahadasha:moon` `rel:conjunction` `rel:house_group` `rel:position` `rel:state` |  |  |
 | `53.17` | दायेशादथ रन्ध्रथे व्यये वा बलवर्जिते । स्थानभ्रंशो मनोदुखं पुत्रक्लेशो महद्भयम् | `bhava:12` `bhava:5` `entity:dasha` `mahadasha:moon` `rel:lordship` `rel:position` `rel:state` |  |  |
 | `53.25` | महाराजप्रसादेन स्वेष्टसिद्धिः सुखावहा । षष्ठाष्टमव्यये जीवे नीच वास्तङ्गते यदि | `bhava:12` `graha:jupiter` `mahadasha:moon` `rel:dignity` `rel:modality` `rel:position` |  |  |
 | `53.18` | दारपीडा क्वचिज्ज्ञेया क्वचित्स्वाङ्गे रुजोभयम् । वृश्चिकादिविषाद्भीतिश्चौराहिनृपपीडनम् | `mahadasha:moon` `rashi:vrischika` `rel:position` |  |  |
-| `53.42` | दायेशात्केन्द्रकोणे वा लाभे वा धनगेऽपि वा । विवाहो यज्ञदीक्षा च दानधर्मशुभादिकम् | `bhava:11` `bhava:2` `entity:dasha` `mahadasha:moon` `rel:house_group` `rel:lordship` `rel:polarity` `rel:position` |  |  |
+| `53.42` | दायेशात्केन्द्रकोणे वा लाभे वा धनगेऽपि वा । विवाहो यज्ञदीक्षा च दानधर्मशुभादिकम् | `bhava:11` `bhava:2` `entity:dasha` `mahadasha:moon` `rel:aspect` `rel:house_group` `rel:lordship` `rel:polarity` `rel:position` |  |  |
 | `53.56` | दशाधिपेन संयुक्ते देहसौख्यं महत्सुखम् । सत्कीर्तिसुखसम्पत्तिगृहक्षेत्रादिवृद्धिकृत् | `entity:dasha` `mahadasha:moon` `rel:conjunction` |  |  |
 | `53.13` | चन्द्रस्यान्तर्गते राहौ लग्नात्केन्द्रत्रिकोणगे । आदौ स्वल्फलं ज्ञेयं शत्रुपीडा महद्भयम् | `graha:moon` `mahadasha:moon` `rel:dignity` `rel:house_group` `rel:position` |  |  |
 | `53.30` | करोति कुत्सिनान्नं च विदेशगमनं तथा । भुक्त्यादौ शोभनं प्रोक्तमन्ते क्लेशकरं भवेत् | `mahadasha:moon` `rel:modality` |  |  |
 | `53.57` | नीचे वाऽस्तङ्गते शुक्रे पापग्रहयुतेक्षिते । भूनाशः पुत्रमित्रादिनाशनं पत्निनाशनम् | `graha:venus` `mahadasha:moon` `rel:conjunction` `rel:dignity` `rel:polarity` `rel:position` |  |  |
-| `57.32` | दारपुत्रादिसौख्यं च लभते नाऽत्र संशयः । दायेशाद्व्ययगे शुक्रे षष्ठे वा ह्यष्टमेऽपि वा | `bhava:12` `bhava:6` `entity:dasha` `graha:venus` `mahadasha:saturn` `rel:lordship` `rel:position` |  |  |
+| `57.32` | दारपुत्रादिसौख्यं च लभते नाऽत्र संशयः । दायेशाद्व्ययगे शुक्रे षष्ठे वा ह्यष्टमेऽपि वा | `bhava:6` `bhava:6` `entity:dasha` `graha:venus` `mahadasha:saturn` `rel:lordship` `rel:position` |  |  |
 | `57.19` | गङ्गादिसर्वतीर्भेषु स्नानं दैवतदर्शनम् । दायेशात्केन्द्रकोणे वा तृतीयभवराशिगे | `entity:dasha` `mahadasha:saturn` `rel:house_group` `rel:lordship` `rel:position` |  |  |
 | `57.73` | सन्मानं प्रभुसम्मानं प्रियवस्त्रार्थलाभकृत् । देवतागुरुभक्तिश्च विद्वज्जनसमागमः | `mahadasha:saturn` |  |  |
 | `57.13` | नृपाभिषेकमर्थाप्तिर्देशग्रामाधिपत्यता । फलमीदृशमादौ तु मध्यान्ते रोगपीडनम् | `mahadasha:saturn` `rel:lordship` |  |  |
 | `57.30` | दायेशाद्भाग्यगे चैव केन्द्रे वा लाभसंयुते । राजप्रीतिकरं चैव मनोऽभीष्टप्रदायकम् | `bhava:9` `entity:dasha` `mahadasha:saturn` `rel:conjunction` `rel:house_group` `rel:lordship` `rel:position` |  |  |
 | `57.77` | विभवं दारसौभाग्यं राजश्रीधनसम्पदः । भोजनाम्बरसौख्यं च दानधर्मादिकं भवेत् | `mahadasha:saturn` `rel:modality` |  |  |
 | `57.71` | मन्दस्यान्तर्गते जीवे केन्द्रे लाभत्रिकोणगे । लग्नाधिपेन संयुक्ते स्वोच्चे स्वक्षेत्रगेऽपि वा | `bhava:1` `graha:jupiter` `graha:saturn` `mahadasha:saturn` `rel:conjunction` `rel:dignity` `rel:house_group` `rel:lordship` `rel:position` |  |  |
-| `57.7` | तद्दोषपरिहारार्थं म्र्ट्युञ्जयजपं चरेत् । ततः शान्तिमवाप्नोति शङ्करस्य प्रसादतः | `entity:yoga` `mahadasha:saturn` |  |  |
+| `57.7` | तद्दोषपरिहारार्थं म्र्ट्युञ्जयजपं चरेत् । ततः शान्तिमवाप्नोति शङ्करस्य प्रसादतः | `mahadasha:saturn` |  |  |
 | `57.51` | मित्रप्रभुवशादिष्टं सर्वसौख्यं शुभावहम् । दायेशाद्द्वादश भावे रन्ध्रे वा बलवर्जिते | `bhava:8` `entity:bhava` `entity:dasha` `mahadasha:saturn` `rel:dignity` `rel:lordship` `rel:polarity` `rel:state` |  |  |
 | `57.50` | वाहनाम्बरपश्वादिभ्रातृवृद्धिः सुखावहा । पितृमातृसुखावाप्तिः स्त्रीसौख्यं च धनागमः | `mahadasha:saturn` |  |  |
 | `60.73` | द्वितीयद्यूननाथे तु देहबाधा भविष्यति । तद्दोषपरिहारार्थं मृत्युञ्जयजपं चरेत् | `bhava:7` `entity:yoga` `mahadasha:venus` `rel:lordship` |  |  |
@@ -184,34 +184,34 @@ by subject and an unstratified draw over-samples the bhāva chapters.
 | `64.37` | अतिदाहं ज्वरं छर्दि मुखरोगं विशेषतः । नानाक्लेशमवाप्नोति चापांशे स्वांशगे कुजे | `graha:mars` `rel:position` |  |  |
 | `64.14` | विषशस्त्रमृतेर्भीतिं ज्वररोगादिसम्भवाम् । पीडां चैव समाप्नोति कर्के स्वांशगते कुजे | `graha:mars` `rashi:karka` `rel:position` |  |  |
 | `64.50` | विद्यावृद्धिमवाप्नोति स्त्रीसुखं व्याधिनाशनम् । सुहृत्सङ्गं मनःप्रीतिं मीनांशस्वांशगे विधौ | `rashi:mina` `rel:position` |  |  |
-| `64.41` | द्विजदेवनृपोद्भूतं कोपं बन्धुविनाशनम् । देशत्यागमवाप्नोति मकरस्वांशगे शनौ | `rashi:makara` `rel:position` |  |  |
-| `64.21` | धनधान्यादिलाभं च प्रसादं द्विजभूपयोः । विद्यावृद्धिमवाप्नोति सिंहे स्वान्तर्गते गुरौ | `rashi:simha` `rel:position` |  |  |
+| `64.41` | द्विजदेवनृपोद्भूतं कोपं बन्धुविनाशनम् । देशत्यागमवाप्नोति मकरस्वांशगे शनौ | `rashi:makara` `rel:aspect` `rel:position` |  |  |
+| `64.21` | धनधान्यादिलाभं च प्रसादं द्विजभूपयोः । विद्यावृद्धिमवाप्नोति सिंहे स्वान्तर्गते गुरौ | `rel:position` |  |  |
 | `64.33` | शत्रुक्षोभभयं व्याधिमर्थनाशं पितुर्भयम् । श्वापदाद् भयमाप्नोति वृश्चिके स्वांशगे रवौ | `rashi:vrischika` `rel:dignity` `rel:position` |  |  |
 | `64.55` | धननाशो मनस्तापो वेश्यादीनां च सङ्गमात् । देशत्यागो भवेद्वापि मीनांशस्वांशगे शनौ | `rashi:mina` `rel:lordship` `rel:position` |  |  |
 | `64.9` | विदेशगमनं व्याधिर्मरणं धननाशनम् । बन्धुनाशोऽथवा विप्र मिथुने स्वांशके शनौ | `rashi:mithuna` |  |  |
 | `68.2` | क्षेत्रद्वये फलनि स्युस्तदा संशोधयेद् यथा । क्षीणेन सह चान्यस्मिन् शुधयेद् ग्रहवर्जिते | `rel:modality` |  |  |
 | `68.1` | पूर्वं त्रिकोणं संशोध्य राशीनां स्थापयेत् फलम् । पृथक् पृथक् ततः कुर्यादेकाधिपतिशोधनम् | `rel:house_group` `rel:lordship` `rel:position` |  |  |
 | `68.4` | ऊनेन सममन्यस्मिन् शोधयेद् ग्रहवर्जिते । फलाधिके ग्रहैर्युक्ते चान्यस्मिन् सर्वमुत्सृजेत् | `rel:conjunction` |  |  |
-| `68.3` | उभयोर्ग्रहसंयोगे न संशोध्यः कदाचन् । ग्रहयुक्ते फलैर्हीने ग्रहाभावे फलाधिके | `entity:bhava` `entity:yoga` `rel:conjunction` |  |  |
+| `68.3` | उभयोर्ग्रहसंयोगे न संशोध्यः कदाचन् । ग्रहयुक्ते फलैर्हीने ग्रहाभावे फलाधिके | `entity:bhava` `entity:yoga` `rel:conjunction` `rel:house_group` |  |  |
 | `68.6` | कुलीरसिंहयो राश्योः पृथक् क्षेत्रं पृथक् फलम् । संशोध्यैकाधिपत्यं हि ततः पिण्डं प्रसाधयेत् | `rashi:simha` `rel:lordship` |  |  |
 | `68.5` | उभयत्र ग्रहभावे समत्वे सकलं त्यजेत् । सग्रहाग्रहयोस्तुल्ये सर्वं संशोध्यमग्रहे | `entity:bhava` |  |  |
 | `71.1` | अथात्रायुः प्रवक्ष्येऽहमष्टवर्गसमुद्भवम् । दिनद्वयं विरेखायां रेखायां सार्धवासरम् | `entity:varga` |  |  |
 | `71.4` | एवं यदागतायुः स्यात् सर्वखेटसमुद्भवम् । तदर्धं स्फुटमायुः स्यादष्टवर्गभवं नृणाम् | `entity:varga` `rel:modality` `rel:position` |  |  |
 | `75.20` | तनुद्विजमुखः शूरो नातिह्रस्वः कृशोदरः । मध्ये क्षामः सुजंघश्च मतिमान् पररन्ध्रवित् | `graha:sun` |  |  |
 | `75.17` | समौष्ठः कृशमध्यश्च चन्द्रकान्तिरुचिः पुमान् । सुगन्धो नातिरक्ताङ्गो न ह्रस्वो नातिदीर्घकः | `graha:moon` |  |  |
-| `75.11` | स्वतन्त्रः सर्वकार्येषु स्वजनप्रीणनक्षमः । ऐश्वर्यं भुज्यते चास्य नित्यं मित्रजनैः परैः | `rel:dignity` |  |  |
+| `75.11` | स्वतन्त्रः सर्वकार्येषु स्वजनप्रीणनक्षमः । ऐश्वर्यं भुज्यते चास्य नित्यं मित्रजनैः परैः | `rel:aspect` `rel:dignity` |  |  |
 | `75.2` | क्रमशो रुचको भद्रो हंसो मालव्य एव च । शशश्चैते बुधैः सर्वैर्महान्तः पुरुषाः स्मृताः | `graha:mercury` |  |  |
 | `75.10` | ध्वजलाङ्गलचिह्नैश्च चिह्नितांघ्रिकराम्बुजः । सुनासश्शास्त्रविद् धीरः कृष्णाकुञ्चितकेशभृत् | `graha:sun` `rel:lordship` |  |  |
 | `75.21` | शक्तो वनाद्रिदुर्गेषु सेनानीर्दन्तुरः शशः । चंचलो धातुवादी च स्त्रीशक्तोऽन्यधानान्वितः | `rel:position` |  |  |
 | `75.22` | मालावीणामृदङ्गाऽस्त्ररेखाङ्कितकरांघ्रिकः । भूपोऽयं वसुधा पाति जीवन् खाद्रिसमाः सुखी | `graha:jupiter` |  |  |
 | `75.5` | वीणावज्रधनुःपाशवृषचक्राङ्कितः करे । मन्त्राभिचारकुशली दैर्ध्ये चैव शतांगुलः | `rashi:dhanus` `rashi:vrishabha` |  |  |
-| `75.18` | समस्वच्छरदो हस्तिनाद आजानुबाहुधृक् । मुखं विश्वांगुलं दैर्घ्ये विस्तारे च दशाङ्गुलम् | `entity:dasha` |  |  |
+| `75.18` | समस्वच्छरदो हस्तिनाद आजानुबाहुधृक् । मुखं विश्वांगुलं दैर्घ्ये विस्तारे च दशाङ्गुलम् | `entity:dasha` `rel:polarity` |  |  |
 | `75.4` | रक्तश्यामोऽरिहन्ता च मन्त्रविच्चोरनायकः । क्रूरोभर्ता मनुष्याणां क्षामाऽङ्घ्रिर्द्विजपूजकः | `graha:sun` `rel:polarity` |  |  |
 | `79.14` | दृष्टेष्विन्द्विज्यलग्नेषु शनिना नवमे गुरुः । राजयोगेऽत्र जातोऽसौ तीर्थिकृन्नऽत्र संशयः | `bhava:1` `entity:yoga` `graha:jupiter` `graha:saturn` `rel:aspect` |  |  |
 | `79.12` | बहवो बलिनश्चेत् स्युः प्रव्रज्याकारका ग्रहाः । तदा प्राप्नोति सर्वेषां तेषां प्रव्रज्यकां ध्रुवम् | `rel:modality` |  |  |
 | `79.7` | निर्बलो जन्मभेशश्चेत् केवलेनार्किणेक्षितः । तदा शनिभवमेव प्रव्रज्यां आप्नुयाज्जनः | `graha:saturn` `rel:lordship` `rel:modality` `rel:state` |  |  |
 | `79.15` | धर्मस्थानगते मन्दे ग्रहदृष्टिविवर्जिते । राजयोगेऽत्र यो जातः स राजा दीक्षितो भवेत् | `bhava:9` `entity:yoga` `graha:saturn` `rel:aspect` `rel:modality` `rel:position` |  |  |
-| `79.6` | जन्मभेशोऽन्यखेटैश्चेददृष्टः शनिमीक्षते । तयोर्बलवशात्तत्र प्रव्रज्यामाप्नुयान्नरः | `graha:saturn` `rel:aspect` `rel:lordship` `rel:state` |  |  |
+| `79.6` | जन्मभेशोऽन्यखेटैश्चेददृष्टः शनिमीक्षते । तयोर्बलवशात्तत्र प्रव्रज्यामाप्नुयान्नरः | `graha:saturn` `rel:aspect` `rel:lordship` `rel:modality` `rel:state` |  |  |
 | `79.5` | अस्तंगता निर्बलाश्चेत् सबलश्च रविर्यदा । तदा रविभवा ज्ञेया प्रव्रज्या द्विजसत्तम | `graha:sun` `rel:modality` `rel:position` `rel:state` |  |  |
 | `79.4` | सूर्येणाऽस्तं गतास्ते चेदपि वीर्यसमन्विताः । अदीक्षितास्तदा ज्ञेया जनास्तद्गतभक्तयः | `graha:sun` `rel:conjunction` `rel:modality` `rel:position` |  |  |
 | `79.8` | शनिदृक्काणसंस्थे च शनिभौमनवांशके । शनिदृष्टे विधौ ज्ञेया प्रव्रज्या शनिसम्भवा | `entity:varga` `graha:mars` `graha:saturn` `rel:aspect` `rel:position` |  |  |
@@ -247,68 +247,68 @@ Sample: **64 verses across 6 chapters** of the
 
 | ref | devanāgarī | english | phala | verdict | note |
 |---|---|---|---|---|---|
-| `1.4` | कथं सृष्टिरियं जाता जगतश्च लयः कथम् । खस्थानां भूस्थतानां च सम्बन्धं वद विस्तर | How was this creation born and how does the world dissolve? Tell me in detail the relati | *(none — states no result)* |  |  |
-| `1.6` | सूर्य नत्वा ग्रहपतिं जगदुत्पत्तिकारणम् । वक्ष्यामि वेदनयनं यथा ब्रह्ममुखाच्छ्र | Having bowed to the Sun, the lord of planets and the cause of the world's origin, I shal | *(none — states no result)* |  |  |
-| `1.24` | शक्तयश्च तथैतेषामधिकांशाः श्रियादयः । स्वस्वशक्तिषु चान्यासु ज्ञेया जीवांशकाधि | Their powers such as Shri (Lakshmi), etc., also have a dominance of Paramatmansha. In ot | *(none — states no result)* |  |  |
-| `1.23` | सूर्यादयो ग्रहाः सर्वे ब्रह्मकामद्विषादयः । एते चान्ये च बहवः परमात्मांशकाधिका | The Sun and other planets, Brahma, Shiva (enemy of Kama), and many others like them have | *(none — states no result)* |  |  |
-| `1.7` | शान्ताय गुरुभक्ताय सर्वदा सत्यवादिने । आस्तिकाय प्रदातव्यं ततः श्रेयो ह्यवाप्स | This knowledge should be given to one who is peaceful, devoted to the Guru, always truth | *(none — states no result)* |  |  |
-| `1.10` | संसारकारकः श्रीमान्निमित्तात्मा प्रतापवान् । एकांशेन जगत्सर्व सृजत्यवति लीलया | The illustrious, instrumental soul and glorious cause of the universe creates and protec | *(none — states no result)* |  |  |
-| `1.20` | श्रीशक्त्या सहितो विष्णुः सदा पाति जगत्त्रयम् । भूशक्त्या सृजते ब्रह्मा नीलशक् | Vishnu, along with Shri-Shakti, always protects the three worlds. Brahma creates with Bh | *(none — states no result)* |  |  |
-| `1.21` | सर्वेषु चैव जीवेषु परमात्मा विराजते । सर्वं हि तदिदं ब्रह्मन् स्थितं हि परमात् | The Supreme Soul (Paramatma) resides in all living beings. O Brahmin! Everything that we | *(none — states no result)* |  |  |
-| `1.2` | भगवन् परमं पुण्यं गुह्यं वेदाङ्गमुत्तमम् । त्रिस्कन्धं ज्यौतिषं होरा गणितं संह | "O Venerable One! Jyotisha (astrology) is supremely merit-giving, secret, and the best l | *(none — states no result)* |  |  |
-| `1.9` | एकोऽव्यक्तात्मको विष्णुरनादिः प्रभुरीश्वरः । शुद्धसत्वो जगत्स्वामी निर्गुणस्त् | Lord Vishnu is the one unmanifest soul, beginningless, the lord and ruler. He is pure Sa | *(none — states no result)* |  |  |
-| `13.8` | षष्ठेऽष्टमे व्यये वाऽपि धनलाभाधिपौ यदि । लाभे कुजोधने राहू राजदण्डाद् धनक्षयः | If the lords of the 2nd and 11th are in the 6th, 8th, or 12th houses, or if Mars is in t | `danger` `loss` |  |  |
-| `13.13` | धनेशे पापसंयुक्ते धने पापसमन्विते । पिशुनोऽसत्यवादी च वातव्याधिसमन्वितः | If the 2nd lord is associated with malefics and a malefic planet is in the 2nd house, th | `disease` |  |  |
-| `13.1` | धनभावफलं वच्मि श‍ृणु त्वं द्विजसत्तम । धनेशो धनभावस्थः केन्द्रकोणगतोऽपि वा | Now I shall tell the results of the 2nd house (Dhana Bhava), listen O best of Brahmins!  | *(none — states no result)* |  |  |
+| `1.4` | कथं सृष्टिरियं जाता जगतश्च लयः कथम् । खस्थानां भूस्थतानां च सम्बन्धं वद विस्तर | How was this creation born and how does the world dissolve? Tell me in detail the relati | *(none — states no result)* | ok |  |
+| `1.6` | सूर्य नत्वा ग्रहपतिं जगदुत्पत्तिकारणम् । वक्ष्यामि वेदनयनं यथा ब्रह्ममुखाच्छ्र | Having bowed to the Sun, the lord of planets and the cause of the world's origin, I shal | *(none — states no result)* | ok |  |
+| `1.24` | शक्तयश्च तथैतेषामधिकांशाः श्रियादयः । स्वस्वशक्तिषु चान्यासु ज्ञेया जीवांशकाधि | Their powers such as Shri (Lakshmi), etc., also have a dominance of Paramatmansha. In ot | *(none — states no result)* | ok |  |
+| `1.23` | सूर्यादयो ग्रहाः सर्वे ब्रह्मकामद्विषादयः । एते चान्ये च बहवः परमात्मांशकाधिका | The Sun and other planets, Brahma, Shiva (enemy of Kama), and many others like them have | *(none — states no result)* | ok |  |
+| `1.7` | शान्ताय गुरुभक्ताय सर्वदा सत्यवादिने । आस्तिकाय प्रदातव्यं ततः श्रेयो ह्यवाप्स | This knowledge should be given to one who is peaceful, devoted to the Guru, always truth | *(none — states no result)* | partial | `ततः श्रेयो ह्यवाप्स्यति` states a result of the gift of knowledge → religion missing; "states no result" is not right |
+| `1.10` | संसारकारकः श्रीमान्निमित्तात्मा प्रतापवान् । एकांशेन जगत्सर्व सृजत्यवति लीलया | The illustrious, instrumental soul and glorious cause of the universe creates and protec | *(none — states no result)* | ok |  |
+| `1.20` | श्रीशक्त्या सहितो विष्णुः सदा पाति जगत्त्रयम् । भूशक्त्या सृजते ब्रह्मा नीलशक् | Vishnu, along with Shri-Shakti, always protects the three worlds. Brahma creates with Bh | *(none — states no result)* | ok |  |
+| `1.21` | सर्वेषु चैव जीवेषु परमात्मा विराजते । सर्वं हि तदिदं ब्रह्मन् स्थितं हि परमात् | The Supreme Soul (Paramatma) resides in all living beings. O Brahmin! Everything that we | *(none — states no result)* | ok |  |
+| `1.2` | भगवन् परमं पुण्यं गुह्यं वेदाङ्गमुत्तमम् । त्रिस्कन्धं ज्यौतिषं होरा गणितं संह | "O Venerable One! Jyotisha (astrology) is supremely merit-giving, secret, and the best l | *(none — states no result)* | ok |  |
+| `1.9` | एकोऽव्यक्तात्मको विष्णुरनादिः प्रभुरीश्वरः । शुद्धसत्वो जगत्स्वामी निर्गुणस्त् | Lord Vishnu is the one unmanifest soul, beginningless, the lord and ruler. He is pure Sa | *(none — states no result)* | ok |  |
+| `13.8` | षष्ठेऽष्टमे व्यये वाऽपि धनलाभाधिपौ यदि । लाभे कुजोधने राहू राजदण्डाद् धनक्षयः | If the lords of the 2nd and 11th are in the 6th, 8th, or 12th houses, or if Mars is in t | `danger` `loss` | ok |  |
+| `13.13` | धनेशे पापसंयुक्ते धने पापसमन्विते । पिशुनोऽसत्यवादी च वातव्याधिसमन्वितः | If the 2nd lord is associated with malefics and a malefic planet is in the 2nd house, th | `wealth` |  |  |
+| `13.1` | धनभावफलं वच्मि श‍ृणु त्वं द्विजसत्तम । धनेशो धनभावस्थः केन्द्रकोणगतोऽपि वा | Now I shall tell the results of the 2nd house (Dhana Bhava), listen O best of Brahmins!  | *(none — states no result)* | ok |  |
 | `13.11` | स्थिते पारावतांशादौ धनेशे शुभसंयुते । तद्गृहे सर्वसम्पत्तिर्विनाऽयासेन जायते | If the 2nd lord is in Paravat-amsha etc. and associated with benefics, all kinds of weal | `wealth` |  |  |
 | `13.2` | धनवृद्धिकरो ज्ञेयस्त्रिकस्थो धनहानिकृत् । धनदश्च धने सौम्यः पापो धनविनाशकृत् | ...it increases wealth. If placed in the 6th, 8th, or 12th (Trika), it causes loss of we | `loss` `wealth` |  |  |
-| `13.10` | स्वभोच्चस्थे धनाधीशे जातको जनपोषकः । परोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम | If the 2nd lord is in its own sign or exaltation, the native nourishes people, is a bene | `honour` |  |  |
-| `13.5` | धनेशे केन्द्रराशिस्थे लाभेशे तत्त्रिकोणगे । गुरुशुक्रयुते दृष्टे धनलाभमुदीरयेत | If the 2nd lord is in a quadrant sign and the 11th lord is in its trine, and they are as | `wealth` |  |  |
-| `13.7` | धनलाभाधिपावस्तौ पापग्रहसमन्वितौ । जन्मप्रभृतिदारिद्रं भिक्षान्नं लभते नरः | If the lords of the 2nd and 11th are combust or associated with malefic planets, the per | `loss` |  |  |
+| `13.10` | स्वभोच्चस्थे धनाधीशे जातको जनपोषकः । परोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम | If the 2nd lord is in its own sign or exaltation, the native nourishes people, is a bene | `loss` |  |  |
+| `13.5` | धनेशे केन्द्रराशिस्थे लाभेशे तत्त्रिकोणगे । गुरुशुक्रयुते दृष्टे धनलाभमुदीरयेत | If the 2nd lord is in a quadrant sign and the 11th lord is in its trine, and they are as | `religion` `wealth` |  |  |
+| `13.7` | धनलाभाधिपावस्तौ पापग्रहसमन्वितौ । जन्मप्रभृतिदारिद्रं भिक्षान्नं लभते नरः | If the lords of the 2nd and 11th are combust or associated with malefic planets, the per | `danger` `loss` |  |  |
 | `13.12` | नेत्रेशे बलसंयुक्ते शोभनाक्षो भवेन्नरः । षष्ठाष्टमव्ययस्थे च नेत्रवैकल्यवान् भ | If the lord of the 2nd (Netra-esha) is powerful, the person has beautiful eyes. If it is | `disease` |  |  |
 | `13.9` | लाभे जीवे धने शुक्रे धनेशे शुभसंयुते । व्यये च शुभसंयुक्ते धर्मकार्ये धनव्ययः | If Jupiter is in the 11th, Venus in the 2nd, the 2nd lord is with benefics, and the 12th | `religion` |  |  |
-| `17.7` | लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ । राहुणा शनिना सार्द्धं कुष्ठं तत्र विनि | If the Lagna lord, Mars, and Mercury are conjoined with the Moon, along with Rahu or Sat | `disease` |  |  |
-| `17.23` | षष्ठाष्टमगते सूर्ये तद्व्यये चन्द्रसंयुतः । पञ्चमे नवमेऽब्दे तु जलभीतिं विनिर् | If the Sun is in the 6th or 8th house, and the Moon is conjoined in the 12th from it, da | `danger` |  |  |
-| `17.22` | जातस्य जन्मतो विप्र प्रथमे च द्वितीयके । वत्सरेऽग्निभयं तस्य त्रिवर्षे पक्षिदो | ...O Brahmin! in the first and second year from birth, there is danger from fire for him | `danger` |  |  |
-| `17.2` | षष्ठाधिपः स्वगेहे वा देहे वाऽप्यष्टमे स्थितः । तदा व्रणा भवेद्देहे षष्ठराशिसमा | If the 6th lord is in its own house, or in the Lagna, or in the 8th house, then there wi | `disease` |  |  |
+| `17.7` | लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ । राहुणा शनिना सार्द्धं कुष्ठं तत्र विनि | If the Lagna lord, Mars, and Mercury are conjoined with the Moon, along with Rahu or Sat | `disease` | ok |  |
+| `17.23` | षष्ठाष्टमगते सूर्ये तद्व्यये चन्द्रसंयुतः । पञ्चमे नवमेऽब्दे तु जलभीतिं विनिर् | If the Sun is in the 6th or 8th house, and the Moon is conjoined in the 12th from it, da | `happiness` |  |  |
+| `17.22` | जातस्य जन्मतो विप्र प्रथमे च द्वितीयके । वत्सरेऽग्निभयं तस्य त्रिवर्षे पक्षिदो | ...O Brahmin! in the first and second year from birth, there is danger from fire for him | `danger` | ok |  |
+| `17.2` | षष्ठाधिपः स्वगेहे वा देहे वाऽप्यष्टमे स्थितः । तदा व्रणा भवेद्देहे षष्ठराशिसमा | If the 6th lord is in its own house, or in the Lagna, or in the 8th house, then there wi | `disease` | ok |  |
 | `17.24` | अष्टमे मन्दसंयुक्ते तस्माद्वा द्वादशे कुजः । त्रिंशाब्दे दशमेऽब्दे तु स्फोटकाद | If Saturn is conjoined in the 8th house, or Mars is in the 12th from it, boils/eruptions | `disease` |  |  |
-| `17.12` | चन्द्रेण गण्डः सलिलैः कफश्लेष्मादिना भवेत् । एवं पित्रादिभावानां तत्तत्कारकयोग | With the Moon, danger from water, phlegm etc. Similarly for the houses of father etc., b | `disease` |  |  |
-| `17.8` | लग्नाधिपं विना लग्ने स्थितश्चेत्तमसा शशी । स्वेतकुष्ठं तदा कृष्णकुष्ठं च शनिना | If without the Lagna lord, the Moon is situated in the Lagna with Rahu, then white lepro | `disease` |  |  |
-| `17.17` | लग्नेशे नाशराशिस्थे षड्विंशे क्षयरोगता । व्ययेशे रोगराशिस्थे तदीशे व्ययराशिगे | ...and the Lagna lord is in the 8th house, consumption (tuberculosis) in the 26th year.  | `disease` |  |  |
-| `17.6` | लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः । यत्र कुत्र स्थितो ज्ञेन वीक्षितो मु | If the Lagna lord is located in the sign of Mars or Mercury, and placed anywhere is aspe | `disease` |  |  |
-| `17.16` | द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् । रोगस्थानं गतो राहुः केन्द्रे म | ...leprosy should be indicated in the 22nd or 19th year. If Rahu is in the 6th house, an | `disease` |  |  |
-| `20.4` | भाग्यस्थानाद् द्वितीये वा सुखे भौमसमन्विते । भाग्येशे नीचराशिस्थे पिता निर्धन  | If the 2nd or 4th house from the 9th house is occupied by Mars, and the 9th lord is in i | `family` `loss` |  |  |
-| `20.22` | पञ्चाशद्वत्सरे प्राप्ते जनकस्य मृतिर्भवेत् । भाग्यात् सप्तमगे सूर्ये भ्रातृसप् | ...the death of the father occurs when the 50th year is reached. If the Sun is in the 7t | `death` `family` |  |  |
-| `20.16` | तृतीये षोडशे वर्षे जनकस्य मृतिर्भवेत् । लग्नेशे नाशराशिस्थे रन्ध्रेशे भानुसंयु | ...the death of the father occurs in the 3rd or 16th year. If the Lagna lord is in the 8 | `death` `family` |  |  |
-| `20.19` | सप्तमैकोनविंशाब्दे तातस्य मरणं ध्रुवम् । भाग्येशे व्ययराशिस्थे व्ययेशे भाग्यरा | ...the death of the father is certain in the 7th or 19th year. If the 9th lord is in the | `death` `family` |  |  |
+| `17.12` | चन्द्रेण गण्डः सलिलैः कफश्लेष्मादिना भवेत् । एवं पित्रादिभावानां तत्तत्कारकयोग | With the Moon, danger from water, phlegm etc. Similarly for the houses of father etc., b | `wealth` |  |  |
+| `17.8` | लग्नाधिपं विना लग्ने स्थितश्चेत्तमसा शशी । स्वेतकुष्ठं तदा कृष्णकुष्ठं च शनिना | If without the Lagna lord, the Moon is situated in the Lagna with Rahu, then white lepro | `wealth` |  |  |
+| `17.17` | लग्नेशे नाशराशिस्थे षड्विंशे क्षयरोगता । व्ययेशे रोगराशिस्थे तदीशे व्ययराशिगे | ...and the Lagna lord is in the 8th house, consumption (tuberculosis) in the 26th year.  | `disease` | ok |  |
+| `17.6` | लग्नाधिपः कुजक्षेत्रे बुधभे यदि संस्थितः । यत्र कुत्र स्थितो ज्ञेन वीक्षितो मु | If the Lagna lord is located in the sign of Mars or Mercury, and placed anywhere is aspe | `disease` | ok |  |
+| `17.16` | द्वाविंशौकोनविंशेऽब्दे कुष्ठरोगं विनिर्दिशेत् । रोगस्थानं गतो राहुः केन्द्रे म | ...leprosy should be indicated in the 22nd or 19th year. If Rahu is in the 6th house, an | `wealth` |  |  |
+| `20.4` | भाग्यस्थानाद् द्वितीये वा सुखे भौमसमन्विते । भाग्येशे नीचराशिस्थे पिता निर्धन  | If the 2nd or 4th house from the 9th house is occupied by Mars, and the 9th lord is in i | `family` |  |  |
+| `20.22` | पञ्चाशद्वत्सरे प्राप्ते जनकस्य मृतिर्भवेत् । भाग्यात् सप्तमगे सूर्ये भ्रातृसप् | ...the death of the father occurs when the 50th year is reached. If the Sun is in the 7t | `family` `marriage` |  |  |
+| `20.16` | तृतीये षोडशे वर्षे जनकस्य मृतिर्भवेत् । लग्नेशे नाशराशिस्थे रन्ध्रेशे भानुसंयु | ...the death of the father occurs in the 3rd or 16th year. If the Lagna lord is in the 8 | `death` |  |  |
+| `20.19` | सप्तमैकोनविंशाब्दे तातस्य मरणं ध्रुवम् । भाग्येशे व्ययराशिस्थे व्ययेशे भाग्यरा | ...the death of the father is certain in the 7th or 19th year. If the 9th lord is in the | `death` |  |  |
 | `20.31` | भाग्यस्थानगते मन्दे शशिना च समन्विते । लग्नेशे नीचराशिस्थे भिक्षाशी च नरो भवेत | If Saturn is in the 9th house associated with the Moon, and the Lagna lord is in its deb | `loss` |  |  |
 | `20.11` | लग्नेशे भाग्यराशिस्थे षष्ठेशेन समन्विते । अन्योन्यवैरं ब्रुवते जनकः कुत्सितो भ | If the Lagna lord is in the 9th house and associated with the 6th lord, they proclaim mu | `enemies` `family` |  |  |
-| `20.24` | त्रिंशैकविंशे षड्विंशे जनकस्य मृतिर्भवेत् । भाग्येशे नीचराशिस्थे तदीशे भाग्यरा | ...the death of the father occurs in the 30th, 21st, or 26th year. If the 9th lord is in | `death` `family` |  |  |
+| `20.24` | त्रिंशैकविंशे षड्विंशे जनकस्य मृतिर्भवेत् । भाग्येशे नीचराशिस्थे तदीशे भाग्यरा | ...the death of the father occurs in the 30th, 21st, or 26th year. If the 9th lord is in | `danger` `death` `family` |  |  |
 | `20.6` | भाग्येशे केन्द्रभावस्थे गुरुणा च निरीक्षिते । तत्पिता वाहनैर्युक्तो राजा वा तत | If the 9th lord is in a Kendra and is aspected by Jupiter, the native's father will be e | `family` `honour` `property` |  |  |
-| `20.10` | भाग्येशे धनभावस्थे धनेशे भाग्यराशिगे । द्वात्रिंशात्परतो भाग्यं वाहनं कीर्तिसम | If the 9th lord is in the 2nd house and the 2nd lord is in the 9th house, the native att | `honour` `property` |  |  |
+| `20.10` | भाग्येशे धनभावस्थे धनेशे भाग्यराशिगे । द्वात्रिंशात्परतो भाग्यं वाहनं कीर्तिसम | If the 9th lord is in the 2nd house and the 2nd lord is in the 9th house, the native att | `honour` `property` | ok |  |
 | `20.15` | जातस्य प्रथमाब्दे तु पितुर्मरणमादिशेत् । व्ययेशे भाग्यराशिस्थे नीचांशे भाग्यना | ...the death of the father should be predicted in the first year of the native. If the 1 | `death` `family` |  |  |
-| `21.9` | लाभेशे कर्मराशिस्थे कर्मेशे लग्नसंयुते । तावुभौ केन्द्रगौ वापि सुखजीवनभाग् भवे | If the 11th lord is in the 10th house and the 10th lord is in the ascendant, or if both  | `happiness` |  |  |
+| `21.9` | लाभेशे कर्मराशिस्थे कर्मेशे लग्नसंयुते । तावुभौ केन्द्रगौ वापि सुखजीवनभाग् भवे | If the 11th lord is in the 10th house and the 10th lord is in the ascendant, or if both  | `danger` |  |  |
 | `21.13` | केन्द्रेशे लाभराशिस्थे लाभेशे लग्नसंस्थिते । कर्मराशिस्थिते शुक्रे रत्नवान् स  | If a quadrant lord is in the 11th house, the 11th lord is in the ascendant, and Venus is | `wealth` |  |  |
-| `21.3` | कर्माधिपो बलोनश्चेत् कर्मवैकल्यमादिशेत् । सैहिः केन्द्रत्रिकोणस्थो ज्योतिष्टोम | If the lord of the 10th house is weak, the person's actions will be deficient. If it is  | `profession` `religion` |  |  |
-| `21.22` | इति कर्मफलं प्रोक्तं संक्षेपेण द्विजोत्तम । लग्नकर्मेशसम्बन्धादूह्यमन्यदपि स्व | Thus, the effects of the 10th house have been described in brief. Other results should b | *(none — states no result)* |  |  |
-| `21.5` | दशमे पापसंयुक्ते लाभे पापसमन्विते । दुष्कृतिं लभते मर्त्यः स्वजनानां विदूषकः | If the 10th and 11th houses are occupied by malefic planets, the person commits sins and | `enemies` `family` |  |  |
-| `21.12` | मीने जीवे भृगुयुते लग्नेशे बलसंयुते । स्वोच्चराशिगते चन्द्रे सम्यग्ज्ञानार्थवा | If Jupiter is in Pisces with Venus, the ascendant lord is strong, and the Moon is in its | `learning` `wealth` |  |  |
-| `21.4` | कर्मेशे शुभसंयुक्ते शुभस्थानगते तथा । राजद्वारे च वाणिज्ये सदा लाभोऽन्यथान्यथा | If the 10th lord is associated with benefics and placed in an auspicious house, the pers | `profession` `wealth` |  |  |
+| `21.3` | कर्माधिपो बलोनश्चेत् कर्मवैकल्यमादिशेत् । सैहिः केन्द्रत्रिकोणस्थो ज्योतिष्टोम | If the lord of the 10th house is weak, the person's actions will be deficient. If it is  | `profession` `religion` | ok |  |
+| `21.22` | इति कर्मफलं प्रोक्तं संक्षेपेण द्विजोत्तम । लग्नकर्मेशसम्बन्धादूह्यमन्यदपि स्व | Thus, the effects of the 10th house have been described in brief. Other results should b | *(none — states no result)* | ok |  |
+| `21.5` | दशमे पापसंयुक्ते लाभे पापसमन्विते । दुष्कृतिं लभते मर्त्यः स्वजनानां विदूषकः | If the 10th and 11th houses are occupied by malefic planets, the person commits sins and | `enemies` `family` | ok |  |
+| `21.12` | मीने जीवे भृगुयुते लग्नेशे बलसंयुते । स्वोच्चराशिगते चन्द्रे सम्यग्ज्ञानार्थवा | If Jupiter is in Pisces with Venus, the ascendant lord is strong, and the Moon is in its | `learning` `wealth` | ok |  |
+| `21.4` | कर्मेशे शुभसंयुक्ते शुभस्थानगते तथा । राजद्वारे च वाणिज्ये सदा लाभोऽन्यथान्यथा | If the 10th lord is associated with benefics and placed in an auspicious house, the pers | `honour` `profession` `wealth` |  |  |
 | `21.16` | कर्मस्थानगते मन्दे नीचखेचरसंयुते । कर्मांशे पापसंयुक्ते कर्महीनो भवेन्नरः | If Saturn is in the 10th house with a debilitated planet, or if the Dashamansha is assoc | `profession` |  |  |
-| `21.14` | केन्द्रत्रिकोणगे कर्मनाथे स्वोच्चसमाश्रिते । गुरुणा सहिते दृष्टे स कर्मसहितो भ | If the 10th lord is in a quadrant or trine in its exaltation, and is associated with or  | `profession` |  |  |
-| `21.6` | कर्मेशे नाशराशिस्थे राहुणा संयुते तथा । जनद्वेषी महामूर्खो दुष्कृतिं लभते नरः | If the 10th lord is in the 8th house associated with Rahu, the person will be hated by p | `enemies` `learning` |  |  |
-| `21.8` | तुङ्गराशिं समाश्रित्य कर्मेशे गुरुसंयुते । भाग्येशे कर्मराशिस्थे मानैश्वर्यप्र | If the 10th lord is in its exaltation house with Jupiter, and the 9th lord is in the 10t | `honour` `wealth` |  |  |
-| `21.21` | कर्मस्थानाधिपे भाग्ये लग्नेशे कर्मसंयुते । लग्नात् पञ्चमगे चन्द्रे ख्यातनामा न | If the 10th lord is in the 9th house, the ascendant lord is in the 10th house, and the M | `honour` |  |  |
-| `24.113` | कर्मेशे सुतभावस्थे सर्वविद्यासमन्वितः । सर्वदा हृर्षसंयुक्तो धनवान् पुत्रवानपि | If the 10th lord is in the 5th house, the person is endowed with all kinds of learning;  | `children` `happiness` `learning` `wealth` |  |  |
-| `24.25` | लग्नगे सहजाधीशे स्वभुजार्जितवित्तवान् । सेवाज्ञः साहसी जातो विद्याहीनोऽपि बुद् | If the 3rd lord is in the ascendant, the person earns wealth by his own efforts, is know | `learning` `profession` `wealth` |  |  |
-| `24.77` | दारेशे पञ्चमे जातो मानि सर्वगुणान्वितः । सर्वदा हर्षयुक्तश्च तथा सर्वधनाधिपः | If the 7th lord is in the 5th house, the person is honorable, endowed with all virtues,  | `happiness` `honour` `wealth` |  |  |
-| `24.88` | रन्ध्रेशे सुखभावस्थे मातृहीनो भवेच्छिशुः । गृहभूमिसुखैर्हीनो मित्रद्रोही न संश | If the 8th lord is in the 4th house, the child is devoid of a mother; he is devoid of ha | `family` `property` |  |  |
-| `24.127` | लाभेशे दारभावस्थे लाभो दारकुलात् सदा । उदारश्च गुणी कामी जनो भार्यावशानुगः | If the 11th lord is in the 7th house, gain is always through the wife's side; the person | `marriage` `wealth` |  |  |
-| `24.106` | भाग्येशे कर्मभावस्थे जातो राजाऽथ तत्समः । मन्त्री सेनापतिर्वाऽपि गुणवान् जनपुज | If the 9th lord is in the 10th house, the person becomes a king or like a king, a minist | `honour` `profession` |  |  |
-| `24.100` | भाग्येशे तुर्यभावस्थे गृहयानसुखान्वितः । सर्वसम्पत्तियुक्तश्च मातृभक्तो भवेन्न | If the 9th lord is in the 4th house, the person enjoys happiness from mother, house, and | `family` `property` `wealth` |  |  |
-| `24.54` | सुतेशे रिपुभावस्थे पुत्रः शत्रुसमो भवेत् । मृतापत्योऽथवा जातो दत्तक्रीतसुतोऽथव | If the 5th lord is in the 6th house, his son becomes like an enemy, or he may have dead  | `children` `death` `enemies` |  |  |
-| `24.89` | रन्ध्रेशे सुतभावस्थे जडबुद्धिः प्रजायते । स्वल्पप्रज्ञो भवेज्जतो दीर्घायुश्च ध | If the 8th lord is in the 5th house, the person is of dull intellect; he has little inte | `learning` `longevity` `wealth` |  |  |
-| `24.101` | भाग्येशे सुतभावस्थे सुतभाग्यसमन्वितः । गुरुभक्तिरतो धीरो धर्मात्मा पण्डितो नरः | If the 9th lord is in the 5th house, the person is endowed with happiness from sons and  | `children` `learning` `religion` |  |  |
+| `21.14` | केन्द्रत्रिकोणगे कर्मनाथे स्वोच्चसमाश्रिते । गुरुणा सहिते दृष्टे स कर्मसहितो भ | If the 10th lord is in a quadrant or trine in its exaltation, and is associated with or  | `loss` `profession` |  |  |
+| `21.6` | कर्मेशे नाशराशिस्थे राहुणा संयुते तथा । जनद्वेषी महामूर्खो दुष्कृतिं लभते नरः | If the 10th lord is in the 8th house associated with Rahu, the person will be hated by p | `enemies` `learning` | ok |  |
+| `21.8` | तुङ्गराशिं समाश्रित्य कर्मेशे गुरुसंयुते । भाग्येशे कर्मराशिस्थे मानैश्वर्यप्र | If the 10th lord is in its exaltation house with Jupiter, and the 9th lord is in the 10t | `wealth` |  |  |
+| `21.21` | कर्मस्थानाधिपे भाग्ये लग्नेशे कर्मसंयुते । लग्नात् पञ्चमगे चन्द्रे ख्यातनामा न | If the 10th lord is in the 9th house, the ascendant lord is in the 10th house, and the M | `honour` | ok |  |
+| `24.113` | कर्मेशे सुतभावस्थे सर्वविद्यासमन्वितः । सर्वदा हृर्षसंयुक्तो धनवान् पुत्रवानपि | If the 10th lord is in the 5th house, the person is endowed with all kinds of learning;  | `children` `happiness` `learning` `wealth` | ok |  |
+| `24.25` | लग्नगे सहजाधीशे स्वभुजार्जितवित्तवान् । सेवाज्ञः साहसी जातो विद्याहीनोऽपि बुद् | If the 3rd lord is in the ascendant, the person earns wealth by his own efforts, is know | `profession` `sorrow` `wealth` |  |  |
+| `24.77` | दारेशे पञ्चमे जातो मानि सर्वगुणान्वितः । सर्वदा हर्षयुक्तश्च तथा सर्वधनाधिपः | If the 7th lord is in the 5th house, the person is honorable, endowed with all virtues,  | `happiness` `honour` |  |  |
+| `24.88` | रन्ध्रेशे सुखभावस्थे मातृहीनो भवेच्छिशुः । गृहभूमिसुखैर्हीनो मित्रद्रोही न संश | If the 8th lord is in the 4th house, the child is devoid of a mother; he is devoid of ha | `family` `property` | ok |  |
+| `24.127` | लाभेशे दारभावस्थे लाभो दारकुलात् सदा । उदारश्च गुणी कामी जनो भार्यावशानुगः | If the 11th lord is in the 7th house, gain is always through the wife's side; the person | `marriage` `wealth` | ok |  |
+| `24.106` | भाग्येशे कर्मभावस्थे जातो राजाऽथ तत्समः । मन्त्री सेनापतिर्वाऽपि गुणवान् जनपुज | If the 9th lord is in the 10th house, the person becomes a king or like a king, a minist | `honour` `profession` | ok |  |
+| `24.100` | भाग्येशे तुर्यभावस्थे गृहयानसुखान्वितः । सर्वसम्पत्तियुक्तश्च मातृभक्तो भवेन्न | If the 9th lord is in the 4th house, the person enjoys happiness from mother, house, and | `family` `property` `wealth` | ok |  |
+| `24.54` | सुतेशे रिपुभावस्थे पुत्रः शत्रुसमो भवेत् । मृतापत्योऽथवा जातो दत्तक्रीतसुतोऽथव | If the 5th lord is in the 6th house, his son becomes like an enemy, or he may have dead  | `children` `death` |  |  |
+| `24.89` | रन्ध्रेशे सुतभावस्थे जडबुद्धिः प्रजायते । स्वल्पप्रज्ञो भवेज्जतो दीर्घायुश्च ध | If the 8th lord is in the 5th house, the person is of dull intellect; he has little inte | `learning` `longevity` `wealth` | ok |  |
+| `24.101` | भाग्येशे सुतभावस्थे सुतभाग्यसमन्वितः । गुरुभक्तिरतो धीरो धर्मात्मा पण्डितो नरः | If the 9th lord is in the 5th house, the person is endowed with happiness from sons and  | `learning` `religion` `travel` | wrong | `travel` unsupported (`गुरुभक्तिरतो धीरो धर्मात्मा पण्डितो`); `सुतभाग्यसमन्वितः` → children also missing |
 | `24.3` | लग्नेशे सहजे जातः सिंहतुल्यपराक्रमी । सर्वसम्पद्युतो मानी द्विभार्यो मतिमान् स | If the Lagna Lord is in the 3rd house, the person is as brave as a lion, endowed with al | `happiness` `honour` `marriage` `wealth` |  |  |
 | `24.74` | दारेशे धनगे जातो बहुस्त्रीभिः समन्वितः । दारयोगाद्धनाप्तिश्च दीर्घसूत्री च मान | If the 7th lord is in the 2nd house, the person is endowed with many wives; he gains wea | `marriage` `wealth` |  |  |
 
