@@ -289,7 +289,20 @@ def upgrade() -> None:
     # SELECT on the views only. Nothing on annotation or annotation_revision -- the revision
     # table holds every draft value ever written, so a grant there leaks more than annotation.
     op.execute(f"GRANT SELECT ON published_text, published_verse TO {API_ROLE}")
-    # Belt and braces: future tables in this schema must not become readable by default.
+    # T4/M3, 2026-09-16: THIS LINE CANNOT FAIL AND IS NOT A CHECK. Default-privilege REVOKE
+    # only removes a default GRANT for objects created after it runs, and no default grant to
+    # corpus_api exists for it to remove -- this migration never issued one, and Postgres does
+    # not hand a new table's privileges to anyone but its owner unless told to. So this
+    # statement executes, changes nothing, and reads as protection while defending nothing.
+    # `rule:discernment-checks` §1: a check that cannot fail is worse than no check.
+    #
+    # The real hazard -- a FUTURE migration writing an explicit `GRANT ... TO corpus_api` or
+    # `TO PUBLIC` -- is caught by
+    # tests/test_grants_and_views.py::test_corpus_api_grant_set_is_exactly_select_on_published_views,
+    # which reads information_schema.role_table_grants and asserts the grant set is exactly
+    # `{published_text: SELECT, published_verse: SELECT}`, derived from the schema rather than
+    # a hardcoded list. THAT test is the real check; this line is kept only because 0001 is
+    # committed and shared, so removing it would change a migration someone has already run.
     op.execute(
         f"ALTER DEFAULT PRIVILEGES IN SCHEMA public REVOKE ALL ON TABLES FROM {API_ROLE}"
     )

@@ -24,7 +24,7 @@ services:
       POSTGRES_PASSWORD: corpus_local_dev
       POSTGRES_DB: sanskrit_texts
     ports:
-      - "5433:5432"
+      - "${SANSKRIT_PG_PORT:-5433}:5432"
     volumes:
       - sanskrit_texts_pgdata:/var/lib/postgresql/data
     healthcheck:
