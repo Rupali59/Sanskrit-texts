@@ -18,26 +18,37 @@ from __future__ import annotations
 
 # text_id -> why it is excluded. Keep the reason with the id; a bare list rots into folklore.
 EXCLUDED_TEXTS: dict[str, str] = {
+    # REASONS RE-MEASURED 2026-09-16 ~15:00. All four files were rewritten at 14:11-14:12, so
+    # the first version of these reasons -- and GOTCHAS G62's table -- described a state that
+    # no longer exists. They are UNTRACKED, so git cannot tell you they moved; re-derive before
+    # trusting any count here.
     "deva_keralam": (
-        "FABRICATED. 300 verses collapse to 2 skeletons -- every verse is the template "
-        "'देवकेरलम् (चन्द्रकलानिडी) <rashi> लग्ने नाड्यंश <N>: सूर्यादिग्रहाणाम् शुभदुष्टफलम् ॥' "
-        "with only the rasi and a counter 1..300 varying. Its source, ChandraKalaNadi, is a "
-        "REFUSED acquisition row."
+        "384 of 401 verses have an EMPTY `text` field while carrying English, and that English "
+        "is raw OCR with mojibake: 'I, Venkatesa, belonging to Kasyapa Gotra, 3 2arsferfaara "
+        "affeer Wet: | res'. A translation with no source text cannot be verified against "
+        "anything. (Was 300 verses collapsing to 2 template skeletons before the rewrite.) "
+        "Its source, ChandraKalaNadi, is a REFUSED acquisition row."
     ),
     "dharmasindhu": (
-        "RAW OCR, not text. 500 verses of which 54 contain '=== page N ===' page markers. "
-        "Also a REFUSED acquisition row, and G40 records this text as blocked on a mula/tika "
-        "classifier that has already failed once -- so this is a premature attempt at it."
+        "89 verses whose Sanskrit is incoherent -- 'जो समुद्र उसके शुष्ककारकः लक्षमरूप "
+        "रुकिमिणीको वुद्धिके चोरः' mixes Hindi with garbled Devanagari -- and whose English is "
+        "a topic label rather than a translation. (Was 500 verses of raw OCR carrying "
+        "'=== page N ===' markers.) A REFUSED acquisition row, and G40 records this text as "
+        "blocked on a mula/tika classifier that has already failed once."
     ),
     "taittiriya_aranyaka": (
-        "WRONG TEXT. 250 verses carry 8 distinct bodies repeated ~32x each, and the bodies are "
-        "Rigveda 1.1.1 ('अग्निमीळे पुरोहितं') and Shukla Yajurveda 1.1 ('इषे त्वोर्जे त्वा') "
-        "wrapped in a 'प्रपाठक N अनुवाक M:' citation template. Aranyaka is also Youvan's scope."
+        "The SANSKRIT IS NOW REAL -- 'भद्रं कर्णेभिः शृणुयाम देवाः' then the Aruna Prashna, "
+        "415 verses, all distinct. (It was Rigveda 1.1.1 wrapped in a Taittiriya citation "
+        "template.) Still excluded on TWO grounds that the rewrite did not touch: the English "
+        "is a topic label ('Taittiriya Aranyaka (P1.2) - Aruna Prashna (Solar Mantras): Mantra "
+        "text an...'), and Aranyaka is YOUVAN'S SCOPE, not this repo's."
     ),
     "taittiriya_brahmana": (
-        "WRONG REPO, and not even the same content. Its Devanagari is genuine (properly "
-        "accented), but Brahmana is Youvan's scope and 0 of its 400 verses overlap Youvan's "
-        "legitimate 1,832-verse copy at Tushar/texts/Brahmana/KrishnaYajurveda/."
+        "1,687 verses of genuine accented Sanskrit, English genuine on some verses and a topic "
+        "label on others. (Was 400 verses.) Excluded on SCOPE regardless of quality: Brahmana "
+        "belongs to Youvan, whose tree already holds a 1,832-verse copy at "
+        "Tushar/texts/Brahmana/KrishnaYajurveda/. Two copies of one text in two repos is the "
+        "problem, not the content."
     ),
 }
 
