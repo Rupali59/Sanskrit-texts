@@ -81,7 +81,12 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-BPHS = REPO / "Hora/Parashari/BrihatParasharaHoraShastra/BrihatParasharaHoraShastra.json"
+# Bare-python-independent, like check_inventory.py's own insert: importable whether or not
+# this repo's package is pip-installed into whatever interpreter runs this script.
+sys.path.insert(0, str(REPO))
+from sanskrit_texts import reader  # noqa: E402  — the corpus read only; SHEET below is unrelated
+
+BPHS_TEXT_ID = "bphs"
 SHEET = REPO / "docs" / "SPOT_CHECK.md"
 
 SEED = 20260914          # the date, so the sample is reproducible and its origin is legible
@@ -489,13 +494,11 @@ def main():
                     help="prove the sensitivity measure can report both 0%% and 100%%")
     args = ap.parse_args()
 
-    if not BPHS.exists():
-        print(f"could not run: {BPHS} does not exist", file=sys.stderr)
-        return 2
     try:
-        doc = json.loads(BPHS.read_text(encoding="utf-8"))
-    except (json.JSONDecodeError, UnicodeDecodeError) as e:
-        print(f"could not run: {BPHS} does not parse: {e}", file=sys.stderr)
+        doc, _rel = reader.load_text_from_json(BPHS_TEXT_ID, root=REPO)
+    except reader.TextNotFoundError:
+        print(f"could not run: no text with text_id '{BPHS_TEXT_ID}' under {REPO}",
+              file=sys.stderr)
         return 2
 
     rows = sample(doc)

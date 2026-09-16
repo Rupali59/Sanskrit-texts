@@ -13,12 +13,28 @@ THREE CLAIMS THE MODULE DOCSTRING MAKES, EACH PROVEN HERE, NOT JUST ASSERTED IN 
 3. The json and db sources agree on the fields both can see in full -- text count and shloka
    count for a text imported into both. They are NOT asserted to agree field-for-field; see
    `reader.py`'s module docstring for exactly which fields the db source cannot supply and why.
+
+FOUR MORE CLAIMS, FOR THE VERSE-LEVEL API (`load_text_from_json`), THE §5 SCRIPT MIGRATION.
+
+4. It returns the verses a known small text actually holds. `yajusha_jyotisham` (45 verses,
+   1 chapter) is used rather than `bphs` (thousands, and mid-flux — see STATE.md) precisely
+   because its shape is small enough to assert exactly, not approximately.
+5. It never imports `sqlalchemy`, even indirectly, on the json path -- proven in a SUBPROCESS
+   with a fresh interpreter, because a `sys.modules` check in-process would only prove sqlalchemy
+   was not ALREADY imported by something else in this test session, not that this call is what
+   keeps it out (`tests/test_key_census.py` and others in this same session import it freely).
+6. Pointed at a directory with no corpus at all, it raises a NAMED failure, never a bare `{}`
+   or `(None, None)` -- the same "absence must be attributable" claim `load_corpus_from_db`
+   already makes for the db source (claim 2 above), now for the json-side verse lookup.
 """
 
 from __future__ import annotations
 
+import json
 import os
 import pathlib
+import subprocess
+import sys
 
 import pytest
 import sqlalchemy as sa
@@ -162,3 +178,78 @@ def test_db_source_return_shape_matches_json_source(owner_engine, api_engine, cl
     expected_keys = {"ch", "sh", "tr", "pct", "dir", "cat", "dupes", "titles", "authority"}
     assert set(json_summary[SAMPLE_TEXT]) == expected_keys
     assert set(db_summary[SAMPLE_TEXT]) == expected_keys
+
+
+# --------------------------------------------------------------------------------------------
+# 4. `load_text_from_json` -- the verse-level API `tag_features.py` and `spot_check.py` now
+#    share (§5). No database needed for any of these; all three are pure-json claims.
+# --------------------------------------------------------------------------------------------
+
+# A small, single-chapter, non-fluctuating text -- unlike `bphs`, which STATE.md records as
+# mid-migration -- so the exact verse count in the assertion below cannot rot out from under it.
+SMALL_TEXT = "yajusha_jyotisham"
+SMALL_TEXT_VERSES = 45
+
+
+def test_load_text_from_json_returns_the_verses_a_known_small_text_holds() -> None:
+    doc, rel = reader.load_text_from_json(SMALL_TEXT, root=REPO)
+
+    assert doc["text_id"] == SMALL_TEXT
+    verses = [sh for ch in doc["chapters"] for sh in ch["shlokas"]]
+    assert len(verses) == SMALL_TEXT_VERSES, (
+        f"{SMALL_TEXT} is expected to hold exactly {SMALL_TEXT_VERSES} verses; got "
+        f"{len(verses)}. If this text was re-digitised, update SMALL_TEXT_VERSES to match --  "
+        f"this assertion exists to catch the reader silently returning the wrong document, not "
+        f"to pin the corpus's editorial state."
+    )
+    # `rel` is a real, resolvable path back to the same file -- `tag_features.py` needs this to
+    # write the file back after tagging (its write path is untouched by this migration).
+    assert (REPO / rel).is_file()
+    on_disk = json.loads((REPO / rel).read_text(encoding="utf-8"))
+    assert on_disk["text_id"] == SMALL_TEXT
+
+
+def test_load_text_from_json_unknown_text_id_raises_named_error() -> None:
+    """A text_id that exists nowhere in the real corpus -- distinct from claim 6 below, which
+    points at a directory holding no corpus at all."""
+    with pytest.raises(reader.TextNotFoundError, match="no-such-text-id-in-this-corpus"):
+        reader.load_text_from_json("no-such-text-id-in-this-corpus", root=REPO)
+
+
+def test_load_text_from_json_empty_directory_reports_clearly_not_a_bare_empty(
+    tmp_path: pathlib.Path,
+) -> None:
+    """Claim 6: pointed at a directory with no corpus JSON at all, this must not return an
+    empty document, `None`, or any other value quietly standing in for "nothing here" --
+    `rule:discernment-checks` §2/§6. It must raise something a caller can see and name."""
+    with pytest.raises(reader.TextNotFoundError, match=str(tmp_path)):
+        reader.load_text_from_json("bphs", root=tmp_path)
+
+
+def test_load_text_from_json_does_not_import_sqlalchemy() -> None:
+    """Proven in a FRESH subprocess, not an in-process `sys.modules` check -- this test session
+    already imports sqlalchemy for the db-facing tests above, so checking `sys.modules` here
+    would prove nothing about what `load_text_from_json` itself pulls in. A clean interpreter
+    that only imports `sanskrit_texts.reader` and calls the json-path function is the only way
+    to prove the claim the module docstring makes: the JSON path stays dependency-free, so
+    `check_inventory.py` -- and now `tag_features.py`/`spot_check.py` -- keep working under bare
+    system `python3` with nothing installed."""
+    script = (
+        "import pathlib, sys\n"
+        f"sys.path.insert(0, {str(REPO)!r})\n"
+        "from sanskrit_texts import reader\n"
+        f"reader.load_text_from_json({SMALL_TEXT!r}, root=pathlib.Path({str(REPO)!r}))\n"
+        "assert 'sqlalchemy' not in sys.modules, sorted(m for m in sys.modules if 'sqlalchemy' in m)\n"
+        "print('OK')\n"
+    )
+    result = subprocess.run(
+        [sys.executable, "-c", script],
+        capture_output=True,
+        text=True,
+        timeout=30,
+    )
+    assert result.returncode == 0, (
+        f"subprocess failed (sqlalchemy import or lookup broke):\n"
+        f"stdout={result.stdout!r}\nstderr={result.stderr!r}"
+    )
+    assert result.stdout.strip() == "OK"

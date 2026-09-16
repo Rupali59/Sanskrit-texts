@@ -45,6 +45,10 @@ import entity_roots as ER          # noqa: E402  — parsers, not a copy of the 
 import relation_markers as RM      # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
+# Bare-python-independent, like check_inventory.py's own insert: importable whether or not
+# this repo's package is pip-installed into whatever interpreter runs this script.
+sys.path.insert(0, str(REPO))
+from sanskrit_texts import reader  # noqa: E402  — the corpus READ only; the write path below is untouched
 WORD = re.compile(r"[ऀ-ॣ॰-ॿ]+")
 
 # Tag slugs match astroacharya/seeds/*.json so a tag joins to its entity table with no
@@ -183,6 +187,14 @@ def main():
                     help="text_id to tag (default bphs — the roots were derived from it)")
     ap.add_argument("--apply", action="store_true",
                     help="write the file; without it NOTHING is written")
+    # Added for the reader.py migration's own verification (2026-09-16), not a feature request:
+    # before it, this script had NO way to be pointed at a copy of the corpus -- it always read
+    # the real repo via `REPO = Path(__file__).resolve().parent.parent` -- so proving the
+    # migration byte-for-byte on a TEMPORARY COPY, never the real corpus, was impossible without
+    # this. Defaults to REPO, so every existing invocation is unaffected.
+    ap.add_argument("--root", type=Path, default=REPO,
+                    help="corpus root to read and write under (default: this repo; pass a "
+                         "temporary copy's root to test --apply without touching the real corpus)")
     args = ap.parse_args()
 
     lex, excl, why = build_lexicon()
@@ -191,11 +203,13 @@ def main():
         return 2
     order = sorted(lex, key=len, reverse=True)      # longest first == maximal munch
 
-    doc, rel = ER.load_text(args.text)
-    if doc is None:
-        print(f"could not run: no text with text_id '{args.text}' under {REPO}", file=sys.stderr)
+    try:
+        doc, rel = reader.load_text_from_json(args.text, root=args.root)
+    except reader.TextNotFoundError:
+        print(f"could not run: no text with text_id '{args.text}' under {args.root}",
+              file=sys.stderr)
         return 2
-    path = REPO / rel
+    path = args.root / rel
     before = key_set(doc)
 
     tally, tagged, added = Counter(), 0, 0
