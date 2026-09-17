@@ -218,7 +218,7 @@
           "number": 20,
           "text": "सुयस्य मनुद्वितयं त्रिशोनं दिनदलेन तस्य प्राक । तिथिघटिकाभिस्त्रयंशाधिकोनमुनाधिकं पझ्चात्‌",
           "english": "For Surya, the epicycle (Paridhi) is twenty-five degrees (twenty-eight minus three) at midday (Dinadala). Before midday, this is decreased or increased by the Tithi-ghatikas multiplied by one-third, and after midday, it is conversely increased or decreased.",
-          "hindi": "मध्याह्न (दिनदल) के समय सूर्य की मन्द-परिधि पच्चीस (अट्ठाईस में तीन कम) अंश होती है। मध्याह्न से पूर्व (प्राक्) तिथि-घटिकाओं के अनुसार इसमें एक-तिहाई भाग घटाया या बढ़ाया जाता है, और मध्याह्न के पश्चात् इसके विपरीत बढ़ाया या घटाया जाता है।",
+          "hindi": "मध्याह्न (दिनदल) के समय सूर्य की मन्द-परिधि पच्चीस (अट्ठाईस में तीन कम) अंश होती है। मध्याह्न से पूर्व (प्राक्) तिथि-घटिकाओं के अनुसार इसमें एक-तिहाई भाग घटाया या बढ़ाया जाता है, और मध्याह्न के पश्चात् इसके विपरीत बढ़ाया या घटाया जाता है।",
           "status": "translated"
         },
         {
@@ -232,7 +232,7 @@
           "number": 22,
           "text": "( ३१ ) तद्य दलपरिध्यंतर गृण्णाकृता त्रिञ्यया स्वनतजीवा । ऊने धनमृणमविके दिनाद्धं परिधौ स्फुटः परिधिः",
           "english": "The difference between the midday epicycle and the epicycle at the desired time is multiplied by the Nata-jya (sine of the hour angle) and divided by the Trijya (radius). When the time is less than midday, this result is added or subtracted to the epicycle to obtain the Sphuta Paridhi (true epicycle).",
-          "hindi": "मध्याह्नकालीन परिधि और अभीष्ट समय की परिधि के अन्तर को नत-ज्या (नतकाल की ज्या) से गुणा करके त्रिज्या से भाग देना चाहिए। मध्याह्न से कम समय होने पर इसे परिधि में धन (जोड़) या ऋण (घटाव) करने से स्फुट परिधि (स्पष्ट परिधि) प्राप्त होती है।",
+          "hindi": "मध्याह्नकालीन परिधि और अभीष्ट समय की परिधि के अन्तर को नत-ज्या (नतकाल की ज्या) से गुणा करके त्रिज्या से भाग देना चाहिए। मध्याह्न से कम समय होने पर इसे परिधि में धन (जोड़) या ऋण (घटाव) करने से स्फुट परिधि (स्पष्ट परिधि) प्राप्त होती है।",
           "status": "translated"
         },
         {
@@ -428,7 +428,7 @@
           "number": 50,
           "text": "शीध्रस्फुटाग्रहोना छेष मध्यस्फुटांतराद्धं वा। अधिकेधनमृरामूने स्फुटग्रहा मध्यमे कृत्वा",
           "english": "Subtract the Sheeghra-sphuta-graha from the Madhyama-graha, or take half of the difference between the Madhyama and Sphuta. If the Sphuta is greater, add it; if less, subtract it, to convert the Madhyama-graha into a Sphuta-graha.",
-          "hindi": "शीघ्रस्फुट ग्रह को मध्यम ग्रह से घटाएं, अथवा मध्यम और स्फुट के अंतर का आधा लें। यदि स्फुट अधिक हो तो उसे जोड़ें, और यदि कम हो तो घटाएं, इस प्रकार मध्यम ग्रह को स्फुट ग्रह में परिवर्तित करें।",
+          "hindi": "शीघ्रस्फुट ग्रह को मध्यम ग्रह से घटाएं, अथवा मध्यम और स्फुट के अंतर का आधा लें। यदि स्फुट अधिक हो तो उसे जोड़ें, और यदि कम हो तो घटाएं, इस प्रकार मध्यम ग्रह को स्फुट ग्रह में परिवर्तित करें।",
           "status": "translated"
         },
         {
@@ -533,7 +533,7 @@
           "number": 66,
           "text": "व्यकदु कला भक्ताः खरसगुराः ३६० लम्धूनमेकेन \\ चलकरणानि ववादीन्यग हृतशेषे तिथिवदन्यत्‌",
           "english": "The Tithi (in minutes) divided by 360 (the number of degrees in a circle) gives the quotient, which when increased by one, indicates the current Karana. The remaining part of the Tithi calculation follows the same logic as the Tithi calculation itself.",
-          "hindi": "तिथि (कलाओं में) को ३६० से विभाजित करने पर जो लब्धि प्राप्त होती है, उसमें एक जोड़ने पर वर्तमान करण का मान प्राप्त होता है। शेष भाग की गणना तिथि गणना के समान ही की जाती है।",
+          "hindi": "तिथि (कलाओं में) को ३६० से विभाजित करने पर जो लब्धि प्राप्त होती है, उसमें एक जोड़ने पर वर्तमान करण का मान प्राप्त होता है। शेष भाग की गणना तिथि गणना के समान ही की जाती है।",
           "status": "translated"
         },
         {
@@ -805,14 +805,14 @@
           "number": 38,
           "text": "छाया कराविभक्ता विषुवत्करान संगुरा नुज्या । _ लब्धं सौम्येतरयोः क्षितिज्यया हीनसंयुक्त",
           "english": "The Chhaya (shadow) multiplied by the Vishuvat-karna (equinoctial shadow hypotenuse) and divided by the (local) shadow-karna gives the Bhuja-jya. This result, when subtracted from or added to the Kshitijya (earth-sine) depending on whether the Graha is in the northern or southern hemisphere, yields the desired result.",
-          "hindi": "छाया को विषुवत्कर्ण से गुणा करके छायाकर्ण से भाग देने पर भुजज्या प्राप्त होती है। इस लब्धि को सौम्य (उत्तर) या याम्य (दक्षिण) गोल के अनुसार क्षितिज्या में घटाने या जोड़ने पर अभीष्ट फल प्राप्त होता है।",
+          "hindi": "छाया को विषुवत्कर्ण से गुणा करके छायाकर्ण से भाग देने पर भुजज्या प्राप्त होती है। इस लब्धि को सौम्य (उत्तर) या याम्य (दक्षिण) गोल के अनुसार क्षितिज्या में घटाने या जोड़ने पर अभीष्ट फल प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 39,
           "text": "गरिएतं व्यासाद्ध न स्वाहोरात्राद्ध भक्तमाप्तघनु | उत्तर गोले युक्त याम्ये हीनं चरप्रारोः",
           "english": "The calculated (Bhuja-jya) multiplied by the Vyasardha (radius) and divided by the Sva-ahoratra (diurnal circle radius) gives the arc (Jya). When this is added in the northern hemisphere and subtracted in the southern hemisphere, it constitutes the Chara-prana (ascensional difference in time units).",
-          "hindi": "गणित (भुजज्या) को व्यासार्ध से गुणा करके स्व-अहोरात्र (द्युज्या) से भाग देने पर जो चाप प्राप्त होता है, उसे उत्तर गोल में युक्त (जोड़ने) और दक्षिण गोल में हीन (घटाने) करने पर चरप्राण प्राप्त होते हैं।",
+          "hindi": "गणित (भुजज्या) को व्यासार्ध से गुणा करके स्व-अहोरात्र (द्युज्या) से भाग देने पर जो चाप प्राप्त होता है, उसे उत्तर गोल में युक्त (जोड़ने) और दक्षिण गोल में हीन (घटाने) करने पर चरप्राण प्राप्त होते हैं।",
           "status": "translated"
         },
         {
@@ -833,7 +833,7 @@
           "number": 42,
           "text": ". क्षयवृद्धिज्याहीनं युक्त याम्ये धनुइचरप्रारंः t [ सौम्येयुतं विहीनं याम्ये प्रागपरयो प्राणा",
           "english": "Subtracting or adding the Kshaya-vriddhi-jya (variation in sine) to the arc gives the Chara-prana. In the northern hemisphere, it is added, and in the southern hemisphere, it is subtracted from the eastern and western Pranas.",
-          "hindi": "क्षय-वृद्धि ज्या को घटाने या जोड़ने पर चरप्राण का चाप प्राप्त होता है। सौम्य (उत्तर) गोल में इसे युक्त (जोड़ना) और याम्य (दक्षिण) गोल में प्रागपर प्राणों से हीन (घटाना) करना चाहिए।",
+          "hindi": "क्षय-वृद्धि ज्या को घटाने या जोड़ने पर चरप्राण का चाप प्राप्त होता है। सौम्य (उत्तर) गोल में इसे युक्त (जोड़ना) और याम्य (दक्षिण) गोल में प्रागपर प्राणों से हीन (घटाना) करना चाहिए।",
           "status": "translated"
         },
         {
@@ -924,7 +924,7 @@
           "number": 55,
           "text": "। विषुवच्छाया कृत्याद्वा संगयुतया ७२ न्यकृतियृतादाद्यात्‌ । पदमन्ययुतविहीनं सोम्येत्तरगोलयोः शंङुः",
           "english": "Or from the square of the Vishuvat-Chhaya combined with [constant 72 or specific values]... the square root (Pada) is obtained, which is to be added or subtracted in the northern and southern hemispheres respectively to find the Shanku (gnomonic shadow/altitude).",
-          "hindi": "अथवा विषुवच्छाया के वर्ग से तथा [७२ इत्यादि] संख्या से युक्त [...] पद (वर्गमूल) निकाला जाता है, जो उत्तर और दक्षिण गोल में क्रमशः इष्ट साधन हेतु जोड़ा या घटाया जाता है, जिससे शङ्कु प्राप्त होता है।",
+          "hindi": "अथवा विषुवच्छाया के वर्ग से तथा [७२ इत्यादि] संख्या से युक्त [...] पद (वर्गमूल) निकाला जाता है, जो उत्तर और दक्षिण गोल में क्रमशः इष्ट साधन हेतु जोड़ा या घटाया जाता है, जिससे शङ्कु प्राप्त होता है।",
           "status": "translated"
         },
         {
@@ -1438,7 +1438,7 @@
           "number": 6,
           "text": "स्वक्रान्तिज्ये बरिज्यागुणे हते लम्बकेन रविशशिनोः । ग्न पृथक्‌ स्वञ्नकुतल तुल्ययुक्ता विदिक्‌ वियुते",
           "english": "Multiply the Kranti-jya (declination sine) of Surya and Chandra by the Bhuja-jya (sine of the longitude) and divide by the Lambaka (co-latitude sine). When the directions are the same, add the results to the respective Shankus (gnomon shadows); when in different directions, subtract them to obtain the Vidik-Shanku (oblique gnomon).",
-          "hindi": "सूर्य और चन्द्र की क्रान्तिज्या को भुजज्या से गुणा करके लम्बक से भाग दें। यदि दिशा समान हो तो प्राप्त फल को पृथक्-पृथक् शङ्कु में जोड़ें, और यदि दिशा भिन्न हो तो घटाकर विदिक्-शङ्कु प्राप्त करें।",
+          "hindi": "सूर्य और चन्द्र की क्रान्तिज्या को भुजज्या से गुणा करके लम्बक से भाग दें। यदि दिशा समान हो तो प्राप्त फल को पृथक्-पृथक् शङ्कु में जोड़ें, और यदि दिशा भिन्न हो तो घटाकर विदिक्-शङ्कु प्राप्त करें।",
           "status": "translated"
         },
         {
@@ -2281,7 +2281,7 @@
           "number": 17,
           "text": "मिश्रक व्यवहार समाप्तः पदमेकहोनमुत्तरगुणितं संयुक्तमादिनांत्यघनंम्‌ । श्रादि यतान्त्यघनार्द्गमघ्यघनं पदगण गणितम्‌",
           "english": "Here ends the Mishraka Vyavahara (Commercial Mathematics). The Pada (number of terms) decreased by one, multiplied by the Uttara (common difference), and combined with the Adi (first term), gives the Antya (last term or final value). The sum of the Adi and Antya, divided by two, and multiplied by the Pada-gana (number of terms) yields the Ganita (total sum/series).",
-          "hindi": "यहाँ मिश्रक व्यवहार समाप्त होता है। पदों की संख्या में से एक घटाकर उसे उत्तर (सार्वअंतर) से गुणा करके आदि (प्रथम पद) में जोड़ने से अंत्य (अन्तिम पद) प्राप्त होता है। आदि और अंत्य के योग का आधा करके उसे पद-संख्या से गुणा करने पर गणित (श्रेणी का योगफल) प्राप्त होता है।",
+          "hindi": "यहाँ मिश्रक व्यवहार समाप्त होता है। पदों की संख्या में से एक घटाकर उसे उत्तर (सार्वअंतर) से गुणा करके आदि (प्रथम पद) में जोड़ने से अंत्य (अन्तिम पद) प्राप्त होता है। आदि और अंत्य के योग का आधा करके उसे पद-संख्या से गुणा करने पर गणित (श्रेणी का योगफल) प्राप्त होता है।",
           "status": "translated"
         },
         {
@@ -2295,14 +2295,14 @@
           "number": 19,
           "text": "एकोत्तरमेकार्यं यदो्टगच्छस्य भवति संकलितम्‌ । तद्‌ वियुत्‌ गच्छ गुणितं तृ हृतं संकलितम्‌",
           "english": "When the Gachchha (number of terms) is increased by one and multiplied by the Ekarya (base multiplier), it becomes the Sankalita (summation). That Sankalita, multiplied by the Gachchha and divided by three, yields the Varga-sankalita (sum of squares).",
-          "hindi": "जब गच्छ (पदों की संख्या) में एक जोड़कर उसे एकाग्र से गुणा किया जाता है, तब वह संकलित (योग) होता है। उस संकलित को गच्छ से गुणा करके तीन से भाग देने पर वर्ग-संकलित (वर्गों का योग) प्राप्त होता है।",
+          "hindi": "जब गच्छ (पदों की संख्या) में एक जोड़कर उसे एकाग्र से गुणा किया जाता है, तब वह संकलित (योग) होता है। उस संकलित को गच्छ से गुणा करके तीन से भाग देने पर वर्ग-संकलित (वर्गों का योग) प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 20,
           "text": "दिगुणपदसंकगुरितं तत्रृहतं भवति वर्गसंकलितम्‌ ॥ दूनसंकलितं तक्रतिरेषां समगोलकश्चितयः",
           "english": "Multiplied by twice the Pada plus one, and divided by that (three), it becomes the Varga-sankalita (sum of squares). [Alternative or extended rule follows]. Here ends the Sthiti Vyavahara (or related section)...",
-          "hindi": "दुगुने पद में एक जोड़ने से गुणित और उससे (तीन से) भाजित होने पर वह वर्ग-संकलित होता है। [इसके पश्चात अन्य नियम कहा गया है]।",
+          "hindi": "दुगुने पद में एक जोड़ने से गुणित और उससे (तीन से) भाजित होने पर वह वर्ग-संकलित होता है। [इसके पश्चात अन्य नियम कहा गया है]।",
           "status": "translated"
         },
         {
@@ -2316,7 +2316,7 @@
           "number": 22,
           "text": "भुजकृत्यंतरभ्‌ हु तहीनयुतामूद्विभाजिता बाघे। स्वाबाधावर्योना-डू जवर्गान्फलमवलंब",
           "english": "The difference between the squares of the two sides (bhuja) is divided by the base (bahu) and then added to or subtracted from the base; when this result is halved, it yields the two segments (abhadha) of the base. The square root of the difference between the square of the side and the square of the segment is the perpendicular (avalamba).",
-          "hindi": "भुजाओं के वर्गों का अंतर, आधार (बाहु) से विभाजित होकर, आधार में जोड़ने या घटाने पर, और फिर उसका आधा करने पर, आधार के दो खंड (आबाधा) प्राप्त होते हैं। भुजा के वर्ग और खंड के वर्ग के अंतर का वर्गमूल लंब (avalamba) होता है।",
+          "hindi": "भुजाओं के वर्गों का अंतर, आधार (बाहु) से विभाजित होकर, आधार में जोड़ने या घटाने पर, और फिर उसका आधा करने पर, आधार के दो खंड (आबाधा) प्राप्त होते हैं। भुजा के वर्ग और खंड के वर्ग के अंतर का वर्गमूल लंब (avalamba) होता है।",
           "status": "translated"
         },
         {
@@ -2400,7 +2400,7 @@
           "number": 34,
           "text": "इष्टइयेन भक्तो द्विधेष्ट बर्गफलेष्टयोगाद्ध । विषमत्रिभुजस्य भुजा विष्टोनफलाद्ध योगा भुः",
           "english": "The square of the desired side (Ishta-bhuja) divided by the desired segment (Ishta-phala) added to the segment gives the base. In a scalene triangle, the sides are derived from the sum of the squares of the segments and the desired results.",
-          "hindi": "इष्ट भुजा का वर्ग, इष्ट फल (खंड) से विभाजित होकर, उस खंड में जोड़ने पर आधार प्राप्त होता है। विषमबाहु त्रिभुज में, भुजाएं खंडों के वर्गों के योग और इष्ट फलों से प्राप्त की जाती हैं।",
+          "hindi": "इष्ट भुजा का वर्ग, इष्ट फल (खंड) से विभाजित होकर, उस खंड में जोड़ने पर आधार प्राप्त होता है। विषमबाहु त्रिभुज में, भुजाएं खंडों के वर्गों के योग और इष्ट फलों से प्राप्त की जाती हैं।",
           "status": "translated"
         },
         {
@@ -2463,7 +2463,7 @@
           "number": 43,
           "text": "इष्टशरस्य भक्त ज्याद्ध कुन्तिशरफले युतौ व्यासौ । ज्ञरयोः प.लयोरकयं गासो गासद्यदुनं तत्‌",
           "english": "The square of the Jya (sine) divided by the Ishta-Sara (desired arrow) added to the Sara (arrow) gives the diameter. In the case of two circles, the sum of the two diameters is the Grasa (eclipse magnitude) when they are in conjunction; if they are subtracted, it is the difference.",
-          "hindi": "ज्या के वर्ग को इष्ट-शर से विभाजित कर उसमें शर को जोड़ने पर व्यास प्राप्त होता है। दो वृत्तों के संदर्भ में, युति (संयोग) होने पर दोनों व्यासों का योग ग्रास होता है; यदि उन्हें घटा दिया जाए, तो वह (शेष) अंतर होता है।",
+          "hindi": "ज्या के वर्ग को इष्ट-शर से विभाजित कर उसमें शर को जोड़ने पर व्यास प्राप्त होता है। दो वृत्तों के संदर्भ में, युति (संयोग) होने पर दोनों व्यासों का योग ग्रास होता है; यदि उन्हें घटा दिया जाए, तो वह (शेष) अंतर होता है।",
           "status": "translated"
         },
         {
@@ -2484,7 +2484,7 @@
           "number": 46,
           "text": "` उद्रगणिताद्विशोध्य व्यवहारफलं त्रिभिर्भेजेछेशम्‌ । लब्बं व्यवहारफले प्रक्षिप्य फलं भवति सृक्ष्मं",
           "english": "Subtracting the Vyavahara-phala (practical result) from the Udaya-ganita (calculated result) and dividing by three, then adding this result back to the Vyavahara-phala, yields the Sookshma-phala (precise result).",
-          "hindi": "उदय-गणित से व्यावहारिक-फल को घटाकर तीन से विभाजित करें, फिर उस लब्धि (फल) को व्यावहारिक-फल में जोड़ देने पर सूक्ष्म-फल प्राप्त होता है।",
+          "hindi": "उदय-गणित से व्यावहारिक-फल को घटाकर तीन से विभाजित करें, फिर उस लब्धि (फल) को व्यावहारिक-फल में जोड़ देने पर सूक्ष्म-फल प्राप्त होता है।",
           "status": "translated"
         },
         {
@@ -2637,7 +2637,7 @@
           "number": 1,
           "text": "प्रहनध्यायान्‌ प्रवक्षामि सोत्तरान्‌ गणाकबुद्धिवृद्धिकरान्‌ । यैज्ञातेस्तन्त्रविदामाचार्यो भवति बुद्धिमताम्‌",
           "english": "I shall now expound upon the chapters of Grahaganita (planetary mathematics) along with their solutions, which enhance the intellect of the calculators. By mastering these, one becomes an Acharya (master) among the wise who are proficient in the Tantra (astronomical treatises).",
-          "hindi": "मैं अब ग्रहगणित के अध्यायों का उत्तर सहित वर्णन करूँगा, जो गणितज्ञों की बुद्धि को बढ़ाने वाले हैं। जिन्हें जानकर मनुष्य बुद्धिमानों में तंत्र (सिद्धांत) के ज्ञाता आचार्य बन जाता है।",
+          "hindi": "मैं अब ग्रहगणित के अध्यायों का उत्तर सहित वर्णन करूँगा, जो गणितज्ञों की बुद्धि को बढ़ाने वाले हैं। जिन्हें जानकर मनुष्य बुद्धिमानों में तंत्र (सिद्धांत) के ज्ञाता आचार्य बन जाता है।",
           "status": "translated"
         },
         {
@@ -2707,7 +2707,7 @@
           "number": 14,
           "text": "हुर्तामदुर्दिने लेब्ाधिमासंदिवसेविहितकमनष्टम्‌ । ड युगयातदिनान्यविमासदिनगरष्टग्रहादयमत",
           "english": "The elapsed days (Ahargana) are calculated by multiplying the elapsed days of the Yuga by the Adhimasa-days and dividing by the Yuga-days. The result, when added to the elapsed days, yields the corrected position of the Grahas.",
-          "hindi": "युगगत दिनों को अधिमास-दिनों से गुणा करके युग-दिनों से भाग देने पर जो प्राप्त होता है, उसे गत दिनों में जोड़ने पर ग्रहों की स्पष्ट स्थिति ज्ञात होती है।",
+          "hindi": "युगगत दिनों को अधिमास-दिनों से गुणा करके युग-दिनों से भाग देने पर जो प्राप्त होता है, उसे गत दिनों में जोड़ने पर ग्रहों की स्पष्ट स्थिति ज्ञात होती है।",
           "status": "translated"
         },
         {
@@ -2721,14 +2721,14 @@
           "number": 17,
           "text": "कुदिनगताधिकमासकघातः स्पध्टाधिमासञ्ञेषय॒तः भक्तो युगाधिमासँरहाणिः पु्ववन्मध्याः",
           "english": "The product of the elapsed Bhu-dinas (terrestrial days) and the Adhimasa-days, when added to the remainder and divided by the Yuga-Adhimasa-days, yields the elapsed Adhimasa-days. The mean positions are calculated as before.",
-          "hindi": "गत भू-दिनों और अधिमास-दिनों के गुणनफल में शेषफल जोड़कर युग-अधिमास-दिनों से भाग देने पर गत अधिमास-दिन प्राप्त होते हैं। मध्यमा ग्रह पूर्ववत् ज्ञात किए जाते हैं।",
+          "hindi": "गत भू-दिनों और अधिमास-दिनों के गुणनफल में शेषफल जोड़कर युग-अधिमास-दिनों से भाग देने पर गत अधिमास-दिन प्राप्त होते हैं। मध्यमा ग्रह पूर्ववत् ज्ञात किए जाते हैं।",
           "status": "translated"
         },
         {
           "number": 18,
           "text": "भूदिनगता इवमवधः शेषयुक्तो युगावमविभक्तः। लब्धं भवति द्युगुणो यृगयातो मध्यमाः प्राग्वत्‌",
           "english": "The product of the elapsed Bhu-dinas and the Yuga-Avama-days, when added to the remainder and divided by the Yuga-Avama-days, yields the result. The Ahargana (elapsed days) is then determined, and the mean positions are calculated as before.",
-          "hindi": "गत भू-दिनों और युग-अवम-दिनों के गुणनफल में शेषफल जोड़कर युग-अवम-दिनों से भाग देने पर लब्धि प्राप्त होती है। इससे अहर्गण ज्ञात होता है और मध्यमा ग्रह पूर्ववत् निकाले जाते हैं।",
+          "hindi": "गत भू-दिनों और युग-अवम-दिनों के गुणनफल में शेषफल जोड़कर युग-अवम-दिनों से भाग देने पर लब्धि प्राप्त होती है। इससे अहर्गण ज्ञात होता है और मध्यमा ग्रह पूर्ववत् निकाले जाते हैं।",
           "status": "translated"
         },
         {
@@ -2812,14 +2812,14 @@
           "number": 33,
           "text": "कुदिनदुतमवशेषं द्वादशभिर्गुरितं मासमशद्यम्‌ । द्वादशगुणतिथ्यंशर्युतं घनं भास्करे चंद्रः",
           "english": "The remainder of the Ahargana (total days elapsed in a Kalpa) multiplied by twelve gives the months; when added to the fractional part of the Tithi (lunar day) multiplied by twelve, the result is the total lunar months elapsed since the beginning of the Kalpa, which is then used to determine the position of Chandra relative to Surya.",
-          "hindi": "अहर्गण के शेष को बारह से गुणा करने पर मास प्राप्त होते हैं; इसमें तिथि के अंश को बारह से गुणा करके जोड़ने पर कल्प के आरम्भ से बीते हुए कुल चन्द्र मास प्राप्त होते हैं, जिससे सूर्य के सापेक्ष चन्द्र की स्थिति ज्ञात की जाती है।",
+          "hindi": "अहर्गण के शेष को बारह से गुणा करने पर मास प्राप्त होते हैं; इसमें तिथि के अंश को बारह से गुणा करके जोड़ने पर कल्प के आरम्भ से बीते हुए कुल चन्द्र मास प्राप्त होते हैं, जिससे सूर्य के सापेक्ष चन्द्र की स्थिति ज्ञात की जाती है।",
           "status": "translated"
         },
         {
           "number": 35,
           "text": "इष्ठगुणकारगुशितं ग्रहभगरक्यांतर यथा निहितम्‌ । कृत्वा कुदिनैविभजे छें्रो न युतानि कुदिनानि",
           "english": "Multiply the desired multiplier by the difference between the Bhaganas (revolutions) of the Grahas as prescribed. Divide this by the Kudinas (civil days); the quotient represents the elapsed civil days, while the remainder is discarded.",
-          "hindi": "इष्ट गुणकार को ग्रहों के भगणों के अंतर से गुणा करें, जैसा कि निर्दिष्ट है। इसे कुदिनों (सावन दिनों) से विभाजित करें; भागफल बीते हुए कुदिनों को दर्शाता है, और शेषफल को छोड़ दिया जाता है।",
+          "hindi": "इष्ट गुणकार को ग्रहों के भगणों के अंतर से गुणा करें, जैसा कि निर्दिष्ट है। इसे कुदिनों (सावन दिनों) से विभाजित करें; भागफल बीते हुए कुदिनों को दर्शाता है, और शेषफल को छोड़ दिया जाता है।",
           "status": "translated"
         },
         {
@@ -2937,7 +2937,7 @@
           "number": 8,
           "text": "कोटिज्यया डिगुणया गुणगंत्यफलज्यता युतोनाया मृगकवर्चादौ त्रिज्या तत्फलकृतियुते षदं कराः",
           "english": "The Kotijya (cosine) multiplied by two and then multiplied by the Antyaphala-jya (the sine of the maximum equation) is either added to or subtracted from the radius (Trijya) at the beginning of the signs (Rashi) starting from Makara or Karka; the square root of the sum of the squares of these results gives the Karna (hypotenuse).",
-          "hindi": "कोटिज्या को द्विगुणित करके अन्त्यफलज्या से गुणा करने पर, उसे मकर या कर्क आदि राशियों के आरम्भ में त्रिज्या में जोड़ने या घटाने पर, तथा इन परिणामों के वर्गों के योग का वर्गमूल लेने पर कर्ण प्राप्त होता है।",
+          "hindi": "कोटिज्या को द्विगुणित करके अन्त्यफलज्या से गुणा करने पर, उसे मकर या कर्क आदि राशियों के आरम्भ में त्रिज्या में जोड़ने या घटाने पर, तथा इन परिणामों के वर्गों के योग का वर्गमूल लेने पर कर्ण प्राप्त होता है।",
           "status": "translated"
         },
         {
@@ -2958,7 +2958,7 @@
           "number": 12,
           "text": "स्पष्टं पश्यति यस्मात्‌ मध्याद्धनाधिकं स्वकक्षायाम्‌ । तस्मात्तदन्तरफलमृरां धनं धने वा ग्रहे मध्ये",
           "english": "Since one observes the planet from the center of the Earth, and the planet moves in its own Kaksha (orbit) being sometimes ahead or behind the mean position, therefore the difference (Phala) is added or subtracted to the Madhyama-graha (mean planet) to obtain the Sphuta-graha (true planet).",
-          "hindi": "चूँकि पृथ्वी के केन्द्र से ग्रह को देखा जाता है और ग्रह अपनी कक्षा में कभी मध्यम स्थिति से आगे तो कभी पीछे चलता है, इसलिए मध्यम ग्रह में उस अन्तरफल को जोड़ने या घटाने पर स्फुटग्रह प्राप्त होता है।",
+          "hindi": "चूँकि पृथ्वी के केन्द्र से ग्रह को देखा जाता है और ग्रह अपनी कक्षा में कभी मध्यम स्थिति से आगे तो कभी पीछे चलता है, इसलिए मध्यम ग्रह में उस अन्तरफल को जोड़ने या घटाने पर स्फुटग्रह प्राप्त होता है।",
           "status": "translated"
         },
         {
@@ -3454,7 +3454,7 @@
           "number": 30,
           "text": "सेषादिष कर्कादिष विशोध्य भार्दा तुलादिषु सभारो । मकरादि संश्ोध्याइचक्ररवि भुक्ता लिप्ता वा",
           "english": "For signs starting from Mesha, subtract the values from the Karka-adi (signs starting from Karka); for Tula-adi, add them; for Makara-adi, subtract them from the Chakra (360 degrees or 21600 minutes) to obtain the Bhukta-Liptas (elapsed minutes of the sign).",
-          "hindi": "मेषादि राशियों के लिए कर्क आदि से घटाएं, तुला आदि के लिए उन्हें जोड़ें, और मकरादि के लिए चक्र (३६० अंश) से घटाकर भुक्त लिप्ताएं प्राप्त करें।",
+          "hindi": "मेषादि राशियों के लिए कर्क आदि से घटाएं, तुला आदि के लिए उन्हें जोड़ें, और मकरादि के लिए चक्र (३६० अंश) से घटाकर भुक्त लिप्ताएं प्राप्त करें।",
           "status": "translated"
         },
         {
@@ -3601,7 +3601,7 @@
           "number": 53,
           "text": "उक्रमजीवा चापं क्रमजीवाचापसहितमधिकं यत्‌ \\ दिनरात्र्यदधं प्राणाः पृथग्दिना चरदलप्राराः",
           "english": "The Utkramajya-chapa (arc of the versed sine) added to the Kramajya-chapa (arc of the sine) gives the total. The half of the day and night in Pranas (time units) are calculated separately, and the Chara-dala-pranas (ascensional difference in time units) are applied accordingly.",
-          "hindi": "उत्क्रमज्या-चाप को क्रमज्या-चाप में जोड़ने पर कुल मान प्राप्त होता है। दिन और रात्रि के अर्ध भाग को प्राणों में अलग-अलग गणना की जाती है, और चर-दल-प्राणों को तदनुसार प्रयुक्त किया जाता है।",
+          "hindi": "उत्क्रमज्या-चाप को क्रमज्या-चाप में जोड़ने पर कुल मान प्राप्त होता है। दिन और रात्रि के अर्ध भाग को प्राणों में अलग-अलग गणना की जाती है, और चर-दल-प्राणों को तदनुसार प्रयुक्त किया जाता है।",
           "status": "translated"
         },
         {
@@ -3929,21 +3929,21 @@
           "number": 39,
           "text": "विक्षेपाग्रेषु त्रीन्बिन्दून्‌ प्रग्रहरामध्यमोक्षेषु । कृत्वा तन्मन्यद्ठयमध्यगयोः सूत्रयोर्योगात्‌",
           "english": "Mark three points at the tips of the Vikshepa (celestial latitude) during the Pragraha (beginning), Madhya (middle), and Moksha (end) of the Grahana (eclipse), and draw lines connecting these points.",
-          "hindi": "ग्रहण के प्रारम्भ (प्रग्रह), मध्य और मोक्ष के समय विक्षेप के अग्रभागों पर तीन बिन्दु अंकित करें और उन बिन्दुओं के मध्य सूत्रों (रेखाओं) को जोड़ें।",
+          "hindi": "ग्रहण के प्रारम्भ (प्रग्रह), मध्य और मोक्ष के समय विक्षेप के अग्रभागों पर तीन बिन्दु अंकित करें और उन बिन्दुओं के मध्य सूत्रों (रेखाओं) को जोड़ें।",
           "status": "translated"
         },
         {
           "number": 40,
           "text": "'बिदु परिलेखरेखा ग्राहकमागंः प्रसाय सूत्रं ढ। झाय्यंताभ्यां मध्यममाछेद्य स्थुल एव वा",
           "english": "By extending the thread (line) through these points, one can trace the path of the Grahanaka (eclipsing body) and determine the middle of the eclipse or the extent of the obscuration, whether precisely or approximately.",
-          "hindi": "इन बिन्दुओं से सूत्र (रेखा) को आगे बढ़ाकर ग्राहक (ग्रहण करने वाले) के मार्ग को अंकित करें, जिससे ग्रहण के मध्य का या स्थूल रूप से ग्रहण के विस्तार का ज्ञान प्राप्त किया जा सके।",
+          "hindi": "इन बिन्दुओं से सूत्र (रेखा) को आगे बढ़ाकर ग्राहक (ग्रहण करने वाले) के मार्ग को अंकित करें, जिससे ग्रहण के मध्य का या स्थूल रूप से ग्रहण के विस्तार का ज्ञान प्राप्त किया जा सके।",
           "status": "translated"
         },
         {
           "number": 41,
           "text": "दु यांतरं स्थितिदलेन ह्ृतमिष्टनाडिकागुरितम्‌ \\ ग्राहचफलांगुलस्थंग्राहकमानेन परिलेखः",
           "english": "The difference in longitudes (Madhyantara) divided by half the duration of the eclipse (Sthitidala) and multiplied by the desired time in Nadikas (Ishtanadika), when divided by the standard measure of the Graha (Grahasphuta / Grahakamana), yields the measurement in angulas for the Parilekha (graphical representation of the eclipse).",
-          "hindi": "देशान्तर को स्थितिदल से भाग देकर इष्ट नाड़िका से गुणा किया जाए और ग्राह्य के मान (ग्राहकमानी) से भाग दिया जाए, तो परिलेख के लिए अंगुल प्रमाण प्राप्त होता है।",
+          "hindi": "देशान्तर को स्थितिदल से भाग देकर इष्ट नाड़िका से गुणा किया जाए और ग्राह्य के मान (ग्राहकमानी) से भाग दिया जाए, तो परिलेख के लिए अंगुल प्रमाण प्राप्त होता है।",
           "status": "translated"
         },
         {
@@ -3957,7 +3957,7 @@
           "number": 43,
           "text": "मध्यस्य दिनांत्य नवांतरं मिष्टघटिकाभिः। स्थित्यद्ध॑नाडिकाद्रतमृराधनमुनाधिके मध्ये",
           "english": "The difference between the central time and the end of the day (Madhyasya dinantya navantaram) by the desired ghatikas, multiplied by half the duration (Sthityardhanadika) and applied by addition or subtraction to the Madhya (central phase) as appropriate.",
-          "hindi": "मध्य के दिन के अंत और नवान्तर को इष्ट घटिकाओं से तथा स्थितिअर्द्ध नाड़िका से गुणा-धन-ऋण करके मध्य में अधिक (संस्कार) करना चाहिए।",
+          "hindi": "मध्य के दिन के अंत और नवान्तर को इष्ट घटिकाओं से तथा स्थितिअर्द्ध नाड़िका से गुणा-धन-ऋण करके मध्य में अधिक (संस्कार) करना चाहिए।",
           "status": "translated"
         },
         {
@@ -4228,7 +4228,7 @@
           "number": 31,
           "text": "ऋरामधिकाद्‌ विशोध्यं घनं घनाहृरमुशादधिकसूनात्‌ । व्यस्तं तदंतरं वा ऋणां धनं न मु भवति",
           "english": "A positive quantity is to be subtracted from a greater positive quantity, and a negative from a greater negative quantity. When subtracted inversely, the sign of their difference is reversed (positive becomes negative, and negative becomes positive).",
-          "hindi": "बड़े धन में से छोटे धन को घटाना चाहिए, और बड़े ऋण में से छोटे ऋण को घटाना चाहिए। इसके विपरीत घटाने पर उनके अन्तर का चिह्न उलट जाता है (अर्थात ऋण का धन और धन का ऋण हो जाता है)।",
+          "hindi": "बड़े धन में से छोटे धन को घटाना चाहिए, और बड़े ऋण में से छोटे ऋण को घटाना चाहिए। इसके विपरीत घटाने पर उनके अन्तर का चिह्न उलट जाता है (अर्थात ऋण का धन और धन का ऋण हो जाता है)।",
           "status": "translated"
         },
         {
@@ -4312,35 +4312,35 @@
           "number": 44,
           "text": "वर्गे चतुर्गुरितानां रूपाणां मध्यवरगं सहितानाम्‌ । मूलं मध्येनोनं द्विगुणित वर्गोद्वतं मध्यः",
           "english": "To find the middle quantity (Madhyama), take the square of the given quantity multiplied by four, add the Rupas (units), take the square root of this sum, subtract the middle quantity from it, and divide by twice the square of the middle quantity.",
-          "hindi": "मध्य संख्या ज्ञात करने के लिए, दी गई संख्या के वर्ग को चार से गुणा करें, उसमें रूप (इकाई) जोड़ें, इस योग का वर्गमूल निकालें, उसमें से मध्य संख्या को घटाएं और फिर उसे मध्य संख्या के वर्ग के दोगुने से विभाजित करें।",
+          "hindi": "मध्य संख्या ज्ञात करने के लिए, दी गई संख्या के वर्ग को चार से गुणा करें, उसमें रूप (इकाई) जोड़ें, इस योग का वर्गमूल निकालें, उसमें से मध्य संख्या को घटाएं और फिर उसे मध्य संख्या के वर्ग के दोगुने से विभाजित करें।",
           "status": "translated"
         },
         {
           "number": 45,
           "text": "वर्गाहतरूपाणामव्यक्ताद्धं क्रतिसंयुतानास्‌ । यत्पदमव्यत्तार्द्धोनं तद्वगंविभक्तमव्यक्तः",
           "english": "From the Avyakta (unknown quantity) multiplied by the square, add the Rupa (unit) and the product of the unknown quantity; the square root of this, when subtracted by half the unknown quantity and divided by the square of the unknown quantity, yields the value.",
-          "hindi": "अव्यक्त (अज्ञात राशि) के वर्ग से गुणा करने पर, उसमें रूप (इकाई) और अव्यक्त के गुणनफल को जोड़ें; इस योग का वर्गमूल, जिसमें से अव्यक्त का आधा घटाकर अव्यक्त के वर्ग से विभाजित करने पर अभीष्ट मान प्राप्त होता है।",
+          "hindi": "अव्यक्त (अज्ञात राशि) के वर्ग से गुणा करने पर, उसमें रूप (इकाई) और अव्यक्त के गुणनफल को जोड़ें; इस योग का वर्गमूल, जिसमें से अव्यक्त का आधा घटाकर अव्यक्त के वर्ग से विभाजित करने पर अभीष्ट मान प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 46,
           "text": "सकादंशक शेषाध्व्यादशमाइचतुर्गुरेष्ट युतः सैकां शेषतुल्यो यदा तदाहगरां कथयतः",
           "english": "When the remainder of the Ahargana divided by a divisor, multiplied by four and added to one, is equal to the remainder of the square, then calculate the Ahargana accordingly.",
-          "hindi": "जब अहर्गण को भाजक से विभाजित करने पर प्राप्त शेषफल को चार से गुणा करके उसमें एक जोड़ने पर, वह शेषफल के वर्ग के तुल्य हो, तब उस स्थिति में अहर्गण की गणना करें।",
+          "hindi": "जब अहर्गण को भाजक से विभाजित करने पर प्राप्त शेषफल को चार से गुणा करके उसमें एक जोड़ने पर, वह शेषफल के वर्ग के तुल्य हो, तब उस स्थिति में अहर्गण की गणना करें।",
           "status": "translated"
         },
         {
           "number": 47,
           "text": "घ्व्युनमधिमास झोषं हित्रिहूतं सप्ताधिकं दिसंगुशितम्‌ । श्रधिमास शेषतुल्यं यदा तदा युगतं कथयः",
           "english": "When the Adhimasa-shesha (intercalary month remainder) reduced by two, multiplied by three, and added to seven, is divided by ten and equals the Adhimasa-shesha, then determine the Yugagata (elapsed time of the Yuga).",
-          "hindi": "जब अधिमास-शेष में से दो घटाकर, उसे तीन से गुणा करने और सात जोड़ने पर, दस से विभाजित करने पर वह अधिमास-शेष के बराबर हो, तब युगगत (युग का व्यतीत काल) ज्ञात करें।",
+          "hindi": "जब अधिमास-शेष में से दो घटाकर, उसे तीन से गुणा करने और सात जोड़ने पर, दस से विभाजित करने पर वह अधिमास-शेष के बराबर हो, तब युगगत (युग का व्यतीत काल) ज्ञात करें।",
           "status": "translated"
         },
         {
           "number": 48,
           "text": "व्येकमवमास शोषं षडुघृतंतयुत मवमशषस्य । पंच विभक्तस्य समम् यदा तदा युगगतम् कथय",
           "english": "When the Avama-shesha (lunar day remainder) reduced by one, multiplied by six, and added to the Avama-shesha, is divided by five and equals the Avama-shesha, then determine the Yugagata.",
-          "hindi": "जब अवम-शेष में से एक घटाकर, उसे छह से गुणा करने और उसमें अवम-शेष जोड़ने पर, पाँच से विभाजित करने पर वह अवम-शेष के बराबर हो, तब युगगत ज्ञात करें।",
+          "hindi": "जब अवम-शेष में से एक घटाकर, उसे छह से गुणा करने और उसमें अवम-शेष जोड़ने पर, पाँच से विभाजित करने पर वह अवम-शेष के बराबर हो, तब युगगत ज्ञात करें।",
           "status": "translated"
         },
         {
@@ -4452,7 +4452,7 @@
           "number": 75,
           "text": "। झाझिलिप्ता शेषकृतिद्विनवति गरिता अशिति गुणितं वा । सेकाज्ञ दिने व कू्वन्नावइपरादू गणकः",
           "english": "The square of the remainder of the Bhagana (planetary revolutions), multiplied by ninety-two, or multiplied by eighty and increased by one, the calculator should perform the operation to find the Ahargana (number of elapsed days).",
-          "hindi": "भगण-शेष के वर्ग को बानवे (९२) से गुणा करें, अथवा अस्सी (८०) से गुणा कर उसमें एक जोड़ें, इस प्रकार गणक को अहर्गण प्राप्त करने की प्रक्रिया करनी चाहिए।",
+          "hindi": "भगण-शेष के वर्ग को बानवे (९२) से गुणा करें, अथवा अस्सी (८०) से गुणा कर उसमें एक जोड़ें, इस प्रकार गणक को अहर्गण प्राप्त करने की प्रक्रिया करनी चाहिए।",
           "status": "translated"
         },
         {
@@ -4487,7 +4487,7 @@
           "number": 82,
           "text": "्रवमावशेषवर्गं द्वादशगुरितं शतेन संयुक्तस्‌। त्रिभिरूनं वा वर्ग कुवन्नावत्सराद्‌ गणकः",
           "english": "Multiplying the remainder of the avama (lunar-solar day difference) by twelve, adding one hundred, and subtracting three, or performing the operation of squaring, the calculator should determine the years without delay.",
-          "hindi": "अवम (चान्द्र और सावन दिनों के अन्तर) के शेष को बारह से गुणा कर, एक सौ जोड़कर, तथा तीन घटाकर, अथवा वर्ग की क्रिया करके, गणक (ज्योतिषी) को अवत्सरात् (शीघ्र ही) वर्षों की गणना करनी चाहिए।",
+          "hindi": "अवम (चान्द्र और सावन दिनों के अन्तर) के शेष को बारह से गुणा कर, एक सौ जोड़कर, तथा तीन घटाकर, अथवा वर्ग की क्रिया करके, गणक (ज्योतिषी) को अवत्सरात् (शीघ्र ही) वर्षों की गणना करनी चाहिए।",
           "status": "translated"
         },
         {
@@ -4522,7 +4522,7 @@
           "number": 96,
           "text": "भागकलाविकलंक्यं दृष्ट्वा विकलांतंर न के शेषैः । ऐक्यं द्विषांतराघधिकहीनं द्रिविभाजितं रोषस ॥",
           "english": "Having observed the difference in Vikala (seconds) of the Bhagana (revolutions) and Kala (minutes), and having discarded the remainder, the sum of the two, when increased or decreased by the difference and divided by two, yields the desired values.",
-          "hindi": "भगणों की कला और विकला के अंतर को देखकर, शेष को छोड़कर, उन दोनों के योग को अंतर से अधिक या कम करके दो से विभाजित करने पर अभीष्ट मान प्राप्त होते हैं।",
+          "hindi": "भगणों की कला और विकला के अंतर को देखकर, शेष को छोड़कर, उन दोनों के योग को अंतर से अधिक या कम करके दो से विभाजित करने पर अभीष्ट मान प्राप्त होते हैं।",
           "status": "translated"
         },
         {
@@ -4543,7 +4543,7 @@
           "number": 99,
           "text": "झेषवघाद्वितऋति गुणा छेषांतरवर्गसंयृतान्मुले । झेषांतरीनयक्त दलितं शेषे प्रथगभिष्टे",
           "english": "The product of the remainders multiplied by the square of the divisor, added to the square of the difference of the remainders, and taking the square root, then adding and subtracting the difference of the remainders and halving, yields the desired separate values.",
-          "hindi": "शेषफलों के गुणनफल को भाजक के वर्ग से गुणा करके, शेषफलों के अंतर के वर्ग में जोड़ने पर, उसका वर्गमूल निकालकर, उसमें शेषफलों के अंतर को जोड़कर और घटाकर आधा करने पर अभीष्ट पृथक मान प्राप्त होते हैं।",
+          "hindi": "शेषफलों के गुणनफल को भाजक के वर्ग से गुणा करके, शेषफलों के अंतर के वर्ग में जोड़ने पर, उसका वर्गमूल निकालकर, उसमें शेषफलों के अंतर को जोड़कर और घटाकर आधा करने पर अभीष्ट पृथक मान प्राप्त होते हैं।",
           "status": "translated"
         },
         {
@@ -4668,7 +4668,7 @@
           "number": 17,
           "text": "दष्टि गृहोच्येवच हृतातदन्तरधरादगोच्य गरिता । फलभुन्यस्ते तोये प्रतिल्पाग्र गृहस्य नरात्‌",
           "english": "The height of the object multiplied by the distance and divided by the difference of the shadow and the object's height, when added to the distance, gives the height of the house from the observer.",
-          "hindi": "वस्तु की ऊँचाई को दूरी से गुणा करके, छाया और वस्तु की ऊँचाई के अंतर से भाग देने पर, और उसे पुनः दूरी में जोड़ने पर, प्रेक्षक से गृह की ऊँचाई प्राप्त होती है।",
+          "hindi": "वस्तु की ऊँचाई को दूरी से गुणा करके, छाया और वस्तु की ऊँचाई के अंतर से भाग देने पर, और उसे पुनः दूरी में जोड़ने पर, प्रेक्षक से गृह की ऊँचाई प्राप्त होती है।",
           "status": "translated"
         },
         {
@@ -4772,21 +4772,21 @@
           "number": 13,
           "text": "नष्टांत्पास्वाधस्थो न कल्प घातो श्रद्धं तुल्य विषमाणाम्‌ । व्येकः पृथक्स्ववर्गोद्धृतः फलं तुल्य कल्पानाम्‌",
           "english": "To find the lost (unknown) quantity, multiply the given (result) by the Kalpa (divisor) and divide by the multiplier. If the result is odd, add the Kalpa and divide by two. If the result is even, divide by two. Repeat this process by subtracting the square of the result from the original quantity until the final value is obtained.",
-          "hindi": "नष्ट (अज्ञात) संख्या को ज्ञात करने के लिए, प्राप्त फल को कल्प (भाजक) से गुणा करें और गुणक से भाग दें। यदि परिणाम विषम हो, तो उसमें कल्प जोड़कर दो से भाग दें। यदि परिणाम सम हो, तो उसे दो से भाग दें। इस प्रक्रिया को तब तक दोहराएं जब तक कि शेषफल के वर्ग को घटाने पर अभीष्ट संख्या प्राप्त न हो जाए।",
+          "hindi": "नष्ट (अज्ञात) संख्या को ज्ञात करने के लिए, प्राप्त फल को कल्प (भाजक) से गुणा करें और गुणक से भाग दें। यदि परिणाम विषम हो, तो उसमें कल्प जोड़कर दो से भाग दें। यदि परिणाम सम हो, तो उसे दो से भाग दें। इस प्रक्रिया को तब तक दोहराएं जब तक कि शेषफल के वर्ग को घटाने पर अभीष्ट संख्या प्राप्त न हो जाए।",
           "status": "translated"
         },
         {
           "number": 14,
           "text": "उदिष्टे कल्प कृतो तीते प्रथम फलस्वर्पेन्यः । सकृद्वर्गांश युते सेके वाद्धं सम विषमाणाम्‌",
           "english": "When the Kalpa is specified, the first result is obtained by the previous method. By adding the square of the part and dividing by the specified divisor, one obtains the result for both even and odd quantities.",
-          "hindi": "जब कल्प निर्दिष्ट हो, तो प्रथम फल पूर्वोक्त विधि से प्राप्त किया जाता है। वर्ग के अंश को जोड़कर और निर्दिष्ट भाजक से भाग देने पर, सम और विषम दोनों प्रकार की संख्याओं के लिए अभीष्ट फल प्राप्त होता है।",
+          "hindi": "जब कल्प निर्दिष्ट हो, तो प्रथम फल पूर्वोक्त विधि से प्राप्त किया जाता है। वर्ग के अंश को जोड़कर और निर्दिष्ट भाजक से भाग देने पर, सम और विषम दोनों प्रकार की संख्याओं के लिए अभीष्ट फल प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": 15,
           "text": "ध्व्यापाः कोएक वृद्धया लघु संख्येकादि भाजिताः प्राग्वत्‌ । विषमे ज्याघल यूनो लघुनो लघुभिमेलः समादीनास्‌",
           "english": "Divide the quantities by the smaller number, increasing by one, as done previously. In the case of an odd number, subtract the Jya (sine-like chord) and for the smaller number, add the smaller values to the even quantities.",
-          "hindi": "संख्याओं को छोटी संख्या से विभाजित करें, जिसमें एक-एक की वृद्धि करते हुए पूर्ववत प्रक्रिया अपनाएं। विषम संख्या होने पर ज्या (ज्या-सदृश मान) को घटाएं और छोटी संख्या के लिए, सम संख्याओं में लघु मानों को जोड़ें।",
+          "hindi": "संख्याओं को छोटी संख्या से विभाजित करें, जिसमें एक-एक की वृद्धि करते हुए पूर्ववत प्रक्रिया अपनाएं। विषम संख्या होने पर ज्या (ज्या-सदृश मान) को घटाएं और छोटी संख्या के लिए, सम संख्याओं में लघु मानों को जोड़ें।",
           "status": "translated"
         },
         {

@@ -297,3 +297,32 @@ def test_every_text_level_status_equals_its_derivation() -> None:
     # Absence must be attributable: zero files carrying the key is a finding, not a pass.
     assert carrying, "no corpus file carries a text-level status -- corpus missing, or key gone"
     assert not wrong, "\n".join(wrong)
+
+
+def test_the_corpus_is_nfc() -> None:
+    """T5, 2026-09-17: the corpus is NFC-normalised, Sanskrit included (Rupali overrode "keep the
+    Sanskrit bytes"). Before that pass 31 texts were not: the Sanskrit of 4 (35 verses) and the
+    Hindi of 27 more, written by a translation run. NFC changes code points, not rendered text,
+    so nothing but this test would notice a new non-NFC file. Raw bytes, not parsed values: JSON
+    escapes could hide a decomposed sequence from a parsed comparison."""
+    import unicodedata
+
+    from sanskrit_texts.exclusions import EXCLUDED_TEXTS
+
+    checked, bad = 0, []
+    for path in sorted(REPO.rglob("*.json")):
+        rel = path.relative_to(REPO)
+        if rel.parts[0] == "docs" or any(p.startswith(".") for p in rel.parts):
+            continue
+        raw = path.read_text(encoding="utf-8")
+        try:
+            doc = json.loads(raw)
+        except json.JSONDecodeError:
+            continue
+        if "chapters" not in doc or doc.get("text_id") in EXCLUDED_TEXTS:
+            continue
+        checked += 1
+        if unicodedata.normalize("NFC", raw) != raw:
+            bad.append(str(rel))
+    assert checked, "no corpus text found -- absent, not a pass"
+    assert not bad, f"not NFC: {bad}"
