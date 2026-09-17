@@ -92,17 +92,18 @@ def test_a_named_human_CAN_approve_and_the_revision_records_them(owner_engine, c
     with owner_engine.begin() as conn:
         _seed(conn)
         moved = promote(conn, text_id="promo", to_state="approved", author="Vipin Kaushik",
-                        note="accepted unchanged after reading")
+                        note="accepted unchanged after reading", confidence="certain")
         assert moved == 2
         states = conn.execute(sa.text("SELECT DISTINCT state FROM annotation")).scalars().all()
         assert states == ["approved"]
         rev = conn.execute(sa.text(
-            "SELECT author, method, state, note FROM annotation_revision"
+            "SELECT author, method, state, note, confidence FROM annotation_revision"
             " WHERE state = 'approved'")).mappings().all()
         assert len(rev) == 2
         assert {r["author"] for r in rev} == {"Vipin Kaushik"}
         assert {r["method"] for r in rev} == {"human"}
         assert {r["note"] for r in rev} == {"accepted unchanged after reading"}
+        assert {r["confidence"] for r in rev} == {"certain"}
 
 
 def test_approving_TWO_candidates_for_one_verse_is_refused(owner_engine, clean_corpus):
@@ -120,7 +121,8 @@ def test_approving_TWO_candidates_for_one_verse_is_refused(owner_engine, clean_c
             " VALUES (99, 1, 'translation', 'en', 'a better translation', 'draft',"
             " 'english_draft')"))
         with pytest.raises(PromotionRefused, match="more than one approved value"):
-            promote(conn, text_id="promo", to_state="approved", author="Vipin")
+            promote(conn, text_id="promo", to_state="approved", author="Vipin",
+                    confidence="certain")
 
 
 def test_a_later_approval_supersedes_the_earlier_one(owner_engine, clean_corpus):
@@ -131,13 +133,13 @@ def test_a_later_approval_supersedes_the_earlier_one(owner_engine, clean_corpus)
     """
     with owner_engine.begin() as conn:
         _seed(conn, n=1)
-        promote(conn, text_id="promo", to_state="approved", author="Vipin")
+        promote(conn, text_id="promo", to_state="approved", author="Vipin", confidence="certain")
         conn.execute(sa.text(
             "INSERT INTO annotation (id, verse_id, kind, lang, value, state, source_field)"
             " VALUES (99, 1, 'translation', 'en', 'a better translation', 'draft',"
             " 'english_draft')"))
         promote(conn, text_id="promo", to_state="approved", author="Vipin", kind="translation",
-                lang="en")
+                lang="en", confidence="certain")
         rows = dict(conn.execute(sa.text(
             "SELECT id, state FROM annotation ORDER BY id")).all())
         assert rows == {1: "superseded", 99: "approved"}, rows

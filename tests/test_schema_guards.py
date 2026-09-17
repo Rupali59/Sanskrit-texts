@@ -184,8 +184,9 @@ def test_a_revision_CAN_still_be_appended(owner_engine, clean_corpus):
         aid, _rid = _seed_revision(conn)
         conn.execute(
             sa.text(
-                "INSERT INTO annotation_revision (annotation_id, value, state, method, author)"
-                " VALUES (:a, 'approved text', 'approved', 'human', 'Vipin')"
+                "INSERT INTO annotation_revision"
+                " (annotation_id, value, state, method, author, confidence)"
+                " VALUES (:a, 'approved text', 'approved', 'human', 'Vipin', 'certain')"
             ),
             {"a": aid},
         )

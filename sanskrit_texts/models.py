@@ -32,6 +32,7 @@ from __future__ import annotations
 import datetime as _dt
 
 from sqlalchemy import (
+    ARRAY,
     BigInteger,
     Boolean,
     CheckConstraint,
@@ -73,6 +74,16 @@ ANNOTATION_METHODS = ("human", "machine", "matcher")
 # T7/D10: the directory middle level, as a FACET TABLE rather than two columns (Rupali's
 # override). 52 of 66 texts carry exactly one; a future axis costs a row, not a migration.
 FACET_KINDS = ("school", "shakha", "discipline", "recension", "veda")
+# T6/2026-09-17, Phase A (translations + tags). HUMAN confidence, recorded on the revision at
+# approval. G55: a machine CHECK can prove a value WRONG, never that it is right -- positive
+# confidence comes only from a named human, which is why this lives on `annotation_revision`
+# (append-only, human-authored) and never on `annotation_check` (machine, recomputable).
+ANNOTATION_CONFIDENCES = ("certain", "probable", "tentative")
+# The MACHINE layer's vocabulary. NEVER "high", NEVER "verified" -- see ANNOTATION_CONFIDENCES
+# and G55. `unchecked` is legal only for the CHECK constraint's completeness;
+# `sanskrit_texts/checks.py` never emits it -- a row simply absent from `annotation_check` IS
+# "never checked", which is a stronger and more honest signal than a stored placeholder value.
+CHECK_LEVELS = ("fails", "suspect", "no-defect-found", "unchecked")
 
 
 def _in_list(column: str, values: tuple[str, ...]) -> str:
@@ -310,6 +321,13 @@ class Annotation(Base):
     revisions: Mapped[list[AnnotationRevision]] = relationship(
         back_populates="annotation", cascade="all, delete-orphan"
     )
+    # T6/2026-09-17. One row, replaced wholesale on recompute -- see AnnotationCheck. CASCADE
+    # here is deliberate and is the opposite call from `revisions` below: a check is
+    # recomputable state about this annotation, never provenance, so deleting the annotation
+    # may take its check with it without losing anything G60 exists to protect.
+    check: Mapped[AnnotationCheck | None] = relationship(
+        back_populates="annotation", cascade="all, delete-orphan", uselist=False
+    )
 
     __table_args__ = (
         CheckConstraint(_in_list("kind", ANNOTATION_KINDS), name="ck_annotation_kind"),
@@ -365,12 +383,69 @@ class AnnotationRevision(Base):
         ForeignKey("annotation_revision.id", ondelete="SET NULL")
     )
     note: Mapped[str | None] = mapped_column(Text)
+    # T6/2026-09-17. The HUMAN confidence layer. NULL everywhere except `approved` --
+    # `ck_revision_approved_has_confidence` below makes that a database fact rather than a
+    # promise `promote.py`'s argparse enforces alone (rule:safety-flag-needs-a-test). This is
+    # the whole reason confidence lives HERE and not on `annotation_check`: a machine check can
+    # prove a value wrong, never that it is right (G55), so positive confidence can only ever
+    # come from the named human this table already exists to record.
+    confidence: Mapped[str | None] = mapped_column(Text)
+    # Why a human approved something an automated check flagged `fails`. Required by
+    # `promote.py` in that one case; not a DB CHECK here, because "was this checked `fails`" is
+    # a fact in `annotation_check`, a different table this constraint cannot see.
+    override_reason: Mapped[str | None] = mapped_column(Text)
 
     annotation: Mapped[Annotation] = relationship(back_populates="revisions")
 
     __table_args__ = (
         CheckConstraint(_in_list("method", ANNOTATION_METHODS), name="ck_revision_method"),
         CheckConstraint(_in_list("state", ANNOTATION_STATES), name="ck_revision_state"),
+        # NULL IN (...) is NULL, not FALSE, so this permits confidence to be absent everywhere
+        # except where the next constraint requires it.
+        CheckConstraint(_in_list("confidence", ANNOTATION_CONFIDENCES), name="ck_revision_confidence"),
+        CheckConstraint(
+            "state <> 'approved' OR confidence IS NOT NULL",
+            name="ck_revision_approved_has_confidence",
+        ),
         Index("ix_revision_annotation_id", "annotation_id"),
         Index("ix_revision_annotation_created", "annotation_id", "created_at"),
+    )
+
+
+class AnnotationCheck(Base):
+    """The MACHINE layer, T6/2026-09-17 Phase A (translations + tags).
+
+    ONE row per annotation -- the primary key IS `annotation_id`, not a surrogate -- because a
+    check is recomputable state, never history. Recomputing REPLACES this row; the previous
+    result is gone, which is correct: `annotation_revision` is where history that must survive
+    lives, and this is deliberately not that table (contrast its RESTRICT FK, G60, with this
+    one's CASCADE).
+
+    G55 is why `level` can never assert a value is right: every signal `sanskrit_texts/checks.py`
+    computes measures presence and shape, never correctness, so the best outcome is
+    `no-defect-found` -- a measured absence of a known defect shape, not a verdict. See
+    `ANNOTATION_CONFIDENCES` for the layer that CAN say something is trustworthy, and why it can
+    only ever be set by a named human.
+
+    THE INVARIANT THIS TABLE MUST NEVER BREAK: nothing that writes here may also touch
+    `annotation.state`, and no column here is read by `published_verse`'s join predicate --
+    only exposed alongside it, for a consumer to label. See `tests/test_confidence.py`.
+    """
+
+    __tablename__ = "annotation_check"
+
+    annotation_id: Mapped[int] = mapped_column(
+        ForeignKey("annotation.id", ondelete="CASCADE"), primary_key=True
+    )
+    level: Mapped[str] = mapped_column(Text)
+    reasons: Mapped[list[str]] = mapped_column(ARRAY(Text), server_default=_sql("'{}'::text[]"))
+    checker_version: Mapped[str] = mapped_column(Text)
+    checked_at: Mapped[_dt.datetime] = mapped_column(
+        DateTime(timezone=True), server_default=_sql("now()")
+    )
+
+    annotation: Mapped[Annotation] = relationship(back_populates="check")
+
+    __table_args__ = (
+        CheckConstraint(_in_list("level", CHECK_LEVELS), name="ck_annotation_check_level"),
     )

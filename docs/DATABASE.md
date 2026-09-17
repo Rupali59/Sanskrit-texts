@@ -97,13 +97,13 @@ view**, not filtered out of it.
 
 ```sh
 python -m sanskrit_texts.promote --to approved --text bphs --author "Vipin Kaushik" \
-    --kind translation --lang en --dry-run
+    --kind translation --lang en --confidence certain --dry-run
 ```
 
-`approved` **requires `--author`** and `--method human`; a matcher may propose, never approve.
-Every promotion writes an `annotation_revision` naming the human and the method, and that
-table is append-only in the database — a `BEFORE UPDATE OR DELETE` trigger raises — so the
-record cannot be tidied away.
+`approved` **requires `--author`**, `--method human` and, since T6, `--confidence`; a matcher
+may propose, never approve. Every promotion writes an `annotation_revision` naming the human
+and the method, and that table is append-only in the database — a `BEFORE UPDATE OR DELETE`
+trigger raises — so the record cannot be tidied away.
 
 **This path exists deliberately, rather than forbidding bulk promotion.** Withholding
 already-curated content with no sanctioned route to publish it is what creates the pressure
@@ -113,6 +113,35 @@ use. An audited bulk path is the defense.
 Approving a verse that holds two candidates (a served value and its draft) is **refused, not
 resolved** — the partial unique index permits one approved value per `(verse, kind, lang)`,
 and choosing between them is a review decision, not something a flag should make.
+
+## Confidence markers (T6, Phase A: translations and tags)
+
+Two layers, deliberately different tables, deliberately unable to influence each other
+automatically.
+
+**The machine layer — `annotation_check`, written by `python -m sanskrit_texts.checks`.**
+`checks.py` computes a deterministic `(level, reasons)` per annotation from measured shape,
+never meaning: `template-prefix`, `sanskrit-echo`, `wrong-script`, `too-short`, `not-nfc` for
+translations; `malformed-tag`, `unknown-namespace`, `duplicate-tag` for tags. `level` is one of
+`fails` / `suspect` / `no-defect-found` / `unchecked` — **never `high`, never `verified`**. A
+Devanagari ratio or an NFC check can prove a value is wrong; nothing here can prove one is
+right, so the best a check ever reports is the absence of a known defect shape. Recomputing
+replaces the row in place (the primary key is `annotation_id`, not a surrogate) — a check is
+recomputable state, never provenance.
+
+**The human layer — `annotation_revision.confidence`, written only by `promote.py`.**
+`certain` / `probable` / `tentative`, required whenever `--to approved`:
+`ck_revision_approved_has_confidence` makes that a database fact, not only an argparse one. If
+any matched annotation's check reads `fails`, approving it additionally requires
+`--override-reason`, recorded on the same revision — a human looked anyway and is naming why.
+Unchecked annotations (no row in `annotation_check` at all) are allowed to be approved; the CLI
+prints how many.
+
+**The invariant, and it is the one that must never break:** nothing a check writes can change
+`annotation.state` or reach a published view as a substitute for approval. `annotation_check`
+has no path to `state`, and `published_verse` only ever exposes `confidence` and `check_level`
+*alongside* an already-approved row — never in place of one. See
+`tests/test_confidence.py::test_a_check_can_never_change_state_or_reach_a_published_view`.
 
 ## Export
 
