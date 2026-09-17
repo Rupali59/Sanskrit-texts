@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 70 texts · 969 chapters · 100,386 shlokas · 15 categories** — derived 2026-09-16 by `scripts/check_inventory.py`; the one-liner above is the check.
+**Totals: 70 texts · 969 chapters · 100,628 shlokas · 15 categories** — derived 2026-09-17 by `scripts/check_inventory.py`, after the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -179,11 +179,11 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,443 | 0% | uncitable |
+| `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,619 | 0% | uncitable |
 | `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 0% | uncitable |
 | `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 0% | uncitable |
-| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,643 | 0% | uncitable |
-| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,296 | 0% | uncitable |
+| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 0% | uncitable |
+| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,347 | 0% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 100% | uncitable |
 | `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
 | `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
@@ -209,7 +209,7 @@ see [`SOURCES.md`](./SOURCES.md) §"Vedāṅga / Upaveda".
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,684 | 0% | range |
+| `manu_smriti` | [`Dharmashastra/ManuSmriti`](../Dharmashastra/ManuSmriti) | 12 | 2,688 | 0% | range |
 | `narada_smriti` | [`Dharmashastra/NaradaSmriti`](../Dharmashastra/NaradaSmriti) | 3 | 931 | 100% | uncitable |
 | `apastamba_dharma_sutra` | [`Dharmashastra/ApastambaDharmaSutra`](../Dharmashastra/ApastambaDharmaSutra) | 2 | 1,315 | 100% | range |
 | `dharmasindhu` | [`Dharmashastra/Dharmasindhu`](../Dharmashastra/Dharmasindhu) | 3 | 89 | 100% | ocr_only — only shlokas with ≥30% Devanagari and a ॥N॥ verse marker accepted from the 34.6%-quality OCR scan. Full re-digitisation needs a cleaner source. |

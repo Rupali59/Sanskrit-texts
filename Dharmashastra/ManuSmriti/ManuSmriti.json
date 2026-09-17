@@ -12,9 +12,9 @@
     "shloka_number_format": "verse",
     "citation_prefix": "manu_smriti",
     "expected_chapters": 12,
-    "expected_verses": 2684,
+    "expected_verses": 2688,
     "count_authority": "range",
-    "count_authority_reason": "within published range 2680-2700",
+    "count_authority_reason": "within published range 2680-2700 | 2026-09-17: SARIT converter G64 fix (label collisions/mislabelling) split 4 hidden edition units out to their own labels; see propagation/state/sanskrit-texts/GOTCHAS.md G64.",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
     "known_gaps": []
   },
@@ -10214,6 +10214,38 @@
       "title": "",
       "shlokas": [
         {
+          "number": "M87",
+          "ref": "manu_smriti 7.M87",
+          "text": "देश.कालविधानेन द्रव्यं श्रद्धासमन्वितम् । पात्रे प्रदीयते यत् तु तद् धर्मस्य प्रसाधनम् ॥ ८७ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "M207",
+          "ref": "manu_smriti 7.M207",
+          "text": "दैवेन विधिना युक्तं मानुष्यं यत् प्रवर्तते । परिक्लेशेन महता तदर्थस्य समाधकम् ॥ २०७ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "M208",
+          "ref": "manu_smriti 7.M208",
+          "text": "संयुक्तस्य-अपि दैवेन पुरुषकारेण वर्जितम् । विना पुरुषकारेण फलं क्षेत्रं प्रयच्छति ॥ २०८ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": "M209",
+          "ref": "manu_smriti 7.M209",
+          "text": "चन्द्रार्क.आद्या ग्रहा वायुर् अग्निर् आपस् तथा-एव च । इह दैवेन साध्यन्ते पौरुषेण प्रयत्नतः ॥ २०९ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
           "number": 1,
           "ref": "manu_smriti 7.1",
           "text": "राजधर्मान् प्रवक्ष्यामि यथावृत्तो भवेन् नृपः । सम्भवश् च यथा तस्य सिद्धिश् च परमा यथा ॥ १ ॥",
@@ -10904,7 +10936,7 @@
         {
           "number": 87,
           "ref": "manu_smriti 7.87",
-          "text": "देश.कालविधानेन द्रव्यं श्रद्धासमन्वितम् । पात्रे प्रदीयते यत् तु तद् धर्मस्य प्रसाधनम् ॥ ८७ ॥ सम.उत्तम.अधमै राजा त्व् आहूतः पालयन् प्रजाः । न निवर्तेत सङ्ग्रामात् क्षात्रं धर्मम् अनुस्मरन् ॥ ८७ ॥",
+          "text": "सम.उत्तम.अधमै राजा त्व् आहूतः पालयन् प्रजाः । न निवर्तेत सङ्ग्रामात् क्षात्रं धर्मम् अनुस्मरन् ॥ ८७ ॥",
           "english": "A gift made with faith, in accordance with the place and time, and given to a worthy recipient, is the means of attaining righteousness. A king, protecting his subjects, should not retreat from battle, remembering the duty of a Kshatriya.",
           "hindi": "जो दान श्रद्धा से, देश और काल के अनुसार, योग्य पात्र को दिया जाता है, वह धर्म की प्राप्ति का साधन है। राजा, प्रजा की रक्षा करते हुए, क्षत्रिय धर्म को स्मरण करते हुए, युद्ध से पीछे नहीं हटना चाहिए।",
           "status": "untranslated"
@@ -11864,7 +11896,7 @@
         {
           "number": 207,
           "ref": "manu_smriti 7.207",
-          "text": "दैवेन विधिना युक्तं मानुष्यं यत् प्रवर्तते । परिक्लेशेन महता तदर्थस्य समाधकम् ॥ २०७ ॥ पार्ष्णिग्राहं च सम्प्रेक्ष्य तथाक्रन्दं च मण्डले । मित्राद् अथ-अप्य् अमित्राद् वा यात्राफलम् अवाप्नुयात् ॥ २०७ ॥",
+          "text": "पार्ष्णिग्राहं च सम्प्रेक्ष्य तथाक्रन्दं च मण्डले । मित्राद् अथ-अप्य् अमित्राद् वा यात्राफलम् अवाप्नुयात् ॥ २०७ ॥",
           "english": "What is undertaken by human effort, aided by divine ordinance, achieves the desired result with great effort.",
           "hindi": "जो मानवीय प्रयास द्वारा, दैवीय विधान की सहायता से किया जाता है, वह महान प्रयास से इच्छित परिणाम प्राप्त करता है।",
           "status": "untranslated"
@@ -11872,7 +11904,7 @@
         {
           "number": 208,
           "ref": "manu_smriti 7.208",
-          "text": "संयुक्तस्य-अपि दैवेन पुरुषकारेण वर्जितम् । विना पुरुषकारेण फलं क्षेत्रं प्रयच्छति ॥ २०८ ॥ हिरण्य.भूमिसम्प्राप्त्या पार्थिवो न तथ-एधते । यथा मित्रं ध्रुवं लब्ध्वा कृशम् अप्य् आयतिक्षमम् ॥ २०८ ॥",
+          "text": "हिरण्य.भूमिसम्प्राप्त्या पार्थिवो न तथ-एधते । यथा मित्रं ध्रुवं लब्ध्वा कृशम् अप्य् आयतिक्षमम् ॥ २०८ ॥",
           "english": "Even when aided by divine ordinance, without human effort, the field does not yield fruit.",
           "hindi": "दैवीय विधान की सहायता से भी, बिना मानवीय प्रयास के, क्षेत्र फल नहीं देता।",
           "status": "untranslated"
@@ -11880,7 +11912,7 @@
         {
           "number": 209,
           "ref": "manu_smriti 7.209",
-          "text": "चन्द्रार्क.आद्या ग्रहा वायुर् अग्निर् आपस् तथा-एव च । इह दैवेन साध्यन्ते पौरुषेण प्रयत्नतः ॥ २०९ ॥ धर्मज्ञं च कृतज्ञं च तुष्टप्रकृतिम् एव च । अनुरक्तं स्थिरारम्भं लघुमित्रं प्रशस्यते ॥ २०९ ॥",
+          "text": "धर्मज्ञं च कृतज्ञं च तुष्टप्रकृतिम् एव च । अनुरक्तं स्थिरारम्भं लघुमित्रं प्रशस्यते ॥ २०९ ॥",
           "english": "The planets like the moon and sun, wind, fire, and water are accomplished by divine means, but through human effort.",
           "hindi": "चंद्रमा और सूर्य जैसे ग्रह, वायु, अग्नि और जल दैवीय साधनों से सिद्ध होते हैं, लेकिन मानवीय प्रयास के माध्यम से।",
           "status": "untranslated"

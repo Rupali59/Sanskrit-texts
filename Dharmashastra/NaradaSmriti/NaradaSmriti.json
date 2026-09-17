@@ -7,11 +7,10 @@
     "levels": [
       "chapter",
       "level2",
-      "level3",
       "verse"
     ],
     "chapter_level": "chapter",
-    "shloka_number_format": "level2.level3.verse",
+    "shloka_number_format": "level2.verse",
     "citation_prefix": "narada_smriti",
     "expected_chapters": 3,
     "expected_verses": 931,
@@ -23,7 +22,7 @@
   "chapters": [
     {
       "number": 1,
-      "title": "",
+      "title": "Mātṛkā",
       "shlokas": [
         {
           "number": "1.1",
@@ -1047,7 +1046,7 @@
     },
     {
       "number": 2,
-      "title": "",
+      "title": "Vyavahārapadāni",
       "shlokas": [
         {
           "number": "1.1",
@@ -6567,7 +6566,7 @@
     },
     {
       "number": 3,
-      "title": "",
+      "title": "Pariśiṣṭam",
       "shlokas": [
         {
           "number": "19.1",
@@ -7183,328 +7182,328 @@
           "status": "translated"
         },
         {
-          "number": "20.1.8",
-          "ref": "narada_smriti 3.20.1.8",
+          "number": "20.8",
+          "ref": "narada_smriti 3.20.8",
           "text": "चतुर्हस्तौ तुलापादाव् उच्छ्रयेण प्रकीर्तितौ । षड्ढस्तं तु तयोर् दृष्टं प्रमाणं परिमाणतः ॥ ८ ॥",
           "english": "The post of the balance (Tula) is declared to be 4 cubits in height; its beam length is seen to be 6 cubits by standard measurement.",
           "hindi": "तुला (तराजू) के खंभे की ऊँचाई ४ हाथ बताई गई है; और उसकी मुख्य बीम (तराजू की दंडी) का परिमाण ६ हाथ निर्धारित है।",
           "status": "translated"
         },
         {
-          "number": "20.1.9",
-          "ref": "narada_smriti 3.20.1.9",
+          "number": "20.9",
+          "ref": "narada_smriti 3.20.9",
           "text": "पादयोर् अन्तरं हस्तं भवेद् अध्यर्धम् एव च । शिक्यद्वयं समासज्य धटे कर्कटके दृढे ॥ ९ ॥",
           "english": "The distance between the two posts should be 1.5 cubits; two scale pans should be suspended from a strong iron hook attached to the balance.",
           "hindi": "दोनों खंभों के बीच की दूरी १.५ हाथ होनी चाहिए; तराजू के मजबूत लोहे के कुंडे (कर्कटक) से दो पलड़े (शिक्य) लटकाए जाने चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.1.10",
-          "ref": "narada_smriti 3.20.1.10",
+          "number": "20.10",
+          "ref": "narada_smriti 3.20.10",
           "text": "तुलयित्वा नरं पूर्वं चिह्नं कुर्याद् धटस्य तु । कक्षास्थानेन तं तुल्यम् अवतार्य ततो धटात् ॥ १० ॥",
           "english": "First, the man should be weighed against an equal weight (earth/stones) and a mark made on the balance at equal level; then he steps off the balance.",
           "hindi": "पहले मनुष्य को बराबर भार (मिट्टी/पत्थर) के साथ तोला जाए और समतल स्तर पर तराजू पर चिह्न लगाया जाए; फिर उसे तराजू से उतारा जाए।",
           "status": "translated"
         },
         {
-          "number": "20.1.11",
-          "ref": "narada_smriti 3.20.1.11",
+          "number": "20.11",
+          "ref": "narada_smriti 3.20.11",
           "text": "समयैः परिगृह्यैनं पुनर् आरोपयेन् नरः । तस्मिन्न् एवं कृते सा चेत् कक्षे स्थाप्य सुनिश्चला ॥ ११ ॥",
           "english": "Having solemnly charged him with oaths, the man should be placed on the scale again; if the scale remains steady at the mark or rises—",
           "hindi": "शपथों से आबद्ध करके मनुष्य को पुनः तराजू पर चढ़ाया जाए; यदि तौले जाने पर तराजू समतल रहे या ऊपर उठे—",
           "status": "translated"
         },
         {
-          "number": "20.1.12",
-          "ref": "narada_smriti 3.20.1.12",
+          "number": "20.12",
+          "ref": "narada_smriti 3.20.12",
           "text": "तुलितो यदि वर्धेत शुद्धः स्यान् नात्रे संशयः । समो वा हीयमानो वा न विशुद्धो भवेन् नरः ॥ १२ ॥",
           "english": "If the weighed person rises (becomes lighter), he is pure without doubt; if he remains equal or sinks (becomes heavier), he is not pure.",
           "hindi": "यदि तोला गया मनुष्य ऊपर उठता है (हल्का होता है), तो वह निस्संदेह शुद्ध (निर्दोष) है; यदि वह बराबर रहता है या नीचे गिरता है (भारी होता है), तो वह शुद्ध नहीं है।",
           "status": "translated"
         },
         {
-          "number": "20.1.13",
-          "ref": "narada_smriti 3.20.1.13",
+          "number": "20.13",
+          "ref": "narada_smriti 3.20.13",
           "text": "धर्मपर्यायवचनैर् धट इत्य् अभिधीयसे । त्वं वेत्सि सर्वभूतानां पापानि सुकृतानि च । त्वम् एव धट जानीषे न विदुर् यानि मानुषाः ॥ १३ ॥",
           "english": "Invocation to Balance: 'O Balance! You are called Dhata because you embody Dharma. You know the sins and good deeds of all beings. You know what humans cannot know!'",
           "hindi": "तुला की प्रार्थना: 'हे तुला! तुम धर्म का स्वरूप होने से धट कहलाती हो। तुम समस्त प्राणियों के पाप और पुण्य को जानती हो। तुम वह जानती हो जो मनुष्य नहीं जानते!'",
           "status": "translated"
         },
         {
-          "number": "20.1.14",
-          "ref": "narada_smriti 3.20.1.14",
+          "number": "20.14",
+          "ref": "narada_smriti 3.20.14",
           "text": "व्यवहाराभिशस्तो ऽयं मानुषस् तुल्यते तथा । तद् एव संशयापन्नं धर्मतस् त्रातुम् अर्हसि ॥ १४ ॥",
           "english": "'This man accused in a lawsuit is being weighed; therefore, deliver him from doubt according to Dharma!'",
           "hindi": "'न्यायालय में आरोपी यह मनुष्य तोला जा रहा है; इसलिए धर्मानुसार इसे इस संशय से मुक्त करो!'",
           "status": "translated"
         },
         {
-          "number": "20.2.15",
-          "ref": "narada_smriti 3.20.2.15",
+          "number": "20.15",
+          "ref": "narada_smriti 3.20.15",
           "text": "अत ऊर्ध्वं प्रवक्ष्यामि लोहस्य विधिम् उत्तमम् । द्वात्रिंशदङ्गुलानि तु मण्डलान् मण्डलान्तरम् ॥ १५ ॥",
           "english": "Next I shall declare the supreme rule of the Fire ordeal. Circles of 32 inches each shall be marked on the ground.",
           "hindi": "इसके बाद मैं अग्नि-परीक्षा की उत्तम विधि बतलाऊंगा। भूमि पर ३२-३२ अंगुल के मण्डल (वृत्त) बनाए जाने चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.2.16",
-          "ref": "narada_smriti 3.20.2.16",
+          "number": "20.16",
+          "ref": "narada_smriti 3.20.16",
           "text": "अष्टाभिर् मण्डलैर् एवम् अङ्गुलानां शतद्वयम् । चतुर्विंशत् समाख्यातं सङ्ख्यातत्त्वार्थदर्शिभिः ॥ १६ ॥",
           "english": "Eight circles total 224 inches, as declared by those who see the true principles of measurement.",
           "hindi": "आठ मण्डलों की कुल दूरी २२४ अंगुल होती है, जैसा कि नाप के तत्त्वज्ञों ने बताया है।",
           "status": "translated"
         },
         {
-          "number": "20.2.17",
-          "ref": "narada_smriti 3.20.2.17",
+          "number": "20.17",
+          "ref": "narada_smriti 3.20.17",
           "text": "कल्पितैर् मण्डलैर् एवम् उषितस्य शुचेर् अपि । सप्ताश्वत्थस्य पत्त्राणि सूत्रेणावेष्ट्य हस्तयोः ॥ १७ ॥",
           "english": "Having prepared the circles and purified the accused, seven peepal (ashvattha) leaves should be bound to his hands with thread.",
           "hindi": "मण्डलों का निर्माण करके और शुद्ध हुए आरोपी के दोनों हाथों पर सूत से सात पीपल के पत्ते बाँध देने चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.2.18",
-          "ref": "narada_smriti 3.20.2.18",
+          "number": "20.18",
+          "ref": "narada_smriti 3.20.18",
           "text": "विदध्यात् तप्तलोहस्य पञ्चाशत्पलम् सम्मितम् । हस्ताभ्यां पिण्डम् आदाय शनैः सप्तपदं व्रजेत् ॥ १८ ॥",
           "english": "A red-hot iron ball weighing 50 palas should be placed in his hands, and holding the ball, he should walk slowly seven steps.",
           "hindi": "५० पल भार का लाल-तप्त लोहे का गोला उसके हाथों में रखा जाए, और उस गोले को लेकर वह धीरे-धीरे सात कदम चले।",
           "status": "translated"
         },
         {
-          "number": "20.2.19",
-          "ref": "narada_smriti 3.20.2.19",
+          "number": "20.19",
+          "ref": "narada_smriti 3.20.19",
           "text": "न मण्डलम् अतिक्रामेन् नाप्य् अर्वाक् पादयेत् पदम् । न च पातयेताप्राप्तः यावद्भूमिर् प्रकल्पिता ॥ १९ ॥",
           "english": "He must not step beyond the circles nor step short, nor drop the ball until he reaches the designated target boundary.",
           "hindi": "वह न तो मण्डलों से बाहर कदम रखे, न पीछे रहे, और न ही निर्धारित भूमि तक पहुँचने से पहले गोले को गिराए।",
           "status": "translated"
         },
         {
-          "number": "20.2.20",
-          "ref": "narada_smriti 3.20.2.20",
+          "number": "20.20",
+          "ref": "narada_smriti 3.20.20",
           "text": "तीर्त्वानेन विधानेन मण्डलानि समाहितः । अदग्धः सर्वतो यस् तु स विशुद्धो भवेन् नरः ॥ २० ॥",
           "english": "Having traversed the circles according to this rule with concentrated mind, if he is completely unburnt, he shall be declared pure.",
           "hindi": "एकाग्रचित्त होकर इस विधि से मण्डलों को पार करने पर यदि वह सब ओर से बिना जला रहता है, तो वह मनुष्य शुद्ध (निर्दोष) माना जाएगा।",
           "status": "translated"
         },
         {
-          "number": "20.2.21",
-          "ref": "narada_smriti 3.20.2.21",
+          "number": "20.21",
+          "ref": "narada_smriti 3.20.21",
           "text": "भयाद् वा पातयते यस् त्व् अदग्धो यो विभाव्यते । पुनस् तं हारयेल् लोहं स्थितिर् एषा पुरातनी । अनेन विधिना कार्यो हुताशसमयः स्मृतः ॥ २१ ॥",
           "english": "If out of fear he drops the ball or if he is burnt, he must repeat the iron ordeal; such is the ancient rule for the Fire test.",
           "hindi": "यदि भयवश वह गोला गिरा दे अथवा जल जाए, तो उसे पुनः लोहे का गोला उठाना पड़ेगा; अग्नि-परीक्षा का यह प्राचीन नियम है।",
           "status": "translated"
         },
         {
-          "number": "20.2.22",
-          "ref": "narada_smriti 3.20.2.22",
+          "number": "20.22",
+          "ref": "narada_smriti 3.20.22",
           "text": "त्वम् अग्ने सर्वभूतानाम् अन्तश्चरसि साक्षिवत् । सुकृतं दुःकृतं लोकेनाज्ञातं विद्यते त्वया ॥ २२ ॥",
           "english": "Invocation to Fire: 'O Agni! You dwell inside all beings as a witness. Good and evil deeds in the world are known to you!'",
           "hindi": "अग्नि की प्रार्थना: 'हे अग्ने! तुम समस्त प्राणियों के भीतर साक्षी के रूप में विद्यमान हो। संसार के गुप्त और प्रकट पाप-पुण्य तुम्हें ज्ञात हैं!'",
           "status": "translated"
         },
         {
-          "number": "20.2.23",
-          "ref": "narada_smriti 3.20.2.23",
+          "number": "20.23",
+          "ref": "narada_smriti 3.20.23",
           "text": "प्रच्छन्नानि मनुष्याणां पापानि सुकृतानि च । यथावद् एव जानीषे न विदुर् यानि मानुषाः ॥ २३ ॥",
           "english": "'You know fully well the hidden sins and merits of men which humans do not know!'",
           "hindi": "'तुम मनुष्यों के उन गुप्त पापों और पुण्यों को भली-भांति जानते हो जिन्हें साधारण मनुष्य नहीं जानते!'",
           "status": "translated"
         },
         {
-          "number": "20.2.24",
-          "ref": "narada_smriti 3.20.2.24",
+          "number": "20.24",
+          "ref": "narada_smriti 3.20.24",
           "text": "व्यवहाराभिशस्तो ऽयं पुरुषः शुद्धिम् इच्छति । तद् एनं संशयापन्नं धर्मतस् त्रातुम् अर्हसि ॥ २४ ॥",
           "english": "'This man accused in a lawsuit desires purification; therefore, protect him in his doubt according to Dharma!'",
           "hindi": "'मुकदमे में आरोपी यह मनुष्य शुद्धि चाहता है; अतः धर्मानुसार संशय में पड़े इस मनुष्य की रक्षा करो!'",
           "status": "translated"
         },
         {
-          "number": "20.3.25",
-          "ref": "narada_smriti 3.20.3.25",
+          "number": "20.25",
+          "ref": "narada_smriti 3.20.25",
           "text": "अतः परं प्रवक्ष्यामि तोयस्य विधिम् उत्तमम् । नातिक्रूरेण धनुषा प्रेरयेत् सायकत्रयम् ॥ २५ ॥",
           "english": "Next I shall declare the supreme rule of the Water ordeal. A man should shoot three arrows with a medium bow.",
           "hindi": "इसके बाद मैं जल-परीक्षा की उत्तम विधि कहूँगा। एक पुरुष मध्यम धनुष से तीन बाण चलाए।",
           "status": "translated"
         },
         {
-          "number": "20.3.26",
-          "ref": "narada_smriti 3.20.3.26",
+          "number": "20.26",
+          "ref": "narada_smriti 3.20.26",
           "text": "मध्यमस् तु शरो ग्राह्यः पुरुषेण यवीयसा । प्रत्यानीतस्य तस्याथ स विशुद्धो भवेन् नरः ॥ २६ ॥",
           "english": "The middle arrow should be fetched by a swift runner; if the accused remains submerged in water until the arrow is brought back, he is pure.",
           "hindi": "एक तेज़ दौड़ने वाला युवक बीच वाले बाण को लेकर आए; बाण के वापस लाए जाने तक यदि आरोपी जल में डुबकी लगाए रहता है, तो वह शुद्ध माना जाता है।",
           "status": "translated"
         },
         {
-          "number": "20.3.27",
-          "ref": "narada_smriti 3.20.3.27",
+          "number": "20.27",
+          "ref": "narada_smriti 3.20.27",
           "text": "अन्यथा न विशुद्धः स्याद् एकाङ्गम् अपि दर्शयेत् । स्थानाद् अन्यत्र वा गच्छेद् यस्मिन् पूर्वं निवेषितः ॥ २७ ॥",
           "english": "Otherwise he is not pure, or if he shows any limb above water, or moves away from the place where he first plunged.",
           "hindi": "अन्यथा वह शुद्ध नहीं माना जाएगा; अथवा यदि वह जल से बाहर अपना कोई अंग दिखा देता है या मूल स्थान से हट जाता है तो वह दोषी माना जाता है।",
           "status": "translated"
         },
         {
-          "number": "20.3.28",
-          "ref": "narada_smriti 3.20.3.28",
+          "number": "20.28",
+          "ref": "narada_smriti 3.20.28",
           "text": "स्त्रियस् तु न बलात् कार्या न पुमान् अपि दुर्बलः । भीरुत्वाद् योषितो मृत्युः कृशस्यापि बलात् कुर्यात् । सहसा प्राप्नुयात् सर्वांस् तस्माद् एतान् न मज्जयेत् ॥ २८ ॥",
           "english": "Women must not be subjected to water ordeal by force, nor weak men; owing to fear, women may die, and weak men may drown; hence they should not be submerged.",
           "hindi": "स्त्रियों को ज़बरदस्ती जल-परीक्षा में न उतारा जाए, और न ही दुर्बल पुरुषों को; भय से स्त्रियों की मृत्यु हो सकती है और दुर्बल डूब सकते हैं; इसलिए इन्हें जल में न डुबोएं।",
           "status": "translated"
         },
         {
-          "number": "20.3.29",
-          "ref": "narada_smriti 3.20.3.29",
+          "number": "20.29",
+          "ref": "narada_smriti 3.20.29",
           "text": "तोयमध्ये मनुष्यस्य गृहीत्वोरू सुसंयतः ॥ २९",
           "english": "Holding the thighs of a man standing in water, well-restrained—",
           "hindi": "जल में खड़े किसी पुरुष की जांघों को मजबूती से पकड़कर पानी में रहे—",
           "status": "translated"
         },
         {
-          "number": "20.3.30",
-          "ref": "narada_smriti 3.20.3.30",
+          "number": "20.30",
+          "ref": "narada_smriti 3.20.30",
           "text": "सत्यानृतविभागस्य तोयाग्नी स्पष्टकृत्तमौ । यतश् चाग्निर् अभूद् अस्मात् ततस् तोयं विशिष्यते ॥ ३० ॥",
           "english": "Water and Fire are the supreme purifiers of truth and falsehood; and because Fire originated from Water, Water is even more exalted.",
           "hindi": "सत्य और असत्य के निर्णय के लिए जल और अग्नि सर्वश्रेष्ठ शोधक हैं; और चूँकि अग्नि जल से उत्पन्न हुई है, इसलिए जल को और अधिक श्रेष्ठ माना गया है।",
           "status": "translated"
         },
         {
-          "number": "20.3.31",
-          "ref": "narada_smriti 3.20.3.31",
+          "number": "20.31",
+          "ref": "narada_smriti 3.20.31",
           "text": "क्रियते धर्मतत्त्वज्ञैर् दूषितानां विशोधनम् । तस्मात् सत्येन भगवञ् जलेश त्रातुम् अर्हसि ॥ ३१ ॥",
           "english": "Invocation to Water: 'O Lord Varuna! Purification of accused persons is performed by those who know Dharma; therefore, O Divine Lord of Waters, protect him by Truth!'",
           "hindi": "जल की प्रार्थना: 'हे भगवान वरुण! धर्मज्ञ पुरुषों द्वारा आरोपियों की शुद्धि की जाती है; इसलिए हे जल के देवता! सत्य के प्रभाव से इस मनुष्य की रक्षा करें!'",
           "status": "translated"
         },
         {
-          "number": "20.4.32",
-          "ref": "narada_smriti 3.20.4.32",
+          "number": "20.32",
+          "ref": "narada_smriti 3.20.32",
           "text": "अतः परं प्रवक्ष्यामि विषस्य विधिम् उत्तमम् । तुलयित्वा विषं पूर्वं देयम् एतद् धिमागमे ॥ ३२ ॥",
           "english": "Next I shall declare the supreme rule of Poison ordeal. Having weighed the poison first, it should be administered in winter/cold season.",
           "hindi": "इसके बाद मैं विष-परीक्षा की उत्तम विधि कहूँगा। विष को पहले तोलकर हेमंत/शीत ऋतु में दिया जाना चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.4.33",
-          "ref": "narada_smriti 3.20.4.33",
+          "number": "20.33",
+          "ref": "narada_smriti 3.20.33",
           "text": "न पूर्वाह्णे न मध्याह्ने न सन्ध्यायां तु धर्मवित् । शरद्ग्रीष्मवसन्तेषु वर्षासु च न दापयेत् ॥ ३३ ॥",
           "english": "Not in the morning, nor at noon, nor at twilight; nor in autumn, summer, spring, or rainy season should a wise judge administer poison.",
           "hindi": "न प्रातःकाल, न दोपहर में, न संध्या समय; और न ही शरद, ग्रीष्म, वसंत या वर्षा ऋतु में बुद्धिमान न्यायाधीश विष दे।",
           "status": "translated"
         },
         {
-          "number": "20.4.34",
-          "ref": "narada_smriti 3.20.4.34",
+          "number": "20.34",
+          "ref": "narada_smriti 3.20.34",
           "text": "भग्नं च दारितं चैव धूपितं मिश्रितं तथा । कालकूटम् अलम्बुं च विषं यत्नेन वर्जयेत् ॥ ३४ ॥",
           "english": "Poison that is broken, split, smoked, mixed, Kalakuta, or Alambu must be carefully avoided.",
           "hindi": "टूटा हुआ, फटा हुआ, धूपित, मिलावटी, कालकूट या अलम्बु विष यत्नपूर्वक त्याग देना चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.4.35",
-          "ref": "narada_smriti 3.20.4.35",
+          "number": "20.35",
+          "ref": "narada_smriti 3.20.35",
           "text": "शार्ङ्गहैमवतं शस्तं गन्धवर्णरसान्वितम् । महादोषवते देयं राज्ञा तत्त्वबुभुत्सया ॥ ३५ ॥",
           "english": "Sharnga poison from the Himalayas, possessing standard odor, color, and taste, should be given by the king to ascertain truth in grave offenses.",
           "hindi": "हिमालय का शृङ्ग विष, जो उत्तम गंध, वर्ण और रस से युक्त हो, राजा द्वारा गंभीर अपराधों में सत्य जानने के लिए दिया जाना चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.4.36",
-          "ref": "narada_smriti 3.20.4.36",
+          "number": "20.36",
+          "ref": "narada_smriti 3.20.36",
           "text": "न बालातुरवृद्धेषु नैव स्वल्पापराधिषु । विषस्य तु यवान् सप्त दद्याच् छोद्ये घृतप्लुतान् ॥ ३६ ॥",
           "english": "Not to children, sick, or elderly, nor in minor offenses; seven barley-corns (yava) of poison mixed with ghee should be given to the accused.",
           "hindi": "बच्चों, रोगियों, वृद्धों को नहीं, और न ही छोटे अपराधों में; आरोपी को घी में घुली हुई सात यव (जौ) मात्रा में विष देना चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.4.37",
-          "ref": "narada_smriti 3.20.4.37",
+          "number": "20.37",
+          "ref": "narada_smriti 3.20.37",
           "text": "विषस्य पलषड्भागाद् भागो विंशतिमस् तु यः । तम् अष्टभागहीनं तु शोध्ये दद्याद् घृतप्लुतम् ॥ ३७ ॥",
           "english": "A fraction of a pala of poison, melted in ghee, should be given to the accused who has fasted.",
           "hindi": "घी में पिघलाया हुआ विष का निर्धारित सूक्ष्म भाग उपवास रखे हुए आरोपी को दिया जाए।",
           "status": "translated"
         },
         {
-          "number": "20.4.38",
-          "ref": "narada_smriti 3.20.4.38",
+          "number": "20.38",
+          "ref": "narada_smriti 3.20.38",
           "text": "यथोक्तेन विधानेन विप्रान् स्प्र्ष्ट्वानुमोदितः । सोपवासश् च खादेत देवब्राह्मणसन्निधौ ॥ ३८ ॥",
           "english": "Touching Brahmanas according to rule, with approval, after fasting, he should swallow it in the presence of deities and Brahmanas.",
           "hindi": "नियमानुसार उपवास रखकर, ब्राह्मणों का स्पर्श करके और उनकी अनुमति से, देवताओं और ब्राह्मणों के समक्ष उसे विष ग्रहण करना चाहिए।",
           "status": "translated"
         },
         {
-          "number": "20.4.39",
-          "ref": "narada_smriti 3.20.4.39",
+          "number": "20.39",
+          "ref": "narada_smriti 3.20.39",
           "text": "विषं वेगक्लमापेतं सुखेन यदि जीर्यते । विशुद्धम् इति तं ज्ञात्वा राजा सत्कृत्य मोक्षयेत् ॥ ३९ ॥",
           "english": "If the poison is digested easily without fits or exhaustion, knowing him to be pure, the king should honor him and release him.",
           "hindi": "यदि विष बिना किसी मूर्छा या थकावट के आसानी से पच जाता है, तो राजा उसे शुद्ध (निर्दोष) जानकर सम्मानपूर्वक मुक्त कर दे।",
           "status": "translated"
         },
         {
-          "number": "20.4.40",
-          "ref": "narada_smriti 3.20.4.40",
+          "number": "20.40",
+          "ref": "narada_smriti 3.20.40",
           "text": "त्वं विष ब्रह्मणः पुत्रः सत्यधर्मरतौ स्थितः । शोधयैनं नरं पापात् सत्येनास्यामृतीभव ॥ ४० ॥",
           "english": "Invocation to Poison: 'O Poison! You are the son of Brahma, established in truth and righteousness! Purify this man from sin and become nectar for him through Truth!'",
           "hindi": "विष की प्रार्थना: 'हे विष! तुम ब्रह्मा के पुत्र हो, सत्य और धर्म में स्थित हो! इस मनुष्य को पाप से शुद्ध करो और सत्य के प्रभाव से इसके लिए अमृत बन जाओ!'",
           "status": "translated"
         },
         {
-          "number": "20.5.41",
-          "ref": "narada_smriti 3.20.5.41",
+          "number": "20.41",
+          "ref": "narada_smriti 3.20.41",
           "text": "अतः परं प्रवक्ष्यामि कोशस्य विधिम् उत्तमम् ॥ ४१ ॥",
           "english": "Next I shall declare the supreme rule of the Holy Water (Kosha) ordeal.",
           "hindi": "इसके बाद मैं कोश-परीक्षा (पवित्र चरणामृत जल) की उत्तम विधि कहूँगा।",
           "status": "translated"
         },
         {
-          "number": "20.5.42",
-          "ref": "narada_smriti 3.20.5.42",
+          "number": "20.42",
+          "ref": "narada_smriti 3.20.42",
           "text": "पूर्वाह्णे सोपवासस्य स्नातस्यार्द्रपटस्य च । सशूकस्याव्यसनिनः कोशपानं विधीयते ॥ ४२ ॥",
           "english": "In the morning, to one who has fasted, bathed, wears wet clothes, carries Kusha grass, and is free from calamity, Kosha-pana is ordained.",
           "hindi": "प्रातःकाल, उपवास रखकर, स्नान करके, गीले वस्त्र पहने हुए और हाथ में कुशा लिए हुए व्यक्ति को कोश-पान (पवित्र जल) कराया जाता है।",
           "status": "translated"
         },
         {
-          "number": "20.5.43",
-          "ref": "narada_smriti 3.20.5.43",
+          "number": "20.43",
+          "ref": "narada_smriti 3.20.43",
           "text": "यद्भक्तः सो ऽभियुक्तः स्यात् तद्दैवत्यं तु पाययेत् । सप्ताहाद् यस्य दृश्यते द्विसप्ताहेन वा पुनः । प्रत्यात्मिकं तु यत्किञ्चित् सैव तस्य विभावना ॥ ४३ ॥",
           "english": "He should be made to drink three mouthfuls of holy water of the deity he worships; if within 14 days no calamity befalls him, he is clear.",
           "hindi": "वह जिस देवता का भक्त हो, उस देवता की मूर्ति के स्नान का जल उसे तीन आचमन पिलाया जाए; यदि १४ दिनों के भीतर उस पर कोई विपत्ति नहीं आती, तो वह निर्दोष सिद्ध होता है।",
           "status": "translated"
         },
         {
-          "number": "20.5.44",
-          "ref": "narada_smriti 3.20.5.44",
+          "number": "20.44",
+          "ref": "narada_smriti 3.20.44",
           "text": "द्विसप्ताहात् परं यस्य महद् वा वैकृतं भवेत् । नाभियोज्यः स विदुषां कृतकालव्यतिक्रमात् ॥ ४४ ॥",
           "english": "If after two weeks a great calamity or illness befalls him, he is not to be prosecuted further, as the stipulated observation period has expired.",
           "hindi": "यदि दो सप्ताह बीत जाने के बाद उस पर कोई विपत्ति या बीमारी आती है, तो विद्वानों को उस पर पुनः अभियोग नहीं चलाना चाहिए, क्योंकि निश्चित समय बीत चुका है।",
           "status": "translated"
         },
         {
-          "number": "20.5.45",
-          "ref": "narada_smriti 3.20.5.45",
+          "number": "20.45",
+          "ref": "narada_smriti 3.20.45",
           "text": "महापराधे निर्धर्मे कृतघ्ने क्लीबकुत्सिते । नास्तिकव्रात्यदासेषु कोशपानं विवर्जयेत् ॥ ४५ ॥",
           "english": "In grave heinous crimes, for unrighteous men, ungrateful persons, eunuchs, degraded ones, atheists, outcastes, and slaves—Kosha ordeal is forbidden.",
           "hindi": "अत्यंत घोर अपराधों में, धर्महीन, कृतघ्न, नपुंसक, पतित, नास्तिक, व्रात्य और दासों के लिए कोश-परीक्षा वर्जित है।",
           "status": "translated"
         },
         {
-          "number": "20.5.46",
-          "ref": "narada_smriti 3.20.5.46",
+          "number": "20.46",
+          "ref": "narada_smriti 3.20.46",
           "text": "यथोक्तेन प्रकारेण पञ्च दिव्यानि धर्मवित् । दद्याद् राजाभियुक्तानां प्रेत्य चेह च नन्दति ॥ ४६ ॥",
           "english": "A king who administers the five divine ordeals to accused persons in the prescribed manner rejoices here and in heaven.",
           "hindi": "जो धर्मज्ञ राजा शास्त्रोक्त विधि से आरोपियों को इन पाँच दिव्य परीक्षाओं को कराता है, वह इहलोक और परलोक में आनंदित होता है।",
           "status": "translated"
         },
         {
-          "number": "20.5.47",
-          "ref": "narada_smriti 3.20.5.47",
+          "number": "20.47",
+          "ref": "narada_smriti 3.20.47",
           "text": "न विषं ब्राह्मणे दद्यान् न लोहं क्षत्रियो हरेत् । न निमज्ज्याप्सु वैश्यश् च शूद्रः कोशं न पाययेत् ॥ ४७ ॥",
           "english": "Poison must not be given to a Brahmana; iron/fire ball must not be held by a Kshatriya; water ordeal not for a Vaishya; Kosha not for a Shudra.",
           "hindi": "ब्राह्मण को विष न दिया जाए; क्षत्रिय से लोहा (अग्नि) न उठवाया जाए; वैश्य को जल में न डुबोया जाए; और शूद्र को कोश-पान न कराया जाए (वर्णानुकूल विवेक)।",
           "status": "translated"
         },
         {
-          "number": "20.5.48",
-          "ref": "narada_smriti 3.20.5.48",
+          "number": "20.48",
+          "ref": "narada_smriti 3.20.48",
           "text": "वर्षासु न विषं दद्यात् हेमन्ते नाप्सु मज्जयेत् । न लोहं हारयेद् ग्रीष्मे न कोशं पाययेन् निशि ॥ ४८ ॥",
           "english": "Poison must not be given in rainy season; water ordeal not in winter; iron ball not in summer; Kosha not at night.",
           "hindi": "वर्षा ऋतु में विष न दें; हेमंत (सर्दी) में जल-परीक्षा न कराएं; ग्रीष्म (गर्मी) में लोहा न उठवाएं; और रात्रि में कोश-पान न कराएं (ऋतु-विवेक)।",
