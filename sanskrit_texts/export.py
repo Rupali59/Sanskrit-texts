@@ -158,7 +158,11 @@ def build_doc(conn: sa.Connection, text_id: str, *, mode: str) -> dict[str, Any]
             ch["shlokas"] = []
             chapters[s["id"]] = ch
 
-    for v in verses:
+    # `verse.position` is the array index across the WHOLE chapter (importer rule 3), so order
+    # by chapter then position. Ordering by section first put a sub-section's verses after all
+    # of its parent section's verses -- invisible until a subdivided unit sat BETWEEN two plain
+    # ones (Caraka `1.66`, `1.66.1`, `1.67`), which the 2026-09-17 SARIT splits created.
+    for v in sorted(verses, key=lambda v: (root_of(v["section_id"]), v["position"])):
         path = label_path(v["section_id"]) + [v["number_label"]]
         number = _verse_number(".".join(path), v["number_is_str"])
         sh: dict[str, Any] = {"number": number, "text": v["devanagari"]}

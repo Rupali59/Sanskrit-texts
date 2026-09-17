@@ -100,6 +100,16 @@ def test_export_reproduces_the_committed_corpus(owner_engine, clean_corpus, corp
                 differences.append(f"chapter {number}: {key!r}")
         skip = _dupe_labels(s_chapter)          # declared normalisation 2
         s_v, e_v = _index(s_chapter), _index(e_chapter)
+        # ORDER, not just membership. `_index` is a dict, so a check built only on it cannot see
+        # verses coming back in the wrong sequence -- which is exactly how an exporter that
+        # grouped by section passed this test while reordering 3 real texts (2026-09-17).
+        s_order = [k for k in ((type(x["number"]).__name__, str(x["number"])) for x in s_chapter["shlokas"]) if k not in skip]
+        e_order = [k for k in ((type(x["number"]).__name__, str(x["number"])) for x in e_chapter["shlokas"]) if k not in skip]
+        if s_order != e_order:
+            first = next((i for i, (a, b) in enumerate(zip(s_order, e_order, strict=False)) if a != b), None)
+            differences.append(f"chapter {number}: verse ORDER differs at index {first}: "
+                               f"{s_order[first:first + 3] if first is not None else s_order[-3:]} != "
+                               f"{e_order[first:first + 3] if first is not None else e_order[-3:]}")
         for missing in sorted(set(s_v) - set(e_v) - skip):
             differences.append(f"chapter {number}: verse {missing} absent from the export")
         for key in sorted((set(s_v) & set(e_v)) - skip):
@@ -174,3 +184,28 @@ def test_citable_mode_carries_no_unapproved_value(owner_engine, clean_corpus, co
     assert not annotation_keys(citable), (
         "citable mode carried an annotation, but nothing in the corpus is `approved`"
     )
+
+
+def test_export_keeps_array_order_when_depths_interleave(owner_engine, clean_corpus):
+    """A subdivided unit BETWEEN two plain ones: `1.66`, `1.66.1`, `1.67`. None of SHAPES has
+    this, and the exporter got it wrong until 2026-09-17 (it emitted `1.66.1` after `1.67`)."""
+    doc = {
+        "text_id": "interleave_fixture", "title_sa": "x", "title_en": "x", "category": "parashari",
+        "structure": {"levels": ["chapter", "level2", "level3", "verse"]},
+        "chapters": [{"number": 1, "shlokas": [
+            {"number": "1.66", "text": "क", "status": "untranslated"},
+            {"number": "1.66.1", "text": "ख", "status": "untranslated"},
+            {"number": "1.67", "text": "ग", "status": "untranslated"},
+            {"number": "2.1", "text": "घ", "status": "untranslated"},
+            {"number": "1.68", "text": "ङ", "status": "untranslated"},
+        ]}],
+        "_sha": "0" * 64, "_path": pathlib.Path(__file__).resolve().parent.parent / "Hora" / "x" / "x.json",
+    }
+    with owner_engine.begin() as conn:
+        result = type("R", (), {"texts": 0, "sections": 0, "verses": 0, "annotations": 0,
+                                "revisions": 0, "facets": 0, "skipped": [], "violations": []})()
+        import_text(conn, doc, result, enumerate_all=True)
+        assert not result.violations, result.violations
+        exported = build_doc(conn, "interleave_fixture", mode="fidelity")
+    got = [str(s["number"]) for s in exported["chapters"][0]["shlokas"]]
+    assert got == ["1.66", "1.66.1", "1.67", "2.1", "1.68"], got
