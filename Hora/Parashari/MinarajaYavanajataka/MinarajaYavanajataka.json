@@ -11970,9 +11970,11 @@
         {
           "number": 20,
           "text": "..........",
-          "english": "...",
-          "hindi": "...",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "...",
+          "hindi_draft": "..."
         },
         {
           "number": 21,
@@ -12708,9 +12710,11 @@
         {
           "number": 6,
           "text": "..........",
-          "english": "...",
-          "hindi": "...",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "...",
+          "hindi_draft": "..."
         },
         {
           "number": 7,
