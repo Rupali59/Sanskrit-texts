@@ -1337,16 +1337,32 @@ which mattered, because the filenames misled twice.
 | `ved_vedang_gp_22.pdf` | Hindi essay `वेदोंमें ज्योतिष`, Kalyāṇ Veda-kathāṅka pp.198–199 | no |
 | `51-31-Pradip.Mandal.pdf` | Pāṇinian grammar paper on kāraka-vibhakti | no |
 
-### The two witnesses of the Subodhinī are complementary, and that is the useful part
+### ~~The two witnesses are complementary~~ — WRONG, corrected the same day
 
-The **Jammu MS** carries the ṭīkā only `द्वितीयाध्यायपर्यंत` — as far as adhyāya 2. The **1947
-printed edition** is `तृतीयोऽध्यायः` — adhyāya 3, with a Hindi translation. Between them,
-adhyāyas 1–3. Neither alone is the whole work and neither duplicates the other.
+**They are not the same work.** Written above, committed, and reported to Rupali before anyone
+opened a body page of the printed volume.
 
-Both are **image-only**. The MS yields 207 characters across three pages and all of it is the
-CC-0 watermark; the printed edition yields nothing. OCR is the whole of the remaining work, and
-`rule:discernment-checks` applies to whatever it produces — this corpus has G31 precisely
-because a clean-looking Devanāgarī file proves nothing about what it contains.
+- **Jammu MS 882-घ — genuine.** Catalogue label states **Subject: ज्योतिषम्**, author
+  `नीलकंठः`, commentary `सुबोधिनी व्याख्या`. ṭīkā only `द्वितीयाध्यायपर्यंत` — to adhyāya 2.
+  Image-only; 207 extractable characters across three pages, all of it the CC-0 watermark.
+- **Bombay 1947 printed edition — Jaimini's PŪRVA MĪMĀṂSĀ SŪTRA.** Ritual exegesis, not
+  astrology. Moved to `_out-of-scope/`, which carries both checks: a body page reading
+  `सामिधेनी` / `उपवीत` / `पूर्वपक्षे सिद्धान्तमाह` / `दर्शपूर्णमास याग`, and a vocabulary count
+  over 62 OCR pages — Mīmāṃsā **390**, jyotiṣa **110**, with the jyotiṣa figure itself inflated
+  by `ज्योतिष` ×38 which is near-certainly **ज्योतिष्टोम**, the archetypal Mīmāṃsā sacrifice.
+
+So the claim "adhyāyas 1–3 between them" is void; **only adhyāyas 1–2 are sourced, from one
+manuscript.**
+
+**Three readings of this one title in one day, and the middle one was the confident one.**
+First: "the archive.org Subodhinī is Sarveśvarānanda's, not Nīlakaṇṭha's — do not acquire."
+Then, from the title page: "wrong — Sarveśvarānanda is the *translator*; this IS the Subodhinī."
+Then, from a body page: "wrong again — it is the Subodhinī on the **Mīmāṃsā** Sūtras."
+
+The original instinct was right and the reasoning behind it was wrong, which is the worst
+combination, because correcting the reasoning looked like progress. **A title page names the
+work; only the body says what the work is about.** Jaimini is famously the author of the Pūrva
+Mīmāṃsā Sūtras — a title carrying his name is *more* likely to be that than the jyotiṣa one.
 
 ### Two filename traps, and I fell into the second one
 
