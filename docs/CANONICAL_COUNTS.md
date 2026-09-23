@@ -118,6 +118,42 @@ isha         ours= 18  cited= 18  diff= 0   shanti-bearing verses: 1
 Kauśītaki has **zero** invocation-bearing verses and is still +3. Īśa has one and is
 exactly right. So the invocation count does not correlate with the discrepancy at all.
 
+**BOTH ARE NOW RESOLVED — 2026-09-23 — and the rejected hypothesis was half right.**
+
+Re-derive rather than read the table above: it was measured when Muṇḍaka was 67 and Kauśītaki
+53, and both have since changed.
+
+```sh
+python3 -c "
+import pathlib; from sanskrit_texts.reader import load_corpus_from_json
+ids=load_corpus_from_json(pathlib.Path('.'))
+for t,c in (('mundaka_upanishad',64),('kaushitaki_upanishad',50),('katha_upanishad',118)):
+    print(t, ids[t]['sh'], 'vs cited', c)"
+```
+
+| text | then | now | cited | residue | cause |
+|---|---:|---:|---:|---:|---|
+| `mundaka_upanishad` | 67 | **65** | 64 | +1 | **the śānti**, carried as label `0.1` in muṇḍaka 1 |
+| `kaushitaki_upanishad` | 53 | **50** | 50 | **0** | SC-001 — a colophon-only pseudo-chapter, repaired |
+
+**Muṇḍaka: the śānti-pāṭha explanation was rejected here, and it was rejected correctly — for
+the wrong residue.** The test scanned verse TEXT for invocation formulae and found **1**
+śānti-bearing verse against a **+3** discrepancy; 1 ≠ 3, so the hypothesis failed. The
+2026-09-02 re-parse then removed the other two (7 flat chapters mis-numbered by one → 3
+muṇḍakas × 2 khaṇḍas, 9/13/10/11/10/11 = 64 exactly), and the remaining +1 is precisely that
+one śānti verse. **The hypothesis was wrong about the whole and right about the part.** A
+tested-and-rejected explanation is not dead once the other causes are removed — re-test it.
+
+**And the answer was already written down.** `INVENTORY.md`'s Muṇḍaka row has said *"plus the
+śānti as `0.1`"* since the re-parse. Nothing connected the two files, because the test looked
+for invocation WORDS inside verse text and the answer was a verse LABEL.
+
+**Corroborated externally, at no cost:** `shlokam.org` lists Muṇḍaka at **64** — it excludes
+the śānti, which is the same 64 the citation gives.
+
+**Kauśītaki:** see SC-001. Merging the stray colophon verse back gives 50 in 4 adhyāyas,
+matching the cited figure exactly. Katha's +2 is untouched and remains open.
+
 ### SOLVED 2026-08-24: colophons were being counted as verses
 
 The śānti-pāṭha hypothesis was wrong, but the cause turned out to be structural and
