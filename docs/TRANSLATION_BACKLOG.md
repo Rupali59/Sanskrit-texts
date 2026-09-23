@@ -9,16 +9,35 @@ python3 scripts/translation_backlog.py      # per-text table, sorted by outstand
 
 The **tiering** below is a judgement call and is not derivable. The **counts** are, and
 `rule:state-and-decisions` is explicit that a count in a doc rots faster than anything else in
-it. Last derived 2026-09-14: **79,597 untranslated · 1,315 drafted · 178 stubs · 15 texts
-complete**.
+it. Last derived **2026-09-23**: **2,791 to translate** (2,675 empty + 116 one language missing) ·
+**68,051 verses carrying a draft** · **0 stubs** · **44 of 66 texts complete**, 98,142 verses.
+
+(Read 48 of 70 on 2026-09-17. **Only the denominators moved**: four unregistered texts left the
+corpus on 2026-09-23 — `deva_keralam` and `dharmasindhu` quarantined, the two Taittirīya texts
+handed to Youvan — and all four counted as "complete", because their `english`/`hindi` fields
+were full of material that was not a translation. The outstanding-work figures are untouched,
+which is the tell that none of it was ever real work. G62.)
+(2026-09-14 read 79,597 · 1,315 · 178. The swing is not new work: on 2026-09-16/17 the fake served
+"translations" were moved OFF the served fields into drafts, so most of the corpus changed column.)
 
 ## Three different jobs, and they must not be handed out as one
 
-| job | scope | what the worker does |
+**A draft is not necessarily a translation.** Run the confidence checker before assigning drafts —
+`python -m sanskrit_texts.checks` — and split by its level (2026-09-17, English drafts):
+**67,228 fail** (`template-prefix` "Classical text translation of X: <the Sanskrit>", or
+`sanskrit-echo`) and are **translate-from-scratch** work despite sitting in a draft field;
+**1,692 show no defect** and are the real verify queue. Handing the 67,228 out as "verify" asks a
+reviewer to approve Sanskrit wearing an English prefix.
+
+| job | scope (2026-09-17) | what the worker does |
 |---|---|---|
-| **Translate** | 79,597 shlokas, 50 texts | Sanskrit → English (and Hindi where wanted). The field is empty |
-| **Verify a draft** | **1,315**, all `apastamba_dharma_sutra` | A machine draft already sits in `english_draft`. Read the Sanskrit, correct it, **promote** it to `english`, flip `status` to `translated`, clear the draft. **Never copy a draft across unread** |
-| **Re-translate a stub** | **178**, all `phaladeepika` | These say `status: translated` and carry a template, not a translation: `Chapter 21, Shloka 11 - Description of the subtle effects of planetary sub-sub-periods…`. The worker is **replacing** text, not filling a blank, and must be told so |
+| **Translate** | **2,791** empty or one-language verses, plus the **67,228** failing drafts | Sanskrit → English (and Hindi where wanted). For a failing draft, ignore the draft entirely |
+| **Verify a draft** | **1,692** English drafts with `no-defect-found` | Read the Sanskrit, correct the draft, then promote with `python -m sanskrit_texts.promote --to approved --author <name> --confidence certain|probable|tentative`. **Never copy a draft across unread**; `no-defect-found` means no known defect shape, not correct (G55) |
+| **Re-translate a stub** | **0** — the 178 `phaladeepika` templates are now drafts that fail `template-prefix`, i.e. in the Translate row | — |
+
+**Tier counts below were written 2026-09-14 and are shlokas held, not outstanding work.** Four texts
+have since changed size from the SARIT relabel (G64): `manu_smriti` 2,688 · `caraka_samhita` 9,654 ·
+`susruta_samhita` 8,347 · `astanga_hridaya` 7,725. Derive outstanding per text with the script above.
 
 ## Order of work
 

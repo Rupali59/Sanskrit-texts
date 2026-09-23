@@ -55,9 +55,11 @@ The API role holds `SELECT` on exactly two views -- `published_text` and `publis
 
 So the two sources are NOT expected to agree field-for-field. What both sources can see in
 full, and must agree on, is which texts exist and how many verses each one holds --
-`sanskrit_texts/exclusions.py`'s four texts aside, which the db source omits by design and the
+anything in `sanskrit_texts/exclusions.py` aside, which the db source omits by design and the
 json source includes. `tests/test_reader.py` asserts exactly that overlap, not the fields
-neither source can supply.
+neither source can supply. (That set held four texts from 2026-09-16 and is EMPTY as of
+2026-09-23: all four left the tree, so the two sources now agree outright. The allowance stays
+because the next exclusion will need it.)
 
 VERSE-LEVEL, FOR THE SCRIPTS THAT EDIT OR SAMPLE WHOLE VERSES, NOT COUNTS. `tag_features.py`
 and `spot_check.py` each need a full `{'chapters': [...]}` document for one `text_id` -- the

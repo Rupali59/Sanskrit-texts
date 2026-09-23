@@ -224,7 +224,16 @@ def main():
     for t in flagged[:8]:
         print(f"    {t['text_id']:<28}DUP {t['dup_verses']:>4}  MONO {len(t['mono']):>3}  "
               f"STUB {len(t['stubs']):>3}  EMPTY {len(t['empty']):>4}")
-    print(f"-> {Path(args.out).relative_to(REPO)}")
+    # `relative_to` RAISES when the target is outside the repo, and --out exists precisely so
+    # a caller can write elsewhere -- so the cosmetic final line used to crash the run it was
+    # reporting on. The file is already written by here, which made it worse: exit 1, correct
+    # output on disk. Fall back to the absolute path rather than failing to pretty-print one.
+    out = Path(args.out)
+    try:
+        shown = out.relative_to(REPO)
+    except ValueError:
+        shown = out
+    print(f"-> {shown}")
     return 0
 
 

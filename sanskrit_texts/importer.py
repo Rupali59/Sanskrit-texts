@@ -104,7 +104,17 @@ class Result:
 
 def corpus_files(root: pathlib.Path = REPO) -> Iterable[pathlib.Path]:
     for path in sorted(root.rglob("*.json")):
-        if set(path.relative_to(root).parts) & SKIP_DIRS:
+        rel = path.relative_to(root)
+        # Dot-prefixed components are not corpus, whatever they are called. This matches
+        # `reader.load_corpus_from_json` and both audit scripts, which have always skipped
+        # them -- this walker was the one that did not, and `.quarantine/` (2026-09-23) is
+        # the first directory where that difference would have mattered. Deriving the skip
+        # from the name SHAPE rather than adding `.quarantine` to SKIP_DIRS is deliberate:
+        # a hardcoded list is G17's failure mode, and the next quarantine will not be
+        # called this.
+        if any(part.startswith(".") for part in rel.parts):
+            continue
+        if set(rel.parts) & SKIP_DIRS:
             continue
         yield path
 

@@ -24,6 +24,7 @@ import pathlib
 import pytest
 
 from sanskrit_texts.exclusions import EXCLUDED_TEXTS
+from sanskrit_texts.importer import corpus_files
 from sanskrit_texts.models import Section, Text_, Verse
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
@@ -85,21 +86,22 @@ KNOWN_OMITTED = {
 def _census() -> dict[str, set[str]]:
     """Every key actually present, at each level, across every corpus JSON."""
     found: dict[str, set[str]] = {"text": set(), "chapter": set(), "verse": set()}
-    for path in REPO.rglob("*.json"):
-        rel = path.relative_to(REPO)
-        if rel.parts[0] in {"docs", ".venv", ".venv-corpus", "migrations", "node_modules"}:
-            continue
+    # The census describes the corpus the DATABASE will hold, so it must walk the files the
+    # importer walks -- `corpus_files` itself, not a second skip-list that merely resembles it.
+    # This loop used to re-declare the directory names inline and that copy silently lacked the
+    # dot-prefix rule `corpus_files` applies, so on 2026-09-23 the census walked straight into
+    # the freshly-created `.quarantine/` and failed on `source_number`, a key that exists only
+    # in the two quarantined files. The comment already claimed "one named constant, not two
+    # independent filters"; it is now true.
+    for path in corpus_files():
         try:
             doc = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):
             continue
         if not isinstance(doc, dict) or "text_id" not in doc or "chapters" not in doc:
             continue
-        # The census describes the corpus the DATABASE will hold, so it skips exactly what the
-        # importer skips -- one named constant, not two independent filters. These four carry
-        # five keys nobody declared (`notes`, `count_authority`, `title`, `language`, `author`)
-        # and a sixth on 490 verses (`source_number`), and adding those to the allowlist would
-        # be the census endorsing fabricated files as schema. G62.
+        # Adding a quarantined file's keys to the allowlist would be the census endorsing
+        # unfit files as schema. G62.
         if doc["text_id"] in EXCLUDED_TEXTS:
             continue
         found["text"] |= set(doc)
@@ -198,10 +200,7 @@ def test_the_exclusion_list_still_matches_what_is_on_disk():
     describing nothing. Either state is a finding -- report it rather than passing quietly.
     """
     on_disk = set()
-    for path in REPO.rglob("*.json"):
-        if path.relative_to(REPO).parts[0] in {"docs", ".venv", ".venv-corpus", "migrations",
-                                               "node_modules", "venv"}:
-            continue
+    for path in corpus_files():
         try:
             doc = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError):

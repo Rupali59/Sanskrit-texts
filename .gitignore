@@ -46,6 +46,14 @@ temp_*.png
 /translate_*.py
 /retranslate_*.py
 /test_sdk.py
+# 2026-09-21: the translation agent's one-shot drivers. `generate_chunk_1.py`,
+# `generate_chunk8.py`, `generate_output_ch11_part1.py` and `test_brahmasphuta_trans.py` were
+# DELETED (every string they carry is already in the corpus, and they hardcode another agent's
+# scratch paths). The Panchasiddhantika set is kept out of git but not deleted: 380 of its 388
+# entries are applied, and the other 8 address verses the digitisation does NOT hold
+# (ch4 24/35, ch8 7, ch13 5/15/34, ch15 11, ch18 63) -- applying those would invent verses (G31).
+/generate_*.py
+Siddhanta/Panchasiddhantika/*.py
 scripts/translate_*.py
 scripts/retranslate_*.py
 scripts/apply_translations.py
@@ -58,3 +66,9 @@ scripts/build_hindi_translations.py
 # REPLACE .venv rather than coexist with it. Neither belongs in git.
 .venv/
 .venv-corpus/
+
+# 2026-09-23: texts that reached the corpus tree and are not fit to serve. Kept, not
+# deleted, so the evidence survives; out of git because they are defects, not corpus.
+# The leading dot is load-bearing -- every corpus walker skips dot-prefixed components,
+# so nothing can ingest them by accident. See .quarantine/README.md and GOTCHAS G62.
+/.quarantine/
