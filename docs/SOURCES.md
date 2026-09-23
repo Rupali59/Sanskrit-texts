@@ -1399,7 +1399,9 @@ record that the move happened. The two non-sources (the Kalyāṇ essay, the Pā
 left in `~/Downloads`.
 
 **Six more PDFs sat in `~/Downloads`. Checked 2026-09-23: all six are BYTE-IDENTICAL to
-sources already staged.** They are re-downloads, not acquisitions.
+sources already staged.** They are re-downloads, not acquisitions. **Deleted from `~/Downloads` the
+same day, 156 MB, each one gated on its staged counterpart being present and hash-matching at
+the moment of deletion** — the staged copy under `sanskrit-texts-sources/` is now the only one.
 
 ```sh
 for pair in …; do md5 -q "$dl" ; md5 -q "$staged"; done   # 6 of 6 matched
