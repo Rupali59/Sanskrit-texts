@@ -1320,3 +1320,64 @@ witness for proofreading Devanāgarī** we already hold — the use `CANONICAL_C
 so the licence question does not arise, and it does not touch G6 because no commentary enters
 the corpus. Māṇḍūkya itself needs nothing: **12 verses against canonical 12, authority `firm`**
 (Deussen vol.2 pp.605–637).
+
+## Supplied 2026-09-23 — six PDFs, three of them the Jaimini commentaries
+
+Rupali supplied six files after the Jaimini search recorded all three commentaries as
+`UNSOURCED`. **Three are the wanted works, one is a reference acquisition, two are not what
+their names suggest.** Every identification below is from the file itself, not its filename —
+which mattered, because the filenames misled twice.
+
+| file | what it actually is | verdict |
+|---|---|---|
+| `Jaimini Sutra with Vyakhya - Neelkanth _882_Gha_Alm_5_Shlf_1…pdf` | **Nīlakaṇṭha's Subodhinī**, Jammu MS 882-घ | **wanted** |
+| `Jaimini Sutra Vritti Subodhini of Sarveshvarananda…pdf` | **Nīlakaṇṭha's Subodhinī**, printed 1947, adhyāya 3 | **wanted** |
+| `130369490-Kalpa-lataa-in-Astrology.pdf` | **Somanātha's Jyotiṣa Kalpalatā**, stabaka 1 | **wanted** |
+| `2015.202757.Jyotihsastra_text.pdf` | **David Pingree, _Jyotiḥśāstra_** | **reference** |
+| `ved_vedang_gp_22.pdf` | Hindi essay `वेदोंमें ज्योतिष`, Kalyāṇ Veda-kathāṅka pp.198–199 | no |
+| `51-31-Pradip.Mandal.pdf` | Pāṇinian grammar paper on kāraka-vibhakti | no |
+
+### The two witnesses of the Subodhinī are complementary, and that is the useful part
+
+The **Jammu MS** carries the ṭīkā only `द्वितीयाध्यायपर्यंत` — as far as adhyāya 2. The **1947
+printed edition** is `तृतीयोऽध्यायः` — adhyāya 3, with a Hindi translation. Between them,
+adhyāyas 1–3. Neither alone is the whole work and neither duplicates the other.
+
+Both are **image-only**. The MS yields 207 characters across three pages and all of it is the
+CC-0 watermark; the printed edition yields nothing. OCR is the whole of the remaining work, and
+`rule:discernment-checks` applies to whatever it produces — this corpus has G31 precisely
+because a clean-looking Devanāgarī file proves nothing about what it contains.
+
+### Two filename traps, and I fell into the second one
+
+**`इति हि ब्राह्मणम्` was not the last of these.** Sanskrit sources collide on titles (G26) and,
+it turns out, on **roles**:
+
+1. **`51-31-Pradip.Mandal.pdf`** is a *kāraka* paper — but Pāṇini's kārakas, not Jaimini's. It
+   cites `कर्तृकरणयोस्तृतीया` (Aṣṭādhyāyī 2.3.18). The collision is on a technical **term**, one
+   level below a title.
+2. **`Subodhini of Sarveshvarananda`** — I read "of X" as authorship and recorded in
+   `INVENTORY.md` that the archive.org copy is *"Sarveśvarānanda's, not Nīlakaṇṭha's — do not
+   acquire it as this row."* The title page says `अनुवादकः` (**translator**) for Sarveśvarānanda
+   and `संशोधकः` (**editor**) for Revārāma Śarmā. **The commentary is the Subodhinī, and the
+   Subodhinī is Nīlakaṇṭha's** — which the Jammu wrapper independently states
+   (`सुबोधिनी व्याख्या · कर्ता नीलकंठः`).
+
+   So a warning meant to prevent acquiring the wrong text was itself telling the reader to skip
+   the right one. **A library title names contributors in several roles, and only the script
+   says which.** Open the title page.
+
+### Pingree's `Jyotiḥśāstra` — acquired as REFERENCE, not as a corpus text
+
+`archive.org/details/in.ernet.dli.2015.202757`, 154pp, `Author: David Pingree`. This is the
+standard bibliographic survey of Sanskrit astral literature, and it is the right instrument for
+exactly the questions this corpus keeps asking by web search — which recensions exist, which
+commentaries, what survives. Its OCR is unusable (`s'-frrx") ’■■ A`), so it is for a human to
+read, not a pipeline to parse. Same posture as `brahmasphuta_siddhanta` §"acquired as REFERENCE,
+deliberately not a corpus text".
+
+### Where the files are
+
+All six in `~/Downloads` as supplied. **Nothing has been moved into
+`../sanskrit-texts-sources/` yet** — that is the next step for the three wanted works, and it
+takes the mirrored-path discipline G15 records (corpus and sources move together).
