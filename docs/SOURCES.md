@@ -1398,9 +1398,35 @@ corpus texts. Pingree is the first occupant.
 record that the move happened. The two non-sources (the Kalyāṇ essay, the Pāṇini paper) were
 left in `~/Downloads`.
 
-**Also sitting in `~/Downloads` and NOT assessed here**, noticed in passing and worth a look
-because two of them bear on quarantined or refused rows: `2015.489052.Deva-Keralam.pdf`,
-`Deva-Keralam-3-Chandrakala-Nadi-compressed.pdf` (ChandraKalaNadi is `REFUSED`, `deva_keralam`
-is quarantined), `Garga Hora Shastra Pathak K.K..pdf`, `Sage_Gargacharya_-_Garga_Hora.pdf`
-(`garga_hora` is held at chapter 1 of 3), `saravaliofkalyan01kalyuoft.pdf`,
-`2015.312156.Jataka-Parijata.pdf`.
+**Six more PDFs sat in `~/Downloads`. Checked 2026-09-23: all six are BYTE-IDENTICAL to
+sources already staged.** They are re-downloads, not acquisitions.
+
+```sh
+for pair in …; do md5 -q "$dl" ; md5 -q "$staged"; done   # 6 of 6 matched
+```
+
+| in Downloads | already staged as |
+|---|---|
+| `2015.312156.Jataka-Parijata.pdf` | `Hora/Parashari/Jatakaparijatah/raw/JatakaParijata-archiveorg-2015.312156-682pp.pdf` |
+| `2015.489052.Deva-Keralam.pdf` | `Hora/Nadi/DevaKeralam/raw/DevaKeralam-archiveorg-2015.489052-268pp-IDENTITY-UNVERIFIED.pdf` |
+| `Deva-Keralam-3-Chandrakala-Nadi-compressed.pdf` | `…/DevaKeralam-3-ChandraKalaNadi-compressed-322pp-IDENTITY-UNVERIFIED.pdf` |
+| `Garga Hora Shastra Pathak K.K..pdf` | `Hora/Parashari/GargaHora/raw/GargaHora-Pathak-Ranjan.pdf` |
+| `Sage_Gargacharya_-_Garga_Hora.pdf` | `…/GargaHora-Santhanam-English-translation-…-TRANSLATION-WITNESS-NOT-SOURCE.pdf` |
+| `saravaliofkalyan01kalyuoft.pdf` | `Hora/Parashari/Saravali/Saravali-Kalyanavarma-archiveorg.pdf` |
+
+**This is what the naming convention is for, and it paid out immediately.** I was about to
+report `Sage_Gargacharya_-_Garga_Hora.pdf` as a possible second witness that might unblock
+`garga_hora`'s missing chapters 2–3 — until the staged copy turned out to be the same file,
+already carrying the verdict in its own name: `TRANSLATION-WITNESS-NOT-SOURCE`. Re-run
+independently, `scripts/sanskrit-pdf/classify.py` agrees: tier `latin`, **207,524 Roman letters
+and zero Devanāgarī**. Somebody had already done this identification and written it where the
+next person would trip over it.
+
+**And the real gaps these would have addressed are unchanged, because the sources were never
+the blocker:** `garga_hora` holds chapter 1 of 3 because chapters 2–3 carry **no printed verse
+numbers at all** in the Pathak edition — confirmed absent in the source across two independent
+OCR passes, not lost in processing. A third pass over the same bytes cannot fix that.
+
+`classify.py` on the other five: all `no-text` — image scans, 0 characters after stripping page
+separators, `pdfimages` reporting image content. G3's exact signature, and the reason a byte
+count of "5 characters for 5 pages" is one form-feed per page rather than a text layer.
