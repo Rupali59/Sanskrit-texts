@@ -31,10 +31,10 @@ from sanskrit_texts.structure_checks import (
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 
-# `kaushitaki_upanishad` was REPAIRED 2026-09-23 and is deliberately no longer listed — the
-# ratchet's whole point is that a repair makes it pass without anyone editing the expected set.
-# `kaivalya_upanishad` still carries TWO colophon records and is awaiting a recension decision.
-KNOWN = {"kaivalya_upanishad"}
+# EMPTY as of 2026-09-23: both live instances were repaired, so the ratchet now guards a clean
+# corpus. That is the shape it was built for — a repair empties it without anyone editing the
+# expected set, and the next text converted wrong re-fills it.
+KNOWN: set[str] = set()
 
 # The ratchet keys on the CERTAIN hits only -- those whose colophon names a division number
 # lower than the chapter holding it. Widening the detector from chapters to verses immediately

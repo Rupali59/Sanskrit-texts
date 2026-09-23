@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 66 texts · 954 chapters · 98,141 shlokas · 14 categories** — derived 2026-09-23 by `scripts/check_inventory.py`, after four unregistered texts left the corpus: `deva_keralam` and `dharmasindhu` quarantined, `taittiriya_brahmana` and `taittiriya_aranyaka` handed to Youvan as a second witness (Brāhmaṇa and Āraṇyaka are Youvan's scope). This line read 70 texts · 969 chapters · 100,734 shlokas · 15 categories from 2026-09-17, when the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check.
+**Totals: 66 texts · 953 chapters · 98,141 shlokas · 14 categories** — derived 2026-09-23 by `scripts/check_inventory.py`, after four unregistered texts left the corpus: `deva_keralam` and `dharmasindhu` quarantined, `taittiriya_brahmana` and `taittiriya_aranyaka` handed to Youvan as a second witness (Brāhmaṇa and Āraṇyaka are Youvan's scope). This line read 70 texts · 969 chapters · 100,734 shlokas · 15 categories from 2026-09-17, when the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -110,7 +110,7 @@ titles at all — so there is nothing to separate.
 | `mandukya_upanishad` | [`Upanishad/atharvaveda/Mandukya`](../Upanishad/atharvaveda/Mandukya) | 1 | 12 | 100% | firm |
 | `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 3 | 65 | 100% | **RE-PARSED 2026-09-02** — was 7 flat chapters mis-numbered by one. Now 3 muṇḍakas × 2 khaṇḍas, all six exactly canonical (9/13/10/11/10/11 = 64), plus the śānti as `0.1`. |
 | `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 100% | range |
-| `kaivalya_upanishad` | [`Upanishad/krishna-yajurveda/Kaivalya`](../Upanishad/krishna-yajurveda/Kaivalya) | 3 | 24 | 100% | firm |
+| `kaivalya_upanishad` | [`Upanishad/atharvaveda/Kaivalya`](../Upanishad/atharvaveda/Kaivalya) | 2 | 24 | 92% | firm |
 | `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 18% | range |
 | `mahanarayana_upanishad` | [`Upanishad/krishna-yajurveda/Mahanarayana`](../Upanishad/krishna-yajurveda/Mahanarayana) | 80 | 263 | 100% | uncitable |
 | `maitri_upanishad` | [`Upanishad/krishna-yajurveda/Maitri`](../Upanishad/krishna-yajurveda/Maitri) | 9 | 99 | 100% | uncitable |

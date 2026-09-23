@@ -78,7 +78,7 @@ The converter gates differently per tier. This is the third authority tier along
 | Kena | **35** | 35 | firm | Deussen pp.207–213 | |
 | Māṇḍūkya | **12** | 12 | firm | Deussen vol.2 pp.605–637 | |
 | Śvetāśvatara | **113** | 113 | firm | Hume 1921 pp.394–411 | 110 main + 3 epilogue |
-| Kaivalya | **24** | 24 | firm | Deussen pp.791–795; Aiyar pp.31–32 | Atharva recension; a KYV recension has 26 |
+| Kaivalya | **24** | 24 | firm | Deussen pp.791–795; Aiyar pp.31–32 | Atharva recension; a KYV recension has 26; **the file sat under `krishna-yajurveda/` until 2026-09-23** while this column said Atharva — corrected, and the source's own closing line `इत्यथर्ववेदीया कैवल्योपनिषत्समाप्ता` settles it |
 | Brahmabindu | **22** | 22 | firm | Ayyangar 1938 pp.17–22 | Adyar recension; Deussen's has 38 |
 | Yogatattva | **142** | 142 | firm | Ayyangar 1938 pp.301–325 | Long/Telugu recension; short one has 15 |
 | Chāndogya | **627** | 627–628 | range | 154-khaṇḍa structure cited; totals are not | In range |
