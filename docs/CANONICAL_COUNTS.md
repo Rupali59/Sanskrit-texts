@@ -907,6 +907,11 @@ fails `DOTTED` and all three of `HALF_SHLOKA` / `DEVANAGARI_SUFFIXED` / `SUB_NUM
 **So this is a corpus-wide key-schema choice, not a parsing bug** — astroacharya's `@source`
 citations resolve against these keys. Left for Rupali.
 
+> **RESOLVED 2026-09-17** (G64, sanskrit-texts `ef81231`). The labels now follow the edition's own
+> citation: the Paribhāṣā is `Paribh.1`–`Paribh.119`, a NAMED section, not `8.1.1`–`8.1.119`. The
+> depth problem this paragraph describes turned out to be the same defect as every other mixed-depth
+> case: the converter kept a div's number and dropped its name. See the per-text caveats below.
+
 ### The same question is a LIVE DEFECT in committed Caraka
 
 Caraka's 8 `level3` divs are the **pādas** of Cikitsāsthāna adhyāyas 1 and 2 (Rasāyana,
@@ -948,6 +953,19 @@ edition.
 Gītikā 13, Gaṇita 33, Kālakriyā 25, Gola 50. **Edition digitised:** Clark, W. E. (ed. & tr.),
 *The Āryabhaṭīya of Āryabhaṭa*, Chicago UP, 1930; cross-checked against Shukla, K. S. &
 Sarma, K. V., INSA New Delhi, 1976. Composed 499 CE at Kusumapura, Āryabhaṭa aged 23.
+
+> **AMENDED 2026-09-21.** The held text is now **18 chapters / 386 shlokas** (re-imported
+> `805fd56`); the 166 above is the count of the *deleted fabrication* this entry was written
+> against, kept because the 18-chapter breakdown is still the canonical claim to check against.
+> `structure` declares no `expected_verses` and no `count_authority`.
+>
+> **14 verse numbers are absent from the digitisation across 7 chapters** — ch3 `1,3,14,24,27` ·
+> ch4 `24,35,47` · ch5 `4` · ch8 `7` · ch13 `5,15,34` · ch15 `11` · ch18 `63` — so a chapter's
+> verse count is below its maximum label. The translation agent's (gitignored)
+> `Siddhanta/Panchasiddhantika/ch*.py` carry English and Hindi for **8 of those 14**, written as
+> if the verses existed. **They were NOT applied**: the Sanskrit is not held, and writing a
+> translation against an absent verse is how G31 happened here the first time. 380 of the
+> scripts' 388 entries were already applied to the corpus.
 
 **`panchasiddhantika`** — 18 chapters / **166** shlokas, re-verified 2026-09-02
 (18·12·10·8·8·10·8·9·8·8·8·8·9·8·8·8·8·10). **Edition digitised:** Thibaut, G. & Dvivedī, S.,
@@ -1158,6 +1176,48 @@ Praśna→Paṭala→Khaṇḍa→sūtra, so `1.1.1` is a *correct citation*; th
 onto it — 219 bare-integer records and 15 literal `X.X.21` placeholders, the digitiser
 recording "prefix unknown". **`apastamba_paribhasha_sutra` is equally broken, not a minor
 sibling:** every integer 1–53 is reused as `number` 2–15 times, plus 7 empty-string records.
+
+### The SARIT relabel of 2026-09-17 — citations now follow each edition (G64, G66)
+
+Six SARIT texts changed label or verse count on 2026-09-17 (`ef81231`, `4104529`). The rule for all:
+**a verse's label is the edition's own TEI citation**, minus the citation prefix, the sthāna/part
+component, half-line suffixes and leading zeros. Nothing was lost: translation, draft and tag values
+are identical to before, and the Sanskrit letters are identical except for leaked citation text
+removed from Aṣṭāṅgahṛdaya.
+
+**`narada_smriti`** — 931 verses, unchanged count. Ch. 3 (Pariśiṣṭa) adhyāya 20 is numbered flat
+**`20.1`–`20.48`** as in Lariviere, *The Nāradasmṛti* Part One (Univ. of Pennsylvania Studies on South
+Asia v.4, 1989), verified against TITUS's transcription of that edition. It was `20.1–20.7` then
+`20.1.8 … 20.5.48`, where the middle number was SARIT's markup of the five ordeals (balance from v.8,
+fire 15, water 25, poison 32, kośa 41). Chapter titles now carry the parts: Mātṛkā ·
+Vyavahārapadāni · Pariśiṣṭam. **This resolves 41 of the "160 mixed-depth verses".**
+
+**`astanga_sangraha`** — 9,382 verses, unchanged count. Kalpasthāna adhyāya 8 is prose `8.1`–`8.33`
+followed by the edition's named **Paribhāṣā**, `Paribh.1`–`Paribh.119` (TEI `AS.Ka.Paribh.N`). The
+1888 Bombay edition (archive.org "Ashtanga Sangraha", Śaka 1810) has **no Paribhāṣā at all**;
+adhyāya 8 there ends at our 8.33. It belongs to Āṭhavale's 1980 Pune edition, which SARIT
+transcribes. **This resolves the other 119 of the 160.**
+
+**`manu_smriti`** — **2,688** (was 2,684). Four verses carried both the edition's verse and the
+bracketed `[M…]` verse outside its numbering; the bracketed ones are now their own units `M87`,
+`M207`, `M208`, `M209` in chapter 7.
+
+**`caraka_samhita`** — **9,654** (was 9,643). 11 sub-numbered units (`1.66.1`, `7.33.1`, `7.35.1` …)
+had been appended to the verse sharing their last number.
+
+**`susruta_samhita`** — **8,347** (was 8,296). 51 units split out, e.g. adhyāya 1's `8.0`–`8.8`
+prose sub-items had been appended to verses `1.0`–`1.8`.
+
+**`astanga_hridaya`** — **7,725** (was 7,443). 282 units split out in two passes: `N and M` dual
+numbers (`26-1`, `29-1`) and separately numbered stanzas printed `59ū̆` (own `<lg>`, own printed
+number), labelled as printed. 3,142 + 1,313 letters of leaked citation text (`अह्.१.२.००५…`) were
+removed from verse bodies; 0 leaks remain.
+
+**`bhela_samhita`** — unchanged, byte-identical. The collision scan's estimate of 3 merges there was
+wrong.
+
+**Still open:** the split-out units are `untranslated`. Where a merged verse had a translation or
+draft, it stayed on the unit holding the old label, and it may cover text now in a split-out unit.
 
 ## Nārada Smṛti lands — and the same fix recovered 118 Caraka units (2026-08-24)
 
