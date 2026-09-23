@@ -1376,8 +1376,31 @@ commentaries, what survives. Its OCR is unusable (`s'-frrx") ’■■ A`), so i
 read, not a pipeline to parse. Same posture as `brahmasphuta_siddhanta` §"acquired as REFERENCE,
 deliberately not a corpus text".
 
-### Where the files are
+### Where the files are — staged 2026-09-23
 
-All six in `~/Downloads` as supplied. **Nothing has been moved into
-`../sanskrit-texts-sources/` yet** — that is the next step for the three wanted works, and it
-takes the mirrored-path discipline G15 records (corpus and sources move together).
+Moved out of `~/Downloads` into the sources tree, renamed so the filename states what the file
+IS rather than where it came from (both filename traps above were caused by trusting a name):
+
+```
+Hora/Jaimini/JaiminiSubodhini/raw/
+    JaiminiSubodhini-JammuMS882gha-RaghunathaTemple-46folios.pdf          96M
+    JaiminiSubodhini-adhyaya3-Bombay1947-hindi-tr-Sarveshvarananda.pdf   160M
+Hora/Jaimini/JyotishaKalpalata/raw/
+    JyotishaKalpalata-stabaka1-Saptarishis.pdf                           2.0M
+_reference/
+    Pingree-Jyotihsastra-HIL-VI4-DLI2015.202757.pdf                       24M
+```
+
+`_reference/` is new: a place for works that inform acquisition decisions without ever becoming
+corpus texts. Pingree is the first occupant.
+
+**The sources tree is not a git repo** — it is gitignored by design, so this section is the only
+record that the move happened. The two non-sources (the Kalyāṇ essay, the Pāṇini paper) were
+left in `~/Downloads`.
+
+**Also sitting in `~/Downloads` and NOT assessed here**, noticed in passing and worth a look
+because two of them bear on quarantined or refused rows: `2015.489052.Deva-Keralam.pdf`,
+`Deva-Keralam-3-Chandrakala-Nadi-compressed.pdf` (ChandraKalaNadi is `REFUSED`, `deva_keralam`
+is quarantined), `Garga Hora Shastra Pathak K.K..pdf`, `Sage_Gargacharya_-_Garga_Hora.pdf`
+(`garga_hora` is held at chapter 1 of 3), `saravaliofkalyan01kalyuoft.pdf`,
+`2015.312156.Jataka-Parijata.pdf`.
