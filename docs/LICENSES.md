@@ -274,3 +274,38 @@ not answered. Recorded as an open decision, not treated as resolved. Options if 
 problem: keep the Wikisource verses in a sibling file with its own licence header, or
 re-source those 24 verses from a public-domain edition (Aufrecht for the Rigveda, Whitney
 for the Atharvaveda).
+
+---
+
+## 5 · Shlokam — `shlokam.org`
+
+**Licence: NONE STATED. Added 2026-09-23 at Rupali's request, with the terms unestablished
+and that recorded rather than smoothed over.**
+
+**What was checked, so the absence is attributable** (`rule:discernment-checks` §2 — "no
+licence" and "did not look" must be different facts):
+
+| checked | result |
+|---|---|
+| `shlokam.org/` homepage, incl. footer | no copyright, licence or reuse statement |
+| `shlokam.org/about/` | HTTP 404 |
+| `shlokam.org/info/about` — the real about page | no copyright, licence, reuse permission or attribution requirement |
+| a page-level check on `shlokam.org/text/mandukya-upanishad.htm` | none |
+| WHOIS | operator identity behind a privacy service |
+
+The site's own description of itself, verbatim and in full — this is the only statement of
+intent it makes:
+
+> "Shlokam.org is an ongoing act of seva, offered in humble gratitude for these precious
+> teachings."
+
+**Seva is a statement of motive, not a grant of rights.** Nothing on the site says what may
+be copied, by whom, or on what terms.
+
+**So the default applies: all rights reserved.** Unlike every other source in this file, there
+is no licence text to record verbatim — which is why this section records the *search* instead.
+That is the honest form. Compare §2, where Sanskrit Documents' non-open terms are quoted
+exactly because a paraphrase would not be a licence.
+
+**This section does not clear the source for ingestion.** See `SOURCES.md` §Shlokam for what it
+offers and the two separate reasons nothing has been taken from it.
