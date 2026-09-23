@@ -18,6 +18,30 @@ consumed by **astroacharya**'s from-canon compute — each primitive cites
 | [`DECISIONS.md`](DECISIONS.md) | Pointer — the log lives at `propagation/state/sanskrit-texts/DECISIONS.md`. |
 | [`plans/`](plans/) · [`plans/README.md`](plans/README.md) | Digitization / ingestion plans, and the convention for filing them. |
 
+### The store, and the translation pipeline
+
+Added 2026-09-23. **These thirteen existed and this table did not list them**, while
+`../CLAUDE.md` asserted that this file "indexes every other doc" — so over half the tree was
+invisible from the one page meant to orient a reader to it. Seven had no inbound reference from
+anywhere in the repo at all.
+
+| Doc | What |
+|-----|------|
+| [`DATABASE.md`](DATABASE.md) | The Postgres store — schema, importer, exporter, the publication gate, what is excluded. |
+| [`TRANSLATION_CONTRACT.md`](TRANSLATION_CONTRACT.md) | **Normative.** What a translation must be, and what must never be written into a served field. |
+| [`TRANSLATION_BACKLOG.md`](TRANSLATION_BACKLOG.md) | The outstanding work, split into three jobs that must not be handed out as one. Counts derived by `scripts/translation_backlog.py`. |
+| [`TRANSLATION_AUDIT.md`](TRANSLATION_AUDIT.md) | **Generated** by `scripts/translation_audit.py` — per-text defect table. Regenerate, never hand-edit. |
+| [`SPOT_CHECK.md`](SPOT_CHECK.md) | **Generated** by `scripts/spot_check.py` — sampled verses for human review. |
+| [`TERM_LEDGER.md`](TERM_LEDGER.md) | Term-by-term rendering decisions, so one Sanskrit term is not translated four ways. |
+| [`ENTITY_ROOTS.md`](ENTITY_ROOTS.md) | Entity root forms used by `scripts/entity_roots.py`. |
+| [`RELATION_MARKERS.md`](RELATION_MARKERS.md) | The anchored marker grammar (`=योगे`, `=तुङ्गे`) behind `scripts/relation_markers.py`. |
+| [`FEATURE_EXTRACTION_METHOD.md`](FEATURE_EXTRACTION_METHOD.md) | How `scripts/tag_features.py` derives features, and what it refuses. |
+| [`PHALA_CATEGORIES.md`](PHALA_CATEGORIES.md) | The phala category set applied by `scripts/apply_phala.py`. |
+| [`EMBEDDING_EVAL.md`](EMBEDDING_EVAL.md) | Embedding evaluation method and results. |
+| [`RETRIEVAL_EVAL.md`](RETRIEVAL_EVAL.md) | Retrieval evaluation — **frozen 2026-09-15, BPHS only**; it says so itself and does not generalise. |
+| [`AUDIT-2026-09-23.md`](AUDIT-2026-09-23.md) | Audit of the 80 non-corpus files — what was fixed, what is still open, each with the command that reproduces it. |
+| [`archive/`](archive/) | Drained state and superseded records, kept verbatim with their own dated headers. |
+
 Repo orientation: [`../README.md`](../README.md) + [`../CLAUDE.md`](../CLAUDE.md).
 Hazards that have already cost time:
 [`GOTCHAS.md`](../../propagation/state/sanskrit-texts/GOTCHAS.md).

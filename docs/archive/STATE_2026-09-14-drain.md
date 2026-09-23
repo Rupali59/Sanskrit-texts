@@ -231,7 +231,7 @@ Translating 4,737 fragmentary records would produce translations of the wrong un
 
 ### 2026-08-18 — one format; sources and translations separated
 
-Rationale in [`docs/DECISIONS.md`](./DECISIONS.md) 2026-08-18. What is now true:
+Rationale in [`docs/DECISIONS.md`](../DECISIONS.md) 2026-08-18. What is now true:
 
 - **Every digitised text is one file**: `<Category>/<School?>/<Text>/<Text>.json`.
   230 JSON files → **35**. Data unchanged and proved: chapters **589 → 589**, shlokas
@@ -263,7 +263,7 @@ defines a text as a dir holding JSON. Listed in `CLAUDE.md`. `GargaSamhita` and
 
 ### 2026-08-17 — corpus normalisation + BPHS consolidation
 
-Full rationale in [`docs/DECISIONS.md`](./DECISIONS.md) (three entries dated 2026-08-17).
+Full rationale in [`docs/DECISIONS.md`](../DECISIONS.md) (three entries dated 2026-08-17).
 Summary of what is now true:
 
 - **BPHS is one file** (`BrihatParasharaHoraShastra.json` + `.md`), 97 chapters, 3,937

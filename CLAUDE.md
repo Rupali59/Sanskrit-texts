@@ -90,7 +90,7 @@ Every `.json` file in this repo uses this schema — no exceptions:
 
 ## text_id registry
 
-**[`docs/INVENTORY.md`](./docs/INVENTORY.md) is the registry**, and [`docs/README.md`](./docs/README.md) indexes every other doc — every text's `text_id`, path, chapter and shloka
+**[`docs/INVENTORY.md`](./docs/INVENTORY.md) is the registry**, and [`docs/README.md`](./docs/README.md) indexes every other doc (`plans/` and `archive/` as directories) — every text's `text_id`, path, chapter and shloka
 counts, translation state and count-authority tier, in one table. **Per-text caveats are in
 [`docs/CANONICAL_COUNTS.md`](./docs/CANONICAL_COUNTS.md)** §"Per-text caveats"; they were
 inline here until 2026-08-24 and took this file 58 lines over its cap.

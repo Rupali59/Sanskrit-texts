@@ -161,9 +161,24 @@ After cutover the exporter WRITES the tracked JSON, so its serialization is a co
 
 ## What is deliberately excluded
 
-`sanskrit_texts/exclusions.py` names four texts the importer skips, with the reason inline.
-Three contain no genuine digitised text. `check_inventory.py` deliberately does not read that
-list — its drift row is the standing record that they are here and unresolved.
+**Nothing, since 2026-09-23.** `sanskrit_texts/exclusions.py`'s `EXCLUDED_TEXTS` is empty, and
+empty is the goal state rather than a gap: an exclusion is a hazard sitting in the corpus tree,
+not a resolution, so the right end for one is that the text **leaves**. The four it named (G62)
+did — `deva_keralam` and `dharmasindhu` to `.quarantine/`, `taittiriya_brahmana` and
+`taittiriya_aranyaka` to Youvan on scope. Derive rather than trust this paragraph:
+`python3 -c "from sanskrit_texts.exclusions import EXCLUDED_TEXTS; print(EXCLUDED_TEXTS)"`.
+
+**This section carried a sentence that was wrong in two ways until 2026-09-23**, and both are
+worth keeping because the second one recurred:
+
+- It said the four texts "are here and unresolved". They are not here.
+- It said *"`check_inventory.py` deliberately does not read that list — its drift row is the
+  standing record."* `check_inventory.py:115` **does** import `EXCLUDED_TEXTS`, for the
+  corpus-vs-**database** comparison, where an excluded text is an expected absence. What it does
+  not consult it for is the corpus-vs-**registry** comparison, which is the one that sentence was
+  really about. `exclusions.py`'s own docstring corrected this on 2026-09-23; this file was not
+  updated in the same pass and went on asserting the uncorrected version — the same
+  one-file-moves-and-its-neighbour-does-not shape as G62 itself.
 
 ## Known and tracked
 

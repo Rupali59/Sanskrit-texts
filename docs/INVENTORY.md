@@ -327,7 +327,10 @@ for it. `python3 scripts/check_inventory.py` fails if this table and the corpus 
 against the Bṛhat Saṃhitā already held in `Samhita/BrihatSamhita/`: **no durmuhūrta verse
 exists there.** The attribution is unbacked. Of the other two schools, Muhūrta Cintāmaṇi is
 now held (`muhurta_chintamani`, 206 shlokas — but see its numbering caveat in
-[`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md)) and Dharmasindhu is still to be sourced.
+[`CANONICAL_COUNTS.md`](CANONICAL_COUNTS.md)) and **Dharmasindhu is `REFUSED`** — see its row in
+§"Acquisition status" above, which is authoritative. (This line read "still to be sourced" until
+2026-09-23, contradicting that row from 17 lines away: a source *was* obtained, digitised, and
+refused on the text. Two claims about one fact in one file.)
 
 `Nirvana` (Upaniṣad) is a deliberate exclusion rather than a gap: it is prose aphorisms with
 no verse numbering, so there is nothing for a verse-numbered schema to hold.
