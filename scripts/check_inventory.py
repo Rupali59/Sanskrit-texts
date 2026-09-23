@@ -340,19 +340,30 @@ def main() -> int:
             f"{loss} lost to the seeder's (chapter, shloka) dedupe"
             + (f" — {', '.join(f'{t} {n}' for n, t in worst)}" if worst else "")
         )
-        # SC-001, reported not gated — same posture as the dedupe-loss line above. These are
-        # real defects in committed data, so hiding them would be wrong; but they are not
-        # registry drift, and failing the gate on them would make `make check` red until a
-        # human has read the texts against an edition. Derive, never restate: this printed
-        # 2 on 2026-09-23 (kaushitaki_upanishad, kaivalya_upanishad).
-        orphans = _colophon_chapters(root)
+        # SC-001, reported not gated — same posture as the dedupe-loss line above. Real
+        # defects in committed data, so hiding them would be wrong; but they are not registry
+        # drift, and failing the gate would make `make check` red until a human has read the
+        # texts against an edition.
+        #
+        # ONLY ORDINAL-BEARING HITS ARE REPORTED, and that narrowing is the whole lesson of
+        # the widening that produced it. A colophon names the division it CLOSES, so one
+        # reading `प्रथमः` inside chapter 2 was drawn a unit early — that is discriminable.
+        # A bare division noun with NO ordinal is not: `apastamba_dharma_sutra` 2.5.11 is
+        # `इति हि ब्राह्मणम्`, "for thus says the Brāhmaṇa", a genuine sūtra between 5.10 and
+        # 5.12 that matches only because `ब्राह्मणम्` is also a division noun.
+        #
+        # Printing it anyway made every clean run carry one permanent false line, which is
+        # how a report trains its reader to skim past the real ones. `colophon_only_chapters`
+        # still RETURNS the ordinal-less candidates for a human sweep — the narrowing is in
+        # what this script asserts, not in what the detector can see.
+        #
+        # Derive, never restate: printed 2 on 2026-09-23 (kaushitaki, kaivalya), 0 after both
+        # were repaired.
+        orphans = [o for o in _colophon_chapters(root) if o.ordinal_is_lower]
         if orphans:
-            certain = [o for o in orphans if o.ordinal_is_lower]
             print(
                 f"{len(orphans)} colophon-only chapter(s) — SC-001, a chapter boundary drawn "
-                f"AT the colophon instead of after it"
-                + (f"; {len(certain)} certain (the colophon closes a LOWER-numbered division)"
-                   if certain else "")
+                f"AT the colophon instead of after it (each closes a LOWER-numbered division)"
             )
             for o in orphans:
                 print(f"  {o}")

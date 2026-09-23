@@ -152,3 +152,28 @@ def test_a_citation_formula_is_not_mistaken_for_a_colophon() -> None:
         "a citation formula naming no ordinal was classed CERTAIN — the ratchet would now "
         "fail on a text that is not broken"
     )
+
+
+def test_check_inventory_does_not_report_ordinal_less_candidates() -> None:
+    """`check_inventory` reports only what it can discriminate, and this pins the narrowing.
+
+    The detector deliberately still RETURNS ordinal-less candidates — see
+    `test_a_citation_formula_is_not_mistaken_for_a_colophon` — but the script must not print
+    them. `apastamba_dharma_sutra` 2.5.11 is `इति हि ब्राह्मणम्`, a genuine sūtra, and printing
+    it made every clean run carry one permanent false line. A report that always shows one
+    thing the reader must learn to ignore is training them to skim past the real ones.
+    """
+    import subprocess
+    import sys
+
+    r = subprocess.run(
+        [sys.executable, "scripts/check_inventory.py"],
+        cwd=REPO, capture_output=True, text=True, timeout=300,
+    )
+    assert r.returncode == 0, f"check_inventory failed:\n{r.stdout}\n{r.stderr}"
+    # Control: it really did look at the corpus, so the assertions below are not vacuous.
+    assert "registry rows" in r.stdout, f"unexpected output:\n{r.stdout}"
+    assert "apastamba" not in r.stdout.lower(), (
+        "check_inventory is reporting an ordinal-less candidate again. `इति हि ब्राह्मणम्` is a "
+        "real sūtra; a colophon names the division it closes, a citation formula names none."
+    )
