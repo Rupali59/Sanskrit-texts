@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 66 texts · 955 chapters · 98,142 shlokas · 14 categories** — derived 2026-09-23 by `scripts/check_inventory.py`, after four unregistered texts left the corpus: `deva_keralam` and `dharmasindhu` quarantined, `taittiriya_brahmana` and `taittiriya_aranyaka` handed to Youvan as a second witness (Brāhmaṇa and Āraṇyaka are Youvan's scope). This line read 70 texts · 969 chapters · 100,734 shlokas · 15 categories from 2026-09-17, when the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check.
+**Totals: 66 texts · 954 chapters · 98,141 shlokas · 14 categories** — derived 2026-09-23 by `scripts/check_inventory.py`, after four unregistered texts left the corpus: `deva_keralam` and `dharmasindhu` quarantined, `taittiriya_brahmana` and `taittiriya_aranyaka` handed to Youvan as a second witness (Brāhmaṇa and Āraṇyaka are Youvan's scope). This line read 70 texts · 969 chapters · 100,734 shlokas · 15 categories from 2026-09-17, when the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -119,7 +119,7 @@ titles at all — so there is nothing to separate.
 | `taittiriya_upanishad` | [`Upanishad/krishna-yajurveda/Taittiriya`](../Upanishad/krishna-yajurveda/Taittiriya) | 31 | 51 | 100% | unit_mismatch |
 | `aitareya_upanishad` | [`Upanishad/rigveda/Aitareya`](../Upanishad/rigveda/Aitareya) | 5 | 33 | 100% | range |
 | `atmabodha_upanishad` | [`Upanishad/rigveda/Atmabodha`](../Upanishad/rigveda/Atmabodha) | 2 | 31 | 100% | uncitable |
-| `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 5 | 51 | 100% | range |
+| `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 4 | 50 | 100% | range |
 | `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 627 | 100% | range |
 | `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 100% | firm |
 | `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 431 | 100% | firm |

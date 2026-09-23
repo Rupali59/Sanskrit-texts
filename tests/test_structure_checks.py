@@ -31,11 +31,16 @@ from sanskrit_texts.structure_checks import (
 
 REPO = pathlib.Path(__file__).resolve().parent.parent
 
-# The two live instances as of 2026-09-23. NOT repaired here: kaushitaki's stray record
-# carries a real English translation against a colophon Sanskrit, and kaivalya's chapter 2 is
-# separately missing verses 21 and 23 — both need a human reading an edition, and guessing
-# would invent text (G31).
-KNOWN = {"kaushitaki_upanishad", "kaivalya_upanishad"}
+# `kaushitaki_upanishad` was REPAIRED 2026-09-23 and is deliberately no longer listed — the
+# ratchet's whole point is that a repair makes it pass without anyone editing the expected set.
+# `kaivalya_upanishad` still carries TWO colophon records and is awaiting a recension decision.
+KNOWN = {"kaivalya_upanishad"}
+
+# The ratchet keys on the CERTAIN hits only -- those whose colophon names a division number
+# lower than the chapter holding it. Widening the detector from chapters to verses immediately
+# turned up `apastamba_dharma_sutra` 2.5.11, `इति हि ब्राह्मणम्` ("for thus says the Brāhmaṇa"),
+# which is a real sūtra between 5.10 and 5.12 and matches only because `ब्राह्मणम्` is also a
+# division noun. It names no ordinal; all three real instances do. That is the discriminator.
 
 
 def _chapter(number, verses):
@@ -116,7 +121,7 @@ def test_no_NEW_colophon_chapter_in_the_live_corpus() -> None:
             continue
         if not isinstance(doc, dict) or "chapters" not in doc or "text_id" not in doc:
             continue
-        if colophon_only_chapters(doc):
+        if [c for c in colophon_only_chapters(doc) if c.ordinal_is_lower]:
             offenders.add(doc["text_id"])
 
     # Control: if the walker found no texts at all, every assertion here is vacuous.
@@ -127,4 +132,23 @@ def test_no_NEW_colophon_chapter_in_the_live_corpus() -> None:
         f"NEW colophon-only chapter(s) in {sorted(new)} — SC-001 has recurred. The converter "
         f"drew a chapter boundary AT a colophon instead of after it; see "
         f"scripts/sanskrit-convert/ISSUES.md SC-001."
+    )
+
+
+def test_a_citation_formula_is_not_mistaken_for_a_colophon() -> None:
+    """The false positive the widening produced, pinned so a future widening cannot re-admit it.
+
+    `इति हि ब्राह्मणम्` is Āpastamba's citation formula and a genuine sūtra. It matches the
+    tail pattern (`ब्राह्मणम्` is a division noun) and must never be classed as certain,
+    because it names no division number.
+    """
+    doc = _doc("apastamba_like", [
+        _chapter(1, [_verse("5.10", "क ख ग")]),
+        _chapter(2, [_verse("5.11", "इति हि ब्राह्मणम्"), _verse("5.12", "घ ङ च")]),
+    ])
+    found = colophon_only_chapters(doc)
+    assert found, "the detector should still surface it for a human"
+    assert not any(c.ordinal_is_lower for c in found), (
+        "a citation formula naming no ordinal was classed CERTAIN — the ratchet would now "
+        "fail on a text that is not broken"
     )

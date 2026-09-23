@@ -78,33 +78,53 @@ def colophon_ordinal(text: str) -> int | None:
     return None
 
 
-def colophon_only_chapters(doc: dict[str, Any]) -> list[ColophonChapter]:
-    """Every one-verse chapter in `doc` whose single verse ENDS in a colophon.
+#: A verse whose `text` is a bare division marker and nothing else. 24 characters is
+#: comfortably above the longest real colophon seen here (`इति चतुर्थः प्रपाठकः`, 20) and far
+#: below any actual verse.
+BARE_COLOPHON_MAX = 24
 
-    Returns the SC-001 candidates. A caller wanting only the certain ones filters on
-    `ordinal_is_lower`; the rest are worth a human glance but may be legitimate (a genuinely
-    one-verse final division exists in some texts).
+
+def colophon_only_chapters(doc: dict[str, Any]) -> list[ColophonChapter]:
+    """Every verse in `doc` that is a bare colophon standing where a verse should be.
+
+    **Widened 2026-09-23, and the first version would have missed a real instance.** It looked
+    only at one-verse chapters, because that is the shape `tejobindu_upanishad` and
+    `kaushitaki_upanishad` present. `kaivalya_upanishad` presents the other one: the boundary
+    was drawn at the colophon, the colophon landed at the HEAD of the next chunk, and that
+    chunk then accumulated three more verses -- so the chapter has four verses and the bug is
+    invisible to a one-verse rule. It was found by reading the text, not by the check, which
+    is the whole argument for widening rather than adding a second rule beside it.
+
+    So the rule is now about the VERSE, not the chapter: a `text` that is nothing but a
+    division marker is never a verse, wherever it sits. A colophon at the END of a real verse
+    is correct and is not flagged -- that is what a well-formed chapter looks like.
+
+    **Filter on `ordinal_is_lower` for the certain ones, and the widening is why that matters.**
+    Broadening from chapters to verses immediately produced a false positive:
+    `apastamba_dharma_sutra` 2.5.11 is `इति हि ब्राह्मणम्` — *"for thus says the Brāhmaṇa"*,
+    Āpastamba's citation formula and a genuine sūtra, sitting between 5.10 and 5.12 in a
+    496-verse chapter. It matches the tail pattern because `ब्राह्मणम्` is also a division noun.
+
+    **The ordinal separates them cleanly, and nothing else does.** A colophon says WHICH
+    division it closes (`प्रथमः खण्डः`); a citation formula names no number. All three real
+    instances carry an ordinal lower than their own chapter; the false positive carries none.
+    Position does not discriminate — `kaivalya_upanishad`'s colophon sits at the HEAD of its
+    chapter and Āpastamba's sits in the middle of one.
     """
     out: list[ColophonChapter] = []
     for ch in doc.get("chapters") or []:
-        verses = ch.get("shlokas") or []
-        if len(verses) != 1:
-            continue
-        v = verses[0]
-        body = (v.get("text") or "").strip()
-        if not COLOPHON_TAIL.search(body):
-            continue
-        ordinal = colophon_ordinal(body)
-        # "Only a colophon" = the verse carries the marker and essentially nothing else. The
-        # threshold is deliberately generous: tejobindu's orphan was a real half-verse PLUS a
-        # colophon, and that is still the same defect -- this flag only tells the repairer
-        # whether content would be lost by deleting the record.
-        out.append(ColophonChapter(
-            text_id=doc.get("text_id", "<unknown>"),
-            chapter=ch.get("number"),
-            verse=v.get("number"),
-            colophon_ordinal=ordinal,
-            text_only_colophon=len(body) <= 24,
-            excerpt=body[-40:],
-        ))
+        for v in ch.get("shlokas") or []:
+            body = (v.get("text") or "").strip()
+            if not body or len(body) > BARE_COLOPHON_MAX:
+                continue
+            if not COLOPHON_TAIL.search(body):
+                continue
+            out.append(ColophonChapter(
+                text_id=doc.get("text_id", "<unknown>"),
+                chapter=ch.get("number"),
+                verse=v.get("number"),
+                colophon_ordinal=colophon_ordinal(body),
+                text_only_colophon=True,
+                excerpt=body,
+            ))
     return out
