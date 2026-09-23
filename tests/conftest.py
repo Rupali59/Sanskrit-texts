@@ -16,6 +16,8 @@ import pytest
 import sqlalchemy as sa
 from sqlalchemy.engine import Engine
 
+from sanskrit_texts.dsn_guard import assert_local_store
+
 # docker-compose.yml maps the container's 5432 to host 5433 — NOT 5432, which
 # ports.yml allocates to Divyansh/AuroraV3/postgres-forward.
 OWNER_DSN = os.environ.get(
@@ -85,22 +87,25 @@ def assert_truncatable(dsn: str) -> None:
     no check at all -- so exporting that variable at a real store and running `pytest`
     destroyed the corpus, with no error, because truncating is exactly what the fixture is
     for. rule:safety-flag-needs-a-test: the unsafe path must be proven UNREACHABLE, not
-    merely guarded, which is what tests/test_truncate_guard.py does.
+    merely guarded, which is what tests/test_schema_guards.py does (this docstring named a
+    `tests/test_truncate_guard.py` that has never existed -- corrected 2026-09-23).
+
+    The host/port half is `sanskrit_texts.dsn_guard.assert_local_store`, shared with
+    `make clean-db`'s preflight so the two cannot drift. The `_test` clause below is this
+    caller's own, and is the half that actually bites: the dev corpus is on the same host
+    and port.
 
     Escape hatch is explicit and loud: CORPUS_ALLOW_TRUNCATE=1.
     """
     if os.environ.get("CORPUS_ALLOW_TRUNCATE", "").strip() in ("1", "true", "yes"):
         return
-    parsed = urllib.parse.urlsplit(dsn)
-    host = (parsed.hostname or "").lower()
-    port = parsed.port
-    database = (parsed.path or "").lstrip("/")
-    if host not in LOCAL_HOSTS or port != EXPECTED_PORT:
+    database = (urllib.parse.urlsplit(dsn).path or "").lstrip("/")
+    try:
+        assert_local_store(dsn, "TRUNCATE")
+    except RuntimeError as e:
         raise RuntimeError(
-            f"refusing to TRUNCATE a non-local corpus store: host={host!r} port={port!r}. "
-            f"Only {sorted(LOCAL_HOSTS - {''})} on port {EXPECTED_PORT} may be truncated. "
-            "Set CORPUS_ALLOW_TRUNCATE=1 if you genuinely mean to empty this database."
-        )
+            f"{e} Set CORPUS_ALLOW_TRUNCATE=1 if you genuinely mean to empty this database."
+        ) from None
     if not database.endswith(TEST_DB_SUFFIX):
         raise RuntimeError(
             f"refusing to TRUNCATE database {database!r}: the suite only empties a database "

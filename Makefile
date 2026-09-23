@@ -54,5 +54,6 @@ test:  ## the suite, with a missing database treated as a FAILURE rather than a 
 check:  ## registry vs corpus reconciliation
 	python3 scripts/check_inventory.py
 
-clean-db:  ## drop every table and start over (local only)
+clean-db:  ## drop every table and start over — refuses non-local, asks before dropping
+	@$(PY) -m sanskrit_texts.dsn_guard --dsn "$(OWNER_DSN)"
 	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(VENV)/bin/alembic downgrade base

@@ -119,7 +119,48 @@ def corpus_files(root: pathlib.Path = REPO) -> Iterable[pathlib.Path]:
         yield path
 
 
-def load_corpus(only: set[str] | None = None) -> list[tuple[pathlib.Path, dict[str, Any]]]:
+def _unreadable(
+    path: pathlib.Path,
+    kind: str,
+    detail: str,
+    problems: list[Violation] | None,
+) -> None:
+    """Record a file that should have been a corpus text and was not readable as one.
+
+    Both channels on purpose: the list is what makes `run()` refuse to commit, the stderr
+    line is what makes a caller who passes no list still unable to lose a file in silence.
+    """
+    try:
+        name = str(path.relative_to(REPO))
+    except ValueError:
+        name = str(path)
+    v = Violation(text_id=f"<{path.stem}>", where=name, kind=kind, detail=detail)
+    if problems is not None:
+        problems.append(v)
+    print(f"UNREADABLE {name}: {kind} — {detail}", file=sys.stderr)
+
+
+def load_corpus(
+    only: set[str] | None = None,
+    problems: list[Violation] | None = None,
+) -> list[tuple[pathlib.Path, dict[str, Any]]]:
+    """Every corpus doc under `corpus_files()`, and a record of every file that was not one.
+
+    A FILE THAT CANNOT BE READ IS REPORTED, NEVER SKIPPED QUIETLY. Until 2026-09-23 this
+    swallowed `OSError` and `JSONDecodeError` with a bare `continue`: a truncated or
+    mid-write JSON simply vanished from the import, with no message, no `Violation`, and
+    exit 0. Scoped mode made it worse -- `load_corpus(only={"x"})` on a corrupt `x` returned
+    `[]`, `run()` found no violations, committed, and printed `0 texts · 0 verses`, so a
+    corrupted file was indistinguishable from a typo'd `--text` slug.
+
+    That is G8's silent-loss shape moved up one level, from the row boundary to the file
+    boundary, inside the module whose own docstring says a thing is "REFUSED, never guessed".
+    `rule:discernment-checks` §2: absence must be attributable.
+
+    Failures go to `problems` when a caller supplies one (`run()` passes `result.violations`,
+    so an unreadable file now blocks the commit unless `--allow-partial`), and ALWAYS to
+    stderr, so a caller that ignores the list still cannot be silently short-changed.
+    """
     out = []
     # When a caller names the texts it wants, a SUBSTRING test on the raw bytes decides
     # membership before the expensive parse. The corpus is ~200 MB across ~100 files and
@@ -136,9 +177,19 @@ def load_corpus(only: set[str] | None = None) -> list[tuple[pathlib.Path, dict[s
             if wanted is not None and not any(w in raw for w in wanted):
                 continue
             doc = json.loads(raw)
-        except (OSError, json.JSONDecodeError):
+        except (OSError, json.JSONDecodeError) as e:
+            _unreadable(path, type(e).__name__, str(e), problems)
             continue
-        if not isinstance(doc, dict) or "text_id" not in doc or "chapters" not in doc:
+        if not isinstance(doc, dict) or "text_id" not in doc:
+            # Genuinely not a corpus file -- the tree may hold unrelated JSON, and calling
+            # that a defect would cry wolf. Silence is correct HERE and only here.
+            continue
+        if "chapters" not in doc:
+            # But a file that HAS a text_id and no chapters is a corpus text that lost its
+            # body, which is the case the old blanket `continue` hid along with the rest.
+            _unreadable(path, "missing-chapters",
+                        f"declares text_id {doc['text_id']!r} but carries no `chapters` key",
+                        problems)
             continue
         if only is not None and doc["text_id"] not in only:
             continue
@@ -371,7 +422,10 @@ def run(dsn: str, *, only: set[str] | None, dry_run: bool,
         allow_partial: bool = False) -> Result:
     result = Result()
     engine = sa.create_engine(dsn, future=True)
-    docs = load_corpus(only)
+    # Pass the violations list: an unreadable corpus file is a violation of this run, so it
+    # reaches the same `elif result.violations and not allow_partial: rollback` gate that
+    # every other refusal does. A corrupt file no longer commits a partial import silently.
+    docs = load_corpus(only, problems=result.violations)
     for _, doc in docs:
         if doc["text_id"] in EXCLUDED_TEXTS:
             result.skipped.append(doc["text_id"])
