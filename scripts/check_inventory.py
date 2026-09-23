@@ -182,6 +182,23 @@ def check_db_vs_json(root: Path, quiet: bool) -> int:
     return 0
 
 
+def _colophon_chapters(root: Path) -> list:
+    """SC-001 candidates across the corpus. Stdlib only, so `--source json` stays dependency-free."""
+    from sanskrit_texts.structure_checks import colophon_only_chapters
+    out = []
+    for path in sorted(root.rglob("*.json")):
+        rel = path.relative_to(root)
+        if rel.parts[0] == "docs" or any(part.startswith(".") for part in rel.parts):
+            continue
+        try:
+            doc = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if isinstance(doc, dict) and "text_id" in doc and "chapters" in doc:
+            out.extend(colophon_only_chapters(doc))
+    return out
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--path", default=".", help="corpus root (default: cwd)")
@@ -323,6 +340,22 @@ def main() -> int:
             f"{loss} lost to the seeder's (chapter, shloka) dedupe"
             + (f" — {', '.join(f'{t} {n}' for n, t in worst)}" if worst else "")
         )
+        # SC-001, reported not gated — same posture as the dedupe-loss line above. These are
+        # real defects in committed data, so hiding them would be wrong; but they are not
+        # registry drift, and failing the gate on them would make `make check` red until a
+        # human has read the texts against an edition. Derive, never restate: this printed
+        # 2 on 2026-09-23 (kaushitaki_upanishad, kaivalya_upanishad).
+        orphans = _colophon_chapters(root)
+        if orphans:
+            certain = [o for o in orphans if o.ordinal_is_lower]
+            print(
+                f"{len(orphans)} colophon-only chapter(s) — SC-001, a chapter boundary drawn "
+                f"AT the colophon instead of after it"
+                + (f"; {len(certain)} certain (the colophon closes a LOWER-numbered division)"
+                   if certain else "")
+            )
+            for o in orphans:
+                print(f"  {o}")
 
     if fail:
         print(f"\nDRIFT — {len(fail)} finding(s):", file=sys.stderr)
