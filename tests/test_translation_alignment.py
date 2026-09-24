@@ -42,10 +42,26 @@ from sanskrit_texts.importer import corpus_files
 REPO = pathlib.Path(__file__).resolve().parent.parent
 
 #: text_id -> English strings each serving >1 distinct Sanskrit verse, as of 2026-09-24.
-#: Every entry is a real defect awaiting repair, not an accepted state.
-#: `astanga_hridaya`'s 32 are the residue of the join-key bug after its main repair.
+#:
+#: **`astanga_hridaya` is absent because it was REPAIRED** — its 32 were the join-key damage,
+#: and all 48 affected verses were retranslated into `english_draft` behind the publication
+#: gate, the wrongly-inherited served value cleared. That is what this ratchet is for.
+#:
+#: **Everything still listed here was examined and is LEGITIMATE REPETITION, not damage.**
+#: Reading them is what established that, and the distinction is the reason this set is not
+#: simply a backlog:
+#:   `brihadaranyaka_upanishad`  the Maitreyi dialogue, which the Upanishad genuinely prints
+#:                               TWICE — Madhu Kanda 2.4 and Muni Kanda 4.5.
+#:   `chandogya_upanishad`       the `tat tvam asi shvetaketo` refrain closing each section
+#:                               of the Shvetaketu teaching, by design.
+#:   `narada_smriti`             one verse held twice, as `N` and `N-1` duplicate records.
+#:   `bhrigu_sutram`             near-synonymous one-word phalas — `aneka vidyavan` /
+#:                               `bahuvidyavan`, `dravyalabhah` / `dhanalabhavan`.
+#:   `jataka_parijata`, `jataka_tattva`, `brihat_samhita`  parallel yoga statements.
+#:
+#: So a NEW entry here is the signal; these are the calibration. Do not "fix" them by forcing
+#: distinct translations onto text the edition itself repeats.
 KNOWN: dict[str, int] = {
-    "astanga_hridaya": 32,
     "jataka_parijata": 8,
     "brihadaranyaka_upanishad": 8,
     "bhrigu_sutram": 3,
