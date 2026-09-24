@@ -136,3 +136,92 @@ the translator:
 
 Both are already fully translated, so nothing is blocked *by* them — this is only a warning
 against starting corrections inside them right now.
+
+## Brief for the translation run (Antigravity) — 2026-09-24
+
+**60,543 verses need a translation.** Every one of them has clean, genuine Sanskrit in `text`;
+the blocker is translation, not digitisation. Derive the current list, never trust this table:
+
+```sh
+cd "$HOME/Documents/GitHub/Vipin Kaushik/sanskrit-texts"
+./.venv-corpus/bin/python scripts/translation_backlog.py
+```
+
+### THE ONE THING THAT MUST BE FIXED FIRST
+
+**Join on `(chapter, verse number)`, never on the verse number alone.** Verse numbers REPEAT
+across chapters in almost every text here. On 2026-09-24 a join keyed on the number alone wrote
+Sūtrasthāna's translations onto the same-numbered verse of every other sthāna in
+`astanga_hridaya` — **214 verses served a translation belonging to a different verse**, and
+nothing caught it: `status` stayed `translated`, counts were unchanged, no Devanāgarī appeared
+in the English, and the `(chapter, number)` keys stayed distinct so the seeder's dedupe had
+nothing to catch. It was found by noticing one verse's translation appeared six times.
+
+The exposure in the remaining work, by how many verse numbers recur and how many copies each has:
+
+| text | verses to do | numbers that recur | max copies |
+|---|---:|---:|---:|
+| `astanga_sangraha` | 9,382 | 2,088 | 6 |
+| `caraka_samhita` | 9,643 | 2,055 | 8 |
+| `rigveda_samhita` | 10,470 | 2,014 | 10 |
+| `susruta_samhita` | 8,296 | 1,686 | 6 |
+| `atharvaveda_samhita` | 6,091 | 1,127 | **20** |
+| `bhela_samhita` | 2,813 | 687 | 8 |
+
+`tests/test_translation_alignment.py` now fails if one English string is served for two different
+Sanskrit verses, so a recurrence is caught on the first batch rather than after 27,000 verses.
+
+### Four more rules the last run broke, each cheap to honour
+
+1. **Write to `english_draft` / `hindi_draft`, never to `english` / `hindi`.** Those are the
+   served fields; the publication gate is structural, and `seed_texts.py`'s allowlist is what
+   keeps drafts off the public API. A human promotes.
+2. **Normalise output to NFC.** `4195d69` normalised the whole corpus and pinned it with a test;
+   the last run wrote 360 composed-form values back in.
+3. **Clear the draft when promoting.** 8,818 verses ended up holding a served translation *and* a
+   draft, with nothing recording which was verified.
+4. **Re-derive the text-level `status`** with `reader.derive_text_status`, and update the text's
+   row in `docs/INVENTORY.md` in the same change. Four texts were left claiming `drafted` at 0%
+   while fully translated.
+
+### Do NOT emit a label instead of a translation
+
+67,820 "translations" once turned out to be the Sanskrit behind an English prefix, and 836 more
+were topic labels. Both shapes are now detected and will be reported as untranslated:
+
+```
+Classical text translation of <Title>: <the Sanskrit verse>      <- not a translation
+Scholarly English translation of Chapter N, Shloka N, following… <- not a translation
+Chapter 21, Shloka 11 - Description of the subtle effects of…    <- not a translation
+```
+
+### The work, in priority order
+
+**Āyurveda — 30,134 verses, and the best-conditioned batch.** `caraka_samhita` 9,643 ·
+`astanga_sangraha` 9,382 · `susruta_samhita` 8,296 · `bhela_samhita` 2,813 · `astanga_hridaya` 72.
+All five have clean Sanskrit — zero Latin contamination, zero empty verses, median verse length
+85–97 characters — and each names its own authority, so the text is identifiable rather than
+merely plausible: Caraka's `इति ह स्माह भगवानात्रेयः`, Suśruta's `यथोवाच भगवान् धन्वन्तरिः`,
+Aṣṭāṅga Saṅgraha's `अथात आयुष्कामीयं नामाध्यायं व्याख्यास्यामः`. `astanga_hridaya` is 99% done
+and its 72 are the tail.
+
+**Vedic Saṃhitās — 21,042.** `rigveda_samhita` 10,470 · `atharvaveda_samhita` 6,091 ·
+`shukla_yajurveda_samhita` 1,965 · `samaveda_samhita` 1,866 · `taittiriya_samhita` 650. Note
+`atharvaveda_samhita` has up to **20** copies of a verse number — the highest join risk in the
+corpus — and `samaveda_samhita` is a single chapter with no repetition at all, so it is the
+safest place to prove a fixed join key.
+
+**Sthāpatyaveda — 8,520.** `manasara` 5,169 · `mayamata` 3,351.
+
+**Jyotiṣa and the short tail — 847.** `garga_hora` 294 (chapters 2–3, whose numbering is
+**positional and uncitable** — see `SOURCES.md`; translate by position, never cite a number) ·
+`phaladeepika` 178 · `katha_upanishad` 98 · `shvetashvatara_upanishad` 92 · `grahaganita` 62 ·
+`panchasiddhantika` 49 · `minaraja_yavana_jataka` 2.
+
+### How to check the result before handing it back
+
+```sh
+./.venv-corpus/bin/python -m sanskrit_texts.translation_status <file>   # per-verse defects
+./.venv-corpus/bin/python scripts/check_inventory.py                    # must exit 0
+CORPUS_REQUIRE_DB=1 ./.venv-corpus/bin/pytest tests/ -q                 # 205 pass, 0 fail
+```
