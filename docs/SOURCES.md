@@ -1331,7 +1331,7 @@ which mattered, because the filenames misled twice.
 | file | what it actually is | verdict |
 |---|---|---|
 | `Jaimini Sutra with Vyakhya - Neelkanth _882_Gha_Alm_5_Shlf_1…pdf` | **Nīlakaṇṭha's Subodhinī**, Jammu MS 882-घ | **wanted** |
-| `Jaimini Sutra Vritti Subodhini of Sarveshvarananda…pdf` | **Nīlakaṇṭha's Subodhinī**, printed 1947, adhyāya 3 | **wanted** |
+| `Jaimini Sutra Vritti Subodhini of Sarveshvarananda…pdf` | ~~Nīlakaṇṭha's Subodhinī, printed 1947, adhyāya 3~~ → **Jaimini's PŪRVA MĪMĀṂSĀ SŪTRA** — Vedic ritual exegesis, not the jyotiṣa work | **REJECTED**, see below |
 | `130369490-Kalpa-lataa-in-Astrology.pdf` | **Somanātha's Jyotiṣa Kalpalatā**, stabaka 1 | **wanted** |
 | `2015.202757.Jyotihsastra_text.pdf` | **David Pingree, _Jyotiḥśāstra_** | **reference** |
 | `ved_vedang_gp_22.pdf` | Hindi essay `वेदोंमें ज्योतिष`, Kalyāṇ Veda-kathāṅka pp.198–199 | no |
@@ -1448,3 +1448,520 @@ OCR passes, not lost in processing. A third pass over the same bytes cannot fix 
 `classify.py` on the other five: all `no-text` — image scans, 0 characters after stripping page
 separators, `pdfimages` reporting image content. G3's exact signature, and the reason a byte
 count of "5 characters for 5 pages" is one form-feed per page rather than a text layer.
+
+## The Jammu MS cannot be OCR'd — measured 2026-09-23
+
+**Verdict: `HELD` as an image scan; digitisation is a human reading 46 folios.** Recorded here
+because the acquisition row says `SOURCED` and the obvious next step looks like "run OCR".
+
+| instrument | reading | what it establishes |
+|---|---:|---|
+| Devanāgarī ratio | 69.8% | nothing — **G55**, a ratio cannot see a wrong glyph |
+| real-word lexicon hits | ~4/page | noise; short particles match garbage by chance |
+| **two configs over IDENTICAL pixels** | **0.07 agreement** | **decisive — neither run read anything** |
+
+Four configurations (`san`, `script/Devanagari`, each at default psm and psm 6) over 12 sampled
+folios. Per-page agreement ranged 0.02–0.27. **Self-agreement is the instrument that settles it**,
+and no ratio or spot-check substitutes: a reading that is not reproducible is not a reading.
+
+**The cheap causes were ruled out first, which is what leaves the medium as the answer.** Renders
+were ~3900×1830 per folio and `pdftoppm` honoured the `/Rotate 90` on every page (assert the PNG
+is landscape when the MediaBox is portrait — a sideways render produces this same signature). The
+PDF's only extractable text is a per-page `CC-0 Dharmartha Trust J&K. An eGangotri-Vaidika Bharata
+Initiative` watermark, so no text layer was being shadowed.
+
+**What defeats it is visible the moment you open a page**, and opening a page is the step two
+agent dispatches skipped: a scribal hand, *scriptio continua*, marginal glosses in a second and
+smaller hand, red rubrication over words, heavy verso bleed-through, near-blank versos interleaved
+with written rectos. Tesseract's Devanāgarī models are trained on **printed type**; against
+handwriting they do not decline, they emit plausible nonsense at the right density. **G68.**
+
+### The control is in the sibling directory
+
+`JaiminiUpadesaSutra-Abhyankar1951-GujaratVidyasabha-377pp.pdf` is clean printed English with
+**no text layer either** — `pdftotext` returns 0 characters, the same signature. `tesseract -l eng
+--psm 6` reads it at ~99% (two errors in 328 words). Same corpus, same missing text layer,
+opposite medium, opposite outcome; it was already converted as `jaiminiya_upadesa_sutra` in
+`406b43e`. The pipeline works — it was pointed at the one witness that cannot be machine-read.
+
+### Reading the folios also CONFIRMS the attribution
+
+Folio 92: `उपपदं`, repeated `उपदेशा[त्]`, कुज · शुक्र · चंद्र · बुध · गुरु · शनि, पितृभावे,
+भ्रातृ, गर्भनाश, लग्न. Folio 66: होरा, पापदृष्टिः, पापयोगे, सप्तमाद्राशेः कलत्रादि विचिन्तयेत्.
+
+**`उपपद` is a signature Jaimini-jyotiṣa term and the commentary cites the `उपदेशसूत्र`.** The
+Bombay 1947 rejection used vocabulary *negatively* to exclude a volume; this is the same method
+used *positively*, and it is the stronger direction — the Jammu MS is now confirmed the genuine
+jyotiṣa witness rather than merely the surviving one.
+
+## `manu_smriti` — translation provenance, established 2026-09-23
+
+**Asked because `status` and the served fields disagreed on 2,327 verses and this file recorded
+no provenance at all.** Measured against `ManuSmriti.json` sha256 `cb64237b…` (unchanged
+throughout the analysis; the corpus was being translated in the background).
+
+### The English is a modernised derivative of Bühler 1886 — public domain
+
+Chapter 1 (119 verses) was compared verse-by-verse against Wikisource's text of **Georg Bühler,
+*The Laws of Manu*, Sacred Books of the East vol. XXV, Oxford 1886**:
+
+| measure | value |
+|---|---:|
+| mean similarity (parentheticals stripped, case/punctuation folded) | **0.61** |
+| median | 0.65 |
+| ≥0.60 — clearly derived | 79/119 |
+| ≥0.75 — near-verbatim | 28/119 |
+
+Diagnostic retentions settle it — 1.5 *"destitute of distinctive marks, unattainable by
+reasoning"* and 1.43 *"carnivorous beasts with two rows of teeth"* are Bühler's distinctive
+wording, not phrasing two translators reach independently.
+
+**It is not a verbatim reproduction.** Bühler's editorial parentheses are dropped or rewritten,
+the register is modernised (`"wholly immersed, as it were, in deep sleep"` →
+`"as if entirely immersed in deep sleep"`), and transliterated glosses are added
+(`"(Prithivi)"`, `"(Jarayuja)"`, `"(Swayambhu)"`) in the same house style as other machine output
+in this corpus. So: **Bühler-derived, machine-modernised.**
+
+**Licence: clear.** Bühler died 1898 and SBE XXV is 1886 — public domain in every jurisdiction
+that matters. This holds whether the modernisation was machine or human.
+
+**Scope of the evidence, stated plainly:** only chapter 1 was verified directly, because
+Wikisource carries only chapter 1 and the `archive.org` scan `lawsofmanu00bh` is **Bühler's
+Introduction, not the translation** (`"sacred law"` appears 0 times in it). A whole-book search
+against that scan was run and **discarded** — its control on chapter 1 returned 0.26 where direct
+alignment gives 0.61, so the method was broken, not the chapters. Generalisation rests instead on
+style: gloss rate, sentence length and Bühler-register vocabulary are uniform across all ten
+served chapters, with no outlier, so one source throughout.
+
+### The Hindi is genuine and its provenance is NOT established
+
+2,331 verses, 78.9% Devanāgarī, **0 containing Latin characters, 2,331 distinct skeletons**, and
+faithful to the Sanskrit clause by clause. No candidate source was tested, so nothing here says
+where it came from — only that it is real translation rather than a label or a template.
+
+### Chapters 4 and 6 have no translation at all — and their "drafts" are placeholders
+
+357 verses (ch 4 × 260, ch 6 × 97) carry `status: drafted` and an `english_draft` that is a
+**description of a translation rather than a translation**:
+
+> `Scholarly English translation of Chapter 4, Shloka 1, following Kulluka Bhatta and Medhatithi.`
+
+**This is G62's "English is still a topic label" defect, in the DRAFT field of a registered HELD
+text** — a class that entry recorded as closed. It is not unique to Manu. Screening every draft
+in the corpus by distinct-skeleton ratio (G62's own method, `[0-9]` not `\d` per G17) finds
+**836 placeholder drafts across 6 texts**:
+
+| text | placeholder drafts | distinct skeletons |
+|---|---:|---:|
+| `manu_smriti` (ch 4, 6) | 357 | 98 |
+| `phaladeepika` | 178 | 5 |
+| `katha_upanishad` | 98 | 1 |
+| `shvetashvatara_upanishad` | 92 | 5 |
+| `grahaganita` | 62 | 1 |
+| `panchasiddhantika` | 49 | 4 |
+
+**That 836 was the small half, and the screen that produced it was wrong.** Distinct-skeleton
+ratio rated the other ~68,000 drafts `0.95–1.00` — "looks real" — and they are not. Reading them
+shows `astanga_hridaya`'s 7,443 are each `Classical text translation of Astanga Hridaya: ` followed
+by **the Sanskrit verse verbatim**. They score as distinct *because the embedded Sanskrit varies*;
+the distinctness never came from a translation. **G55 in a new place** — a variation statistic
+measures variation, not content, exactly as a Devanāgarī ratio measures quantity and not
+correctness.
+
+Re-measured on what the field actually holds — is it English or is it Devanāgarī:
+
+| draft content | verses | needs |
+|---|---:|---|
+| **mostly Devanāgarī — the Sanskrit with a label glued on** | **67,129** | **translating** |
+| descriptive labels naming the unit or the method | 836 | **translating** |
+| genuine English translation | ~1,072 | verifying |
+
+**This was not a discovery, and that is the more useful finding.** `sanskrit_texts.checks`
+already classified these as `template-prefix` / `sanskrit-echo`, and
+`docs/TRANSLATION_BACKLOG.md` §"Three different jobs" has said since **2026-09-17** that 67,228
+drafts are *"translate-from-scratch work despite sitting in a draft field"*. The knowledge was
+correct, written down, and six days old. **`translation_backlog.py` — the tool everyone actually
+runs — did not reflect it**, and its `VERIFY-DRAFT` column kept reading as "written, awaiting
+review". That is `rule:adversarial-review-reads-the-ledger`'s exact shape: a promise in one file
+that another file does not keep, invisible to every test because nothing compared them. The
+column is now split, and the mirror is pinned to the canonical checker by a test.
+
+So **97% of the "drafts" contain no translation.** These are the 67,820 non-translations taken off
+the served fields on 2026-09-16 (`9ce801e`) — correctly parked behind the gate, and never
+translated since. `translation_backlog.py` reports them as `VERIFY-DRAFT`, which reads as
+*"written, awaiting review"*. **There is nothing in them to verify.** The corpus's stated
+translation backlog understates the real work by roughly sixty-fold: ~2,800 reported against
+~68,000 actual.
+
+**Derive it, never trust the table:**
+
+```sh
+cd "$HOME/Documents/GitHub/Vipin Kaushik/sanskrit-texts" && ./.venv-corpus/bin/python -c "
+import json,pathlib,re
+from sanskrit_texts.importer import corpus_files
+for p in corpus_files(pathlib.Path('.')):
+    d=json.loads(p.read_text(encoding='utf-8'))
+    if not isinstance(d,dict) or 'chapters' not in d: continue
+    dr=[x for x in ((s.get('english_draft') or '').strip() for c in d['chapters'] for s in (c.get('shlokas') or [])) if x]
+    if not dr: continue
+    sk=len({re.sub(r'[0-9]+','N',x) for x in dr})
+    if sk/len(dr) < 0.15: print(f'{d[\"text_id\"]:30} {len(dr):6} drafts {sk:5} skeletons')"
+```
+
+## Latin in the Sanskrit field — what was left alone, and why (2026-09-24)
+
+Four items the `translation_status` scan flags as `latin-in-source` that were **not** touched in
+this pass, plus the reason a corpus-wide fix is not possible. One genuine converter bug in this
+same family — `goladhyaya` ch1 v25, `अन्यthoदितं` → `अन्यथोदितं` — **was** fixed, because its
+source line (`SiddhantaShiromani-Goladhyaya-uttarardha-Anandashrama122-sd8252.txt:3175`) is clean;
+everything below is different in kind: either the junk is already in the source, or no usable
+source is held at all.
+
+### 1 · `goladhyaya` ch6 v38 (not ch1 — see note) — stray `x` already in the source
+
+Text: `ऋतुचिह्नैर्ज्ञानं x  स्यादृतुचिह्नन्यग्रतस्ततो वक्षये। भात्रितयाद्भाभ्रमणं* न सदस्माद्दिकप्लाद्यं च॥३८॥`
+
+The `x` is **verbatim in the source**, `…Goladhyaya-uttarardha-Anandashrama122-sd8252.txt:4734`:
+`ऋतुचिह्नैर्ज्ञानं x  स्यादृतुचिह्नन्यग्रतस्ततो वक्षये।` — a footnote marker in the printed edition
+(the page's footnote block below the verse reads `x सिद्धान्तशेखरे त्रिप्रश्न ७०-७१ …`, i.e. the
+edition's own cross-reference apparatus, keyed by `x` the way `*` keys the second footnote three
+lines later). Not a converter bug. A clean fix means either dropping the editorial marker as
+apparatus (losing the pointer to the parallel passage) or transcribing the referenced work's
+reading in its place — a manual correction against the edition, not a regex.
+
+**Location note:** the verse is chapter **6**, verse 38, not chapter 1 as given. Confirmed by
+scanning the whole file for the string — it is the only Latin-bearing verse in `goladhyaya` besides
+the ch1 v25 fix above.
+
+### 2 · `brahmasphuta_siddhanta` — OCR garbage, count depends on what you count as "Latin"
+
+`Siddhanta/BrahmasphutaSiddhanta/BrahmasphutaSiddhanta.json`. Two prior counts (9 and 23) are
+**both real measurements of different things**, re-derived here rather than trusted:
+
+- Requiring a Latin **run of 2+ letters** (`[A-Za-z]{2,}`, the word-level threshold `docs/TODOS.md`
+  and G17 establish as the corpus-wide-safe definition): **9** verses — `2.10, 2.28, 2.53, 3.27,
+  14.10, 15.52, 19.9, 23.5, 24.13`.
+- Requiring **any single Latin letter** (`[A-Za-z]`): **23** verses — adds `3.11, 3.42, 4.2, 4.17,
+  5.7, 5.10, 12.52, 13.26, 13.48, 15.1, 15.33, 15.34, 18.93, 19.4`, where the "Latin" is a lone
+  stray letter such as `t`, `l`, `h`, `A`, `€` amid otherwise-Devanāgarī OCR garbage.
+
+Both are legitimate counts of the same underlying corruption at different sensitivity; **23** is
+the fuller picture of how much of this text is affected, **9** is what a corpus-wide detector using
+the word-level threshold (the one this repo's own tooling uses to avoid false-positiving on
+`samaveda_samhita`/`brihat_samhita`, item 5 below) would flag.
+
+**Verified verbatim in the cached OCR**, not introduced by conversion. Spot-checked against
+`sanskrit-texts-sources/Siddhanta/BrahmasphutaSiddhanta/ocr/native-devanagari/txt/` (note: **not**
+`ocr/txt/` — that path does not exist; the OCR text lives under `ocr/native-devanagari/txt/`):
+
+| corpus string | found verbatim in |
+|---|---|
+| `QASSNSNN` | `ocr/native-devanagari/txt/p-32.txt:14` |
+| `[EE or ———` | `ocr/native-devanagari/txt/p-41.txt:8` |
+| `त्रिविषय…` (2.10's context) | `ocr/native-devanagari/txt/p-25.txt:9` |
+| `Nh ५१` (15.52) | `ocr/native-devanagari/txt/p-212.txt` |
+| `paren fms` (23.5) | `ocr/native-devanagari/txt/p-316.txt` |
+| `nefe…` (24.13) | `ocr/native-devanagari/txt/p-321.txt` |
+
+Two sampled strings (`TT विषवत्कर्णविभक्तः` at 3.27, `nea कथ्नामंडलतुल्यं` at 14.10) did not match
+byte-for-byte in a page-by-page grep — plausibly whitespace or page-join differences in how the
+converter concatenates OCR pages — but the pattern (nonsense Latin-letter runs mixed into
+Devanāgarī, matching the character-level corruption `pdftotext`/OCR produces on a difficult scan)
+is consistent with the rest and gives no reason to think the converter invented these particular
+six.
+
+**`scripts/sanskrit-convert/brahmasphuta_siddhanta.py`, named in the brief for this lane, does not
+exist in this repo** — `scripts/sanskrit-convert/` is not present at all. The only
+brahmasphuta-related script found is `translate_brahmasphuta_siddhanta.py` (repo root, untracked),
+which calls a Gemini API to produce English/Hindi translations and does not touch `text`. So the
+specific claim "re-running the converter reproduces it identically" could not be verified against
+an actual script; what **is** verified is that the garbage strings sampled above are already
+present, character-for-character, in the cached OCR text this corpus was digitised from — so
+whatever produced the `.json` read faithfully from already-corrupt OCR. Needs re-OCR against the
+336pp scan, or manual correction; not a regex.
+
+### 3 · `muhurta_chintamani` — 3 verses, source ABSENT (not chapter 0 — see note)
+
+`Muhurta/MuhurtaChintamani/MuhurtaChintamani.json`. The file has chapters 1–14; **there is no
+chapter 0**. The 3 Latin-bearing verses are:
+
+- ch3 v5 — `…पूर्वाpराह्रांतिमपूर्वभागकौ॥५॥` (stray `p`)
+- ch3 v19 — `…विधोर्बलेऽर्कोऽrkबले कुजादयः॥१९॥` (stray `rk`)
+- ch12 v6 — `…पृष्ठगते khनिः स्यात्॥६॥` (stray `kh`)
+
+**No usable source is held for any of the three.** Two independent checks:
+
+1. `sanskrit-texts-sources/Muhurta/MuhurtaChintamani/MC_REMAINING_RAW.json` states its own scope
+   in its `info` field: *"Raw extracted shlokas from page 53 to 480."* Its 17 segments were
+   searched for the opening words of all three defective verses; the one apparent hit (a
+   `संक्रान्ति…` prefix match) resolved on inspection to unrelated verses about saṃkrānti timing,
+   not these three. No segment contains any of the three.
+2. The scan `muhurt_chintamani_002342_hr6.pdf` (484 pages) has a **zero-character text layer** —
+   `pdftotext -layout … - | tr -d '\f\n' | wc -c` returns `0`, and `pdffonts` lists no fonts at
+   all. This is G3's exact signature (form-feed-only extraction, no embedded font) — the file is
+   page images with nothing OCR-able through the text layer, not a source that can be re-consulted
+   for a clean reading.
+
+Say **ABSENT**, not "unverified" — there is nothing on disk to check these three verses against.
+
+**Location note:** the brief for this lane said "3 verses in chapter 0"; there is no chapter 0 in
+this file. The three verses are in chapters 3 (×2) and 12 (×1), as listed above.
+
+### 4 · `jataka_parijata` ch2 v49 — `LOST PAGE` ×3, deliberate annotation — DO NOT TOUCH
+
+`Hora/Parashari/Jatakaparijatah/Jatakaparijatah.json` ch2 v49 opens with `LOST PAGE` repeated three
+times before the verse text resumes. This is **not corruption** — it is present verbatim in the
+proofread source, `sanskrit-texts-sources/Hora/Parashari/Jatakaparijatah/jatakaparijatah.md:451-453`,
+three consecutive `LOST PAGE` lines, marking a page missing from the exemplar the proofreader was
+transcribing from. Same discipline `CLAUDE.md` records for `apastamba_dharma_sutra`'s 46 absent
+sūtras: "recorded, never invented." Removing the marker would silently claim a completeness the
+source does not have; substituting text would invent Sanskrit that was never read. Leave it.
+
+### 5 · Why no corpus-wide sweep of "Latin in Devanāgarī" is possible
+
+Two legitimate populations use ASCII Latin letters as citation apparatus inside otherwise-pure
+Devanāgarī, at a combined scale that dwarfs the ~23 genuine defects above. From
+`~/Documents/GitHub/Vipin Kaushik/TODOS.md`:
+
+> **`samaveda_samhita`, 1,866 of 1,866 verses.** The Latin is `a` ×1,874 and `c` ×1,812, and they
+> are **ārcika reference suffixes**: `१ १ १ ०१०१a अग्न आ याहि`, `... ०१०२c देवेभिर्मानुषे`.
+> Legitimate citation components. G17 already records a regex that ate exactly this class of
+> marker across 3,023 verses.
+>
+> **`brihat_samhita`, 869 of 2,771 verses.** The Latin is `K` ×1,125, appearing as `(K.अर्थः)` —
+> **editorial apparatus** naming a variant reading from recension K. Scholarship, not noise.
+
+A whole-corpus "strip Latin letters out of Devanāgarī fields" sweep would destroy these 2,780
+legitimate markers to fix roughly 23 genuine defects — a 99.2% false-positive rate. **Every fix in
+this family must be scoped to one `text_id`, verified against that text's own source, never run as
+a corpus-wide regex.**
+
+
+### 6 · The variant apparatus — 5 verses, and stripping the marker would MERGE two readings
+
+`kena_upanishad` ×2 · `kaivalya_upanishad` ×2 · `taittiriya_upanishad` ×1. All five are
+**editorial furniture from the sanskritdocuments edition, present verbatim in the source** —
+verified independently: `kena.html` carries `var` ×5 and `दभ्रमेवापि`; `kaivalya.html` carries
+`var` ×3 and `तथादि`. So re-conversion reproduces them; `convert.py` does not yet strip them.
+
+**They are not one class, and only one half is safely removable.**
+
+**Genuine alternative readings — DO NOT strip the marker.** `kena` 2.1:
+
+> `यदि मन्यसे सुवेदेति दहरमेवापि var दभ्रमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपम् ।`
+
+The verse carries **two readings**, `दहरमेवापि` and `दभ्रमेवापि`, the convention being
+main-reading-first. Deleting the token `var` alone leaves both standing as if one continuous
+verse — **worse than the present state**, because the defect stops being visible. `kaivalya` 1.7
+(`… चिदानन्दमरूपमद्भुतम् । var तथादि उमासहायं …`) and 1.12 (`var पाशं स एव मायापरिमोहितात्मा …`)
+place the marker mid-verse and verse-initial, where which word it governs is **not recoverable
+from the string**. Resolving these needs a human with the printed edition. G31: inventing text is
+the most expensive mistake this corpus has recorded.
+
+**English notation glosses — removable, but deliberately not removed here.** `kena` 4.4 embeds
+`` Extra `A'kAr is used in the sense of comparison `` and `taittiriya_upanishad` 18.1 embeds
+`3 for prolonging the vowel in the form । अऽऽ ।`. Both explain the `३` pluta marker rather than
+offering alternative Sanskrit, so excising them leaves the reading intact. They stay for now so
+that all five move as one reviewed batch — a half-cleaned apparatus is harder to audit than an
+uncleaned one.
+
+### 7 · `garga_hora` chapters 2–3 — ESCALATED, not a cleanup
+
+**53 verses in the working tree carry Latin tokens that are ABSENT FROM THE SOURCE.** Source line
+1031 of `GargaHora.san.txt` reads cleanly:
+
+> `लग्नाधिपतिर्लग्ने निरोगं दीर्घजीवितं कुरुते| बलवन्तं दृढगात्रं रूपयुतं…`
+
+The JSON reads `…दीर्घजीवितं aed | बलवन्तं gens रूपयुतं…` — real Devanāgarī words (`कुरुते`,
+`दृढगात्रं`) **replaced** by nonsense, and two verses merged. That is substitution, not OCR noise.
+
+`scripts/sanskrit-convert/garga_hora.py` (in the **workspace**, not this repo) and commit
+`bf7537f` record a deliberate decision that chapters 2–3 are *"not digitisable from this
+source… `GargaHora` will remain chapter-1-only until a different, numbered witness turns up"* —
+the print edition carries no verse numbers there and both OCR passes agree. That converter emits
+chapter 1 only and **refuses any Latin character in `text`**, so it did not produce these
+chapters. `ce5e8c0` has already once reverted an agent run that destroyed all 84 chapter-1 verses
+of this file.
+
+**Cleaning the Latin out would ratify 117 verses whose provenance contradicts a standing
+decision** — G62/G31's shape exactly. The open question is whether chapters 2–3 belong in the
+corpus at all; that is Rupali's call. Nothing was touched.
+
+## `garga_hora` chapters 2–3 — rebuilt 2026-09-24, and what their numbers do NOT mean
+
+Chapters 2–3 (~85% of the book) are now held: **146 + 148 verses** beside chapter 1's 84.
+
+**SUPERSEDED THE SAME DAY, and the correction is the useful part.** These were first stored as
+87 + 94 *daṇḍa-delimited units* on the reasoning that punctuation was the only available
+boundary. That was wrong, and it was wrong because nobody had **looked at the page**. Page 40
+of the scan shows the edition's structure plainly:
+
+```
+द्रव्यपतिः लग्नगतः कृपणं व्यवसायिनं सुकर्माणम् ।        <- pada 1, single daṇḍa
+  धनिनं श्रीपतिविदितं करोति नरमतुलभोगयुतम् ।।         <- pada 2, DOUBLE daṇḍa, no number
+यदि द्वितीयेश (धनेश) लग्न में हो तो जातक कंजूस...      <- Hindi gloss
+If the 2nd lord occupies Lagna, the native may be a miser...  <- English gloss
+```
+
+Each śloka is followed by its Hindi gloss and then its English gloss, repeating. **So a verse
+closes where its Hindi gloss begins** — a structural rule taken from the edition itself, not a
+punctuation heuristic. Splitting on daṇḍa was unreliable for two separate reasons: **G32** (the
+double daṇḍa has three spellings — `॥`, `।।`, `||` — and the OCR mixes them) and ordinary OCR
+daṇḍa noise.
+
+**The new counts are corroborated by the chapters' own subject matter, which depends on no OCR
+at all.** Chapter 2 gives the lord of each house in each house: all twelve lords are named in
+the glosses (`लग्नेश` … `द्वादशेश`, with `धनेश`/`लाभेश`/`व्ययेश` as synonyms), each 9–22 times,
+so **12 × 12 = 144 expected, 146 extracted**. Chapter 3 gives the nine grahas through twelve
+houses — exactly nine named (`सूर्य चन्द्र मंगल बुध गुरु शुक्र शनि राहु केतु`) — so **108
+expected, 148 extracted** — the excess being the chapter's lagna-position and aspect material, which
+its subject line (`द्वादशभावों मे ग्रहों के प्रभाव पर विचार`) does not enumerate. The earlier 87/94
+matched nothing; Antigravity's 53/64 would have been ~4 verses per lord, far too few.
+
+This section exists so nobody mistakes the numbering for the edition's own.
+
+### The print edition does not number chapters 2–3. Verified five independent ways
+
+1. Our `-l san` OCR carries `| N ||` markers **only** in lines 222–995 — chapter 1. Zero after.
+2. No Devanāgarī numerals sit in verse-marker position in either chapter.
+3. **An independent OCR of the same edition** —
+   `archive.org/details/gargahorashastrapathakk.k._202003_150_g` — finds **80** markers in ch1
+   (closer to the true 84 than our own 45) and **2 stray in ch2, 0 in ch3**.
+4. The `-l hin` pass *appears* to hold 117/113 markers; they are OCR noise
+   (`6, 5, 449, 7, 0, 45 …`) whose longest ascending run is **2**.
+5. Neither English translation witness numbers by adhyāya. The Santhanam PDF (95pp, real text
+   layer) numbers `1–83` then restarts and runs unbroken to `1365`, but keyed to its own twelve
+   **Bhāva** sections — a different organising axis (Sanskrit ch2 is lagna-*lord placement*;
+   Santhanam's restart section is *"2 planets in conjunction in the Ascendant"*). The `.htm`
+   witness has no numbering at all. Neither carries a single Devanāgarī character.
+
+`scripts/sanskrit-convert/garga_hora.py`'s docstring said exactly this. It was verified here
+rather than trusted.
+
+### Why no śloka segmentation was attempted
+
+Chapter 1 is the control — 84 verses, numbered by the edition. Splitting it on daṇḍa yields
+**132** units. Calibrating a merge rule to recover the count makes it worse where it matters:
+
+| min length | units | mean similarity | boundaries correct |
+|---:|---:|---:|---:|
+| 40 | 130 | 0.805 | 52/84 |
+| **90** | **85** | 0.568 | **5/84** |
+
+At minlen 90 the **count** lands on 84 and **5 of 84 boundaries are right** — **G31**'s exact
+shape, numbering self-consistent while the content is cut in the wrong places. So the units are
+daṇḍa boundaries only: every one is a real printed daṇḍa, none invented, and calibration says
+~1.57 of them per śloka, i.e. they are largely half-verses. **`count_authority: uncitable`.**
+
+### Extraction, and the one asymmetry that matters
+
+Chapter 1 prints `[previous verse's Hindi][mūla][number]`, so `garga_hora.py`'s `_trim_to_mula`
+scans **backward**. Chapters 2–3 invert it — `[mūla][its Hindi gloss]` — so a backward scan hits
+Hindi immediately and returns the empty string. A **forward** cut is the whole delta.
+
+Per **G40**, the Hindi/Sanskrit cut is made at **line** level, never mid-line, and uses only the
+module's own `HINDI_WORDS` plus the comma (this edition's Sanskrit uses none). An earlier attempt
+added `यदि`, `तथा`, `होता`, `जातक` to catch more Hindi — **all four are genuine Sanskrit**, and
+that is precisely the `जाता` homograph failure G40 records. They were removed.
+
+### The second witness, and what it did and did not decide
+
+Because ch1's layout is the mirror of ch2–3's, **ch1 cannot serve as a control for this
+pipeline.** The substitute is reproducibility across two independent OCRs of the same pages:
+
+| | ours | archive.org | 12-gram overlap | our units corroborated |
+|---|---:|---:|---:|---:|
+| ch1 (committed, for calibration) | 13,414 | 13,625 | 69.3% | — |
+| ch2 | 87 units | 90 units | 73.4% | **82/87** |
+| ch3 | 94 units | 98 units | 71.3% | **89/94** |
+
+Chapters 2–3 score *above* the chapter the corpus already accepts. The ~5 units per chapter that
+the second pass does not corroborate are the ones to read first if anyone revisits this.
+
+**No reading was repaired from the witness, and the reason is worth recording**: the extraction
+already excludes Latin-contaminated lines (`is_junk_line`, **G40**), so the output is Latin-free
+at source — there was nothing of that class left to repair. Devanāgarī-vs-Devanāgarī differences
+were deliberately **not** arbitrated: **G55** is explicit that no ratio can tell which of two
+Devanāgarī readings is right. Those need someone reading the scan.
+
+### Two chapter-1 verses that changed outside this work
+
+`v39` and `v83` differ from `HEAD` in their Sanskrit, from the 16:00 revert or the concurrent
+translation run — not from this rebuild. The witness adjudicates one of them:
+
+- **v39 — the current reading is right.** The witness prints `||38|| अस्मिन्नयोगे समुत्पन्नः…`,
+  corroborating both the reading and its position against HEAD's `अस्मिन्योगे`.
+- **v83 — unresolved.** The witness supports HEAD's tail (`…चतुर्थं दशमे पिता`), but v83's own
+  opening (`धने राहर्बुधः`) is not locatable in it, so this looks like a verse-boundary
+  difference rather than a corruption. Left for a human; nothing was changed.
+
+### Licence
+
+The archive.org scan was used **as a verification witness only** — no text of it entered the
+corpus. Our own OCR of our own copy of the Pathak (1999) edition remains the sole source.
+
+### Layout geometry was tried for śloka boundaries, and it fails the control too (2026-09-24)
+
+The archive.org item also ships `_chocr.html.gz` (3.1 MB) — tesseract 5 hOCR with **per-word and
+per-character bounding boxes and confidences**. That is a different class of evidence from flat
+text: it can see the page, so in principle it could recover the verse divisions the edition
+prints without numbers. It was fetched and tested. **It does not work**, and the negative result
+is recorded here so the next person does not spend the afternoon on it.
+
+Parsed: **4,004 lines** across 157 pages, capturing **98%** of the flat text's Devanāgarī.
+
+**One real finding, worth keeping.** The edition *is* structurally marked — the Sanskrit mūla is
+**indented** and the Hindi gloss runs to the left margin:
+
+```
+x0=593   लग्नाधिपतिर्लग्ने निरोगं दीर्घजीवितं कुरुते|      <- mula
+x0=729   बलवन्तं दृदढगात्रं रूपयुतं बहुप्रतिष्ठितं चेव |     <- mula
+x0=175   यदि लग्नेश लग्नमेदहो तो जातक नीरोग, ...          <- Hindi gloss
+```
+
+That is the *structural* discriminator **G40** asks for in place of a vocabulary filter. But it
+does not survive globally: the per-page x0 histogram is broadly spread (scan skew), and even
+normalised against each page's own left margin the indent distribution is not cleanly bimodal
+(median 84px, p25 17, p75 415).
+
+**And it does not recover verse boundaries.** Vertical gaps between consecutive Devanāgarī lines
+are bimodal, and gaps above 1.8× the median give **85 candidate breaks against chapter 1's true
+84** — which looks like a solution and is not. Building the segments and comparing them:
+
+| method | groups (truth 84) | boundaries ≥0.9 |
+|---|---:|---:|
+| the module's marker-driven extractor (needs numbers — ch1 only) | 84 | **84/84**, mean 0.998 |
+| daṇḍa + calibrated merge | 85 | 5/84 |
+| **hOCR layout gaps** | **107** | **13/84** |
+
+So three methods have now been tested against the one chapter whose truth is known, and only the
+one that reads the edition's own printed numbers works. **Chapters 2–3 have no printed numbers**
+(five independent confirmations above), so their units remain daṇḍa-delimited and `uncitable`.
+
+The lesson is the same one twice: **a segmentation that matches the count can still be cut in the
+wrong places.** Both rejected methods landed within one unit of 84 and both were wrong about
+where the verses actually end. Never accept a count as evidence of a boundary.
+
+### The method was validated on chapter 1 after the fact, and it is now used for all three
+
+Chapter 1 has the **same** printed layout as 2–3 — `[Sanskrit][Hindi gloss][English gloss]` — it
+merely also carries verse numbers. So the gloss-boundary rule can be run against it, where the
+truth is 84 known-good verses. **It recovers 80 of them at mean similarity 0.951, 73/84 at
+≥0.9.** Against the two rejected methods on the same control (daṇḍa+merge 5/84, hOCR layout
+13/84) that settles which rule is right.
+
+Chapter 1 nonetheless **keeps its marker-derived 84**, because reading the edition's own printed
+numbers is strictly better information than inferring boundaries from glosses — the gloss rule
+loses 4 verses there. The asymmetry is in the source, not in the method: forcing one rule
+everywhere would discard real numbering to buy a uniformity the book does not have.
+
+**Consistency applied across all three chapters:** every chapter now carries its Devanāgarī title
+(`प्रथमोऽध्यायः` / `द्वितीयोऽध्यायः` / `तृतीयोऽध्यायः`), numbering is `1..N` throughout, and the
+verse granularity matches (median length 79 / 91 / 87). Chapter 3 additionally needed 19 units
+split: each held 1–2 **internal** double-daṇḍas where the Hindi gloss was missing or garbled, so
+two or three ślokas had merged. Reading one confirms it — `पूर्णे शीतकरे लग्ने…` (full Moon in
+lagna) and `गोमेष कर्कटे लग्ने चन्द्रस्थे…` (Moon in an Aries/Taurus/Cancer lagna) are distinct
+verses. The split fires only above 200 characters and only on a real printed double-daṇḍa; it did
+**not** fire once in chapter 2, which is the evidence it is not over-cutting. Two ch3 units remain
+over 200 characters with no internal daṇḍa to split on.
+

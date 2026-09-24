@@ -55,6 +55,13 @@ TAG_NAMESPACES = frozenset(
 
 _TEMPLATE_PREFIX = re.compile(r"^Classical text translation of [^:]+: ")
 _LATIN_LETTER = re.compile(r"[A-Za-z]")
+# Below this, `stripped_dev[:40]` is the WHOLE Sanskrit, not a prefix of it -- so the hi
+# containment check below degenerates into "does the Hindi mention the term at all", which a
+# correct gloss legitimately does (`मायावादी` in a Hindi sentence about a मायावादी) and so does a
+# shared placeholder (`..........`). Exact equality has no such degenerate case and stays
+# unconditional. Measured on the live corpus: 8 of 26 `hi:sanskrit-echo` hits were this false
+# positive, all with Sanskrit under this length (G-plan `quiet-juggling-cherny` Lane D).
+_SANSKRIT_ECHO_MIN_LEN = 40
 # ns:value. Lowercase (+ underscore, for a namespace not yet in TAG_NAMESPACES) so a malformed
 # shape and an unknown namespace are two different, separately reported facts.
 _TAG_SHAPE = re.compile(r"^([a-z_]+):(.+)$")
@@ -100,8 +107,9 @@ def check_translation(lang: str, value: str, devanagari: str) -> tuple[str, list
 
       template-prefix  fails    value starts "Classical text translation of X: "
       sanskrit-echo     fails    en: >30% of value's non-space chars are Devanagari
-                                 hi: value equals the verse's Sanskrit, or contains its first
-                                     40 characters
+                                 hi: value equals the verse's Sanskrit (any length), or contains
+                                     its first _SANSKRIT_ECHO_MIN_LEN characters (only once the
+                                     Sanskrit is at least that long -- see the constant's comment)
       wrong-script      fails    en: zero Latin letters / hi: zero Devanagari characters
       too-short         suspect  value is under 30% of the Sanskrit's length, when the
                                  Sanskrit itself is over 40 characters (too short to be
@@ -127,7 +135,10 @@ def check_translation(lang: str, value: str, devanagari: str) -> tuple[str, list
         if not _LATIN_LETTER.search(value):
             fails.add("wrong-script")
     elif lang == "hi":
-        if stripped_dev and (stripped_value == stripped_dev or stripped_dev[:40] in value):
+        if stripped_dev and (
+            stripped_value == stripped_dev
+            or (len(stripped_dev) >= _SANSKRIT_ECHO_MIN_LEN and stripped_dev[:_SANSKRIT_ECHO_MIN_LEN] in value)
+        ):
             fails.add("sanskrit-echo")
         if not any(_is_devanagari(c) for c in value):
             fails.add("wrong-script")

@@ -9,8 +9,17 @@ python3 scripts/translation_backlog.py      # per-text table, sorted by outstand
 
 The **tiering** below is a judgement call and is not derivable. The **counts** are, and
 `rule:state-and-decisions` is explicit that a count in a doc rots faster than anything else in
-it. Last derived **2026-09-23**: **2,791 to translate** (2,675 empty + 116 one language missing) ·
-**68,051 verses carrying a draft** · **0 stubs** · **44 of 66 texts complete**, 98,142 verses.
+it. Last derived **2026-09-23**, after the ECHO split below: **70,410 to translate** · **1,070
+real drafts to verify** · **0 stubs** · **38 of 66 texts complete**, 98,258 verses.
+
+**The previous reading on this line was `2,791 to translate · 68,051 carrying a draft`, and the
+work did not change — the column did.** `translation_backlog.py` reported every populated
+`english_draft` as `VERIFY-DRAFT`, which reads as *"written, awaiting review"*; 67,967 of them
+hold the verse's own Sanskrit behind a label, or a label repeated across the text, and there is
+nothing in them to verify. §"Three different jobs" below had said so since 2026-09-17 from the
+confidence checker — **the tool simply did not reflect its own repo's finding for six days.** The
+script now splits `ECHO` from `DRAFT` and mirrors `sanskrit_texts.checks.check_translation`, with
+`tests/test_translation_backlog.py` asserting the mirror cannot drift from it.
 
 (Read 48 of 70 on 2026-09-17. **Only the denominators moved**: four unregistered texts left the
 corpus on 2026-09-23 — `deva_keralam` and `dharmasindhu` quarantined, the two Taittirīya texts
@@ -49,7 +58,7 @@ have since changed size from the SARIT relabel (G64): `manu_smriti` 2,688 · `ca
 | `sarvartha_chintamani` | 1,227 | house significations in unusual depth; standard in South Indian practice |
 | `jaimini_sutra` | 408 | Tattvādarśa recension, complete in its own terms |
 | `jaiminiya_upadesa_sutra` | 277 | `ocr_only` — check the Devanāgarī before translating |
-| `garga_hora` | 84 | chapter 1 only of 3 |
+| `garga_hora` | 84 | chapter 1 only, 84 verses |
 
 **Why first:** astroacharya cites BPHS in 109 of roughly 120 `@source` call sites, and
 marketing-intel and astro-studio both want Jyotiṣa. This is the same skandha and the only

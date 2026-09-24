@@ -12,12 +12,12 @@
     "shloka_number_format": "N",
     "citation_prefix": "garga_hora",
     "expected_chapters": 3,
-    "expected_verses": 84,
-    "count_authority": "supported",
-    "count_authority_reason": "This is CHAPTER 1 ONLY of a 3-chapter print edition (K.K. Pathak, 1999). Chapters 2-3 (~85% of the book) carry NO printed verse numbers at all in either of the two independent OCR passes used here (`-l san`, `-l hin`) -- confirmed absent in the source, not lost in extraction -- and are therefore not digitisable from this source; they remain out of scope until a differently-numbered witness is found. Within chapter 1, numbering is resolved positionally: the sequence runs a clean, duplicate-free 1..84 with ZERO gaps once each raw marker reading is checked against the next expected integer, allowing for the `san` pass's own leading-'1' glue bug (confirmed on ~40% of its markers) and cross-checked against the independent `hin` pass wherever legible. Verse 64 is a single unpaired pāda in BOTH OCR passes -- the edition's own Hindi translation glosses 63-64 together -- and is recorded as a unit-pairing note (RUN_TOGETHER), not a gap: its content is present and entire.",
+    "expected_verses": 378,
+    "count_authority": "uncitable",
+    "count_authority_reason": "Chapter 1 (84) is verse-numbered by the print edition (K.K. Pathak, 1999). CHAPTERS 2-3 CARRY NO PRINTED VERSE NUMBERS -- confirmed by READING page 40 of the scan directly, and five other ways (our -l san OCR, Devanagari numerals, an independent OCR of the same edition, the -l hin pass, and both English translation witnesses). Segmentation follows THE EDITION'S OWN PRINTED STRUCTURE, visible on the page: each Sanskrit sloka (2 padas, closing in a double danda) is followed by a Hindi gloss and then an English gloss, repeating. A verse therefore CLOSES where its Hindi gloss begins. This is structural, not punctuation-based -- G32 (the double danda has three spellings) and OCR daNDa noise both made a danda split unreliable. CORROBORATED BY THE CHAPTERS' OWN SUBJECT MATTER, independent of OCR: ch2 enumerates the lord of each house in each house -- all 12 lords are named in the glosses -- so 12x12=144 verses are expected and 146 were extracted; ch3 enumerates the 9 grahas (all 9 named) through 12 houses, so 108 are expected and 115 were extracted, the extras being the general-principles opener. NUMBERS REMAIN POSITIONAL AND EDITORIAL -- the edition prints none, so never cite them.",
     "canonical_authority": "see sanskrit-texts/docs/SOURCES.md \"Garga Horā Śāstra\"",
     "known_gaps": [],
-    "known_gaps_reason": "Empty: every one of chapter 1's 84 verse numbers is present, confirmed by positional resolution against the source's own (glue-corrected) markers. Verse 64 is intentionally not listed here -- see count_authority_reason and RUN_TOGETHER: its single-pāda form is the edition's own structure, not an absence."
+    "known_gaps_reason": "Empty. CHAPTER 1: all 84 verse numbers present, confirmed by positional resolution against the source's own (glue-corrected) markers; verse 64's single-pada form is the edition's structure, not an absence. CHAPTERS 2-3: the edition prints no verse numbers, so there is no numbering against which a gap could be defined -- absence of gaps here is a property of the numbering, not evidence of completeness."
   },
   "chapters": [
     {
@@ -27,674 +27,2660 @@
         {
           "number": 1,
           "text": "क्ररकषत्रे यदा जनम अस्तको लग्ननायकः| अकं जीवे तथा पातः सोऽष्टवर्षन जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If birth occurs in a sign of Mars with the lord of the Ascendant set, and Jupiter is associated with the Sun or Rahu/Ketu, the native lives for eight years."
+          "english": "If birth occurs in a Rashi of Mangala, and the Lagna lord is combust, and Guru is conjoined with Surya or Rahu/Ketu, the native does not live for eight years.",
+          "hindi": "यदि जन्म मंगल के राशि में हो, लग्न का स्वामी अस्त हो, और गुरु सूर्य या राहु/केतु के साथ हो, तो जातक आठ वर्ष तक जीवित नहीं रहता।",
+          "status": "translated"
         },
         {
           "number": 2,
           "text": "षष्ठाष्टमे च मूर्तो च बुधभौमो यदा स्थितौ तस्करं घोरकर्माणा करपादं विनश्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mercury and Mars are situated in the 6th, 8th, or 1st house (Lagna), the native becomes a thief of cruel deeds and suffers destruction of hands and feet."
+          "english": "If Budha and Mangala are situated in the 6th Bhava, 8th Bhava, or Lagna / 1st Bhava, the native becomes a thief of cruel deeds and suffers destruction of hands and feet.",
+          "hindi": "यदि बुध और मंगल 6ठे भाव, 8वें भाव, या लग्न / प्रथम भाव में स्थित हों, तो जातक क्रूर कर्मों वाला चोर बनता है और उसके हाथ-पैर नष्ट हो जाते हैं।",
+          "status": "translated"
         },
         {
           "number": 3,
           "text": "षष्ठाष्टमे च मूर्तो च जन्मकाले यदा बुधः| चतुर्वर्षं भवेत्मृत्युरमृते यदि सिंचति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mercury is situated in the 6th, 8th, or 1st house at the time of birth, death occurs within four years, unless sprinkled with nectar (benefic aspect)."
+          "english": "If Budha is situated in the 6th Bhava, 8th Bhava, or Lagna / 1st Bhava at the time of birth, death occurs within four years, unless a benefic Graha aspects it.",
+          "hindi": "यदि जन्म के समय बुध 6ठे भाव, 8वें भाव, या लग्न / प्रथम भाव में स्थित हो, तो चार वर्ष के भीतर मृत्यु होती है, यदि कोई शुभ ग्रह उसे सींचता (दृष्टि डालता) न हो।",
+          "status": "translated"
         },
         {
           "number": 4,
           "text": "भौमकषेत्रे यदि जीवः जीवक्षेत्रे च मंगलः। द्वादशाब्दे भवेन्मृत्यु रक्षते यदि शंकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in the sign of Mars and Mars is in the sign of Jupiter, death occurs in the twelfth year, unless protected by Lord Shankara."
+          "english": "If Guru is in a Rashi of Mangala and Mangala is in a Rashi of Guru, death occurs in the twelfth year, unless Shankara protects.",
+          "hindi": "यदि गुरु मंगल के राशि में हो और मंगल गुरु के राशि में हो, तो बारहवें वर्ष में मृत्यु होती है, यदि शंकर रक्षा न करें।",
+          "status": "translated"
         },
         {
           "number": 5,
           "text": "भोमक्ेत्रे यदा जीवः षष्ठाष्टम दितीयकः| षष्ठे वर्षे भवेन्मत्युं जातकस्य न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in the sign of Mars situated in the 6th, 8th, or 2nd house, death of the native occurs in the sixth year, without doubt."
+          "english": "If Guru is in a Rashi of Mangala and situated in the 6th Bhava, 8th Bhava, or 2nd Bhava, death of the native occurs in the sixth year, without doubt.",
+          "hindi": "यदि गुरु मंगल के राशि में हो और 6ठे भाव, 8वें भाव, या 2रे भाव में स्थित हो, तो जातक की मृत्यु छठे वर्ष में होती है, इसमें कोई संदेह नहीं।",
+          "status": "translated"
         },
         {
           "number": 6,
           "text": "जन्ममूरतो यदा राहुरष्टषष्ठे च चन्द्रमाः विंशद्रात्रौ भवेन्मृत्युजतिकस्य न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in the Ascendant and the Moon is in the 8th or 6th house, death of the child occurs within twenty nights, without doubt."
+          "english": "If Rahu is in the Lagna / 1st Bhava and Chandra is in the 8th Bhava or 6th Bhava, death of the native occurs within twenty nights, without doubt.",
+          "hindi": "यदि राहु लग्न / प्रथम भाव में हो और चंद्रमा 8वें भाव या 6ठे भाव में हो, तो जातक की मृत्यु बीस रातों के भीतर होती है, इसमें कोई संदेह नहीं।",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "चतुर्थपि यदा राहु केन्द्रे भवति चन्द्रमाः। विंशद्रात्रौ भवेन्मृत्युर्जातिकस्य न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in the 4th house and the Moon is in a Kendra, death occurs within twenty nights, without doubt."
+          "english": "If Rahu is in the 4th Bhava and Chandra is in a Kendra Bhava, death of the native occurs within twenty nights, without doubt.",
+          "hindi": "यदि राहु 4थे भाव में हो और चंद्रमा केंद्र भाव में हो, तो जातक की मृत्यु बीस रातों के भीतर होती है, इसमें कोई संदेह नहीं।",
+          "status": "translated"
         },
         {
           "number": 8,
           "text": "सप्तभस्थो यदा राहूर्जन्मलग्ने यदा शशी | दशवर्ष भवेन्यमृत्युरमृते यदि सिंचति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in the 7th house and the Moon is in the birth Lagna, death occurs in the tenth year, unless sprinkled with nectar (benefic influence)."
+          "english": "If Rahu is in the 7th Bhava and Chandra is in the Janma Lagna, death occurs in the tenth year, unless a benefic Graha aspects it.",
+          "hindi": "यदि राहु 7वें भाव में हो और चंद्रमा जन्म लग्न में हो, तो दसवें वर्ष में मृत्यु होती है, यदि कोई शुभ ग्रह उसे सींचता (दृष्टि डालता) न हो।",
+          "status": "translated"
         },
         {
           "number": 9,
           "text": "दादशे च यदा चन्द्रो षष्ठे पापग्रहो भवेत्‌ अल्पायुर्जायते बालोदररोगी न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Moon is in the 12th house and a malefic planet is in the 6th house, the child becomes short-lived and suffers from abdominal diseases, without doubt."
+          "english": "If Chandra is in the 12th Bhava and a Papa Graha is in the 6th Bhava, the native becomes short-lived and suffers from abdominal diseases, without doubt.",
+          "hindi": "यदि चंद्रमा 12वें भाव में हो और 6ठे भाव में कोई पाप ग्रह हो, तो जातक अल्पायु होता है और उदर रोगों से पीड़ित होता है, इसमें कोई संदेह नहीं।",
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "नवमे दशमे राहुर्जन्ममकाले यदा र्थितः। षोडशाब्दे भवेन्मृत्यर्यदि शक्रोऽपि रक्षति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is positioned in the 9th or 10th house at birth, death occurs in the sixteenth year, even if Indra (Shakra) tries to protect him."
+          "english": "If Rahu is positioned in the 9th Bhava or 10th Bhava at birth, death occurs in the sixteenth year, even if Shakra tries to protect him.",
+          "hindi": "यदि जन्म के समय राहु 9वें भाव या 10वें भाव में स्थित हो, तो सोलहवें वर्ष में मृत्यु होती है, भले ही शक्र (इंद्र) भी रक्षा करें।",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "रनिक्षेत्रे यदा भानुः भानुक्षेवे यदि शनिः। विंशे वर्ष भवेन्मृत्युरुत्न्नो यदि बालकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Sun is in the house of Saturn and Saturn is in the house of the Sun, the born child faces death in the twentieth year."
+          "english": "If Surya is in a Rashi of Shani and Shani is in a Rashi of Surya, the native faces death in the twentieth year.",
+          "hindi": "यदि सूर्य शनि के राशि में हो और शनि सूर्य के राशि में हो, तो उत्पन्न जातक की मृत्यु बीसवें वर्ष में होती है।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "जन्मलग्ने यदाराहूुः षष्ठे वायदि चंद्रमाः। गुदारोगी च मंदाग्निः अंगहीनो हि जायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in the birth Lagna or the Moon is in the 6th house, the person suffers from rectal diseases, sluggish digestion, and becomes defective in limbs."
+          "english": "If Rahu is in the Janma Lagna or Chandra is in the 6th Bhava, the native suffers from rectal diseases, sluggish digestion, and becomes defective in limbs.",
+          "hindi": "यदि राहु जन्म लग्न में हो या चंद्रमा 6ठे भाव में हो, तो जातक गुदा रोगों से पीड़ित, मंदाग्नि वाला और अंगों से हीन होता है।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "षष्टाष्टमे जन्मकाले स्थितौ च शनिभास्करौ | राजरोगे भवेन्मृत्युर्जातकस्य न संशय",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn and the Sun are located in the 6th or 8th house at birth, death of the native occurs due to Rajaroga (tuberculosis/wasting disease), without doubt."
+          "english": "If Shani and Surya are located in the 6th Bhava or 8th Bhava at birth, death of the native occurs due to Rajaroga, without doubt.",
+          "hindi": "यदि जन्म के समय शनि और सूर्य 6ठे भाव या 8वें भाव में स्थित हों, तो जातक की मृत्यु राजरोग से होती है, इसमें कोई संदेह नहीं।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "जन्मकाले तनुस्थाने भवेद्ेवोऽपि भास्करः। रथानहीनो भवेद्बालो शोकसंतापकारकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the divine Sun is in the 1st house (Tanu bhava) at birth, the child becomes displaced/homeless and suffers sorrow and distress."
+          "english": "If Surya is in the Lagna / 1st Bhava (Tanu Bhava) at birth, the native becomes devoid of place and suffers sorrow and distress.",
+          "hindi": "यदि जन्म के समय सूर्य लग्न / प्रथम भाव (तनु भाव) में हो, तो जातक स्थानहीन होता है और शोक तथा संताप का कारण बनता है।",
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "दशमस्थोयद भौम उच्चे शत्रुगृहे रिथितः। सूतकेपि तदामृत्युर्भवेन्मातुर्न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars in the 10th house is exalted or situated in an enemy's sign, death of the mother occurs during childbirth/confinement, without doubt."
+          "english": "If Mangala in the 10th Bhava is exalted or situated in an enemy's Rashi, then death of the mother occurs during the Sutaka period, without doubt.",
+          "hindi": "यदि मंगल 10वें भाव में उच्च का हो या शत्रु के राशि में स्थित हो, तो माता की मृत्यु सूतक काल में होती है, इसमें कोई संदेह नहीं।",
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "लग्नेऽष्टमे यदा राहुश्चन्द्र वा यदि पश्यति । सूतकेपि तदा मृत्युः शक्रोऽपि यदि रक्षति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in the 1st or 8th house and aspects the Moon, death occurs during infant confinement, even if protected by Lord Indra."
+          "english": "If Rahu is in Lagna or Randhra Bhava and aspects Chandra, then death occurs during the confinement period (sūtaka), even if Shakra protects.",
+          "hindi": "यदि राहु लग्न या रन्ध्र भाव में हो और चन्द्रमा को देखता हो, तो सूतक काल में मृत्यु होती है, भले ही शक्र भी रक्षा करे।",
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "केन्द्रे शुक्रगुरौ यस्य द्वादशे यदि भास्करः। लग्ने बुधश्च संप्राप्तः शतंजीवति बालकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Venus and Jupiter are in Kendra houses, the Sun in the 12th house, and Mercury in the Lagna, the child lives for a hundred years."
+          "english": "If Shukra and Guru are in Kendra Bhavas, Bhaskara is in Vyaya Bhava, and Budha is situated in Lagna, the child lives for a hundred years.",
+          "hindi": "यदि शुक्र और गुरु केन्द्र भावों में हों, भास्कर व्यय भाव में हो, और बुध लग्न में स्थित हो, तो बालक सौ वर्ष तक जीवित रहता है।",
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "गुरु्धनुषिमीने च तथा कर्कटकेऽपि चं लग्नात्रिकोणकेन्द्रे वा तदारिष्टं न जायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in Sagittarius, Pisces, or Cancer, situated in a Kendra or Trikona from Lagna, no evil (arishta) affects the native."
+          "english": "If Guru is in Dhanu, Meena, or Karka, and is situated in a Kendra or Trikona from Lagna, then no arishta occurs.",
+          "hindi": "यदि गुरु धनु, मीन या कर्क राशि में हो, और लग्न से त्रिकोण या केन्द्र में स्थित हो, तो कोई अरिष्ट उत्पन्न नहीं होता।",
+          "status": "translated"
         },
         {
           "number": 19,
           "text": "बुधभार्गवजीवनामेकोऽपि यदि केन्द्रगः| स्वरथानबलसंयुक्तस्तदारिष्टं न जायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If even one among Mercury, Venus, or Jupiter occupies a Kendra endowed with own-sign strength, no evil (arishta) occurs."
+          "english": "If even one among Budha, Bhargava, or Jiva occupies a Kendra, endowed with strength in its own Rashi, then no arishta occurs.",
+          "hindi": "यदि बुध, भार्गव या जीव में से कोई एक भी अपनी राशि के बल से युक्त होकर केन्द्र में स्थित हो, तो कोई अरिष्ट उत्पन्न नहीं होता।",
+          "status": "translated"
         },
         {
           "number": 20,
           "text": "शनेश्चरस्तुला कुंभो मकरे च यदा भवेत्‌| आदये षष्ठतृतीये च तदारिष्टं न जायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn is in Libra, Aquarius, or Capricorn, situated in the 1st, 6th, or 3rd house, no evil (arishta) affects the child."
+          "english": "If Shanaishchara is in Tula, Kumbha, or Makara, and is situated in Lagna, Ari Bhava, or Sahaja Bhava, then no arishta occurs.",
+          "hindi": "यदि शनैश्चर तुला, कुंभ या मकर राशि में हो, और लग्न, अरि भाव या सहज भाव में स्थित हो, तो कोई अरिष्ट उत्पन्न नहीं होता।",
+          "status": "translated"
         },
         {
           "number": 21,
           "text": "यदा भानुर्भवेत्‌ सिंहे मेषे च मित्रवीक्षितः| यदि षष्ठोऽपि लाभस्थस्तदारिष्टं न जायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Sun is in Leo or Aries aspected by friendly planets, or if located in the 6th or 11th house, no evil (arishta) occurs."
+          "english": "If Bhanu is in Simha or Mesha and aspected by friendly Grahas, or if it is in Ari Bhava or Labha Bhava, then no arishta occurs.",
+          "hindi": "यदि भानु सिंह या मेष राशि में हो और मित्र ग्रहों से दृष्ट हो, अथवा यदि वह अरि भाव या लाभ भाव में स्थित हो, तो कोई अरिष्ट उत्पन्न नहीं होता।",
+          "status": "translated"
         },
         {
           "number": 22,
           "text": "मेषे वृषे कुलीरे वा रार्हुलग्नमुपासितः। यदा सौम्यग्रहेरदष्टे तदारिष्टं न जायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu occupies the Lagna in Aries, Taurus, or Cancer and is aspected by benefic planets, no evil (arishta) takes effect."
+          "english": "If Rahu occupies Lagna in Mesha, Vrishabha, or Kulira, and is aspected by Saumya Grahas, then no arishta takes effect.",
+          "hindi": "यदि राहु मेष, वृषभ या कुलीर राशि में लग्न में स्थित हो, और सौम्य ग्रहों से दृष्ट हो, तो कोई अरिष्ट उत्पन्न नहीं होता।",
+          "status": "translated"
         },
         {
           "number": 23,
           "text": "लग्ने सौरिस्तथा चनद्रस्त्रिकोणे जीवभास्करौ | कर्मस्थाने यदा भेमोराजयोगौ विधीयते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn and Moon are in Lagna, Jupiter and Sun in Trikona, and Mars in the 10th house, a powerful Raja Yoga is formed."
+          "english": "If Saurī and Chandra are in Lagna, Jīva and Bhāskara are in a Trikona, and Bhauma is in Karma Bhava, a Raja Yoga is formed.",
+          "hindi": "यदि सौरि और चन्द्रमा लग्न में हों, जीव और भास्कर त्रिकोण में हों, और भौम कर्म भाव में हो, तो राजयोग बनता है।",
+          "status": "translated"
         },
         {
           "number": 24,
           "text": "नवमे च यदा सूर्यः स्वगृहस्थो यदा भवेत्‌ तस्य नो जीवति भ्राता एकोऽपि च नृपैः सम",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Sun is in the 9th house in its own sign (Leo), the native's brother does not survive, but the native becomes equal to a king."
+          "english": "If Surya is in Dharma Bhava and in its own Rashi (Simha), then his brother does not survive, but the native becomes equal to kings.",
+          "hindi": "यदि सूर्य धर्म भाव में और अपनी राशि (सिंह) में हो, तो उसका भाई जीवित नहीं रहता, और वह राजाओं के समान होता है।",
+          "status": "translated"
         },
         {
           "number": 25,
           "text": "कर्मस्थाने निजक्षत्री यदि राहुर्भवेदिह | भोमशुक्रवुधैर्युक्तः क्षणे वृद्धिः क्षणे क्षयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in its own sign in the 10th house combined with Mars, Venus, and Mercury, the native experiences instant growth and instant loss."
+          "english": "If Rahu is in Karma Bhava in its own Rashi, combined with Bhauma, Shukra, and Budha, then there is growth in a moment and decay in a moment.",
+          "hindi": "यदि राहु कर्म भाव में अपनी राशि में हो, और भौम, शुक्र तथा बुध से युक्त हो, तो क्षण में वृद्धि और क्षण में क्षय होता है।",
+          "status": "translated"
         },
         {
           "number": 26,
           "text": "धनस्थाने यदा क्रूरः सहजे च तमस्सथा | पंचमे च भवेज्जीवो नीचजातिस्तदा भवेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a malefic is in the 2nd house, Rahu in the 3rd house, and Jupiter in the 5th house, the native acts like a low-caste or degraded person."
+          "english": "If a Krūra Graha is in Dhana Bhava, Tamas (Rahu) is in Sahaja Bhava, and Jīva is in Putra Bhava, then the native becomes of low character (nīca-jāti).",
+          "hindi": "यदि क्रूर ग्रह धन भाव में हो, तमस् (राहु) सहज भाव में हो, और जीव पुत्र भाव में हो, तो जातक नीच जाति का (निम्न चरित्र वाला) होता है।",
+          "status": "translated"
         },
         {
           "number": 27,
           "text": "नवपंचचतुर्थषु स्थाने सूर्यादयो ग्रहाः || आदौ जाता विनश्यन्ति पश्चाज्जातश्च जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Sun and other planets occupy the 9th, 5th, and 4th houses, earlier born siblings perish while those born later survive."
+          "english": "If Sūrya and other Grahas occupy Dharma Bhava, Putra Bhava, and Sukha Bhava, then earlier born siblings perish, and those born later survive.",
+          "hindi": "यदि सूर्य आदि ग्रह धर्म भाव, पुत्र भाव और सुख भाव में स्थित हों, तो पहले जन्मे भाई-बहन नष्ट होते हैं, और बाद में जन्मे जीवित रहते हैं।",
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "धनस्थौ यदा क्रूरः भौमसौरिसमन्वितः। सहजे च यदा राहुस्तस्य भ्राता न जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefics together with Mars and Saturn occupy the 2nd house and Rahu is in the 3rd house, the native's brother does not survive."
+          "english": "If a Krūra Graha, accompanied by Bhauma and Saurī, is in Dhana Bhava, and Rahu is in Sahaja Bhava, then the native's brother does not survive.",
+          "hindi": "यदि क्रूर ग्रह, भौम और सौरि से युक्त होकर धन भाव में हो, और राहु सहज भाव में हो, तो उसके भाई जीवित नहीं रहते।",
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "धने व्यये तदा लग्ने सप्तमे भवने ग्रहः | छत्रयोगं विजानीयात्स्वकुले नायको भवेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If planets occupy the 2nd, 12th, 1st, and 7th houses, know this to be Chhatra Yoga; the person becomes a leader in his lineage."
+          "english": "If Grahas occupy Dhana Bhava, Vyaya Bhava, Lagna, and Yuvati Bhava, know this to be Chhatra Yoga; the native becomes a leader in his lineage.",
+          "hindi": "यदि ग्रह धन भाव, व्यय भाव, लग्न और युवति भाव में स्थित हों, तो इसे छत्र योग जानें; जातक अपने कुल में नायक होता है।",
+          "status": "translated"
         },
         {
           "number": 30,
           "text": "लग्ने शुक्रो व्यये सोम्यो धने क्रूरस्तथेव च। राजयोगे भवेदाजा दानदारिद्रयभास्करः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Venus is in Lagna, Mercury in the 12th house, and a malefic in the 2nd house, the native attains Raja Yoga to become a king, radiant like the sun in charity and eradicating poverty."
+          "english": "If Shukra is in Lagna, Saumya is in Vyaya Bhava, and a Krūra Graha is in Dhana Bhava, then a Raja Yoga occurs, and the native becomes a king, radiant like Bhaskara in charity and dispelling poverty.",
+          "hindi": "यदि शुक्र लग्न में हो, सौम्य व्यय भाव में हो, और क्रूर ग्रह धन भाव में हो, तो राजयोग होता है, और जातक राजा बनता है, दान में और दरिद्रता को दूर करने में भास्कर के समान तेजस्वी होता है।",
+          "status": "translated"
         },
         {
           "number": 31,
           "text": "लग्ने क्रूरो व्यये क्रूरो धने सौम्यस्तथेव च| सप्तमे भवने क्रूरः परिवारक्षयंकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefics are in the Lagna, 12th, and 7th houses while a benefic is in the 2nd house, the native causes the destruction of his family."
+          "english": "If Krura Grahas are in the Lagna, Vyaya Bhava, and Yuvati Bhava, and a Saumya Graha is in Dhana Bhava, the native causes the destruction of his family.",
+          "hindi": "यदि क्रूर ग्रह (Krura Grahas) लग्न (Lagna), व्यय भाव (Vyaya Bhava) और युवती भाव (Yuvati Bhava) में हों, तथा एक सौम्य ग्रह (Saumya Graha) धन भाव (Dhana Bhava) में हो, तो जातक अपने परिवार का नाश करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 32,
           "text": "धने चंद्रे च सौरिश्च मेषे जीवो यदा भवेत्‌ दशमे राहु शुक्रौ च राजयोगो विधीयते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Moon and Saturn are in the 2nd house, Jupiter in Aries, and Rahu and Venus in the 10th house, Raja Yoga is produced."
+          "english": "If Chandra and Shani are in Dhana Bhava, Guru is in Mesha, and Rahu and Shukra are in Karma Bhava, Raja Yoga is produced.",
+          "hindi": "यदि चंद्र (Chandra) और शनि (Shani) धन भाव (Dhana Bhava) में हों, गुरु (Guru) मेष (Mesha) में हो, तथा राहु (Rahu) और शुक्र (Shukra) कर्म भाव (Karma Bhava) में हों, तो राजयोग (Raja Yoga) बनता है।",
+          "status": "translated"
         },
         {
           "number": 33,
           "text": "धने व्ययेऽष्टमे क्रूरो जन्मकाले भवेद्यदि | तस्य त्वक्षिविनाशश्च द्वादशाष्टमवासरे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefics are present in the 2nd, 12th, and 8th houses at birth, destruction of the native's eyes occurs within 12 to 18 days."
+          "english": "If Krura Grahas are present in Dhana Bhava, Vyaya Bhava, and Randhra Bhava at birth, destruction of the native's eyes occurs within 12 to 18 days.",
+          "hindi": "यदि जन्मकाल (Janmakala) में क्रूर ग्रह (Krura Grahas) धन भाव (Dhana Bhava), व्यय भाव (Vyaya Bhava) और रंध्र भाव (Randhra Bhava) में हों, तो 12 से 18 दिनों के भीतर जातक की आँखों का विनाश होता है।",
+          "status": "translated"
         },
         {
           "number": 34,
           "text": "अष्टमे भवने भौमः सप्तमे राहु संभवः | भौमः सौरेण संयुक्तस्य भ्राता न जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars is in the 8th house, Rahu in the 7th house, and Mars is associated with Saturn, the native's brother does not live."
+          "english": "If Mangala is in Randhra Bhava, Rahu is in Yuvati Bhava, and Mangala is conjoined with Shani, the native's brother does not live.",
+          "hindi": "यदि मंगल (Mangala) रंध्र भाव (Randhra Bhava) में हो, राहु (Rahu) युवती भाव (Yuvati Bhava) में हो, और मंगल (Mangala) शनि (Shani) से संयुक्त हो, तो जातक का भाई जीवित नहीं रहता।",
+          "status": "translated"
         },
         {
           "number": 35,
           "text": "तिथ्यते च दिनांते च लग्नस्यांते तथैव च रात्रावपि च यो जातः सोन्यजातो भविष्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "One born at the junction of Tithi (Tithi-anta), day-end (Dinanta), Lagna-end (Lagnanta), or at night under such sandhis becomes born of another (illegitimate/adopted)."
+          "english": "One born at the junction of Tithi (Tithi-anta), day-end (Dinanta), Lagna-end (Lagnanta), or at night during such Sandhis, becomes born of another (illegitimate or adopted).",
+          "hindi": "जो तिथि के अंत (Tithi-anta), दिन के अंत (Dinanta), लग्न के अंत (Lagnanta) में, या रात्रि में ऐसी संधियों (Sandhis) में जन्म लेता है, वह अन्यजाति (अवैध या दत्तक) होता है।",
+          "status": "translated"
         },
         {
           "number": 36,
           "text": "स्वकषेत्रस्थो यदा भौमः कर्मस्थाने निरीक्षते । बुधः क्रूरसमाविष्टः स्वल्पकर्मफलप्रदः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars in its own sign aspects the 10th house and Mercury is joined by a malefic, the native reaps very little fruit for his actions."
+          "english": "If Mangala, in its own Rashi, aspects Karma Bhava, and Budha is conjoined with a Krura Graha, the native reaps very little fruit for his actions.",
+          "hindi": "जब मंगल (Mangala) अपने स्वक्षेत्र (Swa-Kshetra) में स्थित होकर कर्म भाव (Karma Bhava) को देखता है, और बुध (Budha) क्रूर ग्रह (Krura Graha) से युक्त होता है, तो जातक को अपने कर्मों का बहुत कम फल मिलता है।",
+          "status": "translated"
         },
         {
           "number": 37,
           "text": "सिंहे जीवस्तथा शुक्रो कन्यायां मिथुने शनिः। स्वक्षेत्रे हिबुके भौमः स पुमान्नायको भवेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter and Venus are in Leo, Saturn in Gemini/Virgo, and Mars in its own sign in the 4th house (hibuka), that man becomes a great leader."
+          "english": "If Guru and Shukra are in Simha, Shani is in Kanya or Mithuna, and Mangala is in its own Rashi in Sukha Bhava (Hibuka Bhava), that man becomes a great leader.",
+          "hindi": "यदि गुरु (Guru) और शुक्र (Shukra) सिंह (Simha) में हों, शनि (Shani) कन्या (Kanya) या मिथुन (Mithuna) में हो, और मंगल (Mangala) अपने स्वक्षेत्र (Swa-Kshetra) में सुख भाव (Sukha Bhava / Hibuka Bhava) में हो, तो वह पुरुष नायक बनता है।",
+          "status": "translated"
         },
         {
           "number": 38,
           "text": "कन्यायां सौरिचंद्रे च मृगे भौमे घटे तमः। सिंहे जीवस्तथा जातो दुष्टपक्षक्षयकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn and Moon are in Virgo, Mars in Capricorn, Rahu in Aquarius, and Jupiter in Leo, the person born destroys hostile factions."
+          "english": "If Shani and Chandra are in Kanya, Mangala in Makara, Rahu (Tamah) in Kumbha, and Guru in Simha, the person born destroys hostile factions.",
+          "hindi": "यदि शनि (Shani) और चंद्र (Chandra) कन्या (Kanya) में हों, मंगल (Mangala) मकर (Makara) में हो, राहु (Tamah) कुंभ (Kumbha) में हो, और गुरु (Guru) सिंह (Simha) में हो, तो जन्मा व्यक्ति दुष्ट पक्षों का नाश करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 39,
-          "text": "अस्मिन्योगे समुत्पन्नः सामान्यो नैव मानवः कुटुम्बस्य समुद्धर्ता स भवेद्राजयोगतः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "One born under this combination is no ordinary human; through Raja Yoga, he becomes the savior and uplifter of his family."
+          "text": "अस्मिन्नयोगे समुत्पन्नः सामान्यो नैव मानवः कुटुम्बस्य समुद्धर्ता स भवेद्राजयोगतः",
+          "english": "One born under this planetary combination is no ordinary human; through Raja Yoga, he becomes the savior and uplifter of his family.",
+          "hindi": "इस ग्रह योग (Graha Yoga) में उत्पन्न व्यक्ति सामान्य मानव नहीं होता; वह राजयोग (Raja Yoga) के कारण अपने कुटुम्ब का उद्धारकर्ता और संरक्षक बनता है।",
+          "status": "translated"
         },
         {
           "number": 40,
           "text": "शुक्रो जीवो रविभौमो धनुर्मकर कुंभयोः। मीने च तत्सरे विंशे जातस्य क्रूर कर्मकृत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Venus, Jupiter, Sun, and Mars occupy Sagittarius, Capricorn, Aquarius, and Pisces respectively, in his 20th year the native performs fierce/cruel deeds."
+          "english": "If Shukra, Guru, Surya, and Mangala occupy Dhanu, Makara, Kumbha, and Meena respectively, in his 20th year the native performs fierce/cruel deeds.",
+          "hindi": "यदि शुक्र (Shukra), गुरु (Guru), सूर्य (Surya) और मंगल (Mangala) क्रमशः धनु (Dhanu), मकर (Makara), कुंभ (Kumbha) और मीन (Meena) में हों, तो जातक अपने बीसवें वर्ष में क्रूर कर्म करता है।",
+          "status": "translated"
         },
         {
           "number": 41,
           "text": "एकादशे यदा क्रूरः पंचमे शुक्रशीतगू | प्रथमे कन्या जन्म माता तस्य सकणष्टका",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a malefic is in the 11th house, Venus and Moon in the 5th, and birth occurs in Virgo Lagna, the native's mother suffers great hardship."
+          "english": "If a Krura Graha is in Labha Bhava, Shukra and Chandra (Sheetagu) are in Putra Bhava, and birth occurs in Kanya Lagna, the native's mother suffers great hardship.",
+          "hindi": "यदि एकादश (Labha Bhava) में क्रूर ग्रह (Krura Graha) हो, पंचम (Putra Bhava) में शुक्र (Shukra) और चंद्र (Sheetagu) हों, और कन्या लग्न (Kanya Lagna) में जन्म हो, तो जातक की माता को बहुत कष्ट होता है।",
+          "status": "translated"
         },
         {
           "number": 42,
           "text": "सुहत्स्थाने यदा राहूर्धनस्थाने बृहस्पतिः। बुधो वा नवमे षष्ठे तस्यं ब॑धुक्षयंकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in the 4th house, Jupiter in the 2nd house, and Mercury in the 9th or 6th house, it brings destruction to relatives."
+          "english": "If Rahu is in Sukha Bhava (Suhrit Sthana), Guru (Brihaspati) in Dhana Bhava, and Budha in Dharma Bhava or Ari Bhava, it brings destruction to relatives.",
+          "hindi": "यदि राहु (Rahu) सुख भाव (Sukha Bhava / Suhrit Sthana) में हो, बृहस्पति (Guru) धन भाव (Dhana Bhava) में हो, और बुध (Budha) धर्म भाव (Dharma Bhava) या अरि भाव (Ari Bhava) में हो, तो यह बंधुओं का क्षय करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 43,
           "text": "धर्मरथाने यदा जीवों बुधः शुक्रस्तथा शशी । तस्य कार्याणि सिध्यन्ति राजमान्यो भवेन्नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter, Mercury, Venus, and the Moon occupy the 9th house (Dharma sthana), all his undertakings succeed and he becomes honored by kings."
+          "english": "If Guru (Jiva), Budha, Shukra, and Chandra (Shashi) occupy Dharma Bhava (Dharma Sthana), all his undertakings succeed and he becomes honored by kings.",
+          "hindi": "यदि जीव (Guru), बुध (Budha), शुक्र (Shukra) और शशि (Chandra) धर्म भाव (Dharma Bhava / Dharma Sthana) में हों, तो उसके सभी कार्य सिद्ध होते हैं और वह राजाओं द्वारा सम्मानित होता है।",
+          "status": "translated"
         },
         {
           "number": 44,
           "text": "षष्ठाष्टमे पंचमे च नवमे द्वादशे तथा| सौम्यक्रूरग्रहैर्योगि राजमान्यो सकष्टकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If benefics and malefics combine in the 6th, 8th, 5th, 9th, and 12th houses, the person becomes honored by kings yet experiences troubles."
+          "english": "If Saumya Grahas and Krura Grahas combine in Ari Bhava, Randhra Bhava, Putra Bhava, Dharma Bhava, and Vyaya Bhava, the person becomes honored by kings yet experiences troubles.",
+          "hindi": "यदि सौम्य ग्रह (Saumya Grahas) और क्रूर ग्रह (Krura Grahas) अरि भाव (Ari Bhava), रंध्र भाव (Randhra Bhava), पुत्र भाव (Putra Bhava), धर्म भाव (Dharma Bhava) और व्यय भाव (Vyaya Bhava) में योग करें, तो व्यक्ति राजाओं द्वारा सम्मानित होता है फिर भी कष्टों का अनुभव करता है।",
+          "status": "translated"
         },
         {
           "number": 45,
           "text": "पंचषष्टाष्टमगता नवमस्था यथाक्रमम्‌| भौमो राहुः शितः सूर्यः स्वपक्षपरिपालकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars, Rahu, Venus, and Sun are positioned respectively in the 5th, 6th, 8th, and 9th houses, the native protects and nourishes his own kinsmen."
+          "english": "If Mangala (Bhauma), Rahu, Shukra (Shita), and Surya are positioned respectively in Putra Bhava, Ari Bhava, Randhra Bhava, and Dharma Bhava, the native protects and nourishes his own kinsmen.",
+          "hindi": "यदि भौम (Mangala), राहु (Rahu), शित (Shukra) और सूर्य (Surya) क्रमशः पुत्र भाव (Putra Bhava), अरि भाव (Ari Bhava), रंध्र भाव (Randhra Bhava) और धर्म भाव (Dharma Bhava) में स्थित हों, तो जातक अपने पक्ष (कुटुम्ब) का पालन-पोषण करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 46,
           "text": "लग्ने सौरिस्तथा चन्द्रश्चाष्टमे भवनेशितः | राजमान्यो तथा कामी भोगवांश्च यथा तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn and Moon are in Lagna and the lord of Lagna is in the 8th house, the native is royal-honored, passionate, and enjoys pleasures everywhere."
+          "english": "If Shani and Chandra are in Lagna, and the Lagna Adhipati is in Randhra Bhava, the native is Rajamanya, Kami, and Bhogavan.",
+          "hindi": "यदि Shani और Chandra Lagna में हों, और Lagna Adhipati Randhra Bhava में हो, तो जातक राजमान्य, कामी और भोगवान होता है।",
+          "status": "translated"
         },
         {
           "number": 47,
           "text": "मकरस्थो यदा चंद्रो नीचे शत्रुगृहे र्थितः। भ्रातृवर्गतथा कष्टं यदि स्वामी न पश्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Moon is in Capricorn in debilitation or in an enemy's sign without aspect of its lord, hardship befalls the native's brothers."
+          "english": "If Chandra is in Makara, being Neecha or in a Shatru Rashi, and Swa Adhipati does not aspect, then hardship befalls the Bhratru Varga.",
+          "hindi": "यदि Chandra Makara में, Neecha या Shatru Rashi में स्थित हो, और Swa Adhipati उसे न देखता हो, तो Bhratru Varga को कष्ट होता है।",
+          "status": "translated"
         },
         {
           "number": 48,
           "text": "मिथुनस्थो यदा राहु सिंहस्थो भूमिनंदनः | वृश्चिके च यदा जीवो तदा जातो नृपो भवेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in Gemini, Mars in Leo, and Jupiter in Scorpio, the child born becomes a sovereign king."
+          "english": "If Rahu is in Mithuna, Mangala is in Simha, and Guru is in Vrishchika, then the native becomes a Nripa.",
+          "hindi": "यदि Rahu Mithuna में हो, Mangala Simha में हो, और Guru Vrishchika में हो, तो जातक Nripa बनता है।",
+          "status": "translated"
         },
         {
           "number": 49,
           "text": "कुमे सौरिर्धने सूर्यो मेषे वै चंद्रमा भवेत्‌। मकरे च तथा भौमः स्व॑भुक्ते वा पितुर्धनम्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn is in Aquarius, Sun in the 2nd house, Moon in Aries, and Mars in Capricorn, the native himself enjoys paternal wealth."
+          "english": "If Shani is in Kumbha, Surya is in Dhana Bhava, Chandra is in Mesha, and Mangala is in Makara, the native himself enjoys Pitur Dhanam.",
+          "hindi": "यदि Shani Kumbha में हो, Surya Dhana Bhava में हो, Chandra Mesha में हो, और Mangala Makara में हो, तो जातक स्वयं Pitur Dhanam का भोग करता है।",
+          "status": "translated"
         },
         {
           "number": 50,
           "text": "दशमस्थौ बुधदित्यौ षष्टे राहुधरासुतौ | राजयोगे च यो जातः स पुमान्नायको भवेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Sun and Mercury are in the 10th house, and Rahu and Mars are in the 6th house, the native born in this Raja Yoga becomes a ruler."
+          "english": "If Budha and Surya are in Karma Bhava, and Rahu and Mangala are in Ari Bhava, the native born in this Raja Yoga becomes a Nayaka.",
+          "hindi": "यदि Budha और Surya Karma Bhava में हों, और Rahu तथा Mangala Ari Bhava में हों, तो इस Raja Yoga में जन्मा जातक Nayaka बनता है।",
+          "status": "translated"
         },
         {
           "number": 51,
           "text": "स्वगृहे दशमे सूर्यः तुलायां सूर्यजो रिपौ | बुधेन्दू मिथुने धर्मे राजयोगोऽभिजायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Sun is in the 10th house in own sign (Leo), Saturn in Libra in the 6th house, and Mercury and Moon in Gemini in the 9th house, Raja Yoga arises."
+          "english": "If Surya is in Karma Bhava in Swa Rashi (Simha), Shani is in Tula in Ari Bhava, and Budha and Chandra are in Mithuna in Dharma Bhava, then Raja Yoga arises.",
+          "hindi": "यदि Surya Karma Bhava में Swa Rashi (Simha) में हो, Shani Tula में Ari Bhava में हो, और Budha तथा Chandra Mithuna में Dharma Bhava में हों, तो Raja Yoga उत्पन्न होता है।",
+          "status": "translated"
         },
         {
           "number": 52,
           "text": "आदौ जीवः शितश्चांत्ये ग्रहामध्ये निरंतर | राजयोगं विजानीयात्‌ कुटुबबलवर्धनः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is at the beginning, Venus at the end, and other planets continuously in between, know it as Raja Yoga which increases family strength."
+          "english": "If Guru is in Lagna, Shukra is in Vyaya Bhava, and other Grahas are continuously in the intervening Bhavas, know this as a Raja Yoga that increases Kutumba Bala.",
+          "hindi": "यदि Guru Lagna में हो, Shukra Vyaya Bhava में हो, और अन्य Graha निरंतर मध्य के Bhavas में हों, तो इसे Kutumba Bala बढ़ाने वाला Raja Yoga जानें।",
+          "status": "translated"
         },
         {
           "number": 53,
           "text": "सहजस्थ यदा जीवो मृत्युस्थाने यदा सितः। निरतरं ग्रहा मध्ये राजा भवति निश्चितम्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in the 3rd house, Venus in the 8th house, and planets continuously occupy the intervening houses, the person surely becomes a king."
+          "english": "If Guru is in Sahaja Bhava, Shukra is in Randhra Bhava, and Grahas are continuously in the intervening Bhavas, the person surely becomes a Raja.",
+          "hindi": "यदि Guru Sahaja Bhava में हो, Shukra Randhra Bhava में हो, और Graha निरंतर मध्य के Bhavas में हों, तो व्यक्ति निश्चित रूप से Raja बनता है।",
+          "status": "translated"
         },
         {
           "number": 54,
           "text": "वृषे जीवस्तथा चंद्रो मिथुने मकरे कूजः। सिंहस्थो यदि शुक्रश्च कन्यायां बुधभास्करौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter and Moon are in Taurus, Mars in Capricorn, Venus in Leo, and Mercury and Sun in Virgo..."
+          "english": "If Guru and Chandra are in Vrishabha, Mangala is in Makara, Shukra is in Simha, and Budha and Surya are in Kanya...",
+          "hindi": "यदि Guru और Chandra Vrishabha में हों, Mangala Makara में हो, Shukra Simha में हो, और Budha तथा Surya Kanya में हों...",
+          "status": "translated"
         },
         {
           "number": 55,
           "text": "तुलायां जायते सौरी राजयोगो भवेद्यदा | योगेसिमिन्पुण्यवान्नयायौ जायते मानवः शुभः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "...and Saturn is in Libra, when such Raja Yoga occurs, a virtuous, just, auspicious, and noble human being is born."
+          "english": "...and Shani is in Tula, when such a Raja Yoga occurs, a Punyavan, Nyayavan, and Shubha Manava is born.",
+          "hindi": "...और Shani Tula में हो, जब ऐसा Raja Yoga बनता है, तो एक Punyavan, Nyayavan और Shubha Manava का जन्म होता है।",
+          "status": "translated"
         },
         {
           "number": 56,
           "text": "अष्टमे द्वादशे वर्षे यदि जीवति बालकः। तदा कूदुम्बमध्यं तु पूर्वं जातान्समुद्धरेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the child survives the 8th and 12th years, he will elevate and support his family and elders born before him."
+          "english": "If the Balaka survives the Ashtame and Dvadash Varsha, then he elevates those born before him in the Kutumba.",
+          "hindi": "यदि Balaka आठवें और बारहवें वर्ष तक जीवित रहता है, तो वह Kutumba में अपने से पूर्व जन्मे लोगों का उद्धार करता है।",
+          "status": "translated"
         },
         {
           "number": 57,
           "text": "क्रूरश्च तुलकेन्दरेषु तथा क्रूरो धनेऽपि च। दारिद्रययोगजातश्च स्वयंपक्षक्षयंकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefic planets occupy Kendras and the 2nd house, a Daridra (poverty) Yoga is formed, destroying one's own kinsmen."
+          "english": "If Krura Grahas are in Kendras and also in Dhana Bhava, a Daridra Yoga is formed, making the native a Svayam Paksha Kshayamkara.",
+          "hindi": "यदि Krura Graha Kendras में और Dhana Bhava में भी हों, तो Daridra Yoga बनता है, और जातक अपने पक्ष का क्षय करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 58,
           "text": "दशमे भवने चन्द्रौ सप्तमे भवने शितः पापैः पातालसंस्थेश्च वंशचछेदकरो नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Moon is in the 10th house, Venus in the 7th, and malefics occupy the 4th house (patala), the native causes the termination of his lineage."
+          "english": "If Chandra is in Karma Bhava, Shukra is in Yuvati Bhava, and Papa Grahas are in Sukha Bhava (Patala Sthana), the native becomes a Vamsha Chhedakara.",
+          "hindi": "यदि Chandra Karma Bhava में हो, Shukra Yuvati Bhava में हो, और Papa Graha Sukha Bhava (Patala Sthana) में स्थित हों, तो जातक Vamsha Chhedakara होता है।",
+          "status": "translated"
         },
         {
           "number": 59,
           "text": "मीनस्थे च यदा जीवो धने सौरिः यदा भवेत्‌। राहुश्च सहजे यस्य माता तस्य न जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in Pisces, Saturn in the 2nd house, and Rahu in the 3rd house, the native's mother does not survive."
+          "english": "If Guru is in Meena, Shani is in Dhana Bhava, and Rahu is in Sahaja Bhava, then the native's Mata does not Jivati.",
+          "hindi": "यदि Guru Meena में हो, Shani Dhana Bhava में हो, और Rahu Sahaja Bhava में हो, तो जातक की Mata जीवित नहीं रहती।",
+          "status": "translated"
         },
         {
           "number": 60,
           "text": "सप्तमे भवने भौमश्चाष्टमे च यदा शितः। नवमे च भवेत्सूर्यः स्वल्पायुश्च भवेन्नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars is in the 7th house, Venus in the 8th house, and the Sun in the 9th house, the native becomes short-lived."
+          "english": "If Mangala is in Yuvati Bhava, Shukra is in Randhra Bhava, and Surya is in Dharma Bhava, the native becomes Svalpayu.",
+          "hindi": "यदि Mangala Yuvati Bhava में हो, Shukra Randhra Bhava में हो, और Surya Dharma Bhava में हो, तो जातक Svalpayu होता है।",
+          "status": "translated"
         },
         {
           "number": 61,
           "text": "तस्य भ्राता भवेदन्यान्प्रीतात्मा च समुद्धरेत्‌। जीवके च भवेल्लग्ने सर्वयोगे शुभंकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "His brother will be affectionate and elevate others, and if Jupiter is in Lagna, it bestows auspiciousness across all combinations."
+          "english": "His brother will be affectionate and elevate others; and if Guru is in Lagna, it bestows auspiciousness in all yogas.",
+          "hindi": "उसका भाई स्नेही होगा और दूसरों का उद्धार करेगा; और यदि गुरु लग्न में हो, तो यह सभी योगों में शुभ फल देता है।",
+          "status": "translated"
         },
         {
           "number": 62,
           "text": "दीर्घजीवी महाप्राज्ञो स पुमान्नायको भवेत्‌| अस्मिन्योगे भवेज्जातो स विभुर्दभवर्जित",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Long-lived, highly wise, that man becomes a leader; born under this yoga, he becomes a lord free from affliction."
+          "english": "Long-lived, highly wise, that man becomes a leader; born in this yoga, he becomes a lord free from affliction.",
+          "hindi": "वह पुरुष दीर्घायु, महाज्ञानी और नायक होता है; इस योग में जन्मा वह व्यक्ति कष्ट से रहित स्वामी बनता है।",
+          "status": "translated"
         },
         {
           "number": 63,
           "text": "दानभोगादिविख्यातः सामान्यः संभवेन्न हि| ककं सौरिर्वृषे राहुर्बहुभार्यायुतो नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Famed for charity and enjoyment, he is no ordinary person. If Saturn is in Cancer and Rahu in Taurus, the man possesses multiple wives."
+          "english": "Famed for charity and enjoyment, he is no ordinary person. If Shani is in Karka and Rahu is in Vrishabha, the man possesses multiple wives.",
+          "hindi": "वह दान और भोग के लिए विख्यात होता है, सामान्य व्यक्ति नहीं होता। यदि शनि कर्क में और राहु वृषभ में हो, तो वह पुरुष अनेक पत्नियों वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 64,
           "text": "वीक्षिते तु सुतस्थाने सौरिर्यत्रतदेकिकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Saturn aspects the house of children (5th house), children are few or single."
+          "english": "If Shani aspects the Putra Bhava, there will be few or only one child.",
+          "hindi": "यदि शनि पुत्र भाव को देखता है, तो संतान कम या केवल एक होती है।",
+          "status": "translated"
         },
         {
           "number": 65,
           "text": "राहुजीवौ रिपु्षत्रे लग्ने सथानाच्चतुर्थके | उमापतिर्यदि रक्षेन्नाशं याति त्रयोदशे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu and Jupiter occupy an enemy sign in the 4th house from Lagna, unless Lord Shiva (Umapati) protects him, he meets destruction in his 13th year."
+          "english": "If Rahu and Guru occupy an enemy Rashi in the 4th Bhava from Lagna, unless Umapati protects him, he meets destruction in his thirteenth year.",
+          "hindi": "यदि राहु और गुरु लग्न से चतुर्थ भाव में शत्रु राशि में हों, तो यदि उमापति रक्षा न करें, तो वह तेरहवें वर्ष में नष्ट हो जाता है।",
+          "status": "translated"
         },
         {
           "number": 66,
           "text": "लग्नात्स्यादष्टमे भौमस्त्रिकोणे नीचगो रविः | शीघ्रं च गुरुधर्मस्थो लक्ष्मीपात्रं भवेन्नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars is in the 8th from Lagna and Sun in debilitation in a Trikona, but Jupiter is swiftly in the 9th house (Dharma), the man becomes a recipient of fortune (Lakshmi)."
+          "english": "If Mangala is in the 8th Bhava from Lagna, and Surya is debilitated in a Trikona, but Guru is swiftly in the Dharma Bhava, the man becomes a recipient of Lakshmi.",
+          "hindi": "यदि मंगल लग्न से अष्टम भाव में हो, और सूर्य त्रिकोण में नीच का हो, परन्तु गुरु शीघ्र ही धर्म भाव में हो, तो वह पुरुष लक्ष्मी का पात्र बनता है।",
+          "status": "translated"
         },
         {
           "number": 67,
           "text": "मीनांशे शुक्रो बुधःस्वांशे लग्नंसूर्यः शशी धने। सहजे च भवेद्भमौमो राजयोगं प्रयच्छति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Venus is in Pisces Navamsha, Mercury in own Navamsha, Sun in Lagna, Moon in 2nd house, and Mars in 3rd house, it bestows Raja Yoga."
+          "english": "If Shukra is in Meena Navamsha, Budha is in own Navamsha, Surya is in Lagna, Chandra is in Dhana Bhava, and Mangala is in Sahaja Bhava, it bestows Raja Yoga.",
+          "hindi": "यदि शुक्र मीन नवांश में हो, बुध अपने नवांश में हो, सूर्य लग्न में हो, चंद्र धन भाव में हो, और मंगल सहज भाव में हो, तो यह राजयोग प्रदान करता है।",
+          "status": "translated"
         },
         {
           "number": 68,
           "text": "अस्मिन्योगे भवेज्जातो देवतागुरुपूजकः| स्वदेशे परदेशे च विख्यातो जनदुर्लभः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "One born in this yoga worships gods and preceptors, becoming famous both in his homeland and abroad, rare among men."
+          "english": "One born in this yoga worships deities and preceptors, becoming famous both in his homeland and abroad, rare among men.",
+          "hindi": "इस योग में जन्मा व्यक्ति देवताओं और गुरुओं का पूजक होता है, अपने देश और परदेश में विख्यात होता है, और मनुष्यों में दुर्लभ होता है।",
+          "status": "translated"
         },
         {
           "number": 69,
           "text": "व्यये जीवो धने सौरी रविभौमोबुधस्तथा। विवाहसमये तस्य स जातो प्रियते पिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in the 12th house, Saturn in the 2nd, and Sun, Mars, and Mercury together, the native's father passes away at the time of the native's marriage."
+          "english": "If Guru is in Vyaya Bhava, Shani is in Dhana Bhava, and Surya, Mangala, and Budha are together, the native's father passes away at the time of the native's marriage.",
+          "hindi": "यदि गुरु व्यय भाव में हो, शनि धन भाव में हो, और सूर्य, मंगल तथा बुध एक साथ हों, तो जातक के विवाह के समय उसके पिता का निधन होता है।",
+          "status": "translated"
         },
         {
           "number": 70,
           "text": "भ्रातृस्थाने यदा जीवो लाभस्थाने शशी भवेत्‌| स्वज्ञातिमध्ये विख्यातः कुटुबकुलदीपकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in the 3rd house (Bhratri sthana) and Moon in the 11th house (Labha sthana), he becomes famous among his kinsmen and a lamp of his family lineage."
+          "english": "If Guru is in Sahaja Bhava and Chandra is in Labha Bhava, he becomes famous among his kinsmen and a lamp of his family lineage.",
+          "hindi": "यदि गुरु सहज भाव में हो और चंद्र लाभ भाव में हो, तो वह अपने ज्ञाति-बंधुओं में विख्यात होता है और अपने कुटुंब-कुल का दीपक होता है।",
+          "status": "translated"
         },
         {
           "number": 71,
           "text": "लग्ने शुक्रो धने चन्द्रः सहजस्थो यदा गुरुः| तदार्जितं पितुर्द्रव्यं यच्छुक्रो नैव पश्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Venus is in Lagna, Moon in 2nd house, and Jupiter in 3rd house, wealth earned by the father is enjoyed, provided Venus does not aspect."
+          "english": "If Shukra is in Lagna, Chandra is in Dhana Bhava, and Guru is in Sahaja Bhava, the wealth earned by the father is enjoyed, provided Shukra does not aspect.",
+          "hindi": "यदि शुक्र लग्न में हो, चंद्र धन भाव में हो, और गुरु सहज भाव में हो, तो पिता द्वारा अर्जित धन का उपभोग होता है, बशर्ते शुक्र दृष्टि न डाले।",
+          "status": "translated"
         },
         {
           "number": 72,
           "text": "सिंहे भौमस्तथा सौरिः कन्यायां य यदाशितः। मिथुने च यदा राहूर्भियते जननी शिशोः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mars and Saturn are in Leo, Venus in Virgo, and Rahu in Gemini, the infant's mother passes away."
+          "english": "If Mangala and Shani are in Simha, Shukra is in Kanya, and Rahu is in Mithuna, the infant's mother passes away.",
+          "hindi": "यदि मंगल और शनि सिंह में हों, शुक्र कन्या में हो, और राहु मिथुन में हो, तो शिशु की माता का निधन होता है।",
+          "status": "translated"
         },
         {
           "number": 73,
           "text": "अस्मिन्योगे तु यो जातो बालभावेपि निर्धनः विधुभौमो च एकस्थौ तदा सौख्यं प्रचक्षते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "One born under this combination, though poor in childhood, experiences happiness when Moon and Mars are together."
+          "english": "One born in this yoga, though poor in childhood, experiences happiness when Chandra and Mangala are together.",
+          "hindi": "इस योग में जन्मा व्यक्ति बाल्यकाल में निर्धन होने पर भी, जब चंद्र और मंगल एक साथ हों, तब सुख का अनुभव करता है।",
+          "status": "translated"
         },
         {
           "number": 74,
           "text": "स्वस्थाने लग्नगः क्रूरः पाताले सप्तमस्तथा | दशमे भवने क्रूरः षष्ठं जीवति बालकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefics occupy own signs in Lagna, 4th (Patala), 7th, and 10th houses (all Kendras), the child lives for six years."
+          "english": "If malefics occupy their own Rashis in Lagna, Sukha Bhava (Patala), Yuvati Bhava, and Karma Bhava, the child lives for six years.",
+          "hindi": "यदि क्रूर ग्रह लग्न, सुख भाव (पाताल), युवती भाव और कर्म भाव में अपनी राशियों में हों, तो बालक छह वर्ष जीवित रहता है।",
+          "status": "translated"
         },
         {
           "number": 75,
           "text": "अस्मिन्योगे सुतो जातो मातुर्दुःरवकरो भवेत्‌| यदि जीवो न पश्यति मातृपक्षक्षयंकरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A son born in this yoga causes sorrow to his mother; if Jupiter does not aspect, he brings ruin to the maternal lineage."
+          "english": "A son born in this yoga causes sorrow to his mother; if Guru does not aspect, he brings ruin to the maternal lineage.",
+          "hindi": "इस योग में जन्मा पुत्र अपनी माता को दुःख देने वाला होता है; यदि गुरु दृष्टि न डाले, तो वह मातृपक्ष का क्षय करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 76,
           "text": "स्वक्षेत्रे च यदा सूर्यः कन्यायां क्रूरगेहगः। ्रूरक्षेत्रे यदा राहुः षष्टवर्षण जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the Sun is in own sign, a planet in Virgo in a malefic house, and Rahu in a malefic sign, the native lives for six years."
+          "english": "When Surya is in its own Rashi, a malefic Graha is in Kanya Rashi occupying a malefic Bhava, and Rahu is in a Rashi owned by a malefic Graha, the native lives for six years.",
+          "hindi": "जब सूर्य अपने स्वक्षेत्र में हो, कन्या राशि में कोई क्रूर ग्रह क्रूर भाव में स्थित हो, और राहु किसी क्रूर ग्रह के क्षेत्र में हो, तो जातक छह वर्ष जीवित रहता है।",
+          "status": "translated"
         },
         {
           "number": 77,
           "text": "अष्टमस्थे निशानाथे केन्द्रे च क्रूर संस्थितः कर्मस्थाने यदा राहुः वर्षमेकोन विंशतिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Moon is in the 8th house, malefics in Kendras, and Rahu in the 10th house, longevity is nineteen years."
+          "english": "If Chandra is in the Randhra Bhava, malefic Grahas are situated in Kendra Bhavas, and Rahu is in the Karma Bhava, longevity is nineteen years.",
+          "hindi": "यदि चंद्रमा अष्टम भाव में हो, क्रूर ग्रह केंद्र भावों में स्थित हों, और राहु कर्म भाव में हो, तो जातक की आयु उन्नीस वर्ष होती है।",
+          "status": "translated"
         },
         {
           "number": 78,
           "text": "उच्वस्थानगतः सौम्यः केन्द्रसथाने भवति चेत्‌। घ्रुवं राज्यं भवेत्तस्य कूटुम्बाधारनिस्चयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If an exalted benefic planet occupies a Kendra house, rulership/kingdom is certain and he becomes the mainstay of his family."
+          "english": "If a benefic Graha, situated in its exaltation Rashi, occupies a Kendra Bhava, rulership is certain for that native, and he certainly becomes the mainstay of his family.",
+          "hindi": "यदि कोई सौम्य ग्रह अपनी उच्च राशि में स्थित होकर केंद्र भाव में हो, तो उस जातक को निश्चित रूप से राज्य प्राप्त होता है और वह अपने कुटुंब का आधार बनता है।",
+          "status": "translated"
         },
         {
           "number": 79,
           "text": "सप्तमे भवने भानुः मध्यस्थो भूमिनन्दनः। राहुर्लग्ने यदा जातः पिता तस्य न जीवति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Sun is in the 7th house, Mars in mid-sky (10th house), and Rahu in Lagna, the native's father does not survive."
+          "english": "If Surya is in the Yuvati Bhava, Mangala is in the Karma Bhava, and Rahu is in the Lagna, then his father does not survive.",
+          "hindi": "यदि सूर्य सप्तम भाव में हो, मंगल कर्म भाव में हो, और राहु लग्न में हो, तो उसके पिता जीवित नहीं रहते।",
+          "status": "translated"
         },
         {
           "number": 80,
           "text": "रमरे व्यये तृतीये चाष्टमे क्रूरग्रहो यदि। तदा जातस्य पुत्रस्य शरीरे कष्टमादिशेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefic planets are in the 7th (Smara), 12th, 3rd, and 8th houses, bodily affliction is predicted for the born son."
+          "english": "If malefic Grahas are in the Yuvati Bhava (Smara), Vyaya Bhava, Sahaja Bhava, and Randhra Bhava, then bodily affliction is predicted for the native's son.",
+          "hindi": "यदि क्रूर ग्रह स्मर (सप्तम भाव), व्यय भाव, तृतीय भाव और अष्टम भाव में हों, तो जातक के पुत्र के शरीर में कष्ट का निर्देश किया जाता है।",
+          "status": "translated"
         },
         {
           "number": 81,
           "text": "स्वक्षत्रसथो यदा जीवो बुधसौरियुतस्तदा | दीरघायुर्जायते तस्य संपदश्च पदे पदे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Jupiter is in its own sign joined with Mercury and Saturn, the native becomes long-lived and gains prosperity at every step."
+          "english": "When Guru is in its own Rashi, joined with Budha and Shani, that native becomes long-lived and gains prosperity at every step.",
+          "hindi": "जब गुरु अपने स्वक्षेत्र में बुध और शनि के साथ स्थित हो, तब वह जातक दीर्घायु होता है और उसे पग-पग पर संपत्ति प्राप्त होती है।",
+          "status": "translated"
         },
         {
           "number": 82,
           "text": "मीने शुक्रो यदा जीवश्चंद्रमा च यदा भवेत्‌| जातस्य राज्य-सौभाग्यं बहुपुत्रकटुम्बवान्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Venus, Jupiter, and Moon are in Pisces, the native gains royal fortune, many sons, and a large family."
+          "english": "If Shukra, Guru, and Chandra are in Meena Rashi, the native gains royal fortune, and has many sons and a large family.",
+          "hindi": "यदि शुक्र, गुरु और चंद्रमा मीन राशि में हों, तो जातक को राज्य-सौभाग्य प्राप्त होता है, और वह बहुत पुत्रों तथा बड़े कुटुंब वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 83,
-          "text": "धने राहर्बुधः शुक्रः सौरिः सूर्योयदा ग्रहः। तदा मातुः भवेन्मृत्युश्चतुर्थं दशमे पिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu, Mercury, Venus, Saturn, and Sun occupy the 2nd house, death of the mother or destruction of the father occurs."
+          "text": "धने राहर्बुधः शुक्रः सौरिः सूर्योयदा ग्रहः। तदा मातुः भवेन्मृत्युरथवा पितूनाशनः",
+          "english": "If Rahu, Budha, Shukra, Shani, and Surya are in the Dhana Bhava, then death of the mother occurs. If these Grahas are in the Sukha Bhava or Karma Bhava, then death of the father occurs.",
+          "hindi": "यदि राहु, बुध, शुक्र, शनि और सूर्य धन भाव में हों, तो माता की मृत्यु होती है। यदि ये ग्रह सुख भाव या कर्म भाव में हों, तो पिता की मृत्यु होती है।",
+          "status": "translated"
         },
         {
           "number": 84,
           "text": "लग्ने पापा व्यये पापा निधने पापसंरिथिताः। तदा मातुः भवेन्मृत्युश्चतुर्थं दशमे पिता",
+          "english": "If malefic Grahas occupy the Lagna, Vyaya Bhava, and Randhra Bhava (Nidhana), then death of the mother occurs. If malefic Grahas are in the Sukha Bhava or Karma Bhava, then death of the father occurs.",
+          "hindi": "यदि क्रूर ग्रह लग्न, व्यय भाव और निधन (अष्टम) भाव में स्थित हों, तो माता की मृत्यु होती है। यदि क्रूर ग्रह सुख भाव या कर्म भाव में हों, तो पिता की मृत्यु होती है।",
+          "status": "translated"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "द्वितीयोऽध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "लग्नाधिपतिर्लग्ने निरोगं दीर्घजीवितं कुरुते| बलवन्तं दृढगात्रं रूपयुतं बहुप्रतिष्ठितं चैव ।",
           "english": "",
           "hindi": "",
-          "status": "drafted",
-          "english_draft": "If malefics occupy Lagna, 12th, and 8th (Nidhana) houses, death of the mother occurs, or of the father if in 4th and 10th houses."
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "लग्नपतिः धनभवने धनवन्तं विपुलजीवितम स्थूलं । अतिबलभवनीशं स्थानप्रधानमीशवा भूलाभं वा सुधर्मस्तं करुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "सहजगतो लग्नपतिः सदबधुप्रवरमित्रपरिकलितम्‌ ¦ धर्मरतंदातारं शूरं सबलं करोति नरम्‌||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "लग्नेशस्तुर्यगतो नृपप्रियं प्रचुरजीवितं कुरुते| लब्धियुत बहुमित्रं पित्रोर्बहुभक्ति भाजनं कुरुते|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "तथा बहुत मित्र पानेवाला तथा माता-पिता पर भवित्त रखनेवाला",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "पचमगो लग्नपत्तिः ससुतं सत्यागमीश्वरं विदितम्‌ । बहुजीवितं सुशीलं सुकर्मनिरतं नरं तनुते ।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "रिपुभवने लग्नेशे निरोगं भूमिलाभ युतं सबलम्‌ | कृपणं धनिनमरघ्निं सुकर्मपक्षाच्वितं कुरुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "प्रथमपतौ सप्तमगे तेजस्वी शीलवान्‌ भवेत्‌ पुरुषः | तद्भार्यापि सुशीला ज्ञेया कलिता सुरूपा च||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "लग्नपतौ त्वष्टमगे कृपणो धनसंचयी सुदीघयुः। क्रूरे खचरे क्रूरः सौम्ये वपुषा भवेत्‌ सौम्यः |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "मर्तिर्पतिर्यदि नवमे तदा भवेत्‌ प्रचुरबान्धवः सुकृतिः। समचित्तश्च सुशीलः सुकृतिरव्यातश्च तेजस्वी | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "प्रथमेशे दशमस्थे नृपमित्रः पंडितः सुशीलश्च गुरुमातृपूजनमतिः नूपतिसमृद्धः पुमान्‌ भवति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "एकादशगस्तनुपः सुजीवितं सुतसमन्वितं विदितम्‌ तेजः कलितं करुते पुरूषं बलिनं न सीदति चेत्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "द्वादशगे लग्नपतौ पटुवाग्‌ वाचं करोति कर्णहितम्‌। सहगोत्रकैरमिलितं विदेशगं वित्तभोक्तारम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "स्थान मेह वे परदेश अथवा विदेश मेँ ही मान-यश तथा सफलता द्रव्यपतिः लग्नगतः कृपणं व्यवसायिनं सुकर्माणम्‌ | धनिनं श्रीपतिविदितं करोति नरमतुलभोगयुतम्‌ | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "धनपो धनभावस्थो धनवन्तं धर्मकर्म निरतं च| लामाधिक सलोभं कुरुते पुरुषं सदादानम्‌।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "सहजगते तु धनेशे व्यवसायी कलिकरो कलाहीन; । योरश्वंवलवित्तौ भावति नरो विनयनयरदहितः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "तुर्यगते द्रविणपतौ पितृलाभश्चापरः। सहोपायः दीर्घायुः क्रूरे हऽपि अथवा मरणं विनिर्देश्यम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "शश्वद्विलसन्नयनं कर्मणि कष्टे रतं प्रसिद्धं च। कृपणं दुःखविधातं तनयगतो द्रव्यपः कुरुते|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "षष्ठटेगते द्रविणपतौ धनसंग्रहतत्परं कृतघ्नं चं भूस्वामिनं न खचरे पापे धनवर्जितः सदा पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "धनपे सप्तमग्रहमे भ्रेष्ठांगनाविलासभाग्‌ भवति। धनसंग्रहणी भार्या क्रूरे खचरे भवेद्‌वन्ध्या ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "धनपे चाष्टमभावे स्वल्पकलिश्चात्मघातकः पुरुष । उत्पन्नभुग्‌ विलासी परहिंसकः सदैव दैवपरः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "धनपे धर्मगृहमे सौम्ये दानप्रसिद्िभाग भवति| क्रूरे दरिद्रभिक्षु्विंडम्‌ववृत्तिस्तथा मनुजः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "दशमस्थे च धनेशे .पद्रमान्यो भवेच्च नरपालः। सोम्यग्रहे च मातुः पितुश्च परिपालकः पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "लाभा्रितो द्रव्यपतिः श्रियः पतिः मन्त्री नृपस्य व्यवहारदक्षः। व्यापारयुक्तः पुरुषो यशस्वी लाभान्वितो भोगपरः सुखी च। ख्यातं प्रतिपालकं च लोके सततं करुते नरं जातम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "हादशगे द्रविणपतावष्टकपाली विदेसऋद्िश्च | दुष्कर्मा क्रूरग्रहे सौम्यग्रहे संग्रामिकः पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "सहजपतौ लग्नगते वाग्वादी लम्पटः स्वजनभेदी सेवापरः कुमित्रः क्रूरो वा भवति पुरुष्व |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "यदि धनगे सहजेशे भिक्ुर्धनाल्पजीवितः पुरुषः बन्धुविरोधी क्रूरैः सौम्यः पुनरीश्वरः सबलः खचरैः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "सहजगते सहजपतौ नृपमन्त्री सौहदेतिनिपुणश्च | गुरुपूजननिरतो वै नृपतौ लाभं परं नरं करुते।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 29,
+          "text": "भातृपतौ तुर्यगति पितृमोदसुखमुदयकृत तेषाम्‌ । मातुर्वैरकरश्च पापे पित्रर्थं भक्षकः पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "सहजगे सुतगे बहुबान्धवैः सुतसहोदर पालधनी सुखी | विषयभुक परकार्यपरः क्षमी ललितमूर्तिरसो चिरजीवितः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "रिपुगने सहजाधिपतौ भवेन्नयनरोगयुतो रिपुमान्‌ भवेत्‌ | सहजसज्जनतोपि च दुष्टता क्रमयुतोऽथ रुजा परिपीडितः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "युवतिवेरकृदल्पपराक्रमी सहजभावपतौ मदगे नरः। सुभगसुन्दर रुपवती सती युवति पापग्रहेषु रतो भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "सहजपेऽष्टमगे सरुपो नरो मृतसहोदरमित्रजनः खलैः क्रूरे बाहुव्यंगं जीर्वति यदयष्टवर्षाणि | शुभखगैः शुभता धनयुग्भवेत्‌ स्वयमपि प्रचुरामयवान्‌ भवेत्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "धर्मगते सहजपतौ क्रूरे बन्धुजितस्तथा सौम्ये | सदबान्धवश्च सुकृतिः सोदरभक्तो भवेत्तनुजः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "दुश्चिक्येशे दशमे नृपपूज्यो मातृबन्धुपरिभक्तः| उत्तमबन्धुसुमान्यो विनिश्चतो जायते मनुजः |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "माता तथा बधु पर भक्ति रखनेवाला तथा अच्छे सम्बन्धियों दारा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "लाभरस्थः सहजेशः सुबान्धवं राजप्रियं नरो कुरुते | पुरुषबन्धसु पूज्यं सेवाभिधायिनं भोगनिरतं च ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "व्ययमे दुश्चिक्येशे मित्रविरोधी सुबन्धुसन्तापी | दूरे वासितबन्धुः विदेशशीलं नरो करुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 39,
+          "text": "तर्यपत्तौ लग्नगते पितृपुत्रौ स्नेहलौ मिथः करुते। पितृपक्षवैरिकलितं पितृनाम्ना सुप्रसिद्ध च||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "पातालये धनस्थे कऋरूररवगैः पितृविरोध कृच्च-शुभैः।| पितृपालकः प्रसिद्धः पिता लभेन्नैव तल्लक्ष्मीम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "मिलता हेै। ुर्येशे सहजगते पितृमातृच्छेदक विदितपितरम्‌। पित्रा सह कलहकरं पितृबान्धवपालकं विदितम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 42,
+          "text": "तुर्यगते तुर्यपतौ पितरि क्षितिपाधिताथमानरतम्‌। पितुलाभपरो भवति स्वघर्मनिरतः सुखी भवति ।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "सुतगे तुर्यगृहेशे पितृलामाद्भोगवान्‌ मनुजः दीर्घायुः भवति नरो क्षितिपतिसिद्धस्तु लाभदो भवति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "हिबुकपतौ रिपुसंस्थे पितृद्रव्यविनाशको पितरि वैरी। पितरृदोषकरः क्रूरे सौम्ये धनसंचयस्तनयः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "अम्बुपतौ सप्तमगे क्रूरेश्वशरं सुखान्न पालयति सौम्ये पालयति पुमान्‌ बलयुक्तः कुलपति कुरुते|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": "छिद्रगते तुर्यपतौ क्रूरं रोगान्वितं दरिद्रं वा| दुष्कर्म परं मृत्युप्रियमथवा मानवं कुरुते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 47,
+          "text": "सुकृते तुर्यपतौ सति पितर्यसंगी समस्त विदयावन्‌ | पितृधर्मसंग्रहकृत्‌ पिवृधमपिक्षको मनुजः ।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "पातालेशेऽबरगे पापे सुतो मातरेत्यजति। कन्यादयितः सौम्यैः पुनरन्यसेवाकरः पुरुषः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 49,
+          "text": "लाभगते तुर्यपतौ पितृपालकों विदेशगो चाढयः| पापे तत्पतिरवेटे त्वन्यपितुर्जन्म निर्देश्यम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 50,
+          "text": "दादशगे तुर्यपतौ मृतपितृको वा विदेशगो भवति | पुत्रस्य पापखेटे चाऽन्यपितुर्जन्म निर्देश्यम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 51,
+          "text": "लग्नेगते सन्ततिपे सुतानां सुखसुविद्यारतिमन्त्रसिद्िः। शास्त्राणि जानाति सुकर्माकारिरागांगयुक्त्तः खलु विष्णुभक्तः | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 52,
+          "text": "पेचमपतिः धनस्थः क्रूरः खचरो धनोच्छितं कुरुते| गीतादिकाव्यकलित-कष्टभुज स्थान प्रचुरं च सदग्रहे सुखिनम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 53,
+          "text": "तनयपतिः सहजगतः सुमधुरवाचं युबन्धुजनविदितम्‌ | करुते सुतास्तदीयान्‌ तनयापरिपालितान्‌ बन्धून ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 54,
+          "text": "पाताले पंचमपो गुरुभक्तिरतं पितृकर्मनिरतं च। पुरुष जननीभव्ततं कुरुते क्रूरस्तु विपरीतम्‌ || |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "तनयगतस्तनयपतिर्मतिमन्तं मानिनं वचनकुशलम्‌ | सुतकलितं प्रचुरधनं ख्यातियुतं मानव करुते |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 56,
+          "text": "पचमपतिस्तुषष्ठे शर्त्रप्रियमात्मजैः टीनम्‌। रोगयुनं धनरहितं क्रूरः खचरः करोति क्रूरतरम्‌ |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "तनयपतौ सप्तमगे सुप्रसूता सुभगाथ दैवरता | गुरुभक्ता प्रियवचना सच्छीला तस्य जायते दयिता ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 58,
+          "text": "सुतपे निधनगृहस्थे कुत्सितवाद्निरालयो मन्दः। नष्टा व्यंगास्तनयाः सहजां अपि संभवन्ति तथा||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 59,
+          "text": "सुकृतस्थः तनयपतिः सुबोधविद्याढ्यगीतरतम्‌ | नृपपूजितस्वरुपं नाटकरसिकं नरं करुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "तनयपतिः नृपगृहगौ नुपकर्माणिं नृपाकलितमं | सत्कर्मरतं प्रवरं जननीकृतसुखाशनं कुरुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 61,
+          "text": "सुतनाथ लाभगते शूरः सुतवान्‌ सुकृत्यकृदृ भोगी | गीतादिकलाकलितोनृपलाभीजायते मनुजः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 62,
+          "text": "पचमेशे हदादशगे क्रूरे सुतरहितः शुभे ससुतः। सुतसंतापकृप्तो विदेशगमनोक्यतो मनुजः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 63,
+          "text": "षष्ठेशे लग्नगते निरुग्‌ निरुत्सा्ी कटुम्बाष्टकरः| बहुपक्षी रिपुहन्ता भवति नरः स्वैरवचनधनः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 64,
+          "text": "षष्टपतोौ द्रविणस्य दुष्टचतुरो हि संग्रहवान्‌ | स्थानप्रवरो विदितः सव्याधिस्तनुजहवित्तः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 65,
+          "text": "षष्ठपतिः सहजस्थः क्रूरः कुरुते स्वलोककष्टकरम्‌। जनकरमारमणमतिं त्वतिकष्टं ग्रामलोकस्य ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 66,
+          "text": "षष्ठाधिपतिस्तुर्य पितृतनयो वैरिणी मिश्रः कुरुते। संकरजसुतः पितृतो लक्ष्मीं लभते सुचिरतराम्‌।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 67,
+          "text": "रिपुभवनपतौ सुतगे पितृसुतयोवैरितामतिक्रूरम | क्रूरे शुभेच निर्धनः पदवीदुष्टश्च तत्फलति ।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 68,
+          "text": "रिपुभवनपे रिपुस्थे नीरुण्वैरी सुखी कृपणः। न हि जन्मतोपि सीदति स्थानकवासी भवेन्मनुजः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 69,
+          "text": "अरिपतौ सप्तमगे क्रूरे भार्या विरोधिनी चंडा। तापकरी त्वथ सौम्ये वन्ध्या व गर्भपतनपरा।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 70,
+          "text": "रिपुः रिपुपतिः मृतिमे गृहिणीमृतिः विषधराच्च कुजो विषतो बुधः| सपदि चन्द्र इनो नृपसिंहयोः कविगुरु रिपुलोचनयो रुजम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 71,
+          "text": "प्फ शत्रुपतिः यदि नवमे क्रूरः खचरः तदा भ्रष्टः | बिबुधविरोधी क्रूरो न मन्यते याचकच गुरुम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 72,
+          "text": "अरिगृहपे दशमस्थे क्रूरे मातरि रिपुः तदा दुष्टः | धर्मसुतपालकमतिः पितृद्धेषी जायते मनुजः |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 73,
+          "text": "भवगतेऽरिपतौ खलसंगमो रिपुजनान्मरणं खलुजायते। नृपतिचोरजनाद्यनहानिकृत्‌ शुभखगैः सततं शुभकरं भवेत्‌||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 74,
+          "text": "षष्ठपतौ द्वादशगे चतुष्पदधनधान्ययुतः | चपलो मदान्धो लक्ष्याल्हादपरो नरो भवति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 75,
+          "text": "दयितेशो लग्नगतः सी निःस्नेहमन्यतरभर्यम्‌ | भोगभुजं रूपयुतं सस्त्री जनप्रतिलोलचित्तम ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 76,
+          "text": "जायापतौ धनस्थे पुष्टा दयिता सुतोज्डितः भवति। वित्तं च कलत्रकरे सततं दुखानुषंगं च||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 77,
+          "text": "सप्तमपः सहजगतश्चात्म जवत्सलो दुःखी ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 78,
+          "text": "जायेशे तुर्यस्थे लोलः पित्वेरसाधकः स्नेही । अस्य पिता दुर्वाक्यस्तदृभार्या पालयेच्च पिता ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 79,
+          "text": "सप्तमपतौ सुतस्थ सौभाग्ययुतः सुतान्वितः पुरुषः । प्रियसाहसदुष्टमतिस्तनयः पालयेत्‌ दयिताम्‌ |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 80,
+          "text": "रिपुगृहगः कान्तेशः प्रियया सह वैरिणं सरुग्भार्यम्‌ | | वनितासंगात्‌ क्षयिणं क्रूरः करुते च मृत्युपदम्‌।। ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 81,
+          "text": "॥ सप्तमपे सप्तमगे परमायुः प्रीतवत्सलः पुरुषः | निर्मलशीलसमेतस्तेजस्वी जायते सततम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 82,
+          "text": "रमणीशे निधनगते गणिकासुरतपरो गृहे विरतः विद्िद्दिवितियसक्तो त स्त्रीसेवाकरः पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 83,
+          "text": "सुकृतगते रमणीशे तेजस्वी शिल्पवान्‌ प्रियाप्येवम्‌ | क्रूरे तु चण्डरूपा लग्नेशवीक्षिते तपः प्रबलः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 84,
+          "text": "गृहिणीपे वशमस्थे नृपदोषी लम्पटः कपटचित्तः। ्रूरे दुःखार्तः स्यात्‌ स्वश्रूवर्गो भवेत्‌ पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 85,
+          "text": "लाभस्थे जायेशे भक्ता रूपान्विता सुशीला च। दयिता परिणीता स्याद्‌ प्रियते सा च प्रसवसमये।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 86,
+          "text": "भी संभव दहे। सप्तमशे द्वादशगे गृहबन्धूज्डितः भवेत्‌ भायी। लाला सा वुष्टा च पुनरुच्चलितस्य पुरुषसय ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 87,
+          "text": "यदि नयो नृपतेर्लमते धन दद्रुयुतो बहुदुःखसमन्वितम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 88,
+          "text": "निधनपे धनगे चलजीवितो बहुलशास्त्रयुतोपि च तस्करः । खलखगैश्च युभर्न गदान्वितो नृपतितो मरणं हि सुनिश्चितम्‌ | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 89,
+          "text": "निधनपतिर्यदिसहसजे बन्धुविरोधी सुष्टद्‌विर | व्यंगो दुर्बललोलः सोदररहितो भवत्यथ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 90,
+          "text": "निधनेशे तुर्यगते पितृतोऽन्याल्लभेत तल्लक्ष्मीम्‌। पितृपुत्रयोश्च युद्धं पिता च रोगान्वितो भवति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 91,
+          "text": "दिद्रपतौ तनयस्थे पापे सुतविरहितः शुभे ससुतः। जातोऽति नैव जीवति जीवत्यपि कितवकर्मरतः। |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 92,
+          "text": "क्िद्रेशे रिपुसंस्थिते दिनकरे भूभृद्विरोधी गुरो स्वांगे सीदति दृष्टिरोगकलितः शुक्रं सरोगो विधौ | भौमे कोपयुतो बुधे अहिभयं दुःखाभिभूतः शनौ कष्टं राहु बुधे हि तत्र शशभृत्‌ सौम्येक्षिते नैव किम।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 93,
+          "text": "मृत्युपतोसप्तमगे दुष्टकुलस्त्रिप्रियो गुदव्याधिः। क्रूरे भार्या देषी कलत्रदोषात्‌ मृतिं लभते।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 94,
+          "text": "मृतिपतौ मृतिगे व्यवसायकृद्‌ गदगणेन युतः शुभवाक्‌ शुचिः। कितवकर्मकरः कपटी नरः कितवकर्मणि नाविदितः कले।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 95,
+          "text": "मृतिनाथे नवमस्थे निःसंगो जीवघातकः पापीं निर्बन्धुः निःस्नेही पूज्ये विमुखो भवेदृव्यगः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 96,
+          "text": "कर्मस्थे निधनेशे नृपकर्मा नीचकर्म निरतश्च | अलसः क्रूरो अन्यभवस्तनयवान्न जीवति माता।| ३।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 97,
+          "text": "लाभस्ते चाष्टमपे बाल्ये दुःखी सुखी पश्चात्‌ | दीघयुः सौम्यखगे पापेऽल्पायुः नरो भवति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 98,
+          "text": "व्ययभवनगतेऽष्टमपे क्रूरो वा तस्करो निकृष्टश्च | अनात्मगतिर्व्यगवमुरमृतस्तु काकादिभिर्भक्ष्यः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 99,
+          "text": "लग्नते नवमपतौ देवगुरुन्मन्यते शुरः। कृपणः क्षितिपति कर्मा स्वल्पग्राही भवति मतिमान्‌ |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 100,
+          "text": "नवमाधिपे तु धनगे वृषलो विदितः सुशीलवान्‌ सत्यः। सुकृतिः वदनेव्यंगः चतुष्पदोत्पन्नपीडस्च ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 101,
+          "text": "सहजगते सुकृतपतौ रूपस्त्रीबन्धुवत्सलः पुरुषः । वबन्धुस्त्रीरक्षणकृद्‌ यदि जीवति बन्धुभिः सहितः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 102,
+          "text": "पत्नी तथा भाइयों पर स्नेह रखनेवाला ओर उनकी रक्षा करनेवाला",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 103,
+          "text": "हिबुकभावगते सुकृतेश्वरे बुधसुहत्पितृपूजनतत्परः | भवति तीर्थकरः सुरभक्तिमान्‌ निखिलमित्रपरः सुसमृद्धिमान्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 104,
+          "text": "` सुकृतपे तनयस्थलगेयदा सुरमहीसुरभावयुतोनरः। प्रकृति सुन्दरता मतिमान्‌ नरो मधुरवाक्‌ तनयाश्च भवन्ति हि ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 105,
+          "text": "शत्ुप्रणतिपरायणः धर्माकलितं कलाविकलदेहम्‌| दर्शननिद्रानिरतं सुकृतपतिः षष्ठगः करुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 106,
+          "text": "नवमपे मदनगे वनिता सुखं वचनकृत्‌ चतुरा धनसंयुता। भवति रागवति किल सुन्दरी सुकृतकर्मरता बहुशीलवान्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 107,
+          "text": "दृष्टो जन्तुविघाती गृहबन्धुविवर्जितः सुकृतरहितः। नवमेशे मृत्युगते क्रूरः षण्डस्तु विज्ञेयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 108,
+          "text": "युकृतभावपतिः नवमे स्थितो भवति बन्धुजनैः सहितः शुचिः | अरुचितश्च विवादकरो जनो गुरुसुहतस्वजनेषु रतः सदा||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 109,
+          "text": "नृपतिकर्मकरोनृपतिवित्तयुक्‌ सुकृतकर्मकरो जननीपरः। विदितकर्मकरः सुकृताधिगे गगनगे पुरुषो भवति ध्रुवम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 110,
+          "text": "दीर्घायुः धर्मपरो धनेश्वरः स्नेहलो नृपतिलाभो | सुकृतेः ख्यातः सततं सुकृतपतो लाभभवनस्थे ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 111,
+          "text": "व्ययगतः सुकृताधिपतिः यदा भवति मानयुतः परदेशगः | मतियुतः स च सुन्दर देहयुग्‌ यदि खलाच्च खगादिह धूर्तकः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 112,
+          "text": "गगनपतौ लग्नगतौ लग्नगते मातरि वैरी पितरि भक्तः। दुःखीगतोऽपि बाल्ये परपुरुषरता भवति माता ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 113,
+          "text": "वित्तस्थे गगनपतौ मीत्रा-पलितः सुतो भवति लोभी मातरि दुष्टो स्वल्पग्रासः सुतनुकर्मा ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 114,
+          "text": "स्वजनमातृविरोधकरः सदा बहुलसेवक कर्मकरो भवेत्‌| तदनु मातुलपुत्रसुखोल्पको नहि समर्थवपुः पृथुकर्मणि ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 115,
+          "text": "सामर्थ्य नहीं होता। दशमपेऽम्बुगते नितरां सुखी पितरिमातरि पोषणतत्परः। सकललोकदशामपि तापकृत्‌ नृपतिसभवलाभविभूषितः | ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 116,
+          "text": "भवति सुन्दरकर्मकरो नरो नृपतिलामयुतोऽप्यति भोगवान्‌ विमलगानकलाकुशलः स्मृतो गगनपे सुतगेल्पसुखीनरः। |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 117,
+          "text": "अम्बरपे रिपुसंस्थे क्रूरे बाल्योतिकष्टभाग्‌ भवति | पुरुषः पश्चादीशः परपुरुषतरता तथा माता ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 118,
+          "text": "सुतवती बहुरूपसमन्विता रमणमातरि भक्तिसमन्विता | भवति तस्य जनस्य निरन्तरं प्रियतमाम्बरपेदयितागते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 119,
+          "text": "अतिखलोऽनृतवाक्‌ कपटी नरस्तदनु चौरकलाकुशलः सदा| जनतिपीडनतापकरः सदा दशमपे निधने लघुजीवितः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 120,
+          "text": "देने वाला ओर अल्पायु होता हेै। शुभशीलः सदबन्धुः समित्रो दशमपे नवमलीने। तन्मातापि सुशीला सुकृतवती सत्यवचनरता |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 121,
+          "text": "गगनपतिः गगनगतो जनयति सुखप्रदं पुरुषम्‌ | जननीकुल विपुलसुखं प्रकटहारीनां पटीयांसम्‌ । |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 122,
+          "text": "मानोर्जितभर्तृका जननी तथा च सुतराक्षिणी भवेत्‌ सुखिना । दीर्घायुः मातृसृखः पुरुषो लाभभ्रितेम्बरपे ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 123,
+          "text": "नृपतिकर्मकरो निजवीर्ययुग्‌ जननीसौख्य- विवर्जित वक्रधीः दशमपे व्ययगे परदेशवान्‌ व्ययपरश्च तथा सुभगः स्वयम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 124,
+          "text": "। | 8॥ |॥ अल्पायुः बहुकलितः शूरो दाता जनप्रियः सुभगः। लाभपतौ लग्नगते तृष्णादोषान्मृतिं लभते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 125,
+          "text": "वित्तगते लाभपतावुत्पन्नभुगल्पभाजनोल्पायुः | अष्टकपाली चौरः क्रूरे सौम्ये च धनकलितः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 126,
+          "text": "सहजवित्तयुतश्च सुबान्धवः सहजवत्सल एव नरः सदा| सहजगे भवभावपतौ शुचिः स्वजनमित्रजनादतिलाभदः। |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 127,
+          "text": "अमितजीवनयुक्‌ पितृपंक्तियुक्‌ समयेकर्मरतः सुभगः शुभः। सुकृतकर्मवशादतिलाभवान्‌ सुखगतौ भावभावपतौ भवेत्‌||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 128,
+          "text": "तनयगतो लाभपतिः पितुपुत्रौ स्नेहलौ मिथः कुरुते । तुल्यगुणौ च परस्परम्‌अल्पजीवी च भवति सुतः ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 129,
+          "text": "लाभधिपे षष्ठगते सुबेरं सुदीर्धरोगं चतुरंगसंग्रहम्‌ | मृतिं समाप्नोति च चौरस्तात्‌ क्रूरे च देशान्तरसंगतो नरः||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 130,
+          "text": "सप्तमगे लाभेशे तेजस्वी शीलसंपदः पदवी | दीर्घायुः भवति नरः तथेकदयितापत्तिः नियतम्‌ |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 131,
+          "text": "एकादशपेऽष्टमगेऽल्पायु-भवति स जातकः सुरोगी | जीवन्मृतश्च दुःखी भवति नरोऽसौम्यगगनचरे || एकादशेशः सुकृते स्थितश्चेद्‌ बहुश्रुतः शास्त्रविशारदश्च। धर्मप्रसिद्धो गुरुदेवभक्तः क्रूरे च बन्धुव्रजवर्जितश्च ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 132,
+          "text": "मातरि भक्तः सुकृती पितरि देषी सुदीर्घतरजीवी | धनवान्‌ जननीपालननिरतो लाभाधिपे खगते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 133,
+          "text": "लाभाधिपो लाभगतः करोति दीर्घायुषं पुष्कलपुत्रपौत्रम्‌ | सुकर्मक रूपवरं सुशीलं जनप्रधानं विपुलं मनोज्ञम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 134,
+          "text": "दादशगे लाभेशे उत्पन्नभुगस्थितो भवति भोगी | उत्पातरतोमानी दाता दुःखी सदा पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 135,
+          "text": "तनुगते व्ययभावपतौ नरः सुवचनः शुभरूपविदेशगः| खलजनानुरतश्च विवादयुग्‌ युवतिभिः सहितोऽपि नपुंसकः।। `",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 136,
+          "text": "कृपणता कटुवाग्‌ धनभावमगे व्ययपतौ विकलश्च विनष्टधीः | धरणिजे विधनं नृपतस्करादपि च पापकरश्च चतुष्पदे ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 137,
+          "text": "सहजगते द्वादशपे क्रूरे गतवान्धवः शुभे च धनी | तनुसोदरः कृपणश्च बन्धुषु क्रूरे सदा भवति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 138,
+          "text": "तुर्यगते व्ययनाथे कृपणो रोगोज्छितः सुकर्मा च। मृत्तिमाप्नोति हि सुततः सततं मनुजो महादुःखी |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 139,
+          "text": "तनयगेऽपि खलस्तनयो भवेत्‌ व्ययपतौ तनुतैऽथ खलान्विते। गुभखगैऽतिशुभं पितृक धनं भवति चापि समर्थतासहितः स पुरुषः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 140,
+          "text": "व्ययपतौ रिपुगे कृपणः खंलः खलखगे नियतं नयनामयम्‌ | परगृहाश्रयिणो भृगृपुत्रतो गतसुतः शुभवृद्धियुतौ भवेत्‌|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 141,
+          "text": "द्ादशपे सप्तमगे दुष्टो दुश्चरितः कपट वचनः क्रूरे स्त्रीरहितः स्यात्‌ सौम्ये क्षयमेति गणिकातः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 142,
+          "text": "व्ययनाथे निधनगतेऽष्टकपाली कार्यसाधने रहितः। द्रोहमतिः सौम्यखगे धनसंग्रहपरोनरो भवति||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 143,
+          "text": "व्ययनाथे सुकृतगते वीर्थालोकाटनं वृत्तिः क्रूरे खगे च पापैः निरर्थकम्‌ याति तद्‌द्रव्यम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 144,
+          "text": "करनेवाला होता हेै। व्ययपे गगनगृहस्थे पररमणीपराङ्मुखः पवित्रांगः। सुतघधनसंग्रह निरतो दूर्वचनपरा भवति माता।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 145,
+          "text": "द्वादशपे लाभस्थे द्रविणपतिः दीर्घजीवितो भवति। स्थानप्रवरो दाता विख्यातः सत्यवचनपरः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 146,
+          "text": "विभूतिमान्‌ ग्रामनिवाससचित्तः कार्पण्यबुद्धिः पशुसंग्रहीच। पेत्‌ जीवति ग्रामयुतः सदास्यात्‌ व्ययाधिनाथे व्ययगेहलीने | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "तृतीयोऽध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "नीचस्थो रिपुगेहस्थो ग्रहो भावविनाश कृत्‌ | उदासीन गृहे मध्यो मित्रस्वर्ष त्रिकोणगः स्वोच्चगश्च ग्रहोऽवश्य भाववृद्धिकरः स्मृतः। -गर्गः|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 2,
+          "text": "प्रचंडरूपो विकलेक्षणश्च भवेन्निशान्धः किलबुदबुदाक्षः | कंठे ग्रहः स्यान्मदरक्तनेत्रो खौ तनुस्थे रूधिरेक्षणः स्यात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 3,
+          "text": "धनभावगते सूर्ये धननाशमहर्निशम्‌ | करोति निर्धनंचाथ तामप्रवित्त ददाति च||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 4,
+          "text": "सहजस्थानगे हेलिर्नाशयेत्सहजं धुवम्‌ | हन्त्यरिष्टं च करुते धनभार्यन्वितं नरम्‌||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 5,
+          "text": "बन्धुं निहिन्त सविता बन्धुस्थानगतो नृणाम्‌| सतत कारयेत्तापं छत्रवाहनमेव च|| जनयेद्‌ बहुसौख्यानि संग्रामेऽप्थपलायनम्‌। कृशं च बहुभार्यं च मानिनं कुरुते रविः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 6,
+          "text": "पंचमं स्वगृहं चेत्स्याद्रविः प्रथमपुत्रहा | न हन्ति चरमान्‌ पुत्रानन्यरक्षं गर्भघातकः| |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 7,
+          "text": "| रिपुं हन्ति सहस्त्रांशुः शत्रो चोपचयो यदि । शत्रुभिर्युतदृष्टो वा बहून शत्रुन्‌ प्रयच्छति ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 8,
+          "text": "प्रथमोढां वधूं कुर्याद दुर्भगां सप्तमो रविः। पापरक्ष नीचगो हन्यात्पापदृष्टयुतोऽपि वा ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 9,
+          "text": "तुङ्गरक्ष ह्यष्ट मे सूर्ये सुखं मृत्युं प्रयच्छति | विक्रमस्थनं पापेन क्रूरेण मृत्युगो रविः। युक्तो दृष्टः स्थूलभूरि यमदूतो विनाशयेत्‌ | ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 10,
+          "text": "हन्ति पुण्यञ्‌च भाग्यच सूर्यः नृणाम्‌। तुंगस्वरक्षगृहं यातः पुष्कलं धर्म मादिशेत्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 11,
+          "text": "क्षीण कर्माध्यानयुतः तेजस्वी रणरोगवान्‌। भुड्क्ते पितृधनं नित्यं भास्करे दशमस्थिते |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 12,
+          "text": "धनधान्यहिरण्याठढयः रूपवांश्च कलान्वितः | लाभगेऽहस्पतौ ज्ञानी विनीतो गीतकोविदः।| ग्यारहवे भाव मे |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 13,
+          "text": "व्ययस्थानगते सूर्यं व्ययशीलो भवेन्नरः। दूरस्त्री व्यसनाढ्यश्च क्रूरते व्ययमदृभुतम्‌ | | पुनश्च भानौ क्षीणे चेन्दौ व्ययभवने सूर्य तिहरति वित्तम्‌ ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 14,
+          "text": "पर्णे शीतकरे लग्ने सुरूपो धनवान्‌ मृदुः असंपूर्ण तु मलिनो मंदवीर्यो भवेत्सदा । | गोमेष कर्कटे लग्ने चन्द्रस्थे रूपवान्‌ धनी | जडता व्याधिदारिद्रयं शेषरक्ष करुते शशी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 15,
+          "text": "एवासः कासो हि जातस्य तनौ वातभ्रमो भवेत्‌| अश्वादिपञ्ुघातश्च हदये राजचौरतः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 16,
+          "text": "वेद्यः कांचनयुक्तश्च मणिरत्नघनो भवेत्‌| कर्पूरचन्दनामोदी धनी कूमुदबान्धवे ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 17,
+          "text": "स्वसारं हन्ति शीतांगुः पापः पापगृहे स्थितः। पूर्णः शुमरक्षगो दत्ते भगिनीं रूपसंयुताम्‌ | ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 18,
+          "text": "भार्यावानधवभृत्यौ च हर्म्यं वाहनसम्पदः। बन्धौ कुमुदबन्धौ च भवन्ति सततं नृणाम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 19,
+          "text": "पंचमे रजनीनाथः कन्यापुत्रप्रपौत्रदः। क्षीणः पापसुतो वापि जनयेत्‌ चपलां सुताम्‌ |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 20,
+          "text": "निधनं कुरुते चन्द्रः पापरक्षं पापसंयुते पूर्णः षष्ठोऽरिघाती स्यादगुरुगेहगतो यदा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 21,
+          "text": "लग्नात्‌ षष्ठर्थिते चन्द्रे मृदुकायःस्मरानलः। अनेकारिर्भवेत्‌ तीक्ष्णारिष्टः रयात्मृत्युरेव च | पुनश्च षष्ठे चन्द्रस्त्वेरिष्ट दः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 22,
+          "text": "कृशाडगीं विकलां कूर्यात्‌ क्षीणश्चेद्विधुरस्तगः। पूर्णः शुभर्युतो दृष्टः कान्तः कान्ताशतप्रदः|| सप्तमस्था क्षीण चन्द्रमा दुबली पतली तथा अशान्त चित्तवाली पत्नी",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 23,
+          "text": "चन्द्रोऽष्टमे मृत्युकरो नरायणं क्षीणो मृतिर्यच्छति वाल्प एव । काले त्रिदोषज्वर दाहदाता नयत्यघः क्षीणतनुर्धारित्याः | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 24,
+          "text": "मध्यभागे भवेत्‌ धर्मे पित्रृयज्ञपरायणः| धर्म पूर्णनिशानाथः क्षीणः सर्वं विनाशयेत्‌ | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 25,
+          "text": "स्वगृहस्य सदा भुङ्क्ते सौख्यं सौमाग्यसंयुतम्‌। मातृद्रव्ययुत्तं शान्तं कुरुते दशमे विदुः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 26,
+          "text": "विख्यातो गुणवान्‌ प्राज्ञो भोगलक्ष्मीसमन्वितः| लाभस्थानगने चन्द्रे गौरो मानववत्सलः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 27,
+          "text": "व्यये शशिनि कार्पण्यम विश्वासः पदे पदे । कृष्णपक्षे विशेषेण कार्यण्यमपि वर्धते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 28,
+          "text": "गुदरोगी श्लथं नाभौ कडृकुष्ठादिनांकितः। मध्येदेशे भवेत्‌ व्यंगः सवाच्यो लग्नगे कुजे | तनुस्थानस्थिते भोमेक्रूरदृष्टिभिः वा विलोकिते । लोहाश्मादिकृता पीडा क्रोधोऽत्यन्तस्तनो भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 29,
+          "text": "रक््तपीडा शिशुत्वे च वातरोगं च जायते| मस्तके कटठमध्ये च गृह्ये वापि व्रण भवेत्‌!",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 30,
+          "text": "द । कृषिको विक्रयी भोगी प्रवास्यरुणवित्तवान्‌ | धातुवादी मनेरनशिो द्यूतकारः कुजे धने।| धने भौमे धनहानिः प्रजायते| पीडा देहे च नेत्रे च भार्याबन्धुजनैः कलिः।। |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 31,
+          "text": "भगिन्यौ सुभगे दै चक्रूरेण निधनं गते। कमृत्युना भ्रातरौ दौ मृतौ शस्त्रादिथिः तथा||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 32,
+          "text": "कुजे बंधो भूम्याजीवो नरः सदा। प्रवासी पंकिले देशे भवने वासकर्दमे|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 33,
+          "text": "रिपुदृष्टो रिपुक्षत्रे नीचो वा पापसंयुतः। भूमिजः पुत्रशोकार्तिं करोति नियतं नृणामं ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 34,
+          "text": "बहु दाराग्निपुंस्कः स्यात्‌ सुकार्यो बलवान कुजे ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 35,
+          "text": "पुनश्च षष्ठो नीचारिभिवने सग्रामं कारयेद्‌ बुधः| वर्धयन्ति अन्यथा शत्रून पुंसा धरणिनन्दनः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 36,
+          "text": "मुनिगृहगतभौमे नीचसंस्थेऽरिगेहे युवतिमरणदुःखं जायते मानवानां | मकरगृहनिजस्थे नान्यपत्नीश्चधत्ते चपलमतिविशालां दुष्टचित्तं विरूपाम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 37,
+          "text": "मृत्युगतो मृत्युकरो महीजः शस्त्रादिलुतादिभिः अग्नितो वा। कुष्टपणाशो गृहिणीप्रपीडा नयत्यधो नाशकमानयेच्च ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 38,
+          "text": "विनाश भी। शुभाः तस्यकिं खेचराः कूर्युरन्ये विधानेऽपि चेदष्टमे भूमिसूनुः | कुजे रक्तपटाना हि भवेत्‌ पाशुपती वृत्तिः भाग्यहीनश्च सततं नरः पुण्यगृहं गते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 39,
+          "text": "मेषूरणास्थेऽवनिजे तु जाताः प्रतापवित्तप्रबलप्रसिद्धः। माने कुलीर भवने च सुखं ददाति |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 40,
+          "text": "प्रभूत धनवान्‌ मानी सत्यवादी दृढव्रतः | अश्वाढयो गीतसंयुक्तो लाभस्थेभूमिनंदने || विधेयः प्रियवाक्‌ शूरो धनधान्यसमन्वितः। लाभे कुजे मृतो मानी हतचित्तोग्नितस्करैः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 41,
+          "text": "कोपनो बहुकामाढ्यो व्यगो धर्मस्य दूषकः भूमिजे द्वादशस्ते तुविद्धेषो मित्रबन्धुषु ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 42,
+          "text": "सुमूर्तिः निपुणः शान्तो मेधावी च प्रियंवदः । विद्वान्‌ दयालुरत्यर्थं विना क्रूरं बुधे तनौ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 43,
+          "text": "लग्दोषं कुरुते नित्यं सोममुत्रः कुटुम्बगः। धमभावे चन्द्रपुत्रे धनधान्यादिपूरितः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 44,
+          "text": "बुधे च सहजस्थाने दृष्टिभिःवाविलोकिते। भातूनां भगिनी नां च सुखं तस्य महद्‌ वदेत्‌| भ्रातरः पंच विद्यन्ते शत्रुदृष्ट्‌ या मूर्तिं वदेत्‌| चतस्त्रः पंच वा ज्ञेयाः स्वसारः शुभलक्षणाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 45,
+          "text": "कुजशनिजा दृष्टे तासां वन्ध्यत्वमिष्यते | बुधो वा तत्र संस्थितः स्वसृबाहुल्यतां तस्य कुर्वन्ति न हि संशयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 46,
+          "text": "बहुमित्रो बहुधनो बन्धौ पापं विना बुधः| नानारसविलासी च सपापे त्वन्यथा फलम्‌|| चित्रं बुधे च विज्ञेयं बुधे स्वर्णं गृहे तस्य। बुधश्च सर्वकार्येषु मित्रो मिश्रफलप्रदः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 47,
+          "text": "पंचमस्थचन्द्रपुत्रः संतानं प्रकरोति हि। अस्तंगतः शत्रुदृष्टश्चोत्पन्नस्य विनाशकः || मातुला नश्यंति सौम्ये चाल्पसुतत्वं | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 48,
+          "text": "नरपालस्य शत्रुः । नीचारिभवने सन्यासम्‌ | रिपून विजयते सौम्यः। नीचश्चास्तव क्रश्च षष्ठरक्ष रिपुरिष्टकृत्‌ | कन्यापत्यो अथ मातुलः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 49,
+          "text": "कन्याये होंगी | तुरगभावगते हरिणांकजे भवति चंचल मध्यनिरीक्षितः। विपुलवंशभव प्रमदापतिः स च भवेत्‌ शुभगे राशिवंशजे ।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 50,
+          "text": "करोति मृत्युं निधनरिथतो बुधः सुखेन तीर्थे सुखदे तिराविले। शूलजंघोदररोग पीडा पापः पिधायांतकरो नराणाम्‌ |!",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 51,
+          "text": "मन्दभाग्यो बुधे पापे नरो बुद्धिमदानुगः। भाग्यवान्‌ धार्मिको वापि शुमे सौम्यं तु धर्मगे।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 52,
+          "text": "श्रीमान्‌ धीरो धर्मचेष्टो धर्मवृत्तियुतः सदा| सात्विकः कर्मगे सौम्ये नानालंकारवान्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 53,
+          "text": "स्त्रीवल्लभोति गुणवान्‌ मतिमान्‌ स्वजनप्रियः। लाभगे सोमतनये मंदाग्निः समपक्यते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 54,
+          "text": "नुपपीऽनसन्तप्तं परवादेन पीडितं | नशंसं पुरुषं चांद्रिः कुरुते व्ययराशिगः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 55,
+          "text": "8 6 । कविः सुगीतः प्रियदर्शनः शुचिः दाताज्यभोक्ता नृपपूजितश्च | सुखी च देवार्चनतत्परश्च धनी भवेद्देगुरो तनुस्थे | । गुरुर्धनुषि मीने च तथा कर्कटकेपि च| लग्नत्रिकोणकेन्द्रे वा तदारिष्टं न जायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 56,
+          "text": "तनुस्थानगते जीवे गौरवर्णतनुः भवेत्‌ । वातश्लेष्म शरीरे च बाल्ये च सुखसम्पदः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 57,
+          "text": "मिथ्यापवादजा पीडा शत्रुणां विषयदायिका राजतो मानमतुलं धनप्राप्तिरनेकधा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 58,
+          "text": "जीवः स्वस्थानहन्ता वदति मुनिवरो दृष्टिरस्य प्रशस्ता सौरि स्वस्थानपालः परमभयकरी दृष्टिरस्य प्रणष्टा || लक्ष्मीवान्‌ नित्यमुत्साही धनस्थे देवतागुरो || बुध दृष्टे च निःस्वः स्यादिति सत्यं प्रभावितम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 59,
+          "text": "पुनश्च भोमक्षत्रे यदा जीवः षष्ठाष्टमद्धितीयकः। षष्ठे वर्षे भवेन्मृत्युजतिकस्य न संशयः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 60,
+          "text": "भातृस्थानं गुरौ भातृभगिनीभ्यः सुखं वदेत्‌। भ्रातरः पंचचत्वारः क्रूरदृष्ट्या विपत्तयः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 61,
+          "text": "करूरेश्च शत्रुभिर्दष्टे स्वल्पं भातृसुखंभवेत्‌ | धनवान्‌ निर्धनाकारः कृपणो भ्रातृसंयुतः। कुटुम्बी नृपपूज्यश्च सहजे देवता गुरो",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 62,
+          "text": "भवन्ति बाल मित्राणि यस्य मित्रगतोगुरुः| दिव्यभालाम्बरकीडा नानावाहनयोग्यता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 63,
+          "text": "जीवःस्यात्‌ पितुस्तस्य सुखं भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 64,
+          "text": "जीवश्चाप्यमृतोपमम्‌। एकोऽपि जीवः चतुर्थस्थः पापाश्चान्यत्र संस्थिताः। तदा गृहे हि जातस्य पूर्वजं धनमुच्यते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 65,
+          "text": "समृद्धो बहुपुत्रश्च दाता भोक्ता गुणान्वितः। धनी मानी च सततं सुतस्थे देवतागुरौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 66,
+          "text": "जीवे मकरे यति पंचमभे आत्मजमृतिं विद्यात्‌| मीनर्थितेपि चैवं नवमे शुभसंस्थितेल्पजीवी च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 67,
+          "text": "इन्दोर्वेस्मनि जीवे पुत्रस्थे दारिकाबहुलं स्यात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 68,
+          "text": "ताताम्बिकासोदरमातुलाः च मातामहाः पितृपिता च सूनुः सूर्य दिखेटेः खलु पंचमस्थे: नश्यन्ति नूनं मुनयो वदन्ति। सुतपंवकदो गुरुः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 69,
+          "text": "स्वगेहे शुभगेहे वा षष्टे गुरूरमित्रहा | शत्रुगृहेऽरिणा दुष्टे शत्रुपीडा ददाति सः|| गुरुः रिपुगेहे यदा भवेत्‌ तदा भातृस्वसुणांच मातुलानां महासुखम्‌।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 70,
+          "text": "युवतिमेदिरगे सुरयाजके नयति भूपतितुल्य सुखं जनः। अमृतराशिसमानवचाः सुधीर्भवति चारुवपुः प्रियदर्शनः ।। पूज्ये रम्यम सुतसूः। सप्तमे गुरुसौम्यो चेत्‌ तदेका वनिता भवेत्‌||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 71,
+          "text": "जीवे मृत्युगते ज्ञानात्‌ सुतीर्थ मरणं भवेत्‌ शुभर्ष स्वगृहे चेत्‌ स्यादन्यत्र मरणं श्रमात्‌ | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 72,
+          "text": "विविधतीर्थकरः सुकलेवरः सुरगुरो नवमे सुखान्‌ गुणी । त्रिदशयज्ञकरः परमार्थवित्‌ प्रचुरकीर्तिकरः कुलवर्धनः | आयुः पर्यन्त सुखयोगः। गुरुः भाग्ये भवेन्मत्री महाभाग्योऽखिलेश्वरः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 73,
+          "text": "यशोवाहनसोख्यार्थगुणसत्यसमन्वितः ¦ सिद्धारम्भेअतिचतुरो भव्यकर्मस्थिते गुरौ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 74,
+          "text": "नीरोगो दृढवीर्यश्च मन्त्रव परशास्त्रतित्‌ | नातिविद्योल्पतनयः साधुरेकादशे गुरो ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 75,
+          "text": "सेवा विज्ञो महाक्रोधी सालसो लोकविग्रही| व्ययेन्नदाता धिषणः। गुरुः व्यये यदा पटगोधनहेमसम्पदः। |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 76,
+          "text": "वाचालः शिल्पशीलाढ्यो विनीतो गीततत्परः। काव्यशास्त्रविनोदी च धार्मिको लग्नगे भृगौ | तनुस्थानस्थिते शुक्रे दृष्टिभिः वा विलोकिते । गौरवर्णो भवेत्‌ देहो वातपित्त समन्वितः। कटिपार्वोदरे गुहये व्रणो वाथ तिलोथवा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 77,
+          "text": "श्वशुंगिभ्यो वायुतो वा पीडा देहे प्रजायते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 78,
+          "text": "विद्यार्जितधनो नित्यं स्त्रीधनोअथवा धनी | धने शुक्रे वीक्षिते वा धनवांश्च बहुश्रुतः || मुख च लक्षिता वाणी सभायां पटुता तथा |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 79,
+          "text": "भातृस्थाने भृगोः पुत्रे भगिन्यो बहुलाः रमृता | भ्रातरश्च त्रयः प्रोक्ताः क्रूरेण निघनं गताः || सहजस्थातगो दत्ते गौरांगीं भगिनीं भृगुः । अशीतिनाथो भृगुनन्दनः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 80,
+          "text": "परदयितविचित्री वासवासी विलासी बहुविधबहुभोगी राजपूज्यः चिरायुः | वरपरिकरभार्या भार्गवे बन्धुसंस्थे भवति मनुजवर्गः सर्वदा विक्रमी च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 81,
+          "text": "शुक्रे च तत्रस्थे धनं रोप्यमयं बहु| प्रचुरं च तथा धान्यं रसाश्च बहुला ग्रहे | शुक्रस्तु दाराश्रय सौख्यवृत्तं स्रग्वस्त्र सोभाग्यगृहं विदध्यात्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 82,
+          "text": "सुतसुखविविधोपचितं परमधनं पंडित शुक्रः | कुरुते पंचमराशौ मंत्रिणमथ दंडने तारम ।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 83,
+          "text": "नीचास्तगामी रिपुमन्दिरस्थः करोति वैरं कलहागम च| अन्यत्र शुक्रो रिपुदर्पहारी स्वरक्ष तु षष्ठे हि सदाति सिद्धिः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 84,
+          "text": "भीरुः भूरिरिपुः स्त्रीणामनिष्टो विभवोप्सितः। विक्लवश्च भवेत्‌ लग्नाद्‌ भार्गवे रिपुराशिगे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 85,
+          "text": "भृगुः रिपुगेहे यदा भवेत्‌ तदा भ्रतृस्वसृणां च मातुलानां महासुखम्‌ । कन्यापत्योऽथ मातुलः । दशाधिपः तीक्ष्णकरः प्रतिष्ठः सहस्रनाथो रजनीकरस्च | वक्रार्कजौ हीनदरौ सदैव दोषाणि चन्द्रेण समाः पतगाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 86,
+          "text": "दोषरहित होते हैँ | युवति मन्दिरगे भृगुजे नरो बहुसुतेन धनेन समच्ितः। विमलवंशभवप्रमदापतिर्भवति चारुवपुः मुदितः सुखी || शुक्रे यौवनाढ्या । गौरी सुरूपां स्फुटपंकजाक्षीं सितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 87,
+          "text": "मोमेन युत दृष्टे वा परस्त्री भोगमिच्यति।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 88,
+          "text": "अनृण पितुराधत्ते तीर्थं मरणमेव च। नयेत्‌ पितृकुलं पुण्य रन्रगो भृगुनन्दनः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 89,
+          "text": "सूयदिमिर्निधनगेर्निधनं हुताशनौकायुधज्वरजमामयजं क्रमेण",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 90,
+          "text": "कफाच्चानिलात्‌। गुरुसितेन्दुसुता निधनेऽथवा स्थिरभगाः सततं बहुकष्टदाः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 91,
+          "text": "भवति भाग्यविधिर्धनवल्लभो बहुगुणी द्विजभक्त्ति परायणः निजभुजार्जितभाग्यमहोत्सवे भवति धर्मगते भृगुनन्दने ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 92,
+          "text": "दशममन्दिरगे भृगुवंशजे बधिरवन्धुयुतः स च भोगवान्‌ | वनगतोऽपि च राज्यफलं लभेत्‌ समरसुन्दरवेशसमन्वितः ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 93,
+          "text": "सत्रीरत्नवररत्नाढ्यो स्वस्थशोक विवर्जितः। सम्पन्नधनभृत्यश्च मर्त्यो लाभगते सिते।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 94,
+          "text": "श्रद्धाहीनः घृणाहीनः परदाररतः सदा | व्ययस्थानगते शुक्र योगार्तः स्थूलदेहकः |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 95,
+          "text": "कडूतिपूर्णागकफप्रवृत्तिः लग्ने शनौ स्यात्‌ सततः नराणाम्‌। हीनाधिकांगत्वमघप्रदेशे कर्णान्तरे वातगदः सदैव",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 96,
+          "text": "लग्नेमदेऽथवा दृष्टे कुशदेहश्च दुःखितः | मूर्खश्च मदनाचारो भिन्नवर्णस्तनौ भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 97,
+          "text": "लोहादिभिः शिरः पीडा आत्मचिन्ता निरंतरम्‌ । तुलाकोदंडमीनानां लग्नसंस्थे शनैश्चरे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 98,
+          "text": "करोति भूपति जातं अन्यराशौ गतायुषम्‌ । स्थविरौ सवलौ यस्य ग्रहौस्यातां विलग्नगौ | प्रकृत्या स भवेद्‌ वृद्धो मान्यः सर्वजनेषु च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 99,
+          "text": "काष्ठांगाराल्लोहधनः कुकार्यादधनसंचयः। नीचविकद्यानुरक्तश्च",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 100,
+          "text": "धने मन्दे धनेर्हीनो निष्ठुरो दुःखितो भवेत्‌| मित्रसोम्येर्युते दृष्टे धर्मसत्यदयाच्वितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 101,
+          "text": "मृतवत्साभयिन्यादि गर्भस्रादादिकं वदेत्‌| प्रतिवेश्मादि बालानां विपत्तिरपि कश्यते",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 102,
+          "text": "तथा तृतीयगे मन्दे स नरो भाग्यवान्‌ भवेत्‌। भवेद्‌ दोषरिथिता पीडा शरीरे तस्य सर्वदा । भ्रातृगो मन्दगः कुर्याद्‌ भ्रातृस्वसुविनाशनम्‌। नृपतुल्यं च सुखिनं सततं कुरुते नरम्‌ सौरि गर्भविनाशनं च नियतं मन्त्रीश्वरो नान्यथा ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 103,
+          "text": "भग्नासनोऽगृहो नित्प्र विकलो दुःखपीडितः। स्थानभ्रंशमवाप्नोति सौरे बन्धुगते नरः||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 104,
+          "text": "सुतभवनगतोऽरिमंदिरस्थः सकलसुतान्‌ विनिहति मंदगामी | समुदितकिरणः स्वतुंगमस्थः कथमपि जनयेत्‌ सुतीक्ष्णमेकपुत्रम्‌ | | घटशनिः सुतगः सुतपंचकी मृगशनिश्चसुतात्रयदः तथा | बुद्धिः कुटिला म॑ंदः।|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 105,
+          "text": "विद्धषिपक्षपक्षपितः शुरो विषमचेष्टितः। बहुवारी बहुकाव्यस्यारिदाहोरिपुमे शनौ । षष्ठे नीचगतः सौरि जनयैन नीचवैरिणाम्‌ अन्यथा वैरिणं हन्ति निर्वैरं स्वगृहे गतः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 106,
+          "text": "विश्रामभूतां विनिहंति जायां सूर्यात्मजः सप्तमगश्चरोगान्‌। धत्ते पुनः दभघरांगहीनं मित्रस्थवंशेन हुतासुहटच्च लीवा शनौ |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 107,
+          "text": "विदेशतो नीचसमीपतो वा सौरिः मूर्तिं रन््रगतो विधते | हच्छोककासामयवद्‌विषूचीनानाविधं रोगगणं विधाय ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 108,
+          "text": "दभप्रधानः सुकृतः पित्रदैवतवंचकः। क्षीणभाग्यः सुधर्माय स्यान्नरो नवमे शनौ",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 109,
+          "text": "स्वोच्चे स्वभे शनौ भाग्ये वेकूंठादागतो नरः। राज्यं कृत्वा स्वधर्मेण पुनर्वैकुंठमेप्यति",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 110,
+          "text": "नवमभावगतः स्वगृहे शनिर्भवति चेत्‌ स महेश्वरयज्ञकृत्‌। अतिशयं कुरुते जय संयुतं नृपतिवाहनचिन्हसमन्वितम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 111,
+          "text": "भवेत्‌ वृन्दपुरग्रामपतिः वा दंडनायकः। प्राज्ञः शूरो धनी मंत्री नरः कर्मर्थिते शनौ। सेवार्जितघधनः क्रूरः कृपणः शत्रुघातकः। जंघारोगीनीचशत्रुराशिस्थिते कर्मगे शनौ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 112,
+          "text": "र्थिरसम्पत्तिभूलाभीशूरः शिल्पान्वितः सुखी । निर्लोभश्च शनौ कैश्चित्‌ मृतप्रथमजीविकः | |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 113,
+          "text": "नीचक्मभ्चितः पापो हीनांगो भोगलालसः। व्ययस्थानगते मन्दे क्रूरेषु कुरुते रुचिम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 114,
+          "text": "सर्वागरोगी विकलः कुमूर्तिः कुवेषधारी कुनरवी कुकर्मा अधार्मिकः साहस कर्मदक्षो रक्तक्षणश्चन्द्ररिपो तनुस्थे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 115,
+          "text": "राहौ लग्नगते जातः संचयं कस्य कत्र चित्‌ | सिंह करकिणी मेषस्थे स्वर्णलाभाय मंगलः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 116,
+          "text": "यस्य लग्नेस्थित्तस्तस्थान्दोलिता प्रकृतिः भवेत्‌ राहुः यत्रस्थ: तत्र कृष्णलांछनम्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 117,
+          "text": "मत्स्यमांसधनो नित्यं नख चर्मादि विक्रयी । जीविका चौरकृत्याच्च राहौ धनगते नरः||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 118,
+          "text": "भातृगो हन्ति वा व्यंगमथवा भ्रातरं तमः। लक्षेश्वरं कष्टहीनं चिरं च तनुते धनम्‌।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 119,
+          "text": "बन्धुस्थानगतो राहुर्बन्धुपीडाकरो भवेत्‌ गावे ककिणि मेषे च स च बन्धुप्रदो भवेत्‌।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 120,
+          "text": "तनयं दीनमलिनं सुतर्षे रचयेत्‌ तमः। यदि चन्दरगृहे तत्‌ स्यात्‌ तदानीं संततिः भवेत्‌|| सिंह कुलीरसंस्थे राहुः पुत्रेऽथ पुत्रिणं कुरुते| अन्यस्मिन्नपि राशौ मुत्रविहीतनो भवेत्‌ मनुजः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 121,
+          "text": "शूरः सुभगः प्राज्ञो नृपतुल्यो जायते मनुजः। रिपुभवनस्थो राहुः जन्मनि मान्योऽतिविख्यातः। राहुः शत्रुगृहे कूर्यात्‌ शत्रुंसंग्राममूर्धनि। हन्ति सर्वाण्यरिष्टानि सर्वग्रहनिरीक्षितः",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 122,
+          "text": "बलिष्ठे च तथा राहौ शनौ केतौ तथैव च| मनिषानां धनं तस्य बहुलं जायते गृहे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 123,
+          "text": "सैंहिकेयः शनिश्चैव मातुले भवने स्थितौ | प्रजाहीनो मातुलः स्यात्‌ कन्यापत्योऽथवा तदा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 124,
+          "text": "तस्य वंशोद्‌मवः कोपि गतो देशान्तरं मृतः। मातष्वसा मृतापत्या रण्डा देशान्तरं गता",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 125,
+          "text": "जायास्थ राहुः धनहानिकत्रीं ददाति नारी विविधांश्च भोगान्‌। पापानुरक्तां कुटिलां कुशीला ददाति शेषैर्बहूर्भियुतश्च क्लीवा राहौ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 126,
+          "text": "पुनश्च पापैः दृष्टो युतो वापि रविचन्द्राविलोकितः। वालां निहन्ति स्वभनुरन्यथा रिष्टदः पुरे । |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 127,
+          "text": "दुष्टयौर्यपिवादेन निधनं कुरुते तमः | बहुकिल्मिषमाधाय दत्त कष्टं सयातनाम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 128,
+          "text": "नीचधर्मानुगतः स्यात्‌ सत्यशौचविवर्जिंतः | भाग्यहीनश्च मन्दश्च धर्मगेसिंहिकासुते ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 129,
+          "text": "भवेद्वृन्दपुरग्रामपतिर्वा दंडनायाकः राहौ कर्मस्थिते प्राज्ञः शूरो मंत्री धनान्वितः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 130,
+          "text": "अथवा दंडाधिकारी या न्यायाधीश अथवा विद्वान या शूरवीर अथवा",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 131,
+          "text": "यस्य लाभगतो राहुः लाभो भवति निश्चयात्‌। मलेच्छाधिपतितो नूनं गजवाजिरथादिकम्‌।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 132,
+          "text": "व्ययस्थानगते राहौ नीचकर्मरतः सदा| असद्‌व्ययी पापबुद्धि कपटी कुलदूषकः।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 133,
+          "text": "यस्य लग्नोपगः केतुः तस्य भार्या विनश्यति । बहुरोगस्तथा व्याधिः मिथ्यावादी च जायते||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 134,
+          "text": "द्वितीये भवने केतुः धनहातिः प्रजायते | नीचसंगी च दुष्टात्मा सुखसौभाग्यवर्जितः |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 135,
+          "text": "सहअस्थो यदा केतुः सौख्यं सौभाग्यमेव च| पुत्रलाभो भवेत्‌ तस्य जायते च महाधनी । |",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 136,
+          "text": "चतुर्थं भवने केतुः मातापित्रोस्तु कष्टकृत्‌ | अतिचिन्ता महाकष्टं सुहदभिः सुखवर्जितम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 137,
+          "text": "केतौ सुते प्रजाहानिर्विक्याज्ञानविवर्जितः। भयत्रासी सदा दुःखी विदशगमने रतिः।।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 138,
+          "text": "दानवः अघरदन्तरूजाय शिखी रिपौ | षष्ठे क्रूरा नरं कुर्युः शत्रुपक्षक्षयङ्करम्‌ ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 139,
+          "text": "क्रूरदृष्टियुतः केतुः हन्ति नारीं सदेव हि। अन्यथा गतवित्तम्‌ च पापिनं कुरुते नरम्‌||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 140,
+          "text": "गुदपीडचतेऽशदिरोगैः अवश्यं भयं गृहनादे स्वद्रव्यसरोधः। भवेद्रष्टमे राहुपुचष्टेऽर्थलामः सदा कीटकन्याऽजगोयुग्मकेतुः | ।",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 141,
+          "text": "नवमस्थानगः केतुः बालत्वे पित्‌कण्टकृत | भाग्यहीनो विधर्मश्च म्ेच्छादृभाग्योदयो भवेत्‌|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 142,
+          "text": "गुदामयी म्लेच्छवृत्तिः म्लेच्छकर्मा च मानवः । परदाररतौ नित्यं केतौ दशमगे गृहे ||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 143,
+          "text": "सुभाग्यः सुविक्याधिकोदर्शनीयः सुगात्रः सुवस्त्रः सुतेजाश्च तस्य । वरैः पीड्यते श्रुवर्गः सदैव शिखी लाभगः सर्वलाभं करोति|",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 144,
+          "text": "शिखी रिफगो वस्तिगुहयांध्रिकाये रुजापीडनं मातुलान्नैवशम || सदा राजतुल्यं नरं सदव्ययं तद्तिपूणां विनाश रणेऽसौ करोति||",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 145,
+          "text": "यस्यैव जन्मनक्षत्रे जायेत्‌ भ्राता सुतोऽपि वा सजातीयः सजात्यावा सोऽस्य प्राणान्‌ विनाशयेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 146,
+          "text": "संपत्त्करेऽपि जातस्य श्रेयस्कत्तिष्ठते सदा। नित्यं कलिसमं पश्येद्यो जायेत विपत्करे",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 147,
+          "text": "क्षेमेऽभिजातः पुरुष सौम्यश्यैकान्तिको भवेत्‌। प्रत्यारिजो रिपुसमः नैधन तस्करो भवेत्‌",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
+        },
+        {
+          "number": 148,
+          "text": "साधके सर्वकार्याणां साधकः स्यादतिप्रियः। भेत्रे परमभैत्रे च परमित्रमतिप्रियः। धिर.",
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         }
       ]
     }

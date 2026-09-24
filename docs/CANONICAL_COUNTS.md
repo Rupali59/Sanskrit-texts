@@ -133,7 +133,7 @@ for t,c in (('mundaka_upanishad',64),('kaushitaki_upanishad',50),('katha_upanish
 
 | text | then | now | cited | residue | cause |
 |---|---:|---:|---:|---:|---|
-| `mundaka_upanishad` | 67 | **65** | 64 | +1 | **the śānti**, carried as label `0.1` in muṇḍaka 1 |
+| `mundaka_upanishad` | 67 | **65** | 64 | +1 | **the śānti**, carried as label `0.1` in muṇḍaka 1 — **cleaned 2026-09-24**: that record had been scraped with the page's Google Analytics JS and `Home upanishhat ITX …` nav chrome wrapped around the invocation. The chrome is gone; the śānti and its English and Hindi stay. **The +1 is correct and is not a defect** — 64 counts the mantras, and a śānti-pāṭha is not a mantra. Deleting the record to force 64 was tried the same day and reverted: it is the invocation's only home in this corpus |
 | `kaushitaki_upanishad` | 53 | **50** | 50 | **0** | SC-001 — a colophon-only pseudo-chapter, repaired |
 
 **Muṇḍaka: the śānti-pāṭha explanation was rejected here, and it was rejected correctly — for

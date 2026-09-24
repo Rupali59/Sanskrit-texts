@@ -79,6 +79,28 @@ def test_sanskrit_echo_hindi_contains_first_40_chars_fails():
     assert "sanskrit-echo" in reasons
 
 
+def test_short_sanskrit_hindi_gloss_containing_the_term_is_not_an_echo():
+    """Regression for the false-positive class in `quiet-juggling-cherny` Lane D. Below
+    `_SANSKRIT_ECHO_MIN_LEN`, `stripped_dev[:40]` used to be the WHOLE Sanskrit, so the
+    containment check degenerated into "mentions the term at all" -- a correct gloss that
+    quotes a short term legitimately does. Live example: `bhrigu_sutram` ch3 v37."""
+    dev = "मायावादी"
+    hindi = "वह मायावादी (भ्रम में विश्वास रखने वाला या छल करने वाला) होगा।"
+    level, reasons = check_translation("hi", hindi, dev)
+    assert "sanskrit-echo" not in reasons
+    assert level == "no-defect-found"
+
+
+def test_long_sanskrit_genuinely_echoed_into_hindi_still_fails():
+    """The fix is scoped to short Sanskrit only -- it must not blunt the real defect class
+    (`astanga_hridaya`, 18 live hits, Sanskrit well over the threshold)."""
+    dev = "श्री गणेशाय नमः तस्मात् सर्वप्रयत्नेन " * 3  # > 40 characters
+    value = "हिन्दी में: " + dev[:40] + " आगे"
+    level, reasons = check_translation("hi", value, dev)
+    assert level == "fails"
+    assert "sanskrit-echo" in reasons
+
+
 def test_wrong_script_hindi_with_zero_devanagari_fails():
     level, reasons = check_translation("hi", "this is plain english text", "किंचित्")
     assert level == "fails"
