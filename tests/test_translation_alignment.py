@@ -35,6 +35,8 @@ from __future__ import annotations
 
 import collections
 import json
+import re
+import unicodedata
 import pathlib
 
 from sanskrit_texts.importer import corpus_files
@@ -69,7 +71,31 @@ KNOWN: dict[str, int] = {
     "jataka_tattva": 2,
     "chandogya_upanishad": 2,
     "brihat_samhita": 1,
+    #: `caraka_samhita` 3 -- the closing formula `इति ह स्माह भगवानात्रेयः` ("Thus said the
+    #: venerable Lord Ātreya") ends each adhyāya and occurs 126 times. `_normalise` collapses the
+    #: punctuation variants; these three survive because the OCR differs in LETTERS --
+    #: `भागवान`, `आत्र्यः`, `हस्माह`. Same formula, same translation, genuinely repeated text.
+    #: Do NOT normalise letters to make these go away: that would merge verses that differ.
+    "caraka_samhita": 3,
 }
+
+
+def _normalise(text: str) -> str:
+    """Whitespace and division markers only -- never letters.
+
+    The comparison is over DISTINCT Sanskrit, so two renderings of the SAME verse must collapse
+    to one string or the check reports a defect that is not there. Measured 2026-09-25:
+    `caraka_samhita` served 7 groups, of which 4 were the closing formula
+    `इति ह स्माह भगवानात्रेयः` differing ONLY by a space before `//` -- six verses of identical
+    Sanskrit counted as six different verses.
+
+    Deliberately conservative: it touches whitespace, daṇḍas, pipes and slashes and nothing else,
+    so it cannot merge two genuinely different verses. Verified across the whole corpus the day it
+    was added -- `caraka_samhita` fell 7 -> 3 and **every other text was unchanged**, which is the
+    property that makes it safe rather than merely convenient.
+    """
+    text = unicodedata.normalize("NFC", text)
+    return " ".join(re.sub(r"[।॥|/]+", " ", text).split())
 
 
 def _misaligned(doc: dict) -> int:
@@ -84,7 +110,7 @@ def _misaligned(doc: dict) -> int:
         for shloka in chapter.get("shlokas") or []:
             english = (shloka.get("english") or "").strip()
             if english:
-                by_english[english].add((shloka.get("text") or "").strip())
+                by_english[english].add(_normalise(shloka.get("text") or ""))
     return sum(1 for sanskrit in by_english.values() if len(sanskrit) > 1)
 
 

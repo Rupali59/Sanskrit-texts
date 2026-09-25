@@ -157,6 +157,40 @@ That matters far beyond this eval, because **83% of the corpus has no English.**
 untranslated 80,894 verses are not reachable by an English query today, and no choice of
 embedding model fixes it — **translation is a prerequisite for retrieval, not an enhancement.**
 
+> **AMENDED 2026-09-25 — the 83% figure has moved, and the way it is counted matters more than
+> the number.** A translation run has landed since 2026-09-15. Re-derived today with this repo's
+> own content checker (`translation_status.check_value` over `importer.corpus_files`):
+>
+> | | verses | share |
+> |---|---:|---:|
+> | served `english` | 42,441 | 43.1% |
+> | `english_draft` that PASSES the checker | 49 | 0.05% |
+> | `english_draft` that FAILS it | 55,651 | 56.5% |
+> | no English field at all | 294 | 0.3% |
+> | **total** | **98,435** | |
+>
+> So **57% has no English**, not 83%, and the untranslated count is **55,945**, not 80,894.
+>
+> **Two cautions on these figures, both learned the hard way the same day.** (1) The corpus is
+> being written by a live translation run: served English moved 41,041 -> 42,441 within one
+> session. Re-derive rather than quoting this table. (2) An earlier pass in that session read
+> **98,141** and concluded the registry's 98,435 was stale. It was the opposite — the working
+> tree was missing 294 verses of `garga_hora` that a stale-base overwrite had deleted, and the
+> registry was correct throughout. When the registry and the corpus disagree, establish which
+> side is damaged before assuming the registry rotted.
+>
+> **The counting caveat is the load-bearing part.** Every verse in the "FAILS" row above HAS a
+> populated `english_draft` field. Virtually all carry a template prefix and echo the Sanskrit —
+> a typical value is `"Classical text translation of Caraka Samhita: "` followed by the verse
+> verbatim. So counting field *presence* reports ~0% untranslated and is wrong by more than half
+> the corpus; only a content check (`translation_status.check_value`) gives the real figure. This
+> exact error was made and corrected on 2026-09-25 — `rule:discernment-checks` §4. Derive the
+> per-defect breakdown rather than quoting one: the counts move with every translation batch.
+>
+> **The conclusion above is unchanged and if anything strengthened.** A majority of the corpus
+> still has no English, the Devanāgarī arm still scored 7 against 35, and translation remains a
+> prerequisite for retrieval rather than an enhancement.
+
 It also independently reproduces the literature the *"Choosing the Shastra Database"* artifact
 cites: *"the Anveshana study (Bhāgavatam retrieval) found that translating documents first beat
 searching the Sanskrit directly. That supports embedding the translations, not the shlokas."*
@@ -170,8 +204,10 @@ weakest option available**. A stronger model would raise these numbers, not chan
 
 *(`bge-m3` was attempted first — 1024d and multilingual, which would have opened a Devanāgarī
 arm the 2026-09-14 run could not run at all. Its 1.2 GB download died on a TLS timeout at 32 MB.
-Worth retrying: the corpus is 83% untranslated, so an arm that reads the Sanskrit directly is
-worth more than any English model.)*
+Worth retrying: most of the corpus is untranslated (83% then, 58% today — see the 2026-09-25
+amendment above), so an arm that reads the Sanskrit directly is worth more than any English
+model.)* **It was retried the same day and succeeded — that is the `bge-m3` run tabled above;
+this parenthetical describes only the first, failed download.**
 
 **Harness validated both ways** (`rule:discernment-checks` §1). Oracle — each question replaced by
 its own gold verse's English — **49 of 49 hit@1**. Negative control — a nonsense query — **0 of

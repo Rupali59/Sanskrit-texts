@@ -216,6 +216,33 @@ construction.
 **The per-text N1 95th percentiles are now the measured floors an embedding arm must beat.** D3's
 triage floor is read off the embedding arm's N1 distribution, never off this one.
 
+### A third signal, falsified 2026-09-25 — verse-length correlation
+
+**Hypothesis:** a shift chain should show up as an offset in the correlation between
+`len(sanskrit[i])` and `len(english[i])` — correlate at every offset in a window and the winner
+names the shift. Model-free, lexicon-free, and immune to G56's sandhi blind spot because it is a
+*relative* comparison: a blind spot applies equally at offset 0 and offset k, so it cancels.
+
+**It does not work, and it was killed by its own selftest before shipping.** The oracle is real
+rather than synthetic: git HEAD holds `katha_upanishad` and `shvetashvatara_upanishad` in their
+known-misaligned state, the working tree holds the same two repaired on 2026-09-25, so a detector
+must fire on one and stay silent on the other. It did neither reliably — silent on misaligned
+Kaṭha (false negative), and firing at offset −3 with r=0.72 on *clean* Śvetāśvatara chapter 1
+(false positive, 16 verses).
+
+**Why, and the reason generalises:** these verses are near-uniform in length — median 90
+characters, an anuṣṭubh — so length carries almost no variance for a correlation to work with, and
+what remains is small-sample noise. Any signal that depends on verses *differing* from each other
+will struggle here for the same reason this document already records for character overlap: the
+discriminating tokens are the ones held constant.
+
+**What this leaves.** No validated automatic detector exists for a shift chain. The duplicate-string
+ratchet in `tests/test_translation_alignment.py` catches only the head of each chain — measured
+2026-09-25, it found 18 of 76 real displacements in those two texts, a 4× under-count. The only
+method proven on this corpus is an LLM reading each verse against its own Sanskrit, which is how
+all 76 were found. So the operational answer is **prevention at the writer plus a per-batch read**,
+not a whole-corpus heuristic scan.
+
 ### Blocking defect found by this arm — fix before any further arm runs
 
 **`phaladeepika`: 178 of 851 translated verses (20.9%) carry a template stub, not a translation.**

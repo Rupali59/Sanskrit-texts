@@ -50,6 +50,27 @@ have since changed size from the SARIT relabel (G64): `manu_smriti` 2,688 · `ca
 
 ## Order of work
 
+> **THE COUNTS IN THESE FIVE TABLES ARE STALE AND ONE OF THEM DESTROYED DATA.** Derive the list
+> before handing any work out: `./.venv-corpus/bin/python scripts/translation_backlog.py`.
+>
+> **What happened, 2026-09-25.** The Tier 1 row for `garga_hora` read *"84 · chapter 1 only, 84
+> verses"*. That was true at `bf7537f` (2026-09-07) and `5dee26c` (2026-09-15), where the text
+> held 84 verses with none translated. `d006dc5` then rebuilt it to **378 verses across 3
+> chapters** on 2026-09-24 at 17:17 — and this row was never updated. The run executed the row:
+> it translated the 84 verses the table named, and wrote the file back in the shape the table
+> described, **deleting chapters 2 and 3 — 294 verses.**
+>
+> So the verses were not dropped by a faulty join or a stale file handle. **They were absent from
+> the instruction.** The run did what it was told; the telling had rotted. Note this document
+> contradicted itself at the time — the 2026-09-24 brief further down correctly said
+> *"`garga_hora` 294 (chapters 2–3)"* while this table still said 84, and the run followed the
+> older line.
+>
+> The counts in the remaining tier tables have not been re-derived and should be assumed equally
+> stale; the **notes** columns are curated and still good. Same for *"109 of roughly 120 `@source`
+> call sites"* below — measured 2026-09-25 with `ast`, it is **100 of 119**.
+
+
 ### Tier 1 · Jyotiṣa with a live consumer — 4,273 shlokas, 5 texts
 
 | text_id | shlokas | note |
@@ -58,7 +79,7 @@ have since changed size from the SARIT relabel (G64): `manu_smriti` 2,688 · `ca
 | `sarvartha_chintamani` | 1,227 | house significations in unusual depth; standard in South Indian practice |
 | `jaimini_sutra` | 408 | Tattvādarśa recension, complete in its own terms |
 | `jaiminiya_upadesa_sutra` | 277 | `ocr_only` — check the Devanāgarī before translating |
-| `garga_hora` | 84 | chapter 1 only, 84 verses |
+| `garga_hora` | **294** | **chapters 2–3.** Chapter 1's 84 were translated 2026-09-25. Numbering is positional and uncitable |
 
 **Why first:** astroacharya cites BPHS in 109 of roughly 120 `@source` call sites, and
 marketing-intel and astro-studio both want Jyotiṣa. This is the same skandha and the only
@@ -137,6 +158,86 @@ the translator:
 Both are already fully translated, so nothing is blocked *by* them — this is only a warning
 against starting corrections inside them right now.
 
+## FLAGGED — served translations awaiting review
+
+**These nine texts carry served translations that no human has reviewed.** Written by the
+2026-09-24 translation run straight into `english`/`hindi` rather than the draft fields, against
+rule 1 of its own brief. Rupali's call, 2026-09-25: *"mark this as flagged"* — they stay served,
+because the review layer exists to flag rather than block.
+
+```
+astanga_hridaya   caraka_samhita   grahaganita   jataka_parijata   katha_upanishad
+manasara          panchasiddhantika   phaladeepika   shvetashvatara_upanishad
+```
+
+**This list is the record. Do not delete a name from it because a count changed** — a name leaves
+only when a human has reviewed that text's served content and says so here, with a date.
+
+**Derive the volumes, never restate them here.** An earlier version of this section carried a
+per-text table and it was stale within two hours while the run kept writing:
+`./.venv-corpus/bin/python scripts/translation_backlog.py`, and
+`./.venv-corpus/bin/python -m sanskrit_texts.translation_status <file>` for per-verse defects.
+
+**Why the count table went, and it matters for how you read the rest of this file.** Until
+2026-09-25 these nine were also identifiable from `check_inventory.py`'s drift rows — the registry
+still held their pre-run percentages. That was never a *record*; it was registry staleness being
+read as a review signal, and it meant `docs/INVENTORY.md` could never be accurate while anything
+awaited review. The registry was reconciled on 2026-09-25 and now matches the corpus, so this
+list, and only this list, says which texts hold unreviewed machine output.
+
+**Known WRONG within the flagged set, as of 2026-09-25:** none outstanding. 76 displaced verses in
+`katha_upanishad` and `shvetashvatara_upanishad` and 1 in `manasara` were repaired that day — the
+corrupt served values cleared, fresh translations written to the draft fields. `caraka_samhita`'s
+7 duplicate groups are the Ātreya colophon repeating legitimately and are recorded in
+`tests/test_translation_alignment.py`'s `KNOWN`, not a defect.
+
+**Nothing is public today** — astroacharya's Mongo copy is stale and split, and VipinKaushik's
+texts client has zero call sites. That is a fact about deployment state, not a gate. The moment
+anyone re-seeds astroacharya, every served value here reaches the public API, because
+`seed_texts.py`'s allowlist copies `english`/`hindi` and filters on nothing.
+
+---
+
+## What the 2026-09-24 brief asked for, and what happened
+
+Measured 2026-09-25. **The translation work itself is real** — 51 of 66 texts are complete and the
+whole Jyotiṣa short tail is done. **All six rules below are being broken**, and the remaining
+backlog is roughly six times what has been done so far, so each one compounds.
+
+| Brief rule | Status | Evidence |
+|---|---|---|
+| **#1 must-fix — join on `(chapter, verse)`** | **BROKEN** | 25 misaligned verses in the three texts most recently worked |
+| **Rule 1 — write to `*_draft`, never served** | **BROKEN** | every duplicate is in `english`; `english_draft` has none. 9,018 served values, above |
+| Rule 2 — normalise to NFC | BROKEN | `Phaladeepika.json`, `CarakaSamhita.json` |
+| Rule 4 — re-derive text `status` | BROKEN | `tests/test_reader.py::test_every_text_level_status_equals_its_derivation` is red |
+| Rule 4 — update `INVENTORY.md` | BROKEN | 7 drift rows (and see the note above — leave them until reviewed) |
+| *(new, not in the 2026-09-24 brief)* | BROKEN | see the next section |
+
+### NEW RULE — never write a file back from a copy you did not just read
+
+`GargaHora.json` went from **378 verses to 84**: the run read a stale 84-verse copy, retranslated
+chapter 1 competently, and wrote the whole file back — deleting chapters 2 and 3, 294 verses
+committed in `d006dc5`. The chapter-1 English it produced was *better* than what it replaced, which
+is what makes this shape dangerous: the visible output improved while data was destroyed.
+
+**Read the file immediately before writing it, and re-check its hash between read and write.**
+Verse counts must never decrease. Detect a recurrence with:
+
+```sh
+git status --porcelain -- '*.json' | awk '{print $2}' | while read -r f; do
+  h=$(git show "HEAD:$f" | python3 -c "import json,sys;d=json.load(sys.stdin);print(sum(len(c.get('shlokas') or []) for c in d.get('chapters',[])))")
+  w=$(python3 -c "import json;d=json.load(open('$f'));print(sum(len(c.get('shlokas') or []) for c in d.get('chapters',[])))")
+  [ "$w" -lt "$h" ] && echo "REGRESSION $f HEAD=$h worktree=$w"
+done
+```
+
+### The gate is not optional, and it was not run
+
+The 2026-09-24 brief already ended with three commands to run before handing work back. All three
+fail right now, which means either they were not run or their failures were passed over. **A batch
+is not finished until all three pass.** Run them per batch, not per run — a batch that breaks one
+is cheaper to fix than a run that breaks it 54,886 times.
+
 ## Brief for the translation run (Antigravity) — 2026-09-24
 
 **60,543 verses need a translation.** Every one of them has clean, genuine Sanskrit in `text`;
@@ -194,6 +295,24 @@ Classical text translation of <Title>: <the Sanskrit verse>      <- not a transl
 Scholarly English translation of Chapter N, Shloka N, following… <- not a translation
 Chapter 21, Shloka 11 - Description of the subtle effects of…    <- not a translation
 ```
+
+### Where the run actually is — 2026-09-25
+
+**51 of 66 texts complete. 54,886 verses remain in 15 texts**, of which 54,510 sit in
+`english_draft` and are labels, not translations. Derive, never trust:
+`./.venv-corpus/bin/python scripts/translation_backlog.py`.
+
+Against the priority order below: the **short tail is done** except `garga_hora`, and `caraka_samhita`
+is roughly half done. `astanga_sangraha`, `susruta_samhita`, `bhela_samhita`, both Sthāpatyaveda
+texts and all five Vedic Saṃhitās are untouched.
+
+**Do `samaveda_samhita` next, before any more Āyurveda.** It is a single chapter with no repeating
+verse numbers, so it is the one text where a broken join key cannot hide — and the join key is
+still broken. Prove the fix there on 1,863 verses, then return to the bulk. Going straight back
+into `caraka_samhita` (2,055 recurring numbers, up to 8 copies) means finding out at scale.
+
+**`garga_hora`'s 294 are chapters 2–3, restored on 2026-09-25** after the stale-base overwrite
+above. Their numbering is positional and uncitable — translate by position, never cite a number.
 
 ### The work, in priority order
 
