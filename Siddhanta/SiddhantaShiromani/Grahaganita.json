@@ -1433,20 +1433,16 @@
         {
           "number": 23,
           "text": "द्विधाऽपमज्या भुजकोटिनिघ्नी कोट्या च दोष्णा विहृताऽऽद्यमाप्तम्। कुज्या परं तद्धृतिखण्डमूर्ध्वं स्यात् तद्धृतिः संयुतिरेतयोर्वा॥२३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 23).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 23)।"
+          "english": "The declination sine, multiplied twice by the sine and cosine, and divided respectively by the cosine and sine, gives the first quotient. The earth-sine is above it, or the earth-radius is the sum of these two.",
+          "hindi": "अपमज्या (क्रान्तिज्या) को दो बार भुजज्या और कोटिज्या से गुणा करके क्रमशः कोटिज्या और भुजज्या से भाग देने पर प्रथम आप्त (भागफल) होता है। इसके ऊपर कुज्या (क्षितिजज्या) होती है, अथवा इन दोनों का योग त्रिज्या (तद्धृति) होती है।",
+          "status": "translated"
         },
         {
           "number": 24,
           "text": "कुज्यापमज्ये भुजकोटिनिघ्न्यौ कर्णोद्धृते स्यात् क्रमशो यदाप्तम्। अग्राग्रखण्डं प्रथमं द्वितीयमग्रादिखण्डं च तदैक्यमग्रा॥२४॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 24).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 24)।"
+          "english": "The earth-sine and declination-sine, multiplied by the sine and cosine respectively and divided by the hypotenuse, give respectively the first and secondagra-segments. The sum of the agra and these segments is the agra.",
+          "hindi": "कुज्या और अपमज्या को भुज तथा कोटि से गुणा करके कर्ण से भाग देने पर जो प्राप्त हो, वे क्रमशः प्रथम और द्वितीय अग्राखण्ड हैं। अग्रा तथा आदि खण्ड काैक्य ही अग्रा है।",
+          "status": "translated"
         },
         {
           "number": 25,
@@ -1458,38 +1454,30 @@
         {
           "number": 26,
           "text": "अग्राग्रखण्डं क्षितिशिञ्जिनी च कोट्या हते दोःश्रवणोद्धृते स्तः। उद्वृत्तशङ्कू समना तदूनः स्यादूर्ध्वखण्डं समवृत्तशङ्कोः॥२६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 26).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 26)।"
+          "english": "The first agra-segment and the earth-sine are multiplied by the cosine and divided by the side-hypotenuse. This is the unvritta-sanku (prime-vertical gnomon) reduced by the upper segment of the prime-vertical gnomon.",
+          "hindi": "अग्राग्रखण्ड और क्षितिशिञ्जिनी (कुज्या) कोटि से गुणित तथा दोःश्रवण (कर्ण) से भाजित होते हैं। यह उद्वृत्तशंकु के समान होती है, तथा समवृत्तशंकु के ऊर्ध्वखण्ड से वहन (हीन) होती है।",
+          "status": "translated"
         },
         {
           "number": 27,
           "text": "ज्ञाताच्च साध्यादितरे भवन्ति यद्वा गुणच्छेदविपर्ययेण॥२७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 27).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 27)।"
+          "english": "From a known quantity, the others to be derived are obtained, or else by the reversal of multipliers and divisors.",
+          "hindi": "ज्ञात से साध्य अन्य राशियाँ प्राप्त होती हैं अथवा गुणक और छेद (भाजक) के विपर्यय (उल्टा) करने से होती हैं।",
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "दोःकोटिवर्गैक्यपदं श्रुतिः स्यात् तत्कोटिवर्गान्तरतः पदं दोः। दोःकर्णवर्गान्तरतश्च कोटिर्द्वाभ्यां तृतीया यदि वा स्युरेवम्॥२८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 28).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 28)।"
+          "english": "The square root of the sum of the squares of the sine and cosine is the hypotenuse; the square root of the difference between the square of the hypotenuse and the square of the cosine is the sine; and that from the difference between the squares of the hypotenuse and sine is the cosine. Thus, if two are given, the third is found.",
+          "hindi": "भुज और कोटि के वर्गों के योग का मूल कर्ण होता है। कर्ण-वर्ग और कोटि-वर्ग के अन्तर का मूल भुज होता है। कर्ण-वर्ग और भुज-वर्ग के अन्तर से कोटि होती है। इस प्रकार दो के ज्ञात होने पर तीसरी मिल जाती है।",
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "त्रिषष्ठिरत्राऽऽनयनप्रभेदास्तावत् स्युरेवं पललम्बमौर्व्योः। अग्रादिकानां शतशः प्रभेदैर्लम्बादयोऽपि स्युरनन्तभेदाः॥२९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 29).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 29)।"
+          "english": "Thus, there are sixty-three methods for finding these from the latitude and co-latitude sines. By hundreds of variations of the agra and others, the latitude and other elements also have infinite variations.",
+          "hindi": "इस प्रकार पल (अक्ष) और लम्ब की ज्याओं से आनयन के त्रेसठ भेद होते हैं। अग्रा आदि के सैकड़ों भेदों से लम्ब आदि के भी अनन्त भेद हो सकते हैं।",
+          "status": "translated"
         },
         {
           "number": 30,
@@ -1501,29 +1489,23 @@
         {
           "number": 31,
           "text": "स सौम्यगोलो भदलं यदाद्यं याम्योऽपरं सायनभागभानोः। क्रान्तेः ककुब् गोलवशेन वेद्या सदाऽक्षलम्बाविह याम्यसौम्यौ॥३१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 31).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 31)।"
+          "english": "That northern hemisphere is the first half, and the southern is the other half, for a sun with signed (ayana) degrees. The direction of the declination is to be known by the hemisphere; here the latitude and co-latitude are always southern and northern.",
+          "hindi": "सायन भाग वाले सूर्य का जो आद्य (प्रथम) भाग है, वह सौम्य गोल है और दूसरा याम्य गोल है। गोल के वश से क्रान्ति की दिशा जाननी चाहिए, यहाँ अक्ष और लम्ब सदा याम्य और सौम्य होते हैं।",
+          "status": "translated"
         },
         {
           "number": 32,
           "text": "पलावलम्बावपमेन संस्कृतौ नतोन्नते ते भवतो दिवादले। लवादिकं वा नयतेर्विशोधितं नतं भवेदुन्नतमुन्नतं नतम्॥३२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 32).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 32)।"
+          "english": "The latitude and co-latitude, adjusted by the declination, become the zenith-distance and altitude at midday. Or, the minutes, etc., subtracted from the radius give the zenith distance, and the zenith distance subtracted from the radius gives the altitude.",
+          "hindi": "पलावलम्ब (अक्ष और लम्ब) अपम (क्रान्ति) से संस्कृत होकर मध्याह्न में नतोन्नत होते हैं। अथवा त्रिज्या में से घटाने पर नत होता है और नत को त्रिज्या में से घटाने पर उन्नत होता है।",
+          "status": "translated"
         },
         {
           "number": 33,
           "text": "त्रिभज्यकोन्मण्डलशङ्कुघाताच्चरज्ययाऽऽप्तं खलु यष्टिसंज्ञम्॥३३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 33).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 33)।"
+          "english": "The product of the radius, the co-prime-vertical gnomon, and the unvritta-sanku, divided by the chara-sine, is indeed called the staff (yashti).",
+          "hindi": "त्रिज्या, कोटिनमण्डलशंकु और चरज्या के घात से तथा चरज्या से आप्त (भाजित) जो होता है, वह निश्चय ही यष्टि संज्ञक है।",
+          "status": "translated"
         },
         {
           "number": 35,
@@ -1535,38 +1517,30 @@
         {
           "number": 36,
           "text": "अन्त्याऽथवोन्मण्डलशङ्कुनिघ्नी चरज्ययाऽऽप्ता स दिनार्धशङ्कुः। हृतिः पलक्षेत्रजकोटिनिघ्नी तत्कर्णभक्ता यदि वा स शङ्कुः॥३६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 36).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 36)।"
+          "english": "Or, the ultimate or unvritta-sanku multiplied by the chara-sine and divided by the radius is the midday gnomon. Or, the divisor multiplied by the co-latitude-field base and divided by its hypotenuse is that gnomon.",
+          "hindi": "अन्त्या अथवा उन्मण्डलशंकु से गुणित और चरज्या से भाजित वह दिनार्धशंकु होता है। अथवा पलक्षेत्र की कोटि से गुणित और अपने कर्ण से भाजित हर (हृति) वह शंकु होता है।",
+          "status": "translated"
         },
         {
           "number": 37,
           "text": "हृतिः पलक्षेत्रभुजेन निघ्नी तत्कर्णभक्ताऽग्रकयोनयुक्ता। गोलक्रमात् स्यादथवाऽत्र दृग्ज्या याम्याऽथ सौम्या विपरीतशुद्धौ॥३७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 37).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 37)।"
+          "english": "The divisor, multiplied by the latitude-field base, divided by its hypotenuse, and combined with the agra, is, according to the hemisphere's order, the drig-jya (zenith-distance sine), or southern and northern by reversed subtraction.",
+          "hindi": "पलक्षेत्र के भुज से गुणित और अपने कर्ण से भाजित तथा अग्रा के साथ संयुक्त हर (हृति), गोल के क्रम से दृग्ज्या होती है अथवा विपरीत शोधन करने पर याम्य और सौम्य होती है।",
+          "status": "translated"
         },
         {
           "number": 38,
           "text": "गोलक्रमात् तद्धृतिहीनयुक्ता हृतिः पलक्षेत्रभुजेन निघ्नी। तत्कर्णभक्ता भवतीह दृग्ज्या प्रद्योतने वा द्युदलं प्रयाते॥३८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 38).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 38)।"
+          "english": "According to the order of the hemisphere, decreased or increased by that divisor, multiplied by the latitude-field base and divided by its hypotenuse, the drig-jya is produced here when the sun is at midday.",
+          "hindi": "गोल के क्रम से उस तद्धृति से हीन या युक्त, पलक्षेत्र के भुज से गुणित और अपने कर्ण से भाजित हर यहाँ दृग्ज्या होती है, जब सूर्य मध्याह्न को प्राप्त होता है।",
+          "status": "translated"
         },
         {
           "number": 39,
           "text": "त्रिज्या नृचापोत्क्रमजीवयोना दृग्ज्या भवेदेवमतो नरो वा। एवं हि दृग्ज्या यदि वाऽखिलानां विदिक्समोद्वृत्तनरादिकानाम्॥३९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 39).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 39)।"
+          "english": "The radius, diminished by the versed-sine of the shadow-arc, indeed becomes the drig-jya, and similarly the gnomon's shadow, etc. Thus indeed is the drig-jya, or of all others such as the direction-equal prime-vertical gnomon, etc.",
+          "hindi": "त्रिज्या नृचाप (च्छायाचाप) की उत्क्रमज्या से ऊनी (हीन) होने पर दृग्ज्या होती है। इसी प्रकार नर (शंकु) भी। इस प्रकार समस्त विदिक्समोद्वृत्तनर आदि की दृग्ज्या होती है।",
+          "status": "translated"
         },
         {
           "number": 40,
@@ -1578,65 +1552,51 @@
         {
           "number": 41,
           "text": "युतायनांशार्कबृहद्भुजज्यया खरामतिथ्यभ्रभुवो १०१५३० हृताः परः। पलश्रुतिघ्नः पलभाविभाजितः परोऽथवोद्वृत्तगते रवौ श्रुतिः॥४१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 41).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 41)।"
+          "english": "With the great-sine of the sun combined with ayana degrees, divided by 101530 (khara-matithy-abhra-bhuvah), the further is multiplied by the latitude-hypotenuse and divided by the latitude-shadow; or when the sun has passed the prime-vertical, the hypotenuse.",
+          "hindi": "सयुतायनांशार्क के बृहद्भुजज्या से १०१५३० द्वारा भाग देने पर पर (उत्कृष्ट), पलश्रुति से गुणित और पलभा से भाजित, अथवा उद्वृत्तगत सूर्य होने पर कर्ण होता है।",
+          "status": "translated"
         },
         {
           "number": 42,
           "text": "उद्वृत्तकर्णश्चरशिञ्जीनीघ्नो भक्तोऽन्त्यया वा श्रवणो दिनार्धे॥४२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 42).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 42)।"
+          "english": "The unvritta-hypotenuse multiplied by the chara-sine and divided by the final (radius) is the hypotenuse at midday.",
+          "hindi": "उद्वृत्तकर्ण चरशिञ्जिनी (चरज्या) से गुणित और अन्त्य (त्रिज्या) से भाजित अथवा दिनार्धकर्ण होता है।",
+          "status": "translated"
         },
         {
           "number": 43,
           "text": "उद्वृत्तकर्णः समवृत्तकर्णः क्षितिज्यया तद्धृतिसंज्ञया च। क्रमेण निघ्नौ विहृतौ च हृत्या दिनार्धकर्णावथवा भवेताम्॥४३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 43).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 43)।"
+          "english": "The unvritta-hypotenuse and the samavritta-hypotenuse, multiplied respectively by the horizon-sine and that known as tadhriti, and divided by the divisor, would be the midday-hypotenuses.",
+          "hindi": "उद्वृत्तकर्ण और समवृत्तकर्ण क्रमशः क्षितिज्या और तद्धृतिसंज्ञा से गुणित तथा हृति से भाजित होकर दिनार्धकर्ण होते हैं।",
+          "status": "translated"
         },
         {
           "number": 44,
           "text": "र्यास्तद्दिग्विवरान्तरान्तरगता याः प्रच्छकेच्छावशात्। ता एकानयनेन चाऽऽनयति यो मन्ये तमन्यं भुवि ज्योतिर्विद्वदनारविन्दमुकुलप्रोद्बोधने भास्करम्॥४४॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 44).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 44)।"
+          "english": "Those which are gone through the intermediate spaces of those directions, according to the questioner's wish—he who brings them about by a single method, him I consider Bhaskara on earth, awakening the lotus-bud-like minds of astronomers.",
+          "hindi": "जो उन दिशाओं के अन्तर-अन्तरगत प्रच्छक की इच्छा के वश से हैं, उनको जो एक ही आनयन से लाता है, मैं भूतल पर उस ज्योतिर्विद् विद्वानों रूपी कमलों को प्रबोधित करने वाले भास्कर को मानता हूँ।",
+          "status": "translated"
         },
         {
           "number": 46,
           "text": "पलप्रभा व्यासदलेन निघ्नी दिग्ज्योद्धृता तां पलमां प्रकल्प्य। साध्याऽक्षजीवाऽथ तथा विनिघ्नी स्वाक्षज्ययाऽऽप्ताऽपमशिञ्जिनी च॥४६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 46).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 46)।"
+          "english": "The shadow of latitude multiplied by half the diameter, divided by the direction-sine, making that the latitude-sine; similarly multiplied by its own latitude-sine and divided by the radius is the declination-sine.",
+          "hindi": "पलप्रभा (अक्षच्छाया) को व्यासदल से गुणा करके दिग्ज्या से भाग दें और उसे पलमा (अक्ष) मानकर साध्य अक्षजीवा है। वैसे ही अपनी अक्षज्या से गुणित और अपनी अक्षज्या से भाजित अपमशिञ्जिनी (क्रान्तिज्या) होती है।",
+          "status": "translated"
         },
         {
           "number": 47,
           "text": "एवं कृते ये पलभागकाः स्युस्तद्धीनखाष्टेन्दुमिताश्च येंऽशाः॥४७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 47).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 47)।"
+          "english": "When this is done, those which are the latitude-degrees, and those which are the degrees measured by 18150 (kha-ashta-indu-mitah) minus that...",
+          "hindi": "ऐसा करने पर जो पलभागक (अक्षभाग) होते हैं, तथा उससे हीन खाष्टेन्दुमित (१८१५०) जो अंश होते हैं...",
+          "status": "translated"
         },
         {
           "number": 48,
           "text": "तांश्वाक्षभागान् प्रविकल्प्य साध्या द्विधेष्टदिग्भा यदि दिग्लवज्या। अल्पाग्रकायाः खलु सौम्यगोले याम्ये तु तस्यां दिशि नास्ति भैव॥४८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 48).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 48)।"
+          "english": "Having thus conceived those latitude-degrees as to be derived, by means of twice the desired direction-degree, if it is the direction-sine of the smaller agra, indeed in the northern hemisphere, but in the southern in that direction, there is no shadow.",
+          "hindi": "उन अक्षभागों को प्रविकल्प्य (कल्पना करके) साध्य दो प्रकार की इष्टदिग्बाहु यदि दिग्भवज्या है। सौम्य गोल में अल्पाग्रकाया की, किन्तु याम्य में उस दिशा में छाया नहीं होती है।",
+          "status": "translated"
         },
         {
           "number": 50,
@@ -1648,38 +1608,30 @@
         {
           "number": 51,
           "text": "स्यादग्रकाया यदि दिग्ज्यकाऽल्पा तदाऽन्यवर्गात्प्रथमेन हीनात्। मूलेन हीनः सहितो द्विधाऽन्यः कर्णद्वयं स्यादिति सौम्यगोले॥५१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 51).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 51)।"
+          "english": "In the northern hemisphere, if the directional sine at the end (of the day/motion) is smaller, then from the square of the other, reduced by the first (square), the square root being subtracted or added in two ways, the other will be the two hypotenuses.",
+          "hindi": "सौम्यगोल में, यदि अग्रकाया (अग्रज्या) दिग्ज्या से छोटी हो, तो अन्य (चरज्या आदि) के वर्ग में से प्रथम (दिग्ज्या) के वर्ग को घटाकर, उसके मूल (वर्गमूल) से हीन (घटा हुआ) तथा सहित (जुड़ा हुआ) दो प्रकार से अन्य कर्ण द्वय (दो कर्ण) होते हैं।",
+          "status": "translated"
         },
         {
           "number": 52,
           "text": "कर्णाग्रया बाहुरिह प्रसाध्यस्त्रिज्याहतोऽसौ प्रभया विभक्तः। भवेत् प्रतीत्यर्थमियं च दिग्ज्या तुल्यैव सा स्याच्छ्रवणद्वयेऽपि॥५२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 52).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 52)।"
+          "english": "Here, the tip-hypotenuse (karnagra) as the base should be derived: multiplied by radius and divided by shadow, this becomes the directional sine for that purpose, and this is indeed equal for both hypotenuses.",
+          "hindi": "यहाँ बाहू के रूप में कर्णाग्र (कर्णाग्रया) को इस प्रकार साधित करना चाहिए: वह त्रिज्या से गुणा होकर प्रभा (च्छाया) से विभक्त हो; प्रतीत्यर्थ (स्पष्टता के लिए) यह दिग्ज्या ही होती है और वह दोनों ही कर्णों में तुल्य (समान) होती है।",
+          "status": "translated"
         },
         {
           "number": 53,
           "text": "उक्ता प्रभाऽभिमतदिङ्नियमेन तावत् तामेव कालनियमेन च वच्मि भूयः। स्यादुन्नतं द्युगतशेषकयोर्यदल्पं तेनोनितं दिनदलं नतसंज्ञकं च॥५३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 53).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 53)।"
+          "english": "The shadow has been stated according to the prescribed direction; now I shall state it again according to the rule of time. Half the day, decreased by whichever is less between the altitude (unnata) and the remaining degrees of the diurnal motion (dyugataseshaka), is termed as nata (hour angle).",
+          "hindi": "अभीष्ट दिशा के नियम से कही गई प्रभा (छाया) को अब काल के नियम से फिर कहता हूँ। द्युगत और शेष इन दोनों में जो कम हो, उससे उरिनत (उन्नत काल) अथवा दिनदल (दिनार्ध) को कम करने पर नतसंज्ञक (नतकाल) होता है।",
+          "status": "translated"
         },
         {
           "number": 54,
           "text": "__________________________________________________ अथोन्नतादूनयुताच्चरेण क्रमादुदग्दक्षिणगोलयोर्ज्या। स्यात् सूत्रमेतद्गुणितं द्युमौर्व्या व्यासार्धभक्तं च कलाभिधानम्॥५४॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 54).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 54)।"
+          "english": "Then, from the altitude increased or decreased by the chara (ascensional difference), sequentially the sine for the northern and southern hemispheres. This cord (sine) multiplied by the day-radius and divided by the radius becomes what is termed as minutes (kalabhidhana).",
+          "hindi": "तदनन्तर उन्नत काल से चरेण (चरज्या से) युत या ऊन (घटित) उत्क्रम से क्रमशः उत्तर और दक्षिण गोल की ज्या होती है। यह सूत्र द्युमौर्वी (दिनत्रिज्या) से गुणित तथा व्यासार्ध (त्रिज्या) से भक्त (भागित) होने पर कलाभिधान (कला रूप) होती है।",
+          "status": "translated"
         },
         {
           "number": 55,
@@ -1691,29 +1643,23 @@
         {
           "number": 57,
           "text": "युतोनितोन्मण्डलशङ्कुनैवमिष्टाख्ययष्टिर्भवतीष्टशङ्कुः॥५७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 57).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 57)।"
+          "english": "Thus, by the prime-vertical (unmanda) shankku, increased or decreased, the desired staff (ishtakhyayashti) becomes the desired shankku (ishtasanku).",
+          "hindi": "इस प्रकार उन्मण्डलशंकु से युत या हीन इष्टसंज्ञक यष्टि ही इष्टशंकु होती है।",
+          "status": "translated"
         },
         {
           "number": 58,
           "text": "नतोत्क्रमज्या शर इत्यनेन हीनाऽन्त्यका वाऽभिमताऽन्त्यका स्यात्। युज्याहतो व्यासदलेन भक्तः कुज्याहतो वा चरशिञ्जिनीहृत्॥५८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 58).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 58)।"
+          "english": "The versed-sine of nata, subtracted from sara, or the ultimate (antya) being the desired ultimate; or multiplied by the equinoctial sine and divided by the radius-length, or multiplied by the earth-sine and divided by the chara-sine.",
+          "hindi": "नतोत्क्रमज्या (नतवर्ष) शर से हीन होने पर अन्त्यका होती है अथवा अभीष्ट अन्त्यका होती है; अथवा युज्या (अक्षज्या) से गुणित और व्यासदल (त्रिज्या) से भक्त, अथवा कुज्या (चरज्या) से गुणित और चरशिञ्जिनी (चरज्या) से हृत् (भागित) होती है।",
+          "status": "translated"
         },
         {
           "number": 59,
           "text": "फलं पलक्षेत्रजकोटिनिघ्नं तत्कर्णभक्तं च तदूर्ध्वसंज्ञम्॥५९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 59).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 59)।"
+          "english": "The result multiplied by the co-latitude (kotis) of the latitude-place and divided by its hypotenuse is termed as its upper part (urdhvasamjna).",
+          "hindi": "पलक्षेत्र की कोटि से गुणित और उसके कर्ण से भक्त (भागित) फल तदूर्ध्वसंज्ञ (ऊर्ध्वसंज्ञावाला) होता है।",
+          "status": "translated"
         },
         {
           "number": 60,
@@ -1725,38 +1671,30 @@
         {
           "number": 61,
           "text": "इष्टान्त्यकायाश्च हृतेश्च यद्वा दिनार्धशङ्कूक्तवदिष्टशङ्कुः। शङ्कोश्च दृग्ज्याश्रवणप्रभाःस्युर्हृतेर्न दृग्ज्या सुधियाऽत्र कार्या॥६१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 61).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 61)।"
+          "english": "Or by the divisor of the desired ultimate-sine, or as stated for the midday shankku, the desired shankku. Of the shankku, the vision-sine, hypotenuse, and shadow are produced; the vision-sine should not be made here by the intelligent one through division.",
+          "hindi": "अथवा इष्टान्त्यकाया और हृत् से, अथवा दिनार्धशंकुवत् इष्टशंकु होता है। शंकु की दृग्ज्या, श्रवण (कर्ण) और प्रभा (छाया) होती हैं; यहाँ सुधी (विद्वान) को दृग्ज्या की हृत् (भाग) क्रिया नहीं करनी चाहिए।",
+          "status": "translated"
         },
         {
           "number": 62,
           "text": "उद्वृत्तकर्णात् क्षितिशिञ्जिनीघ्नात् समाख्यकर्णादपि तद्धृतिघ्नात्। दिनार्धकर्णादथवा हृतिघ्नाद्धृत्येष्टयाऽऽप्तं यदि वेष्टकर्णः॥६२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 62).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 62)।"
+          "english": "From the circle-hypotenuse (udvrittakarna) multiplied by the earth-sine, or from the equinoctial hypotenuse multiplied by that divisor, or from the midday hypotenuse, or multiplied by the divisor and divided by the divisor of the desired (ishtya), if it is the desired hypotenuse.",
+          "hindi": "उद्वृत्तकर्ण से क्षितिशिञ्जिनी (क्षितिज्या/चरज्या) से गुणित, समाख्यकर्ण से उसकी धृति से गुणित, दिनार्धकर्ण से अथवा हृति (भाजक) से गुणित और इष्ट (हृति) से आप्त (लब्ध) होने पर इष्टकर्ण होता है।",
+          "status": "translated"
         },
         {
           "number": 63,
           "text": "यत्र क्वचिच्छुद्धिविधौ यदेह शोध्यं न शुध्येद्विपरीत शुद्ध्या। विधिस्तदा प्रोक्तवदेव किंतु योगे वियोगः सुधिया विधेयः॥६३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 63).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 63)।"
+          "english": "Wherever in any subtraction process, what ought to be subtracted is not subtractable, the rule is the same as stated, but by reverse subtraction, the wise should perform addition instead of subtraction.",
+          "hindi": "जहाँ कहीं शुद्धि (घटाने) की विधि में जो घटाने योग्य है वह न घट सके, वहाँ विपरीत शुद्धि से विधि वैसे ही कही गई है, किंतु बुद्धिमान को योग (जोड़) में वियोग (घटाव) करना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 64,
           "text": "बाणेन्दु १५ नाड्यूननतात्क्रमज्या त्रिज्यान्विता सैव नतोत्क्रमज्या। उद्वृत्तशङ्कुस्तु न याम्यगोले दृश्योऽनुपातार्थमयं प्रसाध्यः॥६४॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 64).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 64)।"
+          "english": "From the nata increased or decreased by 15 (banendu), the versed sine of the nata combined with the radius becomes the versed sine of nata itself. The circle-shankku (udvrittasanku) is not visible in the southern hemisphere; for the sake of proportion, this is to be derived.",
+          "hindi": "बाणेन्दु (१५) नाड़ी से ऊन नत की क्रमज्या (ज्या), त्रिज्या से संयुक्त होने पर वही नतोत्क्रमज्या होती है। उद्वृत्तशंकु याम्यगोल में दृश्य नहीं होता, अतएव अनुपात के लिए इसे साधित करना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 65,
@@ -1768,38 +1706,30 @@
         {
           "number": 66,
           "text": "उद्वृत्तकर्णाच्चरशिञ्जिनीघ्नाद्दिनार्धकर्णादथवाऽन्त्यकाघ्नात्। इष्टेन कर्णेन हृताद्यदाप्तमिष्टान्त्यका सैव पृथक्पृथक्स्यात्॥६६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 66).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 66)।"
+          "english": "From the circle-hypotenuse multiplied by the chara-sine, or from the midday hypotenuse, or multiplied by the ultimate-sine, divided by the desired hypotenuse, whatever quotient is obtained, those very desired ultimate-sines are separate.",
+          "hindi": "उद्वृत्तकर्ण से चरशिञ्जिनी (चरज्या) से गुणित, दिनार्धकर्ण से अथवा अन्त्यका से गुणित, इष्ट कर्ण से हृत् (भागित) होने पर जो आप्त (लब्ध) हो, वे इष्टान्त्यकाएँ पृथक्-पृथक् होती हैं।",
+          "status": "translated"
         },
         {
           "number": 67,
           "text": "पलश्रुतिघ्नस्त्रिगुणस्य वर्गो द्युज्येष्टकर्णाहतिहृद्भवेद्वा। इष्टान्त्यका तद्रहिताऽन्त्यकाया भवन्ति या उत्क्रमचापलिप्ताः॥६७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 67).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 67)।"
+          "english": "Or the square of the radius multiplied by the latitude-sine, divided by the product of the day-radius and the desired hypotenuse. The desired ultimate-sine subtracted from that ultimate-sine yields the arc-minutes of the versed sine.",
+          "hindi": "पलश्रुति (अक्षज्या) से गुणित त्रिज्या का वर्ग, द्युज्येष्टकर्णाहति (दिनत्रिज्या और इष्टकर्ण के गुणनफल) से हृत् (भागित) हो अथवा इष्टान्त्यका उससे रहित (घटित) होने पर अन्त्यका की उत्क्रमचापलिप्ताएँ होती हैं।",
+          "status": "translated"
         },
         {
           "number": 68,
           "text": "त्रिज्याधिकस्य क्रमचापयुक्ताः खखाब्धिबाणा धनुरुत्क्रमात् स्यात्॥६८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 68).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 68)।"
+          "english": "Exceeding the radius, combined with the arc-sine, 545 (khakhabdhibana) - from that, the arc of the versed sine will be.",
+          "hindi": "त्रिज्या से अधिक क्रमचाप से युक्त, खखाब्धिबाण (५४५) उत्क्रम धनुष्प्रकार से होता है।",
+          "status": "translated"
         },
         {
           "number": 69,
           "text": "इष्टान्त्यका सा चरजीवयोना युक्ता च गोलक्रमतः क्रमोत्थाः। तच्चापलिप्ताश्चरयुक्तहीनाः समुन्नतास्ते यदि वाऽसवः स्युः॥६९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 69).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 69)।"
+          "english": "That desired ultimate-sine, minus or plus the chara-sine according to the direction of the hemisphere, becomes the ordinary sines (kramottha). Their arc-minutes, minus or plus the chara, will be the altitude-minutes or the time-degrees (asava).",
+          "hindi": "इष्टान्त्यका वह चरजीवया (चरज्या) से ऊन (हीन) या युक्त गोलक्रम के अनुसार क्रमोत्था (क्रमज्या) होती है। उसके चाप की कलाएँ चर से युक्त या हीन होने पर वे समुन्नत (उन्नत चाप कला) अथवा असव (प्राण/काल) होते हैं।",
+          "status": "translated"
         },
         {
           "number": 70,
@@ -1811,20 +1741,16 @@
         {
           "number": 71,
           "text": "नतांशापमांशान्तरं तुल्यदिक्त्वे युतिर्भिन्नदिक्त्वे पलांशा भवेयुः॥७१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 71).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 71)।"
+          "english": "The difference between the zenith distance and declination, if of the same direction; if of different directions, their sum will be the latitude degrees (palamsa).",
+          "hindi": "नतांशापमांशों (नतांश और अपमांश) का अन्तर तुल्यदिक (समान दिशा) होने पर, और भिन्न दिक् होने पर युति (योग), पलांश (अक्षಾಂಶ) होते हैं।",
+          "status": "translated"
         },
         {
           "number": 74,
           "text": "दृष्ट्वेष्टभां योऽत्र दिगर्कवेदी छायाद्वयं वा प्रविलोक्य दिग्ज्ञः। वेत्त्यक्षभामुद्धतदैववेदी दुर्दर्पसर्पप्रशमे स तार्क्ष्यः॥७४॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 74).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 74)।"
+          "english": "Having observed the desired shadow here, or knowing the sun, or having carefully observed two shadows, the directional expert who knows the shadow of the latitude (akshabha)—he is Garuda (tarkshya) for subduing the proud serpent (of ignorance).",
+          "hindi": "यहाँ इष्ट छाया को देखकर, अथवा अर्क (सूर्य) को जानकर, अथवा दो छायाओं का अवलोकन करके, जो दिग्ज्ञ (दिशाओं को जानने वाला) अक्षभा (शंकुच्छाया) को जानता है, वह दुर्दर्प सर्प (अभिमान रूपी सर्प) के प्रशमन के लिए तार्क्ष्य (गरुड़) के समान है।",
+          "status": "translated"
         },
         {
           "number": 75,
@@ -1836,38 +1762,30 @@
         {
           "number": 76,
           "text": "भाद्वयस्य भुजयोः समाशयोर्व्यस्तकर्णहतयोर्यदन्तरम्। ऐक्यमन्यककुभोः पलप्रभा जायते श्रुतिवियोगभाजितम्॥७६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 76).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 76)।"
+          "english": "The difference of the two shadows' bases when in the same direction, multiplied by their reversed hypotenuses; or their sum when in opposite directions, divided by the difference of the hypotenuses, produces the equinoctial shadow (palaprabha).",
+          "hindi": "समाश्रय (एक ही दिशा) वाले दो छायाओं के भुजों का, व्यस्त कर्णों से गुणित अन्तर; अथवा अन्य ककुभ (विपरीत दिशा) में ऐक्य (योग), श्रुति वियोग से भाजित होने पर पलप्रभा (अक्षप्रभा) होती है।",
+          "status": "translated"
         },
         {
           "number": 77,
           "text": "क्रान्तिज्याकर्णवधात् त्रिज्याप्तकृतिर्लघुः स दोः कृत्या। हीनोऽब्धिमनु १४४घ्नः स्यादाद्योऽथ परो भुजः कृतेन्द्र १४४घ्नः॥७७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 77).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 77)।"
+          "english": "From the product of the declination-sine and hypotenuse, the square divided by the radius is the lesser, subtracted from the square of the base (do-krityai). Decreased by 144 (abdhimanu), the first; and the other base squared and multiplied by 144 (indra).",
+          "hindi": "क्रान्तिज्या और कर्ण के वध (गुणनफल) से त्रिज्या से आप्त (भागित) कृति (वर्ग) लघु दोः कृति (भुज वर्ग) से हीन, अब्धिमनु (१४४) से गुणित आद्य (प्रथम) होता है; तथा पर (द्वितीय) भुज, इन्द्र (१४४) से गुणीकृत वर्ग होता है।",
+          "status": "translated"
         },
         {
           "number": 78,
           "text": "तौ लघुवेदेन्द्रा १४४ न्तरभक्तौ परवर्गतो यदाऽऽद्याढ्यात्। मूलं परयुतवियुतं सौम्ये याम्ये भजे पलभा॥७८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 78).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 78)।"
+          "english": "Those two, divided by the difference of 144 (vedendra), when added to the square of the other, (and taking) the root, added or subtracted (respectively) in northern and southern hemispheres, divided by the equinoctial shadow.",
+          "hindi": "वे दोनों लघु-वेदेन्द्र (१४४) अन्तर से भक्त (भागित), पर वर्ग से जब आद्याढ्य (प्रथम में जुड़े) हों, तब मूल (वर्गमूल), पर से युत या वियुत, सौम्य (उत्तर) और याम्य (दक्षिण) गोल में पलभा से भजे (भाग दिया जाए)।",
+          "status": "translated"
         },
         {
           "number": 79,
           "text": "इदानीं सममण्डलप्रश्नः। दिनकरे करिवैरिदल ४।१५ स्थिते नर १२ समा नरभापरदिङ्मुखी भवति यत्र बटो पुटभेदने कथय तान्त्रिक तत्र पलप्रभाम्॥७९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 79).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 79)।"
+          "english": "Now, the problem of the prime vertical (samamaṇḍala). O Tantrik! Tell me the equinoctial shadow (palaprabhā) where the sun is situated at 4/15 of the elephant-enemy (lion/Leo, or specific parts), and a gnomon of 12 units has its shadow directed towards the cardinal direction at the city of Puṭabhedana (Pāṭaliputra).",
+          "hindi": "अब सममण्डल का प्रश्न है। हे तान्त्रिक! पुटभेदन नगर में बटो (शंकु) जहाँ १२ अंगुल का होने पर नरभा (छाया) दिशाओं की ओर होती है और सूर्य करीवैरिदल (४/१५) पर स्थित होता है, वहाँ की पलप्रभा बतलाओ।",
+          "status": "translated"
         },
         {
           "number": 80,
@@ -1879,29 +1797,23 @@
         {
           "number": 81,
           "text": "न्मन्ये त्वां निशितं सगर्वगणकोन्मत्तेभकुम्भाङ्कुशम्॥८१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 81).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 81)।"
+          "english": "I consider you to be a sharp mathematician, who is like an elephant-goad to the proud, intoxicated elephants of astronomers.",
+          "hindi": "मैं तुम्हें तीक्ष्ण (कुशाग्रबुद्धि) तथा गर्वित गणितरूपी उन्मत्त हाथियों के कुम्भस्थलों के लिए अंकुश के समान मानता हूँ।",
+          "status": "translated"
         },
         {
           "number": 82,
           "text": "या स्याद्रवेरुन्नतकालजीवाऽभीष्टा हृतिः सा प्रथमं प्रकल्प्या। अर्का १२ क्षभावातहताक्षकर्णकृत्योद्धृता स्यादपमज्यकाऽस्याः॥८२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 82).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 82)।"
+          "english": "The sine of the time elapsed from sunrise (unnatakālacīvā) corresponding to the Sun, desired as a divisor, should be set down first. When multiplied by 12 and the equinoctial shadow (akṣabhā), and divided by the square of the hypotenuse of the latitude (akṣakarṇa), it yields the declination-sine (apamajyakā) derived from this.",
+          "hindi": "सूर्य के इष्ट उन्नतकालजीवा को पहले (अभीष्ट) हर मानना चाहिए। उसे १२ और अक्षप्रभा से गुणा करके अक्षकर्ण के वर्ग से भाग देने पर इससे अपमज्यका (क्रान्तिज्या) प्राप्त होती है।",
+          "status": "translated"
         },
         {
           "number": 83,
           "text": "चरादिकेनेष्टहृतिः प्रसाध्या क्षुण्णस्तया क्रान्तिगुणोऽसकृच्च। तदाऽऽद्यहृत्या विहृतः स्फुटः स्यात् सहस्ररश्मौ सममण्डलस्थे॥८३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 83).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 83)।"
+          "english": "The desired divisor should be refined by the chara (ascensional difference) and others. The declination-sine (krāntiguṇa) multiplied by it repeatedly, and divided by the initial divisor, will yield the true [position] when the thousand-rayed (sun) is on the prime vertical.",
+          "hindi": "चरादि से इष्ट हर को संस्कारित करना चाहिए। उससे क्रान्तिगुण को बार-बार गुणा करके, और आदि-हर से भाग देने पर, सहस्ररश्मि (सूर्य) के सममण्डल में स्थित होने पर स्फुट मान प्राप्त होता है।",
+          "status": "translated"
         },
         {
           "number": 85,
@@ -1913,38 +1825,30 @@
         {
           "number": 86,
           "text": "मार्तण्डे सममण्डलं प्रविशति च्छाया किलाष्ट्यङ्गुला दृष्टाऽष्टासु घटीषु कुत्रचिदपि स्थाने कदाचिद्दिने। अर्कक्रान्तिगुणं तदा वदसि चेदक्षप्रभां तत्र च त्रिप्रश्नप्रचुरप्रपञ्चचतुरं मन्ये त्वदन्यं नहि॥८६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 86).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 86)।"
+          "english": "When the sun enters the prime vertical, the shadow is indeed seen to be 8 angulas at 8 ghatikas at some place on some day. If you can then state the sun's declination-sine and the equinoctial shadow there, I consider no one else to be as clever as you in the abundant expanse of the three-problem (tripraśna) chapter.",
+          "hindi": "जब सूर्य सममण्डल में प्रवेश करता है, तब किसी भी स्थान पर किसी भी दिन ८ घटी में छाया ८ अंगुल देखी जाती है। यदि तुम उस समय सूर्य की क्रान्तिज्या और अक्षप्रभा बता देते हो, तो मैं तुम्हारे सिवाय अन्य किसी को त्रिप्रश्न के प्रचुर प्रपञ्च में चतुर नहीं मानता हूँ।",
+          "status": "translated"
         },
         {
           "number": 87,
           "text": "अत्रापि साध्योन्नतकालजीवा पूर्वं तु सैवेष्टहृतिः प्रकल्प्या। ततोऽर्कनिघ्नी समशङ्कुभक्ता पलश्रुतिः स्यात् पलभा ततश्च॥८७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 87).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 87)।"
+          "english": "Here too, the sine of the elapsed time from sunrise is to be found, and that very same [value] should be made the desired divisor. Then, multiplied by the sun and divided by the equinoctial gnomon (samaśaṅku), it becomes the śruti of latitude (palāśruti), and thence the equinoctial shadow (palabhā).",
+          "hindi": "यहाँ भी उन्नतकालजीवा साधनी चाहिए और वही पूर्वोक्त इष्ट हर प्रकल्पित करनी चाहिए। तदनन्तर सूर्य से गुणीत और समशंकु से भक्त होने पर वह पलश्रुति होती है और उससे पलभा (प्राप्त होती है)।",
+          "status": "translated"
         },
         {
           "number": 88,
           "text": "पलप्रभाघ्नः समशङ्करक्षकर्णोद्धृतः स्यादपमज्यकातः। चरादिकेनेष्टहृतिस्ततोऽक्षकर्णोऽसकृत् क्रान्तिगुणश्च तस्मात्॥८८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 88).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 88)।"
+          "english": "Multiplied by the equinoctial shadow, divided by the hypotenuse of the latitude for the equinoctial gnomon, it comes from the declination-sine. Then the desired divisor [is adjusted] by chara and others, and from that [comes] the hypotenuse of latitude repeatedly and the declination-sine.",
+          "hindi": "पलप्रभा से गुणा किया हुआ और समशंकु के अक्षकर्ण से भाजित अपमज्यकातः (क्रान्तिज्या से) होता है। तदनन्तर चरादिक से इष्ट हर, उससे अक्षकर्ण और बार-बार उससे क्रान्तिगुण होता है।",
+          "status": "translated"
         },
         {
           "number": 89,
           "text": "पञ्चाङ्गुला गणक यत्रः पलप्रभा स्यात् तत्रेष्टभा नवमिता दशनाडिकासु। दृष्टा यदा वद तदा तरणिं तवास्ति यद्यत्र कौशलमलं गणिते सगोले॥८९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 89).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 89)।"
+          "english": "O mathematician, where the equinoctial shadow is 5 angulas, there the desired shadow is observed to be 9 angulas at 10 nadikas. Tell me that sun if you have abundant skill in spherical mathematics.",
+          "hindi": "हे गणक! जहाँ पलप्रभा ५ अंगुल है, वहाँ १० नाडिका में इष्टछाया ९ अंगुल देखी जाती है, तब उस समय सूर्य को बताओ यदि गोले सहित गणित में तुम्हारा पूरा कौशल है।",
+          "status": "translated"
         },
         {
           "number": 90,
@@ -1956,38 +1860,30 @@
         {
           "number": 91,
           "text": "द्युज्या भवेत् तत्कृतिवर्जितायास्त्रिज्याकृतेर्मूलमपक्रमज्या। इष्टान्त्यका प्राग्वदतोऽसकृच्च द्युज्याऽपमज्या च ततः खरांशुः॥९१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 91).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 91)।"
+          "english": "The dyujyā (radius of diurnal circle) minus its square subtracted from the square of the radius (trijyā) will be the apakramajyā (declination-sine). The desired antyakā [is obtained] as before, repeatedly the dyujyā and apamajyā, and thence the sun.",
+          "hindi": "द्युज्या अपनी कृति से वर्जित त्रिज्या के वर्ग का मूल अपक्रमज्या (क्रान्तिज्या) होगी। इष्टान्त्यका पूर्ववत् और बार-बार द्युज्या तथा अपमज्या (होगी), और उससे खरांशु (सूर्य) (प्राप्त होता है)।",
+          "status": "translated"
         },
         {
           "number": 92,
           "text": "यत्र क्षितिज्या शरसिद्धतुल्या २४५ स्यात् तद्धृतिस्तत्त्वकुराम संख्या ३१२५। तत्राक्षभार्कौ गणक प्रचक्ष्व चेदक्षणक्षेत्रविचक्षणोऽसि॥९२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 92).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 92)।"
+          "english": "Where the Earth-sine (kujyā) is equal to 245 (śarasiddha-tulyā), its divisor is the number 3125 (tattva-kurāma-saṅkhyā). O mathematician, declare the latitude and the sun there, if you are well-versed in the sphere of coordinates (akṣakṣetra).",
+          "hindi": "जहाँ क्षितिज्या (कुज्या) शरसिद्धतुल्य २४५ है, उसकी धृति (हर) तत्त्वकुराम संख्या ३१२५ (अर्थात् ३१२५) है। हे गणक! वहाँ अक्ष और सूर्य को बताओ यदि तुम अक्षक्षेत्र में विचक्षण हो।",
+          "status": "translated"
         },
         {
           "number": 93,
           "text": "कुज्योनतद्धृतिहृता कृतशक्रनिघ्नी १४४ कुज्यैव यत्फलपद पलभा भवेत् सा। कुज्याहता रविभिरक्षभया विभक्ता क्रान्तिज्यका भवति भानुरतो विलोमम्॥९३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 93).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 93)।"
+          "english": "Divided by the divisor of the Earth-sine and subtracted [or processed], multiplied by 144 (kṛta-śakra-nighnī), the square root of that result is the equinoctial shadow. The Earth-sine multiplied by the sun (radii) and divided by the shadow of latitude yields the declination-sine; hence conversely [the reverse is true].",
+          "hindi": "कुज्योनिता धृतिहृता कृतशक्रनिघ्नी (१४४ से गुणित) जो फल उसका पद (वर्गमूल) होता है, वह पलभा होती है। कुज्या से हता और रविभिः (त्रिज्या से) तथा अक्षभया (अक्षप्रभा से) विभक्ता क्रान्तिज्यका होती है, अतः विलोम (भी होता है)।",
+          "status": "translated"
         },
         {
           "number": 94,
           "text": "क्रान्तिज्यासमशङ्कुतद्धृतियुतिं कुज्योनितां वीक्ष्य यो विंशत्यश्वरसै ६७२० र्मितामथ परां षष्ट्यङ्कचन्द्रैर्मिताम् १९६० कुज्याग्रापमशिञ्जिनीयुतिमिनं वेत्त्यक्षभां चापि तं ज्योतिर्वित्कमलावबोधनविधौ वन्दे परं भास्करम्॥९४॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 94).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 94)।"
+          "english": "Seeing the sum of the declination-sine, the equinoctial gnomon, and their divisor, combined with the Earth-sine, as equal to 6720 (viṁśaty-aśva-rasair mitām) and alternatively as 1960 (parāṁ ṣaṣṭy-aṅka-candρair mitām), or knowing the sum of the gnomon-shadow tip and declination-sine together with the sun, whoever knows the equinoctial shadow is a true astronomer—to such a supreme Bhāskara, in order to awaken the lotuses of astronomers, I offer my salutations.",
+          "hindi": "क्रान्तिज्या, समशंकु और उनकी धृति की युति को कुज्योनिता (कुज्यारहित) देखकर जो ६७२० मित (विंशत्यश्वरसैः) तथा परा षष्ट्यंकचंद्रैर्मिता (१९६०) तथा कुज्याग्र-अपमशिञ्जिनी-युति-मिनं (कुज्या, अग्रज्या, अपमशिञ्जिनी की युति से युक्त) सूर्य और अक्षभा को जानता है, वह ज्योतिर्विद् है। कमलों के प्रबोधन के लिए पर भास्कर को नमस्कार करता हूँ।",
+          "status": "translated"
         },
         {
           "number": 95,
@@ -1999,11 +1895,9 @@
         {
           "number": 96,
           "text": "क्रान्तिज्यासमशङ्कुतद्धृतियुतिं कुज्योनितां वीक्ष्य यः पूर्णाब्ध्यन्धिमहोर्मिता १४४० मथ परांखाभ्राष्टभूसंमिताम् १८००। अग्राज्यासमशङ्कुतद्धृतियुतिं वेत्त्यक्षभार्कौ च तं ज्योतिर्वित्कमलावबोधनविधौ वन्दे परं भास्करम्॥९६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 96).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 96)।"
+          "english": "Seeing the sum of the declination-sine, the equinoctial gnomon, and their divisor, reduced by the Earth-sine, as equal to 1440 (pūrṇābhy-andhi-mahormitām) and alternatively as 1800 (parāṅkh-ābhraṣṭa-bhū-saṁmitām), or knowing the sum of the shadow-tip sine, equinoctial gnomon, and divisor, together with the equinoctial shadow and the sun, whoever knows this is an astronomer—to such a supreme Bhāskara, in order to awaken the lotuses of astronomers, I offer my salutations.",
+          "hindi": "क्रान्तिज्या, समशंकु और उनकी धृति की युति को कुज्योनिता (कुज्यरहित) देखकर, जो १४४० (पूर्णाब्ध्यन्धिमहोर्मिताम्) तथा परा १८०० (खाभ्राष्टभूसंमिताम्) तथा अग्रज्या, समशंकु और उनकी धृति की युति, अक्षभार्क (अक्षप्रभा और सूर्य) को जानता है, उस ज्योतिर्विद् कमलावबोधनविधौ पर भास्कर को मैं प्रणाम करता हूँ।",
+          "status": "translated"
         },
         {
           "number": 98,
@@ -2022,86 +1916,68 @@
         {
           "number": 100,
           "text": "द्युज्यकापमगुणार्कदोर्ण्यकासंयुतिं खखखबाण ५००० संमिताम्। वीक्ष्य भास्करमवेहि मध्यमं मध्यमाहरणमस्ति चेच्छ्रुतम्॥१००॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 100).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 100)।"
+          "english": "Knowing the sum of the dyujyā, the declination-sine, and the sun's arm-sine (dorjyā) to be equal to 5000 (kha-kha-kha-bāṇa-saṁmitām), understand the sun to be mean, if you have heard of mean operations (madhyamāharaṇa).",
+          "hindi": "द्युज्या, अपमगुण (क्रान्तिज्या) और अर्कदोर्गुण (सूर्य की भुज्या) की युति को ५००० (खखखबाण) संमित देखकर, सूर्य को मध्यम जानो यदि तुमने मध्यमाहरण का अध्ययन किया है।",
+          "status": "translated"
         },
         {
           "number": 101,
           "text": "द्युज्यापक्रमभानुदोर्गुणयुतिस्तिथ्युं १५ द्धृताब्ध्या ४ हता स्यादाद्यो युतिवर्गतो यम २ गुणात् सप्तामरा ३३७ प्तोनिताः। नागाद्र्यङ्गदिगङ्ककाः ९१०६७८ पद्मतस्तेनाद्य ऊनो भवेद् व्यासार्धेऽष्टगुणाब्धिपावक ३४३८ मिते क्रान्तिज्यकातो रविः॥१०१॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 101).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 101)।"
+          "english": "The sum of the dyujyā, the declination-sine, and the sun's arm-sine, divided by 15 (tithyum) and multiplied by 4 (abdhyā), is the first [term]. The square of this sum, multiplied by 2 and subtracted from 337 (saptāmarāptōnitāḥ), [yielding] 910678 (nāgād-ry-aṅga-dig-aṅkakāḥ), from that lotus-born [expression] the first should be subtracted, to yield the sun from the declination-sine, measured by 3438 (vyāsārdh-āṣṭa-guṇ-abdhi-pāvaka-mitē).",
+          "hindi": "द्युज्या, अपक्रम और भानुदोर्गुण की युति १५ से हृत और ४ से गुणीत पहली युति हो। उस युति के वर्ग से २ गुना और ३३७ से ऊन (सप्तामराप्तोनितैः), नाग-अद्रि-अङ्ग-दिग्-अङ्ककैः (९१०६७८), उस पद्मतः (पद्म तुल्य राशि से) आद्य ऊन हो, व्यासार्ध से ८ गुणे अब्धिपावक (३४३८) मित क्रान्तिज्यका से रवि हो।",
+          "status": "translated"
         },
         {
           "number": 102,
           "text": "क्षेत्रक्षोदविधौ विचक्षण समाचक्ष्वाविलक्षोऽसि चेत्॥१०२॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 102).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 102)।"
+          "english": "In the process of examining the figure (kṣetra-kṣoda), explain with skill, if you are not confounded.",
+          "hindi": "क्षेत्रक्षोद विधि में विचक्षण हो तो भली-भांति समझाओ, यदि तुम अलक्ष (अमूढ़/चतुर) हो।",
+          "status": "translated"
         },
         {
           "number": 103,
           "text": "क्रान्तिज्यां विषुवत्प्रभारविहतेस्तुल्यां प्रकल्प्यापराः कृत्वाऽग्रासमशङ्कुतद्धृतिमहीजीवा अभीष्टास्ततः। द्व्याद्यास्तद्युतिभाजिताः पृथगथ प्रोद्दिष्टयुत्या हता उद्दिष्टा खलु यद्युतिः पृथगिमा व्यक्ता भवन्ति क्रमात्॥१०३॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 103).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 103)।"
+          "english": "Having set the declination-sine equal to the product of the equinoctial shadow and the sun divided by..., and having made others like the shadow-tip, equinoctial gnomon, their divisor, and the Earth-sine as desired; then, divided separately by their sum, and multiplied by the prescribed sum, these desired quantities become manifest in order.",
+          "hindi": "क्रान्तिज्या को विषुवत्प्रभा और रवि के गुणनफल से हृत के तुल्य मानकर, अन्य अग्र, समशंकु, तद्धृति और महीजीवा को इष्ट बनाकर, द्व्यादि उनकी युति से भाजित और पृथक् प्रोद्दिष्ट युति से गुणीत होकर वे इष्ट राशियाँ क्रमशः स्पष्ट होती हैं।",
+          "status": "translated"
         },
         {
           "number": 105,
           "text": "विधाय बिन्दुं समभूमिभागे ज्ञात्वा दिशः कोटिरतः प्रदेया। प्रत्यङ्मुखी पूर्वकपालसंस्थे पूर्वामुखी पश्चिमगे ग्रहे सा॥१०५॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 105).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 105)।"
+          "english": "Having established a point on level ground and determined the directions, the ordinate (koṭi) should be laid out from it. It is directed towards the south if the planet is in the eastern hemisphere, and towards the north if the planet is in the western hemisphere.",
+          "hindi": "समभूमि भाग में बिन्दु स्थापित करके और दिशाओं को जानकर, वहाँ से कोटि देनी चाहिए। ग्रह के पूर्व कपाल (गोलार्ध) में होने पर वह प्रत्यङ्मुखी (दक्षिणमुखी) और पश्चिम गत होने पर पूर्वामुखी (उत्तरमुखी) होती है।",
+          "status": "translated"
         },
         {
           "number": 106,
           "text": "कोट्यग्रतो दोरपि याम्यसौम्यो बिन्दोश्च भा भाग्रभुजाग्रयोगात्। सूत्रं च बिन्दुस्थनराग्रसक्तं प्रसार्य कर्णाकृतिसूत्रगत्या॥१०६॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 106).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 106)।"
+          "english": "From the tip of the ordinate, the arm (bhuja) also [extends] towards the south or north. From the point, by the union of the shadow-tip and the arm-tip, a string should be extended touching the tip of the gnomon-bearer (man) at the point, following the path of the hypotenuse-forming string.",
+          "hindi": "कोट्यग्र से भुजा भी दक्षिण या उत्तर में (होती है)। बिन्दु से छायाग्र और भुजाग्र के योग से, सूत्र को बिन्दुस्थित नर के अग्रभाग से सक्त करके कर्णरूप सूत्र की गति से फैलाना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 107,
           "text": "दृगुच्चमूलं नलकं निवेश्य वंशद्वयाधारमथास्य रन्ध्रे। विलोकयेत् खे खचरं किलैवं जले विलोमं तदपि प्रवक्ष्ये॥१०७॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 107).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 107)।"
+          "english": "Having placed a tube at the root of the viewing height (dṛgucca-mūla) supported by a pair of rods, one should observe the moving celestial body in the sky through its aperture. Indeed, I will also describe the reverse of this for water.",
+          "hindi": "दृगुच्च मूल में दो वंशों (डंडियों) के आधार से नलक (नली) को निवेशित करके, उसके छिद्र से आकाश में खचर (ग्रह) को देखना चाहिए। जल में (प्रतिबिम्ब देखने की) इसकी उल्टी विधि भी मैं कहूँगा।",
+          "status": "translated"
         },
         {
           "number": 108,
           "text": "निवेश्य शङ्कुं भुजभाग्रयोगे बिन्दोर्नरायानुगते च सूत्रे। तथैव धार्या नलिका विलोक्यो बिन्दुस्थतोये सुषिरेण खेटः॥१०८॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 108).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 108)।"
+          "english": "Having placed the gnomon at the junction of the base and the hypotenuse, and the thread being made to pass through the point towards the man (observer), in the same manner the tube should be held, and the planet should be observed through its perforation by means of the water situated at the point.",
+          "hindi": "आधार और कर्ण के योग पर शङ्कु को स्थापित करके और सूत्र को मनुष्य (प्रेक्षक) की ओर जाने वाले बिन्दु से गुजारकर, उसी प्रकार नलिका को धारण करना चाहिए तथा बिन्दु पर स्थित जल के द्वारा उसके छिद्र से खेट (ग्रह) का दर्शन करना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 109,
           "text": "दर्शयेद्दिविचरं दिवि के वोऽनेहसि द्युचरदर्शनयोग्ये। पूर्वमेव विरचय्य यथोक्तं रञ्जनाय सुजनस्य नृपस्य॥१०९॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Spherical astronomy and diurnal shadow calculation rule (Triprashna Shloka 109).",
-          "hindi_draft": "त्रिप्रश्न (दिशा, देश, काल तथा छाया-साधन) का गणितीय नियम (श्लोक 109)।"
+          "english": "Show the planet in the sky, O celestial observer, at that time which is fit for the observation of celestial bodies, having first prepared everything as stated above, for the gratification of the virtuous people and the king.",
+          "hindi": "हे द्युचरज्ञ (खगोलवेत्ता)! ऊपर कहे गए विधान को पहले ही भली-भाँति रचकर, सज्जन पुरुषों और राजा की प्रसन्नता के लिए, आकाश में ग्रहों के दर्शन योग्य समय में आकाशचर (ग्रह) को दिखलाओ।",
+          "status": "translated"
         }
       ]
     }
   ],
-  "status": "partial"
+  "status": "translated"
 }

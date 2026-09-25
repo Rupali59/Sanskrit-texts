@@ -1054,11 +1054,9 @@
         {
           "number": 18,
           "text": "अर्द्धेनालिख्यरविं दत्वानवतिंयथादिशंमध्यात् अवनत्यांतश्चंद्रं विलिखेद्ग्रासार्थमर्द्धेन",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 8 Shloka 18: Astronomical doctrine calculation according to Siddhanta Jyotisha.",
-          "hindi_draft": "अध्याय 8 श्लोक 18: सिद्धान्त ज्योतिष के अनुसार खगोलीय परिगणन।"
+          "english": "Drawing the sun with half [its diameter] and placing ninety in every direction from the center, one should draw the moon inside by the amount of zenith distance (avanati) using half for the sake of the eclipse-grasa.",
+          "hindi": "सूर्य को उसके आधे व्यास से लिखकर तथा केंद्र से चारों दिशाओं में नब्बे को रखकर, अवनति के परिमाण से चंद्रमा को भीतर आधे व्यास से ग्रहण के ग्रास के लिए लिखे।",
+          "status": "translated"
         }
       ]
     },
@@ -1660,29 +1658,23 @@
         {
           "number": 40,
           "text": "नेम्यांस्यान्महदेवं स्थितानिराश्यंतराण्यूर्धं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 13 Shloka 40: Astronomical doctrine calculation according to Siddhanta Jyotisha.",
-          "hindi_draft": "अध्याय 13 श्लोक 40: सिद्धान्त ज्योतिष के अनुसार खगोलीय परिगणन।"
+          "english": "Thus indeed upon the circumference, the respective zodiacal signs are situated upwards.",
+          "hindi": "इस प्रकार निश्चय ही परिधि पर राशियाँ ऊपर की ओर स्थित हैं।",
+          "status": "translated"
         },
         {
           "number": 41,
           "text": "पर्येतिशशीशीघ्रं स्वल्पंनक्षत्रमंडलमधःस्थः। ऊर्धस्थस्रुलजवो विचरतिनमहदर्कसुतः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 13 Shloka 41: Astronomical doctrine calculation according to Siddhanta Jyotisha.",
-          "hindi_draft": "अध्याय 13 श्लोक 41: सिद्धान्त ज्योतिष के अनुसार खगोलीय परिगणन।"
+          "english": "The swift moon revolves possessing a very small sphere of asterisms while positioned below; the one positioned above, being slow, moves not through a large [orbit], [like] the son of the sun (Saturn).",
+          "hindi": "शीघ्रगामी चंद्रमा नीचे स्थित होकर बहुत छोटे नक्षत्र-मंडल में परिभ्रमण करता है; ऊपर स्थित (शनि) मंद होने के कारण बड़े मार्ग से विचरित नहीं होता, जैसे सूर्यपुत्र (शनि)।",
+          "status": "translated"
         },
         {
           "number": 42,
           "text": "मासाधिपोयथोर्धां चंद्रात्सौरादधश्चहोरेशाः। ऊर्धंक्रमेणदिनपा चपंचमास्याः वर्षपाः स्पष्टाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 13 Shloka 42: Astronomical doctrine calculation according to Siddhanta Jyotisha.",
-          "hindi_draft": "अध्याय 13 श्लोक 42: सिद्धान्त ज्योतिष के अनुसार खगोलीय परिगणन।"
+          "english": "The lord of the month [is] above [the lord of the year]; from the moon, lower than the solar [lords], are the lords of the hours. Above them in order are the lords of the days, and the lords of the fifth (months), and the lords of the years explicitly.",
+          "hindi": "मासाधिप ऊपर होता है; चंद्रमा से सूर्य संबंधी (होरापतियों) से नीचे होरापति होते हैं। उनसे ऊपर क्रम से दिन के स्वामी, पाँचवें (मासों के स्वामी), और वर्ष के स्वामी स्पष्ट रूप से होते हैं।",
+          "status": "translated"
         }
       ]
     },
@@ -2168,11 +2160,9 @@
         {
           "number": 29,
           "text": "अविचार्यैवं प्रायो दिनवारौजनपदः प्रवृत्तोयं। स्फुटतिथिविछेदसमं युक्तमिदंप्राहुराचार्याः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 15 Shloka 29: Astronomical doctrine calculation according to Siddhanta Jyotisha.",
-          "hindi_draft": "अध्याय 15 श्लोक 29: सिद्धान्त ज्योतिष के अनुसार खगोलीय परिगणन।"
+          "english": "Without properly considering this, the populace generally proceeds with the solar day and lunar day. The acharyas declare that this [practice] is appropriate when coinciding with the exact tithi-break.",
+          "hindi": "इसे अच्छी प्रकार विचारे बिना प्रायः साधारण जनता वार और तिथि का व्यवहार करती है। आचार्यों ने कहा है कि यह (व्यवहार) स्फुट तिथि के क्षय के साथ युक्त होने पर ही उचित होता है।",
+          "status": "translated"
         }
       ]
     },
@@ -2440,92 +2430,72 @@
         {
           "number": 11,
           "text": "नवसार्धाः कन्यांशाः प्रथमेखराडेद्वितीयखण्डेस्फुः। चक्रार्धंवगुणाशा- दशंशकला देवपूज्यस्य",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 11: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 11.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 11: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "The first Khanda of Kanya is nine and a half degrees; in the second Khanda they are distinct. Half the circle, nine, three degrees, ten, minutes [of a circle] of the god-worshipped (Jupiter).",
+          "hindi": "कन्या राशि के प्रथम खंड साढ़े नौ अंश हैं; दूसरे खंड में वे स्पष्ट हैं। आधे चक्र में नौ, तीन अंश, दस, देवताओं द्वारा पूजित (बृहस्पति) के कला रूप में हैं।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "दिनषष्ट्यंशाद्वादश- खकृतैर्वेदाः कृताश्विभिर्द्वौ च सप्ताष्टकेनवक्री षड्वर्गाः षष्टितः षड्च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 12: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 12.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 12: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "From the sixtieth part of a day: twelve, [fourteen], four, twenty, two, and with seven, eight, nine, six squares from sixty, and six.",
+          "hindi": "दिन के साठवें भाग से: बारह, चौदह, चार, बीस, दो, तथा सात, आठ, नौ, साठ से छह वर्ग, और छह।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "स्थित्वासैकं मासं स्फुटोदयाष्टात्तरं मासं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 13: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 13.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 13: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "Remaining for one month, the accurate rising [plus] one hundred and eight for [another] month.",
+          "hindi": "एक मास स्थित रहकर, स्फुट उदय (और) एक मास के लिए एक सौ आठ।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "बृहस्पतिः। अध्यर्धशतंशत्र्यं- शमपनयेत्सूर्यजस्यदिवसेभ्यः। वसुमुनिगुणोधृतेभ्यः स्थितं दिनाद्यास्तमभ्युदयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 14: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 14.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 14: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "Jupiter: Subtract one hundred and fifty and one-third from the days of the son of the sun (Saturn), [divided by] eight, eight, and three multiplied by nine (938), from which the days from the origin are obtained at its rising.",
+          "hindi": "बृहस्पति: सूर्यपुत्र (शनि) के दिनों में से डेढ़ सौ और एक तिहाई घटाकर, आठ, आठ और तीन से गुणी नौ (938) द्वारा, धृत (भागित) किए गए दिनों से उसके उदय से दिन आदि प्राप्त होते हैं।",
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "जह्याद्युदयदशांशं द्युभ्यो नवसंगुणाद्भजेदुदयात्। षड्विषययमैः शेषं पदैर्युतंतन्तवाशीत्या",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 15: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 15.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 15: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "One should deduct the tenth part of the rising from the days, divide by nine multiplied [by the rising?], with six, five, six, two, the remainder combined with the steps up to eighty.",
+          "hindi": "दिनों में से उदय के दशांश को घटाए, नौ से गुणे हुए उदय से भजे, छह, पाँच, छह, दो से, अस्सी तक के पदों से युक्त शेष।",
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "षड्रूपवेदपक्षाद्- वृद्धिस्त्रिंशत्पदानिसौरस्य। नवरूपविषययमला- ह्रासः स्वरभास्करपदाख्यः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 16: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 16.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 16: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "From six, one, four, four [six, rupa, veda, paksha] is the increase of thirty steps of the sun. The decrease of nine, one, five, two [navarupa-vishaya-yamala] is named the pada of Svarbhānu (Rahu).",
+          "hindi": "षड्रूपवेदपक्ष (६१४४) से सूर्य के तीस पदों की वृद्धि होती है। नवरूपविषययमल (९१५२) से स्वरभानु (राहु) के पद की ह्रास (घटती) कही गई है।",
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "प्रचयः स्वराग्निखयमा- नवनवतस्त्रिघनभागलिप्तानां। क्षयवृद्धिद्विगुणयदै रेकगुणघ्नः शनैरूदयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 17: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 17.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 17: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "The increment of minutes of the three cubes, zero, zero, nine, nine, seven, seven, of Svara, Agni, Kha, Yama (7237?)... with increase or decrease by double or single multiplication, the rising of Saturn [is calculated].",
+          "hindi": "स्वर, अग्नि, ख, यम, नौ, नौ, सात, सात (आदि के अनुसार) त्रिघन भाग कलाओं का प्रचय (वृद्धिक्रम)... द्विगुण या एकगुण से घटते-बढ़ते शनि का उदय होता है।ṣ",
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "षोडशवृषभस्यांशा- नवलिप्तावर्जिताः प्रथमखंडाः। विषयास्त्रिघनस्त्रिंश- चतुर्युता मध्यमेखंडे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 18: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 18.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 18: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "Sixteen degrees of Taurus, augmented by nine minutes, are the first portion; subjects are three, three cubes, thirty, added to four in the middle portion.",
+          "hindi": "वृषभ राशि के सोलह अंश और नौ कलाओं से युक्त प्रथम खंड है; मध्यम खंड में विषय तीन, तीन घन (सत्ताईस), तीस और चार से युक्त हैं।",
+          "status": "translated"
         },
         {
           "number": 19,
           "text": "षट्ह्रतास्त्रीणांशा- न्मनुभिर्लिप्ताश्चतुर्गुणाः सप्त। षोडशभिश्चाशीति कृतोनषष्ट्याद्विगुणपक्षात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 19: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 19.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 19: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "Divided by six, three degrees, and by fourteen minutes, multiplied by four, seven; eighty by sixteen, from twice the fortnight diminished by sixty decreased by four.",
+          "hindi": "छह से विभाजित तीन अंश, चौदह कलाओं से तथा चार और सात से गुणित; सोलह द्वारा अस्सी, चतुर्दश पक्ष (द्विगुण पक्ष) से साठ कम और चार कम।",
+          "status": "translated"
         },
         {
           "number": 20,
           "text": "वक्रीविभूतषष्ट्या त्रिनंशान्षष्टितः कृतात्सौरः। अनुगोर्कशतैर्नाष्टौ- षट्कृत्याचास्तगेदहनं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 20: Detailed planetary parameters according to Paulisha, Romaka, and Saura Siddhantas. Calculation of mean motion, daily arc, and Sighra anomaly for planet 20.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 20: पौलिश, रोमक तथा सौर सिद्धान्तों के अनुसार ताराग्रहों के विस्तृत मान। ग्रह की मध्यम गति, दैनिक चाप तथा शीघ्र केन्द्र का साधन।"
+          "english": "Retrograde born of sixty, three parts from sixty made the solar; follower by hundreds of suns by eight, six made by fire at the setting.",
+          "hindi": "साठ से उत्पन्न वक्र गति, साठ में से तीन भाग सौर; सूर्य के सैकड़ों द्वारा आठ और छह, अस्त होने पर अग्नि द्वारा निर्मित।",
+          "status": "translated"
         },
         {
           "number": 21,
@@ -2537,29 +2507,23 @@
         {
           "number": 22,
           "text": "उदयगुणिताविनाड्यः स्वरतिथयोब्धान्वितादिनक्षेपः। धृतिगुणितास्त्र्याम्रीदुभि- रुदयान्ह्रत्वास्थितोतोस्माः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 22: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 22.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 22: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Multiplied by rise, the vinadis, seven and tithi (15) and oceans (4) added, the initial displacement; multiplied by dhriti (18) by three, mango and moon, having subtracted from the rise, thus is the situation from this.",
+          "hindi": "ोदय से गुणित विनाड़ी, सात, तिथि (१५) और समुद्र (४) से युक्त आदि निक्षेप; धृति (१८) से, तीन से, आम और चंद्रमा से गुणित, उदय से घटाकर यहाँ स्थिति होती है।",
+          "status": "translated"
         },
         {
           "number": 23,
           "text": "पंचाशीति कृत्वा प्रतिराश्य मध्यमः क्रमश। राशिप्रमाणतोस स्फुटताचारक्रमंकुर्यात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 23: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 23.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 23: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Having made eighty-five for each sign, the mean respectively; according to the measure of the sign, one should perform the procedure for true motion.",
+          "hindi": "प्रत्येक राशि के लिए पचासी करके क्रमशः मध्यम; राशि के प्रमाण के अनुसार स्फुट गति का आचार (प्रक्रिया) करनी चाहिए।",
+          "status": "translated"
         },
         {
           "number": 24,
           "text": "स्फुटमध्यमविक्षेपां शन्क्षिपेन्मध्यमेद्युभ्यः। मध्यमहानौजह्या- द्गतितोथाचारामभिधास्ये",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 24: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 24.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 24: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "One should add the true and mean latitudes and degrees to the mean days; from the mean loss one should subtract, then I will describe the procedure of motion.",
+          "hindi": "स्फुट और मध्यम विक्षेप तथा अंशों को मध्यम दिनों में जोड़ना चाहिए; मध्यम हानि से घटाना चाहिए, इसके बाद गति के आचार का वर्णन करूँगा।",
+          "status": "translated"
         },
         {
           "number": 25,
@@ -2571,38 +2535,30 @@
         {
           "number": 26,
           "text": "समतीत्यदशत्रियुता निरंशतोविंशतिंव्यतीत्यकुजः। उदयमुपयातिवक्ष्ये गतिचारदिनाक्रमंचातः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 26: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 26.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 26: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Having passed ten and three (thirteen), having passed twenty without fraction, Mars attains rising; I will describe the order of motion and days of motion hence.",
+          "hindi": "दस और तीन (तेरह) को पार कर, अंशरहित बीस को पार कर मंगल उदय को प्राप्त होता है; अतः इसके बाद गति और चार (संचार) के दिनों का क्रम कहूँगा।",
+          "status": "translated"
         },
         {
           "number": 27,
           "text": "चत्वारिंशशिनम- ध्यष्टयमान्विताविपक्षाच। प्रथममतौकुर्यादिव- सामीनाद्राशिद्वयसमानाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 27: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 27.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 27: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Forty, moon, middle, eight, Yama, accompanied by opposition; first of all one should make from the elapsed days, equal to two signs.",
+          "hindi": "चालीस, चंद्रमा, मध्य, आठ, यम, विपक्ष से युक्त; सर्वप्रथम गत दिवसों से दो राशि के समान बनाना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "सहितास्वरैकपक्ष- र्तुचंद्रशीतांशुभिः क्रमशः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 28: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 28.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 28: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Respectively with the fortnights, single digits, sides, seasons, moon, and cold-rayed moon (representing numbers).",
+          "hindi": "क्रमशः पक्षों, एक अंकों, दिशाओं, ऋतुओं, चन्द्रमा और शीतल किरणों वाले चन्द्रमा (के अंकों) के साथ।",
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "ड्यषवृश्चिकाजवापे- षुवक्रेषु षड्सप्तकेनववभागं। विकृतेनदिनगतिवक्री- दिनषष्ट्याषोडशानुगतिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 29: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 29.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 29: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "In the signs Taurus, Scorpio, and Aries, during retrogradations, the parts are six, seven, nine, and nine. With modified daily motion, sixty days for retrograde, and sixteen for the subsequent motion.",
+          "hindi": "वृषभ, वृश्चिक और मेष राशियों में वक्रत्व के समय भाग क्रमशः छः, सात, नौ और नौ हैं। विकृत दिन गति के साथ वक्र गति के लिए साठ दिन और अनुगति के लिए सोलह दिन हैं।",
+          "status": "translated"
         },
         {
           "number": 30,
@@ -2614,38 +2570,30 @@
         {
           "number": 31,
           "text": "कर्कटसिंहयोर्वे- दसागरैः सप्तसप्तखार्णवैश्चदिवसान्। षट्षाष्ट्यदश च क्रामाकुजोवक्रपूर्वासु",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 31: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 31.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 31: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "In Cancer and Leo, the days are 44, 49, 107, and 106 respectively; Mars is retrograde in the eastern directions.",
+          "hindi": "कर्क और सिंह राशि में दिन क्रमशः ४४, ४९, १०७ और १०६ हैं; मंगल पूर्व दिशाओं में वक्र होता है।",
+          "status": "translated"
         },
         {
           "number": 32,
           "text": "घटमृगयोर्यमदहनैः षड्भागानववद्गताशनैरेवव मुनिविषयैः पंचदशां शकांश्चतद्वत्रयेप्यारः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 32: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 32.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 32: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "In Aquarius and Capricorn, (the days are) 14, 6, 11, and 7; the degrees are 15, and similarly three for Mars.",
+          "hindi": "कुंभ और मकर राशियों में (दिन) १४, ६, ११ और ७ हैं; अंश १५ हैं, और इसी प्रकार मंगल के लिए तीन हैं।",
+          "status": "translated"
         },
         {
           "number": 33,
           "text": "वक्रेदिनत्रिभागै- र्नवांशयुततुल्यजिनैर्भुक्तैः। अतिवक्ते विपरीतं वक्रमनुवक्रगस्त्र्यंशं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 33: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 33.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 33: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "In retrogradation, with a third of a day, and traversed by the equal of Jina (24) joined with Navamsa (9), the very retrograde is the reverse, and the अनुवक्र (anuvakra) has one-third.",
+          "hindi": "वक्र काल में, दिन के एक तिहाई भाग से, जिन (२४) तथा नवांश (९) से युक्त होकर चले जाने पर, अतिवक्र इसके विपरीत होता है, और अनुवक्र में एक तिहाई होता है।",
+          "status": "translated"
         },
         {
           "number": 34,
           "text": "एकेंद्रियवसुशिवमनु- भवत्रिवर्गंपक्षशंयुक्तं शीघ्रगतौपंचाष्टक- मूनंवशशांककृतवेदैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 34: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 34.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 34: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "One, one, senses, eight, Siva (11), Manu (14), experience (5), three, class (12), fortnight-wise joined; in fast motion, diminished by fifty-eight, from the moon-created Vedas (412).",
+          "hindi": "एक, एक, इंद्रिय, आठ, शिव (११), मनु (१४), अनुभव (५), तीन, वर्ग (१२) पक्षों के अनुसार जुड़े हुए; शीघ्र गति में, चन्द्रमा निर्मित वेदों (४१२) से अठारह (अट्ठारह/पचपन) कम।",
+          "status": "translated"
         },
         {
           "number": 35,
@@ -2657,38 +2605,30 @@
         {
           "number": 36,
           "text": "दद्यासप्तचतुष्कान् द्युगणेत्र्यंशश्चवसुगुणोभागः। मुनि [यम]नचकैरपिरो- चितस्यमेद्यादिनाष्टांशाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 36: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 36.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 36: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Give seven and fours to the dyugana, a third part and an eight part of a share. With the numbers of Muni (7), Yama (2), Manu (14), and Akka (11), approved for me, the eight parts of the earth-beginning.",
+          "hindi": "द्युगण में सात और चार को दें, अंश का एक तिहाई और आठवां भाग। मुनि (७), यम (२), मनु (१४) और अर्क (११) की संख्याओं से, मेरे द्वारा अनुमोदित, पृथ्वी-आदि के आठ भाग।",
+          "status": "translated"
         },
         {
           "number": 37,
           "text": "कृत्वाचतुर्भिरुदयान्नाड्यः शोध्यादुधस्यदिवसेभ्यः। त्रिदशयमघ्नानुदयात्रा मार्णववर्जितांछिद्यात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 37: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 37.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 37: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Having made the risings into nadis by four, it should be subtracted from the days of Mercury. The risings multiplied by thirty, yama (2), and diminished by the ocean (4), one should divide.",
+          "hindi": "उदय को चार से नाड़ियाँ बनाकर बुध के दिनों से घटाना चाहिए। उदय को तीस और यम (२) से गुणा करके तथा सागर (४) से कम करके भाग देना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 38,
           "text": "नववसुयममध्यमधोः साक्रमांनुदशैश्व- पंचयुतैस्त्रिंशद्भि स्त्रिंशद्भक्त स्फुटानंशान्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 38: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 38.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 38: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "Nine, eight, yama (2), middle, from the sun, thus sequentially with ten and five added, by thirty and thirty divided, the accurate minutes.",
+          "hindi": "नौ, आठ, यम (२), मध्य, सूर्य से, इस प्रकार क्रम से दस और पाँच जोड़े हुए, तीस और तीस से विभाजित, स्पष्ट कलाएँ।",
+          "status": "translated"
         },
         {
           "number": 39,
           "text": "नवकृत्यात् षष्टिर्वसु युतावशीत्याशतं सतीक्ष्णांशोः। सर्वैस्त्रिभिर भ्फधिकै स्त्रिंशद्भिस्त्रिंशदेवार्कात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 39: Heliacal rising and setting calculations (Udayasta). Visibility limits in degrees from Sun and daily arc corrections for planet 39.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 39: ताराग्रहों के उदयास्त की गणना। सूर्य से कालांश दृश्यता सीमा तथा दैनिक चाप संशोधन।"
+          "english": "From nine-times (81) sixty, eight added to eighty (88), one hundred (100) being of the sun. With all three exceeding by thirty and thirty indeed from the sun.",
+          "hindi": "नौ गुना (८१) से साठ, अस्सी में आठ जुड़ा हुआ (८८), सौ सूर्य का। सभी तीन तीस और तीस से अधिक वास्तव में सूर्य से।",
+          "status": "translated"
         },
         {
           "number": 40,
@@ -2707,29 +2647,23 @@
         {
           "number": 42,
           "text": "मेषेदिनषड्कृत्यांशंभव स्वरसप्तहीनयाभागः पंचत्रिंशद्विकृतित्रि सप्तकंषद्वगैवगणितं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 42: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 42: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Aries, six-times-twelve part (72), diminished by bhava (11), rasa (6), sapta (7), the share is thirty-five, modified, tri-sapta (21), six-two-ga (26), calculated.",
+          "hindi": "मेष में छह गुना बारह भाग (७२), भव (११), रस (६), सप्त (७) से हीन, भाग पैंतीस है, विकृत, त्रि-सप्त (२१), षट्-द्वि-ग (२६), संगणित।",
+          "status": "translated"
         },
         {
           "number": 43,
           "text": "विरसंशतार्धममलो- रुद्रावथसप्तभिर्व्येका",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 43: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 43: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Tasteless (0), half-hundred (50), stainless (0), rudra (11), and then by seven less by one.",
+          "hindi": "विरस (०), अर्ध-शत (५०), अमलो (०), रुद्र (११) और फिर सात से एक कम।",
+          "status": "translated"
         },
         {
           "number": 44,
           "text": "द्विदशंसपंचवर्गं खरसत्रिघनान्वितंचमियुनंच। भागार्धशतं द्व्यून- मुनयस्त्रिघनंपवेसुतश्च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 44: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 44: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Two, ten, six, five-class (25), kharasatri-cube-endowed (3x3+...) and mixed. Half-share hundred less two, munis (7), tri-cube (27) and pavesu...",
+          "hindi": "दो, दस, छह, पंचवर्ग (२५), खरसत्रिघन-युक्त (२७) तथा मिश्रित। अर्ध-भाग सौ से दो कम, मुनि (७), त्रिघन (२७) और पवेसु...",
+          "status": "translated"
         },
         {
           "number": 45,
@@ -2741,38 +2675,30 @@
         {
           "number": 46,
           "text": "सिंहेगुणेंदुरामा- र्णवैर्दिग्धैस्तथासार्णवर्तुयमविषयाः तुल्यासप्तविहीनां सदृशांमधिकांविषयकृत्या",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 46: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 46: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Leo, guna (3), indu (1), rama (3), arṇava (4), smeared, similarly with arṇava, ṛtu (6), yama (2), viṣaya (5). Equal, seven diminished, similar, more, viṣaya-kṛtya (5-squared/action).",
+          "hindi": "सिंह में गुण (३), इंदु (१), रामा (३), अर्णव (४) सेदिग्ध, वैसे ही अर्णव, ऋतु (६), यम (२), विषय (५)। तुल्य, सात कम, सदृश, अधिक, विषय-कृत्य।",
+          "status": "translated"
         },
         {
           "number": 47,
           "text": "कन्यायामुकृत्या- ष्टत्रिंशत्तयातयानभूयः। त्रिघननवपंचसप्ता- ष्टकदथशतार्घचरवियुक्तं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 47: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 47: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Virgo, u-kṛtya (squared), thirty-eight, passed and to be passed again. Tri-cube (27), nine, five, seven, eight-ka, then hundred-half-chara-viyukta.",
+          "hindi": "कन्या में उ-कृत्य, अठतीस, बीता हुआ और फिर होने वाला। त्रिघन (२७), नौ, पाँच, सात, अष्टक, फिर शतार्ध-चर-वियुक्त।",
+          "status": "translated"
         },
         {
           "number": 48,
           "text": "विंशतिरेकेणयुता- व्यनखांसांतिथिद्विसंगुणैश्च। अशास्त्रिवसुविहीना द्येकत्रिंशद्युताश्चैव",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 48: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 48: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Twenty increased by one, vyankha-amsa (20), tithi-two-multiplied (15x2=30). Amsha tri-vasu (83) diminished, and thirty-one increased as well.",
+          "hindi": "बीस एक से युक्त, व्यनखांश, तिथि-द्वि-गुणित। अंश त्रि-वसु (८३) से हीन और इकतीस से युक्त तथा ही।",
+          "status": "translated"
         },
         {
           "number": 49,
           "text": "अलिनिदशघ्रीशशिकृत- दहनाः षड्वस्वशर्णवाष्टयुताः। तेशायममुनीशोना षड्विंशत्यासमेनाव",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 49: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 49: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Scorpio, ten-multiplied, śaśi-kṛt-dahana (31), six, vasu, arṇava, eight-joined. Those by yama-muni-īśa (11, 7, 2), not by twenty-six equaled.",
+          "hindi": "वृश्चिक में दस-गुणी, शशिकृत-दहन (३१), छह, वसु, अर्णव, आठ-युक्त। वे यम-मुनि-ईश (२७१) द्वारा छब्बीस से समान नहीं।",
+          "status": "translated"
         },
         {
           "number": 50,
@@ -2784,38 +2710,30 @@
         {
           "number": 51,
           "text": "मकरेद्युदशंखयुतं मुनिहीनं धृतिदिवाकराभ्यधिकं। अशारुपेणोनाः सैकैकाश्चोत्कृतियुताश्च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 51: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 51: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Capricorn, dyu-dashankha-yuktam (10), muni-less (7), dhṛti-divākarābhyadhikam (18+?). Amsha-rūpeṇa ōnaḥ, saikaikāśchōtkati-yutāścha.",
+          "hindi": "मकर में द्यु-दशंख-युक्त, मुनि-हीन (७), धृति-दिवाकराभ्यधिक। अंश-रूपेण ऊन, सैकैक और उत्कृति-युक्त।",
+          "status": "translated"
         },
         {
           "number": 52,
           "text": "कुंभेह्नात्रिंशत्या- युतयाद्गतभुग्दिवेददिननाथैः। द्वाविंशतिरंशाः पं- चवर्गमथाधिकाषष्टिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 52: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 52: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Aquarius, with thirty days joined, from the traversed-enjoyed days by the lord of day (sun). Twenty-two degrees, five-class (25), and more sixty.",
+          "hindi": "कुंभ में तीस दिनों से युक्त, गत-भुक् दिनों से दिननाथ (सूर्य) द्वारा। बाइस अंश, पंच-वर्ग (२५) और अधिक साठ।",
+          "status": "translated"
         },
         {
           "number": 53,
           "text": "मीनेत्र्यष्टकमह्नां शशिविषययुतंद्गताशसशंरं। त्र्यष्टककृतिविंशत्या- शतार्धमेकोनमष्टां स्युः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 53: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 53: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In Pisces, tri-ashtaka (24) of days, amsha śaśi-viṣaya-yuta (51), dgatāśa-saśaṃram. Tri-ashtaka-kṛti-viṃśatyā, śatārdham ekonam ashtā syuḥ.",
+          "hindi": "मीन में दिनों का त्र्यष्टक (२४), अंश शशिविषय-युत (५१), दगतानश-ससंरम्। त्र्यष्टक-कृति-विंशत्या, शतार्ध एकोन अष्ट स्युः।",
+          "status": "translated"
         },
         {
           "number": 54,
           "text": "अष्टोदयांतरांशान् बुधस्यकलांशकास्त्रिगन्युनात्। दिवसाश्चतुर्थगत्या अनुवक्रमजमीनयोन्दं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 54: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 54: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Subtract three from the degree-minutes of Mercury's anomaly, and with the eighth part of the rising difference, obtain the days and the fourth motion for the retrograde and direct courses of Mars and Saturn.",
+          "hindi": "बुध के कला-अंशों में से तीन घटाकर, उदय-अन्तर के आठवें भाग से, मंगल और शनि की वक्र तथा अनुवक्र गतियों के दिवस एवं चतुर्थ गति प्राप्त होती है।",
+          "status": "translated"
         },
         {
           "number": 55,
@@ -2827,38 +2745,30 @@
         {
           "number": 56,
           "text": "वर्गैक्रगतौ पूर्वार्धे- तृतीयगत्याचयात्कृतं गुणितैः। भागैर्गतिकृतिभक्तैः फलमनुपाताश्चतुर्थभागागनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 56: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 56: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "In the first half, by means of the sum of squares, multiplied by three and multiplied by the accumulated motion, and divided by the squares of the motion, the proportional parts are the fourth portion in the calculation.",
+          "hindi": "पूर्वार्ध में वर्गों के योग से, तीन द्वारा और गति के योग से गुणित तथा गति के वर्गों से भाग देने पर, अनुपात के फल स्वरूप चतुर्थ भाग प्राप्त होता है।",
+          "status": "translated"
         },
         {
           "number": 57,
           "text": "ज्याविधिविक्षेपघ्ना- चरकालादंवराष्टवेदांशं जह्याक्षिपेच्चयान्मो- त्तरंग्रहेस्वंयथाकक्षं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 57: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 57: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Multiply the rule of sines by the latitude, and from the time of ascensional difference, subtract or add one-eighth-fourteenth part, according to the orbit, towards the north or south for the planet's own place.",
+          "hindi": "ज्या विधि को विक्षेप से गुणा करके, चर काल से आठ-चौदहवें (अष्ट-चतुर्दश) भाग को कक्षा के अनुसार उत्तर या दक्षिण दिशा में ग्रह के अपने स्थान के लिए घटाएँ या जोड़ें।",
+          "status": "translated"
         },
         {
           "number": 58,
           "text": "चंद्रादीनांद्वादश- मनुरवितिथ्यष्टतिथिसंज्ञैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 58: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 58: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Of the Moon and other planets, the twelve, Manu, sun, tithi, eight, tithi are known as the respective constants.",
+          "hindi": "चन्द्रमा आदि ग्रहों के लिए बारह, मनु, सूर्य, तिथि, आठ और तिथि इन संज्ञाओं वाले मान जाने जाते हैं।",
+          "status": "translated"
         },
         {
           "number": 59,
           "text": "त्रिंशतविनाडीगुणितै घदशनाडीप्रमाणह्रतैः। लब्धांशकप्रमाणा- दुदयोस्तं वा स्फुटं वाच्यं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 59: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 59: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Multiplied by thirtyvinadis and divided by the measure of ten nadis, from the measure of the resulting degrees, the rising or setting or the true position should be stated.",
+          "hindi": "तीस विनाडियों से गुणित और दस नाडियों के प्रमाण से भाजित, लब्ध अंश प्रमाण से उदय, अस्त अथवा स्फुट स्थिति बतानी चाहिए।",
+          "status": "translated"
         },
         {
           "number": 60,
@@ -2870,29 +2780,23 @@
         {
           "number": 61,
           "text": "आवंत्यकः समासा- च्छिष्पहितार्थंतमद्गस्फुटांकसमं। चक्रेवराहमिहर- स्ताराग्रहकारिकातंत्रं",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 61: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 61: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "For the benefit of the disciples, in brief, Varahamihira composed this treatise of planetary calculations, equivalent to the true numerical system, known as the Avantika system.",
+          "hindi": "शिष्यों के हित के लिए वराहमिहिर ने संक्षेप में, स्पष्ट अंकों के समान, आवन्तक (उज्जैन की पद्धति) नामक यह ताराग्रह कारिका तन्त्र रचा।",
+          "status": "translated"
         },
         {
           "number": 62,
           "text": "प्रद्युम्रभूमितनये- जीवै शौरथवावीजयनंदिकृते। बुधेवनग्ना- स्फुटमिदं करणं भजतां",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 62: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 62: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Regarding Pradyumna, the son of earth (Mars), Jupiter, Saturn, or the seed-methods made by Nandi, and for Mercury—this is truly thekaraṇa text for those who worship it.",
+          "hindi": "प्रद्युम्न, भौम (मंगल), जीव (गुरु), शनि, अथवा नन्दिकृत बीज प्रक्रियों के अनुसार, और बुध के लिए—यह करण ग्रन्थ भजने वालों (अध्ययनकर्ताओं) के लिए स्पष्ट है।",
+          "status": "translated"
         },
         {
           "number": 64,
           "text": "प्रस्तावेपिनदोषा जानन्नापिनवक्तियः पटोक्षस्य। प्रथयतिगुणाश्चतस्मै सुजनयानमपरहिताय",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 64: Planetary conjunctions (Graha-yuddha) and planetary encounter rules. Latitudinal separation, brightness, and victor determination.",
-          "hindi_draft": "अठारहवाँ अध्याय श्लोक 64: ग्रह-युद्ध तथा समागम नियम। अक्षांशीय अन्तर, दीप्ति तथा जय-पराजय निर्धारण।"
+          "english": "Even when an opportunity exists, one who does not point out the faults while knowing them is clever in concealment; to that person who propagates virtues for the welfare of others, salutations to the noble.",
+          "hindi": "अवसर होने पर भी जो दोषों को जानते हुए नहीं बताता वह छिपाने में चतुर है; जो दूसरों के कल्याण के लिए गुणों का प्रसार करता है, ऐसे सुजन को नमस्कार है।",
+          "status": "translated"
         },
         {
           "number": 65,
@@ -2904,14 +2808,12 @@
         {
           "number": 66,
           "text": "आकरणाद्रविभागा दिवसाश्वारांशकारवौकार्याः। अधिकार्यदादितेभ्यो- भागाज्ञेयास्तदाचक्रात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Chapter 18 Shloka 66: Astronomical doctrine calculation according to Siddhanta Jyotisha.",
-          "hindi_draft": "अध्याय 18 श्लोक 66: सिद्धान्त ज्योतिष के अनुसार खगोलीय परिगणन।"
+          "english": "From the source-calculation, the solar degrees and days are to be made into twelfth-parts of a sign; the degrees are to be known from that circle for the authorities starting from the Sun.",
+          "hindi": "आकरण (मूल गणना) से सूर्य के अंशों और दिवसों को बारहवें भाग का करना चाहिए; सूर्य आदि अधिकारियों के लिए उस चक्र से अंश जानने चाहिए।",
+          "status": "translated"
         }
       ]
     }
   ],
-  "status": "partial"
+  "status": "translated"
 }

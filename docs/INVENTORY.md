@@ -69,10 +69,10 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
 | `chamatkar_chintamani` | [`Hora/Parashari/Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | 10 | 112 | 100% | — |
-| `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 99% | — |
+| `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 100% | — |
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
 | `minaraja_yavana_jataka` | [`Hora/Parashari/MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | 74 | 4,027 | 100% | — |
-| `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 79% | — |
+| `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 100% | — |
 | `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100% | — |
 | `shatpanchashika` | [`Hora/Parashari/Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | 7 | 56 | 100% | — |
 | `uttara_kalamrita` | [`Hora/Parashari/UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | 9 | 324 | 100% | — |
@@ -111,11 +111,11 @@ titles at all — so there is nothing to separate.
 | `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 3 | 65 | 100% | **RE-PARSED 2026-09-02** — was 7 flat chapters mis-numbered by one. Now 3 muṇḍakas × 2 khaṇḍas, all six exactly canonical (9/13/10/11/10/11 = 64), plus the śānti as `0.1`. **`0.1` cleaned 2026-09-24**: it had been scraped with Google Analytics JS and site-nav chrome around the invocation; chrome removed, śānti and both translations kept. |
 | `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 100% | range |
 | `kaivalya_upanishad` | [`Upanishad/atharvaveda/Kaivalya`](../Upanishad/atharvaveda/Kaivalya) | 2 | 24 | 100% | firm |
-| `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 18% | range |
+| `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 65% | range |
 | `mahanarayana_upanishad` | [`Upanishad/krishna-yajurveda/Mahanarayana`](../Upanishad/krishna-yajurveda/Mahanarayana) | 80 | 263 | 100% | uncitable |
 | `maitri_upanishad` | [`Upanishad/krishna-yajurveda/Maitri`](../Upanishad/krishna-yajurveda/Maitri) | 9 | 99 | 100% | uncitable |
 | `sarvasara_upanishad` | [`Upanishad/krishna-yajurveda/Sarvasara`](../Upanishad/krishna-yajurveda/Sarvasara) | 1 | 5 | 100% | unit_mismatch |
-| `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 19% | firm |
+| `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 68% | firm |
 | `taittiriya_upanishad` | [`Upanishad/krishna-yajurveda/Taittiriya`](../Upanishad/krishna-yajurveda/Taittiriya) | 31 | 51 | 100% | unit_mismatch |
 | `aitareya_upanishad` | [`Upanishad/rigveda/Aitareya`](../Upanishad/rigveda/Aitareya) | 5 | 33 | 100% | range |
 | `atmabodha_upanishad` | [`Upanishad/rigveda/Atmabodha`](../Upanishad/rigveda/Atmabodha) | 2 | 31 | 100% | uncitable |
@@ -134,11 +134,11 @@ titles at all — so there is nothing to separate.
 |---|---|---:|---:|---:|---|
 | `brahmasphuta_siddhanta` | [`Siddhanta/BrahmasphutaSiddhanta`](../Siddhanta/BrahmasphutaSiddhanta) | 21 | 691 | 100% | mixed |
 | `aryabhatiya` | [`Siddhanta/Aryabhatiya`](../Siddhanta/Aryabhatiya) | 4 | 80 | 100% | **REPLACED 2026-09-02.** Genuine text from the Parameśvarācārya-ṭīkā edition; 2 of 4 pādas land on their canonical count. Coverage is 80 of 121 because the Hindi-translation filter is deliberately aggressive. |
-| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 386 | 87% | **REPLACED 2026-09-02.** Genuine Thibaut & Sudhākara Dvivedī text; **11 of 18 chapters exactly on canonical count**, aligned against the chapter-and-verse numbering of Thibaut's own English translation inside the same file. |
+| `panchasiddhantika` | [`Siddhanta/Panchasiddhantika`](../Siddhanta/Panchasiddhantika) | 18 | 386 | 100% | **REPLACED 2026-09-02.** Genuine Thibaut & Sudhākara Dvivedī text; **11 of 18 chapters exactly on canonical count**, aligned against the chapter-and-verse numbering of Thibaut's own English translation inside the same file. |
 | `surya_siddhanta` | [`Siddhanta/SuryaSiddhanta`](../Siddhanta/SuryaSiddhanta) | 11 | 280 | 100% | **REPLACED 2026-09-02.** The fabricated text was deleted and the genuine work re-digitised from a clean Rashtriya Sanskrit Sansthan e-text. **8 of 11 chapters land on their canonical last verse** — the strongest witness of any text here. |
 | `bijaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 150 | 100% | **Least corroborated of the four parts** — its bound (187) is self-derived, with no ToC and no attested total for this edition. Mūla only, from a bilingual edition whose terms are in SOURCES. |
 | `lilavati` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 1 | 117 | 100% | **Verses 135–272 only — the `uttarārdha`.** The volume holds no first half. 272 is Līlāvatī's attested last verse and the only external check available. |
-| `grahaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 9 | 272 | 77% | **Partial — the `पूर्वārdha` only** (3 of the 11 adhikāras the volume's own preface names), and its witness is weaker than `goladhyaya`'s. See CANONICAL_COUNTS. |
+| `grahaganita` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 9 | 272 | 100% | **Partial — the `पूर्वārdha` only** (3 of the 11 adhikāras the volume's own preface names), and its witness is weaker than `goladhyaya`'s. See CANONICAL_COUNTS. |
 | `goladhyaya` | [`Siddhanta/SiddhantaShiromani`](../Siddhanta/SiddhantaShiromani) | 8 | 241 | 100% | **Partial — 241 of the 318 verses its own table of contents implies.** Every absence is listed by `scripts/sanskrit-convert/goladhyaya.py`, never filled in. |
 
 **⚠ These three do not contain the works they name — verified 2026-09-02. DO NOT CITE.**
@@ -181,10 +181,10 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,725 | 99% | uncitable |
 | `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 0% | uncitable |
 | `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 0% | uncitable |
-| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 0% | uncitable |
+| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 79% | uncitable |
 | `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,347 | 1% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 100% | uncitable |
-| `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 0% | uncitable |
+| `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 100% | uncitable |
 | `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
 
 Category is **per-Upaveda** (`upaveda_dhanurveda`), not a flat `upaveda`: medicine and

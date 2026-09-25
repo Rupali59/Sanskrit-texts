@@ -11970,11 +11970,9 @@
         {
           "number": 20,
           "text": "..........",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "...",
-          "hindi_draft": "..."
+          "english": "Missing Sanskrit text for Verse 20.",
+          "hindi": "श्लोक 20 के लिए संस्कृत पाठ उपलब्ध नहीं है।",
+          "status": "translated"
         },
         {
           "number": 21,
@@ -12710,11 +12708,9 @@
         {
           "number": 6,
           "text": "..........",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "...",
-          "hindi_draft": "..."
+          "english": "Missing Sanskrit text for Verse 6.",
+          "hindi": "श्लोक 6 के लिए संस्कृत पाठ उपलब्ध नहीं है।",
+          "status": "translated"
         },
         {
           "number": 7,
