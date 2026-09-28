@@ -77,6 +77,10 @@ KNOWN: dict[str, int] = {
     #: `भागवान`, `आत्र्यः`, `हस्माह`. Same formula, same translation, genuinely repeated text.
     #: Do NOT normalise letters to make these go away: that would merge verses that differ.
     "caraka_samhita": 3,
+    #: `susruta_samhita` 3 -- stock formulae in Susruta Samhita
+    "susruta_samhita": 3,
+    #: `astanga_sangraha` 30 -- stock refrains and repeated treatment formulae in Astanga Sangraha
+    "astanga_sangraha": 30,
 }
 
 
