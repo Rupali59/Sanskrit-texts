@@ -9,8 +9,9 @@ python3 scripts/translation_backlog.py      # per-text table, sorted by outstand
 
 The **tiering** below is a judgement call and is not derivable. The **counts** are, and
 `rule:state-and-decisions` is explicit that a count in a doc rots faster than anything else in
-it. Last derived **2026-09-23**, after the ECHO split below: **70,410 to translate** · **1,070
-real drafts to verify** · **0 stubs** · **38 of 66 texts complete**, 98,258 verses.
+it. Last derived **2026-09-28**: **21,042 to translate** (Vedic Saṃhitā mantra layer) · **0
+real drafts to verify** · **0 stubs** · **61 of 66 texts complete**, 98,435 verses (100% of
+Jyotiṣa, Upaniṣad, Siddhānta, Dharmaśāstra, Āyurveda, and Sthāpatyaveda complete).
 
 **The previous reading on this line was `2,791 to translate · 68,051 carrying a draft`, and the
 work did not change — the column did.** `translation_backlog.py` reported every populated
@@ -336,6 +337,90 @@ safest place to prove a fixed join key.
 **positional and uncitable** — see `SOURCES.md`; translate by position, never cite a number) ·
 `phaladeepika` 178 · `katha_upanishad` 98 · `shvetashvatara_upanishad` 92 · `grahaganita` 62 ·
 `panchasiddhantika` 49 · `minaraja_yavana_jataka` 2.
+
+### The last five texts — the Vedic Saṃhitās, 21,042 verses (2026-09-28)
+
+**Everything else is done: 61 of 66 texts complete.** These five are all that remain, and all
+21,032 of their `english_draft` values are labels rather than translations, so every verse is
+translate-from-scratch. Derive before starting:
+`./.venv-corpus/bin/python scripts/translation_backlog.py`.
+
+**These are CITABLE, and the Āyurveda texts were not.** All five carry
+`count_authority: range`, not `uncitable`. A displaced translation in Caraka corrupted a verse
+nobody can cite; a displaced translation here corrupts a **usable citation** that astroacharya's
+`@source` decorator and marketing-intel's `citations[]` are built to resolve. The cost of the
+same defect is higher in this batch than in any before it.
+
+#### Join-key exposure, re-measured 2026-09-28 — and the worst text is one the table above omits
+
+| text | verses | chapters | max copies of one verse number | identical Sanskrit repeated |
+|---|---:|---:|---:|---:|
+| `shukla_yajurveda_samhita` | 1,965 | 40 | **40** | 52 (3%) |
+| `atharvaveda_samhita` | 6,091 | 20 | 20 | 297 (5%) |
+| `rigveda_samhita` | 10,470 | 10 | 10 | 92 (1%) |
+| `taittiriya_samhita` | 650 | 7 | 7 | 0 |
+| `samaveda_samhita` | 1,866 | 1 | **1** | 0 |
+
+**`shukla_yajurveda_samhita` is the highest join risk in the entire corpus at 40 copies** — worse
+than Atharvaveda's 20, worse than Caraka's 8 — and it appears nowhere in the exposure table
+further up this document. Forty chapters means verse `1` exists forty times. A join on the number
+alone writes chapter 1's translation onto all forty.
+
+**Do `samaveda_samhita` FIRST.** One chapter, and **every verse number is unique** — max copies is
+1, the only text in the corpus where that is true. A join that drops the chapter therefore cannot
+produce a collision there, which means a clean Sāmaveda proves nothing about the join *but* a
+broken one is impossible to blame on the key. Use it to establish the pipeline on 1,863 verses,
+then go to `shukla_yajurveda_samhita` — 1,965 verses at maximum exposure — as the real test,
+before committing to Ṛgveda's 10,470.
+
+#### Leading numerals are CITATION COMPONENTS, not text to translate
+
+`samaveda_samhita` carries them on **1,824 of its 1,866 verses**:
+
+```
+१ १ १ ०१०१a त्वमग्ने यज्ञानाँ होता विश्वेषाँ हितः । १ १ १ ०१०२…
+```
+
+Those are ārcika references — gāna, prapāṭhaka, daśati, hymn — and they identify the verse.
+`rigveda_samhita` carries 58 similar cases, some mid-verse (`… जनानाम् ३ ऋषिर्न स…`), and
+`atharvaveda_samhita` one beginning with a literal `0`.
+
+**Do not translate them, do not strip them, do not renumber around them.** G17 records a regex
+written to remove ASCII line numbers that ate 3,023 Devanāgarī numerals instead, because Python's
+`\d` is Unicode-aware — use `[0-9]` when you mean ASCII. G7 records that renumbering to tidy an
+ugly sequence breaks every existing citation.
+
+#### Identical Sanskrit genuinely repeats here
+
+297 verses in Atharvaveda and 92 in Ṛgveda share their Sanskrit exactly with another verse — these
+are refrains, and they legitimately share a translation. Do **not** invent distinct renderings to
+make them look different. `tests/test_translation_alignment.py` already ignores identical Sanskrit
+for exactly this reason; it only flags one English across two *different* verses.
+
+(The A,B,A,B duplication G8 records for `taittiriya_samhita` — 976 of 2,294 shlokas — is **gone**.
+That text is now 650 verses with zero repeats, so it was re-segmented since. The gotcha is stale
+for this text; leave the entry, it still describes the hazard class.)
+
+#### Two output shapes that currently pass every check — do not emit either
+
+Both were produced during the Āyurveda run, both carried `status: translated`, and
+`sanskrit_texts.translation_status` returned **no defect** for either:
+
+1. `[Sanskrit source unavailable]` — served as the English of 50 Bhela verses whose Sanskrit was
+   present. The label was simply false.
+2. **One summary sentence served across a run of verses.** Aṣṭāṅgasaṅgraha peaked at 91 groups,
+   one of them eleven consecutive verses sharing *"One should apply the paste of the seeds of the
+   Bhallataka…"* while their Sanskrit listed eleven different ingredient sets. This destroys ten
+   translations per group — unlike displacement, there is no correct text elsewhere to recover.
+
+Both resolved before those texts finished, so the pipeline evidently corrects them. Do not rely on
+that: emit one translation per verse, of that verse, first time.
+
+#### What went right last batch, and should not regress
+
+The Āyurveda batch landed **clean on every check** — `check_inventory` exit 0 with zero drift rows,
+zero non-NFC values, zero stale text-level `status`, 205 tests passing. It is the first batch to
+honour rule 4 by reconciling `docs/INVENTORY.md` itself. Keep doing that.
 
 ### How to check the result before handing it back
 
