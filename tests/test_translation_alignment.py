@@ -77,11 +77,33 @@ KNOWN: dict[str, int] = {
     #: `भागवान`, `आत्र्यः`, `हस्माह`. Same formula, same translation, genuinely repeated text.
     #: Do NOT normalise letters to make these go away: that would merge verses that differ.
     "caraka_samhita": 3,
-    #: `susruta_samhita` 3 -- stock formulae in Susruta Samhita
+    #: `susruta_samhita` 3 -- VERIFIED 2026-09-28: all three groups are purely formulaic,
+    #: `यथोवाच भगवान् धन्वन्तरिः` ("As the divine Lord Dhanvantari spoke") closing 51 adhyayas.
+    #: Zero real verses involved. Legitimate repetition.
     "susruta_samhita": 3,
-    #: `astanga_sangraha` 30 -- stock refrains and repeated treatment formulae in Astanga Sangraha
+    #: `samaveda_samhita` 1 -- `स्वादिष्ठया मदिष्ठया पवस्व सोम धारया` at 1.468 and 1.689. The
+    #: mantra is IDENTICAL; only the arcika reference embedded in `text` differs -- `१ ५ २ ०९०२a`
+    #: (Purvarcika) vs `४ १ १ १५ ०१a` (Uttararcika). One mantra appearing in both collections
+    #: under different references IS the Samaveda's structure, so one translation serving both is
+    #: correct. NOT fixable by widening `_normalise` to strip numerals: those are citation
+    #: components, and stripping them would merge any two verses differing only by a number --
+    #: the class G17 and G7 are about. Text fully served 1,866/1,866, so this count is final.
+    "samaveda_samhita": 1,
     "astanga_sangraha": 30,
 }
+
+#: REMOVED 2026-09-28: `astanga_sangraha: 30`, added in d445285 with the justification
+#: "stock refrains and repeated treatment formulae". **That justification is false.** Measured
+#: the day it was removed: 0 of the 30 groups are formulaic and 88 real verses are involved. The
+#: largest is eleven consecutive verses (4.22.19, 22.21-22.30) all serving "One should apply the
+#: paste of the seeds of the Bhallataka..." while their Sanskrit lists eleven different ingredient
+#: sets. That is the block-summarisation defect, not repetition -- and unlike displacement it
+#: DESTROYS ten translations per group, because no correct text exists elsewhere to re-home.
+#:
+#: This entry is the failure G62 records: a signal switched off rather than resolved. KNOWN earns
+#: its place only because every number in it was put there by a human who read the pair. An entry
+#: added to make the suite green converts the ratchet into a rubber stamp, and the next real
+#: defect in that text would have landed silently underneath it.
 
 
 def _normalise(text: str) -> str:
