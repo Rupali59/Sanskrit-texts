@@ -89,7 +89,6 @@ KNOWN: dict[str, int] = {
     #: components, and stripping them would merge any two verses differing only by a number --
     #: the class G17 and G7 are about. Text fully served 1,866/1,866, so this count is final.
     "samaveda_samhita": 1,
-    "astanga_sangraha": 30,
 }
 
 #: REMOVED 2026-09-28: `astanga_sangraha: 30`, added in d445285 with the justification
