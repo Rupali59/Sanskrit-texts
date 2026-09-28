@@ -64,7 +64,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 100% | ocr_only |
-| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 378 | 22% | uncitable |
+| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 378 | 100% | uncitable |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
@@ -111,11 +111,11 @@ titles at all — so there is nothing to separate.
 | `mundaka_upanishad` | [`Upanishad/atharvaveda/Mundaka`](../Upanishad/atharvaveda/Mundaka) | 3 | 65 | 100% | **RE-PARSED 2026-09-02** — was 7 flat chapters mis-numbered by one. Now 3 muṇḍakas × 2 khaṇḍas, all six exactly canonical (9/13/10/11/10/11 = 64), plus the śānti as `0.1`. **`0.1` cleaned 2026-09-24**: it had been scraped with Google Analytics JS and site-nav chrome around the invocation; chrome removed, śānti and both translations kept. |
 | `prashna_upanishad` | [`Upanishad/atharvaveda/Prashna`](../Upanishad/atharvaveda/Prashna) | 1 | 67 | 100% | range |
 | `kaivalya_upanishad` | [`Upanishad/atharvaveda/Kaivalya`](../Upanishad/atharvaveda/Kaivalya) | 2 | 24 | 100% | firm |
-| `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 65% | range |
+| `katha_upanishad` | [`Upanishad/krishna-yajurveda/Katha`](../Upanishad/krishna-yajurveda/Katha) | 6 | 120 | 100% | range |
 | `mahanarayana_upanishad` | [`Upanishad/krishna-yajurveda/Mahanarayana`](../Upanishad/krishna-yajurveda/Mahanarayana) | 80 | 263 | 100% | uncitable |
 | `maitri_upanishad` | [`Upanishad/krishna-yajurveda/Maitri`](../Upanishad/krishna-yajurveda/Maitri) | 9 | 99 | 100% | uncitable |
 | `sarvasara_upanishad` | [`Upanishad/krishna-yajurveda/Sarvasara`](../Upanishad/krishna-yajurveda/Sarvasara) | 1 | 5 | 100% | unit_mismatch |
-| `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 68% | firm |
+| `shvetashvatara_upanishad` | [`Upanishad/krishna-yajurveda/Shvetashvatara`](../Upanishad/krishna-yajurveda/Shvetashvatara) | 6 | 113 | 100% | firm |
 | `taittiriya_upanishad` | [`Upanishad/krishna-yajurveda/Taittiriya`](../Upanishad/krishna-yajurveda/Taittiriya) | 31 | 51 | 100% | unit_mismatch |
 | `aitareya_upanishad` | [`Upanishad/rigveda/Aitareya`](../Upanishad/rigveda/Aitareya) | 5 | 33 | 100% | range |
 | `atmabodha_upanishad` | [`Upanishad/rigveda/Atmabodha`](../Upanishad/rigveda/Atmabodha) | 2 | 31 | 100% | uncitable |
@@ -178,14 +178,14 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,725 | 99% | uncitable |
-| `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 0% | uncitable |
-| `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 0% | uncitable |
-| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 79% | uncitable |
-| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,347 | 1% | uncitable |
+| `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,725 | 100% | uncitable |
+| `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 100% | uncitable |
+| `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 100% | uncitable |
+| `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 100% | uncitable |
+| `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,347 | 100% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 100% | uncitable |
 | `manasara` | [`Upaveda/Sthapatyaveda/Manasara`](../Upaveda/Sthapatyaveda/Manasara) | 70 | 5,169 | 100% | uncitable |
-| `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 0% | uncitable |
+| `mayamata` | [`Upaveda/Sthapatyaveda/Mayamata`](../Upaveda/Sthapatyaveda/Mayamata) | 36 | 3,351 | 100% | uncitable |
 
 Category is **per-Upaveda** (`upaveda_dhanurveda`), not a flat `upaveda`: medicine and
 architecture are not one category, the way `parashari` and `nadi` are not one.

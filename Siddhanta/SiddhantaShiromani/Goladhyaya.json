@@ -36,16 +36,14 @@
           "text": "निरक्षदेशे क्षितिजाख्यवृत्तमुन्मण्डलं तज्जगुरन्यदेशे। स्वे स्वे कुजेऽर्कस्य समुद्गमोऽस्माच्चरार्धमर्कोदययोस्तु मध्ये॥२॥",
           "english": "At the terrestrial equator (nirekṣa-deśa), the horizon circle itself functions as the unmaṇḍala. In other terrestrial latitudes, they differ. The Surya rises at his own local horizon; hence, the time interval between equatorial sunrise and local sunrise is equal to half the ascensional difference (carārdha).",
           "hindi": "निरक्ष देश (भूमध्य रेखा) पर क्षितिज वृत्त ही उन्मण्डल होता है। अन्य देशों (अक्षांशों) में वे भिन्न होते हैं। सूर्य अपने स्थानीय क्षितिज पर उदित होता है; अतः निरक्षीय सूर्योदय और स्थानीय सूर्योदय के बीच का काल चरार्ध (आधा चर) के बराबर होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 3,
           "text": "आदौ स्वदेशेऽथ निरक्षदेशे सूर्योदयो ह्यस्तमयोऽन्यथाऽतः। ऋणं ग्रहेऽस्मादुदये स्वमस्ते फलं चरोत्थं रविसौम्यगोले॥३॥",
           "english": "When Surya is in the northern hemisphere (saumya-gola), sunrise occurs earlier at the local place than at the equator, and sunset occurs later. Therefore, the correction derived from ascensional difference (caraphala) is subtracted from the Graha at local sunrise and added at local sunset.",
           "hindi": "जब सूर्य उत्तर गोल (सौम्य गोल) में होता है, तो स्थानीय सूर्योदय निरक्ष देश की अपेक्षा शीघ्र और सूर्यास्त देर से होता है। इसलिए स्थानीय सूर्योदय पर चरफल ग्रह में घटाया जाता है और सूर्यास्त पर जोड़ा जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 4,
@@ -87,80 +85,70 @@
           "text": "उत्तरगोले क्षितिजादूर्ध्वे परितो भ्रमन्तमादित्यम्। सव्यं त्रिदशाः सततं पश्यन्त्यसुरा असव्यगं याम्ये॥९॥",
           "english": "When Surya is in the northern hemisphere, moving above the horizon, the Gods behold him circumambulating continuously from left to right (clockwise/savya), while the Demons in the south view him moving counter-clockwise (asavya).",
           "hindi": "जब सूर्य उत्तर गोल में क्षितिज के ऊपर घूमता है, तब देवता उसे अपने चारों ओर प्रदक्षिण (बाएँ से दाएँ/सव्य) घूमता देखते हैं, जबकि दक्षिण के असुर उसे अपसव्य (दाएँ से बाएँ) घूमता देखते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "दिनं दिनेशस्य यतोऽत्र दर्शने तमी तमोहन्तुरदर्शने सति। कुपृष्ठगानां द्युनिशं यथा नृणां तथा पितॄणां शशिपृष्ठवासिनाम्॥१०॥",
           "english": "Since daytime is defined by the visibility of Surya and night by his absence, just as humans on Earth experience day and night, so also do the Pitṛs (Ancestors) residing on the upper surface of Chandra.",
           "hindi": "चूँकि सूर्य के दर्शन से दिन और अदर्शन से रात्रि होती है, जैसे पृथ्वीवासियों का अहोरात्र होता है, वैसे ही चन्द्रमा के पृष्ठभाग पर रहने वाले पितरों का भी दिन-रात होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "दिनं सुराणामयनं यदुत्तरं निशेतरत्सांहितिकैः प्रकीर्तितम्। दिनोन्मुखेऽर्के दिनमेव तन्मतं निशा तथा तत्फलकीर्तनाय तत्॥११॥",
           "english": "The northern progress of Surya (Uttara-ayana) is stated by astronomers to be the daytime of the Gods, and the southern progress is their night. This conventional division is stated for the purpose of assigning astrological fruits based on Surya's orientation toward daytime or night.",
           "hindi": "सूर्य का उत्तरायण देवताओं का दिन और दक्षिणायन उनकी रात्रि कही गई है। यह पारिभाषिक विभाजन फलकथन (ज्योतिषीय फल) के उद्देश्य से आचार्यों द्वारा कहा गया है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "द्वंद्वान्तमारोहति यैः क्रमेण तैरेव वृत्तैरवरोहतीनः। यत्रैव दृष्टः प्रथमं स देवैस्तत्रैव तिष्ठन्न विलोक्यते किम्॥१२॥",
           "english": "The Surya ascends along the diurnal circles in the same succession as he subsequently descends after reaching the solstice (dvandvānta). Why then is he not seen continuously at the same spot where the Gods first observe him?",
           "hindi": "सूर्य जिन अहोरात्र वृत्तों से क्रमशः मिथुन राशि के अन्त तक चढ़ता है, उन्हीं वृत्तों से वापस उतरता है। फिर देवताओं को जहाँ सूर्य प्रथम बार दिखता है, वहाँ निरन्तर स्थित क्यों नहीं दिखता?",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "विधूर्ध्वभागे पितरो वसन्तः स्वाधः सुधादीधितिमामनन्ति। पश्यन्ति तेऽर्के निजमस्तकोर्ध्वे दर्शे यतोऽस्माद्द्युदलं तदैषाम्॥१३॥",
           "english": "The Pitṛs living on the upper side of Chandra perceive the nectar-rayed Chandra beneath them. At the New Chandra (Darśa), they see Surya directly above their heads; hence, New Chandra is their midday.",
           "hindi": "चन्द्रमा के ऊपरी भाग में रहने वाले पितृ अपने नीचे अमृतकिरण चन्द्रमा को मानते हैं। अमावस्या (दर्श) के दिन वे सूर्य को अपने सिर के ठीक ऊपर देखते हैं, अतः दर्श उनका मध्याह्न होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "भार्धान्तरत्वान्न विधोरधःस्थं तस्मान्निशीथः खलु पौर्णमास्याम्। कृष्णे रविः पक्षदलेऽभ्युदेति शुक्लेऽस्तमेत्यर्थत एव सिद्धम्॥१४॥",
           "english": "At Full Chandra (Paurṇamāsī), Surya is 180 degrees away and below Chandra, making it midnight for the Pitṛs. Consequently, sunrise occurs for them at the middle of the dark fortnight (Kṛṣṇa-pakṣa) and sunset at the middle of the bright fortnight (Śukla-pakṣa).",
           "hindi": "पौर्णमासी (पूर्णिमा) को सूर्य चन्द्रमा से १८० अंश दूर और नीचे होने से पितरों की मध्यरात्रि होती है। अतः कृष्ण पक्ष के मध्य में उनका सूर्योदय और शुक्ल पक्ष के मध्य में सूर्यास्त सिद्ध होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "यदतिदूरगतो द्रुहिणः क्षितेः सततमाप्रलयं रविमीक्षते। भवति तावदयं शयितश्च तद्युगसहस्रयुगं द्युनिशं विधेः॥१५॥",
           "english": "Because Lord Brahmā resides at an immense distance beyond Earth, he beholds Surya continuously until cosmic dissolution (pralaya). When he sleeps for that duration, it constitutes his night; thus a day and night of Brahmā each equal one thousand Mahāyugas.",
           "hindi": "ब्रह्माजी पृथ्वी से अत्यधिक दूर होने के कारण प्रलयकाल तक सूर्य को निरन्तर देखते रहते हैं। जब वे सोते हैं, तब उनकी रात्रि होती है; इस प्रकार ब्रह्मा का दिन और रात्रि प्रत्येक सहस्र महायुग के बराबर होते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "यो हि प्रदेशोऽपममण्डलस्य तिर्यक्स्थितो यात्युदयं तथाऽस्तम्। सोऽल्पेन कालेन य ऊर्ध्वसंस्थोऽनल्पेन सोऽस्मादुदया न तुल्याः॥१६॥",
           "english": "That portion of the ecliptic (apamaṇḍala) which rises obliquely takes a shorter time to ascend and set, whereas that which stands more upright takes a longer time. For this reason, the rising times (udaya-mānas) of the zodiacal Rashis are not equal.",
           "hindi": "अपमण्डल (क्रान्तिवृत्त) का जो भाग तिरछा होकर उदित होता है वह कम समय में उदित और अस्त होता है, और जो सीधा खड़ा होकर उदित होता है वह अधिक समय लेता है। इसी कारण राशियों के उदयमान समान नहीं होते।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "य उद्गमे याम्यनता मृगाद्याः स्वस्वापमेनापि निरक्षदेशे। याम्याक्षतस्तेऽतिनतत्वमाप्ता उद्यन्ति कालेन ततोऽल्पकेन॥१७॥",
           "english": "The Rashis beginning with Makara (Mṛga), which incline southward at sunrise even at the equator due to their own declination, become further tilted southward owing to southern latitude; hence they rise in a shorter time.",
           "hindi": "मकर आदि राशियाँ जो निरक्ष देश में अपनी दक्षिण क्रान्ति के कारण उदित होते समय दक्षिण की ओर झुकी होती हैं, वे दक्षिण अक्षांश के कारण और अधिक झुक जाती हैं; अतः वे अल्प समय में उदित होती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "कर्क्यादयः सौम्यनता हि येऽत्र ते यान्ति याम्याक्षवशादृजुत्वम्। कालेन तस्माद्बहुनोदयन्ते तदन्तरे स्वं चरखण्डमेव॥१८॥",
           "english": "Conversely, the Rashis starting with Karka (Karki), which incline northward, become more upright due to southern latitude; thus they require a longer time to rise. The difference between equatorial and local rising times is precisely their respective ascensional difference (cara-khaṇḍa).",
           "hindi": "इसके विपरीत कर्क आदि राशियाँ जो उत्तर झुकी होती हैं, वे ऋजु (सीधी) हो जाती हैं; अतः वे अधिक समय में उदित होती हैं। निरक्षीय और स्वदेशीय उदयमानों का यह अन्तर ही उनका चरखण्ड कहलाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 19,
@@ -174,40 +162,35 @@
           "text": "मेषादेर्मिथुनान्तो नाडीभिस्तिथिमिताभिरुद्वृत्ते। लगति कुजे तदधःस्थे प्रथमं ताभिश्वरोनाभिः॥२०॥",
           "english": "The arc from the start of Mesha to the end of Mithuna touches the unmaṇḍala in 15 nāḍikās. When it lies below the local horizon, it reaches the horizon earlier, in 15 nāḍikās minus the ascensional difference (caronā).",
           "hindi": "मेष के प्रारम्भ से मिथुन के अन्त तक का चाप उन्मण्डल को १५ नाड़ियों में स्पर्श करता है। जब वह स्थानीय क्षितिज के नीचे होता है, तो वह क्षितिज पर १५ नाड़ी में से चर घटाकर (चरोना नाड़ी में) उदित होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 21,
           "text": "कन्यान्ताद्धनुषोऽन्तस्तिथिमितनाडीभिरुद्वलये। लगति कुजे चोर्ध्वस्थे पश्चात्ताभिश्वराढ्याभिः॥२१॥",
           "english": "The arc from the end of Kanya to the end of Dhanu touches the unmaṇḍala in 15 nāḍikās. When it lies above the horizon, it reaches the horizon later, in 15 nāḍikās plus the ascensional difference (carāḍhyā).",
           "hindi": "कन्या के अन्त से धनु के अन्त तक का भाग उन्मण्डल को १५ नाड़ियों में स्पर्श करता है। जब वह क्षितिज के ऊपर होता है, तो वह १५ नाड़ियों में चर जोड़कर (चराढ्य नाड़ियों में) पहुँचता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 22,
           "text": "तद्रहितत्रिंशद्भिः कन्यान्तो वा झषान्तो वा। चरखण्डैरूनाढ्यास्तेन निरक्षोदयाः स्वदेशे स्युः॥२२॥",
           "english": "Subtracting these from 30 nāḍikās yields the times for Kanya or Meena. Thus, local rising times are obtained by subtracting or adding the ascensional differences (cara-khaṇḍas) to the equatorial rising times.",
           "hindi": "३० नाड़ियों में से इन्हें घटाने पर कन्या या मीन का उदयकाल आता है। इस प्रकार निरक्षोदयों में चरखण्डों को घटाने या जोड़ने से स्वदेशीय उदयमान प्राप्त होते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 23,
           "text": "क्षितिजेऽजादिं कृत्वा गोलं भ्रमयन्प्रदर्शयेत्सर्वम्। उक्तमनुक्तं चान्याच्छिष्याणां बोधजननार्थम्॥२३॥",
           "english": "Setting the start of Mesha on the horizon of the armillary sphere and rotating the globe, the teacher should demonstrate all stated and unstated principles to illuminate the minds of students.",
           "hindi": "गोलयन्त्र (अर्मिलरी स्फीयर) के क्षितिज पर मेषादि को रखकर और गोल को घुमाकर आचार्य को शिष्यों के बोध के लिए सभी उक्त और अनुक्त बातें प्रदर्शित करनी चाहिए।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 24,
           "text": "योऽभ्युदेति समयेन येन तत्सप्तमोऽस्तमुपयाति तेन च। राशिरूर्ध्वमपमण्डंलं कुजादर्धमेव सततं यतः स्थितम्॥२४॥",
           "english": "Whichever Rashi rises in a given time, its seventh Rashi sets in that exact same duration, because exactly one-half of the ecliptic circle always remains above the horizon.",
           "hindi": "जो राशि जिस समय में उदित होती है, उससे सातवीं राशि उतने ही समय में अस्त होती है, क्योंकि क्रान्तिवृत्त का आधा भाग सदा क्षितिज के ऊपर स्थित रहता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 25,
@@ -228,56 +211,49 @@
           "text": "लग्नार्थमिष्टघटिका यदि सावनास्तास्तात्कालिकार्ककरणेन भवेयुरार्क्ष्यः आर्क्षोदया हि सदृशीभ्य इहापनेयास्तात्कालिकत्वमथ न क्रियते यदाऽऽर्क्ष्यः॥२७॥",
           "english": "If the desired time for calculating the Lagna is given in civil (sāvana) nāḍikās, it must be converted into sidereal (ārkṣa) nāḍikās using Surya's true motion; sidereal risings must be subtracted from equal sidereal durations when computing true positions.",
           "hindi": "यदि लग्न साधन का इष्टकाल सावन नाड़ियों में दिया हो, तो उसे सूर्य की स्पष्ट गति से आार्क्ष (नाक्षत्र) नाड़ियों में बदलना चाहिए; सम आार्क्ष कालों से नाक्षत्र उदयमानों का विशोधन करके तात्कालिकता प्राप्त की जाती है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "त्र्यंशयुङ्नवरसाः ६९/२०पलांशका यत्र तत्र विषये कदाचन।        दृश्यते न मकरो न कार्मुकं किंच ककिंमिथुनौ सदोदितौ॥२८॥",
           "english": "At a latitude of 69° 20', Dhanu and Makara are never visible above the horizon, whereas Mithuna and Karka remain continuously visible at all times.",
           "hindi": "६९° २०' अक्षांश पर धनु और मकर राशियाँ कभी क्षितिज के ऊपर दिखाई नहीं देतीं, जबकि मिथुन और कर्क राशियाँ सदा उदित (दृश्य) रहती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "यत्र साङगिजवाजिमंमिता ७८/१५ स्तत्र वृश्चिकचतुष्टयं न च। दृश्यतेऽथ वृषभाच्चतुष्टयं सर्वदा समुदितं च लक्ष्यते॥२९॥",
           "english": "Where the latitude is 78° 15', the four Rashis beginning with Vrishchika are never seen, while the four Rashis starting with Vrishabha remain perpetually above the horizon.",
           "hindi": "जहाँ अक्षांश ७८° १५' हैं, वहाँ वृश्चिक आदि चार राशियाँ कभी दिखाई नहीं देतीं, और वृषभ आदि चार राशियाँ सर्वदा उदित दिखाई देती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 30,
           "text": "अत्र तेऽथ नवतिः पलांशकास्तत्र काञ्चनगिरौ कदाचन। दृश्यते न भदलं तुलादिकं सर्वदा समुदितं क्रियादिकम्॥३०॥",
           "english": "Where the latitude is 90 degrees (at Mount Meru), the six southern Rashis beginning with Tula are never seen, while the six northern Rashis starting with Mesha are continuously visible.",
           "hindi": "जहाँ ९० अंश अक्षांश (सुमेरु/काञ्चनगिरि) है, वहाँ तुला आदि ६ दक्षिण राशियाँ कभी नहीं दिखतीं और मेषादि ६ उत्तर राशियाँ सर्वदा उदित रहती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 31,
           "text": "राशेर्यस्य निरक्षजोदयसमाः स्वीयाश्चरार्धासवो दृश्यस्तत्र सदा स राशिरिति यन्निर्युक्ति लल्लोदितम्। यद्येवं रसषट् ६६ पलांशविषये सर्वेऽप्यमी सर्वदा दृश्याः स्युर्युगपञ्चरोदयघटीमाम्यादसत्तत्ततः॥३१॥",
           "english": "Lalla's assertion—that a Rashi whose half-ascensional difference equals its equatorial rising time remains perpetually visible—is illogical. Were it so, at 66° latitude all Rashis would be visible simultaneously due to equal cara and udaya times, which is absurd.",
           "hindi": "लल्लाचार्य का यह कथन कि 'जिस राशि का चरार्ध उसके निरक्षोदयन के समान हो वह सदा दृश्य होती है' युक्तिहीन है। यदि ऐसा होता तो ६६° अक्षांश पर चर और उदयकाल समान होने से सभी राशियाँ एक साथ दिखतीं, जो असत् है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 32,
           "text": "र्नक्रश्चापि न वृश्चिको न च घटः पञ्चाद्रयो ७५। ० यत्र च। दृश्यः स्यादिति यत्सदा प्रलपितं लल्लेन गोले निजे गोलज्ञ त्रिलवोनितास्त उदिताः केनोच्यतां हेतुना॥३२॥",
           "english": "Lalla further claimed that at latitude 75°, Makara, Vrishchika, and Kumbha are never seen. O Astronomer, explain by what logic those Rashis are declared invisible when they actually rise diminished by just 3 degrees!",
           "hindi": "लल्ल ने यह भी कहा कि ७५° अक्षांश पर मकर, वृश्चिक और कुम्भ कभी नहीं दिखते। हे गोलज्ञ! जब वे केवल ३ अंश घटकर उदित होते हैं, तो उन्हें अदृश्य किस तर्क से कहा गया?",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 33,
           "text": "यत्रवेधविधिना ध्रुवोन्नतिर्या नतिश्च भवतोऽक्षलम्बकौ। तौ क्रमाद्विषुवदह्न्यहर्दले येऽथवा नतसमुन्नता लवाः॥३३॥",
           "english": "The altitude of the celestial pole (dhruva-unnati) measured by observation is the latitude (akṣa), and its complement is the co-latitude (lamba). Alternatively, on the equinoctial day at noon, the zenith distance and altitude of Surya give latitude and co-latitude respectively.",
           "hindi": "वेध विधि से जो ध्रुव की उन्नति (ऊँचाई) और नति (नतांश) मिलती है, वे ही क्रमशः अक्षांश और लम्बांश हैं। अथवा विषुवत् दिवस के मध्याह्न में सूर्य के नतांश अक्षांश और उन्नतांश लम्बांश होते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 34,
@@ -298,16 +274,14 @@
           "text": "इष्टापवर्तितां पृथ्वीं कक्षे च शशिसूर्ययोः। भित्तौ विलिख्य तन्मध्ये तिर्यग्रेखां तथोर्ध्वगाम्॥३६॥",
           "english": "Drawing a scaled representation of the Earth and the orbits of Surya and Chandra on a wall, with horizontal and vertical axes through the center...",
           "hindi": "भित्ति (दीवार) पर पृथ्वी और सूर्य-चन्द्र की कक्षाओं का इष्ट प्रमाण से आलेखन करके उनके मध्य में तिर्यक् (क्षैतिज) और ऊर्ध्व रेखाएँ खींचनी चाहिए।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 37,
           "text": "भास्करेऽत्र सममण्डलोपगे यो नरः स समशङ्कुरुच्यते। कोणशङ्कुरथ कोणवृत्तगे मध्यशङ्कुरिति दक्षिणोत्तरे॥३७॥",
           "english": "When Surya is on the prime vertical, the gnomon/sine of altitude is called Sama-śaṅku; when on the corner vertical (intermediate cardinal direction), it is Koṇa-śaṅku; and when on the meridian (south-north), it is Madhya-śaṅku.",
           "hindi": "जब सूर्य समवृत्त (पूर्व-पश्चिम वृत्त) पर होता है तब का शङ्कु 'समशङ्कु', जब कोणवृत्त (विदिशा) में होता है तब 'कोणशङ्कु', और जब याम्योत्तर (दक्षिण-उत्तर) वृत्त पर होता है तब 'मध्यशङ्कु' कहलाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 38,
@@ -321,8 +295,7 @@
           "text": "जीवाग्रका भवति पूर्वपराशयोः सा। अग्राग्रयोः प्रगुणमत्र निबद्धसूत्रं यत्तद्वदन्ति गणका उदयास्तसूत्रम्॥३९॥",
           "english": "The sine of amplitude (agrā) extends from the east-west points. The straight line joining the rising and setting points of a Graha is called the Udayāsta-sūtra (Rising-Setting Line) by astronomers.",
           "hindi": "पूर्व-पश्चिम बिन्दुओं से अग्रज्या (इष्टाग्रा) बनती है। ग्रह के उदय और अस्त बिन्दुओं को जोड़ने वाली सीधी रेखा को गणितज्ञ 'उदयास्तसूत्र' कहते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 40,
@@ -343,8 +316,7 @@
           "text": "भुजोऽपमः कोटिगुणो द्युजीवा कर्णास्त्रिभज्या त्रिभुजेऽपमोत्थे। मेषादिजीवाः श्रुतयोऽपवृत्ते तद्भूमिजे क्रान्तिगुणा भुजाः स्युः॥४३॥",
           "english": "In the right triangle of declination (apama-tribhuja): the perpendicular/base is declination (apama), the altitude/upright is the day-radius sine (dyujīvā), and the hypotenuse is the radius (trijyā). Along the ecliptic, sines of Rashis are hypotenuses, and their declinations are bases.",
           "hindi": "क्रान्तिज्या त्रिभुज (अपम-त्रिभुज) में: क्रान्तिज्या बाहु (लम्ब), द्युज्या कोटि (आधार), और त्रिज्या कर्ण होती है। क्रान्तिवृत्त में मेषादि राशियों की जीवाएँ कर्ण और उनकी क्रान्तियाँ बाहु होती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 44,
@@ -399,64 +371,56 @@
           "text": "पश्चाद्भागाज्जलदवदधः संस्थितोऽभ्येत्य चन्द्रो भानोर्बिम्बं स्फुरदसितया छादयत्यात्ममूर्त्या। पश्चात्स्पर्शो हरिदिशि ततो मुक्तिरस्यात एव क्वापि च्छन्नः क्वचिदपिहितो नैष कक्षान्तरत्वात्॥१॥",
           "english": "Approaching from the west like a dark cloud, Chandra, situated below Surya, covers the shining solar disc with her own dark body. Thus contact begins on the western limb and release occurs on the eastern limb. Due to difference in orbital radii, the eclipse is visible in some places and not in others.",
           "hindi": "पश्चिम दिशा से काले बादल के समान आकर चन्द्रमा, जो सूर्य के नीचे स्थित है, अपने काले शरीर से चमकते हुए सूर्यबिम्ब को ढक लेता है। अतः पश्चिम भाग में स्पर्श और पूर्व भाग में मोक्ष होता है। कक्षाओं के अन्तर के कारण सूर्यग्रहण कहीं दिखता है और कहीं नहीं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 2,
           "text": "द्भूमध्यस्थो न तु वसुमतीपृष्ठनिष्ठस्तदानीम्। तद्दृकसूत्राद्धिमरुचिरधो लम्बितोऽर्कग्रहेऽतः कक्षाभेदादिह खलु नतिर्लम्बनं चोपपन्नम्॥२॥",
           "english": "The observer stands on the surface of the Earth and not at its center. Along the line of sight, Chandra is depressed lower during a solar eclipse; hence parallax in longitude (lambana) and parallax in latitude (nati) arise from orbital differences.",
           "hindi": "द्रष्टा पृथ्वी के पृष्ठ पर रहता है, केन्द्र पर नहीं। दृष्टि-सूत्र के कारण सूर्यग्रहण में चन्द्रमा नीचे झुका हुआ दिखता है; अतः कक्षा-भेद के कारण लम्बन (देशान्तर-लम्बन) और नति (अक्षांश-लम्बन) उत्पन्न होते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 3,
           "text": "समकलकाले भूभा लगति मृगाङ्के यतस्तया म्लानम्। सर्वे पश्यन्ति समं समकक्षत्वान्न लम्बनावनती॥३॥",
           "english": "At the moment of exact opposition, the Earth's shadow touches Chandra. Because all observers view Chandra entering the shadow at the same orbital distance, lunar eclipses show no parallax in longitude or latitude.",
           "hindi": "समकला (सम-अन्तर) काल में भूभा (पृथ्वी की छाया) चन्द्रमा पर लगती है। चूँकि सभी द्रष्टा चन्द्रमा को एक ही कक्षा-दूरी पर छाया में प्रवेश करते देखते हैं, इसलिए चन्द्रग्रहण में लम्बन और नति नहीं होते।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 4,
           "text": "पूर्वाभिमुखो गच्छन्कुच्छायान्तर्यतः शशी विशति। तेन प्राक प्रग्रहणं पश्चान्मोक्षोऽस्य निःसरतः॥४॥",
           "english": "Moving eastward in her orbit, Chandra enters the Earth's shadow. Therefore, contact occurs on the eastern limb of Chandra, and release occurs on the western limb as she exits.",
           "hindi": "अपनी कक्षा में पूर्व की ओर गति करता हुआ चन्द्रमा पृथ्वी की छाया में प्रवेश करता है। इसलिए चन्द्रमा के पूर्वी बिम्ब पर स्पर्श और बाहर निकलते समय पश्चिमी बिम्ब पर मोक्ष होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 5,
           "text": "भानोर्बिम्बपृथुत्वादपृथुपृथिव्याः प्रभा हि सूच्यग्रा। दीर्घतया शशिकक्षामतीत्य दूरं बहिर्याता॥५॥",
           "english": "Because Surya's disc is larger than the Earth's, the Earth's shadow cone tapers into a needle point, extending far beyond Chandra's orbital distance into space.",
           "hindi": "सूर्य का बिम्ब पृथ्वी से बड़ा होने के कारण पृथ्वी की छाया का आकार सूच्यग्र (शंकु रूप) होकर सिकुड़ता जाता है और चन्द्रकक्षा को पार करके सुदूर अन्तरिक्ष में चला जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 6,
           "text": "अनुपातात्तद्दैर्घ्यं शशिकक्षायां च तद्बिम्बम्। भूमेन्दोरन्यादिशि व्यस्तः क्षेपः शशिग्रहे तस्मात्॥६॥",
           "english": "The length of the shadow cone and its diameter at Chandra's orbit are calculated by proportion. Because the shadow is directly opposite Surya from Earth, celestial latitude has a reversed directional effect in lunar eclipses.",
           "hindi": "छाया-शंकु की लम्बाई और चन्द्रकक्षा में उसका व्यास अनुपात से निकाला जाता है। छाया सूर्य के ठीक विपरीत होने से चन्द्रग्रहण में शर (अक्षांश) का प्रभाव विपरीत दिशा में दिखता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "छादकः पृथुतरस्ततो विधोरर्धखण्डितनोर्विषाणयोः। कुण्ठता च महती स्थितिर्यतो लक्ष्यते हरिणलक्षणग्रहे॥७॥",
           "english": "In a lunar eclipse, the obscuring body (Earth's shadow) is much larger than Chandra; hence when partially eclipsed, Chandra's horns appear blunt and the duration of eclipse is long.",
           "hindi": "चन्द्रग्रहण में छादक (भूभा) चन्द्रमा से बहुत बड़ा होता है; अतः खण्डग्रास चन्द्रग्रहण में चन्द्रमा के विषाण (सींग) कुंठित (गोलाकार) दिखते हैं और ग्रहण की स्थिति (अवधि) दीर्घ होती है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 8,
           "text": "अर्धखण्डिततनोर्विषाणयोस्तीक्ष्णता भवति तीक्ष्णदीधितेः। स्यात्स्थितिर्लघुरतो लघुः पृथक् छादको दिनकृतोऽवगम्यते॥८॥",
           "english": "In a solar eclipse, when Surya is partially obscured, his horns appear sharp and the duration is short, proving that the obscuring Chandra is relatively smaller than the Earth's shadow cone.",
           "hindi": "सूर्यग्रहण में जब सूर्य आंशिक रूप से ढकता है, तो उसके विषाण तीक्ष्ण (नुकीले) दिखते हैं और अवधि अल्प होती है, जिससे सिद्ध होता है कि छादक चन्द्रमा भूभा की अपेक्षा छोटा है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 9,
@@ -470,24 +434,21 @@
           "text": "राहुः कुभामण्डलगः शशाङ्कं शशाङ्कगश्छादयतीनबिम्बम्। तमोमयः शंभुवरप्रदानात्सर्वागमानामविरुद्धमेतत्॥१०॥",
           "english": "Rāhu, being of dark nature by the boon of Lord Śiva, enters the Earth's shadow to obscure Chandra, and positioned on Chandra's disc conceals Surya; thus traditional scriptures and astronomical logic remain fully reconciled.",
           "hindi": "राहु भगवान् शिव के वरदान से तमोमय होकर चन्द्रग्रहण में भूभा में प्रवेश करके चन्द्रमा को ढकता है, और सूर्यग्रहण में चन्द्रबिम्ब पर स्थित होकर सूर्य को ढकता है; अतः शास्त्र और ज्योतिष-युक्ति दोनों अविरुद्ध हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "यतः क्वर्धोच्छ्रितो द्रष्टा चन्द्रं पश्यति लम्बितम्। साध्यते कुदलेनातो लम्बेनं च नतिस्तथा॥११॥",
           "english": "Because an observer elevated on the Earth's surface beholds Chandra depressed relative to the geocentric line of sight, parallax in longitude (lambana) and latitude (nati) are computed using the Earth's radius.",
           "hindi": "चूँकि भू-पृष्ठ पर स्थित द्रष्टा चन्द्रमा को भू-केन्द्रीय सूत्र की तुलना में अवनत (नीचे) देखता है, इसलिए पृथ्वी की त्रिज्या (कुदल) से लम्बन और नति का साधन किया जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "इष्टापवर्तितां पृथ्वीं कक्षे च शशिसूर्ययोः। भित्तौ विलिख्य तन्मध्ये तिर्यग्रेखां तथोर्ध्वगाम्॥१२॥",
           "english": "Drawing a scaled diagram of the Earth and the orbits of Surya and Chandra on a wall, with horizontal and vertical reference lines through the center...",
           "hindi": "दीवार पर पृथ्वी तथा सूर्य और चन्द्रमा की कक्षाओं का अनुपात के अनुसार चित्र बनाकर उनके मध्य में क्षैतिज और ऊर्ध्व आधार-रेखाएँ खींचनी चाहिए।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 13,
@@ -501,8 +462,7 @@
           "text": "कृत्वाऽर्केन्दु समुत्पत्तिं लम्बनस्य प्रदर्शयेत्। एकं भूमध्यतः सूत्रं नयेच्चण्डांशुमण्डलम्॥१४॥",
           "english": "Plotting the true positions of Surya and Chandra, one demonstrates the origin of parallax: a line drawn from the Earth's center to the solar disc gives true alignment...",
           "hindi": "सूर्य और चन्द्रमा के स्पष्ट स्थान बनाकर लम्बन का प्रदर्शन किया जाता है: भू-केन्द्र से सूर्यबिम्ब तक खींचा गया सूत्र भू-केन्द्रीय सूत्र (गर्भसूत्र) कहलाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 15,
@@ -516,8 +476,7 @@
           "text": "गर्भसूत्रे सदा स्यातां चन्द्रार्कौ समलिप्तिकौ। दृक्सूत्राल्लम्बितश्चन्द्रस्तेन तल्लम्बनं स्मृतम्॥१६॥",
           "english": "Along the geocentric line (garbha-sūtra), Surya and Chandra have identical longitudes. Along the visual line (dṛk-sūtra), Chandra is seen depressed; hence it is called lambana (parallax).",
           "hindi": "भू-केन्द्रीय सूत्र (गर्भसूत्र) पर सूर्य और चन्द्रमा की स्पष्ट लिप्ताएँ (अंश) समान होती हैं। दृष्टि-सूत्र पर चन्द्रमा नीचे लटकता (अवनत) दिखता है, इसी से इसे 'लम्बन' कहते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 18,
@@ -545,8 +504,7 @@
           "text": "यत्र तत्र नतादर्कादधचन्द्रावलम्बनम्। तद्दृग्वृत्तेऽन्तरं चन्द्रभान्वोः पूर्वापरं तु तत्॥२१॥",
           "english": "The downward displacement of Chandra relative to Surya along the vertical circle gives the spatial separation, resolved into east-west (longitudinal) parallax.",
           "hindi": "सूर्य की तुलना में चन्द्रमा का दृग्वृत्त पर नीचे की ओर विस्थापन दो दिशाओं में विभाजित होता है: पूर्वापर (पूर्व-पश्चिम) और याम्योत्तर (उत्तर-दक्षिण)।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 22,
@@ -574,40 +532,35 @@
           "text": "परलम्बनलिप्ता ४८/४६ घ्नी त्रिज्याप्ता रविदृग्ज्यका। दृग्लम्बनकलास्ताः स्युरेवं दृक्क्षेपतो नतिः॥२५॥",
           "english": "Multiplying the maximum horizontal parallax (48' 46\") by Surya's zenith distance sine and dividing by radius yields total parallax; latitude parallax is similarly derived from dṛkkṣepa.",
           "hindi": "परम क्षैतिज लम्बन (४८' ४६\") को सूर्य की दृग्ज्या से गुणा करके त्रिज्या से भाग देने पर दृग्-लम्बन प्राप्त होता है; इसी प्रकार दृक्क्षेप से नति सिद्ध होती है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 26,
           "text": "गत्यन्तरस्य तिथ्यंशः परलम्बनलिप्तिकाः४८/४६। गतियोजन ११८५९• १/४ तिथ्यंशः कुदलस्य ७९०/३५ यतो मितिः॥२६॥",
           "english": "Maximum horizontal parallax (48' 46\") equals one-fifteenth of the difference in daily motion between Chandra and Surya, derived from Earth's radius (790 yojanas) relative to daily orbital motion (11859 yojanas).",
           "hindi": "परम लम्बन (४८' ४६\") चन्द्र और सूर्य की दैनिक गति के अन्तर का १५वाँ भाग है, जो पृथ्वी की त्रिज्या (७९० योजन) और दैनिक गति (११८५९ योजन) के अनुपात से प्राप्त होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 27,
           "text": "स्युर्लम्बनकला नाड्यो गत्यन्तरलवोद्धृताः। प्रागग्रतो रवेश्चन्द्रः पश्चात्पृष्ठेऽवलम्बितः॥२७॥",
           "english": "Parallax in minutes divided by daily relative motion in degrees yields parallax in nāḍikās. When east of the meridian, Chandra is depressed ahead of Surya; when west, behind.",
           "hindi": "लम्बन-कलाओं को गति-अन्तर के अंशों से भाग देने पर लम्बन-नाड़ी प्राप्त होती है। मध्याह्न रेखा के पूर्व में चन्द्रमा सूर्य से आगे अवनत होता है, और पश्चिम में पीछे।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "शीघ्रेऽग्रगे युतिर्याता गम्या पृष्ठगते यतः। प्रागृणं तद्धनं पश्चात्क्रियते लम्बनं तिथौ॥२८॥",
           "english": "Because the faster-moving Chandra depressed ahead means opposition/conjunction has passed, and depressed behind means it is prospective: parallax time is subtracted east of meridian and added west of meridian to conjunction time.",
           "hindi": "तीव्रगामी चन्द्रमा पूर्व में आगे लटकने से युति (अमावस्या) बीत चुकी होती है और पश्चिम में पीछे होने से भावी होती है; अतः पर्वकाल में पूर्व में लम्बन घटाया जाता है और पश्चिम में जोड़ा जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "याम्योत्तरं शरस्तावदन्तरं शशिसूर्ययोः। नतिस्तथा तथा तस्मात्संस्कृतः स्यात्स्फुटः शरः॥२९॥",
           "english": "The celestial latitude (śara) is the north-south separation between Chandra and Surya; modifying latitude by latitude parallax (nati) yields the apparent/true latitude of Chandra.",
           "hindi": "चन्द्रमा और सूर्य के बीच का उत्तर-दक्षिण अन्तर ही शर (अक्षांश) है; नति (अक्षांश-लम्बन) द्वारा शर को संस्कृत करने पर चन्द्रमा का स्फुट शर प्राप्त होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         }
       ]
     },
@@ -620,8 +573,7 @@
           "text": "तुलाजाद्योर्हि संपाते विषुवत्क्रान्तिवृत्तयोः। स्यातां याम्योत्तरे भिन्ने परक्रान्त्यन्तरे च ते॥३०॥",
           "english": "At the equinoctial points (start of Mesha and Tula), where the celestial equator and ecliptic intersect, their respective north-south directions diverge up to the maximum declination.",
           "hindi": "मेष और तुला के सम्पात (विषुवत् बिन्दुओं) पर विषुवद्वृत्त और क्रान्तिवृत्त की उत्तर-दक्षिण दिशाएँ परम क्रान्ति (२४°) के अन्तर तक भिन्न होती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 31,
@@ -635,8 +587,7 @@
           "text": "एकैव तद्वशात्प्राची तत्र नो वलनं ततः। तदन्तरेऽनुपातेन खेटकोटिक्रमज्यका॥३२॥",
           "english": "Consequently, at the solstices the east directions coincide and āyana-valana is zero. At intermediate points, it is calculated proportionally using the cosine sine (koṭi-jīvā) of the Graha.",
           "hindi": "अयन-संधियों पर दोनों की पूर्व दिशा एक होने से आयन-वलन शून्य होता है। बीच के स्थानों पर ग्रह की कोटिज्या (कोसाइन) के अनुपात से साधन किया जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 33,
@@ -727,8 +678,7 @@
           "text": "तत्तिर्यग्गतसूत्राणां योगः स समसंज्ञकः। समध्रुवकदम्बानामुपरि द्युचरान्नयेत्॥४५॥",
           "english": "The convergence point of vertical circles is called the Zenith Pole (sama). Circles passing through Zenith, Celestial Pole, and Ecliptic Pole are drawn through the Graha.",
           "hindi": "दृग्वृत्तों के सम्पात बिन्दु को 'सम' (शिरोबिन्दु/खमध्य) कहते हैं। खमध्य, ध्रुव और कदम्ब से होकर जाने वाले वृत्त ग्रह के ऊपर खींचे जाते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 46,
@@ -742,16 +692,14 @@
           "text": "कदम्बध्रुवसूत्रान्तरायनं च त्रिभे ग्रहात्। कदम्बसमसूत्रान्तः स्फुटं सर्वदिशां च तत्॥४७॥",
           "english": "Āyana-valana is the angle between Ecliptic Pole-circle and Celestial Pole-circle 90° from Graha; the total angle between Ecliptic Pole-circle and Zenith-circle gives true total valana.",
           "hindi": "ग्रह से ९०° दूर कदम्ब-वृत्त और ध्रुव-वृत्त का कोण आयन-वलन है; कदम्ब-वृत्त और खमध्य-वृत्त के बीच का कुल कोण स्पष्ट (कुल) वलन देता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 48,
           "text": "अथवा परितः खेटात्खाङ्कभागान्तरे न्यसेत्। त्रिज्यावृत्तं ततस्तत्र विषुवत्समवृत्तयोः॥४८॥",
           "english": "Alternatively, drawing a circle of radius R centered on the Graha at 90 degrees distance, the arc between equator and prime vertical...",
           "hindi": "अथवा ग्रह को केन्द्र मानकर ९० अंश की त्रिज्या का वृत्त खींचने पर, विषुवद्वृत्त और समवृत्त के बीच का चाप...",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 49,
@@ -786,16 +734,14 @@
           "text": "कुम्भादावथ मीनादौ याम्यदग्वलयस्थिते। जायते वलनं तद्यत्सौम्यसूत्रकदम्बयोः॥५३॥",
           "english": "As the Graha moves through Kumbha and Meena, the deflection increases according to the angular distance between the northern meridian and Ecliptic Pole.",
           "hindi": "जब ग्रह कुम्भ और मीन राशियों में गति करता है, तो उत्तर याम्योत्तर रेखा और कदम्ब के बीच की कोणीय दूरी के अनुसार वलन बढ़ता जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 54,
           "text": "अन्तरं शिञ्जिनीरूपं कदम्बभ्रममण्डले। अयनाद्गतकालांशक्रमक्रान्तिज्यका हि सा॥५४॥",
           "english": "The separation on the Kadamba circle forms a sine arc; the sine of declination for elapsed time from solstice constitutes the valana sine.",
           "hindi": "कदम्ब के भ्रमण-वृत्त पर वह अन्तर जीवा रूप होता है। अयन-संधि से बीत चुके कालों की क्रम-क्रान्तिज्या ही वलनज्या बनती है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 55,
@@ -948,8 +894,7 @@
           "text": "क्रान्तिवृत्तग्रहस्थानचिह्नं यदा स्यात्कुजे नो तदा खेचरोऽयं यतः। स्वेवुणोत्क्षिप्यते नाम्यते वा कुजात्तेन दृक्कर्म खेटोदयास्ते कृतम्॥१॥",
           "english": "When the point of the ecliptic occupied by a Graha reaches the horizon, the Graha itself is not on the horizon because it is elevated or depressed above or below the horizon by its own celestial latitude. Therefore, visibility corrections (dṛk-karma) are required for heliacal risings and settings.",
           "hindi": "जब ग्रह का क्रान्तिवृत्त-स्थित बिन्दु क्षितिज पर पहुँचता है, तब ग्रह स्वयं अपने शर (अक्षांश) के कारण क्षितिज से ऊपर या नीचे होने से क्षितिज पर नहीं होता। इसी कारण उदयास्त काल में दृक्कर्म संस्कार किया जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 2,
@@ -963,8 +908,7 @@
           "text": "क्षितिजे बलने ये स्तस्तद्वशादिषुणा ग्रहः। याम्येन नाम्यते क्ष्माजात्सौम्येनोन्नाम्यते तथा॥३॥",
           "english": "According to the deflections (valanas) on the horizon, a Graha with southern latitude is depressed below the horizon, while one with northern latitude is elevated above it.",
           "hindi": "क्षितिज पर वलन के अनुसार, दक्षिण शर वाला ग्रह क्षितिज के नीचे अवनत हो जाता है और उत्तर शर वाला ग्रह क्षितिज के ऊपर उन्नत हो जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 4,
@@ -978,16 +922,14 @@
           "text": "तच्चापैक्यान्तराप्राणैः कुजात्खेटो नतोन्नतः। तैः प्राणैर्यत्क्रमाल्लग्नं नतात्खेटात्प्रजायते॥६॥",
           "english": "By the sidereal time (prāṇas) of the sum or difference of these correction arcs, the Graha is depressed or elevated from the horizon; adding or subtracting these prāṇas to the Graha yields its horizon ascension point.",
           "hindi": "इन दोनों संस्कारों के योग या अन्तर के असुओं (प्राणों) द्वारा ग्रह क्षितिज से उन्नत या अवनत होता है; इन प्राणों को ग्रह में जोड़ने या घटाने से उसका क्षितिज-संगम बिन्दु प्राप्त होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "उत्क्रमेणानताद्यच्च तद्ग्रहोदयलग्नकम्। उक्तव्यत्ययतः प्रत्यगस्तलग्नं सषड्ग्रहात्॥७॥",
           "english": "Evaluating the rising Rashi corresponding to that modified point gives the Graha's eastern rising Lagna; reversing the process for Graha plus 6 Rashis gives the western setting Lagna.",
           "hindi": "उस संस्कृत बिन्दु के अनुसार उदयराशि निकालने पर ग्रह का पूर्वी उदयलग्न प्राप्त होता है; और ग्रह में ६ राशियाँ जोड़कर विपरीत प्रक्रिया करने पर पश्चिमी अस्तलग्न प्राप्त होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 8,
@@ -1008,8 +950,7 @@
           "text": "सत्रिराशिग्रहद्युज्यानिघ्नस्त्रिज्योद्धृतः शरः। स्फुटोऽसौ क्रान्तिसंस्कारे दृक्कर्मण्यक्षजे तथा॥१०॥",
           "english": "Celestial latitude multiplied by day-radius of Graha plus 90° and divided by radius R gives the rectified latitude (sphuṭa-śara), used in declination combination and akṣaja visibility correction.",
           "hindi": "ग्रह के ९०° आगे के अहोरात्र वृत्त की त्रिज्या (द्युज्या) से शर को गुणा करके त्रिज्या से भाग देने पर स्फुट-शर प्राप्त होता है, जिसका प्रयोग क्रान्ति-संस्कार और अक्षज दृक्कर्म में होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 11,
@@ -1065,8 +1006,7 @@
           "text": "दृङ्मण्डलाकारतयाऽपवृत्तं तद्याम्यसौम्यं क्षितिजं तदा स्यात्। क्षिप्तोऽपि खेटः परमेषुणाऽत्र याम्योत्तरत्वात्क्षितिजं न जह्यात्॥२०॥",
           "english": "When the ecliptic coincides with the vertical circle, the horizon becomes perpendicular to it; a Graha with maximum latitude lying north or south would still remain on the horizon line.",
           "hindi": "जब क्रान्तिवृत्त दृग्वृत्त के सम्पाती होता है, तब क्षितिज उसके लम्बवत् हो जाता है; परम शर वाला ग्रह उत्तर या दक्षिण में होते हुए भी क्षितिज रेखा पर ही रहता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 21,
@@ -1107,32 +1047,28 @@
           "text": "सूर्यादधःस्थस्य विधोरधःस्थमर्धंं नृदृश्यं सकलासितं स्यात्। दर्शेऽथ भार्धान्तरितस्य शुक्लं तत्पौर्णमास्यां परिवर्तनेन॥२॥",
           "english": "When Chandra is positioned below Surya at New Chandra, her lower hemisphere visible to humans is entirely dark. At Full Chandra, being 180 degrees opposite Surya, that visible lower hemisphere becomes completely illuminated.",
           "hindi": "अमावस्या (दर्श) को सूर्य के नीचे स्थित चन्द्रमा का मनुष्य-दृश्य निचला आधा भाग पूर्णतः काला होता है। पूर्णिमा को सूर्य से १८०° दूर होने से वह निचला दृश्य भाग पूर्णतः प्रकाशित हो जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 3,
           "text": "कक्षाचतुर्थे तरर्णेर्हि चन्द्रकर्णान्तरे तिर्यगिनो यतोऽब्जात्। पादोनषट्काष्ट८९लवान्तरेऽतो दलं नृदृश्यस्य दलस्य शुक्लम्॥३॥",
           "english": "At first or third quarter, when Surya is at a right angle (89° 51' elongation accounting for distance ratio), Surya shines laterally on Chandra; hence exactly half of the visible lunar hemisphere is illuminated.",
           "hindi": "प्रथम या तृतीय चतुर्थांश (अष्टमी) में जब सूर्य चन्द्रमा से समकोण पर (८९° ५१' दूरी पर) होता है, तब सूर्य पार्श्व से चमकता है; अतः दृश्य चन्द्रगोल का ठीक आधा भाग शुक्ल (प्रकाशित) दिखता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 4,
           "text": "४५ उपचितिमुपयाति शौक्ल्यमिन्दोस्त्यजत इनं व्रजतश्च मेचकत्वम्। जलमयजलजस्य गोलकत्वात् प्रभवति तीक्ष्णविषाणरूपताऽस्य॥४॥",
           "english": "As Chandra moves away from Surya, her brightness increases; as she approaches Surya, dark area increases. Because the watery, lotus-like Chandra is a sphere, her illuminated portion naturally assumes the form of sharp-pointed horns.",
           "hindi": "जैसे-जैसे चन्द्रमा सूर्य से दूर जाता है उसका शुक्ल भाग बढ़ता है; सूर्य के समीप आने पर कृष्ण भाग बढ़ता है। जलमय कमल के समान गोल चन्द्रमा के गोल होने से ही उसके प्रकाशित भाग तीक्ष्ण विषाण (सींग) का रूप लेते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 5,
           "text": "यद्याम्योदक् तपनशशिनोरन्तरं सोऽत्र बाहुः कोटिस्तूर्ध्वाधरमपि तयोर्यच्च तिर्यक् स कर्णः। दोर्मूलेऽर्कः शशिदिशि भुजोऽग्राच्चकोटिस्तदग्रे चन्द्रः कर्णो रविदिगनया दीयते तेन शौक्क्यम्॥५॥",
           "english": "The north-south distance between Surya and Chandra forms the base (bāhu), their vertical height difference forms the upright (koṭi), and the line joining them forms the hypotenuse (karṇa). The Surya is at the base vertex, Chandra at the top of the upright, and illumination is directed along the hypotenuse towards Chandra.",
           "hindi": "सूर्य और चन्द्रमा का उत्तर-दक्षिण अन्तर बाहु (आधार), ऊँचाई का अन्तर कोटि (लम्ब), और उनको मिलाने वाली रेखा कर्ण बनती है। बाहुमूल पर सूर्य, कोट्यग्र पर चन्द्रमा और कर्ण के अनुदिश प्रकाश पहुँचता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 6,
@@ -1166,24 +1102,21 @@
           "text": "रविचिह्नस्य च्छाया पतति कुमध्ये यथा तथा विधृते। उडुगोले कुजविन्द्वोर्मध्ये नाड्यो द्युयाताः स्युः॥४॥",
           "english": "Holding the stellar globe so that the shadow of Surya-mark falls on the Earth's center, the arc between horizon and mark on the equator ring indicates elapsed day-nāḍikās.",
           "hindi": "सूर्य-चिह्न की छाया भू-केन्द्र पर पड़ने पर नाड़ीवृत्त पर बीती नाड़ियाँ ज्ञात होती हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 5,
           "text": "अपवृते कुजलग्ने लग्नं चाथो खगोलनलिकान्तः। भूस्थं ध्रुवष्टिस्थं चक्रं षष्ट्या निजोदयैश्वाङ्क्यम्॥५॥",
           "english": "The point where ecliptic meets horizon is the Lagna; observing through the sighting tube aligned with the pole, a circular instrument fixed on the polar axis marked with 60 graduations and Rashi risings is used.",
           "hindi": "ध्रुव-अक्ष के अनुदिश नलिका से देखकर, ध्रुवयष्टि पर ६० विभागों और राशि-उदयों से चिह्नित चक्र स्थापित करके लग्न साधन किया जाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 6,
           "text": "व्यस्तैर्यष्टीभायामुदयेऽर्कं न्यस्य नाडिका ज्ञेयाः। इष्टच्छायासूर्यान्तरेऽथ लग्नं प्रभायां च॥६॥",
           "english": "Placing Surya opposite the staff shadow at sunrise yields elapsed nāḍikās; measuring the distance between Surya and shadow point determines elapsed time and Lagna.",
           "hindi": "सूर्योदय पर यष्टि की छाया के विपरीत सूर्य को रखकर बीती नाड़ियाँ ज्ञात की जाती हैं; छाया और सूर्य के अन्तर से इष्टकाल और लग्न सिद्ध होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 7,
@@ -1218,8 +1151,7 @@
           "text": "तन्मध्ये सूक्ष्माक्षं क्षिप्त्वाऽर्काभिमुखनेमिकं धार्यम्। भूमेरुन्नतभागास्तत्राक्षच्छायया भुक्ताः॥११॥",
           "english": "Fitting a fine central axis and pointing the rim toward Surya, the shadow cast by the pin on the graduated rim measures the solar altitude degrees.",
           "hindi": "इसके केन्द्र में सूक्ष्म अक्ष लगाकर परिधि को सूर्य की ओर करने पर अक्ष की छाया उन्नतांश बताती है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 12,
@@ -1233,16 +1165,14 @@
           "text": "पैत्रर्क्षपुष्यान्तिमवारुणानामऋक्षद्वयं नेमिगतं यथा स्यात्। दूरेऽन्तरेऽल्पेषुभखेचरौ वा तथाऽत्र यन्त्रं सुधिया प्रधार्यम्॥१३॥",
           "english": "Positioning pair-stars such as Maghā, Puṣya, Revatī, Śatabhiṣā on the instrument rim or sighting two distant Grahas/stars, the wise astronomer holds the instrument steadily.",
           "hindi": "मघा-पुष्य, रेवती-शतभिषा आदि तारा-युग्मों या ग्रहों को चक्र की नेमि पर साधकर ज्योतिषी यन्त्र को स्थिर रखता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "नेमिस्थदृष्ट्याऽक्षगतं प्रपश्येत् खेटं च धिष्ण्यस्य च योगताराम्। नेम्यङ्कयोरक्षयुजोस्तु मध्ये येंऽशाः स्थिता भध्रुवको युतस्तैः॥१४॥",
           "english": "Sighting the Graha or junction star through the rim pin aligned with the center axis, the degrees between rim mark and center give the latitude/polar distance added to star polar longitude.",
           "hindi": "नेमि पर स्थित छिद्र से केन्द्र-अक्ष के अनुदिश ग्रह या योगतारा को देखने पर, नेमि-चिह्न और केन्द्र का अन्तर ग्रह का ध्रुवक और अक्षांश देता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 16,
@@ -1256,8 +1186,7 @@
           "text": "नित्यं जाड्यतमोहरं सुमनसामुल्लासनं सप्रभं चाक्लेशं समयावबोधनविधौ प्रोद्बोधितज्योतिषम्। सेव्यं मण्डलमध्यगं सुकृतिभिर्यन्त्रं स्फुटं वच्म्यहं नत्वैतद्गुणमेव देवममलं श्रीभास्करं भास्करः॥१७॥",
           "english": "Bowing to the luminous Lord Surya (Bhāskara), who dispels darkness and brings joy to the virtuous, I, Bhāskara, clearly describe this superb instrument (Phalaka-yantra) which effortlessly illuminates astronomical time.",
           "hindi": "अज्ञान-तिमिर का नाश करने वाले, विद्वानों को प्रसन्न करने वाले, जगत्-प्रकाशक भगवान् सूर्य को प्रणाम करके मैं (भास्कर) काल-बोधक श्रेष्ठ फलक-यन्त्र का वर्णन करता हूँ।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 19,
@@ -1306,8 +1235,7 @@
           "text": "धार्यं तथा फलकयन्त्रमिदं यथैव तत्पार्श्वयोर्लगति तुल्यमिनस्य तेजः। छायाऽक्षजा स्पृशति तत्परिधौ यमंशं तत्रांशके मतिमता तरणिः प्रकल्प्यः॥२५ ॥",
           "english": "Holding the Phalaka board so that sunlight strikes both sides equally, the point on the rim touched by the shadow of the central pin determines Surya's altitude position.",
           "hindi": "फलक यन्त्र को इस प्रकार धारण करना चाहिए कि सूर्य का प्रकाश दोनों पार्श्वों पर समान पड़े; केन्द्रीय पिन की छाया जिस नेमि-भाग को स्पर्श करे, वह सूर्य की स्थिति दर्शाता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 26,
@@ -1377,24 +1305,21 @@
           "text": "तद्धनुराद्ये चरणे वर्षस्यार्कः प्रजायतेऽग्येषु। भार्धाच्च्युतः स भार्धो भगणात्‌ पतितोऽष्दचरणानाम्॥३७॥",
           "english": "Its arc gives the true solar longitude in the first quadrant of the year; in subsequent quadrants, it is subtracted from 6 Rashis, added to 6 Rashis, or subtracted from 12 Rashis.",
           "hindi": "उसका चाप वर्ष के प्रथम चतुर्थांश में स्पष्ट सूर्य देता है; अन्य चतुर्थांशों में ६ राशि में घटाकर, ६ राशि में जोड़कर या १२ राशि में घटाकर सूर्य सिद्ध होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 38,
           "text": "ऋतुचिह्नैर्ज्ञानं x  स्यादृतुचिह्नन्यग्रतस्ततो वक्षये। भात्रितयाद्भाभ्रमणं* न सदस्माद्दिकप्लाद्यं च॥३८॥",
           "english": "Knowledge of seasons is obtained through shadow marks; I shall now explain season marks. Shadow rotation beyond 3 Rashis is not uniform, hence direction and latitude are derived.",
           "hindi": "छाया-चिह्नों से ऋतुओं का ज्ञान होता है; ३ राशियों से अधिक छाया-भ्रमण सम नहीं होता, अतः दिशा और अक्षांश साध्य होते हैं।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 39,
           "text": "छायातोऽग्रातो वा भानुः सक्रान्तिपात एव स्यात्‌। पातोनः स्फुटभानुः स्फुटभानूनो भवेत्‌ पातः॥३९॥",
           "english": "Solar longitude derived from shadow or amplitude includes ayanāṁśa (precession); subtracting ayanāṁśa yields true tropical/sidereal Surya, and subtracting true Surya yields ayanāṁśa.",
           "hindi": "छाया या अग्रा से प्राप्त सूर्य अयनांश-युक्त होता है; अयनांश घटाने पर स्पष्ट सायन/निरयण सूर्य प्राप्त होता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 40,
@@ -1436,8 +1361,7 @@
           "text": "ऊर्ध्वस्थस्य गृहादिभिर्व्यवहितस्याप्यग्रमात्रं सखे वंशस्य प्रगुणस्य यस्य सुसमे देशे समालोक्यते। अत्रैव त्वमवस्थितो यदि वदस्यस्यान्तरं चोच्छ्रयं मन्ये यन्त्रविदां वरिष्ठपदवीं यातोऽसि धीयन्त्रवित्॥४७॥",
           "english": "O friend! If you can stand right here and determine the distance and height of a tall bamboo hidden behind Bhavas, whereof only the tip is visible across level ground, I consider you to have attained the supreme rank among masters of instrument-astronomy!",
           "hindi": "हे मित्र! यदि तुम समतल भूमि पर खड़े होकर भवनों के पीछे छिपे हुए विशाल बाँस की केवल नोक को देखकर उसकी दूरी और ऊँचाई बता दो, तो तुम्हें यन्त्रवेत्ताओं में सर्वश्रेष्ठ मानता हूँ!",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 48,
@@ -1568,32 +1492,28 @@
           "text": "अपरखेचरपर्यतताडिता द्युगणको द्युचरम्मतमानयेत्। अभिमतैः गुणकैः उत ताडितात्। भवति तंत्रविदां स शिरोमणिः॥२॥",
           "english": "He who can calculate the mean position of a Graha from Ahargaṇa multiplied by revolutions of another Graha or desired multipliers is truly a Śiro-maṇi (Crest-Jewel) among astronomers.",
           "hindi": "जो अन्य ग्रह के भगणों या इच्छित गुणकों से गुणित अहर्गण से मध्यम ग्रह ला सकता है, वह ज्योतिर्विदों का शिरोमणि (श्रेष्ठ) है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 3,
           "text": "विमाधिमासैरपमैरहर्गणं विना द्युराशिं च शशिप्रभाकरौ। विना च ताभ्यां तिथियोगभादिकं प्रवक्ति यस्सोऽत्र सुतंत्रक्तिमः॥३॥",
           "english": "He who can determine Ahargaṇa without intercalary months or omitted lunar days, or compute Tithi, Yoga, and Nakṣatra without knowing the explicit positions of Surya and Chandra, is a master of astronomy.",
           "hindi": "जो अधिमास और अवम दिनों के बिना अहर्गण निकाल दे, अथवा सूर्य-चन्द्र के बिना तिथि, योग और नक्षत्र बता दे, वही सच्चा तन्त्रवेत्ता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 4,
           "text": "एवं विलोक्यापमशेषमेव समानयत्यर्कमहर्गणं वा। सौद्धान्तिकानां गणकैकवन्द्यो गर्वं स खर्वो कुरुतेऽखिलानाम्॥४॥",
           "english": "He who, merely observing the remaining declination, calculates the true Surya or the Ahargaṇa, humbles the pride of all competing Siddhāntic astronomers.",
           "hindi": "जो केवल शेष क्रान्ति को देखकर स्पष्ट सूर्य या अहर्गण का साधन कर देता है, वह सभी सिद्धान्तियों के गर्व को चूर्ण कर देता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 5,
           "text": "ज्यामिर्विनैव भुजकोटिगुणौ प्रवक्ति स्पष्टं च यो दिनगणात् स्थितिमिष्टखेचरात्। तिग्मांशुना तुहिनदीधितिना विना वा सिद्धान्तविभिनदितस्स महीतलेऽस्मिन्॥५॥",
           "english": "He who calculates sine and cosine values without sine tables and determines true planetary positions directly from Ahargaṇa without Surya or Chandra is famed across the Earth.",
           "hindi": "जो ज्या-सारणी के बिना भुजज्या और कोटिज्या स्पष्ट बता देता है और सूर्य-चन्द्र के बिना अहर्गण से ग्रह-स्थिति लाता है, वह जगत् में प्रसिद्ध है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 6,
@@ -1607,8 +1527,7 @@
           "text": "स्तद्योगो गुणसंगुणात्सुरगुरो राश्यादिकात्पातितः। शेषं चापरपर्ययोत्थखचरेणेनं युतं वा शनिः॥७॥",
           "english": "Given the sum of planetary longitudes multiplied by factors and adjusted by Guru's position, computing Shani or other Grahas through residual cycle equations...",
           "hindi": "गुणकों से गुणित ग्रहों के योग और गुरु की स्थिति से शनि आदि ग्रहों का साधन करना...",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 8,
@@ -1622,8 +1541,7 @@
           "text": "अज्ञातखेटः स्वमृणं कृतश्चेदज्ञातचक्राणि भवन्ति तानि। क्वहाः प्रदेया अविशुद्धशुद्धौ क्वहैश्च तक्ष्यं कुदिनाधिकं चेत्॥९॥",
           "english": "If an unknown Graha is added or subtracted, its revolutions become unknown variables; civil days (kuhā/kudina) are added or subtracted to achieve non-negative remainders in pulverizer (kuṭṭaka) division.",
           "hindi": "अज्ञात ग्रहों के चक्रों को कुट्टक (कुट्टक गणित) द्वारा हल करके इष्ट वार (सप्ताह का दिन) और अहर्गण सिद्ध करने की विधि।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 10,
@@ -1658,16 +1576,14 @@
           "text": "भागा भागदलं गृहाणि शशिनः खत्रीन्दवस्तद्युतिः दृष्टा चन्द्रदिने कदा वद पुनस्तादृक् च काव्याहनि यक्ताव्यक्तविविक्तयुक्तिगणितं विद्वन्द्विजानासि चेत्॥१७॥",
           "english": "If the sum of degrees, half-degrees, and Rashis of Chandra equals 130 on a Monday, tell when the same combination occurs on a Friday, O learned scholar who understands algebra!",
           "hindi": "यदि सोमवार को चन्द्रमा के अंश, अर्धांश और राशियों का योग १३० दिखे, तो बताओ कि वही योग शुक्रवार को कब होगा, हे बीजगणित के ज्ञाता विद्वान्!",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "अस्य भङ्गः(२)। राश्यादेर्विका दृढकुदिनगुणाश्चक्रविकलिकाभक्ताः शेषत्यागे लब्धं रूपयुतं भगणशेषं स्यात्॥१८॥",
           "english": "Solution: Convert Rashis and degrees to seconds, multiply by reduced civil days, divide by total seconds in a revolution; discarding remainder, quotient plus 1 gives revolution remainder.",
           "hindi": "समाधान: राशियों और अंशों को विकला (सेकण्ड) बनाकर दृढ-कुदिनों से गुणा करके चक्र-विकलाओं से भाग देना; शेष छोड़कर लब्धि में १ जोड़ने पर भगण-शेष आता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 19,
@@ -1688,8 +1604,7 @@
           "text": "उदाहरणम्। चक्राग्रं  शशिनः खखाभ्रगगनप्राणर्तुभूमि १६५०००० र्हृतं शुध्येञ्चेन्न खिलं फलं कृतगुणाष्टाङ्गाहिनागा ८८६८३४ हतम् विश्वाग्न्यङ्गशराङ्ककै ९४६३१३ श्च विभजेत् स्याच्छेषमङ्नां मणस्तावत् तत्र हरं क्षिपेदभिमते यावद्भवेद्वासरे॥२१॥",
           "english": "Example: If Chandra's revolution remainder divided by 1,650,000 leaves no remainder, it is valid; multiplying by 886,834 and dividing by 946,313, the remainder gives Ahargaṇa, incremented by divisor until weekday matches.",
           "hindi": "उदाहरण: चन्द्रमा का चक्राग्र १६,५०,००० से निःशेष विभाजित हो तो शुद्ध है; उसे ८८६,८३४ से गुणा करके ९४६,३१३ से भाग देने पर शेष अहर्गण देता है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 23,
@@ -1759,8 +1674,7 @@
           "text": "नाक्षत्रा उत सावनास्तनुकृतौ नाड्योऽथ चेत् सावना नाक्षत्रा उदयाः कथं विसदृशास्ताभ्यो विशोध्या वद। नाक्षत्रा यदि तद्युरात्रसदृशे काले गतेऽकाधिकं किं लग्नं न समं ततो दिनकरस्तात्कालिकः किं कृतः॥३७॥",
           "english": "Are nāḍikās used in Lagna calculation sidereal or civil? If civil, why are unequal sidereal risings subtracted from them? If sidereal, why is true Surya calculated when sidereal day elapsed gives identical Lagna?",
           "hindi": "लग्न साधन में सावन नाड़ियाँ ली जाती हैं या नाक्षत्र? यदि सावन तो विषम नाक्षत्र उदयमान क्यों घटाए जाते हैं? यदि नाक्षत्र तो तात्कालिक सूर्य क्यों लिया जाता है?",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 38,
@@ -1774,8 +1688,7 @@
           "text": "दिनकरे करिवैरिदलस्थिते नरसमा नरभापराङ्मुखी। भवति यत्र पटो पुटभेदने कथय तान्त्रिक तत्र पलप्रभाम्॥३९॥",
           "english": "In a city where when Surya is at the middle of Simha (15° Simha) the gnomon shadow equals gnomon height facing north, calculate the local equinoctial shadow!",
           "hindi": "जब सूर्य १५° सिंह राशि में हो और शङ्कु-छाया शङ्कु की ऊँचाई के बराबर उत्तर दिशा में हो, तो स्थानीय पलभा बताना।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 40,
@@ -1789,8 +1702,7 @@
           "text": "मार्तण्डे सममण्डलं प्रविशतिच्छाया किलाष्ट्यङ्गुला दृष्टाष्टासु घटीषु कुत्रचिदपि स्थाने कदाचिद्दिने। अर्कक्रान्तिगुणं तदा वदसि चेदक्षप्रभां तत्र च त्रिप्रश्नप्रचुरप्रपञ्चचतुरं मन्ये त्वदन्यं नहि(१)॥४१॥",
           "english": "If when Surya enters the prime vertical at 8 nāḍikās after sunrise the shadow is observed to be 8 inches, tell the solar declination-sine and local latitude shadow!",
           "hindi": "यदि सूर्य १० नाड़ी पर समवृत्त में प्रवेश करते समय ८ अङ्गुल छाया बनाए, तो क्रान्तिज्या और पलभा बताना।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 42,
@@ -1804,8 +1716,7 @@
           "text": "र्यास्तद्दिग्विवरान्तरान्तरगता याः प्रच्छकेच्छावशात्। ता एकानयनेन चानयति यो मन्ये तमन्यं भुवि ज्योतिर्विद्वदनारविन्दमुकुलप्रोल्लासने भास्करम् (१)॥४६॥",
           "english": "He who computes all intermediate directional shadow problems by a single unified mathematical method, I consider him another Surya on Earth illuminating the lotus faces of astronomers!",
           "hindi": "जो विद्वान् सभी दिशाओं की छायाओं के प्रश्नों को एक ही एकीकृत गणितीय सूत्र से सिद्ध कर देता है, वह पृथ्वी पर दूसरा सूर्य है।",
-          "status": "translated",
-          "english_draft": ""
+          "status": "translated"
         },
         {
           "number": 58,
@@ -1844,5 +1755,6 @@
         }
       ]
     }
-  ]
+  ],
+  "status": "translated"
 }
