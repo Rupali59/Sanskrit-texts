@@ -3,8 +3,8 @@
 TWO ROLES, NEVER ONE. `owner_engine` is the migration/ingest identity; `api_engine` is what a
 consumer gets. They must be different Postgres roles, because a table OWNER can re-grant past
 any REVOKE and is not subject to RLS unless it is FORCEd — so a publication gate built on
-GRANT is worth nothing if the application connects as owner. docker-compose.yml creates only
-the owner; the API role is created by the migration.
+GRANT is worth nothing if the application connects as owner. Cluster setup creates only the
+owner; the API role is created by the migration.
 """
 
 from __future__ import annotations
@@ -18,8 +18,10 @@ from sqlalchemy.engine import Engine
 
 from sanskrit_texts.dsn_guard import assert_local_store
 
-# docker-compose.yml maps the container's 5432 to host 5433 — NOT 5432, which
-# ports.yml allocates to Divyansh/AuroraV3/postgres-forward.
+# 5433 — NOT 5432, which ports.yml allocates to Divyansh/AuroraV3/postgres-forward. The store
+# was a Docker container until 2026-09-29 and is now a second Homebrew postgresql@18 cluster at
+# /opt/homebrew/var/sanskrit-texts-pg; the port did not change, and `dsn_guard.EXPECTED_PORT`
+# asserts it independently. See docs/DATABASE.md.
 OWNER_DSN = os.environ.get(
     "CORPUS_OWNER_DSN",
     "postgresql+psycopg://corpus_owner:corpus_local_dev@127.0.0.1:5433/sanskrit_texts_test",

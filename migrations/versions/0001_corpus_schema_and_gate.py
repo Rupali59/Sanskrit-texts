@@ -6,8 +6,8 @@ Create Date: 2026-09-16
 
 THE ROLE AND THE VIEWS ARE THE POINT OF THIS MIGRATION, not the tables.
 
-docker-compose.yml creates exactly one role, the OWNER. That is deliberate: a single
-POSTGRES_USER hands every consumer the owner credentials, and a table owner can re-grant past
+Cluster setup creates exactly one role, the OWNER. That is deliberate: a single
+bootstrap superuser hands every consumer the owner credentials, and a table owner can re-grant past
 any REVOKE and is not subject to RLS unless it is FORCEd. So a publication gate built on GRANT
 is worth nothing if the application connects as owner. The read-only role is created HERE,
 given SELECT on the published views and nothing at all on `annotation` / `annotation_revision`.

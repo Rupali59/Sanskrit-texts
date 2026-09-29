@@ -11,30 +11,44 @@ UV   := UV_PROJECT_ENVIRONMENT=$(VENV) uv
 OWNER_DSN ?= postgresql+psycopg://corpus_owner:corpus_local_dev@127.0.0.1:5433/sanskrit_texts
 TEST_DSN  ?= postgresql+psycopg://corpus_owner:corpus_local_dev@127.0.0.1:5433/sanskrit_texts_test
 
+# NOT Docker, since 2026-09-29. Docker defined exactly one service here -- a postgres:16 --
+# and the Docker Desktop VM disk failed, taking the store with it. This is a SECOND Homebrew
+# cluster (postgresql@18) with its own data directory; the default brew instance runs on 5435
+# for obsidian-vk-publish and must not be shared. 5433 is fixed by ports.yml AND by
+# sanskrit_texts/dsn_guard.py EXPECTED_PORT -- change one without the other and the guard lies.
+PGDATA_CORPUS := /opt/homebrew/var/sanskrit-texts-pg
+PG_PLIST      := $(HOME)/Library/LaunchAgents/com.rupali.sanskrit-texts-postgres.plist
+
 .PHONY: help setup deps db migrate testdb import hello export test check clean-db
 
 help:  ## show this
 	@grep -E '^[a-z-]+:.*?## ' $(MAKEFILE_LIST) | awk 'BEGIN{FS=":.*?## "}{printf "  %-10s %s\n",$$1,$$2}'
 
-setup: deps db migrate testdb  ## everything: deps, container, schema, test database
+setup: deps db migrate testdb  ## everything: deps, local cluster, schema, test database
 	@echo
 	@echo "Ready. Try:  make hello"
 
 deps:  ## create .venv-corpus and install
 	$(UV) sync --extra dev
 
-db:  ## start postgres on 5433 and wait for it
-	docker compose up -d
-	@until docker compose exec -T postgres pg_isready -U corpus_owner -q 2>/dev/null; do sleep 1; done
-	@echo "postgres ready on 5433"
+db:  ## start the local postgres on 5433 and wait for a REAL catalog read
+	@launchctl list 2>/dev/null | grep -q com.rupali.sanskrit-texts-postgres \
+	  || launchctl load $(PG_PLIST)
+	@# pg_isready is NOT the readiness check, and this is not a style preference. On 2026-09-29 it
+	@# reported "accepting connections" for 13 days against a cluster that could not read
+	@# global/pg_filenode.map. It proves a postmaster is listening; only a catalog read proves the
+	@# cluster can be used. rule:discernment-checks 1 -- a check that cannot fail is worse than none.
+	@until psql -h 127.0.0.1 -p 5433 -U corpus_owner -d postgres -tAc 'select 1' >/dev/null 2>&1; \
+	  do sleep 1; done
+	@echo "postgres ready on 5433 (catalog read OK, not merely listening)"
 
 migrate:  ## create the schema, the published views and the read-only API role
 	CORPUS_OWNER_DSN="$(OWNER_DSN)" $(VENV)/bin/alembic upgrade head
 
 testdb:  ## the suite's own database — the TRUNCATE guard requires the _test suffix (G59)
-	@docker compose exec -T postgres psql -U corpus_owner -d postgres -tc \
+	@psql -h 127.0.0.1 -p 5433 -U corpus_owner -d postgres -tAc \
 	  "SELECT 1 FROM pg_database WHERE datname='sanskrit_texts_test'" | grep -q 1 || \
-	  docker compose exec -T postgres createdb -U corpus_owner sanskrit_texts_test
+	  createdb -h 127.0.0.1 -p 5433 -U corpus_owner -O corpus_owner sanskrit_texts_test
 	CORPUS_OWNER_DSN="$(TEST_DSN)" $(VENV)/bin/alembic upgrade head
 
 hello:  ## the fast loop: one small text, nothing written

@@ -8,10 +8,37 @@ text is not filtered out at read time, it is absent from what a consumer can rea
 ## Getting started
 
 ```sh
-make setup     # deps, the container on 5433, the schema, and the test database
+make setup     # deps, the local cluster on 5433, the schema, and the test database
 make hello     # one small text, dry run, nothing written
 make import    # the whole corpus
 make test
+```
+
+### Where the database actually runs — NOT Docker, since 2026-09-29
+
+A **second Homebrew `postgresql@18` cluster**, data directory `/opt/homebrew/var/sanskrit-texts-pg`,
+started by the LaunchAgent `com.rupali.sanskrit-texts-postgres`. `postgresql@18`'s *default*
+instance listens on 5435 and belongs to `obsidian-vk-publish`; do not put corpus data in it.
+
+**Port 5433 is asserted in two places** — `~/Documents/GitHub/scripts/execution/ports.yml` and
+`sanskrit_texts/dsn_guard.py`'s `EXPECTED_PORT`, which gates every destructive operation. Change
+one without the other and the guard keeps passing while pointing at nothing.
+
+**Why it stopped being Docker.** `docker-compose.yml` (deleted 2026-09-29; see git history) defined exactly one service, a `postgres:16`
+— Docker was a launcher, not architecture. On 2026-09-29 the Docker Desktop VM disk failed (host
+disk 95% full, `Docker.raw` unable to allocate) and the store became unreadable; the volume
+disappeared from Docker's metadata. Two *unrelated* clusters died on the same file,
+`global/pg_filenode.map`. Nothing was lost — the corpus JSON is the source of truth, every
+annotation imports as `draft`, and nothing had ever been approved — so the store was simply
+rebuilt from the JSON.
+
+**`pg_isready` is not a liveness check for this store, and that is the lesson worth keeping.** It
+reported `accepting connections` for the entire 13 days the cluster was unreadable, because it
+proves a postmaster is listening and nothing more. `make db` now waits on a real catalog read.
+`rule:discernment-checks` §1 — a check that cannot fail is worse than no check.
+
+```sh
+psql -h 127.0.0.1 -p 5433 -U corpus_owner -l    # the check that would have caught it
 ```
 
 `make help` lists the rest. **Derive every number below rather than trusting it** —
@@ -26,9 +53,9 @@ CORPUS_API_DSN     the consumer. SELECT on the published views, nothing else.
 ```
 
 A table **owner can re-grant past any REVOKE** and is not subject to RLS unless it is FORCEd,
-so a gate built on GRANT is worth nothing if the application connects as owner. `compose`
+so a gate built on GRANT is worth nothing if the application connects as owner. Cluster setup
 creates only the owner; the migration creates `corpus_api` and grants it SELECT on two views.
-`corpus_owner` is additionally a **superuser** (compose makes `POSTGRES_USER` one), which is
+`corpus_owner` is additionally a **superuser** (`initdb -U corpus_owner` makes it one), which is
 the sharpest form of the same point: the gate is the *view definition plus the grant*, and it
 protects consumers, never the owner.
 
