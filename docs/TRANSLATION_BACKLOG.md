@@ -401,20 +401,61 @@ for exactly this reason; it only flags one English across two *different* verses
 That text is now 650 verses with zero repeats, so it was re-segmented since. The gotcha is stale
 for this text; leave the entry, it still describes the hazard class.)
 
-#### Two output shapes that currently pass every check — do not emit either
+#### Two output shapes to never emit — and a correction to what this section used to claim
 
-Both were produced during the Āyurveda run, both carried `status: translated`, and
-`sanskrit_texts.translation_status` returned **no defect** for either:
+> **CORRECTED 2026-09-28.** This section was headed *"Two output shapes that currently pass every
+> check"* and said `translation_status` returned **no defect** for either. **That is false, and it
+> was false at the scale the section itself describes.** Measured against the real checker:
+>
+> | occurrences of one value in a text | what `check_text` reports |
+> |---|---|
+> | 1 | no defect |
+> | 2 | `misaligned` |
+> | 3 or more | `label-only` **and** `misaligned` |
+>
+> The Bhela case was **50** verses and the Aṣṭāṅgasaṅgraha case **11**, so both tripped two
+> defect codes each. The checker caught them; the sentence saying it did not was wrong.
+> `rule:discernment-checks` §1 — I asserted a hole without constructing the input that proves it.
 
-1. `[Sanskrit source unavailable]` — served as the English of 50 Bhela verses whose Sanskrit was
-   present. The label was simply false.
+Do not emit either shape. They are caught, but catching them costs a repair pass.
+
+1. `[Sanskrit source unavailable]` served as the English of 50 Bhela verses whose Sanskrit was
+   present. The label was simply false. (No longer in the corpus.)
 2. **One summary sentence served across a run of verses.** Aṣṭāṅgasaṅgraha peaked at 91 groups,
    one of them eleven consecutive verses sharing *"One should apply the paste of the seeds of the
    Bhallataka…"* while their Sanskrit listed eleven different ingredient sets. This destroys ten
    translations per group — unlike displacement, there is no correct text elsewhere to recover.
 
-Both resolved before those texts finished, so the pipeline evidently corrects them. Do not rely on
-that: emit one translation per verse, of that verse, first time.
+**The real gap is exactly one verse wide**: a placeholder or summary that lands *once* is
+invisible to every check, because every cross-verse rule needs a repeat to fire.
+
+**That gap was measured and deliberately left open.** A rule matching a whole-value bracketed note
+(`^\[...\]$`) over present Sanskrit closes it, was written, and was **reverted 2026-09-28**: it
+fired on **34 live verses and every one was a false positive** — `minaraja_yavana_jataka` 31,
+`grahaganita` 3, where the note is an *honest* description of content that is not a translatable
+verse. Narrowing by script contamination did not help: 9 survived with **zero** Latin characters
+and were still glyph-corrupt OCR or a row of underscores — **G55** exactly, a Devanāgarī ratio
+cannot see a wrong glyph. Nothing available distinguishes a false note over a good verse from a
+true note over a ruined one. So: **emit one translation per verse, of that verse, first time.**
+The instruction is the guard; there is no mechanical one.
+
+#### A corpus defect this surfaced — apparatus criticus captured as verses
+
+`minaraja_yavana_jataka` carries the print edition's **footnote variant readings** as if they were
+shloka text — `4870९8५ / कुषशा° 1.५ 28 निस्त्रिस° 1., निस्तस 7२` — and `grahaganita` carries the
+rule (`____________`) that separates footnotes from the body. These are conversion artifacts, not
+verses. Do not translate them, and do not count them as untranslated work.
+
+`atharvaveda_samhita` has the same defect in a third form: `4.12.8` holds the hymn's **ritual
+header** — `रोहिणी- वनस्पतिः १-७ ऋभुः … अनुष्टुप्` (ṛṣi / devatā / chandas) — as a shloka row, and
+it was given the same English as the real mantra at `4.12.1`. Apparatus, print rules and ritual
+headers are all the same class: **rows that are not verses**.
+
+**When checking this text, normalise before comparing or you will chase ghosts.** Measured
+2026-09-28: 9 groups flagged, **8 were correct translations**. Atharvaveda repeats mantras by
+design (53 further groups share identical Sanskrit), and the flagged ones differed only by
+leading citation numerals (`४ १` vs `५ २`) and by an avagraha variant (`स्वऽरस्माकं` /
+`स्वरस्माकं`, **G56**). Strip numerals and fold the avagraha before declaring a mismatch.
 
 #### What went right last batch, and should not regress
 
