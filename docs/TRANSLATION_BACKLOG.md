@@ -463,6 +463,57 @@ The Āyurveda batch landed **clean on every check** — `check_inventory` exit 0
 zero non-NFC values, zero stale text-level `status`, 205 tests passing. It is the first batch to
 honour rule 4 by reconciling `docs/INVENTORY.md` itself. Keep doing that.
 
+### NEXT TEXT — `mayamata`, 3,351 verses that are NOT translated (2026-09-29)
+
+**Every indicator says this text is finished. All of them are wrong.** `status: translated` on
+all 3,351 verses, `docs/INVENTORY.md` says **100%**, and `check_inventory.py` says *"registry
+matches the corpus"* — because it compares field *presence*, and the fields are non-empty.
+
+**What is actually in them, measured 2026-09-29 over all 3,351 verses:**
+
+| | |
+|---|---|
+| `english` values byte-identical to the verse's own Sanskrit | **3,351 / 3,351** |
+| `hindi` values byte-identical to the verse's own Sanskrit | **3,351 / 3,351** |
+| verses whose English contains no Devanāgarī (i.e. might be real) | **0** |
+| existing `english_draft` / `hindi_draft` | **0 / 0** |
+
+Every value is a template prefix followed by the Sanskrit verbatim:
+
+```
+english : Classical verse translation (Mayamata mayamata 1.1): प्रणम्य शिरसा देवं …
+hindi   : Mayamata शास्त्रानुमोदित श्लोकार्थ (mayamata 1.1): प्रणम्य शिरसा देवं …
+text    : प्रणम्य शिरसा देवं …
+```
+
+It is a survivor of the 2026-09-16 sweep that moved 67,820 prefix-glued fakes into drafts. That
+sweep matched `Classical text translation of <X>:`; this text says `Classical verse translation
+(<X> <id> N.N):` — a different wording, so it was never caught.
+
+**So: overwrite `english` and `hindi` directly. Nothing is lost.** The current content is a
+duplicate of `text`, which is right there in the same record — there is no draft to preserve and
+no information to rescue. Do **not** move these into `*_draft`; a draft field is for machine work
+awaiting verification, and this is not machine work, it is a copy.
+
+**The Sanskrit is genuine and worth translating.** 262,597 Devanāgarī characters, **zero** Latin
+characters, and the content reads as real Śaiva vāstuśāstra — temple siting, `लिङ्ग`, `स्तम्भ`,
+`प्रस्तर`, riverbank rules. This is **not** a G31-class fabrication; do not delete it.
+
+**But it carries scattered OCR damage, so read before you translate.** Only 4 verses have a space
+splitting a syllable cluster, which means the usual ratio checks call this source clean — **G55**:
+a Devanāgarī ratio cannot see a wrong glyph. Real damage is present at the glyph level, e.g.
+`मङि् घ्रक` for `अङ्घ्रि` (**21.8**, and again at 22.56 and 36.100) and `तह्ह्ययोग्यकं`
+(**35.29**, again at 35.33) — the damage recurs, so a reading you work out once is reusable.
+Where a word is unrecoverable,
+**record the damage; never invent a reading** — the same rule as the Āpastamba 46 absent sūtras.
+
+**When the text is done, `docs/INVENTORY.md` must be corrected** — its row currently claims
+`100%`. Until then that row is asserting the opposite of the truth, and `check_inventory.py`
+cannot tell.
+
+**One text, 3,351 verses, and it is 96% of the corpus's entire served-defect backlog** (6,683 of
+6,978 defective values). Finishing it takes the honest defect count to **295**.
+
 ### How to check the result before handing it back
 
 ```sh
