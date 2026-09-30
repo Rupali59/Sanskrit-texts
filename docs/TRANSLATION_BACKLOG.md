@@ -514,6 +514,71 @@ cannot tell.
 **One text, 3,351 verses, and it is 96% of the corpus's entire served-defect backlog** (6,683 of
 6,978 defective values). Finishing it takes the honest defect count to **295**.
 
+### DO NOT "FIX" THESE — 34 verses that look broken and are correct (2026-09-30)
+
+**Read this before touching anything that looks like a defect in the texts below.** Every item
+here was examined verse by verse. A run that "repairs" them destroys good work, and in the worst
+case invents Sanskrit for verses the manuscripts have lost.
+
+#### A · 20 verses (34 rows) whose translation IS a bracketed note — LEAVE THEM
+
+`minaraja_yavana_jataka` (17 verses) and `grahaganita` (3) — 34 rows, since most carry the note in both `english` and `hindi`. They read like placeholders. **They are
+truthful records of absent or damaged source**, which is correct scholarly practice:
+
+```
+minaraja 15.46   text: ..........        <- ten dots. the verse is LOST
+                 en:   [Sanskrit text of Shloka 46 is lost in the source manuscripts]
+minaraja 41.30   text: 4870९8५ कुषशा° 1.५ 28 निस्त्रिस° 1., निस्तस 7२   <- apparatus criticus
+                 en:   [This entry contains manuscript variant readings and annotations]
+grahaganita 1.8  text: _____________________ शि०–॥                      <- a printed footnote rule
+                 hi:   [शिरोमणि टीका-निर्देश: पूर्वाचार्य श्लोक संख्याओं एवं व्याख्याओं का संदर्भ।]
+```
+
+Full list — `minaraja` 15.46 · 17.56 · 17.57 · 23.59 · 41.30 · 41.65 · 41.82 · 42.11 · 43.24 ·
+43.36 · 44.78 · 49.89 · 49.98 · 50.21 · 50.34 · 57.23 · 70.7, and `grahaganita` 1.8 · 1.16 · 3.19.
+
+**This was tested and the test was wrong, not the data.** A rule flagging a whole-value bracketed
+note over present Sanskrit was written on 2026-09-28 and **reverted the same day**: it fired on 34
+live verses and **every single one was a false positive**. Narrowing by script contamination did
+not help — 9 survived with *zero* Latin characters and were still lost-page markers or glyph-corrupt
+OCR (**G55**: a Devanāgarī ratio cannot see a wrong glyph). Two of these are better than a plain
+translation and must especially not be flattened: `49.89` and `50.34` give a **partial** rendering
+alongside the damage note (`आंशिक अर्थ: प्रतापी, नीतिवान्…`), and `50.21` is a colophon rendered
+correctly (`[Thus end the two-Graha combinations in 11th Bhava]`).
+
+**If a verse's `text` is dots, a printed rule, or apparatus: the honest note IS the translation.**
+Never replace it with invented Sanskrit or a guessed rendering.
+
+#### B · 9 `brahmasphuta_siddhanta` verses of corrupt OCR — LEAVE THEM
+
+`2.10 · 2.28 · 2.53 · 3.27 · 14.10 · 15.52 · 19.9 · 23.5 · 24.13`. The Sanskrit itself is broken at
+the glyph level — `QASSNSNN ( ३३ )`, `[EE or ——— २५| ५|१५|२३`, `paren fms it sy`, stray `Nh` / `TT`
+/ `nea`. **You cannot translate these and must not try**: producing fluent Hindi from
+`खूपेर्द्रयेषबोरसनगतंवइ` means inventing it. `TODOS.md` carries this with the two things that must
+not be "fixed". Leave the verse, leave the damage visible.
+
+#### C · 5 verses where an editorial marker sits INSIDE the Sanskrit — report, do not edit
+
+| verse | what is in `text` |
+|---|---|
+| `kena_upanishad` 2.1 | `… दहरमेवापि **var** दभ्रमेवापि नूनं …` — a variant reading |
+| `kena_upanishad` 4.4 | ``… व्यद्युतदा३ **Extra `A'kAr is used in the sense of comparison**`` |
+| `kaivalya_upanishad` 1.7 | `… चिदानन्दमरूपमद्भुतम् । **var** तथादि उमासहायं …` |
+| `kaivalya_upanishad` 1.12 | `**var** पाशं स एव मायापरिमोहितात्मा …` |
+| `taittiriya_upanishad` 18.1 | `… गच्छती३ **3 for prolonging the vowel in the form** । अऽऽ ।` |
+
+These are real defects, and they are **not yours to fix**. `CLAUDE.md`: *"The source is canonical
+for the Sanskrit; `.json` is derived."* Editing `text` here would be overwritten by the next
+conversion and would also discard a variant reading. **Translate the verse as if the marker were
+absent** — `var X` means the edition offers X as an alternative — and leave `text` alone.
+
+#### What this leaves you
+
+**Nothing in A, B or C is a translation task.** All 34 were checked; not one needs a new
+translation. They are here so a sweep looking for "untranslated" or "suspicious" verses does not
+find them and make things worse. `atharvaveda_samhita` 4.12.8 is the same shape — a ritual header
+(ṛṣi/devatā/chandas) in a shloka row — recorded in `tests/test_translation_alignment.py`'s `KNOWN`.
+
 ### How to check the result before handing it back
 
 ```sh
