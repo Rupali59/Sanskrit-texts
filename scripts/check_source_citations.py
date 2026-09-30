@@ -48,9 +48,17 @@ def normalise(text_id: str) -> str:
     return "_".join(text_id.strip().lower().split())
 
 
-def corpus_index(root: pathlib.Path) -> dict[str, set[tuple[str, str]]]:
-    """text_id -> {(chapter, verse)} as STRINGS: numbers are int or str per the schema."""
+def corpus_index(root: pathlib.Path, titles: dict | None = None) -> dict[str, set[tuple[str, str]]]:
+    """text_id -> {(chapter, verse)} as STRINGS: numbers are int or str per the schema.
+
+    Also fills `titles` with (text_id, chapter) -> (chapter_title, verse_count). The TITLE is the
+    load-bearing part: a chapter-only citation cannot be wrong at verse level, so the only signal
+    left that it aims at the right material is what the chapter is ABOUT. Printing it turned 24
+    "vague" citations into 5 that name a chapter on an unrelated subject (2026-09-30).
+    """
     index: dict[str, set[tuple[str, str]]] = {}
+    if titles is None:
+        titles = {}
     for path in corpus_files(root):
         try:
             doc = json.loads(path.read_text(encoding="utf-8"))
@@ -64,6 +72,9 @@ def corpus_index(root: pathlib.Path) -> dict[str, set[tuple[str, str]]]:
             for sh in (ch.get("shlokas") or [])
         }
         index.setdefault(normalise(doc["text_id"]), set()).update(keys)
+        for ch in doc["chapters"]:
+            titles[(normalise(doc["text_id"]), str(ch.get("number")))] = (
+                (ch.get("title") or "").strip(), len(ch.get("shlokas") or []))
     return index
 
 
@@ -126,7 +137,8 @@ def main(argv: list[str] | None = None) -> int:
         print(f"astroacharya not found at {app} -- pass --astroacharya", file=sys.stderr)
         return 2
 
-    index = corpus_index(args.corpus)
+    titles: dict = {}
+    index = corpus_index(args.corpus, titles)
     unreadable: list[str] = []
     in_docstring: list[str] = []
     refs = list(citations(app, unreadable, in_docstring))
@@ -145,6 +157,8 @@ def main(argv: list[str] | None = None) -> int:
     #: failure `rule:discernment-checks` §2 exists to name. It inflated `ok` from 100 to 111 and
     #: hid that three texts are cited ONLY this way, so not one of their citations is verifiable.
     chapter_only: list[str] = []
+    #: chapter 0 -- the declared 'various' convention, not a defect.
+    composite: list[str] = []
     #: The review target: distinct verses the canon is actually claimed to back.
     cited_verses: set[tuple[str, str, str]] = set()
     ok = 0
@@ -167,11 +181,25 @@ def main(argv: list[str] | None = None) -> int:
             # old code passed all six as `resolve cleanly`: the text is held, there are no
             # malformed shlokas because there are no shlokas, and no verse is absent because
             # none was named. Three checks, none of which could fire.
+            # CHAPTER 0 IS A DECLARED CONVENTION, NOT A DEFECT. `_source.py:70` renders it as
+            # "<text> various" -- a deliberate composite/cross-cutting reference used where no
+            # single chapter applies (Dharmasindhu, Brihat_Samhita, VK_Shridhar_Tyajya_Table,
+            # Shiva_Purana, set by astroacharya 3807258). This checker reported all six BPHS 0
+            # citations as "NO SUCH CHAPTER" until 2026-09-30, which was a proxy failure: it
+            # measured "is there a chapter numbered 0 in the corpus" for "is this citation wrong".
+            if str(chapter) == "0":
+                composite.append(f"  {where}  {text_id} -- chapter 0 = 'various' (by convention)")
+                continue
             if not any(ch == str(chapter) for ch, _ in index[slug]):
                 missing_verse.append(f"  {where}  {text_id} ch{chapter} -- NO SUCH CHAPTER "
                                      f"(no shloka named either)")
                 continue
-            chapter_only.append(f"  {where}  {text_id} ch{chapter} -- no shloka named")
+            title, nverses = titles.get((slug, str(chapter)), ("", 0))
+            # The function name is the only machine-readable statement of what the citation is
+            # FOR. Printing it beside the chapter's own subject is what makes a mismatch visible.
+            chapter_only.append(
+                f"  {where}  {text_id} ch{chapter} ({nverses} verses) -- no shloka named\n"
+                f"        chapter is: {title}")
             continue
         absent = [s for s in shlokas if (str(chapter), str(s)) not in index[slug]]
         if absent:
@@ -183,6 +211,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"@source citations: {len(refs)} call sites across {len(set(r[0] for r in refs))} files")
     print(f"  resolve to a VERSE  {ok}")
     print(f"  chapter only        {len(chapter_only)}  (no shloka named -- nothing verifiable)")
+    print(f"  composite (ch 0)    {len(composite)}  (declared 'various' convention, NOT a defect)")
     print(f"  text not in corpus  {sum(missing_text.values())}")
     print(f"  verse not in text   {len(missing_verse)}")
     print(f"  malformed           {len(malformed)}")

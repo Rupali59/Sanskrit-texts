@@ -520,6 +520,12 @@ cannot tell.
 here was examined verse by verse. A run that "repairs" them destroys good work, and in the worst
 case invents Sanskrit for verses the manuscripts have lost.
 
+| Category | Scope | Details |
+|---|---|---|
+| **A · Bracketed Note / Apparatus** | 20 verses (34 rows) | Bracketed note is the translation — `minaraja_yavana_jataka` (17), `grahaganita` (3). Unexamined apparatus-as-verse rows. |
+| **B · Corrupt OCR** | 23 verses | `brahmasphuta_siddhanta` OCR garbage. Needs clean source or re-OCR, not regex (Latin sweep gives 99.2% false positives). |
+| **C · Editorial Marker** | 5 verses | Editorial marker inside Sanskrit text — `kena`, `kaivalya`, `taittiriya`. (Note: `kaivalya` 1.12 variant belongs to v11; converter bound apparatus after `॥ ११॥` to v12). |
+
 #### A · 20 verses (34 rows) whose translation IS a bracketed note — LEAVE THEM
 
 `minaraja_yavana_jataka` (17 verses) and `grahaganita` (3) — 34 rows, since most carry the note in both `english` and `hindi`. They read like placeholders. **They are
@@ -535,7 +541,7 @@ grahaganita 1.8  text: _____________________ शि०–॥                    
 ```
 
 Full list — `minaraja` 15.46 · 17.56 · 17.57 · 23.59 · 41.30 · 41.65 · 41.82 · 42.11 · 43.24 ·
-43.36 · 44.78 · 49.89 · 49.98 · 50.21 · 50.34 · 57.23 · 70.7, and `grahaganita` 1.8 · 1.16 · 3.19.
+43.36 · 44.78 · 49.89 · 49.98 · 50.21 · 50.34 · 57.23 · 70.7, and `grahaganita` 1.8 · 1.16 · 3.19. (Note: these 20 apparatus-as-verse rows remain unexamined).
 
 **This was tested and the test was wrong, not the data.** A rule flagging a whole-value bracketed
 note over present Sanskrit was written on 2026-09-28 and **reverted the same day**: it fired on 34
@@ -549,12 +555,12 @@ correctly (`[Thus end the two-Graha combinations in 11th Bhava]`).
 **If a verse's `text` is dots, a printed rule, or apparatus: the honest note IS the translation.**
 Never replace it with invented Sanskrit or a guessed rendering.
 
-#### B · 9 `brahmasphuta_siddhanta` verses of corrupt OCR — LEAVE THEM
+#### B · 23 `brahmasphuta_siddhanta` verses of corrupt OCR — LEAVE THEM
 
-`2.10 · 2.28 · 2.53 · 3.27 · 14.10 · 15.52 · 19.9 · 23.5 · 24.13`. The Sanskrit itself is broken at
+`2.10 · 2.28 · 2.53 · 3.11 · 3.27 · 3.42 · 4.17 · 5.10 · 12.52 · 13.26 · 14.4 · 14.10 · 15.1 · 15.33 · 15.52 · 18.21 · 18.30 · 19.4 · 19.9 · 19.13 · 23.5 · 23.8 · 24.13`. The Sanskrit itself is broken at
 the glyph level — `QASSNSNN ( ३३ )`, `[EE or ——— २५| ५|१५|२३`, `paren fms it sy`, stray `Nh` / `TT`
 / `nea`. **You cannot translate these and must not try**: producing fluent Hindi from
-`खूपेर्द्रयेषबोरसनगतंवइ` means inventing it. `TODOS.md` carries this with the two things that must
+`खूपेर्द्रयेषबोरसनगतंवइ` means inventing it. Needs a clean source scan or re-OCR — do not use regex (a corpus-wide Latin sweep yields 99.2% false positives). `TODOS.md` carries this with the two things that must
 not be "fixed". Leave the verse, leave the damage visible.
 
 #### C · 5 verses where an editorial marker sits INSIDE the Sanskrit — report, do not edit
@@ -564,13 +570,20 @@ not be "fixed". Leave the verse, leave the damage visible.
 | `kena_upanishad` 2.1 | `… दहरमेवापि **var** दभ्रमेवापि नूनं …` — a variant reading |
 | `kena_upanishad` 4.4 | ``… व्यद्युतदा३ **Extra `A'kAr is used in the sense of comparison**`` |
 | `kaivalya_upanishad` 1.7 | `… चिदानन्दमरूपमद्भुतम् । **var** तथादि उमासहायं …` |
-| `kaivalya_upanishad` 1.12 | `**var** पाशं स एव मायापरिमोहितात्मा …` |
+| `kaivalya_upanishad` 1.12 | `**var** पाशं स एव मायापरिमोहितात्मा …` *(converter bound apparatus after ॥ ११॥ to v12 instead of v11)* |
 | `taittiriya_upanishad` 18.1 | `… गच्छती३ **3 for prolonging the vowel in the form** । अऽऽ ।` |
 
 These are real defects, and they are **not yours to fix**. `CLAUDE.md`: *"The source is canonical
 for the Sanskrit; `.json` is derived."* Editing `text` here would be overwritten by the next
 conversion and would also discard a variant reading. **Translate the verse as if the marker were
 absent** — `var X` means the edition offers X as an alternative — and leave `text` alone.
+
+#### D · 70 shlokas unreachable due to seeder dedupe
+
+70 shlokas are present in the JSON corpus but unreachable through `seed_texts.py` due to intra-chapter `(chapter, shloka)` dedupe:
+- `jataka_parijata`: 55 shlokas
+- `laghu_jatakam`: 14 shlokas
+- `minaraja_yavana_jataka`: 1 shloka
 
 #### What this leaves you
 
