@@ -19,7 +19,7 @@ TEST_DSN  ?= postgresql+psycopg://corpus_owner:corpus_local_dev@127.0.0.1:5433/s
 PGDATA_CORPUS := /opt/homebrew/var/sanskrit-texts-pg
 PG_PLIST      := $(HOME)/Library/LaunchAgents/com.rupali.sanskrit-texts-postgres.plist
 
-.PHONY: help setup deps db migrate testdb import hello export test check clean-db
+.PHONY: help setup deps db migrate testdb import hello export test check clean-db backup
 
 help:  ## show this
 	@grep -E '^[a-z-]+:.*?## ' $(MAKEFILE_LIST) | awk 'BEGIN{FS=":.*?## "}{printf "  %-10s %s\n",$$1,$$2}'
@@ -64,6 +64,12 @@ export:  ## fidelity export — the cutover gate's input
 
 test:  ## the suite, with a missing database treated as a FAILURE rather than a skip
 	CORPUS_REQUIRE_DB=1 $(VENV)/bin/pytest tests/ -q
+
+backup:  ## dump the store AND restore it into a scratch db to prove the dump works (T5.4)
+	@# DECISIONS.md requires ONE TESTED restore before the DB is authoritative, and on 2026-09-29
+	@# the store died with no dump at all. `verify` is why the dump can be believed: a backup that
+	@# has never been restored is found broken at the moment it is needed.
+	./scripts/backup_store.sh all
 
 check:  ## registry vs corpus reconciliation
 	python3 scripts/check_inventory.py
