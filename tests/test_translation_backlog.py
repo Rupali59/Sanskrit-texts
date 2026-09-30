@@ -165,11 +165,29 @@ def test_the_mirrored_rules_agree_with_the_canonical_checker() -> None:
     on every draft in the live corpus.
 
     If this fails, do not edit the expectation: make the two agree.
+
+    IT COVERS SERVED VALUES, NOT JUST DRAFTS, AND THAT IS THE POINT OF THE 2026-09-30 REWRITE.
+    Both functions take a VALUE and its Sanskrit; neither knows or cares which field it came
+    from, so restricting the comparison to `english_draft` was always narrower than the claim.
+    It became actively misleading when 40,778 values were promoted out of the draft fields:
+    drafts fell to 646 and the floor below -- which exists to announce that this assertion has
+    gone vacuous -- was answered by **lowering it from 1000 to 100** rather than by widening the
+    population. That is the third time in one session a check here was edited to stay green, and
+    the docstring above already said not to. Drafts are being emptied deliberately; a draft-only
+    mirror test was going to zero by design.
+
+    THE FLOOR IS DERIVED, SO IT CANNOT BE LOWERED WITHOUT LYING. It is half the verses actually
+    walked, not a constant -- a constant is exactly what invites the next edit. Measured
+    2026-09-30: 98,435 verses, 97,789 served + 646 draft, so every verse carries one or the
+    other and `checked` tracks the walk. If both fields empty, or the walker breaks, this says so
+    instead of passing on a handful of values (`rule:discernment-checks` 2).
     """
     from sanskrit_texts.checks import check_translation
+
     from translation_backlog import fails_canonical_checks
 
-    checked = disagreements = 0
+    verses_walked = checked = 0
+    disagreements: list[str] = []
     for p in sorted(REPO.rglob("*.json")):
         rel = p.relative_to(REPO)
         if rel.parts[0] in ("docs", ".git") or rel.parts[0].startswith("."):
@@ -182,19 +200,35 @@ def test_the_mirrored_rules_agree_with_the_canonical_checker() -> None:
             continue
         for ch in j.get("chapters") or []:
             for s in ch.get("shlokas") or []:
-                draft = (s.get("english_draft") or "").strip()
-                if not draft:
-                    continue
-                checked += 1
-                canonical = check_translation("en", draft, (s.get("text") or "").strip())[0]
-                if (canonical == "fails") != fails_canonical_checks(draft):
-                    disagreements += 1
+                verses_walked += 1
+                sanskrit = (s.get("text") or "").strip()
+                for field in ("english", "english_draft"):
+                    value = (s.get(field) or "").strip()
+                    if not value:
+                        continue
+                    checked += 1
+                    canonical = check_translation("en", value, sanskrit)[0]
+                    if (canonical == "fails") != fails_canonical_checks(value):
+                        if len(disagreements) < 5:
+                            disagreements.append(
+                                f"{j['text_id']} {ch.get('number')}.{s.get('number')} "
+                                f"[{field}] canonical={canonical!r} "
+                                f"mirror={'fails' if fails_canonical_checks(value) else 'ok'!r}"
+                            )
+                        else:
+                            disagreements.append("")
 
-    assert checked > 1000, "almost no drafts examined -- this assertion would be vacuous"
-    assert disagreements == 0, (
-        f"{disagreements} of {checked} drafts are judged differently by "
+    floor = verses_walked // 2
+    assert checked >= floor, (
+        f"examined {checked:,} values over {verses_walked:,} verses (floor {floor:,}). "
+        f"Either both english fields are emptying or the walker is not reaching the corpus -- "
+        f"this assertion would be vacuous. Widen the population; do NOT lower the floor."
+    )
+    assert not disagreements, (
+        f"{len(disagreements)} of {checked:,} values are judged differently by "
         f"translation_backlog.fails_canonical_checks and checks.check_translation. "
-        f"The mirror has drifted from the canonical checker."
+        f"The mirror has drifted from the canonical checker. First few:\n  "
+        + "\n  ".join(d for d in disagreements[:5])
     )
 
 
