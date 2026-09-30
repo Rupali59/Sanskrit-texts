@@ -181,7 +181,7 @@
         },
         {
           "number": 15,
-          "text": "( २९ ) तू .जफल कृतियोगांन्मुलं कणाः पदेष्वयुग्युक्षु। __= स्वपरिधिगुणा क्रमोत्क्रमजीवा भांश ३६० हू तान्मन्दे",
+          "text": "तू .जफल कृतियोगांन्मुलं कणाः पदेष्वयुग्युक्षु। = स्वपरिधिगुणा क्रमोत्क्रमजीवा भांश ३६० हू तान्मन्दे",
           "english": "The square root of the sum of the squares of the Krama-jya and Utkrama-jya, multiplied by their own periphery and divided by 360 degrees, gives the Karna (hypotenuse) in the odd and even padas during Manda calculations.",
           "hindi": "क्रमजीवा और उत्क्रमजीवा के वर्गों के योग का वर्गमूल, अपनी परिधि से गुणा और ३६० अंशों से भाग देने पर, मंद कर्म में सम और विषम पादों में कर्ण को प्राप्त कराता है।",
           "status": "translated"
@@ -230,7 +230,7 @@
         },
         {
           "number": 22,
-          "text": "( ३१ ) तद्य दलपरिध्यंतर गृण्णाकृता त्रिञ्यया स्वनतजीवा । ऊने धनमृणमविके दिनाद्धं परिधौ स्फुटः परिधिः",
+          "text": "तद्य दलपरिध्यंतर गृण्णाकृता त्रिञ्यया स्वनतजीवा । ऊने धनमृणमविके दिनाद्धं परिधौ स्फुटः परिधिः",
           "english": "The difference between the midday epicycle and the epicycle at the desired time is multiplied by the Nata-jya (sine of the hour angle) and divided by the Trijya (radius). When the time is less than midday, this result is added or subtracted to the epicycle to obtain the Sphuta Paridhi (true epicycle).",
           "hindi": "मध्याह्नकालीन परिधि और अभीष्ट समय की परिधि के अन्तर को नत-ज्या (नतकाल की ज्या) से गुणा करके त्रिज्या से भाग देना चाहिए। मध्याह्न से कम समय होने पर इसे परिधि में धन (जोड़) या ऋण (घटाव) करने से स्फुट परिधि (स्पष्ट परिधि) प्राप्त होती है।",
           "status": "translated"
@@ -272,7 +272,7 @@
         },
         {
           "number": 28,
-          "text": "QASSNSNN ( ३३ ) फलविकला वा सुय प्रागृणामसकृन्नते धनं पश्चात्‌ । केन्द्रफलमृणं चन्द्रऽन्यथा धनं चेहणं स्पष्टो",
+          "text": "फलविकला वा सुय प्रागृणामसकृन्नते धनं पश्चात्‌ । केन्द्रफलमृणं चन्द्रऽन्यथा धनं चेहणं स्पष्टो",
           "english": "The resulting Vikala (seconds of arc) of the correction is subtractive (rina) for Surya if the inclination (nata) is towards the east (prak), and additive (dhana) if towards the west (pashchat), calculated repeatedly (asakrit). For Chandra, if the Kendra-phala is subtractive (rina), the correction is applied conversely (i.e., additive), and if additive (dhana), it is subtractive (rina) to obtain the Spashta (true position).",
           "hindi": "इस प्रकार प्राप्त फल-विकला सूर्य के लिए पूर्व नत होने पर ऋणात्मक (ऋण) और पश्चिम नत होने पर धनात्मक (धन) होती है, जिसे बार-बार (असकृत्) किया जाता है। चन्द्र के लिए, यदि केन्द्रफल ऋणात्मक (ऋण) हो तो यह संस्कार विपरीत (अर्थात् धनात्मक) होता है, और यदि धनात्मक (धन) हो तो ऋणात्मक (ऋण) होकर स्फुट (स्पष्ट मान) प्राप्त होता है।",
           "status": "translated"
@@ -314,7 +314,7 @@
         },
         {
           "number": 34,
-          "text": "मंदोच्चनीचवृत्तस्य परिघिभागाः सितस्य विषमांते । नव & युग्मांते रुद्राः ११ झोघ्रो जान्तेऽग्निरसयमलाः",
+          "text": "मंदोच्चनीचवृत्तस्य परिघिभागाः सितस्य विषमांते । नव युग्मांते रुद्राः ११ झोघ्रो जान्तेऽग्निरसयमलाः",
           "english": "For Shukra, the circumference degrees (Paridhi-bhagas) of the Mandochcha-neechavritta at the odd extremities (Vishamanta) are nine (9), and at the even extremities (Yugmanta) they are Rudras (11); [furthermore] at the end of [other points], Jhoghro [is specified, and similarly] at the end [of certain quadrants] Agni-Rasa-Yamalas (263). [Note: The verse encodes specific planetary epicyclic circumferences using traditional number-words].",
           "hindi": "शुक्र के मंदोच्च-नीचवृत्त के परिधि-भाग विषम अंत में नौ (९) हैं, और सम अंत (युग्मान्त) में रुद्र (११) हैं; तथा [अन्य स्थानों के] अंत में 'झोघ्र' [कहा गया है], और इसी प्रकार [कुछ पादों के] अंत में अग्नि-रस-यमल (२६३) हैं।",
           "status": "translated"
@@ -328,7 +328,7 @@
         },
         {
           "number": 36,
-          "text": "( ३५ ) बुघमंदपरिधिभागावसुरामाः ३८ सुरगुरोखर्याशत्‌ । रविजस्यशुन्यरामा ३० सञ्चीध्रपरिधिद्विगुणचन्द्र",
+          "text": "बुघमंदपरिधिभागावसुरामाः ३८ सुरगुरोखर्याशत्‌ । रविजस्यशुन्यरामा ३० सञ्चीध्रपरिधिद्विगुणचन्द्र",
           "english": "The circumference degrees (Paridhi-bhagas) of Budha's Mandam are Vasuramas (38), and for Suraguru (Guru) it is forty (40). For Ravija (Shani), it is Shunya-ramas (30). Double the Sheeghra paridhi for Chandra [is to be understood contextually].",
           "hindi": "बुध के मंद परिधि-भाग वसु-राम (३८) हैं, और सुरगुरु (गुरु) के लिए चालीस (४०) हैं। रविज (शनि) के लिए शून्य-राम (३०) हैं। चन्द्र के लिए शीघ्र परिधि को दोगुना [समझा जाना चाहिए]।",
           "status": "translated"
@@ -384,14 +384,14 @@
         },
         {
           "number": 44,
-          "text": "( ३९ ) लब्धोनाशी घरगतिस्फुटभुक्तिलंब्धमधिकं चेत्‌ । झीघ्गतेः शीघ्रगतिः लब्धा संशोध्य वक्रगतिः",
+          "text": "लब्धोनाशी घरगतिस्फुटभुक्तिलंब्धमधिकं चेत्‌ । झीघ्गतेः शीघ्रगतिः लब्धा संशोध्य वक्रगतिः",
           "english": "If the quotient obtained by dividing the product of the Mandaphala-Jya and the Sheegra-Gati by the radius (Trijya) is greater than the Sheegra-Gati, then the Sheegra-Gati is subtracted from that quotient to determine the Vakra-Gati (retrograde motion).",
           "hindi": "यदि मन्दफलज्या और शीघ्रगति के गुणनफल को त्रिज्या से विभाजित करने पर प्राप्त लब्धि, शीघ्रगति से अधिक हो, तो उस लब्धि में से शीघ्रगति को घटाकर वक्रगति (वक्री गति) ज्ञात करनी चाहिए।",
           "status": "translated"
         },
         {
           "number": 45,
-          "text": "देयमसुताय नेदं “ शपथेरपि दत्तसुक्ृतनाझाचै \\ यात्राविवाहजातक फलस्फुटत्वं यतः स्पष्टः",
+          "text": "देयमसुताय नेदं “ शपथेरपि दत्तसुक्ृतनाझाचै यात्राविवाहजातक फलस्फुटत्वं यतः स्पष्टः",
           "english": "This knowledge should not be imparted to an unworthy person, even under oath, as the accuracy of results in Yatra (expeditions), Vivaha (marriage), and Jataka (horoscopy) depends entirely on the precision of the Grahas.",
           "hindi": "यह ज्ञान किसी अयोग्य व्यक्ति को शपथ दिलाने पर भी नहीं देना चाहिए, क्योंकि यात्रा, विवाह और जातक के फलों की स्पष्टता पूर्णतः ग्रहों की स्पष्टता पर ही निर्भर करती है।",
           "status": "translated"
@@ -461,7 +461,7 @@
         },
         {
           "number": 55,
-          "text": "(४) जिनभागज्या गुरिता सूर्याद्या व्यासदलहूतालब्धम्‌ । ३२७० इष्टापक्रमजीवा विषुवदुग्‌ दक्षिणा सवितुः",
+          "text": "जिनभागज्या गुरिता सूर्याद्या व्यासदलहूतालब्धम्‌ । ३२७० इष्टापक्रमजीवा विषुवदुग्‌ दक्षिणा सवितुः",
           "english": "The Jya (sine) of the degrees of the Rashi is multiplied by the Surya's maximum Kranti (declination) and divided by the Vyasadala (radius, 3270). The result is the Ishtapakrama Jya (sine of the desired declination), which indicates the position of the Surya relative to the Vishuvat (equator), either towards the North or the South.",
           "hindi": "राशि के अंशों की ज्या को सूर्या की परम क्रान्ति से गुणा करके व्यासार्ध (३२७०) से भाग देने पर इष्ट क्रान्तिज्या प्राप्त होती है। यह मान विषुवत् वृत्त से उत्तर या दक्षिण दिशा में सूर्या की स्थिति को दर्शाता है।",
           "status": "translated"
@@ -524,14 +524,14 @@
         },
         {
           "number": 65,
-          "text": "( ४७ ) कुष्णचतुरदश्यन्ते शकुनि परि चतुष्पदप्रथमे । तिथ्यद्धंते नागं किस्तुध्नं प्रतिपदाद्यद्धो",
+          "text": "कुष्णचतुरदश्यन्ते शकुनि परि चतुष्पदप्रथमे । तिथ्यद्धंते नागं किस्तुध्नं प्रतिपदाद्यद्धो",
           "english": "At the end of the Krishna Chaturdashi, the Shakuni Karana occurs. In the first half of the Amavasya, the Chatushpada Karana occurs. In the second half of the Tithi, the Naga Karana occurs, and in the first half of the Pratipada, the Kistughna Karana occurs.",
           "hindi": "कृष्ण चतुर्दशी के अंत में शकुनि करण होता है। अमावस्या के पूर्वार्ध में चतुष्पद करण होता है। तिथि के उत्तरार्ध में नाग करण होता है और प्रतिपदा के पूर्वार्ध में किस्तुघ्न करण होता है।",
           "status": "translated"
         },
         {
           "number": 66,
-          "text": "व्यकदु कला भक्ताः खरसगुराः ३६० लम्धूनमेकेन \\ चलकरणानि ववादीन्यग हृतशेषे तिथिवदन्यत्‌",
+          "text": "व्यकदु कला भक्ताः खरसगुराः ३६० लम्धूनमेकेन चलकरणानि ववादीन्यग हृतशेषे तिथिवदन्यत्‌",
           "english": "The Tithi (in minutes) divided by 360 (the number of degrees in a circle) gives the quotient, which when increased by one, indicates the current Karana. The remaining part of the Tithi calculation follows the same logic as the Tithi calculation itself.",
           "hindi": "तिथि (कलाओं में) को ३६० से विभाजित करने पर जो लब्धि प्राप्त होती है, उसमें एक जोड़ने पर वर्तमान करण का मान प्राप्त होता है। शेष भाग की गणना तिथि गणना के समान ही की जाती है।",
           "status": "translated"
@@ -593,7 +593,7 @@
         },
         {
           "number": 7,
-          "text": "इांकुर्लबच्छायाक्षज्या तद्वर्गसंयुते सुलम्‌ । ` दिषुवत्कर्णछचाया क्रोत्यदा शंकुः",
+          "text": "इांकुर्लबच्छायाक्षज्या तद्वर्गसंयुते सुलम्‌ । दिषुवत्कर्णछचाया क्रोत्यदा शंकुः",
           "english": "The square root of the sum of the squares of the Shankur (gnomon) and the Chhaya (shadow) is the Karna (hypotenuse). The Vishuvat-Karna (equinoctial hypotenuse) multiplied by the Chhaya and divided by the Shankur gives the Kranti-Jya (declination sine).",
           "hindi": "शंकु और छाया के वर्गों के योग का वर्गमूल कर्ण होता है। विषुवत्-कर्ण को छाया से गुणा करके शंकु से भाग देने पर क्रांति-ज्या प्राप्त होती है।",
           "status": "translated"
@@ -607,14 +607,14 @@
         },
         {
           "number": 10,
-          "text": "शकु छाया कृत्योस्त्रिज्या कृतितत्समास गुणाहृतया । सूलं लम्बाक्षज्येस्तदंशकास्तद्धनुर्भागाः ॥ & ॥ विषुवत्करांहृते'वा शंकु छायागते पृथक्‌ त्रिज्ये त्रिज्येतर जीवा लंबाक्षांसो क्रमज्योना",
+          "text": "शकु छाया कृत्योस्त्रिज्या कृतितत्समास गुणाहृतया । सूलं लम्बाक्षज्येस्तदंशकास्तद्धनुर्भागाः ॥ ॥ विषुवत्करांहृते'वा शंकु छायागते पृथक्‌ त्रिज्ये त्रिज्येतर जीवा लंबाक्षांसो क्रमज्योना",
           "english": "The square root of the sum of the squares of the Shankur and Chhaya, multiplied by the Trijya (radius) and divided by the Karna, yields the Lamba-Jya and Aksha-Jya. Their arcs are the degrees of latitude. Alternatively, by dividing the Vishuvat-Karna by the Shankur and Chhaya, one obtains the Trijya and the other Jya, which are the Lamba and Aksha degrees subtracted from the Kramajya.",
           "hindi": "शंकु और छाया के वर्गों के योग का वर्गमूल, जिसे त्रिज्या से गुणा करके कर्ण से भाग दिया जाए, तो लम्ब-ज्या और अक्ष-ज्या प्राप्त होती है। उनके चाप ही अक्षांश के अंश हैं। अथवा, विषुवत्-कर्ण को शंकु और छाया से भाग देने पर त्रिज्या और अन्य ज्या प्राप्त होती है, जो क्रमज्या से लम्ब और अक्ष के अंश घटाने पर मिलती है।",
           "status": "translated"
         },
         {
           "number": 11,
-          "text": "नवते ९० रलम्बांश्ात्ोज्य ज्यांेत राक्ष लंम्बज्ये t शंकुछायागुशिते छाया द्वाद्ञहृते वान्ये",
+          "text": "नवते ९० रलम्बांश्ात्ोज्य ज्यांेत राक्ष लंम्बज्ये शंकुछायागुशिते छाया द्वाद्ञहृते वान्ये",
           "english": "Subtract the Lamba-amsha (co-latitude) from ninety (90) to get the Jya. The Lamba-Jya and Aksha-Jya, multiplied by the Shankur and Chhaya and divided by twelve (12), yield the other values.",
           "hindi": "नब्बे (90) में से लम्ब-अंश घटाने पर ज्या प्राप्त होती है। लम्ब-ज्या और अक्ष-ज्या को शंकु और छाया से गुणा करके बारह (12) से भाग देने पर अन्य मान प्राप्त होते हैं।",
           "status": "translated"
@@ -628,7 +628,7 @@
         },
         {
           "number": 13,
-          "text": "इष्ठदिनाद्ध नताश क्रान्त्यंशेक्यांतरं क्रियतुलादौ । ` र्गत दास्यायां छायायासंतरमजादौ",
+          "text": "इष्ठदिनाद्ध नताश क्रान्त्यंशेक्यांतरं क्रियतुलादौ । र्गत दास्यायां छायायासंतरमजादौ",
           "english": "From the desired day's time, find the zenith distance degrees (Natamsha) and the declination degrees (Kranti). Take the sum or difference of these [based on the specific conditions] for Mesha and other signs (Tuladi). Similarly, find the difference in shadow for Mesha and other signs (Ajadi).",
           "hindi": "इष्ट दिन के समय से नतांश और क्रान्ति अंश प्राप्त करें। मेषादि (तुलादि) राशियों के लिए इनका योग या अन्तर करें। इसी प्रकार मेषादि (अजादि) राशियों के लिए छाया का अन्तर करें।",
           "status": "translated"
@@ -726,7 +726,7 @@
         },
         {
           "number": 27,
-          "text": "( ५६ ) TT विषवत्कर्णविभक्तः छेदो वां द्वादशाहतः शंकुः। दाकुकृतिविहीनाया व्यासाद्ध कृतेः पदं हृग्ज्या",
+          "text": "विषवत्कर्णविभक्तः छेदो वां द्वादशाहतः शंकुः। दाकुकृतिविहीनाया व्यासाद्ध कृतेः पदं हृग्ज्या",
           "english": "Or, the Cheda divided by the Vishuvat Karna (equinoctial hypotenuse), or multiplied by twelve and divided by the Shanku. The square root of the difference between the square of the radius (Vyasardha kriti) and the square of the Shanku gives the Drisjya (Drigjya / visible sine / line of sight sine).",
           "hindi": "अथवा, विषवत्कर्ण से विभक्त छेद, अथवा बारह से गुणा करने पर शंकु से विभक्त होकर (शंकु द्वारा भाग देने पर) मान देता है। व्यासाध्र की कृति (त्रिज्या के वर्ग) में से शंकु की कृति को घटाने पर जो शेष बचे, उसका वर्गमूल दृग्ज्या होती है।",
           "status": "translated"
@@ -761,14 +761,14 @@
         },
         {
           "number": 32,
-          "text": "घातोवाकगुणा १२ त्रिज्या विषुवत्क्ावंधः हृतः शकु \\ करणाकृते संशोध्य द्वादशवर्गं १४४ पदं छाया",
+          "text": "घातोवाकगुणा १२ त्रिज्या विषुवत्क्ावंधः हृतः शकु करणाकृते संशोध्य द्वादशवर्गं १४४ पदं छाया",
           "english": "Alternatively, the product of the Gnomon (Shanku) and twelve, divided by the equinoctial hypotenuse (Vishuvat-karna), gives the shadow (Chhaya). The square root of the difference between the square of the hypotenuse (Karna) and the square of twelve (144) yields the shadow (Chhaya).",
           "hindi": "अथवा, शंकु और बारह के गुणनफल को विषुवत्कर्ण से विभाजित करने पर छाया प्राप्त होती है। कर्ण के वर्ग में से बारह के वर्ग (१४४) को घटाकर उसका वर्गमूल लेने पर छाया प्राप्त होती है।",
           "status": "translated"
         },
         {
           "number": 33,
-          "text": "ग्रल्पप्रइनासुनां यदिं बहवश्ररदलासंव क्षितिजा। ` हृतयोना जोवोना क्षयवृद्धिज्योक्तवछेषं",
+          "text": "ग्रल्पप्रइनासुनां यदिं बहवश्ररदलासंव क्षितिजा। हृतयोना जोवोना क्षयवृद्धिज्योक्तवछेषं",
           "english": "If the multitude of day-radius (Svaratra-jala) and other parameters are evaluated with respect to the horizon (Kshitijya)... [Explanation of the residual adjustment for increase and decrease in shadow and declination calculations according to Siddhanta Jyotisha].",
           "hindi": "यदि स्वहोरात्रज्या (दिनार्धत्रिज्या) आदि की गणना क्षितिजय के साथ की जाए... [सिद्धान्त ज्योतिष के अनुसार छाया एवं क्रान्ति की गणना में क्षय-वृद्धि ज्या के अवशेष का निरूपण]। प्लेट और गणितीय संदर्भ।",
           "status": "translated"
@@ -803,7 +803,7 @@
         },
         {
           "number": 38,
-          "text": "छाया कराविभक्ता विषुवत्करान संगुरा नुज्या । _ लब्धं सौम्येतरयोः क्षितिज्यया हीनसंयुक्त",
+          "text": "छाया कराविभक्ता विषुवत्करान संगुरा नुज्या । लब्धं सौम्येतरयोः क्षितिज्यया हीनसंयुक्त",
           "english": "The Chhaya (shadow) multiplied by the Vishuvat-karna (equinoctial shadow hypotenuse) and divided by the (local) shadow-karna gives the Bhuja-jya. This result, when subtracted from or added to the Kshitijya (earth-sine) depending on whether the Graha is in the northern or southern hemisphere, yields the desired result.",
           "hindi": "छाया को विषुवत्कर्ण से गुणा करके छायाकर्ण से भाग देने पर भुजज्या प्राप्त होती है। इस लब्धि को सौम्य (उत्तर) या याम्य (दक्षिण) गोल के अनुसार क्षितिज्या में घटाने या जोड़ने पर अभीष्ट फल प्राप्त होता है।",
           "status": "translated"
@@ -831,7 +831,7 @@
         },
         {
           "number": 42,
-          "text": ". क्षयवृद्धिज्याहीनं युक्त याम्ये धनुइचरप्रारंः t [ सौम्येयुतं विहीनं याम्ये प्रागपरयो प्राणा",
+          "text": ". क्षयवृद्धिज्याहीनं युक्त याम्ये धनुइचरप्रारंः सौम्येयुतं विहीनं याम्ये प्रागपरयो प्राणा",
           "english": "Subtracting or adding the Kshaya-vriddhi-jya (variation in sine) to the arc gives the Chara-prana. In the northern hemisphere, it is added, and in the southern hemisphere, it is subtracted from the eastern and western Pranas.",
           "hindi": "क्षय-वृद्धि ज्या को घटाने या जोड़ने पर चरप्राण का चाप प्राप्त होता है। सौम्य (उत्तर) गोल में इसे युक्त (जोड़ना) और याम्य (दक्षिण) गोल में प्रागपर प्राणों से हीन (घटाना) करना चाहिए।",
           "status": "translated"
@@ -985,7 +985,7 @@
         },
         {
           "number": 64,
-          "text": "क्षितिजेऽग्रा प्राच्यपराक्रान्तिस्त्रज्यागुशावलम्बहता \\ द्विगुणमुदयास्तसुत्रं तत्त्रज्या कृतिविशेषपदम्‌",
+          "text": "क्षितिजेऽग्रा प्राच्यपराक्रान्तिस्त्रज्यागुशावलम्बहता द्विगुणमुदयास्तसुत्रं तत्त्रज्या कृतिविशेषपदम्‌",
           "english": "The Agra (amplitude) at the horizon is the Kranti multiplied by the Trijya (radius) and divided by the Lambaka (co-latitude). The Udayasta-sutra (rising-setting line) is twice the square root of the difference between the square of the Trijya and the square of the Agra.",
           "hindi": "क्षितिज पर अग्र (अग्रा) का मान क्रान्ति को त्रिज्या से गुणा करके लम्बक से भाग देने पर प्राप्त होता है। उदयास्त-सूत्र का मान त्रिज्या के वर्ग और अग्र के वर्ग के अन्तर के वर्गमूल का दुगुना होता है।",
           "status": "translated"
@@ -1012,7 +1012,7 @@
       "shlokas": [
         {
           "number": 2,
-          "text": "कालज्ञानं प्रायः पवंज्ञानार्थमिष्यते सद्भिः । शशिभास्करग्रहणयोर्तःद्र व्यक्तिः सफुटामेदैः h१N दिग्वर्शवलनवेलायां निमिलनोग्मीलनस्थितिविमर्दाः । स्पदा-छाया-मोक्ष-ग्रासेष्ट-ग्रास-परिलेखा",
+          "text": "कालज्ञानं प्रायः पवंज्ञानार्थमिष्यते सद्भिः । शशिभास्करग्रहणयोर्तःद्र व्यक्तिः सफुटामेदैः १ दिग्वर्शवलनवेलायां निमिलनोग्मीलनस्थितिविमर्दाः । स्पदा-छाया-मोक्ष-ग्रासेष्ट-ग्रास-परिलेखा",
           "english": "The knowledge of time is desired by the wise primarily for the understanding of astronomical phenomena (pavana-jnana). Through the manifestation of the eclipses of Chandra and Surya, true mathematical exactitude (sphuta) is verified. Furthermore, the directional orientation, versha (deflection), valana, time of observation, nimilana (total obscuration), unmilana, sthiti (duration of totality), vimarda, sparsha (beginning), chhaya, moksha (release), grasa (magnitude), ishta-grasa (magnitude at a desired time), and parilekha (graphical projection)—",
           "hindi": "काल का ज्ञान विद्वानों द्वारा मुख्य रूप से पवन (खगोलीय संस्थिति) के ज्ञान के लिए अभीष्ट है। चन्द्र और सूर्य के ग्रहणों की प्रत्यक्ष अभिव्यक्ति से स्पष्ट (स्फुट) गणितीय यथार्थता सिद्ध होती है। इसके अतिरिक्त दिग्ज्ञान, वश (वलन), वलन, वेला (समय), निमीलन, उन्मीलन, स्थिति, विमर्दि, स्पर्श, छाया, मोक्ष, ग्रास, इष्टग्रास और परिलेख (ग्राफिकल प्रक्षेपण)—",
           "status": "translated"
@@ -1110,7 +1110,7 @@
         },
         {
           "number": 17,
-          "text": "सममंडलविषुवतो गाहथा तत्रिगृहाधिकाटुंदग्याम्ये t करान्त्यंशे रपममंडलपुर्वास्याञ्चन्द्रविक्षेपः",
+          "text": "सममंडलविषुवतो गाहथा तत्रिगृहाधिकाटुंदग्याम्ये करान्त्यंशे रपममंडलपुर्वास्याञ्चन्द्रविक्षेपः",
           "english": "From the equinoctial and prime vertical, the Graha is taken being greater by three signs towards the north or south. At the end of the Kranti degrees, the Chandra-vikshepa (lunar latitude) is applied to the prime vertical in the east.",
           "hindi": "सममंडल और विषुवत से तीन राशि अधिक उत्तर या दक्षिण में ग्रह ग्राह्य है। क्रांत्यंश में सममंडल पूर्व दिशा में चन्द्रविक्षेप को जोड़ना-घटाना चाहिए।",
           "status": "translated"
@@ -1165,7 +1165,7 @@
         },
         {
           "number": 4,
-          "text": "त्रिज्याकृते चतुर्गुणशकुहताया फलेन भक्तायाः। _ तात्कालिकाकराझित्रयोनलग्नान्तरज्याया",
+          "text": "त्रिज्याकृते चतुर्गुणशकुहताया फलेन भक्तायाः। तात्कालिकाकराझित्रयोनलग्नान्तरज्याया",
           "english": "Four times the square of the Trijya multiplied by the Shanku and divided by the result, [and then operated upon] with the Sine of the difference between the instantaneous Arkajna (Surya's longitude) and the Lagna.",
           "hindi": "त्रिज्या के वर्ग को चार से गुणा करके शंकु से हत (गुणा) करने पर जो फल प्राप्त हो, उससे भजित (भाग देने पर), तथा तात्कालिकार्कज्ञ (सूर्य की स्थिति) और लग्न के अंतर की ज्या के साथ (संस्कार करने पर)।",
           "status": "translated"
@@ -1186,7 +1186,7 @@
         },
         {
           "number": 7,
-          "text": "रविशश्िपातगतिकला लम्बनघटिका गुराषष्टचा t यदि लम्बनमरामना धनमधिकाः स्वफललिप्ताभिः",
+          "text": "रविशश्िपातगतिकला लम्बनघटिका गुराषष्टचा यदि लम्बनमरामना धनमधिकाः स्वफललिप्ताभिः",
           "english": "The minutes of motion of the Surya, Chandra, and Pata (Rahu), multiplied by the Lambana-Ghatika and divided by sixty, yield the correction. If the Lambana exceeds the calculated value, the excess is added to the minutes of the result.",
           "hindi": "सूर्य, चन्द्र और पात की गति-कलाओं को लम्बना-घटिका से गुणा करके साठ से भाग देने पर फल प्राप्त होता है। यदि लम्बना अधिक हो, तो उस अधिकता को स्वफल-लिप्ताओं में जोड़ देना चाहिए।",
           "status": "translated"
@@ -1221,7 +1221,7 @@
         },
         {
           "number": 13,
-          "text": "संयोगान्तरमवनतिशशांकविक्षेपयोः ` सामान्यदिशो स्फुटविक्षेपः शशिवत्‌ स्थित्यद्धं विमदंदलनाडचः",
+          "text": "संयोगान्तरमवनतिशशांकविक्षेपयोः सामान्यदिशो स्फुटविक्षेपः शशिवत्‌ स्थित्यद्धं विमदंदलनाडचः",
           "english": "The sum or difference of the avanati (celestial latitude correction) and the Vikshepa (celestial latitude) of Chandra, according to whether their directions are the same or opposite, gives the Sphuta Vikshepa (true celestial latitude). Just like for Chandra, half the duration of occultation or eclipse (Sthityardha) is calculated in terms of time units (Nadi/Dala).",
           "hindi": "अवनति और चन्द्र के विक्षेप का योग अथवा अन्तर—उनकी दिशाएँ समान होने पर योग और भिन्न होने पर अन्तर—स्फुट विक्षेप होता है। चन्द्रमा के ही समान स्थितिार्ध (ग्रहण या आच्छादन की स्थिति का आधा भाग) नाड़ी आदि कालमान में निकाला जाता है।",
           "status": "translated"
@@ -1408,7 +1408,7 @@
         },
         {
           "number": 2,
-          "text": "` रविद्रष्टं सितमद्धं कृष्णमहृष्टं यथा तपस्थस्य । कुम्भस्य तथासन्नं सेरधस्थस्य चन्द्रस्य",
+          "text": "रविद्रष्टं सितमद्धं कृष्णमहृष्टं यथा तपस्थस्य । कुम्भस्य तथासन्नं सेरधस्थस्य चन्द्रस्य",
           "english": "As observed by a person situated in a penance-grove (or in a fixed position), half of Shukra (facing Surya) is bright and the dark half is invisible, just like the case of a pitcher placed near a lamp where the side facing the lamp is bright and the opposite side is dark.",
           "hindi": "जैसे किसी तपस्या में स्थित व्यक्ति द्वारा देखे जाने पर शुक्र का (सूर्य की ओर का) आधा भाग उज्ज्वल और कृष्ण भाग अदृश्य होता है, वैसे ही दीपक के पास रखे हुए कुम्भ (घड़े) का होता है, जिसका दीपक की ओर का आधा भाग उज्ज्वल और विपरीत भाग कृष्ण (अंधेरा) होता है।",
           "status": "translated"
@@ -1422,7 +1422,7 @@
         },
         {
           "number": 4,
-          "text": "रविचन्द्रपात लग्ने सवकगान्त्युदयास्तलग्नगतञञेषाः _ घटिकाः स्वचराद्ध॑स्तौ स्वेष्टकालिकः शीतगो कृत्वा",
+          "text": "रविचन्द्रपात लग्ने सवकगान्त्युदयास्तलग्नगतञञेषाः घटिकाः स्वचराद्ध॑स्तौ स्वेष्टकालिकः शीतगो कृत्वा",
           "english": "Having found the Ravi-Chandra pata, Lagna, all the ascensional equivalents (krantyudaya), the rising and setting Lagnas, and the remaining Ghati, Pala, and Vikala using one's own Chara half, one determines the position of Sheetagoo (Chandra) for any desired time.",
           "hindi": "रवि और चन्द्रमा के पात, लग्न, समस्त क्रांत्युदय, उदय और अस्त लग्न तथा शेष घटिका, पल और विकल को अपने चरार्ध से साधन करके, शीतगु (चन्द्रमा) की इष्टकालिक स्थिति को प्राप्त करे।",
           "status": "translated"
@@ -1450,7 +1450,7 @@
         },
         {
           "number": 8,
-          "text": "वियुतसहिते रविन्द्रोरेकान्यकपालसंस्कृतयोराद्य । \\ रविशशिहृक्‌ शंक्वन्तरमन्योऽष्टक्‌ हश्यञंक्कक्यम्‌",
+          "text": "वियुतसहिते रविन्द्रोरेकान्यकपालसंस्कृतयोराद्य । रविशशिहृक्‌ शंक्वन्तरमन्योऽष्टक्‌ हश्यञंक्कक्यम्‌",
           "english": "When Surya and Chandra are in the same or different hemispheres, the difference between the two Shankus is calculated. The other value is the sum of the visible Shankus, which is used to determine the distance between them.",
           "hindi": "जब सूर्य और चन्द्र एक ही या भिन्न गोलार्धों में स्थित हों, तब दोनों शङ्कुओं का अन्तर निकाला जाता है। अन्य मान दृश्य शङ्कुओं का योग है, जिसका उपयोग उनके बीच की दूरी ज्ञात करने में किया जाता है।",
           "status": "translated"
@@ -1471,7 +1471,7 @@
         },
         {
           "number": 11,
-          "text": "व्यकन्दुदलभुजाशाः शशिमानगुणाः शितं नवतिभक्ताः \\ दविगुणांशो फ्रमजीवाद्यावन्तवतिरंशाः",
+          "text": "व्यकन्दुदलभुजाशाः शशिमानगुणाः शितं नवतिभक्ताः दविगुणांशो फ्रमजीवाद्यावन्तवतिरंशाः",
           "english": "The Bhujamsa of the Chandra and Surya, multiplied by the gunas (three) and divided by ninety, yield the kramajya and other values up to the desired amsas, multiplied by two.",
           "hindi": "चन्द्र और सूर्य के भुज्यांश को तीन से गुणा करके नब्बे से भाग देने पर, और दो से गुणा करने पर, क्र्मज्या आदि अभीष्ट अंशों तक प्राप्त होते हैं।",
           "status": "translated"
@@ -1561,7 +1561,7 @@
         },
         {
           "number": 8,
-          "text": "ज्येष्टापक्रमभागैमंध्यायारकवच्छञ्ञाकस्य \\ शिवमादातामृक्षाणां तु स्वकांत ध्र वकात्‌",
+          "text": "ज्येष्टापक्रमभागैमंध्यायारकवच्छञ्ञाकस्य शिवमादातामृक्षाणां तु स्वकांत ध्र वकात्‌",
           "english": "Using the degrees of maximum declination (Jyeshtha-apakrama-bhaga, i.e., 24°), the meridian declination of Chandra is calculated in the same manner as that of Surya. For the Nakshatras, the values are computed from their respective Dhruvaka (polar longitude/latitude coordinates) and Sva-kranti (own declination).",
           "hindi": "परम-अपक्रम के अंशों (२४°) के द्वारा चन्द्र की मध्या-क्रान्ति का साधन सूर्य के समान ही किया जाता है। नक्षत्रों के लिए गणना उनके अपने ध्रुवक (ध्रुवीय निर्देशांक) और स्व-क्रान्ति (निज अपक्रम) के आधार पर की जाती है।",
           "status": "translated"
@@ -1595,7 +1595,7 @@
         },
         {
           "number": 5,
-          "text": "एको वक्रिभुत्तथोयुत्योनः घ्रागथादधिकः । _ पश्चात्‌ ग्रहयोरन्तर लिप्तास्त्थैवभक्ताः स्वभुक्तिः ग॒णाः",
+          "text": "एको वक्रिभुत्तथोयुत्योनः घ्रागथादधिकः । पश्चात्‌ ग्रहयोरन्तर लिप्तास्त्थैवभक्ताः स्वभुक्तिः ग॒णाः",
           "english": "When a planet is Vakri (retrograde), the Bhukti is subtracted or added based on the position. The difference in minutes between the two planets, divided by their respective Bhukti, yields the Guna (multiplier) for the calculation.",
           "hindi": "जब कोई ग्रह वक्री होता है, तो उसकी भुक्ति स्थिति के अनुसार घटाई या बढ़ाई जाती है। दो ग्रहों के बीच का अंतर (लिप्ता में), उनकी संबंधित भुक्ति से विभाजित करने पर, गणना के लिए गुणक (गुण) प्राप्त होता है।",
           "status": "translated"
@@ -1818,7 +1818,7 @@
         },
         {
           "number": 14,
-          "text": "( १४१ ) उदयिकाहिन भुत्तचाद्ध रात्रिको मध्यमोभवेत्‌ पूतः । कतरं स्फुर्टं न निर्चितमनयोः ₹्फुटमेकमपि नातः",
+          "text": "उदयिकाहिन भुत्तचाद्ध रात्रिको मध्यमोभवेत्‌ पूतः । कतरं स्फुर्टं न निर्चितमनयोः ₹्फुटमेकमपि नातः",
           "english": "Having subtracted the Udayika Ahargana from the Ardharatrika, the Madhyama (mean) planet is obtained. Which of these two is the true (Sphuta) is not definitively ascertained, hence neither of them alone is considered completely Sphuta.",
           "hindi": "ार्धरात्रिक अहर्गण में से उदयिक अहर्गण को घटाने पर मध्यम ग्रह प्राप्त होता है। इन दोनों में से कौन सा स्फुट है, यह निश्चित रूप से निर्धारित नहीं किया गया है, अतः इनमें से कोई भी एक अकेला पूर्णतः स्फुट नहीं है।",
           "status": "translated"
@@ -2063,7 +2063,7 @@
         },
         {
           "number": 49,
-          "text": "युगयातवर्षभगणान्‌ वारिष्टात्‌ विजयनंदिक्रतपादान्‌ \\ मंदोच्चपरिधिपातस्पष्टीकरणाद्यमार्यंभटातु",
+          "text": "युगयातवर्षभगणान्‌ वारिष्टात्‌ विजयनंदिक्रतपादान्‌ मंदोच्चपरिधिपातस्पष्टीकरणाद्यमार्यंभटातु",
           "english": "From Varishta, Vijayanandi, and the foundational works of Aryabhata, the revolutions in a Yuga, elapsed years, and the methods for Mandocca, paridhi (epicycle circumference), pata, and sphutikarana (calculation of true positions) are derived.",
           "hindi": "वरिष्ठ, विजयनन्दी और आर्याभट के ग्रन्थपादों से युगगत वर्ष, भगण तथा मन्दोच्च, परिधि, पात और स्पष्टीकरण की विधियाँ प्राप्त की जाती हैं।",
           "status": "translated"
@@ -2154,14 +2154,14 @@
         },
         {
           "number": 62,
-          "text": "योयज्जनात्तेषां स वेत्ति तदषणानि कथितानि । ` ग्रायेभटाद्य क्तानां तन्त्राणां दुषणाध्याये",
+          "text": "योयज्जनात्तेषां स वेत्ति तदषणानि कथितानि । ग्रायेभटाद्य क्तानां तन्त्राणां दुषणाध्याये",
           "english": "Whatever faults of the treatises expounded by Aryabhata and others are known to those people, those very flaws have been stated in this Chapter on Refutations (Dūshaṇādhyāya).",
           "hindi": "आर्यभट आदि द्वारा प्रतिपादित तंत्रों के जो-जो दोष उन लोगों द्वारा जाने जाते हैं, वे ही दोष इस दूषणाध्याय में कहे गए हैं।",
           "status": "translated"
         },
         {
           "number": 63,
-          "text": "इत्ति कविततन्त्रासाकान्यठतिरपि दूषणः करोत्यज्ञानात्‌ \\ तन्त्र परीक्षार्यरां त्रिषष्टिरेकादशोध्यायः",
+          "text": "इत्ति कविततन्त्रासाकान्यठतिरपि दूषणः करोत्यज्ञानात्‌ तन्त्र परीक्षार्यरां त्रिषष्टिरेकादशोध्यायः",
           "english": "Thus, due to ignorance, a critic also points out flaws in a well-composed Siddhanta text out of lack of understanding. This concludes the sixty-third verse of the eleventh chapter intended for the examination of the Tantra (treatise).",
           "hindi": "इस प्रकार अज्ञानतावश कोई आलोचक भी समझ की कमी के कारण सुंदर रचित तन्त्र ग्रन्थ में दोष निकालता है। यह तन्त्र की परीक्षा के लिए एकादश अध्याय का त्रेषष्टि (तिरपनवाँ/त्रिसंख्या) श्लोक है।",
           "status": "translated"
@@ -2447,14 +2447,14 @@
         },
         {
           "number": 41,
-          "text": "वृत्ते दारोनगुणितात्‌ व्यासाञ्चतुराहतात्पद जीवा । ` ज्यावर्गश्चतुराहतशरभक्तः शरयुतो व्यासः",
+          "text": "वृत्ते दारोनगुणितात्‌ व्यासाञ्चतुराहतात्पद जीवा । ज्यावर्गश्चतुराहतशरभक्तः शरयुतो व्यासः",
           "english": "The Jya (sine) is the square root of the product of the diameter multiplied by the arrow (Shara) and four. The square of the Jya divided by four times the Shara, added to the Shara, gives the diameter.",
           "hindi": "व्यास को शर (उत्क्रमज्या) और चार से गुणा करने पर प्राप्त गुणनफल का वर्गमूल 'ज्या' होती है। ज्या का वर्ग, चार गुना शर से विभाजित होकर, शर के साथ जुड़ने पर व्यास प्रदान करता है।",
           "status": "translated"
         },
         {
           "number": 42,
-          "text": "ज्याव्यासकृति विञ्नेषान्सुलव्यासांतराद्धं मिषुरह्पः \\ व्यासो ग्रासोनगरपौ ग्रासो नंवयोद्धतो बाण",
+          "text": "ज्याव्यासकृति विञ्नेषान्सुलव्यासांतराद्धं मिषुरह्पः व्यासो ग्रासोनगरपौ ग्रासो नंवयोद्धतो बाण",
           "english": "The square of the Jya (sine) of the radius is divided by the difference between the radius and the arrow (Sara); half of this result is the Sara (arrow) of the small circle. When the diameter is diminished by the Grasa (eclipse magnitude), the remainder is the diameter of the eclipsed portion; the Grasa is the arrow (Sara) derived from this.",
           "hindi": "त्रिज्या की ज्या के वर्ग को त्रिज्या और शर (बाण) के अंतर से विभाजित करने पर प्राप्त फल का आधा भाग लघु वृत्त का शर होता है। जब व्यास में से ग्रास को घटा दिया जाता है, तो शेष भाग ग्रसित भाग का व्यास होता है; यही ग्रास उस (वृत्त) का शर (बाण) कहलाता है।",
           "status": "translated"
@@ -2482,7 +2482,7 @@
         },
         {
           "number": 46,
-          "text": "` उद्रगणिताद्विशोध्य व्यवहारफलं त्रिभिर्भेजेछेशम्‌ । लब्बं व्यवहारफले प्रक्षिप्य फलं भवति सृक्ष्मं",
+          "text": "उद्रगणिताद्विशोध्य व्यवहारफलं त्रिभिर्भेजेछेशम्‌ । लब्बं व्यवहारफले प्रक्षिप्य फलं भवति सृक्ष्मं",
           "english": "Subtracting the Vyavahara-phala (practical result) from the Udaya-ganita (calculated result) and dividing by three, then adding this result back to the Vyavahara-phala, yields the Sookshma-phala (precise result).",
           "hindi": "उदय-गणित से व्यावहारिक-फल को घटाकर तीन से विभाजित करें, फिर उस लब्धि (फल) को व्यावहारिक-फल में जोड़ देने पर सूक्ष्म-फल प्राप्त होता है।",
           "status": "translated"
@@ -2524,7 +2524,7 @@
         },
         {
           "number": 52,
-          "text": "राझिव्यवहा रः समाप्तः । छायांतरसेकहुतं द्यदलं प्रापरयो दुगतशेषम्‌ t दिनगतं शेषांशहूतं द्यदलं छायांतरब्येकम्‌",
+          "text": "छायांतरसेकहुतं द्यदलं प्रापरयो दुगतशेषम्‌ t दिनगतं शेषांशहूतं द्यदलं छायांतरब्येकम्‌",
           "english": "The section on Rashi-vyavahara (calculations involving signs) is concluded. The difference between the shadows, multiplied by the half-day (dyudala), divided by the elapsed portion of the day, gives the remainder of the day. Alternatively, the elapsed day multiplied by the remainder of the day, divided by the half-day, adjusted by the shadow difference, provides the result.",
           "hindi": "राशि-व्यवहार समाप्त हुआ। छायाओं का अंतर, दिन के आधे भाग (द्युदल) से गुणित होकर, दिन के व्यतीत भाग से विभाजित करने पर दिन का शेष भाग प्राप्त होता है। अथवा, व्यतीत दिन को दिन के शेष भाग से गुणा कर, द्युदल से विभाजित करने पर छायांतर के साथ समायोजित करने पर अभीष्ट प्राप्त होता है।",
           "status": "translated"
@@ -2615,7 +2615,7 @@
         },
         {
           "number": 65,
-          "text": "स्थानांतरेव्‌ लब्वं येन समं फलय॒तोनकछेद \\ दलितकृतियोगान्तरपदमितरो वा फलय॒तो नः",
+          "text": "स्थानांतरेव्‌ लब्वं येन समं फलय॒तोनकछेद दलितकृतियोगान्तरपदमितरो वा फलय॒तो नः",
           "english": "In different positions, the quotient obtained is equal to the sum of the results divided by the denominator. Alternatively, the square root of the sum or difference of the squares of the halved quantities, when added to the result, provides the value.",
           "hindi": "स्थानांतरों में, प्राप्त लब्धि (भागफल) फल के योग और छेद (भाजक) के समान होती है। अथवा, दलित (आधे) किए गए वर्गों के योग या अंतर का वर्गमूल, फल में जोड़ने पर अभीष्ट मान प्रदान करता है।",
           "status": "translated"
@@ -2663,7 +2663,7 @@
         },
         {
           "number": 5,
-          "text": "इष्टान्मध्यादन्यांस्तिथिगिष्ट्ान्मध्यमाछशिग्रहणम्‌ \\ ष्टाद्रविदुपाते यो वेत्ति बिना स तंत्रज्ञः",
+          "text": "इष्टान्मध्यादन्यांस्तिथिगिष्ट्ान्मध्यमाछशिग्रहणम्‌ ष्टाद्रविदुपाते यो वेत्ति बिना स तंत्रज्ञः",
           "english": "He who knows how to calculate the Tithi (lunar day) from the Madhyama (mean) position, the Grahana (eclipse) from the Madhyama position of the Grahas, and the Parva (conjunction/opposition) from the position of Surya and the Pata (nodes), without external aids, is a master of the Tantra.",
           "hindi": "जो व्यक्ति इष्ट मध्यमान से तिथि, ग्रहों के मध्यमान से ग्रहण, और सूर्य तथा पात (राहु-केतु) की स्थिति से पर्व (ग्रहण काल) की गणना बिना किसी अन्य सहायता के जानता है, वही तंत्रज्ञ है।",
           "status": "translated"
@@ -2747,7 +2747,7 @@
         },
         {
           "number": 22,
-          "text": "ग्रधिमासोवमश्ञेषयुगश्ञशिमूह्वते पृथग्लब्धे ` मासदिनाद्य स्याप्ये गतमासदितानि चत्राद्य :",
+          "text": "ग्रधिमासोवमश्ञेषयुगश्ञशिमूह्वते पृथग्लब्धे मासदिनाद्य स्याप्ये गतमासदितानि चत्राद्य :",
           "english": "The Adhimasa-shesha and Avama-shesha (remainder of omitted lunar days) are placed separately. When divided by their respective divisors, the quotient gives the elapsed months and days, which are then used to determine the elapsed time from the beginning of the cycle.",
           "hindi": "अधिमास-शेष और अवम-शेष को अलग-अलग रखें। अपने-अपने भाजकों से भाग देने पर जो लब्धि प्राप्त होती है, वह गत मास और दिन होते हैं, जिनसे चक्र के आरंभ से व्यतीत समय की गणना की जाती है।",
           "status": "translated"
@@ -2768,7 +2768,7 @@
         },
         {
           "number": 26,
-          "text": "तिथिविकलषष्टिघाताद्रविह्ृतभुक्तंतराप्तघटिकासु t देशांतरमनुलोमं भुजांतरं चारकं फलमसवः",
+          "text": "तिथिविकलषष्टिघाताद्रविह्ृतभुक्तंतराप्तघटिकासु देशांतरमनुलोमं भुजांतरं चारकं फलमसवः",
           "english": "Multiply the Tithi-vikala by sixty and divide by the difference of the daily motion of Surya and Chandra to obtain the Ghati. Apply the Deshantara (longitude correction) in the Anuloma direction, and apply the Bhujantara (equation of center correction) to determine the final Phala in Asavas (time units).",
           "hindi": "तिथि-विकला को साठ से गुणा करके सूर्य और चन्द्रमा की दैनिक गति के अन्तर से भाग देने पर घटिका प्राप्त होती है। देशान्तर को अनुलोम दिशा में संस्कारित करें और भुजांतर फल का प्रयोग करके असवों (समय की इकाई) में अंतिम फल ज्ञात करें।",
           "status": "translated"
@@ -2887,7 +2887,7 @@
         },
         {
           "number": 48,
-          "text": "त्रिचजुरनंतर षष्टयः सावनमासाब्ददितपहोरेश्ाः । दिनगतघटिका द्विगुणा पंच हृताश्चान्यमतमेतत्‌ h४७॥ गछधनमिष्ट गुणितंघनर्युतोनं पृथक्‌ पथक्‌ सहितम्‌ । 3 गुराक युतोन पदहूत सरवंघनमतोवशेषारि",
+          "text": "त्रिचजुरनंतर षष्टयः सावनमासाब्ददितपहोरेश्ाः । दिनगतघटिका द्विगुणा पंच हृताश्चान्यमतमेतत्‌ ४७॥ गछधनमिष्ट गुणितंघनर्युतोनं पृथक्‌ पथक्‌ सहितम्‌ । 3 गुराक युतोन पदहूत सरवंघनमतोवशेषारि",
           "english": "Three, four, four, and subsequently sixty (representing the lords of days, months, years, and horas respectively). Alternatively, another opinion states: The elapsed Ghatis of the day, multiplied by two and divided by five — this is another method.",
           "hindi": "तीन, चार, चार और इसके पश्चात साठ (क्रमशः सावन मास, वर्ष और दिन तथा होरा के स्वामी)। अथवा अन्य मत यह है: दिन की गत घटिका को दो से गुणा करके पाँच से भाग दें — यह दूसरा मत है।",
           "status": "translated"
@@ -2921,14 +2921,14 @@
         },
         {
           "number": 4,
-          "text": "` _ द्युगुरास्फुटग्रहयो भुजकोटिज्ये फले विना ज्याभिः। . ज्याभिविना फलघनुः करोति वा स्फुटगतिज्ञः",
+          "text": "द्युगुरास्फुटग्रहयो भुजकोटिज्ये फले विना ज्याभिः। . ज्याभिविना फलघनुः करोति वा स्फुटगतिज्ञः",
           "english": "He who computes the Bhuja and Koti Jyas of the uncorrected (Asphuta) grahas along with the Ahargana, without the standard Jyas, or who computes the arc of the anomaly (Phala-dhanus) without the Jyas—he indeed is the knower of true planetary motion (Sphuta-gatijna).",
           "hindi": "जो द्युगण (अहरगण) सहित असफुट ग्रहों की भुज और कोटि ज्याओं को ज्याओं के बिना साधता है, अथवा ज्याओं के बिना फल-धनु (चापीय मान) को सिद्ध करता है, वही स्पष्ट-गति का ज्ञाता है।",
           "status": "translated"
         },
         {
           "number": 7,
-          "text": "इष्टश्विन्योदयिकान्‌ करोति यो मध्यमान्‌ ग्रहान्‌ स्पष्टान्‌ । स्वोच्चर्फटेय्र उ यः करोति वा र्फटराजिज' °)! ५१) संक्ोम्तेरा यंतो ग्रंह्य यो राजिभतिथिकरशांतान्‌ । ` च्यतिपाताद्यंतौ वा यो वेत्ति स्फुटगतिज्ञ सः ६॥ च्यासदलमितरजोवाभुजको्येशो क्रमज्यया हीनम्‌ । कोटिभुजज्या व्यासाद्धंकृतिविदेषात्पदं चान्या",
+          "text": "इष्टश्विन्योदयिकान्‌ करोति यो मध्यमान्‌ ग्रहान्‌ स्पष्टान्‌ । स्वोच्चर्फटेय्र उ यः करोति वा र्फटराजिज' °)! ५१) संक्ोम्तेरा यंतो ग्रंह्य यो राजिभतिथिकरशांतान्‌ । च्यतिपाताद्यंतौ वा यो वेत्ति स्फुटगतिज्ञ सः ६॥ च्यासदलमितरजोवाभुजको्येशो क्रमज्यया हीनम्‌ । कोटिभुजज्या व्यासाद्धंकृतिविदेषात्पदं चान्या",
           "english": "Half of the Vyasa (diameter) or similar quantities, subtracted by the Kramajya corresponding to the Bhuja and Koti, and deriving the pada (quadrant) from the difference of the squares of the radius and the Jya—he who knows this is well-versed in astronomical operations.",
           "hindi": "व्यास के आधे अथवा वैसी ही अन्य राशियों में से भुज और कोटि के क्रमज्या को घटाकर तथा त्रिज्या और ज्या के वर्गों के अन्तर से पद को साधने वाला जो व्यक्ति है, वह गणित-विद्या का ज्ञाता है।",
           "status": "translated"
@@ -3096,14 +3096,14 @@
         },
         {
           "number": 32,
-          "text": "चक्राद्धेर्क शशियुतो भिन्नायनयोरपक्रमच्चे \\ रविज्ञशिनोः समसधघृतयोगादित्रु वध्ब्यतिपातः",
+          "text": "चक्राद्धेर्क शशियुतो भिन्नायनयोरपक्रमच्चे रविज्ञशिनोः समसधघृतयोगादित्रु वध्ब्यतिपातः",
           "english": "When the sum of the longitudes of Surya and Chandra equals half a circle (180 degrees), and they are situated in different Ayanas (solstices) with their Kranti (declination) being equal, the combination of the sum of their longitudes results in Vyatipata.",
           "hindi": "जब सूर्य और चन्द्रमा के भोग्यांशों का योग अर्ध-चक्र (१८० अंश) हो, वे भिन्न अयन में स्थित हों और उनकी क्रांति समान हो, तब सूर्य और चन्द्रमा के योग से व्यतिपात योग होता है।",
           "status": "translated"
         },
         {
           "number": 33,
-          "text": "` दक्र वे घृतमेकायतस्थयोः क्रांतिजीवयोः साम्ये । घनरविगरियोगादर्नि वदूनाधिक कलम्यः",
+          "text": "दक्र वे घृतमेकायतस्थयोः क्रांतिजीवयोः साम्ये । घनरविगरियोगादर्नि वदूनाधिक कलम्यः",
           "english": "When Surya and Chandra are in the same Ayana and their Kranti-Jya (sine of declination) are equal, the combination of the sum of their longitudes results in Vaidhriti. This is determined by the equality of their declination values.",
           "hindi": "जब सूर्य और चन्द्रमा एक ही अयन में स्थित हों और उनकी क्रांति-ज्या समान हो, तब सूर्य और चन्द्रमा के योग से वैधृति योग होता है। यह उनकी क्रांति के मान की समानता से जाना जाता है।",
           "status": "translated"
@@ -3256,7 +3256,7 @@
       "shlokas": [
         {
           "number": 1,
-          "text": "स्फुटगत्युत्तरमन्या दिश्ञानयाप्पूहयेतप्रशनम्‌ i योह्वपूर्वापरयोस्तुल्यछायांगुलाग्रयो बिन्दु । विक्ष्याक्गां्त्याक्षांशे विना दिशो वेत्ति गणकः सः",
+          "text": "स्फुटगत्युत्तरमन्या दिश्ञानयाप्पूहयेतप्रशनम्‌ योह्वपूर्वापरयोस्तुल्यछायांगुलाग्रयो बिन्दु । विक्ष्याक्गां्त्याक्षांशे विना दिशो वेत्ति गणकः सः",
           "english": "A proficient astronomer is one who knows the directions without relying on Kranti (declination) and Akshamsha (latitude), by observing the point of intersection of two identical Chhaya (shadow) angula tips towards the east and west, or by deducing the answer through the subsequent calculation of Sphuta Gati (corrected motion).",
           "hindi": "वह गणक (खगोलशास्त्री) प्रतापी है जो क्रांति और अक्षमांश के बिना, पूर्व और पश्चिम दिशा में दो समान छाया-अंगुलाग्रों के बिन्दु को देखकर, अथवा स्पष्ट गति के उत्तर (गणना) से प्रश्न का अनुमान लगाकर दिशाओं को जानता है।",
           "status": "translated"
@@ -3473,14 +3473,14 @@
         },
         {
           "number": 33,
-          "text": "व्यस्ता चा जादीनां कलांशलग्नमिष्टघरिकांचः t लग्ना घटिकाः कालाद विनेवे स्वराइयूदयैः",
+          "text": "व्यस्ता चा जादीनां कलांशलग्नमिष्टघरिकांचः लग्ना घटिकाः कालाद विनेवे स्वराइयूदयैः",
           "english": "And the reversed kalas and amshas of the mesha-adi (first signs starting from Mesha) determine the Lagna corresponding to the desired ghatikas. The ghatikas of Lagna are derived from Kala, otherwise through the risings of one's own rashi (svodaya).",
           "hindi": "और मेषादि (मेष राशि से आरंभ होने वाली राशियों) के विपरीत कला और अंश इष्ट घटिकाओं के अनुरूप लग्न को निर्धारित करते हैं। लग्न की घटिकाएँ काल से, अथवा स्वराशि के उदय (स्वोदय) के माध्यम से प्राप्त होती हैं।",
           "status": "translated"
         },
         {
           "number": 34,
-          "text": "_ इष्टॉर्क चराद्ध ज्या क्षयवृद्धिज्यायुरात्रिदलगुशिता t व्यासाद्धन विभक्ता क्षितिजा ट्वादशगुरा भक्ता",
+          "text": "इष्टॉर्क चराद्ध ज्या क्षयवृद्धिज्यायुरात्रिदलगुशिता व्यासाद्धन विभक्ता क्षितिजा ट्वादशगुरा भक्ता",
           "english": "The chara-ardha-jya (sine of half-ascensional difference) of the desired Surya, combined with the kshaya-vriddhi-jya (sine of increase or decrease of day/night), multiplied by the day-half (ahoratradala), and divided by the half-diameter (vyasardha/trijya), and divided by twelve multiplied by kshitija...",
           "hindi": "इष्ट सूर्य की चरार्धज्या, क्षयवृद्धिज्या (दिन-रात्रि की वृद्धि-क्षय की ज्या) से युक्त, अहोरत्रदल से गुणित, त्र्यासाध (त्रिज्या) से विभक्त, और बारह से गुणित तथा क्षितिजा द्वारा विभक्त...",
           "status": "translated"
@@ -3571,7 +3571,7 @@
         },
         {
           "number": 48,
-          "text": "शंकृतलशंकगरिते त्रिज्ये तद्वर्गयृतिपदविभक्त ` भ्रक्षावलंबज्ये यय. दलस्थेऽकन्यदा य दलात्‌",
+          "text": "शंकृतलशंकगरिते त्रिज्ये तद्वर्गयृतिपदविभक्त भ्रक्षावलंबज्ये यय. दलस्थेऽकन्यदा य दलात्‌",
           "english": "Multiply the Shankutala (base of the gnomon) by the Trijya (radius of the celestial sphere). Divide this by the square root of the sum of the squares of the Shankutala and the Shankugra (gnomon's shadow tip distance). This yields the Akshavalambajya (sine of the co-latitude). When the Surya is at the meridian, this calculation is performed from the meridian.",
           "hindi": "शंकुतल को त्रिज्या से गुणा करें। इसे शंकुतल और शंकुग्रा के वर्गों के योग के वर्गमूल से विभाजित करें। इससे अक्षवलम्बज्या प्राप्त होती है। जब सूर्य मध्याह्न पर स्थित हो, तब यह गणना मध्याह्न से की जाती है।",
           "status": "translated"
@@ -3599,7 +3599,7 @@
         },
         {
           "number": 53,
-          "text": "उक्रमजीवा चापं क्रमजीवाचापसहितमधिकं यत्‌ \\ दिनरात्र्यदधं प्राणाः पृथग्दिना चरदलप्राराः",
+          "text": "उक्रमजीवा चापं क्रमजीवाचापसहितमधिकं यत्‌ दिनरात्र्यदधं प्राणाः पृथग्दिना चरदलप्राराः",
           "english": "The Utkramajya-chapa (arc of the versed sine) added to the Kramajya-chapa (arc of the sine) gives the total. The half of the day and night in Pranas (time units) are calculated separately, and the Chara-dala-pranas (ascensional difference in time units) are applied accordingly.",
           "hindi": "उत्क्रमज्या-चाप को क्रमज्या-चाप में जोड़ने पर कुल मान प्राप्त होता है। दिन और रात्रि के अर्ध भाग को प्राणों में अलग-अलग गणना की जाती है, और चर-दल-प्राणों को तदनुसार प्रयुक्त किया जाता है।",
           "status": "translated"
@@ -3620,7 +3620,7 @@
         },
         {
           "number": 56,
-          "text": "_नास्तमयस्तत्र तुला मकरादिस्थस्य नोदयोकंस्य । तन्मध्यांतरलिप्ता मध्यमभुक्त्या हता दिवसाः",
+          "text": "नास्तमयस्तत्र तुला मकरादिस्थस्य नोदयोकंस्य । तन्मध्यांतरलिप्ता मध्यमभुक्त्या हता दिवसाः",
           "english": "There is no setting there for Surya situated in Tula and other signs, nor is there any rising for Surya situated in Makara and other signs. The minutes of the difference of their mid-day, multiplied by the madhyama-bhukti (mean daily motion), give the days.",
           "hindi": "तूला आदि में स्थित सूर्य का वहाँ अस्त नहीं होता है, और मकरादि में स्थित सूर्य का उदय नहीं होता है। उनके मध्यांतर की कलाओं को मध्यम भुक्ति से गुणा करने पर दिन प्राप्त होते हैं।",
           "status": "translated"
@@ -3661,7 +3661,7 @@
       "shlokas": [
         {
           "number": 1,
-          "text": "ग्रहणग्रहसंयोगग्रहः क्षीयोगेषु सवंतन्त्रविदाम्‌ । ` ग्ाचार्यछेद्यक विद्यतस्ततः छेदक वक्षे",
+          "text": "ग्रहणग्रहसंयोगग्रहः क्षीयोगेषु सवंतन्त्रविदाम्‌ । ग्ाचार्यछेद्यक विद्यतस्ततः छेदक वक्षे",
           "english": "For those well-versed in the astronomical treatises (Tantras) concerning eclipses, planetary conjunctions, and occultations (Samyoga-Grahas), the science of Chedaka (cutting/graphical projection of eclipses and occultations) is taught by the preceptors. Therefore, I shall explain the Chedaka.",
           "hindi": "ग्रहणों, ग्रहों के संयोग तथा ग्रहों के छेदन (सम्पर्क) के तन्त्रों को जानने वाले आचार्यों के लिए छेदक-विद्या (ग्राफिकल प्रक्षेप) का ज्ञान कराया जाता है। इसलिए अब मैं छेदक का वर्णन करूँगा।",
           "status": "translated"
@@ -3822,7 +3822,7 @@
         },
         {
           "number": 24,
-          "text": "माना गुराव्यासाद्धंभाजिता पुर्ववत्‌ प्रसार्या स्यात्‌ । ` करा प्रसार्य मध्यादग्नं मध्येन कर्णाग्रात्‌",
+          "text": "माना गुराव्यासाद्धंभाजिता पुर्ववत्‌ प्रसार्या स्यात्‌ । करा प्रसार्य मध्यादग्नं मध्येन कर्णाग्रात्‌",
           "english": "The measure multiplied by half the diameter of Guru and divided by the divisor should be extended as before. Having extended the ... from the center to the tip of the karna through the middle.",
           "hindi": "मान को गुरु के व्यासार्ध से गुणा कर भाजित करने पर पूर्ववत् प्रसारित होना चाहिए। ... मध्य से कर्ण के अग्रभाग तक प्रसार करके।",
           "status": "translated"
@@ -3850,7 +3850,7 @@
         },
         {
           "number": 28,
-          "text": "प्रग्हणांतर घटिकासूपरिधिहता विभाजयेत्‌ षष्ट्या । ` फलयोजनेइचवंत्या प्राग्वत्‌ प्रागपरयोर्द्ञः",
+          "text": "प्रग्हणांतर घटिकासूपरिधिहता विभाजयेत्‌ षष्ट्या । फलयोजनेइचवंत्या प्राग्वत्‌ प्रागपरयोर्द्ञः",
           "english": "Multiply the difference in Ghati by the Paridhi (circumference) and divide by sixty; the resulting Phala in Yojanas should be applied to the east or west as previously described.",
           "hindi": "घटी के अंतर को परिधि से गुणा करके साठ से विभाजित करें; प्राप्त फल (योजन में) को पूर्व या पश्चिम दिशा के अनुसार पूर्ववत संस्कारित करना चाहिए।",
           "status": "translated"
@@ -3941,7 +3941,7 @@
         },
         {
           "number": 41,
-          "text": "दु यांतरं स्थितिदलेन ह्ृतमिष्टनाडिकागुरितम्‌ \\ ग्राहचफलांगुलस्थंग्राहकमानेन परिलेखः",
+          "text": "दु यांतरं स्थितिदलेन ह्ृतमिष्टनाडिकागुरितम्‌ ग्राहचफलांगुलस्थंग्राहकमानेन परिलेखः",
           "english": "The difference in longitudes (Madhyantara) divided by half the duration of the eclipse (Sthitidala) and multiplied by the desired time in Nadikas (Ishtanadika), when divided by the standard measure of the Graha (Grahasphuta / Grahakamana), yields the measurement in angulas for the Parilekha (graphical representation of the eclipse).",
           "hindi": "देशान्तर को स्थितिदल से भाग देकर इष्ट नाड़िका से गुणा किया जाए और ग्राह्य के मान (ग्राहकमानी) से भाग दिया जाए, तो परिलेख के लिए अंगुल प्रमाण प्राप्त होता है।",
           "status": "translated"
@@ -4024,7 +4024,7 @@
         },
         {
           "number": 5,
-          "text": "करगतस्थेनेन्दो शुक्ल परिलेख्य परिचमाभिमुल \\ राशिषु मेषतुलादिषु संशोध्य दिवाकरं चन्द्रात्‌",
+          "text": "करगतस्थेनेन्दो शुक्ल परिलेख्य परिचमाभिमुल राशिषु मेषतुलादिषु संशोध्य दिवाकरं चन्द्रात्‌",
           "english": "Having drawn the white parilekha of Chandra facing the western direction with the instrument in hand, and having subtracted Divakara (Surya) from Chandra in the rashis starting from Mesha and Tula...",
           "hindi": "करगत (उपकरण) द्वारा पश्चिम दिशा की ओर मुख करके चन्द्रमा के शुक्ल परिलेख को खींचकर, तथा मेष और तुला आदि राशियों में चन्द्रमा से दिवाकर (सूर्य) को घटाकर...",
           "status": "translated"
@@ -4107,7 +4107,7 @@
         },
         {
           "number": 7,
-          "text": "भगरादिज्ञेषमग छेदहृतं ख़ चर दिनजशेषहतम्‌ \\ श्चनयोरग' भगरपादि दिनजश्ञेषोद्तं दगुणः",
+          "text": "भगरादिज्ञेषमग छेदहृतं ख़ चर दिनजशेषहतम्‌ श्चनयोरग' भगरपादि दिनजश्ञेषोद्तं दगुणः",
           "english": "The remainder of the revolutions (Bhagana) divided by the divisor, and the remainder of the days (Ahargana) multiplied by the divisor, when processed through the Kuttaka method, yield the multiplier and the remainder of the days.",
           "hindi": "भगणों के शेषफल को भाजक से विभाजित करने पर, और अहरगण (दिनों) के शेषफल को भाजक से गुणा करने पर, कुट्टक विधि के प्रयोग से गुणक और दिनों का शेषफल प्राप्त होता है।",
           "status": "translated"
@@ -4184,7 +4184,7 @@
         },
         {
           "number": 21,
-          "text": "\\ निद्धेदभागहाराद्राइयादि कलानाहताडू _क्तात्‌ । भगणाकलाभिलंब्धं मंडलशेषं दिनगणोस्मात्‌",
+          "text": "निद्धेदभागहाराद्राइयादि कलानाहताडू क्तात्‌ । भगणाकलाभिलंब्धं मंडलशेषं दिनगणोस्मात्‌",
           "english": "From the remainder of the division of the multiplied minutes (Kala) by the Bhagana (total revolutions), the Ahargana (number of days) is derived from the remainder of the Mandala (cycle).",
           "hindi": "भगणों द्वारा गुणित कलाओं के भागफल से प्राप्त शेष से, मण्डल (चक्र) के शेष के माध्यम से अहर्गण (दिनों की संख्या) ज्ञात किया जाता है।",
           "status": "translated"
@@ -4219,7 +4219,7 @@
         },
         {
           "number": 30,
-          "text": "इति श्री कुहक प्रकरणम्‌ < _१ गथ धनणां श्रूत्यानां संकलना घनयोरघनमूरायोघेनरायोरंतरं समक्यखं । वर्शक्यमृणां धनशून्ययोः दूनं शून्ययोः शून्यम्‌",
+          "text": "गथ धनणां श्रूत्यानां संकलना घनयोरघनमूरायोघेनरायोरंतरं समक्यखं । वर्शक्यमृणां धनशून्ययोः दूनं शून्ययोः शून्यम्‌",
           "english": "Thus ends the Kuhaka Prakarana. Now, hearing the rules of arithmetic: The sum of two positive quantities is positive; the sum of two negative quantities is negative. The sum of a positive and a negative quantity is their difference; of a positive and zero, it is positive; of a negative and zero, it is negative; and of two zeros, it is zero.",
           "hindi": "इस प्रकार कुहक प्रकरण समाप्त होता है। अब गणित (बीजगणित) के नियमों को सुनें: दो धन (सकारात्मक) राशियों का योग धन होता है, दो ऋण (नकारात्मक) राशियों का योग ऋण होता है। एक धन और एक ऋण राशि का योग उनका अन्तर होता है; धन और शून्य का योग धन होता है; ऋण और शून्य का योग ऋण होता है; और दो शून्यों का योग शून्य होता है।",
           "status": "translated"
@@ -4247,7 +4247,7 @@
         },
         {
           "number": 34,
-          "text": "चनभक्त धनभृणहतं मृणं धन भवति खंखभक्तम्‌ । & खंभक्तमृरे धनघनमुणधनेन हतप्रणमृणं भवति",
+          "text": "चनभक्त धनभृणहतं मृणं धन भवति खंखभक्तम्‌ । खंभक्तमृरे धनघनमुणधनेन हतप्रणमृणं भवति",
           "english": "A positive or negative quantity divided by zero (Kha) is a fraction with zero as the denominator (Khachheda). A positive or negative quantity divided by a fraction with zero as the denominator remains unchanged. A positive or negative quantity multiplied by zero (Kha) becomes zero (Rna/Dhana status neutralized).",
           "hindi": "किसी धन या ऋण राशि को शून्य (ख) से विभाजित करने पर वह शून्य-भाजक (खच्छेद) भिन्न हो जाती है। शून्य-भाजक वाली भिन्न को किसी धन या ऋण राशि से गुणा करने पर वह राशि अपरिवर्तित रहती है। किसी धन या ऋण राशि को शून्य से गुणा करने पर वह शून्य हो जाती है।",
           "status": "translated"
@@ -4408,7 +4408,7 @@
         },
         {
           "number": 65,
-          "text": "सूलहिघेष्टवर्गागुगुरादियुतविहीनाच्च । घ्राध्यवचो गक गरतः यंटात्चवातेन पत्त » <+ ++ चज्ञावाघेबचयं प्रथमं प्रक्षेपः क्षेप्य शोध्यतुल्यवधः \\ प्रक्षिप्ञोधकहृते मूले प्रक्षेपके रूपे",
+          "text": "सूलहिघेष्टवर्गागुगुरादियुतविहीनाच्च । घ्राध्यवचो गक गरतः यंटात्चवातेन पत्त » + ++ चज्ञावाघेबचयं प्रथमं प्रक्षेपः क्षेप्य शोध्यतुल्यवधः प्रक्षिप्ञोधकहृते मूले प्रक्षेपके रूपे",
           "english": "From the square of the assumed value multiplied by the coefficient and added or subtracted by the constant, the square root is extracted. By dividing the product of the Kshepa (additive) and the divisor, the first Kshepa is determined, and the Kshepaka is adjusted accordingly.",
           "hindi": "कल्पित संख्या के वर्ग को गुणांक से गुणा करके और उसमें क्षेप (स्थिरांक) को जोड़कर या घटाकर, उसका वर्गमूल निकाला जाता है। क्षेप और भाजक के गुणनफल को विभाजित करने पर प्रथम क्षेप ज्ञात होता है, और क्षेपक को तदनुसार समायोजित किया जाता है।",
           "status": "translated"
@@ -4492,14 +4492,14 @@
         },
         {
           "number": 91,
-          "text": "दा गणमवशञेषाद्रविचद्र मध्यमौ स्फुटादथवा \\ एवं तिथ ग्रहं वा कुर्वन्नावत्सराद्‌ गणकः",
+          "text": "दा गणमवशञेषाद्रविचद्र मध्यमौ स्फुटादथवा एवं तिथ ग्रहं वा कुर्वन्नावत्सराद्‌ गणकः",
           "english": "From the remainder of the dyagana or the avama, one should determine the madhyama (mean positions) of Surya and Chandra, or alternatively their sphuta (true positions), or similarly compute the tithi and graha without delay.",
           "hindi": "द्युगण के शेष अथवा अवम के शेष से गणक को सूर्य और चन्द्र के मध्यम, अथवा स्फुटा (स्पष्ट) स्थितियाँ, अथवा इसी प्रकार तिथि और ग्रह को शीघ्र ही साधना चाहिए।",
           "status": "translated"
         },
         {
           "number": 93,
-          "text": "एकदिनावमशेषं षद्‌ गणमेकरविचन्द्रभगणोनम्‌ । शुध्यति भुदिनभक्तं व्येकं चांद्र स्तदुक्तिरियम्‌ ॥ &१ 'n हषशरकृताष्टदिग्भिः १०८४५४ संगुशितादवमशषाद्‌ भक्तात्‌ । रूपाष्टरसवेदरसशुन्यञ्षरगुरा ३५०६४८१ दिनगराः शेषम्‌",
+          "text": "एकदिनावमशेषं षद्‌ गणमेकरविचन्द्रभगणोनम्‌ । शुध्यति भुदिनभक्तं व्येकं चांद्र स्तदुक्तिरियम्‌ ॥ १ ' हषशरकृताष्टदिग्भिः १०८४५४ संगुशितादवमशषाद्‌ भक्तात्‌ । रूपाष्टरसवेदरसशुन्यञ्षरगुरा ३५०६४८१ दिनगराः शेषम्‌",
           "english": "The remainder of one day's avama multiplied by 10845458 (ashva-shara-krita-ashta-digbhah) and divided by the bhu-dina (civil days), diminished by one, yields the chandra-tithi; this is the statement regarding that. Furthermore, the remainder divided gives the dina-gana (number of days) along with 3506481 (rupa-ashta-rasa-veda-rasa-shunya-kshara-guru).",
           "hindi": "एक दिन के अवम के शेष को १०८४५४५८ (अश्व-शर-कृत-अष्ट-दिग्भिः) से गुणा करके, भूदिनों (सावन दिनों) से भाग देकर, एक कम करने पर चान्द्र तिथि प्राप्त होती है—यह इसका कथन है। इसके अतिरिक्त, शेष से भाग देने पर ३५०६४८१ (रूप-अष्ट-रस-वेद-रस-शून्य-क्षर-गुरु) के साथ दिनगण प्राप्त होता है।",
           "status": "translated"
@@ -4589,7 +4589,7 @@
         },
         {
           "number": 4,
-          "text": "दष्ट गृहोच्यन्ञो यः स्तदंतरज्ञो नराक्रते नुजले l गृहभित्यग्‌ दर्शयति दर्पणे वा स तंत्रज्ञः",
+          "text": "दष्ट गृहोच्यन्ञो यः स्तदंतरज्ञो नराक्रते नुजले । गृहभित्यग्‌ दर्शयति दर्पणे वा स तंत्रज्ञः",
           "english": "He who knows the position of the Graha as observed, understands the difference between the observed and calculated positions, and can demonstrate the Graha-bhitti (planetary projection) on a wall or a mirror, is a Tantrajna.",
           "hindi": "जो दृष्ट (अवलोकित) ग्रह को जानता है, दृष्ट और साध्य (गणित) के अंतर को समझता है, तथा दीवार या दर्पण पर ग्रह-भित्ति (ग्रह का प्रतिबिंब) को प्रदर्शित कर सकता है, वही तंत्रज्ञ है।",
           "status": "translated"
@@ -4617,7 +4617,7 @@
         },
         {
           "number": 9,
-          "text": "ज्ञाते छाया पुरषं विज्ञाते तोय कुघयो विवरे । करक नेजच्तो दो जेत्यारुते' च नंज्रज* Nh इष्ट दिवसअर्ध घटिका धटिका च दशकांतरं प्राराः \\ तद्िविसचरप्राशास्तैरक्षं साधयेत्प्राग्वत्‌ । &॥ ` ज्ञातः सभार्द्धं उदयंरस्तांतरनाडिकाभिरधिको नः ज्ञातात्तूर्वापरयोज्ञेयो भारद्धोनके ज्यः",
+          "text": "ज्ञाते छाया पुरषं विज्ञाते तोय कुघयो विवरे । करक नेजच्तो दो जेत्यारुते' च नंज्रज* Nh इष्ट दिवसअर्ध घटिका धटिका च दशकांतरं प्राराः तद्िविसचरप्राशास्तैरक्षं साधयेत्प्राग्वत्‌ । ॥ ज्ञातः सभार्द्धं उदयंरस्तांतरनाडिकाभिरधिको नः ज्ञातात्तूर्वापरयोज्ञेयो भारद्धोनके ज्यः",
           "english": "When the shadow of a person is known, and the interval (distance) between the water-vessel and the wall is understood, and through calculations involving gnomon-shadows and planetary or stellar sounds... from half a day (noon) and with a difference of ten Ghatikas (or one Ghatika), one should find the local latitude (Aksha) as before.",
           "hindi": "पुरुष की छाया ज्ञात होने पर, तथा जल-पात्र और भित्ति के मध्य का अन्तर ज्ञात होने पर, शंकु की छाया और शब्दों (आदि) के द्वारा... दिन के आधे भाग (मध्याह्न) से दस घटी या एक घटी के अन्तर से, पूर्ववत् अक्ष का साधन करना चाहिए।",
           "status": "translated"
@@ -4631,14 +4631,14 @@
         },
         {
           "number": 12,
-          "text": "ज्ञातं कृत्वा मध्यं भुयोन्यदिने तदतरं भुक्तिः । ` त्रेराजिकेन मत्तया कत्पग्र हमंडलानयनम्‌",
+          "text": "ज्ञातं कृत्वा मध्यं भुयोन्यदिने तदतरं भुक्तिः । त्रेराजिकेन मत्तया कत्पग्र हमंडलानयनम्‌",
           "english": "Having established the mean position for the known (time), on another day the difference between them is the daily motion (Bhukti); and through the rule of three (Trairajika), the computation of the planetary revolutions (Bhagana) for a Kalpa is derived.",
           "hindi": "ज्ञात (समय के लिए) मध्य ग्रह को करके, अन्य दिन में उन दोनों का अन्तर भुक्ति (दैनिक गति) होती है; त्रैराशिक (नियम) के द्वारा कल्प में ग्रह-मंडलों (भगणों) का आनयन किया जाता है।",
           "status": "translated"
         },
         {
           "number": 13,
-          "text": "_ स्थित्यरदवाद्विपरीतं तमः प्रमाणां स्फुटं ग्रहरे। मानोदयाद्रवोंद्रोघेटिकावयवेन भोदयतः",
+          "text": "स्थित्यरदवाद्विपरीतं तमः प्रमाणां स्फुटं ग्रहरे। मानोदयाद्रवोंद्रोघेटिकावयवेन भोदयतः",
           "english": "The true measure of the darkness (shadow) is the inverse of the duration of the eclipse; the measure of the shadow is determined by the Ghati and its subdivisions (Pala, Vikala) derived from the rising of the Rashis (Bhodaya).",
           "hindi": "ग्रहण की स्थिति (अवधि) के विपरीत तम (छाया) का प्रमाण होता है; छाया का मान भोदय (राशियों के उदय) से प्राप्त घटिका और उसके अवयवों (पल, विकल) द्वारा सिद्ध होता है।",
           "status": "translated"
@@ -4673,7 +4673,7 @@
         },
         {
           "number": 18,
-          "text": "गुह पुरुषांतर सलिले विक्ष्य गृहाग्‌' हृगोच्य संगुरिएतम्‌ \\ गुहतोयांतरमौच्यं गृहस्य नुजलांतरेण हृतम्‌",
+          "text": "गुह पुरुषांतर सलिले विक्ष्य गृहाग्‌' हृगोच्य संगुरिएतम्‌ गुहतोयांतरमौच्यं गृहस्य नुजलांतरेण हृतम्‌",
           "english": "Having observed the shadow and the gnomon within the water, and having multiplied it by the distance between the gnomon and the water-level (or measuring the water-depth parameters), divided by the difference between the gnomon and the water-level...",
           "hindi": "जल के भीतर छाया और शङ्कु को देखकर, तथा शङ्कु और जल-तल के अन्तर से गुणा करके, शङ्कु तथा जल के अन्तर से भाग देने पर...",
           "status": "translated"
@@ -4749,7 +4749,7 @@
         },
         {
           "number": 9,
-          "text": "सवक्रम तुलाद्न्यासोप्यधिको विशोधितइचाधः । सांस्यक्यं ताहक्‌ ताहक्‌ प्रथमरित्ररहितो नष्टे ॥ ऽ ॥ माध्यः कृतश्चदलिते सम संख्यायां क्रमो करमाश्लेप्यम्‌ \\ विषमायां व्येकायां दलं क्रमादुक्रमात्‌ सकम्‌ ॥ € ॥ समसंख्यायां सोपात्‌ क्रमोक्रमाम्यां तथेव विषमायाम्‌ । कल्पोपविते हृष्टे प्रथमः शेषाक्षराण्यंते",
+          "text": "सवक्रम तुलाद्न्यासोप्यधिको विशोधितइचाधः । सांस्यक्यं ताहक्‌ ताहक्‌ प्रथमरित्ररहितो नष्टे ॥ ऽ ॥ माध्यः कृतश्चदलिते सम संख्यायां क्रमो करमाश्लेप्यम्‌ विषमायां व्येकायां दलं क्रमादुक्रमात्‌ सकम्‌ ॥ € ॥ समसंख्यायां सोपात्‌ क्रमोक्रमाम्यां तथेव विषमायाम्‌ । कल्पोपविते हृष्टे प्रथमः शेषाक्षराण्यंते",
           "english": "The sarva-krama placed up to Tula, even if in excess, being subtracted is below. The summation is likewise, with the first three devoid [of it], in the destroyed [nashta]. If the middle one is made, when halved, in an even number, the sequential [operations] are to be embraced sequentially; in an odd number, by subtracting one and halving, sequentially and in reverse order, with the added [values].",
           "hindi": "तुला तक न्यास किया हुआ सर्वक्रम अधिक होने पर भी शोधित करने से नीचे होता है। नष्ट (गणित) में प्रथम तीन से रहित तदनुरूप ही योग होता है। मध्य में यदि किया गया हो तो अर्धांग करने पर, सम संख्या में क्रम से क्रम का आश्लेष (योग) करना चाहिए; विषम संख्या में एक घटाकर आधा करने पर, क्रम से और उत्क्रम से युक्त।",
           "status": "translated"
@@ -4791,7 +4791,7 @@
         },
         {
           "number": 16,
-          "text": "एकह्रिकयोः परतो द्वि संगुणो नंतरो द्विलूपोघः। ` वर्यापराद्योनोदल समविषमारां ध्वजो लघुभिः",
+          "text": "एकह्रिकयोः परतो द्वि संगुणो नंतरो द्विलूपोघः। वर्यापराद्योनोदल समविषमारां ध्वजो लघुभिः",
           "english": "Beyond the single and double operations, multiply by two and subtract the subsequent values. By subtracting the square from the previous values and halving, one determines the even and odd quantities through the smaller numbers.",
           "hindi": "एक और दो की क्रियाओं के पश्चात, दो से गुणा करें और बाद की संख्याओं को घटाएं। पूर्ववर्ती मानों से वर्ग को घटाकर और आधा करके, छोटी संख्याओं के माध्यम से सम और विषम राशियों का निर्धारण करें।",
           "status": "translated"
@@ -4908,7 +4908,7 @@
         },
         {
           "number": 6,
-          "text": "सानुष्य पित्रदेव ब्राह यान्यष्टा वमूत्तकालस्य \\ - उक्तानि ज्ञानार्थं बाहंस्पत्यं नवममन्यत्‌",
+          "text": "सानुष्य पित्रदेव ब्राह यान्यष्टा वमूत्तकालस्य - उक्तानि ज्ञानार्थं बाहंस्पत्यं नवममन्यत्‌",
           "english": "The eight measures of time—Manushya, Pitra, Deva, and Brahma—have been stated for the purpose of knowledge; the ninth, the Barhaspatya (Jupiter-based) measure, is also mentioned.",
           "hindi": "ज्ञान के उद्देश्य से काल के आठ मान—मानुष्य, पित्र, देव और ब्राह्म—कहे गए हैं; नौवाँ, बार्हस्पत्य मान भी अलग से बताया गया है।",
           "status": "translated"
@@ -4922,7 +4922,7 @@
         },
         {
           "number": 8,
-          "text": "भुव्यास गुरोभक्तः कक ब्यासांतरेण रविकणा भूमध्या -हू _छाया दिघंत्वं चव्रकर्णोनं शेषम्‌",
+          "text": "भुव्यास गुरोभक्तः कक ब्यासांतरेण रविकणा भूमध्या -हू छाया दिघंत्वं चव्रकर्णोनं शेषम्‌",
           "english": "The diameter of the Earth (Bhuvyasa) multiplied by the distance of the Surya (Ravi-karna) and divided by the difference between the Kaksha (orbit) and the Earth's diameter gives the length of the shadow (Chhaya). The remainder is obtained by subtracting the Earth's diameter from the Chakra-karna.",
           "hindi": "पृथ्वी के व्यास (भुव्यास) को रवि-कर्ण से गुणा करके कक्षा (कक्षा व्यास) और पृथ्वी के व्यास के अंतर से भाग देने पर छाया की लंबाई प्राप्त होती है। चक्र-कर्ण में से पृथ्वी के व्यास को घटाने पर शेषफल प्राप्त होता है।",
           "status": "translated"
@@ -4977,7 +4977,7 @@
         },
         {
           "number": 4,
-          "text": "` थदि भिन्नाः सिद्धान्तभास्कर संक्रान्तयोपि भेदसमाः स्पष्टः पु्ंस्यां विषुवत्पार्कोदयो यस्य",
+          "text": "थदि भिन्नाः सिद्धान्तभास्कर संक्रान्तयोपि भेदसमाः स्पष्टः पु्ंस्यां विषुवत्पार्कोदयो यस्य",
           "english": "If the Siddhantas are different, then the Sankrantis and the calculations of the Grahas also differ; however, the determination of the Vishuvat (Equinox) and the sunrise remains clear and uniform for those who understand the principles.",
           "hindi": "यदि सिद्धान्त भिन्न हैं, तो संक्रान्तियाँ और ग्रहों की गणना भी भिन्न होती है; तथापि, विषुवत् और सूर्योदय का निर्धारण उन लोगों के लिए स्पष्ट और समान है जो इन सिद्धान्तों को समझते हैं।",
           "status": "translated"
@@ -4991,7 +4991,7 @@
         },
         {
           "number": 6,
-          "text": "` यंत्रारिमान संज्ञाइचेवाध्यायाइचतुर्दश ब्रह्मोध्यायः ॥ चतुविशतिराद्य हृं शमि सहाध्यायेः",
+          "text": "यंत्रारिमान संज्ञाइचेवाध्यायाइचतुर्दश ब्रह्मोध्यायः ॥ चतुविशतिराद्य हृं शमि सहाध्यायेः",
           "english": "The fourteen chapters beginning with Yantra and Arimana, along with the Brahmodhyaya, make up twenty-four chapters in total along with the additional chapters.",
           "hindi": "यंत्र और अरिमान आदि चौदह अध्याय तथा ब्रह्मोध्याय—ये सब मिलकर अतिरिक्त अध्यायों के साथ कुल चौबीस अध्याय हैं।",
           "status": "translated"
@@ -5012,7 +5012,7 @@
         },
         {
           "number": 9,
-          "text": "` गरितेन फलं सिद्धं ब्राह्म ध्यान ग्रहे यतोध्याये । ध्यानग्रहो द्विसप्तत्यार्याां न लिखितोत्र मया",
+          "text": "गरितेन फलं सिद्धं ब्राह्म ध्यान ग्रहे यतोध्याये । ध्यानग्रहो द्विसप्तत्यार्याां न लिखितोत्र मया",
           "english": "Since the result has been established through calculation in the Brahmodhyaya and Dhyanagraha chapters, the Dhyanagraha is not written here by me in seventy-two Aryas.",
           "hindi": "चूँकि ब्रह्मोध्याय और ध्यानग्रह अध्यायों में गणना के द्वारा फल सिद्ध हो चुका है, इसलिए मैंने यहाँ बहत्तर आर्यों (छंदों) में ध्यानग्रह का अलग से लेखन नहीं किया है।",
           "status": "translated"

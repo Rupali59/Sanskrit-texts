@@ -1111,6 +1111,85 @@ arise there. Licences recorded verbatim: GRETIL **CC BY-NC-SA 4.0**; TITUS *"No 
 document may be republished in any form without prior permission by the copyright holder"*
 (© TITUS Project, 8.12.2008).
 
+### The four OCR passes, and why re-conversion is NOT a straight upgrade — 2026-09-30
+
+`Siddhanta/BrahmasphutaSiddhanta/ocr/` holds **four** OCR passes of Rupali's 336-page scan, not one.
+Which the corpus came from was never recorded, so it was measured — 60 corpus verses, anchored by
+their first 20 Devanāgarī characters:
+
+| pass | pages | verse marks | Devanāgarī | anchors 60 corpus verses |
+|---|---:|---:|---:|---:|
+| `txt` | 336 | 694 | 93,616 | **7** |
+| `native/txt` | 96 | 229 | 27,846 | — |
+| `native-devanagari/txt` | 336 | 999 | 94,333 | **58** ← the corpus came from here |
+| `render-193/txt` | 336 | **1,144** | **296,951** | **32** |
+
+**`render-193` is not a better pass. It is a different one, and that is the finding.** It carries
+65% more verse markers and 3.2× the Devanāgarī, and it genuinely holds verses the corpus lacks —
+chapter 18's missing 19, 20, 26, 27 and 28 are all present in it with text. But it anchors only
+**32 of the same 60** verses the corpus already holds. Re-converting from it alone would recover
+several hundred units and **lose a comparable number**.
+
+**And its extra bulk is substantially CRITICAL APPARATUS, not text.** Walking ch.18 marker to
+marker: the span closed by `॥१९॥` is a real verse body (73 Devanāgarī characters, no sigla), so the
+missing verse genuinely is there — but the span after it runs 784 characters carrying **15 variant
+sigla** (`(क)` `(ग)` `(घ)`). `native-devanagari` mostly dropped the apparatus; `render-193` keeps it.
+That is where the 3.2× Devanāgarī comes from, and it means the +453 markers are a **mixture of real
+verses and footnote numbering** — a converter must separate the two, which `native-devanagari` never
+had to do.
+
+So the honest options are a **merge** of `native-devanagari` and `render-193` — reconciling two
+independent OCRs of one scan, with different verse numbering, apparatus interleaved in one of them,
+and no shared alignment key — or leaving the gaps recorded. It is not a re-run of a converter.
+**Not attempted; recorded so the decision is made on this table rather than on the marker count.**
+
+**Marker count was a proxy for coverage and it ranked the passes wrongly.** An earlier version of
+`scripts/check_brahmasphuta.py` asserted the corpus came from "the weakest of three passes" on
+exactly that basis; it was wrong in both halves. `rule:measure-the-claim-not-a-proxy`.
+
+**The witnesses cannot substitute for any of this.** GRETIL TEI and all five TITUS parts are
+**IAST with zero Devanāgarī**, and are licence-barred from seeding (see the entry above). They are
+usable as an oracle for *numbering* — which is how the 36-verse shortfall across chapters 12/18/19/20
+was established — and for nothing else. Any Devanāgarī attributed to them has been transliterated by
+somebody, and a machine transliteration presented as an attested reading is **G31**.
+
+### The verses that still need a human eye, and exactly which page each is on — 2026-09-30
+
+Ten verses of `brahmasphuta_siddhanta` cannot be repaired from any OCR pass on disk. Below is the
+page each sits on, so nobody has to locate them again. **Use the OCR page number, not the printed
+folio** — the PDF carries ~30 pages of front matter, so they diverge (p-184 is folio 154).
+
+All paths are under `sanskrit-texts-sources/Siddhanta/BrahmasphutaSiddhanta/`, and the readable
+artifact is the cropped page image:
+
+    ocr/png-cropped/p-<N>.png        the page, cropped (~100-150 KB)
+    ocr/png/p-<N>.png                the page, uncropped
+    ocr/native-devanagari/txt/p-<N>.txt   what the corpus's OCR made of it
+    raw/BrahmasphutaSiddhanta-devanagari-scan-336pp.pdf   page N
+
+| verse | OCR page | folio | what is wrong |
+|---|---:|---:|---|
+| 2.10 | **25** | 25 | glyph corruption, garbled in every pass — it is in the print |
+| 2.53 | **42** | 42 | `[EE or ———` scanner artifact; render-193 does not cover this region |
+| 5.10 | **80** | 50 | `€` — present in BOTH passes, so a printed footnote mark |
+| 6.4 | **86** | — | `©` — identical offset in both passes, same |
+| 12.52 | **167** | 167 | stray `t`, probably a mis-OCR'd daṇḍa; unconfirmable in our own scan |
+| 14.10 | **184** | 154 | **mislabelled, not corrupt** — holds verse 9's body |
+| 15.52 | **213** | — | glyph corruption `इड ठाक तलचच Nh ५१` |
+| 19.9 | **269** | — | **mislabelled, not corrupt** — holds the body render-193 closes `॥८॥` |
+| 23.5 | **317** | 317 | both passes noisy, differently (`paren fms it sy` vs `EE`) |
+| 24.13 | **321** | 321 | glyph corruption `nefe` |
+
+**14.10 and 19.9 are a different job from the other eight.** They are not damaged text; they are
+**mislabelled** — G12, "a MISSING record may be a MISLABELLED one, and counts cannot tell you". The
+corpus's 14.9 and 19.8 read as gaps while their bodies sit under the next number. Fixing them means
+**renumbering**, which moves citation targets, so it is a decision rather than a repair and has not
+been made.
+
+**The three unOCR'd volume scans are the other route** — `…-scan-vol{1,2,3}-*pp.pdf`, 1,654 pages
+against the 336 everything above came from, and no OCR of any of them exists. Several of these
+verses fall in regions `render-193` does not cover at all; those volumes are where the coverage is.
+
 ## Supplied 2026-09-14 — eight items, one exact duplicate, one mislabelled zip that turns out to unblock a named gap
 
 All seven from `~/Downloads`, plus two archive.org text fetches. `classify.py` plus
