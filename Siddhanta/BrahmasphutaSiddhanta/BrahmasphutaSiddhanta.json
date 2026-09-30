@@ -606,11 +606,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "शकु छाया कृत्योस्त्रिज्या कृतितत्समास गुणाहृतया । सूलं लम्बाक्षज्येस्तदंशकास्तद्धनुर्भागाः",
+          "status": "drafted",
+          "english_draft": "The square root of the sum of the squares of the Shankur and Chhaya, multiplied by the Trijya (radius) and divided by the Karna, yields the Lamba-Jya and Aksha-Jya. Their arcs are the degrees of latitude. Alternatively, by dividing the Vishuvat-Karna by the Shankur and Chhaya, one obtains the Trijya and the other Jya, which are the Lamba and Aksha degrees subtracted from the Kramajya.",
+          "hindi_draft": "शंकु और छाया के वर्गों के योग का वर्गमूल, जिसे त्रिज्या से गुणा करके कर्ण से भाग दिया जाए, तो लम्ब-ज्या और अक्ष-ज्या प्राप्त होती है। उनके चाप ही अक्षांश के अंश हैं। अथवा, विषुवत्-कर्ण को शंकु और छाया से भाग देने पर त्रिज्या और अन्य ज्या प्राप्त होती है, जो क्रमज्या से लम्ब और अक्ष के अंश घटाने पर मिलती है।"
+        },
+        {
           "number": 10,
-          "text": "शकु छाया कृत्योस्त्रिज्या कृतितत्समास गुणाहृतया । सूलं लम्बाक्षज्येस्तदंशकास्तद्धनुर्भागाः ॥ ॥ विषुवत्करांहृते'वा शंकु छायागते पृथक्‌ त्रिज्ये त्रिज्येतर जीवा लंबाक्षांसो क्रमज्योना",
-          "english": "The square root of the sum of the squares of the Shankur and Chhaya, multiplied by the Trijya (radius) and divided by the Karna, yields the Lamba-Jya and Aksha-Jya. Their arcs are the degrees of latitude. Alternatively, by dividing the Vishuvat-Karna by the Shankur and Chhaya, one obtains the Trijya and the other Jya, which are the Lamba and Aksha degrees subtracted from the Kramajya.",
-          "hindi": "शंकु और छाया के वर्गों के योग का वर्गमूल, जिसे त्रिज्या से गुणा करके कर्ण से भाग दिया जाए, तो लम्ब-ज्या और अक्ष-ज्या प्राप्त होती है। उनके चाप ही अक्षांश के अंश हैं। अथवा, विषुवत्-कर्ण को शंकु और छाया से भाग देने पर त्रिज्या और अन्य ज्या प्राप्त होती है, जो क्रमज्या से लम्ब और अक्ष के अंश घटाने पर मिलती है।",
-          "status": "translated"
+          "text": "विषुवत्करांहृते'वा शंकु छायागते पृथक्‌ त्रिज्ये त्रिज्येतर जीवा लंबाक्षांसो क्रमज्योना",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -1060,11 +1065,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "षष्ठया विभाजिता स्थितिविमर्दाद्ध नाडिका गुणाः स्वयतिः । आदौ रविजशञशिपातेषणमसकृतेषु धनमंते",
+          "status": "drafted",
+          "english_draft": "The Sthiti and Vimarda durations, when divided by sixty, yield the Ghati (time units). At the beginning, the calculation is performed by adding the motion of Surya, Chandra, and Rahu (Pata). The Sparsha (first contact) occurs at the beginning of the Sthiti, Nimilana (start of totality) at the beginning of the Vimarda, Unmilana (end of totality) at the end of the Vimarda, and Moksha (final separation) at the end of the Sthiti.",
+          "hindi_draft": "स्थिति और विमर्द को साठ से विभाजित करने पर घटी प्राप्त होती है। आदि में सूर्य, चन्द्र और राहु (पात) के मान में गति को जोड़कर गणना की जाती है। स्पर्श, निमीलन, उन्मीलन और मोक्ष की स्थितियाँ क्रमशः स्थिति और विमर्द के आरम्भ और अंत में होती हैं।"
+        },
+        {
           "number": 10,
-          "text": "षष्ठया विभाजिता स्थितिविमर्दाद्ध नाडिका गुणाः स्वयतिः । आदौ रविजशञशिपातेषणमसकृतेषु धनमंते ॥ € ॥ स्पर्दान्निमीलनं स्थितिदले विमर्दाद्ध हीनके पर्चात्‌। मोक्षादर्वागुन्मोलनं विमहु स्तयोरक्यम्‌",
-          "english": "The Sthiti and Vimarda durations, when divided by sixty, yield the Ghati (time units). At the beginning, the calculation is performed by adding the motion of Surya, Chandra, and Rahu (Pata). The Sparsha (first contact) occurs at the beginning of the Sthiti, Nimilana (start of totality) at the beginning of the Vimarda, Unmilana (end of totality) at the end of the Vimarda, and Moksha (final separation) at the end of the Sthiti.",
-          "hindi": "स्थिति और विमर्द को साठ से विभाजित करने पर घटी प्राप्त होती है। आदि में सूर्य, चन्द्र और राहु (पात) के मान में गति को जोड़कर गणना की जाती है। स्पर्श, निमीलन, उन्मीलन और मोक्ष की स्थितियाँ क्रमशः स्थिति और विमर्द के आरम्भ और अंत में होती हैं।",
-          "status": "translated"
+          "text": "स्पर्दान्निमीलनं स्थितिदले विमर्दाद्ध हीनके पर्चात्‌। मोक्षादर्वागुन्मोलनं विमहु स्तयोरक्यम्‌",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -1199,11 +1209,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "। A वित्रिभलग्नादुत्तरदक्षिणविक्षेपहीनसंयृक्तम्‌ ॥ शंहुधनुरूत्तरायामधिकोनं दाक्षरावनतो",
+          "status": "drafted",
+          "english_draft": "The Vikshepa (celestial latitude) is added to or subtracted from the Tribhuvana-Lagna based on its North or South direction. The Shankhu-Dhanu (arc of the gnomon) is adjusted accordingly. This Shankhu, when applied to the Surya's Vikshepa-Mandala and the Chandra's Vimandala, completes the calculation.",
+          "hindi_draft": "त्रिभलग्न से उत्तर या दक्षिण विक्षेप को घटाने या जोड़ने पर शंकु-धनु प्राप्त होता है। यह शंकु, सूर्य के विक्षेप-मण्डल और चन्द्र के विमण्डल के साथ युक्त होकर गणना को पूर्ण करता है।"
+        },
+        {
           "number": 10,
-          "text": "। A वित्रिभलग्नादुत्तरदक्षिणविक्षेपहीनसंयृक्तम्‌ ॥ शंहुधनुरूत्तरायामधिकोनं दाक्षरावनतो ॥ € ॥ तज्ज्यंदु (तञ्जटु) शंङुराद्यः सवितुः हक्षेप मंडले युक्त । ्पमण्डलेन भानोश्चन्द्रस्य विमण्डलेन युते",
-          "english": "The Vikshepa (celestial latitude) is added to or subtracted from the Tribhuvana-Lagna based on its North or South direction. The Shankhu-Dhanu (arc of the gnomon) is adjusted accordingly. This Shankhu, when applied to the Surya's Vikshepa-Mandala and the Chandra's Vimandala, completes the calculation.",
-          "hindi": "त्रिभलग्न से उत्तर या दक्षिण विक्षेप को घटाने या जोड़ने पर शंकु-धनु प्राप्त होता है। यह शंकु, सूर्य के विक्षेप-मण्डल और चन्द्र के विमण्डल के साथ युक्त होकर गणना को पूर्ण करता है।",
-          "status": "translated"
+          "text": "तज्ज्यंदु (तञ्जटु) शंङुराद्यः सवितुः हक्षेप मंडले युक्त । ्पमण्डलेन भानोश्चन्द्रस्य विमण्डलेन युते",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -1622,11 +1637,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "समलिप्ता स्फुटमध्यात्‌ स्वपातायुक्तात्‌ ज्ञः शुक्रयोः शीध्रात्‌ । जीवविक्षेपगुरा हतात्करणन विक्षेपः",
+          "status": "drafted",
+          "english_draft": "For Budha and Shukra, the equalized minutes (Samaliptika) are obtained from the Sphuta-Madhya combined with their own nodes, or from the Sheeghra. The Vikshepa of Guru is obtained by multiplying by the Guru-Vikshepa and dividing by the Karanana. When the directions are equal, theantara yoga (sum or difference) of the Vikshepas yields the planetary difference, as prescribed by Aryabhata for the conjunction of two planets possessing equalized minutes.",
+          "hindi_draft": "बुध और शुक्र के लिए समलिप्ता स्फुटमध्य से अपने पात-युक्त अथवा शीघ्र से प्राप्त होती है। गुरु का विक्षेप, गुरु-विक्षेप से गुणा करके करणन से भाग देने पर प्राप्त होता है। दिशाएँ समान होने पर विक्षेपों का योग या अन्तर ग्रहों का अन्तर होता है, जैसा कि आर्याभट ने दो समलिप्तक ग्रहों की युति के विषय में निर्देश किया है।"
+        },
+        {
           "number": 10,
-          "text": "समलिप्ता स्फुटमध्यात्‌ स्वपातायुक्तात्‌ ज्ञः शुक्रयोः शीध्रात्‌ । जीवविक्षेपगुरा हतात्करणन विक्षेपः ॥ ॥ झन्तरयोगो तुल्यान्यदिश्ोविक्षेपयोग्रं हांतरकं । झार्यभटादिष्टे वं समलिप्तिकयोयु तिगूं हयोः",
-          "english": "For Budha and Shukra, the equalized minutes (Samaliptika) are obtained from the Sphuta-Madhya combined with their own nodes, or from the Sheeghra. The Vikshepa of Guru is obtained by multiplying by the Guru-Vikshepa and dividing by the Karanana. When the directions are equal, theantara yoga (sum or difference) of the Vikshepas yields the planetary difference, as prescribed by Aryabhata for the conjunction of two planets possessing equalized minutes.",
-          "hindi": "बुध और शुक्र के लिए समलिप्ता स्फुटमध्य से अपने पात-युक्त अथवा शीघ्र से प्राप्त होती है। गुरु का विक्षेप, गुरु-विक्षेप से गुणा करके करणन से भाग देने पर प्राप्त होता है। दिशाएँ समान होने पर विक्षेपों का योग या अन्तर ग्रहों का अन्तर होता है, जैसा कि आर्याभट ने दो समलिप्तक ग्रहों की युति के विषय में निर्देश किया है।",
-          "status": "translated"
+          "text": "झन्तरयोगो तुल्यान्यदिश्ोविक्षेपयोग्रं हांतरकं । झार्यभटादिष्टे वं समलिप्तिकयोयु तिगूं हयोः",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -1789,11 +1809,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "श्रारयंभटो जानाति गहाष्ट्राति यदुक्तवांस्तदसत्‌ ॥ राहकृतं न गहण्णं तत्पातो नाष्टमो राहुः",
+          "status": "drafted",
+          "english_draft": "What Aryabhata has stated regarding the eight Grahas is incorrect. Graha-eclipse is not caused by Rahu; nor is the Pata the eighth Rahu. The conjunctions of the Kalpa are not equal, the elapsed years from the beginning of the Kalpa (Kritadi-gata-yatam) as stated in the Smritis are also not known by Aryabhata regarding the mean motion (madhya-gati).",
+          "hindi_draft": "आर्यभट्ट ने अष्ट ग्रहों के संबंध में जो कुछ कहा है, वह असत्य है। राहु द्वारा ग्रहण नहीं होता है, और न ही पात आठवाँ राहु है। कल्प के समगमन (समूह) समान नहीं हैं, और स्मृतियों मेंोक्त कल्प आदि से गत कृत्यादि वर्ष भी आर्यभट्ट मध्यम गति के संबंध में नहीं जानते हैं।"
+        },
+        {
           "number": 10,
-          "text": "श्रारयंभटो जानाति गहाष्ट्राति यदुक्तवांस्तदसत्‌ ॥ राहकृतं न गहण्णं तत्पातो नाष्टमो राहुः ॥ € ॥ न समायुगमनुकल्पाः कल्पादिगत कृतादियातं च स्मृत्युक्तं रायंभटो ना तो नानाति मध्यगति",
-          "english": "What Aryabhata has stated regarding the eight Grahas is incorrect. Graha-eclipse is not caused by Rahu; nor is the Pata the eighth Rahu. The conjunctions of the Kalpa are not equal, the elapsed years from the beginning of the Kalpa (Kritadi-gata-yatam) as stated in the Smritis are also not known by Aryabhata regarding the mean motion (madhya-gati).",
-          "hindi": "आर्यभट्ट ने अष्ट ग्रहों के संबंध में जो कुछ कहा है, वह असत्य है। राहु द्वारा ग्रहण नहीं होता है, और न ही पात आठवाँ राहु है। कल्प के समगमन (समूह) समान नहीं हैं, और स्मृतियों मेंोक्त कल्प आदि से गत कृत्यादि वर्ष भी आर्यभट्ट मध्यम गति के संबंध में नहीं जानते हैं।",
-          "status": "translated"
+          "text": "न समायुगमनुकल्पाः कल्पादिगत कृतादियातं च स्मृत्युक्तं रायंभटो ना तो नानाति मध्यगति",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -2229,11 +2254,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "प्रथमद्वितीयजाति समाप्तः ऊद्धाँशा धेदगुशास्तृतीयजातो हयोः पृथक्‌ परयोः । छेद छेदा गणिताः स्वांश्ययुतोनेरूपरिमांशाः",
+          "status": "drafted",
+          "english_draft": "The first and second species of fractions are completed. The upper parts (numerators) multiplied by the denominators form the third species, each separated for both. The denominators multiplied by denominators, added or subtracted with their own parts, constitute the upper numerators.",
+          "hindi_draft": "प्रथम और द्वितीय जाति के भिन्न समाप्त हुए। ऊपर के अंश छेद-गुणित होकर तृतीय जाति में उत्पन्न होते हैं, दोनों के लिए पृथक्-पृथक्। छेद, छेदों से गुणित होकर तथा अपने अंशों से युक्त या हीन होकर ऊपर के अंश बनते हैं।"
+        },
+        {
           "number": 10,
-          "text": "प्रथमद्वितीयजाति समाप्तः ऊद्धाँशा धेदगुशास्तृतीयजातो हयोः पृथक्‌ परयोः । छेद छेदा गणिताः स्वांश्ययुतोनेरूपरिमांशाः ॥ € ॥ . तृतीय चतुर्थीजाति स०। त्रेर।डिके प्रमारफलमिछादय तयोः सदृ्राज्ञिः । इच्छाफलेन गरिएता प्रमाराभक्ताफलंभवति",
-          "english": "The first and second species of fractions are completed. The upper parts (numerators) multiplied by the denominators form the third species, each separated for both. The denominators multiplied by denominators, added or subtracted with their own parts, constitute the upper numerators.",
-          "hindi": "प्रथम और द्वितीय जाति के भिन्न समाप्त हुए। ऊपर के अंश छेद-गुणित होकर तृतीय जाति में उत्पन्न होते हैं, दोनों के लिए पृथक्-पृथक्। छेद, छेदों से गुणित होकर तथा अपने अंशों से युक्त या हीन होकर ऊपर के अंश बनते हैं।",
-          "status": "translated"
+          "text": ". तृतीय चतुर्थीजाति स०। त्रेर।डिके प्रमारफलमिछादय तयोः सदृ्राज्ञिः । इच्छाफलेन गरिएता प्रमाराभक्ताफलंभवति",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -3311,11 +3341,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "पातलझंक्‌मुदयेदुस्ते वा हग्ज्यां खे विजानाति । रक्‌ पाताल ब्रक्ंको पृथक्‌ तले वा स तंत्रज्ञः",
+          "status": "drafted",
+          "english_draft": "He who knows the Drigjya (sine of the zenith distance) in the sky when the Surya is at the Patala (nadir), Udaya (rising), or Asta (setting), or when the Surya is at the Patala or on the ground, is a master of the Tantra. He who can calculate the elapsed or remaining portion of the day from the Nata-ghati (hour angle) or from the midday shadow, and can state these when the Surya is in the Samamandala, is a master of the Tantra.",
+          "hindi_draft": "जो सूर्य के पाताल, उदय या अस्त होने पर आकाश में दृग्ज्या को जानता है, अथवा जो पाताल या धरातल पर स्थित सूर्य की स्थिति को पृथक-पृथक जान लेता है, वही तंत्रज्ञ है। जो दिनगत या दिनशेष को नत-घटिका से अथवा दिनदल (मध्याह्न) की छाया से ज्ञात कर लेता है और सममंडल में स्थित सूर्य के लिए इन मानों को बता देता है, वही तंत्रज्ञ है।"
+        },
+        {
           "number": 10,
-          "text": "पातलझंक्‌मुदयेदुस्ते वा हग्ज्यां खे विजानाति । रक्‌ पाताल ब्रक्ंको पृथक्‌ तले वा स तंत्रज्ञः ॥ € ॥ दिनगतश्ञेषघ्रारारिष्टारको 'दिनदलान्नतैरयवा । भवति सममंडले यंयस्तान्‌ कथयति स तंत्रज्ञः",
-          "english": "He who knows the Drigjya (sine of the zenith distance) in the sky when the Surya is at the Patala (nadir), Udaya (rising), or Asta (setting), or when the Surya is at the Patala or on the ground, is a master of the Tantra. He who can calculate the elapsed or remaining portion of the day from the Nata-ghati (hour angle) or from the midday shadow, and can state these when the Surya is in the Samamandala, is a master of the Tantra.",
-          "hindi": "जो सूर्य के पाताल, उदय या अस्त होने पर आकाश में दृग्ज्या को जानता है, अथवा जो पाताल या धरातल पर स्थित सूर्य की स्थिति को पृथक-पृथक जान लेता है, वही तंत्रज्ञ है। जो दिनगत या दिनशेष को नत-घटिका से अथवा दिनदल (मध्याह्न) की छाया से ज्ञात कर लेता है और सममंडल में स्थित सूर्य के लिए इन मानों को बता देता है, वही तंत्रज्ञ है।",
-          "status": "translated"
+          "text": "दिनगतश्ञेषघ्रारारिष्टारको 'दिनदलान्नतैरयवा । भवति सममंडले यंयस्तान्‌ कथयति स तंत्रज्ञः",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -4051,11 +4086,16 @@
           "status": "translated"
         },
         {
+          "number": 9,
+          "text": "गृहयोगंदुछाया गुहदयोस्तमयभगृहयुतीनाम्‌ । स्वकर न्तिज्यादयुत्तरारि भगूहयुतौ न पृथक्‌",
+          "status": "drafted",
+          "english_draft": "In the conjunction of Grahas (Grahayuti) and the setting of Grahas, the shadow (Chhaya) is calculated. When the Kranti-Jya of the Grahas is towards the north, there is no separation in the conjunction of the Grahas. Thus concludes the 17th chapter on Parilekha (Diagrams), dealing with the elevation of the horns of the Chandra.",
+          "hindi_draft": "ग्रहयुति और ग्रहों के अस्त होने की स्थिति में छाया की गणना की जाती है। जब ग्रहों की क्रांतिज्या उत्तर दिशा की ओर होती है, तब ग्रहयुति में कोई पृथकता नहीं होती। इस प्रकार चन्द्र के श्रृंगोन्नति (सींगों की ऊँचाई) विषयक परिलेखाध्याय नामक सत्रहवाँ अध्याय पूर्ण हुआ।"
+        },
+        {
           "number": 10,
-          "text": "गृहयोगंदुछाया गुहदयोस्तमयभगृहयुतीनाम्‌ । स्वकर न्तिज्यादयुत्तरारि भगूहयुतौ न पृथक्‌ ॥ € ॥ इति परिलेखाध्यायः शञांक भृ गोन्नतेर्भृजाद्येष । शशिश्डुद्गोन्तत्युतरमार्यादशकेन सप्तदशः",
-          "english": "In the conjunction of Grahas (Grahayuti) and the setting of Grahas, the shadow (Chhaya) is calculated. When the Kranti-Jya of the Grahas is towards the north, there is no separation in the conjunction of the Grahas. Thus concludes the 17th chapter on Parilekha (Diagrams), dealing with the elevation of the horns of the Chandra.",
-          "hindi": "ग्रहयुति और ग्रहों के अस्त होने की स्थिति में छाया की गणना की जाती है। जब ग्रहों की क्रांतिज्या उत्तर दिशा की ओर होती है, तब ग्रहयुति में कोई पृथकता नहीं होती। इस प्रकार चन्द्र के श्रृंगोन्नति (सींगों की ऊँचाई) विषयक परिलेखाध्याय नामक सत्रहवाँ अध्याय पूर्ण हुआ।",
-          "status": "translated"
+          "text": "इति परिलेखाध्यायः शञांक भृ गोन्नतेर्भृजाद्येष । शशिश्डुद्गोन्तत्युतरमार्यादशकेन सप्तदशः",
+          "status": "untranslated"
         }
       ]
     },
@@ -4748,11 +4788,16 @@
           "status": "translated"
         },
         {
+          "number": 8,
+          "text": "सवक्रम तुलाद्न्यासोप्यधिको विशोधितइचाधः । सांस्यक्यं ताहक्‌ ताहक्‌ प्रथमरित्ररहितो नष्टे ॥ ऽ ॥ माध्यः कृतश्चदलिते सम संख्यायां क्रमो करमाश्लेप्यम्‌ विषमायां व्येकायां दलं क्रमादुक्रमात्‌ सकम्‌",
+          "status": "drafted",
+          "english_draft": "The sarva-krama placed up to Tula, even if in excess, being subtracted is below. The summation is likewise, with the first three devoid [of it], in the destroyed [nashta]. If the middle one is made, when halved, in an even number, the sequential [operations] are to be embraced sequentially; in an odd number, by subtracting one and halving, sequentially and in reverse order, with the added [values].",
+          "hindi_draft": "तुला तक न्यास किया हुआ सर्वक्रम अधिक होने पर भी शोधित करने से नीचे होता है। नष्ट (गणित) में प्रथम तीन से रहित तदनुरूप ही योग होता है। मध्य में यदि किया गया हो तो अर्धांग करने पर, सम संख्या में क्रम से क्रम का आश्लेष (योग) करना चाहिए; विषम संख्या में एक घटाकर आधा करने पर, क्रम से और उत्क्रम से युक्त।"
+        },
+        {
           "number": 9,
-          "text": "सवक्रम तुलाद्न्यासोप्यधिको विशोधितइचाधः । सांस्यक्यं ताहक्‌ ताहक्‌ प्रथमरित्ररहितो नष्टे ॥ ऽ ॥ माध्यः कृतश्चदलिते सम संख्यायां क्रमो करमाश्लेप्यम्‌ विषमायां व्येकायां दलं क्रमादुक्रमात्‌ सकम्‌ ॥ € ॥ समसंख्यायां सोपात्‌ क्रमोक्रमाम्यां तथेव विषमायाम्‌ । कल्पोपविते हृष्टे प्रथमः शेषाक्षराण्यंते",
-          "english": "The sarva-krama placed up to Tula, even if in excess, being subtracted is below. The summation is likewise, with the first three devoid [of it], in the destroyed [nashta]. If the middle one is made, when halved, in an even number, the sequential [operations] are to be embraced sequentially; in an odd number, by subtracting one and halving, sequentially and in reverse order, with the added [values].",
-          "hindi": "तुला तक न्यास किया हुआ सर्वक्रम अधिक होने पर भी शोधित करने से नीचे होता है। नष्ट (गणित) में प्रथम तीन से रहित तदनुरूप ही योग होता है। मध्य में यदि किया गया हो तो अर्धांग करने पर, सम संख्या में क्रम से क्रम का आश्लेष (योग) करना चाहिए; विषम संख्या में एक घटाकर आधा करने पर, क्रम से और उत्क्रम से युक्त।",
-          "status": "translated"
+          "text": "समसंख्यायां सोपात्‌ क्रमोक्रमाम्यां तथेव विषमायाम्‌ । कल्पोपविते हृष्टे प्रथमः शेषाक्षराण्यंते",
+          "status": "untranslated"
         },
         {
           "number": 11,
@@ -5062,5 +5107,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }

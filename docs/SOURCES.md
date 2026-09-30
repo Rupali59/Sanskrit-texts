@@ -1171,7 +1171,7 @@ artifact is the cropped page image:
 |---|---:|---:|---|
 | 2.10 | **25** | 25 | glyph corruption, garbled in every pass — it is in the print |
 | 2.53 | **42** | 42 | `[EE or ———` scanner artifact; render-193 does not cover this region |
-| 5.10 | **80** | 50 | `€` — present in BOTH passes, so a printed footnote mark |
+| 5.10 | **80** | 50 | `€` is a mis-OCR'd numeral ९ — a LOST VERSE MARKER, **G71** |
 | 6.4 | **86** | — | `©` — identical offset in both passes, same |
 | 12.52 | **167** | 167 | stray `t`, probably a mis-OCR'd daṇḍa; unconfirmable in our own scan |
 | 14.10 | **184** | 154 | **mislabelled, not corrupt** — holds verse 9's body |

@@ -46,8 +46,15 @@ KNOWN_UNREPAIRED = {
     "15.52": "glyph corruption `इड ठाक तलचच Nh ५१`; render-193 does not cover this region",
     "24.13": "glyph corruption `nefe`; render-193 does not cover this region",
     "23.5": "render-193 HAS the verse but with different noise (`EE`) -- neither pass is clean",
-    "5.10": "`€` present in BOTH passes at the same place -- a printed footnote mark, not OCR noise",
-    "6.4": "`©` present in BOTH passes at identical offset (p-116, 673) -- same",
+    # CORRECTED 2026-09-30: these were recorded as "printed footnote marks" earlier the same day.
+    # `€` is the OCR's reading of the NUMERAL ९ -- 10 of its 17 occurrences sit inside a verse
+    # marker `॥ € ॥`, and `॥ ९ ॥` appears only twice in 336 pages against 20-28 for its
+    # neighbours. See G71. So this is a lost verse marker, not decoration; stripping it destroys
+    # structure. `©` appears twice, both inside a scanner-edge garbage run.
+    # 5.10 became 5.9 when the merged verse was split on its own `॥ € ॥` (G71): the marker WAS
+    # the boundary, so the stray `A` that preceded it now sits in the first of the two verses.
+    "5.9": "stray `A`; its `€` was the lost ९ marker and is now the split point (G71)",
+    "6.4": "`©` is scanner-edge noise (both occurrences sit in a garbage run)",
     "12.52": "stray `t` between Devanagari. render-193 does not cover it and native-devanagari "
              "carries the same `t`, so it is UNCONFIRMED. Probably a mis-OCR'd danda like 19.4's "
              "`l`, but our own scan cannot show it and the witness is licence-barred as a source.",
@@ -103,3 +110,56 @@ def test_the_danda_substitution_survived():
         f"19.4 should end the preceding pada with a danda; got {before_anchor[-24:]!r}. "
         "render-193/txt renders this position `नुजले'।`."
     )
+
+
+#: The nine verses recovered on 2026-09-30 by splitting an OCR-merged pair (G71). Each was
+#: created by cutting the verse numbered N+1 at its own `॥ € ॥` / `॥ ॥` -- the lost `॥ ९ ॥`
+#: marker, still sitting in the text where the converter failed to read it as a boundary.
+SPLIT_RECOVERED = {
+    "3.9", "4.9", "5.9", "9.9", "11.9", "12.9", "15.9", "17.9", "20.8",
+}
+
+
+def test_the_ocr_merged_verses_stayed_split():
+    """A re-conversion from the same OCR would re-merge these. Fail loudly if it does.
+
+    Eight of the nine are verse NINE, which is the whole point: `॥ ९ ॥` is read 2 times in 336
+    pages against 20-28 for its neighbours, so verse 9's closing marker is usually absent and its
+    text runs into verse 10. G71.
+    """
+    verses = dict(_verses())
+    missing = sorted(SPLIT_RECOVERED - set(verses))
+    assert not missing, (
+        f"{len(missing)} verse(s) recovered from an OCR merge are gone again: {missing}. "
+        "A re-conversion from the same OCR pass re-merges them -- the split point is the lost "
+        "`॥ ९ ॥` marker (G71), not anything the converter can infer."
+    )
+    #: Each recovered verse must be a real verse body, not a fragment left by a bad cut.
+    tiny = {k: len(verses[k]) for k in SPLIT_RECOVERED if len(verses[k]) < 40}
+    assert not tiny, f"recovered verses are too short to be verse bodies: {tiny}"
+
+
+def test_no_recovered_verse_serves_a_translation_it_did_not_earn():
+    """The merged translation covered BOTH verses, so neither half may serve it.
+
+    It was demoted to `english_draft`/`hindi_draft` rather than deleted: the work is real, it is
+    simply not verified at verse granularity. Leaving it on the first half would make the corpus
+    assert that verse 9 says things only verse 10 says.
+    """
+    import json as _json
+    for path in corpus_files(ROOT):
+        doc = _json.loads(path.read_text(encoding="utf-8"))
+        if not isinstance(doc, dict) or doc.get("text_id") != TEXT_ID:
+            continue
+        for ch in doc["chapters"]:
+            for sh in ch.get("shlokas") or []:
+                key = f"{ch['number']}.{sh['number']}"
+                if key not in SPLIT_RECOVERED:
+                    continue
+                assert not (sh.get("english") or "").strip(), (
+                    f"{key} serves an english that was a translation of a MERGED pair"
+                )
+                assert sh.get("status") in {"drafted", "untranslated"}, (
+                    f"{key} has status {sh.get('status')!r}; it serves no translation"
+                )
+        return
