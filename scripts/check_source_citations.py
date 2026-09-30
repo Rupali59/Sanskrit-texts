@@ -138,6 +138,15 @@ def main(argv: list[str] | None = None) -> int:
     missing_text: collections.Counter = collections.Counter()
     missing_verse: list[str] = []
     malformed: list[str] = []
+    #: A citation naming a CHAPTER and no shloka. It cannot be wrong at verse level because it
+    #: makes no verse-level claim -- and until 2026-09-30 it was counted as `resolve cleanly`,
+    #: because `absent` is empty when `shlokas` is empty and the check fell through to `ok += 1`.
+    #: "Found no absent verse" and "had no verse to look for" were the same output, which is the
+    #: failure `rule:discernment-checks` §2 exists to name. It inflated `ok` from 100 to 111 and
+    #: hid that three texts are cited ONLY this way, so not one of their citations is verifiable.
+    chapter_only: list[str] = []
+    #: The review target: distinct verses the canon is actually claimed to back.
+    cited_verses: set[tuple[str, str, str]] = set()
     ok = 0
 
     for path, line, text_id, chapter, shlokas in refs:
@@ -151,19 +160,43 @@ def main(argv: list[str] | None = None) -> int:
             malformed.append(f"  {where}  {text_id} ch{chapter} {bad} "
                              f"(a literal like [1-25] evaluates to {bad})")
             continue
+        if not shlokas:
+            # A chapter-only citation is vague. A chapter-only citation to a chapter that does
+            # not exist is WRONG, and the two must not share a bucket. Six sites write
+            # `@source(("BPHS", 0, []))` and BPHS runs 1..97 -- chapter 0 is not a chapter. The
+            # old code passed all six as `resolve cleanly`: the text is held, there are no
+            # malformed shlokas because there are no shlokas, and no verse is absent because
+            # none was named. Three checks, none of which could fire.
+            if not any(ch == str(chapter) for ch, _ in index[slug]):
+                missing_verse.append(f"  {where}  {text_id} ch{chapter} -- NO SUCH CHAPTER "
+                                     f"(no shloka named either)")
+                continue
+            chapter_only.append(f"  {where}  {text_id} ch{chapter} -- no shloka named")
+            continue
         absent = [s for s in shlokas if (str(chapter), str(s)) not in index[slug]]
         if absent:
             missing_verse.append(f"  {where}  {text_id} ch{chapter} verses {absent}")
             continue
+        cited_verses.update((slug, str(chapter), str(s)) for s in shlokas)
         ok += 1
 
     print(f"@source citations: {len(refs)} call sites across {len(set(r[0] for r in refs))} files")
-    print(f"  resolve cleanly     {ok}")
+    print(f"  resolve to a VERSE  {ok}")
+    print(f"  chapter only        {len(chapter_only)}  (no shloka named -- nothing verifiable)")
     print(f"  text not in corpus  {sum(missing_text.values())}")
     print(f"  verse not in text   {len(missing_verse)}")
     print(f"  malformed           {len(malformed)}")
     print(f"  files unreadable    {len(unreadable)}")
     print(f"  @source in docstring {len(in_docstring)}  (reads as a citation, indexed by nothing)")
+    print(f"\n  DISTINCT VERSES the canon must back: {len(cited_verses):,}")
+    by_text = collections.Counter(t for t, _, _ in cited_verses)
+    for t, n in by_text.most_common():
+        print(f"    {t:28}{n:6,}")
+
+    if chapter_only:
+        print("\nCHAPTER ONLY (cites a chapter, names no shloka -- cannot be checked at verse "
+              "level, and was silently counted as clean until 2026-09-30):")
+        print("\n".join(chapter_only))
 
     if missing_text:
         print("\nTEXT NOT IN CORPUS (the citation names a work this corpus does not hold):")
