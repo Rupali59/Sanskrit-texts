@@ -71,6 +71,14 @@ KNOWN: dict[str, int] = {
     "jataka_tattva": 2,
     "chandogya_upanishad": 2,
     "brihat_samhita": 1,
+    #: `atharvaveda_samhita` 1 -- NOT a translation defect. `4.12.8` is the hymn's ritual header,
+    #: `रोहिणी- वनस्पतिः १-७ ऋभुः … अनुष्टुप्, १ त्रिपदा गायत्र` (ṛṣi / devatā / chandas), sitting in a
+    #: shloka row and carrying the English of the real mantra at `4.12.1`. The row is not a verse, so
+    #: the fix is in the converter, not the translation: apparatus, print rules and ritual headers all
+    #: belong out of `text`. Same class as `minaraja_yavana_jataka` (17) and `grahaganita` (3), and
+    #: **G70** for `brihat_samhita`'s 875. Recorded here 2026-09-30 because KNOWN is a ratchet for
+    #: what is already wrong -- remove this entry when the row leaves, do not raise it.
+    "atharvaveda_samhita": 1,
     #: `caraka_samhita` 3 -- the closing formula `इति ह स्माह भगवानात्रेयः` ("Thus said the
     #: venerable Lord Ātreya") ends each adhyāya and occurs 126 times. `_normalise` collapses the
     #: punctuation variants; these three survive because the OCR differs in LETTERS --
@@ -118,9 +126,56 @@ def _normalise(text: str) -> str:
     so it cannot merge two genuinely different verses. Verified across the whole corpus the day it
     was added -- `caraka_samhita` fell 7 -> 3 and **every other text was unchanged**, which is the
     property that makes it safe rather than merely convenient.
+
+    WIDENED 2026-09-30, to three more classes, each measured before it was added. The first
+    version's "never letters" rule was the right instinct and slightly too narrow: it left three
+    ways for ONE verse to look like two, all of them found in the Vedic Saṃhitās, none of them a
+    difference in the text itself.
+
+      citation numerals   `४ १ जितमस्माकम…` vs `५ २ जितमस्माकम…` -- atharvaveda 16.8. The leading
+                          digits are the ārcika/aṣṭaka reference, a CITATION COMPONENT, not the
+                          mantra. Both ASCII and Devanāgarī digits, spelled out as ranges: `\\d`
+                          is Unicode-aware and would be right here by accident and wrong
+                          elsewhere (**G17**).
+      avagraha            `स्वऽरस्माकं` vs `स्वरस्माकं` -- the elided-a mark, present in one
+                          rendering of a verse and absent in another. This is the one that bends
+                          "never letters", and it is admitted rather than hidden: `ऽ` marks an
+                          elision, so dropping it cannot merge two verses that differ in any
+                          sounded syllable.
+      space at a sandhi   `अस्मिन्भरे` vs `अस्मिन् भरे` -- rigveda 3.38.10 / 3.39.9, two copies of
+      juncture            the refrain `शुनं हुवेम मघवानमिन्द्रम्…` that closes 14 hymns. Collapsing
+                          runs of whitespace was never enough; the difference is a space that
+                          exists in one and not the other, so the whitespace goes entirely.
+
+    THE FILE ALREADY WARNED AGAINST THE VERSION I WROTE FIRST, and I did not read it. The
+    `samaveda_samhita` note in `KNOWN` above says, in as many words, *"NOT fixable by widening
+    `_normalise` to strip numerals: those are citation components, and stripping them would merge
+    any two verses differing only by a number"*. That is exactly what the unanchored strip did, and
+    `test_distinct_keys_do_not_hide_it` caught it -- its fixture is three verses differing only by
+    a digit, and they collapsed to one, so a real misalignment became invisible to the check built
+    to find it. Anchoring to the LEADING run is what makes the two consistent: a citation reference
+    is a prefix, a sine table's numbers are not. `samaveda`'s entry stays at 1 and stays correct.
+
+    MEASURED CORPUS-WIDE BEFORE THE CHANGE, which is the only reason to believe it:
+    `atharvaveda_samhita` **4 -> 1**, `samaveda_samhita` **1 -> 0**, and **all nine other texts
+    reporting groups were unchanged** -- narada_smriti, bhrigu_sutram, jataka_tattva,
+    jataka_parijata, brihat_samhita, chandogya_upanishad, brihadaranyaka_upanishad,
+    caraka_samhita, susruta_samhita. Total 37 -> 33. The four it removes are the four verified by
+    hand as the same mantra twice; the one it LEAVES in atharvaveda is a real defect (4.12.8, a
+    ritual header sitting in a shloka row). A widening that had merged a genuine pair would have
+    shown up as some other text falling, and none did.
     """
     text = unicodedata.normalize("NFC", text)
-    return " ".join(re.sub(r"[।॥|/]+", " ", text).split())
+    text = re.sub(r"[।॥|/]+", " ", text)
+    # LEADING numerals only. Stripping digits everywhere was the first attempt and it is wrong:
+    # `test_distinct_keys_do_not_hide_it` builds three verses differing ONLY by a digit and asserts
+    # the defect is still seen, and digit-stripping made all three identical -- a real misalignment
+    # rendered invisible by the check meant to find it. The corpus has the same shape for real:
+    # `surya_siddhanta` carries sine tables (`...1171, 1345, 1528...`) whose verses differ only in
+    # their numbers. A citation reference is a PREFIX, so anchor it and the hazard goes away.
+    text = re.sub(r"^[\s0-9०-९]+", "", text)
+    text = text.replace("ऽ", "")                 # avagraha
+    return re.sub(r"\s+", "", text)                   # incl. a space at a sandhi juncture
 
 
 def _misaligned(doc: dict) -> int:
