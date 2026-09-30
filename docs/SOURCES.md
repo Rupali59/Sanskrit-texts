@@ -1965,3 +1965,31 @@ verses. The split fires only above 200 characters and only on a real printed dou
 **not** fire once in chapter 2, which is the evidence it is not over-cutting. Two ch3 units remain
 over 200 characters with no internal daṇḍa to split on.
 
+### Ṛgveda commentary scans — Sāyaṇa Bhāṣya and the Müller *editio princeps* (filed 2026-09-29)
+
+Unpacked from `~/Documents/Archives/Rigvedcollection.zip`, which was sitting unfiled and named in
+no inventory. Now at
+`../sanskrit-texts-sources/Veda/rigveda/ShakalaSamhita/raw/sayana-bhasya/` (1.9 GB, with its own
+`README.md`). **None of it is in the corpus and none of it should be** — the corpus holds mūla
+text; this is the commentary apparatus, kept for verification.
+
+| file | what it is | rights |
+|---|---|---|
+| `max-mueller-rigveda-sayana-v2.pdf` | **Max Müller, *Rig-Veda-Saṃhitā with the Commentary of Sāyaṇāchārya*, vol. 2** — the editio princeps (1849–1874), dedicated to Queen Victoria. 1,246 pages. Each sūkta as saṃhitāpāṭha, then **padapāṭha**, then Sāyaṇa's bhāṣya; the corpus holds neither the padapāṭha nor the bhāṣya | public domain by age |
+| `sayan bhasya bhag 1–4.pdf` | Sāyaṇa Bhāṣya, 4 vols | public domain by age |
+| `rigveda_presayan commentry.pdf` | pre-Sāyaṇa commentary | public domain by age |
+
+**Identified by reading a BODY page, not the cover** (**G26**): page 600 carries
+`मं॰ १०. अ॰ ११. सू॰ १३८.` — Ṛgveda 10.138 — with the padapāṭha `अव॑ । असृ॑जः । प्रऽस्वः॑ …` and
+Sāyaṇa beneath citing `ऋ. ३.१२.९.` The filename `Rig-Ved v2.pdf` said none of that.
+
+**There is NO text layer.** `libtiff / tiff2pdf`, pure images; `pdftotext` over pages 1–12 returns
+**0 characters** once form-feeds are stripped (**G3** — a byte count is not a character count).
+Digitising it means OCR, not extraction.
+
+**The Brāhmaṇa/Āraṇyaka scans from the same archive went to Youvan** by the layer rule
+(`Tushar/text-sources/{Aranyaka,Brahmana,Kalpa,Shiksha}/`), and the Kauṣītaki **Upaniṣad** scans
+stayed here at `Upanishad/rigveda/Kaushitaki/raw/` — the split that rule exists for, from one
+archive. The zip was deleted only after all 29 entries were verified present on disk by name and
+exact byte size.
+
