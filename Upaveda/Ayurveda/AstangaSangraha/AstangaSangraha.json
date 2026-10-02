@@ -4300,9 +4300,11 @@
           "number": "7.54",
           "ref": "astanga_sangraha 1.7.54",
           "text": "तृट्च्छर्दिश्रमनुन्मन्थः शीतः सद्योबलप्रदः । प्रमेहक्षयकुष्ठानि न च स्युर्मन्थपायिनः ॥",
-          "english": "The light and nourishing substances are to be consumed, especially for those who are weak and have low vitality. [AS 1.7.54]",
-          "hindi": "हल्के और पोषणकारी पदार्थों का सेवन किया जाना चाहिए, विशेष रूप से उन लोगों के लिए जो कमजोर हैं और जिनकी जीवन शक्ति कम है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The light and nourishing substances are to be consumed, especially for those who are weak and have low vitality. [AS 1.7.54]",
+          "hindi_draft": "हल्के और पोषणकारी पदार्थों का सेवन किया जाना चाहिए, विशेष रूप से उन लोगों के लिए जो कमजोर हैं और जिनकी जीवन शक्ति कम है।"
         },
         {
           "number": "7.55",
@@ -4316,9 +4318,11 @@
           "number": "7.56",
           "ref": "astanga_sangraha 1.7.56",
           "text": "विष्टम्भि मूत्रलं हृद्यं यथाद्रव्यगुणं च तत् । लाजास्तृट्च्छर्द्यतीसारमेहमेदःकफच्छिदः ॥",
-          "english": "The light and nourishing substances are to be consumed, especially for those who are weak and have low vitality. [AS 1.7.56]",
-          "hindi": "हल्के और पोषणकारी पदार्थों का सेवन किया जाना चाहिए, विशेष रूप से उन लोगों के लिए जो कमजोर हैं और जिनकी जीवन शक्ति कम है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The light and nourishing substances are to be consumed, especially for those who are weak and have low vitality. [AS 1.7.56]",
+          "hindi_draft": "हल्के और पोषणकारी पदार्थों का सेवन किया जाना चाहिए, विशेष रूप से उन लोगों के लिए जो कमजोर हैं और जिनकी जीवन शक्ति कम है।"
         },
         {
           "number": "7.57",
@@ -4332,9 +4336,11 @@
           "number": "7.58",
           "ref": "astanga_sangraha 1.7.58",
           "text": "धान विष्टम्भिनी रूक्षा तर्पणी लेखनी गुरुः । कण्ठनेत्रमयक्षुत्तृट्श्रमछर्दिव्रणापहा ॥",
-          "english": "The light and nourishing substances are to be consumed, especially for those who are weak and have low vitality. [AS 1.7.58]",
-          "hindi": "हल्के और पोषणकारी पदार्थों का सेवन किया जाना चाहिए, विशेष रूप से उन लोगों के लिए जो कमजोर हैं और जिनकी जीवन शक्ति कम है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The light and nourishing substances are to be consumed, especially for those who are weak and have low vitality. [AS 1.7.58]",
+          "hindi_draft": "हल्के और पोषणकारी पदार्थों का सेवन किया जाना चाहिए, विशेष रूप से उन लोगों के लिए जो कमजोर हैं और जिनकी जीवन शक्ति कम है।"
         },
         {
           "number": "7.59",
@@ -39302,9 +39308,11 @@
           "number": "22.19",
           "ref": "astanga_sangraha 4.22.19",
           "text": "पूतीकार्कव्याधिघातस्नुहीना मूत्रैः पिष्टाः पल्लवा जातिजाश्च । घ्नन्त्यालेपाच्श्वित्रदुर्नामदद्रून् पामाकोठान् दुष्टनाडीव्रणांश्च ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.19]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.19]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.20",
@@ -39318,81 +39326,101 @@
           "number": "22.21",
           "ref": "astanga_sangraha 4.22.21",
           "text": "रात्रौ गोमूत्रे वासितान् जर्जराङ्गानह्निच्छायायां शोषयेत् स्फोटहेतून् । एवं वारांस्त्रीन् भावयेच्श्लक्ष्णपिष्टैः स्नुह्याः क्षीरेण श्वित्रनाशाय लेपः ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.21]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.21]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.22",
           "ref": "astanga_sangraha 4.22.22",
           "text": "अक्षतैलद्रुतालेपः कृष्णसर्पोद्भवामषी । शिखिपित्तं तथा दग्धं द्रीबेरं वा तदाप्लुतम् ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.22]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.22]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.23",
           "ref": "astanga_sangraha 4.22.23",
           "text": "उपोषितायान्नकालांस्त्रीन् श्वेतकृकवाकवे । यष्ट्याह्वकुष्ठैडगजबीजचूर्णं घृतान्वितम् ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.23]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.23]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.24",
           "ref": "astanga_sangraha 4.22.24",
           "text": "दद्यात्तस्य पुरीषेण श्वित्रमुद्दाल्य लेपयेत् । मासं हन्त्याशु तच्श्वित्रं विशेषाद्गुह्यसंश्रयम् ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.24]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.24]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.25",
           "ref": "astanga_sangraha 4.22.25",
           "text": "लेपः पटुवेल्लशिला कासीसं रोचना कनकपुष्पी । गोपित्तयुक्तमथवा चपलाञ्जनयुग्मलोहरजः ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.25]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.25]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.26",
           "ref": "astanga_sangraha 4.22.26",
           "text": "काकोदुम्बरिका वा सावल्गुजचित्रका सगोमूत्रा । कदलीक्षारयुतं वा खरास्थि दग्धं सगोरुधिरम् ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.26]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.26]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.27",
           "ref": "astanga_sangraha 4.22.27",
           "text": "नीलोत्पलं सकुष्ठं ससैन्धवं हस्तिमूत्रपिष्टं वा । हस्तिमदाध्युषितो वा मालत्याः क्षारकक्षारः ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.27]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.27]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.28",
           "ref": "astanga_sangraha 4.22.28",
           "text": "सिद्धार्थकाबृहत्यौ करञ्जकोशातकीफलं गुञ्जा । शुकनासा सगवाक्षी स्वर्णक्षीरीनिकुम्भश्च ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.28]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.28]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.29",
           "ref": "astanga_sangraha 4.22.29",
           "text": "लाङ्गलिकी हयमारस्तिल्वकभल्लातकाश्वमूत्री च । मुस्ता स्नुही सहिंस्रा सुवर्णशकला फलोपेता ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.29]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.29]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.30",
           "ref": "astanga_sangraha 4.22.30",
           "text": "मूलकबीजं व्योषं पीलुविडङ्गानि कर्णिकारश्च । पिचुमन्दजातीकिसलयबाकुचिकातुत्थकुष्ठानि ॥",
-          "english": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.30]",
-          "hindi": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should apply the paste of the seeds of the Bhallataka with the essence of the cow urine for the treatment of skin diseases. [AS 4.22.30]",
+          "hindi_draft": "व्यक्ति को त्वचा रोगों के उपचार के लिए गाय के मूत्र के रस के साथ भल्लातक के बीजों का लेप लगाना चाहिए।"
         },
         {
           "number": "22.31",
@@ -41756,33 +41784,41 @@
           "number": "3.11",
           "ref": "astanga_sangraha 5.3.11",
           "text": "सामे लङ्घनदीपनं च लघुरूक्षोष्णं चान्नपानम् । निरामीभूते ऽनुबन्धे लघु क्षारम्लम् । सवाते दधिसाराम्लं दाडिमत्वचा युक्तं भोजने पाने च प्रयुञ्जीत सदाडिमरसं च सर्पिः पिबेदुष्णाम्बुना वा तिलदेवदारुकल्कम् ॥",
-          "english": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.11]",
-          "hindi": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.11]",
+          "hindi_draft": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।"
         },
         {
           "number": "3.12",
           "ref": "astanga_sangraha 5.3.12",
           "text": "क्रूरकोष्ठस्य बहुदोषस्याल्पमल्पगुणं मृदुस्निग्धं वा शोधनमवचारितमुत्क्लेश्य दोषान् न निर्हरति । अल्पाल्पं च पित्तकफसंसृष्टं परिस्रवति । विष्टम्भगौरवशोफकण्डूपाण्डुताङ्गसादगुल्मशूलानि चापादयति ॥",
-          "english": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.12]",
-          "hindi": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.12]",
+          "hindi_draft": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।"
         },
         {
           "number": "3.13",
           "ref": "astanga_sangraha 5.3.13",
           "text": "तं तिनिशधवाश्च्वकर्णपलाशबलानिर्यूहैर्मधुयुक्तैरास्थापयेत् । उपशान्तपरिस्रवं च पुनरुपस्निग्धं तीक्ष्णैः शोधयेत् । शुद्धे च दीपनांश्चूर्णासवारिष्टादीन् योजयेत् ॥",
-          "english": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.13]",
-          "hindi": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.13]",
+          "hindi_draft": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।"
         },
         {
           "number": "3.14",
           "ref": "astanga_sangraha 5.3.14",
           "text": "पीतौषधो यदा वेगमुदीरयति निगृह्णाति वा । तदा प्रवाहिकास्य जायते । तस्यां सदाहशूलं सपिच्छं श्वेतं कृष्णं रक्तं वा भृशं प्रवाहमाणः कफमुपविशति । तं परिस्रवविधिनोपचरेत् ॥",
-          "english": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.14]",
-          "hindi": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The physician should treat the patient who is suffering from severe pain in the heart and other organs. The treatment should include purgation and other measures. [AS 5.3.14]",
+          "hindi_draft": "चिकित्सक को उस रोगी का उपचार करना चाहिए जो हृदय और अन्य अंगों में गंभीर दर्द से पीड़ित है। उपचार में विरेचन और अन्य उपाय शामिल होने चाहिए।"
         },
         {
           "number": "3.15",
@@ -60748,97 +60784,121 @@
           "number": "33.41",
           "ref": "astanga_sangraha 6.33.41",
           "text": "तिलकुम्भवरादन्ती तुत्थसिन्धूत्थमाक्षिकम् । सकृष्णरोचनाकुष्ठं शोधनं मांसकृत् पुनः ॥",
-          "english": "The treatment for leprosy includes the use of various herbs and medicinal plants that are effective in purifying the body. [AS 6.33.41]",
-          "hindi": "कुष्ठ रोग के उपचार में विभिन्न जड़ी-बूटियों और औषधीय पौधों का उपयोग किया जाता है जो शरीर को शुद्ध करने में प्रभावी होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The treatment for leprosy includes the use of various herbs and medicinal plants that are effective in purifying the body. [AS 6.33.41]",
+          "hindi_draft": "कुष्ठ रोग के उपचार में विभिन्न जड़ी-बूटियों और औषधीय पौधों का उपयोग किया जाता है जो शरीर को शुद्ध करने में प्रभावी होते हैं।"
         },
         {
           "number": "33.42",
           "ref": "astanga_sangraha 6.33.42",
           "text": "मञ्जिष्ठासैन्धवक्षौद्रनागदन्तीत्रिवृत्तिलाः । रसाञ्जनद्विरजनीतेजोह्वानिम्बपल्लवाः ॥",
-          "english": "The mixture of red and yellow substances, along with the medicinal plants, should be used for treating skin diseases. [AS 6.33.42]",
-          "hindi": "लाल और पीले पदार्थों का मिश्रण, साथ ही औषधीय पौधों का उपयोग त्वचा रोगों के उपचार के लिए किया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The mixture of red and yellow substances, along with the medicinal plants, should be used for treating skin diseases. [AS 6.33.42]",
+          "hindi_draft": "लाल और पीले पदार्थों का मिश्रण, साथ ही औषधीय पौधों का उपयोग त्वचा रोगों के उपचार के लिए किया जाना चाहिए।"
         },
         {
           "number": "33.43",
           "ref": "astanga_sangraha 6.33.43",
           "text": "निकुम्भकुम्भरक्ताह्वकल्को नाडीव्रणापहः ॥",
-          "english": "The paste made from the red clay is effective in treating wounds and should be applied to the affected area. [AS 6.33.43]",
-          "hindi": "लाल मिट्टी से बना लेप घावों के उपचार में प्रभावी होता है और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The paste made from the red clay is effective in treating wounds and should be applied to the affected area. [AS 6.33.43]",
+          "hindi_draft": "लाल मिट्टी से बना लेप घावों के उपचार में प्रभावी होता है और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "33.44",
           "ref": "astanga_sangraha 6.33.44",
           "text": "सुधाशेलुत्रिवृत्पाठामलयूहयमारकैः । ज्योतिष्मतीलाङ्गलिका स्वर्जिकार्कवचाग्निकैः । विष्यन्दनाख्यं विपचेत्तैलं शोधनरोपणम् ॥",
-          "english": "The mixture of medicinal plants and herbs should be used to treat wounds and promote healing. [AS 6.33.44]",
-          "hindi": "औषधीय पौधों और जड़ी-बूटियों का मिश्रण घावों के उपचार और चिकित्सा को बढ़ावा देने के लिए उपयोग किया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The mixture of medicinal plants and herbs should be used to treat wounds and promote healing. [AS 6.33.44]",
+          "hindi_draft": "औषधीय पौधों और जड़ी-बूटियों का मिश्रण घावों के उपचार और चिकित्सा को बढ़ावा देने के लिए उपयोग किया जाना चाहिए।"
         },
         {
           "number": "33.45",
           "ref": "astanga_sangraha 6.33.45",
           "text": "त्रिवृद्दन्तीहरिद्रार्कमूललोहाश्वमारकैः । विडङ्गसारत्रिफलास्नुगर्कक्षीरमाक्षिकैः । तैलं समदनैः सिद्धं भगन्दरनिर्वहणम् ॥",
-          "english": "The treatment for leprosy includes the use of various herbs and medicinal plants that are effective in purifying the body. [AS 6.33.45]",
-          "hindi": "कुष्ठ रोग के उपचार में विभिन्न जड़ी-बूटियों और औषधीय पौधों का उपयोग किया जाता है जो शरीर को शुद्ध करने में प्रभावी होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The treatment for leprosy includes the use of various herbs and medicinal plants that are effective in purifying the body. [AS 6.33.45]",
+          "hindi_draft": "कुष्ठ रोग के उपचार में विभिन्न जड़ी-बूटियों और औषधीय पौधों का उपयोग किया जाता है जो शरीर को शुद्ध करने में प्रभावी होते हैं।"
         },
         {
           "number": "33.46",
           "ref": "astanga_sangraha 6.33.46",
           "text": "सैन्धवार्कत्रिवृत्पाठासमङ्गपूतिकाग्निकैः । समातुलुङ्गच्छदनैस्तैलंशोधनरोपणम् ॥",
-          "english": "The mixture of red and yellow substances, along with the medicinal plants, should be used for treating skin diseases. [AS 6.33.46]",
-          "hindi": "लाल और पीले पदार्थों का मिश्रण, साथ ही औषधीय पौधों का उपयोग त्वचा रोगों के उपचार के लिए किया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The mixture of red and yellow substances, along with the medicinal plants, should be used for treating skin diseases. [AS 6.33.46]",
+          "hindi_draft": "लाल और पीले पदार्थों का मिश्रण, साथ ही औषधीय पौधों का उपयोग त्वचा रोगों के उपचार के लिए किया जाना चाहिए।"
         },
         {
           "number": "33.47",
           "ref": "astanga_sangraha 6.33.47",
           "text": "मधुतैलयुता विडङ्गसारत्रिफलामागधिकोषणाश्च लीढा कृमिकुष्ठभगन्दरप्रमेहक्षतनाडीव्रणरोपणाभवन्ति ॥",
-          "english": "The paste made from the red clay is effective in treating wounds and should be applied to the affected area. [AS 6.33.47]",
-          "hindi": "लाल मिट्टी से बना लेप घावों के उपचार में प्रभावी होता है और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The paste made from the red clay is effective in treating wounds and should be applied to the affected area. [AS 6.33.47]",
+          "hindi_draft": "लाल मिट्टी से बना लेप घावों के उपचार में प्रभावी होता है और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "33.48",
           "ref": "astanga_sangraha 6.33.48",
           "text": "अमृतात्रुटिवेल्लवत्सकं कलिपथ्यामलका निगुग्गुलुः । क्रमवृद्धमिदं मधुप्लुतं पिटकास्थौल्यभगन्दरान् जयेत् ॥",
-          "english": "The mixture of medicinal plants and herbs should be used to treat wounds and promote healing. [AS 6.33.48]",
-          "hindi": "औषधीय पौधों और जड़ी-बूटियों का मिश्रण घावों के उपचार और चिकित्सा को बढ़ावा देने के लिए उपयोग किया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The mixture of medicinal plants and herbs should be used to treat wounds and promote healing. [AS 6.33.48]",
+          "hindi_draft": "औषधीय पौधों और जड़ी-बूटियों का मिश्रण घावों के उपचार और चिकित्सा को बढ़ावा देने के लिए उपयोग किया जाना चाहिए।"
         },
         {
           "number": "33.49",
           "ref": "astanga_sangraha 6.33.49",
           "text": "गुग्गुलुपञ्चपलं पलिकांशा मागधिका त्रिफला च पृथक् स्यात् । त्वक्त्रुटिकर्षयुतं मधुलीढं कुष्ठभगन्दरगुल्मगतिघ्नम् ॥",
-          "english": "The treatment for leprosy includes the use of various herbs and medicinal plants that are effective in purifying the body. [AS 6.33.49]",
-          "hindi": "कुष्ठ रोग के उपचार में विभिन्न जड़ी-बूटियों और औषधीय पौधों का उपयोग किया जाता है जो शरीर को शुद्ध करने में प्रभावी होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The treatment for leprosy includes the use of various herbs and medicinal plants that are effective in purifying the body. [AS 6.33.49]",
+          "hindi_draft": "कुष्ठ रोग के उपचार में विभिन्न जड़ी-बूटियों और औषधीय पौधों का उपयोग किया जाता है जो शरीर को शुद्ध करने में प्रभावी होते हैं।"
         },
         {
           "number": "33.50",
           "ref": "astanga_sangraha 6.33.50",
           "text": "शृङ्गवेररजोयुक्तं तदेव च सुभावितम् । क्वाथेन दशमूलस्य विशेषाद्वातरोगजित् ॥",
-          "english": "The mixture of red and yellow substances, along with the medicinal plants, should be used for treating skin diseases. [AS 6.33.50]",
-          "hindi": "लाल और पीले पदार्थों का मिश्रण, साथ ही औषधीय पौधों का उपयोग त्वचा रोगों के उपचार के लिए किया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The mixture of red and yellow substances, along with the medicinal plants, should be used for treating skin diseases. [AS 6.33.50]",
+          "hindi_draft": "लाल और पीले पदार्थों का मिश्रण, साथ ही औषधीय पौधों का उपयोग त्वचा रोगों के उपचार के लिए किया जाना चाहिए।"
         },
         {
           "number": "33.51",
           "ref": "astanga_sangraha 6.33.51",
           "text": "उत्तमा खदिरसारजं रजः शीलयन्नसनवारिभावितम् । हन्ति तुल्यमहिषाक्षमाक्षिकं कुष्ठमेहपिटकाभगन्दरान् ॥",
-          "english": "The paste made from the red clay is effective in treating wounds and should be applied to the affected area. [AS 6.33.51]",
-          "hindi": "लाल मिट्टी से बना लेप घावों के उपचार में प्रभावी होता है और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The paste made from the red clay is effective in treating wounds and should be applied to the affected area. [AS 6.33.51]",
+          "hindi_draft": "लाल मिट्टी से बना लेप घावों के उपचार में प्रभावी होता है और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "33.52",
           "ref": "astanga_sangraha 6.33.52",
           "text": "भगन्दरेष्वेष विशेष उक्तः शेषाणि तु व्यञ्जनसाधनानि । व्रणाधिकारात् परिशीलनाच्च सम्यग्विदित्वौपयिकं विदध्यात् ॥",
-          "english": "The mixture of medicinal plants and herbs should be used to treat wounds and promote healing. [AS 6.33.52]",
-          "hindi": "औषधीय पौधों और जड़ी-बूटियों का मिश्रण घावों के उपचार और चिकित्सा को बढ़ावा देने के लिए उपयोग किया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The mixture of medicinal plants and herbs should be used to treat wounds and promote healing. [AS 6.33.52]",
+          "hindi_draft": "औषधीय पौधों और जड़ी-बूटियों का मिश्रण घावों के उपचार और चिकित्सा को बढ़ावा देने के लिए उपयोग किया जाना चाहिए।"
         },
         {
           "number": "33.53",
@@ -61244,89 +61304,111 @@
           "number": "35.18",
           "ref": "astanga_sangraha 6.35.18",
           "text": "सशेषदोषाणि तु योर्बुदानि करोति तस्याशु पुनर्भवन्ति । तस्मादशेषोद्धरणं प्रशस्तं क्षारेण शस्त्रेण तथाग्निना वा ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.18]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.18]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.19",
           "ref": "astanga_sangraha 6.35.19",
           "text": "श्लीपदे तु वातात्मके स्नेहस्वेदोपनाहान् प्रयुज्य गुल्फस्योपरिष्टाद्व्यङ्गुले सिरां विध्येत् । एरण्डतैलञ्च गोमूत्रेण मासं पिबेत् । जीर्णे नागरक्वथितेन पयसा पुराणधान्यान्यश्नीयात् । त्रिवृतञ्च पाययेत् । बस्तिश्च प्रयुञ्जीत । एवमप्यशाम्यत्याग्निना दहेत् ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.19]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.19]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.20",
           "ref": "astanga_sangraha 6.35.20",
           "text": "पैत्तिके मृदुरुपनाहो गुल्फस्याधः सिरामोक्षः पित्तार्बुदोक्ताः स्नेहविरेकाः पित्तघ्नाश्च लेपाः ॥ श्लैष्मिके त्वङ्गुष्ठे सिरां मुञ्चेत् । सक्षौद्रांश्च कफघ्नान् कषायानभीक्ष्णं पाययेत् । यथाबलं वा हरीतकी वर्धमानाः ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.20]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.20]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.21",
           "ref": "astanga_sangraha 6.35.21",
           "text": "श्लैष्मिके त्वङ्गुष्ठे सिरां मुञ्चेत् । सक्षौद्रांश्च कफघ्नान् कषायानभीक्ष्णं पाययेत् । यथाबलं वा हरीतकी वर्धमानाः ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.21]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.21]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.22",
           "ref": "astanga_sangraha 6.35.22",
           "text": "आदारीकाकजंघाकाकादनीशुकनासाकदम्बपुष्पबृहतीद्वयमन्तर्धूमं दग्ध्वा गोमूत्रेण बहुशः परिस्रावयेत् ततस्तत् क्षारोदकं क्षारकल्पेन विपचेत् । दद्याच्चात्र परतीवापं फल्गुशुकाख्या मदनफलरसं एष क्षारो मधुराहारेणाभ्यस्तः श्लीपदापचीग्रहणीदोषारोचकान् सर्वविषाणि च नियच्छति ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.22]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.22]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.23",
           "ref": "astanga_sangraha 6.35.23",
           "text": "तैलं वा पिबेद्विडङ्गार्कमरिचचित्रकशुण्ठीदेवदार्वेलावालुकलवणपञ्चकैस्सिद्धम् । आलेपयेच्च नागरामृताविडङ्गकटुकाभद्रदारुभिर्मूत्रपिष्टैरूरुस्तम्भोक्तैश्च भेषजैर्यवान्नं च शीलयेत् ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.23]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.23]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.24",
           "ref": "astanga_sangraha 6.35.24",
           "text": "मण्डमालायां कुम्भनिकुम्भद्रवन्तीजीमूतककोशातकीफलविपक्वं घृतमुभयानुलोमनं पिबेत् । शार्ङ्गेष्टामूलं वा तक्रपिष्टम् । वमनार्थं सुखोदकेन वा जातीबर्हिष्ठनिर्गुण्डीजीमूतकोत्तुण्डकीमूलत्वक्चूर्णम् । सिरा चास्य विध्येत् ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.24]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.24]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.25",
           "ref": "astanga_sangraha 6.35.25",
           "text": "सशेषदोषं तु कौष्ठिकं नवकं पाययेत् । रसाञ्जनं गोमूत्रतण्डुलोदकान्यतरेण । तदेव च नावयेत् । मधूकसारं वा शिग्रुफलानि वा निम्बकरञ्जकरवीरसिद्धं वा तैलं वैरेचनिकञ्च धूमं पिबेत् ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.25]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.25]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.26",
           "ref": "astanga_sangraha 6.35.26",
           "text": "अपक्वांश्च गण्डान्नाकुलीसैन्धवनागरैर्लेपयेत् । गुञ्जाकरवीरार्कश्यामासिद्धार्थकैरजामूत्रयुक्तैर्दशकृत्वा विपक्वं तैलं लवणपञ्चकपिप्पलीमरिचचूर्णो पेतमभ्यङ्गात्सर्वावस्थानपच्यर्शोर्बुदनाडीदुष्टव्रणवल्मीकानपोहति ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.26]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.26]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.27",
           "ref": "astanga_sangraha 6.35.27",
           "text": "सौवर्चलसैन्धवौद्भिददन्तीभल्लातकचित्रककल्केन सिद्धं तैलमभ्यङ्गो ऽपच्याम् । तण्डूलीयकस्वरसेन वा सनिर्गुण्डीरसं वा तैलं साधितमभ्यङ्गपाननावनैर्गण्डमालानाडीव्रणकुष्ठानिलार्तिहरम् ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.27]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.27]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.28",
           "ref": "astanga_sangraha 6.35.28",
           "text": "काकादनीनलिकाग्निजिह्वावन्ध्याकर्कोटकीविशालापाठोत्तुण्डकीजीमूतकोशातकीबीजैरर्द्धपलांशौर्विषकर्षयुक्तैर्निर्गुण्डीस्वरसोपेतं करञ्जतैलप्रस्थं विपचेत्तत्पूर्ववदेवप्रयुक्तं परमपचीघ्नम् ॥",
-          "english": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.28]",
-          "hindi": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The oil should be prepared with the ingredients mentioned and should be used for massage. The paste should be made from the roots of the plants and should be applied to the affected area. [AS 6.35.28]",
+          "hindi_draft": "तेल को उल्लिखित सामग्री के साथ तैयार किया जाना चाहिए और इसे मालिश के लिए उपयोग किया जाना चाहिए। लेप को पौधों की जड़ों से बनाया जाना चाहिए और इसे प्रभावित क्षेत्र पर लगाया जाना चाहिए।"
         },
         {
           "number": "35.29",
@@ -61756,17 +61838,21 @@
           "number": "37.11",
           "ref": "astanga_sangraha 6.37.11",
           "text": "शर्करार्बुदं मेदोर्बुदवदुपाचरेत् ॥",
-          "english": "One should treat the swelling with the paste of sugar and other ingredients. [AS 6.37.11]",
-          "hindi": "सूजन का उपचार शर्करा और अन्य सामग्रियों के लेप से करना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should treat the swelling with the paste of sugar and other ingredients. [AS 6.37.11]",
+          "hindi_draft": "सूजन का उपचार शर्करा और अन्य सामग्रियों के लेप से करना चाहिए।"
         },
         {
           "number": "37.12",
           "ref": "astanga_sangraha 6.37.12",
           "text": "बल्मीकं हस्तस्य पादस्य चोपरिष्टान्मर्मणि वा जातं प्रवृद्धमतिबहुच्छिद्रावृतं सशोफं च वर्जयेत् ॥",
-          "english": "One should treat the wounds with the paste of sweet substances and ghee, according to the condition. [AS 6.37.12]",
-          "hindi": "घावों का उपचार मीठे पदार्थों और घी के लेप से करना चाहिए, स्थिति के अनुसार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should treat the wounds with the paste of sweet substances and ghee, according to the condition. [AS 6.37.12]",
+          "hindi_draft": "घावों का उपचार मीठे पदार्थों और घी के लेप से करना चाहिए, स्थिति के अनुसार।"
         },
         {
           "number": "37.13",
@@ -61780,33 +61866,41 @@
           "number": "37.14",
           "ref": "astanga_sangraha 6.37.14",
           "text": "पक्वे तु सर्वां गतिं दुष्टमांसानि च शस्त्रेण सम्यक्शोधयित्वाग्निना क्षारेण वा दहेत् ॥",
-          "english": "One should treat the wounds with the paste of sweet substances and ghee, according to the condition. [AS 6.37.14]",
-          "hindi": "घावों का उपचार मीठे पदार्थों और घी के लेप से करना चाहिए, स्थिति के अनुसार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should treat the wounds with the paste of sweet substances and ghee, according to the condition. [AS 6.37.14]",
+          "hindi_draft": "घावों का उपचार मीठे पदार्थों और घी के लेप से करना चाहिए, स्थिति के अनुसार।"
         },
         {
           "number": "37.15",
           "ref": "astanga_sangraha 6.37.15",
           "text": "सुशुद्धे तु व्रणे भल्लातकमनश्शिलालैलाकालानुसार्यगरुचन्दनैर्निम्बतैलं रोपणार्थं श्रपयेत् ॥",
-          "english": "One should treat the swelling with the paste of sugar and other ingredients. [AS 6.37.15]",
-          "hindi": "सूजन का उपचार शर्करा और अन्य सामग्रियों के लेप से करना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should treat the swelling with the paste of sugar and other ingredients. [AS 6.37.15]",
+          "hindi_draft": "सूजन का उपचार शर्करा और अन्य सामग्रियों के लेप से करना चाहिए।"
         },
         {
           "number": "37.16",
           "ref": "astanga_sangraha 6.37.16",
           "text": "कदरं शस्त्रेणोत्कृत्य स्नेहेन दहेत् ॥",
-          "english": "One should treat the wounds with the paste of sweet substances and ghee, according to the condition. [AS 6.37.16]",
-          "hindi": "घावों का उपचार मीठे पदार्थों और घी के लेप से करना चाहिए, स्थिति के अनुसार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should treat the wounds with the paste of sweet substances and ghee, according to the condition. [AS 6.37.16]",
+          "hindi_draft": "घावों का उपचार मीठे पदार्थों और घी के लेप से करना चाहिए, स्थिति के अनुसार।"
         },
         {
           "number": "37.17",
           "ref": "astanga_sangraha 6.37.17",
           "text": "रुद्धगुदे निरुद्धमणिवच्चिकित्सा ॥",
-          "english": "One should treat the swelling with the paste of sugar and other ingredients. [AS 6.37.17]",
-          "hindi": "सूजन का उपचार शर्करा और अन्य सामग्रियों के लेप से करना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "One should treat the swelling with the paste of sugar and other ingredients. [AS 6.37.17]",
+          "hindi_draft": "सूजन का उपचार शर्करा और अन्य सामग्रियों के लेप से करना चाहिए।"
         },
         {
           "number": "37.18",
@@ -62116,25 +62210,31 @@
           "number": "38.21",
           "ref": "astanga_sangraha 6.38.21",
           "text": "विमर्दनादिदुष्टेन वायुना चर्म मेढ्रजम् । निवर्तते सरुग्दाहं क्वचित् पाकं च गच्छति ॥",
-          "english": "The skin that is affected by the wind becomes rough and is known to be painful. [AS 6.38.21]",
-          "hindi": "जो त्वचा वायु से प्रभावित होती है, वह खुरदुरी हो जाती है और इसे दर्दनाक माना जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The skin that is affected by the wind becomes rough and is known to be painful. [AS 6.38.21]",
+          "hindi_draft": "जो त्वचा वायु से प्रभावित होती है, वह खुरदुरी हो जाती है और इसे दर्दनाक माना जाता है।"
         },
         {
           "number": "38.22",
           "ref": "astanga_sangraha 6.38.22",
           "text": "पिण्डितं कुथितं चर्म तत्प्रलम्बमधोमणेः । निवृत्तसंज्ञं सकफं कण्डूकाठिन्यवत्तु तत् ॥",
-          "english": "The skin that is affected by the wind becomes rough and is known to be painful. [AS 6.38.22]",
-          "hindi": "जो त्वचा वायु से प्रभावित होती है, वह खुरदुरी हो जाती है और इसे दर्दनाक माना जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The skin that is affected by the wind becomes rough and is known to be painful. [AS 6.38.22]",
+          "hindi_draft": "जो त्वचा वायु से प्रभावित होती है, वह खुरदुरी हो जाती है और इसे दर्दनाक माना जाता है।"
         },
         {
           "number": "38.23",
           "ref": "astanga_sangraha 6.38.23",
           "text": "दुरूढं स्फुटितं चर्म निर्दिष्टमवपाटिका ॥",
-          "english": "The skin that is affected by the wind becomes rough and is known to be painful. [AS 6.38.23]",
-          "hindi": "जो त्वचा वायु से प्रभावित होती है, वह खुरदुरी हो जाती है और इसे दर्दनाक माना जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The skin that is affected by the wind becomes rough and is known to be painful. [AS 6.38.23]",
+          "hindi_draft": "जो त्वचा वायु से प्रभावित होती है, वह खुरदुरी हो जाती है और इसे दर्दनाक माना जाता है।"
         },
         {
           "number": "38.24",
