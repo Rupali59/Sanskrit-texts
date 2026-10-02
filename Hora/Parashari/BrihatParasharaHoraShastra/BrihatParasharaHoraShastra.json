@@ -31412,8 +31412,8 @@
         {
           "number": 62,
           "text": "अल्पग्रामाधिपत्यं च स्वल्पलाभो भविष्यति ।\nभाग्यलग्नेशसंयुक्ते कर्मेशेन निरीक्षिते",
-          "english": "There will be lordship over a small village and small Labha. This occurs when the lords of Bhagya and Lagna are conjoined and aspected by the lord of Karma Bhava.",
-          "hindi": "अल्प ग्राम का आधिपत्य और स्वल्प लाभ (Labha) होगा। यह योग तब बनता है जब भाग्य (Bhagya) और लग्न (Lagna) के स्वामी एक साथ हों और कर्म भाव (Karma Bhava) के स्वामी द्वारा दृष्ट हों।",
+          "english": "There will be lordship over a small village and small gain. If [the Sun] is joined with the lords of the 9th and of the ascendant, and aspected by the lord of the 10th,",
+          "hindi": "अल्प ग्राम का आधिपत्य और स्वल्प लाभ होगा। यदि [सूर्य] भाग्येश और लग्नेश से युक्त हो, और कर्मेश से दृष्ट हो,",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -31428,23 +31428,21 @@
         {
           "number": 63,
           "text": "राजाश्रयो महाकीर्तिर्विदेशगमनं तथा ।\nदेशाधिपत्ययोगश्च गजश्वाम्बरभूषणम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[With that combination:] the shelter of the king, great fame, and travel abroad; a yoga for ruling a country; elephants, horses, clothes and ornaments,",
+          "hindi": "[उस योग में:] राजा का आश्रय, महान कीर्ति और विदेश-गमन; देश के आधिपत्य का योग; हाथी, घोड़े, वस्त्र और आभूषण,",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:rahu",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 63 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 63 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 64,
           "text": "मनोऽभिष्टप्रदानं च पुत्रकल्याणसम्भवम् ।\nदयेशाद्रिःफरन्ध्रस्थे षष्ठे वा नीचगेऽपि वा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "the granting of the mind's desires, and the welfare of sons. If [the Sun] is in the 12th or 8th from the daśā lord, or in the 6th, or debilitated,",
+          "hindi": "मनोवांछित की प्राप्ति, और पुत्रों का कल्याण। यदि [सूर्य] दशापति से द्वादश या अष्टम में, या षष्ठ में, या नीच में हो,",
+          "status": "translated",
           "tags": [
             "bhava:6",
             "bhava:8",
@@ -31452,9 +31450,7 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 64 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 64 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 65,
@@ -31486,24 +31482,22 @@
         {
           "number": 67,
           "text": "द्वितीयद्यूननाथे तु महारोगो भविष्यति ।\nसूर्यप्रणामं शान्तिं च कुर्यादारोग्यसम्भवाम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [the Sun] is lord of the 2nd or 7th, there will be serious illness; one should bow to the Sun and perform a śānti that brings health.",
+          "hindi": "यदि [सूर्य] द्वितीय या सप्तम का स्वामी हो, तो महारोग होगा; आरोग्य के लिए सूर्य को प्रणाम और शान्ति करनी चाहिए।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "graha:sun",
             "mahadasha:rahu",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 67 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 67 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 68,
           "text": "राहोरन्तर्गते चन्द्रे स्वक्षेत्रे स्वोच्चगेऽपि वा ।\nकेन्द्रत्रिकोणलाभे वा मित्रर्क्षे शुभसंयुते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In Rahu's daśā, the antardaśā of the Moon: if the Moon is in its own sign or exaltation, in a kendra, trikoṇa or the 11th, in a friend's sign [and/or] joined with benefics,",
+          "hindi": "राहु की दशा में चन्द्रमा की अन्तर्दशा: यदि चन्द्रमा अपनी राशि या उच्च में, केन्द्र, त्रिकोण या एकादश में, मित्र की राशि में [और/या] शुभ ग्रहों से युक्त हो,",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "graha:moon",
@@ -31514,9 +31508,7 @@
             "rel:house_group",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 68 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 68 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 69,
@@ -31532,23 +31524,21 @@
         {
           "number": 70,
           "text": "पूर्णे चन्द्रे फलं पूर्णं राजप्रीत्या शुभावहम् ।\nअश्ववाहनलाभः स्यद्गृहक्षेत्रादिवृद्धिकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "with a full Moon the result is full, and auspicious through the king's favour; gain of horses and vehicles, and increase of houses, lands and the like.",
+          "hindi": "पूर्ण चन्द्रमा होने पर फल पूर्ण होता है, और राजा की प्रीति से शुभ; घोड़ों और वाहनों का लाभ, और घर, भूमि आदि की वृद्धि।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "mahadasha:rahu",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 70 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 70 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 71,
           "text": "दायेशात्सुखभाग्यस्थे केन्द्रे वा लाभगेऽपि वा ।\nलक्ष्मीकटाक्षचिह्नानि गृहे कल्याणसम्भवः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [the Moon] is in the 4th or 9th from the daśā lord, or in a kendra or the 11th: signs of Lakṣmī's favour, and auspicious events at home,",
+          "hindi": "यदि [चन्द्रमा] दशापति से चतुर्थ या नवम में, या केन्द्र या एकादश में हो, तो लक्ष्मी की कृपा के चिह्न, और घर में कल्याण,",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "bhava:4",
@@ -31559,28 +31549,24 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 71 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 71 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 72,
           "text": "सर्वकार्यसिद्धिः स्याद्धनधान्यसुखावहा ।\nसत्कीर्तिलाभसम्मानं देव्याराधनमाचरेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "success in all undertakings, bringing wealth, grain and happiness; good fame, gain and honour. One should worship the Goddess.",
+          "hindi": "सब कार्यों में सिद्धि, धन-धान्य और सुख देने वाली; सत्कीर्ति, लाभ और सम्मान। देवी की आराधना करनी चाहिए।",
+          "status": "translated",
           "tags": [
             "mahadasha:rahu"
-          ],
-          "english_draft": "Verse 72 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 72 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 73,
           "text": "दायेशात्षष्ठरन्ध्रस्थे व्यये वा बलवर्जिते ।\nपिशाचक्षुद्रव्याघ्राद्य्सिर्गृहक्षेत्रार्थनाशनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [the Moon] is in the 6th or 8th from the daśā lord, or in the 12th, or devoid of strength: loss of house, land and wealth through piśācas, petty creatures, tigers and the like [reading -ādyaiḥ; uncertain];",
+          "hindi": "यदि [चन्द्रमा] दशापति से षष्ठ या अष्टम में, या द्वादश में, या बलहीन हो, तो पिशाच, क्षुद्र जीव, बाघ आदि से घर, भूमि व धन का नाश ['-आद्यैः' पढ़ा गया; पाठ अनिश्चित];",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:6",
@@ -31590,44 +31576,38 @@
             "rel:lordship",
             "rel:position",
             "rel:state"
-          ],
-          "english_draft": "Verse 73 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 73 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 74,
           "text": "मार्गे चौरभयं चैव व्रणाधिक्य महोदयम् ।\nद्वितीयद्यूननाथे तु अपमृत्युस्तदा भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "fear of thieves on the road, and an outbreak of many wounds [reading uncertain]. If [the Moon] is lord of the 2nd or 7th, untimely death may then occur;",
+          "hindi": "मार्ग में चोरों का भय, और अनेक व्रणों का उदय [पाठ अनिश्चित]। यदि [चन्द्रमा] द्वितीय या सप्तम का स्वामी हो, तो अकाल मृत्यु हो सकती है;",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "mahadasha:rahu",
             "rel:lordship",
             "rel:modality"
-          ],
-          "english_draft": "Verse 74 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 74 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 75,
           "text": "श्वेतां गां महिषीं दद्याद् विप्रायारोग्यसिद्धये ।\nततः सौख्यमवाप्नोति चन्द्रग्रहप्रसादतः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "one should give a white cow and a she-buffalo to a Brahmin to obtain health; then he gains happiness by the Moon's grace.",
+          "hindi": "आरोग्य-सिद्धि के लिए ब्राह्मण को श्वेत गाय और भैंस का दान दें; तब चन्द्र ग्रह की कृपा से सुख मिलता है।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "mahadasha:rahu"
-          ],
-          "english_draft": "Verse 75 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 75 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 76,
           "text": "राहोरन्तर्गते भौमे लग्नाल्लाभत्रिकोणगे ।\nकेन्द्रे वा शुभसंयुक्ते स्वोच्चे स्वक्षेत्रगेऽपि वा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In Rahu's daśā, the antardaśā of Mars: if Mars is in the 11th or a trikoṇa from the ascendant, or in a kendra, or joined with benefics, or in its exaltation or its own sign,",
+          "hindi": "राहु की दशा में मंगल की अन्तर्दशा: यदि मंगल लग्न से एकादश या त्रिकोण में, या केन्द्र में, या शुभ ग्रहों से युक्त हो, या उच्च या अपनी राशि में हो,",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:rahu",
@@ -31637,9 +31617,7 @@
             "rel:house_group",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 76 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 76 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 77,
@@ -31655,9 +31633,9 @@
         {
           "number": 78,
           "text": "क्षिप्रभोज्यान्महत्सौख्यं भूषणश्वाम्बरादिकृत् ।\nदायेशात्केन्द्रकोणे वा दुश्चिक्ये लाभगेऽपि वा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "great happiness from quickly prepared food [reading uncertain], ornaments, horses, clothes and the like. If [Mars] is in a kendra or trikoṇa from the daśā lord, or in the 3rd or 11th,",
+          "hindi": "शीघ्र बने भोजन से महान सुख [पाठ अनिश्चित], आभूषण, घोड़े, वस्त्र आदि। यदि [मंगल] दशापति से केन्द्र या त्रिकोण में, या तृतीय या एकादश में हो,",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "entity:dasha",
@@ -31665,30 +31643,26 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 78 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 78 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 79,
           "text": "रक्तवस्त्रादिलाभः स्यात्प्रयाणं राजदर्शनम् ।\nपुत्रवर्गेषु कल्याणं स्वप्रभोश्च महत्सुखम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gain of red clothes and the like, travel, audience with the king, welfare among one's sons, and great happiness from one's master,",
+          "hindi": "लाल वस्त्र आदि का लाभ, यात्रा, राजदर्शन, पुत्रों में कल्याण, और अपने स्वामी से महान सुख,",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "mahadasha:rahu",
             "rel:modality"
-          ],
-          "english_draft": "Verse 79 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 79 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 80,
           "text": "सेनपत्यं महोत्साहो भ्रातृवर्गधनागमः ।\nदायेशाद्रन्ध्ररिःफे वा षष्ठे पापसमन्विते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "command of an army, great enthusiasm, and wealth coming through brothers. If [Mars] is in the 8th or 12th from the daśā lord, or in the 6th, or joined with a malefic,",
+          "hindi": "सेनापतित्व, महान उत्साह, और भाइयों से धन का आगमन। यदि [मंगल] दशापति से अष्टम या द्वादश में, या षष्ठ में हो, या पाप ग्रह से युक्त हो,",
+          "status": "translated",
           "tags": [
             "bhava:6",
             "entity:dasha",
@@ -31697,9 +31671,7 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 80 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 80 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 81,
@@ -31717,28 +31689,24 @@
         {
           "number": 82,
           "text": "चौराहिव्रणभीतिश्च स्वदेहस्य च पीडनम् ।\nआदौ क्लेशकरं चैव मध्यान्ते सौखमाप्नुयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "fear from thieves, snakes and wounds, and affliction of one's own body. At first it causes trouble; in the middle and at the end one gains happiness.",
+          "hindi": "चोर, सर्प और व्रण का भय, और अपने शरीर को पीड़ा। आरम्भ में क्लेश होता है; मध्य और अन्त में सुख मिलता है।",
+          "status": "translated",
           "tags": [
             "mahadasha:rahu"
-          ],
-          "english_draft": "Verse 82 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 82 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 83,
           "text": "द्वितीयद्यूननाथे तु देहालस्यं महद्भयम् ।\nअनड्वाहं च गां दद्यादारोग्यसुखलब्धये",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [Mars] is lord of the 2nd or 7th, bodily lethargy and great fear; one should give an ox and a cow to obtain health and happiness.",
+          "hindi": "यदि [मंगल] द्वितीय या सप्तम का स्वामी हो, तो देह में आलस्य और महान भय; आरोग्य और सुख के लिए बैल और गाय का दान दें।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "mahadasha:rahu",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 83 of chapter 55: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 55 के श्लोक 83 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
@@ -31775,58 +31743,50 @@
         {
           "number": 3,
           "text": "गजान्तैश्वर्यसम्पत्तिर्भाग्यकर्मफलओदयः ।\nब्राह्मणप्रभुसम्मानं समानं प्रभुदर्शनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "wealth and splendour extending to elephants, the rising of the fruits of fortune and deeds, honour from Brahmins and lords, and audience with his master as an equal [reading of samānam uncertain].",
+          "hindi": "हाथियों तक का ऐश्वर्य और सम्पत्ति, भाग्य और कर्म के फल का उदय, ब्राह्मणों और स्वामियों से सम्मान, और स्वामी से बराबरी का दर्शन ['समानं' का पाठ अनिश्चित]।",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 3 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 3 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 4,
           "text": "स्वप्रभोः स्वफलाधिक्य दारपुत्रादिलाभकृत् ।\nनीचांशे नीचराशिस्थे षष्ठाष्टमव्ययराशिगे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "from his own master, an abundance of his own gains, and gain of wife, sons and the like. If Jupiter is in a debilitated navāṃśa, in its sign of debilitation, or in the 6th, 8th or 12th,",
+          "hindi": "अपने स्वामी से अपने लाभ की अधिकता, और स्त्री-पुत्र आदि का लाभ। यदि गुरु नीच नवांश में, नीच राशि में, या षष्ठ, अष्टम या द्वादश में हो,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 4 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 4 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 5,
           "text": "नीचसङ्गो महादुःखं दायादजनविग्रहः ।\nकलहो न विचारोस्य स्वप्रभुष्वपमृत्युकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "association with low people, great sorrow, and strife with kinsmen; quarrels; lack of judgement [reading uncertain]; it causes untimely death among his masters [reading uncertain],",
+          "hindi": "नीच-संग, महान दुःख, और दायादों से विग्रह; कलह; विचार का अभाव [पाठ अनिश्चित]; स्वामियों में अकाल मृत्यु [पाठ अनिश्चित],",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "mahadasha:jupiter",
             "rel:dignity"
-          ],
-          "english_draft": "Verse 5 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 5 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 6,
           "text": "पुत्रदारवियोगश्च धनधान्यार्थहानिकृत् ।\nसप्तमाधिपदोषेण देववाधा भविष्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "separation from sons and wife, and loss of wealth, grain and money; and through the fault of the 7th lord there will be bodily trouble [reading deha-bādhā for deva-bādhā; uncertain].",
+          "hindi": "पुत्र-स्त्री से वियोग, और धन-धान्य व अर्थ की हानि; और सप्तमेश के दोष से देह-बाधा होगी ['देववाधा' को 'देहबाधा' पढ़ा गया; पाठ अनिश्चित]।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:yoga",
             "graha:sun",
             "mahadasha:jupiter",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 6 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 7,
@@ -31862,85 +31822,73 @@
         {
           "number": 9,
           "text": "राज्यलाभो महत्सौख्यं वस्त्राभरणसंयुतम् ।\nधनधान्यादिलाभश्च स्त्रीलाभो बहुसौख्यकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[With Saturn so placed:] gain of a kingdom, great happiness with clothes and ornaments, gain of wealth, grain and the like, and gain of a woman, bringing much happiness,",
+          "hindi": "[शनि के ऐसा होने पर:] राज्य-लाभ, वस्त्र और आभूषणों सहित महान सुख, धन-धान्य आदि का लाभ, और बहुत सुख देने वाली स्त्री का लाभ,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter",
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 9 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
           "text": "वाहनाम्बरपश्वादिभूलाभः स्थानलाभकृत् ।\nपुत्रमित्रादिसौख्यं च नरवाहनयोगकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gain of vehicles, clothes, cattle and land, gain of position, happiness of sons, friends and the like, and a yoga for being carried by men [in a palanquin],",
+          "hindi": "वाहन, वस्त्र, पशु और भूमि का लाभ, स्थान-लाभ, पुत्र-मित्र आदि का सुख, और मनुष्यों द्वारा वहन [पालकी] का योग,",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:jupiter",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 10 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
           "text": "नीलवस्त्रादिलाभश्च नीलाश्वं लभते च सः ।\nपश्चिमां दिशमाश्रित्य प्रयाणं राजदर्शनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gain of blue clothes and the like, and he gets a dark horse; travel towards the west, and audience with the king;",
+          "hindi": "नीले वस्त्र आदि का लाभ, और वह नीला (काला) घोड़ा पाता है; पश्चिम दिशा की यात्रा, और राजदर्शन;",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 11 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "अनेकयानलाभं च निर्दिशेन्मन्दभुक्तिषु ।\nलग्नात्षष्ठाष्टमे मन्दे व्यये नीचेऽस्तगेऽप्यरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gain of many conveyances is to be declared in Saturn's bhuktis. If Saturn is in the 6th or 8th from the ascendant, or in the 12th, debilitated, combust, or in an enemy's sign,",
+          "hindi": "शनि की भुक्तियों में अनेक यानों का लाभ कहना चाहिए। यदि शनि लग्न से षष्ठ या अष्टम में, या द्वादश में, नीच, अस्त या शत्रु की राशि में हो,",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "graha:saturn",
             "mahadasha:jupiter",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 12 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
           "text": "धनधान्यादिनाशश्च ज्वरपीडा मनोरुजः ।\nस्त्रीपुत्रादिषु पीडा वाव्रणार्त्यादिकमुद्भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "loss of wealth, grain and the like, fever, mental illness, affliction to wife, sons and the like, or wounds and pains may arise,",
+          "hindi": "धन-धान्य आदि का नाश, ज्वर-पीड़ा, मानसिक रोग, स्त्री-पुत्र आदि को पीड़ा, या व्रण और पीड़ा आदि उत्पन्न हो सकते हैं,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter",
             "rel:modality"
-          ],
-          "english_draft": "Verse 13 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 14,
           "text": "गृहे त्वशुभकार्याणि भ्र्त्यवर्गादिपीडनम् ।\nगोमहिष्यादिहानिश्च बन्धुद्वेषी भविष्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "inauspicious events at home, affliction to servants and the like, loss of cows, buffaloes and the like; and he will hate his kin.",
+          "hindi": "घर में अशुभ कार्य, सेवक-वर्ग आदि को पीड़ा, गाय-भैंस आदि की हानि; और वह बन्धुओं से द्वेष करेगा।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "mahadasha:jupiter",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 14 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 14 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 15,
@@ -31980,52 +31928,46 @@
         {
           "number": 17,
           "text": "धनधान्यादिनाशश्च बन्धुमित्रविरोधकृत् ।\nउद्योगभङ्गो देहार्तिः स्वजनानां महद्भयम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[If Saturn is in the 6th or 8th from the daśā lord, or in the 12th, or joined with malefics:] loss of wealth, grain and the like, opposition from kin and friends, broken undertakings, bodily pain, and great fear among one's own people.",
+          "hindi": "[यदि शनि दशापति से षष्ठ या अष्टम में, या द्वादश में हो, या पाप ग्रहों से युक्त हो:] धन-धान्य आदि का नाश, बन्धु-मित्रों से विरोध, उद्योग-भंग, देह-पीड़ा, और स्वजनों को महान भय।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:jupiter",
             "rel:dignity"
-          ],
-          "english_draft": "Verse 17 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 17 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 18,
           "text": "द्विसप्तमाधिपे मन्दे ह्यपमृत्युर्भविष्यति ।\nतद्दोषपरिहारार्थं विष्णुसाहस्रकं जपेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Saturn is lord of the 2nd or 7th, untimely death may occur; to remove that defect one should recite the Viṣṇu Sahasranāma",
+          "hindi": "यदि शनि द्वितीय या सप्तम का स्वामी हो, तो अकाल मृत्यु हो सकती है; उस दोष के निवारण के लिए विष्णु सहस्रनाम का जप करें",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:yoga",
             "graha:saturn",
             "mahadasha:jupiter",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 18 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 18 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 19,
           "text": "कृष्णां गां महिषीं दद्यादनेनारोग्यमादिशेत् ।\nमन्दग्रहप्रसादेन सत्यं सत्यं द्विजोत्तम",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "and give a black cow and a she-buffalo; by this, health is to be declared through Saturn's favour, truly, truly, O best of the twice-born.",
+          "hindi": "और काली गाय और भैंस का दान दें; हे द्विजश्रेष्ठ, इससे शनि ग्रह की कृपा से आरोग्य कहना चाहिए, यह सत्य है, सत्य है।",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 19 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 19 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 20,
           "text": "जीवस्यान्तर्गते सौम्ये केन्द्रलाभत्रिकोणगे ।\nस्वोच्चे वा स्वर्क्षगे वापि दशाधिपसमन्विते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In Jupiter's daśā, the antardaśā of Mercury: if Mercury is in a kendra, the 11th or a trikoṇa, in exaltation or its own sign, or joined with the daśā lord,",
+          "hindi": "गुरु की दशा में बुध की अन्तर्दशा: यदि बुध केन्द्र, एकादश या त्रिकोण में, उच्च या अपनी राशि में, या दशापति से युक्त हो,",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "graha:jupiter",
@@ -32035,43 +31977,37 @@
             "rel:house_group",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 20 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 20 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 21,
           "text": "अर्थलाभो देहसौख्यं राज्यलाभो महत्सुखम् ।\nमहाराजप्रसादेन स्वेष्टसिद्धिः सुखावहा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gain of wealth, bodily comfort, gain of a kingdom, great happiness; by the great king's favour, fulfilment of one's desires, bringing happiness;",
+          "hindi": "धन-लाभ, देह-सुख, राज्य-लाभ, महान सुख; महाराज की कृपा से सुखदायक अभीष्ट-सिद्धि;",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 21 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 21 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 22,
           "text": "वाहनाम्बरपश्वादिगोधनैस्संकुलं गृहम् ।\nमहीसुतेन संदृष्टे शत्रुवृद्धिः सुखक्षयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "a house full of vehicles, clothes, cattle and herds of cows. If [Mercury] is aspected by Mars: increase of enemies, and loss of happiness,",
+          "hindi": "वाहन, वस्त्र, पशु और गोधन से भरा घर। यदि [बुध] मंगल से दृष्ट हो, तो शत्रु-वृद्धि और सुख का क्षय,",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "mahadasha:jupiter",
             "rel:aspect",
             "rel:dignity"
-          ],
-          "english_draft": "Verse 22 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 22 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 23,
           "text": "व्यवसायात्फलं निष्टं ज्वरातीमारपीडनम् ।\nदायेशाद्भाग्यकोणे वा केन्द्रे वा तुङ्गराशिगे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "the fruit of one's business lost, and affliction from fever and dysentery [reading atīsāra]. If [Mercury] is in the 9th or a trikoṇa from the daśā lord, or in a kendra, or in its exaltation sign,",
+          "hindi": "व्यवसाय का फल नष्ट, और ज्वर व अतिसार से पीड़ा ['अतीसार' पढ़ा गया]। यदि [बुध] दशापति से नवम या त्रिकोण में, या केन्द्र में, या उच्च राशि में हो,",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "mahadasha:jupiter",
@@ -32079,9 +32015,7 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 23 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 23 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 24,
@@ -32098,9 +32032,9 @@
         {
           "number": 25,
           "text": "दायेशात्षष्ठरन्ध्रस्थे व्यये वा पापसंयुते ।\nशुभदृष्टिविहीने च धन्धान्यपरिच्युतिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [Mercury] is in the 6th or 8th from the daśā lord, or in the 12th, or joined with malefics, and without the aspect of benefics: loss of wealth and grain,",
+          "hindi": "यदि [बुध] दशापति से षष्ठ या अष्टम में, या द्वादश में हो, या पाप ग्रहों से युक्त हो, और शुभ दृष्टि से रहित हो, तो धन-धान्य की हानि,",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:6",
@@ -32112,28 +32046,24 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 25 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 25 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 26,
           "text": "विदेशगमनं चैव मार्गे चौरभयं तथा ।\nव्रणदाहाक्षिरोगश्च नानादेशपरिभ्रमः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "going abroad, fear of thieves on the road, wounds, burning, eye disease, and wandering through many lands.",
+          "hindi": "विदेश-गमन, मार्ग में चोरों का भय, व्रण, दाह, नेत्र रोग, और अनेक देशों में भ्रमण।",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 26 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 26 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 27,
           "text": "लग्नात्षष्ठाष्टमभावे वा व्यये वा पापसंयुते ।\nअक्समात्कलहश्चैव गृहे मिष्ठुरभावणम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If it is in the 6th or 8th house from the ascendant, or in the 12th, or joined with malefics: sudden quarrels, and harsh speech at home [reading niṣṭhura-bhāṣaṇa],",
+          "hindi": "यदि वह लग्न से षष्ठ या अष्टम भाव में, या द्वादश में हो, या पाप ग्रहों से युक्त हो, तो अकस्मात् कलह, और घर में कठोर भाषण ['निष्ठुरभाषण' पढ़ा गया],",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:12",
@@ -32142,23 +32072,19 @@
             "mahadasha:jupiter",
             "rel:conjunction",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 27 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 27 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 28,
           "text": "चतुष्पाज्जीवहानिश्च व्यवहारे तथैव च ।\nअपमृत्युभयं चैव शत्रूणां कलहो भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "loss of cattle, and likewise in dealings; fear of untimely death, and quarrels with enemies.",
+          "hindi": "पशुओं की हानि, और वैसे ही व्यवहार में भी; अकाल मृत्यु का भय, और शत्रुओं से कलह।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "mahadasha:jupiter",
             "rel:modality"
-          ],
-          "english_draft": "Verse 28 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 28 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 29,
@@ -32189,39 +32115,35 @@
         {
           "number": 31,
           "text": "तद्दोषपरिहारार्थं विष्णुसाहस्रकं जपेत् ।\nआयुर्वृद्धिकरं चैव सर्वसौभाग्यदायकम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "To remove that defect one should recite the Viṣṇu Sahasranāma, which increases life and gives all good fortune.",
+          "hindi": "उस दोष के निवारण के लिए विष्णु सहस्रनाम का जप करें, जो आयु बढ़ाने वाला और सब सौभाग्य देने वाला है।",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "entity:yoga",
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 31 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 31 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 32,
           "text": "जीवस्यान्तर्गते केतौ शुभग्रहसमन्विते ।\nअल्पसौख्यधनव्याप्तिः कुत्सितान्नस्य भोजनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In Jupiter's daśā, the antardaśā of Ketu: if Ketu is joined with benefics: little happiness and wealth, and eating bad food,",
+          "hindi": "गुरु की दशा में केतु की अन्तर्दशा: यदि केतु शुभ ग्रहों से युक्त हो, तो अल्प सुख और धन, और कुत्सित अन्न का भोजन,",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "mahadasha:jupiter",
             "rel:conjunction",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 32 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 32 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 33,
           "text": "परान्नं चैव श्राद्धान्नं पापमूलाद्धनानि च ।\nदायेशाद्रिपुरन्ध्रस्थे व्यये वा पापसंयुते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "others' food and śrāddha food, and wealth from sinful sources. If [Ketu] is in the 6th or 8th from the daśā lord, or in the 12th, or joined with malefics,",
+          "hindi": "पराया अन्न और श्राद्ध का अन्न, और पापमूलक धन। यदि [केतु] दशापति से षष्ठ या अष्टम में, या द्वादश में हो, या पाप ग्रहों से युक्त हो,",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:6",
@@ -32232,29 +32154,25 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 33 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 33 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 34,
           "text": "राजकोपो धनच्छेदो बन्धनं रोगपीडनम् ।\nबलाहानिः पितृद्वेषो भ्रातृद्वेषो मनोरुजम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "the king's anger, loss of wealth, imprisonment, affliction from disease, loss of strength, hostility with father and with brothers, and mental illness.",
+          "hindi": "राजकोप, धन का नाश, बन्धन, रोग-पीड़ा, बल की हानि, पिता से द्वेष, भाइयों से द्वेष, और मानसिक रोग।",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter",
             "rel:state"
-          ],
-          "english_draft": "Verse 34 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 34 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 35,
           "text": "दायेशात्सुतभाग्यस्थे वाहने कर्मगेऽपि वा ।\nनरवाहनयोगश्च गजाश्वाम्बरसङ्कुलम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [Ketu] is in the 5th or 9th from the daśā lord, or in the 4th or 10th: a yoga for being carried by men, and abundance of elephants, horses and clothes,",
+          "hindi": "यदि [केतु] दशापति से पञ्चम या नवम में, या चतुर्थ या दशम में हो, तो मनुष्यों द्वारा वहन का योग, और हाथी, घोड़े व वस्त्रों की प्रचुरता,",
+          "status": "translated",
           "tags": [
             "bhava:10",
             "bhava:4",
@@ -32266,35 +32184,29 @@
             "mahadasha:jupiter",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 35 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 35 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 36,
           "text": "महाराजप्रसादेन स्वेष्टकार्यार्थलाभकृत् ।\nव्यवसायात्फलाधिक्यं गोमहिष्यादिलाभकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "by the great king's favour, gain in the matters one wishes; abundance of results from business, and gain of cows, buffaloes and the like,",
+          "hindi": "महाराज की कृपा से इच्छित कार्यों में लाभ; व्यवसाय से फल की अधिकता, और गाय-भैंस आदि का लाभ,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 36 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 36 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 37,
           "text": "यवनप्रभुमूलाद्वा धनवस्त्रादिलाभकृत् ।\nद्वितीयद्यूननाथे तु देहवाधा भविष्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "or gain of wealth, clothes and the like through a Yavana lord. If [Ketu is linked to — interpretive; the text has only the locative] the lord of the 2nd or 7th, there will be bodily trouble.",
+          "hindi": "या यवन स्वामी से धन, वस्त्र आदि का लाभ। यदि [केतु] द्वितीय या सप्तम के स्वामी [से सम्बद्ध — व्याख्यात्मक; मूल में केवल अधिकरण] हो, तो देह-बाधा होगी।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "mahadasha:jupiter",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 37 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 37 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 38,
@@ -32332,28 +32244,24 @@
         {
           "number": 40,
           "text": "नरवाहनयोगश्च गजाश्वाम्बरसंयुतः ।\nमहारजप्रसादेन लाभाधिक्यं महत्सुखम् ।\nनीलाम्बराणां रक्तानां लाभश्चैव भविष्यति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[With Venus so placed:] a yoga for being carried by men, with elephants, horses and clothes; by the great king's favour, abundant gain and great happiness; there will also be gain of blue and red garments.",
+          "hindi": "[शुक्र के ऐसा होने पर:] हाथी, घोड़े और वस्त्रों सहित मनुष्यों द्वारा वहन का योग; महाराज की कृपा से अधिक लाभ और महान सुख; नीले और लाल वस्त्रों का भी लाभ होगा।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:jupiter",
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 40 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 40 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 41,
           "text": "पूर्वस्यां दिशि विप्रेन्द्र प्रयाणं धन्लाभदम् ।\nकल्याणं च महाप्रीतिः पितृमातृसुखावहा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Travel in the eastern direction, O best of Brahmins, brings gain of wealth; welfare, great affection, and happiness from father and mother.",
+          "hindi": "हे विप्रेन्द्र, पूर्व दिशा की यात्रा धन-लाभ देती है; कल्याण, महान प्रीति, और माता-पिता से सुख।",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 41 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 41 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 42,
@@ -32382,17 +32290,15 @@
         {
           "number": 44,
           "text": "मन्दारराहुसंयुक्ते कलहो राजतो भयम् ।\nस्त्रीमूलात्कलहश्चैव श्वसुरात्कलहस्तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If [Venus] is joined with Saturn, Mars and Rahu: quarrels, fear from the king, quarrels on account of women, and likewise quarrels with the father-in-law,",
+          "hindi": "यदि [शुक्र] शनि, मंगल और राहु से युक्त हो, तो कलह, राजा से भय, स्त्रियों के कारण कलह, और वैसे ही श्वसुर से कलह,",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "graha:saturn",
             "mahadasha:jupiter",
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 44 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 44 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 45,
@@ -32414,42 +32320,36 @@
         {
           "number": 46,
           "text": "धनधान्यादिलाभश्च स्र्/ईलाभो राजदर्शनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gain of wealth, grain and the like, gain of a woman [reading strī-lābha], and audience with the king,",
+          "hindi": "धन-धान्य आदि का लाभ, स्त्री-लाभ ['स्त्रीलाभ' पढ़ा गया], और राजदर्शन,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 46 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 46 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 47,
           "text": "वाहनं पुत्रलाभश्च पशुवृद्धिर्महत्सुखम् ।\nगीतावाद्यप्रसङ्गादिर्विद्वज्जनसमागमः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "vehicles, gain of sons, increase of cattle, great happiness, occasions of song and music and the like, and meeting with learned people,",
+          "hindi": "वाहन, पुत्र-लाभ, पशु-वृद्धि, महान सुख, गीत-वाद्य आदि के प्रसंग, और विद्वानों से समागम,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 47 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 47 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 48,
           "text": "दिव्यान्नभोजनं सौख्यं स्वबन्धुजनपोषकम् ।\nद्विसप्तमाधिपे शुक्रे तद्दशानां धनक्षतिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "eating divine food, happiness, and supporting one's own kin. If Venus is lord of the 2nd or 7th, loss of wealth in its periods,",
+          "hindi": "दिव्य अन्न का भोजन, सुख, और अपने बन्धुजनों का पोषण। यदि शुक्र द्वितीय या सप्तम का स्वामी हो, तो उसकी दशाओं में धन-हानि,",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:dasha",
             "graha:venus",
             "mahadasha:jupiter",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 48 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 48 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 49,
@@ -32464,16 +32364,14 @@
         {
           "number": 50,
           "text": "श्वेतां गां महिषीं दद्यादायुरारोग्यवृद्धये ।\nशुक्रग्रहप्रसादेन ततः सुखमवाप्नुयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "one should give a white cow and a she-buffalo for increase of life and health; then, by Venus's favour, he gains happiness.",
+          "hindi": "आयु और आरोग्य की वृद्धि के लिए श्वेत गाय और भैंस का दान दें; तब शुक्र ग्रह की कृपा से सुख मिलता है।",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "graha:venus",
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 50 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 50 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 51,
@@ -32522,33 +32420,29 @@
         {
           "number": 54,
           "text": "लग्नादष्टमव्यये सूर्ये दायेशाद्वा तथैव च ।\nशिरोरोगादिपीडा च ज्वरपीडा तथैव च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the Sun is in the 8th or 12th from the ascendant, or likewise from the daśā lord: affliction from headaches and the like, and likewise from fever,",
+          "hindi": "यदि सूर्य लग्न से अष्टम या द्वादश में, या वैसे ही दशापति से हो, तो शिरोरोग आदि की पीड़ा, और वैसे ही ज्वर-पीड़ा,",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "entity:dasha",
             "graha:sun",
             "mahadasha:jupiter",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 54 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 54 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 55,
           "text": "सत्कर्मसु तदा हीनः पापकर्मचयस्तथा ।\nसर्वत्र जनविद्वेषो ह्यात्मबन्धुवियोगकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "then he falls short in good deeds, and heaps up sinful deeds; enmity of people everywhere, and separation from one's own kin;",
+          "hindi": "तब वह सत्कर्मों में हीन होता है, और पापकर्मों का संचय करता है; सर्वत्र लोगों से द्वेष, और अपने बन्धुओं से वियोग;",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:jupiter",
             "rel:modality",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 55 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 55 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 56,
@@ -32609,21 +32503,19 @@
         {
           "number": 60,
           "text": "सत्कर्म च तथा कीर्तिः पुत्रपौत्रादिवृद्धिदा ।\nमहाराजप्रसादेन सर्वसौख्यं धनागमः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "good deeds and fame, and increase of sons, grandsons and the like; by the great king's favour, every happiness and the coming of wealth,",
+          "hindi": "सत्कर्म और कीर्ति, और पुत्र-पौत्र आदि की वृद्धि; महाराज की कृपा से सब सुख और धन का आगमन,",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 60 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 60 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 61,
           "text": "अनेकजनसौख्यं च दानधर्मादिसंग्रहः ।\nषष्ठाष्टमव्यये चन्द्रे स्थिते वा पापसंयुते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "happiness from many people, and the gathering of charity and dharma. If the Moon is in the 6th, 8th or 12th, or joined with malefics,",
+          "hindi": "अनेक लोगों से सुख, और दान-धर्म आदि का संग्रह। यदि चन्द्रमा षष्ठ, अष्टम या द्वादश में स्थित हो, या पाप ग्रहों से युक्त हो,",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "graha:moon",
@@ -32631,9 +32523,7 @@
             "rel:conjunction",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 61 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 61 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 62,
@@ -32654,17 +32544,15 @@
         {
           "number": 63,
           "text": "नृपचौरादिपीडा च दायादजनविग्रहः ।\nमातुलादिवियोगश्च मातृपीडा तथैव च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "affliction from the king, thieves and the like, quarrels with kinsmen, separation from maternal uncles and the like, and likewise affliction to the mother.",
+          "hindi": "राजा, चोर आदि से पीड़ा, दायादों से विग्रह, मामा आदि से वियोग, और वैसे ही माता को पीड़ा।",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "entity:yoga",
             "mahadasha:jupiter",
             "rashi:tula"
-          ],
-          "english_draft": "Verse 63 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 63 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 64,
@@ -32680,9 +32568,9 @@
         {
           "number": 65,
           "text": "जीवस्यान्तर्गते भौमे लग्नात्केन्द्रत्रिकोणगे ।\nस्वोच्चे वा स्वर्क्षगे वापि तुङ्गांशे स्वांशगेऽपि वा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In Jupiter's daśā, the antardaśā of Mars: if Mars is in a kendra or trikoṇa from the ascendant, in exaltation or its own sign, or in an exalted or its own navāṃśa,",
+          "hindi": "गुरु की दशा में मंगल की अन्तर्दशा: यदि मंगल लग्न से केन्द्र या त्रिकोण में, उच्च या अपनी राशि में, या उच्च या अपने नवांश में हो,",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
@@ -32690,21 +32578,17 @@
             "rel:dignity",
             "rel:house_group",
             "rel:position"
-          ],
-          "english_draft": "Verse 65 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 65 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 66,
           "text": "विद्याविवाहकार्याणि ग्रामभूम्यादिलाभकृत् ।\nजनसामर्थ्यमाप्नोति सर्वकार्यार्थसिद्धिदम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "learning and marriage, gain of villages, land and the like; he gains power over people, and it brings success in all undertakings.",
+          "hindi": "विद्या और विवाह के कार्य, ग्राम, भूमि आदि का लाभ; वह जन-सामर्थ्य पाता है, और यह सब कार्यों में सिद्धि देता है।",
+          "status": "translated",
           "tags": [
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 66 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 66 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 67,
