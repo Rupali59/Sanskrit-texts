@@ -15,6 +15,9 @@ wrong work:
          a label repeated across the text. **Translate it.** There is nothing to verify.
   STUB   `status: translated` but `english` is a generated template, not a translation.
          RE-translate. The worker is replacing text, not filling a blank.
+  BAD    a SERVED value fails `translation_status`'s checker (echo, label repeated across
+         verses, one translation serving two verses...). REVIEW: most are real defects, a few
+         are the checker's known false positives. Never counted as complete. (2026-10-02)
 
 **ECHO was split out of DRAFT on 2026-09-23, and the split changed the backlog by sixty-fold.**
 Every draft counted as work-in-progress; reading them showed 67,965 of 69,037 contained no
@@ -57,6 +60,9 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO))
+# Stdlib-only by design, so this script still runs under bare `python3`.
+from sanskrit_texts.translation_status import check_text  # noqa: E402
 
 # A generated stub, not a translation: "Chapter 21, Shloka 11 - Description of ..."
 # `[0-9]`, never `\d` -- G17: Python's `\d` matches Devanagari digits too.
@@ -160,10 +166,24 @@ def scan():
             continue
         parsed += 1
         c, stub, drafts, mismatch = collections.Counter(), 0, [], 0
+        # Every column comes from what the served FIELDS hold, never from `status`. Until
+        # 2026-10-02 this counted `status`, so a verse stamped `translated` whose `hindi` was the
+        # Sanskrit read as complete: 288 Suśruta echoes the canonical checker already flagged
+        # were reported "complete" (a61cb20). A verse whose served value FAILS the checker is
+        # BAD -- its own job, not folded into UNTR/part, because "review what is on the shelf"
+        # and "translate a blank" go to different people (and BAD carries the checker's known
+        # false positives, e.g. Sūrya Siddhānta 2.22's sine table, which a human clears).
+        verdicts = iter(check_text(j).verses)
         for ch in j.get("chapters") or []:
             for s in ch.get("shlokas") or []:
                 st = s.get("status", "untranslated")
-                c[st] += 1
+                v = next(verdicts)
+                if v.is_corrupt:
+                    c["bad"] += 1
+                elif v.effective == "untranslated" and (s.get("english_draft") or "").strip():
+                    c["drafted"] += 1   # counted by DRAFT/ECHO below, never twice
+                else:
+                    c[v.effective] += 1
                 english = (s.get("english") or "").strip()
                 if st == "translated" and STUB_RE.match(english):
                     stub += 1
@@ -187,6 +207,7 @@ def scan():
             "translated": c["translated"],
             "untranslated": c["untranslated"],
             "partial": c["partial"],
+            "bad": c["bad"],
             "draft_en": draft_en,
             "draft_echo": draft_echo,
             "stub": stub,
@@ -201,17 +222,17 @@ def main():
         print(f"could not run: no text_id-bearing JSON found under {REPO}", file=sys.stderr)
         return 2
 
-    work = lambda r: r["untranslated"] + r["partial"] + r["stub"] + r["draft_echo"]
+    work = lambda r: r["untranslated"] + r["partial"] + r["stub"] + r["draft_echo"] + r["bad"]
     rows.sort(key=lambda r: (work(r), r["draft_en"]), reverse=True)
     outstanding = [r for r in rows if work(r) or r["draft_en"]]
 
     hdr = (f'{"text_id":<30}{"category":<22}{"total":>8}{"UNTR":>8}{"part":>6}'
-           f'{"ECHO":>8}{"DRAFT":>7}{"STUB":>6}  authority')
+           f'{"ECHO":>8}{"DRAFT":>7}{"STUB":>6}{"BAD":>6}  authority')
     print(hdr)
     print("-" * len(hdr))
     for r in outstanding:
         print(f'{r["text_id"]:<30}{r["category"]:<22}{r["total"]:>8,}{r["untranslated"]:>8,}'
-              f'{r["partial"]:>6}{r["draft_echo"]:>8,}{r["draft_en"]:>7,}{r["stub"]:>6}'
+              f'{r["partial"]:>6}{r["draft_echo"]:>8,}{r["draft_en"]:>7,}{r["stub"]:>6}{r["bad"]:>6}'
               f'  {r["authority"]}')
     print("-" * len(hdr))
 
@@ -220,7 +241,8 @@ def main():
           f'{len(rows) - len(outstanding)} complete')
     print(f'TRANSLATE {tot("untranslated") + tot("partial") + tot("draft_echo"):,} '
           f'(of which {tot("draft_echo"):,} sit in `english_draft` and are NOT translations) · '
-          f'VERIFY-DRAFT {tot("draft_en"):,} · RE-TRANSLATE-STUB {tot("stub"):,} '
+          f'VERIFY-DRAFT {tot("draft_en"):,} · RE-TRANSLATE-STUB {tot("stub"):,} · '
+          f'REVIEW-BAD {tot("bad"):,} '
           f'(of {tot("total"):,} total)')
 
     if tot("mismatch"):

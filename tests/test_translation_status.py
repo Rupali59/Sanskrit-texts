@@ -96,6 +96,34 @@ def test_identical_translations_over_IDENTICAL_sanskrit_are_NOT_flagged() -> Non
     assert st.count("translated") == 2
 
 
+def test_a_refrain_whose_copies_differ_only_in_punctuation_is_neither_label_nor_misaligned() -> None:
+    """`caraka_samhita`'s closing formula ends each adhyaya as `…भगवानात्रेयः //` in one place and
+    `…भगवानात्रेयः//` in another -- the same verse. Compared raw, `check_text` read the copies as
+    different verses, so the shared (correct) translation became `misaligned`, and at three copies
+    `label-only`. Switching to `normalise_sanskrit` took the backlog's BAD column 539 -> 375 on
+    2026-10-02 (Caraka 114 -> 89, Suśruta 152 -> 84, Atharvaveda 73 -> 2). Literal fixture."""
+    formula = "इति ह स्माह भगवानात्रेयः"
+    copies = [f"{formula} //", f"{formula}//", f"{formula} ॥", f" {formula}//"]
+    st = check_text(_doc(*[_verse(f"{i}.2", sa, english="Thus said the venerable Lord Atreya.",
+                                  hindi="ऐसा भगवान आत्रेय ने कहा।", status="translated")
+                           for i, sa in enumerate(copies, 1)]))
+    assert not any(v.defects & {"en:misaligned", "en:label-only"} for v in st.verses), (
+        [sorted(v.defects) for v in st.verses])
+    assert st.count("translated") == len(copies)
+
+
+def test_one_english_over_three_genuinely_different_verses_is_still_flagged() -> None:
+    """The other side of the refrain test: normalising must not hide the block-summary defect
+    (`astanga_sangraha` 7.54/7.56 -- one sentence served over different ingredient lists)."""
+    summary = "The light and nourishing substances are to be consumed, especially for the weak."
+    st = check_text(_doc(*[_verse(f"7.{n}", sa, english=summary, hindi="हल्के पदार्थ।",
+                                  status="translated")
+                           for n, sa in ((54, "तृट्च्छर्दिश्रमनुन्मन्थः शीतः"),
+                                         (55, "विष्टम्भि मूत्रलं हृद्यं"),
+                                         (56, "यथाद्रव्यगुणं च सर्वम्"))]))
+    assert all({"en:misaligned", "en:label-only"} <= v.defects for v in st.verses)
+
+
 def test_a_repeated_label_is_detected_and_a_short_real_translation_is_not() -> None:
     """Length cannot separate these; repetition can.
 

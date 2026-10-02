@@ -249,3 +249,29 @@ def test_could_not_run_is_distinguishable_from_a_clean_backlog(tmp_path, monkeyp
     import translation_backlog as tb
     monkeypatch.setattr(tb, "REPO", tmp_path)
     assert tb.main() == 2, "an empty tree reported a clean backlog instead of 'could not run'"
+
+
+def test_a_verse_stamped_translated_whose_served_hindi_is_the_sanskrit_is_not_complete(
+        tmp_path, monkeypatch) -> None:
+    """The 2026-10-02 blind spot: this script counted stored `status`, so 288 Suśruta verses
+    stamped `translated` whose `hindi` was the verse itself -- already flagged by the canonical
+    checker -- were reported complete. Built as a LITERAL, never through a builder or a corpus
+    file (rule:mutate-behind-the-fixture-builder): once the corpus is clean, a test that reads it
+    checks nothing."""
+    import translation_backlog as tb
+    dev = "विक्रमेशगुरू लग्नं गतौ गोभीतिसूचकौ ।\nराहुणा वा फणिक्रान्तराशिपेन युतौ यदि ॥"
+    doc = {"text_id": "fixture_text", "category": "parashari", "chapters": [{"number": 1, "shlokas": [
+        {"number": 1, "text": dev, "status": "translated",
+         "english": "When the lords of the third and of Jupiter occupy the ascendant, they portend fear from cattle.",
+         "hindi": "विक्रमेश-गुरू लग्नं गतौ गोभीतिसूचकौ। राहुणा वा फणिक्रान्तराशिपेन युतौ यदि।"},
+        {"number": 2, "text": "अन्यः श्लोकः पठितव्यः ॥", "status": "translated",
+         "english": "Another verse is to be recited.", "hindi": "एक अन्य श्लोक पढ़ना चाहिए।"},
+    ]}]}
+    (tmp_path / "Fixture").mkdir()
+    (tmp_path / "Fixture" / "Fixture.json").write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+    monkeypatch.setattr(tb, "REPO", tmp_path)
+    rows, parsed = tb.scan()
+    assert parsed == 1, "the fixture was not scanned -- the test would pass by looking at nothing"
+    (row,) = rows
+    assert row["bad"] == 1, f"a served Hindi echo stamped `translated` was not reported: {row}"
+    assert row["translated"] == 1, "the clean verse must still count as translated"
