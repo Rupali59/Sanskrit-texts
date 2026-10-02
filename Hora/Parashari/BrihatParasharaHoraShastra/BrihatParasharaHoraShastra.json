@@ -2577,27 +2577,23 @@
         {
           "number": 18,
           "text": "रमनेत्राबिधपञ्चाश्विभूमयः सप्तवर्गके ।\nससप्तमांशके तत्र विश्वकाः पञ्च लोचनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[In the ṣaḍvarga, the viṃśopaka values in order are] 6, 2, 4, 5, 2 and 1 [reading the corrupt rama as rasa = 6]. In the saptavarga, which includes the saptāṃśa, the viṃśopakas [reading viśvakāḥ as viṃśakāḥ] are five, two,",
+          "hindi": "[षड्वर्ग में क्रम से विंशोपक मान] ६, २, ४, ५, २ और १ हैं [भ्रष्ट 'रम' को 'रस' = ६ पढ़ा गया]। सप्तांश सहित सप्तवर्ग में विंशोपक [‘विश्वकाः’ को ‘विंशकाः’ पढ़ा गया] पाँच, दो,",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:varga"
-          ],
-          "english_draft": "In the Saptavarga (seven divisions, including Saptamsha), the Vimsopaka values are allocated as 6, 2, 4, 5, 2, 1, and 5 respectively.",
-          "hindi_draft": "सप्तवर्ग (सप्तमांश सहित सात वर्गों) में विंशोपक बल के मान क्रमशः ६, २, ४, ५, २, १ तथा ५ निर्धारित किए गए हैं।"
+          ]
         },
         {
           "number": 19,
           "text": "त्रयः सार्द्धं द्वयं सार्द्धवेदा द्वौ रात्रिनायकः ।\nस्थूलं फलं च संस्थाप्य तत्सूक्ष्मं च ततस्ततः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "three, two and a half, four and a half, two, and one (the 'lord of night', the Moon, standing for one). Having first set out the gross result, the subtle result should then be derived from it, step by step.",
+          "hindi": "तीन, ढाई, साढ़े चार, दो और एक ('रात्रिनायक' चन्द्रमा = एक) हैं। पहले स्थूल फल स्थापित करके, फिर उससे क्रमशः सूक्ष्म फल निकालना चाहिए।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Allocating 3.5, 2.5, 4, 2, and 1 units respectively, establish the gross results first and then the subtle results sequentially.",
-          "hindi_draft": "क्रमशः ३.५, २.५, ४, २ और १ इकाइयाँ स्थापित करके, पहले स्थूल फल और तत्पश्चात् सूक्ष्म फल का क्रमानुसार निरूपण करें।"
+          ]
         },
         {
           "number": 20,
@@ -12177,16 +12173,14 @@
         {
           "number": 9,
           "text": "चन्द्रभौमशनीनां च नतं द्विघ्नं कलादिकम् ।\nषष्टिशुद्धं तदन्येषां सदा रूपं बुधस्य हि",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "For the Moon, Mars and Saturn, the nata (distance from the meridian) doubled gives their strength in kalās and so on; for the others, that subtracted from sixty. Mercury always has one rūpa.",
+          "hindi": "चन्द्रमा, मंगल और शनि के लिए नत को दुगुना करने से कला आदि में बल मिलता है; अन्य ग्रहों के लिए उसे साठ में से घटाएँ। बुध का बल सदा एक रूप होता है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:mercury",
             "graha:moon"
-          ],
-          "english_draft": "Subtract the arc from sixty for Sun, Moon, Mars, and Saturn, double the minutes, and for others always take one unit as specified for Mercury.",
-          "hindi_draft": "सूर्य, चन्द्र, मंगल और शनि के लिए कलादि मान को साठ में से घटाकर दुगुना करें, तथा अन्यों के लिए बुध के मान के अनुसार सदा एक रूप (इकाई) ग्रहण करें।"
+          ]
         },
         {
           "number": 10,
@@ -12247,15 +12241,13 @@
         {
           "number": 15,
           "text": "पञ्चाब्धयः सुराः सूर्याः खण्डकांशाः क्रमादमी ।\nसायनग्रहदोराशितुल्यखण्डयुतिश्च स",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Forty-five, thirty-three and twelve: these, in order, are the segment degrees (khaṇḍa). The [value] is the sum of as many segments as there are signs in the bhuja (dos) of the planet's sāyana longitude [the verse does not name the quantity; it is the 0–90 measure used for ayana-bala, completed by the proportional part in the next verse].",
+          "hindi": "पैंतालीस, तैंतीस और बारह — ये क्रम से खण्ड-अंश हैं। सायन ग्रह के भुज (दोः) में जितनी राशियाँ हों, उतने खण्डों का योग वह [मान] होता है [श्लोक इस मात्रा का नाम नहीं देता; यह अयन-बल के लिए प्रयुक्त ०–९० का मान है, जिसका आनुपातिक भाग अगले श्लोक में पूरा होता है]।",
+          "status": "translated",
           "tags": [
             "graha:sun",
             "rel:conjunction"
-          ],
-          "english_draft": "The divisional segment portions (Khandakas) are 45, 50, and 12 respectively; add these to the tropical longitudes of planets.",
-          "hindi_draft": "खण्डक अंश क्रमशः ४५, ५० और १२ हैं; इन्हें ग्रहों के सायन स्पष्ट योग में क्रमानुसार जोड़ें।"
+          ]
         },
         {
           "number": 16,
@@ -44032,34 +44024,30 @@
         {
           "number": 4,
           "text": "स्वोच्चभे ते त्रिगुणिताः स्वत्रिकोणे द्विसंगुणाः ।\nस्वमे त्रिघ्ना द्विसंभक्ता अधिमित्रगृहे तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In its exaltation sign the rays are tripled; in its own trikoṇa, doubled; in its own sign, multiplied by three and divided by two; likewise in a great friend's sign,",
+          "hindi": "उच्च राशि में रश्मियाँ तिगुनी होती हैं; अपने त्रिकोण में दुगुनी; अपनी राशि में तीन से गुणा करके दो से भाग; उसी प्रकार अधिमित्र की राशि में,",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:house_group"
-          ],
-          "english_draft": "Verse 4 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 4 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 5,
           "text": "वेदघ्ना रामसंभक्ता मित्रमे षड्गुणास्ततः ।\nपञ्चभक्तास्तथा शत्रुगृहे चेद् दलिताः कराः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "multiplied by four and divided by three; in a friend's sign, multiplied by six and divided by five; and in an enemy's sign the rays are halved;",
+          "hindi": "चार से गुणा करके तीन से भाग; मित्र की राशि में छह से गुणा करके पाँच से भाग; और शत्रु की राशि में रश्मियाँ आधी होती हैं;",
+          "status": "translated",
           "tags": [
             "rel:dignity"
-          ],
-          "english_draft": "Verse 5 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 5 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 6,
           "text": "अधिशत्रुगृहे द्विघ्नाः पञ्चभक्ताः समे समाः ।\nशनिशुक्रौ विना ताराग्रहा अस्ते गता यदि",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in a great enemy's sign, multiplied by two and divided by five; in a neutral's sign, unchanged. If the star-planets other than Saturn and Venus are combust,",
+          "hindi": "अधिशत्रु की राशि में दो से गुणा करके पाँच से भाग; सम की राशि में यथावत्। शनि और शुक्र को छोड़कर तारा-ग्रह यदि अस्त हों,",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "graha:venus",
@@ -44067,78 +44055,64 @@
             "rel:modality",
             "rel:position",
             "rel:state"
-          ],
-          "english_draft": "Verse 6 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 7,
           "text": "विरश्मयो भवन्त्येवं ज्ञेयाः स्पष्टकरा द्विज ।\nरश्मियोगवशादेवं फलं वाच्यं विचक्षणैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "they become rayless. In this way the true rays are to be known, O twice-born, and the wise should state results according to the total of the rays.",
+          "hindi": "तो वे रश्मिहीन हो जाते हैं। हे द्विज, इस प्रकार स्पष्ट रश्मियाँ जाननी चाहिए, और विद्वान रश्मियों के योग के अनुसार फल कहें।",
+          "status": "translated",
           "tags": [
             "entity:yoga"
-          ],
-          "english_draft": "Verse 7 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
           "text": "एकादि पञ्चपर्यन्तं रश्मिसंख्या भवेद्यदि ।\nदरिद्रा दुःखसंतप्ता अपि जाताः कुलोत्तमे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the number of rays is from one to five, people are poor and tormented by sorrow, even if born in the best of families.",
+          "hindi": "यदि रश्मियों की संख्या एक से पाँच तक हो, तो उत्तम कुल में जन्मे हुए भी लोग दरिद्र और दुःख से सन्तप्त होते हैं।",
+          "status": "translated",
           "tags": [
             "rel:modality"
-          ],
-          "english_draft": "Verse 8 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 9,
           "text": "परतो दशकं यावत् निर्धना भारवासकाः ।\nस्त्रीपुत्रगृहहीनाश्च जायन्ते मनुजा भुवि",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 9 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "Above that, up to ten, people are born penniless, carriers of burdens [reading bhāravāhakāḥ for bhāravāsakāḥ], and without wife, sons or home.",
+          "hindi": "उससे ऊपर दस तक हो तो मनुष्य निर्धन, बोझ ढोने वाले ['भारवासकाः' को 'भारवाहकाः' पढ़ा गया], और स्त्री, पुत्र व घर से रहित पैदा होते हैं।",
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "अकादशस्वल्पपुत्राः स्वल्पवित्ताश्च मानवाः ।\nद्वादशस्वल्पवित्ताश्च धूर्ता मूर्खाश्च निर्बलाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With eleven, men have few sons and little wealth; with twelve, little wealth, and they are cunning, foolish and weak.",
+          "hindi": "ग्यारह होने पर मनुष्य अल्प पुत्र और अल्प धन वाले होते हैं; बारह होने पर अल्प धन वाले, धूर्त, मूर्ख और निर्बल होते हैं।",
+          "status": "translated",
           "tags": [
             "rel:state"
-          ],
-          "english_draft": "Verse 10 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
           "text": "चौर्यकर्मरता नित्यं चेत् त्रयोदश रश्मयः ।\nचतुर्दशसु धर्मात्मा कुटुम्बानां च पोषकाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If there are thirteen rays, they are always given to theft; with fourteen, they are righteous and support their families,",
+          "hindi": "यदि तेरह रश्मियाँ हों तो वे सदा चोरी में लगे रहते हैं; चौदह होने पर धर्मात्मा और कुटुम्ब के पोषक होते हैं,",
+          "status": "translated",
           "tags": [
             "rel:modality"
-          ],
-          "english_draft": "Verse 11 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "कुलोचितक्रियासक्तो धनविद्यासमन्वितः ।\nरश्मिभिः पञ्चदशभिः सर्वविद्यागुणान्वितः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "devoted to the duties proper to their family, and endowed with wealth and learning. With fifteen rays, one is endowed with every kind of learning and virtue.",
+          "hindi": "कुल के अनुरूप कर्मों में लगे और धन व विद्या से युक्त होते हैं। पन्द्रह रश्मियों से मनुष्य सब विद्याओं और गुणों से युक्त होता है।",
+          "status": "translated",
           "tags": [
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 12 of chapter 73: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 73 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
@@ -44380,55 +44354,47 @@
         {
           "number": 10,
           "text": "यो भावः स्वामिसौम्याभ्यां युक्तो दृष्टोऽयमेधते ।\nपापैर्दृष्टो युतो यो वा तस्य हानिः प्रजायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A house joined with or aspected by its own lord and by benefics prospers; one aspected by or joined with malefics suffers loss.",
+          "hindi": "जो भाव अपने स्वामी और शुभ ग्रहों से युक्त या दृष्ट हो, वह बढ़ता है; जो पाप ग्रहों से दृष्ट या युक्त हो, उसकी हानि होती है।",
+          "status": "translated",
           "tags": [
             "rel:aspect",
             "rel:conjunction",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 10 of chapter 74: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 74 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
           "text": "ज्ञेयं सग्रहभावस्य ग्रहयोगसमं फलम् ।\nअग्रहस्य तु भावस्य ग्रहदृष्टिसमं फलम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "For a house containing planets, the result accords with the planets joined to it; for a house with no planet, the result accords with the planets aspecting it.",
+          "hindi": "ग्रह-युक्त भाव का फल उसमें युक्त ग्रहों के अनुसार जानें; ग्रह-रहित भाव का फल उस पर दृष्टि डालने वाले ग्रहों के अनुसार।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:aspect"
-          ],
-          "english_draft": "Verse 11 of chapter 74: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 74 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "शुभैरेव शुभं पापैर्शुभं मिश्रखेचरैः ।\nशुभाधिके शुभं ज्ञेयमशुभं त्वशुभाधिके",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "By benefics alone the result is good, and by malefics alone it is bad [reading pāpair aśubhaṃ]. With mixed planets, it is good where benefics predominate and bad where malefics predominate.",
+          "hindi": "केवल शुभ ग्रहों से फल शुभ और केवल पाप ग्रहों से अशुभ होता है [पाठ 'पापैरशुभं']। मिश्र ग्रहों में, शुभ अधिक हों तो शुभ, और अशुभ अधिक हों तो अशुभ जानें।",
+          "status": "translated",
           "tags": [
             "rel:polarity"
-          ],
-          "english_draft": "Verse 12 of chapter 74: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 74 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
           "text": "एवं भावेषु खेटानां योगं दृष्टिं विलोक्य च ।\nतारतम्येन वाच्यानि फलानि द्विजसत्तम",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Thus, having examined the conjunction and aspect of the planets in the houses, the results should be stated by their relative strength, O best of the twice-born.",
+          "hindi": "हे द्विजश्रेष्ठ, इस प्रकार भावों में ग्रहों के योग और दृष्टि को देखकर, उनके तारतम्य के अनुसार फल कहने चाहिए।",
+          "status": "translated",
           "tags": [
             "entity:bhava",
             "entity:yoga",
             "rel:aspect"
-          ],
-          "english_draft": "Verse 13 of chapter 74: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 74 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 14,
@@ -44675,15 +44641,13 @@
         {
           "number": 5,
           "text": "वीणावज्रधनुःपाशवृषचक्राङ्कितः करे ।\nमन्त्राभिचारकुशली दैर्ध्ये चैव शतांगुलः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "His hands are marked with a lute, thunderbolt, bow, noose, bull and wheel; he is skilled in mantras and in abhicāra, and is a hundred aṅgulas tall.",
+          "hindi": "उसके हाथ वीणा, वज्र, धनुष, पाश, वृष और चक्र के चिह्नों से अंकित होते हैं; वह मन्त्र और अभिचार में कुशल, और ऊँचाई में सौ अंगुल होता है।",
+          "status": "translated",
           "tags": [
             "rashi:dhanus",
             "rashi:vrishabha"
-          ],
-          "english_draft": "Verse 5 of chapter 75: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 75 के श्लोक 5 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 6,
@@ -44700,11 +44664,9 @@
         {
           "number": 7,
           "text": "भुनक्ति विन्ध्यसह्याद्रिप्रदेशं सप्ततिं समाः ।\nशत्रेण वह्निना वापि स प्रयाति सुरालयम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 7 of chapter 75: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 75 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "He rules the region of the Vindhya and Sahya mountains for seventy years, and goes to the abode of the gods by weapon or by fire.",
+          "hindi": "वह विन्ध्य और सह्याद्रि पर्वतों के प्रदेश पर सत्तर वर्ष शासन करता है, और शस्त्र या अग्नि से देवलोक को जाता है।",
+          "status": "translated"
         },
         {
           "number": 8,
@@ -44722,14 +44684,12 @@
         {
           "number": 9,
           "text": "सात्त्विकः शोभनांघ्रश्च शोभनश्मश्रुसंयुतः ।\nकामी शङ्खगदाचक्रशरकुञ्जरचिह्नकैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "He is sāttvika, with fine feet and a fine beard, and amorous; [his hands and feet are] marked with the conch, mace, discus, arrow and elephant,",
+          "hindi": "वह सात्त्विक, सुन्दर पैरों और सुन्दर दाढ़ी वाला, और कामी होता है; [उसके हाथ-पैर] शंख, गदा, चक्र, बाण और हाथी के चिह्नों से अंकित होते हैं,",
+          "status": "translated",
           "tags": [
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 9 of chapter 75: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 75 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
@@ -44747,14 +44707,12 @@
         {
           "number": 11,
           "text": "स्वतन्त्रः सर्वकार्येषु स्वजनप्रीणनक्षमः ।\nऐश्वर्यं भुज्यते चास्य नित्यं मित्रजनैः परैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "He is independent in all his undertakings and able to please his own people; his wealth is always enjoyed by his friends and by others.",
+          "hindi": "वह सब कार्यों में स्वतन्त्र और अपने जनों को प्रसन्न करने में समर्थ होता है; उसके ऐश्वर्य का भोग सदा उसके मित्र और अन्य लोग करते हैं।",
+          "status": "translated",
           "tags": [
             "rel:dignity"
-          ],
-          "english_draft": "Verse 11 of chapter 75: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 75 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
@@ -45385,9 +45343,9 @@
         {
           "number": 6,
           "text": "ऋतुर्लग्नदृकाणर्क्षस्वामिभिः शशिरादयः ।\nशनिशुक्रकुजेन्दुज्ञजीवैर्ग्रीष्मस्तु भानुना",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The season is known from the lord of the sign of the lagna's drekkāṇa: śiśira and the following seasons by Saturn, Venus, Mars, the Moon, Mercury and Jupiter in order; and grīṣma also by the Sun.",
+          "hindi": "ऋतु लग्न के द्रेष्काण की राशि के स्वामी से जानी जाती है: शिशिर आदि ऋतुएँ क्रम से शनि, शुक्र, मंगल, चन्द्र, बुध और गुरु से; और ग्रीष्म सूर्य से भी।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "graha:jupiter",
@@ -45396,49 +45354,41 @@
             "graha:saturn",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 6 of chapter 78: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 78 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 7,
           "text": "अयनर्तुविरोधे तु परिवर्त्याः परस्परम् ।\nबुधचन्द्र सुराचार्याः कुजशुक्रशनैश्चरैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the season and the ayana conflict, they are to be exchanged with one another: Mercury, the Moon and Jupiter with Mars, Venus and Saturn respectively.",
+          "hindi": "यदि ऋतु और अयन में विरोध हो, तो उन्हें परस्पर बदल लें: बुध, चन्द्र और गुरु को क्रमशः मंगल, शुक्र और शनि से।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:mercury",
             "graha:moon",
             "graha:venus"
-          ],
-          "english_draft": "Verse 7 of chapter 78: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 78 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
           "text": "मासो दृकाणपूर्वार्धेर्पूर्वोऽन्यस्तु परार्धके ।\nअनुपातात् तिथिर्ज्ञेया भास्करांशसमा द्विज",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The month is the earlier [of the season's two months] if in the first half of the drekkāṇa, and the other if in the latter half. The tithi is known by proportion, equal to the Sun's degrees, O twice-born.",
+          "hindi": "द्रेष्काण के पूर्वार्ध में हो तो [ऋतु का] पहला मास, उत्तरार्ध में हो तो दूसरा मास होता है। हे द्विज, तिथि अनुपात से, सूर्य के अंशों के बराबर जाननी चाहिए।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "graha:sun"
-          ],
-          "english_draft": "Verse 8 of chapter 78: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 78 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 9,
           "text": "तद्वशादिष्टकालो यो जन्मकालसमो हि सः ।\nतत्र ग्रहांश्च भावांश्च ज्ञात्वा तस्य फलं वदेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The desired time obtained in this way equals the time of birth. Having found the planets and houses for it, one should state his results.",
+          "hindi": "इस प्रकार प्राप्त इष्टकाल जन्मकाल के समान होता है। उसके ग्रहों और भावों को जानकर उसका फल कहना चाहिए।",
+          "status": "translated",
           "tags": [
             "entity:bhava"
-          ],
-          "english_draft": "Verse 9 of chapter 78: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 78 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
@@ -45454,24 +45404,20 @@
         {
           "number": 11,
           "text": "संवस्तरस्य सन्देहे प्रश्नकर्तुर्द्विजोत्तम ।\nवयोऽनुमानतस्तत्र द्वादश द्वादश क्षिपेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 11 of chapter 78: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 78 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "If there is doubt about the year, O best of the twice-born, add twelve and twelve years according to the questioner's estimated age.",
+          "hindi": "हे द्विजश्रेष्ठ, यदि वर्ष के विषय में सन्देह हो, तो प्रश्नकर्ता की अनुमानित आयु के अनुसार बारह-बारह वर्ष जोड़ें।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "तत्रापि संशये जाते गुरुर्लग्नत्रिकोणगः ।\nकल्प्यो वयोऽनुमानेन वत्सरः पूर्ववत् ततः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If doubt remains even then, Jupiter is to be assumed in a trine of the lagna, and the year fixed by the estimated age, as before.",
+          "hindi": "यदि तब भी सन्देह रहे, तो गुरु को लग्न के त्रिकोण में मानकर, पहले की तरह अनुमानित आयु से वर्ष निश्चित करें।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:house_group"
-          ],
-          "english_draft": "Verse 12 of chapter 78: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 78 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
