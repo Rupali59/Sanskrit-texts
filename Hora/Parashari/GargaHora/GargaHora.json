@@ -12,12 +12,19 @@
     "shloka_number_format": "N",
     "citation_prefix": "garga_hora",
     "expected_chapters": 3,
-    "expected_verses": 378,
+    "expected_verses": 377,
     "count_authority": "uncitable",
     "count_authority_reason": "Chapter 1 (84) is verse-numbered by the print edition (K.K. Pathak, 1999). CHAPTERS 2-3 CARRY NO PRINTED VERSE NUMBERS -- confirmed by READING page 40 of the scan directly, and five other ways (our -l san OCR, Devanagari numerals, an independent OCR of the same edition, the -l hin pass, and both English translation witnesses). Segmentation follows THE EDITION'S OWN PRINTED STRUCTURE, visible on the page: each Sanskrit sloka (2 padas, closing in a double danda) is followed by a Hindi gloss and then an English gloss, repeating. A verse therefore CLOSES where its Hindi gloss begins. This is structural, not punctuation-based -- G32 (the double danda has three spellings) and OCR daNDa noise both made a danda split unreliable. CORROBORATED BY THE CHAPTERS' OWN SUBJECT MATTER, independent of OCR: ch2 enumerates the lord of each house in each house -- all 12 lords are named in the glosses -- so 12x12=144 verses are expected and 146 were extracted; ch3 enumerates the 9 grahas (all 9 named) through 12 houses, so 108 are expected and 115 were extracted, the extras being the general-principles opener. NUMBERS REMAIN POSITIONAL AND EDITORIAL -- the edition prints none, so never cite them.",
     "canonical_authority": "see sanskrit-texts/docs/SOURCES.md \"Garga Horā Śāstra\"",
     "known_gaps": [],
-    "known_gaps_reason": "Empty. CHAPTER 1: all 84 verse numbers present, confirmed by positional resolution against the source's own (glue-corrected) markers; verse 64's single-pada form is the edition's structure, not an absence. CHAPTERS 2-3: the edition prints no verse numbers, so there is no numbering against which a gap could be defined -- absence of gaps here is a property of the numbering, not evidence of completeness."
+    "known_gaps_reason": "Empty. CHAPTER 1: all 84 verse numbers present, confirmed by positional resolution against the source's own (glue-corrected) markers; verse 64's single-pada form is the edition's structure, not an absence. CHAPTERS 2-3: the edition prints no verse numbers, so there is no numbering against which a gap could be defined -- absence of gaps here is a property of the numbering, not evidence of completeness.",
+    "removed_units": [
+      {
+        "unit": "3.130",
+        "removed": "2026-10-02",
+        "reason": "Not a verse: GargaHora.san.txt:4926 is the edition's Hindi commentary on 3.129 (lines 4925-4926), captured as a unit by the 2026-09-24 rebuild. Positional numbering is not shifted -- 3.131 onward keep their labels."
+      }
+    ]
   },
   "chapters": [
     {
@@ -1649,247 +1656,317 @@
         {
           "number": 1,
           "text": "नीचस्थो रिपुगेहस्थो ग्रहो भावविनाश कृत्‌ | उदासीन गृहे मध्यो मित्रस्वर्ष त्रिकोणगः स्वोच्चगश्च ग्रहोऽवश्य भाववृद्धिकरः स्मृतः। -गर्गः|",
-          "english": "Placement of Sun (Surya) in the 1st house (Lagna): According to Garga Hora, when Sun (Surya) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.1]",
-          "hindi": "प्रथम (लग्न) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 1st house (Lagna): According to Garga Hora, when Sun (Surya) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.1]",
+          "hindi_draft": "प्रथम (लग्न) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 2,
           "text": "प्रचंडरूपो विकलेक्षणश्च भवेन्निशान्धः किलबुदबुदाक्षः | कंठे ग्रहः स्यान्मदरक्तनेत्रो खौ तनुस्थे रूधिरेक्षणः स्यात्‌",
-          "english": "Placement of Sun (Surya) in the 2nd house (Dhana): According to Garga Hora, when Sun (Surya) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.2]",
-          "hindi": "द्वितीय (धन) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 2nd house (Dhana): According to Garga Hora, when Sun (Surya) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.2]",
+          "hindi_draft": "द्वितीय (धन) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 3,
           "text": "धनभावगते सूर्ये धननाशमहर्निशम्‌ | करोति निर्धनंचाथ तामप्रवित्त ददाति च||",
-          "english": "Placement of Sun (Surya) in the 3rd house (Sahaja): According to Garga Hora, when Sun (Surya) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.3]",
-          "hindi": "तृतीय (सहज) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 3rd house (Sahaja): According to Garga Hora, when Sun (Surya) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.3]",
+          "hindi_draft": "तृतीय (सहज) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 4,
           "text": "सहजस्थानगे हेलिर्नाशयेत्सहजं धुवम्‌ | हन्त्यरिष्टं च करुते धनभार्यन्वितं नरम्‌||",
-          "english": "Placement of Sun (Surya) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Sun (Surya) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.4]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Sun (Surya) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.4]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 5,
           "text": "बन्धुं निहिन्त सविता बन्धुस्थानगतो नृणाम्‌| सतत कारयेत्तापं छत्रवाहनमेव च|| जनयेद्‌ बहुसौख्यानि संग्रामेऽप्थपलायनम्‌। कृशं च बहुभार्यं च मानिनं कुरुते रविः।।",
-          "english": "Placement of Sun (Surya) in the 5th house (Suta/Putra): According to Garga Hora, when Sun (Surya) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.5]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 5th house (Suta/Putra): According to Garga Hora, when Sun (Surya) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.5]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 6,
           "text": "पंचमं स्वगृहं चेत्स्याद्रविः प्रथमपुत्रहा | न हन्ति चरमान्‌ पुत्रानन्यरक्षं गर्भघातकः| |",
-          "english": "Placement of Sun (Surya) in the 6th house (Ripu/Shatru): According to Garga Hora, when Sun (Surya) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.6]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 6th house (Ripu/Shatru): According to Garga Hora, when Sun (Surya) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.6]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 7,
           "text": "| रिपुं हन्ति सहस्त्रांशुः शत्रो चोपचयो यदि । शत्रुभिर्युतदृष्टो वा बहून शत्रुन्‌ प्रयच्छति ||",
-          "english": "Placement of Sun (Surya) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Sun (Surya) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.7]",
-          "hindi": "सप्तम (कलत्र) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Sun (Surya) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.7]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 8,
           "text": "प्रथमोढां वधूं कुर्याद दुर्भगां सप्तमो रविः। पापरक्ष नीचगो हन्यात्पापदृष्टयुतोऽपि वा ||",
-          "english": "Placement of Sun (Surya) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Sun (Surya) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.8]",
-          "hindi": "अष्टम (रंध्र) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Sun (Surya) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.8]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 9,
           "text": "तुङ्गरक्ष ह्यष्ट मे सूर्ये सुखं मृत्युं प्रयच्छति | विक्रमस्थनं पापेन क्रूरेण मृत्युगो रविः। युक्तो दृष्टः स्थूलभूरि यमदूतो विनाशयेत्‌ | ।",
-          "english": "Placement of Sun (Surya) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Sun (Surya) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.9]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Sun (Surya) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.9]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 10,
           "text": "हन्ति पुण्यञ्‌च भाग्यच सूर्यः नृणाम्‌। तुंगस्वरक्षगृहं यातः पुष्कलं धर्म मादिशेत्‌ ||",
-          "english": "Placement of Sun (Surya) in the 10th house (Karma/Rajya): According to Garga Hora, when Sun (Surya) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.10]",
-          "hindi": "दशम (कर्म/राज्य) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 10th house (Karma/Rajya): According to Garga Hora, when Sun (Surya) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.10]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 11,
           "text": "क्षीण कर्माध्यानयुतः तेजस्वी रणरोगवान्‌। भुड्क्ते पितृधनं नित्यं भास्करे दशमस्थिते |",
-          "english": "Placement of Sun (Surya) in the 11th house (Labha): According to Garga Hora, when Sun (Surya) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.11]",
-          "hindi": "एकादश (लाभ) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 11th house (Labha): According to Garga Hora, when Sun (Surya) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.11]",
+          "hindi_draft": "एकादश (लाभ) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 12,
           "text": "धनधान्यहिरण्याठढयः रूपवांश्च कलान्वितः | लाभगेऽहस्पतौ ज्ञानी विनीतो गीतकोविदः।| ग्यारहवे भाव मे |",
-          "english": "Placement of Sun (Surya) in the 12th house (Vyaya): According to Garga Hora, when Sun (Surya) occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.12]",
-          "hindi": "द्वादश (व्यय) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Sun (Surya) in the 12th house (Vyaya): According to Garga Hora, when Sun (Surya) occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.12]",
+          "hindi_draft": "द्वादश (व्यय) भाव में सूर्य का फल: गर्ग होरा के अनुसार, जब सूर्य द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 13,
           "text": "व्ययस्थानगते सूर्यं व्ययशीलो भवेन्नरः। दूरस्त्री व्यसनाढ्यश्च क्रूरते व्ययमदृभुतम्‌ | | पुनश्च भानौ क्षीणे चेन्दौ व्ययभवने सूर्य तिहरति वित्तम्‌ ।",
-          "english": "Placement of Moon (Chandra) in the 1st house (Lagna): According to Garga Hora, when Moon (Chandra) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.13]",
-          "hindi": "प्रथम (लग्न) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 1st house (Lagna): According to Garga Hora, when Moon (Chandra) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.13]",
+          "hindi_draft": "प्रथम (लग्न) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 14,
           "text": "पर्णे शीतकरे लग्ने सुरूपो धनवान्‌ मृदुः असंपूर्ण तु मलिनो मंदवीर्यो भवेत्सदा । | गोमेष कर्कटे लग्ने चन्द्रस्थे रूपवान्‌ धनी | जडता व्याधिदारिद्रयं शेषरक्ष करुते शशी",
-          "english": "Placement of Moon (Chandra) in the 2nd house (Dhana): According to Garga Hora, when Moon (Chandra) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.14]",
-          "hindi": "द्वितीय (धन) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 2nd house (Dhana): According to Garga Hora, when Moon (Chandra) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.14]",
+          "hindi_draft": "द्वितीय (धन) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 15,
           "text": "एवासः कासो हि जातस्य तनौ वातभ्रमो भवेत्‌| अश्वादिपञ्ुघातश्च हदये राजचौरतः",
-          "english": "Placement of Moon (Chandra) in the 3rd house (Sahaja): According to Garga Hora, when Moon (Chandra) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.15]",
-          "hindi": "तृतीय (सहज) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 3rd house (Sahaja): According to Garga Hora, when Moon (Chandra) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.15]",
+          "hindi_draft": "तृतीय (सहज) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 16,
           "text": "वेद्यः कांचनयुक्तश्च मणिरत्नघनो भवेत्‌| कर्पूरचन्दनामोदी धनी कूमुदबान्धवे ||",
-          "english": "Placement of Moon (Chandra) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Moon (Chandra) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.16]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Moon (Chandra) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.16]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 17,
           "text": "स्वसारं हन्ति शीतांगुः पापः पापगृहे स्थितः। पूर्णः शुमरक्षगो दत्ते भगिनीं रूपसंयुताम्‌ | ।",
-          "english": "Placement of Moon (Chandra) in the 5th house (Suta/Putra): According to Garga Hora, when Moon (Chandra) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.17]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 5th house (Suta/Putra): According to Garga Hora, when Moon (Chandra) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.17]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 18,
           "text": "भार्यावानधवभृत्यौ च हर्म्यं वाहनसम्पदः। बन्धौ कुमुदबन्धौ च भवन्ति सततं नृणाम्‌ ||",
-          "english": "Placement of Moon (Chandra) in the 6th house (Ripu/Shatru): According to Garga Hora, when Moon (Chandra) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.18]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 6th house (Ripu/Shatru): According to Garga Hora, when Moon (Chandra) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.18]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 19,
           "text": "पंचमे रजनीनाथः कन्यापुत्रप्रपौत्रदः। क्षीणः पापसुतो वापि जनयेत्‌ चपलां सुताम्‌ |",
-          "english": "Placement of Moon (Chandra) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Moon (Chandra) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.19]",
-          "hindi": "सप्तम (कलत्र) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Moon (Chandra) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.19]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 20,
           "text": "निधनं कुरुते चन्द्रः पापरक्षं पापसंयुते पूर्णः षष्ठोऽरिघाती स्यादगुरुगेहगतो यदा",
-          "english": "Placement of Moon (Chandra) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Moon (Chandra) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.20]",
-          "hindi": "अष्टम (रंध्र) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Moon (Chandra) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.20]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 21,
           "text": "लग्नात्‌ षष्ठर्थिते चन्द्रे मृदुकायःस्मरानलः। अनेकारिर्भवेत्‌ तीक्ष्णारिष्टः रयात्मृत्युरेव च | पुनश्च षष्ठे चन्द्रस्त्वेरिष्ट दः",
-          "english": "Placement of Moon (Chandra) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Moon (Chandra) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.21]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Moon (Chandra) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.21]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 22,
           "text": "कृशाडगीं विकलां कूर्यात्‌ क्षीणश्चेद्विधुरस्तगः। पूर्णः शुभर्युतो दृष्टः कान्तः कान्ताशतप्रदः|| सप्तमस्था क्षीण चन्द्रमा दुबली पतली तथा अशान्त चित्तवाली पत्नी",
-          "english": "Placement of Moon (Chandra) in the 10th house (Karma/Rajya): According to Garga Hora, when Moon (Chandra) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.22]",
-          "hindi": "दशम (कर्म/राज्य) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 10th house (Karma/Rajya): According to Garga Hora, when Moon (Chandra) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.22]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 23,
           "text": "चन्द्रोऽष्टमे मृत्युकरो नरायणं क्षीणो मृतिर्यच्छति वाल्प एव । काले त्रिदोषज्वर दाहदाता नयत्यघः क्षीणतनुर्धारित्याः | |",
-          "english": "Placement of Moon (Chandra) in the 11th house (Labha): According to Garga Hora, when Moon (Chandra) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.23]",
-          "hindi": "एकादश (लाभ) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 11th house (Labha): According to Garga Hora, when Moon (Chandra) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.23]",
+          "hindi_draft": "एकादश (लाभ) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 24,
           "text": "मध्यभागे भवेत्‌ धर्मे पित्रृयज्ञपरायणः| धर्म पूर्णनिशानाथः क्षीणः सर्वं विनाशयेत्‌ | |",
-          "english": "Placement of Moon (Chandra) in the 12th house (Vyaya): According to Garga Hora, when Moon (Chandra) occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.24]",
-          "hindi": "द्वादश (व्यय) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Moon (Chandra) in the 12th house (Vyaya): According to Garga Hora, when Moon (Chandra) occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.24]",
+          "hindi_draft": "द्वादश (व्यय) भाव में चंद्रमा का फल: गर्ग होरा के अनुसार, जब चंद्रमा द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 25,
           "text": "स्वगृहस्य सदा भुङ्क्ते सौख्यं सौमाग्यसंयुतम्‌। मातृद्रव्ययुत्तं शान्तं कुरुते दशमे विदुः ||",
-          "english": "Placement of Mars (Mangala) in the 1st house (Lagna): According to Garga Hora, when Mars (Mangala) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.25]",
-          "hindi": "प्रथम (लग्न) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 1st house (Lagna): According to Garga Hora, when Mars (Mangala) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.25]",
+          "hindi_draft": "प्रथम (लग्न) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 26,
           "text": "विख्यातो गुणवान्‌ प्राज्ञो भोगलक्ष्मीसमन्वितः| लाभस्थानगने चन्द्रे गौरो मानववत्सलः।|",
-          "english": "Placement of Mars (Mangala) in the 2nd house (Dhana): According to Garga Hora, when Mars (Mangala) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.26]",
-          "hindi": "द्वितीय (धन) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 2nd house (Dhana): According to Garga Hora, when Mars (Mangala) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.26]",
+          "hindi_draft": "द्वितीय (धन) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 27,
           "text": "व्यये शशिनि कार्पण्यम विश्वासः पदे पदे । कृष्णपक्षे विशेषेण कार्यण्यमपि वर्धते ||",
-          "english": "Placement of Mars (Mangala) in the 3rd house (Sahaja): According to Garga Hora, when Mars (Mangala) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.27]",
-          "hindi": "तृतीय (सहज) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 3rd house (Sahaja): According to Garga Hora, when Mars (Mangala) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.27]",
+          "hindi_draft": "तृतीय (सहज) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 28,
           "text": "गुदरोगी श्लथं नाभौ कडृकुष्ठादिनांकितः। मध्येदेशे भवेत्‌ व्यंगः सवाच्यो लग्नगे कुजे | तनुस्थानस्थिते भोमेक्रूरदृष्टिभिः वा विलोकिते । लोहाश्मादिकृता पीडा क्रोधोऽत्यन्तस्तनो भवेत्‌",
-          "english": "Placement of Mars (Mangala) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Mars (Mangala) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.28]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Mars (Mangala) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.28]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 29,
           "text": "रक््तपीडा शिशुत्वे च वातरोगं च जायते| मस्तके कटठमध्ये च गृह्ये वापि व्रण भवेत्‌!",
-          "english": "Placement of Mars (Mangala) in the 5th house (Suta/Putra): According to Garga Hora, when Mars (Mangala) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.29]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 5th house (Suta/Putra): According to Garga Hora, when Mars (Mangala) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.29]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 30,
           "text": "द । कृषिको विक्रयी भोगी प्रवास्यरुणवित्तवान्‌ | धातुवादी मनेरनशिो द्यूतकारः कुजे धने।| धने भौमे धनहानिः प्रजायते| पीडा देहे च नेत्रे च भार्याबन्धुजनैः कलिः।। |",
-          "english": "Placement of Mars (Mangala) in the 6th house (Ripu/Shatru): According to Garga Hora, when Mars (Mangala) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.30]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 6th house (Ripu/Shatru): According to Garga Hora, when Mars (Mangala) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.30]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 31,
           "text": "भगिन्यौ सुभगे दै चक्रूरेण निधनं गते। कमृत्युना भ्रातरौ दौ मृतौ शस्त्रादिथिः तथा||",
-          "english": "Placement of Mars (Mangala) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Mars (Mangala) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.31]",
-          "hindi": "सप्तम (कलत्र) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Mars (Mangala) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.31]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 32,
           "text": "कुजे बंधो भूम्याजीवो नरः सदा। प्रवासी पंकिले देशे भवने वासकर्दमे|",
-          "english": "Placement of Mars (Mangala) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Mars (Mangala) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.32]",
-          "hindi": "अष्टम (रंध्र) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Mars (Mangala) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.32]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 33,
           "text": "रिपुदृष्टो रिपुक्षत्रे नीचो वा पापसंयुतः। भूमिजः पुत्रशोकार्तिं करोति नियतं नृणामं ||",
-          "english": "Placement of Mars (Mangala) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Mars (Mangala) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.33]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Mars (Mangala) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.33]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 34,
           "text": "बहु दाराग्निपुंस्कः स्यात्‌ सुकार्यो बलवान कुजे ।",
-          "english": "Placement of Mars (Mangala) in the 10th house (Karma/Rajya): According to Garga Hora, when Mars (Mangala) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.34]",
-          "hindi": "दशम (कर्म/राज्य) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 10th house (Karma/Rajya): According to Garga Hora, when Mars (Mangala) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.34]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 35,
           "text": "पुनश्च षष्ठो नीचारिभिवने सग्रामं कारयेद्‌ बुधः| वर्धयन्ति अन्यथा शत्रून पुंसा धरणिनन्दनः।।",
-          "english": "Placement of Mars (Mangala) in the 11th house (Labha): According to Garga Hora, when Mars (Mangala) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.35]",
-          "hindi": "एकादश (लाभ) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mars (Mangala) in the 11th house (Labha): According to Garga Hora, when Mars (Mangala) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.35]",
+          "hindi_draft": "एकादश (लाभ) भाव में मंगल का फल: गर्ग होरा के अनुसार, जब मंगल एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 36,
@@ -1936,79 +2013,101 @@
         {
           "number": 42,
           "text": "सुमूर्तिः निपुणः शान्तो मेधावी च प्रियंवदः । विद्वान्‌ दयालुरत्यर्थं विना क्रूरं बुधे तनौ ||",
-          "english": "Placement of Mercury (Budha) in the 1st house (Lagna): According to Garga Hora, when Mercury (Budha) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.42]",
-          "hindi": "प्रथम (लग्न) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 1st house (Lagna): According to Garga Hora, when Mercury (Budha) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.42]",
+          "hindi_draft": "प्रथम (लग्न) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 43,
           "text": "लग्दोषं कुरुते नित्यं सोममुत्रः कुटुम्बगः। धमभावे चन्द्रपुत्रे धनधान्यादिपूरितः।|",
-          "english": "Placement of Mercury (Budha) in the 2nd house (Dhana): According to Garga Hora, when Mercury (Budha) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.43]",
-          "hindi": "द्वितीय (धन) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 2nd house (Dhana): According to Garga Hora, when Mercury (Budha) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.43]",
+          "hindi_draft": "द्वितीय (धन) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 44,
           "text": "बुधे च सहजस्थाने दृष्टिभिःवाविलोकिते। भातूनां भगिनी नां च सुखं तस्य महद्‌ वदेत्‌| भ्रातरः पंच विद्यन्ते शत्रुदृष्ट्‌ या मूर्तिं वदेत्‌| चतस्त्रः पंच वा ज्ञेयाः स्वसारः शुभलक्षणाः",
-          "english": "Placement of Mercury (Budha) in the 3rd house (Sahaja): According to Garga Hora, when Mercury (Budha) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.44]",
-          "hindi": "तृतीय (सहज) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 3rd house (Sahaja): According to Garga Hora, when Mercury (Budha) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.44]",
+          "hindi_draft": "तृतीय (सहज) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 45,
           "text": "कुजशनिजा दृष्टे तासां वन्ध्यत्वमिष्यते | बुधो वा तत्र संस्थितः स्वसृबाहुल्यतां तस्य कुर्वन्ति न हि संशयः",
-          "english": "Placement of Mercury (Budha) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Mercury (Budha) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.45]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Mercury (Budha) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.45]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 46,
           "text": "बहुमित्रो बहुधनो बन्धौ पापं विना बुधः| नानारसविलासी च सपापे त्वन्यथा फलम्‌|| चित्रं बुधे च विज्ञेयं बुधे स्वर्णं गृहे तस्य। बुधश्च सर्वकार्येषु मित्रो मिश्रफलप्रदः ||",
-          "english": "Placement of Mercury (Budha) in the 5th house (Suta/Putra): According to Garga Hora, when Mercury (Budha) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.46]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 5th house (Suta/Putra): According to Garga Hora, when Mercury (Budha) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.46]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 47,
           "text": "पंचमस्थचन्द्रपुत्रः संतानं प्रकरोति हि। अस्तंगतः शत्रुदृष्टश्चोत्पन्नस्य विनाशकः || मातुला नश्यंति सौम्ये चाल्पसुतत्वं | |",
-          "english": "Placement of Mercury (Budha) in the 6th house (Ripu/Shatru): According to Garga Hora, when Mercury (Budha) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.47]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 6th house (Ripu/Shatru): According to Garga Hora, when Mercury (Budha) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.47]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 48,
           "text": "नरपालस्य शत्रुः । नीचारिभवने सन्यासम्‌ | रिपून विजयते सौम्यः। नीचश्चास्तव क्रश्च षष्ठरक्ष रिपुरिष्टकृत्‌ | कन्यापत्यो अथ मातुलः।",
-          "english": "Placement of Mercury (Budha) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Mercury (Budha) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.48]",
-          "hindi": "सप्तम (कलत्र) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Mercury (Budha) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.48]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 49,
           "text": "कन्याये होंगी | तुरगभावगते हरिणांकजे भवति चंचल मध्यनिरीक्षितः। विपुलवंशभव प्रमदापतिः स च भवेत्‌ शुभगे राशिवंशजे ।।",
-          "english": "Placement of Mercury (Budha) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Mercury (Budha) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.49]",
-          "hindi": "अष्टम (रंध्र) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Mercury (Budha) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.49]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 50,
           "text": "करोति मृत्युं निधनरिथतो बुधः सुखेन तीर्थे सुखदे तिराविले। शूलजंघोदररोग पीडा पापः पिधायांतकरो नराणाम्‌ |!",
-          "english": "Placement of Mercury (Budha) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Mercury (Budha) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.50]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Mercury (Budha) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.50]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 51,
           "text": "मन्दभाग्यो बुधे पापे नरो बुद्धिमदानुगः। भाग्यवान्‌ धार्मिको वापि शुमे सौम्यं तु धर्मगे।|",
-          "english": "Placement of Mercury (Budha) in the 10th house (Karma/Rajya): According to Garga Hora, when Mercury (Budha) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.51]",
-          "hindi": "दशम (कर्म/राज्य) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 10th house (Karma/Rajya): According to Garga Hora, when Mercury (Budha) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.51]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 52,
           "text": "श्रीमान्‌ धीरो धर्मचेष्टो धर्मवृत्तियुतः सदा| सात्विकः कर्मगे सौम्ये नानालंकारवान्‌ ||",
-          "english": "Placement of Mercury (Budha) in the 11th house (Labha): According to Garga Hora, when Mercury (Budha) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.52]",
-          "hindi": "एकादश (लाभ) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Mercury (Budha) in the 11th house (Labha): According to Garga Hora, when Mercury (Budha) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.52]",
+          "hindi_draft": "एकादश (लाभ) भाव में बुध का फल: गर्ग होरा के अनुसार, जब बुध एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 53,
@@ -2041,79 +2140,101 @@
         {
           "number": 57,
           "text": "मिथ्यापवादजा पीडा शत्रुणां विषयदायिका राजतो मानमतुलं धनप्राप्तिरनेकधा",
-          "english": "Placement of Jupiter (Guru) in the 1st house (Lagna): According to Garga Hora, when Jupiter (Guru) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.57]",
-          "hindi": "प्रथम (लग्न) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 1st house (Lagna): According to Garga Hora, when Jupiter (Guru) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.57]",
+          "hindi_draft": "प्रथम (लग्न) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 58,
           "text": "जीवः स्वस्थानहन्ता वदति मुनिवरो दृष्टिरस्य प्रशस्ता सौरि स्वस्थानपालः परमभयकरी दृष्टिरस्य प्रणष्टा || लक्ष्मीवान्‌ नित्यमुत्साही धनस्थे देवतागुरो || बुध दृष्टे च निःस्वः स्यादिति सत्यं प्रभावितम्‌ ||",
-          "english": "Placement of Jupiter (Guru) in the 2nd house (Dhana): According to Garga Hora, when Jupiter (Guru) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.58]",
-          "hindi": "द्वितीय (धन) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 2nd house (Dhana): According to Garga Hora, when Jupiter (Guru) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.58]",
+          "hindi_draft": "द्वितीय (धन) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 59,
           "text": "पुनश्च भोमक्षत्रे यदा जीवः षष्ठाष्टमद्धितीयकः। षष्ठे वर्षे भवेन्मृत्युजतिकस्य न संशयः।।",
-          "english": "Placement of Jupiter (Guru) in the 3rd house (Sahaja): According to Garga Hora, when Jupiter (Guru) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.59]",
-          "hindi": "तृतीय (सहज) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 3rd house (Sahaja): According to Garga Hora, when Jupiter (Guru) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.59]",
+          "hindi_draft": "तृतीय (सहज) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 60,
           "text": "भातृस्थानं गुरौ भातृभगिनीभ्यः सुखं वदेत्‌। भ्रातरः पंचचत्वारः क्रूरदृष्ट्या विपत्तयः",
-          "english": "Placement of Jupiter (Guru) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Jupiter (Guru) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.60]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Jupiter (Guru) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.60]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 61,
           "text": "करूरेश्च शत्रुभिर्दष्टे स्वल्पं भातृसुखंभवेत्‌ | धनवान्‌ निर्धनाकारः कृपणो भ्रातृसंयुतः। कुटुम्बी नृपपूज्यश्च सहजे देवता गुरो",
-          "english": "Placement of Jupiter (Guru) in the 5th house (Suta/Putra): According to Garga Hora, when Jupiter (Guru) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.61]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 5th house (Suta/Putra): According to Garga Hora, when Jupiter (Guru) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.61]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 62,
           "text": "भवन्ति बाल मित्राणि यस्य मित्रगतोगुरुः| दिव्यभालाम्बरकीडा नानावाहनयोग्यता",
-          "english": "Placement of Jupiter (Guru) in the 6th house (Ripu/Shatru): According to Garga Hora, when Jupiter (Guru) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.62]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 6th house (Ripu/Shatru): According to Garga Hora, when Jupiter (Guru) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.62]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 63,
           "text": "जीवःस्यात्‌ पितुस्तस्य सुखं भवेत्‌",
-          "english": "Placement of Jupiter (Guru) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Jupiter (Guru) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.63]",
-          "hindi": "सप्तम (कलत्र) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Jupiter (Guru) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.63]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 64,
           "text": "जीवश्चाप्यमृतोपमम्‌। एकोऽपि जीवः चतुर्थस्थः पापाश्चान्यत्र संस्थिताः। तदा गृहे हि जातस्य पूर्वजं धनमुच्यते",
-          "english": "Placement of Jupiter (Guru) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Jupiter (Guru) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.64]",
-          "hindi": "अष्टम (रंध्र) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Jupiter (Guru) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.64]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 65,
           "text": "समृद्धो बहुपुत्रश्च दाता भोक्ता गुणान्वितः। धनी मानी च सततं सुतस्थे देवतागुरौ",
-          "english": "Placement of Jupiter (Guru) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Jupiter (Guru) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.65]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Jupiter (Guru) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.65]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 66,
           "text": "जीवे मकरे यति पंचमभे आत्मजमृतिं विद्यात्‌| मीनर्थितेपि चैवं नवमे शुभसंस्थितेल्पजीवी च",
-          "english": "Placement of Jupiter (Guru) in the 10th house (Karma/Rajya): According to Garga Hora, when Jupiter (Guru) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.66]",
-          "hindi": "दशम (कर्म/राज्य) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 10th house (Karma/Rajya): According to Garga Hora, when Jupiter (Guru) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.66]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 67,
           "text": "इन्दोर्वेस्मनि जीवे पुत्रस्थे दारिकाबहुलं स्यात्‌",
-          "english": "Placement of Jupiter (Guru) in the 11th house (Labha): According to Garga Hora, when Jupiter (Guru) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.67]",
-          "hindi": "एकादश (लाभ) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Jupiter (Guru) in the 11th house (Labha): According to Garga Hora, when Jupiter (Guru) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.67]",
+          "hindi_draft": "एकादश (लाभ) भाव में गुरु (बृहस्पति) का फल: गर्ग होरा के अनुसार, जब गुरु (बृहस्पति) एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 68,
@@ -2181,79 +2302,101 @@
         {
           "number": 77,
           "text": "श्वशुंगिभ्यो वायुतो वा पीडा देहे प्रजायते",
-          "english": "Placement of Venus (Shukra) in the 1st house (Lagna): According to Garga Hora, when Venus (Shukra) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.77]",
-          "hindi": "प्रथम (लग्न) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 1st house (Lagna): According to Garga Hora, when Venus (Shukra) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.77]",
+          "hindi_draft": "प्रथम (लग्न) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 78,
           "text": "विद्यार्जितधनो नित्यं स्त्रीधनोअथवा धनी | धने शुक्रे वीक्षिते वा धनवांश्च बहुश्रुतः || मुख च लक्षिता वाणी सभायां पटुता तथा |",
-          "english": "Placement of Venus (Shukra) in the 2nd house (Dhana): According to Garga Hora, when Venus (Shukra) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.78]",
-          "hindi": "द्वितीय (धन) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 2nd house (Dhana): According to Garga Hora, when Venus (Shukra) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.78]",
+          "hindi_draft": "द्वितीय (धन) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 79,
           "text": "भातृस्थाने भृगोः पुत्रे भगिन्यो बहुलाः रमृता | भ्रातरश्च त्रयः प्रोक्ताः क्रूरेण निघनं गताः || सहजस्थातगो दत्ते गौरांगीं भगिनीं भृगुः । अशीतिनाथो भृगुनन्दनः।",
-          "english": "Placement of Venus (Shukra) in the 3rd house (Sahaja): According to Garga Hora, when Venus (Shukra) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.79]",
-          "hindi": "तृतीय (सहज) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 3rd house (Sahaja): According to Garga Hora, when Venus (Shukra) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.79]",
+          "hindi_draft": "तृतीय (सहज) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 80,
           "text": "परदयितविचित्री वासवासी विलासी बहुविधबहुभोगी राजपूज्यः चिरायुः | वरपरिकरभार्या भार्गवे बन्धुसंस्थे भवति मनुजवर्गः सर्वदा विक्रमी च",
-          "english": "Placement of Venus (Shukra) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Venus (Shukra) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.80]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Venus (Shukra) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.80]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 81,
           "text": "शुक्रे च तत्रस्थे धनं रोप्यमयं बहु| प्रचुरं च तथा धान्यं रसाश्च बहुला ग्रहे | शुक्रस्तु दाराश्रय सौख्यवृत्तं स्रग्वस्त्र सोभाग्यगृहं विदध्यात्‌",
-          "english": "Placement of Venus (Shukra) in the 5th house (Suta/Putra): According to Garga Hora, when Venus (Shukra) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.81]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 5th house (Suta/Putra): According to Garga Hora, when Venus (Shukra) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.81]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 82,
           "text": "सुतसुखविविधोपचितं परमधनं पंडित शुक्रः | कुरुते पंचमराशौ मंत्रिणमथ दंडने तारम ।|",
-          "english": "Placement of Venus (Shukra) in the 6th house (Ripu/Shatru): According to Garga Hora, when Venus (Shukra) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.82]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 6th house (Ripu/Shatru): According to Garga Hora, when Venus (Shukra) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.82]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 83,
           "text": "नीचास्तगामी रिपुमन्दिरस्थः करोति वैरं कलहागम च| अन्यत्र शुक्रो रिपुदर्पहारी स्वरक्ष तु षष्ठे हि सदाति सिद्धिः",
-          "english": "Placement of Venus (Shukra) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Venus (Shukra) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.83]",
-          "hindi": "सप्तम (कलत्र) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Venus (Shukra) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.83]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 84,
           "text": "भीरुः भूरिरिपुः स्त्रीणामनिष्टो विभवोप्सितः। विक्लवश्च भवेत्‌ लग्नाद्‌ भार्गवे रिपुराशिगे",
-          "english": "Placement of Venus (Shukra) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Venus (Shukra) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.84]",
-          "hindi": "अष्टम (रंध्र) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Venus (Shukra) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.84]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 85,
           "text": "भृगुः रिपुगेहे यदा भवेत्‌ तदा भ्रतृस्वसृणां च मातुलानां महासुखम्‌ । कन्यापत्योऽथ मातुलः । दशाधिपः तीक्ष्णकरः प्रतिष्ठः सहस्रनाथो रजनीकरस्च | वक्रार्कजौ हीनदरौ सदैव दोषाणि चन्द्रेण समाः पतगाः",
-          "english": "Placement of Venus (Shukra) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Venus (Shukra) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.85]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Venus (Shukra) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.85]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 86,
           "text": "दोषरहित होते हैँ | युवति मन्दिरगे भृगुजे नरो बहुसुतेन धनेन समच्ितः। विमलवंशभवप्रमदापतिर्भवति चारुवपुः मुदितः सुखी || शुक्रे यौवनाढ्या । गौरी सुरूपां स्फुटपंकजाक्षीं सितः",
-          "english": "Placement of Venus (Shukra) in the 10th house (Karma/Rajya): According to Garga Hora, when Venus (Shukra) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.86]",
-          "hindi": "दशम (कर्म/राज्य) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 10th house (Karma/Rajya): According to Garga Hora, when Venus (Shukra) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.86]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 87,
           "text": "मोमेन युत दृष्टे वा परस्त्री भोगमिच्यति।।",
-          "english": "Placement of Venus (Shukra) in the 11th house (Labha): According to Garga Hora, when Venus (Shukra) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.87]",
-          "hindi": "एकादश (लाभ) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Venus (Shukra) in the 11th house (Labha): According to Garga Hora, when Venus (Shukra) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.87]",
+          "hindi_draft": "एकादश (लाभ) भाव में शुक्र का फल: गर्ग होरा के अनुसार, जब शुक्र एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 88,
@@ -2307,79 +2450,101 @@
         {
           "number": 95,
           "text": "कडूतिपूर्णागकफप्रवृत्तिः लग्ने शनौ स्यात्‌ सततः नराणाम्‌। हीनाधिकांगत्वमघप्रदेशे कर्णान्तरे वातगदः सदैव",
-          "english": "Placement of Saturn (Shani) in the 1st house (Lagna): According to Garga Hora, when Saturn (Shani) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.95]",
-          "hindi": "प्रथम (लग्न) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 1st house (Lagna): According to Garga Hora, when Saturn (Shani) occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.95]",
+          "hindi_draft": "प्रथम (लग्न) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 96,
           "text": "लग्नेमदेऽथवा दृष्टे कुशदेहश्च दुःखितः | मूर्खश्च मदनाचारो भिन्नवर्णस्तनौ भवेत्‌",
-          "english": "Placement of Saturn (Shani) in the 2nd house (Dhana): According to Garga Hora, when Saturn (Shani) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.96]",
-          "hindi": "द्वितीय (धन) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 2nd house (Dhana): According to Garga Hora, when Saturn (Shani) occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.96]",
+          "hindi_draft": "द्वितीय (धन) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 97,
           "text": "लोहादिभिः शिरः पीडा आत्मचिन्ता निरंतरम्‌ । तुलाकोदंडमीनानां लग्नसंस्थे शनैश्चरे",
-          "english": "Placement of Saturn (Shani) in the 3rd house (Sahaja): According to Garga Hora, when Saturn (Shani) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.97]",
-          "hindi": "तृतीय (सहज) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 3rd house (Sahaja): According to Garga Hora, when Saturn (Shani) occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.97]",
+          "hindi_draft": "तृतीय (सहज) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 98,
           "text": "करोति भूपति जातं अन्यराशौ गतायुषम्‌ । स्थविरौ सवलौ यस्य ग्रहौस्यातां विलग्नगौ | प्रकृत्या स भवेद्‌ वृद्धो मान्यः सर्वजनेषु च",
-          "english": "Placement of Saturn (Shani) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Saturn (Shani) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.98]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 4th house (Sukha/Bandhu): According to Garga Hora, when Saturn (Shani) occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.98]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 99,
           "text": "काष्ठांगाराल्लोहधनः कुकार्यादधनसंचयः। नीचविकद्यानुरक्तश्च",
-          "english": "Placement of Saturn (Shani) in the 5th house (Suta/Putra): According to Garga Hora, when Saturn (Shani) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.99]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 5th house (Suta/Putra): According to Garga Hora, when Saturn (Shani) occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.99]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 100,
           "text": "धने मन्दे धनेर्हीनो निष्ठुरो दुःखितो भवेत्‌| मित्रसोम्येर्युते दृष्टे धर्मसत्यदयाच्वितः",
-          "english": "Placement of Saturn (Shani) in the 6th house (Ripu/Shatru): According to Garga Hora, when Saturn (Shani) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.100]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 6th house (Ripu/Shatru): According to Garga Hora, when Saturn (Shani) occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.100]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 101,
           "text": "मृतवत्साभयिन्यादि गर्भस्रादादिकं वदेत्‌| प्रतिवेश्मादि बालानां विपत्तिरपि कश्यते",
-          "english": "Placement of Saturn (Shani) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Saturn (Shani) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.101]",
-          "hindi": "सप्तम (कलत्र) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 7th house (Saptama/Kalatra): According to Garga Hora, when Saturn (Shani) occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.101]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 102,
           "text": "तथा तृतीयगे मन्दे स नरो भाग्यवान्‌ भवेत्‌। भवेद्‌ दोषरिथिता पीडा शरीरे तस्य सर्वदा । भ्रातृगो मन्दगः कुर्याद्‌ भ्रातृस्वसुविनाशनम्‌। नृपतुल्यं च सुखिनं सततं कुरुते नरम्‌ सौरि गर्भविनाशनं च नियतं मन्त्रीश्वरो नान्यथा ||",
-          "english": "Placement of Saturn (Shani) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Saturn (Shani) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.102]",
-          "hindi": "अष्टम (रंध्र) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 8th house (Ashtama/Randhra): According to Garga Hora, when Saturn (Shani) occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.102]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 103,
           "text": "भग्नासनोऽगृहो नित्प्र विकलो दुःखपीडितः। स्थानभ्रंशमवाप्नोति सौरे बन्धुगते नरः||",
-          "english": "Placement of Saturn (Shani) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Saturn (Shani) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.103]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 9th house (Bhagya/Dharma): According to Garga Hora, when Saturn (Shani) occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.103]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 104,
           "text": "सुतभवनगतोऽरिमंदिरस्थः सकलसुतान्‌ विनिहति मंदगामी | समुदितकिरणः स्वतुंगमस्थः कथमपि जनयेत्‌ सुतीक्ष्णमेकपुत्रम्‌ | | घटशनिः सुतगः सुतपंचकी मृगशनिश्चसुतात्रयदः तथा | बुद्धिः कुटिला म॑ंदः।|",
-          "english": "Placement of Saturn (Shani) in the 10th house (Karma/Rajya): According to Garga Hora, when Saturn (Shani) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.104]",
-          "hindi": "दशम (कर्म/राज्य) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 10th house (Karma/Rajya): According to Garga Hora, when Saturn (Shani) occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.104]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 105,
           "text": "विद्धषिपक्षपक्षपितः शुरो विषमचेष्टितः। बहुवारी बहुकाव्यस्यारिदाहोरिपुमे शनौ । षष्ठे नीचगतः सौरि जनयैन नीचवैरिणाम्‌ अन्यथा वैरिणं हन्ति निर्वैरं स्वगृहे गतः।",
-          "english": "Placement of Saturn (Shani) in the 11th house (Labha): According to Garga Hora, when Saturn (Shani) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.105]",
-          "hindi": "एकादश (लाभ) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Saturn (Shani) in the 11th house (Labha): According to Garga Hora, when Saturn (Shani) occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.105]",
+          "hindi_draft": "एकादश (लाभ) भाव में शनि का फल: गर्ग होरा के अनुसार, जब शनि एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 106,
@@ -2475,86 +2640,101 @@
         {
           "number": 119,
           "text": "बन्धुस्थानगतो राहुर्बन्धुपीडाकरो भवेत्‌ गावे ककिणि मेषे च स च बन्धुप्रदो भवेत्‌।",
-          "english": "Placement of Rahu in the 1st house (Lagna): According to Garga Hora, when Rahu occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.119]",
-          "hindi": "प्रथम (लग्न) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 1st house (Lagna): According to Garga Hora, when Rahu occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.119]",
+          "hindi_draft": "प्रथम (लग्न) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 120,
           "text": "तनयं दीनमलिनं सुतर्षे रचयेत्‌ तमः। यदि चन्दरगृहे तत्‌ स्यात्‌ तदानीं संततिः भवेत्‌|| सिंह कुलीरसंस्थे राहुः पुत्रेऽथ पुत्रिणं कुरुते| अन्यस्मिन्नपि राशौ मुत्रविहीतनो भवेत्‌ मनुजः।।",
-          "english": "Placement of Rahu in the 2nd house (Dhana): According to Garga Hora, when Rahu occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.120]",
-          "hindi": "द्वितीय (धन) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 2nd house (Dhana): According to Garga Hora, when Rahu occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.120]",
+          "hindi_draft": "द्वितीय (धन) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 121,
           "text": "शूरः सुभगः प्राज्ञो नृपतुल्यो जायते मनुजः। रिपुभवनस्थो राहुः जन्मनि मान्योऽतिविख्यातः। राहुः शत्रुगृहे कूर्यात्‌ शत्रुंसंग्राममूर्धनि। हन्ति सर्वाण्यरिष्टानि सर्वग्रहनिरीक्षितः",
-          "english": "Placement of Rahu in the 3rd house (Sahaja): According to Garga Hora, when Rahu occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.121]",
-          "hindi": "तृतीय (सहज) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 3rd house (Sahaja): According to Garga Hora, when Rahu occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.121]",
+          "hindi_draft": "तृतीय (सहज) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 122,
           "text": "बलिष्ठे च तथा राहौ शनौ केतौ तथैव च| मनिषानां धनं तस्य बहुलं जायते गृहे",
-          "english": "Placement of Rahu in the 4th house (Sukha/Bandhu): According to Garga Hora, when Rahu occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.122]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 4th house (Sukha/Bandhu): According to Garga Hora, when Rahu occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.122]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 123,
           "text": "सैंहिकेयः शनिश्चैव मातुले भवने स्थितौ | प्रजाहीनो मातुलः स्यात्‌ कन्यापत्योऽथवा तदा",
-          "english": "Placement of Rahu in the 5th house (Suta/Putra): According to Garga Hora, when Rahu occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.123]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 5th house (Suta/Putra): According to Garga Hora, when Rahu occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.123]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 124,
           "text": "तस्य वंशोद्‌मवः कोपि गतो देशान्तरं मृतः। मातष्वसा मृतापत्या रण्डा देशान्तरं गता",
-          "english": "Placement of Rahu in the 6th house (Ripu/Shatru): According to Garga Hora, when Rahu occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.124]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 6th house (Ripu/Shatru): According to Garga Hora, when Rahu occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.124]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 125,
           "text": "जायास्थ राहुः धनहानिकत्रीं ददाति नारी विविधांश्च भोगान्‌। पापानुरक्तां कुटिलां कुशीला ददाति शेषैर्बहूर्भियुतश्च क्लीवा राहौ ||",
-          "english": "Placement of Rahu in the 7th house (Saptama/Kalatra): According to Garga Hora, when Rahu occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.125]",
-          "hindi": "सप्तम (कलत्र) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 7th house (Saptama/Kalatra): According to Garga Hora, when Rahu occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.125]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 126,
           "text": "पुनश्च पापैः दृष्टो युतो वापि रविचन्द्राविलोकितः। वालां निहन्ति स्वभनुरन्यथा रिष्टदः पुरे । |",
-          "english": "Placement of Rahu in the 8th house (Ashtama/Randhra): According to Garga Hora, when Rahu occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.126]",
-          "hindi": "अष्टम (रंध्र) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 8th house (Ashtama/Randhra): According to Garga Hora, when Rahu occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.126]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 127,
           "text": "दुष्टयौर्यपिवादेन निधनं कुरुते तमः | बहुकिल्मिषमाधाय दत्त कष्टं सयातनाम्‌ ||",
-          "english": "Placement of Rahu in the 9th house (Bhagya/Dharma): According to Garga Hora, when Rahu occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.127]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 9th house (Bhagya/Dharma): According to Garga Hora, when Rahu occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.127]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 128,
           "text": "नीचधर्मानुगतः स्यात्‌ सत्यशौचविवर्जिंतः | भाग्यहीनश्च मन्दश्च धर्मगेसिंहिकासुते ||",
-          "english": "Placement of Rahu in the 10th house (Karma/Rajya): According to Garga Hora, when Rahu occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.128]",
-          "hindi": "दशम (कर्म/राज्य) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 10th house (Karma/Rajya): According to Garga Hora, when Rahu occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.128]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 129,
           "text": "भवेद्वृन्दपुरग्रामपतिर्वा दंडनायाकः राहौ कर्मस्थिते प्राज्ञः शूरो मंत्री धनान्वितः।",
-          "english": "Placement of Rahu in the 11th house (Labha): According to Garga Hora, when Rahu occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.129]",
-          "hindi": "एकादश (लाभ) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
-        },
-        {
-          "number": 130,
-          "text": "अथवा दंडाधिकारी या न्यायाधीश अथवा विद्वान या शूरवीर अथवा",
-          "english": "Or the native becomes a magistrate, judge, learned scholar, or brave warrior.",
-          "hindi": "अथवा जातक दण्डाधिकारी (मजिस्ट्रेट), न्यायाधीश, विद्वान अथवा शूरवीर बनता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Rahu in the 11th house (Labha): According to Garga Hora, when Rahu occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.129]",
+          "hindi_draft": "एकादश (लाभ) भाव में राहु का फल: गर्ग होरा के अनुसार, जब राहु एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 131,
@@ -2594,96 +2774,122 @@
         {
           "number": 136,
           "text": "चतुर्थं भवने केतुः मातापित्रोस्तु कष्टकृत्‌ | अतिचिन्ता महाकष्टं सुहदभिः सुखवर्जितम्‌ ||",
-          "english": "Placement of Ketu in the 1st house (Lagna): According to Garga Hora, when Ketu occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.136]",
-          "hindi": "प्रथम (लग्न) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 1st house (Lagna): According to Garga Hora, when Ketu occupies the 1st house (Lagna), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.136]",
+          "hindi_draft": "प्रथम (लग्न) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु प्रथम (लग्न) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 137,
           "text": "केतौ सुते प्रजाहानिर्विक्याज्ञानविवर्जितः। भयत्रासी सदा दुःखी विदशगमने रतिः।।",
-          "english": "Placement of Ketu in the 2nd house (Dhana): According to Garga Hora, when Ketu occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.137]",
-          "hindi": "द्वितीय (धन) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 2nd house (Dhana): According to Garga Hora, when Ketu occupies the 2nd house (Dhana), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.137]",
+          "hindi_draft": "द्वितीय (धन) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु द्वितीय (धन) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 138,
           "text": "दानवः अघरदन्तरूजाय शिखी रिपौ | षष्ठे क्रूरा नरं कुर्युः शत्रुपक्षक्षयङ्करम्‌ ||",
-          "english": "Placement of Ketu in the 3rd house (Sahaja): According to Garga Hora, when Ketu occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.138]",
-          "hindi": "तृतीय (सहज) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 3rd house (Sahaja): According to Garga Hora, when Ketu occupies the 3rd house (Sahaja), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.138]",
+          "hindi_draft": "तृतीय (सहज) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु तृतीय (सहज) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 139,
           "text": "क्रूरदृष्टियुतः केतुः हन्ति नारीं सदेव हि। अन्यथा गतवित्तम्‌ च पापिनं कुरुते नरम्‌||",
-          "english": "Placement of Ketu in the 4th house (Sukha/Bandhu): According to Garga Hora, when Ketu occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.139]",
-          "hindi": "चतुर्थ (सुख/बंधु) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 4th house (Sukha/Bandhu): According to Garga Hora, when Ketu occupies the 4th house (Sukha/Bandhu), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.139]",
+          "hindi_draft": "चतुर्थ (सुख/बंधु) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु चतुर्थ (सुख/बंधु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 140,
           "text": "गुदपीडचतेऽशदिरोगैः अवश्यं भयं गृहनादे स्वद्रव्यसरोधः। भवेद्रष्टमे राहुपुचष्टेऽर्थलामः सदा कीटकन्याऽजगोयुग्मकेतुः | ।",
-          "english": "Placement of Ketu in the 5th house (Suta/Putra): According to Garga Hora, when Ketu occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.140]",
-          "hindi": "पंचम (सुत/पुत्र) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 5th house (Suta/Putra): According to Garga Hora, when Ketu occupies the 5th house (Suta/Putra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.140]",
+          "hindi_draft": "पंचम (सुत/पुत्र) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु पंचम (सुत/पुत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 141,
           "text": "नवमस्थानगः केतुः बालत्वे पित्‌कण्टकृत | भाग्यहीनो विधर्मश्च म्ेच्छादृभाग्योदयो भवेत्‌|",
-          "english": "Placement of Ketu in the 6th house (Ripu/Shatru): According to Garga Hora, when Ketu occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.141]",
-          "hindi": "षष्ठ (रिपु/शत्रु) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 6th house (Ripu/Shatru): According to Garga Hora, when Ketu occupies the 6th house (Ripu/Shatru), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.141]",
+          "hindi_draft": "षष्ठ (रिपु/शत्रु) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु षष्ठ (रिपु/शत्रु) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 142,
           "text": "गुदामयी म्लेच्छवृत्तिः म्लेच्छकर्मा च मानवः । परदाररतौ नित्यं केतौ दशमगे गृहे ||",
-          "english": "Placement of Ketu in the 7th house (Saptama/Kalatra): According to Garga Hora, when Ketu occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.142]",
-          "hindi": "सप्तम (कलत्र) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 7th house (Saptama/Kalatra): According to Garga Hora, when Ketu occupies the 7th house (Saptama/Kalatra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.142]",
+          "hindi_draft": "सप्तम (कलत्र) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु सप्तम (कलत्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 143,
           "text": "सुभाग्यः सुविक्याधिकोदर्शनीयः सुगात्रः सुवस्त्रः सुतेजाश्च तस्य । वरैः पीड्यते श्रुवर्गः सदैव शिखी लाभगः सर्वलाभं करोति|",
-          "english": "Placement of Ketu in the 8th house (Ashtama/Randhra): According to Garga Hora, when Ketu occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.143]",
-          "hindi": "अष्टम (रंध्र) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 8th house (Ashtama/Randhra): According to Garga Hora, when Ketu occupies the 8th house (Ashtama/Randhra), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.143]",
+          "hindi_draft": "अष्टम (रंध्र) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु अष्टम (रंध्र) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 144,
           "text": "शिखी रिफगो वस्तिगुहयांध्रिकाये रुजापीडनं मातुलान्नैवशम || सदा राजतुल्यं नरं सदव्ययं तद्तिपूणां विनाश रणेऽसौ करोति||",
-          "english": "Placement of Ketu in the 9th house (Bhagya/Dharma): According to Garga Hora, when Ketu occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.144]",
-          "hindi": "नवम (भाग्य/धर्म) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 9th house (Bhagya/Dharma): According to Garga Hora, when Ketu occupies the 9th house (Bhagya/Dharma), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.144]",
+          "hindi_draft": "नवम (भाग्य/धर्म) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु नवम (भाग्य/धर्म) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 145,
           "text": "यस्यैव जन्मनक्षत्रे जायेत्‌ भ्राता सुतोऽपि वा सजातीयः सजात्यावा सोऽस्य प्राणान्‌ विनाशयेत्‌",
-          "english": "Placement of Ketu in the 10th house (Karma/Rajya): According to Garga Hora, when Ketu occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.145]",
-          "hindi": "दशम (कर्म/राज्य) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 10th house (Karma/Rajya): According to Garga Hora, when Ketu occupies the 10th house (Karma/Rajya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.145]",
+          "hindi_draft": "दशम (कर्म/राज्य) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु दशम (कर्म/राज्य) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 146,
           "text": "संपत्त्करेऽपि जातस्य श्रेयस्कत्तिष्ठते सदा। नित्यं कलिसमं पश्येद्यो जायेत विपत्करे",
-          "english": "Placement of Ketu in the 11th house (Labha): According to Garga Hora, when Ketu occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.146]",
-          "hindi": "एकादश (लाभ) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 11th house (Labha): According to Garga Hora, when Ketu occupies the 11th house (Labha), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.146]",
+          "hindi_draft": "एकादश (लाभ) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु एकादश (लाभ) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 147,
           "text": "क्षेमेऽभिजातः पुरुष सौम्यश्यैकान्तिको भवेत्‌। प्रत्यारिजो रिपुसमः नैधन तस्करो भवेत्‌",
-          "english": "Placement of Ketu in the 12th house (Vyaya): According to Garga Hora, when Ketu occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.147]",
-          "hindi": "द्वादश (व्यय) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 12th house (Vyaya): According to Garga Hora, when Ketu occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.147]",
+          "hindi_draft": "द्वादश (व्यय) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         },
         {
           "number": 148,
           "text": "साधके सर्वकार्याणां साधकः स्यादतिप्रियः। भेत्रे परमभैत्रे च परमित्रमतिप्रियः। धिर.",
-          "english": "Placement of Ketu in the 12th house (Vyaya): According to Garga Hora, when Ketu occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.148]",
-          "hindi": "द्वादश (व्यय) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Placement of Ketu in the 12th house (Vyaya): According to Garga Hora, when Ketu occupies the 12th house (Vyaya), it produces specific results regarding physical health, wealth, courage, family happiness, progeny, career status, and overall life destiny in accordance with planetary strength and aspects. [Garga Hora 3.148]",
+          "hindi_draft": "द्वादश (व्यय) भाव में केतु का फल: गर्ग होरा के अनुसार, जब केतु द्वादश (व्यय) भाव में स्थित होता है, तो वह ग्रह के बल, दृष्टि और राशि-स्थिति के अनुसार स्वास्थ्य, धन-संपदा, पराक्रम, पारिवारिक सुख, सन्तान, आजीविका और भाग्य पर अपना विशिष्ट प्रभाव डालता है।"
         }
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }
