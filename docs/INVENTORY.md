@@ -67,7 +67,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 377 | 73% | uncitable |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
-| `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 78% | — |
+| `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 80% | — |
 | `chamatkar_chintamani` | [`Hora/Parashari/Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | 10 | 112 | 81% | — |
 | `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 100% | — |
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
