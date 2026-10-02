@@ -68,6 +68,12 @@ KNOWN: dict[str, int] = {
     "narada_smriti": 2,
     "jataka_tattva": 2,
     "chandogya_upanishad": 2,
+    #: `brihadaranyaka_upanishad` 3 -- READ PAIR BY PAIR 2026-10-02, unlike the 8 removed above:
+    #: 2.4.2/4.5.3, 2.4.3/4.5.4 and 2.4.11/4.5.12 are the same verse in the two Maitreyi passages,
+    #: differing only by `इयम्`/`इयं`, `स्याम्`/`स्यां`, and an OCR `वदानां` for `वेदानां`. One
+    #: translation serving both is correct. 2.4.1/4.5.2 is NOT on this list: `उद्यास्यन्` ("about to
+    #: go away") and `प्रव्रजिष्यन्` ("about to go forth as a renunciant") differ, so each has its own.
+    "brihadaranyaka_upanishad": 3,
     "brihat_samhita": 1,
     #: `atharvaveda_samhita` 1 -- NOT a translation defect. `4.12.8` is the hymn's ritual header,
     #: `रोहिणी- वनस्पतिः १-७ ऋभुः … अनुष्टुप्, १ त्रिपदा गायत्र` (ṛṣi / devatā / chandas), sitting in a
