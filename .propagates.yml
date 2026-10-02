@@ -141,10 +141,17 @@ sources:
   # review's findings IMPLY — per rule:adversarial-review-reads-the-ledger §5, a review
   # that ends without new declarations found defects and left the mechanism intact.
   # kind MUST be `code` or `prose`; anything else is a silently deleted edge (G57).
+  #
+  # Retargeted 2026-10-02 from migrations/versions/0001_corpus_schema_and_gate.py (edge
+  # 8a1c24be, last verified that day). Two premises had gone false: schema changes now land in
+  # a NEW migration (0002, 0003), never in 0001, so the old edge went REVERSED on every change
+  # and could not mean anything; and "nothing comparing them" stopped being true when
+  # test_schema_drift.py began running compare_metadata over the whole chain. The coupling a
+  # human must review is whether that test still covers what models.py now declares.
   sanskrit_texts/models.py:
     propagates_to:
-      - path: migrations/versions/0001_corpus_schema_and_gate.py
-        why: "Two hand-maintained schema definitions with nothing comparing them; a column can have a home in models.py the database does not have"
+      - path: tests/test_schema_drift.py
+        why: "compare_metadata over the full migration chain is the only check that models.py and the database agree; a models change it cannot see (views, triggers, grants) needs a test or a migration by hand"
         kind: code
   tests/test_key_census.py:
     propagates_to:
