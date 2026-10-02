@@ -1879,8 +1879,15 @@ orthography: word-final `स्` came out at **1.15%** against the canonical 0.9
 sandhi-free 13.1%. A drifting split would have pushed that number up, so the table above is both
 the thing that made the parse possible and the thing that verifies it.
 
-Three source properties, recorded rather than repaired: **4 numbers absent from the source's own
-sequence** (I.5 skips 5, 8, 20; II.4 skips 10); **V.15 unsubdivided** — the entire Īśā-parallel
+**Corrected 2026-10-02: 435 mantras, and the "4 absent numbers" below were never absent.** I.5.5
+and I.5.8 sit behind malformed refs (`[I.v.5.]`, `[.I.v.8]`) and I.5.20 and II.4.10 behind a bare
+`मन्त्र N` with no ref; the bracket-only `MARKER` rejected all four, and this paragraph recorded the
+parser's miss as a property of the source. Measured by a whole-source scan, they were the only four.
+The cost was not just four verses: translations were later laid on by position, so 1.5, 2.4 and the
+parallel 4.5 served their neighbours' translations — re-homed into drafts the same day.
+
+Three source properties, recorded rather than repaired: ~~4 numbers absent from the source's own
+sequence (I.5 skips 5, 8, 20; II.4 skips 10)~~ *(see the correction above)*; **V.15 unsubdivided** — the entire Īśā-parallel
 passage under mantra 1 where canon has 4, so a unit mismatch and deliberately NOT in
 `known_gaps`; and **8 mantras whose terminator is not `॥ N ॥`** — 6 have none at all, 2 close on
 the source's running count (`॥ ११ ॥`, `॥ १२ ॥` for V.11.1 and V.12.1).

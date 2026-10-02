@@ -12,7 +12,7 @@
 
 From-canon Sanskrit shloka stores. **One JSON per text** at `<Category>/<School?>/<Text>/<Text>.json` since 2026-08-18. Sources (Devanagari `.md`, OCR `.txt`, scans) live in `../../sanskrit-texts-sources/`, never here. This is the **producer**; astroacharya's from-canon compute is the **consumer** — see [`../.propagates.yml`](../.propagates.yml) and [propagation flow](#state-based-propagation-flow).
 
-**Totals: 66 texts · 955 chapters · 98,444 shlokas · 14 categories** — derived 2026-09-30 by `scripts/check_inventory.py`, after four unregistered texts left the corpus: `deva_keralam` and `dharmasindhu` quarantined, `taittiriya_brahmana` and `taittiriya_aranyaka` handed to Youvan as a second witness (Brāhmaṇa and Āraṇyaka are Youvan's scope). This line read 70 texts · 969 chapters · 100,734 shlokas · 15 categories from 2026-09-17, when the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check. **2026-09-24:** `mundaka_upanishad`'s `0.1` record was cleaned of scraped page chrome, not removed — the shloka count is unchanged. **2026-09-30: +9** — nine `brahmasphuta_siddhanta` verses that the OCR had MERGED were split apart (G71: the numeral ९ is lost, so verse 9's closing marker vanishes and its text runs into verse 10). No text was added: the Devanāgarī is byte-identical before and after, 58,350 characters. Re-run the check before trusting either number if other corpus work has landed since.
+**Totals: 66 texts · 955 chapters · 98,448 shlokas · 14 categories** — derived 2026-10-02 (+4: Bṛhadāraṇyaka I.5.5, I.5.8, I.5.20, II.4.10, which the converter had dropped); previously 2026-09-30 by `scripts/check_inventory.py`, after four unregistered texts left the corpus: `deva_keralam` and `dharmasindhu` quarantined, `taittiriya_brahmana` and `taittiriya_aranyaka` handed to Youvan as a second witness (Brāhmaṇa and Āraṇyaka are Youvan's scope). This line read 70 texts · 969 chapters · 100,734 shlokas · 15 categories from 2026-09-17, when the SARIT converter G64 fix split hidden/mislabelled edition units in manu_smriti (+4), caraka_samhita (+11), astanga_hridaya (+176) and susruta_samhita (+51); the one-liner above is the check. **2026-09-24:** `mundaka_upanishad`'s `0.1` record was cleaned of scraped page chrome, not removed — the shloka count is unchanged. **2026-09-30: +9** — nine `brahmasphuta_siddhanta` verses that the OCR had MERGED were split apart (G71: the numeral ९ is lost, so verse 9's closing marker vanishes and its text runs into verse 10). No text was added: the Devanāgarī is byte-identical before and after, 58,350 characters. Re-run the check before trusting either number if other corpus work has landed since.
 
 **This file is the `text_id` registry.** It carries every text's id, path, size and count
 authority, and `CLAUDE.md` points here rather than restating them. Until 2026-08-24 there were
@@ -64,7 +64,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 100% | ocr_only |
-| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 378 | 100% | uncitable |
+| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 378 | 87% | uncitable |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
@@ -122,7 +122,7 @@ titles at all — so there is nothing to separate.
 | `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 4 | 50 | 100% | range |
 | `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 627 | 100% | range |
 | `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 100% | firm |
-| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 431 | 100% | firm |
+| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 435 | 91% | firm |
 | `isha_upanishad` | [`Upanishad/shukla-yajurveda/Isha`](../Upanishad/shukla-yajurveda/Isha) | 1 | 18 | 100% | firm |
 | `jabala_upanishad` | [`Upanishad/shukla-yajurveda/Jabala`](../Upanishad/shukla-yajurveda/Jabala) | 1 | 6 | 100% | unit_mismatch |
 | `paingala_upanishad` | [`Upanishad/shukla-yajurveda/Paingala`](../Upanishad/shukla-yajurveda/Paingala) | 3 | 28 | 100% | uncitable |
@@ -180,7 +180,7 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 |---|---|---:|---:|---:|---|
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,725 | 100% | uncitable |
 | `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 100% | uncitable |
-| `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 100% | uncitable |
+| `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 99% | uncitable |
 | `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 100% | uncitable |
 | `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,347 | 94% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 100% | uncitable |

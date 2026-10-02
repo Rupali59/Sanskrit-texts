@@ -53,8 +53,6 @@ REPO = pathlib.Path(__file__).resolve().parent.parent
 #: **Everything still listed here was examined and is LEGITIMATE REPETITION, not damage.**
 #: Reading them is what established that, and the distinction is the reason this set is not
 #: simply a backlog:
-#:   `brihadaranyaka_upanishad`  the Maitreyi dialogue, which the Upanishad genuinely prints
-#:                               TWICE — Madhu Kanda 2.4 and Muni Kanda 4.5.
 #:   `chandogya_upanishad`       the `tat tvam asi shvetaketo` refrain closing each section
 #:                               of the Shvetaketu teaching, by design.
 #:   `narada_smriti`             one verse held twice, as `N` and `N-1` duplicate records.
@@ -66,7 +64,6 @@ REPO = pathlib.Path(__file__).resolve().parent.parent
 #: distinct translations onto text the edition itself repeats.
 KNOWN: dict[str, int] = {
     "jataka_parijata": 8,
-    "brihadaranyaka_upanishad": 8,
     "bhrigu_sutram": 3,
     "narada_smriti": 2,
     "jataka_tattva": 2,
@@ -100,6 +97,15 @@ KNOWN: dict[str, int] = {
     "samaveda_samhita": 1,
 }
 
+#: REMOVED 2026-10-02: `brihadaranyaka_upanishad: 8`, justified as "the Maitreyi dialogue, which the
+#: Upanishad genuinely prints TWICE — Madhu Kanda 2.4 and Muni Kanda 4.5". **The repetition is real;
+#: the alignment was not.** Read verse by verse, 2.4.1-5 each served the PREVIOUS verse's translation,
+#: 4.5.6-14 each served the NEXT one's, and 1.5 (no duplicates, so invisible here) ran up to three
+#: verses late -- translations laid on by position over a corpus missing 1.5.5, 1.5.8, 1.5.20 and
+#: 2.4.10, which the converter had dropped behind malformed refs and recorded as source gaps. The
+#: translations were re-homed into drafts and the four mantras restored. Same lesson as the entry
+#: below: a KNOWN number put there without reading each pair is a rubber stamp.
+#:
 #: REMOVED 2026-09-28: `astanga_sangraha: 30`, added in d445285 with the justification
 #: "stock refrains and repeated treatment formulae". **That justification is false.** Measured
 #: the day it was removed: 0 of the 30 groups are formulaic and 88 real verses are involved. The

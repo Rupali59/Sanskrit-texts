@@ -13,17 +13,12 @@
     "shloka_number_format": "brahmana.mantra",
     "citation_prefix": "brihadaranyaka_upanishad",
     "expected_chapters": 6,
-    "expected_verses": 431,
+    "expected_verses": 435,
     "count_authority": "firm",
     "count_authority_reason": "47 brāhmaṇas against the canonical 47, and adhyāyas III, IV and VI land on 92 / 92 / 75 exactly. The per-adhyāya totals are the SOURCE's own front-matter table (मन्त्राः ८० / ६६ / ९२ / ९२ / ३३ / ७५), so the count is checked against the edition being parsed and not against an outside authority alone.",
     "canonical_authority": "see sanskrit-texts/docs/CANONICAL_COUNTS.md",
-    "known_gaps": [
-      "1.5.5",
-      "1.5.8",
-      "1.5.20",
-      "2.4.10"
-    ],
-    "known_gaps_reason": "Numbers absent from the source's own sequence, not dropped by this parser: I.5 runs 1-4, 6, 7, 9-19, 21-23 and II.4 skips 10. V.15 is a separate case and is NOT listed here — its content is entire, printed under mantra 1, so it is a unit mismatch rather than a gap.",
+    "known_gaps": [],
+    "known_gaps_reason": "Derived: canonical numbers the parse does not hold. EMPTY since 2026-10-02 — the four this once listed (I.5.5, I.5.8, I.5.20, II.4.10) and called absent from the source were in it all along, behind a malformed or missing bracketed ref the MARKER pattern rejected. V.15 is a separate case and is NOT listed here — its content is entire, printed under mantra 1, so it is a unit mismatch rather than a gap.",
     "contained_in": [
       {
         "work": "satapatha_brahmana",
@@ -432,30 +427,43 @@
         {
           "number": "5.2",
           "text": "यत्सप्तान्नानि मेधया तपसाऽजनयत्पितेति मेधया हि तपसाजनयत् पितैकमस्य साधारणमितीदमेवास्य तत्साधारणमन्नम् यदिदमद्यते । स य एतदुपास्ते न स पाप्मनो व्यावर्तते मिश्रꣳ ह्येतत् । द्वे देवानभाजयदिति इति हुतं च प्रहुतं च तस्माद् देवेभ्यो जुह्वति च प्र च जुह्वत्य् अथो आहुर् दर्शपूर्णमासाविति । तस्मान्नेष्टियाजुकः स्यात् । पशुभ्य एकं प्रायच्छदिति इति तत्पयः । पयो ह्येवाग्रे मनुष्याश्च पशवश्चोपजीवन्ति । तस्मात् कुमारं जातं घृतं वै वाग्रे प्रतिलेहयन्ति स्तनं वाऽनुधापयन्त्य् अथ वत्सं जातमाहुर् आहुः अतृणाद इति । तस्मिन्सर्वं प्रतिष्ठितं यच्च प्राणिति यच्च नेति पयसि हीदꣳ सर्वं प्रतिष्ठितम् यच्च प्राणिति यच्च न । तद्यदिदमाहुः संवत्सरं पयसा जुह्वदप पुनर्मृत्युं जयतीति इति न तथा विद्याद् यदहरेव जुहोति तदहः पुनर्मृत्युमपजयत्येवं विद्वान् सर्वꣳ हि देवेभ्योऽन्नाद्यं प्रयच्छति । कस्मात्तानि न क्षीयन्तेऽद्यमानानि सर्वदेति पुरुषो वा अक्षितिः स हीदमन्नं पुनः पुनर्जनयते । यो वै तामक्षितिं वेदेति पुरुषो वा अक्षितिः । स हीदमन्नं धिया धिया जनयते कर्मभिर् यद्धैतन्न कुर्यात् क्षीयेत ह । सोऽन्नमत्ति प्रतीकेनेति मुखं प्रतीकम् मुखेनेत्येतत् स देवानपिगच्छति स ऊर्जमुपजीवतीति प्रशꣳसा ॥ २ ॥",
-          "english": "'When the Father produced seven foods'—this means that the Father created them through meditation and karma. 'One was common to all'—that is the food eaten here by all beings; he who worships this food is not freed from evil, for it is shared by all. 'Two he assigned to the gods'—these are the oblations (Huta) and sacrifices (Prahuta); therefore people offer oblations and perform sacrifices for the gods. Others say they are the new-moon and full-moon sacrifices. Therefore one should not perform rituals merely for worldly gain. 'One he gave to the animals'—that is milk, for at first human beings and animals live on milk alone. Hence they feed a newborn baby first with clarified butter or milk, and call a newborn calf 'one that does not eat grass'. 'On this everything rests, both what breathes and what does not'—for on milk everything is supported. It is said that by offering libations of milk for a year one overcomes recurrent death; but one should not view it thus, for on the very day he offers libations he who knows this overcomes recurrent death, because he offers all food to the deities.",
-          "hindi": "'जब पिता ने सात अन्न उत्पन्न किए'—इसका अर्थ है कि पिता ने ज्ञान और कर्म से उन्हें रचा। 'एक अन्न सबका सामान्य था'—यह वह अन्न है जिसे यहाँ सब प्राणी खाते हैं; जो केवल इस अन्न की उपासना करता है, वह पाप से मुक्त नहीं होता, क्योंकि यह सबका साझा है। 'दो अन्न देवताओं को सौंपे'—वे हुत (अग्निहोत्र आहुति) और प्रहुत (बलिदान) हैं; इसीलिए लोग देवताओं के लिए आहुति देते हैं। अन्य कहते हैं कि वे दर्श और पूर्णमास यज्ञ हैं। 'एक अन्न पशुओं को दिया'—वह दूध है, क्योंकि जन्म के समय मनुष्य और पशु केवल दूध पर जीवित रहते हैं। इसीलिए नवजात शिशु को पहले घी या दूध पिलाते हैं और बछड़े को 'तृण न खाने वाला' कहते हैं। 'इसी पर सब आश्रित हैं'—क्योंकि दूध पर ही सब आधारित है। कहा जाता है कि एक वर्ष तक दूध की आहुति देने से पुनर्मृत्यु जीती जाती है; किन्तु ज्ञानी के लिए ऐसा नहीं सोचना चाहिए, क्योंकि जिस दिन वह आहुति देता है उसी दिन पुनर्मृत्यु को जीत लेता है, क्योंकि वह संपूर्ण अन्न देवताओं को अर्पित कर देता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "'When the Father produced seven foods'—this means that the Father created them through meditation and karma. 'One was common to all'—that is the food eaten here by all beings; he who worships this food is not freed from evil, for it is shared by all. 'Two he assigned to the gods'—these are the oblations (Huta) and sacrifices (Prahuta); therefore people offer oblations and perform sacrifices for the gods. Others say they are the new-moon and full-moon sacrifices. Therefore one should not perform rituals merely for worldly gain. 'One he gave to the animals'—that is milk, for at first human beings and animals live on milk alone. Hence they feed a newborn baby first with clarified butter or milk, and call a newborn calf 'one that does not eat grass'. 'On this everything rests, both what breathes and what does not'—for on milk everything is supported. It is said that by offering libations of milk for a year one overcomes recurrent death; but one should not view it thus, for on the very day he offers libations he who knows this overcomes recurrent death, because he offers all food to the deities. Why do these foods not decrease, though they are constantly eaten? Verily, the Person (Purusha) is the non-decrease (akshiti), for he produces this food again and again. He who knows this non-decrease produces food through meditation and karma. If he did not do so, the food would indeed be exhausted. He eats food with his mouth (pratika), namely Prana. He goes to the gods and attains divine life—this is praise.",
+          "hindi_draft": "'जब पिता ने सात अन्न उत्पन्न किए'—इसका अर्थ है कि पिता ने ज्ञान और कर्म से उन्हें रचा। 'एक अन्न सबका सामान्य था'—यह वह अन्न है जिसे यहाँ सब प्राणी खाते हैं; जो केवल इस अन्न की उपासना करता है, वह पाप से मुक्त नहीं होता, क्योंकि यह सबका साझा है। 'दो अन्न देवताओं को सौंपे'—वे हुत (अग्निहोत्र आहुति) और प्रहुत (बलिदान) हैं; इसीलिए लोग देवताओं के लिए आहुति देते हैं। अन्य कहते हैं कि वे दर्श और पूर्णमास यज्ञ हैं। 'एक अन्न पशुओं को दिया'—वह दूध है, क्योंकि जन्म के समय मनुष्य और पशु केवल दूध पर जीवित रहते हैं। इसीलिए नवजात शिशु को पहले घी या दूध पिलाते हैं और बछड़े को 'तृण न खाने वाला' कहते हैं। 'इसी पर सब आश्रित हैं'—क्योंकि दूध पर ही सब आधारित है। कहा जाता है कि एक वर्ष तक दूध की आहुति देने से पुनर्मृत्यु जीती जाती है; किन्तु ज्ञानी के लिए ऐसा नहीं सोचना चाहिए, क्योंकि जिस दिन वह आहुति देता है उसी दिन पुनर्मृत्यु को जीत लेता है, क्योंकि वह संपूर्ण अन्न देवताओं को अर्पित कर देता है। ये अन्न निरन्तर खाए जाने पर भी क्षीण क्यों नहीं होते? निश्चय ही, वह पुरुष (उपभोक्ता) ही अक्षयता (अक्षिति) है, क्योंकि वह ध्यान और कर्म से इस अन्न को बार-बार उत्पन्न करता है। जो इस अक्षयता को जानता है, वह सतत अन्न का सृजन करता है। यदि वह ऐसा न करे, तो अन्न समाप्त हो जाए। वह अपने मुख (प्राण) से अन्न ग्रहण करता है। वह देवताओं को प्राप्त होता है—यह उसकी प्रशंसा है।"
         },
         {
           "number": "5.3",
           "text": "त्रीण्यात्मनेऽकुरुतेति मनो वाचं प्राणम् तान्यात्मनेऽकुरुतान्यत्रमना अभूवम् नादर्शम् अन्यत्रमना अभूवम् नाश्रौषमिति मनसा ह्येव पश्यति मनसा श‍ृणोति । कामः सङ्कल्पो विचिकित्सा श्रद्धाऽश्रद्धा धृतिरधृतिर्ह्रीर्धीर्भीरित्येतत्सर्वं मन एव । तस्मादपि पृष्ठत उपस्पृष्टो मनसा विजानाति । यः कश्च शब्दो वागेव सैषा ह्यन्तमायत्तैषा हि न । प्राणोऽपानो व्यान उदानः समानोऽन इत्येतत्सर्वं प्राण एवैतन्मयो वा अयमात्मा वाङ्मयो मनोमयः प्राणमयः ॥ ३ ॥",
-          "english": "Why do these foods not decrease, though they are constantly eaten? Verily, the Person (Purusha) is the non-decrease (akshiti), for he produces this food again and again. He who knows this non-decrease produces food through meditation and karma. If he did not do so, the food would indeed be exhausted. He eats food with his mouth (pratika), namely Prana. He goes to the gods and attains divine life—this is praise.",
-          "hindi": "ये अन्न निरन्तर खाए जाने पर भी क्षीण क्यों नहीं होते? निश्चय ही, वह पुरुष (उपभोक्ता) ही अक्षयता (अक्षिति) है, क्योंकि वह ध्यान और कर्म से इस अन्न को बार-बार उत्पन्न करता है। जो इस अक्षयता को जानता है, वह सतत अन्न का सृजन करता है। यदि वह ऐसा न करे, तो अन्न समाप्त हो जाए। वह अपने मुख (प्राण) से अन्न ग्रहण करता है। वह देवताओं को प्राप्त होता है—यह उसकी प्रशंसा है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "5.4",
           "text": "त्रयो लोका एत एव वागेवायं लोको मनोऽन्तरिक्षलोकः प्राणोऽसौ लोकः ॥ ४ ॥",
-          "english": "'Three he designed for himself'—these are Mind, Speech, and Prana. These three are the three worlds: Speech is this world (Earth), Mind is the atmosphere (Antariksha), and Prana is that world (Heaven).",
-          "hindi": "'तीन अन्न उसने अपने लिए रखे'—वे मन, वाणी और प्राण हैं। ये तीनों ही तीनों लोक हैं: वाणी यह पृथिवी लोक है, मन अन्तरिक्ष लोक है, और प्राण द्युलोक (स्वर्ग) है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "'Three he designed for himself'—these are Mind, Speech, and Prana. These three are the three worlds: Speech is this world (Earth), Mind is the atmosphere (Antariksha), and Prana is that world (Heaven).",
+          "hindi_draft": "'तीन अन्न उसने अपने लिए रखे'—वे मन, वाणी और प्राण हैं। ये तीनों ही तीनों लोक हैं: वाणी यह पृथिवी लोक है, मन अन्तरिक्ष लोक है, और प्राण द्युलोक (स्वर्ग) है।"
+        },
+        {
+          "number": "5.5",
+          "text": "त्रयो वेदा एत एव वागेवर्ग्वेदो यजुर्वेदः प्राणः सामवेदः ॥ ५ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "These three are the three Vedas: Speech is the Rig-Veda, Mind is the Yajur-Veda, and Prana is the Sama-Veda.",
+          "hindi_draft": "ये तीनों ही तीनों वेद हैं: वाणी ऋग्वेद है, मन यजुर्वेद है, और प्राण सामवेद है।"
         },
         {
           "number": "5.6",
           "text": "देवाः पितरो मनुष्या एत एव वागेव देवा मनः पितरः प्राणो मनुष्याः ।",
-          "english": "These three are the three Vedas: Speech is the Rig-Veda, Mind is the Yajur-Veda, and Prana is the Sama-Veda.",
-          "hindi": "ये तीनों ही तीनों वेद हैं: वाणी ऋग्वेद है, मन यजुर्वेद है, और प्राण सामवेद है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "5.7",
@@ -465,102 +473,142 @@
           "status": "translated"
         },
         {
+          "number": "5.8",
+          "text": "विज्ञातं विजिज्ञास्यमविज्ञातमेत एव यत्किञ्च विज्ञातं वाचस्तद्रूपम् वाग्घि विज्ञाता वागेनं तद्भूत्वाऽवति ॥ ८ ॥",
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "These three are what is known, what is to be known, and what is unknown. Whatever is known is a form of speech, for speech is the knower; speech protects him by becoming that.",
+          "hindi_draft": "ये तीनों ही ज्ञात, ज्ञेय और अज्ञात हैं। जो कुछ भी ज्ञात (जाना हुआ) है, वह वाणी का रूप है; क्योंकि वाणी ज्ञाता है, वाणी उस रूप बनकर उसकी रक्षा करती है।"
+        },
+        {
           "number": "5.9",
           "text": "यत्किञ्च विजिज्ञास्यं मनसस्तद्रूपम् मनो हि विजिज्ञास्यम् मन एनं तद्भूत्वाऽवति ॥ ९ ॥",
-          "english": "These three are what is known, what is to be known, and what is unknown. Whatever is known is a form of speech, for speech is the knower; speech protects him by becoming that.",
-          "hindi": "ये तीनों ही ज्ञात, ज्ञेय और अज्ञात हैं। जो कुछ भी ज्ञात (जाना हुआ) है, वह वाणी का रूप है; क्योंकि वाणी ज्ञाता है, वाणी उस रूप बनकर उसकी रक्षा करती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Whatever is to be known is a form of mind, for mind is what is to be known; mind protects him by becoming that.",
+          "hindi_draft": "जो कुछ भी ज्ञेय (जानने योग्य) है, वह मन का रूप है; क्योंकि मन ही ज्ञेय है, मन उस रूप बनकर उसकी रक्षा करता है।"
         },
         {
           "number": "5.10",
           "text": "यत्किञ्चाविज्ञातं प्राणस्य तद्रूपम् प्राणो ह्यविज्ञातः प्राण एनं तद्भूत्वाऽवति ॥ १० ॥",
-          "english": "Whatever is to be known is a form of mind, for mind is what is to be known; mind protects him by becoming that.",
-          "hindi": "जो कुछ भी ज्ञेय (जानने योग्य) है, वह मन का रूप है; क्योंकि मन ही ज्ञेय है, मन उस रूप बनकर उसकी रक्षा करता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Whatever is unknown is a form of Prana, for Prana is unknown; Prana protects him by becoming that.",
+          "hindi_draft": "जो कुछ भी अज्ञात (न जाना हुआ) है, वह प्राण का रूप है; क्योंकि प्राण अज्ञात है, प्राण उस रूप बनकर उसकी रक्षा करता है।"
         },
         {
           "number": "5.11",
           "text": "तस्यै वाचः पृथिवी शरीरम् ज्योती रूपमयमग्निस् तद्यावत्येव वाक् तावती पृथिवी तावानयमग्निः ॥ ११ ॥",
-          "english": "Whatever is unknown is a form of Prana, for Prana is unknown; Prana protects him by becoming that.",
-          "hindi": "जो कुछ भी अज्ञात (न जाना हुआ) है, वह प्राण का रूप है; क्योंकि प्राण अज्ञात है, प्राण उस रूप बनकर उसकी रक्षा करता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The earth is the body of this Speech, and light is its luminous form—yonder Fire. As far as Speech extends, so far extends the earth, and so far extends Fire.",
+          "hindi_draft": "इस वाणी का शरीर यह पृथिवी है और इसका प्रकाश स्वरूप वह अग्नि है। जहाँ तक वाणी का विस्तार है, वहाँ तक पृथिवी और अग्नि का विस्तार है।"
         },
         {
           "number": "5.12",
           "text": "अथैतस्य मनसो द्यौः शरीरम् ज्योतीरूपमसावादित्यस् तद्यावदेव मनस्तावती द्यौस् तावानसावादित्यस् तौ मिथुनꣳ समैताम् ततः प्राणोऽजायत । स इन्द्रः स एषोऽसपत्नो द्वितीयो वै सपत्नो नास्य सपत्नो भवति य एवं वेद ॥ १२ ॥",
-          "english": "The earth is the body of this Speech, and light is its luminous form—yonder Fire. As far as Speech extends, so far extends the earth, and so far extends Fire.",
-          "hindi": "इस वाणी का शरीर यह पृथिवी है और इसका प्रकाश स्वरूप वह अग्नि है। जहाँ तक वाणी का विस्तार है, वहाँ तक पृथिवी और अग्नि का विस्तार है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Heaven is the body of this Mind, and light is its luminous form—yonder Sun. As far as Mind extends, so far extends Heaven, and so far extends the Sun. These two (Fire and Sun) united in marriage, and from that Prana was born. It is the supreme lord, without a rival. He who knows this has no rival.",
+          "hindi_draft": "इस मन का शरीर द्युलोक है और इसका प्रकाश स्वरूप वह सूर्य है। जहाँ तक मन का विस्तार है, वहाँ तक द्युलोक और सूर्य का विस्तार है। वे दोनों (अग्नि और सूर्य) मिथुनबद्ध हुए, जिससे प्राण का जन्म हुआ। वह प्राण इन्द्र (सर्वोपरि स्वामी) है, जिसका कोई द्वेषी प्रतिद्वन्द्वी नहीं। जो इसे जानता है, उसका कोई प्रतिद्वन्द्वी नहीं रहता।"
         },
         {
           "number": "5.13",
           "text": "अथैतस्य प्राणस्याऽऽपः शरीरम् ज्योतीरूपमसौ चन्द्रस् तद्यावानेव प्राणस् तावत्य आपस् आपः तावानसौ चन्द्रः । त एते सर्व एव समाः सर्वेऽनन्ताः । स यो हैतानन्तवत उपास्ते ऽन्तवन्तꣳ स लोकं जयत्य् अथ यो हैताननन्तानुपास्ते ऽनन्तꣳ स लोकं जयति ॥ १३ ॥",
-          "english": "Heaven is the body of this Mind, and light is its luminous form—yonder Sun. As far as Mind extends, so far extends Heaven, and so far extends the Sun. These two (Fire and Sun) united in marriage, and from that Prana was born. It is the supreme lord, without a rival. He who knows this has no rival.",
-          "hindi": "इस मन का शरीर द्युलोक है और इसका प्रकाश स्वरूप वह सूर्य है। जहाँ तक मन का विस्तार है, वहाँ तक द्युलोक और सूर्य का विस्तार है। वे दोनों (अग्नि और सूर्य) मिथुनबद्ध हुए, जिससे प्राण का जन्म हुआ। वह प्राण इन्द्र (सर्वोपरि स्वामी) है, जिसका कोई द्वेषी प्रतिद्वन्द्वी नहीं। जो इसे जानता है, उसका कोई प्रतिद्वन्द्वी नहीं रहता।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Water is the body of this Prana, and light is its luminous form—yonder Moon. As far as Prana extends, so far extends water, and so far extends the Moon. These three are all equal, all infinite. He who worships them as finite wins a finite world, but he who worships them as infinite wins an infinite world.",
+          "hindi_draft": "इस प्राण का शरीर जल है और इसका प्रकाश स्वरूप वह चन्द्रमा है। जहाँ तक प्राण का विस्तार है, वहाँ तक जल और चन्द्रमा का विस्तार है। ये तीनों समान हैं और अनन्त हैं। जो इनकी परिमित (सीमित) मानकर उपासना करता है, वह परिमित लोक पाता है; और जो अनन्त मानकर उपासना करता है, वह अनन्त लोक प्राप्त करता है।"
         },
         {
           "number": "5.14",
           "text": "स एष संवत्सरः प्रजापतिः षोडशकलस् रात्रय एव पञ्चदश कला ध्रुवैवास्य षोडशी कला । स रात्रिभिरेवाऽऽ च पूर्यते ऽप च क्षीयते । सोऽमावास्याꣳ रात्रिमेतया षोडश्या कलया सर्वमिदं प्राणभृदनुप्रविश्य ततः प्रातर्जायते । तस्मादेताꣳ रात्रिं प्राणभृतः प्राणं न विच्छिन्द्यादपि कृकलासस्यैतस्या एव देवताया अपचित्यै ॥ १४ ॥",
-          "english": "Water is the body of this Prana, and light is its luminous form—yonder Moon. As far as Prana extends, so far extends water, and so far extends the Moon. These three are all equal, all infinite. He who worships them as finite wins a finite world, but he who worships them as infinite wins an infinite world.",
-          "hindi": "इस प्राण का शरीर जल है और इसका प्रकाश स्वरूप वह चन्द्रमा है। जहाँ तक प्राण का विस्तार है, वहाँ तक जल और चन्द्रमा का विस्तार है। ये तीनों समान हैं और अनन्त हैं। जो इनकी परिमित (सीमित) मानकर उपासना करता है, वह परिमित लोक पाता है; और जो अनन्त मानकर उपासना करता है, वह अनन्त लोक प्राप्त करता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Prajapati is the Year (Samvatsara), consisting of sixteen digits (kalas). His wealth consists of fifteen digits, and his sixteenth digit is his very self. He increases and decreases by wealth alone. On the new-moon night, entering with this sixteenth digit into all breathing creatures, he is born again the next morning. Therefore on that night one should not cut off the life of any living creature, not even of a lizard, in honor of that deity.",
+          "hindi_draft": "प्रजापति ही संवत्सर (वर्ष) है, जो सोलह कलाओं वाला है। उसकी पंद्रह कलाएँ उसका धन (सम्पत्ति) हैं, और उसकी सोलहवीं कला उसका अपना स्वरूप (आत्मा) है। वह धन के द्वारा ही घटता-बढ़ता है। अमावस्या की रात्रि को वह अपनी इसी सोलहवीं कला के साथ समस्त प्राणियों में प्रविष्ट होकर अगले दिन प्रातः पुनः जन्म लेता है। इसीलिए उस रात्रि को उस देवता के सम्मान में किसी भी प्राणी के प्राण नहीं लेने चाहिए, यहाँ तक कि छिपकली के भी नहीं।"
         },
         {
           "number": "5.15",
           "text": "यो वै स संवत्सरः प्रजापतिः षोडशकलो ऽयमेव स योऽयमेवंवित्पुरुषस् वित्तमेव पञ्चदश कला आत्मैवास्य षोडशी कला । स वित्तेनैवाऽऽ च पूर्यते ऽप च क्षीयते । तदेतन्नभ्यं यदयमात्मा प्रधिर्वित्तम् । तस्माद्यद्यपि सर्वज्यानिं जीयत आत्मना चेज्जीवति प्रधिनाऽगादित्येवाऽऽहुः ॥ १५ ॥",
-          "english": "Prajapati is the Year (Samvatsara), consisting of sixteen digits (kalas). His wealth consists of fifteen digits, and his sixteenth digit is his very self. He increases and decreases by wealth alone. On the new-moon night, entering with this sixteenth digit into all breathing creatures, he is born again the next morning. Therefore on that night one should not cut off the life of any living creature, not even of a lizard, in honor of that deity.",
-          "hindi": "प्रजापति ही संवत्सर (वर्ष) है, जो सोलह कलाओं वाला है। उसकी पंद्रह कलाएँ उसका धन (सम्पत्ति) हैं, और उसकी सोलहवीं कला उसका अपना स्वरूप (आत्मा) है। वह धन के द्वारा ही घटता-बढ़ता है। अमावस्या की रात्रि को वह अपनी इसी सोलहवीं कला के साथ समस्त प्राणियों में प्रविष्ट होकर अगले दिन प्रातः पुनः जन्म लेता है। इसीलिए उस रात्रि को उस देवता के सम्मान में किसी भी प्राणी के प्राण नहीं लेने चाहिए, यहाँ तक कि छिपकली के भी नहीं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "That person who knows this is himself Prajapati, consisting of sixteen digits. His fifteen digits are his wealth, and his sixteenth digit is his self. He increases and decreases by wealth alone. That self is the axle-nave of a wheel, and wealth is the outer rim. Therefore, even if one suffers total loss of wealth, if he himself lives, people say: 'He has only lost his outer rim.'",
+          "hindi_draft": "जो मनुष्य इस रहस्य को जानता है, वह स्वयं सोलह कलाओं वाला प्रजापति बनता है। उसकी पंद्रह कलाएँ उसका धन हैं और सोलहवीं कला उसका अपना आप (आत्मा) है। वह धन से ही घटता-बढ़ता है। वह आत्मा रथ के पहिये की नाभि (अक्ष) के समान है और धन उसका नेमि (बाहरी घेरा) है। इसलिए यदि किसी का संपूर्ण धन नष्ट भी हो जाए, किन्तु वह स्वयं जीवित रहे, तो लोग कहते हैं: 'केवल उसका बाहरी घेरा (सम्पत्ति) नष्ट हुआ है, वह स्वयं तो सुरक्षित है।'"
         },
         {
           "number": "5.16",
           "text": "अथ त्रयो वाव लोकाः मनुष्यलोका पितृलोको देवलोक इति । सोऽयं मनुष्यलोकः पुत्रेणैव जय्यो नान्येन कर्मणा कर्मणा पितृलोको विद्यया देवलोको देवलोको वै लोकानाꣳ श्रेष्ठस् तस्माद्विद्यां प्रशꣳसन्ति ॥ १६ ॥",
-          "english": "That person who knows this is himself Prajapati, consisting of sixteen digits. His fifteen digits are his wealth, and his sixteenth digit is his self. He increases and decreases by wealth alone. That self is the axle-nave of a wheel, and wealth is the outer rim. Therefore, even if one suffers total loss of wealth, if he himself lives, people say: 'He has only lost his outer rim.'",
-          "hindi": "जो मनुष्य इस रहस्य को जानता है, वह स्वयं सोलह कलाओं वाला प्रजापति बनता है। उसकी पंद्रह कलाएँ उसका धन हैं और सोलहवीं कला उसका अपना आप (आत्मा) है। वह धन से ही घटता-बढ़ता है। वह आत्मा रथ के पहिये की नाभि (अक्ष) के समान है और धन उसका नेमि (बाहरी घेरा) है। इसलिए यदि किसी का संपूर्ण धन नष्ट भी हो जाए, किन्तु वह स्वयं जीवित रहे, तो लोग कहते हैं: 'केवल उसका बाहरी घेरा (सम्पत्ति) नष्ट हुआ है, वह स्वयं तो सुरक्षित है।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Now there are three worlds: the world of men, the world of the ancestors, and the world of the gods. This world of men is to be won through a son alone, not by any other work; the world of the ancestors through work (rituals); and the world of the gods through knowledge. The world of the gods is indeed the best of worlds; therefore they praise knowledge.",
+          "hindi_draft": "अब तीन लोक हैं: मनुष्य-लोक, पितृ-लोक और देव-लोक। मनुष्य-लोक केवल पुत्र के द्वारा ही जीता जा सकता है, किसी अन्य कर्म से नहीं; पितृ-लोक कर्म (यज्ञ-अनुष्ठान) के द्वारा; और देव-लोक विद्या (ज्ञान) के द्वारा। देव-लोक वास्तव में समस्त लोकों में श्रेष्ठ है; इसीलिए विद्वान् ज्ञान की प्रशंसा करते हैं।"
         },
         {
           "number": "5.17",
           "text": "अथातः सम्प्रत्तिर् यदा प्रैष्यन्मन्यते ऽथ पुत्रमाह त्वं ब्रह्म त्वं यज्ञस् त्वं लोक इति । स पुत्रः प्रत्याहाहं ब्रह्माहं यज्ञो ऽहम् लोक इति । यद्वै किञ्चानूक्तम् तस्य सर्वस्य ब्रह्मेत्येकता । ये वै के च यज्ञास् तेषाꣳ सर्वेषां यज्ञ इत्येकता । ये वै केच लोकास् तेषाꣳ सर्वेषां लोक इत्येकतैतावद्वा इदꣳ सर्वम् एतन्मा सर्वꣳ सन्नयमितोऽभुनजदिति । इति तस्मात् पुत्रमनुशिष्टं लोक्यमाहुस् तस्मादेनमनुशासति । स यदैवंविदस्माल्लोकात्प्रैत्य् अथैभिरेव प्राणैः सह पुत्रमाविशति । स यद्यनेन किञ्चिदक्ष्णयाऽकृतं भवति तस्मादेनꣳ सर्वस्मात्पुत्रो मुञ्चति । तस्मात् पुत्रो नाम । स पुत्रेणैवास्मिंॅल्लोके प्रतितिष्ठत्य् अथैनमेते दैवाः प्राणा अमृता आविशन्ति ॥ १७ ॥",
-          "english": "Now there are three worlds: the world of men, the world of the ancestors, and the world of the gods. This world of men is to be won through a son alone, not by any other work; the world of the ancestors through work (rituals); and the world of the gods through knowledge. The world of the gods is indeed the best of worlds; therefore they praise knowledge.",
-          "hindi": "अब तीन लोक हैं: मनुष्य-लोक, पितृ-लोक और देव-लोक। मनुष्य-लोक केवल पुत्र के द्वारा ही जीता जा सकता है, किसी अन्य कर्म से नहीं; पितृ-लोक कर्म (यज्ञ-अनुष्ठान) के द्वारा; और देव-लोक विद्या (ज्ञान) के द्वारा। देव-लोक वास्तव में समस्त लोकों में श्रेष्ठ है; इसीलिए विद्वान् ज्ञान की प्रशंसा करते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Now follows the Sampratti (entrusting/transmission ritual). When a father thinks he is about to die, he calls his son and says: 'Thou art Brahman, thou art Sacrifice, thou art World.' The son answers: 'I am Brahman, I am Sacrifice, I am World.' Whatever has been studied by the father is all merged in the word Brahman; whatever sacrifices have been performed are all merged in Sacrifice; whatever worlds were to be won are all merged in World. All this extends so far. The father thinks: 'Being all this, my son will free me from this world.' Therefore they call an instructed son a world-winning son. Thus the father entrusts his duties to the son and remains in this world through him. When the father thus departs from this world, he enters into the son along with these Pranas (vital forces). If any duty has been left undone by him, the son fulfills it all, and thus frees his father. The father continues to exist in this world through the son. Then these divine, immortal Pranas enter into him (the father/son).",
+          "hindi_draft": "अब सम्प्रत्ति (पिता द्वारा पुत्र को कर्तव्य-सौंपने की विधि) का वर्णन है। जब पिता समझता है कि उसका अंत समय निकट है, तो वह पुत्र को बुलाकर कहता है: 'तुम ब्रह्म हो, तुम यज्ञ हो, तुम लोक हो।' पुत्र उत्तर देता है: 'मैं ब्रह्म हूँ, मैं यज्ञ हूँ, मैं लोक हूँ।' पिता ने जो कुछ अध्ययन किया था वह सब 'ब्रह्म' शब्द में समाहित हो जाता है; जो यज्ञ किए थे वे 'यज्ञ' में; और जो लोक जीतने थे वे 'लोक' में। पुत्र सोचता है: 'यह सब बनकर मैं पिता को ऋणों से मुक्त करूँगा।' इसीलिए शिक्षित पुत्र को 'लोकजित् पुत्र' कहते हैं। इस प्रकार पिता अपने कर्तव्यों को पुत्र में संक्रमित करके इस लोक में पुत्र-रूप से बना रहता है। जब पिता इस लोक से प्रयाण करता है, तो वह इन प्राणों के साथ पुत्र में प्रविष्ट होता है। यदि पिता द्वारा कोई कर्तव्य अधूरा रह गया हो, तो पुत्र उस सब को पूर्ण करता है और पिता को दोषों से मुक्त करता है। पुत्र के माध्यम से पिता इस लोक में बना रहता है। तब दिव्य, अमर प्राण उसमें प्रवेश करते हैं।"
         },
         {
           "number": "5.18",
           "text": "पृथिव्यै चैनमग्नेश्च दैवी वागाविशति । सा वै दैवी वाग्यया यद्यदेव वदति तत्तद्भवति ॥ १८ ॥",
-          "english": "Now follows the Sampratti (entrusting/transmission ritual). When a father thinks he is about to die, he calls his son and says: 'Thou art Brahman, thou art Sacrifice, thou art World.' The son answers: 'I am Brahman, I am Sacrifice, I am World.' Whatever has been studied by the father is all merged in the word Brahman; whatever sacrifices have been performed are all merged in Sacrifice; whatever worlds were to be won are all merged in World. All this extends so far. The father thinks: 'Being all this, my son will free me from this world.' Therefore they call an instructed son a world-winning son. Thus the father entrusts his duties to the son and remains in this world through him.",
-          "hindi": "अब सम्प्रत्ति (पिता द्वारा पुत्र को कर्तव्य-सौंपने की विधि) का वर्णन है। जब पिता समझता है कि उसका अंत समय निकट है, तो वह पुत्र को बुलाकर कहता है: 'तुम ब्रह्म हो, तुम यज्ञ हो, तुम लोक हो।' पुत्र उत्तर देता है: 'मैं ब्रह्म हूँ, मैं यज्ञ हूँ, मैं लोक हूँ।' पिता ने जो कुछ अध्ययन किया था वह सब 'ब्रह्म' शब्द में समाहित हो जाता है; जो यज्ञ किए थे वे 'यज्ञ' में; और जो लोक जीतने थे वे 'लोक' में। पुत्र सोचता है: 'यह सब बनकर मैं पिता को ऋणों से मुक्त करूँगा।' इसीलिए शिक्षित पुत्र को 'लोकजित् पुत्र' कहते हैं। इस प्रकार पिता अपने कर्तव्यों को पुत्र में संक्रमित करके इस लोक में पुत्र-रूप से बना रहता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From the earth and fire, the divine Speech enters into him. Verily, that is divine Speech through which whatever one speaks comes to pass.",
+          "hindi_draft": "पृथिवी और अग्नि से दिव्य वाणी उसमें प्रवेश करती है। निश्चय ही, वह दिव्य वाणी वही है जिसके द्वारा मनुष्य जो कुछ भी बोलता है, वह सत्य सिद्ध होता है।"
         },
         {
           "number": "5.19",
           "text": "दिवश्चैनमादित्याच्च दैवं मन आविशति । तद्वै दैवं मनो येनाऽऽनन्द्येव भवत्य् अथो न शोचति ॥ १९ ॥",
-          "english": "When the father thus departs from this world, he enters into the son along with these Pranas (vital forces). If any duty has been left undone by him, the son fulfills it all, and thus frees his father. The father continues to exist in this world through the son. Then these divine, immortal Pranas enter into him (the father/son).",
-          "hindi": "जब पिता इस लोक से प्रयाण करता है, तो वह इन प्राणों के साथ पुत्र में प्रविष्ट होता है। यदि पिता द्वारा कोई कर्तव्य अधूरा रह गया हो, तो पुत्र उस सब को पूर्ण करता है और पिता को दोषों से मुक्त करता है। पुत्र के माध्यम से पिता इस लोक में बना रहता है। तब दिव्य, अमर प्राण उसमें प्रवेश करते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From heaven and the sun, the divine Mind enters into him. Verily, that is divine Mind through which one becomes blissful alone and feels no sorrow.",
+          "hindi_draft": "द्युलोक और सूर्य से दिव्य मन उसमें प्रवेश करता है। निश्चय ही, दिव्य मन वह है जिससे मनुष्य केवल आनंदित रहता है और कभी शोक नहीं करता।"
+        },
+        {
+          "number": "5.20",
+          "text": "अद्भ्यश्चैनं चन्द्रमसश्च दैवः प्राण आविशति । स वै दैवः प्राणो यः सञ्चरꣳश्चासञ्चरꣳश्च न व्यथते ऽथो न रिष्यति । स एवंवित्सर्वेषां भूतानामात्मा भवति । यथैषा देवतैवꣳ स यथैतां देवताꣳ सर्वाणि भूतान्यवन्त्य् एवꣳ हैवंविदꣳ सर्वाणि भूतान्यवन्ति । यदु किञ्चेमाः प्रजाः शोचन्त्य् अमैवाऽऽसां तद्भवति पुण्यमेवामुं गच्छति न ह वै देवान्पापं गच्छति ॥ २० ॥",
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From water and the moon, the divine Prana enters into him. Verily, that is divine Prana which, whether moving or not moving, is never pained nor injured. He who knows this becomes the self of all beings. As is that deity (Prana), so does he become. As all beings respect that deity, so do all beings respect him who knows this. Whatever grief creatures suffer, it remains with them alone; only merit goes to him, for no evil approaches the gods.",
+          "hindi_draft": "जल और चन्द्रमा से दिव्य प्राण उसमें प्रवेश करता है। निश्चय ही, दिव्य प्राण वह है जो चलता हुआ या स्थिर रहता हुआ कभी दुखी या क्षत-विक्षत नहीं होता। जो इसे जानता है, वह सर्व-प्राणियों का आत्मा बन जाता है। जैसा वह प्राण-देवता है, वैसा ही वह बन जाता है। जैसे सब प्राणी उस देवता का आदर करते हैं, वैसे ही सब प्राणी ज्ञानी का आदर करते हैं। प्राणी जो भी दुख भोगते हैं, वह उन्हीं तक रहता है; ज्ञानी को केवल पुण्य प्राप्त होता है, क्योंकि देवताओं के पास पाप नहीं पहुँचता।"
         },
         {
           "number": "5.21",
           "text": "अथातो व्रतमीमाꣳसा । प्रजापतिर्ह कर्माणि ससृजे । तानि सृष्टान्यन्योऽन्येनास्पर्धन्त वदिष्याम्येवाहमिति वाग्दध्रे द्रक्ष्याम्यहमिति चक्षुः श्रोष्याम्यहमिति श्रोत्रम्। एवमन्यानि कर्माणि यथाकर्म । तानि मृत्युः श्रमो भूत्वोपयेमे तान्याप्नोत् तान्याप्त्वा मृत्युरवारुन्ध । तस्माच्छ्राम्यत्येव वाक् श्राम्यति चक्षुः श्राम्यति श्रोत्रम् अथेममेव नाऽऽप्नोद् योऽयं मध्यमः प्राणस् तानि ज्ञातुं दध्रिरे ऽयं वै नः श्रेष्ठो यः सञ्चरꣳश्चासञ्चरꣳश्च न व्यथते ऽथो न रिष्यति । हन्तास्यैव सर्वे रूपमसामेति । त एतस्यैव सर्वे रूपमभवꣳस् अभवन् तस्मादेत एतेनाऽऽख्यायन्ते प्राणा इति । तेन ह वाव तत्कुलमाचक्षते यस्मिन्कुले भवति य एवं वेद । य उ हैवंविदा स्पर्धतेऽनुशुष्यत्य् अनुशुष्य हैवान्ततो म्रियत इत्यध्यात्मम् ॥ २१ ॥",
-          "english": "From the earth and fire, the divine Speech enters into him. Verily, that is divine Speech through which whatever one speaks comes to pass.",
-          "hindi": "पृथिवी और अग्नि से दिव्य वाणी उसमें प्रवेश करती है। निश्चय ही, वह दिव्य वाणी वही है जिसके द्वारा मनुष्य जो कुछ भी बोलता है, वह सत्य सिद्ध होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "5.22",
           "text": "अथाधिदैवतम् ज्वलिष्याम्येवाहमित्यग्निर्दध्रे तप्स्याम्यहमित्यादित्यो भास्याम्यहमिति चन्द्रमा एवमन्या देवता यथादैवतꣳ । स यथैषां प्राणानां मध्यमः प्राण एवमेतासां देवतानां वायुर् निम्लोचन्ति ह्यन्या देवता न वायुः । सैषाऽनस्तमिता देवता यद्वायुः ॥ २२ ॥",
-          "english": "From heaven and the sun, the divine Mind enters into him. Verily, that is divine Mind through which one becomes blissful alone and feels no sorrow.",
-          "hindi": "द्युलोक और सूर्य से दिव्य मन उसमें प्रवेश करता है। निश्चय ही, दिव्य मन वह है जिससे मनुष्य केवल आनंदित रहता है और कभी शोक नहीं करता।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "5.23",
           "text": "अथैष श्लोको भवति यतश्चोदेति सूर्यो ऽस्तं यत्र च गच्छतीति इति प्राणाद्वा एष उदेति प्राणेऽस्तमेति तं देवाश्चक्रिरे धर्मꣳ, स एवाद्य स उ श्व इति । यद्वा एतेऽमुर्ह्यध्रियन्त तदेवाप्यद्य कुर्वन्ति । तस्मादेकमेव व्रतं चरेत् प्राण्याच्चैवापान्याच्च नेन्मा पाप्मा मृत्युराप्नवदिति । इति यद्यु चरेत् समापिपयिषेत् तेनो एतस्यै देवतायै सायुज्यꣳ सलोकतां जयति ॥ २३ ॥",
-          "english": "From water and the moon, the divine Prana enters into him. Verily, that is divine Prana which, whether moving or not moving, is never pained nor injured. He who knows this becomes the self of all beings. As is that deity (Prana), so does he become. As all beings respect that deity, so do all beings respect him who knows this. Whatever grief creatures suffer, it remains with them alone; only merit goes to him, for no evil approaches the gods.",
-          "hindi": "जल और चन्द्रमा से दिव्य प्राण उसमें प्रवेश करता है। निश्चय ही, दिव्य प्राण वह है जो चलता हुआ या स्थिर रहता हुआ कभी दुखी या क्षत-विक्षत नहीं होता। जो इसे जानता है, वह सर्व-प्राणियों का आत्मा बन जाता है। जैसा वह प्राण-देवता है, वैसा ही वह बन जाता है। जैसे सब प्राणी उस देवता का आदर करते हैं, वैसे ही सब प्राणी ज्ञानी का आदर करते हैं। प्राणी जो भी दुख भोगते हैं, वह उन्हीं तक रहता है; ज्ञानी को केवल पुण्य प्राप्त होता है, क्योंकि देवताओं के पास पाप नहीं पहुँचता।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "6.1",
@@ -802,37 +850,45 @@
         {
           "number": "4.1",
           "text": "मैत्रेयीति होवाच याज्ञवल्क्य उद्यास्यन्वा अरेऽहमस्मात्स्थानादस्मि । हन्त तेऽनया कात्यायन्याऽन्तं करवाणीति ॥ १ ॥",
-          "english": "Yajnavalkya had two wives: Maitreyi and Katyayani. Of these, Maitreyi was accustomed to discourse on Brahman, while Katyayani possessed only an ordinary woman's knowledge. Now Yajnavalkya was about to enter upon another mode of life (renunciation/Sannyasa).",
-          "hindi": "महर्षि याज्ञवल्क्य की दो पत्नियाँ थीं: मैत्रेयी और कात्यायनी। इनमें से मैत्रेयी ब्रह्म-विचार (आत्म-ज्ञान) करने में रुचि रखती थी, जबकि कात्यायनी केवल साधारण स्त्री-बुद्धि वाली थी। अब याज्ञवल्क्य दूसरे आश्रम (संन्यास आश्रम) में प्रवेश करने वाले थे।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Yajnavalkya said: 'O Maitreyi, I am about to renounce this household life. Come, let me make a final settlement between you and Katyayani.'",
+          "hindi_draft": "याज्ञवल्क्य ने कहा: 'हे मैत्रेयी! मैं इस गृहस्थ आश्रम का परित्याग करके संन्यास लेने जा रहा हूँ। आओ, मैं तुम्हारे और कात्यायनी के बीच अपनी सम्पत्ति का बँटवारा कर दूँ।'"
         },
         {
           "number": "4.2",
           "text": "सा होवाच मैत्रेयी यन्नु म इयम् भगोः सर्वा पृथिवी वित्तेन पूर्णा स्यात् कथं तेनामृता स्यामिति । नेति होवाच याज्ञवल्क्यो यथैवोपकरणवतां जीवितम् तथैव ते जीवितꣳ स्याद् अमृतत्वस्य तु नाऽऽशाऽस्ति वित्तेनेति ॥ २ ॥",
-          "english": "Yajnavalkya said: 'O Maitreyi, I am about to renounce this household life. Come, let me make a final settlement between you and Katyayani.'",
-          "hindi": "याज्ञवल्क्य ने कहा: 'हे मैत्रेयी! मैं इस गृहस्थ आश्रम का परित्याग करके संन्यास लेने जा रहा हूँ। आओ, मैं तुम्हारे और कात्यायनी के बीच अपनी सम्पत्ति का बँटवारा कर दूँ।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Maitreyi said: 'My Lord, if indeed this whole earth filled with wealth were mine, would I become immortal through it?' 'No,' said Yajnavalkya, 'your life would be just like the life of wealthy people, but there is no hope of immortality through wealth.'",
+          "hindi_draft": "मैत्रेयी ने कहा: 'हे भगवन्! यदि धन से परिपूर्ण यह संपूर्ण पृथिवी मेरी हो जाए, तो क्या मैं उससे अमर हो जाऊँगी?' याज्ञवल्क्य ने कहा: 'नहीं, तुम्हारा जीवन भी वैसा ही हो जाएगा जैसा धनवानों का जीवन होता है, किन्तु धन से अमरता की कोई आशा नहीं है।'"
         },
         {
           "number": "4.3",
           "text": "सा होवाच मैत्रेयी येनाहं नामृता स्याम् किमहं तेन कुर्याम् । यदेव भगवान्वेद तदेव मे ब्रूहीति ॥ ३ ॥",
-          "english": "Maitreyi said: 'My Lord, if indeed this whole earth filled with wealth were mine, would I become immortal through it?' 'No,' said Yajnavalkya, 'your life would be just like the life of wealthy people, but there is no hope of immortality through wealth.'",
-          "hindi": "मैत्रेयी ने कहा: 'हे भगवन्! यदि धन से परिपूर्ण यह संपूर्ण पृथिवी मेरी हो जाए, तो क्या मैं उससे अमर हो जाऊँगी?' याज्ञवल्क्य ने कहा: 'नहीं, तुम्हारा जीवन भी वैसा ही हो जाएगा जैसा धनवानों का जीवन होता है, किन्तु धन से अमरता की कोई आशा नहीं है।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Maitreyi said: 'What should I do with that by which I do not become immortal? Tell me, My Lord, that alone which you know to be the means to immortality.'",
+          "hindi_draft": "मैत्रेयी ने कहा: 'जिससे मैं अमर न हो सकूँ, उसका मैं क्या करूँगी? हे भगवन्! आप अमरता का जो साधन जानते हैं, केवल वही मुझे बतलाइए।'"
         },
         {
           "number": "4.4",
           "text": "स होवाच याज्ञवल्क्यः प्रिया बतारे नः सती प्रियं भाषस एह्य् व्याख्यास्यामि ते । व्याचक्षाणस्य तु मे निदिध्यासस्वेति ॥ ४ ॥",
-          "english": "Maitreyi said: 'What should I do with that by which I do not become immortal? Tell me, My Lord, that alone which you know to be the means to immortality.'",
-          "hindi": "मैत्रेयी ने कहा: 'जिससे मैं अमर न हो सकूँ, उसका मैं क्या करूँगी? हे भगवन्! आप अमरता का जो साधन जानते हैं, केवल वही मुझे बतलाइए।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Yajnavalkya said: 'Dear as you are to me, you speak what is dear. Come, sit down, I will explain it to you; and as I explain, meditate on it.' He said: 'Verily, not for the sake of the husband is the husband dear, but for the sake of the Self is the husband dear. Not for the sake of the wife is the wife dear, but for the sake of the Self is the wife dear. Not for the sake of sons are sons dear, but for the sake of the Self are sons dear. Not for the sake of wealth is wealth dear, but for the sake of the Self is wealth dear. Not for the sake of the Brahmana is the Brahmana dear, but for the sake of the Self is the Brahmana dear. Not for the sake of the Kshatriya is the Kshatriya dear, but for the sake of the Self is the Kshatriya dear. Not for the sake of the worlds are the worlds dear, but for the sake of the Self are the worlds dear. Not for the sake of the gods are the gods dear, but for the sake of the Self are the gods dear. Not for the sake of all is all dear, but for the sake of the Self is all dear. Verily, O Maitreyi, the Self (Atman) should be seen, heard of, thought of, and meditated upon. By the realization of the Self through hearing, reflection, and meditation, all this becomes known.'",
+          "hindi_draft": "याज्ञवल्क्य ने कहा: 'तुम मेरी प्रिय हो और प्रिय बात कह रही हो। आओ, बैठो, मैं तुम्हें उपदेश करूँगा; और जब मैं व्याख्या करूँ, तो उस पर ध्यान लगाना।' उन्होंने कहा: 'हे मैत्रेयी! निश्चय ही पति के प्रयोजन के लिए पति प्रिय नहीं होता, बल्कि आत्मा (अपने आप) के प्रयोजन के लिए पति प्रिय होता है। पत्नी के प्रयोजन के लिए पत्नी प्रिय नहीं होती, बल्कि आत्मा के लिए पत्नी प्रिय होती है। पुत्रों के प्रयोजन के लिए पुत्र प्रिय नहीं होते, बल्कि आत्मा के लिए पुत्र प्रिय होते हैं। धन के प्रयोजन के लिए धन प्रिय नहीं होता, बल्कि आत्मा के लिए धन प्रिय होता है। ब्राह्मण, क्षत्रिय, लोक, देव और सर्व वस्तुएँ अपने-अपने लिए प्रिय नहीं होतीं, बल्कि केवल आत्मा के लिए प्रिय होती हैं। हे मैत्रेयी! आत्मा ही दर्शन योग्य (Drashtavya), श्रवण योग्य (Shrotavya), मनन योग्य (Mantavya) और निदिध्यासन योग्य (Nididhyasitavya) है। आत्मा के श्रवण, मनन और ध्यान द्वारा यह सब कुछ ज्ञात हो जाता है।'"
         },
         {
           "number": "4.5",
           "text": "स होवाच याज्ञवल्क्यस् न वा अरे पत्युः कामाय पतिः प्रियो भवत्य् आत्मनस्तु कामाय पतिः प्रियो भवति । न वा अरे जायायै कामाय जाया प्रिया भवत्य् आत्मनस्तु कामाय जाया प्रिया भवति । न वा अरे पुत्राणां कामाय पुत्राः प्रिया भवन्त्य् आत्मनस्तु कामाय पुत्राः प्रिया भवन्ति । न वा अरे वित्तस्य कामाय वित्तं प्रियं भवत्य् आत्मनस्तु कामाय वित्तं प्रियं भवति । न वा अरे ब्रह्मणः कामाय ब्रह्म प्रियं भवत्य् आत्मनस्तु कामाय ब्रह्म प्रियं भवति । न वा अरे क्षत्रस्य कामाय क्षत्रं प्रियं भवत्य् आत्मनस्तु कामाय क्षत्रं प्रियं भवति । न वा अरे लोकानां कामाय लोकाः प्रिया भवन्त्य् आत्मनस्तु कामाय लोकाः प्रिया भवन्ति । न वा अरे देवानां कामाय देवाः प्रिया भवन्त्य् आत्मनस्तु कामाय देवाः प्रिया भवन्ति । न वा अरे भूतानां कामाय भूतानि प्रियाणि भवन्त्य् आत्मनस्तु कामाय भूतानि प्रियाणि भवन्ति । न वा अरे सर्वस्य कामाय सर्वं प्रियं भवत्य् आत्मनस्तु कामाय सर्वं प्रियं भवत्य् आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यो । मैत्रेय्य् आत्मनो वा अरे दर्शनेन श्रवणेन मत्या विज्ञानेनेदꣳ सर्वं विदितम् ॥ ५ ॥",
-          "english": "Yajnavalkya said: 'Dear as you are to me, you speak what is dear. Come, sit down, I will explain it to you; and as I explain, meditate on it.' He said: 'Verily, not for the sake of the husband is the husband dear, but for the sake of the Self is the husband dear. Not for the sake of the wife is the wife dear, but for the sake of the Self is the wife dear. Not for the sake of sons are sons dear, but for the sake of the Self are sons dear. Not for the sake of wealth is wealth dear, but for the sake of the Self is wealth dear. Not for the sake of the Brahmana is the Brahmana dear, but for the sake of the Self is the Brahmana dear. Not for the sake of the Kshatriya is the Kshatriya dear, but for the sake of the Self is the Kshatriya dear. Not for the sake of the worlds are the worlds dear, but for the sake of the Self are the worlds dear. Not for the sake of the gods are the gods dear, but for the sake of the Self are the gods dear. Not for the sake of all is all dear, but for the sake of the Self is all dear. Verily, O Maitreyi, the Self (Atman) should be seen, heard of, thought of, and meditated upon. By the realization of the Self through hearing, reflection, and meditation, all this becomes known.'",
-          "hindi": "याज्ञवल्क्य ने कहा: 'तुम मेरी प्रिय हो और प्रिय बात कह रही हो। आओ, बैठो, मैं तुम्हें उपदेश करूँगा; और जब मैं व्याख्या करूँ, तो उस पर ध्यान लगाना।' उन्होंने कहा: 'हे मैत्रेयी! निश्चय ही पति के प्रयोजन के लिए पति प्रिय नहीं होता, बल्कि आत्मा (अपने आप) के प्रयोजन के लिए पति प्रिय होता है। पत्नी के प्रयोजन के लिए पत्नी प्रिय नहीं होती, बल्कि आत्मा के लिए पत्नी प्रिय होती है। पुत्रों के प्रयोजन के लिए पुत्र प्रिय नहीं होते, बल्कि आत्मा के लिए पुत्र प्रिय होते हैं। धन के प्रयोजन के लिए धन प्रिय नहीं होता, बल्कि आत्मा के लिए धन प्रिय होता है। ब्राह्मण, क्षत्रिय, लोक, देव और सर्व वस्तुएँ अपने-अपने लिए प्रिय नहीं होतीं, बल्कि केवल आत्मा के लिए प्रिय होती हैं। हे मैत्रेयी! आत्मा ही दर्शन योग्य (Drashtavya), श्रवण योग्य (Shrotavya), मनन योग्य (Mantavya) और निदिध्यासन योग्य (Nididhyasitavya) है। आत्मा के श्रवण, मनन और ध्यान द्वारा यह सब कुछ ज्ञात हो जाता है।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "4.6",
@@ -863,32 +919,49 @@
           "status": "translated"
         },
         {
+          "number": "4.10",
+          "text": "स यथाऽऽर्द्रैधाग्नेरभ्याहितात्पृथग्धूमा विनिश्चरन्त्य् एवं वा अरेऽस्य महतो भूतस्य निःश्वसितमेतद् यदृग्वेदो यजुर्वेदः सामवेदोऽथर्वाङ्गिरस इतिहासः पुराणं विद्या उपनिषदः श्लोकाः सूत्राण्यनुव्याख्यानानि व्याख्यानान्य् अस्यैवैतानि निःश्वसितानि ॥ १० ॥",
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As from a fire laid with damp fuel various clouds of smoke issue forth, even so, O Maitreyi, from this Great Being has been breathed forth that which is Rig-Veda, Yajur-Veda, Sama-Veda, Atharvangirasa, History (Itihasa), Mythology (Purana), Arts, Upanishads, Verses, Aphorisms, Expositions, and Explanations. All these are breathed forth from It alone.",
+          "hindi_draft": "जैसे गीले ईंधन से जलाई गई अग्नि से नाना प्रकार के धुएँ के बादल निकलते हैं, वैसे ही हे मैत्रेयी! इस महान् परमेश्वर (परम आत्मा) के निश्वास से ऋग्वेद, यजुर्वेद, सामवेद, अथर्वाङ्गिरस, इतिहास, पुराण, विद्या, उपनिषद्, श्लोक, सूत्र, व्याख्यान और अनुव्याख्यान प्रकट हुए हैं। ये सब इसी परम ब्रह्म के निःश्वास हैं।"
+        },
+        {
           "number": "4.11",
           "text": "स यथा सर्वासामपाꣳ समुद्र एकायनम् एवꣳ सर्वेषाꣳ स्पर्शानां त्वगेकायनम् एवꣳ सर्वेषां गन्धानां नासिकैकायनम् एवꣳ सर्वेषाꣳ रसानां जिह्वैकायनम् एवꣳ सर्वेषाꣳ रूपाणां चक्षुरेकायनम् एवꣳ सर्वेषाꣳ शब्दानाꣳ श्रोत्रमेकायनम् एवꣳ सर्वेषाꣳ सङ्कल्पानां मन एकायनम् एवꣳ सर्वासां विद्यानाꣳ हृदयमेकायनम् एवꣳ सर्वेषां कर्मणाꣳ हस्तावेकायनम् एवꣳ सर्वेषामानन्दानामुपस्थ एकायनम् एवꣳ सर्वेषां विसर्गाणां पायुरेकायनम् एवꣳ सर्वेषामध्वनां पादावेकायनम् एवꣳ सर्वेषां वदानां वागेकायनम् ॥ ११ ॥",
-          "english": "As from a fire laid with damp fuel various clouds of smoke issue forth, even so, O Maitreyi, from this Great Being has been breathed forth that which is Rig-Veda, Yajur-Veda, Sama-Veda, Atharvangirasa, History (Itihasa), Mythology (Purana), Arts, Upanishads, Verses, Aphorisms, Expositions, and Explanations. All these are breathed forth from It alone.",
-          "hindi": "जैसे गीले ईंधन से जलाई गई अग्नि से नाना प्रकार के धुएँ के बादल निकलते हैं, वैसे ही हे मैत्रेयी! इस महान् परमेश्वर (परम आत्मा) के निश्वास से ऋग्वेद, यजुर्वेद, सामवेद, अथर्वाङ्गिरस, इतिहास, पुराण, विद्या, उपनिषद्, श्लोक, सूत्र, व्याख्यान और अनुव्याख्यान प्रकट हुए हैं। ये सब इसी परम ब्रह्म के निःश्वास हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As the ocean is the one goal of all waters, as the skin is the one goal of all touches, as the nostrils are the one goal of all odors, as the tongue is the one goal of all tastes, as the eye is the one goal of all forms, as the ear is the one goal of all sounds, as the mind is the one goal of all resolves, as the heart is the one goal of all sciences, as the hands are the one goal of all works, as the feet are the one goal of all movements, as speech is the one goal of all Vedas.",
+          "hindi_draft": "जैसे समस्त जलों का एक मात्र लय-स्थान समुद्र है, समस्त स्पर्शों का त्वचा, समस्त गन्धों का नासिका, समस्त रसों का रसना (जीभ), समस्त रूपों का चक्षु, समस्त शब्दों का कान, समस्त संकल्पों का मन, समस्त विद्याओं का हृदय, समस्त कर्मों का हाथ, समस्त गतियों का पैर, और समस्त वेदों का एक मात्र लय-स्थान वाणी है।"
         },
         {
           "number": "4.12",
           "text": "स यथा सैन्धवखिल्य उदके प्रास्त उदकमेवानुविलीयेत न हास्योद्ग्रहणायेव न हास्योद्ग्रहणायैव स्याद् यतो यतस्त्वाददीत लवणमेवैवं वा अर इदं महद् भूतमनन्तमपारं विज्ञानघन एवैतेभ्यो भूतेभ्यः समुत्थाय तान्येवानुविनश्यति न प्रेत्य सञ्ज्ञाऽस्तीत्यरे ब्रवीमीति होवाच याज्ञवल्क्यः ॥ १२ ॥",
-          "english": "As the ocean is the one goal of all waters, as the skin is the one goal of all touches, as the nostrils are the one goal of all odors, as the tongue is the one goal of all tastes, as the eye is the one goal of all forms, as the ear is the one goal of all sounds, as the mind is the one goal of all resolves, as the heart is the one goal of all sciences, as the hands are the one goal of all works, as the feet are the one goal of all movements, as speech is the one goal of all Vedas.",
-          "hindi": "जैसे समस्त जलों का एक मात्र लय-स्थान समुद्र है, समस्त स्पर्शों का त्वचा, समस्त गन्धों का नासिका, समस्त रसों का रसना (जीभ), समस्त रूपों का चक्षु, समस्त शब्दों का कान, समस्त संकल्पों का मन, समस्त विद्याओं का हृदय, समस्त कर्मों का हाथ, समस्त गतियों का पैर, और समस्त वेदों का एक मात्र लय-स्थान वाणी है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As a lump of salt dropped into water dissolves in water and cannot be picked up again, but wherever one takes water it tastes salty; even so, O Maitreyi, this Great Being, infinite, boundless, consisting of pure intelligence alone, arises from these elements and vanishes again into them. When it vanishes, there is no consciousness left (of duality/individuality). Thus I say, O Maitreyi.'",
+          "hindi_draft": "जैसे नमक का ढेला जल में फेंके जाने पर जल में पूरी तरह घुल जाता है और उसे पुन: अलग से नहीं निकाला जा सकता, किन्तु जहाँ से भी जल लिया जाए वह नमकीन ही लगता है; वैसे ही हे मैत्रेयी! यह महान्, अनन्त, अपार, केवल प्रज्ञानघन आत्मा इन भूतों से प्रकट होकर पुनः इन्हीं में विलीन हो जाता है। विलीन होने पर कोई (द्वैत/विशेष) संज्ञा नहीं रहती। हे मैत्रेयी! ऐसा मैं कहता हूँ।'"
         },
         {
           "number": "4.13",
           "text": "सा होवाच मैत्रेय्य् अत्रैव मा भगवानमूमुहद् न प्रेत्य सञ्ज्ञाऽस्तीति । इति स होवाच याज्ञवल्क्यस् न वा अरेऽहं मोहं ब्रवीम्य् अलं वा अर इदं विज्ञानाय ॥ १३ ॥",
-          "english": "As a lump of salt dropped into water dissolves in water and cannot be picked up again, but wherever one takes water it tastes salty; even so, O Maitreyi, this Great Being, infinite, boundless, consisting of pure intelligence alone, arises from these elements and vanishes again into them. When it vanishes, there is no consciousness left (of duality/individuality). Thus I say, O Maitreyi.'",
-          "hindi": "जैसे नमक का ढेला जल में फेंके जाने पर जल में पूरी तरह घुल जाता है और उसे पुन: अलग से नहीं निकाला जा सकता, किन्तु जहाँ से भी जल लिया जाए वह नमकीन ही लगता है; वैसे ही हे मैत्रेयी! यह महान्, अनन्त, अपार, केवल प्रज्ञानघन आत्मा इन भूतों से प्रकट होकर पुनः इन्हीं में विलीन हो जाता है। विलीन होने पर कोई (द्वैत/विशेष) संज्ञा नहीं रहती। हे मैत्रेयी! ऐसा मैं कहता हूँ।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Maitreyi said: 'Just here, My Lord, you have thrown me into confusion, by saying that when it vanishes there is no consciousness.' Yajnavalkya said: 'Certainly I am not saying anything confusing; this Self is indeed imperishable and of indestructible nature.'",
+          "hindi_draft": "मैत्रेयी ने कहा: 'यहाँ आपने मुझे भ्रम में डाल दिया कि विलीन होने पर कोई संज्ञा नहीं रहती।' याज्ञवल्क्य ने कहा: 'मैं कोई भ्रम की बात नहीं कह रहा; यह आत्मा अविनाशी और उच्छेद-रहित स्वभाव वाला है।'"
         },
         {
           "number": "4.14",
           "text": "यत्र हि द्वैतमिव भवति तदितर इतरं जिघ्रति तदितर इतरं पश्यति तदितर इतरꣳ श‍ृणोति तदितर इतरमभिवदति तदितर इतरं मनुते तदितर इतरं विजानाति । यत्र वा अस्य सर्वमात्मैवाभूत् तत्केन कं जिघ्रेत् तत्केन कं पश्येत् तत्केन कꣳ श‍ृणुयात् तत्केन कमभिवदेत् तत्केन कं मन्वीत तत्केन कं विजानीयात् । येनेदꣳ सर्वं विजानाति तं केन विजानीयाद् विज्ञातारमरे केन विजानीयादिति ॥ १४ ॥",
-          "english": "Maitreyi said: 'Just here, My Lord, you have thrown me into confusion, by saying that when it vanishes there is no consciousness.' Yajnavalkya said: 'Certainly I am not saying anything confusing; this Self is indeed imperishable and of indestructible nature. For where there is duality, as it were, there one sees another, smells another, hears another, speaks to another, thinks of another, knows another. But where everything has become the Self alone, then by what and whom should one see? By what and whom should one smell? By what and whom should one hear? By what and whom should one speak? By what and whom should one think? By what and whom should one know? By what should one know That by which all this is known? By what, O Maitreyi, should one know the Knower?'",
-          "hindi": "मैत्रेयी ने कहा: 'हे भगवन्! यहाँ आपने मुझे भ्रम में डाल दिया कि विलीन होने पर कोई संज्ञा (चेतना) नहीं रहती।' याज्ञवल्क्य ने कहा: 'हे मैत्रेयी! मैं कोई भ्रम की बात नहीं कह रहा हूँ; यह आत्मा अविनाशी और उच्छेद-रहित स्वभाव वाला है। क्योंकि जहाँ द्वैत सा होता है, वहाँ एक दूसरे को देखता है, सूँघता है, सुनता है, बोलता है, सोचता है और जानता है। किन्तु जहाँ सब कुछ आत्मा ही बन गया, वहाँ किसके द्वारा किसको देखे? किसके द्वारा किसको सूँघे? किसके द्वारा किसको सुने? किसके द्वारा किसको बोले? किसके द्वारा किसको सोचे? किसके द्वारा किसको जाने? जिसके द्वारा इस सब को जाना जाता है, उसको किस साधन से जाने? हे मैत्रेयी! उस सर्व-ज्ञाता (ज्ञाता) को भला किस साधन से जाना जा सकता है?'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "'For where there is duality, as it were, there one sees another, smells another, hears another, speaks to another, thinks of another, knows another. But where everything has become the Self alone, then by what and whom should one see? By what and whom should one smell? By what and whom should one hear? By what and whom should one speak? By what and whom should one think? By what and whom should one know? By what should one know That by which all this is known? By what, O Maitreyi, should one know the Knower?'",
+          "hindi_draft": "'क्योंकि जहाँ द्वैत सा होता है वहाँ एक दूसरे को देखता, सूँघता, सुनता, बोलता, सोचता और जानता है। किन्तु जहाँ सब कुछ आत्मा ही बन गया, वहाँ किसके द्वारा किसको देखे? किसके द्वारा किसको सुने? किसके द्वारा किसको जाने? जिसके द्वारा इस सब को जाना जाता है, उसको किस साधन से जाने? हे मैत्रेयी! उस सर्व-ज्ञाता को भला किस साधन से जाना जा सकता है?'"
         },
         {
           "number": "5.1",
@@ -2256,72 +2329,90 @@
         {
           "number": "5.6",
           "text": "स होवाच याज्ञवल्क्यस् न वा अरे पत्युः कामाय पतिः प्रियो भवत्य् आत्मनस्तु कामाय पतिः प्रियो भवति । न वा अरे जायायै कामाय जाया प्रिया भवत्य् आत्मनस्तु कामाय जाया प्रिया भवति । न वा अरे पुत्राणां कामाय पुत्राः प्रिया भवन्त्य् आत्मनस्तु कामाय पुत्राः प्रिया भवन्ति । न वा अरे वित्तस्य कामाय वित्तं प्रियं भवत्य् आत्मनस्तु कामाय वित्तं प्रियं भवति ॥ न वा अरे पशूनां कामाय पशवः प्रिया भवन्ति । वा अरे ब्रह्मणः कामाय ब्रह्म प्रियं भवत्य् आत्मनस्तु कामाय ब्रह्म प्रियं भवति । न वा अरे क्षत्रस्य कामाय क्षत्रं प्रियं भवत्य् आत्मनस्तु कामाय क्षत्रं प्रियं भवति । न वा अरे लोकानां कामाय लोकाः प्रिया भवन्त्य् आत्मनस्तु कामाय लोकाः प्रिया भवन्ति । न वा अरे देवानां कामाय देवाः प्रिया भवन्त्य् आत्मनस्तु कामाय देवाः प्रिया भवन्ति । न वा अरे वेदानां कामाय वेदाः प्रिया भवन्त्य् । वा अरे भूतानां कामाय भूतानि प्रियाणि भवन्त्य् आत्मनस्तु कामाय भूतानि प्रियाणि भवन्ति । न वा अरे सर्वस्य कामाय सर्वं प्रियं भवत्य् आत्मनस्तु कामाय सर्वं प्रियं भवत्य् आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यो मैत्रेय्य् आत्मनि खल्वरे दृष्टे श्रुते मते विज्ञात इदꣳ सर्वं विदितम् ।",
-          "english": "The Brahmana rejects him who knows the Brahmana to be different from the Self. The Kshatriya rejects him who knows the Kshatriya to be different from the Self. The worlds reject him who knows the worlds to be different from the Self. The gods reject him who knows the gods to be different from the Self. All rejects him who knows all to be different from the Self. This Brahmana, this Kshatriya, these worlds, these gods, and all this are the Self alone.",
-          "hindi": "ब्राह्मण उसको त्याग देता है जो उसे आत्मा से पृथक् जानता है; क्षत्रिय, लोक, देव और सर्व प्राणी उसको त्याग देते हैं जो उन्हें आत्मा से भिन्न मानता है। यह सब केवल आत्मा ही है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": "5.7",
           "text": "ब्रह्म तं परादाद् योऽन्यत्राऽऽत्मनो ब्रह्म वेद क्षत्रं तं परादाद् योऽन्यत्राऽऽत्मनः क्षत्रं वेद लोकास्तं परादुः योऽन्यत्राऽऽत्मनो लोकान्वेद देवास्तं परादुः योऽन्यत्रात्मनो देवान्वेद वेदास्तं परादुर् योऽन्यत्रात्मनो वेदान्वेद भूतानि तं परादुर् योऽन्यत्राऽऽत्मनो भूतानि वेद सर्वं तं परादाद् योऽन्यत्राऽऽत्मनः सर्वं वेद् एदं ब्रह्मेदं क्षत्रमिमे लोका इमे देवा इमे वेदा इमानि भूतानीदꣳ सर्वं यदयमात्मा ॥ ७ ॥",
-          "english": "As, when a drum is beaten, one cannot grasp the external sounds, but by grasping the drum or the beater of the drum the sound is grasped...",
-          "hindi": "जैसे दुन्दुभि बजने पर बाहरी शब्दों को नहीं पकड़ा जा सकता, किन्तु दुन्दुभि या बजाने वाले को पकड़ लेने पर शब्द पकड़ा जाता है...",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The Brahmana rejects him who knows the Brahmana to be different from the Self. The Kshatriya rejects him who knows the Kshatriya to be different from the Self. The worlds reject him who knows the worlds to be different from the Self. The gods reject him who knows the gods to be different from the Self. All rejects him who knows all to be different from the Self. This Brahmana, this Kshatriya, these worlds, these gods, and all this are the Self alone.",
+          "hindi_draft": "ब्राह्मण उसको त्याग देता है जो उसे आत्मा से पृथक् जानता है; क्षत्रिय, लोक, देव और सर्व प्राणी उसको त्याग देते हैं जो उन्हें आत्मा से भिन्न मानता है। यह सब केवल आत्मा ही है।"
         },
         {
           "number": "5.8",
           "text": "स यथा दुन्दुभेर्हन्यमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद् ग्रहणाय दुन्दुभेस्तु ग्रहणेन दुन्दुभ्याघातस्य वा शब्दो गृहीतः ॥ ८ ॥",
-          "english": "As, when a conch is blown, one cannot grasp the external sounds, but by grasping the conch or the blower of the conch the sound is grasped...",
-          "hindi": "जैसे शंख बजने पर बाहरी ध्वनि को पृथक् नहीं पकड़ा जा सकता, किन्तु शंख को पकड़ लेने पर शब्द पकड़ा जाता है...",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As, when a drum is beaten, one cannot grasp the external sounds, but by grasping the drum or the beater of the drum the sound is grasped...",
+          "hindi_draft": "जैसे दुन्दुभि बजने पर बाहरी शब्दों को नहीं पकड़ा जा सकता, किन्तु दुन्दुभि या बजाने वाले को पकड़ लेने पर शब्द पकड़ा जाता है..."
         },
         {
           "number": "5.9",
           "text": "स यथा शङ्खस्य ध्मायमानस्य न बाह्याञ्छब्दाञ्छक्नुयाद् ग्रहणाय शङ्खस्य तु ग्रहणेन शङ्खध्मस्य वा शब्दो गृहीतः ॥ ९ ॥",
-          "english": "As, when a veena is played, one cannot grasp the external sounds, but by grasping the veena or the player of the veena the sound is grasped...",
-          "hindi": "जैसे वीणा बजने पर उसके स्वरों को पृथक् नहीं पकड़ा जा सकता, किन्तु वीणा या वादक को पकड़ लेने पर स्वर गृहीत होता है...",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As, when a conch is blown, one cannot grasp the external sounds, but by grasping the conch or the blower of the conch the sound is grasped...",
+          "hindi_draft": "जैसे शंख बजने पर बाहरी ध्वनि को पृथक् नहीं पकड़ा जा सकता, किन्तु शंख को पकड़ लेने पर शब्द पकड़ा जाता है..."
         },
         {
           "number": "5.10",
           "text": "स यथा वीणायै वाद्यमानायै न बाह्याञ्छब्दाञ्छक्नुयाद्ग्रहणाय वीणायै तु ग्रहणेन वीणावादस्य वा शब्दो गृहीतः ॥ १० ॥",
-          "english": "As from a fire laid with damp fuel various clouds of smoke issue forth, even so, O Maitreyi, from this Great Being has been breathed forth that which is Rig-Veda, Yajur-Veda, Sama-Veda, Atharvangirasa, History, Mythology, Arts, Upanishads, Verses, Aphorisms, Expositions, and Explanations. All these are breathed forth from It alone.",
-          "hindi": "जैसे गीले ईंधन की अग्नि से धुआँ निकलता है, वैसे ही इस महान् परमेश्वर के निःश्वास से ऋग्वेद, यजुर्वेद, सामवेद, अथर्वाङ्गिरस, इतिहास, पुराण, उपनिषद् आदि समस्त शास्त्र प्रकट हुए हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As, when a veena is played, one cannot grasp the external sounds, but by grasping the veena or the player of the veena the sound is grasped...",
+          "hindi_draft": "जैसे वीणा बजने पर उसके स्वरों को पृथक् नहीं पकड़ा जा सकता, किन्तु वीणा या वादक को पकड़ लेने पर स्वर गृहीत होता है..."
         },
         {
           "number": "5.11",
           "text": "स यथाऽऽर्द्रैधाग्नेरभ्याहितस्य पृथग्धूमा विनिश्चरन्त्य् एवं वा अरेऽस्य महतो भूतस्य निःश्वसितमेतद्यदृग्वेदो यजुर्वेदः सामवेदोऽथर्वाङ्गिरस इतिहासः पुराणं विद्या उपनिषदः श्लोकाः सूत्राण्यनुव्याख्यानानि व्याख्यानानि इष्टꣳ हुतमाशितं पायितमयं च लोकः परश्च लोकः सर्वाणि च भूतान्यस्यैवैतानि सर्वाणि निःश्वसितानि ॥ ११ ॥",
-          "english": "As the ocean is the one goal of all waters, as the skin is the one goal of all touches, as the nostrils are the one goal of all odors, as the tongue is the one goal of all tastes, as the eye is the one goal of all forms, as the ear is the one goal of all sounds, as the mind is the one goal of all resolves, as the heart is the one goal of all sciences, as the hands are the one goal of all works, as the feet are the one goal of all movements, as speech is the one goal of all Vedas.",
-          "hindi": "जैसे समस्त जलों का एक मात्र स्थान समुद्र है, समस्त स्पर्शों का त्वचा, समस्त रसों का जीभ, समस्त रूपों का नेत्र, समस्त शब्दों का कान, समस्त संकल्पों का मन, समस्त विद्याओं का हृदय, और समस्त वेदों का एक मात्र स्थान वाणी है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As from a fire laid with damp fuel various clouds of smoke issue forth, even so, O Maitreyi, from this Great Being has been breathed forth that which is Rig-Veda, Yajur-Veda, Sama-Veda, Atharvangirasa, History, Mythology, Arts, Upanishads, Verses, Aphorisms, Expositions, and Explanations. All these are breathed forth from It alone.",
+          "hindi_draft": "जैसे गीले ईंधन की अग्नि से धुआँ निकलता है, वैसे ही इस महान् परमेश्वर के निःश्वास से ऋग्वेद, यजुर्वेद, सामवेद, अथर्वाङ्गिरस, इतिहास, पुराण, उपनिषद् आदि समस्त शास्त्र प्रकट हुए हैं।"
         },
         {
           "number": "5.12",
           "text": "स यथा सर्वासामपाꣳ समुद्र एकायनम् एवꣳ सर्वेषाꣳ स्पर्शानां त्वगेकायनम् एवꣳ सर्वेषां गन्धानां नासिकैकायनम् एवꣳ सर्वेषाꣳ रसानां जिह्वैकायनम् एवꣳ सर्वेषाꣳ रूपाणां चक्षुरेकायनम् एवꣳ सर्वेषं शब्दानां श्रोत्रमेकायनम् एवꣳ सर्वेषाꣳ सङ्कल्पानां मन एकायनम् मनस् एकायनम् एवꣳ सर्वासां विद्यानाꣳ हृदयमेकायनम् एवꣳ सर्वेषां कर्मणाꣳ हस्तावेकायनम् एवꣳ सर्वेषामानन्दानामुपस्थ एकायनम् एवꣳ सर्वेषां विसर्गाणां पायुरेकायनम् एवꣳ सर्वेषामध्वनां पादावेकायनम् एवꣳ सर्वेषां वेदानां वागेकायनम् ॥ १२ ॥",
-          "english": "As a lump of salt dropped into water dissolves in water and cannot be picked up again, but wherever one takes water it tastes salty; even so, O Maitreyi, this Great Being, infinite, boundless, consisting of pure intelligence alone, arises from these elements and vanishes again into them. When it vanishes, there is no consciousness left. Thus I say, O Maitreyi.'",
-          "hindi": "जैसे नमक का ढेला जल में घुलकर जलमय हो जाता है और पृथक् नहीं रहता, वैसे ही यह महान्, अनन्त, अपार प्रज्ञानघन आत्मा इन भूतों से प्रकट होकर पुनः इन्हीं में विलीन हो जाता है। विलीन होने पर कोई विशेष चेतना नहीं रहती। ऐसा मैं कहता हूँ।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As the ocean is the one goal of all waters, as the skin is the one goal of all touches, as the nostrils are the one goal of all odors, as the tongue is the one goal of all tastes, as the eye is the one goal of all forms, as the ear is the one goal of all sounds, as the mind is the one goal of all resolves, as the heart is the one goal of all sciences, as the hands are the one goal of all works, as the feet are the one goal of all movements, as speech is the one goal of all Vedas.",
+          "hindi_draft": "जैसे समस्त जलों का एक मात्र स्थान समुद्र है, समस्त स्पर्शों का त्वचा, समस्त रसों का जीभ, समस्त रूपों का नेत्र, समस्त शब्दों का कान, समस्त संकल्पों का मन, समस्त विद्याओं का हृदय, और समस्त वेदों का एक मात्र स्थान वाणी है।"
         },
         {
           "number": "5.13",
           "text": "स यथा सैन्धवघनोऽनन्तरोऽबाह्यः कृत्स्नो रसघन एवै स्यात् वं वा अरेऽयमात्मानन्तरोऽबाह्यः कृत्स्नः प्रज्ञानघन एवैतेभ्यो भूतेभ्यः समुत्थाय तान्येवानुविनयष्यतिति न प्रेत्य सञ्ज्ञाऽस्तीत्यरे ब्रवीमीति होवाच याज्ञवल्क्यः ॥ १३ ॥",
-          "english": "Maitreyi said: 'Just here, My Lord, you have thrown me into confusion, by saying that when it vanishes there is no consciousness.' Yajnavalkya said: 'Certainly I am not saying anything confusing; this Self is indeed imperishable and of indestructible nature.'",
-          "hindi": "मैत्रेयी ने कहा: 'यहाँ आपने मुझे भ्रम में डाल दिया कि विलीन होने पर कोई संज्ञा नहीं रहती।' याज्ञवल्क्य ने कहा: 'मैं कोई भ्रम की बात नहीं कह रहा; यह आत्मा अविनाशी और उच्छेद-रहित स्वभाव वाला है।'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "As a lump of salt dropped into water dissolves in water and cannot be picked up again, but wherever one takes water it tastes salty; even so, O Maitreyi, this Great Being, infinite, boundless, consisting of pure intelligence alone, arises from these elements and vanishes again into them. When it vanishes, there is no consciousness left. Thus I say, O Maitreyi.'",
+          "hindi_draft": "जैसे नमक का ढेला जल में घुलकर जलमय हो जाता है और पृथक् नहीं रहता, वैसे ही यह महान्, अनन्त, अपार प्रज्ञानघन आत्मा इन भूतों से प्रकट होकर पुनः इन्हीं में विलीन हो जाता है। विलीन होने पर कोई विशेष चेतना नहीं रहती। ऐसा मैं कहता हूँ।'"
         },
         {
           "number": "5.14",
           "text": "सा होवाच मैत्रेय्य् अत्रैव मा भगवान्मोहान्तमापीपिपन् न वा अहमिमं विजानामीति इति स होवाच याज्ञवल्क्यस् न वा अरेऽहं मोहं ब्रवीम्य् अविनाशी वा अरेऽयमात्माऽनुच्छित्तिधर्मा ॥ १४ ॥",
-          "english": "'For where there is duality, as it were, there one sees another, smells another, hears another, speaks to another, thinks of another, knows another. But where everything has become the Self alone, then by what and whom should one see? By what and whom should one smell? By what and whom should one hear? By what and whom should one speak? By what and whom should one think? By what and whom should one know? By what should one know That by which all this is known? By what, O Maitreyi, should one know the Knower?'",
-          "hindi": "'क्योंकि जहाँ द्वैत सा होता है वहाँ एक दूसरे को देखता, सूँघता, सुनता, बोलता, सोचता और जानता है। किन्तु जहाँ सब कुछ आत्मा ही बन गया, वहाँ किसके द्वारा किसको देखे? किसके द्वारा किसको सुने? किसके द्वारा किसको जाने? जिसके द्वारा इस सब को जाना जाता है, उसको किस साधन से जाने? हे मैत्रेयी! उस सर्व-ज्ञाता को भला किस साधन से जाना जा सकता है?'",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Maitreyi said: 'Just here, My Lord, you have thrown me into confusion, by saying that when it vanishes there is no consciousness.' Yajnavalkya said: 'Certainly I am not saying anything confusing; this Self is indeed imperishable and of indestructible nature.'",
+          "hindi_draft": "मैत्रेयी ने कहा: 'यहाँ आपने मुझे भ्रम में डाल दिया कि विलीन होने पर कोई संज्ञा नहीं रहती।' याज्ञवल्क्य ने कहा: 'मैं कोई भ्रम की बात नहीं कह रहा; यह आत्मा अविनाशी और उच्छेद-रहित स्वभाव वाला है।'"
         },
         {
           "number": "5.15",
           "text": "यत्र हि द्वैतमिव भवति तदितर इतरं पश्यति तदितर इतरं जिघ्रति तदितर इतरꣳ रसयते तदितर इतरमभिवदति तदितर इतरꣳ श‍ृणोति तदितर इतरं मनुते तदितर इतरꣳ स्पृशति तदितर इतरं विजानाति । यत्र त्वस्य सर्वमात्मैवाभूत् तत्केन कं पश्येत् तत्केन कं जिघ्रेत् तत्केन कꣳ रसयेत् तत्केन कमभिवदेत् तत्केन कꣳ श‍ृणुयात् तत्केन कं मन्वीत तत्केन कꣳ स्पृशेत् तत्केन कं विजानीयाद्येनेदꣳ सर्वं विजानाति नेत्याऽत्मागृह्यो न हि गृह्यते ऽशीर्यो न हि शीर्यते ऽसङ्गो न हि सज्यते ऽसितो न व्यथते न रिष्यति । विज्ञातारमरे केन विजानीयादित्युक्तानुशासनासि मैत्रेय्य् एतावदरे खल्वमृतत्वमिति होक्त्वा याज्ञवल्क्यो विजहार ॥ १५ ॥",
-          "english": "This Self is Neti, Neti (Not this, Not this). It is incomprehensible, for It cannot be comprehended; It is imperishable, for It cannot perish; It is unattached, for It does not attach Itself; It is unfettered, It does not suffer, It is not injured. By what, O Maitreyi, should one know the Knower? Thus you have been instructed, O Maitreyi. This much indeed is Immortality.' Having said this, Yajnavalkya departed (into Sannyasa).",
-          "hindi": "यह आत्मा 'नेति नेति' (यह नहीं, यह नहीं) है। यह अग्रह्य, अविनाशी, असंग और अव्यथित है। हे मैत्रेयी! उस ज्ञाता को किस साधन से जाने? इस प्रकार तुम्हें पूर्ण उपदेश दे दिया गया, हे मैत्रेयी! बस इतना ही अमरत्व (मोक्ष का साधन) है।' यह कहकर याज्ञवल्क्य संन्यास लेकर चले गए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "'For where there is duality, as it were, there one sees another, smells another, hears another, speaks to another, thinks of another, knows another. But where everything has become the Self alone, then by what and whom should one see? By what and whom should one smell? By what and whom should one hear? By what and whom should one speak? By what and whom should one think? By what and whom should one know? By what should one know That by which all this is known? By what, O Maitreyi, should one know the Knower?' This Self is Neti, Neti (Not this, Not this). It is incomprehensible, for It cannot be comprehended; It is imperishable, for It cannot perish; It is unattached, for It does not attach Itself; It is unfettered, It does not suffer, It is not injured. By what, O Maitreyi, should one know the Knower? Thus you have been instructed, O Maitreyi. This much indeed is Immortality.' Having said this, Yajnavalkya departed (into Sannyasa).",
+          "hindi_draft": "'क्योंकि जहाँ द्वैत सा होता है वहाँ एक दूसरे को देखता, सूँघता, सुनता, बोलता, सोचता और जानता है। किन्तु जहाँ सब कुछ आत्मा ही बन गया, वहाँ किसके द्वारा किसको देखे? किसके द्वारा किसको सुने? किसके द्वारा किसको जाने? जिसके द्वारा इस सब को जाना जाता है, उसको किस साधन से जाने? हे मैत्रेयी! उस सर्व-ज्ञाता को भला किस साधन से जाना जा सकता है?' यह आत्मा 'नेति नेति' (यह नहीं, यह नहीं) है। यह अग्रह्य, अविनाशी, असंग और अव्यथित है। हे मैत्रेयी! उस ज्ञाता को किस साधन से जाने? इस प्रकार तुम्हें पूर्ण उपदेश दे दिया गया, हे मैत्रेयी! बस इतना ही अमरत्व (मोक्ष का साधन) है।' यह कहकर याज्ञवल्क्य संन्यास लेकर चले गए।"
         },
         {
           "number": "6.1",
@@ -3094,5 +3185,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }
