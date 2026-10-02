@@ -47935,8 +47935,9 @@
           "ref": "atharvaveda_samhita 20.131.6",
           "text": "अहल कुश वर्त्तक",
           "english": "Ahala, Kusha, Vartaka.",
-          "hindi": "अहल, कुश, वर्त्तक।",
-          "status": "translated"
+          "hindi": "",
+          "status": "partial",
+          "hindi_draft": "अहल, कुश, वर्त्तक।"
         },
         {
           "number": "131.7",
@@ -48007,8 +48008,9 @@
           "ref": "atharvaveda_samhita 20.131.15",
           "text": "अरदुपरम",
           "english": "Araduparama.",
-          "hindi": "अरदुपरम।",
-          "status": "translated"
+          "hindi": "",
+          "status": "partial",
+          "hindi_draft": "अरदुपरम।"
         },
         {
           "number": "131.16",
@@ -48885,5 +48887,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }

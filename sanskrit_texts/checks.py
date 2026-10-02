@@ -77,6 +77,21 @@ def _is_devanagari(ch: str) -> bool:
     return _DEVANAGARI_LOW <= ch <= _DEVANAGARI_HIGH
 
 
+def _letter_skeleton(s: str) -> str:
+    """The Devanagari LETTERS of `s` (signs, virama, avagraha included), NFC, nothing else.
+
+    Drops whitespace, ASCII punctuation, the danda/double danda (U+0964/0965) and Devanagari
+    digits (U+0966-096F). A Hindi field that re-punctuates the verse -- `/` -> `;` or `।`,
+    a pada break -> a space, `शंभु-\\nस्तासां` -> `शंभुस्तासां` -- has the same skeleton as the
+    Sanskrit, and the raw-string comparison above it let 172 of Suśruta's through
+    (measured 2026-10-02). Used for WHOLE-value equality only: a containment test on skeletons
+    flags real Hindi that lists the verse's names comma-separated and then adds its own words
+    (`astanga_sangraha` 44.7, measured the same day), so it was rejected.
+    """
+    s = unicodedata.normalize("NFC", s)
+    return "".join(c for c in s if "ऀ" <= c <= "ॣ" or "॰" <= c <= "ॿ")
+
+
 def _devanagari_share(value: str) -> float:
     """Devanagari characters as a share of NON-SPACE characters in `value`. A ratio, never a
     raw count -- G55's whole point is that a count alone answers "how much", never "how much
@@ -109,7 +124,9 @@ def check_translation(lang: str, value: str, devanagari: str) -> tuple[str, list
       sanskrit-echo     fails    en: >30% of value's non-space chars are Devanagari
                                  hi: value equals the verse's Sanskrit (any length), or contains
                                      its first _SANSKRIT_ECHO_MIN_LEN characters (only once the
-                                     Sanskrit is at least that long -- see the constant's comment)
+                                     Sanskrit is at least that long -- see the constant's comment),
+                                     or has the same `_letter_skeleton` as the Sanskrit (the
+                                     verse re-punctuated, nothing translated)
       wrong-script      fails    en: zero Latin letters / hi: zero Devanagari characters
       too-short         suspect  value is under 30% of the Sanskrit's length, when the
                                  Sanskrit itself is over 40 characters (too short to be
@@ -138,6 +155,7 @@ def check_translation(lang: str, value: str, devanagari: str) -> tuple[str, list
         if stripped_dev and (
             stripped_value == stripped_dev
             or (len(stripped_dev) >= _SANSKRIT_ECHO_MIN_LEN and stripped_dev[:_SANSKRIT_ECHO_MIN_LEN] in value)
+            or (_letter_skeleton(stripped_dev) and _letter_skeleton(value) == _letter_skeleton(stripped_dev))
         ):
             fails.add("sanskrit-echo")
         if not any(_is_devanagari(c) for c in value):

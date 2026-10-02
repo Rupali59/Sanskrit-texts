@@ -102,8 +102,9 @@
           "number": 12,
           "text": "काली गौरी जया लक्ष्मीविजया विमला सती ।। तारा ज्वालामुखी श्वेता ललिता बगलामुखी",
           "english": "Kali, Gauri, Jaya, Lakshmi, Vijaya, Vimala, Sati, Tara, Jwalamukhi, Shweta, Lalita, Bagalamukhi.",
-          "hindi": "काली, गौरी, जया, लक्ष्मी, विजया, विमला, सती, तारा, ज्वालामुखी, श्वेता, ललिता, बगलामुखी।",
-          "status": "translated"
+          "hindi": "",
+          "status": "partial",
+          "hindi_draft": "काली, गौरी, जया, लक्ष्मी, विजया, विमला, सती, तारा, ज्वालामुखी, श्वेता, ललिता, बगलामुखी।"
         },
         {
           "number": 13,
@@ -8709,5 +8710,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }

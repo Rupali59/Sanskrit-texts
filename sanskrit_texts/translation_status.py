@@ -109,6 +109,13 @@ def _normalised_body(value: str, sanskrit: str) -> str:
     return re.sub(r"[0-9]+", "N", " ".join(LATIN_WORD.findall(_english_body(value, sanskrit))).lower())
 
 
+def _letter_skeleton(s: str) -> str:
+    """Mirrors `checks._letter_skeleton` -- Devanagari letters only, NFC; no whitespace,
+    punctuation, danda or digit. Whole-value equality only; the reason is on the canonical copy."""
+    s = unicodedata.normalize("NFC", s)
+    return "".join(c for c in s if "ऀ" <= c <= "ॣ" or "॰" <= c <= "ॿ")
+
+
 def check_value(lang: str, value: str, sanskrit: str) -> set[str]:
     """Defects visible in ONE translation value. `lang` is "en" or "hi".
 
@@ -132,6 +139,7 @@ def check_value(lang: str, value: str, sanskrit: str) -> set[str]:
         if stripped and (
             value.strip() == stripped
             or (len(stripped) >= SANSKRIT_ECHO_MIN_LEN and stripped[:SANSKRIT_ECHO_MIN_LEN] in value)
+            or (_letter_skeleton(stripped) and _letter_skeleton(value) == _letter_skeleton(stripped))
         ):
             found.add("sanskrit-echo")
         if not any("ऀ" <= c <= "ॿ" for c in value):

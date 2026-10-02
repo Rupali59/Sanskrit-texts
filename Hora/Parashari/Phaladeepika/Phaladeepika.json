@@ -4793,8 +4793,9 @@
           "number": 6,
           "text": "दासत्वेशो गौरीपुत्रं\nक्षन्निधिकारो गोभूशेषम् ।\nसौदधिनक्षत्रेहासन्तो\nभौमगुरुः पुत्राक्षोनाधिः ॥ ६॥",
           "english": "Dasatvesho gauriputram, kshannidharo gopushesam. Saudadhinakshtrehasanto, bhaumaguruḥ putrakshonadhiḥ.",
-          "hindi": "दासत्वेशो गौरीपुत्रं क्षन्निधिकारो गोभूशेषम्। सौदधिनक्षत्रेहासन्तो भौमगुरुः पुत्राक्षोनाधिः॥",
-          "status": "translated"
+          "hindi": "",
+          "status": "partial",
+          "hindi_draft": "दासत्वेशो गौरीपुत्रं क्षन्निधिकारो गोभूशेषम्। सौदधिनक्षत्रेहासन्तो भौमगुरुः पुत्राक्षोनाधिः॥"
         },
         {
           "number": 7,
@@ -4807,15 +4808,17 @@
           "number": 8,
           "text": "धेनुः क्षेत्रे पुरगो शंभु-\nस्तासां जत्रु क्षन्निधि दासी ।\nचर्माभोगी रायधिनाक्ष-\nस्त्रीपौराङ्गी शिवतीर्थाब्जे ॥ ८॥",
           "english": "Dhenuḥ kṣetre purago śambhustāsāṁ jatru kṣannidhi dāsī. Charmabhogī rayadhinākṣastrīpaurāṅgī śivatīrthābje.",
-          "hindi": "धेनुः क्षेत्रे पुरगो शंभुस्तासां जत्रु क्षन्निधि दासी। चर्माभोगी रायधिनाक्षस्त्रीपौराङ्गी शिवतीर्थाब्जे॥",
-          "status": "translated"
+          "hindi": "",
+          "status": "partial",
+          "hindi_draft": "धेनुः क्षेत्रे पुरगो शंभुस्तासां जत्रु क्षन्निधि दासी। चर्माभोगी रायधिनाक्षस्त्रीपौराङ्गी शिवतीर्थाब्जे॥"
         },
         {
           "number": 9,
           "text": "त्रक्षनिधिर्दा सूचिशंभो\nसौरयधी नक्षत्रं पारम् ।\nगोशिवतीर्थे दात्रिक्ष्न्नो\nधीहसितांशुभोर्गी रम्या ॥ ९॥",
           "english": "Trakṣanidhirdā sūchīśaṁbho saurayadhī nakṣatraṁ pāram. Gośivatīrthe dātrikṣnno dhīhasitāṁśubhorgī ramyā.",
-          "hindi": "त्रक्षनिधिर्दा सूचिशंभो सौरयधी नक्षत्रं पारम्। गोशिवतीर्थे दात्रिक्ष्न्नो धीहसितांशुभोर्गी रम्या॥",
-          "status": "translated"
+          "hindi": "",
+          "status": "partial",
+          "hindi_draft": "त्रक्षनिधिर्दा सूचिशंभो सौरयधी नक्षत्रं पारम्। गोशिवतीर्थे दात्रिक्ष्न्नो धीहसितांशुभोर्गी रम्या॥"
         },
         {
           "number": 10,
@@ -6130,5 +6133,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }

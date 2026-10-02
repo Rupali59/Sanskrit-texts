@@ -168,6 +168,42 @@ def test_long_sanskrit_genuinely_echoed_into_hindi_still_fails() -> None:
     assert "sanskrit-echo" in check_value("hi", value, dev)
 
 
+# Live values as LITERALS (2026-10-02), not loaded from the corpus: once the corpus is repaired
+# they stop existing there, and a test that reads them would silently start checking nothing.
+# `jataka_parijata` 12.44 -- a hyphen and the danda spacing differ inside the first 40
+# characters, so neither exact equality nor the raw prefix test saw it.
+_REPUNCTUATED_DEV = "विक्रमेशगुरू लग्नं गतौ गोभीतिसूचकौ ।\nराहुणा वा फणिक्रान्तराशिपेन युतौ यदि ॥"
+_REPUNCTUATED_HI = "विक्रमेश-गुरू लग्नं गतौ गोभीतिसूचकौ। राहुणा वा फणिक्रान्तराशिपेन युतौ यदि।"
+# `astanga_sangraha` 44.7 -- the same names, comma-separated, THEN Hindi of its own. A real
+# translation. A skeleton-PREFIX rule flags it; that is why the rule is whole-value equality.
+_NAME_LIST_DEV = "पाण्डुरा रक्तपदिका भृङ्गा पिङ्गा त्रिमण्डला । पूतिर्वीराण्डजाःसप्त सौम्या लूताः"
+_NAME_LIST_HI = "पाण्डुरा, रक्तपदिका, भृङ्गा, पिङ्गा, त्रिमण्डला, पूति और वीराण्डजा—ये सात सौम्या लूताएँ हैं।"
+
+
+@pytest.mark.parametrize("checker", ["translation_status", "checks"])
+def test_hindi_that_only_repunctuates_the_sanskrit_is_an_echo(checker: str) -> None:
+    """172 of Suśruta's served Hindi values were the verse with `/` turned into `;` or `।`;
+    the backlog reported the text complete. Both checkers must see it."""
+    assert _REPUNCTUATED_DEV.strip() != _REPUNCTUATED_HI, "fixture must not be an exact echo"
+    assert _REPUNCTUATED_DEV[:40] not in _REPUNCTUATED_HI, "fixture must defeat the prefix rule"
+    if checker == "checks":
+        from sanskrit_texts.checks import check_translation
+        found = set(check_translation("hi", _REPUNCTUATED_HI, _REPUNCTUATED_DEV)[1])
+    else:
+        found = check_value("hi", _REPUNCTUATED_HI, _REPUNCTUATED_DEV)
+    assert "sanskrit-echo" in found
+
+
+@pytest.mark.parametrize("checker", ["translation_status", "checks"])
+def test_a_hindi_name_list_that_adds_its_own_words_is_not_an_echo(checker: str) -> None:
+    if checker == "checks":
+        from sanskrit_texts.checks import check_translation
+        found = set(check_translation("hi", _NAME_LIST_HI, _NAME_LIST_DEV)[1])
+    else:
+        found = check_value("hi", _NAME_LIST_HI, _NAME_LIST_DEV)
+    assert "sanskrit-echo" not in found
+
+
 def test_check_file_refuses_a_non_corpus_document() -> None:
     """Absence must be attributable (rule:discernment-checks §2) -- never a silent clean result."""
     import tempfile
