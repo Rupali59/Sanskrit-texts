@@ -599,3 +599,30 @@ find them and make things worse. `atharvaveda_samhita` 4.12.8 is the same shape 
 ./.venv-corpus/bin/python scripts/check_inventory.py                    # must exit 0
 CORPUS_REQUIRE_DB=1 ./.venv-corpus/bin/pytest tests/ -q                 # 205 pass, 0 fail
 ```
+
+## Measured after the 2026-09-28/29 runs — 2026-10-02
+
+Derive, never trust: `python3 scripts/translation_backlog.py` now has a **BAD** column — a served
+value that fails `translation_status`'s checker. It is a REVIEW column, not a translate column, and
+it carries calibrated false positives on purpose (below).
+
+**The join key did NOT recur at scale.** Every English string served for two Sanskrit verses was
+banded by how alike the two verses' Sanskrit is: 393 of 416 pairs are ≥ 0.8 similar — refrains and
+closing formulae (`इति ह स्माह भगवानात्रेयः`, `यथोवाच भगवान् धन्वन्तरिः`) whose copies differ by OCR,
+which share a translation correctly. 16 pairs are genuinely different verses.
+
+**What the runs DID produce, and what the next run must not:**
+
+- **Block summaries** — one English sentence pasted over consecutive DIFFERENT verses, destroying
+  every translation but one: `astanga_sangraha` 50 · `garga_hora` 48 · `astanga_hridaya` 26
+  ("Specific Ayurvedic therapeutic principles and formulation details…" is a label). Translate each
+  verse; never summarise a run of verses into one rendering.
+- **One possible join across a parallel passage, for a human to read.** Bṛhadāraṇyaka 4.5.x appears
+  to carry 2.4.x's translations by NUMBER while its Sanskrit runs one verse behind (4.5.7's text is
+  the `ब्रह्म तं परादाद्` verse, i.e. 2.4.6; it serves 2.4.7's "drum" sentence; similarity 0.04).
+  `tests/test_translation_alignment.py`'s `KNOWN` calls these 8 groups legitimate repetition — that
+  judgement and this measurement disagree, and only a reader can settle it.
+
+**BAD's calibrated residue** — leave these: the formula refrains above (OCR letter variants are
+never normalised away, by design), the Maitreyī parallels if confirmed, `narada_smriti`'s duplicate
+records, `bhrigu_sutram`'s near-synonymous phalas, and §A's bracketed-note verses (`minaraja` 9).
