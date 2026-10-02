@@ -64,7 +64,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 100% | ocr_only |
-| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 378 | 87% | uncitable |
+| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 378 | 100% | uncitable |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
@@ -122,7 +122,7 @@ titles at all — so there is nothing to separate.
 | `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 4 | 50 | 100% | range |
 | `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 627 | 100% | range |
 | `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 100% | firm |
-| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 435 | 98% | firm |
+| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 435 | 100% | firm |
 | `isha_upanishad` | [`Upanishad/shukla-yajurveda/Isha`](../Upanishad/shukla-yajurveda/Isha) | 1 | 18 | 100% | firm |
 | `jabala_upanishad` | [`Upanishad/shukla-yajurveda/Jabala`](../Upanishad/shukla-yajurveda/Jabala) | 1 | 6 | 100% | unit_mismatch |
 | `paingala_upanishad` | [`Upanishad/shukla-yajurveda/Paingala`](../Upanishad/shukla-yajurveda/Paingala) | 3 | 28 | 100% | uncitable |
@@ -180,7 +180,7 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 |---|---|---:|---:|---:|---|
 | `astanga_hridaya` | [`Upaveda/Ayurveda/AstangaHridaya`](../Upaveda/Ayurveda/AstangaHridaya) | 6 | 7,725 | 100% | uncitable |
 | `bhela_samhita` | [`Upaveda/Ayurveda/BhelaSamhita`](../Upaveda/Ayurveda/BhelaSamhita) | 8 | 2,813 | 100% | uncitable |
-| `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 99% | uncitable |
+| `astanga_sangraha` | [`Upaveda/Ayurveda/AstangaSangraha`](../Upaveda/Ayurveda/AstangaSangraha) | 6 | 9,382 | 100% | uncitable |
 | `caraka_samhita` | [`Upaveda/Ayurveda/CarakaSamhita`](../Upaveda/Ayurveda/CarakaSamhita) | 8 | 9,654 | 100% | uncitable |
 | `susruta_samhita` | [`Upaveda/Ayurveda/SusrutaSamhita`](../Upaveda/Ayurveda/SusrutaSamhita) | 6 | 8,347 | 94% | uncitable |
 | `dhanurveda` | [`Upaveda/Dhanurveda/Dhanurveda`](../Upaveda/Dhanurveda/Dhanurveda) | 1 | 227 | 100% | uncitable |
