@@ -64,11 +64,11 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 100% | ocr_only |
-| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 377 | 73% | uncitable |
+| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 377 | 72% | uncitable |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 77% | — |
-| `chamatkar_chintamani` | [`Hora/Parashari/Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | 10 | 112 | 100% | — |
+| `chamatkar_chintamani` | [`Hora/Parashari/Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | 10 | 112 | 42% | — |
 | `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 100% | — |
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
 | `minaraja_yavana_jataka` | [`Hora/Parashari/MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | 74 | 4,027 | 100% | — |

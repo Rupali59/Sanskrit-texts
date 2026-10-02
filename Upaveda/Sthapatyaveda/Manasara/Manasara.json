@@ -10452,9 +10452,10 @@
           "number": 136,
           "ref": "manasara 15.136",
           "text": "जम्बुकं च तथा वामं दक्षिणे गमनं शुभम् दक्षिणं वामतो गच्छेदशुभं भवति ध्रुवम्",
-          "english": "A jackal (jambuka) moving to the left is auspicious, and on the right its movement is auspicious (wait: context specifies directional rules: jackal on left is good, right is good depending on context; here: jackal on left, right movement is auspicious... adhering strictly to text: jackal on left, moving to right is auspicious, etc.).",
+          "english": "",
           "hindi": "सियार (जम्बुक) आदि का बाईं ओर होना, तथा दाईं ओर जाना शुभ होता है। दाहिने से बाएं जाना निश्चित रूप से अशुभ होता है।",
-          "status": "translated"
+          "status": "partial",
+          "english_draft": "A jackal going from the left to the right is auspicious; one going from the right to the left is certainly inauspicious."
         },
         {
           "number": 137,
@@ -41797,5 +41798,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }
