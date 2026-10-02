@@ -2566,15 +2566,13 @@
         {
           "number": 17,
           "text": "लग्नहोरादृकाणाङ्कभागसूर्यका इति ।\nत्रिंशांशकश्च षड्वर्गा अत्र विंशोपकाः क्रमात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Lagna, Hora, Dreshkana, Navamsha, Dwadasamsha, and Trimsamsha are the Shadvargas (six divisions); their Vimsopaka strengths are allocated in order.",
+          "hindi": "लग्न, होरा, द्रेष्काण, नवांश, द्वादशांश तथा त्रिंशांश—ये छह वर्ग (षड्वर्ग) कहलाते हैं; इनमें क्रमानुसार विंशोपक बल का विभाजन होता है।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "graha:sun"
-          ],
-          "english_draft": "Lagna, Hora, Dreshkana, Navamsha, Dwadasamsha, and Trimsamsha are the Shadvargas (six divisions); their Vimsopaka strengths are allocated in order.",
-          "hindi_draft": "लग्न, होरा, द्रेष्काण, नवांश, द्वादशांश तथा त्रिंशांश—ये छह वर्ग (षड्वर्ग) कहलाते हैं; इनमें क्रमानुसार विंशोपक बल का विभाजन होता है।"
+          ]
         },
         {
           "number": 18,
@@ -4612,41 +4610,37 @@
         {
           "number": 5,
           "text": "बन्धुस्थानेश्वरे सौम्ये शुभग्रहयुतेक्षिते ।\nशशिजे लग्नसंयुक्ते बन्धुपूज्यो भवेन्नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the lord of the 4th house is a benefic, associated with or aspected by benefics, and Mercury is in Lagna, the native is honored by relatives.",
+          "hindi": "यदि चतुर्थेश शुभ ग्रह हो, शुभ ग्रहों से युक्त या दृष्ट हो, तथा बुध लग्न में स्थित हो, तो जातक बन्धुओं (संबंधियों) द्वारा पूजित होता है।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "rel:conjunction",
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "If the lord of the 4th house is a benefic, associated with or aspected by benefics, and Mercury is in Lagna, the native is honored by relatives.",
-          "hindi_draft": "यदि चतुर्थेश शुभ ग्रह हो, शुभ ग्रहों से युक्त या दृष्ट हो, तथा बुध लग्न में स्थित हो, तो जातक बन्धुओं (संबंधियों) द्वारा पूजित होता है।"
+          ]
         },
         {
           "number": 6,
           "text": "मातुःस्थाने शुभयुते तदीशे स्वोच्चराशिगे ।\nकारके बलसंयुक्ते मातुर्दीर्घायुरादिशेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When the 4th house is occupied by benefics, its lord is in exaltation, and the significator (Matru-karaka Moon) is strong, predict long life for the mother.",
+          "hindi": "जब चतुर्थ भाव शुभ ग्रहों से युक्त हो, चतुर्थेश अपने उच्च स्थान में हो, तथा कारक (माता का कारक चन्द्रमा) बलवान हो, तो माता की दीर्घायु का कथन करें।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:dignity",
             "rel:polarity",
             "rel:position",
             "rel:state"
-          ],
-          "english_draft": "When the 4th house is occupied by benefics, its lord is in exaltation, and the significator (Matru-karaka Moon) is strong, predict long life for the mother.",
-          "hindi_draft": "जब चतुर्थ भाव शुभ ग्रहों से युक्त हो, चतुर्थेश अपने उच्च स्थान में हो, तथा कारक (माता का कारक चन्द्रमा) बलवान हो, तो माता की दीर्घायु का कथन करें।"
+          ]
         },
         {
           "number": 7,
           "text": "सुखेशे केन्द्रभावस्थे तथा केन्द्रस्थितो भृगुः ।\nशशिजे स्वोच्चराशिस्थे मातुः पूर्णं सुखं वदेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 4th lord is in a Kendra, Venus is also in a Kendra, and Mercury is exalted, the native's mother enjoys full lifespan and prosperity.",
+          "hindi": "यदि चतुर्थेश केन्द्र में हो, शुक्र भी केन्द्र में स्थित हो, और बुध अपने उच्च स्थान में हो, तो जातक की माता पूर्ण आयु और सुख प्राप्त करती है।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "entity:bhava",
@@ -4656,16 +4650,14 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "If the 4th lord is in a Kendra, Venus is also in a Kendra, and Mercury is exalted, the native's mother enjoys full lifespan and prosperity.",
-          "hindi_draft": "यदि चतुर्थेश केन्द्र में हो, शुक्र भी केन्द्र में स्थित हो, और बुध अपने उच्च स्थान में हो, तो जातक की माता पूर्ण आयु और सुख प्राप्त करती है।"
+          ]
         },
         {
           "number": 8,
           "text": "सुखे रवियुते मन्दे चन्द्रे भाग्यगते सति ।\nलाभस्थानगतो भौमो गोमहिष्यादिलाभकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Sun and Saturn are in the 4th, Moon is in the 9th, and Mars occupies the 11th, the native gains cattle, buffaloes, and properties.",
+          "hindi": "यदि चतुर्थ भाव में सूर्य और शनि हों, चन्द्रमा नवम भाव में स्थित हो, तथा मंगल एकादश भाव में हो, तो जातक को गाय, भैंस और संपत्ति का लाभ होता है।",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "bhava:4",
@@ -4677,16 +4669,14 @@
             "graha:sun",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "If Sun and Saturn are in the 4th, Moon is in the 9th, and Mars occupies the 11th, the native gains cattle, buffaloes, and properties.",
-          "hindi_draft": "यदि चतुर्थ भाव में सूर्य और शनि हों, चन्द्रमा नवम भाव में स्थित हो, तथा मंगल एकादश भाव में हो, तो जातक को गाय, भैंस और संपत्ति का लाभ होता है।"
+          ]
         },
         {
           "number": 9,
           "text": "चरगेहसमायुक्तो सुखे तद्राशिनायके ।\nषष्ठे व्यये स्थिते भौमे नरः प्राप्नोति मूकताम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 4th lord is in a movable sign, while Mars occupies the 6th or 12th house, the person becomes dumb or mute.",
+          "hindi": "यदि चतुर्थेश चर राशि में हो, तथा मंगल षष्ठ या द्वादश भाव में स्थित हो, तो मनुष्य मूकता (गूँगापन) को प्राप्त होता है।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:4",
@@ -4694,16 +4684,14 @@
             "graha:mars",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "If the 4th lord is in a movable sign, while Mars occupies the 6th or 12th house, the person becomes dumb or mute.",
-          "hindi_draft": "यदि चतुर्थेश चर राशि में हो, तथा मंगल षष्ठ या द्वादश भाव में स्थित हो, तो मनुष्य मूकता (गूँगापन) को प्राप्त होता है।"
+          ]
         },
         {
           "number": 10,
           "text": "लग्नस्थानाधिपे सौम्ये सुखेशे नीचराशिगे ।\nकारके व्ययभावस्थे सुखेशे लाभसङ्गते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Lagna lord is a benefic, 4th lord is in debilitation, Karaka is in the 12th, while 4th lord joins 11th...",
+          "hindi": "यदि लग्नेश शुभ ग्रह हो, चतुर्थेश नीच राशि में हो, कारक द्वादश भाव में हो, तथा चतुर्थेश एकादश भाव से सम्बद्ध हो...",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:11",
@@ -4716,31 +4704,27 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "If Lagna lord is a benefic, 4th lord is in debilitation, Karaka is in the 12th, while 4th lord joins 11th...",
-          "hindi_draft": "यदि लग्नेश शुभ ग्रह हो, चतुर्थेश नीच राशि में हो, कारक द्वादश भाव में हो, तथा चतुर्थेश एकादश भाव से सम्बद्ध हो..."
+          ]
         },
         {
           "number": 11,
           "text": "द्वदशे वत्सरे प्राप्ते वाहनस्य सुखं वदेत् ।\nवाहने सूर्यसंयुक्ते स्वोच्चे तद्भावनायके",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In the twelfth year of age, the native attains the happiness of conveyances, provided the 4th house has the Sun in exaltation.",
+          "hindi": "बारहवें वर्ष की आयु प्राप्त होने पर जातक को वाहन का सुख प्राप्त होता है, यदि चतुर्थ भाव में सूर्य अपने उच्च स्थान में हो।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "graha:sun",
             "rel:conjunction",
             "rel:dignity"
-          ],
-          "english_draft": "In the twelfth year of age, the native attains the happiness of conveyances, provided the 4th house has the Sun in exaltation.",
-          "hindi_draft": "बारहवें वर्ष की आयु प्राप्त होने पर जातक को वाहन का सुख प्राप्त होता है, यदि चतुर्थ भाव में सूर्य अपने उच्च स्थान में हो।"
+          ]
         },
         {
           "number": 12,
           "text": "शुक्रेण संयुते वर्षे द्वात्रिंशे वाहनं भवेत् ।\nकर्मेशेन युते बन्धुनाथे तुङ्गांशसंयुते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In the thirty-second year, conveyances are acquired if Venus is associated, or if 4th lord is in exaltation amsha with 10th lord.",
+          "hindi": "द्वात्रिंश (32वें) वर्ष में वाहन प्राप्त होता है यदि शुक्र से सम्बन्ध हो, अथवा चतुर्थेश दशमेश के साथ उच्चांश में हो।",
+          "status": "translated",
           "tags": [
             "bhava:10",
             "graha:venus",
@@ -4748,16 +4732,14 @@
             "rel:dignity",
             "rel:lordship",
             "rel:modality"
-          ],
-          "english_draft": "In the thirty-second year, conveyances are acquired if Venus is associated, or if 4th lord is in exaltation amsha with 10th lord.",
-          "hindi_draft": "द्वात्रिंश (32वें) वर्ष में वाहन प्राप्त होता है यदि शुक्र से सम्बन्ध हो, अथवा चतुर्थेश दशमेश के साथ उच्चांश में हो।"
+          ]
         },
         {
           "number": 13,
           "text": "द्विचत्वारिंशके वर्षे नरो वाहनभाग् भवेत् ।\nलाभेशे सुखराशिस्थे सुखेशे लाभसंयुते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In the forty-second year, the person obtains conveyances if 11th lord is in the 4th house and 4th lord is in the 11th house.",
+          "hindi": "बयालीसवें वर्ष में मनुष्य वाहन का सुख प्राप्त करता है यदि एकादशेश चतुर्थ भाव में हो और चतुर्थेश एकादश भाव में हो।",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "bhava:4",
@@ -4766,22 +4748,18 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "In the forty-second year, the person obtains conveyances if 11th lord is in the 4th house and 4th lord is in the 11th house.",
-          "hindi_draft": "बयालीसवें वर्ष में मनुष्य वाहन का सुख प्राप्त करता है यदि एकादशेश चतुर्थ भाव में हो और चतुर्थेश एकादश भाव में हो।"
+          ]
         },
         {
           "number": 14,
           "text": "द्वादशे वस्तरे प्राप्ते जातो वाहनभाग् भवेत् ।\nशुभं शुभत्वे भावस्य पापत्वे फलमन्यथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In the twelfth year of age, the person gains conveyances. Declare good results from benefic influences and evil results from malefic influences.",
+          "hindi": "बारहवें वर्ष में बालक को वाहन प्राप्त होता है। भाव पर शुभ ग्रहों के प्रभाव से शुभ फल और पाप ग्रहों के प्रभाव से अशुभ फल का कथन करें।",
+          "status": "translated",
           "tags": [
             "rel:modality",
             "rel:polarity"
-          ],
-          "english_draft": "In the twelfth year of age, the person gains conveyances. Declare good results from benefic influences and evil results from malefic influences.",
-          "hindi_draft": "बारहवें वर्ष में बालक को वाहन प्राप्त होता है। भाव पर शुभ ग्रहों के प्रभाव से शुभ फल और पाप ग्रहों के प्रभाव से अशुभ फल का कथन करें।"
+          ]
         }
       ]
     },
@@ -4792,24 +4770,22 @@
         {
           "number": 1,
           "text": "अथ पञ्चमभावस्य कथयामि फलं द्विज ।\nलग्नपे सुतभावस्थे सुतपे च सुते स्थिते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Now I shall speak of the effects of the 5th house, O Brahmin. If Lagna lord is in the 5th house and 5th lord is situated in the 5th...",
+          "hindi": "अब मैं पञ्चम भाव का फल कहता हूँ, हे द्विज! यदि लग्नेश पञ्चम भाव में हो और पञ्चमेश भी पञ्चम भाव में स्थित हो...",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:5",
             "entity:bhava",
             "rel:position"
-          ],
-          "english_draft": "Now I shall speak of the effects of the 5th house, O Brahmin. If Lagna lord is in the 5th house and 5th lord is situated in the 5th...",
-          "hindi_draft": "अब मैं पञ्चम भाव का फल कहता हूँ, हे द्विज! यदि लग्नेश पञ्चम भाव में हो और पञ्चमेश भी पञ्चम भाव में स्थित हो..."
+          ]
         },
         {
           "number": 2,
           "text": "केन्द्रत्रिकोणसंस्थे वा पूर्णं पुत्रसुखं वदेत् ।\nषष्ठाष्टमव्ययस्थे तु सुताधीशे त्वपुत्रता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "...or if placed in a Kendra or Trikona, predict complete happiness from sons. But if 5th lord is in the 6th, 8th, or 12th house...",
+          "hindi": "...अथवा यदि वे केन्द्र या त्रिकोण में हों, तो पूर्ण पुत्र-सुख का कथन करें। किन्तु यदि पञ्चमेश षष्ठ, अष्टम या द्वादश भाव में हो...",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:5",
@@ -4817,16 +4793,14 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "...or if placed in a Kendra or Trikona, predict complete happiness from sons. But if 5th lord is in the 6th, 8th, or 12th house...",
-          "hindi_draft": "...अथवा यदि वे केन्द्र या त्रिकोण में हों, तो पूर्ण पुत्र-सुख का कथन करें। किन्तु यदि पञ्चमेश षष्ठ, अष्टम या द्वादश भाव में हो..."
+          ]
         },
         {
           "number": 3,
           "text": "सुतेशेस्तङ्गते वाऽपि पापाक्रान्ते च निर्बले ।\nतदा न जायते पुत्रो जातो वा म्रियते ध्रुवम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "...or if 5th lord is combust, afflicted by malefics, or weak, then no son is born, or if born, he perishes.",
+          "hindi": "...अथवा यदि पञ्चमेश अस्त, पापग्रहों से आक्रान्त या निर्बल हो, तो पुत्र उत्पन्न नहीं होता, या उत्पन्न होकर नष्ट हो जाता है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "rel:lordship",
@@ -4834,16 +4808,14 @@
             "rel:polarity",
             "rel:position",
             "rel:state"
-          ],
-          "english_draft": "...or if 5th lord is combust, afflicted by malefics, or weak, then no son is born, or if born, he perishes.",
-          "hindi_draft": "...अथवा यदि पञ्चमेश अस्त, पापग्रहों से आक्रान्त या निर्बल हो, तो पुत्र उत्पन्न नहीं होता, या उत्पन्न होकर नष्ट हो जाता है।"
+          ]
         },
         {
           "number": 4,
           "text": "षष्ठस्थाने सुताधीशे लग्नेशे कुजसंयुते ।\nम्रियते प्रथमापत्यं काकबन्ध्या च गेहिनी",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 5th lord is in the 6th house while Lagna lord is combined with Mars, the first child dies and the wife becomes a Kakabandhya (barren after one child).",
+          "hindi": "यदि पञ्चमेश षष्ठ भाव में हो और लग्नेश मंगल से युक्त हो, तो प्रथम सन्तान की मृत्यु होती है और पत्नी काकबंध्या (एक सन्तान के बाद बंध्या) होती है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:5",
@@ -4852,16 +4824,14 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "If the 5th lord is in the 6th house while Lagna lord is combined with Mars, the first child dies and the wife becomes a Kakabandhya (barren after one child).",
-          "hindi_draft": "यदि पञ्चमेश षष्ठ भाव में हो और लग्नेश मंगल से युक्त हो, तो प्रथम सन्तान की मृत्यु होती है और पत्नी काकबंध्या (एक सन्तान के बाद बंध्या) होती है।"
+          ]
         },
         {
           "number": 5,
           "text": "सुताधीशो हि नीचस्थो व्ययषष्ठाष्टमस्थितः ।\nकाकबन्ध्या भवेन्नारी सुते केतुबुधौ यदि",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When 5th lord is debilitated in 6th, 8th, or 12th, the woman becomes Kakabandhya; if Ketu and Mercury are in the 5th...",
+          "hindi": "जब पञ्चमेश नीच का होकर ६, ८ या १२वें भाव में हो, तो स्त्री काकबंध्या होती है; यदि पञ्चम भाव में केतु और बुध हों...",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:5",
@@ -4873,16 +4843,14 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "When 5th lord is debilitated in 6th, 8th, or 12th, the woman becomes Kakabandhya; if Ketu and Mercury are in the 5th...",
-          "hindi_draft": "जब पञ्चमेश नीच का होकर ६, ८ या १२वें भाव में हो, तो स्त्री काकबंध्या होती है; यदि पञ्चम भाव में केतु और बुध हों..."
+          ]
         },
         {
           "number": 6,
           "text": "सुतेशो नीचगो यत्र सुतस्थानं न पश्यति ।\nतत्र सौरिबुधौ स्यातां काकबन्ध्यात्वमाप्नुयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "...and 5th lord is debilitated without aspecting the 5th house, while Saturn and Mercury occupy the 5th, she suffers Kakabandhyatva (barrenness).",
+          "hindi": "...और पञ्चमेश नीच का होकर पञ्चम भाव को न देखता हो, तथा पञ्चम में शनि और बुध हों, तो वह काकबंध्यात्व प्राप्त करती है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "chain:lord5_pos5",
@@ -4892,16 +4860,14 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "...and 5th lord is debilitated without aspecting the 5th house, while Saturn and Mercury occupy the 5th, she suffers Kakabandhyatva (barrenness).",
-          "hindi_draft": "...और पञ्चमेश नीच का होकर पञ्चम भाव को न देखता हो, तथा पञ्चम में शनि और बुध हों, तो वह काकबंध्यात्व प्राप्त करती है।"
+          ]
         },
         {
           "number": 7,
           "text": "भाग्येशो मूर्तिवर्ती चेत् सुतेशो नीचगो यदि ।\nसुते केतुबुधौ स्यातां सुतं कष्टाद् विनिर्दिशेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If 9th lord is in Lagna while 5th lord is debilitated, with Ketu and Mercury in the 5th, a son is obtained only with great difficulty.",
+          "hindi": "यदि नवमेश लग्न में हो और पञ्चमेश नीच राशि में हो, तथा पञ्चम में केतु और बुध हों, तो कष्ट से पुत्र प्राप्त होता है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "bhava:9",
@@ -4911,16 +4877,14 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "If 9th lord is in Lagna while 5th lord is debilitated, with Ketu and Mercury in the 5th, a son is obtained only with great difficulty.",
-          "hindi_draft": "यदि नवमेश लग्न में हो और पञ्चमेश नीच राशि में हो, तथा पञ्चम में केतु और बुध हों, तो कष्ट से पुत्र प्राप्त होता है।"
+          ]
         },
         {
           "number": 8,
           "text": "षष्ठाष्टमव्ययस्थो वा नीचो वा शत्रुराशिगः ।\nसुतेशश्च सुते तस्य कष्टाद् पुत्रं विनिर्दिशेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If 5th lord is in 6th, 8th, or 12th, or debilitated, or in enemy's sign, while in the 5th house, a son is born with great difficulty or perishes.",
+          "hindi": "यदि पञ्चमेश ६, ८ या १२वें भाव में हो, अथवा नीच या शत्रु राशि का हो, तो पञ्चम भाव में पुत्र कष्ट से उत्पन्न होता है या नष्ट हो जाता है।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:5",
@@ -4928,16 +4892,14 @@
             "rel:dignity",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "If 5th lord is in 6th, 8th, or 12th, or debilitated, or in enemy's sign, while in the 5th house, a son is born with great difficulty or perishes.",
-          "hindi_draft": "यदि पञ्चमेश ६, ८ या १२वें भाव में हो, अथवा नीच या शत्रु राशि का हो, तो पञ्चम भाव में पुत्र कष्ट से उत्पन्न होता है या नष्ट हो जाता है।"
+          ]
         },
         {
           "number": 9,
           "text": "पुत्रभावे बुधक्षेत्रे मन्दक्षेत्रेऽथवा पुनः ।\nमन्दे मान्दियुतौ दृष्टे तदा दत्तादयः सुताः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 5th house falls in Mercury's or Saturn's sign, and Saturn with Mandi is aspected, an adopted son (Dattaka-putra) is obtained.",
+          "hindi": "यदि पञ्चम भाव बुध या शनि की राशि में हो, तथा शनि मांदि से युक्त होकर दृष्ट हो, तो दत्तक पुत्र की प्राप्ति होती है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "entity:bhava",
@@ -4946,31 +4908,27 @@
             "rel:aspect",
             "rel:conjunction",
             "rel:modality"
-          ],
-          "english_draft": "If the 5th house falls in Mercury's or Saturn's sign, and Saturn with Mandi is aspected, an adopted son (Dattaka-putra) is obtained.",
-          "hindi_draft": "यदि पञ्चम भाव बुध या शनि की राशि में हो, तथा शनि मांदि से युक्त होकर दृष्ट हो, तो दत्तक पुत्र की प्राप्ति होती है।"
+          ]
         },
         {
           "number": 10,
           "text": "रविचन्द्रौ यदैकस्थावेकांशकसमन्वितौ ।\nत्रिमातृभिरसौ याद्वा द्विपित्राऽपि च पोषितः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When Sun and Moon are together in the same navamsha, the child is brought up by three mothers or two fathers.",
+          "hindi": "जब सूर्य और चन्द्रमा एक साथ एक ही नवांश में स्थित हों, तो बालक तीन माताओं या दो पिताओं द्वारा पोषित होता है।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "graha:sun",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "When Sun and Moon are together in the same navamsha, the child is brought up by three mothers or two fathers.",
-          "hindi_draft": "जब सूर्य और चन्द्रमा एक साथ एक ही नवांश में स्थित हों, तो बालक तीन माताओं या दो पिताओं द्वारा पोषित होता है।"
+          ]
         },
         {
           "number": 11,
           "text": "पञ्चमे षड्ग्रहैर्युक्ते तदीशे व्ययराशिगे ।\nलग्नेशेन्दू बलाढयौ चेत् तदा दत्तसुतोद्भवः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If six planets occupy the 5th house and its lord is in the 12th, while Lagna lord and Moon are strong, adoption of a son takes place.",
+          "hindi": "यदि पञ्चम भाव में छह ग्रह स्थित हों और पञ्चमेश द्वादश भाव में हो, तथा लग्नेश और चन्द्रमा बलवान हों, तो दत्तक पुत्र का योग बनता है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:5",
@@ -4979,32 +4937,28 @@
             "rel:modality",
             "rel:position",
             "rel:state"
-          ],
-          "english_draft": "If six planets occupy the 5th house and its lord is in the 12th, while Lagna lord and Moon are strong, adoption of a son takes place.",
-          "hindi_draft": "यदि पञ्चम भाव में छह ग्रह स्थित हों और पञ्चमेश द्वादश भाव में हो, तथा लग्नेश और चन्द्रमा बलवान हों, तो दत्तक पुत्र का योग बनता है।"
+          ]
         },
         {
           "number": 12,
           "text": "सुते ज्ञजीवशुक्रैश्च सबलैरवलोकिते ।\nभवन्ति बहवः पुत्राः सुतेशे हि बलान्विते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When the 5th house is aspected by strong Mercury, Jupiter, and Venus, and 5th lord is endowed with strength, many sons are born.",
+          "hindi": "जब पञ्चम भाव बलवान बुध, गुरु और शुक्र द्वारा दृष्ट हो, तथा पञ्चमेश बलशाली हो, तो अनेक पुत्रों की उत्पत्ति होती है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "graha:jupiter",
             "graha:venus",
             "rel:lordship",
             "rel:state"
-          ],
-          "english_draft": "When the 5th house is aspected by strong Mercury, Jupiter, and Venus, and 5th lord is endowed with strength, many sons are born.",
-          "hindi_draft": "जब पञ्चम भाव बलवान बुध, गुरु और शुक्र द्वारा दृष्ट हो, तथा पञ्चमेश बलशाली हो, तो अनेक पुत्रों की उत्पत्ति होती है।"
+          ]
         },
         {
           "number": 13,
           "text": "सुतेशे चन्द्रसंयुक्ते तद्द्रेष्काणगतेऽपि वा ।\nतदा हि कन्यकोत्पत्तिः प्रवदेद् दैवचिन्तकः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If 5th lord is joined with the Moon or placed in Moon's dreshkana, the astrologer should predict the birth of female children (daughters).",
+          "hindi": "यदि पञ्चमेश चन्द्रमा से युक्त हो अथवा चन्द्रमा के द्रेष्काण में स्थित हो, तो ज्योतिषी को कन्याओं की उत्पत्ति का कथन करना चाहिए।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "entity:varga",
@@ -5013,16 +4967,14 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "If 5th lord is joined with the Moon or placed in Moon's dreshkana, the astrologer should predict the birth of female children (daughters).",
-          "hindi_draft": "यदि पञ्चमेश चन्द्रमा से युक्त हो अथवा चन्द्रमा के द्रेष्काण में स्थित हो, तो ज्योतिषी को कन्याओं की उत्पत्ति का कथन करना चाहिए।"
+          ]
         },
         {
           "number": 14,
           "text": "सुतेशे चरराशिस्थे राहुणा सहिते विधौ ।\nपुत्रस्थानः गते मन्दे परजातं वदेच्छिशुम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If 5th lord is in a movable sign, Moon is with Rahu, and Saturn is in the 5th, the child is born of another man (Parajata).",
+          "hindi": "यदि पञ्चमेश चर राशि में हो, चन्द्रमा राहु के साथ हो, तथा पञ्चम भाव में शनि हो, तो बालक पर-पुरुष से उत्पन्न (जारज) कहा जाता है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "chain:rahu_pos5",
@@ -5031,16 +4983,14 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "If 5th lord is in a movable sign, Moon is with Rahu, and Saturn is in the 5th, the child is born of another man (Parajata).",
-          "hindi_draft": "यदि पञ्चमेश चर राशि में हो, चन्द्रमा राहु के साथ हो, तथा पञ्चम भाव में शनि हो, तो बालक पर-पुरुष से उत्पन्न (जारज) कहा जाता है।"
+          ]
         },
         {
           "number": 15,
           "text": "लग्नादष्टमगे चन्द्रे चन्द्रादष्टमगे गुरौ ।\nपापग्रहैर्युते दृष्टे परजातो न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Moon is in the 8th from Lagna, and Jupiter is in the 8th from Moon, aspected by or joined with malefics, the child is undoubtedly Parajata.",
+          "hindi": "यदि लग्न से अष्टम में चन्द्रमा हो, और चन्द्रमा से अष्टम में गुरु हो, जो पापग्रहों से युक्त या दृष्ट हो, तो बालक निसंदेह परजात होता है।",
+          "status": "translated",
           "tags": [
             "chain:moon_with_moon",
             "graha:moon",
@@ -5048,16 +4998,14 @@
             "rel:conjunction",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "If Moon is in the 8th from Lagna, and Jupiter is in the 8th from Moon, aspected by or joined with malefics, the child is undoubtedly Parajata.",
-          "hindi_draft": "यदि लग्न से अष्टम में चन्द्रमा हो, और चन्द्रमा से अष्टम में गुरु हो, जो पापग्रहों से युक्त या दृष्ट हो, तो बालक निसंदेह परजात होता है।"
+          ]
         },
         {
           "number": 16,
           "text": "पुत्रस्थानाधिपे स्वोच्चे लग्नाद्वा द्वित्रिकोणगे ।\nगुरुणा संयुते दृष्टे पुत्रभाग्यमुपैति सः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When 5th lord is in exaltation or in a Kendra/Trikona from Lagna, aspected by or joined with Jupiter, happiness of children is assured.",
+          "hindi": "जब पञ्चमेश अपने उच्च स्थान में हो अथवा लग्न से केन्द्र या त्रिकोण में हो, गुरु से युक्त या दृष्ट हो, तो पुत्र-सुख सुनिश्चित होता है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "graha:jupiter",
@@ -5067,16 +5015,14 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "When 5th lord is in exaltation or in a Kendra/Trikona from Lagna, aspected by or joined with Jupiter, happiness of children is assured.",
-          "hindi_draft": "जब पञ्चमेश अपने उच्च स्थान में हो अथवा लग्न से केन्द्र या त्रिकोण में हो, गुरु से युक्त या दृष्ट हो, तो पुत्र-सुख सुनिश्चित होता है।"
+          ]
         },
         {
           "number": 17,
           "text": "त्रिचतुःपापसंयुक्ते सुते सौम्यविवर्जिते ।\nसुतेशे नीचराशिस्थे नीचसंस्थौ भवेच्छिशुः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 5th house is joined by 3 or 4 malefics bereft of benefic aspect, and 5th lord is debilitated, the child is of low status.",
+          "hindi": "यदि पञ्चम भाव ३ या ४ पापग्रहों से युक्त हो और शुभग्रहों की दृष्टि न हो, तथा पञ्चमेश नीच राशि में हो, तो बालक नीच स्थिति का होता है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "rel:conjunction",
@@ -5084,32 +5030,28 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "If the 5th house is joined by 3 or 4 malefics bereft of benefic aspect, and 5th lord is debilitated, the child is of low status.",
-          "hindi_draft": "यदि पञ्चम भाव ३ या ४ पापग्रहों से युक्त हो और शुभग्रहों की दृष्टि न हो, तथा पञ्चमेश नीच राशि में हो, तो बालक नीच स्थिति का होता है।"
+          ]
         },
         {
           "number": 18,
           "text": "पुत्रस्थानं गते जीवे तदीशे भृगुसंयुते ।\nद्वात्रिंशे च त्रयस्त्रिंशे वत्सरे पुत्रसम्भवः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Jupiter is in the 5th house and its lord is with Venus, birth of a son occurs in the thirty-second or thirty-third year.",
+          "hindi": "यदि पञ्चम भाव में गुरु हो और उसका स्वामी शुक्र के साथ हो, तो ३२वें या ३३वें वर्ष में पुत्र की उत्पत्ति होती है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "graha:jupiter",
             "graha:venus",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "If Jupiter is in the 5th house and its lord is with Venus, birth of a son occurs in the thirty-second or thirty-third year.",
-          "hindi_draft": "यदि पञ्चम भाव में गुरु हो और उसका स्वामी शुक्र के साथ हो, तो ३२वें या ३३वें वर्ष में पुत्र की उत्पत्ति होती है।"
+          ]
         },
         {
           "number": 19,
           "text": "सुतेशे केन्द्रभावस्थे कारकेण समन्विते ।\nषड्त्रिंशे त्रिंशदब्दे च पुत्रोत्पत्तिं विनिर्दिशेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When 5th lord is in a Kendra combined with the significator (Jupiter), birth of a son takes place in the thirty-sixth or thirtieth year.",
+          "hindi": "जब पञ्चमेश कारक (गुरु) के साथ केन्द्र में स्थित हो, तो ३६वें या ३०वें वर्ष में पुत्र-लाभ होता है।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "entity:bhava",
@@ -5117,16 +5059,14 @@
             "rel:house_group",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "When 5th lord is in a Kendra combined with the significator (Jupiter), birth of a son takes place in the thirty-sixth or thirtieth year.",
-          "hindi_draft": "जब पञ्चमेश कारक (गुरु) के साथ केन्द्र में स्थित हो, तो ३६वें या ३०वें वर्ष में पुत्र-लाभ होता है।"
+          ]
         },
         {
           "number": 20,
           "text": "लग्नाद् भाग्यगते जीवे जीवाद् भाग्यगते भृगौ ।\nलग्नेशे भृगुयुक्ते वा चत्वारिंशे सुतं वदेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Jupiter is in the 9th from Lagna, Venus is in the 9th from Jupiter, or Lagna lord is with Venus, birth of a son happens in the fortieth year.",
+          "hindi": "यदि लग्न से नवम में गुरु हो, गुरु से नवम में शुक्र हो, या लग्नेश शुक्र से युक्त हो, तो ४०वें वर्ष में पुत्र की प्राप्ति होती है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:9",
@@ -5136,9 +5076,7 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "If Jupiter is in the 9th from Lagna, Venus is in the 9th from Jupiter, or Lagna lord is with Venus, birth of a son happens in the fortieth year.",
-          "hindi_draft": "यदि लग्न से नवम में गुरु हो, गुरु से नवम में शुक्र हो, या लग्नेश शुक्र से युक्त हो, तो ४०वें वर्ष में पुत्र की प्राप्ति होती है।"
+          ]
         },
         {
           "number": 21,
@@ -16737,17 +16675,15 @@
         {
           "number": 1,
           "text": "लग्ने शुभयुते योगः शुभः पापयुतेऽशुभः ।\nव्ययस्वगैः शुभैः पापैः क्रमाद्योगौ शुभाऽशुभौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When benefics occupy Lagna, the yoga is auspicious; when malefics occupy Lagna, it is inauspicious. Benefics and malefics in 12th and 2nd produce good and bad yogas respectively.",
+          "hindi": "जब लग्न में शुभ ग्रह स्थित हों तो शुभ योग बनता है; जब पापग्रह हों तो अशुभ योग बनता है। १२वें और २रे भाव में शुभ या पापग्रहों के होने से क्रमशः शुभ व अशुभ योग होते हैं।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "entity:yoga",
             "rel:conjunction",
             "rel:polarity"
-          ],
-          "english_draft": "When benefics occupy Lagna, the yoga is auspicious; when malefics occupy Lagna, it is inauspicious. Benefics and malefics in 12th and 2nd produce good and bad yogas respectively.",
-          "hindi_draft": "जब लग्न में शुभ ग्रह स्थित हों तो शुभ योग बनता है; जब पापग्रह हों तो अशुभ योग बनता है। १२वें और २रे भाव में शुभ या पापग्रहों के होने से क्रमशः शुभ व अशुभ योग होते हैं।"
+          ]
         },
         {
           "number": 2,
@@ -16778,14 +16714,12 @@
         {
           "number": 4,
           "text": "गजकेसरीसञ्जातस्तेजस्वी धनवान् भवेत् ।\nमेधावी गुणसम्पन्नो राजप्रियकरो नरः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "One born in Gaja-Kesari yoga becomes radiant, wealthy, intelligent, endowed with virtues, and beloved of the king.",
+          "hindi": "गजकेसरी योग में उत्पन्न जातक तेजस्वी, धनवान, मेधावी, गुणवान तथा राजा का प्रिय पात्र होता है।",
+          "status": "translated",
           "tags": [
             "rel:modality"
-          ],
-          "english_draft": "One born in Gaja-Kesari yoga becomes radiant, wealthy, intelligent, endowed with virtues, and beloved of the king.",
-          "hindi_draft": "गजकेसरी योग में उत्पन्न जातक तेजस्वी, धनवान, मेधावी, गुणवान तथा राजा का प्रिय पात्र होता है।"
+          ]
         },
         {
           "number": 5,
@@ -32027,15 +31961,13 @@
         {
           "number": 7,
           "text": "तद्दोषपरिहारार्थं शिवसाहस्रकं जपेत् ।\nरुद्रजाप्यं च गोदानं कुर्यात् स्वाऽभीष्टलब्धये",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "To remedy that defect, one should recite the Shiva Sahasranama, perform Rudra japa, and give a cow, to obtain what one desires.",
+          "hindi": "उस दोष के निवारण के लिए शिव सहस्रनाम का पाठ करें, रुद्र-जप करें तथा अभीष्ट की प्राप्ति के लिए गोदान करें।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:jupiter"
-          ],
-          "english_draft": "Verse 7 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
@@ -32143,9 +32075,9 @@
         {
           "number": 15,
           "text": "दायेशात्केन्द्रकोणस्थे लाभे वा धनगेऽपि वा ।\nभूराभश्चार्थलाभश्च पुत्रलाभसुखं भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If placed in a Kendra, Trikona, 11th, or 2nd from Dasha lord, land gain, financial profit, and happiness of sons occur.",
+          "hindi": "यदि दशाधीश से केन्द्र, त्रिकोण, ११वें या २रे भाव में हो, तो भूमि-लाभ, धन-लाभ तथा पुत्र का सुख प्राप्त होता है।",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "bhava:2",
@@ -32155,9 +32087,7 @@
             "rel:lordship",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 15 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 16,
@@ -32838,9 +32768,9 @@
         {
           "number": 62,
           "text": "दायेशात्षष्ठरन्ध्रे वा व्यये वा बलवर्जिते ।\nमानार्थबन्धुहानिश्च विदेशपरिविच्युतिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Placed in 6th, 8th, or 12th from Dasha lord bereft of strength, loss of honor, wealth, and kinsmen occurs with foreign displacement.",
+          "hindi": "दशाधीश से ६, ८ या १२वें स्थान में बलहीन होकर स्थित होने पर मान, अर्थ व बन्धुओं की हानि तथा विदेश-गमन/पदच्युति होती है।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:8",
@@ -32849,9 +32779,7 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:state"
-          ],
-          "english_draft": "Verse 62 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 62 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 63,
@@ -32911,9 +32839,9 @@
         {
           "number": 67,
           "text": "दायेशात्केन्द्रकोणस्थे लाभे वा धनगेऽपि वा ।\nशुभयुक्ते शुभैर्दृष्टे धनधान्यादिसम्पदः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Situated in a Kendra, Trikona, 11th, or 2nd from Dasha lord, joined or aspected by benefics, wealth and grain abundance ensue.",
+          "hindi": "दशानाथ से केन्द्र, त्रिकोण, ११वें या २रे स्थान में स्थित होकर शुभग्रहों से युक्त या दृष्ट होने पर धन-धान्यादि संपत्ति प्राप्त होती है।",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "bhava:2",
@@ -32925,9 +32853,7 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 67 of chapter 56: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 56 के श्लोक 67 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 68,
@@ -33684,18 +33610,16 @@
         {
           "number": 42,
           "text": "द्वितीयद्यूननाथे तु देहबाधा भविष्यति ।\nतद्दोषपरिहारार्थं सूर्यपूजां च कारयेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If associated with 2nd or 7th lord, bodily suffering arises; to remedy this defect, perform worship of the Sun god.",
+          "hindi": "यदि द्वितीयेश या सप्तमेश से सम्बद्ध हो तो देह-बाधा उत्पन्न होती है; इस दोष की शांति हेतु सूर्यदेव का पूजन कराएं।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:yoga",
             "graha:sun",
             "mahadasha:saturn",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 42 of chapter 57: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 57 के श्लोक 42 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 43,
@@ -34223,9 +34147,9 @@
         {
           "number": 79,
           "text": "दायेशात्षष्ठरन्ध्रे वा व्यये वा बलवर्जिते ।\nबन्धुद्वेषो मनोदुःखं कलहः पदविच्युति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Occupying 6th, 8th, or 12th from Dasha lord devoid of strength, enmity with kinsmen, mental grief, quarrel, and displacement occur.",
+          "hindi": "दशानाथ से ६, ८ या १२वें भाव में बलहीन होने पर बन्धुओं से द्वेष, मन का दुःख, कलह और पदच्युति होती है।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:8",
@@ -34234,9 +34158,7 @@
             "rel:conjunction",
             "rel:lordship",
             "rel:state"
-          ],
-          "english_draft": "Verse 79 of chapter 57: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 57 के श्लोक 79 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 80,
@@ -34750,17 +34672,15 @@
         {
           "number": 34,
           "text": "द्वितीयद्यूननाथे तु देहबाधा भविष्यति ।\nतद्दोषपरिहारार्थं दुर्गादेवीजपं चरेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Combined with 2nd or 7th lord, bodily affliction occurs; to neutralize this evil, perform japa of Goddess Durga.",
+          "hindi": "यदि द्वितीयेश या सप्तमेश से युक्त हो तो शारीरिक कष्ट होता है; इस अरिष्ट के निवारण हेतु दुर्गा देवी के मंत्र का जप करें।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:yoga",
             "mahadasha:mercury",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 34 of chapter 58: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 58 के श्लोक 34 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 35,
@@ -35194,15 +35114,13 @@
         {
           "number": 66,
           "text": "तद्दोषपरिहारार्थं शिवसाहस्रकं जपेत् ।\nगोभूरिरण्यदानेन सर्वारिष्टं व्यपोहति",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "To neutralize this defect, recite Shiva Sahasranama and give gifts of cows, land, and gold to dispel all afflictions.",
+          "hindi": "इस दोष को दूर करने के लिए शिव सहस्रनाम का पाठ करें तथा गो, भूमि व स्वर्ण दान से सर्व अरिष्ट का निवारण करें।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:mercury"
-          ],
-          "english_draft": "Verse 66 of chapter 58: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 58 के श्लोक 66 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 67,
@@ -36153,15 +36071,13 @@
         {
           "number": 60,
           "text": "तद्दोषपरिहारार्थं शिवसाहस्रकं जपेत् ।\nमहामृत्युञ्जयं जाप्यं सर्वोपद्रवनाशनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "To remedy this evil, recite Shiva Sahasranama and perform Maha-Mrityunjaya japa to destroy all troubles.",
+          "hindi": "इस अनिष्ट के शमन के लिए शिव सहस्रनाम का पाठ करें और सर्व उपद्रवों के विनाश हेतु महामृत्युंजय जप करें।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "mahadasha:ketu"
-          ],
-          "english_draft": "Verse 60 of chapter 59: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 59 के श्लोक 60 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 61,
@@ -37327,9 +37243,9 @@
         {
           "number": 63,
           "text": "दायेशात्षष्ठरन्ध्रे वा व्यये वा बलवर्जिते ।\nपापदृष्टे पापयुक्ते चतुष्पाज्जीवहानिकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Situated in 6th, 8th, or 12th from Dasha lord bereft of power, aspected by or joined with malefics, loss of quadrupeds and livestock occurs.",
+          "hindi": "दशापति से ६, ८ या १२वें घर में शक्तिहीन होकर स्थित होने पर पापग्रहों से युक्त या दृष्ट होने से पशु-धन की हानि होती है।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:8",
@@ -37341,9 +37257,7 @@
             "rel:lordship",
             "rel:polarity",
             "rel:state"
-          ],
-          "english_draft": "Verse 63 of chapter 60: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 60 के श्लोक 63 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 64,
@@ -38604,15 +38518,13 @@
         {
           "number": 14,
           "text": "छत्रचामरसंयुक्तं वैभवं पुत्रसम्पदः ।\nसर्वत्र सुखमाप्नोति विधोः सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Endowed with royal umbrella, fly-whisk, majesty, and sons, one finds happiness everywhere during Sukshma Dasha of Jupiter in Moon.",
+          "hindi": "चन्द्रमा की सूक्ष्म दशा में गुरु होने पर छत्र, चंवर, वैभव तथा पुत्र-सम्पदा से युक्त होकर सर्वत्र सुख पाता है।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 14 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 14 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 15,
@@ -38972,14 +38884,12 @@
         {
           "number": 42,
           "text": "रोगान्मुक्तिः सुखं भोगो धनधान्यसमागमः ।\nपुत्रदारादिसौख्यं च गुरोः सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Freedom from disease, happiness, luxury, gain of food grains, and joy of wife and sons during Sukshma Dasha of Venus in Jupiter.",
+          "hindi": "गुरु की सूक्ष्म दशा में शुक्र होने पर रोगों से मुक्ति, सुख, भोग, धन-धान्य का समागम और स्त्री-पुत्र का सुख प्राप्त होता है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 42 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 42 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 43,
@@ -38996,15 +38906,13 @@
         {
           "number": 44,
           "text": "छत्रचामरसंयुक्तं वैभवं पुत्रसम्पदः ।\nनेत्रकुक्षिगता पीडा गुरोः सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Royal umbrella and fly-whisk, prosperity and wealth of sons, but pain in the eyes and belly, during the Sukshma Dasha of the Moon in Jupiter's.",
+          "hindi": "गुरु की सूक्ष्म दशा में चन्द्रमा होने पर छत्र, चंवर, वैभव तथा पुत्र-सम्पदा मिलती है, किन्तु नेत्र और उदर में पीड़ा होती है।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 44 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 44 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 45,
@@ -40052,14 +39960,12 @@
         {
           "number": 42,
           "text": "रोगान्मुक्तिः सुखं भोगो धनधान्यसमागमः ।\nपुत्रदारादिजं सौख्यं गुरोः प्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Relief from ailments, joy, enjoyment, accumulation of wealth, and happiness born of spouse and children during Prana Dasha of Venus in Jupiter.",
+          "hindi": "गुरु की प्राण दशा में शुक्र रहने पर व्याधियों से छुटकारा, आनंद, भोग, धन-धान्य का संग्रह और स्त्री-सन्तान से उत्पन्न सुख मिलता है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 42 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 42 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 43,
@@ -40076,15 +39982,13 @@
         {
           "number": 44,
           "text": "छत्रचामरसंयुक्तं वैभवं पुत्रसम्पदः ।\nनेत्रकुक्षिगता पीडा गुरोः प्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Possessing royal umbrella, fly-whisk, and wealth of sons, but eye and belly pain arises during Prana Dasha of Moon in Jupiter.",
+          "hindi": "गुरु की प्राण दशा में चन्द्रमा रहने पर छत्र, चंवर तथा पुत्र-वैभव प्राप्त होता है, किन्तु नेत्र व कुक्षि में व्यथा होती है।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 44 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 44 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 45,
