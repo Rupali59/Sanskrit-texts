@@ -860,422 +860,542 @@
         {
           "number": 4,
           "text": "नन्दावनीशैलभुवो दिगङ्कचन्द्रा हुताशग्रहपूर्णदस्राः। तुरङ्गषट्काकृतयः कुरामसिद्धाः शराष्टेषुयमाः क्रमेण॥४॥",
-          "english": "Further Sine values: 2585, 2728, 2859, 2978, 3084, 3177, 3256, 3321, 3372, 3409, 3431, 3438 (Radius R = 3438 minutes of arc).",
-          "hindi": "आगे की ज्याएँ: २५८५, २७२८, २८५९, २९७८, ३०८४, ३१७७, ३२५६, ३३२१, ३३७२, ३४०९, ३४३१, ३४३८ (त्रिज्या R = ३४३८ कला)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Further Sine values: 2585, 2728, 2859, 2978, 3084, 3177, 3256, 3321, 3372, 3409, 3431, 3438 (Radius R = 3438 minutes of arc).",
+          "hindi_draft": "आगे की ज्याएँ: २५८५, २७२८, २८५९, २९७८, ३०८४, ३१७७, ३२५६, ३३२१, ३३७२, ३४०९, ३४३१, ३४३८ (त्रिज्या R = ३४३८ कला)।"
         },
         {
           "number": 5,
           "text": "गजाश्विभान्यङ्कशराष्टदस्नास्तुरङ्गसप्तग्रहलोचनानि। अम्भोधिकुम्भ्यभ्रगुणास्तुरङ्गशैलेन्दुरामा रसभूतदन्ताः॥५॥",
-          "english": "Cosine (Koti-jya) values are derived in reverse order from Radius 3438 down to 225.",
-          "hindi": "उत्क्रम से इन्हीं मानों को लेने पर उत्क्रमज्या और कोटिज्या के मान प्राप्त होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Cosine (Koti-jya) values are derived in reverse order from Radius 3438 down to 225.",
+          "hindi_draft": "उत्क्रम से इन्हीं मानों को लेने पर उत्क्रमज्या और कोटिज्या के मान प्राप्त होते हैं।"
         },
         {
           "number": 6,
           "text": "कुदन्तलोका द्वितुरङ्गदेवा गोभ्राब्धिलोकाः कुगुणाब्धिरामाः। भुजङ्गलोकाब्धिगुणाः क्रमज्या अथोत्क्रमज्या मुनयोऽङ्कदस्राः॥६॥",
-          "english": "Differences of Sine values (Jya-antara) used for linear interpolation of Sines between tabular intervals of 225 minutes.",
-          "hindi": "२२५ कलाओं के अन्तराल पर ज्याओं के अन्तर (ज्यान्तर) का प्रयोग मध्यवर्ती कोणों की ज्या साधने हेतु किया जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Differences of Sine values (Jya-antara) used for linear interpolation of Sines between tabular intervals of 225 minutes.",
+          "hindi_draft": "२२५ कलाओं के अन्तराल पर ज्याओं के अन्तर (ज्यान्तर) का प्रयोग मध्यवर्ती कोणों की ज्या साधने हेतु किया जाता है।"
         },
         {
           "number": 7,
           "text": "रसर्तवो भूधरभूमिचन्द्रा द्व्यष्टेन्दवो भूरसलोचनानि। कृतेषुरामाः शशिषट्कवेदा नन्दाद्रिबाणा गगनेन्दुशैलाः॥७॥",
-          "english": "Computation of Sine for any given arc (Ishta-dhanus): Multiply remaining minutes by next Sine difference and divide by 225; add quotient to preceding tabular Sine.",
-          "hindi": "अभिलषित धनुष की ज्या साधन: गत ज्या में शेष कलाओं को अग्रिम ज्यान्तर से गुणा करके २२५ से भाग देकर प्राप्त फल जोड़ने पर इष्ट-ज्या सिद्ध होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Computation of Sine for any given arc (Ishta-dhanus): Multiply remaining minutes by next Sine difference and divide by 225; add quotient to preceding tabular Sine.",
+          "hindi_draft": "अभिलषित धनुष की ज्या साधन: गत ज्या में शेष कलाओं को अग्रिम ज्यान्तर से गुणा करके २२५ से भाग देकर प्राप्त फल जोड़ने पर इष्ट-ज्या सिद्ध होती है।"
         },
         {
           "number": 8,
           "text": "गुणेषुनागा नगखाभ्रचन्द्राः कुशैलरुद्राः शरवेदविश्वे। भुजङ्गनेत्रेषुभुवो नवेन्दुसप्तेन्दवोऽथो धृतिनन्दचन्द्राः॥८॥",
-          "english": "Computation of Inverse Sine (Arc / Dhanus): Subtract preceding tabular Sines from given Sine, multiply remainder by 225, divide by difference, and add to base arc.",
-          "hindi": "उत्क्रम ज्या (चाप/धनुष) साधन: दी गई ज्या में से गत पठित ज्या घटाकर शेष को २२५ से गुणा करके ज्यान्तर से भाग देकर गतांशों में जोड़ें।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Computation of Inverse Sine (Arc / Dhanus): Subtract preceding tabular Sines from given Sine, multiply remainder by 225, divide by difference, and add to base arc.",
+          "hindi_draft": "उत्क्रम ज्या (चाप/धनुष) साधन: दी गई ज्या में से गत पठित ज्या घटाकर शेष को २२५ से गुणा करके ज्यान्तर से भाग देकर गतांशों में जोड़ें।"
         },
         {
           "number": 9,
           "text": "त्रिसूर्यनेत्राण्यमरत्रिदुस्ना वस्वब्धितत्त्वानि नगर्तुभानि। गोष्टाङ्कन्दस्रा दहनेन्दुदन्ता नागाग्निवेदाज्यभुजस्रिभज्या॥९॥",
-          "english": "Radius R = 3438 minutes. 1 Rashi = 30 degrees = 1800 minutes. 90 degrees = 5400 minutes = 24 divisions of 225 minutes each.",
-          "hindi": "त्रिज्या R = ३४३८ कला। १ राशि = ३० अंश = १८०० कला। ९० अंश = ५४०० कला = २२५ कलाओं के २४ विभाग।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Radius R = 3438 minutes. 1 Rashi = 30 degrees = 1800 minutes. 90 degrees = 5400 minutes = 24 divisions of 225 minutes each.",
+          "hindi_draft": "त्रिज्या R = ३४३८ कला। १ राशि = ३० अंश = १८०० कला। ९० अंश = ५४०० कला = २२५ कलाओं के २४ विभाग।"
         },
         {
           "number": 10,
           "text": "तत्त्वाश्विभक्ता असवः कला वा तल्लब्धसंख्या गतशिञ्जिनी सा॥१०॥",
-          "english": "Minutes divided by 225 give quotient index of tabular Sine; remainder interpolated proportionally gives true Sine.",
-          "hindi": "कलाओं को २२५ से भाग देने पर लब्धि संख्या गत-शिञ्जिनी (पठित ज्या) का सूचकांक देती है; शेष का अनुपातिक फल ज्या बनता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Minutes divided by 225 give quotient index of tabular Sine; remainder interpolated proportionally gives true Sine.",
+          "hindi_draft": "कलाओं को २२५ से भाग देने पर लब्धि संख्या गत-शिञ्जिनी (पठित ज्या) का सूचकांक देती है; शेष का अनुपातिक फल ज्या बनता है।"
         },
         {
           "number": 11,
           "text": "ज्यां प्रोज्झ्य तत्त्वाश्विहतावशेषं यातैष्यजीवाविवरेण भक्तम्॥११॥",
-          "english": "Manda anomaly (Manda Kendra) = Planet Longitude - Mandocca Longitude. Sine of Manda Kendra = Bhuja-jya; Cosine = Koti-jya.",
-          "hindi": "मन्द केन्द्र = ग्रह - मन्दोच्च। मन्द केन्द्र की ज्या = भुजज्या तथा कोटि की ज्या = कोटिज्या कहलाती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Manda anomaly (Manda Kendra) = Planet Longitude - Mandocca Longitude. Sine of Manda Kendra = Bhuja-jya; Cosine = Koti-jya.",
+          "hindi_draft": "मन्द केन्द्र = ग्रह - मन्दोच्च। मन्द केन्द्र की ज्या = भुजज्या तथा कोटि की ज्या = कोटिज्या कहलाती है।"
         },
         {
           "number": 12,
           "text": "अश्वाङ्कविश्वे १३९७ऽत्र जिनांशजीवा यद्वा सुखार्थं लघुखण्डकैर्ज्या॥१२॥",
-          "english": "Sighra anomaly (Sighra Kendra) = Sighrocca Longitude - Planet Longitude. Sine = Bhuja-jya; Cosine = Koti-jya.",
-          "hindi": "शीघ्र केन्द्र = शीघ्रोच्च - ग्रह। शीघ्र केन्द्र की भुजज्या और कोटिज्या का साधन शीघ्र कर्म में किया जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sighra anomaly (Sighra Kendra) = Sighrocca Longitude - Planet Longitude. Sine = Bhuja-jya; Cosine = Koti-jya.",
+          "hindi_draft": "शीघ्र केन्द्र = शीघ्रोच्च - ग्रह। शीघ्र केन्द्र की भुजज्या और कोटिज्या का साधन शीघ्र कर्म में किया जाता है।"
         },
         {
           "number": 14,
           "text": "रूपाश्विनो विंशतिरङ्कचन्द्रा २१।२०।१९॥ अत्यष्टितिथ्यर्कनवेषुदस्राः १७।१५।१२।९।५।२। ज्याखण्डकान्यंशमितेर्दशाप्तं स्युर्यातखण्डान्यथ भोग्यनिघ्नाः।१३। शेषांशकाः खेन्दुहृता यदाप्तं तद्यातखण्डैक्ययुतं लघुज्या। जिनांशजीवाङ्ककृता विपादाः ४८।४५ स्यादुत्क्रमज्याऽत्र विलोमखण्डैः॥१४॥",
-          "english": "Manda epicycle circumferences (Manda Paridhi) in degrees for Sun = 13° 40'; Moon = 31° 40'; Mars = 63° / 70°; Mercury = 28° / 32°.",
-          "hindi": "मन्द परिधि (अंशों में): सूर्य = १३° ४०', चन्द्र = ३१° ४०', मगल = ६३°/७०', बुध = २८°/३२° होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Manda epicycle circumferences (Manda Paridhi) in degrees for Sun = 13° 40'; Moon = 31° 40'; Mars = 63° / 70°; Mercury = 28° / 32°.",
+          "hindi_draft": "मन्द परिधि (अंशों में): सूर्य = १३° ४०', चन्द्र = ३१° ४०', मगल = ६३°/७०', बुध = २८°/३२° होती है।"
         },
         {
           "number": 17,
           "text": "विशोध्य खण्डान्यवशेषकार्धनिध्नं गतैष्यान्तरमेष्यभक्तम्। फलोनयुग्येयगतैक्यखण्डं चापार्थमेवं स्फुटभोग्यखण्डम्॥१७॥",
-          "english": "Jupiter Manda Paridhi = 32° / 38°; Venus = 11° / 18°; Saturn = 40° / 48° in odd and even quadrants.",
-          "hindi": "गुरु की मन्द परिधि = ३२°/३८°, शुक्र = ११°/१८°, शनि = ४०°/४८° ओज (विषम) और युग्म (सम) पदों में होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Jupiter Manda Paridhi = 32° / 38°; Venus = 11° / 18°; Saturn = 40° / 48° in odd and even quadrants.",
+          "hindi_draft": "गुरु की मन्द परिधि = ३२°/३८°, शुक्र = ११°/१८°, शनि = ४०°/४८° ओज (विषम) और युग्म (सम) पदों में होती है।"
         },
         {
           "number": 18,
           "text": "मृदूच्चेन हीनो ग्रहो मन्दकेन्द्रं चलोच्चं ग्रहोनं भवेच्छीघ्रकेन्द्रम्। तुलाजादिकेन्द्रे फलं स्वर्णमेवं मृदु ज्ञेयमस्माद्विलोमं च शीघ्रम्॥१८॥",
-          "english": "Sighra epicycle circumferences (Sighra Paridhi): Mars = 232°/235°; Mercury = 132°/133°; Jupiter = 68°/72°; Venus = 258°/262°; Saturn = 39°/40°.",
-          "hindi": "शीघ्र परिधि: मंगल = २३२°/२३५°, बुध = १३२°/१३३°, गुरु = ६८°/७२°, शुक्र = २५८°/२६२°, शनि = ३९°/४०° होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sighra epicycle circumferences (Sighra Paridhi): Mars = 232°/235°; Mercury = 132°/133°; Jupiter = 68°/72°; Venus = 258°/262°; Saturn = 39°/40°.",
+          "hindi_draft": "शीघ्र परिधि: मंगल = २३२°/२३५°, बुध = १३२°/१३३°, गुरु = ६८°/७२°, शुक्र = २५८°/२६२°, शनि = ३९°/४०° होती है।"
         },
         {
           "number": 19,
           "text": "त्रिभिर्भैः पदं तानि चत्वारि चक्रे क्रमात् स्यादयुग्युग्मसंज्ञा च तेषाम्। अयुग्मे पदे यातमेष्यं तु युग्मे भुजो बाहुहीनं त्रिभं कोटिरुक्ता॥१९॥",
-          "english": "Multiply Sine of anomaly by Manda Paridhi and divide by 360 to get Bhuja-phala (Manda Sine Equation in minutes of arc).",
-          "hindi": "केन्द्र की भुजज्या को मन्द परिधि से गुणा करके ३६० से भाग देने पर भुजफल (मन्द फल कलाओं में) प्राप्त होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Multiply Sine of anomaly by Manda Paridhi and divide by 360 to get Bhuja-phala (Manda Sine Equation in minutes of arc).",
+          "hindi_draft": "केन्द्र की भुजज्या को मन्द परिधि से गुणा करके ३६० से भाग देने पर भुजफल (मन्द फल कलाओं में) प्राप्त होता है।"
         },
         {
           "number": 20,
           "text": "ये दोः कोट्योः स्तः क्रमज्ये तदूने त्रिज्ये ते वा  कोटिदोरुत्क्रमज्ये। ये दोःकोट्योरुत्क्रमज्ये तदूने त्रिज्ये ते वा कोटिदोष्णोः क्रमज्ये॥२०॥",
-          "english": "Arc Sine of Bhuja-phala / 3438 gives Mandaphala (Equation of Center) in degrees/minutes. Added to mean planet if anomaly is in 3rd/4th quadrant, subtracted if in 1st/2nd quadrant.",
-          "hindi": "भुजफल से प्राप्त मन्दफल (चाप) यदि केन्द्र १-६ राशि में हो तो घट Plain (ऋण) और ७-१२ राशि में हो तो धन (योग) किया जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Arc Sine of Bhuja-phala / 3438 gives Mandaphala (Equation of Center) in degrees/minutes. Added to mean planet if anomaly is in 3rd/4th quadrant, subtracted if in 1st/2nd quadrant.",
+          "hindi_draft": "भुजफल से प्राप्त मन्दफल (चाप) यदि केन्द्र १-६ राशि में हो तो घट Plain (ऋण) और ७-१२ राशि में हो तो धन (योग) किया जाता है।"
         },
         {
           "number": 22,
           "text": "मन्दोच्चनीचपरिधिस्त्रिलवोनशक्र १३।४० भागा रवेर्जिनकलोनरदा ३१।३६ हिमांशोः। खाश्वा ७० भुजङ्गदहना ३८ अमरा ३३ भवाश्च ११ पूर्णेषवो ५० निगदिताः क्षितिजादिकानाम्॥२२॥",
-          "english": "Hypotenuse (Karna) for Sighra correction = SquareRoot[ (Radius ± Koti-phala)^2 + Bhuja-phala^2 ].",
-          "hindi": "शीघ्र कर्म में कर्ण साधन: कर्ण = √[ (त्रिज्या ± कोटिफल)² + भुजफल² ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Hypotenuse (Karna) for Sighra correction = SquareRoot[ (Radius ± Koti-phala)^2 + Bhuja-phala^2 ].",
+          "hindi_draft": "शीघ्र कर्म में कर्ण साधन: कर्ण = √[ (त्रिज्या ± कोटिफल)² + भुजफल² ]।"
         },
         {
           "number": 25,
           "text": "र्मौर्व्योद्धृताप्तलवहीनयुतं मृदूच्चम्। भौमस्य कर्किमकरादिगते स्वकेन्द्रे लब्धांशकैर्विरहितः परिधिस्तु शैघ्न्य॥२५॥",
-          "english": "Sighraphala (Equation of Conjunction) = ArcTan[ (Radius x Bhuja-phala) / Karna ]. Added to planet if Sighra Kendra is in 1st/2nd quadrant, subtracted if in 3rd/4th.",
-          "hindi": "शीघ्रफल = धनुष[ (त्रिज्या × भुजफल) / कर्ण ]। शीघ्र केन्द्र ०-६ राशि में धन तथा ६-१२ राशि में ऋण होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sighraphala (Equation of Conjunction) = ArcTan[ (Radius x Bhuja-phala) / Karna ]. Added to planet if Sighra Kendra is in 1st/2nd quadrant, subtracted if in 3rd/4th.",
+          "hindi_draft": "शीघ्रफल = धनुष[ (त्रिज्या × भुजफल) / कर्ण ]। शीघ्र केन्द्र ०-६ राशि में धन तथा ६-१२ राशि में ऋण होता है।"
         },
         {
           "number": 26,
           "text": "स्वेनाऽऽहते परिधिना भुजकोटिजीवे भांशैः ३६० हृते च भुजकोटिफलाह्वये स्तः। त्रिज्योद्धृते च यदि वाऽन्त्यफलज्यकाघ्न्यौ त्रिज्योद्भवं फलमिहान्त्यफलस्य जीवा॥२६॥",
-          "english": "4-Step correction process for 5 planets (Mars, Mercury, Jupiter, Venus, Saturn): 1. Apply half Sighraphala, 2. Apply half Mandaphala, 3. Apply full Mandaphala to mean planet, 4. Apply full Sighraphala to get true planet (Spashta Graha).",
-          "hindi": "पञ्चतारका ग्रहों (भौमादि) का ४-संस्कार क्रम: १. अर्ध-शीघ्र फल, २. अर्ध-मन्द फल, ३. सकल मन्द फल मध्यम ग्रह में, ४. सकल शीघ्र फल से परम स्पष्ट ग्रह सिद्ध होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "4-Step correction process for 5 planets (Mars, Mercury, Jupiter, Venus, Saturn): 1. Apply half Sighraphala, 2. Apply half Mandaphala, 3. Apply full Mandaphala to mean planet, 4. Apply full Sighraphala to get true planet (Spashta Graha).",
+          "hindi_draft": "पञ्चतारका ग्रहों (भौमादि) का ४-संस्कार क्रम: १. अर्ध-शीघ्र फल, २. अर्ध-मन्द फल, ३. सकल मन्द फल मध्यम ग्रह में, ४. सकल शीघ्र फल से परम स्पष्ट ग्रह सिद्ध होता है।"
         },
         {
           "number": 27,
           "text": "स्वकोटिजीवान्त्यफलज्ययोर्यो योगो मृगादावथ कर्कटादौ। केन्द्रेऽन्तरं तद्भुजजीवयोर्यद्वर्गैक्यमूलं कथितः स कर्णः॥२७॥",
-          "english": "For Sun and Moon, only single Manda correction (Mandaphala) is applied to obtain their true longitudes.",
-          "hindi": "सूर्य और चन्द्रमा में केवल एक मन्द संस्कार (मन्दफल) करने से ही उनका परम स्पष्ट मान सिद्ध हो जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "For Sun and Moon, only single Manda correction (Mandaphala) is applied to obtain their true longitudes.",
+          "hindi_draft": "सूर्य और चन्द्रमा में केवल एक मन्द संस्कार (मन्दफल) करने से ही उनका परम स्पष्ट मान सिद्ध हो जाता है।"
         },
         {
           "number": 28,
           "text": "त्रिज्या तथा कोटिफलेन युक्ता हीना च तद्दोःफलवर्गयोगात्। मूलं श्रुतिर्वाऽन्त्यफलत्रिमौर्व्योर्वर्गैक्यराशेश्च तथा युतोनात्॥२८॥",
-          "english": "True Daily Velocity (Spashta Gati) = Mean Velocity ± [ Daily Change in Mandaphala/Sighraphala ].",
-          "hindi": "स्पष्ट दैनिक गति = मध्यम गति ± [ मन्दफल/शीघ्रफल की दैनिक क्रान्ति परिवर्तन ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "True Daily Velocity (Spashta Gati) = Mean Velocity ± [ Daily Change in Mandaphala/Sighraphala ].",
+          "hindi_draft": "स्पष्ट दैनिक गति = मध्यम गति ± [ मन्दफल/शीघ्रफल की दैनिक क्रान्ति परिवर्तन ]।"
         },
         {
           "number": 29,
           "text": "__________________________________________________ त्रिभज्यया कोटिफलद्विनिघ्न्या कोटिज्यया वाऽन्त्यफलद्विनिघ्न्या। मूलं श्रुतिर्वा मृदुदोःफलस्य चापं बुधा मन्दफलं वदन्ति॥२९॥",
-          "english": "When Sighra Kendra is near 180 degrees (conjunction/opposition), planet becomes retrograde (Vakra); when rate of Sighraphala subtraction exceeds mean velocity, motion becomes westward/retrograde.",
-          "hindi": "जब शीघ्र केन्द्र १८० अंश के समीप होता है और शीघ्रफल घटने की दर मध्यम गति से अधिक हो जाती है, तब ग्रह वक्री (पश्चिमगामी) हो जाता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "When Sighra Kendra is near 180 degrees (conjunction/opposition), planet becomes retrograde (Vakra); when rate of Sighraphala subtraction exceeds mean velocity, motion becomes westward/retrograde.",
+          "hindi_draft": "जब शीघ्र केन्द्र १८० अंश के समीप होता है और शीघ्रफल घटने की दर मध्यम गति से अधिक हो जाती है, तब ग्रह वक्री (पश्चिमगामी) हो जाता है।"
         },
         {
           "number": 30,
           "text": "ये केन्द्रदोर्ज्ये लघुखण्डकोत्थे क्रमाद्रवीन्द्वोर्नखसंगुणे ते। भक्ते त्रिखेशैर्मुनिसप्तवेदैर्यद्वा तयोर्मन्दफले लवाद्ये॥३०॥",
-          "english": "Stationary points (Ruju-gati / Vakra-gati thresholds): Exact anomaly degrees where planetary motion transitions between direct, stationary, and retrograde.",
-          "hindi": "ऋजु और वक्र गति के सन्धि-स्थान: वे विशिष्ट केन्द्रांश जहाँ ग्रह की गति मार्गदर्शक (सीधी), स्थिर (अति-मन्द) तथा वक्री बनती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Stationary points (Ruju-gati / Vakra-gati thresholds): Exact anomaly degrees where planetary motion transitions between direct, stationary, and retrograde.",
+          "hindi_draft": "ऋजु और वक्र गति के सन्धि-स्थान: वे विशिष्ट केन्द्रांश जहाँ ग्रह की गति मार्गदर्शक (सीधी), स्थिर (अति-मन्द) तथा वक्री बनती है।"
         },
         {
           "number": 31,
           "text": "तत्कोटिजीवा कृतबाणभक्ता रवेर्विधोर्वेदहताऽद्रिभक्ता। लब्धाः कलाः कर्किमृगादिकेन्द्रे गतेः फलं तत्क्रमशो धनर्णम्॥३१॥",
-          "english": "Detailed anomaly angles for Mars retrograde entry and exit points.",
-          "hindi": "मंगल की वक्र-प्रारम्भ एवं वक्र-त्याग के केन्द्रांशों का स्पष्ट गणित।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Detailed anomaly angles for Mars retrograde entry and exit points.",
+          "hindi_draft": "मंगल की वक्र-प्रारम्भ एवं वक्र-त्याग के केन्द्रांशों का स्पष्ट गणित।"
         },
         {
           "number": 32,
           "text": "द्राग्दोःफलात् संगुणितात् त्रिमौर्व्या घाताद्भुजज्यान्त्यफलज्ययोर्वा कर्णोद्धृताद्यत् सममेव लब्धं तत्कार्मुकं शीघ्रफलं ग्रहाणाम्॥३२॥",
-          "english": "Mercury retrograde entry and exit anomaly degrees.",
-          "hindi": "बुध ग्रह की वक्र गति आरम्भ और समाप्ति के विशिष्ट कोण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Mercury retrograde entry and exit anomaly degrees.",
+          "hindi_draft": "बुध ग्रह की वक्र गति आरम्भ और समाप्ति के विशिष्ट कोण।"
         },
         {
           "number": 33,
           "text": "त्रिज्याहता कर्णहृता भुजज्या तच्चापबाह्वोर्विवरं फलं वा। ज्ञेयोऽत्र बाहुः प्रतिमण्डलस्य चापेन शीघ्रान्त्यफलज्यकायाः॥३३॥",
-          "english": "Jupiter retrograde limits in degrees of anomaly.",
-          "hindi": "बृहस्पति (गुरु) की वक्र गति सीमाओं के अंशात्मक मान।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Jupiter retrograde limits in degrees of anomaly.",
+          "hindi_draft": "बृहस्पति (गुरु) की वक्र गति सीमाओं के अंशात्मक मान।"
         },
         {
           "number": 35,
           "text": "स्यात् संस्कृतो मन्दफलेन मध्यो मन्दस्फुटोऽस्माच्चलकेन्द्रपूर्वम्॥ विधाय शैघ्य्रेण फलेन चैवं खेटः स्फुटः स्यादसकृत् फलाभ्याम्। दलीकृताभ्यां प्रथमं फलाभ्यां ततोऽखिलाभ्यामसकृत् कुजस्तु॥३५॥",
-          "english": "Venus retrograde anomaly limits.",
-          "hindi": "शुक्र ग्रह की वक्र गति के आरम्भ और अन्त के केन्द्रांश।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Venus retrograde anomaly limits.",
+          "hindi_draft": "शुक्र ग्रह की वक्र गति के आरम्भ और अन्त के केन्द्रांश।"
         },
         {
           "number": 36,
           "text": "दिनान्तरस्पष्टखगान्तरं स्याद् गतिः स्फुटा तत्समयान्तराले॥३६॥",
-          "english": "Saturn retrograde anomaly limits.",
-          "hindi": "शनि ग्रह की वक्र गति के केन्द्रांशों का गणितीय निरूपण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Saturn retrograde anomaly limits.",
+          "hindi_draft": "शनि ग्रह की वक्र गति के केन्द्रांशों का गणितीय निरूपण।"
         },
         {
           "number": 37,
           "text": "कोटीफलघ्नी मृदुकेन्द्रभुक्तिस्त्रिज्योद्धृता कर्किमृगादिकेन्द्रे। तया युतोना ग्रहमध्यभुक्तिस्तात्कालिकी मन्दपरिस्फुटा स्यात्॥३७॥",
-          "english": "Latitude of planet (Vikshepa / Bhuta-nati) = R x Sin(Argument of Latitude) x Parama-vikshepa / Karna.",
-          "hindi": "ग्रह का अक्षांश (विक्षेप) = त्रिज्या × ज्या(पातान्तर) × परम विक्षेप / कर्ण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Latitude of planet (Vikshepa / Bhuta-nati) = R x Sin(Argument of Latitude) x Parama-vikshepa / Karna.",
+          "hindi_draft": "ग्रह का अक्षांश (विक्षेप) = त्रिज्या × ज्या(पातान्तर) × परम विक्षेप / कर्ण।"
         },
         {
           "number": 38,
           "text": "समीपतिथ्यन्तसमीपचालनं विधोस्तु तत्कालजयैव युज्यते। सुदूरसंचालनमाद्यया यतः प्रतिक्षणं सा न समा महत्वतः॥३८॥",
-          "english": "Maximum latitudes (Parama Vikshepa): Mars = 1.5°, Mercury = 2°, Jupiter = 1.25°, Venus = 2°, Saturn = 2.4°.",
-          "hindi": "ग्रहों के परम विक्षेप (अधिकतम अक्षांश): मंगल = १.५°, बुध = २°, गुरु = १.२५°, शुक्र = २°, शनि = २.४°।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Maximum latitudes (Parama Vikshepa): Mars = 1.5°, Mercury = 2°, Jupiter = 1.25°, Venus = 2°, Saturn = 2.4°.",
+          "hindi_draft": "ग्रहों के परम विक्षेप (अधिकतम अक्षांश): मंगल = १.५°, बुध = २°, गुरु = १.२५°, शुक्र = २°, शनि = २.४°।"
         },
         {
           "number": 39,
           "text": "फलांशखाङ्कान्तरशिञ्जिनीघ्नी द्राक्केन्द्रभुक्तिः श्रुतिहृद्विशोध्या। स्वशीघ्रभुक्तेः स्फुटखेटभुक्तिः शेषं च वक्रा विपरीतशुद्धौ॥३९॥",
-          "english": "Reduction to Ecliptic (Drig-karma / Svadesha Vikshepa) adjustments.",
-          "hindi": "कदम्ब-प्रोत एवं ध्रुव-प्रोत वृत्तों के अनुसार अक्षांश और कान्ति वृत्त संस्कार (दृक्कर्म)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Reduction to Ecliptic (Drig-karma / Svadesha Vikshepa) adjustments.",
+          "hindi_draft": "कदम्ब-प्रोत एवं ध्रुव-प्रोत वृत्तों के अनुसार अक्षांश और कान्ति वृत्त संस्कार (दृक्कर्म)।"
         },
         {
           "number": 43,
           "text": "यस्तश्च पञ्चतिथिभि १५५ र्मुनिसप्तभूमिः १७७। प्रागुद्गमः शरनखै २०५ स्त्रिधृतिप्रमाणै–१८३ रस्तश्च तत्र दशवह्निभि ३१० रङ्गन्देवैः ३३६॥४३॥",
-          "english": "True apparent daily velocity calculation using Instantaneous Sine differentials (Bhokti-kalam).",
-          "hindi": "तात्कालिक ज्या-अन्तरों के प्रयोग से यथार्थ तात्कालिक गति साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "True apparent daily velocity calculation using Instantaneous Sine differentials (Bhokti-kalam).",
+          "hindi_draft": "तात्कालिक ज्या-अन्तरों के प्रयोग से यथार्थ तात्कालिक गति साधन।"
         },
         {
           "number": 44,
           "text": "अवक्रवक्रास्तमयोदयोक्तभागाधिकोनाः कलिका विभक्ताः। द्राक्केन्द्रभुक्त्याऽऽप्तदिनैर्गतैष्यैरवक्रवक्रास्तमयोदयाः स्युः॥४४॥",
-          "english": "Mandaphala motion correction formula: (Daily motion x Manda Paridhi x Cosine of Manda Kendra) / (360 x Radius).",
-          "hindi": "मन्दफल-गति संस्कार: (दैहिक गति × मन्द परिधि × कोटिज्या) / (३६० × त्रिज्या)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Mandaphala motion correction formula: (Daily motion x Manda Paridhi x Cosine of Manda Kendra) / (360 x Radius).",
+          "hindi_draft": "मन्दफल-गति संस्कार: (दैहिक गति × मन्द परिधि × कोटिज्या) / (३६० × त्रिज्या)।"
         },
         {
           "number": 45,
           "text": "स्फुटग्रहं मध्यखगं प्रकल्प्य कृत्वा फले मन्दचले यथोक्ते। ताभ्यां मुहुर्व्यस्तधनर्णकाभ्यां सुसंस्कृतो मध्यखगो भवेत् सः॥४५॥",
-          "english": "Sighraphala motion correction formula taking into account Hypotenuse variations.",
-          "hindi": "कर्ण-परिवर्तन को ध्यान में रखते हुए शीघ्रफल-गति का सूक्ष्म संस्कार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sighraphala motion correction formula taking into account Hypotenuse variations.",
+          "hindi_draft": "कर्ण-परिवर्तन को ध्यान में रखते हुए शीघ्रफल-गति का सूक्ष्म संस्कार।"
         },
         {
           "number": 46,
           "text": "क्रियतुलाधरसंक्रमपूर्वतोऽयनलवोत्थादिनैर्विषुवद्दिनम्। मकरकर्कटसंक्रमतोऽयनं द्युदलभा विषुवद्दिवसेऽक्षभा॥४६॥",
-          "english": "Net true daily velocity (Sphuta Gati) combines mean velocity, Manda motion, and Sighra motion.",
-          "hindi": "स्पष्ट दैनिक गति = मध्यम गति ± मन्दगति-फल ± शीघ्रगति-फल का बीजीय योग।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Net true daily velocity (Sphuta Gati) combines mean velocity, Manda motion, and Sighra motion.",
+          "hindi_draft": "स्पष्ट दैनिक गति = मध्यम गति ± मन्दगति-फल ± शीघ्रगति-फल का बीजीय योग।"
         },
         {
           "number": 47,
           "text": "युक्तायनांशादपमः प्रसाध्यः कालौ च खेटात् खलु भुक्तभोग्यौ। जिनांशमौर्व्या १३९७ गुणितार्कदोर्ज्या त्रिज्यो३४३८द्धृता क्रान्तिगुणोऽस्य वर्गम्॥४७॥",
-          "english": "Conditions for Retrograde (Vakra), Re-retrograde (Anuvakra), Stationary (Samakala), and Direct (Ruju) speeds.",
-          "hindi": "वक्र, अनुवक्र, समकला (स्थिर) तथा ऋजु गतियों की यथार्थ कसौटियाँ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Conditions for Retrograde (Vakra), Re-retrograde (Anuvakra), Stationary (Samakala), and Direct (Ruju) speeds.",
+          "hindi_draft": "वक्र, अनुवक्र, समकला (स्थिर) तथा ऋजु गतियों की यथार्थ कसौटियाँ।"
         },
         {
           "number": 48,
           "text": "__________________________________________________ त्रिज्याकृतेः ११८१९८४४ प्रोह्य पदं द्युजीवा क्रान्तिर्भवेत्क्रान्तिगुणस्य चापम्। अक्षप्रभा संगुणिताऽपमज्या तद्द्वादशांशो भवति क्षितिज्या॥४८॥",
-          "english": "When planet's retrogradation speed equals solar motion, apparent standstill occurs.",
-          "hindi": "जब ग्रह की वक्र गति सूर्य की गति के समतुल्य होती है, तब ग्रह स्थिर (दृष्टि-अचल) प्रतीत होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "When planet's retrogradation speed equals solar motion, apparent standstill occurs.",
+          "hindi_draft": "जब ग्रह की वक्र गति सूर्य की गति के समतुल्य होती है, तब ग्रह स्थिर (दृष्टि-अचल) प्रतीत होता है।"
         },
         {
           "number": 49,
           "text": "स्वदेशजैस्तच्चरखण्डकैर्वा लघुज्यकावद्रविदोस्त्रिभागात्॥४९॥",
-          "english": "Latitude correction to daily motion (Vikshepa-gati-samskara).",
-          "hindi": "ग्रह के विक्षेप (अक्षांश) के कारण उसकी दैनिक गति में होने वाला सूक्ष्म परिष्कार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Latitude correction to daily motion (Vikshepa-gati-samskara).",
+          "hindi_draft": "ग्रह के विक्षेप (अक्षांश) के कारण उसकी दैनिक गति में होने वाला सूक्ष्म परिष्कार।"
         },
         {
           "number": 50,
           "text": "मेषादिराशिंत्रितयस्य यानि चराण्यधोऽधः परिशोधितानि। तानि स्वदेशे चरखण्डकानि दिङ्नागसत्र्यंशगुणै १०।८।३२० र्विनिघ्नी ॥५०॥",
-          "english": "Planetary Declination (Kranti) = ArcSin[ Sin(True Longitude) x Sin(24°) ].",
-          "hindi": "ग्रह की क्रान्ति = धनुष[ ज्या(स्पष्ट ग्रह) × ज्या(२४°) ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Planetary Declination (Kranti) = ArcSin[ Sin(True Longitude) x Sin(24°) ].",
+          "hindi_draft": "ग्रह की क्रान्ति = धनुष[ ज्या(स्पष्ट ग्रह) × ज्या(२४°) ]।"
         },
         {
           "number": 51,
           "text": "पलप्रभा तोयपलात्मकानि स्थूलानि वा स्युश्चरखण्डकानि। स्थूलं चरं चाम्बुपलात्मकं तैस्तत्प्राणचापं यदि वाऽपि सूक्ष्मम्॥५१॥",
-          "english": "True Declination including Latitude = Kranti ± Vikshepa.",
-          "hindi": "स्पष्ट क्रान्ति = सूर्य-क्रान्ति ± ग्रह-विक्षेप (समान या भिन्न दिशा अनुसार)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "True Declination including Latitude = Kranti ± Vikshepa.",
+          "hindi_draft": "स्पष्ट क्रान्ति = सूर्य-क्रान्ति ± ग्रह-विक्षेप (समान या भिन्न दिशा अनुसार)।"
         },
         {
           "number": 52,
           "text": "चरघटीसहिता रहिताः क्रमात्तिथिमिता घटिकाः खलु गोलयोः। भवति तद् द्युदलं निजसावनं खगुणतः पतितं रजनीदलम्॥५२॥",
-          "english": "Sun's maximum declination (Parama Kranti) = 24 degrees (Obliquity of Ecliptic).",
-          "hindi": "सूर्य की परम क्रान्ति (परम अपक्रम) = २४ अंश (क्रान्तिवृत्त का झुकाव)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sun's maximum declination (Parama Kranti) = 24 degrees (Obliquity of Ecliptic).",
+          "hindi_draft": "सूर्य की परम क्रान्ति (परम अपक्रम) = २४ अंश (क्रान्तिवृत्त का झुकाव)।"
         },
         {
           "number": 53,
           "text": "चरघ्नभुक्तिर्द्युनिशासु भक्ता तयोनयुक्तः खचरो विधेयः। क्रमादुदग्दक्षिणगोलगेऽर्के सूर्योदये व्यस्तमतोऽस्तकाले॥५३॥",
-          "english": "Calculation of Right Ascension (Lanka-udaya) and Ascensional Difference (Chara-khanda).",
-          "hindi": "विषुवद्वृत्त पर विषुवांश (लङ्कोदय) तथा चरांशों का साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Calculation of Right Ascension (Lanka-udaya) and Ascensional Difference (Chara-khanda).",
+          "hindi_draft": "विषुवद्वृत्त पर विषुवांश (लङ्कोदय) तथा चरांशों का साधन।"
         },
         {
           "number": 54,
           "text": "एकस्य राशेर्बृहती ज्यका या द्वयोस्त्रिभस्यापि कृतीकृतानाम्। स्वस्वापमज्याकृतिवर्जितानां मूलानि तासां त्रिगुणा ३४३८ हतानि॥५४॥",
-          "english": "Calculation of true planet position for any given local time of day or night.",
-          "hindi": "दिन या रात्रि के किसी भी इष्ट काल पर तात्कालिक स्पष्ट ग्रह साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Calculation of true planet position for any given local time of day or night.",
+          "hindi_draft": "दिन या रात्रि के किसी भी इष्ट काल पर तात्कालिक स्पष्ट ग्रह साधन।"
         },
         {
           "number": 55,
           "text": "स्वस्वद्युमौर्व्या विभजेत् फलानां चापान्यधोऽधः परिशोधितानि। क्रमोत्क्रमस्थानि निरक्षदेशे मेषादिकानामुदयासवः स्युः॥५५॥",
-          "english": "Instantaneous longitude formula at target moment (Tatkalika Spashta Graha).",
-          "hindi": "इष्ट क्षण के लिए तात्कालिक स्पष्ट ग्रह की सूक्ष्म गणितीय विधि।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Instantaneous longitude formula at target moment (Tatkalika Spashta Graha).",
+          "hindi_draft": "इष्ट क्षण के लिए तात्कालिक स्पष्ट ग्रह की सूक्ष्म गणितीय विधि।"
         },
         {
           "number": 56,
           "text": "कीटादिराश्यन्तजकोटिजीवास्त्रिज्या ३४३८ गुणाः स्वस्वदिनज्ययाऽऽप्ताः। चापीकृताः प्राग्वदधो विशुद्धाः कीटादिकानामुदयासवो वा॥५६॥",
-          "english": "Correction for atmospheric refraction and parallax (Lambana and Nati) in eclipses.",
-          "hindi": "सूर्य-चन्द्र ग्रहणों में लम्बन और नति (दृक्-लम्बन) का संस्कार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Correction for atmospheric refraction and parallax (Lambana and Nati) in eclipses.",
+          "hindi_draft": "सूर्य-चन्द्र ग्रहणों में लम्बन और नति (दृक्-लम्बन) का संस्कार।"
         },
         {
           "number": 57,
           "text": "मेषादिजीवास्त्रिगृहद्युमौर्व्या ३१४१ क्षुण्णा हृताः स्वस्वदिनज्यया वा। चापीकृताः प्राग्वदधो विशुद्धा मेषादिकानामुदयासवः स्युः॥५७॥",
-          "english": "Parallax in longitude (Lambana) and Parallax in latitude (Nati) defined.",
-          "hindi": "देशान्तर एवं अक्षांशगत लम्बन (दृक्-लम्बन) की परिभाषा एवं साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Parallax in longitude (Lambana) and Parallax in latitude (Nati) defined.",
+          "hindi_draft": "देशान्तर एवं अक्षांशगत लम्बन (दृक्-लम्बन) की परिभाषा एवं साधन।"
         },
         {
           "number": 58,
           "text": "तेऽभ्रादिभूपा १६७० गुणगोऽद्रिचन्द्राः १७९३ सप्ताभिनन्देन्दुमिता १९३७ अथैते। क्रमोत्क्रमस्थाश्चरखण्डकैः स्वैः क्रमोत्क्रमस्थैश्च विहीनयुक्ताः॥५८॥",
-          "english": "Moon's distance in yojanas and angular diameter (Bimba-mana) of Sun and Moon.",
-          "hindi": "सूर्य और चन्द्रमा के योजन-बिम्ब तथा कोणीय व्यास (कलात्मक बिम्ब-मान)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Moon's distance in yojanas and angular diameter (Bimba-mana) of Sun and Moon.",
+          "hindi_draft": "सूर्य और चन्द्रमा के योजन-बिम्ब तथा कोणीय व्यास (कलात्मक बिम्ब-मान)।"
         },
         {
           "number": 59,
           "text": "मेषादिषण्णामुदयाः स्वदेशे तुलादितोऽमी च विलोमसंस्थाः। उदेति राशिः समयेन येन तत्सप्तमोऽस्तं समुपैति तेन॥५९॥",
-          "english": "Sun's angular diameter = 32 minutes; Moon's angular diameter = 32 minutes at mean distance.",
-          "hindi": "मध्यम दूरी पर सूर्य का व्यास = ३२ कला तथा चन्द्रमा का व्यास = ३२ कला।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sun's angular diameter = 32 minutes; Moon's angular diameter = 32 minutes at mean distance.",
+          "hindi_draft": "मध्यम दूरी पर सूर्य का व्यास = ३२ कला तथा चन्द्रमा का व्यास = ३२ कला।"
         },
         {
           "number": 60,
           "text": "क्षेत्राणां स्थूलत्वात् स्थूला उदया भवन्ति राशीनाम्। सूक्ष्मार्थी होराणां कुर्याद्दृक्काणकानां वा॥६०॥",
-          "english": "Angular diameter of Earth's shadow cone (Bhamandala / Tamas-chhaya) = 80 minutes of arc.",
-          "hindi": "चन्द्र-कक्षीय दूरी पर पृथ्वी की भू-छाया (तमस्) का व्यास = ८० कला।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Angular diameter of Earth's shadow cone (Bhamandala / Tamas-chhaya) = 80 minutes of arc.",
+          "hindi_draft": "चन्द्र-कक्षीय दूरी पर पृथ्वी की भू-छाया (तमस्) का व्यास = ८० कला।"
         },
         {
           "number": 61,
           "text": "र्व्यक्षोदयेन खखनागमही १८०० विभक्तम्। गत्या ग्रहस्य गुणितं द्युनिशासुभक्तं स्वर्णं ग्रहेऽर्कवदिदं तु भुजान्तराख्यम्॥६१॥",
-          "english": "Ecliptic longitude of Earth's shadow = Sun Longitude + 6 Signs (180 degrees).",
-          "hindi": "भू-छाया का स्पष्ट स्थान = सूर्य का स्पष्ट स्थान + ६ राशि (१८० अंश)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Ecliptic longitude of Earth's shadow = Sun Longitude + 6 Signs (180 degrees).",
+          "hindi_draft": "भू-छाया का स्पष्ट स्थान = सूर्य का स्पष्ट स्थान + ६ राशि (१८० अंश)।"
         },
         {
           "number": 62,
           "text": "युक्तायनांशस्य तु मध्यमस्य भुक्तासवोऽर्कस्य निरक्षदेशे। मेषादिभुक्तोदयसंयुता ये यश्चायनांशान्वितमध्यभानोः॥६२॥",
-          "english": "Duration of Eclipse (Sthiti-ardha) and Total Darkness (Vimarda-ardha).",
-          "hindi": "ग्रहण की स्थिति-अर्ध (ग्रास से मोक्ष तक का आधा समय) और विमर्द-अर्ध (पूर्ण खग्रास का आधा समय)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Duration of Eclipse (Sthiti-ardha) and Total Darkness (Vimarda-ardha).",
+          "hindi_draft": "ग्रहण की स्थिति-अर्ध (ग्रास से मोक्ष तक का आधा समय) और विमर्द-अर्ध (पूर्ण खग्रास का आधा समय)।"
         },
         {
           "number": 63,
           "text": "__________________________________________________ लिप्ता गणस्तद्विवरेण निघ्नी गतिर्ग्रहस्य द्युनिशासुभक्ता। स्वर्णं ग्रहे चेदसवोऽधिकोना इदं ग्रहाणामुदयान्तराख्यम्॥६३॥",
-          "english": "Contact angles (Sparsha and Moksha Valana) for eclipse projections.",
-          "hindi": "ग्रहण के स्पर्श और मोक्ष काल में वलन (दिशा-कोण) का यथार्थ साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Contact angles (Sparsha and Moksha Valana) for eclipse projections.",
+          "hindi_draft": "ग्रहण के स्पर्श और मोक्ष काल में वलन (दिशा-कोण) का यथार्थ साधन।"
         },
         {
           "number": 64,
           "text": "चेत् स्वोदयैः स्फुटरवेरसवः कृतास्ते विश्लेषिताश्च यदि मध्यरवेः कलाभिः। बाह्वन्तराख्यमुदयान्तरकं चराख्यं कर्मत्रयं विहितमौदायिके तदा स्यात्॥६४॥",
-          "english": "Celestial orientation angles (Aksha-valana and Ayana-valana).",
-          "hindi": "अक्ष-वलन और अयन-वलन के योग से स्पष्ट वलन का निर्धारण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Celestial orientation angles (Aksha-valana and Ayana-valana).",
+          "hindi_draft": "अक्ष-वलन और अयन-वलन के योग से स्पष्ट वलन का निर्धारण।"
         },
         {
           "number": 66,
           "text": "रवि १२ रसै ६ र्विरवीन्दुलवा हृताः फलमितास्तिथयः करणानि च। कुरहितानि च तानि बवादितः शकुनितोऽसितभूतदलादनु॥६६॥",
-          "english": "Projection of eclipses on diagrams (Parilekha).",
-          "hindi": "सज्जन गणकों के लिए ग्रहण-परिलेख (आलेखचित्र) खींचने की विधि।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Projection of eclipses on diagrams (Parilekha).",
+          "hindi_draft": "सज्जन गणकों के लिए ग्रहण-परिलेख (आलेखचित्र) खींचने की विधि।"
         },
         {
           "number": 67,
           "text": "ग्रहकलाः सरवीन्दुकला हृताः खखगजैः ८०० श्च भयोगमिती क्रमात्। अथ हृताः स्वगतैष्यविलिप्तिका निजजवेन गतागतनाडिकाः॥६७॥",
-          "english": "Moon's phase illumination (Shukla-paksha Shringonnati / Crescent elevation).",
-          "hindi": "चन्द्रमा की कला-वृद्धि एवं शृङ्गोन्नति (सींग की ऊँचाई) का साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Moon's phase illumination (Shukla-paksha Shringonnati / Crescent elevation).",
+          "hindi_draft": "चन्द्रमा की कला-वृद्धि एवं शृङ्गोन्नति (सींग की ऊँचाई) का साधन।"
         },
         {
           "number": 68,
           "text": "तिथ्यन्तनाडीनतबाहुमौर्या लघ्व्याऽर्कशीतांशुफले विनिघ्ने। क्रमेण भक्ते नखगोसमुद्रैः४९२० क्वङ्गाग्निवेदैः४३६१ फलहीनयुक्तः॥६८॥",
-          "english": "Heliacal rising and setting of planets (Udayastadhikara).",
-          "hindi": "ग्रहों के उदयास्त (सूर्य सान्निध्य में लोप और दर्शन) के कालांश।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Heliacal rising and setting of planets (Udayastadhikara).",
+          "hindi_draft": "ग्रहों के उदयास्त (सूर्य सान्निध्य में लोप और दर्शन) के कालांश।"
         },
         {
           "number": 69,
           "text": "प्राक्पश्चिमस्थस्तरणिर्विधुः प्रागृणे फले युक्त इतोऽन्यथोनः। मुहुः स्फुटाऽतो ग्रहणे रवीन्द्वोस्तिथिस्त्विदं जिष्णुसुतो जगाद॥६९॥",
-          "english": "Combustion limits (Kalamsa) in degrees from Sun: Mars = 17°, Jupiter = 11°, Saturn = 15°, Venus = 10°, Mercury = 14°.",
-          "hindi": "ग्रहों के अस्त (हेलियाकल अस्त) के कालांश: मंगल = १७°, गुरु = ११°, शनि = १५°, शुक्र = १०°, बुध = १४°।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Combustion limits (Kalamsa) in degrees from Sun: Mars = 17°, Jupiter = 11°, Saturn = 15°, Venus = 10°, Mercury = 14°.",
+          "hindi_draft": "ग्रहों के अस्त (हेलियाकल अस्त) के कालांश: मंगल = १७°, गुरु = ११°, शनि = १५°, शुक्र = १०°, बुध = १४°।"
         },
         {
           "number": 71,
           "text": "स्थूलं कृतं भानयनं यदेतज्ज्योतिर्विदां संव्यवहारहेतोः॥७१॥",
-          "english": "Conjunction of planets (Graha-yuti / Planetary Alignment).",
-          "hindi": "दो ग्रहों की परस्पर युति (समागम) और उनके भेद/युद्ध का स्पष्टीकरण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Conjunction of planets (Graha-yuti / Planetary Alignment).",
+          "hindi_draft": "दो ग्रहों की परस्पर युति (समागम) और उनके भेद/युद्ध का स्पष्टीकरण।"
         },
         {
           "number": 74,
           "text": "न्युक्तो भभोगः शशिमध्यभुक्तिः॥७३॥ ७९०।३५ सर्वर्क्षभोगोनितचक्रलिप्ता वैश्वाग्रतः स्यादभिजिद्भभोगः। कलीकृतादिष्टखगाद्विशोध्य दास्रादिभोगान् गतभानि विद्यात्॥७४॥",
-          "english": "Conjunction of planets with stars (Graha-nakshtra-yuti).",
-          "hindi": "ग्रहों की प्रमुख २७ नक्षत्र-तारों के साथ युति तथा शर-क्रान्ति का वेध।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Conjunction of planets with stars (Graha-nakshtra-yuti).",
+          "hindi_draft": "ग्रहों की प्रमुख २७ नक्षत्र-तारों के साथ युति तथा शर-क्रान्ति का वेध।"
         },
         {
           "number": 75,
           "text": "विशुद्धसंख्यानि गतं तु शेषमशुद्धभोगात् पतितं तदेष्यम्। गतागते षष्टिगुणे विभक्ते ग्रहस्य भुक्त्या घटिका गतैष्याः॥७५॥",
-          "english": "Observational verification using astronomical gnomon and water-level circles.",
-          "hindi": "यन्त्रों (जल-सम मण्डल, शङ्कु) से वेध करके गणितीय सिद्धान्त की सत्यता जाँचने का निर्देश।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Observational verification using astronomical gnomon and water-level circles.",
+          "hindi_draft": "यन्त्रों (जल-सम मण्डल, शङ्कु) से वेध करके गणितीय सिद्धान्त की सत्यता जाँचने का निर्देश।"
         },
         {
           "number": 76,
           "text": "षष्टिघ्नबिम्बं ग्रहभुक्तिभक्तं संक्रान्तिनाड्योऽखिलधर्मकृत्ये। रवेस्तु ताः पुण्यतमा ग्रहः स्वसंक्रान्तिगो मिश्रफलं विधत्ते॥७६॥",
-          "english": "Summary of True Planetary Chapter (Spashtadhikara Samapti).",
-          "hindi": "स्पष्टाधिकार नामक अध्याय का विद्वत्तापूर्ण सार-संक्षेप।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Summary of True Planetary Chapter (Spashtadhikara Samapti).",
+          "hindi_draft": "स्पष्टाधिकार नामक अध्याय का विद्वत्तापूर्ण सार-संक्षेप।"
         },
         {
           "number": 77,
           "text": "र्गतिविवरकलाभिर्भूय एताभिरेव। पृथगथ गतियुत्या नाडिकाः संधिराप्ता भतिथिकरणयोगानां फलं तत्र मिश्रम्॥७७॥",
-          "english": "Closing benediction of Spashtadhikara by Bhaskaracharya.",
-          "hindi": "भास्कराचार्य कृत स्पष्टाधिकार अध्याय की मङ्गलमयी समाप्ति।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Closing benediction of Spashtadhikara by Bhaskaracharya.",
+          "hindi_draft": "भास्कराचार्य कृत स्पष्टाधिकार अध्याय की मङ्गलमयी समाप्ति।"
         }
       ]
     },
@@ -1321,663 +1441,851 @@
         {
           "number": 6,
           "text": "__________________________________________________ लग्नेऽल्पके तु द्युनिशात् स शोध्यस्तात्कालिकार्कादसकृच्च कालः। चेत् सावनाः प्रष्टुरभीष्टनाड्यस्तदैव तात्कालिकतिग्मरश्मेः॥६॥",
-          "english": "At night, add 6 signs (180 degrees) to Sun's longitude (Ratri-manya) to compute night Lagna and elapsed night time.",
-          "hindi": "रात्रि काल में सूर्य में ६ राशि (१८० अंश) जोड़कर रात्रि-लग्न एवं रात्रिगत इष्ट काल का यथार्थ साधन करें।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "At night, add 6 signs (180 degrees) to Sun's longitude (Ratri-manya) to compute night Lagna and elapsed night time.",
+          "hindi_draft": "रात्रि काल में सूर्य में ६ राशि (१८० अंश) जोड़कर रात्रि-लग्न एवं रात्रिगत इष्ट काल का यथार्थ साधन करें।"
         },
         {
           "number": 7,
           "text": "भुक्तासुशुद्धेर्विपरीतलग्नं भुक्तांशगेहाप्तलवोनितोऽर्कः॥७॥",
-          "english": "Lanka sign rising times (at Equator where day-night are equal to 30 ghatis / 1800 pranas): Aries/Pisces = 1670 pranas; Taurus/Aquarius = 1795 pranas; Gemini/Capricorn = 1935 pranas.",
-          "hindi": "लङ्कोदय मान (निरक्ष देश के राशि-उदय): मेष/मीन = १६७० प्राण, वृष/कुम्भ = १७९५ प्राण, मिथुन/मकर = १९३५ प्राण होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Lanka sign rising times (at Equator where day-night are equal to 30 ghatis / 1800 pranas): Aries/Pisces = 1670 pranas; Taurus/Aquarius = 1795 pranas; Gemini/Capricorn = 1935 pranas.",
+          "hindi_draft": "लङ्कोदय मान (निरक्ष देश के राशि-उदय): मेष/मीन = १६७० प्राण, वृष/कुम्भ = १७९५ प्राण, मिथुन/मकर = १९३५ प्राण होते हैं।"
         },
         {
           "number": 8,
           "text": "ल्लुम्बज्याप्तमिताङ्गुलैरयनदिश्यैन्द्री स्फुटा चालिता॥८॥",
-          "english": "Ascensional difference (Chara-khandas) subtracted from Lanka-udaya for first 3 signs (Aries, Taurus, Gemini) and added for next 3 signs gives local sign rising times (Svadesh-udaya).",
-          "hindi": "लङ्कोदय मानों में से चर-खण्डों को मेषादि तीन राशियों में घटाने और कर्कटादि तीन राशियों में जोड़ने पर स्वदेशीय राशि-उदयमान प्राप्त होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Ascensional difference (Chara-khandas) subtracted from Lanka-udaya for first 3 signs (Aries, Taurus, Gemini) and added for next 3 signs gives local sign rising times (Svadesh-udaya).",
+          "hindi_draft": "लङ्कोदय मानों में से चर-खण्डों को मेषादि तीन राशियों में घटाने और कर्कटादि तीन राशियों में जोड़ने पर स्वदेशीय राशि-उदयमान प्राप्त होते हैं।"
         },
         {
           "number": 9,
           "text": "देकस्मादपि भाग्रतो भुजमितां कोटीमितां शङ्कुतः। न्यस्येद्यष्टिमृजुं तथा भुवि यथा यष्ट्यग्रयोः संयुतिः कोटिः प्राच्यपरा भवेदिति कृते बाहुश्च याम्योत्तरा॥९॥",
-          "english": "Equinoctial Shadow (Palabha / Aksha-bha): Shadow cast by a 12-digit vertical gnomon at noon on the day of equinox (Vishuvat-dina).",
-          "hindi": "विषुवत् दिन (विषुवत्-संक्रान्ति) के मध्याह्न काल में १२ अङ्गुल शङ्कु की छाया 'पलभा' (अक्षभा) कहलाती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Equinoctial Shadow (Palabha / Aksha-bha): Shadow cast by a 12-digit vertical gnomon at noon on the day of equinox (Vishuvat-dina).",
+          "hindi_draft": "विषुवत् दिन (विषुवत्-संक्रान्ति) के मध्याह्न काल में १२ अङ्गुल शङ्कु की छाया 'पलभा' (अक्षभा) कहलाती है।"
         },
         {
           "number": 10,
           "text": "दिक्सूत्रसंपातगतस्य शङ्कोश्छायाग्रपूर्वापरसूत्रमध्यम्। दोर्दोःप्रभावर्गवियोगमूलं कोटिर्नरात् प्रागपरा ततः स्यात्॥१०॥",
-          "english": "Co-latitude (Lamba) and Latitude (Aksha): Aksha-jya = Sine(Latitude), Lamba-jya = Cosine(Latitude). Radius R = 3438.",
-          "hindi": "अक्षांश (अक्ष) और लम्बांश (लम्ब): अक्षज्या = ज्या(अक्षांश), लम्बज्या = ज्या(लम्बांश)। त्रिज्या R = ३४३८।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Co-latitude (Lamba) and Latitude (Aksha): Aksha-jya = Sine(Latitude), Lamba-jya = Cosine(Latitude). Radius R = 3438.",
+          "hindi_draft": "अक्षांश (अक्ष) और लम्बांश (लम्ब): अक्षज्या = ज्या(अक्षांश), लम्बज्या = ज्या(लम्बांश)। त्रिज्या R = ३४३८।"
         },
         {
           "number": 11,
           "text": "भाकृतीन १२ कृति १४४ संयुतेः पदं स्याच्छ्रुतिः श्रुतिकृतीनवर्गयोः १४४। अन्तराद्रवियुतोनकर्णयो राहतेश्च यदि वा पदं प्रभा॥११॥",
-          "english": "Hypotenuse of Equinoctial Shadow (Aksha-karna / Palabha-karna) = SquareRoot[ 12^2 + Palabha^2 ].",
-          "hindi": "पलभा-कर्ण (अक्ष-कर्ण) = √[ १२² + पलभा² ] = √[ १४४ + पलभा² ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Hypotenuse of Equinoctial Shadow (Aksha-karna / Palabha-karna) = SquareRoot[ 12^2 + Palabha^2 ].",
+          "hindi_draft": "पलभा-कर्ण (अक्ष-कर्ण) = √[ १२² + पलभा² ] = √[ १४४ + पलभा² ]।"
         },
         {
           "number": 12,
           "text": "शङ्कुर्नरो ना कथितः स एव खार्धाद्रवेर्या विषुवद्दिनार्धे। नतिः पलोऽक्षश्च स एव तज्ज्ञैस्तत्रोन्नतिर्याऽस्य स एव लम्बः॥१२॥",
-          "english": "Sine of Latitude (Aksha-jya) = (3438 x Palabha) / Palabha-karna; Cosine of Latitude (Lamba-jya) = (3438 x 12) / Palabha-karna.",
-          "hindi": "अक्षज्या = (३४३८ × पलभा) / पलभा-कर्ण; लम्बज्या = (३४३८ × १२) / पलभा-कर्ण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sine of Latitude (Aksha-jya) = (3438 x Palabha) / Palabha-karna; Cosine of Latitude (Lamba-jya) = (3438 x 12) / Palabha-karna.",
+          "hindi_draft": "अक्षज्या = (३४३८ × पलभा) / पलभा-कर्ण; लम्बज्या = (३४३८ × १२) / पलभा-कर्ण।"
         },
         {
           "number": 13,
           "text": "भुजोऽक्षमा कोटिरिनाङ्गुलो ना कर्णोऽक्षकर्णः खलु मूलमेतत्। क्षेत्राणि यान्यक्षभवानि तेषां विद्येव मानार्थयशःसुखानाम्॥१३॥",
-          "english": "Declination of Sun (Kranti-jya) = R x Sin(Sun Longitude) x Sin(24°) / R = Sin(Sun) x 1397 / 3438.",
-          "hindi": "सूर्य की क्रान्तिज्या = त्रिज्या × ज्या(सूर्य) × ज्या(२४°) / ३४३८ = ज्या(सूर्य) × १३९७ / ३४३८।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Declination of Sun (Kranti-jya) = R x Sin(Sun Longitude) x Sin(24°) / R = Sin(Sun) x 1397 / 3438.",
+          "hindi_draft": "सूर्य की क्रान्तिज्या = त्रिज्या × ज्या(सूर्य) × ज्या(२४°) / ३४३८ = ज्या(सूर्य) × १३९७ / ३४३८।"
         },
         {
           "number": 14,
           "text": "लम्बज्यका कोटिरथाक्षजीवा भुजोऽत्र कर्णस्त्रिभुजे त्रिभज्या। कुज्या भुजः कोटिरेपक्रमज्या कर्णोऽग्रका च त्रिभुजं तथेदम्॥१४॥",
-          "english": "Day Radius (Dyujya) = Cosine(Sun Declination) = SquareRoot[ R^2 - Kranti-jya^2 ].",
-          "hindi": "दिन-व्यासार्ध (द्युज्या) = कोस(क्रान्ति) = √[ ३४३८² - क्रान्तिज्या² ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Day Radius (Dyujya) = Cosine(Sun Declination) = SquareRoot[ R^2 - Kranti-jya^2 ].",
+          "hindi_draft": "दिन-व्यासार्ध (द्युज्या) = कोस(क्रान्ति) = √[ ३४३८² - क्रान्तिज्या² ]।"
         },
         {
           "number": 15,
           "text": "__________________________________________________ तथैव कोटिः समवृत्तशङ्कुरग्रा भुजस्तद्धृतिरत्र कर्णः। भुजोऽपमज्या समना च कर्णः कुज्योनिता तद्धृतिरत्र कोटिः॥१५॥",
-          "english": "Earth-Sine (Kshitijya) = (Kranti-jya x Palabha) / 12 = (Kranti-jya x Aksha-jya) / Lamba-jya.",
-          "hindi": "क्षितिज्या = (क्रान्तिज्या × पलभा) / १२ = (क्रान्तिज्या × अक्षज्या) / लम्बज्या।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Earth-Sine (Kshitijya) = (Kranti-jya x Palabha) / 12 = (Kranti-jya x Aksha-jya) / Lamba-jya.",
+          "hindi_draft": "क्षितिज्या = (क्रान्तिज्या × पलभा) / १२ = (क्रान्तिज्या × अक्षज्या) / लम्बज्या।"
         },
         {
           "number": 16,
           "text": "अग्रादिखण्डं कथिता च कोटिरुद्वृत्तनादोः श्रवणोऽपमज्या। उदवृत्तना कोटिरथाग्रकाग्रखण्डं भुजस्तच्छ्रवणः क्षितिज्या॥१६॥",
-          "english": "Sine of Ascensional Difference (Chara-jya) = (R x Kshitijya) / Dyujya.",
-          "hindi": "चरज्या = (त्रिज्या × क्षितिज्या) / द्युज्या।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sine of Ascensional Difference (Chara-jya) = (R x Kshitijya) / Dyujya.",
+          "hindi_draft": "चरज्या = (त्रिज्या × क्षितिज्या) / द्युज्या।"
         },
         {
           "number": 17,
           "text": "खण्डं यदूर्ध्वं समवृत्तशङ्कोर्यत् तद्धृतेस्तावथ कोटिकर्णौ। अग्रादिखण्डं भुज एवमष्टौ क्षेत्राण्यमून्यक्षभवानि तावत्॥१७॥",
-          "english": "Ascensional Difference in time (Chara-asu) = ArcSin(Chara-jya) in Pranas (Asus). 6 Asus = 1 Vinadi.",
-          "hindi": "चर-असु = चाप(चरज्या) प्राणों में। ६ असु (प्राण) = १ विनाडी (पल)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Ascensional Difference in time (Chara-asu) = ArcSin(Chara-jya) in Pranas (Asus). 6 Asus = 1 Vinadi.",
+          "hindi_draft": "चर-असु = चाप(चरज्या) प्राणों में। ६ असु (प्राण) = १ विनाडी (पल)।"
         },
         {
           "number": 18,
           "text": "त्रिज्ये पृथक् कोटिभुजाहते ते कर्णोद्धृते लम्बपलज्यके स्तः॥१८॥",
-          "english": "Day length = 30 Ghatis ± (2 x Chara-ghatis); Night length = 30 Ghatis ∓ (2 x Chara-ghatis) according to Sun's northern/southern declination.",
-          "hindi": "दिनमान = ३० घटी ± (२ × चर-घटी); रात्रिमान = ३० घटी ∓ (२ × चर-घटी) सूर्य के उत्तर/दक्षिण गोल अनुसार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Day length = 30 Ghatis ± (2 x Chara-ghatis); Night length = 30 Ghatis ∓ (2 x Chara-ghatis) according to Sun's northern/southern declination.",
+          "hindi_draft": "दिनमान = ३० घटी ± (२ × चर-घटी); रात्रिमान = ३० घटी ∓ (२ × चर-घटी) सूर्य के उत्तर/दक्षिण गोल अनुसार।"
         },
         {
           "number": 19,
           "text": "तत्कार्मुके लम्बपलौ च तज्ज्ये दोःकोटिजीवावदतो मिथो वा। अक्षज्यका कोटिगुणा भुजाप्ता लम्बज्यका वाऽक्षगुणोऽन्यथातः॥१९॥",
-          "english": "Sun's Amplitude at Horizon (Agra) = (Kranti-jya x R) / Lamba-jya = Kranti-jya x Palabha-karna / 12.",
-          "hindi": "सूर्य की अर्क-अग्रा (क्षितिज-अग्रा) = (क्रान्तिज्या × त्रिज्या) / लम्बज्या = क्रान्तिज्या × अक्षकर्ण / १२।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sun's Amplitude at Horizon (Agra) = (Kranti-jya x R) / Lamba-jya = Kranti-jya x Palabha-karna / 12.",
+          "hindi_draft": "सूर्य की अर्क-अग्रा (क्षितिज-अग्रा) = (क्रान्तिज्या × त्रिज्या) / लम्बज्या = क्रान्तिज्या × अक्षकर्ण / १२।"
         },
         {
           "number": 20,
           "text": "क्रान्तिज्यके कर्णगुणे विभक्ते कोट्या भुजेनाऽऽप्तमिताऽग्रका स्यात्। आद्यं द्वितीयं समशङ्कुरेष स्यात् तद्धृतिः कोटिहृतः श्रुतिघ्नः॥२०॥",
-          "english": "Prime Vertical Gnomon (Samashanku) = (Kranti-jya x R) / Aksha-jya (when Sun is in northern hemisphere and latitude > declination).",
-          "hindi": "सम-शङ्कु (सममण्डल शङ्कु) = (क्रान्तिज्या × ३४३८) / अक्षज्या।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Prime Vertical Gnomon (Samashanku) = (Kranti-jya x R) / Aksha-jya (when Sun is in northern hemisphere and latitude > declination).",
+          "hindi_draft": "सम-शङ्कु (सममण्डल शङ्कु) = (क्रान्तिज्या × ३४३८) / अक्षज्या।"
         },
         {
           "number": 22,
           "text": "कोट्युद्धृतं तद्धृतिखण्डमूर्ध्वं श्रुत्या हतं वा समवृत्तशङ्कुः॥२२॥",
-          "english": "Hypotenuse of Prime Vertical Gnomon (Sama-karna) = SquareRoot[ 12^2 + Samashanku-shadow^2 ].",
-          "hindi": "सम-कर्ण = √[ १२² + समशङ्कु-छाया² ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Hypotenuse of Prime Vertical Gnomon (Sama-karna) = SquareRoot[ 12^2 + Samashanku-shadow^2 ].",
+          "hindi_draft": "सम-कर्ण = √[ १२² + समशङ्कु-छाया² ]।"
         },
         {
           "number": 23,
           "text": "द्विधाऽपमज्या भुजकोटिनिघ्नी कोट्या च दोष्णा विहृताऽऽद्यमाप्तम्। कुज्या परं तद्धृतिखण्डमूर्ध्वं स्यात् तद्धृतिः संयुतिरेतयोर्वा॥२३॥",
-          "english": "The declination sine, multiplied twice by the sine and cosine, and divided respectively by the cosine and sine, gives the first quotient. The earth-sine is above it, or the earth-radius is the sum of these two.",
-          "hindi": "अपमज्या (क्रान्तिज्या) को दो बार भुजज्या और कोटिज्या से गुणा करके क्रमशः कोटिज्या और भुजज्या से भाग देने पर प्रथम आप्त (भागफल) होता है। इसके ऊपर कुज्या (क्षितिजज्या) होती है, अथवा इन दोनों का योग त्रिज्या (तद्धृति) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The declination sine, multiplied twice by the sine and cosine, and divided respectively by the cosine and sine, gives the first quotient. The earth-sine is above it, or the earth-radius is the sum of these two.",
+          "hindi_draft": "अपमज्या (क्रान्तिज्या) को दो बार भुजज्या और कोटिज्या से गुणा करके क्रमशः कोटिज्या और भुजज्या से भाग देने पर प्रथम आप्त (भागफल) होता है। इसके ऊपर कुज्या (क्षितिजज्या) होती है, अथवा इन दोनों का योग त्रिज्या (तद्धृति) होती है।"
         },
         {
           "number": 24,
           "text": "कुज्यापमज्ये भुजकोटिनिघ्न्यौ कर्णोद्धृते स्यात् क्रमशो यदाप्तम्। अग्राग्रखण्डं प्रथमं द्वितीयमग्रादिखण्डं च तदैक्यमग्रा॥२४॥",
-          "english": "The earth-sine and declination-sine, multiplied by the sine and cosine respectively and divided by the hypotenuse, give respectively the first and secondagra-segments. The sum of the agra and these segments is the agra.",
-          "hindi": "कुज्या और अपमज्या को भुज तथा कोटि से गुणा करके कर्ण से भाग देने पर जो प्राप्त हो, वे क्रमशः प्रथम और द्वितीय अग्राखण्ड हैं। अग्रा तथा आदि खण्ड काैक्य ही अग्रा है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The earth-sine and declination-sine, multiplied by the sine and cosine respectively and divided by the hypotenuse, give respectively the first and secondagra-segments. The sum of the agra and these segments is the agra.",
+          "hindi_draft": "कुज्या और अपमज्या को भुज तथा कोटि से गुणा करके कर्ण से भाग देने पर जो प्राप्त हो, वे क्रमशः प्रथम और द्वितीय अग्राखण्ड हैं। अग्रा तथा आदि खण्ड काैक्य ही अग्रा है।"
         },
         {
           "number": 25,
           "text": "अग्रादिखण्डं च तथाऽपमज्या भुजाहते ते क्रमशो विभक्ते। कोटिश्रुतिभ्यामुभयत्र शङ्कुरुन्मण्डलस्थे रविमण्डले स्यात्॥२५॥",
-          "english": "Corner Gnomon (Kona-shanku / Mid-quadrant 45° azimuth gnomon) calculation using latitude and declination.",
-          "hindi": "कोण-शङ्कु (विदिक् शङ्कु) साधन: अक्षांश और क्रान्ति के संयोजन से विदिशागत शङ्कु का यथार्थ गणित।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Corner Gnomon (Kona-shanku / Mid-quadrant 45° azimuth gnomon) calculation using latitude and declination.",
+          "hindi_draft": "कोण-शङ्कु (विदिक् शङ्कु) साधन: अक्षांश और क्रान्ति के संयोजन से विदिशागत शङ्कु का यथार्थ गणित।"
         },
         {
           "number": 26,
           "text": "अग्राग्रखण्डं क्षितिशिञ्जिनी च कोट्या हते दोःश्रवणोद्धृते स्तः। उद्वृत्तशङ्कू समना तदूनः स्यादूर्ध्वखण्डं समवृत्तशङ्कोः॥२६॥",
-          "english": "The first agra-segment and the earth-sine are multiplied by the cosine and divided by the side-hypotenuse. This is the unvritta-sanku (prime-vertical gnomon) reduced by the upper segment of the prime-vertical gnomon.",
-          "hindi": "अग्राग्रखण्ड और क्षितिशिञ्जिनी (कुज्या) कोटि से गुणित तथा दोःश्रवण (कर्ण) से भाजित होते हैं। यह उद्वृत्तशंकु के समान होती है, तथा समवृत्तशंकु के ऊर्ध्वखण्ड से वहन (हीन) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The first agra-segment and the earth-sine are multiplied by the cosine and divided by the side-hypotenuse. This is the unvritta-sanku (prime-vertical gnomon) reduced by the upper segment of the prime-vertical gnomon.",
+          "hindi_draft": "अग्राग्रखण्ड और क्षितिशिञ्जिनी (कुज्या) कोटि से गुणित तथा दोःश्रवण (कर्ण) से भाजित होते हैं। यह उद्वृत्तशंकु के समान होती है, तथा समवृत्तशंकु के ऊर्ध्वखण्ड से वहन (हीन) होती है।"
         },
         {
           "number": 27,
           "text": "ज्ञाताच्च साध्यादितरे भवन्ति यद्वा गुणच्छेदविपर्ययेण॥२७॥",
-          "english": "From a known quantity, the others to be derived are obtained, or else by the reversal of multipliers and divisors.",
-          "hindi": "ज्ञात से साध्य अन्य राशियाँ प्राप्त होती हैं अथवा गुणक और छेद (भाजक) के विपर्यय (उल्टा) करने से होती हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From a known quantity, the others to be derived are obtained, or else by the reversal of multipliers and divisors.",
+          "hindi_draft": "ज्ञात से साध्य अन्य राशियाँ प्राप्त होती हैं अथवा गुणक और छेद (भाजक) के विपर्यय (उल्टा) करने से होती हैं।"
         },
         {
           "number": 28,
           "text": "दोःकोटिवर्गैक्यपदं श्रुतिः स्यात् तत्कोटिवर्गान्तरतः पदं दोः। दोःकर्णवर्गान्तरतश्च कोटिर्द्वाभ्यां तृतीया यदि वा स्युरेवम्॥२८॥",
-          "english": "The square root of the sum of the squares of the sine and cosine is the hypotenuse; the square root of the difference between the square of the hypotenuse and the square of the cosine is the sine; and that from the difference between the squares of the hypotenuse and sine is the cosine. Thus, if two are given, the third is found.",
-          "hindi": "भुज और कोटि के वर्गों के योग का मूल कर्ण होता है। कर्ण-वर्ग और कोटि-वर्ग के अन्तर का मूल भुज होता है। कर्ण-वर्ग और भुज-वर्ग के अन्तर से कोटि होती है। इस प्रकार दो के ज्ञात होने पर तीसरी मिल जाती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The square root of the sum of the squares of the sine and cosine is the hypotenuse; the square root of the difference between the square of the hypotenuse and the square of the cosine is the sine; and that from the difference between the squares of the hypotenuse and sine is the cosine. Thus, if two are given, the third is found.",
+          "hindi_draft": "भुज और कोटि के वर्गों के योग का मूल कर्ण होता है। कर्ण-वर्ग और कोटि-वर्ग के अन्तर का मूल भुज होता है। कर्ण-वर्ग और भुज-वर्ग के अन्तर से कोटि होती है। इस प्रकार दो के ज्ञात होने पर तीसरी मिल जाती है।"
         },
         {
           "number": 29,
           "text": "त्रिषष्ठिरत्राऽऽनयनप्रभेदास्तावत् स्युरेवं पललम्बमौर्व्योः। अग्रादिकानां शतशः प्रभेदैर्लम्बादयोऽपि स्युरनन्तभेदाः॥२९॥",
-          "english": "Thus, there are sixty-three methods for finding these from the latitude and co-latitude sines. By hundreds of variations of the agra and others, the latitude and other elements also have infinite variations.",
-          "hindi": "इस प्रकार पल (अक्ष) और लम्ब की ज्याओं से आनयन के त्रेसठ भेद होते हैं। अग्रा आदि के सैकड़ों भेदों से लम्ब आदि के भी अनन्त भेद हो सकते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Thus, there are sixty-three methods for finding these from the latitude and co-latitude sines. By hundreds of variations of the agra and others, the latitude and other elements also have infinite variations.",
+          "hindi_draft": "इस प्रकार पल (अक्ष) और लम्ब की ज्याओं से आनयन के त्रेसठ भेद होते हैं। अग्रा आदि के सैकड़ों भेदों से लम्ब आदि के भी अनन्त भेद हो सकते हैं।"
         },
         {
           "number": 30,
           "text": "अग्राकृतिं द्विगुणितां त्रिगुणस्य वर्गात् ११८१९८४४ त्यक्त्वा पदं तदिह कोणनरोऽक्षभाघ्नः। अर्को १२ द्धृतः फलयुजाऽसकृदग्रयाऽसौ सौम्ये फलेन वियुजा तु तया प्रसाध्यः॥३०॥",
-          "english": "Gnomon height (Shanku) at any target instant (Ishta-kala Shanku) = (Ishta-hriti x Lamba-jya) / R.",
-          "hindi": "इष्ट-कालीन शङ्कु = (इष्ट-हृति × लम्बज्या) / त्रिज्या।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Gnomon height (Shanku) at any target instant (Ishta-kala Shanku) = (Ishta-hriti x Lamba-jya) / R.",
+          "hindi_draft": "इष्ट-कालीन शङ्कु = (इष्ट-हृति × लम्बज्या) / त्रिज्या।"
         },
         {
           "number": 31,
           "text": "स सौम्यगोलो भदलं यदाद्यं याम्योऽपरं सायनभागभानोः। क्रान्तेः ककुब् गोलवशेन वेद्या सदाऽक्षलम्बाविह याम्यसौम्यौ॥३१॥",
-          "english": "That northern hemisphere is the first half, and the southern is the other half, for a sun with signed (ayana) degrees. The direction of the declination is to be known by the hemisphere; here the latitude and co-latitude are always southern and northern.",
-          "hindi": "सायन भाग वाले सूर्य का जो आद्य (प्रथम) भाग है, वह सौम्य गोल है और दूसरा याम्य गोल है। गोल के वश से क्रान्ति की दिशा जाननी चाहिए, यहाँ अक्ष और लम्ब सदा याम्य और सौम्य होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "That northern hemisphere is the first half, and the southern is the other half, for a sun with signed (ayana) degrees. The direction of the declination is to be known by the hemisphere; here the latitude and co-latitude are always southern and northern.",
+          "hindi_draft": "सायन भाग वाले सूर्य का जो आद्य (प्रथम) भाग है, वह सौम्य गोल है और दूसरा याम्य गोल है। गोल के वश से क्रान्ति की दिशा जाननी चाहिए, यहाँ अक्ष और लम्ब सदा याम्य और सौम्य होते हैं।"
         },
         {
           "number": 32,
           "text": "पलावलम्बावपमेन संस्कृतौ नतोन्नते ते भवतो दिवादले। लवादिकं वा नयतेर्विशोधितं नतं भवेदुन्नतमुन्नतं नतम्॥३२॥",
-          "english": "The latitude and co-latitude, adjusted by the declination, become the zenith-distance and altitude at midday. Or, the minutes, etc., subtracted from the radius give the zenith distance, and the zenith distance subtracted from the radius gives the altitude.",
-          "hindi": "पलावलम्ब (अक्ष और लम्ब) अपम (क्रान्ति) से संस्कृत होकर मध्याह्न में नतोन्नत होते हैं। अथवा त्रिज्या में से घटाने पर नत होता है और नत को त्रिज्या में से घटाने पर उन्नत होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The latitude and co-latitude, adjusted by the declination, become the zenith-distance and altitude at midday. Or, the minutes, etc., subtracted from the radius give the zenith distance, and the zenith distance subtracted from the radius gives the altitude.",
+          "hindi_draft": "पलावलम्ब (अक्ष और लम्ब) अपम (क्रान्ति) से संस्कृत होकर मध्याह्न में नतोन्नत होते हैं। अथवा त्रिज्या में से घटाने पर नत होता है और नत को त्रिज्या में से घटाने पर उन्नत होता है।"
         },
         {
           "number": 33,
           "text": "त्रिभज्यकोन्मण्डलशङ्कुघाताच्चरज्ययाऽऽप्तं खलु यष्टिसंज्ञम्॥३३॥",
-          "english": "The product of the radius, the co-prime-vertical gnomon, and the unvritta-sanku, divided by the chara-sine, is indeed called the staff (yashti).",
-          "hindi": "त्रिज्या, कोटिनमण्डलशंकु और चरज्या के घात से तथा चरज्या से आप्त (भाजित) जो होता है, वह निश्चय ही यष्टि संज्ञक है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The product of the radius, the co-prime-vertical gnomon, and the unvritta-sanku, divided by the chara-sine, is indeed called the staff (yashti).",
+          "hindi_draft": "त्रिज्या, कोटिनमण्डलशंकु और चरज्या के घात से तथा चरज्या से आप्त (भाजित) जो होता है, वह निश्चय ही यष्टि संज्ञक है।"
         },
         {
           "number": 35,
           "text": "हृतिस्त्रिमौर्व्या चरजीवया वा हता द्युमौर्व्या क्षितिजीवया वा। भक्ताऽन्त्यका स्यादथवाऽन्त्यकाया हृतिर्गुणच्छेदविपर्ययेण॥३५॥",
-          "english": "Hypotenuse of Shadow (Chhaya-karna) = (12 x R) / Shanku; Gnomonic Shadow (Chhaya) = SquareRoot[ Chhaya-karna^2 - 12^2 ].",
-          "hindi": "छाया-कर्ण = (१२ × ३४३८) / शङ्कु; इष्ट छाया = √[ छाया-कर्ण² - १४४ ]।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Hypotenuse of Shadow (Chhaya-karna) = (12 x R) / Shanku; Gnomonic Shadow (Chhaya) = SquareRoot[ Chhaya-karna^2 - 12^2 ].",
+          "hindi_draft": "छाया-कर्ण = (१२ × ३४३८) / शङ्कु; इष्ट छाया = √[ छाया-कर्ण² - १४४ ]।"
         },
         {
           "number": 36,
           "text": "अन्त्याऽथवोन्मण्डलशङ्कुनिघ्नी चरज्ययाऽऽप्ता स दिनार्धशङ्कुः। हृतिः पलक्षेत्रजकोटिनिघ्नी तत्कर्णभक्ता यदि वा स शङ्कुः॥३६॥",
-          "english": "Or, the ultimate or unvritta-sanku multiplied by the chara-sine and divided by the radius is the midday gnomon. Or, the divisor multiplied by the co-latitude-field base and divided by its hypotenuse is that gnomon.",
-          "hindi": "अन्त्या अथवा उन्मण्डलशंकु से गुणित और चरज्या से भाजित वह दिनार्धशंकु होता है। अथवा पलक्षेत्र की कोटि से गुणित और अपने कर्ण से भाजित हर (हृति) वह शंकु होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Or, the ultimate or unvritta-sanku multiplied by the chara-sine and divided by the radius is the midday gnomon. Or, the divisor multiplied by the co-latitude-field base and divided by its hypotenuse is that gnomon.",
+          "hindi_draft": "अन्त्या अथवा उन्मण्डलशंकु से गुणित और चरज्या से भाजित वह दिनार्धशंकु होता है। अथवा पलक्षेत्र की कोटि से गुणित और अपने कर्ण से भाजित हर (हृति) वह शंकु होता है।"
         },
         {
           "number": 37,
           "text": "हृतिः पलक्षेत्रभुजेन निघ्नी तत्कर्णभक्ताऽग्रकयोनयुक्ता। गोलक्रमात् स्यादथवाऽत्र दृग्ज्या याम्याऽथ सौम्या विपरीतशुद्धौ॥३७॥",
-          "english": "The divisor, multiplied by the latitude-field base, divided by its hypotenuse, and combined with the agra, is, according to the hemisphere's order, the drig-jya (zenith-distance sine), or southern and northern by reversed subtraction.",
-          "hindi": "पलक्षेत्र के भुज से गुणित और अपने कर्ण से भाजित तथा अग्रा के साथ संयुक्त हर (हृति), गोल के क्रम से दृग्ज्या होती है अथवा विपरीत शोधन करने पर याम्य और सौम्य होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The divisor, multiplied by the latitude-field base, divided by its hypotenuse, and combined with the agra, is, according to the hemisphere's order, the drig-jya (zenith-distance sine), or southern and northern by reversed subtraction.",
+          "hindi_draft": "पलक्षेत्र के भुज से गुणित और अपने कर्ण से भाजित तथा अग्रा के साथ संयुक्त हर (हृति), गोल के क्रम से दृग्ज्या होती है अथवा विपरीत शोधन करने पर याम्य और सौम्य होती है।"
         },
         {
           "number": 38,
           "text": "गोलक्रमात् तद्धृतिहीनयुक्ता हृतिः पलक्षेत्रभुजेन निघ्नी। तत्कर्णभक्ता भवतीह दृग्ज्या प्रद्योतने वा द्युदलं प्रयाते॥३८॥",
-          "english": "According to the order of the hemisphere, decreased or increased by that divisor, multiplied by the latitude-field base and divided by its hypotenuse, the drig-jya is produced here when the sun is at midday.",
-          "hindi": "गोल के क्रम से उस तद्धृति से हीन या युक्त, पलक्षेत्र के भुज से गुणित और अपने कर्ण से भाजित हर यहाँ दृग्ज्या होती है, जब सूर्य मध्याह्न को प्राप्त होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "According to the order of the hemisphere, decreased or increased by that divisor, multiplied by the latitude-field base and divided by its hypotenuse, the drig-jya is produced here when the sun is at midday.",
+          "hindi_draft": "गोल के क्रम से उस तद्धृति से हीन या युक्त, पलक्षेत्र के भुज से गुणित और अपने कर्ण से भाजित हर यहाँ दृग्ज्या होती है, जब सूर्य मध्याह्न को प्राप्त होता है।"
         },
         {
           "number": 39,
           "text": "त्रिज्या नृचापोत्क्रमजीवयोना दृग्ज्या भवेदेवमतो नरो वा। एवं हि दृग्ज्या यदि वाऽखिलानां विदिक्समोद्वृत्तनरादिकानाम्॥३९॥",
-          "english": "The radius, diminished by the versed-sine of the shadow-arc, indeed becomes the drig-jya, and similarly the gnomon's shadow, etc. Thus indeed is the drig-jya, or of all others such as the direction-equal prime-vertical gnomon, etc.",
-          "hindi": "त्रिज्या नृचाप (च्छायाचाप) की उत्क्रमज्या से ऊनी (हीन) होने पर दृग्ज्या होती है। इसी प्रकार नर (शंकु) भी। इस प्रकार समस्त विदिक्समोद्वृत्तनर आदि की दृग्ज्या होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The radius, diminished by the versed-sine of the shadow-arc, indeed becomes the drig-jya, and similarly the gnomon's shadow, etc. Thus indeed is the drig-jya, or of all others such as the direction-equal prime-vertical gnomon, etc.",
+          "hindi_draft": "त्रिज्या नृचाप (च्छायाचाप) की उत्क्रमज्या से ऊनी (हीन) होने पर दृग्ज्या होती है। इसी प्रकार नर (शंकु) भी। इस प्रकार समस्त विदिक्समोद्वृत्तनर आदि की दृग्ज्या होती है।"
         },
         {
           "number": 40,
           "text": "त्रिज्याक्षकर्णेन गुणा विभक्ता हृत्या श्रुतिर्वा दिनमध्यगेऽर्के॥४०॥",
-          "english": "Sun's Azimuth Sine (Digamsha-jya) and Chetanam/Chhayagra calculation.",
-          "hindi": "दिगंशज्या (सूर्य का दिगंश) तथा छायाग्र का गणितीय निरूपण।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Sun's Azimuth Sine (Digamsha-jya) and Chetanam/Chhayagra calculation.",
+          "hindi_draft": "दिगंशज्या (सूर्य का दिगंश) तथा छायाग्र का गणितीय निरूपण।"
         },
         {
           "number": 41,
           "text": "युतायनांशार्कबृहद्भुजज्यया खरामतिथ्यभ्रभुवो १०१५३० हृताः परः। पलश्रुतिघ्नः पलभाविभाजितः परोऽथवोद्वृत्तगते रवौ श्रुतिः॥४१॥",
-          "english": "With the great-sine of the sun combined with ayana degrees, divided by 101530 (khara-matithy-abhra-bhuvah), the further is multiplied by the latitude-hypotenuse and divided by the latitude-shadow; or when the sun has passed the prime-vertical, the hypotenuse.",
-          "hindi": "सयुतायनांशार्क के बृहद्भुजज्या से १०१५३० द्वारा भाग देने पर पर (उत्कृष्ट), पलश्रुति से गुणित और पलभा से भाजित, अथवा उद्वृत्तगत सूर्य होने पर कर्ण होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "With the great-sine of the sun combined with ayana degrees, divided by 101530 (khara-matithy-abhra-bhuvah), the further is multiplied by the latitude-hypotenuse and divided by the latitude-shadow; or when the sun has passed the prime-vertical, the hypotenuse.",
+          "hindi_draft": "सयुतायनांशार्क के बृहद्भुजज्या से १०१५३० द्वारा भाग देने पर पर (उत्कृष्ट), पलश्रुति से गुणित और पलभा से भाजित, अथवा उद्वृत्तगत सूर्य होने पर कर्ण होता है।"
         },
         {
           "number": 42,
           "text": "उद्वृत्तकर्णश्चरशिञ्जीनीघ्नो भक्तोऽन्त्यया वा श्रवणो दिनार्धे॥४२॥",
-          "english": "The unvritta-hypotenuse multiplied by the chara-sine and divided by the final (radius) is the hypotenuse at midday.",
-          "hindi": "उद्वृत्तकर्ण चरशिञ्जिनी (चरज्या) से गुणित और अन्त्य (त्रिज्या) से भाजित अथवा दिनार्धकर्ण होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The unvritta-hypotenuse multiplied by the chara-sine and divided by the final (radius) is the hypotenuse at midday.",
+          "hindi_draft": "उद्वृत्तकर्ण चरशिञ्जिनी (चरज्या) से गुणित और अन्त्य (त्रिज्या) से भाजित अथवा दिनार्धकर्ण होता है।"
         },
         {
           "number": 43,
           "text": "उद्वृत्तकर्णः समवृत्तकर्णः क्षितिज्यया तद्धृतिसंज्ञया च। क्रमेण निघ्नौ विहृतौ च हृत्या दिनार्धकर्णावथवा भवेताम्॥४३॥",
-          "english": "The unvritta-hypotenuse and the samavritta-hypotenuse, multiplied respectively by the horizon-sine and that known as tadhriti, and divided by the divisor, would be the midday-hypotenuses.",
-          "hindi": "उद्वृत्तकर्ण और समवृत्तकर्ण क्रमशः क्षितिज्या और तद्धृतिसंज्ञा से गुणित तथा हृति से भाजित होकर दिनार्धकर्ण होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The unvritta-hypotenuse and the samavritta-hypotenuse, multiplied respectively by the horizon-sine and that known as tadhriti, and divided by the divisor, would be the midday-hypotenuses.",
+          "hindi_draft": "उद्वृत्तकर्ण और समवृत्तकर्ण क्रमशः क्षितिज्या और तद्धृतिसंज्ञा से गुणित तथा हृति से भाजित होकर दिनार्धकर्ण होते हैं।"
         },
         {
           "number": 44,
           "text": "र्यास्तद्दिग्विवरान्तरान्तरगता याः प्रच्छकेच्छावशात्। ता एकानयनेन चाऽऽनयति यो मन्ये तमन्यं भुवि ज्योतिर्विद्वदनारविन्दमुकुलप्रोद्बोधने भास्करम्॥४४॥",
-          "english": "Those which are gone through the intermediate spaces of those directions, according to the questioner's wish—he who brings them about by a single method, him I consider Bhaskara on earth, awakening the lotus-bud-like minds of astronomers.",
-          "hindi": "जो उन दिशाओं के अन्तर-अन्तरगत प्रच्छक की इच्छा के वश से हैं, उनको जो एक ही आनयन से लाता है, मैं भूतल पर उस ज्योतिर्विद् विद्वानों रूपी कमलों को प्रबोधित करने वाले भास्कर को मानता हूँ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Those which are gone through the intermediate spaces of those directions, according to the questioner's wish—he who brings them about by a single method, him I consider Bhaskara on earth, awakening the lotus-bud-like minds of astronomers.",
+          "hindi_draft": "जो उन दिशाओं के अन्तर-अन्तरगत प्रच्छक की इच्छा के वश से हैं, उनको जो एक ही आनयन से लाता है, मैं भूतल पर उस ज्योतिर्विद् विद्वानों रूपी कमलों को प्रबोधित करने वाले भास्कर को मानता हूँ।"
         },
         {
           "number": 46,
           "text": "पलप्रभा व्यासदलेन निघ्नी दिग्ज्योद्धृता तां पलमां प्रकल्प्य। साध्याऽक्षजीवाऽथ तथा विनिघ्नी स्वाक्षज्ययाऽऽप्ताऽपमशिञ्जिनी च॥४६॥",
-          "english": "The shadow of latitude multiplied by half the diameter, divided by the direction-sine, making that the latitude-sine; similarly multiplied by its own latitude-sine and divided by the radius is the declination-sine.",
-          "hindi": "पलप्रभा (अक्षच्छाया) को व्यासदल से गुणा करके दिग्ज्या से भाग दें और उसे पलमा (अक्ष) मानकर साध्य अक्षजीवा है। वैसे ही अपनी अक्षज्या से गुणित और अपनी अक्षज्या से भाजित अपमशिञ्जिनी (क्रान्तिज्या) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The shadow of latitude multiplied by half the diameter, divided by the direction-sine, making that the latitude-sine; similarly multiplied by its own latitude-sine and divided by the radius is the declination-sine.",
+          "hindi_draft": "पलप्रभा (अक्षच्छाया) को व्यासदल से गुणा करके दिग्ज्या से भाग दें और उसे पलमा (अक्ष) मानकर साध्य अक्षजीवा है। वैसे ही अपनी अक्षज्या से गुणित और अपनी अक्षज्या से भाजित अपमशिञ्जिनी (क्रान्तिज्या) होती है।"
         },
         {
           "number": 47,
           "text": "एवं कृते ये पलभागकाः स्युस्तद्धीनखाष्टेन्दुमिताश्च येंऽशाः॥४७॥",
-          "english": "When this is done, those which are the latitude-degrees, and those which are the degrees measured by 18150 (kha-ashta-indu-mitah) minus that...",
-          "hindi": "ऐसा करने पर जो पलभागक (अक्षभाग) होते हैं, तथा उससे हीन खाष्टेन्दुमित (१८१५०) जो अंश होते हैं...",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "When this is done, those which are the latitude-degrees, and those which are the degrees measured by 18150 (kha-ashta-indu-mitah) minus that...",
+          "hindi_draft": "ऐसा करने पर जो पलभागक (अक्षभाग) होते हैं, तथा उससे हीन खाष्टेन्दुमित (१८१५०) जो अंश होते हैं..."
         },
         {
           "number": 48,
           "text": "तांश्वाक्षभागान् प्रविकल्प्य साध्या द्विधेष्टदिग्भा यदि दिग्लवज्या। अल्पाग्रकायाः खलु सौम्यगोले याम्ये तु तस्यां दिशि नास्ति भैव॥४८॥",
-          "english": "Having thus conceived those latitude-degrees as to be derived, by means of twice the desired direction-degree, if it is the direction-sine of the smaller agra, indeed in the northern hemisphere, but in the southern in that direction, there is no shadow.",
-          "hindi": "उन अक्षभागों को प्रविकल्प्य (कल्पना करके) साध्य दो प्रकार की इष्टदिग्बाहु यदि दिग्भवज्या है। सौम्य गोल में अल्पाग्रकाया की, किन्तु याम्य में उस दिशा में छाया नहीं होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Having thus conceived those latitude-degrees as to be derived, by means of twice the desired direction-degree, if it is the direction-sine of the smaller agra, indeed in the northern hemisphere, but in the southern in that direction, there is no shadow.",
+          "hindi_draft": "उन अक्षभागों को प्रविकल्प्य (कल्पना करके) साध्य दो प्रकार की इष्टदिग्बाहु यदि दिग्भवज्या है। सौम्य गोल में अल्पाग्रकाया की, किन्तु याम्य में उस दिशा में छाया नहीं होती है।"
         },
         {
           "number": 50,
           "text": "व्यासार्धवर्गः पलभाकृतिघ्नो दिग्ज्याकृतिर्द्वादशवर्गनिघ्नी। तत्संयुतिः स्यात्प्रथमस्तथाऽन्यस्त्रिज्याक्षभाग्राभिहतिस्ततस्तौ। दिग्ज्याग्रयोर्वर्गवियोगभक्तौ यदन्यवर्गेण युताद्यराशेः। पदं तदन्योनयुतं श्रुतिर्वा गोलक्रमादिष्टदिशं गतेऽर्के॥५०॥",
-          "english": "Calculation of Latitude (Akshamsha) from shadow length at equinox or noon.",
-          "hindi": "विषुवत् मध्याह्न छाया (पलभा) से अक्षांश (अक्ष) का यथार्थ साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Calculation of Latitude (Akshamsha) from shadow length at equinox or noon.",
+          "hindi_draft": "विषुवत् मध्याह्न छाया (पलभा) से अक्षांश (अक्ष) का यथार्थ साधन।"
         },
         {
           "number": 51,
           "text": "स्यादग्रकाया यदि दिग्ज्यकाऽल्पा तदाऽन्यवर्गात्प्रथमेन हीनात्। मूलेन हीनः सहितो द्विधाऽन्यः कर्णद्वयं स्यादिति सौम्यगोले॥५१॥",
-          "english": "In the northern hemisphere, if the directional sine at the end (of the day/motion) is smaller, then from the square of the other, reduced by the first (square), the square root being subtracted or added in two ways, the other will be the two hypotenuses.",
-          "hindi": "सौम्यगोल में, यदि अग्रकाया (अग्रज्या) दिग्ज्या से छोटी हो, तो अन्य (चरज्या आदि) के वर्ग में से प्रथम (दिग्ज्या) के वर्ग को घटाकर, उसके मूल (वर्गमूल) से हीन (घटा हुआ) तथा सहित (जुड़ा हुआ) दो प्रकार से अन्य कर्ण द्वय (दो कर्ण) होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "In the northern hemisphere, if the directional sine at the end (of the day/motion) is smaller, then from the square of the other, reduced by the first (square), the square root being subtracted or added in two ways, the other will be the two hypotenuses.",
+          "hindi_draft": "सौम्यगोल में, यदि अग्रकाया (अग्रज्या) दिग्ज्या से छोटी हो, तो अन्य (चरज्या आदि) के वर्ग में से प्रथम (दिग्ज्या) के वर्ग को घटाकर, उसके मूल (वर्गमूल) से हीन (घटा हुआ) तथा सहित (जुड़ा हुआ) दो प्रकार से अन्य कर्ण द्वय (दो कर्ण) होते हैं।"
         },
         {
           "number": 52,
           "text": "कर्णाग्रया बाहुरिह प्रसाध्यस्त्रिज्याहतोऽसौ प्रभया विभक्तः। भवेत् प्रतीत्यर्थमियं च दिग्ज्या तुल्यैव सा स्याच्छ्रवणद्वयेऽपि॥५२॥",
-          "english": "Here, the tip-hypotenuse (karnagra) as the base should be derived: multiplied by radius and divided by shadow, this becomes the directional sine for that purpose, and this is indeed equal for both hypotenuses.",
-          "hindi": "यहाँ बाहू के रूप में कर्णाग्र (कर्णाग्रया) को इस प्रकार साधित करना चाहिए: वह त्रिज्या से गुणा होकर प्रभा (च्छाया) से विभक्त हो; प्रतीत्यर्थ (स्पष्टता के लिए) यह दिग्ज्या ही होती है और वह दोनों ही कर्णों में तुल्य (समान) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Here, the tip-hypotenuse (karnagra) as the base should be derived: multiplied by radius and divided by shadow, this becomes the directional sine for that purpose, and this is indeed equal for both hypotenuses.",
+          "hindi_draft": "यहाँ बाहू के रूप में कर्णाग्र (कर्णाग्रया) को इस प्रकार साधित करना चाहिए: वह त्रिज्या से गुणा होकर प्रभा (च्छाया) से विभक्त हो; प्रतीत्यर्थ (स्पष्टता के लिए) यह दिग्ज्या ही होती है और वह दोनों ही कर्णों में तुल्य (समान) होती है।"
         },
         {
           "number": 53,
           "text": "उक्ता प्रभाऽभिमतदिङ्नियमेन तावत् तामेव कालनियमेन च वच्मि भूयः। स्यादुन्नतं द्युगतशेषकयोर्यदल्पं तेनोनितं दिनदलं नतसंज्ञकं च॥५३॥",
-          "english": "The shadow has been stated according to the prescribed direction; now I shall state it again according to the rule of time. Half the day, decreased by whichever is less between the altitude (unnata) and the remaining degrees of the diurnal motion (dyugataseshaka), is termed as nata (hour angle).",
-          "hindi": "अभीष्ट दिशा के नियम से कही गई प्रभा (छाया) को अब काल के नियम से फिर कहता हूँ। द्युगत और शेष इन दोनों में जो कम हो, उससे उरिनत (उन्नत काल) अथवा दिनदल (दिनार्ध) को कम करने पर नतसंज्ञक (नतकाल) होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The shadow has been stated according to the prescribed direction; now I shall state it again according to the rule of time. Half the day, decreased by whichever is less between the altitude (unnata) and the remaining degrees of the diurnal motion (dyugataseshaka), is termed as nata (hour angle).",
+          "hindi_draft": "अभीष्ट दिशा के नियम से कही गई प्रभा (छाया) को अब काल के नियम से फिर कहता हूँ। द्युगत और शेष इन दोनों में जो कम हो, उससे उरिनत (उन्नत काल) अथवा दिनदल (दिनार्ध) को कम करने पर नतसंज्ञक (नतकाल) होता है।"
         },
         {
           "number": 54,
           "text": "__________________________________________________ अथोन्नतादूनयुताच्चरेण क्रमादुदग्दक्षिणगोलयोर्ज्या। स्यात् सूत्रमेतद्गुणितं द्युमौर्व्या व्यासार्धभक्तं च कलाभिधानम्॥५४॥",
-          "english": "Then, from the altitude increased or decreased by the chara (ascensional difference), sequentially the sine for the northern and southern hemispheres. This cord (sine) multiplied by the day-radius and divided by the radius becomes what is termed as minutes (kalabhidhana).",
-          "hindi": "तदनन्तर उन्नत काल से चरेण (चरज्या से) युत या ऊन (घटित) उत्क्रम से क्रमशः उत्तर और दक्षिण गोल की ज्या होती है। यह सूत्र द्युमौर्वी (दिनत्रिज्या) से गुणित तथा व्यासार्ध (त्रिज्या) से भक्त (भागित) होने पर कलाभिधान (कला रूप) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Then, from the altitude increased or decreased by the chara (ascensional difference), sequentially the sine for the northern and southern hemispheres. This cord (sine) multiplied by the day-radius and divided by the radius becomes what is termed as minutes (kalabhidhana).",
+          "hindi_draft": "तदनन्तर उन्नत काल से चरेण (चरज्या से) युत या ऊन (घटित) उत्क्रम से क्रमशः उत्तर और दक्षिण गोल की ज्या होती है। यह सूत्र द्युमौर्वी (दिनत्रिज्या) से गुणित तथा व्यासार्ध (त्रिज्या) से भक्त (भागित) होने पर कलाभिधान (कला रूप) होती है।"
         },
         {
           "number": 55,
           "text": "सूत्रं कुजीवागुणितं विभक्तं चरज्यया स्यादथवा कला सा। कला पलक्षेत्रजकोटिनिघ्नी तत्कर्णभक्ता भवतीष्ठयष्टिः॥५५॥",
-          "english": "Calculation of Sun's Declination (Kranti) and Longitude from noon shadow.",
-          "hindi": "मध्याह्न छाया से सूर्य की क्रान्ति तथा स्पष्ट सूर्य स्थान का ज्ञान।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Calculation of Sun's Declination (Kranti) and Longitude from noon shadow.",
+          "hindi_draft": "मध्याह्न छाया से सूर्य की क्रान्ति तथा स्पष्ट सूर्य स्थान का ज्ञान।"
         },
         {
           "number": 57,
           "text": "युतोनितोन्मण्डलशङ्कुनैवमिष्टाख्ययष्टिर्भवतीष्टशङ्कुः॥५७॥",
-          "english": "Thus, by the prime-vertical (unmanda) shankku, increased or decreased, the desired staff (ishtakhyayashti) becomes the desired shankku (ishtasanku).",
-          "hindi": "इस प्रकार उन्मण्डलशंकु से युत या हीन इष्टसंज्ञक यष्टि ही इष्टशंकु होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Thus, by the prime-vertical (unmanda) shankku, increased or decreased, the desired staff (ishtakhyayashti) becomes the desired shankku (ishtasanku).",
+          "hindi_draft": "इस प्रकार उन्मण्डलशंकु से युत या हीन इष्टसंज्ञक यष्टि ही इष्टशंकु होती है।"
         },
         {
           "number": 58,
           "text": "नतोत्क्रमज्या शर इत्यनेन हीनाऽन्त्यका वाऽभिमताऽन्त्यका स्यात्। युज्याहतो व्यासदलेन भक्तः कुज्याहतो वा चरशिञ्जिनीहृत्॥५८॥",
-          "english": "The versed-sine of nata, subtracted from sara, or the ultimate (antya) being the desired ultimate; or multiplied by the equinoctial sine and divided by the radius-length, or multiplied by the earth-sine and divided by the chara-sine.",
-          "hindi": "नतोत्क्रमज्या (नतवर्ष) शर से हीन होने पर अन्त्यका होती है अथवा अभीष्ट अन्त्यका होती है; अथवा युज्या (अक्षज्या) से गुणित और व्यासदल (त्रिज्या) से भक्त, अथवा कुज्या (चरज्या) से गुणित और चरशिञ्जिनी (चरज्या) से हृत् (भागित) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The versed-sine of nata, subtracted from sara, or the ultimate (antya) being the desired ultimate; or multiplied by the equinoctial sine and divided by the radius-length, or multiplied by the earth-sine and divided by the chara-sine.",
+          "hindi_draft": "नतोत्क्रमज्या (नतवर्ष) शर से हीन होने पर अन्त्यका होती है अथवा अभीष्ट अन्त्यका होती है; अथवा युज्या (अक्षज्या) से गुणित और व्यासदल (त्रिज्या) से भक्त, अथवा कुज्या (चरज्या) से गुणित और चरशिञ्जिनी (चरज्या) से हृत् (भागित) होती है।"
         },
         {
           "number": 59,
           "text": "फलं पलक्षेत्रजकोटिनिघ्नं तत्कर्णभक्तं च तदूर्ध्वसंज्ञम्॥५९॥",
-          "english": "The result multiplied by the co-latitude (kotis) of the latitude-place and divided by its hypotenuse is termed as its upper part (urdhvasamjna).",
-          "hindi": "पलक्षेत्र की कोटि से गुणित और उसके कर्ण से भक्त (भागित) फल तदूर्ध्वसंज्ञ (ऊर्ध्वसंज्ञावाला) होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The result multiplied by the co-latitude (kotis) of the latitude-place and divided by its hypotenuse is termed as its upper part (urdhvasamjna).",
+          "hindi_draft": "पलक्षेत्र की कोटि से गुणित और उसके कर्ण से भक्त (भागित) फल तदूर्ध्वसंज्ञ (ऊर्ध्वसंज्ञावाला) होता है।"
         },
         {
           "number": 60,
           "text": "उद्वृत्तशङ्कुः शरसंगुणः स्याच्चरज्ययाऽऽप्तं यदि वोर्ध्वसंज्ञम्। ऊर्ध्वेन हीनो दिनमध्यशङ्कुः स्यादिष्टशङ्कुर्न ततोऽथवैवम्॥६०॥",
-          "english": "Solar Altitude (Unnata-amsha) and Zenith Distance (Nata-amsha) = 90° - Altitude.",
-          "hindi": "उन्नतांश तथा नतांश = ९०° - उन्नतांश।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Solar Altitude (Unnata-amsha) and Zenith Distance (Nata-amsha) = 90° - Altitude.",
+          "hindi_draft": "उन्नतांश तथा नतांश = ९०° - उन्नतांश।"
         },
         {
           "number": 61,
           "text": "इष्टान्त्यकायाश्च हृतेश्च यद्वा दिनार्धशङ्कूक्तवदिष्टशङ्कुः। शङ्कोश्च दृग्ज्याश्रवणप्रभाःस्युर्हृतेर्न दृग्ज्या सुधियाऽत्र कार्या॥६१॥",
-          "english": "Or by the divisor of the desired ultimate-sine, or as stated for the midday shankku, the desired shankku. Of the shankku, the vision-sine, hypotenuse, and shadow are produced; the vision-sine should not be made here by the intelligent one through division.",
-          "hindi": "अथवा इष्टान्त्यकाया और हृत् से, अथवा दिनार्धशंकुवत् इष्टशंकु होता है। शंकु की दृग्ज्या, श्रवण (कर्ण) और प्रभा (छाया) होती हैं; यहाँ सुधी (विद्वान) को दृग्ज्या की हृत् (भाग) क्रिया नहीं करनी चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Or by the divisor of the desired ultimate-sine, or as stated for the midday shankku, the desired shankku. Of the shankku, the vision-sine, hypotenuse, and shadow are produced; the vision-sine should not be made here by the intelligent one through division.",
+          "hindi_draft": "अथवा इष्टान्त्यकाया और हृत् से, अथवा दिनार्धशंकुवत् इष्टशंकु होता है। शंकु की दृग्ज्या, श्रवण (कर्ण) और प्रभा (छाया) होती हैं; यहाँ सुधी (विद्वान) को दृग्ज्या की हृत् (भाग) क्रिया नहीं करनी चाहिए।"
         },
         {
           "number": 62,
           "text": "उद्वृत्तकर्णात् क्षितिशिञ्जिनीघ्नात् समाख्यकर्णादपि तद्धृतिघ्नात्। दिनार्धकर्णादथवा हृतिघ्नाद्धृत्येष्टयाऽऽप्तं यदि वेष्टकर्णः॥६२॥",
-          "english": "From the circle-hypotenuse (udvrittakarna) multiplied by the earth-sine, or from the equinoctial hypotenuse multiplied by that divisor, or from the midday hypotenuse, or multiplied by the divisor and divided by the divisor of the desired (ishtya), if it is the desired hypotenuse.",
-          "hindi": "उद्वृत्तकर्ण से क्षितिशिञ्जिनी (क्षितिज्या/चरज्या) से गुणित, समाख्यकर्ण से उसकी धृति से गुणित, दिनार्धकर्ण से अथवा हृति (भाजक) से गुणित और इष्ट (हृति) से आप्त (लब्ध) होने पर इष्टकर्ण होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From the circle-hypotenuse (udvrittakarna) multiplied by the earth-sine, or from the equinoctial hypotenuse multiplied by that divisor, or from the midday hypotenuse, or multiplied by the divisor and divided by the divisor of the desired (ishtya), if it is the desired hypotenuse.",
+          "hindi_draft": "उद्वृत्तकर्ण से क्षितिशिञ्जिनी (क्षितिज्या/चरज्या) से गुणित, समाख्यकर्ण से उसकी धृति से गुणित, दिनार्धकर्ण से अथवा हृति (भाजक) से गुणित और इष्ट (हृति) से आप्त (लब्ध) होने पर इष्टकर्ण होता है।"
         },
         {
           "number": 63,
           "text": "यत्र क्वचिच्छुद्धिविधौ यदेह शोध्यं न शुध्येद्विपरीत शुद्ध्या। विधिस्तदा प्रोक्तवदेव किंतु योगे वियोगः सुधिया विधेयः॥६३॥",
-          "english": "Wherever in any subtraction process, what ought to be subtracted is not subtractable, the rule is the same as stated, but by reverse subtraction, the wise should perform addition instead of subtraction.",
-          "hindi": "जहाँ कहीं शुद्धि (घटाने) की विधि में जो घटाने योग्य है वह न घट सके, वहाँ विपरीत शुद्धि से विधि वैसे ही कही गई है, किंतु बुद्धिमान को योग (जोड़) में वियोग (घटाव) करना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Wherever in any subtraction process, what ought to be subtracted is not subtractable, the rule is the same as stated, but by reverse subtraction, the wise should perform addition instead of subtraction.",
+          "hindi_draft": "जहाँ कहीं शुद्धि (घटाने) की विधि में जो घटाने योग्य है वह न घट सके, वहाँ विपरीत शुद्धि से विधि वैसे ही कही गई है, किंतु बुद्धिमान को योग (जोड़) में वियोग (घटाव) करना चाहिए।"
         },
         {
           "number": 64,
           "text": "बाणेन्दु १५ नाड्यूननतात्क्रमज्या त्रिज्यान्विता सैव नतोत्क्रमज्या। उद्वृत्तशङ्कुस्तु न याम्यगोले दृश्योऽनुपातार्थमयं प्रसाध्यः॥६४॥",
-          "english": "From the nata increased or decreased by 15 (banendu), the versed sine of the nata combined with the radius becomes the versed sine of nata itself. The circle-shankku (udvrittasanku) is not visible in the southern hemisphere; for the sake of proportion, this is to be derived.",
-          "hindi": "बाणेन्दु (१५) नाड़ी से ऊन नत की क्रमज्या (ज्या), त्रिज्या से संयुक्त होने पर वही नतोत्क्रमज्या होती है। उद्वृत्तशंकु याम्यगोल में दृश्य नहीं होता, अतएव अनुपात के लिए इसे साधित करना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From the nata increased or decreased by 15 (banendu), the versed sine of the nata combined with the radius becomes the versed sine of nata itself. The circle-shankku (udvrittasanku) is not visible in the southern hemisphere; for the sake of proportion, this is to be derived.",
+          "hindi_draft": "बाणेन्दु (१५) नाड़ी से ऊन नत की क्रमज्या (ज्या), त्रिज्या से संयुक्त होने पर वही नतोत्क्रमज्या होती है। उद्वृत्तशंकु याम्यगोल में दृश्य नहीं होता, अतएव अनुपात के लिए इसे साधित करना चाहिए।"
         },
         {
           "number": 65,
           "text": "मार्तण्डः सममण्डलं प्रविशति स्वल्पेऽपमे स्वात् पलात् दृश्यो ह्युत्तरगोल एव स विशन् श्राव्या तदैवास्य भा। अप्राप्तेऽपि समाख्यमण्डलमिने यः शङ्कुरुत्पद्यते नूनं सोऽपि परानुपातविधये नैवं क्वचिद्दुष्यति॥६५॥",
-          "english": "Determination of Cardinal Directions (East, West, North, South) using a flat leveled circle (Matsya method / Fish figure).",
-          "hindi": "समतल भूमि पर वृत्त बनाकर 'मत्स्य विधि' से पूर्व, पश्चिम, उत्तर, दक्षिण दिशाओं का यथार्थ साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Determination of Cardinal Directions (East, West, North, South) using a flat leveled circle (Matsya method / Fish figure).",
+          "hindi_draft": "समतल भूमि पर वृत्त बनाकर 'मत्स्य विधि' से पूर्व, पश्चिम, उत्तर, दक्षिण दिशाओं का यथार्थ साधन।"
         },
         {
           "number": 66,
           "text": "उद्वृत्तकर्णाच्चरशिञ्जिनीघ्नाद्दिनार्धकर्णादथवाऽन्त्यकाघ्नात्। इष्टेन कर्णेन हृताद्यदाप्तमिष्टान्त्यका सैव पृथक्पृथक्स्यात्॥६६॥",
-          "english": "From the circle-hypotenuse multiplied by the chara-sine, or from the midday hypotenuse, or multiplied by the ultimate-sine, divided by the desired hypotenuse, whatever quotient is obtained, those very desired ultimate-sines are separate.",
-          "hindi": "उद्वृत्तकर्ण से चरशिञ्जिनी (चरज्या) से गुणित, दिनार्धकर्ण से अथवा अन्त्यका से गुणित, इष्ट कर्ण से हृत् (भागित) होने पर जो आप्त (लब्ध) हो, वे इष्टान्त्यकाएँ पृथक्-पृथक् होती हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From the circle-hypotenuse multiplied by the chara-sine, or from the midday hypotenuse, or multiplied by the ultimate-sine, divided by the desired hypotenuse, whatever quotient is obtained, those very desired ultimate-sines are separate.",
+          "hindi_draft": "उद्वृत्तकर्ण से चरशिञ्जिनी (चरज्या) से गुणित, दिनार्धकर्ण से अथवा अन्त्यका से गुणित, इष्ट कर्ण से हृत् (भागित) होने पर जो आप्त (लब्ध) हो, वे इष्टान्त्यकाएँ पृथक्-पृथक् होती हैं।"
         },
         {
           "number": 67,
           "text": "पलश्रुतिघ्नस्त्रिगुणस्य वर्गो द्युज्येष्टकर्णाहतिहृद्भवेद्वा। इष्टान्त्यका तद्रहिताऽन्त्यकाया भवन्ति या उत्क्रमचापलिप्ताः॥६७॥",
-          "english": "Or the square of the radius multiplied by the latitude-sine, divided by the product of the day-radius and the desired hypotenuse. The desired ultimate-sine subtracted from that ultimate-sine yields the arc-minutes of the versed sine.",
-          "hindi": "पलश्रुति (अक्षज्या) से गुणित त्रिज्या का वर्ग, द्युज्येष्टकर्णाहति (दिनत्रिज्या और इष्टकर्ण के गुणनफल) से हृत् (भागित) हो अथवा इष्टान्त्यका उससे रहित (घटित) होने पर अन्त्यका की उत्क्रमचापलिप्ताएँ होती हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Or the square of the radius multiplied by the latitude-sine, divided by the product of the day-radius and the desired hypotenuse. The desired ultimate-sine subtracted from that ultimate-sine yields the arc-minutes of the versed sine.",
+          "hindi_draft": "पलश्रुति (अक्षज्या) से गुणित त्रिज्या का वर्ग, द्युज्येष्टकर्णाहति (दिनत्रिज्या और इष्टकर्ण के गुणनफल) से हृत् (भागित) हो अथवा इष्टान्त्यका उससे रहित (घटित) होने पर अन्त्यका की उत्क्रमचापलिप्ताएँ होती हैं।"
         },
         {
           "number": 68,
           "text": "त्रिज्याधिकस्य क्रमचापयुक्ताः खखाब्धिबाणा धनुरुत्क्रमात् स्यात्॥६८॥",
-          "english": "Exceeding the radius, combined with the arc-sine, 545 (khakhabdhibana) - from that, the arc of the versed sine will be.",
-          "hindi": "त्रिज्या से अधिक क्रमचाप से युक्त, खखाब्धिबाण (५४५) उत्क्रम धनुष्प्रकार से होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Exceeding the radius, combined with the arc-sine, 545 (khakhabdhibana) - from that, the arc of the versed sine will be.",
+          "hindi_draft": "त्रिज्या से अधिक क्रमचाप से युक्त, खखाब्धिबाण (५४५) उत्क्रम धनुष्प्रकार से होता है।"
         },
         {
           "number": 69,
           "text": "इष्टान्त्यका सा चरजीवयोना युक्ता च गोलक्रमतः क्रमोत्थाः। तच्चापलिप्ताश्चरयुक्तहीनाः समुन्नतास्ते यदि वाऽसवः स्युः॥६९॥",
-          "english": "That desired ultimate-sine, minus or plus the chara-sine according to the direction of the hemisphere, becomes the ordinary sines (kramottha). Their arc-minutes, minus or plus the chara, will be the altitude-minutes or the time-degrees (asava).",
-          "hindi": "इष्टान्त्यका वह चरजीवया (चरज्या) से ऊन (हीन) या युक्त गोलक्रम के अनुसार क्रमोत्था (क्रमज्या) होती है। उसके चाप की कलाएँ चर से युक्त या हीन होने पर वे समुन्नत (उन्नत चाप कला) अथवा असव (प्राण/काल) होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "That desired ultimate-sine, minus or plus the chara-sine according to the direction of the hemisphere, becomes the ordinary sines (kramottha). Their arc-minutes, minus or plus the chara, will be the altitude-minutes or the time-degrees (asava).",
+          "hindi_draft": "इष्टान्त्यका वह चरजीवया (चरज्या) से ऊन (हीन) या युक्त गोलक्रम के अनुसार क्रमोत्था (क्रमज्या) होती है। उसके चाप की कलाएँ चर से युक्त या हीन होने पर वे समुन्नत (उन्नत चाप कला) अथवा असव (प्राण/काल) होते हैं।"
         },
         {
           "number": 70,
           "text": "दिनार्धद्युतेस्त्रिज्यकाघ्न्या हृतायाः स्वकर्णेन चापांशकाः स्युर्नतांशाः। दिनार्धे वियुक्ता युतास्ते पलांशैरुदग्दक्षिणे भाग्रकेऽर्कापमः स्यात्॥७०॥",
-          "english": "Instrumental observation of shadow using Armillary Sphere (Gola-yantra) and Gnomon (Shanku-yantra).",
-          "hindi": "गोलयन्त्र तथा शङ्कु-यन्त्र द्वारा छाया का प्रत्यक्षीकरण एवं वेध।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Instrumental observation of shadow using Armillary Sphere (Gola-yantra) and Gnomon (Shanku-yantra).",
+          "hindi_draft": "गोलयन्त्र तथा शङ्कु-यन्त्र द्वारा छाया का प्रत्यक्षीकरण एवं वेध।"
         },
         {
           "number": 71,
           "text": "नतांशापमांशान्तरं तुल्यदिक्त्वे युतिर्भिन्नदिक्त्वे पलांशा भवेयुः॥७१॥",
-          "english": "The difference between the zenith distance and declination, if of the same direction; if of different directions, their sum will be the latitude degrees (palamsa).",
-          "hindi": "नतांशापमांशों (नतांश और अपमांश) का अन्तर तुल्यदिक (समान दिशा) होने पर, और भिन्न दिक् होने पर युति (योग), पलांश (अक्षಾಂಶ) होते हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The difference between the zenith distance and declination, if of the same direction; if of different directions, their sum will be the latitude degrees (palamsa).",
+          "hindi_draft": "नतांशापमांशों (नतांश और अपमांश) का अन्तर तुल्यदिक (समान दिशा) होने पर, और भिन्न दिक् होने पर युति (योग), पलांश (अक्षಾಂಶ) होते हैं।"
         },
         {
           "number": 74,
           "text": "दृष्ट्वेष्टभां योऽत्र दिगर्कवेदी छायाद्वयं वा प्रविलोक्य दिग्ज्ञः। वेत्त्यक्षभामुद्धतदैववेदी दुर्दर्पसर्पप्रशमे स तार्क्ष्यः॥७४॥",
-          "english": "Having observed the desired shadow here, or knowing the sun, or having carefully observed two shadows, the directional expert who knows the shadow of the latitude (akshabha)—he is Garuda (tarkshya) for subduing the proud serpent (of ignorance).",
-          "hindi": "यहाँ इष्ट छाया को देखकर, अथवा अर्क (सूर्य) को जानकर, अथवा दो छायाओं का अवलोकन करके, जो दिग्ज्ञ (दिशाओं को जानने वाला) अक्षभा (शंकुच्छाया) को जानता है, वह दुर्दर्प सर्प (अभिमान रूपी सर्प) के प्रशमन के लिए तार्क्ष्य (गरुड़) के समान है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Having observed the desired shadow here, or knowing the sun, or having carefully observed two shadows, the directional expert who knows the shadow of the latitude (akshabha)—he is Garuda (tarkshya) for subduing the proud serpent (of ignorance).",
+          "hindi_draft": "यहाँ इष्ट छाया को देखकर, अथवा अर्क (सूर्य) को जानकर, अथवा दो छायाओं का अवलोकन करके, जो दिग्ज्ञ (दिशाओं को जानने वाला) अक्षभा (शंकुच्छाया) को जानता है, वह दुर्दर्प सर्प (अभिमान रूपी सर्प) के प्रशमन के लिए तार्क्ष्य (गरुड़) के समान है।"
         },
         {
           "number": 75,
           "text": "न्यस्मिन् पञ्चदशाङ्गुले १५ ङ्गुलमुदग्बाहुश्च यत्रेक्षितः। अक्षाभां वद तत्र षट्कृतगजै ८४६ र्यद्वाऽपमज्यां समां दृष्ट्वेष्टामनयोः श्रुतिं च सभुजा द्राग्ब्रूहि मेऽक्षप्रभाम्॥७५॥",
-          "english": "Solution to complex problems of two shadows at different times (Chhaya-dvaya-prashna).",
-          "hindi": "भिन्न-भिन्न कालों की दो छायाओं से अक्षांश और क्रान्ति साधन के कठिन प्रश्नों का समाधान।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Solution to complex problems of two shadows at different times (Chhaya-dvaya-prashna).",
+          "hindi_draft": "भिन्न-भिन्न कालों की दो छायाओं से अक्षांश और क्रान्ति साधन के कठिन प्रश्नों का समाधान।"
         },
         {
           "number": 76,
           "text": "भाद्वयस्य भुजयोः समाशयोर्व्यस्तकर्णहतयोर्यदन्तरम्। ऐक्यमन्यककुभोः पलप्रभा जायते श्रुतिवियोगभाजितम्॥७६॥",
-          "english": "The difference of the two shadows' bases when in the same direction, multiplied by their reversed hypotenuses; or their sum when in opposite directions, divided by the difference of the hypotenuses, produces the equinoctial shadow (palaprabha).",
-          "hindi": "समाश्रय (एक ही दिशा) वाले दो छायाओं के भुजों का, व्यस्त कर्णों से गुणित अन्तर; अथवा अन्य ककुभ (विपरीत दिशा) में ऐक्य (योग), श्रुति वियोग से भाजित होने पर पलप्रभा (अक्षप्रभा) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The difference of the two shadows' bases when in the same direction, multiplied by their reversed hypotenuses; or their sum when in opposite directions, divided by the difference of the hypotenuses, produces the equinoctial shadow (palaprabha).",
+          "hindi_draft": "समाश्रय (एक ही दिशा) वाले दो छायाओं के भुजों का, व्यस्त कर्णों से गुणित अन्तर; अथवा अन्य ककुभ (विपरीत दिशा) में ऐक्य (योग), श्रुति वियोग से भाजित होने पर पलप्रभा (अक्षप्रभा) होती है।"
         },
         {
           "number": 77,
           "text": "क्रान्तिज्याकर्णवधात् त्रिज्याप्तकृतिर्लघुः स दोः कृत्या। हीनोऽब्धिमनु १४४घ्नः स्यादाद्योऽथ परो भुजः कृतेन्द्र १४४घ्नः॥७७॥",
-          "english": "From the product of the declination-sine and hypotenuse, the square divided by the radius is the lesser, subtracted from the square of the base (do-krityai). Decreased by 144 (abdhimanu), the first; and the other base squared and multiplied by 144 (indra).",
-          "hindi": "क्रान्तिज्या और कर्ण के वध (गुणनफल) से त्रिज्या से आप्त (भागित) कृति (वर्ग) लघु दोः कृति (भुज वर्ग) से हीन, अब्धिमनु (१४४) से गुणित आद्य (प्रथम) होता है; तथा पर (द्वितीय) भुज, इन्द्र (१४४) से गुणीकृत वर्ग होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From the product of the declination-sine and hypotenuse, the square divided by the radius is the lesser, subtracted from the square of the base (do-krityai). Decreased by 144 (abdhimanu), the first; and the other base squared and multiplied by 144 (indra).",
+          "hindi_draft": "क्रान्तिज्या और कर्ण के वध (गुणनफल) से त्रिज्या से आप्त (भागित) कृति (वर्ग) लघु दोः कृति (भुज वर्ग) से हीन, अब्धिमनु (१४४) से गुणित आद्य (प्रथम) होता है; तथा पर (द्वितीय) भुज, इन्द्र (१४४) से गुणीकृत वर्ग होता है।"
         },
         {
           "number": 78,
           "text": "तौ लघुवेदेन्द्रा १४४ न्तरभक्तौ परवर्गतो यदाऽऽद्याढ्यात्। मूलं परयुतवियुतं सौम्ये याम्ये भजे पलभा॥७८॥",
-          "english": "Those two, divided by the difference of 144 (vedendra), when added to the square of the other, (and taking) the root, added or subtracted (respectively) in northern and southern hemispheres, divided by the equinoctial shadow.",
-          "hindi": "वे दोनों लघु-वेदेन्द्र (१४४) अन्तर से भक्त (भागित), पर वर्ग से जब आद्याढ्य (प्रथम में जुड़े) हों, तब मूल (वर्गमूल), पर से युत या वियुत, सौम्य (उत्तर) और याम्य (दक्षिण) गोल में पलभा से भजे (भाग दिया जाए)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Those two, divided by the difference of 144 (vedendra), when added to the square of the other, (and taking) the root, added or subtracted (respectively) in northern and southern hemispheres, divided by the equinoctial shadow.",
+          "hindi_draft": "वे दोनों लघु-वेदेन्द्र (१४४) अन्तर से भक्त (भागित), पर वर्ग से जब आद्याढ्य (प्रथम में जुड़े) हों, तब मूल (वर्गमूल), पर से युत या वियुत, सौम्य (उत्तर) और याम्य (दक्षिण) गोल में पलभा से भजे (भाग दिया जाए)।"
         },
         {
           "number": 79,
           "text": "इदानीं सममण्डलप्रश्नः। दिनकरे करिवैरिदल ४।१५ स्थिते नर १२ समा नरभापरदिङ्मुखी भवति यत्र बटो पुटभेदने कथय तान्त्रिक तत्र पलप्रभाम्॥७९॥",
-          "english": "Now, the problem of the prime vertical (samamaṇḍala). O Tantrik! Tell me the equinoctial shadow (palaprabhā) where the sun is situated at 4/15 of the elephant-enemy (lion/Leo, or specific parts), and a gnomon of 12 units has its shadow directed towards the cardinal direction at the city of Puṭabhedana (Pāṭaliputra).",
-          "hindi": "अब सममण्डल का प्रश्न है। हे तान्त्रिक! पुटभेदन नगर में बटो (शंकु) जहाँ १२ अंगुल का होने पर नरभा (छाया) दिशाओं की ओर होती है और सूर्य करीवैरिदल (४/१५) पर स्थित होता है, वहाँ की पलप्रभा बतलाओ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Now, the problem of the prime vertical (samamaṇḍala). O Tantrik! Tell me the equinoctial shadow (palaprabhā) where the sun is situated at 4/15 of the elephant-enemy (lion/Leo, or specific parts), and a gnomon of 12 units has its shadow directed towards the cardinal direction at the city of Puṭabhedana (Pāṭaliputra).",
+          "hindi_draft": "अब सममण्डल का प्रश्न है। हे तान्त्रिक! पुटभेदन नगर में बटो (शंकु) जहाँ १२ अंगुल का होने पर नरभा (छाया) दिशाओं की ओर होती है और सूर्य करीवैरिदल (४/१५) पर स्थित होता है, वहाँ की पलप्रभा बतलाओ।"
         },
         {
           "number": 80,
           "text": "त्रिज्यार्कघातः श्रुतिहृन्नरः स्यायत् क्रान्तिमौर्वीसमवृत्तशङ्कोः। वर्गान्तरान्मूलमनेन भक्ता क्रान्तिज्यका सूर्य १२ हताक्षभा स्यात्॥८०॥",
-          "english": "Determination of latitude when Prime Vertical shadow is given.",
-          "hindi": "सममण्डल छाया ज्ञात होने पर स्थानीय पलभा (अक्षांश) साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Determination of latitude when Prime Vertical shadow is given.",
+          "hindi_draft": "सममण्डल छाया ज्ञात होने पर स्थानीय पलभा (अक्षांश) साधन।"
         },
         {
           "number": 81,
           "text": "न्मन्ये त्वां निशितं सगर्वगणकोन्मत्तेभकुम्भाङ्कुशम्॥८१॥",
-          "english": "I consider you to be a sharp mathematician, who is like an elephant-goad to the proud, intoxicated elephants of astronomers.",
-          "hindi": "मैं तुम्हें तीक्ष्ण (कुशाग्रबुद्धि) तथा गर्वित गणितरूपी उन्मत्त हाथियों के कुम्भस्थलों के लिए अंकुश के समान मानता हूँ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "I consider you to be a sharp mathematician, who is like an elephant-goad to the proud, intoxicated elephants of astronomers.",
+          "hindi_draft": "मैं तुम्हें तीक्ष्ण (कुशाग्रबुद्धि) तथा गर्वित गणितरूपी उन्मत्त हाथियों के कुम्भस्थलों के लिए अंकुश के समान मानता हूँ।"
         },
         {
           "number": 82,
           "text": "या स्याद्रवेरुन्नतकालजीवाऽभीष्टा हृतिः सा प्रथमं प्रकल्प्या। अर्का १२ क्षभावातहताक्षकर्णकृत्योद्धृता स्यादपमज्यकाऽस्याः॥८२॥",
-          "english": "The sine of the time elapsed from sunrise (unnatakālacīvā) corresponding to the Sun, desired as a divisor, should be set down first. When multiplied by 12 and the equinoctial shadow (akṣabhā), and divided by the square of the hypotenuse of the latitude (akṣakarṇa), it yields the declination-sine (apamajyakā) derived from this.",
-          "hindi": "सूर्य के इष्ट उन्नतकालजीवा को पहले (अभीष्ट) हर मानना चाहिए। उसे १२ और अक्षप्रभा से गुणा करके अक्षकर्ण के वर्ग से भाग देने पर इससे अपमज्यका (क्रान्तिज्या) प्राप्त होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The sine of the time elapsed from sunrise (unnatakālacīvā) corresponding to the Sun, desired as a divisor, should be set down first. When multiplied by 12 and the equinoctial shadow (akṣabhā), and divided by the square of the hypotenuse of the latitude (akṣakarṇa), it yields the declination-sine (apamajyakā) derived from this.",
+          "hindi_draft": "सूर्य के इष्ट उन्नतकालजीवा को पहले (अभीष्ट) हर मानना चाहिए। उसे १२ और अक्षप्रभा से गुणा करके अक्षकर्ण के वर्ग से भाग देने पर इससे अपमज्यका (क्रान्तिज्या) प्राप्त होती है।"
         },
         {
           "number": 83,
           "text": "चरादिकेनेष्टहृतिः प्रसाध्या क्षुण्णस्तया क्रान्तिगुणोऽसकृच्च। तदाऽऽद्यहृत्या विहृतः स्फुटः स्यात् सहस्ररश्मौ सममण्डलस्थे॥८३॥",
-          "english": "The desired divisor should be refined by the chara (ascensional difference) and others. The declination-sine (krāntiguṇa) multiplied by it repeatedly, and divided by the initial divisor, will yield the true [position] when the thousand-rayed (sun) is on the prime vertical.",
-          "hindi": "चरादि से इष्ट हर को संस्कारित करना चाहिए। उससे क्रान्तिगुण को बार-बार गुणा करके, और आदि-हर से भाग देने पर, सहस्ररश्मि (सूर्य) के सममण्डल में स्थित होने पर स्फुट मान प्राप्त होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The desired divisor should be refined by the chara (ascensional difference) and others. The declination-sine (krāntiguṇa) multiplied by it repeatedly, and divided by the initial divisor, will yield the true [position] when the thousand-rayed (sun) is on the prime vertical.",
+          "hindi_draft": "चरादि से इष्ट हर को संस्कारित करना चाहिए। उससे क्रान्तिगुण को बार-बार गुणा करके, और आदि-हर से भाग देने पर, सहस्ररश्मि (सूर्य) के सममण्डल में स्थित होने पर स्फुट मान प्राप्त होता है।"
         },
         {
           "number": 85,
           "text": "तदा नतज्यात्रिभजीवयोर्यद्वर्गान्तरं तत्पलभाकृतिघ्नम्। तेनोद्धृतो व्यासदलस्य वर्गो वेदेन्द्र निघ्नोऽथ सरूपलब्ध्यां॥८४॥ १४४ व्यासार्धवर्गाद्विहृतात् पदं स्यात् कान्तिज्यका सा त्रिभशिञ्जिनीघ्नी। जिनांशमौर्व्या विहृतात्तचापादने प्रवक्ष्ये च यथा रविः स्यात्॥८५॥",
-          "english": "Gnomonic Shadow at 45 degree angle (Kona-chhaya) problems and solutions.",
-          "hindi": "विदिशा (४५°) की कोण-छाया सम्बन्धी विविध प्रश्नों के सटीक गणितीय उत्तर।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Gnomonic Shadow at 45 degree angle (Kona-chhaya) problems and solutions.",
+          "hindi_draft": "विदिशा (४५°) की कोण-छाया सम्बन्धी विविध प्रश्नों के सटीक गणितीय उत्तर।"
         },
         {
           "number": 86,
           "text": "मार्तण्डे सममण्डलं प्रविशति च्छाया किलाष्ट्यङ्गुला दृष्टाऽष्टासु घटीषु कुत्रचिदपि स्थाने कदाचिद्दिने। अर्कक्रान्तिगुणं तदा वदसि चेदक्षप्रभां तत्र च त्रिप्रश्नप्रचुरप्रपञ्चचतुरं मन्ये त्वदन्यं नहि॥८६॥",
-          "english": "When the sun enters the prime vertical, the shadow is indeed seen to be 8 angulas at 8 ghatikas at some place on some day. If you can then state the sun's declination-sine and the equinoctial shadow there, I consider no one else to be as clever as you in the abundant expanse of the three-problem (tripraśna) chapter.",
-          "hindi": "जब सूर्य सममण्डल में प्रवेश करता है, तब किसी भी स्थान पर किसी भी दिन ८ घटी में छाया ८ अंगुल देखी जाती है। यदि तुम उस समय सूर्य की क्रान्तिज्या और अक्षप्रभा बता देते हो, तो मैं तुम्हारे सिवाय अन्य किसी को त्रिप्रश्न के प्रचुर प्रपञ्च में चतुर नहीं मानता हूँ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "When the sun enters the prime vertical, the shadow is indeed seen to be 8 angulas at 8 ghatikas at some place on some day. If you can then state the sun's declination-sine and the equinoctial shadow there, I consider no one else to be as clever as you in the abundant expanse of the three-problem (tripraśna) chapter.",
+          "hindi_draft": "जब सूर्य सममण्डल में प्रवेश करता है, तब किसी भी स्थान पर किसी भी दिन ८ घटी में छाया ८ अंगुल देखी जाती है। यदि तुम उस समय सूर्य की क्रान्तिज्या और अक्षप्रभा बता देते हो, तो मैं तुम्हारे सिवाय अन्य किसी को त्रिप्रश्न के प्रचुर प्रपञ्च में चतुर नहीं मानता हूँ।"
         },
         {
           "number": 87,
           "text": "अत्रापि साध्योन्नतकालजीवा पूर्वं तु सैवेष्टहृतिः प्रकल्प्या। ततोऽर्कनिघ्नी समशङ्कुभक्ता पलश्रुतिः स्यात् पलभा ततश्च॥८७॥",
-          "english": "Here too, the sine of the elapsed time from sunrise is to be found, and that very same [value] should be made the desired divisor. Then, multiplied by the sun and divided by the equinoctial gnomon (samaśaṅku), it becomes the śruti of latitude (palāśruti), and thence the equinoctial shadow (palabhā).",
-          "hindi": "यहाँ भी उन्नतकालजीवा साधनी चाहिए और वही पूर्वोक्त इष्ट हर प्रकल्पित करनी चाहिए। तदनन्तर सूर्य से गुणीत और समशंकु से भक्त होने पर वह पलश्रुति होती है और उससे पलभा (प्राप्त होती है)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Here too, the sine of the elapsed time from sunrise is to be found, and that very same [value] should be made the desired divisor. Then, multiplied by the sun and divided by the equinoctial gnomon (samaśaṅku), it becomes the śruti of latitude (palāśruti), and thence the equinoctial shadow (palabhā).",
+          "hindi_draft": "यहाँ भी उन्नतकालजीवा साधनी चाहिए और वही पूर्वोक्त इष्ट हर प्रकल्पित करनी चाहिए। तदनन्तर सूर्य से गुणीत और समशंकु से भक्त होने पर वह पलश्रुति होती है और उससे पलभा (प्राप्त होती है)।"
         },
         {
           "number": 88,
           "text": "पलप्रभाघ्नः समशङ्करक्षकर्णोद्धृतः स्यादपमज्यकातः। चरादिकेनेष्टहृतिस्ततोऽक्षकर्णोऽसकृत् क्रान्तिगुणश्च तस्मात्॥८८॥",
-          "english": "Multiplied by the equinoctial shadow, divided by the hypotenuse of the latitude for the equinoctial gnomon, it comes from the declination-sine. Then the desired divisor [is adjusted] by chara and others, and from that [comes] the hypotenuse of latitude repeatedly and the declination-sine.",
-          "hindi": "पलप्रभा से गुणा किया हुआ और समशंकु के अक्षकर्ण से भाजित अपमज्यकातः (क्रान्तिज्या से) होता है। तदनन्तर चरादिक से इष्ट हर, उससे अक्षकर्ण और बार-बार उससे क्रान्तिगुण होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Multiplied by the equinoctial shadow, divided by the hypotenuse of the latitude for the equinoctial gnomon, it comes from the declination-sine. Then the desired divisor [is adjusted] by chara and others, and from that [comes] the hypotenuse of latitude repeatedly and the declination-sine.",
+          "hindi_draft": "पलप्रभा से गुणा किया हुआ और समशंकु के अक्षकर्ण से भाजित अपमज्यकातः (क्रान्तिज्या से) होता है। तदनन्तर चरादिक से इष्ट हर, उससे अक्षकर्ण और बार-बार उससे क्रान्तिगुण होता है।"
         },
         {
           "number": 89,
           "text": "पञ्चाङ्गुला गणक यत्रः पलप्रभा स्यात् तत्रेष्टभा नवमिता दशनाडिकासु। दृष्टा यदा वद तदा तरणिं तवास्ति यद्यत्र कौशलमलं गणिते सगोले॥८९॥",
-          "english": "O mathematician, where the equinoctial shadow is 5 angulas, there the desired shadow is observed to be 9 angulas at 10 nadikas. Tell me that sun if you have abundant skill in spherical mathematics.",
-          "hindi": "हे गणक! जहाँ पलप्रभा ५ अंगुल है, वहाँ १० नाडिका में इष्टछाया ९ अंगुल देखी जाती है, तब उस समय सूर्य को बताओ यदि गोले सहित गणित में तुम्हारा पूरा कौशल है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "O mathematician, where the equinoctial shadow is 5 angulas, there the desired shadow is observed to be 9 angulas at 10 nadikas. Tell me that sun if you have abundant skill in spherical mathematics.",
+          "hindi_draft": "हे गणक! जहाँ पलप्रभा ५ अंगुल है, वहाँ १० नाडिका में इष्टछाया ९ अंगुल देखी जाती है, तब उस समय सूर्य को बताओ यदि गोले सहित गणित में तुम्हारा पूरा कौशल है।"
         },
         {
           "number": 90,
           "text": "इष्टान्त्यकामुन्नतकालमौर्वीतुल्यां प्रकल्प्याथ तया विभक्तः। इष्टप्रभाशङ्कुहतोऽक्षकर्णस्त्रिज्यागुणो द्वादशभाजितश्च॥९०॥",
-          "english": "Calculation of Sun's passage through Prime Vertical (Samamamdala-pravesha).",
-          "hindi": "सूर्य का सममण्डल में प्रवेश काल एवं शङ्कु-साधन।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Calculation of Sun's passage through Prime Vertical (Samamamdala-pravesha).",
+          "hindi_draft": "सूर्य का सममण्डल में प्रवेश काल एवं शङ्कु-साधन।"
         },
         {
           "number": 91,
           "text": "द्युज्या भवेत् तत्कृतिवर्जितायास्त्रिज्याकृतेर्मूलमपक्रमज्या। इष्टान्त्यका प्राग्वदतोऽसकृच्च द्युज्याऽपमज्या च ततः खरांशुः॥९१॥",
-          "english": "The dyujyā (radius of diurnal circle) minus its square subtracted from the square of the radius (trijyā) will be the apakramajyā (declination-sine). The desired antyakā [is obtained] as before, repeatedly the dyujyā and apamajyā, and thence the sun.",
-          "hindi": "द्युज्या अपनी कृति से वर्जित त्रिज्या के वर्ग का मूल अपक्रमज्या (क्रान्तिज्या) होगी। इष्टान्त्यका पूर्ववत् और बार-बार द्युज्या तथा अपमज्या (होगी), और उससे खरांशु (सूर्य) (प्राप्त होता है)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The dyujyā (radius of diurnal circle) minus its square subtracted from the square of the radius (trijyā) will be the apakramajyā (declination-sine). The desired antyakā [is obtained] as before, repeatedly the dyujyā and apamajyā, and thence the sun.",
+          "hindi_draft": "द्युज्या अपनी कृति से वर्जित त्रिज्या के वर्ग का मूल अपक्रमज्या (क्रान्तिज्या) होगी। इष्टान्त्यका पूर्ववत् और बार-बार द्युज्या तथा अपमज्या (होगी), और उससे खरांशु (सूर्य) (प्राप्त होता है)।"
         },
         {
           "number": 92,
           "text": "यत्र क्षितिज्या शरसिद्धतुल्या २४५ स्यात् तद्धृतिस्तत्त्वकुराम संख्या ३१२५। तत्राक्षभार्कौ गणक प्रचक्ष्व चेदक्षणक्षेत्रविचक्षणोऽसि॥९२॥",
-          "english": "Where the Earth-sine (kujyā) is equal to 245 (śarasiddha-tulyā), its divisor is the number 3125 (tattva-kurāma-saṅkhyā). O mathematician, declare the latitude and the sun there, if you are well-versed in the sphere of coordinates (akṣakṣetra).",
-          "hindi": "जहाँ क्षितिज्या (कुज्या) शरसिद्धतुल्य २४५ है, उसकी धृति (हर) तत्त्वकुराम संख्या ३१२५ (अर्थात् ३१२५) है। हे गणक! वहाँ अक्ष और सूर्य को बताओ यदि तुम अक्षक्षेत्र में विचक्षण हो।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Where the Earth-sine (kujyā) is equal to 245 (śarasiddha-tulyā), its divisor is the number 3125 (tattva-kurāma-saṅkhyā). O mathematician, declare the latitude and the sun there, if you are well-versed in the sphere of coordinates (akṣakṣetra).",
+          "hindi_draft": "जहाँ क्षितिज्या (कुज्या) शरसिद्धतुल्य २४५ है, उसकी धृति (हर) तत्त्वकुराम संख्या ३१२५ (अर्थात् ३१२५) है। हे गणक! वहाँ अक्ष और सूर्य को बताओ यदि तुम अक्षक्षेत्र में विचक्षण हो।"
         },
         {
           "number": 93,
           "text": "कुज्योनतद्धृतिहृता कृतशक्रनिघ्नी १४४ कुज्यैव यत्फलपद पलभा भवेत् सा। कुज्याहता रविभिरक्षभया विभक्ता क्रान्तिज्यका भवति भानुरतो विलोमम्॥९३॥",
-          "english": "Divided by the divisor of the Earth-sine and subtracted [or processed], multiplied by 144 (kṛta-śakra-nighnī), the square root of that result is the equinoctial shadow. The Earth-sine multiplied by the sun (radii) and divided by the shadow of latitude yields the declination-sine; hence conversely [the reverse is true].",
-          "hindi": "कुज्योनिता धृतिहृता कृतशक्रनिघ्नी (१४४ से गुणित) जो फल उसका पद (वर्गमूल) होता है, वह पलभा होती है। कुज्या से हता और रविभिः (त्रिज्या से) तथा अक्षभया (अक्षप्रभा से) विभक्ता क्रान्तिज्यका होती है, अतः विलोम (भी होता है)।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Divided by the divisor of the Earth-sine and subtracted [or processed], multiplied by 144 (kṛta-śakra-nighnī), the square root of that result is the equinoctial shadow. The Earth-sine multiplied by the sun (radii) and divided by the shadow of latitude yields the declination-sine; hence conversely [the reverse is true].",
+          "hindi_draft": "कुज्योनिता धृतिहृता कृतशक्रनिघ्नी (१४४ से गुणित) जो फल उसका पद (वर्गमूल) होता है, वह पलभा होती है। कुज्या से हता और रविभिः (त्रिज्या से) तथा अक्षभया (अक्षप्रभा से) विभक्ता क्रान्तिज्यका होती है, अतः विलोम (भी होता है)।"
         },
         {
           "number": 94,
           "text": "क्रान्तिज्यासमशङ्कुतद्धृतियुतिं कुज्योनितां वीक्ष्य यो विंशत्यश्वरसै ६७२० र्मितामथ परां षष्ट्यङ्कचन्द्रैर्मिताम् १९६० कुज्याग्रापमशिञ्जिनीयुतिमिनं वेत्त्यक्षभां चापि तं ज्योतिर्वित्कमलावबोधनविधौ वन्दे परं भास्करम्॥९४॥",
-          "english": "Seeing the sum of the declination-sine, the equinoctial gnomon, and their divisor, combined with the Earth-sine, as equal to 6720 (viṁśaty-aśva-rasair mitām) and alternatively as 1960 (parāṁ ṣaṣṭy-aṅka-candρair mitām), or knowing the sum of the gnomon-shadow tip and declination-sine together with the sun, whoever knows the equinoctial shadow is a true astronomer—to such a supreme Bhāskara, in order to awaken the lotuses of astronomers, I offer my salutations.",
-          "hindi": "क्रान्तिज्या, समशंकु और उनकी धृति की युति को कुज्योनिता (कुज्यारहित) देखकर जो ६७२० मित (विंशत्यश्वरसैः) तथा परा षष्ट्यंकचंद्रैर्मिता (१९६०) तथा कुज्याग्र-अपमशिञ्जिनी-युति-मिनं (कुज्या, अग्रज्या, अपमशिञ्जिनी की युति से युक्त) सूर्य और अक्षभा को जानता है, वह ज्योतिर्विद् है। कमलों के प्रबोधन के लिए पर भास्कर को नमस्कार करता हूँ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Seeing the sum of the declination-sine, the equinoctial gnomon, and their divisor, combined with the Earth-sine, as equal to 6720 (viṁśaty-aśva-rasair mitām) and alternatively as 1960 (parāṁ ṣaṣṭy-aṅka-candρair mitām), or knowing the sum of the gnomon-shadow tip and declination-sine together with the sun, whoever knows the equinoctial shadow is a true astronomer—to such a supreme Bhāskara, in order to awaken the lotuses of astronomers, I offer my salutations.",
+          "hindi_draft": "क्रान्तिज्या, समशंकु और उनकी धृति की युति को कुज्योनिता (कुज्यारहित) देखकर जो ६७२० मित (विंशत्यश्वरसैः) तथा परा षष्ट्यंकचंद्रैर्मिता (१९६०) तथा कुज्याग्र-अपमशिञ्जिनी-युति-मिनं (कुज्या, अग्रज्या, अपमशिञ्जिनी की युति से युक्त) सूर्य और अक्षभा को जानता है, वह ज्योतिर्विद् है। कमलों के प्रबोधन के लिए पर भास्कर को नमस्कार करता हूँ।"
         },
         {
           "number": 95,
           "text": "क्रान्तिज्यासमशङ्कुतधृतियुतिः कुज्योनिता या तया कुज्याग्रापमशिञ्जिनीयुतिमिनैः १२ क्षुण्णां पृथक्स्थां भजेत्। लब्धं स्यात् पलभा पलश्रुतिपलच्छायार्कयुत्या ततो भाज्याऽन्याऽथ पृथक्स्थिताऽऽप्तमपमज्या स्यात् ततो भास्करः॥९५॥",
-          "english": "Reconstruction of local latitude, declination, and time from combined gnomon observations.",
-          "hindi": "शङ्कु-छाया के सम्मिश्रित वेध से अक्षांश, क्रान्ति एवं काल का युगपत् पुनरुद्धार।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Reconstruction of local latitude, declination, and time from combined gnomon observations.",
+          "hindi_draft": "शङ्कु-छाया के सम्मिश्रित वेध से अक्षांश, क्रान्ति एवं काल का युगपत् पुनरुद्धार।"
         },
         {
           "number": 96,
           "text": "क्रान्तिज्यासमशङ्कुतद्धृतियुतिं कुज्योनितां वीक्ष्य यः पूर्णाब्ध्यन्धिमहोर्मिता १४४० मथ परांखाभ्राष्टभूसंमिताम् १८००। अग्राज्यासमशङ्कुतद्धृतियुतिं वेत्त्यक्षभार्कौ च तं ज्योतिर्वित्कमलावबोधनविधौ वन्दे परं भास्करम्॥९६॥",
-          "english": "Seeing the sum of the declination-sine, the equinoctial gnomon, and their divisor, reduced by the Earth-sine, as equal to 1440 (pūrṇābhy-andhi-mahormitām) and alternatively as 1800 (parāṅkh-ābhraṣṭa-bhū-saṁmitām), or knowing the sum of the shadow-tip sine, equinoctial gnomon, and divisor, together with the equinoctial shadow and the sun, whoever knows this is an astronomer—to such a supreme Bhāskara, in order to awaken the lotuses of astronomers, I offer my salutations.",
-          "hindi": "क्रान्तिज्या, समशंकु और उनकी धृति की युति को कुज्योनिता (कुज्यरहित) देखकर, जो १४४० (पूर्णाब्ध्यन्धिमहोर्मिताम्) तथा परा १८०० (खाभ्राष्टभूसंमिताम्) तथा अग्रज्या, समशंकु और उनकी धृति की युति, अक्षभार्क (अक्षप्रभा और सूर्य) को जानता है, उस ज्योतिर्विद् कमलावबोधनविधौ पर भास्कर को मैं प्रणाम करता हूँ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Seeing the sum of the declination-sine, the equinoctial gnomon, and their divisor, reduced by the Earth-sine, as equal to 1440 (pūrṇābhy-andhi-mahormitām) and alternatively as 1800 (parāṅkh-ābhraṣṭa-bhū-saṁmitām), or knowing the sum of the shadow-tip sine, equinoctial gnomon, and divisor, together with the equinoctial shadow and the sun, whoever knows this is an astronomer—to such a supreme Bhāskara, in order to awaken the lotuses of astronomers, I offer my salutations.",
+          "hindi_draft": "क्रान्तिज्या, समशंकु और उनकी धृति की युति को कुज्योनिता (कुज्यरहित) देखकर, जो १४४० (पूर्णाब्ध्यन्धिमहोर्मिताम्) तथा परा १८०० (खाभ्राष्टभूसंमिताम्) तथा अग्रज्या, समशंकु और उनकी धृति की युति, अक्षभार्क (अक्षप्रभा और सूर्य) को जानता है, उस ज्योतिर्विद् कमलावबोधनविधौ पर भास्कर को मैं प्रणाम करता हूँ।"
         },
         {
           "number": 98,
           "text": "यत्र त्रिवर्गेण मिता पलाभा तत्र त्रिनाडीप्रमितं चरं स्यात्। यदा तदाऽर्कं यदि वेत्सि विद्वन्सांवत्सराणां प्रवरोऽसि नूनम्॥९८॥",
-          "english": "Summary of Tri-prashna chapter and astronomical principles of diurnal motion.",
-          "hindi": "त्रिप्रश्नाधिकार अध्याय का सार-संक्षेप एवं अहोरूप-गति के नियम।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Summary of Tri-prashna chapter and astronomical principles of diurnal motion.",
+          "hindi_draft": "त्रिप्रश्नाधिकार अध्याय का सार-संक्षेप एवं अहोरूप-गति के नियम।"
         },
         {
           "number": 99,
           "text": "चरज्यकार्काभिहतिस्त्रिमौर्व्या भक्ताऽऽप्तवर्गोऽक्षभया स्वनिघ्न्या। युतोऽथ तन्मूलहृता चरज्या सूर्या १२ हता क्रान्तिगुणस्ततोऽर्कः॥९९॥",
-          "english": "Final concluding shloka of Grahaganitadhyaya in Siddhanta Shiromani by Acharya Bhaskara II.",
-          "hindi": "श्रीमद्भास्कराचार्य विरचित सिद्धान्तशिरोमणि के ग्रहगणिताध्याय की पूर्णतासूचक मङ्गलमयी फलश्रुति।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Final concluding shloka of Grahaganitadhyaya in Siddhanta Shiromani by Acharya Bhaskara II.",
+          "hindi_draft": "श्रीमद्भास्कराचार्य विरचित सिद्धान्तशिरोमणि के ग्रहगणिताध्याय की पूर्णतासूचक मङ्गलमयी फलश्रुति।"
         },
         {
           "number": 100,
           "text": "द्युज्यकापमगुणार्कदोर्ण्यकासंयुतिं खखखबाण ५००० संमिताम्। वीक्ष्य भास्करमवेहि मध्यमं मध्यमाहरणमस्ति चेच्छ्रुतम्॥१००॥",
-          "english": "Knowing the sum of the dyujyā, the declination-sine, and the sun's arm-sine (dorjyā) to be equal to 5000 (kha-kha-kha-bāṇa-saṁmitām), understand the sun to be mean, if you have heard of mean operations (madhyamāharaṇa).",
-          "hindi": "द्युज्या, अपमगुण (क्रान्तिज्या) और अर्कदोर्गुण (सूर्य की भुज्या) की युति को ५००० (खखखबाण) संमित देखकर, सूर्य को मध्यम जानो यदि तुमने मध्यमाहरण का अध्ययन किया है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Knowing the sum of the dyujyā, the declination-sine, and the sun's arm-sine (dorjyā) to be equal to 5000 (kha-kha-kha-bāṇa-saṁmitām), understand the sun to be mean, if you have heard of mean operations (madhyamāharaṇa).",
+          "hindi_draft": "द्युज्या, अपमगुण (क्रान्तिज्या) और अर्कदोर्गुण (सूर्य की भुज्या) की युति को ५००० (खखखबाण) संमित देखकर, सूर्य को मध्यम जानो यदि तुमने मध्यमाहरण का अध्ययन किया है।"
         },
         {
           "number": 101,
           "text": "द्युज्यापक्रमभानुदोर्गुणयुतिस्तिथ्युं १५ द्धृताब्ध्या ४ हता स्यादाद्यो युतिवर्गतो यम २ गुणात् सप्तामरा ३३७ प्तोनिताः। नागाद्र्यङ्गदिगङ्ककाः ९१०६७८ पद्मतस्तेनाद्य ऊनो भवेद् व्यासार्धेऽष्टगुणाब्धिपावक ३४३८ मिते क्रान्तिज्यकातो रविः॥१०१॥",
-          "english": "The sum of the dyujyā, the declination-sine, and the sun's arm-sine, divided by 15 (tithyum) and multiplied by 4 (abdhyā), is the first [term]. The square of this sum, multiplied by 2 and subtracted from 337 (saptāmarāptōnitāḥ), [yielding] 910678 (nāgād-ry-aṅga-dig-aṅkakāḥ), from that lotus-born [expression] the first should be subtracted, to yield the sun from the declination-sine, measured by 3438 (vyāsārdh-āṣṭa-guṇ-abdhi-pāvaka-mitē).",
-          "hindi": "द्युज्या, अपक्रम और भानुदोर्गुण की युति १५ से हृत और ४ से गुणीत पहली युति हो। उस युति के वर्ग से २ गुना और ३३७ से ऊन (सप्तामराप्तोनितैः), नाग-अद्रि-अङ्ग-दिग्-अङ्ककैः (९१०६७८), उस पद्मतः (पद्म तुल्य राशि से) आद्य ऊन हो, व्यासार्ध से ८ गुणे अब्धिपावक (३४३८) मित क्रान्तिज्यका से रवि हो।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "The sum of the dyujyā, the declination-sine, and the sun's arm-sine, divided by 15 (tithyum) and multiplied by 4 (abdhyā), is the first [term]. The square of this sum, multiplied by 2 and subtracted from 337 (saptāmarāptōnitāḥ), [yielding] 910678 (nāgād-ry-aṅga-dig-aṅkakāḥ), from that lotus-born [expression] the first should be subtracted, to yield the sun from the declination-sine, measured by 3438 (vyāsārdh-āṣṭa-guṇ-abdhi-pāvaka-mitē).",
+          "hindi_draft": "द्युज्या, अपक्रम और भानुदोर्गुण की युति १५ से हृत और ४ से गुणीत पहली युति हो। उस युति के वर्ग से २ गुना और ३३७ से ऊन (सप्तामराप्तोनितैः), नाग-अद्रि-अङ्ग-दिग्-अङ्ककैः (९१०६७८), उस पद्मतः (पद्म तुल्य राशि से) आद्य ऊन हो, व्यासार्ध से ८ गुणे अब्धिपावक (३४३८) मित क्रान्तिज्यका से रवि हो।"
         },
         {
           "number": 102,
           "text": "क्षेत्रक्षोदविधौ विचक्षण समाचक्ष्वाविलक्षोऽसि चेत्॥१०२॥",
-          "english": "In the process of examining the figure (kṣetra-kṣoda), explain with skill, if you are not confounded.",
-          "hindi": "क्षेत्रक्षोद विधि में विचक्षण हो तो भली-भांति समझाओ, यदि तुम अलक्ष (अमूढ़/चतुर) हो।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "In the process of examining the figure (kṣetra-kṣoda), explain with skill, if you are not confounded.",
+          "hindi_draft": "क्षेत्रक्षोद विधि में विचक्षण हो तो भली-भांति समझाओ, यदि तुम अलक्ष (अमूढ़/चतुर) हो।"
         },
         {
           "number": 103,
           "text": "क्रान्तिज्यां विषुवत्प्रभारविहतेस्तुल्यां प्रकल्प्यापराः कृत्वाऽग्रासमशङ्कुतद्धृतिमहीजीवा अभीष्टास्ततः। द्व्याद्यास्तद्युतिभाजिताः पृथगथ प्रोद्दिष्टयुत्या हता उद्दिष्टा खलु यद्युतिः पृथगिमा व्यक्ता भवन्ति क्रमात्॥१०३॥",
-          "english": "Having set the declination-sine equal to the product of the equinoctial shadow and the sun divided by..., and having made others like the shadow-tip, equinoctial gnomon, their divisor, and the Earth-sine as desired; then, divided separately by their sum, and multiplied by the prescribed sum, these desired quantities become manifest in order.",
-          "hindi": "क्रान्तिज्या को विषुवत्प्रभा और रवि के गुणनफल से हृत के तुल्य मानकर, अन्य अग्र, समशंकु, तद्धृति और महीजीवा को इष्ट बनाकर, द्व्यादि उनकी युति से भाजित और पृथक् प्रोद्दिष्ट युति से गुणीत होकर वे इष्ट राशियाँ क्रमशः स्पष्ट होती हैं।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Having set the declination-sine equal to the product of the equinoctial shadow and the sun divided by..., and having made others like the shadow-tip, equinoctial gnomon, their divisor, and the Earth-sine as desired; then, divided separately by their sum, and multiplied by the prescribed sum, these desired quantities become manifest in order.",
+          "hindi_draft": "क्रान्तिज्या को विषुवत्प्रभा और रवि के गुणनफल से हृत के तुल्य मानकर, अन्य अग्र, समशंकु, तद्धृति और महीजीवा को इष्ट बनाकर, द्व्यादि उनकी युति से भाजित और पृथक् प्रोद्दिष्ट युति से गुणीत होकर वे इष्ट राशियाँ क्रमशः स्पष्ट होती हैं।"
         },
         {
           "number": 105,
           "text": "विधाय बिन्दुं समभूमिभागे ज्ञात्वा दिशः कोटिरतः प्रदेया। प्रत्यङ्मुखी पूर्वकपालसंस्थे पूर्वामुखी पश्चिमगे ग्रहे सा॥१०५॥",
-          "english": "Having established a point on level ground and determined the directions, the ordinate (koṭi) should be laid out from it. It is directed towards the south if the planet is in the eastern hemisphere, and towards the north if the planet is in the western hemisphere.",
-          "hindi": "समभूमि भाग में बिन्दु स्थापित करके और दिशाओं को जानकर, वहाँ से कोटि देनी चाहिए। ग्रह के पूर्व कपाल (गोलार्ध) में होने पर वह प्रत्यङ्मुखी (दक्षिणमुखी) और पश्चिम गत होने पर पूर्वामुखी (उत्तरमुखी) होती है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Having established a point on level ground and determined the directions, the ordinate (koṭi) should be laid out from it. It is directed towards the south if the planet is in the eastern hemisphere, and towards the north if the planet is in the western hemisphere.",
+          "hindi_draft": "समभूमि भाग में बिन्दु स्थापित करके और दिशाओं को जानकर, वहाँ से कोटि देनी चाहिए। ग्रह के पूर्व कपाल (गोलार्ध) में होने पर वह प्रत्यङ्मुखी (दक्षिणमुखी) और पश्चिम गत होने पर पूर्वामुखी (उत्तरमुखी) होती है।"
         },
         {
           "number": 106,
           "text": "कोट्यग्रतो दोरपि याम्यसौम्यो बिन्दोश्च भा भाग्रभुजाग्रयोगात्। सूत्रं च बिन्दुस्थनराग्रसक्तं प्रसार्य कर्णाकृतिसूत्रगत्या॥१०६॥",
-          "english": "From the tip of the ordinate, the arm (bhuja) also [extends] towards the south or north. From the point, by the union of the shadow-tip and the arm-tip, a string should be extended touching the tip of the gnomon-bearer (man) at the point, following the path of the hypotenuse-forming string.",
-          "hindi": "कोट्यग्र से भुजा भी दक्षिण या उत्तर में (होती है)। बिन्दु से छायाग्र और भुजाग्र के योग से, सूत्र को बिन्दुस्थित नर के अग्रभाग से सक्त करके कर्णरूप सूत्र की गति से फैलाना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "From the tip of the ordinate, the arm (bhuja) also [extends] towards the south or north. From the point, by the union of the shadow-tip and the arm-tip, a string should be extended touching the tip of the gnomon-bearer (man) at the point, following the path of the hypotenuse-forming string.",
+          "hindi_draft": "कोट्यग्र से भुजा भी दक्षिण या उत्तर में (होती है)। बिन्दु से छायाग्र और भुजाग्र के योग से, सूत्र को बिन्दुस्थित नर के अग्रभाग से सक्त करके कर्णरूप सूत्र की गति से फैलाना चाहिए।"
         },
         {
           "number": 107,
           "text": "दृगुच्चमूलं नलकं निवेश्य वंशद्वयाधारमथास्य रन्ध्रे। विलोकयेत् खे खचरं किलैवं जले विलोमं तदपि प्रवक्ष्ये॥१०७॥",
-          "english": "Having placed a tube at the root of the viewing height (dṛgucca-mūla) supported by a pair of rods, one should observe the moving celestial body in the sky through its aperture. Indeed, I will also describe the reverse of this for water.",
-          "hindi": "दृगुच्च मूल में दो वंशों (डंडियों) के आधार से नलक (नली) को निवेशित करके, उसके छिद्र से आकाश में खचर (ग्रह) को देखना चाहिए। जल में (प्रतिबिम्ब देखने की) इसकी उल्टी विधि भी मैं कहूँगा।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Having placed a tube at the root of the viewing height (dṛgucca-mūla) supported by a pair of rods, one should observe the moving celestial body in the sky through its aperture. Indeed, I will also describe the reverse of this for water.",
+          "hindi_draft": "दृगुच्च मूल में दो वंशों (डंडियों) के आधार से नलक (नली) को निवेशित करके, उसके छिद्र से आकाश में खचर (ग्रह) को देखना चाहिए। जल में (प्रतिबिम्ब देखने की) इसकी उल्टी विधि भी मैं कहूँगा।"
         },
         {
           "number": 108,
           "text": "निवेश्य शङ्कुं भुजभाग्रयोगे बिन्दोर्नरायानुगते च सूत्रे। तथैव धार्या नलिका विलोक्यो बिन्दुस्थतोये सुषिरेण खेटः॥१०८॥",
-          "english": "Having placed the gnomon at the junction of the base and the hypotenuse, and the thread being made to pass through the point towards the man (observer), in the same manner the tube should be held, and the planet should be observed through its perforation by means of the water situated at the point.",
-          "hindi": "आधार और कर्ण के योग पर शङ्कु को स्थापित करके और सूत्र को मनुष्य (प्रेक्षक) की ओर जाने वाले बिन्दु से गुजारकर, उसी प्रकार नलिका को धारण करना चाहिए तथा बिन्दु पर स्थित जल के द्वारा उसके छिद्र से खेट (ग्रह) का दर्शन करना चाहिए।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Having placed the gnomon at the junction of the base and the hypotenuse, and the thread being made to pass through the point towards the man (observer), in the same manner the tube should be held, and the planet should be observed through its perforation by means of the water situated at the point.",
+          "hindi_draft": "आधार और कर्ण के योग पर शङ्कु को स्थापित करके और सूत्र को मनुष्य (प्रेक्षक) की ओर जाने वाले बिन्दु से गुजारकर, उसी प्रकार नलिका को धारण करना चाहिए तथा बिन्दु पर स्थित जल के द्वारा उसके छिद्र से खेट (ग्रह) का दर्शन करना चाहिए।"
         },
         {
           "number": 109,
           "text": "दर्शयेद्दिविचरं दिवि के वोऽनेहसि द्युचरदर्शनयोग्ये। पूर्वमेव विरचय्य यथोक्तं रञ्जनाय सुजनस्य नृपस्य॥१०९॥",
-          "english": "Show the planet in the sky, O celestial observer, at that time which is fit for the observation of celestial bodies, having first prepared everything as stated above, for the gratification of the virtuous people and the king.",
-          "hindi": "हे द्युचरज्ञ (खगोलवेत्ता)! ऊपर कहे गए विधान को पहले ही भली-भाँति रचकर, सज्जन पुरुषों और राजा की प्रसन्नता के लिए, आकाश में ग्रहों के दर्शन योग्य समय में आकाशचर (ग्रह) को दिखलाओ।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "drafted",
+          "english_draft": "Show the planet in the sky, O celestial observer, at that time which is fit for the observation of celestial bodies, having first prepared everything as stated above, for the gratification of the virtuous people and the king.",
+          "hindi_draft": "हे द्युचरज्ञ (खगोलवेत्ता)! ऊपर कहे गए विधान को पहले ही भली-भाँति रचकर, सज्जन पुरुषों और राजा की प्रसन्नता के लिए, आकाश में ग्रहों के दर्शन योग्य समय में आकाशचर (ग्रह) को दिखलाओ।"
         }
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }
