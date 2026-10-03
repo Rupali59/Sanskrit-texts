@@ -37769,8 +37769,8 @@
         {
           "number": 2,
           "text": "निजभूमिपरित्यागो प्राणनाशभयं भवेत् ।\nस्थाननाशो महाहानिः निजसूक्ष्मगते रवौ",
-          "english": "Sun's Sookshma in Sun's Dasa: Leaving one's own place, fear of death, loss of position, and great financial loss.",
-          "hindi": "सूर्य की दशा में सूर्य की सूक्ष्मान्तर्दशा: अपने स्थान का त्याग, मृत्यु का भय, स्थान की हानि और भारी आर्थिक हानि।",
+          "english": "The Sun's own sūkṣma: leaving one's own land, fear for one's life, loss of position, and great loss.",
+          "hindi": "सूर्य की अपनी सूक्ष्म दशा: अपनी भूमि का त्याग, प्राण-नाश का भय, स्थान-नाश, और महान हानि।",
           "status": "translated",
           "tags": [
             "rel:modality",
@@ -37780,8 +37780,8 @@
         {
           "number": 3,
           "text": "देवब्राह्मण्भक्तिश्च नित्यकर्मरतस्तथा ।\nसुप्रीतिः सर्वमित्रश्चैव रवेः सूक्ष्मगते विधौ",
-          "english": "Moon's Sookshma in Sun's Dasa: Devotion to deities and Brahmins, performing daily religious duties, and joy from all friends.",
-          "hindi": "सूर्य की दशा में चन्द्रमा की सूक्ष्मान्तर्दशा: देवताओं और ब्राह्मणों में भक्ति, नित्य कर्मों में तत्परता, और सभी मित्रों से सुख।",
+          "english": "The Moon's sūkṣma within the Sun's: devotion to gods and Brahmins, devoted to daily rites, great joy, and friendly to all.",
+          "hindi": "सूर्य में चन्द्रमा की सूक्ष्म दशा: देव-ब्राह्मणों में भक्ति, नित्यकर्म में रत, उत्तम प्रीति, और सबका मित्र।",
           "status": "translated",
           "tags": [
             "rel:dignity",
@@ -37814,108 +37814,92 @@
         {
           "number": 6,
           "text": "नृपसत्कारराजार्हः सेवकैः परिपूजितः ।\nराजचक्षुर्गतः शान्तः सूर्यसूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within the Sun's: honour from the king and fitness for royal favour; attended by servants, in the king's sight, and calm.",
+          "hindi": "सूर्य में गुरु की सूक्ष्म दशा: राजा से सत्कार और राजकृपा की योग्यता; सेवकों से सेवित, राजा की दृष्टि में, और शान्त।",
+          "status": "translated",
           "tags": [
             "graha:sun",
             "rel:position"
-          ],
-          "english_draft": "Verse 6 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 7,
           "text": "चौर्यसाहसकर्मार्थं देवब्राह्मणपीडनम् ।\nस्थानच्युतिं मनोदुखं रवेः सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within the Sun's: acts of theft and violence for gain, harassment of gods and Brahmins, loss of position, and sorrow of mind.",
+          "hindi": "सूर्य में शनि की सूक्ष्म दशा: धन के लिए चोरी और साहस के कर्म, देव-ब्राह्मणों को पीड़ा, स्थान-च्युति, और मन का दुःख।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 7 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
           "text": "दिव्याम्बरादिलब्धिश्च दिव्यस्त्रीपरिभोगिता ।\nअचिन्तितार्थसिद्धिश्च रवेः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within the Sun's: gain of divine clothes and the like, enjoyment of divine women, and success in unexpected aims.",
+          "hindi": "सूर्य में बुध की सूक्ष्म दशा: दिव्य वस्त्र आदि की प्राप्ति, दिव्य स्त्रियों का भोग, और अचिन्तित कार्यों की सिद्धि।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 8 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 9,
           "text": "गुरुतार्थविनाशश्च भृत्यदारभवस्तथा ।\nक्वचित्सेवकसम्बन्धो रवेः सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within the Sun's: loss of dignity and wealth, [trouble] arising from servants and wife, and at times dealings with servants.",
+          "hindi": "सूर्य में केतु की सूक्ष्म दशा: गौरव और धन का नाश, सेवकों और पत्नी से [कष्ट], और कभी-कभी सेवकों से सम्बन्ध।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 9 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
           "text": "पुत्रमित्रकलत्रादिसाख्यसम्पन्न एव च ।\nनानाविधा च सम्पत्ती रवेः सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within the Sun's: the happiness [reading saukhya for sākhya] of sons, friends, wife and the like, and riches of many kinds.",
+          "hindi": "सूर्य में शुक्र की सूक्ष्म दशा: पुत्र, मित्र, स्त्री आदि का सुख, और अनेक प्रकार की सम्पत्ति।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 10 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
           "text": "भूषणं भूमिलाभश्च सम्मानं नृपपूजनम् ।\nतामसत्त्वं गुरुत्वं च निजसूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's own sūkṣma: ornaments, gain of land, honour, and worship by the king; a tāmasic temper, and weightiness.",
+          "hindi": "चन्द्रमा की अपनी सूक्ष्म दशा: आभूषण, भूमि-लाभ, सम्मान, और राजा से पूजा; तामसिक स्वभाव, और गुरुता।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:position"
-          ],
-          "english_draft": "Verse 11 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "दुःखं शत्रुविरोधश्च कुक्षिरोगः पितुर्मृतिः ।\nवातपित्तकफोद्रेकः विधोः सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within the Moon's: sorrow, enmity of enemies, disease of the belly, the death of the father, and aggravation of wind, bile and phlegm.",
+          "hindi": "चन्द्रमा में मंगल की सूक्ष्म दशा: दुःख, शत्रुओं से विरोध, कुक्षि-रोग, पिता की मृत्यु, और वात-पित्त-कफ का प्रकोप।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 12 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
           "text": "क्रोधनं मित्रबन्धूनां देशत्यागो धनक्षयः ।\nविदेशान्निगडप्राप्तिर्विधोः सूक्ष्मगतेप्यगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within the Moon's: anger of friends and kin, leaving one's country, loss of wealth, and fetters coming from abroad.",
+          "hindi": "चन्द्रमा में राहु की सूक्ष्म दशा: मित्रों और बन्धुओं का क्रोध, देशत्याग, धन-क्षय, और विदेश से बन्धन।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 13 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 14,
@@ -37931,363 +37915,309 @@
         {
           "number": 15,
           "text": "राजोपद्रवभीतिः स्याद्व्यवहारे धनक्षयः ।\nचौरर्वं विप्रभीतिश्च विधोः सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within the Moon's: fear of trouble from the king, loss of wealth in dealings, theft [reading uncertain], and fear from Brahmins.",
+          "hindi": "चन्द्रमा में शनि की सूक्ष्म दशा: राजा से उपद्रव का भय, व्यवहार में धन-क्षय, चोरी [पाठ अनिश्चित], और ब्राह्मणों से भय।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 15 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 16,
           "text": "राजमानं वस्तुलाभो विदेशाद्वाहनादिकम् ।\nपुत्रपौत्र्समृद्धिश्च विधोः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within the Moon's: honour from the king, gain of goods, vehicles and the like from abroad, and prosperity of sons and grandsons.",
+          "hindi": "चन्द्रमा में बुध की सूक्ष्म दशा: राजसम्मान, विदेश से वस्तु और वाहन आदि का लाभ, और पुत्र-पौत्रों की समृद्धि।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rashi:tula",
             "rel:position"
-          ],
-          "english_draft": "Verse 16 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 16 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 17,
           "text": "आत्मनो वृत्तिहननं सस्यश‍ृङ्गवृषादिभिः ।\nअग्निसूर्यादिभीतिः स्याद्विधोः सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within the Moon's: harm to one's own livelihood through crops, horned cattle, bulls and the like [reading uncertain]; fear from fire, the Sun and the like.",
+          "hindi": "चन्द्रमा में केतु की सूक्ष्म दशा: फसल, सींग वाले पशु, बैल आदि के द्वारा अपनी जीविका की हानि [पाठ अनिश्चित]; अग्नि, सूर्य आदि से भय।",
+          "status": "translated",
           "tags": [
             "graha:sun",
             "rashi:vrishabha",
             "rel:position"
-          ],
-          "english_draft": "Verse 17 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 17 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 18,
           "text": "विवाहो भूमिलाभश्च वस्त्राभरणवैभवम् ।\nराज्यलाभश्च कीर्तिश्च विधोः सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within the Moon's: marriage, gain of land, the splendour of clothes and ornaments, gain of a kingdom, and fame.",
+          "hindi": "चन्द्रमा में शुक्र की सूक्ष्म दशा: विवाह, भूमि-लाभ, वस्त्र और आभूषणों का वैभव, राज्य-लाभ, और कीर्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 18 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 18 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 19,
           "text": "क्लेशात्क्लेशः कार्यनाशः पशुधान्यधनक्षयः ।\nगात्रवैषम्यभूमिश्च विधोः सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within the Moon's: trouble upon trouble, ruin of undertakings, loss of cattle, grain and wealth, bodily disorder, and [loss of] land [gātra-vaiṣamya-bhūmi; reading uncertain].",
+          "hindi": "चन्द्रमा में सूर्य की सूक्ष्म दशा: क्लेश पर क्लेश, कार्य-नाश, पशु, धान्य और धन का क्षय, शारीरिक विषमता, और भूमि [की हानि; 'गात्रवैषम्यभूमि' — पाठ अनिश्चित]।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 19 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 19 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 20,
           "text": "भूमिहानिर्मनःखेदो ह्यपस्मारी च बन्धुयुक् ।\nपुरोक्षोभमनस्तापो निजसूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's own sūkṣma: loss of land, dejection, epilepsy, in the company of kin [bandhu-yuk; sense uncertain], agitation in the town, and mental anguish.",
+          "hindi": "मंगल की अपनी सूक्ष्म दशा: भूमि-हानि, मन का खेद, अपस्मार, बन्धुओं के साथ ['बन्धुयुक्'; अर्थ अनिश्चित], नगर में क्षोभ, और मनस्ताप।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 20 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 20 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 21,
           "text": "अङ्गदोषो जनाद्भीतिः प्रमदावंशनाशनम् ।\nवह्निसर्पभयं घोरं भौमे सूक्ष्मगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within Mars's: bodily defects, fear from people, ruin of wife and lineage, and terrible fear from fire and snakes.",
+          "hindi": "मंगल में राहु की सूक्ष्म दशा: अंगों में दोष, लोगों से भय, स्त्री और वंश का नाश, और अग्नि व सर्प से घोर भय।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 21 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 21 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 22,
           "text": "देवपूजारतिश्चात्र मन्त्राभ्युत्थानतत्परः ।\nलोके पूजा प्रमोदश्च भौमे सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within Mars's: delight in worship of the gods, eagerness in mantras [and their rising; reading uncertain], and honour and joy among people.",
+          "hindi": "मंगल में गुरु की सूक्ष्म दशा: देव-पूजा में रुचि, मन्त्रों [और उनके उत्थान; पाठ अनिश्चित] में तत्परता, और लोक में पूजा और आनन्द।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 22 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 22 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 23,
           "text": "बन्धनान्मुच्यते बद्धो धनधान्यपरिच्छदः ।\nभृत्यार्थबहुलः श्रीमान् भौमे सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within Mars's: one who is bound is freed from bonds; wealth, grain and possessions; prosperous, with many servants and much wealth.",
+          "hindi": "मंगल में शनि की सूक्ष्म दशा: बँधा हुआ बन्धन से मुक्त होता है; धन, धान्य और सामग्री; श्रीमान, बहुत सेवकों और धन से युक्त।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 23 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 23 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 24,
           "text": "वाहनं छात्रसंयुक्तं राज्यभोगपरं सुखम् ।\nकामश्वासादिका पीडा भौमे सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within Mars's: vehicles with umbrellas [reading chatra for chātra], happiness given to royal enjoyments; affliction from cough, asthma and the like [reading kāsa-śvāsa].",
+          "hindi": "मंगल में बुध की सूक्ष्म दशा: छत्र सहित वाहन, राजभोग में लीन सुख; खाँसी, श्वास आदि की पीड़ा ['कासश्वास' पढ़ा गया]।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:mercury",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 24 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 24 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 25,
           "text": "परप्रेतितबुद्धिश्च सर्वत्राऽपि च गर्हिता ।\nअशुचिः सर्वकालेषु भौमे सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within Mars's: a mind prompted by others [reading prerita for pretita], blamed everywhere, and impure at all times.",
+          "hindi": "मंगल में केतु की सूक्ष्म दशा: दूसरों से प्रेरित बुद्धि, सर्वत्र निन्दित, और सदा अशुद्ध।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 25 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 25 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 26,
           "text": "इष्टस्त्रीभोगसम्पत्तिरिष्टभोजनसंग्रहः ।\nइष्टार्थस्यापि लाभश्च भौमे सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within Mars's: enjoyment of desired women, gathering of desired food, and gain of desired wealth.",
+          "hindi": "मंगल में शुक्र की सूक्ष्म दशा: इष्ट स्त्रियों का भोग, इष्ट भोजन का संग्रह, और इष्ट धन का लाभ।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 26 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 26 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 27,
           "text": "राजद्वेषो द्विजात्क्लेशः कार्याभिप्रयवंचकः ।\nलोकेऽपि निन्द्यतामेति भौमे सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Mars's: enmity of the king, trouble from Brahmins, deceit in the purpose of affairs [reading abhiprāya; uncertain]; and he becomes blameworthy among people.",
+          "hindi": "मंगल में सूर्य की सूक्ष्म दशा: राजा से द्वेष, ब्राह्मणों से क्लेश, कार्य के प्रयोजन में छल ['अभिप्राय' पढ़ा गया; अनिश्चित]; और वह लोक में निन्दनीय होता है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 27 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 27 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 28,
           "text": "शुद्धत्वं धनसम्प्राप्तिर्देवभाह्मण्वत्सलः ।\nव्याधिना परिभूयेत् भौमे सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's sūkṣma within Mars's: purity, gain of wealth, and affection for gods and Brahmins; [yet] he is overcome by disease.",
+          "hindi": "मंगल में चन्द्रमा की सूक्ष्म दशा: शुद्धता, धन-प्राप्ति, और देव-ब्राह्मणों से स्नेह; [फिर भी] वह रोग से पीड़ित होता है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 28 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 28 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 29,
           "text": "लोकोपद्रवबुद्धिश्च सर्वकार्ये मतिविभ्रमः ।\nशून्यता चित्तदोषः स्यात् स्वीये सूक्ष्मगतेऽप्यगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's own sūkṣma: a mind bent on troubling people, confusion of judgement in all undertakings, emptiness, and a disordered mind.",
+          "hindi": "राहु की अपनी सूक्ष्म दशा: लोगों पर उपद्रव करने की बुद्धि, सब कार्यों में मति-भ्रम, शून्यता, और चित्त-दोष।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 29 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 29 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 30,
           "text": "दीर्घरोगी दरिद्रश्च सर्वेषां प्रियदर्शनः ।\nदानधर्मरतः शस्तो राहोः सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within Rahu's: long illness and poverty, [yet] pleasing to all, devoted to charity and dharma, and praised.",
+          "hindi": "राहु में गुरु की सूक्ष्म दशा: दीर्घ रोग और दरिद्रता, [फिर भी] सबका प्रिय, दान-धर्म में रत, और प्रशंसित।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 30 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 30 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 31,
           "text": "कुमार्गात्कुत्सितोर्थश्च दुष्टश्च परसेवकः ।\nअसत्सङ्गमतिर्मूढो राहोः सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within Rahu's: base gain by bad ways; wicked, a servant of others, inclined to bad company, and foolish.",
+          "hindi": "राहु में शनि की सूक्ष्म दशा: कुमार्ग से कुत्सित धन; दुष्ट, दूसरों का सेवक, कुसंग में मति वाला, और मूढ़।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 31 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 31 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 32,
           "text": "स्त्रीसम्भोगमतिर्वाग्मी लोकसम्भावनावृतः ।\nअन्नमिच्छंस्तनुग्लानी राहोः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within Rahu's: a mind on sexual enjoyment, eloquent, surrounded by people's esteem; craving food, and bodily weariness.",
+          "hindi": "राहु में बुध की सूक्ष्म दशा: स्त्री-सम्भोग में मति, वाक्पटु, लोक-सम्मान से घिरा; अन्न की इच्छा, और शरीर में ग्लानि।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 32 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 32 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 33,
           "text": "माधुर्यं मानहानिश्च बन्धनं चाप्रमाकरम् ।\nपारुष्यं जीवहानिश्च राहोः सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within Rahu's: sweetness [reading uncertain], loss of honour, imprisonment [the qualifier aprama-karam is unclear], harshness, and loss of life.",
+          "hindi": "राहु में केतु की सूक्ष्म दशा: मधुरता [पाठ अनिश्चित], मानहानि, बन्धन [विशेषण 'अप्रमाकरम्' अस्पष्ट], कठोरता, और प्राण-हानि।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 33 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 33 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 34,
           "text": "बन्धनान्मुच्यते बद्धः स्थानमानार्थसञ्चयः ।\nकारणाद् द्रव्यलाभश्च राहौ सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within Rahu's: one who is bound is freed from bonds; accumulation of position, honour and wealth; and gain of goods from some cause.",
+          "hindi": "राहु में शुक्र की सूक्ष्म दशा: बँधा हुआ बन्धन से मुक्त होता है; स्थान, मान और धन का संचय; और किसी कारण से द्रव्य-लाभ।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 34 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 34 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 35,
           "text": "व्यक्तार्शो गुल्मरोगश्च क्रोधहानिस्तथैव च ।\nवाहनादिसुखं सर्वं राहोः सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Rahu's: manifest piles and abdominal tumour, likewise loss of anger, or loss through anger [krodha-hāni; reading uncertain], and every comfort of vehicles and the like.",
+          "hindi": "राहु में सूर्य की सूक्ष्म दशा: प्रकट अर्श और गुल्म रोग, वैसे ही क्रोध की हानि, या क्रोध से हानि [पाठ अनिश्चित], और वाहन आदि का सब सुख।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 35 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 35 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 36,
           "text": "मणिरत्नधनवाप्तिर्विद्योपासनशीलवान् ।\nदेवार्चनपरो भक्त्या राहोः सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's sūkṣma within Rahu's: acquisition of gems, jewels and wealth; devoted to learning and study, and intent on worshipping the gods with devotion.",
+          "hindi": "राहु में चन्द्रमा की सूक्ष्म दशा: मणि, रत्न और धन की प्राप्ति; विद्या की उपासना में लगा, और भक्ति से देव-पूजा में तत्पर।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 36 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 36 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 37,
           "text": "निर्जिते जनविद्रावो जने क्रोधश्च बन्धनम् ।\nचौर्यशीलरतिर्नित्यं राहोः सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within Rahu's: driving people away when defeated [reading uncertain], anger at people, imprisonment, and a constant delight in theft.",
+          "hindi": "राहु में मंगल की सूक्ष्म दशा: पराजित होने पर लोगों को भगाना [पाठ अनिश्चित], लोगों पर क्रोध, बन्धन, और नित्य चोरी में रुचि।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 37 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 37 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 38,
           "text": "शोकनाशो धनाधिक्यमग्निहोत्रं शिवार्चनम् ।\nवाहनं छत्रसंयुक्तं स्वीये सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's own sūkṣma: an end of sorrow, an abundance of wealth, the agnihotra, worship of Śiva, and vehicles with umbrellas.",
+          "hindi": "गुरु की अपनी सूक्ष्म दशा: शोक का नाश, धन की अधिकता, अग्निहोत्र, शिव-पूजा, और छत्र सहित वाहन।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 38 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 38 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 39,
           "text": "व्रतभङ्गो मनस्तापो विदेशे वसुनाशनम् ।\nविरोधो बन्धुवैर्गश्च गुरोः सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within Jupiter's: breaking of vows, mental anguish, loss of wealth abroad, and opposition and enmity of kin [reading vaira; or 'opposition with the circle of kin', bandhu-varga; uncertain].",
+          "hindi": "गुरु में शनि की सूक्ष्म दशा: व्रत-भंग, मनस्ताप, विदेश में धन-नाश, और बन्धुओं से विरोध और वैर ['वैर' पढ़ा गया; या 'बन्धुवर्ग से विरोध'; अनिश्चित]।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 39 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 39 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 40,
           "text": "विद्याबुद्धिविवृद्धिश्च ससम्मानं धनागमः ।\nगृहे सर्वविधं सौख्यं गुरोः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within Jupiter's: growth of learning and intelligence, the coming of wealth with honour, and every kind of happiness at home.",
+          "hindi": "गुरु में बुध की सूक्ष्म दशा: विद्या और बुद्धि की वृद्धि, सम्मान सहित धन का आगमन, और घर में सब प्रकार का सुख।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 40 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 40 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 41,
           "text": "ज्ञानं विभवपाण्डित्ये शास्त्रश्रोता शिवार्चनम् ।\nअग्निहोत्रं गुरोर्भक्तिर्गुरोः सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within Jupiter's: knowledge, splendour and learning, listening to the śāstras, worship of Śiva, the agnihotra, and devotion to the guru.",
+          "hindi": "गुरु में केतु की सूक्ष्म दशा: ज्ञान, वैभव और पाण्डित्य, शास्त्र-श्रवण, शिव-पूजा, अग्निहोत्र, और गुरु-भक्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 41 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 41 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 42,
           "text": "रोगान्मुक्तिः सुखं भोगो धनधान्यसमागमः ।\nपुत्रदारादिसौख्यं च गुरोः सूक्ष्मगते भृगौ",
-          "english": "Freedom from disease, happiness, luxury, gain of food grains, and joy of wife and sons during Sukshma Dasha of Venus in Jupiter.",
-          "hindi": "गुरु की सूक्ष्म दशा में शुक्र होने पर रोगों से मुक्ति, सुख, भोग, धन-धान्य का समागम और स्त्री-पुत्र का सुख प्राप्त होता है।",
+          "english": "Venus's sūkṣma within Jupiter's: freedom from disease, happiness, enjoyment, the coming of wealth and grain, and happiness of sons, wife and the like.",
+          "hindi": "गुरु में शुक्र की सूक्ष्म दशा: रोगों से मुक्ति, सुख, भोग, धन-धान्य का समागम, और पुत्र-स्त्री आदि का सुख।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -38296,14 +38226,12 @@
         {
           "number": 43,
           "text": "वातपित्तप्रकोपश्च श्लेष्मोद्रेकस्तु दारुणः ।\nरसव्यादिकृतं शूलं गुरोः सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Jupiter's: aggravation of wind and bile, a terrible excess of phlegm, and colic caused by [improper] foods [reading uncertain].",
+          "hindi": "गुरु में सूर्य की सूक्ष्म दशा: वात-पित्त का प्रकोप, कफ की भयानक वृद्धि, और [अनुचित] रस आदि से शूल [पाठ अनिश्चित]।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 43 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 43 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 44,
@@ -38319,492 +38247,416 @@
         {
           "number": 45,
           "text": "स्र्तीजनाच्च विषोत्पत्तिर्बन्धनं च रुजोभयम् ।\nदेशान्तरगमो भ्रान्तिर्गुरोः सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within Jupiter's: poisoning arising from women, imprisonment, fear of disease, travel to other lands, and confusion.",
+          "hindi": "गुरु में मंगल की सूक्ष्म दशा: स्त्रियों से विष की उत्पत्ति, बन्धन, रोग का भय, देशान्तर-गमन, और भ्रान्ति।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 45 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 45 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 46,
           "text": "व्याधिभिः परिभूतःस्याच्चौरैरपहृतं धनम् ।\nसर्पवृश्चिकभीतिश्च गुरोः सूक्ष्मगतेऽप्यगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within Jupiter's: he is overcome by diseases, his wealth is stolen by thieves, and there is fear from snakes and scorpions.",
+          "hindi": "गुरु में राहु की सूक्ष्म दशा: वह रोगों से पीड़ित होता है, चोर उसका धन हर लेते हैं, और सर्प-बिच्छू का भय होता है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 46 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 46 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 47,
           "text": "धनहानिर्महाव्याधिः वातपीडा कुलक्षयः ।\nभिन्नाहारी महादुःखी निजसूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's own sūkṣma: loss of wealth, serious disease, affliction from wind, decline of the family; he eats apart [reading uncertain], and is very unhappy.",
+          "hindi": "शनि की अपनी सूक्ष्म दशा: धन-हानि, महारोग, वात-पीड़ा, कुल-क्षय; वह अलग भोजन करता है [पाठ अनिश्चित], और अत्यन्त दुःखी होता है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 47 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 47 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 48,
           "text": "वाणिज्यवृत्तेर्लाभश्च विद्याविभवमेव च ।\nस्त्रीलाभश्च महीप्राप्तिः शनेः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within Saturn's: gain from trade, the splendour of learning, gain of a woman, and acquisition of land.",
+          "hindi": "शनि में बुध की सूक्ष्म दशा: वाणिज्य-वृत्ति से लाभ, विद्या का वैभव, स्त्री-लाभ, और भूमि-प्राप्ति।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 48 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 48 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 49,
           "text": "चौरोपद्रवकुष्ठादिवृत्तिक्षयविगुम्फनम् ।\nसर्वाङ्गपीडनं व्याधिः शनेः सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within Saturn's: trouble from thieves, leprosy and the like, decline and entanglement of livelihood, affliction of all the limbs, and disease.",
+          "hindi": "शनि में केतु की सूक्ष्म दशा: चोरों का उपद्रव, कुष्ठ आदि, जीविका का क्षय और उलझन, सब अंगों में पीड़ा, और रोग।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 49 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 49 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 50,
           "text": "ऐश्वर्यमायुधाभ्यासः पुत्रलाभोऽभिषेचनम् ।\nआरोग्यं धनकामौ च शनेः सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within Saturn's: lordship, practice of arms, gain of a son, consecration, health, and wealth and desires.",
+          "hindi": "शनि में शुक्र की सूक्ष्म दशा: ऐश्वर्य, शस्त्राभ्यास, पुत्र-लाभ, अभिषेक, आरोग्य, और धन व कामनाएँ।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 50 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 50 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 51,
           "text": "राजतेजोविकारत्वं स्वगृहे जायते कलिः ।\nकिञ्चित्पीडा स्वदेहोत्था शनेः सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Saturn's: disturbance of royal splendour [reading uncertain], quarrels at home, and some pain arising in one's own body.",
+          "hindi": "शनि में सूर्य की सूक्ष्म दशा: राजतेज में विकार [पाठ अनिश्चित], अपने घर में कलह, और अपनी देह से उत्पन्न कुछ पीड़ा।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 51 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 51 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 52,
           "text": "स्फीतबुद्धिर्महारम्भो मन्दतेजा बहुव्ययः ।\nस्त्रीपुत्रैश्च समं सौख्यं शनेः सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's sūkṣma within Saturn's: an expanded intellect, great undertakings, dim lustre, heavy expenditure, and happiness together with wife and sons.",
+          "hindi": "शनि में चन्द्रमा की सूक्ष्म दशा: विस्तृत बुद्धि, बड़े आरम्भ, मन्द तेज, बहुत व्यय, और स्त्री-पुत्रों के साथ सुख।",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "rel:position"
-          ],
-          "english_draft": "Verse 52 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 52 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 53,
           "text": "तेजोहानिर्महोद्वेगो वह्निमान्द्यं भ्रमः कलिः ।\nवातपित्तकृता पीडा शनेः सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within Saturn's: loss of lustre, great agitation, weak digestion, confusion, quarrels, and affliction from wind and bile.",
+          "hindi": "शनि में मंगल की सूक्ष्म दशा: तेज की हानि, महान उद्वेग, मन्दाग्नि, भ्रम, कलह, और वात-पित्त से पीड़ा।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 53 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 53 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 54,
           "text": "पितृमातृविनाशश्च मनोदुःखं गुरुव्ययम् ।\nसर्वत्र विफलत्वं च शनेः सूक्ष्मगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within Saturn's: loss of father and mother, sorrow of mind, heavy expenditure, and failure everywhere.",
+          "hindi": "शनि में राहु की सूक्ष्म दशा: माता-पिता का नाश, मन का दुःख, भारी व्यय, और सर्वत्र विफलता।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:position"
-          ],
-          "english_draft": "Verse 54 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 54 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 55,
           "text": "सन्मुद्राभोगसम्मानं धनधान्यविवर्द्धनम् ।\nछत्रचामरसम्प्राप्तिः शनेः सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within Saturn's: enjoyment and honour with a fine seal [of office; reading uncertain], increase of wealth and grain, and gain of umbrella and fly-whisk.",
+          "hindi": "शनि में गुरु की सूक्ष्म दशा: उत्तम मुद्रा [अधिकार की; पाठ अनिश्चित] सहित भोग और सम्मान, धन-धान्य की वृद्धि, और छत्र-चँवर की प्राप्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 55 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 55 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 56,
           "text": "सौभाग्यं राजसम्मानं धनधान्यादिसम्पदः ।\nसर्वेषां प्रियदर्शी च निजसूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's own sūkṣma: good fortune, royal honour, riches of wealth, grain and the like; and he is pleasing to all.",
+          "hindi": "बुध की अपनी सूक्ष्म दशा: सौभाग्य, राजसम्मान, धन-धान्य आदि की सम्पदा; और वह सबका प्रिय होता है।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 56 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 56 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 57,
           "text": "बालग्रहोग्निभीस्तापः स्त्रीगदोद्भवदोषभाक् ।\nकुमार्गी कुत्सिताशी च बौधे सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within Mercury's: [affliction from] child-seizing spirits, fear of fire, fever, faults arising from women's diseases; he goes by bad paths and eats bad food.",
+          "hindi": "बुध में केतु की सूक्ष्म दशा: बालग्रह, अग्नि का भय, ताप, स्त्री-रोग से उत्पन्न दोष; वह कुमार्गी और कुत्सित भोजी होता है।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:position"
-          ],
-          "english_draft": "Verse 57 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 57 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 58,
           "text": "वाहनं धनसम्पत्तिर्जलजान्नार्थसम्भवः ।\nशुभकीर्तिर्महाभोगो बौधे सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within Mercury's: vehicles, riches of wealth, gain of food and wealth from water-born things [reading uncertain], good fame, and great enjoyment.",
+          "hindi": "बुध में शुक्र की सूक्ष्म दशा: वाहन, धन-सम्पत्ति, जल से उत्पन्न वस्तुओं से अन्न और धन [पाठ अनिश्चित], शुभ कीर्ति, और महान भोग।",
+          "status": "translated",
           "tags": [
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 58 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 58 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 59,
           "text": "ताडनं नृपवैषम्यं बुद्धिस्खलनरोगभाक् ।\nहानिर्जनापवादं च बौधे सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Mercury's: beating, discord with the king, lapses of intellect and disease, loss, and public slander.",
+          "hindi": "बुध में सूर्य की सूक्ष्म दशा: ताड़ना, राजा से वैषम्य, बुद्धि-स्खलन और रोग, हानि, और लोकापवाद।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 59 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 59 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 60,
           "text": "सुभगः स्थिरबुद्धिश्च राजसन्मानसम्पदः ।\nसुहृदां गुरुसंचारो बौधे सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's sūkṣma within Mercury's: fortunate and of steady mind, royal honour and riches, and the visiting of friends and elders [reading uncertain].",
+          "hindi": "बुध में चन्द्रमा की सूक्ष्म दशा: सौभाग्यशाली और स्थिर बुद्धि, राजसम्मान और सम्पदा, और मित्रों व गुरुजनों का आना-जाना [पाठ अनिश्चित]।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:position"
-          ],
-          "english_draft": "Verse 60 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 60 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 61,
           "text": "अग्निदाहो विषोत्पत्तिर्जडत्वं च दरिद्रता ।\nविभ्रमश्च महोद्वेगो बौधे सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within Mercury's: burning by fire, poisoning, dullness and poverty, confusion, and great agitation.",
+          "hindi": "बुध में मंगल की सूक्ष्म दशा: अग्नि-दाह, विष की उत्पत्ति, जड़ता और दरिद्रता, भ्रम, और महान उद्वेग।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 61 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 61 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 62,
           "text": "अग्निसर्पनृपाद्भीतिः कुच्छ्रादिरिपराभवः ।\nभूतावेशभ्रमाद्भ्रान्तिर्बौधे सूक्ष्मगतेप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within Mercury's: fear from fire, snakes and the king, defeat by enemies through hardship [ripu-parābhava can also mean defeat OF enemies; reading uncertain], and delusion from possession by spirits.",
+          "hindi": "बुध में राहु की सूक्ष्म दशा: अग्नि, सर्प और राजा से भय, कष्ट से शत्रुओं द्वारा पराभव ['रिपुपराभव' का अर्थ शत्रुओं का पराभव भी हो सकता है; पाठ अनिश्चित], और भूतावेश से भ्रान्ति।",
+          "status": "translated",
           "tags": [
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 62 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 62 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 63,
           "text": "गृहोपकरणं भव्यं दानं भोगादिवैभवम् ।\nराजप्रसादसम्पत्तिर्बौधे सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within Mercury's: fine household goods, charity, the splendour of enjoyments, and riches from the king's favour.",
+          "hindi": "बुध में गुरु की सूक्ष्म दशा: उत्तम गृह-सामग्री, दान, भोग आदि का वैभव, और राजकृपा से सम्पत्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 63 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 63 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 64,
           "text": "वाणिज्यवृत्तिलाभश्च विद्याविभवमेव च ।\nस्त्रीलाभश्च महाव्याप्तिर्बौधे सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within Mercury's: gain from trade, the splendour of learning, gain of a woman, and wide reach [reading uncertain; the verse nearly repeats 62.48].",
+          "hindi": "बुध में शनि की सूक्ष्म दशा: वाणिज्य-वृत्ति से लाभ, विद्या का वैभव, स्त्री-लाभ, और महान व्याप्ति [पाठ अनिश्चित; श्लोक लगभग ६२.४८ की पुनरावृत्ति है]।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 64 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 64 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 65,
           "text": "पुत्रदारादिजं दुःखं गात्रवैषम्यमेव च ।\nदारिद्र्याद् भिक्षुवृत्तिश्च नैजे सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's own sūkṣma: sorrow arising from sons, wife and the like, bodily disorder, and living by begging out of poverty.",
+          "hindi": "केतु की अपनी सूक्ष्म दशा: पुत्र-स्त्री आदि से उत्पन्न दुःख, शारीरिक विषमता, और दरिद्रता से भिक्षा-वृत्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 65 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 65 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 66,
           "text": "रोगनाशऽर्थलाभश्च गुरुविप्रानुवत्सलः ।\nसङ्गमः स्वजनैः सार्द्धकेतोः सूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's sūkṣma within Ketu's: an end of disease, gain of wealth, devotion to gurus and Brahmins, and meeting with one's own people.",
+          "hindi": "केतु में शुक्र की सूक्ष्म दशा: रोग-नाश, धन-लाभ, गुरु-ब्राह्मणों में स्नेह, और अपने जनों से समागम।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:ketu",
             "rel:position"
-          ],
-          "english_draft": "Verse 66 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 66 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 67,
           "text": "युद्धं भूमिविनाशश्च विप्रवासः स्वदेशतः ।\nसुहृद्विपातिरार्तिश्च केतोः सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Ketu's: war, loss of land, exile from one's country, the fall of friends, and distress.",
+          "hindi": "केतु में सूर्य की सूक्ष्म दशा: युद्ध, भूमि-नाश, अपने देश से प्रवास, मित्रों का पतन, और पीड़ा।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:position"
-          ],
-          "english_draft": "Verse 67 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 67 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 68,
           "text": "दासीदाससमृद्धिश्च युद्धे लब्धिर्जयस्तथा ।\nललिता कीर्तिरुत्पन्ना केतोः सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's sūkṣma within Ketu's: riches of maidservants and servants, gain and victory in battle, and charming fame arises.",
+          "hindi": "केतु में चन्द्रमा की सूक्ष्म दशा: दासी-दासों की समृद्धि, युद्ध में लाभ और विजय, और सुन्दर कीर्ति का उदय।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:position"
-          ],
-          "english_draft": "Verse 68 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 68 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 69,
           "text": "आसने भयमश्वादेश्चौरदुष्टादिपीडनम् ।\nगुल्मपीडा शिरोरोगः केतोः सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within Ketu's: danger from horses and the like when riding [reading uncertain], affliction from thieves, wicked people and the like, abdominal tumour, and disease of the head.",
+          "hindi": "केतु में मंगल की सूक्ष्म दशा: सवारी में घोड़े आदि से भय [पाठ अनिश्चित], चोर, दुष्ट आदि से पीड़ा, गुल्म-पीड़ा, और शिरोरोग।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 69 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 69 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 70,
           "text": "विनाशः स्त्रीगुरूणां च दुष्टस्त्रीसङ्गमाल्लघुः ।\nवमनं रुधिरं पित्तं केतोः सूक्ष्मगतेऽप्यगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within Ketu's: loss of women and elders, lowered [standing] from association with bad women, vomiting, blood and bile.",
+          "hindi": "केतु में राहु की सूक्ष्म दशा: स्त्रियों और गुरुजनों का नाश, दुष्ट स्त्री के संग से लघुता, वमन, रुधिर और पित्त।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 70 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 70 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 71,
           "text": "रिपोर्विरोधः सम्पत्तिः सहसा राजवैभवम् ।\nपशुक्षेत्रविनाशार्तिः केतोः सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within Ketu's: opposition from enemies, riches, sudden royal splendour, and distress from loss of cattle and fields.",
+          "hindi": "केतु में गुरु की सूक्ष्म दशा: शत्रुओं से विरोध, सम्पत्ति, अचानक राजवैभव, और पशु व क्षेत्र के नाश से पीड़ा।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "graha:sun",
             "rel:position"
-          ],
-          "english_draft": "Verse 71 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 71 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 72,
           "text": "मृषा पीडा भवेत्क्षुद्रमुखोत्पत्तिश्च लङ्घनम् ।\nस्त्रीविरोधः सत्यहानिः केतोः सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within Ketu's: trouble arising falsely, the rise of petty enemies [reading uncertain], fasting, opposition from women, and loss of truthfulness.",
+          "hindi": "केतु में शनि की सूक्ष्म दशा: मिथ्या पीड़ा, क्षुद्र शत्रुओं का उदय [पाठ अनिश्चित], लंघन, स्त्रियों से विरोध, और सत्य की हानि।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 72 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 72 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 73,
           "text": "नानाविधजनाप्तिश्च विप्रयोगोऽरिपीडनम् ।\nअर्थसम्पत्समृद्धिश्च केतोः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within Ketu's: meeting with many kinds of people, separation [viprayoga; or vipra-yoga, association with Brahmins, which suits this favourable verse], oppression of enemies, and growth of wealth and riches.",
+          "hindi": "केतु में बुध की सूक्ष्म दशा: अनेक प्रकार के लोगों से भेंट, वियोग ['विप्रयोग'; या विप्र-योग, ब्राह्मणों से संग, जो इस शुभ श्लोक के अनुकूल है], शत्रुओं का दमन, और धन-सम्पत्ति की समृद्धि।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "graha:ketu",
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 73 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 73 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 74,
           "text": "शत्रुहानिर्महत्सौख्यं शङ्करालयनिर्मितिः ।\nतडागकूपनिर्माणं निजसूक्ष्मगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's own sūkṣma: the loss of enemies, great happiness, the building of a temple of Śaṅkara, and the digging of tanks and wells.",
+          "hindi": "शुक्र की अपनी सूक्ष्म दशा: शत्रु-हानि, महान सुख, शंकर के मन्दिर का निर्माण, और तालाब व कुओं का निर्माण।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 74 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 74 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 75,
           "text": "उरस्तापो भ्रमश्चैव गतागतविचेष्टितम् ।\nक्वचिल्लाभः क्वचिद्धानिर्भृगोः सूक्ष्मगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's sūkṣma within Venus's: heat in the chest, confusion, restless coming and going, gain at times and loss at times.",
+          "hindi": "शुक्र में सूर्य की सूक्ष्म दशा: छाती में ताप, भ्रम, आने-जाने की चेष्टा, कभी लाभ और कभी हानि।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 75 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 75 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 76,
           "text": "आरोग्यं धनसम्पात्तिः कार्यलाभो गतागतैः ।\nबुद्धिविद्याविवृद्धिः स्याद् भृगोः सूक्ष्मगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's sūkṣma within Venus's: health, riches, gain in work through travels, and growth of intelligence and learning.",
+          "hindi": "शुक्र में चन्द्रमा की सूक्ष्म दशा: आरोग्य, धन-सम्पत्ति, आने-जाने से कार्य-लाभ, और बुद्धि व विद्या की वृद्धि।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 76 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 76 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 77,
           "text": "जडत्वं रिपुवैषम्यं देशभ्रंशो महद्भयम् ।\nव्याधिदुःखसमृत्पत्तिर्भृगोः सूक्ष्मगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's sūkṣma within Venus's: dullness, discord with enemies, exile from one's country, great fear, and the onset of disease and sorrow.",
+          "hindi": "शुक्र में मंगल की सूक्ष्म दशा: जड़ता, शत्रुओं से वैषम्य, देश-भ्रंश, महान भय, और रोग व दुःख की उत्पत्ति।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 77 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 77 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 78,
           "text": "राज्याग्निसर्पजा भीतिर्बन्धुनाशो गुरुव्यथा ।\nस्थानच्युतिर्महाभीतिर्भृगोः सूक्ष्मगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's sūkṣma within Venus's: fear from the king, fire and snakes, loss of kin, heavy distress, loss of position, and great fear.",
+          "hindi": "शुक्र में राहु की सूक्ष्म दशा: राजा, अग्नि और सर्प से भय, बन्धु-नाश, भारी व्यथा, स्थान-च्युति, और महान भय।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 78 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 78 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 79,
           "text": "सर्वत्र कार्यलाभश्च क्षेत्रार्थविभवोन्नतिः ।\nवणिग्वृत्तेर्महालब्धिर्भृगोः सूक्ष्मगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's sūkṣma within Venus's: gain in work everywhere, increase of fields, wealth and splendour, and great gains from trade.",
+          "hindi": "शुक्र में गुरु की सूक्ष्म दशा: सर्वत्र कार्य-लाभ, क्षेत्र, धन और वैभव की उन्नति, और वाणिज्य से महान लाभ।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 79 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 79 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 80,
           "text": "शत्रुपीडा महद्दुःखं चतुष्पादविनाशनम् ।\nस्वगोत्रगुरुहानिः स्याद् भृगोः सूक्ष्मगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's sūkṣma within Venus's: affliction from enemies, great sorrow, loss of cattle, and the loss of elders of one's own clan.",
+          "hindi": "शुक्र में शनि की सूक्ष्म दशा: शत्रु-पीड़ा, महान दुःख, पशुओं का नाश, और अपने गोत्र के गुरुजनों की हानि।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 80 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 80 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 81,
           "text": "बान्धवादिषु सम्पत्तिर्व्यवहारो धनोन्नतिः ।\nपुत्रदारादितः सौख्यं भृगोः सूक्ष्मगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's sūkṣma within Venus's: riches among kin and the like, dealings, increase of wealth, and happiness from sons, wife and the like.",
+          "hindi": "शुक्र में बुध की सूक्ष्म दशा: बन्धुओं आदि में सम्पत्ति, व्यवहार, धन की उन्नति, और पुत्र-स्त्री आदि से सुख।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 81 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 81 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 82,
           "text": "अग्निरोगो महापीडा मुखनेत्रशिरोव्यथा ।\nसञ्चितार्थात्मनः पीडा भृगोः सूक्ष्मगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's sūkṣma within Venus's: disease from fire, great pain, pain in the mouth, eyes and head, and affliction to accumulated wealth and to oneself.",
+          "hindi": "शुक्र में केतु की सूक्ष्म दशा: अग्नि-रोग, महान पीड़ा, मुख, नेत्र और सिर में व्यथा, और संचित धन व स्वयं को पीड़ा।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 82 of chapter 62: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 62 के श्लोक 82 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
