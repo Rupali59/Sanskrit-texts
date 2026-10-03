@@ -1184,8 +1184,8 @@
         {
           "number": 71,
           "text": "भांशपादसमैः प्राणैश्चराद्यर्कत्रिकोणभात् ।\nउदयादिष्टकालान्तं यद्भं प्राणपदं हि तत्",
-          "english": "Convert the time from sunrise to birth into Palas and divide by 15. The resulting signs, degrees, etc., should be added to the Sun's position according to its sign (Movable, Fixed, or Dual).",
-          "hindi": "सूर्योदय से इष्टकाल तक के समय को पलों में बदलकर १५ से भाग दें। प्राप्त राशि-अंशादि को सूर्य की स्थिति (चर, स्थिर, द्विस्वभाव राशि) के अनुसार जोड़कर 'प्राणपद' ज्ञात करें।",
+          "english": "Counting from the Sun's sign when it is movable, and from its trines when it is fixed or dual, take the time from sunrise to the moment in prāṇas, as signs, degrees and quarters: the sign so reached is the Prāṇapada [the verse is compressed; 3.72 gives the working: palas ÷ 15, and the 9th from the Sun for fixed, the 5th for dual].",
+          "hindi": "सूर्य चर राशि में हो तो उसकी राशि से, स्थिर या द्विस्वभाव में हो तो उसके त्रिकोणों से, सूर्योदय से इष्टकाल तक का समय प्राणों में, राशि-अंश-पाद के रूप में गिनें: जो राशि प्राप्त हो वही प्राणपद है [श्लोक संक्षिप्त है; विधि 3.72 में: पल ÷ 15, स्थिर में सूर्य से नवम, द्विस्वभाव में पंचम]।",
           "status": "translated",
           "tags": [
             "rel:house_group"
@@ -3105,8 +3105,8 @@
         {
           "number": 12,
           "text": "पापान्वितः शशी धर्मे द्यूनलग्नगतो यदि ।\nशुभैरवेक्षितयुतस्तदा मृत्युप्रदः शिशोः",
-          "english": "If Chandra is in the 9th, 7th, or Lagna and is associated with malefics while not being aspected by benefics, it causes death for the child.",
-          "hindi": "यदि चन्द्र ९वें, ७वें या लग्न में हो और पाप ग्रहों से युक्त हो तथा शुभ ग्रहों से दृष्ट न हो, तो वह शिशु के लिए मृत्युप्रद होता है।",
+          "english": "If Chandra is in the 9th, 7th, or Lagna and is associated with malefics while neither aspected by nor joined with benefics [reading अवेक्षितयुतः as अनवेक्षितायुतः], it causes death for the child.",
+          "hindi": "यदि चन्द्र ९वें, ७वें या लग्न में हो और पाप ग्रहों से युक्त हो तथा शुभ ग्रहों से न दृष्ट हो न युत [अवेक्षितयुतः को अनवेक्षितायुतः पढ़ा], तो वह शिशु के लिए मृत्युप्रद होता है।",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -3684,8 +3684,8 @@
         {
           "number": 9,
           "text": "सौम्यान्तरगतैः पापैः शुभैः केन्द्रत्रिकोणगैः ।\nसद्यो नाशयतेऽरिष्टं तद्भावोत्थफलं न तत्",
-          "english": "When malefics are placed between benefics and benefics are in Kendras or Trines, Arishta is immediately destroyed, though the specific results of those Bhavas may be modified.",
-          "hindi": "जब पाप ग्रह शुभ ग्रहों के मध्य हों और शुभ ग्रह केन्द्र या त्रिकोण में हों, तो अरिष्ट का तुरंत नाश होता है, यद्यपि उन भावों के विशिष्ट फल प्रभावित हो सकते हैं।",
+          "english": "When malefics are placed between benefics and benefics are in Kendras or Trines, Arishta is immediately destroyed, and the result arising from those houses does not occur.",
+          "hindi": "जब पाप ग्रह शुभ ग्रहों के मध्य हों और शुभ ग्रह केन्द्र या त्रिकोण में हों, तो अरिष्ट का तुरंत नाश होता है, और उन भावों से उत्पन्न वह फल नहीं होता।",
           "status": "translated",
           "tags": [
             "rel:house_group",
@@ -4002,8 +4002,8 @@
         {
           "number": 9,
           "text": "चतुष्पदगतो भानुः परे वीर्यसमन्विताः ।\nद्विस्वभावगता जातौ यमलाविति निर्दिशेत्",
-          "english": "If the Sun is in a quadruped sign and other planets are powerful, or if planets are in dual signs (Dvisvabhava), twins are born.",
-          "hindi": "यदि सूर्य चतुष्पद राशि में हो और अन्य ग्रह बलवान हों, अथवा ग्रह द्विस्वभाव राशियों में हों, तो यमल (जुड़वाँ) सन्तान पैदा होती है।",
+          "english": "If the Sun is in a quadruped sign and the other planets are strong and in dual signs (Dvisvabhava), twins are born.",
+          "hindi": "यदि सूर्य चतुष्पद राशि में हो और अन्य ग्रह बलवान होकर द्विस्वभाव राशियों में हों, तो यमल (जुड़वाँ) सन्तान पैदा होती है।",
           "status": "translated",
           "tags": [
             "entity:bhava",
@@ -4015,8 +4015,8 @@
         {
           "number": 10,
           "text": "रवौन्दू एकभावस्थावेकंशकसमन्वितौ ।\nत्रिमात्रा च त्रिभिर्मासैः पित्रा भ्रात्रा च पोषितः",
-          "english": "If the Sun and Moon are in the same sign and same degree/navamsha, the child is nourished by three mothers or by father and brother for three months.",
-          "hindi": "यदि सूर्य और चन्द्रमा एक ही भाव में और एक ही अंश (अंशक) पर हों, तो जातक का तीन माताओं द्वारा अथवा पिता और भाई द्वारा तीन महीने तक पालन-पोषण होता है।",
+          "english": "If the Sun and Moon are in the same sign and same degree/navamsha, the child is nourished for three months by three mothers, and by father and brother.",
+          "hindi": "यदि सूर्य और चन्द्रमा एक ही भाव में और एक ही अंश (अंशक) पर हों, तो जातक का तीन माताओं द्वारा तथा पिता और भाई द्वारा तीन महीने तक पालन-पोषण होता है।",
           "status": "translated",
           "tags": [
             "entity:bhava",
@@ -4069,7 +4069,7 @@
         {
           "number": 15,
           "text": "यस्मिन्नङ्गे स्थितः पापो व्रणं तत्र समादिशेत् ।\nनियतं सबुधैः क्रूरैः सौम्यैर्लक्ष्म वदेद् बुधः",
-          "english": "Wherever a malefic planet is situated in these parts, a wound (Vrana) should be predicted. If associated with Mercury or other malefics, it is a wound; if with benefics, a mark (Lakshma) should be declared by the wise.",
+          "english": "Wherever a malefic planet is situated in these parts, a wound (Vrana) should be predicted. If associated with malefics together with Mercury, it is certainly a wound; if with benefics, a mark (Lakshma) should be declared by the wise.",
           "hindi": "जिस अंग में पाप ग्रह स्थित हो, वहाँ व्रण (घाव) कहना चाहिए। यदि क्रूर ग्रहों और बुध के साथ हो तो निश्चित ही घाव होता है, और शुभ ग्रहों के साथ होने पर विद्वान को चिह्न (तिल/मसा आदि) कहना चाहिए।",
           "status": "translated",
           "tags": [
@@ -4259,8 +4259,8 @@
         {
           "number": 10,
           "text": "स्वभोच्चस्थे धनाधीशे जातको जनपोषकः ।\nपरोपकारी ख्यातश्च विज्ञेयो द्विजसत्तम",
-          "english": "If the 2nd lord is in its own sign or exaltation, the native nourishes people, is a benefactor of others, famous, and wise, O best of Brahmins.",
-          "hindi": "यदि धनेश अपनी राशि या उच्च राशि में हो, तो जातक लोगों का पालन-पोषण करने वाला, परोपकारी, विख्यात और विद्वान होता है, हे द्विजसत्तम!",
+          "english": "If the 2nd lord is in its own sign or exaltation, the native nourishes people, is a benefactor of others, and famous — so it should be known, O best of Brahmins.",
+          "hindi": "यदि धनेश अपनी राशि या उच्च राशि में हो, तो जातक लोगों का पालन-पोषण करने वाला, परोपकारी, और विख्यात होता है, ऐसा जानना चाहिए, हे द्विजसत्तम!",
           "status": "translated",
           "tags": [
             "bhava:2",
@@ -5006,8 +5006,8 @@
         {
           "number": 17,
           "text": "त्रिचतुःपापसंयुक्ते सुते सौम्यविवर्जिते ।\nसुतेशे नीचराशिस्थे नीचसंस्थौ भवेच्छिशुः",
-          "english": "If the 5th house is joined by 3 or 4 malefics bereft of benefic aspect, and 5th lord is debilitated, the child is of low status.",
-          "hindi": "यदि पञ्चम भाव ३ या ४ पापग्रहों से युक्त हो और शुभग्रहों की दृष्टि न हो, तथा पञ्चमेश नीच राशि में हो, तो बालक नीच स्थिति का होता है।",
+          "english": "If the 5th house is joined by 3 or 4 malefics devoid of benefics, and 5th lord is debilitated, the child is of low status.",
+          "hindi": "यदि पञ्चम भाव ३ या ४ पापग्रहों से युक्त हो और शुभग्रहों से रहित हो, तथा पञ्चमेश नीच राशि में हो, तो बालक नीच स्थिति का होता है।",
           "status": "translated",
           "tags": [
             "bhava:5",
@@ -5288,8 +5288,8 @@
         {
           "number": 3,
           "text": "एवं पित्रादिभावेशास्तत्तत्कारकसंयुताः ।\nव्रणाधिपयुताश्चापि षष्ठाष्टमयुता यदि",
-          "english": "Similarly, if the lords of the houses of father etc., are conjoined with their respective Karakas, and conjoined with the 6th lord, or if they are in the 6th or 8th house.",
-          "hindi": "इसी प्रकार यदि पिता आदि भावों के स्वामी अपने-अपने कारकों के साथ हों, और षष्ठेश से युक्त हों, अथवा यदि वे छठे या आठवें भाव में हों।",
+          "english": "Similarly, if the lords of the houses of father etc., are conjoined with their respective Karakas, and conjoined with the 6th lord, and if they are in the 6th or 8th house.",
+          "hindi": "इसी प्रकार यदि पिता आदि भावों के स्वामी अपने-अपने कारकों के साथ हों, और षष्ठेश से युक्त हों, और यदि वे छठे या आठवें भाव में हों।",
           "status": "translated",
           "tags": [
             "entity:bhava",
@@ -5347,8 +5347,8 @@
         {
           "number": 7,
           "text": "लग्नाधिपौ कुजबुधौ चन्द्रेण यदि संयुतौ ।\nराहुणा शनिना सार्द्धं कुष्ठं तत्र विनिर्दिशेत्",
-          "english": "If the Lagna lord, Mars, and Mercury are conjoined with the Moon, along with Rahu or Saturn, leprosy should be indicated there.",
-          "hindi": "यदि लग्नेश, मंगल और बुध चन्द्रमा के साथ युक्त हों, और साथ में राहु या शनि हों, तो वहाँ कुष्ठ रोग (कोढ़) कहना चाहिए।",
+          "english": "If the Lagna lord, being Mars or Mercury [लग्नाधिपौ कुजबुधौ], is conjoined with the Moon, along with Rahu and Saturn, leprosy should be indicated there.",
+          "hindi": "यदि लग्नेश मंगल या बुध होकर [लग्नाधिपौ कुजबुधौ] चन्द्रमा के साथ युक्त हो, और साथ में राहु और शनि हों, तो वहाँ कुष्ठ रोग कहना चाहिए।",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -5519,8 +5519,8 @@
         {
           "number": 18,
           "text": "त्रिंशद्वर्षैकोनवर्षे गुल्मरोगं विनिर्दिशेत् ।\nरिपुस्थानगते चन्द्रे शशिना संयुते सति",
-          "english": "...Gulma disease (enlargement of the spleen/abdomen) should be indicated in the 30th or 19th year. If the Moon is in the 6th house and conjoined with the Moon...",
-          "hindi": "...तो ३०वें या १९वें वर्ष में गुल्म रोग (पेट का ट्यूमर/तिल्ली) कहना चाहिए। यदि चन्द्रमा छठे भाव में हो और चन्द्रमा से युक्त हो...",
+          "english": "...Gulma disease (enlargement of the spleen/abdomen) should be indicated in the 29th year [त्रिंशद्वर्षैकोनवर्षे, 'the year one short of thirty']. If the Moon is in the 6th house and conjoined with the Moon [शशिना is likely corrupt; perhaps शनिना, Saturn]...",
+          "hindi": "...तो २९वें वर्ष में [त्रिंशद्वर्षैकोनवर्षे, 'तीस से एक कम वर्ष'] गुल्म रोग (पेट का ट्यूमर/तिल्ली) कहना चाहिए। यदि चन्द्रमा छठे भाव में हो और चन्द्रमा से युक्त हो [शशिना सम्भवतः भ्रष्ट; सम्भवतः शनिना]...",
           "status": "translated",
           "tags": [
             "bhava:6",
@@ -5783,8 +5783,8 @@
         {
           "number": 7,
           "text": "वन्ध्यासङ्गो मदे भानौ चन्द्रे राशिसमस्त्रियः ।\nकुजे रजस्वलासङ्गो वन्ध्यासङ्गश्च कीर्तितः",
-          "english": "If the Sun is in the 7th house, there is association with a barren woman. If the Moon is there, association with women according to the sign. If Mars is there, association with a menstruating or barren woman is said.",
-          "hindi": "यदि सूर्य सातवें भाव में हो तो वन्ध्या स्त्री से संग होता है। चन्द्रमा हो तो राशि के अनुसार स्त्रियाँ होती हैं। मंगल हो तो रजस्वला या वन्ध्या स्त्री से संग कहा गया है।",
+          "english": "If the Sun is in the 7th house, there is association with a barren woman. If the Moon is there, association with women according to the sign. If Mars is there, association with a menstruating woman and with a barren woman is said.",
+          "hindi": "यदि सूर्य सातवें भाव में हो तो वन्ध्या स्त्री से संग होता है। चन्द्रमा हो तो राशि के अनुसार स्त्रियाँ होती हैं। मंगल हो तो रजस्वला और वन्ध्या स्त्री से संग कहा गया है।",
           "status": "translated",
           "tags": [
             "graha:mars",
@@ -9424,8 +9424,8 @@
         {
           "number": 75,
           "text": "दारेशे सहजे जातो मृतापत्यो हि मानवः ।\nकदाचिज्जायते पुत्री यत्नात् पुत्रोऽपि जीवति",
-          "english": "If the 7th lord is in the 3rd house, the person may have dead children; sometimes a daughter is born or a son survives with great difficulty.",
-          "hindi": "यदि सप्तमेश तीसरे भाव में हो, तो जातक की संतान जीवित नहीं रहती। कभी पुत्री का जन्म होता है या बहुत प्रयत्न के बाद पुत्र जीवित रहता है।",
+          "english": "If the 7th lord is in the 3rd house, the person may have dead children; sometimes a daughter is born, and with great effort a son also survives.",
+          "hindi": "यदि सप्तमेश तीसरे भाव में हो, तो जातक की संतान जीवित नहीं रहती। कभी पुत्री का जन्म होता है और बहुत प्रयत्न से पुत्र भी जीवित रहता है।",
           "status": "translated",
           "tags": [
             "bhava:3",
@@ -11771,8 +11771,8 @@
         {
           "number": 74,
           "text": "लग्ने प्राणपदे क्षणो रोगि भवति मानवः ।\nमूकोन्मत्तो जडाङ्गस्तु हीनाङ्गो दुःखित कृशः",
-          "english": "If Pranapada is in the Lagna, the native is weak, sickly, dumb or insane, dull-witted, deformed, unhappy and emaciated.",
-          "hindi": "यदि लग्न में प्राणपद हो, तो जातक निर्बल, रोगी, मूक या पागल, जड़ बुद्धि, अंगहीन, दुखी और कृश (दुबला) होता है।",
+          "english": "If Pranapada is in the Lagna, the native is weak, sickly, dumb, insane, dull-witted, deformed, unhappy and emaciated.",
+          "hindi": "यदि लग्न में प्राणपद हो, तो जातक निर्बल, रोगी, मूक, पागल, जड़ बुद्धि, अंगहीन, दुखी और कृश (दुबला) होता है।",
           "status": "translated",
           "tags": [
             "bhava:1"
@@ -13230,7 +13230,7 @@
         {
           "number": 4,
           "text": "पुत्रदारसुखं पूर्णं जायते द्विजसत्तम ।\nपापग्रहयुते तत्र पापभे पापवीक्षिते",
-          "english": "...the native enjoys full happiness from wife and children. However, if it is in a malefic sign or associated with malefic planets...",
+          "english": "...the native enjoys full happiness from wife and children. However, if it is in a malefic sign or joined with or aspected by malefic planets...",
           "hindi": "तो जातक को स्त्री और पुत्र का पूर्ण सुख मिलता है। इसके विपरीत, यदि यह पाप राशि में हो या पाप ग्रहों से युक्त/दृष्ट हो...",
           "status": "translated",
           "tags": [
@@ -13267,8 +13267,8 @@
         {
           "number": 7,
           "text": "शुभग्रहाणां दृष्टिश्चेदुपारूढाद् द्वितीयके ।\nशुभर्क्षे शुभयुक्ते च पूर्वोक्तं हि फलं स्मृतम्",
-          "english": "If the 2nd house from Upapada is occupied by benefic planets, or is a benefic sign with benefics, the auspicious results mentioned earlier will occur.",
-          "hindi": "यदि उपपद से द्वितीय भाव में शुभ ग्रह हों, या वह शुभ राशि होकर शुभ युक्त हो, तो पूर्वोक्त शुभ फल प्राप्त होते हैं।",
+          "english": "If benefic planets aspect the 2nd house from Upapada, or if it is a benefic sign joined by benefics, the results mentioned earlier will occur.",
+          "hindi": "यदि उपपद से द्वितीय भाव पर शुभ ग्रहों की दृष्टि हो, या वह शुभ राशि होकर शुभ युक्त हो, तो पूर्वोक्त शुभ फल प्राप्त होते हैं।",
           "status": "translated",
           "tags": [
             "rel:aspect",
@@ -15256,8 +15256,8 @@
         {
           "number": 78,
           "text": "शुक्रदृष्टे सुखे चन्द्रे पाण्डुश्वित्री भवेन्नरः ।\nभौमदृष्टे महारोगी रक्तपित्तार्दितो भवेत्",
-          "english": "Moon in the 4th from Karakamsha aspected by Venus causes leprosy or white spots. Aspected by Mars, causes blood disorders.",
-          "hindi": "कारकांश से चौथे में चन्द्र पर शुक्र की दृष्टि से कोढ़ या सफेद दाग होता है। मंगल की दृष्टि से रक्तपित्त आदि महारोग होते हैं।",
+          "english": "Moon in the 4th from Karakamsha aspected by Venus causes pallor [pāṇḍu] and white leprosy [śvitra]. Aspected by Mars, one is gravely diseased, afflicted by raktapitta.",
+          "hindi": "कारकांश से चौथे में चन्द्र पर शुक्र की दृष्टि से पाण्डु और श्वित्र (सफेद दाग) होता है। मंगल की दृष्टि से रक्तपित्त से पीड़ित महारोगी होता है।",
           "status": "translated",
           "tags": [
             "bhava:4",
@@ -15288,8 +15288,8 @@
         {
           "number": 80,
           "text": "क्षयरोगो भवेत् तस्य चन्द्रदृष्टौ तु निश्चितः ।\nस्वांशात् सुखे सुते वाऽपि केवलः संस्थितः कुजः",
-          "english": "Cause tuberculosis, certainly if aspected by Moon. Mars alone causes boils etc.",
-          "hindi": "निश्चय ही क्षय (टी.बी.) रोग होता है, यदि चन्द्रमा देखता हो। केवल मंगल के होने से फुंसियाँ आदि रोग होते हैं।",
+          "english": "[Rahu and Mars there, continuing 33.79:] he will have consumption — certainly with the Moon's aspect. If Mars alone is placed in the 4th or 5th from the svāṁśa —",
+          "hindi": "[वहाँ राहु और मंगल हों, 33.79 के क्रम में:] उसे क्षयरोग होता है — चन्द्र की दृष्टि हो तो निश्चित। स्वांश से चतुर्थ या पंचम में केवल मंगल हो तो —",
           "status": "translated",
           "tags": [
             "bhava:4",
@@ -15304,8 +15304,8 @@
         {
           "number": 81,
           "text": "पिट्कादिर्भवेत् तस्य तदा रोगो न संशयः ।\nग्रहणी जलरोगो वा तत्र केतौ स्थिते सति",
-          "english": "Ketu there causes dysentery or water diseases. Rahu and Gulika make one a poison-physician or afflicted by poison.",
-          "hindi": "वहाँ केतु होने पर संग्रहणी या जल रोग होता है। राहु और गुलिक होने पर विष-वैद्य होता है या स्वयं विष से पीड़ित।",
+          "english": "— boils and the like arise for him, without doubt. With Ketu there: dysentery [grahaṇī] or water diseases.",
+          "hindi": "— उसे पिटक आदि रोग होते हैं, इसमें संशय नहीं। वहाँ केतु हो तो ग्रहणी या जलरोग।",
           "status": "translated",
           "tags": [
             "rel:modality",
@@ -15315,8 +15315,8 @@
         {
           "number": 82,
           "text": "स्वर्भानुगुलिकौ तत्र विषवैद्यो विषार्दितः ।\nस्वांशकात् पञ्चमे भावे केवले संस्थिते शनौ",
-          "english": "Saturn alone in the 5th makes one an archer. Ketu alone makes one a clock-maker.",
-          "hindi": "कारकांश से पाँचवें भाव में केवल शनि होने पर जातक धनुर्विद्या में कुशल होता है। केवल केतु से घड़ी बनाने वाला।",
+          "english": "With Rahu and Gulika there, a physician of poisons and one afflicted by poison. With Saturn alone in the 5th house from the svāṁśa —",
+          "hindi": "वहाँ राहु और गुलिक हों तो विषवैद्य और विष से पीड़ित। स्वांश से पंचम भाव में केवल शनि हो तो —",
           "status": "translated",
           "tags": [
             "bhava:5",
@@ -15328,8 +15328,8 @@
         {
           "number": 83,
           "text": "धनुर्विद्याविदा जाता भवन्त्यत्र न संशयः ।\nकेतौ च केवले तत्र घटिकायन्त्रकारकः",
-          "english": "Mercury makes one a monk or staff-bearer. Rahu an iron-worker. Sun a sword-bearer.",
-          "hindi": "बुध से परमहंस या दण्डी संन्यासी, राहु से लोहे के यन्त्र का काम करने वाला और सूर्य से तलवार चलाने वाला होता है।",
+          "english": "— they become knowers of archery, without doubt. With Ketu alone there, a maker of water-clocks [ghaṭikā-yantra].",
+          "hindi": "— वे धनुर्विद्या के ज्ञाता होते हैं, इसमें संशय नहीं। वहाँ केवल केतु हो तो घटिका-यन्त्र बनाने वाला।",
           "status": "translated",
           "tags": [
             "rashi:dhanus"
@@ -15338,8 +15338,8 @@
         {
           "number": 84,
           "text": "बुधे परमहंसो वा दण्डी भवति मानवः ।\nलोहयन्त्री तथा राहौ रवौ खेड्गधरो भवेत्",
-          "english": "Mars alone makes one a spear-bearer. Moon and Jupiter in Karakamsha or 5th...",
-          "hindi": "पाँचवें में केवल मंगल होने पर वह कुन्तास्त्र (भाला) धारण करने वाला होता है। कारकांश या उसके पाँचवें में चन्द्र और गुरु होने पर...",
+          "english": "With Mercury, one becomes a paramahaṃsa or a staff-bearing ascetic [daṇḍī]; with Rahu, a worker of iron machines; with the Sun, a sword-bearer.",
+          "hindi": "बुध हो तो मनुष्य परमहंस या दण्डी होता है; राहु हो तो लोहयन्त्री; सूर्य हो तो खड्गधारी।",
           "status": "translated",
           "tags": [
             "graha:mercury",
@@ -15349,8 +15349,8 @@
         {
           "number": 85,
           "text": "केवले च कुजे तत्र जातः कुन्तास्त्रधारकः ।\nस्वांशे वा पञ्चमे स्वांशाच्चन्द्रेज्यौ संस्थितौ तदा",
-          "english": "Make one an author, expert in all sciences. Venus makes him slightly less.",
-          "hindi": "जातक ग्रन्थकर्ता और सर्वविद्या विशारद होता है। शुक्र होने पर वह कुछ कम ग्रन्थ लिखने वाला होता है।",
+          "english": "With Mars alone there, one born bears a spear. When the Moon and Jupiter are in the svāṁśa or in the 5th from it —",
+          "hindi": "वहाँ केवल मंगल हो तो जातक कुन्तास्त्र (भाला) धारण करने वाला। जब चन्द्र और गुरु स्वांश में या उससे पंचम में हों —",
           "status": "translated",
           "tags": [
             "bhava:5",
@@ -15363,8 +15363,8 @@
         {
           "number": 86,
           "text": "ग्रन्थकर्ता भवेज्जातः सर्वविद्याविशारदः ।\nतत्र दैत्यगुरौ किञ्चिदूनग्रन्थकरो भवेत्",
-          "english": "Mercury even less. Venus makes one a poet and orator.",
-          "hindi": "बुध होने पर उससे भी कम ग्रन्थ लिखने वाला होता है। शुक्र होने पर कवि और वाग्मी (कुशल वक्ता) होता है।",
+          "english": "— one becomes an author, skilled in all learning. With Venus [the preceptor of the Daityas] there, an author of somewhat lesser works.",
+          "hindi": "— जातक ग्रन्थकर्ता और सब विद्याओं में विशारद होता है। वहाँ दैत्यगुरु [शुक्र] हो तो कुछ कम ग्रन्थ रचने वाला।",
           "status": "translated",
           "tags": [
             "rel:modality"
@@ -15373,8 +15373,8 @@
         {
           "number": 87,
           "text": "बुधे तत्र ततोऽप्यूनग्रन्थकर्त्ता प्रजायते ।\nतत्र शुक्रे कविर्वाग्मी काव्यज्ञश्च प्रजायते",
-          "english": "Jupiter makes one all-knowing, an author, and knower of Vedas and Vedanta, even if not an orator.",
-          "hindi": "गुरु होने पर वह सर्वज्ञ, ग्रन्थकर्ता और वेद-वेदान्त का ज्ञाता होता है, चाहे वह सभा में बोलने वाला न हो।",
+          "english": "With Mercury there, an author of still lesser works. With Venus there, a poet, eloquent, and a knower of poetry [Venus is named twice, here and in 33.86, as the text reads].",
+          "hindi": "वहाँ बुध हो तो उससे भी कम ग्रन्थ रचने वाला। वहाँ शुक्र हो तो कवि, वाग्मी और काव्यज्ञ [शुक्र दो बार कहा गया है, यहाँ और 33.86 में, पाठ जैसा है]।",
           "status": "translated",
           "tags": [
             "graha:mercury",
@@ -15384,8 +15384,8 @@
         {
           "number": 88,
           "text": "सर्वविद्ग्रान्थिको जीवे न वाग्मी च सभादिषु ।\nशब्दज्ञश्च विशेषेण वेदवेदान्तवित् तथा",
-          "english": "Saturn there makes one dull in assembly. Mercury makes one a Mimamsaka.",
-          "hindi": "उक्त स्थान में शनि होने पर जातक सभा में जड़ होता है। बुध होने पर वह मीमांसा शास्त्र का ज्ञाता होता है।",
+          "english": "With Jupiter, all-knowing and a writer of books, but not eloquent in assemblies; especially a grammarian, and likewise a knower of the Veda and Vedānta.",
+          "hindi": "गुरु हो तो सर्वज्ञ और ग्रन्थ लिखने वाला, परन्तु सभाओं में वाग्मी नहीं; विशेषकर शब्दज्ञ, और वैसे ही वेद-वेदान्त का ज्ञाता।",
           "status": "translated",
           "tags": [
             "graha:jupiter"
@@ -15394,8 +15394,8 @@
         {
           "number": 89,
           "text": "सभाजडो भवेद् बाल उक्तस्थानगते शनौ ।\nमीमांसको भवेन्नूनमुक्तस्थानगते बुधे",
-          "english": "Mars makes one a logician. Moon a knower of Sankhya Yoga, literature, and a singer.",
-          "hindi": "मंगल होने पर नैयायिक (तर्कशास्त्री) होता है। चन्द्रमा से सांख्य योग, साहित्य और संगीत का ज्ञाता होता है।",
+          "english": "With Saturn in the said place, one is childish and dull in assemblies; with Mercury in the said place, certainly a Mīmāṁsaka.",
+          "hindi": "उक्त स्थान में शनि हो तो सभा में जड़ और बालबुद्धि; उक्त स्थान में बुध हो तो निश्चय ही मीमांसक।",
           "status": "translated",
           "tags": [
             "graha:mercury",
@@ -15405,8 +15405,8 @@
         {
           "number": 90,
           "text": "स्वांशे वा पञ्चमे भौमे जातो नैयायिको भवेत् ।\nचन्द्रे च सांख्ययोगज्ञः साहित्यज्ञश्च गायकः",
-          "english": "Sun a knower of Vedanta and music. Ketu a mathematician and expert in astrology.",
-          "hindi": "सूर्य से वेदान्त और संगीत का ज्ञाता होता है। केतु से गणितज्ञ और ज्योतिष शास्त्र में निपुण होता है।",
+          "english": "With Mars in the svāṁśa or the 5th, one born is a Naiyāyika; with the Moon, a knower of Sāṅkhya and Yoga, of literature, and a singer.",
+          "hindi": "स्वांश या पंचम में मंगल हो तो जातक नैयायिक होता है; चन्द्र हो तो सांख्य-योग का ज्ञाता, साहित्यज्ञ और गायक।",
           "status": "translated",
           "tags": [
             "bhava:5",
@@ -15419,8 +15419,8 @@
         {
           "number": 91,
           "text": "रवौ वेदान्तविच्चैव गीतज्ञश्च प्रजायते ।\nकेतौ च गणितज्ञः स्याज्ज्योतिःशास्त्रविशारदः",
-          "english": "Attainment of tradition/sect from Jupiter's connection. Consider this from 2nd and 3rd of Karakamsha as well.",
-          "hindi": "गुरु के सम्बन्ध से सम्प्रदाय की सिद्धि होती है। कारकांश से दूसरे और तीसरे भाव से भी ऐसा विचार करना चाहिए।",
+          "english": "With the Sun, a knower of Vedānta and of music; with Ketu, a mathematician and an expert in astrology.",
+          "hindi": "सूर्य हो तो वेदान्तवेत्ता और गीतज्ञ; केतु हो तो गणितज्ञ और ज्योतिःशास्त्र में विशारद।",
           "status": "translated",
           "tags": [
             "graha:sun"
@@ -15429,8 +15429,8 @@
         {
           "number": 92,
           "text": "सम्प्रदायस्य संसिद्धिर्गुरुसम्बन्धतो भवेत् ।\nद्वितीये च तृतीये च स्वांशादेवं विचारयेत्",
-          "english": "Declare the results of the native after knowing the subtle effects of the houses. Ketu in 2nd or 3rd makes one speechless.",
-          "hindi": "भावों के सूक्ष्म फल को जानकर ही जातक का फल कहना चाहिए। दूसरे या तीसरे में केतु होने पर वाणी रुक जाती है (स्तब्धवाक्)।",
+          "english": "Perfection in a sampradāya comes through a connection with Jupiter. Consider the 2nd and 3rd from the svāṁśa in the same way.",
+          "hindi": "सम्प्रदाय की संसिद्धि गुरु के सम्बन्ध से होती है। स्वांश से द्वितीय और तृतीय का भी इसी प्रकार विचार करें।",
           "status": "translated",
           "tags": [
             "entity:dasha",
@@ -15442,8 +15442,8 @@
         {
           "number": 93,
           "text": "भावे सूक्ष्मफलं ज्ञात्वा जातकस्य फलं वदेत् ।\nकेतौ स्वांशाद्द्वितीये वा तृतीये स्तब्धवाग् भवेत्",
-          "english": "Especially with malefic aspect, the person is unable to speak. Kemadruma Yoga occurs from Lagna/Pada/Karakamsha...",
-          "hindi": "विशेषकर पाप दृष्टि होने पर मनुष्य बोलने में अक्षम होता है। कारकांश, लग्न या पद से दूसरे और आठवें भाव में...",
+          "english": "Having known the subtle results of the houses, declare the native's results. With Ketu in the 2nd or 3rd from the svāṁśa, one becomes stammering.",
+          "hindi": "भावों का सूक्ष्म फल जानकर जातक का फल कहें। स्वांश से द्वितीय या तृतीय में केतु हो तो स्तब्धवाक् (हकलाने वाला) होता है।",
           "status": "translated",
           "tags": [
             "entity:bhava",
@@ -15453,8 +15453,8 @@
         {
           "number": 94,
           "text": "पापदृष्टे विशेषेण मानवो वक्तुमक्षमः ।\nस्वांशाल्लग्नात् पदाद्वाऽपि द्वितीयाष्टमभावयोः",
-          "english": "If malefics are equal and Moon aspects. The yogas mentioned in this chapter...",
-          "hindi": "पाप ग्रहों की समानता होने और चन्द्र दृष्टि होने पर अशुभ केमद्रुम योग होता है। इस अध्याय में जो योग मैंने कहे हैं...",
+          "english": "Especially with malefic aspect, the person is unable to speak. From the svāṁśa, the lagna or the pada, in the 2nd and 8th houses —",
+          "hindi": "विशेषकर पापदृष्टि हो तो मनुष्य बोलने में असमर्थ होता है। स्वांश, लग्न या पद से द्वितीय और अष्टम भावों में —",
           "status": "translated",
           "tags": [
             "rel:aspect",
@@ -15464,8 +15464,8 @@
         {
           "number": 95,
           "text": "केमद्रुमः पापसाम्ये चन्द्रदृष्टौ विशेषतः ।\nअत्राऽध्याये च ये योगाः सफलाः कथिता मया",
-          "english": "Should be known as fruit-giving at the end of the Dasha of the yoga-causing planet.",
-          "hindi": "वे सब योग-कर्ता की दशा के अन्त में फल देने वाले होते हैं।",
+          "english": "— with equality of malefics, Kemadruma arises, especially with the Moon's aspect. The yogas, with their results, that I have stated in this chapter —",
+          "hindi": "— पापग्रहों की समता हो तो केमद्रुम होता है, विशेषकर चन्द्र-दृष्टि में। इस अध्याय में मैंने जो फलसहित योग कहे हैं —",
           "status": "translated",
           "tags": [
             "entity:yoga",
@@ -15477,8 +15477,8 @@
         {
           "number": 96,
           "text": "योगकर्तृदशायान्ते ज्ञेयाः सर्वे फलप्रदाः ।\nएवं दशाप्रदाद्राशैर्द्वितीयाष्टमयोर्द्विज",
-          "english": "Thus, from the signs providing Dashas, if there is malefic equality in 2nd and 8th, it is Kemadruma.",
-          "hindi": "इसी प्रकार दशा देने वाली राशियों से दूसरे और आठवें में पाप ग्रहों की समानता होने पर अशुभ केमद्रुम योग होता है।",
+          "english": "— are all to be known as giving their results at the end of the daśā of the planet causing the yoga. Thus, O twice-born, from the signs giving the daśā, in the 2nd and 8th —",
+          "hindi": "— वे सब योगकर्ता ग्रह की दशा के अन्त में फल देने वाले जानें। इसी प्रकार, हे द्विज, दशाप्रद राशियों से द्वितीय और अष्टम में —",
           "status": "translated",
           "tags": [
             "entity:dasha",
@@ -15488,8 +15488,8 @@
         {
           "number": 97,
           "text": "ग्रहसाम्ये च विज्ञेयो योगः केमद्रुमोऽशुभः ।\nदशाप्रारम्भसमये सलग्नान् साधयेद् ग्रहान्",
-          "english": "At the beginning of the Dasha, one should calculate the planets along with the Lagna.",
-          "hindi": "दशा के प्रारम्भ के समय लग्न सहित ग्रहों को साधना चाहिए।",
+          "english": "— with equality of planets, the inauspicious Kemadruma yoga is to be known. At the start of the daśā, compute the planets together with the lagna;",
+          "hindi": "— ग्रहों की समता हो तो अशुभ केमद्रुम योग जानें। दशा के आरम्भ के समय लग्न सहित ग्रहों को साधें;",
           "status": "translated",
           "tags": [
             "entity:dasha",
@@ -15500,8 +15500,8 @@
         {
           "number": 98,
           "text": "ज्ञेयस्तत्रापि योगोऽयं पापसाम्येऽर्थरन्ध्रयोः ।\nएवं तन्वादिभावानां सूर्यादीनां नभसदाम्",
-          "english": "There also this yoga is known if there is malefic equality in 2nd and 8th. Thus for all houses 1st onwards...",
-          "hindi": "वहाँ भी दूसरे और आठवें भाव में पाप ग्रहों की समानता होने पर यह योग जानना चाहिए। इस प्रकार तन्वादि भावों और सूर्यादि ग्रहों का...",
+          "english": "there too this yoga is to be known, with equality of malefics in the 2nd and 8th. Thus, for the houses beginning with the 1st, and for the planets beginning with the Sun —",
+          "hindi": "वहाँ भी यह योग जानें, द्वितीय और अष्टम में पापग्रहों की समता हो तो। इसी प्रकार तनु आदि भावों के और सूर्य आदि ग्रहों के —",
           "status": "translated",
           "tags": [
             "entity:yoga",
@@ -16383,7 +16383,7 @@
         {
           "number": 25,
           "text": "भ्रमणरुचयोविकृष्टा दूताः सुरतानुजीवनो धृष्टाः ।\nकलहप्रियाश्च नित्यं विहगे योगे सदा जाताः",
-          "english": "Vihaga yoga: fond of wandering, messengers, living by sex (or related acts), bold, and always fond of quarrels.",
+          "english": "Vihaga yoga: fond of wandering, messengers, making a living from sexual services, bold, and always fond of quarrels.",
           "hindi": "विहग योग में जातक भ्रमणप्रिय, दूत, सुरतानुजीवी, धृष्ट और नित्य कलह करने वाला होता है।",
           "status": "translated",
           "tags": [
@@ -16706,7 +16706,7 @@
         {
           "number": 5,
           "text": "दशमेऽङ्गात्तथा चन्द्रात् केवलैश्च शुभैर्युते ।\nस योगोऽमलकीत्र्त्याख्यः कीर्तिराचन्द्रतारकी",
-          "english": "Amala Yoga: If a benefic planet is in the 10th house from Lagna or Moon. This fame-giving yoga lasts as long as the moon and stars.",
+          "english": "Amala Yoga: If only benefic planets are in the 10th house from Lagna or Moon. This fame-giving yoga lasts as long as the moon and stars.",
           "hindi": "यदि लग्न या चन्द्रमा से 10वें भाव में केवल शुभ ग्रह हों, तो वह 'अमल कीर्ति' योग होता है, जिसकी कीर्ति चन्द्रमा और तारों के समान चिरस्थायी होती है।",
           "status": "translated",
           "tags": [
@@ -17622,8 +17622,8 @@
         {
           "number": 20,
           "text": "षष्ठाऽष्टमव्ययाधीशा नीचस्था रिपुभेऽस्थगाः ।\nस्वोच्चस्वभगलग्नेशो लग्नं पश्यंश्च राज्यदः",
-          "english": "Lords of 6, 8, 12 in debilitation or enemy signs, and Lagna lord in own/exaltation sign aspects Lagna: gives power.",
-          "hindi": "6, 8, 12 के स्वामी नीच या शत्रु राशि में हों और लग्नेश स्वराशि/उच्च में होकर लग्न को देखता हो, तो राज्य सुख मिलता है।",
+          "english": "Lords of 6, 8, 12 in debilitation, in enemy signs, or combust, and Lagna lord in own/exaltation sign aspects Lagna: gives power.",
+          "hindi": "6, 8, 12 के स्वामी नीच, शत्रु राशि में या अस्त हों और लग्नेश स्वराशि/उच्च में होकर लग्न को देखता हो, तो राज्य सुख मिलता है।",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -18574,8 +18574,8 @@
         {
           "number": 27,
           "text": "ऐरावते तु धर्मात्मा स्वयं धर्मो भविष्यति ।\nश्रीरामः कुन्तिपुत्राद्यो यथा जातो द्विजोत्तम",
-          "english": "In Airavata-amsha: a great righteous soul, like Dharma himself, such as Shri Rama or the sons of Kunti.",
-          "hindi": "ऐरावत अंश में वह महान धर्मात्मा और स्वयं धर्म स्वरूप होता है, जैसे श्री राम या कुन्ती पुत्र (युधिष्ठिर) आदि हुए हैं।",
+          "english": "In Airavata-amsha: a great righteous soul, like Dharma himself, such as Shri Rama and the sons of Kunti.",
+          "hindi": "ऐरावत अंश में वह महान धर्मात्मा और स्वयं धर्म स्वरूप होता है, जैसे श्री राम और कुन्ती पुत्र (युधिष्ठिर) आदि हुए हैं।",
           "status": "translated"
         },
         {
@@ -19139,8 +19139,8 @@
         {
           "number": 22,
           "text": "उभयत्र गते खेटे कार्यं त्रिगुणमेव हि ।\nहानिद्वयेऽर्धहानिः स्यादित्यायुः प्रस्फुटं नृणाम्",
-          "english": "If multiple conditions apply, tripling or doubling is done only once. If both subtractions apply, only half is taken. Thus is the clear longevity.",
-          "hindi": "यदि कई स्थितियाँ लागू हों, तो तिगुना या दुगुना केवल एक बार करना चाहिए। यदि दो शोधन प्राप्त हों, तो केवल आधा (total half) लेना चाहिए। इस प्रकार मनुष्यों की स्पष्ट आयु होती है।",
+          "english": "If a planet qualifies in both ways, only tripling is done; where two reductions apply, only the half-reduction is applied. Thus is the clear longevity of men.",
+          "hindi": "यदि ग्रह दोनों स्थितियों में हो, तो केवल तिगुना ही करना चाहिए; दो हानियाँ प्राप्त हों तो आधी हानि होती है। इस प्रकार मनुष्यों की स्पष्ट आयु होती है।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -19382,8 +19382,8 @@
         {
           "number": 45,
           "text": "पूर्ण राश्यादिगे चान्ते हानिर्मध्येऽनुपाततः ।\nयोगकारकखेटांशयोगस्तत्संख्यया हृतः",
-          "english": "Full longevity if at the beginning of the sign, decrease if in the middle or end. Divide the yoga-giving planet's degrees by category number.",
-          "hindi": "राशि के आदि में पूर्ण आयु और मध्य या अन्त में हानि होती है। योगकारक ग्रह के अंशों के योग को उस संख्या से भाग दें।",
+          "english": "Full at the beginning of the sign, nil at the end, and proportionate in the middle. The sum of the degrees of the yoga-giving planets is divided by their number.",
+          "hindi": "राशि के आदि में पूर्ण, अन्त में हानि, और मध्य में अनुपात से। योगकारक ग्रहों के अंशों का योग उनकी संख्या से भाग दें।",
           "status": "translated",
           "tags": [
             "entity:yoga",
@@ -20309,8 +20309,8 @@
         {
           "number": 41,
           "text": "रविश्चन्द्रबलाक्रान्तत्र्यंशनाथे गुरौ जनः ।\nदेवलोकात् समायातो विज्ञेयो द्विजसत्तम",
-          "english": "If Jupiter is the lord of the Navamsha occupied by Sun or Moon: the person has come from Devaloka.",
-          "hindi": "यदि सूर्य या चन्द्रमा के नवांश का स्वामी गुरु हो, तो वह मनुष्य देवलोक से आया हुआ समझना चाहिए।",
+          "english": "If Jupiter is the lord of the drekkāṇa occupied by the stronger of the Sun and the Moon, the person is to be known as having come from Devaloka, O best of the twice-born.",
+          "hindi": "यदि सूर्य और चन्द्रमा में जो बली हो उसके द्रेष्काण का स्वामी गुरु हो, तो वह मनुष्य देवलोक से आया हुआ जानें, हे द्विजसत्तम।",
           "status": "translated",
           "tags": [
             "graha:moon",
@@ -20335,7 +20335,7 @@
         {
           "number": 43,
           "text": "गुरुश्चन्द्रसितौ सूर्यभौमौ ज्ञार्की यथाक्रमम् ।\nदेवेन्दुभूम्यधोलोकान् नयन्त्यस्तारिरन्ध्रगाः",
-          "english": "Jupiter, Moon/Venus, Sun/Mars, Mercury/Saturn lead to Devaloka, etc. respectively if in 7th or 8th house.",
+          "english": "Jupiter, Moon/Venus, Sun/Mars, Mercury/Saturn lead to Devaloka, etc. respectively if in the 7th, 6th or 8th house.",
           "hindi": "गुरु, चन्द्रमा/शुक्र, सूर्य/मंगल और बुध/शनि क्रमशः देव, पितृ, मनुष्य और अधोलोक (नरक) ले जाते हैं यदि वे 7, 6 या 8वें भाव में हों।",
           "status": "translated",
           "tags": [
@@ -20349,8 +20349,8 @@
         {
           "number": 44,
           "text": "अथ तत्र ग्रहभावे रन्ध्रारित्र्यंशनाथयोः ।\nयो बली स निजं लोकं नयत्यन्ते द्विजोत्तम",
-          "english": "Lord of 8th, 6th, or the Navamsha lord: whichever is stronger leads the soul to its own world.",
-          "hindi": "8वें का, 6ठें का या नवांश का स्वामी - जो बली हो, वही आत्मा को अपने लोक में ले जाता है।",
+          "english": "If there are no planets there [reading ग्रहभावे as ग्रहाभावे], then of the lords of the drekkāṇas of the 8th and 6th, whichever is stronger leads the soul to its own world at the end.",
+          "hindi": "यदि वहाँ ग्रह न हों [ग्रहभावे को ग्रहाभावे पढ़ा], तो 8वें और 6ठें के द्रेष्काण-स्वामियों में जो बली हो, वही अन्त में आत्मा को अपने लोक में ले जाता है।",
           "status": "translated",
           "tags": [
             "bhava:8",
@@ -20632,8 +20632,8 @@
         {
           "number": 22,
           "text": "सुतस्थाने भवेद्यस्य लज्जितो ग्रह एव च ।\nसुतनाशो भवेत्तस्य एकस्तिष्ठति सर्वदा",
-          "english": "If a planet in Lajjita state is in the 5th house (Sutasthana): destruction of children, or only one remains.",
-          "hindi": "जिसके पंचम भाव (संतान) में लज्जित ग्रह हो, उसकी संतान का नाश होता है या केवल एक ही शेष रहती है।",
+          "english": "If a planet in the Lajjita state is in the 5th house (Sutasthana): destruction of children; only one always survives.",
+          "hindi": "जिसके पंचम भाव में लज्जित ग्रह हो, उसकी संतान का नाश होता है; केवल एक ही सदा शेष रहती है।",
           "status": "translated",
           "tags": [
             "bhava:5",
@@ -23285,8 +23285,8 @@
         {
           "number": 103,
           "text": "मर्कटीगमने सव्ये धनधान्यपशुक्षयः ।\nपितुर्मरणमालस्यं तत्समानां च व मृतिः",
-          "english": "Markati motion in Savya: loss of wealth, grain, and cattle; death of father, laziness, or death of equal person.",
-          "hindi": "सव्य में मर्कटी गति होने पर: धन-धान्य और पशुओं का नाश, पिता की मृत्यु, आलस्य और अपने समान व्यक्ति का मरण होता है।",
+          "english": "Markati motion in Savya: loss of wealth, grain, and cattle; death of father, laziness, and the death of persons of his standing [reading च व as च].",
+          "hindi": "सव्य में मर्कटी गति होने पर: धन-धान्य और पशुओं का नाश, पिता की मृत्यु, आलस्य और अपने समान व्यक्तियों का मरण [च व को च पढ़ा] होता है।",
           "status": "translated"
         },
         {
@@ -23452,8 +23452,8 @@
         {
           "number": 118,
           "text": "चापान्मेषे तु यात्रायां व्याधिर्बन्धो मृतिर्भवेत् ।\nवृश्चिके तु सुखं सम्पत् स्त्रीप्राप्तिश्च द्विजोत्तम",
-          "english": "From Sagittarius to Aries: disease, imprisonment, or death during travel. In Scorpio: happiness and wealth.",
-          "hindi": "धनु से मेष की यात्रा में रोग, बन्धन या मृत्यु होती है। वृश्चिक में सुख, सम्पत्ति और स्त्री की प्राप्ति होती है।",
+          "english": "From Sagittarius to Aries: disease, imprisonment and death on the journey. In Scorpio: happiness, wealth and gaining a wife.",
+          "hindi": "धनु से मेष की यात्रा में रोग, बन्धन और मृत्यु होती है। वृश्चिक में सुख, सम्पत्ति और स्त्री की प्राप्ति होती है।",
           "status": "translated",
           "tags": [
             "rashi:mesha",
@@ -45061,8 +45061,8 @@
         {
           "number": 25,
           "text": "स्त्रीणां गूढमणिस्तुङ्गो रक्ताभो मृदुरोमकः ।\nभगः कमठपृष्ठाभः शुभोऽश्वत्थगलाकृतिः",
-          "english": "The secret parts of women that are elevated like a tortoise's back, reddish, with soft hair, and shaped like the throat of a horse or a peepal leaf are auspicious.",
-          "hindi": "स्त्रियों के गुप्त अंग जो कछुए की पीठ के समान उभरे हुए, लालिमायुक्त, कोमल रोओं वाले और अश्वत्थ के पत्ते या घोड़े के गले के समान आकृति वाले हों, वे शुभ होते हैं।",
+          "english": "The secret parts of women that are elevated like a tortoise's back, reddish, with soft hair, and shaped like a peepal leaf [reading अश्वत्थगल as अश्वत्थदल; reading uncertain] are auspicious.",
+          "hindi": "स्त्रियों के गुप्त अंग जो कछुए की पीठ के समान उभरे हुए, लालिमायुक्त, कोमल रोओं वाले और अश्वत्थ के पत्ते के समान [अश्वत्थगल को अश्वत्थदल पढ़ा; पाठ अनिश्चित] आकृति वाले हों, वे शुभ होते हैं।",
           "status": "translated",
           "tags": [
             "rel:dignity",
@@ -45072,8 +45072,8 @@
         {
           "number": 26,
           "text": "कुरङ्गखुररूपो यश्चुल्लिकोदरसंनिभिः ।\nरोमशो दृश्यनासश्च विवृत्तास्योऽशुभप्रदः",
-          "english": "Signs like a deer's hoof, a hearth, hairy, visible veins, or an inverted mouth are inauspicious for women.",
-          "hindi": "मृग के खुर के समान, चूल्हे के समान, बहुत रोमिल, नसें दिखने वाली या उलटे मुख वाली आकृति स्त्रियों के लिए अशुभ मानी जाती है।",
+          "english": "That [bhaga] which is like a deer's hoof, or like the hollow of a hearth, hairy, with a visible nāsa [the upper prominence; reading uncertain], or gaping, gives inauspicious results.",
+          "hindi": "जो [भग] मृग के खुर के समान, या चूल्हे के उदर के समान, रोमिल, दृश्य नासा वाला [ऊपरी उभार; पाठ अनिश्चित], या खुले मुख वाला हो, वह अशुभ फल देता है।",
           "status": "translated",
           "tags": [
             "rel:polarity"
@@ -45301,8 +45301,8 @@
         {
           "number": 50,
           "text": "चामराङ्कुशचापैश्च राजपत्नी पतिव्रता ।\nत्रिशूलाऽसिगदाशक्तिदुन्दुभ्याकृतिरेखया",
-          "english": "A whisk, goad, or bow sign indicates a queen who is devoted to her husband. Trident, sword, mace, or drum signs are also auspicious.",
-          "hindi": "चामर, अंकुश या धनुष के चिह्न होने पर वह पतिव्रता राजपत्नी होती है। त्रिशूल, तलवार, गदा या दुन्दुभी के चिह्न भी शुभ होते हैं।",
+          "english": "With [marks of] a whisk, goad or bow, she is a queen devoted to her husband — as also with lines shaped like a trident, sword, mace, spear or drum.",
+          "hindi": "चामर, अंकुश या धनुष के [चिह्नों] से वह पतिव्रता राजपत्नी होती है — वैसे ही त्रिशूल, तलवार, गदा, शक्ति या दुन्दुभी के आकार की रेखाओं से भी।",
           "status": "translated",
           "tags": [
             "rel:lordship"
@@ -45573,8 +45573,8 @@
         {
           "number": 78,
           "text": "मृदुभिः पक्ष्मभिः कृष्णैर्घनैः सूक्ष्मैः सुभाग्ययुक् ।\nविरलैः कपिलैः स्थूलैर्भामिनी दुखभागिनी",
-          "english": "Soft, black, thick, and fine eyelashes bring good fortune. Widely spaced, yellowish, or thick eyelashes bring sorrow.",
-          "hindi": "कोमल, काली, घनी और सूक्ष्म पलकें सौभाग्य लाती हैं। विरल, पीली या मोटी पलकें दुःख का संकेत हैं।",
+          "english": "Soft, black, dense and fine eyelashes bring good fortune; sparse, tawny or coarse eyelashes make a woman a sharer of sorrow.",
+          "hindi": "कोमल, काली, घनी और सूक्ष्म पलकें सौभाग्य लाती हैं; विरल, भूरी या स्थूल पलकें स्त्री को दुःख की भागी बनाती हैं।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -46626,8 +46626,8 @@
         {
           "number": 58,
           "text": "पुत्रस्थाने बुधक्षेत्रे शमिराहुसमन्विते ।\nरिष्फे विदारौ विज्ञेयो भ्रातृशापात् सुतक्षयः",
-          "english": "If the fifth house is in a sign of Mercury (Gemini or Virgo) occupied by Saturn and Rahu, and Mars and Venus are in the twelfth house, the loss of children is due to the brother's curse.",
-          "hindi": "यदि पंचम भाव बुध की राशि (मिथुन या कन्या) हो और उसमें शनि व राहु हों, तथा बारहवें भाव में मंगल व शुक्र हों, तो भाई के शाप से संतान का नाश होता है।",
+          "english": "If the fifth house is in a sign of Mercury (Gemini or Virgo) occupied by Saturn [reading शमि as शनि] and Rahu, and Mercury and Mars [reading विदारौ as विद्-आरौ] are in the twelfth house, the loss of children is due to the brother's curse.",
+          "hindi": "यदि पंचम भाव बुध की राशि (मिथुन या कन्या) हो और उसमें शनि [शमि को शनि पढ़ा] व राहु हों, तथा बारहवें भाव में बुध व मंगल [विदारौ को विद्-आरौ पढ़ा] हों, तो भाई के शाप से संतान का नाश होता है।",
           "status": "translated",
           "tags": [
             "bhava:5",
@@ -47565,8 +47565,8 @@
         {
           "number": 16,
           "text": "यस्य ग्रहस्य यद्द्रव्यमन्नं यस्य च यत् प्रियम् ।\nतच्च तस्यै प्रदातव्यं भक्तियुक्तेन चेतसा",
-          "english": "Whatever substance, grain, or favorite item belongs to a particular planet, that very item should be offered to that deity with a mind full of devotion.",
-          "hindi": "जिस ग्रह का जो द्रव्य (वस्तु), अन्न या जो प्रिय भोजन हो, भक्तिभाव से युक्त होकर उस ग्रह देवता को वही अर्पित करना चाहिए।",
+          "english": "Whatever substance, grain, and favourite item belongs to a particular planet, that very item should be offered to that deity with a mind full of devotion.",
+          "hindi": "जिस ग्रह का जो द्रव्य (वस्तु), अन्न और जो प्रिय भोजन हो, भक्तिभाव से युक्त होकर उस ग्रह देवता को वही अर्पित करना चाहिए।",
           "status": "translated",
           "tags": [
             "rel:conjunction"
