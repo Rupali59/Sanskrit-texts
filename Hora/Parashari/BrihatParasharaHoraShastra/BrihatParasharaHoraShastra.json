@@ -38667,8 +38667,8 @@
         {
           "number": 1,
           "text": "पृथक् खगदशावर्षैर्हन्यात् सूक्ष्मदशामितिम् ।\nखसूर्यैर्विभजेल्लिब्धर्ज्ञेय प्राणदशामितिः",
-          "english": "Calculation of Prana Dasa: Multiply the Sookshma period by the Dasa years and divide by 120 to determine the Prana Dasa period.",
-          "hindi": "प्राण दशा की गणना: सूक्ष्मान्तर्दशा अवधि को दशा वर्षों से गुणा करें और प्राण दशा अवधि निर्धारित करने के लिए 120 से विभाजित करें।",
+          "english": "Calculation of the prāṇa daśā: multiply the sūkṣma daśā separately by each planet's daśā years and divide by 120; the quotient is the measure of the prāṇa daśā.",
+          "hindi": "प्राण दशा की गणना: सूक्ष्म दशा को प्रत्येक ग्रह के दशा-वर्षों से पृथक् गुणा करके 120 से भाग दें; लब्धि प्राण दशा का मान है।",
           "status": "translated",
           "tags": [
             "entity:dasha",
@@ -38678,8 +38678,8 @@
         {
           "number": 2,
           "text": "प्ॐश्चल्यं विषजा बाधा चौराग्निनृपजं भयम् ।\nकष्टं सूक्ष्मदशाकाले रवौ प्राणदशां गते",
-          "english": "Sun's Prana in Sun's Sookshma: Unstable behavior, trouble from poison, and fear from thieves, fire, and the king.",
-          "hindi": "सूर्य की सूक्ष्मान्तर्दशा में सूर्य की प्राण दशा: अस्थिर आचरण, विष से कष्ट, और चोर, अग्नि एवं राजा से भय।",
+          "english": "The Sun's own prāṇa within the Sun's: unchastity [reading uncertain: प्ॐश्चल्यं, read as पौंश्चल्यं], affliction from poison, fear from thieves, fire and the king — hardship, when in the sūkṣma period the Sun has reached its prāṇa daśā.",
+          "hindi": "सूर्य में सूर्य की प्राण दशा: व्यभिचार [पाठ अनिश्चित: प्ॐश्चल्यं, पौंश्चल्यं पढ़ा], विष से बाधा, चोर, अग्नि और राजा से भय — सूक्ष्म दशा के काल में सूर्य के प्राण दशा में आने पर कष्ट।",
           "status": "translated",
           "tags": [
             "entity:dasha",
@@ -38689,8 +38689,8 @@
         {
           "number": 3,
           "text": "सुखं भोजनसम्पत्तिः संस्कारो नृपवैभवम् ।\nउदारादिकृपाभिश्च रवेः प्राणगते विधौ",
-          "english": "Moon's Prana in Sun's Sookshma: Happiness, abundance of food, cultural refinements, and royal splendor through the grace of the Sun.",
-          "hindi": "सूर्य की सूक्ष्मान्तर्दशा में चन्द्रमा की प्राण दशा: सुख, भोजन की प्रचुरता, संस्कार और सूर्य की कृपा से राजसी वैभव।",
+          "english": "The Moon's prāṇa within the Sun's: happiness, abundance of food, refinement, royal splendour, and the favours of the generous and the like.",
+          "hindi": "सूर्य में चन्द्र की प्राण दशा: सुख, भोजन की सम्पत्ति, संस्कार, राजवैभव, और उदार आदि जनों की कृपा।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -38699,8 +38699,8 @@
         {
           "number": 4,
           "text": "भूपोपद्रवमन्यार्थे द्रव्यनाशो महद्भयम् ।\nमहत्यपचयप्राप्ती रवेः प्राणगते कुजे",
-          "english": "Mars's Prana in Sun's Sookshma: Trouble from authorities, loss of wealth in others' business, and a period of great decline.",
-          "hindi": "सूर्य की सूक्ष्मान्तर्दशा में मंगल की प्राण दशा: अधिकारियों से परेशानी, दूसरों के कार्यों में धन की हानि, और भारी गिरावट का समय।",
+          "english": "Mars's prāṇa within the Sun's: trouble from the king, loss of wealth for another's purpose, great fear, and the arrival of great decline.",
+          "hindi": "सूर्य में मंगल की प्राण दशा: राजा से उपद्रव, दूसरे के प्रयोजन में द्रव्य-नाश, महान भय, और बड़ी हानि की प्राप्ति।",
           "status": "translated",
           "tags": [
             "graha:mars",
@@ -38710,8 +38710,8 @@
         {
           "number": 5,
           "text": "अन्नोद्भवा महापीडा विषोत्पत्तिर्विशेषतः ।\nअर्थाग्निराजभिः क्लेशो रवेः प्राणगतेऽप्यहौ",
-          "english": "Rahu's Prana in Sun's Sookshma: Severe pain from food, sudden poisoning, and distress caused by wealth, fire, or the king.",
-          "hindi": "सूर्य की सूक्ष्मान्तर्दशा में राहु की प्राण दशा: भोजन से भारी पीड़ा, अचानक विषाक्तता, और धन, अग्नि या राजा द्वारा उत्पन्न क्लेश।",
+          "english": "Rahu's prāṇa within the Sun's: great affliction arising from food, especially the onset of poison, and distress through wealth, fire and the king.",
+          "hindi": "सूर्य में राहु की प्राण दशा: अन्न से उत्पन्न महा पीड़ा, विशेषकर विष का उद्भव, और धन, अग्नि तथा राजा से क्लेश।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -38720,502 +38720,430 @@
         {
           "number": 6,
           "text": "नानाविद्यार्थसम्पत्तिः कार्यलाभो गतागतैः ।\nनृपविप्राश्रमे सूक्ष्मे रवेः प्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within the Sun's: riches of many kinds of learning and wealth, success in work through comings and goings — while in the refuge of the king and Brahmins.",
+          "hindi": "सूर्य में गुरु की प्राण दशा: नाना विद्या और धन की सम्पत्ति, आने-जाने से कार्य-लाभ — राजा और ब्राह्मणों के आश्रय में रहते हुए।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 6 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 7,
           "text": "बन्धनं प्राणनाशश्च चित्तोद्वेगस्तथैव च ।\nबहुबाधा महाहानी रवेः प्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within the Sun's: bondage, loss of life, and agitation of mind as well; many obstacles and great loss.",
+          "hindi": "सूर्य में शनि की प्राण दशा: बन्धन, प्राण-नाश, और वैसे ही चित्त का उद्वेग; बहुत बाधा और महा हानि।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 7 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
           "text": "राजान्नभोगः सततं राजलाञ्छानतत्पदम् ।\nआत्मा सन्तर्पयेदीवं रवेः प्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within the Sun's: constant enjoyment of royal food, the royal insignia and that rank, and one's self is thus gratified [reading uncertain: सन्तर्पयेदीवं].",
+          "hindi": "सूर्य में बुध की प्राण दशा: निरन्तर राजकीय अन्न का भोग, राजचिह्न और वह पद, और आत्मा इस प्रकार तृप्त होती है [पाठ अनिश्चित: सन्तर्पयेदीवं]।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 8 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 9,
           "text": "अन्योऽन्यं कलहश्चैव वसुहानिः पराजयः ।\nगुरुस्त्रीबन्धुविर्गैश्च सूर्यप्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within the Sun's: mutual quarrels, loss of wealth and defeat — with the guru, women and the circle of kin.",
+          "hindi": "सूर्य में केतु की प्राण दशा: परस्पर कलह, धन-हानि और पराजय — गुरु, स्त्री और बन्धुवर्ग के साथ।",
+          "status": "translated",
           "tags": [
             "chain:jupiter_with_sun",
             "graha:jupiter",
             "graha:sun",
             "rel:position"
-          ],
-          "english_draft": "Verse 9 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
           "text": "राजपूजा धनाधिक्यं स्त्रीपुत्रादिभवं सुखम् ।\nअन्नपानादिभोगादि सूर्यप्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within the Sun's: honour from the king, abundance of wealth, happiness from wife, sons and the like, and enjoyment of food, drink and the like.",
+          "hindi": "सूर्य में शुक्र की प्राण दशा: राजा से सम्मान, धन की अधिकता, स्त्री-पुत्र आदि से सुख, और अन्न-पान आदि का भोग।",
+          "status": "translated",
           "tags": [
             "graha:sun",
             "rel:position"
-          ],
-          "english_draft": "Verse 10 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
           "text": "स्त्रीपुत्रादिसुखं द्रव्यं लभते नूतनाम्बरम् ।\nयोगसिद्धिं समाधिञ्च निजप्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's own prāṇa within the Moon's: one gains happiness from wife, sons and the like, wealth, new clothes, success in yoga, and samādhi.",
+          "hindi": "चन्द्र में चन्द्र की प्राण दशा: स्त्री-पुत्र आदि का सुख, द्रव्य, नए वस्त्र, योग-सिद्धि और समाधि प्राप्त होते हैं।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:position"
-          ],
-          "english_draft": "Verse 11 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "क्षयं कुष्ठं बन्धुनाशं रक्तस्रावान्महद्भयम् ।\nभूतावेशादि जायते विधोः प्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within the Moon's: consumption, leprosy, loss of kin, great fear from loss of blood, and possession by spirits and the like arise.",
+          "hindi": "चन्द्र में मंगल की प्राण दशा: क्षय, कुष्ठ, बन्धु-नाश, रक्तस्राव से महा भय, और भूतावेश आदि होते हैं।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 12 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
           "text": "सर्पभीतिविशेषाण भूतोपद्रवान् सदा ।\nदृष्टिक्षोभो मतिभ्रंशो विधोः प्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within the Moon's: fear of serpents especially [reading विशेषाण as विशेषेण], constant troubles from spirits, disturbance of sight, and confusion of mind.",
+          "hindi": "चन्द्र में राहु की प्राण दशा: विशेषकर सर्प-भय [विशेषाण को विशेषेण पढ़ा], सदा भूत-उपद्रव, दृष्टि-क्षोभ, और मति-भ्रंश।",
+          "status": "translated",
           "tags": [
             "rel:aspect",
             "rel:position"
-          ],
-          "english_draft": "Verse 13 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 14,
           "text": "धर्मवृद्धिः क्षमाप्राप्तिर्देवब्राह्मणपूजनम् ।\nसौभाग्यं प्रियदृष्टिश्च चन्द्रप्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within the Moon's: increase of dharma, attainment of forbearance, worship of gods and Brahmins, good fortune, and a pleasing look.",
+          "hindi": "चन्द्र में गुरु की प्राण दशा: धर्म-वृद्धि, क्षमा की प्राप्ति, देव-ब्राह्मणों का पूजन, सौभाग्य, और प्रिय दृष्टि।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "rel:aspect",
             "rel:position"
-          ],
-          "english_draft": "Verse 14 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 14 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 15,
           "text": "सहसा देहपतनं शत्रूपद्रववेदना ।\nअन्धत्वं च धनप्राप्तिश्चन्द्रप्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within the Moon's: sudden fall of the body, pain from the attacks of enemies, blindness — and gain of wealth [as the text reads].",
+          "hindi": "चन्द्र में शनि की प्राण दशा: सहसा देह-पतन, शत्रुओं के उपद्रव की वेदना, अन्धत्व — और धन की प्राप्ति [पाठ जैसा है]।",
+          "status": "translated",
           "tags": [
             "bhava:2",
             "graha:moon",
             "rel:position"
-          ],
-          "english_draft": "Verse 15 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 16,
           "text": "चामरच्छत्रसम्प्राप्ती राज्यलाभो नृपात्ततः ।\nसमत्वं सर्वभूतेषु चन्द्रप्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within the Moon's: gain of fly-whisk and umbrella, thereupon gain of a kingdom from the king, and equanimity towards all beings.",
+          "hindi": "चन्द्र में बुध की प्राण दशा: चामर और छत्र की प्राप्ति, तत्पश्चात् राजा से राज्य-लाभ, और सब प्राणियों में समभाव।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "graha:moon",
             "rel:position"
-          ],
-          "english_draft": "Verse 16 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 16 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 17,
           "text": "शस्त्राग्निरिपुजा पीडा विषाग्निः कुक्षिरोगता ।\nपुत्रदारवियोगश्च चन्द्रप्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within the Moon's: pain from weapons, fire and enemies, poison and fire, disease of the belly, and separation from sons and wife.",
+          "hindi": "चन्द्र में केतु की प्राण दशा: शस्त्र, अग्नि और शत्रु से पीड़ा, विष और अग्नि, पेट का रोग, और पुत्र-स्त्री से वियोग।",
+          "status": "translated",
           "tags": [
             "chain:sun_with_moon",
             "entity:yoga",
             "graha:moon",
             "graha:sun",
             "rel:position"
-          ],
-          "english_draft": "Verse 17 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 17 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 18,
           "text": "पुत्रमित्रकलत्राप्तिविदेशाच्च धनागमः ।\nसुखसम्पत्तिरर्थश्च चन्द्रप्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within the Moon's: gain of sons, friends and wife, the coming of wealth from abroad, happiness, prosperity and riches.",
+          "hindi": "चन्द्र में शुक्र की प्राण दशा: पुत्र, मित्र और स्त्री की प्राप्ति, विदेश से धन का आगमन, सुख, सम्पत्ति और अर्थ।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "graha:moon",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 18 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 18 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 19,
           "text": "क्रूरता कोपवृद्धिश्च प्राणहानिर्मनोव्यथा ।\nदेशत्यागो महाभीतिश्चन्द्रप्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within the Moon's: cruelty, growing anger, loss of life, mental anguish, leaving one's country, and great fear.",
+          "hindi": "चन्द्र में सूर्य की प्राण दशा: क्रूरता, क्रोध की वृद्धि, प्राण-हानि, मनोव्यथा, देश-त्याग, और महा भय।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 19 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 19 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 20,
           "text": "कलहो रिपुभिर्बन्धः रक्तपित्तादिरोगभीः ।\nनिजसूक्ष्मदशामध्ये कुज प्राणगते फलम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's own prāṇa within Mars's: quarrels and bondage by enemies, and fear of diseases of blood and bile and the like — the result when Mars's prāṇa runs within its own sūkṣma daśā.",
+          "hindi": "मंगल में मंगल की प्राण दशा: कलह, शत्रुओं द्वारा बन्धन, और रक्त-पित्त आदि रोगों का भय — अपनी सूक्ष्म दशा में मंगल की प्राण दशा का फल।",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 20 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 20 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 21,
           "text": "विच्युतः सुतदारैश्च बन्धूपद्रवपीडितः ।\nप्राणत्यागो विषेणैव भौमप्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within Mars's: separated from sons and wife, afflicted by troubles from kin, and loss of life by poison.",
+          "hindi": "मंगल में राहु की प्राण दशा: पुत्र और स्त्री से बिछुड़ा, बन्धुओं के उपद्रव से पीड़ित, और विष से ही प्राण-त्याग।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:conjunction",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 21 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 21 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 22,
           "text": "देवार्चनपरः स्र्/ईमान्मन्तानुष्ठानतत्परः ।\nपुत्रपौत्रसुखावाप्तिर्भौमप्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within Mars's: intent on the worship of the gods, prosperous [reading स्र्/ईमान् as श्रीमान्], devoted to the practice of mantras, and gain of the happiness of sons and grandsons.",
+          "hindi": "मंगल में गुरु की प्राण दशा: देवार्चन में तत्पर, श्रीमान् [स्र्/ईमान् को श्रीमान् पढ़ा], मन्त्रानुष्ठान में तत्पर, और पुत्र-पौत्रों के सुख की प्राप्ति।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "bhava:5",
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 22 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 22 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 23,
           "text": "अग्निबाधा भवेन्मृत्युरर्थनाशः पदच्युतिः ।\nबन्धुभिबन्धुतावाप्तिर्भौमप्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within Mars's: affliction from fire, death may occur, loss of wealth, fall from position, and attainment of kinship with kin [reading uncertain: बन्धुभिबन्धुतावाप्तिः; perhaps बन्धनावाप्तिः, 'bondage through kin'].",
+          "hindi": "मंगल में शनि की प्राण दशा: अग्नि से बाधा, मृत्यु हो सकती है, धन-नाश, पद से च्युति, और बन्धुओं से बन्धुता की प्राप्ति [पाठ अनिश्चित: बन्धुभिबन्धुतावाप्तिः; सम्भवतः बन्धनावाप्तिः, 'बन्धुओं से बन्धन']।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 23 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 23 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 24,
           "text": "दिव्याम्बरसमुत्पत्तिर्दिव्याभरणभूषितः ।\nदिव्याङ्गनायाः सम्प्राप्तिर्भौमप्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within Mars's: gain of divine garments, adornment with divine ornaments, and gain of a divine woman.",
+          "hindi": "मंगल में बुध की प्राण दशा: दिव्य वस्त्रों की उत्पत्ति, दिव्य आभूषणों से भूषित, और दिव्य स्त्री की प्राप्ति।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 24 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 24 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 25,
           "text": "पतनोत्पातिपीडा च नेत्रक्षोभो महद्भयम् ।\nभुजङ्गाद् द्रव्यहानिश्च भौमप्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within Mars's: pain from falls and calamities [reading उत्पाति as उत्पात], agitation of the eyes, great fear, and loss of wealth through a serpent.",
+          "hindi": "मंगल में केतु की प्राण दशा: पतन और उत्पात से पीड़ा [उत्पाति को उत्पात पढ़ा], नेत्र-क्षोभ, महा भय, और सर्प से द्रव्य-हानि।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 25 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 25 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 26,
           "text": "धनधान्यादिसम्पत्तिर्लोकपूजा सुखागमा ।\nनानाभोगैर्भवेद्भोगी भौमप्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within Mars's: prosperity in wealth, grain and the like, honour from people, the coming of happiness; one enjoys many pleasures.",
+          "hindi": "मंगल में शुक्र की प्राण दशा: धन-धान्य आदि की सम्पत्ति, लोक में पूजा, सुख का आगमन; नाना भोगों से भोगी होता है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 26 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 26 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 27,
           "text": "ज्वरोन्मादः क्षयोऽर्थस्य राजविस्नेहसम्भवः ।\nदीर्घरोगी दरिद्रः स्याद्भौमप्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Mars's: fever and madness, loss of wealth, loss of the king's affection; one becomes chronically ill and poor.",
+          "hindi": "मंगल में सूर्य की प्राण दशा: ज्वर और उन्माद, धन का क्षय, राजा के स्नेह का अभाव; दीर्घ रोगी और दरिद्र होता है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 27 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 27 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 28,
           "text": "भोजनादिसुखप्राप्तिर्वस्त्राभरणजं सुखम् ।\nशीतोष्णव्याधिपीडा च भौमप्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's prāṇa within Mars's: happiness from food and the like, happiness from clothes and ornaments, and affliction by diseases of cold and heat.",
+          "hindi": "मंगल में चन्द्र की प्राण दशा: भोजन आदि के सुख की प्राप्ति, वस्त्र-आभूषणों से सुख, और शीत-उष्ण व्याधियों से पीड़ा।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 28 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 28 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 29,
           "text": "अन्नाशने विरक्तश्च विषभीतिस्तथैव च ।\nसाहसाद्धननाशश्च राहौ प्राणगते भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's own prāṇa within Rahu's: aversion to food, and fear of poison as well; loss of wealth through rashness.",
+          "hindi": "राहु में राहु की प्राण दशा: भोजन से विरक्ति, और वैसे ही विष का भय; साहस से धन-नाश।",
+          "status": "translated",
           "tags": [
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 29 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 29 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 30,
           "text": "अङ्गसौख्यं विनिर्भीतिर्वाहनादेश्च सङ्गता ।\nनीचिः कलहसम्प्राप्ती राहोः प्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within Rahu's: bodily comfort, freedom from fear, association with vehicles and the like, and quarrels with low people [listed among the good results, as the text reads].",
+          "hindi": "राहु में गुरु की प्राण दशा: शरीर-सुख, निर्भयता, वाहन आदि का संग, और नीचों से कलह की प्राप्ति [शुभ फलों में ही गिनाया गया, पाठ जैसा है]।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "graha:rahu",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 30 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 30 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 31,
           "text": "गृहदाहः शरीरे रुङ् नीचैरपहृत धनम् ।\nतथा बन्धनसम्प्राप्ती राहोः प्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within Rahu's: burning of the house, disease in the body, wealth taken away by low people, and bondage as well.",
+          "hindi": "राहु में शनि की प्राण दशा: घर का जलना, शरीर में रोग, नीचों द्वारा धन का हरण, और बन्धन की प्राप्ति भी।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 31 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 31 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 32,
           "text": "गुरूपदेशविभवो गुरुसत्कारवर्द्धनम् ।\nगुणवाञ्छीलवांश्चापि राहोः प्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within Rahu's: the riches of a guru's instruction, growth in honouring the guru; one is virtuous and of good conduct too.",
+          "hindi": "राहु में बुध की प्राण दशा: गुरु के उपदेश का वैभव, गुरु-सत्कार की वृद्धि; गुणवान और शीलवान भी होता है।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mercury",
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 32 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 32 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 33,
           "text": "स्त्रीपुत्रादिविरोधश्च गृहान्निष्क्रमणादपि ।\nसाहसात्कायहानिश्च राहोः प्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within Rahu's: opposition from wife, sons and the like, and even leaving home; injury to the body through rashness.",
+          "hindi": "राहु में केतु की प्राण दशा: स्त्री-पुत्र आदि से विरोध, और घर से निकलना भी; साहस से शरीर की हानि।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 33 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 33 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 34,
           "text": "छत्रवाहनसम्पत्तिः सर्वार्थफलसञ्चयः ।\nशिवार्चनगृहारम्भो राहोः प्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within Rahu's: wealth of umbrellas and vehicles, accumulation of the fruits of all aims, worship of Śiva, and beginning a house [the compound can also read 'beginning a house for Śiva's worship'].",
+          "hindi": "राहु में शुक्र की प्राण दशा: छत्र-वाहन की सम्पत्ति, सब प्रयोजनों के फलों का संचय, शिवार्चन, और गृहारम्भ [समास 'शिवार्चन के लिए गृह का आरम्भ' भी पढ़ा जा सकता है]।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 34 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 34 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 35,
           "text": "अर्शादिरोगभीतिश्च राज्योपद्रवसम्भवः ।\nचतुष्पादादिहानिश्च राहोः प्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Rahu's: fear of piles and other diseases, troubles from the state, and loss of quadrupeds and the like.",
+          "hindi": "राहु में सूर्य की प्राण दशा: अर्श आदि रोगों का भय, राज्य से उपद्रव, और चौपायों आदि की हानि।",
+          "status": "translated",
           "tags": [
             "graha:rahu",
             "rel:position"
-          ],
-          "english_draft": "Verse 35 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 35 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 36,
           "text": "सौमनस्यं च सद्बुद्धिः सत्कारो गुरुदर्शनम् ।\nपापाद्भीतिर्मनःसौख्यं राहोः प्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's prāṇa within Rahu's: cheerfulness and good sense, honour, the sight of the guru, fear of sin, and happiness of mind.",
+          "hindi": "राहु में चन्द्र की प्राण दशा: प्रसन्नचित्तता और सद्बुद्धि, सत्कार, गुरु-दर्शन, पाप से भय, और मन का सुख।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:rahu",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 36 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 36 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 37,
           "text": "चाण्डालाग्निवशाद्भीतिः स्वपदच्युतिरापदः ।\nमलिनः श्वादिवृत्तिश्च राहोः प्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within Rahu's: fear through caṇḍālas and fire, fall from one's position, calamities; one becomes unclean, living like a dog and the like.",
+          "hindi": "राहु में मंगल की प्राण दशा: चाण्डाल और अग्नि के कारण भय, अपने पद से च्युति, आपदाएँ; मलिन, और कुत्ते आदि जैसी वृत्ति।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:rahu",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 37 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 37 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 38,
           "text": "हर्षागमो धनाधिक्यमग्निहोत्रं शिवार्चनम् ।\nवाहनं छत्रसंयुक्तं निज प्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's own prāṇa within Jupiter's: the coming of joy, abundance of wealth, the fire-sacrifice, worship of Śiva, and a vehicle with an umbrella.",
+          "hindi": "गुरु में गुरु की प्राण दशा: हर्ष का आगमन, धन की अधिकता, अग्निहोत्र, शिवार्चन, और छत्र-सहित वाहन।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 38 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 38 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 39,
           "text": "व्रतहानिर्विषादश्च विदेशे धननाशनम् ।\nविरोधो बन्धुवर्गैश्च गुरोः प्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within Jupiter's: breaking of vows, dejection, loss of wealth abroad, and opposition from the circle of kin.",
+          "hindi": "गुरु में शनि की प्राण दशा: व्रत-भंग, विषाद, विदेश में धन-नाश, और बन्धुवर्ग से विरोध।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "rel:position"
-          ],
-          "english_draft": "Verse 39 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 39 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 40,
           "text": "विद्याबुद्धिविवृद्धिश्च लोके पूजा धनागमः ।\nस्त्रीपुत्रादिसुखप्राप्तिर्गुरोः प्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within Jupiter's: growth of learning and intelligence, honour among people, the coming of wealth, and gain of happiness from wife, sons and the like.",
+          "hindi": "गुरु में बुध की प्राण दशा: विद्या और बुद्धि की वृद्धि, लोक में पूजा, धन का आगमन, और स्त्री-पुत्र आदि के सुख की प्राप्ति।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 40 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 40 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 41,
           "text": "ज्ञानं विभवपाण्डित्यं शास्त्रज्ञानं शिवार्चनम् ।\nअग्निहोत्रं गुरोर्भक्तिर्गुरोः प्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within Jupiter's: knowledge, riches and learning, knowledge of the śāstras, worship of Śiva, the fire-sacrifice, and devotion to the guru.",
+          "hindi": "गुरु में केतु की प्राण दशा: ज्ञान, वैभव और पाण्डित्य, शास्त्र-ज्ञान, शिवार्चन, अग्निहोत्र, और गुरु-भक्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 41 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 41 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 42,
           "text": "रोगान्मुक्तिः सुखं भोगो धनधान्यसमागमः ।\nपुत्रदारादिजं सौख्यं गुरोः प्राणगते भृगौ",
-          "english": "Relief from ailments, joy, enjoyment, accumulation of wealth, and happiness born of spouse and children during Prana Dasha of Venus in Jupiter.",
-          "hindi": "गुरु की प्राण दशा में शुक्र रहने पर व्याधियों से छुटकारा, आनंद, भोग, धन-धान्य का संग्रह और स्त्री-सन्तान से उत्पन्न सुख मिलता है।",
+          "english": "Venus's prāṇa within Jupiter's: freedom from disease, happiness, enjoyment, the coming of wealth and grain, and happiness born of sons, wife and the like.",
+          "hindi": "गुरु में शुक्र की प्राण दशा: रोगों से मुक्ति, सुख, भोग, धन-धान्य का समागम, और पुत्र-स्त्री आदि से उत्पन्न सुख।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -39224,20 +39152,18 @@
         {
           "number": 43,
           "text": "वातपित्तप्रकोपं च श्लेष्मोद्रेकं तु दारुणम् ।\nरसव्याधिकृतं शूलं गुरोः प्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Jupiter's: aggravation of wind and bile, a dreadful excess of phlegm, and colic caused by disease of the bodily fluids.",
+          "hindi": "गुरु में सूर्य की प्राण दशा: वात-पित्त का प्रकोप, कफ की भयंकर वृद्धि, और रस-व्याधि से उत्पन्न शूल।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 43 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 43 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 44,
           "text": "छत्रचामरसंयुक्तं वैभवं पुत्रसम्पदः ।\nनेत्रकुक्षिगता पीडा गुरोः प्राणगते विधौ",
-          "english": "Possessing royal umbrella, fly-whisk, and wealth of sons, but eye and belly pain arises during Prana Dasha of Moon in Jupiter.",
-          "hindi": "गुरु की प्राण दशा में चन्द्रमा रहने पर छत्र, चंवर तथा पुत्र-वैभव प्राप्त होता है, किन्तु नेत्र व कुक्षि में व्यथा होती है।",
+          "english": "The Moon's prāṇa within Jupiter's: splendour accompanied by umbrella and fly-whisk, prosperity in sons, and pain in the eyes and belly.",
+          "hindi": "गुरु में चन्द्र की प्राण दशा: छत्र-चामर से युक्त वैभव, पुत्र-सम्पत्ति, और नेत्र तथा उदर में पीड़ा।",
           "status": "translated",
           "tags": [
             "rel:conjunction",
@@ -39247,519 +39173,441 @@
         {
           "number": 45,
           "text": "स्त्रीजनाच्च विषोत्पत्तिर्बन्धनं चातिनिग्रहः ।\nदेशान्तरगमो भ्रान्तिर्गुरोः प्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within Jupiter's: poisoning through women, bondage and severe restraint, going to another land, and delusion.",
+          "hindi": "गुरु में मंगल की प्राण दशा: स्त्रियों से विष का उद्भव, बन्धन और अति निग्रह, देशान्तर-गमन, और भ्रान्ति।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 45 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 45 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 46,
           "text": "व्याधिभिः परिभूतः स्याच्चौरैरपहृतं धनम् ।\nसर्पवृश्चिकभीतिश्च गुरोः प्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within Jupiter's: one is overcome by diseases, wealth is stolen by thieves, and there is fear of serpents and scorpions.",
+          "hindi": "गुरु में राहु की प्राण दशा: व्याधियों से पराभूत होता है, चोर धन हर लेते हैं, और सर्प-बिच्छू का भय।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 46 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 46 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 47,
           "text": "ज्वरेण ज्वलिता कान्तिः कुष्ठरोगोदरादिरुक् ।\nजलाग्निकृतमृत्युः स्यान्निजप्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's own prāṇa within Saturn's: lustre consumed by fever, leprosy, disease of the belly and the like; death caused by water and fire may occur.",
+          "hindi": "शनि में शनि की प्राण दशा: ज्वर से कान्ति जल जाती है, कुष्ठ, उदर आदि के रोग; जल और अग्नि से मृत्यु हो सकती है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 47 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 47 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 48,
           "text": "धनं धान्यं च माङ्गल्यं व्यवहाराभिपूजनम् ।\nदेवब्राह्मणभक्तिश्च शनेः प्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within Saturn's: wealth and grain, auspiciousness, honour in one's dealings, and devotion to gods and Brahmins.",
+          "hindi": "शनि में बुध की प्राण दशा: धन और धान्य, मांगल्य, व्यवहार में सम्मान, और देव-ब्राह्मणों में भक्ति।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 48 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 48 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 49,
           "text": "मृत्युवेदनदुःखं च भूतोपद्रवसम्भवः ।\nपरदाराभिभूतत्वं शनेः प्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within Saturn's: the pain and sorrow of death, troubles from spirits, and being overcome by another man's wife.",
+          "hindi": "शनि में केतु की प्राण दशा: मृत्यु-वेदना और दुःख, भूत-उपद्रव, और पर-स्त्री से अभिभूत होना।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 49 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 49 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 50,
           "text": "पुत्रार्थविभवैः सौख्यं क्षितिपालादितः सुखम् ।\nअग्निहोत्रं विवाहश्च शनेः प्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within Saturn's: happiness through sons, wealth and riches, happiness from the king and the like, the fire-sacrifice, and marriage.",
+          "hindi": "शनि में शुक्र की प्राण दशा: पुत्र, धन और वैभव से सुख, राजा आदि से सुख, अग्निहोत्र, और विवाह।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 50 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 50 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 51,
           "text": "अक्षिपीडा शिरोव्याधिः सर्पशत्रुभयं भवेत् ।\nअर्थहानिर्महाक्लेशः शनेः प्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Saturn's: pain in the eyes, disease of the head, fear of serpents and enemies, loss of wealth, and great distress.",
+          "hindi": "शनि में सूर्य की प्राण दशा: नेत्र-पीड़ा, सिर का रोग, सर्प और शत्रु का भय, धन-हानि, और महा क्लेश।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 51 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 51 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 52,
           "text": "आरोग्यं पुत्रलाभश्च शान्तिपौष्टिकवर्धनम् ।\nदेवब्राह्मणभक्तिश्च शनेः प्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's prāṇa within Saturn's: health, gain of a son, increase of propitiatory and nourishing rites, and devotion to gods and Brahmins.",
+          "hindi": "शनि में चन्द्र की प्राण दशा: आरोग्य, पुत्र-लाभ, शान्ति-पौष्टिक कर्मों की वृद्धि, और देव-ब्राह्मणों में भक्ति।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 52 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 52 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 53,
           "text": "गुल्मरोगः शत्रुभीतिर्मृगया प्राननाशनम् ।\nसर्पाग्निविषतो भीतिः शनेः प्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within Saturn's: gulma disease, fear of enemies, loss of life through hunting, and fear from serpents, fire and poison.",
+          "hindi": "शनि में मंगल की प्राण दशा: गुल्म रोग, शत्रु-भय, मृगया में प्राण-नाश, और सर्प, अग्नि तथा विष से भय।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 53 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 53 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 54,
           "text": "देशत्यागो नृपाद्भीतिर्मोहनं विषभक्षणम् ।\nवातपित्तकृता पीडा शनेः प्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within Saturn's: leaving one's country, fear from the king, delusion, eating poison, and affliction caused by wind and bile.",
+          "hindi": "शनि में राहु की प्राण दशा: देश-त्याग, राजा से भय, मोह, विष-भक्षण, और वात-पित्त से पीड़ा।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 54 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 54 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 55,
           "text": "सेनापत्यं भूमिलाभः संगमः स्वजनैः सह ।\nगौरवं नृपसम्मानं शनेः प्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within Saturn's: command of an army, gain of land, union with one's own people, dignity, and honour from the king.",
+          "hindi": "शनि में गुरु की प्राण दशा: सेनापतित्व, भूमि-लाभ, स्वजनों के साथ संगम, गौरव, और राजसम्मान।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 55 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 55 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 56,
           "text": "आरोग्यं सुखसम्पत्तिर्धर्मकर्मादिसाधनम् ।\nसमत्वं सर्वभुतेषु निजप्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's own prāṇa within Mercury's: health, happiness and prosperity, the accomplishment of dharma, rites and the like, and equanimity towards all beings.",
+          "hindi": "बुध में बुध की प्राण दशा: आरोग्य, सुख-सम्पत्ति, धर्म-कर्म आदि का साधन, और सब प्राणियों में समभाव।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 56 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 56 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 57,
           "text": "वह्नितस्करतो भीतिः परमाधिर्विषोद्भवः ।\nदेहान्तकरणं दुःखं बुधप्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within Mercury's: fear from fire and thieves, extreme mental anguish, the onset of poison, and sorrow that ends the body.",
+          "hindi": "बुध में केतु की प्राण दशा: अग्नि और चोर से भय, परम मानसिक व्यथा, विष का उद्भव, और देहान्त करने वाला दुःख।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 57 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 57 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 58,
           "text": "प्रभुत्वं धनसम्पत्तिः कीर्तिर्धर्मः शिवार्चनम् ।\nपुत्रदारादिकं सौख्यं बुधप्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within Mercury's: lordship, wealth and prosperity, fame, dharma, worship of Śiva, and happiness of sons, wife and the like.",
+          "hindi": "बुध में शुक्र की प्राण दशा: प्रभुत्व, धन-सम्पत्ति, कीर्ति, धर्म, शिवार्चन, और पुत्र-स्त्री आदि का सुख।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 58 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 58 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 59,
           "text": "अन्तर्दाहो ज्वरोन्मादौ बान्धवानां रति स्त्रियाः ।\nप्राप्यते स्तीयसम्पत्तिर्बुधप्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Mercury's: inner burning, fever and madness, the affection of kin and of a woman, and one obtains wealth [the line is corrupt: बान्धवानां रति स्त्रियाः … स्तीयसम्पत्तिः, perhaps स्वीय 'one's own'].",
+          "hindi": "बुध में सूर्य की प्राण दशा: अन्तर्दाह, ज्वर और उन्माद, बान्धवों और स्त्री की प्रीति, और सम्पत्ति प्राप्त होती है [पंक्ति भ्रष्ट है: बान्धवानां रति स्त्रियाः … स्तीयसम्पत्तिः, सम्भवतः स्वीय 'अपनी']।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 59 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 59 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 60,
           "text": "स्त्रीलाभश्चार्थसम्पत्तिः कन्यालाभो धनागमः ।\nलभते सर्वतः सौख्यं बुधप्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's prāṇa within Mercury's: gain of a wife and of wealth, gain of a daughter, the coming of wealth; one obtains happiness from every side.",
+          "hindi": "बुध में चन्द्र की प्राण दशा: स्त्री-लाभ और धन-सम्पत्ति, कन्या-लाभ, धन का आगमन; सब ओर से सुख प्राप्त होता है।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rashi:kanya",
             "rel:position"
-          ],
-          "english_draft": "Verse 60 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 60 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 61,
           "text": "पतितः कुक्षिरोगी च दन्तनेत्रादिजा व्यथा ।\nअर्शांसि प्राणसन्देहो बुधप्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within Mercury's: one becomes fallen, has disease of the belly, pain in the teeth, eyes and the like, piles, and danger to life.",
+          "hindi": "बुध में मंगल की प्राण दशा: पतित, उदर-रोगी, दाँत-नेत्र आदि की व्यथा, अर्श, और प्राणों का सन्देह।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:mercury",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 61 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 61 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 62,
           "text": "वस्त्राभरणसम्पत्तिर्वियोगो विप्रवैरिता ।\nसन्निपातोद्भवं दुखं बुधप्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within Mercury's: wealth of clothes and ornaments [listed among the harms, as the text reads], separation, enmity with Brahmins, and sorrow arising from sannipāta.",
+          "hindi": "बुध में राहु की प्राण दशा: वस्त्र-आभूषणों की सम्पत्ति [अशुभ फलों के बीच, पाठ जैसा है], वियोग, ब्राह्मणों से वैर, और सन्निपात से उत्पन्न दुःख।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 62 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 62 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 63,
           "text": "गुरुत्वं धनसम्पत्तिर्विद्या सद्गुणसंग्रहः ।\nव्यवसायेन सल्लाभो बुधप्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within Mercury's: dignity, wealth and prosperity, learning, a store of good qualities, and good gain through trade.",
+          "hindi": "बुध में गुरु की प्राण दशा: गौरव, धन-सम्पत्ति, विद्या, सद्गुणों का संग्रह, और व्यवसाय से अच्छा लाभ।",
+          "status": "translated",
           "tags": [
             "chain:jupiter_with_mercury",
             "graha:jupiter",
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 63 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 63 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 64,
           "text": "चौर्येण निधनप्राप्तिर्विधनत्वं दरिद्रता ।\nयाचकत्वं विशेषेण बुधप्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within Mercury's: death through theft, loss of wealth and poverty, and especially begging.",
+          "hindi": "बुध में शनि की प्राण दशा: चोरी से मृत्यु की प्राप्ति, निर्धनता और दरिद्रता, और विशेषकर याचकता।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 64 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 64 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 65,
           "text": "अश्वपातेन घातश्च शत्रुतः कलहागमः ।\nनिर्विचारवधोत्पत्तिर्निजप्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's own prāṇa within Ketu's: injury from a fall from a horse, quarrels coming from enemies, and the occurrence of killing without deliberation.",
+          "hindi": "केतु में केतु की प्राण दशा: घोड़े से गिरकर चोट, शत्रु से कलह का आगमन, और बिना विचारे वध की उत्पत्ति।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 65 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 65 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 66,
           "text": "क्षेत्रलाभो वैरिनाशो हयलाभो मनःसुखम् ।\nपशुक्षेत्रधनाप्तिश्च केतोः प्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's prāṇa within Ketu's: gain of land, destruction of enemies, gain of horses, happiness of mind, and gain of cattle, fields and wealth.",
+          "hindi": "केतु में शुक्र की प्राण दशा: क्षेत्र-लाभ, शत्रु-नाश, घोड़ों का लाभ, मन का सुख, और पशु, क्षेत्र तथा धन की प्राप्ति।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:position"
-          ],
-          "english_draft": "Verse 66 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 66 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 67,
           "text": "स्तेयाग्निरिपुभीतिश्च धनहानिर्मनोव्यथा ।\nप्राणान्तकरणं कष्टं केतोः प्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Ketu's: fear of theft, fire and enemies, loss of wealth, mental anguish, and trouble that ends life.",
+          "hindi": "केतु में सूर्य की प्राण दशा: चोरी, अग्नि और शत्रु का भय, धन-हानि, मनोव्यथा, और प्राणान्त करने वाला कष्ट।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:position"
-          ],
-          "english_draft": "Verse 67 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 67 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 68,
           "text": "देवद्विजगुरोः पूजा दीर्घयात्रा धनं सुखम् ।\nकर्णे वा लोचने रोगः केतोः प्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's prāṇa within Ketu's: worship of gods, the twice-born and the guru, a long journey, wealth, happiness, and disease in the ear or the eye.",
+          "hindi": "केतु में चन्द्र की प्राण दशा: देव, द्विज और गुरु की पूजा, दीर्घ यात्रा, धन, सुख, और कान या आँख में रोग।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:position"
-          ],
-          "english_draft": "Verse 68 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 68 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 69,
           "text": "पित्तरोगो नसावृद्धिर्विभ्रमः सन्निपातजः ।\nस्वबन्धुजनविद्वेषः केतोः प्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within Ketu's: disease of bile, growth in the nose [reading uncertain: नसावृद्धिः], delirium arising from sannipāta, and hatred of one's own kin.",
+          "hindi": "केतु में मंगल की प्राण दशा: पित्त-रोग, नासिका में वृद्धि [पाठ अनिश्चित: नसावृद्धिः], सन्निपात से उत्पन्न विभ्रम, और अपने बन्धुजनों से द्वेष।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "graha:mars",
             "rel:position"
-          ],
-          "english_draft": "Verse 69 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 69 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 70,
           "text": "विरोधः स्त्रीसुताद्यैश्च गृहान्निष्क्रमणं भवेत् ।\nस्वसाहसात्कार्यहानिः केतोः प्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within Ketu's: opposition from wife, sons and the like, and leaving home; failure of work through one's own rashness.",
+          "hindi": "केतु में राहु की प्राण दशा: स्त्री-पुत्र आदि से विरोध, और घर से निकलना; अपने साहस से कार्य-हानि।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 70 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 70 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 71,
           "text": "स/स्त्रव्रणैर्महारोगो हृत्पीडादिसमुद्भवः ।\nसुतदारवियोगश्च केतोः प्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within Ketu's: great disease from weapon wounds [reading स/स्त्रव्रणैः as शस्त्रव्रणैः], the onset of heart pain and the like, and separation from sons and wife.",
+          "hindi": "केतु में गुरु की प्राण दशा: शस्त्र-घावों से महा रोग [स/स्त्रव्रणैः को शस्त्रव्रणैः पढ़ा], हृदय-पीड़ा आदि का उद्भव, और पुत्र-स्त्री से वियोग।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "graha:ketu",
             "graha:sun",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 71 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 71 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 72,
           "text": "मतिविभ्रमतीक्ष्णत्वं क्रूरकर्मरतिः सदा ।\nव्यवसनाद्बन्धनं दुःखं केतोः प्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within Ketu's: confusion of mind and harshness, constant delight in cruel deeds, and bondage and sorrow through vice.",
+          "hindi": "केतु में शनि की प्राण दशा: मति-विभ्रम और तीक्ष्णता, सदा क्रूर कर्मों में रुचि, और व्यसन से बन्धन तथा दुःख।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 72 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 72 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 73,
           "text": "कुसुमं शयनं भूषा लेपनं भोजनादिकम् ।\nसौख्यं सर्वाङ्गभोग्यं च केतोः प्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within Ketu's: flowers, a bed, ornaments, unguents, food and the like — happiness enjoyed with every limb.",
+          "hindi": "केतु में बुध की प्राण दशा: पुष्प, शय्या, आभूषण, लेपन, भोजन आदि — सब अंगों से भोगने योग्य सुख।",
+          "status": "translated",
           "tags": [
             "graha:ketu",
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 73 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 73 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 74,
           "text": "ज्ञानमीश्वरभक्तिश्च सन्तोषश्च धनागमः ।\nपुत्रपौत्रसमृद्धिश्च निजप्राणगते भृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Venus's own prāṇa within Venus's: knowledge, devotion to God, contentment, the coming of wealth, and the flourishing of sons and grandsons.",
+          "hindi": "शुक्र में शुक्र की प्राण दशा: ज्ञान, ईश्वर-भक्ति, सन्तोष, धन का आगमन, और पुत्र-पौत्रों की समृद्धि।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 74 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 74 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 75,
           "text": "लोकप्रकाशकीर्तिश्च सुतसौख्यविवर्जितः ।\nउष्णादिरोगजं दुखं शुक्रप्राणगते रवौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Sun's prāṇa within Venus's: fame that lights up the world, deprived of the happiness of sons, and sorrow from heat and other diseases.",
+          "hindi": "शुक्र में सूर्य की प्राण दशा: लोक में प्रकाशित कीर्ति, पुत्र-सुख से रहित, और उष्ण आदि रोगों से उत्पन्न दुःख।",
+          "status": "translated",
           "tags": [
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 75 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 75 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 76,
           "text": "देवार्चने कर्मरतिर्मन्त्रतोषणतत्परः ।\nधनसौभाग्यसम्पत्तिः शुक्रप्राणगते विधौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The Moon's prāṇa within Venus's: delight in the rites of worshipping the gods, intent on gratifying [the deity] through mantras, and prosperity of wealth and good fortune.",
+          "hindi": "शुक्र में चन्द्र की प्राण दशा: देवार्चन के कर्म में रुचि, मन्त्रों से प्रसन्न करने में तत्पर, और धन तथा सौभाग्य की सम्पत्ति।",
+          "status": "translated",
           "tags": [
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 76 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 76 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 77,
           "text": "ज्वरो मसूरिकास्फोटकण्डूचिपिटकादिकाः ।\nदेवब्राह्मणपूजा च शुक्रप्राणगते कुजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mars's prāṇa within Venus's: fever, smallpox, boils, itch, eruptions and the like; and worship of gods and Brahmins.",
+          "hindi": "शुक्र में मंगल की प्राण दशा: ज्वर, मसूरिका, फोड़े, खुजली, फुंसी आदि; और देव-ब्राह्मणों की पूजा।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 77 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 77 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 78,
           "text": "नित्यं शत्रुकृता पीडा नेत्रकुक्षिरुजादयः ।\nविरोधः सुहृदां पीडा शुक्रप्राणगतेऽप्यहौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Rahu's prāṇa within Venus's: constant pain caused by enemies, diseases of the eyes, belly and the like, opposition from friends, and pain.",
+          "hindi": "शुक्र में राहु की प्राण दशा: शत्रुओं से नित्य पीड़ा, नेत्र-उदर आदि के रोग, मित्रों से विरोध, और पीड़ा।",
+          "status": "translated",
           "tags": [
             "graha:venus",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 78 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 78 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 79,
           "text": "आयुरारोग्यमैश्वर्यं पुत्रस्त्रीधनवैभवम् ।\nछत्रवाहनसम्प्राप्तिः शुक्रप्राणगते गुरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter's prāṇa within Venus's: long life, health, sovereignty, the splendour of sons, wife and wealth, and gain of umbrella and vehicle.",
+          "hindi": "शुक्र में गुरु की प्राण दशा: आयु, आरोग्य, ऐश्वर्य, पुत्र-स्त्री-धन का वैभव, और छत्र-वाहन की प्राप्ति।",
+          "status": "translated",
           "tags": [
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 79 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 79 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 80,
           "text": "राजोपद्रवजा भीतिः सुखहानिर्महारुजः ।\nनीचैः सह विवादश्च भृगोः प्राणगते शनौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Saturn's prāṇa within Venus's: fear arising from trouble from the king, loss of happiness, great disease, and dispute with low people.",
+          "hindi": "शुक्र में शनि की प्राण दशा: राजा के उपद्रव से भय, सुख-हानि, महा रोग, और नीचों के साथ विवाद।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 80 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 80 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 81,
           "text": "सन्तोषो राजसम्मानं नानादिग्भूमिसम्पदः ।\nनित्यमुत्साहव्र्द्धिः स्याच्छुक्रप्राणगते बुधे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Mercury's prāṇa within Venus's: contentment, honour from the king, wealth of land in many directions, and constant growth of enthusiasm.",
+          "hindi": "शुक्र में बुध की प्राण दशा: सन्तोष, राजसम्मान, नाना दिशाओं में भूमि-सम्पत्ति, और नित्य उत्साह की वृद्धि।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 81 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 81 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 82,
           "text": "जीवितात्मयशोहानिर्धनधान्यपरिक्षयः ।\nत्यागभोगधनानि स्युः शुक्रप्राणगते ध्वजे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ketu's prāṇa within Venus's: loss of life, of self and of fame, decline of wealth and grain; there would be giving, enjoyment and wealth [the second line contradicts the first, as the text reads].",
+          "hindi": "शुक्र में केतु की प्राण दशा: जीवन, आत्मा और यश की हानि, धन-धान्य का क्षय; त्याग, भोग और धन होंगे [दूसरी पंक्ति पहली के विपरीत, पाठ जैसा है]।",
+          "status": "translated",
           "tags": [
             "chain:jupiter_with_venus",
             "graha:jupiter",
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 82 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 82 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 83,
           "text": "एवमृक्षदशानां हि सान्तरागां मया द्विज ।\nफलानि कथितान्यत्र संक्षेपादेव तेऽग्रतः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Thus, O twice-born, have I told you here, before you, in brief, the results of the nakṣatra daśās together with their sub-periods.",
+          "hindi": "हे द्विज, इस प्रकार मैंने यहाँ तुम्हारे सामने अन्तर्दशाओं सहित नक्षत्र दशाओं के फल संक्षेप में कहे।",
+          "status": "translated",
           "tags": [
             "entity:dasha"
-          ],
-          "english_draft": "Verse 83 of chapter 63: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 63 के श्लोक 83 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
