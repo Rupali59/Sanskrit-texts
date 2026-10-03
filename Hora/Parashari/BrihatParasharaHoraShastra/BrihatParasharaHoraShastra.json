@@ -44160,22 +44160,22 @@
         {
           "number": 1,
           "text": "बहुधा भवता प्रोक्तं यज्जातकफलं मुने ।\nतन्नारीणां कथं ज्ञेयमिति मे कथयाऽधुना",
-          "english": "Maitreya asks: O Sage, you have explained the results of birth charts in general. Now, please tell me specifically how to analyze a female's horoscope.",
-          "hindi": "मैत्रेय पूछते हैं: हे मुनि, आपने सामान्य रूप से जन्म कुण्डली के फलों की व्याख्या की है। अब, कृपया मुझे विशेष रूप से बताएँ कि स्त्री की जन्मकुण्डली का विश्लेषण कैसे किया जाए।",
+          "english": "[Maitreya:] O sage, you have stated the results of nativities in many ways; tell me now how they are to be known for women.",
+          "hindi": "[मैत्रेय:] हे मुनि, आपने जातक-फल अनेक प्रकार से कहा; अब बताइए कि वह स्त्रियों के लिए कैसे जानें।",
           "status": "translated"
         },
         {
           "number": 2,
           "text": "साधु पृष्टं त्वया विप्र तदपि प्रवदाम्यहम् ।\nस्त्रीणां पुंभिः समं ज्ञेयं फलमुक्तं विपश्चिता",
-          "english": "Parasara replies: The results for females are generally the same as for males. However, there are specific points that need special attention.",
-          "hindi": "पराशर उत्तर देते हैं: स्त्रियों के लिए फल आम तौर पर पुरुषों के समान ही होते हैं। हालाँकि, कुछ विशिष्ट बिन्दु हैं जिन पर विशेष ध्यान देने की आवश्यकता है।",
+          "english": "[Parāśara:] You have asked well, O Brahmin; that too I shall tell. The results for women are to be known as the same as those the learned have stated for men.",
+          "hindi": "[पराशर:] हे विप्र, तुमने अच्छा पूछा; वह भी मैं कहता हूँ। स्त्रियों का फल विद्वानों द्वारा पुरुषों के लिए कहे गए फल के समान जानें।",
           "status": "translated"
         },
         {
           "number": 3,
           "text": "विशेषस्तत्र यो दृष्टः संक्षेपात् कथयामि तत् ।\nलग्ने देहफलं तस्याः पञ्चमे प्रसवस्तथा",
-          "english": "For a female, her physical appearance is seen from the Lagna, and her children from the 5th house.",
-          "hindi": "स्त्री के लिए, उसका शारीरिक रूप लग्न से और उसकी सन्तान 5वें भाव से देखी जाती है।",
+          "english": "The special points seen there I shall tell in brief. From the lagna, her bodily results; from the 5th, childbirth;",
+          "hindi": "वहाँ जो विशेष देखा गया है, वह संक्षेप में कहता हूँ। लग्न से उसका देह-फल; पंचम से प्रसव;",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -44186,8 +44186,8 @@
         {
           "number": 4,
           "text": "सप्तमे पतिसौभाग्यं वैधव्यं निधने द्विज ।\nस्त्रीणामसम्भवं यद्यत् तत्फलं तत्पतौ वदेत्",
-          "english": "The 7th house indicates her husband's prosperity and her relationship with him, while the 8th house indicates widowhood or longevity of the husband.",
-          "hindi": "7वाँ भाव उसके पति की समृद्धि और उसके साथ उसके सम्बन्ध को इंगित करता है, जबकि 8वाँ भाव वैधव्य या पति की आयु को इंगित करता है।",
+          "english": "from the 7th, her good fortune in a husband; from the 8th, widowhood, O twice-born. Whatever result is impossible for women, declare it for her husband.",
+          "hindi": "सप्तम से पति-सौभाग्य; अष्टम से वैधव्य, हे द्विज। स्त्रियों के लिए जो-जो फल असम्भव हो, वह उसके पति के लिए कहें।",
           "status": "translated",
           "tags": [
             "bhava:2",
@@ -44198,8 +44198,8 @@
         {
           "number": 5,
           "text": "लग्नेन्दू समभे यस्याः सा नारी प्रकृतिस्थिता ।\nकन्योचितगुणोपेता सुशीला शुभलक्षणा",
-          "english": "If the Lagna and the Moon are in even signs, the woman will have a steady nature, good character, and feminine qualities.",
-          "hindi": "यदि लग्न और चन्द्रमा सम राशियों में हों, तो स्त्री का स्वभाव स्थिर, चरित्र अच्छा और स्त्रीोचित गुण होंगे।",
+          "english": "She whose lagna and Moon are in even signs is a woman true to her nature, endowed with the qualities befitting a maiden, of good conduct and with auspicious marks.",
+          "hindi": "जिसके लग्न और चन्द्र सम राशि में हों, वह नारी प्रकृतिस्थ, कन्योचित गुणों से युक्त, सुशीला और शुभ लक्षणों वाली होती है।",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -44210,8 +44210,8 @@
         {
           "number": 6,
           "text": "शुभेक्षितौ सुरूपा च सदा देहसुखान्विता ।\nविषमे पुरुषाकारा दुःशीला पापवीक्षितौ",
-          "english": "If they are aspected by benefic planets, she will be beautiful and enjoy physical comforts. If in odd signs and aspected by malefics, she may have masculine traits and a difficult character.",
-          "hindi": "यदि वे शुभ ग्रहों द्वारा देखे जाते हों, तो वह सुन्दर होगी और शारीरिक सुखों का आनन्द लेगी। यदि विषम राशियों में हों और पाप ग्रहों द्वारा देखे जाते हों, तो उसमें पुरुषोचित गुण और कठिन चरित्र हो सकता है।",
+          "english": "If both are aspected by benefics, she is beautiful and always endowed with bodily happiness. In odd signs, of masculine form; if both are aspected by malefics, of bad conduct.",
+          "hindi": "दोनों शुभग्रहों से दृष्ट हों तो सुरूपा और सदा देह-सुख से युक्त; विषम राशि में पुरुषाकार; पापग्रहों से दृष्ट हों तो दुःशीला।",
           "status": "translated",
           "tags": [
             "rel:aspect",
@@ -44221,8 +44221,8 @@
         {
           "number": 7,
           "text": "पापाढ्यौ च गुणैर्हीना मिश्रे मिश्रफलं वदेत् ।\nलग्नेन्द्वोर्यो बली तस्य फलं तस्य विशेषतः",
-          "english": "The predictions should be based primarily on the stronger of the Lagna and the Moon.",
-          "hindi": "भविष्यवाणियाँ मुख्य रूप से लग्न और चन्द्रमा में से जो अधिक बलवान हो, उस पर आधारित होनी चाहिए।",
+          "english": "If both are full of malefics, she is without virtues; with mixed, declare mixed results. Whichever of the lagna and the Moon is stronger, its result applies especially.",
+          "hindi": "यदि दोनों पापग्रहों से भरे हों, तो वह गुणहीन; मिश्र में मिश्र फल कहें। लग्न और चन्द्र में जो बली हो, उसका फल विशेष रूप से।",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -44233,8 +44233,8 @@
         {
           "number": 8,
           "text": "लग्नेन्द्वोर्यो बली विप्र त्रिंशांशैस्तदधिष्ठितैः ।\nग्रहराशिवशाद् वाच्यं फलं स्त्रीणां विशेषतः",
-          "english": "The Trimsamsa (30th division) of the stronger of Lagna or Moon provides detailed insights into a woman's character and fate.",
-          "hindi": "लग्न या चन्द्रमा में से जो अधिक बलवान हो, उसका त्रिंशांश (30वाँ भाग) स्त्री के चरित्र और भाग्य के बारे में विस्तृत जानकारी प्रदान करता है।",
+          "english": "Whichever of the lagna and the Moon is stronger, O Brahmin, by the triṃśāṁśas it occupies, the results for women are to be declared especially, according to planet and sign.",
+          "hindi": "हे विप्र, लग्न और चन्द्र में जो बली हो, उसके अधिष्ठित त्रिंशांशों से, ग्रह और राशि के वश, स्त्रियों का फल विशेष रूप से कहें।",
           "status": "translated",
           "tags": [
             "bhava:1",
@@ -44245,8 +44245,8 @@
         {
           "number": 9,
           "text": "कन्यैवारगृहे दुष्टा भौमत्रिंशांशके भवेत् ।\nकुचरित्रा तथा शौक्रे समाया बोधने स्मृता",
-          "english": "In a sign of Mars: Mars Trimsamsa makes her unruly; Venus Trimsamsa gives a questionable character; Mercury Trimsamsa makes her deceitful.",
-          "hindi": "मंगल की राशि में: मंगल का त्रिंशांश उसे अनियंत्रित बनाता है; शुक्र का त्रिंशांश संदेहास्पद चरित्र देता है; बुध का त्रिंशांश उसे कपटी बनाता है।",
+          "english": "[In a sign of Mars:] in Mars's triṃśāṁśa, corrupt even as a maiden; likewise in Venus's, of bad conduct; in Mercury's [reading बोधने as बौधे], deceitful —",
+          "hindi": "[मंगल की राशि में:] मंगल के त्रिंशांश में कन्या अवस्था में ही दुष्टा; वैसे ही शुक्र के में कुचरित्रा; बुध के में [बोधने को बौधे पढ़ा] मायावी —",
           "status": "translated",
           "tags": [
             "bhava:2",
@@ -44258,155 +44258,133 @@
         {
           "number": 10,
           "text": "जैवे साध्वी शनौ दासी ज्ञर्क्षे कौजे छलान्विता ।\nशौक्रे प्रकीर्णकामा सा बौधेंऽशे च गुणान्विता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 10 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "in Jupiter's, virtuous; in Saturn's, a servant. [In a sign of Mercury:] in Mars's, full of deceit; in Venus's, of scattered desires; in Mercury's, endowed with virtues;",
+          "hindi": "गुरु के में साध्वी; शनि के में दासी। [बुध की राशि में:] मंगल के में छल से युक्त; शुक्र के में बिखरी कामना वाली; बुध के अंश में गुणवती;",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "क्लीबाऽर्क्यंशे सती जैवे कौजै दुष्टा सितर्क्षके ।\nशौक्रे ख्यातगुणा बौधे कलासु निपुणा भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in Saturn's, sexless; in Jupiter's, chaste. [In a sign of Venus:] in Mars's, corrupt; in Venus's, of renowned virtues; in Mercury's, skilled in the arts;",
+          "hindi": "शनि के में क्लीबा; गुरु के में सती। [शुक्र की राशि में:] मंगल के में दुष्टा; शुक्र के में प्रसिद्ध गुणों वाली; बुध के में कलाओं में निपुण;",
+          "status": "translated",
           "tags": [
             "rel:modality"
-          ],
-          "english_draft": "Verse 11 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "जैवे गुणवती मान्दे पुनर्भूश्चन्द्रभे ततः ।\nस्वतन्त्रा कुजात्रिंशांशे शौक्रे च कुलपांसना",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in Jupiter's, virtuous; in Saturn's, remarried [punarbhū]. Then, [in the Moon's sign:] in Mars's triṃśāṁśa, independent; in Venus's, a disgrace to the family;",
+          "hindi": "गुरु के में गुणवती; शनि के में पुनर्भू। फिर [चन्द्र की राशि में:] मंगल के त्रिंशांश में स्वतन्त्रा; शुक्र के में कुल को कलंकित करने वाली;",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "graha:mars",
             "graha:moon"
-          ],
-          "english_draft": "Verse 12 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
           "text": "बौधे शिल्पकलाऽभिज्ञा जैवे बहुगुणा शनौ ।\nपतिघ्नी चार्कभे कौजे वाचाला भार्गवे सती",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in Mercury's, skilled in crafts and arts; in Jupiter's, of many virtues; in Saturn's, a husband-killer. [In the Sun's sign:] in Mars's, talkative; in Venus's, chaste;",
+          "hindi": "बुध के में शिल्प और कला की ज्ञाता; गुरु के में बहुगुणा; शनि के में पतिघ्नी। [सूर्य की राशि में:] मंगल के में वाचाल; शुक्र के में सती;",
+          "status": "translated",
           "tags": [
             "graha:venus",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 13 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 14,
           "text": "बौधे पुंश्चेष्टिता जैवे राज्ञी मान्दे कुलच्युता ।\nकौजे बहुगुणाऽर्यर्क्षे शौक्रे चाप्यसती मता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in Mercury's, of masculine behaviour; in Jupiter's, a queen; in Saturn's, fallen from her family. [In a sign of Jupiter:] in Mars's, of many virtues; in Venus's, held to be unchaste;",
+          "hindi": "बुध के में पुरुष-जैसी चेष्टा वाली; गुरु के में रानी; शनि के में कुल से च्युत। [गुरु की राशि में:] मंगल के में बहुगुणा; शुक्र के में असती मानी गई;",
+          "status": "translated",
           "tags": [
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 14 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 14 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 15,
           "text": "बौधे विज्ञानसंयुता जैवेऽनेकगुणान्विता ।\nमान्दे चाल्परतिः प्रोक्ता दासी कौजे तथाऽर्किभे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in Mercury's, endowed with knowledge; in Jupiter's, of many virtues; in Saturn's, said to have little desire. [In a sign of Saturn:] in Mars's, a servant;",
+          "hindi": "बुध के में विज्ञान से युक्त; गुरु के में अनेक गुणों वाली; शनि के में अल्प रति वाली कही गई। [शनि की राशि में:] मंगल के में दासी;",
+          "status": "translated",
           "tags": [
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 15 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 16,
           "text": "सुप्रज्ञा च भवेच्छौक्रे बौधे दुःस्था तथा खला ।\nजैवे पतिव्रता प्रोक्ता मान्दे नीचजनानुगा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in Venus's, very intelligent [reading uncertain: सुप्रज्ञा; perhaps अप्रजा, 'childless']; in Mercury's, miserable and wicked; in Jupiter's, said to be devoted to her husband; in Saturn's, a follower of low people.",
+          "hindi": "शुक्र के में सुप्रज्ञा [पाठ अनिश्चित: सम्भवतः अप्रजा, 'सन्तानहीन']; बुध के में दुःखी और खल; गुरु के में पतिव्रता कही गई; शनि के में नीच जनों की अनुगामिनी।",
+          "status": "translated",
           "tags": [
             "rel:dignity",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 16 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 16 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 17,
           "text": "मन्दे शून्ये शुभादृष्टे पतिः कापुरुषो भवेत् ।\nचरभे च प्रवासी स्यात् क्लीवस्तत्र ज्ञमन्दयोः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 7th [reading मन्दे as मदे] is empty and unaspected by benefics, the husband is a contemptible man; if it is a movable sign, he lives abroad; with Mercury and Saturn there, impotent.",
+          "hindi": "यदि सप्तम [मन्दे को मदे पढ़ा] शून्य हो और शुभग्रहों से अदृष्ट हो, तो पति कापुरुष होता है; चर राशि हो तो प्रवासी; वहाँ बुध और शनि हों तो नपुंसक।",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "rel:aspect",
             "rel:lordship",
             "rel:modality",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 17 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 17 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 18,
           "text": "सूर्येऽस्तभे पतित्यक्ता बाल्ये च विधवा कुजे ।\nशनावशुभसन्दृष्टे याति कन्यैव वृद्धताम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With the Sun in the 7th, abandoned by the husband; with Mars, widowed in childhood; with Saturn [there] aspected by malefics, she grows old a maiden.",
+          "hindi": "सप्तम में सूर्य हो तो पति द्वारा त्यक्ता; मंगल हो तो बाल्य में विधवा; [वहाँ] शनि पापग्रहों से दृष्ट हो तो कन्या ही वृद्धा होती है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "graha:sun",
             "rel:aspect",
             "rel:lordship",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 18 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 18 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 19,
           "text": "विधवास्तगतैः पापैः सौम्यैस्तु सधवा सती ।\nमिश्रखेटैः पूनर्भूः सा ज्ञेया मिश्रफलान्विता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With malefics in the 7th, a widow; with benefics, a wife whose husband lives, and chaste; with mixed planets she is to be known as remarried, with mixed results.",
+          "hindi": "सप्तम में पापग्रह हों तो विधवा; शुभग्रह हों तो सधवा और सती; मिश्र ग्रहों से वह पुनर्भू, मिश्र फल वाली जानें।",
+          "status": "translated",
           "tags": [
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 19 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 19 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 20,
           "text": "मिथोंऽशस्थौ सितारौ चेदन्यासक्ता तदाऽङ्गना ।\nसप्तमे च स्थिते चन्द्रे तदा भर्तुरनुज्ञ्या",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Venus and Mars are in each other's navāṁśas, the woman is attached to another; and if the Moon is then in the 7th, [she is so] with her husband's consent [reading अनुज्ञ्या as अनुज्ञया].",
+          "hindi": "यदि शुक्र और मंगल परस्पर नवांश में हों, तो स्त्री अन्य में आसक्त; और तब चन्द्र सप्तम में हो, तो पति की अनुज्ञा [अनुज्ञ्या को अनुज्ञया पढ़ा] से।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "graha:moon",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 20 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 20 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 21,
           "text": "शुक्रभे शनिभे वापि सेन्दुशुक्रे च लग्नगे ।\nमात्रा सह तदा नारी वन्धकी भवति ध्रुवम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In a sign of Venus or of Saturn, with the Moon and Venus in the lagna, the woman, together with her mother, certainly becomes unchaste.",
+          "hindi": "शुक्र की या शनि की राशि में, चन्द्र और शुक्र लग्न में हों, तो वह स्त्री माता सहित निश्चय ही बन्धकी होती है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "chain:venus_pos1",
@@ -44414,177 +44392,151 @@
             "graha:venus",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 21 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 21 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 22,
           "text": "कुजर्क्षे वा तदंशेऽस्ते स्त्रीलोलः क्रोधनः पतिः ।\nबौधर्क्षांशे तथा विद्वान् कलासु निपुणः सुधीः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 7th is a sign or a navāṁśa of Mars, the husband is fond of women and wrathful; if a sign [or] navāṁśa of Mercury, he is learned, skilled in the arts and wise.",
+          "hindi": "यदि सप्तम मंगल की राशि या उसका नवांश हो, तो पति स्त्री-लोलुप और क्रोधी; बुध की राशि-नवांश हो तो विद्वान, कलाओं में निपुण और बुद्धिमान।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 22 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 22 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 23,
           "text": "जैवे सर्वगुणोपेतः पतिरस्ते जितेन्द्रियः ।\nशौक्रे सौभाग्यसंयुक्तः कान्तः स्त्रीजनवल्लभः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Jupiter's [sign or navāṁśa] is in the 7th, the husband has every virtue and has mastered his senses; if Venus's, he is fortunate, handsome and beloved of women.",
+          "hindi": "सप्तम में गुरु का [राशि/नवांश] हो तो पति सर्वगुण-सम्पन्न और जितेन्द्रिय; शुक्र का हो तो सौभाग्यशाली, सुन्दर और स्त्रियों का प्रिय।",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 23 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 23 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 24,
           "text": "सौरेर्क्ष वाथ सौरांशे वृद्धो मूर्खश्च सप्तमे ।\nअतीवामृदुरर्कांशे तदृक्षेवाऽतिकर्मकृत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If a sign of Saturn or a navāṁśa of Saturn is in the 7th, old and foolish; if the Sun's navāṁśa or its sign, extremely harsh and given to overwork [Bṛhajjātaka has अतिमृदुः, 'very gentle'; this text reads अतीवामृदुः].",
+          "hindi": "यदि सप्तम में शनि की राशि या शनि का नवांश हो, तो वृद्ध और मूर्ख; सूर्य का नवांश या उसकी राशि हो तो अत्यन्त कठोर और अति कर्म करने वाला [बृहज्जातक में अतिमृदुः, 'अति कोमल'; यह पाठ अतीवामृदुः]।",
+          "status": "translated",
           "tags": [
             "bhava:7"
-          ],
-          "english_draft": "Verse 24 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 24 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 25,
           "text": "अस्ते कर्के तदंशे वा कान्तः कामी मृदुः पतिः ।\nमिश्रे मिश्रफलं वाच्यं भांशयोश्च बलक्रमात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the 7th is Cancer or its navāṁśa, the husband is handsome, amorous and gentle. With mixed, declare mixed results, by the strength of sign and navāṁśa in order.",
+          "hindi": "यदि सप्तम कर्क या उसका नवांश हो, तो पति सुन्दर, कामी और मृदु। मिश्र में राशि और नवांश के बल-क्रम से मिश्र फल कहें।",
+          "status": "translated",
           "tags": [
             "rashi:karka",
             "rel:lordship",
             "rel:state"
-          ],
-          "english_draft": "Verse 25 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 25 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 26,
           "text": "सूर्येऽष्टमगते जाता दुःखदारिद्र्यसंयुता ।\nक्षताङ्गी खेदयुक्ता च भवेद्धर्मपराङ्मुखी",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "One born with the Sun in the 8th is beset by sorrow and poverty, injured in body, full of distress, and averse to dharma.",
+          "hindi": "अष्टम में सूर्य हो तो जन्मी स्त्री दुःख और दरिद्रता से युक्त, क्षत-अंगी, खेद-युक्त और धर्म से विमुख होती है।",
+          "status": "translated",
           "tags": [
             "graha:sun",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 26 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 26 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 27,
           "text": "चन्द्रेऽष्टमगते नारी कुभगा कुस्तनो कुदृग् ।\nवस्त्राभरणहीना च रोगिणी चातिगर्हिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With the Moon in the 8th, the woman is ill-fated, with ill-formed breasts and poor eyes, without clothes and ornaments, sickly and much despised.",
+          "hindi": "अष्टम में चन्द्र हो तो स्त्री दुर्भाग्यशाली, कुरूप स्तनों और कुदृष्टि वाली, वस्त्र-आभूषण से हीन, रोगिणी और अति निन्दित होती है।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "rel:position"
-          ],
-          "english_draft": "Verse 27 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 27 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 28,
           "text": "कुजेऽष्टमगते बाला कृशाङ्गी रोगसंयुता ।\nविधवा कान्तिहीना च शोकसन्तापदुःखिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Mars in the 8th, the girl is thin-bodied and diseased, widowed, without lustre, and afflicted by grief, torment and sorrow.",
+          "hindi": "अष्टम में मंगल हो तो कन्या दुबली, रोगी, विधवा, कान्तिहीन, और शोक, सन्ताप तथा दुःख से पीड़ित होती है।",
+          "status": "translated",
           "tags": [
             "graha:mars",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 28 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 28 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 29,
           "text": "बुधेष्टमगते जाता धर्महीना भयातुरा ।\nअभिमानधनैर्हीना निर्गुणा कलहप्रिया",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Mercury in the 8th, one born is without dharma, fearful, without pride and wealth, without virtues, and fond of quarrels.",
+          "hindi": "अष्टम में बुध हो तो जन्मी स्त्री धर्महीन, भयभीत, अभिमान और धन से हीन, निर्गुण और कलहप्रिय होती है।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:position"
-          ],
-          "english_draft": "Verse 29 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 29 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 30,
           "text": "गुरावष्टमगे बाला विशीला स्वल्पसन्ततिः ।\nपृथुवादकरा पत्या त्यक्ता बह्वशना भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Jupiter in the 8th, the girl is ill-behaved, with few children, given to loud talk, abandoned by her husband, and a heavy eater.",
+          "hindi": "अष्टम में गुरु हो तो कन्या कुशील, अल्प सन्तान वाली, बहुत बोलने वाली, पति द्वारा त्यक्ता और बहुत खाने वाली होती है।",
+          "status": "translated",
           "tags": [
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 30 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 30 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 31,
           "text": "शुक्रेऽष्टमगते जाता प्रमत्ता धनवर्जिता ।\nनिर्दया धर्महीना च मलिना कपटान्विता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Venus in the 8th, one born is heedless, without wealth, pitiless, without dharma, unclean and deceitful.",
+          "hindi": "अष्टम में शुक्र हो तो जन्मी स्त्री प्रमत्त, धनहीन, निर्दय, धर्महीन, मलिन और कपटी होती है।",
+          "status": "translated",
           "tags": [
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 31 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 31 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 32,
           "text": "शनावष्टमगे जाता दुःस्वभावा मलिम्लुचा ।\nप्रवंचनपरा नारी भवेत् पतिसुखोज्ज्ञिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Saturn in the 8th, one born is of bad nature, a thief, given to deceiving, and deprived of happiness from her husband.",
+          "hindi": "अष्टम में शनि हो तो जन्मी स्त्री दुष्ट स्वभाव वाली, चोर, ठगने में तत्पर और पति-सुख से रहित होती है।",
+          "status": "translated",
           "tags": [
             "rel:lordship",
             "rel:modality",
             "rel:position"
-          ],
-          "english_draft": "Verse 32 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 32 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 33,
           "text": "राहावष्टमभावस्थे कुरूपा पतिवर्जिता ।\nकठोरहृदया रोगैर्युक्ता च व्यभिचारिणी",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Rāhu in the 8th house, ugly, without a husband, hard-hearted, diseased and unchaste.",
+          "hindi": "अष्टम भाव में राहु हो तो कुरूपा, पतिहीन, कठोर-हृदया, रोगी और व्यभिचारिणी।",
+          "status": "translated",
           "tags": [
             "entity:bhava",
             "rel:conjunction",
             "rel:lordship",
             "rel:position"
-          ],
-          "english_draft": "Verse 33 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 33 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 34,
           "text": "शशिशुक्रौ यदा लग्ने मन्दराभ्यां युतौ तदा ।\nबन्ध्या भवति सा नारी सुतभे पापदृग्युते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When the Moon and Venus are in the lagna joined with Saturn and Mars, and the 5th has malefics aspecting and joining it, that woman is barren.",
+          "hindi": "जब चन्द्र और शुक्र लग्न में शनि और मंगल से युत हों, और पंचम पापग्रहों से दृष्ट और युत हो, तो वह स्त्री बन्ध्या होती है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:moon",
@@ -44593,16 +44545,14 @@
             "rel:conjunction",
             "rel:modality",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 34 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 34 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 35,
           "text": "कुजांशेस्तगते सौरिदृष्टे नारी सरुग्भगा ।\nशुभांशे सप्तमे ज्ञेया सुभगा पतिवल्लभा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With the 7th in a navāṁśa of Mars and aspected by Saturn, the woman has a diseased yoni; with a benefic navāṁśa in the 7th she is fortunate and dear to her husband.",
+          "hindi": "सप्तम मंगल के नवांश में हो और शनि से दृष्ट हो, तो स्त्री रोगयुक्त योनि वाली; सप्तम में शुभ नवांश हो तो सौभाग्यवती और पतिप्रिया।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "graha:mars",
@@ -44611,16 +44561,14 @@
             "rel:lordship",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 35 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 35 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 36,
           "text": "बुधभे लग्नगे सूतौ चन्द्रशुक्रयुते द्विज ।\nज्ञेया पितृगृहे नारी सा सर्वसुखसंयुता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When at birth a sign of Mercury is in the lagna, joined with the Moon and Venus, O twice-born, the woman is to be known as [living] in her father's house, endowed with every happiness.",
+          "hindi": "हे द्विज, जब जन्म में बुध की राशि लग्न में हो, चन्द्र और शुक्र से युत, तो वह स्त्री पिता के घर में सर्व सुखों से युक्त जानें।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "chain:mercury_pos1",
@@ -44629,46 +44577,40 @@
             "graha:venus",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 36 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 36 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 37,
           "text": "लग्ने चन्द्रज्ञशुक्रेषु बहुसौख्यगुणान्विता ।\nजीव तत्रातिसम्पन्ना पुत्रवित्तसुखान्विता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With the Moon, Mercury and Venus in the lagna, endowed with great happiness and virtues; with Jupiter there, very prosperous, with sons, wealth and happiness.",
+          "hindi": "लग्न में चन्द्र, बुध और शुक्र हों तो बहुत सुख और गुणों से युक्त; वहाँ गुरु हो तो अति सम्पन्न, पुत्र, धन और सुख से युक्त।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:jupiter",
             "graha:moon",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 37 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 37 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 38,
           "text": "लग्नादष्टमगौ स्यातां चन्द्रार्कौ स्वर्क्षगौ तदा ।\nबन्ध्याऽथ काकबन्ध्या चेदेवं चन्द्रबुधौ यदा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If the Moon and the Sun are in the 8th from the lagna in their own signs, she is barren; if the Moon and Mercury are so, kākabandhyā [bearing only one child].",
+          "hindi": "यदि लग्न से अष्टम में चन्द्र और सूर्य अपनी राशियों में हों, तो बन्ध्या; यदि ऐसे ही चन्द्र और बुध हों, तो काकबन्ध्या [एक ही सन्तान वाली]।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "graha:moon",
             "rel:modality"
-          ],
-          "english_draft": "Verse 38 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 38 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 39,
           "text": "शनिमङ्गलभे लग्ने चन्द्रभार्गवसंयुते ।\nपापदृष्टे च सा नारी बन्ध्या भवति निश्चयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "When the lagna is a sign of Saturn [or] Mars, joined with the Moon and Venus and aspected by malefics, that woman is certainly barren.",
+          "hindi": "जब लग्न शनि [या] मंगल की राशि हो, चन्द्र और शुक्र से युत और पापग्रहों से दृष्ट, तो वह स्त्री निश्चय ही बन्ध्या होती है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:mars",
@@ -44678,16 +44620,14 @@
             "rel:aspect",
             "rel:conjunction",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 39 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 39 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 40,
           "text": "सराहौ सप्तमे सूर्ये पञ्चमे पापसंयुते ।\nशुक्रेज्यराहवो मृत्यौ मृतापत्या च सा भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With the Sun in the 7th together with Rāhu, the 5th joined with malefics, and Venus, Jupiter and Rāhu in the 8th, her children will die.",
+          "hindi": "राहु सहित सूर्य सप्तम में हो, पंचम पापग्रहों से युत हो, और शुक्र, गुरु तथा राहु अष्टम में हों, तो उसकी सन्तानें मरती हैं।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "bhava:7",
@@ -44696,16 +44636,14 @@
             "rel:conjunction",
             "rel:modality",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 40 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 40 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 41,
           "text": "शुक्रेज्यावष्टमे सारौ सप्तमे वा कुजो भवेत् ।\nशनिना दृग्युतो नारी गलद्गर्भा प्रकीर्तिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Venus and Jupiter are in the 8th with Mars, or Mars is in the 7th, aspected by [or] joined with Saturn, the woman is said to miscarry.",
+          "hindi": "यदि शुक्र और गुरु मंगल सहित अष्टम में हों, या मंगल सप्तम में हो, शनि से दृष्ट [या] युत, तो स्त्री गलद्गर्भा कही गई है।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "graha:mars",
@@ -44713,89 +44651,77 @@
             "graha:venus",
             "rel:conjunction",
             "rel:modality"
-          ],
-          "english_draft": "Verse 41 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 41 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 42,
           "text": "पापकर्तरिके लग्ने चन्द्रे जाता च कन्यका ।\nसमस्तं पितृवंशं च पतिवंशं हिहन्ति सा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A girl born with the lagna and the Moon hemmed in by malefics destroys the whole of her father's line and her husband's line [reading हिहन्ति as हि हन्ति].",
+          "hindi": "पापकर्तरी में लग्न और चन्द्र होने पर जन्मी कन्या सम्पूर्ण पितृवंश और पतिवंश का नाश करती है [हिहन्ति को हि हन्ति पढ़ा]।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:moon",
             "rel:lordship",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 42 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 42 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 43,
           "text": "ससर्पाग्निजलेशर्क्षे भानुमन्दारवासरे ।\nभद्रातिथौ जनुर्यस्याः सा विषाख्या कुमारिका",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "She whose birth is in Āśleṣā, Kṛttikā [or] Śatabhiṣā, on a Sunday, Saturday [or] Tuesday, on a bhadrā tithi, is a girl called viṣā.",
+          "hindi": "जिसका जन्म आश्लेषा, कृत्तिका [या] शतभिषा में, रवि, शनि [या] मंगलवार को, भद्रा तिथि में हो, वह विषा नाम की कन्या है।",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "graha:sun",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 43 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 43 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 44,
           "text": "सपापश्च शुभौ लग्ने द्वौ पापौ शत्रुभस्थितौ ।\nयस्या जनुषि सा कन्या विषाख्या परिकीर्तिता",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A girl at whose birth the two benefics are in the lagna with a malefic [reading uncertain: सपापश्च शुभौ] and two malefics stand in enemy signs is declared to be viṣā.",
+          "hindi": "जिसके जन्म में दो शुभग्रह पापग्रह सहित लग्न में हों [पाठ अनिश्चित: सपापश्च शुभौ] और दो पापग्रह शत्रु-राशि में हों, वह कन्या विषा कही गई है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "rashi:kanya",
             "rel:dignity",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 44 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 44 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 45,
           "text": "विषयोगे समुत्पन्ना मृतवत्सा च दुर्भगा ।\nवस्त्राभरणहीना च शोकसन्तप्तमानसा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "One born in viṣa-yoga loses her children, is ill-fated, without clothes and ornaments, with a mind tormented by grief.",
+          "hindi": "विषयोग में उत्पन्न मृतवत्सा, दुर्भाग्यशाली, वस्त्र-आभूषण से हीन और शोक से सन्तप्त मन वाली होती है।",
+          "status": "translated",
           "tags": [
             "entity:yoga"
-          ],
-          "english_draft": "Verse 45 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 45 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 46,
           "text": "सप्तमेशः शुभो वापि सप्तमे लग्नतोऽथवा ।\nचन्द्रतो वा विषं योगं विनिहन्ति न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A benefic lord of the 7th, or a benefic in the 7th from the lagna or from the Moon, destroys the viṣa-yoga — there is no doubt.",
+          "hindi": "शुभ सप्तमेश, या लग्न से अथवा चन्द्र से सप्तम में शुभग्रह, विषयोग का नाश करता है — इसमें संशय नहीं।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "entity:yoga",
             "graha:moon",
             "rel:lordship",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 46 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 46 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 47,
           "text": "लग्ने व्यये सुखे वापि सप्तमे चाऽष्टमे कुजे ।\nशुभदृग्योगहीने च पतिं हन्ति न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Mars in the lagna, the 12th, the 4th, the 7th or the 8th, without the aspect or conjunction of benefics, she destroys her husband — there is no doubt.",
+          "hindi": "लग्न, द्वादश, चतुर्थ, सप्तम या अष्टम में मंगल हो, शुभ दृष्टि और योग से रहित, तो वह पति का नाश करती है — इसमें संशय नहीं।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:12",
@@ -44805,121 +44731,103 @@
             "graha:mars",
             "rel:lordship",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 47 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 47 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 48,
           "text": "यस्मिन् योगे समुत्पन्ना पतिं हन्ति कुमारिका ।\nतस्मिन् योगे समुत्पन्नो पत्नीं हन्ति नरोऽपि च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In whatever yoga a girl is born who destroys her husband, a man born in that yoga also destroys his wife.",
+          "hindi": "जिस योग में जन्मी कन्या पति का नाश करती है, उसी योग में जन्मा पुरुष भी पत्नी का नाश करता है।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 48 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 48 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 49,
           "text": "स्त्रीहन्त्रा परिणीता चेत् पतिहन्त्री कुमारिका ।\nतदा वैधव्ययोगस्य भङ्गो भवति निश्चयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If a husband-killing girl is married by a wife-killing man, then the yoga of widowhood is certainly cancelled.",
+          "hindi": "यदि पतिघातिनी कन्या का विवाह स्त्रीघाती पुरुष से हो, तो वैधव्य-योग का भंग निश्चय ही होता है।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:lordship",
             "rel:modality"
-          ],
-          "english_draft": "Verse 49 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 49 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 50,
           "text": "मिथोंऽशस्थौ मिथोदृष्टौ सितार्की वा सितर्क्षके ।\nघटांशे लग्नगे नारी प्रदीप्तं मदनानलम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If Venus and Saturn are in each other's navāṁśas and aspect each other, or are in a sign of Venus, with an Aquarius navāṁśa in the lagna, the woman's blazing fire of passion —",
+          "hindi": "यदि शुक्र और शनि परस्पर नवांश में हों और परस्पर देखें, या शुक्र की राशि में हों, और लग्न में कुम्भ नवांश हो, तो स्त्री की प्रदीप्त कामाग्नि —",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "rel:aspect",
             "rel:position",
             "rel:state"
-          ],
-          "english_draft": "Verse 50 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 50 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 51,
           "text": "संशान्तिं नयति स्त्रीभिः सुखीभिर्मदनातुरा ।\nपराभिः पुरुषाकारस्थितभिर्द्विजसत्तम",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "she, tormented by desire, quenches with other women, happy ones, who take on a man's form, O best of the twice-born.",
+          "hindi": "वह कामातुर, हे द्विजश्रेष्ठ, पुरुष-आकार में स्थित अन्य सुखी स्त्रियों से शान्त करती है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 51 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 51 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 52,
           "text": "कुजज्ञगुरुशुक्रैश्च बलिभिः समभे तनौ ।\nकुशलाऽनेकशास्त्रेषु सा नारी ब्रह्मवादिनी",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With Mars, Mercury, Jupiter and Venus strong and the lagna in an even sign, the woman is skilled in many śāstras and a brahmavādinī.",
+          "hindi": "मंगल, बुध, गुरु और शुक्र बलवान हों और लग्न सम राशि में हो, तो वह स्त्री अनेक शास्त्रों में कुशल और ब्रह्मवादिनी होती है।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:venus"
-          ],
-          "english_draft": "Verse 52 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 52 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 53,
           "text": "क्रूरे सप्तमगे कश्चित् खेचरो नवमे यदि ।\nसा प्रव्रज्यां तदाप्नोति पापखेचरसंभवाम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With a cruel planet in the 7th, if some planet is in the 9th, she then attains renunciation of the kind arising from the malefic planet.",
+          "hindi": "सप्तम में क्रूर ग्रह हो, और यदि नवम में कोई ग्रह हो, तो वह पापग्रह से उत्पन्न प्रव्रज्या पाती है।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "rel:modality",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 53 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 53 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 54,
           "text": "विलग्नादष्टमे सौम्ये पापदृग्योगवर्जिते ।\nमृत्युः प्रागेव विज्ञेयस्तस्य मृत्युर्न संशयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With a benefic in the 8th from the lagna, free from malefic aspect and conjunction, her death is to be known as coming first, before his — there is no doubt.",
+          "hindi": "लग्न से अष्टम में शुभग्रह हो, पापग्रह की दृष्टि और योग से रहित, तो उसकी मृत्यु पति से पहले जानें — इसमें संशय नहीं।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 54 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 54 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 55,
           "text": "अष्टमे शुभपापौ चेत् स्यातां तुल्यबलौ यदा ।\nसह भर्त्रा तदा मृत्युं प्राप्त्वा स्वर्याति निश्चयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If a benefic and a malefic of equal strength are in the 8th, she meets death together with her husband and certainly goes to heaven.",
+          "hindi": "यदि अष्टम में समान बल वाले शुभ और पापग्रह हों, तो वह पति के साथ मृत्यु पाकर निश्चय ही स्वर्ग जाती है।",
+          "status": "translated",
           "tags": [
             "bhava:8",
             "rel:modality",
             "rel:polarity",
             "rel:state"
-          ],
-          "english_draft": "Verse 55 of chapter 80: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 80 के श्लोक 55 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
@@ -45755,8 +45663,8 @@
         {
           "number": 2,
           "text": "अङ्गनानां च वामांगे दक्षिणाङ्गे नृणां शुभम् ।\nरक्ताभं तिलकाभं वा लोम्नां चक्रमथापि वा",
-          "english": "O Brahmin! For women, these signs on the left side of the body are auspicious, while for men, they are auspicious on the right side.",
-          "hindi": "हे विप्र! स्त्रियों के लिए शरीर के बाएं भाग के चिह्न शुभ होते हैं, जबकि पुरुषों के लिए दाएं भाग के चिह्न शुभ माने गए हैं।",
+          "english": "For women [marks] on the left side of the body, and for men on the right, are auspicious — whether reddish, mole-like, or a whorl of hair.",
+          "hindi": "स्त्रियों के बाएँ अंग में और पुरुषों के दाहिने अंग में [चिह्न] शुभ हैं — लाल-सा, तिल-सा, या रोमों का चक्र।",
           "status": "translated",
           "tags": [
             "rel:polarity",
@@ -45766,154 +45674,128 @@
         {
           "number": 3,
           "text": "तिलादिलांछनं स्त्रीणां हृदि सौभाग्यसूचकम् ।\nयस्या दक्षिणवक्षोजे रक्ते तिलकलांछने",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 3 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 3 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "A mole or other mark on a woman's chest indicates good fortune. She who has a red mole-mark on the right breast —",
+          "hindi": "स्त्रियों के हृदय पर तिल आदि चिह्न सौभाग्य का सूचक है। जिसके दाहिने स्तन पर लाल तिल का चिह्न हो —",
+          "status": "translated"
         },
         {
           "number": 4,
           "text": "सा सन्ततिततिं सूते सुखसौभाग्यसंयुताम् ।\nरक्ताभं तिलकं यस्याः स्त्रिया वामे स्तने भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "gives birth to a host of children, endowed with happiness and good fortune. A woman who has a reddish mole on the left breast —",
+          "hindi": "वह सुख और सौभाग्य से युक्त सन्तानों की पंक्ति को जन्म देती है। जिस स्त्री के बाएँ स्तन पर लाल-सा तिल हो —",
+          "status": "translated",
           "tags": [
             "rel:conjunction",
             "rel:modality"
-          ],
-          "english_draft": "Verse 4 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 4 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 5,
           "text": "एक एव सुतस्तस्या भवतीत विदो विदुः ।\nपुत्रीपुत्रयुता ज्ञेया तिलके दक्षिणे स्तने",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "will have only one son, so the knowing know [reading भवतीत as भवतीति]. With a mole on the right breast, she is to be known as having daughters and sons.",
+          "hindi": "उसका एक ही पुत्र होता है, ऐसा ज्ञानी जानते हैं [भवतीत को भवतीति पढ़ा]। दाहिने स्तन पर तिल हो तो पुत्री-पुत्र से युक्त जानें।",
+          "status": "translated",
           "tags": [
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 5 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 5 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 6,
           "text": "भ्रुवोर्मध्ये ललाटे वा लांछनं राजसूचकम् ।\nकपोले मशको रक्तो नित्यं मिष्ठान्नदायकम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A mark between the brows or on the forehead indicates royalty. A red mole on the cheek always gives sweet food.",
+          "hindi": "भौहों के बीच या ललाट पर चिह्न राजत्व का सूचक है। गाल पर लाल मसा नित्य मिष्ठान्न देने वाला है।",
+          "status": "translated",
           "tags": [
             "entity:dasha"
-          ],
-          "english_draft": "Verse 6 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 7,
           "text": "भगस्य दक्षिणे भागे लांछनं यदि योषितः ।\nसा हि पृथ्वीपतेः पत्नी सूते वा भूपतिं सुतम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If a woman has a mark on the right side of her yoni, she becomes the wife of a king, or bears a son who becomes king.",
+          "hindi": "यदि स्त्री की योनि के दाहिने भाग में चिह्न हो, तो वह राजा की पत्नी होती है, या राजा बनने वाले पुत्र को जन्म देती है।",
+          "status": "translated",
           "tags": [
             "rel:lordship",
             "rel:modality"
-          ],
-          "english_draft": "Verse 7 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
           "text": "नासाग्रे लाञ्छने रक्तं राजपत्न्याः प्रजायते ।\nकृष्णवर्णं तु यस्याः सा पुंश्चलि विधवाऽथ वा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 8 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "A red mark at the tip of the nose occurs for a queen; she who has a black one is unchaste, or a widow.",
+          "hindi": "नासिका के अग्रभाग पर लाल चिह्न रानी का होता है; जिसका काला हो, वह पुंश्चली या विधवा होती है।",
+          "status": "translated"
         },
         {
           "number": 9,
           "text": "नाभेरधो नृणां स्त्रीणां लाञ्छनं च शुभप्रदम् ।\nकर्णे गण्डे करे वाऽपि कण्ठे वाऽप्यथ लाञ्छनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A mark below the navel is auspicious for men and women. A mark on the ear, the cheek, the hand, or the throat —",
+          "hindi": "नाभि के नीचे चिह्न पुरुषों और स्त्रियों के लिए शुभ है। कान, गाल, हाथ, या कण्ठ पर चिह्न —",
+          "status": "translated",
           "tags": [
             "rel:polarity"
-          ],
-          "english_draft": "Verse 9 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
           "text": "प्राग्गर्भे पुत्रदं ज्ञेयं सुखसौभाग्यदं तथा ।\nतिलादि लाञ्छनं विप्र गुल्फगेशे च दुःखदम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "is to be known as giving a son in the first pregnancy, and likewise happiness and good fortune. A mole or other mark at the ankle [reading गुल्फगेशे as गुल्फदेशे] gives sorrow, O Brahmin.",
+          "hindi": "पहले गर्भ में पुत्र देने वाला, और वैसे ही सुख-सौभाग्य देने वाला जानें। हे विप्र, टखने के स्थान पर [गुल्फगेशे को गुल्फदेशे पढ़ा] तिल आदि चिह्न दुःख देता है।",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 10 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
           "text": "त्रिशूलाकृति चिह्न च ललाटे यदि जायते ।\nनारी राजप्रिया ज्ञेया भूपतिश्च नरो भवेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "If a mark shaped like a trident appears on the forehead, a woman is to be known as dear to the king, and a man becomes a king.",
+          "hindi": "यदि ललाट पर त्रिशूल के आकार का चिह्न हो, तो स्त्री राजप्रिया जानें, और पुरुष राजा होता है।",
+          "status": "translated",
           "tags": [
             "rel:lordship",
             "rel:modality"
-          ],
-          "english_draft": "Verse 11 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "लोम्नां प्रदक्षिणावर्तो हृदि नाभौ करे श्रुतौ ।\nदक्षपृष्ठे शुभो वस्तौ वामावर्तोऽशुभप्रदः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A clockwise whorl of hair on the chest, the navel, the hand, the ear [or] the right side of the back is auspicious; a counter-clockwise whorl on the lower belly gives inauspicious results.",
+          "hindi": "हृदय, नाभि, हाथ, कान [या] पीठ के दाहिने भाग पर रोमों का दक्षिणावर्त भँवर शुभ है; वस्ति (पेडू) पर वामावर्त अशुभ फल देता है।",
+          "status": "translated",
           "tags": [
             "rel:polarity"
-          ],
-          "english_draft": "Verse 12 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 13,
           "text": "कट्यां गुह्येऽथवाऽवर्तो स्त्रीणां दौर्भाग्यसूचकः ।\nउदरे हन्ति भर्तारं मध्यपृष्ठे च पुंश्चली",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 13 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "A whorl on the waist or the private parts indicates misfortune for women; on the belly she kills her husband; on the middle of the back, unchaste.",
+          "hindi": "कमर या गुह्य स्थान पर भँवर स्त्रियों के दुर्भाग्य का सूचक है; पेट पर हो तो पति का नाश करती है; पीठ के मध्य में हो तो पुंश्चली।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "कण्ठे ललाटे सीमन्ते मध्यभागे च मूर्धनि ।\nआवर्तो न शुभः स्त्रीणां पुसां वाऽपि द्विजोत्तम",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "A whorl on the throat, the forehead, the parting of the hair, and the middle of the head is not auspicious for women, or for men either, O best of the twice-born.",
+          "hindi": "कण्ठ, ललाट, सीमन्त, और सिर के मध्य भाग पर भँवर स्त्रियों के लिए शुभ नहीं, या पुरुषों के लिए भी नहीं, हे द्विजश्रेष्ठ।",
+          "status": "translated",
           "tags": [
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 14 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 14 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 15,
           "text": "सुलक्षणा सुचरिता अपि मन्दायुषं पतिम् ।\nदीर्घायुषं प्रकुर्वन्ति प्रमदाश्च मुदास्पदम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Women of good marks and good conduct make even a short-lived husband long-lived and an abode of joy.",
+          "hindi": "सुलक्षणा और सुचरित्रा स्त्रियाँ अल्पायु पति को भी दीर्घायु और आनन्द का आश्रय बना देती हैं।",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 15 of chapter 82: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 82 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
@@ -47552,32 +47434,28 @@
         {
           "number": 3,
           "text": "तस्मात् सुशान्तिकामो वा श्रीकामो वा सुचेतसा ।\nवृष्टायायुः पुष्टिकामो वा तेषां यज्ञं समाचरेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Therefore one who desires peace, or prosperity, or rain, long life and nourishment [reading वृष्टायायुः as वृष्ट्यायुः], should with a good mind perform their sacrifice.",
+          "hindi": "अतः जो शान्ति चाहे, या श्री चाहे, या वृष्टि, आयु और पुष्टि [वृष्टायायुः को वृष्ट्यायुः पढ़ा] चाहे, वह शुद्ध मन से उनका यज्ञ करे।",
+          "status": "translated",
           "tags": [
             "rashi:vrishabha"
-          ],
-          "english_draft": "Verse 3 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 3 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 4,
           "text": "ताभ्राच्च स्फटिकाद्रक्तचन्दनात् स्वर्णकादुभौ ।\nरजतादयसः सीसात् कांस्यात् कार्याः क्रामद् ग्रहाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The planets are to be made, in order, of copper [reading ताभ्र as ताम्र], crystal, red sandalwood, gold for both [Mercury and Jupiter], silver, iron, lead and bronze [reading क्रामद् as क्रमाद्].",
+          "hindi": "ग्रह क्रम से ताँबे [ताभ्र को ताम्र पढ़ा], स्फटिक, लाल चन्दन, दोनों [बुध और गुरु] सोने के, चाँदी, लोहे, सीसे और काँसे के बनाने चाहिए [क्रामद् को क्रमाद् पढ़ा]।",
+          "status": "translated",
           "tags": [
             "rel:modality"
-          ],
-          "english_draft": "Verse 4 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 4 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 5,
           "text": "पूर्वोक्तैः स्वस्ववर्णैर्वा पटे लेख्या द्विजोत्तमैः ।\nस्वस्वोक्तदिग्विभागेषु गन्द्याद्यैर्मण्डनेषु वा",
-          "english": "O best of Brahmins! The images of the planets should be painted on a canvas using their respective colors, or drawn on Mandalas in their respective directions using sandalwood paste, scents, and flowers.",
-          "hindi": "हे ब्राह्मणों में श्रेष्ठ! ग्रहों के चित्रों को उनके अपने-अपने रंगों से वस्त्र (कैनवास) पर अंकित करना चाहिए, या चन्दन, गन्ध और पुष्पों द्वारा मण्डलों पर उनकी अपनी-अपनी दिशाओं में अंकित करना चाहिए।",
+          "english": "Or they may be drawn on cloth by the best of the twice-born in their respective colours stated before, or on maṇḍalas in their respective directions with scents and the like.",
+          "hindi": "या श्रेष्ठ द्विजों द्वारा पूर्वोक्त अपने-अपने वर्णों से वस्त्र पर, या अपनी-अपनी दिशाओं में मण्डलों पर गन्ध आदि से अंकित किए जाएँ।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -47633,15 +47511,13 @@
         {
           "number": 10,
           "text": "गुरुशुक्रौ क्रमात् पीतश्वेतवर्णौ चतुर्भुजौ ।\nदण्डिनौ वरदौ कार्यौ साक्षसूत्रकमण्डलू",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Jupiter and Venus, in order, are to be made yellow and white in colour, four-armed, holding staffs, granting boons, with rosary and water-pot.",
+          "hindi": "गुरु और शुक्र क्रम से पीले और श्वेत वर्ण के, चार भुजाओं वाले, दण्डधारी, वरद, अक्षसूत्र और कमण्डलु सहित बनाने चाहिए।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:venus"
-          ],
-          "english_draft": "Verse 10 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 11,
@@ -47682,11 +47558,9 @@
         {
           "number": 15,
           "text": "यथावर्णं प्रदेयानि सुद्ष्पाणि वसनानि च ।\nगन्धो दीपो बलिश्चैव धूपो देयश्च गुग्गुलुः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 15 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "Flowers [reading सुद्ष्पाणि as पुष्पाणि] and garments are to be offered according to each one's colour; also scent, lamp, bali and incense — guggulu is to be offered.",
+          "hindi": "प्रत्येक के वर्ण के अनुसार पुष्प [सुद्ष्पाणि को पुष्पाणि पढ़ा] और वस्त्र अर्पित करें; और गन्ध, दीप, बलि और धूप — गुग्गुल देना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 16,
@@ -47701,8 +47575,8 @@
         {
           "number": 17,
           "text": "आकृष्णेन इमं देवा अग्निर्मूर्धा दिवः ककुत् ।\nउद्बुध्यस्वेति मन्त्रांश्च जपेदथ बृहस्पते",
-          "english": "The priest should recite the Vedic mantras appropriate for each planet, such as 'Aa Krishnena', 'Imam Deva', 'Agnir Murdha Divah Kakut', 'Udbudhyasva', and the mantra for Jupiter.",
-          "hindi": "पुरोहित को प्रत्येक ग्रह के लिए उपयुक्त वैदिक मन्त्रों का जाप करना चाहिए, जैसे 'आ कृष्णेन', 'इमं देवा', 'अग्निर्मूर्धा दिवः ककुत्', 'उद्बुध्यस्व', और इसके बाद बृहस्पति का मन्त्र।",
+          "english": "One should recite the mantras 'Ā kṛṣṇena', 'Imaṃ devā', 'Agnir mūrdhā divaḥ kakut', 'Udbudhyasva', and 'Bṛhaspate'.",
+          "hindi": "'आ कृष्णेन', 'इमं देवा', 'अग्निर्मूर्धा दिवः ककुत्', 'उद्बुध्यस्व' और 'बृहस्पते' मन्त्र जपें।",
           "status": "translated",
           "tags": [
             "graha:mercury"
@@ -47731,11 +47605,9 @@
         {
           "number": 20,
           "text": "इमाः संख्याः सहस्रघ्ना जपसंख्याः प्रकीर्तिताः ।\nक्रमादर्कादिखेटानां प्रीत्यर्थं द्विजपुङ्गव",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 20 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 20 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "These numbers, multiplied by a thousand, are declared to be the numbers of japa, in order, for the Sun and the other planets, to please them, O best of the twice-born.",
+          "hindi": "ये संख्याएँ हज़ार से गुणित, सूर्य आदि ग्रहों की प्रसन्नता के लिए, क्रम से जप-संख्याएँ कही गई हैं, हे द्विजश्रेष्ठ।",
+          "status": "translated"
         },
         {
           "number": 21,
@@ -47757,25 +47629,23 @@
         {
           "number": 23,
           "text": "गुडैदनं पायसं च हविष्यं क्षीरषाष्टिकम् ।\nदध्योदनं हविश्चूर्णं मांसं चित्रान्नमेव च",
-          "english": "The special food offerings (Naivedya) for the planets are: rice cooked with jaggery (Sun), rice pudding (Moon), wild grains (Mars), rice with milk (Mercury), curd rice (Jupiter), ghee and sweets (Venus), sesame rice (Saturn), meat or black gram (Rahu), and multi-colored rice (Ketu).",
-          "hindi": "ग्रहों के लिए विशिष्ट खाद्य भोग (नैवेद्य) हैं: गुड़-मिश्रित भात (सूर्य), खीर (चन्द्रमा), हविष्य (मंगल), दूध-मिश्रित भात (बुध), दधियोदन/दही-भात (बृहस्पति), घृत-मिश्रित अन्न (शुक्र), तिल-मिश्रित अन्न (शनि), मांस या उड़द (राहु), और चित्रान्न/रंग-बिरंगा भात (केतु)।",
+          "english": "[In order:] rice with jaggery, pāyasa, haviṣya, ṣaṣṭika rice cooked in milk, curd-rice, havis, cūrṇa, meat, and variegated rice.",
+          "hindi": "[क्रम से:] गुड़-भात, पायस, हविष्य, दूध में पका साठी चावल, दही-भात, हवि, चूर्ण, मांस, और चित्रान्न।",
           "status": "translated"
         },
         {
           "number": 24,
           "text": "दद्याद् ग्रहक्रमादेवं विप्रेभ्यो भोजनं द्विज ।\nशक्तितो वा यथालाभं देयं सत्कारपूर्वकम्",
-          "english": "O Brahmin! One should feed the Brahmins with these respective foods in the order of the planets, according to one's capacity, offering them respectfully whatever is available.",
-          "hindi": "हे द्विज! ग्रहों के क्रम के अनुसार ही ब्राह्मणों को श्रद्धापूर्वक भोजन कराना चाहिए। अपनी शक्ति के अनुसार या जो भी प्राप्त हो, उसे सत्कारपूर्वक अर्पित करना चाहिए।",
+          "english": "Thus, O twice-born, one should give food to Brahmins in the order of the planets — according to one's capacity, or as available — respectfully.",
+          "hindi": "हे द्विज, इस प्रकार ग्रह-क्रम से ब्राह्मणों को भोजन दें — शक्ति के अनुसार, या जो उपलब्ध हो — सत्कारपूर्वक।",
           "status": "translated"
         },
         {
           "number": 25,
           "text": "धेनुः शङ्खस्तथाऽनड्वान् हेम वासो हयः क्रमात् ।\nकृष्णा गौरायसं छाग एता रव्यादिदक्षिणाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 25 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 25 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "A cow, a conch, a bull, gold, cloth, a horse, a black cow, iron and a goat — these, in order, are the dakṣiṇās for the Sun and the others.",
+          "hindi": "गाय, शंख, बैल, सोना, वस्त्र, घोड़ा, काली गाय, लोहा और बकरा — ये क्रम से सूर्य आदि की दक्षिणाएँ हैं।",
+          "status": "translated"
         },
         {
           "number": 26,
@@ -47790,15 +47660,13 @@
         {
           "number": 27,
           "text": "मानवानां ग्रहाधीना उञ्छ्रायाः पतनानि च ।\nभावाऽभावौ च जगतां तस्मात् पूज्यतमा ग्रहाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The rises and falls of men depend on the planets, as do the being and non-being of the worlds; therefore the planets are the most worthy of worship.",
+          "hindi": "मनुष्यों के उत्थान और पतन ग्रहों के अधीन हैं, और जगत का भाव-अभाव भी; अतः ग्रह परम पूजनीय हैं।",
+          "status": "translated",
           "tags": [
             "entity:bhava",
             "rel:position"
-          ],
-          "english_draft": "Verse 27 of chapter 84: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 84 के श्लोक 27 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
@@ -47809,45 +47677,39 @@
         {
           "number": 1,
           "text": "अथाऽन्यत् सम्प्रवक्ष्यामि सुलग्ने सुग्रहेष्वपि ।\nयदन्यकारणेनापि भवेज्जन्माऽशुभप्रदम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Now I shall tell something else: even with a good lagna and good planets, by what other cause a birth gives inauspicious results.",
+          "hindi": "अब मैं कुछ और कहता हूँ: अच्छे लग्न और अच्छे ग्रहों के होते हुए भी, किस अन्य कारण से जन्म अशुभ फल देता है।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 1 of chapter 85: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 85 के श्लोक 1 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 2,
           "text": "दर्शे कृष्णाचतुर्दश्यां विष्ट्यां सोदरभे तथा ।\nपितृभे सूर्यसंक्रान्तौ पातेऽर्केन्दुग्रहे तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Birth on the new moon, on the dark fourteenth, in viṣṭi, in a sibling's nakṣatra, likewise in the father's nakṣatra, at the Sun's saṅkrānti, at a pāta, and at an eclipse of the Sun [or] Moon,",
+          "hindi": "अमावस्या, कृष्ण चतुर्दशी, विष्टि, सहोदर के नक्षत्र, वैसे ही पिता के नक्षत्र, सूर्य-संक्रान्ति, पात, और सूर्य [या] चन्द्र-ग्रहण में जन्म,",
+          "status": "translated",
           "tags": [
             "graha:sun"
-          ],
-          "english_draft": "Verse 2 of chapter 85: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 85 के श्लोक 2 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 3,
           "text": "व्यतीपातादिदुर्योगे गण्डान्ते त्रिविधेऽपि वा ।\nयमघण्टेऽवभे दग्धयोगे त्रीतरजन्म च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in vyatīpāta and the other evil yogas, or in any of the three kinds of gaṇḍānta, in yamaghaṇṭa, on an avama, in a dagdha yoga, and a trītara birth [a child born after three of the opposite sex] —",
+          "hindi": "व्यतीपात आदि दुर्योगों में, या तीन प्रकार के गण्डान्त में, यमघण्ट में, अवम में, दग्धयोग में, और त्रीतर जन्म [विपरीत लिंग की तीन सन्तानों के बाद जन्म] —",
+          "status": "translated",
           "tags": [
             "entity:yoga"
-          ],
-          "english_draft": "Verse 3 of chapter 85: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 85 के श्लोक 3 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 4,
           "text": "प्रसवस्य त्रिकारेऽपि ज्ञेयं जन्माऽशुभप्रदम् ।\nशान्त्या भवति कल्याणं तदुपायं च वच्म्यहम्",
-          "english": "For the pacification of these inauspicious births, one should perform the prescribed rituals, which I shall explain to you in detail.",
-          "hindi": "इन अशुभ जन्मों की शान्ति के लिए विहित अनुष्ठान करने चाहिए, जिनका वर्णन मैं तुम्हें विस्तार से करूँगा।",
+          "english": "and also in an abnormal delivery [reading त्रिकारे as विकारे], the birth is to be known as giving inauspicious results. Through propitiation there is welfare, and I shall tell its means.",
+          "hindi": "और प्रसव के विकार में भी [त्रिकारे को विकारे पढ़ा] जन्म अशुभ फल देने वाला जानें। शान्ति से कल्याण होता है, और मैं उसका उपाय कहता हूँ।",
           "status": "translated",
           "tags": [
             "rel:polarity"
@@ -47862,39 +47724,35 @@
         {
           "number": 1,
           "text": "मैत्रेय दर्शजातानां मातापित्रोर्दरिद्रता ।\nतद्दोषपरिहाराय शान्तिं कुर्याद् विचक्षणः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Maitreya, for those born on the new moon, the parents suffer poverty; to remove that fault the discerning should perform a śānti.",
+          "hindi": "मैत्रेय, अमावस्या में जन्मों के माता-पिता को दरिद्रता होती है; उस दोष के परिहार के लिए विचक्षण शान्ति करे।",
+          "status": "translated",
           "tags": [
             "entity:yoga"
-          ],
-          "english_draft": "Verse 1 of chapter 86: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 86 के श्लोक 1 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 2,
           "text": "कलशस्थापनं कृत्वा प्रथमं विधिपूर्वकम् ।\nउदुम्बरटाश्वत्थचूतानां पल्लवांस्तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "First, having set up the kalaśa according to rule, [place in it] shoots of udumbara, vaṭa [reading उदुम्बरटा as उदुम्बरवटा], aśvattha and mango —",
+          "hindi": "पहले विधिपूर्वक कलश-स्थापना करके, उदुम्बर, वट [उदुम्बरटा को उदुम्बरवटा पढ़ा], अश्वत्थ और आम के पल्लव —",
+          "status": "translated",
           "tags": [
             "rel:position"
-          ],
-          "english_draft": "Verse 2 of chapter 86: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 86 के श्लोक 2 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 3,
           "text": "सनिम्बानां च मूलनि त्वचस्तत्र विनिक्षिपेत् ।\nपंचरत्नानि निक्षिप्य वस्त्रयुग्मेन चेष्टयेत्",
-          "english": "Put the roots and bark of Nimba (Neem) tree into the water of the jar, drop the five gems into it, and then wrap the jar with a pair of cloths.",
-          "hindi": "कलश के जल में नीम (निम्ब) की जड़ें और छाल डाल दें, उसमें पंचरत्न डालें, और फिर कलश को वस्त्र के जोड़े (दो वस्त्रों) से लपेट दें।",
+          "english": "Put in it the roots and bark of these [trees] together with nimba, place the five gems in it, and wrap it with a pair of cloths.",
+          "hindi": "उसमें इन [वृक्षों] की, नीम सहित, जड़ें और छालें डालें; पंचरत्न डालकर वस्त्र-युग्म से लपेटें।",
           "status": "translated"
         },
         {
           "number": 4,
           "text": "सर्वे समुद्र इति चाऽपोहिष्ठादित्र्यृचेन च ।\nआमन्त्र्य कलशे तच्च स्थापयेद् वह्निकोणके",
-          "english": "Consecrate the jar by reciting the Vedic hymns 'Sarve Samudra' and 'Apo Hishtha', and place it in the Agni (South-East) corner.",
-          "hindi": "मन्त्रों 'सर्वे समुद्राः' और 'आपो हिष्ठा' आदि ऋचाओं का उच्चारण करके कलश को अभिमंत्रित करें और उसे अग्निकोण (दक्षिण-पूर्व) में स्थापित करें।",
+          "english": "Invoking with 'Sarve samudrāḥ' and the three-verse hymn beginning 'Āpo hi ṣṭhā', place that kalaśa in the south-east corner.",
+          "hindi": "'सर्वे समुद्राः' और 'आपो हि ष्ठा' आदि तीन ऋचाओं से अभिमन्त्रित करके उस कलश को आग्नेय कोण में स्थापित करें।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -47903,21 +47761,19 @@
         {
           "number": 5,
           "text": "दर्शस्य देवयोश्चाऽथ चन्द्रभास्करयोः क्रमात् ।\nप्रतिमां स्वर्णजां नित्यं राजतीं ताम्रजां तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Then make images of the deity of the new moon, and of the Moon and the Sun in order, of gold, silver and copper, always [नित्यं, as the text reads].",
+          "hindi": "फिर अमावस्या के देवता की, और क्रम से चन्द्र और सूर्य की, सोने, चाँदी और ताँबे की प्रतिमाएँ सदा [नित्यं, पाठ जैसा है] बनाएँ।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "graha:sun"
-          ],
-          "english_draft": "Verse 5 of chapter 86: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 86 के श्लोक 5 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 6,
           "text": "आप्यायस्वेति मन्त्रेनऽ सविता पश्चात्तमेव च ।\nउपचारैः समाराध्य ततो होमं समाचरेत्",
-          "english": "Worship the Moon and the Sun with the mantra 'Aapyayasva' and 'Savitri' respectively, offer the sixteen standard rituals (Upacharas), and then perform the sacred fire sacrifice (Homa).",
-          "hindi": "'आप्यायस्व' मन्त्र से चन्द्रमा की और सवितृ मन्त्र से सूर्य की पूजा करें, उपचारों से उनकी आराधना करें, और फिर पवित्र अग्नि में होम (हवन) सम्पन्न करें।",
+          "english": "With the mantra 'Āpyāyasva' and with 'Savitā paścāttāt' [reading पश्चात्तमेव as पश्चात्तात्], worship them with the upacāras; then perform the homa.",
+          "hindi": "'आप्यायस्व' मन्त्र से और 'सविता पश्चात्तात्' [पश्चात्तमेव को पश्चात्तात् पढ़ा] मन्त्र से उपचारों द्वारा पूजा करके फिर होम करें।",
           "status": "translated"
         },
         {
@@ -47933,23 +47789,19 @@
         {
           "number": 8,
           "text": "अष्टोत्तरशतं वापि अष्टविंशतिरेव वा ।\nअभिषेकं तथा कुर्यात् दम्पत्योश्च सुपुत्रयोः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "One hundred and eight, or twenty-eight [oblations]; then perform the abhiṣeka of the couple and their son.",
+          "hindi": "एक सौ आठ, या अट्ठाईस [आहुतियाँ]; फिर दम्पती और पुत्र का अभिषेक करें।",
+          "status": "translated",
           "tags": [
             "entity:dasha"
-          ],
-          "english_draft": "Verse 8 of chapter 86: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 86 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 9,
           "text": "हिरण्यं रजतं चैव कृष्णधेनुश्च दक्षिणा ।\nब्राह्मणान् भोजयेत् शक्त्या ततः क्षेममवाप्नुयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 9 of chapter 86: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 86 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "Gold, silver and a black cow as dakṣiṇā; feed Brahmins according to one's means; then one attains welfare.",
+          "hindi": "सोना, चाँदी और काली गाय दक्षिणा; शक्ति के अनुसार ब्राह्मणों को भोजन कराएँ; तब क्षेम प्राप्त होता है।",
+          "status": "translated"
         }
       ]
     },
@@ -47960,47 +47812,41 @@
         {
           "number": 1,
           "text": "कृष्णपक्षचतुर्दश्याः षड्भागेषु फलं क्रमात् ।\nजन्म चेत् प्रथमे भागे तदा ज्ञेयं शुभं द्विज",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "On the dark fourteenth, the results by its six parts in order: if birth is in the first part, it is to be known as auspicious, O twice-born.",
+          "hindi": "कृष्ण चतुर्दशी के छह भागों में क्रम से फल: यदि जन्म पहले भाग में हो, तो शुभ जानें, हे द्विज।",
+          "status": "translated",
           "tags": [
             "rel:modality",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Now I shall state the remedies for birth on Krishna Chaturdashi, by performing which peace, health, and prosperity are attained.",
-          "hindi_draft": "अब मैं कृष्ण चतुर्दशी के जन्म का शांति-विधान कहता हूँ, जिसके करने से आरोग्यता, सुख और संपत्ति प्राप्त होती है।"
+          ]
         },
         {
           "number": 2,
           "text": "द्वितीये पितरं हन्ति मातरं च तृतीयके ।\nचतुर्थे मातुलं चैव पञ्चमे वंशनाशनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In the second it kills the father, in the third the mother, in the fourth the maternal uncle, in the fifth it destroys the lineage —",
+          "hindi": "दूसरे में पिता का नाश, तीसरे में माता का, चौथे में मामा का, पाँचवें में वंश का नाश —",
+          "status": "translated",
           "tags": [
             "bhava:5"
-          ],
-          "english_draft": "Birth in the six parts of Krishna Chaturdashi brings harm to self, father, mother, uncle, lineage, or wealth respectively.",
-          "hindi_draft": "कृष्ण चतुर्दशी के छह भागों में जन्म होने पर क्रमशः स्वयं, पिता, माता, मामा, कुल या धन का विनाश होता है।"
+          ]
         },
         {
           "number": 3,
           "text": "षष्ठे तु धननाशः स्यादात्मनो नाश एव वा ।\nतद्दोषपरिहारार्थं शान्तिं कुर्याद् प्रयत्नतः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "in the sixth there is loss of wealth, or loss of oneself. To remove that fault one should perform a śānti with effort.",
+          "hindi": "छठे में धन-नाश, या अपना ही नाश। उस दोष के परिहार के लिए यत्नपूर्वक शान्ति करें।",
+          "status": "translated",
           "tags": [
             "bhava:6",
             "entity:yoga"
-          ],
-          "english_draft": "Establish a sacred pitcher filled with holy waters, perform ritual worship of Shiva and Parvati, and offer oblations into the consecrated fire.",
-          "hindi_draft": "पवित्र जलों से पूर्ण कलश स्थापित करके शिव और पार्वती की विधिवत् पूजा करें तथा वेदी पर हवन अर्पण करें।"
+          ]
         },
         {
           "number": 4,
           "text": "शिवस्य प्रतिमां कुर्यात् सौवर्णीं कर्षसम्मिताम् ।\nतदर्धार्धमितां वाऽपि यथावित्तं मनोहराम्",
-          "english": "Make a beautiful image of Lord Shiva out of gold, weighing one Karsha (approx. 10 grams), or half of it, or a quarter of it, according to one's financial capacity.",
-          "hindi": "अपनी आर्थिक क्षमता के अनुसार भगवान शिव की एक सुन्दर प्रतिमा सोने की बनवाएं, जिसका वजन एक कर्ष (लगभग १० ग्राम), अथवा उसका आधा या चौथाई हो।",
+          "english": "One should make a beautiful image of Śiva in gold weighing a karṣa, or measuring half of that [or] half again, according to one's means.",
+          "hindi": "शिव की सोने की सुन्दर प्रतिमा एक कर्ष की, या उसके आधे की [या] उसके भी आधे की, अपने धन के अनुसार बनाएँ।",
           "status": "translated"
         },
         {
@@ -48031,15 +47877,13 @@
         {
           "number": 8,
           "text": "आग्नेयं कुम्भमारभ्य पूजयेद् भक्तितः क्रमात् ।\nआ नोभद्रेति सूक्तं च भद्रा अग्नेश्च सूक्तकम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Beginning from the kumbha in the south-east, worship them in order with devotion; and [recite] the sūkta 'Ā no bhadrā' and the sūkta 'Bhadrā agneḥ' —",
+          "hindi": "आग्नेय कोण के कुम्भ से आरम्भ करके क्रम से भक्ति-पूर्वक पूजा करें; और 'आ नो भद्रा' सूक्त और 'भद्रा अग्नेः' सूक्त —",
+          "status": "translated",
           "tags": [
             "rashi:kumbha",
             "rel:lordship"
-          ],
-          "english_draft": "Regarding shloka 8 of section 87, the planetary placement yields distinct karmic outcomes.",
-          "hindi_draft": ""
+          ]
         },
         {
           "number": 9,
@@ -48062,8 +47906,8 @@
         {
           "number": 11,
           "text": "अष्टोत्तरशतं वह्नौ जुहुयाद् विधिपूर्वकम् ।\nअष्टविंशतिसंख्या वा होमं कुर्यात् पृथक् पृथक्",
-          "english": "Offer these materials into the sacred fire 108 or 28 times in accordance with the prescribed rules, conducting the homa separately for each planet.",
-          "hindi": "इन सामग्रियों को विधिपूर्वक १०८ या २८ बार अग्नि में आहुति दें, और प्रत्येक ग्रह के लिए पृथक-पृथक (अलग-अलग) हवन सम्पन्न करें।",
+          "english": "Offer into the fire one hundred and eight [oblations] according to rule, or twenty-eight; perform the homa separately for each [offering].",
+          "hindi": "अग्नि में विधिपूर्वक एक सौ आठ [आहुतियाँ] दें, या अट्ठाईस; प्रत्येक [द्रव्य] का होम अलग-अलग करें।",
           "status": "translated",
           "tags": [
             "entity:dasha"
@@ -48072,8 +47916,8 @@
         {
           "number": 12,
           "text": "मन्त्रेण त्र्यम्बकेनाथ तिलान् व्याहृतिभिस्तथा ।\nग्रहहोमं च विधिवत् कुर्याद् क्षेमं ततो भवेत्",
-          "english": "Offer sesame seeds in the fire with the Tryambaka mantra and the Vyahritis, and perform the planetary homa systematically. This will ensure safety, welfare, and prosperity.",
-          "hindi": "त्र्यम्बक मन्त्र और व्याहृतियों के साथ तिल का हवन करें, और विधि-विधान से नवग्रह होम करें। ऐसा करने से जातक का कल्याण और समृद्धि होती है।",
+          "english": "Then [offer] sesame with the Tryambaka mantra, and likewise with the vyāhṛtis; perform the graha-homa according to rule — then there will be welfare.",
+          "hindi": "फिर त्र्यम्बक मन्त्र से, और वैसे ही व्याहृतियों से तिल [अर्पित करें]; विधिवत् ग्रह-होम करें — तब क्षेम होगा।",
           "status": "translated",
           "tags": [
             "rel:lordship",
@@ -48083,14 +47927,12 @@
         {
           "number": 13,
           "text": "अभिषेकं च जातस्य तत्पित्रोश्चापि मन्त्रवित् ।\nकुर्यात् ततो यथाशक्ति ब्राह्मणान् भोजयेत् सुधीः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "And the knower of mantras should perform the abhiṣeka of the child and of its parents; then the wise man should feed Brahmins according to his means.",
+          "hindi": "और मन्त्रवेत्ता जातक और उसके माता-पिता का अभिषेक करे; फिर बुद्धिमान शक्ति के अनुसार ब्राह्मणों को भोजन कराए।",
+          "status": "translated",
           "tags": [
             "graha:sun"
-          ],
-          "english_draft": "Regarding shloka 13 of section 87, the planetary placement yields distinct karmic outcomes.",
-          "hindi_draft": ""
+          ]
         }
       ]
     },
@@ -48101,8 +47943,8 @@
         {
           "number": 1,
           "text": "अथाऽहं सम्प्रवक्ष्यामि भद्रायामवमे तथा ।\nव्यातूपातादिदुर्योगे यमघण्टादिके च यत्",
-          "english": "Now I shall explain the pacification ritual for birth during Bhadra (Vishti Karana), Vyatipata yoga, or Avama (omitted lunar day).",
-          "hindi": "अब मैं भद्रा (विष्टि करण), व्यतीपात योग या अवम (क्षय तिथि) के दौरान जन्म की शान्ति का विधान बताऊंगा।",
+          "english": "Now I shall tell what [is to be done] for [a birth in] bhadrā and avama, in vyatīpāta [reading व्यातूपात as व्यतीपात] and the other evil yogas, and in yamaghaṇṭa and the like —",
+          "hindi": "अब मैं कहता हूँ कि भद्रा और अवम में, व्यतीपात [व्यातूपात को व्यतीपात पढ़ा] आदि दुर्योगों में, और यमघण्ट आदि में [जन्म के लिए] क्या [करना चाहिए] —",
           "status": "translated",
           "tags": [
             "entity:yoga"
@@ -48111,21 +47953,19 @@
         {
           "number": 2,
           "text": "जन्माशुभफलं प्रोक्तं तस्य शान्तिविधिं द्विज ।\nप्राप्ते प्रसूतिदुर्योगे शान्तिं कुर्याद् विचक्षणः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "the inauspicious result of such a birth has been stated; [now] its method of śānti, O twice-born: when an evil yoga at birth has occurred, the discerning should perform a śānti.",
+          "hindi": "ऐसे जन्म का अशुभ फल कहा जा चुका; [अब] उसकी शान्ति-विधि, हे द्विज: जब प्रसव में दुर्योग प्राप्त हो, तो विचक्षण शान्ति करे।",
+          "status": "translated",
           "tags": [
             "entity:yoga",
             "rel:polarity"
-          ],
-          "english_draft": "Perform ritual bath, worship of the luminaries, donation of gold, silver, and sesame seeds to Brahmins to neutralize the eclipse affliction.",
-          "hindi_draft": "ग्रहण दोष के निवारण हेतु स्नान, सूर्य-चन्द्र की पूजा, तथा ब्राह्मणों को स्वर्ण, रजत व तिल का दान अर्पण करें।"
+          ]
         },
         {
           "number": 3,
           "text": "दैवज्ञैर्दर्शिते वाऽपि सुलग्ने सुदिने गृही ।\nपूजनं देवतानां च ग्रहाणां यजनं तथा",
-          "english": "On an auspicious day and at an auspicious Lagna indicated by the astrologers, the householder should perform the worship of the deities and the sacrifice (yajna) for the planets.",
-          "hindi": "दैवज्ञों (ज्योतिषियों) द्वारा बताए गए शुभ मुहूर्त (लग्न) और शुभ दिन में, गृहस्वामी को देवताओं की पूजा और नवग्रहों का यज्ञ सम्पन्न करना चाहिए।",
+          "english": "On a good lagna and a good day, or one shown by astrologers, the householder [should perform] the worship of the deities and likewise the sacrifice to the planets.",
+          "hindi": "शुभ लग्न और शुभ दिन में, या दैवज्ञों द्वारा बताए [समय] में, गृहस्थ देवताओं का पूजन और वैसे ही ग्रहों का यजन [करे]।",
           "status": "translated",
           "tags": [
             "bhava:1"
@@ -48141,11 +47981,9 @@
         {
           "number": 5,
           "text": "हवनं विष्णुमन्त्रेण स/तमष्टोत्तरं सुधीः ।\nब्राह्मणान् भोजयेत् शक्त्या ततः कल्याणमाप्नुयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Regarding shloka 5 of section 88, the planetary placement yields distinct karmic outcomes.",
-          "hindi_draft": ""
+          "english": "The wise man [should make] oblations with the Viṣṇu mantra, one hundred and eight [reading स/तम् as शतम्]; feed Brahmins according to one's means; then one attains welfare.",
+          "hindi": "बुद्धिमान विष्णु-मन्त्र से एक सौ आठ [स/तम् को शतम् पढ़ा] आहुतियाँ दे; शक्ति के अनुसार ब्राह्मणों को भोजन कराए; तब कल्याण प्राप्त होता है।",
+          "status": "translated"
         }
       ]
     },
@@ -48156,31 +47994,27 @@
         {
           "number": 1,
           "text": "अथ यद्येकनक्षत्रे भ्रात्रोर्वा पितृपुत्रयोः ।\nप्रसूतिश्च तयोर्मृतुरथैवकस्य निश्चयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 1 of chapter 89: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 89 के श्लोक 1 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "Now, if two brothers, or a father and son, are born in the same nakṣatra, the death of one of them is certain [reading मृतुरथैवकस्य as मृत्युरथैकस्य].",
+          "hindi": "अब, यदि दो भाइयों का, या पिता-पुत्र का, एक ही नक्षत्र में जन्म हो, तो उनमें से एक की मृत्यु निश्चित है [मृतुरथैवकस्य को मृत्युरथैकस्य पढ़ा]।",
+          "status": "translated"
         },
         {
           "number": 2,
           "text": "तत्र शान्तिं प्रवक्ष्यामि गर्गादिमुनिभाषितम् ।\nसुदिने शुभनक्षत्रे चन्द्रताराबलान्विते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "There I shall tell the śānti declared by Garga and other sages: on a good day, in an auspicious nakṣatra, with the strength of the Moon and the tārā —",
+          "hindi": "वहाँ मैं गर्ग आदि मुनियों की कही शान्ति कहूँगा: शुभ दिन, शुभ नक्षत्र में, चन्द्र और तारा के बल से युक्त —",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "rel:polarity",
             "rel:state"
-          ],
-          "english_draft": "Verse 2 of chapter 89: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 89 के श्लोक 2 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 3,
           "text": "रिक्तावविष्टिविवर्ज्ये च समय शान्तिमाचरेत् ।\nशनेरीशानदिग्भागे नक्षत्रप्रतिमां शुभाम्",
-          "english": "Perform the propitiation ritual at a time free from Rikta tithis (4th, 9th, 14th) and Vishti karana (Bhadra). Place a beautiful image of the birth Nakshatra deity to the North-East of Saturn.",
-          "hindi": "रिक्ता तिथियों (४, ९, १४) और विष्टि करण (भद्रा) से रहित शुभ समय में शान्ति विधान करें। शनि के ईशान कोण (उत्तर-पूर्व) में नक्षत्र देवता की एक सुन्दर प्रतिमा स्थापित करें।",
+          "english": "and at a time that avoids riktā tithis, avama and viṣṭi, perform the śānti. In the north-east [शनेः, 'of Saturn' — reading uncertain; perhaps अग्नेः, 'of the fire', as in 86.4] place an auspicious image of the nakṣatra.",
+          "hindi": "और रिक्ता, अवम और विष्टि से रहित समय में शान्ति करें। ईशान दिशा में [शनेः, 'शनि के' — पाठ अनिश्चित; सम्भवतः अग्नेः, 'अग्नि के', जैसे 86.4 में] नक्षत्र की शुभ प्रतिमा रखें।",
           "status": "translated",
           "tags": [
             "rel:polarity",
@@ -48214,11 +48048,9 @@
         {
           "number": 7,
           "text": "ऋत्विग्भ्यो दक्षिणां दद्यादाचार्याय विशेषतः ।\nब्राह्मणान् भोजयेद् भक्त्या वित्तशाठ्यविवर्जितः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 7 of chapter 89: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 89 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "Give dakṣiṇā to the officiating priests, especially to the ācārya; feed Brahmins with devotion, free from stinginess with wealth.",
+          "hindi": "ऋत्विजों को, विशेषकर आचार्य को, दक्षिणा दें; धन की कृपणता छोड़कर भक्ति से ब्राह्मणों को भोजन कराएँ।",
+          "status": "translated"
         }
       ]
     },
@@ -48229,21 +48061,19 @@
         {
           "number": 1,
           "text": "घोराध्वांक्षीमहोदर्यो मन्दा मन्दाकिनी तथा ।\nमिश्रा च राक्षसी सूर्यसंक्रान्तिः सूर्यवासरात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Ghorā, Dhvāṅkṣī, Mahodarī, Mandā, Mandākinī, Miśrā and Rākṣasī: these are [the names of] the Sun's saṅkrānti, by weekday from Sunday.",
+          "hindi": "घोरा, ध्वांक्षी, महोदरी, मन्दा, मन्दाकिनी, मिश्रा और राक्षसी: ये रविवार से [वार के अनुसार] सूर्य-संक्रान्ति [के नाम] हैं।",
+          "status": "translated",
           "tags": [
             "graha:saturn",
             "graha:sun"
-          ],
-          "english_draft": "Birth under Sankranti (solar transit into a sign) or Gandanta causes severe affliction to the child and parents.",
-          "hindi_draft": "संक्रांति या गंडांत काल में जन्म होने पर बालक और माता-पिता को तीव्र अरिष्ट प्राप्त होता है।"
+          ]
         },
         {
           "number": 2,
           "text": "संक्रान्तौ च नरो जातो भवेद् दारिद्र्य दुःखभाक् ।\nशान्त्या सुखमवाप्नोति ततः शान्तिविधि ब्रुवे",
-          "english": "Birth during Sankranti destroys wealth, causes poverty, and brings physical suffering.",
-          "hindi": "संक्रान्ति के समय जन्म धन का नाश करता है, दरिद्रता लाता है और शारीरिक कष्ट देता है।",
+          "english": "A man born at a saṅkrānti comes to poverty and sorrow; by śānti he attains happiness; therefore I tell the method of śānti.",
+          "hindi": "संक्रान्ति में जन्मा मनुष्य दरिद्रता और दुःख का भागी होता है; शान्ति से सुख पाता है; अतः शान्ति-विधि कहता हूँ।",
           "status": "translated"
         },
         {
@@ -48260,21 +48090,19 @@
         {
           "number": 4,
           "text": "स्वलंकृतप्रदेशे तु ब्रीहिराशिं प्रकल्पयेत् ।\nपञ्चद्रोणमितं धान्यैस्तदर्धं तण्डुलैस्तथा",
-          "english": "In that well-decorated area, prepare a heap of paddy grains measuring five Dronas (approx. 64 kg), or half of that amount using rice grains.",
-          "hindi": "उस सुसज्जित स्थान पर पांच द्रोण (लगभग ६४ किलो) धान का ढेर लगाएं, अथवा उसकी आधी मात्रा में चावलों का ढेर लगाएं।",
+          "english": "In a well-adorned spot prepare a heap of paddy: of grain measuring five droṇas, and half that of rice —",
+          "hindi": "सुसज्जित स्थान में धान की राशि बनाएँ: पाँच द्रोण धान्य की, और उसकी आधी चावल की —",
           "status": "translated"
         },
         {
           "number": 5,
           "text": "तदर्धं च तिलैः कुर्याद्राशिं च द्विजसत्तम ।\nपृथक् त्रितयराशौ तु लिखेदष्टदलं बुधैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "and half that again of sesame, make a heap, O best of the twice-born; on each of the three heaps the wise should draw an eight-petalled [lotus].",
+          "hindi": "और उसकी भी आधी तिल की राशि बनाएँ, हे द्विजश्रेष्ठ; तीनों राशियों पर अलग-अलग बुद्धिमान अष्टदल [कमल] बनाएँ।",
+          "status": "translated",
           "tags": [
             "graha:mercury"
-          ],
-          "english_draft": "Regarding shloka 5 of section 90, the planetary placement yields distinct karmic outcomes.",
-          "hindi_draft": ""
+          ]
         },
         {
           "number": 6,
@@ -48321,14 +48149,12 @@
         {
           "number": 10,
           "text": "चन्द्रादित्याकृती पार्श्वे मध्ये संक्रान्तिमर्चयेत् ।\nप्रतिमां पूजने पूर्वं वस्त्रयुग्मं निवेदयेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "With images of the Moon and the Sun at the sides, worship the saṅkrānti in the middle; before worshipping the image, offer a pair of garments.",
+          "hindi": "पार्श्व में चन्द्र और सूर्य की आकृतियाँ, मध्य में संक्रान्ति की पूजा करें; प्रतिमा की पूजा से पहले वस्त्र-युग्म अर्पित करें।",
+          "status": "translated",
           "tags": [
             "graha:moon"
-          ],
-          "english_draft": "Regarding shloka 10 of section 90, the planetary placement yields distinct karmic outcomes.",
-          "hindi_draft": ""
+          ]
         },
         {
           "number": 11,
@@ -48340,8 +48166,8 @@
         {
           "number": 12,
           "text": "उत्सूर्य इति मन्त्रेण सूर्यपूजां समाचरेत् ।\nआप्यायस्वेति मन्त्रेण चन्द्रपूजां समाचरेत्",
-          "english": "Perform the worship of the Sun god with the solar Vedic mantra (such as 'Udutyam'), and the worship of the Moon god with the mantra 'Aapyayasva'.",
-          "hindi": "सूर्य की पूजा सौर मन्त्र (जैसे 'उदुत्यं') से करें, और चन्द्रमा की पूजा 'आप्यायस्व' मन्त्र से सम्पन्न करें।",
+          "english": "Perform the worship of the Sun with the mantra 'Ut sūrya', and of the Moon with the mantra 'Āpyāyasva'.",
+          "hindi": "'उत्सूर्य' मन्त्र से सूर्य-पूजा, और 'आप्यायस्व' मन्त्र से चन्द्र-पूजा करें।",
           "status": "translated",
           "tags": [
             "graha:moon",
@@ -48397,11 +48223,9 @@
         {
           "number": 18,
           "text": "ततः स्विष्टकृतं हुत्वाभिषेकं च कारयेत् ।\nब्रह्मणान् भोजयेत् पश्चादेवं शान्तिमवाप्नुयात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Regarding shloka 18 of section 90, the planetary placement yields distinct karmic outcomes.",
-          "hindi_draft": ""
+          "english": "Then, having offered the sviṣṭakṛt oblation, have the abhiṣeka performed; afterwards feed Brahmins — thus one attains peace.",
+          "hindi": "फिर स्विष्टकृत् आहुति देकर अभिषेक कराएँ; बाद में ब्राह्मणों को भोजन कराएँ — इस प्रकार शान्ति प्राप्त होती है।",
+          "status": "translated"
         }
       ]
     },
@@ -49418,5 +49242,5 @@
       ]
     }
   ],
-  "status": "partial"
+  "status": "translated"
 }
