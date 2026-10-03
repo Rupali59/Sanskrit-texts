@@ -40697,15 +40697,15 @@
         {
           "number": 1,
           "text": "भगवन् भवताऽख्यातं ग्रहभावादिजं फलम् ।\nबहुनामृषिवर्याणामाचार्याणां च सम्मतम्",
-          "english": "Maitreya says: Lord, you have described the results of planets and houses, which are accepted by many great sages and teachers.",
-          "hindi": "मैत्रेय कहते हैं: हे भगवन्, आपने ग्रहों और भावों के फलों का वर्णन किया है, जो अनेक महर्षियों और आचार्यों द्वारा स्वीकृत हैं।",
+          "english": "[Maitreya said:] Lord, you have described the results arising from planets, houses and the like, as agreed by many of the foremost sages and teachers.",
+          "hindi": "[मैत्रेय ने कहा:] भगवन्, आपने ग्रह, भाव आदि से उत्पन्न फल कहा है, जो अनेक श्रेष्ठ ऋषियों और आचार्यों को मान्य है।",
           "status": "translated"
         },
         {
           "number": 2,
           "text": "संकरात् तत्फलानां च ग्रहाणां गतिसङ्करात् ।\nइत्थमेवेति नो सर्वे ज्ञात्वा वक्तुमलं नराः",
-          "english": "Due to the complexity of combinations and planetary motions, it is difficult for everyone to predict with absolute certainty.",
-          "hindi": "संयोगों की जटिलता और ग्रहों की गति के कारण, सभी के लिए पूर्ण निश्चितता के साथ भविष्यवाणी करना कठिन है।",
+          "english": "Because those results mix, and the motions of the planets mix, not all men, though they know, are able to say 'it is exactly thus'.",
+          "hindi": "उन फलों के मिश्रण से और ग्रहों की गति के मिश्रण से, सब मनुष्य जानते हुए भी 'यह ठीक ऐसा ही है' कहने में समर्थ नहीं होते।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -40726,8 +40726,8 @@
         {
           "number": 4,
           "text": "तत्तत्कालग्रहस्थित्या मानवानां परिस्फुटम् ।\nसुखदुःखपरिज्ञानमायुषो निर्णयं तथा",
-          "english": "A method that clearly reveals the happiness and sorrows of humans and helps in determining their longevity.",
-          "hindi": "ऐसी पद्धति जो मनुष्यों के सुख और दुखों को स्पष्ट रूप से प्रकट करे और उनकी दीर्घायु निर्धारित करने में सहायता करे।",
+          "english": "By which, from the positions of the planets at each particular time, the joys and sorrows of men and the determination of their longevity become clearly known.",
+          "hindi": "जिससे उस-उस काल की ग्रह-स्थिति द्वारा मनुष्यों के सुख-दुःख का ज्ञान और आयु का निर्णय स्पष्ट हो।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -40736,151 +40736,129 @@
         {
           "number": 5,
           "text": "साधु पृष्टं त्वया ब्रह्मन् कथयामि तवाग्रतः ।\nलोकेयात्रापरिज्ञानमायुषो निर्णयं तथा",
-          "english": "Parashara says: You have asked well, O Brahmin. I will explain the system for knowing the course of life and determining longevity.",
-          "hindi": "पराशर कहते हैं: हे ब्राह्मण, आपने अच्छा प्रश्न पूछा है। मैं जीवन की दिशा जानने और दीर्घायु निर्धारित करने की पद्धति समझाऊंगा।",
+          "english": "[Parāśara said:] You have asked well, O Brahmin; I shall tell you, before you, the knowledge of the course of worldly life and likewise the determination of longevity —",
+          "hindi": "[पराशर ने कहा:] हे ब्रह्मन्, तुमने अच्छा पूछा; मैं तुम्हारे सामने लोकयात्रा का ज्ञान और वैसे ही आयु का निर्णय कहता हूँ —",
           "status": "translated"
         },
         {
           "number": 6,
           "text": "संकरस्याविरोधञ्च शास्त्रस्यापि प्रयोजनम् ।\nजनानामुपकारार्थं सावधानमनाः श‍ृणु",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 6 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 6 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "And that the mixture involves no contradiction, and the purpose of the śāstra too — for the benefit of people; listen with an attentive mind.",
+          "hindi": "और कि मिश्रण में विरोध नहीं है, और शास्त्र का प्रयोजन भी — लोगों के उपकार के लिए; सावधान मन से सुनो।",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "लग्नादिव्ययपर्यन्तं भावा संज्ञानुरूपतः ।\nफलदाः शुभसंदृष्टा युक्ता वा शोभना मताः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The houses, from the lagna to the twelfth, give results according to their names; aspected by benefics or joined with them, they are held to be auspicious —",
+          "hindi": "लग्न से व्यय तक के भाव अपने नाम के अनुरूप फल देते हैं; शुभग्रहों से दृष्ट या युक्त होने पर वे शुभ माने गए हैं —",
+          "status": "translated",
           "tags": [
             "rel:aspect",
             "rel:conjunction",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 7 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 7 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 8,
           "text": "ते तूच्चादिभगैः खेटैर्न चास्तारिभनीचगैः ।\nपापैर्दृष्टयुता भावाः कल्याणेतरदायकाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "They [are auspicious], however, with planets in exaltation and the like — not with planets that are combust, nor in an enemy's sign, nor debilitated. Houses aspected by and joined with malefics give what is other than welfare —",
+          "hindi": "वे [तभी शुभ हैं जब] उच्च आदि में स्थित ग्रहों से हों, न कि अस्त, शत्रु-राशि में या नीच में स्थित ग्रहों से। पापग्रहों से दृष्ट और युक्त भाव कल्याण से भिन्न फल देते हैं —",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "rel:aspect",
             "rel:conjunction",
             "rel:dignity",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 8 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 8 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 9,
           "text": "तैरःतारिभनीचस्थैर्न च मित्रस्वभोच्चगैः ।\nएवं समान्यतः प्रोक्तं होराशास्त्रज्ञसूरिभिः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "And so with those [malefics] that are combust, in an enemy's sign, debilitated [reading तैरःतारि as तैरस्तारि], and not in a friend's sign, their own or exaltation. Thus it has been stated in general by the learned who know the horā-śāstra.",
+          "hindi": "और वैसे ही उन [पापग्रहों] से जो अस्त, शत्रु-राशि में, नीच में हों [तैरःतारि को तैरस्तारि पढ़ा], न कि मित्र-राशि, स्वराशि या उच्च में। होराशास्त्र के ज्ञाता विद्वानों ने इस प्रकार सामान्य रूप से कहा है।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "rel:dignity",
             "rel:position"
-          ],
-          "english_draft": "Verse 9 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 9 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 10,
           "text": "मयैयत् सकलं प्रोक्तं पूर्वाचार्यानुवर्तिना ।\nआयुश्च लोकयात्रां च शास्त्रस्यास्यते प्रयोजनम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 10 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 10 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "All this has been stated by me, following the earlier teachers [reading मयैयत् as मयैतत्]; longevity and the course of worldly life are the purpose of this śāstra for you [reading शास्त्रस्यास्यते as शास्त्रस्यास्य ते].",
+          "hindi": "यह सब मैंने पूर्वाचार्यों का अनुसरण करते हुए कहा है [मयैयत् को मयैतत् पढ़ा]; आयु और लोकयात्रा इस शास्त्र का तुम्हारे लिए प्रयोजन है [शास्त्रस्यास्यते को शास्त्रस्यास्य ते पढ़ा]।",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "निश्चेतुं तन्न सक्नोति वसिष्ठो वा बृहस्पतिः ।\nकिं पुनर्मनुजास्तत्र विशेषात्तु कलौ युगे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "That cannot be determined with certainty even by Vasiṣṭha or Bṛhaspati — what then of men, especially in the Kali age?",
+          "hindi": "उसे निश्चित रूप से वसिष्ठ या बृहस्पति भी तय नहीं कर सकते — तो फिर मनुष्यों का क्या, विशेषकर कलियुग में?",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "rel:position"
-          ],
-          "english_draft": "Verse 11 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 11 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 12,
           "text": "सामान्यांशो विशेषांशो ज्योतिःशास्त्रं द्विधोदितम् ।\nप्रोक्तः सामान्यभागस्तु निश्चयांशस्तु कथ्यते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Verse 12 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 12 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          "english": "Jyotiḥśāstra is declared to be twofold: the general part and the particular part. The general part has been told; now the part that gives certainty is told.",
+          "hindi": "ज्योतिःशास्त्र दो प्रकार का कहा गया है: सामान्य अंश और विशेष अंश। सामान्य भाग कहा जा चुका; अब निश्चय देने वाला अंश कहा जाता है।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "यथा लग्नाच्च चन्द्राच्च ग्रहाणां भावजं फलम् ।\nतथाऽन्येभ्योऽपि खेटेभ्यो विचिन्त्यं दैवविद्वरैः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Just as the results of the houses for the planets are considered from the lagna and from the Moon, so the best knowers of fate should consider them from the other planets as well.",
+          "hindi": "जैसे ग्रहों का भावज फल लग्न से और चन्द्र से विचारा जाता है, वैसे ही श्रेष्ठ दैवज्ञों को अन्य ग्रहों से भी विचारना चाहिए।",
+          "status": "translated",
           "tags": [
             "graha:moon"
-          ],
-          "english_draft": "Verse 13 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 13 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 14,
           "text": "अतो रव्यादिखेटानां सलग्नानां पृथक् पृथक् ।\nअष्टानां सर्वभावोत्थं यथोक्तमशुभं शुभम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Therefore, for the eight — the Sun and the other planets, together with the lagna — separately, the auspicious and the inauspicious arising from all the houses, as stated:",
+          "hindi": "अतः सूर्य आदि ग्रहों और लग्न — इन आठों के लिए अलग-अलग, सब भावों से उत्पन्न शुभ और अशुभ, जैसा कहा गया:",
+          "status": "translated",
           "tags": [
             "rel:polarity"
-          ],
-          "english_draft": "Verse 14 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 14 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 15,
           "text": "ज्ञात्वाऽदौ करणं स्थानं बिन्दुरेखोपलक्षितम् ।\nक्रमादष्टकवर्गस्य वाच्यं स्पष्टफलं यथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Having first known the karaṇa and the sthāna, marked by dot and line, the clear result of the aṣṭakavarga is to be declared in order, as follows.",
+          "hindi": "पहले बिन्दु और रेखा से चिह्नित करण और स्थान को जानकर, अष्टकवर्ग का स्पष्ट फल क्रम से, इस प्रकार, कहना चाहिए।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "rel:position"
-          ],
-          "english_draft": "Verse 15 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 15 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 16,
           "text": "ततुस्वायुस्त्रिरिष्फेषु पञ्च कामे सुखेऽर्णवाः ।\nअरौ भाग्ये त्रयः पुत्रे षट् करौ खे भवे च भूः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The karaṇa — inauspicious dots — of the Sun: the count in each house]; in houses 1, 2, 8, 3 and 12: five; in houses 7 and 4: four; in houses 6 and 9: three; in house 5: six; in house 10: two; in house 11: one.",
+          "hindi": "[सूर्य का करण — अशुभ बिन्दु: प्रत्येक भाव में संख्या]; भाव 1, 2, 8, 3 और 12 में पाँच; भाव 7 और 4 में चार; भाव 6 और 9 में तीन; भाव 5 में छह; भाव 10 में दो; भाव 11 में एक।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "bhava:5",
             "bhava:9"
-          ],
-          "english_draft": "Verse 16 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 16 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 17,
           "text": "लग्नेन्दुजीवशुक्रज्ञास्तनौ स्वे मरणेऽपि च ।\nरविभौमार्कि चन्द्रार्या व्यये ज्ञेन्दुसितायकाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In houses 1, 2 and 8: the Lagna, the Moon, Jupiter, Venus and Mercury; in house 12: the Sun, Mars, Saturn, the Moon and Jupiter; in house 4: Mercury, the Moon, Venus and Jupiter [reading सितायकाः as सितार्यकाः; the house, सुखे, opens 66.18].",
+          "hindi": "भाव 1, 2 और 8 में: लग्न, चन्द्र, गुरु, शुक्र और बुध; भाव 12 में: सूर्य, मंगल, शनि, चन्द्र और गुरु; भाव 4 में: बुध, चन्द्र, शुक्र और गुरु [सितायकाः को सितार्यकाः पढ़ा; भाव, सुखे, 66.18 के आरम्भ में है]।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:12",
@@ -40889,234 +40867,202 @@
             "graha:moon",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 17 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 17 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 18,
           "text": "सुखे होरेन्दुशुक्राश्च धर्मेऽर्कार्किकुजा अरौ ।\nहोराज्ञार्येन्दवः कामे भवे दैत्येन्द्रपूजितः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 4 closes the list at the end of 66.17]; in house 9: the Lagna, the Moon and Venus; in house 6: the Sun, Saturn and Mars; in house 7: the Lagna, Mercury, Jupiter and the Moon; in house 11: Venus, the one worshipped by the lord of the Daityas.",
+          "hindi": "[भाव 4 66.17 के अन्त की सूची को पूरा करता है]; भाव 9 में: लग्न, चन्द्र और शुक्र; भाव 6 में: सूर्य, शनि और मंगल; भाव 7 में: लग्न, बुध, गुरु और चन्द्र; भाव 11 में: दैत्येन्द्र द्वारा पूजित शुक्र।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "bhava:9",
             "entity:varga",
             "graha:mars",
             "graha:venus"
-          ],
-          "english_draft": "Verse 18 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 18 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 19,
           "text": "सहजेऽर्कार्किशुक्रार्यभौमाः खे गुरुभार्गवौ ।\nसुतेऽर्कार्कीन्दुलग्नारशुक्राः स्युः करणं रवेः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 3: the Sun, Saturn, Venus, Jupiter and Mars; in house 10: Jupiter and Venus; in house 5: the Sun, Saturn, the Moon, the Lagna, Mars and Venus — this is the karaṇa of the Sun.",
+          "hindi": "भाव 3 में: सूर्य, शनि, शुक्र, गुरु और मंगल; भाव 10 में: गुरु और शुक्र; भाव 5 में: सूर्य, शनि, चन्द्र, लग्न, मंगल और शुक्र — यह सूर्य का करण है।",
+          "status": "translated",
           "tags": [
             "bhava:3",
             "bhava:5",
             "graha:jupiter",
             "graha:mars",
             "graha:venus"
-          ],
-          "english_draft": "Verse 19 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 19 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 20,
           "text": "भाग्यस्वयोश्च षड् वेश्ममृतिहोरासु पञ्च च ।\nमानदुश्चिक्ययोरेकः सुते वेदा अरिस्त्रियोः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The karaṇa of the Moon: the counts]; in houses 9 and 2: six; in houses 4, 8 and 1: five; in houses 10 and 3: one; in house 5: four; in houses 6 and 7: three.",
+          "hindi": "[चन्द्र का करण: संख्याएँ]; भाव 9 और 2 में छह; भाव 4, 8 और 1 में पाँच; भाव 10 और 3 में एक; भाव 5 में चार; भाव 6 और 7 में तीन।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "entity:varga",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 20 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 20 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 21,
           "text": "त्रयो व्ययेष्टावाये च शून्यं शीतकरस्य तु ।\nहोरार्कारार्किभृगवोङ्गज्ञार्केन्द्वार्कभार्गवाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 12: eight; in house 11: none — of the Moon. [The lists follow, house by house in order]; [house 1] the Lagna, the Sun, Mars, Saturn and Venus; [house 2] the Lagna, Mercury, the Sun, the Moon, Saturn and Venus [आर्क read as आर्कि, Saturn. Jupiter is not here: this text counts Jupiter's dot in house 12 instead, against the commonly printed table; its sthāna at 66.46 agrees].",
+          "hindi": "भाव 12 में आठ; भाव 11 में शून्य — चन्द्र का। [सूचियाँ आगे, भाव-क्रम से]; [भाव 1] लग्न, सूर्य, मंगल, शनि और शुक्र; [भाव 2] लग्न, बुध, सूर्य, चन्द्र, शनि और शुक्र [आर्क को आर्कि, शनि, पढ़ा। गुरु यहाँ नहीं: यह पाठ गुरु का बिन्दु भाव 12 में गिनता है, सामान्य मुद्रित तालिका के विपरीत; 66.46 का स्थान इससे सहमत है]।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "entity:varga",
             "graha:venus"
-          ],
-          "english_draft": "Verse 21 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 21 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 22,
           "text": "जीवोर्कार्कीन्दुलग्नारा होरेन्दुगुरुभास्कराः ।\nसितज्ञार्याः कुजतनुमन्दास्ते सितशीतगू",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 3] Jupiter; [house 4] the Sun, Saturn, the Moon, the Lagna and Mars; [house 5] the Lagna, the Moon, Jupiter and the Sun; [house 6] Venus, Mercury and Jupiter; [house 7] Mars, the Lagna and Saturn; [house 8] these, and Venus and the Moon.",
+          "hindi": "[भाव 3] गुरु; [भाव 4] सूर्य, शनि, चन्द्र, लग्न और मंगल; [भाव 5] लग्न, चन्द्र, गुरु और सूर्य; [भाव 6] शुक्र, बुध और गुरु; [भाव 7] मंगल, लग्न और शनि; [भाव 8] ये, और शुक्र तथा चन्द्र।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:saturn",
             "graha:sun"
-          ],
-          "english_draft": "Verse 22 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 22 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 23,
           "text": "होरार्कारार्किविज्जीवाः शनिः खं सकलाः क्रमात् ।\nव्ययवेश्मसुतस्त्रीषु षड् सप्त धनधर्मयोः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 9] the Lagna, the Sun, Mars, Saturn, Mercury and Jupiter [the commonly printed table has the Moon here, not Mars; this text's sthāna at 66.48 agrees with its own reading]; [house 10] Saturn; [house 11] none; [house 12] all eight — in order; [The karaṇa of Mars: the counts]; in houses 12, 4, 5 and 7: six; in houses 2 and 9: seven.",
+          "hindi": "[भाव 9] लग्न, सूर्य, मंगल, शनि, बुध और गुरु [सामान्य मुद्रित तालिका में यहाँ मंगल नहीं, चन्द्र है; 66.48 का स्थान इस पाठ से सहमत है]; [भाव 10] शनि; [भाव 11] कोई नहीं; [भाव 12] सभी आठ — क्रम से; [मंगल का करण: संख्याएँ]; भाव 12, 4, 5 और 7 में छह; भाव 2 और 9 में सात।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "entity:varga",
             "graha:jupiter",
             "graha:saturn",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 23 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 23 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 24,
           "text": "होरामृत्युवोः शरा वेदा विक्रमे खे त्रयः क्षते ।\nद्वौ भवे शून्यमेवं स्यात् करणं भूमिजस्य तु",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In houses 1 and 8: five; in house 3: four; in house 10: three; in house 6: two; in house 11: none — thus the karaṇa of Mars.",
+          "hindi": "भाव 1 और 8 में पाँच; भाव 3 में चार; भाव 10 में तीन; भाव 6 में दो; भाव 11 में शून्य — इस प्रकार मंगल का करण।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "rel:modality"
-          ],
-          "english_draft": "Verse 24 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 24 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 25,
           "text": "कुजस्यार्केन्दुविज्जीवसित लग्नशनी च तु ।\nसितारगुरुमन्दाः स्युर्धर्मोक्तेषु कुजं विना",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Of Mars, house by house: [house 1] the Sun, the Moon, Mercury, Jupiter and Venus; [house 2] [these, and] the Lagna and Saturn too; [house 3] Venus, Mars, Jupiter and Saturn; [house 4] those given for house 9, without Mars.",
+          "hindi": "मंगल का, भाव-क्रम से: [भाव 1] सूर्य, चन्द्र, बुध, गुरु और शुक्र; [भाव 2] [ये, और] लग्न तथा शनि भी; [भाव 3] शुक्र, मंगल, गुरु और शनि; [भाव 4] भाव 9 के लिए कहे गए, मंगल के बिना।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:saturn"
-          ],
-          "english_draft": "Verse 25 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 25 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 26,
           "text": "चन्द्रारगुरुशुक्रार्किलग्नानि कुजभास्करी ।\nज्ञेन्द्वर्कसितलग्नार्या एषु शुक्रं विना ततः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 5] the Moon, Mars, Jupiter, Venus, Saturn and the Lagna; [house 6] Mars and Bhāskari [the son of the Sun, Saturn]; [house 7] Mercury, the Moon, the Sun, Venus, the Lagna and Jupiter; [house 8] these, without Venus.",
+          "hindi": "[भाव 5] चन्द्र, मंगल, गुरु, शुक्र, शनि और लग्न; [भाव 6] मंगल और भास्करि [सूर्यपुत्र, शनि]; [भाव 7] बुध, चन्द्र, सूर्य, शुक्र, लग्न और गुरु; [भाव 8] ये, शुक्र के बिना।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:moon",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 26 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 26 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 27,
           "text": "विना शनिं सप्त धर्मे सितेन्दुज्ञा वियत्ततः ।\nअर्कार्किज्ञेन्दुलग्नाराः करणं प्रोच्यते क्रमात्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 9: seven — all except Saturn; [house 10] Venus, the Moon and Mercury; [house 11] none [वियत्, 'the sky', = zero]; [house 12] the Sun, Saturn, Mercury, the Moon, the Lagna and Mars — the karaṇa is told in order.",
+          "hindi": "भाव 9 में: सात — शनि को छोड़कर सब; [भाव 10] शुक्र, चन्द्र और बुध; [भाव 11] कोई नहीं [वियत्, 'आकाश', = शून्य]; [भाव 12] सूर्य, शनि, बुध, चन्द्र, लग्न और मंगल — करण क्रम से कहा गया।",
+          "status": "translated",
           "tags": [
             "bhava:9",
             "graha:saturn"
-          ],
-          "english_draft": "Verse 27 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 27 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 28,
           "text": "तनुस्वगृहकर्मारिधर्मेष्वग्निर्मृगौ करौ ।\nभ्रातृस्त्रियो रसा लाभे शून्यं पुत्रे व्यये शराः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The karaṇa of Mercury: the counts]; in houses 1, 2, 4, 10, 6 and 9: three; in house 8: two [reading मृगौ as मृतौ, 'in the 8th']; in houses 3 and 7: six; in house 11: none; in houses 5 and 12: five.",
+          "hindi": "[बुध का करण: संख्याएँ]; भाव 1, 2, 4, 10, 6 और 9 में तीन; भाव 8 में दो [मृगौ को मृतौ, 'अष्टम में', पढ़ा]; भाव 3 और 7 में छह; भाव 11 में शून्य; भाव 5 और 12 में पाँच।",
+          "status": "translated",
           "tags": [
             "bhava:11",
             "bhava:12",
             "bhava:5",
             "bhava:9",
             "rel:dignity"
-          ],
-          "english_draft": "Verse 28 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 28 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 29,
           "text": "बुधास्यर्केन्दुगुरवो गुरुसूर्यबुधाः क्रमात् ।\nलग्नार्कारार्किचन्द्रार्या ज्ञार्कार्या हि बुधस्य तु",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Of Mercury, house by house: [house 1] the Sun, the Moon and Jupiter; [house 2] Jupiter, the Sun and Mercury; [house 3] the Lagna, the Sun, Mars, Saturn, the Moon and Jupiter; [house 4] Mercury, the Sun and Jupiter.",
+          "hindi": "बुध का, भाव-क्रम से: [भाव 1] सूर्य, चन्द्र और गुरु; [भाव 2] गुरु, सूर्य और बुध; [भाव 3] लग्न, सूर्य, मंगल, शनि, चन्द्र और गुरु; [भाव 4] बुध, सूर्य और गुरु।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mercury",
             "graha:moon",
             "graha:sun"
-          ],
-          "english_draft": "Verse 29 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 29 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 30,
           "text": "जीवारेन्द्वार्किलग्नानि शुक्रमन्नधरासुताः ।\nज्ञेन्दुलग्नार्कशुक्रार्या ज्ञार्कौ जीवेन्दुलग्नकाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 5] Jupiter, Mars, the Moon, Saturn and the Lagna; [house 6] Venus, Saturn and Mars [reading मन्न as मन्द]; [house 7] Mercury, the Moon, the Lagna, the Sun, Venus and Jupiter; [house 8] Mercury and the Sun; [house 9] Jupiter, the Moon and the Lagna.",
+          "hindi": "[भाव 5] गुरु, मंगल, चन्द्र, शनि और लग्न; [भाव 6] शुक्र, शनि और मंगल [मन्न को मन्द पढ़ा]; [भाव 7] बुध, चन्द्र, लग्न, सूर्य, शुक्र और गुरु; [भाव 8] बुध और सूर्य; [भाव 9] गुरु, चन्द्र और लग्न।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:venus"
-          ],
-          "english_draft": "Verse 30 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 30 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 31,
           "text": "अर्कार्यशुक्रः शून्यं च होरेन्द्वारार्किभार्गवाः ।\nरूपं धनाययोः खे द्वौ व्यये सप्त क्षतेऽर्णवाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 10] the Sun, Jupiter and Venus; [house 11] none; [house 12] the Lagna, the Moon, Mars, Saturn and Venus; [The karaṇa of Jupiter: the counts]; in houses 2 and 11: one; in house 10: two; in house 12: seven; in house 6: four.",
+          "hindi": "[भाव 10] सूर्य, गुरु और शुक्र; [भाव 11] कोई नहीं; [भाव 12] लग्न, चन्द्र, मंगल, शनि और शुक्र; [गुरु का करण: संख्याएँ]; भाव 2 और 11 में एक; भाव 10 में दो; भाव 12 में सात; भाव 6 में चार।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "graha:venus"
-          ],
-          "english_draft": "Verse 31 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 31 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 32,
           "text": "मृतिविक्रमयो पञ्च गुरोः शेषेषु वह्नियः ।\nलग्ने शुक्रेन्दुमन्दाः स्वे आये मन्दश्च विक्रमे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In houses 8 and 3: five; in houses 1, 4, 5, 7 and 9: three [the remaining houses of Jupiter]; in house 1: Venus, the Moon and Saturn; in houses 2 and 11: Saturn; and in house 3 —",
+          "hindi": "भाव 8 और 3 में पाँच; भाव 1, 4, 5, 7 और 9 में तीन [गुरु के शेष भाव]; भाव 1 में: शुक्र, चन्द्र और शनि; भाव 2 और 11 में: शनि; और भाव 3 में —",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:saturn",
             "graha:venus"
-          ],
-          "english_draft": "Verse 32 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 32 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 33,
           "text": "लग्नारेन्दुज्ञभृगवः सुतेर्कार्यकुजा गृहे ।\nशुक्रमन्देन्दवो द्यूने बुधशुक्रशनैश्चराः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 3] the Lagna, Mars, the Moon, Mercury and Venus [house 3 is named at the end of 66.32]; in house 5: the Sun, Jupiter and Mars; in house 4: Venus, Saturn and the Moon; in house 7: Mercury, Venus and Saturn.",
+          "hindi": "[भाव 3] लग्न, मंगल, चन्द्र, बुध और शुक्र [भाव 3 66.32 के अन्त में कहा गया]; भाव 5 में: सूर्य, गुरु और मंगल; भाव 4 में: शुक्र, शनि और चन्द्र; भाव 7 में: बुध, शुक्र और शनि।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "bhava:7",
@@ -41124,44 +41070,38 @@
             "graha:mercury",
             "graha:saturn",
             "graha:venus"
-          ],
-          "english_draft": "Verse 33 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 33 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 34,
           "text": "जीवारार्केन्दवः शत्रौ सर्वे मन्दं विना व्यये ।\nकर्मणीन्दुशनी धर्मे मन्दारगुरवो मृगौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 6: Jupiter, Mars, the Sun and the Moon; in house 12: all except Saturn; in house 10: the Moon and Saturn; in house 9: Saturn, Mars and Jupiter; and in house 8 [reading मृगौ as मृतौ, 'in the 8th'] —",
+          "hindi": "भाव 6 में: गुरु, मंगल, सूर्य और चन्द्र; भाव 12 में: शनि को छोड़कर सब; भाव 10 में: चन्द्र और शनि; भाव 9 में: शनि, मंगल और गुरु; और भाव 8 में [मृगौ को मृतौ, 'अष्टम में', पढ़ा] —",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:9",
             "graha:jupiter",
             "graha:saturn"
-          ],
-          "english_draft": "Verse 34 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 34 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 35,
           "text": "लग्नार्किसितचन्द्रज्ञाः करणं च गुरोरिदम् ।\nसुतायुर्विक्रमेष्वक्षि तनुस्वव्ययखेष्विषुः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 8] the Lagna, Saturn, Venus, the Moon and Mercury [house 8 is named at the end of 66.34] — this is the karaṇa of Jupiter; [The karaṇa of Venus — the text does not name the planet; it is identified by its counts and lists]; in houses 5, 8 and 3: two; in houses 1, 2, 12 and 10: five.",
+          "hindi": "[भाव 8] लग्न, शनि, शुक्र, चन्द्र और बुध [भाव 8 66.34 के अन्त में कहा गया] — यह गुरु का करण है; [शुक्र का करण — पाठ ग्रह का नाम नहीं लेता; संख्याओं और सूचियों से पहचाना गया]; भाव 5, 8 और 3 में दो; भाव 1, 2, 12 और 10 में पाँच।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "rashi:mesha"
-          ],
-          "english_draft": "Verse 35 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 35 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 36,
           "text": "अष्टौ स्त्रियामरौ षड् भूर्धर्मे मित्रेऽक्षि खं भवे ।\nलग्ने स्वेऽर्कारविज्जीवमन्दाः सर्वे च कामभे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 7: eight; in house 6: six; in house 9: one; in house 4: two [मित्रे, 'the friend's house', = 4. The list at 66.37 gives three here, and the text's sthāna at 66.56 implies three, so this count looks corrupt]; in house 11: none; in houses 1 and 2: the Sun, Mars, Mercury, Jupiter and Saturn; in house 7: all eight.",
+          "hindi": "भाव 7 में आठ; भाव 6 में छह; भाव 9 में एक; भाव 4 में दो [मित्रे, 'मित्र-भाव', = 4। 66.37 की सूची यहाँ तीन देती है, और 66.56 का स्थान भी तीन बताता है, अतः यह संख्या भ्रष्ट लगती है]; भाव 11 में शून्य; भाव 1 और 2 में: सूर्य, मंगल, बुध, गुरु और शनि; भाव 7 में: सभी आठ।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:9",
@@ -41169,16 +41109,14 @@
             "graha:saturn",
             "graha:sun",
             "rel:dignity"
-          ],
-          "english_draft": "Verse 36 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 36 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 37,
           "text": "अर्कार्यौ विक्रमस्थाने सुतेऽर्कारौ शुभे रविः ।\nसुखेऽकबुधजीवाः स्युर्भौमज्ञौ मृतिभे द्वज",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 3: the Sun and Jupiter; in house 5: the Sun and Mars [the commonly printed table has the Sun alone; this text puts Mars's dot for Venus in house 5 and its line in house 4, consistently — see 66.56–57]; in house 9: the Sun; in house 4: the Sun, Mercury and Jupiter [reading अक as अर्क]; in house 8: Mars and Mercury [द्वज — reading uncertain; perhaps द्विज, 'O twice-born'].",
+          "hindi": "भाव 3 में: सूर्य और गुरु; भाव 5 में: सूर्य और मंगल [सामान्य मुद्रित तालिका में केवल सूर्य; यह पाठ शुक्र के लिए मंगल का बिन्दु भाव 5 में और रेखा भाव 4 में रखता है, सुसंगत रूप से — देखें 66.56–57]; भाव 9 में: सूर्य; भाव 4 में: सूर्य, बुध और गुरु [अक को अर्क पढ़ा]; भाव 8 में: मंगल और बुध [द्वज — पाठ अनिश्चित; सम्भवतः द्विज, 'हे द्विज']।",
+          "status": "translated",
           "tags": [
             "bhava:4",
             "bhava:5",
@@ -41188,59 +41126,51 @@
             "graha:sun",
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 37 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 37 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 38,
           "text": "शुक्रार्केन्द्वार्किलग्नार्याः शत्रौ शून्यं भवे व्यये ।\nहोरार्किबुधशुक्रार्यास्तन्वारज्ञेन्द्विनाश्च खे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 6: Venus, the Sun, the Moon, Saturn, the Lagna and Jupiter; in house 11: none; in house 12: the Lagna, Saturn, Mercury, Venus and Jupiter; in house 10: the Lagna, Mars, Mercury, the Moon and Ina [the Sun].",
+          "hindi": "भाव 6 में: शुक्र, सूर्य, चन्द्र, शनि, लग्न और गुरु; भाव 11 में: कोई नहीं; भाव 12 में: लग्न, शनि, बुध, शुक्र और गुरु; भाव 10 में: लग्न, मंगल, बुध, चन्द्र और इन [सूर्य]।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "entity:varga",
             "graha:mercury",
             "graha:venus"
-          ],
-          "english_draft": "Verse 38 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 38 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 39,
           "text": "स्वस्त्रीधर्मेषु सप्ताङ्गं मृतिहोरागृहेषु च ।\nआज्ञाभ्रातृव्यये वेदा रूपं शत्रौ सुते शराः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The karaṇa of Saturn: the counts]; in houses 2, 7 and 9: seven; in houses 8, 1 and 4: six; in houses 10, 3 and 12: four; in house 6: one; in house 5: five.",
+          "hindi": "[शनि का करण: संख्याएँ]; भाव 2, 7 और 9 में सात; भाव 8, 1 और 4 में छह; भाव 10, 3 और 12 में चार; भाव 6 में एक; भाव 5 में पाँच।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:5",
             "bhava:9",
             "entity:varga"
-          ],
-          "english_draft": "Verse 39 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 39 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 40,
           "text": "आये शून्यं शनेरेवं करणं प्रोच्यते बुधैः ।\nगृहे तनौ च लग्नार्कौ स्वस्त्रियोश्च रविं विना",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 11: none — thus the wise declare the karaṇa of Saturn; in houses 4 and 1: [all except] the Lagna and the Sun [the text names only the two; the count of six requires 'except']; in houses 2 and 7: all except the Sun.",
+          "hindi": "भाव 11 में शून्य — इस प्रकार बुधजन शनि का करण कहते हैं; भाव 4 और 1 में: लग्न और सूर्य [को छोड़कर सब — पाठ केवल दो नाम लेता है; छह की संख्या 'छोड़कर' माँगती है]; भाव 2 और 7 में: सूर्य को छोड़कर सब।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "graha:sun"
-          ],
-          "english_draft": "Verse 40 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 40 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 41,
           "text": "हित्वा धर्मे बुधं माने लग्नाररविचन्द्रजान् ।\nततो भ्रातरि जीवार्कबुधशुक्राः क्षते रविः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 9: all except Mercury; in house 10: all except the Lagna, Mars, the Sun and Mercury [चन्द्रज, 'son of the Moon', = Mercury]; in house 3: Jupiter, the Sun, Mercury and Venus; in house 6: the Sun.",
+          "hindi": "भाव 9 में: बुध को छोड़कर सब; भाव 10 में: लग्न, मंगल, सूर्य और बुध को छोड़कर सब [चन्द्रज = बुध]; भाव 3 में: गुरु, सूर्य, बुध और शुक्र; भाव 6 में: सूर्य।",
+          "status": "translated",
           "tags": [
             "bhava:9",
             "graha:jupiter",
@@ -41248,31 +41178,27 @@
             "graha:moon",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 41 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 41 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 42,
           "text": "व्यये लग्नेन्दुमन्दार्काः सितार्कन्दुज्ञलग्नकाः ।\nसुते मृतौ बुधार्कौ च हित्वाऽये खं शनेर्विदः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 12: the Lagna, the Moon, Saturn and the Sun; in house 5: Venus, the Sun, the Moon, Mercury and the Lagna [reading सितार्कन्दु as सितार्केन्दु]; in house 8: all except Mercury and the Sun; in house 11: none — of Saturn, so the wise [say].",
+          "hindi": "भाव 12 में: लग्न, चन्द्र, शनि और सूर्य; भाव 5 में: शुक्र, सूर्य, चन्द्र, बुध और लग्न [सितार्कन्दु को सितार्केन्दु पढ़ा]; भाव 8 में: बुध और सूर्य को छोड़कर सब; भाव 11 में: कोई नहीं — शनि का, ऐसा बुधजन [कहते हैं]।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:12",
             "bhava:5",
             "graha:mercury",
             "graha:saturn"
-          ],
-          "english_draft": "Verse 42 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 42 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 43,
           "text": "अथ स्थानग्रहान् वक्ष्ये सुखबोधाय सुरिणाम्",
-          "english": "Now I shall describe the Sthana (positional) grahas, for the easy understanding of the wise.",
-          "hindi": "अब मैं विद्वानों की सुगम समझ के लिए स्थान ग्रहों का वर्णन करूँगा।",
+          "english": "Now I shall state the sthāna planets — those giving the auspicious lines — for the easy understanding of the learned.",
+          "hindi": "अब विद्वानों के सुगम बोध के लिए स्थान-ग्रह — शुभ रेखा देने वाले — कहूँगा।",
           "status": "translated",
           "tags": [
             "rel:position"
@@ -41281,9 +41207,9 @@
         {
           "number": 44,
           "text": "स्वायस्तनुषु मन्दारसूर्या जीवबुधौ सुते ।\nविक्रमे ज्ञेन्दुलग्नानि लग्नार्कार्किकुजा गृहे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The sthāna — auspicious lines — of the Sun]; in houses 2, 8 and 1: Saturn, Mars and the Sun [reading स्वाय as स्वायु: houses 2 and 8]; in house 5: Jupiter and Mercury; in house 3: Mercury, the Moon and the Lagna; in house 4: the Lagna, the Sun, Saturn and Mars.",
+          "hindi": "[सूर्य का स्थान — शुभ रेखाएँ]; भाव 2, 8 और 1 में: शनि, मंगल और सूर्य [स्वाय को स्वायु पढ़ा: भाव 2 और 8]; भाव 5 में: गुरु और बुध; भाव 3 में: बुध, चन्द्र और लग्न; भाव 4 में: लग्न, सूर्य, शनि और मंगल।",
+          "status": "translated",
           "tags": [
             "bhava:5",
             "graha:jupiter",
@@ -41291,78 +41217,68 @@
             "graha:mercury",
             "graha:saturn",
             "graha:sun"
-          ],
-          "english_draft": "Verse 44 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 44 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 45,
           "text": "ते च ज्ञेन्दू खभे चाऽये सर्वे शुक्रं विना व्यये ।\nलग्नशुक्रबुधाः शत्रौ ते च जीवसुधाकरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 10: these, and Mercury and the Moon; in house 11: all except Venus; in house 12: the Lagna, Venus and Mercury; in house 6: these, and Jupiter and the Moon.",
+          "hindi": "भाव 10 में: ये, और बुध तथा चन्द्र; भाव 11 में: शुक्र को छोड़कर सब; भाव 12 में: लग्न, शुक्र और बुध; भाव 6 में: ये, और गुरु तथा चन्द्र।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "graha:jupiter",
             "graha:mercury",
             "graha:venus"
-          ],
-          "english_draft": "Verse 45 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 45 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 46,
           "text": "द्यूनेऽर्कारार्किशुक्राश्च धर्मेर्कारार्किविद्गुरुः ।\nज्ञेन्दुजीवाः कुजार्यौ ज्ञार्केन्द्वारार्कितनूशनाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 7: the Sun, Mars, Saturn and Venus; in house 9: the Sun, Mars, Saturn, Mercury and Jupiter; [The sthāna of the Moon, house by house]; [house 1] Mercury, the Moon and Jupiter; [house 2] Mars and Jupiter [the commonly printed table has Mars alone; Jupiter here agrees with this text's karaṇa counts at 66.20–21]; [house 3] Mercury, the Sun, the Moon, Mars, Saturn, the Lagna and Uśanas [Venus].",
+          "hindi": "भाव 7 में: सूर्य, मंगल, शनि और शुक्र; भाव 9 में: सूर्य, मंगल, शनि, बुध और गुरु; [चन्द्र का स्थान, भाव-क्रम से]; [भाव 1] बुध, चन्द्र और गुरु; [भाव 2] मंगल और गुरु [सामान्य मुद्रित तालिका में केवल मंगल; यहाँ गुरु इस पाठ की 66.20–21 की करण-संख्याओं से सहमत है]; [भाव 3] बुध, सूर्य, चन्द्र, मंगल, शनि, लग्न और उशना [शुक्र]।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "bhava:9",
             "graha:jupiter",
             "graha:mars",
             "graha:venus"
-          ],
-          "english_draft": "Verse 46 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 46 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 47,
           "text": "जीवशुक्रबुधा भौमबुधशुक्रशनैश्चराः ।\nरवीन्द्वारार्किलग्नानि रवीन्द्वार्यज्ञभार्गवाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 4] Jupiter, Venus and Mercury; [house 5] Mars, Mercury, Venus and Saturn; [house 6] the Sun, the Moon, Mars, Saturn and the Lagna; [house 7] the Sun, the Moon, Jupiter, Mercury and Venus.",
+          "hindi": "[भाव 4] गुरु, शुक्र और बुध; [भाव 5] मंगल, बुध, शुक्र और शनि; [भाव 6] सूर्य, चन्द्र, मंगल, शनि और लग्न; [भाव 7] सूर्य, चन्द्र, गुरु, बुध और शुक्र।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:mercury",
             "graha:venus"
-          ],
-          "english_draft": "Verse 47 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 47 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 48,
           "text": "अर्कज्ञजीवाः शुक्रेन्दू ते च तौ लग्नभूसुतौ ।\nसर्वे शून्यं क्रमात्प्रोक्तं स्थानं शीतकरस्य च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 8] the Sun, Mercury and Jupiter; [house 9] Venus and the Moon [the commonly printed table has Mars, not the Moon; this agrees with the text's own karaṇa at 66.23]; [house 10] those [of house 8] and those two [of house 9], and the Lagna and Mars; [house 11] all eight; [house 12] none [the commonly printed table has Jupiter here; this agrees with the text's count of eight dots at 66.21] — in order, the sthāna of the Moon.",
+          "hindi": "[भाव 8] सूर्य, बुध और गुरु; [भाव 9] शुक्र और चन्द्र [सामान्य मुद्रित तालिका में चन्द्र नहीं, मंगल; यह 66.23 के इस पाठ के करण से सहमत है]; [भाव 10] वे [भाव 8 के] और वे दो [भाव 9 के], और लग्न तथा मंगल; [भाव 11] सभी आठ; [भाव 12] कोई नहीं [सामान्य मुद्रित तालिका में यहाँ गुरु; यह 66.21 के आठ बिन्दुओं से सहमत है] — क्रम से, चन्द्र का स्थान।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:saturn",
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 48 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 48 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 49,
           "text": "लग्नमन्दकुजा भौमो होराज्ञेन्दुदिनाधिपाः ।\nमन्दारौ ज्ञरवी ज्ञेन्दुजीवार्कतनुभार्गवाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The sthāna of Mars, house by house]; [house 1] the Lagna, Saturn and Mars; [house 2] Mars; [house 3] the Lagna, Mercury, the Moon and the Sun; [house 4] Saturn and Mars; [house 5] Mercury and the Sun; [house 6] Mercury, the Moon, Jupiter, the Sun, the Lagna and Venus.",
+          "hindi": "[मंगल का स्थान, भाव-क्रम से]; [भाव 1] लग्न, शनि और मंगल; [भाव 2] मंगल; [भाव 3] लग्न, बुध, चन्द्र और सूर्य; [भाव 4] शनि और मंगल; [भाव 5] बुध और सूर्य; [भाव 6] बुध, चन्द्र, गुरु, सूर्य, लग्न और शुक्र।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "graha:jupiter",
@@ -41370,61 +41286,53 @@
             "graha:saturn",
             "graha:venus",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 49 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 49 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 50,
           "text": "मन्दारौ तौ सित श्चार्किः कुजार्कार्यार्किलग्नकाः ।\nसर्वे गुरुसितौ स्थानं भौमस्तैवं विदुर्बुधाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 7] Saturn and Mars; [house 8] those two, and Venus; [house 9] Saturn; [house 10] Mars, the Sun, Jupiter, Saturn and the Lagna; [house 11] all eight; [house 12] Jupiter and Venus — thus the wise know the sthāna of Mars [reading भौमस्तैवं as भौमस्यैवं].",
+          "hindi": "[भाव 7] शनि और मंगल; [भाव 8] वे दो, और शुक्र; [भाव 9] शनि; [भाव 10] मंगल, सूर्य, गुरु, शनि और लग्न; [भाव 11] सभी आठ; [भाव 12] गुरु और शुक्र — इस प्रकार बुधजन मंगल का स्थान जानते हैं [भौमस्तैवं को भौमस्यैवं पढ़ा]।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:mercury",
             "graha:saturn",
             "rel:position"
-          ],
-          "english_draft": "Verse 50 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 50 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 51,
           "text": "लग्नमन्दारशुक्रज्ञा लग्नारेन्दुसितार्कजाः ।\nशुक्रज्ञौ लग्नचन्द्रार्किसितारा ज्ञार्कभार्गवाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The sthāna of Mercury, house by house]; [house 1] the Lagna, Saturn, Mars, Venus and Mercury; [house 2] the Lagna, Mars, the Moon, Venus and Saturn; [house 3] Venus and Mercury; [house 4] the Lagna, the Moon, Saturn, Venus and Mars; [house 5] Mercury, the Sun and Venus.",
+          "hindi": "[बुध का स्थान, भाव-क्रम से]; [भाव 1] लग्न, शनि, मंगल, शुक्र और बुध; [भाव 2] लग्न, मंगल, चन्द्र, शुक्र और शनि; [भाव 3] शुक्र और बुध; [भाव 4] लग्न, चन्द्र, शनि, शुक्र और मंगल; [भाव 5] बुध, सूर्य और शुक्र।",
+          "status": "translated",
           "tags": [
             "graha:moon",
             "graha:saturn",
             "graha:venus"
-          ],
-          "english_draft": "Verse 51 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 51 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 52,
           "text": "जीवज्ञार्केन्दुलग्नानि भूमिपुत्रशनैश्चरौ ।\nतौ च लग्नेन्दु शक्रार्या मन्दारार्कज्ञभार्गवाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 6] Jupiter, Mercury, the Sun, the Moon and the Lagna; [house 7] Mars and Saturn; [house 8] those two, and the Lagna, the Moon, Venus [reading शक्र as शुक्र] and Jupiter; [house 9] Saturn, Mars, the Sun, Mercury and Venus.",
+          "hindi": "[भाव 6] गुरु, बुध, सूर्य, चन्द्र और लग्न; [भाव 7] मंगल और शनि; [भाव 8] वे दो, और लग्न, चन्द्र, शुक्र [शक्र को शुक्र पढ़ा] और गुरु; [भाव 9] शनि, मंगल, सूर्य, बुध और शुक्र।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:jupiter",
             "graha:saturn",
             "graha:venus"
-          ],
-          "english_draft": "Verse 52 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 52 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 53,
           "text": "लग्नमन्दारविच्चन्द्राः सर्वे जीवज्ञभास्कराः ।\nगुरोर्लग्ने सुखे जीव लग्नाराक्रबुधा धने",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 10] the Lagna, Saturn, Mars, Mercury and the Moon; [house 11] all eight; [house 12] Jupiter, Mercury and the Sun; Of Jupiter: in houses 1 and 4: Jupiter, the Lagna, Mars, the Sun and Mercury [reading आक्र as अर्क]; in house 2 —",
+          "hindi": "[भाव 10] लग्न, शनि, मंगल, बुध और चन्द्र; [भाव 11] सभी आठ; [भाव 12] गुरु, बुध और सूर्य; गुरु का: भाव 1 और 4 में: गुरु, लग्न, मंगल, सूर्य और बुध [आक्र को अर्क पढ़ा]; भाव 2 में —",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:2",
@@ -41434,32 +41342,28 @@
             "graha:moon",
             "graha:saturn",
             "graha:sun"
-          ],
-          "english_draft": "Verse 53 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 53 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 54,
           "text": "चन्द्रशुक्रौ च दुश्चिक्ये मन्दार्यार्काः शनिर्व्यये ।\nसुते शुक्रेन्दुलग्नज्ञमन्दाश्चन्द्रं विना त्वरौ",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 2] those, and the Moon and Venus [house 2 is named at the end of 66.53]; in house 3: Saturn, Jupiter and the Sun; in house 12: Saturn; in house 5: Venus, the Moon, the Lagna, Mercury and Saturn; in house 6: these, without the Moon.",
+          "hindi": "[भाव 2] वे, और चन्द्र तथा शुक्र [भाव 2 66.53 के अन्त में कहा गया]; भाव 3 में: शनि, गुरु और सूर्य; भाव 12 में: शनि; भाव 5 में: शुक्र, चन्द्र, लग्न, बुध और शनि; भाव 6 में: ये, चन्द्र के बिना।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:5",
             "graha:moon",
             "graha:saturn",
             "graha:venus"
-          ],
-          "english_draft": "Verse 54 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 54 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 55,
           "text": "लग्नारार्याऽर्केन्दवोऽस्ते मृगौ जीवार्कभूसुताः ।\nधर्मे शुक्रार्कलग्नेन्दुबुधा मन्दं विनाऽयभे",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 7: the Lagna, Mars, Jupiter, the Sun and the Moon; in house 8: Jupiter, the Sun and Mars [reading मृगौ as मृतौ, 'in the 8th']; in house 9: Venus, the Sun, the Lagna, the Moon and Mercury; in house 11: all except Saturn.",
+          "hindi": "भाव 7 में: लग्न, मंगल, गुरु, सूर्य और चन्द्र; भाव 8 में: गुरु, सूर्य और मंगल [मृगौ को मृतौ, 'अष्टम में', पढ़ा]; भाव 9 में: शुक्र, सूर्य, लग्न, चन्द्र और बुध; भाव 11 में: शनि को छोड़कर सब।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "bhava:9",
@@ -41468,136 +41372,118 @@
             "graha:mercury",
             "graha:saturn",
             "graha:venus"
-          ],
-          "english_draft": "Verse 55 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 55 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 56,
           "text": "माने गुरुबुधारार्कशुक्रहोरास्तथा विदुः ।\nलग्नशुक्रेन्दव स्ते ते ज्ञार्क्या रास्ते ज्ञवर्जिताः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 10: Jupiter, Mercury, Mars, the Sun, Venus and the Lagna — so they know; [The sthāna of Venus, house by house]; [house 1] the Lagna, Venus and the Moon; [house 2] the same; [house 3] the same, with Mercury, Saturn [reading आर्क्य as आर्कि] and Mars; [house 4] the same, without Mercury.",
+          "hindi": "भाव 10 में: गुरु, बुध, मंगल, सूर्य, शुक्र और लग्न — ऐसा जानते हैं; [शुक्र का स्थान, भाव-क्रम से]; [भाव 1] लग्न, शुक्र और चन्द्र; [भाव 2] वही; [भाव 3] वही, बुध, शनि [आर्क्य को आर्कि पढ़ा] और मंगल सहित; [भाव 4] वही, बुध के बिना।",
+          "status": "translated",
           "tags": [
             "entity:varga",
             "graha:jupiter",
             "graha:mercury",
             "graha:venus"
-          ],
-          "english_draft": "Verse 56 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 56 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 57,
           "text": "सुतभे लघ्नशशिजशशाङ्कार्यार्किभार्गवाः ।\nज्ञारौ शून्यं सिताऽर्केन्दुगुरुलग्नशनैश्चराः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 5: the Lagna [reading लघ्न as लग्न], Śaśija [Mercury], the Moon, Jupiter, Saturn and Venus; [house 6] Mercury and Mars; [house 7] none; [house 8] Venus, the Sun, the Moon, Jupiter, the Lagna and Saturn.",
+          "hindi": "भाव 5 में: लग्न [लघ्न को लग्न पढ़ा], शशिज [बुध], चन्द्र, गुरु, शनि और शुक्र; [भाव 6] बुध और मंगल; [भाव 7] कोई नहीं; [भाव 8] शुक्र, सूर्य, चन्द्र, गुरु, लग्न और शनि।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:moon",
             "graha:venus"
-          ],
-          "english_draft": "Verse 57 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 57 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 58,
           "text": "सर्वे रविं विना शुक्रगुरुमन्दाश्च मानभे ।\nसर्वे कुजेन्दुरवयः क्रमात् भृगुसुतस्य च",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 9] all except the Sun; in house 10: Venus, Jupiter and Saturn; [house 11] all eight; [house 12] Mars, the Moon and the Sun — in order, of the son of Bhṛgu [Venus].",
+          "hindi": "[भाव 9] सूर्य को छोड़कर सब; भाव 10 में: शुक्र, गुरु और शनि; [भाव 11] सभी आठ; [भाव 12] मंगल, चन्द्र और सूर्य — क्रम से, भृगुपुत्र [शुक्र] का।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:saturn",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 58 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 58 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 59,
           "text": "शने रवितनू सूर्यो लग्नेन्दुकुजसूर्यजाः ।\nलग्नार्कौ जीवमन्दाराः सर्वे सूर्यं विना क्षते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Of Saturn, house by house: [house 1] the Sun and the Lagna; [house 2] the Sun; [house 3] the Lagna, the Moon, Mars and Sūryaja [the son of the Sun, Saturn]; [house 4] the Lagna and the Sun; [house 5] Jupiter, Saturn and Mars; in house 6: all except the Sun.",
+          "hindi": "शनि का, भाव-क्रम से: [भाव 1] सूर्य और लग्न; [भाव 2] सूर्य; [भाव 3] लग्न, चन्द्र, मंगल और सूर्यज [सूर्यपुत्र, शनि]; [भाव 4] लग्न और सूर्य; [भाव 5] गुरु, शनि और मंगल; भाव 6 में: सूर्य को छोड़कर सब।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "graha:jupiter",
             "graha:mars",
             "graha:saturn",
             "graha:sun"
-          ],
-          "english_draft": "Verse 59 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 59 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 60,
           "text": "अर्कोऽर्कज्ञौ बुधोऽर्कारतनुज्ञाः सकलास्ततः ।\nकुजज्ञगुरुशुक्राश्च क्रमात् स्थानमिदं विदुः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 7] the Sun; [house 8] the Sun and Mercury; [house 9] Mercury; [house 10] the Sun, Mars, the Lagna and Mercury; [house 11] all eight; [house 12] Mars, Mercury, Jupiter and Venus — in order; this they know as the sthāna.",
+          "hindi": "[भाव 7] सूर्य; [भाव 8] सूर्य और बुध; [भाव 9] बुध; [भाव 10] सूर्य, मंगल, लग्न और बुध; [भाव 11] सभी आठ; [भाव 12] मंगल, बुध, गुरु और शुक्र — क्रम से; इसे स्थान जानते हैं।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:mars",
             "graha:mercury",
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 60 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 60 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 61,
           "text": "तनौ तुर्ये च वह्निः स्याद् दुश्चिक्ये द्वौ धने शराः ।\nबुद्धिमृत्यंकरिःफेषु षट् खेशक्षतराशिषु",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The karaṇa of the Lagna: the counts]; in houses 1 and 4: three; in house 3: two; in house 2: five; in houses 5, 8, 9 and 12: six [अङ्क, 'numeral', = 9]; and in houses 10, 11 [ईश, Rudra, = 11] and 6 —",
+          "hindi": "[लग्न का करण: संख्याएँ]; भाव 1 और 4 में तीन; भाव 3 में दो; भाव 2 में पाँच; भाव 5, 8, 9 और 12 में छह [अङ्क = 9]; और भाव 10, 11 [ईश, रुद्र, = 11] और 6 में —",
+          "status": "translated",
           "tags": [
             "bhava:2",
             "rel:lordship"
-          ],
-          "english_draft": "Verse 61 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 61 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 62,
           "text": "रूपंस्त्रियां गुरुं त्यक्त्वा लग्नस्य करणं त्विदम् ।\nहोरासूर्येन्दवो लग्ने लग्नारेन्द्विनसूर्यजाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In houses 10, 11 and 6: one [houses named at the end of 66.61]; in house 7: seven [given as 'leaving out Jupiter'] — this is the karaṇa of the Lagna; in house 1: the Lagna, the Sun and the Moon; [house 2] the Lagna, Mars, the Moon, Ina [the Sun] and Sūryaja [Saturn].",
+          "hindi": "भाव 10, 11 और 6 में एक [भाव 66.61 के अन्त में कहे गए]; भाव 7 में सात ['गुरु को छोड़कर' कहा गया] — यह लग्न का करण है; भाव 1 में: लग्न, सूर्य और चन्द्र; [भाव 2] लग्न, मंगल, चन्द्र, इन [सूर्य] और सूर्यज [शनि]।",
+          "status": "translated",
           "tags": [
             "bhava:1",
             "entity:varga",
             "graha:jupiter",
             "graha:saturn",
             "graha:sun"
-          ],
-          "english_draft": "Verse 62 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 62 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 63,
           "text": "गुरुज्ञौ लग्नचन्द्रारा लसूचंमंबुसौरयः ।\nक्षते शुक्रस्तथा चैकः कामे सर्वे गुरुं विना",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[house 3] Jupiter and Mercury; [house 4] the Lagna, the Moon and Mars; [house 5] the Lagna, the Sun, the Moon, Mars, Mercury and Saturn [given as bare syllables: ल सू चं मं बु सौरि]; in house 6: Venus — just one; in house 7: all except Jupiter.",
+          "hindi": "[भाव 3] गुरु और बुध; [भाव 4] लग्न, चन्द्र और मंगल; [भाव 5] लग्न, सूर्य, चन्द्र, मंगल, बुध और शनि [केवल अक्षरों में: ल सू चं मं बु सौरि]; भाव 6 में: शुक्र — केवल एक; भाव 7 में: गुरु को छोड़कर सब।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:moon",
             "graha:venus"
-          ],
-          "english_draft": "Verse 63 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 63 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 64,
           "text": "मृगौ भृगुबुधौ त्यक्त्वा धर्मे गुरुसितौ विना ।\nकर्मण्याये तथा शुक्रोव्यये सूर्येन्दुवर्जिताः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 8: all except Venus and Mercury [reading मृगौ as मृतौ, 'in the 8th']; in house 9: all except Jupiter and Venus; in houses 10 and 11: Venus; in house 12: all except the Sun and the Moon.",
+          "hindi": "भाव 8 में: शुक्र और बुध को छोड़कर सब [मृगौ को मृतौ, 'अष्टम में', पढ़ा]; भाव 9 में: गुरु और शुक्र को छोड़कर सब; भाव 10 और 11 में: शुक्र; भाव 12 में: सूर्य और चन्द्र को छोड़कर सब।",
+          "status": "translated",
           "tags": [
             "bhava:12",
             "bhava:9",
@@ -41605,9 +41491,7 @@
             "graha:mercury",
             "graha:sun",
             "graha:venus"
-          ],
-          "english_draft": "Verse 64 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 64 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 65,
@@ -41622,39 +41506,35 @@
         {
           "number": 66,
           "text": "आर्किज्ञशुक्रगुर्वाराः सौम्यदेवेज्यभार्गवाः ।\nहित्वा सौम्यगुरू शेषाः सूज्ञेज्यभृगुसूर्यजाः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "[The sthāna of the Lagna, house by house]; [house 1] Saturn, Mercury, Venus, Jupiter and Mars; [house 2] Saumya [Mercury], Devejya [Jupiter] and Venus; [house 3] all except Mercury and Jupiter; [house 4] Sū [the Sun], Mercury, Jupiter, Venus and Saturn.",
+          "hindi": "[लग्न का स्थान, भाव-क्रम से]; [भाव 1] शनि, बुध, शुक्र, गुरु और मंगल; [भाव 2] सौम्य [बुध], देवेज्य [गुरु] और शुक्र; [भाव 3] बुध और गुरु को छोड़कर सब; [भाव 4] सू [सूर्य], बुध, गुरु, शुक्र और शनि।",
+          "status": "translated",
           "tags": [
             "graha:jupiter",
             "graha:saturn",
             "graha:venus",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 66 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 66 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 67,
           "text": "तथा जीवभृगू बुद्धौ सर्वे शुक्रं विना क्षते ।\nजीव एकस्तथा द्यूने मृगौ सौम्यभृगू तथा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 5: Jupiter and Venus; in house 6: all except Venus; in house 7: Jupiter alone; in house 8: Mercury and Venus [reading मृगौ as मृतौ, 'in the 8th'].",
+          "hindi": "भाव 5 में: गुरु और शुक्र; भाव 6 में: शुक्र को छोड़कर सब; भाव 7 में: केवल गुरु; भाव 8 में: बुध और शुक्र [मृगौ को मृतौ, 'अष्टम में', पढ़ा]।",
+          "status": "translated",
           "tags": [
             "bhava:7",
             "graha:jupiter",
             "graha:venus",
             "rel:polarity"
-          ],
-          "english_draft": "Verse 67 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 67 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 68,
           "text": "धर्मे गुरुसितावेव खे भवे शुक्रमन्तरा ।\nसूर्यचन्द्रौ तथा रिष्फे स्थानं लग्नस्य कीर्तितम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In house 9: Jupiter and Venus only; in houses 10 and 11: all except Venus; in house 12: the Sun and the Moon — thus the sthāna of the Lagna is declared.",
+          "hindi": "भाव 9 में: केवल गुरु और शुक्र; भाव 10 और 11 में: शुक्र को छोड़कर सब; भाव 12 में: सूर्य और चन्द्र — इस प्रकार लग्न का स्थान कहा गया।",
+          "status": "translated",
           "tags": [
             "bhava:9",
             "graha:jupiter",
@@ -41662,62 +41542,52 @@
             "graha:sun",
             "graha:venus",
             "rel:position"
-          ],
-          "english_draft": "Verse 68 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 68 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 69,
           "text": "करणं बिन्दुवत् लेख्यं स्थानं रेखास्वरूपकम् ।\nकरणं त्वशुभदं प्रोक्तं स्थानं शुभफलप्रदम्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "The karaṇa is to be written as a dot, the sthāna in the form of a line. The karaṇa is declared to give inauspicious results, the sthāna auspicious ones.",
+          "hindi": "करण बिन्दु के रूप में लिखना चाहिए, स्थान रेखा के रूप में। करण अशुभ फल देने वाला कहा गया है, स्थान शुभ फल देने वाला।",
+          "status": "translated",
           "tags": [
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 69 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 69 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 70,
           "text": "दशारेखा लिखेदूर्ध्वास्तिर्यग् रेखाश्चतुर्दश ।\nनगेशकोष्ठसंयुक्तं चक्रमेवं प्रजायते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "Draw ten lines upright and fourteen across; thus a chart is produced with nageśa cells [naga 7, īśa 11, read right to left: 117 = 9 × 13].",
+          "hindi": "दस रेखाएँ खड़ी और चौदह आड़ी खींचें; इस प्रकार नगेश कोष्ठों वाला चक्र बनता है [नग 7, ईश 11, दाएँ से बाएँ पढ़कर: 117 = 9 × 13]।",
+          "status": "translated",
           "tags": [
             "entity:dasha",
             "rel:conjunction",
             "rel:position"
-          ],
-          "english_draft": "Verse 70 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 70 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 71,
           "text": "तिर्यगष्टसु कोष्ठेषु विलग्नसहितान् खगान् ।\nआद्येषूर्ध्वाधरेष्वेवं भावसंख्या लिखेद् बुधः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "In the eight cells running across, the wise should write the planets together with the lagna; and down the first column of cells, from top to bottom, the numbers of the houses.",
+          "hindi": "आड़े आठ कोष्ठों में बुद्धिमान लग्न सहित ग्रहों को लिखें; और पहले स्तम्भ के कोष्ठों में ऊपर से नीचे भावों की संख्या।",
+          "status": "translated",
           "tags": [
             "graha:mercury",
             "rel:conjunction"
-          ],
-          "english_draft": "Verse 71 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 71 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         },
         {
           "number": 72,
           "text": "यथोक्तं विन्यसेत् तत्र करणं स्थानमेव वा ।\nततः शुभाऽशुभं ज्ञात्वा जातकस्य फलं वदेत्",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
+          "english": "There place, as stated, the karaṇa or the sthāna; then, knowing the auspicious and the inauspicious, declare the native's results.",
+          "hindi": "वहाँ, जैसा कहा गया, करण या स्थान रखें; फिर शुभ-अशुभ जानकर जातक का फल कहें।",
+          "status": "translated",
           "tags": [
             "rel:polarity",
             "rel:position"
-          ],
-          "english_draft": "Verse 72 of chapter 66: The sage specifies that when planetary configurations align in this manner, the native experiences the corresponding bodily, financial, and karmic consequences.",
-          "hindi_draft": "अध्याय 66 के श्लोक 72 में: मुनि प्रतिपादित करते हैं कि जब ग्रहों का ऐसा योग बनता है, तब जातक तदनुसार शारीरिक, आर्थिक व कर्म फल भोगता है।"
+          ]
         }
       ]
     },
