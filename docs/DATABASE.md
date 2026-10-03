@@ -217,3 +217,45 @@ worth keeping because the second one recurred:
   until that decision lands.
 - The gate suite **skips itself** without a database, which reads as a pass. `CORPUS_REQUIRE_DB=1`
   turns that into a failure; CI must set it.
+
+
+## Moved from CLAUDE.md 2026-10-03
+
+From the "What this repo is" section:
+
+> This file said "not a code project, a data repository" until 2026-09-16;
+
+From "Uniform JSON schema" (the JSON shape and its non-gate field notes):
+
+Every `.json` file in this repo uses this schema — no exceptions:
+
+```json
+{
+  "text_id": "bphs",
+  "title_sa": "बृहत्पाराशरहोराशास्त्रम्",
+  "title_en": "Brihat Parashara Hora Shastra",
+  "category": "parashari",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "सृष्टिक्रमकथनाध्यायः",
+      "shlokas": [
+        {
+          "number": 1,
+          "text": "Devanagari shloka, \\n between padas",
+          "english": "English translation",
+          "hindi": "Hindi translation",
+          "status": "translated"
+        }
+      ]
+    }
+  ]
+}
+```
+
+- `text_id` — machine-readable slug matching the `@source` decorator in AstroAcharya
+- `category` — a plain string, **not** an enum, so the schema rejects nothing. The one thing that rejects a typo is `KNOWN_CATEGORIES` in `astroacharya/scripts/validate_corpus.py`, and **no hook or test here runs it** — so adding a category is a two-repo change, and a misspelt one goes silently invisible to every category filter while all counts stay green. **Do not restate the list here**: this bullet carried its own copy until 2026-09-14 and it had rotted to 10 of the 14 in use. **G51**.
+- `number` — integer for most shlokas/chapters; **string** for valid source sub-divisions: `"1/2"` for half-shlokas, and a Devanagari-suffixed chapter like `"63अ"` / `"63ब"` for a sub-divided chapter
+- Files covering a single chapter still use the `chapters` array (one element) — uniform iteration in the seed script
+
+**Do not add back** `source`, `header`, `book`, `english_meaning`, `hindi_meaning`, `source_file`, `source_chunk`, `is_duplicate` — these were pre-normalization artifacts.

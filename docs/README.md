@@ -76,3 +76,23 @@ never silently diverges from what the corpus holds. Flow diagram:
 - **Machine drafts never publish.** They live in `english_draft` / `hindi_draft`; astroacharya's
   seeder copies an allowlist that excludes them, so the unsafe path is unreachable rather than
   merely discouraged. Verification promotes a draft into `english` / `hindi`.
+
+
+## Moved from CLAUDE.md 2026-10-03
+
+From "Conventions":
+
+- Sub-divided chapters keep the Devanagari suffix in the chapter `number` (`"63अ"` / `"63ब"`) — do not renumber them to integers. **There are no per-chapter files**: `BPHS0110.json` and `MS_063अ.json` were retired by the one-file rule (2026-08-18) and this section named both until 2026-09-02
+
+From "Code exploration":
+
+## Code exploration
+
+This is a **JSON data corpus**, so the callers/impact/tests tools don't apply to the data — use **Grep / Read / the Explore agent**. A `code-review-graph` graph does exist here — **derive its freshness with `code-review-graph status`, never restate it.** But `.git/hooks/pre-commit` is **DEAD**: this repo sets `core.hooksPath=.githooks`, so nothing rebuilds the graph on commit and no stale graph "self-heals". This section asserted both until 2026-09-14; the `fatal: unable to read <sha>` bursts it invoked as evidence are **G25 — narrowed, not solved**, and G25 explicitly rules out the graph hook as their cause. See `rule:tool-priority`.
+
+From "State management":
+
+WORKSPACE** at `../propagation/state/sanskrit-texts/`. The `STATE.md`
+and `docs/DECISIONS.md` still in this repo are 14-line stubs headed "moved"; this section
+described them as the real files until 2026-09-10. Pre-move history, including the `TODO.md`
+absorbed into STATE.md and deleted 2026-08-17: `git log --follow -- STATE.md`.

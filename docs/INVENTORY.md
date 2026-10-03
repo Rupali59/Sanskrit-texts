@@ -351,3 +351,55 @@ add / re-chunk a text  →  update this file by hand           →  INVENTORY.md
 ```
 Edges are declared in [`../.propagates.yml`](../.propagates.yml). Source scans (PDF / raw OCR `.txt`) are kept **local, not committed** — the canonical data is the per-chapter JSON.
 
+
+
+## Moved from CLAUDE.md 2026-10-03
+
+From the Layout section:
+
+**Every text is on the one-file rule as of 2026-09-02** — the last holdout, `ApastambaDharmaSutra`, was re-digitised by `scripts/sanskrit-convert/apastamba.py`.
+
+From "text_id registry":
+
+**[`docs/INVENTORY.md`](./docs/INVENTORY.md) is the registry**, and [`docs/README.md`](./docs/README.md) indexes every other doc (`plans/` and `archive/` as directories) — every text's `text_id`, path, chapter and shloka
+counts, translation state and count-authority tier, in one table. **Per-text caveats are in
+[`docs/CANONICAL_COUNTS.md`](./docs/CANONICAL_COUNTS.md)** §"Per-text caveats"; they were
+inline here until 2026-08-24 and took this file 58 lines over its cap.
+
+**Derive the totals, never restate them:** `python3 scripts/check_inventory.py` prints texts,
+chapters, shlokas, categories and dedupe loss, and **exits 1 if INVENTORY disagrees with the
+corpus**. Written 2026-09-14, after the registry's Totals line sat 12 texts stale above 66
+correct rows with nothing able to tell the difference.
+
+**Never write which texts are translated, or any percentage, in this file.** Derive it:
+`python3 scripts/check_inventory.py`. This paragraph enumerated the list twice and was wrong
+both times — first after nine days, then after **hours**, when 67,820 served "translations"
+turned out to be the Sanskrit with an English prefix glued on and were moved to
+`english_draft`/`hindi_draft` (2026-09-16). **A non-empty `english` field is not a
+translation**: `status` and the served fields can disagree, and the Mongo seeder reads the
+fields, not `status` (G50). (Caught both times by the `docs/INVENTORY.md → CLAUDE.md` edge.)
+
+### ⚠ ~70 shlokas never reach AstroAcharya — derive the number, never trust this heading
+
+**This heading said 71 until 2026-09-15 and the tool said 70.** A count in a heading rots faster
+than the paragraph under it; the figure below is whatever `check_inventory.py` last printed, and
+the command is the authority.
+
+`seed_texts.py` dedupes by `(chapter, shloka)`, later file wins — so INVENTORY's Shlokas column
+counts what is *present*, not what is **ingestible** (G8). All of them are intra-chapter and
+pre-existing; `python3 scripts/check_inventory.py` prints the current loss and names every text
+carrying it. **The converter cannot add to it** — it refuses a text with a duplicate
+`(chapter, number)` rather than writing it, so a collision blocks the conversion instead of
+quietly never ingesting.
+
+From "Off-schema":
+
+### Off-schema — CLOSED 2026-09-02
+
+**Nothing in this corpus is off-schema.** `apastamba_dharma_sutra` was the last, re-digitised
+from `4617.txt` by `scripts/sanskrit-convert/apastamba.py` — 1,315 sūtras, citation
+`praśna.khaṇḍa.sūtra`, landing `untranslated`; **46 sūtras are ABSENT from the OCR and were
+recorded, never invented.** Closure record and the two departures: INVENTORY §"Dharmashastra —
+off-schema remainder". **Check for a clean source before characterising damaged data** —
+Manusmṛti's damage analysis cost two sessions and was discarded when SARIT yielded it whole in
+one pass; SARIT has no Āpastamba, so that route was not available here.
