@@ -69,7 +69,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
 | `chamatkar_chintamani` | [`Hora/Parashari/Chamatkarchintamani`](../Hora/Parashari/Chamatkarchintamani) | 10 | 112 | 100% | — |
-| `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 88% | — |
+| `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 92% | — |
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
 | `minaraja_yavana_jataka` | [`Hora/Parashari/MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | 74 | 4,027 | 100% | — |
 | `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 100% | — |
