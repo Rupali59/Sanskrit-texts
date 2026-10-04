@@ -72,7 +72,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `jataka_parijata` | [`Hora/Parashari/Jatakaparijatah`](../Hora/Parashari/Jatakaparijatah) | 18 | 1,947 | 88% | — |
 | `laghu_jatakam` | [`Hora/Parashari/Laghujatakam`](../Hora/Parashari/Laghujatakam) | 16 | 182 | 100% | — |
 | `minaraja_yavana_jataka` | [`Hora/Parashari/MinarajaYavanajataka`](../Hora/Parashari/MinarajaYavanajataka) | 74 | 4,027 | 100% | — |
-| `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 89% | — |
+| `phaladeepika` | [`Hora/Parashari/Phaladeepika`](../Hora/Parashari/Phaladeepika) | 28 | 851 | 100% | — |
 | `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100% | — |
 | `shatpanchashika` | [`Hora/Parashari/Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | 7 | 56 | 100% | — |
 | `uttara_kalamrita` | [`Hora/Parashari/UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | 9 | 324 | 100% | — |
