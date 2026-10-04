@@ -38,7 +38,7 @@ and `python3 scripts/check_inventory.py` gives each text's translated %.
 | narada_smriti | 2.12.99–2.13.9 | 28 |
 | jaiminiya_upadesa_sutra | 4.1.22–39 (each English renders the next sūtra) | 18 |
 | kaushitaki_upanishad | 1.2–7 (shifted), 3 whole (summaries) | 15 |
-| jataka_tattva | every verse of ch 2–10 read: 2.1–2, 2.51–61, 3.56–346 (five aligned 5-verse islands kept), 4.6–25, 5.6–20, 6.6–144 in five blocks, 7.6–219 in six blocks, 8.6–20, 8.26–38, 9.6–98, 10.6–157 in five blocks, 16.6–7. The invention runs on a fixed cycle — aligned islands at regular intervals, a generator's signature. 10.91–148 is a SHIFT (each English is the verse 9 later), so the Sanskrit of 10.91–99 has no English at all: re-align, don't just re-translate. Ch 1, 11–15, 17 sampled 1 in 4, clean | 886 |
+| jataka_tattva | every verse of ch 2–10 read: 2.1–2, 2.51–61, 3.56–346 (five aligned 5-verse islands kept), 4.6–25, 5.6–20, 6.6–144 in five blocks, 7.6–219 in six blocks, 8.6–20, 8.26–38, 9.6–98, 10.6–157 in five blocks, 16.6–7. The invention runs on a fixed cycle — aligned islands at regular intervals, a generator's signature. 10.91–148 is a SHIFT (each English is the verse 9 later), so the Sanskrit of 10.91–99 has no English at all: re-align, don't just re-translate. Ch 1, 11–15, 17 sampled 1 in 4, clean | 886 | **re-translated (dd7c0ae, bccc668)**
 
 **Over-inclusion is deliberate.** Where filler interleaves with real translation (grahaganita ch 9,
 panchasiddhantika ch 18) the whole stretch was taken: a correct verse moved to drafts costs one
