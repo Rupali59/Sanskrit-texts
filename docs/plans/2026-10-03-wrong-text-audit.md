@@ -26,7 +26,7 @@ and `python3 scripts/check_inventory.py` gives each text's translated %.
 | phaladeepika **(re-translated 2026-10-04, d58bc59)** | 1.1–3, 2.8–21, 3.2–6, 3.8–20, ch 4–5, 6.10–end, 7.2–end, 8.3–13.25, 14.10–20.62, 21.2–10, 22.1–6, 22.8–9, 23.1–10, 24.1–5, 24.34–35, 25.1–5, 25.18–29 | 565 |
 | manu_smriti | 1.79–84, 1.107–119, 2.63–248, 3.16–end, 7.87, 7.207–209 | 480 |
 | panchasiddhantika | ch 1 (duplicates ch 2), 4.12–end, ch 5–18 whole (ch 18 filler is interleaved, so taken whole) | 336 |
-| jataka_parijata | 4.26–105, 6.16–101, 12.81–149 | 236 |
+| jataka_parijata **(re-translated 2026-10-04, e6d7330)** | 4.26–105, 6.16–101, 12.81–149 | 236 |
 | grahaganita | 8.4–end, 9.6–end (9.25–99 interleaved filler, taken whole) | 154 |
 | garga_hora | 2.5–59, 2.63–end | 139 |
 | varahamihir_daivagnavallabh | 12.2–15.43 (end of text) | 99 |
