@@ -565,20 +565,16 @@
         {
           "number": 1,
           "text": "चन्द्रेणादृष्टेऽङ्गे पितुः परोक्षे जन्म ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra is in Lagna and Mangala is in the 7th Bhava (Yuvati Bhava), birth takes place without the father present.",
-          "hindi_draft": "यदि चन्द्रमा लग्न में हो और मङ्गल सप्तम भाव में हो, तो बालक का जन्म पिता की अनुपस्थिति में होता है।"
+          "english": "If the lagna is not aspected by the Moon, the birth takes place in the father's absence.",
+          "hindi": "लग्न चन्द्र से दृष्ट न हो तो पिता के परोक्ष (अनुपस्थिति) में जन्म।",
+          "status": "translated"
         },
         {
           "number": 2,
           "text": "स्थिरेऽर्केऽष्टमाङ्कायान्त्ये चन्द्रेण चादृष्टेऽङ्गे स्वदेशस्थपितुः परोक्षं जन्म।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra or Lagna is un-aspected by Guru, birth takes place without the father present.",
-          "hindi_draft": "यदि चन्द्रमा या लग्न पर गुरु की दृष्टि न हो, तो बालक का जन्म पिता की अनुपस्थिति में होता है।"
+          "english": "If the Sun is in a fixed sign in the 8th, 9th, 11th or 12th, and the lagna is not aspected by the Moon, the birth takes place in the absence of the father, who is in his own country.",
+          "hindi": "सूर्य स्थिर राशि में अष्टम, नवम, एकादश या द्वादश में हो और लग्न चन्द्र से दृष्ट न हो, तो स्वदेश में स्थित पिता के परोक्ष में जन्म।",
+          "status": "translated"
         },
         {
           "number": 3,
@@ -919,101 +915,79 @@
         {
           "number": 51,
           "text": "नगेऽर्केऽङ्गे मन्देऽष्टमे भौमे बालस्य सद्यो मृतिः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra is in Randhra Bhava (8th) aspected by Papa Grahas, immediate death of the newborn occurs.",
-          "hindi_draft": "यदि चन्द्रमा अष्टम भाव में पाप ग्रहों से दृष्ट हो, तो शिशु की शीघ्र मृत्यु होती है।"
+          "english": "If the Sun is in the 7th [naga, 'mountain' = 7], Saturn in the lagna and Mars in the 8th, the child dies at once.",
+          "hindi": "सूर्य सप्तम (नग = 7) में, शनि लग्न में और मंगल अष्टम में हो, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 52,
           "text": "मन्दारभे स्वेऽर्के पापैर्दृष्टे बालस्य सद्यो मृतिः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagna lord is in the 8th Bhava from Lagna and aspected by Papa Grahas without any Shubha aspect, immediate death occurs.",
-          "hindi_draft": "यदि लग्नेश अष्टम भाव में पाप ग्रहों से दृष्ट हो और उस पर शुभ ग्रह की दृष्टि न हो, तो बालक की तुरंत मृत्यु होती है।"
+          "english": "If the Sun is in the 2nd, in a sign of Saturn or Mars, aspected by malefics, the child dies at once.",
+          "hindi": "सूर्य द्वितीय (स्व) में शनि या मंगल की राशि में हो और पाप ग्रहों से दृष्ट हो, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 53,
           "text": "षष्ठाष्टमे चन्द्रे पापैर्दृष्टे बालस्य सद्यो मृतिः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra is in Lagna and Papa Grahas occupy Kendra Bhavas without Shubha aspect, immediate death occurs.",
-          "hindi_draft": "यदि चन्द्रमा लग्न में हो और पाप ग्रह केन्द्र भावों में बिना शुभ दृष्टि के स्थित हों, तो शिशु की तत्काल मृत्यु होती है।"
+          "english": "If the Moon is in the 6th or 8th, aspected by malefics, the child dies at once.",
+          "hindi": "चन्द्र षष्ठ या अष्टम में पाप-दृष्ट हो तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 54,
           "text": "चरभांशे चन्द्रे शुभैरदृष्टे कोणे पापा बालस्य सद्यो मृतिः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mangala is in the 7th Bhava and Rahu with Surya is in Lagna, immediate death of the infant occurs.",
-          "hindi_draft": "यदि मङ्गल सप्तम भाव में हो और सूर्य के साथ राहु लग्न में हो, तो नवजात बालक की तुरंत मृत्यु होती है।"
+          "english": "If the Moon is in a movable sign and navāṃśa, not aspected by benefics, and malefics are in the trines, the child dies at once.",
+          "hindi": "चन्द्र चर राशि और चर नवांश में शुभ ग्रहों से अदृष्ट हो और पाप ग्रह त्रिकोण में हों, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 55,
           "text": "मन्दार्केन्द्वारा व्ययाङ्काङ्गाष्टमगाः सबलगुर्वदृष्टाः बालस्य सद्यो मृतिः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra is in the 6th, 8th, or 12th Bhava and aspected by Papa Grahas, immediate death of the infant occurs.",
-          "hindi_draft": "यदि चन्द्रमा ६ठ, ८म या १२म भाव में पाप दृष्ट हो, तो बालक की शीघ्र मृत्यु होती है।"
+          "english": "If Saturn, the Sun, the Moon and Mars are in the 12th, the 9th, the lagna and the 8th [in that order], not aspected by a strong Jupiter, the child dies at once.",
+          "hindi": "शनि, सूर्य, चन्द्र और मंगल [क्रम से] द्वादश, नवम, लग्न और अष्टम में हों और बलवान गुरु से अदृष्ट हों, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 56,
           "text": "कोणान्त्यास्ताङ्गेषु पापयुतश्चन्द्रो बलिशुभायुतदृष्टो बालय सद्यो मृतिः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Shani and Mangala occupy Lagna while Chandra is in the 8th Bhava aspected by Papa Grahas, immediate death occurs.",
-          "hindi_draft": "यदि शनि और मङ्गल लग्न में हों तथा चन्द्रमा अष्टम भाव में पाप दृष्ट हो, तो बालक की तत्काल मृत्यु होती है।"
+          "english": "If the Moon, joined with malefics, is in a trine, the 12th, the 7th or the lagna, and is neither joined with nor aspected by strong benefics, the child dies at once.",
+          "hindi": "पाप-युक्त चन्द्र त्रिकोण, द्वादश, सप्तम या लग्न में हो और बलवान शुभ ग्रहों से न युक्त हो न दृष्ट, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 57,
           "text": "चन्द्रेऽङ्गेऽस्ते पापा बालस्य सद्यो मृतिः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Kshina Chandra (waning Chandra) is in Lagna and Papa Grahas occupy Kendra or Randhra Bhavas, immediate death of the infant occurs.",
-          "hindi_draft": "यदि क्षीण चन्द्रमा लग्न में हो और पाप ग्रह केन्द्र या अष्टम भाव में हों, तो नवजात शिशु की तुरंत मृत्यु होती है।"
+          "english": "If the Moon is in the lagna and malefics are in the 7th, the child dies at once.",
+          "hindi": "चन्द्र लग्न में और पाप ग्रह सप्तम में हों तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 58,
           "text": "मन्दाद्रन्ध्रे बलिनः पापा बालस्य सद्यो मृतिः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra combined with Rahu and Mangala is in Lagna while Shani is in the 8th Bhava, immediate death occurs.",
-          "hindi_draft": "यदि राहु और मङ्गल से युक्त चन्द्रमा लग्न में हो तथा शनि अष्टम भाव में हो, तो बालक की तत्काल मृत्यु होती है।"
+          "english": "If strong malefics are in the 8th from Saturn, the child dies at once.",
+          "hindi": "शनि से अष्टम में बलवान पाप ग्रह हों तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 59,
           "text": "क्षीणेन्दावङ्गे केन्द्राष्टमगाः पापाः बालस्य सद्यो मृतिः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagna lord is combust and positioned in Randhra Bhava (8th) with Papa Grahas, immediate death occurs.",
-          "hindi_draft": "यदि लग्नेश अस्त होकर अष्टम भाव में पाप ग्रहों के साथ हो, तो नवजात बालक की तुरंत मृत्यु होती है।"
+          "english": "If the waning Moon is in the lagna and malefics are in the kendras and the 8th, the child dies at once.",
+          "hindi": "क्षीण चन्द्र लग्न में हो और पाप ग्रह केन्द्रों और अष्टम में हों, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 60,
           "text": "कर्काल्यङ्गे खलाः पूर्वार्द्धे सौम्याः परार्द्धे वा लनास्ताष्टान्त्ये सपापेन्दौ शुभादृष्टे शुभायुतेषु केन्द्रेषु बालस्य सद्यो मृतिः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Surya and Chandra combine in Lagna and Shani with Mangala occupies the 7th Bhava, immediate death occurs.",
-          "hindi_draft": "यदि सूर्य और चन्द्रमा लग्न में युत हों तथा शनि व मङ्गल सप्तम भाव में हों, तो शिशु की शीघ्र मृत्यु होती है।"
+          "english": "If the lagna is Cancer or Scorpio with malefics in the first half and benefics in the second half [of what is not stated]; or if the Moon with malefics is in the lagna [reading lagna-], 7th, 8th or 12th, not aspected by benefics, and the kendras are without benefics, the child dies at once.",
+          "hindi": "लग्न कर्क या वृश्चिक हो, पाप ग्रह पूर्वार्द्ध में और सौम्य ग्रह परार्द्ध में हों [किसका आधा, यह नहीं कहा]; या पाप-युक्त चन्द्र लग्न [पाठ लग्न-], सप्तम, अष्टम या द्वादश में शुभ-अदृष्ट हो और केन्द्र शुभ ग्रहों से रहित हों, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 61,
           "text": "त्रिके सौम्याः केन्द्रे कोणे पापा लग्नेऽर्के बालस्य सद्यो मृतिः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra is in the 8th Bhava, Mangala in 9th, Shani in 1st, and Surya in 5th, immediate death occurs.",
-          "hindi_draft": "यदि चन्द्रमा अष्टम भाव में, मङ्गल नवम में, शनि लग्न में और सूर्य पंचम भाव में हो, तो बालक की तुरंत मृत्यु होती है।"
+          "english": "If benefics are in the 6th, 8th or 12th, malefics in the kendras and trines, and the Sun in the lagna, the child dies at once.",
+          "hindi": "सौम्य ग्रह त्रिक (6, 8, 12) में, पाप ग्रह केन्द्र और त्रिकोण में, और सूर्य लग्न में हो, तो बालक की तत्काल मृत्यु।",
+          "status": "translated"
         },
         {
           "number": 62,
@@ -4761,182 +4735,142 @@
         {
           "number": 6,
           "text": "धनेशाद्धनपाङ्गेशौ केन्द्रगौ धनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 2nd lord is in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि द्वितीयेश गोपुर अंश में हो, तो जातक धनी होता है।"
+          "english": "If the lord of the 2nd counted from the 2nd lord, and the lagna lord, are in kendras, one is wealthy. [dhaneśād taken with dhanapa. If it instead marked the kendras as counted from the 2nd lord, the 'lord of wealth' would be the 2nd lord itself, trivially in a kendra from itself.]",
+          "hindi": "धनेश से गिनकर द्वितीय का स्वामी और लग्नेश केन्द्र में हों तो धनी। [धनेशात् को धनप से जोड़ा; केन्द्र से जोड़ने पर 'धनप' स्वयं धनेश होगा, जो अपने से सदा केन्द्र (प्रथम) में है।]",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "चतुर्षु स्वर्क्षगेषु धनी।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of the Navamsha occupied by 2nd lord is in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि द्वितीयेश के नवांश का स्वामी गोपुर अंश में स्थित हो, तो जातक धनी होता है।"
+          "english": "If four [planets] are in their own signs, one is wealthy.",
+          "hindi": "चार ग्रह स्वराशि में हों तो धनी।",
+          "status": "translated"
         },
         {
           "number": 8,
           "text": "बल्यर्थेशः खायाङ्कगो धनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagna lord is in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश गोपुर अंश में हो, तो जातक धनी होता है।"
+          "english": "If a strong 2nd lord is in the 10th, 11th or 9th, one is wealthy.",
+          "hindi": "बलवान धनेश दशम, एकादश या नवम में हो तो धनी।",
+          "status": "translated"
         },
         {
           "number": 9,
           "text": "चन्द्रारयोगे धनी।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of the Navamsha occupied by Lagna lord is in Paravatamsa, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश के नवांश का स्वामी पारावत अंश में हो, तो जातक धनी होता है।"
+          "english": "If the Moon and Mars are conjoined, one is wealthy.",
+          "hindi": "चन्द्र-मंगल योग हो तो धनी।",
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "केन्द्रकोणेऽर्थेशे क्रूरषष्ट्यंशे स्वल्पधनम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Guru is in Gopuramsa and Shukra is in Simhasanamsa, the native is wealthy.",
-          "hindi_draft": "यदि गुरु गोपुर अंश में और शुक्र सिंहासन अंश में हो, तो जातक धनी होता है।"
+          "english": "If the 2nd lord is in a kendra or trine but in a cruel ṣaṣṭyaṃśa, little wealth.",
+          "hindi": "धनेश केन्द्र या त्रिकोण में क्रूर षष्ट्यंश में हो तो स्वल्प धन।",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "लाभेशांशेशे क्रूरषष्ट्यंशे शुक्रजीवान्यतरयुतदृष्टे स्वल्पधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a benefic is in 2nd Bhava or 2nd lord is a benefic placed in 2nd Bhava, the native is wealthy.",
-          "hindi_draft": "यदि २रे भाव में शुभ ग्रह हो अथवा २रे भाव का स्वामी शुभ ग्रह होकर २रे भाव में ही स्थित हो, तो जातक धनी होता है।"
+          "english": "If the lord of the navāṃśa occupied by the 11th lord is in a cruel ṣaṣṭyaṃśa and is joined with or aspected by either Venus or Jupiter, one has little wealth.",
+          "hindi": "एकादशेश के नवांश का स्वामी क्रूर षष्ट्यंश में हो और शुक्र या गुरु में से किसी एक से युक्त या दृष्ट हो, तो स्वल्प धनी।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "सौम्यैरुपचयगैर्बहुधनः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a benefic occupies 2nd Bhava and the lord of the Navamsha occupied by 2nd lord is in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि २रे भाव में शुभ ग्रह हो और २रे भाव के स्वामी के नवांश का स्वामी गोपुर अंश में हो, तो जातक धनी होता है।"
+          "english": "If benefics are in the upacaya houses, much wealth.",
+          "hindi": "सौम्य ग्रह उपचय भावों में हों तो बहुत धन।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "लग्नेशांशेशे बलाढ्ये वैशेषिकांशे शुभदृष्टे बहुधनः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 9th lord and Lagna lord occupy 2nd Bhava in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि ९वें भाव का स्वामी और लग्नेश गोपुर अंश में होकर २रे भाव में स्थित हों, तो जातक धनी होता है।"
+          "english": "If the lord of the navāṃśa occupied by the lagna lord is very strong, in vaiśeṣikāṃśa and aspected by benefics, much wealth.",
+          "hindi": "लग्नेश के नवांश का स्वामी अति बलवान, वैशेषिकांश में और शुभ-दृष्ट हो, तो बहुत धन।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "खेशांशेशे वैशेषिकांशे शुभदृष्टे बहुधनः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagna lord is in 9th Bhava and 9th lord in Gopuramsa is in Lagna, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश ९वें भाव में हो तथा ९वें भाव का स्वामी गोपुर अंश में होकर लग्न में हो, तो जातक धनी होता है।"
+          "english": "If the lord of the navāṃśa occupied by the 10th lord is in vaiśeṣikāṃśa and aspected by benefics, much wealth.",
+          "hindi": "दशमेश के नवांश का स्वामी वैशेषिकांश में शुभ-दृष्ट हो तो बहुत धन।",
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "केन्द्रचतुष्टये शुभान्विते महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagna lord is in 11th Bhava and 11th lord in Gopuramsa is in Lagna, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश ११वें भाव में हो तथा ११वें भाव का स्वामी गोपुर अंश में होकर लग्न में हो, तो जातक धनी होता है।"
+          "english": "If all four kendras are occupied by benefics, great wealth.",
+          "hindi": "चारों केन्द्र शुभ ग्रहों से युक्त हों तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "लग्नार्थायेशा वैशेषिकांशे महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagna lord is in 2nd Bhava and 2nd lord in Gopuramsa is in Lagna, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश २रे भाव में हो तथा २रे भाव का स्वामी गोपुर अंश में होकर लग्न में स्थित हो, तो जातक धनी होता है।"
+          "english": "If the lords of the lagna, the 2nd and the 11th are in vaiśeṣikāṃśa, great wealth.",
+          "hindi": "लग्न, द्वितीय और एकादश के स्वामी वैशेषिकांश में हों तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "कर्के ज्ञे मन्दे लाभे महाधनी।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 9th lord and 2nd lord are in 2nd Bhava in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि ९वें भाव का स्वामी और २रे भाव का स्वामी गोपुर अंश में होकर २रे भाव में स्थित हों, तो जातक धनी होता है।"
+          "english": "If Mercury is in Cancer and Saturn in the 11th, great wealth.",
+          "hindi": "बुध कर्क में और शनि एकादश में हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "स्वर्क्षे सुते लाभे मन्दे महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 9th lord and 11th lord are in 11th Bhava in Gopuramsa, the native is wealthy.",
-          "hindi_draft": "यदि ९वें भाव का स्वामी और ११वें भाव का स्वामी गोपुर अंश में होकर ११वें भाव में स्थित हों, तो जातक धनी होता है।"
+          "english": "If [a planet] is in its own sign in the 5th and Saturn is in the 11th, great wealth. [The planet in the 5th is not named in the printed text.]",
+          "hindi": "[कोई ग्रह] स्वराशि में पंचम में हो और शनि एकादश में हो तो महाधनी। [पंचमस्थ ग्रह का नाम छपे पाठ में नहीं है।]",
+          "status": "translated"
         },
         {
           "number": 19,
           "text": "लाभे जीवे स्वर्क्षेऽर्के पञ्चमे महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a strong benefic occupies an Upachaya Bhava (3rd, 6th, 10th, 11th) from Lagna lord, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश से उपचय स्थान में बली शुभ ग्रह स्थित हो, तो जातक धनी होता है।"
+          "english": "If Jupiter is in the 11th and the Sun in its own sign in the 5th, great wealth.",
+          "hindi": "गुरु एकादश में और सूर्य स्वराशि में पंचम में हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 20,
           "text": "स्वर्क्षे गुरौ पुत्रे चन्द्रे महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of the Navamsha occupied by 2nd lord is aspected by Guru, the native is wealthy.",
-          "hindi_draft": "यदि २रे भाव के स्वामी के नवांश का स्वामी गुरु से दृष्ट हो, तो जातक धनी होता है।"
+          "english": "If Jupiter is in its own sign and the Moon in the 5th, great wealth. [Or: Jupiter in its own sign in the 5th, with the Moon. The locatives allow both.]",
+          "hindi": "गुरु स्वराशि में और चन्द्र पंचम में हो तो महाधनी। [या: गुरु स्वराशि में पंचम में, चन्द्र सहित; सप्तमियाँ दोनों अर्थ देती हैं।]",
+          "status": "translated"
         },
         {
           "number": 21,
           "text": "सिंहेऽर्केऽङ्गे गुर्वारयुते महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of the Navamsha occupied by Lagna lord is in Devalokamsa, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश के नवांश का स्वामी देवलोक अंश में हो, तो जातक धनी होता है।"
+          "english": "If the Sun is in Leo in the lagna, joined with Jupiter and Mars, great wealth.",
+          "hindi": "सूर्य सिंह में लग्न में गुरु-मंगल से युक्त हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 22,
           "text": "कर्केऽङ्गे चन्द्रे गुर्वारयुते महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of the Navamsha occupied by Lagna lord is aspected by Guru, the native is wealthy.",
-          "hindi_draft": "यदि लग्नेश के नवांश का स्वामी गुरु द्वारा दृष्ट हो, तो जातक धनी होता है।"
+          "english": "If the Moon is in Cancer in the lagna, joined with Jupiter and Mars, great wealth.",
+          "hindi": "चन्द्र कर्क में लग्न में गुरु-मंगल से युक्त हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 23,
           "text": "भौमेऽङ्गे स्वर्क्षे मन्दाच्छज्ञयुते महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 2nd lord is in Devalokamsa and aspected by a benefic, the native is wealthy.",
-          "hindi_draft": "यदि २रे भाव का स्वामी देवलोक अंश में हो तथा शुभ ग्रह से दृष्ट हो, तो जातक धनी होता है।"
+          "english": "If Mars is in its own sign in the lagna, joined with Saturn, accha [taken as Venus; uncertain] and Mercury, great wealth.",
+          "hindi": "मंगल स्वराशि में लग्न में शनि, अच्छ [शुक्र माना; अनिश्चित] और बुध से युक्त हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 24,
           "text": "जीवेऽङ्गे स्वर्क्षे चन्द्रारयुते महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 11th lord is in Gopuramsa and aspected by Guru, the native is wealthy.",
-          "hindi_draft": "यदि ११वें भाव का स्वामी गोपुर अंश में स्थित होकर गुरु से दृष्ट हो, तो जातक धनी होता है।"
+          "english": "If Jupiter is in its own sign in the lagna, joined with the Moon and Mars, great wealth.",
+          "hindi": "गुरु स्वराशि में लग्न में चन्द्र-मंगल से युक्त हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 25,
           "text": "स्वर्क्षे ज्ञेऽङ्गे मन्दाच्छयुतदृष्टे महाधनी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 11th lord is in its exaltation Rashi and aspected by a benefic, the native is wealthy.",
-          "hindi_draft": "यदि ११वें भाव का स्वामी अपनी उच्च राशि में होकर शुभ ग्रह से दृष्ट हो, तो जातक धनी होता है।"
+          "english": "If Mercury is in its own sign in the lagna, joined with or aspected by Saturn and accha [taken as Venus; uncertain], great wealth.",
+          "hindi": "बुध स्वराशि में लग्न में शनि और अच्छ [शुक्र माना; अनिश्चित] से युक्त या दृष्ट हो तो महाधनी।",
+          "status": "translated"
         },
         {
           "number": 26,
@@ -5752,137 +5686,107 @@
         {
           "number": 6,
           "text": "गोपुरे सोत्थेशे कारके सिंहासने शुभर्क्षे भ्रातृलाभः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If 3rd lord conjoined with a benefic is in its exaltation Rashi, gain of brothers occurs.",
-          "hindi_draft": "यदि ३रे भाव का स्वामी शुभग्रह से युत होकर अपनी उच्च राशि में स्थित हो, तो भाइयों का लाभ होता है।"
+          "english": "If the 3rd lord is in gopurāṃśa and the significator in siṃhāsanāṃśa, in a benefic's sign, gain of brothers.",
+          "hindi": "तृतीयेश गोपुरांश में और कारक सिंहासनांश में शुभ राशि में हो तो भ्रातृ-लाभ।",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "पारावते भ्रातृपे केन्द्रे शुभयुतदृष्टे भ्रातलाभः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of 3rd lord's Navamsha is a benefic in Trimshamsha, gain of brothers occurs.",
-          "hindi_draft": "यदि ३रे भाव के स्वामी के नवांश का स्वामी शुभग्रह होकर त्रिंशांश में हो, तो भाइयों की प्राप्ति होती है।"
+          "english": "If the 3rd lord is in pārāvatāṃśa in a kendra, joined with or aspected by benefics, gain of brothers.",
+          "hindi": "तृतीयेश पारावतांश में केन्द्र में शुभ-युक्त या दृष्ट हो तो भ्रातृ-लाभ।",
+          "status": "translated"
         },
         {
           "number": 8,
           "text": "सोत्थपे सौम्यभांशे भ्रातृलाभः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Budha, Chandra, Mangala, and Guru occupy 3rd Bhava, gain of brothers occurs.",
-          "hindi_draft": "यदि ३रे भाव में बुध, चन्द्रमा, मंगल और गुरु स्थित हों, तो भाइयों का लाभ होता है।"
+          "english": "If the 3rd lord is in a benefic's sign and navāṃśa, gain of brothers.",
+          "hindi": "तृतीयेश सौम्य राशि-नवांश में हो तो भ्रातृ-लाभ।",
+          "status": "translated"
         },
         {
           "number": 9,
           "text": "सोत्थे सोत्थये बलाढ्ये भ्रातृलाभः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Shukra in own Navamsha is in Lagna and Guru is in 3rd Bhava, the native has brothers.",
-          "hindi_draft": "यदि अपने नवांश में स्थित शुक्र लग्न में हो और गुरु ३रे भाव में स्थित हो, तो जातक भ्रातृमान् होता है।"
+          "english": "If the 3rd lord [reading sotthape] is in the 3rd and very strong, gain of brothers.",
+          "hindi": "तृतीयेश [पाठ सोत्थपे] तृतीय में अति बलवान हो तो भ्रातृ-लाभ।",
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "मृद्वंशादियुते सोत्थपे शुभयुतदृष्टे भातृलाभः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra is in 3rd Bhava in its exaltation Rashi (Vrishabha), the native has brothers.",
-          "hindi_draft": "यदि चन्द्रमा अपनी उच्च राशि (वृषभ) में होकर ३रे भाव में स्थित हो, तो जातक भ्रातृमान् होता है।"
+          "english": "If the 3rd lord is in mṛdvaṃśa or the like and joined with or aspected by benefics, gain of brothers.",
+          "hindi": "तृतीयेश मृद्वंश आदि में शुभ-युक्त या दृष्ट हो तो भ्रातृ-लाभ।",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "वैशेषिकांशे सोत्थपे शुभयुतदृष्टे भ्रातृलाभः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Budha is in 3rd Bhava and Mangala is in 12th Bhava, the native has brothers.",
-          "hindi_draft": "यदि बुध ३रे भाव में हो और मंगल १२वें भाव में हो, तो जातक भ्रातृमान् होता है।"
+          "english": "If the 3rd lord is in vaiśeṣikāṃśa, joined with or aspected by benefics, gain of brothers.",
+          "hindi": "तृतीयेश वैशेषिकांश में शुभ-युक्त या दृष्ट हो तो भ्रातृ-लाभ।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "सोत्थाङ्गेशौ मित्रे भ्रातृस्नेहः शत्रूचेद्वैरम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Guru is in 3rd Bhava, the native has brothers.",
-          "hindi_draft": "यदि गुरु ३रे भाव में स्थित हो, तो जातक भ्रातृमान् होता है।"
+          "english": "If the lords of the 3rd and the lagna are friends, there is love among brothers; if enemies, enmity.",
+          "hindi": "तृतीयेश और लग्नेश मित्र हों तो भ्रातृ-स्नेह; शत्रु हों तो वैर।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "पुंभांशे सोत्थकारकेशौ पुंग्रहदृष्टौ भ्रातृलाभो वैपरीत्ये भगिनीलामो मिश्रे उभयलाभः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a malefic is in 3rd Bhava and Shani is in exaltation conjoined with 3rd lord and Karaka, gain of brothers occurs.",
-          "hindi_draft": "यदि ३रे भाव में पापग्रह हो तथा शनि उच्च राशि का होकर ३रे भाव के स्वामी और कारक से युत हो, तो भाइयों का लाभ होता है।"
+          "english": "If the lords of the 3rd and of the significator [sottha-kāraka-īśau; possibly meant loosely as 'the 3rd lord and the significator', cf. 5.16] are in male signs and navāṃśas and aspected by male planets, gain of brothers; in the reverse case, gain of sisters; if mixed, gain of both.",
+          "hindi": "तृतीय और कारक के स्वामी [सोत्थकारकेशौ; संभवतः 'तृतीयेश और कारक', तुलना 5.16] पुरुष राशि-नवांश में पुरुष ग्रहों से दृष्ट हों तो भ्रातृ-लाभ; विपरीत में भगिनी-लाभ; मिश्र में दोनों का लाभ।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "सोत्थराश्यंशवशाद् भ्रात्रादिसंख्या।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Shani is in 3rd Bhava or Lagna, the native has two brothers.",
-          "hindi_draft": "यदि शनि ३रे भाव में या लग्न में स्थित हो, तो जातक के दो भाई होते हैं।"
+          "english": "The number of brothers and so on [is known] from the sign and navāṃśa of the 3rd.",
+          "hindi": "तृतीय की राशि और नवांश के वश से भाई आदि की संख्या।",
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "सोत्थगग्रहस्यांशका भ्रात्रादिसंख्या ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in 3rd Bhava or Lagna, the native has three brothers.",
-          "hindi_draft": "यदि राहु ३रे भाव में या लग्न में स्थित हो, तो जातक के तीन भाई होते हैं।"
+          "english": "The navāṃśas of a planet in the 3rd [give] the number of brothers and so on.",
+          "hindi": "तृतीयस्थ ग्रह के अंश भाई आदि की संख्या (देते हैं)।",
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "सोत्थेशकारकयुतभांशवशाद्वा तत्संख्या ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Ketu is in 3rd Bhava, the native has two brothers.",
-          "hindi_draft": "यदि केतु ३रे भाव में स्थित हो, तो जातक के दो भाई होते हैं।"
+          "english": "Or their number [is known] from the sign and navāṃśa joined with the 3rd lord and the significator.",
+          "hindi": "या तृतीयेश और कारक से युक्त राशि-नवांश के वश से उनकी संख्या।",
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "सोत्थेशयुतभाशवशात्तत्संख्या ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If debilitated Shani is in 3rd Bhava, the native has few brothers.",
-          "hindi_draft": "यदि ३रे भाव में नीच का शनि स्थित हो, तो जातक के अल्प (कम) भाई होते हैं।"
+          "english": "Their number [is known] from the sign and navāṃśa joined with the 3rd lord.",
+          "hindi": "तृतीयेश से युक्त राशि-नवांश के वश से उनकी संख्या।",
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "स्त्रीखेटैधर्मगैर्भगिन्यो नृखेटैर्भ्रातरः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in 3rd Bhava, destruction of brothers occurs.",
-          "hindi_draft": "यदि राहु ३रे भाव में हो, तो भ्रातृक्षय (भाइयों का नाश) होता है।"
+          "english": "With female planets in the 9th [dharma], sisters; with male planets [there], brothers.",
+          "hindi": "स्त्री ग्रह धर्म (नवम) में हों तो बहनें; पुरुष ग्रहों से भाई।",
+          "status": "translated"
         },
         {
           "number": 19,
           "text": "ज्ञेज्यौ धने कन्यायां राहौ भ्रातृत्रयम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mangala is in 3rd Bhava, destruction of brothers occurs.",
-          "hindi_draft": "यदि मंगल ३रे भाव में हो, तो भ्रातृक्षय होता है।"
+          "english": "If Mercury and Jupiter are in the 2nd and Rāhu in Virgo, three brothers.",
+          "hindi": "बुध और गुरु द्वितीय में और राहु कन्या में हो तो तीन भाई।",
+          "status": "translated"
         },
         {
           "number": 20,
           "text": "विक्रमेशारौ त्रिकस्थौ भ्रातृहीनः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Shani is in 3rd Bhava, destruction of brothers occurs.",
-          "hindi_draft": "यदि शनि ३रे भाव में स्थित हो, तो भ्रातृक्षय होता है।"
+          "english": "If the 3rd lord and Mars are in the 6th, 8th or 12th, one is without brothers.",
+          "hindi": "तृतीयेश और मंगल त्रिक में हों तो भ्रातृ-हीन।",
+          "status": "translated"
         },
         {
           "number": 21,
@@ -9486,137 +9390,107 @@
         {
           "number": 6,
           "text": "लग्नखेशयोः शात्रवे वा खेशे लग्नतो लग्नपतो वा षष्ठे पिता शत्रुः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Sahaja Bhava (3rd lord) and Lagnesha are natural enemies, there is enmity with siblings.",
-          "hindi_draft": "यदि सहजभावेश (तृतीयेश) और लग्नेश आपस में शत्रु हों, तो भ्राता (भाई) से वैर होता है।"
+          "english": "If the lords of the lagna and the 10th are in mutual enmity [śātrava], or the 10th lord is in the 6th from the lagna or from the lagna lord, the father is an enemy.",
+          "hindi": "लग्नेश और दशमेश परस्पर शत्रुता [शात्रव] में हों, या दशमेश लग्न से या लग्नेश से षष्ठ में हो, तो पिता शत्रु।",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "सुतेशे त्रिके लग्नेशदृष्टे पितृदूषकः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If a Papa graha is in Sahaja Bhava (3rd Bhava) and Lagnesha is conjoined with Papa grahas, there is enmity with siblings.",
-          "hindi_draft": "यदि तृतीय भाव में पापग्रह हो और लग्नेश पापग्रहों से युत हो, तो भ्राता से वैर होता है।"
+          "english": "If the 5th lord is in the 6th, 8th or 12th, aspected by the lagna lord, [the son] defames his father.",
+          "hindi": "पंचमेश त्रिक में लग्नेश से दृष्ट हो तो (पुत्र) पिता को दूषित करने वाला।",
+          "status": "translated"
         },
         {
           "number": 8,
           "text": "पुत्रेशे त्रिके राह्वारदृष्टे पितृदूषकः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagnesha and the lord of the 6th Bhava representing kinsmen are mutual enemies, there is enmity with relatives.",
-          "hindi_draft": "यदि लग्नेश और ज्ञातिभावेश (षष्ठेश) परस्पर शत्रु हों, तो ज्ञाति (सगे-संबंधियों) से वैर होता है।"
+          "english": "If the 5th lord is in the 6th, 8th or 12th, aspected by Rāhu and Mars, [the son] defames his father.",
+          "hindi": "पंचमेश त्रिक में राहु और मंगल से दृष्ट हो तो (पुत्र) पितृ-दूषक।",
+          "status": "translated"
         },
         {
           "number": 9,
           "text": "पुत्रोदयेशशात्रवे वा पुत्रपे षष्ठे लग्नेशदृष्टे पुत्रः शत्रुः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Dhana Bhava (2nd lord) and Lagnesha are enemies, there is enmity with family members.",
-          "hindi_draft": "यदि द्वितीयेश (द्वितीय भावेश) और लग्नेश शत्रु हों, तो कुटुंब से वैर होता है।"
+          "english": "If the lords of the 5th and the lagna are in mutual enmity, or the 5th lord is in the 6th aspected by the lagna lord, the son is an enemy.",
+          "hindi": "पंचमेश और लग्नेश परस्पर शत्रुता में हों, या पंचमेश षष्ठ में लग्नेश से दृष्ट हो, तो पुत्र शत्रु।",
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "षष्ठेशे केन्द्रे पापदृष्टे शत्रुपीडा ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Sukha Bhava (4th lord) is in Yuvati Bhava (7th Bhava) and the lord of Yuvati Bhava (7th lord) is in Lagna or Ari Bhava (6th Bhava), there is enmity with the mother.",
-          "hindi_draft": "यदि चतुर्थेश सप्तम भाव में और सप्तमेश लग्न या षष्ठ भाव में स्थित हो, तो माता से वैर होता है।"
+          "english": "If the 6th lord is in a kendra aspected by malefics, trouble from enemies.",
+          "hindi": "षष्ठेश केन्द्र में पाप-दृष्ट हो तो शत्रु-पीड़ा।",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "षष्ठे पापा वा लग्नेशः षष्ठे षष्ठेशेऽङ्गे शत्रुपीडा ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Dharma Bhava (9th lord) and Lagnesha are enemies, there is enmity with the father.",
-          "hindi_draft": "यदि नवमेश (धर्मेश) और लग्नेश परस्पर शत्रु हों, तो पिता से वैर होता है।"
+          "english": "If malefics are in the 6th, or the lagna lord is in the 6th [and] the 6th lord in the lagna, trouble from enemies.",
+          "hindi": "षष्ठ में पाप ग्रह हों, या लग्नेश षष्ठ में [और] षष्ठेश लग्न में हो, तो शत्रु-पीड़ा।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "षष्ठपेऽबले पापदृष्टे पापान्तरे वा शत्रुपीडा ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagnesha is in Ari Bhava (6th Bhava) and the lord of Ari Bhava is in Lagna, there is enmity with all people.",
-          "hindi_draft": "यदि लग्नेश षष्ठ भाव में और षष्ठेश लग्न में स्थित हो, तो सर्वजन (सभी लोगों) से वैर होता है।"
+          "english": "If the 6th lord is weak and aspected by malefics, or is between malefics, trouble from enemies.",
+          "hindi": "षष्ठेश निर्बल और पाप-दृष्ट हो, या पापों के मध्य हो, तो शत्रु-पीड़ा।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "लग्नदारपयोः शात्रवे स्त्री शत्रुः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Rahu is in Lagna and Papa grahas are in Kendra or Trikona Bhavas, there is enmity with all people.",
-          "hindi_draft": "यदि राहु लग्न में हो और पापग्रह केंद्र या त्रिकोण भावों में स्थित हों, तो सर्वजन से वैर होता है।"
+          "english": "If the lords of the lagna and the 7th are in mutual enmity, the wife is an enemy.",
+          "hindi": "लग्नेश और सप्तमेश परस्पर शत्रुता में हों तो स्त्री शत्रु।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "भौमऽलौगुरुसितदृग्धीने व्रणपीठिकापीडा ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Lagnesha in Lagna, there is enmity with maternal uncles.",
-          "hindi_draft": "यदि षष्ठेश लग्नेश के साथ लग्न में स्थित हो, तो मातुल (मामा) से वैर होता है।"
+          "english": "If Mars is in Scorpio without the aspect of Jupiter and Venus, trouble from wounds and boils.",
+          "hindi": "मंगल वृश्चिक में गुरु-शुक्र की दृष्टि से रहित हो तो व्रण और पीड़िका की पीड़ा।",
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "केत्वर्कजावस्ते ब्रणपीठिकापीडा ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Shukra in Lagna, there is enmity with women.",
-          "hindi_draft": "यदि षष्ठेश शुक्र के साथ लग्न में स्थित हो, तो स्त्रियों से वैर होता है।"
+          "english": "If Ketu and Saturn are in the 7th, trouble from wounds and boils.",
+          "hindi": "केतु और शनि सप्तम में हों तो व्रण-पीड़िका की पीड़ा।",
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "लग्नपारौ त्रिके ग्रन्थिशस्त्रजब्रणपीडा ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Shani in Lagna, there is enmity with servants or low-born persons.",
-          "hindi_draft": "यदि षष्ठेश शनि के साथ लग्न में स्थित हो, तो भृत्य (सेवकों) या दासों से वैर होता है।"
+          "english": "If the lagna lord and Mars are in the 6th, 8th or 12th, trouble from swellings and wounds caused by weapons.",
+          "hindi": "लग्नेश और मंगल त्रिक में हों तो ग्रन्थि और शस्त्रजन्य व्रण की पीड़ा।",
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "सपापेऽरीशे लग्ने त्रिके शरीरे व्रणः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Budha in Lagna, there is enmity with friends or scholars.",
-          "hindi_draft": "यदि षष्ठेश बुध के साथ लग्न में स्थित हो, तो मित्रों या विद्वानों से वैर होता है।"
+          "english": "If the 6th lord with a malefic is in the lagna or the 6th, 8th or 12th, a wound on the body.",
+          "hindi": "पाप-युक्त षष्ठेश लग्न में या त्रिक में हो तो शरीर में व्रण।",
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "सार्केऽरीशेऽङ्गे वाऽष्ठमे शिरोव्रणः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Guru in Lagna, there is enmity with preceptors or learned Brahmanas.",
-          "hindi_draft": "यदि षष्ठेश गुरु के साथ लग्न में स्थित हो, तो गुरुजन या ब्राह्मणों से वैर होता है।"
+          "english": "If the 6th lord with the Sun is in the lagna or the 8th, a wound on the head.",
+          "hindi": "सूर्य-युक्त षष्ठेश लग्न या अष्टम में हो तो सिर में व्रण।",
+          "status": "translated"
         },
         {
           "number": 19,
           "text": "सचन्द्रेऽरीशेऽङ्गे वाऽष्टमे मुखव्रणः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Mangala in Lagna, there is enmity with brothers or enemies.",
-          "hindi_draft": "यदि षष्ठेश मंगल के साथ लग्न में स्थित हो, तो भाइयों या शत्रुओं से वैर होता है।"
+          "english": "If the 6th lord with the Moon is in the lagna or the 8th, a wound on the face.",
+          "hindi": "चन्द्र-युक्त षष्ठेश लग्न या अष्टम में हो तो मुख में व्रण।",
+          "status": "translated"
         },
         {
           "number": 20,
           "text": "भौमारीशावङ्गे वाऽष्टमे कण्ठव्रणम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is conjoined with Surya in Lagna, there is enmity with the father or royal authority.",
-          "hindi_draft": "यदि षष्ठेश सूर्य के साथ लग्न में स्थित हो, तो पिता या राजा से वैर होता है।"
+          "english": "If Mars and the 6th lord are in the lagna or the 8th, a wound on the throat.",
+          "hindi": "मंगल और षष्ठेश लग्न या अष्टम में हों तो कण्ठ में व्रण।",
+          "status": "translated"
         },
         {
           "number": 21,
@@ -9656,119 +9530,93 @@
         {
           "number": 26,
           "text": "सपापे कर्मगेऽरीशे पापदृष्टे वा यदङ्गे राशौ तदङ्गे व्रणः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Mangala and the lord of Ari Bhava (6th lord) are in Lagna or Randhra Bhava (8th Bhava), there will be a wound on the neck or shoulders.",
-          "hindi_draft": "यदि मंगल और षष्ठेश लग्न या अष्टम भाव में स्थित हों, तो कण्ठ या कंधे में व्रण होता है।"
+          "english": "If the 6th lord with a malefic is in the 10th, or aspected by malefics, there is a wound on that limb [of the body] which belongs to the sign [it occupies].",
+          "hindi": "पाप-युक्त षष्ठेश दशम में हो, या पाप-दृष्ट हो, तो जिस राशि में (हो) उस राशि के अंग में व्रण।",
+          "status": "translated"
         },
         {
           "number": 27,
           "text": "पष्ठेऽन्त्ये वारार्कियोगे सौम्यादृष्टे गण्डमालादयः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Surya and the lord of Ari Bhava (6th lord) are in Lagna or Randhra Bhava (8th Bhava), there will be a wound on the head.",
-          "hindi_draft": "यदि सूर्य और षष्ठेश लग्न या अष्टम भाव में स्थित हों, तो मस्तक पर व्रण होता है।"
+          "english": "If Mars and Saturn are conjoined in the 6th or the 12th, unaspected by benefics, scrofula [gaṇḍamālā] and the like.",
+          "hindi": "षष्ठ या द्वादश में मंगल-शनि का योग हो और शुभ-दृष्टि न हो, तो गण्डमाला आदि।",
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "मन्दारावरिगौ वा व्ययगौ व्रणः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Chandra and the lord of Ari Bhava (6th lord) are in Lagna or Randhra Bhava (8th Bhava), there will be a wound on the face.",
-          "hindi_draft": "यदि चन्द्र और षष्ठेश लग्न या अष्टम भाव में स्थित हों, तो मुख पर व्रण होता है।"
+          "english": "If Saturn and Mars are in the 6th or in the 12th, a wound.",
+          "hindi": "शनि और मंगल षष्ठ में या द्वादश में हों तो व्रण।",
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "लग्नेशे कुजे पुत्रे पापान्विते पापदृष्टे शिलाशस्त्रजं व्रणं मस्तके।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is a Papa graha and is in Lagna, 8th Bhava, or 10th Bhava, there will be a wound on the body.",
-          "hindi_draft": "यदि षष्ठेश पापग्रह होकर लग्न, अष्टम या दशम भाव में स्थित हो, तो शरीर में व्रण होता है।"
+          "english": "If the lagna lord, Mars, is in the 5th [or 'the lagna lord and Mars'; the locatives allow both], joined with and aspected by malefics, a wound on the head from a stone or weapon.",
+          "hindi": "लग्नेश मंगल पंचम में हो [या 'लग्नेश और मंगल'; दोनों अर्थ संभव], पाप-युक्त और पाप-दृष्ट हो, तो मस्तक में शिला या शस्त्र से व्रण।",
+          "status": "translated"
         },
         {
           "number": 30,
           "text": "भौमेऽङ्गे द्यूने जीवे वा शुक्रे व्रणाङ्कितं शिरः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If Lagnesha is in Ari Bhava (6th Bhava) aspected by a Papa graha, there will be a bodily wound caused by weapons.",
-          "hindi_draft": "यदि लग्नेश पापग्रह से दृष्ट होकर षष्ठ भाव में स्थित हो, तो शस्त्र से शरीर में व्रण होता है।"
+          "english": "If Mars is in the lagna and Jupiter or Venus in the 7th, the head is marked with a wound.",
+          "hindi": "मंगल लग्न में और गुरु या शुक्र सप्तम में हो तो सिर व्रण से अंकित।",
+          "status": "translated"
         },
         {
           "number": 31,
           "text": "आयारिगे भौमे व्यये शुक्रे वामपार्श्वे व्रणम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is in Lagna conjoined with Mangala, there will be a scar or wound caused by fire or weapon.",
-          "hindi_draft": "यदि षष्ठेश मंगल के साथ लग्न में स्थित हो, तो अग्नि या शस्त्र से व्रण का चिह्न होता है।"
+          "english": "If Mars is in the 11th or the 6th and Venus in the 12th, a wound on the left side.",
+          "hindi": "मंगल एकादश या षष्ठ में और शुक्र द्वादश में हो तो वाम पार्श्व में व्रण।",
+          "status": "translated"
         },
         {
           "number": 32,
           "text": "व्यये गुरौ विधौ ज्ञे आयारिगे गुदाव्रणम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) conjoined with Shani is in Lagna, there will be a scar caused by stones or wood.",
-          "hindi_draft": "यदि षष्ठेश शनि के साथ लग्न में स्थित हो, तो पत्थर या लकड़ी से व्रण का चिह्न होता है।"
+          "english": "If Jupiter and the Moon are in the 12th and Mercury in the 11th or the 6th [or: Jupiter in the 12th, the Moon and Mercury in the 11th or the 6th; the locatives allow both], a wound at the anus.",
+          "hindi": "गुरु और चन्द्र द्वादश में और बुध एकादश या षष्ठ में हो [या: गुरु द्वादश में, चन्द्र और बुध एकादश या षष्ठ में; दोनों अर्थ संभव], तो गुदा में व्रण।",
+          "status": "translated"
         },
         {
           "number": 33,
           "text": "पष्ठेशेऽङ्गे वैरिहन्ता।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) conjoined with Budha is in Lagna, there will be a wound or mark caused by a fall or strike.",
-          "hindi_draft": "यदि षष्ठेश बुध के साथ लग्न में स्थित हो, तो प्रपात या आघात से व्रण होता है।"
+          "english": "If the 6th lord is in the lagna, one destroys enemies.",
+          "hindi": "षष्ठेश लग्न में हो तो वैरि-हन्ता।",
+          "status": "translated"
         },
         {
           "number": 34,
           "text": "षष्ठेशे बलाढ्ये वैरिहन्ता ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) conjoined with Rahu or Ketu is in Lagna, there will be a mark or wound caused by a reptile, insect, or snake bite.",
-          "hindi_draft": "यदि षष्ठेश राहु या केतु के साथ लग्न में हो, तो सर्प या कीटदंश से व्रण होता है।"
+          "english": "If the 6th lord is very strong, one destroys enemies.",
+          "hindi": "षष्ठेश अति बलवान हो तो वैरि-हन्ता।",
+          "status": "translated"
         },
         {
           "number": 35,
           "text": "षष्ठे शुभदृष्ट्याधिक्ये वैरिहन्ता ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is in Lagna with Chandra, there will be a wound caused by water or aquatic creatures.",
-          "hindi_draft": "यदि षष्ठेश चन्द्र के साथ लग्न में हो, तो जल या जलचर जीव से व्रण होता है।"
+          "english": "If benefic aspect on the 6th predominates, one destroys enemies.",
+          "hindi": "षष्ठ पर शुभ दृष्टि अधिक हो तो वैरि-हन्ता।",
+          "status": "translated"
         },
         {
           "number": 36,
           "text": "लग्नेशार्को त्रिके तापगण्डः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is in the Navamsha of Makara, there will be a wound on the secret organs or legs.",
-          "hindi_draft": "यदि षष्ठेश मकर नवमांश में स्थित हो, तो गुह्य अंग या पैरों में व्रण होता है।"
+          "english": "If the lagna lord and the Sun are in the 6th, 8th or 12th, an inflamed swelling [tāpagaṇḍa].",
+          "hindi": "लग्नेश और सूर्य त्रिक में हों तो तापगण्ड।",
+          "status": "translated"
         },
         {
           "number": 37,
           "text": "चन्द्राङ्गेशौ त्रिके जलजगण्डः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is in the Navamsha of Kumbha, there will be a wound on the thighs or shanks.",
-          "hindi_draft": "यदि षष्ठेश कुंभ नवमांश में स्थित हो, तो जांघों या पिंडली में व्रण होता है।"
+          "english": "If the Moon and the lagna lord are in the 6th, 8th or 12th, a swelling arising from water [jalajagaṇḍa].",
+          "hindi": "चन्द्र और लग्नेश त्रिक में हों तो जलजगण्ड।",
+          "status": "translated"
         },
         {
           "number": 38,
           "text": "लग्नषष्ठेशचन्द्रास्त्रिके जलजगण्डः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Ari Bhava (6th lord) is in the Navamsha of Meena, there will be a wound on the feet.",
-          "hindi_draft": "यदि षष्ठेश मीन नवमांश में स्थित हो, तो चरणों में व्रण होता है।"
+          "english": "If the lords of the lagna and the 6th and the Moon are in the 6th, 8th or 12th, a swelling arising from water.",
+          "hindi": "लग्नेश, षष्ठेश और चन्द्र त्रिक में हों तो जलजगण्ड।",
+          "status": "translated"
         },
         {
           "number": 39,
@@ -17033,20 +16881,16 @@
         {
           "number": 6,
           "text": "तयोर्यो बली तत्त्रिंशांशे फलम् ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "When Lagna or Chandra is in a Rashi of Mangala: in Trimshamsha of Mangala, she is wicked; of Budha, deceitful; of Guru, chaste; of Shukra, ill-behaved; of Shani, a maidservant.",
-          "hindi_draft": "Mangala की Rashi में Lagna या Chandra होने पर: Mangala के Trimshamsha में वह दुष्टा; Budha के Trimshamsha में कपटी; Guru के Trimshamsha में पतिव्रता; Shukra के Trimshamsha में दुश्चरित्रा; और Shani के Trimshamsha में दासी होती है।"
+          "english": "Of the two [the lagna and the Moon], the result is from the triṃśāṃśa of whichever is stronger.",
+          "hindi": "उन दोनों (लग्न और चन्द्र) में जो बली हो, उसके त्रिंशांश से फल।",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "भौमभे भौमस्य त्रिंशांशे कन्यैव दुष्टा ज्ञस्य मायाविनी गुरोः साध्वी कवेः कुवृत्ता मन्दस्य दासी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "When in a Rashi of Shukra: in Trimshamsha of Shukra, she is famous for virtues; of Budha, skilled in arts; of Guru, full of virtues; of Shani, a remarried woman; of Mangala, wicked.",
-          "hindi_draft": "Shukra की Rashi में: Shukra के Trimshamsha में वह प्रसिद्ध गुणवती; Budha के Trimshamsha में कलावती; Guru के Trimshamsha में गुणमयी; Shani के Trimshamsha में पुनर्भू; और Mangala के Trimshamsha में दुष्टा होती है।"
+          "english": "In a sign of Mars: in the triṃśāṃśa of Mars, she is corrupted while still a maiden; of Mercury, deceitful; of Jupiter, virtuous; of Venus, of bad conduct; of Saturn, a servant.",
+          "hindi": "मंगल की राशि में: मंगल के त्रिंशांश में कन्यावस्था में ही दूषित (दुष्टा); बुध के में मायाविनी; गुरु के में साध्वी; शुक्र के में कुवृत्ता; शनि के में दासी।",
+          "status": "translated"
         },
         {
           "number": 8,

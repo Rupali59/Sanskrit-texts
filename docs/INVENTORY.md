@@ -85,7 +85,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `atharvaveda_samhita` | [`Veda/atharvaveda/ShaunakaSamhita`](../Veda/atharvaveda/ShaunakaSamhita) | 20 | 6,091 | 100% | range |
 | `sarvartha_chintamani` | [`Hora/Parashari/SarvarthaChintamani`](../Hora/Parashari/SarvarthaChintamani) | 17 | 1227 | 100% | supported |
 | `jaimini_sutra` | [`Hora/Jaimini/JaiminiSutras`](../Hora/Jaimini/JaiminiSutras) | 2 | 408 | 100% | range |
-| `jataka_tattva` | [`Hora/Parashari/JatakaTattvam`](../Hora/Parashari/JatakaTattvam) | 17 | 2277 | 61% | supported |
+| `jataka_tattva` | [`Hora/Parashari/JatakaTattvam`](../Hora/Parashari/JatakaTattvam) | 17 | 2277 | 65% | supported |
 | `taittiriya_samhita` | [`Veda/krishna-yajurveda/TaittiriyaSamhita`](../Veda/krishna-yajurveda/TaittiriyaSamhita) | 7 | 650 | 0% | **RE-PARSED 2026-09-02** — was 2,294 verses with 1,126 duplicates (49%), all ingesting. Now 650 anuvākas against canonical 651, in the canonical 44 (kāṇḍa, praśna) pairs, numbered `praśna.anuvāka` from the source's own citations. **REPAIRED 2026-09-04** — that re-parse left the edition's apparatus inside 505 of the 650 text fields (section headings, anukramaṇī, repeated citations); 43,492 characters removed as a verified prefix cut, no unit renumbered. The short anuvāka is located: `1.2.7`, absent from the source's own numbering. |
 | `rigveda_samhita` | [`Veda/rigveda/ShakalaSamhita`](../Veda/rigveda/ShakalaSamhita) | 10 | 10,470 | 100% | range |
 | `samaveda_samhita` | [`Veda/samaveda/KauthumaSamhita`](../Veda/samaveda/KauthumaSamhita) | 1 | 1,866 | 100% | range |
