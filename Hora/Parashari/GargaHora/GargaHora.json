@@ -656,497 +656,387 @@
         {
           "number": 5,
           "text": "तथा बहुत मित्र पानेवाला तथा माता-पिता पर भवित्त रखनेवाला",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 5th house (Suta/Putra), it makes the native blessed with good friends and devoted to parents. [Garga Hora 2.5]",
-          "hindi_draft": "यदि लग्नेश पंचम (सुत/पुत्र) भाव में स्थित हो, तो वह जातक को अनेक मित्रों को प्राप्त करने वाला तथा माता-पिता पर भक्ति रखने वाला बनाता है।"
+          "english": "[This entry is not a verse: it is a fragment of the edition's Hindi commentary on 2.4 (lagna lord in the 4th): '…and gaining many friends, and devoted to mother and father'.]",
+          "hindi": "[यह श्लोक नहीं है: संस्करण की हिन्दी टीका का अंश है (2.4, लग्नेश चतुर्थ में, पर): 'तथा बहुत मित्र पानेवाला तथा माता-पिता पर भक्ति रखनेवाला'।]",
+          "status": "translated"
         },
         {
           "number": 6,
           "text": "पचमगो लग्नपत्तिः ससुतं सत्यागमीश्वरं विदितम्‌ । बहुजीवितं सुशीलं सुकर्मनिरतं नरं तनुते ।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 6th house (Ripu/Shatru), it makes the native blessed with sons, truthful, wealthy, famous, long-lived, and virtuous. [Garga Hora 2.6]",
-          "hindi_draft": "यदि लग्नेश षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो वह जातक को सन्तानवान्, सत्यवादी, तेजस्वी, धनवान्, विख्यात, दीर्घायु और गुणवान् बनाता है।"
+          "english": "If the lagna lord is in the 5th, it makes a man endowed with sons, [versed in] truth and scripture [satyāgama, compound unclear], a master, well known, long-lived, well-conducted and devoted to good deeds.",
+          "hindi": "लग्नेश पंचम में हो तो मनुष्य को पुत्रवान्, सत्य और आगम से युक्त [सत्यागम — समास अस्पष्ट], ईश्वर (समर्थ), प्रसिद्ध, दीर्घजीवी, सुशील और सुकर्म में रत बनाता है।",
+          "status": "translated"
         },
         {
           "number": 7,
           "text": "रिपुभवने लग्नेशे निरोगं भूमिलाभ युतं सबलम्‌ | कृपणं धनिनमरघ्निं सुकर्मपक्षाच्वितं कुरुते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 7th house (Saptama/Kalatra), it makes the native disease-free, endowed with land and strength, miserly, wealthy, and victorious over foes. [Garga Hora 2.7]",
-          "hindi_draft": "यदि लग्नेश सप्तम (कलत्र) भाव में स्थित हो, तो वह जातक को निरोग, भूमि एवं बल से युक्त, कृपण, धनवान् और शत्रुओं पर विजयी बनाता है।"
+          "english": "If the lagna lord is in the 6th, it makes one free of disease, gaining land, strong, miserly, wealthy, a slayer of enemies [reading arighnam], and on the side of good deeds.",
+          "hindi": "लग्नेश षष्ठ में हो तो निरोग, भूमि-लाभ से युक्त, बलवान, कृपण, धनी, शत्रुनाशक [पाठ अरिघ्नं] और सुकर्म के पक्ष में रहने वाला बनाता है।",
+          "status": "translated"
         },
         {
           "number": 8,
           "text": "प्रथमपतौ सप्तमगे तेजस्वी शीलवान्‌ भवेत्‌ पुरुषः | तद्भार्यापि सुशीला ज्ञेया कलिता सुरूपा च||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 8th house (Ashtama/Randhra), it makes the native splendid and virtuous, with a good-natured and beautiful wife. [Garga Hora 2.8]",
-          "hindi_draft": "यदि लग्नेश अष्टम (रंध्र) भाव में स्थित हो, तो वह जातक को तेजस्वी और शीलवान् बनाता है; उसकी पत्नी भी सुशीला और सुरूपा होती है।"
+          "english": "If the lord of the 1st is in the 7th, the man is brilliant and well-conducted; his wife too should be known as well-conducted, accomplished and beautiful.",
+          "hindi": "प्रथमेश सप्तम में हो तो पुरुष तेजस्वी और शीलवान होता है; उसकी भार्या भी सुशील, गुणवती और सुरूपा जाननी चाहिए।",
+          "status": "translated"
         },
         {
           "number": 9,
           "text": "लग्नपतौ त्वष्टमगे कृपणो धनसंचयी सुदीघयुः। क्रूरे खचरे क्रूरः सौम्ये वपुषा भवेत्‌ सौम्यः |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 9th house (Bhagya/Dharma), it makes the native miserly, accumulating wealth, and long-lived; malefic brings cruelty, benefic brings gentleness. [Garga Hora 2.9]",
-          "hindi_draft": "यदि लग्नेश नवम (भाग्य/धर्म) भाव में स्थित हो, तो वह जातक को कृपण, धन संचय करने वाला और दीर्घायु बनाता है; पाप प्रभाव से क्रूर, शुभ प्रभाव से सौम्य होता है।"
+          "english": "If the lagna lord is in the 8th, one is miserly, a hoarder of wealth and very long-lived; if the planet is malefic, cruel; if benefic, gentle in body.",
+          "hindi": "लग्नेश अष्टम में हो तो कृपण, धन-संचयी और अति दीर्घायु होता है; ग्रह क्रूर हो तो क्रूर, सौम्य हो तो शरीर से सौम्य होता है।",
+          "status": "translated"
         },
         {
           "number": 10,
           "text": "मर्तिर्पतिर्यदि नवमे तदा भवेत्‌ प्रचुरबान्धवः सुकृतिः। समचित्तश्च सुशीलः सुकृतिरव्यातश्च तेजस्वी | |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 10th house (Karma/Rajya), it makes the native blessed with many kinsmen, virtuous, balanced-minded, famous, and radiant. [Garga Hora 2.10]",
-          "hindi_draft": "यदि लग्नेश दशम (कर्म/राज्य) भाव में स्थित हो, तो वह जातक को बहुत से सम्बंधियों से युक्त, धर्मात्मा, समचित्त, यशस्वी और कांतिमान् बनाता है।"
+          "english": "If the lord of the body [reading mūrtipatiḥ, the lagna lord] is in the 9th, one has many relatives, is virtuous, even-minded, well-conducted, famed for good deeds [reading sukṛtir vikhyātaḥ] and brilliant.",
+          "hindi": "मूर्तिपति [पाठ मूर्तिपतिः, लग्नेश] नवम में हो तो बहुत बान्धवों वाला, पुण्यात्मा, समचित्त, सुशील, सुकर्मों से विख्यात [पाठ सुकृतिर्विख्यातः] और तेजस्वी होता है।",
+          "status": "translated"
         },
         {
           "number": 11,
           "text": "प्रथमेशे दशमस्थे नृपमित्रः पंडितः सुशीलश्च गुरुमातृपूजनमतिः नूपतिसमृद्धः पुमान्‌ भवति ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 11th house (Labha), it makes the native honoured by rulers, performing noble deeds, highly powerful, and devoted to parents. [Garga Hora 2.11]",
-          "hindi_draft": "यदि लग्नेश एकादश (लाभ) भाव में स्थित हो, तो वह जातक को राजाओं द्वारा सम्मानित, शुभ कर्म करने वाला, महाप्रतापी और माता-पिता का भक्त बनाता है।"
+          "english": "If the lord of the 1st is in the 10th, the man is a friend of the king, learned and well-conducted, minded to honour his guru and mother, and prosperous through the king.",
+          "hindi": "प्रथमेश दशम में हो तो पुरुष राजा का मित्र, पंडित, सुशील, गुरु और माता के पूजन में मति रखने वाला और राजा से समृद्ध होता है।",
+          "status": "translated"
         },
         {
           "number": 12,
           "text": "एकादशगस्तनुपः सुजीवितं सुतसमन्वितं विदितम्‌ तेजः कलितं करुते पुरूषं बलिनं न सीदति चेत्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the lord of Lagna is placed in the 12th house (Vyaya), it makes the native acquiring various gains, exceedingly wealthy, blessed with good sons, and happy. [Garga Hora 2.12]",
-          "hindi_draft": "यदि लग्नेश द्वादश (व्यय) भाव में स्थित हो, तो वह जातक को विविध लाभ प्राप्त करने वाला, अत्यंत धनवान्, उत्तम पुत्रवान् और सुखी बनाता है।"
+          "english": "The lord of the body in the 11th makes a man of good life, with sons, well known, endowed with brilliance and strong — if it does not sink [na sīdati cet: taken as 'if the lord is not weakened'; the subject is unclear].",
+          "hindi": "तनुपति एकादश में हो तो पुरुष को सुजीवी, पुत्रवान, प्रसिद्ध, तेजस्वी और बलवान बनाता है — यदि वह क्षीण न हो [न सीदति चेत्: 'यदि ग्रह निर्बल न हो' ऐसा लिया; कर्ता अस्पष्ट]।",
+          "status": "translated"
         },
         {
           "number": 13,
           "text": "द्वादशगे लग्नपतौ पटुवाग्‌ वाचं करोति कर्णहितम्‌। सहगोत्रकैरमिलितं विदेशगं वित्तभोक्तारम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 1st house (Lagna), it makes the native wealthy, famous, devoted to family, and possessing great liquid assets. [Garga Hora 2.13]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक धनवान्, विख्यात, कुटुंबप्रेमी और प्रचुर धन-संपदा से युक्त होता है।"
+          "english": "If the lagna lord is in the 12th, one is skilled in speech and speaks words pleasing to the ear; it makes him estranged from kinsmen of his own gotra, a traveller abroad, and an enjoyer of wealth.",
+          "hindi": "लग्नेश द्वादश में हो तो वाणी में चतुर, कानों को प्रिय वचन बोलने वाला; अपने गोत्र वालों से न मिलने वाला, विदेश जाने वाला और धन का भोग करने वाला बनाता है।",
+          "status": "translated"
         },
         {
           "number": 14,
           "text": "स्थान मेह वे परदेश अथवा विदेश मेँ ही मान-यश तथा सफलता द्रव्यपतिः लग्नगतः कृपणं व्यवसायिनं सुकर्माणम्‌ | धनिनं श्रीपतिविदितं करोति नरमतुलभोगयुतम्‌ | |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 2nd house (Dhana), it makes the native exceedingly wealthy, earning through honest means, and surrounded by noble family members. [Garga Hora 2.14]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) द्वितीय (धन) भाव में स्थित हो, तो जातक अत्यंत धनी, न्यायोपार्जित धन वाला और श्रेष्ठ कुल-कुटुंब से घिरा रहता है।"
+          "english": "[The entry opens with a fragment of the edition's Hindi commentary on the previous verse: '…honour, fame and success only in another place or abroad'.] The lord of wealth (2nd) in the lagna makes a man miserly, enterprising, of good deeds, rich, known to the wealthy [śrīpati, also 'kings'], and endowed with unequalled enjoyments.",
+          "hindi": "[प्रविष्टि पिछले श्लोक की हिन्दी टीका के अंश से आरम्भ होती है: 'स्थान में, परदेश अथवा विदेश में ही मान-यश तथा सफलता'।] द्रव्यपति (द्वितीयेश) लग्न में हो तो मनुष्य को कृपण, व्यवसायी, सुकर्मी, धनी, श्रीपतियों में विदित और अतुल भोगों से युक्त बनाता है।",
+          "status": "translated"
         },
         {
           "number": 15,
           "text": "धनपो धनभावस्थो धनवन्तं धर्मकर्म निरतं च| लामाधिक सलोभं कुरुते पुरुषं सदादानम्‌।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 3rd house (Sahaja), it makes the native heroic, fond of music and arts, blessed with good brothers, and acquiring wealth through self-effort. [Garga Hora 2.15]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) तृतीय (सहज) भाव में स्थित हो, तो जातक पराक्रमी, संगीत-कला प्रेमी, उत्तम भाइयों से युक्त और स्वप्रयास से धन कमाने वाला होता है।"
+          "english": "The 2nd lord in the 2nd makes a man wealthy, devoted to dharma and works, with abundant gains, greedy, and always giving [sadādānam; it can also be read sadā adānam, 'never giving', which suits 'greedy'].",
+          "hindi": "धनेश धन भाव में हो तो पुरुष को धनवान, धर्म-कर्म में रत, अधिक लाभ वाला, लोभी और सदा दान करने वाला बनाता है [सदादानम्; 'सदा अदानम्' (कभी दान न करने वाला) भी पढ़ा जा सकता है, जो 'लोभी' से मेल खाता है]।",
+          "status": "translated"
         },
         {
           "number": 16,
           "text": "सहजगते तु धनेशे व्यवसायी कलिकरो कलाहीन; । योरश्वंवलवित्तौ भावति नरो विनयनयरदहितः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 4th house (Sukha/Bandhu), it makes the native endowed with vehicle, landed property, house, comfort, and maternal happiness. [Garga Hora 2.16]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक वाहन, भूमि, भवन, सुख और मातृसुख से परिपूर्ण होता है।"
+          "english": "If the 2nd lord is in the 3rd, one is enterprising, quarrelsome and without skills; [yoraśvaṃvalavittau — corrupt, not translated]; the man is devoid of modesty and good conduct.",
+          "hindi": "द्वितीयेश तृतीय में हो तो व्यवसायी, कलह करने वाला, कला-हीन; [योरश्वंवलवित्तौ — भ्रष्ट पाठ, अनूदित नहीं]; मनुष्य विनय और नीति से रहित होता है।",
+          "status": "translated"
         },
         {
           "number": 17,
           "text": "तुर्यगते द्रविणपतौ पितृलाभश्चापरः। सहोपायः दीर्घायुः क्रूरे हऽपि अथवा मरणं विनिर्देश्यम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 5th house (Suta/Putra), it makes the native blessed with intelligent children, earning through wisdom, and respected by scholars. [Garga Hora 2.17]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक बुद्धिमान् पुत्रों वाला, अपनी बुद्धि से धन कमाने वाला और विद्वानों में आदरणीय होता है।"
+          "english": "If the 2nd lord is in the 4th, [there is] gain from the father [cāparaḥ, 'and another' or 'and supreme', unclear]; one is resourceful and long-lived; if malefic, [ha'pi — corrupt] or else death should be declared.",
+          "hindi": "द्वितीयेश चतुर्थ में हो तो पिता से लाभ [चापरः — 'और अन्य' या 'और श्रेष्ठ', अस्पष्ट]; उपाय-युक्त और दीर्घायु; क्रूर हो तो [हऽपि — भ्रष्ट] अथवा मृत्यु कहनी चाहिए।",
+          "status": "translated"
         },
         {
           "number": 18,
           "text": "शश्वद्विलसन्नयनं कर्मणि कष्टे रतं प्रसिद्धं च। कृपणं दुःखविधातं तनयगतो द्रव्यपः कुरुते|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 6th house (Ripu/Shatru), it makes the native experiencing fluctuating wealth, enmity with family members, and overcoming monetary obstacles. [Garga Hora 2.18]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक धन के उतार-चढ़ाव, कुटुंब में अनबन और बाधाओं पर विजय पाने वाला होता है।"
+          "english": "The 2nd lord in the 5th makes one with ever-sparkling eyes, engaged in hard work, famous, miserly, and [duḥkhavidhātam, unclear: 'remover of sorrow' if read -vighātam].",
+          "hindi": "द्वितीयेश पंचम में हो तो सदा चमकते नेत्रों वाला, कष्टपूर्ण कर्म में रत, प्रसिद्ध, कृपण और [दुःखविधातं — अस्पष्ट; '-विघातं' पढ़ें तो 'दुःख का नाश करने वाला'] बनाता है।",
+          "status": "translated"
         },
         {
           "number": 19,
           "text": "षष्ठटेगते द्रविणपतौ धनसंग्रहतत्परं कृतघ्नं चं भूस्वामिनं न खचरे पापे धनवर्जितः सदा पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 7th house (Saptama/Kalatra), it makes the native blessed with a wealthy spouse, gaining through marriage/partnerships, and luxurious. [Garga Hora 2.19]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक धनी जीवनसाथी पाने वाला, व्यापार/साझेदारी से धन लाभ करने वाला और विलासी होता है।"
+          "english": "If the 2nd lord is in the 6th, [it makes one] intent on amassing wealth, ungrateful and not a landowner; if the planet is malefic, the man is always without wealth.",
+          "hindi": "द्वितीयेश षष्ठ में हो तो धन-संग्रह में तत्पर, कृतघ्न और भूस्वामी नहीं; ग्रह पाप हो तो पुरुष सदा धनहीन होता है।",
+          "status": "translated"
         },
         {
           "number": 20,
           "text": "धनपे सप्तमग्रहमे भ्रेष्ठांगनाविलासभाग्‌ भवति। धनसंग्रहणी भार्या क्रूरे खचरे भवेद्‌वन्ध्या ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 8th house (Ashtama/Randhra), it makes the native short-tempered, experiencing loss of wealth or minimal strife, and self-earning. [Garga Hora 2.20]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक अल्प-कलहकारी, धननाश या स्वउपार्जित धन भोगने वाला होता है।"
+          "english": "If the 2nd lord is in the 7th, one enjoys dalliance with excellent women; the wife is a gatherer of wealth; if the planet is malefic, she is barren.",
+          "hindi": "द्वितीयेश सप्तम में हो तो श्रेष्ठ स्त्रियों के विलास का भागी होता है; भार्या धन-संग्रह करने वाली; ग्रह क्रूर हो तो वह वन्ध्या होती है।",
+          "status": "translated"
         },
         {
           "number": 21,
           "text": "धनपे चाष्टमभावे स्वल्पकलिश्चात्मघातकः पुरुष । उत्पन्नभुग्‌ विलासी परहिंसकः सदैव दैवपरः।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 9th house (Bhagya/Dharma), it makes the native pious, charitable, famous, acquiring fortune through righteous means, and honoured. [Garga Hora 2.21]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक धार्मिक, दानी, विख्यात, धर्ममार्ग से भाग्य व धन प्राप्त करने वाला और सम्मानित होता है।"
+          "english": "If the 2nd lord is in the 8th, the man has little strife, is self-destructive, lives on what comes to hand, is pleasure-loving, harms others and always relies on fate.",
+          "hindi": "द्वितीयेश अष्टम में हो तो पुरुष अल्प-कलह वाला, आत्मघाती, जो मिले उसे भोगने वाला, विलासी, परहिंसक और सदा दैव पर निर्भर होता है।",
+          "status": "translated"
         },
         {
           "number": 22,
           "text": "धनपे धर्मगृहमे सौम्ये दानप्रसिद्िभाग भवति| क्रूरे दरिद्रभिक्षु्विंडम्‌ववृत्तिस्तथा मनुजः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 10th house (Karma/Rajya), it makes the native honoured by rulers, earning through high position, authoritative, and prosperous. [Garga Hora 2.22]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक राजा द्वारा पूजित, उच्च पद से धन कमाने वाला, प्रभावशाली और समृद्ध होता है।"
+          "english": "If the 2nd lord is in the 9th and benefic, one gains fame for charity; if malefic, the man is a poor beggar living by imposture.",
+          "hindi": "द्वितीयेश नवम में सौम्य हो तो दान से प्रसिद्धि पाता है; क्रूर हो तो मनुष्य दरिद्र भिक्षुक और स्वांग से जीविका करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 23,
           "text": "दशमस्थे च धनेशे .पद्रमान्यो भवेच्च नरपालः। सोम्यग्रहे च मातुः पितुश्च परिपालकः पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 11th house (Labha), it makes the native acquiring wealth from multiple sources, gaining continuous profits, and prosperous. [Garga Hora 2.23]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) एकादश (लाभ) भाव में स्थित हो, तो जातक अनेक स्रोतों से धन अर्जित करने वाला, निरंतर लाभ पाने वाला और अत्यंत समृद्ध होता है।"
+          "english": "If the 2nd lord is in the 10th, one is honoured [the first syllables are damaged] and becomes a ruler; if the planet is benefic, the man supports his mother and father.",
+          "hindi": "द्वितीयेश दशम में हो तो माननीय [आरम्भिक अक्षर खण्डित] और नरपाल होता है; ग्रह सौम्य हो तो पुरुष माता-पिता का पालन करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 24,
           "text": "लाभा्रितो द्रव्यपतिः श्रियः पतिः मन्त्री नृपस्य व्यवहारदक्षः। व्यापारयुक्तः पुरुषो यशस्वी लाभान्वितो भोगपरः सुखी च। ख्यातं प्रतिपालकं च लोके सततं करुते नरं जातम्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 2nd lord (Dhanapati) is placed in the 12th house (Vyaya), it makes the native spending wealth on religious or wasteful causes, living away from birthplace, and sparse in savings. [Garga Hora 2.24]",
-          "hindi_draft": "यदि द्वितीयेश (धनेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक धर्म या व्यर्थ कार्यों में धन व्यय करने वाला, जन्मस्थान से दूर रहने वाला और अल्प संचयी होता है।"
+          "english": "If the 2nd lord is in the 11th, one is a lord of fortune, the king's minister, skilled in affairs, engaged in trade, famous, gainful, given to enjoyment and happy. [A further line, apparently from another verse, follows:] it always makes the man born famous in the world and a protector.",
+          "hindi": "द्वितीयेश एकादश में हो तो श्रीपति, राजा का मन्त्री, व्यवहार-कुशल, व्यापारी, यशस्वी, लाभयुक्त, भोग-परायण और सुखी होता है। [आगे एक पंक्ति, संभवतः किसी अन्य श्लोक की:] जातक को सदा लोक में प्रसिद्ध और पालन करने वाला बनाता है।",
+          "status": "translated"
         },
         {
           "number": 25,
           "text": "हादशगे द्रविणपतावष्टकपाली विदेसऋद्िश्च | दुष्कर्मा क्रूरग्रहे सौम्यग्रहे संग्रामिकः पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 1st house (Lagna), it makes the native valiant, self-made, acquiring wealth through valour, and blessed with good brothers. [Garga Hora 2.25]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक पराक्रमी, स्वप्रयत्न से धन कमाने वाला और उत्तम भाइयों से युक्त होता है।"
+          "english": "If the 2nd lord is in the 12th, one is an aṣṭakapālī [term unclear] and prospers abroad; if the planet is malefic, of evil deeds; if benefic, the man is a warrior.",
+          "hindi": "द्वितीयेश द्वादश में हो तो अष्टकपाली [शब्द अस्पष्ट] और विदेश में समृद्ध; ग्रह क्रूर हो तो दुष्कर्मी, सौम्य हो तो पुरुष योद्धा होता है।",
+          "status": "translated"
         },
         {
           "number": 26,
           "text": "सहजपतौ लग्नगते वाग्वादी लम्पटः स्वजनभेदी सेवापरः कुमित्रः क्रूरो वा भवति पुरुष्व |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 2nd house (Dhana), it makes the native struggling for wealth in early life but achieving stability through courage. [Garga Hora 2.26]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) द्वितीय (धन) भाव में स्थित हो, तो जातक प्रारंभिक जीवन में संघर्ष किन्तु अपने साहस से स्थिरता पाने वाला होता है।"
+          "english": "If the 3rd lord is in the lagna, the man is argumentative, lustful, divides his own people, is given to service, a bad friend, or cruel.",
+          "hindi": "तृतीयेश लग्न में हो तो पुरुष वाद-विवादी, लम्पट, स्वजनों में भेद डालने वाला, सेवा-परायण, कुमित्र अथवा क्रूर होता है।",
+          "status": "translated"
         },
         {
           "number": 27,
           "text": "यदि धनगे सहजेशे भिक्ुर्धनाल्पजीवितः पुरुषः बन्धुविरोधी क्रूरैः सौम्यः पुनरीश्वरः सबलः खचरैः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 3rd house (Sahaja), it makes the native surrounded by affectionate brothers and friends, brave, and skilled in arts. [Garga Hora 2.27]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) तृतीय (सहज) भाव में स्थित हो, तो जातक स्नेही भाइयों व मित्रों से घिरा, शूरवीर और कलाओं में प्रवीण होता है।"
+          "english": "If the 3rd lord is in the 2nd, the man is a beggar, of little wealth and short life; with malefics, hostile to relatives; but with benefic planets [reading saumyaiḥ], a lord and strong.",
+          "hindi": "तृतीयेश द्वितीय में हो तो पुरुष भिक्षुक, अल्प धन और अल्प आयु वाला; क्रूर ग्रहों से बन्धु-विरोधी; पर सौम्य ग्रहों से [पाठ सौम्यैः] ईश्वर और बलवान होता है।",
+          "status": "translated"
         },
         {
           "number": 28,
           "text": "सहजगते सहजपतौ नृपमन्त्री सौहदेतिनिपुणश्च | गुरुपूजननिरतो वै नृपतौ लाभं परं नरं करुते।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 4th house (Sukha/Bandhu), it makes the native blessed with happiness through siblings, comfortable home, and peace of mind. [Garga Hora 2.28]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक भाइयों के माध्यम से सुख, सुंदर घर और मानसिक शांति प्राप्त करने वाला होता है।"
+          "english": "If the 3rd lord is in the 3rd, one is a king's minister, very skilled in friendship and devoted to honouring gurus; it brings the man great gain from the king.",
+          "hindi": "तृतीयेश तृतीय में हो तो राजमन्त्री, मित्रता में अति निपुण, गुरु-पूजन में रत; मनुष्य को राजा से परम लाभ कराता है।",
+          "status": "translated"
         },
         {
           "number": 29,
           "text": "भातृपतौ तुर्यगति पितृमोदसुखमुदयकृत तेषाम्‌ । मातुर्वैरकरश्च पापे पित्रर्थं भक्षकः पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 5th house (Suta/Putra), it makes the native blessed with capable children, sharp intelligence, and devotion to spiritual studies. [Garga Hora 2.29]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक योग्य सन्तान, तीव्र बुद्धि और आध्यात्मिक पठन-पाठन में रुचि रखने वाला होता है।"
+          "english": "If the lord of brothers (3rd) is in the 4th, [the native] brings his father joy and happiness, causes their rise, and is hostile to his mother; if malefic, the man consumes his father's wealth.",
+          "hindi": "भ्रातृपति (तृतीयेश) चतुर्थ में हो तो पिता को आनन्द और सुख देने वाला, उनका उदय करने वाला और माता से वैर करने वाला; पाप हो तो पुरुष पिता का धन खाने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 30,
           "text": "सहजगे सुतगे बहुबान्धवैः सुतसहोदर पालधनी सुखी | विषयभुक परकार्यपरः क्षमी ललितमूर्तिरसो चिरजीवितः।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 6th house (Ripu/Shatru), it makes the native having conflicts or friction with brothers, yet victorious over opponents. [Garga Hora 2.30]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक भाइयों से कुछ विरोध/अनबन रखने वाला, किन्तु शत्रुओं पर विजयी होने वाला होता है।"
+          "english": "If the 3rd lord [reading sahajape] is in the 5th, one has many relatives, is rich and protects sons and brothers, is happy, enjoys the objects of sense, is devoted to others' work, forbearing, of graceful form and long-lived.",
+          "hindi": "तृतीयेश [पाठ सहजपे] पंचम में हो तो बहुत बान्धवों वाला, पुत्रों और भाइयों का पालक, धनी, सुखी, विषय-भोगी, पर-कार्य-परायण, क्षमाशील, सुन्दर रूप वाला और चिरजीवी होता है।",
+          "status": "translated"
         },
         {
           "number": 31,
           "text": "रिपुगने सहजाधिपतौ भवेन्नयनरोगयुतो रिपुमान्‌ भवेत्‌ | सहजसज्जनतोपि च दुष्टता क्रमयुतोऽथ रुजा परिपीडितः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 7th house (Saptama/Kalatra), it makes the native blessed with a helpful spouse, traveling frequently, and fond of partnerships. [Garga Hora 2.31]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक सहयोगी जीवनसाथी पाने वाला, निरंतर यात्रा करने वाला और साझेदारी प्रेमी होता है।"
+          "english": "If the 3rd lord is in the 6th, one has eye disease and enemies; there is hostility even from brothers and good people, and in time [kramayutaḥ, unclear] one is tormented by sickness.",
+          "hindi": "तृतीयेश षष्ठ में हो तो नेत्र-रोगी और शत्रुओं वाला; भाइयों और सज्जनों से भी दुष्टता; और क्रम से [क्रमयुतः — अस्पष्ट] रोग से पीड़ित होता है।",
+          "status": "translated"
         },
         {
           "number": 32,
           "text": "युवतिवेरकृदल्पपराक्रमी सहजभावपतौ मदगे नरः। सुभगसुन्दर रुपवती सती युवति पापग्रहेषु रतो भवेत्‌",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 8th house (Ashtama/Randhra), it makes the native facing obstacles through siblings, sudden events, yet maintaining stamina. [Garga Hora 2.32]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक भाइयों के सम्बंध में रुकावटें देखने वाला, किन्तु विपरीत परिस्थितियों में साहसी रहता है।"
+          "english": "If the lord of the 3rd house is in the 7th, the man is hostile to his wife and of little valour; the wife is fortunate, beautiful and chaste; with malefics he is given to women [reading yuvati … rataḥ together; uncertain].",
+          "hindi": "तृतीयेश सप्तम में हो तो पुरुष स्त्री से वैर करने वाला और अल्प पराक्रमी; स्त्री सुभग, सुन्दर रूप वाली और सती; पाप ग्रहों से वह स्त्रियों में रत होता है [युवति … रतः को साथ पढ़ा; अनिश्चित]।",
+          "status": "translated"
         },
         {
           "number": 33,
           "text": "सहजपेऽष्टमगे सरुपो नरो मृतसहोदरमित्रजनः खलैः क्रूरे बाहुव्यंगं जीर्वति यदयष्टवर्षाणि | शुभखगैः शुभता धनयुग्भवेत्‌ स्वयमपि प्रचुरामयवान्‌ भवेत्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 9th house (Bhagya/Dharma), it makes the native fortunate through brothers/friends, religious, and traveling to pilgrim places. [Garga Hora 2.33]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक भाइयों व मित्रों के माध्यम से भाग्यशाली, धार्मिक और तीर्थयात्रा करने वाला होता है।"
+          "english": "If the 3rd lord is in the 8th, the man is handsome [sarupaḥ; 'sickly' if read sarujaḥ], and with malefics his brothers and friends die. [An inserted line:] If malefic, he has a defective arm, if he lives eight years. With benefic planets there is good fortune and wealth, yet he himself is much diseased.",
+          "hindi": "तृतीयेश अष्टम में हो तो पुरुष सुरूप [सरुपः; 'सरुजः' पढ़ें तो रोगी], और पाप ग्रहों से उसके भाई-मित्र मरते हैं। [बीच में एक पंक्ति:] क्रूर हो तो बाहु में अंग-दोष, यदि आठ वर्ष जीवित रहे। शुभ ग्रहों से शुभता और धन, पर स्वयं भी बहुत रोगी होता है।",
+          "status": "translated"
         },
         {
           "number": 34,
           "text": "धर्मगते सहजपतौ क्रूरे बन्धुजितस्तथा सौम्ये | सदबान्धवश्च सुकृतिः सोदरभक्तो भवेत्तनुजः।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 10th house (Karma/Rajya), it makes the native achieving career progress through courage, serving the king, and highly renowned. [Garga Hora 2.34]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक अपने साहस से कार्यक्षेत्र में उन्नति करने वाला, राजसेवा करने वाला और यशस्वी होता है।"
+          "english": "If the 3rd lord is in the 9th and malefic, one is overcome by relatives; if benefic, the native has good relatives, is virtuous and devoted to his brothers.",
+          "hindi": "तृतीयेश नवम में क्रूर हो तो बन्धुओं से पराजित; सौम्य हो तो जातक अच्छे बान्धवों वाला, पुण्यात्मा और भाइयों का भक्त होता है।",
+          "status": "translated"
         },
         {
           "number": 35,
           "text": "दुश्चिक्येशे दशमे नृपपूज्यो मातृबन्धुपरिभक्तः| उत्तमबन्धुसुमान्यो विनिश्चतो जायते मनुजः |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 11th house (Labha), it makes the native gaining continuous profits through ventures, courage, and brothers. [Garga Hora 2.35]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) एकादश (लाभ) भाव में स्थित हो, तो जातक साहसिक कार्यों व भाइयों के सहयोग से निरंतर लाभ कमाने वाला होता है।"
+          "english": "If the 3rd lord is in the 10th, the man is honoured by the king, devoted to his mother and relatives, well respected by excellent kinsmen, and resolute.",
+          "hindi": "तृतीयेश दशम में हो तो मनुष्य राजपूज्य, माता और बन्धुओं का भक्त, उत्तम बान्धवों में सम्मानित और दृढ़-निश्चयी होता है।",
+          "status": "translated"
         },
         {
           "number": 36,
           "text": "माता तथा बधु पर भक्ति रखनेवाला तथा अच्छे सम्बन्धियों दारा",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 3rd lord (Sahajapati) is placed in the 12th house (Vyaya), it makes the native spending energy/money on siblings or travels, independent, and detached. [Garga Hora 2.36]",
-          "hindi_draft": "यदि तृतीयेश (सहजेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक भाइयों या यात्राओं पर व्यय करने वाला, स्वतंत्र विचारों वाला और अनिकेत होता है।"
+          "english": "[This entry is not a verse: it is a fragment of the edition's Hindi commentary on 2.35 (3rd lord in the 10th): '…devoted to mother and relatives, and by good kinsmen…'.]",
+          "hindi": "[यह श्लोक नहीं है: संस्करण की हिन्दी टीका का अंश है (2.35, तृतीयेश दशम में, पर): 'माता तथा बन्धु पर भक्ति रखनेवाला तथा अच्छे सम्बन्धियों द्वारा'।]",
+          "status": "translated"
         },
         {
           "number": 37,
           "text": "लाभरस्थः सहजेशः सुबान्धवं राजप्रियं नरो कुरुते | पुरुषबन्धसु पूज्यं सेवाभिधायिनं भोगनिरतं च ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 1st house (Lagna), it makes the native endowed with house, land, vehicles, good health, and maternal affection. [Garga Hora 2.37]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक भवन, भूमि, वाहन, उत्तम स्वास्थ्य और मातृसुख से परिपूर्ण होता है।"
+          "english": "The 3rd lord in the 11th makes a man with good relatives, dear to the king, honoured among men and kin [reading uncertain], given to service and devoted to enjoyment.",
+          "hindi": "तृतीयेश एकादश में हो तो मनुष्य को अच्छे बान्धवों वाला, राजप्रिय, पुरुषों और बन्धुओं में पूज्य [पाठ अनिश्चित], सेवा करने वाला और भोग में रत बनाता है।",
+          "status": "translated"
         },
         {
           "number": 38,
           "text": "व्ययमे दुश्चिक्येशे मित्रविरोधी सुबन्धुसन्तापी | दूरे वासितबन्धुः विदेशशीलं नरो करुते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 2nd house (Dhana), it makes the native inheriting parental wealth, possessing abundant grain and riches. [Garga Hora 2.38]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) द्वितीय (धन) भाव में स्थित हो, तो जातक पैतृक संपत्ति पाने वाला, प्रचुर धान्य व धन से समृद्ध होता है।"
+          "english": "If the 3rd lord is in the 12th, one is hostile to friends and a tormentor of good relatives, with relatives living far away; it makes the man given to living abroad.",
+          "hindi": "तृतीयेश द्वादश में हो तो मित्र-विरोधी, अच्छे बन्धुओं को संताप देने वाला, जिसके बन्धु दूर बसे हों; मनुष्य को विदेश-वासी बनाता है।",
+          "status": "translated"
         },
         {
           "number": 39,
           "text": "तर्यपत्तौ लग्नगते पितृपुत्रौ स्नेहलौ मिथः करुते। पितृपक्षवैरिकलितं पितृनाम्ना सुप्रसिद्ध च||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 3rd house (Sahaja), it makes the native supported by brothers in building assets, energetic, and courageous. [Garga Hora 2.39]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) तृतीय (सहज) भाव में स्थित हो, तो जातक संपत्ति निर्माण में भाइयों का सहयोग पाने वाला, ऊर्जावान् और साहसी होता है।"
+          "english": "If the 4th lord is in the lagna, it makes father and son affectionate to each other; [the native] has enemies on his father's side and is well known by his father's name.",
+          "hindi": "चतुर्थेश लग्न में हो तो पिता-पुत्र को परस्पर स्नेही बनाता है; पितृपक्ष के शत्रुओं से युक्त और पिता के नाम से सुप्रसिद्ध होता है।",
+          "status": "translated"
         },
         {
           "number": 40,
           "text": "पातालये धनस्थे कऋरूररवगैः पितृविरोध कृच्च-शुभैः।| पितृपालकः प्रसिद्धः पिता लभेन्नैव तल्लक्ष्मीम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 4th house (Sukha/Bandhu), it makes the native possessing excellent mansion, lands, conveyances, and deep peace. [Garga Hora 2.40]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक उत्तम भवन, कृषि-भूमि, वाहन और अगाध सुख-शांति से युक्त होता है।"
+          "english": "If the 4th lord is in the 2nd, with malefic planets one opposes his father; with benefics he supports his father and is famous; the father does not obtain that wealth.",
+          "hindi": "चतुर्थेश द्वितीय में हो तो क्रूर ग्रहों से पिता का विरोधी; शुभ ग्रहों से पिता का पालक और प्रसिद्ध; पिता उस लक्ष्मी को नहीं पाता।",
+          "status": "translated"
         },
         {
           "number": 41,
           "text": "मिलता हेै। ुर्येशे सहजगते पितृमातृच्छेदक विदितपितरम्‌। पित्रा सह कलहकरं पितृबान्धवपालकं विदितम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 5th house (Suta/Putra), it makes the native blessed with intelligent children, fond of education, and respected. [Garga Hora 2.41]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक योग्य पुत्रों वाला, विद्याप्रेमी और विद्वानों द्वारा सम्मानित होता है।"
+          "english": "[The entry opens with a fragment of the edition's Hindi commentary on the previous verse: '…obtains'.] If the 4th lord is in the 3rd, [it makes one] estranged from father and mother, having a well-known father, quarrelling with his father, supporting his father's relatives, and well known.",
+          "hindi": "[प्रविष्टि पिछले श्लोक की हिन्दी टीका के अंश से आरम्भ होती है: 'मिलता है'।] चतुर्थेश तृतीय में हो तो माता-पिता से अलग होने वाला, प्रसिद्ध पिता वाला, पिता से कलह करने वाला, पितृ-बान्धवों का पालक और प्रसिद्ध बनाता है।",
+          "status": "translated"
         },
         {
           "number": 42,
           "text": "तुर्यगते तुर्यपतौ पितरि क्षितिपाधिताथमानरतम्‌। पितुलाभपरो भवति स्वघर्मनिरतः सुखी भवति ।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 6th house (Ripu/Shatru), it makes the native facing mother/property distress unless well-aspected, victorious over rivals. [Garga Hora 2.42]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक मातृपक्ष या संपत्ति के सम्बंध में कष्ट देखने वाला, किन्तु विरोधियों पर विजयी होता है।"
+          "english": "If the 4th lord is in the 4th, [the native is] devoted to his father [kṣitipādhitāthamānaratam — corrupt, perhaps 'honoured by kings']; he is intent on gain from his father, devoted to his own dharma, and happy.",
+          "hindi": "चतुर्थेश चतुर्थ में हो तो पिता का [क्षितिपाधिताथमानरतम् — भ्रष्ट; संभवतः 'राजाओं से सम्मानित']; पिता से लाभ में तत्पर, स्वधर्म में रत और सुखी होता है।",
+          "status": "translated"
         },
         {
           "number": 43,
           "text": "सुतगे तुर्यगृहेशे पितृलामाद्भोगवान्‌ मनुजः दीर्घायुः भवति नरो क्षितिपतिसिद्धस्तु लाभदो भवति ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 7th house (Saptama/Kalatra), it makes the native blessed with an affectionate spouse, beautiful house, and domestic joy. [Garga Hora 2.43]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक स्नेही जीवनसाथी, सुंदर गृह और पारिवारिक आनंद पाने वाला होता है।"
+          "english": "If the 4th lord is in the 5th, the man enjoys [wealth] through gain from his father; he is long-lived, successful with the king, and a giver of gain.",
+          "hindi": "चतुर्थेश पंचम में हो तो पिता से लाभ द्वारा भोगवान; दीर्घायु, राजा से सिद्धि पाने वाला और लाभ देने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 44,
           "text": "हिबुकपतौ रिपुसंस्थे पितृद्रव्यविनाशको पितरि वैरी। पितरृदोषकरः क्रूरे सौम्ये धनसंचयस्तनयः।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 8th house (Ashtama/Randhra), it makes the native facing fluctuation in landed properties or vehicle trouble, self-reliant. [Garga Hora 2.44]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक अचल संपत्ति में उतार-चढ़ाव या वाहन कष्ट देखने वाला, स्वावलंबी होता है।"
+          "english": "If the 4th lord is in the 6th, one destroys his father's wealth and is hostile to his father; if malefic, the son harms his father; if benefic, the son accumulates wealth.",
+          "hindi": "चतुर्थेश षष्ठ में हो तो पिता के धन का नाशक और पिता का वैरी; क्रूर हो तो पुत्र पिता को दोष (हानि) देने वाला, सौम्य हो तो धन-संचय करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 45,
           "text": "अम्बुपतौ सप्तमगे क्रूरेश्वशरं सुखान्न पालयति सौम्ये पालयति पुमान्‌ बलयुक्तः कुलपति कुरुते|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 9th house (Bhagya/Dharma), it makes the native pious, acquiring ancestral land/wealth, and blessed with fortune. [Garga Hora 2.45]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक धर्मात्मा, पैतृक भूमि-जायदाद प्राप्त करने वाला और भाग्यशाली होता है।"
+          "english": "If the 4th lord is in the 7th and malefic, the man does not support his father-in-law in comfort; if benefic, he does; if strong, it makes him head of the family.",
+          "hindi": "चतुर्थेश सप्तम में क्रूर हो तो पुरुष श्वशुर का सुखपूर्वक पालन नहीं करता; सौम्य हो तो करता है; बलवान हो तो कुलपति बनाता है।",
+          "status": "translated"
         },
         {
           "number": 46,
           "text": "छिद्रगते तुर्यपतौ क्रूरं रोगान्वितं दरिद्रं वा| दुष्कर्म परं मृत्युप्रियमथवा मानवं कुरुते",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 10th house (Karma/Rajya), it makes the native honoured by the state/king, holding high public office, and widely famous. [Garga Hora 2.46]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक राज्य (सरकार) द्वारा सम्मानित, उच्च सार्वजनिक पद धारण करने वाला और विख्यात होता है।"
+          "english": "If the 4th lord is in the 8th, it makes the man cruel, diseased or poor, given to evil deeds, or fond of death.",
+          "hindi": "चतुर्थेश अष्टम में हो तो मनुष्य को क्रूर, रोगी या दरिद्र, दुष्कर्म-परायण अथवा मृत्यु-प्रिय बनाता है।",
+          "status": "translated"
         },
         {
           "number": 47,
           "text": "सुकृते तुर्यपतौ सति पितर्यसंगी समस्त विदयावन्‌ | पितृधर्मसंग्रहकृत्‌ पिवृधमपिक्षको मनुजः ।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 11th house (Labha), it makes the native gaining immoveable properties, rental income, and continuous wealth. [Garga Hora 2.47]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) एकादश (लाभ) भाव में स्थित हो, तो जातक अचल संपत्ति, किराये से आय और निरंतर लाभ प्राप्त करने वाला होता है।"
+          "english": "If the 4th lord is in the 9th, the man is unattached to his father, possessed of all learning, a keeper of his father's dharma, and attentive to it.",
+          "hindi": "चतुर्थेश नवम में हो तो मनुष्य पिता से अनासक्त, समस्त विद्याओं वाला, पिता के धर्म का संग्रह करने वाला और उसकी अपेक्षा रखने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 48,
           "text": "पातालेशेऽबरगे पापे सुतो मातरेत्यजति। कन्यादयितः सौम्यैः पुनरन्यसेवाकरः पुरुषः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 4th lord (Bandhupati) is placed in the 12th house (Vyaya), it makes the native living away from ancestral home, spending on real estate, and spiritual. [Garga Hora 2.48]",
-          "hindi_draft": "यदि चतुर्थेश (बंधुकेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक पैतृक गृह से दूर रहने वाला, गृह निर्माण पर व्यय करने वाला और आध्यात्मिक होता है।"
+          "english": "If the 4th lord is in the 10th and malefic, the son abandons his mother; with benefics the man is dear to maidens, but is again a servant of others.",
+          "hindi": "चतुर्थेश दशम में पाप हो तो पुत्र माता को त्यागता है; सौम्य ग्रहों से पुरुष कन्याओं का प्रिय, पर फिर भी दूसरों की सेवा करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 49,
           "text": "लाभगते तुर्यपतौ पितृपालकों विदेशगो चाढयः| पापे तत्पतिरवेटे त्वन्यपितुर्जन्म निर्देश्यम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 1st house (Lagna), it makes the native learned, blessed with righteous sons, intelligent, and highly respected. [Garga Hora 2.49]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक विद्वान्, धर्मनिष्ठ पुत्रों से युक्त, कुशाग्रबुद्धि और अत्यंत आदरणीय होता है।"
+          "english": "If the 4th lord is in the 11th, one supports his father, goes abroad and is rich; if that lord is a malefic planet, birth from another father should be declared.",
+          "hindi": "चतुर्थेश एकादश में हो तो पिता का पालक, विदेश जाने वाला और धनी; वह स्वामी पाप ग्रह हो तो अन्य पिता से जन्म कहना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 50,
           "text": "दादशगे तुर्यपतौ मृतपितृको वा विदेशगो भवति | पुत्रस्य पापखेटे चाऽन्यपितुर्जन्म निर्देश्यम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 2nd house (Dhana), it makes the native wealthy through intelligence, mantra-siddhi, and possessing famous children. [Garga Hora 2.50]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) द्वितीय (धन) भाव में स्थित हो, तो जातक अपनी बुद्धि व मंत्र-सिद्धि से धन कमाने वाला और प्रसिद्ध सन्तान वाला होता है।"
+          "english": "If the 4th lord is in the 12th, one's father is dead or one goes abroad; and if the planet is malefic, the son's birth from another father should be declared.",
+          "hindi": "चतुर्थेश द्वादश में हो तो पिता मृत होता है या जातक विदेश जाता है; और ग्रह पाप हो तो पुत्र का अन्य पिता से जन्म कहना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 51,
           "text": "लग्नेगते सन्ततिपे सुतानां सुखसुविद्यारतिमन्त्रसिद्िः। शास्त्राणि जानाति सुकर्माकारिरागांगयुक्त्तः खलु विष्णुभक्तः | |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 3rd house (Sahaja), it makes the native blessed with heroic sons, fond of arts, and supported by brothers. [Garga Hora 2.51]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) तृतीय (सहज) भाव में स्थित हो, तो जातक शूरवीर पुत्रों वाला, कलाप्रेमी और भाइयों का सहयोग पाने वाला होता है।"
+          "english": "If the lord of progeny (5th) is in the lagna, [there is] happiness from sons, good learning, love and success in mantra; he knows the śāstras, does good deeds, possesses [skill in] the limbs of rāga [rāgāṅga, unclear], and is indeed a devotee of Viṣṇu.",
+          "hindi": "सन्ततिपति (पंचमेश) लग्न में हो तो पुत्रों का सुख, उत्तम विद्या, प्रीति और मन्त्र-सिद्धि; शास्त्रों का ज्ञाता, सुकर्मी, रागांग से युक्त [रागांग — अस्पष्ट] और निश्चय ही विष्णुभक्त होता है।",
+          "status": "translated"
         },
         {
           "number": 52,
           "text": "पेचमपतिः धनस्थः क्रूरः खचरो धनोच्छितं कुरुते| गीतादिकाव्यकलित-कष्टभुज स्थान प्रचुरं च सदग्रहे सुखिनम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 4th house (Sukha/Bandhu), it makes the native enjoying maternal happiness, good house, conveyances, and academic success. [Garga Hora 2.52]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक मातृसुख, उत्तम गृह, वाहन और विद्या में सफलता पाने वाला होता है।"
+          "english": "If the 5th lord is in the 2nd and is a malefic planet, it makes one bereft of wealth, versed in song, poetry and the like, and living in hardship; with a benefic, [one has] abundant position and is happy.",
+          "hindi": "पंचमेश द्वितीय में क्रूर ग्रह हो तो धन-रहित, गीत-काव्य आदि से युक्त और कष्ट भोगने वाला बनाता है; शुभ ग्रह हो तो प्रचुर स्थान वाला और सुखी।",
+          "status": "translated"
         },
         {
           "number": 53,
           "text": "तनयपतिः सहजगतः सुमधुरवाचं युबन्धुजनविदितम्‌ | करुते सुतास्तदीयान्‌ तनयापरिपालितान्‌ बन्धून ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 5th house (Suta/Putra), it makes the native endowed with outstanding wisdom, renowned sons, and spiritual merits. [Garga Hora 2.53]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक असाधारण ज्ञान, यशस्वी पुत्रों और पूर्वजन्म के पुण्यों से युक्त होता है।"
+          "english": "The 5th lord in the 3rd makes one sweet-spoken and known among good relatives. [The second half is unclear: '(it makes) his sons … relatives cared for by the son(s)'.]",
+          "hindi": "पंचमेश तृतीय में हो तो मधुरभाषी और अच्छे बन्धुजनों में विदित बनाता है। [उत्तरार्ध अस्पष्ट: 'उसके पुत्रों … पुत्र द्वारा पालित बन्धुओं को'।]",
+          "status": "translated"
         },
         {
           "number": 54,
           "text": "पाताले पंचमपो गुरुभक्तिरतं पितृकर्मनिरतं च। पुरुष जननीभव्ततं कुरुते क्रूरस्तु विपरीतम्‌ || |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 6th house (Ripu/Shatru), it makes the native facing delay or friction regarding children, yet overcoming enmity. [Garga Hora 2.54]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक सन्तान सम्बंधी विलम्ब या कष्ट देखने वाला, किन्तु शत्रुता पर विजय पाने वाला होता है।"
+          "english": "The 5th lord in the 4th makes a man devoted to gurus, engaged in duties to his father [pitṛkarma, also 'ancestral rites'] and devoted to his mother; a malefic, the opposite.",
+          "hindi": "पंचमेश चतुर्थ में हो तो पुरुष को गुरुभक्त, पितृकर्म में रत और माता का भक्त बनाता है; क्रूर ग्रह इसके विपरीत।",
+          "status": "translated"
         },
         {
           "number": 55,
           "text": "तनयगतस्तनयपतिर्मतिमन्तं मानिनं वचनकुशलम्‌ | सुतकलितं प्रचुरधनं ख्यातियुतं मानव करुते |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 7th house (Saptama/Kalatra), it makes the native blessed with a virtuous spouse, intelligent offspring, and public fame. [Garga Hora 2.55]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक गुणवती पत्नी, बुद्धिमान् सन्तान और जन-सामान्य में प्रसिद्धि पाने वाला होता है।"
+          "english": "The 5th lord in the 5th makes a man intelligent, proud, skilled in speech, with sons, much wealth and fame.",
+          "hindi": "पंचमेश पंचम में हो तो मनुष्य को बुद्धिमान, मानी, वचन-कुशल, पुत्रवान, प्रचुर धनी और ख्याति-युक्त बनाता है।",
+          "status": "translated"
         },
         {
           "number": 56,
           "text": "पचमपतिस्तुषष्ठे शर्त्रप्रियमात्मजैः टीनम्‌। रोगयुनं धनरहितं क्रूरः खचरः करोति क्रूरतरम्‌ |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 8th house (Ashtama/Randhra), it makes the native experiencing obstacles regarding progeny or health of sons, introspective. [Garga Hora 2.56]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक पुत्र सम्बंधी बाधाएँ या सन्तान के स्वास्थ्य की चिंता देखने वाला, अंतर्मुखी होता है।"
+          "english": "If the 5th lord is in the 6th, [it makes one] dear to enemies, without sons, diseased and without wealth; a malefic planet makes him crueller.",
+          "hindi": "पंचमेश षष्ठ में हो तो शत्रु-प्रिय, पुत्र-हीन, रोगी और धनहीन बनाता है; क्रूर ग्रह उसे अधिक क्रूर बनाता है।",
+          "status": "translated"
         },
         {
           "number": 57,
           "text": "तनयपतौ सप्तमगे सुप्रसूता सुभगाथ दैवरता | गुरुभक्ता प्रियवचना सच्छीला तस्य जायते दयिता ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 9th house (Bhagya/Dharma), it makes the native blessed with pious children, fortunate, learned, and devotion to God. [Garga Hora 2.57]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक धर्मात्मा सन्तान वाला, भाग्यशाली, वेद-शास्त्रज्ञ और ईश्वरभक्त होता है।"
+          "english": "If the 5th lord is in the 7th, his wife bears good children, is fortunate, devoted to the gods, devoted to gurus, sweet-spoken and of good character.",
+          "hindi": "पंचमेश सप्तम में हो तो उसकी पत्नी सुप्रसूता, सुभगा, देव-परायण, गुरुभक्ता, प्रियभाषिणी और सच्चरित्रा होती है।",
+          "status": "translated"
         },
         {
           "number": 58,
           "text": "सुतपे निधनगृहस्थे कुत्सितवाद्निरालयो मन्दः। नष्टा व्यंगास्तनयाः सहजां अपि संभवन्ति तथा||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 10th house (Karma/Rajya), it makes the native honoured by the king for wisdom, holding ministerial status, famous. [Garga Hora 2.58]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक अपनी विद्वत्ता के लिए राजा द्वारा सम्मानित, मंत्री पद पाने वाला और विख्यात होता है।"
+          "english": "If the 5th lord is in the 8th, one is of foul speech, homeless and dull; sons are lost and deformed, and so too are brothers.",
+          "hindi": "पंचमेश अष्टम में हो तो कुत्सित वाणी वाला, गृहहीन और मन्द; पुत्र नष्ट और विकलांग होते हैं, और वैसे ही भाई भी।",
+          "status": "translated"
         },
         {
           "number": 59,
           "text": "सुकृतस्थः तनयपतिः सुबोधविद्याढ्यगीतरतम्‌ | नृपपूजितस्वरुपं नाटकरसिकं नरं करुते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 5th lord (Sutapati) is placed in the 11th house (Labha), it makes the native gaining wealth through investments, speculative skills, and righteous children. [Garga Hora 2.59]",
-          "hindi_draft": "यदि पंचमेश (सुतेश) एकादश (लाभ) भाव में स्थित हो, तो जातक निवेशों, बौद्धिक कौशल और योग्य पुत्रों के माध्यम से निरंतर लाभ पाने वाला होता है।"
+          "english": "If the 5th lord is in the 9th, it makes a man of good understanding, rich in learning, fond of song, of a form honoured by kings, and a lover of drama.",
+          "hindi": "पंचमेश नवम में हो तो मनुष्य को सुबोध, विद्या-सम्पन्न, गीत-प्रेमी, राजपूजित रूप वाला और नाटक-रसिक बनाता है।",
+          "status": "translated"
         },
         {
           "number": 60,
@@ -1172,758 +1062,590 @@
         {
           "number": 63,
           "text": "षष्ठेशे लग्नगते निरुग्‌ निरुत्सा्ी कटुम्बाष्टकरः| बहुपक्षी रिपुहन्ता भवति नरः स्वैरवचनधनः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 1st house (Lagna), it makes the native courageous, overcoming diseases and enemies, yet experiencing physical ailments. [Garga Hora 2.63]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक साहसी, रोगों व शत्रुओं पर विजय पाने वाला, किन्तु शारीरिक कष्ट देखने वाला होता है।"
+          "english": "If the 6th lord is in the lagna, the man is free of disease, without enterprise, troubling his family [reading kuṭumbakaṣṭakaraḥ; uncertain], with many supporters, a slayer of enemies, and free in speech and wealth [svairavacanadhanaḥ, unclear].",
+          "hindi": "षष्ठेश लग्न में हो तो मनुष्य निरोग, उत्साह-हीन, कुटुम्ब को कष्ट देने वाला [पाठ कुटुम्बकष्टकरः; अनिश्चित], बहुत पक्ष वाला, शत्रुनाशक और वाणी-धन में स्वच्छन्द [स्वैरवचनधनः — अस्पष्ट] होता है।",
+          "status": "translated"
         },
         {
           "number": 64,
           "text": "षष्टपतोौ द्रविणस्य दुष्टचतुरो हि संग्रहवान्‌ | स्थानप्रवरो विदितः सव्याधिस्तनुजहवित्तः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 2nd house (Dhana), it makes the native facing financial disputes or debt, yet acquiring wealth through litigation/maternal side. [Garga Hora 2.64]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) द्वितीय (धन) भाव में स्थित हो, तो जातक वित्तीय विवादों या ऋण का सामना करने वाला, किन्तु ननिहाल से धन पाने वाला होता है।"
+          "english": "If the 6th lord is in the 2nd, one is wicked and clever, a hoarder, eminent in position, well known and sickly, [tanujahavittaḥ, unclear: perhaps 'whose wealth is taken by his son']. [The first line is short by several syllables.]",
+          "hindi": "षष्ठेश द्वितीय में हो तो दुष्ट और चतुर, संग्रही, उत्तम स्थान वाला, प्रसिद्ध, रोगी और [तनुजहवित्तः — अस्पष्ट; संभवतः 'पुत्र द्वारा हरे धन वाला'] होता है। [प्रथम पंक्ति में कई अक्षर कम हैं।]",
+          "status": "translated"
         },
         {
           "number": 65,
           "text": "षष्ठपतिः सहजस्थः क्रूरः कुरुते स्वलोककष्टकरम्‌। जनकरमारमणमतिं त्वतिकष्टं ग्रामलोकस्य ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 3rd house (Sahaja), it makes the native having friction with brothers, valiant, and victorious in battles. [Garga Hora 2.65]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) तृतीय (सहज) भाव में स्थित हो, तो जातक भाइयों से कुछ अनबन रखने वाला, पराक्रमी और युद्ध में विजयी होता है।"
+          "english": "The 6th lord in the 3rd, if malefic, makes one a cause of trouble to his own people, [janakaramāramaṇamatim — corrupt], and a great trouble to the village folk.",
+          "hindi": "षष्ठेश तृतीय में क्रूर हो तो अपने लोगों को कष्ट देने वाला, [जनकरमारमणमतिं — भ्रष्ट], और ग्रामवासियों को अति कष्ट देने वाला बनाता है।",
+          "status": "translated"
         },
         {
           "number": 66,
           "text": "षष्ठाधिपतिस्तुर्य पितृतनयो वैरिणी मिश्रः कुरुते। संकरजसुतः पितृतो लक्ष्मीं लभते सुचिरतराम्‌।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 4th house (Sukha/Bandhu), it makes the native facing trouble regarding house or vehicles, yet acquiring properties through struggle. [Garga Hora 2.66]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक भवन या वाहन सम्बंधी कष्ट देखने वाला, किन्तु संघर्ष से संपत्ति बनाने वाला होता है।"
+          "english": "If the 6th lord is in the 4th, it makes father and son enemies of each other [reading vairiṇau mithaḥ]; the son, born of mixed caste, obtains long-lasting fortune from the father.",
+          "hindi": "षष्ठेश चतुर्थ में हो तो पिता-पुत्र को परस्पर वैरी बनाता है [पाठ वैरिणौ मिथः]; संकर-जात पुत्र पिता से चिरस्थायी लक्ष्मी पाता है।",
+          "status": "translated"
         },
         {
           "number": 67,
           "text": "रिपुभवनपतौ सुतगे पितृसुतयोवैरितामतिक्रूरम | क्रूरे शुभेच निर्धनः पदवीदुष्टश्च तत्फलति ।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 5th house (Suta/Putra), it makes the native experiencing friction with children or anxiety, yet sharp-witted. [Garga Hora 2.67]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक सन्तान सम्बंधी चिंता या अनबन देखने वाला, किन्तु तीव्र बुद्धि वाला होता है।"
+          "english": "If the 6th lord is in the 5th, there is very bitter enmity between father and son; with a malefic and with a benefic alike [krūre śubhe ca] one is poor, and the result is a bad position [padavīduṣṭa, unclear].",
+          "hindi": "षष्ठेश पंचम में हो तो पिता-पुत्र में अति क्रूर वैर; क्रूर और शुभ दोनों में निर्धन, और फल दूषित पदवी [पदवीदुष्ट — अस्पष्ट] होता है।",
+          "status": "translated"
         },
         {
           "number": 68,
           "text": "रिपुभवनपे रिपुस्थे नीरुण्वैरी सुखी कृपणः। न हि जन्मतोपि सीदति स्थानकवासी भवेन्मनुजः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 6th house (Ripu/Shatru), it makes the native destroying all enemies, disease-free, strong, wealthy, and powerful. [Garga Hora 2.68]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक समस्त शत्रुओं का नाश करने वाला, निरोग, बलवान्, धनवान् और प्रतापी होता है।"
+          "english": "If the 6th lord is in the 6th, one is free of disease, hostile, happy and miserly; even from birth he does not suffer distress, and the man lives in one place.",
+          "hindi": "षष्ठेश षष्ठ में हो तो निरोग, वैरी, सुखी और कृपण; जन्म से ही दुःख नहीं पाता, और मनुष्य एक स्थान पर रहने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 69,
           "text": "अरिपतौ सप्तमगे क्रूरे भार्या विरोधिनी चंडा। तापकरी त्वथ सौम्ये वन्ध्या व गर्भपतनपरा।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 7th house (Saptama/Kalatra), it makes the native facing conflicts in marriage or partnership, traveling abroad. [Garga Hora 2.69]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक दांपत्य जीवन या साझेदारी में मतभेद देखने वाला और विदेश यात्रा करने वाला होता है।"
+          "english": "If the 6th lord is in the 7th and malefic, the wife is hostile, fierce and tormenting; if benefic, she is barren or prone to miscarriage.",
+          "hindi": "षष्ठेश सप्तम में क्रूर हो तो भार्या विरोधिनी, चण्डा और संताप देने वाली; सौम्य हो तो वन्ध्या या गर्भपात वाली होती है।",
+          "status": "translated"
         },
         {
           "number": 70,
           "text": "रिपुः रिपुपतिः मृतिमे गृहिणीमृतिः विषधराच्च कुजो विषतो बुधः| सपदि चन्द्र इनो नृपसिंहयोः कविगुरु रिपुलोचनयो रुजम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 8th house (Ashtama/Randhra), it makes the native suffering from chronic illness or debts, yet long-lived if benefic-aspected. [Garga Hora 2.70]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक दीर्घकालिक बीमारी या ऋण से पीड़ित, किन्तु शुभ प्रभाव से दीर्घायु होता है।"
+          "english": "If the 6th lord is in the 8th, the wife dies; [death comes] from a snake if it is Mars, from poison if Mercury, suddenly if the Moon, from kings and lions if the Sun; Venus and Jupiter [give] affliction through enemies and of the eyes. [The opening 'ripuḥ' is a stray extra word; Saturn is not mentioned.]",
+          "hindi": "षष्ठेश अष्टम में हो तो पत्नी की मृत्यु; मंगल हो तो सर्प से, बुध हो तो विष से, चन्द्र हो तो अचानक, सूर्य हो तो राजा और सिंह से [मृत्यु]; शुक्र और गुरु शत्रु और नेत्रों का रोग [देते हैं]। [आरम्भ का 'रिपुः' अतिरिक्त है; शनि का उल्लेख नहीं।]",
+          "status": "translated"
         },
         {
           "number": 71,
           "text": "प्फ शत्रुपतिः यदि नवमे क्रूरः खचरः तदा भ्रष्टः | बिबुधविरोधी क्रूरो न मन्यते याचकच गुरुम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 9th house (Bhagya/Dharma), it makes the native having disagreements with father or preceptors, yet gaining fortune through effort. [Garga Hora 2.71]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक पिता या गुरुजनों से वैचारिक मतभेद रखने वाला, किन्तु पुरुषार्थ से भाग्य बनाने वाला होता है।"
+          "english": "If the 6th lord is in the 9th and is a malefic planet, one is fallen, hostile to the learned [vibudha, also 'the gods'], cruel, and does not respect a supplicant or the guru. [The entry opens with stray letters.]",
+          "hindi": "षष्ठेश नवम में क्रूर ग्रह हो तो भ्रष्ट, विद्वानों [विबुध — देवताओं भी] का विरोधी, क्रूर, और याचक तथा गुरु का आदर नहीं करता। [आरम्भ में अतिरिक्त अक्षर हैं।]",
+          "status": "translated"
         },
         {
           "number": 72,
           "text": "अरिगृहपे दशमस्थे क्रूरे मातरि रिपुः तदा दुष्टः | धर्मसुतपालकमतिः पितृद्धेषी जायते मनुजः |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 10th house (Karma/Rajya), it makes the native facing obstacles in career, engaged in tough work, ultimately successful. [Garga Hora 2.72]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक कर्मक्षेत्र में रुकावटें देखने वाला, कठोर परिश्रम करने वाला और अंततः सफल होता है।"
+          "english": "If the 6th lord is in the 10th and malefic, one is hostile to his mother and then wicked; the man is minded to protect dharma and sons [dharmasutapālakamatiḥ, unclear] and hates his father.",
+          "hindi": "षष्ठेश दशम में क्रूर हो तो माता का शत्रु, तब दुष्ट; मनुष्य धर्म और पुत्रों के पालन की मति वाला [धर्मसुतपालकमतिः — अस्पष्ट] और पितृद्वेषी होता है।",
+          "status": "translated"
         },
         {
           "number": 73,
           "text": "भवगतेऽरिपतौ खलसंगमो रिपुजनान्मरणं खलुजायते। नृपतिचोरजनाद्यनहानिकृत्‌ शुभखगैः सततं शुभकरं भवेत्‌||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 11th house (Labha), it makes the native gaining wealth through maternal uncles, litigation, or health services. [Garga Hora 2.73]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) एकादश (लाभ) भाव में स्थित हो, तो जातक मामा, मुकदमों या स्वास्थ्य सेवाओं के माध्यम से धन लाभ करने वाला होता है।"
+          "english": "If the 6th lord is in the 11th, there is association with the wicked, and death indeed comes from enemies; it causes loss of wealth through kings and thieves [reading -janāddhana-]; with benefic planets it is always auspicious.",
+          "hindi": "षष्ठेश एकादश में हो तो दुष्टों का संग, और शत्रुओं से मृत्यु होती है; राजा और चोरों से धन-हानि कराता है [पाठ -जनाद्धन-]; शुभ ग्रहों से सदा शुभ होता है।",
+          "status": "translated"
         },
         {
           "number": 74,
           "text": "षष्ठपतौ द्वादशगे चतुष्पदधनधान्ययुतः | चपलो मदान्धो लक्ष्याल्हादपरो नरो भवति ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 12th house (Vyaya), it makes the native spending on medical expenses, foreign travels, and overcoming debts. [Garga Hora 2.74]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक चिकित्सा व्यय, विदेश यात्राओं पर खर्च करने वाला और ऋणों से मुक्त होने वाला होता है।"
+          "english": "If the 6th lord is in the 12th, the man has quadrupeds, wealth and grain, is fickle, blind with pride, and delights in prosperity. [The first line is short.]",
+          "hindi": "षष्ठेश द्वादश में हो तो मनुष्य चौपायों, धन और धान्य से युक्त, चपल, मदान्ध और लक्ष्मी में आह्लाद पाने वाला होता है। [प्रथम पंक्ति अपूर्ण है।]",
+          "status": "translated"
         },
         {
           "number": 75,
           "text": "दयितेशो लग्नगतः सी निःस्नेहमन्यतरभर्यम्‌ | भोगभुजं रूपयुतं सस्त्री जनप्रतिलोलचित्तम ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 6th lord (Ripupati) is placed in the 12th house (Vyaya), it makes the native spending on medical expenses, foreign travels, and overcoming debts. [Garga Hora 2.75]",
-          "hindi_draft": "यदि षष्ठेश (रिपुकेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक चिकित्सा व्यय, विदेश यात्राओं पर खर्च करने वाला और ऋणों से मुक्त होने वाला होता है।"
+          "english": "The 7th lord in the lagna [makes one] without affection, with another wife [anyatarabhāryam, unclear], an enjoyer of pleasures, handsome, with a mind restless toward women. [A stray syllable 'sī' stands in the first line.]",
+          "hindi": "सप्तमेश लग्न में हो तो स्नेह-रहित, अन्य भार्या वाला [अन्यतरभार्यम् — अस्पष्ट], भोगी, रूपवान और स्त्रियों के प्रति चंचल चित्त वाला बनाता है। [प्रथम पंक्ति में 'सी' अतिरिक्त है।]",
+          "status": "translated"
         },
         {
           "number": 76,
           "text": "जायापतौ धनस्थे पुष्टा दयिता सुतोज्डितः भवति। वित्तं च कलत्रकरे सततं दुखानुषंगं च||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 1st house (Lagna), it makes the native deeply attached to spouse, attractive, traveling frequently, and prosperous. [Garga Hora 2.76]",
-          "hindi_draft": "यदि सप्तमेश प्रथम (लग्न) भाव में स्थित हो, तो जातक जीवनसाथी से अत्यंत प्रेम रखने वाला, आकर्षक, निरंतर यात्रा करने वाला और समृद्ध होता है।"
+          "english": "If the 7th lord is in the 2nd, the wife is well nourished, one is without sons, wealth is in the wife's hands, and there is constant attachment to sorrow.",
+          "hindi": "सप्तमेश द्वितीय में हो तो पत्नी पुष्ट, जातक पुत्र-रहित, धन पत्नी के हाथ में, और निरन्तर दुःख का संग रहता है।",
+          "status": "translated"
         },
         {
           "number": 77,
           "text": "सप्तमपः सहजगतश्चात्म जवत्सलो दुःखी ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 2nd house (Dhana), it makes the native gaining wealth through marriage, trade, and possessing a prosperous family. [Garga Hora 2.77]",
-          "hindi_draft": "यदि सप्तमेश द्वितीय (धन) भाव में स्थित हो, तो जातक विवाह व व्यापार के माध्यम से धन लाभ करने वाला और समृद्ध परिवार वाला होता है।"
+          "english": "The 7th lord in the 3rd [makes one] fond of his children and unhappy. [Only half the verse survives.]",
+          "hindi": "सप्तमेश तृतीय में हो तो सन्तान-वत्सल और दुःखी। [श्लोक का केवल आधा भाग शेष है।]",
+          "status": "translated"
         },
         {
           "number": 78,
           "text": "जायेशे तुर्यस्थे लोलः पित्वेरसाधकः स्नेही । अस्य पिता दुर्वाक्यस्तदृभार्या पालयेच्च पिता ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 3rd house (Sahaja), it makes the native supported by brothers-in-law, brave, and traveling for business. [Garga Hora 2.78]",
-          "hindi_draft": "यदि सप्तमेश तृतीय (सहज) भाव में स्थित हो, तो जातक साले-साढू का सहयोग पाने वाला, शूरवीर और व्यापारिक यात्राएँ करने वाला होता है।"
+          "english": "If the 7th lord is in the 4th, one is fickle, at enmity with his father [reading pitṛvaira-], yet affectionate; his father is harsh in speech, and the father supports his wife.",
+          "hindi": "सप्तमेश चतुर्थ में हो तो चंचल, पिता से वैर साधने वाला [पाठ पितृवैर-], स्नेही; इसका पिता कटुभाषी, और पिता उसकी भार्या का पालन करता है।",
+          "status": "translated"
         },
         {
           "number": 79,
           "text": "सप्तमपतौ सुतस्थ सौभाग्ययुतः सुतान्वितः पुरुषः । प्रियसाहसदुष्टमतिस्तनयः पालयेत्‌ दयिताम्‌ |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 4th house (Sukha/Bandhu), it makes the native blessed with an affectionate spouse, beautiful home, vehicles, and comfort. [Garga Hora 2.79]",
-          "hindi_draft": "यदि सप्तमेश चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक स्नेही पत्नी, सुंदर भवन, वाहन और सुख-सुविधाओं से युक्त होता है।"
+          "english": "If the 7th lord is in the 5th, the man is fortunate and has sons; he is fond of daring and evil-minded; the son supports the wife.",
+          "hindi": "सप्तमेश पंचम में हो तो पुरुष सौभाग्यशाली और पुत्रवान; साहस-प्रिय और दुष्ट-बुद्धि; पुत्र पत्नी का पालन करता है।",
+          "status": "translated"
         },
         {
           "number": 80,
           "text": "रिपुगृहगः कान्तेशः प्रियया सह वैरिणं सरुग्भार्यम्‌ | | वनितासंगात्‌ क्षयिणं क्रूरः करुते च मृत्युपदम्‌।। ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 5th house (Suta/Putra), it makes the native blessed with intelligent children, good spouse, and academic honors. [Garga Hora 2.80]",
-          "hindi_draft": "यदि सप्तमेश पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक योग्य पुत्रों, उत्तम पत्नी और विद्या संबंधी सम्मान प्राप्त करने वाला होता है।"
+          "english": "The 7th lord in the 6th makes one at enmity with his wife, with a sickly wife, and wasting through intercourse with women; a malefic brings him to death.",
+          "hindi": "सप्तमेश षष्ठ में हो तो पत्नी से वैर करने वाला, रोगिणी भार्या वाला, स्त्री-संग से क्षय-रोगी बनाता है; क्रूर ग्रह मृत्यु तक पहुँचाता है।",
+          "status": "translated"
         },
         {
           "number": 81,
           "text": "॥ सप्तमपे सप्तमगे परमायुः प्रीतवत्सलः पुरुषः | निर्मलशीलसमेतस्तेजस्वी जायते सततम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 6th house (Ripu/Shatru), it makes the native facing disputes in marriage or illness of spouse, yet victorious. [Garga Hora 2.81]",
-          "hindi_draft": "यदि सप्तमेश षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक दांपत्य जीवन में विवाद या पत्नी के स्वास्थ्य की चिंता देखने वाला होता है।"
+          "english": "If the 7th lord is in the 7th, the man has the longest life, is loving and affectionate, of pure character, and always brilliant.",
+          "hindi": "सप्तमेश सप्तम में हो तो पुरुष परम आयु वाला, प्रेमी और वत्सल, निर्मल शील वाला और सदा तेजस्वी होता है।",
+          "status": "translated"
         },
         {
           "number": 82,
           "text": "रमणीशे निधनगते गणिकासुरतपरो गृहे विरतः विद्िद्दिवितियसक्तो त स्त्रीसेवाकरः पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 7th house (Saptama/Kalatra), it makes the native blessed with a highly beautiful, devoted spouse, and successful partnerships. [Garga Hora 2.82]",
-          "hindi_draft": "यदि सप्तमेश सप्तम (कलत्र) भाव में स्थित हो, तो जातक अत्यंत सुंदर, पतिव्रता/पतिपरायण जीवनसाथी और सफल साझेदारियाँ पाने वाला होता है।"
+          "english": "If the 7th lord is in the 8th, the man is given to intercourse with courtesans, indifferent to home, [several words corrupt], and a servant of women.",
+          "hindi": "सप्तमेश अष्टम में हो तो पुरुष गणिका-संभोग में रत, घर से विरक्त, [कुछ शब्द भ्रष्ट], और स्त्रियों की सेवा करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 83,
           "text": "सुकृतगते रमणीशे तेजस्वी शिल्पवान्‌ प्रियाप्येवम्‌ | क्रूरे तु चण्डरूपा लग्नेशवीक्षिते तपः प्रबलः।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 8th house (Ashtama/Randhra), it makes the native experiencing health issues for spouse or early loss of partner if afflicted. [Garga Hora 2.83]",
-          "hindi_draft": "यदि सप्तमेश अष्टम (रंध्र) भाव में स्थित हो, तो जातक जीवनसाथी के स्वास्थ्य कष्ट या पाप प्रभाव में अल्पायु/वियोग देखने वाला होता है।"
+          "english": "If the 7th lord is in the 9th, one is brilliant and skilled in crafts, and so too the wife; but if malefic, she is fierce; if aspected by the lagna lord, one is strong in austerity.",
+          "hindi": "सप्तमेश नवम में हो तो तेजस्वी और शिल्पी, पत्नी भी वैसी ही; क्रूर हो तो वह चण्डा; लग्नेश से दृष्ट हो तो तप में प्रबल होता है।",
+          "status": "translated"
         },
         {
           "number": 84,
           "text": "गृहिणीपे वशमस्थे नृपदोषी लम्पटः कपटचित्तः। ्रूरे दुःखार्तः स्यात्‌ स्वश्रूवर्गो भवेत्‌ पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 9th house (Bhagya/Dharma), it makes the native blessed with a religious, fortunate spouse, traveling to sacred places. [Garga Hora 2.84]",
-          "hindi_draft": "यदि सप्तमेश नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक धार्मिक, भाग्यशाली जीवनसाथी पाने वाला और तीर्थयात्रा करने वाला होता है।"
+          "english": "If the 7th lord is in the 10th, one offends the king, is lustful and deceitful; if malefic, he is afflicted by sorrow, and the man is [svaśrūvargaḥ, unclear: 'under his mother-in-law's family'].",
+          "hindi": "सप्तमेश दशम में हो तो राजा का अपराधी, लम्पट और कपटी; क्रूर हो तो दुःख से पीड़ित, और पुरुष [स्वश्रूवर्गः — अस्पष्ट; 'सास के कुल के अधीन'] होता है।",
+          "status": "translated"
         },
         {
           "number": 85,
           "text": "लाभस्थे जायेशे भक्ता रूपान्विता सुशीला च। दयिता परिणीता स्याद्‌ प्रियते सा च प्रसवसमये।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 10th house (Karma/Rajya), it makes the native partner contributing to career success, holding high state honor. [Garga Hora 2.85]",
-          "hindi_draft": "यदि सप्तमेश दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक जीवनसाथी के सहयोग से कार्यक्षेत्र में सफलता व राजसम्मान पाने वाला होता है।"
+          "english": "If the 7th lord is in the 11th, the married wife is devoted, beautiful and of good character; and she dies at the time of childbirth.",
+          "hindi": "सप्तमेश एकादश में हो तो विवाहिता पत्नी भक्ता, रूपवती और सुशीला होती है; और वह प्रसव के समय मरती है।",
+          "status": "translated"
         },
         {
           "number": 86,
           "text": "भी संभव दहे। सप्तमशे द्वादशगे गृहबन्धूज्डितः भवेत्‌ भायी। लाला सा वुष्टा च पुनरुच्चलितस्य पुरुषसय ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 11th house (Labha), it makes the native gaining continuous profits through marriage, business, and partnerships. [Garga Hora 2.86]",
-          "hindi_draft": "यदि सप्तमेश एकादश (लाभ) भाव में स्थित हो, तो जातक विवाह, व्यापार और साझेदारी के माध्यम से निरंतर लाभ कमाने वाला होता है।"
+          "english": "[The entry opens with a fragment of the edition's Hindi commentary on the previous verse: '…is also possible'.] If the 7th lord is in the 12th, the wife is abandoned by home and relatives [reading -ujjhitā]; she, the wife of a man [punaruccalitasya, unclear: 'who sets out again', i.e. a wanderer], is fickle and wicked.",
+          "hindi": "[प्रविष्टि पिछले श्लोक की हिन्दी टीका के अंश से आरम्भ होती है: 'भी संभव है'।] सप्तमेश द्वादश में हो तो भार्या घर और बन्धुओं से त्यक्त [पाठ -उज्झिता] होती है; [पुनरुच्चलितस्य — अस्पष्ट; 'फिर निकल पड़ने वाले', अर्थात् घुमक्कड़] पुरुष की वह पत्नी चंचल और दुष्ट होती है।",
+          "status": "translated"
         },
         {
           "number": 87,
           "text": "यदि नयो नृपतेर्लमते धन दद्रुयुतो बहुदुःखसमन्वितम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 12th house (Vyaya), it makes the native living away from spouse, traveling to distant lands, and spiritual. [Garga Hora 2.87]",
-          "hindi_draft": "यदि सप्तमेश द्वादश (व्यय) भाव में स्थित हो, तो जातक जीवनसाथी से दूर रहने वाला, सुदूर देशों की यात्रा करने वाला और अनिकेत होता है।"
+          "english": "[Fragment; the opening, which by the sequence names the 8th lord in the lagna, is lost.] … if [nayo, corrupt] he obtains wealth from the king; he has ringworm and much sorrow.",
+          "hindi": "[खण्डित; आरम्भ, जो क्रम से अष्टमेश के लग्न में होने का है, लुप्त है।] … यदि [नयो — भ्रष्ट] राजा से धन पाता है; दाद-रोगी और बहुत दुःखी।",
+          "status": "translated"
         },
         {
           "number": 88,
           "text": "निधनपे धनगे चलजीवितो बहुलशास्त्रयुतोपि च तस्करः । खलखगैश्च युभर्न गदान्वितो नृपतितो मरणं हि सुनिश्चितम्‌ | |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 7th lord (Saptamapati) is placed in the 12th house (Vyaya), it makes the native living away from spouse, traveling to distant lands, and spiritual. [Garga Hora 2.88]",
-          "hindi_draft": "यदि सप्तमेश द्वादश (व्यय) भाव में स्थित हो, तो जातक जीवनसाथी से दूर रहने वाला, सुदूर देशों की यात्रा करने वाला और अनिकेत होता है।"
+          "english": "If the 8th lord is in the 2nd, one's life is unsteady; though learned in many śāstras he is a thief; with malefic planets [yubharna, corrupt; the metre points to yutair na, 'joined … not'] [not?] diseased [sense unclear], and death from the king is certain.",
+          "hindi": "अष्टमेश द्वितीय में हो तो चंचल जीवन; बहुत शास्त्रों का ज्ञाता होकर भी चोर; पाप ग्रहों से [युभर्न — भ्रष्ट; छन्द से युतैर्न, 'युक्त … नहीं'] [संभवतः 'नहीं'] रोगी [अर्थ अस्पष्ट], और राजा से मृत्यु निश्चित है।",
+          "status": "translated"
         },
         {
           "number": 89,
           "text": "निधनपतिर्यदिसहसजे बन्धुविरोधी सुष्टद्‌विर | व्यंगो दुर्बललोलः सोदररहितो भवत्यथ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 1st house (Lagna), it makes the native weak-bodied or facing health obstacles in early life, long-lived if benefic. [Garga Hora 2.89]",
-          "hindi_draft": "यदि अष्टमेश प्रथम (लग्न) भाव में स्थित हो, तो जातक प्रारंभिक जीवन में स्वास्थ्य सम्बंधी रुकावटें देखने वाला, शुभ प्रभाव में दीर्घायु होता है।"
+          "english": "If the 8th lord is in the 3rd, one is hostile to relatives and to friends [the line is damaged], deformed, weak and fickle, and without brothers.",
+          "hindi": "अष्टमेश तृतीय में हो तो बन्धु-विरोधी और मित्र-विरोधी [पंक्ति खण्डित], विकलांग, दुर्बल, चंचल और सहोदर-रहित होता है।",
+          "status": "translated"
         },
         {
           "number": 90,
           "text": "निधनेशे तुर्यगते पितृतोऽन्याल्लभेत तल्लक्ष्मीम्‌। पितृपुत्रयोश्च युद्धं पिता च रोगान्वितो भवति ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 2nd house (Dhana), it makes the native facing financial instability or speech hurdles, acquiring unearned wealth. [Garga Hora 2.90]",
-          "hindi_draft": "यदि अष्टमेश द्वितीय (धन) भाव में स्थित हो, तो जातक वित्तीय उतार-चढ़ाव देखने वाला, वसीयत या गुप्त धन प्राप्त करने वाला होता है।"
+          "english": "If the 8th lord is in the 4th, one obtains that fortune from someone other than the father; there is strife between father and son, and the father is diseased.",
+          "hindi": "अष्टमेश चतुर्थ में हो तो पिता से अन्य किसी से वह लक्ष्मी पाता है; पिता-पुत्र में युद्ध, और पिता रोगी होता है।",
+          "status": "translated"
         },
         {
           "number": 91,
           "text": "दिद्रपतौ तनयस्थे पापे सुतविरहितः शुभे ससुतः। जातोऽति नैव जीवति जीवत्यपि कितवकर्मरतः। |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 3rd house (Sahaja), it makes the native having friction with brothers, courage tested in crisis. [Garga Hora 2.91]",
-          "hindi_draft": "यदि अष्टमेश तृतीय (सहज) भाव में स्थित हो, तो जातक भाइयों से कुछ वैचारिक मतभेद रखने वाला, संकट काल में साहसी होता है।"
+          "english": "If the 8th lord is in the 5th and malefic, one is without sons; if benefic, he has sons; [a son] even when born does not live, and even if he lives, he is given to gambling.",
+          "hindi": "अष्टमेश पंचम में पाप हो तो पुत्र-रहित, शुभ हो तो पुत्रवान; उत्पन्न होकर भी नहीं जीता, और जीए तो भी जुए में रत होता है।",
+          "status": "translated"
         },
         {
           "number": 92,
           "text": "क्िद्रेशे रिपुसंस्थिते दिनकरे भूभृद्विरोधी गुरो स्वांगे सीदति दृष्टिरोगकलितः शुक्रं सरोगो विधौ | भौमे कोपयुतो बुधे अहिभयं दुःखाभिभूतः शनौ कष्टं राहु बुधे हि तत्र शशभृत्‌ सौम्येक्षिते नैव किम।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 4th house (Sukha/Bandhu), it makes the native facing property disputes or vehicle trouble, maternal health issues. [Garga Hora 2.92]",
-          "hindi_draft": "यदि अष्टमेश चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक संपत्ति विवाद या वाहन कष्ट देखने वाला, माता के स्वास्थ्य की चिंता वाला होता है।"
+          "english": "If the 8th lord is in the 6th: if it is the Sun, one is hostile to kings; if Jupiter, one suffers in one's own body; if Venus, eye disease; if the Moon, sickness; if Mars, anger; if Mercury, fear of snakes; if Saturn, overcome by sorrow; Rāhu [brings] trouble. [The rest of the last quarter is corrupt: '… Mercury … the Moon; if aspected by benefics, nothing at all', i.e. no ill result.]",
+          "hindi": "अष्टमेश षष्ठ में हो: सूर्य हो तो राज-विरोधी; गुरु हो तो अपने शरीर में कष्ट; शुक्र हो तो नेत्र-रोगी; चन्द्र हो तो रोगी; मंगल हो तो क्रोधी; बुध हो तो सर्प-भय; शनि हो तो दुःख से अभिभूत; राहु कष्ट। [अन्तिम चरण का शेष भ्रष्ट: '… बुध … चन्द्र; शुभ-दृष्ट हो तो कुछ भी नहीं', अर्थात् अशुभ फल नहीं।]",
+          "status": "translated"
         },
         {
           "number": 93,
           "text": "मृत्युपतोसप्तमगे दुष्टकुलस्त्रिप्रियो गुदव्याधिः। क्रूरे भार्या देषी कलत्रदोषात्‌ मृतिं लभते।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 5th house (Suta/Putra), it makes the native experiencing obstacles in education or progeny, deeply intuitive. [Garga Hora 2.93]",
-          "hindi_draft": "यदि अष्टमेश पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक शिक्षा या सन्तान सम्बंध में बाधाएँ देखने वाला, गूढ़ विद्याओं का प्रेमी होता है।"
+          "english": "If the 8th lord is in the 7th, one is fond of women of bad family [reading duṣṭakulastrīpriyaḥ] and has a disease of the anus; if malefic, he hates his wife and meets death through the fault of his wife.",
+          "hindi": "अष्टमेश सप्तम में हो तो दुष्ट कुल की स्त्रियों का प्रेमी [पाठ दुष्टकुलस्त्रीप्रियः] और गुद-रोगी; क्रूर हो तो पत्नी से द्वेष करने वाला और पत्नी के दोष से मृत्यु पाने वाला।",
+          "status": "translated"
         },
         {
           "number": 94,
           "text": "मृतिपतौ मृतिगे व्यवसायकृद्‌ गदगणेन युतः शुभवाक्‌ शुचिः। कितवकर्मकरः कपटी नरः कितवकर्मणि नाविदितः कले।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 6th house (Ripu/Shatru), it makes the native overcoming chronic ailments, victorious in legal battles, long-lived. [Garga Hora 2.94]",
-          "hindi_draft": "यदि अष्टमेश षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक दीर्घकालिक रोगों पर विजय पाने वाला, मुकदमों में सफल और दीर्घायु होता है।"
+          "english": "If the 8th lord is in the 8th, the man is enterprising, beset by many diseases, well spoken and pure; a gambler, deceitful, and well known [lit. 'not unknown'] in his family [kale/kule, unclear] for gambling.",
+          "hindi": "अष्टमेश अष्टम में हो तो मनुष्य व्यवसायी, अनेक रोगों से युक्त, शुभभाषी, पवित्र; जुआरी, कपटी, और कुल में जुए के लिए प्रसिद्ध [शब्दशः 'अविदित नहीं'; कले/कुले — अस्पष्ट] होता है।",
+          "status": "translated"
         },
         {
           "number": 95,
           "text": "मृतिनाथे नवमस्थे निःसंगो जीवघातकः पापीं निर्बन्धुः निःस्नेही पूज्ये विमुखो भवेदृव्यगः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 7th house (Saptama/Kalatra), it makes the native facing marital discord or health trouble for spouse, traveling afar. [Garga Hora 2.95]",
-          "hindi_draft": "यदि अष्टमेश सप्तम (कलत्र) भाव में स्थित हो, तो जातक दांपत्य जीवन में रुकावटें या पत्नी के स्वास्थ्य कष्ट देखने वाला होता है।"
+          "english": "If the 8th lord is in the 9th, one is unattached, a killer of living beings, sinful, without relatives and without affection, averse to those worthy of honour, and deformed [reading vyaṅgaḥ].",
+          "hindi": "अष्टमेश नवम में हो तो निःसंग, जीवघाती, पापी, बन्धु-रहित, स्नेह-रहित, पूज्यों से विमुख और विकलांग [पाठ व्यंगः] होता है।",
+          "status": "translated"
         },
         {
           "number": 96,
           "text": "कर्मस्थे निधनेशे नृपकर्मा नीचकर्म निरतश्च | अलसः क्रूरो अन्यभवस्तनयवान्न जीवति माता।| ३।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 8th house (Ashtama/Randhra), it makes the native long-lived, acquiring hidden wealth/inheritance, research-oriented. [Garga Hora 2.96]",
-          "hindi_draft": "यदि अष्टमेश अष्टम (रंध्र) भाव में स्थित हो, तो जातक अत्यंत दीर्घायु, गुप्त धन/गड़ा धन या वसीयत पाने वाला और शोधकर्ता होता है।"
+          "english": "If the 8th lord is in the 10th, one does the king's work and is given to low work, lazy, cruel, born of another [anyabhavaḥ, unclear], and has sons; the mother does not live.",
+          "hindi": "अष्टमेश दशम में हो तो राजकर्मी और नीच कर्म में रत, आलसी, क्रूर, अन्य से उत्पन्न [अन्यभवः — अस्पष्ट], पुत्रवान; माता जीवित नहीं रहती।",
+          "status": "translated"
         },
         {
           "number": 97,
           "text": "लाभस्ते चाष्टमपे बाल्ये दुःखी सुखी पश्चात्‌ | दीघयुः सौम्यखगे पापेऽल्पायुः नरो भवति ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 9th house (Bhagya/Dharma), it makes the native having obstacles in fortune or disagreement with father, spiritual. [Garga Hora 2.97]",
-          "hindi_draft": "यदि अष्टमेश नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक भाग्य निर्माण में रुकावटें या पिता से मतभेद देखने वाला, आध्यात्मिक होता है।"
+          "english": "If the 8th lord is in the 11th, one is unhappy in childhood and happy afterwards; long-lived with a benefic planet, short-lived with a malefic.",
+          "hindi": "अष्टमेश एकादश में हो तो बचपन में दुःखी, बाद में सुखी; सौम्य ग्रह से दीर्घायु, पाप से अल्पायु।",
+          "status": "translated"
         },
         {
           "number": 98,
           "text": "व्ययभवनगतेऽष्टमपे क्रूरो वा तस्करो निकृष्टश्च | अनात्मगतिर्व्यगवमुरमृतस्तु काकादिभिर्भक्ष्यः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 10th house (Karma/Rajya), it makes the native facing career fluctuations, changes in occupation, ultimate success. [Garga Hora 2.98]",
-          "hindi_draft": "यदि अष्टमेश दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक कार्यक्षेत्र में परिवर्तन व उतार-चढ़ाव देखने वाला, अंततः स्थापित होने वाला होता है।"
+          "english": "If the 8th lord is in the 12th, one is cruel or a thief, and base; [a phrase is corrupt]; when dead, he is eaten by crows and the like.",
+          "hindi": "अष्टमेश द्वादश में हो तो क्रूर या चोर, और निकृष्ट; [एक अंश भ्रष्ट]; मरने पर कौए आदि उसे खाते हैं।",
+          "status": "translated"
         },
         {
           "number": 99,
           "text": "लग्नते नवमपतौ देवगुरुन्मन्यते शुरः। कृपणः क्षितिपति कर्मा स्वल्पग्राही भवति मतिमान्‌ |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 11th house (Labha), it makes the native gaining unexpected wealth, insurance/lottery benefits, long life. [Garga Hora 2.99]",
-          "hindi_draft": "यदि अष्टमेश एकादश (लाभ) भाव में स्थित हो, तो जातक अप्रत्याशित धन लाभ, बीमा लाभ पाने वाला और दीर्घायु होता है।"
+          "english": "If the 9th lord is in the lagna, one respects gods and gurus, is brave, miserly, does the king's work, takes little, and is intelligent.",
+          "hindi": "नवमेश लग्न में हो तो देव-गुरु का आदर करने वाला, शूर, कृपण, राजकर्मी, अल्पग्राही और बुद्धिमान होता है।",
+          "status": "translated"
         },
         {
           "number": 100,
           "text": "नवमाधिपे तु धनगे वृषलो विदितः सुशीलवान्‌ सत्यः। सुकृतिः वदनेव्यंगः चतुष्पदोत्पन्नपीडस्च ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 8th lord (Ashtamapati) is placed in the 12th house (Vyaya), it makes the native spending on secret/medical matters, living in distant places, spiritual. [Garga Hora 2.100]",
-          "hindi_draft": "यदि अष्टमेश द्वादश (व्यय) भाव में स्थित हो, तो जातक गुप्त या चिकित्सा सम्बंधी कार्यों पर व्यय करने वाला, विदेशवासी होता है।"
+          "english": "If the 9th lord is in the 2nd, one is a vṛṣala [a śūdra, or 'low'], well known, of good character, truthful, virtuous, with a defect of the face, and suffers harm from quadrupeds.",
+          "hindi": "नवमेश द्वितीय में हो तो वृषल, प्रसिद्ध, सुशील, सत्यवादी, पुण्यात्मा, मुख में अंग-दोष वाला और चौपायों से पीड़ा पाने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 101,
           "text": "सहजगते सुकृतपतौ रूपस्त्रीबन्धुवत्सलः पुरुषः । वबन्धुस्त्रीरक्षणकृद्‌ यदि जीवति बन्धुभिः सहितः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 1st house (Lagna), it makes the native extremely fortunate, renowned, virtuous, radiant, and blessed with good family. [Garga Hora 2.101]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) प्रथम (लग्न) भाव में स्थित हो, तो जातक अत्यंत भाग्यशाली, यशस्वी, धर्मात्मा, कांतिमान् और उत्तम कुल वाला होता है।"
+          "english": "If the 9th lord is in the 3rd, the man is affectionate to a beautiful wife and to relatives, and protects his relatives and wife; if he lives, [he lives] with his relatives.",
+          "hindi": "नवमेश तृतीय में हो तो पुरुष रूपवती पत्नी और बन्धुओं पर वत्सल, बन्धुओं और पत्नी की रक्षा करने वाला; यदि जीवित रहे तो बन्धुओं के साथ।",
+          "status": "translated"
         },
         {
           "number": 102,
           "text": "पत्नी तथा भाइयों पर स्नेह रखनेवाला ओर उनकी रक्षा करनेवाला",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 2nd house (Dhana), it makes the native exceedingly wealthy, speech captivating, and earning through righteous trade. [Garga Hora 2.102]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) द्वितीय (धन) भाव में स्थित हो, तो जातक अत्यंत धनी, मधुरभाषी और धर्मानुकूल व्यापार से धन कमाने वाला होता है।"
+          "english": "[This entry is not a verse: it is a fragment of the edition's Hindi commentary on 2.101 (9th lord in the 3rd): '…affectionate to his wife and brothers and protecting them'.]",
+          "hindi": "[यह श्लोक नहीं है: संस्करण की हिन्दी टीका का अंश है (2.101, नवमेश तृतीय में, पर): 'पत्नी तथा भाइयों पर स्नेह रखनेवाला और उनकी रक्षा करनेवाला'।]",
+          "status": "translated"
         },
         {
           "number": 103,
           "text": "हिबुकभावगते सुकृतेश्वरे बुधसुहत्पितृपूजनतत्परः | भवति तीर्थकरः सुरभक्तिमान्‌ निखिलमित्रपरः सुसमृद्धिमान्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 3rd house (Sahaja), it makes the native blessed with fortunate brothers, courageous, and traveling for sacred causes. [Garga Hora 2.103]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) तृतीय (सहज) भाव में स्थित हो, तो जातक भाग्यशाली भाइयों वाला, पराक्रमी और धर्मकार्यों के लिए यात्रा करने वाला होता है।"
+          "english": "If the 9th lord is in the 4th, one is devoted to honouring the learned, friends and his father, becomes a maker of pilgrimages, devoted to the gods, devoted to all friends, and very prosperous.",
+          "hindi": "नवमेश चतुर्थ में हो तो विद्वान, मित्र और पिता के पूजन में तत्पर, तीर्थ करने वाला, देवभक्त, सब मित्रों का हितैषी और अति समृद्ध होता है।",
+          "status": "translated"
         },
         {
           "number": 104,
           "text": "` सुकृतपे तनयस्थलगेयदा सुरमहीसुरभावयुतोनरः। प्रकृति सुन्दरता मतिमान्‌ नरो मधुरवाक्‌ तनयाश्च भवन्ति हि ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 4th house (Sukha/Bandhu), it makes the native possessing excellent lands, mansions, conveyances, and maternal blessings. [Garga Hora 2.104]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक उत्तम भूमि, भवन, वाहन और मातृकृपा से परिपूर्ण होता है।"
+          "english": "When the 9th lord is in the 5th, the man is devoted to gods and brahmins, naturally handsome, intelligent and sweet-spoken, and sons are indeed born.",
+          "hindi": "नवमेश पंचम में हो तो मनुष्य देव और ब्राह्मणों के प्रति भाव वाला, स्वभाव से सुन्दर, बुद्धिमान, मधुरभाषी, और पुत्र अवश्य होते हैं।",
+          "status": "translated"
         },
         {
           "number": 105,
           "text": "शत्ुप्रणतिपरायणः धर्माकलितं कलाविकलदेहम्‌| दर्शननिद्रानिरतं सुकृतपतिः षष्ठगः करुते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 5th house (Suta/Putra), it makes the native blessed with brilliant, righteous children, deep wisdom, and mantra-siddhi. [Garga Hora 2.105]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक तेजस्वी, धर्मनिष्ठ पुत्रों वाला, कुशाग्रबुद्धि और मंत्र-सिद्धि पाने वाला होता है।"
+          "english": "The 9th lord in the 6th makes one intent on bowing to enemies, without dharma [reading dharma-akalitam], with a body lacking grace [or 'lacking skills'], and given to sightseeing and sleep [darśananidrānirata, unclear].",
+          "hindi": "नवमेश षष्ठ में हो तो शत्रुओं को प्रणाम करने में तत्पर, धर्म-रहित [पाठ धर्म-अकलितं], कला-विहीन देह वाला, और दर्शन तथा निद्रा में रत [दर्शननिद्रानिरत — अस्पष्ट] बनाता है।",
+          "status": "translated"
         },
         {
           "number": 106,
           "text": "नवमपे मदनगे वनिता सुखं वचनकृत्‌ चतुरा धनसंयुता। भवति रागवति किल सुन्दरी सुकृतकर्मरता बहुशीलवान्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 6th house (Ripu/Shatru), it makes the native overcoming fortune obstacles, victorious over rivals, serving the public. [Garga Hora 2.106]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक भाग्य की बाधाओं पर विजय पाने वाला, शत्रुओं का नाश करने वाला होता है।"
+          "english": "If the 9th lord is in the 7th, the wife [brings] happiness, is obedient, clever, wealthy, loving, beautiful, devoted to meritorious deeds and of much good character.",
+          "hindi": "नवमेश सप्तम में हो तो पत्नी सुख देने वाली, आज्ञाकारिणी, चतुर, धनवती, अनुरागिणी, सुन्दरी, पुण्य कर्म में रत और बहुत शीलवती होती है।",
+          "status": "translated"
         },
         {
           "number": 107,
           "text": "दृष्टो जन्तुविघाती गृहबन्धुविवर्जितः सुकृतरहितः। नवमेशे मृत्युगते क्रूरः षण्डस्तु विज्ञेयः",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 7th house (Saptama/Kalatra), it makes the native blessed with a highly fortunate, virtuous spouse, and successful business. [Garga Hora 2.107]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक अत्यंत भाग्यशाली, गुणवती पत्नी पाने वाला और सफल व्यापारी होता है।"
+          "english": "If the 9th lord is in the 8th, one is wicked [reading duṣṭaḥ], a killer of creatures, without home and relatives, without merit, cruel, and should be known as impotent.",
+          "hindi": "नवमेश अष्टम में हो तो दुष्ट [पाठ दुष्टः], जन्तु-घाती, घर और बन्धुओं से रहित, पुण्य-रहित, क्रूर, और षण्ढ (नपुंसक) जानना चाहिए।",
+          "status": "translated"
         },
         {
           "number": 108,
           "text": "युकृतभावपतिः नवमे स्थितो भवति बन्धुजनैः सहितः शुचिः | अरुचितश्च विवादकरो जनो गुरुसुहतस्वजनेषु रतः सदा||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 8th house (Ashtama/Randhra), it makes the native facing fortune delays in early life, long-lived, inheriting spiritual legacy. [Garga Hora 2.108]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक प्रारंभिक जीवन में भाग्य विलम्ब देखने वाला, दीर्घायु और गूढ़ ज्ञानी होता है।"
+          "english": "If the 9th lord is in the 9th, one is with his relatives, pure, [arucitaḥ, unclear: 'not liked'], quarrelsome, and always devoted to gurus, friends and his own people.",
+          "hindi": "नवमेश नवम में हो तो बन्धुजनों के साथ, पवित्र, [अरुचितः — अस्पष्ट; 'अप्रिय'], विवाद करने वाला और सदा गुरु, मित्र और स्वजनों में रत होता है।",
+          "status": "translated"
         },
         {
           "number": 109,
           "text": "नृपतिकर्मकरोनृपतिवित्तयुक्‌ सुकृतकर्मकरो जननीपरः। विदितकर्मकरः सुकृताधिगे गगनगे पुरुषो भवति ध्रुवम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 9th house (Bhagya/Dharma), it makes the native supremely fortunate, highly religious, traveling to pilgrimages, famous. [Garga Hora 2.109]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक परम भाग्यशाली, परम धार्मिक, तीर्थयात्री और विश्वविख्यात होता है।"
+          "english": "If the 9th lord is in the 10th, the man surely does the king's work, has wealth from the king, does meritorious deeds, is devoted to his mother, and does works that become known.",
+          "hindi": "नवमेश दशम में हो तो पुरुष निश्चय ही राजकर्मी, राजा के धन से युक्त, पुण्य कर्म करने वाला, माता-परायण और प्रसिद्ध कर्म करने वाला होता है।",
+          "status": "translated"
         },
         {
           "number": 110,
           "text": "दीर्घायुः धर्मपरो धनेश्वरः स्नेहलो नृपतिलाभो | सुकृतेः ख्यातः सततं सुकृतपतो लाभभवनस्थे ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 10th house (Karma/Rajya), it makes the native honoured by kings, holding highest state office, righteous administrator. [Garga Hora 2.110]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक राजाओं द्वारा पूजित, सर्वोच्च राज्य पद धारण करने वाला और धर्मपरायण होता है।"
+          "english": "If the 9th lord is in the 11th, one is long-lived, devoted to dharma, a lord of wealth, affectionate, gains from the king, and is always famed for merit.",
+          "hindi": "नवमेश एकादश में हो तो दीर्घायु, धर्म-परायण, धनेश्वर, स्नेही, राजा से लाभ पाने वाला और सदा पुण्य से प्रसिद्ध होता है।",
+          "status": "translated"
         },
         {
           "number": 111,
           "text": "व्ययगतः सुकृताधिपतिः यदा भवति मानयुतः परदेशगः | मतियुतः स च सुन्दर देहयुग्‌ यदि खलाच्च खगादिह धूर्तकः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 11th house (Labha), it makes the native acquiring vast wealth, fulfilling all desires, blessed with noble sons. [Garga Hora 2.111]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) एकादश (लाभ) भाव में स्थित हो, तो जातक विशाल धन-संपदा प्राप्त करने वाला, सभी मनोकामनाएँ पूर्ण करने वाला होता है।"
+          "english": "When the 9th lord is in the 12th, one is honoured, goes abroad, is intelligent and of handsome body; if it is a malefic planet, he is a rogue.",
+          "hindi": "नवमेश द्वादश में हो तो मानयुक्त, परदेश जाने वाला, बुद्धिमान और सुन्दर देह वाला; यदि पाप ग्रह हो तो धूर्त होता है।",
+          "status": "translated"
         },
         {
           "number": 112,
           "text": "गगनपतौ लग्नगतौ लग्नगते मातरि वैरी पितरि भक्तः। दुःखीगतोऽपि बाल्ये परपुरुषरता भवति माता ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 9th lord (Bhagyapati) is placed in the 12th house (Vyaya), it makes the native spending wealth on charities, pilgrimages, and seeking spiritual liberation. [Garga Hora 2.112]",
-          "hindi_draft": "यदि नवमेश (भाग्येश) द्वादश (व्यय) भाव में स्थित हो, तो जातक दान-पुण्य व धार्मिक कार्यों पर व्यय करने वाला और मोक्षगामी होता है।"
+          "english": "If the 10th lord is in the lagna, one is hostile to his mother and devoted to his father, and unhappy in childhood; the mother is attached to another man. [The opening words are written twice.]",
+          "hindi": "दशमेश लग्न में हो तो माता का वैरी, पिता का भक्त, बचपन में दुःखी; माता पर-पुरुष में रत होती है। [आरम्भ के शब्द दो बार लिखे हैं।]",
+          "status": "translated"
         },
         {
           "number": 113,
           "text": "वित्तस्थे गगनपतौ मीत्रा-पलितः सुतो भवति लोभी मातरि दुष्टो स्वल्पग्रासः सुतनुकर्मा ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 1st house (Lagna), it makes the native renowned, self-made, holding high administrative status, and famous. [Garga Hora 2.113]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक यशस्वी, स्वप्रयत्न से उच्च प्रशासनिक पद पाने वाला और विख्यात होता है।"
+          "english": "If the 10th lord is in the 2nd, the son is raised by his mother; he is greedy, wicked toward his mother, eats little, and [sutanukarmā, unclear: perhaps 'of good body and work'].",
+          "hindi": "दशमेश द्वितीय में हो तो पुत्र माता द्वारा पालित; लोभी, माता के प्रति दुष्ट, अल्पाहारी और [सुतनुकर्मा — अस्पष्ट; संभवतः 'सुन्दर देह और कर्म वाला'] होता है।",
+          "status": "translated"
         },
         {
           "number": 114,
           "text": "स्वजनमातृविरोधकरः सदा बहुलसेवक कर्मकरो भवेत्‌| तदनु मातुलपुत्रसुखोल्पको नहि समर्थवपुः पृथुकर्मणि ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 2nd house (Dhana), it makes the native earning vast wealth through career, business acumen, and prosperous family. [Garga Hora 2.114]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) द्वितीय (धन) भाव में स्थित हो, तो जातक अपने कार्यक्षेत्र से प्रचुर धन कमाने वाला, व्यापारिक कुशल और समृद्ध होता है।"
+          "english": "[The house is not named; by the sequence this is the 10th lord in the 3rd.] One is always hostile to his own people and his mother, and does much servant's work; then he has little happiness from his maternal uncle's sons, and his body is not equal to great work.",
+          "hindi": "[भाव का नाम नहीं; क्रम से यह दशमेश तृतीय में है।] सदा स्वजनों और माता का विरोधी, बहुत सेवक-कर्म करने वाला; फिर मामा के पुत्रों से अल्प सुख, और बड़े कर्म में समर्थ शरीर नहीं।",
+          "status": "translated"
         },
         {
           "number": 115,
           "text": "सामर्थ्य नहीं होता। दशमपेऽम्बुगते नितरां सुखी पितरिमातरि पोषणतत्परः। सकललोकदशामपि तापकृत्‌ नृपतिसभवलाभविभूषितः | ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 3rd house (Sahaja), it makes the native achieving career progress through valour, supported by siblings. [Garga Hora 2.115]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) तृतीय (सहज) भाव में स्थित हो, तो जातक अपने पराक्रम से आजीविका में उन्नति करने वाला और भाइयों का प्रिय होता है।"
+          "english": "[The entry opens with a fragment of the edition's Hindi commentary on the previous verse: '…is not capable'.] If the 10th lord is in the 4th, one is very happy and intent on supporting father and mother, [a cause of distress even to the condition of all people — tāpakṛt, probably corrupt], and adorned with gains arising from the king.",
+          "hindi": "[प्रविष्टि पिछले श्लोक की हिन्दी टीका के अंश से आरम्भ होती है: 'सामर्थ्य नहीं होता'।] दशमेश चतुर्थ में हो तो अत्यन्त सुखी, माता-पिता के पोषण में तत्पर, [सब लोगों की दशा को भी ताप देने वाला — तापकृत्, संभवतः भ्रष्ट], और राजा से उत्पन्न लाभ से विभूषित होता है।",
+          "status": "translated"
         },
         {
           "number": 116,
           "text": "भवति सुन्दरकर्मकरो नरो नृपतिलामयुतोऽप्यति भोगवान्‌ विमलगानकलाकुशलः स्मृतो गगनपे सुतगेल्पसुखीनरः। |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 4th house (Sukha/Bandhu), it makes the native endowed with high status, mansions, conveyances, and public popularity. [Garga Hora 2.116]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक उच्च पद, सुंदर भवन, वाहन और जन-प्रियता प्राप्त करने वाला होता है।"
+          "english": "If the 10th lord is in the 5th, the man does fine work, gains from the king and enjoys much, is held skilled in the pure art of song, [but] has little happiness.",
+          "hindi": "दशमेश पंचम में हो तो मनुष्य सुन्दर कर्म करने वाला, राजलाभ से युक्त, अति भोगी, निर्मल गान-कला में कुशल माना गया, पर अल्प-सुखी होता है।",
+          "status": "translated"
         },
         {
           "number": 117,
           "text": "अम्बरपे रिपुसंस्थे क्रूरे बाल्योतिकष्टभाग्‌ भवति | पुरुषः पश्चादीशः परपुरुषतरता तथा माता ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 5th house (Suta/Putra), it makes the native blessed with intelligent children, holding advisory status to the ruler. [Garga Hora 2.117]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक योग्य पुत्रों वाला, राजा का सलाहकार/मंत्री बनने योग्य होता है।"
+          "english": "If the 10th lord is in the 6th and malefic, the man suffers great hardship in childhood and afterwards becomes a lord; and the mother is attached to another man.",
+          "hindi": "दशमेश षष्ठ में क्रूर हो तो पुरुष बचपन में अति कष्ट भोगता है, बाद में स्वामी बनता है; और माता पर-पुरुष में रत होती है।",
+          "status": "translated"
         },
         {
           "number": 118,
           "text": "सुतवती बहुरूपसमन्विता रमणमातरि भक्तिसमन्विता | भवति तस्य जनस्य निरन्तरं प्रियतमाम्बरपेदयितागते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 6th house (Ripu/Shatru), it makes the native facing occupational rivalries, overcoming obstacles, highly disciplined. [Garga Hora 2.118]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक कार्यक्षेत्र में प्रतिस्पर्धा का सामना करके सफलता पाने वाला, अनुशासित होता है।"
+          "english": "If the 10th lord is in the 7th, that person's beloved wife always has sons, is very beautiful, and is devoted to her husband's mother.",
+          "hindi": "दशमेश सप्तम में हो तो उस मनुष्य की प्रियतमा सदा पुत्रवती, अति रूपवती और पति की माता की भक्त होती है।",
+          "status": "translated"
         },
         {
           "number": 119,
           "text": "अतिखलोऽनृतवाक्‌ कपटी नरस्तदनु चौरकलाकुशलः सदा| जनतिपीडनतापकरः सदा दशमपे निधने लघुजीवितः।।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 7th house (Saptama/Kalatra), it makes the native partner contributing to business success, holding high state honor. [Garga Hora 2.119]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक जीवनसाथी के सहयोग से व्यापार में उन्नति करने वाला और सम्मानित होता है।"
+          "english": "If the 10th lord is in the 8th, the man is very wicked, untruthful and deceitful, always skilled in the art of theft, always causing people pain and torment, and short-lived.",
+          "hindi": "दशमेश अष्टम में हो तो मनुष्य अति दुष्ट, असत्यवादी, कपटी, सदा चोरी की कला में कुशल, लोगों को सदा पीड़ा और ताप देने वाला और अल्पायु होता है।",
+          "status": "translated"
         },
         {
           "number": 120,
           "text": "देने वाला ओर अल्पायु होता हेै। शुभशीलः सदबन्धुः समित्रो दशमपे नवमलीने। तन्मातापि सुशीला सुकृतवती सत्यवचनरता |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 8th house (Ashtama/Randhra), it makes the native facing career changes or secret missions, achieving long-term stability. [Garga Hora 2.120]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक कार्यक्षेत्र में गुप्त या विशेष परिवर्तन देखने वाला, अंततः स्थिर होता है।"
+          "english": "[The entry opens with a fragment of the edition's Hindi commentary on the previous verse: '…giving, and short-lived'.] If the 10th lord is in the 9th, one is of good character, with good relatives and friends; his mother too is of good character, meritorious and devoted to truthful speech.",
+          "hindi": "[प्रविष्टि पिछले श्लोक की हिन्दी टीका के अंश से आरम्भ होती है: 'देने वाला और अल्पायु होता है'।] दशमेश नवम में हो तो शुभ शील वाला, अच्छे बन्धुओं और मित्रों वाला; उसकी माता भी सुशीला, पुण्यवती और सत्यवचन में रत होती है।",
+          "status": "translated"
         },
         {
           "number": 121,
           "text": "गगनपतिः गगनगतो जनयति सुखप्रदं पुरुषम्‌ | जननीकुल विपुलसुखं प्रकटहारीनां पटीयांसम्‌ । |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 9th house (Bhagya/Dharma), it makes the native highly fortunate in profession, famous, righteous, and honored by preceptors. [Garga Hora 2.121]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक अपने व्यवसाय में अत्यंत भाग्यशाली, यशस्वी, धर्मात्मा और गुरुभक्त होता है।"
+          "english": "The 10th lord in the 10th produces a man who gives happiness, has great happiness from his mother's family, and is most skilful [prakaṭahārīṇāṃ paṭīyāṃsam, unclear: 'most skilful of open takers'?].",
+          "hindi": "दशमेश दशम में हो तो सुख देने वाला पुरुष उत्पन्न करता है, जिसे मातृकुल से विपुल सुख हो, और जो अति कुशल हो [प्रकटहारीणां पटीयांसम् — अस्पष्ट]।",
+          "status": "translated"
         },
         {
           "number": 122,
           "text": "मानोर्जितभर्तृका जननी तथा च सुतराक्षिणी भवेत्‌ सुखिना । दीर्घायुः मातृसृखः पुरुषो लाभभ्रितेम्बरपे ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 10th house (Karma/Rajya), it makes the native holding supreme executive authority, famous king/ruler, highly renowned. [Garga Hora 2.122]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक सर्वोच्च प्रशासनिक अधिकार पाने वाला, राजा के समान विख्यात होता है।"
+          "english": "If the 10th lord is in the 11th, the mother has a husband strong in honour, protects her son and is happy; the man is long-lived and has happiness from his mother.",
+          "hindi": "दशमेश एकादश में हो तो माता मान से बलवान पति वाली, पुत्र की रक्षा करने वाली और सुखी होती है; पुरुष दीर्घायु और मातृ-सुखी होता है।",
+          "status": "translated"
         },
         {
           "number": 123,
           "text": "नृपतिकर्मकरो निजवीर्ययुग्‌ जननीसौख्य- विवर्जित वक्रधीः दशमपे व्ययगे परदेशवान्‌ व्ययपरश्च तथा सुभगः स्वयम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 11th house (Labha), it makes the native gaining massive profits from business, holding multiple revenue sources. [Garga Hora 2.123]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) एकादश (लाभ) भाव में स्थित हो, तो जातक व्यापार से भारी लाभ कमाने वाला, अनेक आय स्रोतों से युक्त होता है।"
+          "english": "If the 10th lord is in the 12th, one does the king's work, has his own valour, lacks happiness from his mother, is crooked-minded, lives abroad, is given to spending, and is himself fortunate.",
+          "hindi": "दशमेश द्वादश में हो तो राजकर्मी, अपने पराक्रम से युक्त, मातृ-सुख से रहित, कुटिल बुद्धि, परदेश-वासी, व्यय-परायण और स्वयं सुभग होता है।",
+          "status": "translated"
         },
         {
           "number": 124,
           "text": "। | 8॥ |॥ अल्पायुः बहुकलितः शूरो दाता जनप्रियः सुभगः। लाभपतौ लग्नगते तृष्णादोषान्मृतिं लभते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 10th lord (Karmapati) is placed in the 12th house (Vyaya), it makes the native engaged in foreign trade or spiritual institutions, charitable. [Garga Hora 2.124]",
-          "hindi_draft": "यदि दशमेश (कर्मेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक वैदेशिक व्यापार या धार्मिक संस्थाओं में संलग्न और दानी होता है।"
+          "english": "If the 11th lord is in the lagna, one is short-lived, much accomplished, brave, generous, dear to people and fortunate; he meets death through the fault of craving. [The entry opens with stray verse markers.]",
+          "hindi": "एकादशेश लग्न में हो तो अल्पायु, बहुत गुणी, शूर, दाता, जनप्रिय और सुभग; तृष्णा के दोष से मृत्यु पाता है। [आरम्भ में अतिरिक्त श्लोक-चिह्न हैं।]",
+          "status": "translated"
         },
         {
           "number": 125,
           "text": "वित्तगते लाभपतावुत्पन्नभुगल्पभाजनोल्पायुः | अष्टकपाली चौरः क्रूरे सौम्ये च धनकलितः।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 1st house (Lagna), it makes the native wealthy, possessing multiple income streams, healthy, and long-lived. [Garga Hora 2.125]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक धनवान्, अनेक आय स्रोतों वाला, निरोग और दीर्घायु होता है।"
+          "english": "If the 11th lord is in the 2nd, one lives on what comes to hand, has few vessels, and is short-lived; if malefic, an aṣṭakapālī [term unclear] and a thief; if benefic, wealthy.",
+          "hindi": "एकादशेश द्वितीय में हो तो जो मिले उसे भोगने वाला, अल्प पात्रों वाला, अल्पायु; क्रूर हो तो अष्टकपाली [शब्द अस्पष्ट] और चोर; सौम्य हो तो धनी।",
+          "status": "translated"
         },
         {
           "number": 126,
           "text": "सहजवित्तयुतश्च सुबान्धवः सहजवत्सल एव नरः सदा| सहजगे भवभावपतौ शुचिः स्वजनमित्रजनादतिलाभदः। |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 2nd house (Dhana), it makes the native accumulating vast liquid gold/riches, speech persuasive, highly prosperous. [Garga Hora 2.126]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) द्वितीय (धन) भाव में स्थित हो, तो जातक प्रचुर धन-संपत्ति संचय करने वाला, प्रभावी वक्ता और अत्यंत समृद्ध होता है।"
+          "english": "If the lord of the 11th house is in the 3rd, the man has wealth from brothers and good relatives, is always affectionate to his brothers, pure, and has great gain from his own people and friends [atilābhadaḥ, literally 'giving great gain'].",
+          "hindi": "एकादशेश तृतीय में हो तो मनुष्य भाइयों के धन से युक्त, अच्छे बन्धुओं वाला, सदा भ्रातृ-वत्सल, पवित्र और स्वजनों-मित्रों से अति लाभ वाला [अतिलाभदः — शब्दशः 'अति लाभ देने वाला'] होता है।",
+          "status": "translated"
         },
         {
           "number": 127,
           "text": "अमितजीवनयुक्‌ पितृपंक्तियुक्‌ समयेकर्मरतः सुभगः शुभः। सुकृतकर्मवशादतिलाभवान्‌ सुखगतौ भावभावपतौ भवेत्‌||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 3rd house (Sahaja), it makes the native gaining through siblings and courage, blessed with helpful friends. [Garga Hora 2.127]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) तृतीय (सहज) भाव में स्थित हो, तो जातक भाइयों व पराक्रम के माध्यम से लाभ कमाने वाला और सहयोगी मित्रों वाला होता है।"
+          "english": "If the 11th lord is in the 4th, one has boundless life, keeps the company of his father's line [pitṛpaṅktiyuk, unclear], is devoted to timely duties, fortunate and auspicious, and has great gain by virtue of meritorious deeds.",
+          "hindi": "एकादशेश चतुर्थ में हो तो अमित जीवन वाला, पितृ-पंक्ति से युक्त [पितृपंक्तियुक् — अस्पष्ट], समय पर कर्म में रत, सुभग, शुभ, और पुण्य कर्मों के वश अति लाभवान होता है।",
+          "status": "translated"
         },
         {
           "number": 128,
           "text": "तनयगतो लाभपतिः पितुपुत्रौ स्नेहलौ मिथः कुरुते । तुल्यगुणौ च परस्परम्‌अल्पजीवी च भवति सुतः ।",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 4th house (Sukha/Bandhu), it makes the native gaining immoveable properties, vehicles, and peace of mind through gains. [Garga Hora 2.128]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक अचल संपत्ति, वाहन और मानसिक शांति प्राप्त करने वाला होता है।"
+          "english": "The 11th lord in the 5th makes father and son affectionate to each other and alike in qualities; and the son is short-lived.",
+          "hindi": "एकादशेश पंचम में हो तो पिता-पुत्र को परस्पर स्नेही और समान गुणों वाला बनाता है; और पुत्र अल्पजीवी होता है।",
+          "status": "translated"
         },
         {
           "number": 129,
           "text": "लाभधिपे षष्ठगते सुबेरं सुदीर्धरोगं चतुरंगसंग्रहम्‌ | मृतिं समाप्नोति च चौरस्तात्‌ क्रूरे च देशान्तरसंगतो नरः||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 5th house (Suta/Putra), it makes the native blessed with wealthy, righteous children, gaining through intelligence. [Garga Hora 2.129]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक धनी व योग्य सन्तान वाला, अपनी कुशाग्र बुद्धि से लाभ कमाने वाला होता है।"
+          "english": "If the 11th lord is in the 6th, [there is] great enmity, very long disease, and a gathering of the four-limbed [army; caturaṅga]; and one meets death from thieves; if malefic, the man goes to another country.",
+          "hindi": "एकादशेश षष्ठ में हो तो बड़ा वैर, अति दीर्घ रोग, चतुरंग का संग्रह; और चोरों से मृत्यु पाता है; क्रूर हो तो मनुष्य देशान्तर जाता है।",
+          "status": "translated"
         },
         {
           "number": 130,
           "text": "सप्तमगे लाभेशे तेजस्वी शीलसंपदः पदवी | दीर्घायुः भवति नरः तथेकदयितापत्तिः नियतम्‌ |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 6th house (Ripu/Shatru), it makes the native gaining through litigation, health sector, or overcoming competition. [Garga Hora 2.130]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक मुकदमों, स्वास्थ्य सेवाओं या प्रतियोगिता से धन लाभ करने वाला होता है।"
+          "english": "If the 11th lord is in the 7th, one is brilliant and [attains] a position of good character and prosperity [śīlasaṃpadaḥ padavī, unclear]; the man is long-lived and certainly the husband of one wife.",
+          "hindi": "एकादशेश सप्तम में हो तो तेजस्वी, शील और सम्पत्ति की पदवी [शीलसंपदः पदवी — अस्पष्ट]; मनुष्य दीर्घायु और निश्चय ही एक पत्नी का पति होता है।",
+          "status": "translated"
         },
         {
           "number": 131,
           "text": "एकादशपेऽष्टमगेऽल्पायु-भवति स जातकः सुरोगी | जीवन्मृतश्च दुःखी भवति नरोऽसौम्यगगनचरे || एकादशेशः सुकृते स्थितश्चेद्‌ बहुश्रुतः शास्त्रविशारदश्च। धर्मप्रसिद्धो गुरुदेवभक्तः क्रूरे च बन्धुव्रजवर्जितश्च ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 7th house (Saptama/Kalatra), it makes the native gaining through marriage, foreign trade, and commercial partnerships. [Garga Hora 2.131]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक विवाह, वैदेशिक व्यापार और व्यापारिक साझेदारियों से लाभ पाने वाला होता है।"
+          "english": "If the 11th lord is in the 8th, the native is short-lived and very sickly; with a malefic planet the man is unhappy, dead while living. [A second verse follows in the same entry:] If the 11th lord is in the 9th, one is very learned, skilled in the śāstras, famed for dharma, devoted to gurus and gods; if malefic, without the company of relatives.",
+          "hindi": "एकादशेश अष्टम में हो तो जातक अल्पायु और अति रोगी; पाप ग्रह से मनुष्य दुःखी और जीवित-मृत होता है। [उसी प्रविष्टि में दूसरा श्लोक:] एकादशेश नवम में हो तो बहुश्रुत, शास्त्र-विशारद, धर्म से प्रसिद्ध, गुरु-देव का भक्त; क्रूर हो तो बन्धु-समूह से रहित।",
+          "status": "translated"
         },
         {
           "number": 132,
           "text": "मातरि भक्तः सुकृती पितरि देषी सुदीर्घतरजीवी | धनवान्‌ जननीपालननिरतो लाभाधिपे खगते ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 8th house (Ashtama/Randhra), it makes the native gaining sudden unexpected wealth, inheritance, long life. [Garga Hora 2.132]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक अचानक अप्रत्याशित धन, वसीयत पाने वाला और दीर्घायु होता है।"
+          "english": "If the 11th lord is in the 10th [kha, 'the sky'], one is devoted to his mother, virtuous, hostile to his father, very long-lived, wealthy, and devoted to supporting his mother.",
+          "hindi": "एकादशेश दशम [ख — आकाश] में हो तो माता का भक्त, पुण्यात्मा, पिता का द्वेषी, अति दीर्घजीवी, धनी और माता के पालन में रत होता है।",
+          "status": "translated"
         },
         {
           "number": 133,
           "text": "लाभाधिपो लाभगतः करोति दीर्घायुषं पुष्कलपुत्रपौत्रम्‌ | सुकर्मक रूपवरं सुशीलं जनप्रधानं विपुलं मनोज्ञम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 9th house (Bhagya/Dharma), it makes the native highly fortunate, gaining through religious causes, traveling to sacred lands. [Garga Hora 2.133]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक परम भाग्यशाली, धार्मिक कार्यों से लाभ पाने वाला और तीर्थयात्री होता है।"
+          "english": "The 11th lord in the 11th makes one long-lived, with abundant sons and grandsons, of good deeds, of excellent form, well-conducted, foremost among people, great and charming.",
+          "hindi": "एकादशेश एकादश में हो तो दीर्घायु, प्रचुर पुत्र-पौत्र वाला, सुकर्मी, श्रेष्ठ रूप वाला, सुशील, जन-प्रधान, महान और मनोहर बनाता है।",
+          "status": "translated"
         },
         {
           "number": 134,
           "text": "दादशगे लाभेशे उत्पन्नभुगस्थितो भवति भोगी | उत्पातरतोमानी दाता दुःखी सदा पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 10th house (Karma/Rajya), it makes the native holding high political/government office, earning massive public tribute. [Garga Hora 2.134]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक उच्च राजनीतिक या राजकीय पद पाने वाला, भारी जन-सम्मान पाने वाला होता है।"
+          "english": "If the 11th lord is in the 12th, the man lives on what comes to hand, is unsettled, given to enjoyment, delights in mischief, is proud, generous, and always unhappy.",
+          "hindi": "एकादशेश द्वादश में हो तो पुरुष जो मिले उसे भोगने वाला, अस्थिर, भोगी, उत्पात में रत, मानी, दाता और सदा दुःखी होता है।",
+          "status": "translated"
         },
         {
           "number": 135,
           "text": "तनुगते व्ययभावपतौ नरः सुवचनः शुभरूपविदेशगः| खलजनानुरतश्च विवादयुग्‌ युवतिभिः सहितोऽपि नपुंसकः।। `",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 11th house (Labha), it makes the native immensely wealthy, fulfilling all ambitions, blessed with good sons. [Garga Hora 2.135]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) एकादश (लाभ) भाव में स्थित हो, तो जातक अथाह धन-संपत्ति का स्वामी, अपनी सभी इच्छाएँ पूरी करने वाला होता है।"
+          "english": "If the 12th lord is in the lagna, the man is well spoken, handsome, goes abroad, is attached to the wicked and quarrelsome, and is impotent even with young women.",
+          "hindi": "द्वादशेश लग्न में हो तो मनुष्य सुवक्ता, सुन्दर रूप वाला, विदेश जाने वाला, दुष्टों में अनुरक्त, विवादी, और युवतियों के साथ होकर भी नपुंसक होता है।",
+          "status": "translated"
         },
         {
           "number": 136,
           "text": "कृपणता कटुवाग्‌ धनभावमगे व्ययपतौ विकलश्च विनष्टधीः | धरणिजे विधनं नृपतस्करादपि च पापकरश्च चतुष्पदे ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 11th lord (Labhapati) is placed in the 12th house (Vyaya), it makes the native spending on philanthropic causes, living in foreign lands, spiritual. [Garga Hora 2.136]",
-          "hindi_draft": "यदि एकादशेश (लाभेश) द्वादश (व्यय) भाव में स्थित हो, तो जातक परोपकारी कार्यों पर व्यय करने वाला, विदेशवासी और मोक्षगामी होता है।"
+          "english": "If the 12th lord is in the 2nd: miserliness and harsh speech; one is defective and of ruined mind; if it is Mars, loss of wealth through kings and thieves; and in a quadruped sign [catuṣpade; or 'toward quadrupeds'] one does evil.",
+          "hindi": "द्वादशेश द्वितीय में हो तो कृपणता, कटु वाणी; विकल और नष्ट-बुद्धि; मंगल हो तो राजा और चोर से धन-नाश; और चतुष्पद राशि में [चतुष्पदे; या 'चौपायों के प्रति'] पाप करने वाला।",
+          "status": "translated"
         },
         {
           "number": 137,
           "text": "सहजगते द्वादशपे क्रूरे गतवान्धवः शुभे च धनी | तनुसोदरः कृपणश्च बन्धुषु क्रूरे सदा भवति ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 1st house (Lagna), it makes the native living away from birthplace, generous, spending on self-growth, long-lived. [Garga Hora 2.137]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) प्रथम (लग्न) भाव में स्थित हो, तो जातक जन्मस्थान से दूर रहने वाला, उदार, आत्म-विकास पर व्यय करने वाला होता है।"
+          "english": "If the 12th lord is in the 3rd and malefic, one loses his relatives; if benefic, he is wealthy; [he has] few brothers, is miserly, and is always cruel [reading krūraḥ] to relatives.",
+          "hindi": "द्वादशेश तृतीय में क्रूर हो तो बन्धु-हीन; शुभ हो तो धनी; अल्प भाइयों वाला, कृपण, और बन्धुओं के प्रति सदा क्रूर [पाठ क्रूरः] होता है।",
+          "status": "translated"
         },
         {
           "number": 138,
           "text": "तुर्यगते व्ययनाथे कृपणो रोगोज्छितः सुकर्मा च। मृत्तिमाप्नोति हि सुततः सततं मनुजो महादुःखी |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 2nd house (Dhana), it makes the native spending on family or religious duties, speech restrained, acquiring foreign assets. [Garga Hora 2.138]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) द्वितीय (धन) भाव में स्थित हो, तो जातक कुटुंब या धार्मिक कर्तव्यों पर व्यय करने वाला, वैदेशिक संपत्ति पाने वाला होता है।"
+          "english": "If the 12th lord is in the 4th, one is miserly, free of disease and of good deeds; he meets death through his son, and the man is always in great sorrow.",
+          "hindi": "द्वादशेश चतुर्थ में हो तो कृपण, रोग-रहित और सुकर्मी; पुत्र से मृत्यु पाता है, और मनुष्य सदा महादुःखी होता है।",
+          "status": "translated"
         },
         {
           "number": 139,
           "text": "तनयगेऽपि खलस्तनयो भवेत्‌ व्ययपतौ तनुतैऽथ खलान्विते। गुभखगैऽतिशुभं पितृक धनं भवति चापि समर्थतासहितः स पुरुषः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 3rd house (Sahaja), it makes the native spending on brothers or travel, valiant, detached from worldly ties. [Garga Hora 2.139]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) तृतीय (सहज) भाव में स्थित हो, तो जातक भाइयों या यात्राओं पर व्यय करने वाला, पराक्रमी और अनिकेत होता है।"
+          "english": "If the 12th lord is in the 5th, joined with malefics, the son is wicked [the word tanutai'tha is unclear]; with benefic planets it is very auspicious: there is paternal wealth, and the man is capable.",
+          "hindi": "द्वादशेश पंचम में पाप-युक्त हो तो पुत्र दुष्ट होता है [तनुतैऽथ — अस्पष्ट]; शुभ ग्रहों से अति शुभ: पैतृक धन, और पुरुष सामर्थ्यवान होता है।",
+          "status": "translated"
         },
         {
           "number": 140,
           "text": "व्ययपतौ रिपुगे कृपणः खंलः खलखगे नियतं नयनामयम्‌ | परगृहाश्रयिणो भृगृपुत्रतो गतसुतः शुभवृद्धियुतौ भवेत्‌|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 4th house (Sukha/Bandhu), it makes the native spending on property or house renovation, traveling frequently. [Garga Hora 2.140]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) चतुर्थ (सुख/बंधु) भाव में स्थित हो, तो जातक भवन या अचल संपत्ति के जीर्णोद्धार पर व्यय करने वाला, निरंतर यात्रा करने वाला होता है।"
+          "english": "If the 12th lord is in the 6th, one is miserly and wicked; with a malefic planet, eye disease is certain; [if it is] Venus, one lives in another's house, is without sons, [yet] has increase of good. [The clause division of the second half is uncertain.]",
+          "hindi": "द्वादशेश षष्ठ में हो तो कृपण और दुष्ट; पाप ग्रह से निश्चय ही नेत्र-रोग; शुक्र हो तो पराए घर में आश्रित, पुत्र-हीन, पर शुभ-वृद्धि से युक्त। [उत्तरार्ध का वाक्य-विभाजन अनिश्चित।]",
+          "status": "translated"
         },
         {
           "number": 141,
           "text": "द्ादशपे सप्तमगे दुष्टो दुश्चरितः कपट वचनः क्रूरे स्त्रीरहितः स्यात्‌ सौम्ये क्षयमेति गणिकातः ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 5th house (Suta/Putra), it makes the native spending on education or children, intuitive, spiritually inclined. [Garga Hora 2.141]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) पंचम (सुत/पुत्र) भाव में स्थित हो, तो जातक शिक्षा या सन्तान पर व्यय करने वाला, आध्यात्मिक रुचि रखने वाला होता है।"
+          "english": "If the 12th lord is in the 7th, one is wicked, of bad conduct and deceitful in speech; if malefic, he is without a wife; if benefic, he comes to ruin through a courtesan.",
+          "hindi": "द्वादशेश सप्तम में हो तो दुष्ट, दुश्चरित्र और कपटी वचन वाला; क्रूर हो तो स्त्री-रहित, सौम्य हो तो गणिका से क्षय पाता है।",
+          "status": "translated"
         },
         {
           "number": 142,
           "text": "व्ययनाथे निधनगतेऽष्टकपाली कार्यसाधने रहितः। द्रोहमतिः सौम्यखगे धनसंग्रहपरोनरो भवति||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 6th house (Ripu/Shatru), it makes the native overcoming debts and health issues, victorious over rivals, disciplined. [Garga Hora 2.142]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) षष्ठ (रिपु/शत्रु) भाव में स्थित हो, तो जातक ऋणों व रोगों से मुक्त होने वाला, शत्रुओं पर विजय पाने वाला होता है।"
+          "english": "If the 12th lord is in the 8th, one is an aṣṭakapālī [term unclear], incapable of accomplishing tasks and treacherous-minded; with a benefic planet, the man is intent on amassing wealth.",
+          "hindi": "द्वादशेश अष्टम में हो तो अष्टकपाली [शब्द अस्पष्ट], कार्य-साधन में असमर्थ, द्रोही-बुद्धि; सौम्य ग्रह से मनुष्य धन-संग्रह में तत्पर होता है।",
+          "status": "translated"
         },
         {
           "number": 143,
           "text": "व्ययनाथे सुकृतगते वीर्थालोकाटनं वृत्तिः क्रूरे खगे च पापैः निरर्थकम्‌ याति तद्‌द्रव्यम्‌ ||",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 7th house (Saptama/Kalatra), it makes the native living away from spouse, traveling abroad, detached in partnerships. [Garga Hora 2.143]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) सप्तम (कलत्र) भाव में स्थित हो, तो जातक जीवनसाथी से दूर रहने वाला, विदेश यात्राएँ करने वाला होता है।"
+          "english": "If the 12th lord is in the 9th, one's livelihood is wandering to see sacred places [reading tīrtha-]; if the planet is malefic, his wealth goes for nothing through sins.",
+          "hindi": "द्वादशेश नवम में हो तो तीर्थ-दर्शन के लिए भ्रमण उसकी वृत्ति होती है [पाठ तीर्थ-]; ग्रह क्रूर हो तो पापों से उसका धन व्यर्थ जाता है।",
+          "status": "translated"
         },
         {
           "number": 144,
           "text": "करनेवाला होता हेै। व्ययपे गगनगृहस्थे पररमणीपराङ्मुखः पवित्रांगः। सुतघधनसंग्रह निरतो दूर्वचनपरा भवति माता।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 8th house (Ashtama/Randhra), it makes the native facing sudden expenses or health care, long-lived if benefic-aspected, intuitive. [Garga Hora 2.144]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) अष्टम (रंध्र) भाव में स्थित हो, तो जातक अकस्मात् व्यय या चिकित्सा सम्बंधी व्यय देखने वाला, शुभ दृष्टि में दीर्घायु होता है।"
+          "english": "[The entry opens with a fragment of the edition's Hindi commentary on the previous verse: '…doing'.] If the 12th lord is in the 10th, one turns away from other men's wives, is pure of body, and is devoted to amassing sons and wealth; the mother is given to harsh speech.",
+          "hindi": "[प्रविष्टि पिछले श्लोक की हिन्दी टीका के अंश से आरम्भ होती है: 'करनेवाला होता है'।] द्वादशेश दशम में हो तो पर-स्त्री से विमुख, पवित्र अंग वाला, पुत्र और धन के संग्रह में रत; माता कटुभाषिणी होती है।",
+          "status": "translated"
         },
         {
           "number": 145,
           "text": "द्वादशपे लाभस्थे द्रविणपतिः दीर्घजीवितो भवति। स्थानप्रवरो दाता विख्यातः सत्यवचनपरः।|",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 9th house (Bhagya/Dharma), it makes the native spending on charities, pilgrimages, attaining high spiritual merits. [Garga Hora 2.145]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) नवम (भाग्य/धर्म) भाव में स्थित हो, तो जातक दान-पुण्य, तीर्थयात्राओं पर व्यय करने वाला, उच्च आध्यात्मिक पुण्य पाने वाला होता है।"
+          "english": "If the 12th lord is in the 11th, one becomes a lord of wealth, long-lived, eminent in position, generous, famous and devoted to truthful speech.",
+          "hindi": "द्वादशेश एकादश में हो तो धनपति, दीर्घजीवी, उत्तम स्थान वाला, दाता, विख्यात और सत्यवचन में रत होता है।",
+          "status": "translated"
         },
         {
           "number": 146,
           "text": "विभूतिमान्‌ ग्रामनिवाससचित्तः कार्पण्यबुद्धिः पशुसंग्रहीच। पेत्‌ जीवति ग्रामयुतः सदास्यात्‌ व्ययाधिनाथे व्ययगेहलीने | |",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the 12th lord (Vyayapati) is placed in the 10th house (Karma/Rajya), it makes the native spending on public works or career expansion, traveling for business. [Garga Hora 2.146]",
-          "hindi_draft": "यदि द्वादशेश (व्ययेश) दशम (कर्म/राज्य) भाव में स्थित हो, तो जातक सार्वजनिक कार्यों या व्यवसाय विस्तार पर व्यय करने वाला होता है।"
+          "english": "If the 12th lord is in the 12th, one is prosperous, minded to live in a village, of miserly disposition and a collector of cattle; [pet, corrupt] he lives, and is always possessed of villages.",
+          "hindi": "द्वादशेश द्वादश में हो तो विभूतिमान, ग्राम-निवास में चित्त वाला, कृपण-बुद्धि और पशु-संग्रही; [पेत् — भ्रष्ट] जीता है और सदा ग्रामों से युक्त रहता है।",
+          "status": "translated"
         }
       ]
     },

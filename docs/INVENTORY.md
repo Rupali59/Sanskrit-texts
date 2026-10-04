@@ -64,7 +64,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
 | `jaiminiya_upadesa_sutra` | [`Hora/Jaimini/JaiminiyaUpadesaSutra`](../Hora/Jaimini/JaiminiyaUpadesaSutra) | 4 | 277 | 94% | ocr_only |
-| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 377 | 36% | uncitable |
+| `garga_hora` | [`Hora/Parashari/GargaHora`](../Hora/Parashari/GargaHora) | 3 | 377 | 73% | uncitable |
 | `bhrigu_sutram` | [`Hora/Nadi/Bhrigusootram`](../Hora/Nadi/Bhrigusootram) | 8 | 568 | 100% | — |
 | `brihat_jataka` | [`Hora/Parashari/BrihatJataka`](../Hora/Parashari/BrihatJataka) | 28 | 409 | 100% | — |
 | `bphs` | [`Hora/Parashari/BrihatParasharaHoraShastra`](../Hora/Parashari/BrihatParasharaHoraShastra) | 97 | 3,937 | 100% | — |
