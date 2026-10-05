@@ -67,7 +67,12 @@ KNOWN: dict[str, int] = {
     "bhrigu_sutram": 3,
     "narada_smriti": 2,
     "jataka_tattva": 2,
-    "chandogya_upanishad": 2,
+    #: `chandogya_upanishad` 3 -- READ GROUP BY GROUP 2026-10-05, when every mantra was re-reviewed
+    #: (370 of 556 served translations replaced). All three are one refrain whose Sanskrit differs
+    #: only by edition typos or spacing: the jyog-jīvati phala at 4.11.2/4.12.2/4.13.2 (4.13.2
+    #: prints `सर्वमयुरेति` for `सर्वमायुरेति`); `अन्नमयꣳ हि सोम्य मनः` at 6.5.4/6.6.6 (`मनः`/`मन`);
+    #: and tat tvam asi at 6.12.3-6.15.3 (`इदद्ꣳ`, `तत् सत्यꣳ`). One translation serving each is correct.
+    "chandogya_upanishad": 3,
     #: `brihadaranyaka_upanishad` 3 -- READ PAIR BY PAIR 2026-10-02, unlike the 8 removed above:
     #: 2.4.2/4.5.3, 2.4.3/4.5.4 and 2.4.11/4.5.12 are the same verse in the two Maitreyi passages,
     #: differing only by `इयम्`/`इयं`, `स्याम्`/`स्यां`, and an OCR `वदानां` for `वेदानां`. One
