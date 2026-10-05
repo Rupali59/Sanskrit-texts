@@ -1515,7 +1515,30 @@ Inventing a smaller one to tidy the output is the exact failure G31 records.
 
 Verified on write: all 272 verses **verbatim** in the source, no commentary vocabulary, no Latin,
 all terminated by a daṇḍa, all untranslated with empty served fields, and **zero** duplicate
-`(chapter, number)` keys.
+`(chapter, number)` keys. **[FALSE in part — see below: "verbatim" held, "no commentary" did not.]**
+
+#### REBUILT 2026-10-05 — 285 verses; the 272 was the builder's, not the edition's
+
+Every one of the 272 was verbatim in the source, which is why nothing caught this: **verbatim is
+a property of fragments too.** The 2026-09-02 reader made six layout errors:
+- a pāda-final `-`/`–` read as a prose introducer, discarding the verse's head (16 verses
+  truncated, 11 lost under `VERSE_MIN`);
+- indentation ignored, though every commentary paragraph opens `\xa0 \xa0` and every table row
+  with tabs — so Śiromaṇiprakāśa pratīka lists were served as 1.8 and 1.16, and 2.52 / 5.15 were
+  commentary;
+- printed page rules (`_____`) kept as text in 13 verses;
+- an unnumbered half closed by a bare `॥` glued onto the next verse;
+- a figure printed after the verse number (`…॥७३॥ ७९०।३५`) defeated the end anchor (8.72, 8.73,
+  9.84);
+- 8.13, OCR'd with single daṇḍas, merged into 8.14.
+
+The rebuilt reader (workspace `scripts/sanskrit-convert/grahaganita.py`, with mutation tests) keeps
+**285** verses, all verbatim, none carrying commentary. The bounds are now per section, and the
+stray 52 in `ग्रहभगणमानाध्यायः` has gone: that section is **14 of 14**. Absences that remain are
+recorded per section, never filled. **Translations:** all 285 were translated or re-reviewed
+against the corrected Sanskrit. The served chapters 1–7 were **mostly wrong** — 89 of 113 replaced,
+with invented numbers, reversed operations and four placeholders among them — and every replacement
+had a second blind review.
 
 ### `lilavati` — verses 135–272 only, and a correction to an earlier judgement
 

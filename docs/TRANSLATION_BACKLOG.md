@@ -106,7 +106,7 @@ unrepresentable today.
 ### Tier 3 · Siddhānta — 2,217 shlokas, 8 texts
 
 `brahmasphuta_siddhanta` 691 · `panchasiddhantika` 386 (442 since the 2026-10-05 rebuild) · `surya_siddhanta` 280 ·
-`grahaganita` 272 · `goladhyaya` 241 · `bijaganita` 150 · `lilavati` 117 · `aryabhatiya` 80
+`grahaganita` 272 (285 since the 2026-10-05 rebuild) · `goladhyaya` 241 · `bijaganita` 150 · `lilavati` 117 · `aryabhatiya` 80
 
 **Three of these were once fabricated and replaced** (G31 — `aryabhatiya`, `surya_siddhanta`,
 `panchasiddhantika`). Translating them is what finally closes that saga: a translator reading
@@ -541,7 +541,7 @@ grahaganita 1.8  text: _____________________ शि०–॥                    
 ```
 
 Full list — `minaraja` 15.46 · 17.56 · 17.57 · 23.59 · 41.30 · 41.65 · 41.82 · 42.11 · 43.24 ·
-43.36 · 44.78 · 49.89 · 49.98 · 50.21 · 50.34 · 57.23 · 70.7, and `grahaganita` 1.8 · 1.16 · 3.19. (Note: these 20 apparatus-as-verse rows remain unexamined).
+43.36 · 44.78 · 49.89 · 49.98 · 50.21 · 50.34 · 57.23 · 70.7, and `grahaganita` 1.8 · 1.16 · 3.19 **(grahaganita's three were NOT honest records: 1.8 and 1.16 were commentary standing in for real verses the builder had dropped, and 3.19 was a real verse with a placeholder translation. All three were fixed 2026-10-05)**. (Note: these 20 apparatus-as-verse rows remain unexamined).
 
 **This was tested and the test was wrong, not the data.** A rule flagging a whole-value bracketed
 note over present Sanskrit was written on 2026-09-28 and **reverted the same day**: it fired on 34
