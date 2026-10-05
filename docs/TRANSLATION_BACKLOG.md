@@ -105,7 +105,7 @@ unrepresentable today.
 
 ### Tier 3 · Siddhānta — 2,217 shlokas, 8 texts
 
-`brahmasphuta_siddhanta` 691 · `panchasiddhantika` 386 · `surya_siddhanta` 280 ·
+`brahmasphuta_siddhanta` 691 · `panchasiddhantika` 386 (442 since the 2026-10-05 rebuild) · `surya_siddhanta` 280 ·
 `grahaganita` 272 · `goladhyaya` 241 · `bijaganita` 150 · `lilavati` 117 · `aryabhatiya` 80
 
 **Three of these were once fabricated and replaced** (G31 — `aryabhatiya`, `surya_siddhanta`,
@@ -336,7 +336,7 @@ safest place to prove a fixed join key.
 **Jyotiṣa and the short tail — 847.** `garga_hora` 294 (chapters 2–3, whose numbering is
 **positional and uncitable** — see `SOURCES.md`; translate by position, never cite a number) ·
 `phaladeepika` 178 · `katha_upanishad` 98 · `shvetashvatara_upanishad` 92 · `grahaganita` 62 ·
-`panchasiddhantika` 49 · `minaraja_yavana_jataka` 2.
+`panchasiddhantika` 49 (17 since the 2026-10-05 rebuild, all deliberately unserved) · `minaraja_yavana_jataka` 2.
 
 ### The last five texts — the Vedic Saṃhitās, 21,042 verses (2026-09-28)
 

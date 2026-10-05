@@ -1002,6 +1002,10 @@ Sarma, K. V., INSA New Delhi, 1976. Composed 499 CE at Kusumapura, Āryabhaṭa 
 > if the verses existed. **They were NOT applied**: the Sanskrit is not held, and writing a
 > translation against an absent verse is how G31 happened here the first time. 380 of the
 > scripts' 388 entries were already applied to the corpus.
+>
+> **SUPERSEDED 2026-10-05.** Those 14 absences were the builder's, not the edition's: it read the
+> raw manuscript stream. The rebuilt text holds all **442** of Thibaut's stanzas with none absent —
+> §"REBUILT 2026-10-05" below.
 
 **`panchasiddhantika`** — 18 chapters / **166** shlokas, re-verified 2026-09-02
 (18·12·10·8·8·10·8·9·8·8·8·8·9·8·8·8·8·10). **Edition digitised:** Thibaut, G. & Dvivedī, S.,
@@ -1754,6 +1758,12 @@ Per-chapter last verse, read off it:
 **410 verses across 18 chapters.** Chapter 1 yields 0 and is presumably unnumbered introductory
 matter. *(Use `[0-9]`, not `\d`, to read these — G17: `\d` matches Devanāgarī digits.)*
 
+> **CORRECTED 2026-10-05 — this table is wrong in three cells.** Ch 1 has **25** (its stanzas are
+> numbered; the reader missed them), ch 3 has **37** (Thibaut prints `32—37.` and the regex did not
+> read a dash range), ch 14 has **41**. Canonical: `[25,13,37,56,10,14,6,18,27,7,6,5,42,41,29,11,14,81]`
+> = **442**, pinned as `CANON` in the workspace's `scripts/sanskrit-convert/panchasiddhantika.py` and
+> cross-checked there against every chapter's closing colophon.
+
 **What remains is alignment, not identification.** The Sanskrit section's 894 markers form
 ascending runs whose maxima go 6, 13, 20, 27, 35, 42, 49, 57, 64, 72, 77 — near-constant
 increments, which is the signature of running references rather than chapter-local verse numbers.
@@ -1778,13 +1788,41 @@ whose commentary restarts at `॥१॥`.
 The apparent "running references" (maxima 6, 13, 20, 27, 35 …) that made the numbering look
 unusable were **an artefact of commentary interleaving**, not a property of the mūla. The mūla is
 cleanly chapter-numbered throughout: chapter 1 closes at `॥६॥`, and `श्रीरामचन्द्राय नमः` then
-opens Sudhākara's commentary with its own `॥१॥`.
+opens Sudhākara's commentary with its own `॥१॥`. **[FALSE — see §"REBUILT 2026-10-05": that `॥६॥`
+ends a PAGE, not chapter 1, which has 25 stanzas.]**
 
 Verified: 386 verbatim, no Latin, no served fields, zero duplicate keys; verse 1.3 is the
 five-siddhānta naming verse and 18.65 the colophon naming Varāhamihira. The converter **refuses
 to run** if the epoch reads 425 rather than 427.
 
 Absences are recorded per chapter; ch18 is the largest gap at 65 of 81.
+
+##### REBUILT 2026-10-05 — 442 verses, all 18 chapters on count; the section above was wrong
+
+**The 386-verse import was 327 verses of the raw manuscript, not the edition.** Every page of
+`Panchasiddhantika-ThibautDvivedi-sd8801.txt` prints the raw manuscript reading first and Thibaut &
+Dvivedī's restored text second; the greedy walk took whichever reached the next `॥n॥` first, which
+was usually the raw one. With `CANON[0] = 6` (a page-final `॥६॥`), ch III = 31 and ch XIV = 40, every
+chapter boundary after the first shifted: Thibaut's ch II landed inside our ch 3 (the "missing
+chapter"), our ch 1 duplicated ch 2, our ch 12 duplicated ch 11, and VIII.1–7, XIII.1–5 and I.7–25
+were absent.
+
+**The fix reads the edited stream only**, walks the markers chapter by chapter, and blocks on any
+disagreement with `CANON`, with the closing colophon's chapter title, or with a printed number not
+pinned as a known OCR slip (IV.17 printed ॥१०॥, XIII.39 ॥३६॥, XVIII.43 ॥२३॥, XVIII.67 ॥६०॥; V.7's
+missing marker is a pinned split). Builder and its mutation tests: the workspace's
+`scripts/sanskrit-convert/panchasiddhantika.py` and `tests/test_panchasiddhantika.py`. It is
+dry-run by default and refuses to write the corpus file; it emits a Sanskrit-only skeleton.
+
+**Translation basis: Thibaut (1889), aligned to the edited Sanskrit** (Rupali's call). Where Thibaut's
+figure and the edition's number-words disagree (21 stanzas), each was decided by an astronomy or
+arithmetic check and the choice is bracketed in the English. The weakest call is XVIII.12–13
+(56, 48, 31 days): it rests on the periods summing to exactly 399, the divisor of XVIII.6, against
+both Thibaut and Dvivedī (414). Stanzas Thibaut left untranslated were translated here and marked
+*"[Translation ours; Thibaut (1889) left this stanza untranslated.]"*; **17 stay unserved** because
+Dvivedī himself records that he cannot construe them (I.11–13, II.1, III.6–7, III.9, III.35, IV.14,
+IV.16–18, VII.2, XVIII.25, XVIII.27–28, XVIII.33). Derive the served count:
+`python3 scripts/check_inventory.py`.
 
 ### `taittiriya_samhita` — RE-PARSED, and the count went DOWN on purpose
 

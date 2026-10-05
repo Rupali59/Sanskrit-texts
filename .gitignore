@@ -49,9 +49,9 @@ temp_*.png
 # 2026-09-21: the translation agent's one-shot drivers. `generate_chunk_1.py`,
 # `generate_chunk8.py`, `generate_output_ch11_part1.py` and `test_brahmasphuta_trans.py` were
 # DELETED (every string they carry is already in the corpus, and they hardcode another agent's
-# scratch paths). The Panchasiddhantika set is kept out of git but not deleted: 380 of its 388
-# entries are applied, and the other 8 address verses the digitisation does NOT hold
-# (ch4 24/35, ch8 7, ch13 5/15/34, ch15 11, ch18 63) -- applying those would invent verses (G31).
+# scratch paths). The Panchasiddhantika set is kept out of git but not deleted. Its keys are
+# the PRE-2026-10-05 layout (raw-stream import, shifted chapters) and do not address the rebuilt
+# text -- never apply them (G31, G75).
 /generate_*.py
 Siddhanta/Panchasiddhantika/*.py
 scripts/translate_*.py
