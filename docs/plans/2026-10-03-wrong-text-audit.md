@@ -29,7 +29,7 @@ and `python3 scripts/check_inventory.py` gives each text's translated %.
 | jataka_parijata **(re-translated 2026-10-04, e6d7330)** | 4.26–105, 6.16–101, 12.81–149 | 236 |
 | grahaganita **(rebuilt + re-translated 2026-10-05; served ch 1–7 found ~79% wrong and replaced — keys above are pre-rebuild)** | 8.4–end, 9.6–end (9.25–99 interleaved filler, taken whole) | 154 |
 | garga_hora | 2.5–59, 2.63–end | 139 | **re-translated (17c53a2)**
-| varahamihir_daivagnavallabh | 12.2–15.43 (end of text) | 99 |
+| varahamihir_daivagnavallabh **(re-translated 2026-10-05; served ch 1–12.1 found 44% wrong and replaced)** | 12.2–15.43 (end of text) | 99 |
 | chandogya_upanishad | 2.9.2–8, 2.11.1–2.13.2, 4.17.2–9, 5.1.13–15, 5.3.3–5.4.2, 5.8.2–5.9.2, 5.10.7–5.24.4 | 71 |
 | brihadaranyaka_upanishad | 6.1.8–6.5.4 (end) | 68 |
 | brihat_samhita | 87 whole, 88.1–12 | 59 |

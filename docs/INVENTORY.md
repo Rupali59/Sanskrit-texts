@@ -76,7 +76,7 @@ check, and saying so is the point — see `rule:discernment-checks` §2.
 | `saravali` | [`Hora/Parashari/Saravali`](../Hora/Parashari/Saravali) | 1 | 1,163 | 100% | — |
 | `shatpanchashika` | [`Hora/Parashari/Shatpanchashika`](../Hora/Parashari/Shatpanchashika) | 7 | 56 | 100% | — |
 | `uttara_kalamrita` | [`Hora/Parashari/UttaraKalamrita`](../Hora/Parashari/UttaraKalamrita) | 9 | 324 | 100% | — |
-| `varahamihir_daivagnavallabh` | [`Hora/Parashari/VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | 15 | 248 | 60% | — |
+| `varahamihir_daivagnavallabh` | [`Hora/Parashari/VarahamihirDaivagnavallabh`](../Hora/Parashari/VarahamihirDaivagnavallabh) | 15 | 248 | 100% | **Re-translated 2026-10-05 (247 of 248; the check rounds).** Served ch 1–12.1 re-reviewed in full: 65 of 149 wrong and replaced, each blind-reviewed twice (G76). 12.2–15.43 drafted fresh and reviewed. 15.32 is unserved as corrupt. No commentary exists, so readings rest on the Sanskrit alone. |
 
 ## Veda — the four Vedic Saṃhitās (mantra layer)
 
