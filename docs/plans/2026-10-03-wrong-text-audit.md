@@ -31,7 +31,7 @@ and `python3 scripts/check_inventory.py` gives each text's translated %.
 | garga_hora | 2.5–59, 2.63–end | 139 | **re-translated (17c53a2)**
 | varahamihir_daivagnavallabh **(re-translated 2026-10-05; served ch 1–12.1 found 44% wrong and replaced)** | 12.2–15.43 (end of text) | 99 |
 | chandogya_upanishad **(re-translated 2026-10-05; served 370/556 wrong and replaced; 5.17 restored)** | 2.9.2–8, 2.11.1–2.13.2, 4.17.2–9, 5.1.13–15, 5.3.3–5.4.2, 5.8.2–5.9.2, 5.10.7–5.24.4 | 71 |
-| brihadaranyaka_upanishad | 6.1.8–6.5.4 (end) | 68 |
+| brihadaranyaka_upanishad **(Sanskrit rebuilt + re-translated 2026-10-05; served 136/367 wrong)** | 6.1.8–6.5.4 (end) | 68 |
 | brihat_samhita | 87 whole, 88.1–12 | 59 |
 | susruta_samhita | 3.7.4–3.8.2, 4.37.82–84, 5.4.35–5.5.1, 1.45.133–146 | 51 |
 | nirnayasindhu | all 32 served units (page summaries, not translations) | 32 |

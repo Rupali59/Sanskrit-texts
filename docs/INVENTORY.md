@@ -122,7 +122,7 @@ titles at all — so there is nothing to separate.
 | `kaushitaki_upanishad` | [`Upanishad/rigveda/Kaushitaki`](../Upanishad/rigveda/Kaushitaki) | 4 | 50 | 70% | range |
 | `chandogya_upanishad` | [`Upanishad/samaveda/Chandogya`](../Upanishad/samaveda/Chandogya) | 1 | 629 | 100% | range — **re-translated 2026-10-05**: 5.17 restored (the source page drops its markers' opening `॥`; pinned in the converter). Every served mantra re-reviewed: 370 of 556 wrong (offset runs, truncations, Bṛhadāraṇyaka wording) and replaced, each blind-reviewed twice. |
 | `kena_upanishad` | [`Upanishad/samaveda/Kena`](../Upanishad/samaveda/Kena) | 4 | 35 | 100% | firm |
-| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 435 | 84% | firm |
+| `brihadaranyaka_upanishad` | [`Upanishad/shukla-yajurveda/Brihadaranyaka`](../Upanishad/shukla-yajurveda/Brihadaranyaka) | 6 | 435 | 100% | firm — **Sanskrit rebuilt + re-translated 2026-10-05**: the converter's echo-split lost ~980 canonical words in 294 mantras; echoes are now dropped by layout (217 mantras corrected vs the prior file). Served English re-reviewed in full (136/367 wrong) and replaced, each blind-reviewed twice. |
 | `isha_upanishad` | [`Upanishad/shukla-yajurveda/Isha`](../Upanishad/shukla-yajurveda/Isha) | 1 | 18 | 100% | firm |
 | `jabala_upanishad` | [`Upanishad/shukla-yajurveda/Jabala`](../Upanishad/shukla-yajurveda/Jabala) | 1 | 6 | 100% | unit_mismatch |
 | `paingala_upanishad` | [`Upanishad/shukla-yajurveda/Paingala`](../Upanishad/shukla-yajurveda/Paingala) | 3 | 28 | 100% | uncitable |

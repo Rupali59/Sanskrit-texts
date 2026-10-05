@@ -1940,6 +1940,17 @@ orthography: word-final `स्` came out at **1.15%** against the canonical 0.9
 sandhi-free 13.1%. A drifting split would have pushed that number up, so the table above is both
 the thing that made the parse possible and the thing that verifies it.
 
+**FALSE — corrected 2026-10-05.** The word-final-`स्` rate measures echo words KEPT, not canonical
+words LOST, and the split lost far more than it kept: a word-alignment against the source's own
+canonical lines found **294 of 435 mantras damaged, ~980 canonical words dropped, ~385 echo words
+inserted** (1.1.1 lacked `ऊवध्यꣳ`; 6.3.4 lacked `पूर्णमसि` and carried `भ्रमत् असि`). The source puts
+each echo on its own LINE (wrapped continuations indented, a few at column 0), so the converter now
+drops echoes by layout, with 22 column-0 fragments pinned by line and text after reading each in
+context. Verified: against the line-only intermediate every change is a pure deletion of echo
+text, and keys are unchanged at 435. Where the edition's canonical line itself repeats a phrase
+(4.3.1, 4.3.7, 2.4.12) or reads oddly (2.4.11 `वदानां`, 3.9.28 `तदतृण्णात्`), the text stays as
+printed and the English brackets the standard sense.
+
 **Corrected 2026-10-02: 435 mantras, and the "4 absent numbers" below were never absent.** I.5.5
 and I.5.8 sit behind malformed refs (`[I.v.5.]`, `[.I.v.8]`) and I.5.20 and II.4.10 behind a bare
 `मन्त्र N` with no ref; the bracket-only `MARKER` rejected all four, and this paragraph recorded the
