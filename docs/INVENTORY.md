@@ -260,7 +260,7 @@ and period columns were the **only** record in the repo and are kept here. Attri
 
 | text_id | Author | Period |
 |---|---|---|
-| `nirnayasindhu` | [`Dharmashastra/NirnayaSindhu`](../Dharmashastra/NirnayaSindhu) | 2 | 32 | 0% | ocr_only |
+| `nirnayasindhu` | [`Dharmashastra/NirnayaSindhu`](../Dharmashastra/NirnayaSindhu) | 2 | 32 | 100% | ocr_only |
 | `bphs` | Parāśara (trad.) | 4th–7th c. CE (est.) |
 | `brihat_jataka` | Varāhamihira | 6th c. CE |
 | `laghu_jatakam` | Varāhamihira | 6th c. CE |
@@ -306,7 +306,7 @@ for it. `python3 scripts/check_inventory.py` fails if this table and the corpus 
 
 | Text | Status | Author · period | Where it stands, and why it was wanted |
 |---|---|---|---|
-| `NirnayaSindhu` | `HELD` | Kamalākara Bhaṭṭa · 1612 | `nirnayasindhu`, 2 chapters / 32 units — **a deliberate curated selection** of 32 of the edition's 454 body pages, not a gap. The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya pins to drikpanchang convention (Vijayadaśamī, Holikā Dahan, Dīvālī pradoṣa, saṅkrānti civil-date); holding it lets those rules cite shlokas. | 100% 
+| `NirnayaSindhu` | `HELD` | Kamalākara Bhaṭṭa · 1612 | `nirnayasindhu`, 2 chapters / 32 units — **a deliberate curated selection** of 32 of the edition's 454 body pages, not a gap. The kāla-nirṇaya authority behind the tithi-pervasion rules astroacharya pins to drikpanchang convention (Vijayadaśamī, Holikā Dahan, Dīvālī pradoṣa, saṅkrānti civil-date); holding it lets those rules cite shlokas. **Sanskrit proofread against the page images 2026-10-06** (the tesseract text matched at 0.53–0.91 and carried the footnote apparatus on 5 pages); every page translated and twice reviewed. | 100% 
 | `SarvarthaChintamani` | `HELD` | Veṅkaṭeśa Śarmā · 13th c. | `sarvartha_chintamani`, 17 chapters / 1,227 units, from two independent in-text witnesses. House significations in unusual depth; standard in South Indian practice. | 100% 
 | `JatakaTattvam` | `HELD` | unknown · medieval | `jataka_tattva`, 17 sections / 2,277 units, two independent witnesses agreeing exactly. Teaching text on natal fundamentals, read alongside BPHS and Bṛhat Jātaka. | 100% 
 | `BrahmasphutaSiddhanta` | `HELD` | Brahmagupta · 628 | `brahmasphuta_siddhanta`, 21 of 25 chapters / 700 units — ch.1, 10, 22, 25 absent; **do not pad to 24**. Siddhānta astronomy. **The 97% is of the 700 HELD units and is not a completeness claim** (2026-09-30): the held chapters carry **64 numbered gaps** (was 73; nine were OCR-MERGED verses, now split — **G71**). Separately, 79 verses were repaired of OCR artifacts and **10 remain**, each mapped to its page image in `docs/SOURCES.md`. **9 verses are `drafted`, not served**: their translation covered a merged pair and is not verified per verse, so it sits in `english_draft`/`hindi_draft` awaiting a re-split. Derive all of it: `scripts/check_brahmasphuta.py`. Rights: the corpus JSON is public, so only the OCR of Rupali's scan is used, never the licence-barred GRETIL/TITUS text that seeded the reference copy — which is **IAST, not Devanāgarī**, so any Devanāgarī attributed to it has been transliterated by somebody. | 97% |
