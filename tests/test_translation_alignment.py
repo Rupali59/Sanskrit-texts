@@ -81,7 +81,7 @@ KNOWN: dict[str, int] = {
     #: LOWERED 3 -> 1 on 2026-10-05: the Sanskrit was rebuilt (echo damage) and every mantra
     #: re-translated; the one remaining group is 2.4.2/4.5.3, the same Maitreyī verse in both passages.
     "brihadaranyaka_upanishad": 1,
-    "brihat_samhita": 1,
+    #: `brihat_samhita` REMOVED 2026-10-05: re-translation left no English serving two distinct verses.
     #: `atharvaveda_samhita` 1 -- NOT a translation defect. `4.12.8` is the hymn's ritual header,
     #: `रोहिणी- वनस्पतिः १-७ ऋभुः … अनुष्टुप्, १ त्रिपदा गायत्र` (ṛṣi / devatā / chandas), sitting in a
     #: shloka row and carrying the English of the real mantra at `4.12.1`. The row is not a verse, so

@@ -161,7 +161,7 @@ An ordering defect from the same 2026-07-17 ingestion; tracked separately in STA
 
 | text_id | Directory | Chapters | Shlokas | Translated | Count authority |
 |---|---|---:|---:|---:|---|
-| `brihat_samhita` | [`Samhita/BrihatSamhita`](../Samhita/BrihatSamhita) | 106 | 2,771 | 98% | — |
+| `brihat_samhita` | [`Samhita/BrihatSamhita`](../Samhita/BrihatSamhita) | 106 | 2,771 | 100% | **Re-translated 2026-10-05**: "house"→"Bhava" and "sign"→"Rashi" find-replace damage repaired word-by-word; all 2,712 served verses screened (coverage-checked), 126 flagged and fixed with whole-chapter context; ch 87–88 translated; every replacement blind-reviewed twice. Open: 37.4–8 hold ch 38 verses (#7). |
 
 ## Muhurta — Muhūrta — electional timing
 
