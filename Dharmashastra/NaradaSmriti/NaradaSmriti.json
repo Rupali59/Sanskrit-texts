@@ -52,8 +52,8 @@
           "number": "1.4",
           "ref": "narada_smriti 1.1.4",
           "text": "सोत्तरो ऽनुत्तरश् चैव स विज्ञेयो द्विलक्षणः । सोत्तरो ऽभ्यधिको यत्र विलेखापूर्वकः पणः ॥ ४ ॥",
-          "english": "It should be known as having two characteristics: attended with a wager (sottara) and without a wager (anuttara). The one with a wager is superior, where a wager is preceded by a written document.",
-          "hindi": "व्यवहार के दो लक्षण जानने चाहिए: सोत्तर (शर्त/पण सहित) और अनुत्तर (शर्त रहित)। शर्त वाला व्यवहार श्रेष्ठ होता है, जहाँ लिखित अनुबंध के साथ शर्त लगाई जाती है।",
+          "english": "It is to be known as of two kinds: sottara (with an additional [stake]) and anuttara (without). Sottara is where a wager (paṇa) is laid in addition, preceded by a written statement.",
+          "hindi": "वह (व्यवहार) दो प्रकार का जानना चाहिए: सोत्तर (अतिरिक्त [पण] सहित) और अनुत्तर ([पण] रहित)। सोत्तर वह है जहाँ लिखित कथन के साथ अतिरिक्त पण (शर्त) लगाया जाता है।",
           "status": "translated"
         },
         {
@@ -68,8 +68,8 @@
           "number": "1.6",
           "ref": "narada_smriti 1.1.6",
           "text": "सारस् तु व्यवहाराणां प्रतिज्ञा समुदाहृता । तद्धानौ हीयते वादी तरंस् ताम् उत्तरो भवेत् ॥ ६ ॥",
-          "english": "The plaint (pratijna) is declared to be the essence of lawsuits. If it is lost, the plaintiff is defeated; if he overcomes it, the defendant becomes the one who must answer.",
-          "hindi": "व्यवहारों का सार 'प्रतिज्ञा' (दावा/पूर्वपक्ष) कहा गया है। यदि दावा गिर जाता है तो वादी पराजित होता है; यदि वह सिद्ध होता है तो प्रतिवादी को उत्तर देना पड़ता है।",
+          "english": "The plaint (pratijñā) is declared to be the essence of lawsuits. If it fails, the plaintiff loses; if he carries it through, he becomes the winner (uttara).",
+          "hindi": "व्यवहारों का सार प्रतिज्ञा (दावा) कही गई है। उसके गिर जाने पर वादी हार जाता है; उसे पार कर लेने (सिद्ध कर देने) पर वह विजयी (उत्तर) होता है।",
           "status": "translated"
         },
         {
@@ -140,8 +140,8 @@
           "number": "1.15",
           "ref": "narada_smriti 1.1.15",
           "text": "राजा सपुरुषः सभ्याः शास्त्रं गणकलेखकौ । हिरण्यम् अग्निर् उदकम् अष्टाङ्गः स उदाहृतः ॥ १५ ॥",
-          "english": "The king, his officer, the judges, the sacred law text, the accountant, the scribe, gold, fire, and water—these are declared as the eight limbs of legal procedure.",
-          "hindi": "राजा, राजपुरुष, सभ्य (न्यायाधीश), शास्त्र, गणक (लेखाकार), लेखक, स्वर्ण, अग्नि और जल—ये व्यवहार के आठ अंग कहे गए हैं।",
+          "english": "The king together with his officer (sapuruṣa), the assessors (sabhya), the law-text (śāstra), the accountant and the scribe, gold, fire and water — this [court] is declared to be eight-limbed.",
+          "hindi": "पुरुष (राजपुरुष) सहित राजा, सभ्य (न्यायसभा के सदस्य), शास्त्र, गणक और लेखक, स्वर्ण, अग्नि और जल — यह ([न्यायसभा]) आठ अंगों वाली कही गई है।",
           "status": "translated"
         },
         {
@@ -292,8 +292,8 @@
           "number": "1.34",
           "ref": "narada_smriti 1.1.34",
           "text": "धर्मशास्त्रविरोधे तु युक्तियुक्तो ऽपि धर्मतः । व्यवहारो हि बलवान् धर्मस् तेनावहीयते ॥ ३४ ॥",
-          "english": "However, where custom/reasoning is strong, legal procedure supported by logic prevails over textual law; otherwise, justice suffers.",
-          "hindi": "परन्तु जहाँ तर्क और आचार प्रबल हो, वहाँ युक्तिसंगत व्यवहार बलवान होता है; ऐसा न करने पर धर्म का ह्रास होता है।",
+          "english": "But where there is conflict with the dharmaśāstra, even [a case] consistent with reasoning according to dharma — legal procedure (vyavahāra) is the stronger, and dharma is set aside by it.",
+          "hindi": "परन्तु धर्मशास्त्र से विरोध होने पर, धर्म के अनुसार युक्तियुक्त होते हुए भी — व्यवहार ही बलवान होता है, और उससे धर्म बाधित (पीछे) हो जाता है।",
           "status": "translated"
         },
         {
@@ -380,8 +380,8 @@
           "number": "1.45",
           "ref": "narada_smriti 1.1.45",
           "text": "निर्वेष्टुकामो रोगार्तो यियक्षुर् व्यसने स्थितः । अभियुक्तस् तथान्येन राजकार्य.उद्यतस् तथा ॥ ४५ ॥",
-          "english": "One about to perform a sacrifice, one suffering from disease, one engaged in a ritual, one in deep distress, one already sued by another, or one engaged in royal business—",
-          "hindi": "यज्ञ करने को उद्यत, रोगी, व्रती, किसी विपत्ति में पड़ा हुआ, किसी अन्य मुकदमे में फँसा हुआ, या राजकार्य में संलग्न व्यक्ति—",
+          "english": "One wishing to marry (nirveṣṭukāma), one afflicted by illness, one about to sacrifice, one in misfortune, one sued by another, and likewise one engaged in the king's business —",
+          "hindi": "विवाह करने का इच्छुक (निर्वेष्टुकाम), रोग से पीड़ित, यज्ञ करने को उद्यत, विपत्ति में पड़ा हुआ, किसी अन्य द्वारा अभियुक्त, तथा राजकार्य में लगा हुआ —",
           "status": "translated"
         },
         {
@@ -404,8 +404,8 @@
           "number": "1.48",
           "ref": "narada_smriti 1.1.48",
           "text": "नाभियुक्तो ऽभियुञ्जीत तम् अतीर्त्वार्थम् अन्यतः । न चाभियुक्तम् अन्येन न विद्धं वेद्धुम् अर्हति ॥ ४८ ॥",
-          "english": "One who is already accused by a party shall not be accused by another until the first suit is concluded; nor should one already pierced be pierced again.",
-          "hindi": "जिस पर किसी एक ने अभियोग चलाया हो, उस पर मुकदमे के फैसले से पहले कोई दूसरा अभियोग न चलाए; जो पहले से घायल है उसे पुनः घायल न किया जाए।",
+          "english": "One who is accused should not bring a counter-accusation without first clearing himself of the matter against him; nor [should anyone accuse] one already accused by another; one who is pierced should not be pierced [again].",
+          "hindi": "अभियुक्त व्यक्ति अपने विरुद्ध के विषय को निपटाए बिना (अभियोक्ता पर) प्रति-अभियोग न लगाए; न ही किसी अन्य द्वारा अभियुक्त पर (दूसरा) अभियोग लगाया जाए; बिंधे हुए को फिर से नहीं बींधना चाहिए।",
           "status": "translated"
         },
         {
@@ -492,8 +492,8 @@
           "number": "1.59",
           "ref": "narada_smriti 1.1.59",
           "text": "किन्तु राज्ञा विशेषेण स्वधर्मम् अनुरक्षता । मनुष्यचित्तवैचित्र्यात् परीक्ष्या साध्वसाधुता ॥ ५९ ॥",
-          "english": "The king, protecting his own Dharma, must carefully examine good and bad evidence because human minds are extremely complex and variable.",
-          "hindi": "अपने धर्म की रक्षा करते हुए राजा को साक्ष्यों की भली-भांति परीक्षा करनी चाहिए, क्योंकि मनुष्यों का चित्त अत्यंत विचित्र और परिवर्तनशील होता है।",
+          "english": "But the king, guarding his own dharma, must examine with particular care the honesty and dishonesty (sādhvasādhutā) [of men], because of the diversity of human minds.",
+          "hindi": "किन्तु अपने धर्म की रक्षा करते हुए राजा को विशेष रूप से (मनुष्यों की) साधुता और असाधुता (ईमानदारी और बेईमानी) की परीक्षा करनी चाहिए, क्योंकि मनुष्यों के चित्त विचित्र (भिन्न-भिन्न) होते हैं।",
           "status": "translated"
         },
         {
@@ -564,8 +564,8 @@
           "number": "2.3",
           "ref": "narada_smriti 1.2.3",
           "text": "श्वो लेखनं वा स लभेत् त्र्यहं सप्ताहम् एव वा । अर्थी तृतीयपादे तु युक्तं सद्यो ध्रुवं जयी ॥ ज् एद्न् मा २.३ ॥",
-          "english": "The defendant may be given time to write his answer—until tomorrow, three days, or seven days; but in the third stage (proof), the plaintiff must proceed at once.",
-          "hindi": "प्रतिवादी को उत्तर लिखने के लिए कल तक, तीन दिन या सात दिन का समय दिया जा सकता है; परन्तु तीसरे चरण (प्रमाण) में वादी को तुरंत प्रस्तुत होना चाहिए।",
+          "english": "He [the defendant] may obtain [time for] writing [the answer]: until tomorrow, or three days, or seven days. But the plaintiff, [proving] properly at once in the third stage, is surely the winner.",
+          "hindi": "वह (प्रतिवादी) (उत्तर) लिखने के लिए कल तक, तीन दिन या सात दिन (का समय) पा सकता है। परन्तु वादी तीसरे चरण में तुरंत उचित रूप से ([प्रमाण देकर]) निश्चय ही विजयी होता है।",
           "status": "translated"
         },
         {
@@ -588,8 +588,8 @@
           "number": "2.6",
           "ref": "narada_smriti 1.2.6",
           "text": "मिथ्या च विपरीतं च पुनः शब्दसमागमम् । पूर्वपक्षार्थसम्बन्धम् उत्तरं स्याच् चतुर्विधम् ॥ ज् एद्न् मा २.६ ॥",
-          "english": "An answer should relate to the subject matter of the plaint and may be classified into four distinct legal categories.",
-          "hindi": "उत्तर ऐसा होना चाहिए जो पूर्वपक्ष (दावे) से सीधा सम्बद्ध हो और चारों विधिक रूपों में से किसी एक के अनुसार स्पष्ट हो।",
+          "english": "Denial (mithyā), the contrary [plea] (viparīta), again, agreement with the words [of the plaint] (śabdasamāgama), and [an answer] connected with the matter of the plaint (pūrvapakṣārthasambandha) — the answer is of four kinds.",
+          "hindi": "मिथ्या (इनकार), विपरीत ([प्रति-कथन]), फिर शब्दसमागम ([दावे के शब्दों से] सहमति), और पूर्वपक्षार्थसम्बन्ध (दावे के विषय से सम्बद्ध [उत्तर]) — उत्तर चार प्रकार का होता है।",
           "status": "translated"
         },
         {
@@ -620,16 +620,16 @@
           "number": "2.10",
           "ref": "narada_smriti 1.2.10",
           "text": "मनसाहम् अपि ध्यातस् त्वन्मित्रेणेह शत्रुवत् । अतो ऽन्यथा महाक्षान्त्या त्वम् इहावेदितो मया ॥ ज् एद्न् मा २.१० ॥",
-          "english": "Faulty plaints that contain vague accusations or irrelevant emotional grievances must be rejected by the court.",
-          "hindi": "अस्पष्ट आरोपों या अप्रासंगिक भावनात्मक शिकायतों वाले दोषपूर्ण दावों को न्यायालय द्वारा निरस्त कर दिया जाना चाहिए।",
+          "english": "'Your friend here thought of me, even in his mind, as an enemy; therefore, though otherwise [I would bear it] with great forbearance, you are reported here by me.' [Such is a plaint lacking substance.]",
+          "hindi": "'तुम्हारे इस मित्र ने मन में भी मुझे शत्रु की भाँति सोचा; इसलिए, अन्यथा बड़ी सहनशीलता ([रखते हुए भी]), तुम्हारी यहाँ मेरे द्वारा शिकायत की गई है।' [ऐसा दावा अर्थहीन है।]",
           "status": "translated"
         },
         {
           "number": "2.11",
           "ref": "narada_smriti 1.2.11",
           "text": "द्रव्यप्रमाणहीनं यत् फलोपाश्रयवर्जितम् । प्रमाणवर्जितं नाम लेख्यदोषं तद् उत्सृजेत् ॥ ज् एद्न् मा २.११ ॥",
-          "english": "A document lacking statement of quantity/valuable or lacking beneficial outcome, or lacking legal standing, is a defective plaint and must be cast aside.",
-          "hindi": "जिस दावे में धन/वस्तु का परिमाण न हो, जिसका कोई फल न हो और जो कानूनी प्रमाण से रहित हो, उसे दोषपूर्ण मानकर छोड़ देना चाहिए।",
+          "english": "[A plaint] that lacks [a statement of] the quantity of the property and is devoid of a basis for the [claimed] result (phalopāśraya) is called 'pramāṇavarjita' (lacking measure); one should reject it as a defect of the written [plaint] (lekhyadoṣa).",
+          "hindi": "जो (दावा) द्रव्य के परिमाण से रहित हो और फल के आधार (फलोपाश्रय) से वर्जित हो, वह 'प्रमाणवर्जित' नामक लेख्य-दोष है; उसे त्याग देना चाहिए।",
           "status": "translated"
         },
         {
@@ -644,8 +644,8 @@
           "number": "2.13",
           "ref": "narada_smriti 1.2.13",
           "text": "बिन्दुमात्रापदवर्णेष्व् एकाविधिष्टया (?) । हीनाधिका भवेद् व्यर्था तां यत्नेन विवर्जयेत् ॥ ज् एद्न् मा २.१३ ॥",
-          "english": "Omission or addition of dots, words, or letters makes a plaint confusing and void; one should carefully avoid such errors.",
-          "hindi": "मात्रा, पद या वर्ण की कमी या अधिकता से दावा व्यर्थ और भ्रमपूर्ण हो जाता है; इसे यत्नपूर्वक दूर करना चाहिए।",
+          "english": "[A plaint] that is deficient or excessive in a dot (bindu), a vowel-mark (mātrā), a word or a letter [… one word of the stored text, ekāvidhiṣṭayā, is corrupt …] becomes void (vyarthā); one should carefully avoid it.",
+          "hindi": "जो (दावा) बिन्दु, मात्रा, पद या वर्ण में कम या अधिक हो [… संगृहीत पाठ का एक शब्द, 'एकाविधिष्टया', भ्रष्ट है …] वह व्यर्थ हो जाता है; उसे यत्नपूर्वक त्याग देना चाहिए।",
           "status": "translated"
         },
         {
@@ -700,8 +700,8 @@
           "number": "2.20",
           "ref": "narada_smriti 1.2.20",
           "text": "वादिभ्याम् अभ्यनुज्ञातं शेषं च फलके स्थितम् । ससाक्षिकं लिखेयुस् ते प्रतिपत्तिं च वादिनोः ॥ ज् एद्न् मा २.२० ॥",
-          "english": "The remaining correct text agreed upon by both litigants shall be recorded permanently along with the statements of witnesses.",
-          "hindi": "दोनों पक्षों द्वारा स्वीकृत शुद्ध दावे को साक्षियों के विवरण और दोनों पक्षों की स्वीकृति के साथ पक्के अभिलेख में लिख लेना चाहिए।",
+          "english": "What remains on the board, approved by both litigants, they should write down, attested by witnesses, together with the admissions (pratipatti) of the two litigants.",
+          "hindi": "फलक पर शेष रही जो बात दोनों पक्षों द्वारा अनुमोदित हो, उसे वे साक्षियों सहित, और दोनों पक्षों की प्रतिपत्ति (स्वीकृति) के साथ लिखें।",
           "status": "translated"
         },
         {
@@ -740,8 +740,8 @@
           "number": "2.25",
           "ref": "narada_smriti 1.2.25",
           "text": "सर्वेष्व् अपि विवादेषु वाक्छले नापहीयते । पशुस्त्रीभूम्यृणादाने शास्यो ऽप्य् अर्थान् न हीयते ॥ ज् एद्न् मा २.२५ ॥",
-          "english": "In disputes regarding cattle, women, land, or debts, a mere verbal slip or technical defect does not cause total loss of the property right, though the party may be admonished.",
-          "hindi": "पशु, स्त्री, भूमि या ऋण संबंधी विवादों में केवल वाणी की भूल या तकनीकी त्रुटि से मूल अधिकार नष्ट नहीं होता, यद्यपि पक्षकार को ताकीद की जा सकती है।",
+          "english": "In all disputes, one does not lose by a verbal slip (vākchala); in [suits over] cattle, women, land and recovery of debt, even if one is punishable, one does not lose the claim.",
+          "hindi": "सभी विवादों में वाक्छल (वाणी की भूल) से कोई नहीं हारता; पशु, स्त्री, भूमि और ऋण-वसूली (के विवादों) में दण्डनीय होने पर भी वह अपने अर्थ (दावे) से वंचित नहीं होता।",
           "status": "translated"
         },
         {
@@ -820,16 +820,16 @@
           "number": "2.35",
           "ref": "narada_smriti 1.2.35",
           "text": "गन्धमाल्यम् अदत्तं तु भूषणं वास एव वा । पादुका-इति राजा-उक्तं तद् आक्रामन् वधम् अर्हति ॥ ज् एद्न् मा २.३५ ॥",
-          "english": "Uncut flowers/garlands, unoffered ornaments, garments, or footwear—if anyone unlawfully seizes these royal prerogatives, he deserves severe punishment.",
-          "hindi": "सुगंध, माला, आभूषण, वस्त्र या पादुका—इनका यदि कोई अनधिकृत अतिक्रमण करता है, तो वह राजा द्वारा कठोर दण्ड का पात्र होता है।",
+          "english": "Perfume, garland, ornament, garment, or sandals not given [by the king] and declared 'the king's' — one who appropriates that deserves death (vadha).",
+          "hindi": "गन्ध, माला, आभूषण, वस्त्र अथवा पादुका जो (राजा द्वारा) न दिए गए हों और 'राजा के' घोषित हों — उन्हें हथियाने वाला वध (मृत्युदण्ड) के योग्य है।",
           "status": "translated"
         },
         {
           "number": "2.36",
           "ref": "narada_smriti 1.2.36",
           "text": "पण्यमूल्यं भृतिर् न्यासो दण्डो यच् चावहारकम् । वृथादानाक्षिकपणा वर्धन्ते नाविवक्षिताः ॥ ज् एद्न् मा २.३६ ॥",
-          "english": "Sale price, wages, deposits, fines, pledges, and gambling debts—if unstated or invalid, do not accrue interest.",
-          "hindi": "बिक्री का मूल्य, मजदूरी, निक्षेप (अमानत), दण्ड, बंधक और जुए का ऋण—यदि ये संविदा में स्पष्ट न हों तो इन पर ब्याज नहीं बढ़ता।",
+          "english": "The price of goods, wages, a deposit, a fine, what is [taken for use] (avahāraka), an idle promised gift, and stakes at dice — these do not grow [with interest] if [interest] was not stipulated.",
+          "hindi": "बिक्री के माल का मूल्य, मजदूरी, न्यास (अमानत), दण्ड, अवहारक ([उपयोग हेतु ली गई वस्तु]), व्यर्थ (प्रतिज्ञात) दान, और द्यूत के दाँव — यदि (ब्याज) तय न हुआ हो तो ये बढ़ते नहीं।",
           "status": "translated"
         },
         {
@@ -868,16 +868,16 @@
           "number": "2.41",
           "ref": "narada_smriti 1.2.41",
           "text": "स्वयम् अभ्युपपन्नो ऽपि स्वचर्यावसितो ऽपि सन् । क्रियावसन्नो ऽप्य् अर्हेत परं सभ्यावधारणम् ॥ ज् एद्न् मा २.४१ ॥",
-          "english": "Even if a party has confessed or suffered defeat during procedure, if a grave procedural injustice is found, he may deserve a re-examination by the judges.",
-          "hindi": "यद्यपि कोई पक्षकार स्वयं स्वीकार कर चुका हो या प्रक्रिया में हारा हो, फिर भी यदि कोई गंभीर प्रक्रियात्मक अन्याय हुआ हो तो सभ्य उस पर पुनर्विचार कर सकते हैं।",
+          "english": "Even one who admitted [the claim] himself, even one defeated by his own conduct, even one defeated by proof, would deserve the final determination of the judges.",
+          "hindi": "स्वयं स्वीकार कर चुका हो, अपने ही आचरण से पराजित हो, या प्रमाण से पराजित हो — ऐसा व्यक्ति भी सभ्यों के अंतिम निर्धारण का पात्र है।",
           "status": "translated"
         },
         {
           "number": "2.42",
           "ref": "narada_smriti 1.2.42",
           "text": "पक्षान् उत्सार्य कार्यस् तु सभ्यैः कार्यविनिश्चयः । अनुत्सारितनिर्णिक्ते विरोधः प्रेत्य चेह च ॥ ज् एद्न् मा ०२.०४२ ॥",
-          "english": "The judges must determine the outcome after dismissing both parties from the inner chamber; deciding without retiring leads to sin here and hereafter.",
-          "hindi": "न्यायाधीशों (सभ्यों) को दोनों पक्षों को बाहर करके ही एकांत में निर्णय का निश्चय करना चाहिए; बिना विचार विमर्श किए निर्णय देने से इहलोक और परलोक में दोष लगता है।",
+          "english": "The decision of the case should be made by the assessors (sabhya) after having the parties removed; where [a case is] decided without the parties being removed, there is harm (virodha) both hereafter and here.",
+          "hindi": "सभ्यों को पक्षों को (सभा से) हटाकर ही कार्य (मुकदमे) का निर्णय करना चाहिए; पक्षों को हटाए बिना निर्णय किए जाने पर परलोक और इहलोक दोनों में विरोध (अनिष्ट) होता है।",
           "status": "translated"
         },
         {
@@ -996,8 +996,8 @@
           "number": "3.13",
           "ref": "narada_smriti 1.3.13",
           "text": "अन्धो मत्स्यान् इवाश्नाति निरपेक्षः सकण्टकान् । परोक्षम् अर्थवैकल्याद् भाषते यः सभां गतः ॥ १३ ॥",
-          "english": "He who, having entered the court, speaks pervertedly in secret due to defect of purpose, eats fish with bones like a blind man.",
-          "hindi": "जो न्यायालय में जाकर अपने स्वार्थ या दुर्भाव के कारण परोक्ष रूप से गलत बात कहता है, वह अंधे मनुष्य की भाँति काँटों सहित मछली खाता है।",
+          "english": "He who, having come to the assembly, speaks about what he has not perceived (parokṣam) for want of [knowledge of] the facts, eats, heedless, like a blind man [eating] fish with their bones.",
+          "hindi": "जो सभा में जाकर, विषय की जानकारी के अभाव में, परोक्ष (बिना देखे) बात कहता है, वह अंधे की भाँति लापरवाही से काँटों सहित मछली खाता है।",
           "status": "translated"
         },
         {
@@ -1050,8 +1050,8 @@
           "number": "1.2",
           "ref": "narada_smriti 2.1.2",
           "text": "पितर्य् उपरते पुत्रा ऋणं दद्युर् यथांशतः । विभक्ता ह्य् अविभक्ता वा यस् ताम् उद्वहते धुरम् ॥ २ ॥",
-          "english": "When the father has passed away, the sons must pay the debt according to their respective shares if divided; or if undivided, he who carries the burden (manages the estate) must pay it.",
-          "hindi": "पिता की मृत्यु हो जाने पर यदि पुत्र विभक्त (अलग) हों तो अपने-अपने अंश के अनुसार, और यदि अविभक्त हों तो जो उस (कुटुंब के) भार का वहन करता है, उसे वह ऋण चुकाना चाहिए।",
+          "english": "When the father has died, the sons should pay the debt according to their shares, whether divided or undivided; or he who takes up that burden [should pay].",
+          "hindi": "पिता की मृत्यु होने पर पुत्र, चाहे विभक्त हों या अविभक्त, अपने-अपने अंश के अनुसार ऋण चुकाएँ; अथवा जो उस भार (धुरा) को उठाता है ([वह चुकाए])।",
           "status": "translated"
         },
         {
@@ -1074,8 +1074,8 @@
           "number": "1.5",
           "ref": "narada_smriti 2.1.5",
           "text": "इच्छन्ति पितरः पुत्रान् स्वार्थहेतोर् यतस् ततः । उत्तमर्णाधमर्णेभ्यो माम् अयं मोचयिष्यति ॥ ५ ॥",
-          "english": "Fathers desire sons everywhere for their own spiritual benefit, thinking: 'He will liberate me from higher (spiritual) and lower (monetary) creditors and debts.'",
-          "hindi": "पिता सब जगह अपने स्वार्थ (कल्याण) के हेतु पुत्रों की इच्छा करते हैं कि 'यह मुझे उत्तमर्णों (श्रेष्ठ ऋणों/उत्कृष्ट लेनदारों) तथा अधमर्णों (साधारण लेनदारों/पापों) से मुक्त करेगा।'",
+          "english": "Fathers desire sons for their own sake, [thinking]: 'This one will free me from [obligations to] creditors and debtors.'",
+          "hindi": "पिता अपने ही हित के लिए पुत्रों की इच्छा करते हैं (यह सोचकर) कि 'यह मुझे उत्तमर्णों (लेनदारों) और अधमर्णों (देनदारों) ([के दायित्वों]) से मुक्त करेगा।'",
           "status": "translated"
         },
         {
@@ -1354,8 +1354,8 @@
           "number": "1.40",
           "ref": "narada_smriti 2.1.40",
           "text": "तत् पुनस् त्रिविधं ज्ञेयं शुक्लं शबलम् एव च । कृष्णं च तस्य विज्ञेयः प्रभेदः सप्तधा पृथक् ॥ ४० ॥",
-          "english": "Wealth is recognized as twelve-fold according to the different varnas. Three kinds are common to all varnas, and the remaining nine kinds are specific.",
-          "hindi": "वह धन पुनः वर्णों के आधार पर बारह प्रकार का माना गया है। उसमें से तीन प्रकार का धन सभी वर्णों के लिए साधारण (सामान्य) है और शेष नौ प्रकार का धन विशिष्ट माना गया है।",
+          "english": "That [wealth], again, is to be known as threefold: white (śukla), spotted (śabala) and black (kṛṣṇa); and its subdivision is to be known as sevenfold for each, separately.",
+          "hindi": "वह (धन) पुनः तीन प्रकार का जानना चाहिए: शुक्ल (श्वेत), शबल (चितकबरा/मिश्रित) और कृष्ण (काला); और उसका उपभेद प्रत्येक का अलग-अलग सात प्रकार का जानना चाहिए।",
           "status": "translated"
         },
         {
@@ -1378,8 +1378,8 @@
           "number": "1.43",
           "ref": "narada_smriti 2.1.43",
           "text": "पार्श्विकद्यूतदौत्यार्तिप्रतिरूपकसाहसैः/ व्याजेनोपार्जितं यच् च तत् कृष्णं समुदाहृतम् ॥ ४३ ॥",
-          "english": "Wealth acquired through extortion, gambling, fraud, inflicting pain, forgery, violence, or deceit, is declared to be black (kṛṣṇa/tainted) wealth.",
-          "hindi": "पक्षपात/उत्कोच (रिश्वत), द्यूत (जुआ), दूत्य-कपट, पीड़ा देने, छद्म रूप (जालसाजी), साहस (हिंसा) तथा छल-प्रपंच से अर्जित धन 'कृष्ण' (अधम/अधर्म) धन कहा गया है।",
+          "english": "What is acquired through pārśvika [side-dealing], gambling, acting as a go-between (dautya), causing affliction, counterfeiting (pratirūpaka), violence (sāhasa), and what is earned by deceit (vyāja) — that is declared to be black (kṛṣṇa) [wealth].",
+          "hindi": "पार्श्विक (पक्ष-साधन/रिश्वत), द्यूत (जुआ), दौत्य (दूत/बिचौलिया बनना), पीड़ा देना, प्रतिरूपक (नकली वस्तु/जालसाजी), साहस (हिंसा) से, तथा व्याज (छल) से जो अर्जित किया गया हो—वह 'कृष्ण' (काला) धन कहा गया है।",
           "status": "translated"
         },
         {
@@ -1434,8 +1434,8 @@
           "number": "1.50",
           "ref": "narada_smriti 2.1.50",
           "text": "वैशेषिकं धनं ज्ञेयं वैश्यस्यापि त्रिलक्षणम् । कृषिगोरक्षवाणिज्यैः शूद्रस्यैभ्यस् त्व् अनुग्रहात् ॥ ५० ॥",
-          "english": "The specific wealth of a Vaishya is of three kinds: through agriculture, cattle-rearing, and trade; while that of a Shudra comes from service rendered to these three higher varnas.",
-          "hindi": "वैश्य का विशिष्ट धन भी तीन लक्षणों वाला समझना चाहिए: कृषि, पशुपालन (गोरक्षा) और व्यापार से; तथा शूद्र का धन इन तीनों वर्णों की सेवा/अनुग्रह से प्राप्त होता है।",
+          "english": "The specific wealth of a Vaiśya, too, is to be known as of three kinds: through agriculture, cattle-keeping and trade; but that of a Śūdra [comes] from these [three higher varṇas] through [their] favour (anugraha).",
+          "hindi": "वैश्य का विशिष्ट धन भी तीन लक्षणों वाला जानना चाहिए: कृषि, गोरक्षा और वाणिज्य से; किन्तु शूद्र का (धन) इन (तीन उच्च वर्णों) से (उनके) अनुग्रह द्वारा (प्राप्त होता है)।",
           "status": "translated"
         },
         {
@@ -1466,8 +1466,8 @@
           "number": "1.54",
           "ref": "narada_smriti 2.1.54",
           "text": "उत्कृष्टं चापकृष्टं च तयोः कर्म न विद्यते । मध्यमे कर्मणी हित्वा सर्वसाधारणे हि ते ॥ ५४ ॥",
-          "english": "Neither the highest (Brahmanical) nor the lowest (Shudra) occupation is accessible to the middle two classes, except for the middle duties which are common to them.",
-          "hindi": "उन दोनों (ब्राह्मण और शूद्र) के लिए उत्कृष्ट (ब्राह्मण-कर्म) और अपकृष्ट (शूद्र-कर्म) अदला-बदली योग्य नहीं हैं; केवल मध्यम कर्म (क्षत्रिय व वैश्य के कर्म) ही छोड़े बिना सबके लिए साधारण/अनुमत हैं।",
+          "english": "For those two [the Brāhmaṇa and the Śūdra], the higher and the lower occupation [of the other] does not exist [as permitted]; leaving aside the two middle occupations [of Kṣatriya and Vaiśya], for those are common to all.",
+          "hindi": "उन दोनों (ब्राह्मण और शूद्र) के लिए (एक-दूसरे का) उत्कृष्ट और अपकृष्ट कर्म विहित नहीं है; दो मध्यम कर्मों (क्षत्रिय और वैश्य के कर्म) को छोड़कर, क्योंकि वे सबके लिए साधारण हैं।",
           "status": "translated"
         },
         {
@@ -1642,8 +1642,8 @@
           "number": "1.76",
           "ref": "narada_smriti 2.1.76",
           "text": "निर्भोगो यत्र दृश्येत न दृश्येतागमः क्वचित् । आगमः कारणं तत्र न भोगस् तत्र कारणम् ॥ ७६ ॥",
-          "english": "Where possession is absent, but a valid title is proved anywhere, title is the deciding factor in that case, not possession.",
-          "hindi": "जहाँ केवल उपभोग न दिखाई दे, किंतु किसी भी स्थान पर वैध अधिकार (आगम) सिद्ध हो जाए, वहाँ अधिकार (आगम) ही मुख्य प्रमाण होता है, न कि उपभोग।",
+          "english": "Where non-enjoyment (nirbhoga) is seen, [and] title (āgama) is not seen anywhere — there title is the deciding factor, possession (bhoga) is not the deciding factor there. [The stored reading nirbhoga is kept as printed; the verse's point is that title, not possession, decides.]",
+          "hindi": "जहाँ निर्भोग (उपभोग का अभाव) दिखाई दे, (और) आगम (स्वत्व का आधार) कहीं भी दिखाई न दे—वहाँ आगम ही कारण (निर्णायक) है, भोग (कब्ज़ा) वहाँ कारण नहीं है। [मुद्रित पाठ 'निर्भोग' यथावत् रखा गया है।]",
           "status": "translated"
         },
         {
@@ -1682,8 +1682,8 @@
           "number": "1.81",
           "ref": "narada_smriti 2.1.81",
           "text": "यद् विनागमम् अप्य् ऊर्ध्वं भुक्तं पूर्वैस् त्रिभिर् भवेत् । न तच् छक्यम् अपाकर्तुं क्रमात् त्रिपुरुषागतम् ॥ ८१ ॥",
-          "english": "That property which has been enjoyed even without written title by three preceding generations continuously cannot be taken away, having descended through three generations.",
-          "hindi": "जो संपत्ति बिना किसी लिखित आगम के भी पूर्व की तीन पीढ़ियों द्वारा निरंतर भोगी गई हो, उसे छीना नहीं जा सकता, क्योंकि वह तीन पीढ़ियों से क्रमानुसार चली आ रही है।",
+          "english": "What has been enjoyed, even without title (āgama), by three predecessors in succession cannot be taken away, having come down in order through three generations.",
+          "hindi": "जो (सम्पत्ति) आगम (स्वत्व के आधार) के बिना भी पूर्व की तीन पीढ़ियों द्वारा क्रम से भोगी गई हो, उसे हटाया (छीना) नहीं जा सकता, क्योंकि वह क्रम से तीन पीढ़ियों से चली आ रही है।",
           "status": "translated"
         },
         {
@@ -1738,8 +1738,8 @@
           "number": "1.88",
           "ref": "narada_smriti 2.1.88",
           "text": "कायाविरोधिनी शश्वत् पणपाद्या तु कायिका । प्रतिमासं स्रवति या वृद्धिः सा कालिका स्मृता ॥ ८८ ॥",
-          "english": "Corporal interest (kayika) is that which accrues constantly without ruining the debtor (e.g., a pana per day); that interest which yields month by month is known as periodic (kalika).",
-          "hindi": "'कायिक' ब्याज वह है जो प्रतिदिन एक पण आदि के रूप में बिना शरीर को कष्ट दिए निरंतर दिया जाता है; तथा जो ब्याज प्रति मास प्राप्त होता है, उसे 'कालिक' कहते हैं।",
+          "english": "Kāyikā (bodily) interest is that which is paid continually without harm to the body (kāya) [of the principal], at a quarter of a paṇa (paṇapāda) and the like; interest that flows month by month is known as kālikā (periodic).",
+          "hindi": "कायिका (ब्याज) वह है जो काय (मूलधन/शरीर) को हानि पहुँचाए बिना निरन्तर, पण के चौथाई भाग (पणपाद) आदि के रूप में दी जाती है; जो ब्याज प्रति मास बहता (प्राप्त होता) है, वह कालिका कहलाती है।",
           "status": "translated"
         },
         {
@@ -1842,8 +1842,8 @@
           "number": "1.101",
           "ref": "narada_smriti 2.1.101",
           "text": "गृहीत्वोपगतं दद्याद् ऋणिकायोदयं धनी । अददद् याच्यमानस् तु शेषहानिम् अवाप्नुयात् ॥ १०१ ॥",
-          "english": "On receiving a partial payment, the creditor must give a receipt to the debtor including interest; if he refuses to give it when requested, he forfeits the remaining interest.",
-          "hindi": "ऋणी से आंशिक भुगतान प्राप्त करने पर महाजन (धनी) को ऋणी को रसीद देनी चाहिए; यदि मांगने पर भी वह रसीद नहीं देता, तो वह शेष बचे ब्याज से हाथ धो बैठता है।",
+          "english": "On receiving the interest (udaya), the creditor should give the debtor a receipt (upagata); but if, when asked, he does not give it, he incurs loss of the balance (śeṣa) [of what is owed].",
+          "hindi": "उदय (ब्याज) प्राप्त करके धनी (महाजन) ऋणी को उपगत (रसीद) दे; परन्तु माँगे जाने पर भी न देने वाला शेष (बाकी देय) की हानि पाता है।",
           "status": "translated"
         },
         {
@@ -1906,8 +1906,8 @@
           "number": "1.109",
           "ref": "narada_smriti 2.1.109",
           "text": "स पुनर् द्विविधः प्रोक्तो गोप्यो भोग्यस् तथैव च । प्रतिदानं तथैवास्य लाभहानिर् विपर्यये ॥ १०९ ॥",
-          "english": "It is further declared to be of two types: pledge for custody only (gopya) and pledge for use/enjoyment (bhogya); the debt is returned accordingly, and interest is forfeited if a usable pledge is enjoyed.",
-          "hindi": "वह पुन: दो प्रकार का कहा गया है: केवल रक्षा योग्य (गोप्य) और उपभोग योग्य (भोग्य); इसके विपरीत स्थिति में (भोग्य का उपयोग करने पर) ब्याज की हानि होती है तथा वस्तु का प्रतिदान नियम अनुसार होता है।",
+          "english": "It is again declared to be twofold: [a pledge] to be kept (gopya) and [one] to be enjoyed (bhogya). Its return [must be] likewise [in the same condition]; in the contrary case [there is] loss of the profit (interest).",
+          "hindi": "वह पुनः दो प्रकार का कहा गया है: गोप्य (केवल रखने योग्य) और भोग्य (उपभोग योग्य)। इसका लौटाना भी उसी प्रकार (उसी दशा में) होना चाहिए; इसके विपरीत होने पर लाभ (ब्याज) की हानि होती है।",
           "status": "translated"
         },
         {
@@ -2042,8 +2042,8 @@
           "number": "1.125",
           "ref": "narada_smriti 2.1.125",
           "text": "लिखितं लिखितेनैव साक्षिमत् साक्षिभिर् हरेत् । साक्षिभ्यो लिखितं श्रेयो लिखितेन तु साक्षिणः ॥ १२५ ॥",
-          "english": "A written document should be invalidated only by another written document, and a witnessed deed by witnesses; written proof is superior to witnesses, but written proof can also be overridden by witnesses in certain cases.",
-          "hindi": "लिखित दस्तावेज़ का खण्डन लिखित दस्तावेज़ से ही और साक्ष्य-युक्त का साक्षियों द्वारा किया जाना चाहिए; मौखिक साक्षियों से लिखित प्रमाण श्रेष्ठ होता है, किंतु विशेष स्थितियों में लिखित को साक्षियों द्वारा भी निरस्त किया जा सकता है।",
+          "english": "A written [document] should be overturned only by a written [document], and a witnessed [transaction] by witnesses. A written [document] is superior to witnesses; but witnesses [may be overturned] by a written [document].",
+          "hindi": "लिखित (दस्तावेज़) का खण्डन लिखित से ही, और साक्षीयुक्त (व्यवहार) का साक्षियों से ही करना चाहिए। साक्षियों से लिखित श्रेष्ठ है; परंतु लिखित के द्वारा साक्षियों का (खण्डन हो सकता है)।",
           "status": "translated"
         },
         {
@@ -2306,8 +2306,8 @@
           "number": "1.157",
           "ref": "narada_smriti 2.1.157",
           "text": "अभ्यग्रचिह्नो विज्ञेयो दण्डपारुष्यकृन् नरः । असाक्षिप्रत्यया ह्य् एते पारुष्ये तु परीक्षणम् ॥ १५७ ॥",
-          "english": "A man displaying fresh marks of injury is recognized as the perpetrator or victim of physical assault. These cases do not rely on formal witnesses, but require careful examination of physical signs in matters of violence.",
-          "hindi": "ताज़ा चोट या घाव के चिह्नों से युक्त व्यक्ति दण्डपारुष्य (शारीरिक मारपीट/हिंसा) करने वाला या सहने वाला समझा जाता है। ये मामले बिना साक्षी के सिद्ध होते हैं, और हिंसा के मामलों में इन्हीं लक्षणों की परीक्षा की जाती है।",
+          "english": "A man bearing fresh marks is to be known as the doer of physical assault (daṇḍapāruṣya). These [cases] do not depend on witnesses; but in [cases of] assault there should be examination.",
+          "hindi": "ताज़े चिह्नों वाला मनुष्य दण्डपारुष्य (शारीरिक आक्रमण) करने वाला जानना चाहिए। ये (मामले) साक्षियों पर निर्भर नहीं होते; किंतु पारुष्य में परीक्षण करना चाहिए।",
           "status": "translated"
         },
         {
@@ -2474,8 +2474,8 @@
           "number": "1.178",
           "ref": "narada_smriti 2.1.178",
           "text": "त्वरमाण इवाबद्धम् अपृष्टो बहु भाषते । कूटसाक्षी स विज्ञेयस् तं पापं विनयेन् नृपः ॥ १७८ ॥",
-          "english": "Who, acting in hasty agitation, speaks volubly without being asked and utters irrelevant statements—he is to be recognized as a perjured witness, and the king should penalize that wicked man.",
-          "hindi": "जो उतावली में बिना पूछे ही असम्बद्ध और बहुत सी बातें बकने लगता है, उसे 'ूटसाक्षी' (झूठा गवाह) जानना चाहिए; राजा को उस पापी व्यक्ति को दण्डित करना चाहिए।",
+          "english": "He who, as if in a hurry, speaks much and incoherently without being asked, is to be known as a false witness (kūṭasākṣin); the king should punish that wicked man.",
+          "hindi": "जो मानो जल्दी में हो, बिना पूछे असम्बद्ध रूप से बहुत बोलता है, उसे कूटसाक्षी (झूठा गवाह) जानना चाहिए; राजा उस पापी को दण्डित करे।",
           "status": "translated"
         },
         {
@@ -2522,8 +2522,8 @@
           "number": "1.184",
           "ref": "narada_smriti 2.1.184",
           "text": "नगरे प्रतिरुद्धः सन् बहिर्द्वारे बुभुक्षितः । अमित्रान् भूयशः पश्येद् यः साक्ष्यम् अनृतं वदेत् ॥ १८४ ॥",
-          "english": "\"Barred from entering the city, starving outside the city gate, and repeatedly seeing his enemies prosper shall be the condition of him who gives false evidence.\"",
-          "hindi": "\"जो असत्य साक्ष्य देता है, वह नगर में प्रवेश से रोका हुआ, नगर के बाहरी द्वार पर भूखा-प्यासा तथा बार-बार अपने शत्रुओं को फलते-फूलते देखने के दुःख को भोगता है।\"",
+          "english": "Shut out (pratiruddha) at the city, hungry at the outer gate, he would see his enemies in multitude — he who gives false testimony.",
+          "hindi": "जो असत्य साक्ष्य देता है, वह नगर में (प्रवेश से) रोका हुआ, बाहरी द्वार पर भूखा, अपने शत्रुओं को बहुत संख्या में (बार-बार) देखे।",
           "status": "translated"
         },
         {
@@ -2570,8 +2570,8 @@
           "number": "1.190",
           "ref": "narada_smriti 2.1.190",
           "text": "हन्ति जातान् अजातांश् च हिरण्यार्थे ऽनृतं वदन् । सर्वं भूम्यनृते हन्ति मा स्म भूम्यनृतं वदीः ॥ १९० ॥",
-          "english": "\"He slays all his ancestors, living descendants, and unborn generations by testifying falsely for gold; and he destroys his entire lineage by lying regarding land—therefore, never speak falsely regarding land!\"",
-          "hindi": "\"सोने के विषय में असत्य बोलने वाला अपने जन्मे और अजन्मे सभी वंशजों का नाश करता है, तथा भूमि के विषय में झूठ बोलने वाला सर्वस्व नष्ट कर डालता है; इसलिए कभी भी भूमि के विषय में असत्य न बोलें!\"",
+          "english": "Speaking falsely in a matter of gold, he slays [kinsmen] born and unborn; in a falsehood about land he slays everything. So never speak falsely about land.",
+          "hindi": "सोने के विषय में असत्य बोलने वाला जन्मे और अजन्मे [बान्धवों] का नाश करता है; भूमि के विषय में असत्य बोलने पर वह सब कुछ नष्ट कर देता है। इसलिए भूमि के विषय में कभी असत्य मत बोलो।",
           "status": "translated"
         },
         {
@@ -2674,8 +2674,8 @@
           "number": "1.203",
           "ref": "narada_smriti 2.1.203",
           "text": "पितरस् त्व् अवलम्बन्ते त्वयि साक्षित्वम् आगते । तारयिष्यति किंवास्मान् आत्मानं पातयिष्यति ॥ २०३ ॥",
-          "english": "\"When you stand forth as a witness, your ancestors hang in anxious suspense, wondering: 'Will he rescue us by speaking truth, or will he bring downfall upon himself and us?'\"",
-          "hindi": "\"जब आप साक्ष्य देने उपस्थित होते हैं, तो आपके पितर उत्सुकतापूर्वक इसी बात की प्रतीक्षा करते हैं कि: 'क्या यह सत्य बोलकर हमारा उद्धार करेगा या असत्य से अपना और हमारा पतन करेगा?'\"",
+          "english": "But when you have come to be a witness, your ancestors hang [in suspense, wondering]: 'Will he save us, or will he make himself fall?'",
+          "hindi": "किन्तु जब तुम साक्षी बनकर आते हो, तब तुम्हारे पितर लटके रहते हैं ([सोचते हुए]): 'क्या यह हमें तारेगा, या अपने आप को गिराएगा?'",
           "status": "translated"
         },
         {
@@ -2890,8 +2890,8 @@
           "number": "2.6",
           "ref": "narada_smriti 2.2.6",
           "text": "ग्रहीतुः सह यो ऽर्थेन नष्टो नष्टः स दायिनः । दैवराजकृते तद्वन् न चेत् तज् जिह्मकारितम् ॥ ६ ॥",
-          "english": "If the deposit is lost together with the property of the bailee (recipient), it is a loss to the depositor; similarly when destroyed by an act of God or the king, provided it was not caused by fraud on the bailee's part.",
-          "hindi": "यदि धरोहर की वस्तु न्यासधारक (लेने वाले) के अपने धन के साथ ही नष्ट हो जाती है, तो वह हानि जमाकर्ता (स्वामी) की ही मानी जाती है; इसी प्रकार दैवीय आपदा या राजकोषीय संकट में भी हानि स्वामी की होगी, बशर्ते न्यासधारक ने कोई कपट या धोखाधड़ी न की हो।",
+          "english": "[A deposit] lost together with the receiver's own property is a loss to the giver (depositor); likewise [a loss] caused by fate (daiva) or by the king, unless it was brought about by [the receiver's] fraud.",
+          "hindi": "जो [निक्षेप] ग्रहण करने वाले के अपने धन के साथ नष्ट हो जाए, वह देने वाले (निक्षेपकर्ता) का ही नष्ट हुआ माना जाता है; इसी प्रकार दैव या राजा द्वारा किए गए [नाश] में भी, यदि वह [ग्रहण करने वाले के] कपट से न कराया गया हो।",
           "status": "translated"
         },
         {
@@ -3306,8 +3306,8 @@
           "number": "5.23",
           "ref": "narada_smriti 2.5.23",
           "text": "शुभकर्मकरास् त्व् एते चत्वारः समुदाहृताः । जघन्यकर्मभाजस् तु शेषा दासास् त्रिपञ्चकाः ॥ २३ ॥",
-          "english": "These four are declared to be pure workers. The rest, who perform impure or menial tasks, are slaves (dāsa), who are fifteenfold.",
-          "hindi": "ये चार (तीन प्रकार के भृतक तथा कौटुम्बिक) शुभ कार्य करने वाले कहे गए हैं। इनके अतिरिक्त जो निकृष्ट (अशुद्ध) कार्य करते हैं, वे पंद्रह प्रकार के दास होते हैं।",
+          "english": "These four are declared to be doers of pure work; the rest, who have a share in low work, are the slaves (dāsa), fifteen-fold.",
+          "hindi": "ये चार (शिष्य, अन्तेवासी, भृतक और अधिकर्मकृत्) शुभ कर्म करने वाले कहे गए हैं; शेष, जो निकृष्ट कर्म के भागी हैं, पन्द्रह प्रकार के दास हैं।",
           "status": "translated"
         },
         {
@@ -3418,8 +3418,8 @@
           "number": "5.37",
           "ref": "narada_smriti 2.5.37",
           "text": "वर्णानां प्रातिलोम्येन दासत्वं न विधीयते । स्वधर्मत्यागिनो ऽन्यत्र दारवद् दासता मता ॥ ३७ ॥",
-          "english": "Slavery in the reverse order of varṇas (higher varṇa to lower) is not ordained, except in the case of one who abandons his own duties; in that case, slavery is treated like marriage.",
-          "hindi": "वर्णों के प्रतिलोम क्रम (उच्च वर्ण का निम्न वर्ण के अधीन होना) में दासता का विधान नहीं है, सिवाय उस व्यक्ति के जो अपने धर्म का त्याग कर चुका हो; उसमें विवाह की भाँति दासत्व माना गया है।",
+          "english": "Slavery is not ordained in the inverse order of the varṇas (pratiloma), except for one who abandons his own dharma; slavery is regarded as like [the status of] wives (dāravat) [in this respect].",
+          "hindi": "वर्णों के प्रतिलोम क्रम से दासत्व का विधान नहीं है, सिवाय अपने धर्म का त्याग करने वाले के; (इस विषय में) दासता पत्नियों (की स्थिति) के समान (दारवत्) मानी गई है।",
           "status": "translated"
         },
         {
@@ -3434,8 +3434,8 @@
           "number": "5.39",
           "ref": "narada_smriti 2.5.39",
           "text": "अधनास् त्रय एवोक्ता भार्या दासस् तथा सुतः । यत् ते समधिगच्छन्ति यस्य ते तस्य तद् धनम् ॥ ३९ ॥",
-          "english": "Three are declared to be without property: a wife, a slave, and a son; whatever wealth they acquire belongs to the one to whom they belong.",
-          "hindi": "पत्नी, दास तथा पुत्र—ये तीनों निष्प्रभ (धनहीन) कहे गए हैं। वे जो कुछ भी कमाते हैं, वह उसी का धन होता है जिसके वे अधीन होते हैं।",
+          "english": "Three are declared to be without property: a wife, a slave, and a son; whatever they acquire is the property of him to whom they belong.",
+          "hindi": "पत्नी, दास और पुत्र — ये तीन ही अधन (अपनी सम्पत्ति से रहित) कहे गए हैं; वे जो कुछ अर्जित करते हैं, वह धन उसी का है जिसके वे हैं।",
           "status": "translated"
         },
         {
@@ -3514,8 +3514,8 @@
           "number": "6.7",
           "ref": "narada_smriti 2.6.7",
           "text": "भृतिषड्भागम् आभाष्य पथि युग्यकृतं त्यजन् । अददत् कारयित्वा तु कर्मैवं सोदयां भृतिम् ॥ ७ ॥",
-          "english": "A carrier who abandons his loaded vehicle on the road after agreeing to wages forfeits a sixth part of his wages; an employer who makes a servant work and fails to pay shall pay the wages with interest.",
-          "hindi": "जो भारवाहक मार्ग में तय भाड़े के छठे भाग का वचन देकर वाहन छोड़ देता है, उसका छठा भाग जब्त हो जाता है; और जो स्वामी काम कराके वेतन नहीं देता, वह ब्याज सहित वेतन देने के लिए बाध्य है।",
+          "english": "One who abandons on the road work [contracted] with a draught vehicle is to be charged a sixth of the wage; and [an employer] who has had the work done but does not pay [is to be made to pay] the wage likewise, with interest.",
+          "hindi": "जो मार्ग में वाहन (युग्य) का काम बीच में छोड़ देता है, उससे भृति (मज़दूरी) का छठा भाग लिया जाए; और जो काम करवाकर मज़दूरी नहीं देता, उससे इसी प्रकार ब्याज सहित मज़दूरी दिलवाई जाए।",
           "status": "translated"
         },
         {
@@ -3586,8 +3586,8 @@
           "number": "6.16",
           "ref": "narada_smriti 2.6.16",
           "text": "अजाविके तथारुद्धे वृकैः पाले त्व् अनायति । यत् प्रसह्य वृको हन्यात् पाले तत्किल्बिषम् भवेत् ॥ १६ ॥",
-          "english": "If goats and sheep are penned up, and the keeper fails to arrive, whatever a wolf forcibly kills shall be the fault and liability of the keeper.",
-          "hindi": "यदि बकरियों और भेड़ों को बाड़े में बंद रखा गया हो और चरवाहा समय पर न आए, तो भेड़िया जबरन जितने पशुओं को मार डालेगा, उसका दोष चरवाहे का ही माना जाएगा।",
+          "english": "When goats and sheep are hemmed in by wolves and the keeper does not come, whatever a wolf kills by force is the keeper's fault.",
+          "hindi": "जब बकरियाँ और भेड़ें भेड़ियों से घिर जाएँ और रखवाला (पाल) [बचाने] न आए, तब भेड़िया जिसे बलपूर्वक मार डाले, उसका दोष रखवाले का होता है।",
           "status": "translated"
         },
         {
@@ -3626,8 +3626,8 @@
           "number": "6.21",
           "ref": "narada_smriti 2.6.21",
           "text": "अयोनौ क्रमते यस् तु बहुभिर् वापि वासयेत् । शुल्कम् अष्टगुणं दाप्यो विनयस् तावद् एव च ॥ २१ ॥",
-          "english": "He who approaches her in an unnatural way, or subjects her to intercourse with many men against agreement, shall be fined eight times the fee, and an equal amount as fine to the King.",
-          "hindi": "जो पुरुष वेश्या के साथ अप्राकृतिक मैथुन करता है या उसे बहुत से पुरुषों के साथ संभोग करने पर विवश करता है, उससे शुल्क का आठ गुना जुर्माना और उतना ही राजा को दंड दिलवाया जाए।",
+          "english": "He who approaches her in an unnatural way (ayonau), or causes her to cohabit with many, shall be made to pay eight times the fee, and a fine (vinaya) of the same amount.",
+          "hindi": "जो (वेश्या के साथ) अयोनि में गमन करता है, या उसे बहुतों के साथ वास (सम्भोग) कराता है, उससे शुल्क का आठ गुना दिलवाया जाए, और उतना ही विनय (दण्ड)।",
           "status": "translated"
         },
         {
@@ -3962,8 +3962,8 @@
           "number": "10.4",
           "ref": "narada_smriti 2.10.4",
           "text": "प्रतिकूलं च यद् राज्ञः प्रकृत्यवमतं च यत् । बाधकं च यद् अर्थानां तत् तेभ्यो विनिवर्तयेत् ॥ ४ ॥",
-          "english": "Whatever practice is hostile to the king, disrespectful to the ministers or subjects, or detrimental to morality and public interest, the king should prohibit and suppress among them.",
-          "hindi": "परंतु जो नियम राजा के विरुद्ध हो, प्रजा/प्रकृति का अनादर करने वाला हो, या धर्म और अर्थ (लोकहित) में बाधा डालने वाला हो, उसे राजा को उनसे बंद (निषिद्ध) करा देना चाहिए।",
+          "english": "Whatever [of theirs] is hostile to the king, whatever is disapproved by the prakṛti [ministers and subjects], and whatever obstructs [the king's] interests (artha) — that he should stop among them.",
+          "hindi": "जो (उनका नियम) राजा के प्रतिकूल हो, जो प्रकृति (मंत्रियों और प्रजा) द्वारा अमान्य हो, और जो (राजा के) अर्थों (हितों) में बाधक हो — उसे राजा उनसे निवृत्त करा दे।",
           "status": "translated"
         },
         {
@@ -4130,8 +4130,8 @@
           "number": "11.18",
           "ref": "narada_smriti 2.11.18",
           "text": "मृते तु स्वामिनि पुनस् तद्वंश्ये वापि मानवे । राजानम् आमन्त्र्य ततः प्रकुर्यात् सेतुकर्म तत् ॥ १८ ॥",
-          "english": "But if the owner is dead, or no descendant of his exists, one should inform the king and then proceed with the repair of that dam.",
-          "hindi": "परंतु यदि स्वामी मृत हो गया हो और उसका कोई वंशज भी न हो, तो राजा को सूचित करके उस बाँध के मरम्मत का काम करना चाहिए।",
+          "english": "But when the owner is dead, or again a man of his lineage [is dead], one should consult the king and then carry out that work on the dam.",
+          "hindi": "परन्तु जब स्वामी मर गया हो, अथवा फिर उसके वंश का कोई मनुष्य भी (मर गया हो), तब राजा से अनुमति लेकर वह सेतु-कार्य करना चाहिए।",
           "status": "translated"
         },
         {
@@ -4162,8 +4162,8 @@
           "number": "11.22",
           "ref": "narada_smriti 2.11.22",
           "text": "तदष्टभागापचयाद् यावत् सप्त गताः समाः । सम्प्राप्ते त्व् अष्टमे वर्षे भुक्तं क्षेत्रं लभेत सः ॥ २२ ॥",
-          "english": "With a deduction of one-eighth of the yield each year for seven years; but when the eighth year arrives, the owner recovers the field that had been enjoyed, without paying expenses.",
-          "hindi": "सात वर्षों तक प्रतिवर्ष उपज के आठवें भाग की कटौती के साथ वह खेत वापस पा सकता है; परंतु आठवाँ वर्ष आने पर मालिक उपभोग किए गए खेत को बिना किसी व्यय-भुगतान के प्राप्त कर लेता है।",
+          "english": "[The cultivator keeps it] until seven years have passed, [the reclamation cost owed to him] diminishing by an eighth part [each year]; but when the eighth year arrives, he [the owner] regains the field that was enjoyed [without payment].",
+          "hindi": "सात वर्ष बीतने तक (जोतने वाला उसे रखता है, और उसे देय खिलोपचार का व्यय) प्रति वर्ष आठवें भाग से घटता जाता है; परंतु आठवाँ वर्ष आने पर (स्वामी) उपभोग किया गया खेत (बिना भुगतान के) प्राप्त कर लेता है।",
           "status": "translated"
         },
         {
@@ -4258,8 +4258,8 @@
           "number": "11.34",
           "ref": "narada_smriti 2.11.34",
           "text": "गोभिस् तु भक्षितं धान्यं यो नरः प्रतिमार्गति । सामन्तस्य शदो देयो धान्यं यत् तत्र वापितम् । गवत्रं गोमिने देयं धान्यं तत्कर्षिकस्य तु ॥ ३४ ॥",
-          "english": "A man who claims compensation for grain eaten by cattle must pay the loss (shada) to the neighbor equivalent to the grain sown there; the straw/fodder (gavatra) goes to the cow-owner, and the grain belongs to the cultivator.",
-          "hindi": "जो मनुष्य गायों द्वारा खाई गई फसल का हर्जाना माँगता है, उसे बोए गए अनाज के अनुसार पड़ोसी को क्षतिपूर्ति देनी चाहिए। पशु का भूसा/चारा (गवत्र) पशुपालक को दिया जाए और अनाज उस कृषक का होता है।",
+          "english": "When a man seeks [compensation] for grain eaten by cows, the yield (śada) [as assessed by] the neighbours is to be given [to him, reckoned on] the grain that was sown there; the gavatra [what the cows ate] is to be given to the cow-owner, but the grain belongs to that cultivator.",
+          "hindi": "जो मनुष्य गायों द्वारा खाए गए अनाज का (हर्जाना) माँगता है, उसे सामंतों (पड़ोसियों) द्वारा आँकी गई उपज (शद) दी जाए, जितना अनाज वहाँ बोया गया था (उसके अनुसार); गवत्र (गायों द्वारा खाया गया भाग) गोस्वामी को दिया जाए, किंतु अनाज उस कृषक का होता है।",
           "status": "translated"
         },
         {
@@ -4394,16 +4394,16 @@
           "number": "12.13",
           "ref": "narada_smriti 2.12.13",
           "text": "ईर्ष्यापण्डश् च सेव्यश् च वातरेता मुखेभगः । आक्षिप्तो मोघबीजश् च शालीनो ऽन्यपतिस् तथा ॥ १३ ॥",
-          "english": "The envy-impotent (irshya), the passive/service-impotent (sevya), one with windy semen (vatareta), the fellator (mukhebhaga), the thrown/spasmodic (akshipta), the futile-seeded (moghabija), the bashful (shalina), and one whose wife has another husband (anyapati).",
-          "hindi": "ईर्ष्या-पंडक (दूसरों का मैथुन देखकर कामुक होने वाला), सेव्य (अन्य की सेवा से कामोत्तेजित होने वाला), वातरेता (हवा जैसा वीर्य वाला), मुखेभग (मुख-मैथुन वाला), आक्षिप्त (अचानक स्तंभित होने वाला), मोघबीज (निष्फल बीज वाला), शालीन (लज्जाशील/शर्मीला) और अन्यपति (जिसकी स्त्री का अन्य पति हो)।",
+          "english": "The īrṣyāpaṇḍa [impotent unless roused by jealousy], the sevya, the vātaretas [whose semen is like wind], the mukhebhaga, the ākṣipta, the moghabīja [whose seed is barren], the śālīna [bashful], and the anyapati [potent only with a woman other than his wife].",
+          "hindi": "ईर्ष्यापंड (ईर्ष्या से ही उत्तेजित होने वाला), सेव्य, वातरेता (वायु-सदृश वीर्य वाला), मुखेभग, आक्षिप्त, मोघबीज (निष्फल बीज वाला), शालीन (लज्जाशील) और अन्यपति (जो केवल अपनी पत्नी से भिन्न स्त्री के साथ समर्थ हो)।",
           "status": "translated"
         },
         {
           "number": "12.14",
           "ref": "narada_smriti 2.12.14",
           "text": "तत्राद्याव् अप्रतीकरौ पक्षाख्यो मासम् आचरेत् । अनुक्रमात् त्रयस्यास्य कालः संवत्सरः स्मृतः ॥ १४ ॥",
-          "english": "Of these (impotent men), the first two are irremediable; the wife of the first shall wait for a fortnight, and the wife of the second for a month. For the next three in order, the period of waiting is declared to be one year.",
-          "hindi": "इनमें से प्रथम दो (नपुंसकों) का कोई उपचार नहीं है; इनमें पहली स्थिति वाले की पत्नी एक पक्ष (पंद्रह दिन) तथा दूसरी स्थिति वाले की एक मास तक प्रतीक्षा करे। इसके बाद के तीन प्रकार के पुरुषों के लिए प्रतीक्षा काल एक वर्ष कहा गया है।",
+          "english": "Of these, the first two are incurable; the one called pakṣa[paṇḍa] should [be waited for] a month; for the three after him in order, the period is declared to be a year.",
+          "hindi": "इनमें प्रथम दो (निसर्गपंड और वध्रि) का कोई उपचार नहीं है; पक्ष (पंडक) नामक के लिए एक मास (प्रतीक्षा) करे; इसके बाद क्रम से तीन के लिए एक वर्ष का समय कहा गया है।",
           "status": "translated"
         },
         {
@@ -4418,8 +4418,8 @@
           "number": "12.16",
           "ref": "narada_smriti 2.12.16",
           "text": "आक्षिप्तमोघबीजाभ्याम् पत्याव् अप्रतिकर्मणि । पतिर् अन्यः स्मृतो नार्या वत्सरं सम्प्रतीक्ष्य तु ॥ १६ ॥",
-          "english": "When the husband is cast off (for incurable impotence) or has unproductive seed, if no remedy can be found, another husband is ordained for the woman after she has waited for one year.",
-          "hindi": "असाध्य दोष से पीड़ित अथवा व्यर्थ (बीजहीन) बीज वाले पति का यदि कोई उपचार न हो सके, तो स्त्री एक वर्ष तक प्रतीक्षा करने के पश्चात दूसरा पति धारण कर सकती है।",
+          "english": "When the husband is an ākṣipta or a moghabīja [and] beyond remedy, another husband is ordained for the woman, but [only] after she has waited a year.",
+          "hindi": "जब पति आक्षिप्त या मोघबीज (निष्फल बीज वाला) हो और उसका उपचार न हो सके, तो एक वर्ष प्रतीक्षा करने के बाद स्त्री के लिए अन्य पति विहित है।",
           "status": "translated"
         },
         {
@@ -4714,8 +4714,8 @@
           "number": "12.53",
           "ref": "narada_smriti 2.12.53",
           "text": "पुनर्भुवां एष विधिः स्वैरिणीनां च कीर्तितः । पूर्वा पूर्वाजघन्यासां श्रेयसी तूत्तरोत्तरा ॥ ५३ ॥",
-          "english": "This classification of remarried women and independent women has been declared; among them, each preceding one is less blameworthy, and each succeeding one is more objectionable.",
-          "hindi": "पुनर्भू और स्वैरिणी स्त्रियों का यह विधान कहा गया है; इनमें पूर्व-पूर्व (पहले वाली) स्त्री कम निंदनीय है और उत्तरोत्तर (बाद वाली) अधिक अधम है।",
+          "english": "This rule has been declared for the punarbhūs and the svairiṇīs; among them each earlier one is the lowest, and each later one is better.",
+          "hindi": "पुनर्भू और स्वैरिणी स्त्रियों का यह विधान कहा गया; इनमें पूर्व-पूर्व वाली अधम (निकृष्ट) है और उत्तरोत्तर वाली श्रेष्ठ है।",
           "status": "translated"
         },
         {
@@ -4778,8 +4778,8 @@
           "number": "12.61",
           "ref": "narada_smriti 2.12.61",
           "text": "प्रदुष्टत्यक्तदारस्य क्लीबस्य क्षमकस्य च । स्वेच्छयोपेयुषो दारान् न दोषः साहसो भवेत् ॥ ६१ ॥",
-          "english": "If one approaches out of desire the wife of a man who is exceedingly wicked, who has abandoned his wife, who is impotent, or who tolerates adultery, it is not considered a grave offense.",
-          "hindi": "जो अत्यंत दुष्ट हो, जिसने पत्नी को त्याग दिया हो, जो नपुंसक हो, या जो व्यभिचार को सहन करने वाला हो—ऐसे पुरुष की पत्नी के साथ स्वेच्छा से सम्भोग करने वाले पुरुष का वह कार्य उग्र अपराध (साहस) नहीं माना जाता।",
+          "english": "If one of his own will approaches the wife of a man who has abandoned his corrupt wife (praduṣṭatyaktadāra), of an impotent man, or of one who consents (kṣamaka), there is no offence; it is not sāhasa [violent crime].",
+          "hindi": "जिसने दूषित पत्नी को त्याग दिया हो (प्रदुष्टत्यक्तदार), जो क्लीब हो, या जो क्षमक (सहमति देने वाला) हो — ऐसे पुरुष की पत्नी के पास स्वेच्छा से जाने वाले को कोई दोष नहीं; यह साहस नहीं होता।",
           "status": "translated"
         },
         {
@@ -4915,7 +4915,7 @@
           "ref": "narada_smriti 2.12.78",
           "text": "आस्व् एव तु भुजिष्यासु दोषः स्यात् परदारवत् । गम्या अपि हि नोपेयास् ताश् चेद् अन्यपरिग्रहाः ॥ ७८ ॥",
           "english": "However, if even these women are concubines (kept women), approaching them is equal to adultery with another's wife. Even if otherwise approachable, they must not be approached if they belong to another.",
-          "hindi": "किन्तु यदि इनमें से भी कोई स्त्रियाँ भुजिल्या (किसी अन्य पुरुष द्वारा रखी गई) हों, तो उनके साथ सम्भोग करना परस्त्री-गमन के समान ही दोषपूर्ण होता है। गम्य होने पर भी वे किसी अन्य के स्वामित्व में हों तो उनके पास नहीं जाना चाहिए।",
+          "hindi": "किन्तु यदि इनमें से भी कोई स्त्रियाँ भुजिष्या (किसी अन्य पुरुष द्वारा रखी गई) हों, तो उनके साथ सम्भोग करना परस्त्री-गमन के समान ही दोषपूर्ण होता है। गम्य होने पर भी वे किसी अन्य के स्वामित्व में हों तो उनके पास नहीं जाना चाहिए।",
           "status": "translated"
         },
         {
@@ -4970,8 +4970,8 @@
           "number": "12.85",
           "ref": "narada_smriti 2.12.85",
           "text": "कुले तदवशेषे तु सन्तानार्थं न कामतः । नियुक्तो गुरुभिर् गच्छेद् भ्रातृभार्यां यवीयसः ॥ ८५ ॥",
-          "english": "But when the family is near extinction, for the sake of raising offspring only and not out of lust, one who is appointed by elders may approach the wife of his brother.",
-          "hindi": "किन्तु जब कुल के विनाश का संकट हो (वंश शेष रह गया हो), तो केवल सन्तानोत्पत्ति के उद्देश्य से (कामवासना से नहीं), गुरुजनों द्वारा नियुक्त होने पर ही मनुष्य अपने भाई की पत्नी के पास गमन करे।",
+          "english": "But when the family is reduced to that remnant, for the sake of offspring and not out of desire, one appointed by the elders may approach the wife of [his] brother — yavīyasaḥ, '[of the] younger' [as printed; or read with the subject: '(he, the) younger, may approach his brother's wife'].",
+          "hindi": "किन्तु जब कुल उतना ही शेष रह गया हो, तब सन्तान के लिए, काम से नहीं, गुरुजनों द्वारा नियुक्त (व्यक्ति) [छोटे] भाई की पत्नी के पास जाए — यवीयसः, '[छोटे के]' [जैसा छपा है; अथवा कर्ता के साथ पढ़ें: '(वह) छोटा भाई अपने भाई की पत्नी के पास जाए']।",
           "status": "translated"
         },
         {
@@ -5010,8 +5010,8 @@
           "number": "12.90",
           "ref": "narada_smriti 2.12.90",
           "text": "अन्योन्यं त्यजतोर् नागः स्याद् अन्योन्यविरुद्धयोः । स्त्रीपुंसयोर् निगूढाया व्यभिचाराद् ऋते स्त्रियाः ॥ ९० ॥",
-          "english": "Offence attaches to a husband and wife who abandon each other while mutually opposed, except in the case of a woman who has committed secret adultery.",
-          "hindi": "एक-दूसरे का त्याग करने वाले तथा परस्पर विरोध रखने वाले पति-पत्नी दोनों ही अपराध के भागी होते हैं, सिवाय उस स्थिति के जब स्त्री ने गुप्त रूप से व्यभिचार किया हो।",
+          "english": "There is no offence (na āgaḥ) for a man and woman who abandon each other when they are mutually hostile — except [where it is a case] of the woman's concealed adultery.",
+          "hindi": "परस्पर विरोधी स्त्री-पुरुष यदि एक-दूसरे को त्याग दें तो कोई अपराध (आगः) नहीं होता — सिवाय [उस स्थिति के जहाँ] स्त्री का गुप्त व्यभिचार हो।",
           "status": "translated"
         },
         {
@@ -5042,8 +5042,8 @@
           "number": "12.94",
           "ref": "narada_smriti 2.12.94",
           "text": "वन्ध्यां स्त्रीजननीं निन्द्यां प्रतिकुलां च सर्वदा । कामतो नाभिनन्देत कुर्वन्न् एवं स दोषभाक् ॥ ९४ ॥",
-          "english": "A barren wife, one who bears only female children, one who is blameworthy, or one who is constantly hostile should not be gratified out of lust; one who acts otherwise incurs fault.",
-          "hindi": "बांझ, केवल कन्याओं को जन्म देने वाली, निन्दनीय आचरण वाली तथा सदैव प्रतिकूल रहने वाली स्त्री का कामवश अभिनंदन न करे; ऐसा करने वाला पुरुष दोष का भागी होता है।",
+          "english": "If, out of desire (kāmataḥ), he does not cherish a barren wife, one who bears only daughters, one who is blameworthy, or one who is always hostile — acting thus, he incurs fault.",
+          "hindi": "यदि वह कामवश (कामतः) बाँझ, केवल कन्याओं को जन्म देने वाली, निन्दनीय, या सदा प्रतिकूल पत्नी का अभिनन्दन (आदर) नहीं करता — ऐसा करते हुए वह दोष का भागी होता है।",
           "status": "translated"
         },
         {
@@ -5058,8 +5058,8 @@
           "number": "12.96",
           "ref": "narada_smriti 2.12.96",
           "text": "अज्ञातदोषेणोढा या निर्गता नान्यम् आश्रिता । बन्धुभिः सा नियोक्तव्या निर्बन्धुः स्वयम् आश्रयेत् ॥ ९६ ॥",
-          "english": "A woman married without any fault being known, who leaves her husband's house but has not taken refuge with another man, shall be supported by her relatives; if without relatives, she may seek shelter herself.",
-          "hindi": "जो स्त्री बिना किसी ज्ञात दोष के विवाहित हुई हो और पति-गृह से निकलकर किसी अन्य पुरुष का आश्रय न लिया हो, उसका भरण-पोषण बन्धुओं द्वारा कराया जाना चाहिए; बन्धु न होने पर वह स्वयं आश्रय प्राप्त करे।",
+          "english": "A woman who was married by [a man] whose defect was not known, who has left [him] and has not resorted to another — she should be appointed [to another husband] by her relatives; if she has no relatives, she may herself resort [to one].",
+          "hindi": "जिस स्त्री का विवाह ऐसे [पुरुष] से हुआ हो जिसका दोष ज्ञात नहीं था, जो [उसे छोड़कर] निकल आई हो और किसी अन्य का आश्रय न लिया हो — उसे बन्धु [किसी अन्य पति के लिए] नियुक्त करें; बन्धु न हों तो वह स्वयं [किसी का] आश्रय ले।",
           "status": "translated"
         },
         {
@@ -5082,281 +5082,225 @@
           "number": "12.99",
           "ref": "narada_smriti 2.12.99",
           "text": "क्षत्रिया षट् समास् तिष्ठेद् अप्रसूता समात्रयम् । वैश्या प्रसूता चत्वारि द्वे समे त्व् इतरा वसेत् ॥ ९९ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A Kshatriya woman shall wait six years, or three years if childless; a Vaishya woman four years, or two years if childless; for a Shudra woman, no fixed period is prescribed.",
-          "hindi_draft": "क्षत्रिया स्त्री छह वर्ष तथा सन्तानहीन होने पर तीन वर्ष प्रतीक्षा करे; वैश्या चार वर्ष तथा सन्तानहीन होने पर दो वर्ष प्रतीक्षा करे; शूद्रा के लिए कोई निश्चित समय-सीमा नहीं है।"
+          "english": "A Kṣatriya woman should wait six years; [if] childless, three years. A Vaiśya woman who has borne children [should wait] four [years]; but the other [the childless Vaiśya woman] should remain two years.",
+          "hindi": "क्षत्रिया [स्त्री] छह वर्ष [प्रतीक्षा करती] रहे; निःसन्तान हो तो तीन वर्ष। सन्तानवती वैश्या चार [वर्ष]; पर दूसरी [निःसन्तान वैश्या] दो वर्ष रहे।",
+          "status": "translated"
         },
         {
           "number": "12.100",
           "ref": "narada_smriti 2.12.100",
           "text": "न शूद्रायाः स्मृतः कालो न च धर्मव्यतिक्रमः । विशेषतो ऽप्रसूतायाः संवत्सरपरा स्थितिः ॥ १०० ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "When news of the husband is obtainable, no fixed period of waiting applies; whatever news she hears regarding her husband's condition, she should adapt herself to it, even if it be extremely hard.",
-          "hindi_draft": "किन्तु यदि पति का समाचार मिलता रहे, तो प्रतीक्षा की कोई समय-सीमा नहीं होती; पति की जो भी स्थिति सुने, नारी को उसी के अनुकूल आचरण करना चाहिए, भले ही वह अत्यन्त कठोर क्यों न हो।"
+          "english": "For a Śūdra woman no [fixed] time is laid down, nor [is there] a transgression of dharma [in her case]; especially for one who has not borne children, the stay [i.e., waiting] is at most one year.",
+          "hindi": "शूद्रा [स्त्री] के लिए कोई [निश्चित] काल स्मृत नहीं है, न [उसके लिए] धर्म का उल्लंघन है; विशेषकर निःसन्तान [शूद्रा] की प्रतीक्षा अधिक-से-अधिक एक वर्ष है।",
+          "status": "translated"
         },
         {
           "number": "12.101",
           "ref": "narada_smriti 2.12.101",
           "text": "अप्रवृत्तौ स्मृतः धर्म एष प्रोषितयोषिताम् । जीवति श्रूयमाणे तु स्याद् एष द्विगुणो विधिः ॥ १०१ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Furthermore, for women with children whose husbands have gone abroad and no news is heard, waiting for a longer period is ordained.",
-          "hindi_draft": "इसके अतिरिक्त, सन्तानवती स्त्रियों के लिए, जिनका पति विदेश गया हो और जिसका कोई समाचार न मिले, अधिक समय तक प्रतीक्षा करने का विधान है।"
+          "english": "This dharma is declared for the wives of men gone abroad when there is no news [of them]; but if [the husband] is heard to be alive, this rule shall be doubled.",
+          "hindi": "परदेश गए पुरुषों की पत्नियों के लिए, जब [उनका] कोई समाचार न हो, यह धर्म स्मृत है; पर [पति के] जीवित होने का समाचार मिले तो यह विधि दुगुनी होगी।",
+          "status": "translated"
         },
         {
           "number": "12.102",
           "ref": "narada_smriti 2.12.102",
           "text": "प्रजाप्रवृत्तौ भूतानां सृष्टिर् एषा प्रजापतेः । अतो ऽन्यगमने स्त्रीणाम् एवं दोषो न विद्यते ॥ १०२ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "If the husband went abroad for sacred purposes, double the period of waiting is appointed; if for knowledge, fame, or royal service, four or eight years, even if news of him is heard.",
-          "hindi_draft": "यदि पति धर्मकार्य हेतु विदेश गया हो, तो प्रतीक्षा की अवधि दुगुनी माननी चाहिए; यदि विद्या, यश या राजकार्य के लिए गया हो, तो समाचार मिलने पर भी क्रमशः चार या आठ वर्ष की प्रतीक्षा करे।"
+          "english": "This creation of Prajāpati is for the continuance of offspring among beings; therefore, in women going to another [man] in this way, no fault exists.",
+          "hindi": "प्राणियों में सन्तान की प्रवृत्ति (निरन्तरता) के लिए ही प्रजापति की यह सृष्टि है; अतः इस प्रकार स्त्रियों के अन्य [पुरुष] के पास जाने में कोई दोष नहीं है।",
+          "status": "translated"
         },
         {
           "number": "12.103",
           "ref": "narada_smriti 2.12.103",
           "text": "आनुलोम्येन वर्णानां यज् जन्म स विधिः स्मृतः । प्रातिलोम्येन यज् जन्म स ज्ञेयो वर्णसङ्करः ॥ १०३ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Thus in all duties concerning the twice-born classes, the giving away (or marrying again) of women by relatives when the husband is absent for long has been declared.",
-          "hindi_draft": "द्विजातियों के सभी धर्मों के संदर्भ में, पति के सुदीर्घ काल तक अनुपस्थित रहने पर, सम्बन्धियों द्वारा स्त्रियों के पुनर्दान (या पुनर्विवाह) का विधान स्मृतियों में बताया गया है।"
+          "english": "The birth that occurs in the anuloma [order, 'with the grain', higher father, lower mother] of the varṇas is held to be the rule (vidhi); the birth that occurs in the pratiloma [order, 'against the grain'] is to be known as varṇasaṅkara (mixing of varṇas).",
+          "hindi": "वर्णों में आनुलोम्य (अनुलोम क्रम: उच्च पिता, निम्न माता) से जो जन्म होता है, वह विधि (नियमानुसार) माना गया है; प्रातिलोम्य (प्रतिलोम क्रम) से जो जन्म होता है, उसे वर्णसङ्कर जानना चाहिए।",
+          "status": "translated"
         },
         {
           "number": "12.104",
           "ref": "narada_smriti 2.12.104",
           "text": "अनन्तरः स्मृतः पुत्रः पुत्र एकान्तरस् तथा । द्व्यन्तरश् चानुलोम्येन तथैव प्रतिलोमतः ॥ १०४ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A son born secretly or openly from the seed of another man upon the field (wife) of a man is known as Kshetraja, the son of the owner of the field.",
-          "hindi_draft": "दूसरे पुरुष के वीर्य से किसी पुरुष के क्षेत्र (पत्नी) में गुप्त रूप से अथवा प्रकट रूप से उत्पन्न पुत्र 'क्षेत्रज' कहलाता है, जो क्षेत्र के स्वामी का ही पुत्र माना जाता है।"
+          "english": "A son is declared anantara [one step removed], likewise a son ekāntara [with one varṇa between], and dvyantara [with two varṇas between], in the anuloma order; and likewise in the pratiloma [order].",
+          "hindi": "पुत्र अनन्तर (एक सोपान दूर) कहा गया है, उसी प्रकार एकान्तर (बीच में एक वर्ण) पुत्र, और द्व्यन्तर (बीच में दो वर्ण) — अनुलोम क्रम से; और वैसे ही प्रतिलोम क्रम से भी।",
+          "status": "translated"
         },
         {
           "number": "12.105",
           "ref": "narada_smriti 2.12.105",
           "text": "उग्रः पारशवश् चैव निषादश् चानुलोमतः । उत्तमेभ्यस् त्रयस् त्रिभ्यः शूद्रापुत्राः प्रकीर्तिताः ॥ १०५ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A son born to an unmarried maiden in her father's house is termed Kanina (maiden-born); he belongs to the man who subsequently marries her, and not to the maiden's father.",
-          "hindi_draft": "अविवाहित कन्या के गर्भ से उसके पिता के घर में उत्पन्न पुत्र 'कानीन' कहलाता है; वह कन्या से विवाह करने वाले पुरुष का पुत्र माना जाता है, न कि कन्या के पिता का।"
+          "english": "Ugra, Pāraśava and Niṣāda, in the anuloma order, are declared [to be] the three sons of a Śūdra woman by the three higher [varṇas].",
+          "hindi": "उग्र, पारशव और निषाद — अनुलोम क्रम से — तीन उच्चतर [वर्णों] से उत्पन्न शूद्रा के तीन पुत्र कहे गए हैं।",
+          "status": "translated"
         },
         {
           "number": "12.106",
           "ref": "narada_smriti 2.12.106",
           "text": "ब्राह्मण्या अपि चाण्डालसूतवैदेहका अपि । अपरेभ्यस् त्रयस् त्रिभ्या विज्ञेयः प्रतिलोमतः ॥ १०६ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "When a pregnant woman is married, whether her pregnancy be known or unknown, the child in her womb is termed Sahodha (received with the bride), and belongs to the wedder.",
-          "hindi_draft": "जो स्त्री गर्भिणी होने की अवस्था में विवाहित होती है या जिसका गर्भ ज्ञात होता है, उस गर्भ से उत्पन्न पुत्र 'सहोढ' कहलाता है और वह विवाह करने वाले का ही पुत्र होता है।"
+          "english": "Of a Brāhmaṇa woman, too, [the sons are] Cāṇḍāla, Sūta and Vaidehaka; [these] three from the three lower [varṇas] are to be known as pratiloma.",
+          "hindi": "ब्राह्मणी के भी [पुत्र] चाण्डाल, सूत और वैदेहक हैं; निम्नतर तीन [वर्णों] से [उत्पन्न] ये तीन प्रतिलोम जानने चाहिए।",
+          "status": "translated"
         },
         {
           "number": "12.107",
           "ref": "narada_smriti 2.12.107",
           "text": "अम्बष्ठो मागधश् चैव क्षत्ता च क्षत्रियासुताः । आनुलोम्येन तत्रैको द्वौ ज्ञेयौ प्रतिलोमतः ॥ १०७ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "He who is born secretly in a man's house and whose real father cannot be ascertained, is called Gudhaja (born in secret); he belongs to the master of the house where he was born.",
-          "hindi_draft": "जिसके घर में गुप्त रूप से कोई पुत्र उत्पन्न हो और उसका वास्तविक पिता अज्ञात हो, वह 'गूढज' कहलाता है; उस घर में उत्पन्न होने के कारण वह उसी गृहस्वामी का पुत्र माना जाता है।"
+          "english": "Ambaṣṭha, Māgadha and Kṣattṛ are the sons of a Kṣatriya woman; among them one [is] by anuloma, two are to be known as pratiloma.",
+          "hindi": "अम्बष्ठ, मागध और क्षत्ता क्षत्रिया के पुत्र हैं; उनमें एक अनुलोम से है, दो प्रतिलोम जानने चाहिए।",
+          "status": "translated"
         },
         {
           "number": "12.108",
           "ref": "narada_smriti 2.12.108",
           "text": "वैश्यापुत्रास् तु दौष्षन्तयवनायोगवा अपि । प्रातिलोम्येन यत्रैको द्वौ ज्ञेयौ चानुलोमजौ ॥ १०८ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A child deserted by his parents and taken by someone, or who approaches of his own accord, is termed a Kritaka (adopted/received) son.",
-          "hindi_draft": "जो बालक अपने माता-पिता द्वारा त्याग दिया गया हो और किसी अन्य द्वारा ग्रहण किया गया हो, या स्वयं ही आकर आश्रय ले, वह 'कृतक' (या स्वयमुपागत) पुत्र कहलाता है।"
+          "english": "But the sons of a Vaiśya woman are Dauṣṣanta, Yavana and Āyogava; among whom one [is] by pratiloma, and two are to be known as anuloma-born.",
+          "hindi": "वैश्या के पुत्र दौष्षन्त, यवन और आयोगव हैं; जिनमें एक प्रतिलोम से है और दो अनुलोमज जानने चाहिए।",
+          "status": "translated"
         },
         {
           "number": "12.109",
           "ref": "narada_smriti 2.12.109",
           "text": "सूताद्याः प्रतिलोमास् तु ये जातिप्रतिलोमजाः । ते सङ्कराः श्वपाकाद्यास् तेषां त्रिः सप्तको गणः ॥ १०९ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A child abandoned by parents and taken in as a male or female servant is designated as a Dasa (slave).",
-          "hindi_draft": "माता-पिता द्वारा त्यक्त जो बालक अथवा बालिका दास या दासी के रूप में ग्रहण किया जाता है, वह 'दास' कहलाता है।"
+          "english": "Sūta and the rest are pratiloma; but those who are born pratiloma from [already mixed] jātis — those are saṅkaras (mixed), Śvapāka and the rest; their group is thrice seven [i.e., twenty-one].",
+          "hindi": "सूत आदि प्रतिलोम हैं; पर जो [मिश्रित] जातियों से प्रतिलोम-क्रम में उत्पन्न हैं, वे श्वपाक आदि सङ्कर हैं; उनका गण तीन गुना सात [अर्थात् इक्कीस] है।",
+          "status": "translated"
         },
         {
           "number": "12.110",
           "ref": "narada_smriti 2.12.110",
           "text": "सवर्णो ब्राह्मणीपुत्रः क्षत्रियायाम् अनन्तरः । अम्बष्ठोग्रौ तथा पुत्राव् एवं क्षत्रियवैश्ययोः ॥ ११० ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "A son born of a twice-married woman (Punarbhu) is called Paunarbhava; as to the characteristics of a woman who, whether a virgin or deflowered, enters matrimony again...",
-          "hindi_draft": "पुनर्भ्रू (पुनर्विवाहिता स्त्री) से उत्पन्न पुत्र 'पौनर्भव' कहलाता है; जो स्त्री अक्षतयोनि (अक्षता) या क्षतयोनि (क्षता) होकर पुनः विवाह करती है..."
+          "english": "The son of a Brāhmaṇa woman [by a Brāhmaṇa] is savarṇa (of the same varṇa); [his son] by a Kṣatriya woman is anantara; likewise Ambaṣṭha and Ugra are the two [anantara] sons in the same way of a Kṣatriya and a Vaiśya [father respectively].",
+          "hindi": "ब्राह्मणी का [ब्राह्मण से] पुत्र सवर्ण है; क्षत्रिया में [उत्पन्न उसका पुत्र] अनन्तर है; उसी प्रकार क्षत्रिय और वैश्य के [क्रमशः] अम्बष्ठ और उग्र — ये दो [अनन्तर] पुत्र हैं।",
+          "status": "translated"
         },
         {
           "number": "12.111",
           "ref": "narada_smriti 2.12.111",
           "text": "एकान्तरस् तु दौष्षन्तो वैश्यायां ब्राह्मणात् सुतः । शूद्रायां क्षत्रियात् तद्वन् निषादो नाम जायते ॥ १११ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "She who, having abandoned the husband of her youth, goes to live with another man and subsequently returns to her husband's house, is considered the first class of Punarbhu.",
-          "hindi_draft": "जो स्त्री अपने कौमार (प्रथम) पति को छोड़कर किसी अन्य पुरुष का आश्रय लेती है और पुनः प्रथम पति के घर लौट आती है, वह प्रथम प्रकार की 'पुनर्भ्रू' कहलाती है।"
+          "english": "But the ekāntara [son] is the Dauṣṣanta, son of a Brāhmaṇa by a Vaiśya woman; likewise from a Kṣatriya in a Śūdra woman is born one named Niṣāda.",
+          "hindi": "एकान्तर [पुत्र] तो दौष्षन्त है, जो ब्राह्मण से वैश्या में उत्पन्न पुत्र है; उसी प्रकार क्षत्रिय से शूद्रा में निषाद नामक [पुत्र] उत्पन्न होता है।",
+          "status": "translated"
         },
         {
           "number": "12.112",
           "ref": "narada_smriti 2.12.112",
           "text": "शूद्रा पारशवं सूते ब्राह्मणाद् उत्तरं सुतम् । आनुलोम्येन वर्णानां पुत्रा ह्य् एते प्रकीर्तिताः ॥ ११२ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "She who, having left the husband of her youth, resorts to another man and is given in marriage to him by her kinsmen, is remembered as the second class of Punarbhu.",
-          "hindi_draft": "जो स्त्री अपने कौमार पति को छोड़कर किसी अन्य पुरुष के पास चली जाती है और उसके बान्धव उसे उस पुरुष को सौंप देते हैं, वह द्वितीय प्रकार की 'पुनर्भ्रू' मानी जाती है।"
+          "english": "A Śūdra woman bears by a Brāhmaṇa the Pāraśava, the furthest son. These are declared the sons of the varṇas in anuloma order.",
+          "hindi": "शूद्रा ब्राह्मण से पारशव — [सबसे] उत्तर (दूरस्थ, द्व्यन्तर) पुत्र — को जन्म देती है। अनुलोम क्रम से वर्णों के ये पुत्र कहे गए हैं।",
+          "status": "translated"
         },
         {
           "number": "12.113",
           "ref": "narada_smriti 2.12.113",
           "text": "सूतश् च मागधश् चैव पुत्राव् आयोगवस् तथा । प्रातिलोम्येन वर्णानां तद्वद् एते ऽप्य् अनन्तराः ॥ ११३ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "She who, having no brother-in-law or sapinda available, of her own accord unites with any man, not having been legally married previously, is remembered as the third class of Punarbhu.",
-          "hindi_draft": "जो स्त्री देवर या सपिण्ड के न होने पर अथवा अपनी स्वेच्छा से किसी पुरुष को स्वीकार करती है, जो पूर्व में विधिवत् सम्बद्ध न रही हो, वह तृतीय प्रकार की 'पुनर्भ्रू' कहलाती है।"
+          "english": "Sūta and Māgadha, and likewise Āyogava, are sons of the varṇas in pratiloma order; these too are anantara in the same way.",
+          "hindi": "सूत और मागध, तथा आयोगव — ये वर्णों के प्रतिलोम क्रम के पुत्र हैं; ये भी उसी प्रकार अनन्तर हैं।",
+          "status": "translated"
         },
         {
           "number": "12.114",
           "ref": "narada_smriti 2.12.114",
           "text": "अनन्तरः स्मृतः सूतो ब्राह्मण्यां क्षत्रियात् सुतः । मागधायोगवौ तद्वद् द्वी पुत्रौ वैश्यशूद्रयोः ॥ ११४ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "When her husband's family is ruined, childless, and destitute of support, she who of her own accord goes to another man is remembered as a Punarbhu.",
-          "hindi_draft": "जब पति का कुल नष्ट हो गया हो, निष्कलंक तथा निराश्रय हो, और वह स्वयं ही किसी पुरुष के पास चली जाए, तो वह भी 'पुनर्भ्रू' मानी जाती है।"
+          "english": "The Sūta, son of a Kṣatriya by a Brāhmaṇa woman, is declared anantara; likewise Māgadha and Āyogava, the two sons of a Vaiśya and a Śūdra [father respectively].",
+          "hindi": "क्षत्रिय से ब्राह्मणी में उत्पन्न पुत्र सूत अनन्तर कहा गया है; उसी प्रकार मागध और आयोगव — वैश्य और शूद्र [पिता] के दो पुत्र [भी अनन्तर हैं]।",
+          "status": "translated"
         },
         {
           "number": "12.115",
           "ref": "narada_smriti 2.12.115",
           "text": "ब्राह्मण्य् एकान्तरं वैश्यात् सूते वैदेहकं सुतम् । क्षत्तारं क्षत्रिया शूद्रात् पुत्रम् एकान्तरं तथा ॥ ११५ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "But she who, casting aside the position of a wife, angrily commits adultery and associates with men at her pleasure, is remembered as the second class of Svairini (unrestrained woman).",
-          "hindi_draft": "जो स्त्री पत्नी-धर्म का त्याग करके व्यभिचारवश कुपित होकर स्वेच्छा से अन्य पुरुषों का सेवन करती है, वह द्वितीय प्रकार की 'स्वैरिणी' कहलाती है।"
+          "english": "A Brāhmaṇa woman bears by a Vaiśya the ekāntara son Vaidehaka; likewise a Kṣatriya woman [bears] by a Śūdra the ekāntara son Kṣattṛ.",
+          "hindi": "ब्राह्मणी वैश्य से एकान्तर पुत्र वैदेहक को जन्म देती है; उसी प्रकार क्षत्रिया शूद्र से एकान्तर पुत्र क्षत्ता को।",
+          "status": "translated"
         },
         {
           "number": "12.116",
           "ref": "narada_smriti 2.12.116",
           "text": "द्व्यन्तरः प्रातिलोम्येन पापिष्ठः सति सङ्करे । चाण्डालो जायते शूद्राद् ब्राह्मणी यत्र मुह्यति ॥ ११६ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "She who, disregarding local customs, is given away in marriage by her father or relatives out of lust or interest, is remembered as the third class of Svairini.",
-          "hindi_draft": "जो स्त्री देश-धर्म (स्थानीय प्रथाओं) का अनादर करके पिता या बान्धवों द्वारा कामवश (या स्वार्थवश) किसी को सौंप दी जाती है, वह तृतीय प्रकार की 'स्वैरिणी' मानी जाती है।"
+          "english": "The dvyantara [son] in pratiloma order, the most sinful where there is mixing: the Cāṇḍāla is born from a Śūdra, where a Brāhmaṇa woman goes astray.",
+          "hindi": "प्रतिलोम क्रम से द्व्यन्तर [पुत्र], सङ्कर होने पर सबसे पापिष्ठ: शूद्र से चाण्डाल उत्पन्न होता है, जहाँ ब्राह्मणी मोहवश भटक जाती है।",
+          "status": "translated"
         },
         {
           "number": "12.117",
           "ref": "narada_smriti 2.12.117",
           "text": "राज्ञा परीक्ष्यं न यथा जायते वर्णसङ्करः । तस्माद् राज्ञा विशेषेण त्रयी रक्ष्या तु सङ्करात् ॥ ११७ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "She who is brought from another country, purchased, or seduced with enticements, and becomes the wife of another man, is remembered as the fourth class of Svairini.",
-          "hindi_draft": "जो स्त्री दूसरे देश से बुलाई गई हो, खरीदी गई हो अथवा प्रलोभन देकर लाई गई हो और किसी अन्य की पत्नी बनती है, वह चतुर्थ प्रकार की 'स्वैरिणी' कहलाती है।"
+          "english": "It must be examined by the king so that varṇasaṅkara does not arise; therefore the king should especially protect the three [varṇas / the triple Veda] from mixing.",
+          "hindi": "राजा को ऐसी परीक्षा (जाँच) करनी चाहिए कि वर्णसङ्कर उत्पन्न न हो; इसलिए राजा को विशेष रूप से त्रयी [तीन वर्णों / तीन वेदों] की सङ्कर से रक्षा करनी चाहिए।",
+          "status": "translated"
         },
         {
           "number": "13.1",
           "ref": "narada_smriti 2.13.1",
           "text": "विभागो ऽर्थस्य पित्र्यस्य पुत्रैर् यत्र प्रकल्प्यते । दायभाग इति प्रोक्तं तद् विवादपदं बुधैः ॥ १ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "After the father has passed away, his property should be partitioned by the sons; for they have no ownership while the father is alive.",
-          "hindi_draft": "पिता के परलोक गमन के पश्चात् पुत्रों द्वारा पिता के धन का विभाजन किया जाना चाहिए; क्योंकि पिता के जीवित रहते पुत्रों का उसमें स्वामित्व नहीं होता।"
+          "english": "Where a division of the paternal property is arranged by the sons, that title of dispute (vivādapada) is called dāyabhāga [partition of inheritance] by the wise.",
+          "hindi": "जहाँ पुत्रों द्वारा पैतृक धन का विभाग किया जाता है, उस विवादपद को बुद्धिमानों ने दायभाग (उत्तराधिकार का बँटवारा) कहा है।",
+          "status": "translated"
         },
         {
           "number": "13.2",
           "ref": "narada_smriti 2.13.2",
           "text": "पितर्य् ऊर्ध्वं मृते पुत्रा विभजेयुर् धनं पितुः । मातुर् दुहितरो ऽभावे दुहितीऋणां तदन्वयः ॥ २ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Partition may also be made while the father lives, if the mother is past child-bearing, the father's worldly desires have ceased, the daughters have been married, or after paternal debts are cleared.",
-          "hindi_draft": "पिता के जीवित रहते भी बंटवारा हो सकता है, यदि माता रजोवृत्ति से निवृत्त हो चुकी हो, पिता की काम-वासना शांत हो चुकी हो, कन्याओं का विवाह हो चुका हो, अथवा पैतृक ऋण चुका दिया गया हो।"
+          "english": "After the father has died, the sons should divide the father's wealth; the daughters [should divide the property] of the mother; in the absence [of daughters], their line of descent [inherits].",
+          "hindi": "पिता के मरने के बाद पुत्र पिता के धन का विभाग करें; माता के [धन का विभाग] पुत्रियाँ [करें]; [पुत्रियों के] अभाव में उनकी सन्तति (वंश) [को मिले]।",
+          "status": "translated"
         },
         {
           "number": "13.3",
           "ref": "narada_smriti 2.13.3",
           "text": "मातुर् निवृत्ते रजसि प्रत्तासु भगिनीषु च । निरष्टे वाप्य् अमरणे पितर्य् उपरतस्पृहे ॥ ३ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "After the father's death, if the brothers do not wish to partition, they may live together under the eldest, who fulfills all their wishes like a father.",
-          "hindi_draft": "पिता की मृत्यु के बाद यदि भाई बंटवारा न करना चाहें, तो वे एक साथ मिलकर रह सकते हैं, अथवा ज्येष्ठ भाई पिता के समान सभी भाइयों की कामनाओं की पूर्ति करते हुए उनका पालन करे।"
+          "english": "When the mother's menses has ceased and the sisters have been given [in marriage], or else when [the father's desire] is extinct even while [he is] not dead, the father having ceased from longing — [then the sons may divide].",
+          "hindi": "जब माता का रजस् निवृत्त हो गया हो और बहनें [विवाह में] दे दी गई हों, अथवा [पिता के] न मरने पर भी [उसकी कामना] निःशेष हो गई हो, पिता की स्पृहा शान्त हो चुकी हो — [तब पुत्र विभाग कर सकते हैं]।",
+          "status": "translated"
         },
         {
           "number": "13.4",
           "ref": "narada_smriti 2.13.4",
           "text": "पितैव वा स्वयं पुत्रान् विभजेद् वयसि स्थितः । ज्येष्ठं श्रेष्ठविभागेन यथा वास्य मतिर् भवेत् ॥ ४ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "The eldest brother should maintain all others like a father according to law; or whichever brother is capable and competent, to him belongs the management of the household.",
-          "hindi_draft": "ज्येष्ठ भाई शास्त्रानुसार पिता के समान सभी भाइयों का पालन करे; अथवा जो भाई अधिक योग्य और कार्यकुशल हो, परिवार का गृहस्थी-प्रबन्ध उसी के अधीन होना चाहिए।"
+          "english": "Or the father himself, while still in [his] prime of life, may separate the sons, [honouring] the eldest with the best share, or as his own judgement may be.",
+          "hindi": "अथवा पिता स्वयं, आयु [के उचित काल] में स्थित रहते हुए, पुत्रों का विभाग कर दे — ज्येष्ठ को श्रेष्ठ भाग देकर, अथवा जैसी उसकी इच्छा (मति) हो।",
+          "status": "translated"
         },
         {
           "number": "13.5",
           "ref": "narada_smriti 2.13.5",
           "text": "बिभृयाद् वेच्छतः सर्वाञ् ज्येष्ठो भ्राता यथा पिता । भ्राता शक्तः कनिष्ठो वा शक्त्यपेक्षः कुले क्रिया ॥ ५ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "That topic of litigation wherein the partition of paternal heritage by sons is determined, is designated by the wise as 'Daya-bhaga' (Partition of Heritage).",
-          "hindi_draft": "पिता के धन का विभाजन करते समय जिसके द्वारा दाय (उत्तराधिकार) का निर्धारण होता है, बुद्धिमानों ने उस विवाद-पद को 'दायभाग' (उत्तराधिकार का विभाजन) कहा है।"
+          "english": "Or the eldest brother may support all [of them], if they wish, like a father; or a capable brother, [even] a younger one — [management of affairs] in the family depends on capability.",
+          "hindi": "अथवा, यदि वे चाहें, ज्येष्ठ भ्राता पिता की तरह सबका भरण-पोषण करे; अथवा कोई समर्थ भाई, [चाहे] छोटा ही हो — कुल में कार्य (प्रबन्ध) सामर्थ्य पर निर्भर है।",
+          "status": "translated"
         },
         {
           "number": "13.6",
           "ref": "narada_smriti 2.13.6",
           "text": "शौर्यभार्याधने हित्वा यच् च विद्याधनं भवेत् । त्रीण्य् एतान्य् अविभाज्यानि प्रसादो यश् च पैतृकः ॥ ६ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "When sons have been partitioned by the father himself according to his own choice, no son can claim a further share of the paternal estate during the father's lifetime.",
-          "hindi_draft": "जब पिता ने स्वयं अपनी इच्छानुसार पुत्रों में विभाजन कर दिया हो, तो पिता के जीवित रहते कोई पुत्र पैतृक धन में से पुनः अंश का दावा नहीं कर सकता।"
+          "english": "Excepting wealth gained by valour (śaurya-dhana) and the wife's wealth (bhāryā-dhana), and whatever is wealth from learning (vidyā-dhana) — these three are impartible (avibhājya), and [so is] a favour (prasāda) from the father.",
+          "hindi": "शौर्यधन (पराक्रम से अर्जित धन) और भार्याधन (पत्नी का धन) को छोड़कर, और जो विद्याधन (विद्या से अर्जित धन) हो — ये तीन अविभाज्य हैं, और पिता से मिला प्रसाद (कृपा-दान) भी।",
+          "status": "translated"
         },
         {
           "number": "13.7",
           "ref": "narada_smriti 2.13.7",
           "text": "मात्रा च स्वधनं दत्तं यस्मै स्यात् प्रीतिपूर्वकम् । तस्याप्य् एष विधिर् दृष्टो मातापीष्टे यथा पिता ॥ ७ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Whether undivided or divided, equality of rights exists among them; there can be no retracting of allotted shares, except for liquidating paternal debt.",
-          "hindi_draft": "चाहे भाई अविभक्त हों या विभक्त, स्वामित्व में समता होती है; आवंटित अंशों का पुनरादान (वापस लेना) नहीं हो सकता, सिवाय पैतृक ऋण के शोधन के।"
+          "english": "And [property] from her own wealth (svadhana) which the mother has given to anyone out of affection — for that too this same rule is seen; the mother, too, has [such] authority, as the father [has].",
+          "hindi": "और माता ने अपने स्वधन से जिसे प्रीतिपूर्वक [कुछ] दिया हो — उसके लिए भी यही विधि देखी गई है; पिता की भाँति माता का भी [उस पर] अधिकार है।",
+          "status": "translated"
         },
         {
           "number": "13.8",
           "ref": "narada_smriti 2.13.8",
           "text": "अध्यग्न्यध्यावहनिकं भर्तृदायस् तथैव च । भ्रातृमातृपितृभ्यश् च षड्विधं स्त्रीधनं स्मृतम् ॥ ८ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Whatever property has been taken away or given by the father himself to any son, that son alone shall be its master; or his maintenance, apart from the father.",
-          "hindi_draft": "पिता द्वारा स्वयं जिस पुत्र का धन लिया गया हो या जिसे पुनः दिया गया हो, वही उसका स्वामी होगा; अथवा पिता के अधिकार के बिना भरण-पोषण प्राप्त होगा।"
+          "english": "[What was given] before the [nuptial] fire (adhyagni), at the bridal procession (adhyāvahanika), and the husband's gift (bhartṛ-dāya), and [gifts] from brother, mother and father — strīdhana is declared to be sixfold.",
+          "hindi": "अध्यग्नि ([विवाह-]अग्नि के समक्ष दिया गया), अध्यावहनिक (विदाई के समय दिया गया), भर्तृदाय (पति का दिया हुआ), और भाई, माता तथा पिता से [मिला] — स्त्रीधन छह प्रकार का कहा गया है।",
+          "status": "translated"
         },
         {
           "number": "13.9",
           "ref": "narada_smriti 2.13.9",
           "text": "स्त्रीधनं तदपत्यानां भर्तृगाम्य् अप्रजासु च । ब्राह्मादिषु चतुःष्व् आहुः पितृगामीतरेषु तु ॥ ९ ॥",
-          "english": "",
-          "hindi": "",
-          "status": "drafted",
-          "english_draft": "Whatever property is self-acquired through one's own exertions without detriment to the paternal estate, he need not give up to others against his will.",
-          "hindi_draft": "पैतृक सम्पत्ति को क्षति पहुँचाए बिना जो धन स्वयं के प्रयास से अर्जित किया गया हो, उसे व्यक्ति अपनी अनिच्छा से दूसरों को देने के लिए बाध्य नहीं है।"
+          "english": "Strīdhana [goes] to her children; and in the case of childless [women], they say it goes to the husband in the four [marriage forms] beginning with Brāhma, but in the others it goes to the father.",
+          "hindi": "स्त्रीधन उसकी सन्तानों का होता है; और निःसन्तान [स्त्रियों] के विषय में, ब्राह्म आदि चार [विवाहों] में वह पति को जाता है, पर अन्य [विवाहों] में पिता को — ऐसा कहते हैं।",
+          "status": "translated"
         },
         {
           "number": "13.10",
@@ -5394,8 +5338,8 @@
           "number": "13.14",
           "ref": "narada_smriti 2.13.14",
           "text": "क्षेत्रजेष्व् अपि पुत्रेषु तद्वज् जातेषु धर्मतः । वर्णावरेष्व् अंशहानिर् ऊढाजातेष्व् अनुक्रमात् ॥ १४ ॥",
-          "english": "Likewise among Kshetraja sons legally begotten, and among sons born of wives of lower castes in due order, there is a gradual deduction of shares.",
-          "hindi": "धर्मानुसार उत्पन्न क्षेत्रज पुत्रों में, तथा अनुक्रम से निम्न वर्ण की पत्नियों से उत्पन्न पुत्रों में भी इसी प्रकार अंश (भाग) की हानि (कमी) होती है।",
+          "english": "Likewise among kṣetraja sons born lawfully [the same division holds]; among sons born of wives of lower varṇa there is a reduction of shares, in order.",
+          "hindi": "इसी प्रकार धर्मपूर्वक उत्पन्न क्षेत्रज पुत्रों में भी [वही बँटवारा लागू होता है]; निम्न वर्ण की विवाहित पत्नियों से उत्पन्न पुत्रों में क्रम से अंश की कमी होती है।",
           "status": "translated"
         },
         {
@@ -5466,8 +5410,8 @@
           "number": "13.23",
           "ref": "narada_smriti 2.13.23",
           "text": "संसृष्टिनां तु यो भागस् तेषाम् एव स इष्यते । अतो ऽन्यथांशभाजो हि निर्बीजिष्व् इतरान् इयात् ॥ २३ ॥",
-          "english": "The share of reunited co-heirs is declared to belong to themselves alone; otherwise, if a reunited member dies without issue, his share goes to the other reunited brothers.",
-          "hindi": "संसृष्टी (पुनः संयुक्त हुए) भाइयों का अंश उन्हीं का माना जाता है; अन्यथा यदि कोई संसृष्टी निःसन्तान मर जाए, तो उसका अंश अन्य संसृष्टी भाइयों को प्राप्त होता है।",
+          "english": "But whatever share belongs to reunited [coparceners] (saṃsṛṣṭin) is held to be theirs alone; otherwise, among those who die without issue, [the share] goes to the other sharers.",
+          "hindi": "संसृष्टी (पुनः संयुक्त) [भागीदारों] का जो भाग है, वह उन्हीं का माना जाता है; अन्यथा, निःसन्तान मरने वालों का [भाग] अन्य अंशभागियों को जाता है।",
           "status": "translated"
         },
         {
@@ -5874,8 +5818,8 @@
           "number": "14.25",
           "ref": "narada_smriti 2.14.25",
           "text": "ग्रामेष्व् अन्वेषणं कुर्युश् चण्डालवधकादयः । रात्रिसञ्चारिणो ये च बहिः कुर्युर् बहिश्चराः ॥ २५ ॥",
-          "english": "Outcastes (Chaṇḍālas), executioners, night-watchmen, and those who roam outside the village should carry out the search within villages and outer bounds.",
-          "hindi": "चांडाल, वधक (जल्लाद), रात्रि में घूमने वाले चौकीदार तथा बाहर विचरण करने वाले लोग गाँवों के भीतर तथा बाहर खोज-बीन का कार्य करें।",
+          "english": "Caṇḍālas, executioners and the like, and those who move about at night, should make the search in the villages; those who roam outside should make it outside.",
+          "hindi": "चाण्डाल, वधक आदि तथा जो रात्रि में विचरते हैं, वे गाँवों में खोज करें; जो बाहर विचरते हैं वे बाहर [खोज] करें।",
           "status": "translated"
         },
         {
@@ -6066,16 +6010,16 @@
           "number": "15.23",
           "ref": "narada_smriti 2.15.23",
           "text": "नामजातिग्रहं तेषाम् अभिद्रोहेण कुर्वतः । निखेयो ऽयोमयः शङ्कुः शूद्रस्याष्टादशाङ्गुलः ॥ २३ ॥",
-          "english": "If a Shudra insultingly mentions the name and caste of the twice-born with malice, an iron spike eighteen inches long shall be thrust into his mouth.",
-          "hindi": "यदि कोई शूद्र अहंकार व द्वेषपूर्वक द्विजों के नाम और जाति का उच्चारण करे, तो उस शूद्र के मुख में अठारह अंगुल का लोहे का कील (शंकु) ठोंक दिया जाना चाहिए।",
+          "english": "Of a Śūdra who, with malice, utters [mentions] the name and caste of these [twice-born], an iron spike eighteen aṅgulas [finger-breadths] long is to be driven in [into his mouth].",
+          "hindi": "जो शूद्र द्वेषपूर्वक इन [द्विजों] के नाम और जाति का उल्लेख करे, उसके [मुख में] अठारह अंगुल लम्बी लोहे की कील ठोंकी जाए।",
           "status": "translated"
         },
         {
           "number": "15.24",
           "ref": "narada_smriti 2.15.24",
           "text": "धर्मापदेशं दर्पेण द्विजानाम् अस्य कुर्वतः । तप्तम् आसेचयेत् तैलं वक्त्रे श्रोत्रे च पार्थिवः ॥ २४ ॥",
-          "english": "If a Shudra arrogantly teaches duty to Brahmins, the King shall cause boiling oil to be poured into his mouth and ears.",
-          "hindi": "यदि कोई शूद्र घमंड में आकर द्विजों (ब्राह्मणों) को धर्म का उपदेश दे, तो राजा को उसके मुख और कानों में खौलता हुआ तेल डलवा देना चाहिए।",
+          "english": "Of this one [the Śūdra] who arrogantly instructs the twice-born (dvija) in dharma, the king should have heated oil poured into the mouth and ear.",
+          "hindi": "जो यह [शूद्र] घमण्ड से द्विजों को धर्म का उपदेश देता है, राजा उसके मुख और कान में तपा हुआ तेल डलवाए।",
           "status": "translated"
         },
         {
@@ -6562,8 +6506,8 @@
           "number": "17.48",
           "ref": "narada_smriti 2.17.48",
           "text": "स्वकर्मणि द्विजस् तिष्ठेद् वृत्तिम् आहारयेत् कृताम् । नासद्भ्यः प्रतिगृह्णीयाद् वर्णेभ्यो नियमे ऽसति ॥ ४८ ॥",
-          "english": "A twice-born man (Brahmana) should remain steadfast in his own duty and earn his designated livelihood; he must not accept gifts from unrighteous persons or lower castes unless in times of distress.",
-          "hindi": "द्विज (ब्राह्मण) को अपने धर्म में स्थिर रहना चाहिए और निर्धारित वृत्ति से आजीविका चलानी चाहिए; विशेष आपातकाल के बिना उसे दुष्ट व्यक्तियों अथवा हीन वर्णों से दान स्वीकार नहीं करना चाहिए।",
+          "english": "A twice-born should abide in his own work and should obtain the livelihood [that is] laid down [for him]; he should not accept [gifts] from wicked [members of the] varṇas when there is no [special] rule [allowing it].",
+          "hindi": "द्विज अपने कर्म में स्थित रहे और [उसके लिए] निर्धारित वृत्ति से आजीविका प्राप्त करे; जब कोई [विशेष] नियम [अनुमति देने वाला] न हो, तब वह वर्णों में से दुष्ट लोगों से [दान] स्वीकार न करे।",
           "status": "translated"
         },
         {
@@ -6704,8 +6648,8 @@
           "number": "19.13",
           "ref": "narada_smriti 3.19.13",
           "text": "न त्व् अहोढान्विताश् चौरा राज्ञा वध्या ह्य् अनागमाः । सहोढान् सोपकरणान् क्षिप्रं चौरान् प्रशासयेत् ॥ १३ ॥",
-          "english": "However, thieves without stolen property (sahodha) and without clear proof should not be executed by the king; but those caught with stolen goods and burglary tools should be punished immediately.",
-          "hindi": "परन्तु बिना माल के और बिना स्पष्ट साक्ष्य के पकड़े गए संदिग्धों को राजा मृत्युदण्ड न दे; लेकिन जो चुराए गए माल और ताले तोड़ने के औजारों सहित पकड़े जाएँ, उन्हें तुरंत दण्डित करे।",
+          "english": "But thieves not found with stolen goods (ahoḍha) and without proof (anāgama) should not be executed by the king; those [caught] with stolen goods (sahoḍha) and with implements he should punish at once.",
+          "hindi": "परन्तु बिना चोरी के माल (अहोढ) के और बिना प्रमाण (अनागम) के पकड़े गए चोरों को राजा मृत्युदण्ड न दे; जो चोरी के माल (सहोढ) और [चोरी के] उपकरणों सहित पकड़े जाएँ, उन्हें शीघ्र दण्डित करे।",
           "status": "translated"
         },
         {
@@ -6720,8 +6664,8 @@
           "number": "19.15",
           "ref": "narada_smriti 3.19.15",
           "text": "अहोढान् विमृशेच् चौरान् गृहीतान् परिशङ्कया । भयोपधाभिश् चित्राभिर् ब्रूयुस् तथा यथाकृतम् ॥ १५ ॥",
-          "english": "Suspects captured on mere doubt without stolen property should be investigated; through diverse intimidating inquiries, they should be made to speak the truth of what was done.",
-          "hindi": "बिना माल के केवल संदेह पर पकड़े गए व्यक्तियों की सूक्ष्म जाँच करनी चाहिए; विविध भयमुक्त एवं कुशल पूछताछ के तरीकों से उनसे सच उगलवाना चाहिए।",
+          "english": "He should examine thieves seized on suspicion without the stolen goods (ahoḍha); by various [devices of] intimidation and stratagem (bhaya-upadhā) they should be made to tell how it was done.",
+          "hindi": "माल (होढ) के बिना केवल शंका पर पकड़े गए चोरों की वह जाँच करे; भय और छल (भय-उपधा) के विविध उपायों से उनसे कहलवाया जाए कि [अपराध] कैसे किया गया।",
           "status": "translated"
         },
         {
@@ -6736,8 +6680,8 @@
           "number": "19.17",
           "ref": "narada_smriti 3.19.17",
           "text": "वर्णस्वराकारभेदात् ससन्दिग्धनिवेदनात् । अदेशकालदृष्टत्वाद् वासस्याप्य् अविशोधनात् ॥ १७ ॥",
-          "english": "From variations in tone, voice, and appearance, from suspicious answers, from being seen at improper times and places, or from unwashed/suspicious garments—",
-          "hindi": "वाणी के बदलाव, स्वर और चेहरे के हाव-भाव में परिवर्तन, सन्दिग्ध उत्तर देने, असमय और अनुचित स्थान पर दिखने, या बिना धोए संदिग्ध वस्त्रों से—",
+          "english": "From a change in complexion, voice or demeanour, from a doubtful account [of himself], from being seen at an improper place or time, and from not clearing up [the matter of] his dwelling (vāsa)—",
+          "hindi": "रंग, स्वर और आकार (हाव-भाव) के बदलने से, संदिग्ध विवरण देने से, अनुचित स्थान और समय पर देखे जाने से, और अपने निवास (वास) के विषय में स्पष्टता न देने से—",
           "status": "translated"
         },
         {
@@ -6752,8 +6696,8 @@
           "number": "19.19",
           "ref": "narada_smriti 3.19.19",
           "text": "दस्युवृत्ते यदि नरे शङ्का स्यात् तस्करे ऽपि वा । यदि स्पृश्येत लेशेन कार्यः स्याच् छपथः ततः ॥ १९ ॥",
-          "english": "If a person is suspected of robbery or theft and is touched even by a trace of circumstantial proof, an oath or divine test should be administered to him.",
-          "hindi": "यदि किसी मनुष्य पर डकैती या चोरी का संदेह हो और उस पर थोड़े भी साक्ष्य की पुष्टि होती हो, तो उससे शपथ या दिव्य परीक्षा करानी चाहिए।",
+          "english": "If there is suspicion about a man of robber's conduct, or about a thief, and if he is touched even by a trace [of evidence], then an oath (śapatha) should be administered.",
+          "hindi": "यदि दस्यु-आचरण वाले मनुष्य पर, अथवा चोर पर, शंका हो और यदि वह लेशमात्र [प्रमाण] से भी स्पृष्ट हो, तो उससे शपथ (शपथ) कराई जाए।",
           "status": "translated"
         },
         {
@@ -6776,8 +6720,8 @@
           "number": "19.22",
           "ref": "narada_smriti 3.19.22",
           "text": "राष्ट्रेषु राष्ट्राधिकृताः सामन्ताश् चैव चोदिताः । अभ्याघातेषु मध्यस्था यथा चौरास् तथैव ते ॥ २२ ॥",
-          "english": "District governors and feudal lords in the realm who remain passive during robberies shall be treated as thieves and punished accordingly.",
-          "hindi": "राज्य के अधिकारी और सामंत जिन्हें क्षेत्रों की सुरक्षा सौंपी गई है, यदि वे डकैती के समय उदासीन रहते हैं तो उन्हें भी चोरों की भांति दण्डित किया जाना चाहिए।",
+          "english": "Officials in charge of the provinces (rāṣṭrādhikṛta) and neighbours (sāmanta) who, when called upon (codita), remain neutral during attacks [by robbers] are [to be treated] just like thieves.",
+          "hindi": "राष्ट्रों में नियुक्त अधिकारी (राष्ट्राधिकृत) और सामन्त (पड़ोसी), जो बुलाए जाने (चोदित) पर भी आक्रमणों के समय तटस्थ रहें, वे चोरों के समान ही [दण्डनीय] हैं।",
           "status": "translated"
         },
         {
@@ -6808,16 +6752,16 @@
           "number": "19.26",
           "ref": "narada_smriti 3.19.26",
           "text": "यदि वा दाप्यमानानां तस्मिन् मोषे तु संशयः । मुषितः शपथं शाप्यो मोषे वैशोध्यकारणात् ॥ २६ ॥",
-          "english": "If there is doubt regarding the exact value claimed by the victim who is receiving compensation, the victim must take an oath to verify the loss.",
-          "hindi": "यदि हर्जाना दिलाए जाने के समय पीड़ित द्वारा बताए गए माल के मूल्य पर संशय हो, तो पीड़ित व्यक्ति को वास्तविक नुकसान सिद्ध करने के लिए शपथ दिलानी चाहिए।",
+          "english": "Or if those being made to pay (dāpyamāna) have a doubt about that theft, the robbed man should be made to take an oath, in order to clear [the matter of] the theft.",
+          "hindi": "अथवा यदि [भरपाई के लिए] बाध्य किए जा रहे लोगों (दाप्यमान) को उस चोरी के विषय में संशय हो, तो चोरी के विषय की शुद्धि के लिए जिसकी चोरी हुई है उसे शपथ दिलाई जाए।",
           "status": "translated"
         },
         {
           "number": "19.27",
           "ref": "narada_smriti 3.19.27",
           "text": "अचौरे दापिते मोषं चौर्यवैशोध्यकारणात् । चौरे लब्धे लभेयुस् ते द्विगुणं प्रतिपादिताः ॥ २७ ॥",
-          "english": "If an innocent officer is made to compensate for a theft and later the real thief is captured, the officer shall receive double the compensated amount from the thief.",
-          "hindi": "यदि किसी निर्दोष अधिकारी से चोरी की भरपाई कराई गई हो और बाद में असली चोर पकड़ा जाए, तो उस अधिकारी को चोर से दोगुनी राशि वापस दिलाई जानी चाहिए।",
+          "english": "When a non-thief has been made to pay for the theft for the sake of clearing [the matter of] the theft, and the thief is [later] found, those who paid should receive double [the amount].",
+          "hindi": "चोरी की शुद्धि के लिए जब किसी अचोर से चोरी की भरपाई कराई गई हो, और [बाद में] चोर मिल जाए, तो जिन्होंने भरपाई की थी उन्हें दोगुना मिले।",
           "status": "translated"
         },
         {
@@ -6832,8 +6776,8 @@
           "number": "19.29",
           "ref": "narada_smriti 3.19.29",
           "text": "काष्ठकाण्डतृणादीनां मृन्मयानां तथैव च । वेणुवैणवभाण्डानां वेत्रस्नाय्वस्थिचर्मणाम् ॥ २९ ॥",
-          "english": "In cases of theft of wood, logs, straw, earthenware, bamboo products, cane, sinews, bones, and hides—",
-          "hindi": "लकड़ी, तिनके, मिट्टी के बर्तन, बांस के सामान, बेंत, तांत, हड्डी और चमड़े की चोरी में—",
+          "english": "In cases of theft of wood, stalks (kāṇḍa), grass, earthenware, bamboo and bamboo-made vessels, cane, sinews, bones and hides—",
+          "hindi": "लकड़ी, डंठल (काण्ड), तृण, मिट्टी की वस्तुओं, बाँस और बाँस से बने पात्रों, बेंत, तांत (स्नायु), हड्डी और चमड़े की चोरी में—",
           "status": "translated"
         },
         {
@@ -6872,24 +6816,24 @@
           "number": "19.34",
           "ref": "narada_smriti 3.19.34",
           "text": "सुवर्णरजतादीनाम् उत्तमानां च वाससाम् । रत्नानां चैव मुख्यानां शताद् अभ्यधिकं वधः ॥ ३४ ॥",
-          "english": "For stealing gold, silver, fine garments, or precious gems exceeding one hundred palas/karshas in value, capital punishment is prescribed.",
-          "hindi": "सोना, चाँदी, उत्तम वस्त्र या बहुमूल्य रत्नों की सौ पल/कार्षापण से अधिक की चोरी करने पर मृत्युदण्ड की व्यवस्था है।",
+          "english": "For [stealing] more than a hundred [units] of gold, silver and the like, of the finest garments, and of the chief gems, death [is the punishment].",
+          "hindi": "सोना, चाँदी आदि, उत्तम वस्त्रों और मुख्य रत्नों की सौ [इकाइयों] से अधिक की चोरी पर मृत्युदण्ड है।",
           "status": "translated"
         },
         {
           "number": "19.35",
           "ref": "narada_smriti 3.19.35",
           "text": "पुरुषं हरतः पात्यो दण्ड उत्तमसाहसः । सर्वस्वं स्त्रीं तु हरतः कन्यां तु हरतो वधः ॥ ३५ ॥",
-          "english": "For stealing a man, the highest fine (Uttama-sahasa) is imposed; for stealing a married woman or a maiden, capital punishment is decreed.",
-          "hindi": "पुरुष का अपहरण करने पर उत्तम साहस दण्ड; और किसी विवाहिता स्त्री या कन्या का अपहरण करने पर मृत्युदण्ड का नियम है।",
+          "english": "For one who steals a man, the highest amercement (uttama-sāhasa) is to be imposed; for one who steals a woman, [confiscation of] his entire property; but for one who steals a maiden, death.",
+          "hindi": "पुरुष का हरण करने वाले पर उत्तम साहस दण्ड लगाया जाए; स्त्री का हरण करने वाले की सम्पूर्ण सम्पत्ति (सर्वस्व) [जब्त की जाए]; किन्तु कन्या का हरण करने वाले को मृत्युदण्ड।",
           "status": "translated"
         },
         {
           "number": "19.36",
           "ref": "narada_smriti 3.19.36",
           "text": "महापशून् स्तेनयतो दण्ड उत्तमसाहसः । मध्यमो मध्यमपशुं पूर्वः क्षुद्रपशुं हरन् ॥ ३६ ॥",
-          "english": "For stealing large cattle (horses, elephants, noble bulls), the fine is highest (Uttama-sahasa); for medium cattle, medium fine; for small animals, lowest fine.",
-          "hindi": "बड़े पशुओं (घोड़े, हाथी, उत्तम बैल) की चोरी पर उत्तम साहस दण्ड; मध्यम पशुओं पर मध्यम दण्ड; और छोटे पशुओं (बकरी, भेड़) पर प्रथम (प्रथम साहस) दण्ड लागू होता है।",
+          "english": "For one stealing large animals the fine is the highest amercement (uttama-sāhasa); for a medium animal, the middle [amercement]; for one taking a small animal, the first [amercement].",
+          "hindi": "बड़े पशुओं की चोरी करने वाले पर उत्तम साहस दण्ड; मध्यम पशु पर मध्यम [साहस]; और छोटे पशु का हरण करने वाले पर प्रथम (पूर्व) [साहस] दण्ड।",
           "status": "translated"
         },
         {
@@ -6920,8 +6864,8 @@
           "number": "19.40",
           "ref": "narada_smriti 3.19.40",
           "text": "गोषु ब्राह्मणसंस्थासु स्थूरायाश् छेदनं भवेत् । दासीं तु हरतो नित्यम् अर्धपादविकर्तनम् ॥ ४० ॥",
-          "english": "For stealing cows belonging to Brahmanas, cutting off the thief's feet; for stealing a female slave, cutting off half of his foot.",
-          "hindi": "ब्राह्मणों की गाय चुराने पर चोर के पैर कटवा देने चाहिए; और दासी चुराने पर पैर का आधा भाग काट देना चाहिए।",
+          "english": "For [stealing] cows belonging to Brāhmaṇas, there should be cutting of the sthūrā [back of the foot/heel]; but for one who steals a female slave, always the cutting off of half the foot.",
+          "hindi": "ब्राह्मणों की गायों [की चोरी] में स्थूरा [पैर का पिछला भाग/एड़ी] का छेदन होना चाहिए; किन्तु दासी का हरण करने वाले के लिए सदा आधे पैर का कर्तन।",
           "status": "translated"
         },
         {
@@ -6968,24 +6912,24 @@
           "number": "19.46",
           "ref": "narada_smriti 3.19.46",
           "text": "न मित्रकारणाद् राज्ञा विपुलाद् वा धनागमात् । उत्स्रष्टव्यः साहसिकस् त्यक्तात्मा मनुर् अब्रवीत् ॥ ४६ ॥",
-          "english": "Not out of friendship, nor out of desire for huge wealth, should the king release a violent criminal (sahasika); for such a person has foresworn his soul.",
-          "hindi": "न तो मित्रता के कारण और न ही विशाल धन के लोभ में आकर राजा को हिंसात्मक अपराधी (साहसिक) को छोड़ना चाहिए, क्योंकि ऐसा व्यक्ति समाज का शत्रु है।",
+          "english": "A violent offender (sāhasika), who has given himself up [to crime], is not to be released by the king for the sake of a friend or for a large gain of wealth; [so] Manu said.",
+          "hindi": "साहसिक (हिंसक अपराधी), जिसने अपने आप को [अपराध के लिए] त्याग दिया है, उसे राजा मित्रता के कारण या विपुल धन-लाभ के लिए न छोड़े; [ऐसा] मनु ने कहा।",
           "status": "translated"
         },
         {
           "number": "19.47",
           "ref": "narada_smriti 3.19.47",
           "text": "यावान् अवध्यस्य वधे तावान् वध्यस्य मोक्षणे । भवत्य् अधर्मो नृपतेर् धर्मस् तु विनियच्छतः ॥ ४७ ॥",
-          "english": "As much sin as incurs by executing an innocent person, even so much sin incurs by releasing a person worthy of death; the king gains Dharma by keeping criminals in check.",
-          "hindi": "अवध्य (अविनाशी/निर्दोष) को मारने में जितना अधर्म होता है, उतना ही अधर्म मृत्युदण्ड के योग्य अपराधी को छोड़ने में होता है; अपराधियों का दमन करने से ही राजा को धर्म प्राप्त होता है।",
+          "english": "As much adharma accrues to the king in killing one not to be killed (avadhya), so much [accrues] in releasing one who deserves death; but dharma [accrues] to him who restrains [offenders].",
+          "hindi": "अवध्य (जो वध के योग्य नहीं) को मारने में राजा को जितना अधर्म होता है, उतना ही वध के योग्य को छोड़ने में होता है; किन्तु [अपराधियों का] नियन्त्रण करने वाले को धर्म प्राप्त होता है।",
           "status": "translated"
         },
         {
           "number": "19.48",
           "ref": "narada_smriti 3.19.48",
           "text": "न जातु ब्राह्मणं हन्यात् सर्वपापेष्व् अपि स्थितम् । निर्वासं कारयेत् कामम् इति धर्मो व्यवस्थितः ॥ ४८ ॥",
-          "english": "Under no circumstances shall a Brahmana be killed, even if he stands in all sins; he may be banished from the realm with all his property intact.",
-          "hindi": "सभी पापों में लिप्त होने पर भी ब्राह्मण का कभी वध नहीं करना चाहिए; उसे उसकी समस्त संपत्ति के साथ देश से निष्कासित कर देना चाहिए।",
+          "english": "He should never kill a Brahmin, even one fixed in all sins; he may banish him at will—this is the settled law.",
+          "hindi": "सभी पापों में स्थित होने पर भी ब्राह्मण को कभी न मारे; इच्छानुसार उसका निर्वासन करा दे—यह व्यवस्थित धर्म है।",
           "status": "translated"
         },
         {
@@ -7008,32 +6952,32 @@
           "number": "19.51",
           "ref": "narada_smriti 3.19.51",
           "text": "गुरुतल्पे भगः कार्यः सुरापाने ध्वजः स्मृतः । स्तेये तु श्वपदं कृत्वा शिखिपित्तेन कूटयेत् ॥ ५१ ॥",
-          "english": "For violating guru's bed, the mark of female organ; for drinking liquor, a vintner's flag; for theft, a dog's foot; for slaying a Brahmana, a headless human torso.",
-          "hindi": "गुरु-पत्नी गमन में योनि का चिह्न; मदिरापान में कलवार की ध्वजा; चोरी में कुत्ते का पैर; और ब्रह्महत्या में धड़-रहित पुरुष (कबंध) का चिह्न दागे।",
+          "english": "For [violating] the teacher's bed, a [mark of the] female organ is to be made; for drinking liquor, a flag is prescribed; but for theft, having made a dog's foot, he should mark [it] with peacock bile.",
+          "hindi": "गुरु-शय्या [गमन] में भग [का चिह्न] बनाया जाए; सुरापान में ध्वज [का चिह्न] कहा गया है; और चोरी में कुत्ते का पैर बनाकर मोर के पित्त से उसे अंकित करे।",
           "status": "translated"
         },
         {
           "number": "19.52",
           "ref": "narada_smriti 3.19.52",
           "text": "विशिराः पुरुषः कार्यो ललाटे भ्रूणघातिनः । असम्भाष्यश् च कर्तव्यस् तन् मनोर् अनुशासनम् ॥ ५२ ॥",
-          "english": "A headless human torso shall be branded on the forehead of a slayer of a fetus/Brahmana, and he shall be made unapproachable to society; such is Manu's command.",
-          "hindi": "भ्रूण/ब्राह्मण की हत्या करने वाले के माथे पर सिर-रहित धड़ का चिह्न दागकर उसे अछूत (असम्भाष्य) बना दिया जाए; यह मनु का आदेश है।",
+          "english": "A headless man is to be [branded] on the forehead of the slayer of a bhrūṇa [here, a learned Brāhmaṇa], and he is to be made asambhāṣya [one with whom no one may converse]; that is the teaching of Manu.",
+          "hindi": "भ्रूणघाती [यहाँ, विद्वान् ब्राह्मण का हत्यारा] के ललाट पर सिर-रहित पुरुष [का चिह्न] बनाया जाए, और उसे असम्भाष्य [जिससे कोई बात न करे] किया जाए; यह मनु का अनुशासन है।",
           "status": "translated"
         },
         {
           "number": "19.53",
           "ref": "narada_smriti 3.19.53",
           "text": "राजा स्तेनेन गन्तव्यो मुक्तकेशेन धावता । आचक्षाणेन तत्स्तेयम् एवं कर्तास्मि शाधि माम् ॥ ५३ ॥",
-          "english": "A thief should run to the king with disheveled hair, carrying a wooden club on his shoulder, confessing: 'I have committed this theft, punish me!'",
-          "hindi": "चोर को चाहिए कि वह खुले बालों से दौड़ता हुआ कंधे पर मूसल/गदा लेकर राजा के पास जाए और अपना अपराध स्वीकार करते हुए कहे: 'मैंने यह चोरी की है, मुझे दण्ड दीजिए!'",
+          "english": "The thief must go to the king running, with his hair loose, declaring that theft: 'Thus have I done; punish me.'",
+          "hindi": "चोर खुले केशों के साथ दौड़ता हुआ राजा के पास जाए और उस चोरी को बताते हुए कहे: 'मैंने ऐसा किया है; मुझे दण्ड दीजिए।'",
           "status": "translated"
         },
         {
           "number": "19.54",
           "ref": "narada_smriti 3.19.54",
           "text": "अनेना भवति स्तेनः स्वकर्मप्रतिपादनात् । राजानं तत् स्पृशेद् एन उत्सृजन्तं सकिल्बिषम् ॥ ५४ ॥",
-          "english": "By submitting to punishment and confessing his deed, the thief becomes free from sin; but the sin touches the king if he releases a guilty thief unpunished.",
-          "hindi": "दण्ड स्वीकार करने और अपने अपराध की स्वीकारोक्ति से चोर पाप से मुक्त हो जाता है; परन्तु यदि राजा पापी चोर को बिना दण्ड दिए छोड़ देता है तो वह पाप राजा को लगता है।",
+          "english": "By declaring his own deed the thief becomes free of sin; that sin would attach to the king who lets [him] go while still guilty.",
+          "hindi": "अपने कर्म को स्वीकार करने से चोर निष्पाप हो जाता है; वह पाप उस राजा को लगता है जो [उसे] दोषयुक्त रहते ही छोड़ देता है।",
           "status": "translated"
         },
         {
@@ -7048,48 +6992,48 @@
           "number": "19.56",
           "ref": "narada_smriti 3.19.56",
           "text": "शासनाद् वा विमोक्षाद् वा स्तेनो मुच्यते किल्बिषात् । अशासनात् तु तद् राजा स्तेनस्याप्नोति किल्बिषम् ॥ ५६ ॥",
-          "english": "Whether by punishment or by formal acquittal after trial, the thief is freed from guilt; but by failing to punish, the king takes upon himself the guilt of the thief.",
-          "hindi": "सज़ा पाने से अथवा प्रक्रिया के बाद छूटने से चोर पाप से मुक्त होता है; लेकिन दण्ड न देने पर वह चोरी का पाप राजा को चढ़ता है।",
+          "english": "Whether by punishment or by release [i.e. being pardoned], the thief is freed from guilt; but by not punishing [him], the king takes on the guilt of the thief.",
+          "hindi": "दण्ड से अथवा छोड़ दिए जाने [अर्थात् क्षमा] से चोर पाप से मुक्त होता है; परन्तु दण्ड न देने से राजा चोर का पाप प्राप्त करता है।",
           "status": "translated"
         },
         {
           "number": "19.57",
           "ref": "narada_smriti 3.19.57",
           "text": "गुरुर् आत्मवतां शास्ता शास्ता राजा दुरात्मनाम् । अथ प्रच्छन्नपापानां शास्ता वैवस्वतो यमः ॥ ५७ ॥",
-          "english": "The guru is the ruler of self-controlled disciples; the king is the ruler of evil-doers; while Yama (God of Death) is the punisher of secret sinners.",
-          "hindi": "गुरु आत्मज्ञानी शिष्यों का शास्ता (अनुशासक) है; राजा दुरात्माओं का अनुशासक है; और यमराज गुप्त रूप से पाप करने वालों का दण्डदाता है।",
+          "english": "The teacher (guru) is the chastiser of the self-controlled; the king is the chastiser of the wicked; but of those whose sins are hidden, the chastiser is Yama, son of Vivasvat.",
+          "hindi": "आत्मवान् (संयमी) लोगों का शास्ता गुरु है; दुरात्माओं का शास्ता राजा है; और जिनके पाप छिपे हैं उनका शास्ता वैवस्वत यम है।",
           "status": "translated"
         },
         {
           "number": "19.58",
           "ref": "narada_smriti 3.19.58",
           "text": "अष्टापाद्यं तु शूद्रस्य स्तेये भवति किल्बिषम् । द्विर् अष्टापाद्यं वैश्यस्य द्वात्रिंशत् क्षत्रियस्य तु ॥ ५८ ॥",
-          "english": "The guilt of theft is eightfold for a Shudra; sixteenfold for a Vaishya; thirty-two-fold for a Kshatriya;—",
-          "hindi": "चोरी के अपराध में शूद्र का पाप आठ गुना; वैश्य का सोहला गुना; क्षत्रिय का बत्तीस गुना होता है;—",
+          "english": "The guilt in theft is eightfold for a Shudra; sixteenfold for a Vaishya; thirty-two-fold for a Kshatriya;—",
+          "hindi": "चोरी के अपराध में शूद्र का पाप आठ गुना; वैश्य का सोलह गुना; क्षत्रिय का बत्तीस गुना होता है;—",
           "status": "translated"
         },
         {
           "number": "19.59",
           "ref": "narada_smriti 3.19.59",
           "text": "ब्राह्मणस्य चतुःषष्टीत्य् एवं स्वायम्भुवो ऽब्रवीत् । तत्रापि च विशेषेण विद्वत्स्व् अभ्यधिकं भवेत् ॥ ५९ ॥",
-          "english": "And sixty-four-fold or even one hundred and twenty-eight-fold for a Brahmana; for greater knowledge entails greater responsibility.",
-          "hindi": "और ब्राह्मण का पाप चौंसठ गुना या एक सौ अट्ठाईस गुना होता है; क्योंकि ज्ञान की वृद्धि के साथ उत्तरदायित्व और दण्ड भी बढ़ता है।",
+          "english": "For a Brahmin, sixty-four [fold]; so Svāyambhuva [Manu] said. And among them too, it is especially greater for the learned.",
+          "hindi": "ब्राह्मण का चौंसठ [गुना]; ऐसा स्वायम्भुव [मनु] ने कहा। और उनमें भी विशेष रूप से विद्वानों के लिए [यह] अधिक होता है।",
           "status": "translated"
         },
         {
           "number": "19.60",
           "ref": "narada_smriti 3.19.60",
           "text": "शारीरश् चार्थदण्डश् च दण्डस् तु द्विविधः स्मृतः । शारीरा दशधा प्रोक्ता अर्थदण्डास् त्व् अनेकधा ॥ ६० ॥",
-          "english": "Punishment is declared to be of two kinds: corporal (sharira) and pecuniary (artha-danda). Corporal punishment is tenfold, while fines are manifold.",
-          "hindi": "दण्ड दो प्रकार का माना गया है: शारीरिक और अर्थदण्ड (अग्रिम जुर्माना)। शारीरिक दण्ड दस प्रकार का है और अर्थदण्ड अनेक प्रकार का है।",
+          "english": "Punishment is declared to be of two kinds: corporal and pecuniary (artha-daṇḍa). Corporal [punishments] are declared to be of ten kinds; pecuniary ones are of many kinds.",
+          "hindi": "दण्ड दो प्रकार का माना गया है: शारीरिक और अर्थदण्ड (धन-दण्ड)। शारीरिक दण्ड दस प्रकार के कहे गए हैं; अर्थदण्ड अनेक प्रकार के हैं।",
           "status": "translated"
         },
         {
           "number": "19.61",
           "ref": "narada_smriti 3.19.61",
           "text": "काकण्यादिस् त्व् अर्थदण्डः सर्वस्वान्तस् तथैव च । शारीरस् त्व् अवरोधादिर् जीवितान्तस् तथैव च ॥ ६१ ॥",
-          "english": "The lowest monetary unit is Kakanika, Masha, Karshapana, and higher values depending on regional custom.",
-          "hindi": "दण्ड की सबसे छोटी इकाई काकणी, माष, कार्षापण आदि क्षेत्रीय परंपरा के अनुसार निर्धारित होती हैं।",
+          "english": "Pecuniary punishment begins with a kākaṇī and likewise ends with [confiscation of] the entire property; corporal punishment begins with confinement and likewise ends with [taking] life.",
+          "hindi": "अर्थदण्ड काकणी से आरम्भ होकर सम्पूर्ण सम्पत्ति (सर्वस्व) [की जब्ती] पर समाप्त होता है; शारीरिक दण्ड कारावास (अवरोध) से आरम्भ होकर प्राण [हरण] पर समाप्त होता है।",
           "status": "translated"
         },
         {
@@ -7104,16 +7048,16 @@
           "number": "19.63",
           "ref": "narada_smriti 3.19.63",
           "text": "कार्षापणापराद्यस् तु चतुःकार्षापणः परः । द्व्यवरो ऽष्टापरश् चान्यस् त्र्यवरो द्वादशोत्तरः ॥ ६३ ॥",
-          "english": "Fines of Karshapana range from 4 Karshapanas, 8 Karshapanas, up to 12 Karshapanas in standard petty offenses.",
-          "hindi": "साधारण छोटे अपराधों में कार्षापण का जुर्माना ४, ८ और १२ कार्षापण तक होता है।",
+          "english": "The [fine] whose minimum is a kārṣāpaṇa [reading -avara- for -apara-] has four kārṣāpaṇas as its maximum; another has two as minimum and eight as maximum; [another] has three as minimum and twelve as maximum.",
+          "hindi": "जिस [दण्ड] का न्यूनतम एक कार्षापण है [-अपर- को -अवर- पढ़कर], उसका अधिकतम चार कार्षापण है; दूसरे का न्यूनतम दो और अधिकतम आठ; [तीसरे का] न्यूनतम तीन और अधिकतम बारह है।",
           "status": "translated"
         },
         {
           "number": "19.64",
           "ref": "narada_smriti 3.19.64",
           "text": "कार्षापणाद्या ये प्रोक्ताः सर्वे ते स्युश् चतुर्गुणाः । एवम् अन्ये तु विज्ञेयाः प्राक् च ते पूर्वसाहसात् ॥ ६४ ॥",
-          "english": "All fines mentioned in Karshapanas should be calculated fourfold according to the grade of offense prior to the lowest degree of violence (Purva-sahasa).",
-          "hindi": "प्रथम साहस दण्ड से पूर्व के अपराधों में कार्षापण के जुर्माने को अपराध की श्रेणी के अनुसार चौगुना करके आकलित किया जाना चाहिए।",
+          "english": "Those [fines] that are declared as beginning with a kārṣāpaṇa should all be fourfold; others should be understood in the same way, and they [all] come before the first amercement (pūrva-sāhasa).",
+          "hindi": "जो [दण्ड] कार्षापण से आरम्भ होने वाले कहे गए हैं, वे सब चौगुने हों; अन्य भी इसी प्रकार समझे जाएँ, और वे [सब] प्रथम साहस (पूर्व-साहस) दण्ड से पहले [के स्तर] हैं।",
           "status": "translated"
         },
         {
@@ -7144,16 +7088,16 @@
           "number": "19.68",
           "ref": "narada_smriti 3.19.68",
           "text": "कार्षापणो ऽण्डिका ज्ञेयाश् चतस्रस् तास् तु धानकः । तद्द्वादश सुवर्णस्य दीनारश् चित्रकः स्मृतः ॥ ६८ ॥",
-          "english": "A Karshapana is equal to 4 Andikas; 4 Andikas make a Dhanaka; 12 Dhanakas make a gold Dinara.",
-          "hindi": "एक कार्षापण ४ अण्डिका के बराबर है; ४ अण्डिका से एक धानक बनता है; और १२ धानक से एक स्वर्ण दीनार बनता है।",
+          "english": "A kārṣāpaṇa is to be known as an aṇḍikā; four of these are a dhānaka; twelve of those [make] a suvarṇa; the dīnāra is called citraka.",
+          "hindi": "कार्षापण को अण्डिका जानना चाहिए; उनमें से चार एक धानक हैं; उनके बारह एक सुवर्ण [बनाते हैं]; दीनार 'चित्रक' कहा जाता है।",
           "status": "translated"
         },
         {
           "number": "19.69",
           "ref": "narada_smriti 3.19.69",
           "text": "वार्त्तां त्रयीं चाप्य् अथ दण्डनीतिम् राजानुवर्तेत् सन्तताप्रमत्तः । हन्याद् उपायैर् निपुणैर् गृहीतान् पुरे च राष्ट्रे निगृह्णीयात् पापान् ॥ ६९ ॥",
-          "english": "The king should constantly pursue Varta (agriculture/trade), the three Vedas, and Dandaniti (governance); catching sinners by clever means, he should protect city and country.",
-          "hindi": "राजा को कृषि-व्यापार (वार्ता), तीनों वेदों और दण्डनीति का निरंतर निरंतर पालन करना चाहिए; चतुर उपायों से अपराधियों को पकड़कर नगर और राष्ट्र की रक्षा करनी चाहिए।",
+          "english": "The king, ever vigilant, should follow vārttā (trade and agriculture), the three Vedas and daṇḍanīti (polity); he should kill those caught by skilful means, and restrain the wicked in the city and the realm.",
+          "hindi": "राजा सदा सावधान रहकर वार्ता (कृषि-व्यापार), त्रयी (तीनों वेद) और दण्डनीति का अनुसरण करे; कुशल उपायों से पकड़े गए [अपराधियों] को मारे, और नगर तथा राष्ट्र में पापियों का निग्रह करे।",
           "status": "translated"
         },
         {
@@ -7168,16 +7112,16 @@
           "number": "20.2",
           "ref": "narada_smriti 3.20.2",
           "text": "सत्यं वाहनशस्त्राणि गोबीजरजतानि च । देवतापितृपादाश् च दत्तानि सुकृतानि च ॥ २ ॥",
-          "english": "Oaths are taken by truth, by vehicles/weapons, by cows/seeds/gold, by touching feet of deities/gurus, or by touching past merit.",
-          "hindi": "सत्य की, वाहन और शस्त्रों की, गाय, बीज और स्वर्ण की, देवताओं और पितरों के चरणों की, या अर्जित पुण्यों की स्पर्श-शपथ दिलाई जाती है।",
+          "english": "Truth, vehicles and weapons, cows, seeds and silver, the feet of deities and ancestors, gifts given and good deeds [are the things by which oaths are sworn].",
+          "hindi": "सत्य, वाहन और शस्त्र, गाय, बीज और चाँदी, देवताओं और पितरों के चरण, दिए हुए दान और सुकृत (पुण्य कर्म) [— इनकी शपथ ली जाती है]।",
           "status": "translated"
         },
         {
           "number": "20.3",
           "ref": "narada_smriti 3.20.3",
           "text": "महापराधे दिव्यानि दापयेत् तु महीपतिः । अल्पेषु च नरः श्रेष्ठः शपथैः शापयेन् नरम् ॥ ३ ॥",
-          "english": "In grave crimes, the king should compel divine ordeals; in minor matters, a noble man may be made to swear by oaths.",
-          "hindi": "बड़े अपराधों में राजा को दिव्य परीक्षाएं करानी चाहिए; छोटे मामलों में श्रेष्ठ पुरुष को शपथ दिलाकर मामला निपटाना चाहिए।",
+          "english": "In a grave offence the king should cause ordeals (divya) to be undergone; and in minor [cases] the best of men [i.e. the judge] should make the man swear by oaths.",
+          "hindi": "बड़े अपराध में राजा दिव्य [परीक्षाएँ] कराए; और छोटे [मामलों] में श्रेष्ठ पुरुष [अर्थात् न्यायकर्ता] मनुष्य से शपथें दिलवाए।",
           "status": "translated"
         },
         {
@@ -7208,16 +7152,16 @@
           "number": "20.7",
           "ref": "narada_smriti 3.20.7",
           "text": "सन्दिग्धेष्व् अभियुक्तानां विशुद्ध्यर्थं महात्मना । नारदेन पुनः प्रोक्ताः सत्यानृतविभावनाः । वादिनो ऽनुमतेनैनं कारयेन् नान्यथा बुधः ॥ ७ ॥",
-          "english": "Re-proclaimed by sage Narada for clarifying truth and falsehood of accused persons in doubtful cases, a wise judge should conduct them with consent of parties.",
-          "hindi": "सन्दिग्ध मामलों में पक्षकारों की सत्यता जाँचने के लिए देवर्षि नारद द्वारा पुनः प्रतिपादित इन दिव्य परीक्षाओं को बुद्धिमान न्यायाधीश पक्षकारों की सहमति से ही कराए।",
+          "english": "[These ordeals,] which reveal truth and falsehood, were declared again by the great-souled Nārada for the clearing of the accused in doubtful cases. The wise [judge] should make him undergo it with the consent of the party (vādin), and not otherwise.",
+          "hindi": "सन्दिग्ध मामलों में अभियुक्तों की शुद्धि के लिए महात्मा नारद ने सत्य और असत्य को प्रकट करने वाले [इन दिव्यों को] पुनः कहा। बुद्धिमान [न्यायकर्ता] वादी की अनुमति से ही उससे यह कराए, अन्यथा नहीं।",
           "status": "translated"
         },
         {
           "number": "20.8",
           "ref": "narada_smriti 3.20.8",
           "text": "चतुर्हस्तौ तुलापादाव् उच्छ्रयेण प्रकीर्तितौ । षड्ढस्तं तु तयोर् दृष्टं प्रमाणं परिमाणतः ॥ ८ ॥",
-          "english": "The post of the balance (Tula) is declared to be 4 cubits in height; its beam length is seen to be 6 cubits by standard measurement.",
-          "hindi": "तुला (तराजू) के खंभे की ऊँचाई ४ हाथ बताई गई है; और उसकी मुख्य बीम (तराजू की दंडी) का परिमाण ६ हाथ निर्धारित है।",
+          "english": "The two posts of the balance are declared to be four cubits (hasta) in height; the measure of the two in extent is seen to be six cubits.",
+          "hindi": "तुला के दोनों खंभे ऊँचाई में चार हाथ कहे गए हैं; उन दोनों का परिमाण (विस्तार) छह हाथ देखा गया है।",
           "status": "translated"
         },
         {
@@ -7240,8 +7184,8 @@
           "number": "20.11",
           "ref": "narada_smriti 3.20.11",
           "text": "समयैः परिगृह्यैनं पुनर् आरोपयेन् नरः । तस्मिन्न् एवं कृते सा चेत् कक्षे स्थाप्य सुनिश्चला ॥ ११ ॥",
-          "english": "Having solemnly charged him with oaths, the man should be placed on the scale again; if the scale remains steady at the mark or rises—",
-          "hindi": "शपथों से आबद्ध करके मनुष्य को पुनः तराजू पर चढ़ाया जाए; यदि तौले जाने पर तराजू समतल रहे या ऊपर उठे—",
+          "english": "Having bound him by solemn agreements, he should put the man on [the balance] again; when this has been done, if it, set at the mark (kakṣā), [stays] quite still—",
+          "hindi": "शपथ-नियमों से उसे बाँधकर मनुष्य को फिर [तुला पर] चढ़ाए; ऐसा करने पर यदि वह [तुला] चिह्न (कक्षा) पर स्थित होकर पूर्णतः निश्चल [रहे]—",
           "status": "translated"
         },
         {
@@ -7256,8 +7200,8 @@
           "number": "20.13",
           "ref": "narada_smriti 3.20.13",
           "text": "धर्मपर्यायवचनैर् धट इत्य् अभिधीयसे । त्वं वेत्सि सर्वभूतानां पापानि सुकृतानि च । त्वम् एव धट जानीषे न विदुर् यानि मानुषाः ॥ १३ ॥",
-          "english": "Invocation to Balance: 'O Balance! You are called Dhata because you embody Dharma. You know the sins and good deeds of all beings. You know what humans cannot know!'",
-          "hindi": "तुला की प्रार्थना: 'हे तुला! तुम धर्म का स्वरूप होने से धट कहलाती हो। तुम समस्त प्राणियों के पाप और पुण्य को जानती हो। तुम वह जानती हो जो मनुष्य नहीं जानते!'",
+          "english": "'By words synonymous with dharma you are called dhaṭa (the balance). You know the sins and good deeds of all beings; you alone, O dhaṭa, know what men do not know.'",
+          "hindi": "'धर्म के पर्यायवाची वचनों से तुम धट (तुला) कहलाते हो। तुम सब प्राणियों के पाप और पुण्य जानते हो; हे धट, तुम ही वह जानते हो जिसे मनुष्य नहीं जानते।'",
           "status": "translated"
         },
         {
@@ -7272,16 +7216,16 @@
           "number": "20.15",
           "ref": "narada_smriti 3.20.15",
           "text": "अत ऊर्ध्वं प्रवक्ष्यामि लोहस्य विधिम् उत्तमम् । द्वात्रिंशदङ्गुलानि तु मण्डलान् मण्डलान्तरम् ॥ १५ ॥",
-          "english": "Next I shall declare the supreme rule of the Fire ordeal. Circles of 32 inches each shall be marked on the ground.",
-          "hindi": "इसके बाद मैं अग्नि-परीक्षा की उत्तम विधि बतलाऊंगा। भूमि पर ३२-३२ अंगुल के मण्डल (वृत्त) बनाए जाने चाहिए।",
+          "english": "Next I shall declare the excellent procedure of the iron [ordeal]: thirty-two aṅgulas is [the distance] from circle to circle.",
+          "hindi": "इसके बाद मैं लोहे [की परीक्षा] की उत्तम विधि कहूँगा: एक मण्डल से दूसरे मण्डल तक [की दूरी] बत्तीस अंगुल है।",
           "status": "translated"
         },
         {
           "number": "20.16",
           "ref": "narada_smriti 3.20.16",
           "text": "अष्टाभिर् मण्डलैर् एवम् अङ्गुलानां शतद्वयम् । चतुर्विंशत् समाख्यातं सङ्ख्यातत्त्वार्थदर्शिभिः ॥ १६ ॥",
-          "english": "Eight circles total 224 inches, as declared by those who see the true principles of measurement.",
-          "hindi": "आठ मण्डलों की कुल दूरी २२४ अंगुल होती है, जैसा कि नाप के तत्त्वज्ञों ने बताया है।",
+          "english": "Thus with eight circles [the total is] two hundred and twenty-four aṅgulas, as declared by those who see the true meaning of number.",
+          "hindi": "इस प्रकार आठ मण्डलों से [कुल] दो सौ चौबीस अंगुल होते हैं, जैसा कि संख्या के तत्त्वार्थ को देखने वालों ने कहा है।",
           "status": "translated"
         },
         {
@@ -7320,16 +7264,16 @@
           "number": "20.21",
           "ref": "narada_smriti 3.20.21",
           "text": "भयाद् वा पातयते यस् त्व् अदग्धो यो विभाव्यते । पुनस् तं हारयेल् लोहं स्थितिर् एषा पुरातनी । अनेन विधिना कार्यो हुताशसमयः स्मृतः ॥ २१ ॥",
-          "english": "If out of fear he drops the ball or if he is burnt, he must repeat the iron ordeal; such is the ancient rule for the Fire test.",
-          "hindi": "यदि भयवश वह गोला गिरा दे अथवा जल जाए, तो उसे पुनः लोहे का गोला उठाना पड़ेगा; अग्नि-परीक्षा का यह प्राचीन नियम है।",
+          "english": "He who drops it out of fear, though he is found unburnt, should be made to carry the iron again; this is the ancient rule. By this procedure the fire ordeal (hutāśa-samaya) is to be performed, it is declared.",
+          "hindi": "जो भय से [गोले को] गिरा दे, किन्तु बिना जला पाया जाए, उससे फिर लोहा उठवाया जाए; यह प्राचीन मर्यादा है। इस विधि से अग्नि-परीक्षा (हुताश-समय) की जानी चाहिए, ऐसा कहा गया है।",
           "status": "translated"
         },
         {
           "number": "20.22",
           "ref": "narada_smriti 3.20.22",
           "text": "त्वम् अग्ने सर्वभूतानाम् अन्तश्चरसि साक्षिवत् । सुकृतं दुःकृतं लोकेनाज्ञातं विद्यते त्वया ॥ २२ ॥",
-          "english": "Invocation to Fire: 'O Agni! You dwell inside all beings as a witness. Good and evil deeds in the world are known to you!'",
-          "hindi": "अग्नि की प्रार्थना: 'हे अग्ने! तुम समस्त प्राणियों के भीतर साक्षी के रूप में विद्यमान हो। संसार के गुप्त और प्रकट पाप-पुण्य तुम्हें ज्ञात हैं!'",
+          "english": "'O Agni, you move within all beings like a witness; the good and evil deeds unknown to the world are known to you.'",
+          "hindi": "'हे अग्नि, तुम सब प्राणियों के भीतर साक्षी के समान विचरते हो; संसार द्वारा न जाने गए सुकृत और दुष्कृत तुम्हें ज्ञात हैं।'",
           "status": "translated"
         },
         {
@@ -7448,8 +7392,8 @@
           "number": "20.37",
           "ref": "narada_smriti 3.20.37",
           "text": "विषस्य पलषड्भागाद् भागो विंशतिमस् तु यः । तम् अष्टभागहीनं तु शोध्ये दद्याद् घृतप्लुतम् ॥ ३७ ॥",
-          "english": "A fraction of a pala of poison, melted in ghee, should be given to the accused who has fasted.",
-          "hindi": "घी में पिघलाया हुआ विष का निर्धारित सूक्ष्म भाग उपवास रखे हुए आरोपी को दिया जाए।",
+          "english": "The twentieth part of the sixth part of a pala of poison, reduced by an eighth, he should give, steeped in ghee, to the one to be cleared.",
+          "hindi": "पल के छठे भाग का जो बीसवाँ भाग है, उसमें से आठवाँ भाग कम करके, घी में मिलाकर, शोध्य (जिसकी शुद्धि करनी है) को विष दे।",
           "status": "translated"
         },
         {
@@ -7488,16 +7432,16 @@
           "number": "20.42",
           "ref": "narada_smriti 3.20.42",
           "text": "पूर्वाह्णे सोपवासस्य स्नातस्यार्द्रपटस्य च । सशूकस्याव्यसनिनः कोशपानं विधीयते ॥ ४२ ॥",
-          "english": "In the morning, to one who has fasted, bathed, wears wet clothes, carries Kusha grass, and is free from calamity, Kosha-pana is ordained.",
-          "hindi": "प्रातःकाल, उपवास रखकर, स्नान करके, गीले वस्त्र पहने हुए और हाथ में कुशा लिए हुए व्यक्ति को कोश-पान (पवित्र जल) कराया जाता है।",
+          "english": "Drinking of the kośa is prescribed in the forenoon for one who has fasted, bathed and wears a wet garment, who is scrupulous [God-fearing] (saśūka) and free from vices.",
+          "hindi": "पूर्वाह्न में, उपवास किए हुए, स्नान किए हुए, गीले वस्त्र वाले, सशूक (धर्मभीरु) और व्यसन-रहित व्यक्ति के लिए कोश-पान का विधान है।",
           "status": "translated"
         },
         {
           "number": "20.43",
           "ref": "narada_smriti 3.20.43",
           "text": "यद्भक्तः सो ऽभियुक्तः स्यात् तद्दैवत्यं तु पाययेत् । सप्ताहाद् यस्य दृश्यते द्विसप्ताहेन वा पुनः । प्रत्यात्मिकं तु यत्किञ्चित् सैव तस्य विभावना ॥ ४३ ॥",
-          "english": "He should be made to drink three mouthfuls of holy water of the deity he worships; if within 14 days no calamity befalls him, he is clear.",
-          "hindi": "वह जिस देवता का भक्त हो, उस देवता की मूर्ति के स्नान का जल उसे तीन आचमन पिलाया जाए; यदि १४ दिनों के भीतर उस पर कोई विपत्ति नहीं आती, तो वह निर्दोष सिद्ध होता है।",
+          "english": "He should make the accused drink [the water of] the deity to whom he is devoted. If anything [untoward] befalling him personally is seen within seven days, or again within twice seven days, that alone is his conviction.",
+          "hindi": "अभियुक्त जिस देवता का भक्त हो, उसी देवता का [जल] उसे पिलाए। सात दिनों में, या फिर दो सप्ताह में, यदि उस पर स्वयं कुछ भी [अनिष्ट] होता दिखे, तो वही उसका दोष-प्रमाण है।",
           "status": "translated"
         },
         {
@@ -7543,5 +7487,5 @@
       ]
     }
   ],
-  "status": "partial"
+  "status": "translated"
 }
