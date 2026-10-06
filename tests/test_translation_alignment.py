@@ -108,6 +108,12 @@ KNOWN: dict[str, int] = {
     #: components, and stripping them would merge any two verses differing only by a number --
     #: the class G17 and G7 are about. Text fully served 1,866/1,866, so this count is final.
     "samaveda_samhita": 1,
+    #: `saravali` 4 -- READ PAIR BY PAIR 2026-10-06, after the full review re-translated 422 verses.
+    #: Each pair is one verse the edition prints twice under the same verse numeral, differing only
+    #: by a ZWNJ, a line break or one OCR letter: 1.63/1.65 (॥४१॥, `देवरिपून्`/`देवरिपून्‌`),
+    #: 1.183/1.185 (`अब्दाधिपाः`/`अन्दाधिपाः`), 1.214/1.216 (॥१४॥, `युवतीनाम्‌`/`युवतीनाम्`),
+    #: 1.287/1.288 (line break). One translation serving each pair is correct.
+    "saravali": 4,
 }
 
 #: REMOVED 2026-10-02: `brihadaranyaka_upanishad: 8`, justified as "the Maitreyi dialogue, which the

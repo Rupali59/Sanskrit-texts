@@ -34,8 +34,8 @@
         {
           "number": 1,
           "text": "क्ररकषत्रे यदा जनम अस्तको लग्ननायकः| अकं जीवे तथा पातः सोऽष्टवर्षन जीवति",
-          "english": "If birth occurs in a malefic sign (or Cancer), the lord of Lagna is combust or situated in the 8th house, and Jupiter is afflicted by the Sun or Rahu, the child does not survive beyond eight years. [Garga Hora 1.1]",
-          "hindi": "यदि क्रूर राशि (या कर्क राशि) में जन्म हो, लग्न का स्वामी अस्त अथवा आठवें भाव में स्थित हो और बृहस्पति सूर्य या राहु से पीड़ित हो, तो वह बालक आठ वर्ष से अधिक नहीं जीवित रहता।",
+          "english": "If birth is in a cruel (malefic) sign [krūrakṣetre; possibly karkakṣetre, 'Cancer'], the lord of the lagna is combust, and the Sun [arkaṃ, read arkaḥ] is with Jupiter, and likewise Rāhu (pāta) — he does not live [beyond] eight years [reading so'ṣṭavarṣaṃ na jīvati].",
+          "hindi": "यदि क्रूर राशि [क्रूरक्षेत्रे; संभवतः कर्कक्षेत्रे, 'कर्क राशि'] में जन्म हो, लग्नेश अस्त हो, और सूर्य [अर्कं, पाठ अर्कः] गुरु के साथ हो तथा राहु (पात) भी — तो वह आठ वर्ष [से अधिक] नहीं जीता [पाठ सोऽष्टवर्षं न जीवति]।",
           "status": "translated"
         },
         {
@@ -139,8 +139,8 @@
         {
           "number": 16,
           "text": "लग्नेऽष्टमे यदा राहुश्चन्द्र वा यदि पश्यति । सूतकेपि तदा मृत्युः शक्रोऽपि यदि रक्षति",
-          "english": "If Rahu is in the Lagna or 8th house and aspects the Moon, death occurs during childbirth or infancy, even if Indra protects the child. [Garga Hora 1.16]",
-          "hindi": "यदि लग्न या आठवें भाव में राहु हो और वह चंद्रमा को देखता हो, तो देवराज इंद्र भी रक्षा करें तब भी सूतक (प्रसव काल) में ही बालक की मृत्यु हो जाती है।",
+          "english": "If Rāhu is in the lagna or the 8th, or if it aspects the Moon, then death [comes] even in the sūtaka (period of birth-impurity), even if Indra (Śakra) protects.",
+          "hindi": "यदि राहु लग्न में या अष्टम में हो, अथवा चन्द्रमा को देखता हो, तो इन्द्र (शक्र) भी रक्षा करें तब भी सूतक (जन्म-अशौच काल) में ही मृत्यु होती है।",
           "status": "translated"
         },
         {
@@ -167,15 +167,15 @@
         {
           "number": 20,
           "text": "शनेश्चरस्तुला कुंभो मकरे च यदा भवेत्‌| आदये षष्ठतृतीये च तदारिष्टं न जायते",
-          "english": "If Saturn is in Libra, Aquarius, or Capricorn, and positioned in the 11th, 6th, or 3rd house, no evil outcome (arishta) arises. [Garga Hora 1.20]",
-          "hindi": "यदि शनि तुला, कुंभ या मकर राशि में होकर ग्यारहवें, छठे या तीसरे भाव में स्थित हो, तो किसी भी प्रकार का अरिष्ट (अनिष्ट) उत्पन्न नहीं होता।",
+          "english": "When Saturn is in Libra, Aquarius or Capricorn, and in the first [ādye as printed; perhaps āye, the 11th], the 6th or the 3rd [house], then no ariṣṭa arises.",
+          "hindi": "जब शनि तुला, कुम्भ या मकर में हो और प्रथम [मुद्रित आद्ये; संभवतः आये, एकादश], षष्ठ या तृतीय [भाव] में हो, तब अरिष्ट उत्पन्न नहीं होता।",
           "status": "translated"
         },
         {
           "number": 21,
           "text": "यदा भानुर्भवेत्‌ सिंहे मेषे च मित्रवीक्षितः| यदि षष्ठोऽपि लाभस्थस्तदारिष्टं न जायते",
-          "english": "When the Sun is in Leo or Aries and is aspected by friendly planets, and if the lord of the sixth house (or a planet in the sixth) is in the eleventh house, no Arishta (misfortune or evil effect) arises. [Garga Hora 1.21]",
-          "hindi": "जब सूर्य सिंह या मेष राशि में हो और मित्र ग्रहों द्वारा दृष्ट हो, तथा यदि छठे भाव का स्वामी (या कोई ग्रह) एकादश (लाभ) भाव में स्थित हो, तो अरिष्ट (अशुभ फल) उत्पन्न नहीं होता है।",
+          "english": "When the Sun is in Leo or Aries and is aspected by a friend, and if [it is] in the 6th or placed in the 11th, then no ariṣṭa arises.",
+          "hindi": "जब सूर्य सिंह या मेष में हो और मित्र ग्रह से दृष्ट हो, तथा यदि [वह] षष्ठ में या लाभ (एकादश) में स्थित हो, तब अरिष्ट उत्पन्न नहीं होता।",
           "status": "translated"
         },
         {
@@ -202,8 +202,8 @@
         {
           "number": 25,
           "text": "कर्मस्थाने निजक्षत्री यदि राहुर्भवेदिह | भोमशुक्रवुधैर्युक्तः क्षणे वृद्धिः क्षणे क्षयः",
-          "english": "If Rahu is in the tenth house in its own or exalted sign, conjoined with Mars, Venus, and Mercury, the person experiences sudden rise at one moment and sudden fall at the next. [Garga Hora 1.25]",
-          "hindi": "यदि दशम भाव में अपनी राशि या उच्च राशि का राहु हो, और वह मंगल, शुक्र तथा बुध से युक्त हो, तो जातक के जीवन में क्षण में उन्नति (वृद्धि) और क्षण में अवनति (क्षय) होती है।",
+          "english": "If Rāhu is here in the 10th house in its own sign, joined with Mars, Venus and Mercury, [there is] growth one moment and decline the next.",
+          "hindi": "यदि दशम भाव में राहु अपनी राशि में हो और मंगल, शुक्र तथा बुध से युक्त हो, तो क्षण में वृद्धि और क्षण में क्षय होता है।",
           "status": "translated"
         },
         {
@@ -286,8 +286,8 @@
         {
           "number": 37,
           "text": "सिंहे जीवस्तथा शुक्रो कन्यायां मिथुने शनिः। स्वक्षेत्रे हिबुके भौमः स पुमान्नायको भवेत्‌",
-          "english": "If Jupiter and Venus are in Leo, Saturn is in Gemini, and Mars is in its own sign in the fourth house (Hibuka), that person becomes a leader or ruler. [Garga Hora 1.37]",
-          "hindi": "यदि सिंह राशि में बृहस्पति और शुक्र हों, मिथुन राशि में शनि हो, और चतुर्थ (हिबुक) भाव में मंगल अपनी ही राशि में हो, तो वह पुरुष नायक (नेता या शासक) बनता है।",
+          "english": "Jupiter in Leo, likewise Venus in Virgo, Saturn in Gemini, and Mars in its own sign in the 4th (hibuka): that man becomes a leader.",
+          "hindi": "सिंह में गुरु, उसी प्रकार कन्या में शुक्र, मिथुन में शनि, और चतुर्थ (हिबुक) भाव में अपनी राशि में मंगल हो, तो वह पुरुष नायक होता है।",
           "status": "translated"
         },
         {
@@ -314,8 +314,8 @@
         {
           "number": 41,
           "text": "एकादशे यदा क्रूरः पंचमे शुक्रशीतगू | प्रथमे कन्या जन्म माता तस्य सकणष्टका",
-          "english": "If a malefic planet is in the 11th house, Venus and the Moon are in the 5th, and Virgo is in the ascendant at birth, the mother of that child faces troubles. [Garga Hora 1.41]",
-          "hindi": "यदि जन्म लग्न कन्या हो, एकादश भाव में क्रूर (पाप) ग्रह हो तथा पंचमेष शुक्र और चंद्रमा हों, तो उस जातक की माता कष्ट पाने वाली होती है।",
+          "english": "When a malefic is in the 11th, Venus and the Moon are in the 5th, and Virgo is in the first [house, i.e. Virgo lagna; or: the first birth is a daughter], his mother suffers hardship.",
+          "hindi": "जब एकादश में क्रूर ग्रह हो, पंचम में शुक्र और चन्द्रमा हों, और प्रथम [भाव] में कन्या हो [अर्थात् कन्या लग्न; अथवा: पहली सन्तान कन्या हो], तो उसकी माता कष्ट पाती है।",
           "status": "translated"
         },
         {
@@ -342,15 +342,15 @@
         {
           "number": 45,
           "text": "पंचषष्टाष्टमगता नवमस्था यथाक्रमम्‌| भौमो राहुः शितः सूर्यः स्वपक्षपरिपालकः",
-          "english": "Mars in the 5th, Rahu in the 6th, Saturn in the 8th, and the Sun in the 9th in their respective sequential orders protect their own side or family. [Garga Hora 1.45]",
-          "hindi": "क्रमशः पंचम में भौम (मंगल), षष्ठ में राहु, अष्टम में शनि, और नवम स्थान में सूर्य स्थित हों तो ऐसा जातक अपने पक्ष (कुल/परिवार) का पालन-पोषण और रक्षण करने वाला होता है।",
+          "english": "Mars, Rāhu, Venus (sita) and the Sun, placed respectively in the 5th, 6th, 8th and 9th: [the native is] a protector of his own side.",
+          "hindi": "मंगल, राहु, शुक्र (सित) और सूर्य क्रमशः पंचम, षष्ठ, अष्टम और नवम में हों, तो [जातक] अपने पक्ष का पालन करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 46,
           "text": "लग्ने सौरिस्तथा चन्द्रश्चाष्टमे भवनेशितः | राजमान्यो तथा कामी भोगवांश्च यथा तथा",
-          "english": "With Saturn in the Ascendant, the Moon in the 8th house, and the lord of the 8th well placed, the native is honored by the king, passionate, and enjoys various pleasures. [Garga Hora 1.46]",
-          "hindi": "लग्न में शनि तथा अष्टम भाव में चंद्रमा हो और अष्टमेश अपनी स्थिति सेबली हो, तो जातक राजा से सम्मानित, कामी तथा विभिन्न प्रकार के भोगों को भोगने वाला होता है।",
+          "english": "Saturn and likewise the Moon in the lagna, and Venus (śita) in the 8th house: [the native is] honoured by the king, amorous, and given to enjoyments in every way.",
+          "hindi": "लग्न में शनि तथा चन्द्रमा हों और अष्टम भाव में शुक्र (शित) हो, तो [जातक] राजमान्य, कामी और हर प्रकार से भोगवान होता है।",
           "status": "translated"
         },
         {
@@ -370,8 +370,8 @@
         {
           "number": 49,
           "text": "कुमे सौरिर्धने सूर्यो मेषे वै चंद्रमा भवेत्‌। मकरे च तथा भौमः स्व॑भुक्ते वा पितुर्धनम्‌",
-          "english": "When Saturn is in Aquarius, the Sun is in the 2nd house (or Aries), the Moon is in Aries, and Mars is in Capricorn, the native enjoys paternal wealth during their own sub-period. [Garga Hora 1.49]",
-          "hindi": "कुम्भ में शनि, धन भाव में सूर्य, मेष राशि में चंद्रमा और मकर राशि में मंगल हो, तो जातक अपनी भुक्ति (दशा-अंतर्दशा) में पिता के धन को प्राप्त करता है।",
+          "english": "Saturn in Aquarius, the Sun in the 2nd [house], the Moon in Aries, and likewise Mars in Capricorn: [he enjoys] his own [wealth] or his father's wealth [svabhukte vā pitur dhanam; sense uncertain].",
+          "hindi": "कुम्भ में शनि, द्वितीय [भाव] में सूर्य, मेष में चन्द्रमा और उसी प्रकार मकर में मंगल हो, तो [वह] अपना [धन] या पिता का धन भोगता है [स्वभुक्ते वा पितुर्धनम्; अर्थ अनिश्चित]।",
           "status": "translated"
         },
         {
@@ -384,22 +384,22 @@
         {
           "number": 51,
           "text": "स्वगृहे दशमे सूर्यः तुलायां सूर्यजो रिपौ | बुधेन्दू मिथुने धर्मे राजयोगोऽभिजायते",
-          "english": "When the Sun is in its own sign in the 10th, Saturn is in Libra (its enemy/debilitation sign - wait, Sun in 10th own sign, Saturn in 7th/Libra?), and Mercury and the Moon are in Gemini in the 9th (Dharma), a Rajayoga is formed. [Garga Hora 1.51]",
-          "hindi": "दशम भाव में सूर्य अपने घर में हो, तुला राशि में सूर्यपुत्र (शनि) रिपु क्षेत्री हो, तथा मिथुन राशि के धर्म भाव में बुध और चंद्रमा हों, तब राजयोग उत्पन्न होता है।",
+          "english": "The Sun in its own sign in the 10th, Saturn (sūryaja) in Libra in the 6th (ripu) [or: in an enemy's place], and Mercury and the Moon in Gemini in the 9th (dharma): a rājayoga arises.",
+          "hindi": "दशम में सूर्य अपनी राशि में, तुला में शनि (सूर्यज) रिपु (षष्ठ) भाव में [अथवा शत्रु-स्थान में], तथा मिथुन में बुध और चन्द्रमा धर्म (नवम) भाव में हों, तो राजयोग उत्पन्न होता है।",
           "status": "translated"
         },
         {
           "number": 52,
           "text": "आदौ जीवः शितश्चांत्ये ग्रहामध्ये निरंतर | राजयोगं विजानीयात्‌ कुटुबबलवर्धनः",
-          "english": "Know that a Rajayoga is formed and family strength increases when Jupiter and Venus are at the beginning and the end, with other planets hemmed strictly in the middle. [Garga Hora 1.52]",
-          "hindi": "आरम्भ में जीव (गुरु) और शुक्र हों तथा अंत में अन्य ग्रह हों और बीच में निरंतर ग्रह स्थित हों, तो ऐसा राजयोग जानें जो कुल और कुटुंब के बल को बढ़ाने वाला होता है।",
+          "english": "Jupiter at the beginning, Venus (sita) at the end, and planets continuously in between: know [this] as a rājayoga, which increases the strength of the family.",
+          "hindi": "आरम्भ में गुरु, अन्त में शुक्र (सित), और बीच में निरन्तर ग्रह हों, तो इसे राजयोग जानें, जो कुटुम्ब का बल बढ़ाने वाला है।",
           "status": "translated"
         },
         {
           "number": 53,
           "text": "सहजस्थ यदा जीवो मृत्युस्थाने यदा सितः। निरतरं ग्रहा मध्ये राजा भवति निश्चितम्‌",
-          "english": "When Jupiter is in the 2nd (or 3rd/Sahaja?) and Venus is in the 8th (Mrityusthana), with planets hemmed continuously in between, the person definitely becomes a king. [Garga Hora 1.53]",
-          "hindi": "जब सहज भाव (तृतीय) में जीव (गुरु) हो और मृत्यु स्थान (अष्टम) में शुक्र हो, तथा उनके मध्य निरंतर ग्रह स्थित हों, तो जातकनिश्चित रूप से राजा होता है।",
+          "english": "When Jupiter is in the 3rd (sahaja) and Venus (sita) in the 8th (house of death), with planets continuously in between, he certainly becomes a king.",
+          "hindi": "जब गुरु सहज (तृतीय) भाव में और शुक्र (सित) मृत्यु-स्थान (अष्टम) में हो, और बीच में निरन्तर ग्रह हों, तो वह निश्चय ही राजा होता है।",
           "status": "translated"
         },
         {
@@ -426,8 +426,8 @@
         {
           "number": 57,
           "text": "क्रूरश्च तुलकेन्दरेषु तथा क्रूरो धनेऽपि च। दारिद्रययोगजातश्च स्वयंपक्षक्षयंकरः",
-          "english": "If malefics occupy the quadrants (kendra) from the Moon (or ascendant) and also in the 2nd house, it is a poverty-inducing yoga (Daridra Yoga) and destroys one's own family/relatives. [Garga Hora 1.57]",
-          "hindi": "यदि तुल केन्द्रों में क्रूर (पाप) ग्रह हों तथा धन भाव (द्वितीय) में भी क्रूर ग्रह हो, तो यह दरिद्र योग से उत्पन्न जातक होता है जो स्वयं अपने पक्ष (कुल) का क्षय करने वाला होता है।",
+          "english": "A malefic in the kendras [printed tula-kendreṣu; read tu kendreṣu], and likewise a malefic in the 2nd as well: one born in [this] poverty-yoga destroys his own side.",
+          "hindi": "केन्द्रों में क्रूर ग्रह [मुद्रित तुलकेन्द्रेषु; पाठ तु केन्द्रेषु], और उसी प्रकार द्वितीय में भी क्रूर ग्रह हो, तो इस दारिद्र्य-योग में उत्पन्न जातक अपने ही पक्ष का क्षय करने वाला होता है।",
           "status": "translated"
         },
         {
@@ -454,15 +454,15 @@
         {
           "number": 61,
           "text": "तस्य भ्राता भवेदन्यान्प्रीतात्मा च समुद्धरेत्‌। जीवके च भवेल्लग्ने सर्वयोगे शुभंकरः",
-          "english": "He will have other brothers, and with a loving heart, he will uplift them. When the ascendant is in a Jiva (Jupiter-ruled) sign, all planetary combinations become auspicious. [Garga Hora 1.61]",
-          "hindi": "उसके अन्य भाई होंगे और वह प्रेमपूर्ण हृदय से उनका उद्धार करेगा। लग्न के जीव (गुरु की) राशि में होने पर सभी योग शुभ फल देने वाले होते हैं।",
+          "english": "There would be his brother [bhrātā bhavet], and he, kind-hearted, would uplift others [reading uncertain]. And if Jupiter is in the lagna, [it is] auspicious in all yogas.",
+          "hindi": "उसका भाई होगा [भ्राता भवेत्], और वह प्रीतिपूर्ण हृदय से दूसरों का उद्धार करेगा [पाठ अनिश्चित]। और यदि गुरु लग्न में हो, तो सभी योगों में शुभ करने वाला होता है।",
           "status": "translated"
         },
         {
           "number": 62,
           "text": "दीर्घजीवी महाप्राज्ञो स पुमान्नायको भवेत्‌| अस्मिन्योगे भवेज्जातो स विभुर्दभवर्जित",
-          "english": "He will be long-lived, highly wise, and a leader among men. A person born in this yoga becomes powerful and free from worldly afflictions. [Garga Hora 1.62]",
-          "hindi": "वह दीर्घजीवी, अत्यंत बुद्धिमान और मनुष्यों में नायक होता है। इस योग में उत्पन्न होने वाला मनुष्य शक्तिशाली और भव (संसारिक दुखों) से रहित होता है।",
+          "english": "He is long-lived, very wise, and that man becomes a leader. One born in this yoga is a lord (vibhu), free from pride [reading dambha-varjitaḥ for दभवर्जित].",
+          "hindi": "वह दीर्घजीवी, महाप्राज्ञ होता है और वह पुरुष नायक बनता है। इस योग में उत्पन्न जातक विभु (स्वामी) और दम्भ से रहित [दभवर्जित का पाठ दम्भवर्जितः] होता है।",
           "status": "translated"
         },
         {
@@ -475,29 +475,29 @@
         {
           "number": 64,
           "text": "वीक्षिते तु सुतस्थाने सौरिर्यत्रतदेकिकः",
-          "english": "When Saturn alone is situated and aspects the fifth house (house of children)... [Garga Hora 1.64]",
-          "hindi": "जब शनि अकेला स्थित होकर पुत्र स्थान (पंचम भाव) को देखता है...",
+          "english": "But when the house of children (5th), where Saturn [is], is aspected, then [there is only] one [child] [reading tadaikakaḥ; half-verse, fragmentary].",
+          "hindi": "परन्तु जब सुत-स्थान (पंचम), जहाँ शनि [हो], दृष्ट हो, तब [केवल] एक [सन्तान] होती है [पाठ तदैककः; अर्धश्लोक, खण्डित]।",
           "status": "translated"
         },
         {
           "number": 65,
           "text": "राहुजीवौ रिपु्षत्रे लग्ने सथानाच्चतुर्थके | उमापतिर्यदि रक्षेन्नाशं याति त्रयोदशे",
-          "english": "When Rahu and Jupiter are in an enemy sign, and in the ascendant or fourth house, unless Lord Umapati (Shiva) protects him, death occurs in the thirteenth year. [Garga Hora 1.65]",
-          "hindi": "जब राहु और गुरु शत्रु राशि में हों और लग्न या चतुर्थ भाव में हों, यदि उमापति (शिव जी) रक्षा न करें, तो तेरहवें वर्ष में नाश (मृत्यु) प्राप्त होता है।",
+          "english": "When Rāhu and Jupiter are in an enemy's sign, in the lagna [or] in the 4th place, [the native] perishes in the 13th year, even if Umāpati (Śiva) protects [him].",
+          "hindi": "जब राहु और गुरु शत्रु-राशि में, लग्न में [या] चतुर्थ स्थान में हों, तो उमापति (शिव) भी रक्षा करें तब भी तेरहवें वर्ष में नाश होता है।",
           "status": "translated"
         },
         {
           "number": 66,
           "text": "लग्नात्स्यादष्टमे भौमस्त्रिकोणे नीचगो रविः | शीघ्रं च गुरुधर्मस्थो लक्ष्मीपात्रं भवेन्नरः",
-          "english": "With Mars in the eighth house from the ascendant, the Sun in debilitation in a trine, and Jupiter quickly placed in a religious/dharmic house, the person becomes a vessel of wealth (very prosperous). [Garga Hora 1.66]",
-          "hindi": "लग्न से अष्टम भाव में मंगल हो, त्रिकोण में सूर्य नीच राशि का हो, और गुरु यदि शीघ्र ही धर्म स्थान में हो, तो मनुष्य लक्ष्मी का पात्र (धनी) होता है।",
+          "english": "Mars in the 8th from the lagna, the Sun debilitated in a trine (trikoṇa), and Jupiter in the 9th (dharma): the man quickly becomes a vessel of Lakṣmī (fortune).",
+          "hindi": "लग्न से अष्टम में मंगल, त्रिकोण में नीच का सूर्य, और गुरु धर्म (नवम) भाव में हो, तो मनुष्य शीघ्र ही लक्ष्मी का पात्र होता है।",
           "status": "translated"
         },
         {
           "number": 67,
           "text": "मीनांशे शुक्रो बुधःस्वांशे लग्नंसूर्यः शशी धने। सहजे च भवेद्भमौमो राजयोगं प्रयच्छति",
-          "english": "With Venus in Pisces, Mercury in its own sign, the Sun in the ascendant, the Moon in the second house, and Mars in the third house, it bestows a Raja Yoga. [Garga Hora 1.67]",
-          "hindi": "मीन राशि में शुक्र हो, बुध अपनी राशि में हो, सूर्य लग्न में हो, चंद्रमा धन भाव (द्वितीय) में हो, और मंगल सहज भाव (तृतीय) में हो, तो यह राजयोग प्रदान करता है।",
+          "english": "Venus in a Pisces navāṃśa, Mercury in its own navāṃśa, the Sun in the lagna, the Moon in the 2nd, and Mars in the 3rd: [this] gives a rājayoga.",
+          "hindi": "मीन नवांश में शुक्र, अपने नवांश में बुध, लग्न में सूर्य, धन (द्वितीय) में चन्द्रमा और सहज (तृतीय) में मंगल हो, तो राजयोग प्रदान करता है।",
           "status": "translated"
         },
         {
@@ -524,15 +524,15 @@
         {
           "number": 71,
           "text": "लग्ने शुक्रो धने चन्द्रः सहजस्थो यदा गुरुः| तदार्जितं पितुर्द्रव्यं यच्छुक्रो नैव पश्यति",
-          "english": "When Venus is in the ascendant, the Moon in the second, and Jupiter in the third, the wealth earned by his father is such that Venus does not even look at it (meaning immense wealth is squandered or not protected). [Garga Hora 1.71]",
-          "hindi": "जब लग्न में शुक्र, धन भाव में चंद्रमा और तृतीय भाव में गुरु हो, तो पिता द्वारा उपार्जित धन को शुक्र नहीं देखता है (अर्थात वह नष्ट हो जाता है या सुरक्षित नहीं रहता)।",
+          "english": "Venus in the lagna, the Moon in the 2nd, Jupiter in the 3rd: then the wealth earned by the father — which Venus does not see [sense unclear].",
+          "hindi": "लग्न में शुक्र, धन (द्वितीय) में चन्द्रमा, तृतीय में गुरु हो, तब पिता द्वारा अर्जित धन — जिसे शुक्र नहीं देखता [अर्थ अस्पष्ट]।",
           "status": "translated"
         },
         {
           "number": 72,
           "text": "सिंहे भौमस्तथा सौरिः कन्यायां य यदाशितः। मिथुने च यदा राहूर्भियते जननी शिशोः",
-          "english": "When Mars and Saturn are in Leo, Rahu is in Virgo, and [another condition] is in Gemini, the child's mother passes away. [Garga Hora 1.72]",
-          "hindi": "सिंह राशि में मंगल तथा शनि हों, कन्या राशि में राहु हो और मिथुन राशि में [अन्य ग्रह] स्थित हो, तो शिशु की माता की मृत्यु हो जाती है।",
+          "english": "Mars and likewise Saturn in Leo, Venus (śita) in Virgo, and Rāhu in Gemini: the infant's mother dies.",
+          "hindi": "सिंह में मंगल तथा शनि, कन्या में शुक्र (शित), और मिथुन में राहु हो, तो शिशु की माता की मृत्यु होती है।",
           "status": "translated"
         },
         {
@@ -559,8 +559,8 @@
         {
           "number": 76,
           "text": "स्वक्षेत्रे च यदा सूर्यः कन्यायां क्रूरगेहगः। ्रूरक्षेत्रे यदा राहुः षष्टवर्षण जीवति",
-          "english": "When the Sun is in its own sign, placed in a cruel (malefic) sign like Virgo, and Rahu is in a malefic sign, he lives up to the sixtieth year. [Garga Hora 1.76]",
-          "hindi": "जब सूर्य अपनी राशि में हो, कन्या आदि क्रूर ग्रहों के घर में स्थित हो, और राहु क्रूर क्षेत्र में हो, तो वह साठ वर्ष तक जीवित रहता है।",
+          "english": "When the Sun is in its own sign, [a planet] in Virgo is in a malefic's house [kanyāyāṃ krūragehagaḥ; sense unclear], and Rāhu is in a malefic's sign, he does not live [beyond] the sixth year [reading ṣaṣṭhavarṣe na jīvati for षष्टवर्षण जीवति; as printed, possibly 'lives to the sixtieth year'].",
+          "hindi": "जब सूर्य अपनी राशि में हो, कन्या में [कोई ग्रह] क्रूर ग्रह के घर में हो [कन्यायां क्रूरगेहगः; अर्थ अस्पष्ट], और राहु क्रूर राशि में हो, तो वह छठे वर्ष [से आगे] नहीं जीता [षष्टवर्षण जीवति का पाठ षष्ठवर्षे न जीवति; मुद्रित रूप में संभवतः 'साठवें वर्ष तक जीता है']।",
           "status": "translated"
         },
         {
@@ -587,8 +587,8 @@
         {
           "number": 80,
           "text": "रमरे व्यये तृतीये चाष्टमे क्रूरग्रहो यदि। तदा जातस्य पुत्रस्य शरीरे कष्टमादिशेत्‌",
-          "english": "If malefic planets are placed in the 7th (maraka), 12th, 3rd, or 8th houses, one should predict physical affliction or suffering for the born child. [Garga Hora 1.80]",
-          "hindi": "यदि ममारक (सप्तम), व्यय (द्वादश), तृतीय अथवा अष्टम भाव में क्रूर ग्रह हों, तो उत्पन्न होने वाले बालक के शरीर में कष्ट का निर्देश करना चाहिए।",
+          "english": "If a malefic planet is in the 7th (smara), the 12th, the 3rd or the 8th, then one should declare bodily suffering for the son who is born.",
+          "hindi": "यदि स्मर (सप्तम), व्यय (द्वादश), तृतीय या अष्टम में क्रूर ग्रह हो, तो उत्पन्न पुत्र के शरीर में कष्ट कहना चाहिए।",
           "status": "translated"
         },
         {
@@ -635,15 +635,15 @@
         {
           "number": 2,
           "text": "लग्नपतिः धनभवने धनवन्तं विपुलजीवितम स्थूलं । अतिबलभवनीशं स्थानप्रधानमीशवा भूलाभं वा सुधर्मस्तं करुते ||",
-          "english": "If the lord of Lagna is placed in the 2nd house (Dhana), it makes the native wealthy, long-lived, stout, positioned in a high place, and gaining land. [Garga Hora 2.2]",
-          "hindi": "यदि लग्नेश द्वितीय (धन) भाव में स्थित हो, तो वह जातक को धनवान्, दीर्घायु, पुष्ट शरीर वाला, उच्च पद प्राप्त करने वाला और भूमि लाभ कराने वाला होता है।",
+          "english": "The lagna lord in the 2nd house makes one wealthy, of ample life and stout; very strong [atibala-; bhavanīśam corrupt], foremost in position, a lord (īśvara), or gaining land, and righteous [sudharmastaṃ, read sudharmaṃ taṃ].",
+          "hindi": "लग्नेश धन (द्वितीय) भाव में हो तो धनवान, विपुल आयु वाला और स्थूल; अति बलवान [अतिबल-; भवनीशं भ्रष्ट], स्थान में प्रधान, ईश्वर (स्वामी), अथवा भूमि-लाभ वाला, और सुधर्मी [सुधर्मस्तं, पाठ सुधर्मं तं] बनाता है।",
           "status": "translated"
         },
         {
           "number": 3,
           "text": "सहजगतो लग्नपतिः सदबधुप्रवरमित्रपरिकलितम्‌ ¦ धर्मरतंदातारं शूरं सबलं करोति नरम्‌||",
-          "english": "If the lord of Lagna is placed in the 3rd house (Sahaja), it makes the native blessed with good relatives and friends, devoted to virtue, charitable, and brave. [Garga Hora 2.3]",
-          "hindi": "यदि लग्नेश तृतीय (सहज) भाव में स्थित हो, तो वह जातक को श्रेष्ठ बंधुओं और मित्रों से युक्त, धर्मनिष्ठ, दानी और शूरवीर बनाता है।",
+          "english": "The lagna lord in the 3rd makes a man surrounded by good relatives and excellent friends, devoted to dharma, generous, brave and strong.",
+          "hindi": "लग्नेश तृतीय (सहज) में हो तो मनुष्य को अच्छे बन्धुओं और श्रेष्ठ मित्रों से घिरा, धर्म में रत, दानी, शूर और बलवान बनाता है।",
           "status": "translated"
         },
         {
@@ -1048,8 +1048,8 @@
         {
           "number": 61,
           "text": "सुतनाथ लाभगते शूरः सुतवान्‌ सुकृत्यकृदृ भोगी | गीतादिकलाकलितोनृपलाभीजायते मनुजः।।",
-          "english": "If the 5th lord is placed in the 11th house (Labhasthana), the native becomes courageous, blessed with children, a performer of noble deeds, an enjoyer of pleasures, versed in music and arts, and gains wealth from the king.",
-          "hindi": "यदि पंचमेश एकादश (लाभ) भाव में स्थित हो, तो जातक शूरवीर, सन्तानवान्, शुभ कर्म करने वाला, भोजक, संगीतादि कलाओं में प्रवीण और राजा से धन प्राप्त करने वाला होता है।",
+          "english": "If the 5th lord is in the 11th, the man becomes brave, has sons, does good deeds, is an enjoyer [of pleasures], accomplished in song and the other arts, and gains from the king.",
+          "hindi": "पंचमेश एकादश में हो तो मनुष्य शूर, पुत्रवान, सत्कर्म करने वाला, भोगी, गीत आदि कलाओं में निपुण और राजा से लाभ पाने वाला होता है।",
           "status": "translated"
         },
         {
@@ -1971,8 +1971,8 @@
         {
           "number": 36,
           "text": "मुनिगृहगतभौमे नीचसंस्थेऽरिगेहे युवतिमरणदुःखं जायते मानवानां | मकरगृहनिजस्थे नान्यपत्नीश्चधत्ते चपलमतिविशालां दुष्टचित्तं विरूपाम्‌ ||",
-          "english": "When Mars is in the 7th house in a debilitated or inimical sign, it causes sorrow due to the death of the wife. But if Mars is in Capricorn (exaltation) or its own sign in the 7th, the native does not marry another wife, though she may be fickle-minded, large-bodied, evil-minded, or ill-formed.",
-          "hindi": "जब मंगल सप्तम भाव में नीच या शत्रु राशि का होता है, तो मनुष्यों को स्त्री के मरण का दुःख प्राप्त होता है। किन्तु यदि मंगल मकर (उच्च) या अपनी स्वराशि में सप्तम भाव में स्थित हो, तो जातक दूसरी स्त्री नहीं करता, भले ही वह चंचल मति वाली, विशाल देह वाली, दुष्ट चित्त या विरूप हो।",
+          "english": "When Mars is in the 7th house [muni = 7], in its debilitation or in an enemy's sign, men suffer the sorrow of the death of the wife. In Capricorn or in its own sign, [he] does not take another wife [who is] fickle-minded, large [-bodied], evil-minded and ugly. [The 'na' may be corrupt; read without it: 'he takes another wife, fickle-minded …'.]",
+          "hindi": "जब मंगल सप्तम भाव [मुनि = 7] में नीच राशि में या शत्रु राशि में हो, तो मनुष्यों को पत्नी की मृत्यु का दुःख होता है। मकर या अपनी राशि में हो तो [वह] चंचल-मति, विशाल [देह वाली], दुष्ट-चित्त और कुरूप दूसरी पत्नी नहीं करता। ['न' भ्रष्ट हो सकता है; उसके बिना: 'वह चंचल-मति … दूसरी पत्नी करता है'।]",
           "status": "translated"
         },
         {
@@ -1999,8 +1999,8 @@
         {
           "number": 40,
           "text": "प्रभूत धनवान्‌ मानी सत्यवादी दृढव्रतः | अश्वाढयो गीतसंयुक्तो लाभस्थेभूमिनंदने || विधेयः प्रियवाक्‌ शूरो धनधान्यसमन्वितः। लाभे कुजे मृतो मानी हतचित्तोग्नितस्करैः ||",
-          "english": "When Mars is in the 11th house (Labhasthana), the native becomes abundantly wealthy, honored, truthful, firm in vows, rich in horses, fond of music, obedient, sweet-spoken, brave, and possessed of food grains and riches. Yet when dying, he dies honored though troubled by fire or thieves.",
-          "hindi": "एकादश (लाभ) भाव में मंगल होने पर जातक प्रचुर धनवान्, मानी, सत्यवादी, दृढ़व्रती, घोड़ों से सम्पन्न, संगीतप्रेमी, आज्ञाकारी, प्रियवादी, शूरवीर तथा धन-धान्य से युक्त होता है। एकादश मंगल वाला जातक सम्मानित होकर मृत्यु पाता है, यद्यपि उसका चित्त अग्नि या चोरों से पीड़ित रहता है।",
+          "english": "When Mars is in the 11th, [the native is] very wealthy, proud, truthful, firm in vows, rich in horses and given to song. [Another verse:] With Mars in the 11th, he is obedient, sweet-spoken, brave and possessed of wealth and grain; he is held [reading mato for printed mṛto] proud, and [his wealth, reading hatavitto for printed hatacitto] is destroyed by fire and thieves.",
+          "hindi": "मंगल एकादश में हो तो [जातक] प्रचुर धनवान, मानी, सत्यवादी, दृढ़व्रती, घोड़ों से सम्पन्न और गीत से युक्त होता है। [दूसरा श्लोक:] एकादश मंगल से वह आज्ञाकारी, प्रियभाषी, शूर और धन-धान्य से युक्त; मानी माना जाता है [मुद्रित 'मृतो' के स्थान पर 'मतो' पढ़कर], और अग्नि तथा चोरों से [उसका धन] नष्ट होता है [मुद्रित 'हतचित्तो' के स्थान पर 'हतवित्तो' पढ़कर]।",
           "status": "translated"
         },
         {
@@ -2246,8 +2246,8 @@
         {
           "number": 69,
           "text": "स्वगेहे शुभगेहे वा षष्टे गुरूरमित्रहा | शत्रुगृहेऽरिणा दुष्टे शत्रुपीडा ददाति सः|| गुरुः रिपुगेहे यदा भवेत्‌ तदा भातृस्वसुणांच मातुलानां महासुखम्‌।",
-          "english": "Jupiter in the 6th house in its own or a benefic sign destroys enemies. But if in an enemy's sign afflicted by malefics, it brings affliction from enemies. When Jupiter is in the 6th house, it grants great happiness to brothers, sisters, and maternal uncles.",
-          "hindi": "षष्ठ भाव में गुरु अपनी राशि या शुभ राशि में हो तो शत्रुओं का नाश करता है। किन्तु शत्रु राशि में क्रूर ग्रहों से पीड़ित होने पर शत्रु-पीड़ा देता है। जब गुरु रिपु (षष्ठ) भाव में होता है, तो भाइयों, बहनों और मामाओं को महासुख प्राप्त होता है।",
+          "english": "Jupiter in the 6th, in its own sign or a benefic's sign, destroys enemies; in an enemy's sign and aspected by an enemy [planet] [reading dṛṣṭe for printed duṣṭe], it gives trouble from enemies. When Jupiter is in the 6th house, [there is] great happiness for brothers, sisters and maternal uncles.",
+          "hindi": "षष्ठ में गुरु अपनी राशि या शुभ ग्रह की राशि में हो तो शत्रुओं का नाश करता है; शत्रु की राशि में और शत्रु [ग्रह] से दृष्ट हो [मुद्रित 'दुष्टे' के स्थान पर 'दृष्टे' पढ़कर] तो शत्रु-पीड़ा देता है। जब गुरु षष्ठ भाव में हो तो भाइयों, बहनों और मामाओं को महासुख होता है।",
           "status": "translated"
         },
         {
@@ -2288,15 +2288,15 @@
         {
           "number": 75,
           "text": "सेवा विज्ञो महाक्रोधी सालसो लोकविग्रही| व्ययेन्नदाता धिषणः। गुरुः व्यये यदा पटगोधनहेमसम्पदः। |",
-          "english": "When Jupiter is in the 12th house (Vyayasthana), the native is skilled in service, very wrathful, lazy, quarrelsome with people, unwilling to give charity; yet if Jupiter is well-disposed, he possesses clothes, cattle, wealth, and gold.",
-          "hindi": "द्वादश (व्यय) भाव में गुरु होने पर जातक सेवा कार्य में कुशल, महाक्रोधी, आलसी, लोगों से विवाद करने वाला तथा दान न देने वाला होता है; किन्तु गुरु शुभ हो तो वस्त्र, गो-धन, स्वर्ण और संपत्ति से युक्त होता है।",
+          "english": "[With Jupiter in the 12th, one is] skilled in service, very wrathful, lazy, quarrelsome with people; with Jupiter (dhiṣaṇa) in the 12th, he is a giver of food [reading vyaye 'nnadātā; or: vyaye na dātā, 'not a giver']. When Jupiter is in the 12th, [there are] riches of cloth, cattle-wealth and gold.",
+          "hindi": "[द्वादश में गुरु हो तो जातक] सेवा में निपुण, महाक्रोधी, आलसी और लोगों से विग्रह करने वाला होता है; धिषण (गुरु) व्यय (द्वादश) में हो तो वह अन्नदाता होता है [पाठ व्ययेऽन्नदाता; अथवा: व्यये न दाता, 'दाता नहीं']। जब गुरु द्वादश में हो तो वस्त्र, गो-धन और स्वर्ण की सम्पदा [होती है]।",
           "status": "translated"
         },
         {
           "number": 76,
           "text": "वाचालः शिल्पशीलाढ्यो विनीतो गीततत्परः। काव्यशास्त्रविनोदी च धार्मिको लग्नगे भृगौ | तनुस्थानस्थिते शुक्रे दृष्टिभिः वा विलोकिते । गौरवर्णो भवेत्‌ देहो वातपित्त समन्वितः। कटिपार्वोदरे गुहये व्रणो वाथ तिलोथवा",
-          "english": "When Venus is in the 1st house (Lagna), the native is talkative, rich in arts and good character, modest, fond of singing, delighted in poetry and literature, and righteous. Venus in Lagna or aspected by benefics grants a fair-complexioned body dominated by Vata and Pitta, with a mole or scar on the waist, flanks, abdomen, or private parts.",
-          "hindi": "प्रथम भाव (लग्न) में शुक्र होने पर जातक वाचाल, शिल्प व शील से सम्पन्न, विनीत, गीतप्रेमी, काव्य-शास्त्र विनोदी और धार्मिक होता है। लग्न में शुक्र होने या दृष्ट होने पर शरीर गौर वर्ण का, वात-पित्त प्रकृति का होता है तथा कमर, पसली, पेट या गुह्य स्थान पर तिल या व्रण (निशान) होता है।",
+          "english": "When Venus is in the lagna, one is talkative, rich in crafts and good conduct, modest, given to song, delighting in poetry and the śāstras, and righteous. When Venus is in the 1st house, or aspects it, the body is fair-complexioned and of vāta-pitta constitution; there is a wound-mark or a mole on the waist, flank [reading pārśva], belly or private parts.",
+          "hindi": "लग्न में शुक्र हो तो जातक वाचाल, शिल्प और शील से सम्पन्न, विनीत, गीत में तत्पर, काव्य-शास्त्र का विनोदी और धार्मिक होता है। शुक्र प्रथम भाव में हो या उसे देखता हो, तो देह गौर वर्ण की और वात-पित्त प्रकृति की होती है; कमर, पसली [पाठ पार्श्व], पेट या गुह्य स्थान पर व्रण या तिल होता है।",
           "status": "translated"
         },
         {
@@ -2415,8 +2415,8 @@
         {
           "number": 90,
           "text": "कफाच्चानिलात्‌। गुरुसितेन्दुसुता निधनेऽथवा स्थिरभगाः सततं बहुकष्टदाः",
-          "english": "Jupiter, Venus, or Mercury in the 8th house cause death through Kapha or Vata disorders; if in fixed signs, they continuously bring severe suffering.",
-          "hindi": "अष्टम भाव में गुरु, शुक्र या बुध स्थित होने पर कफ या वात विकार से मृत्यु होती है; यदि वे स्थिर राशि में हों तो निरंतर अत्यधिक कष्ट देते हैं।",
+          "english": "[The opening words complete the previous verse's list: '… from phlegm and from wind'.] Jupiter, Venus and Mercury in the 8th, or [these] in fixed signs, always give much suffering.",
+          "hindi": "[आरम्भ के शब्द पिछले श्लोक की सूची पूरी करते हैं: '… कफ से और वात से'।] अष्टम में गुरु, शुक्र और बुध, अथवा [ये] स्थिर राशियों में हों, तो सदा बहुत कष्ट देते हैं।",
           "status": "translated"
         },
         {
@@ -2429,8 +2429,8 @@
         {
           "number": 92,
           "text": "दशममन्दिरगे भृगुवंशजे बधिरवन्धुयुतः स च भोगवान्‌ | वनगतोऽपि च राज्यफलं लभेत्‌ समरसुन्दरवेशसमन्वितः ||",
-          "english": "When Venus occupies the 10th house (Karmasthana), the native has deaf relatives, is an enjoyer of pleasures, obtains the fruit of kingship even if living in a forest, and is arrayed in beautiful attire suitable for battle.",
-          "hindi": "दशम भाव में शुक्र होने पर जातक बधिर (बधिर/अप्रिय बोलने वाले) बन्धुओं से युक्त, भोजक होता है; वन में रहने पर भी राज्य का फल प्राप्त करता है और युद्धोपयोगी सुंदर वेशभूषा से सुशोभित रहता है।",
+          "english": "When Venus is in the 10th house, one has deaf relatives and is an enjoyer [of pleasures]; even if gone to the forest he would obtain the fruit of kingship, and is endowed with beautiful attire [samara-, 'of battle'; or smara-, 'like Kāma'].",
+          "hindi": "दशम भाव में शुक्र हो तो जातक बधिर बन्धुओं से युक्त और भोगी होता है; वन में जाकर भी राज्य का फल पाता है, और सुन्दर वेश से युक्त होता है [समर-, 'युद्ध का'; या स्मर-, 'कामदेव जैसा']।",
           "status": "translated"
         },
         {
@@ -2549,8 +2549,8 @@
         {
           "number": 106,
           "text": "विश्रामभूतां विनिहंति जायां सूर्यात्मजः सप्तमगश्चरोगान्‌। धत्ते पुनः दभघरांगहीनं मित्रस्थवंशेन हुतासुहटच्च लीवा शनौ |",
-          "english": "Saturn in the 7th house destroys the wife who is a source of rest, and causes diseases. In friendly signs, however, it makes the native deceitful, defective in limbs, or troubled in health.",
-          "hindi": "सप्तम भाव में शनि स्थित होने पर विश्राममयी पत्नी का नाश करता है और रोग उत्पन्न करता है। मित्र राशि में होने पर जातक को दंभी, अङ्गहीन या स्वास्थ्य कष्ट से युक्त बनाता है।",
+          "english": "Saturn in the 7th destroys the wife, [who is his] resting-place, and [brings] diseases. Further, it makes [him] a hypocrite [reading dambhadharam] and deficient in limb; [the rest — mitrastha-vaṃśena hutāsuhṛc ca līvā śanau — is corrupt: perhaps 'in a friend's sign …' and 'impotent' (klība)].",
+          "hindi": "सप्तम में शनि पत्नी का, [जो उसका] विश्राम-स्थान है, नाश करता है और रोग [देता है]। फिर [उसे] दम्भी [पाठ दम्भधरं] और अंगहीन बनाता है; [शेष — मित्रस्थवंशेन हुतासुहृच्च लीवा शनौ — भ्रष्ट है: संभवतः 'मित्र राशि में …' और 'क्लीब' (नपुंसक)]।",
           "status": "translated"
         },
         {
@@ -2563,8 +2563,8 @@
         {
           "number": 108,
           "text": "दभप्रधानः सुकृतः पित्रदैवतवंचकः। क्षीणभाग्यः सुधर्माय स्यान्नरो नवमे शनौ",
-          "english": "When Saturn is in the 9th house (Dharmasthana), the man is hypocritical, deceitful toward parents and deities, of diminished fortune, though appearing to perform good deeds.",
-          "hindi": "नवम (धर्म) भाव में शनि स्थित होने पर मनुष्य दंभी, माता-पिता तथा देवताओं को धोखा देने वाला, क्षीण भाग्य वाला किन्तु शुभ कर्म का आचरण दिखाने वाला होता है।",
+          "english": "When Saturn is in the 9th, the man is chiefly hypocritical, [sukṛtaḥ, unclear], a deceiver of the ancestors and the gods, of diminished fortune, [sudharmāya, corrupt].",
+          "hindi": "नवम में शनि हो तो मनुष्य मुख्यतः दम्भी, [सुकृतः — अस्पष्ट], पितरों और देवताओं को ठगने वाला, क्षीण भाग्य वाला [सुधर्माय — भ्रष्ट] होता है।",
           "status": "translated"
         },
         {
@@ -2591,8 +2591,8 @@
         {
           "number": 112,
           "text": "र्थिरसम्पत्तिभूलाभीशूरः शिल्पान्वितः सुखी । निर्लोभश्च शनौ कैश्चित्‌ मृतप्रथमजीविकः | |",
-          "english": "When Saturn is in the 11th house (Labhasthana), the native gains stable wealth and land, is brave, skilled in arts, happy, free from greed, though some say his initial livelihood comes through deceased persons or hard labor.",
-          "hindi": "एकादश (लाभ) भाव में शनि होने पर जातक स्थिर संपत्ति व भूमि प्राप्त करने वाला, शूरवीर, कलाकुशल, सुखी, लोभरहित होता है; कुछ के अनुसार उसकी प्रथम जीविका मृतकों से सम्बन्धित या कठिन परिश्रम से होती है।",
+          "english": "[With Saturn in the 11th, one] gains stable property and land, is brave, skilled in crafts, happy and free from greed; according to some, [with] Saturn [there], his first livelihood perishes [mṛtaprathamajīvikaḥ].",
+          "hindi": "[एकादश में शनि हो तो जातक] स्थिर सम्पत्ति और भूमि पाने वाला, शूर, शिल्प-युक्त, सुखी और लोभ-रहित होता है; कुछ के मत में [वहाँ] शनि से उसकी पहली जीविका नष्ट होती है [मृतप्रथमजीविकः]।",
           "status": "translated"
         },
         {
@@ -2612,8 +2612,8 @@
         {
           "number": 115,
           "text": "राहौ लग्नगते जातः संचयं कस्य कत्र चित्‌ | सिंह करकिणी मेषस्थे स्वर्णलाभाय मंगलः",
-          "english": "A person born with Rahu in the Lagna accumulates wealth somewhere; Mars placed in Leo, Cancer, or Aries brings gain of gold.",
-          "hindi": "लग्न में राहु होने पर जातक कहीं न कहीं धन का संचय करता ही है; सिंह, कर्क या मेष राशि में स्थित मंगल स्वर्ण-लाभ कराता है।",
+          "english": "One born with Rāhu in the lagna — whose accumulation [is there] anywhere? [i.e. he saves nothing]. [Rāhu] in Leo, Cancer or Aries is auspicious [maṅgalaḥ], for gain of gold.",
+          "hindi": "लग्न में राहु के साथ जन्मे का संचय कहाँ, किसका? [अर्थात् वह कुछ संचय नहीं करता]। सिंह, कर्क या मेष में [राहु] मंगलकारी है, स्वर्ण-लाभ के लिए।",
           "status": "translated"
         },
         {

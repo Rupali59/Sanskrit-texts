@@ -27,15 +27,15 @@
         {
           "number": 1,
           "text": "उन्मण्डलक्ष्मावलयान्तराले द्युरात्रवृत्ते चरखण्डकालः। तज्ज्याऽत्र कुज्या चरशिञ्जिनी स्याद्व्यासार्धवृत्ते परिणामिता सा॥१॥",
-          "english": "The interval on the diurnal circle between the prime vertical (unmaṇḍala) and the horizon circle (kṣitija) represents the ascensional difference (cara-khaṇḍa-kāla). The sine of this arc on the diurnal circle is the kujyā (earth-sine), and when converted to the circle of radius R (trijyāvṛtta), it becomes the cara-śiñjinī (sine of ascensional difference).",
-          "hindi": "उन्मण्डल (समवृत्त) और क्षितिज वृत्त के बीच अहोरात्र वृत्त पर का अन्तर चरखण्डकाल कहलाता है। इस चाप की जीवा कुज्या है, और जब इसे त्रिज्या वृत्त में परिणत किया जाता है तो वह चरशिञ्जिनी (चरज्या) बनती है।",
+          "english": "On the diurnal circle, the interval between the unmaṇḍala [the six-o'clock circle through the poles and the east-west points] and the horizon (kṣmāvalaya) is the cara-khaṇḍa time. Its sine here is the kujyā; that, converted to the circle of radius [trijyā], is the cara-śiñjinī (carajyā).",
+          "hindi": "अहोरात्र वृत्त पर उन्मण्डल [ध्रुवों तथा पूर्व-पश्चिम बिन्दुओं से जाने वाला वृत्त] और क्षितिज के बीच का भाग चरखण्डकाल है। यहाँ उसकी ज्या कुज्या है; वही त्रिज्या-वृत्त में परिणत करने पर चरशिञ्जिनी (चरज्या) होती है।",
           "status": "translated"
         },
         {
           "number": 2,
           "text": "निरक्षदेशे क्षितिजाख्यवृत्तमुन्मण्डलं तज्जगुरन्यदेशे। स्वे स्वे कुजेऽर्कस्य समुद्गमोऽस्माच्चरार्धमर्कोदययोस्तु मध्ये॥२॥",
-          "english": "At the terrestrial equator (nirekṣa-deśa), the horizon circle itself functions as the unmaṇḍala. In other terrestrial latitudes, they differ. The Surya rises at his own local horizon; hence, the time interval between equatorial sunrise and local sunrise is equal to half the ascensional difference (carārdha).",
-          "hindi": "निरक्ष देश (भूमध्य रेखा) पर क्षितिज वृत्त ही उन्मण्डल होता है। अन्य देशों (अक्षांशों) में वे भिन्न होते हैं। सूर्य अपने स्थानीय क्षितिज पर उदित होता है; अतः निरक्षीय सूर्योदय और स्थानीय सूर्योदय के बीच का काल चरार्ध (आधा चर) के बराबर होता है।",
+          "english": "The circle called the horizon at the equator (nirakṣa-deśa) is what they call the unmaṇḍala at other places. At each place the sun rises on its own horizon; hence the carārdha [the ascensional difference itself] lies between the two sunrises [at the unmaṇḍala and at the local horizon].",
+          "hindi": "निरक्ष देश में जो वृत्त क्षितिज कहलाता है, उसी को अन्य देशों में उन्मण्डल कहा गया है। सूर्य का उदय अपने-अपने क्षितिज पर होता है; इसलिए दोनों सूर्योदयों [उन्मण्डल पर और स्थानीय क्षितिज पर] के बीच चरार्ध [अर्थात् चर ही] होता है।",
           "status": "translated"
         },
         {
@@ -209,8 +209,8 @@
         {
           "number": 27,
           "text": "लग्नार्थमिष्टघटिका यदि सावनास्तास्तात्कालिकार्ककरणेन भवेयुरार्क्ष्यः आर्क्षोदया हि सदृशीभ्य इहापनेयास्तात्कालिकत्वमथ न क्रियते यदाऽऽर्क्ष्यः॥२७॥",
-          "english": "If the desired time for calculating the Lagna is given in civil (sāvana) nāḍikās, it must be converted into sidereal (ārkṣa) nāḍikās using Surya's true motion; sidereal risings must be subtracted from equal sidereal durations when computing true positions.",
-          "hindi": "यदि लग्न साधन का इष्टकाल सावन नाड़ियों में दिया हो, तो उसे सूर्य की स्पष्ट गति से आार्क्ष (नाक्षत्र) नाड़ियों में बदलना चाहिए; सम आार्क्ष कालों से नाक्षत्र उदयमानों का विशोधन करके तात्कालिकता प्राप्त की जाती है।",
+          "english": "For [computing] the lagna, if the desired ghaṭikās are civil (sāvana), they become sidereal (ārkṣī) by taking the Sun as of that moment (tātkālika); for here the sidereal risings are to be subtracted from like [i.e. sidereal ghaṭikās]. And when [the ghaṭikās] are [already] sidereal, the making-instantaneous [of the Sun] is not done.",
+          "hindi": "लग्न के लिए यदि इष्ट घटिकाएँ सावन हों, तो तात्कालिक सूर्य बनाने से वे आर्क्षी (नाक्षत्र) हो जाती हैं; क्योंकि यहाँ आर्क्ष उदयों को समान जाति की [अर्थात् आर्क्ष घटिकाओं] से ही घटाना है। और जब [घटिकाएँ पहले से] आर्क्ष हों, तब [सूर्य का] तात्कालिक करण नहीं किया जाता।",
           "status": "translated"
         },
         {
@@ -244,8 +244,8 @@
         {
           "number": 32,
           "text": "र्नक्रश्चापि न वृश्चिको न च घटः पञ्चाद्रयो ७५। ० यत्र च। दृश्यः स्यादिति यत्सदा प्रलपितं लल्लेन गोले निजे गोलज्ञ त्रिलवोनितास्त उदिताः केनोच्यतां हेतुना॥३२॥",
-          "english": "Lalla further claimed that at latitude 75°, Makara, Vrishchika, and Kumbha are never seen. O Astronomer, explain by what logic those Rashis are declared invisible when they actually rise diminished by just 3 degrees!",
-          "hindi": "लल्ल ने यह भी कहा कि ७५° अक्षांश पर मकर, वृश्चिक और कुम्भ कभी नहीं दिखते। हे गोलज्ञ! जब वे केवल ३ अंश घटकर उदित होते हैं, तो उन्हें अदृश्य किस तर्क से कहा गया?",
+          "english": "[...Dhanu (?)], and Makara, and Vṛścika, and Kumbha — that [these] would not be visible where [the latitude is] 75° (pañca-adri = 5,7 → 75) — this Lalla always prattled in his own Gola. O knower of the sphere, say for what reason [this is said], when they rise reduced by trilava [reading 'a third part' or 'three degrees'; the printed word is ambiguous, and only part of Vṛścika and Kumbha stays below the horizon].",
+          "hindi": "[...धनु (?)], और मकर, और वृश्चिक, और कुम्भ — ये ७५° (पञ्च-अद्रि = ५,७ → ७५) अक्षांश वाले देश में दिखाई नहीं देंगे — ऐसा लल्ल ने अपने गोल में सदा प्रलाप किया। हे गोलज्ञ! बताओ, यह किस कारण से कहा गया, जब वे त्रिलव से न्यून होकर उदित होती हैं [त्रिलव का अर्थ 'तीसरा भाग' या 'तीन अंश' — मुद्रित शब्द अस्पष्ट है; वृश्चिक और कुम्भ का केवल कुछ भाग ही क्षितिज के नीचे रहता है]।",
           "status": "translated"
         },
         {
@@ -258,15 +258,15 @@
         {
           "number": 34,
           "text": "उन्नतं द्युनिशमण्डले कृजात्सावनं द्युतिविधौ हि तज्ज्यका। तिर्यगक्षबशलोऽक्षकर्णवच्छेदको न तु नरः स लम्बवत्॥३४॥",
-          "english": "The altitude of a celestial body along its diurnal circle above the horizon is its unnata; its sine is used in calculating solar illumination, adjusted by the hypotenuse of the gnomonic shadow (akṣakarṇa).",
-          "hindi": "अहोरात्र वृत्त पर क्षितिज से ऊपर आकाशीय पिण्ड की ऊँचाई 'उन्नत' कहलाती है; इसकी जीवा का उपयोग सूर्यप्रकाश और अक्षांश-कर्ण (अक्षकर्ण) के छेदन में किया जाता है।",
+          "english": "The unnata [the part of the diurnal circle] above the horizon, measured on the diurnal circle, is in civil (sāvana) [time]; its sine indeed [is used] in the method for the shadow (dyuti). The oblique [line] due to the latitude, like the akṣakarṇa, is the divisor (cheda), not the gnomon; the gnomon is like the plumb-line (lamba).",
+          "hindi": "अहोरात्र वृत्त में क्षितिज से ऊपर का उन्नत [काल] सावन होता है; छाया-साधन (द्युति-विधि) में उसी की ज्या ली जाती है। अक्ष के कारण तिरछी [रेखा], अक्षकर्ण के समान, छेदक (हर) है, शङ्कु नहीं; शङ्कु तो लम्ब के समान [सीधा] है।",
           "status": "translated"
         },
         {
           "number": 35,
           "text": "चद्रप्रभार्थमसाद्विधिनोदितं यत् कैश्चित्कृतं खलु न सत्तदसावनत्वात्। जानन्ति ये न निपुणं गणितं सगोलं तेषां तु तन्त्रकरणव्यसनं वृथैव॥३५॥",
-          "english": "The method stated by some for lunar illumination without using civil diurnal arcs is incorrect. Those who do not thoroughly understand spherical astronomy and calculation pursue astronomical composition in vain.",
-          "hindi": "सावन अहोरात्रमान का प्रयोग किए बिना चन्द्रमा की प्रभा-साधन की जो विधि कुछ लोगों ने कही है, वह अशुद्ध है। जो गोल और गणित को निपुणता से नहीं जानते, उनका ग्रन्थ-रचना का व्यसन व्यर्थ है।",
+          "english": "What has been stated for the Moon's shadow (candra-prabhā) by a [printed 'asād-vidhinā'; read asad-vidhinā, 'an unsound method' (or asakṛd-vidhinā, 'an iterative method')] method, and practised by some, is not correct, because it is not in civil (sāvana) [time]. For those who do not thoroughly know calculation together with the sphere, the passion for composing treatises is in vain.",
+          "hindi": "चन्द्र-छाया (चन्द्रप्रभा) के लिए [मुद्रित 'असाद्विधिना'; पाठ असद्विधिना, 'अनुचित विधि से' (अथवा असकृद्विधिना, 'पुनः-पुनः की विधि से')] विधि से जो कहा गया और कुछ लोगों ने किया, वह सावन न होने के कारण ठीक नहीं है। जो गोल सहित गणित को निपुणता से नहीं जानते, उनका तन्त्र-रचना का व्यसन व्यर्थ ही है।",
           "status": "translated"
         },
         {
@@ -286,8 +286,8 @@
         {
           "number": 38,
           "text": "कुपृष्ठगानां कुदलेन हीनं दृङ्मण्डलार्थं खचरस्य दृश्यम्। कुच्छन्नलिप्तानुरतो विशोध्याः स्वभुक्तितिथ्यंशमिताः प्रभार्थम्॥३८॥",
-          "english": "For observers on the Earth's surface, the visible hemisphere is diminished by the Earth's semi-diameter (parallax adjustment). Parallax corrections proportional to daily motion must be subtracted for accurate shadow calculations.",
-          "hindi": "भू-पृष्ठगामी द्रष्टाओं के लिए दृश्य खगोल भू-व्यासार्ध (पृथ्वी की त्रिज्या) के कारण घट जाता है। अतः छाया साधन के लिए अपनी दैनिक गति के अनुपात से लम्बनांश घटाने चाहिए।",
+          "english": "For those on the earth's surface, the visible [part] of a planet is the half of the dṛṅmaṇḍala diminished by the earth's semi-diameter (kudala). Hence, for the shadow, the minutes covered by the earth (kucchanna-liptāḥ), equal to one-fifteenth (tithi = 15) of [the planet's] own daily motion, are to be subtracted from the altitude [reading 'unnatataḥ' for printed 'anurataḥ'].",
+          "hindi": "भू-पृष्ठ पर रहने वालों के लिए ग्रह का दृश्य भाग दृङ्मण्डल का आधा, भू-व्यासार्ध (कुदल) से हीन होता है। अतः छाया के लिए अपनी दैनिक गति के पन्द्रहवें भाग (तिथि = १५) के बराबर कुच्छन्न-कलाएँ उन्नतांश से [मुद्रित 'अनुरतः' को 'उन्नततः' पढ़कर] घटानी चाहिए।",
           "status": "translated"
         },
         {
@@ -300,8 +300,8 @@
         {
           "number": 40,
           "text": "मूत्राद्विवाशङ्कुतलं यमाशं याम्यां गतं हि द्युनिशं कुजोर्ध्वे। अधश्च सौम्यां निशि सौम्यमस्मात्सद्युक्तियुक्तं नृतलं निरुक्तम्॥४०॥",
-          "english": "The horizontal distance (śanku-tala) from the rising-setting line towards the south or north determines the projection of the diurnal circle above or below the horizon, establishing the true gnomonic base (nṛtala).",
-          "hindi": "उदयास्तसूत्र से शङ्कु के तल तक की दक्षिण या उत्तर दिशा में क्षैतिज दूरी (शङ्कुतल) अहोरात्र वृत्त के क्षितिज के ऊपर या नीचे के क्षेप को निर्धारित करती है; इसे 'नृतल' कहते हैं।",
+          "english": "From the [udayāsta-]sūtra, the śaṅkutala by day is southward, because above the horizon the diurnal circle has gone to the south, and below it to the north; hence at night it is northward. Thus the nṛtala is explained with sound reasoning.",
+          "hindi": "[उदयास्त-]सूत्र से दिन में शङ्कुतल दक्षिण की ओर होता है, क्योंकि क्षितिज के ऊपर अहोरात्र वृत्त दक्षिण की ओर गया है और नीचे उत्तर की ओर; इसलिए रात्रि में वह उत्तर होता है। इस प्रकार सद्युक्ति से नृतल कहा गया।",
           "status": "translated"
         },
         {
@@ -321,8 +321,8 @@
         {
           "number": 44,
           "text": "तत्कोटयः स्वद्युनिशाख्यवृत्ते व्यासार्धवृत्ते परिणामितानाम्। चापेषु तासामसवस्ततो ये तेऽधो विशुद्धा उदया निरक्षे॥४४॥",
-          "english": "The uprights (koṭis) on their respective diurnal circles, when scaled to the standard radius circle and converted to arcs, give the sidereal ascensions (asus) which yield the equatorial risings.",
-          "hindi": "अपने अहोरात्र वृत्तों पर की कोटियाँ जब त्रिज्या वृत्त में परिणत करके चाप बनाई जाती हैं, तो उनके असु (समय-इकाई) प्राप्त होते हैं, जो निरक्षोदयों को देते हैं।",
+          "english": "Their koṭis, [lying] on their own diurnal circles, converted to the circle of radius [trijyā]; the asus from the arcs of those, subtracted each from the one below [i.e. successively], are the risings at the equator.",
+          "hindi": "उनकी कोटियाँ, जो अपने-अपने अहोरात्र वृत्तों में हैं, त्रिज्या-वृत्त में परिणत करके, उनके चापों के असु निकालें; वे असु क्रमशः नीचे वाले से घटाने पर निरक्ष देश के उदय होते हैं।",
           "status": "translated"
         },
         {
@@ -342,15 +342,15 @@
         {
           "number": 47,
           "text": "र्द्युरात्रके  तद्धृतिरत्र कर्णः। भुजोऽपमज्या समना च कर्णः कुज्योनिता तद्धृतिरेव कोटिः॥४७॥",
-          "english": "On the diurnal circle, the diurnal hypotenuse (taddhṛti) is the hypotenuse, declination-sine is base, and diurnal hypotenuse minus earth-sine forms the upright.",
-          "hindi": "अहोरात्र वृत्त पर: तद्धृति कर्ण होती है, क्रान्तिज्या बाहु होती है, और तद्धृति में से कुज्या घटाने पर कोटि बनती है।",
+          "english": "[...] on the diurnal circle, the taddhṛti is here the hypotenuse. [In another triangle,] the bhuja is the declination-sine, the hypotenuse is the samanā [sama-śaṅku, the prime-vertical gnomon], and the koṭi is the taddhṛti diminished by the kujyā.",
+          "hindi": "[...] अहोरात्र वृत्त में यहाँ तद्धृति कर्ण है। [दूसरे त्रिभुज में] क्रान्तिज्या भुज, समना [समशङ्कु] कर्ण, और कुज्या से हीन तद्धृति ही कोटि है।",
           "status": "translated"
         },
         {
           "number": 48,
           "text": "उद्धृत्तना दोरपमः श्रुतिः स्यादग्रादिखण्डं खलु तत्र कोटिः। उद्वृत्तना कोटिरथाग्रकाग्रखण्डं भुजस्तच्छ्रवणः क्षितिज्या॥४८॥",
-          "english": "In the triangle formed by the unmaṇḍala: declination is hypotenuse, the amplitude segment is upright; and in its counterpart, unmaṇḍala altitude is upright, amplitude segment is base, and earth-sine is hypotenuse.",
-          "hindi": "उन्मण्डल द्वारा बने त्रिभुज में: क्रान्ति कर्ण और अग्रा-खण्ड कोटि होती है; तथा उन्मण्डल शङ्कु कोटि, अग्रा-खण्ड बाहु और कुज्या कर्ण होती है।",
+          "english": "The unmaṇḍala gnomon is the bhuja, the declination[-sine] is the hypotenuse, and the first segment of the agrā (agrādi-khaṇḍa) is the koṭi there. [In another,] the unmaṇḍala gnomon is the koṭi, the tip-segment of the agrā (agrāgra-khaṇḍa) is the bhuja, and its hypotenuse is the kujyā (kṣitijyā).",
+          "hindi": "उन्मण्डल-शङ्कु भुज, क्रान्ति[ज्या] कर्ण, और वहाँ अग्रा का आदि-खण्ड कोटि है। [दूसरे में] उन्मण्डल-शङ्कु कोटि, अग्रा का अग्र-खण्ड भुज, और उसका कर्ण कुज्या (क्षितिज्या) है।",
           "status": "translated"
         },
         {
@@ -376,8 +376,8 @@
         {
           "number": 2,
           "text": "द्भूमध्यस्थो न तु वसुमतीपृष्ठनिष्ठस्तदानीम्। तद्दृकसूत्राद्धिमरुचिरधो लम्बितोऽर्कग्रहेऽतः कक्षाभेदादिह खलु नतिर्लम्बनं चोपपन्नम्॥२॥",
-          "english": "The observer stands on the surface of the Earth and not at its center. Along the line of sight, Chandra is depressed lower during a solar eclipse; hence parallax in longitude (lambana) and parallax in latitude (nati) arise from orbital differences.",
-          "hindi": "द्रष्टा पृथ्वी के पृष्ठ पर रहता है, केन्द्र पर नहीं। दृष्टि-सूत्र के कारण सूर्यग्रहण में चन्द्रमा नीचे झुका हुआ दिखता है; अतः कक्षा-भेद के कारण लम्बन (देशान्तर-लम्बन) और नति (अक्षांश-लम्बन) उत्पन्न होते हैं।",
+          "english": "[...the conjunction is seen by an observer] standing at the earth's centre, not by one standing on the earth's surface at that time. From his [the surface observer's] line of sight the Moon is depressed (lambita) below in a solar eclipse; therefore, owing to the difference of orbits, nati and lambana arise here.",
+          "hindi": "[...युति उस द्रष्टा को दिखती है जो] भूमध्य में स्थित हो, उस समय भू-पृष्ठ पर स्थित को नहीं। उस [पृष्ठस्थ] की दृष्टि-रेखा से सूर्यग्रहण में चन्द्रमा नीचे लम्बित होता है; अतः कक्षा-भेद के कारण यहाँ नति और लम्बन उत्पन्न होते हैं।",
           "status": "translated"
         },
         {
@@ -481,8 +481,8 @@
         {
           "number": 18,
           "text": "ये कक्षामण्डले तत्र ज्ञेये हक्क्षेपमण्डले। त्रिभोनलग्नदृग्ज्या या स दृक्क्षेपो द्वयोरपि॥१८॥",
-          "english": "The circles passing through zenith and orbit points form the vertical circles. The sine of the zenith distance of the nonagesimal (tribhona-lagna) is the dṛkkṣepa (sine of vertical parallax angle) for both.",
-          "hindi": "खमध्य और ग्रह-स्थान से जाने वाले वृत्त दृग्वृत्त कहलाते हैं। वित्रिभलग्न (त्रिभोनलग्न/९०° पीछे का बिन्दु) की दृग्ज्या दोनों वृत्तों के लिए 'दृक्क्षेप' कहलाती है।",
+          "english": "The two orbit-circles there [in the diagram] are to be understood as the dṛkkṣepa circles. The dṛgjyā of the lagna less three signs (tribhona-lagna) is the dṛkkṣepa for both.",
+          "hindi": "वहाँ [चित्र में] जो दो कक्षा-वृत्त हैं, उन्हें दृक्क्षेप-वृत्त समझना चाहिए। त्रिभोन लग्न की जो दृग्ज्या है, वही दोनों का दृक्क्षेप है।",
           "status": "translated"
         },
         {
@@ -495,8 +495,8 @@
         {
           "number": 20,
           "text": "कक्षयोरन्तरं यत्स्याद्वित्रिभे सर्वतोऽपि तत्। याम्योत्तरं नतिः साऽत्र दृक्क्षेपात्साध्यते ततः॥२०॥",
-          "english": "The distance between the two orbital planes at the nonagesimal represents the latitudinal separation; hence latitude parallax (nati) is calculated directly from dṛkkṣepa.",
-          "hindi": "वित्रिभ (नॉनगेसिमल) पर दोनों कक्षाओं के बीच की उत्तर-दक्षिण दूरी ही नति होती है, जो दृक्क्षेप से साध्य होती है।",
+          "english": "The difference between the two orbits at the vitribha is the same everywhere; it is north-south; that is the nati here, and so it is computed from the dṛkkṣepa.",
+          "hindi": "वित्रिभ पर दोनों कक्षाओं का जो अन्तर है, वह सर्वत्र वही रहता है; वह याम्योत्तर है; वही यहाँ नति है, इसलिए वह दृक्क्षेप से साधी जाती है।",
           "status": "translated"
         },
         {
@@ -537,8 +537,8 @@
         {
           "number": 26,
           "text": "गत्यन्तरस्य तिथ्यंशः परलम्बनलिप्तिकाः४८/४६। गतियोजन ११८५९• १/४ तिथ्यंशः कुदलस्य ७९०/३५ यतो मितिः॥२६॥",
-          "english": "Maximum horizontal parallax (48' 46\") equals one-fifteenth of the difference in daily motion between Chandra and Surya, derived from Earth's radius (790 yojanas) relative to daily orbital motion (11859 yojanas).",
-          "hindi": "परम लम्बन (४८' ४६\") चन्द्र और सूर्य की दैनिक गति के अन्तर का १५वाँ भाग है, जो पृथ्वी की त्रिज्या (७९० योजन) और दैनिक गति (११८५९ योजन) के अनुपात से प्राप्त होता है।",
+          "english": "One-fifteenth (tithi-aṃśa) of the difference of motions is the maximum parallax in minutes (48'46\"), because one-fifteenth of the motion in yojanas, 11859 [printed '११८५९• १/४'; read as 11859 less 1/4 = 11858¾], is the measure of the earth's semi-diameter, 790;35 [yojanas].",
+          "hindi": "गति-अन्तर का पन्द्रहवाँ भाग (तिथ्यंश) परम लम्बन की कलाएँ (४८'४६\") है, क्योंकि योजनात्मक गति ११८५९ [मुद्रित '११८५९• १/४'; ११८५९ में से १/४ घटाकर = ११८५८¾ पढ़ा] का पन्द्रहवाँ भाग भू-व्यासार्ध का मान ७९०;३५ [योजन] है।",
           "status": "translated"
         },
         {
@@ -732,8 +732,8 @@
         {
           "number": 53,
           "text": "कुम्भादावथ मीनादौ याम्यदग्वलयस्थिते। जायते वलनं तद्यत्सौम्यसूत्रकदम्बयोः॥५३॥",
-          "english": "As the Graha moves through Kumbha and Meena, the deflection increases according to the angular distance between the northern meridian and Ecliptic Pole.",
-          "hindi": "जब ग्रह कुम्भ और मीन राशियों में गति करता है, तो उत्तर याम्योत्तर रेखा और कदम्ब के बीच की कोणीय दूरी के अनुसार वलन बढ़ता जाता है।",
+          "english": "When the beginning of Kumbha, and [then] of Mīna, is situated on the south-north circle, the valana arises which is [the distance] between the north line and the kadamba.",
+          "hindi": "जब कुम्भ का आदि और फिर मीन का आदि याम्योत्तर वृत्त पर स्थित होता है, तब वह वलन उत्पन्न होता है जो उत्तर-सूत्र और कदम्ब के बीच [का अन्तर] है।",
           "status": "translated"
         },
         {
@@ -746,8 +746,8 @@
         {
           "number": 55,
           "text": "उत्क्रमज्या यतो बाणः शिञ्जिनी तु क्रमज्यका। सत्रिभार्कात्क्रमकान्तिज्यातो वलनमायनम्॥५५॥",
-          "english": "Because versed sine is sagitta and standard sine is half-chord, āyana-valana must be computed from the standard sine of declination of Graha plus 90 degrees.",
-          "hindi": "चूँकि उत्क्रमज्या बाण (शौक) रूप होती है और क्रमज्या अर्धज्या रूप होती है, अतः आयन-वलन का साधन ९०° जोड़कर ग्रह की क्रम-क्रान्तिज्या से ही करना चाहिए।",
+          "english": "Since the utkramajyā is the arrow (bāṇa) while the śiñjinī is the kramajyā, the āyana valana [is found] from the kramajyā of the declination of the Sun plus three signs (sa-tribha-arka).",
+          "hindi": "क्योंकि उत्क्रमज्या बाण है और शिञ्जिनी क्रमज्या है, इसलिए आयन वलन त्रिभ-युक्त सूर्य की क्रम-क्रान्तिज्या से [निकाला जाता है]।",
           "status": "translated"
         },
         {
@@ -760,8 +760,8 @@
         {
           "number": 57,
           "text": "परोक्तेरन्यथा ब्रूयाद्यः परान्न प्रदूषयेत्। तस्यैव दूषणं तद्धि न दोषोऽतोऽन्यदूषणे॥५७॥",
-          "english": "One who presents a correct mathematical derivation differing from predecessors does not falsely vilify them; the error belongs to the original flawed statement, not to the critic who exposes it.",
-          "hindi": "जो पूर्वाचार्यों के कथन से भिन्न सत्य गणितीय युक्ति प्रस्तुत करता है, वह दूसरों को दूषित नहीं करता; दोष तो मूल अशुद्ध कथन में है, उसका खण्डन करने वाले में नहीं।",
+          "english": "One who would state [something] contrary to another's statement and not refute the others — that is a fault of his own; hence there is no fault in refuting others.",
+          "hindi": "जो दूसरे के कथन से भिन्न कहे और दूसरों का खण्डन न करे — वह उसी का दोष है; इसलिए दूसरों के खण्डन में कोई दोष नहीं।",
           "status": "translated"
         },
         {
@@ -809,8 +809,8 @@
         {
           "number": 64,
           "text": "समवृत्तेऽक्षवृत्ते च तैरेव स्यान्नतं ध्रुवात्। समवृत्तनतांशज्याऽक्षज्यापरिणताक्षजम्॥६४॥",
-          "english": "The inclination from Celestial Pole equals the hour angle on prime vertical; sine of hour angle scaled by latitude-sine yields akṣaja-valana.",
-          "hindi": "समवृत्त और अक्षवृत्त पर ध्रुव से नत-अंश भी उतने ही होते हैं; समवृत्त के नतांशों की ज्या को अक्षज्या से परिणमित करने पर अक्षज वलन प्राप्त होता है।",
+          "english": "By those same degrees it is inclined from the pole on the prime vertical and on the akṣa-circle. The sine of the nata-degrees on the prime vertical, converted by the akṣajyā, is the akṣaja [valana].",
+          "hindi": "समवृत्त और अक्षवृत्त पर ध्रुव से भी उन्हीं अंशों से नति होती है। समवृत्त के नतांशों की ज्या, अक्षज्या से परिणत करने पर, अक्षज [वलन] होती है।",
           "status": "translated"
         },
         {
@@ -830,8 +830,8 @@
         {
           "number": 67,
           "text": "तन्त्रिज्या वर्गविश्लेषपदभक्ताक्षशिञ्जिनी। नतासुदोर्ज्यया क्षुण्णा वलनं पलजं स्फुटम्॥६७॥",
-          "english": "Multiplied by latitude-sine and divided by the square root of (trijyā² - amplitude²), then scaled by sine of hour angle in asus, yields precise akṣaja-valana.",
-          "hindi": "उसे अक्षांशज्या से गुणा करके √(त्रिज्या² - अग्रा²) से भाग दें, फिर नत-प्राणों की भुजज्या से गुणा करने पर स्पष्ट अक्षज (पलज) वलन प्राप्त होता है।",
+          "english": "The akṣajyā, divided by the square root of the difference of the squares of the trijyā and that [sum or difference of agrā and nṛtala], and multiplied by the bhujajyā of the nata-asus, is the true akṣaja (palaja) valana.",
+          "hindi": "अक्षज्या को त्रिज्या और उस [अग्रा तथा नृतल के योग या अन्तर] के वर्गों के अन्तर के मूल से भाग दें, और नतासुओं की भुजज्या से गुणा करें; तब स्पष्ट अक्षज (पलज) वलन होता है।",
           "status": "translated"
         },
         {
@@ -920,15 +920,15 @@
         {
           "number": 6,
           "text": "तच्चापैक्यान्तराप्राणैः कुजात्खेटो नतोन्नतः। तैः प्राणैर्यत्क्रमाल्लग्नं नतात्खेटात्प्रजायते॥६॥",
-          "english": "By the sidereal time (prāṇas) of the sum or difference of these correction arcs, the Graha is depressed or elevated from the horizon; adding or subtracting these prāṇas to the Graha yields its horizon ascension point.",
-          "hindi": "इन दोनों संस्कारों के योग या अन्तर के असुओं (प्राणों) द्वारा ग्रह क्षितिज से उन्नत या अवनत होता है; इन प्राणों को ग्रह में जोड़ने या घटाने से उसका क्षितिज-संगम बिन्दु प्राप्त होता है।",
+          "english": "By the prāṇas (asus) of the sum or difference of those arcs [of the āyana and ākṣa dṛkkarma], the planet is depressed or raised from the horizon. With those prāṇas, the lagna that arises in direct order (krama) from the depressed planet ... [continued in the next verse].",
+          "hindi": "उन चापों [आयन और आक्षज दृक्कर्म] के योग या अन्तर के प्राणों (असुओं) से ग्रह क्षितिज से नत या उन्नत होता है। उन प्राणों से नत ग्रह से क्रम (सीधी रीति) से जो लग्न उत्पन्न होता है ... [अगले श्लोक में जारी]।",
           "status": "translated"
         },
         {
           "number": 7,
           "text": "उत्क्रमेणानताद्यच्च तद्ग्रहोदयलग्नकम्। उक्तव्यत्ययतः प्रत्यगस्तलग्नं सषड्ग्रहात्॥७॥",
-          "english": "Evaluating the rising Rashi corresponding to that modified point gives the Graha's eastern rising Lagna; reversing the process for Graha plus 6 Rashis gives the western setting Lagna.",
-          "hindi": "उस संस्कृत बिन्दु के अनुसार उदयराशि निकालने पर ग्रह का पूर्वी उदयलग्न प्राप्त होता है; और ग्रह में ६ राशियाँ जोड़कर विपरीत प्रक्रिया करने पर पश्चिमी अस्तलग्न प्राप्त होता है।",
+          "english": "... and that which [arises] by reverse order (utkrama) from the raised planet — that is the planet's rising-lagna. By reversing the stated [procedure], the western setting-lagna [is found] from the planet increased by six [signs].",
+          "hindi": "... और उन्नत ग्रह से उत्क्रम (उलटी रीति) से जो [लग्न] आता है, वह ग्रह का उदय-लग्न है। कही गई विधि को उलटकर, छह [राशि] जोड़े हुए ग्रह से पश्चिम का अस्त-लग्न [प्राप्त होता है]।",
           "status": "translated"
         },
         {
@@ -941,8 +941,8 @@
         {
           "number": 9,
           "text": "विभिन्नैकदिशोर्विद्यादक्षजेन नतोन्नतम् | आयनाक्षजयोर्योगवियोगाल्लग्नमुक्तवत्॥९॥",
-          "english": "The elevation or depression due to akṣaja correction depending on opposite or same direction; combining āyana and akṣaja corrections determines the true Lagna as stated.",
-          "hindi": "अक्षज दृक्कर्म का साधन किया जाता है; आयन और अक्षज संस्कारों के संयोजन से पूर्वोक्त प्रकार से स्पष्ट लग्न बनता है।",
+          "english": "[By the prāṇas of the sum or difference of those arcs, according as they are] of different or the same direction, one should know the depression or elevation due to the ākṣa [correction]. From the sum or difference of the āyana and ākṣa [corrections], the lagna [is found] as stated.",
+          "hindi": "[उन चापों के योग या अन्तर के प्राणों से, वे] भिन्न या एक दिशा के [हों तो], आक्षज [संस्कार] से नत-उन्नत जानना चाहिए। आयन और आक्षज के योग या वियोग से लग्न पूर्वोक्त प्रकार से [प्राप्त होता है]।",
           "status": "translated"
         },
         {
@@ -955,8 +955,8 @@
         {
           "number": 11,
           "text": "ब्रह्मगुप्तादिभिः स्वल्पान्तरत्वान्न कृतः स्फुटः। स्थित्यर्धपरिलेखादौ गणितागत एव हि॥११॥",
-          "english": "Brahmagupta and others did not rectify latitude due to the minute difference involved; however, in eclipse duration and graphical projection, the mathematically true latitude must be used.",
-          "hindi": "ब्रह्मगुप्त आदि आचार्यों ने सूक्ष्म अन्तर होने के कारण शर का स्फुट-साधन नहीं किया; किन्तु ग्रहण-अवधि और परिलेख (ग्राफिकल प्रोजेक्शन) में गणित-सिद्ध स्फुट-शर का ही प्रयोग होना चाहिए।",
+          "english": "Brahmagupta and others did not make [the śara] true (sphuṭa), because the difference is very small. In [computing] half-duration (sthityardha), the graphical projection (parilekha) etc., [the śara] as obtained by computation [itself, unrectified] is indeed [used].",
+          "hindi": "ब्रह्मगुप्त आदि ने अन्तर बहुत अल्प होने के कारण [शर को] स्फुट नहीं किया। स्थित्यर्ध, परिलेख आदि में गणित से आया हुआ [अस्फुट] शर ही [लिया जाता है]।",
           "status": "translated"
         },
         {
@@ -1052,8 +1052,8 @@
         {
           "number": 3,
           "text": "कक्षाचतुर्थे तरर्णेर्हि चन्द्रकर्णान्तरे तिर्यगिनो यतोऽब्जात्। पादोनषट्काष्ट८९लवान्तरेऽतो दलं नृदृश्यस्य दलस्य शुक्लम्॥३॥",
-          "english": "At first or third quarter, when Surya is at a right angle (89° 51' elongation accounting for distance ratio), Surya shines laterally on Chandra; hence exactly half of the visible lunar hemisphere is illuminated.",
-          "hindi": "प्रथम या तृतीय चतुर्थांश (अष्टमी) में जब सूर्य चन्द्रमा से समकोण पर (८९° ५१' दूरी पर) होता है, तब सूर्य पार्श्व से चमकता है; अतः दृश्य चन्द्रगोल का ठीक आधा भाग शुक्ल (प्रकाशित) दिखता है।",
+          "english": "For when [the Moon] is at a quarter of the orbit [from the Sun], the Sun is sideways (tiryak) to the Moon, because of the difference between the Sun's and the Moon's distances (karṇa) — at an interval of 'pādona-ṣaṭkāṣṭa' [printed numeral: 89] degrees [pādona = less a quarter; reading assumed: about 89°, possibly 90° − ¼° = 89°45′]; hence half of the half [of the Moon] visible to men is white.",
+          "hindi": "क्योंकि जब [चन्द्रमा सूर्य से] कक्षा के चतुर्थांश पर होता है, तब सूर्य और चन्द्रमा के कर्णों (दूरियों) के अन्तर के कारण सूर्य चन्द्रमा से तिरछा होता है — 'पादोनषट्काष्ट' [मुद्रित अंक: ८९] अंशों के अन्तर पर [पादोन = चौथाई कम; मान्य पाठ: लगभग ८९°, सम्भवतः ९०° − ¼° = ८९°४५′]; अतः मनुष्यों को दिखने वाले आधे भाग का आधा शुक्ल होता है।",
           "status": "translated"
         },
         {
@@ -1093,15 +1093,15 @@
         {
           "number": 3,
           "text": "अपवृत्तगरविचिह्न क्षितिजे  धृत्वा कुजेन संसके। नाडीवृत्ते बिन्दुं कृत्वा धृत्वाऽथ जलसमं क्षितिजम्॥३॥",
-          "english": "Setting the solar point on the ecliptic ring upon the horizon circle, adjusting the equator ring, marking the equinoctial point, and keeping the horizon perfectly level with water...",
-          "hindi": "क्रान्तिवृत्त पर सूर्य-चिह्न को क्षितिज-वृत्त पर रखकर, नाड़ीवृत्त पर बिन्दु बनाकर और जल से क्षितिज को समतल करके...",
+          "english": "Having held the Sun's mark on the ecliptic at the horizon, and having made a point on the equator circle [where it is] in contact with the horizon, and then having held the horizon level with water ... [continued].",
+          "hindi": "क्रान्तिवृत्त पर सूर्य के चिह्न को क्षितिज पर रखकर, नाडीवृत्त पर क्षितिज से जहाँ वह मिलता है वहाँ बिन्दु बनाकर, फिर क्षितिज को जल से समतल रखकर ... [जारी]।",
           "status": "translated"
         },
         {
           "number": 4,
           "text": "रविचिह्नस्य च्छाया पतति कुमध्ये यथा तथा विधृते। उडुगोले कुजविन्द्वोर्मध्ये नाड्यो द्युयाताः स्युः॥४॥",
-          "english": "Holding the stellar globe so that the shadow of Surya-mark falls on the Earth's center, the arc between horizon and mark on the equator ring indicates elapsed day-nāḍikās.",
-          "hindi": "सूर्य-चिह्न की छाया भू-केन्द्र पर पड़ने पर नाड़ीवृत्त पर बीती नाड़ियाँ ज्ञात होती हैं।",
+          "english": "When the star-sphere is held so that the shadow of the Sun's mark falls on the centre of the Earth, then the nāḍīs between the horizon and the point [made on the equator] are the nāḍīs elapsed of the day.",
+          "hindi": "जब नक्षत्र-गोल को इस प्रकार रखा जाए कि सूर्य-चिह्न की छाया भू-मध्य पर पड़े, तब क्षितिज और [नाडीवृत्त पर बनाए] बिन्दु के बीच की नाड़ियाँ दिन की बीती नाड़ियाँ होती हैं।",
           "status": "translated"
         },
         {
@@ -1128,15 +1128,15 @@
         {
           "number": 8,
           "text": "घटदलरूपा घटिता घटिका ताम्री तले पृथुच्छिद्रा। द्युनिशनिमज्जनमित्या भक्तं द्युनिशं घटीमानम्॥८॥",
-          "english": "A copper hemispherical bowl (ghaṭī-yantra) with a calibrated perforation at its bottom, floating in water, sinks 60 times in a day-and-night, measuring each nāḍikā precisely.",
-          "hindi": "तांबे का अर्धगोलाकार पात्र (घटीयन्त्र) जिसके तले में सूक्ष्म छिद्र हो, जल में तैरते हुए अहोरात्र (२४ घण्टे) में ठीक ६० बार डूबता है और प्रत्येक नाड़ी को सूक्ष्मता से नापता है।",
+          "english": "The ghaṭikā is made of copper in the shape of half a pot, with a hole ('pṛthu', wide) in its bottom. The day-night divided by the number of its sinkings in a day-night is the measure of [one] ghaṭī.",
+          "hindi": "घटिका ताँबे की, आधे घड़े के आकार की बनाई जाती है, जिसके तल में (पृथु, चौड़ा) छिद्र हो। अहोरात्र को अहोरात्र में उसके डूबने की संख्या से भाग देने पर घटी का मान होता है।",
           "status": "translated"
         },
         {
           "number": 9,
           "text": "समतलमस्तकपरिधिर्भ्रमसिद्धो दन्तिदन्तजः शङ्कुः। तच्छायातः प्रोक्तं ज्ञानं दिग्देशकालानाम्॥९॥",
-          "english": "A gnomon (śaṅku) turned on a lathe from ivory or wood, with flat base and circular rim, yields knowledge of direction, latitude (space), and time through its shadow.",
-          "hindi": "हाथीदाँत या लकड़ी से खराद पर सिद्ध किया गया चौरस मस्तक और गोल परिधि वाला शङ्कु अपनी छाया से दिक्, देश (अक्षांश) और काल का ज्ञान देता है।",
+          "english": "The śaṅku (gnomon) is made of ivory, turned on a lathe, with a flat top and [an even] circumference. From its shadow, knowledge of direction, place and time is stated.",
+          "hindi": "शङ्कु हाथीदाँत का, खराद पर बना, समतल मस्तक और [सम] परिधि वाला होता है। उसकी छाया से दिशा, देश और काल का ज्ञान कहा गया है।",
           "status": "translated"
         },
         {
@@ -1163,15 +1163,15 @@
         {
           "number": 13,
           "text": "पैत्रर्क्षपुष्यान्तिमवारुणानामऋक्षद्वयं नेमिगतं यथा स्यात्। दूरेऽन्तरेऽल्पेषुभखेचरौ वा तथाऽत्र यन्त्रं सुधिया प्रधार्यम्॥१३॥",
-          "english": "Positioning pair-stars such as Maghā, Puṣya, Revatī, Śatabhiṣā on the instrument rim or sighting two distant Grahas/stars, the wise astronomer holds the instrument steadily.",
-          "hindi": "मघा-पुष्य, रेवती-शतभिषा आदि तारा-युग्मों या ग्रहों को चक्र की नेमि पर साधकर ज्योतिषी यन्त्र को स्थिर रखता है।",
+          "english": "The instrument should be held by the wise so that a pair of stars from Maghā (paitra), Puṣya, Revatī (antima) and Śatabhiṣā (vāruṇa) lies on the rim; or [so that] a star and a planet of small latitude, at a large distance [from each other, lie on it].",
+          "hindi": "बुद्धिमान् को यन्त्र इस प्रकार रखना चाहिए कि मघा (पैत्र), पुष्य, रेवती (अन्तिम) और शतभिषा (वारुण) में से दो नक्षत्र नेमि पर आ जाएँ; अथवा अल्प शर वाले नक्षत्र और ग्रह, जो दूर अन्तर पर हों, [नेमि पर आ जाएँ]।",
           "status": "translated"
         },
         {
           "number": 14,
           "text": "नेमिस्थदृष्ट्याऽक्षगतं प्रपश्येत् खेटं च धिष्ण्यस्य च योगताराम्। नेम्यङ्कयोरक्षयुजोस्तु मध्ये येंऽशाः स्थिता भध्रुवको युतस्तैः॥१४॥",
-          "english": "Sighting the Graha or junction star through the rim pin aligned with the center axis, the degrees between rim mark and center give the latitude/polar distance added to star polar longitude.",
-          "hindi": "नेमि पर स्थित छिद्र से केन्द्र-अक्ष के अनुदिश ग्रह या योगतारा को देखने पर, नेमि-चिह्न और केन्द्र का अन्तर ग्रह का ध्रुवक और अक्षांश देता है।",
+          "english": "With the eye at the rim, one should see the planet and the junction-star (yogatārā) of the asterism lying on [the line of] the axis. The degrees lying between the two rim-marks met by the axis — the star's dhruvaka increased by them [gives the planet].",
+          "hindi": "नेमि पर दृष्टि रखकर ग्रह और नक्षत्र की योगतारा को अक्ष की [रेखा] पर देखना चाहिए। अक्ष से मिले दोनों नेमि-चिह्नों के बीच जो अंश हों, उनसे नक्षत्र का ध्रुवक युक्त करने पर [ग्रह प्राप्त होता है]।",
           "status": "translated"
         },
         {
@@ -1205,8 +1205,8 @@
         {
           "number": 21,
           "text": "षष्ट्यङ्गुलव्याममतश्च रन्ध्रात् कृत्वा सुवृत्तं परिधौ तदङ्क्यम्। षष्ट्या घटीनां भगणांश ३६० केश्च प्रत्यंशकं चाम्बुपलैश्च दिग्भिः॥ २१॥",
-          "english": "Drawing a circle of 60 inches radius from that hole, its circumference is graduated into 60 nāḍikās, 360 degrees, and corresponding sub-units of time.",
-          "hindi": "उस छिद्र से ६० अङ्गुल त्रिज्या का वृत्त खींचकर उसकी परिधि पर ६० नाड़ियाँ, ३६० अंश और उनके सूक्ष्म काल-विभाग चिह्नित करने चाहिए।",
+          "english": "And from that hole, having drawn a good circle sixty aṅgulas in diameter (vyāsa) [printed 'vyāma'], its circumference should be marked with sixty ghaṭīs, with the 360 degrees of the circle, and each degree with ten water-palas (ambupala).",
+          "hindi": "और उस छिद्र से साठ अङ्गुल व्यास [मुद्रित 'व्याम'] का सुन्दर वृत्त बनाकर उसकी परिधि को साठ घटियों से, भगण के ३६० अंशों से, और प्रत्येक अंश को दस जलपलों से अङ्कित करना चाहिए।",
           "status": "translated"
         },
         {
@@ -1226,8 +1226,8 @@
         {
           "number": 24,
           "text": "तैः क्रान्तिपाताड्यरवेर्भुजज्या पष्ट्युद्धृताक्षश्रवणेन युक्ता। दिग्धी कृताऽऽप्ता भवतीह यष्टिः सा पट्टिकायां सुचिरात् प्रदेया॥२४॥",
-          "english": "The sine of solar longitude plus ayanāṁśa, multiplied by 60 and divided by gnomonic hypotenuse, adjusted for direction, gives the staff length (yaṣṭi) marked on the index strip.",
-          "hindi": "अयनांश-युक्त सूर्य के मन्दफल की भुजज्या को ६० से गुणा करके अक्षकर्ण से भाग देने पर प्राप्त यष्टि-मान पट्टिका पर अङ्कित किया जाता है।",
+          "english": "With those [segments], the bhuja-sine of the Sun increased by the krāntipāta [ayanāṃśa], joined (yuktā) [i.e. combined, perhaps multiplied] with the akṣakarṇa divided by sixty, and made 'digdhī' [text corrupt; perhaps 'multiplied by ten'] and divided — becomes the yaṣṭi here; it should be marked on the strip (paṭṭikā) with great care.",
+          "hindi": "उन [खण्डों] से, क्रान्तिपात [अयनांश] से युक्त सूर्य की भुजज्या को, साठ से भाजित अक्षकर्ण से युक्त (सम्भवतः गुणित) करके, 'दिग्धी' [पाठ भ्रष्ट; सम्भवतः दस से गुणित] करके भाग देने पर यहाँ यष्टि होती है; उसे पट्टिका पर बड़े यत्न से अङ्कित करना चाहिए।",
           "status": "translated"
         },
         {
@@ -1275,8 +1275,8 @@
         {
           "number": 31,
           "text": "अत्रोपपत्तिस्रैराशिकेन। तद्यथा। यद्यस्य शङ्कोः शङ्कूदयास्तसूत्रयोरन्तरं शङ्कुतलं भुजस्तदा द्वादशाङ्गुलस्य शङ्कोः क हति। कतं दिषुवती भवति॥३१॥",
-          "english": "The rationale here is by proportion: if for a given gnomon height the distance from rising-setting line to gnomon base is śaṅkutala, then for a 12-inch gnomon the corresponding shadow is derived.",
-          "hindi": "इसकी उपपत्ति त्रैराशिक (अनुपात) से है: यदि दिए गए शङ्कु के लिए शङ्कुतल बाहु बनता है, तो १२ अङ्गुल शङ्कु के लिए इष्ट छाया सिद्ध होती है।",
+          "english": "Here the proof is by the rule of three, as follows: if for this śaṅku the śaṅkutala — the distance between the śaṅku and the rising-setting line — is the bhuja, then for a śaṅku of 12 aṅgulas, what? The result [printed 'kataṃ'; read 'phalaṃ'] is the equinoctial shadow (viṣuvatī, printed 'diṣuvatī').",
+          "hindi": "यहाँ उपपत्ति त्रैराशिक से है। जैसे: यदि इस शङ्कु के लिए शङ्कु और उदयास्त-सूत्र का अन्तर, शङ्कुतल, भुज है, तो १२ अङ्गुल शङ्कु के लिए क्या? फल [मुद्रित 'कतं'] विषुवती (पलभा, मुद्रित 'दिषुवती') होता है।",
           "status": "translated"
         },
         {
@@ -1296,8 +1296,8 @@
         {
           "number": 36,
           "text": "प्राग्वदतोऽक्षच्छाया तच्छ्रुतिविहृताग्रकार्कसंगुणिता। कान्तिज्या त्रिज्याघ्नी जिनभागज्योद्धृता÷दोर्ज्या॥३६॥",
-          "english": "From equinoctial shadow and hypotenuse, multiplying amplitude by 12 and dividing by hypotenuse yields declination-sine; multiplying by radius R and dividing by 24° sine yields the sine of solar longitude.",
-          "hindi": "अक्षभा और अक्षकर्ण से अग्रा को १२ से गुणा करके अक्षकर्ण से भाग देने पर क्रान्तिज्या मिलती है; इसे त्रिज्या से गुणा करके २४° की ज्या से भाग देने पर सूर्य का राश्यात्मक स्थान आता है।",
+          "english": "As before, from this the equinoctial shadow [is found]. The agrā multiplied by 12 and divided by its hypotenuse (akṣakarṇa) is the declination-sine; that multiplied by the radius and divided by the sine of 24° is the bhuja-sine (dorjyā) [of the Sun].",
+          "hindi": "पहले की भाँति इससे अक्षभा [ज्ञात होती है]। अग्रा को १२ से गुणा करके उसके कर्ण (अक्षकर्ण) से भाग देने पर क्रान्तिज्या होती है; उसे त्रिज्या से गुणा करके २४° की ज्या से भाग देने पर [सूर्य की] दोर्ज्या (भुजज्या) होती है।",
           "status": "translated"
         },
         {
@@ -1317,8 +1317,8 @@
         {
           "number": 39,
           "text": "छायातोऽग्रातो वा भानुः सक्रान्तिपात एव स्यात्‌। पातोनः स्फुटभानुः स्फुटभानूनो भवेत्‌ पातः॥३९॥",
-          "english": "Solar longitude derived from shadow or amplitude includes ayanāṁśa (precession); subtracting ayanāṁśa yields true tropical/sidereal Surya, and subtracting true Surya yields ayanāṁśa.",
-          "hindi": "छाया या अग्रा से प्राप्त सूर्य अयनांश-युक्त होता है; अयनांश घटाने पर स्पष्ट सायन/निरयण सूर्य प्राप्त होता है।",
+          "english": "The Sun [found] from the shadow or from the agrā is [the Sun] together with the krāntipāta (ayanāṃśa). Reduced by the pāta, it is the true Sun; [the former] reduced by the true Sun becomes the pāta.",
+          "hindi": "छाया से या अग्रा से [प्राप्त] सूर्य क्रान्तिपात (अयनांश) सहित ही होता है। पात घटाने पर वह स्फुट सूर्य है; [उसमें से] स्फुट सूर्य घटाने पर पात होता है।",
           "status": "translated"
         },
         {
@@ -1338,8 +1338,8 @@
         {
           "number": 42,
           "text": "यष्ट्यग्रमूलसंस्थं विद्ध्वा ध्रूवमप्रमूलयोर्लब्धौ। बाहुर्लम्बान्तरभूर्लम्बोच्छायान्तरं कोटिः॥४२॥",
-          "english": "Sighting the pole/top through staff tip and base, the horizontal distance between plumb-lines forms the base (bāhu), and difference in shadow heights forms the upright (koṭi).",
-          "hindi": "यष्टि के नोक और मूल से ध्रुव/शिखर को साधने पर, ओलम्ब-रेखाओं का क्षैतिज अन्तर बाहु और छाया-ऊँचाइयों का अन्तर कोटि बनता है।",
+          "english": "Having sighted [the object] as lying [in line] with the tip and root of the staff, in the two [sightings], from the tip and from the root [printed 'apramūlayoḥ'; read 'agramūlayoḥ']: the bāhu is the ground between the plumb-lines, and the koṭi is the difference between the heights of the plumb-lines.",
+          "hindi": "[वस्तु को] यष्टि के अग्र और मूल की सीध में देखकर, अग्र और मूल [मुद्रित 'अप्रमूलयोः'] की दोनों [दृष्टियों] में: लम्बों के बीच की भूमि बाहु है, और लम्बों की ऊँचाइयों का अन्तर कोटि है।",
           "status": "translated"
         },
         {
@@ -1359,8 +1359,8 @@
         {
           "number": 47,
           "text": "ऊर्ध्वस्थस्य गृहादिभिर्व्यवहितस्याप्यग्रमात्रं सखे वंशस्य प्रगुणस्य यस्य सुसमे देशे समालोक्यते। अत्रैव त्वमवस्थितो यदि वदस्यस्यान्तरं चोच्छ्रयं मन्ये यन्त्रविदां वरिष्ठपदवीं यातोऽसि धीयन्त्रवित्॥४७॥",
-          "english": "O friend! If you can stand right here and determine the distance and height of a tall bamboo hidden behind Bhavas, whereof only the tip is visible across level ground, I consider you to have attained the supreme rank among masters of instrument-astronomy!",
-          "hindi": "हे मित्र! यदि तुम समतल भूमि पर खड़े होकर भवनों के पीछे छिपे हुए विशाल बाँस की केवल नोक को देखकर उसकी दूरी और ऊँचाई बता दो, तो तुम्हें यन्त्रवेत्ताओं में सर्वश्रेष्ठ मानता हूँ!",
+          "english": "O friend, if, standing right here, you tell the distance and the height of a straight, upright bamboo of which only the tip is seen, [it being] screened by houses etc., on very level ground — I think you, knower of the dhī-yantra, have reached the highest rank among the knowers of instruments.",
+          "hindi": "हे मित्र, यदि यहीं खड़े होकर तुम समतल भूमि पर घरों आदि से ओट में खड़े सीधे बाँस की, जिसकी केवल नोक दिखती है, दूरी और ऊँचाई बता दो, तो हे धी-यन्त्र के ज्ञाता, मैं मानता हूँ कि तुम यन्त्रवेत्ताओं में सर्वश्रेष्ठ पद पर पहुँच गए हो।",
           "status": "translated"
         },
         {
@@ -1415,8 +1415,8 @@
         {
           "number": 57,
           "text": "यदधोरन्ध्रनलं तत् सापेक्षत्वात् स्वयंवहं ग्राम्यम्। चतुरचमत्कारकरी युक्तिर्यन्त्रं नहि ग्राम्यम्॥५७॥",
-          "english": "A simple bottom-draining vessel is crude because it depends on constant manual refilling; an ingenious self-sustaining mechanism that causes wonder is a true instrument, not crude.",
-          "hindi": "तले में छिद्र वाला साधारण जल-पात्र ग्राम्य (अकुशल) है क्योंकि वह निरन्तर जल भरने की अपेक्षा रखता है; जो स्वतः चलने वाली (स्वयंवह) चमत्कारिक युक्ति है वही सच्चा यन्त्र है।",
+          "english": "That [device] with a tube having an opening below, [though] self-moving (svayaṃvaha), is rustic (grāmya), because it depends [on something external]. A contrivance (yukti) that causes wonder to the clever is the instrument — not the rustic [device] [reading assumed; alternatively: 'it is a contrivance causing wonder to the clever, not an instrument; [it is] rustic'].",
+          "hindi": "नीचे छिद्र वाले नल से युक्त वह [यन्त्र], स्वयंवह होते हुए भी, सापेक्ष (किसी बाहरी वस्तु पर निर्भर) होने के कारण ग्राम्य है। चतुरों को चमत्कृत करने वाली युक्ति ही यन्त्र है, ग्राम्य [उपकरण] नहीं [मान्य पाठ; अथवा: यह चतुरों को चमत्कृत करने वाली युक्ति है, यन्त्र नहीं; यह ग्राम्य है]।",
           "status": "translated"
         }
       ]
@@ -1497,15 +1497,15 @@
         {
           "number": 3,
           "text": "विमाधिमासैरपमैरहर्गणं विना द्युराशिं च शशिप्रभाकरौ। विना च ताभ्यां तिथियोगभादिकं प्रवक्ति यस्सोऽत्र सुतंत्रक्तिमः॥३॥",
-          "english": "He who can determine Ahargaṇa without intercalary months or omitted lunar days, or compute Tithi, Yoga, and Nakṣatra without knowing the explicit positions of Surya and Chandra, is a master of astronomy.",
-          "hindi": "जो अधिमास और अवम दिनों के बिना अहर्गण निकाल दे, अथवा सूर्य-चन्द्र के बिना तिथि, योग और नक्षत्र बता दे, वही सच्चा तन्त्रवेत्ता है।",
+          "english": "He who tells the ahargaṇa without the adhimāsas and avamas (printed 'apama'), and the Moon and Sun without the ahargaṇa (dyurāśi), and tithi, yoga, nakṣatra etc. without those two — he is here the best knower of tantra.",
+          "hindi": "जो अधिमास और अवम (मुद्रित 'अपम') के बिना अहर्गण, अहर्गण (द्युराशि) के बिना चन्द्र और सूर्य, तथा उन दोनों के बिना तिथि, योग, नक्षत्र आदि बताता है, वही यहाँ श्रेष्ठ तन्त्रज्ञ है।",
           "status": "translated"
         },
         {
           "number": 4,
           "text": "एवं विलोक्यापमशेषमेव समानयत्यर्कमहर्गणं वा। सौद्धान्तिकानां गणकैकवन्द्यो गर्वं स खर्वो कुरुतेऽखिलानाम्॥४॥",
-          "english": "He who, merely observing the remaining declination, calculates the true Surya or the Ahargaṇa, humbles the pride of all competing Siddhāntic astronomers.",
-          "hindi": "जो केवल शेष क्रान्ति को देखकर स्पष्ट सूर्य या अहर्गण का साधन कर देता है, वह सभी सिद्धान्तियों के गर्व को चूर्ण कर देता है।",
+          "english": "Thus, having observed only the remainder of the avamas [printed 'apama'; read avama, omitted days, as in the previous verse], he who computes the Sun or the ahargaṇa — he, the one calculator to be honoured, humbles the pride of all siddhānta-knowers.",
+          "hindi": "इस प्रकार केवल अवम-शेष [मुद्रित 'अपम'; पिछले श्लोक की भाँति अवम = क्षय-दिन] को देखकर जो सूर्य या अहर्गण निकाल देता है, वह गणकों में एकमात्र वन्दनीय सब सिद्धान्तियों का गर्व चूर्ण कर देता है।",
           "status": "translated"
         },
         {
@@ -1518,8 +1518,8 @@
         {
           "number": 6,
           "text": "भादौशीघ्रतरान्तरश्ववफान्नैसर्गिकींचक्रमात् मन्दामन्दतरासि वेदपतियो द्राकेन्द्रमध्येबुधः। वक्तां वक्रतरां तथा व कुटिलामित्थं हि गत्यष्टकं तस्य क्ष्मातलवाकपतेर्न कुरुते कूपादयाना नतिम्॥६॥",
-          "english": "He who understands the eight types of planetary motion—direct, swift, very swift, slow, very slow, retrograde, very retrograde, and stationary—surpasses even Bṛhaspati on Earth.",
-          "hindi": "जो ग्रहों की आठ प्रकार की गतियों (वक्र, अतिवक्र, मन्द, मन्दतर, शीघ्र, शीघ्रतर, सम और कुटिल) का रहस्य समझता है, वह पृथ्वी पर बृहस्पति के समान है।",
+          "english": "[Text corrupt; reading assumed throughout.] The eight motions in order — śīghratarā (faster), [śīghrā (fast)], naisargikī (natural, i.e. mean), mandā (slow), mandatarā (slower), vakrā (retrograde), vakratarā (more retrograde) and kuṭilā (crooked) — the wise one who quickly knows this set of eight motions within the kendra [printed 'vedapatiyo drākendramadhye'; read 'vetti yo drāk kendra-madhye'] — who does not bow [at the feet] of that lord of speech on earth [printed 'kūpādayānā natim'; read 'kaḥ pādayor ānatim']?",
+          "hindi": "[पाठ भ्रष्ट; पूरा पाठ अनुमानित।] क्रम से आठ गतियाँ — शीघ्रतरा, [शीघ्रा], नैसर्गिकी (स्वाभाविक, मध्यम), मन्दा, मन्दतरा, वक्रा, वक्रतरा और कुटिला — जो बुद्धिमान् इन आठ गतियों को केन्द्र के भीतर शीघ्र जान लेता है [मुद्रित 'वेदपतियो द्राकेन्द्रमध्ये'; पाठ 'वेत्ति यो द्राक् केन्द्रमध्ये'], पृथ्वी पर उस वाक्पति के [चरणों में] कौन प्रणाम नहीं करता [मुद्रित 'कूपादयाना नतिम्'; पाठ 'कः पादयोः आनतिम्']?",
           "status": "translated"
         },
         {
@@ -1539,8 +1539,8 @@
         {
           "number": 9,
           "text": "अज्ञातखेटः स्वमृणं कृतश्चेदज्ञातचक्राणि भवन्ति तानि। क्वहाः प्रदेया अविशुद्धशुद्धौ क्वहैश्च तक्ष्यं कुदिनाधिकं चेत्॥९॥",
-          "english": "If an unknown Graha is added or subtracted, its revolutions become unknown variables; civil days (kuhā/kudina) are added or subtracted to achieve non-negative remainders in pulverizer (kuṭṭaka) division.",
-          "hindi": "अज्ञात ग्रहों के चक्रों को कुट्टक (कुट्टक गणित) द्वारा हल करके इष्ट वार (सप्ताह का दिन) और अहर्गण सिद्ध करने की विधि।",
+          "english": "If the unknown planet has been made additive or subtractive (sva/ṛṇa), those [results] are the revolutions of the unknown [planet]. When the subtraction cannot be made, the kudinas (civil days) should be added; and if [the quantity] exceeds the kudinas, it should be reduced by the kudinas.",
+          "hindi": "यदि अज्ञात ग्रह को धन या ऋण किया गया हो, तो वे [परिणाम] अज्ञात [ग्रह] के भगण होते हैं। जब घटाना सम्भव न हो, तब कुदिन (सावन दिन) जोड़ने चाहिए; और यदि [राशि] कुदिनों से अधिक हो तो उसे कुदिनों से तक्षित (शेषित) करना चाहिए।",
           "status": "translated"
         },
         {
@@ -1553,22 +1553,22 @@
         {
           "number": 11,
           "text": "द्विप ८६३३७४४९१६८४ध्ने सशेषाधिमासावमैक्यै भवेद्व्येकचन्द्राह१६०२९९८९९९९९९ भक्तेऽवशेषं गतेन्दुद्युराशिस्ततः सावनाद्यः॥११॥",
-          "english": "Multiplying the combined sum by 863,374,491,684 and dividing by 1,602,998,999,999 yields the elapsed lunar days, from which civil Ahargaṇa is derived.",
-          "hindi": "संयुक्त योग को ८६३,३७४,४९१,६८४ से गुणा करके १,६०२,९९८,९९९,९९९ से भाग देने पर बीचे चन्द्र-दिन प्राप्त होते हैं, जिससे सावन अहर्गण सिद्ध होता है।",
+          "english": "When the sum of the adhimāsas and avamas, together with their remainders, is multiplied by 'dvipa…' [printed 863374491684] and divided by the lunar days [of the kalpa] less one (vyeka-candrāha) [printed 1602998999999], the remainder is the elapsed lunar day-count; from that, the civil [day-count] etc.",
+          "hindi": "अधिमास और अवम के शेषों सहित योग को 'द्विप…' [मुद्रित ८६३३७४४९१६८४] से गुणा करके एक कम कल्प-चान्द्रदिनों (व्येकचन्द्राह) [मुद्रित १६०२९९८९९९९९९] से भाग देने पर जो शेष रहे वह बीते चान्द्र दिनों की राशि है; उससे सावन आदि।",
           "status": "translated"
         },
         {
           "number": 12,
           "text": "६४८४२६००० १७१ तुल्यं यदा काले कल्पगतं तदा वदति यः स ब्रह्मसिद्धान्तवित्॥१२॥",
-          "english": "He who states the elapsed Kalpa duration equal to 648,426,000 years is a true knower of the Brahma-siddhānta.",
-          "hindi": "जो कल्पगत काल ६४,८४,२६,००० वर्ष बताता है, वह ब्रह्मसिद्धान्त का सच्चा ज्ञाता है।",
+          "english": "When [the sum of the adhimāsas, avamas and their remainders] is equal to 648426000 [and] 171 [printed separately; relation unclear], he who then tells the elapsed [time] of the kalpa at that moment is a knower of the Brahma-siddhānta.",
+          "hindi": "जब [अधिमास, अवम और उनके शेषों का योग] ६४८४२६००० [और] १७१ [अलग मुद्रित; सम्बन्ध अस्पष्ट] के तुल्य हो, तब उस समय का कल्पगत [काल] जो बताए, वह ब्रह्मसिद्धान्त का ज्ञाता है।",
           "status": "translated"
         },
         {
           "number": 16,
           "text": "रिन्दोऽर्वाहनि कुजस्य वा वद यदा कीदृग्द्युपिण्डस्तदा॥१६॥",
-          "english": "State what the Ahargaṇa (day-count) is when a specific celestial configuration occurs on Monday or Tuesday!",
-          "hindi": "सोम या भौम वार के दिन विशेष आकाशीय स्थिति होने पर अहर्गण कितना होगा, यह बताओ!",
+          "english": "... [the same] of the Moon on Sunday [printed 'arvāhani'; read arkāhani], or of Mars — tell, when [it happens], what the ahargaṇa (dyupiṇḍa) is then.",
+          "hindi": "... रविवार को [मुद्रित 'अर्वाहनि'; पाठ अर्काहनि] चन्द्रमा का, अथवा मङ्गल का — बताओ, जब [ऐसा हो] तब अहर्गण (द्युपिण्ड) कैसा होगा।",
           "status": "translated"
         },
         {
@@ -1595,22 +1595,22 @@
         {
           "number": 20,
           "text": "दृढभगणा येन गुणाश्चक्राग्रोमा दृढक्वहैः शुद्धाः। स द्युगणो दृढकुदिनयुतस्तावद्यावदीप्सितो वारः॥२०॥",
-          "english": "Reduced revolutions multiplied by multiplier minus revolution remainder divided by reduced civil days gives Ahargaṇa; adding reduced civil days iteratively matches the desired weekday.",
-          "hindi": "दृढ-भगणों को गुणक से गुणा करके भगण-शेष घटाकर दृढ-कुदिनों से भाग देने पर अहर्गण आता है; इष्ट वार मिलाने के लिए दृढ-कुदिनों को बारम्बार जोड़ा जाता है।",
+          "english": "The multiplier by which the dṛḍha-bhagaṇas (reduced revolutions), diminished by the cakrāgra (revolution remainder), become exactly divisible by the dṛḍha-kudinas (reduced civil days) — that [multiplier] is the ahargaṇa; it is increased by the dṛḍha-kudinas until the desired weekday [is reached].",
+          "hindi": "जिस गुणक से गुणित दृढ-भगण, चक्राग्र (भगण-शेष) घटाने पर, दृढ-कुदिनों से निःशेष विभाजित हो जाएँ, वही [गुणक] अहर्गण है; इष्ट वार आने तक उसमें दृढ-कुदिन जोड़े जाते हैं।",
           "status": "translated"
         },
         {
           "number": 21,
           "text": "उदाहरणम्। चक्राग्रं  शशिनः खखाभ्रगगनप्राणर्तुभूमि १६५०००० र्हृतं शुध्येञ्चेन्न खिलं फलं कृतगुणाष्टाङ्गाहिनागा ८८६८३४ हतम् विश्वाग्न्यङ्गशराङ्ककै ९४६३१३ श्च विभजेत् स्याच्छेषमङ्नां मणस्तावत् तत्र हरं क्षिपेदभिमते यावद्भवेद्वासरे॥२१॥",
-          "english": "Example: If Chandra's revolution remainder divided by 1,650,000 leaves no remainder, it is valid; multiplying by 886,834 and dividing by 946,313, the remainder gives Ahargaṇa, incremented by divisor until weekday matches.",
-          "hindi": "उदाहरण: चन्द्रमा का चक्राग्र १६,५०,००० से निःशेष विभाजित हो तो शुद्ध है; उसे ८८६,८३४ से गुणा करके ९४६,३१३ से भाग देने पर शेष अहर्गण देता है।",
+          "english": "Example: The Moon's cakrāgra divided by 'kha-kha-abhra-gagana-prāṇa-ṛtu-bhūmi' [0,0,0,0,5,6,1 → 1650000]: if it divides exactly, [the problem is] not khila. The quotient multiplied by 'kṛta-guṇa-aṣṭa-aṅga-ahi-nāga' [4,3,8,6,8,8 → 886834] and divided by 'viśva-agni-aṅga-śara-aṅka' [13,3,6,5,9 → 956313; printed 946313] — the remainder is the count of days (ahargaṇa); then add the divisor to it until the desired weekday [is reached].",
+          "hindi": "उदाहरण: चन्द्रमा के चक्राग्र को 'ख-ख-अभ्र-गगन-प्राण-ऋतु-भूमि' [०,०,०,०,५,६,१ → १६५००००] से भाग दें; यदि निःशेष हो तो [प्रश्न] खिल नहीं। लब्धि को 'कृत-गुण-अष्ट-अङ्ग-अहि-नाग' [४,३,८,६,८,८ → ८८६८३४] से गुणा करके 'विश्व-अग्नि-अङ्ग-शर-अङ्क' [१३,३,६,५,९ → ९५६३१३; मुद्रित ९४६३१३] से भाग दें — शेष अहर्गण है; फिर इष्ट वार आने तक उसमें भाजक जोड़ें।",
           "status": "translated"
         },
         {
           "number": 23,
           "text": "र्व्येका शेषकृतिर्हृता च दशभिः स्यान्मूलदा वा यदा। काले कल्पगतं तदा वदति यस्तत्पादपद्मं बुधाः सेवन्ते बहुधा प्रमेयवियति भ्रान्ता भ्रमन्तोऽलिवत्॥२३॥",
-          "english": "When remainder squared minus 1 divided by 10 yields a perfect square, he who calculates the elapsed Kalpa time for that moment is revered by scholars like bees at a lotus.",
-          "hindi": "जब शेष का वर्ग माइनस १ दस से विभाजित होकर पूर्ण वर्ग बने, तब कल्पगत काल बताने वाले विद्वान् की सेवा भ्रमरों की भाँति की जाती है।",
+          "english": "... when the square of the remainder, less one, divided by ten, gives a [perfect square] root — he who tells the elapsed [time] of the kalpa at that time, at his lotus-feet the wise, wandering bewildered like bees in the sky of knowables, serve in many ways.",
+          "hindi": "... जब शेष का वर्ग, एक घटाकर, दस से भाजित होकर मूल देने वाला (पूर्ण वर्ग) हो — उस समय कल्पगत [काल] जो बताए, उसके चरण-कमलों की सेवा, ज्ञेय-आकाश में भ्रमित भौंरों की भाँति घूमते विद्वान् अनेक प्रकार से करते हैं।",
           "status": "translated"
         },
         {
@@ -1644,8 +1644,8 @@
         {
           "number": 33,
           "text": "र्दृष्टा खाम्बरपञ्चखचरमिता पञ्चाङ्गुलाक्षप्रभे। देशे तत्र पृथक् पृथग्गणक ता गोलोऽसि दक्षोऽक्षज-, क्षेत्रक्षोदविधौ विचक्षण समाचक्ष्वाविलक्षोऽसि चेत्॥३३॥",
-          "english": "In a place where equinoctial shadow is 5 inches and solar shadow values are observed, compute each variable separately, O expert astronomer skilled in latitude geometry!",
-          "hindi": "जहाँ पलभा ५ अङ्गुल हो और छाया-मान दृष्ट हों, वहाँ हे गोलज्ञ अक्षांश-क्षेत्र के विद्वान् पृथक्-पृथक् मान बताओ!",
+          "english": "... is seen as 'kha-ambara-pañca-khacara' [0,0,5,khacara read right-to-left: khacara 'sky-goer' = 9 (planets) → 9500; if khacara = 7, 7500], in a place where the equinoctial shadow is five aṅgulas. Tell them separately there, O calculator, if you are skilled in the sphere and in the akṣa-[triangles] — O expert in the method of analysing the akṣa-figures, tell, if you are not at a loss.",
+          "hindi": "... 'ख-अम्बर-पञ्च-खचर' [०,०,५,खचर दाहिने से बाएँ: खचर = ९ (ग्रह) → ९५००; यदि खचर = ७ तो ७५००] देखा गया, जिस देश में पलभा पाँच अङ्गुल है। हे गणक, यदि तुम गोल और अक्ष-क्षेत्रों में दक्ष हो तो वहाँ उन्हें पृथक्-पृथक् बताओ — हे अक्ष-क्षेत्रों के विवेचन में निपुण, यदि तुम भ्रमित नहीं हो तो बताओ।",
           "status": "translated"
         },
         {
@@ -1693,15 +1693,15 @@
         {
           "number": 40,
           "text": "न्मन्ये त्वां निशितं सगर्वगणकोन्मत्तेभकुम्भाङ्कुशम्॥४०॥",
-          "english": "...I consider you a sharp goad to tame the wild temple of arrogant astronomers!",
-          "hindi": "...तुम्हें अभिमानी ज्योतिषियों के मत्त हाथी के कुम्भस्थल को वश में करने वाला तीक्ष्ण अङ्कुश मानता हूँ!",
+          "english": "... I consider you a sharp goad for the frontal globes (kumbha) of the mad elephants that are the proud calculators.",
+          "hindi": "... मैं तुम्हें गर्वीले गणक-रूपी मत्त हाथियों के कुम्भस्थल के लिए तीक्ष्ण अङ्कुश मानता हूँ।",
           "status": "translated"
         },
         {
           "number": 41,
           "text": "मार्तण्डे सममण्डलं प्रविशतिच्छाया किलाष्ट्यङ्गुला दृष्टाष्टासु घटीषु कुत्रचिदपि स्थाने कदाचिद्दिने। अर्कक्रान्तिगुणं तदा वदसि चेदक्षप्रभां तत्र च त्रिप्रश्नप्रचुरप्रपञ्चचतुरं मन्ये त्वदन्यं नहि(१)॥४१॥",
-          "english": "If when Surya enters the prime vertical at 8 nāḍikās after sunrise the shadow is observed to be 8 inches, tell the solar declination-sine and local latitude shadow!",
-          "hindi": "यदि सूर्य १० नाड़ी पर समवृत्त में प्रवेश करते समय ८ अङ्गुल छाया बनाए, तो क्रान्तिज्या और पलभा बताना।",
+          "english": "When the Sun enters the prime vertical, the shadow is seen to be aṣṭi [= 16] aṅgulas, at eight ghaṭīs [of the day], at some place on some day. If you tell the sine of the Sun's declination then, and the equinoctial shadow there, I think there is no one other than you skilled in the abundant detail of the three questions.",
+          "hindi": "जब सूर्य सममण्डल में प्रवेश करता है, तब किसी स्थान पर किसी दिन आठ घटियों पर छाया अष्टि [= १६] अङ्गुल देखी गई। यदि तुम तब सूर्य की क्रान्तिज्या और वहाँ की पलभा बता दो, तो मैं मानता हूँ कि त्रिप्रश्न के विस्तार में तुमसे अधिक कुशल कोई नहीं।",
           "status": "translated"
         },
         {
@@ -1728,15 +1728,15 @@
         {
           "number": 59,
           "text": "गणितस्कन्धसंदर्भोऽदभ्रदर्भाग्रधीमतः (१)। उचितोऽनुचितो यन्मे धार्ष्ट्यं तत् क्षम्यतां विदः॥५९॥",
-          "english": "This work on astronomy was composed for those of keen intellect like the tip of Kuśa grass; O learned scholars, forgive whatever audacity of mine is proper or improper!",
-          "hindi": "कुश के अग्रभाग के समान तीक्ष्ण बुद्धि वालों के लिए रचे गए इस ग्रन्थ में मेरी जो धृष्टता या त्रुटि हो, उसे विद्वज्जन क्षमा करें।",
+          "english": "[This] composition on the gaṇita-skandha is of [me], one whose intellect is 'adabhra-darbhāgra' [reading uncertain: 'as sharp as a kuśa-tip' or 'not as fine as a kuśa-tip']; whatever audacity of mine, proper or improper, may the learned forgive it.",
+          "hindi": "गणितस्कन्ध का यह ग्रन्थ [मुझ] 'अदभ्र-दर्भाग्र' बुद्धि वाले का है [पाठ अनिश्चित: 'कुशाग्र जैसी तीक्ष्ण' या 'कुशाग्र जैसी सूक्ष्म नहीं']; मेरी जो उचित या अनुचित धृष्टता हो, उसे विद्वान् क्षमा करें।",
           "status": "translated"
         },
         {
           "number": 60,
           "text": "ये वृद्धा लघवोऽपि येऽत्र गणका बद्ध्वाञ्जलिं वच्मि तान् क्षन्तव्यं मम तैर्मया यदधुना पूर्वोक्तयो दूषिताः। कर्तव्ये स्फुटवासनाप्रकथने पूर्वोक्तिविश्वासिनां तत्तद्दूषणमन्तरेण नितरां नास्ति प्रतीतिर्यतः॥६०॥",
-          "english": "With folded hands, I request all astronomers, senior or junior, to pardon me for refuting ancient views. In presenting clear and true rationales, conviction cannot be established without pointing out previous errors.",
-          "hindi": "प्राचीन आचार्यों के मतों का खण्डन सत्य वासना (युक्ति) के प्रतिपादन के लिए किया गया है, इसके लिए सभी ज्योतिषी मुझे क्षमा करें।",
+          "english": "With folded hands I say to those calculators here, whether senior or junior: they should forgive me for having now found fault with the earlier statements. For in the task of stating clear rationales, there is no conviction at all for those who trust earlier statements without refuting each of them.",
+          "hindi": "यहाँ जो वृद्ध या लघु गणक हैं, उनसे मैं हाथ जोड़कर कहता हूँ: मैंने अब जो पूर्व-कथनों में दोष दिखाए हैं, उसके लिए वे मुझे क्षमा करें। क्योंकि स्पष्ट वासना कहने के कार्य में, पूर्व-कथनों पर विश्वास करने वालों को उन-उन दोषों के खण्डन के बिना बिल्कुल प्रतीति नहीं होती।",
           "status": "translated"
         },
         {

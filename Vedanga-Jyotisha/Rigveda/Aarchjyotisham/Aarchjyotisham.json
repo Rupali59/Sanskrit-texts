@@ -32,15 +32,15 @@
         {
           "number": 4,
           "text": "निरेकं द्वादशाभ्यस्तं द्विगुणं गतसंज्ञिकम् ।\nषष्ट्या षष्ट्या युतं द्वाभ्यां पर्वणां राशिरुच्यते",
-          "english": "The quantity of passed Parvans (syzygies/fortnights) is calculated as follows: subtract one from the current year, multiply by twelve, double it, and add two for every sixty parts; this is called the collection of Parvans.",
-          "hindi": "व्यतीत हुए पर्वों (पक्षों) की कुल संख्या इस प्रकार जानी जाती है: वर्तमान वर्ष में से एक घटाकर उसे बारह से गुणा करें, फिर दुगुना करें, और साठ से भाग देकर जो लब्ध हो उसमें दो जोड़ दें; इसे पर्वों की राशि कहा जाता है।",
+          "english": "[Take the current year of the yuga] less one, multiply by twelve, [and] double [it]: [this] is called 'elapsed' (gata). Increased by two for every sixty, it is called the sum of parvans [fortnights].",
+          "hindi": "[युग का वर्तमान वर्ष] एक घटाकर, बारह से गुणा कर, [फिर] दुगुना करें: [यह] 'गत' कहलाता है। हर साठ पर दो जोड़ने से यह पर्वों [पक्षों] की राशि कहलाती है।",
           "status": "translated"
         },
         {
           "number": 5,
           "text": "स्वराक्रमेते सोमार्कौ यदा साकं सवासवौ ।\nस्यात्तदादियुगं माघस्तपः शुक्लोऽयनं ह्युदक्",
-          "english": "When the Sun and the Moon arrive together at the beginning of the Dhanistha nakshatra, then begins the Yuga, the month of Magha, the season of Tapas (winter), the bright fortnight, and the Northern course (Udak Ayana).",
-          "hindi": "जब सूर्य और चंद्रमा एक साथ श्रविष्ठा (धनिष्ठा) नक्षत्र के आरंभ में प्रवेश करते हैं, तब युग का आरंभ, माघ मास, तपस (शिशिर) ऋतु, शुक्ल पक्ष और उत्तरायण (सूर्य की उत्तर गति) प्रारंभ होता है।",
+          "english": "When the Moon and the Sun climb the sky together with Vāsava [Śraviṣṭhā, whose deity is the Vasus], then is the beginning of the yuga, [the month] Māgha, [i.e.] Tapas, the bright [fortnight], and the northern course (udag-ayana).",
+          "hindi": "जब चन्द्रमा और सूर्य वासव [श्रविष्ठा, जिसके देवता वसु हैं] के साथ एक साथ आकाश में चढ़ते हैं, तब युग का आरम्भ, माघ [मास], [अर्थात्] तपस्, शुक्ल [पक्ष] और उत्तर अयन होता है।",
           "status": "translated"
         },
         {
@@ -60,64 +60,64 @@
         {
           "number": 8,
           "text": "द्विगुणं सप्तमं चाहुरयनाद्यं त्रयोदश ।\nचतुर्थं दशमं चैव द्विर्युग्मं बहुलेप्यृतौ",
-          "english": "The beginnings of the Ayanas (solstices) occur at twice the seventh (i.e., 14th), the 4th, 10th, twice the twin (i.e., 4th?), etc. in the seasons.",
-          "hindi": "अयन (सूर्य की गति) का आरंभ ऋतुओं में क्रमशः बताया गया है।",
+          "english": "They declare [the tithis at] the beginning of the ayanas [to be], doubly, the seventh and the thirteenth, the fourth and the tenth, [and] twice the even [one]; also in the dark [fortnight], [and likewise] for the season(s). [Literal; the arrangement of these tithis is not spelled out in the verse.]",
+          "hindi": "अयनों के आरम्भ की [तिथियाँ] दो-दो बार सप्तमी और त्रयोदशी, चतुर्थी और दशमी, [तथा] दो बार सम [तिथि] कही गई हैं; कृष्ण [पक्ष] में भी, [और इसी प्रकार] ऋतु में भी। [शाब्दिक; इन तिथियों का क्रम श्लोक में स्पष्ट नहीं है।]",
           "status": "translated"
         },
         {
           "number": 9,
           "text": "वसुस्त्वष्टा भवोऽजश्च मित्रः सर्पोऽश्विनौ जलम् ।\nधाता कश्चायनाद्याः स्युरर्धपंचमभस्त्वृतुः",
-          "english": "The presiding deities of the Nakshatras at the beginnings of the Ayanas are Vasu (Dhanistha), Tvashtri (Chitra), Bhava (Ardra), Aja (Purva Bhadrapada), Mitra (Anuradha), Sarpa (Ashlesha), Ashvins (Ashvini), Jala (Purvashadha), Dhata (Rohini) and Ka (Shatabhisha). A season consists of four and a half Nakshatras.",
-          "hindi": "अयनों के प्रारंभ में नक्षत्रों के देवता क्रमशः वसु, त्वष्टा, भव, अज, मित्र, सर्प, अश्विनी, जल, धाता और क (प्रजापति) हैं। एक ऋतु साढ़े चार नक्षत्रों की होती है।",
+          "english": "Vasu [Śraviṣṭhā], Tvaṣṭṛ [Citrā], Bhava [Ārdrā], Aja [Pūrva-Proṣṭhapadā], Mitra [Anurādhā], Sarpa [Āśleṣā], the Aśvins [Aśvinī], Water [Pūrvāṣāḍhā], Dhātṛ [by the sequence, Uttara-Phalgunī] and Ka [Prajāpati, i.e. Rohiṇī] are the [nakṣatras at the] beginnings of the ayanas. A season is four and a half nakṣatras.",
+          "hindi": "वसु [श्रविष्ठा], त्वष्टा [चित्रा], भव [आर्द्रा], अज [पूर्वा प्रोष्ठपदा], मित्र [अनुराधा], सर्प [आश्लेषा], अश्विनौ [अश्विनी], जल [पूर्वाषाढ़ा], धाता [क्रम के अनुसार उत्तरा फाल्गुनी] और क [प्रजापति, अर्थात् रोहिणी] — ये अयनों के आरम्भ के [नक्षत्र] हैं। एक ऋतु साढ़े चार नक्षत्रों की होती है।",
           "status": "translated"
         },
         {
           "number": 10,
           "text": "भांशाः स्युरष्टकाः कार्याः पक्षा द्वादशकोद्गताः ।\nएकादशगुणश्चोनः शुक्लेऽर्धं चैन्दवा यदि",
-          "english": "The divisions of a Nakshatra (Bhamshas) should be made into eight. The Parvans (fortnights) elapsed in a Yuga are multiplied by 11. If it is a bright fortnight, subtract half...",
-          "hindi": "नक्षत्र के अंश (भांश) आठ भागों में किए जाने चाहिए। व्यतीत पक्षों (पर्वों) को 11 से गुणा किया जाता है...",
+          "english": "The nakṣatra-portions (bhāṃśa) are to be made [in units] of eight; the fortnights [are those] in excess of [multiples of] twelve; [it is] multiplied by eleven and diminished; in the bright [fortnight], half, if [the portions] are lunar. [Literal; the procedure is obscure.]",
+          "hindi": "नक्षत्र-अंश (भांश) आठ-आठ [के मान] में बनाने चाहिए; पक्ष [वे हैं] जो बारह [के गुणकों] से अधिक हैं; [उसे] ग्यारह से गुणा करके घटाया जाता है; शुक्ल [पक्ष] में आधा, यदि [अंश] चान्द्र हों। [शाब्दिक; विधि अस्पष्ट है।]",
           "status": "translated"
         },
         {
           "number": 11,
           "text": "कार्या भांशाष्टकास्थाने कला एकान्नविंशतिः ।\nउनस्थाने त्रिसप्ततिमुद्ववपेदूनसम्मिताः",
-          "english": "In place of the eight divisions of a Nakshatra, nineteen Kalas should be used. In place of the subtracted part, seventy-three should be added...",
-          "hindi": "नक्षत्र के आठ अंशों के स्थान पर उन्नीस कलाओं का प्रयोग किया जाना चाहिए।",
+          "english": "In place of the eight nakṣatra-portions, nineteen kalās are to be made; in the place of the deficit (ūna), one should take out (udvapet) seventy-three, in measure with the deficit. [Literal; 'udvapet' read as 'remove'.]",
+          "hindi": "नक्षत्र के आठ अंशों के स्थान पर उन्नीस कलाएँ बनानी चाहिए; न्यून (ऊन) के स्थान पर, न्यून के अनुपात में तिहत्तर निकाल देने चाहिए (उद्वपेत्)। [शाब्दिक; 'उद्वपेत्' को 'निकालना' पढ़ा गया है।]",
           "status": "translated"
         },
         {
           "number": 12,
           "text": "त्र्यंशो भशेषो दिवसांशभागश्चतुर्दशस्याप्यपनीय भिन्नम् ।\nभार्धेऽधिके चाधिगते परेंऽशेद्यावुक्तमेकं नवकैर्भवेद्यः",
-          "english": "The remainder of the Nakshatra, reduced by a third, is the part of the day. Having subtracted it from the fourteenth part...",
-          "hindi": "नक्षत्र का शेष भाग, तिहाई कम करने पर, दिन का भाग होता है।",
-          "status": "translated"
+          "english": "",
+          "hindi": "",
+          "status": "untranslated"
         },
         {
           "number": 13,
           "text": "पक्षात्पंचदशाच्चोर्ध्वं तद्भुक्तमिति निर्दिशेत् ।\nनवभिस्तूद्गतोंऽशः स्यादूनांशद्वयधिकेन तु",
-          "english": "After the fifteenth Parvan (fortnight), it should be directed as having been traversed. By nine, the risen part is obtained...",
-          "hindi": "पंद्रहवें पर्व (पक्ष) के बाद, इसे व्यतीत हुआ माना जाना चाहिए।",
+          "english": "Beyond the fifteenth [tithi] of the fortnight, one should indicate that [nakṣatra] as traversed (bhukta). The portion risen [is obtained] by nines, but with the deficient portion increased by two. [Literal; the procedure is obscure.]",
+          "hindi": "पक्ष की पन्द्रहवीं [तिथि] के आगे उस [नक्षत्र] को भुक्त बताना चाहिए। उदित अंश नौ-नौ से [प्राप्त] होता है, परन्तु न्यून अंश में दो जोड़कर। [शाब्दिक; विधि अस्पष्ट है।]",
           "status": "translated"
         },
         {
           "number": 14,
           "text": "जौ द्रा गः खे श्वे ही रो षा श्चिन्मूषक्ण्यः सूमाधाणः ।\nरे मृ घाः स्वापोजः कृष्यो ह ज्येष्ठा इत्यृक्षा लिंगैः",
-          "english": "Jau, Dra, Gah, Khe, Shve, Hi, Ro, Sha, Chin, Mu, Shak, Nyah, Su, Ma, Dha, Nah, Re, Mri, Ghah, Sva, Po, Jah, Kri, Shyo, Ha, Jyeshtha are the 27 Nakshatras identified by their indicator syllables.",
-          "hindi": "जौ, द्रा, गः, खे, श्वे, ही, रो, षा, चिन्, मू, षक्, ण्यः, सू, मा, धा, णः, रे, मृ, घाः, स्वा, पो, जः, कृ, ष्यों, ह, ज्येष्ठा - ये २७ नक्षत्रों के सांकेतिक अक्षर हैं।",
+          "english": "Jau [Aśvayujau], drā [Ārdrā], gaḥ [Bhaga, Pūrva-Phalgunī], khe [Viśākhe], śve [Viśvedevāḥ, Uttarāṣāḍhā], hī [Ahirbudhnya, Uttara-Proṣṭhapadā], ro [Rohiṇī], ṣā [Āśleṣā], cit [Citrā], mū [Mūla], ṣak [Śatabhiṣak], ṇyaḥ [Bharaṇyaḥ], sū [Punarvasū], mā [Aryaman, Uttara-Phalgunī], dhā [Anurādhā], ṇaḥ [Śravaṇa], re [Revatī], mṛ [Mṛgaśiras], ghāḥ [Maghāḥ], svā [Svātī], po [Āpaḥ, Pūrvāṣāḍhā], jaḥ [Aja, Pūrva-Proṣṭhapadā], kṛ [Kṛttikā], ṣyo [Tiṣya, Puṣya], ha [Hasta], jyeṣṭhā — thus the nakṣatras by their marks. [Twenty-six marks; Śraviṣṭhā, the starting point, is not marked.]",
+          "hindi": "जौ [अश्वयुजौ], द्रा [आर्द्रा], गः [भग, पूर्वा फाल्गुनी], खे [विशाखे], श्वे [विश्वेदेवाः, उत्तराषाढ़ा], ही [अहिर्बुध्न्य, उत्तरा प्रोष्ठपदा], रो [रोहिणी], षा [आश्लेषा], चित् [चित्रा], मू [मूल], षक् [शतभिषक्], ण्यः [भरण्यः], सू [पुनर्वसू], मा [अर्यमा, उत्तरा फाल्गुनी], धा [अनुराधा], णः [श्रवण], रे [रेवती], मृ [मृगशिरा], घाः [मघाः], स्वा [स्वाती], पो [आपः, पूर्वाषाढ़ा], जः [अज, पूर्वा प्रोष्ठपदा], कृ [कृत्तिका], ष्यो [तिष्य, पुष्य], ह [हस्त], ज्येष्ठा — इस प्रकार चिह्नों से नक्षत्र [बताए गए]। [छब्बीस चिह्न; आरम्भ-बिन्दु श्रविष्ठा चिह्नित नहीं है।]",
           "status": "translated"
         },
         {
           "number": 15,
           "text": "जावाद्यशैः समं विद्यात् पूर्वार्धे पर्व सूत्तरे ।\nभादानं स्याच्चतुर्दश्यां काष्ठानां देविना कलाः",
-          "english": "It should be known equally by the parts beginning with Jau in the first half, and in the second half. The collection of Nakshatras occurs on the fourteenth, the Kalas of the days...",
-          "hindi": "इसे प्रथमार्ध में 'जौ' से प्रारंभ होने वाले अंशों द्वारा समान रूप से जानना चाहिए।",
+          "english": "One should know [the nakṣatra] equally by the portions beginning with jau; the parva [falls] in the first half [or] in the second half. The taking of the nakṣatra (bhādāna) would be on the fourteenth; the kalās [are] less [two] kāṣṭhās [reading 'devinā' as 'dvinā'; the printed text is corrupt].",
+          "hindi": "'जौ' से आरम्भ होने वाले अंशों द्वारा [नक्षत्र को] समान रूप से जानना चाहिए; पर्व पूर्वार्ध में [या] उत्तरार्ध में [पड़ता है]। नक्षत्र का आदान (भादान) चतुर्दशी को होगा; कलाएँ [दो] काष्ठा कम [होती हैं] ['देविना' को 'द्विना' पढ़ा गया है; छपा पाठ भ्रष्ट है]।",
           "status": "translated"
         },
         {
           "number": 16,
           "text": "कला दश सविंशा स्याद् द्वे मुहुर्तस्य नाडिके ।\nद्युस्त्रिंशंत् तत्कलानां तु षट्शती त्र्यधिका भवेत्",
-          "english": "A Kala is ten plus twenty (i.e., 30?). Two Nadikas make a Muhurta. A day consists of thirty Muhurtas, and its Kalas are six hundred and three (603).",
-          "hindi": "दो नाड़िका का एक मुहूर्त होता है। एक दिन (अहोरात्र) में तीस मुहूर्त होते हैं, और इसकी कुल कलाएं छह सौ तीन (603) होती हैं।",
+          "english": "Ten kalās and a twentieth [of a kalā] would be [a nāḍikā]; two nāḍikās [make] a muhūrta; a day is thirty [muhūrtas], and of its kalās there are six hundred and three [10 1/20 × 2 × 30 = 603].",
+          "hindi": "दस कलाएँ और [एक कला का] बीसवाँ भाग [एक नाड़िका] होता है; दो नाड़िकाओं का एक मुहूर्त; दिन तीस [मुहूर्त] का होता है, और उसकी कलाएँ छह सौ तीन होती हैं [10 1/20 × 2 × 30 = 603]।",
           "status": "translated"
         },
         {
@@ -130,15 +130,15 @@
         {
           "number": 18,
           "text": "ससप्तकं भयुक् सोमः सूर्यो द्यूनि त्रयोदश ।\nनवमानि च पंचाह्नः काष्ठाः पंचाक्षरा भवेत्",
-          "english": "With seven added, the Moon is joined with a Nakshatra. The Sun is in thirteen days. The ninth parts are five days; the Kashthas are of five syllables.",
-          "hindi": "सात जोड़ने पर चंद्रमा नक्षत्र से युक्त होता है। सूर्य तेरह दिनों में होता है। नौवें भाग पाँच दिन के होते हैं।",
+          "english": "The Moon is joined with a nakṣatra [for one day] with seven [kalās, of 603]; the Sun for thirteen days and five ninths of a day; a kāṣṭhā would be five syllables (akṣaras). [Check: 1830/1809 = 1 + 7/603 days; 1830/135 = 13 5/9 days.]",
+          "hindi": "चन्द्रमा एक नक्षत्र से [एक दिन और] सात [कलाओं, 603 में से] तक युक्त रहता है; सूर्य तेरह दिन और एक दिन के पाँच नवें भाग तक; एक काष्ठा पाँच अक्षरों की होती है। [जाँच: 1830/1809 = 1 + 7/603 दिन; 1830/135 = 13 5/9 दिन।]",
           "status": "translated"
         },
         {
           "number": 19,
           "text": "श्रविष्ठाभ्यो गणाभ्यस्तान् प्राग्विलग्नान् विनिर्दिशेत् ।\nस्तर्यान् मासान् षडभ्यस्तान् विद्याच्चान्द्रमसानृतून",
-          "english": "Beginning from Dhanistha, multiplied by the groups, one should indicate the rising points in the east. The months, multiplied by six, should be known as the lunar seasons.",
-          "hindi": "धनिष्ठा से आरंभ करके, गणों से गुणा कर, पूर्व में उदित होने वाले लग्नों को बताना चाहिए। महीनों को छह से गुणा करने पर चंद्र ऋतुएं जाननी चाहिए।",
+          "english": "Counting from Śraviṣṭhā, one should declare [the nakṣatras], multiplied by the multiplier, as risen in the east. The solar [printed 'stāryān', read 'sūryān'] months multiplied by six one should know as the lunar seasons.",
+          "hindi": "श्रविष्ठा से गिनकर, गुणक से गुणा किए गए [नक्षत्रों] को पूर्व में उदित बताना चाहिए। सौर [छपा 'स्तर्यान्', 'सूर्यान्' पढ़ा गया] मासों को छह से गुणा करके चान्द्र ऋतुएँ जाननी चाहिए।",
           "status": "translated"
         },
         {
@@ -172,8 +172,8 @@
         {
           "number": 24,
           "text": "इत्युपायसमुद्देशो भूयोप्यह्नः प्रकल्पयेत् ।\nज्ञेयराशिं गताभ्यस्तं विभजेज्ज्ञानराशिना",
-          "english": "Thus is the statement of the method. One should again imagine it for the day. The known quantity, multiplied by the passed, should be divided by the quantity of knowledge.",
-          "hindi": "इस प्रकार विधि का उपदेश है। दिन के लिए भी इसी प्रकार गणना करनी चाहिए। ज्ञात राशि को व्यतीत से गुणा कर, ज्ञान राशि से भाग देना चाहिए।",
+          "english": "Thus is the outline of the method; one should further work it out for the day as well. The quantity to be found (jñeya-rāśi), multiplied by the elapsed [quantity], should be divided by the known quantity (jñāna-rāśi).",
+          "hindi": "इस प्रकार विधि का संक्षिप्त निर्देश है; दिन के लिए भी इसे आगे निकालना चाहिए। ज्ञेय राशि (जो जाननी है) को गत [राशि] से गुणा करके ज्ञान राशि (ज्ञात राशि) से भाग देना चाहिए।",
           "status": "translated"
         },
         {
@@ -214,8 +214,8 @@
         {
           "number": 30,
           "text": "सोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते ।\nसोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम्",
-          "english": "The wise man who knows the movements of the Moon and the Sun, attains the Vedas, the worlds traversed by the Moon and the Sun, and respect in the world.",
-          "hindi": "जो विद्वान सूर्य और चंद्रमा की गति (ज्योतिष) को जानता है, वह वेदों के ज्ञान, सूर्य-चंद्र द्वारा विचरित लोकों और संसार में सम्मान को प्राप्त करता है।",
+          "english": "The learned knower of the Veda [who knows] the course of the Moon, the Sun and the stars attains the world of the Moon, the Sun and the stars, and esteem in [this] world.",
+          "hindi": "जो विद्वान वेदज्ञ चन्द्रमा, सूर्य और तारों की गति [जानता है], वह चन्द्रमा, सूर्य और तारों के लोक को, और [इस] लोक में सम्मान को प्राप्त करता है।",
           "status": "translated"
         },
         {
@@ -235,15 +235,15 @@
         {
           "number": 33,
           "text": "तृतीयां नवमीं चैव पौर्णमासीमथासिते ।\nषष्ठि च विषुवान् प्रोक्तो द्वादशीं च समं भवेत्",
-          "english": "The third, the ninth, and the fifteenth (full moon); and in the dark fortnight, the sixth is said to be the equinox, and the twelfth would be equal.",
-          "hindi": "तृतीया, नवमी और पूर्णिमा (शुक्ल पक्ष में); तथा कृष्ण पक्ष में षष्ठी को विषुव कहा गया है, और द्वादशी समान होगी।",
+          "english": "The third, the ninth and the full-moon day, and then in the dark [fortnight] the sixth and the twelfth, are declared the viṣuvant; [then day and night] would be equal.",
+          "hindi": "तृतीया, नवमी और पूर्णिमा, तथा फिर कृष्ण [पक्ष] में षष्ठी और द्वादशी — ये विषुवान् कहे गए हैं; [तब दिन और रात] समान होते हैं।",
           "status": "translated"
         },
         {
           "number": 34,
           "text": "चतुर्दशीमुपवसथस्तथा भवेद्यथोदितो दिवसमुपैति चन्द्रमाः ।\nमघशुक्लाह्निको भुङ्क्ते श्रविष्ठायां च वार्षिकीम्",
-          "english": "The fourteenth is the fasting day, so it happens as the Moon approaches the day as risen. The daytime offering of the bright half of Magha, and the annual one in Dhanistha.",
-          "hindi": "चतुर्दशी उपवास का दिन है। माघ शुक्ल की आह्निकी (दैनिक आहुति) और श्रविष्ठा (धनिष्ठा) में वार्षिकी (वार्षिक आहुति) का विधान है।",
+          "english": "The upavasatha would be on the fourteenth, so that the Moon, as risen, reaches the day [of the full moon]. He who [observes] the day of Magha's [read Māgha's] bright [fortnight] enjoys the annual [offering] in Śraviṣṭhā too. [Literal; the second line is obscure.]",
+          "hindi": "उपवसथ चतुर्दशी को होगा, जिससे उदित चन्द्रमा [पूर्णिमा के] दिन को प्राप्त हो। मघ [माघ पढ़ा गया] शुक्ल के दिन [का पालन करने वाला] श्रविष्ठा में वार्षिकी [आहुति] का भी भोग करता है। [शाब्दिक; दूसरी पंक्ति अस्पष्ट है।]",
           "status": "translated"
         },
         {
@@ -263,5 +263,5 @@
       ]
     }
   ],
-  "status": "translated"
+  "status": "partial"
 }

@@ -49,8 +49,8 @@
         {
           "number": 135,
           "text": "इष्टो बाहुर्यः स्यात्तत्स्पर्धिन्यां दिशीतरो बाहुः। त्र्यस्रे चतुरस्रे वा सा कोटिः कीर्तिता तज्ज्ञैः॥ १३५॥",
-          "english": "In a triangle or quadrilateral, any desired side is called the base (bhuja/bahu), and the side perpendicular to it is called the upright (koti) by experts.",
-          "hindi": "किसी त्रिभुज अथवा चतुर्भुज में, इच्छानुसार मानी गई किसी भी भुजा को 'बाहु' या 'भुज' (आधार) कहते हैं, तथा उस पर लम्बवत् (perpendicular) स्थित दूसरी भुजा को विद्वानों द्वारा 'कोटि' (लम्ब) कहा गया है।",
+          "english": "In a triangle or quadrilateral, whatever side is chosen is the bāhu (base); the other side, in the direction contrary [perpendicular] to it, is called the koṭi (upright) by those who know it.",
+          "hindi": "त्रिभुज अथवा चतुर्भुज में जो इष्ट भुजा है, वह 'बाहु' है; उसकी प्रतिस्पर्धी (लम्बवत्) दिशा में स्थित दूसरी भुजा को उसके जानकार 'कोटि' कहते हैं।",
           "status": "translated"
         },
         {
@@ -71,7 +71,7 @@
           "number": 138,
           "text": "राश्योरन्तरवर्गेण द्विघ्ने घाते युते तयोः। वर्गयोगो भवेदेवं तयोर्योगान्तराहतिः। वर्गान्तरं भवेदेवं ज्ञेयं सर्वत्र धीमता॥१३८॥",
           "english": "Adding twice the product of two quantities to the square of their difference gives the sum of their squares. The product of their sum and difference gives the difference of their squares. Let the wise know this always.",
-          "hindi": "दो राशियों के अन्तर के वर्ग में उनके गुणनफल का दुगुना जोड़ने पर उन दोनों के वर्गों का योग ((a-b)² + 2ab = a² + b²) प्राप्त होता है। इसी प्रकार, उन दोनों के योग तथा अन्तर का गुणनफल उनके वर्गों का अन्तर ((a+b)(a-b) = a² - b²) होता है। बुद्धिमान पुरुष को यह सर्वत्र जानना चाहिए।",
+          "hindi": "दो राशियों के अन्तर के वर्ग में उनके गुणनफल का दुगुना जोड़ने पर उनके वर्गों का योग होता है; इसी प्रकार उनके योग और अन्तर का गुणनफल उनके वर्गों का अन्तर होता है। बुद्धिमान को यह सर्वत्र जानना चाहिए।",
           "status": "translated"
         },
         {
@@ -98,15 +98,15 @@
         {
           "number": 142,
           "text": "इष्टो भुजस्तत्कृतिरिष्टभक्ता द्विः स्थापितेष्टोनयुताऽर्धिता वा। तौ कोटिकर्णाविति कोटितो वा बाहुश्रुती बाऽकरणीगते स्तः॥१४२॥",
-          "english": "Given any base: divide its square by an arbitrary number, place the quotient twice, subtract and add the arbitrary number, and halve both results; these give integral (rational) values for upright and hypotenuse.",
-          "hindi": "किसी इष्ट भुज के वर्ग को अपनी इच्छानुसार चुनी गई इष्ट संख्या से भाग देकर प्राप्त लब्धि को दो स्थानों पर रखें; एक में से इष्ट घटाकर आधा करने पर कोटि तथा दूसरे में इष्ट जोड़कर आधा करने पर कर्ण प्राप्त होता है (ये अपरिमेयता-रहित परिमेय मान होते हैं)।",
+          "english": "Let the base be chosen. Its square, divided by an optional number, is placed twice; diminished by and increased by the optional number, and halved — those two are the upright (koṭi) and hypotenuse (karṇa). Or, from [a given] upright, the base and hypotenuse [are found in the same way]; they are rational (akaraṇīgata).",
+          "hindi": "भुज इष्ट (मनचाहा) मान लें। उसके वर्ग को किसी इष्ट संख्या से भाग देकर दो स्थानों पर रखें; एक में से इष्ट घटाकर और दूसरे में इष्ट जोड़कर आधा करें — वे दोनों क्रमशः कोटि और कर्ण होते हैं। अथवा [दी गई] कोटि से [इसी प्रकार] भुज और कर्ण [निकालें]; ये परिमेय (अकरणीगत) होते हैं।",
           "status": "translated"
         },
         {
           "number": 143,
           "text": "भुजे द्वादशके यौ यौ कोटिकर्णावनेकधा। प्रकाराभ्यां वद क्षिप्रं तौ तावकरणीगतौ॥१४३॥",
-          "english": "Where the base is 12, tell me quickly by various methods all the pairs of integer uprights and hypotenuses that can be formed!",
-          "hindi": "जहाँ भुज १२ (बारह) है, वहाँ विभिन्न प्रकारों से प्राप्त होने वाले अपरिमेयता-रहित (पूर्णांक) कोटि और कर्ण के सभी जोड़ों को हे गणितज्ञ, शीघ्र बताओ!",
+          "english": "Where the base is 12, tell quickly, by the two methods, the rational uprights and hypotenuses, in many ways.",
+          "hindi": "जहाँ भुज १२ है, वहाँ [पूर्वोक्त] दोनों विधियों से अनेक प्रकार के परिमेय (अकरणीगत) कोटि और कर्ण शीघ्र बताओ।",
           "status": "translated"
         },
         {
@@ -154,8 +154,8 @@
         {
           "number": 151,
           "text": "शोध्यं तदर्धप्रमितैः करैः स्याद्बिलाग्रतो व्यालकलापियोगः॥१५१॥",
-          "english": "Subtracting half the distance gives the meeting point of the snake and peacock from the entrance of the hole.",
-          "hindi": "प्रारम्भिक दूरी के आधे परिमाण को कुल दूरी में से घटा देने पर बिल के द्वार से वह दूरी प्राप्त होती है जहाँ सर्प और मयूर का मिलन (पकड़ा जाना) होता है।",
+          "english": "…is to be subtracted [from the snake's distance to the hole]; at cubits measured by half of that is the meeting of the snake and the peacock, [counted] from the front of the hole. [fragment: the first half of the verse is not printed]",
+          "hindi": "…[सर्प की बिल से दूरी में से] घटाना चाहिए; उसके आधे के बराबर हाथों पर, बिल के मुख से, सर्प और मयूर का मिलन होता है। [खण्डित पाठ: श्लोक का पूर्वार्ध मुद्रित नहीं है]",
           "status": "translated"
         },
         {
@@ -175,8 +175,8 @@
         {
           "number": 155,
           "text": "मन्दं मन्दं चलितमनिलेनाऽऽहतं हस्तयुग्मे तस्मिन्मग्नं गणक कथय क्षिप्रमम्भःप्रमाणम्॥१५५॥",
-          "english": "The lotus problem: A lotus blossom 1/2 cubit above water level is pushed by wind and submerged completely at a distance of 2 cubits. O calculator, tell me quickly the depth of the water!",
-          "hindi": "कमल समस्या: जल की सतह से आधा हाथ ऊपर निकला हुआ कमल का पुष्प मन्द पवन के झोंके से झुककर २ हाथ की दूरी पर जल में पूर्णतः निमग्न (डूब) जाता है। हे गणक, जल की गहराई शीघ्र बताओ!",
+          "english": "…moved slowly by the wind, it sank [in the water] at two cubits [distance]. O calculator, tell quickly the depth of the water. [fragment: the first half, giving the lotus's height above the water, is not printed]",
+          "hindi": "…वायु से धीरे-धीरे हिलाया गया वह [कमल] दो हाथ [की दूरी] पर उसमें डूब गया। हे गणक, जल का परिमाण (गहराई) शीघ्र बताओ। [खण्डित पाठ: कमल की जल से ऊँचाई बताने वाला पूर्वार्ध मुद्रित नहीं है]",
           "status": "translated"
         },
         {
@@ -259,8 +259,8 @@
         {
           "number": 169,
           "text": "सर्वदोर्युतिदलं चतुः स्थितं बाहुभिर्विरहितं च तद्वधात्। मूलमरफुटफलं चतुर्भुजे स्पष्टमेवमुदितं त्रिबाहुके॥१६९॥",
-          "english": "Gross area formula (Heron-Brahmagupta): Half the sum of all sides placed in 4 positions, subtracted by each side; square root of product of these four differences is gross area in quadrilateral, exact in cyclic quadrilateral and triangle.",
-          "hindi": "क्षेत्रफल का ब्रह्मगुप्त/हीरोन सूत्र: सभी भुजाओं के योग के आधे (अर्ध-परिमिति s) को चार स्थानों पर रखकर प्रत्येक भुजा से घटाएं; उन चारों अन्तरों के गुणनफल का वर्गमूल चतुर्भुज का स्थूल क्षेत्रफल तथा चक्रीय चतुर्भुज व त्रिभुज का स्पष्ट (सूक्ष्म) क्षेत्रफल होता है।",
+          "english": "Half the sum of all the sides, placed in four places and diminished by the sides [one each]; the square root of their product is the inexact area in a quadrilateral, and is declared exact in a triangle.",
+          "hindi": "सभी भुजाओं के योग का आधा चार स्थानों पर रखकर [प्रत्येक में से क्रमशः एक-एक] भुजा घटाएँ; उनके गुणनफल का वर्गमूल चतुर्भुज में अस्फुट (स्थूल) क्षेत्रफल है, और त्रिभुज में यही स्पष्ट (सटीक) कहा गया है।",
           "status": "translated"
         },
         {
@@ -273,15 +273,15 @@
         {
           "number": 171,
           "text": "प्रसाधितौ तच्छ्रवणौ यदाद्यैः स्वकल्पितौ तावितरत्र न स्तः॥ तेष्वेव बाहुष्वपरौ च कर्णावनेकधा क्षेत्रफलं ततश्च॥१७१॥",
-          "english": "Diagonals determined by ancients are fixed; without diagonals specified, quadrilaterals with same sides can have different diagonals and varying areas.",
-          "hindi": "प्राचीन आचार्यों द्वारा सिद्ध किए गए विकर्ण नियत होते हैं; यदि विकर्ण निर्दिष्ट न हों, तो उन्हीं भुजाओं वाले चतुर्भुज के भिन्न-भिन्न विकर्ण हो सकते हैं और तदनुसार क्षेत्रफल भी अनेक प्रकार का हो सकता है।",
+          "english": "The two diagonals which were worked out by the ancients were assumed by themselves; they do not hold in another case. With those very sides there are other diagonals in many ways, and hence [different] areas.",
+          "hindi": "प्राचीनों ने जिन दो कर्णों को सिद्ध किया था, वे उनके स्वयं कल्पित थे; वे अन्यत्र लागू नहीं होते। उन्हीं भुजाओं के रहते अन्य कर्ण अनेक प्रकार के होते हैं, और उससे क्षेत्रफल भी [अनेक प्रकार का]।",
           "status": "translated"
         },
         {
           "number": 172,
           "text": "इष्टा श्रुतिस्तुल्यचतुर्भुजस्य कल्प्याऽथ तद्वर्गविवर्जिता या। चतुर्गुणा बाहुकृतिस्तदीयं मूलं द्वितीयश्रवणप्रमाणम्॥१७२॥",
           "english": "In an equilateral quadrilateral (rhombus): Choose one diagonal arbitrarily; subtract its square from four times square of side; square root of remainder is second diagonal.",
-          "hindi": "समचतुर्भुज (rhombus) में: प्रथम विकर्ण (इष्ट कर्ण) को स्वेच्छा से मानें; भुजा के वर्ग के चौगुने में से इस प्रथम विकर्ण का वर्ग घटाकर शेष का वर्गमूल लेने पर द्वितीय विकर्ण का मान प्राप्त होता है।",
+          "hindi": "समचतुर्भुज (सभी भुजाएँ समान) में एक कर्ण इष्ट मान लें; भुजा के वर्ग के चौगुने में से उस कर्ण का वर्ग घटाने पर जो बचे, उसका वर्गमूल दूसरे कर्ण का प्रमाण है।",
           "status": "translated"
         },
         {
@@ -308,8 +308,8 @@
         {
           "number": 178,
           "text": "चतुर्भुजान्तस्त्रिभुजेऽवलम्बः प्राग्वद्भुजौ कर्णभुजौ मही भूः॥१७८॥",
-          "english": "Within a quadrilateral divided into triangles, perpendiculars are found as before taking diagonal as base and adjacent sides as triangle sides.",
-          "hindi": "चतुर्भुज के अन्तर्गत विकर्ण से बनने वाले त्रिभुजों में पूर्ववत् नियम से लम्ब निकाला जाता है, जिसमें विकर्ण को आधार (भूमि) तथा पार्श्व भुजाओं को त्रिभुज की भुजाएँ माना जाता है।",
+          "english": "…in a triangle inside the quadrilateral, the perpendicular [is found] as before: the two sides are the diagonal and a side, and the base is the base [of the quadrilateral]. [fragment]",
+          "hindi": "…चतुर्भुज के भीतर के त्रिभुज में लम्ब पूर्ववत् [निकालें]: दोनों भुजाएँ कर्ण और [एक] भुजा हैं, तथा भूमि [चतुर्भुज की] भूमि ही है। [खण्डित पाठ]",
           "status": "translated"
         },
         {
@@ -322,15 +322,15 @@
         {
           "number": 181,
           "text": "इष्टोऽत्र कर्णः प्रथमं प्रकल्प्यस्त्र्यस्रे तु कर्णोभयतः स्थिते ये कर्णं तयोः क्ष्मामितरौ च बाहू प्रकल्प्य लम्बावबधे च साध्ये॥ आबाधयोरेकककुप्स्थयोर्यत्स्यादन्तरं तत्कृतिसंयुतस्य। लम्बैक्यवर्गस्य पदं द्वितीयः कर्णो भवेत्सर्व चतुर्भुजेषु॥ १८१॥",
-          "english": "Assume first diagonal; find altitudes and base segments in adjacent triangles; square root of sum of square of altitude difference/sum and square of base segment difference gives second diagonal in all quadrilaterals.",
-          "hindi": "सर्वप्रथम प्रथम विकर्ण (इष्ट कर्ण) की कल्पना करें; उसके दोनों ओर बने त्रिभुजों में विकर्ण को आधार मानकर लम्ब और आबाधाएँ सिद्ध करें। एक ही ओर स्थित आबाधाओं के अन्तर के वर्ग को लम्बों के योग/अन्तर के वर्ग में जोड़कर वर्गमूल लेने पर सभी चतुर्भुजों में द्वितीय विकर्ण प्राप्त होता है।",
+          "english": "First, an optional diagonal is to be assumed here. In the two triangles lying on both sides of the diagonal, taking the diagonal as base and the other two [sides] as sides, the perpendiculars and segments are to be computed. The difference of the two segments that lie in the same direction, squared and added to the square of the sum of the perpendiculars — the square root is the second diagonal, in all quadrilaterals.",
+          "hindi": "यहाँ पहले एक इष्ट कर्ण की कल्पना करनी चाहिए। कर्ण के दोनों ओर स्थित दोनों त्रिभुजों में कर्ण को भूमि और शेष दोनों को भुजाएँ मानकर लम्ब और आबाधाएँ साधनी चाहिए। एक ही दिशा में स्थित दोनों आबाधाओं के अन्तर का वर्ग, लम्बों के योग के वर्ग में जोड़कर, उसका वर्गमूल सभी चतुर्भुजों में दूसरा कर्ण होता है।",
           "status": "translated"
         },
         {
           "number": 182,
           "text": "कर्णाश्रितस्वल्पभुजैक्यमुर्वीं प्रकल्प्य तच्छेषभुजौ च बाहूं। साध्योऽवलम्बोऽथ तथाऽन्यकर्णः स्वोर्व्याः कथंचिच्छ्रवणो न दीर्घः। तदन्यलम्बान्न लघुस्तथेदं ज्ञात्वेष्टकर्णः सुधिया प्रकल्प्यः॥१८२॥",
-          "english": "Rules for choosing assumed diagonal: diagonal cannot exceed sum of two adjacent sides nor be less than difference of sides; wise mathematician assumes valid diagonal within bounds.",
-          "hindi": "इष्ट विकर्ण के नियम: विकर्ण का मान संलग्न भुजाओं के योग से बड़ा तथा उनके अन्तर से छोटा नहीं हो सकता; यह जानकर धीमान् गणितज्ञ को सीमाओं के भीतर ही इष्ट विकर्ण की कल्पना करनी चाहिए।",
+          "english": "Taking as base the sum of the two smaller sides adjoining a diagonal, and the remaining two sides as sides, the perpendicular is to be computed, and likewise the other diagonal. A diagonal can in no way be longer than its own base [i.e. that sum], nor shorter than the other perpendicular [so obtained]. Knowing this, the wise should assume the optional diagonal.",
+          "hindi": "कर्ण से लगी दोनों छोटी भुजाओं के योग को भूमि तथा शेष दोनों भुजाओं को भुजाएँ मानकर लम्ब साधना चाहिए, और उसी प्रकार दूसरा कर्ण भी। कर्ण अपनी भूमि [अर्थात उस योग] से किसी प्रकार बड़ा नहीं हो सकता, और उस दूसरे लम्ब से छोटा नहीं। यह जानकर बुद्धिमान को इष्ट कर्ण की कल्पना करनी चाहिए।",
           "status": "translated"
         },
         {
@@ -343,8 +343,8 @@
         {
           "number": 184,
           "text": "समानलम्बस्य चतुर्भुजस्य मुखानभूमिं परिकल्प्प भूमिम्। भुजौ भुजौ पत्रवदेव साध्ये तस्याबधे लम्ब मितिस्ततश्व॥१८४॥",
-          "english": "In an isosceles trapezoid: Subtract top from base to get effective base; find altitude and base segments as in a triangle.",
-          "hindi": "समान लम्ब (समलम्ब) वाले चतुर्भुज में: आधार में से मुख (ऊपरी भुजा) घटाकर शेष को प्रभावकारी आधार मानें, और फिर त्रिभुज की भाँति लम्ब तथा आबाधाएँ साधे।",
+          "english": "For a quadrilateral with equal perpendiculars, taking the base diminished by the top as the base, and the [two] sides as sides, the segments and then the measure of the perpendicular are to be found as before [as in a triangle].",
+          "hindi": "समान लम्बों वाले चतुर्भुज में, मुख से घटाई गई भूमि को भूमि मानकर और [दोनों] भुजाओं को भुजाएँ मानकर, पूर्ववत् [त्रिभुज की भाँति] उसकी आबाधाएँ और फिर लम्ब का मान साधना चाहिए।",
           "status": "translated"
         },
         {
@@ -357,8 +357,8 @@
         {
           "number": 187,
           "text": "अतुल्यलम्बकं क्षेत्रमिदं पूर्वैरुदाहृतम्। षट्पञ्चाशत्त्रिषष्टिश्च नियते कर्णयोर्मिती। कर्णौ तत्रापरौ ब्रूहि समलम्बं च तच्छ्रुती॥१८७॥",
-          "english": "This figure with unequal altitudes was given by ancients with diagonals 56 and 63. Tell me the other diagonals and properties if converted to equal-altitude trapezoid!",
-          "hindi": "असमान लम्बों वाली यह आकृति प्राचीन आचार्यों द्वारा ५६ और ६३ विकर्णों के साथ दी गई थी। यदि इसे समान-लम्ब समलम्ब चतुर्भुज में बदला जाए, तो इसके अन्य विकर्णों और लम्बों को बताओ!",
+          "english": "This figure with unequal perpendiculars was given as an example by the predecessors, with the diagonals fixed as 56 and 63. Tell the other diagonals there, and the diagonals of the [figure with] equal perpendiculars.",
+          "hindi": "असमान लम्बों वाला यह क्षेत्र पूर्वाचार्यों ने उदाहरण में दिया है, जिसमें कर्णों के मान ५६ और ६३ नियत किए गए। वहाँ दूसरे कर्ण बताओ, और समान-लम्ब [क्षेत्र] के कर्ण भी।",
           "status": "translated"
         },
         {
@@ -371,15 +371,15 @@
         {
           "number": 189,
           "text": "अभीष्टजात्यद्वयबाहुकोटयः परस्परं कर्णहता भुजा इति। चतुर्भुजं यद्विषमं प्रकल्पितं श्रुती तु तत्र त्रिभुजद्वयात्ततः॥१८९॥",
-          "english": "Method to construct cyclic quadrilateral with rational sides and diagonals using two right triangles.",
-          "hindi": "दो इष्ट समकोण त्रिभुजों के भुज और कोटि को परस्पर दूसरे के कर्ण से गुणा करके परिमेय भुजाओं व विकर्णों वाले चक्रीय चतुर्भुज की रचना करने की विधि।",
+          "english": "The bases and uprights of two chosen right triangles, multiplied mutually by the [other's] hypotenuses, are the sides; the unequal quadrilateral that is so constructed — its diagonals [are found] from the two triangles.",
+          "hindi": "दो इष्ट जात्य (समकोण) त्रिभुजों के भुज और कोटि, परस्पर [दूसरे के] कर्ण से गुणा करने पर, भुजाएँ होती हैं; इस प्रकार कल्पित जो विषम चतुर्भुज है, उसके कर्ण उन दोनों त्रिभुजों से [निकलते हैं]।",
           "status": "translated"
         },
         {
           "number": 192,
           "text": "एका खाष्टयमैः २८० समा तिथि ३१५ गुणैरन्याऽथ तल्लुम्बकौ तुल्यौ गोधृतिभि १८९ स्तथा जिन२२४यमैर्योगाच्छ्रवोलम्बयोः॥ तत्खण्डे कथयाधरे श्रवणयोर्योगाच्च लम्बाबधे तत्सूची निजमार्गवृद्धभुजयोर्योगाद्यथा स्यात्ततः। साबाधं वद लम्बकं च भुजयोः सूच्याः प्रमाणे च के सर्वं गाणितिक प्रचक्ष्व नितरां क्षेत्रेऽत्र दक्षोऽसि चेत्॥१९२॥",
-          "english": "Complex quadrilateral problem with diagonals 280 and 315, altitudes 189 and 224: O mathematician, if you are skilled in geometry, state lower segments of diagonals, altitude of apex triangle (suchi), and side extensions!",
-          "hindi": "जटिल चतुर्भुज समस्या (विकर्ण २८० और ३१५, लम्ब १८९ और २२४): हे गणितज्ञ! यदि तुम रेखागणित में पूर्ण निपुण हो, तो विकर्णों के निचले खण्ड, शीर्ष-त्रिभुज (सूची) का लम्ब तथा extended भुजाओं के परिमाण बताओ!",
+          "english": "One [diagonal] is 280, the other equals 315; their perpendiculars are 189 and 224. From the junction of the diagonals and perpendiculars, tell their lower segments; from the junction of the diagonals, the perpendicular and [base] segments; and from the junction of the sides extended along their own lines, the 'needle' — tell its perpendicular with its segments and the measures of the needle's sides. O mathematician, tell all of it fully, if you are skilled in this figure.",
+          "hindi": "एक [कर्ण] २८० है, दूसरा ३१५ के बराबर; उनके लम्ब १८९ और २२४ हैं। कर्णों और लम्बों के संगम से उनके निचले खण्ड बताओ; कर्णों के संगम से लम्ब और [भूमि के] खण्ड; तथा अपनी ही रेखा में बढ़ाई गई भुजाओं के संगम से बनी 'सूची' का लम्ब आबाधाओं सहित और सूची की भुजाओं के मान बताओ। हे गणितज्ञ, यदि तुम इस क्षेत्र में दक्ष हो, तो सब पूरा-पूरा बताओ।",
           "status": "translated"
         },
         {
@@ -392,8 +392,8 @@
         {
           "number": 194,
           "text": "संधिर्द्विष्ठः परलम्बश्रवणहतः परस्य पीठेन। भक्तो लम्बश्रुत्योर्योगात्स्यातामधः खण्डे॥१९४॥",
-          "english": "Formula for lower segments of intersection of diagonals using sandhi, opposite altitude, hypotenuse, and pittha.",
-          "hindi": "संधि को दो स्थानों पर रखकर दूसरे लम्ब और विकर्ण से गुणा करें तथा दूसरे के पीठ से भाग दें; लम्बों व विकर्णों के योग के अनुपात से विकर्णों के निचले खण्ड प्राप्त होते हैं।",
+          "english": "The sandhi, placed in two places, multiplied by the other's perpendicular and [the other's] diagonal [respectively], and divided by the other's pīṭha, gives the lower segments [of the perpendicular and of the diagonal] from the junction of perpendicular and diagonal.",
+          "hindi": "संधि को दो स्थानों पर रखकर, दूसरे के लम्ब और [दूसरे के] कर्ण से [क्रमशः] गुणा करके, दूसरे के पीठ से भाग दें; तो लम्ब और कर्ण के संगम से [लम्ब और कर्ण के] निचले खण्ड प्राप्त होते हैं।",
           "status": "translated"
         },
         {
@@ -406,8 +406,8 @@
         {
           "number": 196,
           "text": "लम्बौ १८९।२२४। भू ३०० घ्नौ जातौ ५६७००।६७२००। स्वस्वपीठाभ्यां २५२।१६८ भक्तौ। एवमत्र लब्धौ वंशौ २२५।४००। आभ्यामन्योन्यमूलाग्रगसूत्रयोगादित्यादिकरणेन लब्धः कर्णयोगादधोलम्बः १४४। भूखण्डे च १०८।१९२। अथ सूच्याबाधालम्बभुजज्ञानार्थं सूत्रं वृत्तत्रयम्। लम्बहृतो निजसंधिः परलम्बगुणः समाह्वयो ज्ञेयः। समपरसंध्योरैक्यं हारस्तेनोद्धृतौ तौ च॥१९६॥",
-          "english": "Numerical evaluation of the complex quadrilateral: altitudes 189 and 224, base 300; yields effective bamboo heights 225 and 400, intersection height 144, ground segments 108 and 192, and apex rules.",
-          "hindi": "जटिल चतुर्भुज की संख्यात्मक गणना: लम्ब १८९ व २२४, आधार ३००; जिससे प्रभावी खंभे २२५ व ४००, प्रतिच्छेदन लम्ब १४४, भू-खण्ड १०८ व १९२, तथा शीर्ष-त्रिभुज (सूची) के नियम प्राप्त होते हैं।",
+          "english": "The perpendiculars 189, 224, multiplied by the base 300, became 56700, 67200; divided by their own pīṭhas 252, 168, the bamboos obtained here are 225, 400. From these, by the rule 'from the junction of threads from root to tip of each other' etc., the lower perpendicular from the junction of diagonals is 144, and the ground segments 108, 192. Now a rule in three verses for knowing the needle's segments, perpendicular and sides: One's own sandhi, divided by [one's own] perpendicular and multiplied by the other perpendicular, is to be known as the 'sama'. The sum of the sama and the other sandhi is the divisor; by it both [are divided].",
+          "hindi": "लम्ब १८९, २२४ को भूमि ३०० से गुणा करने पर ५६७००, ६७२०० हुए; इन्हें अपने-अपने पीठ २५२, १६८ से भाग देने पर यहाँ वंश २२५, ४०० प्राप्त हुए। इनसे 'एक-दूसरे के मूल से अग्र तक के सूत्रों के संगम' इत्यादि विधि से कर्णों के संगम से निचला लम्ब १४४ और भू-खण्ड १०८, १९२ प्राप्त हुए। अब सूची की आबाधा, लम्ब और भुजाएँ जानने के लिए तीन श्लोकों का सूत्र: अपनी संधि को [अपने] लम्ब से भाग देकर दूसरे लम्ब से गुणा करें, उसे 'सम' जानना चाहिए। सम और दूसरी संधि का योग भाजक (हार) है; उससे दोनों [को भाग दिया जाता है]।",
           "status": "translated"
         },
         {
@@ -441,8 +441,8 @@
         {
           "number": 201,
           "text": "गोलस्यैवं तदपि च फलं पृष्ठजं व्यासनिघ्नं षड्भिर्भक्तं भवति नियतं गोलगर्भे घनाख्यम्॥२०१॥",
-          "english": "Surface area of a sphere multiplied by diameter and divided by 6 gives the exact volume (solid content) of the sphere.",
-          "hindi": "गोले के पृष्ठ-क्षेत्रफल को उसके व्यास से गुणा करके ६ से भाग देने पर गोले का घनफल (आयतन / solid volume) नियत रूप से प्राप्त होता है।",
+          "english": "…In this way too [is found] the surface area of the sphere; and that surface area, multiplied by the diameter and divided by six, is definitely the volume (ghana) inside the sphere. [fragment: the first half of the verse is not printed]",
+          "hindi": "इसी प्रकार गोले का भी [पृष्ठ-]फल होता है; और पृष्ठ-फल को व्यास से गुणा करके छह से भाग देने पर गोले के भीतर का घनफल नियत रूप से होता है। [खण्डित पाठ: श्लोक का पूर्वार्ध मुद्रित नहीं है]",
           "status": "translated"
         },
         {
@@ -455,15 +455,15 @@
         {
           "number": 203,
           "text": "व्यासस्य वर्गे भनवाग्निनिघ्ने सूक्ष्मं फलं पञ्चसहस्रभक्ते। रुद्राहृते शक्रहृतेऽथवा स्यात्स्थूलं फलं तद्व्यवहारयोग्यम्॥ घनीकृतव्यासदलं निजैकविंशांशयुग्गोलघनं फलं स्यात्॥२०३॥",
-          "english": "Accurate circle area: square of diameter multiplied by 3927 and divided by 5000 (π ≈ 3.1416). Volume of sphere: cube of radius plus 1/21 part of itself.",
-          "hindi": "वृत्त का सूक्ष्म (सटीक) क्षेत्रफल व्यास के वर्ग को ३९२७ से गुणा करके ५००० से भाग देने पर प्राप्त होता है (जहाँ π ≈ ३.१४१६)। व्यास के वर्ग को ११ (रुद्र) से गुणा कर १४ (शक्र) से भाग देने पर व्यावहारिक (स्थूल) क्षेत्रफल प्राप्त होता है। गोल (गोले) का घनफल (आयतन) त्रिज्या के घन में उसी के २१वें भाग (१/२१) को जोड़ने से प्राप्त होता है।",
+          "english": "When the square of the diameter is multiplied by 3927 (bha-nava-agni = 27, 9, 3 → digits reversed 3927) and divided by 5000, the exact area [of the circle] results; or, divided by 14 (śakra) after [multiplying] by 11 (rudra), the gross area fit for practice. Half of the cubed diameter, increased by its own twenty-first part, is the volume of the sphere.",
+          "hindi": "व्यास के वर्ग को ३९२७ (भ-नव-अग्नि = २७, ९, ३ → उलटे क्रम में ३९२७) से गुणा करके ५००० से भाग देने पर [वृत्त का] सूक्ष्म क्षेत्रफल होता है; अथवा ११ (रुद्र) से गुणा करके १४ (शक्र) से भाग देने पर व्यवहार-योग्य स्थूल क्षेत्रफल। व्यास के घन का आधा, अपने इक्कीसवें भाग से युक्त, गोले का घनफल होता है।",
           "status": "translated"
         },
         {
           "number": 204,
           "text": "ज्याव्यासयोगान्तरघातमूलं व्यासस्तदूनो दलितः शरः स्यात्। व्यासाच्छरोनाच्छरसंगुणाच्च मूलं द्विनिघ्नं भवतीह जीवा। जीवार्धवर्गे शरभक्तयुक्ते व्यासप्रमाणं प्रवदन्ति वृत्ते॥२०४॥",
-          "english": "Circle segment relations: arrow (shara/versine), chord (jiva), and diameter relations derived via right-triangle relationships in a circle.",
-          "hindi": "वृत्त में: (१) व्यास और जीवा के योग तथा अंतर के गुणनफल का वर्गमूल लेकर उसे व्यास में से घटाकर आधा करने पर शर (बाण/उत्क्रमज्या) प्राप्त होता है। (२) व्यास में से शर घटाकर उसे शर से गुणा करने पर प्राप्त गुणनफल के वर्गमूल को दो से गुणा करने पर जीवा (प्रत्यञ्चा) बनती है। (३) जीवा के आधे के वर्ग को शर से भाग देकर उसमें शर जोड़ने पर वृत्त का व्यास प्रमाण प्राप्त होता है।",
+          "english": "The square root of the product of the sum and difference of the chord and diameter; the diameter diminished by that, halved, is the arrow (śara). From the diameter diminished by the arrow and multiplied by the arrow, the square root, doubled, is here the chord (jīvā). When the square of the half-chord, divided by the arrow, is increased [by the arrow], they declare it the measure of the diameter in the circle.",
+          "hindi": "जीवा और व्यास के योग और अन्तर के गुणनफल का वर्गमूल; उससे घटाया गया व्यास, आधा करने पर, शर होता है। शर से घटाए गए और शर से गुणा किए गए व्यास का वर्गमूल, दुगुना करने पर, यहाँ जीवा होती है। आधी जीवा के वर्ग को शर से भाग देकर [शर] जोड़ने पर वृत्त में व्यास का प्रमाण कहते हैं।",
           "status": "translated"
         },
         {
@@ -504,8 +504,8 @@
         {
           "number": 212,
           "text": "अथ चापानयनाय करणसूत्रं वृत्तम्। व्यासाब्धिघातयुतमौर्विकया विभक्तो जीवाङ्घ्रिपञ्चगुणितः परिधेस्तु वर्गः। लब्धोनितात्परिधिवर्गचतुर्थभागात् आप्ते पदे वृतिदलात्पतिते धनुः स्यात्॥२१२॥",
-          "english": "Bhaskara's sine approximation formula inverted for arc length: Arc corresponding to a given chord in a circle.",
-          "hindi": "चाप आनयन का सूत्र: जीवा के चौथाई को ५ से गुणा कर वृत्त के परिधि के वर्ग से गुणा करें और उसमें व्यास के ४ गुने को जीवा से विभाजित कर प्राप्त मान जोड़ें। इस प्रकार प्राप्त लब्धि को परिधि के वर्ग के चौथे भाग से घटाकर वर्गमूल निकालें, और उसे अर्ध-परिधि से घटाने पर इष्ट चाप (धनुष) का मान प्राप्त होता है।",
+          "english": "Now a verse giving the rule for finding the arc. The square of the circumference, multiplied by five times a quarter of the chord, is divided by the chord added to the product of the diameter and four. The square root of a quarter of the square of the circumference diminished by that quotient, subtracted from half the circumference, is the arc.",
+          "hindi": "अब चाप निकालने का सूत्र-श्लोक। परिधि के वर्ग को जीवा के चौथाई के पाँच गुने से गुणा करके, व्यास और चार के गुणनफल में जीवा जोड़कर बने [योग] से भाग दें। परिधि के वर्ग के चौथे भाग में से यह लब्धि घटाकर उसका वर्गमूल लें; उसे आधी परिधि में से घटाने पर चाप (धनुष) होता है।",
           "status": "translated"
         },
         {
@@ -532,8 +532,8 @@
         {
           "number": 217,
           "text": "ली०वि०—मैक्यं षड्भिर्भक्तं सत्समं क्षेत्रफलं समखातफलं भवति। तदेव समखातफलं वेधगुणितं सद्घनफलं भवति। समखातफलत्र्यंशस्तृतीयोऽशः सूचीखाते फलं भवति॥२१७॥",
-          "english": "Pond volumes rule: Mean area times depth gives volume for uniform pit; 1/3 of uniform pit volume gives volume for frustum/conical pit.",
-          "hindi": "खाते के आयतन का नियम: मुख और तल के क्षेत्रफलों तथा उनके औसत क्षेत्रफल का योग करके ६ से भाग देने पर सम-क्षेत्रफल मिलता है। इस सम-क्षेत्रफल को गहराई से गुणा करने पर समखात का घनफल (सटीक आयतन) प्राप्त होता है। सूचीखात (शंकु रूप या सीढ़ीदार गड्ढे) के लिए इस प्रकार प्राप्त घनफल का तिहाई (१/३) भाग घनफल होता है।",
+          "english": "[Commentary] …the sum divided by six becomes the mean area, the area of the uniform excavation. That uniform-excavation area, multiplied by the depth, becomes the volume. One third of [the volume of] the uniform excavation is the result for a needle-shaped (pointed) excavation.",
+          "hindi": "[टीका] …योग को छह से भाग देने पर सम क्षेत्रफल, समखात का क्षेत्रफल होता है। वही समखात-क्षेत्रफल गहराई से गुणा करने पर घनफल होता है। समखात-फल का तीसरा भाग सूचीखात (नुकीले गड्ढे) का फल होता है।",
           "status": "translated"
         },
         {
@@ -553,8 +553,8 @@
         {
           "number": 221,
           "text": "अष्टादशाङ्गुलं दैर्घ्यं विस्तारो द्वादशाङ्गुलः। उच्छ्रितिस्त्र्यङ्गुला यासामिष्टकास्ताश्चितौ किल॥२२१॥",
-          "english": "For bricks of length 18 inches, width 12 inches, and height 3 inches: calculate total bricks and layers in given wall dimensions!",
-          "hindi": "जिस चिति (दीवार) में १८ अंगुल लंबी, १२ अंगुल चौड़ी तथा ३ अंगुल ऊँची ईंटें लगी हैं, उस दीवार में कुल ईंटों की संख्या तथा परतों (स्तरों) की संख्या की गणना करो!",
+          "english": "Bricks whose length is 18 aṅgulas, breadth 12 aṅgulas, and height 3 aṅgulas, [are] in the pile.",
+          "hindi": "जिन ईंटों की लम्बाई १८ अंगुल, चौड़ाई १२ अंगुल और ऊँचाई ३ अंगुल है, वे चिति में [लगी] हैं।",
           "status": "translated"
         },
         {
@@ -567,8 +567,8 @@
         {
           "number": 226,
           "text": "यद्विस्तृतीर्दन्तमिताङ्गुलानि पिण्डस्तथा षोडश यत्र काष्ठे। छेदेषु तिर्यङ्नवसु प्रचक्ष्व किं स्यात्फलं तत्र करात्मकं मे॥२२६॥",
-          "english": "Sawing timber (krakacha): Timber width 32 inches, thickness 16 inches, with 9 cross cuts: tell me the total sawed area in square cubits!",
-          "hindi": "आरा-व्यवहार (काष्ठ-छेदन): जिस लकड़ी की चौड़ाई ३२ (दन्त) अंगुल तथा मोटाई (पिण्ड) १६ अंगुल है, उसमें ९ तिरछे (अनुप्रस्थ) कट लगाने पर चीरे गए कुल क्षेत्रफल का मान वर्ग-हाथ (करात्मक) में मुझे बताओ!",
+          "english": "In a timber whose breadth is 32 (danta) aṅgulas and thickness 16 [aṅgulas], tell me what the result in [square] hastas will be for nine cross cuts.",
+          "hindi": "जिस लकड़ी की चौड़ाई ३२ (दन्त) अंगुल और मोटाई (पिण्ड) १६ [अंगुल] है, उसमें नौ तिरछे कटों में [वर्ग] हाथों में फल क्या होगा, मुझे बताओ।",
           "status": "translated"
         },
         {
@@ -588,8 +588,8 @@
         {
           "number": 229,
           "text": "अथ भित्त्यन्तर्बाह्यकोण संलग्नराशिप्रमाणानयनकरणसूत्रं वृत्तम्। द्विवेदसत्रिभागैकनिघ्नात्तु परिधेः फलम्। भित्त्यन्तर्बाह्यकोणस्थराशेः स्वगुणभाजितम्॥२२९॥",
-          "english": "Grain heaps against walls or in inside/outside corners: modify circumference by factors (2, 4, 1 1/3) according to wall contact position.",
-          "hindi": "दीवार के सहारे, अंदरूनी कोने में या बाहरी कोने में रखी अन्न राशि का आयतन: दीवार से लगी राशि की दृश्य परिधि को २ से, अंदरूनी कोने की परिधि को ४ से, तथा बाहरी कोने की परिधि को १ १/३ से गुणा करके पूर्ण परिधि बनाकर पूर्ववत् घनफल (आयतन) निकालें।",
+          "english": "Now a verse giving the rule for the measure of heaps lying against a wall, in an inside corner and at an outside corner. The circumference, multiplied by 2, 4, and 1⅓ [respectively, for the heap against a wall, in an inside corner, and at an outside corner, gives the full circumference]; the result [computed from it], divided by its own multiplier, [is the volume].",
+          "hindi": "अब दीवार से सटी, भीतरी कोने में और बाहरी कोने में स्थित राशियों का माप निकालने का सूत्र-श्लोक। परिधि को [क्रमशः] २, ४ और १⅓ से गुणा करें; [उससे निकाला गया] फल अपने ही गुणक से भाग देने पर, दीवार, भीतरी कोने और बाहरी कोने में स्थित राशि का [घनफल होता है]।",
           "status": "translated"
         },
         {
@@ -609,8 +609,8 @@
         {
           "number": 232,
           "text": "छाययोः कर्णयोरन्तरे ये तयोर्वर्गविश्लेषभक्ता रसाद्रीषवः। सैकलब्धेः पदघ्नं तु कर्णान्तरं भान्तरेणोनयुक्तं दले स्तः प्रभे॥२३२॥",
-          "english": "Shadow problems (Chhaya-vyavahara): Double shadow method for finding gnomon height and shadow length from two shadow hypotenuses.",
-          "hindi": "छाया-व्यवहार (द्वि-छाया द्वारा शंकु एवं छाया आनयन): दो छाया-कर्णों के अंतर से दोनों कर्णों के वर्गों के अंतर को भाग दें तथा प्राप्त फल को ५७६ (रसाद्रीषव) से भाग दें। प्राप्त लब्धि में १ जोड़कर वर्गमूल लें और उसे कर्णों के अंतर से गुणा करें। इस गुणनफल में छायाओं के अंतर को घटाकर/जोड़कर आधा करने पर दोनों छायाओं के मान प्राप्त होते हैं।",
+          "english": "Whatever are the differences of the two shadows and of the two hypotenuses — 576 (rasa-adri-iṣu = 6, 7, 5 → 576) divided by the difference of their squares; the difference of the hypotenuses, multiplied by the square root of [that] quotient plus one, diminished and increased by the difference of the shadows, and halved — these are the two shadows.",
+          "hindi": "दोनों छायाओं और दोनों कर्णों के जो अन्तर हैं, उनके वर्गों के अन्तर से ५७६ (रस-अद्रि-इषु = ६, ७, ५ → ५७६) को भाग दें; [उस] लब्धि में एक जोड़कर उसके वर्गमूल से कर्णों के अन्तर को गुणा करें, फिर छायाओं के अन्तर से घटाकर और जोड़कर आधा करें — ये दोनों छायाएँ हैं।",
           "status": "translated"
         },
         {
@@ -630,8 +630,8 @@
         {
           "number": 235,
           "text": "शङ्कुप्रदीपान्तरभूस्त्रिहस्ता दीपोच्छ्रितः सार्धकरत्रया चेत्। शङ्कोस्तदाऽर्काङ्गुलसंमितस्य तस्य प्रभा स्यात्कियती वदाऽऽशु॥२३५॥",
-          "english": "Distance between lamp and gnomon is 3 cubits, lamp height is 3 1/2 cubits, gnomon height is 12 inches (1/2 cubit). Tell me quickly the length of the shadow!",
-          "hindi": "यदि शंकु और दीपक के बीच की दूरी ३ हाथ है, दीपक की ऊँचाई ३.५ (साढ़े तीन) हाथ है, तथा शंकु की ऊँचाई १२ अंगुल (आधा हाथ) है, तो उस शंकु की छाया कितनी लंबी होगी, शीघ्र बताओ!",
+          "english": "If the ground between the gnomon and the lamp is 3 hastas, the lamp's height 3½ hastas, then for a gnomon measuring 12 (arka) aṅgulas [= ½ hasta], how long will its shadow be? Tell quickly.",
+          "hindi": "यदि शंकु और दीपक के बीच की भूमि ३ हाथ हो और दीपक की ऊँचाई साढ़े तीन हाथ हो, तो १२ (अर्क) अंगुल [= आधा हाथ] के शंकु की छाया कितनी होगी? शीघ्र बताओ।",
           "status": "translated"
         },
         {
@@ -644,8 +644,8 @@
         {
           "number": 237,
           "text": "प्रदीपशङ्कन्तरभूस्त्रिहस्ता छायाङ्गुलैः षोडशभिः समा चेत्। दीपोच्छ्रितः स्यात् कियती वदाऽऽशु प्रदीपशङ्क्वन्तरमुच्यतां मे॥२३७॥",
-          "english": "Where distance is 3 cubits and shadow is 16 inches: state quickly the lamp height and distance parameters!",
-          "hindi": "यदि दीप और शंकु के बीच की भूमि की दूरी ३ हाथ हो और छाया १६ अंगुल के बराबर हो, तो बताओ कि दीपक की ऊँचाई कितनी है तथा दीप-शंकु अंतर कितना है!",
+          "english": "If the ground between the lamp and the gnomon is 3 hastas and the shadow equals 16 aṅgulas, tell quickly how high the lamp is; and let the distance between lamp and gnomon be told to me [in the converse case].",
+          "hindi": "यदि दीपक और शंकु के बीच की भूमि ३ हाथ हो और छाया १६ अंगुल के बराबर हो, तो दीपक की ऊँचाई कितनी है, शीघ्र बताओ; और [विपरीत स्थिति में] दीप-शंकु का अन्तर मुझे बताया जाए।",
           "status": "translated"
         },
         {
@@ -658,8 +658,8 @@
         {
           "number": 239,
           "text": "भूशङ्कुघातः प्रभया विभक्तः प्रजायते दीपशिखौच्च्यमेवम्। त्रैराशिकेनैव यदेतदुक्तं व्याप्तं स्वभेदैर्हरिणेव विश्वम्॥२३९॥",
-          "english": "Product of ground distance and gnomon height divided by shadow length yields lamp light height; all this is pervaded by Rule of Three just as Lord Vishnu pervades the universe!",
-          "hindi": "भूमि-अंतर तथा शंकु की ऊँचाई के गुणनफल को छाया से भाग देने पर दीपशिखा की (शंकु से ऊपर) ऊँचाई प्राप्त होती है। यह सब त्रैराशिक नियम (Rule of Three) द्वारा ही सिद्ध होता है, जो अपने विविध रूपों से संपूर्ण गणित में वैसे ही व्याप्त है जैसे भगवान् श्रीहरि (विष्णु) संपूर्ण जगत् में व्याप्त हैं!",
+          "english": "The product of the ground [between lamp and gnomon] and the gnomon, divided by the shadow, thus gives the height of the lamp-flame [above the gnomon]. What has been stated here is by the rule of three alone, which pervades [mathematics] with its varieties as Hari pervades the universe.",
+          "hindi": "भूमि (दीप-शंकु अन्तर) और शंकु के गुणनफल को छाया से भाग देने पर इसी प्रकार दीपशिखा की ऊँचाई [शंकु से ऊपर] प्राप्त होती है। यह जो कहा गया है वह त्रैराशिक से ही है, जो अपने भेदों से [गणित में] वैसे ही व्याप्त है जैसे हरि से विश्व।",
           "status": "translated"
         },
         {
@@ -672,15 +672,15 @@
         {
           "number": 242,
           "text": "अथ कुट्टके करणसूत्रं वृत्तपञ्चकम्। भाज्यो हारः क्षेपकश्चापवर्त्यः केनाप्यादौ संभवे कुट्टकार्थम्। येन च्छिन्नौ भाज्यहारौ न तेन क्षेपश्चैतदुष्टमुद्दिष्टमेव॥२४२॥",
-          "english": "Pulverizer method (Kuttaka for linear indeterminate equation ax + c = by): Dividend (a), divisor (b), and additive (c) should first be reduced by any common factor. If dividend and divisor share a factor that does not divide the additive, the problem is defective.",
-          "hindi": "कुट्टक विधि (रैखिक अनिर्धार्य समीकरण ax + c = by): सर्वप्रथम भाज्य (a), भाजक (b) तथा क्षेपक (c) को किसी समान अपवर्तक (गुणनखंड) से अपवर्तित (छोटा) करें। यदि भाज्य और भाजक में कोई उभयनिष्ठ गुणनखंड हो जो क्षेपक को विभाजित न करता हो, तो वह प्रश्न दुष्ट (असंगत/हल-हीन) माना जाता है।",
+          "english": "Now the rule for the kuṭṭaka (pulverizer), in five verses. For the kuṭṭaka, the dividend, divisor and additive should first be reduced by some [common] number, if possible. If the dividend and divisor are divisible by a number by which the additive is not, the problem is declared defective (duṣṭa).",
+          "hindi": "अब कुट्टक का पाँच श्लोकों का सूत्र। कुट्टक के लिए भाज्य, भाजक और क्षेपक को, सम्भव हो तो, पहले किसी [समान] संख्या से अपवर्तित करना चाहिए। जिस संख्या से भाज्य और भाजक दोनों कटते हैं किन्तु क्षेपक नहीं, वह प्रश्न दुष्ट (असंगत) कहा गया है।",
           "status": "translated"
         },
         {
           "number": 243,
           "text": "परस्परं भाजितयोर्ययोर्यः शेषस्तयोः स्यादपवर्तनं सः। तेनापवर्तेन विभाजितौ यौ तौ भाज्यहारौ दृढसंज्ञितौ स्तः॥२४३॥",
           "english": "The last non-zero remainder in mutual division of dividend and divisor is their greatest common divisor (GCD). Divided by GCD, dividend and divisor become prime to each other (dridha / co-prime).",
-          "hindi": "भाज्य तथा भाजक का परस्पर भाग (महत्तम समापवर्तक - GCD) देने पर जो अंतिम अवशेष (शेष) बचता है, वही अपवर्तन (GCD) कहलाता है। उस अपवर्तन से विभाजित करने पर भाज्य और भाजक 'दृढ' (सह-अभाज्य / co-prime) बन जाते हैं।",
+          "hindi": "जिन दो संख्याओं को परस्पर भाग देने पर जो [अन्तिम] शेष बचता है, वह उनका अपवर्तन (समापवर्तक) होता है। उस अपवर्तन से भाग दिए गए भाज्य और भाजक 'दृढ' कहलाते हैं।",
           "status": "translated"
         },
         {
@@ -693,8 +693,8 @@
         {
           "number": 245,
           "text": "स्वोर्ध्वे हतेऽन्त्येन युते तदन्त्यं त्यजेन्मुहुः स्यादिति राशियुग्मम्। ऊर्ध्वो विभाज्येन दृढेन तष्टः फलं गुणः स्यादधरो हरेण॥२४५॥",
-          "english": "Multiply number above bottom by bottom, add number below, discard bottom; repeat until two numbers remain. Upper number reduced by dividend gives multiplier (x), lower reduced by divisor gives quotient (y).",
-          "hindi": "नीचे की संख्या से उसके ठीक ऊपर की संख्या को गुणा करके उसमें सबसे नीचे की संख्या जोड़ें तथा अंतिम संख्या को छोड़ दें। यही प्रक्रिया बार-बार दोहराने पर दो राशियाँ बचेंगी। ऊपर की राशि को दृढ भाज्य से तष्ट (भाग देकर शेष) करने पर गुणक (गुण) और नीचे की राशि को दृढ भाजक से तष्ट करने पर लब्धि प्राप्त होती है।",
+          "english": "When [the penultimate] is multiplied by the number above it and the last is added, discard the last; [do this] repeatedly — thus a pair of numbers [remains]. The upper, abraded by the reduced dividend, is the quotient (phala); the lower, abraded by the [reduced] divisor, is the multiplier (guṇa).",
+          "hindi": "[उपान्तिम संख्या] को उसके ऊपर की संख्या से गुणा करके उसमें अन्तिम संख्या जोड़ने पर अन्तिम को छोड़ दें; ऐसा बार-बार [करने पर] दो राशियाँ [बचती हैं]। ऊपर वाली राशि को दृढ भाज्य से तष्ट करने पर लब्धि (फल), और नीचे वाली को [दृढ] भाजक से तष्ट करने पर गुणक होता है।",
           "status": "translated"
         },
         {
@@ -707,8 +707,8 @@
         {
           "number": 248,
           "text": "कुट्टकान्तरे करणसूत्रं वृत्तम्। भवति कुट्टविधेर्युतिभाज्ययोः समपवर्तितयोरपि वा गुणः। भवति यो युतिभाजकयोः पुनः स च भवेदपवर्तन संगुणः॥२४८॥",
-          "english": "Kuttaka rule for simplified cases: Multipliers and quotients obtained from reduced equations are transformed back by multiplying by common factors.",
-          "hindi": "अपवर्तित कुट्टक नियम: यदि भाज्य, भाजक और क्षेपक को अपवर्तित करके हल निकाला गया है, तो प्राप्त मूल गुणक और लब्धि को अपवर्तन से गुणा करके वास्तविक हल प्राप्त किया जाता है।",
+          "english": "Another verse-rule for kuṭṭaka. When the additive and dividend are reduced by a common factor, the multiplier from the kuṭṭaka is the same; but the one [obtained when] the additive and divisor [are reduced] is to be multiplied by the reducing factor.",
+          "hindi": "कुट्टक में दूसरा सूत्र-श्लोक। क्षेपक और भाज्य को समान अपवर्तक से अपवर्तित करने पर भी कुट्टक-विधि से प्राप्त गुणक वही रहता है; किन्तु क्षेपक और भाजक [को अपवर्तित करने] पर जो गुणक मिलता है, उसे अपवर्तन से गुणा करना चाहिए।",
           "status": "translated"
         },
         {
@@ -735,8 +735,8 @@
         {
           "number": 252,
           "text": "कुट्टकान्तरे करणसूत्रं सार्धवृत्तम्। गुणलब्ध्योः समं ग्राह्यं धीमता तक्षणे फलम्। हरतष्टे धनक्षेपे गुणलब्धी तु पूर्ववत्। क्षेपतक्षणलाभाढ्या लब्धिः शुद्धौ तु वर्जिता॥२५२॥",
-          "english": "Kuttaka rule when additive exceeds divisor: Divide additive by divisor; apply basic Kuttaka to remainder, then adjust quotient by adding/subtracting integer quotient of additive.",
-          "hindi": "यदि क्षेपक भाजक से बड़ा हो: क्षेपक में भाजक का भाग देकर शेष क्षेपक से कुट्टक करें। उससे प्राप्त लब्धि में क्षेपक के भागफल को जोड़ें (योगज में) अथवा घटाएँ (वियोगज में) जिससे शुद्ध लब्धि और गुणक प्राप्त हों।",
+          "english": "Another rule, in a verse and a half. In abrading, the wise should take the same quotient for both the multiplier and the quotient. When the additive is abraded by the divisor, for a positive additive the multiplier and quotient [are found] as before; the quotient is increased by the quotient got from abrading the additive, but in the subtractive case diminished [by it].",
+          "hindi": "कुट्टक में डेढ़ श्लोक का दूसरा सूत्र। तक्षण में बुद्धिमान को गुणक और लब्धि दोनों के लिए समान फल (भागफल) लेना चाहिए। क्षेपक को भाजक से तष्ट करने पर, धन-क्षेपक में गुणक और लब्धि पूर्ववत् [निकालें]; लब्धि में क्षेपक के तक्षण से प्राप्त भागफल जोड़ें, किन्तु ऋण-क्षेपक में घटाएँ।",
           "status": "translated"
         },
         {
@@ -770,15 +770,15 @@
         {
           "number": 257,
           "text": "हा १५ ७ अत्र गुणाप्ती ७।८ एते इष्टक्षेपेण पञ्चकेन गुणिते स्वस्वहाराभ्यां तष्टे ।१ च जाते ५।६। अथ रूपशुद्धौ गुणाप्ती ८।९ एते पञ्चगुणिते स्वस्वहारतष्टे ० च जाते गुणाप्ती १०।११। एवं सर्वत्र॥२५७॥",
-          "english": "Demonstration of multiple solutions: Initial solutions (7, 8) adjusted by arbitrary integer multipliers yield alternative pairs such as (5, 6) or (10, 11) universally.",
-          "hindi": "अनेक हलों का उदाहरण: प्रारंभिक हल (७, ८) को किसी इच्छित गुणांक ५ से गुणा कर अपने-अपने भाजकों से तष्ट करने पर क्रमशः (५, ६) अथवा (१०, ११) आदि अनेक हल प्राप्त होते हैं। यही सर्वत्र नियम है।",
+          "english": "[Commentary; example data as printed: 'हा १५ ७'] Here the multiplier and quotient are 7, 8. These, multiplied by the optional additive five and abraded by their own divisors, became 5, 6 [printed '।१ च', reading uncertain]. Now for subtractive unity the multiplier and quotient are 8, 9; these, multiplied by five and abraded by their own divisors, became the multiplier and quotient 10, 11. So everywhere.",
+          "hindi": "[टीका; उदाहरण के आँकड़े यथामुद्रित: 'हा १५ ७'] यहाँ गुणक और लब्धि ७, ८ हैं। इन्हें इष्ट क्षेपक पाँच से गुणा करके अपने-अपने भाजकों से तष्ट करने पर ५, ६ हुए [मुद्रित '।१ च', पाठ अनिश्चित]। अब ऋण-रूप (एक घटाने) में गुणक और लब्धि ८, ९ हैं; इन्हें पाँच से गुणा करके अपने-अपने भाजकों से तष्ट करने पर गुणक और लब्धि १०, ११ हुए। इसी प्रकार सर्वत्र।",
           "status": "translated"
         },
         {
           "number": 258,
           "text": "तज्जं फलं स्युर्विकला गुणस्तु लिप्ताग्रमस्माच्च कला लवाग्रम्। एवं तदूर्ध्वं च तथाधिमासावमाग्रकाभ्यां दिवसा रवीन्दोः॥२५८॥",
-          "english": "Astronomical application of Kuttaka: Finding elapsed days, Rashis, degrees, minutes, and seconds of Surya and Chandra from residue of seconds (vikalagrha) and intercalary days.",
-          "hindi": "ग्रहगणित में कुट्टक का प्रयोग: विकला-शेष से कुट्टक द्वारा विकला (सेकंड), कला (मिनट), अंश (डिग्री), तथा राशि के मान और अहर्गण (बीते दिन) ज्ञात किए जाते हैं। इसी प्रकार अधिमास-शेष और अवम-शेष से सूर्य और चन्द्रमा के अहर्गण निकाले जाते हैं।",
+          "english": "The quotient arising from it [the kuṭṭaka on the remainder of seconds] is the seconds (vikalā), and the multiplier is the remainder of minutes (liptā); from this, the minutes and the remainder of degrees; and so upward. Likewise, from the remainders of the intercalary months (adhimāsa) and omitted days (avama), the days [elapsed] for the Sun and Moon.",
+          "hindi": "उस [विकला-शेष के कुट्टक] से उत्पन्न लब्धि विकलाएँ होती हैं, और गुणक लिप्ता (कला) का शेष; इससे कलाएँ और अंश का शेष; इसी प्रकार ऊपर तक। वैसे ही अधिमास-शेष और अवम-शेष से सूर्य और चन्द्रमा के [बीते] दिन [निकलते हैं]।",
           "status": "translated"
         },
         {
@@ -798,15 +798,15 @@
         {
           "number": 261,
           "text": "द्विकाष्टकाभ्यां त्रिनवाष्टकैर्वा निरन्तरं द्व्यादिनवावसानैः। संख्याविभेदाः कति संभवन्ति तत्संख्यैकैक्यानि पृथग्वदाऽऽशु॥२६१॥",
-          "english": "Combinatorics / Permutations (Anka-pasha): How many distinct numbers can be formed using digits 2 to 8, 3 to 9, or 2 to 9 sequentially? State quickly the total count and sum of all numbers!",
-          "hindi": "अंकपाश (क्रमचय एवं संचय): २ से ८ तक, ३ से ९ तक, या २ से ९ तक के निरंतर अंकों का प्रयोग करके कुल कितनी विभिन्न संख्याएँ बन सकती हैं? तथा उन सभी निर्मित संख्याओं का कुल योग कितना होगा, शीघ्र पृथक्-पृथक् बताओ!",
+          "english": "With 2 and 8; or with 3, 9 and 8; or with [the digits] in succession from 2 ending with 9 — how many varieties of numbers are possible? Tell quickly, separately, the sums of those numbers.",
+          "hindi": "२ और ८ से; अथवा ३, ९ और ८ से; अथवा २ से आरम्भ करके ९ तक लगातार [अंकों] से — संख्याओं के कितने भेद सम्भव हैं? उन संख्याओं के योग भी पृथक्-पृथक् शीघ्र बताओ।",
           "status": "translated"
         },
         {
           "number": 263,
           "text": "पाशाङ्कुशाहिडमरूककपालशूलैः खट्वाङ्गशक्तिशरचापयुतैर्भवन्ति। अन्योन्यहस्तकलितैः कति मूर्तिभेदाः शंभोर्हरेरिव गदारिसरोजशङ्खैः॥२६३॥",
-          "english": "Permutations of deity attributes: Shiva holds 10 attributes (noose, hook, serpent, drum, skull, trident, bedstead-leg, dagger, arrow, bow). How many distinct forms of Shiva can be held? How many for Vishnu with 4 attributes (mace, discus, lotus, conch)?",
-          "hindi": "देवताओं के आयुधों के क्रमचय: भगवान् शिव के १० हाथों में १० आयुध (पाश, अंकुश, सर्प, डमरू, कपाल, शूल, खट्वांग, शक्ति, बाण, धनुष) अलग-अलग हाथों में धारण करने से शिवजी की कितनी विभिन्न मूर्तियाँ (रूप) बन सकती हैं? तथा भगवान् विष्णु के ४ हाथों में ४ आयुध (गदा, चक्र, पद्म, शंख) धारण करने से विष्णुजी के कितने रूप बनते हैं?",
+          "english": "With noose, goad, serpent, ḍamaru, skull, trident, khaṭvāṅga, spear (śakti), arrow and bow, held interchanged among the hands, how many variations of Śambhu's image arise — as of Hari's with mace, discus, lotus and conch?",
+          "hindi": "पाश, अंकुश, सर्प, डमरू, कपाल, शूल, खट्वांग, शक्ति, बाण और धनुष को हाथों में परस्पर बदल-बदल कर धारण करने से शम्भु (शिव) की मूर्ति के कितने भेद होते हैं — जैसे गदा, चक्र, कमल और शंख से हरि (विष्णु) के?",
           "status": "translated"
         },
         {
@@ -840,8 +840,8 @@
         {
           "number": 269,
           "text": "निरेकमङ्कैक्यमिदं निरेकस्थानान्तमेकापचितं विभक्तम्। रूपादिभिस्तन्निहतैः समाः स्युः संख्याविभेदा नियतेऽङ्कःयोगे॥ नवान्वितस्थानकसंख्यकाया ऊनेऽङ्कयोगे कथितं तु वेद्यम्। संक्षिप्तमुक्तं पृथुताभयेन नान्तोऽस्ति यस्माद्गणितार्णवस्य॥ २६९॥",
-          "english": "Combinations with given digit sum: Combinations formula for fixed digit sum n in k places = C(n-1, k-1). Stated briefly for fear of length, as the ocean of mathematics has no end!",
-          "hindi": "निश्चित अंक-योग की संख्याएँ: दिए गए अंक-योग n में से १ घटाकर (n-1) तथा स्थानों k में से १ घटाकर (k-1) का संयोजन C(n-1, k-1) निकालने से निर्मित संख्याओं के भेद प्राप्त होते हैं। ग्रन्थ-विस्तार के भय से इसे संक्षेप में कहा गया है, क्योंकि गणित रूपी समुद्र का कोई अंत नहीं है!",
+          "english": "The digit-sum less one, [taken in factors] decreasing by one up to [as many terms as] the number of places less one, divided by [factors] beginning with one, and multiplied together — these are equal to the number varieties when the digit-sum is fixed. This is to be known [as valid] when the digit-sum is less than the number of places increased by nine. It is stated briefly for fear of length, since there is no end to the ocean of mathematics.",
+          "hindi": "अंक-योग में से एक घटाकर, [उसके गुणनखण्ड] एक-एक घटाते हुए स्थान-संख्या में से एक घटाने [जितने पदों] तक लें, उन्हें एक आदि से भाग देकर परस्पर गुणा करें — अंक-योग नियत होने पर ये संख्या-भेदों के बराबर होते हैं। यह तब जानना चाहिए जब अंक-योग, नौ जोड़ी गई स्थान-संख्या से कम हो। विस्तार के भय से संक्षेप में कहा गया है, क्योंकि गणित रूपी समुद्र का अन्त नहीं है।",
           "status": "translated"
         },
         {
@@ -854,8 +854,8 @@
         {
           "number": 271,
           "text": "अत्राङ्कैक्यं १३। निरेकं १२ एतन्निरेकस्थानान्तमेकापचितमेकादिभिश्च भक्तं जातं १२। ११।१०।९। १ २ ३ ४ एषां घातैः समा जाताः संख्याभेदाः ४९५। न गुणो न हरो न कृतिर्न धनः पृष्टस्तथाऽपि दुष्टानाम्। गर्वितगणकवटूनां स्यात्पातोऽवश्यमङ्कपाशेऽस्मिन्॥२७१॥",
-          "english": "Digit sum 13 in 5 places: (12×11×10×9)/(1×2×3×4) = 495 combinations. Arrogant mathematicians who boast of multiplication and square root will surely stumble upon this chapter on digit combinations (Anka-pasha)!",
-          "hindi": "५ स्थानों में अंक-योग १३ के लिए: (१२ × ११ × १० × ९) / (१ × २ × ३ × ४) = ४पि५ भेद। जो घमंडी गणितज्ञ केवल गुणा, भाग, वर्ग तथा घन का ज्ञान रखकर अहंकार करते हैं, वे इस अंकपाश (क्रमचय-संचय) के कठिन प्रश्नों में अवश्य पराजित (पतित) होते हैं!",
+          "english": "Here the digit-sum is 13; less one, 12. This, decreasing by one up to [the number of] places less one, and divided by one etc., became 12, 11, 10, 9 over 1, 2, 3, 4; equal to their products [i.e. (12·11·10·9)/(1·2·3·4)] are the number varieties, 495. No multiplier, no divisor, no square, no cube is asked; even so, the fall of wicked, arrogant boy-calculators is certain in this aṅkapāśa.",
+          "hindi": "यहाँ अंक-योग १३ है; एक घटाने पर १२। इसे स्थान-संख्या में से एक घटाने तक एक-एक घटाकर और एक आदि से भाग देने पर १२, ११, १०, ९ बटा १, २, ३, ४ हुए; इनके गुणनफलों [(१२·११·१०·९)/(१·२·३·४)] के बराबर संख्या-भेद ४९५ हुए। न गुणक पूछा गया, न भाजक, न वर्ग, न घन; फिर भी दुष्ट, घमण्डी बालक-गणकों का इस अंकपाश में पतन अवश्य होता है।",
           "status": "translated"
         },
         {
