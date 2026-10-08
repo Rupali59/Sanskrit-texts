@@ -35,12 +35,12 @@ sources:
         why: "TEXT_ID_TO_PATH restates corpus paths; a recategorisation or rename breaks --missing for every affected text"
         kind: code
       - path: CLAUDE.md
-        why: "The text_id registry table. Corrected 2026-08-19 — the old why called it \"the copy
-          that rots\", which was true when written and is not now: the table was rewritten to defer
-          on paths (\"INVENTORY is the manifest and wins on paths\") and to carry only what INVENTORY
-          does not — text_id, shloka counts, translation state. The edge stays because those counts
-          are re-derived from the same JSON INVENTORY describes, so a corpus change still has to
-          reach both; it is a complement to keep in step, no longer a duplicate to delete."
+        why: "CLAUDE.md §text_id registry names INVENTORY.md as THE registry and says what it
+          holds — every text's text_id, path, chapter and shloka counts, translation state. A
+          change to what INVENTORY carries must reach that sentence. History: until 2026-08-19
+          CLAUDE.md held a copy of the table ('the copy that rots'), then a complement that
+          deferred on paths; since the 2026-10-03 trim it holds no table at all, only the
+          pointer, so this edge now guards a description rather than a duplicate."
         kind: prose
     concepts:
       "§Corpus":
